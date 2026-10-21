@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Akallabêth and other Tolkien works (album)"
 ---
 
-Redirect to [Akallabêth and other Tolkien works (album)](/wiki/Akallabêth_and_other_Tolkien_works_(album)).
+Redirect to [Akallabêth and other Tolkien works (album)](<Akallabêth_and_other_Tolkien_works_(album).md>).

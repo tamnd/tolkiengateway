@@ -1,6 +1,5 @@
 ---
 title: "File:Kip Rasmussen - Orome Hunts the Monsters of Morgoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kip Rasmussen - Orome Hunts the Monsters of Morgoth.jpg</span>"
 page_id: 51322
 namespace: 6
 revision_id: 277542
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Kip Rasmussen</li>
 <li><b>Website:</b> <a class="external free" href="http://kiprasmussen.deviantart.com/" rel="noreferrer noopener" target="_blank">http://kiprasmussen.deviantart.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Kip_Rasmussen" title="Tolkien Gateway:Copyrights/Kip Rasmussen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKip_Rasmussen.md" title="Tolkien Gateway:Copyrights/Kip Rasmussen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

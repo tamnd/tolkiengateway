@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Qenyaqetsa"
 ---
 
-Redirect to [Qenyaqetsa](/wiki/Qenyaqetsa).
+Redirect to [Qenyaqetsa](Qenyaqetsa.md).

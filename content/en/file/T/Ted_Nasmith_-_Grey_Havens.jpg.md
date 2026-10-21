@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Departure at the Grey Havens.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Departure at the Grey Havens.jpg](/wiki/File:Ted_Nasmith_-_Departure_at_the_Grey_Havens.jpg).
+Redirect to [File:Ted Nasmith - Departure at the Grey Havens.jpg](Ted_Nasmith_-_Departure_at_the_Grey_Havens.jpg.md).

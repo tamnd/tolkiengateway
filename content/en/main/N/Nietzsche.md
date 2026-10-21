@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Friedrich Nietzsche"
 ---
 
-Redirect to [Friedrich Nietzsche](/wiki/Friedrich_Nietzsche).
+Redirect to [Friedrich Nietzsche](../F/Friedrich_Nietzsche.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valwë"
 ---
 
-Redirect to [Valwë](/wiki/Valwë).
+Redirect to [Valwë](Valwë.md).

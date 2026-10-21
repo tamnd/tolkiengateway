@@ -1,6 +1,5 @@
 ---
 title: "Britt G. Hallqvist"
-display_title: "<span class=\"mw-page-title-main\">Britt G. Hallqvist</span>"
 page_id: 26457
 namespace: 0
 revision_id: 252610
@@ -24,17 +23,17 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Britt_G._Hallqvist"
 ---
 
-**Britt G. Hallqvist** ([February 14](/wiki/14_February "14 February"), [1914](/wiki/1914) - [March 20](/wiki/20_March "20 March"), [1997](/wiki/1997)) was a Swedish author and translator.
+**Britt G. Hallqvist** ([February 14](../_/14_February.md), [1914](../_/1914.md) - [March 20](../_/20_March.md), [1997](../_/1997.md)) was a Swedish author and translator.
 
-In [1962](/wiki/1962), she did the second Swedish translation of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Hobbit](/wiki/The_Hobbit)* (*Bilbo - En hobbits äventyr* \["Bilbo: An Hobbit's Adventures"\]; illustrated by [Tove Jansson](/wiki/Tove_Jansson)).
+In [1962](../_/1962.md), she did the second Swedish translation of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Hobbit](../T/The_Hobbit.md)* (*Bilbo - En hobbits äventyr* \["Bilbo: An Hobbit's Adventures"\]; illustrated by [Tove Jansson](../T/Tove_Jansson.md)).
 
-In [1972](/wiki/1972), she translated Tolkien's *[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)* (*Sagan om Smeden och stjärnan* \["The Tale of the Smith and the Star"\]).
+In [1972](../_/1972.md), she translated Tolkien's *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (*Sagan om Smeden och stjärnan* \["The Tale of the Smith and the Star"\]).
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="/wiki/Index:Writings_by_J.R.R._Tolkien" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="/wiki/Roland_Adlerberth" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="/wiki/Erik_Andersson" title="Erik Andersson">Erik Andersson</a></b> · <b><a class="mw-selflink selflink">Britt G. Hallqvist</a></b> · <b><a href="/wiki/%C3%96jevind_L%C3%A5ng" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="/wiki/%C3%85ke_Ohlmarks" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="/wiki/Tore_Zetterholm" title="Tore Zetterholm">Tore Zetterholm</a></b>
+<td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="../E/Erik_Andersson.md" title="Erik Andersson">Erik Andersson</a></b> · <b><a class="mw-selflink selflink">Britt G. Hallqvist</a></b> · <b><a href="../_/Öjevind_Lång.md" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></b>
 </td></tr>
 </tbody></table>

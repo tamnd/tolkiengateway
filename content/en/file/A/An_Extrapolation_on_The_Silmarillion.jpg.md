@@ -1,6 +1,5 @@
 ---
 title: "File:An Extrapolation on The Silmarillion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">An Extrapolation on The Silmarillion.jpg</span>"
 page_id: 28985
 namespace: 6
 revision_id: 213963

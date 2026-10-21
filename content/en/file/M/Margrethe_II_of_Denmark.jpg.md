@@ -1,6 +1,5 @@
 ---
 title: "File:Margrethe II of Denmark.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Margrethe II of Denmark.jpg</span>"
 page_id: 26393
 namespace: 6
 revision_id: 249265

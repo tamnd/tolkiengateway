@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úmarth"
 ---
 
-Redirect to [Úmarth](/wiki/Úmarth).
+Redirect to [Úmarth](../_/Úmarth.md).

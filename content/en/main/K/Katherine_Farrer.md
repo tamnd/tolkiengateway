@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Katharine Farrer"
 ---
 
-Redirect to [Katharine Farrer](/wiki/Katharine_Farrer).
+Redirect to [Katharine Farrer](Katharine_Farrer.md).

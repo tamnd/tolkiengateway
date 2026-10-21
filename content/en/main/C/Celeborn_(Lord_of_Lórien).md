@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celeborn"
 ---
 
-Redirect to [Celeborn](/wiki/Celeborn).
+Redirect to [Celeborn](Celeborn.md).

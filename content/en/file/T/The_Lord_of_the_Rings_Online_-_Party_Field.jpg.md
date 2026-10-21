@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Party Field.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Party Field.jpg</span>"
 page_id: 64696
 namespace: 6
 revision_id: 372557

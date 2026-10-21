@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gollum's lake"
 ---
 
-Redirect to [Gollum's lake](/wiki/Gollum's_lake).
+Redirect to [Gollum's lake](Gollum's_lake.md).

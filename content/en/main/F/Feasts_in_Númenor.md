@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three Prayers"
 ---
 
-Redirect to [Three Prayers](/wiki/Three_Prayers).
+Redirect to [Three Prayers](../T/Three_Prayers.md).

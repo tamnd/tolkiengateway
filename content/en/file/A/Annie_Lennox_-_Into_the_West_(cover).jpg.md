@@ -1,6 +1,5 @@
 ---
 title: "File:Annie Lennox - Into the West (cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Annie Lennox - Into the West (cover).jpg</span>"
 page_id: 11615
 namespace: 6
 revision_id: 74651
@@ -24,7 +23,7 @@ file:
   user: "Hyarion"
 ---
 
-Cover of [Annie Lennox](/wiki/Annie_Lennox)' *[Into the West](/wiki/Into_the_West)*.
+Cover of [Annie Lennox](../../main/A/Annie_Lennox.md)' *[Into the West](../../main/I/Into_the_West.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

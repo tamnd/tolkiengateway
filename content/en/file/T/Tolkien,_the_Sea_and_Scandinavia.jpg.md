@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien, the Sea and Scandinavia.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien, the Sea and Scandinavia.jpg</span>"
 page_id: 46955
 namespace: 6
 revision_id: 249363

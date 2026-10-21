@@ -11,4 +11,4 @@ redirect_target: "When winter first begins to bite"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [When winter first begins to bite](/wiki/When_winter_first_begins_to_bite#Other_versions_of_the_legendarium).
+Redirect to [When winter first begins to bite](../W/When_winter_first_begins_to_bite.md#Other_versions_of_the_legendarium).

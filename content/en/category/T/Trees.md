@@ -1,6 +1,5 @@
 ---
 title: "Category:Trees"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Trees</span>"
 page_id: 5145
 namespace: 14
 revision_id: 22774
@@ -13,4 +12,4 @@ categories:
   - "Plants"
 ---
 
-Below is an alphabetical list of [Trees](/wiki/Trees) found in [Arda](/wiki/Arda).
+Below is an alphabetical list of [Trees](../../main/T/Trees.md) found in [Arda](../../main/A/Arda.md).

@@ -1,6 +1,5 @@
 ---
 title: "Marion E. Wade Center"
-display_title: "<span class=\"mw-page-title-main\">Marion E. Wade Center</span>"
 page_id: 37904
 namespace: 0
 revision_id: 183252
@@ -14,9 +13,9 @@ categories:
   - "Academic institutions in the United States"
 ---
 
-The **Marion E. Wade Center** is a research collection of materials at <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton_College_(Illinois)" title="wikipedia:Wheaton College (Illinois)">Wheaton College, Illinois</a>, by and about seven British authors: [Owen Barfield](/wiki/Owen_Barfield), <a class="extiw" href="http://en.wikipedia.org/wiki/G._K._Chesterton" title="wikipedia:G. K. Chesterton">G.K. Chesterton</a>, [C.S. Lewis](/wiki/C.S._Lewis), [George MacDonald](/wiki/George_MacDonald), <a class="extiw" href="http://en.wikipedia.org/wiki/Dorothy_L._Sayers" title="wikipedia:Dorothy L. Sayers">Dorothy L. Sayers</a>, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), and [Charles Williams](/wiki/Charles_Williams).
+The **Marion E. Wade Center** is a research collection of materials at <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton_College_(Illinois)" title="wikipedia:Wheaton College (Illinois)">Wheaton College, Illinois</a>, by and about seven British authors: [Owen Barfield](../O/Owen_Barfield.md), <a class="extiw" href="http://en.wikipedia.org/wiki/G._K._Chesterton" title="wikipedia:G. K. Chesterton">G.K. Chesterton</a>, [C.S. Lewis](../C/C.S._Lewis.md), [George MacDonald](../G/George_MacDonald.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Dorothy_L._Sayers" title="wikipedia:Dorothy L. Sayers">Dorothy L. Sayers</a>, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), and [Charles Williams](../C/Charles_Williams.md).
 
-The Marion E. Wade Center publishes the journal *[SEVEN: An Anglo-American Literary Review](/wiki/SEVEN "SEVEN")*.
+The Marion E. Wade Center publishes the journal *[SEVEN: An Anglo-American Literary Review](../S/SEVEN.md)*.
 
 ## External links {#External_links}
 

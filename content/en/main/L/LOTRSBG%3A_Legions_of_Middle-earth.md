@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legions of Middle-earth"
 ---
 
-Redirect to [Legions of Middle-earth](/wiki/Legions_of_Middle-earth).
+Redirect to [Legions of Middle-earth](Legions_of_Middle-earth.md).

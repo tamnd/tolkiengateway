@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Balrog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Balrog.jpg</span>"
 page_id: 67959
 namespace: 6
 revision_id: 437071
@@ -31,19 +30,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Balrog.jpg</span></th>
 <td class="description">
-<p>While presumably initially intended to depict <a href="/wiki/Durin%27s_Bane" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, it was used to depict the Balrog <a href="/wiki/Durlach" title="Durlach">Durlach</a> in <a href="/wiki/Dream_Cards#Morgoth&#39;s_Legacy" title="Dream Cards">Morgoth&#39;s Legacy</a>, a fan-made expansion set for the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
+<p>While presumably initially intended to depict <a href="../../main/D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>, it was used to depict the Balrog <a href="../../main/D/Durlach.md" title="Durlach">Durlach</a> in <a href="../../main/D/Dream_Cards.md#Morgoth&#39;s_Legacy" title="Dream Cards">Morgoth&#39;s Legacy</a>, a fan-made expansion set for the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Stephen Walsh</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -53,4 +47,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

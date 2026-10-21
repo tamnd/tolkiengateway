@@ -1,6 +1,5 @@
 ---
 title: "File:KuraiGeijutsu - Fingon to the Rescue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">KuraiGeijutsu - Fingon to the Rescue.jpg</span>"
 page_id: 57582
 namespace: 6
 revision_id: 317060
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> KuraiGeijutsu</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/kuraigeijutsu" rel="noreferrer noopener" target="_blank">KuraiGeijutsu on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/KuraiGeijutsu" title="Tolkien Gateway:Copyrights/KuraiGeijutsu">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKuraiGeijutsu.md" title="Tolkien Gateway:Copyrights/KuraiGeijutsu">Permission for use on Tolkien Gateway</a></b></li></ul></div>

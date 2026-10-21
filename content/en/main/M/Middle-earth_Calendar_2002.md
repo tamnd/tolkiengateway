@@ -15,9 +15,9 @@ images:
   - "Middle-earth_Calendar_2002.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Middle-earth_Calendar_2002.jpg"><img src="/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/300px-Middle-earth_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/450px-Middle-earth_Calendar_2002.jpg 1.5x, /w/images/e/eb/Middle-earth_Calendar_2002.jpg 2x" data-file-width="490" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_2002.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/300px-Middle-earth_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/450px-Middle-earth_Calendar_2002.jpg 1.5x, https://tolkiengateway.net/w/images/e/eb/Middle-earth_Calendar_2002.jpg 2x" data-file-width="490" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Middle-earth Calendar 2002** was produced by the [Finnish Tolkien Society](/wiki/Finnish_Tolkien_Society) and contains illustrations by various artists.
+**Middle-earth Calendar 2002** was produced by the [Finnish Tolkien Society](../F/Finnish_Tolkien_Society.md) and contains illustrations by various artists.
 
 - Dimensions: 11 5/8 x 8.25 inches
 - Stapled

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shire"
 ---
 
-Redirect to [The Shire](/wiki/The_Shire).
+Redirect to [The Shire](The_Shire.md).

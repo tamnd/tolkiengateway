@@ -1,6 +1,5 @@
 ---
 title: "File:Merp Raiders of Cardolan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merp Raiders of Cardolan.jpg</span>"
 page_id: 29216
 namespace: 6
 revision_id: 350694

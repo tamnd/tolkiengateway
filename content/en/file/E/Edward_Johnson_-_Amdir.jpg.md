@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Johnson - Amdir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Johnson - Amdir.jpg</span>"
 page_id: 29908
 namespace: 6
 revision_id: 204975
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Amdír](/wiki/Amd%C3%ADr), by Edward Johnson. From the [MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing") book *[Elves](</wiki/Elves_(book)> "Elves (book)")*
+[Amdír](../../main/A/Amdír.md), by Edward Johnson. From the [MERP](../../main/M/Middle-earth_Role_Playing.md) book *[Elves](<../../main/E/Elves_(book).md>)*
 
 ## Licensing {#Licensing}
 

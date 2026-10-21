@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Guard"
 ---
 
-Redirect to [Dark Guard](/wiki/Dark_Guard).
+Redirect to [Dark Guard](../D/Dark_Guard.md).

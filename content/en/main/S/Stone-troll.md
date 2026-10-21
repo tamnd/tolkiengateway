@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone-trolls"
 ---
 
-Redirect to [Stone-trolls](/wiki/Stone-trolls).
+Redirect to [Stone-trolls](Stone-trolls.md).

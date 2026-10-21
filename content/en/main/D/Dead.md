@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dead (disambiguation)"
 ---
 
-Redirect to [Dead (disambiguation)](/wiki/Dead_(disambiguation)).
+Redirect to [Dead (disambiguation)](<Dead_(disambiguation).md>).

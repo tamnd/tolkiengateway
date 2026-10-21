@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Heir of Isildur"
 ---
 
-Redirect to [Heir of Isildur](/wiki/Heir_of_Isildur).
+Redirect to [Heir of Isildur](../H/Heir_of_Isildur.md).

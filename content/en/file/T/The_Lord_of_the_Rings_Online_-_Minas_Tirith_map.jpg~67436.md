@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings Online - Minas Tirith Map.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings Online - Minas Tirith Map.jpg](/wiki/File:The_Lord_of_the_Rings_Online_-_Minas_Tirith_Map.jpg).
+Redirect to [File:The Lord of the Rings Online - Minas Tirith Map.jpg](The_Lord_of_the_Rings_Online_-_Minas_Tirith_Map.jpg.md).

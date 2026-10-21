@@ -1,6 +1,5 @@
 ---
 title: "File:Middle Earth Map - Mapome - No label.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle Earth Map - Mapome - No label.svg</span>"
 page_id: 67404
 namespace: 6
 revision_id: 391670

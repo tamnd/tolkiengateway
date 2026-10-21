@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Two Towers-Master Peregrin's Plan Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Two Towers-Master Peregrin&#039;s Plan Scene.jpg</span>"
 page_id: 75194
 namespace: 6
 revision_id: 442721

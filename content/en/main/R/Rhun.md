@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhûn"
 ---
 
-Redirect to [Rhûn](/wiki/Rhûn).
+Redirect to [Rhûn](Rhûn.md).

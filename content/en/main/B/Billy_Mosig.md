@@ -1,6 +1,5 @@
 ---
 title: "Billy Mosig"
-display_title: "<span class=\"mw-page-title-main\">Billy Mosig</span>"
 page_id: 18703
 namespace: 0
 revision_id: 116623
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Mosig, Billy"
 ---
 
-**Billy Mosig** is a Mexican artist who made many fantasy inspired paintings. View his [gallery](/wiki/Category:Images_by_Billy_Mosig "Category:Images by Billy Mosig").
+**Billy Mosig** is a Mexican artist who made many fantasy inspired paintings. View his [gallery](../../category/I/Images_by_Billy_Mosig.md).
 
 ## External links {#External_links}
 

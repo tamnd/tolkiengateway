@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Sea"
 ---
 
-Redirect to [East Sea](/wiki/East_Sea).
+Redirect to [East Sea](East_Sea.md).

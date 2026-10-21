@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Manwë.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Manwë.png</span>"
 page_id: 74471
 namespace: 6
 revision_id: 438544
@@ -31,21 +30,17 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Manwë.png</span></th>
 <td class="description">
-<blockquote><p><a href="/wiki/Manw%C3%AB" title="Manwë">Manwe</a> looking <a href="/wiki/Hawks" title="Hawks">hawk</a> like, influenced by Icelandic and Finnish Sagas, full of bird motifs. #<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">#Tolkien</a> <a href="/wiki/The_Silmarillion" title="The Silmarillion">#TheSilmarillion</a></p></blockquote>
+<blockquote><p><a href="../../main/M/Manwë.md" title="Manwë">Manwe</a> looking <a href="../../main/H/Hawks.md" title="Hawks">hawk</a> like, influenced by Icelandic and Finnish Sagas, full of bird motifs. #<a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">#Tolkien</a> <a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">#TheSilmarillion</a></p></blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/StephenGraWalsh/status/751509500604055552" rel="noreferrer noopener" target="_blank">https://x.com/StephenGraWalsh/status/751509500604055552</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -53,4 +48,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

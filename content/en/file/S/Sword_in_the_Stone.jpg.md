@@ -1,6 +1,5 @@
 ---
 title: "File:Sword in the Stone.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sword in the Stone.jpg</span>"
 page_id: 33117
 namespace: 6
 revision_id: 214608

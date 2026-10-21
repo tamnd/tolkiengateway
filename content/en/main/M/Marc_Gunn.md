@@ -1,6 +1,5 @@
 ---
 title: "Marc Gunn"
-display_title: "<span class=\"mw-page-title-main\">Marc Gunn</span>"
 page_id: 68865
 namespace: 0
 revision_id: 423918
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Gunn, Marc"
 ---
 
-**Marc Gunn** is a Santa Ana, California-based musician and former member of the [Brobdingnagian Bards](/wiki/Brobdingnagian_Bards). Gunn has written several songs inspired by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien"), including 2011's <a class="new" href="/w/index.php?title=Don%27t_Go_Drinking_With_Hobbits&amp;action=edit&amp;redlink=1" title="Don&#39;t Go Drinking With Hobbits (page does not exist)">Don&#39;t Go Drinking With Hobbits</a>, an album of hobbit drinking songs. Many of the songs on that album were co-written with fantasy author Rie Sheridan Rose.
+**Marc Gunn** is a Santa Ana, California-based musician and former member of the [Brobdingnagian Bards](../B/Brobdingnagian_Bards.md). Gunn has written several songs inspired by [Tolkien](../J/J.R.R._Tolkien.md), including 2011's <a class="new" href="https://tolkiengateway.net/w/index.php?title=Don%27t_Go_Drinking_With_Hobbits&amp;action=edit&amp;redlink=1" title="Don&#39;t Go Drinking With Hobbits (page does not exist)">Don&#39;t Go Drinking With Hobbits</a>, an album of hobbit drinking songs. Many of the songs on that album were co-written with fantasy author Rie Sheridan Rose.
 
 ## External links {#External_links}
 

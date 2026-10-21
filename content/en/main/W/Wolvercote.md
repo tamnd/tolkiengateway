@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolvercote Cemetery"
 ---
 
-Redirect to [Wolvercote Cemetery](/wiki/Wolvercote_Cemetery).
+Redirect to [Wolvercote Cemetery](Wolvercote_Cemetery.md).

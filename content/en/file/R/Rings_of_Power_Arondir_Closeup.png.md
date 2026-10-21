@@ -1,6 +1,5 @@
 ---
 title: "File:Rings of Power Arondir Closeup.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rings of Power Arondir Closeup.png</span>"
 page_id: 68883
 namespace: 6
 revision_id: 413325

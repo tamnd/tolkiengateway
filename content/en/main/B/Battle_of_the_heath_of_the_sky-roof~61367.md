@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Heath of the Sky-roof"
 ---
 
-Redirect to [Battle of the Heath of the Sky-roof](/wiki/Battle_of_the_Heath_of_the_Sky-roof).
+Redirect to [Battle of the Heath of the Sky-roof](Battle_of_the_Heath_of_the_Sky-roof.md).

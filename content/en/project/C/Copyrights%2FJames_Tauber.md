@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/James Tauber"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/James Tauber</span>"
 page_id: 68259
 namespace: 4
 revision_id: 401491
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tauber, James"
 ---
 
-- [James Tauber](/wiki/James_Tauber) has kindly granted permission to use this image on Tolkien Gateway.
-- Date: [July 12th](/wiki/July_12 "July 12"), [2024](/wiki/2024)
+- [James Tauber](../../main/J/James_Tauber.md) has kindly granted permission to use this image on Tolkien Gateway.
+- Date: [July 12th](../../main/J/July_12.md), [2024](../../main/_/2024.md)
 - User who sought the permission via Discord: \[\[User:Hyarion\]

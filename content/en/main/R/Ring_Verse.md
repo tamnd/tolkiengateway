@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring-inscription"
 ---
 
-Redirect to [Ring-inscription](/wiki/Ring-inscription).
+Redirect to [Ring-inscription](Ring-inscription.md).

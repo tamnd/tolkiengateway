@@ -1,6 +1,5 @@
 ---
 title: "File:Aurelien Hubert - Bodyguard of Bolg.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aurelien Hubert - Bodyguard of Bolg.jpg</span>"
 page_id: 71774
 namespace: 6
 revision_id: 427760
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bodyguard of Bolg](/wiki/Bodyguard_of_Bolg) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Hobbit*: *On the Doorstep* illustration by Aurelien Hubert
+[Bodyguard of Bolg](../../main/B/Bodyguard_of_Bolg.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Hobbit*: *On the Doorstep* illustration by Aurelien Hubert
 
 ## Licensing {#Licensing}
 

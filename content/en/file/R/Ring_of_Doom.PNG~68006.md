@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ring of Doom.png"
 ---
 
-Redirect to [File:Ring of Doom.png](/wiki/File:Ring_of_Doom.png).
+Redirect to [File:Ring of Doom.png](Ring_of_Doom.png.md).

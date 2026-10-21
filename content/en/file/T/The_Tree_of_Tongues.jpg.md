@@ -1,6 +1,5 @@
 ---
 title: "File:The Tree of Tongues.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tree of Tongues.jpg</span>"
 page_id: 63457
 namespace: 6
 revision_id: 370034

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Audio recordings of J.R.R. Tolkien"
 ---
 
-Redirect to [Index:Audio recordings of J.R.R. Tolkien](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien).
+Redirect to [Index:Audio recordings of J.R.R. Tolkien](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md).

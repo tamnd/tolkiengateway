@@ -1,6 +1,5 @@
 ---
 title: "Category:Adûnaic words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Adûnaic words</span>"
 page_id: 10337
 namespace: 14
 revision_id: 288506
@@ -24,4 +23,4 @@ langlinks:
     url: "https://kontu.wiki/Luokka:Ad%C3%BBnaicin_sanasto"
 ---
 
-This category includes all [Adûnaic](/wiki/Ad%C3%BBnaic) words and their definitions.
+This category includes all [Adûnaic](../../main/A/Adûnaic.md) words and their definitions.

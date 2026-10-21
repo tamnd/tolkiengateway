@@ -1,6 +1,5 @@
 ---
 title: "Jamieson Price"
-display_title: "<span class=\"mw-page-title-main\">Jamieson Price</span>"
 page_id: 19453
 namespace: 0
 revision_id: 156699
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Price, Jamieson"
 ---
 
-**Jamieson Kent Price** ([April 28](/wiki/28_April "28 April"), [1961](/wiki/1961)) is an American voice actor.
+**Jamieson Kent Price** ([April 28](../_/28_April.md), [1961](../_/1961.md)) is an American voice actor.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: [Aragorn](/wiki/Aragorn), Goblin Slavemaster (Tutorial)
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Aragorn](../A/Aragorn.md), Goblin Slavemaster (Tutorial)
 
 ## External links {#External_links}
 

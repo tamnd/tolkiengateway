@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-ward Tower"
 ---
 
-Redirect to [Sea-ward Tower](/wiki/Sea-ward_Tower).
+Redirect to [Sea-ward Tower](../S/Sea-ward_Tower.md).

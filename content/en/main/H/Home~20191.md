@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of Middle-earth"
 ---
 
-Redirect to [The History of Middle-earth](/wiki/The_History_of_Middle-earth).
+Redirect to [The History of Middle-earth](../T/The_History_of_Middle-earth.md).

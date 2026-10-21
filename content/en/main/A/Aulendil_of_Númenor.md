@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aulendil (son of Vardamir)"
 ---
 
-Redirect to [Aulendil (son of Vardamir)](/wiki/Aulendil_(son_of_Vardamir)).
+Redirect to [Aulendil (son of Vardamir)](<Aulendil_(son_of_Vardamir).md>).

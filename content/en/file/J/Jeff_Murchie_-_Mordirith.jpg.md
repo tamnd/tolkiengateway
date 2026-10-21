@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Murchie - Mordirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Murchie - Mordirith.jpg</span>"
 page_id: 74227
 namespace: 6
 revision_id: 437430
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jeff Murchie - Mordirith.jpg</span></th>
 <td class="description">
-<p>Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
+<p>Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jeff_Murchie" title="Jeff Murchie">Jeff Murchie</a></td>
+<td><a href="../../main/J/Jeff_Murchie.md" title="Jeff Murchie">Jeff Murchie</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://murchiemonster.carbonmade.com/lord-of-the-rings-online-concepts" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

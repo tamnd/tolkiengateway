@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Antonio Vinci"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Antonio Vinci</span>"
 page_id: 50327
 namespace: 14
 revision_id: 271035

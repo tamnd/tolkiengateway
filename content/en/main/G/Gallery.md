@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Images"
 ---
 
-Redirect to [Portal:Images](/wiki/Portal:Images).
+Redirect to [Portal:Images](../../portal/I/Images.md).

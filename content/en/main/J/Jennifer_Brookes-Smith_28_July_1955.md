@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jennifer Brookes-Smith (28 July 1955)"
 ---
 
-Redirect to [Letter to Jennifer Brookes-Smith (28 July 1955)](/wiki/Letter_to_Jennifer_Brookes-Smith_(28_July_1955)).
+Redirect to [Letter to Jennifer Brookes-Smith (28 July 1955)](<../L/Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>).

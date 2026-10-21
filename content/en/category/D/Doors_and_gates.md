@@ -1,6 +1,5 @@
 ---
 title: "Category:Doors and gates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Doors and gates</span>"
 page_id: 39679
 namespace: 14
 revision_id: 195679

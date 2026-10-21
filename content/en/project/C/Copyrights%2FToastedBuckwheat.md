@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/ToastedBuckwheat"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/ToastedBuckwheat</span>"
 page_id: 59748
 namespace: 4
 revision_id: 333564
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "ToastedBuckwheat"
 ---
 
-- ToastedBuckwheat has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_ToastedBuckwheat "Category:Images by ToastedBuckwheat") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- ToastedBuckwheat has kindly granted his permission to use [his artwork](../../category/I/Images_by_ToastedBuckwheat.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 10 July 2021
-- User who sought the permission via email: [Ar-Zigûr](/wiki/User:Ar-Zig%C3%BBr "User:Ar-Zigûr")
+- User who sought the permission via email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr)

@@ -1,6 +1,5 @@
 ---
 title: "University of Wisconsin Tolkien and Fantasy Society"
-display_title: "<span class=\"mw-page-title-main\">University of Wisconsin Tolkien and Fantasy Society</span>"
 page_id: 27845
 namespace: 0
 revision_id: 407779
@@ -14,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**University of Wisconsin Tolkien and Fantasy Society** is a Tolkien society founded in September [1966](/wiki/1966) under the name The Tolkien Society at the University of Wisconsin-Madison. The name was changed in January 2001. The society publishes the journal <i><a href="/wiki/Orcrist_(journal)" title="Orcrist (journal)">Orcrist<i></i></a>.</i>
+**University of Wisconsin Tolkien and Fantasy Society** is a Tolkien society founded in September [1966](../_/1966.md) under the name The Tolkien Society at the University of Wisconsin-Madison. The name was changed in January 2001. The society publishes the journal <i><a href="../O/Orcrist_(journal).md" title="Orcrist (journal)">Orcrist<i></i></a>.</i>
 
 ## External links {#External_links}
 

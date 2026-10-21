@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - Collectibles.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - Collectibles.webp</span>"
 page_id: 67500
 namespace: 6
 revision_id: 391995

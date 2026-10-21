@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Keskmaa Ordu"
 ---
 
-Redirect to [Keskmaa Ordu](/wiki/Keskmaa_Ordu).
+Redirect to [Keskmaa Ordu](../K/Keskmaa_Ordu.md).

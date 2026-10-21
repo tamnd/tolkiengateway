@@ -1,6 +1,5 @@
 ---
 title: "File:Minas morgul by gnome the artist dfgwucx-fullview.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Minas morgul by gnome the artist dfgwucx-fullview.jpg</span>"
 page_id: 72296
 namespace: 6
 revision_id: 429701

@@ -1,6 +1,5 @@
 ---
 title: "File:Ralph Bakshi.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ralph Bakshi.jpeg</span>"
 page_id: 71386
 namespace: 6
 revision_id: 425895
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional photograph of [Ralph Bakshi](/wiki/Ralph_Bakshi) for [*The Lord of the Rings (1978 film)*](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)") - Source <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm3896232960/" rel="noreferrer noopener" target="_blank">[1]</a>
+Promotional photograph of [Ralph Bakshi](../../main/R/Ralph_Bakshi.md) for [*The Lord of the Rings (1978 film)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Source <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm3896232960/" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

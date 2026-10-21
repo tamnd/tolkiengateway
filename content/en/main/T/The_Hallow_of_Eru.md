@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hallow of Eru"
 ---
 
-Redirect to [Hallow of Eru](/wiki/Hallow_of_Eru).
+Redirect to [Hallow of Eru](../H/Hallow_of_Eru.md).

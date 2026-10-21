@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rôs"
 ---
 
-Redirect to [Rôs](/wiki/Rôs).
+Redirect to [Rôs](Rôs.md).

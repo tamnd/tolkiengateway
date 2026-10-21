@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Passing of the Elves"
 ---
 
-Redirect to [The Passing of the Elves](/wiki/The_Passing_of_the_Elves).
+Redirect to [The Passing of the Elves](The_Passing_of_the_Elves.md).

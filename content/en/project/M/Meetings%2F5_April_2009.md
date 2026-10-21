@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/5 April 2009"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/5 April 2009</span>"
 page_id: 21863
 namespace: 4
 revision_id: 221853
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 5 April 2009</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 5 April 2009</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -81,35 +78,35 @@ sort_keys:
 <tr>
 <td>Open meeting and check attendance.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr>
 <tr>
-<td>Should <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a> be renamed into <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>, and the three parts also by their official title? By extension, should this also be applied to <a href="/wiki/Rankin/Bass" title="Rankin/Bass">Rankin/Bass</a>&#39; films and <a href="/wiki/The_Lord_of_the_Rings_(1978_film)" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>? Since games have all been renamed, but movies not (yet).
+<td>Should <a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a> be renamed into <a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a>, and the three parts also by their official title? By extension, should this also be applied to <a href="../../main/R/Rankin%252FBass.md" title="Rankin/Bass">Rankin/Bass</a>&#39; films and <a href="../../main/T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>? Since games have all been renamed, but movies not (yet).
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>Images - a rediscussion of fair use and unknown artists.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>Make sure that members (at least the meeting attendees) have &#39;E-mail me when my user talk page is changed&#39; selected in their Preferences; that way if anyone ever contacts other users (for instance, if I wanted to make them aware of the meeting that is planned) they will recieve an email.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
 <td>Every time the site is down (&#34;Tolkien Gateway is having a problem&#34;), it shows an old logo. Can we get a new one there?
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>End meeting.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/5_April_2009 "Tolkien Gateway talk:Meetings/5 April 2009")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/5_April_2009)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

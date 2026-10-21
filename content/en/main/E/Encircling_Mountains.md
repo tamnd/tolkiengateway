@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Echoriad"
 ---
 
-Redirect to [Echoriad](/wiki/Echoriad).
+Redirect to [Echoriad](Echoriad.md).

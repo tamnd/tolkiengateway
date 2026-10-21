@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer Cotton"
 ---
 
-Redirect to [Farmer Cotton](/wiki/Farmer_Cotton).
+Redirect to [Farmer Cotton](../F/Farmer_Cotton.md).

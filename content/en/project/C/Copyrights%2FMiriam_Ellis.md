@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Miriam Ellis"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Miriam Ellis</span>"
 page_id: 65574
 namespace: 4
 revision_id: 377692
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ellis, Miriam"
 ---
 
-- Miriam Ellis has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Miriam_Ellis "Category:Images by Miriam Ellis") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Miriam Ellis has kindly granted their permission to use [their artwork](../../category/I/Images_by_Miriam_Ellis.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 July 2023
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -1,6 +1,5 @@
 ---
 title: "File:From mind to mind.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">From mind to mind.jpg</span>"
 page_id: 34221
 namespace: 6
 revision_id: 214076

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Elvenking's Gate from across the river.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Elvenking&#039;s Gate from across the river.jpg</span>"
 page_id: 71422
 namespace: 6
 revision_id: 427043
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"The [Elvenking](/wiki/Thranduil "Thranduil")'s Gate from across the river" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"The [Elvenking](../../main/T/Thranduil.md)'s Gate from across the river" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

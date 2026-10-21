@@ -1,6 +1,5 @@
 ---
 title: "File:TLD logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TLD logo.png</span>"
 page_id: 60080
 namespace: 6
 revision_id: 336582
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The logo of *[The Last Days (of the Third Age of Middle-earth)](</wiki/The_Last_Days_(of_the_Third_Age_of_Middle-earth)>)*, a total conversion modification for <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i>.
+The logo of *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, a total conversion modification for <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i>.
 
 ## Licensing {#Licensing}
 

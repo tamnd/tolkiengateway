@@ -1,6 +1,5 @@
 ---
 title: "File:Khraniteli - Goldberry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Khraniteli - Goldberry.jpg</span>"
 page_id: 65425
 namespace: 6
 revision_id: 377382
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Goldberry](/wiki/Goldberry) portrayed by Regina Lialeikite in the Soviet television play miniseries <i><a class="new" href="/w/index.php?title=Khraniteli&amp;action=edit&amp;redlink=1" title="Khraniteli (page does not exist)">Khraniteli</a></i>.
+[Goldberry](../../main/G/Goldberry.md) portrayed by Regina Lialeikite in the Soviet television play miniseries <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Khraniteli&amp;action=edit&amp;redlink=1" title="Khraniteli (page does not exist)">Khraniteli</a></i>.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss Stanley-Smith (22 November 1956)"
 ---
 
-Redirect to [Letter to Miss Stanley-Smith (22 November 1956)](/wiki/Letter_to_Miss_Stanley-Smith_(22_November_1956)).
+Redirect to [Letter to Miss Stanley-Smith (22 November 1956)](<../L/Letter_to_Miss_Stanley-Smith_(22_November_1956).md>).

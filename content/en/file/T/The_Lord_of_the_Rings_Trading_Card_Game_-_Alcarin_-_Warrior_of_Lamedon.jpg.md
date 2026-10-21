@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Alcarin - Warrior of Lamedon.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Alcarin - Warrior of Lamedon.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Alcarin_-_Warrior_of_Lamedon.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Alcarin - Warrior of Lamedon.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Alcarin_-_Warrior_of_Lamedon.jpg.md).

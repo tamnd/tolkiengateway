@@ -1,6 +1,5 @@
 ---
 title: "File:Kimberly - Beorn.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kimberly - Beorn.jpeg</span>"
 page_id: 52773
 namespace: 6
 revision_id: 287111
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Kimberly</li>
 <li><b>Website:</b> <a class="external text" href="http://kimberly80.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Kimberly" title="Tolkien Gateway:Copyrights/Kimberly">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKimberly.md" title="Tolkien Gateway:Copyrights/Kimberly">Permission for use on Tolkien Gateway</a></b></li></ul></div>

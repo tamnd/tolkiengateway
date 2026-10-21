@@ -1,6 +1,5 @@
 ---
 title: "Sun Microsystems"
-display_title: "<span class=\"mw-page-title-main\">Sun Microsystems</span>"
 page_id: 28030
 namespace: 0
 revision_id: 407310
@@ -15,7 +14,7 @@ categories:
   - "American businesses"
 ---
 
-**Sun Microsystems** was the producer of [Bilbo Slider Puzzle](/wiki/Bilbo_Slider_Puzzle),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-0" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup> an on-line slider puzzle, and [Tolkien WordSearch](/wiki/Tolkien_WordSearch),<sup id="cite_ref-El_Anillo_2-1" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-1" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> a letter grid game.
+**Sun Microsystems** was the producer of [Bilbo Slider Puzzle](../B/Bilbo_Slider_Puzzle.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-El_Anillo_2-0" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-0" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup> an on-line slider puzzle, and [Tolkien WordSearch](../T/Tolkien_WordSearch.md),<sup id="cite_ref-El_Anillo_2-1" class="reference"><a href="#cite_note-El_Anillo-2">[2]</a></sup><sup id="cite_ref-Baidu_3-1" class="reference"><a href="#cite_note-Baidu-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> a letter grid game.
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hal Colebatch"
 ---
 
-Redirect to [Hal Colebatch](/wiki/Hal_Colebatch).
+Redirect to [Hal Colebatch](Hal_Colebatch.md).

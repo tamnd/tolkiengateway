@@ -1,6 +1,5 @@
 ---
 title: "Mr. Bliss (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Mr. Bliss (disambiguation)</span>"
 page_id: 20834
 namespace: 0
 revision_id: 422237
@@ -17,16 +16,16 @@ images:
 
 **Mr. Bliss** can refer to the following:
 
-- <b><i><a href="/wiki/Mr._Bliss" title="Mr. Bliss">Mr. Bliss</a></i>, a story by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> published in <a href="/wiki/1982" title="1982">1982</a>.</b>
-    - <a class="new" href="/w/index.php?title=J._Bliss&amp;action=edit&amp;redlink=1" title="J. Bliss (page does not exist)">J. Bliss</a>, the main character.
-    - [Mr. Bliss](</wiki/Mr._Bliss_(2004_film)> "Mr. Bliss (2004 film)"), a 33-minute animated film released in [2004](/wiki/2004).
-- [Alan Bliss](/wiki/Alan_Bliss), editor of *[Finn and Hengest: The Fragment and the Episode](/wiki/Finn_and_Hengest:_The_Fragment_and_the_Episode)*.
+- <b><i><a href="Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i>, a story by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> published in <a href="../_/1982.md" title="1982">1982</a>.</b>
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=J._Bliss&amp;action=edit&amp;redlink=1" title="J. Bliss (page does not exist)">J. Bliss</a>, the main character.
+    - [Mr. Bliss](<Mr._Bliss_(2004_film).md>), a 33-minute animated film released in [2004](../_/2004.md).
+- [Alan Bliss](../A/Alan_Bliss.md), editor of *[Finn and Hengest: The Fragment and the Episode](../F/Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md)*.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Mr._Bliss_(disambiguation)" title="Special:WhatLinksHere/:Mr. Bliss (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Mr._Bliss_(disambiguation)" title="Special:WhatLinksHere/:Mr. Bliss (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

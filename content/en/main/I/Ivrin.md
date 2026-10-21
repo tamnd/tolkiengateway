@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pools of Ivrin"
 ---
 
-Redirect to [Pools of Ivrin](/wiki/Pools_of_Ivrin).
+Redirect to [Pools of Ivrin](../P/Pools_of_Ivrin.md).

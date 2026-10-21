@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sadoc (disambiguation)"
 ---
 
-Redirect to [Sadoc (disambiguation)](/wiki/Sadoc_(disambiguation)).
+Redirect to [Sadoc (disambiguation)](<Sadoc_(disambiguation).md>).

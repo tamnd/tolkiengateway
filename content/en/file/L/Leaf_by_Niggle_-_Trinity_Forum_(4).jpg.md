@@ -1,6 +1,5 @@
 ---
 title: "File:Leaf by Niggle - Trinity Forum (4).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leaf by Niggle - Trinity Forum (4).jpg</span>"
 page_id: 42971
 namespace: 6
 revision_id: 226049

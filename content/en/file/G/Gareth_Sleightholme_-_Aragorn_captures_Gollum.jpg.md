@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Aragorn captures Gollum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Aragorn captures Gollum.jpg</span>"
 page_id: 73613
 namespace: 6
 revision_id: 435046
@@ -34,15 +33,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Aragorn captures Gollum.jpg</span></th>
 <td class="description">
-<blockquote><p><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a> capturing <a href="/wiki/Gollum" title="Gollum">Gollum</a>, I figured he’d tempt him out with a “<a href="/wiki/Rabbits" title="Rabbits">coney</a>”. Then leap at him with a bag to carry him. This scene is based on the idea of Aragorn capturing Gollum in order that <a href="/wiki/Elves_of_Mirkwood" title="Elves of Mirkwood">the elves</a> and then <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> might question him.</p></blockquote><br/><blockquote><p>First final version of the image. My preferred version. With Aragorn looking rugged and bearded...</p></blockquote>
+<blockquote><p><a href="../../main/A/Aragorn.md" title="Aragorn">Aragorn</a> capturing <a href="../../main/G/Gollum.md" title="Gollum">Gollum</a>, I figured he’d tempt him out with a “<a href="../../main/R/Rabbits.md" title="Rabbits">coney</a>”. Then leap at him with a bag to carry him. This scene is based on the idea of Aragorn capturing Gollum in order that <a href="../../main/E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">the elves</a> and then <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a> might question him.</p></blockquote><br/><blockquote><p>First final version of the image. My preferred version. With Aragorn looking rugged and bearded...</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/5_July" title="5 July">July 5</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/5_July.md" title="5 July">July 5</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -51,7 +48,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/w6XEvZ" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/w6XEvZ</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -61,4 +57,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

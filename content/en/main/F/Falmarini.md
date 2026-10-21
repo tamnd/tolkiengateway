@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falmaríni"
 ---
 
-Redirect to [Falmaríni](/wiki/Falmaríni).
+Redirect to [Falmaríni](Falmaríni.md).

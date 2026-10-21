@@ -1,6 +1,5 @@
 ---
 title: "The War of Wrath"
-display_title: "<span class=\"mw-page-title-main\">The War of Wrath</span>"
 page_id: 22353
 namespace: 0
 revision_id: 81623
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>The War of Wrath</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore) about the [War of Wrath](/wiki/War_of_Wrath). It appears in their second full-length album, [Sword's Song](/wiki/Sword%27s_Song), released in [2002](/wiki/2002).
+<i><b>The War of Wrath</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md) about the [War of Wrath](../W/War_of_Wrath.md). It appears in their second full-length album, [Sword's Song](../S/Sword's_Song.md), released in [2002](../_/2002.md).
 
 ## Lyrics {#Lyrics}
 

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Bruce Mitchell"
-display_title: "<span class=\"mw-page-title-main\">Letter to Bruce Mitchell</span>"
 page_id: 38072
 namespace: 0
 revision_id: 387871
@@ -15,10 +14,10 @@ sort_keys:
   "Letters": "Mitchell, Bruce"
 ---
 
-At an unknown date, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a href="/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Bruce_Mitchell_(scholar)" title="wikipedia:Bruce Mitchell (scholar)">Bruce Mitchell</a></b>.<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
+At an unknown date, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Bruce_Mitchell_(scholar)" title="wikipedia:Bruce Mitchell (scholar)">Bruce Mitchell</a></b>.<sup id="cite_ref-TB_1-0" class="reference"><a href="#cite_note-TB-1">[1]</a></sup>
 
-- **Subject:** Discussion of *[Beowulf](</wiki/Beowulf_(poem)> "Beowulf (poem)")*.
-- **Publication:** A short extract from the letter first appeared in Kevin Crossley-Holland's [1968 translation of *Beowulf*](</wiki/Beowulf_(Crossley-Holland_translation)> "Beowulf (Crossley-Holland translation)"). Longer extracts were published in Bruce Mitchell's book *[On Old English: Selected Papers](/wiki/On_Old_English "On Old English")*.
+- **Subject:** Discussion of *[Beowulf](<../B/Beowulf_(poem).md>)*.
+- **Publication:** A short extract from the letter first appeared in Kevin Crossley-Holland's [1968 translation of *Beowulf*](<../B/Beowulf_(Crossley-Holland_translation).md>). Longer extracts were published in Bruce Mitchell's book *[On Old English: Selected Papers](../O/On_Old_English.md)*.
 
 ## Extract {#Extract}
 
@@ -29,6 +28,6 @@ At an unknown date, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a href="/wi
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-TB-1"><span class="mw-cite-backlink"><a href="#cite_ref-TB_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=66060" rel="noreferrer noopener" target="_blank">&#34;On Old English. 1988&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
+<li id="cite_note-TB-1"><span class="mw-cite-backlink"><a href="#cite_ref-TB_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=66060" rel="noreferrer noopener" target="_blank">&#34;On Old English. 1988&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of the North (disambiguation)"
 ---
 
-Redirect to [Men of the North (disambiguation)](/wiki/Men_of_the_North_(disambiguation)).
+Redirect to [Men of the North (disambiguation)](<Men_of_the_North_(disambiguation).md>).

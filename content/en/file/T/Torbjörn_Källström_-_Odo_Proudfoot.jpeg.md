@@ -1,6 +1,5 @@
 ---
 title: "File:Torbjörn Källström - Odo Proudfoot.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Torbjörn Källström - Odo Proudfoot.jpeg</span>"
 page_id: 71043
 namespace: 6
 revision_id: 424301
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Odo Proudfoot](/wiki/Odo_Proudfoot) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Under the Ash Mountains* illustration by Torbjörn Källström
+[Odo Proudfoot](../../main/O/Odo_Proudfoot.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Under the Ash Mountains* illustration by Torbjörn Källström
 
 ## Licensing {#Licensing}
 

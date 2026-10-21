@@ -16,10 +16,10 @@ images:
   - "The_J.R.R._Tolkien_Desk_Calendar_1981.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_J.R.R._Tolkien_Desk_Calendar_1981.jpg"><img src="/w/images/thumb/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg/300px-The_J.R.R._Tolkien_Desk_Calendar_1981.jpg" decoding="async" loading="lazy" width="300" height="293" class="mw-file-element" srcset="/w/images/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg 1.5x" data-file-width="358" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg/300px-The_J.R.R._Tolkien_Desk_Calendar_1981.jpg" decoding="async" loading="lazy" width="300" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg 1.5x" data-file-width="358" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The J.R.R. Tolkien Desk Calendar 1981** was produced by [Ballantine Books](/wiki/Ballantine_Books) with illustrations by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt).
+**The J.R.R. Tolkien Desk Calendar 1981** was produced by [Ballantine Books](../B/Ballantine_Books.md) with illustrations by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345291913">ISBN 0-345-29191-3</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345291913">ISBN 0-345-29191-3</a>
 - Dimensions: 8 3/8 x 8 inches
 - Plastic comb-bound

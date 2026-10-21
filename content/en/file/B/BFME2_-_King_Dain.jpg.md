@@ -1,6 +1,5 @@
 ---
 title: "File:BFME2 - King Dain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BFME2 - King Dain.jpg</span>"
 page_id: 12906
 namespace: 6
 revision_id: 231647

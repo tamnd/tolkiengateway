@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hobbit Dustcover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hobbit Dustcover.png</span>"
 page_id: 71497
 namespace: 6
 revision_id: 440312
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-*[The Hobbit](/wiki/The_Hobbit)* Dustcover illustration by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+*[The Hobbit](../../main/T/The_Hobbit.md)* Dustcover illustration by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

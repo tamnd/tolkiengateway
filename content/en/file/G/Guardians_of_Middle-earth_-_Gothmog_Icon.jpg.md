@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Gothmog Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Gothmog Icon.jpg</span>"
 page_id: 71413
 namespace: 6
 revision_id: 425969
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gothmog](</wiki/Gothmog_(Lieutenant_of_Morgul)> "Gothmog (Lieutenant of Morgul)") - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Gothmog](<../../main/G/Gothmog_(Lieutenant_of_Morgul).md>) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

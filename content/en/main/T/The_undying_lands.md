@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Undying Lands"
 ---
 
-Redirect to [Undying Lands](/wiki/Undying_Lands).
+Redirect to [Undying Lands](../U/Undying_Lands.md).

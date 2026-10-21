@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cobas Haven"
 ---
 
-Redirect to [Cobas Haven](/wiki/Cobas_Haven).
+Redirect to [Cobas Haven](Cobas_Haven.md).

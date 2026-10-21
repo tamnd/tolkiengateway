@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/3 July 2011"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/3 July 2011</span>"
 page_id: 33744
 namespace: 4
 revision_id: 202003
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 3 July 2011</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 3 July 2011</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda and Outcome {#Agenda_and_Outcome}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -86,25 +82,25 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td>
-<td><a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="/wiki/User:Mith" title="User:Mith">Mith</a>, and <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present at the start of the meeting. <a href="/wiki/User:Mithrennaith" title="User:Mithrennaith">mithrennaith</a> joined later.
+<td><a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, and <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present at the start of the meeting. <a href="https://tolkiengateway.net/wiki/User:Mithrennaith" title="User:Mithrennaith">mithrennaith</a> joined later.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td>
-<td>Concepts only mentioned in <i>Unfinished Tales</i> (like <a href="/wiki/Talk:Eryn_Vorn" title="Talk:Eryn Vorn">Eryn Vorn</a>) - are these to be considered non-canon (or having a &#34;lower&#34; place in a canon grade)?
+<td>Concepts only mentioned in <i>Unfinished Tales</i> (like <a href="https://tolkiengateway.net/wiki/Talk:Eryn_Vorn" title="Talk:Eryn Vorn">Eryn Vorn</a>) - are these to be considered non-canon (or having a &#34;lower&#34; place in a canon grade)?
 </td>
 <td>It was agreed that concepts only mentioned in <i>The Unfinished Tales</i> should be considered canon unless contradicted by sources that are considered &#39;more canon&#39;.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
 <td>Singular/plural article names policy (warning: I prefer singular).
 </td>
@@ -113,7 +109,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a> and <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a> and <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td>
 <td>Whether multiple names need to be redirected. And if redirected, what guideline should we have for putting these redirects in categories.
 </td>
@@ -122,25 +118,25 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#5
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
-<td><a href="/wiki/User_talk:Mith#remove_real_name" title="User talk:Mith">Discuss this</a>.
+<td><a href="https://tolkiengateway.net/wiki/User_talk:Mith#remove_real_name" title="User talk:Mith">Discuss this</a>.
 </td>
 <td>It was decided that we should remove the said article because of its lack of value to the encyclopaedia. However it was also agreed that Tolkien Gateway would not simply remove articles on request; instead it would judge an articles worth to the Tolkien Gateway project. Morgan&#39;s suggestion that we should remove all articles about games that are not licensed was rebuked.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a> and <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a> and <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a> has suggested that Tolkien Gateway should become a charity. The community should approve or disapprove of the suggestion, and arrange a special meeting to flesh out the idea.
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a> has suggested that Tolkien Gateway should become a charity. The community should approve or disapprove of the suggestion, and arrange a special meeting to flesh out the idea.
 </td>
-<td>Various thoughts were thrown in and it was agreed that <a href="/wiki/Tolkien_Gateway:Meetings/31_July_2011" title="Tolkien Gateway:Meetings/31 July 2011">a special meeting</a> would be held on 31 July 2011 to discuss the idea in depth.
+<td>Various thoughts were thrown in and it was agreed that <a href="Meetings%252F31_July_2011.md" title="Tolkien Gateway:Meetings/31 July 2011">a special meeting</a> would be held on 31 July 2011 to discuss the idea in depth.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#7
 </td>
-<td><a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td>
 <td>Start with lower-case letters in articles on words?
 </td>
@@ -149,16 +145,16 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#8
 </td>
-<td><a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>
 </td>
-<td>Continue the <a href="/wiki/Tolkien_Gateway:Meetings/1_May_2011/Transcript" title="Tolkien Gateway:Meetings/1 May 2011/Transcript">discussion about minor plant articles</a> (if there are enough people)
+<td>Continue the <a href="Meetings%252F1_May_2011%252FTranscript.md" title="Tolkien Gateway:Meetings/1 May 2011/Transcript">discussion about minor plant articles</a> (if there are enough people)
 </td>
 <td>This discussion was postponed because Amroth had left the meeting by this time.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#9
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting adjournment.
 </td>
@@ -167,6 +163,6 @@ sort_keys:
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/3_July_2011 "Tolkien Gateway talk:Meetings/3 July 2011")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/3_July_2011/Transcript "Tolkien Gateway:Meetings/3 July 2011/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/3_July_2011)
+- [Transcript](Meetings%252F3_July_2011%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

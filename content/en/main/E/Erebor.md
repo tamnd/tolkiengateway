@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lonely Mountain"
 ---
 
-Redirect to [Lonely Mountain](/wiki/Lonely_Mountain).
+Redirect to [Lonely Mountain](../L/Lonely_Mountain.md).

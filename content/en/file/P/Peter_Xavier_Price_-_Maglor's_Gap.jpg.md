@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Xavier Price - Maglor's Gap.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Xavier Price - Maglor&#039;s Gap.jpg</span>"
 page_id: 73977
 namespace: 6
 revision_id: 436588
@@ -31,29 +30,26 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Xavier Price - Maglor&#39;s Gap.jpg</span></th>
 <td class="description">
-<blockquote><p>A little bit of landscape watercolour practice. I imagine us looking N-NW, with the Hills of <a href="/wiki/Himring" title="Himring">Himring</a> beginning in the distance, and Maedhros&#39; fortress and eventually the eastern walls of <a href="/wiki/Dorthonion" title="Dorthonion">Dorthonion</a> being many tens of miles away.</p></blockquote>
+<blockquote><p>A little bit of landscape watercolour practice. I imagine us looking N-NW, with the Hills of <a href="../../main/H/Himring.md" title="Himring">Himring</a> beginning in the distance, and Maedhros&#39; fortress and eventually the eastern walls of <a href="../../main/D/Dorthonion.md" title="Dorthonion">Dorthonion</a> being many tens of miles away.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/28_February" title="28 February">February 28</a> <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/_/28_February.md" title="28 February">February 28</a> <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Xavier_Price" title="Peter Xavier Price">Peter Xavier Price</a></td>
+<td><a href="../../main/P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.deviantart.com/peet/art/Maglor-s-Gap-1304166674" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/peet/art/Maglor-s-Gap-1304166674</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Peter Xavier Price</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Peter_Xavier_Price" title="Peter Xavier Price">Peter Xavier Price</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Peter_Xavier_Price" title="Peter Xavier Price">Peter Xavier Price</a></li>
+<ul><li><b>Name:</b> <a href="../../main/P/Peter_Xavier_Price.md" title="Peter Xavier Price">Peter Xavier Price</a></li>
 <li><b>Website:</b> <a class="external text" href="http://peet.deviantart.com/" rel="noreferrer noopener" target="_blank">peet.deviantart.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Peter_Xavier_Price" title="Tolkien Gateway:Copyrights/Peter Xavier Price">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPeter_Xavier_Price.md" title="Tolkien Gateway:Copyrights/Peter Xavier Price">Permission for use on Tolkien Gateway</a></b></li></ul></div>

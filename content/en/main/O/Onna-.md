@@ -15,10 +15,10 @@ sort_keys:
   "Sindarin verbs": "Onna"
 ---
 
-<i><b>onna-</b></i> is a [Sindarin](/wiki/Sindarin) verb meaning **to beget**. See also participle *[onnen](/wiki/Onnen "Onnen")*, and synonym *[edonna-](/wiki/Edonna- "Edonna-")*.
+<i><b>onna-</b></i> is a [Sindarin](../S/Sindarin.md) verb meaning **to beget**. See also participle *[onnen](Onnen.md)*, and synonym *[edonna-](../E/Edonna-.md)*.
 
-The [Old Sindarin](/wiki/Old_Sindarin) form would be *ont<sup>h</sup>a-*.
+The [Old Sindarin](Old_Sindarin.md) form would be *ont<sup>h</sup>a-*.
 
 ## References {#References}
 
-- *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary) (Edition 1.6, Lexicon 0.993)*
+- *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë's_Sindarin_dictionary~30928.md) (Edition 1.6, Lexicon 0.993)*

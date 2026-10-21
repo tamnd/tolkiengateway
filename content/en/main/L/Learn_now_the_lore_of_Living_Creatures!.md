@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Long List of the Ents"
 ---
 
-Redirect to [Long List of the Ents](/wiki/Long_List_of_the_Ents).
+Redirect to [Long List of the Ents](Long_List_of_the_Ents.md).

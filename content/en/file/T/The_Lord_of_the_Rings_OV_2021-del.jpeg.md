@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings OV 2021-del.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings OV 2021-del.jpeg</span>"
 page_id: 62841
 namespace: 6
 revision_id: 355586

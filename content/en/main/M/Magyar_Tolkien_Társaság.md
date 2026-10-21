@@ -1,6 +1,5 @@
 ---
 title: "Magyar Tolkien Társaság"
-display_title: "<span class=\"mw-page-title-main\">Magyar Tolkien Társaság</span>"
 page_id: 36997
 namespace: 0
 revision_id: 332101
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Magyar Tolkien Társaság** (Hungarian: **Hungarian Tolkien Society**) is the [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") in Hungary.
+**Magyar Tolkien Társaság** (Hungarian: **Hungarian Tolkien Society**) is the [Tolkien Society](../T/Tolkien_Societies~67099.md) in Hungary.
 
 ## Publications {#Publications}
 

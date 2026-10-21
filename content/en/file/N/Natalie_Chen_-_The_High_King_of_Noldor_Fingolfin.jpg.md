@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - The High King of Noldor Fingolfin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - The High King of Noldor Fingolfin.jpg</span>"
 page_id: 57988
 namespace: 6
 revision_id: 319225
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Fingolfin](/wiki/Fingolfin), [High King of the Noldor](/wiki/High_King_of_the_Noldor).
+Image of [Fingolfin](../../main/F/Fingolfin.md), [High King of the Noldor](../../main/H/High_King_of_the_Noldor.md).
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ Image of [Fingolfin](/wiki/Fingolfin), [High King of the Noldor](/wiki/High_King
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

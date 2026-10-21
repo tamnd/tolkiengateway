@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angle"
 ---
 
-Redirect to [Angle](/wiki/Angle).
+Redirect to [Angle](Angle.md).

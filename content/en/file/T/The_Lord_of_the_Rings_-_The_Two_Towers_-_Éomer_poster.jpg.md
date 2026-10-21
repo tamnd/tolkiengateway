@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Éomer poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Éomer poster.jpg</span>"
 page_id: 11606
 namespace: 6
 revision_id: 358121

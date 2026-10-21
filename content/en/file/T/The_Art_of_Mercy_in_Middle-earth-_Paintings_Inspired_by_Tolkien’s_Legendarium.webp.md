@@ -1,6 +1,5 @@
 ---
 title: "File:The Art of Mercy in Middle-earth- Paintings Inspired by Tolkien’s Legendarium.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Art of Mercy in Middle-earth- Paintings Inspired by Tolkien’s Legendarium.webp</span>"
 page_id: 71840
 namespace: 6
 revision_id: 428003

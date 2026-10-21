@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorn Sir"
 ---
 
-Redirect to [Thorn Sir](/wiki/Thorn_Sir).
+Redirect to [Thorn Sir](../T/Thorn_Sir.md).

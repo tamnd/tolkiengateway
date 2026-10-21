@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya adjectives"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya adjectives</span>"
 page_id: 24484
 namespace: 14
 revision_id: 219791
@@ -16,4 +15,4 @@ sort_keys:
   "Quenya words": "Adjectives"
 ---
 
-[Quenya](/wiki/Quenya) adjectives. Adjectives in Quenya can also be fashioned and inflected as nouns.
+[Quenya](../../main/Q/Quenya.md) adjectives. Adjectives in Quenya can also be fashioned and inflected as nouns.

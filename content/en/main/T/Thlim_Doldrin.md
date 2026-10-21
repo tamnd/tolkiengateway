@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Mole"
 ---
 
-Redirect to [House of the Mole](/wiki/House_of_the_Mole).
+Redirect to [House of the Mole](../H/House_of_the_Mole.md).

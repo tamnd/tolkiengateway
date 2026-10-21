@@ -1,6 +1,5 @@
 ---
 title: "File:Joona Kujanen - Battle of Five Armies - Elves of Mirkwood.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joona Kujanen - Battle of Five Armies - Elves of Mirkwood.jpg</span>"
 page_id: 74548
 namespace: 6
 revision_id: 438831
@@ -38,25 +37,22 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/24_February" title="24 February">February 24</a> <a href="/wiki/2013" title="2013">2013</a></td>
+<td><a href="../../main/_/24_February.md" title="24 February">February 24</a> <a href="../../main/_/2013.md" title="2013">2013</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Pen &amp; drawing ink work</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=Joona_Kujanen&amp;action=edit&amp;redlink=1" title="Joona Kujanen (page does not exist)">Joona Kujanen</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Joona_Kujanen&amp;action=edit&amp;redlink=1" title="Joona Kujanen (page does not exist)">Joona Kujanen</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.deviantart.com/tulikoura/art/Battle-of-Five-Armies-Elves-of-Mirkwood-356158309" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/tulikoura/art/Battle-of-Five-Armies-Elves-of-Mirkwood-356158309</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Joona Kujanen</span></span>
@@ -64,4 +60,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Joona Kujanen</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/tulikoura" rel="noreferrer noopener" target="_blank">Joona Kujanen&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joona_Kujanen" title="Tolkien Gateway:Copyrights/Joona Kujanen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoona_Kujanen.md" title="Tolkien Gateway:Copyrights/Joona Kujanen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

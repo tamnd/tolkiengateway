@@ -1,6 +1,5 @@
 ---
 title: "Tolkien's World (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Tolkien&#039;s World (disambiguation)</span>"
 page_id: 18887
 namespace: 0
 revision_id: 314187
@@ -15,22 +14,22 @@ images:
   - "Disambig.png"
 ---
 
-**Tolkien's World**, other than his [legendarium](/wiki/Legendarium "Legendarium") or the mythology of [Arda](/wiki/Arda) and [Middle-earth](/wiki/Middle-earth), may refer to six different books:
+**Tolkien's World**, other than his [legendarium](../L/Legendarium.md) or the mythology of [Arda](../A/Arda.md) and [Middle-earth](../M/Middle-earth.md), may refer to six different books:
 
-- <i><a class="new" href="/w/index.php?title=England_and_Always:_Tolkien%27s_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="England and Always: Tolkien&#39;s World of the Rings (page does not exist)">England and Always: Tolkien&#39;s World of the Rings</a></i>, a [1981](/wiki/1981) book by [Jared Lobdell](/wiki/Jared_Lobdell).
-- *[A Tolkien Bestiary](/wiki/A_Tolkien_Bestiary)*, a [1979](/wiki/1979) book by David Day, appeared in some prints as *Guide to Tolkien's World: A Bestiary*.
-- *[Tolkien's World](</wiki/Tolkien%27s_World_(by_Randel_Helms)> "Tolkien's World (by Randel Helms)")*, a [1974](/wiki/1974) book by [Randel Helms](/wiki/Randel_Helms).
-- *[Tolkien's World: Paintings of Middle-earth](/wiki/Tolkien%27s_World:_Paintings_of_Middle-earth)*, a [1992](/wiki/1992) collection of paintings by (among others) [Inger Edelfeldt](/wiki/Inger_Edelfeldt), [John Howe](/wiki/John_Howe), [Roger Garland](/wiki/Roger_Garland) and [Michael Hague](/wiki/Michael_Hague).
-- *[The World of Tolkien](/wiki/The_World_of_Tolkien)*, a [2004](/wiki/2004) book also by [David Day](/wiki/David_Day), appeared in some prints as *Tolkien's World*.
-- *мир Толкина* ("Tolkien's World"), a Russian pirate translation of parts of *[An Introduction to Elvish](/wiki/An_Introduction_to_Elvish)* and *[The Complete Guide to Middle-earth](/wiki/The_Complete_Guide_to_Middle-earth)*, by <a class="new" href="/w/index.php?title=Nadezhda_Chertkov&amp;action=edit&amp;redlink=1" title="Nadezhda Chertkov (page does not exist)">Nadezhda Chertkov</a>.
-- *[Tolkien's World: A Guide to the Peoples and Places of Middle-Earth](</wiki/Tolkien%27s_World_(by_Gareth_Hanrahan)> "Tolkien's World (by Gareth Hanrahan)")*, a [2012](/wiki/2012) guide book by Gareth Hanrahan and Peter McKinstry.
-- *[Tolkien's World: A Colouring Book](/wiki/Tolkien%27s_World:_A_Colouring_Book)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=England_and_Always:_Tolkien%27s_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="England and Always: Tolkien&#39;s World of the Rings (page does not exist)">England and Always: Tolkien&#39;s World of the Rings</a></i>, a [1981](../_/1981.md) book by [Jared Lobdell](../J/Jared_Lobdell.md).
+- *[A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md)*, a [1979](../_/1979.md) book by David Day, appeared in some prints as *Guide to Tolkien's World: A Bestiary*.
+- *[Tolkien's World](<Tolkien's_World_(by_Randel_Helms).md>)*, a [1974](../_/1974.md) book by [Randel Helms](../R/Randel_Helms.md).
+- *[Tolkien's World: Paintings of Middle-earth](Tolkien's_World%253A_Paintings_of_Middle-earth.md)*, a [1992](../_/1992.md) collection of paintings by (among others) [Inger Edelfeldt](../I/Inger_Edelfeldt.md), [John Howe](../J/John_Howe.md), [Roger Garland](../R/Roger_Garland.md) and [Michael Hague](../M/Michael_Hague.md).
+- *[The World of Tolkien](The_World_of_Tolkien.md)*, a [2004](../_/2004.md) book also by [David Day](../D/David_Day.md), appeared in some prints as *Tolkien's World*.
+- *мир Толкина* ("Tolkien's World"), a Russian pirate translation of parts of *[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)* and *[The Complete Guide to Middle-earth](The_Complete_Guide_to_Middle-earth.md)*, by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nadezhda_Chertkov&amp;action=edit&amp;redlink=1" title="Nadezhda Chertkov (page does not exist)">Nadezhda Chertkov</a>.
+- *[Tolkien's World: A Guide to the Peoples and Places of Middle-Earth](<Tolkien's_World_(by_Gareth_Hanrahan).md>)*, a [2012](../_/2012.md) guide book by Gareth Hanrahan and Peter McKinstry.
+- *[Tolkien's World: A Colouring Book](Tolkien's_World%253A_A_Colouring_Book.md)*
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Tolkien%27s_World_(disambiguation)" title="Special:WhatLinksHere/:Tolkien&#39;s World (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Tolkien%27s_World_(disambiguation)" title="Special:WhatLinksHere/:Tolkien&#39;s World (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

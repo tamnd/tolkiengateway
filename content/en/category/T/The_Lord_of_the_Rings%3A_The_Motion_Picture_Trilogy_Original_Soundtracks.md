@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The Motion Picture Trilogy Original Soundtracks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The Motion Picture Trilogy Original Soundtracks</span>"
 page_id: 31764
 namespace: 14
 revision_id: 221725

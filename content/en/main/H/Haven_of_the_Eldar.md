@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haven of the Eldar (disambiguation)"
 ---
 
-Redirect to [Haven of the Eldar (disambiguation)](/wiki/Haven_of_the_Eldar_(disambiguation)).
+Redirect to [Haven of the Eldar (disambiguation)](<Haven_of_the_Eldar_(disambiguation).md>).

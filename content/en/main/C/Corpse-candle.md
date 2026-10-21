@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dead faces"
 ---
 
-Redirect to [Dead faces](/wiki/Dead_faces).
+Redirect to [Dead faces](../D/Dead_faces.md).

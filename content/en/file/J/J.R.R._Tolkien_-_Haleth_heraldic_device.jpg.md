@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Haleth heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Haleth heraldic device.jpg</span>"
 page_id: 64789
 namespace: 6
 revision_id: 432782
@@ -29,10 +28,10 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/69/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #69</a>. Published in:
 
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), April
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Tolkien Diary 1992](/wiki/The_Tolkien_Diary_1992)* ([1991](/wiki/1991)), 1992-05-08
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), p. 188
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), April
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)* ([1991](../../main/_/1991.md)), 1992-05-08
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), p. 188
 
 Inscription in the manuscripts says: "House of Haleth".
 

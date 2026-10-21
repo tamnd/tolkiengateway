@@ -11,4 +11,4 @@ redirect_target: "Nerdanel"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Nerdanel](/wiki/Nerdanel#Etymology).
+Redirect to [Nerdanel](../N/Nerdanel.md#Etymology).

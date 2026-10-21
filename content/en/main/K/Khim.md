@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khîm"
 ---
 
-Redirect to [Khîm](/wiki/Khîm).
+Redirect to [Khîm](Khîm.md).

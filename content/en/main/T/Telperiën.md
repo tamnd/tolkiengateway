@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Telperiën"
 ---
 
-Redirect to [Tar-Telperiën](/wiki/Tar-Telperiën).
+Redirect to [Tar-Telperiën](Tar-Telperiën.md).

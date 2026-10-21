@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Firienholt"
 ---
 
-Redirect to [Firienholt](/wiki/Firienholt).
+Redirect to [Firienholt](Firienholt.md).

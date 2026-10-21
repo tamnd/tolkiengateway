@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:File licensing templates"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">File licensing templates</span>"
 page_id: 35624
 namespace: 4
 revision_id: 394352
@@ -16,13 +15,13 @@ hidden_categories:
   - "Files with a license template"
 ---
 
-**File licensing templates** must be placed on the pages of all files which have been uploaded to [Tolkien Gateway](/wiki/Tolkien_Gateway) by its editors. Below is a list of templates which should be used to tag files in order to indicate their copyright status. Please make sure that you take your time in choosing the most appropriate template. Include the tag, followed by any appropriate categories, in the file upload summary; alternatively you can edit the file's page after it has been uploaded.
+**File licensing templates** must be placed on the pages of all files which have been uploaded to [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) by its editors. Below is a list of templates which should be used to tag files in order to indicate their copyright status. Please make sure that you take your time in choosing the most appropriate template. Include the tag, followed by any appropriate categories, in the file upload summary; alternatively you can edit the file's page after it has been uploaded.
 
 ## Free licenses {#Free_licenses}
 
 ### Custom {#Custom}
 
-If an organisation has established its own license for the use of their images, use this template to describe the terms under which it is used on Tolkien Gateway. To apply this template simply use the following tag in the upload summary: "[{{Custom-License\|DESCRIPTION OF LICENSE}}](/wiki/Template:Custom-License "Template:Custom-License")". The following is an example of this template in use:
+If an organisation has established its own license for the use of their images, use this template to describe the terms under which it is used on Tolkien Gateway. To apply this template simply use the following tag in the upload summary: "[{{Custom-License\|DESCRIPTION OF LICENSE}}](https://tolkiengateway.net/wiki/Template:Custom-License)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-3);border:2px solid --tg-border-color-base;padding:0px 10px 0px 10px;font-size:100%;text-align:center;">
 <p>This image is used under the terms of the <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Joe Bloggs License</a>.
@@ -33,7 +32,7 @@ If an organisation has established its own license for the use of their images, 
 
 ### GFDL {#GFDL}
 
-The <a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{GFDL}}](/wiki/Template:GFDL "Template:GFDL")". The following is an example of this template in use:
+The <a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{GFDL}}](https://tolkiengateway.net/wiki/Template:GFDL)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
@@ -44,10 +43,10 @@ The <a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Doc
 
 ### GFDL — made for Tolkien Gateway {#GFDL_—_made_for_Tolkien_Gateway}
 
-If image has been made for Tolkien Gateway, and it has not been assigned a specific license, then it is considered to be released, like any other contribution to Tolkien Gateway (unless stated otherwise), under the GNU Free Documentation License. To apply this template use the following tag in the upload summary: "[{{GFDL-self\|Name of Tolkien Gateway Contributor}}](/wiki/Template:GFDL-self "Template:GFDL-self")". The following is an example of this template in use:
+If image has been made for Tolkien Gateway, and it has not been assigned a specific license, then it is considered to be released, like any other contribution to Tolkien Gateway (unless stated otherwise), under the GNU Free Documentation License. To apply this template use the following tag in the upload summary: "[{{GFDL-self\|Name of Tolkien Gateway Contributor}}](https://tolkiengateway.net/wiki/Template:GFDL-self)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>As a Tolkien Gateway contributor, <a href="/wiki/User:Joe_Bloggs" title="User:Joe Bloggs">Joe Bloggs</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+<p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Joe_Bloggs" title="User:Joe Bloggs">Joe Bloggs</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 </p>
 </div>
 
@@ -55,7 +54,7 @@ If image has been made for Tolkien Gateway, and it has not been assigned a speci
 
 ### GPL {#GPL}
 
-The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_General_Public_License" title="wikipedia:GNU General Public License">GNU General Public License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{GPL}}](/wiki/Template:GPL "Template:GPL")". The following is an example of this template in use:
+The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_General_Public_License" title="wikipedia:GNU General Public License">GNU General Public License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{GPL}}](https://tolkiengateway.net/wiki/Template:GPL)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>This work is <a class="extiw" href="http://en.wikipedia.org/wiki/free_software" title="wikipedia:free software">free software</a>; you can redistribute it and/or modify it under the terms of the <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_General_Public_License" title="wikipedia:GNU General Public License">GNU General Public License</a> as published by the <a class="extiw" href="http://en.wikipedia.org/wiki/Free_Software_Foundation" title="wikipedia:Free Software Foundation">Free Software Foundation</a>; either version 2 of the License, or any later version.
@@ -67,7 +66,7 @@ The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_General_Public_Licen
 
 ### LGPL {#LGPL}
 
-The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">GNU Lesser General Public License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{LGPL}}](/wiki/Template:LGPL "Template:LGPL")". The following is an example of this template in use:
+The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">GNU Lesser General Public License</a> requires that the license text is included with all reuses of the file. To apply this template simply use the following tag in the upload summary: "[{{LGPL}}](https://tolkiengateway.net/wiki/Template:LGPL)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>This work is free software; you can redistribute it and/or modify it under the terms of the <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="wikipedia:GNU Lesser General Public License">GNU Lesser General Public License</a> as published by the <a class="extiw" href="http://en.wikipedia.org/wiki/Free_Software_Foundation" title="wikipedia:Free Software Foundation">Free Software Foundation</a>; either version 2.1 of the License, or (at your option) any later version.
@@ -88,9 +87,7 @@ The <a class="extiw" href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Publi
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by/2.0/" rel="noreferrer noopener" target="_blank">Attribution 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-2.0}}](/wiki/Template:CC-2.0 "Template:CC-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-2.0}}](https://tolkiengateway.net/wiki/Template:CC-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by/2.0/" rel="noreferrer noopener" target="_blank">Attribution 2.0</a> License.
@@ -108,9 +105,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-SA-2.0}}](/wiki/Template:CC-SA-2.0 "Template:CC-SA-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-SA-2.0}}](https://tolkiengateway.net/wiki/Template:CC-SA-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 2.0</a> License.
@@ -128,9 +123,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nd/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NoDerivs 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-ND-2.0}}](/wiki/Template:CC-ND-2.0 "Template:CC-ND-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-ND-2.0}}](https://tolkiengateway.net/wiki/Template:CC-ND-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nd/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NoDerivatives 2.0</a> License.
@@ -148,9 +141,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 2.0 Unported  License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-2.0}}](/wiki/Template:CC-NC-2.0 "Template:CC-NC-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-2.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 2.0</a> License.
@@ -168,9 +159,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-ShareAlike 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-SA-2.0}}](/wiki/Template:CC-NC-SA-2.0 "Template:CC-NC-SA-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-SA-2.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-SA-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-ShareAlike 2.0</a> License.
@@ -188,9 +177,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-NoDerivs 2.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-ND-2.0}}](/wiki/Template:CC-NC-ND-2.0 "Template:CC-NC-ND-2.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-ND-2.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-ND-2.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc-nd/2.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-NoDerivatives 2.0</a> License.
@@ -208,9 +195,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.5/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 2.5 Generic License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-SA-2.5}}](/wiki/Template:CC-SA-2.5 "Template:CC-SA-2.5")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-SA-2.5}}](https://tolkiengateway.net/wiki/Template:CC-SA-2.5)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.5/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 2.5</a> License.
@@ -228,9 +213,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by/3.0/" rel="noreferrer noopener" target="_blank">Attribution 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-3.0}}](/wiki/Template:CC-3.0 "Template:CC-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-3.0}}](https://tolkiengateway.net/wiki/Template:CC-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by/3.0/" rel="noreferrer noopener" target="_blank">Attribution 3.0</a> License.
@@ -248,9 +231,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-SA-3.0}}](/wiki/Template:CC-SA-3.0 "Template:CC-SA-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-SA-3.0}}](https://tolkiengateway.net/wiki/Template:CC-SA-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 3.0</a> License.
@@ -268,9 +249,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nd/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NoDerivs 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-ND-3.0}}](/wiki/Template:CC-ND-3.0 "Template:CC-ND-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-ND-3.0}}](https://tolkiengateway.net/wiki/Template:CC-ND-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nd/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NoDerivatives 3.0</a> License.
@@ -288,9 +267,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 3.0 Unported  License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-3.0}}](/wiki/Template:CC-NC-3.0 "Template:CC-NC-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-3.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial 3.0</a> License.
@@ -308,9 +285,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-ShareAlike 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-SA-3.0}}](/wiki/Template:CC-NC-SA-3.0 "Template:CC-NC-SA-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-SA-3.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-SA-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-ShareAlike 3.0</a> License.
@@ -328,9 +303,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 <p class="tg-quote-footer"><cite>See: <a class="external text" href="http://creativecommons.org/licenses/by-nc-nd/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-NoDerivs 3.0 Unported License Deed</a></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-To apply this template simply use the following tag in the upload summary: "[{{CC-NC-ND-3.0}}](/wiki/Template:CC-NC-ND-3.0 "Template:CC-NC-ND-3.0")". The following is an example of this template in use:
+To apply this template simply use the following tag in the upload summary: "[{{CC-NC-ND-3.0}}](https://tolkiengateway.net/wiki/Template:CC-NC-ND-3.0)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-nc-nd/3.0/" rel="noreferrer noopener" target="_blank">Attribution-NonCommercial-NoDerivatives 3.0</a> License.
@@ -344,7 +317,7 @@ To apply this template simply use the following tag in the upload summary: "[{{C
 
 ### Copyright forfeited {#Copyright_forfeited}
 
-Most images on the web <b>have not been released into the <a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain">public domain</a></b>, even if they no explicit copyright information with the image. Only use this tag if you are certain that the author has made an explicit disclaimer of the copyright in writing. To apply this template simply use the following tag in the upload summary: "[{{PD-released}}](/wiki/Template:PD-released "Template:PD-released")". The following is an example of this template in use:
+Most images on the web <b>have not been released into the <a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain">public domain</a></b>, even if they no explicit copyright information with the image. Only use this tag if you are certain that the author has made an explicit disclaimer of the copyright in writing. To apply this template simply use the following tag in the upload summary: "[{{PD-released}}](https://tolkiengateway.net/wiki/Template:PD-released)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>The copyright for this work has been forfeited by its author and is therefore in the <a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain"><span class="licensetpl_short">public domain</span></a>.
@@ -355,7 +328,7 @@ Most images on the web <b>have not been released into the <a class="extiw" href=
 
 ### Copyright expired {#Copyright_expired}
 
-Most images on the web <b>have not been released into the <a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain">public domain</a></b>, even if they no explicit copyright information with the image. Only use this tag if you are certain that copyright has expired in the image's nation/territory of origin. To apply this template simply use the following tag in the upload summary: "[{{PD-expired}}](/wiki/Template:PD-expired "Template:PD-expired")". The following is an example of this template in use:
+Most images on the web <b>have not been released into the <a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain">public domain</a></b>, even if they no explicit copyright information with the image. Only use this tag if you are certain that copyright has expired in the image's nation/territory of origin. To apply this template simply use the following tag in the upload summary: "[{{PD-expired}}](https://tolkiengateway.net/wiki/Template:PD-expired)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>The copyright for this file has expired according to the law of this work&#39;s nation/territory of origin; it is therefore in the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain"><span class="licensetpl_short">public domain</span></a></b>.
@@ -368,7 +341,7 @@ Most images on the web <b>have not been released into the <a class="extiw" href=
 
 ### Fair use {#Fair_use}
 
-Copyright files may be used on [Tolkien Gateway](/wiki/Tolkien_Gateway) if the image uploader believes that it qualifies as <b><a class="extiw" href="http://en.wikipedia.org/wiki/Fair_use" title="wikipedia:Fair use">fair use</a></b> under <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank">United States copyright law</a>. Copyrighted images can be under fairuse because Tolkien Gateway is a not-for-profit educational website. To apply this template use the following tag in the upload summary: "{{Copyright-fairuse\|Copyright owner}}". Whenever possible a link to the copyright holder's website should also be included, for example: "[{{Copyright-fairuse\|\[http://copyrightholderwebsite.com/ Copyright owner's name\]}}](/wiki/Template:Copyright-fairuse "Template:Copyright-fairuse")". The following is an example of this template in use:
+Copyright files may be used on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) if the image uploader believes that it qualifies as <b><a class="extiw" href="http://en.wikipedia.org/wiki/Fair_use" title="wikipedia:Fair use">fair use</a></b> under <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank">United States copyright law</a>. Copyrighted images can be under fairuse because Tolkien Gateway is a not-for-profit educational website. To apply this template use the following tag in the upload summary: "{{Copyright-fairuse\|Copyright owner}}". Whenever possible a link to the copyright holder's website should also be included, for example: "[{{Copyright-fairuse\|\[http://copyrightholderwebsite.com/ Copyright owner's name\]}}](https://tolkiengateway.net/wiki/Template:Copyright-fairuse)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://tolkiengateway.net/wiki/User:Joe_Bloggs" rel="noreferrer noopener" target="_blank">Joe Bloggs</a>. It is believed that the limited use of this file,
@@ -382,23 +355,23 @@ Copyright files may be used on [Tolkien Gateway](/wiki/Tolkien_Gateway) if the i
 
 ### Permission granted {#Permission_granted}
 
-Copyright files may also be used on [Tolkien Gateway](/wiki/Tolkien_Gateway) if the uploader, or [Tolkien Gateway](/wiki/Tolkien_Gateway) itself, has been granted permission by the copyright owner to use the image on this website. To apply this template use the following tag in the upload summary: "[{{Copyright-permission\|Artist's name\|Artists website}}](/wiki/Template:Copyright-permission "Template:Copyright-permission")". The following is an example of this template in use:
+Copyright files may also be used on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) if the uploader, or [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) itself, has been granted permission by the copyright owner to use the image on this website. To apply this template use the following tag in the upload summary: "[{{Copyright-permission\|Artist's name\|Artists website}}](https://tolkiengateway.net/wiki/Template:Copyright-permission)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Joe Bloggs</span></span>
 <p>This work is copyrighted and owned by Joe Bloggs. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Joe Bloggs</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/" rel="noreferrer noopener" target="_blank">deviantART</a></li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/Joe_Bloggs&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Joe Bloggs (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/Joe_Bloggs&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Joe Bloggs (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 <br>
 
 ## Maps {#Maps}
 
-The following template must be applied to the file pages of all maps on Tolkien Gateway because the likenesses of maps related to J.R.R. Tolkien's legendarium are owned by the [Tolkien Estate](/wiki/Tolkien_Estate). This template must be placed below the normal copyright template (which are listed above). To apply this template use the following tag: "[{{Map}}](/wiki/Template:Map "Template:Map")". The following is an example of this template in use:
+The following template must be applied to the file pages of all maps on Tolkien Gateway because the likenesses of maps related to J.R.R. Tolkien's legendarium are owned by the [Tolkien Estate](../../main/T/Tolkien_Estate.md). This template must be placed below the normal copyright template (which are listed above). To apply this template use the following tag: "[{{Map}}](https://tolkiengateway.net/wiki/Template:Map)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -409,10 +382,10 @@ The following template must be applied to the file pages of all maps on Tolkien 
 
 ## Tengwar writings {#Tengwar_writings}
 
-The following template must be applied to the file pages of all [Tengwar](/wiki/Tengwar) writings on Tolkien Gateway to credit [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) as the person who devised the script itself. This template should be placed below the normal copyright template (which are listed above). To apply this template use the following tag: "[{{Fairuse-Tengwar}}](/wiki/Template:Tengwar "Template:Tengwar")". The following is an example of this template in use:
+The following template must be applied to the file pages of all [Tengwar](../../main/T/Tengwar.md) writings on Tolkien Gateway to credit [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) as the person who devised the script itself. This template should be placed below the normal copyright template (which are listed above). To apply this template use the following tag: "[{{Fairuse-Tengwar}}](https://tolkiengateway.net/wiki/Template:Tengwar)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this writing, based on the <a href="/wiki/Tengwar" title="Tengwar">Tengwar</a> script devised by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>,
+<p>It is believed that the use of this writing, based on the <a href="../../main/T/Tengwar.md" title="Tengwar">Tengwar</a> script devised by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -423,7 +396,7 @@ The following template must be applied to the file pages of all [Tengwar](/wiki/
 
 ## Unknown {#Unknown}
 
-If the licensing of an image is **genuinely** unknown then this template should be used. Make sure that you exhaust your research capabilities before applying this template, do not use it in the expectation that others will take the time to conduct the research for you. Please note that this is considered a maintenance template and not a permanent licensing template. To apply this template use the following tag in the upload summary: "[{{Copyright-unknown}}](/wiki/Template:Copyright-unknown "Template:Copyright-unknown")". The following is an example of this template in use:
+If the licensing of an image is **genuinely** unknown then this template should be used. Make sure that you exhaust your research capabilities before applying this template, do not use it in the expectation that others will take the time to conduct the research for you. Please note that this is considered a maintenance template and not a permanent licensing template. To apply this template use the following tag in the upload summary: "[{{Copyright-unknown}}](https://tolkiengateway.net/wiki/Template:Copyright-unknown)". The following is an example of this template in use:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color: var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
 <p>The copyright status of this file is <b>unknown</b>. This file will be deleted unless it is assigned a proper <a class="mw-selflink selflink">file licensing template</a>.

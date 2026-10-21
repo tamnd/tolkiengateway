@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ere iron was found or tree was hewn"
 ---
 
-Redirect to [Ere iron was found or tree was hewn](/wiki/Ere_iron_was_found_or_tree_was_hewn).
+Redirect to [Ere iron was found or tree was hewn](../E/Ere_iron_was_found_or_tree_was_hewn.md).

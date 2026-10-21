@@ -1,6 +1,5 @@
 ---
 title: "File:Beyond Bree 1986 Tolkien Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beyond Bree 1986 Tolkien Calendar.jpg</span>"
 page_id: 6572
 namespace: 6
 revision_id: 215451

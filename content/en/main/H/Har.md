@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harn"
 ---
 
-Redirect to [Harn](/wiki/Harn).
+Redirect to [Harn](Harn.md).

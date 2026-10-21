@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helke"
 ---
 
-Redirect to [Helke](/wiki/Helke).
+Redirect to [Helke](Helke.md).

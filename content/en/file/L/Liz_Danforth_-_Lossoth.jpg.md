@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Lossoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Lossoth.jpg</span>"
 page_id: 29937
 namespace: 6
 revision_id: 203326
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lossoth](/wiki/Lossoth) by [Liz Danforth](/wiki/Liz_Danforth).
+[Lossoth](../../main/L/Lossoth.md) by [Liz Danforth](../../main/L/Liz_Danforth.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vales of Anduin"
 ---
 
-Redirect to [Vales of Anduin](/wiki/Vales_of_Anduin).
+Redirect to [Vales of Anduin](../V/Vales_of_Anduin.md).

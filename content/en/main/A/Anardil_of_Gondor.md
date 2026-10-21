@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anardil (King of Gondor)"
 ---
 
-Redirect to [Anardil (King of Gondor)](/wiki/Anardil_(King_of_Gondor)).
+Redirect to [Anardil (King of Gondor)](<Anardil_(King_of_Gondor).md>).

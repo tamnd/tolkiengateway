@@ -1,6 +1,5 @@
 ---
 title: "File:Rorimac Brandybuck - The Lord of the Rings Roleplaying.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rorimac Brandybuck - The Lord of the Rings Roleplaying.jpg</span>"
 page_id: 71235
 namespace: 6
 revision_id: 442350
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Rorimac Brandybuck - The Lord of the Rings Roleplaying.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Rorimac_Brandybuck" title="Rorimac Brandybuck">Rorimac Brandybuck</a>
+<p><a href="../../main/R/Rorimac_Brandybuck.md" title="Rorimac Brandybuck">Rorimac Brandybuck</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jan_Posp%C3%AD%C5%A1il" title="Jan Pospíšil">Jan Pospíšil</a></td>
+<td><a href="../../main/J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings_Roleplaying" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 100</td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings_Roleplaying.md" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 100</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

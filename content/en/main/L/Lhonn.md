@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lond"
 ---
 
-Redirect to [Lond](/wiki/Lond).
+Redirect to [Lond](Lond.md).

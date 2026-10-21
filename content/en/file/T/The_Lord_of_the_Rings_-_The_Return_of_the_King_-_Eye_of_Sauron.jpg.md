@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Eye of Sauron.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Eye of Sauron.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Eye_of_Sauron.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Eye of Sauron.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Eye_of_Sauron.jpg.md).

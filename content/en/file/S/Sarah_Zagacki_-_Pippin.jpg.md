@@ -1,6 +1,5 @@
 ---
 title: "File:Sarah Zagacki - Pippin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sarah Zagacki - Pippin.jpg</span>"
 page_id: 13064
 namespace: 6
 revision_id: 207281
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Sarah Zagacki</li>
 <li><b>Website:</b> <a class="external text" href="http://rustyfeathers.wordpress.com/2012/08/01/what-about-second-breakfast/" rel="noreferrer noopener" target="_blank">Sarah Zagacki&#39;s blog</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Sarah_Zagacki" title="Tolkien Gateway:Copyrights/Sarah Zagacki">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSarah_Zagacki.md" title="Tolkien Gateway:Copyrights/Sarah Zagacki">Permission for use on Tolkien Gateway</a></b></li></ul></div>

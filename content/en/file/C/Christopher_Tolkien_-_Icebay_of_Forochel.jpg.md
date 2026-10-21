@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Icebay of Forochel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Icebay of Forochel.jpg</span>"
 page_id: 64176
 namespace: 6
 revision_id: 366857
@@ -27,9 +26,9 @@ file:
 
 ## Summary {#Summary}
 
-Image cropped from the [composite image](</wiki/File:Christopher_Tolkien_-_The_First_Map_(composite).gif> "File:Christopher Tolkien - The First Map (composite).gif") of [The First Map of The Lord of the Rings](/wiki/The_First_Map_of_The_Lord_of_the_Rings) by [Christopher Tolkien](/wiki/Christopher_Tolkien) in order to illustrate the [Icebay of Forochel](/wiki/Icebay_of_Forochel).
+Image cropped from the [composite image](<Christopher_Tolkien_-_The_First_Map_(composite).gif.md>) of [The First Map of The Lord of the Rings](../../main/T/The_First_Map_of_The_Lord_of_the_Rings.md) by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) in order to illustrate the [Icebay of Forochel](../../main/I/Icebay_of_Forochel.md).
 
-The [Blue Mountains](/wiki/Blue_Mountains) (partially), the [Hills of Evendim](/wiki/Hills_of_Evendim) and the [North Downs](/wiki/North_Downs) to the south are visible for context.
+The [Blue Mountains](../../main/B/Blue_Mountains.md) (partially), the [Hills of Evendim](../../main/H/Hills_of_Evendim.md) and the [North Downs](../../main/N/North_Downs.md) to the south are visible for context.
 
 ## Licensing {#Licensing}
 

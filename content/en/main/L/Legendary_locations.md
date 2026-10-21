@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Template:LegendLoc"
 ---
 
-Redirect to [Template:LegendLoc](/wiki/Template:LegendLoc).
+Redirect to [Template:LegendLoc](https://tolkiengateway.net/wiki/Template:LegendLoc).

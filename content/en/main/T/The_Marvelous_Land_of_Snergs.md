@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Marvellous Land of Snergs"
 ---
 
-Redirect to [The Marvellous Land of Snergs](/wiki/The_Marvellous_Land_of_Snergs).
+Redirect to [The Marvellous Land of Snergs](The_Marvellous_Land_of_Snergs.md).

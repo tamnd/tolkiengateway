@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthur (disambiguation)"
 ---
 
-Redirect to [Arthur (disambiguation)](/wiki/Arthur_(disambiguation)).
+Redirect to [Arthur (disambiguation)](<Arthur_(disambiguation).md>).

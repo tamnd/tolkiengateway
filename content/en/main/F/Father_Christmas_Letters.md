@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters from Father Christmas"
 ---
 
-Redirect to [Letters from Father Christmas](/wiki/Letters_from_Father_Christmas).
+Redirect to [Letters from Father Christmas](../L/Letters_from_Father_Christmas.md).

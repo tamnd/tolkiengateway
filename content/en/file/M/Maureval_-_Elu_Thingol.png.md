@@ -1,6 +1,5 @@
 ---
 title: "File:Maureval - Elu Thingol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maureval - Elu Thingol.png</span>"
 page_id: 51334
 namespace: 6
 revision_id: 277588
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Maureval</li>
 <li><b>Website:</b> <a class="external free" href="http://maureval.deviantart.com" rel="noreferrer noopener" target="_blank">http://maureval.deviantart.com</a> and <a class="external free" href="http://www.behance.net/Maureval" rel="noreferrer noopener" target="_blank">http://www.behance.net/Maureval</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Maureval" title="Tolkien Gateway:Copyrights/Maureval">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMaureval.md" title="Tolkien Gateway:Copyrights/Maureval">Permission for use on Tolkien Gateway</a></b></li></ul></div>

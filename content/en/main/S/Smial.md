@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Smials"
 ---
 
-Redirect to [Smials](/wiki/Smials).
+Redirect to [Smials](Smials.md).

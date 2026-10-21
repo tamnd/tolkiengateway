@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arise, arise, Riders of Théoden!"
 ---
 
-Redirect to [Arise, arise, Riders of Théoden!](/wiki/Arise,_arise,_Riders_of_Théoden!).
+Redirect to [Arise, arise, Riders of Théoden!](Arise,_arise,_Riders_of_Théoden!.md).

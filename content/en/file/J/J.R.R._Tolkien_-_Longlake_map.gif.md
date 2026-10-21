@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Longlake map.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Longlake map.gif</span>"
 page_id: 31141
 namespace: 6
 revision_id: 384639
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch by Tolkien showing the area of the [Long Lake](/wiki/Long_Lake) and [Esgaroth](/wiki/Lake-town "Lake-town") upon it.
+Sketch by Tolkien showing the area of the [Long Lake](../../main/L/Long_Lake.md) and [Esgaroth](../../main/L/Lake-town.md) upon it.
 
 ## Licensing {#Licensing}
 

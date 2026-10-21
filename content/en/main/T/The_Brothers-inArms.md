@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Brothers-in-Arms"
 ---
 
-Redirect to [The Brothers-in-Arms](/wiki/The_Brothers-in-Arms).
+Redirect to [The Brothers-in-Arms](https://tolkiengateway.net/wiki/The_Brothers-in-Arms).

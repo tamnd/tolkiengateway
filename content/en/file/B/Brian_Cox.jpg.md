@@ -1,6 +1,5 @@
 ---
 title: "File:Brian Cox.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brian Cox.jpg</span>"
 page_id: 71767
 namespace: 6
 revision_id: 434553
@@ -30,13 +29,10 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Brian Cox.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Brian_Cox" title="Brian Cox">Brian Cox</a>
+<p><a href="../../main/B/Brian_Cox.md" title="Brian Cox">Brian Cox</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Phillip Romano</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/File:BrianCox-byPhilipRomano.jpg" rel="noreferrer noopener" target="_blank">Source</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

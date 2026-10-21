@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Frodo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Frodo.png</span>"
 page_id: 71433
 namespace: 6
 revision_id: 426022
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo Baggins](/wiki/Frodo_Baggins) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Frodo Baggins](../../main/F/Frodo_Baggins.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

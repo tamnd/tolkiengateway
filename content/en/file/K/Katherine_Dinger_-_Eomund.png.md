@@ -1,6 +1,5 @@
 ---
 title: "File:Katherine Dinger - Eomund.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Katherine Dinger - Eomund.png</span>"
 page_id: 34731
 namespace: 6
 revision_id: 424418

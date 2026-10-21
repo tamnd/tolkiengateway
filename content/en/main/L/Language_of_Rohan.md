@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohanese"
 ---
 
-Redirect to [Rohanese](/wiki/Rohanese).
+Redirect to [Rohanese](../R/Rohanese.md).

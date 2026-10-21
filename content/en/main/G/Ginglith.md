@@ -1,6 +1,5 @@
 ---
 title: "Ginglith"
-display_title: "<span class=\"mw-page-title-main\">Ginglith</span>"
 page_id: 2664
 namespace: 0
 revision_id: 371182
@@ -27,17 +26,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/eaux/beleriand/ginglith"
 ---
 
-The river **Ginglith** was a river of [Beleriand](/wiki/Beleriand) and a tributary to [Narog](/wiki/Narog).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The river **Ginglith** was a river of [Beleriand](../B/Beleriand.md) and a tributary to [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The Ginglith had its wells in the [Woods of Núath](/wiki/Woods_of_N%C3%BAath), under the near the [Ered Wethrin](/wiki/Ered_Wethrin) in northern [West Beleriand](/wiki/West_Beleriand).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> After passing by the lands of Tumhalad it met the Narog about 50 miles north of [Nargothrond](/wiki/Nargothrond).
+The Ginglith had its wells in the [Woods of Núath](../W/Woods_of_Núath.md), under the near the [Ered Wethrin](../E/Ered_Wethrin.md) in northern [West Beleriand](../W/West_Beleriand.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> After passing by the lands of Tumhalad it met the Narog about 50 miles north of [Nargothrond](../N/Nargothrond.md).
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/Of_Tuor_and_his_Coming_to_Gondolin" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;, note 14</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;, note 14</span>
 </li>
 </ol></div>

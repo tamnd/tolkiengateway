@@ -1,6 +1,5 @@
 ---
 title: "Category:Quiz books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quiz books</span>"
 page_id: 28850
 namespace: 14
 revision_id: 126503

@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations</span>"
 page_id: 1040
 namespace: 14
 revision_id: 195925
@@ -13,4 +12,4 @@ categories:
   - "Eä"
 ---
 
-This category and its subcategories lists all the **Locations** within [Arda](/wiki/Arda).
+This category and its subcategories lists all the **Locations** within [Arda](../../main/A/Arda.md).

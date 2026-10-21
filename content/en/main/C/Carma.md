@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karma"
 ---
 
-Redirect to [Karma](/wiki/Karma).
+Redirect to [Karma](../K/Karma.md).

@@ -1,6 +1,5 @@
 ---
 title: "Funny Little Things"
-display_title: "<span class=\"mw-page-title-main\">Funny Little Things</span>"
 page_id: 46058
 namespace: 0
 revision_id: 408293
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Funny Little Things** is the eleventh track on *[The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack)* from the [1977](/wiki/1977) [film adaptation](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)"). It was based on the poem "[Fifteen birds in five fir-trees](/wiki/Fifteen_birds_in_five_fir-trees)", with music by [Maury Laws](/wiki/Maury_Laws) and [Jules Bass](/wiki/Jules_Bass) adapting the lyric for the song.
+**Funny Little Things** is the eleventh track on *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)* from the [1977](../_/1977.md) [film adaptation](<../T/The_Hobbit_(1977_film).md>). It was based on the poem "[Fifteen birds in five fir-trees](Fifteen_birds_in_five_fir-trees.md)", with music by [Maury Laws](../M/Maury_Laws.md) and [Jules Bass](../J/Jules_Bass.md) adapting the lyric for the song.
 
 ## Lyrics {#Lyrics}
 

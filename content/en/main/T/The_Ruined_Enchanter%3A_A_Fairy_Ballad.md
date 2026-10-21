@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ruined Enchanter"
 ---
 
-Redirect to [The Ruined Enchanter](/wiki/The_Ruined_Enchanter).
+Redirect to [The Ruined Enchanter](The_Ruined_Enchanter.md).

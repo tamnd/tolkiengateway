@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Otto Boffin"
 ---
 
-Redirect to [Otto Boffin](/wiki/Otto_Boffin).
+Redirect to [Otto Boffin](Otto_Boffin.md).

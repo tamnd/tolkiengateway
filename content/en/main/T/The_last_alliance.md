@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Alliance of Elves and Men"
 ---
 
-Redirect to [Last Alliance of Elves and Men](/wiki/Last_Alliance_of_Elves_and_Men).
+Redirect to [Last Alliance of Elves and Men](../L/Last_Alliance_of_Elves_and_Men.md).

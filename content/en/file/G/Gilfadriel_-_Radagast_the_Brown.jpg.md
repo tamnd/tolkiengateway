@@ -1,6 +1,5 @@
 ---
 title: "File:Gilfadriel - Radagast the Brown.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gilfadriel - Radagast the Brown.jpg</span>"
 page_id: 64513
 namespace: 6
 revision_id: 370371
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gilfadriel aka Elendillions</li>
 <li><b>Website:</b> <a class="external text" href="https://www.tumblr.com/gilfadriel" rel="noreferrer noopener" target="_blank">Gilfadriel aka Elendillions at Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gilfadriel_aka_Elendillions" title="Tolkien Gateway:Copyrights/Gilfadriel aka Elendillions">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGilfadriel_aka_Elendillions.md" title="Tolkien Gateway:Copyrights/Gilfadriel aka Elendillions">Permission for use on Tolkien Gateway</a></b></li></ul></div>

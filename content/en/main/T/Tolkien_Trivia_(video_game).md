@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Trivia"
 ---
 
-Redirect to [Tolkien Trivia](/wiki/Tolkien_Trivia).
+Redirect to [Tolkien Trivia](Tolkien_Trivia.md).

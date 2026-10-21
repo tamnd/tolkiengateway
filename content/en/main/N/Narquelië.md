@@ -1,6 +1,5 @@
 ---
 title: "Narquelië"
-display_title: "<span class=\"mw-page-title-main\">Narquelië</span>"
 page_id: 4059
 namespace: 0
 revision_id: 299453
@@ -17,23 +16,23 @@ sort_keys:
   "Quenya nouns": "Narquelie"
 ---
 
-**Narquelië** was the tenth month of the year, according to the [Kings'](/wiki/Kings%27_Reckoning "Kings' Reckoning") and [Stewards' Reckoning](/wiki/Stewards%27_Reckoning) of [Gondor](/wiki/Gondor), and the seventh month according to the [New Reckoning](/wiki/New_Reckoning); following the month of [Yavannië](/wiki/Yavanni%C3%AB) in the [Kings' Reckoning](/wiki/Kings%27_Reckoning), the harvest feast of [Yáviérë](/wiki/Y%C3%A1vi%C3%A9r%C3%AB) in the Stewards' Reckoning, the [Enderi](/wiki/Enderi) in the New Reckoning, and preceding [Hísimë](/wiki/H%C3%ADsim%C3%AB) in all 3 calendars. Narquelië in the Kings' and Stewards' Reckoning corresponded to [Winterfilth](/wiki/Winterfilth) in the [Shire Calendar](/wiki/Shire_Calendar) (approximately modern [22 September](/wiki/22_September) through [21 October](/wiki/21_October)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Narquelië** was the tenth month of the year, according to the [Kings'](../K/Kings'_Reckoning.md) and [Stewards' Reckoning](../S/Stewards'_Reckoning.md) of [Gondor](../G/Gondor.md), and the seventh month according to the [New Reckoning](New_Reckoning.md); following the month of [Yavannië](../Y/Yavannië.md) in the [Kings' Reckoning](../K/Kings'_Reckoning.md), the harvest feast of [Yáviérë](../Y/Yáviérë.md) in the Stewards' Reckoning, the [Enderi](../E/Enderi.md) in the New Reckoning, and preceding [Hísimë](../H/Hísimë.md) in all 3 calendars. Narquelië in the Kings' and Stewards' Reckoning corresponded to [Winterfilth](../W/Winterfilth.md) in the [Shire Calendar](../S/Shire_Calendar.md) (approximately modern [22 September](../_/22_September.md) through [21 October](../_/21_October.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Narquelië* is a [Quenya](/wiki/Quenya) word meaning "Sun-fading".<sup id="cite_ref-K3_2-0" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
+*Narquelië* is a [Quenya](../Q/Quenya.md) word meaning "Sun-fading".<sup id="cite_ref-K3_2-0" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
 
 ## Cognates {#Cognates}
 
-- *[Narquelion](/wiki/Narquelion)*<sup id="cite_ref-K3_2-1" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
+- *[Narquelion](Narquelion.md)*<sup id="cite_ref-K3_2-1" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
-<li id="cite_note-K3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-K3_2-0">2.0</a></sup> <sup><a href="#cite_ref-K3_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="/wiki/The_Cottage_of_Lost_Play" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34;, <a href="/wiki/The_Trees_of_Kortirion" title="The Trees of Kortirion"><i>The Trees of Kortirion</i></a>, p. 41</span>
+<li id="cite_note-K3-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-K3_2-0">2.0</a></sup> <sup><a href="#cite_ref-K3_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="../T/The_Cottage_of_Lost_Play.md" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34;, <a href="../T/The_Trees_of_Kortirion.md" title="The Trees of Kortirion"><i>The Trees of Kortirion</i></a>, p. 41</span>
 </li>
 </ol></div>

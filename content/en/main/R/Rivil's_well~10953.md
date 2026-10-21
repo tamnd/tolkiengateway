@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rivil's Well"
 ---
 
-Redirect to [Rivil's Well](/wiki/Rivil's_Well).
+Redirect to [Rivil's Well](Rivil's_Well.md).

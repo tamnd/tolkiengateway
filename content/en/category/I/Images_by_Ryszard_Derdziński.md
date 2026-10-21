@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ryszard Derdziński"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ryszard Derdziński</span>"
 page_id: 12445
 namespace: 14
 revision_id: 356978
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Derdzinski, Ryszard"
 ---
 
-This category lists all **images by [Ryszard Derdziński](/wiki/Ryszard_Derdzi%C5%84ski)**.
+This category lists all **images by [Ryszard Derdziński](../../main/R/Ryszard_Derdziński.md)**.

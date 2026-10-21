@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carnimírië"
 ---
 
-Redirect to [Carnimírië](/wiki/Carnimírië).
+Redirect to [Carnimírië](Carnimírië.md).

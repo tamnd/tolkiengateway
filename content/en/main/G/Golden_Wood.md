@@ -11,4 +11,4 @@ redirect_target: "Lothlórien"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Lothlórien](/wiki/Lothlórien#Names).
+Redirect to [Lothlórien](../L/Lothlórien.md#Names).

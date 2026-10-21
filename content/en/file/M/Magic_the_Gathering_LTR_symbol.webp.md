@@ -1,6 +1,5 @@
 ---
 title: "File:Magic the Gathering LTR symbol.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Magic the Gathering LTR symbol.webp</span>"
 page_id: 69926
 namespace: 6
 revision_id: 438383

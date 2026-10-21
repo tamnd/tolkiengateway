@@ -15,8 +15,8 @@ images:
   - "The_Pant-Hoot_J.R.R._Tolkien_Memorial_Calendar_1975.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Pant-Hoot_J.R.R._Tolkien_Memorial_Calendar_1975.jpg"><img src="/w/images/a/a2/The_Pant-Hoot_J.R.R._Tolkien_Memorial_Calendar_1975.jpg" decoding="async" loading="lazy" width="168" height="216" class="mw-file-element" data-file-width="168" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Pant-Hoot_J.R.R._Tolkien_Memorial_Calendar_1975.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a2/The_Pant-Hoot_J.R.R._Tolkien_Memorial_Calendar_1975.jpg" decoding="async" loading="lazy" width="168" height="216" class="mw-file-element" data-file-width="168" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**The Pant-Hoot J.R.R. Tolkien Memorial Calendar 1975** was produced by <a class="new" href="/w/index.php?title=Pant-Hoot_Publications&amp;action=edit&amp;redlink=1" title="Pant-Hoot Publications (page does not exist)">Pant-Hoot Publications</a> and was the first of the calendars by the [American Tolkien Society](/wiki/American_Tolkien_Society). Illustrations are by <a class="new" href="/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip W. Helms</a>.
+**The Pant-Hoot J.R.R. Tolkien Memorial Calendar 1975** was produced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pant-Hoot_Publications&amp;action=edit&amp;redlink=1" title="Pant-Hoot Publications (page does not exist)">Pant-Hoot Publications</a> and was the first of the calendars by the [American Tolkien Society](../A/American_Tolkien_Society.md). Illustrations are by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip W. Helms</a>.
 
 - 8\.5 x 11 inches

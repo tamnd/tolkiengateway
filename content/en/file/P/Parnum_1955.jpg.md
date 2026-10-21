@@ -1,6 +1,5 @@
 ---
 title: "File:Parnum 1955.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parnum 1955.jpg</span>"
 page_id: 26186
 namespace: 6
 revision_id: 215086

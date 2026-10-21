@@ -13,21 +13,21 @@ categories:
   - "Old Noldorin words"
 ---
 
-<i><b>mirya</b></i> is an [Old Noldorin](/wiki/Old_Noldorin) word meaning "precious".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>mirya</b></i> is an [Old Noldorin](../O/Old_Noldorin.md) word meaning "precious".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Root) [MIR](/wiki/MIR) plus ending [-ya](/wiki/-ya)
+- [Root](../R/Root.md) [MIR](MIR~30959.md) plus ending [-ya](../_/-ya.md)
 
 ## See also {#See_also}
 
-- [Quenya](/wiki/Quenya) *[mĭrya](/wiki/M%C4%ADrya "Mĭrya")*
+- [Quenya](../Q/Quenya.md) *[mĭrya](Mĭrya.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003 p. 34</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003 p. 34</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (elf of the Havens)"
 ---
 
-Redirect to [Galdor (elf of the Havens)](/wiki/Galdor_(elf_of_the_Havens)).
+Redirect to [Galdor (elf of the Havens)](<Galdor_(elf_of_the_Havens).md>).

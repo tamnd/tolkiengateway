@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Anders Blixt"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Anders Blixt</span>"
 page_id: 44000
 namespace: 4
 revision_id: 231369
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Blixt, Anders"
 ---
 
-- Permission granted by copyright holder [Anders Blixt](/wiki/Anders_Blixt) to use [Anders Blixt.jpg](/wiki/File:Anders_Blixt.jpg "File:Anders Blixt.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Anders Blixt](../../main/A/Anders_Blixt.md) to use [Anders Blixt.jpg](../../file/A/Anders_Blixt.jpg.md) on Tolkien Gateway.
 - Date: 4 July 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

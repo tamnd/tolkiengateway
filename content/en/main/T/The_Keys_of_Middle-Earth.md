@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Keys of Middle-earth"
 ---
 
-Redirect to [The Keys of Middle-earth](/wiki/The_Keys_of_Middle-earth).
+Redirect to [The Keys of Middle-earth](The_Keys_of_Middle-earth~15408.md).

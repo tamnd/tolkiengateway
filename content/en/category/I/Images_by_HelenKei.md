@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by HelenKei"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by HelenKei</span>"
 page_id: 49506
 namespace: 14
 revision_id: 264742

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Eva Zahradníková"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Eva Zahradníková</span>"
 page_id: 58096
 namespace: 4
 revision_id: 322128
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Zahradnikova, Eva"
 ---
 
-- Eva Zahradníková has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Eva_Zahradn%C3%ADkov%C3%A1 "Category:Images by Eva Zahradníková") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Eva Zahradníková has kindly granted her permission to use [her artwork](../../category/I/Images_by_Eva_Zahradníková.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

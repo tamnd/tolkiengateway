@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin's Bane"
 ---
 
-Redirect to [Durin's Bane](/wiki/Durin's_Bane).
+Redirect to [Durin's Bane](Durin's_Bane.md).

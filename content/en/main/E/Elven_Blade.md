@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elfijskij Klinok"
 ---
 
-Redirect to [Elfijskij Klinok](/wiki/Elfijskij_Klinok).
+Redirect to [Elfijskij Klinok](Elfijskij_Klinok.md).

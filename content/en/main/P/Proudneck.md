@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Madoc Brandybuck"
 ---
 
-Redirect to [Madoc Brandybuck](/wiki/Madoc_Brandybuck).
+Redirect to [Madoc Brandybuck](../M/Madoc_Brandybuck.md).

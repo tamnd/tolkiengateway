@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helka"
 ---
 
-Redirect to [Helka](/wiki/Helka).
+Redirect to [Helka](Helka.md).

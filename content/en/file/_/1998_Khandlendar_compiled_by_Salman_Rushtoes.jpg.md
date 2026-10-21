@@ -1,6 +1,5 @@
 ---
 title: "File:1998 Khandlendar compiled by Salman Rushtoes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">1998 Khandlendar compiled by Salman Rushtoes.jpg</span>"
 page_id: 6700
 namespace: 6
 revision_id: 215438

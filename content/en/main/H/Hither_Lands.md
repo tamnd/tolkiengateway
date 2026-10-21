@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth"
 ---
 
-Redirect to [Middle-earth](/wiki/Middle-earth).
+Redirect to [Middle-earth](../M/Middle-earth.md).

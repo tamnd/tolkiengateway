@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Hobbit archers at the battle of Fornost.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Hobbit archers at the battle of Fornost.jpg</span>"
 page_id: 72432
 namespace: 6
 revision_id: 433325
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Hobbit](/wiki/Hobbits "Hobbits") archers at [the battle of Fornost](/wiki/Battle_of_Fornost "Battle of Fornost") - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+[Hobbit](../../main/H/Hobbits.md) archers at [the battle of Fornost](../../main/B/Battle_of_Fornost.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>The Battle of Fornost was the decisive battle between the forces of Angmar, under the Witch-king, and of Eärnur, the Crown Prince of Gondor, in the year TA 1975 that ended the Witch-realm of Angmar. The Shire reportedly sent a company of Hobbit archers to support Gondor.<br/>
@@ -41,7 +40,7 @@ Only 97 of these figures are produced at this time. This is the 215th release in
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

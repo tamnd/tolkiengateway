@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghân"
 ---
 
-Redirect to [Ghân](/wiki/Ghân).
+Redirect to [Ghân](Ghân.md).

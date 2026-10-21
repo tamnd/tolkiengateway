@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Fabio Leone"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Fabio Leone</span>"
 page_id: 47905
 namespace: 14
 revision_id: 417916

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gobeth e Lam Edhellen: The Sindarin Dictionary"
 ---
 
-Redirect to [Gobeth e Lam Edhellen: The Sindarin Dictionary](/wiki/Gobeth_e_Lam_Edhellen:_The_Sindarin_Dictionary).
+Redirect to [Gobeth e Lam Edhellen: The Sindarin Dictionary](../G/Gobeth_e_Lam_Edhellen%253A_The_Sindarin_Dictionary.md).

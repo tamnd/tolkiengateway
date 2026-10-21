@@ -11,4 +11,4 @@ redirect_target: "The History of Galadriel and Celeborn"
 redirect_fragment: "The Elessar"
 ---
 
-Redirect to [The History of Galadriel and Celeborn](/wiki/The_History_of_Galadriel_and_Celeborn#The_Elessar).
+Redirect to [The History of Galadriel and Celeborn](The_History_of_Galadriel_and_Celeborn.md#The_Elessar).

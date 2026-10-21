@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärnur"
 ---
 
-Redirect to [Eärnur](/wiki/Eärnur).
+Redirect to [Eärnur](Eärnur.md).

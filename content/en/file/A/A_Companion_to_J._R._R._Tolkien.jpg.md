@@ -1,6 +1,5 @@
 ---
 title: "File:A Companion to J. R. R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Companion to J. R. R. Tolkien.jpg</span>"
 page_id: 49554
 namespace: 6
 revision_id: 264940

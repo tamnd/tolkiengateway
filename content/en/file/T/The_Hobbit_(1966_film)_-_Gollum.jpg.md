@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Gollum.jpg"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Gollum.jpg](/wiki/File:The_Hobbit_(1967_film)_-_Gollum.jpg).
+Redirect to [File:The Hobbit (1967 film) - Gollum.jpg](<The_Hobbit_(1967_film)_-_Gollum.jpg.md>).

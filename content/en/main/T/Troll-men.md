@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Half-trolls"
 ---
 
-Redirect to [Half-trolls](/wiki/Half-trolls).
+Redirect to [Half-trolls](../H/Half-trolls.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Xabi Gaztelua - Belladonna Took.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Xabi Gaztelua - Belladonna Took.jpg</span>"
 page_id: 74899
 namespace: 6
 revision_id: 440690
@@ -38,30 +37,27 @@ Again and again, I loved that book and the way she would read it to me. And when
 </p><p>So when I got the assignment for this card, the only thing I could think of was of her, all those shared moments and how much she taught me and how passionate she made me feel about fantasy stories by sharing her own passion with me. I really felt like little Bilbo in this scene. And I miss her so much, but I&#39;m so happy I could make this piece as an homage to her and immortalize her warm smile on a painting for a set I know she would have loved to see, and that now, in a way, I feel like she&#39;s a part of.
 </p><p>Thank you so much to my AD Cassie Murphy for trusting me with this piece
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Xabi_Gaztelua" title="Xabi Gaztelua">Xabi Gaztelua</a></td>
+<td><a href="../../main/X/Xabi_Gaztelua.md" title="Xabi Gaztelua">Xabi Gaztelua</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://xabigaztelua.com/#" rel="noreferrer noopener" target="_blank">Artist&#39;s Website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="/wiki/Middle-earth_Enterprises" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="../../main/M/Middle-earth_Enterprises.md" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

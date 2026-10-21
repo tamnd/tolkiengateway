@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balrogs"
 ---
 
-Redirect to [Balrogs](/wiki/Balrogs).
+Redirect to [Balrogs](Balrogs.md).

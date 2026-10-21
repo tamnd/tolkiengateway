@@ -1,6 +1,5 @@
 ---
 title: "File:Anna Kulisz - Frodo Reading.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anna Kulisz - Frodo Reading.jpeg</span>"
 page_id: 70220
 namespace: 6
 revision_id: 417677
@@ -39,4 +38,4 @@ oil on canvas 24x30 cm<i></i>
 </p>
 <ul><li><b>Name:</b> Anna Kulisz</li>
 <li><b>Website:</b> <a class="external text" href="http://kuliszu.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anna_Kulisz" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnna_Kulisz.md" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>

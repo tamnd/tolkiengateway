@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Mariusz Gandzel"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Mariusz Gandzel</span>"
 page_id: 72801
 namespace: 14
 revision_id: 431445
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gandzel, Mariusz"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Mariusz_Gandzel&amp;action=edit&amp;redlink=1" title="Mariusz Gandzel (page does not exist)">Mariusz Gandzel</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariusz_Gandzel&amp;action=edit&amp;redlink=1" title="Mariusz Gandzel (page does not exist)">Mariusz Gandzel</a></b>.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trotter"
 ---
 
-Redirect to [Trotter](/wiki/Trotter).
+Redirect to [Trotter](../T/Trotter.md).

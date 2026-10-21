@@ -1,6 +1,5 @@
 ---
 title: "File:Christie's Valuable Print Books and Manuscripts 15 November 2006.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christie&#039;s Valuable Print Books and Manuscripts 15 November 2006.jpg</span>"
 page_id: 47974
 namespace: 6
 revision_id: 255547
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> TolkienBooks.net</li>
 <li><b>Website:</b> <a class="external free" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">http://www.tolkienbooks.net/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/TolkienBooks.net" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTolkienBooks.net.md" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>

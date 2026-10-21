@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Sketch of a cleft in the mountains.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Sketch of a cleft in the mountains.jpeg</span>"
 page_id: 71496
 namespace: 6
 revision_id: 426286

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faring Forth"
 ---
 
-Redirect to [Faring Forth](/wiki/Faring_Forth).
+Redirect to [Faring Forth](../F/Faring_Forth.md).

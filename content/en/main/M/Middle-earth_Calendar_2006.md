@@ -16,11 +16,11 @@ images:
   - "Middle-earth_Calendar_2006.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Middle-earth_Calendar_2006.jpg"><img src="/w/images/4/43/Middle-earth_Calendar_2006.jpg" decoding="async" loading="lazy" width="216" height="216" class="mw-file-element" data-file-width="216" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/4/43/Middle-earth_Calendar_2006.jpg" decoding="async" loading="lazy" width="216" height="216" class="mw-file-element" data-file-width="216" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**Middle-earth Calendar 2006** was published by mlda fronta, Praha, Czech Republic. The calendar features watercolor or gouache illustrations by <a class="new" href="/w/index.php?title=Martin_Zhouf&amp;action=edit&amp;redlink=1" title="Martin Zhouf (page does not exist)">Martin Zhouf</a>.
+**Middle-earth Calendar 2006** was published by mlda fronta, Praha, Czech Republic. The calendar features watercolor or gouache illustrations by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Martin_Zhouf&amp;action=edit&amp;redlink=1" title="Martin Zhouf (page does not exist)">Martin Zhouf</a>.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/802040984X">ISBN 80-204-0984-X</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/802040984X">ISBN 80-204-0984-X</a>
 - Dimensions: 11 3/8 x 11 3/8 inches
 - Punched hanging hole
 - Shrink-wrapped

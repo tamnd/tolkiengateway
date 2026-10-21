@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Härskarringen"
 ---
 
-Redirect to [Härskarringen](/wiki/Härskarringen).
+Redirect to [Härskarringen](Härskarringen.md).

@@ -17,13 +17,13 @@ images:
   - "Sisam_letter_1938.jpg"
 ---
 
-On [28 May](/wiki/28_May) [1938](/wiki/1938), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Kenneth Sisam**.
+On [28 May](../_/28_May.md) [1938](../_/1938.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Kenneth Sisam**.
 
 - **Publication:** None. The letter is sold by Peter Harrington Antiquarian Bookseller (London, United Kingdom).
 
 ## From the bookseller {#From_the_bookseller}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Sisam_letter_1938.jpg"><img src="/w/images/thumb/2/24/Sisam_letter_1938.jpg/300px-Sisam_letter_1938.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="/w/images/2/24/Sisam_letter_1938.jpg 1.5x" data-file-width="394" data-file-height="591"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sisam_letter_1938.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/24/Sisam_letter_1938.jpg/300px-Sisam_letter_1938.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/24/Sisam_letter_1938.jpg 1.5x" data-file-width="394" data-file-height="591"/></a><figcaption></figcaption></figure>
 
 Tolkien writes to Kenneth Sisam, regarding Turville-Petre's presence in Iceland during his forthcoming publication. Edward Oswald Gabriel Turville-Petre F.B.A. (known as Gabriel) was Professor of Ancient Icelandic Literature and Antiquities at the University of Oxford. He wrote numerous books and articles in English and Icelandic on literature and religious history. Sisam began lecturing on Old and Middle English while still a student at Oxford. Tolkien, considered himself fortunate to have attended Sisam's lectures and later contributed a glossary to the work for which Sisam was best known, Fourteenth Century Verse and Prose. Sisam was assistant Secretary and Secretary to the Delegates of Oxford University Press. One page. Signed by Tolkien in black ink. Two punched filing holes. With the stamp of receipt from the Clarendon Press secretary's office.
 

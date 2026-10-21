@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's Last Song (at the Grey Havens)"
 ---
 
-Redirect to [Bilbo's Last Song (at the Grey Havens)](/wiki/Bilbo's_Last_Song_(at_the_Grey_Havens)).
+Redirect to [Bilbo's Last Song (at the Grey Havens)](<../B/Bilbo's_Last_Song_(at_the_Grey_Havens).md>).

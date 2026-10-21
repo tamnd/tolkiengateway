@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Balrog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Balrog.jpg</span>"
 page_id: 71547
 namespace: 6
 revision_id: 437858
@@ -35,7 +34,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Balrog](/wiki/Durin%27s_Bane "Durin's Bane")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). First published in the [1977 J.R.R. Tolkien Calendar](/wiki/1977_J.R.R._Tolkien_Calendar).
+"[The Balrog](../../main/D/Durin's_Bane.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). First published in the [1977 J.R.R. Tolkien Calendar](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
 
 ## Licensing {#Licensing}
 

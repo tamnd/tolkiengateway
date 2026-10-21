@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Mage of Rhudaur"
 ---
 
-Redirect to [Dark Mage of Rhudaur](/wiki/Dark_Mage_of_Rhudaur).
+Redirect to [Dark Mage of Rhudaur](../D/Dark_Mage_of_Rhudaur.md).

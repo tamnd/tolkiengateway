@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cûl Veleg"
 ---
 
-Redirect to [Cûl Veleg](/wiki/Cûl_Veleg).
+Redirect to [Cûl Veleg](Cûl_Veleg.md).

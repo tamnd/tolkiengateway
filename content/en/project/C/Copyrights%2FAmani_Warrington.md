@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Amani Warrington"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Amani Warrington</span>"
 page_id: 57587
 namespace: 4
 revision_id: 318899
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Warrington, Amani"
 ---
 
-- Amani Warrington has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Amani_Warrington "Category:Images by Amani Warrington") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Amani Warrington has kindly granted her permission to use [her artwork](../../category/I/Images_by_Amani_Warrington.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 27 July 2020
-- User who sought the permission: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

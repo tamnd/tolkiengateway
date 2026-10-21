@@ -1,6 +1,5 @@
 ---
 title: "File:Explicando Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Explicando Tolkien.jpg</span>"
 page_id: 45574
 namespace: 6
 revision_id: 243529

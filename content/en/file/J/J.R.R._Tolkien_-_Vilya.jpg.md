@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Vilya.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Vilya.jpg</span>"
 page_id: 65986
 namespace: 6
 revision_id: 380198
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Vilya](/wiki/Vilya) as seen in a [dust-jacket design](/wiki/The_Lord_of_the_Rings/Original_dust-jacket_designs "The Lord of the Rings/Original dust-jacket designs") for *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)* by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+[Vilya](../../main/V/Vilya.md) as seen in a [dust-jacket design](../../main/T/The_Lord_of_the_Rings%252FOriginal_dust-jacket_designs.md) for *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)* by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

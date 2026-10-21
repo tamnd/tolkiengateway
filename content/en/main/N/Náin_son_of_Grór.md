@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin (son of Grór)"
 ---
 
-Redirect to [Náin (son of Grór)](/wiki/Náin_(son_of_Grór)).
+Redirect to [Náin (son of Grór)](<Náin_(son_of_Grór).md>).

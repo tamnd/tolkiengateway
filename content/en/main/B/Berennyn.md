@@ -11,4 +11,4 @@ redirect_target: "Brown Lands"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Brown Lands](/wiki/Brown_Lands#Etymology).
+Redirect to [Brown Lands](Brown_Lands.md#Etymology).

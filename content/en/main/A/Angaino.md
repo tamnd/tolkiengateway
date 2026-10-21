@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angainor"
 ---
 
-Redirect to [Angainor](/wiki/Angainor).
+Redirect to [Angainor](Angainor.md).

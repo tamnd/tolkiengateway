@@ -1,6 +1,5 @@
 ---
 title: "File:Tales Before Narnia.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales Before Narnia.png</span>"
 page_id: 38428
 namespace: 6
 revision_id: 214611

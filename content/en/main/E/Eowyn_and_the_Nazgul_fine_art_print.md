@@ -11,4 +11,4 @@ redirect_target: "ADC Art and Books"
 redirect_fragment: "Collectibles"
 ---
 
-Redirect to [ADC Art and Books](/wiki/ADC_Art_and_Books#Collectibles).
+Redirect to [ADC Art and Books](../A/ADC_Art_and_Books.md#Collectibles).

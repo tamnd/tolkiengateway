@@ -1,6 +1,5 @@
 ---
 title: "File:Games Workshop - The Hobbit - Bill.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games Workshop - The Hobbit - Bill.png</span>"
 page_id: 45535
 namespace: 6
 revision_id: 387438
@@ -25,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-[\[William "Bill"](/wiki/William "William") in [The Hobbit Strategy Battle Game](/wiki/The_Hobbit_Strategy_Battle_Game).
+[\[William "Bill"](../../main/W/William.md) in [The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
 
 ## Licensing {#Licensing}
 

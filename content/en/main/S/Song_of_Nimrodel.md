@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lay of Nimrodel"
 ---
 
-Redirect to [Lay of Nimrodel](/wiki/Lay_of_Nimrodel).
+Redirect to [Lay of Nimrodel](../L/Lay_of_Nimrodel.md).

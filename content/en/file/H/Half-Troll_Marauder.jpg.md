@@ -1,6 +1,5 @@
 ---
 title: "File:Half-Troll Marauder.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Half-Troll Marauder.jpg</span>"
 page_id: 29946
 namespace: 6
 revision_id: 248654
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*Half-Troll Marauder* in *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*.
+*Half-Troll Marauder* in *[The Lord of the Rings: The Battle for Middle-earth II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*.
 
 ## Licensing {#Licensing}
 

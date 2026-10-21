@@ -11,4 +11,4 @@ redirect_target: "Doriath"
 redirect_fragment: "History"
 ---
 
-Redirect to [Doriath](/wiki/Doriath#History).
+Redirect to [Doriath](../D/Doriath.md#History).

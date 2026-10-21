@@ -1,6 +1,5 @@
 ---
 title: "Category:Articles needing expansion"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Articles needing expansion</span>"
 page_id: 15776
 namespace: 14
 revision_id: 63203

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Requiem for a Tower"
 ---
 
-Redirect to [Requiem for a Tower](/wiki/Requiem_for_a_Tower).
+Redirect to [Requiem for a Tower](Requiem_for_a_Tower.md).

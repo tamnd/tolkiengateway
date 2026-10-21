@@ -11,4 +11,4 @@ redirect_target: "The Hoard"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [The Hoard](/wiki/The_Hoard#Other_versions_of_the_legendarium).
+Redirect to [The Hoard](../T/The_Hoard.md#Other_versions_of_the_legendarium).

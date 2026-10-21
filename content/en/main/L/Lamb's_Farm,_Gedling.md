@@ -1,6 +1,5 @@
 ---
 title: "Lamb's Farm, Gedling"
-display_title: "<span class=\"mw-page-title-main\">Lamb&#039;s Farm, Gedling</span>"
 page_id: 27618
 namespace: 0
 revision_id: 417138
@@ -15,13 +14,13 @@ images:
   - "J.R.R._Tolkien_-_Lamb's_Farm,_Gedling.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Lamb%27s_Farm,_Gedling.jpg"><img src="/w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/300px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg" decoding="async" loading="lazy" width="300" height="265" class="mw-file-element" srcset="/w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/450px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg 1.5x, /w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/600px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg 2x" data-file-width="650" data-file-height="574"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Lamb&#39;s_Farm,_Gedling.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/300px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg" decoding="async" loading="lazy" width="300" height="265" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/450px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg/600px-J.R.R._Tolkien_-_Lamb%27s_Farm%2C_Gedling.jpg 2x" data-file-width="650" data-file-height="574"/></a><figcaption></figcaption></figure>
 
-**Lamb's Farm, Gedling** is a drawing by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), depicting <a class="new" href="/w/index.php?title=Phoenix_Farm&amp;action=edit&amp;redlink=1" title="Phoenix Farm (page does not exist)">Phoenix Farm</a>.
+**Lamb's Farm, Gedling** is a drawing by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), depicting <a class="new" href="https://tolkiengateway.net/w/index.php?title=Phoenix_Farm&amp;action=edit&amp;redlink=1" title="Phoenix Farm (page does not exist)">Phoenix Farm</a>.
 
-A reproduction of the drawing was first published in *[Sotheby's English Literature, History, Children's Books and Illustrations 17 December 2009](/wiki/Sotheby%27s_English_Literature,_History,_Children%27s_Books_and_Illustrations_17_December_2009)*. A second reproduction was intended to be published in *[Wheelbarrows at Dawn: Memories of Hilary Tolkien](/wiki/Wheelbarrows_at_Dawn "Wheelbarrows at Dawn")*.
+A reproduction of the drawing was first published in *[Sotheby's English Literature, History, Children's Books and Illustrations 17 December 2009](../S/Sotheby's_English_Literature,_History,_Children's_Books_and_Illustrations_17_December_2009.md)*. A second reproduction was intended to be published in *[Wheelbarrows at Dawn: Memories of Hilary Tolkien](../W/Wheelbarrows_at_Dawn.md)*.
 
-- **Authenticity:** High (provenance: certified by Christopher P. Tolkien - grandson of [Hilary Tolkien](/wiki/Hilary_Tolkien))
+- **Authenticity:** High (provenance: certified by Christopher P. Tolkien - grandson of [Hilary Tolkien](../H/Hilary_Tolkien.md))
 
 ## Description from the auction<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> {#Description_from_the_auction[1]}
 

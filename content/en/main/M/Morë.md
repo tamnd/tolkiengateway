@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "More"
 ---
 
-Redirect to [More](/wiki/More).
+Redirect to [More](More.md).

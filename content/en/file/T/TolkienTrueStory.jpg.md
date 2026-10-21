@@ -1,6 +1,5 @@
 ---
 title: "File:TolkienTrueStory.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TolkienTrueStory.jpg</span>"
 page_id: 69743
 namespace: 6
 revision_id: 414823
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-English thumbnail for the ARTE documentary [Tolkien: The True Story of the Rings](/wiki/Tolkien:_The_True_Story_of_the_Rings)
+English thumbnail for the ARTE documentary [Tolkien: The True Story of the Rings](../../main/T/Tolkien%253A_The_True_Story_of_the_Rings.md)
 
 ## Licensing {#Licensing}
 

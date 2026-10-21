@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Shelob's face.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Shelob&#039;s face.jpg</span>"
 page_id: 12572
 namespace: 6
 revision_id: 260425

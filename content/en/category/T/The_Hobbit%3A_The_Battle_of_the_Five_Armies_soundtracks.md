@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit: The Battle of the Five Armies soundtracks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit: The Battle of the Five Armies soundtracks</span>"
 page_id: 48804
 namespace: 14
 revision_id: 261274

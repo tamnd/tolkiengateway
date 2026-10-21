@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Pauline Baynes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Pauline Baynes</span>"
 page_id: 13920
 namespace: 14
 revision_id: 182129
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Baynes, Pauline"
 ---
 
-This category lists all **images by [Pauline Baynes](/wiki/Pauline_Baynes)**.
+This category lists all **images by [Pauline Baynes](../../main/P/Pauline_Baynes.md)**.

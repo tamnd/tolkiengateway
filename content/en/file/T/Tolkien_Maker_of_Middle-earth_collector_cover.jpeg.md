@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Maker of Middle-earth collector cover.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Maker of Middle-earth collector cover.jpeg</span>"
 page_id: 66098
 namespace: 6
 revision_id: 381106

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit 2025-deluxe.png"
 ---
 
-Redirect to [File:The Hobbit 2025-deluxe.png](/wiki/File:The_Hobbit_2025-deluxe.png).
+Redirect to [File:The Hobbit 2025-deluxe.png](The_Hobbit_2025-deluxe.png.md).

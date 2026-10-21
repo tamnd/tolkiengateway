@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Frodo offering Galadriel the Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Frodo offering Galadriel the Ring.jpg</span>"
 page_id: 74584
 namespace: 6
 revision_id: 438978
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings (1978 film) - Frodo offering Galadriel the Ring.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> offering <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> <a href="/wiki/The_One_Ring" title="The One Ring">the One Ring</a>
+<p><a href="../../main/F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> offering <a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a> <a href="../../main/T/The_One_Ring.md" title="The One Ring">the One Ring</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/16_November" title="16 November">November 15</a> <a href="/wiki/1978" title="1978">1978</a></td>
+<td><a href="../../main/_/16_November.md" title="16 November">November 15</a> <a href="../../main/_/1978.md" title="1978">1978</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/ralphbakshi/status/1861184862142583055/photo/1" rel="noreferrer noopener" target="_blank">https://x.com/ralphbakshi/status/1861184862142583055/photo/1</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

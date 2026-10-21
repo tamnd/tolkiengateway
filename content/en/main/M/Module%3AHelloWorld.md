@@ -1,6 +1,5 @@
 ---
 title: "Module:HelloWorld"
-display_title: "<span class=\"mw-page-title-main\">Module:HelloWorld</span>"
 page_id: 67406
 namespace: 0
 revision_id: 391688

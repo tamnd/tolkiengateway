@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dol Guldur (book)"
 ---
 
-Redirect to [Dol Guldur (book)](/wiki/Dol_Guldur_(book)).
+Redirect to [Dol Guldur (book)](<../D/Dol_Guldur_(book).md>).

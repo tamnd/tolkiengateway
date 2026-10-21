@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Nine for mortal Men.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Nine for mortal Men.png</span>"
 page_id: 71281
 namespace: 6
 revision_id: 433706
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Nine Rings](/wiki/Nine_Rings) - *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")*
+The [Nine Rings](../../main/N/Nine_Rings.md) - *[The Lord of the Rings](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)*
 
 ## Licensing {#Licensing}
 

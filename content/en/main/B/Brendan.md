@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Saint Brendan"
 ---
 
-Redirect to [Saint Brendan](/wiki/Saint_Brendan).
+Redirect to [Saint Brendan](../S/Saint_Brendan.md).

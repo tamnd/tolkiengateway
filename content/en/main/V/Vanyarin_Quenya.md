@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vanyarin"
 ---
 
-Redirect to [Vanyarin](/wiki/Vanyarin).
+Redirect to [Vanyarin](Vanyarin.md).

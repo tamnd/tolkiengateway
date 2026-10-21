@@ -13,24 +13,24 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>heru</b></i> or <i><b>hér</b></i> means "lord" in [Quenya](/wiki/Quenya).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Words with similar meaning are *[aran](/wiki/Aran "Aran")* "king" and *[tar](/wiki/Tar "Tar")* "high, lord".
+<i><b>heru</b></i> or <i><b>hér</b></i> means "lord" in [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Words with similar meaning are *[aran](../A/Aran.md)* "king" and *[tar](../T/Tar.md)* "high, lord".
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) <i><a class="new" href="/w/index.php?title=Kher%C3%BB&amp;action=edit&amp;redlink=1" title="Kherû (page does not exist)">kherû</a></i> "master"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> from [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KHER&amp;action=edit&amp;redlink=1" title="KHER (page does not exist)">KHER</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kher%C3%BB&amp;action=edit&amp;redlink=1" title="Kherû (page does not exist)">kherû</a></i> "master"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> from [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHER&amp;action=edit&amp;redlink=1" title="KHER (page does not exist)">KHER</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## See also {#See_also}
 
-- *[Ciryaher](/wiki/Ciryaher)* - "Ship Lord"
-- *[Herumor](/wiki/Herumor)* - "Black Lord"
-- *[Herunúmen](/wiki/Tar-Herun%C3%BAmen "Tar-Herunúmen")* - "Lord of the West"
-- *[Ondoher](/wiki/Ondoher)* - "Stone Lord"
-- *[Ostoher](/wiki/Ostoher)* - "Fortress Lord"
+- *[Ciryaher](../C/Ciryaher.md)* - "Ship Lord"
+- *[Herumor](Herumor.md)* - "Black Lord"
+- *[Herunúmen](../T/Tar-Herunúmen.md)* - "Lord of the West"
+- *[Ondoher](../O/Ondoher.md)* - "Stone Lord"
+- *[Ostoher](../O/Ostoher.md)* - "Fortress Lord"
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[hîr](/wiki/H%C3%AEr "Hîr")*
-- [Sindarin](/wiki/Sindarin) *híril* - "Lady"
+- [Sindarin](../S/Sindarin.md) *[hîr](Hîr.md)*
+- [Sindarin](../S/Sindarin.md) *híril* - "Lady"
 
 ## Inspiration {#Inspiration}
 
@@ -41,13 +41,13 @@ Latin *herus* means "lord, owner"; German *herr* is a modern word meaning "sir, 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>heru</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>heru</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_282" title="Letter 282">Letter 282</a>, (dated <a href="/wiki/18_December" title="18 December">18 December</a> <a href="/wiki/1965" title="1965">1965</a>)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_282.md" title="Letter 282">Letter 282</a>, (dated <a href="../_/18_December.md" title="18 December">18 December</a> <a href="../_/1965.md" title="1965">1965</a>)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, <b>KHER</b></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, <b>KHER</b></span>
 </li>
 </ol></div>
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](Helge_Fauskanger.md)

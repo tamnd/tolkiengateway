@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgul Vale"
 ---
 
-Redirect to [Morgul Vale](/wiki/Morgul_Vale).
+Redirect to [Morgul Vale](../M/Morgul_Vale.md).

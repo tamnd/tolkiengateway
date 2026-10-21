@@ -1,6 +1,5 @@
 ---
 title: "Letter to Brian Miller"
-display_title: "<span class=\"mw-page-title-main\">Letter to Brian Miller</span>"
 page_id: 27735
 namespace: 0
 revision_id: 404976
@@ -17,13 +16,13 @@ images:
   - "Brian_Miller_June_21_1971.jpg"
 ---
 
-On [21 June](/wiki/21_June) [1971](/wiki/1971), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Brian Miller](/wiki/Brian_Miller)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [21 June](../_/21_June.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Brian Miller](../B/Brian_Miller.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Description:** 1-page letter, typed (probably by his secretary) and signed on letterhead supplied to Tolkien by [George Allen &amp; Unwin](/wiki/George_Allen_and_Unwin "George Allen and Unwin").
+- **Description:** 1-page letter, typed (probably by his secretary) and signed on letterhead supplied to Tolkien by [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md).
 
 ## Contents {#Contents}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Brian_Miller_June_21_1971.jpg"><img src="/w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/300px-Brian_Miller_June_21_1971.jpg" decoding="async" loading="lazy" width="300" height="227" class="mw-file-element" srcset="/w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/450px-Brian_Miller_June_21_1971.jpg 1.5x, /w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/600px-Brian_Miller_June_21_1971.jpg 2x" data-file-width="1024" data-file-height="775"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Brian_Miller_June_21_1971.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/300px-Brian_Miller_June_21_1971.jpg" decoding="async" loading="lazy" width="300" height="227" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/450px-Brian_Miller_June_21_1971.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bc/Brian_Miller_June_21_1971.jpg/600px-Brian_Miller_June_21_1971.jpg 2x" data-file-width="1024" data-file-height="775"/></a><figcaption></figcaption></figure>
 
 June 21, 1971
 

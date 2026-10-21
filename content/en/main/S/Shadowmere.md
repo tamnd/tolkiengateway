@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Luvailin"
 ---
 
-Redirect to [Luvailin](/wiki/Luvailin).
+Redirect to [Luvailin](../L/Luvailin.md).

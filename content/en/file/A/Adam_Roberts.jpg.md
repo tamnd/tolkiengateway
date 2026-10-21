@@ -1,6 +1,5 @@
 ---
 title: "File:Adam Roberts.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Adam Roberts.jpg</span>"
 page_id: 26632
 namespace: 6
 revision_id: 249765

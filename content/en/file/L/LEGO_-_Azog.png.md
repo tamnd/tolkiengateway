@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Azog.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Azog.png</span>"
 page_id: 73107
 namespace: 6
 revision_id: 432839
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Azog](/wiki/Azog) - [LEGO](/wiki/Lego "Lego") minifigure
+[Azog](../../main/A/Azog.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

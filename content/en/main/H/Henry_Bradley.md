@@ -1,6 +1,5 @@
 ---
 title: "Henry Bradley"
-display_title: "<span class=\"mw-page-title-main\">Henry Bradley</span>"
 page_id: 45810
 namespace: 0
 revision_id: 257540
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Bradley, Henry"
 ---
 
-**Henry Bradley** ([3 December](/wiki/3_December) <a class="new" href="/w/index.php?title=1845&amp;action=edit&amp;redlink=1" title="1845 (page does not exist)">1845</a> – [23 May](/wiki/23_May) [1923](/wiki/1923)) was senior editor of the *[Oxford English Dictionary](/wiki/Oxford_English_Dictionary)* (OED). Bradley was [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s supervisor on the OED.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Henry Bradley** ([3 December](../_/3_December.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=1845&amp;action=edit&amp;redlink=1" title="1845 (page does not exist)">1845</a> – [23 May](../_/23_May.md) [1923](../_/1923.md)) was senior editor of the *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* (OED). Bradley was [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s supervisor on the OED.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tolkien wrote an obituary for Bradley, published in the [*Bulletin of the Modern Humanities Research Association*, Nr. 20](/wiki/Bulletin_of_the_Modern_Humanities_Research_Association_20 "Bulletin of the Modern Humanities Research Association 20"), in October 1923.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tolkien wrote an obituary for Bradley, published in the [*Bulletin of the Modern Humanities Research Association*, Nr. 20](../B/Bulletin_of_the_Modern_Humanities_Research_Association_20.md), in October 1923.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 
@@ -34,8 +33,8 @@ Tolkien wrote an obituary for Bradley, published in the [*Bulletin of the Modern
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 107, 108, 121</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 107, 108, 121</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11840" rel="noreferrer noopener" target="_blank">&#34;Bulletin of the Modern Humanities Research Association. 1923&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 13 April 2014</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11840" rel="noreferrer noopener" target="_blank">&#34;Bulletin of the Modern Humanities Research Association. 1923&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 13 April 2014</span></cite></span>
 </li>
 </ol></div>

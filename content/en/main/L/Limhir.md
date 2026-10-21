@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celon"
 ---
 
-Redirect to [Celon](/wiki/Celon).
+Redirect to [Celon](../C/Celon.md).

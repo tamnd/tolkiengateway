@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwimorberg"
 ---
 
-Redirect to [Dwimorberg](/wiki/Dwimorberg).
+Redirect to [Dwimorberg](../D/Dwimorberg.md).

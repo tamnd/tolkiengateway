@@ -1,6 +1,5 @@
 ---
 title: "Gaudeamus"
-display_title: "<span class=\"mw-page-title-main\">Gaudeamus</span>"
 page_id: 63167
 namespace: 0
 revision_id: 385186
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Gaudeamus** ("Let Us Rejoice") is a song written in [Latin](/wiki/Latin), by an unknown author. It is published as the 11th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Gaudeamus** ("Let Us Rejoice") is a song written in [Latin](../L/Latin.md), by an unknown author. It is published as the 11th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

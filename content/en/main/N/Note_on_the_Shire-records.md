@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prologue (The Lord of the Rings)"
 ---
 
-Redirect to [Prologue (The Lord of the Rings)](/wiki/Prologue_(The_Lord_of_the_Rings)).
+Redirect to [Prologue (The Lord of the Rings)](<../P/Prologue_(The_Lord_of_the_Rings).md>).

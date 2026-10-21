@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Two Towers-On the Trail of the Uruk-Hai Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Two Towers-On the Trail of the Uruk-Hai Scene.jpg</span>"
 page_id: 75174
 namespace: 6
 revision_id: 442667
@@ -43,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>December 18, 2002</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Peter Jackson</td>
@@ -53,7 +50,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="http://framecaplib.com/lotrlib/html/episodes/indices/ttt/chapter.htm" rel="noreferrer noopener" target="_blank">http://framecaplib.com/lotrlib/html/episodes/indices/ttt/chapter.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bored of the Rings (disambiguation)"
 ---
 
-Redirect to [Bored of the Rings (disambiguation)](/wiki/Bored_of_the_Rings_(disambiguation)).
+Redirect to [Bored of the Rings (disambiguation)](<Bored_of_the_Rings_(disambiguation).md>).

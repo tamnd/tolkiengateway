@@ -1,6 +1,5 @@
 ---
 title: "File:Gate of Durin cropped.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gate of Durin cropped.png</span>"
 page_id: 67684
 namespace: 6
 revision_id: 394689

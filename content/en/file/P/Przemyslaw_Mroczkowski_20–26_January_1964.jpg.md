@@ -1,6 +1,5 @@
 ---
 title: "File:Przemyslaw Mroczkowski 20–26 January 1964.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Przemyslaw Mroczkowski 20–26 January 1964.jpg</span>"
 page_id: 27503
 namespace: 6
 revision_id: 215095

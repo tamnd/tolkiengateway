@@ -1,6 +1,5 @@
 ---
 title: "John Justin"
-display_title: "<span class=\"mw-page-title-main\">John Justin</span>"
 page_id: 22385
 namespace: 0
 revision_id: 259441
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Justin, John"
 ---
 
-**John Justinian de Ledesma** ([November 24](/wiki/24_November "24 November"), [1917](/wiki/1917) - [November 29](/wiki/29_November "29 November"), [2002](/wiki/2002)) was an English stage actor of Argentine descent. After breaking through in <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)" title="wikipedia:The Thief of Bagdad (1940 film)">The Thief of Bagdad</a></i> in [1940](/wiki/1940), he joined the Royal Air Force, and after the war, he continued stage acting. He made some appearances on radio and television; one of those was the role of [Thorin](/wiki/Thorin) in [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)").
+**John Justinian de Ledesma** ([November 24](../_/24_November.md), [1917](../_/1917.md) - [November 29](../_/29_November.md), [2002](../_/2002.md)) was an English stage actor of Argentine descent. After breaking through in <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1940_film)" title="wikipedia:The Thief of Bagdad (1940 film)">The Thief of Bagdad</a></i> in [1940](../_/1940.md), he joined the Royal Air Force, and after the war, he continued stage acting. He made some appearances on radio and television; one of those was the role of [Thorin](../T/Thorin.md) in [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>).
 
 ## External links {#External_links}
 

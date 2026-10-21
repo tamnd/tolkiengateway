@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ryszard Derdziński"
 ---
 
-Redirect to [Ryszard Derdziński](/wiki/Ryszard_Derdziński).
+Redirect to [Ryszard Derdziński](Ryszard_Derdziński.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Hither Shore"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hither Shore</span>"
 page_id: 43198
 namespace: 14
 revision_id: 227271
@@ -13,4 +12,4 @@ categories:
   - "Journals"
 ---
 
-- This category lists volumes of the journal *[Hither Shore](</wiki/Hither_Shore_(journal)> "Hither Shore (journal)")*
+- This category lists volumes of the journal *[Hither Shore](<../../main/H/Hither_Shore_(journal).md>)*

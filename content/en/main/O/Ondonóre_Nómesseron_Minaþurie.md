@@ -1,6 +1,5 @@
 ---
 title: "Ondonóre Nómesseron Minaþurie"
-display_title: "<span class=\"mw-page-title-main\">Ondonóre Nómesseron Minaþurie</span>"
 page_id: 21250
 namespace: 0
 revision_id: 385299
@@ -25,19 +24,17 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ondon%C3%B3re_N%C3%B3messeron_Mina%C3%BEurie&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ondon%C3%B3re_N%C3%B3messeron_Mina%C3%BEurie&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
 <p>...there is much else that may be told.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Gl%C3%B3in" title="Glóin">Glóin</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
+</blockquote></div></div>
 
-The **Ondonóre Nómesseron Minaþurie** ("Enquiry into the Place-names of Gondor") is a text by an anonymous author, attributed to the period during the reign of [Meneldil](/wiki/Meneldil).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+The **Ondonóre Nómesseron Minaþurie** ("Enquiry into the Place-names of Gondor") is a text by an anonymous author, attributed to the period during the reign of [Meneldil](../M/Meneldil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), &#34;<a class="mw-redirect" href="/wiki/The_Rivers_and_Beacon-Hills_of_Gondor" title="The Rivers and Beacon-Hills of Gondor">The Rivers and Beacon-Hills of Gondor</a>&#34;, published in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a> (July <a href="/wiki/2001" title="2001">2001</a>), pages 5-31, especially 17.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), &#34;<a class="mw-redirect" href="../T/The_Rivers_and_Beacon-Hills_of_Gondor.md" title="The Rivers and Beacon-Hills of Gondor">The Rivers and Beacon-Hills of Gondor</a>&#34;, published in <a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a> (July <a href="../_/2001.md" title="2001">2001</a>), pages 5-31, especially 17.</span>
 </li>
 </ol></div>

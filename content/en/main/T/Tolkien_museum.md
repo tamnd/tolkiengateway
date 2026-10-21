@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greisinger Museum"
 ---
 
-Redirect to [Greisinger Museum](/wiki/Greisinger_Museum).
+Redirect to [Greisinger Museum](../G/Greisinger_Museum.md).

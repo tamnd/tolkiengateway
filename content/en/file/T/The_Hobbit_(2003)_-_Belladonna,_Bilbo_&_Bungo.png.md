@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2003) - Belladonna, Bilbo & Bungo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2003) - Belladonna, Bilbo &amp; Bungo.png</span>"
 page_id: 71360
 namespace: 6
 revision_id: 425797
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Painting of [Belladonna](/wiki/Belladonna_Took "Belladonna Took"), [Bilbo Baggins](/wiki/Bilbo_Baggins) and [Bungo Baggins](/wiki/Bungo_Baggins) - [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")
+Painting of [Belladonna](../../main/B/Belladonna_Took.md), [Bilbo Baggins](../../main/B/Bilbo_Baggins.md) and [Bungo Baggins](../../main/B/Bungo_Baggins.md) - [*The Hobbit* (2003 video game)](<../../main/T/The_Hobbit_(2003_video_game).md>)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.activision.com/" rel="noreferrer noopener" target="_blank">Activision</a>. It is believed that the limited use of this file,

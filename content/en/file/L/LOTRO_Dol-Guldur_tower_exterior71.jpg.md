@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO Dol-Guldur tower exterior71.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO Dol-Guldur tower exterior71.jpg</span>"
 page_id: 23904
 namespace: 6
 revision_id: 248709

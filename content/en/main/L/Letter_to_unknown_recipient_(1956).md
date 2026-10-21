@@ -15,9 +15,9 @@ sort_keys:
   "Letters": "?"
 ---
 
-In [1956](/wiki/1956), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to an unknown fan** (the aunt of the finder of the letter) in <a class="extiw" href="http://en.wikipedia.org/wiki/North_East_England" title="wikipedia:North East England">North East England</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to an unknown fan** (the aunt of the finder of the letter) in <a class="extiw" href="http://en.wikipedia.org/wiki/North_East_England" title="wikipedia:North East England">North East England</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Description:** Hand-written letter, explaining some of the thinking behind *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+- **Description:** Hand-written letter, explaining some of the thinking behind *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - **Contents:** The letter from the unknown woman was likely written as *The Lord of the Rings* was published, asking why there could not have been a different ending. Tolkien wrote in reply, talking about the core of his tale, but added: "*I could not explain how the story grew in anything less than an autobiography*."
 - **Authenticity:** Medium.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 - **Publication:** None.

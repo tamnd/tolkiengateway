@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Donato Giancola - Fast Asleep.jpg"
 ---
 
-Redirect to [File:Donato Giancola - Fast Asleep.jpg](/wiki/File:Donato_Giancola_-_Fast_Asleep.jpg).
+Redirect to [File:Donato Giancola - Fast Asleep.jpg](Donato_Giancola_-_Fast_Asleep.jpg.md).

@@ -16,9 +16,9 @@ images:
   - "Mr_lancashire_letter.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mr_lancashire_letter.jpg"><img src="/w/images/thumb/f/f1/Mr_lancashire_letter.jpg/300px-Mr_lancashire_letter.jpg" decoding="async" loading="lazy" width="300" height="279" class="mw-file-element" srcset="/w/images/thumb/f/f1/Mr_lancashire_letter.jpg/450px-Mr_lancashire_letter.jpg 1.5x, /w/images/f/f1/Mr_lancashire_letter.jpg 2x" data-file-width="484" data-file-height="450"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr_lancashire_letter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/Mr_lancashire_letter.jpg/300px-Mr_lancashire_letter.jpg" decoding="async" loading="lazy" width="300" height="279" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/Mr_lancashire_letter.jpg/450px-Mr_lancashire_letter.jpg 1.5x, https://tolkiengateway.net/w/images/f/f1/Mr_lancashire_letter.jpg 2x" data-file-width="484" data-file-height="450"/></a><figcaption></figcaption></figure>
 
-On [3 December](/wiki/3_December) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mr Lancashire**.
+On [3 December](../_/3_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mr Lancashire**.
 
 - **Contents:** Tolkien expresses his gratitude for the letter.
 - **Description:** Preprinted/typewritten form letter (1 page) signed by "J.R.R. Tolkien" with handwritten "I much regret that I have no time for a longer answer"
@@ -30,5 +30,3 @@ On [3 December](/wiki/3_December) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R
 <p>Dear Mr. Lancashire,<br/><br/>Thank you very much for your kind letter. I am always pleased to hear from people who have read and enjoyed my books. I hope they will continue to give you pleasure.<br/>Yours sincerely,<br/>J. R. R. Tolkien<br/><br/>P.S. I much regret that I have no time for a longer answer.
 </p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>

@@ -1,6 +1,5 @@
 ---
 title: "Visur Islendinga"
-display_title: "<span class=\"mw-page-title-main\">Visur Islendinga</span>"
 page_id: 63175
 namespace: 0
 revision_id: 357602
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Visur Islendinga** is an Icelandic song (trans. "Icelandic Song") by 19th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/J%C3%B3nas_Hallgr%C3%ADmsson" title="wikipedia:Jónas Hallgrímsson">Jónas Hallgrímsson</a>. It is published as the 29th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Visur Islendinga** is an Icelandic song (trans. "Icelandic Song") by 19th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/J%C3%B3nas_Hallgr%C3%ADmsson" title="wikipedia:Jónas Hallgrímsson">Jónas Hallgrímsson</a>. It is published as the 29th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Organizations"
 ---
 
-Redirect to [Category:Organizations](/wiki/Category:Organizations).
+Redirect to [Category:Organizations](../../category/O/Organizations.md).

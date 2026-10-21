@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Zimra"
 ---
 
-Redirect to [Zimra](/wiki/Zimra).
+Redirect to [Zimra](Zimra.md).

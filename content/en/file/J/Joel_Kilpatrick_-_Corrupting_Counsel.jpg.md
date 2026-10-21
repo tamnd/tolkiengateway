@@ -1,6 +1,5 @@
 ---
 title: "File:Joel Kilpatrick - Corrupting Counsel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joel Kilpatrick - Corrupting Counsel.jpg</span>"
 page_id: 64888
 namespace: 6
 revision_id: 373740
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Joel Kilpatrick</li>
 <li><b>Website:</b> <a class="external free" href="https://kilpatrick.artstation.com/" rel="noreferrer noopener" target="_blank">https://kilpatrick.artstation.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joel_Kilpatrick" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoel_Kilpatrick.md" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>

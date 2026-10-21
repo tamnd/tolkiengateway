@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (man of Gondor)"
 ---
 
-Redirect to [Baranor (man of Gondor)](/wiki/Baranor_(man_of_Gondor)).
+Redirect to [Baranor (man of Gondor)](<Baranor_(man_of_Gondor).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Czech Republic"
 ---
 
-Redirect to [Category:Czech Republic](/wiki/Category:Czech_Republic).
+Redirect to [Category:Czech Republic](../../category/C/Czech_Republic.md).

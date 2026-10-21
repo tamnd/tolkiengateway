@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Renée Vink"
 ---
 
-Redirect to [Renée Vink](/wiki/Renée_Vink).
+Redirect to [Renée Vink](Renée_Vink.md).

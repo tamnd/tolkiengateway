@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Reitz - Maker's Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Reitz - Maker&#039;s Map.jpg</span>"
 page_id: 71004
 namespace: 6
 revision_id: 424147
@@ -33,8 +32,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jeff Reitz - Maker&#39;s Map.jpg</span></th>
 <td class="description">
 <p><i>Maker&#39;s Map</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Balrog" title="Middle-earth: The Balrog">Middle-earth: The Balrog</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Balrog.md" title="Middle-earth: The Balrog">Middle-earth: The Balrog</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -42,8 +41,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1998</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Jeff Reitz</td>
@@ -52,7 +49,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20160112031143if_/http://jeffreitz.com/images/game-cards/makersmap-org.jpg" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

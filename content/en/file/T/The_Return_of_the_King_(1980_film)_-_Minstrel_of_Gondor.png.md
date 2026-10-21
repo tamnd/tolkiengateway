@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Minstrel of Gondor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Minstrel of Gondor.png</span>"
 page_id: 38779
 namespace: 6
 revision_id: 224860
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Minstrel](/wiki/Minstrels "Minstrels") of [Gondor](/wiki/Gondor).
+The [Minstrel](../../main/M/Minstrels.md) of [Gondor](../../main/G/Gondor.md).
 
 ## Licensing {#Licensing}
 

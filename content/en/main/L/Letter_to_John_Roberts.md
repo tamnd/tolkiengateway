@@ -1,6 +1,5 @@
 ---
 title: "Letter to John Roberts"
-display_title: "<span class=\"mw-page-title-main\">Letter to John Roberts</span>"
 page_id: 33345
 namespace: 0
 revision_id: 387842
@@ -17,9 +16,9 @@ images:
   - "John_Roberts_22_August_1955.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_Roberts_22_August_1955.jpg"><img src="/w/images/thumb/d/d3/John_Roberts_22_August_1955.jpg/300px-John_Roberts_22_August_1955.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="/w/images/thumb/d/d3/John_Roberts_22_August_1955.jpg/450px-John_Roberts_22_August_1955.jpg 1.5x, /w/images/d/d3/John_Roberts_22_August_1955.jpg 2x" data-file-width="470" data-file-height="600"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Roberts_22_August_1955.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d3/John_Roberts_22_August_1955.jpg/300px-John_Roberts_22_August_1955.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/John_Roberts_22_August_1955.jpg/450px-John_Roberts_22_August_1955.jpg 1.5x, https://tolkiengateway.net/w/images/d/d3/John_Roberts_22_August_1955.jpg 2x" data-file-width="470" data-file-height="600"/></a><figcaption></figcaption></figure>
 
-On [22 August](/wiki/22_August) [1955](/wiki/1955), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to John Roberts**.<sup id="cite_ref-hammond_1-0" class="reference"><a href="#cite_note-hammond-1">[1]</a></sup>
+On [22 August](../_/22_August.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to John Roberts**.<sup id="cite_ref-hammond_1-0" class="reference"><a href="#cite_note-hammond-1">[1]</a></sup>
 
 - **Description:** 2 pages, 8vo, Headington.<sup id="cite_ref-bonhams_2-0" class="reference"><a href="#cite_note-bonhams-2">[2]</a></sup>
 - **Publication:** The letter was quoted in *Bonhams, Printed Books, Maps, Manuscripts and Photographs, London 4 November 2008*.<sup id="cite_ref-hammond_1-1" class="reference"><a href="#cite_note-hammond-1">[1]</a></sup>
@@ -37,7 +36,7 @@ As Tolkien states in this letter, The Lord of the Rings had indeed been "long in
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-hammond-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-hammond_1-0">1.0</a></sup> <sup><a href="#cite_ref-hammond_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> &#34;<a class="external text" href="http://mysite.verizon.net/wghammond/addenda/chronology_by_date.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology - Arranged by Date</a>&#34; at <a class="external text" href="http://mysite.verizon.net/wghammond/index.html" rel="noreferrer noopener" target="_blank">Wayne &amp; Christina Website</a> (accessed 20 May 2011)</span>
+<li id="cite_note-hammond-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-hammond_1-0">1.0</a></sup> <sup><a href="#cite_ref-hammond_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> &#34;<a class="external text" href="http://mysite.verizon.net/wghammond/addenda/chronology_by_date.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology - Arranged by Date</a>&#34; at <a class="external text" href="http://mysite.verizon.net/wghammond/index.html" rel="noreferrer noopener" target="_blank">Wayne &amp; Christina Website</a> (accessed 20 May 2011)</span>
 </li>
 <li id="cite_note-bonhams-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-bonhams_2-0">2.0</a></sup> <sup><a href="#cite_ref-bonhams_2-1">2.1</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.bonhams.com/eur/auction/16204/lot/430/" rel="noreferrer noopener" target="_blank">Sale 16204 - Printed Books, Maps, Manuscripts and Photographs, 4 Nov 2008 - Lot 430</a> at <a class="external text" href="http://www.bonhams.com" rel="noreferrer noopener" target="_blank">Bonhams.com</a> (accessed 20 May 2011)</span>
 </li>

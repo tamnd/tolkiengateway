@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fuiyáru"
 ---
 
-Redirect to [Fuiyáru](/wiki/Fuiyáru).
+Redirect to [Fuiyáru](Fuiyáru.md).

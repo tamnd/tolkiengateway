@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Treason of Isengard - Concept art Troll.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Treason of Isengard - Concept art Troll.jpg</span>"
 page_id: 47650
 namespace: 6
 revision_id: 253718
@@ -25,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Concept art of a [troll](/wiki/Trolls "Trolls") for [The Lord of the Rings: The Treason of Isengard](/wiki/The_Lord_of_the_Rings:_The_Treason_of_Isengard).
+Concept art of a [troll](../../main/T/Trolls.md) for [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 \== Licensing ==
 

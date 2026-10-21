@@ -19,4 +19,4 @@ sort_keys:
   "The Children of Húrin": "Children of Hurin"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i> illustrated by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></b>.</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> illustrated by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></b>.</dd></dl>

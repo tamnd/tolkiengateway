@@ -13,11 +13,11 @@ categories:
   - "Sindarin verbs"
 ---
 
-**sevin** ([Sindarin](/wiki/Sindarin)) "I possess"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**sevin** ([Sindarin](Sindarin.md)) "I possess"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=SAM&amp;action=edit&amp;redlink=1" title="SAM (page does not exist)">SAM</a>
+[Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAM&amp;action=edit&amp;redlink=1" title="SAM (page does not exist)">SAM</a>
 
 ## Other forms {#Other_forms}
 
@@ -25,13 +25,13 @@ categories:
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[samin](/wiki/Samin "Samin")*
+- [Quenya](../Q/Quenya.md) *[samin](Samin.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a> p. 173</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a> p. 173</span>
 </li>
 </ol></div>

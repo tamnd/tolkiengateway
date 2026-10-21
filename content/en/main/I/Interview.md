@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Interviews (disambiguation)"
 ---
 
-Redirect to [Interviews (disambiguation)](/wiki/Interviews_(disambiguation)).
+Redirect to [Interviews (disambiguation)](<Interviews_(disambiguation).md>).

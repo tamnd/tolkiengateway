@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tyler Jacobson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tyler Jacobson</span>"
 page_id: 72825
 namespace: 14
 revision_id: 431469
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Jacobson, Tyler"
 ---
 
-This category lists all **images by [Tyler Jacobson](/wiki/Tyler_Jacobson)**.
+This category lists all **images by [Tyler Jacobson](../../main/T/Tyler_Jacobson.md)**.

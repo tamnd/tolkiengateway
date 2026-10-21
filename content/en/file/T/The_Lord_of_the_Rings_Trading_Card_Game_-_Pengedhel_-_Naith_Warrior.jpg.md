@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Pengedhel - Naith Warrior.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Pengedhel - Naith Warrior.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Pengedhel_-_Naith_Warrior.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Pengedhel - Naith Warrior.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Pengedhel_-_Naith_Warrior.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dramborleg"
 ---
 
-Redirect to [Dramborleg](/wiki/Dramborleg).
+Redirect to [Dramborleg](../D/Dramborleg.md).

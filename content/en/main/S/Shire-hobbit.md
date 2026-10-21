@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shire-hobbits"
 ---
 
-Redirect to [Shire-hobbits](/wiki/Shire-hobbits).
+Redirect to [Shire-hobbits](Shire-hobbits.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Royal Mail - 2004 - 09 - Minas Tirithr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Royal Mail - 2004 - 09 - Minas Tirithr.jpg</span>"
 page_id: 13329
 namespace: 6
 revision_id: 220556

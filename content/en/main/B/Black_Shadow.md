@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Breath"
 ---
 
-Redirect to [Black Breath](/wiki/Black_Breath).
+Redirect to [Black Breath](Black_Breath.md).

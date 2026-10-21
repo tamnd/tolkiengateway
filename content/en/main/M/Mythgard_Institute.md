@@ -1,6 +1,5 @@
 ---
 title: "Mythgard Institute"
-display_title: "<span class=\"mw-page-title-main\">Mythgard Institute</span>"
 page_id: 40522
 namespace: 0
 revision_id: 221239
@@ -13,7 +12,7 @@ categories:
   - "Academic institutions"
 ---
 
-**The Mythgard Institute** is an academic institution which provides online courses in [Tolkien studies](/wiki/Tolkien_studies) and other fantasy literature. Its president is [Corey Olsen](/wiki/Corey_Olsen).
+**The Mythgard Institute** is an academic institution which provides online courses in [Tolkien studies](../T/Tolkien_studies.md) and other fantasy literature. Its president is [Corey Olsen](../C/Corey_Olsen.md).
 
 ## External links {#External_links}
 

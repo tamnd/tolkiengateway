@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erendis"
 ---
 
-Redirect to [Erendis](/wiki/Erendis).
+Redirect to [Erendis](Erendis.md).

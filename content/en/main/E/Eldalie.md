@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldalië"
 ---
 
-Redirect to [Eldalië](/wiki/Eldalië).
+Redirect to [Eldalië](Eldalië.md).

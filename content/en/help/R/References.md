@@ -1,6 +1,5 @@
 ---
 title: "Help:References"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">References</span>"
 page_id: 21128
 namespace: 12
 revision_id: 439515
@@ -13,15 +12,15 @@ categories:
   - "Help"
 ---
 
-**References** are the cornerstone of any serious encyclopedia, and [Tolkien Gateway](/wiki/Tolkien_Gateway) wishes to properly credit its statements. Much of our old content remains without [sources](/wiki/Category:Sourceless "Category:Sourceless") or [inline references](/wiki/Category:Articles_needing_citation "Category:Articles needing citation"), and fixing this is an ongoing project. In the meantime, references are required for all new information that is added to articles. This way, [fanon](/wiki/Fanon "Fanon") and overinterpretation can be properly identified and omitted, and valid statements can be properly attributed to reliable sources.
+**References** are the cornerstone of any serious encyclopedia, and [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) wishes to properly credit its statements. Much of our old content remains without [sources](../../category/S/Sourceless.md) or [inline references](../../category/A/Articles_needing_citation.md), and fixing this is an ongoing project. In the meantime, references are required for all new information that is added to articles. This way, [fanon](../../main/F/Fanon.md) and overinterpretation can be properly identified and omitted, and valid statements can be properly attributed to reliable sources.
 
 ## Why references are needed {#Why_references_are_needed}
 
-All statements about Tolkien's world and its people, places, events, etc., should be referenced from Tolkien's works. Statements need references even if they seem like common knowledge or common sense. [Misconceptions](/wiki/Misconceptions) about Tolkien are very common, and your memory is fallible: you may think you read something in Tolkien's books, but actually picked it up somewhere else.
+All statements about Tolkien's world and its people, places, events, etc., should be referenced from Tolkien's works. Statements need references even if they seem like common knowledge or common sense. [Misconceptions](../../main/M/Misconceptions.md) about Tolkien are very common, and your memory is fallible: you may think you read something in Tolkien's books, but actually picked it up somewhere else.
 
 One way to think of it is this: Tolkien Gateway isn't about what you *know*, it's about what you can *prove*. The way you prove your statements is by referring to one of Tolkien's works.
 
-Statements about the real world or real people also need reliable sources. If you have questions about sources, you can ask in the [Tolkien Gateway forums](/wiki/Forums:Council "Forums:Council") or in the [chat server](/wiki/Tolkien_Gateway:Chat "Tolkien Gateway:Chat").
+Statements about the real world or real people also need reliable sources. If you have questions about sources, you can ask in the [Tolkien Gateway forums](https://tolkiengateway.net/wiki/Forums:Council) or in the [chat server](../../project/C/Chat.md).
 
 ## Referencing {#Referencing}
 
@@ -39,7 +38,7 @@ The text in between the <code>&lt;ref&gt;</code> tags appears in the References 
 
 ### Shortcuts {#Shortcuts}
 
-<dl><dd><i>See also <a href="/wiki/Category:Citation_templates" title="Category:Citation templates">Category:Citation templates</a></i></dd></dl>
+<dl><dd><i>See also <a href="../../category/C/Citation_templates.md" title="Category:Citation templates">Category:Citation templates</a></i></dd></dl>
 
 The most common sources have <a class="external text" href="https://www.mediawiki.org/wiki/Help:Templates" rel="noreferrer noopener" target="_blank">templates</a> that can be used to write out references automatically. Generally, the format to use them is:
 
@@ -49,87 +48,87 @@ But there will sometimes be additional options for sources with more complex str
 
 #### Preferred template {#Preferred_template}
 
-[{{Cite DTP}}](/wiki/Template:Cite_DTP "Template:Cite DTP") utilises the <a class="external text" href="https://search.digitaltolkien.com/?terms=" rel="noreferrer noopener" target="_blank">Digital Tolkien Project</a> to link to citations and is the preferred template for the following works:
+[{{Cite DTP}}](https://tolkiengateway.net/wiki/Template:Cite_DTP) utilises the <a class="external text" href="https://search.digitaltolkien.com/?terms=" rel="noreferrer noopener" target="_blank">Digital Tolkien Project</a> to link to citations and is the preferred template for the following works:
 
-- *[The Hobbit](/wiki/The_Hobbit)*
-- <i><b><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></b></i>
-    - *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*
-    - *[The Two Towers](/wiki/The_Two_Towers)*
-    - *[The Return of the King](/wiki/The_Return_of_the_King)*
-    - <s><i><a href="/wiki/The_Lord_of_the_Rings_Appendices" title="The Lord of the Rings Appendices">Appendices</a></i></s> <small><i>(coming soon)</i></small>
-- *[The Silmarillion](/wiki/The_Silmarillion)*
-- <s><i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i></s> <small><i>(coming soon)</i></small>
-- <s><i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></s> <small><i>(coming soon)</i></small>
+- *[The Hobbit](../../main/T/The_Hobbit.md)*
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>
+    - *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*
+    - *[The Two Towers](../../main/T/The_Two_Towers.md)*
+    - *[The Return of the King](../../main/T/The_Return_of_the_King.md)*
+    - <s><i><a href="../../main/T/The_Lord_of_the_Rings_Appendices.md" title="The Lord of the Rings Appendices">Appendices</a></i></s> <small><i>(coming soon)</i></small>
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)*
+- <s><i><a href="../../main/U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i></s> <small><i>(coming soon)</i></small>
+- <s><i><a href="../../main/T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></s> <small><i>(coming soon)</i></small>
 
 #### Other templates {#Other_templates}
 
-- [{{H}}](/wiki/Template:H "Template:H") = *[The Hobbit](/wiki/The_Hobbit)*
+- [{{H}}](https://tolkiengateway.net/wiki/Template:H) = *[The Hobbit](../../main/T/The_Hobbit.md)*
 
-- <i><b><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></b></i>
-    - [{{FR}}](/wiki/Template:FR "Template:FR") = *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*
-    - [{{TT}}](/wiki/Template:TT "Template:TT") = *[The Two Towers](/wiki/The_Two_Towers)*
-    - [{{RK}}](/wiki/Template:RK "Template:RK") = *[The Return of the King](/wiki/The_Return_of_the_King)*
-    - [{{App}}](/wiki/Template:App "Template:App") = *[Appendices](/wiki/The_Lord_of_the_Rings_Appendices "The Lord of the Rings Appendices")*
+- <i><b><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>
+    - [{{FR}}](https://tolkiengateway.net/wiki/Template:FR) = *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*
+    - [{{TT}}](https://tolkiengateway.net/wiki/Template:TT) = *[The Two Towers](../../main/T/The_Two_Towers.md)*
+    - [{{RK}}](https://tolkiengateway.net/wiki/Template:RK) = *[The Return of the King](../../main/T/The_Return_of_the_King.md)*
+    - [{{App}}](https://tolkiengateway.net/wiki/Template:App) = *[Appendices](../../main/T/The_Lord_of_the_Rings_Appendices.md)*
 
-- [{{AB}}](/wiki/Template:AB "Template:AB") = *[The Adventures of Tom Bombadil and Other Verses from the Red Book](/wiki/The_Adventures_of_Tom_Bombadil "The Adventures of Tom Bombadil")*
+- [{{AB}}](https://tolkiengateway.net/wiki/Template:AB) = *[The Adventures of Tom Bombadil and Other Verses from the Red Book](../../main/T/The_Adventures_of_Tom_Bombadil.md)*
 
-- [{{RGEO}}](/wiki/Template:RGEO "Template:RGEO") = *[The Road Goes Ever On: A Song Cycle](/wiki/The_Road_Goes_Ever_On:_A_Song_Cycle)*
+- [{{RGEO}}](https://tolkiengateway.net/wiki/Template:RGEO) = *[The Road Goes Ever On: A Song Cycle](../../main/T/The_Road_Goes_Ever_On%253A_A_Song_Cycle.md)*
 
-- [{{S}}](/wiki/Template:S "Template:S") = *[The Silmarillion](/wiki/The_Silmarillion)*
+- [{{S}}](https://tolkiengateway.net/wiki/Template:S) = *[The Silmarillion](../../main/T/The_Silmarillion.md)*
 
-- [{{UT}}](/wiki/Template:UT "Template:UT") = *[Unfinished Tales](/wiki/Unfinished_Tales)*
+- [{{UT}}](https://tolkiengateway.net/wiki/Template:UT) = *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*
 
-- [{{CH}}](/wiki/Template:CH "Template:CH") = *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*
+- [{{CH}}](https://tolkiengateway.net/wiki/Template:CH) = *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)*
 
-- [{{BL}}](/wiki/Template:BL "Template:BL") = *[Beren and Lúthien](/wiki/Beren_and_L%C3%BAthien)*
+- [{{BL}}](https://tolkiengateway.net/wiki/Template:BL) = *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
-- [{{FG}}](/wiki/Template:FG "Template:FG") = *[The Fall of Gondolin](/wiki/The_Fall_of_Gondolin)*
+- [{{FG}}](https://tolkiengateway.net/wiki/Template:FG) = *[The Fall of Gondolin](../../main/T/The_Fall_of_Gondolin.md)*
 
-- <i><b><a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">The History of Middle-earth</a></b></i>
-    - [{{LT1}}](/wiki/Template:LT1 "Template:LT1") = *[The Book of Lost Tales Part One](/wiki/The_Book_of_Lost_Tales_Part_One)*
-    - [{{LT2}}](/wiki/Template:LT2 "Template:LT2") = *[The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two)*
-    - [{{LB}}](/wiki/Template:LB "Template:LB") = *[The Lays of Beleriand](/wiki/The_Lays_of_Beleriand)*
-    - [{{SM}}](/wiki/Template:SM "Template:SM") = *[The Shaping of Middle-earth](/wiki/The_Shaping_of_Middle-earth)*
-    - [{{LR}}](/wiki/Template:LR "Template:LR") = *[The Lost Road and Other Writings](/wiki/The_Lost_Road "The Lost Road")*
-    - [{{RS}}](/wiki/Template:RS "Template:RS") = *[The Return of the Shadow](/wiki/The_Return_of_the_Shadow)*
-    - [{{TI}}](/wiki/Template:TI "Template:TI") = *[The Treason of Isengard](/wiki/The_Treason_of_Isengard)*
-    - [{{WR}}](/wiki/Template:WR "Template:WR") = *[The War of the Ring](/wiki/The_War_of_the_Ring)*
-    - [{{SD}}](/wiki/Template:SD "Template:SD") = *[Sauron Defeated](/wiki/Sauron_Defeated)*
-    - [{{MR}}](/wiki/Template:MR "Template:MR") = *[Morgoth's Ring](/wiki/Morgoth%27s_Ring)*
-        - [{{AA}}](/wiki/Template:AA "Template:AA") = "[The Annals of Aman](/wiki/The_Annals_of_Aman)"
-    - [{{WJ}}](/wiki/Template:WJ "Template:WJ") = *[The War of the Jewels](/wiki/The_War_of_the_Jewels)*
-        - [{{GA}}](/wiki/Template:GA "Template:GA") = "[The Grey Annals](/wiki/The_Grey_Annals)"
-    - [{{PM}}](/wiki/Template:PM "Template:PM") = *[The Peoples of Middle-earth](/wiki/The_Peoples_of_Middle-earth)*
+- <i><b><a href="../../main/T/The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></b></i>
+    - [{{LT1}}](https://tolkiengateway.net/wiki/Template:LT1) = *[The Book of Lost Tales Part One](../../main/T/The_Book_of_Lost_Tales_Part_One.md)*
+    - [{{LT2}}](https://tolkiengateway.net/wiki/Template:LT2) = *[The Book of Lost Tales Part Two](../../main/T/The_Book_of_Lost_Tales_Part_Two.md)*
+    - [{{LB}}](https://tolkiengateway.net/wiki/Template:LB) = *[The Lays of Beleriand](../../main/T/The_Lays_of_Beleriand.md)*
+    - [{{SM}}](https://tolkiengateway.net/wiki/Template:SM) = *[The Shaping of Middle-earth](../../main/T/The_Shaping_of_Middle-earth.md)*
+    - [{{LR}}](https://tolkiengateway.net/wiki/Template:LR) = *[The Lost Road and Other Writings](../../main/T/The_Lost_Road.md)*
+    - [{{RS}}](https://tolkiengateway.net/wiki/Template:RS) = *[The Return of the Shadow](../../main/T/The_Return_of_the_Shadow.md)*
+    - [{{TI}}](https://tolkiengateway.net/wiki/Template:TI) = *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md)*
+    - [{{WR}}](https://tolkiengateway.net/wiki/Template:WR) = *[The War of the Ring](../../main/T/The_War_of_the_Ring.md)*
+    - [{{SD}}](https://tolkiengateway.net/wiki/Template:SD) = *[Sauron Defeated](../../main/S/Sauron_Defeated.md)*
+    - [{{MR}}](https://tolkiengateway.net/wiki/Template:MR) = *[Morgoth's Ring](../../main/M/Morgoth's_Ring.md)*
+        - [{{AA}}](https://tolkiengateway.net/wiki/Template:AA) = "[The Annals of Aman](../../main/T/The_Annals_of_Aman.md)"
+    - [{{WJ}}](https://tolkiengateway.net/wiki/Template:WJ) = *[The War of the Jewels](../../main/T/The_War_of_the_Jewels.md)*
+        - [{{GA}}](https://tolkiengateway.net/wiki/Template:GA) = "[The Grey Annals](../../main/T/The_Grey_Annals.md)"
+    - [{{PM}}](https://tolkiengateway.net/wiki/Template:PM) = *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*
 
-- [{{NM}}](/wiki/Template:NM "Template:NM") = *[The Nature of Middle-earth](/wiki/The_Nature_of_Middle-earth)*
+- [{{NM}}](https://tolkiengateway.net/wiki/Template:NM) = *[The Nature of Middle-earth](../../main/T/The_Nature_of_Middle-earth.md)*
 
-- [{{HH}}](/wiki/Template:HH "Template:HH") = *[The History of The Hobbit](/wiki/The_History_of_The_Hobbit)*
+- [{{HH}}](https://tolkiengateway.net/wiki/Template:HH) = *[The History of The Hobbit](../../main/T/The_History_of_The_Hobbit.md)*
 
-- [{{L}}](/wiki/Template:L "Template:L") = *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*
-- [{{LE}}](/wiki/Template:LE "Template:LE") = *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](/wiki/The_Letters_of_J.R.R._Tolkien#Revised_and_Expanded_edition "The Letters of J.R.R. Tolkien")*
+- [{{L}}](https://tolkiengateway.net/wiki/Template:L) = *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)*
+- [{{LE}}](https://tolkiengateway.net/wiki/Template:LE) = *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../../main/T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*
 
-- [{{B}}](/wiki/Template:B "Template:B") = *[J.R.R. Tolkien: A Biography](/wiki/J.R.R._Tolkien:_A_Biography)*
+- [{{B}}](https://tolkiengateway.net/wiki/Template:B) = *[J.R.R. Tolkien: A Biography](../../main/J/J.R.R._Tolkien%253A_A_Biography.md)*
 
-- [{{CG}}](/wiki/Template:CG "Template:CG") = *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide)*
+- [{{CG}}](https://tolkiengateway.net/wiki/Template:CG) = *[The J.R.R. Tolkien Companion and Guide](../../main/T/The_J.R.R._Tolkien_Companion_and_Guide.md)*
 
-- [{{CP}}](/wiki/Template:CP "Template:CP") = *[The Collected Poems of J.R.R. Tolkien](/wiki/The_Collected_Poems_of_J.R.R._Tolkien)*
+- [{{CP}}](https://tolkiengateway.net/wiki/Template:CP) = *[The Collected Poems of J.R.R. Tolkien](../../main/T/The_Collected_Poems_of_J.R.R._Tolkien.md)*
 
-- [{{Arthur}}](/wiki/Template:Arthur "Template:Arthur") = *[The Fall of Arthur](/wiki/The_Fall_of_Arthur)*
-- [{{Beowulf}}](/wiki/Template:Beowulf "Template:Beowulf") = *[Beowulf: A Translation and Commentary](/wiki/Beowulf:_A_Translation_and_Commentary)*
-- [{{Corrigan}}](/wiki/Template:Corrigan "Template:Corrigan") = *[The Lay of Aotrou and Itroun](/wiki/The_Lay_of_Aotrou_and_Itroun)*
-- [{{HB}}](/wiki/Template:HB "Template:HB") = *[The Homecoming of Beorhtnoth Beorhthelm's Son](/wiki/The_Homecoming_of_Beorhtnoth_Beorhthelm%27s_Son)*
-- [{{SOWM}}](/wiki/Template:SOWM "Template:SOWM") = *[Smith of Wootton Major: Extended edition](/wiki/Smith_of_Wootton_Major#Extended_edition "Smith of Wootton Major")*
-- [{{TBF}}](/wiki/Template:TBF "Template:TBF") = *[The Bovadium Fragments: together with The Origin of Bovadium](/wiki/The_Bovadium_Fragments:_together_with_The_Origin_of_Bovadium)*
-- [{{Rover}}](/wiki/Template:Rover "Template:Rover") = *[Roverandom](/wiki/Roverandom)*
-- [{{LFC}}](/wiki/Template:LFC "Template:LFC") = *[Letters from Father Christmas](/wiki/Letters_from_Father_Christmas)*
-- [{{MC}}](/wiki/Template:MC "Template:MC") = *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*
-- <a class="new" href="/w/index.php?title=Template:ASV&amp;action=edit&amp;redlink=1" title="Template:ASV (page does not exist)">{{ASV}}</a> = *[A Secret Vice: Tolkien on Invented Languages](/wiki/A_Secret_Vice:_Tolkien_on_Invented_Languages)*
-- [{{SG}}](/wiki/Template:SG "Template:SG") = *[The Legend of Sigurd and Gudrún](/wiki/The_Legend_of_Sigurd_and_Gudr%C3%BAn)*
+- [{{Arthur}}](https://tolkiengateway.net/wiki/Template:Arthur) = *[The Fall of Arthur](../../main/T/The_Fall_of_Arthur.md)*
+- [{{Beowulf}}](https://tolkiengateway.net/wiki/Template:Beowulf) = *[Beowulf: A Translation and Commentary](../../main/B/Beowulf%253A_A_Translation_and_Commentary.md)*
+- [{{Corrigan}}](https://tolkiengateway.net/wiki/Template:Corrigan) = *[The Lay of Aotrou and Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)*
+- [{{HB}}](https://tolkiengateway.net/wiki/Template:HB) = *[The Homecoming of Beorhtnoth Beorhthelm's Son](../../main/T/The_Homecoming_of_Beorhtnoth_Beorhthelm's_Son.md)*
+- [{{SOWM}}](https://tolkiengateway.net/wiki/Template:SOWM) = *[Smith of Wootton Major: Extended edition](../../main/S/Smith_of_Wootton_Major.md#Extended_edition)*
+- [{{TBF}}](https://tolkiengateway.net/wiki/Template:TBF) = *[The Bovadium Fragments: together with The Origin of Bovadium](../../main/T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md)*
+- [{{Rover}}](https://tolkiengateway.net/wiki/Template:Rover) = *[Roverandom](../../main/R/Roverandom.md)*
+- [{{LFC}}](https://tolkiengateway.net/wiki/Template:LFC) = *[Letters from Father Christmas](../../main/L/Letters_from_Father_Christmas.md)*
+- [{{MC}}](https://tolkiengateway.net/wiki/Template:MC) = *[The Monsters and the Critics, and Other Essays](../../main/T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:ASV&amp;action=edit&amp;redlink=1" title="Template:ASV (page does not exist)">{{ASV}}</a> = *[A Secret Vice: Tolkien on Invented Languages](../../main/A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md)*
+- [{{SG}}](https://tolkiengateway.net/wiki/Template:SG) = *[The Legend of Sigurd and Gudrún](../../main/T/The_Legend_of_Sigurd_and_Gudrún.md)*
 
-- [{{PE}}](/wiki/Template:PE "Template:PE") = *[Parma Eldalamberon](/wiki/Parma_Eldalamberon)*
-- [{{VT}}](/wiki/Template:VT "Template:VT") = *[Vinyar Tengwar](/wiki/Vinyar_Tengwar)*
+- [{{PE}}](https://tolkiengateway.net/wiki/Template:PE) = *[Parma Eldalamberon](../../main/P/Parma_Eldalamberon.md)*
+- [{{VT}}](https://tolkiengateway.net/wiki/Template:VT) = *[Vinyar Tengwar](../../main/V/Vinyar_Tengwar.md)*
 
-*Note:* [{{HM}}](/wiki/Template:HM "Template:HM") is the old 'general-purpose' template, but it has been mostly superseded by the above templates, which offer more flexibility. You may still find it useful for citing some works that do not appear in the list above.
+*Note:* [{{HM}}](https://tolkiengateway.net/wiki/Template:HM) is the old 'general-purpose' template, but it has been mostly superseded by the above templates, which offer more flexibility. You may still find it useful for citing some works that do not appear in the list above.
 
 ### Reusing references {#Reusing_references}
 
@@ -144,7 +143,7 @@ Note that when you reuse a named reference, you don't need to write out the <cod
 
 ### Internet sources {#Internet_sources}
 
-The [{{cite web}}](/wiki/Template:Cite_web "Template:Cite web") template can be used to cite web sources. See the template page for instructions on how to use it.
+The [{{cite web}}](https://tolkiengateway.net/wiki/Template:Cite_web) template can be used to cite web sources. See the template page for instructions on how to use it.
 
 ### Page numbers {#Page_numbers}
 
@@ -154,16 +153,16 @@ For editors who do not have access to the specific editions listed below, Tolkie
 
 We encourage editors who have access to the following editions of the following works to include page numbers in their citations:
 
-- *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* - Include page numbers in citations from [50th Anniversary Edition](</wiki/The_Lord_of_the_Rings_(50th_Anniversary_Edition)> "The Lord of the Rings (50th Anniversary Edition)") (which is the edition favoured for citations in scholarly works).
-- *[Unfinished Tales](/wiki/Unfinished_Tales)* - Include page numbers in citations from [editions published](/wiki/Unfinished_Tales/Publication_history_and_gallery "Unfinished Tales/Publication history and gallery") by George Allen &amp; Unwin, Unwin Paperbacks or Houghton Mifflin Harcourt, that follow the same pagination as the first edition (472 pages). Editions published after 1992 do not usually follow this pagination.
-- *[The History of Middle-earth](/wiki/The_History_of_Middle-earth)* series - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt (all of which have the same pagination).
-- *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)* - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt.
-- *[Beren and Lúthien](/wiki/Beren_and_L%C3%BAthien)* - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt.
+- *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)* - Include page numbers in citations from [50th Anniversary Edition](<../../main/T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) (which is the edition favoured for citations in scholarly works).
+- *[Unfinished Tales](../../main/U/Unfinished_Tales.md)* - Include page numbers in citations from [editions published](../../main/U/Unfinished_Tales%252FPublication_history_and_gallery.md) by George Allen &amp; Unwin, Unwin Paperbacks or Houghton Mifflin Harcourt, that follow the same pagination as the first edition (472 pages). Editions published after 1992 do not usually follow this pagination.
+- *[The History of Middle-earth](../../main/T/The_History_of_Middle-earth.md)* series - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt (all of which have the same pagination).
+- *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)* - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt.
+- *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)* - Include page numbers in citations from editions published by HarperCollins or Houghton Mifflin Harcourt.
 
 The following works should not have page numbers included in citations because Tolkien Gateway does not endorse any specific edition due to the many editions:
 
-- *[The Hobbit](/wiki/The_Hobbit)* - Do not include page numbers in citations.
-- *[The Silmarillion](/wiki/The_Silmarillion)* - Do not include page numbers in citations.
+- *[The Hobbit](../../main/T/The_Hobbit.md)* - Do not include page numbers in citations.
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)* - Do not include page numbers in citations.
 
 ### Standards {#Standards}
 
@@ -176,7 +175,7 @@ The following standards should be applied when writing references using <code>&l
 
 ### Usage examples {#Usage_examples}
 
-The following example uses [Template:FR](/wiki/Template:FR) to cite *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*, Book 1, Chapter 1:
+The following example uses [Template:FR](https://tolkiengateway.net/wiki/Template:FR) to cite *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*, Book 1, Chapter 1:
 
 <pre>Bilbo Baggins celebrated his eleventy-first birthday with a party of special magnificence.&lt;ref&gt;{{FR|Party}}&lt;/ref&gt;</pre>
 
@@ -206,24 +205,24 @@ Note that <code>&lt;ref&gt;</code> tags cannot be nested, meaning that you canno
 
 ## Questionable statements {#Questionable_statements}
 
-Questionable statements can be challenged with the [{{fact}}](/wiki/Template:Fact "Template:Fact") template. [Fanon](/wiki/Fanon), conjecture, and overinterpretation that is unreferenced can be deleted on sight.
+Questionable statements can be challenged with the [{{fact}}](https://tolkiengateway.net/wiki/Template:Fact) template. [Fanon](../../main/F/Fanon.md), conjecture, and overinterpretation that is unreferenced can be deleted on sight.
 
 Do not use this tag simply to label statements which you suspect to be false; instead use the articles talk page and ask for evidence.
 
 ## See also {#See_also}
 
-- [Tolkien Gateway:Manual of Style](/wiki/Tolkien_Gateway:Manual_of_Style)
-- [Tolkien Gateway:Canon policy](/wiki/Tolkien_Gateway:Canon_policy)
+- [Tolkien Gateway:Manual of Style](../../project/M/Manual_of_Style.md)
+- [Tolkien Gateway:Canon policy](../../project/C/Canon_policy.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Long-expected_Party" title="A Long-expected Party">A Long-expected Party</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../../main/A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Long-expected_Party" title="A Long-expected Party">A Long-expected Party</a>&#34;, p. 21</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../../main/A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a>&#34;, p. 21</span>
 </li>
-<li id="cite_note-Chapter2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Chapter2_3-0">3.0</a></sup> <sup><a href="#cite_ref-Chapter2_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Shadow_of_the_Past" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</span>
+<li id="cite_note-Chapter2-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Chapter2_3-0">3.0</a></sup> <sup><a href="#cite_ref-Chapter2_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../../main/T/The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</span>
 </li>
 </ol></div>

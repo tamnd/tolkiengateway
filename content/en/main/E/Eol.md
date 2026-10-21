@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eöl"
 ---
 
-Redirect to [Eöl](/wiki/Eöl).
+Redirect to [Eöl](Eöl.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Amazon - The Lord of the Rings - The Rings of Power Ensemble poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amazon - The Lord of the Rings - The Rings of Power Ensemble poster.jpg</span>"
 page_id: 63799
 namespace: 6
 revision_id: 363625
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional poster of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+Promotional poster of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

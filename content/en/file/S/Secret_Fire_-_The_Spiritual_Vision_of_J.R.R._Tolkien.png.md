@@ -1,6 +1,5 @@
 ---
 title: "File:Secret Fire - The Spiritual Vision of J.R.R. Tolkien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Secret Fire - The Spiritual Vision of J.R.R. Tolkien.png</span>"
 page_id: 38954
 namespace: 6
 revision_id: 214599

@@ -1,6 +1,5 @@
 ---
 title: "Of Orcs and Elves"
-display_title: "<span class=\"mw-page-title-main\">Of Orcs and Elves</span>"
 page_id: 22451
 namespace: 0
 revision_id: 82590
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Of <a href="/wiki/Orcs" title="Orcs">Orcs</a> and <a href="/wiki/Elves" title="Elves">Elves</a></b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their third full-length album, [Third Age of the Sun](/wiki/Third_Age_of_the_Sun).
+<i><b>Of <a href="Orcs.md" title="Orcs">Orcs</a> and <a href="../E/Elves.md" title="Elves">Elves</a></b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their third full-length album, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lyrics {#Lyrics}
 

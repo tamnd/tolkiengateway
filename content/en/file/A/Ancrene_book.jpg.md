@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ancrene Wisse 1962.jpg"
 ---
 
-Redirect to [File:Ancrene Wisse 1962.jpg](/wiki/File:Ancrene_Wisse_1962.jpg).
+Redirect to [File:Ancrene Wisse 1962.jpg](Ancrene_Wisse_1962.jpg.md).

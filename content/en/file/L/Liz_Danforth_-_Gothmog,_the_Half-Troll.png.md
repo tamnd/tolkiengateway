@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Gothmog, the Half-Troll.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Gothmog, the Half-Troll.png</span>"
 page_id: 71407
 namespace: 6
 revision_id: 425955
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gothmog](</wiki/Gothmog_(Lieutenant_of_Morgul)> "Gothmog (Lieutenant of Morgul)"), the [Half-Troll](/wiki/Half-trolls "Half-trolls")" by [Liz Danforth](/wiki/Liz_Danforth) for *[Gorgoroth](</wiki/Gorgoroth_(book)> "Gorgoroth (book)")*
+"[Gothmog](<../../main/G/Gothmog_(Lieutenant_of_Morgul).md>), the [Half-Troll](../../main/H/Half-trolls.md)" by [Liz Danforth](../../main/L/Liz_Danforth.md) for *[Gorgoroth](<../../main/G/Gorgoroth_(book).md>)*
 
 ## Licensing {#Licensing}
 

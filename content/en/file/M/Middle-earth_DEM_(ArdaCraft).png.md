@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth DEM (ArdaCraft).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth DEM (ArdaCraft).png</span>"
 page_id: 68523
 namespace: 6
 revision_id: 412492

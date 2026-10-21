@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Eagles"
 ---
 
-Redirect to [Great Eagles](/wiki/Great_Eagles).
+Redirect to [Great Eagles](../G/Great_Eagles.md).

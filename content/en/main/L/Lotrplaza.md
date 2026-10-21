@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "LOTR Fanatics Plaza"
 ---
 
-Redirect to [LOTR Fanatics Plaza](/wiki/LOTR_Fanatics_Plaza).
+Redirect to [LOTR Fanatics Plaza](LOTR_Fanatics_Plaza.md).

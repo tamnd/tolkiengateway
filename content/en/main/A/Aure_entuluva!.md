@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aurë entuluva!"
 ---
 
-Redirect to [Aurë entuluva!](/wiki/Aurë_entuluva!).
+Redirect to [Aurë entuluva!](Aurë_entuluva!.md).

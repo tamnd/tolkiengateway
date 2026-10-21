@@ -13,16 +13,16 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gwend</b></i> or <i><b>gwenn</b></i> is a [Sindarin](/wiki/Sindarin) noun with two meanings:
+<i><b>gwend</b></i> or <i><b>gwenn</b></i> is a [Sindarin](../S/Sindarin.md) noun with two meanings:
 
 1. "bond, friendship". It is related to the verb <i><b>gwedh</b></i>, meaning "to bind".
-2. "maiden". Compare with the suffix *-[wen](/wiki/Wen "Wen")*
+2. "maiden". Compare with the suffix *-[wen](../W/Wen.md)*
 
 ## Examples {#Examples}
 
-- *[Arwen](/wiki/Arwen)* = "Noble Maiden"
-- *[Morwen](/wiki/Morwen)* = "Dark Maiden"
+- *[Arwen](../A/Arwen.md)* = "Noble Maiden"
+- *[Morwen](../M/Morwen.md)* = "Dark Maiden"
 
 ## References {#References}
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

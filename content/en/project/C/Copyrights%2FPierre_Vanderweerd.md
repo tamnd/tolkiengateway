@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Pierre Vanderweerd"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Pierre Vanderweerd</span>"
 page_id: 62351
 namespace: 4
 revision_id: 352035
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vanderweerd, Pierre"
 ---
 
-- [Pierre Vanderweerd](/wiki/Pierre_Vanderweerd) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Pierre_Vanderweerd "Category:Images by Pierre Vanderweerd") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Pierre Vanderweerd](../../main/P/Pierre_Vanderweerd.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Pierre_Vanderweerd.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 January 2022
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

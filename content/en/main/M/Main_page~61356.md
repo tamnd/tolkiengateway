@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Main Page"
 ---
 
-Redirect to [Main Page](/wiki/Main_Page).
+Redirect to [Main Page](Main_Page.md).

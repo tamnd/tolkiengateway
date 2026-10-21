@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Albums by year"
 ---
 
-Redirect to [Index:Albums by year](/wiki/Index:Albums_by_year).
+Redirect to [Index:Albums by year](../../index/A/Albums_by_year.md).

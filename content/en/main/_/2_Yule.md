@@ -1,6 +1,5 @@
 ---
 title: "2 Yule"
-display_title: "<span class=\"mw-page-title-main\">2 Yule</span>"
 page_id: 45164
 namespace: 0
 revision_id: 404461
@@ -25,12 +24,12 @@ langlinks:
     url: "https://kontu.wiki/Kakkosjule"
 ---
 
-**2 Yule** was the first day in the [Shire Calendar](/wiki/Shire_Calendar), marking the beginning of the year, followed by [1 January](/wiki/1_January).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Due to the [Shire-reform](/wiki/Shire-reform) the Yuledays always fell on the same days of the week. 2 Yule was always a [Sterday](/wiki/Sterday) (Saturday).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+**2 Yule** was the first day in the [Shire Calendar](../S/Shire_Calendar.md), marking the beginning of the year, followed by [1 January](1_January.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Due to the [Shire-reform](../S/Shire-reform.md) the Yuledays always fell on the same days of the week. 2 Yule was always a [Sterday](../S/Sterday.md) (Saturday).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Events on 2 Yule:
 
-- [T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019"):
-    - The [Fellowship of the Ring](/wiki/Fellowship_of_the_Ring) travels south along the [Misty Mountains](/wiki/Misty_Mountains).
+- [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
+    - The [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) travels south along the [Misty Mountains](../M/Misty_Mountains.md).
     - First quarter of the Moon<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Notes {#Notes}
@@ -43,10 +42,10 @@ Events on 2 Yule:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Shire Calendar&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Shire Calendar&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. xlix</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. xlix</span>
 </li>
 </ol></div>

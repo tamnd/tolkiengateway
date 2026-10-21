@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quessetéma"
 ---
 
-Redirect to [Quessetéma](/wiki/Quessetéma).
+Redirect to [Quessetéma](Quessetéma.md).

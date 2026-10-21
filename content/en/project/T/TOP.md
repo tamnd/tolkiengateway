@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Top Editors"
 ---
 
-Redirect to [Tolkien Gateway:Top Editors](/wiki/Tolkien_Gateway:Top_Editors).
+Redirect to [Tolkien Gateway:Top Editors](Top_Editors.md).

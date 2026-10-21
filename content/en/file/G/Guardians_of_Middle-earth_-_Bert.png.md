@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Bert.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Bert.png</span>"
 page_id: 71427
 namespace: 6
 revision_id: 426015
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bert](/wiki/William,_Tom,_and_Bert "William, Tom, and Bert") - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Bert](../../main/W/William,_Tom,_and_Bert.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stonewain Valley"
 ---
 
-Redirect to [Stonewain Valley](/wiki/Stonewain_Valley).
+Redirect to [Stonewain Valley](../S/Stonewain_Valley.md).

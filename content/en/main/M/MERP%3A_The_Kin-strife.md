@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Kin-strife"
 ---
 
-Redirect to [The Kin-strife](/wiki/The_Kin-strife).
+Redirect to [The Kin-strife](../T/The_Kin-strife.md).

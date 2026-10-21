@@ -1,6 +1,5 @@
 ---
 title: "John Stephenson"
-display_title: "<span class=\"mw-page-title-main\">John Stephenson</span>"
 page_id: 6396
 namespace: 0
 revision_id: 406059
@@ -23,12 +22,12 @@ sort_keys:
   "The Hobbit (1977 film) cast": "Stephenson, John"
 ---
 
-Veteran American voice actor **John Stephenson** ([9 August](/wiki/9_August) [1923](/wiki/1923) - [15 May](/wiki/15_May) [2015](/wiki/2015)) played various parts in the [Rankin/Bass](/wiki/Rankin/Bass) productions.
+Veteran American voice actor **John Stephenson** ([9 August](../_/9_August.md) [1923](../_/1923.md) - [15 May](../_/15_May.md) [2015](../_/2015.md)) played various parts in the [Rankin/Bass](../R/Rankin%252FBass.md) productions.
 
 ## Filmography {#Filmography}
 
-- [1977](/wiki/1977): [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)"): [Dori](/wiki/Dori), [The Great Goblin](/wiki/Great_Goblin "Great Goblin"), [Bard](/wiki/Bard)
-- [1980](/wiki/1980): [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"): [Witch-king of Angmar](/wiki/Witch-king "Witch-king"), Gondorian Guard
+- [1977](../_/1977.md): [*The Hobbit* (1977 film)](<../T/The_Hobbit_(1977_film).md>): [Dori](../D/Dori.md), [The Great Goblin](../G/Great_Goblin.md), [Bard](../B/Bard.md)
+- [1980](../_/1980.md): [*The Return of the King* (1980 film)](<../T/The_Return_of_the_King_(1980_film).md>): [Witch-king of Angmar](../W/Witch-king.md), Gondorian Guard
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Elf standard bearer.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Elf standard bearer.gif</span>"
 page_id: 12068
 namespace: 6
 revision_id: 203843

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1968 radio series).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1968 radio series).jpg</span>"
 page_id: 72671
 namespace: 6
 revision_id: 431124
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)")'s CD release cover
+[*The Hobbit* (1968 radio series)](<../../main/T/The_Hobbit_(1968_radio_series).md>)'s CD release cover
 
 ## Licensing {#Licensing}
 

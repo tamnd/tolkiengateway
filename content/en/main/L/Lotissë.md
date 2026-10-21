@@ -11,4 +11,4 @@ redirect_target: "Ilmarë"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Ilmarë](/wiki/Ilmarë#Other_versions_of_the_legendarium).
+Redirect to [Ilmarë](../I/Ilmarë.md#Other_versions_of_the_legendarium).

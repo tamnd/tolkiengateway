@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halflings"
 ---
 
-Redirect to [Halflings](/wiki/Halflings).
+Redirect to [Halflings](Halflings.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Akallabȇth - the Fall of Númenor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Akallabȇth - the Fall of Númenor.png</span>"
 page_id: 52255
 namespace: 6
 revision_id: 284876
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Akallabȇth - artist's conception of a cover image for the story of the [Downfall of Númenor](/wiki/Downfall_of_N%C3%BAmenor).
+Akallabȇth - artist's conception of a cover image for the story of the [Downfall of Númenor](../../main/D/Downfall_of_Númenor.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Akallabȇth - artist's conception of a cover image for the story of the [Downfal
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

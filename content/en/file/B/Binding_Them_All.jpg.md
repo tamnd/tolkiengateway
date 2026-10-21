@@ -1,6 +1,5 @@
 ---
 title: "File:Binding Them All.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Binding Them All.jpg</span>"
 page_id: 54622
 namespace: 6
 revision_id: 350911

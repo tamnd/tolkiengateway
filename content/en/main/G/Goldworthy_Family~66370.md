@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goldworthy family"
 ---
 
-Redirect to [Goldworthy family](/wiki/Goldworthy_family).
+Redirect to [Goldworthy family](Goldworthy_family.md).

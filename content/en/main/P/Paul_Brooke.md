@@ -1,6 +1,5 @@
 ---
 title: "Paul Brooke"
-display_title: "<span class=\"mw-page-title-main\">Paul Brooke</span>"
 page_id: 6894
 namespace: 0
 revision_id: 187664
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Brooke, Paul"
 ---
 
-**Paul Brooke** is an English radio and television actor. His credits include the *Dr. Who* radio series and *Bridget Jones' Diary*, but his most iconic role is that of the weeping, fat-bellied <a class="external text" href="http://starwars.wikia.com/wiki/Malakili" rel="noreferrer noopener" target="_blank">Rancor guard</a> in the third *Star Wars* movie, *The Return of the Jedi*. He voiced the part of [Gríma Wormtongue](/wiki/Gr%C3%ADma "Gríma") in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on the BBC 4.
+**Paul Brooke** is an English radio and television actor. His credits include the *Dr. Who* radio series and *Bridget Jones' Diary*, but his most iconic role is that of the weeping, fat-bellied <a class="external text" href="http://starwars.wikia.com/wiki/Malakili" rel="noreferrer noopener" target="_blank">Rancor guard</a> in the third *Star Wars* movie, *The Return of the Jedi*. He voiced the part of [Gríma Wormtongue](../G/Gríma.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on the BBC 4.
 
 ## External links {#External_links}
 

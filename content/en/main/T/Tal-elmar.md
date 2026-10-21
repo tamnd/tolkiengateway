@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tal-Elmar (character)"
 ---
 
-Redirect to [Tal-Elmar (character)](/wiki/Tal-Elmar_(character)).
+Redirect to [Tal-Elmar (character)](<Tal-Elmar_(character).md>).

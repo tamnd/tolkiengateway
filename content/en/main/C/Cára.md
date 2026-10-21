@@ -15,21 +15,21 @@ sort_keys:
   "Quenya nouns": "Cara"
 ---
 
-**cára** also **cas**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (pl. **cari**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) means "head" in [Quenya](/wiki/Quenya).
+**cára** also **cas**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (pl. **cari**<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>) means "head" in [Quenya](../Q/Quenya.md).
 
 ## Etymology {#Etymology}
 
-The word derives from earlier *cáza*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> &lt; [PQ](/wiki/PQ) \**kāsa*, [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=KAS&amp;action=edit&amp;redlink=1" title="KAS (page does not exist)">KAS</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+The word derives from earlier *cáza*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> &lt; [PQ](../P/PQ.md) \**kāsa*, [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KAS&amp;action=edit&amp;redlink=1" title="KAS (page does not exist)">KAS</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 The short form retained the *s* being final, but again, it evolved into *r* when inflected.
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Cassa&amp;action=edit&amp;redlink=1" title="Cassa (page does not exist)">cassa</a></i> "helmet"
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cassa&amp;action=edit&amp;redlink=1" title="Cassa (page does not exist)">cassa</a></i> "helmet"
 
 ## Other versions {#Other_versions}
 
-*[The Etymologies](/wiki/The_Etymologies)* show a reverted case: the nominative is <i>cá<b>r</b></i> and the inflected form <i>ca<b>s</b>i</i>. It represents a very early phonological scenario of the language, as seen in the *[Qenya Lexicon](/wiki/Qenya_Lexicon)*. Since the *Etymologies* have the newer, reversed scenario, the case of *cár* appears as an anomaly among similar words. Tolkien later revised it to be consistent with his concurrent scenario.
+*[The Etymologies](../T/The_Etymologies.md)* show a reverted case: the nominative is <i>cá<b>r</b></i> and the inflected form <i>ca<b>s</b>i</i>. It represents a very early phonological scenario of the language, as seen in the *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*. Since the *Etymologies* have the newer, reversed scenario, the case of *cár* appears as an anomaly among similar words. Tolkien later revised it to be consistent with his concurrent scenario.
 
 ## Inspiration {#Inspiration}
 
@@ -38,12 +38,12 @@ The short form retained the *s* being final, but again, it evolved into *r* when
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007 p. 17</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007 p. 17</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Early Qenya and The Valmaric Script&#34;, in <a href="/wiki/Parma_Eldalamberon_14" title="Parma Eldalamberon 14"><i>Parma Eldalamberon</i> XIV</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>) p.68</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Early Qenya and The Valmaric Script&#34;, in <a href="../P/Parma_Eldalamberon_14.md" title="Parma Eldalamberon 14"><i>Parma Eldalamberon</i> XIV</a> (edited by <a href="Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>) p.68</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>) p.188</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>) p.188</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;</span>
 </li>
 </ol></div>

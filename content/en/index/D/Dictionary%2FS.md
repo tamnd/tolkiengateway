@@ -1,6 +1,5 @@
 ---
 title: "Index:Dictionary/S"
-display_title: "<span class=\"mw-page-title-namespace\">Index</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dictionary/S</span>"
 page_id: 70691
 namespace: 102
 revision_id: 421895
@@ -13,74 +12,70 @@ categories:
   - "Languages"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r419109">.mw-parser-output .tg-card{--tg-card-image-color_r:0;--tg-card-image-color_g:0;--tg-card-image-color_b:0;position:relative;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);border-radius:var(--tg-border-radius-medium);overflow:hidden;display:flex;flex-direction:column}.mw-parser-output .tg-card-header,.mw-parser-output .tg-card-footer{padding:0.5rem 1rem;background:var(--tg-color-surface-3)}.mw-parser-output .tg-card-footer{font-size:var(--tg-font-size-small)}.mw-parser-output .template-flexbox-item .tg-card{height:100%}.mw-parser-output .tg-card blockquote{margin-left:0;margin-right:0}.mw-parser-output .tg-card-image{position:relative;display:flex;flex-grow:1}.mw-parser-output .tg-card-afterImage{position:relative;margin-top:-0.5rem;padding:0 1rem 1rem 1rem;background-color:rgb(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b))}.mw-parser-output .tg-card-afterImage a{color:#fff}.mw-parser-output .tg-card-afterImage,.mw-parser-output .tg-card-label,.mw-parser-output .tg-card-caption{font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-card-label{position:absolute;top:0;left:0;z-index:1}.mw-parser-output .tg-card-label>a,.mw-parser-output .tg-card-label>span{display:flex;align-items:center;height:32px;padding:0 12px;border-bottom-right-radius:var(--tg-border-radius-medium);background:var(--tg-color-progressive);color:var(--tg-color-inverted-progressive);line-height:1}.mw-parser-output .tg-card-label>a:hover{background:var(--tg-color-progressive--hover)}.mw-parser-output .tg-card-label>a:active{background:var(--tg-color-progressive--hover)}.mw-parser-output .tg-card-content{padding:1rem}.mw-parser-output .tg-card-label+.tg-card-content{margin-top:1.5rem}.mw-parser-output .tg-card-title{color:var(--tg-color-emphasized);font-family:var(--tg-font-family-heading);font-size:var(--tg-font-size-x-large);font-weight:var(--tg-font-weight-semibold);line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-card-caption{margin-top:0.25rem;color:var(--tg-color-subtle);line-height:var(--tg-line-height-xx-small)}.mw-parser-output .tg-card-title+.tg-card-body,.mw-parser-output .tg-card-caption+.tg-card-body{margin-top:1rem}.mw-parser-output .tg-card-background,.mw-parser-output .tg-card-link{position:absolute;inset:0}.mw-parser-output .tg-card-background{pointer-events:none}.mw-parser-output .tg-card-background::after{content:"";position:absolute;left:0;right:0;bottom:0;height:50%;background:linear-gradient(to top,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),1)0%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.987)8.1%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.951)15.5%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.896)22.5%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.825)29%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.741)35.3%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.648)41.2%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.55)47.1%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.45)52.9%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.352)58.8%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.259)64.7%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.175)71%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.104)77.5%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.049)84.5%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0.013)91.9%,rgba(var(--tg-card-image-color_r),var(--tg-card-image-color_g),var(--tg-card-image-color_b),0)100%)}.mw-parser-output .tg-card-background--top img{object-position:top}.mw-parser-output .tg-card-background--bottom img{object-position:bottom}.mw-parser-output .tg-card-background img{width:100%;height:100%;object-fit:cover;transition:100ms ease;transition-property:transform}.mw-parser-output .tg-card:hover .tg-card-background img{transform:scale(1.1)}.mw-parser-output .tg-card-link{opacity:0}.mw-parser-output .tg-card-link>a{display:block;height:100%}.mw-parser-output .tg-card-image .tg-card-content{position:relative}.mw-parser-output .tg-card-image .tg-card-content{margin-top:auto;line-height:var(--tg-line-height-xx-small);flex-grow:1}.mw-parser-output .tg-card-image .tg-card-title{color:#fff}.mw-parser-output .tg-card-image .tg-card-caption,.mw-parser-output .tg-card-afterImage{color:#ddd}</style>
+<div class="tg-card tg-mainpage-browse" style=""><div class="tg-card-content"><div class="tg-card-body"><div class="tg-mainpage-browse-atoz citizen-overflow"><div class="tg-mainpage-browse-atoz-label">Browse:</div><div class="tg-button"><a href="Dictionary%252FA.md" title="Index:Dictionary/A">A</a></div><div class="tg-button"><a href="Dictionary%252FB.md" title="Index:Dictionary/B">B</a></div><div class="tg-button"><a href="Dictionary%252FC.md" title="Index:Dictionary/C">C</a></div><div class="tg-button"><a href="Dictionary%252FD.md" title="Index:Dictionary/D">D</a></div><div class="tg-button"><a href="Dictionary%252FE.md" title="Index:Dictionary/E">E</a></div><div class="tg-button"><a href="Dictionary%252FF.md" title="Index:Dictionary/F">F</a></div><div class="tg-button"><a href="Dictionary%252FG.md" title="Index:Dictionary/G">G</a></div><div class="tg-button"><a href="Dictionary%252FH.md" title="Index:Dictionary/H">H</a></div><div class="tg-button"><a href="Dictionary%252FI.md" title="Index:Dictionary/I">I</a></div><div class="tg-button"><a href="Dictionary%252FJ.md" title="Index:Dictionary/J">J</a></div><div class="tg-button"><a href="Dictionary%252FK.md" title="Index:Dictionary/K">K</a></div><div class="tg-button"><a href="Dictionary%252FL.md" title="Index:Dictionary/L">L</a></div><div class="tg-button"><a href="Dictionary%252FM.md" title="Index:Dictionary/M">M</a></div><div class="tg-button"><a href="Dictionary%252FN.md" title="Index:Dictionary/N">N</a></div><div class="tg-button"><a href="Dictionary%252FO.md" title="Index:Dictionary/O">O</a></div><div class="tg-button"><a href="Dictionary%252FP.md" title="Index:Dictionary/P">P</a></div><div class="tg-button"><a href="Dictionary%252FQ.md" title="Index:Dictionary/Q">Q</a></div><div class="tg-button"><a href="Dictionary%252FR.md" title="Index:Dictionary/R">R</a></div><div class="tg-button"><a class="mw-selflink selflink">S</a></div><div class="tg-button"><a href="Dictionary%252FT.md" title="Index:Dictionary/T">T</a></div><div class="tg-button"><a href="Dictionary%252FU.md" title="Index:Dictionary/U">U</a></div><div class="tg-button"><a href="Dictionary%252FV.md" title="Index:Dictionary/V">V</a></div><div class="tg-button"><a href="Dictionary%252FW.md" title="Index:Dictionary/W">W</a></div><div class="tg-button"><a href="Dictionary%252FX.md" title="Index:Dictionary/X">X</a></div><div class="tg-button"><a href="Dictionary%252FY.md" title="Index:Dictionary/Y">Y</a></div><div class="tg-button"><a href="Dictionary%252FZ.md" title="Index:Dictionary/Z">Z</a></div></div></div></div></div>
 
-<div class="tg-card tg-mainpage-browse" style=""><div class="tg-card-content"><div class="tg-card-body"><div class="tg-mainpage-browse-atoz citizen-overflow"><div class="tg-mainpage-browse-atoz-label">Browse:</div><div class="tg-button"><a href="/wiki/Index:Dictionary/A" title="Index:Dictionary/A">A</a></div><style data-mw-deduplicate="TemplateStyles:r402745">.mw-parser-output .tg-button>a{border:1px solid transparent;border-radius:var(--tg-border-radius-small);height:36px;padding:0 1rem!important;color:var(--tg-color-emphasized)!important;display:flex;align-items:center;justify-content:center;gap:0.5rem;line-height:1;font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium);text-decoration:none}.mw-parser-output .tg-button>a:hover{background-color:var(--background-color-button-quiet--hover)!important}.mw-parser-output .tg-button>a:active{background-color:var(--background-color-button-quiet--active)!important}.mw-parser-output .tg-button.tg-button--framed>a{border-color:var(--tg-border-color-interactive)}.mw-parser-output .tg-button.tg-button--icon>a{padding-left:0.5rem!important;padding-right:0.5rem!important;font-size:0;gap:0}.mw-parser-output .tg-button.tg-button--primary>a{color:var(--tg-color-inverted-progressive)!important;background-color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--primary>a:hover{background-color:var(--tg-color-progressive--hover)!important}.mw-parser-output .tg-button.tg-button--primary>a:active{background-color:var(--tg-color-progressive--active)!important}.mw-parser-output .tg-button.tg-button--secondary>a{border-color:var(--tg-color-progressive)!important;color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:hover{border-color:var(--tg-color-progressive--hover)!important;background-color:var(--tg-color-progressive--hover)!important;color:var(--tg-color-inverted-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:active{border-color:var(--tg-color-progressive--active)!important;background-color:var(--tg-color-progressive--active)!important;color:var(--tg-color-inverted-progressive)!important}</style><div class="tg-button"><a href="/wiki/Index:Dictionary/B" title="Index:Dictionary/B">B</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/C" title="Index:Dictionary/C">C</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/D" title="Index:Dictionary/D">D</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/E" title="Index:Dictionary/E">E</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/F" title="Index:Dictionary/F">F</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/G" title="Index:Dictionary/G">G</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/H" title="Index:Dictionary/H">H</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/I" title="Index:Dictionary/I">I</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/J" title="Index:Dictionary/J">J</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/K" title="Index:Dictionary/K">K</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/L" title="Index:Dictionary/L">L</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/M" title="Index:Dictionary/M">M</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/N" title="Index:Dictionary/N">N</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/O" title="Index:Dictionary/O">O</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/P" title="Index:Dictionary/P">P</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/Q" title="Index:Dictionary/Q">Q</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/R" title="Index:Dictionary/R">R</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a class="mw-selflink selflink">S</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/T" title="Index:Dictionary/T">T</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/U" title="Index:Dictionary/U">U</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/V" title="Index:Dictionary/V">V</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/W" title="Index:Dictionary/W">W</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/X" title="Index:Dictionary/X">X</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/Y" title="Index:Dictionary/Y">Y</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/Index:Dictionary/Z" title="Index:Dictionary/Z">Z</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/></div></div></div></div>
+<div style="border:var(--tg-border-base); background:var(--tg-color-surface-2); padding: 10px; margin: 10px 0px 10px 0px; text-align: center; font-size: 85%;border-radius:var(--tg-border-radius-large);"><b>Ad</b> = <a href="../../main/A/Adûnaic.md" title="Adûnaic">Adûnaic</a>;  <b>Av</b> = <a href="../../main/A/Avarin.md" title="Avarin">Avarin</a>;  <b>BS</b> = <a href="../../main/B/Black_Speech.md" title="Black Speech">Black Speech</a>;  <b>CE</b> = <a href="../../main/C/Common_Eldarin.md" title="Common Eldarin">Common Eldarin</a>;  <b>Dan</b> = <a class="mw-redirect" href="../../main/N/Nandorin.md" title="Nandorin">Danian</a>;  <b>Dor</b> = <a href="../../main/D/Doriathrin.md" title="Doriathrin">Doriathrin</a>;  <b>Dr</b> = <a href="../../main/D/Drúadan_language.md" title="Drúadan language">Drúadan language</a>;  <b>Elv</b> = <a href="../../main/E/Elvish.md" title="Elvish">Elvish</a>;  <b>Ent</b> = <a href="../../main/E/Entish.md" title="Entish">Entish</a>;  <b>EN</b> = <a href="../../main/N/Noldorin.md" title="Noldorin">Exilic Noldorin</a>;  <b>EQ</b> = <a href="../../main/E/Exilic_Quenya.md" title="Exilic Quenya">Exilic Quenya</a>;  <b>G</b> = <a href="../../main/G/Gnomish.md" title="Gnomish">Goldogrin, Gnomish</a>;  <b>Ilk</b> = <a href="../../main/I/Ilkorin.md" title="Ilkorin">Ilkorin</a>;  <b>K</b> = <a href="../../main/K/Khuzdul.md" title="Khuzdul">Khuzdul, Dwarvish</a>;  <b>L</b> = <a class="mw-redirect" href="../../main/L/Lindarin.md" title="Lindarin">Lindarin</a>;  <b>N</b> = <a href="../../main/N/Noldorin.md" title="Noldorin">Noldorin</a>;  <b>Nan</b> = <a class="mw-redirect" href="../../main/N/Nandorin.md" title="Nandorin">Nandorin</a>;  <b>ON</b> = <a href="../../main/K/Kornoldorin.md" title="Kornoldorin">Old Noldorin</a>;  <b>Ork</b> = <a href="../../main/O/Orkish.md" title="Orkish">Orkish</a>;  <b>Oss</b> = <a class="mw-redirect" href="../../main/N/Nandorin.md" title="Nandorin">Ossiriandic, Ossiriandeb</a>;  <b>Q</b> = <a href="../../main/Q/Quenya.md" title="Quenya">Quenya</a>;  <b>Qe</b> = <a href="../../main/Q/Qenya.md" title="Qenya">Qenya</a>;  <b>R</b> = <a href="../../main/R/Rohanese.md" title="Rohanese">Rohanese</a>;  <b>S</b> = <a href="../../main/S/Sindarin.md" title="Sindarin">Sindarin</a>;  <b>Silv</b>  = <a href="../../main/S/Silvan_Elvish.md" title="Silvan Elvish">Silvan</a>;  <b>T</b> = <a href="../../main/T/Telerin.md" title="Telerin">Telerin</a>;  <b>V</b> = <a href="../../main/V/Valarin.md" title="Valarin">Valarin</a>;  <b>VQ</b>  = <a href="../../main/V/Vanyarin.md" title="Vanyarin">Vanyarin Quenya</a>;  <b>W</b> = <a href="../../main/W/Westron.md" title="Westron">Westron</a>; <b>*</b> = only attested in compound</div>
 
-<style data-mw-deduplicate="TemplateStyles:r397158">.mw-parser-output .tg-mainpage-browse-header{margin-bottom:1rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}.mw-parser-output .tg-mainpage-browse-atoz{display:flex;align-items:center}.mw-parser-output .tg-mainpage-browse-atoz-label{margin-right:1rem;flex-grow:1;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-mainpage-browse-atoz>.tg-button>a{width:36px}</style>
-
-<div style="border:var(--tg-border-base); background:var(--tg-color-surface-2); padding: 10px; margin: 10px 0px 10px 0px; text-align: center; font-size: 85%;border-radius:var(--tg-border-radius-large);"><b>Ad</b> = <a href="/wiki/Ad%C3%BBnaic" title="Adûnaic">Adûnaic</a>;  <b>Av</b> = <a href="/wiki/Avarin" title="Avarin">Avarin</a>;  <b>BS</b> = <a href="/wiki/Black_Speech" title="Black Speech">Black Speech</a>;  <b>CE</b> = <a href="/wiki/Common_Eldarin" title="Common Eldarin">Common Eldarin</a>;  <b>Dan</b> = <a class="mw-redirect" href="/wiki/Nandorin" title="Nandorin">Danian</a>;  <b>Dor</b> = <a href="/wiki/Doriathrin" title="Doriathrin">Doriathrin</a>;  <b>Dr</b> = <a href="/wiki/Dr%C3%BAadan_language" title="Drúadan language">Drúadan language</a>;  <b>Elv</b> = <a href="/wiki/Elvish" title="Elvish">Elvish</a>;  <b>Ent</b> = <a href="/wiki/Entish" title="Entish">Entish</a>;  <b>EN</b> = <a href="/wiki/Noldorin" title="Noldorin">Exilic Noldorin</a>;  <b>EQ</b> = <a href="/wiki/Exilic_Quenya" title="Exilic Quenya">Exilic Quenya</a>;  <b>G</b> = <a href="/wiki/Gnomish" title="Gnomish">Goldogrin, Gnomish</a>;  <b>Ilk</b> = <a href="/wiki/Ilkorin" title="Ilkorin">Ilkorin</a>;  <b>K</b> = <a href="/wiki/Khuzdul" title="Khuzdul">Khuzdul, Dwarvish</a>;  <b>L</b> = <a class="mw-redirect" href="/wiki/Lindarin" title="Lindarin">Lindarin</a>;  <b>N</b> = <a href="/wiki/Noldorin" title="Noldorin">Noldorin</a>;  <b>Nan</b> = <a class="mw-redirect" href="/wiki/Nandorin" title="Nandorin">Nandorin</a>;  <b>ON</b> = <a href="/wiki/Kornoldorin" title="Kornoldorin">Old Noldorin</a>;  <b>Ork</b> = <a href="/wiki/Orkish" title="Orkish">Orkish</a>;  <b>Oss</b> = <a class="mw-redirect" href="/wiki/Nandorin" title="Nandorin">Ossiriandic, Ossiriandeb</a>;  <b>Q</b> = <a href="/wiki/Quenya" title="Quenya">Quenya</a>;  <b>Qe</b> = <a href="/wiki/Qenya" title="Qenya">Qenya</a>;  <b>R</b> = <a href="/wiki/Rohanese" title="Rohanese">Rohanese</a>;  <b>S</b> = <a href="/wiki/Sindarin" title="Sindarin">Sindarin</a>;  <b>Silv</b>  = <a href="/wiki/Silvan_Elvish" title="Silvan Elvish">Silvan</a>;  <b>T</b> = <a href="/wiki/Telerin" title="Telerin">Telerin</a>;  <b>V</b> = <a href="/wiki/Valarin" title="Valarin">Valarin</a>;  <b>VQ</b>  = <a href="/wiki/Vanyarin" title="Vanyarin">Vanyarin Quenya</a>;  <b>W</b> = <a href="/wiki/Westron" title="Westron">Westron</a>; <b>*</b> = only attested in compound</div>
-
-- sanctity: Q *[airë](/wiki/Air%C3%AB "Airë")*
-- secret hole: S *[torech](/wiki/Torech "Torech")*
-- secret knowledge: S *[gûl](/wiki/G%C3%BBl "Gûl")*
-- [serpent](/wiki/Serpents "Serpents"): S *[lhûg](/wiki/Lh%C3%BBg "Lhûg")*
-- shadow of dark magic: BS *[gûl](/wiki/G%C3%BBl "Gûl")*
-- sharp: Q *[maika](/wiki/Maika "Maika")*; S *[maeg](/wiki/Maeg "Maeg")*
-- shape, pale: Q *[fairë](/wiki/Phantoms#Etymology "Phantoms")*
-- she-lion: Qe *[ravennë](/wiki/Me%C3%A1ss%C3%AB#Etymology "Meássë")*
-- [sheep](/wiki/Sheep "Sheep"): Q *[máma](/wiki/Sheep#Names "Sheep")*; G *[moth](/wiki/Sheep#Names "Sheep")*
-- shine: Q *[sil-](/wiki/Sil "Sil")*
-- shore: Elv *[esgar](/wiki/Esgar#Elvish "Esgar")*
-- silent: S *[tîn](/wiki/T%C3%AEn#Adjective "Tîn")*
-- [silver](/wiki/Silver "Silver"): T *[telepi](/wiki/Telepi "Telepi")*; Q *[tyelpe](/wiki/Telpe "Telpe")*; S/N/G *[celeb](/wiki/Celeb "Celeb")*; I *[telf](/wiki/Telf "Telf")*
-- sinew: N *[tû](/wiki/T%C3%BB "Tû")*
-- skin: S \**[flâd](/wiki/Skinbark#Etymolgy "Skinbark")*
+- sanctity: Q *[airë](../../main/A/Airë.md)*
+- secret hole: S *[torech](../../main/T/Torech.md)*
+- secret knowledge: S *[gûl](../../main/G/Gûl.md)*
+- [serpent](../../main/S/Serpents.md): S *[lhûg](../../main/L/Lhûg.md)*
+- shadow of dark magic: BS *[gûl](../../main/G/Gûl.md)*
+- sharp: Q *[maika](../../main/M/Maika.md)*; S *[maeg](../../main/M/Maeg.md)*
+- shape, pale: Q *[fairë](../../main/P/Phantoms.md#Etymology)*
+- she-lion: Qe *[ravennë](../../main/M/Meássë.md#Etymology)*
+- [sheep](../../main/S/Sheep.md): Q *[máma](../../main/S/Sheep.md#Names)*; G *[moth](../../main/S/Sheep.md#Names)*
+- shine: Q *[sil-](../../main/S/Sil.md)*
+- shore: Elv *[esgar](../../main/E/Esgar.md#Elvish)*
+- silent: S *[tîn](../../main/T/Tîn.md#Adjective)*
+- [silver](../../main/S/Silver.md): T *[telepi](../../main/T/Telepi.md)*; Q *[tyelpe](../../main/T/Telpe.md)*; S/N/G *[celeb](../../main/C/Celeb.md)*; I *[telf](../../main/T/Telf.md)*
+- sinew: N *[tû](../../main/T/Tû.md)*
+- skin: S \**[flâd](../../main/S/Skinbark.md#Etymolgy)*
 - slant, come down in a: S *penna-*
-- slave: BS *[gûl](/wiki/G%C3%BBl "Gûl")*
-- sleep (noun): Qe *[fúmë](/wiki/Fumellar#Etymology "Fumellar")*
-- slope: Q *penda-*, *pende*; S *[penn, pend](/wiki/Penn "Penn")*
-- slopes: S *[pinnath](/wiki/Pinnath "Pinnath")*
+- slave: BS *[gûl](../../main/G/Gûl.md)*
+- sleep (noun): Qe *[fúmë](../../main/F/Fumellar.md#Etymology)*
+- slope: Q *penda-*, *pende*; S *[penn, pend](../../main/P/Penn.md)*
+- slopes: S *[pinnath](../../main/P/Pinnath.md)*
 - sloping, steeply: Q *penda*
-- small star: N *[tinw](/wiki/Tinw "Tinw")*
-- smelling, evil-: Q *[saura](/wiki/Saura "Saura")*
-- [snake](/wiki/Snakes "Snakes"): S *[lhûg](/wiki/Lh%C3%BBg "Lhûg")*
-- snow: S *[loss](/wiki/Loss "Loss")*; N *[gloss](/wiki/Gloss "Gloss")*
-- snow-white: N *[gloss](/wiki/Gloss "Gloss")*
-- soil: Qe *[kemi](/wiki/I_Vene_Kemen#Etymology "I Vene Kemen")*, *[kemen](/wiki/I_Vene_Kemen#Etymology "I Vene Kemen")*
-- [sorcery](/wiki/Sorcery "Sorcery"): S *[morgul](/wiki/Morgul "Morgul")*, *[gûl](/wiki/G%C3%BBl "Gûl")*
-- spark: S *[tin, tîn](/wiki/T%C3%AEn#Noun "Tîn")*; N *[tinw](/wiki/Tinw "Tinw")*
-- spark, bright: S *[gil](/wiki/Gil "Gil")*
-- sparkle: S *[tin](/wiki/T%C3%AEn#Noun "Tîn")*
-- [spectre](/wiki/Spectres "Spectres"): R *[dwimmerlaik](/wiki/Dwimmerlaik#Etymology "Dwimmerlaik")*
-- [spider](/wiki/Spiders "Spiders"): S *[ungol](/wiki/Spiders#Names "Spiders")*
-- spike: Qe *[tilde](/wiki/TIL#Derivatives "TIL")*
-- spikes, jagged hedge of: Q *[karakse](/wiki/Karakse "Karakse")*
-- spindrift: Oss *[wing](/wiki/Wing "Wing")*
-- spirit, disembodied: Q *[fairë](/wiki/Phantoms#Etymology "Phantoms")*
-- [spirit, evil](/wiki/Spirits "Spirits"): BS *[gûl](/wiki/G%C3%BBl "Gûl")*
-- spirit, fiery: N *[hûr](/wiki/H%C3%BBr "Hûr")*
-- <a class="mw-redirect mw-disambig" href="/wiki/Dryads" title="Dryads">spirit of the woods</a>: Qe <i><a class="mw-redirect mw-disambig" href="/wiki/Dryads" title="Dryads">tavaro, tavaron</a></i>
-- spot: Q *[men](</wiki/Men_(Elvish)#Quenya> "Men (Elvish)")*
-- spume: Oss *[wing](/wiki/Wing "Wing")*
-- spuming: V *[Oš(o)šai](/wiki/Oss%C3%AB#Etymology "Ossë")*
-- [star](/wiki/Stars "Stars"): S *[gil](/wiki/Gil "Gil")*, *[tîn](/wiki/T%C3%AEn#Noun "Tîn")*; N *[gíl](/wiki/G%C3%ADl "Gíl")*
-- star, small: N *[tinw](/wiki/Tinw "Tinw")*
-- steadfast: S *[thalion](/wiki/Thalion "Thalion")*
-- steeple: S *[brand](</wiki/Brand_(word)#Sindarin> "Brand (word)")*
-- stench: N *[thû](/wiki/THUS#Other_versions "THUS")*
-- stick in: EN *[nestegi](/wiki/Nestegi "Nestegi")*
-- stone: S *[gond](/wiki/Gond "Gond")*, *[sarn](/wiki/Sarn "Sarn")*; N *[gonn](/wiki/Gond#Etymology "Gond")*, *[sarn](/wiki/Sarn "Sarn")*
-- stony: S/N *[sarn](/wiki/Sarn "Sarn")*
-- stop (noun): Q *[lár](/wiki/L%C3%A1r "Lár")*; S *[daur](/wiki/Daur "Daur")*
+- small star: N *[tinw](../../main/T/Tinw.md)*
+- smelling, evil-: Q *[saura](../../main/S/Saura.md)*
+- [snake](../../main/S/Snakes.md): S *[lhûg](../../main/L/Lhûg.md)*
+- snow: S *[loss](../../main/L/Loss.md)*; N *[gloss](../../main/G/Gloss.md)*
+- snow-white: N *[gloss](../../main/G/Gloss.md)*
+- soil: Qe *[kemi](../../main/I/I_Vene_Kemen.md#Etymology)*, *[kemen](../../main/I/I_Vene_Kemen.md#Etymology)*
+- [sorcery](../../main/S/Sorcery.md): S *[morgul](../../main/M/Morgul.md)*, *[gûl](../../main/G/Gûl.md)*
+- spark: S *[tin, tîn](../../main/T/Tîn.md#Noun)*; N *[tinw](../../main/T/Tinw.md)*
+- spark, bright: S *[gil](../../main/G/Gil.md)*
+- sparkle: S *[tin](../../main/T/Tîn.md#Noun)*
+- [spectre](../../main/S/Spectres.md): R *[dwimmerlaik](../../main/D/Dwimmerlaik.md#Etymology)*
+- [spider](../../main/S/Spiders.md): S *[ungol](../../main/S/Spiders.md#Names)*
+- spike: Qe *[tilde](../../main/T/TIL~40097.md#Derivatives)*
+- spikes, jagged hedge of: Q *[karakse](../../main/K/Karakse.md)*
+- spindrift: Oss *[wing](../../main/W/Wing.md)*
+- spirit, disembodied: Q *[fairë](../../main/P/Phantoms.md#Etymology)*
+- [spirit, evil](../../main/S/Spirits.md): BS *[gûl](../../main/G/Gûl.md)*
+- spirit, fiery: N *[hûr](../../main/H/Hûr.md)*
+- <a class="mw-redirect mw-disambig" href="../../main/D/Dryads.md" title="Dryads">spirit of the woods</a>: Qe <i><a class="mw-redirect mw-disambig" href="../../main/D/Dryads.md" title="Dryads">tavaro, tavaron</a></i>
+- spot: Q *[men](<../../main/M/Men_(Elvish).md#Quenya>)*
+- spume: Oss *[wing](../../main/W/Wing.md)*
+- spuming: V *[Oš(o)šai](../../main/O/Ossë.md#Etymology)*
+- [star](../../main/S/Stars.md): S *[gil](../../main/G/Gil.md)*, *[tîn](../../main/T/Tîn.md#Noun)*; N *[gíl](../../main/G/Gíl.md)*
+- star, small: N *[tinw](../../main/T/Tinw.md)*
+- steadfast: S *[thalion](../../main/T/Thalion.md)*
+- steeple: S *[brand](<../../main/B/Brand_(word).md#Sindarin>)*
+- stench: N *[thû](../../main/T/THUS.md#Other_versions)*
+- stick in: EN *[nestegi](../../main/N/Nestegi.md)*
+- stone: S *[gond](../../main/G/Gond.md)*, *[sarn](../../main/S/Sarn.md)*; N *[gonn](../../main/G/Gond.md#Etymology)*, *[sarn](../../main/S/Sarn.md)*
+- stony: S/N *[sarn](../../main/S/Sarn.md)*
+- stop (noun): Q *[lár](../../main/L/Lár.md)*; S *[daur](../../main/D/Daur.md)*
 - stray (verb): Q *ranya-*; N *rhenio*
 - straying: Q *ráne*
-- stream \[see also "river"\]: S/N *[sîr](/wiki/S%C3%AEr "Sîr")*
-- street: S *[rath](/wiki/Rath "Rath")*
-- strength, physical: N *[tû](/wiki/T%C3%BB "Tû")*
-- strong: S *[thalion](/wiki/Thalion "Thalion")*
-- sublime: Q *[varanda](/wiki/Varanda "Varanda")*; S *[brand](</wiki/Brand_(word)#Sindarin> "Brand (word)")*; N *[taur](/wiki/Taur#Noldorin "Taur")*
-- summons: T *[can-](/wiki/Can- "Can-")*
-- sun-fading: Q *[Narquelië](/wiki/Narqueli%C3%AB)*
-- sunrise: N *[amrûn](/wiki/Amr%C3%BBn "Amrûn")*
-- sword-blade: Q *[maika](/wiki/Maika "Maika")*
+- stream \[see also "river"\]: S/N *[sîr](../../main/S/Sîr.md)*
+- street: S *[rath](../../main/R/Rath.md)*
+- strength, physical: N *[tû](../../main/T/Tû.md)*
+- strong: S *[thalion](../../main/T/Thalion.md)*
+- sublime: Q *[varanda](../../main/V/Varanda.md)*; S *[brand](<../../main/B/Brand_(word).md#Sindarin>)*; N *[taur](../../main/T/Taur.md#Noldorin)*
+- summons: T *[can-](../../main/C/Can-.md)*
+- sun-fading: Q *[Narquelië](../../main/N/Narquelië.md)*
+- sunrise: N *[amrûn](../../main/A/Amrûn.md)*
+- sword-blade: Q *[maika](../../main/M/Maika.md)*

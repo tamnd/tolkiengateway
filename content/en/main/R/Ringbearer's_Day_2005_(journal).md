@@ -13,7 +13,7 @@ categories:
   - "Journals"
 ---
 
-**Ringbearer's Day 2005** Celebrating 50 years of [The Lord of the Rings](/wiki/The_Lord_of_the_Rings) is a special edition journal published by the [North East Tolkien Society](/wiki/North_East_Tolkien_Society). The journal coincides with their <a class="new" href="/w/index.php?title=Ringbearer%27s_Day_2005&amp;action=edit&amp;redlink=1" title="Ringbearer&#39;s Day 2005 (page does not exist)">Ringbearer&#39;s Day 2005</a> convention.
+**Ringbearer's Day 2005** Celebrating 50 years of [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) is a special edition journal published by the [North East Tolkien Society](../N/North_East_Tolkien_Society.md). The journal coincides with their <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringbearer%27s_Day_2005&amp;action=edit&amp;redlink=1" title="Ringbearer&#39;s Day 2005 (page does not exist)">Ringbearer&#39;s Day 2005</a> convention.
 
 ## Contents {#Contents}
 

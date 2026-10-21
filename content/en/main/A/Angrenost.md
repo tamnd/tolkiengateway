@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengard"
 ---
 
-Redirect to [Isengard](/wiki/Isengard).
+Redirect to [Isengard](../I/Isengard.md).

@@ -1,6 +1,5 @@
 ---
 title: "Jan Broberg"
-display_title: "<span class=\"mw-page-title-main\">Jan Broberg</span>"
 page_id: 27007
 namespace: 0
 revision_id: 253139
@@ -21,18 +20,18 @@ sort_keys:
   "Swedish people": "Broberg, Jan"
 ---
 
-**Jan Broberg** ([9 December](/wiki/9_December) [1932](/wiki/1932) - [29 March](/wiki/29_March) [2012](/wiki/2012)) was a Swedish author, literary critic and a leading expert in Sweden on crime, detective and mystery stories.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jan Broberg** ([9 December](../_/9_December.md) [1932](../_/1932.md) - [29 March](../_/29_March.md) [2012](../_/2012.md)) was a Swedish author, literary critic and a leading expert in Sweden on crime, detective and mystery stories.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-In [1961](/wiki/1961), Broberg corresponded with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) (see letter *[Letter to Jan Broberg](/wiki/Letter_to_Jan_Broberg)*), suggesting [an interview](/wiki/1961_Jan_Broberg "1961 Jan Broberg"), that was to be published in a Swedish-language edition.
+In [1961](../_/1961.md), Broberg corresponded with [J.R.R. Tolkien](J.R.R._Tolkien.md) (see letter *[Letter to Jan Broberg](../L/Letter_to_Jan_Broberg.md)*), suggesting [an interview](../_/1961_Jan_Broberg.md), that was to be published in a Swedish-language edition.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [1961](/wiki/1961): *Kvällsposten* (Malmö, 27 July)
-    - "'*Sagan om ringen*' ingen allegori: ff-författaren vill ge avkoppling" \[see [1961 Jan Broberg](/wiki/1961_Jan_Broberg)\]
-- [1985](/wiki/1985): *[I fantasins världar](/wiki/I_fantasins_v%C3%A4rldar)*
-    - "Tillsammans med Tolkien" \[see [1961 Jan Broberg](/wiki/1961_Jan_Broberg)\]
+- [1961](../_/1961.md): *Kvällsposten* (Malmö, 27 July)
+    - "'*Sagan om ringen*' ingen allegori: ff-författaren vill ge avkoppling" \[see [1961 Jan Broberg](../_/1961_Jan_Broberg.md)\]
+- [1985](../_/1985.md): *[I fantasins världar](../I/I_fantasins_världar.md)*
+    - "Tillsammans med Tolkien" \[see [1961 Jan Broberg](../_/1961_Jan_Broberg.md)\]
 
 <span></span>
 

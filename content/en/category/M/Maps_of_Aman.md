@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Aman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Aman</span>"
 page_id: 24556
 namespace: 14
 revision_id: 200083

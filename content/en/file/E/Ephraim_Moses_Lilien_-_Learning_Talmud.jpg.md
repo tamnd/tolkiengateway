@@ -1,6 +1,5 @@
 ---
 title: "File:Ephraim Moses Lilien - Learning Talmud.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ephraim Moses Lilien - Learning Talmud.jpg</span>"
 page_id: 70083
 namespace: 6
 revision_id: 416808
@@ -28,7 +27,7 @@ file:
 
 1915 engraving of Polish-Jewish artist <a class="extiw" href="http://en.wikipedia.org/wiki/Ephraim_Moses_Lilien" title="wikipedia:Ephraim Moses Lilien">Ephraim Moses Lilien</a> (d. 1925)
 
-I uploaded this image noticing that the artist (a jew himself) portrays the elderly figures with sterotypical jewish characteristics, which also happen to be "dwarvish" in popular art (noses, beards, caps, diminutive build, aura of wisdom). The picture can accompany the articles or sections that discuss the jews as inspiration for Tolkien's dwarves (according to himself), including (anti-)semitic stereotypes (cf. Brackmann, Rebecca ([2010](/wiki/2010)) "<a class="external text" href="https://dc.swosu.edu/mythlore/vol28/iss3/" rel="noreferrer noopener" target="_blank">&#39;Dwarves are Not Heroes&#39;: Antisemitism and the Dwarves in J.R.R. Tolkien&#39;s Writing</a>") and the jewish imagery that was familiar to Tolkien in the time and culture he grew up.
+I uploaded this image noticing that the artist (a jew himself) portrays the elderly figures with sterotypical jewish characteristics, which also happen to be "dwarvish" in popular art (noses, beards, caps, diminutive build, aura of wisdom). The picture can accompany the articles or sections that discuss the jews as inspiration for Tolkien's dwarves (according to himself), including (anti-)semitic stereotypes (cf. Brackmann, Rebecca ([2010](../../main/_/2010.md)) "<a class="external text" href="https://dc.swosu.edu/mythlore/vol28/iss3/" rel="noreferrer noopener" target="_blank">&#39;Dwarves are Not Heroes&#39;: Antisemitism and the Dwarves in J.R.R. Tolkien&#39;s Writing</a>") and the jewish imagery that was familiar to Tolkien in the time and culture he grew up.
 
 ## Licensing {#Licensing}
 

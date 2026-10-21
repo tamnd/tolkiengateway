@@ -1,6 +1,5 @@
 ---
 title: "Per Arne Engstad"
-display_title: "<span class=\"mw-page-title-main\">Per Arne Engstad</span>"
 page_id: 25462
 namespace: 0
 revision_id: 263120
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Engstad, Per Arne"
 ---
 
-**Per Arne Engstad** is a Norwegian game designer. He translated the Text-Adventure *[Ringen](/wiki/Ringen)* into English and converted it into MUD-software (*[VikingMUD](/wiki/VikingMUD)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and *[Genesis](/wiki/Genesis)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Per Arne Engstad** is a Norwegian game designer. He translated the Text-Adventure *[Ringen](../R/Ringen.md)* into English and converted it into MUD-software (*[VikingMUD](../V/VikingMUD.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and *[Genesis](../G/Genesis.md)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "Letter to \"My Dear People\""
-display_title: "<span class=\"mw-page-title-main\">Letter to &quot;My Dear People&quot;</span>"
 page_id: 38626
 namespace: 0
 revision_id: 387989
@@ -19,15 +18,15 @@ images:
   - "MydearPeople3.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:MydearPeople1.jpg"><img src="/w/images/thumb/b/b5/MydearPeople1.jpg/300px-MydearPeople1.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="/w/images/thumb/b/b5/MydearPeople1.jpg/450px-MydearPeople1.jpg 1.5x, /w/images/thumb/b/b5/MydearPeople1.jpg/600px-MydearPeople1.jpg 2x" data-file-width="634" data-file-height="669"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MydearPeople1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b5/MydearPeople1.jpg/300px-MydearPeople1.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b5/MydearPeople1.jpg/450px-MydearPeople1.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b5/MydearPeople1.jpg/600px-MydearPeople1.jpg 2x" data-file-width="634" data-file-height="669"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:MydearPeople2.jpg"><img src="/w/images/thumb/d/d4/MydearPeople2.jpg/300px-MydearPeople2.jpg" decoding="async" loading="lazy" width="300" height="191" class="mw-file-element" srcset="/w/images/thumb/d/d4/MydearPeople2.jpg/450px-MydearPeople2.jpg 1.5x, /w/images/thumb/d/d4/MydearPeople2.jpg/600px-MydearPeople2.jpg 2x" data-file-width="853" data-file-height="542"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MydearPeople2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/MydearPeople2.jpg/300px-MydearPeople2.jpg" decoding="async" loading="lazy" width="300" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/MydearPeople2.jpg/450px-MydearPeople2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d4/MydearPeople2.jpg/600px-MydearPeople2.jpg 2x" data-file-width="853" data-file-height="542"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:MydearPeople3.jpg"><img src="/w/images/thumb/1/12/MydearPeople3.jpg/300px-MydearPeople3.jpg" decoding="async" loading="lazy" width="300" height="194" class="mw-file-element" srcset="/w/images/thumb/1/12/MydearPeople3.jpg/450px-MydearPeople3.jpg 1.5x, /w/images/thumb/1/12/MydearPeople3.jpg/600px-MydearPeople3.jpg 2x" data-file-width="899" data-file-height="582"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MydearPeople3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/300px-MydearPeople3.jpg" decoding="async" loading="lazy" width="300" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/450px-MydearPeople3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/12/MydearPeople3.jpg/600px-MydearPeople3.jpg 2x" data-file-width="899" data-file-height="582"/></a><figcaption></figcaption></figure>
 
-On [6 May](/wiki/6_May) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to "My Dear People"**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
+On [6 May](../_/6_May.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to "My Dear People"**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
 
-- **Subject:** [Edith](/wiki/Edith_Tolkien "Edith Tolkien")'s health, discussion of a "disastrous holiday", greetings.
+- **Subject:** [Edith](../E/Edith_Tolkien.md)'s health, discussion of a "disastrous holiday", greetings.
 - **Comments:** Tolkien appears to have met the couple on a holiday with his wife in 1963.<sup id="cite_ref-Telegraph_1-1" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
 - **Publication:** None.
 - **Description:** Handwritten letter signed by J.R.R. Tolkien.
@@ -48,8 +47,6 @@ from Ronald and Edith Tolkien
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 Adrian Rathbone, an associate at Richard Winterton's, said the letter had been found unexpectedly by the seller. "It dropped out of a book they had," he said. "It wasn't even a Tolkien book, we've brought in several experts who say it is real. "The former owners brought it in to a valuation day that we held having found it at home. Letters like this do sell, but I have to say I thought the maximum it would fetch was GBP300-400, not GBP1,700. "It's a complete mystery how it turned up, the letter was addressed to a couple Tolkien had met on holiday, but it wasn't the seller's family."
 
 <span></span>
@@ -57,6 +54,6 @@ Adrian Rathbone, an associate at Richard Winterton's, said the letter had been f
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Telegraph-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Telegraph_1-0">1.0</a></sup> <sup><a href="#cite_ref-Telegraph_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/9049899/JRR-Tolkiens-grumpy-holiday-letter-sells-for-1700.html" rel="noreferrer noopener" target="_blank">&#34;JRR Tolkien&#39;s grumpy holiday letter sells for £1,700&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.telegraph.co.uk" rel="noreferrer noopener" target="_blank">The Telegraph</a></span>. <span class="cite-web-accessed">Retrieved 19 March 2012</span></cite></span>
+<li id="cite_note-Telegraph-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Telegraph_1-0">1.0</a></sup> <sup><a href="#cite_ref-Telegraph_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/9049899/JRR-Tolkiens-grumpy-holiday-letter-sells-for-1700.html" rel="noreferrer noopener" target="_blank">&#34;JRR Tolkien&#39;s grumpy holiday letter sells for £1,700&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.telegraph.co.uk" rel="noreferrer noopener" target="_blank">The Telegraph</a></span>. <span class="cite-web-accessed">Retrieved 19 March 2012</span></cite></span>
 </li>
 </ol></div>

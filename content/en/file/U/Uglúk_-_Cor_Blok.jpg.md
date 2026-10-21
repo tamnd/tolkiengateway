@@ -1,6 +1,5 @@
 ---
 title: "File:Uglúk - Cor Blok.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Uglúk - Cor Blok.jpg</span>"
 page_id: 71735
 namespace: 6
 revision_id: 427503

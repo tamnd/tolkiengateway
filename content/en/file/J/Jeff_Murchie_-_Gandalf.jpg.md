@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Murchie - Gandalf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Murchie - Gandalf.jpg</span>"
 page_id: 74226
 namespace: 6
 revision_id: 437811
@@ -33,22 +32,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jeff Murchie - Gandalf.jpg</span></th>
 <td class="description">
-<p>Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
+<p>Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jeff_Murchie" title="Jeff Murchie">Jeff Murchie</a></td>
+<td><a href="../../main/J/Jeff_Murchie.md" title="Jeff Murchie">Jeff Murchie</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://murchiemonster.carbonmade.com/lord-of-the-rings-online-concepts" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

@@ -1,6 +1,5 @@
 ---
 title: "Critique of \"Distressing Tale of Thangobrind the Jeweler\""
-display_title: "<span class=\"mw-page-title-main\">Critique of &quot;Distressing Tale of Thangobrind the Jeweler&quot;</span>"
 page_id: 36180
 namespace: 0
 revision_id: 234853
@@ -15,9 +14,9 @@ images:
   - "Critique.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Critique.png"><img src="/w/images/thumb/0/05/Critique.png/300px-Critique.png" decoding="async" loading="lazy" width="300" height="212" class="mw-file-element" srcset="/w/images/thumb/0/05/Critique.png/450px-Critique.png 1.5x, /w/images/0/05/Critique.png 2x" data-file-width="543" data-file-height="383"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Critique.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Critique.png/300px-Critique.png" decoding="async" loading="lazy" width="300" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Critique.png/450px-Critique.png 1.5x, https://tolkiengateway.net/w/images/0/05/Critique.png 2x" data-file-width="543" data-file-height="383"/></a><figcaption></figcaption></figure>
 
-**Critique of "Distressing Tale of Thangobrind the Jeweler"** refers to a hand-written manuscript by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), in which he offers a criticism of <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>'s story "Distressing Tale of Thangobrind the Jeweler". The manuscript was found in Tolkien's copy of the fantasy anthology *[Swords &amp; Sorcery](/wiki/Swords_%26_Sorcery)* (which included the story), a gift from [L. Sprague de Camp](/wiki/L._Sprague_de_Camp) (who wrote the introduction of the book). According to sales of the item, Tolkien's text is "not \[a\] very complementary critique".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Critique of "Distressing Tale of Thangobrind the Jeweler"** refers to a hand-written manuscript by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), in which he offers a criticism of <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>'s story "Distressing Tale of Thangobrind the Jeweler". The manuscript was found in Tolkien's copy of the fantasy anthology *[Swords &amp; Sorcery](../S/Swords_&_Sorcery.md)* (which included the story), a gift from [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) (who wrote the introduction of the book). According to sales of the item, Tolkien's text is "not \[a\] very complementary critique".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Excerpts {#Excerpts}
 
@@ -68,6 +67,6 @@ That final ghastly paragraph!<sup id="cite_ref-3" class="reference"><a href="#ci
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienlibrary.com/dmiller/000333.htm" rel="noreferrer noopener" target="_blank">A Signed Book...</a> at <a class="external text" href="http://www.tolkienlibrary.com/" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a> (accessed 19 September 2011)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1785&amp;viewmode=flat&amp;order=ASC&amp;type=&amp;mode=0&amp;start=5" rel="noreferrer noopener" target="_blank">&#34;Re: Fantastic (magazine) November 1976&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 17 October 2013</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1785&amp;viewmode=flat&amp;order=ASC&amp;type=&amp;mode=0&amp;start=5" rel="noreferrer noopener" target="_blank">&#34;Re: Fantastic (magazine) November 1976&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 17 October 2013</span></cite></span>
 </li>
 </ol></div>

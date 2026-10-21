@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golden Perch"
 ---
 
-Redirect to [Golden Perch](/wiki/Golden_Perch).
+Redirect to [Golden Perch](../G/Golden_Perch.md).

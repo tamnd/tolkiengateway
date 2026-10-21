@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - The Lonely Mountain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - The Lonely Mountain.jpg</span>"
 page_id: 73352
 namespace: 6
 revision_id: 433807
@@ -41,15 +40,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/79018-1/The-Lonely-Mountain" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/79018-1/The-Lonely-Mountain</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

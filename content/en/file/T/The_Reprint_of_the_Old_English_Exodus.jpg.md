@@ -1,6 +1,5 @@
 ---
 title: "File:The Reprint of the Old English Exodus.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Reprint of the Old English Exodus.jpg</span>"
 page_id: 72265
 namespace: 6
 revision_id: 429548

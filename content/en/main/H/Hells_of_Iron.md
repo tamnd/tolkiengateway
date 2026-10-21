@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angband"
 ---
 
-Redirect to [Angband](/wiki/Angband).
+Redirect to [Angband](../A/Angband.md).

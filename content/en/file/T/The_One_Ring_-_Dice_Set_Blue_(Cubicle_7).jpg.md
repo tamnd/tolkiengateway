@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Dice Set Blue (Cubicle 7).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Dice Set Blue (Cubicle 7).jpg</span>"
 page_id: 75030
 namespace: 6
 revision_id: 441771
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://gamesunl.com/products/one-ring-dice-set-blue" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

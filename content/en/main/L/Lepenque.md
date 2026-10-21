@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lepenquë"
 ---
 
-Redirect to [Lepenquë](/wiki/Lepenquë).
+Redirect to [Lepenquë](Lepenquë.md).

@@ -13,29 +13,29 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>minas</b></i> is a noun meaning "tower" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The noun often appeared in compound names, where it implied a citadel or a city with a watchtower.
+<i><b>minas</b></i> is a noun meaning "tower" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The noun often appeared in compound names, where it implied a citadel or a city with a watchtower.
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Ann%C3%BAminas" title="Annúminas">Annú<b>minas</b></a></i> = "West-tower"
-- <i><a class="mw-redirect" href="/wiki/Minas_Ithil" title="Minas Ithil"><b>Minas</b> Ithil</a></i> aka *[Minas Morgul](/wiki/Minas_Morgul)* = "Tower of the Moon", "Tower of black sorcery"
-- <i><a class="mw-redirect" href="/wiki/Minas_Anor" title="Minas Anor"><b>Minas</b> Anor</a></i> aka *[Minas Tirith](/wiki/Minas_Tirith)* = "Tower of the Sun", "Tower of the Guard"
-- <i><a href="/wiki/Mindolluin" title="Mindolluin"><b>Min</b>dolluin</a></i> = "Towering-head-blue"
+- <i><a href="../A/Annúminas.md" title="Annúminas">Annú<b>minas</b></a></i> = "West-tower"
+- <i><a class="mw-redirect" href="Minas_Ithil.md" title="Minas Ithil"><b>Minas</b> Ithil</a></i> aka *[Minas Morgul](Minas_Morgul.md)* = "Tower of the Moon", "Tower of black sorcery"
+- <i><a class="mw-redirect" href="Minas_Anor.md" title="Minas Anor"><b>Minas</b> Anor</a></i> aka *[Minas Tirith](Minas_Tirith.md)* = "Tower of the Sun", "Tower of the Guard"
+- <i><a href="Mindolluin.md" title="Mindolluin"><b>Min</b>dolluin</a></i> = "Towering-head-blue"
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[mindon](/wiki/Mindon "Mindon")*
-- [Noldorin](/wiki/Noldorin) *[minnas](/wiki/Minnas "Minnas")*
+- [Quenya](../Q/Quenya.md) *[mindon](Mindon.md)*
+- [Noldorin](../N/Noldorin.md) *[minnas](Minnas.md)*
 
 ## See also {#See_also}
 
-- *[barad](/wiki/Barad "Barad")*
+- *[barad](../B/Barad.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, pp. 41, 232</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, pp. 41, 232</span>
 </li>
 </ol></div>

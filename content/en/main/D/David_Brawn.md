@@ -1,6 +1,5 @@
 ---
 title: "David Brawn"
-display_title: "<span class=\"mw-page-title-main\">David Brawn</span>"
 page_id: 14733
 namespace: 0
 revision_id: 115587
@@ -17,4 +16,4 @@ sort_keys:
   "People by name": "Brawn, David"
 ---
 
-**David Brawn** is the Publishing Director at [HarperCollins](/wiki/HarperCollins) and handles [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) division. Anything relating to Tolkien which is to be published has to pass his eyes.
+**David Brawn** is the Publishing Director at [HarperCollins](../H/HarperCollins.md) and handles [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) division. Anything relating to Tolkien which is to be published has to pass his eyes.

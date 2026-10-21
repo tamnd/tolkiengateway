@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers of Ithilien"
 ---
 
-Redirect to [Rangers of Ithilien](/wiki/Rangers_of_Ithilien).
+Redirect to [Rangers of Ithilien](Rangers_of_Ithilien.md).

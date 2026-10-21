@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by April Lee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by April Lee</span>"
 page_id: 30806
 namespace: 14
 revision_id: 431210
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Lee, April"
 ---
 
-This category lists all **images by [April Lee](/wiki/April_Lee)**.
+This category lists all **images by [April Lee](../../main/A/April_Lee.md)**.

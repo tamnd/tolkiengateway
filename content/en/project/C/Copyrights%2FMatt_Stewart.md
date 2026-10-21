@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Matt Stewart"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Matt Stewart</span>"
 page_id: 37812
 namespace: 4
 revision_id: 438332
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Stewart, Matt"
 ---
 
-- [Matt Stewart](/wiki/Matt_Stewart) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Matt_Stewart "Category:Images by Matt Stewart") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [4 January](/wiki/4_January) [2012](/wiki/2012)
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- [Matt Stewart](../../main/M/Matt_Stewart.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Matt_Stewart.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [4 January](../../main/_/4_January.md) [2012](../../main/_/2012.md)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

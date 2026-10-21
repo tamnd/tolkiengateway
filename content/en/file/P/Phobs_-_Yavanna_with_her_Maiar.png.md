@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Yavanna with her Maiar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Yavanna with her Maiar.png</span>"
 page_id: 52264
 namespace: 6
 revision_id: 284891
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-In the artist's view, [Yavanna](/wiki/Yavanna) is depicted like a classical, legendary Celtic queen and her [Maiar](/wiki/Maiar) are small and gentle like Elven children. Her Maiar are not aggressive-type warriors like [Eönwë](/wiki/E%C3%B6nw%C3%AB) or [Sauron](/wiki/Sauron).
+In the artist's view, [Yavanna](../../main/Y/Yavanna.md) is depicted like a classical, legendary Celtic queen and her [Maiar](../../main/M/Maiar.md) are small and gentle like Elven children. Her Maiar are not aggressive-type warriors like [Eönwë](../../main/E/Eönwë.md) or [Sauron](../../main/S/Sauron.md).
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ In the artist's view, [Yavanna](/wiki/Yavanna) is depicted like a classical, leg
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf and the Dragon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf and the Dragon.jpg</span>"
 page_id: 45765
 namespace: 6
 revision_id: 241615

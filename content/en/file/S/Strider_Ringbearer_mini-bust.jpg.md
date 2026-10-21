@@ -1,6 +1,5 @@
 ---
 title: "File:Strider Ringbearer mini-bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Strider Ringbearer mini-bust.jpg</span>"
 page_id: 15010
 namespace: 6
 revision_id: 271047

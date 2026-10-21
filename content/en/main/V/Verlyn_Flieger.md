@@ -1,6 +1,5 @@
 ---
 title: "Verlyn Flieger"
-display_title: "<span class=\"mw-page-title-main\">Verlyn Flieger</span>"
 page_id: 12737
 namespace: 0
 revision_id: 400400
@@ -43,55 +42,53 @@ infobox:
     value: "Author, Professor"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Verlyn_Flieger.jpg"><img src="/w/images/thumb/9/91/Verlyn_Flieger.jpg/320px-Verlyn_Flieger.jpg" decoding="async" loading="lazy" width="320" height="314" class="mw-file-element" srcset="/w/images/thumb/9/91/Verlyn_Flieger.jpg/480px-Verlyn_Flieger.jpg 1.5x, /w/images/thumb/9/91/Verlyn_Flieger.jpg/640px-Verlyn_Flieger.jpg 2x" data-file-width="1696" data-file-height="1663"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Verlyn Flieger</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/24_February" title="24 February">24 February</a> <a href="/wiki/1933" title="1933">1933</a><sup id="cite_ref-LT_1-0" class="reference"><a href="#cite_note-LT-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. from <a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_University_of_America" title="wikipedia:The Catholic University of America">The Catholic University of America</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, Professor</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Verlyn_Flieger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/320px-Verlyn_Flieger.jpg" decoding="async" loading="lazy" width="320" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/480px-Verlyn_Flieger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/Verlyn_Flieger.jpg/640px-Verlyn_Flieger.jpg 2x" data-file-width="1696" data-file-height="1663"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Verlyn Flieger</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/24_February.md" title="24 February">24 February</a> <a href="../_/1933.md" title="1933">1933</a><sup id="cite_ref-LT_1-0" class="reference"><a href="#cite_note-LT-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. from <a class="extiw" href="http://en.wikipedia.org/wiki/The_Catholic_University_of_America" title="wikipedia:The Catholic University of America">The Catholic University of America</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, Professor</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+**Verlyn Flieger** ([24 February](../_/24_February.md) [1933](../_/1933.md)) is the Professor in the Department of English at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">the University of Maryland</a>. She has written several [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related books. She is also a multiple [Mythopoeic Award](../M/Mythopoeic_Society.md) winner.
 
-**Verlyn Flieger** ([24 February](/wiki/24_February) [1933](/wiki/1933)) is the Professor in the Department of English at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Maryland" title="wikipedia:University of Maryland">the University of Maryland</a>. She has written several [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related books. She is also a multiple [Mythopoeic Award](/wiki/Mythopoeic_Society "Mythopoeic Society") winner.
-
-With [Michael D.C. Drout](/wiki/Michael_D.C._Drout), Flieger is co-editor of *[Tolkien Studies: An Annual Scholarly Review](</wiki/Tolkien_Studies_(journal)> "Tolkien Studies (journal)")*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> She is also a member of the Board of Academic Advisors for [Walking Tree Publishers](/wiki/Walking_Tree_Publishers).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+With [Michael D.C. Drout](../M/Michael_D.C._Drout.md), Flieger is co-editor of *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> She is also a member of the Board of Academic Advisors for [Walking Tree Publishers](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1983](/wiki/1983): *[Splintered Light](/wiki/Splintered_Light)*
-- [1997](/wiki/1997): *[A Question of Time](/wiki/A_Question_of_Time)*
-- [2000](/wiki/2000): *[Tolkien's Legendarium: Essays on The History of Middle-earth](/wiki/Tolkien%27s_Legendarium "Tolkien's Legendarium")* (editor, with [Carl F. Hostetter](/wiki/Carl_F._Hostetter))
-- [2002](/wiki/2002): *Splintered Light* (expanded edition)
-- [2005](/wiki/2005): *[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)* (editor)
-- [2005](/wiki/2005): *[Interrupted Music: The Making of Tolkien's Mythology](/wiki/Interrupted_Music:_The_Making_of_Tolkien%27s_Mythology)*
-- [2007](/wiki/2007): *[Tolkien On Fairy-stories](/wiki/Tolkien_On_Fairy-stories)* (editor, with [Douglas A. Anderson](/wiki/Douglas_A._Anderson))
-- [2011](/wiki/2011): *[Green Suns and Faërie: Essays on J.R.R. Tolkien](/wiki/Green_Suns_and_Fa%C3%ABrie "Green Suns and Faërie")*
-- [2015](/wiki/2015): *[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)* (editor, pocket edition)
-- [2015](/wiki/2015): *[The Story of Kullervo](/wiki/The_Story_of_Kullervo)* (editor)
-- [2016](/wiki/2016): *[The Lay of Aotrou and Itroun](/wiki/The_Lay_of_Aotrou_and_Itroun)* (editor)
-- [2017](/wiki/2017): *["There Would Always Be a Fairy Tale": More Essays on Tolkien](/wiki/There_Would_Always_Be_a_Fairy_Tale "There Would Always Be a Fairy Tale")*
+- [1983](../_/1983.md): *[Splintered Light](../S/Splintered_Light.md)*
+- [1997](../_/1997.md): *[A Question of Time](../A/A_Question_of_Time.md)*
+- [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)* (editor, with [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+- [2002](../_/2002.md): *Splintered Light* (expanded edition)
+- [2005](../_/2005.md): *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (editor)
+- [2005](../_/2005.md): *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)*
+- [2007](../_/2007.md): *[Tolkien On Fairy-stories](../T/Tolkien_On_Fairy-stories~23734.md)* (editor, with [Douglas A. Anderson](../D/Douglas_A._Anderson.md))
+- [2011](../_/2011.md): *[Green Suns and Faërie: Essays on J.R.R. Tolkien](../G/Green_Suns_and_Faërie.md)*
+- [2015](../_/2015.md): *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (editor, pocket edition)
+- [2015](../_/2015.md): *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)* (editor)
+- [2016](../_/2016.md): *[The Lay of Aotrou and Itroun](../T/The_Lay_of_Aotrou_and_Itroun.md)* (editor)
+- [2017](../_/2017.md): *["There Would Always Be a Fairy Tale": More Essays on Tolkien](../T/There_Would_Always_Be_a_Fairy_Tale.md)*
 
 ### Articles {#Articles}
 
-- [1986](/wiki/1986): <i><a class="new" href="/w/index.php?title=Diakonia:_Studies_in_Honor_of_Robert_T._Meyer&amp;action=edit&amp;redlink=1" title="Diakonia: Studies in Honor of Robert T. Meyer (page does not exist)">Diakonia: Studies in Honor of Robert T. Meyer</a></i>
+- [1986](../_/1986.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Diakonia:_Studies_in_Honor_of_Robert_T._Meyer&amp;action=edit&amp;redlink=1" title="Diakonia: Studies in Honor of Robert T. Meyer (page does not exist)">Diakonia: Studies in Honor of Robert T. Meyer</a></i>
     - "Naming the Unnameable: The Neoplatonic 'One' in Tolkien's Silmarillion"
-- [1987](/wiki/1987): *[Selections from the Marquette J.R.R. Tolkien Collection](/wiki/Selections_from_the_Marquette_J.R.R._Tolkien_Collection)*
+- [1987](../_/1987.md): *[Selections from the Marquette J.R.R. Tolkien Collection](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
     - "A Tale that Grew in the Telling"
-- [1993](/wiki/1993): *[Scholarship and Fantasy](/wiki/Scholarship_and_Fantasy)*
+- [1993](../_/1993.md): *[Scholarship and Fantasy](../S/Scholarship_and_Fantasy.md)*
     - "The Green Man, the Green Knight, and Treebeard: Scholarship and Invention in Tolkien's Fiction"
-- [1994](/wiki/1994): *[Mythos Journal](/wiki/Mythos_Journal)*
+- [1994](../_/1994.md): *[Mythos Journal](../M/Mythos_Journal.md)*
     - "Pitfalls in Faëry"
-- [1995](/wiki/1995): *[Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference)*
+- [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Tolkien's Experiment with Time: The Lost Road, The Notion Club Papers and J.W.Dunne"
-- [1998](/wiki/1998): *[Between Faith and Fiction: Tolkien and the Powers of His World](/wiki/Between_Faith_and_Fiction "Between Faith and Fiction")*
+- [1998](../_/1998.md): *[Between Faith and Fiction: Tolkien and the Powers of His World](../B/Between_Faith_and_Fiction.md)*
     - "Whose Myth is it?"
-- [2000](/wiki/2000): *[J.R.R. Tolkien and His Literary Resonances](/wiki/J.R.R._Tolkien_and_His_Literary_Resonances)*
+- [2000](../_/2000.md): *[J.R.R. Tolkien and His Literary Resonances](../J/J.R.R._Tolkien_and_His_Literary_Resonances.md)*
     - "Taking the Part of Trees: Eco-Conflict in Middle-earth"
-- [2000](/wiki/2000): *[Tolkien's Legendarium](/wiki/Tolkien%27s_Legendarium)* (editor, with [Carl F. Hostetter](/wiki/Carl_F._Hostetter))
+- [2000](../_/2000.md): *[Tolkien's Legendarium](../T/Tolkien's_Legendarium.md)* (editor, with [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
     - "The Footsteps of Ælfwine"
-- [2004](/wiki/2004): *[Tolkien Studies: Volume 1](/wiki/Tolkien_Studies:_Volume_1)* (editor)
+- [2004](../_/2004.md): *[Tolkien Studies: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)* (editor)
     - "Editors' Introduction"
     - "Do the Atlantis story and abandon Eriol-Saga"
-- [2005](/wiki/2005): *[Tolkien Studies: Volume 2](/wiki/Tolkien_Studies:_Volume_2)* (editor)
+- [2005](../_/2005.md): *[Tolkien Studies: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)* (editor)
     - "Editors' Introduction"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entries
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entries
     - "Arthurian Romance"
     - "Barfield, Owen"
     - "Faërie"
@@ -105,70 +102,70 @@ With [Michael D.C. Drout](/wiki/Michael_D.C._Drout), Flieger is co-editor of *[T
     - "Smith of Wooton Major"
     - "Time"
     - "Time Travel"
-- [2006](/wiki/2006): *[Tolkien Studies: Volume 3](/wiki/Tolkien_Studies:_Volume_3)* (editor)
+- [2006](../_/2006.md): *[Tolkien Studies: Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* (editor)
     - "Editors' Introduction"
     - "Karen Wynn Fonstad"
-- [2007](/wiki/2007): *[Tolkien Studies: Volume 4](/wiki/Tolkien_Studies:_Volume_4)* (editor)
+- [2007](../_/2007.md): *[Tolkien Studies: Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)* (editor)
     - "The Curious Incident of the Dream at the Barrow: Memory and Reincarnation in Middle-earth"
-- [2007](/wiki/2007): *[Myth and Magic: Art according to the Inklings](/wiki/Myth_and_Magic:_Art_according_to_the_Inklings)*
+- [2007](../_/2007.md): *[Myth and Magic: Art according to the Inklings](../M/Myth_and_Magic%253A_Art_according_to_the_Inklings.md)*
     - "When is a Fairy Story a Faërie Story? Smith of Wootton Major"
-- [2008](/wiki/2008): *[Tolkien Studies: Volume 5](/wiki/Tolkien_Studies:_Volume_5)* (editor)
+- [2008](../_/2008.md): *[Tolkien Studies: Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)* (editor)
     - "Editors' Introduction"
-- [2008](/wiki/2008): *[Tolkien's The Lord of the Rings – Sources of Inspiration](/wiki/Tolkien%27s_The_Lord_of_the_Rings_%E2%80%93_Sources_of_Inspiration)*
+- [2008](../_/2008.md): *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*
     - "Gilson, Smith and Baggins"
-- [2011](/wiki/2011): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](/wiki/Picturing_Tolkien "Picturing Tolkien")
+- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](../P/Picturing_Tolkien.md)
     - "Sometimes One Word Is Worth a Thousand Pictures"
-- [2012](/wiki/2012): *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](/wiki/The_Broken_Scythe "The Broken Scythe")*
+- [2012](../_/2012.md): *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](../T/The_Broken_Scythe.md)*
     - Preface
-- [2013](/wiki/2013): *[The Body in Tolkien's Legendarium](/wiki/The_Body_in_Tolkien%27s_Legendarium)*
+- [2013](../_/2013.md): *[The Body in Tolkien's Legendarium](../T/The_Body_in_Tolkien's_Legendarium.md)*
     - "The Body in Question: The unhealed wounds of Frodo Baggins"
-- [2013](/wiki/2013): *[J.R.R. Tolkien: the Forest and the City](/wiki/J.R.R._Tolkien:_the_Forest_and_the_City)*
+- [2013](../_/2013.md): *[J.R.R. Tolkien: the Forest and the City](../J/J.R.R._Tolkien%253A_the_Forest_and_the_City.md)*
     - "The Forests and the Trees: Sal and Ian in Faërie"
-- [2013](/wiki/2013): [*Mythlore* 123](/wiki/Mythlore_123 "Mythlore 123")
+- [2013](../_/2013.md): [*Mythlore* 123](../M/Mythlore_123.md)
     - "How Trees Behave—Or Do They?"
-- [2014](/wiki/2014): [The Hobbit *and Tolkien's Mythology*](/wiki/The_Hobbit_and_Tolkien%27s_Mythology "The Hobbit and Tolkien's Mythology")
+- [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md)
     - "Tolkien’s French Connection"
-- [2014](/wiki/2014): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](/wiki/Tolkien_in_the_New_Century "Tolkien in the New Century")*
+- [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
     - "The Jewels, the Stone, the Ring, and the Making of Meaning"
-- [2014](/wiki/2014): *[Tolkien and Philosophy](/wiki/Tolkien_and_Philosophy)*
+- [2014](../_/2014.md): *[Tolkien and Philosophy](../T/Tolkien_and_Philosophy.md)*
     - "Tolkien and the Philosophy of Language"
-- [2018](/wiki/2018): *[Pagan Saints in Middle-earth](/wiki/Pagan_Saints_in_Middle-earth)*
+- [2018](../_/2018.md): *[Pagan Saints in Middle-earth](../P/Pagan_Saints_in_Middle-earth.md)*
     - "Foreword"
-- [2018](/wiki/2018): *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)*
+- [2018](../_/2018.md): *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*
     - "Faërie: Tolkien's Perilous Land"
-- [2020](/wiki/2020): [*Mallorn* 61](/wiki/Mallorn_61 "Mallorn 61")
+- [2020](../_/2020.md): [*Mallorn* 61](../M/Mallorn_61.md)
     - "Defying and Defining Darkness"
-- [2022](/wiki/2022): *[The Great Tales Never End](/wiki/The_Great_Tales_Never_End)*
+- [2022](../_/2022.md): *[The Great Tales Never End](../T/The_Great_Tales_Never_End.md)*
     - "Listening to the Music"
 
 ### Journals (editor) {#Journals_(editor)}
 
-- [2004](/wiki/2004): *[Tolkien Studies: An Annual Scholarly Review, Volume 1](/wiki/Tolkien_Studies:_Volume_1 "Tolkien Studies: Volume 1")* (co-editor)
-- [2005](/wiki/2005): *[Tolkien Studies: An Annual Scholarly Review, Volume 2](/wiki/Tolkien_Studies:_Volume_2 "Tolkien Studies: Volume 2")* (co-editor)
-- [2006](/wiki/2006): *[Tolkien Studies: An Annual Scholarly Review, Volume 3](/wiki/Tolkien_Studies:_Volume_3 "Tolkien Studies: Volume 3")* (co-editor)
-- [2007](/wiki/2007): *[Tolkien Studies: An Annual Scholarly Review, Volume 4](/wiki/Tolkien_Studies:_Volume_4 "Tolkien Studies: Volume 4")* (co-editor)
-- [2008](/wiki/2008): *[Tolkien Studies: An Annual Scholarly Review, Volume 5](/wiki/Tolkien_Studies:_Volume_5 "Tolkien Studies: Volume 5")* (co-editor)
-- [2009](/wiki/2009): *[Tolkien Studies: An Annual Scholarly Review, Volume 6](/wiki/Tolkien_Studies:_Volume_6 "Tolkien Studies: Volume 6")* (co-editor)
-- [2010](/wiki/2010): *[Tolkien Studies: An Annual Scholarly Review, Volume 7](/wiki/Tolkien_Studies:_Volume_7 "Tolkien Studies: Volume 7")* (co-editor)
-- [2011](/wiki/2011): *[Tolkien Studies: An Annual Scholarly Review, Volume 8](/wiki/Tolkien_Studies:_Volume_8 "Tolkien Studies: Volume 8")* (co-editor)
-- [2012](/wiki/2012): *[Tolkien Studies: An Annual Scholarly Review, Volume 9](/wiki/Tolkien_Studies:_Volume_9 "Tolkien Studies: Volume 9")* (co-editor)
-- [2013](/wiki/2013): *[Tolkien Studies: An Annual Scholarly Review, Volume 10](/wiki/Tolkien_Studies:_Volume_10 "Tolkien Studies: Volume 10")* (co-editor)
-- [2014](/wiki/2014): *[Tolkien Studies: An Annual Scholarly Review, Volume 11](/wiki/Tolkien_Studies:_Volume_11 "Tolkien Studies: Volume 11")* (co-editor)
-- [2015](/wiki/2015): *[Tolkien Studies: An Annual Scholarly Review, Volume 12](/wiki/Tolkien_Studies:_Volume_12 "Tolkien Studies: Volume 12")* (co-editor)
-- [2016](/wiki/2016): *[Tolkien Studies: An Annual Scholarly Review, Volume 13](/wiki/Tolkien_Studies:_Volume_13 "Tolkien Studies: Volume 13")* (co-editor)
-- [2017](/wiki/2017): *[Tolkien Studies: An Annual Scholarly Review, Volume 14](/wiki/Tolkien_Studies:_Volume_14 "Tolkien Studies: Volume 14")* (co-editor)
-- [2018](/wiki/2018): *[Tolkien Studies: An Annual Scholarly Review, Volume 15](/wiki/Tolkien_Studies:_Volume_15 "Tolkien Studies: Volume 15")* (co-editor)
-- [2019](/wiki/2019): *[Tolkien Studies: An Annual Scholarly Review, Volume 16](/wiki/Tolkien_Studies:_Volume_16 "Tolkien Studies: Volume 16")* (co-editor)
-- [2020](/wiki/2020): *[Tolkien Studies: An Annual Scholarly Review, Volume 17](/wiki/Tolkien_Studies:_Volume_17 "Tolkien Studies: Volume 17")* (co-editor)
-- [2021](/wiki/2021): *[Tolkien Studies: An Annual Scholarly Review, Volume 18](/wiki/Tolkien_Studies:_Volume_18 "Tolkien Studies: Volume 18")* (co-editor)
-- [2022](/wiki/2022): *[Tolkien Studies: An Annual Scholarly Review, Volume 19 Supplement](/wiki/Tolkien_Studies:_Volume_19_Supplement "Tolkien Studies: Volume 19 Supplement")* (co-editor)
+- [2004](../_/2004.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)* (co-editor)
+- [2005](../_/2005.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)* (co-editor)
+- [2006](../_/2006.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* (co-editor)
+- [2007](../_/2007.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)* (co-editor)
+- [2008](../_/2008.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)* (co-editor)
+- [2009](../_/2009.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 6](../T/Tolkien_Studies%253A_Volume_6.md)* (co-editor)
+- [2010](../_/2010.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 7](../T/Tolkien_Studies%253A_Volume_7.md)* (co-editor)
+- [2011](../_/2011.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 8](../T/Tolkien_Studies%253A_Volume_8.md)* (co-editor)
+- [2012](../_/2012.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 9](../T/Tolkien_Studies%253A_Volume_9.md)* (co-editor)
+- [2013](../_/2013.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 10](../T/Tolkien_Studies%253A_Volume_10.md)* (co-editor)
+- [2014](../_/2014.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 11](../T/Tolkien_Studies%253A_Volume_11.md)* (co-editor)
+- [2015](../_/2015.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 12](../T/Tolkien_Studies%253A_Volume_12.md)* (co-editor)
+- [2016](../_/2016.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 13](../T/Tolkien_Studies%253A_Volume_13.md)* (co-editor)
+- [2017](../_/2017.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 14](../T/Tolkien_Studies%253A_Volume_14.md)* (co-editor)
+- [2018](../_/2018.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 15](../T/Tolkien_Studies%253A_Volume_15.md)* (co-editor)
+- [2019](../_/2019.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 16](../T/Tolkien_Studies%253A_Volume_16.md)* (co-editor)
+- [2020](../_/2020.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 17](../T/Tolkien_Studies%253A_Volume_17.md)* (co-editor)
+- [2021](../_/2021.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 18](../T/Tolkien_Studies%253A_Volume_18.md)* (co-editor)
+- [2022](../_/2022.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 19 Supplement](../T/Tolkien_Studies%253A_Volume_19_Supplement.md)* (co-editor)
 
 ## Awards {#Awards}
 
-- [1988](/wiki/1988): **[Mythopoeic Scholarship Award for Inkling Studies](/wiki/Mythopoeic_Society "Mythopoeic Society")**, *[A Question of Time: J.R.R. Tolkien’s Road to Faërie](/wiki/A_Question_of_Time "A Question of Time")*
-- [2002](/wiki/2002): **[Mythopoeic Scholarship Award for Inkling Studies](/wiki/Mythopoeic_Society "Mythopoeic Society")**, *[Tolkien's Legendarium: Essays on the History of Middle-earth](/wiki/Tolkien%27s_Legendarium "Tolkien's Legendarium")*
-- [2013](/wiki/2013): **[Mythopoeic Scholarship Award for Inkling Studies](/wiki/Mythopoeic_Society "Mythopoeic Society")**, *[Green Suns and Faërie: Essays on J.R.R. Tolkien](/wiki/Green_Suns_and_Fa%C3%ABrie "Green Suns and Faërie")*
-- [2021](/wiki/2021): **[Tolkien Society Award](/wiki/The_Tolkien_Society_Awards "The Tolkien Society Awards"): Best Article**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Defying and Defining Darkness</a></i> in [Mallorn 61](/wiki/Mallorn_61)
+- [1988](../_/1988.md): **[Mythopoeic Scholarship Award for Inkling Studies](../M/Mythopoeic_Society.md)**, *[A Question of Time: J.R.R. Tolkien’s Road to Faërie](../A/A_Question_of_Time.md)*
+- [2002](../_/2002.md): **[Mythopoeic Scholarship Award for Inkling Studies](../M/Mythopoeic_Society.md)**, *[Tolkien's Legendarium: Essays on the History of Middle-earth](../T/Tolkien's_Legendarium.md)*
+- [2013](../_/2013.md): **[Mythopoeic Scholarship Award for Inkling Studies](../M/Mythopoeic_Society.md)**, *[Green Suns and Faërie: Essays on J.R.R. Tolkien](../G/Green_Suns_and_Faërie.md)*
+- [2021](../_/2021.md): **[Tolkien Society Award](../T/The_Tolkien_Society_Awards.md): Best Article**, <i><a class="external text" href="https://journals.tolkiensociety.org/mallorn/issue/view/62/63" rel="noreferrer noopener" target="_blank">Defying and Defining Darkness</a></i> in [Mallorn 61](../M/Mallorn_61.md)
 
 ## External links {#External_links}
 
@@ -178,22 +175,22 @@ With [Michael D.C. Drout](/wiki/Michael_D.C._Drout), Flieger is co-editor of *[T
 ### Talks {#Talks}
 
 - <a class="external text" href="http://www.youtube.com/watch?v=q87vHzNFadU" rel="noreferrer noopener" target="_blank"><i>Imaginary Creatures - Real Experience</i></a>, at TEDxUMD
-- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Waiting for Earendel</i></a>, at [The Tolkien Society](/wiki/The_Tolkien_Society)
+- <a class="external text" href="https://www.youtube.com/watch?v=131d2hdD-7s&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank"><i>Waiting for Earendel</i></a>, at [The Tolkien Society](../T/The_Tolkien_Society.md)
 
 ### Interviews {#Interviews}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Episode 31</a> of [The Tolkien Experience Podcast](/wiki/The_Tolkien_Experience "The Tolkien Experience")
-- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Between Light and Dark: An Interview with Verlyn Flieger</a>, episode 90 of [The Prancing Pony Podcast](/wiki/The_Prancing_Pony_Podcast)
+- <a class="external text" href="https://www.youtube.com/watch?v=LXFsvhYbIOY&amp;list=PL2ebpgGctifGbItNCuGOehOiSHXS-89-V&amp;index=23&amp;ab_channel=TolkienExperience" rel="noreferrer noopener" target="_blank">Episode 31</a> of [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)
+- <a class="external text" href="https://theprancingponypodcast.com/2018/07/08/090-between-light-and-dark-an-interview-with-verlyn-flieger/" rel="noreferrer noopener" target="_blank">Between Light and Dark: An Interview with Verlyn Flieger</a>, episode 90 of [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LT-1"><span class="mw-cite-backlink"><a href="#cite_ref-LT_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.librarything.com/author/fliegerverlyn" rel="noreferrer noopener" target="_blank">&#34;Verlyn Flieger&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.librarything.com" rel="noreferrer noopener" target="_blank">LibraryThing</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
+<li id="cite_note-LT-1"><span class="mw-cite-backlink"><a href="#cite_ref-LT_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.librarything.com/author/fliegerverlyn" rel="noreferrer noopener" target="_blank">&#34;Verlyn Flieger&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.librarything.com" rel="noreferrer noopener" target="_blank">LibraryThing</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://wvupressonline.com/journals/tolkien_studies" rel="noreferrer noopener" target="_blank">&#34;Tolkien Studies: An Annual Scholarly Review&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://wvupressonline.com/" rel="noreferrer noopener" target="_blank">West Virginia University Press</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://wvupressonline.com/journals/tolkien_studies" rel="noreferrer noopener" target="_blank">&#34;Tolkien Studies: An Annual Scholarly Review&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://wvupressonline.com/" rel="noreferrer noopener" target="_blank">West Virginia University Press</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.walking-tree.org/board_of_advisors.php" rel="noreferrer noopener" target="_blank">&#34;Walking Tree Publishers Board of Advisors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.walking-tree.org/" rel="noreferrer noopener" target="_blank">Walking Tree Publihers</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.walking-tree.org/board_of_advisors.php" rel="noreferrer noopener" target="_blank">&#34;Walking Tree Publishers Board of Advisors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.walking-tree.org/" rel="noreferrer noopener" target="_blank">Walking Tree Publihers</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
 </li>
 </ol></div>

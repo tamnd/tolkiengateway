@@ -11,4 +11,4 @@ redirect_target: "The Tolkien Trilogy"
 redirect_fragment: "The Tolkien Software Adventure Series"
 ---
 
-Redirect to [The Tolkien Trilogy](/wiki/The_Tolkien_Trilogy#The_Tolkien_Software_Adventure_Series).
+Redirect to [The Tolkien Trilogy](The_Tolkien_Trilogy.md#The_Tolkien_Software_Adventure_Series).

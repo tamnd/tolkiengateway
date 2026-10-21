@@ -1,6 +1,5 @@
 ---
 title: "File:Council of Lórien advertisement (InQuest 26).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Council of Lórien advertisement (InQuest 26).jpg</span>"
 page_id: 73125
 namespace: 6
 revision_id: 432906
@@ -30,7 +29,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Council of Lórien advertisement (InQuest 26).jpg</span></th>
 <td class="description">
-<p>magazine advertisement for <a class="new" href="/w/index.php?title=Council_of_L%C3%B3rien&amp;action=edit&amp;redlink=1" title="Council of Lórien (page does not exist)">Council of Lórien</a>
+<p>magazine advertisement for <a class="new" href="https://tolkiengateway.net/w/index.php?title=Council_of_L%C3%B3rien&amp;action=edit&amp;redlink=1" title="Council of Lórien (page does not exist)">Council of Lórien</a>
 </p>
 </td>
 </tr>
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Inquest #26</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -18,19 +18,19 @@ langlinks:
     url: "https://kontu.wiki/Aduial"
 ---
 
-**Aduial** is [Sindarin](/wiki/Sindarin) for *evendim* (dusk).
+**Aduial** is [Sindarin](../S/Sindarin.md) for *evendim* (dusk).
 
-The name means "second [uial](/wiki/Uial "Uial")" = evening twilight, in contrast to [minuial](/wiki/Minuial "Minuial") which means "first uial", referring to the morning twilight.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The name means "second [uial](../U/Uial.md)" = evening twilight, in contrast to [minuial](../M/Minuial.md) which means "first uial", referring to the morning twilight.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [undómë](/wiki/Und%C3%B3m%C3%AB "Undómë") ([Quenya](/wiki/Quenya) term)
+- [undómë](../U/Undómë.md) ([Quenya](../Q/Quenya.md) term)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>

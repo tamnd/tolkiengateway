@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Years of the Sun"
 ---
 
-Redirect to [Years of the Sun](/wiki/Years_of_the_Sun).
+Redirect to [Years of the Sun](Years_of_the_Sun.md).

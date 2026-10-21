@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit: An Unexpected Journey soundtracks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit: An Unexpected Journey soundtracks</span>"
 page_id: 41976
 namespace: 14
 revision_id: 220868

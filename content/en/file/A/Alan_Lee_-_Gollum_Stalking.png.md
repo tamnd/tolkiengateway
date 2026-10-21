@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - Gollum Stalking.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - Gollum Stalking.png</span>"
 page_id: 73594
 namespace: 6
 revision_id: 434953
@@ -31,32 +30,29 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Alan Lee - Gollum Stalking.png</span></th>
 <td class="description">
-<p><a href="/wiki/Gollum" title="Gollum">Gollum</a> stalking <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> and <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Samwise Gamgee</a>. Published in <i><a href="/wiki/The_Lord_of_the_Rings_Sketchbook" title="The Lord of the Rings Sketchbook">The Lord of the Rings Sketchbook</a></i>
+<p><a href="../../main/G/Gollum.md" title="Gollum">Gollum</a> stalking <a href="../../main/F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> and <a href="../../main/S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>. Published in <i><a href="../../main/T/The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">The Lord of the Rings Sketchbook</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a class="mw-redirect" href="/wiki/October_19" title="October 19">October 19</a>, <a href="/wiki/2005" title="2005">2005</a></td>
+<td><a class="mw-redirect" href="../../main/O/October_19.md" title="October 19">October 19</a>, <a href="../../main/_/2005.md" title="2005">2005</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></td>
+<td><a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://twitter.com/AlanLee11225760/status/1375041319903584259/photo/3" rel="noreferrer noopener" target="_blank">https://twitter.com/AlanLee11225760/status/1375041319903584259/photo/3</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

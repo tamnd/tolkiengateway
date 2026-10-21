@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Thandronen - Veteran Protector.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Thandronen - Veteran Protector.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Thandronen_-_Veteran_Protector.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Thandronen - Veteran Protector.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Thandronen_-_Veteran_Protector.jpg.md).

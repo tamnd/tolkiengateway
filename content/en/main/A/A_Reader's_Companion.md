@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: A Reader's Companion"
 ---
 
-Redirect to [The Lord of the Rings: A Reader's Companion](/wiki/The_Lord_of_the_Rings:_A_Reader's_Companion).
+Redirect to [The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md).

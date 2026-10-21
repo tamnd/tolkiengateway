@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Black Hand of Sauron alongside an Olog-hai.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Black Hand of Sauron alongside an Olog-hai.jpg</span>"
 page_id: 64601
 namespace: 6
 revision_id: 371344

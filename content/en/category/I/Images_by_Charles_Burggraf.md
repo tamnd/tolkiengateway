@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Charles Burggraf"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Charles Burggraf</span>"
 page_id: 13612
 namespace: 14
 revision_id: 181956

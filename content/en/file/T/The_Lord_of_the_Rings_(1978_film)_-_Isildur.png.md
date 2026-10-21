@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Isildur.png</span>"
 page_id: 71379
 namespace: 6
 revision_id: 425881
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")
+[Isildur](../../main/I/Isildur.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)
 
 ## Licensing {#Licensing}
 

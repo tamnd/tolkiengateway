@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Part of the Shire"
 ---
 
-Redirect to [A Part of the Shire](/wiki/A_Part_of_the_Shire).
+Redirect to [A Part of the Shire](../A/A_Part_of_the_Shire.md).

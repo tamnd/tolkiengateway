@@ -1,6 +1,5 @@
 ---
 title: "The Nine"
-display_title: "<span class=\"mw-page-title-main\">The Nine</span>"
 page_id: 4106
 namespace: 0
 revision_id: 377233
@@ -17,13 +16,13 @@ sort_keys:
   "Nazgûl": "Nine, The"
 ---
 
-**The Nine** was a title given to the nine [Nazgûl](/wiki/Nazg%C3%BBl),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and also to the [Nine Rings](/wiki/Nine_Rings) through which [Sauron](/wiki/Sauron) controlled them.
+**The Nine** was a title given to the nine [Nazgûl](../N/Nazgûl.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and also to the [Nine Rings](../N/Nine_Rings.md) through which [Sauron](../S/Sauron.md) controlled them.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Council_of_Elrond" title="The Council of Elrond">The Council of Elrond</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</span>
 </li>
 </ol></div>

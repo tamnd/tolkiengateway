@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - The Glittering Caves.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - The Glittering Caves.jpg</span>"
 page_id: 71757
 namespace: 6
 revision_id: 427651
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Caves of Aglarond](/wiki/Glittering_Caves "Glittering Caves") in *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *Bloodlines*
+[The Caves of Aglarond](../../main/G/Glittering_Caves.md) in *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *Bloodlines*
 
 ## Licensing {#Licensing}
 

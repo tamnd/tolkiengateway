@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and Philosophy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and Philosophy.jpg</span>"
 page_id: 67039
 namespace: 6
 revision_id: 388947
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Tolkien and Philosophy](/wiki/Tolkien_and_Philosophy), published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is "The [Phial of Galadriel](/wiki/Phial_of_Galadriel)" by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of [Tolkien and Philosophy](../../main/T/Tolkien_and_Philosophy.md), published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is "The [Phial of Galadriel](../../main/P/Phial_of_Galadriel.md)" by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

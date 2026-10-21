@@ -1,6 +1,5 @@
 ---
 title: "Diggle family"
-display_title: "<span class=\"mw-page-title-main\">Diggle family</span>"
 page_id: 30442
 namespace: 0
 revision_id: 382841
@@ -16,13 +15,13 @@ sort_keys:
   "Diggle": " "
 ---
 
-The **Diggle family** was a [Hobbit](/wiki/Hobbits "Hobbits") family. [Dina Diggle](/wiki/Dina_Diggle) married [Gundahar Bolger](/wiki/Gundahar_Bolger).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Diggle family** was a [Hobbit](../H/Hobbits.md) family. [Dina Diggle](Dina_Diggle.md) married [Gundahar Bolger](../G/Gundahar_Bolger.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_C" title="Appendix C">Appendix C</a>, &#34;Bolger of Budgeford&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_C.md" title="Appendix C">Appendix C</a>, &#34;Bolger of Budgeford&#34;</span>
 </li>
 </ol></div>

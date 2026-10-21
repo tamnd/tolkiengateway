@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anfauglith"
 ---
 
-Redirect to [Anfauglith](/wiki/Anfauglith).
+Redirect to [Anfauglith](../A/Anfauglith.md).

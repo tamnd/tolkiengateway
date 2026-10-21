@@ -1,6 +1,5 @@
 ---
 title: "File:Merge-arrows.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merge-arrows.gif</span>"
 page_id: 7950
 namespace: 6
 revision_id: 224936

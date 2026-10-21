@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Ensemble poster 3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Ensemble poster 3.jpg</span>"
 page_id: 11603
 namespace: 6
 revision_id: 437871

@@ -13,15 +13,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>guldur</b></i> is a [Sindarin](/wiki/Sindarin) noun meaning "(dark) [sorcery](/wiki/Magic "Magic")" (a compound of *[gûl](/wiki/G%C3%BBl "Gûl")* + *[dûr](/wiki/D%C3%BBr "Dûr")*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>guldur</b></i> is a [Sindarin](../S/Sindarin.md) noun meaning "(dark) [sorcery](../M/Magic.md)" (a compound of *[gûl](Gûl.md)* + *[dûr](../D/Dûr.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Dol Guldur](/wiki/Dol_Guldur)
+- [Dol Guldur](../D/Dol_Guldur.md)
 
 ## See also {#See_also}
 
-- *[morgul](/wiki/Morgul "Morgul")*
+- *[morgul](../M/Morgul.md)*
 
 <span></span>
 

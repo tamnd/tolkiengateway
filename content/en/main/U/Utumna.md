@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Utumno"
 ---
 
-Redirect to [Utumno](/wiki/Utumno).
+Redirect to [Utumno](Utumno.md).

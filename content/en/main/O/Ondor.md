@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondor"
 ---
 
-Redirect to [Gondor](/wiki/Gondor).
+Redirect to [Gondor](../G/Gondor.md).

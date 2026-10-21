@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Mirkwood Elf Archer.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Mirkwood Elf Archer.png</span>"
 page_id: 73174
 namespace: 6
 revision_id: 433020
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mirkwood Elf](/wiki/Elves_of_Mirkwood "Elves of Mirkwood") Archer - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor080/mirkwood-elf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Mirkwood Elf](../../main/E/Elves_of_Mirkwood.md) Archer - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor080/mirkwood-elf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Licensing {#Licensing}
 

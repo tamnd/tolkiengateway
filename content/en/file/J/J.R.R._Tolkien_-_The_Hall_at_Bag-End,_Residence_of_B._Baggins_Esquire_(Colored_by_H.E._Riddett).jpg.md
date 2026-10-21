@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hall at Bag-End, Residence of B. Baggins Esquire (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hall at Bag-End, Residence of B. Baggins Esquire (Colored by H.E. Riddett).jpg</span>"
 page_id: 5757
 namespace: 6
 revision_id: 430712
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-This coloured version of the original is coloured by [H.E. Riddett](/wiki/H.E._Riddett) and was first published in the English De Luxe edition and in a new edition of the Dutch translation (both 1976) of [The Hobbit](/wiki/The_Hobbit), and appeared also in [The J.R.R. Tolkien Calendar 1979](/wiki/The_J.R.R._Tolkien_Calendar_1979).
+This coloured version of the original is coloured by [H.E. Riddett](../../main/H/H.E._Riddett.md) and was first published in the English De Luxe edition and in a new edition of the Dutch translation (both 1976) of [The Hobbit](../../main/T/The_Hobbit.md), and appeared also in [The J.R.R. Tolkien Calendar 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md).
 
 ## Licensing {#Licensing}
 

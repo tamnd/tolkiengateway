@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Francisco Souza Aguirre"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Francisco Souza Aguirre</span>"
 page_id: 72259
 namespace: 4
 revision_id: 429508
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Souza Aguirre, Francisco"
 ---
 
-- Francisco Souza Aguirre has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Francisco_Souza_Aguirre "Category:Images by Francisco Souza Aguirre") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Francisco Souza Aguirre has kindly granted his permission to use [his artwork](../../category/I/Images_by_Francisco_Souza_Aguirre.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 May 2023
-- User who sought the permission: [User:Yoritomito](/wiki/User:Yoritomito)
+- User who sought the permission: [User:Yoritomito](https://tolkiengateway.net/wiki/User:Yoritomito)

@@ -1,6 +1,5 @@
 ---
 title: "File:Sergio Botero - Mim concept.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sergio Botero - Mim concept.jpg</span>"
 page_id: 68568
 namespace: 6
 revision_id: 409163
@@ -32,8 +31,8 @@ Mîm in a cap and cape
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Sergio Botero</span></span>
-<p>This work is copyrighted and owned by <a class="new" href="/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a class="new" href="/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a></li>
+<ul><li><b>Name:</b> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a></li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/sboterod" rel="noreferrer noopener" target="_blank">Sergio Botero on ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Sergio_Botero" title="Tolkien Gateway:Copyrights/Sergio Botero">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSergio_Botero.md" title="Tolkien Gateway:Copyrights/Sergio Botero">Permission for use on Tolkien Gateway</a></b></li></ul></div>

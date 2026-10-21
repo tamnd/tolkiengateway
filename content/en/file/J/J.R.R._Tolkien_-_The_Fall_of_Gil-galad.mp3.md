@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Fall of Gil-galad.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Fall of Gil-galad.mp3</span>"
 page_id: 71063
 namespace: 6
 revision_id: 424377
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads [The Fall of Gil-galad](/wiki/The_Fall_of_Gil-galad)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads [The Fall of Gil-galad](../../main/T/The_Fall_of_Gil-galad.md)
 
 ## Licensing {#Licensing}
 

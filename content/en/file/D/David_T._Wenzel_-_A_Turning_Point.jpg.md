@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - A Turning Point.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - A Turning Point.jpg</span>"
 page_id: 41963
 namespace: 6
 revision_id: 439563
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins) finds the [One Ring](/wiki/One_Ring) while lost in the [Goblin-town](/wiki/Goblin-town).
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) finds the [One Ring](../../main/O/One_Ring.md) while lost in the [Goblin-town](../../main/G/Goblin-town.md).
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

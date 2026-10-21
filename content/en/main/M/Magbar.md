@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rûm"
 ---
 
-Redirect to [Rûm](/wiki/Rûm).
+Redirect to [Rûm](../R/Rûm.md).

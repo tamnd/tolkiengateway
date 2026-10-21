@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lairelossë"
 ---
 
-Redirect to [Lairelossë](/wiki/Lairelossë).
+Redirect to [Lairelossë](Lairelossë.md).

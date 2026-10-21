@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Klaus Wittmann"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Klaus Wittmann</span>"
 page_id: 73313
 namespace: 4
 revision_id: 433624
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Wittmann, Klaus"
 ---
 
-- <a class="new" href="/w/index.php?title=Klaus_Wittmann&amp;action=edit&amp;redlink=1" title="Klaus Wittmann (page does not exist)">Klaus Wittmann</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Klaus_Wittmann "Category:Images by Klaus Wittmann") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Klaus_Wittmann&amp;action=edit&amp;redlink=1" title="Klaus Wittmann (page does not exist)">Klaus Wittmann</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Klaus_Wittmann.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 February 2026
-- User who sought the permission via email: [User:PLord](/wiki/User:PLord)
+- User who sought the permission via email: [User:PLord](https://tolkiengateway.net/wiki/User:PLord)

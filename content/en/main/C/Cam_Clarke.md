@@ -1,6 +1,5 @@
 ---
 title: "Cam Clarke"
-display_title: "<span class=\"mw-page-title-main\">Cam Clarke</span>"
 page_id: 19241
 namespace: 0
 revision_id: 154360
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Clarke, Cam"
 ---
 
-**Cameron A. Clarke** ([November 6](/wiki/6_November "6 November"), [1957](/wiki/1957)) is an American voice actor. He voiced [King Arveleg](/wiki/Arveleg_I "Arveleg I") in *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king")* and provided additional voices in *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*.
+**Cameron A. Clarke** ([November 6](../_/6_November.md), [1957](../_/1957.md)) is an American voice actor. He voiced [King Arveleg](../A/Arveleg_I.md) in *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* and provided additional voices in *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## External links {#External_links}
 

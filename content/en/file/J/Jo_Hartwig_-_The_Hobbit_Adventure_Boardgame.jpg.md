@@ -1,6 +1,5 @@
 ---
 title: "File:Jo Hartwig - The Hobbit Adventure Boardgame.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jo Hartwig - The Hobbit Adventure Boardgame.jpg</span>"
 page_id: 72847
 namespace: 6
 revision_id: 431689
@@ -26,4 +25,4 @@ file:
 
 ## Summary {#Summary}
 
-Original art for [File:The Hobbit Adventure Boardgame (German).jpg](</wiki/File:The_Hobbit_Adventure_Boardgame_(German).jpg>)
+Original art for [File:The Hobbit Adventure Boardgame (German).jpg](<../T/The_Hobbit_Adventure_Boardgame_(German).jpg.md>)

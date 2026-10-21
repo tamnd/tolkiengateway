@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar-Zimrathôn"
 ---
 
-Redirect to [Ar-Zimrathôn](/wiki/Ar-Zimrathôn).
+Redirect to [Ar-Zimrathôn](../A/Ar-Zimrathôn.md).

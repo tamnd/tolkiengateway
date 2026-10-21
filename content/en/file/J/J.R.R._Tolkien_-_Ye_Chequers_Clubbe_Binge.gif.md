@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Ye Chequers Clubbe Binge.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ye Chequers Clubbe Binge.gif</span>"
 page_id: 28774
 namespace: 6
 revision_id: 379597
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover illustration by J.R.R. Tolkien, for *[Ye Chequers Clubbe Binge](/wiki/Ye_Chequers_Clubbe_Binge)*. Image from *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)*.
+Cover illustration by J.R.R. Tolkien, for *[Ye Chequers Clubbe Binge](../../main/Y/Ye_Chequers_Clubbe_Binge.md)*. Image from *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)*.
 
 ## Licensing {#Licensing}
 

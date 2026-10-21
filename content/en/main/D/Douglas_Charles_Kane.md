@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Douglas C. Kane"
 ---
 
-Redirect to [Douglas C. Kane](/wiki/Douglas_C._Kane).
+Redirect to [Douglas C. Kane](Douglas_C._Kane.md).

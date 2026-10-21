@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Page of Wands (LotR).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Page of Wands (LotR).jpg</span>"
 page_id: 74326
 namespace: 6
 revision_id: 437911
@@ -35,24 +34,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - Page of Wands (LotR).jpg</span></th>
 <td class="description">
-&#34;Page of Wands&#34; from <i><a href="/wiki/The_Lord_of_the_Rings_Tarot" title="The Lord of the Rings Tarot">The Lord of the Rings Tarot</a></i><br/><blockquote><p><a href="/wiki/Radagast" title="Radagast">Radagast the Brown</a> brings a message of great importance to <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a>.</p></blockquote>
+&#34;Page of Wands&#34; from <i><a href="../../main/T/The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">The Lord of the Rings Tarot</a></i><br/><blockquote><p><a href="../../main/R/Radagast.md" title="Radagast">Radagast the Brown</a> brings a message of great importance to <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.rozamira-tarot.ru/tarot/taro-vlastelin-kolec-lord-of-the-rings-tarot.html" rel="noreferrer noopener" target="_blank">https://www.rozamira-tarot.ru/tarot/taro-vlastelin-kolec-lord-of-the-rings-tarot.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

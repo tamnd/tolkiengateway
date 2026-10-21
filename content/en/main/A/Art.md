@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Art"
 ---
 
-Redirect to [Category:Art](/wiki/Category:Art).
+Redirect to [Category:Art](../../category/A/Art.md).

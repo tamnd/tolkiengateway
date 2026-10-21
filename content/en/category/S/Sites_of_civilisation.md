@@ -1,6 +1,5 @@
 ---
 title: "Category:Sites of civilisation"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sites of civilisation</span>"
 page_id: 39677
 namespace: 14
 revision_id: 195576

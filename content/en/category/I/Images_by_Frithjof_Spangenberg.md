@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Frithjof Spangenberg"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Frithjof Spangenberg</span>"
 page_id: 14188
 namespace: 14
 revision_id: 182005

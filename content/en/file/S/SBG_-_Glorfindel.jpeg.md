@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Glorfindel.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Glorfindel.jpeg</span>"
 page_id: 11787
 namespace: 6
 revision_id: 203880

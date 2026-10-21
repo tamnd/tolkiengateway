@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:LOTR TT TrickTakingGame.webp"
 ---
 
-Redirect to [File:LOTR TT TrickTakingGame.webp](/wiki/File:LOTR_TT_TrickTakingGame.webp).
+Redirect to [File:LOTR TT TrickTakingGame.webp](LOTR_TT_TrickTakingGame.webp.md).

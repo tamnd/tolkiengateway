@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Hunt for Gollum Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Hunt for Gollum Logo.png</span>"
 page_id: 74242
 namespace: 6
 revision_id: 437513
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Hunt for Gollum Logo.png</span></th>
 <td class="description">
-<p>The official logo for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Hunt_for_Gollum" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></i>
+<p>The official logo for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Lord of the Rings: The Hunt for Gollum</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/15_April" title="15 April">April 15</a>, <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/_/15_April.md" title="15 April">April 15</a>, <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/warnerbros/status/2044207974361510165" rel="noreferrer noopener" target="_blank">https://x.com/warnerbros/status/2044207974361510165</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

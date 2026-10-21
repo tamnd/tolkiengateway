@@ -13,13 +13,13 @@ categories:
   - "Telerin nouns"
 ---
 
-**trumbe** in [Telerin](/wiki/Telerin) means "shield".
+**trumbe** in [Telerin](Telerin.md) means "shield".
 
 ## Etymology {#Etymology}
 
-The [primitive Elvish](/wiki/Primitive_Elvish "Primitive Elvish") form is given as <i><a class="new" href="/w/index.php?title=Tur%C3%BAmb%C3%AA&amp;action=edit&amp;redlink=1" title="Turúmbê (page does not exist)">turúmbê</a></i> from <a class="new" href="/w/index.php?title=TUR%C3%9AM&amp;action=edit&amp;redlink=1" title="TURÚM (page does not exist)">TURÚM</a> with the loss of an unaccented pre-stress vowel; such loss often occurs in the [Common Telerin](/wiki/Common_Telerin)
+The [primitive Elvish](../P/Primitive_Elvish.md) form is given as <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tur%C3%BAmb%C3%AA&amp;action=edit&amp;redlink=1" title="Turúmbê (page does not exist)">turúmbê</a></i> from <a class="new" href="https://tolkiengateway.net/w/index.php?title=TUR%C3%9AM&amp;action=edit&amp;redlink=1" title="TURÚM (page does not exist)">TURÚM</a> with the loss of an unaccented pre-stress vowel; such loss often occurs in the [Common Telerin](../C/Common_Telerin.md)
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Turma&amp;action=edit&amp;redlink=1" title="Turma (page does not exist)">turma</a></i>
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Turum&amp;action=edit&amp;redlink=1" title="Turum (page does not exist)">turum</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Turma&amp;action=edit&amp;redlink=1" title="Turma (page does not exist)">turma</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Turum&amp;action=edit&amp;redlink=1" title="Turum (page does not exist)">turum</a></i>

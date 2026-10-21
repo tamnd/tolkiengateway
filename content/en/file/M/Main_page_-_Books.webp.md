@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - Books.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - Books.webp</span>"
 page_id: 67486
 namespace: 6
 revision_id: 391971

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aman"
 ---
 
-Redirect to [Aman](/wiki/Aman).
+Redirect to [Aman](Aman.md).

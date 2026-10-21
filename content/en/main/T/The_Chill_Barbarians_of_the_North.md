@@ -1,6 +1,5 @@
 ---
 title: "The Chill Barbarians of the North"
-display_title: "<span class=\"mw-page-title-main\">The Chill Barbarians of the North</span>"
 page_id: 44880
 namespace: 0
 revision_id: 236171
@@ -17,7 +16,7 @@ sort_keys:
   "Unpublished material": "Chill Barbarians of the North"
 ---
 
-**The Chill Barbarians of the North** is the title of a paper by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), read at a meeting of the <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_University_Newman_Society" title="wikipedia:Oxford University Newman Society">Newman Society</a> in Oxford during Hilary Term 1928.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The Catholic journal *The Tablet* reported on [7 April](/wiki/7_April) [1928](/wiki/1928) that:
+**The Chill Barbarians of the North** is the title of a paper by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), read at a meeting of the <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_University_Newman_Society" title="wikipedia:Oxford University Newman Society">Newman Society</a> in Oxford during Hilary Term 1928.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The Catholic journal *The Tablet* reported on [7 April](../_/7_April.md) [1928](../_/1928.md) that:
 
 <blockquote class="tg-quote noexcerpt">
 <p>Mr. Tolkien, the newly appointed Professor of Anglo-Saxon, criticized the views associated with Mr. Belloc and maintained that the Northern culture was quite as real as the Latin, and that so far as observation of foreign lands was concerned the Romans were stupid and devoid of imagination. No doubt, the fact is that North and South have combined to form our civilization; but it has ever seemed to the writer that our literary inspiration has been Greek, apart from our own Northern sentiment and delight in wild nature which is the antithesis of either the Greek or Latin spirit.
@@ -25,15 +24,13 @@ sort_keys:
 <p class="tg-quote-footer"><cite><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 2 December 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 2 December 2013</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://archive.thetablet.co.uk/article/7th-april-1928/19/university-notes-" rel="noreferrer noopener" target="_blank">&#34;University Notes. Oxford.&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://archive.thetablet.co.uk/" rel="noreferrer noopener" target="_blank">Archive.TheTablet.co.uk</a></span>. <span class="cite-web-accessed">Retrieved 2 December 2013</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://archive.thetablet.co.uk/article/7th-april-1928/19/university-notes-" rel="noreferrer noopener" target="_blank">&#34;University Notes. Oxford.&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://archive.thetablet.co.uk/" rel="noreferrer noopener" target="_blank">Archive.TheTablet.co.uk</a></span>. <span class="cite-web-accessed">Retrieved 2 December 2013</span></cite></span>
 </li>
 </ol></div>

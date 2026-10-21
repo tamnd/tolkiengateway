@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Daniel Pilla"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Daniel Pilla</span>"
 page_id: 49513
 namespace: 14
 revision_id: 264749

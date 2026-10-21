@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The White Hand.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The White Hand.jpeg</span>"
 page_id: 71594
 namespace: 6
 revision_id: 430595
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The White Hand](/wiki/White_Hand "White Hand")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), created in [2002](/wiki/2002) based off of sketches done in [1978](/wiki/1978) for the cancelled <a class="new" href="/w/index.php?title=1979_J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979 J.R.R. Tolkien Calendar (page does not exist)">1979 J.R.R. Tolkien Calendar</a>
+"[The White Hand](../../main/W/White_Hand.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), created in [2002](../../main/_/2002.md) based off of sketches done in [1978](../../main/_/1978.md) for the cancelled <a class="new" href="https://tolkiengateway.net/w/index.php?title=1979_J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979 J.R.R. Tolkien Calendar (page does not exist)">1979 J.R.R. Tolkien Calendar</a>
 
 ## Licensing {#Licensing}
 

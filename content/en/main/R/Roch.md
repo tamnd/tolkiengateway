@@ -11,4 +11,4 @@ redirect_target: "Horses"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Horses](/wiki/Horses#Names).
+Redirect to [Horses](../H/Horses.md#Names).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring (1977 board game)"
 ---
 
-Redirect to [War of the Ring (1977 board game)](/wiki/War_of_the_Ring_(1977_board_game)).
+Redirect to [War of the Ring (1977 board game)](<War_of_the_Ring_(1977_board_game).md>).

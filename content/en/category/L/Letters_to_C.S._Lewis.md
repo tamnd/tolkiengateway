@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to C.S. Lewis"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to C.S. Lewis</span>"
 page_id: 68550
 namespace: 14
 revision_id: 404170
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Lewis, C.S."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [C.S. Lewis](/wiki/C.S._Lewis).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [C.S. Lewis](../../main/C/C.S._Lewis.md).

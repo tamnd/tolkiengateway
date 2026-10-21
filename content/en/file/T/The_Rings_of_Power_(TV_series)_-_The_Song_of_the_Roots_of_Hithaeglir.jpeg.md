@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - The Song of the Roots of Hithaeglir.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - The Song of the Roots of Hithaeglir.jpeg</span>"
 page_id: 64301
 namespace: 6
 revision_id: 428757
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-The apocryphal legend of [The Song of the Roots of Hithaeglir](/wiki/The_Song_of_the_Roots_of_Hithaeglir) in the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+The apocryphal legend of [The Song of the Roots of Hithaeglir](../../main/T/The_Song_of_the_Roots_of_Hithaeglir.md) in the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

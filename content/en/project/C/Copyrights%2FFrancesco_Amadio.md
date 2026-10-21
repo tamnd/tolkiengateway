@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Francesco Amadio"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Francesco Amadio</span>"
 page_id: 48423
 namespace: 4
 revision_id: 258762
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Amadio, Francesco"
 ---
 
-- Francesco Amadio has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Francesco_Amadio "Category:Images by Francesco Amadio") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Francesco Amadio has kindly granted his permission to use [his artwork](../../category/I/Images_by_Francesco_Amadio.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 November 2014
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

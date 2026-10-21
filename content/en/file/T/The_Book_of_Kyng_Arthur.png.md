@@ -1,6 +1,5 @@
 ---
 title: "File:The Book of Kyng Arthur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Book of Kyng Arthur.png</span>"
 page_id: 39402
 namespace: 6
 revision_id: 214622

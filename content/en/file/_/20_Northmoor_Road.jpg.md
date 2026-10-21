@@ -1,6 +1,5 @@
 ---
 title: "File:20 Northmoor Road.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">20 Northmoor Road.jpg</span>"
 page_id: 9365
 namespace: 6
 revision_id: 248672

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of Mordor"
 ---
 
-Redirect to [Orcs of Mordor](/wiki/Orcs_of_Mordor).
+Redirect to [Orcs of Mordor](../O/Orcs_of_Mordor.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Tidings of Erebor.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Tidings of Erebor.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Tidings_of_Erebor.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Tidings of Erebor.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Tidings_of_Erebor.jpg.md).

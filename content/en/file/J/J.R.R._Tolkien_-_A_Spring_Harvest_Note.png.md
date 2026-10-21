@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Spring Harvest Note.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Spring Harvest Note.png</span>"
 page_id: 41684
 namespace: 6
 revision_id: 211996

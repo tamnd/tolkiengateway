@@ -1,6 +1,5 @@
 ---
 title: "File:Līga Kļaviņa - Royal Couple.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Līga Kļaviņa - Royal Couple.jpg</span>"
 page_id: 42494
 namespace: 6
 revision_id: 224329
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Līga Kļaviņa</li>
 <li><b>Website:</b> <a class="external text" href="http://liga-marta.deviantart.com" rel="noreferrer noopener" target="_blank">Līga Kļaviņa&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C4%ABga_K%C4%BCavi%C5%86a" title="Tolkien Gateway:Copyrights/Līga Kļaviņa">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLīga_Kļaviņa.md" title="Tolkien Gateway:Copyrights/Līga Kļaviņa">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Fortresses"
 ---
 
-Redirect to [Category:Fortresses](/wiki/Category:Fortresses).
+Redirect to [Category:Fortresses](../../category/F/Fortresses.md).

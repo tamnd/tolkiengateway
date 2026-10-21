@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Gollum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Gollum.jpg</span>"
 page_id: 56353
 namespace: 6
 revision_id: 306808
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Gollum as depicted in [Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor).
+Gollum as depicted in [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
 
 ## Licensing {#Licensing}
 

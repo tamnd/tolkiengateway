@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 2012-2vol.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 2012-2vol.jpeg</span>"
 page_id: 62695
 namespace: 6
 revision_id: 353923

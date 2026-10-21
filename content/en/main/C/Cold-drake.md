@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cold-drakes"
 ---
 
-Redirect to [Cold-drakes](/wiki/Cold-drakes).
+Redirect to [Cold-drakes](Cold-drakes.md).

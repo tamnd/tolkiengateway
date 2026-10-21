@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Douglas A. Anderson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Douglas A. Anderson</span>"
 page_id: 26369
 namespace: 14
 revision_id: 104249
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Anderson, Douglas A."
 ---
 
-Books by [Douglas A. Anderson](/wiki/Douglas_A._Anderson)
+Books by [Douglas A. Anderson](../../main/D/Douglas_A._Anderson.md)

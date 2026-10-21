@@ -1,6 +1,5 @@
 ---
 title: "File:Les Aventures de Tom Bombadil (2001, John Howe).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Les Aventures de Tom Bombadil (2001, John Howe).jpg</span>"
 page_id: 26740
 namespace: 6
 revision_id: 214521

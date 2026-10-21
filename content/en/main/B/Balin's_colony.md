@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balin's folk"
 ---
 
-Redirect to [Balin's folk](/wiki/Balin's_folk).
+Redirect to [Balin's folk](Balin's_folk.md).

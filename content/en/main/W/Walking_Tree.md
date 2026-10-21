@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walking Tree Publishers"
 ---
 
-Redirect to [Walking Tree Publishers](/wiki/Walking_Tree_Publishers).
+Redirect to [Walking Tree Publishers](Walking_Tree_Publishers.md).

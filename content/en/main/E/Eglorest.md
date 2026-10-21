@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eglarest"
 ---
 
-Redirect to [Eglarest](/wiki/Eglarest).
+Redirect to [Eglarest](Eglarest.md).

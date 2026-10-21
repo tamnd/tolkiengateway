@@ -1,6 +1,5 @@
 ---
 title: "Category:Non-English publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Non-English publications</span>"
 page_id: 26614
 namespace: 14
 revision_id: 232779

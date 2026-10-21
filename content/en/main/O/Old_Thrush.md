@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thrushes"
 ---
 
-Redirect to [Thrushes](/wiki/Thrushes).
+Redirect to [Thrushes](../T/Thrushes.md).

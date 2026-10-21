@@ -1,6 +1,5 @@
 ---
 title: "File:Return of the Heroes.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Return of the Heroes.png</span>"
 page_id: 38803
 namespace: 6
 revision_id: 214587

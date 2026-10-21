@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Corsair wars"
 ---
 
-Redirect to [Corsair wars](/wiki/Corsair_wars).
+Redirect to [Corsair wars](Corsair_wars.md).

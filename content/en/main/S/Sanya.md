@@ -13,23 +13,23 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>sanya</b></i> also <i><a class="new" href="/w/index.php?title=Vorosanya&amp;action=edit&amp;redlink=1" title="Vorosanya (page does not exist)">vorosanya</a></i> in [Quenya](/wiki/Quenya) means "regular, law-abiding, normal" .
+<i><b>sanya</b></i> also <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Vorosanya&amp;action=edit&amp;redlink=1" title="Vorosanya (page does not exist)">vorosanya</a></i> in [Quenya](../Q/Quenya.md) means "regular, law-abiding, normal" .
 
 ## Etymology {#Etymology}
 
-Earlier \**thanya* from [PQ](/wiki/PQ) \**stanjâ*, [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=STAN&amp;action=edit&amp;redlink=1" title="STAN (page does not exist)">STAN</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Earlier \**thanya* from [PQ](../P/PQ.md) \**stanjâ*, [Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAN&amp;action=edit&amp;redlink=1" title="STAN (page does not exist)">STAN</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[senya](/wiki/Senya "Senya")* ("usual")<sup id="cite_ref-VT49_2-0" class="reference"><a href="#cite_note-VT49-2">[2]</a></sup>
+- *[senya](Senya.md)* ("usual")<sup id="cite_ref-VT49_2-0" class="reference"><a href="#cite_note-VT49-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_46" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004</span>
 </li>
-<li id="cite_note-VT49-2"><span class="mw-cite-backlink"><a href="#cite_ref-VT49_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 22</span>
+<li id="cite_note-VT49-2"><span class="mw-cite-backlink"><a href="#cite_ref-VT49_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 22</span>
 </li>
 </ol></div>

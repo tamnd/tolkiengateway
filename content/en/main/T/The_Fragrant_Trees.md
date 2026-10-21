@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fragrant Trees"
 ---
 
-Redirect to [Fragrant Trees](/wiki/Fragrant_Trees).
+Redirect to [Fragrant Trees](../F/Fragrant_Trees.md).

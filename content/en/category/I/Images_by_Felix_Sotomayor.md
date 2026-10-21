@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Felix Sotomayor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Felix Sotomayor</span>"
 page_id: 6355
 namespace: 14
 revision_id: 182003
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Sotomayor, Felix"
 ---
 
-This category lists all **images by [Felix Sotomayor](/wiki/Felix_Sotomayor)**.
+This category lists all **images by [Felix Sotomayor](../../main/F/Felix_Sotomayor.md)**.

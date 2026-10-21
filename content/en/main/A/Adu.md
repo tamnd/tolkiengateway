@@ -13,8 +13,8 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**adu** means "*double*" in [Ilkorin](/wiki/Ilkorin) and [Sindarin](/wiki/Sindarin). <span></span>
+**adu** means "*double*" in [Ilkorin](../I/Ilkorin.md) and [Sindarin](../S/Sindarin.md). <span></span>
 
 ## References {#References}
 
-- *[The Lost Road and Other Writings](/wiki/The_Lost_Road_and_Other_Writings)*, [The Etymologies](/wiki/The_Etymologies).
+- *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, [The Etymologies](../T/The_Etymologies.md).

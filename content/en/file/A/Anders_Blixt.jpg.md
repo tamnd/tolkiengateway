@@ -1,6 +1,5 @@
 ---
 title: "File:Anders Blixt.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anders Blixt.jpg</span>"
 page_id: 43999
 namespace: 6
 revision_id: 231368
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Anders Blixt](/wiki/Anders_Blixt).
+Photograph of [Anders Blixt](../../main/A/Anders_Blixt.md).
 
 ## Licensing {#Licensing}
 
@@ -32,4 +31,4 @@ Photograph of [Anders Blixt](/wiki/Anders_Blixt).
 <p>This work is copyrighted and owned by Anders Blixt. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Anders Blixt</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anders_Blixt" title="Tolkien Gateway:Copyrights/Anders Blixt">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnders_Blixt.md" title="Tolkien Gateway:Copyrights/Anders Blixt">Permission for use on Tolkien Gateway</a></b></li></ul></div>

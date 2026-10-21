@@ -1,6 +1,5 @@
 ---
 title: "File:Diplomatarium Islandicum manuscripts.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Diplomatarium Islandicum manuscripts.jpg</span>"
 page_id: 40542
 namespace: 6
 revision_id: 205964

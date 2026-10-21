@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "WĀ"
 ---
 
-Redirect to [WĀ](/wiki/WĀ).
+Redirect to [WĀ](WĀ.md).

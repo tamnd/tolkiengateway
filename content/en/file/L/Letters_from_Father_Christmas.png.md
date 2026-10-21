@@ -1,6 +1,5 @@
 ---
 title: "File:Letters from Father Christmas.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters from Father Christmas.png</span>"
 page_id: 62530
 namespace: 6
 revision_id: 390510

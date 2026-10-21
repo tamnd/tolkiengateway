@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Radagast"
 ---
 
-Redirect to [Radagast](/wiki/Radagast).
+Redirect to [Radagast](../R/Radagast.md).

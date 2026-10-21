@@ -1,6 +1,5 @@
 ---
 title: "Danbury Mint"
-display_title: "<span class=\"mw-page-title-main\">Danbury Mint</span>"
 page_id: 2856
 namespace: 0
 revision_id: 405179
@@ -13,7 +12,7 @@ categories:
   - "Stores"
 ---
 
-**Danbury Mint** has produced finely crafted [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") merchandise over the years.
+**Danbury Mint** has produced finely crafted [Tolkien](../J/J.R.R._Tolkien.md) merchandise over the years.
 
 ## Official Site {#Official_Site}
 

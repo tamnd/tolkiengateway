@@ -1,6 +1,5 @@
 ---
 title: "Värttinä"
-display_title: "<span class=\"mw-page-title-main\">Värttinä</span>"
 page_id: 64124
 namespace: 0
 revision_id: 416996
@@ -14,7 +13,7 @@ categories:
   - "Folk music"
 ---
 
-**Värttinä** is a Finnish folk music band founded by by Sari and Mari Kaasinen in 1983. They composed the music for *[The Lord of the Rings (musical)](</wiki/The_Lord_of_the_Rings_(musical)>)*, along with [A.R. Rahman](/wiki/A.R._Rahman) and [Christopher Nightingale](/wiki/Christopher_Nightingale).
+**Värttinä** is a Finnish folk music band founded by by Sari and Mari Kaasinen in 1983. They composed the music for *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, along with [A.R. Rahman](../A/A.R._Rahman.md) and [Christopher Nightingale](../C/Christopher_Nightingale.md).
 
 ## External links {#External_links}
 

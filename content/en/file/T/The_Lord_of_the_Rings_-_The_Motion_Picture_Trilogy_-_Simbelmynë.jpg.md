@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Motion Picture Trilogy - Simbelmynë.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Motion Picture Trilogy - Simbelmynë.jpg</span>"
 page_id: 10483
 namespace: 6
 revision_id: 213579

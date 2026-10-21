@@ -1,6 +1,5 @@
 ---
 title: "File:A Glossary of the Eldarin Tongues.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Glossary of the Eldarin Tongues.png</span>"
 page_id: 38818
 namespace: 6
 revision_id: 213940

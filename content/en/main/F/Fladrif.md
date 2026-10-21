@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Skinbark"
 ---
 
-Redirect to [Skinbark](/wiki/Skinbark).
+Redirect to [Skinbark](../S/Skinbark.md).

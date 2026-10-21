@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Untitled (\"Winged sun\") heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Untitled (&quot;Winged sun&quot;) heraldic device.jpg</span>"
 page_id: 73130
 namespace: 6
 revision_id: 432932
@@ -35,8 +34,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" style="background:var(--tg-color-surface-5)">Tolkien Art Index</th>
 <td><a class="external text" href="https://tai.tolkienists.org/tai/96/" rel="noreferrer noopener" target="_blank">TAI #96</a></td>
@@ -45,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>J.R.R Tolkien</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

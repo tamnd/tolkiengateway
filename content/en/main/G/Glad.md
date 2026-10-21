@@ -13,21 +13,21 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>glad</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "wood".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>glad</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "wood".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Methed-en-glad](/wiki/Methed-en-glad)* ("the End of the Wood")
+- *[Methed-en-glad](../M/Methed-en-glad.md)* ("the End of the Wood")
 
 ## See also {#See_also}
 
-- [Sindarin](/wiki/Sindarin) *[taur](/wiki/Taur "Taur")*
+- [Sindarin](../S/Sindarin.md) *[taur](../T/Taur.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="/wiki/Narn_i_H%C3%AEn_H%C3%BArin" title="Narn i Hîn Húrin">Narn i Hîn Húrin (The Tale of the Children of Húrin)</a>&#34;, &#34;Appendix&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin (The Tale of the Children of Húrin)</a>&#34;, &#34;Appendix&#34;</span>
 </li>
 </ol></div>

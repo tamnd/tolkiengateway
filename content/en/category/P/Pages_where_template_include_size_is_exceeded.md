@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages where template include size is exceeded"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages where template include size is exceeded</span>"
 page_id: 69214
 namespace: 14
 revision_id: 413574

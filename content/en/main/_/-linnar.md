@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-li"
 ---
 
-Redirect to [-li](/wiki/-li).
+Redirect to [-li](-li.md).

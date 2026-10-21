@@ -1,6 +1,5 @@
 ---
 title: "Category:Lightfoot"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lightfoot</span>"
 page_id: 15715
 namespace: 14
 revision_id: 435961

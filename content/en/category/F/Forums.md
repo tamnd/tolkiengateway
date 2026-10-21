@@ -1,6 +1,5 @@
 ---
 title: "Category:Forums"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Forums</span>"
 page_id: 7191
 namespace: 14
 revision_id: 142501

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stevce Lazarevski"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stevce Lazarevski</span>"
 page_id: 64879
 namespace: 14
 revision_id: 373735

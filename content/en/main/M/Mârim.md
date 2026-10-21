@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "En-keladim"
 ---
 
-Redirect to [En-keladim](/wiki/En-keladim).
+Redirect to [En-keladim](../E/En-keladim.md).

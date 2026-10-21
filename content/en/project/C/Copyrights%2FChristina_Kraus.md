@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Christina Kraus"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Christina Kraus</span>"
 page_id: 64991
 namespace: 4
 revision_id: 374374
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kraus, Christina"
 ---
 
-- Christina Kraus has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Christina_Kraus "Category:Images by Christina Kraus") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [May 31st](/wiki/May_31 "May 31"), [2023](/wiki/2023)
-- User who received the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- Christina Kraus has kindly granted their permission to use [their artwork](../../category/I/Images_by_Christina_Kraus.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [May 31st](../../main/M/May_31.md), [2023](../../main/_/2023.md)
+- User who received the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

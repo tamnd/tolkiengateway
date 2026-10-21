@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Peregrin_Took.JPG).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG](<../T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_(video_game)_-_Peregrin_Took.JPG.md>).

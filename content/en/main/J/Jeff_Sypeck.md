@@ -1,6 +1,5 @@
 ---
 title: "Jeff Sypeck"
-display_title: "<span class=\"mw-page-title-main\">Jeff Sypeck</span>"
 page_id: 21493
 namespace: 0
 revision_id: 406036
@@ -25,10 +24,10 @@ sort_keys:
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entry
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entry
     - "Philately"
 
 ## External links {#External_links}
 
 - <b><a class="external text" href="http://www.becomingcharlemagne.com/About.html" rel="noreferrer noopener" target="_blank">Becoming Charlemagne official website</a></b>
-- <a class="external text" href="http://www.harpercollins.com/authors/29343/Jeff_Sypeck/index.aspx" rel="noreferrer noopener" target="_blank">Jeff Sypeck</a> at [HarperCollins.com](/wiki/Harper_Collins "Harper Collins")
+- <a class="external text" href="http://www.harpercollins.com/authors/29343/Jeff_Sypeck/index.aspx" rel="noreferrer noopener" target="_blank">Jeff Sypeck</a> at [HarperCollins.com](../H/Harper_Collins.md)

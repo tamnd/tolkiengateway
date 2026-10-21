@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>kotumo</b></i> is a [Quenya](/wiki/Quenya) noun meaning *adversary* or *enemy*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>kotumo</b></i> is a [Quenya](../Q/Quenya.md) noun meaning *adversary* or *enemy*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenya Noun Structure&#34;, in <a href="/wiki/Parma_Eldalamberon_21" title="Parma Eldalamberon 21"><i>Parma Eldalamberon</i> XXI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a> and <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenya Noun Structure&#34;, in <a href="../P/Parma_Eldalamberon_21.md" title="Parma Eldalamberon 21"><i>Parma Eldalamberon</i> XXI</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> and <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>)</span>
 </li>
 </ol></div>

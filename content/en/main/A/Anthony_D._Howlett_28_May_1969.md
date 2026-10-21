@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Anthony D. Howlett"
 ---
 
-Redirect to [Letter to Anthony D. Howlett](/wiki/Letter_to_Anthony_D._Howlett).
+Redirect to [Letter to Anthony D. Howlett](../L/Letter_to_Anthony_D._Howlett.md).

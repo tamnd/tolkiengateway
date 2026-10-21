@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Telemmaitë"
 ---
 
-Redirect to [Tar-Telemmaitë](/wiki/Tar-Telemmaitë).
+Redirect to [Tar-Telemmaitë](Tar-Telemmaitë.md).

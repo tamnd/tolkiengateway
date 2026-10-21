@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cermië"
 ---
 
-Redirect to [Cermië](/wiki/Cermië).
+Redirect to [Cermië](Cermië.md).

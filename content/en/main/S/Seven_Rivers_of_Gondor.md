@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rivers of Gondor"
 ---
 
-Redirect to [Rivers of Gondor](/wiki/Rivers_of_Gondor).
+Redirect to [Rivers of Gondor](../R/Rivers_of_Gondor.md).

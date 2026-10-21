@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Irildë (disambiguation)"
 ---
 
-Redirect to [Irildë (disambiguation)](/wiki/Irildë_(disambiguation)).
+Redirect to [Irildë (disambiguation)](<Irildë_(disambiguation).md>).

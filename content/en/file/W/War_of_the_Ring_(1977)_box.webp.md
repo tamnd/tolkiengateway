@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Ring (1977) box.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Ring (1977) box.webp</span>"
 page_id: 65129
 namespace: 6
 revision_id: 374906

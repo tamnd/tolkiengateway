@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maps of Middle-earth"
 ---
 
-Redirect to [Maps of Middle-earth](/wiki/Maps_of_Middle-earth).
+Redirect to [Maps of Middle-earth](Maps_of_Middle-earth.md).

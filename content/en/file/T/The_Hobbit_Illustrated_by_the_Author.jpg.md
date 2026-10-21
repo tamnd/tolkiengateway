@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit 2023-deluxe.jpg"
 ---
 
-Redirect to [File:The Hobbit 2023-deluxe.jpg](/wiki/File:The_Hobbit_2023-deluxe.jpg).
+Redirect to [File:The Hobbit 2023-deluxe.jpg](The_Hobbit_2023-deluxe.jpg.md).

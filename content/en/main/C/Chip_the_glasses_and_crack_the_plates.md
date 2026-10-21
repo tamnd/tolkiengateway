@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chip the glasses and crack the plates!"
 ---
 
-Redirect to [Chip the glasses and crack the plates!](/wiki/Chip_the_glasses_and_crack_the_plates!).
+Redirect to [Chip the glasses and crack the plates!](Chip_the_glasses_and_crack_the_plates!.md).

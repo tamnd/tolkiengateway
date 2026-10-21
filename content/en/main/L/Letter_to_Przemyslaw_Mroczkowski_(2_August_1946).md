@@ -18,12 +18,12 @@ images:
   - "Przemyslaw_Mroczkowski_2_August_1946.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Przemyslaw_Mroczkowski_2_August_1946.png"><img src="/w/images/thumb/1/15/Przemyslaw_Mroczkowski_2_August_1946.png/300px-Przemyslaw_Mroczkowski_2_August_1946.png" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="/w/images/1/15/Przemyslaw_Mroczkowski_2_August_1946.png 1.5x" data-file-width="329" data-file-height="414"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Przemyslaw_Mroczkowski_2_August_1946.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/15/Przemyslaw_Mroczkowski_2_August_1946.png/300px-Przemyslaw_Mroczkowski_2_August_1946.png" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/15/Przemyslaw_Mroczkowski_2_August_1946.png 1.5x" data-file-width="329" data-file-height="414"/></a><figcaption></figcaption></figure>
 
-On [2 August](/wiki/2_August) [1946](/wiki/1946), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Przemyslaw Mroczkowski](/wiki/Przemyslaw_Mroczkowski)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+On [2 August](../_/2_August.md) [1946](../_/1946.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Description:**: A two-page typed letter signed in full by Tolkien in fountain pen ink (the second page consists of a lengthy postscript, additionally signed "J.R.R.T.")<sup id="cite_ref-Abe_3-0" class="reference"><a href="#cite_note-Abe-3">[3]</a></sup>
-- **Publication:** A description of the letter was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_1_June_2009)*.
+- **Publication:** A description of the letter was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
 
 ## Contents {#Contents}
 
@@ -35,14 +35,14 @@ On [2 August](/wiki/2_August) [1946](/wiki/1946), [J.R.R. Tolkien](/wiki/J.R.R._
 
 ## See also {#See_also}
 
-- [Letters to Przemyslaw Mroczkowski](/wiki/Category:Letters_to_Przemyslaw_Mroczkowski "Category:Letters to Przemyslaw Mroczkowski")
+- [Letters to Przemyslaw Mroczkowski](../../category/L/Letters_to_Przemyslaw_Mroczkowski.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, &#34;<i><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to The J.R.R. Tolkien Companion and Guide: Chronology</a></i>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 26 December 2011)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, &#34;<i><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to The J.R.R. Tolkien Companion and Guide: Chronology</a></i>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 26 December 2011)</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.frasersautographs.com/frasers/view/product/frproductcatalog/23261/23265/PF35350" rel="noreferrer noopener" target="_blank">Stock code F101306</a> at <a class="external text" href="http://www.frasersautographs.com/frasers/view/content/fr_homepage" rel="noreferrer noopener" target="_blank">FrasersAutographs.com</a> (accessed 26 December 2011)</span>
 </li>

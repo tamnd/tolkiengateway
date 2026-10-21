@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sir Orfeo (disambiguation)"
 ---
 
-Redirect to [Sir Orfeo (disambiguation)](/wiki/Sir_Orfeo_(disambiguation)).
+Redirect to [Sir Orfeo (disambiguation)](<Sir_Orfeo_(disambiguation).md>).

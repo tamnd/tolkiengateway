@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Map of Beleriand 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Map of Beleriand 2.jpg</span>"
 page_id: 58541
 namespace: 6
 revision_id: 358797
@@ -28,13 +27,13 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Beleriand](/wiki/Beleriand) published in *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*. The map drawn by [Christopher Tolkien](/wiki/Christopher_Tolkien) is based on the [map](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg> "File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg") found in *[The Silmarillion](/wiki/The_Silmarillion)* though it does not extend eastward to include [Ossiriand](/wiki/Ossiriand) and [Ered Luin](/wiki/Ered_Luin). Certain geographical features were omitted from the map such as [Andram](/wiki/Andram) and [Linaewen](/wiki/Linaewen).
+Map of [Beleriand](../../main/B/Beleriand.md) published in *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)*. The map drawn by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) is based on the [map](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>) found in *[The Silmarillion](../../main/T/The_Silmarillion.md)* though it does not extend eastward to include [Ossiriand](../../main/O/Ossiriand.md) and [Ered Luin](../../main/E/Ered_Luin.md). Certain geographical features were omitted from the map such as [Andram](../../main/A/Andram.md) and [Linaewen](../../main/L/Linaewen.md).
 
 Locations found here that are not identified from the map in *The Silmarillion* are:
 
-- [Amon Darthir](/wiki/Amon_Darthir)
-- [Woods of Núath](/wiki/Woods_of_N%C3%BAath)
-- [Glithui](/wiki/Glithui)
+- [Amon Darthir](../../main/A/Amon_Darthir.md)
+- [Woods of Núath](../../main/W/Woods_of_Núath.md)
+- [Glithui](../../main/G/Glithui.md)
 
 ## Licensing {#Licensing}
 

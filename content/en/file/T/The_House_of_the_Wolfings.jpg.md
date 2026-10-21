@@ -1,6 +1,5 @@
 ---
 title: "File:The House of the Wolfings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The House of the Wolfings.jpg</span>"
 page_id: 28566
 namespace: 6
 revision_id: 330481

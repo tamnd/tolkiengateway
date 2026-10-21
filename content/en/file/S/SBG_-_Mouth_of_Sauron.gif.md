@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Mouth of Sauron.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Mouth of Sauron.gif</span>"
 page_id: 11917
 namespace: 6
 revision_id: 204004

@@ -1,6 +1,5 @@
 ---
 title: "File:Springharvest.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Springharvest.gif</span>"
 page_id: 18433
 namespace: 6
 revision_id: 214366

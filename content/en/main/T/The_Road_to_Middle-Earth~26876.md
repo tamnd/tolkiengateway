@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road to Middle-earth"
 ---
 
-Redirect to [The Road to Middle-earth](/wiki/The_Road_to_Middle-earth).
+Redirect to [The Road to Middle-earth](The_Road_to_Middle-earth.md).

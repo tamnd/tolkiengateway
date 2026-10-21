@@ -11,4 +11,4 @@ redirect_target: "Belegost"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Belegost](/wiki/Belegost#Etymology).
+Redirect to [Belegost](../B/Belegost.md#Etymology).

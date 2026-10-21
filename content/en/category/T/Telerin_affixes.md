@@ -1,6 +1,5 @@
 ---
 title: "Category:Telerin affixes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Telerin affixes</span>"
 page_id: 24518
 namespace: 14
 revision_id: 219799

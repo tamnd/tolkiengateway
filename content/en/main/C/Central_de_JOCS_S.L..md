@@ -1,6 +1,5 @@
 ---
 title: "Central de JOCS S.L."
-display_title: "<span class=\"mw-page-title-main\">Central de JOCS S.L.</span>"
 page_id: 27683
 namespace: 0
 revision_id: 405060
@@ -14,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**Central de JOCS S.L.** was the publisher and game master of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail) in Spain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Central de JOCS S.L.** was the publisher and game master of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) in Spain.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

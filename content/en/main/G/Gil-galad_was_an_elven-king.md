@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Gil-galad"
 ---
 
-Redirect to [The Fall of Gil-galad](/wiki/The_Fall_of_Gil-galad).
+Redirect to [The Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md).

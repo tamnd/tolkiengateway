@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Androth"
 ---
 
-Redirect to [Androth](/wiki/Androth).
+Redirect to [Androth](../A/Androth.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Christopher Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Christopher Tolkien</span>"
 page_id: 20648
 namespace: 14
 revision_id: 270875
@@ -17,4 +16,4 @@ sort_keys:
   "Maps by cartographer": "Tolkien, Christopher"
 ---
 
-This category lists all **images by [Christopher Tolkien](/wiki/Christopher_Tolkien)**.
+This category lists all **images by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md)**.

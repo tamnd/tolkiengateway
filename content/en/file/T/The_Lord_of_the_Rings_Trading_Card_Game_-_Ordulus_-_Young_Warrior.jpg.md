@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Ordulus - Young Warrior.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Ordulus - Young Warrior.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Ordulus_-_Young_Warrior.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Ordulus - Young Warrior.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Ordulus_-_Young_Warrior.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Svirina Vera - Finrod and Beor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Svirina Vera - Finrod and Beor.jpg</span>"
 page_id: 56435
 namespace: 6
 revision_id: 307189
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of my lord [Finrod](/wiki/Finrod) teaching [Beor](/wiki/Beor), by Svirina Vera.
+Image of my lord [Finrod](../../main/F/Finrod.md) teaching [Beor](../../main/B/Beor.md), by Svirina Vera.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Image of my lord [Finrod](/wiki/Finrod) teaching [Beor](/wiki/Beor), by Svirina 
 </p>
 <ul><li><b>Name:</b> Svirina Vera</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/periannart" rel="noreferrer noopener" target="_blank">Periannart in DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Svirina_Vera" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSvirina_Vera.md" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>

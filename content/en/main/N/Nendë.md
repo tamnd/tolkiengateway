@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nende"
 ---
 
-Redirect to [Nende](/wiki/Nende).
+Redirect to [Nende](Nende.md).

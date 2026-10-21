@@ -1,6 +1,5 @@
 ---
 title: "A Tolkien Dictionary"
-display_title: "<span class=\"mw-page-title-main\">A Tolkien Dictionary</span>"
 page_id: 11133
 namespace: 0
 revision_id: 187367
@@ -16,4 +15,4 @@ categories:
 
 <i><b>A Tolkien Dictionary</b></i>, or <b><a class="external text" href="http://www.quicksilver899.com/Tolkien/Tolkien_Dictionary.html" rel="noreferrer noopener" target="_blank">www.quicksilver899.com/Tolkien/Tolkien_Dictionary.html</a></b>, is a website operated by Robert Ireland. It is an extensive online linguistic dictionary of people and places. Sample output:
 
-<dl><dd><b><a href="/wiki/Gildor" title="Gildor">Gildor</a> (Inglorion)</b>    S; <i>Gildor</i> see Sil; <b>ID-</b> heart, desire, Nol <i>inn</i>, <i>ind</i> [Etym]; <b>LÁWAR-</b>, Nol <b>GLÁWAR-</b> golden [light], Nol <i>glor-</i>, <i>lor-</i> in names [Etym]; perhaps implied is <b>NGOL-</b> wise, lore, magic [Etym]; -ion forms a masc. name suffix from <b>YO</b>, <b>YON-</b> son, Q &amp; Nol <i>-ion</i> [Etym]; Inglorion = <i>Mind of gold</i> (<i>-en</i> wisdom?); an Elf at <a href="/wiki/Rivendell" title="Rivendell">Rivendell</a>.</dd></dl>
+<dl><dd><b><a href="../G/Gildor.md" title="Gildor">Gildor</a> (Inglorion)</b>    S; <i>Gildor</i> see Sil; <b>ID-</b> heart, desire, Nol <i>inn</i>, <i>ind</i> [Etym]; <b>LÁWAR-</b>, Nol <b>GLÁWAR-</b> golden [light], Nol <i>glor-</i>, <i>lor-</i> in names [Etym]; perhaps implied is <b>NGOL-</b> wise, lore, magic [Etym]; -ion forms a masc. name suffix from <b>YO</b>, <b>YON-</b> son, Q &amp; Nol <i>-ion</i> [Etym]; Inglorion = <i>Mind of gold</i> (<i>-en</i> wisdom?); an Elf at <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>

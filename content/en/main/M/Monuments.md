@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Monuments"
 ---
 
-Redirect to [Category:Monuments](/wiki/Category:Monuments).
+Redirect to [Category:Monuments](../../category/M/Monuments.md).

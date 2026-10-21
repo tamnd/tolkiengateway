@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lebethron"
 ---
 
-Redirect to [Lebethron](/wiki/Lebethron).
+Redirect to [Lebethron](Lebethron.md).

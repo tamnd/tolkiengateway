@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doriathrin"
 ---
 
-Redirect to [Doriathrin](/wiki/Doriathrin).
+Redirect to [Doriathrin](Doriathrin.md).

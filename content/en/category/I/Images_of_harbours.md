@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of harbours"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of harbours</span>"
 page_id: 39800
 namespace: 14
 revision_id: 198879

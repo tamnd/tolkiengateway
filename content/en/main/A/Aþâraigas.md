@@ -11,4 +11,4 @@ redirect_target: "Sun"
 redirect_fragment: "Names of the Sun"
 ---
 
-Redirect to [Sun](/wiki/Sun#Names_of_the_Sun).
+Redirect to [Sun](../S/Sun.md#Names_of_the_Sun).

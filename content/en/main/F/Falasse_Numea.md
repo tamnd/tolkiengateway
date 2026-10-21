@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falassë Númëa"
 ---
 
-Redirect to [Falassë Númëa](/wiki/Falassë_Númëa).
+Redirect to [Falassë Númëa](Falassë_Númëa.md).

@@ -1,6 +1,5 @@
 ---
 title: "Yuri Lowenthal"
-display_title: "<span class=\"mw-page-title-main\">Yuri Lowenthal</span>"
 page_id: 22427
 namespace: 0
 revision_id: 291355
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Lowenthal, Yuri"
 ---
 
-**Yuri Lowenthal** ([March 5](/wiki/5_March "5 March"), [1971](/wiki/1971)) is an American voice actor, author and artist. His primary field of work is anime dubbing; he has lent his voice to popular series as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Naruto" title="wikipedia:Naruto">Naruto</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Bleach_(manga)" title="wikipedia:Bleach (manga)">Bleach</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing" title="wikipedia:Hellsing">Hellsing</a></i>.
+**Yuri Lowenthal** ([March 5](../_/5_March.md), [1971](../_/1971.md)) is an American voice actor, author and artist. His primary field of work is anime dubbing; he has lent his voice to popular series as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Naruto" title="wikipedia:Naruto">Naruto</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Bleach_(manga)" title="wikipedia:Bleach (manga)">Bleach</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing" title="wikipedia:Hellsing">Hellsing</a></i>.
 
 ## Roles {#Roles}
 
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - Additional voices
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - [Frodo Baggins](/wiki/Frodo_Baggins)
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)* - [Frodo Baggins](/wiki/Frodo_Baggins), Elven officer, Rohan officer
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - Additional voices
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Frodo Baggins](../F/Frodo_Baggins.md)
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - [Frodo Baggins](../F/Frodo_Baggins.md), Elven officer, Rohan officer
 
 ## External links {#External_links}
 

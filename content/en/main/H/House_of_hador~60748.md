@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Hador"
 ---
 
-Redirect to [House of Hador](/wiki/House_of_Hador).
+Redirect to [House of Hador](House_of_Hador.md).

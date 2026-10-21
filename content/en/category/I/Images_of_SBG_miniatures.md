@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of SBG miniatures"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of SBG miniatures</span>"
 page_id: 11739
 namespace: 14
 revision_id: 433566
@@ -15,4 +14,4 @@ sort_keys:
   "Images from The Lord of the Rings Strategy Battle Game": "SBG miniatures"
 ---
 
-These are images of miniatures from the [The Lord of the Rings Strategy Battle Game](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game).
+These are images of miniatures from the [The Lord of the Rings Strategy Battle Game](../../main/T/The_Lord_of_the_Rings_Strategy_Battle_Game.md).

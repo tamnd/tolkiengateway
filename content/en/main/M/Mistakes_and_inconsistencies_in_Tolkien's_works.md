@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Possible inconsistencies in the legendarium"
 ---
 
-Redirect to [Possible inconsistencies in the legendarium](/wiki/Possible_inconsistencies_in_the_legendarium).
+Redirect to [Possible inconsistencies in the legendarium](../P/Possible_inconsistencies_in_the_legendarium.md).

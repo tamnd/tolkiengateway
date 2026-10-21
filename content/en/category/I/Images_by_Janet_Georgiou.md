@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Janet Georgiou"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Janet Georgiou</span>"
 page_id: 61237
 namespace: 14
 revision_id: 344611

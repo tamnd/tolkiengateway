@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Julian C. Bradfield"
 ---
 
-Redirect to [Julian C. Bradfield](/wiki/Julian_C._Bradfield).
+Redirect to [Julian C. Bradfield](Julian_C._Bradfield.md).

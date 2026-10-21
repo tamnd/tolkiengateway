@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Amalcarin"
 ---
 
-Redirect to [User:Amalcarin](/wiki/User:Amalcarin).
+Redirect to [User:Amalcarin](https://tolkiengateway.net/wiki/User:Amalcarin).

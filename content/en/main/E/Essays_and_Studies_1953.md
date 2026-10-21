@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Essays and Studies (1953)"
 ---
 
-Redirect to [Essays and Studies (1953)](/wiki/Essays_and_Studies_(1953)).
+Redirect to [Essays and Studies (1953)](<Essays_and_Studies_(1953).md>).

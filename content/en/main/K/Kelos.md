@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celos"
 ---
 
-Redirect to [Celos](/wiki/Celos).
+Redirect to [Celos](../C/Celos.md).

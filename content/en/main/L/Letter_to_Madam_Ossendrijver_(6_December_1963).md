@@ -15,7 +15,7 @@ sort_keys:
   "Letters": "Ossendrijver, Madam (1963-12-06)"
 ---
 
-On [6 December](/wiki/6_December) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Madam Ossendrijver**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
+On [6 December](../_/6_December.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Madam Ossendrijver**.<sup id="cite_ref-Telegraph_1-0" class="reference"><a href="#cite_note-Telegraph-1">[1]</a></sup>
 
 - **Subject:**
 - **Publication:** None.
@@ -23,13 +23,13 @@ On [6 December](/wiki/6_December) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R
 
 # See Also {#See_Also}
 
-- [Letter to Madam Ossendrijver (5 January 1961)](</wiki/Letter_to_Madam_Ossendrijver_(5_January_1961)>)
+- [Letter to Madam Ossendrijver (5 January 1961)](<Letter_to_Madam_Ossendrijver_(5_January_1961).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Telegraph-1"><span class="mw-cite-backlink"><a href="#cite_ref-Telegraph_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;Marquette Acquives&#34;</a></span>. <span class="cite-web-website">marquette.edu</span>. <span class="cite-web-accessed">Retrieved 4 March 2014</span></cite></span>
+<li id="cite_note-Telegraph-1"><span class="mw-cite-backlink"><a href="#cite_ref-Telegraph_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;Marquette Acquives&#34;</a></span>. <span class="cite-web-website">marquette.edu</span>. <span class="cite-web-accessed">Retrieved 4 March 2014</span></cite></span>
 </li>
 </ol></div>

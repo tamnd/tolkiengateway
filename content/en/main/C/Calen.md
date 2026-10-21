@@ -13,19 +13,19 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>calen</b></i> (plural <i><b>celin</b></i>) is the [Sindarin](/wiki/Sindarin) word for "green".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Its [Quenya](/wiki/Quenya) counterpart is *calina*.
+<i><b>calen</b></i> (plural <i><b>celin</b></i>) is the [Sindarin](../S/Sindarin.md) word for "green".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Its [Quenya](../Q/Quenya.md) counterpart is *calina*.
 
 ## Examples and Instances {#Examples_and_Instances}
 
-- *[Pinnath Gelin](/wiki/Pinnath_Gelin)*
-- *[Parth Galen](/wiki/Parth_Galen)*
-- *[Eryn Lasgalen](/wiki/Eryn_Lasgalen)*
+- *[Pinnath Gelin](../P/Pinnath_Gelin.md)*
+- *[Parth Galen](../P/Parth_Galen.md)*
+- *[Eryn Lasgalen](../E/Eryn_Lasgalen.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>calen</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>calen</i></span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Andy Pessoa"
-display_title: "<span class=\"mw-page-title-main\">Andy Pessoa</span>"
 page_id: 31902
 namespace: 0
 revision_id: 206387
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Pessoa, Andy"
 ---
 
-**Andrew Stephan Pessoa** ([October 30](/wiki/30_October "30 October"), [1995](/wiki/1995)) is an American actor. He is best known for his work in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Zeke_and_Luther" title="wikipedia:Zeke and Luther">Zeke and Luther</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Transformers:_Prime" title="wikipedia:Transformers: Prime">Transformers: Prime</a></i> and the radio serial <i><a class="extiw" href="http://en.wikipedia.org/wiki/Adventures_in_Odyssey" title="wikipedia:Adventures in Odyssey">Adventures in Odyssey</a></i>.
+**Andrew Stephan Pessoa** ([October 30](../_/30_October.md), [1995](../_/1995.md)) is an American actor. He is best known for his work in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Zeke_and_Luther" title="wikipedia:Zeke and Luther">Zeke and Luther</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Transformers:_Prime" title="wikipedia:Transformers: Prime">Transformers: Prime</a></i> and the radio serial <i><a class="extiw" href="http://en.wikipedia.org/wiki/Adventures_in_Odyssey" title="wikipedia:Adventures in Odyssey">Adventures in Odyssey</a></i>.
 
 ## Roles {#Roles}
 
-- [2010](/wiki/2010): *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*: [Merry Gardner](/wiki/Merry_Gardner)
+- [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: [Merry Gardner](../M/Merry_Gardner.md)
 
 ## External links {#External_links}
 

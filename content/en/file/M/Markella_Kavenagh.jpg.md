@@ -1,6 +1,5 @@
 ---
 title: "File:Markella Kavenagh.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Markella Kavenagh.jpg</span>"
 page_id: 63742
 namespace: 6
 revision_id: 434540
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.bbc.co.uk/programmes/profiles/3cwrqWmSVDH5NM4RGrXnrhn/chloe" rel="noreferrer noopener" target="_blank">BBC</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

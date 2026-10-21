@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Priscilla Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Priscilla Tolkien</span>"
 page_id: 66727
 namespace: 14
 revision_id: 386492
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Tolkien, Priscilla "
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Priscilla Tolkien](/wiki/Priscilla_Tolkien).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md).

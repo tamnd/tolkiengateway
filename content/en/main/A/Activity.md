@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Activities"
 ---
 
-Redirect to [Category:Activities](/wiki/Category:Activities).
+Redirect to [Category:Activities](../../category/A/Activities.md).

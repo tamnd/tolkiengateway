@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Katharyn Crabbe"
 ---
 
-Redirect to [Katharyn Crabbe](/wiki/Katharyn_Crabbe).
+Redirect to [Katharyn Crabbe](Katharyn_Crabbe.md).

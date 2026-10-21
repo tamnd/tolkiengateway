@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/31 July 2011"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/31 July 2011</span>"
 page_id: 34661
 namespace: 4
 revision_id: 202004
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 31 July 2011</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 31 July 2011</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda {#Agenda}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -84,23 +80,23 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
-<td>The feasibility of <a href="/wiki/Tolkien_Gateway:Meetings/31_July_2011/US_proposal" title="Tolkien Gateway:Meetings/31 July 2011/US proposal">Tolkien Gateway becoming a charitable organisation in the United States</a>.
+<td>The feasibility of <a href="Meetings%252F31_July_2011%252FUS_proposal.md" title="Tolkien Gateway:Meetings/31 July 2011/US proposal">Tolkien Gateway becoming a charitable organisation in the United States</a>.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
-<td>The feasibility of <a href="/wiki/Tolkien_Gateway:Meetings/31_July_2011/England_and_Wales_proposal" title="Tolkien Gateway:Meetings/31 July 2011/England and Wales proposal">Tolkien Gateway becoming a charity in England and Wales</a>.
+<td>The feasibility of <a href="Meetings%252F31_July_2011%252FEngland_and_Wales_proposal.md" title="Tolkien Gateway:Meetings/31 July 2011/England and Wales proposal">Tolkien Gateway becoming a charity in England and Wales</a>.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
@@ -119,22 +115,22 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a> and potentially others.
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a> and potentially others.
 </td>
 <td>Adjournment discussions and meeting adjournment
 </td></tr></tbody></table>
 
 ## Notes {#Notes}
 
-- This special meeting was arranged at the [3 July 2011 meeting](/wiki/Tolkien_Gateway:Meetings/3_July_2011 "Tolkien Gateway:Meetings/3 July 2011").
+- This special meeting was arranged at the [3 July 2011 meeting](Meetings%252F3_July_2011.md).
 - Discussion will focus on the notion that Tolkien Gateway should become a charity.
 
 ## Documents {#Documents}
 
-- [Tolkien Gateway as a charitable organisation in the United States](/wiki/Tolkien_Gateway:Meetings/31_July_2011/US_proposal "Tolkien Gateway:Meetings/31 July 2011/US proposal")
-- [Tolkien Gateway as a charity in England and Wales](/wiki/Tolkien_Gateway:Meetings/31_July_2011/England_and_Wales_proposal "Tolkien Gateway:Meetings/31 July 2011/England and Wales proposal")
+- [Tolkien Gateway as a charitable organisation in the United States](Meetings%252F31_July_2011%252FUS_proposal.md)
+- [Tolkien Gateway as a charity in England and Wales](Meetings%252F31_July_2011%252FEngland_and_Wales_proposal.md)
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/31_July_2011 "Tolkien Gateway talk:Meetings/31 July 2011")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/31_July_2011)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

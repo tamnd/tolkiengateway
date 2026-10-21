@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven brooches"
 ---
 
-Redirect to [Elven brooches](/wiki/Elven_brooches).
+Redirect to [Elven brooches](Elven_brooches.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lalia Clayhanger"
 ---
 
-Redirect to [Lalia Clayhanger](/wiki/Lalia_Clayhanger).
+Redirect to [Lalia Clayhanger](Lalia_Clayhanger.md).

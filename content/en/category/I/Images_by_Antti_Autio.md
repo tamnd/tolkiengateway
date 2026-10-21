@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Antti Autio"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Antti Autio</span>"
 page_id: 13459
 namespace: 14
 revision_id: 181937
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Autio, Antti"
 ---
 
-This category lists all **images by [Antti Autio](/wiki/Antti_Autio)**.
+This category lists all **images by [Antti Autio](../../main/A/Antti_Autio.md)**.

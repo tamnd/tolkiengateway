@@ -1,6 +1,5 @@
 ---
 title: "File:Sir Gawain and the Green Knight 1960.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sir Gawain and the Green Knight 1960.gif</span>"
 page_id: 66889
 namespace: 6
 revision_id: 387610

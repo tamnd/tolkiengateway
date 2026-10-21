@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Far over the misty mountains cold"
 ---
 
-Redirect to [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold).
+Redirect to [Far over the misty mountains cold](Far_over_the_misty_mountains_cold.md).

@@ -1,6 +1,5 @@
 ---
 title: "Jabez Olssen"
-display_title: "<span class=\"mw-page-title-main\">Jabez Olssen</span>"
 page_id: 36720
 namespace: 0
 revision_id: 370876
@@ -25,17 +24,17 @@ images:
   - "Jabez_Olssen.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Jabez_Olssen.png"><img src="/w/images/thumb/1/1f/Jabez_Olssen.png/250px-Jabez_Olssen.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="/w/images/thumb/1/1f/Jabez_Olssen.png/375px-Jabez_Olssen.png 1.5x, /w/images/thumb/1/1f/Jabez_Olssen.png/500px-Jabez_Olssen.png 2x" data-file-width="600" data-file-height="338"/></a><figcaption>Olssen in the special features of <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jabez_Olssen.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/250px-Jabez_Olssen.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/375px-Jabez_Olssen.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1f/Jabez_Olssen.png/500px-Jabez_Olssen.png 2x" data-file-width="600" data-file-height="338"/></a><figcaption>Olssen in the special features of <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>.</figcaption></figure>
 
-**Jabez Olssen** ([August 5](/wiki/5_August "5 August"), [1975](/wiki/1975)) is a New Zealand film and television editor. He has extensively worked with [Peter Jackson](/wiki/Peter_Jackson), and was the editor for [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)"). He also worked as an assistant editor for *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*, and an additional editor for *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*.
+**Jabez Olssen** ([August 5](../_/5_August.md), [1975](../_/1975.md)) is a New Zealand film and television editor. He has extensively worked with [Peter Jackson](../P/Peter_Jackson.md), and was the editor for [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>). He also worked as an assistant editor for *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, and an additional editor for *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
 
 ## Roles {#Roles}
 
-- **[2013](/wiki/2013)**: *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)* - "<a class="new" href="/w/index.php?title=Fish_Monger&amp;action=edit&amp;redlink=1" title="Fish Monger (page does not exist)">Fish Monger</a>"
+- **[2013](../_/2013.md)**: *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Fish_Monger&amp;action=edit&amp;redlink=1" title="Fish Monger (page does not exist)">Fish Monger</a>"
 
 ## Awards {#Awards}
 
-- [2002](/wiki/2002) - <b><a class="external text" href="http://www.ofcs.org/" rel="noreferrer noopener" target="_blank">Online Film Critics Society Award</a></b>, Best Editing, with Michael J. Horton, *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+- [2002](../_/2002.md) - <b><a class="external text" href="http://www.ofcs.org/" rel="noreferrer noopener" target="_blank">Online Film Critics Society Award</a></b>, Best Editing, with Michael J. Horton, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2002 - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Las Vegas Film Critics Society Award</a></b>, Best Editing, with Michael J. Horton, *The Lord of the Rings: The Two Towers*
 
 ## External links {#External_links}

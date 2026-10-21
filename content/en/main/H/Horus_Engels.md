@@ -1,6 +1,5 @@
 ---
 title: "Horus Engels"
-display_title: "<span class=\"mw-page-title-main\">Horus Engels</span>"
 page_id: 19099
 namespace: 0
 revision_id: 154419
@@ -28,9 +27,9 @@ images:
   - "German_Hobbit-Cover.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:German_Hobbit-Cover.jpg"><img src="/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/220px-German_Hobbit-Cover.jpg" decoding="async" loading="lazy" width="220" height="338" class="mw-file-element" srcset="/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/330px-German_Hobbit-Cover.jpg 1.5x, /w/images/thumb/e/ea/German_Hobbit-Cover.jpg/440px-German_Hobbit-Cover.jpg 2x" data-file-width="482" data-file-height="741"/></a><figcaption>Engels&#39; cover for the first German <i>Hobbit</i>-Edition, 1957</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/German_Hobbit-Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/220px-German_Hobbit-Cover.jpg" decoding="async" loading="lazy" width="220" height="338" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/330px-German_Hobbit-Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/German_Hobbit-Cover.jpg/440px-German_Hobbit-Cover.jpg 2x" data-file-width="482" data-file-height="741"/></a><figcaption>Engels&#39; cover for the first German <i>Hobbit</i>-Edition, 1957</figcaption></figure>
 
-**Richard "Horus" Engels** ([1914](/wiki/1914)- [1991](/wiki/1991)) was a German painter, sculptor and illustrator.
+**Richard "Horus" Engels** ([1914](../_/1914.md)- [1991](../_/1991.md)) was a German painter, sculptor and illustrator.
 
 ## Life {#Life}
 
@@ -40,12 +39,12 @@ Engels put much detail and coloration in his illustration, as can be seen in his
 
 ## The Hobbit {#The_Hobbit}
 
-- In [1946](/wiki/1946) or [1945](/wiki/1945) Richard Engels contacted [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) for a German edition of *[The Hobbit](/wiki/The_Hobbit)* and sent him two illustrations (the [trolls](/wiki/Trolls "Trolls") and [Gollum](/wiki/Gollum)), which Tolkien found "too [Disnified](/wiki/The_Walt_Disney_Company "The Walt Disney Company")".
-- In [1957](/wiki/1957) the German publishing company Paulus Verlag published the first German translation of *The Hobbit* made by [Walter Scherf](/wiki/Walter_Scherf) as *Kleiner Hobbit und der große Zauberer* in which Engels' illustrations were printed.
+- In [1946](../_/1946.md) or [1945](../_/1945.md) Richard Engels contacted [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) for a German edition of *[The Hobbit](../T/The_Hobbit.md)* and sent him two illustrations (the [trolls](../T/Trolls.md) and [Gollum](../G/Gollum.md)), which Tolkien found "too [Disnified](../T/The_Walt_Disney_Company.md)".
+- In [1957](../_/1957.md) the German publishing company Paulus Verlag published the first German translation of *The Hobbit* made by [Walter Scherf](../W/Walter_Scherf.md) as *Kleiner Hobbit und der große Zauberer* in which Engels' illustrations were printed.
 
 ## References {#References}
 
 - <a class="external text" href="http://ardapedia.herr-der-ringe-film.de/index.php/Horus_Engels" rel="noreferrer noopener" target="_blank">Horus Engels at Ardapedia</a> (German)
 - <a class="external text" href="http://www.subud-sica.org/Sections/Gallery/Exhibits/Exhibits01/Engels/Parts/Main.html" rel="noreferrer noopener" target="_blank">Richard Engels at subud-sica.org</a>
-- [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [Humphrey Carpenter](/wiki/Humphrey_Carpenter), [Christopher Tolkien](/wiki/Christopher_Tolkien) (eds.), *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*, [Letter 107](/wiki/Letter_107) (dated [December 7](/wiki/7_December "7 December"), [1946](/wiki/1946))
-- [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [Douglas A. Anderson](/wiki/Douglas_A._Anderson), *[The Annotated Hobbit](/wiki/The_Annotated_Hobbit)*
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Humphrey Carpenter](Humphrey_Carpenter.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, [Letter 107](../L/Letter_107.md) (dated [December 7](../_/7_December.md), [1946](../_/1946.md))
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Douglas A. Anderson](../D/Douglas_A._Anderson.md), *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md)*

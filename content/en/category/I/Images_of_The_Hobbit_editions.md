@@ -17,4 +17,4 @@ sort_keys:
   "The Hobbit editions": "Hobbit"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> editions and translations</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> editions and translations</b>.</dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to William Cater"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to William Cater</span>"
 page_id: 68711
 namespace: 14
 revision_id: 408896
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Cater, William"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [William Cater](/wiki/William_Cater).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [William Cater](../../main/W/William_Cater.md).

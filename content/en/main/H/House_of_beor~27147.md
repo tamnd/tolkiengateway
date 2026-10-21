@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Bëor"
 ---
 
-Redirect to [House of Bëor](/wiki/House_of_Bëor).
+Redirect to [House of Bëor](House_of_Bëor.md).

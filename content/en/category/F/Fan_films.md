@@ -1,6 +1,5 @@
 ---
 title: "Category:Fan films"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fan films</span>"
 page_id: 12430
 namespace: 14
 revision_id: 336555
@@ -17,4 +16,4 @@ sort_keys:
   "Films": "Fan films"
 ---
 
-This category lists all **Fan films** relating to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **Fan films** relating to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

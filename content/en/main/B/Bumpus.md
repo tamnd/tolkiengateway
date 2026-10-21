@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lonely Troll"
 ---
 
-Redirect to [Lonely Troll](/wiki/Lonely_Troll).
+Redirect to [Lonely Troll](../L/Lonely_Troll.md).

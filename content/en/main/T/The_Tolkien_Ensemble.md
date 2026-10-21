@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Ensemble"
 ---
 
-Redirect to [Tolkien Ensemble](/wiki/Tolkien_Ensemble).
+Redirect to [Tolkien Ensemble](Tolkien_Ensemble.md).

@@ -1,6 +1,5 @@
 ---
 title: "Rov-"
-display_title: "<span class=\"mw-page-title-main\">Rov-</span>"
 page_id: 51307
 namespace: 0
 revision_id: 407142
@@ -13,23 +12,23 @@ categories:
   - "Sindarin prefixes"
 ---
 
-<i><b>rov-</b></i> is a [Sindarin](/wiki/Sindarin) prefix meaning wing.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>rov-</b></i> is a [Sindarin](../S/Sindarin.md) prefix meaning wing.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
 - **roval** = "wing"
-- **[Landroval](/wiki/Landroval)** = "Broad wing"
+- **[Landroval](../L/Landroval.md)** = "Broad wing"
 - **raw** = "wing"
 
 ## See also {#See_also}
 
-- [Quenya](/wiki/Quenya): *[ráma](/wiki/R%C3%A1ma "Ráma")*
+- [Quenya](../Q/Quenya.md): *[ráma](Ráma.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p.63</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p.63</span>
 </li>
 </ol></div>

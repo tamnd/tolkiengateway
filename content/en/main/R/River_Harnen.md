@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harnen"
 ---
 
-Redirect to [Harnen](/wiki/Harnen).
+Redirect to [Harnen](../H/Harnen.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Matthew Burton - Minas Morgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matthew Burton - Minas Morgul.jpg</span>"
 page_id: 48205
 namespace: 6
 revision_id: 257163
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Matthew Burton</li>
 <li><b>Website:</b> <a class="external text" href="http://mattburton.deviantart.com/" rel="noreferrer noopener" target="_blank">Matthew Burton&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Matthew_Burton" title="Tolkien Gateway:Copyrights/Matthew Burton">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMatthew_Burton.md" title="Tolkien Gateway:Copyrights/Matthew Burton">Permission for use on Tolkien Gateway</a></b></li></ul></div>

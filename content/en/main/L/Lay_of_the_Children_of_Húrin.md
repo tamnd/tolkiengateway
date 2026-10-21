@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of the Children of Húrin"
 ---
 
-Redirect to [The Lay of the Children of Húrin](/wiki/The_Lay_of_the_Children_of_Húrin).
+Redirect to [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md).

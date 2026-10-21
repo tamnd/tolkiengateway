@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Holbytla"
 ---
 
-Redirect to [Holbytla](/wiki/Holbytla).
+Redirect to [Holbytla](Holbytla.md).

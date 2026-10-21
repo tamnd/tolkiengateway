@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Limpë"
 ---
 
-Redirect to [Limpë](/wiki/Limpë).
+Redirect to [Limpë](Limpë.md).

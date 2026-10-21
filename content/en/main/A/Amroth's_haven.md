@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edhellond"
 ---
 
-Redirect to [Edhellond](/wiki/Edhellond).
+Redirect to [Edhellond](../E/Edhellond.md).

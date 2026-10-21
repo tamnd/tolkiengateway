@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Maps of Arda"
 ---
 
-Redirect to [Category:Maps of Arda](/wiki/Category:Maps_of_Arda).
+Redirect to [Category:Maps of Arda](../../category/M/Maps_of_Arda.md).

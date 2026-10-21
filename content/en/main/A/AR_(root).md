@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AR"
 ---
 
-Redirect to [AR](/wiki/AR).
+Redirect to [AR](AR~30509.md).

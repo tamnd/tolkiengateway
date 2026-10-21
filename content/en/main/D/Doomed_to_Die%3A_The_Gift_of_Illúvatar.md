@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doomed to Die: An A-Z of Death in Tolkien"
 ---
 
-Redirect to [Doomed to Die: An A-Z of Death in Tolkien](/wiki/Doomed_to_Die:_An_A-Z_of_Death_in_Tolkien).
+Redirect to [Doomed to Die: An A-Z of Death in Tolkien](https://tolkiengateway.net/wiki/Doomed_to_Die:_An_A-Z_of_Death_in_Tolkien).

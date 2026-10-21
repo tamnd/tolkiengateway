@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sylphs"
 ---
 
-Redirect to [Sylphs](/wiki/Sylphs).
+Redirect to [Sylphs](../S/Sylphs.md).

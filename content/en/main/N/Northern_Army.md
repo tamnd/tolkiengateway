@@ -1,6 +1,5 @@
 ---
 title: "Northern Army"
-display_title: "<span class=\"mw-page-title-main\">Northern Army</span>"
 page_id: 12496
 namespace: 0
 revision_id: 389741
@@ -18,15 +17,15 @@ langlinks:
     url: "https://kontu.wiki/Pohjoisarmeija"
 ---
 
-The **Northern Army** refers to the army that defended northern [Gondor](/wiki/Gondor) from the [Wainriders](/wiki/Wainriders) from the east in [T.A.](/wiki/Third_Age "Third Age") [1944](/wiki/Third_Age_1944 "Third Age 1944"). King [Ondoher](/wiki/Ondoher) led the Northern Army in the center along with his son [Artamir](/wiki/Artamir). His right flank was commanded by [Minohtar](/wiki/Minohtar), while his left flank was commanded by [Adrahil](</wiki/Adrahil_(Captain_of_the_Left_Wing)> "Adrahil (Captain of the Left Wing)"). The army was mostly destroyed in a battle near the [Black Gate](/wiki/Black_Gate) by the Wainriders, who slew Ondoher and Artamir as well.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However, when <a class="mw-redirect mw-disambig" href="/wiki/E%C3%A4rnil" title="Eärnil">Eärnil</a> and the [Southern Army](/wiki/Southern_Army) hastened north they gathered the remnants of the Northern Army into their ranks and defeated the Wainriders.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The **Northern Army** refers to the army that defended northern [Gondor](../G/Gondor.md) from the [Wainriders](../W/Wainriders.md) from the east in [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md). King [Ondoher](../O/Ondoher.md) led the Northern Army in the center along with his son [Artamir](../A/Artamir.md). His right flank was commanded by [Minohtar](../M/Minohtar.md), while his left flank was commanded by [Adrahil](<../A/Adrahil_(Captain_of_the_Left_Wing).md>). The army was mostly destroyed in a battle near the [Black Gate](../B/Black_Gate.md) by the Wainriders, who slew Ondoher and Artamir as well.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However, when <a class="mw-redirect mw-disambig" href="../E/Eärnil.md" title="Eärnil">Eärnil</a> and the [Southern Army](../S/Southern_Army.md) hastened north they gathered the remnants of the Northern Army into their ranks and defeated the Wainriders.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, (i) <i>The Northmen and the Wainriders</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, (i) <i>The Northmen and the Wainriders</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;</span>
 </li>
 </ol></div>

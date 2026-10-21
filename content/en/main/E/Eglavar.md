@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldamar"
 ---
 
-Redirect to [Eldamar](/wiki/Eldamar).
+Redirect to [Eldamar](Eldamar.md).

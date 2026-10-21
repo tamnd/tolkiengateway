@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Geoff Taylor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Geoff Taylor</span>"
 page_id: 8805
 namespace: 14
 revision_id: 182009

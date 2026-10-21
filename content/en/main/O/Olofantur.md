@@ -11,4 +11,4 @@ redirect_target: "Irmo"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Irmo](/wiki/Irmo#Etymology).
+Redirect to [Irmo](../I/Irmo.md#Etymology).

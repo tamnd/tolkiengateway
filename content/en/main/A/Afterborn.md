@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Apanónar"
 ---
 
-Redirect to [Apanónar](/wiki/Apanónar).
+Redirect to [Apanónar](Apanónar.md).

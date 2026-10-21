@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Konstantin Grigorjev"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Konstantin Grigorjev</span>"
 page_id: 66174
 namespace: 4
 revision_id: 381493
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Grigorjev, Konstantin"
 ---
 
-- Konstantin Grigorjev has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Konstantin_Grigorjev "Category:Images by Konstantin Grigorjev") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Konstantin Grigorjev has kindly granted his permission to use [his artwork](../../category/I/Images_by_Konstantin_Grigorjev.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 October 2023
-- User who sought the permission via DeviantArt: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission via DeviantArt: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

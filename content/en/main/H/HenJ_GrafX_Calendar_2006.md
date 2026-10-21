@@ -17,9 +17,9 @@ images:
   - "HenJ_GrafX_Calendar_2006.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:HenJ_GrafX_Calendar_2006.jpg"><img src="/w/images/thumb/e/e2/HenJ_GrafX_Calendar_2006.jpg/300px-HenJ_GrafX_Calendar_2006.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="/w/images/e/e2/HenJ_GrafX_Calendar_2006.jpg 1.5x" data-file-width="349" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/HenJ_GrafX_Calendar_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/HenJ_GrafX_Calendar_2006.jpg/300px-HenJ_GrafX_Calendar_2006.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e2/HenJ_GrafX_Calendar_2006.jpg 1.5x" data-file-width="349" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**HenJ GrafX Calendar 2006** was produced by [Henning Janssen](/wiki/Henning_Janssen) and features illustrations by Henning Janssen. The calendar was produced in a limited edition run of 111.
+**HenJ GrafX Calendar 2006** was produced by [Henning Janssen](Henning_Janssen.md) and features illustrations by Henning Janssen. The calendar was produced in a limited edition run of 111.
 
 - Dimensions: 11 3/4 x 11 3/4 inches
 - Wire bound

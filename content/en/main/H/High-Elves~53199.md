@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calaquendi"
 ---
 
-Redirect to [Calaquendi](/wiki/Calaquendi).
+Redirect to [Calaquendi](../C/Calaquendi.md).

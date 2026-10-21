@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Scrapbook"
 ---
 
-Redirect to [The Tolkien Scrapbook](/wiki/The_Tolkien_Scrapbook).
+Redirect to [The Tolkien Scrapbook](../T/The_Tolkien_Scrapbook.md).

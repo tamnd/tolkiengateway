@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/17 August 2008"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/17 August 2008</span>"
 page_id: 20006
 namespace: 4
 revision_id: 220802
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 17 August 2008</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 17 August 2008</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -81,60 +78,60 @@ sort_keys:
 <tr>
 <td>Welcome.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr>
 <tr>
 <td>Introduction of users.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
-<td><i>Ederchil&#39;s</i> <a href="/wiki/Tolkien_Gateway:Requests_for_adminship" title="Tolkien Gateway:Requests for adminship">nomination</a> for adminship and the <a href="/wiki/Tolkien_Gateway:Projects" title="Tolkien Gateway:Projects">sharing of responsibility</a> on the site.
+<td><i>Ederchil&#39;s</i> <a href="../R/Requests_for_adminship.md" title="Tolkien Gateway:Requests for adminship">nomination</a> for adminship and the <a href="../P/Projects.md" title="Tolkien Gateway:Projects">sharing of responsibility</a> on the site.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td>The <a href="/wiki/Tolkien_Gateway:Community_Portal" title="Tolkien Gateway:Community Portal">Community Portal</a>, if anything should be changed or added etc.<i> - Quick Discussion</i>
+<td>The <a href="../C/Community_Portal.md" title="Tolkien Gateway:Community Portal">Community Portal</a>, if anything should be changed or added etc.<i> - Quick Discussion</i>
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td>Policy regarding <a href="/wiki/The_Hobbit_(film_series)" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a> and the second film;  a clear policy concerning the in/exclusion of rumours and <a class="new" href="/w/index.php?title=Tolkien_Gateway:Spoilers&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Spoilers (page does not exist)">spoilers</a> - <i>second film especially</i>.
+<td>Policy regarding <a href="../../main/T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a> and the second film;  a clear policy concerning the in/exclusion of rumours and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Spoilers&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Spoilers (page does not exist)">spoilers</a> - <i>second film especially</i>.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
-<td>Tolkien Gateway <a href="/wiki/Category:Tolkien_Gateway" title="Category:Tolkien Gateway">namespace articles</a> and their categorization.
+<td>Tolkien Gateway <a href="../../category/T/Tolkien_Gateway.md" title="Category:Tolkien Gateway">namespace articles</a> and their categorization.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
-<td>Giving more articles a <a href="/wiki/Category:Pronounced_articles" title="Category:Pronounced articles">Pronounced</a> title, like what <a href="/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a> has done.
+<td>Giving more articles a <a href="../../category/P/Pronounced_articles.md" title="Category:Pronounced articles">Pronounced</a> title, like what <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a> has done.
 </td>
-<td><a href="/wiki/User:Quidon88" title="User:Quidon88">Quidon88</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Quidon88" title="User:Quidon88">Quidon88</a>
 </td></tr>
 <tr>
 <td>Improving the Featured Article system (rules, set up, etc.), a possible Improvement Drive (or at least a comprehensive system), amongst other things, such as an overhaul of Tolkien Gateway Projects.
 </td>
-<td width="125px"><a href="/wiki/User:Lord_Cutler_Beckett" title="User:Lord Cutler Beckett">Lord Cutler Beckett</a>
+<td width="125px"><a href="https://tolkiengateway.net/wiki/User:Lord_Cutler_Beckett" title="User:Lord Cutler Beckett">Lord Cutler Beckett</a>
 </td></tr>
 <tr>
 <td>End meeting.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Outcome {#Outcome}
 
-- [Ederchil](/wiki/User:Ederchil "User:Ederchil") was made an admin, due to unanimous positivity of the nomination.
-- The [sharing of responsibility](/wiki/Tolkien_Gateway:Projects "Tolkien Gateway:Projects") was discussed, with new projects being created and users volunteering to become supervisors of these projects.
-- The [Community Portal](/wiki/Tolkien_Gateway:Community_Portal "Tolkien Gateway:Community Portal") includes everything it requires for now, although it will need to change as the site grows.
-- In regards to spoilers and rumours about the upcoming [adaptations](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)") by Guillermo del Toro's, it was decided a rumours section should be made and that it clearly state that it is unconfirmed information. In regards to pictures, it was suggested that only good quality pictures be added to the rumours section; however this discussion should continue next week.
-- Articles should be categorized more specifically, especially the Tolkien Gateway [namespace articles](/wiki/Category:Tolkien_Gateway "Category:Tolkien Gateway").
-- [Quidon88](/wiki/User:Quidon88 "User:Quidon88") has volunteered to record more pronunciations for titles of articles; all current and future pronunciations should soon use the new audio player. Quidon88 will post them on his user page before including them in articles so others can check them. Getting actors like Christopher Lee was also mooted to read our pronunciations! – Or more likely copy words from his recording of The Children of Húrin.
+- [Ederchil](https://tolkiengateway.net/wiki/User:Ederchil) was made an admin, due to unanimous positivity of the nomination.
+- The [sharing of responsibility](../P/Projects.md) was discussed, with new projects being created and users volunteering to become supervisors of these projects.
+- The [Community Portal](../C/Community_Portal.md) includes everything it requires for now, although it will need to change as the site grows.
+- In regards to spoilers and rumours about the upcoming [adaptations](<../../main/T/The_Hobbit_(film_series).md>) by Guillermo del Toro's, it was decided a rumours section should be made and that it clearly state that it is unconfirmed information. In regards to pictures, it was suggested that only good quality pictures be added to the rumours section; however this discussion should continue next week.
+- Articles should be categorized more specifically, especially the Tolkien Gateway [namespace articles](../../category/T/Tolkien_Gateway.md).
+- [Quidon88](https://tolkiengateway.net/wiki/User:Quidon88) has volunteered to record more pronunciations for titles of articles; all current and future pronunciations should soon use the new audio player. Quidon88 will post them on his user page before including them in articles so others can check them. Getting actors like Christopher Lee was also mooted to read our pronunciations! – Or more likely copy words from his recording of The Children of Húrin.
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/17_August_2008 "Tolkien Gateway talk:Meetings/17 August 2008")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/17_August_2008/Transcript "Tolkien Gateway:Meetings/17 August 2008/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/17_August_2008)
+- [Transcript](Meetings%252F17_August_2008%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

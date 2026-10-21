@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thrór"
 ---
 
-Redirect to [Thrór](/wiki/Thrór).
+Redirect to [Thrór](Thrór.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bard"
 ---
 
-Redirect to [Bard](/wiki/Bard).
+Redirect to [Bard](../B/Bard.md).

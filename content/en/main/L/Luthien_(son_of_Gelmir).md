@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien (son of Gelmir)"
 ---
 
-Redirect to [Lúthien (son of Gelmir)](/wiki/Lúthien_(son_of_Gelmir)).
+Redirect to [Lúthien (son of Gelmir)](<Lúthien_(son_of_Gelmir).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Puzzles"
 ---
 
-Redirect to [Category:Puzzles](/wiki/Category:Puzzles).
+Redirect to [Category:Puzzles](../../category/P/Puzzles.md).

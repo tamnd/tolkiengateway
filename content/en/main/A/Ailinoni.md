@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ailinónë"
 ---
 
-Redirect to [Ailinónë](/wiki/Ailinónë).
+Redirect to [Ailinónë](Ailinónë.md).

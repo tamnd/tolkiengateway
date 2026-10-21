@@ -1,6 +1,5 @@
 ---
 title: "File:Alystraea - Amarie of the Vanyar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alystraea - Amarie of the Vanyar.jpg</span>"
 page_id: 62318
 namespace: 6
 revision_id: 351844
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Alystraea</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/annamare" rel="noreferrer noopener" target="_blank">Alystraea on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alystraea" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlystraea.md" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>

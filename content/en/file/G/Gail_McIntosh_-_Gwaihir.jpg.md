@@ -1,6 +1,5 @@
 ---
 title: "File:Gail McIntosh - Gwaihir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gail McIntosh - Gwaihir.jpg</span>"
 page_id: 71542
 namespace: 6
 revision_id: 440830
@@ -33,27 +32,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gail McIntosh - Gwaihir.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Gwaihir" title="Gwaihir">Gwaihir</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/G/Gwaihir.md" title="Gwaihir">Gwaihir</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Gail_McIntosh" title="Gail McIntosh">Gail McIntosh</a></td>
+<td><a href="../../main/G/Gail_McIntosh.md" title="Gail McIntosh">Gail McIntosh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Extracted from a card scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

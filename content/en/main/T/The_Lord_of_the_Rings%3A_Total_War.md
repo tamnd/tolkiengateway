@@ -13,7 +13,7 @@ categories:
   - "Modifications"
 ---
 
-**The Lord of the Rings: Total War**, or simply **tlotrtw**, is a modification for the PC-game <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rome:_Total_War" title="wikipedia:Rome: Total War">Rome: Total War</a></i> of the Total War series by <a class="extiw" href="http://en.wikipedia.org/wiki/Sega" title="wikipedia:Sega">Sega</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Activision" title="wikipedia:Activision">Activision</a>. It changes Europe's map to a map of [Middle-earth](/wiki/Middle-earth), while retaining the turn-based strategic gameplay and real-time battles of the original. A simular project is [Third Age: Total War](/wiki/Third_Age:_Total_War).
+**The Lord of the Rings: Total War**, or simply **tlotrtw**, is a modification for the PC-game <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rome:_Total_War" title="wikipedia:Rome: Total War">Rome: Total War</a></i> of the Total War series by <a class="extiw" href="http://en.wikipedia.org/wiki/Sega" title="wikipedia:Sega">Sega</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Activision" title="wikipedia:Activision">Activision</a>. It changes Europe's map to a map of [Middle-earth](../M/Middle-earth.md), while retaining the turn-based strategic gameplay and real-time battles of the original. A simular project is [Third Age: Total War](Third_Age%253A_Total_War.md).
 
 ## External Liks {#External_Liks}
 

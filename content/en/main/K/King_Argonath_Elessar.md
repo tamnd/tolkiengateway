@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:King Argonath Elessar"
 ---
 
-Redirect to [User:King Argonath Elessar](/wiki/User:King_Argonath_Elessar).
+Redirect to [User:King Argonath Elessar](https://tolkiengateway.net/wiki/User:King_Argonath_Elessar).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Buckland"
 ---
 
-Redirect to [Buckland](/wiki/Buckland).
+Redirect to [Buckland](../B/Buckland.md).

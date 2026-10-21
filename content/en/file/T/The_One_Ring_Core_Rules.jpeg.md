@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring Core Rules.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring Core Rules.jpeg</span>"
 page_id: 72831
 namespace: 6
 revision_id: 441764
@@ -35,18 +34,14 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Martin_Grip" title="Martin Grip">Martin Grip</a></td>
+<td><a href="../../main/M/Martin_Grip.md" title="Martin Grip">Martin Grip</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://freeleaguepublishing.com/press/" rel="noreferrer noopener" target="_blank">Free League Press Materials</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bucca of the Marish"
 ---
 
-Redirect to [Bucca of the Marish](/wiki/Bucca_of_the_Marish).
+Redirect to [Bucca of the Marish](Bucca_of_the_Marish.md).

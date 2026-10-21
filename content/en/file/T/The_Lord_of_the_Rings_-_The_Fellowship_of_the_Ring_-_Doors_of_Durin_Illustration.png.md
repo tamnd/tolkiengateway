@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Doors of Durin Illustration.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Doors of Durin Illustration.png</span>"
 page_id: 73807
 namespace: 6
 revision_id: 435930
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Fellowship of the Ring - Doors of Durin Illustration.png</span></th>
 <td class="description">
-<p>Drawing of <a href="/wiki/Doors_of_Durin" title="Doors of Durin">the Doors of Durin</a> in <a href="/wiki/Saruman" title="Saruman">Saruman</a>&#39;s book from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
+<p>Drawing of <a href="../../main/D/Doors_of_Durin.md" title="Doors of Durin">the Doors of Durin</a> in <a href="../../main/S/Saruman.md" title="Saruman">Saruman</a>&#39;s book from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/19_December" title="19 December">December 19</a> <a href="/wiki/2001" title="2001">2001</a></td>
+<td><a href="../../main/_/19_December.md" title="19 December">December 19</a> <a href="../../main/_/2001.md" title="2001">2001</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Daniel_Reeve" title="Daniel Reeve">Daniel Reeve</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+<td><a href="../../main/D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://web.archive.org/web/20260305131759/http://pblancho.free.fr/lotr/SB_5.jpg" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

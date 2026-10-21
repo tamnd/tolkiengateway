@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matěj Čadil - Presently Sam Appeared.jpg"
 ---
 
-Redirect to [File:Matěj Čadil - Presently Sam Appeared.jpg](/wiki/File:Matěj_Čadil_-_Presently_Sam_Appeared.jpg).
+Redirect to [File:Matěj Čadil - Presently Sam Appeared.jpg](../M/Matěj_Čadil_-_Presently_Sam_Appeared.jpg.md).

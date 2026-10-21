@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Nils Ivar Agøy"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Nils Ivar Agøy</span>"
 page_id: 36652
 namespace: 4
 revision_id: 193172
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Avoy, Nils Ivar"
 ---
 
-- Permission granted through email by copyright holder [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y) to use [Nils Ivar Agøy.png](/wiki/File:Nils_Ivar_Ag%C3%B8y.png "File:Nils Ivar Agøy.png") on Tolkien Gateway.
+- Permission granted through email by copyright holder [Nils Ivar Agøy](../../main/N/Nils_Ivar_Agøy.md) to use [Nils Ivar Agøy.png](../../file/N/Nils_Ivar_Agøy.png.md) on Tolkien Gateway.
 - Date: 29 October 2011
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

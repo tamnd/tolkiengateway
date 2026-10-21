@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Films"
 ---
 
-Redirect to [Category:Films](/wiki/Category:Films).
+Redirect to [Category:Films](../../category/F/Films.md).

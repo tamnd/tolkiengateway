@@ -1,6 +1,5 @@
 ---
 title: "File:TheFiveWizards.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TheFiveWizards.jpeg</span>"
 page_id: 73690
 namespace: 6
 revision_id: 439954
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>mairon666 &amp; Mike “Daarken” Lim</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/mairon666/art/The-ISTARI-889173265" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

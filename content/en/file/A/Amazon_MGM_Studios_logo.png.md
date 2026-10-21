@@ -1,6 +1,5 @@
 ---
 title: "File:Amazon MGM Studios logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amazon MGM Studios logo.png</span>"
 page_id: 67056
 namespace: 6
 revision_id: 389106

@@ -1,6 +1,5 @@
 ---
 title: "Category:South African people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">South African people</span>"
 page_id: 64997
 namespace: 14
 revision_id: 374402

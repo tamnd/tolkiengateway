@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AD"
 ---
 
-Redirect to [AD](/wiki/AD).
+Redirect to [AD](AD.md).

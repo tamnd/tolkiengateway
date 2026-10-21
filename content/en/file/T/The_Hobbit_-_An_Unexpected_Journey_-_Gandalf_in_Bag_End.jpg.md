@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Gandalf in Bag End.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Gandalf in Bag End.jpg</span>"
 page_id: 35153
 namespace: 6
 revision_id: 254217

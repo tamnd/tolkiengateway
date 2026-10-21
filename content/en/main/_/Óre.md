@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Órë"
 ---
 
-Redirect to [Órë](/wiki/Órë).
+Redirect to [Órë](Órë.md).

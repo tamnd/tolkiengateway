@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tethil"
 ---
 
-Redirect to [Tethil](/wiki/Tethil).
+Redirect to [Tethil](Tethil.md).

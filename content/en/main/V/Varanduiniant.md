@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandywine Bridge"
 ---
 
-Redirect to [Brandywine Bridge](/wiki/Brandywine_Bridge).
+Redirect to [Brandywine Bridge](../B/Brandywine_Bridge.md).

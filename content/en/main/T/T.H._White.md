@@ -1,6 +1,5 @@
 ---
 title: "T.H. White"
-display_title: "<span class=\"mw-page-title-main\">T.H. White</span>"
 page_id: 33116
 namespace: 0
 revision_id: 150979
@@ -21,13 +20,13 @@ images:
   - "Sword_in_the_Stone.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Sword_in_the_Stone.jpg"><img src="/w/images/a/a3/Sword_in_the_Stone.jpg" decoding="async" loading="lazy" width="288" height="400" class="mw-file-element" data-file-width="288" data-file-height="400"/></a><figcaption>Cover of White&#39;s <i>The Sword in the Stone</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sword_in_the_Stone.jpg.md"><img src="https://tolkiengateway.net/w/images/a/a3/Sword_in_the_Stone.jpg" decoding="async" loading="lazy" width="288" height="400" class="mw-file-element" data-file-width="288" data-file-height="400"/></a><figcaption>Cover of White&#39;s <i>The Sword in the Stone</i></figcaption></figure>
 
 **Terence Hanbury White** (29 May 1906 – 17 January 1964) was an English author best known for his sequence of Arthurian novels, <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Once_and_Future_King" title="wikipedia:The Once and Future King">The Once and Future King</a></i>.
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote that he had read White's novel <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Sword_in_the_Stone" title="wikipedia:The Sword in the Stone">The Sword in the Stone</a></i> (published in [1938](/wiki/1938)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-LP_3-0" class="reference"><a href="#cite_note-LP-3">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote that he had read White's novel <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Sword_in_the_Stone" title="wikipedia:The Sword in the Stone">The Sword in the Stone</a></i> (published in [1938](../_/1938.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup><sup id="cite_ref-LP_3-0" class="reference"><a href="#cite_note-LP-3">[2]</a></sup>
 
-[Richard C. West](/wiki/Richard_C._West) has published an article, "Contemporary Medieval Authors" (*[Orcrist](/wiki/Orcrist)* 3/*Tolkien Journal* whole no. 11; January 1970), in which Tolkien, White and [C.S. Lewis](/wiki/C.S._Lewis) are compared. [Tom Shippey](/wiki/Tom_Shippey) mentions White, Tolkien, <a class="extiw" href="http://en.wikipedia.org/wiki/William_Golding" title="wikipedia:William Golding">Golding</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/George_Orwell" title="wikipedia:George Orwell">Orwell</a>, and others, in a "*discussion of postwar English writers*", in *[J.R.R. Tolkien: Author of the Century](/wiki/J.R.R._Tolkien:_Author_of_the_Century)*.<sup id="cite_ref-LP_3-1" class="reference"><a href="#cite_note-LP-3">[2]</a></sup>
+[Richard C. West](../R/Richard_C._West.md) has published an article, "Contemporary Medieval Authors" (*[Orcrist](../O/Orcrist.md)* 3/*Tolkien Journal* whole no. 11; January 1970), in which Tolkien, White and [C.S. Lewis](../C/C.S._Lewis.md) are compared. [Tom Shippey](Tom_Shippey.md) mentions White, Tolkien, <a class="extiw" href="http://en.wikipedia.org/wiki/William_Golding" title="wikipedia:William Golding">Golding</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/George_Orwell" title="wikipedia:George Orwell">Orwell</a>, and others, in a "*discussion of postwar English writers*", in *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)*.<sup id="cite_ref-LP_3-1" class="reference"><a href="#cite_note-LP-3">[2]</a></sup>
 
 ## External links {#External_links}
 
@@ -36,7 +35,7 @@ images:
 ## Notes {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien&#39;s statement is found in an unpublished manuscript, kept with restricted access at the <a href="/wiki/Bodleian_Library" title="Bodleian Library">Bodleian Library</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien&#39;s statement is found in an unpublished manuscript, kept with restricted access at the <a href="../B/Bodleian_Library.md" title="Bodleian Library">Bodleian Library</a>.</span>
 </li>
 </ol></div></span>
 
@@ -44,7 +43,7 @@ images:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), &#34;Reading&#34;, p. 818</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), &#34;Reading&#34;, p. 818</span>
 </li>
 <li id="cite_note-LP-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LP_3-0">2.0</a></sup> <sup><a href="#cite_ref-LP_3-1">2.1</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=235623" rel="noreferrer noopener" target="_blank">Tolkien and T. H. White</a> at <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Lotrplaza.com</a> (accessed 4 May 2011)</span>
 </li>

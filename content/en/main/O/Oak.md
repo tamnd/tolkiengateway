@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oaks"
 ---
 
-Redirect to [Oaks](/wiki/Oaks).
+Redirect to [Oaks](Oaks.md).

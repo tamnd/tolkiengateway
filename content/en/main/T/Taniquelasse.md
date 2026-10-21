@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taniquelassë"
 ---
 
-Redirect to [Taniquelassë](/wiki/Taniquelassë).
+Redirect to [Taniquelassë](Taniquelassë.md).

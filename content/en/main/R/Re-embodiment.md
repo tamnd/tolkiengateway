@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laws and Customs among the Eldar"
 ---
 
-Redirect to [Laws and Customs among the Eldar](/wiki/Laws_and_Customs_among_the_Eldar).
+Redirect to [Laws and Customs among the Eldar](../L/Laws_and_Customs_among_the_Eldar.md).

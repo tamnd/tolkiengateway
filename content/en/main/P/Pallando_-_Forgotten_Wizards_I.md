@@ -1,6 +1,5 @@
 ---
 title: "Pallando - Forgotten Wizards I"
-display_title: "<span class=\"mw-page-title-main\">Pallando - Forgotten Wizards I</span>"
 page_id: 22665
 namespace: 0
 revision_id: 210491
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Pallando - Forgotten Wizards I</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore) about [Pallando](/wiki/Blue_Wizards "Blue Wizards"). It appears in their third full-length album, [Third Age of the Sun](/wiki/Third_Age_of_the_Sun).
+<i><b>Pallando - Forgotten Wizards I</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md) about [Pallando](../B/Blue_Wizards.md). It appears in their third full-length album, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lyrics {#Lyrics}
 

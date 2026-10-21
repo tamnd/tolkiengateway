@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ents of Fangorn"
 ---
 
-Redirect to [Ents of Fangorn](/wiki/Ents_of_Fangorn).
+Redirect to [Ents of Fangorn](../E/Ents_of_Fangorn.md).

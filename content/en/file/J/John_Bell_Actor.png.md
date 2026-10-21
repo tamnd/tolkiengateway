@@ -1,6 +1,5 @@
 ---
 title: "File:John Bell Actor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Bell Actor.png</span>"
 page_id: 68884
 namespace: 6
 revision_id: 412490

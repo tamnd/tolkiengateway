@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gothmog (disambiguation)"
 ---
 
-Redirect to [Gothmog (disambiguation)](/wiki/Gothmog_(disambiguation)).
+Redirect to [Gothmog (disambiguation)](<Gothmog_(disambiguation).md>).

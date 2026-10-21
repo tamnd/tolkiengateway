@@ -1,6 +1,5 @@
 ---
 title: "File:Swords and Sorcery.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Swords and Sorcery.png</span>"
 page_id: 37958
 namespace: 6
 revision_id: 214609

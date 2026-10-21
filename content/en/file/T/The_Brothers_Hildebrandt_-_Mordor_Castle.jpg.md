@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Brothers Hildebrandt - The Dark Tower (Sketch).jpg"
 ---
 
-Redirect to [File:The Brothers Hildebrandt - The Dark Tower (Sketch).jpg](/wiki/File:The_Brothers_Hildebrandt_-_The_Dark_Tower_(Sketch).jpg).
+Redirect to [File:The Brothers Hildebrandt - The Dark Tower (Sketch).jpg](<The_Brothers_Hildebrandt_-_The_Dark_Tower_(Sketch).jpg.md>).

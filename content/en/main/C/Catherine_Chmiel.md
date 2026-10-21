@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Catherine Karina Chmiel"
 ---
 
-Redirect to [Catherine Karina Chmiel](/wiki/Catherine_Karina_Chmiel).
+Redirect to [Catherine Karina Chmiel](Catherine_Karina_Chmiel.md).

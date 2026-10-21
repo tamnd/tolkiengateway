@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Elros"
 ---
 
-Redirect to [House of Elros](/wiki/House_of_Elros).
+Redirect to [House of Elros](../H/House_of_Elros.md).

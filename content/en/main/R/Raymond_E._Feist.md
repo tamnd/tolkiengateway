@@ -1,6 +1,5 @@
 ---
 title: "Raymond E. Feist"
-display_title: "<span class=\"mw-page-title-main\">Raymond E. Feist</span>"
 page_id: 29690
 namespace: 0
 revision_id: 408905
@@ -21,17 +20,17 @@ images:
   - "Raymond_E._Feist.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Raymond_E._Feist.jpg"><img src="/w/images/7/74/Raymond_E._Feist.jpg" decoding="async" loading="lazy" width="250" height="375" class="mw-file-element" data-file-width="250" data-file-height="375"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raymond_E._Feist.jpg.md"><img src="https://tolkiengateway.net/w/images/7/74/Raymond_E._Feist.jpg" decoding="async" loading="lazy" width="250" height="375" class="mw-file-element" data-file-width="250" data-file-height="375"/></a><figcaption></figcaption></figure>
 
-**Raymond Elias Feist** (born [1945](/wiki/1945)) is an American author who primarily writes fantasy fiction.
+**Raymond Elias Feist** (born [1945](../_/1945.md)) is an American author who primarily writes fantasy fiction.
 
-In his fictional world <a class="extiw" href="http://en.wikipedia.org/wiki/Midkemia" title="wikipedia:Midkemia">Midkemia</a>, the Elves are known by [names](/wiki/Elvish#Other_Elvish_languages "Elvish") which are directly inspired by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [Sindarin](/wiki/Sindarin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In his fictional world <a class="extiw" href="http://en.wikipedia.org/wiki/Midkemia" title="wikipedia:Midkemia">Midkemia</a>, the Elves are known by [names](../E/Elvish.md#Other_Elvish_languages) which are directly inspired by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [2001](/wiki/2001): *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*
+- [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
     - "Our Grandfather: Meditations on J.R.R. Tolkien"
 
 ## External links {#External_links}
@@ -44,6 +43,6 @@ In his fictional world <a class="extiw" href="http://en.wikipedia.org/wiki/Midke
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Raymond E. Feist (2 July 1998)</span>. <span class="cite-web-article"><a class="external text" href="https://www.crydee.com/raymond-feist/faq/2724/why-do-elven-names-like-moredhel-sound-like-tolkein" rel="noreferrer noopener" target="_blank">&#34;Why do elven names like Moredhel sound like Tolkein&#34;</a></span>. <span class="cite-web-website">Crydee.com - &#34;The official Raymond E. Feist website&#34;</span>. <span class="cite-web-accessed">Retrieved 2 September 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Raymond E. Feist (2 July 1998)</span>. <span class="cite-web-article"><a class="external text" href="https://www.crydee.com/raymond-feist/faq/2724/why-do-elven-names-like-moredhel-sound-like-tolkein" rel="noreferrer noopener" target="_blank">&#34;Why do elven names like Moredhel sound like Tolkein&#34;</a></span>. <span class="cite-web-website">Crydee.com - &#34;The official Raymond E. Feist website&#34;</span>. <span class="cite-web-accessed">Retrieved 2 September 2024</span></cite></span>
 </li>
 </ol></div>

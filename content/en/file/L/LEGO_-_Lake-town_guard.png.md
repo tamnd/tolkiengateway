@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Lake-town guard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Lake-town guard.png</span>"
 page_id: 73170
 namespace: 6
 revision_id: 433015
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lake-town guard](/wiki/Captain_of_the_guard#Portrayal_in_adaptations "Captain of the guard") - [LEGO](/wiki/Lego "Lego") minifigure
+[Lake-town guard](../../main/C/Captain_of_the_guard.md#Portrayal_in_adaptations) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

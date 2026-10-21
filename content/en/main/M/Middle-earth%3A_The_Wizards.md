@@ -1,6 +1,5 @@
 ---
 title: "Middle-earth: The Wizards"
-display_title: "<span class=\"mw-page-title-main\">Middle-earth: The Wizards</span>"
 page_id: 25865
 namespace: 0
 revision_id: 438748
@@ -38,20 +37,17 @@ infobox:
     value: "Middle-earth: The Dragons"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Middle-earth_The_Wizards_logo.png"><img src="/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/320px-Middle-earth_The_Wizards_logo.png" decoding="async" loading="lazy" width="320" height="127" class="mw-file-element" srcset="/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/480px-Middle-earth_The_Wizards_logo.png 1.5x, /w/images/1/17/Middle-earth_The_Wizards_logo.png 2x" data-file-width="595" data-file-height="237"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="/wiki/Coleman_Charlton" title="Coleman Charlton">Coleman Charlton</a>, <a class="new" href="/w/index.php?title=John_W._Curtis_III&amp;action=edit&amp;redlink=1" title="John W. Curtis III (page does not exist)">John W. Curtis III</a>, <a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Pete Fenlon</a>, <a class="new" href="/w/index.php?title=Jason_Hawkins&amp;action=edit&amp;redlink=1" title="Jason Hawkins (page does not exist)">Jason Hawkins</a>, <a href="/wiki/Mike_Reynolds" title="Mike Reynolds">Mike Reynolds</a><sup id="cite_ref-companion_1-0" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Coleman Charlton, Mike Reynolds<sup id="cite_ref-companion_1-1" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="/wiki/1995" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">484</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">METW</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="/wiki/Middle-earth:_The_Dragons" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_The_Wizards_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/320px-Middle-earth_The_Wizards_logo.png" decoding="async" loading="lazy" width="320" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/480px-Middle-earth_The_Wizards_logo.png 1.5x, https://tolkiengateway.net/w/images/1/17/Middle-earth_The_Wizards_logo.png 2x" data-file-width="595" data-file-height="237"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_W._Curtis_III&amp;action=edit&amp;redlink=1" title="John W. Curtis III (page does not exist)">John W. Curtis III</a>, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Hawkins&amp;action=edit&amp;redlink=1" title="Jason Hawkins (page does not exist)">Jason Hawkins</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a><sup id="cite_ref-companion_1-0" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Coleman Charlton, Mike Reynolds<sup id="cite_ref-companion_1-1" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">484</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">METW</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+**Middle-earth: The Wizards**, released in [1995](../_/1995.md), was the inaugural basic set for the *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*.
 
-**Middle-earth: The Wizards**, released in [1995](/wiki/1995), was the inaugural basic set for the *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)*.
+*The Wizards* deals with the *good* side, and includes most of main characters from the books, like [Gandalf](../G/Gandalf.md), [Frodo](../F/Frodo_Baggins.md) and [Aragorn](../A/Aragorn.md). The set features a pretty straightforward gameplay with relatively simple *marshalling point* cards and *hazard creatures*.
 
-*The Wizards* deals with the *good* side, and includes most of main characters from the books, like [Gandalf](/wiki/Gandalf), [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") and [Aragorn](/wiki/Aragorn). The set features a pretty straightforward gameplay with relatively simple *marshalling point* cards and *hazard creatures*.
-
-*The Wizards* was sold in starters and booster packs. A booster pack (15 cards, 36 boosters per display) held 1 rare, 3 uncommons, and 11 commons. A starter held a fixed set (at random), 3 rares, 9 uncommons, and 40 commons. A corresponding [companion](/wiki/Middle-earth:_The_Wizards_Companion "Middle-earth: The Wizards Companion") and [player guide](/wiki/Middle-earth:_The_Wizards_Player_Guide "Middle-earth: The Wizards Player Guide") were also released.
+*The Wizards* was sold in starters and booster packs. A booster pack (15 cards, 36 boosters per display) held 1 rare, 3 uncommons, and 11 commons. A starter held a fixed set (at random), 3 rares, 9 uncommons, and 40 commons. A corresponding [companion](Middle-earth%253A_The_Wizards_Companion.md) and [player guide](Middle-earth%253A_The_Wizards_Player_Guide.md) were also released.
 
 ## Card list {#Card_list}
 
 <table class="wikitable mw-collapsible mw-collapsed">
-<!-- -->
 <tbody><tr>
 <th>Card name
 </th>
@@ -68,7 +64,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><style data-mw-deduplicate="TemplateStyles:r413278">.mw-parser-output .ext-floatingui-floating-content{display:block}</style><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Gandalf
@@ -77,7 +73,7 @@ infobox:
 </td>
 <td>Olivier Frot
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Pallando
@@ -86,7 +82,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Radagast
@@ -95,7 +91,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Saruman
@@ -104,7 +100,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Adrazar
@@ -113,7 +109,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Anborn
@@ -122,7 +118,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Annalena
@@ -131,7 +127,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Aragorn II
@@ -140,7 +136,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Arinmîr
@@ -149,7 +145,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Arwen
@@ -158,7 +154,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Balin
@@ -167,7 +163,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Bard Bowman
@@ -176,7 +172,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Barliman Butterbur
@@ -185,7 +181,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Beorn
@@ -194,7 +190,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Beregond
@@ -203,7 +199,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Beretar
@@ -212,7 +208,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Bergil
@@ -221,7 +217,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Bifur
@@ -230,7 +226,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Bilbo
@@ -239,7 +235,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Bofur
@@ -248,7 +244,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Bombur
@@ -257,7 +253,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Boromir II
@@ -266,7 +262,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Celeborn
@@ -275,7 +271,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Círdan
@@ -284,7 +280,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dáin II
@@ -293,7 +289,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Damrod
@@ -302,7 +298,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Denethor II
@@ -311,7 +307,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dori
@@ -320,7 +316,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dwalin
@@ -329,7 +325,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Elladan
@@ -338,7 +334,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Elrohir
@@ -347,7 +343,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Elrond
@@ -356,7 +352,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Éomer
@@ -365,7 +361,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Éowyn
@@ -374,7 +370,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Erkenbrand
@@ -383,7 +379,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Faramir
@@ -392,7 +388,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Fíli
@@ -401,7 +397,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Forlong
@@ -410,7 +406,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Frodo
@@ -419,7 +415,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Galadriel
@@ -428,7 +424,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Galva
@@ -437,7 +433,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Gamling the Old
@@ -446,7 +442,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Ghán-buri-Ghán
@@ -455,7 +451,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Gildor Inglorion
@@ -464,7 +460,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Gimli
@@ -473,7 +469,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Glóin
@@ -482,7 +478,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Glorfindel II
@@ -491,7 +487,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Halbarad
@@ -500,7 +496,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Haldalam
@@ -509,7 +505,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Haldir
@@ -518,7 +514,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Háma
@@ -527,7 +523,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Imrahil
@@ -536,7 +532,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Kíli
@@ -545,7 +541,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Legolas
@@ -554,7 +550,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Mablung
@@ -563,7 +559,7 @@ infobox:
 </td>
 <td>Margaret Organ-Kean
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Merry
@@ -572,7 +568,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Nori
@@ -581,7 +577,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Óin
@@ -590,7 +586,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Ori
@@ -599,7 +595,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Orophin
@@ -608,7 +604,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Peath
@@ -617,7 +613,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Pippin
@@ -626,7 +622,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Robin Smallburrow
@@ -635,7 +631,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Sam Gamgee
@@ -644,7 +640,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Théoden
@@ -653,7 +649,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Thorin II
@@ -662,7 +658,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Thranduil
@@ -671,7 +667,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Vôteli
@@ -680,7 +676,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Vygavril
@@ -689,7 +685,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Wacho
@@ -698,7 +694,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Bill the Pony
@@ -707,7 +703,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Goldberry
@@ -716,7 +712,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Gollum
@@ -725,7 +721,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Gwaihir
@@ -734,7 +730,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Leaflock
@@ -743,7 +739,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Quickbeam
@@ -752,7 +748,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Roäc the Raven
@@ -761,7 +757,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Shadowfax
@@ -770,7 +766,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Skinbark
@@ -779,7 +775,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Tom Bombadil
@@ -788,7 +784,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Treebeard
@@ -797,7 +793,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Army of the Dead
@@ -806,7 +802,7 @@ infobox:
 </td>
 <td>Lubov
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Beornings
@@ -815,7 +811,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Blue Mountain Dwarves
@@ -824,7 +820,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dunlendings
@@ -833,7 +829,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Easterlings
@@ -842,7 +838,7 @@ infobox:
 </td>
 <td>Heather Hudson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Elves of Lindon
@@ -851,7 +847,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ents of Fangorn
@@ -860,7 +856,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Hillmen
@@ -869,7 +865,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Hobbits
@@ -878,7 +874,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Iron Hill Dwarves
@@ -887,7 +883,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Knights of Dol Amroth
@@ -896,7 +892,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Lossoth
@@ -905,7 +901,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Men of Anfalas
@@ -914,7 +910,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Men of Anórien
@@ -923,7 +919,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Men of Dorwinion
@@ -932,7 +928,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Men of Lamedon
@@ -941,7 +937,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Men of Lebennin
@@ -950,7 +946,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Men of Northern Rhovanion
@@ -959,7 +955,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Rangers of Ithilien
@@ -968,7 +964,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Rangers of the North
@@ -977,7 +973,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Riders of Rohan
@@ -986,7 +982,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Southrons
@@ -995,7 +991,7 @@ infobox:
 </td>
 <td>Brian Snoddy
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Great Eagles
@@ -1004,7 +1000,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Tower Guard of Minas Tirith
@@ -1013,7 +1009,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Variags of Khand
@@ -1022,7 +1018,7 @@ infobox:
 </td>
 <td>Heather Hudson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Wood-elves
@@ -1031,7 +1027,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Woodmen
@@ -1040,7 +1036,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Woses of Old Pûkel-land
@@ -1049,7 +1045,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Woses of the Drúadan Forest
@@ -1058,7 +1054,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Athelas
@@ -1067,7 +1063,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Beautiful Gold Ring
@@ -1076,7 +1072,7 @@ infobox:
 </td>
 <td>Larry Forcella
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Book of Mazarbul
@@ -1085,7 +1081,7 @@ infobox:
 </td>
 <td>N. Taylor Blanchard
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dagger of Westernesse
@@ -1094,7 +1090,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Durin&#39;s Axe
@@ -1103,7 +1099,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Barin&#39;s Tribe
@@ -1112,7 +1108,7 @@ infobox:
 </td>
 <td>Storn Cook
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Bávor&#39;s Tribe
@@ -1121,7 +1117,7 @@ infobox:
 </td>
 <td>Dan Frazier
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Drúin&#39;s Tribe
@@ -1130,7 +1126,7 @@ infobox:
 </td>
 <td>Daniel Gelon
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Durin&#39;s Tribe
@@ -1139,7 +1135,7 @@ infobox:
 </td>
 <td>Dan Frazier
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Dwálin&#39;s Tribe
@@ -1148,7 +1144,7 @@ infobox:
 </td>
 <td>Daniel Gelon
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Thélor&#39;s Tribe
@@ -1157,7 +1153,7 @@ infobox:
 </td>
 <td>Melissa Benson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dwarven Ring of Thrár&#39;s Tribe
@@ -1166,7 +1162,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Earth of Galadriel&#39;s Orchard
@@ -1175,7 +1171,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Elf-stone
@@ -1184,7 +1180,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Elven Cloak
@@ -1193,7 +1189,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Ent-draughts
@@ -1202,7 +1198,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Fair Gold Ring
@@ -1211,7 +1207,7 @@ infobox:
 </td>
 <td>N. Taylor Blanchard
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Glamdring
@@ -1220,7 +1216,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Great-shield of Rohan
@@ -1229,7 +1225,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Hauberk of Bright Mail
@@ -1238,7 +1234,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Healing Herbs
@@ -1247,7 +1243,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Horn of Anor
@@ -1256,7 +1252,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lesser Ring
@@ -1265,7 +1261,7 @@ infobox:
 </td>
 <td>Larry Forcella
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Magic Ring of Courage
@@ -1274,7 +1270,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Magic Ring of Lore
@@ -1283,7 +1279,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Magic Ring of Nature
@@ -1292,7 +1288,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Magic Ring of Stealth
@@ -1301,7 +1297,7 @@ infobox:
 </td>
 <td>Melissa Benson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Magic Ring of Words
@@ -1310,7 +1306,7 @@ infobox:
 </td>
 <td>Ronald Chironna
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Miruvor
@@ -1319,7 +1315,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Narsil
@@ -1328,7 +1324,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Orcrist
@@ -1337,7 +1333,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Palantír of Amon Sûl
@@ -1346,7 +1342,7 @@ infobox:
 </td>
 <td>N. Taylor Blanchard
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Palantír of Annúminas
@@ -1355,7 +1351,7 @@ infobox:
 </td>
 <td>Margaret Organ-Kean
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Palantír of Elostirion
@@ -1364,7 +1360,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Palantír of Minas Tirith
@@ -1373,7 +1369,7 @@ infobox:
 </td>
 <td>Jeffery Reitz
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Palantír of Orthanc
@@ -1382,7 +1378,7 @@ infobox:
 </td>
 <td>Ronald Chironna
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Palantír of Osgiliath
@@ -1391,7 +1387,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Potion of Prowess
@@ -1400,7 +1396,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Precious Gold Ring
@@ -1409,7 +1405,7 @@ infobox:
 </td>
 <td>Jeffery Reitz
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Red Arrow
@@ -1418,7 +1414,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Red Book of Westmarch
@@ -1427,7 +1423,7 @@ infobox:
 </td>
 <td>Jeffrey Reitz
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Sapling of the White Tree
@@ -1436,7 +1432,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Scroll of Isildur
@@ -1445,7 +1441,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Shield of Iron-bound Ash
@@ -1454,7 +1450,7 @@ infobox:
 </td>
 <td>Ronald Shuey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Star-glass
@@ -1463,7 +1459,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Sting
@@ -1472,7 +1468,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Sword of Gondolin
@@ -1481,7 +1477,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>The Arkenstone
@@ -1490,7 +1486,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Mithril-coat
@@ -1499,7 +1495,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The One Ring
@@ -1508,7 +1504,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Torque of Hues
@@ -1517,7 +1513,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Ring
@@ -1526,7 +1522,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>A Chance Meeting
@@ -1535,7 +1531,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>A Friend or Three
@@ -1544,7 +1540,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Align Palantír
@@ -1553,7 +1549,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Anduin River
@@ -1562,7 +1558,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Andúril, the Flame of the West
@@ -1571,7 +1567,7 @@ infobox:
 </td>
 <td>N. Taylor Blanchard
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ash Mountains
@@ -1580,7 +1576,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Block
@@ -1589,7 +1585,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Bridge
@@ -1598,7 +1594,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Clear Skies
@@ -1607,7 +1603,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Concealment
@@ -1616,7 +1612,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Cracks of Doom
@@ -1625,7 +1621,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dark Quarrels
@@ -1634,7 +1630,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Dodge
@@ -1643,7 +1639,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Dreams of Lore
@@ -1652,7 +1648,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Eagle-mounts
@@ -1661,7 +1657,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Elf-song
@@ -1670,7 +1666,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Escape
@@ -1679,7 +1675,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Fair Sailing
@@ -1688,7 +1684,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fair Travels in Border-lands
@@ -1697,7 +1693,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Fair Travels in Dark-domains
@@ -1706,7 +1702,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fair Travels in Free-domains
@@ -1715,7 +1711,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fair Travels in Shadow-lands
@@ -1724,7 +1720,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Fair Travels in Wilderness
@@ -1733,7 +1729,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Far-sight
@@ -1742,7 +1738,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Favor of the Valar
@@ -1751,7 +1747,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fellowship
@@ -1760,7 +1756,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Fog
@@ -1769,7 +1765,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Ford
@@ -1778,7 +1774,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Gates of Morning
@@ -1787,7 +1783,7 @@ infobox:
 </td>
 <td>Melissa Benson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Gollum&#39;s Fate
@@ -1796,7 +1792,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Great Ship
@@ -1805,7 +1801,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Great-road
@@ -1814,7 +1810,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Halfling Stealth
@@ -1823,7 +1819,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Halfling Strength
@@ -1832,7 +1828,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Hiding
@@ -1841,7 +1837,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Horses
@@ -1850,7 +1846,7 @@ infobox:
 </td>
 <td>Margaret Organ-Kean
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Kindling of the Spirit
@@ -1859,7 +1855,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lapse of Will
@@ -1868,7 +1864,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Lordly Presence
@@ -1877,7 +1873,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lucky Search
@@ -1886,7 +1882,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Lucky Strike
@@ -1895,7 +1891,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Mirror of Galadriel
@@ -1904,7 +1900,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Misty Mountains
@@ -1913,7 +1909,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Moon
@@ -1922,7 +1918,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Morannon
@@ -1931,7 +1927,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Mountains of Shadow
@@ -1940,7 +1936,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Muster
@@ -1949,7 +1945,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Narya
@@ -1958,7 +1954,7 @@ infobox:
 </td>
 <td>Jeff Reitz
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Nenya
@@ -1967,7 +1963,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>New Friendship
@@ -1976,7 +1972,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Old Friendship
@@ -1985,7 +1981,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Old Road
@@ -1994,7 +1990,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Paths of the Dead
@@ -2003,7 +1999,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Persuasive Words
@@ -2012,7 +2008,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Praise to Elbereth
@@ -2021,7 +2017,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Quiet Lands
@@ -2030,7 +2026,7 @@ infobox:
 </td>
 <td>Douglass Chaffee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Reforging
@@ -2039,7 +2035,7 @@ infobox:
 </td>
 <td>Ron Spencer
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Rescue Prisoners
@@ -2048,7 +2044,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Return of the King
@@ -2057,7 +2053,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ringlore
@@ -2066,7 +2062,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Risky Blow
@@ -2075,7 +2071,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Sacrifice of Form
@@ -2084,7 +2080,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Secret Entrance
@@ -2093,7 +2089,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Secret Passage
@@ -2102,7 +2098,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Stars
@@ -2111,7 +2107,7 @@ infobox:
 </td>
 <td>Douglass Chaffee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Stealth
@@ -2120,7 +2116,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Stone of Erech
@@ -2129,7 +2125,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Sun
@@ -2138,7 +2134,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Tempering Friendship
@@ -2147,7 +2143,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Test of Form
@@ -2156,7 +2152,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Test of Lore
@@ -2165,7 +2161,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>The Cock Crows
@@ -2174,7 +2170,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The Evenstar
@@ -2183,7 +2179,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The Old Thrush
@@ -2192,7 +2188,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The White Tree
@@ -2201,7 +2197,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Thorough Search
@@ -2210,7 +2206,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>True Fána
@@ -2219,7 +2215,7 @@ infobox:
 </td>
 <td>David Cherry
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Use Palantír
@@ -2228,7 +2224,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Vanishment
@@ -2237,7 +2233,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Vilya
@@ -2246,7 +2242,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>White Mountains
@@ -2255,7 +2251,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Fire
@@ -2264,7 +2260,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Flame
@@ -2273,7 +2269,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Laughter
@@ -2282,7 +2278,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s River-horses
@@ -2291,7 +2287,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Test
@@ -2300,7 +2296,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Wizard&#39;s Voice
@@ -2309,7 +2305,7 @@ infobox:
 </td>
 <td>Ron Spencer
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Abductor
@@ -2318,7 +2314,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Adûnaphel
@@ -2327,7 +2323,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Agburanar
@@ -2336,7 +2332,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Akhôrahil
@@ -2345,7 +2341,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ambusher
@@ -2354,7 +2350,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Assassin
@@ -2363,7 +2359,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Barrow-wight
@@ -2372,7 +2368,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>&#34;Bert&#34; (Bûrat)
@@ -2381,7 +2377,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Brigands
@@ -2390,7 +2386,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Cave-drake
@@ -2399,7 +2395,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Corpse-candle
@@ -2408,7 +2404,7 @@ infobox:
 </td>
 <td>Kaja Foglio
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Corsairs of Umbar
@@ -2417,7 +2413,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Crebain
@@ -2426,7 +2422,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Daelomin
@@ -2435,7 +2431,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dwar of Waw
@@ -2444,7 +2440,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fell Turtle
@@ -2453,7 +2449,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ghosts
@@ -2462,7 +2458,7 @@ infobox:
 </td>
 <td>Ron Spencer
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Ghouls
@@ -2471,7 +2467,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Giant
@@ -2480,7 +2476,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Giant Spiders
@@ -2489,7 +2485,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Half-trolls of Far Harad
@@ -2498,7 +2494,7 @@ infobox:
 </td>
 <td>Heather Hudson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Hoarmûrath of Dír
@@ -2507,7 +2503,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Huorn
@@ -2516,7 +2512,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Indûr Dawndeath
@@ -2525,7 +2521,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Khamûl the Easterling
@@ -2534,7 +2530,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Leucaruth
@@ -2543,7 +2539,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Mouth of Sauron
@@ -2552,7 +2548,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Mûmak (Oliphant)
@@ -2561,7 +2557,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Old Man Willow
@@ -2570,7 +2566,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Olog-hai (Trolls)
@@ -2579,7 +2575,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Orc-guard
@@ -2588,7 +2584,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Orc-lieutenant
@@ -2597,7 +2593,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Orc-patrol
@@ -2606,7 +2602,7 @@ infobox:
 </td>
 <td>Brian Snoddy
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Orc-raiders
@@ -2615,7 +2611,7 @@ infobox:
 </td>
 <td>Heather Hudson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Orc-warband
@@ -2624,7 +2620,7 @@ infobox:
 </td>
 <td>Heather Hudson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Orc-warriors
@@ -2633,7 +2629,7 @@ infobox:
 </td>
 <td>Brian Snoddy
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Orc-watch
@@ -2642,7 +2638,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Pick-pocket
@@ -2651,7 +2647,7 @@ infobox:
 </td>
 <td>Ronald Shuey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Pûkel-men
@@ -2660,7 +2656,7 @@ infobox:
 </td>
 <td>Kaja Foglio
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Ren the Unclean
@@ -2669,7 +2665,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Rogrog
@@ -2678,7 +2674,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Shelob
@@ -2687,7 +2683,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Silent Watcher
@@ -2696,7 +2692,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Slayer
@@ -2705,7 +2701,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Smaug
@@ -2714,7 +2710,7 @@ infobox:
 </td>
 <td>David Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Great Goblin
@@ -2723,7 +2719,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Thief
@@ -2732,7 +2728,7 @@ infobox:
 </td>
 <td>Christina Wald
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>&#34;Tom&#34; (Tûma)
@@ -2741,7 +2737,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Ûvatha the Horseman
@@ -2750,7 +2746,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Wargs
@@ -2759,7 +2755,7 @@ infobox:
 </td>
 <td>Susan Van Camp
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Watcher in the Water
@@ -2768,7 +2764,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>&#34;William&#34; (Wûluag)
@@ -2777,7 +2773,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Witch-king of Angmar
@@ -2786,7 +2782,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Wolves
@@ -2795,7 +2791,7 @@ infobox:
 </td>
 <td>Susan Van Camp
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Arouse Denizens
@@ -2804,7 +2800,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Arouse Minions
@@ -2813,7 +2809,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Awaken Denizens
@@ -2822,7 +2818,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Awaken Minions
@@ -2831,7 +2827,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Awaken the Earth&#39;s Fire
@@ -2840,7 +2836,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Balrog of Moria
@@ -2849,7 +2845,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Bane of the Ithil-stone
@@ -2858,7 +2854,7 @@ infobox:
 </td>
 <td>Jeffrey Reitz
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Call of Home
@@ -2867,7 +2863,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Call of the Sea
@@ -2876,7 +2872,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Choking Shadows
@@ -2885,7 +2881,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Clouds
@@ -2894,7 +2890,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Despair of the Heart
@@ -2903,7 +2899,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Doors of Night
@@ -2912,7 +2908,7 @@ infobox:
 </td>
 <td>Melissa Brown
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Dragon&#39;s Desolation
@@ -2921,7 +2917,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Drowning Seas
@@ -2930,7 +2926,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Eye of Sauron
@@ -2939,7 +2935,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fell Beast
@@ -2948,7 +2944,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Fell Winter
@@ -2957,7 +2953,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Foul Fumes
@@ -2966,7 +2962,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Gloom
@@ -2975,7 +2971,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Greed
@@ -2984,7 +2980,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Long Winter
@@ -2993,7 +2989,7 @@ infobox:
 </td>
 <td>Ken Meyer, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lost at Sea
@@ -3002,7 +2998,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Lost in Border-lands
@@ -3011,7 +3007,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lost in Dark-domains
@@ -3020,7 +3016,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Lost in Free-domains
@@ -3029,7 +3025,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lost in Shadow-lands
@@ -3038,7 +3034,7 @@ infobox:
 </td>
 <td>Ken Meyer, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lost in the Wilderness
@@ -3047,7 +3043,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lure of Creation
@@ -3056,7 +3052,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Lure of Expedience
@@ -3065,7 +3061,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lure of Nature
@@ -3074,7 +3070,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lure of Power
@@ -3083,7 +3079,7 @@ infobox:
 </td>
 <td>Dameon Willich
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Lure of the Senses
@@ -3092,7 +3088,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Minions Stir
@@ -3101,7 +3097,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Morgul Night
@@ -3110,7 +3106,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Morgul-horse
@@ -3119,7 +3115,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Morgul-knife
@@ -3128,7 +3124,7 @@ infobox:
 </td>
 <td>Liz Danforth
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Muster Disperses
@@ -3137,7 +3133,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>New Moon
@@ -3146,7 +3142,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Night
@@ -3155,7 +3151,7 @@ infobox:
 </td>
 <td>Gail McIntosh
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Plague of Wights
@@ -3164,7 +3160,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>River
@@ -3173,7 +3169,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Siege
@@ -3182,7 +3178,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Snowstorm
@@ -3191,7 +3187,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Storms of Ossë
@@ -3200,7 +3196,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Balance of Things
@@ -3209,7 +3205,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Burden of Time
@@ -3218,7 +3214,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The Nazgûl are Abroad
@@ -3227,7 +3223,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Pale Sword
@@ -3236,7 +3232,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Precious
@@ -3245,7 +3241,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Ring&#39;s Betrayal
@@ -3254,7 +3250,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The Will of Sauron
@@ -3263,7 +3259,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Will of the Ring
@@ -3272,7 +3268,7 @@ infobox:
 </td>
 <td>Donato Giancola
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Tookish Blood
@@ -3281,7 +3277,7 @@ infobox:
 </td>
 <td>April Lee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Traitor
@@ -3290,7 +3286,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Twilight
@@ -3299,7 +3295,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Wake of War
@@ -3308,7 +3304,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Weariness of the Heart
@@ -3317,7 +3313,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Twice on general common sheet</span>
 </td></tr>
 <tr>
 <td>Words of Power and Terror
@@ -3326,7 +3322,7 @@ infobox:
 </td>
 <td>Ron Chironna
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Amon Hen
@@ -3335,7 +3331,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Bag End
@@ -3344,7 +3340,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Bandit Lair
@@ -3353,7 +3349,7 @@ infobox:
 </td>
 <td>Darryl Elliott
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F3</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F3</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Barad-dûr
@@ -3362,7 +3358,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Barrow-downs
@@ -3371,7 +3367,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Beorn&#39;s House
@@ -3380,7 +3376,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Blue Mountain Dwarf-hold
@@ -3389,7 +3385,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Bree
@@ -3398,7 +3394,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Cameth Brin
@@ -3407,7 +3403,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Carn Dûm
@@ -3416,7 +3412,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Caves of Ûlund
@@ -3425,7 +3421,7 @@ infobox:
 </td>
 <td>Randy Asplund-Faith
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Cirith Ungol
@@ -3434,7 +3430,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dancing Spire
@@ -3443,7 +3439,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dead Marshes
@@ -3452,7 +3448,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dimrill Dale
@@ -3461,7 +3457,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Dol Amroth
@@ -3470,7 +3466,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Dol Guldur
@@ -3479,7 +3475,7 @@ infobox:
 </td>
 <td>Christina Wald
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Drúadan Forest
@@ -3488,7 +3484,7 @@ infobox:
 </td>
 <td>Edward Beard, Jr.
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Dunharrow
@@ -3497,7 +3493,7 @@ infobox:
 </td>
 <td>N. Taylor Blanchard
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Dunnish Clan-hold
@@ -3506,7 +3502,7 @@ infobox:
 </td>
 <td>Storn Cook
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Eagles&#39; Eyrie
@@ -3515,7 +3511,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Easterling Camp
@@ -3524,7 +3520,7 @@ infobox:
 </td>
 <td>Storn Cook
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Edhellond
@@ -3533,7 +3529,7 @@ infobox:
 </td>
 <td>Christina Wald
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Edoras
@@ -3542,7 +3538,7 @@ infobox:
 </td>
 <td>Margaret Organ-Kean
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Ettenmoors
@@ -3551,7 +3547,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Gladden Fields
@@ -3560,7 +3556,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Glittering Caves
@@ -3569,7 +3565,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Goblin-gate
@@ -3578,7 +3574,7 @@ infobox:
 </td>
 <td>Randy Gallegos
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Grey Havens
@@ -3587,7 +3583,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Henneth Annûn
@@ -3596,7 +3592,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Himring
@@ -3605,7 +3601,7 @@ infobox:
 </td>
 <td>David Martin
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Irerock
@@ -3614,7 +3610,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Iron Hill Dwarf-hold
@@ -3623,7 +3619,7 @@ infobox:
 </td>
 <td>Ron Rousselle II
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Isengard
@@ -3632,7 +3628,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Isles of the Dead that Live
@@ -3641,7 +3637,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Lake-town
@@ -3650,7 +3646,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lond Galen
@@ -3659,7 +3655,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lórien
@@ -3668,7 +3664,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lossadan Cairn
@@ -3677,7 +3673,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Lossadan Camp
@@ -3686,7 +3682,7 @@ infobox:
 </td>
 <td>Lori Deitrick
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Minas Morgul
@@ -3695,7 +3691,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Minas Tirith
@@ -3704,7 +3700,7 @@ infobox:
 </td>
 <td>Eric David Anderson
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Moria
@@ -3713,7 +3709,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F3</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F3</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Mount Doom
@@ -3722,7 +3718,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Mount Gram
@@ -3731,7 +3727,7 @@ infobox:
 </td>
 <td>Susan Van Camp
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Mount Gundabad
@@ -3740,7 +3736,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Old Forest
@@ -3749,7 +3745,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Ost-in-Edhil
@@ -3758,7 +3754,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>Pelargir
@@ -3767,7 +3763,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Rhosgobel
@@ -3776,7 +3772,7 @@ infobox:
 </td>
 <td>Tom Dow
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Rivendell
@@ -3785,7 +3781,7 @@ infobox:
 </td>
 <td>Stefano Baldo
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Ruined Signal Tower
@@ -3794,7 +3790,7 @@ infobox:
 </td>
 <td>Mark Poole
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Sarn Goriwing
@@ -3803,7 +3799,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
+<td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Once on general common sheet</span>
 </td></tr>
 <tr>
 <td>Shelob&#39;s Lair
@@ -3812,7 +3808,7 @@ infobox:
 </td>
 <td>Kevin Ward
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Shrel-Kain
@@ -3821,7 +3817,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Southron Oasis
@@ -3830,7 +3826,7 @@ infobox:
 </td>
 <td>Tom Dow
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Stone-circle
@@ -3839,7 +3835,7 @@ infobox:
 </td>
 <td>Christina Wald
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The Lonely Mountain
@@ -3848,7 +3844,7 @@ infobox:
 </td>
 <td>Rob Alexander
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F2</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>The Stones
@@ -3857,7 +3853,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>The White Towers
@@ -3866,7 +3862,7 @@ infobox:
 </td>
 <td>Audrey Corman
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
+<td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
 <td>The Wind Throne
@@ -3875,7 +3871,7 @@ infobox:
 </td>
 <td>Pat Morrissey
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F5</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Thranduil&#39;s Halls
@@ -3884,7 +3880,7 @@ infobox:
 </td>
 <td>Mark Forrer
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Tolfalas
@@ -3893,7 +3889,7 @@ infobox:
 </td>
 <td>Douglass Chaffee
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Vale of Erech
@@ -3902,7 +3898,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Variag Camp
@@ -3911,7 +3907,7 @@ infobox:
 </td>
 <td>Storn Cook
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
+<td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
 <td>Weathertop
@@ -3920,7 +3916,7 @@ infobox:
 </td>
 <td>Tom Dow
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F4</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
+<td><span class="ext-floatingui-reference">F4</span><span class="ext-floatingui-content">In 2 different fixed sets</span>
 </td></tr>
 <tr>
 <td>Wellinghall
@@ -3929,7 +3925,7 @@ infobox:
 </td>
 <td>Angus McBride
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
+<td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">In 1 fixed set</span>
 </td></tr>
 <tr>
 <td>Woodmen-town
@@ -3938,7 +3934,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Wose Passage-hold
@@ -3947,7 +3943,7 @@ infobox:
 </td>
 <td>J. Wallace Jones
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Andrast
@@ -3956,7 +3952,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Andrast Coast
@@ -3965,7 +3961,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Anduin Vales
@@ -3974,7 +3970,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Anfalas
@@ -3983,7 +3979,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Angmar
@@ -3992,7 +3988,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Anórien
@@ -4001,7 +3997,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Arthedain
@@ -4010,7 +4006,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Bay of Belfalas
@@ -4019,7 +4015,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Belfalas
@@ -4028,7 +4024,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Brown Lands
@@ -4037,7 +4033,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Cardolan
@@ -4046,7 +4042,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Dagorlad
@@ -4055,7 +4051,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Dorwinion
@@ -4064,7 +4060,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Dunland
@@ -4073,7 +4069,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Elven Shores
@@ -4082,7 +4078,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Enedhwaith
@@ -4091,7 +4087,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Eriadoran Coast
@@ -4100,7 +4096,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Fangorn
@@ -4109,7 +4105,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Forochel
@@ -4118,7 +4114,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Gap of Isen
@@ -4127,7 +4123,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Gorgoroth
@@ -4136,7 +4132,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Grey Mountain Narrows
@@ -4145,7 +4141,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Gundabad
@@ -4154,7 +4150,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Harondor
@@ -4163,7 +4159,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Heart of Mirkwood
@@ -4172,7 +4168,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>High Pass
@@ -4181,7 +4177,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Hollin
@@ -4190,7 +4186,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Horse Plains
@@ -4199,7 +4195,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Imlad Morgul
@@ -4208,7 +4204,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Iron Hills
@@ -4217,7 +4213,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Ithilien
@@ -4226,7 +4222,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Khand
@@ -4235,7 +4231,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lamedon
@@ -4244,7 +4240,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lebennin
@@ -4253,7 +4249,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Lindon
@@ -4262,7 +4258,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Mouths of the Anduin
@@ -4271,7 +4267,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Northern Rhovanion
@@ -4280,7 +4276,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Númeriador
@@ -4289,7 +4285,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Nurn
@@ -4298,7 +4294,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Old Pûkel Gap
@@ -4307,7 +4303,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Old Pûkel-land
@@ -4316,7 +4312,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Redhorn Gate
@@ -4325,7 +4321,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Rhudaur
@@ -4334,7 +4330,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Rohan
@@ -4343,7 +4339,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Southern Mirkwood
@@ -4352,7 +4348,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Southern Rhovanion
@@ -4361,7 +4357,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>The Shire
@@ -4370,7 +4366,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Udûn
@@ -4379,7 +4375,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Western Mirkwood
@@ -4388,7 +4384,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Withered Heath
@@ -4397,7 +4393,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Once on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Wold &amp; Foothills
@@ -4406,7 +4402,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Woodland Realm
@@ -4415,7 +4411,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
+<td><span class="ext-floatingui-reference">CB2</span><span class="ext-floatingui-content">Twice on booster-only common sheet</span>
 </td></tr>
 <tr>
 <td>Fatty Bolger
@@ -4424,7 +4420,7 @@ infobox:
 </td>
 <td>Christina Wald
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td>Black Arrow
@@ -4433,7 +4429,7 @@ infobox:
 </td>
 <td>Ron Chironna
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td><i>Zwergenaxt</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
@@ -4442,7 +4438,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td>The Iron Crown
@@ -4451,7 +4447,7 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td><i>Schwertmeister</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup>
@@ -4460,7 +4456,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td>Neeker-breekers
@@ -4469,7 +4465,7 @@ infobox:
 </td>
 <td>Quinton Hoover
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td><i>Das Pack vor der Tür</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 3]</a></sup>
@@ -4478,7 +4474,7 @@ infobox:
 </td>
 <td>Jo Hartwig
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr>
 <tr>
 <td>Fury of the Iron Crown
@@ -4487,22 +4483,22 @@ infobox:
 </td>
 <td>Angelo Montanini
 </td>
-<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413278"/><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
+<td><span class="ext-floatingui-reference">P</span><span class="ext-floatingui-content">Promo card</span>
 </td></tr></tbody></table>
 
 ## In other languages {#In_other_languages}
 
 ### Dutch {#Dutch}
 
-*Middle-earth: The Wizards* was the only set printed in Dutch, for which publisher [999 Games](/wiki/999_Games) used the Dutch title of [The Lord of the Rings](/wiki/The_Lord_of_the_Rings)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 4]</a></sup>, without any reference to *The Wizards*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[2]</a></sup>
+*Middle-earth: The Wizards* was the only set printed in Dutch, for which publisher [999 Games](../_/999_Games.md) used the Dutch title of [The Lord of the Rings](../T/The_Lord_of_the_Rings.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 4]</a></sup>, without any reference to *The Wizards*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[2]</a></sup>
 
-Beyond a different name, it also had different packaging featuring artwork by [John Howe](/wiki/John_Howe), which the publisher never properly licensed from him. The artwork was also used for a promotional card, and three binders to store cards in, again without permission or remuneration.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
+Beyond a different name, it also had different packaging featuring artwork by [John Howe](../J/John_Howe.md), which the publisher never properly licensed from him. The artwork was also used for a promotional card, and three binders to store cards in, again without permission or remuneration.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
 
 ## Reception {#Reception}
 
 *The Wizards* won the Origins Award for *Best Card Game of 1995*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[4]</a></sup>
 
-In a review for *The Duelist*, Rick Swan found the game to have "enough quirky innovation to distinguish it from the multitude of play-’em-and-forget-’em copycats" of *[Magic: The Gathering](/wiki/Magic:_The_Gathering)*. He praised both the art and the faithfulness to Tolkien's works, but found the rulebook poorly organized.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[5]</a></sup>
+In a review for *The Duelist*, Rick Swan found the game to have "enough quirky innovation to distinguish it from the multitude of play-’em-and-forget-’em copycats" of *[Magic: The Gathering](Magic%253A_The_Gathering.md)*. He praised both the art and the faithfulness to Tolkien's works, but found the rulebook poorly organized.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[5]</a></sup>
 
 Andy Butcher, writing for *Arcane*, reviewed *The Wizards* as well, stating that the team had “never spent so much time playing a game for review”, considering the game to be a “unique combination of the best elements of board and card games”, though also “complex, frustrating and poorly realised.” The final verdict was positive, however, stating that there was “plenty here to make it all worthwhile.”<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[6]</a></sup>
 
@@ -4511,21 +4507,21 @@ Andy Butcher, writing for *Arcane*, reviewed *The Wizards* as well, stating that
 <ul class="gallery mw-gallery-packed-hover">
 	<li class="gallerycaption">Decks</li>
 		<li class="gallerybox" style="width: 88.666666666667px">
-			<div class="thumb" style="width: 86.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECCG_The_Wizards_-_Unlimited_Starter_Deck_(front).jpeg" title="Front of Starter Deck"><img alt="Front of Starter Deck" src="/w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/130px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg" decoding="async" loading="lazy" width="87" height="120" class="mw-file-element" srcset="/w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/196px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg 1.5x, /w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/261px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg 2x" data-file-width="1546" data-file-height="2131"/></a></span></div>
+			<div class="thumb" style="width: 86.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_-_Unlimited_Starter_Deck_(front).jpeg.md" title="Front of Starter Deck"><img alt="Front of Starter Deck" src="https://tolkiengateway.net/w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/130px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg" decoding="async" loading="lazy" width="87" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/196px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg/261px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28front%29.jpeg 2x" data-file-width="1546" data-file-height="2131"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 67px"><div class="gallerytext">
 <p>Front of Starter Deck
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 90.666666666667px">
-			<div class="thumb" style="width: 88.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECCG_The_Wizards_-_Unlimited_Starter_Deck_(back).jpeg" title="Back of Starter Deck"><img alt="Back of Starter Deck" src="/w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/133px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg" decoding="async" loading="lazy" width="89" height="120" class="mw-file-element" srcset="/w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/199px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg 1.5x, /w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/266px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg 2x" data-file-width="1639" data-file-height="2221"/></a></span></div>
+			<div class="thumb" style="width: 88.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_-_Unlimited_Starter_Deck_(back).jpeg.md" title="Back of Starter Deck"><img alt="Back of Starter Deck" src="https://tolkiengateway.net/w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/133px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg" decoding="async" loading="lazy" width="89" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/199px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg/266px-MECCG_The_Wizards_-_Unlimited_Starter_Deck_%28back%29.jpeg 2x" data-file-width="1639" data-file-height="2221"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 69px"><div class="gallerytext">
 <p>Back of Starter Deck
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 88px">
-			<div class="thumb" style="width: 86px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECCG_Dutch_Starter_Deck.jpg" title="Dutch Starter Deck"><img alt="Dutch Starter Deck" src="/w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/129px-MECCG_Dutch_Starter_Deck.jpg" decoding="async" loading="lazy" width="86" height="120" class="mw-file-element" srcset="/w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/194px-MECCG_Dutch_Starter_Deck.jpg 1.5x, /w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/258px-MECCG_Dutch_Starter_Deck.jpg 2x" data-file-width="3105" data-file-height="4329"/></a></span></div>
+			<div class="thumb" style="width: 86px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_Dutch_Starter_Deck.jpg.md" title="Dutch Starter Deck"><img alt="Dutch Starter Deck" src="https://tolkiengateway.net/w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/129px-MECCG_Dutch_Starter_Deck.jpg" decoding="async" loading="lazy" width="86" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/194px-MECCG_Dutch_Starter_Deck.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/MECCG_Dutch_Starter_Deck.jpg/258px-MECCG_Dutch_Starter_Deck.jpg 2x" data-file-width="3105" data-file-height="4329"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 66px"><div class="gallerytext">
 <p>Dutch Starter Deck
 </p>
@@ -4536,35 +4532,35 @@ Andy Butcher, writing for *Arcane*, reviewed *The Wizards* as well, stating that
 <ul class="gallery mw-gallery-packed-hover">
 	<li class="gallerycaption">Advertisements</li>
 		<li class="gallerybox" style="width: 84px">
-			<div class="thumb" style="width: 82px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECCG_The_Wizards_Advertisement.jpg" title="Advertisement"><img alt="Advertisement" src="/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/123px-MECCG_The_Wizards_Advertisement.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/185px-MECCG_The_Wizards_Advertisement.jpg 1.5x, /w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/246px-MECCG_The_Wizards_Advertisement.jpg 2x" data-file-width="1400" data-file-height="2045"/></a></span></div>
+			<div class="thumb" style="width: 82px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_Advertisement.jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/123px-MECCG_The_Wizards_Advertisement.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/185px-MECCG_The_Wizards_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/246px-MECCG_The_Wizards_Advertisement.jpg 2x" data-file-width="1400" data-file-height="2045"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
 <p>Advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86px">
-			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECG_The_Wizards_French_Advertisement.jpg" title="French advertisement"><img alt="French advertisement" src="/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/126px-MECG_The_Wizards_French_Advertisement.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/189px-MECG_The_Wizards_French_Advertisement.jpg 1.5x, /w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/252px-MECG_The_Wizards_French_Advertisement.jpg 2x" data-file-width="4832" data-file-height="6912"/></a></span></div>
+			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECG_The_Wizards_French_Advertisement.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/126px-MECG_The_Wizards_French_Advertisement.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/189px-MECG_The_Wizards_French_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/252px-MECG_The_Wizards_French_Advertisement.jpg 2x" data-file-width="4832" data-file-height="6912"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
 <p>French advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86px">
-			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MECCG_The_Wizards_French_Advertisement_2.jpg" title="French advertisement"><img alt="French advertisement" src="/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/126px-MECCG_The_Wizards_French_Advertisement_2.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/190px-MECCG_The_Wizards_French_Advertisement_2.jpg 1.5x, /w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/253px-MECCG_The_Wizards_French_Advertisement_2.jpg 2x" data-file-width="4928" data-file-height="7010"/></a></span></div>
+			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_French_Advertisement_2.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/126px-MECCG_The_Wizards_French_Advertisement_2.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/190px-MECCG_The_Wizards_French_Advertisement_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/253px-MECCG_The_Wizards_French_Advertisement_2.jpg 2x" data-file-width="4928" data-file-height="7010"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
 <p>French advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86.666666666667px">
-			<div class="thumb" style="width: 84.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:METW_-_Advertisement.jpg" title="English Advertisement"><img alt="English Advertisement" src="/w/images/thumb/8/82/METW_-_Advertisement.jpg/127px-METW_-_Advertisement.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="/w/images/thumb/8/82/METW_-_Advertisement.jpg/191px-METW_-_Advertisement.jpg 1.5x, /w/images/thumb/8/82/METW_-_Advertisement.jpg/255px-METW_-_Advertisement.jpg 2x" data-file-width="1479" data-file-height="2088"/></a></span></div>
+			<div class="thumb" style="width: 84.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/METW_-_Advertisement.jpg.md" title="English Advertisement"><img alt="English Advertisement" src="https://tolkiengateway.net/w/images/thumb/8/82/METW_-_Advertisement.jpg/127px-METW_-_Advertisement.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/METW_-_Advertisement.jpg/191px-METW_-_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/METW_-_Advertisement.jpg/255px-METW_-_Advertisement.jpg 2x" data-file-width="1479" data-file-height="2088"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 65px"><div class="gallerytext">
 <p>English Advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 76.666666666667px">
-			<div class="thumb" style="width: 74.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" title="Dutch advertisement"><img alt="Dutch advertisement" src="/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/112px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="75" height="120" class="mw-file-element" srcset="/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/168px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 1.5x, /w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/224px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 2x" data-file-width="1555" data-file-height="2500"/></a></span></div>
+			<div class="thumb" style="width: 74.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg.md" title="Dutch advertisement"><img alt="Dutch advertisement" src="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/112px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="75" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/168px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/224px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 2x" data-file-width="1555" data-file-height="2500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 55px"><div class="gallerytext">
 <p>Dutch advertisement
 </p>
@@ -4588,15 +4584,15 @@ Andy Butcher, writing for *Arcane*, reviewed *The Wizards* as well, stating that
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-companion-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-companion_1-0">1.0</a></sup> <sup><a href="#cite_ref-companion_1-1">1.1</a></sup></span> <span class="reference-text">Mike Reynolds, <i><a href="/wiki/Middle-earth:_The_Wizards_Companion" title="Middle-earth: The Wizards Companion">Middle-earth: The Wizards Companion</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #3333, 1996)
+<li id="cite_note-companion-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-companion_1-0">1.0</a></sup> <sup><a href="#cite_ref-companion_1-1">1.1</a></sup></span> <span class="reference-text">Mike Reynolds, <i><a href="Middle-earth%253A_The_Wizards_Companion.md" title="Middle-earth: The Wizards Companion">Middle-earth: The Wizards Companion</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #3333, 1996)
 , p. 93</span>
 </li>
 <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">&#34;Golden oldie: ‘Middle Earth’ ccg&#34;, <i>Méllon</i>, #1, 2006, p. 26
 </span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.john-howe.com/blog/excuse-me-mister-alan-lee/" rel="noreferrer noopener" target="_blank">&#34;Excuse Me, Mister Alan Lee?&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.john-howe.com" rel="noreferrer noopener" target="_blank">www.john-howe.com</a></span></cite></span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.john-howe.com/blog/excuse-me-mister-alan-lee/" rel="noreferrer noopener" target="_blank">&#34;Excuse Me, Mister Alan Lee?&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.john-howe.com" rel="noreferrer noopener" target="_blank">www.john-howe.com</a></span></cite></span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20090504094257/http://www.originsgamefair.com/awards/1995" rel="noreferrer noopener" target="_blank">&#34;1995 list of winners&#34;</a>, archived from the <a class="external text" href="http://www.originsgamefair.com/awards/1995" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website">Academy of Adventure Gaming Arts and Design</span></cite></span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20090504094257/http://www.originsgamefair.com/awards/1995" rel="noreferrer noopener" target="_blank">&#34;1995 list of winners&#34;</a>, archived from the <a class="external text" href="http://www.originsgamefair.com/awards/1995" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website">Academy of Adventure Gaming Arts and Design</span></cite></span>
 </li>
 <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Rick Swan, &#34;Middle-earth: The Wizards&#34;, <i>The Duelist</i>, #9, 1996, pp. 93-95
 </span>

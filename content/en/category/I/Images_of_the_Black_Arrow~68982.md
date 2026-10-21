@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the black arrow"
 ---
 
-Redirect to [Category:Images of the black arrow](/wiki/Category:Images_of_the_black_arrow).
+Redirect to [Category:Images of the black arrow](Images_of_the_black_arrow.md).

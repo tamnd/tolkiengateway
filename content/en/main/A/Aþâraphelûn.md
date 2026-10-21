@@ -11,4 +11,4 @@ redirect_target: "Arda"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Arda](/wiki/Arda#Other_names).
+Redirect to [Arda](Arda.md#Other_names).

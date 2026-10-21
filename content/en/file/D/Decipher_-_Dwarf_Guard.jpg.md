@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Dwarf Guard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Dwarf Guard.jpg</span>"
 page_id: 22542
 namespace: 6
 revision_id: 211656

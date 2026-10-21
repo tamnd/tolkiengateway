@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Ransom"
 ---
 
-Redirect to [House of Ransom](/wiki/House_of_Ransom).
+Redirect to [House of Ransom](../H/House_of_Ransom.md).

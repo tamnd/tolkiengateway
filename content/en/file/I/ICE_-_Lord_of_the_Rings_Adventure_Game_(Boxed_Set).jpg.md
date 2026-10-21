@@ -1,6 +1,5 @@
 ---
 title: "File:ICE - Lord of the Rings Adventure Game (Boxed Set).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">ICE - Lord of the Rings Adventure Game (Boxed Set).jpg</span>"
 page_id: 44874
 namespace: 6
 revision_id: 425077

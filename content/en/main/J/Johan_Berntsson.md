@@ -1,6 +1,5 @@
 ---
 title: "Johan Berntsson"
-display_title: "<span class=\"mw-page-title-main\">Johan Berntsson</span>"
 page_id: 27945
 namespace: 0
 revision_id: 146272
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Berntsson, Johan"
 ---
 
-**Johan Berntsson** is the game designer of [Hobbit - The True Story](/wiki/Hobbit_-_The_True_Story).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Johan Berntsson** is the game designer of [Hobbit - The True Story](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

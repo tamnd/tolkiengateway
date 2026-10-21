@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Slave-drivers"
 ---
 
-Redirect to [Slave-drivers](/wiki/Slave-drivers).
+Redirect to [Slave-drivers](../S/Slave-drivers.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Šárka Škorpíková - Arda.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Šárka Škorpíková - Arda.jpeg</span>"
 page_id: 53167
 namespace: 6
 revision_id: 315946
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An illustration of Arda by Šárka Škorpíková that depicts Arda's geography after Melkor threw down the [Two Lamps](/wiki/Two_Lamps) but before the [Battle of the Powers](/wiki/Battle_of_the_Powers). Based on [*Ambarkanta* Map IV](/wiki/Ambarkanta_maps "Ambarkanta maps") by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+An illustration of Arda by Šárka Škorpíková that depicts Arda's geography after Melkor threw down the [Two Lamps](../../main/T/Two_Lamps.md) but before the [Battle of the Powers](../../main/B/Battle_of_the_Powers.md). Based on [*Ambarkanta* Map IV](../../main/A/Ambarkanta_maps.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ An illustration of Arda by Šárka Škorpíková that depicts Arda's geography a
 </p>
 <ul><li><b>Name:</b> Šárka Škorpíková</li>
 <li><b>Website:</b> <a class="external text" href="http://robleskazeppelin.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1" title="Tolkien Gateway:Copyrights/Šárka Škorpíková">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FŠárka_Škorpíková.md" title="Tolkien Gateway:Copyrights/Šárka Škorpíková">Permission for use on Tolkien Gateway</a></b></li></ul></div>

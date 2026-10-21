@@ -1,6 +1,5 @@
 ---
 title: "Category:Fallohides"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fallohides</span>"
 page_id: 15787
 namespace: 14
 revision_id: 435982
@@ -14,4 +13,4 @@ categories:
   - "Races of Hobbits"
 ---
 
-A list of [Hobbits](/wiki/Hobbits) and [Hobbit families](/wiki/Category:Hobbit_families "Category:Hobbit families") of [Fallohide](/wiki/Fallohides "Fallohides") origin.
+A list of [Hobbits](../../main/H/Hobbits.md) and [Hobbit families](../H/Hobbit_families.md) of [Fallohide](../../main/F/Fallohides.md) origin.

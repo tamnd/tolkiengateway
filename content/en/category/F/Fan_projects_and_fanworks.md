@@ -1,6 +1,5 @@
 ---
 title: "Category:Fan projects and fanworks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fan projects and fanworks</span>"
 page_id: 60077
 namespace: 14
 revision_id: 336556
@@ -15,4 +14,4 @@ sort_keys:
   "Fandom": "Fan projects and fan works"
 ---
 
-This category lists all **Fan projects and fanworks** (fan films, fanfiction, fan theatrical productions, fan-made freeware mods or games) relating to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **Fan projects and fanworks** (fan films, fanfiction, fan theatrical productions, fan-made freeware mods or games) relating to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

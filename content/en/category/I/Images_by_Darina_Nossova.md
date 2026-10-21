@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darina Nossova"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darina Nossova</span>"
 page_id: 58207
 namespace: 14
 revision_id: 319929

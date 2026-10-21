@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Song of Beren and Lúthien.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Song of Beren and Lúthien.mp3</span>"
 page_id: 71064
 namespace: 6
 revision_id: 424379
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads the [Song of Beren and Lúthien](/wiki/Song_of_Beren_and_L%C3%BAthien)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads the [Song of Beren and Lúthien](../../main/S/Song_of_Beren_and_Lúthien.md)
 
 ## Licensing {#Licensing}
 

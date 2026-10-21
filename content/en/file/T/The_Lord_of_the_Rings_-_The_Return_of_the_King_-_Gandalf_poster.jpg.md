@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Gandalf poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Gandalf poster.jpg</span>"
 page_id: 11598
 namespace: 6
 revision_id: 437867
@@ -29,19 +28,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2003</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><i>Return of the King</i> Press Kit</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

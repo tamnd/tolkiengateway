@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Gríma dismissed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Gríma dismissed.jpg</span>"
 page_id: 71734
 namespace: 6
 revision_id: 427496
@@ -33,7 +32,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gríma](/wiki/Gr%C3%ADma) dismissed" by [Cor Blok](/wiki/Cor_Blok). Created on [25 September](/wiki/25_September) [1960](/wiki/1960)
+"[Gríma](../../main/G/Gríma.md) dismissed" by [Cor Blok](../../main/C/Cor_Blok.md). Created on [25 September](../../main/_/25_September.md) [1960](../../main/_/1960.md)
 
 ## Licensing {#Licensing}
 

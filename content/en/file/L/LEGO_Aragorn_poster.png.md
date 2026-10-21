@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO Aragorn poster.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO Aragorn poster.png</span>"
 page_id: 38060
 namespace: 6
 revision_id: 358155

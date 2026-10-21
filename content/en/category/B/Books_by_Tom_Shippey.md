@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Tom Shippey"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Tom Shippey</span>"
 page_id: 15828
 namespace: 14
 revision_id: 104003

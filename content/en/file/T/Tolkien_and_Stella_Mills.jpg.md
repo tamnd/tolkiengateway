@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and Stella Mills.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and Stella Mills.jpg</span>"
 page_id: 40849
 namespace: 6
 revision_id: 207352
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Excerpt from a [1921](/wiki/1921) photograph of the [Leeds University English Department](/wiki/University_of_Leeds "University of Leeds"), showing [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) (right), and a young woman (left) whom <a class="external text" href="http://www.nodensbooks.com/2012/07/new-release-stella-m-millss-translation.html" rel="noreferrer noopener" target="_blank">according</a> to [Priscilla Tolkien](/wiki/Priscilla_Tolkien) likely is [Stella M. Mills](/wiki/Stella_M._Mills).
+Excerpt from a [1921](../../main/_/1921.md) photograph of the [Leeds University English Department](../../main/U/University_of_Leeds.md), showing [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) (right), and a young woman (left) whom <a class="external text" href="http://www.nodensbooks.com/2012/07/new-release-stella-m-millss-translation.html" rel="noreferrer noopener" target="_blank">according</a> to [Priscilla Tolkien](../../main/P/Priscilla_Tolkien.md) likely is [Stella M. Mills](../../main/S/Stella_M._Mills.md).
 
 ## Licensing {#Licensing}
 

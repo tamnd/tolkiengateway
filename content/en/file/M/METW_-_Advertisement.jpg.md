@@ -1,6 +1,5 @@
 ---
 title: "File:METW - Advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">METW - Advertisement.jpg</span>"
 page_id: 25871
 namespace: 6
 revision_id: 432909
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Advertisement for [METW](/wiki/METW), featuring art by [Angus McBride](/wiki/Angus_McBride).
+Advertisement for [METW](../../main/M/METW.md), featuring art by [Angus McBride](../../main/A/Angus_McBride.md).
 
 ## Licensing {#Licensing}
 

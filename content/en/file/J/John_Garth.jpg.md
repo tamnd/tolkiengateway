@@ -1,6 +1,5 @@
 ---
 title: "File:John Garth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Garth.jpg</span>"
 page_id: 41643
 namespace: 6
 revision_id: 368403
@@ -25,7 +24,7 @@ file:
   user: "KingAragorn"
 ---
 
-[John Garth](/wiki/John_Garth) at [The Return of the Ring](/wiki/The_Return_of_the_Ring) in 2012.
+[John Garth](../../main/J/John_Garth.md) at [The Return of the Ring](../../main/T/The_Return_of_the_Ring.md) in 2012.
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Emil Johansson</li>
 <li><b>Website:</b> <a class="external text" href="http://ejoh.se/" rel="noreferrer noopener" target="_blank">Emil Johansson&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Emil_Johansson" title="Tolkien Gateway:Copyrights/Emil Johansson">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEmil_Johansson.md" title="Tolkien Gateway:Copyrights/Emil Johansson">Permission for use on Tolkien Gateway</a></b></li></ul></div>

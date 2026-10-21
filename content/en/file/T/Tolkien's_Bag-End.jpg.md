@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Bag-End.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Bag-End.jpg</span>"
 page_id: 25965
 namespace: 6
 revision_id: 214473

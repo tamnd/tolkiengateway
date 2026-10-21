@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Frodo Baggins and the One Ring.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Frodo Baggins and the One Ring.JPG</span>"
 page_id: 21051
 namespace: 6
 revision_id: 298642
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo Baggins](/wiki/Frodo_Baggins) and [the One Ring](/wiki/The_One_Ring "The One Ring"). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Frodo Baggins](../../main/F/Frodo_Baggins.md) and [the One Ring](../../main/T/The_One_Ring.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

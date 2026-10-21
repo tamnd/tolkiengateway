@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Agandaûr"
 ---
 
-Redirect to [Agandaûr](/wiki/Agandaûr).
+Redirect to [Agandaûr](Agandaûr.md).

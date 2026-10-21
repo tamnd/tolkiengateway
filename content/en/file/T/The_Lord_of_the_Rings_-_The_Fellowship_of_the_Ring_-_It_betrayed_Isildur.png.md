@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - It betrayed Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - It betrayed Isildur.png</span>"
 page_id: 72617
 namespace: 6
 revision_id: 438147
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[The One Ring](/wiki/The_One_Ring) leaves [Isildur](/wiki/Isildur) - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+[The One Ring](../../main/T/The_One_Ring.md) leaves [Isildur](../../main/I/Isildur.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

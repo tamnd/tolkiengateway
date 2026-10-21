@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG Dark Minions Limited German Card Set (Front).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG Dark Minions Limited German Card Set (Front).jpg</span>"
 page_id: 72918
 namespace: 6
 revision_id: 432173

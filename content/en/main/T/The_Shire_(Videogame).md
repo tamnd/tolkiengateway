@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shire (video game)"
 ---
 
-Redirect to [The Shire (video game)](/wiki/The_Shire_(video_game)).
+Redirect to [The Shire (video game)](<The_Shire_(video_game).md>).

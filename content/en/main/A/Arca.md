@@ -13,21 +13,21 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>Arka</b></i> means "narrow" in [Quenya](/wiki/Quenya).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>Arka</b></i> means "narrow" in [Quenya](../Q/Quenya.md).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Derived from the [root](/wiki/Sundocarme "Sundocarme") **[AK-](/wiki/AK-)** ("narrow, confined").<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+Derived from the [root](../S/Sundocarme.md) **[AK-](AK-.md)** ("narrow, confined").<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Agor&amp;action=edit&amp;redlink=1" title="Agor (page does not exist)">agor</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Agor&amp;action=edit&amp;redlink=1" title="Agor (page does not exist)">agor</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry <b>AK-</b></span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry <b>AK-</b></span>
 </li>
 </ol></div>

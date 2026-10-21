@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snaga (orc of Isengard)"
 ---
 
-Redirect to [Snaga (orc of Isengard)](/wiki/Snaga_(orc_of_Isengard)).
+Redirect to [Snaga (orc of Isengard)](<Snaga_(orc_of_Isengard).md>).

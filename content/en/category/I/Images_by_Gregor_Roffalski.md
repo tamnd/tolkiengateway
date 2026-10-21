@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Gregor Roffalski"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Gregor Roffalski</span>"
 page_id: 18960
 namespace: 14
 revision_id: 202972
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Roffalski, Gregor"
 ---
 
-This category lists all **images by [Gregor Roffalski](/wiki/User:Sigismond "User:Sigismond")**.
+This category lists all **images by [Gregor Roffalski](https://tolkiengateway.net/wiki/User:Sigismond)**.

@@ -13,17 +13,17 @@ categories:
   - "Quenya verbs"
 ---
 
-**ecces** in [Quenya](/wiki/Quenya) means "to find out, bring out by examining, or eyeing\[?\]"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ecces** in [Quenya](../Q/Quenya.md) means "to find out, bring out by examining, or eyeing\[?\]"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Older Quenya and [Vanyarin](/wiki/Vanyarin) *ecceth*.
+Older Quenya and [Vanyarin](../V/Vanyarin.md) *ecceth*.
 
-Possibly it incorporates *[et](/wiki/Et "Et")* "out of" + *[ces](/wiki/Ces "Ces")* "search" <span></span>
+Possibly it incorporates *[et](Et.md)* "out of" + *[ces](../C/Ces.md)* "search" <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a></span>
 </li>
 </ol></div>

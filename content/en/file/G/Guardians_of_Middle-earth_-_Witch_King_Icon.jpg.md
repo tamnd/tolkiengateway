@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Witch King Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Witch King Icon.jpg</span>"
 page_id: 71377
 namespace: 6
 revision_id: 425875
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Witch-king](/wiki/Witch-king) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+The [Witch-king](../../main/W/Witch-king.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

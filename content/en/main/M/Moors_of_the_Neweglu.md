@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moors of the Nibin-noeg"
 ---
 
-Redirect to [Moors of the Nibin-noeg](/wiki/Moors_of_the_Nibin-noeg).
+Redirect to [Moors of the Nibin-noeg](Moors_of_the_Nibin-noeg.md).

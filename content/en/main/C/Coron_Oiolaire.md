@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ezellohar"
 ---
 
-Redirect to [Ezellohar](/wiki/Ezellohar).
+Redirect to [Ezellohar](../E/Ezellohar.md).

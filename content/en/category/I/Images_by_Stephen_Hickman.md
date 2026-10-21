@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stephen Hickman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stephen Hickman</span>"
 page_id: 7473
 namespace: 14
 revision_id: 182173
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hickman, Stephen"
 ---
 
-This category lists all **images by [Stephen Hickman](/wiki/Stephen_Hickman)**.
+This category lists all **images by [Stephen Hickman](../../main/S/Stephen_Hickman.md)**.

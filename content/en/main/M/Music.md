@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Music"
 ---
 
-Redirect to [Portal:Music](/wiki/Portal:Music).
+Redirect to [Portal:Music](../../portal/M/Music.md).

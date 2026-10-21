@@ -1,6 +1,5 @@
 ---
 title: "File:Roverandom 2025.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roverandom 2025.jpg</span>"
 page_id: 68946
 namespace: 6
 revision_id: 411248

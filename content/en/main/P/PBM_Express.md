@@ -1,6 +1,5 @@
 ---
 title: "PBM Express"
-display_title: "<span class=\"mw-page-title-main\">PBM Express</span>"
 page_id: 27687
 namespace: 0
 revision_id: 190102
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**PBM Express** was a Dutch company that would be the game master and publisher of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail), but it was cancelled in the Netherlands.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**PBM Express** was a Dutch company that would be the game master and publisher of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md), but it was cancelled in the Netherlands.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

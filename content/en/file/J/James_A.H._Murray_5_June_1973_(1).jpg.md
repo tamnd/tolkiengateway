@@ -1,6 +1,5 @@
 ---
 title: "File:James A.H. Murray 5 June 1973 (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">James A.H. Murray 5 June 1973 (1).jpg</span>"
 page_id: 32165
 namespace: 6
 revision_id: 215040

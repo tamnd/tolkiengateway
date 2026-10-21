@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unfinished Tales"
 ---
 
-Redirect to [Unfinished Tales](/wiki/Unfinished_Tales).
+Redirect to [Unfinished Tales](../U/Unfinished_Tales.md).

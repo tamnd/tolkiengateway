@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Contact"
 ---
 
-Redirect to [Tolkien Gateway:Contact](/wiki/Tolkien_Gateway:Contact).
+Redirect to [Tolkien Gateway:Contact](Contact.md).

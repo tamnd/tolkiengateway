@@ -15,11 +15,11 @@ sort_keys:
   "Letters": "Smith, Nancy (1963-12)"
 ---
 
-During Christmas [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Nancy Smith](/wiki/Nancy_Smith)**.
+During Christmas [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Nancy Smith](../N/Nancy_Smith.md)**.
 
-- **Comments:** Three paragraphs from this letter were used in composition of the article "[Tolkien on Tolkien](/wiki/Tolkien_on_Tolkien)", (those paragraphs were included at the end of [Letter 165](/wiki/Letter_165)). The letter was bought by [Marquette University](/wiki/Marquette_University) Libraries in 2002.
-- **Contents:** Autobiographical information about Tolkien and a discussion of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
-- **Publication:** Partially in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*, and reproduced in full in *[Christie's Fine Printed Books and Manuscripts 24 May 2002](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_24_May_2002)*.
+- **Comments:** Three paragraphs from this letter were used in composition of the article "[Tolkien on Tolkien](../T/Tolkien_on_Tolkien.md)", (those paragraphs were included at the end of [Letter 165](Letter_165.md)). The letter was bought by [Marquette University](../M/Marquette_University.md) Libraries in 2002.
+- **Contents:** Autobiographical information about Tolkien and a discussion of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+- **Publication:** Partially in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, and reproduced in full in *[Christie's Fine Printed Books and Manuscripts 24 May 2002](../C/Christie's_Fine_Printed_Books_and_Manuscripts_24_May_2002.md)*.
 
 <h2><span id="From_Christie.27s"></span><span class="mw-headline" id="From_Christie&#39;s">From Christie&#39;s</span></h2>
 

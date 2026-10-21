@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narya"
 ---
 
-Redirect to [Narya](/wiki/Narya).
+Redirect to [Narya](../N/Narya.md).

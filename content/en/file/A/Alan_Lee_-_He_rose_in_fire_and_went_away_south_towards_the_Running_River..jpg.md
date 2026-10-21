@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - He rose in fire and went away south towards the Running River..jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - He rose in fire and went away south towards the Running River..jpg</span>"
 page_id: 72466
 namespace: 6
 revision_id: 430564
@@ -29,13 +28,13 @@ file:
 
 ## Summary {#Summary}
 
-"[He](/wiki/Smaug "Smaug") rose in fire and went away south towards [the Running River](/wiki/River_Running "River Running")." by [Alan Lee](/wiki/Alan_Lee). Illustration from *[The Hobbit](/wiki/The_Hobbit)*.
+"[He](../../main/S/Smaug.md) rose in fire and went away south towards [the Running River](../../main/R/River_Running.md)." by [Alan Lee](../../main/A/Alan_Lee.md). Illustration from *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

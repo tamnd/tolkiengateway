@@ -13,21 +13,21 @@ categories:
   - "Exilic Noldorin words"
 ---
 
-<i><b>nestegi</b></i> is an [Exilic Noldorin](/wiki/Noldorin "Noldorin") word meaning "insert, stick in". The past tense is said to be *nestanc*.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>nestegi</b></i> is an [Exilic Noldorin](Noldorin.md) word meaning "insert, stick in". The past tense is said to be *nestanc*.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
-[Didier Willis](/wiki/Didier_Willis) has suggested that *nestag-* (retaining the same meaning) would be the valid [Neo-Sindarin](/wiki/Neo-Elvish "Neo-Elvish") form of the infinitive verb *nestegi*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Didier Willis](../D/Didier_Willis.md) has suggested that *nestag-* (retaining the same meaning) would be the valid [Neo-Sindarin](Neo-Elvish.md) form of the infinitive verb *nestegi*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word derives from [Old Noldorin](/wiki/Kornoldorin "Kornoldorin") *nestak-* ("insert, stick in"), from [root](/wiki/Sundocarme "Sundocarme") [STAK](/wiki/STAK).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+The word derives from [Old Noldorin](../K/Kornoldorin.md) *nestak-* ("insert, stick in"), from [root](../S/Sundocarme.md) [STAK](../S/STAK.md).<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 388</span>
+<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 388</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Didier_Willis" title="Didier Willis">Didier Willis</a>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/english.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> at <a class="external text" href="http://www.jrrvf.com/haut.shtml" rel="noreferrer noopener" target="_blank">Jrrvf.com</a> (accessed 19 June 2011)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/english.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> at <a class="external text" href="http://www.jrrvf.com/haut.shtml" rel="noreferrer noopener" target="_blank">Jrrvf.com</a> (accessed 19 June 2011)</span>
 </li>
 </ol></div>

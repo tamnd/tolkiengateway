@@ -1,6 +1,5 @@
 ---
 title: "John Le Mesurier"
-display_title: "<span class=\"mw-page-title-main\">John Le Mesurier</span>"
 page_id: 6891
 namespace: 0
 revision_id: 156084
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Le Mesurier, John"
 ---
 
-**John Charles Elton Le Mesurier De Somerys Halliley** ([April 5](/wiki/5_April "5 April"), [1912](/wiki/1912) - [November 15](/wiki/15_November "15 November"), [1983](/wiki/1983)) voiced the part of [Bilbo Baggins](/wiki/Bilbo_Baggins) in [*The Lord of the Rings* 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on [BBC 4](/wiki/BBC "BBC"). He also sang a demo version *[Bilbo's Last Song](/wiki/Bilbo%27s_Last_Song)*, which was first aired in [1982](/wiki/1982) and appeared as an extra on the third volume in the [2002](/wiki/2002) reissue of the series.
+**John Charles Elton Le Mesurier De Somerys Halliley** ([April 5](../_/5_April.md), [1912](../_/1912.md) - [November 15](../_/15_November.md), [1983](../_/1983.md)) voiced the part of [Bilbo Baggins](../B/Bilbo_Baggins.md) in [*The Lord of the Rings* 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on [BBC 4](../B/BBC.md). He also sang a demo version *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*, which was first aired in [1982](../_/1982.md) and appeared as an extra on the third volume in the [2002](../_/2002.md) reissue of the series.
 
 ## External links {#External_links}
 

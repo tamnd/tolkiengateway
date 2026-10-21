@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn'as Quest - cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;as Quest - cover.jpg</span>"
 page_id: 28419
 namespace: 6
 revision_id: 224965
@@ -27,7 +26,7 @@ file:
   user: "Ederchil"
 ---
 
-Box Art for *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*. Taken from: <a class="external autonumber" href="http://en.wikipedia.org/wiki/File:LoTR_Aragorn%27s_Quest.jpg" rel="noreferrer noopener" target="_blank">[1]</a>
+Box Art for *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*. Taken from: <a class="external autonumber" href="http://en.wikipedia.org/wiki/File:LoTR_Aragorn%27s_Quest.jpg" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Warden of the Keys"
-display_title: "<span class=\"mw-page-title-main\">Warden of the Keys</span>"
 page_id: 4912
 namespace: 0
 revision_id: 343297
@@ -23,15 +22,15 @@ langlinks:
     url: "https://kontu.wiki/Avaintenhaltija"
 ---
 
-**Warden of the Keys** was a high office of [Minas Tirith](/wiki/Minas_Tirith) in [Gondor](/wiki/Gondor).
+**Warden of the Keys** was a high office of [Minas Tirith](../M/Minas_Tirith.md) in [Gondor](../G/Gondor.md).
 
-At the time of the [War of the Ring](/wiki/War_of_the_Ring), the position was filled by [Húrin the Tall](</wiki/H%C3%BArin_(Warden_of_the_Keys)> "Húrin (Warden of the Keys)"), who gained the epithet "of the Keys". At the coronation of [Aragorn](/wiki/Aragorn), he opened a barricade (laid in place of the destroyed gate) at the [gatehouse of Minas Tirith](/wiki/Great_Gate_of_Minas_Tirith "Great Gate of Minas Tirith") for the new king. Other than that, what other tasks and responsibilities belonged to this office remains unknown.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+At the time of the [War of the Ring](War_of_the_Ring.md), the position was filled by [Húrin the Tall](<../H/Húrin_(Warden_of_the_Keys).md>), who gained the epithet "of the Keys". At the coronation of [Aragorn](../A/Aragorn.md), he opened a barricade (laid in place of the destroyed gate) at the [gatehouse of Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) for the new king. Other than that, what other tasks and responsibilities belonged to this office remains unknown.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Steward_and_the_King" title="The Steward and the King">The Steward and the King</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Steward_and_the_King.md" title="The Steward and the King">The Steward and the King</a>&#34;</span>
 </li>
 </ol></div>

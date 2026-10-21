@@ -1,6 +1,5 @@
 ---
 title: "Category:Official calendars"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Official calendars</span>"
 page_id: 51894
 namespace: 14
 revision_id: 339262
@@ -13,4 +12,4 @@ categories:
   - "Calendars (real-world)"
 ---
 
-Calendars published by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s publishers, namely [George Allen and Unwin](/wiki/Allen_and_Unwin "Allen and Unwin"), [Unwin Hyman](/wiki/Unwin_Hyman) and [HarperCollins](/wiki/HarperCollins) in the UK, or [Ballantine Books](/wiki/Ballantine_Books) and [Houghton Mifflin](/wiki/Houghton_Mifflin) in the USA.
+Calendars published by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s publishers, namely [George Allen and Unwin](../../main/A/Allen_and_Unwin.md), [Unwin Hyman](../../main/U/Unwin_Hyman.md) and [HarperCollins](../../main/H/HarperCollins.md) in the UK, or [Ballantine Books](../../main/B/Ballantine_Books.md) and [Houghton Mifflin](../../main/H/Houghton_Mifflin.md) in the USA.

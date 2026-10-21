@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Southern lands"
 ---
 
-Redirect to [Category:Southern lands](/wiki/Category:Southern_lands).
+Redirect to [Category:Southern lands](../../category/S/Southern_lands.md).

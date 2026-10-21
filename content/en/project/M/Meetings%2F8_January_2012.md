@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/8 January 2012"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/8 January 2012</span>"
 page_id: 37039
 namespace: 4
 revision_id: 202012
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 8 January 2012</i>, 8pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 8 January 2012</i>, 8pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda and outcome {#Agenda_and_outcome}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -86,16 +82,16 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="/wiki/User:Gamling" title="User:Gamling">Gamling</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present. <a href="/wiki/User:Seregdae" title="User:Seregdae">Seregdae</a> intended to attend, but did not.
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="https://tolkiengateway.net/wiki/User:Gamling" title="User:Gamling">Gamling</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present. <a href="https://tolkiengateway.net/wiki/User:Seregdae" title="User:Seregdae">Seregdae</a> intended to attend, but did not.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Can we make sure that articles in the index namespace are included in search results by default?
 </td>
@@ -104,24 +100,24 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
-<td>How should we deal with long sections within articles? (i.e. <a href="/wiki/Gandalf#Names" title="Gandalf">Gandalf#Names</a>) Possible solutions include:
+<td>How should we deal with long sections within articles? (i.e. <a href="../../main/G/Gandalf.md#Names" title="Gandalf">Gandalf#Names</a>) Possible solutions include:
 <ul><li>just keeping the content on the article as normal;</li>
 <li>moving it to a sub-page;</li>
-<li>or employing the use of a scrollable DIV (along the lines of <a href="/wiki/Tom_Shippey#Bibliography" title="Tom Shippey">this</a>).</li></ul>
+<li>or employing the use of a scrollable DIV (along the lines of <a href="../../main/T/Tom_Shippey.md#Bibliography" title="Tom Shippey">this</a>).</li></ul>
 <p>Amroth added this additional, but related, question: In regards to the sub-page option above, where should we redirect to?
 </p>
 <ul><li>Main Article?</li>
 <li>Sub-page?</li>
 <li>Header in the sub-page?</li></ul>
 </td>
-<td>It was agreed that the content should remain on the article as normal, but that in exceptional circumstances (such as <a href="/wiki/Gandalf#Names" title="Gandalf">Gandalf#Names</a>) it should be put into a sub-article and added to &#34;See also&#34;.
+<td>It was agreed that the content should remain on the article as normal, but that in exceptional circumstances (such as <a href="../../main/G/Gandalf.md#Names" title="Gandalf">Gandalf#Names</a>) it should be put into a sub-article and added to &#34;See also&#34;.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
 </td>
-<td><a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td>
 <td>Articles starting with &#34;A&#34; or &#34;An&#34; - should they be sorted under the following letter (with defaultsort, like articles starting with &#34;The&#34;)?
 </td>
@@ -130,7 +126,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#5
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>What can we do to stop scaring off new, particularly anonymous, editors?
 </td>
@@ -139,7 +135,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Adjournment discussions and meeting adjournment.
 </td>
@@ -150,6 +146,6 @@ sort_keys:
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/8_January_2012 "Tolkien Gateway talk:Meetings/8 January 2012")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/8_January_2012/Transcript "Tolkien Gateway:Meetings/8 January 2012/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/8_January_2012)
+- [Transcript](Meetings%252F8_January_2012%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Canon"
 ---
 
-Redirect to [Canon](/wiki/Canon).
+Redirect to [Canon](../C/Canon.md).

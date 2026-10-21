@@ -1,6 +1,5 @@
 ---
 title: "File:Arthur Tolkien 14 February 1896.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arthur Tolkien 14 February 1896.jpg</span>"
 page_id: 43193
 namespace: 6
 revision_id: 227247

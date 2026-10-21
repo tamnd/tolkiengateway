@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northern Mirkwood"
 ---
 
-Redirect to [Northern Mirkwood](/wiki/Northern_Mirkwood).
+Redirect to [Northern Mirkwood](../N/Northern_Mirkwood.md).

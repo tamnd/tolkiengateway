@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Waymeet"
 ---
 
-Redirect to [Waymeet](/wiki/Waymeet).
+Redirect to [Waymeet](Waymeet.md).

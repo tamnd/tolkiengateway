@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanorian dialect"
 ---
 
-Redirect to [Fëanorian dialect](/wiki/Fëanorian_dialect).
+Redirect to [Fëanorian dialect](Fëanorian_dialect.md).

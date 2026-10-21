@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bill the Pony"
 ---
 
-Redirect to [Bill the Pony](/wiki/Bill_the_Pony).
+Redirect to [Bill the Pony](Bill_the_Pony.md).

@@ -1,6 +1,5 @@
 ---
 title: "Conselho Branco, Sociedade Tolkien"
-display_title: "<span class=\"mw-page-title-main\">Conselho Branco, Sociedade Tolkien</span>"
 page_id: 27872
 namespace: 0
 revision_id: 419659
@@ -16,16 +15,16 @@ images:
   - "Conselho_Branco,_Sociedade_Tolkien.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Conselho_Branco,_Sociedade_Tolkien.png"><img src="/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Heraldic device of Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Conselho_Branco,_Sociedade_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/b/b5/Conselho_Branco%2C_Sociedade_Tolkien.png" decoding="async" loading="lazy" width="190" height="248" class="mw-file-element" data-file-width="190" data-file-height="248"/></a><figcaption><small>Heraldic device of Conselho Branco, Sociedade Tolkien</small></figcaption></figure>
 
-**Conselho Branco, Sociedade Tolkien** (Brazilian: **The White Council, Tolkien Society**) is a Brazilian Tolkien Society founded in [7 September](/wiki/7_September) [2000](/wiki/2000).
+**Conselho Branco, Sociedade Tolkien** (Brazilian: **The White Council, Tolkien Society**) is a Brazilian Tolkien Society founded in [7 September](../_/7_September.md) [2000](../_/2000.md).
 
 The society consists of subgroups in several Brazilian cities that organize local meetings and events to discuss and promote the Professor's work under a statute, a deliberative National Board and an Organizing Committee with executive powers over the entire national territory. Additionally, some members also produce academic content related to Tolkien.
 
 ## See also {#See_also}
 
-- [The Brazilian Tolkien Society](/wiki/The_Brazilian_Tolkien_Society), another Brazilian [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies").
-- [Heren Hyarmen](/wiki/Heren_Hyarmen)
+- [The Brazilian Tolkien Society](../T/The_Brazilian_Tolkien_Society.md), another Brazilian [Tolkien Society](../T/Tolkien_Societies~67099.md).
+- [Heren Hyarmen](../H/Heren_Hyarmen.md)
 
 ## External links {#External_links}
 

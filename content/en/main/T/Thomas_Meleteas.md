@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Mthomas"
 ---
 
-Redirect to [User:Mthomas](/wiki/User:Mthomas).
+Redirect to [User:Mthomas](https://tolkiengateway.net/wiki/User:Mthomas).

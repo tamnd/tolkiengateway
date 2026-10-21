@@ -1,6 +1,5 @@
 ---
 title: "Marcel Bülles"
-display_title: "<span class=\"mw-page-title-main\">Marcel Bülles</span>"
 page_id: 15089
 namespace: 0
 revision_id: 435805
@@ -39,46 +38,44 @@ infobox:
     value: "Cologne, Germany"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Marcel_B%C3%BClles.jpg"><img src="/w/images/thumb/e/ef/Marcel_B%C3%BClles.jpg/320px-Marcel_B%C3%BClles.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="/w/images/thumb/e/ef/Marcel_B%C3%BClles.jpg/480px-Marcel_B%C3%BClles.jpg 1.5x, /w/images/e/ef/Marcel_B%C3%BClles.jpg 2x" data-file-width="640" data-file-height="960"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marcel Bülles</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">University of Cologne</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Freelance journalist and translator</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Cologne, Germany</td></tr></tbody></table>
-
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Marcel_Bülles.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/Marcel_B%C3%BClles.jpg/320px-Marcel_B%C3%BClles.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/Marcel_B%C3%BClles.jpg/480px-Marcel_B%C3%BClles.jpg 1.5x, https://tolkiengateway.net/w/images/e/ef/Marcel_B%C3%BClles.jpg 2x" data-file-width="640" data-file-height="960"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Marcel Bülles</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">University of Cologne</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Freelance journalist and translator</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Cologne, Germany</td></tr></tbody></table>
 
 **Marcel R. Bülles** is a German freelance journalist and translator.
 
 ## Biography {#Biography}
 
-Bülles has collaborated with Professor [Michael D.C. Drout](/wiki/Michael_D.C._Drout) in research on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), assisted in the preparation of the academic yearbook *[Tolkien Studies](</wiki/Tolkien_Studies_(journal)> "Tolkien Studies (journal)")*, and contributed a few articles for the *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*.
+Bülles has collaborated with Professor [Michael D.C. Drout](Michael_D.C._Drout.md) in research on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), assisted in the preparation of the academic yearbook *[Tolkien Studies](<../T/Tolkien_Studies_(journal).md>)*, and contributed a few articles for the *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*.
 
-He is the founding chairman of the [German Tolkien Society](/wiki/German_Tolkien_Society) (1997) and has been the European Representative of the Tolkien Society, UK. He has initiated the first regular annual academic conference in Germany on Tolkien (Tolkien Seminar) and is a co-founder of [Ring\*Con](/wiki/Ring*Con), Europe's largest and the first ever film trilogy convention.
+He is the founding chairman of the [German Tolkien Society](../G/German_Tolkien_Society.md) (1997) and has been the European Representative of the Tolkien Society, UK. He has initiated the first regular annual academic conference in Germany on Tolkien (Tolkien Seminar) and is a co-founder of [Ring\*Con](../R/Ring%252ACon.md), Europe's largest and the first ever film trilogy convention.
 
-A well-known speaker on various Tolkien-related events, he has given talks in the US, Canada, Switzerland, UK and Italy. He held a position as a member of the Board of Editors of the German Tolkien Society's academic yearbook *[Hither Shore](</wiki/Hither_Shore_(journal)> "Hither Shore (journal)")*.
+A well-known speaker on various Tolkien-related events, he has given talks in the US, Canada, Switzerland, UK and Italy. He held a position as a member of the Board of Editors of the German Tolkien Society's academic yearbook *[Hither Shore](<../H/Hither_Shore_(journal).md>)*.
 
-Bülles takes a special interest in international relationships between Tolkien societies throughout the world and since 2003 the GTS has been inviting chairmen and chairwomen to their annual main event, the [Tolkien Thing](/wiki/Tolkien_Thing), including Israel, Greece, Belgium and France. In 2005 he invited four European Tolkien societies to join a friendship agreement informing each member of the union to keep all others informed about events, publications etc. France, Belgium and Austria joined.
+Bülles takes a special interest in international relationships between Tolkien societies throughout the world and since 2003 the GTS has been inviting chairmen and chairwomen to their annual main event, the [Tolkien Thing](../T/Tolkien_Thing.md), including Israel, Greece, Belgium and France. In 2005 he invited four European Tolkien societies to join a friendship agreement informing each member of the union to keep all others informed about events, publications etc. France, Belgium and Austria joined.
 
-He is an honorary member of the [Greek Tolkien Society](/wiki/Greek_Tolkien_Society) and attended *Cair Andros* in 2007. He is also an honorary member of the [German Tolkien Society](/wiki/German_Tolkien_Society).
+He is an honorary member of the [Greek Tolkien Society](../G/Greek_Tolkien_Society.md) and attended *Cair Andros* in 2007. He is also an honorary member of the [German Tolkien Society](../G/German_Tolkien_Society.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [1995](/wiki/1995): [*Amon Hen* 134](/wiki/Amon_Hen_134 "Amon Hen 134")
+- [1995](../_/1995.md): [*Amon Hen* 134](../A/Amon_Hen_134.md)
     - "Death of a Dunadan"
-- [1996](/wiki/1996): [*Amon Hen* 138](/wiki/Amon_Hen_138 "Amon Hen 138")
+- [1996](../_/1996.md): [*Amon Hen* 138](../A/Amon_Hen_138.md)
     - "Cirdan - One of Unknown Heroes"
-- [1997](/wiki/1997): [*Amon Hen* 148](/wiki/Amon_Hen_148 "Amon Hen 148")
+- [1997](../_/1997.md): [*Amon Hen* 148](../A/Amon_Hen_148.md)
     - "Report: Oxonmoot"
-- [2000](/wiki/2000): [*The Best of Amon Hen* Part 1](/wiki/The_Best_of_Amon_Hen "The Best of Amon Hen")
+- [2000](../_/2000.md): [*The Best of Amon Hen* Part 1](../T/The_Best_of_Amon_Hen.md)
     - "Death of a Dunadan"
     - "Cirdan - One of Unknown Heroes"
-- [2004](/wiki/2004): [*Hither Shore* 1](/wiki/Hither_Shore_1 "Hither Shore 1")
+- [2004](../_/2004.md): [*Hither Shore* 1](../H/Hither_Shore_1.md)
     - "Tolkien Criticism — reloaded"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Merchandising", "Thingol"
-- [2010](/wiki/2010): [*Mallorn* 50](/wiki/Mallorn_50 "Mallorn 50")
+- [2010](../_/2010.md): [*Mallorn* 50](Mallorn_50.md)
     - "Envisaging the future" (guest editorial)
-- [2013](/wiki/2013): [*Mallorn* 54](/wiki/Mallorn_54 "Mallorn 54")
-    - "A journey to the cinema" (review of *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*)
-- [2020](/wiki/2020): [*Mallorn* 61](/wiki/Mallorn_61 "Mallorn 61")
+- [2013](../_/2013.md): [*Mallorn* 54](Mallorn_54.md)
+    - "A journey to the cinema" (review of *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
+- [2020](../_/2020.md): [*Mallorn* 61](Mallorn_61.md)
     - "Oxford, New York City, Paris: The Tolkien Exhibitions 2018-2020"
 
 ## External links {#External_links}

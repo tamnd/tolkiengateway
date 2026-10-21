@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Long-worms"
 ---
 
-Redirect to [Long-worms](/wiki/Long-worms).
+Redirect to [Long-worms](Long-worms.md).

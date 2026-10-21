@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bag End"
 ---
 
-Redirect to [Bag End](/wiki/Bag_End).
+Redirect to [Bag End](Bag_End.md).

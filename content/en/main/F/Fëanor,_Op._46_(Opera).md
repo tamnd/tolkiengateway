@@ -1,6 +1,5 @@
 ---
 title: "Fëanor, Op. 46 (Opera)"
-display_title: "<span class=\"mw-page-title-main\">Fëanor, Op. 46 (Opera)</span>"
 page_id: 65170
 namespace: 0
 revision_id: 426183
@@ -16,13 +15,13 @@ images:
   - "Feanor_Cover.png"
 ---
 
-Part one of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
+Part one of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
 
-This section of the *Epic Scenes* was composed between late 1982 and 1986 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. It utilises texts from *[The Silmarillion](/wiki/The_Silmarillion)* and *[Morgoth's Ring](/wiki/Morgoth%27s_Ring)*.
+This section of the *Epic Scenes* was composed between late 1982 and 1986 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. It utilises texts from *[The Silmarillion](../T/The_Silmarillion.md)* and *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.
 
 It has a total duration of 122 minutes and is scored for full orchestra, full chorus and solo voices.
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Feanor_Cover.png"><img src="/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, /w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Artwork from the CD release, used by kind permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>Artwork from the CD release, used by kind permission of Ted Nasmith.</figcaption></figure>
 
 ## Characters {#Characters}
 

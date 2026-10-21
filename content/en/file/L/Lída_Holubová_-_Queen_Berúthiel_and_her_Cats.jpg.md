@@ -1,6 +1,5 @@
 ---
 title: "File:Lída Holubová - Queen Berúthiel and her Cats.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lída Holubová - Queen Berúthiel and her Cats.jpg</span>"
 page_id: 72298
 namespace: 6
 revision_id: 429704
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Queen](/wiki/Queen_of_Gondor "Queen of Gondor") [Berúthiel](/wiki/Ber%C3%BAthiel) and [her Cats](/wiki/Cats_of_Queen_Ber%C3%BAthiel "Cats of Queen Berúthiel")" by [Lída Holubová](/wiki/L%C3%ADda_Holubov%C3%A1)
+"[Queen](../../main/Q/Queen_of_Gondor.md) [Berúthiel](../../main/B/Berúthiel.md) and [her Cats](../../main/C/Cats_of_Queen_Berúthiel.md)" by [Lída Holubová](../../main/L/Lída_Holubová.md)
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lída Holubová</li>
 <li><b>Website:</b> <a class="external text" href="https://aegeri.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="https://www.instagram.com/gnome.the.artist/" rel="noreferrer noopener" target="_blank">Instagram</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C3%ADda_Holubov%C3%A1" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLída_Holubová.md" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

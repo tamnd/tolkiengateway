@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Malva Meadowgrass, Sadoc Burrows, and Marigold Brandyfoot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Malva Meadowgrass, Sadoc Burrows, and Marigold Brandyfoot.jpg</span>"
 page_id: 63585
 namespace: 6
 revision_id: 412292
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Malva Meadowgrass](/wiki/Malva_Meadowgrass), [Sadoc Burrows](/wiki/Sadoc_Burrows), and [Marigold Brandyfoot](/wiki/Marigold_Brandyfoot) from *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+[Malva Meadowgrass](../../main/M/Malva_Meadowgrass.md), [Sadoc Burrows](../../main/S/Sadoc_Burrows.md), and [Marigold Brandyfoot](../../main/M/Marigold_Brandyfoot.md) from *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hengest and Horsa"
 ---
 
-Redirect to [Hengest and Horsa](/wiki/Hengest_and_Horsa).
+Redirect to [Hengest and Horsa](Hengest_and_Horsa.md).

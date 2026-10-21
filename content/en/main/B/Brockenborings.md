@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brockenbores"
 ---
 
-Redirect to [Brockenbores](/wiki/Brockenbores).
+Redirect to [Brockenbores](Brockenbores.md).

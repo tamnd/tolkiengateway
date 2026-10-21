@@ -1,6 +1,5 @@
 ---
 title: "File:The Battle of Maldon deluxe.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Battle of Maldon deluxe.jpg</span>"
 page_id: 63796
 namespace: 6
 revision_id: 364486

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ecthelion (disambiguation)"
 ---
 
-Redirect to [Ecthelion (disambiguation)](/wiki/Ecthelion_(disambiguation)).
+Redirect to [Ecthelion (disambiguation)](<Ecthelion_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Kyle Anderson"
-display_title: "<span class=\"mw-page-title-main\">Kyle Anderson</span>"
 page_id: 20938
 namespace: 0
 revision_id: 178954
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Anderson, Kyle"
 ---
 
-**Kyle Anderson** is an illustrator, concept artist and visual designer for games and film, specialising in the fantasy genre. He has provided concept art for [Vivendi Universal](/wiki/Vivendi "Vivendi") and [Midway](/wiki/Midway_Games "Midway Games").
+**Kyle Anderson** is an illustrator, concept artist and visual designer for games and film, specialising in the fantasy genre. He has provided concept art for [Vivendi Universal](../V/Vivendi.md) and [Midway](../M/Midway_Games.md).
 
 ## See also {#See_also}
 
-- [Images by Kyle Anderson](/wiki/Category:Images_by_Kyle_Anderson "Category:Images by Kyle Anderson")
+- [Images by Kyle Anderson](../../category/I/Images_by_Kyle_Anderson.md)
 
 ## External links {#External_links}
 

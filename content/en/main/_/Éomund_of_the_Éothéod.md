@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éomund (Captain of the Éothéod)"
 ---
 
-Redirect to [Éomund (Captain of the Éothéod)](/wiki/Éomund_(Captain_of_the_Éothéod)).
+Redirect to [Éomund (Captain of the Éothéod)](<Éomund_(Captain_of_the_Éothéod).md>).

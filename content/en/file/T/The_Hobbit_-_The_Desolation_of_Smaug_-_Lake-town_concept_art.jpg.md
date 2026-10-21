@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Lake-town concept art.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Lake-town concept art.jpg</span>"
 page_id: 56407
 namespace: 6
 revision_id: 307571
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of [Lake-town](/wiki/Lake-town) from *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*.
+Concept art of [Lake-town](../../main/L/Lake-town.md) from *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
 
 ## Licensing {#Licensing}
 

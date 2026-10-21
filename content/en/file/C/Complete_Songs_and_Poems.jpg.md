@@ -1,6 +1,5 @@
 ---
 title: "File:Complete Songs and Poems.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Complete Songs and Poems.jpg</span>"
 page_id: 26399
 namespace: 6
 revision_id: 434750

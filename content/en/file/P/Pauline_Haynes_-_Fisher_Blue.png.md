@@ -1,6 +1,5 @@
 ---
 title: "File:Pauline Haynes - Fisher Blue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pauline Haynes - Fisher Blue.png</span>"
 page_id: 71141
 namespace: 6
 revision_id: 424719

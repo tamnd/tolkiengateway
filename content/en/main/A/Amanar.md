@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yule"
 ---
 
-Redirect to [Yule](/wiki/Yule).
+Redirect to [Yule](../Y/Yule.md).

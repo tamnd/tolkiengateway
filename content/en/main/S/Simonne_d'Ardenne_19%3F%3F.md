@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Simonne d'Ardenne (unknown date)"
 ---
 
-Redirect to [Letter to Simonne d'Ardenne (unknown date)](/wiki/Letter_to_Simonne_d'Ardenne_(unknown_date)).
+Redirect to [Letter to Simonne d'Ardenne (unknown date)](<../L/Letter_to_Simonne_d'Ardenne_(unknown_date).md>).

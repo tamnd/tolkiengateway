@@ -1,6 +1,5 @@
 ---
 title: "File:English glossary.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">English glossary.jpg</span>"
 page_id: 25932
 namespace: 6
 revision_id: 214183

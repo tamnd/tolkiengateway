@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Forest"
 ---
 
-Redirect to [Old Forest](/wiki/Old_Forest).
+Redirect to [Old Forest](Old_Forest.md).

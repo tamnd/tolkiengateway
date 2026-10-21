@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Coliandre"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Coliandre</span>"
 page_id: 64802
 namespace: 4
 revision_id: 373369
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Coliandre"
 ---
 
-- Coliandre has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Coliandre "Category:Images by Coliandre") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [May 17th](/wiki/May_17 "May 17"), [2023](/wiki/2023)
-- User who received the permission, via email: [User:Hyarion](/wiki/User:Hyarion)
+- Coliandre has kindly granted permission to use [their artwork](../../category/I/Images_by_Coliandre.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [May 17th](../../main/M/May_17.md), [2023](../../main/_/2023.md)
+- User who received the permission, via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

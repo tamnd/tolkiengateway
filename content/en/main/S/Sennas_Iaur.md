@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Guesthouse"
 ---
 
-Redirect to [Old Guesthouse](/wiki/Old_Guesthouse).
+Redirect to [Old Guesthouse](../O/Old_Guesthouse.md).

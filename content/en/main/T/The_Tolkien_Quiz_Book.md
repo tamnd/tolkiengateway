@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Quiz Book (disambiguation)"
 ---
 
-Redirect to [The Tolkien Quiz Book (disambiguation)](/wiki/The_Tolkien_Quiz_Book_(disambiguation)).
+Redirect to [The Tolkien Quiz Book (disambiguation)](<The_Tolkien_Quiz_Book_(disambiguation).md>).

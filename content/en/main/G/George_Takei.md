@@ -1,6 +1,5 @@
 ---
 title: "George Takei"
-display_title: "<span class=\"mw-page-title-main\">George Takei</span>"
 page_id: 22461
 namespace: 0
 revision_id: 437688
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Takei, George"
 ---
 
-**George Hosato Takei Altman** ([20 April](/wiki/20_April) [1937](/wiki/1937)) is an American actor, best known as <a class="external text" href="http://memory-alpha.org/en/wiki/Hikaru_Sulu" rel="noreferrer noopener" target="_blank">Mr. Sulu</a> from *Star Trek* franchise, in which he co-starred with [Leonard Nimoy](/wiki/Leonard_Nimoy).
+**George Hosato Takei Altman** ([20 April](../_/20_April.md) [1937](../_/1937.md)) is an American actor, best known as <a class="external text" href="http://memory-alpha.org/en/wiki/Hikaru_Sulu" rel="noreferrer noopener" target="_blank">Mr. Sulu</a> from *Star Trek* franchise, in which he co-starred with [Leonard Nimoy](../L/Leonard_Nimoy.md).
 
-In [1991](/wiki/1991), conductor David Warble asked Takei to provide the narration for [Johan de Meij](/wiki/Johan_de_Meij)'s *[Symphony No. 1, "The Lord of the Rings"](/wiki/Symphony_No._1,_%22The_Lord_of_the_Rings%22)*. Out of curiosity and admiration of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, Takei agreed. The show premiered in the Fall of 1991 in the <a class="extiw" href="http://en.wikipedia.org/wiki/Orange_County_Performing_Arts_Center" title="wikipedia:Orange County Performing Arts Center">Orange County Performing Arts Center</a>, and has since been performed on many places in the world.
+In [1991](../_/1991.md), conductor David Warble asked Takei to provide the narration for [Johan de Meij](../J/Johan_de_Meij.md)'s *[Symphony No. 1, "The Lord of the Rings"](../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md)*. Out of curiosity and admiration of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Takei agreed. The show premiered in the Fall of 1991 in the <a class="extiw" href="http://en.wikipedia.org/wiki/Orange_County_Performing_Arts_Center" title="wikipedia:Orange County Performing Arts Center">Orange County Performing Arts Center</a>, and has since been performed on many places in the world.
 
 ## External links {#External_links}
 

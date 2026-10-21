@@ -1,6 +1,5 @@
 ---
 title: "File:Evocation of Virgil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Evocation of Virgil.jpg</span>"
 page_id: 27296
 namespace: 6
 revision_id: 214187

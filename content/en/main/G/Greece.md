@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Greece"
 ---
 
-Redirect to [Category:Greece](/wiki/Category:Greece).
+Redirect to [Category:Greece](../../category/G/Greece.md).

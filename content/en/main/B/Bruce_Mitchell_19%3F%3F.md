@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Bruce Mitchell"
 ---
 
-Redirect to [Letter to Bruce Mitchell](/wiki/Letter_to_Bruce_Mitchell).
+Redirect to [Letter to Bruce Mitchell](../L/Letter_to_Bruce_Mitchell.md).

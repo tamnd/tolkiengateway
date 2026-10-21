@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (The Lost Road)"
 ---
 
-Redirect to [Valandil (The Lost Road)](/wiki/Valandil_(The_Lost_Road)).
+Redirect to [Valandil (The Lost Road)](<Valandil_(The_Lost_Road).md>).

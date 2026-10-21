@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Pirate of Umbar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Pirate of Umbar.png</span>"
 page_id: 73298
 namespace: 6
 revision_id: 433536
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Pirate of Umbar](/wiki/Castamir_of_Umbar "Castamir of Umbar") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor067/pirate-of-umbar" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Pirate of Umbar](../../main/C/Castamir_of_Umbar.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor067/pirate-of-umbar" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Licensing {#Licensing}
 

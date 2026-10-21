@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Bilbo and Gollum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Bilbo and Gollum.jpg</span>"
 page_id: 71608
 namespace: 6
 revision_id: 426925
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Gollum](/wiki/Gollum)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). Commission completed in January [2002](/wiki/2002).
+"[Bilbo](../../main/B/Bilbo_Baggins.md) and [Gollum](../../main/G/Gollum.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Commission completed in January [2002](../../main/_/2002.md).
 
 ## Licensing {#Licensing}
 

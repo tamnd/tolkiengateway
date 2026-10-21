@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell Winter (disambiguation)"
 ---
 
-Redirect to [Fell Winter (disambiguation)](/wiki/Fell_Winter_(disambiguation)).
+Redirect to [Fell Winter (disambiguation)](<Fell_Winter_(disambiguation).md>).

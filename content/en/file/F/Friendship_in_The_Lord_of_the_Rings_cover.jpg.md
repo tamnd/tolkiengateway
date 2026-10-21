@@ -1,6 +1,5 @@
 ---
 title: "File:Friendship in The Lord of the Rings cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Friendship in The Lord of the Rings cover.jpg</span>"
 page_id: 69728
 namespace: 6
 revision_id: 414949
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art by [Jay Johnstone](/wiki/Jay_Johnstone).
+Cover art by [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 ## Licensing {#Licensing}
 

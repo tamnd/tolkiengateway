@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eastern hills"
 ---
 
-Redirect to [Eastern hills](/wiki/Eastern_hills).
+Redirect to [Eastern hills](../E/Eastern_hills.md).

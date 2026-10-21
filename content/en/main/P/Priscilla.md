@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Priscilla Tolkien"
 ---
 
-Redirect to [Priscilla Tolkien](/wiki/Priscilla_Tolkien).
+Redirect to [Priscilla Tolkien](Priscilla_Tolkien.md).

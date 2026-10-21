@@ -1,6 +1,5 @@
 ---
 title: "Wilfred Rowland Childe"
-display_title: "<span class=\"mw-page-title-main\">Wilfred Rowland Childe</span>"
 page_id: 27990
 namespace: 0
 revision_id: 440177
@@ -19,17 +18,17 @@ sort_keys:
   "People by name": "Childe, Wilfred Rowland"
 ---
 
-**Wilfred Rowland Childe** ([26 April](/wiki/26_April) [1890](/wiki/1890) - [10 November](/wiki/10_November) [1952](/wiki/1952)) was a British poet and critic. He was also a friend of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and godfather to his son [Christopher](/wiki/Christopher_Tolkien "Christopher Tolkien"). Like Tolkien, he was a Roman Catholic, having converted in 1916.
+**Wilfred Rowland Childe** ([26 April](../_/26_April.md) [1890](../_/1890.md) - [10 November](../_/10_November.md) [1952](../_/1952.md)) was a British poet and critic. He was also a friend of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and godfather to his son [Christopher](../C/Christopher_Tolkien.md). Like Tolkien, he was a Roman Catholic, having converted in 1916.
 
-Childe was educated at <a class="extiw" href="http://en.wikipedia.org/wiki/Harrow_School" title="wikipedia:Harrow School">Harrow School</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College, Oxford</a>. In 1922, he joined the English School at the [University of Leeds](/wiki/University_of_Leeds), and became a colleague of Tolkien.
+Childe was educated at <a class="extiw" href="http://en.wikipedia.org/wiki/Harrow_School" title="wikipedia:Harrow School">Harrow School</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Magdalen_College,_Oxford" title="wikipedia:Magdalen College, Oxford">Magdalen College, Oxford</a>. In 1922, he joined the English School at the [University of Leeds](../U/University_of_Leeds.md), and became a colleague of Tolkien.
 
-While at Oxford, Childe edited *[Oxford Poetry](/wiki/Oxford_Poetry)* in 1916 and 1917, a publication to which also Tolkien contributed. And together with poetry by Tolkien, Childe's work was published in *[A Northern Venture](/wiki/A_Northern_Venture)* and *[Leeds University Verse 1914-24](/wiki/Leeds_University_Verse_1914-24)*.
+While at Oxford, Childe edited *[Oxford Poetry](../O/Oxford_Poetry.md)* in 1916 and 1917, a publication to which also Tolkien contributed. And together with poetry by Tolkien, Childe's work was published in *[A Northern Venture](../A/A_Northern_Venture.md)* and *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)*.
 
 With Tolkien, Childe wrote a <a class="external text" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19230530/120/0004" rel="noreferrer noopener" target="_blank">letter on 30 May 1923</a> to the <a class="extiw" href="http://en.wikipedia.org/wiki/Leeds_Intelligencer" title="wikipedia:Leeds Intelligencer">Yorkshire Post and Leeds Intelligencer</a> defending <a class="external text" href="https://www.iwm.org.uk/memorials/item/memorial/22161" rel="noreferrer noopener" target="_blank">Eric Gill&#39;s WW1 memorial</a>, which depicted Christ driving the moneychangers from the Temple.
 
 ## See also {#See_also}
 
-- [Letter to George Allen and Unwin](/wiki/Letter_to_George_Allen_and_Unwin) (letter from Tolkien concerning Childe)
+- [Letter to George Allen and Unwin](../L/Letter_to_George_Allen_and_Unwin.md) (letter from Tolkien concerning Childe)
 
 ## External links {#External_links}
 
@@ -37,4 +36,4 @@ With Tolkien, Childe wrote a <a class="external text" href="https://www.britishn
 
 ## References {#References}
 
-- <small><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.160</small>
+- <small><a href="Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.160</small>

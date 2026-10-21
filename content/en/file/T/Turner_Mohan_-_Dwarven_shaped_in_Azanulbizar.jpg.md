@@ -1,6 +1,5 @@
 ---
 title: "File:Turner Mohan - Dwarven shaped in Azanulbizar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Turner Mohan - Dwarven shaped in Azanulbizar.jpg</span>"
 page_id: 74754
 namespace: 6
 revision_id: 439719
@@ -31,24 +30,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Turner Mohan - Dwarven shaped in Azanulbizar.jpg</span></th>
 <td class="description">
-<blockquote><p>Concept[...] I&#39;ve been working on for &#39;Durin,&#39; a <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">Tolkien</a>-inspired web comic series I&#39;ve had in mind for some time, and am hoping to get off the ground soon. The story will cover the life of <a href="/wiki/Durin_I" title="Durin I">Durin the Deathless</a>, and the gathering of the <a href="/wiki/Dwarves" title="Dwarves">dwarves</a> in <a href="/wiki/Moria" title="Moria">Khazad-Dum</a> in the early days of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-Earth</a>&#39;s history. more to follow :)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p></blockquote>
+<blockquote><p>Concept[...] I&#39;ve been working on for &#39;Durin,&#39; a <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>-inspired web comic series I&#39;ve had in mind for some time, and am hoping to get off the ground soon. The story will cover the life of <a href="../../main/D/Durin_I.md" title="Durin I">Durin the Deathless</a>, and the gathering of the <a href="../../main/D/Dwarves.md" title="Dwarves">dwarves</a> in <a href="../../main/M/Moria.md" title="Moria">Khazad-Dum</a> in the early days of <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-Earth</a>&#39;s history. more to follow :)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/3_February" title="3 February">3 February</a> <a href="/wiki/2017" title="2017">2017</a></td>
+<td><a href="../../main/_/3_February.md" title="3 February">3 February</a> <a href="../../main/_/2017.md" title="2017">2017</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Turner_Mohan" title="Category:Images by Turner Mohan">Turner Mohan</a></td>
+<td><a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://globalcomix.com/read/1ae8b80b-0c3b-4a9d-9e32-4b53ffc65dff/49" rel="noreferrer noopener" target="_blank">https://globalcomix.com/read/1ae8b80b-0c3b-4a9d-9e32-4b53ffc65dff/49</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Turner Mohan</span></span>
@@ -56,14 +52,14 @@ file:
 </p>
 <ul><li><b>Name:</b> Turner Mohan</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/turnermohan" rel="noreferrer noopener" target="_blank">Turner Mohan on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Turner_Mohan" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTurner_Mohan.md" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.deviantart.com/turnermohan/art/Primitive-Dwarves-Compilation-661339123" rel="noreferrer noopener" target="_blank">Primitive Dwarves Compilation</a> by <a href="/wiki/Category:Images_by_Turner_Mohan" title="Category:Images by Turner Mohan">Turner Mohan</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.deviantart.com/turnermohan/art/Primitive-Dwarves-Compilation-661339123" rel="noreferrer noopener" target="_blank">Primitive Dwarves Compilation</a> by <a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a></span>
 </li>
 </ol></div>
 

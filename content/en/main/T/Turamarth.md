@@ -1,6 +1,5 @@
 ---
 title: "Turamarth"
-display_title: "<span class=\"mw-page-title-main\">Turamarth</span>"
 page_id: 13943
 namespace: 0
 revision_id: 267762
@@ -13,21 +12,21 @@ categories:
   - "Sindarin names"
 ---
 
-**Turamarth** is [Sindarin](/wiki/Sindarin) for "Master of Doom", a title [Túrin](/wiki/T%C3%BArin) gave himself while living in the forest of [Brethil](/wiki/Brethil) in the [First Age](/wiki/First_Age).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Turamarth** is [Sindarin](../S/Sindarin.md) for "Master of Doom", a title [Túrin](Túrin.md) gave himself while living in the forest of [Brethil](../B/Brethil.md) in the [First Age](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*[tur](/wiki/Tur "Tur")* "master, lord" and *[amarth](/wiki/Amarth "Amarth")* "doom"
+*[tur](Tur.md)* "master, lord" and *[amarth](../A/Amarth.md)* "doom"
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *Turambar*
+- [Quenya](../Q/Quenya.md) *Turambar*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>amarth</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>amarth</i></span>
 </li>
 </ol></div>

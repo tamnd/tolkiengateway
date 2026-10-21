@@ -1,6 +1,5 @@
 ---
 title: "File:Darker than the Darkness.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Darker than the Darkness.jpg</span>"
 page_id: 44876
 namespace: 6
 revision_id: 425076

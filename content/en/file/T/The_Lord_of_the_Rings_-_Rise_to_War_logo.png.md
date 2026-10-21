@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Rise to War logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Rise to War logo.png</span>"
 page_id: 63702
 namespace: 6
 revision_id: 362960
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of the game [The Lord of the Rings: Rise to War](/wiki/The_Lord_of_the_Rings:_Rise_to_War).
+Logo of the game [The Lord of the Rings: Rise to War](../../main/T/The_Lord_of_the_Rings%253A_Rise_to_War.md).
 
 ## Licensing {#Licensing}
 

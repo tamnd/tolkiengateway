@@ -1,6 +1,5 @@
 ---
 title: "File:Stefano Baldo - Durin's Bane.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stefano Baldo - Durin&#039;s Bane.jpg</span>"
 page_id: 70908
 namespace: 6
 revision_id: 440771
@@ -34,8 +33,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stefano Baldo - Durin&#39;s Bane.jpg</span></th>
 <td class="description">
 <p><i>Durin&#39;s Bane</i>. 
-Created for <a href="/wiki/Middle-earth:_Dark_Minions" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Dark_Minions.md" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -43,8 +42,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Stefano Baldo</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.artstation.com/artwork/RyZkNO?album_id=9980622" rel="noreferrer noopener" target="_blank">Artist&#39;s Artstation</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -72,4 +68,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Stefano Baldo</li>
 <li><b>Website:</b> <a class="external text" href="http://www.ideacrylic.com/" rel="noreferrer noopener" target="_blank">Stefano Baldo&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stefano_Baldo" title="Tolkien Gateway:Copyrights/Stefano Baldo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStefano_Baldo.md" title="Tolkien Gateway:Copyrights/Stefano Baldo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

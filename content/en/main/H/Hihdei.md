@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Highday"
 ---
 
-Redirect to [Highday](/wiki/Highday).
+Redirect to [Highday](Highday.md).

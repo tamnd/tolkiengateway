@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spirits"
 ---
 
-Redirect to [Spirits](/wiki/Spirits).
+Redirect to [Spirits](../S/Spirits.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haleth (film character)"
 ---
 
-Redirect to [Haleth (film character)](/wiki/Haleth_(film_character)).
+Redirect to [Haleth (film character)](<Haleth_(film_character).md>).

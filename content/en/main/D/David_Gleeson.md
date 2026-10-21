@@ -1,6 +1,5 @@
 ---
 title: "David Gleeson"
-display_title: "<span class=\"mw-page-title-main\">David Gleeson</span>"
 page_id: 57477
 namespace: 0
 revision_id: 316619
@@ -17,4 +16,4 @@ sort_keys:
   "People by name": "Gleeson, David"
 ---
 
-**David Gleeson** is an Irish film director and screenwriter who co-wrote *[Tolkien](</wiki/Tolkien_(film)> "Tolkien (film)")*.
+**David Gleeson** is an Irish film director and screenwriter who co-wrote *[Tolkien](<../T/Tolkien_(film).md>)*.

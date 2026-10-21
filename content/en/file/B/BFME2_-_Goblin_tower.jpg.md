@@ -1,6 +1,5 @@
 ---
 title: "File:BFME2 - Goblin tower.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BFME2 - Goblin tower.jpg</span>"
 page_id: 12912
 namespace: 6
 revision_id: 231641

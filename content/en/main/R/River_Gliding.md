@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gliding Water"
 ---
 
-Redirect to [Gliding Water](/wiki/Gliding_Water).
+Redirect to [Gliding Water](../G/Gliding_Water.md).

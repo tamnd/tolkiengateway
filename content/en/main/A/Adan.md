@@ -1,6 +1,5 @@
 ---
 title: "Adan"
-display_title: "<span class=\"mw-page-title-main\">Adan</span>"
 page_id: 1816
 namespace: 0
 revision_id: 410925
@@ -23,18 +22,18 @@ langlinks:
     url: "https://kontu.wiki/Adan"
 ---
 
-<i><b>adan</b></i> is a [Sindarin](/wiki/Sindarin) for a "[Man](/wiki/Men "Men")" (i.e., as opposed to [Elf](/wiki/Elves "Elves"), [Dwarf](/wiki/Dwarves "Dwarves"), [Hobbit](/wiki/Hobbits "Hobbits"), etc.). The plural is *[Edain](/wiki/Edain)*. Properly, this word refers only to those Men who are descended from the [Three Houses](/wiki/Three_Houses_of_the_Edain "Three Houses of the Edain") of Elf-friends.
+<i><b>adan</b></i> is a [Sindarin](../S/Sindarin.md) for a "[Man](../M/Men.md)" (i.e., as opposed to [Elf](../E/Elves.md), [Dwarf](../D/Dwarves.md), [Hobbit](../H/Hobbits.md), etc.). The plural is *[Edain](../E/Edain.md)*. Properly, this word refers only to those Men who are descended from the [Three Houses](../T/Three_Houses_of_the_Edain.md) of Elf-friends.
 
 ## Examples {#Examples}
 
 - *Adanath* = Fathers of Men
-- *[Adanel](/wiki/Adanel)* = "Man-star"
-- [*Adanedhel*](/wiki/T%C3%BArin "Túrin") = "Man-elf"
-- *[Dúnadan](/wiki/D%C3%BAnedain "Dúnedain") =* "Man of the West"
-- *[Drúadan](/wiki/Dr%C3%BAedain "Drúedain")* = "Wild man"
-- *[Elladan](/wiki/Elladan) = "*Elf-man"
-- *[Rhúnadan](/wiki/Easterlings "Easterlings")* = "Man of the East"
+- *[Adanel](Adanel.md)* = "Man-star"
+- [*Adanedhel*](../T/Túrin.md) = "Man-elf"
+- *[Dúnadan](../D/Dúnedain.md) =* "Man of the West"
+- *[Drúadan](../D/Drúedain.md)* = "Wild man"
+- *[Elladan](../E/Elladan.md) = "*Elf-man"
+- *[Rhúnadan](../E/Easterlings.md)* = "Man of the East"
 
 ## Cognate {#Cognate}
 
-- [Quenya](/wiki/Quenya) *[atar](/wiki/Atar "Atar")*
+- [Quenya](../Q/Quenya.md) *[atar](Atar.md)*

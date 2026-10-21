@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/John Howe"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/John Howe</span>"
 page_id: 39180
 namespace: 4
 revision_id: 193161
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Howe, John"
 ---
 
-- [John Howe](/wiki/John_Howe) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_John_Howe "Category:Images by John Howe") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [John Howe](../../main/J/John_Howe.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_John_Howe.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 29 April 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

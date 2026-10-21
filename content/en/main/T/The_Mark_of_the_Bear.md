@@ -1,6 +1,5 @@
 ---
 title: "The Mark of the Bear"
-display_title: "<span class=\"mw-page-title-main\">The Mark of the Bear</span>"
 page_id: 22329
 namespace: 0
 revision_id: 305327
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>The Mark of the Bear</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their second full-length album, [Sword's Song](/wiki/Sword%27s_Song)
+<i><b>The Mark of the Bear</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their second full-length album, [Sword's Song](../S/Sword's_Song.md)
 
 ## Lyrics {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Hall of Thráin"
 ---
 
-Redirect to [Great Hall of Thráin](/wiki/Great_Hall_of_Thráin).
+Redirect to [Great Hall of Thráin](Great_Hall_of_Thráin.md).

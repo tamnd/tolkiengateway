@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Orodruin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Orodruin.jpg</span>"
 page_id: 5768
 namespace: 6
 revision_id: 381058
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This sketch by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) of [Orodruin](/wiki/Orodruin) ([Mount Doom](/wiki/Mount_Doom)) was done on a rejected page of the manuscript of [The Return of the King](/wiki/The_Return_of_the_King), Book VI, Chapter 3, [Mount Doom](/wiki/Mount_Doom). In the original the tongue of flame at the cone of the mountain is coloured red, and beneath the words visible in the reproduction is written
+This sketch by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) of [Orodruin](../../main/O/Orodruin.md) ([Mount Doom](../../main/M/Mount_Doom.md)) was done on a rejected page of the manuscript of [The Return of the King](../../main/T/The_Return_of_the_King.md), Book VI, Chapter 3, [Mount Doom](../../main/M/Mount_Doom.md). In the original the tongue of flame at the cone of the mountain is coloured red, and beneath the words visible in the reproduction is written
 
 <dl><dd>&#39;Mt Doom from the North&#39;</dd></dl>
 
@@ -35,7 +34,7 @@ In this sketch is seen the
 
 <dl><dd>&#39;long sloping causeway that led up on to the Mountain&#39;s eastern side&#39;</dd></dl>
 
-carrying [Sauron](/wiki/Sauron)'s Road from [Barad-dûr](/wiki/Barad-d%C3%BBr) up to the dark entrance of the [Sammath Naur](/wiki/Sammath_Naur). It was published as an inset to the painting of Barad-dur in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar).
+carrying [Sauron](../../main/S/Sauron.md)'s Road from [Barad-dûr](../../main/B/Barad-dûr.md) up to the dark entrance of the [Sammath Naur](../../main/S/Sammath_Naur.md). It was published as an inset to the painting of Barad-dur in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Licensing {#Licensing}
 

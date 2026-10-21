@@ -1,6 +1,5 @@
 ---
 title: "Grace"
-display_title: "<span class=\"mw-page-title-main\">Grace</span>"
 page_id: 63126
 namespace: 0
 revision_id: 438511
@@ -16,17 +15,15 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="/wiki/Help:References" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
 <p>Who told you, and who sent you?
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
+</blockquote></div></div>
 
-**Grace** is a part of drinking song from the 1831 novel <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crotchet_Castle" title="wikipedia:Crotchet Castle">Crotchet Castle</a></i> by Thomas Love Peacock, to be sung to the tune of *The King of France*. It is published as the first song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Grace** is a part of drinking song from the 1831 novel <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crotchet_Castle" title="wikipedia:Crotchet Castle">Crotchet Castle</a></i> by Thomas Love Peacock, to be sung to the tune of *The King of France*. It is published as the first song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
-Being the opening verse of the *Songs*, it suits well the style of the "[Viking Club](/wiki/Viking_Club)", where [Tolkien](/wiki/Tolkien) and [E.V. Gordon](/wiki/E.V._Gordon) would "read Old Norse sagas and drink a lot of beer" with students.
+Being the opening verse of the *Songs*, it suits well the style of the "[Viking Club](../V/Viking_Club.md)", where [Tolkien](../T/Tolkien.md) and [E.V. Gordon](../E/E.V._Gordon.md) would "read Old Norse sagas and drink a lot of beer" with students.
 
 ## The song {#The_song}
 

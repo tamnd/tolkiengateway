@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien's desk.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien&#039;s desk.jpg</span>"
 page_id: 10560
 namespace: 6
 revision_id: 253150
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s desk at which he wrote much of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and *[The Hobbit](/wiki/The_Hobbit)*. The desk is currently located at Wheaton College, Illinois.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s desk at which he wrote much of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)* and *[The Hobbit](../../main/T/The_Hobbit.md)*. The desk is currently located at Wheaton College, Illinois.
 
 ## Licensing {#Licensing}
 

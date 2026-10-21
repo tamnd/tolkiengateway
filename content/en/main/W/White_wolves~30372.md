@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Wolves"
 ---
 
-Redirect to [White Wolves](/wiki/White_Wolves).
+Redirect to [White Wolves](White_Wolves.md).

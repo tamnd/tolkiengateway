@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Free peoples"
 ---
 
-Redirect to [Free peoples](/wiki/Free_peoples).
+Redirect to [Free peoples](Free_peoples~19934.md).

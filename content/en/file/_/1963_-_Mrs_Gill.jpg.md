@@ -1,6 +1,5 @@
 ---
 title: "File:1963 - Mrs Gill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">1963 - Mrs Gill.jpg</span>"
 page_id: 45763
 namespace: 6
 revision_id: 243564

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Philosophy books"
 ---
 
-Redirect to [Category:Philosophy books](/wiki/Category:Philosophy_books).
+Redirect to [Category:Philosophy books](../../category/P/Philosophy_books.md).

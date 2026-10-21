@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Bratt, Edith (1913-01-03)"
 ---
 
-On [3 January](/wiki/3_January) [1913](/wiki/1913), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Edith Bratt](/wiki/Edith_Tolkien "Edith Tolkien")**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [3 January](../_/3_January.md) [1913](../_/1913.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Edith Bratt](../E/Edith_Tolkien.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 - **Subject:** Tolkien's love for Edith.
 
@@ -25,7 +25,7 @@ Tolkien, who commenced the letter at midnight,<sup id="cite_ref-2" class="refere
 ## Notes {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tolkien turned 21 years old on 3 January 1913, and was therefore free to again contact Edith, from whom he had been separated by his custodian Father <a href="/wiki/Francis_Xavier_Morgan" title="Francis Xavier Morgan">Francis Xavier Morgan</a>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tolkien turned 21 years old on 3 January 1913, and was therefore free to again contact Edith, from whom he had been separated by his custodian Father <a href="../F/Francis_Xavier_Morgan.md" title="Francis Xavier Morgan">Francis Xavier Morgan</a>.</span>
 </li>
 </ol></div></span>
 
@@ -33,6 +33,6 @@ Tolkien, who commenced the letter at midnight,<sup id="cite_ref-2" class="refere
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 35-6</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 35-6</span>
 </li>
 </ol></div>

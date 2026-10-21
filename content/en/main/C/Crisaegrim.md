@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crissaegrim"
 ---
 
-Redirect to [Crissaegrim](/wiki/Crissaegrim).
+Redirect to [Crissaegrim](Crissaegrim.md).

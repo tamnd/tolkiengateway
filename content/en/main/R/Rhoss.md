@@ -13,19 +13,19 @@ categories:
   - "Noldorin words"
 ---
 
-<i><b>rhoss</b></i> is the archaic [Noldorin](/wiki/Noldorin) word derived from the stem <i><a class="new" href="/w/index.php?title=Rus-&amp;action=edit&amp;redlink=1" title="Rus- (page does not exist)">rus-</a></i>, which means "flash" or "glitter of metal".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>rhoss</b></i> is the archaic [Noldorin](../N/Noldorin.md) word derived from the stem <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rus-&amp;action=edit&amp;redlink=1" title="Rus- (page does not exist)">rus-</a></i>, which means "flash" or "glitter of metal".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Maedhros](/wiki/Maedhros)
-- <a class="new" href="/w/index.php?title=Findros&amp;action=edit&amp;redlink=1" title="Findros (page does not exist)">Findros</a>
-- [Celebros](/wiki/Celebros)
+- [Maedhros](../M/Maedhros.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Findros&amp;action=edit&amp;redlink=1" title="Findros (page does not exist)">Findros</a>
+- [Celebros](../C/Celebros.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, <b>RUS-</b></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, <b>RUS-</b></span>
 </li>
 </ol></div>

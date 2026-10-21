@@ -1,6 +1,5 @@
 ---
 title: "Category:Translators"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Translators</span>"
 page_id: 18833
 namespace: 14
 revision_id: 115562
@@ -13,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Translators of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s work in various languages.
+Translators of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s work in various languages.

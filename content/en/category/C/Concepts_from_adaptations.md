@@ -1,6 +1,5 @@
 ---
 title: "Category:Concepts from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Concepts from adaptations</span>"
 page_id: 63364
 namespace: 14
 revision_id: 361013
@@ -14,4 +13,4 @@ categories:
   - "Concepts"
 ---
 
-<dl><dd><i>Concepts that appear only in <b><a href="/wiki/Category:Adaptations" title="Category:Adaptations">Adaptations</a></b>, and not in <a href="/wiki/Index:Writings_by_J.R.R._Tolkien" title="Index:Writings by J.R.R. Tolkien">Tolkien&#39;s texts</a></i>.</dd></dl>
+<dl><dd><i>Concepts that appear only in <b><a href="../A/Adaptations.md" title="Category:Adaptations">Adaptations</a></b>, and not in <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">Tolkien&#39;s texts</a></i>.</dd></dl>

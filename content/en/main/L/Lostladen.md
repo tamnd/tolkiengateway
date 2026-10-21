@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Desert of Lostladen"
 ---
 
-Redirect to [Desert of Lostladen](/wiki/Desert_of_Lostladen).
+Redirect to [Desert of Lostladen](../D/Desert_of_Lostladen.md).

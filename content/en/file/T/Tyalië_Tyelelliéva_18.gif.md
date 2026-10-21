@@ -1,6 +1,5 @@
 ---
 title: "File:Tyalië Tyelelliéva 18.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tyalië Tyelelliéva 18.gif</span>"
 page_id: 25271
 namespace: 6
 revision_id: 224839

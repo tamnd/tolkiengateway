@@ -16,4 +16,4 @@ sort_keys:
   "Chapters": "Silmarillion"
 ---
 
-<dl><dd><i>Chapters of </i><b><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></b></dd></dl>
+<dl><dd><i>Chapters of </i><b><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></b></dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - The One Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - The One Ring.jpg</span>"
 page_id: 73316
 namespace: 6
 revision_id: 433642
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) holding [The One Ring](/wiki/The_One_Ring) - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+[Isildur](../../main/I/Isildur.md) holding [The One Ring](../../main/T/The_One_Ring.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

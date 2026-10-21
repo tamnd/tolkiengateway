@@ -13,15 +13,15 @@ categories:
   - "Telerin nouns"
 ---
 
-**urus** plural **urusti** means "copper" in [Telerin](/wiki/Telerin)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**urus** plural **urusti** means "copper" in [Telerin](../T/Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-From the [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") U-<a class="new" href="/w/index.php?title=RUS&amp;action=edit&amp;redlink=1" title="RUS (page does not exist)">RUS</a> <span></span>
+From the [Root](../S/Sundocarmë.md) U-<a class="new" href="https://tolkiengateway.net/w/index.php?title=RUS&amp;action=edit&amp;redlink=1" title="RUS (page does not exist)">RUS</a> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">From <i>The Shibboleth of Fëanor</i></a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_41" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.10</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">From <i>The Shibboleth of Fëanor</i></a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_41.md" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.10</span>
 </li>
 </ol></div>

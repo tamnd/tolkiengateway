@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Hlafwine - Village Farmhand.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Hlafwine - Village Farmhand.jpeg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Hlafwine_-_Village_Farmhand.jpeg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Hlafwine - Village Farmhand.jpeg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Hlafwine_-_Village_Farmhand.jpeg.md).

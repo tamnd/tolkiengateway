@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olvar"
 ---
 
-Redirect to [Olvar](/wiki/Olvar).
+Redirect to [Olvar](Olvar.md).

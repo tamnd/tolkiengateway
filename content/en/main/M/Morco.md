@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bears"
 ---
 
-Redirect to [Bears](/wiki/Bears).
+Redirect to [Bears](../B/Bears.md).

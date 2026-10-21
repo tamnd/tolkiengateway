@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Othrondir"
 ---
 
-Redirect to [Othrondir](/wiki/Othrondir).
+Redirect to [Othrondir](Othrondir.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khazad Dúm (song)"
 ---
 
-Redirect to [Khazad Dúm (song)](/wiki/Khazad_Dúm_(song)).
+Redirect to [Khazad Dúm (song)](<Khazad_Dúm_(song).md>).

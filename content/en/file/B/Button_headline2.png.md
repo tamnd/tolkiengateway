@@ -1,6 +1,5 @@
 ---
 title: "File:Button headline2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button headline2.png</span>"
 page_id: 28493
 namespace: 6
 revision_id: 168959

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grithnir"
 ---
 
-Redirect to [Grithnir](/wiki/Grithnir).
+Redirect to [Grithnir](Grithnir.md).

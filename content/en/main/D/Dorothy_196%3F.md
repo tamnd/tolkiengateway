@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Dorothy"
 ---
 
-Redirect to [Letter to Dorothy](/wiki/Letter_to_Dorothy).
+Redirect to [Letter to Dorothy](../L/Letter_to_Dorothy.md).

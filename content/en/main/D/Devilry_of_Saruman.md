@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fire of Orthanc"
 ---
 
-Redirect to [Fire of Orthanc](/wiki/Fire_of_Orthanc).
+Redirect to [Fire of Orthanc](../F/Fire_of_Orthanc.md).

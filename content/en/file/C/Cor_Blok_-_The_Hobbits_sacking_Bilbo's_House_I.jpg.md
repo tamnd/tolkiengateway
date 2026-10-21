@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - The Hobbits sacking Bilbo's House I.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - The Hobbits sacking Bilbo&#039;s House I.jpg</span>"
 page_id: 71513
 namespace: 6
 revision_id: 426547
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"The [Hobbits](/wiki/Hobbits) sacking [Bilbo's House](/wiki/Bag_End "Bag End") I" by [Cor Blok](/wiki/Cor_Blok), created on [April 14](/wiki/14_April "14 April"), [1960](/wiki/1960).
+"The [Hobbits](../../main/H/Hobbits.md) sacking [Bilbo's House](../../main/B/Bag_End.md) I" by [Cor Blok](../../main/C/Cor_Blok.md), created on [April 14](../../main/_/14_April.md), [1960](../../main/_/1960.md).
 
 ## Licensing {#Licensing}
 

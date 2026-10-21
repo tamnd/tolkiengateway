@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Forsaken Inn"
 ---
 
-Redirect to [The Forsaken Inn](/wiki/The_Forsaken_Inn).
+Redirect to [The Forsaken Inn](../T/The_Forsaken_Inn.md).

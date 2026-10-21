@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Aragorn.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Aragorn.gif</span>"
 page_id: 11737
 namespace: 6
 revision_id: 203786

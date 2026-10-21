@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fellowship: The Literary Lives of the Inklings"
 ---
 
-Redirect to [The Fellowship: The Literary Lives of the Inklings](/wiki/The_Fellowship:_The_Literary_Lives_of_the_Inklings).
+Redirect to [The Fellowship: The Literary Lives of the Inklings](The_Fellowship%253A_The_Literary_Lives_of_the_Inklings.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Warning beacons of Gondor"
 ---
 
-Redirect to [Warning beacons of Gondor](/wiki/Warning_beacons_of_Gondor).
+Redirect to [Warning beacons of Gondor](../W/Warning_beacons_of_Gondor.md).

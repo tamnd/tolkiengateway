@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Green Suns and Faërie"
 ---
 
-Redirect to [Green Suns and Faërie](/wiki/Green_Suns_and_Faërie).
+Redirect to [Green Suns and Faërie](Green_Suns_and_Faërie.md).

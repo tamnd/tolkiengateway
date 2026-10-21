@@ -1,6 +1,5 @@
 ---
 title: "Category:Peoples and races templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peoples and races templates</span>"
 page_id: 20741
 namespace: 14
 revision_id: 72522

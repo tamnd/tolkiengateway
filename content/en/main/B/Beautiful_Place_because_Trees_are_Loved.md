@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 339"
 ---
 
-Redirect to [Letter 339](/wiki/Letter_339).
+Redirect to [Letter 339](../L/Letter_339.md).

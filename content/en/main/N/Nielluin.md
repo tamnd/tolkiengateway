@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helluin"
 ---
 
-Redirect to [Helluin](/wiki/Helluin).
+Redirect to [Helluin](../H/Helluin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda-sällskapet"
 ---
 
-Redirect to [Arda-sällskapet](/wiki/Arda-sällskapet).
+Redirect to [Arda-sällskapet](Arda-sällskapet.md).

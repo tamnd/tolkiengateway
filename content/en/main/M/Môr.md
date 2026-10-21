@@ -15,18 +15,18 @@ sort_keys:
   "Sindarin nouns": "Mor"
 ---
 
-<i><b>môr</b></i> is a noun meaning "darkness, dark, night" in [Sindarin](/wiki/Sindarin). Compare with *[morë](/wiki/Mor%C3%AB "Morë")* in [Quenya](/wiki/Quenya).
+<i><b>môr</b></i> is a noun meaning "darkness, dark, night" in [Sindarin](../S/Sindarin.md). Compare with *[morë](Morë.md)* in [Quenya](../Q/Quenya.md).
 
 Examples:
 
-- [Mordor](/wiki/Mordor) = "Black Land"
-- [Morwen](/wiki/Morwen) = "Dark Maiden"
+- [Mordor](Mordor.md) = "Black Land"
+- [Morwen](Morwen.md) = "Dark Maiden"
 
 ## See also {#See_also}
 
-- [Sindarin](/wiki/Sindarin) *[morn](/wiki/Morn "Morn")* ("black, dark")
+- [Sindarin](../S/Sindarin.md) *[morn](Morn.md)* ("black, dark")
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

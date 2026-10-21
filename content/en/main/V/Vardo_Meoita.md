@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tevildo"
 ---
 
-Redirect to [Tevildo](/wiki/Tevildo).
+Redirect to [Tevildo](../T/Tevildo.md).

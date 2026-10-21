@@ -1,6 +1,5 @@
 ---
 title: "When I'm Dead"
-display_title: "<span class=\"mw-page-title-main\">When I&#039;m Dead</span>"
 page_id: 63170
 namespace: 0
 revision_id: 357592
@@ -13,9 +12,9 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**When I'm Dead** is a song by [E.V. Gordon](/wiki/E.V._Gordon). It is published as the 27th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**When I'm Dead** is a song by [E.V. Gordon](../E/E.V._Gordon.md). It is published as the 27th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
-It is presented in three languages: [Old English](/wiki/Old_English), Scots, and [Gothic](/wiki/Gothic).
+It is presented in three languages: [Old English](../O/Old_English.md), Scots, and [Gothic](../G/Gothic.md).
 
 ## In Old English {#In_Old_English}
 

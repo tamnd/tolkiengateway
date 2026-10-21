@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bri, Tolkienselskabet i København"
 ---
 
-Redirect to [Bri, Tolkienselskabet i København](/wiki/Bri,_Tolkienselskabet_i_København).
+Redirect to [Bri, Tolkienselskabet i København](Bri,_Tolkienselskabet_i_København.md).

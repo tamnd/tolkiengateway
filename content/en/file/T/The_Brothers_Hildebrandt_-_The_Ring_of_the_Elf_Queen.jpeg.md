@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Ring of the Elf Queen.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Ring of the Elf Queen.jpeg</span>"
 page_id: 71590
 namespace: 6
 revision_id: 426866
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Ring of the Elf Queen](/wiki/Nenya "Nenya")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"[The Ring of the Elf Queen](../../main/N/Nenya.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

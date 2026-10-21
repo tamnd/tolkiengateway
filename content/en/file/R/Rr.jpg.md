@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Éomer meets the three hunters.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Éomer meets the three hunters.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Éomer_meets_the_three_hunters.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Éomer meets the three hunters.jpg](../T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Éomer_meets_the_three_hunters.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin Ironfoot"
 ---
 
-Redirect to [Dáin Ironfoot](/wiki/Dáin_Ironfoot).
+Redirect to [Dáin Ironfoot](Dáin_Ironfoot.md).

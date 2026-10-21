@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sociedad Tolkien Peruana"
 ---
 
-Redirect to [Sociedad Tolkien Peruana](/wiki/Sociedad_Tolkien_Peruana).
+Redirect to [Sociedad Tolkien Peruana](../S/Sociedad_Tolkien_Peruana.md).

@@ -11,4 +11,4 @@ redirect_target: "Dark Land"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Dark Land](/wiki/Dark_Land#Portrayal_in_adaptations).
+Redirect to [Dark Land](../D/Dark_Land.md#Portrayal_in_adaptations).

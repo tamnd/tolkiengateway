@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - Old fat spider spinning in a tree!.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - Old fat spider spinning in a tree!.jpeg</span>"
 page_id: 72967
 namespace: 6
 revision_id: 433608
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") singing [Old fat spider spinning in a tree!](/wiki/Old_fat_spider_spinning_in_a_tree!) - Art by [David T. Wenzel](/wiki/David_T._Wenzel) for [*The Hobbit* (comic book)](</wiki/The_Hobbit_(comic_book)> "The Hobbit (comic book)")
+[Bilbo](../../main/B/Bilbo_Baggins.md) singing [Old fat spider spinning in a tree!](../../main/O/Old_fat_spider_spinning_in_a_tree!.md) - Art by [David T. Wenzel](../../main/D/David_T._Wenzel.md) for [*The Hobbit* (comic book)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

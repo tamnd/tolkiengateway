@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Return of the King - The Complete Recordings"
 ---
 
-Redirect to [The Lord of the Rings: The Return of the King - The Complete Recordings](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_The_Complete_Recordings).
+Redirect to [The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md).

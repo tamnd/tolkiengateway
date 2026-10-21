@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Journals"
 ---
 
-Redirect to [Category:Journals](/wiki/Category:Journals).
+Redirect to [Category:Journals](../../category/J/Journals.md).

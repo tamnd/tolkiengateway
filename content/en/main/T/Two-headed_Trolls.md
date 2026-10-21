@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls"
 ---
 
-Redirect to [Trolls](/wiki/Trolls).
+Redirect to [Trolls](Trolls.md).

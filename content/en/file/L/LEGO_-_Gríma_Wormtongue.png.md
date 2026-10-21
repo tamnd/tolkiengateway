@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gríma Wormtongue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gríma Wormtongue.png</span>"
 page_id: 73165
 namespace: 6
 revision_id: 433010
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gríma Wormtongue](/wiki/Gr%C3%ADma "Gríma") - [LEGO](/wiki/Lego "Lego") minifigure
+[Gríma Wormtongue](../../main/G/Gríma.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

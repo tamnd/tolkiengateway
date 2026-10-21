@@ -1,6 +1,5 @@
 ---
 title: "Kibil-nâla"
-display_title: "<span class=\"mw-page-title-main\">Kibil-nâla</span>"
 page_id: 3614
 namespace: 0
 revision_id: 426481
@@ -36,35 +35,33 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="/wiki/Celebrant" title="Celebrant">Celebrant</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../C/Celebrant.md" title="Celebrant">Celebrant</a></b></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**Kibil-nâla** was the [Dwarvish](/wiki/Dwarvish) name for the river that ran through [Lothlórien](/wiki/Lothl%C3%B3rien), known to the [Elves](/wiki/Elves) as [Celebrant](/wiki/Celebrant) and to [Men](/wiki/Men) as the [Silverlode](/wiki/Silverlode).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kibil-nâla** was the [Dwarvish](../D/Dwarvish.md) name for the river that ran through [Lothlórien](../L/Lothlórien.md), known to the [Elves](../E/Elves.md) as [Celebrant](../C/Celebrant.md) and to [Men](../M/Men.md) as the [Silverlode](../S/Silverlode.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- *[kibil](/wiki/Kibil "Kibil")* ("silver") + *[nâla](/wiki/N%C3%A2la "Nâla")* (?"channel; path; rivercourse")
+- *[kibil](Kibil.md)* ("silver") + *[nâla](../N/Nâla.md)* (?"channel; path; rivercourse")
 
 The river's name seems to come originally from the workings of the Dwarves, as they seem to have discovered silver in the river.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Other versions of the legendarium {#Other_versions_of_the_legendarium}
 
-In the earliest drafts of [Appendix A](/wiki/Appendix_A), the river's name was given as **Zigil-nâd**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Considering the meaning of *[zigil](/wiki/Zigil "Zigil")*, [Edouard Kloczko](/wiki/Edouard_Kloczko) has proposed that *Kibil-nâla* is not the name of the actual river, but only of "the reappearance of the river". He connects *kibil* to [Adûnaic](/wiki/Ad%C3%BBnaic) <i><a class="new" href="/w/index.php?title=Khibil&amp;action=edit&amp;redlink=1" title="Khibil (page does not exist)">khibil</a></i>, "spring".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> This seems unlikely, as Tolkien explicitly stated: "*Silverlode* dwarfish \[sic\] *Kibilnâla*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+In the earliest drafts of [Appendix A](../A/Appendix_A.md), the river's name was given as **Zigil-nâd**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Considering the meaning of *[zigil](../Z/Zigil.md)*, [Edouard Kloczko](../E/Edouard_Kloczko.md) has proposed that *Kibil-nâla* is not the name of the actual river, but only of "the reappearance of the river". He connects *kibil* to [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Khibil&amp;action=edit&amp;redlink=1" title="Khibil (page does not exist)">khibil</a></i>, "spring".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> This seems unlikely, as Tolkien explicitly stated: "*Silverlode* dwarfish \[sic\] *Kibilnâla*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Ring_Goes_South" title="The Ring Goes South">The Ring Goes South</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;VIII. The Ring Goes South&#34;, p. 175</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;VIII. The Ring Goes South&#34;, p. 175</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, pp. 279, 286</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, pp. 279, 286</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/Edouard_Kloczko" title="Edouard Kloczko">Edouard Kloczko</a>, <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c35b63ee6a6c41e986367" rel="noreferrer noopener" target="_blank">Re: More about Dwarvish (#268)</a></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="mw-redirect" href="../E/Edouard_Kloczko.md" title="Edouard Kloczko">Edouard Kloczko</a>, <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c35b63ee6a6c41e986367" rel="noreferrer noopener" target="_blank">Re: More about Dwarvish (#268)</a></span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XII. Lothlórien&#34;, p. 241 (note 36)</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XII. Lothlórien&#34;, p. 241 (note 36)</span>
 </li>
 </ol></div>

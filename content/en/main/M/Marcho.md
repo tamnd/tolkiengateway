@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marcho and Blanco"
 ---
 
-Redirect to [Marcho and Blanco](/wiki/Marcho_and_Blanco).
+Redirect to [Marcho and Blanco](Marcho_and_Blanco.md).

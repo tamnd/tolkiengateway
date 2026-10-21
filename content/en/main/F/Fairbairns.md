@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fairbairn family"
 ---
 
-Redirect to [Fairbairn family](/wiki/Fairbairn_family).
+Redirect to [Fairbairn family](Fairbairn_family.md).

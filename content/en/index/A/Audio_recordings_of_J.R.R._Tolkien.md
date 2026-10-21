@@ -1,6 +1,5 @@
 ---
 title: "Index:Audio recordings of J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Index</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio recordings of J.R.R. Tolkien</span>"
 page_id: 25302
 namespace: 102
 revision_id: 244200
@@ -15,21 +14,21 @@ sort_keys:
   "Index": "Audio recordings of J.R.R. Tolkien"
 ---
 
-This page attempts to chronologically list audio recordings (both non-video and video) of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), such as interviews and film documentaries.
+This page attempts to chronologically list audio recordings (both non-video and video) of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), such as interviews and film documentaries.
 
 - *Note: Dates refer to when the actual recording was made.*
 
-- [1930](/wiki/1930) - <i><b><a href="/wiki/Linguaphone_Conversational_Course" title="Linguaphone Conversational Course">Linguaphone Conversational Course</a></b></i>
-- [1952](/wiki/1952) - **[1952 tape recording](/wiki/1952_tape_recording)**
-- [1954](/wiki/1954) - <i><b><a class="new" href="/w/index.php?title=The_Homecoming_of_Beorhtnoth_Beorhthelm%27s_Son_(recording)&amp;action=edit&amp;redlink=1" title="The Homecoming of Beorhtnoth Beorhthelm&#39;s Son (recording) (page does not exist)">The Homecoming of Beorhtnoth Beorhthelm&#39;s Son (recording)</a></b></i>
-- [1957](/wiki/1957) - **[1957 "Carnival of Books" Interview](/wiki/1957_%22Carnival_of_Books%22_Interview)**
-- [1958](/wiki/1958) - **["Hobbit Dinner" in Rotterdam](/wiki/%22Hobbit_Dinner%22_in_Rotterdam)**
-- [1964](/wiki/1964) - **[1964 BBC Interview](/wiki/1964_BBC_Interview)**
-- [1965](/wiki/1965) - **[1965 BBC Interview](/wiki/1965_BBC_Interview)**
-- [1965](/wiki/1965) - *[An Interview with J.R.R.T.](/wiki/An_Interview_with_J.R.R.T.)*
-- [1967](/wiki/1967) - *[Poems and Songs of Middle Earth](/wiki/Poems_and_Songs_of_Middle_Earth)*, Caedmon TC 1231
-- [1968](/wiki/1968) - <i><b><a href="/wiki/Tolkien_in_Oxford" title="Tolkien in Oxford">Tolkien in Oxford</a></b></i>
+- [1930](../../main/_/1930.md) - <i><b><a href="../../main/L/Linguaphone_Conversational_Course.md" title="Linguaphone Conversational Course">Linguaphone Conversational Course</a></b></i>
+- [1952](../../main/_/1952.md) - **[1952 tape recording](../../main/_/1952_tape_recording.md)**
+- [1954](../../main/_/1954.md) - <i><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Homecoming_of_Beorhtnoth_Beorhthelm%27s_Son_(recording)&amp;action=edit&amp;redlink=1" title="The Homecoming of Beorhtnoth Beorhthelm&#39;s Son (recording) (page does not exist)">The Homecoming of Beorhtnoth Beorhthelm&#39;s Son (recording)</a></b></i>
+- [1957](../../main/_/1957.md) - **[1957 "Carnival of Books" Interview](../../main/_/1957_%2522Carnival_of_Books%2522_Interview.md)**
+- [1958](../../main/_/1958.md) - **["Hobbit Dinner" in Rotterdam](../../main/_/%2522Hobbit_Dinner%2522_in_Rotterdam.md)**
+- [1964](../../main/_/1964.md) - **[1964 BBC Interview](../../main/_/1964_BBC_Interview.md)**
+- [1965](../../main/_/1965.md) - **[1965 BBC Interview](../../main/_/1965_BBC_Interview.md)**
+- [1965](../../main/_/1965.md) - *[An Interview with J.R.R.T.](../../main/A/An_Interview_with_J.R.R.T..md)*
+- [1967](../../main/_/1967.md) - *[Poems and Songs of Middle Earth](../../main/P/Poems_and_Songs_of_Middle_Earth.md)*, Caedmon TC 1231
+- [1968](../../main/_/1968.md) - <i><b><a href="../../main/T/Tolkien_in_Oxford.md" title="Tolkien in Oxford">Tolkien in Oxford</a></b></i>
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://wayneandchristina.wordpress.com/2013/12/31/tolkien-and-the-tape-recorder/" rel="noreferrer noopener" target="_blank">Tolkien and the Tape Recorder</a> by [Wayne G. Hammond](/wiki/Wayne_G._Hammond) and [Christina Scull](/wiki/Christina_Scull)
+- <a class="external text" href="http://wayneandchristina.wordpress.com/2013/12/31/tolkien-and-the-tape-recorder/" rel="noreferrer noopener" target="_blank">Tolkien and the Tape Recorder</a> by [Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) and [Christina Scull](../../main/C/Christina_Scull.md)

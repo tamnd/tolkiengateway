@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Johnson - Valandil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Johnson - Valandil.jpg</span>"
 page_id: 30163
 namespace: 6
 revision_id: 263050
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-[Valandil](</wiki/Valandil_(King_of_Arnor)> "Valandil (King of Arnor)"). From Wesley Frank, *[The Shire](</wiki/The_Shire_(book)> "The Shire (book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2017, 1995) .
+[Valandil](<../../main/V/Valandil_(King_of_Arnor).md>). From Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
 
-Note that, though the image does not describe the King of Arnor in name, the accompanying tale of years tells that original character *Elindiel* swore fealty to the Kings of Arnor in [T.A.](/wiki/Third_Age "Third Age") [10](/wiki/Third_Age_10 "Third Age 10"), which would be during Valandil's reign.
+Note that, though the image does not describe the King of Arnor in name, the accompanying tale of years tells that original character *Elindiel* swore fealty to the Kings of Arnor in [T.A.](../../main/T/Third_Age.md) [10](../../main/T/Third_Age_10.md), which would be during Valandil's reign.
 
 ## Licensing {#Licensing}
 

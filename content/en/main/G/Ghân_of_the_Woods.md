@@ -1,6 +1,5 @@
 ---
 title: "Ghân of the Woods"
-display_title: "<span class=\"mw-page-title-main\">Ghân of the Woods</span>"
 page_id: 22659
 namespace: 0
 revision_id: 139339
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Ghân of the Woods</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore) about [Ghân-buri-Ghân](/wiki/Gh%C3%A2n-buri-Gh%C3%A2n). It appears in their third full-length album, [Third Age of the Sun](/wiki/Third_Age_of_the_Sun).
+<i><b>Ghân of the Woods</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md) about [Ghân-buri-Ghân](Ghân-buri-Ghân.md). It appears in their third full-length album, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lyrics {#Lyrics}
 
@@ -25,7 +24,7 @@ Soil of their land <br/>
 The way of the wind <br/>
 Throne and the walls for the Woses <br/>
 <br/>
-Be gone <a href="/wiki/Orcs" title="Orcs">Orc</a>-folk <br/>
+Be gone <a href="../O/Orcs.md" title="Orcs">Orc</a>-folk <br/>
 Ruin Gorgûn <br/>
 Be gone Troll-folk <br/>
 Ruin Gorgûn <br/>
@@ -42,8 +41,8 @@ Of Orcish hordes when they are dead <br/>
 Drain the life from their own earth <br/>
 From the stars, from every birth <br/>
 <br/>
-<a href="/wiki/Dr%C3%BAedain" title="Drúedain">Drúadan</a> chieftain <br/>
-<a href="/wiki/Gh%C3%A2n-buri-Gh%C3%A2n" title="Ghân-buri-Ghân">Ghân-buri-Ghân</a> <br/>
+<a href="../D/Drúedain.md" title="Drúedain">Drúadan</a> chieftain <br/>
+<a href="Ghân-buri-Ghân.md" title="Ghân-buri-Ghân">Ghân-buri-Ghân</a> <br/>
 Wise from his mind <br/>
 Pure from his heart <br/>
 Druadan chieftain <br/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Umuiyan"
 ---
 
-Redirect to [Umuiyan](/wiki/Umuiyan).
+Redirect to [Umuiyan](../U/Umuiyan.md).

@@ -1,6 +1,5 @@
 ---
 title: "Súlimë"
-display_title: "<span class=\"mw-page-title-main\">Súlimë</span>"
 page_id: 4577
 namespace: 0
 revision_id: 299493
@@ -26,13 +25,13 @@ langlinks:
     url: "https://kontu.wiki/S%C3%BAlim%C3%AB"
 ---
 
-**Súlimë** ([Gwaeron](/wiki/Gwaeron) in [Sindarin](/wiki/Sindarin)) was the third month of the year in the [King's Reckoning](/wiki/King%27s_Reckoning) and the [Stewards' Reckoning](/wiki/Stewards%27_Reckoning), and followed the month [Nénimë](/wiki/N%C3%A9nim%C3%AB). In the King's Reckoning it preceded the month [Víressë](/wiki/V%C3%ADress%C3%AB) while in the Stewards' Reckoning it preceded the feast-day of [Tuilérë](/wiki/Tuil%C3%A9r%C3%AB). In both calendars, *Súlimë* was 30 days long, lasting from the 62nd through the 91st days of the year. In the [New Reckoning](/wiki/New_Reckoning) it was the last month of the year, preceding its [Mettarë](/wiki/Mettar%C3%AB).
+**Súlimë** ([Gwaeron](../G/Gwaeron.md) in [Sindarin](Sindarin.md)) was the third month of the year in the [King's Reckoning](../K/King's_Reckoning.md) and the [Stewards' Reckoning](Stewards'_Reckoning.md), and followed the month [Nénimë](../N/Nénimë.md). In the King's Reckoning it preceded the month [Víressë](../V/Víressë.md) while in the Stewards' Reckoning it preceded the feast-day of [Tuilérë](../T/Tuilérë.md). In both calendars, *Súlimë* was 30 days long, lasting from the 62nd through the 91st days of the year. In the [New Reckoning](../N/New_Reckoning.md) it was the last month of the year, preceding its [Mettarë](../M/Mettarë.md).
 
-*Súlimë* in the Kings' and Stewards' Reckoning corresponded to [Rethe](/wiki/Rethe) in the [Shire Calendar](/wiki/Shire_Calendar) (approximately modern [21 February](/wiki/21_February) through [22 March](/wiki/22_March)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+*Súlimë* in the Kings' and Stewards' Reckoning corresponded to [Rethe](../R/Rethe.md) in the [Shire Calendar](Shire_Calendar.md) (approximately modern [21 February](../_/21_February.md) through [22 March](../_/22_March.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimloth (elf of Doriath)"
 ---
 
-Redirect to [Nimloth (elf of Doriath)](/wiki/Nimloth_(elf_of_Doriath)).
+Redirect to [Nimloth (elf of Doriath)](<Nimloth_(elf_of_Doriath).md>).

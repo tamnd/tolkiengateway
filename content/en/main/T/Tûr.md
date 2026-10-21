@@ -21,31 +21,31 @@ sort_keys:
 
 ## Rohanese {#Rohanese}
 
-<i><b>tûr</b></i> is a ([Rohanese](/wiki/Rohanese)) element meaning "people".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tûr</b></i> is a ([Rohanese](../R/Rohanese.md)) element meaning "people".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=T%C3%BBrac&amp;action=edit&amp;redlink=1" title="Tûrac (page does not exist)">Tûrac</a></i>
-- <i><a class="new" href="/w/index.php?title=Loht%C3%BBr&amp;action=edit&amp;redlink=1" title="Lohtûr (page does not exist)">Lohtûr</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BBrac&amp;action=edit&amp;redlink=1" title="Tûrac (page does not exist)">Tûrac</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Loht%C3%BBr&amp;action=edit&amp;redlink=1" title="Lohtûr (page does not exist)">Lohtûr</a></i>
 
 ## Mannish {#Mannish}
 
-**Tûr** "mound", "barrow" in [Haladin](/wiki/Haladin) (in [Tûr Haretha](/wiki/Haudh-en-Arwen#Names "Haudh-en-Arwen")).<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+**Tûr** "mound", "barrow" in [Haladin](../H/Haladin.md) (in [Tûr Haretha](../H/Haudh-en-Arwen.md#Names)).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Quenya {#Quenya}
 
 **Tur** "lord", "master"
 
-- <i><a class="mw-redirect mw-disambig" href="/wiki/Turambar" title="Turambar">Turambar</a></i>
-- *[Minyatur](/wiki/Minyatur)*
+- <i><a class="mw-redirect mw-disambig" href="Turambar.md" title="Turambar">Turambar</a></i>
+- *[Minyatur](../M/Minyatur.md)*
 
 ## Other versions {#Other_versions}
 
-*Tûr* is also an alternative name of [Tuor](/wiki/Tuor).<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup> <span></span>
+*Tûr* is also an alternative name of [Tuor](Tuor.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, p. 53</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, p. 53</span>
 </li>
 </ol></div>

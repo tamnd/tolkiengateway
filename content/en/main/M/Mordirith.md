@@ -11,4 +11,4 @@ redirect_target: "Eärnur"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Eärnur](/wiki/Eärnur#Portrayal_in_adaptations).
+Redirect to [Eärnur](../E/Eärnur.md#Portrayal_in_adaptations).

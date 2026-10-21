@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúadan Forest"
 ---
 
-Redirect to [Drúadan Forest](/wiki/Drúadan_Forest).
+Redirect to [Drúadan Forest](Drúadan_Forest.md).

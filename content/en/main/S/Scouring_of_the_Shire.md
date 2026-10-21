@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Bywater"
 ---
 
-Redirect to [Battle of Bywater](/wiki/Battle_of_Bywater).
+Redirect to [Battle of Bywater](../B/Battle_of_Bywater.md).

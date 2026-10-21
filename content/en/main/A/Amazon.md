@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amazon (disambiguation)"
 ---
 
-Redirect to [Amazon (disambiguation)](/wiki/Amazon_(disambiguation)).
+Redirect to [Amazon (disambiguation)](<Amazon_(disambiguation).md>).

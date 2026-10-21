@@ -1,6 +1,5 @@
 ---
 title: "File:Beyond Bree May 1985.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beyond Bree May 1985.jpg</span>"
 page_id: 44710
 namespace: 6
 revision_id: 235309
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> TolkienBooks.net</li>
 <li><b>Website:</b> <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/TolkienBooks.net" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTolkienBooks.net.md" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Kenneth Sofia - The Nazgul.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kenneth Sofia - The Nazgul.png</span>"
 page_id: 54175
 namespace: 6
 revision_id: 433703
@@ -35,6 +34,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Kenneth Sofia</li>
 <li><b>Website:</b> <a class="external free" href="https://www.artstation.com/kensofia42" rel="noreferrer noopener" target="_blank">https://www.artstation.com/kensofia42</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Kenneth_Sofia" title="Tolkien Gateway:Copyrights/Kenneth Sofia">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKenneth_Sofia.md" title="Tolkien Gateway:Copyrights/Kenneth Sofia">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
-<a class="new" href="/w/index.php?title=Catgeory:Images_of_Kham%C3%BBl&amp;action=edit&amp;redlink=1" title="Catgeory:Images of Khamûl (page does not exist)">Catgeory:Images of Khamûl</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Catgeory:Images_of_Kham%C3%BBl&amp;action=edit&amp;redlink=1" title="Catgeory:Images of Khamûl (page does not exist)">Catgeory:Images of Khamûl</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carnil"
 ---
 
-Redirect to [Carnil](/wiki/Carnil).
+Redirect to [Carnil](../C/Carnil.md).

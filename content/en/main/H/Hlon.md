@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hlón"
 ---
 
-Redirect to [Hlón](/wiki/Hlón).
+Redirect to [Hlón](Hlón.md).

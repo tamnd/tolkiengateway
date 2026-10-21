@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom (disambiguation)"
 ---
 
-Redirect to [Tom (disambiguation)](/wiki/Tom_(disambiguation)).
+Redirect to [Tom (disambiguation)](<Tom_(disambiguation).md>).

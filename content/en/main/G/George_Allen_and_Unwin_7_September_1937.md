@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to George Allen & Unwin"
 ---
 
-Redirect to [Letter to George Allen &amp; Unwin](/wiki/Letter_to_George_Allen_&_Unwin).
+Redirect to [Letter to George Allen &amp; Unwin](../L/Letter_to_George_Allen_&_Unwin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celeborn (White Tree)"
 ---
 
-Redirect to [Celeborn (White Tree)](/wiki/Celeborn_(White_Tree)).
+Redirect to [Celeborn (White Tree)](<Celeborn_(White_Tree).md>).

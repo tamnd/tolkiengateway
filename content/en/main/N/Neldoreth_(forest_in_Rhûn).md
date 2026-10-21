@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Neldoreth (Rhûn)"
 ---
 
-Redirect to [Neldoreth (Rhûn)](/wiki/Neldoreth_(Rhûn)).
+Redirect to [Neldoreth (Rhûn)](<Neldoreth_(Rhûn).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Mani and Sol.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mani and Sol.jpg</span>"
 page_id: 21867
 namespace: 6
 revision_id: 431404
@@ -36,8 +35,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1895.</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Lorenz Frølich</td>
@@ -46,7 +43,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/File:M%C3%A1ni_and_S%C3%B3l_by_Lorenz_Fr%C3%B8lich.jpg" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

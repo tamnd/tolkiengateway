@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lumbulë"
 ---
 
-Redirect to [Lumbulë](/wiki/Lumbulë).
+Redirect to [Lumbulë](Lumbulë.md).

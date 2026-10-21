@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forums:Add pictures and maps"
 ---
 
-Redirect to [Forums:Add pictures and maps](/wiki/Forums:Add_pictures_and_maps).
+Redirect to [Forums:Add pictures and maps](https://tolkiengateway.net/wiki/Forums:Add_pictures_and_maps).

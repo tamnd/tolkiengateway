@@ -1,6 +1,5 @@
 ---
 title: "Category:Mythology"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythology</span>"
 page_id: 21989
 namespace: 14
 revision_id: 79648
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-Mythologies that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Mythologies that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

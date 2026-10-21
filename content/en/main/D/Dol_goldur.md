@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dol Guldur"
 ---
 
-Redirect to [Dol Guldur](/wiki/Dol_Guldur).
+Redirect to [Dol Guldur](Dol_Guldur.md).

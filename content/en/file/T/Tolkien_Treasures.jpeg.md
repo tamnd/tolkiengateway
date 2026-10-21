@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Treasures.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Treasures.jpeg</span>"
 page_id: 61877
 namespace: 6
 revision_id: 348832

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Copyrights"
 ---
 
-Redirect to [Tolkien Gateway:Copyrights](/wiki/Tolkien_Gateway:Copyrights).
+Redirect to [Tolkien Gateway:Copyrights](Copyrights.md).

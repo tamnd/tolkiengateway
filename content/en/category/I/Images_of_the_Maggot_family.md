@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of the Maggot family"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of the Maggot family</span>"
 page_id: 39897
 namespace: 14
 revision_id: 217389

@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Barad-dûr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Barad-dûr.jpg</span>"
 page_id: 25296
 namespace: 6
 revision_id: 430409
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barad-dûr](/wiki/Barad-d%C3%BBr), as seen in the scene "<a class="new" href="/w/index.php?title=Samwise_the_Strong&amp;action=edit&amp;redlink=1" title="Samwise the Strong (page does not exist)">Samwise the Strong</a>".
+[Barad-dûr](../../main/B/Barad-dûr.md), as seen in the scene "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Samwise_the_Strong&amp;action=edit&amp;redlink=1" title="Samwise the Strong (page does not exist)">Samwise the Strong</a>".
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Horse-lords of Rohan.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Horse-lords of Rohan.jpeg</span>"
 page_id: 74712
 namespace: 6
 revision_id: 439485

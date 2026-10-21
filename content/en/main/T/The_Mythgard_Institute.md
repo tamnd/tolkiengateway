@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mythgard Institute"
 ---
 
-Redirect to [Mythgard Institute](/wiki/Mythgard_Institute).
+Redirect to [Mythgard Institute](../M/Mythgard_Institute.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Middle English Vocabulary"
 ---
 
-Redirect to [A Middle English Vocabulary](/wiki/A_Middle_English_Vocabulary).
+Redirect to [A Middle English Vocabulary](../A/A_Middle_English_Vocabulary.md).

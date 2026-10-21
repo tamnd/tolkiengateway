@@ -17,26 +17,26 @@ images:
   - "Deirdre_Levinson_20_December_1956.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Deirdre_Levinson_20_December_1956.png"><img src="/w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/300px-Deirdre_Levinson_20_December_1956.png" decoding="async" loading="lazy" width="300" height="226" class="mw-file-element" srcset="/w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/450px-Deirdre_Levinson_20_December_1956.png 1.5x, /w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/600px-Deirdre_Levinson_20_December_1956.png 2x" data-file-width="1022" data-file-height="771"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Deirdre_Levinson_20_December_1956.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/300px-Deirdre_Levinson_20_December_1956.png" decoding="async" loading="lazy" width="300" height="226" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/450px-Deirdre_Levinson_20_December_1956.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/Deirdre_Levinson_20_December_1956.png/600px-Deirdre_Levinson_20_December_1956.png 2x" data-file-width="1022" data-file-height="771"/></a><figcaption></figcaption></figure>
 
-On [20 December](/wiki/20_December) [1956](/wiki/1956), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Deirdre Levinson**, a student.<sup id="cite_ref-Chron_1-0" class="reference"><a href="#cite_note-Chron-1">[1]</a></sup>
+On [20 December](../_/20_December.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Deirdre Levinson**, a student.<sup id="cite_ref-Chron_1-0" class="reference"><a href="#cite_note-Chron-1">[1]</a></sup>
 
 - **Publication:** A description of the letter was included in *Bonhams Books, Maps and Manuscripts 23 March 2004*.<sup id="cite_ref-Books_2-0" class="reference"><a href="#cite_note-Books-2">[2]</a></sup>
 - **Subject:** Greetings (likely for Christmas). Tolkien asks if she would like anything as a token or gift.<sup id="cite_ref-Chron_1-1" class="reference"><a href="#cite_note-Chron-1">[1]</a></sup><sup id="cite_ref-Books_2-1" class="reference"><a href="#cite_note-Books-2">[2]</a></sup>
-- **Description:** Two-page lettercard. The front of the card shows a four line quote from the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crist" title="wikipedia:Crist">Crist</a></i> of <a class="extiw" href="http://en.wikipedia.org/wiki/Cynewulf" title="wikipedia:Cynewulf">Cynewulf</a>,<sup id="cite_ref-Books_2-2" class="reference"><a href="#cite_note-Books-2">[2]</a></sup> written in [Anglo-Saxon](/wiki/Old_English "Old English") script.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **Description:** Two-page lettercard. The front of the card shows a four line quote from the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Crist" title="wikipedia:Crist">Crist</a></i> of <a class="extiw" href="http://en.wikipedia.org/wiki/Cynewulf" title="wikipedia:Cynewulf">Cynewulf</a>,<sup id="cite_ref-Books_2-2" class="reference"><a href="#cite_note-Books-2">[2]</a></sup> written in [Anglo-Saxon](../O/Old_English.md) script.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## See also {#See_also}
 
-- [Letter to Deirdre Levinson (13 June 1955)](</wiki/Letter_to_Deirdre_Levinson_(13_June_1955)>)
-- [Letter to Deirdre Levinson (28 April 1956)](</wiki/Letter_to_Deirdre_Levinson_(28_April_1956)>)
-- [Letter to Deirdre Levinson (26 June 1957)](</wiki/Letter_to_Deirdre_Levinson_(26_June_1957)>)
+- [Letter to Deirdre Levinson (13 June 1955)](<Letter_to_Deirdre_Levinson_(13_June_1955).md>)
+- [Letter to Deirdre Levinson (28 April 1956)](<Letter_to_Deirdre_Levinson_(28_April_1956).md>)
+- [Letter to Deirdre Levinson (26 June 1957)](<Letter_to_Deirdre_Levinson_(26_June_1957).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Chron-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Chron_1-0">1.0</a></sup> <sup><a href="#cite_ref-Chron_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a>&#34; (accessed 26 November 2011)</span>
+<li id="cite_note-Chron-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Chron_1-0">1.0</a></sup> <sup><a href="#cite_ref-Chron_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a>&#34; (accessed 26 November 2011)</span>
 </li>
 <li id="cite_note-Books-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Books_2-0">2.0</a></sup> <sup><a href="#cite_ref-Books_2-1">2.1</a></sup> <sup><a href="#cite_ref-Books_2-2">2.2</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=72490" rel="noreferrer noopener" target="_blank">Books, Maps and Manuscripts. 2004</a> at <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a> (accessed 26 November 2011)</span>
 </li>

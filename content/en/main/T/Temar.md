@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Témar"
 ---
 
-Redirect to [Témar](/wiki/Témar).
+Redirect to [Témar](Témar.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Published materials templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Published materials templates</span>"
 page_id: 20734
 namespace: 14
 revision_id: 72477

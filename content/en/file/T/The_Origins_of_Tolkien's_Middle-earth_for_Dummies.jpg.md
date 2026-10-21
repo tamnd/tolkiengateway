@@ -1,6 +1,5 @@
 ---
 title: "File:The Origins of Tolkien's Middle-earth for Dummies.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Origins of Tolkien&#039;s Middle-earth for Dummies.jpg</span>"
 page_id: 5354
 namespace: 6
 revision_id: 214425

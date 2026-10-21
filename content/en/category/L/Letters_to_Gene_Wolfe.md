@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Gene Wolfe"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Gene Wolfe</span>"
 page_id: 68694
 namespace: 14
 revision_id: 408770
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Wolfe, Gene"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Gene Wolfe](/wiki/Gene_Wolfe).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Gene Wolfe](../../main/G/Gene_Wolfe.md).

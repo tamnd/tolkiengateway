@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Flies"
 ---
 
-Redirect to [Flies](/wiki/Flies).
+Redirect to [Flies](Flies.md).

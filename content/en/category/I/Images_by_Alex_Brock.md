@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alex Brock"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alex Brock</span>"
 page_id: 72816
 namespace: 14
 revision_id: 431460
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Brock, Alex"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Alex_Brock&amp;action=edit&amp;redlink=1" title="Alex Brock (page does not exist)">Alex Brock</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alex_Brock&amp;action=edit&amp;redlink=1" title="Alex Brock (page does not exist)">Alex Brock</a></b>.

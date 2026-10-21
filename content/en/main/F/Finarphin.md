@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finarfin"
 ---
 
-Redirect to [Finarfin](/wiki/Finarfin).
+Redirect to [Finarfin](Finarfin.md).

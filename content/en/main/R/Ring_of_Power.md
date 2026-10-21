@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rings of Power"
 ---
 
-Redirect to [Rings of Power](/wiki/Rings_of_Power).
+Redirect to [Rings of Power](Rings_of_Power.md).

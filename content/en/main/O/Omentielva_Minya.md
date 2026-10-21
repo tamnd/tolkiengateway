@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Omentielva"
 ---
 
-Redirect to [Omentielva](/wiki/Omentielva).
+Redirect to [Omentielva](Omentielva.md).

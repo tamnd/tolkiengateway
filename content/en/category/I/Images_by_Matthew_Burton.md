@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Matthew Burton"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Matthew Burton</span>"
 page_id: 48206
 namespace: 14
 revision_id: 257266

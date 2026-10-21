@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power - Three Rings.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power - Three Rings.webp</span>"
 page_id: 67939
 namespace: 6
 revision_id: 433686
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A depication of the [Three Rings](/wiki/Three_Rings) in the episode "[Alloyed](/wiki/Alloyed)" from *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series.
+A depication of the [Three Rings](../../main/T/Three_Rings.md) in the episode "[Alloyed](../../main/A/Alloyed.md)" from *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.
 
 ## Licensing {#Licensing}
 

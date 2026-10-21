@@ -23,21 +23,21 @@ langlinks:
     url: "https://kontu.wiki/Thurin"
 ---
 
-<i><b>thurin</b></i> is an adjective meaning "secret" or "hidden" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was used as a proper name for [Túrin](/wiki/T%C3%BArin) by [Finduilas](/wiki/Finduilas), who doubted that his true name was *Agarwaen*. The similarity with his name disturbed him greatly.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>thurin</b></i> is an adjective meaning "secret" or "hidden" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was used as a proper name for [Túrin](Túrin.md) by [Finduilas](../F/Finduilas.md), who doubted that his true name was *Agarwaen*. The similarity with his name disturbed him greatly.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Thuringwethil" title="Thuringwethil"><b>Thurin</b>gwethil</a></i> = "Secret Shadow"
-- <i><a class="mw-redirect" href="/wiki/Garth%C3%BArian" title="Garthúrian">Gar<b>thúrian</b></a></i> = "Hidden Realm"
+- <i><a href="Thuringwethil.md" title="Thuringwethil"><b>Thurin</b>gwethil</a></i> = "Secret Shadow"
+- <i><a class="mw-redirect" href="../G/Garthúrian.md" title="Garthúrian">Gar<b>thúrian</b></a></i> = "Hidden Realm"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;THUR&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;THUR&#34;</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="/wiki/T%C3%BArin_in_Nargothrond" title="Túrin in Nargothrond">Túrin in Nargothrond</a>&#34;, p. 165</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="Túrin_in_Nargothrond.md" title="Túrin in Nargothrond">Túrin in Nargothrond</a>&#34;, p. 165</span>
 </li>
 </ol></div>

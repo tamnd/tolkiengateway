@@ -1,6 +1,5 @@
 ---
 title: "File:Trilogy-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Trilogy-1-.jpg</span>"
 page_id: 27659
 namespace: 6
 revision_id: 248691
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover of [the Tolkien Trilogy](/wiki/The_Tolkien_Trilogy "The Tolkien Trilogy").
+The cover of [the Tolkien Trilogy](../../main/T/The_Tolkien_Trilogy.md).
 
 ## Licensing {#Licensing}
 

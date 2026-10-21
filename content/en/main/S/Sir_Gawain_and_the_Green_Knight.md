@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sir Gawain and the Green Knight (disambiguation)"
 ---
 
-Redirect to [Sir Gawain and the Green Knight (disambiguation)](/wiki/Sir_Gawain_and_the_Green_Knight_(disambiguation)).
+Redirect to [Sir Gawain and the Green Knight (disambiguation)](<Sir_Gawain_and_the_Green_Knight_(disambiguation).md>).

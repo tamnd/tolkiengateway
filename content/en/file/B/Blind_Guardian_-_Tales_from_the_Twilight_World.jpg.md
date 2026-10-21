@@ -1,6 +1,5 @@
 ---
 title: "File:Blind Guardian - Tales from the Twilight World.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blind Guardian - Tales from the Twilight World.jpg</span>"
 page_id: 74457
 namespace: 6
 revision_id: 438419
@@ -41,8 +40,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1990-07-16</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Andreas Marschall</td>
@@ -51,11 +48,10 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.progarchives.com/album.asp?id=15905" rel="noreferrer noopener" target="_blank">https://www.progarchives.com/album.asp?id=15905</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
 
 ## Licensing {#Licensing}
 
-<a class="new" href="/w/index.php?title=Template:Cc-by-sa-4.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-sa-4.0 (page does not exist)">Template:Cc-by-sa-4.0</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Cc-by-sa-4.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-sa-4.0 (page does not exist)">Template:Cc-by-sa-4.0</a>

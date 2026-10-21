@@ -1,6 +1,5 @@
 ---
 title: "Christopher Mitchell"
-display_title: "<span class=\"mw-page-title-main\">Christopher Mitchell</span>"
 page_id: 9566
 namespace: 0
 revision_id: 405087
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Mitchell, Christopher"
 ---
 
-**Dr. Christopher Wright Mitchell** (October [1957](/wiki/1957)) is the Assistant Professor of Theology and Director of the Marion E. Wade Center at Wheaton College. He has studied and lectured on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) among other similar authors such as [C.S. Lewis](/wiki/C.S._Lewis).
+**Dr. Christopher Wright Mitchell** (October [1957](../_/1957.md)) is the Assistant Professor of Theology and Director of the Marion E. Wade Center at Wheaton College. He has studied and lectured on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) among other similar authors such as [C.S. Lewis](C.S._Lewis.md).
 
 <br>
 

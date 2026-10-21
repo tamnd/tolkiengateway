@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Tauriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Tauriel.jpg</span>"
 page_id: 43942
 namespace: 6
 revision_id: 299247

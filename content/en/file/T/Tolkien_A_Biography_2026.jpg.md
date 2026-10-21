@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien A Biography 2026.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien A Biography 2026.jpg</span>"
 page_id: 71736
 namespace: 6
 revision_id: 427520

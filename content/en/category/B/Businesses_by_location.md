@@ -1,6 +1,5 @@
 ---
 title: "Category:Businesses by location"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Businesses by location</span>"
 page_id: 38709
 namespace: 14
 revision_id: 190196

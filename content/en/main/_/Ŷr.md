@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iôr"
 ---
 
-Redirect to [Iôr](/wiki/Iôr).
+Redirect to [Iôr](../I/Iôr.md).

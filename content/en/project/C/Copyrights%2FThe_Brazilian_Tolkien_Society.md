@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/The Brazilian Tolkien Society"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/The Brazilian Tolkien Society</span>"
 page_id: 38323
 namespace: 4
 revision_id: 257169
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Brazilian Tolkien Society"
 ---
 
-- Permission granted by copyright holder [The Brazilian Tolkien Society](/wiki/The_Brazilian_Tolkien_Society) to use [Logo STB Wiki.png](/wiki/File:Logo_STB_Wiki.png "File:Logo STB Wiki.png") on Tolkien Gateway.
-- Statement from copyright holder: "*Yes I think so, cuz since the trademark is ours we definitely agree to show our own logo on Tolkien Gateway, it is ok!.*" ([User talk:Amroth](/wiki/User_talk:Amroth/2012#Logo "User talk:Amroth/2012"))
+- Permission granted by copyright holder [The Brazilian Tolkien Society](../../main/T/The_Brazilian_Tolkien_Society.md) to use [Logo STB Wiki.png](../../file/L/Logo_STB_Wiki.png.md) on Tolkien Gateway.
+- Statement from copyright holder: "*Yes I think so, cuz since the trademark is ours we definitely agree to show our own logo on Tolkien Gateway, it is ok!.*" ([User talk:Amroth](https://tolkiengateway.net/wiki/User_talk:Amroth/2012#Logo))
 - Date: 17 February 2012
-- User who sought the permission: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

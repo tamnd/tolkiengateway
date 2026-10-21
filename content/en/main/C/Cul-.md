@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "KUL"
 ---
 
-Redirect to [KUL](/wiki/KUL).
+Redirect to [KUL](../K/KUL.md).

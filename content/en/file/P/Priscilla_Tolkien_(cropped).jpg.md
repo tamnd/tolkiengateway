@@ -1,6 +1,5 @@
 ---
 title: "File:Priscilla Tolkien (cropped).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Priscilla Tolkien (cropped).jpg</span>"
 page_id: 70593
 namespace: 6
 revision_id: 421060
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary_2}
 
-Taken in [2005](/wiki/2005).
+Taken in [2005](../../main/_/2005.md).
 
 ## Licensing {#Licensing}
 

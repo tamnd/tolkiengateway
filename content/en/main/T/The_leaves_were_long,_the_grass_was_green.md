@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Beren and Lúthien"
 ---
 
-Redirect to [Song of Beren and Lúthien](/wiki/Song_of_Beren_and_Lúthien).
+Redirect to [Song of Beren and Lúthien](../S/Song_of_Beren_and_Lúthien.md).

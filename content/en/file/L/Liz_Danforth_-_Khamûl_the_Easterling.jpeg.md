@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Khamûl the Easterling.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Khamûl the Easterling.jpeg</span>"
 page_id: 70866
 namespace: 6
 revision_id: 440780
@@ -34,8 +33,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Liz Danforth - Khamûl the Easterling.jpeg</span></th>
 <td class="description">
 <p><i>Khamûl the Easterling</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -43,8 +42,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1995</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Liz Danforth</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Extracted from a card scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

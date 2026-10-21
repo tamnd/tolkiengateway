@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astrid (disambiguation)"
 ---
 
-Redirect to [Astrid (disambiguation)](/wiki/Astrid_(disambiguation)).
+Redirect to [Astrid (disambiguation)](<Astrid_(disambiguation).md>).

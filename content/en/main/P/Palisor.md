@@ -1,6 +1,5 @@
 ---
 title: "Palisor"
-display_title: "<span class=\"mw-page-title-main\">Palisor</span>"
 page_id: 25677
 namespace: 0
 revision_id: 347235
@@ -16,29 +15,29 @@ categories:
   - "Regions"
 ---
 
-**Palisor** was a name used by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in his early legendarium for the mid-most region of the [Great Lands](/wiki/Great_Lands). In Palisor lay the [Waters of Awakening](/wiki/Cuivi%C3%A9nen "Cuiviénen"), where the Elves awoke.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Palisor** was a name used by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) in his early legendarium for the mid-most region of the [Great Lands](../G/Great_Lands.md). In Palisor lay the [Waters of Awakening](../C/Cuiviénen.md), where the Elves awoke.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The [Dark Elves](/wiki/Dark_Elves) stayed back in Palisor, and in the unfinished [Gilfanon's Tale](/wiki/Gilfanon%27s_Tale) we learn that the [Hisildi](/wiki/Hisildi) were ruled by the [fay](/wiki/Sprites "Sprites") [Tu](/wiki/Tu), whose dwelling was in the caves below the Waters of Awakening. East of Palisor was the [Murmenalda](/wiki/Murmenalda) where the [Men](/wiki/Men) awoke.
+The [Dark Elves](../D/Dark_Elves.md) stayed back in Palisor, and in the unfinished [Gilfanon's Tale](../G/Gilfanon's_Tale.md) we learn that the [Hisildi](../H/Hisildi.md) were ruled by the [fay](../S/Sprites.md) [Tu](../T/Tu.md), whose dwelling was in the caves below the Waters of Awakening. East of Palisor was the [Murmenalda](../M/Murmenalda.md) where the [Men](../M/Men.md) awoke.
 
-In the outlines of that story, Palisor was the site of the [Battle of Palisor](/wiki/Battle_of_Palisor), where Elves and Men fought against [Fankil](/wiki/Fankil)'s [Dwarves](/wiki/Dwarves) and/or [goblins](/wiki/Goblins "Goblins").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In the outlines of that story, Palisor was the site of the [Battle of Palisor](../B/Battle_of_Palisor.md), where Elves and Men fought against [Fankil](../F/Fankil.md)'s [Dwarves](../D/Dwarves.md) and/or [goblins](../G/Goblins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Conceptual confusion {#Conceptual_confusion}
 
-In *[The History of Middle-earth Index](/wiki/The_History_of_Middle-earth_Index)*, Palisor is correctly described as the region where "the Elves awoke", in the index for *[The Book of Lost Tales Part One](/wiki/The_Book_of_Lost_Tales_Part_One)* and *[The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two)*. However, in the index for *[The Shaping of Middle-earth](/wiki/The_Shaping_of_Middle-earth)* and *[The Lost Road and Other Writings](/wiki/The_Lost_Road_and_Other_Writings)*, Palisor is described to be the region where "the first Men awoke". A misconception is likely to have entered the index, as none of the page references point to any other usage of the name Palisor than the birth-place of the Elves.
+In *[The History of Middle-earth Index](../T/The_History_of_Middle-earth_Index.md)*, Palisor is correctly described as the region where "the Elves awoke", in the index for *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)* and *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*. However, in the index for *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)* and *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, Palisor is described to be the region where "the first Men awoke". A misconception is likely to have entered the index, as none of the page references point to any other usage of the name Palisor than the birth-place of the Elves.
 
 ## Etymology {#Etymology}
 
-According to [Christopher Tolkien](/wiki/Christopher_Tolkien)'s reading of the *[Qenya Lexicon](/wiki/Qenya_Lexicon)*, 'Palisor' is derived from the root PALA, "whose derivatives have a common general sense of 'flatness', among them *palis* 'sward, lawn', whence no doubt *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+According to [Christopher Tolkien](../C/Christopher_Tolkien.md)'s reading of the *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, 'Palisor' is derived from the root PALA, "whose derivatives have a common general sense of 'flatness', among them *palis* 'sward, lawn', whence no doubt *Palisor*."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, p. 114f</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, p. 114f</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;X. <a href="/wiki/Gilfanon%27s_Tale:_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind" title="Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind">Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;X. <a href="../G/Gilfanon&#39;s_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md" title="Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind">Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, p. 264</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, p. 264</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telumehtar Umbardacil"
 ---
 
-Redirect to [Telumehtar Umbardacil](/wiki/Telumehtar_Umbardacil).
+Redirect to [Telumehtar Umbardacil](../T/Telumehtar_Umbardacil.md).

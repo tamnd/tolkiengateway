@@ -1,6 +1,5 @@
 ---
 title: "File:Poems from The Hobbit.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poems from The Hobbit.gif</span>"
 page_id: 62746
 namespace: 6
 revision_id: 355324

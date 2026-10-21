@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Mithrim"
 ---
 
-Redirect to [Mountains of Mithrim](/wiki/Mountains_of_Mithrim).
+Redirect to [Mountains of Mithrim](../M/Mountains_of_Mithrim.md).

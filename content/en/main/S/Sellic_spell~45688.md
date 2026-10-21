@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sellic Spell"
 ---
 
-Redirect to [Sellic Spell](/wiki/Sellic_Spell).
+Redirect to [Sellic Spell](Sellic_Spell.md).

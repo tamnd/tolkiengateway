@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Trilogy Location Guidebook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Trilogy Location Guidebook.jpg</span>"
 page_id: 70354
 namespace: 6
 revision_id: 418673

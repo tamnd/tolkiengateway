@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron's attack on Osgiliath"
 ---
 
-Redirect to [Sauron's attack on Osgiliath](/wiki/Sauron's_attack_on_Osgiliath).
+Redirect to [Sauron's attack on Osgiliath](Sauron's_attack_on_Osgiliath.md).

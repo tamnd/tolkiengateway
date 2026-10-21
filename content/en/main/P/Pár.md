@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pār"
 ---
 
-Redirect to [Pār](/wiki/Pār).
+Redirect to [Pār](Pār.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Boromir.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Boromir.png</span>"
 page_id: 73073
 namespace: 6
 revision_id: 432612
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Boromir](/wiki/Boromir) - [LEGO](/wiki/Lego "Lego") minifigure
+[Boromir](../../main/B/Boromir.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

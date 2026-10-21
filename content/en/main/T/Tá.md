@@ -15,15 +15,15 @@ sort_keys:
   "Quenya adverbs": "Ta"
 ---
 
-**tá** is a [Quenya](/wiki/Quenya) adverb meaning "then".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**tá** is a [Quenya](../Q/Quenya.md) adverb meaning "then".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-See *[ta](/wiki/Ta "Ta")* <span></span>
+See *[ta](Ta~22500.md)* <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 11</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 11</span>
 </li>
 </ol></div>

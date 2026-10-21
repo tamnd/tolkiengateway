@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "There and Back Again (disambiguation)"
 ---
 
-Redirect to [There and Back Again (disambiguation)](/wiki/There_and_Back_Again_(disambiguation)).
+Redirect to [There and Back Again (disambiguation)](<There_and_Back_Again_(disambiguation).md>).

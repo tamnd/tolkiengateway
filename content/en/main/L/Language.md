@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Languages"
 ---
 
-Redirect to [Category:Languages](/wiki/Category:Languages).
+Redirect to [Category:Languages](../../category/L/Languages.md).

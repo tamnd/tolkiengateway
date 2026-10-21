@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkienwinkel advertisement (2002).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkienwinkel advertisement (2002).jpg</span>"
 page_id: 73551
 namespace: 6
 revision_id: 434790
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Scanned from Spellenspektakel magazine #11 (2002)</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

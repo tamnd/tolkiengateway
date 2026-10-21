@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps by J.R.R. Tolkien</span>"
 page_id: 66522
 namespace: 14
 revision_id: 410425

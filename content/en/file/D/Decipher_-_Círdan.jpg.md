@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Círdan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Círdan.jpg</span>"
 page_id: 19618
 namespace: 6
 revision_id: 213613
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Michael Elsworth](/wiki/Michael_Elsworth) as [Círdan](/wiki/C%C3%ADrdan). The image appeared on a [Decipher](/wiki/Decipher) card.
+[Michael Elsworth](../../main/M/Michael_Elsworth.md) as [Círdan](../../main/C/Círdan.md). The image appeared on a [Decipher](../../main/D/Decipher.md) card.
 
 ## Licensing {#Licensing}
 

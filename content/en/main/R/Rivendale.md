@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rivendell"
 ---
 
-Redirect to [Rivendell](/wiki/Rivendell).
+Redirect to [Rivendell](Rivendell.md).

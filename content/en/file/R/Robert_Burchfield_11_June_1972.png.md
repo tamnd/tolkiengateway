@@ -1,6 +1,5 @@
 ---
 title: "File:Robert Burchfield 11 June 1972.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Robert Burchfield 11 June 1972.png</span>"
 page_id: 39239
 namespace: 6
 revision_id: 215099

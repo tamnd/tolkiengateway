@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andy Gunn"
 ---
 
-Redirect to [Andy Gunn](/wiki/Andy_Gunn).
+Redirect to [Andy Gunn](Andy_Gunn.md).

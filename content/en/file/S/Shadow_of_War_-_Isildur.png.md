@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Isildur.png</span>"
 page_id: 71276
 namespace: 6
 revision_id: 425250
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) as depicted in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War) before he became a [Nazgul](/wiki/Nazgul).
+[Isildur](../../main/I/Isildur.md) as depicted in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md) before he became a [Nazgul](../../main/N/Nazgul.md).
 
 ## Licensing {#Licensing}
 

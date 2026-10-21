@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Haldir Elf of the Golden Wood.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Haldir Elf of the Golden Wood.jpg</span>"
 page_id: 22621
 namespace: 6
 revision_id: 211672

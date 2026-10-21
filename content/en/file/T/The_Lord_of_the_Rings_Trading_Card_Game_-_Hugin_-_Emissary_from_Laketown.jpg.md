@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Hugin - Emissary from Laketown.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Hugin - Emissary from Laketown.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Hugin_-_Emissary_from_Laketown.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Hugin - Emissary from Laketown.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Hugin_-_Emissary_from_Laketown.jpg.md).

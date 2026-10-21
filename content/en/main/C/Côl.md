@@ -11,4 +11,4 @@ redirect_target: "Malt"
 redirect_fragment: "Other versions"
 ---
 
-Redirect to [Malt](/wiki/Malt#Other_versions).
+Redirect to [Malt](../M/Malt.md#Other_versions).

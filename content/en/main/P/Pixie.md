@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sprites"
 ---
 
-Redirect to [Sprites](/wiki/Sprites).
+Redirect to [Sprites](../S/Sprites.md).

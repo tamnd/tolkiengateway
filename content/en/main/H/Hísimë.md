@@ -1,6 +1,5 @@
 ---
 title: "Hísimë"
-display_title: "<span class=\"mw-page-title-main\">Hísimë</span>"
 page_id: 3451
 namespace: 0
 revision_id: 405856
@@ -30,13 +29,13 @@ langlinks:
     url: "https://kontu.wiki/H%C3%ADsim%C3%AB"
 ---
 
-**Hísimë**, following [Narquelië](/wiki/Narqueli%C3%AB) and preceding the last month, [Ringarë](/wiki/Ringar%C3%AB), is the eleventh month of the year according to the [Kings'](/wiki/Kings%27_Reckoning "Kings' Reckoning") and [Stewards' Reckoning](/wiki/Stewards%27_Reckoning) of [Gondor](/wiki/Gondor), and the eighth month according to the [New Reckoning](/wiki/New_Reckoning). Hísimë in the Kings' and Stewards' Reckoning corresponded to [Blotmath](/wiki/Blotmath) in the [Shire Calendar](/wiki/Shire_Calendar) (approximately modern [22 October](/wiki/22_October) through [20 November](/wiki/20_November)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hísimë**, following [Narquelië](../N/Narquelië.md) and preceding the last month, [Ringarë](../R/Ringarë.md), is the eleventh month of the year according to the [Kings'](../K/Kings'_Reckoning.md) and [Stewards' Reckoning](../S/Stewards'_Reckoning.md) of [Gondor](../G/Gondor.md), and the eighth month according to the [New Reckoning](../N/New_Reckoning.md). Hísimë in the Kings' and Stewards' Reckoning corresponded to [Blotmath](../B/Blotmath.md) in the [Shire Calendar](../S/Shire_Calendar.md) (approximately modern [22 October](../_/22_October.md) through [20 November](../_/20_November.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Among the [Dúnedain](/wiki/D%C3%BAnedain) it was named in [Sindarin](/wiki/Sindarin) *[Hithui](/wiki/Hithui)*. <span></span>
+Among the [Dúnedain](../D/Dúnedain.md) it was named in [Sindarin](../S/Sindarin.md) *[Hithui](Hithui.md)*. <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>

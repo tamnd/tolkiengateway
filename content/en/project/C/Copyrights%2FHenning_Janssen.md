@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Henning Janssen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Henning Janssen</span>"
 page_id: 40567
 namespace: 4
 revision_id: 206120
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Janssen, Henning"
 ---
 
-- [Henning Janssen](/wiki/Henning_Janssen) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Henning_Janssen "Category:Images by Henning Janssen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Henning Janssen](../../main/H/Henning_Janssen.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Henning_Janssen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 14 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

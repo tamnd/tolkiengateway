@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atlantis-haunting"
 ---
 
-Redirect to [Atlantis-haunting](/wiki/Atlantis-haunting).
+Redirect to [Atlantis-haunting](Atlantis-haunting.md).

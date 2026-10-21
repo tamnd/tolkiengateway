@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Primitive Dwarfs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Primitive Dwarfs.jpg</span>"
 page_id: 74755
 namespace: 6
 revision_id: 439713
@@ -31,25 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Artigas - Primitive Dwarfs.jpg</span></th>
 <td class="description">
-<p><i>Primitive <a href="/wiki/Dwarves" title="Dwarves">Dwarfs</a></i> by <a href="/wiki/Category:Images_by_Artigas" title="Category:Images by Artigas">Artigas</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p><i>Primitive <a href="../../main/D/Dwarves.md" title="Dwarves">Dwarfs</a></i> by <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/28_March" title="28 March">28 March</a> <a href="/wiki/2019" title="2019">2019</a></td>
+<td><a href="../../main/_/28_March.md" title="28 March">28 March</a> <a href="../../main/_/2019.md" title="2019">2019</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Artigas" title="Category:Images by Artigas">Artigas</a></td>
+<td><a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">Artigas</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://globalcomix.com/read/1ae8b80b-0c3b-4a9d-9e32-4b53ffc65dff/50" rel="noreferrer noopener" target="_blank">https://globalcomix.com/read/1ae8b80b-0c3b-4a9d-9e32-4b53ffc65dff/50</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Artigas</span></span>
@@ -57,13 +53,13 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">Artigas on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Instagram</i>, <a class="external text" href="https://www.instagram.com/p/Bvi7cPtHjMD/" rel="noreferrer noopener" target="_blank">Primitive Dwarfs</a> by <a href="/wiki/Category:Images_by_Artigas" title="Category:Images by Artigas">sir.john.artigas</a>, <a href="/wiki/28_March" title="28 March">28 March</a> <a href="/wiki/2019" title="2019">2019</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Instagram</i>, <a class="external text" href="https://www.instagram.com/p/Bvi7cPtHjMD/" rel="noreferrer noopener" target="_blank">Primitive Dwarfs</a> by <a href="../../category/I/Images_by_Artigas.md" title="Category:Images by Artigas">sir.john.artigas</a>, <a href="../../main/_/28_March.md" title="28 March">28 March</a> <a href="../../main/_/2019.md" title="2019">2019</a></span>
 </li>
 </ol></div>

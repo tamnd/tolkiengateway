@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Camels"
 ---
 
-Redirect to [Camels](/wiki/Camels).
+Redirect to [Camels](Camels.md).

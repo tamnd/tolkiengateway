@@ -11,4 +11,4 @@ redirect_target: "Toward the Gleam"
 redirect_fragment: "Kataklusmós"
 ---
 
-Redirect to [Toward the Gleam](/wiki/Toward_the_Gleam#Kataklusmós).
+Redirect to [Toward the Gleam](../T/Toward_the_Gleam.md#Kataklusmós).

@@ -1,6 +1,5 @@
 ---
 title: "File:Donato Giancola - Black Breath.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Donato Giancola - Black Breath.jpg</span>"
 page_id: 72952
 namespace: 6
 revision_id: 432277
@@ -37,8 +36,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Donato Giancola - Black Breath.jpg</span></th>
 <td class="description">
 <p><i>Black Breath</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Dragons" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -46,8 +45,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Donato Giancola</td>
@@ -56,7 +53,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.donatoarts.com/online-store/secure-store/Black-Breath-p223147811" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

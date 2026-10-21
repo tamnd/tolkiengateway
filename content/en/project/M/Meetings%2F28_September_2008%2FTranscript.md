@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/28 September 2008/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/28 September 2008/Transcript</span>"
 page_id: 20732
 namespace: 4
 revision_id: 202022
@@ -31,7 +30,7 @@ sort_keys:
 &lt;Ederchil&gt;	Giles, Smith<br/>
 &lt;Ederchil&gt;	roverandom<br/>
 &lt;Hyarion&gt;	hm, and I suppose none of them come published with paragraph numbers?<br/>
-&lt;Ederchil&gt;	nope. currently, the only example is <a href="/wiki/Master_Cook" title="Master Cook">Master Cook</a><br/>
+&lt;Ederchil&gt;	nope. currently, the only example is <a href="../../main/M/Master_Cook.md" title="Master Cook">Master Cook</a><br/>
 &lt;Ederchil&gt;	I&#39;m not really happy with that method<br/>
 &lt;Hyarion&gt;	hm, what is ibid?<br/>
 &lt;Ederchil&gt;	definately not with the Ibid.&#39;s<br/>

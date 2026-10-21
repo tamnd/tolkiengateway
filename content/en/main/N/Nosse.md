@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nossë"
 ---
 
-Redirect to [Nossë](/wiki/Nossë).
+Redirect to [Nossë](Nossë.md).

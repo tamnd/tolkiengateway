@@ -1,6 +1,5 @@
 ---
 title: "Category:Academic institutions in England"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Academic institutions in England</span>"
 page_id: 46110
 namespace: 14
 revision_id: 243829

@@ -1,6 +1,5 @@
 ---
 title: "File:Hazards of the Harad Wood.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hazards of the Harad Wood.png</span>"
 page_id: 36079
 namespace: 6
 revision_id: 350644

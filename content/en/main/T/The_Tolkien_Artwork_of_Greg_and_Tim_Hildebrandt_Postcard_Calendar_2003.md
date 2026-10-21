@@ -16,11 +16,11 @@ images:
   - "The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg"><img src="/w/images/f/f1/The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg" decoding="async" loading="lazy" width="251" height="350" class="mw-file-element" data-file-width="251" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f1/The_Tolkien_Artwork_of_Greg_and_Tim_Hildebrandt_Postcard_Calendar_2003.jpg" decoding="async" loading="lazy" width="251" height="350" class="mw-file-element" data-file-width="251" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Artwork of Greg and Tim Hildebrandt Postcard Calendar 2003** was produced by Ronnie Sellers Productions, Inc. and contains illustrations by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt).
+**The Tolkien Artwork of Greg and Tim Hildebrandt Postcard Calendar 2003** was produced by Ronnie Sellers Productions, Inc. and contains illustrations by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1569064717">ISBN 1-56906-471-7</a>.
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1569064717">ISBN 1-56906-471-7</a>.
 - Dimensions: 6 x 8 inches
 - Wire bound
 - Shrink-wrapped

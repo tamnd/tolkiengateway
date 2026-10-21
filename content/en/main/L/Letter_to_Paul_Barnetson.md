@@ -1,6 +1,5 @@
 ---
 title: "Letter to Paul Barnetson"
-display_title: "<span class=\"mw-page-title-main\">Letter to Paul Barnetson</span>"
 page_id: 37552
 namespace: 0
 revision_id: 387878
@@ -17,11 +16,11 @@ images:
   - "Paul_Barnetson_13_November_1961.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Paul_Barnetson_13_November_1961.png"><img src="/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/300px-Paul_Barnetson_13_November_1961.png" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/450px-Paul_Barnetson_13_November_1961.png 1.5x, /w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/600px-Paul_Barnetson_13_November_1961.png 2x" data-file-width="667" data-file-height="827"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Paul_Barnetson_13_November_1961.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/300px-Paul_Barnetson_13_November_1961.png" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/450px-Paul_Barnetson_13_November_1961.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Paul_Barnetson_13_November_1961.png/600px-Paul_Barnetson_13_November_1961.png 2x" data-file-width="667" data-file-height="827"/></a><figcaption></figcaption></figure>
 
-On [13 November](/wiki/13_November) [1961](/wiki/1961), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Paul Barnetson**.<sup id="cite_ref-Fraser_1-0" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
+On [13 November](../_/13_November.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Paul Barnetson**.<sup id="cite_ref-Fraser_1-0" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
 
-- **Subject(s):** Influences (German and Icelandic folklore, the Niebelung story); the words [*orc* and *goblin*](/wiki/Orcs#Orcs_and_Goblins "Orcs").<sup id="cite_ref-Fraser_1-1" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
+- **Subject(s):** Influences (German and Icelandic folklore, the Niebelung story); the words [*orc* and *goblin*](../O/Orcs.md#Orcs_and_Goblins).<sup id="cite_ref-Fraser_1-1" class="reference"><a href="#cite_note-Fraser-1">[1]</a></sup>
 - **Publication:** None.
 
 <span></span>

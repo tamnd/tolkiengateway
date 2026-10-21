@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Travellers"
 ---
 
-Redirect to [Travellers](/wiki/Travellers).
+Redirect to [Travellers](Travellers.md).

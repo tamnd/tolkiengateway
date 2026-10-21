@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Bear-dance"
 ---
 
-Redirect to [Great Bear-dance](/wiki/Great_Bear-dance).
+Redirect to [Great Bear-dance](../G/Great_Bear-dance.md).

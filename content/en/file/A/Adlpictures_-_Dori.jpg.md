@@ -1,6 +1,5 @@
 ---
 title: "File:Adlpictures - Dori.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Adlpictures - Dori.jpg</span>"
 page_id: 41529
 namespace: 6
 revision_id: 210833
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Adlpictures</li>
 <li><b>Website:</b> <a class="external text" href="http://adlpictures.deviantart.com/" rel="noreferrer noopener" target="_blank">Adlpictures&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Adlpictures" title="Tolkien Gateway:Copyrights/Adlpictures">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAdlpictures.md" title="Tolkien Gateway:Copyrights/Adlpictures">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Daeron"
 ---
 
-Redirect to [Daeron](/wiki/Daeron).
+Redirect to [Daeron](Daeron.md).

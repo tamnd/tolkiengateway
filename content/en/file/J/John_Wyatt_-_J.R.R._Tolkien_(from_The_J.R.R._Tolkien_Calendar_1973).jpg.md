@@ -1,6 +1,5 @@
 ---
 title: "File:John Wyatt - J.R.R. Tolkien (from The J.R.R. Tolkien Calendar 1973).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Wyatt - J.R.R. Tolkien (from The J.R.R. Tolkien Calendar 1973).jpg</span>"
 page_id: 65327
 namespace: 6
 revision_id: 375906

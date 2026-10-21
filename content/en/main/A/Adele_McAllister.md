@@ -1,6 +1,5 @@
 ---
 title: "Adele McAllister"
-display_title: "<span class=\"mw-page-title-main\">Adele McAllister</span>"
 page_id: 68862
 namespace: 0
 revision_id: 423913
@@ -19,7 +18,7 @@ sort_keys:
   "Folk music": "McAllister, Adele"
 ---
 
-**Adele McAllister** is a Washington D.C.-based singer-songwriter. In 2014 she released a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired folk music album entitled <i><a class="new" href="/w/index.php?title=Roads_Go_Ever_On_and_On:_Songs_from_Tolkien%27s_Middle-earth&amp;action=edit&amp;redlink=1" title="Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth (page does not exist)">Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth</a></i>.
+**Adele McAllister** is a Washington D.C.-based singer-songwriter. In 2014 she released a [Tolkien](../J/J.R.R._Tolkien.md)-inspired folk music album entitled <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Roads_Go_Ever_On_and_On:_Songs_from_Tolkien%27s_Middle-earth&amp;action=edit&amp;redlink=1" title="Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth (page does not exist)">Roads Go Ever On and On: Songs from Tolkien&#39;s Middle-earth</a></i>.
 
 ## External links {#External_links}
 

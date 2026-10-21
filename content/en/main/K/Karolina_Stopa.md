@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karolina Stopa-Olszańska"
 ---
 
-Redirect to [Karolina Stopa-Olszańska](/wiki/Karolina_Stopa-Olszańska).
+Redirect to [Karolina Stopa-Olszańska](Karolina_Stopa-Olszańska.md).

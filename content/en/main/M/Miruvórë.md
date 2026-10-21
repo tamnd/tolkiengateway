@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Miruvor"
 ---
 
-Redirect to [Miruvor](/wiki/Miruvor).
+Redirect to [Miruvor](Miruvor.md).

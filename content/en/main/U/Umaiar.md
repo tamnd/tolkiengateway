@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úmaiar"
 ---
 
-Redirect to [Úmaiar](/wiki/Úmaiar).
+Redirect to [Úmaiar](../_/Úmaiar.md).

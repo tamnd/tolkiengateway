@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ship-kings"
 ---
 
-Redirect to [Ship-kings](/wiki/Ship-kings).
+Redirect to [Ship-kings](Ship-kings.md).

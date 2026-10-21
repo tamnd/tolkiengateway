@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Princess Mee"
 ---
 
-Redirect to [Princess Mee](/wiki/Princess_Mee).
+Redirect to [Princess Mee](../P/Princess_Mee.md).

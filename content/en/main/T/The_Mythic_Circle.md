@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/The_Mythic_Circle"
 ---
 
-The **Mythic Circle** is a small literary magazine published annually by the [Mythopoeic Society](/wiki/Mythopoeic_Society) which celebrates the work of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [C.S. Lewis](/wiki/C.S._Lewis), and [Charles Williams](/wiki/Charles_Williams). These adventuresome writers saw themselves as contributors to a rich imaginative tradition encompassing authors as different as <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/H.G._Wells" title="wikipedia:H.G. Wells">H.G. Wells</a>.
+The **Mythic Circle** is a small literary magazine published annually by the [Mythopoeic Society](../M/Mythopoeic_Society.md) which celebrates the work of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md), and [Charles Williams](../C/Charles_Williams.md). These adventuresome writers saw themselves as contributors to a rich imaginative tradition encompassing authors as different as <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/H.G._Wells" title="wikipedia:H.G. Wells">H.G. Wells</a>.
 
 The magazine, originally a quarterly, was founded in 1987 by Sherwood Smith and Lynn Maudlin in order to provide writers with a workshop in print.
 

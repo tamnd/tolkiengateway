@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Later Annals of Beleriand"
 ---
 
-Redirect to [The Later Annals of Beleriand](/wiki/The_Later_Annals_of_Beleriand).
+Redirect to [The Later Annals of Beleriand](The_Later_Annals_of_Beleriand.md).

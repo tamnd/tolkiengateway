@@ -1,6 +1,5 @@
 ---
 title: "Category:Files with a license template"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Files with a license template</span>"
 page_id: 39909
 namespace: 14
 revision_id: 202920

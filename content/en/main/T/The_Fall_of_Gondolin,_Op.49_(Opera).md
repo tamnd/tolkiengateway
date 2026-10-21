@@ -1,6 +1,5 @@
 ---
 title: "The Fall of Gondolin, Op.49 (Opera)"
-display_title: "<span class=\"mw-page-title-main\">The Fall of Gondolin, Op.49 (Opera)</span>"
 page_id: 65177
 namespace: 0
 revision_id: 426192
@@ -16,11 +15,11 @@ images:
   - "Gondolin_CD_Artwork.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Gondolin_CD_Artwork.png"><img src="/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, /w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
 
-Part four of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
+Part four of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
 
-This section of the *Epic Scenes* was composed between late 1986 and 1990 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. This also included the use of texts that were then unpublished. It utilises texts from *[The Silmarillion](/wiki/The_Silmarillion), [The Unfinished Tales](/wiki/Unfinished_Tales "Unfinished Tales"), [The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales), [The Shaping of Middle-earth](/wiki/The_Shaping_of_Middle-earth), [The Lost Road](/wiki/The_Lost_Road_and_Other_Writings "The Lost Road and Other Writings")* and *The Monsters and the Critics*.
+This section of the *Epic Scenes* was composed between late 1986 and 1990 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. This also included the use of texts that were then unpublished. It utilises texts from *[The Silmarillion](The_Silmarillion.md), [The Unfinished Tales](../U/Unfinished_Tales.md), [The Book of Lost Tales](The_Book_of_Lost_Tales.md), [The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md), [The Lost Road](The_Lost_Road_and_Other_Writings.md)* and *The Monsters and the Critics*.
 
 It has a total duration of 116 minutes and is scored for full orchestra, full chorus and solo voices.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Library: An Annotated Checklist"
 ---
 
-Redirect to [Tolkien's Library: An Annotated Checklist](/wiki/Tolkien's_Library:_An_Annotated_Checklist).
+Redirect to [Tolkien's Library: An Annotated Checklist](Tolkien's_Library%253A_An_Annotated_Checklist.md).

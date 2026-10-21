@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-Lords of Gondor"
 ---
 
-Redirect to [Sea-Lords of Gondor](/wiki/Sea-Lords_of_Gondor).
+Redirect to [Sea-Lords of Gondor](../S/Sea-Lords_of_Gondor.md).

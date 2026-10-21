@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gardner family"
 ---
 
-Redirect to [Gardner family](/wiki/Gardner_family).
+Redirect to [Gardner family](Gardner_family.md).

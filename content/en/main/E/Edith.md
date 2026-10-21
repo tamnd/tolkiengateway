@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edith Tolkien"
 ---
 
-Redirect to [Edith Tolkien](/wiki/Edith_Tolkien).
+Redirect to [Edith Tolkien](Edith_Tolkien.md).

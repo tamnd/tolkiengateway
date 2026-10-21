@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Malva Meadowgrass"
 ---
 
-Redirect to [Malva Meadowgrass](/wiki/Malva_Meadowgrass).
+Redirect to [Malva Meadowgrass](Malva_Meadowgrass.md).

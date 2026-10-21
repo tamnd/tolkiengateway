@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Ardamin"
 ---
 
-Redirect to [Tar-Ardamin](/wiki/Tar-Ardamin).
+Redirect to [Tar-Ardamin](../T/Tar-Ardamin.md).

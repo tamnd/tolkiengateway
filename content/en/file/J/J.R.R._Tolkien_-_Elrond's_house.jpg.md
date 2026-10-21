@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Elrond's house.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Elrond&#039;s house.jpg</span>"
 page_id: 71645
 namespace: 6
 revision_id: 427023
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Elrond](/wiki/Elrond)'s house" by J.R.R. Tolkien\]\].
+"[Elrond](../../main/E/Elrond.md)'s house" by J.R.R. Tolkien\]\].
 
 ## Licensing {#Licensing}
 

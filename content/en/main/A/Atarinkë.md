@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Curufin"
 ---
 
-Redirect to [Curufin](/wiki/Curufin).
+Redirect to [Curufin](../C/Curufin.md).

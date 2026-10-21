@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ironfists"
 ---
 
-Redirect to [Ironfists](/wiki/Ironfists).
+Redirect to [Ironfists](Ironfists.md).

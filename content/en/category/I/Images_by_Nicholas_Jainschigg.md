@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Nicholas Jainschigg"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Nicholas Jainschigg</span>"
 page_id: 29133
 namespace: 14
 revision_id: 182115

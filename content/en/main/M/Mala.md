@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Māla"
 ---
 
-Redirect to [Māla](/wiki/Māla).
+Redirect to [Māla](Māla.md).

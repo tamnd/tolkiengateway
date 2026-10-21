@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Square of the Palace"
 ---
 
-Redirect to [Square of the Palace](/wiki/Square_of_the_Palace).
+Redirect to [Square of the Palace](Square_of_the_Palace.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by C. Domino"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by C. Domino</span>"
 page_id: 58216
 namespace: 14
 revision_id: 320024

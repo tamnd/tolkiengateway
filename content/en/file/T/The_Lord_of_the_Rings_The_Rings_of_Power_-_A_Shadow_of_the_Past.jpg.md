@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power - A Shadow of the Past.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power - A Shadow of the Past.jpg</span>"
 page_id: 63801
 namespace: 6
 revision_id: 415349
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art for the soundtrack of the first episode of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series, "[A Shadow of the Past](/wiki/A_Shadow_of_the_Past)".
+Cover art for the soundtrack of the first episode of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series, "[A Shadow of the Past](../../main/A/A_Shadow_of_the_Past.md)".
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Glass Hammer The Middle-earth album.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Glass Hammer The Middle-earth album.jpg</span>"
 page_id: 22780
 namespace: 6
 revision_id: 218085

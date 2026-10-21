@@ -1,6 +1,5 @@
 ---
 title: "File:La infancia recuperata.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">La infancia recuperata.jpg</span>"
 page_id: 47929
 namespace: 6
 revision_id: 255252

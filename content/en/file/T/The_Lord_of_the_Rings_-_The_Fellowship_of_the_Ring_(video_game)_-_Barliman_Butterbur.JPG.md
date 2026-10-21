@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Barliman Butterbur.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Barliman Butterbur.JPG</span>"
 page_id: 20979
 namespace: 6
 revision_id: 298594
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barliman Butterbur](/wiki/Barliman_Butterbur) in *[The Prancing Pony](/wiki/The_Prancing_Pony)*. Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Barliman Butterbur](../../main/B/Barliman_Butterbur.md) in *[The Prancing Pony](../../main/T/The_Prancing_Pony.md)*. Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

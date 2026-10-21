@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dírhaval"
 ---
 
-Redirect to [Dírhaval](/wiki/Dírhaval).
+Redirect to [Dírhaval](Dírhaval.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Steamey - Haleth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Steamey - Haleth.jpg</span>"
 page_id: 63489
 namespace: 6
 revision_id: 421250
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Steamey</li>
 <li><b>Website:</b> <a class="external text" href="http://steamey.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Steamey" title="Tolkien Gateway:Copyrights/Steamey">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSteamey.md" title="Tolkien Gateway:Copyrights/Steamey">Permission for use on Tolkien Gateway</a></b></li></ul></div>

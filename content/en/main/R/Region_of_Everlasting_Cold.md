@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor Daedeloth"
 ---
 
-Redirect to [Dor Daedeloth](/wiki/Dor_Daedeloth).
+Redirect to [Dor Daedeloth](../D/Dor_Daedeloth.md).

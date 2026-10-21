@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tâl"
 ---
 
-Redirect to [Tâl](/wiki/Tâl).
+Redirect to [Tâl](Tâl.md).

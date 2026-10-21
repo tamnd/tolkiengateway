@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Únótima"
 ---
 
-Redirect to [Únótima](/wiki/Únótima).
+Redirect to [Únótima](../_/Únótima.md).

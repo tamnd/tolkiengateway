@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Agatha Carew Hunt"
 ---
 
-Redirect to [Letter to Agatha Carew Hunt](/wiki/Letter_to_Agatha_Carew_Hunt).
+Redirect to [Letter to Agatha Carew Hunt](../L/Letter_to_Agatha_Carew_Hunt.md).

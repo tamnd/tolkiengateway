@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sackville Family"
 ---
 
-Redirect to [Sackville Family](/wiki/Sackville_Family).
+Redirect to [Sackville Family](Sackville_Family.md).

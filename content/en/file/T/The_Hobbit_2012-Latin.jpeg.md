@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 2012-Latin.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 2012-Latin.jpeg</span>"
 page_id: 63999
 namespace: 6
 revision_id: 365120

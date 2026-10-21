@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balcmeg"
 ---
 
-Redirect to [Balcmeg](/wiki/Balcmeg).
+Redirect to [Balcmeg](../B/Balcmeg.md).

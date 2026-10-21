@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lembas"
 ---
 
-Redirect to [Lembas](/wiki/Lembas).
+Redirect to [Lembas](Lembas.md).

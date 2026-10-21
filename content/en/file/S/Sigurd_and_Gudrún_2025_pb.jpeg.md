@@ -1,6 +1,5 @@
 ---
 title: "File:Sigurd and Gudrún 2025 pb.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sigurd and Gudrún 2025 pb.jpeg</span>"
 page_id: 70603
 namespace: 6
 revision_id: 421120

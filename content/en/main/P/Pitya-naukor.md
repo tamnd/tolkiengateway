@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Petty-dwarves"
 ---
 
-Redirect to [Petty-dwarves](/wiki/Petty-dwarves).
+Redirect to [Petty-dwarves](Petty-dwarves.md).

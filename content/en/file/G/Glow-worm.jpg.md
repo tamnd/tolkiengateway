@@ -1,6 +1,5 @@
 ---
 title: "File:Glow-worm.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Glow-worm.jpg</span>"
 page_id: 29369
 namespace: 6
 revision_id: 174051

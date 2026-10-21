@@ -1,6 +1,5 @@
 ---
 title: "File:English Studies (reprint).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">English Studies (reprint).jpg</span>"
 page_id: 32983
 namespace: 6
 revision_id: 150581
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Cover of the 1978 reprint of the journal *[English Studies (December 1947)](</wiki/English_Studies_(December_1947)>)*.
+Cover of the 1978 reprint of the journal *[English Studies (December 1947)](<../../main/E/English_Studies_(December_1947).md>)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

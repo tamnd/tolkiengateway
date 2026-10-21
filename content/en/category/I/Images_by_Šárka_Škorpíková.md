@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Šárka Škorpíková"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Šárka Škorpíková</span>"
 page_id: 49405
 namespace: 14
 revision_id: 357336
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Skorpikova, Sarka"
 ---
 
-This category lists all **images by [Šárka Škorpíková](/wiki/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1)**.
+This category lists all **images by [Šárka Škorpíková](../../main/_/Šárka_Škorpíková.md)**.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peleg"
 ---
 
-Redirect to [Peleg](/wiki/Peleg).
+Redirect to [Peleg](Peleg.md).

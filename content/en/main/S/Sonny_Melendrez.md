@@ -1,6 +1,5 @@
 ---
 title: "Sonny Melendrez"
-display_title: "<span class=\"mw-page-title-main\">Sonny Melendrez</span>"
 page_id: 18828
 namespace: 0
 revision_id: 263606
@@ -21,7 +20,7 @@ sort_keys:
   "The Return of the King (1980 film) cast": "Melendrez, Sonny"
 ---
 
-**Sonny Melendrez** (born [1946](/wiki/1946)) is an American actor and radio host who voiced the part of [Pippin](/wiki/Peregrin_Took "Peregrin Took") in [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)").
+**Sonny Melendrez** (born [1946](../_/1946.md)) is an American actor and radio host who voiced the part of [Pippin](../P/Peregrin_Took.md) in [*The Return of the King* (1980 film)](<../T/The_Return_of_the_King_(1980_film).md>).
 
 ## External links {#External_links}
 

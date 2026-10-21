@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Lebennin (Upper) map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Lebennin (Upper) map.jpg</span>"
 page_id: 67434
 namespace: 6
 revision_id: 391748

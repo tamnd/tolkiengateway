@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Thráin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Thráin.jpg</span>"
 page_id: 48588
 namespace: 6
 revision_id: 260010

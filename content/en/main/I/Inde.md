@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndo"
 ---
 
-Redirect to [-ndo](/wiki/-ndo).
+Redirect to [-ndo](../_/-ndo.md).

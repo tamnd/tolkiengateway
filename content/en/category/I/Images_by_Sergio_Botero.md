@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Sergio Botero"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Sergio Botero</span>"
 page_id: 68570
 namespace: 14
 revision_id: 407874
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Botero, Sergio"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a></b>.

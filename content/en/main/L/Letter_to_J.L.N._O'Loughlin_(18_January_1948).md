@@ -15,10 +15,10 @@ sort_keys:
   "Letters": "OLoughlin, J.L.N. (1948-01-18)"
 ---
 
-On [18 January](/wiki/18_January) [1948](/wiki/1948), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+On [18 January](../_/18_January.md) [1948](../_/1948.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
 - **Subject:** Tolkien sends his thanks to O'Loughlin for his parcel, and writes about the Oxford English School.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
-- **Publication:** A description of and quotation from the letter appeared in *[Paul C. Richards Autographs Catalogue 228](/wiki/Paul_C._Richards_Autographs_Catalogue_228)* and in *[The J.R.R. Tolkien Companion and Guide: Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")*.
+- **Publication:** A description of and quotation from the letter appeared in *[Paul C. Richards Autographs Catalogue 228](../P/Paul_C._Richards_Autographs_Catalogue_228.md)* and in *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## Excerpt {#Excerpt}
 
@@ -26,8 +26,8 @@ On [18 January](/wiki/18_January) [1948](/wiki/1948), [J.R.R. Tolkien](/wiki/J.R
 
 ## See also {#See_also}
 
-- [Letter to J.L.N. O'Loughlin (29 January 1943)](</wiki/Letter_to_J.L.N._O%27Loughlin_(29_January_1943)>)
-- [Letter to J.L.N. O'Loughlin (30 October 1965)](</wiki/Letter_to_J.L.N._O%27Loughlin_(30_October_1965)>)
+- [Letter to J.L.N. O'Loughlin (29 January 1943)](<Letter_to_J.L.N._O'Loughlin_(29_January_1943).md>)
+- [Letter to J.L.N. O'Loughlin (30 October 1965)](<Letter_to_J.L.N._O'Loughlin_(30_October_1965).md>)
 
 <span></span>
 
@@ -35,10 +35,10 @@ On [18 January](/wiki/18_January) [1948](/wiki/1948), [J.R.R. Tolkien](/wiki/J.R
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-CG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CG_1-0">1.0</a></sup> <sup><a href="#cite_ref-CG_1-1">1.1</a></sup> <sup><a href="#cite_ref-CG_1-2">1.2</a></sup></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 328</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 328</span>
 </li>
-<li id="cite_note-Marq-2"><span class="mw-cite-backlink"><a href="#cite_ref-Marq_2-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
+<li id="cite_note-Marq-2"><span class="mw-cite-backlink"><a href="#cite_ref-Marq_2-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="/wiki/Paul_C._Richards_Autographs_Catalogue_228" title="Paul C. Richards Autographs Catalogue 228">Paul C. Richards Autographs Catalogue 228</a></i>, item 210</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i><a href="../P/Paul_C._Richards_Autographs_Catalogue_228.md" title="Paul C. Richards Autographs Catalogue 228">Paul C. Richards Autographs Catalogue 228</a></i>, item 210</span>
 </li>
 </ol></div>

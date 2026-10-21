@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Círdan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Círdan.jpg</span>"
 page_id: 70757
 namespace: 6
 revision_id: 422671
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="new" href="/w/index.php?title=Ben_Daniels&amp;action=edit&amp;redlink=1" title="Ben Daniels (page does not exist)">Ben Daniels</a> as [Círdan](/wiki/C%C3%ADrdan) in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Ben_Daniels&amp;action=edit&amp;redlink=1" title="Ben Daniels (page does not exist)">Ben Daniels</a> as [Círdan](../../main/C/Círdan.md) in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*
 
 ## Licensing {#Licensing}
 

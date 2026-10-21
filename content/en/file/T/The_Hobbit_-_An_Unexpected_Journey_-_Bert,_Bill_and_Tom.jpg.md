@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Bert, Bill and Tom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Bert, Bill and Tom.jpg</span>"
 page_id: 42214
 namespace: 6
 revision_id: 387434

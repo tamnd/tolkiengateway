@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Young Eärendil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Young Eärendil.jpg</span>"
 page_id: 56303
 namespace: 6
 revision_id: 306418
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of a young [Eärendil](/wiki/E%C3%A4rendil), by Natalie Chen.
+Image of a young [Eärendil](../../main/E/Eärendil.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Image of a young [Eärendil](/wiki/E%C3%A4rendil), by Natalie Chen.
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

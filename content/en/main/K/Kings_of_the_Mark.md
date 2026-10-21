@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Rohan"
 ---
 
-Redirect to [King of Rohan](/wiki/King_of_Rohan).
+Redirect to [King of Rohan](King_of_Rohan.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Adlpictures"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Adlpictures</span>"
 page_id: 41538
 namespace: 4
 revision_id: 210850
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Adlpictures"
 ---
 
-- Adlpictures has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Adlpictures "Category:Images by Adlpictures") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Adlpictures has kindly granted his permission to use [his artwork](../../category/I/Images_by_Adlpictures.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 September 2012
-- User who sought the permission via DeviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via DeviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

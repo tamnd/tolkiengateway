@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alan Bliss"
 ---
 
-Redirect to [Alan Bliss](/wiki/Alan_Bliss).
+Redirect to [Alan Bliss](Alan_Bliss.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Annotated Hobbit"
 ---
 
-Redirect to [The Annotated Hobbit](/wiki/The_Annotated_Hobbit).
+Redirect to [The Annotated Hobbit](The_Annotated_Hobbit.md).

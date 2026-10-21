@@ -1,6 +1,5 @@
 ---
 title: "File:The History of Middle-earth cover 3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The History of Middle-earth cover 3.png</span>"
 page_id: 61760
 namespace: 6
 revision_id: 350811

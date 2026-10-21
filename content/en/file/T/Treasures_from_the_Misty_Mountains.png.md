@@ -1,6 +1,5 @@
 ---
 title: "File:Treasures from the Misty Mountains.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Treasures from the Misty Mountains.png</span>"
 page_id: 36334
 namespace: 6
 revision_id: 214762

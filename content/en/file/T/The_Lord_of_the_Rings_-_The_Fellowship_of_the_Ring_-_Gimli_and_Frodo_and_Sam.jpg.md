@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Gimli and Frodo and Sam.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Gimli and Frodo and Sam.jpg</span>"
 page_id: 64228
 namespace: 6
 revision_id: 367354
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*, [Lothlórien](</wiki/Lothl%C3%B3rien_(scene)> "Lothlórien (scene)").
+A still from the scene *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, [Lothlórien](<../../main/L/Lothlórien_(scene).md>).
 
 ## Licensing {#Licensing}
 

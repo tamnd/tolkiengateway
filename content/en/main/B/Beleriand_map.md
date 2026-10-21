@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleriand"
 ---
 
-Redirect to [Beleriand](/wiki/Beleriand).
+Redirect to [Beleriand](Beleriand.md).

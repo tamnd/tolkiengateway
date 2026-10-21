@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eädwine (son of Ælfwine)"
 ---
 
-Redirect to [Eädwine (son of Ælfwine)](/wiki/Eädwine_(son_of_Ælfwine)).
+Redirect to [Eädwine (son of Ælfwine)](<Eädwine_(son_of_Ælfwine).md>).

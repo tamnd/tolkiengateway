@@ -1,6 +1,5 @@
 ---
 title: "File:Santiago Villa - The East Bight.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Santiago Villa - The East Bight.png</span>"
 page_id: 34393
 namespace: 6
 revision_id: 433514
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[East Bight](/wiki/East_Bight) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)* illustration by <a class="new" href="/w/index.php?title=Santiago_Villa&amp;action=edit&amp;redlink=1" title="Santiago Villa (page does not exist)">Santiago Villa</a>
+[East Bight](../../main/E/East_Bight.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)* illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Santiago_Villa&amp;action=edit&amp;redlink=1" title="Santiago Villa (page does not exist)">Santiago Villa</a>
 
 ## Licensing {#Licensing}
 

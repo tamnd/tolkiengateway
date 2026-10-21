@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Collector Plate Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Collector Plate Calendar.jpg</span>"
 page_id: 6823
 namespace: 6
 revision_id: 215479

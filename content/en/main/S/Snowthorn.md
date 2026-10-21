@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aeglos (plant)"
 ---
 
-Redirect to [Aeglos (plant)](/wiki/Aeglos_(plant)).
+Redirect to [Aeglos (plant)](<../A/Aeglos_(plant).md>).

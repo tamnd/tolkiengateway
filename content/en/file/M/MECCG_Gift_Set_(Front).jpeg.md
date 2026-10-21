@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MECCG Gift Set (Front).jpg"
 ---
 
-Redirect to [File:MECCG Gift Set (Front).jpg](/wiki/File:MECCG_Gift_Set_(Front).jpg).
+Redirect to [File:MECCG Gift Set (Front).jpg](<MECCG_Gift_Set_(Front).jpg.md>).

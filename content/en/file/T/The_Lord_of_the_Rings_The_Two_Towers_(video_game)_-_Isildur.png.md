@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Two Towers (video game) - Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Two Towers (video game) - Isildur.png</span>"
 page_id: 71380
 namespace: 6
 revision_id: 425882
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) - [*The Lord of the Rings: The Two Towers* (video game)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)> "The Lord of the Rings: The Two Towers (video game)")
+[Isildur](../../main/I/Isildur.md) - [*The Lord of the Rings: The Two Towers* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>)
 
 ## Licensing {#Licensing}
 

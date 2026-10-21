@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Atanamir"
 ---
 
-Redirect to [Tar-Atanamir](/wiki/Tar-Atanamir).
+Redirect to [Tar-Atanamir](../T/Tar-Atanamir.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cat (disambiguation)"
 ---
 
-Redirect to [Cat (disambiguation)](/wiki/Cat_(disambiguation)).
+Redirect to [Cat (disambiguation)](<Cat_(disambiguation).md>).

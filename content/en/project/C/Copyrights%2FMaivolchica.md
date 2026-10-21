@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Maivolchica"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Maivolchica</span>"
 page_id: 58059
 namespace: 4
 revision_id: 322182
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Maivolchica"
 ---
 
-- Maivolchica has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Maivolchica "Category:Images by Maivolchica") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Maivolchica has kindly granted his permission to use [his artwork](../../category/I/Images_by_Maivolchica.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 September 2020
-- User who sought the permission: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

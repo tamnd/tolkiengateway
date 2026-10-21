@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor Dínen"
 ---
 
-Redirect to [Dor Dínen](/wiki/Dor_Dínen).
+Redirect to [Dor Dínen](Dor_Dínen.md).

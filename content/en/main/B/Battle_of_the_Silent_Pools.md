@@ -1,6 +1,5 @@
 ---
 title: "Battle of the Silent Pools"
-display_title: "<span class=\"mw-page-title-main\">Battle of the Silent Pools</span>"
 page_id: 60878
 namespace: 0
 revision_id: 351720
@@ -13,23 +12,23 @@ categories:
   - "Conflicts in The Book of Lost Tales"
 ---
 
-The **Battle of the Silent Pools** took place at [Umboth-muilin](/wiki/Aelin-uial "Aelin-uial") during the [great expedition](/wiki/War_of_Wrath#Other_versions_of_the_legendarium "War of Wrath") from [Valinor](/wiki/Valinor) to release the enslaved [Gnomes](/wiki/Gnomes) in the [Great Lands](/wiki/Great_Lands), according to some of the outlines belonging to the early version of the [legendarium](/wiki/Legendarium "Legendarium") in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*.<sup id="cite_ref-Tulk_1-0" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup> No full, detailed account of the battle is given, as it is only mentioned passingly in the *Lost Tales*, and in various outlines for their continuation.
+The **Battle of the Silent Pools** took place at [Umboth-muilin](../A/Aelin-uial.md) during the [great expedition](../W/War_of_Wrath.md#Other_versions_of_the_legendarium) from [Valinor](../V/Valinor.md) to release the enslaved [Gnomes](../G/Gnomes.md) in the [Great Lands](../G/Great_Lands.md), according to some of the outlines belonging to the early version of the [legendarium](../L/Legendarium.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Tulk_1-0" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup> No full, detailed account of the battle is given, as it is only mentioned passingly in the *Lost Tales*, and in various outlines for their continuation.
 
 What little is known about it is that:
 
-- It was fought between [Tulkas](/wiki/Tulkas) and [Melko](/wiki/Melko), in which Tulkas defeated the latter, and Melko was afterwards bound in [Lumbi](/wiki/Lumbi) and guarded by [Gorgumoth](/wiki/Gorgumoth) the hound of [Mandos](/wiki/Mandos).<sup id="cite_ref-Tulk_1-1" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
-- Afterwards, [Angamandi](/wiki/Angamandi) was broken, and the captive Gnomes were released.<sup id="cite_ref-Tulk_1-2" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
-- Following the end of that war is a war with many of the [Men](/wiki/Men) living in the Great Lands, as soon as the [Valar](/wiki/Valar) Tulkas and [Noldorin](/wiki/Salmar "Salmar") returned back to Valinor.<sup id="cite_ref-Tulk_1-3" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- It was fought between [Tulkas](../T/Tulkas.md) and [Melko](../M/Melko.md), in which Tulkas defeated the latter, and Melko was afterwards bound in [Lumbi](../L/Lumbi.md) and guarded by [Gorgumoth](../G/Gorgumoth.md) the hound of [Mandos](../M/Mandos.md).<sup id="cite_ref-Tulk_1-1" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- Afterwards, [Angamandi](../A/Angamandi.md) was broken, and the captive Gnomes were released.<sup id="cite_ref-Tulk_1-2" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
+- Following the end of that war is a war with many of the [Men](../M/Men.md) living in the Great Lands, as soon as the [Valar](../V/Valar.md) Tulkas and [Noldorin](../S/Salmar.md) returned back to Valinor.<sup id="cite_ref-Tulk_1-3" class="reference"><a href="#cite_note-Tulk-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Battle of Tasarinan](/wiki/Battle_of_Tasarinan)
+- [Battle of Tasarinan](Battle_of_Tasarinan.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Tulk-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Tulk_1-0">1.0</a></sup> <sup><a href="#cite_ref-Tulk_1-1">1.1</a></sup> <sup><a href="#cite_ref-Tulk_1-2">1.2</a></sup> <sup><a href="#cite_ref-Tulk_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_Two" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;VI. <a href="/wiki/The_History_of_Eriol_or_%C3%86lfwine_and_the_End_of_the_Tales" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine and the End of the Tales</a>&#34;, outline <b>1</b>, p. 278</span>
+<li id="cite_note-Tulk-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Tulk_1-0">1.0</a></sup> <sup><a href="#cite_ref-Tulk_1-1">1.1</a></sup> <sup><a href="#cite_ref-Tulk_1-2">1.2</a></sup> <sup><a href="#cite_ref-Tulk_1-3">1.3</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;VI. <a href="../T/The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine and the End of the Tales</a>&#34;, outline <b>1</b>, p. 278</span>
 </li>
 </ol></div>

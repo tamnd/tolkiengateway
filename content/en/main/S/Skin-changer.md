@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Skin-changers"
 ---
 
-Redirect to [Skin-changers](/wiki/Skin-changers).
+Redirect to [Skin-changers](Skin-changers.md).

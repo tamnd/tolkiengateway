@@ -16,9 +16,9 @@ sort_keys:
   "Letters": "Mroczkowski, Przemyslaw (1958)"
 ---
 
-In [1958](/wiki/1958), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[two letters](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to [Przemyslaw Mroczkowski](/wiki/Przemyslaw_Mroczkowski)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In [1958](../_/1958.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[two letters](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Publication:** A description of the letters was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_1_June_2009)*.
+- **Publication:** A description of the letters was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
 
 ## Contents {#Contents}
 
@@ -26,14 +26,14 @@ In [1958](/wiki/1958), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[two lette
 
 ## See also {#See_also}
 
-- [Letters to Przemyslaw Mroczkowski](/wiki/Category:Letters_to_Przemyslaw_Mroczkowski "Category:Letters to Przemyslaw Mroczkowski")
+- [Letters to Przemyslaw Mroczkowski](../../category/L/Letters_to_Przemyslaw_Mroczkowski.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2014</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2014</span></cite></span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?pos=7&amp;intObjectID=5210972&amp;sid=" rel="noreferrer noopener" target="_blank">Christies.com</a>, retrieved June 27, 2010</span>
 </li>

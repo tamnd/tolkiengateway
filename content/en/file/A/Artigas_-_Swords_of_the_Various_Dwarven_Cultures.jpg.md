@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Swords of the Various Dwarven Cultures.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Swords of the Various Dwarven Cultures.jpg</span>"
 page_id: 59761
 namespace: 6
 revision_id: 333683
@@ -29,9 +28,9 @@ file:
 
 "Weapons of the Various Dwarven Cultures", by Artigas.
 
-Notes by the author on the real world inspirations for the Seven Houses' swords:<br> "I - **[Longbeards](/wiki/Longbeards)**, similar culture to Anglo-Saxons <br> II - **[Stonefoots](/wiki/Stonefoots)**, similar culture to ancient Canaanites <br> III a - Northern **[Firebeards](/wiki/Firebeards)**, similar culture to British Celts <br> III b - Southern **[Firebeards](/wiki/Firebeards)**, similar culture to Continental Celts <br> IV - **[Broadbeams](/wiki/Broadbeams)**, similar culture to the Germanic tribes <br> V a - **[Ironfists](/wiki/Ironfists)** nobility’s “Sverð”. Similar culture to the ancient Norse. Made of meteoric steel (Star Iron). <br> V b - **[Ironfists](/wiki/Ironfists)** commoner's 'Langseax' <br> VI a - Northern **[Stiffbeards](/wiki/Stiffbeards)**, similar culture to the Inuit. Handle carved from mammoth's ivory <br> VI b - Southern **[Stiffbeards](/wiki/Stiffbeards)**, similar culture to Mongols and Himalayan peoples <br> VII - **[Blacklocks](/wiki/Blacklocks)**, similar culture to Akkadians, Sumerians, Assyrians and Babylonians"
+Notes by the author on the real world inspirations for the Seven Houses' swords:<br> "I - **[Longbeards](../../main/L/Longbeards.md)**, similar culture to Anglo-Saxons <br> II - **[Stonefoots](../../main/S/Stonefoots.md)**, similar culture to ancient Canaanites <br> III a - Northern **[Firebeards](../../main/F/Firebeards.md)**, similar culture to British Celts <br> III b - Southern **[Firebeards](../../main/F/Firebeards.md)**, similar culture to Continental Celts <br> IV - **[Broadbeams](../../main/B/Broadbeams.md)**, similar culture to the Germanic tribes <br> V a - **[Ironfists](../../main/I/Ironfists.md)** nobility’s “Sverð”. Similar culture to the ancient Norse. Made of meteoric steel (Star Iron). <br> V b - **[Ironfists](../../main/I/Ironfists.md)** commoner's 'Langseax' <br> VI a - Northern **[Stiffbeards](../../main/S/Stiffbeards.md)**, similar culture to the Inuit. Handle carved from mammoth's ivory <br> VI b - Southern **[Stiffbeards](../../main/S/Stiffbeards.md)**, similar culture to Mongols and Himalayan peoples <br> VII - **[Blacklocks](../../main/B/Blacklocks.md)**, similar culture to Akkadians, Sumerians, Assyrians and Babylonians"
 
-See also *[The Seven Houses of the Khazad](/wiki/File:Artigas_-_The_Seven_Houses_of_the_Khazad.jpg "File:Artigas - The Seven Houses of the Khazad.jpg")* and *[Dwarven Axes](/wiki/File:Artigas_-_Dwarven_Axes.jpg "File:Artigas - Dwarven Axes.jpg")* by the same author, for depictions of the Seven Houses of the Dwarves and dwarven one-handed axes.
+See also *[The Seven Houses of the Khazad](Artigas_-_The_Seven_Houses_of_the_Khazad.jpg.md)* and *[Dwarven Axes](Artigas_-_Dwarven_Axes.jpg.md)* by the same author, for depictions of the Seven Houses of the Dwarves and dwarven one-handed axes.
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ See also *[The Seven Houses of the Khazad](/wiki/File:Artigas_-_The_Seven_Houses
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phantoms"
 ---
 
-Redirect to [Phantoms](/wiki/Phantoms).
+Redirect to [Phantoms](Phantoms.md).

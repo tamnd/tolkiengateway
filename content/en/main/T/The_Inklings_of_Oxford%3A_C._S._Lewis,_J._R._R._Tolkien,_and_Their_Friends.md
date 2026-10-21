@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Inklings of Oxford"
 ---
 
-Redirect to [The Inklings of Oxford](/wiki/The_Inklings_of_Oxford).
+Redirect to [The Inklings of Oxford](The_Inklings_of_Oxford.md).

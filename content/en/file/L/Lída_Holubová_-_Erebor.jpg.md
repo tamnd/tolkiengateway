@@ -1,6 +1,5 @@
 ---
 title: "File:Lída Holubová - Erebor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lída Holubová - Erebor.jpg</span>"
 page_id: 56186
 namespace: 6
 revision_id: 389051
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lída Holubová</li>
 <li><b>Website:</b> <a class="external text" href="https://aegeri.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="https://www.instagram.com/gnome.the.artist/" rel="noreferrer noopener" target="_blank">Instagram</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C3%ADda_Holubov%C3%A1" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLída_Holubová.md" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

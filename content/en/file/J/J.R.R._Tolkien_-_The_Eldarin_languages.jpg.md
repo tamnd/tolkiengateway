@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Eldarin languages.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Eldarin languages.jpg</span>"
 page_id: 66033
 namespace: 6
 revision_id: 380727
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Tengwar and runes by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), included in *[The Art of The Lord of the Rings](/wiki/The_Art_of_The_Lord_of_the_Rings)* ([2015](/wiki/2015)), #189, p. 236.
+Tengwar and runes by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), included in *[The Art of The Lord of the Rings](../../main/T/The_Art_of_The_Lord_of_the_Rings.md)* ([2015](../../main/_/2015.md)), #189, p. 236.
 
 ## Licensing {#Licensing}
 

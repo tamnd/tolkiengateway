@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Midway Games"
 ---
 
-Redirect to [Midway Games](/wiki/Midway_Games).
+Redirect to [Midway Games](../M/Midway_Games.md).

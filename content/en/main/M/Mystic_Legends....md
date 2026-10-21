@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Mystic Legends...</b></i> is a demo of [Cirith Gorgor](</wiki/Cirith_Gorgor_(band)> "Cirith Gorgor (band)") released in [1997](/wiki/1997). It was produced by Cirith Gorgor and E. Hermsen and recorded at BBA.
+<i><b>Mystic Legends...</b></i> is a demo of [Cirith Gorgor](<../C/Cirith_Gorgor_(band).md>) released in [1997](../_/1997.md). It was produced by Cirith Gorgor and E. Hermsen and recorded at BBA.
 
 ## Track listing {#Track_listing}
 

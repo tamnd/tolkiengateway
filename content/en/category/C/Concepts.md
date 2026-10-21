@@ -1,6 +1,5 @@
 ---
 title: "Category:Concepts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Concepts</span>"
 page_id: 13127
 namespace: 14
 revision_id: 335455
@@ -13,4 +12,4 @@ categories:
   - "Eä"
 ---
 
-This category contains a list of articles that discuss metaphysical and ontological matters mentioned in the *[legendarium](/wiki/Legendarium "Legendarium")*.
+This category contains a list of articles that discuss metaphysical and ontological matters mentioned in the *[legendarium](../../main/L/Legendarium.md)*.

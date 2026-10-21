@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengar Took"
 ---
 
-Redirect to [Isengar Took](/wiki/Isengar_Took).
+Redirect to [Isengar Took](Isengar_Took.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Characters in The Lord of the Rings"
 ---
 
-Redirect to [Category:Characters in The Lord of the Rings](/wiki/Category:Characters_in_The_Lord_of_the_Rings).
+Redirect to [Category:Characters in The Lord of the Rings](../C/Characters_in_The_Lord_of_the_Rings.md).

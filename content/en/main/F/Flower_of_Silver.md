@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moon"
 ---
 
-Redirect to [Moon](/wiki/Moon).
+Redirect to [Moon](../M/Moon.md).

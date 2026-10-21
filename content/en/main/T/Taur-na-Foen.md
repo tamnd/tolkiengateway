@@ -11,4 +11,4 @@ redirect_target: "Dorthonion"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Dorthonion](/wiki/Dorthonion#Etymology).
+Redirect to [Dorthonion](../D/Dorthonion.md#Etymology).

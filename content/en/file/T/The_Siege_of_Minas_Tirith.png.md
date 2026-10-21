@@ -1,6 +1,5 @@
 ---
 title: "File:The Siege of Minas Tirith.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Siege of Minas Tirith.png</span>"
 page_id: 37644
 namespace: 6
 revision_id: 199456

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Dweller"
 ---
 
-Redirect to [The Dweller](/wiki/The_Dweller).
+Redirect to [The Dweller](The_Dweller.md).

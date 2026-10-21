@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Mathoms.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Mathoms.jpg</span>"
 page_id: 70414
 namespace: 6
 revision_id: 419404

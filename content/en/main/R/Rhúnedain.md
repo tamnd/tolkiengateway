@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Easterlings"
 ---
 
-Redirect to [Easterlings](/wiki/Easterlings).
+Redirect to [Easterlings](../E/Easterlings.md).

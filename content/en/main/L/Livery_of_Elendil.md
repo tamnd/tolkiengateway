@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Livery of the heirs of Elendil"
 ---
 
-Redirect to [Livery of the heirs of Elendil](/wiki/Livery_of_the_heirs_of_Elendil).
+Redirect to [Livery of the heirs of Elendil](Livery_of_the_heirs_of_Elendil.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Damrod"
 ---
 
-Redirect to [Damrod](/wiki/Damrod).
+Redirect to [Damrod](Damrod.md).

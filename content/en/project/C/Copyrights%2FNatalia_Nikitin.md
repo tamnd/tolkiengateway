@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Natalia Nikitin"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Natalia Nikitin</span>"
 page_id: 38559
 namespace: 4
 revision_id: 193171
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nikitin, Natalia"
 ---
 
-- Natalia Nikitin has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Natalia_Nikitin "Category:Images by Natalia Nikitin") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Natalia Nikitin has kindly granted her permission to use [her artwork](../../category/I/Images_by_Natalia_Nikitin.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

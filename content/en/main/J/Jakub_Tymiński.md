@@ -1,6 +1,5 @@
 ---
 title: "Jakub Tymiński"
-display_title: "<span class=\"mw-page-title-main\">Jakub Tymiński</span>"
 page_id: 53146
 namespace: 0
 revision_id: 406023
@@ -21,27 +20,27 @@ sort_keys:
   "People by name": "Tyminski, Jakub"
 ---
 
-**Jakub Tymiński 'Ominous'** is the editor of The Polish Tolkienists Almanac *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")*. He was an associate from [2013](/wiki/2013) and has been the editorial secretary since [September](/wiki/September) [2014](/wiki/2014).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has also contributed articles and artworks to the journal.
+**Jakub Tymiński 'Ominous'** is the editor of The Polish Tolkienists Almanac *[Aiglos](<../A/Aiglos_(journal).md>)*. He was an associate from [2013](../_/2013.md) and has been the editorial secretary since [September](../S/September.md) [2014](../_/2014.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has also contributed articles and artworks to the journal.
 
 ## Bibliography {#Bibliography}
 
 ### Articles {#Articles}
 
-- [2015](/wiki/2015): *[Aiglos 20](/wiki/Aiglos_20)*
+- [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
     - "The Necromancer’s necromancy. Black magic, possession and zombie"
-- [2016](/wiki/2016): *[Aiglos 21](/wiki/Aiglos_21)*
+- [2016](../_/2016.md): *[Aiglos 21](../A/Aiglos_21.md)*
     - *Palantír* (fan fiction)
 
 ### Reviews and interviews {#Reviews_and_interviews}
 
-- [2015](/wiki/2015): *[Aiglos 20](/wiki/Aiglos_20)*
-    - *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)* review
-- [2016](/wiki/2016): *[Aiglos 21](/wiki/Aiglos_21)*
-    - An interview with [Agnieszka Sylwanowicz 'Evermind HS Took'](/wiki/Agnieszka_Sylwanowicz "Agnieszka Sylwanowicz")
+- [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
+    - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* review
+- [2016](../_/2016.md): *[Aiglos 21](../A/Aiglos_21.md)*
+    - An interview with [Agnieszka Sylwanowicz 'Evermind HS Took'](../A/Agnieszka_Sylwanowicz.md)
 
 ## See also {#See_also}
 
-- [Category: Images by Jakub Tymiński](/wiki/Category:Images_by_Jakub_Tymi%C5%84ski "Category:Images by Jakub Tymiński")
+- [Category: Images by Jakub Tymiński](../../category/I/Images_by_Jakub_Tymiński.md)
 
 ## External links {#External_links}
 

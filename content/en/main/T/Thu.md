@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thû"
 ---
 
-Redirect to [Thû](/wiki/Thû).
+Redirect to [Thû](Thû.md).

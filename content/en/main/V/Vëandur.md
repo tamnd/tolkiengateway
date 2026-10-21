@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ciryon"
 ---
 
-Redirect to [Ciryon](/wiki/Ciryon).
+Redirect to [Ciryon](../C/Ciryon.md).

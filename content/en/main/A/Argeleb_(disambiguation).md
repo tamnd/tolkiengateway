@@ -1,6 +1,5 @@
 ---
 title: "Argeleb (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Argeleb (disambiguation)</span>"
 page_id: 17470
 namespace: 0
 revision_id: 212789
@@ -25,16 +24,16 @@ images:
   - "Disambig.png"
 ---
 
-**Argeleb** is [Sindarin](/wiki/Sindarin) for "Silver King" (from *[ar](/wiki/Ar "Ar")*, "royal", and *[celeb](/wiki/Celeb "Celeb")*, "silver") and can refer to:
+**Argeleb** is [Sindarin](../S/Sindarin.md) for "Silver King" (from *[ar](Ar.md)*, "royal", and *[celeb](../C/Celeb.md)*, "silver") and can refer to:
 
-- [Argeleb I](/wiki/Argeleb_I) ([T.A.](/wiki/Third_Age "Third Age") [1226](/wiki/Third_Age_1226 "Third Age 1226") - [1356](/wiki/Third_Age_1356 "Third Age 1356")), seventh [King](/wiki/Kings_of_Arthedain "Kings of Arthedain") of [Arthedain](/wiki/Arthedain).
-- [Argeleb II](/wiki/Argeleb_II) ([T.A.](/wiki/Third_Age "Third Age") [1473](/wiki/Third_Age_1473 "Third Age 1473") - [1670](/wiki/Third_Age_1670 "Third Age 1670")), tenth [King](/wiki/Kings_of_Arthedain "Kings of Arthedain") of [Arthedain](/wiki/Arthedain).
+- [Argeleb I](Argeleb_I.md) ([T.A.](../T/Third_Age.md) [1226](../T/Third_Age_1226.md) - [1356](../T/Third_Age_1356.md)), seventh [King](../K/Kings_of_Arthedain.md) of [Arthedain](Arthedain.md).
+- [Argeleb II](Argeleb_II.md) ([T.A.](../T/Third_Age.md) [1473](../T/Third_Age_1473.md) - [1670](../T/Third_Age_1670.md)), tenth [King](../K/Kings_of_Arthedain.md) of [Arthedain](Arthedain.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Argeleb_(disambiguation)" title="Special:WhatLinksHere/:Argeleb (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Argeleb_(disambiguation)" title="Special:WhatLinksHere/:Argeleb (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

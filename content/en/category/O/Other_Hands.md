@@ -1,6 +1,5 @@
 ---
 title: "Category:Other Hands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Other Hands</span>"
 page_id: 41588
 namespace: 14
 revision_id: 211089

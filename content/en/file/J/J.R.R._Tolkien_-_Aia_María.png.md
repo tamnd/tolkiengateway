@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Aia María.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Aia María.png</span>"
 page_id: 56190
 namespace: 6
 revision_id: 344063
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cropped image of Tolkien's manuscript of *[Aia María IV](/wiki/Aia_Mar%C3%ADa "Aia María")*, a [Quenya](/wiki/Quenya) translation of the Ave María, published in [*Vinyar Tengwar*, Number 43](/wiki/Vinyar_Tengwar_43 "Vinyar Tengwar 43"), p. 4, edited by [Patrick H. Wynne](/wiki/Patrick_H._Wynne), [Arden R. Smith](/wiki/Arden_R._Smith) and [Carl F. Hostetter](/wiki/Carl_F._Hostetter).
+Cropped image of Tolkien's manuscript of *[Aia María IV](../../main/A/Aia_María.md)*, a [Quenya](../../main/Q/Quenya.md) translation of the Ave María, published in [*Vinyar Tengwar*, Number 43](../../main/V/Vinyar_Tengwar_43.md), p. 4, edited by [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md) and [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md).
 
 ## Licensing {#Licensing}
 

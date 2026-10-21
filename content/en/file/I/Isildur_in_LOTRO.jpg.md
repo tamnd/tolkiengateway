@@ -1,6 +1,5 @@
 ---
 title: "File:Isildur in LOTRO.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Isildur in LOTRO.jpg</span>"
 page_id: 32241
 namespace: 6
 revision_id: 169599

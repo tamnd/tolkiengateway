@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingoldo"
 ---
 
-Redirect to [Ingoldo](/wiki/Ingoldo).
+Redirect to [Ingoldo](../I/Ingoldo.md).

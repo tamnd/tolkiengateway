@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Šárka Škorpíková"
 ---
 
-Redirect to [Šárka Škorpíková](/wiki/Šárka_Škorpíková).
+Redirect to [Šárka Škorpíková](../_/Šárka_Škorpíková.md).

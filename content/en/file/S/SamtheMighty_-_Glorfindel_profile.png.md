@@ -1,6 +1,5 @@
 ---
 title: "File:SamtheMighty - Glorfindel profile.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SamtheMighty - Glorfindel profile.png</span>"
 page_id: 63464
 namespace: 6
 revision_id: 363986

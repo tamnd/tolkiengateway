@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "SCi Games Ltd."
 ---
 
-Redirect to [SCi Games Ltd.](/wiki/SCi_Games_Ltd.).
+Redirect to [SCi Games Ltd.](SCi_Games_Ltd..md).

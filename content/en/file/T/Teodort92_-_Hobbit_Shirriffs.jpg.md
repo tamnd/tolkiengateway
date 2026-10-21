@@ -1,6 +1,5 @@
 ---
 title: "File:Teodort92 - Hobbit Shirriffs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Teodort92 - Hobbit Shirriffs.jpg</span>"
 page_id: 60035
 namespace: 6
 revision_id: 381886
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Teodort92</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/teodort92" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/teodort92</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Teodort92" title="Tolkien Gateway:Copyrights/Teodort92">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTeodort92.md" title="Tolkien Gateway:Copyrights/Teodort92">Permission for use on Tolkien Gateway</a></b></li></ul></div>

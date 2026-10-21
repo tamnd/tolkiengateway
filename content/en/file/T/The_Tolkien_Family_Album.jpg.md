@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Family Album.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Family Album.jpg</span>"
 page_id: 26057
 namespace: 6
 revision_id: 214445

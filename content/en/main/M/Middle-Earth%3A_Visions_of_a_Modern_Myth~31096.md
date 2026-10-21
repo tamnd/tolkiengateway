@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Visions of a Modern Myth"
 ---
 
-Redirect to [Middle-earth: Visions of a Modern Myth](/wiki/Middle-earth:_Visions_of_a_Modern_Myth).
+Redirect to [Middle-earth: Visions of a Modern Myth](Middle-earth%253A_Visions_of_a_Modern_Myth.md).

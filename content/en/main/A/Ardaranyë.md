@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ardaranye"
 ---
 
-Redirect to [Ardaranye](/wiki/Ardaranye).
+Redirect to [Ardaranye](Ardaranye.md).

@@ -1,6 +1,5 @@
 ---
 title: "Jeremy Bennett"
-display_title: "<span class=\"mw-page-title-main\">Jeremy Bennett</span>"
 page_id: 12339
 namespace: 0
 revision_id: 221543
@@ -21,15 +20,15 @@ sort_keys:
   "People by name": "Bennett, Jeremy"
 ---
 
-**Jeremy Bennett** was the art director on [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") and created numerous illustrations for the films.
+**Jeremy Bennett** was the art director on [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>) and created numerous illustrations for the films.
 
 ## Awards {#Awards}
 
-- [2003](/wiki/2003) - <b><a class="external text" href="http://www.vesawards.com/" rel="noreferrer noopener" target="_blank">VES Award</a></b>, Best Effects Art Direction in a Motion Picture, *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+- [2003](../_/2003.md) - <b><a class="external text" href="http://www.vesawards.com/" rel="noreferrer noopener" target="_blank">VES Award</a></b>, Best Effects Art Direction in a Motion Picture, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## See also {#See_also}
 
-- [Images by Jeremy Bennett](/wiki/Category:Images_by_Jeremy_Bennett "Category:Images by Jeremy Bennett")
+- [Images by Jeremy Bennett](../../category/I/Images_by_Jeremy_Bennett.md)
 
 ## External links {#External_links}
 

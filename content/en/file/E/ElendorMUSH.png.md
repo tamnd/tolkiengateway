@@ -1,6 +1,5 @@
 ---
 title: "File:ElendorMUSH.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">ElendorMUSH.png</span>"
 page_id: 74853
 namespace: 6
 revision_id: 440502
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">ElendorMUSH.png</span></th>
 <td class="description">
-<p>Screenshot of the titlescreen of <a href="/wiki/Elendor" title="Elendor">Elendor</a>
+<p>Screenshot of the titlescreen of <a href="../../main/E/Elendor.md" title="Elendor">Elendor</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Screenshot taken through <a class="external text" href="https://grapevine.haus/games/elendor/play" rel="noreferrer noopener" target="_blank">Grapevine</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

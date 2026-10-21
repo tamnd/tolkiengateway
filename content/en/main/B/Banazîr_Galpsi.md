@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Samwise Gamgee"
 ---
 
-Redirect to [Samwise Gamgee](/wiki/Samwise_Gamgee).
+Redirect to [Samwise Gamgee](../S/Samwise_Gamgee.md).

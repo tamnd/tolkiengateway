@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Literature, History and Illustrated Books 10 July 2001.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Literature, History and Illustrated Books 10 July 2001.png</span>"
 page_id: 37703
 namespace: 6
 revision_id: 215431

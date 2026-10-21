@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Rûdh"
 ---
 
-Redirect to [Amon Rûdh](/wiki/Amon_Rûdh).
+Redirect to [Amon Rûdh](../A/Amon_Rûdh.md).

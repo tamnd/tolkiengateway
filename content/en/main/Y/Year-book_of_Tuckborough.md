@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yellowskin"
 ---
 
-Redirect to [Yellowskin](/wiki/Yellowskin).
+Redirect to [Yellowskin](Yellowskin.md).

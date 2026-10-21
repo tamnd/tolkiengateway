@@ -1,6 +1,5 @@
 ---
 title: "Virgin Games"
-display_title: "<span class=\"mw-page-title-main\">Virgin Games</span>"
 page_id: 27616
 namespace: 0
 revision_id: 190152
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Virgin Games**, or *Virgin Interactive*, it was part of the organisation <a class="extiw" href="http://en.wikipedia.org/wiki/Virgin_Group" title="wikipedia:Virgin Group">Virgin Group</a>. It produced [War in Middle Earth](/wiki/War_in_Middle_Earth), under the [Melbourne House](/wiki/Melbourne_House) label.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Virgin Games**, or *Virgin Interactive*, it was part of the organisation <a class="extiw" href="http://en.wikipedia.org/wiki/Virgin_Group" title="wikipedia:Virgin Group">Virgin Group</a>. It produced [War in Middle Earth](../W/War_in_Middle_Earth.md), under the [Melbourne House](../M/Melbourne_House.md) label.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

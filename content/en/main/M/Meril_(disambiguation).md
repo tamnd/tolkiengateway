@@ -1,6 +1,5 @@
 ---
 title: "Meril (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Meril (disambiguation)</span>"
 page_id: 45508
 namespace: 0
 revision_id: 419102
@@ -17,16 +16,16 @@ images:
 
 **Meril** can refer to:
 
-- <b><a class="mw-redirect mw-disambig" href="/wiki/Meril" title="Meril">meril</a></b>, the [Sindarin](/wiki/Sindarin) word for the flower **[rose](/wiki/Roses#Names "Roses")**
-    - the translation of [**Rose** (Gamgee)](/wiki/Rose_Cotton#Etymology "Rose Cotton") in the [King's Letter](/wiki/King%27s_Letter)
-- **[Meril](</wiki/Meril_(mother_of_Gil-galad)> "Meril (mother of Gil-galad)")**, the name of the mother of [Gil-galad](/wiki/Gil-galad) in one version of the [legendarium](/wiki/Legendarium "Legendarium")
-- **[Meril-i-Turinqi](/wiki/Meril-i-Turinqi)**, the Lady of [Tol Eressëa](/wiki/Tol_Eress%C3%ABa) in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*
+- <b><a class="mw-redirect mw-disambig" href="Meril.md" title="Meril">meril</a></b>, the [Sindarin](../S/Sindarin.md) word for the flower **[rose](../R/Roses.md#Names)**
+    - the translation of [**Rose** (Gamgee)](../R/Rose_Cotton.md#Etymology) in the [King's Letter](../K/King's_Letter.md)
+- **[Meril](<Meril_(mother_of_Gil-galad).md>)**, the name of the mother of [Gil-galad](../G/Gil-galad.md) in one version of the [legendarium](../L/Legendarium.md)
+- **[Meril-i-Turinqi](Meril-i-Turinqi.md)**, the Lady of [Tol Eressëa](../T/Tol_Eressëa.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Meril_(disambiguation)" title="Special:WhatLinksHere/:Meril (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Meril_(disambiguation)" title="Special:WhatLinksHere/:Meril (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

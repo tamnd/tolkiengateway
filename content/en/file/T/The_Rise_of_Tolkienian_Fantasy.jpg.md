@@ -1,6 +1,5 @@
 ---
 title: "File:The Rise of Tolkienian Fantasy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rise of Tolkienian Fantasy.jpg</span>"
 page_id: 5290
 namespace: 6
 revision_id: 214695

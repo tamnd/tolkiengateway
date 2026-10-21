@@ -1,6 +1,5 @@
 ---
 title: "Captains of the West"
-display_title: "<span class=\"mw-page-title-main\">Captains of the West</span>"
 page_id: 1673
 namespace: 0
 revision_id: 405030
@@ -24,19 +23,19 @@ langlinks:
     url: "https://kontu.wiki/L%C3%A4nnen_P%C3%A4%C3%A4llik%C3%B6t"
 ---
 
-The **Captains of the West** were nobles of [Gondor](/wiki/Gondor) and other allied forces that participated to the latter stages of the [War of the Ring](/wiki/War_of_the_Ring), namely leading the [Army of the West](/wiki/Army_of_the_West).
+The **Captains of the West** were nobles of [Gondor](../G/Gondor.md) and other allied forces that participated to the latter stages of the [War of the Ring](../W/War_of_the_Ring.md), namely leading the [Army of the West](../A/Army_of_the_West.md).
 
-These were [Gandalf](/wiki/Gandalf), [Aragorn](/wiki/Aragorn), [Éomer](/wiki/%C3%89omer), [Imrahil](/wiki/Imrahil) and other lords,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> perhaps including [Elladan](/wiki/Elladan) and [Elrohir](/wiki/Elrohir),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and they led the allied Army against the [gates](/wiki/Morannon "Morannon") of [Mordor](/wiki/Mordor) and the ensuing [Battle of the Morannon](/wiki/Battle_of_the_Morannon).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+These were [Gandalf](../G/Gandalf.md), [Aragorn](../A/Aragorn.md), [Éomer](../_/Éomer.md), [Imrahil](../I/Imrahil.md) and other lords,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> perhaps including [Elladan](../E/Elladan.md) and [Elrohir](../E/Elrohir.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and they led the allied Army against the [gates](../M/Morannon.md) of [Mordor](../M/Mordor.md) and the ensuing [Battle of the Morannon](../B/Battle_of_the_Morannon.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Last_Debate" title="The Last Debate">The Last Debate</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Last_Debate.md" title="The Last Debate">The Last Debate</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Robert_Foster" title="Robert Foster">Robert Foster</a>, <i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, p. 62</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, p. 62</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Black_Gate_Opens" title="The Black Gate Opens">The Black Gate Opens</a>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Black_Gate_Opens.md" title="The Black Gate Opens">The Black Gate Opens</a>&#34;</span>
 </li>
 </ol></div>

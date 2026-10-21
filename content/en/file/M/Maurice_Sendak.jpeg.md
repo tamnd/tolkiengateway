@@ -1,6 +1,5 @@
 ---
 title: "File:Maurice Sendak.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maurice Sendak.jpeg</span>"
 page_id: 75214
 namespace: 6
 revision_id: 442783
@@ -30,16 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Maurice Sendak.jpeg</span></th>
 <td class="description">
-<p>Photograph of <a href="/wiki/Maurice_Sendak" title="Maurice Sendak">Maurice Sendak</a>
+<p>Photograph of <a href="../../main/M/Maurice_Sendak.md" title="Maurice Sendak">Maurice Sendak</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1966" title="1966">1966</a></td>
+<td><a href="../../main/_/1966.md" title="1966">1966</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="extiw" href="http://en.wikipedia.org/wiki/Sam_Falk" title="wikipedia:Sam Falk">Sam Falk</a></td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.newyorker.com/magazine/1966/01/22/among-the-wild-things" rel="noreferrer noopener" target="_blank">https://www.newyorker.com/magazine/1966/01/22/among-the-wild-things</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

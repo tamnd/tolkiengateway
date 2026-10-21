@@ -16,11 +16,11 @@ images:
   - "A_Guide_to_Middle-Earth_2003_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_Guide_to_Middle-Earth_2003_Calendar.jpg"><img src="/w/images/6/6b/A_Guide_to_Middle-Earth_2003_Calendar.jpg" decoding="async" loading="lazy" width="213" height="216" class="mw-file-element" data-file-width="213" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Guide_to_Middle-Earth_2003_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6b/A_Guide_to_Middle-Earth_2003_Calendar.jpg" decoding="async" loading="lazy" width="213" height="216" class="mw-file-element" data-file-width="213" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-<i><b>A Guide to Middle-Earth 2003 Calendar</b></i> was published by Andrews McMeel Publishing and coincides with the book by [Robert Foster](/wiki/Robert_Foster). The calendar includes details ranging from [Frodo Baggins](/wiki/Frodo_Baggins)'s personality and genealogy to [Sauron](/wiki/Sauron)'s creation of the Ring.
+<i><b>A Guide to Middle-Earth 2003 Calendar</b></i> was published by Andrews McMeel Publishing and coincides with the book by [Robert Foster](../R/Robert_Foster.md). The calendar includes details ranging from [Frodo Baggins](../F/Frodo_Baggins.md)'s personality and genealogy to [Sauron](../S/Sauron.md)'s creation of the Ring.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0740723944">ISBN 0-7407-2394-4</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0740723944">ISBN 0-7407-2394-4</a>
 - 5⅜ x 5⅜ inches
 - Shrink-wrapped
 - Box

@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalf the Grey polystone statue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalf the Grey polystone statue.jpg</span>"
 page_id: 5400
 namespace: 6
 revision_id: 191441
@@ -24,7 +23,7 @@ file:
   user: "Hyarion"
 ---
 
-[Gandalf the Grey polystone statue](/wiki/Gandalf_the_Grey_polystone_statue) produced by [Sideshow Collectibles](/wiki/Sideshow_Collectibles).
+[Gandalf the Grey polystone statue](../../main/G/Gandalf_the_Grey_polystone_statue.md) produced by [Sideshow Collectibles](../../main/S/Sideshow_Collectibles.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.sideshowtoy.com/" rel="noreferrer noopener" target="_blank">Sideshow Collectibles</a>. It is believed that the limited use of this file,

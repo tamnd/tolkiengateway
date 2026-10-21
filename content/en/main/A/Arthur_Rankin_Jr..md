@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthur Rankin, Jr."
 ---
 
-Redirect to [Arthur Rankin, Jr.](/wiki/Arthur_Rankin,_Jr.).
+Redirect to [Arthur Rankin, Jr.](Arthur_Rankin,_Jr..md).

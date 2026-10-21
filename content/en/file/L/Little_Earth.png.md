@@ -1,6 +1,5 @@
 ---
 title: "File:Little Earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Little Earth.png</span>"
 page_id: 31861
 namespace: 6
 revision_id: 248499
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Created by [Mith](/wiki/User:Mith "User:Mith"), derived from <a class="extiw" href="http://en.wikipedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg" title="wikipedia:File:The Earth seen from Apollo 17.jpg">wikipedia:File:The_Earth_seen_from_Apollo_17.jpg</a>.
+Created by [Mith](https://tolkiengateway.net/wiki/User:Mith), derived from <a class="extiw" href="http://en.wikipedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg" title="wikipedia:File:The Earth seen from Apollo 17.jpg">wikipedia:File:The_Earth_seen_from_Apollo_17.jpg</a>.
 
 ## Licensing {#Licensing}
 

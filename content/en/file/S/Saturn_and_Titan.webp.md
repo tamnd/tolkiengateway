@@ -1,6 +1,5 @@
 ---
 title: "File:Saturn and Titan.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Saturn and Titan.webp</span>"
 page_id: 66608
 namespace: 6
 revision_id: 385429

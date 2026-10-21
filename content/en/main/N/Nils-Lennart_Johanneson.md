@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nils-Lennart Johannesson"
 ---
 
-Redirect to [Nils-Lennart Johannesson](/wiki/Nils-Lennart_Johannesson).
+Redirect to [Nils-Lennart Johannesson](Nils-Lennart_Johannesson.md).

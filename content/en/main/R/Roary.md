@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ori"
 ---
 
-Redirect to [Ori](/wiki/Ori).
+Redirect to [Ori](../O/Ori.md).

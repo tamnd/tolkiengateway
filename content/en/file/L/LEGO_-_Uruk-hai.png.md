@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Uruk-hai.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Uruk-hai.png</span>"
 page_id: 73085
 namespace: 6
 revision_id: 432625
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An [Uruk](/wiki/Uruk-hai "Uruk-hai") - [LEGO](/wiki/Lego "Lego") minifigure
+An [Uruk](../../main/U/Uruk-hai.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "1957 \"Carnival of Books\" Interview"
-display_title: "<span class=\"mw-page-title-main\">1957 &quot;Carnival of Books&quot; Interview</span>"
 page_id: 25987
 namespace: 0
 revision_id: 300332
@@ -13,7 +12,7 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1957 "Carnival of Books" Interview** is a [recorded interview](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien "Index:Audio recordings of J.R.R. Tolkien") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on [January 15](/wiki/15_January "15 January"), [1957](/wiki/1957), for the <a class="extiw" href="http://en.wikipedia.org/wiki/NBC" title="wikipedia:NBC">NBC</a> radio show "Carnival of Books", hosted by Ruth Harshaw. An extract was published in *[The Annotated Hobbit: Revised and Expanded Edition](/wiki/The_Annotated_Hobbit:_Revised_and_Expanded_Edition)* on page 210; in it, Tolkien mentions why he used [spiders](/wiki/Spiders "Spiders") in *[The Hobbit](/wiki/The_Hobbit)*.
+**1957 "Carnival of Books" Interview** is a [recorded interview](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) on [January 15](15_January.md), [1957](1957.md), for the <a class="extiw" href="http://en.wikipedia.org/wiki/NBC" title="wikipedia:NBC">NBC</a> radio show "Carnival of Books", hosted by Ruth Harshaw. An extract was published in *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)* on page 210; in it, Tolkien mentions why he used [spiders](../S/Spiders.md) in *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## Extract {#Extract}
 

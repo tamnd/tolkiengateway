@@ -1,6 +1,5 @@
 ---
 title: "File:MEQ - Treason at Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MEQ - Treason at Helm&#039;s Deep.jpg</span>"
 page_id: 31081
 namespace: 6
 revision_id: 214536

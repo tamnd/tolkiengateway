@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Cortney Skinner - Well-preserved.jpg"
 ---
 
-Redirect to [File:Cortney Skinner - Well-preserved.jpg](/wiki/File:Cortney_Skinner_-_Well-preserved.jpg).
+Redirect to [File:Cortney Skinner - Well-preserved.jpg](Cortney_Skinner_-_Well-preserved.jpg.md).

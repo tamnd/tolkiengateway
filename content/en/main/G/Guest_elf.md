@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guest-elves"
 ---
 
-Redirect to [Guest-elves](/wiki/Guest-elves).
+Redirect to [Guest-elves](Guest-elves.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Quest"
 ---
 
-Redirect to [Middle-earth Quest](/wiki/Middle-earth_Quest).
+Redirect to [Middle-earth Quest](Middle-earth_Quest.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Chat/Former"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chat/Former</span>"
 page_id: 62585
 namespace: 4
 revision_id: 361622
@@ -15,11 +14,11 @@ sort_keys:
   "Tolkien Gateway": "Chat/Former"
 ---
 
-<center><big><i><b>This is an archived page of the former <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">Tolkien Gateway:Chat</a>.</b></i></big></center>
+<center><big><i><b>This is an archived page of the former <a href="Chat.md" title="Tolkien Gateway:Chat">Tolkien Gateway:Chat</a>.</b></i></big></center>
 
-<table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="mw-redirect" href="/wiki/Tolkien_Gateway:CHAT" title="Tolkien Gateway:CHAT">TG:CHAT</a><br/><a class="mw-redirect" href="/wiki/Tolkien_Gateway:IRC" title="Tolkien Gateway:IRC">TG:IRC</a></small></th></tr></tbody></table>
+<table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="mw-redirect" href="CHAT~47570.md" title="Tolkien Gateway:CHAT">TG:CHAT</a><br/><a class="mw-redirect" href="../I/IRC.md" title="Tolkien Gateway:IRC">TG:IRC</a></small></th></tr></tbody></table>
 
-[Tolkien Gateway](/wiki/Tolkien_Gateway)'s **official chat** or **IRC** (Internet Relay Chat) was an old platform where any editor, user, or members of the public could chat with other like-minded folk about [Tolkien Gateway](/wiki/Tolkien_Gateway), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), or anything they wish. The purpose of the IRC was to enable editors to discuss Tolkien Gateway as well as meet fellow Tolkien enthusiasts. As the active users of the wiki decreased, the chat became eventually obsolete and its platform was never updated.
+[Tolkien Gateway](../../main/T/Tolkien_Gateway.md)'s **official chat** or **IRC** (Internet Relay Chat) was an old platform where any editor, user, or members of the public could chat with other like-minded folk about [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), or anything they wish. The purpose of the IRC was to enable editors to discuss Tolkien Gateway as well as meet fellow Tolkien enthusiasts. As the active users of the wiki decreased, the chat became eventually obsolete and its platform was never updated.
 
 Sign-ups were not required nor do users need to install anything as they can access the chat via Mibbit. <b><a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway" rel="noreferrer noopener" target="_blank">To chat now, click here</a></b> or read the instructions below.
 
@@ -39,7 +38,7 @@ The easiest way to connect to our IRC was via the online client **Mibbit**. Mibb
 
 For those who use the Mozilla Firefox browser, a popular choice was the ChatZilla extension which could be used as either a tab in Firefox, or an extra window. It provided greater functionality than Mibbit and, once installed, was easily accessed via Firefox and could be configured to automatically join <a class="external text" href="irc://irc.tolkiengateway.net" rel="noreferrer noopener" target="_blank">irc://irc.tolkiengateway.net</a> on opening.
 
-<dl><dd><b>Recommended by:</b> <a href="/wiki/User:Mith" title="User:Mith">Mith</a></dd></dl>
+<dl><dd><b>Recommended by:</b> <a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a></dd></dl>
 
 ### X-Chat {#X-Chat}
 
@@ -58,7 +57,7 @@ On Windows, the official xchat programme was shareware and required a fee of $20
 ### Active {#Active}
 
 - **#TolkienGateway** - Lobby for the network and official channel of the wiki
-- **#Wiki** - The channel where [Tolkien Gateway:Meetings](/wiki/Tolkien_Gateway:Meetings) were held
+- **#Wiki** - The channel where [Tolkien Gateway:Meetings](../M/Meetings.md) were held
 
 ### Former {#Former}
 
@@ -85,4 +84,4 @@ On Windows, the official xchat programme was shareware and required a fee of $20
 
 ## See also {#See_also}
 
-- [Tolkien Gateway:Meetings](/wiki/Tolkien_Gateway:Meetings), which were held in the <code>#wiki</code> channel of the chat.
+- [Tolkien Gateway:Meetings](../M/Meetings.md), which were held in the <code>#wiki</code> channel of the chat.

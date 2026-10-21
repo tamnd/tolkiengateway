@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen - Bilbo Baggins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen - Bilbo Baggins.png</span>"
 page_id: 71030
 namespace: 6
 revision_id: 424249
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins) in [Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)")
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) in [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Ahmet Can Kahraman - Durin III.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ahmet Can Kahraman - Durin III.jpg</span>"
 page_id: 58040
 namespace: 6
 revision_id: 322170
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ahmet Can Kahraman</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ahmetcankahraman" rel="noreferrer noopener" target="_blank">Ahmet Can Kahraman on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ahmet_Can_Kahraman" title="Tolkien Gateway:Copyrights/Ahmet Can Kahraman">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAhmet_Can_Kahraman.md" title="Tolkien Gateway:Copyrights/Ahmet Can Kahraman">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Kinslaying"
 ---
 
-Redirect to [Second Kinslaying](/wiki/Second_Kinslaying).
+Redirect to [Second Kinslaying](Second_Kinslaying.md).

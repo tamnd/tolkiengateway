@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Mírdain"
 ---
 
-Redirect to [House of the Mírdain](/wiki/House_of_the_Mírdain).
+Redirect to [House of the Mírdain](House_of_the_Mírdain.md).

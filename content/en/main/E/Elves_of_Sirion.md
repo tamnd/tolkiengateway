@@ -1,6 +1,5 @@
 ---
 title: "Elves of Sirion"
-display_title: "<span class=\"mw-page-title-main\">Elves of Sirion</span>"
 page_id: 2163
 namespace: 0
 revision_id: 274575
@@ -13,4 +12,4 @@ categories:
   - "Elven peoples"
 ---
 
-The **Elves of Sirion** were members of a short-lived Elven culture that grew up in the lands around the [Mouths of Sirion](/wiki/Mouths_of_Sirion) during the last years of the [First Age](/wiki/First_Age). They were mainly [Elves](/wiki/Elves) that had fled from the destruction of the great realms of [Beleriand](/wiki/Beleriand), especially [Gondolin](/wiki/Gondolin) and [Doriath](/wiki/Doriath). Many of these Elves were killed, not by the [Dark Lord](/wiki/Dark_Lord) [Morgoth](/wiki/Morgoth), but by the remaining [Sons of Fëanor](/wiki/Sons_of_F%C3%ABanor) who sought the [Silmaril](/wiki/Silmaril) of [Elwing](/wiki/Elwing), who dwelt with the Elves of Sirion.
+The **Elves of Sirion** were members of a short-lived Elven culture that grew up in the lands around the [Mouths of Sirion](../M/Mouths_of_Sirion.md) during the last years of the [First Age](../F/First_Age.md). They were mainly [Elves](Elves.md) that had fled from the destruction of the great realms of [Beleriand](../B/Beleriand.md), especially [Gondolin](../G/Gondolin.md) and [Doriath](../D/Doriath.md). Many of these Elves were killed, not by the [Dark Lord](../D/Dark_Lord.md) [Morgoth](../M/Morgoth.md), but by the remaining [Sons of Fëanor](../S/Sons_of_Fëanor.md) who sought the [Silmaril](../S/Silmaril.md) of [Elwing](Elwing.md), who dwelt with the Elves of Sirion.

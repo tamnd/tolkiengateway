@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gammidge family"
 ---
 
-Redirect to [Gammidge family](/wiki/Gammidge_family).
+Redirect to [Gammidge family](Gammidge_family.md).

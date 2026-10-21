@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - The Battle of Helm's Deep (board game).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - The Battle of Helm&#039;s Deep (board game).png</span>"
 page_id: 73141
 namespace: 6
 revision_id: 432959
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/50011-1/The-Battle-of-Helm-s-Deep" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/50011-1/The-Battle-of-Helm-s-Deep</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "Gareth Jones"
-display_title: "<span class=\"mw-page-title-main\">Gareth Jones</span>"
 page_id: 22608
 namespace: 0
 revision_id: 157411
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Jones, Gareth"
 ---
 
-**Gareth Jones** ([June 6](/wiki/6_June "6 June"), [1925](/wiki/1925) - [November 30](/wiki/30_November "30 November"), [1958](/wiki/1958)) was an English actor, primarily known for his radio work. Though popular myth has it he died in the recording booth during his characters actual death scene, he actually suffered a cardiac arrest in make-up in between scenes.
+**Gareth Jones** ([June 6](../_/6_June.md), [1925](../_/1925.md) - [November 30](../_/30_November.md), [1958](../_/1958.md)) was an English actor, primarily known for his radio work. Though popular myth has it he died in the recording booth during his characters actual death scene, he actually suffered a cardiac arrest in make-up in between scenes.
 
 ## Roles {#Roles}
 
-- [1954](/wiki/1954): *[The Homecoming of Beorhtnoth, Beorhthelm's Son (radio play)](</wiki/The_Homecoming_of_Beorhtnoth,_Beorhthelm%27s_Son_(radio_play)>)* - Unspecified
+- [1954](../_/1954.md): *[The Homecoming of Beorhtnoth, Beorhthelm's Son (radio play)](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)* - Unspecified
 
 ## External links {#External_links}
 

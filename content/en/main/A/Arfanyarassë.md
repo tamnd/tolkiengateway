@@ -11,4 +11,4 @@ redirect_target: "Taniquetil"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Taniquetil](/wiki/Taniquetil#Other_names).
+Redirect to [Taniquetil](../T/Taniquetil.md#Other_names).

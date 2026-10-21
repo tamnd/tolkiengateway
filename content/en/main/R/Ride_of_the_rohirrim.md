@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ride of the Rohirrim"
 ---
 
-Redirect to [The Ride of the Rohirrim](/wiki/The_Ride_of_the_Rohirrim).
+Redirect to [The Ride of the Rohirrim](../T/The_Ride_of_the_Rohirrim.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales of the Shire: A \"The Lord of the Rings\" Game"
 ---
 
-Redirect to [Tales of the Shire: A "The Lord of the Rings" Game](/wiki/Tales_of_the_Shire:_A_"The_Lord_of_the_Rings"_Game).
+Redirect to [Tales of the Shire: A "The Lord of the Rings" Game](../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).

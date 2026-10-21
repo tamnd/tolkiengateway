@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Kaja Foglio"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Kaja Foglio</span>"
 page_id: 74894
 namespace: 14
 revision_id: 440672
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Foglio, Kaja"
 ---
 
-This category lists all **images by [Kaja Foglio](/wiki/Kaja_Foglio)**.
+This category lists all **images by [Kaja Foglio](../../main/K/Kaja_Foglio.md)**.

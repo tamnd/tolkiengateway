@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ringarë"
 ---
 
-Redirect to [Ringarë](/wiki/Ringarë).
+Redirect to [Ringarë](Ringarë.md).

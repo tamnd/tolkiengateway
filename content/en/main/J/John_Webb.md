@@ -1,6 +1,5 @@
 ---
 title: "John Webb"
-display_title: "<span class=\"mw-page-title-main\">John Webb</span>"
 page_id: 6900
 namespace: 0
 revision_id: 116300
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "Webb, John"
 ---
 
-**John Webb** voiced the part of [Glorfindel](/wiki/Glorfindel) in the [1981](/wiki/1981) [radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, along with several unspecified parts. He also had an unspecified part in the episode "Farmer Giles of Ham" in the [1992](/wiki/1992) [radio series](</wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)> "Tales from the Perilous Realm (1992 radio series)") of *[Tales from the Perilous Realm](/wiki/Tales_from_the_Perilous_Realm).*
+**John Webb** voiced the part of [Glorfindel](../G/Glorfindel.md) in the [1981](../_/1981.md) [radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, along with several unspecified parts. He also had an unspecified part in the episode "Farmer Giles of Ham" in the [1992](../_/1992.md) [radio series](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) of *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md).*

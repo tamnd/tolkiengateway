@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hai"
 ---
 
-Redirect to [Hai](/wiki/Hai).
+Redirect to [Hai](../H/Hai.md).

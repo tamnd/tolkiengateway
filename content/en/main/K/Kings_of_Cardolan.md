@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cardolan"
 ---
 
-Redirect to [Cardolan](/wiki/Cardolan).
+Redirect to [Cardolan](../C/Cardolan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingwion"
 ---
 
-Redirect to [Ingwion](/wiki/Ingwion).
+Redirect to [Ingwion](Ingwion.md).

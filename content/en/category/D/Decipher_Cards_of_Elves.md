@@ -1,6 +1,5 @@
 ---
 title: "Category:Decipher Cards of Elves"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher Cards of Elves</span>"
 page_id: 22581
 namespace: 14
 revision_id: 436182

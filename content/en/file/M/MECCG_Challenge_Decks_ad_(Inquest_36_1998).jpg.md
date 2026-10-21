@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG Challenge Decks ad (Inquest 36 1998).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG Challenge Decks ad (Inquest 36 1998).jpg</span>"
 page_id: 72906
 namespace: 6
 revision_id: 432146

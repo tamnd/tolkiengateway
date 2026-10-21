@@ -1,6 +1,5 @@
 ---
 title: "File:Piotr Fox Wysocki - Gandalf's Brooch.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Piotr Fox Wysocki - Gandalf&#039;s Brooch.jpg</span>"
 page_id: 14349
 namespace: 6
 revision_id: 206763
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Piotr Fox Wysocki</li>
 <li><b>Website:</b> <a class="external text" href="http://fox.cgsociety.org/gallery/" rel="noreferrer noopener" target="_blank">Piotr Fox Wysocki&#39;s CGPortfolio</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Piotr_Fox_Wysocki" title="Tolkien Gateway:Copyrights/Piotr Fox Wysocki">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPiotr_Fox_Wysocki.md" title="Tolkien Gateway:Copyrights/Piotr Fox Wysocki">Permission for use on Tolkien Gateway</a></b></li></ul></div>

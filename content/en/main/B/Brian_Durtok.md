@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brian Durfee"
 ---
 
-Redirect to [Brian Durfee](/wiki/Brian_Durfee).
+Redirect to [Brian Durfee](Brian_Durfee.md).

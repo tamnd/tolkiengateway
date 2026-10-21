@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forest of Tears"
 ---
 
-Redirect to [Forest of Tears](/wiki/Forest_of_Tears).
+Redirect to [Forest of Tears](../F/Forest_of_Tears.md).

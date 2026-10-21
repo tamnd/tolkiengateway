@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turambar and the Foalókë"
 ---
 
-Redirect to [Turambar and the Foalókë](/wiki/Turambar_and_the_Foalókë).
+Redirect to [Turambar and the Foalókë](Turambar_and_the_Foalókë.md).

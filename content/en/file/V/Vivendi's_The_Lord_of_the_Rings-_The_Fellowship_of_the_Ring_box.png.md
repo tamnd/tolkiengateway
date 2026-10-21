@@ -1,6 +1,5 @@
 ---
 title: "File:Vivendi's The Lord of the Rings- The Fellowship of the Ring box.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vivendi&#039;s The Lord of the Rings- The Fellowship of the Ring box.png</span>"
 page_id: 20525
 namespace: 6
 revision_id: 329295

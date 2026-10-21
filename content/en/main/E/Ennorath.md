@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ennor"
 ---
 
-Redirect to [Ennor](/wiki/Ennor).
+Redirect to [Ennor](Ennor.md).

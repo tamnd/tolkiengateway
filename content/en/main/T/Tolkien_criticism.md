@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Tolkien criticism"
 ---
 
-Redirect to [Category:Tolkien criticism](/wiki/Category:Tolkien_criticism).
+Redirect to [Category:Tolkien criticism](../../category/T/Tolkien_criticism.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Dust-jacket design for The Two Towers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Dust-jacket design for The Two Towers.jpg</span>"
 page_id: 73726
 namespace: 6
 revision_id: 435458
@@ -38,25 +37,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Dust-jacket design for The Two Towers.jpg</span></th>
 <td class="description">
-<p>Dust-jacket design for <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>
+<p>Dust-jacket design for <i><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" style="background:var(--tg-color-surface-5)">Tolkien Art Index</th>
 <td><a class="external text" href="https://tai.tolkienists.org/tai/264/" rel="noreferrer noopener" target="_blank">TAI #264</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.facebook.com/photo/?fbid=738449519197616&amp;set=pcb.738449562530945" rel="noreferrer noopener" target="_blank">https://www.facebook.com/photo/?fbid=738449519197616&amp;set=pcb.738449562530945</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

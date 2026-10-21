@@ -1,6 +1,5 @@
 ---
 title: "Wilfrid Payton"
-display_title: "<span class=\"mw-page-title-main\">Wilfrid Payton</span>"
 page_id: 48557
 namespace: 0
 revision_id: 259663
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Payton, Wilfrid"
 ---
 
-**Wilfrid "Whiffy" Payton** was a member of [T.C.B.S.](/wiki/T.C.B.S.) along with his brother [Ralph Payton](/wiki/Ralph_Payton).
+**Wilfrid "Whiffy" Payton** was a member of [T.C.B.S.](../T/T.C.B.S..md) along with his brother [Ralph Payton](../R/Ralph_Payton.md).
 
 ## References {#References}
 
-- *[Tolkien and the Great War](/wiki/Tolkien_and_the_Great_War)* by [John Garth](/wiki/John_Garth).
+- *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* by [John Garth](../J/John_Garth.md).

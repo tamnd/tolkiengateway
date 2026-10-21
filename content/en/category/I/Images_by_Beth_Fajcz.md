@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Beth Fajcz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Beth Fajcz</span>"
 page_id: 74974
 namespace: 14
 revision_id: 441381
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Fajcz, Beth"
 ---
 
-This category lists all **images by [Beth Fajcz](/wiki/Beth_Fajcz)**.
+This category lists all **images by [Beth Fajcz](../../main/B/Beth_Fajcz.md)**.

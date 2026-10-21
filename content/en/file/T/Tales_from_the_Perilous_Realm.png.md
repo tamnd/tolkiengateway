@@ -1,6 +1,5 @@
 ---
 title: "File:Tales from the Perilous Realm.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales from the Perilous Realm.png</span>"
 page_id: 67229
 namespace: 6
 revision_id: 390509

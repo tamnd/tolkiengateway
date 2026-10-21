@@ -1,6 +1,5 @@
 ---
 title: "Scott McShane"
-display_title: "<span class=\"mw-page-title-main\">Scott McShane</span>"
 page_id: 22846
 namespace: 0
 revision_id: 115962
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: Uruk-Hai Officer 3
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: Uruk-Hai Officer 3
 
 ## External links {#External_links}
 

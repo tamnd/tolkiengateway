@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elwing"
 ---
 
-Redirect to [Elwing](/wiki/Elwing).
+Redirect to [Elwing](../E/Elwing.md).

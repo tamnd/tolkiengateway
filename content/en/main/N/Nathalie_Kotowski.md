@@ -1,6 +1,5 @@
 ---
 title: "Nathalie Kotowski"
-display_title: "<span class=\"mw-page-title-main\">Nathalie Kotowski</span>"
 page_id: 37008
 namespace: 0
 revision_id: 423177
@@ -30,24 +29,24 @@ langlinks:
 
 ## History {#History}
 
-Nathalie Kotowski was the founder of [Belegaer - Cercle d'etudes de Tolkien en Belgique](</wiki/Belegaer_(Tolkien_Society)> "Belegaer (Tolkien Society)") as well as editor-in-chief of its magazine *Cirth De Gandalf*.
+Nathalie Kotowski was the founder of [Belegaer - Cercle d'etudes de Tolkien en Belgique](<../B/Belegaer_(Tolkien_Society).md>) as well as editor-in-chief of its magazine *Cirth De Gandalf*.
 
-Aside from being involved in Belegaer, Nathalie was also underwriter of *[Beyond Bree](/wiki/Beyond_Bree)* and a member of [The Tolkien Society](/wiki/The_Tolkien_Society).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nathalie was also occasionally interviewed by the media on the subject of Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nathalie attended the 1992 Centenary conference.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Aside from being involved in Belegaer, Nathalie was also underwriter of *[Beyond Bree](../B/Beyond_Bree.md)* and a member of [The Tolkien Society](../T/The_Tolkien_Society.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nathalie was also occasionally interviewed by the media on the subject of Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Nathalie attended the 1992 Centenary conference.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Juan Manuel Grijalvo (2001)</span>. <span class="cite-web-article"><a class="external text" href="http://www.grijalvo.com/Hfz002/hfz002_b_Nathalie_Kotowski.htm" rel="noreferrer noopener" target="_blank">&#34;Nathalie Kotowski - Carta a Halifirien&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.grijalvo.com/Hfz002/hfz002_1aa0_Indice.htm" rel="noreferrer noopener" target="_blank">Halifirien 2</a></span>. <span class="cite-web-accessed">Retrieved 6 December 2011</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Juan Manuel Grijalvo (2001)</span>. <span class="cite-web-article"><a class="external text" href="http://www.grijalvo.com/Hfz002/hfz002_b_Nathalie_Kotowski.htm" rel="noreferrer noopener" target="_blank">&#34;Nathalie Kotowski - Carta a Halifirien&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.grijalvo.com/Hfz002/hfz002_1aa0_Indice.htm" rel="noreferrer noopener" target="_blank">Halifirien 2</a></span>. <span class="cite-web-accessed">Retrieved 6 December 2011</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Eruvike (2001)</span>. <span class="cite-web-article"><a class="external text" href="https://www.jrrvf.com/fluxbb/viewtopic.php?id=4973" rel="noreferrer noopener" target="_blank">&#34;Décès de Nathalie Kotowski&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.jrrvf.com/fluxbb/index.php" rel="noreferrer noopener" target="_blank">Tolkien en Version Française - Forum</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2024</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Eruvike (2001)</span>. <span class="cite-web-article"><a class="external text" href="https://www.jrrvf.com/fluxbb/viewtopic.php?id=4973" rel="noreferrer noopener" target="_blank">&#34;Décès de Nathalie Kotowski&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.jrrvf.com/fluxbb/index.php" rel="noreferrer noopener" target="_blank">Tolkien en Version Française - Forum</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2024</span></cite></span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external free" href="http://www.cep.unt.edu/bree/Back-Issues1.pdf" rel="noreferrer noopener" target="_blank">http://www.cep.unt.edu/bree/Back-Issues1.pdf</a> (accessed 06-12-2011)</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external free" href="http://hemeroteca.lavanguardia.com/preview/1997/11/23/pagina-18/34646661/pdf.html?search=Ima%20Sanch%C3%ADs" rel="noreferrer noopener" target="_blank">http://hemeroteca.lavanguardia.com/preview/1997/11/23/pagina-18/34646661/pdf.html?search=Ima%20Sanch%C3%ADs</a> (accessed 06-12-2011)</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Bg Callahan and Glen GoodKnight (1992)</span>. <span class="cite-web-article"><a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/5/" rel="noreferrer noopener" target="_blank">&#34;Pictures from the Tolkien Centenary Conference&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Mythlore_70" title="Mythlore 70">Mythlore 70</a></span></cite></span>
+<cite class="citation cite-web"><span class="cite-web-author">Bg Callahan and Glen GoodKnight (1992)</span>. <span class="cite-web-article"><a class="external text" href="https://dc.swosu.edu/mythlore/vol18/iss4/5/" rel="noreferrer noopener" target="_blank">&#34;Pictures from the Tolkien Centenary Conference&#34;</a></span>. <span class="cite-web-website"><a href="../M/Mythlore_70.md" title="Mythlore 70">Mythlore 70</a></span></cite></span>
 </li>
 </ol></div>

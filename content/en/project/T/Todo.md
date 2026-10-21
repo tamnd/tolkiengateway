@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:To-do"
 ---
 
-Redirect to [Tolkien Gateway:To-do](/wiki/Tolkien_Gateway:To-do).
+Redirect to [Tolkien Gateway:To-do](To-do.md).

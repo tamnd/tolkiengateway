@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vilya"
 ---
 
-Redirect to [Vilya](/wiki/Vilya).
+Redirect to [Vilya](../V/Vilya.md).

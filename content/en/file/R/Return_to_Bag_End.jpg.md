@@ -1,6 +1,5 @@
 ---
 title: "File:Return to Bag End.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Return to Bag End.jpg</span>"
 page_id: 32806
 namespace: 6
 revision_id: 214588

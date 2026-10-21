@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ravens"
 ---
 
-Redirect to [Ravens](/wiki/Ravens).
+Redirect to [Ravens](Ravens.md).

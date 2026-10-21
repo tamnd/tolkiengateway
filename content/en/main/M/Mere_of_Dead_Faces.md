@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dead Marshes"
 ---
 
-Redirect to [Dead Marshes](/wiki/Dead_Marshes).
+Redirect to [Dead Marshes](../D/Dead_Marshes.md).

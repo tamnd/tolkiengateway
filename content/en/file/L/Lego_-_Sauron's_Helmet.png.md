@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Sauron's Helmet.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Sauron&#039;s Helmet.png</span>"
 page_id: 73434
 namespace: 6
 revision_id: 434144
@@ -35,15 +34,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/product/the-lord-of-the-rings-saurons-helmet-11373" rel="noreferrer noopener" target="_blank">https://www.lego.com/product/the-lord-of-the-rings-saurons-helmet-11373</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

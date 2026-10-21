@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quendi"
 ---
 
-Redirect to [Quendi](/wiki/Quendi).
+Redirect to [Quendi](Quendi.md).

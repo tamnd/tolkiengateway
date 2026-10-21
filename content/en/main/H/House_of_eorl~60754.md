@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Eorl"
 ---
 
-Redirect to [House of Eorl](/wiki/House_of_Eorl).
+Redirect to [House of Eorl](House_of_Eorl.md).

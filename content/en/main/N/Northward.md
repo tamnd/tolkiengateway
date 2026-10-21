@@ -1,6 +1,5 @@
 ---
 title: "Northward"
-display_title: "<span class=\"mw-page-title-main\">Northward</span>"
 page_id: 22267
 namespace: 0
 revision_id: 81162
@@ -13,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-**Northward** is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their sixth full-lenght album, [Oath Bound](/wiki/Oath_Bound).
+**Northward** is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their sixth full-lenght album, [Oath Bound](../O/Oath_Bound.md).
 
 ## Lyrics {#Lyrics}
 

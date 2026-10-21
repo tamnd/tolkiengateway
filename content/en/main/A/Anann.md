@@ -13,7 +13,7 @@ categories:
   - "Sindarin adverbs"
 ---
 
-<i><b>anann</b></i> is a [Sindarin](/wiki/Sindarin) word for *a long time*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>anann</b></i> is a [Sindarin](../S/Sindarin.md) word for *a long time*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
@@ -24,6 +24,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by <a href="/wiki/Didier_Willis" title="Didier Willis">Didier Willis</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by <a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a></span>
 </li>
 </ol></div>

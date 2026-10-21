@@ -1,6 +1,5 @@
 ---
 title: "Patrick McKay"
-display_title: "<span class=\"mw-page-title-main\">Patrick McKay</span>"
 page_id: 59078
 namespace: 0
 revision_id: 442264
@@ -29,16 +28,16 @@ images:
   - "Patrick_McKay.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Patrick_McKay.jpg"><img src="/w/images/thumb/9/91/Patrick_McKay.jpg/200px-Patrick_McKay.jpg" decoding="async" loading="lazy" width="200" height="267" class="mw-file-element" srcset="/w/images/thumb/9/91/Patrick_McKay.jpg/300px-Patrick_McKay.jpg 1.5x, /w/images/thumb/9/91/Patrick_McKay.jpg/400px-Patrick_McKay.jpg 2x" data-file-width="810" data-file-height="1080"/></a><figcaption><i>Patrick McKay</i> at the screening of <a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power‎</a> series in 2022</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Patrick_McKay.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Patrick_McKay.jpg/200px-Patrick_McKay.jpg" decoding="async" loading="lazy" width="200" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/Patrick_McKay.jpg/300px-Patrick_McKay.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/Patrick_McKay.jpg/400px-Patrick_McKay.jpg 2x" data-file-width="810" data-file-height="1080"/></a><figcaption><i>Patrick McKay</i> at the screening of <a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power‎</a> series in 2022</figcaption></figure>
 
-**Patrick McKay** is an United States-born screenwriter and producer. McKay, alongside [John D. Payne](/wiki/John_D._Payne),is the "showrunner" of the entire series, *[The Lord of the Rings: The Rings of Power‎](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power "The Lord of the Rings: The Rings of Power")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Patrick McKay** is an United States-born screenwriter and producer. McKay, alongside [John D. Payne](../J/John_D._Payne.md),is the "showrunner" of the entire series, *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Joe Otterson (28 July 2018)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2018/tv/news/lord-of-the-rings-amazon-jd-payne-patrick-mckay-to-develop-series-1202889212/" rel="noreferrer noopener" target="_blank">&#34;Amazon’s ‘Lord of the Rings’ Sets JD Payne, Patrick McKay to Develop Series&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://variety.com/" rel="noreferrer noopener" target="_blank">Variety</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2021</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Joe Otterson (28 July 2018)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2018/tv/news/lord-of-the-rings-amazon-jd-payne-patrick-mckay-to-develop-series-1202889212/" rel="noreferrer noopener" target="_blank">&#34;Amazon’s ‘Lord of the Rings’ Sets JD Payne, Patrick McKay to Develop Series&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://variety.com/" rel="noreferrer noopener" target="_blank">Variety</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2021</span></cite></span>
 </li>
 </ol></div>
 

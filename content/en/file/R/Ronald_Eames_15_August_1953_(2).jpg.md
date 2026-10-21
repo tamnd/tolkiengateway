@@ -1,6 +1,5 @@
 ---
 title: "File:Ronald Eames 15 August 1953 (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ronald Eames 15 August 1953 (2).jpg</span>"
 page_id: 40497
 namespace: 6
 revision_id: 215112

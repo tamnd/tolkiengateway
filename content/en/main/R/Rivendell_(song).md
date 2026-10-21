@@ -11,4 +11,4 @@ redirect_target: "Rush"
 redirect_fragment: "Rivendell"
 ---
 
-Redirect to [Rush](/wiki/Rush#Rivendell).
+Redirect to [Rush](Rush.md#Rivendell).

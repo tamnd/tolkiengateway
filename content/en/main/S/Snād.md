@@ -17,17 +17,17 @@ sort_keys:
   "Silvan Elvish words": "Snad"
 ---
 
-<i><b>snād</b></i> is a [Nandorin](/wiki/Nandorin) word meaning "a wounding, a wound".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+<i><b>snād</b></i> is a [Nandorin](../N/Nandorin.md) word meaning "a wounding, a wound".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word derives from [Common Eldarin](/wiki/Common_Eldarin) *snagdē*, from [root](/wiki/Sundocarme "Sundocarme") SNAG- ("wound, gash").<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+The word derives from [Common Eldarin](../C/Common_Eldarin.md) *snagdē*, from [root](Sundocarme.md) SNAG- ("wound, gash").<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE19-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE19_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE19_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="/wiki/Parma_Eldalamberon_19" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 91</span>
+<li id="cite_note-PE19-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE19_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE19_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="../P/Parma_Eldalamberon_19.md" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 91</span>
 </li>
 </ol></div>

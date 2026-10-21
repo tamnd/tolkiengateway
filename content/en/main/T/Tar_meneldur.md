@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Meneldur"
 ---
 
-Redirect to [Tar-Meneldur](/wiki/Tar-Meneldur).
+Redirect to [Tar-Meneldur](Tar-Meneldur.md).

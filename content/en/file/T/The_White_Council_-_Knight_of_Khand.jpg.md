@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Knight of Khand.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Knight of Khand.jpg</span>"
 page_id: 13394
 namespace: 6
 revision_id: 169715

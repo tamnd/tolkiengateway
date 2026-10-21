@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Hornburg"
 ---
 
-Redirect to [Battle of the Hornburg](/wiki/Battle_of_the_Hornburg).
+Redirect to [Battle of the Hornburg](Battle_of_the_Hornburg.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:L. B. Hansen - Gossen i båten, Scéaf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">L. B. Hansen - Gossen i båten, Scéaf.jpg</span>"
 page_id: 58990
 namespace: 6
 revision_id: 422145
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of King Scéaf by L. B. Hansen, appearing on page 39 of Fredrik Sander's 1893 edition of the Poetic Edda: *Edda Sämund den vises*. Colored by [User:Quentandil](/wiki/User:Quentandil)
+Image of King Scéaf by L. B. Hansen, appearing on page 39 of Fredrik Sander's 1893 edition of the Poetic Edda: *Edda Sämund den vises*. Colored by [User:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil)
 
 ## Licensing {#Licensing}
 

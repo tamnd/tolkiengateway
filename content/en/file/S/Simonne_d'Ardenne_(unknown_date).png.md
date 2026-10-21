@@ -1,6 +1,5 @@
 ---
 title: "File:Simonne d'Ardenne (unknown date).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Simonne d&#039;Ardenne (unknown date).png</span>"
 page_id: 39231
 namespace: 6
 revision_id: 245118

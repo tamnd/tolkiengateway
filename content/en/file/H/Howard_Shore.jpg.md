@@ -1,6 +1,5 @@
 ---
 title: "File:Howard Shore.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Howard Shore.jpg</span>"
 page_id: 39203
 namespace: 6
 revision_id: 238742

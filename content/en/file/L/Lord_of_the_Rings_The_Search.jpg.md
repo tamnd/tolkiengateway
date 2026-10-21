@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings The Search.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings The Search.jpg</span>"
 page_id: 74514
 namespace: 6
 revision_id: 438740

@@ -1,6 +1,5 @@
 ---
 title: "Shane Rangi"
-display_title: "<span class=\"mw-page-title-main\">Shane Rangi</span>"
 page_id: 19113
 namespace: 0
 revision_id: 221561
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Rangi, Shane"
 ---
 
-**Shane Rangi** ([February 3](/wiki/3_February "3 February"), [1969](/wiki/1969)) is a New Zealand born stuntman and actor who played various roles in [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). He is credited as the [Witch-king](/wiki/Witch-king) of [Angmar](/wiki/Angmar) in [The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring "The Lord of the Rings: The Fellowship of the Ring"), "Harad Leader 2" in [The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King "The Lord of the Rings: The Return of the King") and as leader of the stunts department, but appeared uncredited as soldiers of all factions.
+**Shane Rangi** ([February 3](../_/3_February.md), [1969](../_/1969.md)) is a New Zealand born stuntman and actor who played various roles in [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>). He is credited as the [Witch-king](../W/Witch-king.md) of [Angmar](../A/Angmar.md) in [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), "Harad Leader 2" in [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) and as leader of the stunts department, but appeared uncredited as soldiers of all factions.
 
 ## External links {#External_links}
 

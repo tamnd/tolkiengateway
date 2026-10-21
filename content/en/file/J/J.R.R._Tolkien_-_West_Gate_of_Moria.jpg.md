@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - West Gate of Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - West Gate of Moria.jpg</span>"
 page_id: 5760
 namespace: 6
 revision_id: 425266
@@ -27,11 +26,11 @@ file:
 
 ## Summary {#Summary}
 
-Crayon drawing of the West Gate of Moria by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). On the western side of the [Misty Mountains](/wiki/Misty_Mountains), by which the [Fellowship of the Ring](/wiki/Fellowship_of_the_Ring) entered the Mines: cf. [The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring), Book II, Chapter 4, [A Journey in the Dark](/wiki/A_Journey_in_the_Dark):
+Crayon drawing of the West Gate of Moria by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). On the western side of the [Misty Mountains](../../main/M/Misty_Mountains.md), by which the [Fellowship of the Ring](../../main/F/Fellowship_of_the_Ring.md) entered the Mines: cf. [The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md), Book II, Chapter 4, [A Journey in the Dark](../../main/A/A_Journey_in_the_Dark.md):
 
 <dl><dd>&#39;Beyond the ominous water were reared vast cliffs, their stern faces pallid in the fading light: final and impassable.&#39;</dd></dl>
 
-It was published in [The J.R.R. Tolkien Calendar 1973](/wiki/The_J.R.R._Tolkien_Calendar_1973) and 1974, and in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar) (slightly truncated at top and bottom).
+It was published in [The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) and 1974, and in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) (slightly truncated at top and bottom).
 
 ## Licensing {#Licensing}
 

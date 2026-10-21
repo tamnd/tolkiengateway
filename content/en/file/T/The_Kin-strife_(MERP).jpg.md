@@ -1,6 +1,5 @@
 ---
 title: "File:The Kin-strife (MERP).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Kin-strife (MERP).jpg</span>"
 page_id: 29584
 namespace: 6
 revision_id: 350724

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - A Sudden Call to Mount Doom.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - A Sudden Call to Mount Doom.jpg](/wiki/File:Ted_Nasmith_-_A_Sudden_Call_to_Mount_Doom.jpg).
+Redirect to [File:Ted Nasmith - A Sudden Call to Mount Doom.jpg](Ted_Nasmith_-_A_Sudden_Call_to_Mount_Doom.jpg.md).

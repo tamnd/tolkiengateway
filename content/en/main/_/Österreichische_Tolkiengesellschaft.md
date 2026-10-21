@@ -1,6 +1,5 @@
 ---
 title: "Österreichische Tolkiengesellschaft"
-display_title: "<span class=\"mw-page-title-main\">Österreichische Tolkiengesellschaft</span>"
 page_id: 36970
 namespace: 0
 revision_id: 177332
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Österreichische Tolkiengesellschaft**, ÖTG, (Austrian Tolkien Society) is the [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") in Austria.
+**Österreichische Tolkiengesellschaft**, ÖTG, (Austrian Tolkien Society) is the [Tolkien Society](../T/Tolkien_Societies~67099.md) in Austria.
 
 ## History {#History}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 80a"
 ---
 
-Redirect to [Letter 80a](/wiki/Letter_80a).
+Redirect to [Letter 80a](../L/Letter_80a.md).

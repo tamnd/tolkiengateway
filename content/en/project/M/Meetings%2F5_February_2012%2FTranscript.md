@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/5 February 2012/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/5 February 2012/Transcript</span>"
 page_id: 38228
 namespace: 4
 revision_id: 202045
@@ -280,8 +279,8 @@ sort_keys:
 [2012-02-05 21:03:51] &lt;Mith&gt; Technically we&#39;re limited<br/>
 [2012-02-05 21:04:00] &lt;Mith&gt; (I wouldn&#39;t support that)<br/>
 [2012-02-05 21:04:22] &lt;Mith&gt; This would show people characters in the much broader context<br/>
-[2012-02-05 21:04:47] &lt;Hyarion&gt; I think for a lot of characters, there is a family tree at Frodo Baggins, and then a larger tree at <a class="mw-redirect" href="/wiki/Baggins" title="Baggins">Baggins</a><br/>
-[2012-02-05 21:05:34] &lt;Hyarion&gt; I would be willing to include the link in articles such as <a class="mw-redirect" href="/wiki/Baggins_Family" title="Baggins Family">Baggins Family</a><br/>
+[2012-02-05 21:04:47] &lt;Hyarion&gt; I think for a lot of characters, there is a family tree at Frodo Baggins, and then a larger tree at <a class="mw-redirect" href="../../main/B/Baggins.md" title="Baggins">Baggins</a><br/>
+[2012-02-05 21:05:34] &lt;Hyarion&gt; I would be willing to include the link in articles such as <a class="mw-redirect" href="../../main/B/Baggins_Family~66343.md" title="Baggins Family">Baggins Family</a><br/>
 [2012-02-05 21:05:51] &lt;Morgan&gt; Mith: are you thinking of something like a youtube box, where you can scroll the family tree from TG?<br/>
 [2012-02-05 21:06:43] &lt;Mith&gt; No<br/>
 [2012-02-05 21:06:46] &lt;Mith&gt; Just a link<br/>
@@ -364,7 +363,7 @@ sort_keys:
 [2012-02-05 21:29:11] &lt;Hyarion&gt; I&#39;m sure if we get Pieter Collier or someone writing about the 1st edition, we can easily have an article&#39;s worth.<br/>
 [2012-02-05 21:29:24] &lt;KingAragorn&gt; No<br/>
 [2012-02-05 21:29:34] --&gt;| mib_pejpht (3eeef969@tolkiengateway-F4FD642.mibbit.com) has joined #Wiki<br/>
-[2012-02-05 21:29:49] &lt;Hyarion&gt; although maybe we should change it to <a class="new" href="/w/index.php?title=The_Hobbit_Editions&amp;action=edit&amp;redlink=1" title="The Hobbit Editions (page does not exist)">The Hobbit Editions</a> or something, so you can include all various editions<br/>
+[2012-02-05 21:29:49] &lt;Hyarion&gt; although maybe we should change it to <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit_Editions&amp;action=edit&amp;redlink=1" title="The Hobbit Editions (page does not exist)">The Hobbit Editions</a> or something, so you can include all various editions<br/>
 [2012-02-05 21:29:54] &lt;Hyarion&gt; hi mib_pejpht <br/>
 [2012-02-05 21:30:18] &lt;Morgan&gt; We already have <a class="external free" href="http://tolkiengateway.net/wiki/English-language_editions_of_The_Hobbit" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net/wiki/English-language_editions_of_The_Hobbit</a><br/>
 [2012-02-05 21:30:29] =-= mib_pejpht is now known as AmrothMobile<br/>

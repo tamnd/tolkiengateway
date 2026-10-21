@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Mirkwood Elf Chief.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Mirkwood Elf Chief.png</span>"
 page_id: 73175
 namespace: 6
 revision_id: 433030
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mirkwood Elf](/wiki/Elves_of_Mirkwood "Elves of Mirkwood") [Chief](/wiki/Chief_of_the_guards "Chief of the guards") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor054/mirkwood-elf-chief" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Mirkwood Elf](../../main/E/Elves_of_Mirkwood.md) [Chief](../../main/C/Chief_of_the_guards.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor054/mirkwood-elf-chief" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Gardens"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gardens</span>"
 page_id: 45501
 namespace: 14
 revision_id: 239763
@@ -13,4 +12,4 @@ categories:
   - "Sites of civilisation"
 ---
 
-This category lists all **Gardens** within [Arda](/wiki/Arda).
+This category lists all **Gardens** within [Arda](../../main/A/Arda.md).

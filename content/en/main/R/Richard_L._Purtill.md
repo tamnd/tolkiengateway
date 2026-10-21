@@ -1,6 +1,5 @@
 ---
 title: "Richard L. Purtill"
-display_title: "<span class=\"mw-page-title-main\">Richard L. Purtill</span>"
 page_id: 21829
 namespace: 0
 revision_id: 321366
@@ -19,23 +18,23 @@ sort_keys:
   "People by name": "Purtill, Richard L."
 ---
 
-**Richard L. Purtill** (born [1931](/wiki/1931)) is the Professor Emeritus of Philosophy at <a class="extiw" href="http://en.wikipedia.org/wiki/Western_Washington_University" title="wikipedia:Western Washington University">Western Washington University</a>. He is an author of fantasy and science fiction, publishing books in the *Kaphtu* series.
+**Richard L. Purtill** (born [1931](../_/1931.md)) is the Professor Emeritus of Philosophy at <a class="extiw" href="http://en.wikipedia.org/wiki/Western_Washington_University" title="wikipedia:Western Washington University">Western Washington University</a>. He is an author of fantasy and science fiction, publishing books in the *Kaphtu* series.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1974](/wiki/1974): <i><a class="new" href="/w/index.php?title=Lord_of_Elves_And_Eldils:_Fantasy_And_Philosophy_in_C.S._Lewis_And_J.R.R._Tolkien&amp;action=edit&amp;redlink=1" title="Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien (page does not exist)">Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien</a></i>
-- [1984](/wiki/1984): *[J.R.R. Tolkien: Myth, Morality and Religion](/wiki/J.R.R._Tolkien:_Myth,_Morality_and_Religion)*
+- [1974](../_/1974.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lord_of_Elves_And_Eldils:_Fantasy_And_Philosophy_in_C.S._Lewis_And_J.R.R._Tolkien&amp;action=edit&amp;redlink=1" title="Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien (page does not exist)">Lord of Elves And Eldils: Fantasy And Philosophy in C.S. Lewis And J.R.R. Tolkien</a></i>
+- [1984](../_/1984.md): *[J.R.R. Tolkien: Myth, Morality and Religion](../J/J.R.R._Tolkien%253A_Myth,_Morality_and_Religion.md)*
 
 ### Articles {#Articles}
 
-- [1979](/wiki/1979): *[Mythlore 22](/wiki/Mythlore_22)*
+- [1979](../_/1979.md): *[Mythlore 22](../M/Mythlore_22.md)*
     - "Heaven and Other Perilous Realms"
 
 ## Awards {#Awards}
 
-- [1987](/wiki/1987): **[Mythopoeic Award](/wiki/Mythopoeic_Society "Mythopoeic Society")**, Mythopoeic Scholarship Award for Inkling Studies, *[J.R.R. Tolkien: Myth, Morality and Religion](/wiki/J.R.R._Tolkien:_Myth,_Morality_and_Religion)*
+- [1987](../_/1987.md): **[Mythopoeic Award](../M/Mythopoeic_Society.md)**, Mythopoeic Scholarship Award for Inkling Studies, *[J.R.R. Tolkien: Myth, Morality and Religion](../J/J.R.R._Tolkien%253A_Myth,_Morality_and_Religion.md)*
 
 ## External links {#External_links}
 

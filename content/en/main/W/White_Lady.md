@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Lady (disambiguation)"
 ---
 
-Redirect to [White Lady (disambiguation)](/wiki/White_Lady_(disambiguation)).
+Redirect to [White Lady (disambiguation)](<White_Lady_(disambiguation).md>).

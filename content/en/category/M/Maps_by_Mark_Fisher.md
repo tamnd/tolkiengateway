@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps by Mark Fisher"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps by Mark Fisher</span>"
 page_id: 41544
 namespace: 14
 revision_id: 210896

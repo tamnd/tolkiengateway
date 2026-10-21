@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inwir"
 ---
 
-Redirect to [Inwir](/wiki/Inwir).
+Redirect to [Inwir](Inwir.md).

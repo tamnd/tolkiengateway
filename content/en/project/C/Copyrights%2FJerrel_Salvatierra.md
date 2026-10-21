@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jerrel Salvatierra"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jerrel Salvatierra</span>"
 page_id: 51172
 namespace: 4
 revision_id: 277164
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Salvatierra, Jerrel"
 ---
 
-- Jerrel Salvatierra has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Jerrel_Salvatierra "Category:Images by Jerrel Salvatierra") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Jerrel Salvatierra has kindly granted his permission to use [his artwork](../../category/I/Images_by_Jerrel_Salvatierra.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 July 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

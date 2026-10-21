@@ -1,6 +1,5 @@
 ---
 title: "File:Inklings 1981.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Inklings 1981.png</span>"
 page_id: 62385
 namespace: 6
 revision_id: 352475

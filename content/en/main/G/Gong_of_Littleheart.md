@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gong of the Children"
 ---
 
-Redirect to [Gong of the Children](/wiki/Gong_of_the_Children).
+Redirect to [Gong of the Children](Gong_of_the_Children.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Denethor"
 ---
 
-Redirect to [Denethor](/wiki/Denethor).
+Redirect to [Denethor](Denethor.md).

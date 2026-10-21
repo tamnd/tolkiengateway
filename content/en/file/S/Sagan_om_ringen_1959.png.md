@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om ringen 1959.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om ringen 1959.png</span>"
 page_id: 37667
 namespace: 6
 revision_id: 350784

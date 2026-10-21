@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brand (word)"
 ---
 
-Redirect to [Brand (word)](/wiki/Brand_(word)).
+Redirect to [Brand (word)](<Brand_(word).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lhach"
 ---
 
-Redirect to [Lhach](/wiki/Lhach).
+Redirect to [Lhach](Lhach.md).

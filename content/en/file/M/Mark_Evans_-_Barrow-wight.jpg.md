@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Evans - Barrow-wight.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Evans - Barrow-wight.jpg</span>"
 page_id: 30833
 namespace: 6
 revision_id: 204474
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Barrow-wight* by Mark Evans, illustration for *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game)*, appearing in *[Fell Beasts and Wondrous Magic](/wiki/Fell_Beasts_and_Wondrous_Magic)*.
+*Barrow-wight* by Mark Evans, illustration for *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md)*, appearing in *[Fell Beasts and Wondrous Magic](../../main/F/Fell_Beasts_and_Wondrous_Magic.md)*.
 
 ## Licensing {#Licensing}
 

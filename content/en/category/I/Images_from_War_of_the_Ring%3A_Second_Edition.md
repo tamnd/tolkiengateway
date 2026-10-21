@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from War of the Ring: Second Edition"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from War of the Ring: Second Edition</span>"
 page_id: 71713
 namespace: 14
 revision_id: 433927
@@ -15,4 +14,4 @@ sort_keys:
   "Images of board games": "War of the Ring: Second Edition"
 ---
 
-Images from *[War of the Ring: Second Edition](/wiki/War_of_the_Ring:_Second_Edition)* (2011 board game).
+Images from *[War of the Ring: Second Edition](../../main/W/War_of_the_Ring%253A_Second_Edition.md)* (2011 board game).

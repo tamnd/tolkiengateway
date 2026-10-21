@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entwash"
 ---
 
-Redirect to [Entwash](/wiki/Entwash).
+Redirect to [Entwash](../E/Entwash.md).

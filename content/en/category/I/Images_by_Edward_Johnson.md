@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Edward Johnson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Edward Johnson</span>"
 page_id: 30225
 namespace: 14
 revision_id: 181993

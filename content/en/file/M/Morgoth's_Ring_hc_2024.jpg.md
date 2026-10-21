@@ -1,6 +1,5 @@
 ---
 title: "File:Morgoth's Ring hc 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Morgoth&#039;s Ring hc 2024.jpg</span>"
 page_id: 68841
 namespace: 6
 revision_id: 410370

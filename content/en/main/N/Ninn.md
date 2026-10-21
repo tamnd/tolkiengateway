@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nind"
 ---
 
-Redirect to [Nind](/wiki/Nind).
+Redirect to [Nind](Nind.md).

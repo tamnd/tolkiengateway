@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Appledore Family"
 ---
 
-Redirect to [Appledore Family](/wiki/Appledore_Family).
+Redirect to [Appledore Family](Appledore_Family.md).

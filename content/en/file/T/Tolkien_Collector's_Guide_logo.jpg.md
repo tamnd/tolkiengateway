@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Collector's Guide logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Collector&#039;s Guide logo.jpg</span>"
 page_id: 67277
 namespace: 6
 revision_id: 390702
@@ -32,5 +31,5 @@ file:
 <p>This work is copyrighted and owned by Tolkien Collector&#39;s Guide. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Tolkien Collector&#39;s Guide</li>
-<li><b>Website:</b> <a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a>]</li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/Tolkien_Collector%27s_Guide&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Tolkien Collector&#39;s Guide (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b>Website:</b> <a href="../../main/T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a>]</li>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/Tolkien_Collector%27s_Guide&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Tolkien Collector&#39;s Guide (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>

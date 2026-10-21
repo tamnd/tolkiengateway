@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit-Unexpected Journey-Bofur1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit-Unexpected Journey-Bofur1.png</span>"
 page_id: 37362
 namespace: 6
 revision_id: 179137

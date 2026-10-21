@@ -1,6 +1,5 @@
 ---
 title: "File:Jason Ward - Herugrim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jason Ward - Herugrim.jpg</span>"
 page_id: 72192
 namespace: 6
 revision_id: 429243
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Herugrim](/wiki/Herugrim) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Treason of Saruman* illustration by Jason Ward
+[Herugrim](../../main/H/Herugrim.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Treason of Saruman* illustration by Jason Ward
 
 ## Licensing {#Licensing}
 

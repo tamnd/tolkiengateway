@@ -15,29 +15,29 @@ sort_keys:
   "Quenya nouns": "Kyerme"
 ---
 
-**Kyermë** means "prayer" in [Quenya](/wiki/Quenya).
+**Kyermë** means "prayer" in [Quenya](../Q/Quenya.md).
 
 ## Etymology {#Etymology}
 
-The etymology is not known. The form of the word would suggest a [PQ](/wiki/PQ) [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") \*KJER and the noun ending *[-më](/wiki/-m%C3%AB)*.
+The etymology is not known. The form of the word would suggest a [PQ](../P/PQ.md) [Root](../S/Sundocarmë.md) \*KJER and the noun ending *[-më](../_/-më.md)*.
 
-The word is the only one in Quenya that displays the exceptional sound *ky*. It has been suggested that it is a [Númenorean](/wiki/N%C3%BAmenor "Númenor") dialect of Quenya or that it is a misreading of *hy* (see also <i><a class="new" href="/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i>).
+The word is the only one in Quenya that displays the exceptional sound *ky*. It has been suggested that it is a [Númenorean](../N/Númenor.md) dialect of Quenya or that it is a misreading of *hy* (see also <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i>).
 
-In any event, traditional Quenya phonotactics forbids the existence of *ky* (having merged it with *ty* even before [Rúmil](</wiki/R%C3%BAmil_(elf_of_Tirion)> "Rúmil (elf of Tirion)") invented [sarati](/wiki/Sarati "Sarati")), so even if [Dúnedain](/wiki/D%C3%BAnedain) used it, it is unlikely the [Vanyar](/wiki/Vanyar) or [Noldor](/wiki/Noldor) ever did.
+In any event, traditional Quenya phonotactics forbids the existence of *ky* (having merged it with *ty* even before [Rúmil](<../R/Rúmil_(elf_of_Tirion).md>) invented [sarati](../S/Sarati.md)), so even if [Dúnedain](../D/Dúnedain.md) used it, it is unlikely the [Vanyar](../V/Vanyar.md) or [Noldor](../N/Noldor.md) ever did.
 
 ## Examples {#Examples}
 
-- [Eru**kyermë**](/wiki/Erukyerm%C3%AB "Erukyermë"): "Prayer to [Eru](/wiki/Il%C3%BAvatar "Ilúvatar")"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Eru**kyermë**](../E/Erukyermë.md): "Prayer to [Eru](../I/Ilúvatar.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i> "to pay"
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hyam&amp;action=edit&amp;redlink=1" title="Hyam (page does not exist)">hyam</a></i> "to pay"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, Index, <i>Erukyermë</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, Index, <i>Erukyermë</i></span>
 </li>
 </ol></div>

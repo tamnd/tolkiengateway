@@ -1,6 +1,5 @@
 ---
 title: "Category:Took"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Took</span>"
 page_id: 2499
 namespace: 14
 revision_id: 435977

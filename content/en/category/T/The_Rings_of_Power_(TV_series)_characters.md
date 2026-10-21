@@ -1,6 +1,5 @@
 ---
 title: "Category:The Rings of Power (TV series) characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) characters</span>"
 page_id: 63247
 namespace: 14
 revision_id: 415370
@@ -17,4 +16,4 @@ sort_keys:
   "The Rings of Power (TV series)": "characters"
 ---
 
-<dl><dd><i>This category lists all original characters from</i> <b><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></b>.</dd></dl>
+<dl><dd><i>This category lists all original characters from</i> <b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></b>.</dd></dl>

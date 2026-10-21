@@ -1,6 +1,5 @@
 ---
 title: "File:Andrea Piparo - Elrond - Lord of Rivendell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andrea Piparo - Elrond - Lord of Rivendell.jpg</span>"
 page_id: 68017
 namespace: 6
 revision_id: 426103
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Andrea Piparo and Ares Games for the War of the Ring - the card game</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/AndreaPiparoArt" rel="noreferrer noopener" target="_blank">Andrea Piparo</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrea_Piparo" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrea_Piparo.md" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

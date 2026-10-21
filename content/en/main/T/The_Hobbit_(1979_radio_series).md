@@ -15,55 +15,53 @@ images:
   - "The_Hobbit_(1979_radio_series).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Hobbit_(1979_radio_series).jpg"><img src="/w/images/thumb/8/8d/The_Hobbit_%281979_radio_series%29.jpg/300px-The_Hobbit_%281979_radio_series%29.jpg" decoding="async" loading="lazy" width="300" height="296" class="mw-file-element" srcset="/w/images/8/8d/The_Hobbit_%281979_radio_series%29.jpg 1.5x" data-file-width="420" data-file-height="414"/></a><figcaption>Cover of the set of six cassettes</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1979_radio_series).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8d/The_Hobbit_%281979_radio_series%29.jpg/300px-The_Hobbit_%281979_radio_series%29.jpg" decoding="async" loading="lazy" width="300" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8d/The_Hobbit_%281979_radio_series%29.jpg 1.5x" data-file-width="420" data-file-height="414"/></a><figcaption>Cover of the set of six cassettes</figcaption></figure>
 
-**The Hobbit** is a [1979](/wiki/1979) radio series of *[The Hobbit](/wiki/The_Hobbit)*, adapted and directed by <a class="new" href="/w/index.php?title=Bob_Lewis&amp;action=edit&amp;redlink=1" title="Bob Lewis (page does not exist)">Bob Lewis</a> and produced by <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind&#39;s Eye</a>. It would reuse most of the cast for their [radio series](</wiki/The_Lord_of_the_Rings_(1979_radio_series)> "The Lord of the Rings (1979 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* of the same year. The music featured in the radio drama were pulled from production music produced by Major Records. Primarily Featuring composer Roger Roger but also contains works from George Chase and Sam Trust. They would use the same music library for their adaptation of Lord of The Rings, some pieces being shared between the two.
+**The Hobbit** is a [1979](../_/1979.md) radio series of *[The Hobbit](The_Hobbit.md)*, adapted and directed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bob_Lewis&amp;action=edit&amp;redlink=1" title="Bob Lewis (page does not exist)">Bob Lewis</a> and produced by <a class="extiw" href="http://en.wikipedia.org/wiki/The_Mind%27s_Eye_(publisher)" title="wikipedia:The Mind&#39;s Eye (publisher)">The Mind&#39;s Eye</a>. It would reuse most of the cast for their [radio series](<The_Lord_of_the_Rings_(1979_radio_series).md>) of *[The Lord of the Rings](The_Lord_of_the_Rings.md)* of the same year. The music featured in the radio drama were pulled from production music produced by Major Records. Primarily Featuring composer Roger Roger but also contains works from George Chase and Sam Trust. They would use the same music library for their adaptation of Lord of The Rings, some pieces being shared between the two.
 
 ## Cast {#Cast}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Actor</th>
 <th>Role
 </th></tr>
 <tr>
-<td><a href="/wiki/Erik_Bauersfeld" title="Erik Bauersfeld">Erik Bauersfeld</a></td>
-<td><a href="/wiki/Smaug" title="Smaug">Smaug</a>, <a href="/wiki/Bard" title="Bard">Bard</a>
+<td><a href="../E/Erik_Bauersfeld.md" title="Erik Bauersfeld">Erik Bauersfeld</a></td>
+<td><a href="../S/Smaug.md" title="Smaug">Smaug</a>, <a href="../B/Bard.md" title="Bard">Bard</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Gail_Chugg" title="Gail Chugg">Gail Chugg</a></td>
-<td>Narrator, <a href="/wiki/Gollum" title="Gollum">Gollum</a>, <a href="/wiki/Balin" title="Balin">Balin</a>
+<td><a href="../G/Gail_Chugg.md" title="Gail Chugg">Gail Chugg</a></td>
+<td>Narrator, <a href="../G/Gollum.md" title="Gollum">Gollum</a>, <a href="../B/Balin.md" title="Balin">Balin</a>
 </td></tr>
 <tr>
 <td>Pat Franklyn</td>
-<td><a class="mw-redirect" href="/wiki/Roac" title="Roac">Roac</a>, <a href="/wiki/Thranduil" title="Thranduil">The Elven King</a>, <a href="/wiki/Bombur" title="Bombur">Bombur</a>
+<td><a class="mw-redirect" href="../R/Roac.md" title="Roac">Roac</a>, <a href="Thranduil.md" title="Thranduil">The Elven King</a>, <a href="../B/Bombur.md" title="Bombur">Bombur</a>
 </td></tr>
 <tr>
 <td>Carl Hague</td>
-<td><a href="/wiki/Elrond" title="Elrond">Elrond</a>
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>
 </td></tr>
 <tr>
 <td>Joe Hughes</td>
-<td><a href="/wiki/Great_Goblin" title="Great Goblin">Great Goblin</a>, <a href="/wiki/Beorn" title="Beorn">Beorn</a>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a>, <a href="../B/Beorn.md" title="Beorn">Beorn</a>
 </td></tr>
 <tr>
 <td>Tom Luce</td>
-<td><a href="/wiki/Thorin" title="Thorin">Thorin</a>
+<td><a href="Thorin.md" title="Thorin">Thorin</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Bernard_Mayes" title="Bernard Mayes">Bernard Mayes</a></td>
-<td><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a>
+<td><a href="../B/Bernard_Mayes.md" title="Bernard Mayes">Bernard Mayes</a></td>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Ray_Reinhardt" title="Ray Reinhardt">Ray Reinhardt</a></td>
-<td><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a>
+<td><a href="../R/Ray_Reinhardt.md" title="Ray Reinhardt">Ray Reinhardt</a></td>
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>
 </td></tr></tbody></table>
 
 ## Music {#Music}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Composer</th>
 <th>Piece</th>
@@ -241,7 +239,7 @@ images:
 <td>94
 </td></tr></tbody></table>
 
-There are six other songs that have not been identified yet. Null\* is piece that has been identified but as far as we can tell only exists online under a different name and edited and manipulated. There are three songs not listed here that seem were made specifically for this adaptation and only exist within the drama itself. The song is [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold). It is based on the poem that Tolkien wrote for the book but in the adaptation it has been edited where some verses are removed entirely or show up later in the play. I said three songs were made for this adaptation, that was one, the other two are little off shoots of [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold). Anything you hear with an Auto-harp was written for the play.
+There are six other songs that have not been identified yet. Null\* is piece that has been identified but as far as we can tell only exists online under a different name and edited and manipulated. There are three songs not listed here that seem were made specifically for this adaptation and only exist within the drama itself. The song is [Far over the misty mountains cold](../F/Far_over_the_misty_mountains_cold.md). It is based on the poem that Tolkien wrote for the book but in the adaptation it has been edited where some verses are removed entirely or show up later in the play. I said three songs were made for this adaptation, that was one, the other two are little off shoots of [Far over the misty mountains cold](../F/Far_over_the_misty_mountains_cold.md). Anything you hear with an Auto-harp was written for the play.
 
 ## Food &amp; Comfort {#Food_&_Comfort}
 

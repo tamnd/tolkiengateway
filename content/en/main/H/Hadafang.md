@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hadhafang"
 ---
 
-Redirect to [Hadhafang](/wiki/Hadhafang).
+Redirect to [Hadhafang](Hadhafang.md).

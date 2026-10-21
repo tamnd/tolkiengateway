@@ -13,8 +13,8 @@ categories:
   - "Songs by Summoning"
 ---
 
-*Bauglir* is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It is the opening track of their sixth full-length album, [Oath Bound](/wiki/Oath_Bound).
+*Bauglir* is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It is the opening track of their sixth full-length album, [Oath Bound](../O/Oath_Bound.md).
 
 ## Lyrics {#Lyrics}
 
-*"Sit now there, and look out upon the lands were evil and despair shall come upon those whom thou lovest. Thou hast dared to mock me, and to question the power of [Melkor](/wiki/Morgoth "Morgoth"), Master of the fates of [Arda](/wiki/Arda). Therefore with my eyes thou shalt see, and with my ears thou shalt hear and never shalt thou move from this place until all is fullfilled unto its bitter end."*
+*"Sit now there, and look out upon the lands were evil and despair shall come upon those whom thou lovest. Thou hast dared to mock me, and to question the power of [Melkor](../M/Morgoth.md), Master of the fates of [Arda](../A/Arda.md). Therefore with my eyes thou shalt see, and with my ears thou shalt hear and never shalt thou move from this place until all is fullfilled unto its bitter end."*

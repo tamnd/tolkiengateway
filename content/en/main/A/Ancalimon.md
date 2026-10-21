@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Ancalimon"
 ---
 
-Redirect to [Tar-Ancalimon](/wiki/Tar-Ancalimon).
+Redirect to [Tar-Ancalimon](../T/Tar-Ancalimon.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Arda issues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arda issues</span>"
 page_id: 25244
 namespace: 14
 revision_id: 115198

@@ -1,6 +1,5 @@
 ---
 title: "File:Goes Ever On Ballantines Hardcover.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Goes Ever On Ballantines Hardcover.jpeg</span>"
 page_id: 62097
 namespace: 6
 revision_id: 350072

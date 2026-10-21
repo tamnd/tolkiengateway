@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Brian Miller"
 ---
 
-Redirect to [Letter to Brian Miller](/wiki/Letter_to_Brian_Miller).
+Redirect to [Letter to Brian Miller](../L/Letter_to_Brian_Miller.md).

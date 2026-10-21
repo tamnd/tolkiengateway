@@ -1,6 +1,5 @@
 ---
 title: "Category:Other fictional worlds"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Other fictional worlds</span>"
 page_id: 35016
 namespace: 14
 revision_id: 406903
@@ -15,4 +14,4 @@ sort_keys:
   "Articles": " Other fictional worlds"
 ---
 
-This category and its subcategories list all **other fictional worlds** — "other" as in other than the [legendarium](/wiki/Legendarium "Legendarium") — from the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+This category and its subcategories list all **other fictional worlds** — "other" as in other than the [legendarium](../../main/L/Legendarium.md) — from the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

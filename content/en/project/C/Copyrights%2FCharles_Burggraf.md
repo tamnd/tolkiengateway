@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Charles Burggraf"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Charles Burggraf</span>"
 page_id: 39035
 namespace: 4
 revision_id: 193151
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Burggraf, Charles"
 ---
 
-- Charles Burggraf has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Charles_Burggraf "Category:Images by Charles Burggraf") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Charles Burggraf has kindly granted his permission to use [his artwork](../../category/I/Images_by_Charles_Burggraf.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 11 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

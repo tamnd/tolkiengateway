@@ -1,6 +1,5 @@
 ---
 title: "File:Álvaro Calvo Escudero - Devilry of Saruman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Álvaro Calvo Escudero - Devilry of Saruman.jpg</span>"
 page_id: 73865
 namespace: 6
 revision_id: 436563
@@ -38,25 +37,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Álvaro Calvo Escudero - Devilry of Saruman.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Fire_of_Orthanc" title="Fire of Orthanc">Devilry of Saruman</a>. Created for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Treason of Saruman</i>
+<p><a href="../../main/F/Fire_of_Orthanc.md" title="Fire of Orthanc">Devilry of Saruman</a>. Created for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Treason of Saruman</i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/23_April" title="23 April">23rd of April</a> <a href="/wiki/2015" title="2015">2015</a></td>
+<td><a href="../../main/_/23_April.md" title="23 April">23rd of April</a> <a href="../../main/_/2015.md" title="2015">2015</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=%C3%81lvaro_Calvo_Escudero&amp;action=edit&amp;redlink=1" title="Álvaro Calvo Escudero (page does not exist)">Álvaro Calvo Escudero</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%81lvaro_Calvo_Escudero&amp;action=edit&amp;redlink=1" title="Álvaro Calvo Escudero (page does not exist)">Álvaro Calvo Escudero</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hallofbeorn.com/LotR/Details/Devilry-of-Saruman-ToS?Lang=EN" rel="noreferrer noopener" target="_blank">https://hallofbeorn.com/LotR/Details/Devilry-of-Saruman-ToS?Lang=EN</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

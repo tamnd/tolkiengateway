@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Elf Statue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Elf Statue.png</span>"
 page_id: 73150
 namespace: 6
 revision_id: 432988
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dwalin the Dwarf](/wiki/Dwalin "Dwalin") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Dwalin the Dwarf](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor114/elf-statue-straight-hair-skirt" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

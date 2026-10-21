@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Membership Growth"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Membership Growth</span>"
 page_id: 30141
 namespace: 4
 revision_id: 347023
@@ -20,13 +19,13 @@ images:
   - "Average_New_Members_by_Month.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Growth_in_Membership.png"><img src="/w/images/thumb/0/08/Growth_in_Membership.png/250px-Growth_in_Membership.png" decoding="async" loading="lazy" width="250" height="153" class="mw-file-element" srcset="/w/images/thumb/0/08/Growth_in_Membership.png/375px-Growth_in_Membership.png 1.5x, /w/images/thumb/0/08/Growth_in_Membership.png/500px-Growth_in_Membership.png 2x" data-file-width="826" data-file-height="506"/></a><figcaption>Total growth in members</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Growth_in_Membership.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/Growth_in_Membership.png/250px-Growth_in_Membership.png" decoding="async" loading="lazy" width="250" height="153" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Growth_in_Membership.png/375px-Growth_in_Membership.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Growth_in_Membership.png/500px-Growth_in_Membership.png 2x" data-file-width="826" data-file-height="506"/></a><figcaption>Total growth in members</figcaption></figure>
 
-**Membership growth** information for [Tolkien Gateway](/wiki/Tolkien_Gateway).
+**Membership growth** information for [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 
 ## Statistics {#Statistics}
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:New_Members_by_Month.png"><img src="/w/images/thumb/3/3e/New_Members_by_Month.png/250px-New_Members_by_Month.png" decoding="async" loading="lazy" width="250" height="96" class="mw-file-element" srcset="/w/images/thumb/3/3e/New_Members_by_Month.png/375px-New_Members_by_Month.png 1.5x, /w/images/thumb/3/3e/New_Members_by_Month.png/500px-New_Members_by_Month.png 2x" data-file-width="954" data-file-height="365"/></a><figcaption>New members by month</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/New_Members_by_Month.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/New_Members_by_Month.png/250px-New_Members_by_Month.png" decoding="async" loading="lazy" width="250" height="96" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/New_Members_by_Month.png/375px-New_Members_by_Month.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/New_Members_by_Month.png/500px-New_Members_by_Month.png 2x" data-file-width="954" data-file-height="365"/></a><figcaption>New members by month</figcaption></figure>
 
 As of October 2026, Tolkien Gateway currently has a total of 10,515 users.
 
@@ -41,11 +40,11 @@ As of October 2026, Tolkien Gateway currently has a total of 10,515 users.
 <li>September 2012 (117)</li>
 <li>June 2015 (114)</li>
 <li>February 2016 (133)</li>
-<li>April 2011 (103)<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Comparative_by_Year.png"><img src="/w/images/thumb/7/7b/Comparative_by_Year.png/250px-Comparative_by_Year.png" decoding="async" loading="lazy" width="250" height="145" class="mw-file-element" srcset="/w/images/thumb/7/7b/Comparative_by_Year.png/375px-Comparative_by_Year.png 1.5x, /w/images/thumb/7/7b/Comparative_by_Year.png/500px-Comparative_by_Year.png 2x" data-file-width="843" data-file-height="490"/></a><figcaption>Yearly comparisons</figcaption></figure></li></ol>
+<li>April 2011 (103)<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Comparative_by_Year.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Comparative_by_Year.png/250px-Comparative_by_Year.png" decoding="async" loading="lazy" width="250" height="145" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Comparative_by_Year.png/375px-Comparative_by_Year.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Comparative_by_Year.png/500px-Comparative_by_Year.png 2x" data-file-width="843" data-file-height="490"/></a><figcaption>Yearly comparisons</figcaption></figure></li></ol>
 
 **Bottom Ten Months:**
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Average_New_Members_by_Month.png"><img src="/w/images/thumb/a/a2/Average_New_Members_by_Month.png/250px-Average_New_Members_by_Month.png" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="/w/images/thumb/a/a2/Average_New_Members_by_Month.png/375px-Average_New_Members_by_Month.png 1.5x, /w/images/thumb/a/a2/Average_New_Members_by_Month.png/500px-Average_New_Members_by_Month.png 2x" data-file-width="671" data-file-height="385"/></a><figcaption>Average monthly new members</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Average_New_Members_by_Month.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/250px-Average_New_Members_by_Month.png" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/375px-Average_New_Members_by_Month.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a2/Average_New_Members_by_Month.png/500px-Average_New_Members_by_Month.png 2x" data-file-width="671" data-file-height="385"/></a><figcaption>Average monthly new members</figcaption></figure>
 
 1. September 2006 (9)
 2. June 2006 (11)

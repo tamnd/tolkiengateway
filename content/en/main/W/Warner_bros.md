@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Warner Bros."
 ---
 
-Redirect to [Warner Bros.](/wiki/Warner_Bros.).
+Redirect to [Warner Bros.](Warner_Bros..md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (1955 radio series)"
 ---
 
-Redirect to [The Lord of the Rings (1955 radio series)](/wiki/The_Lord_of_the_Rings_(1955_radio_series)).
+Redirect to [The Lord of the Rings (1955 radio series)](<The_Lord_of_the_Rings_(1955_radio_series).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Diggle family"
 ---
 
-Redirect to [Diggle family](/wiki/Diggle_family).
+Redirect to [Diggle family](Diggle_family.md).

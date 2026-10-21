@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendur (disambiguation)"
 ---
 
-Redirect to [Elendur (disambiguation)](/wiki/Elendur_(disambiguation)).
+Redirect to [Elendur (disambiguation)](<Elendur_(disambiguation).md>).

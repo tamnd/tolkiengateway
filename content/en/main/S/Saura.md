@@ -13,26 +13,26 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>saura</b></i> is a [Quenya](/wiki/Quenya) word. There are least two different accounts of its meaning:
+<i><b>saura</b></i> is a [Quenya](../Q/Quenya.md) word. There are least two different accounts of its meaning:
 
-1. "foul, evil-smelling, putrid" (from [root](/wiki/Sundocarme "Sundocarme") [THUS](/wiki/THUS#Other_versions));<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "foul, vile" (from root [SAWA](/wiki/SAWA)).<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
-2. "cruel" (from root [THAW-](/wiki/THAW "THAW")).<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+1. "foul, evil-smelling, putrid" (from [root](Sundocarme.md) [THUS](../T/THUS.md#Other_versions));<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "foul, vile" (from root [SAWA](SAWA.md)).<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+2. "cruel" (from root [THAW-](../T/THAW.md)).<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Sauron](/wiki/Sauron#Etymology)*
+- *[Sauron](Sauron.md#Etymology)*
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[saur](/wiki/Saur "Saur")*
+- [Sindarin](Sindarin.md) *[saur](Saur.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 393 (entry THUS-)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 393 (entry THUS-)</span>
 </li>
-<li id="cite_note-PE17-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE17_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 183-4</span>
+<li id="cite_note-PE17-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE17_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 183-4</span>
 </li>
 </ol></div>

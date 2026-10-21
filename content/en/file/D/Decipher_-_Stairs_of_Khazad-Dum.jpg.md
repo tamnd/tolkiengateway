@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Stairs of Khazad-Dum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Stairs of Khazad-Dum.jpg</span>"
 page_id: 22575
 namespace: 6
 revision_id: 211683

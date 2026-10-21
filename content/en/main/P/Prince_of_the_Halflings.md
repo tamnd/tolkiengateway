@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ernil i Pheriannath"
 ---
 
-Redirect to [Ernil i Pheriannath](/wiki/Ernil_i_Pheriannath).
+Redirect to [Ernil i Pheriannath](../E/Ernil_i_Pheriannath.md).

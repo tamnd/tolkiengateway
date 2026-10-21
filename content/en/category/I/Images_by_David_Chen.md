@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by David Chen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by David Chen</span>"
 page_id: 72782
 namespace: 14
 revision_id: 431426
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Chen, David"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=David_Chen&amp;action=edit&amp;redlink=1" title="David Chen (page does not exist)">David Chen</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Chen&amp;action=edit&amp;redlink=1" title="David Chen (page does not exist)">David Chen</a></b>.

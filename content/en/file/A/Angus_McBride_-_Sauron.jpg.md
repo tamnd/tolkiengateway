@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Sauron.jpg</span>"
 page_id: 66618
 namespace: 6
 revision_id: 385484
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sauron](/wiki/Sauron) by [Angus McBride](/wiki/Angus_McBride), appearing in [Jessica Ney](/wiki/Jessica_M._Ney-Grimm "Jessica M. Ney-Grimm"), *[Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #8007, ed.; 1990) .
+[Sauron](../../main/S/Sauron.md) by [Angus McBride](../../main/A/Angus_McBride.md), appearing in [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8007, ed.; 1990) .
 
 ## Licensing {#Licensing}
 

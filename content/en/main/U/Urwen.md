@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lalaith"
 ---
 
-Redirect to [Lalaith](/wiki/Lalaith).
+Redirect to [Lalaith](../L/Lalaith.md).

@@ -13,35 +13,35 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>tinw</b></i> is a [Noldorin](/wiki/Noldorin) word meaning "spark, small [star](/wiki/Stars "Stars")".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>tinw</b></i> is a [Noldorin](../N/Noldorin.md) word meaning "spark, small [star](../S/Stars.md)".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[David Salo](/wiki/David_Salo) has suggested that the form *tinu* (retaining the same meaning) could be valid [Neo-Sindarin](/wiki/Neo-Elvish "Neo-Elvish").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[David Salo](../D/David_Salo.md) has suggested that the form *tinu* (retaining the same meaning) could be valid [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-- Root <a class="new" href="/w/index.php?title=TIN&amp;action=edit&amp;redlink=1" title="TIN (page does not exist)">TIN</a><sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- Root <a class="new" href="https://tolkiengateway.net/w/index.php?title=TIN&amp;action=edit&amp;redlink=1" title="TIN (page does not exist)">TIN</a><sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Synonyms {#Synonyms}
 
-- *[êl](/wiki/%C3%8Al "Êl")*
-- *[gíl](/wiki/G%C3%ADl "Gíl")*
+- *[êl](../_/Êl.md)*
+- *[gíl](../G/Gíl.md)*
 
 ## Examples {#Examples}
 
-- [Tindómiel](/wiki/Tind%C3%B3miel) - "Morning Star"
+- [Tindómiel](Tindómiel.md) - "Morning Star"
 
 ## See also {#See_also}
 
-- *[tinnu](/wiki/Tinnu "Tinnu")*
-- [Sindarin](/wiki/Sindarin) *[tîn](/wiki/T%C3%AEn#Noun "Tîn")*
+- *[tinnu](Tinnu.md)*
+- [Sindarin](../S/Sindarin.md) *[tîn](Tîn.md#Noun)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 393</span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 393</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/David_Salo" title="David Salo">David Salo</a> (<a href="/wiki/2004" title="2004">2004</a>), <i><a href="/wiki/A_Gateway_to_Sindarin" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, p. 332</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../D/David_Salo.md" title="David Salo">David Salo</a> (<a href="../_/2004.md" title="2004">2004</a>), <i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, p. 332</span>
 </li>
 </ol></div>

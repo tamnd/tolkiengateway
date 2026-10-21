@@ -1,6 +1,5 @@
 ---
 title: "Out of doubt, out of dark to the day’s rising"
-display_title: "<span class=\"mw-page-title-main\">Out of doubt, out of dark to the day’s rising</span>"
 page_id: 52820
 namespace: 0
 revision_id: 434080
@@ -19,20 +18,16 @@ images:
   - "Jarreau_Wimberly_-_The_Day's_Rising.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>poem composed by <a href="../_/Éomer.md" title="Éomer">Éomer</a></b>. For the the poem composed by <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a>, see <b><a href="Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md" title="Out of doubt, out of dark, to the day’s rising">Out of doubt, out of dark, to the day’s rising</a></b>.</div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>poem composed by <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a></b>. For the the poem composed by <a href="/wiki/Gl%C3%A9owine" title="Gléowine">Gléowine</a>, see <b><a href="/wiki/Out_of_doubt,_out_of_dark,_to_the_day%E2%80%99s_rising" title="Out of doubt, out of dark, to the day’s rising">Out of doubt, out of dark, to the day’s rising</a></b>.</div></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jarreau_Wimberly_-_The_Day&#39;s_Rising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg/300px-Jarreau_Wimberly_-_The_Day%27s_Rising.jpg" decoding="async" loading="lazy" width="300" height="245" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg 1.5x" data-file-width="352" data-file-height="287"/></a><figcaption>&#34;The Day&#39;s Rising&#34; by Jarreau Wimberly</figcaption></figure>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r398211"/>
+"**Out of doubt, out of dark, to the day's rising**" is a song and lament composed by [Éomer](../_/Éomer.md) during the [Battle of the Pelennor Fields](../B/Battle_of_the_Pelennor_Fields.md), in the face of impending defeat and death. It appears in the chapter "[The Battle of the Pelennor Fields](../T/The_Battle_of_the_Pelennor_Fields.md)".
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Jarreau_Wimberly_-_The_Day%27s_Rising.jpg"><img src="/w/images/thumb/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg/300px-Jarreau_Wimberly_-_The_Day%27s_Rising.jpg" decoding="async" loading="lazy" width="300" height="245" class="mw-file-element" srcset="/w/images/6/68/Jarreau_Wimberly_-_The_Day%27s_Rising.jpg 1.5x" data-file-width="352" data-file-height="287"/></a><figcaption>&#34;The Day&#39;s Rising&#34; by Jarreau Wimberly</figcaption></figure>
-
-"**Out of doubt, out of dark, to the day's rising**" is a song and lament composed by [Éomer](/wiki/%C3%89omer) during the [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields), in the face of impending defeat and death. It appears in the chapter "[The Battle of the Pelennor Fields](/wiki/The_Battle_of_the_Pelennor_Fields)".
-
-Later, [Gléowine](/wiki/Gl%C3%A9owine), minstrel of the [King's House](/wiki/Kings_of_Rohan "Kings of Rohan") of [Rohan](/wiki/Rohan) composed [a similar song](/wiki/Out_of_doubt,_out_of_dark,_to_the_day%E2%80%99s_rising "Out of doubt, out of dark, to the day’s rising") to mourn the passing of [Théoden](/wiki/Th%C3%A9oden).
+Later, [Gléowine](../G/Gléowine.md), minstrel of the [King's House](../K/Kings_of_Rohan.md) of [Rohan](../R/Rohan.md) composed [a similar song](Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md) to mourn the passing of [Théoden](../T/Théoden.md).
 
 ## Text {#Text}
 
@@ -46,13 +41,13 @@ Now for wrath, now for ruin and a red nightfall!<sup id="cite_ref-1" class="refe
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Battle_of_the_Pelennor_Fields" title="The Battle of the Pelennor Fields">The Battle of the Pelennor Fields</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Battle_of_the_Pelennor_Fields.md" title="The Battle of the Pelennor Fields">The Battle of the Pelennor Fields</a>&#34;</span>
 </li>
 </ol></div>

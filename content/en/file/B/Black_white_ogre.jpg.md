@@ -1,6 +1,5 @@
 ---
 title: "File:Black white ogre.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Black white ogre.jpg</span>"
 page_id: 25477
 namespace: 6
 revision_id: 213983

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael George Ramer"
 ---
 
-Redirect to [Michael George Ramer](/wiki/Michael_George_Ramer).
+Redirect to [Michael George Ramer](../M/Michael_George_Ramer.md).

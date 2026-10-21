@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin (Warden of the Keys)"
 ---
 
-Redirect to [Húrin (Warden of the Keys)](/wiki/Húrin_(Warden_of_the_Keys)).
+Redirect to [Húrin (Warden of the Keys)](<Húrin_(Warden_of_the_Keys).md>).

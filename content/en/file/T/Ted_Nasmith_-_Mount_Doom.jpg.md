@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Across Gorgoroth.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Across Gorgoroth.jpg](/wiki/File:Ted_Nasmith_-_Across_Gorgoroth.jpg).
+Redirect to [File:Ted Nasmith - Across Gorgoroth.jpg](Ted_Nasmith_-_Across_Gorgoroth.jpg.md).

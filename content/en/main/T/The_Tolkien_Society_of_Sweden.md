@@ -1,6 +1,5 @@
 ---
 title: "The Tolkien Society of Sweden"
-display_title: "<span class=\"mw-page-title-main\">The Tolkien Society of Sweden</span>"
 page_id: 27861
 namespace: 0
 revision_id: 116176
@@ -17,9 +16,9 @@ sort_keys:
   "Swedish organizations": "Tolkien Society of Sweden, The"
 ---
 
-**The Tolkien Society of Sweden** (original name in English) was the first Tolkien Society in Europe, founded in [1968](/wiki/1968) in <a class="extiw" href="http://en.wikipedia.org/wiki/Gothenburg" title="wikipedia:Gothenburg">Gothenburg</a>. At first only named "The Tolkien Society", "of Sweden" was added when [The Tolkien Society](/wiki/The_Tolkien_Society) was founded in the United Kingdom in 1969.
+**The Tolkien Society of Sweden** (original name in English) was the first Tolkien Society in Europe, founded in [1968](../_/1968.md) in <a class="extiw" href="http://en.wikipedia.org/wiki/Gothenburg" title="wikipedia:Gothenburg">Gothenburg</a>. At first only named "The Tolkien Society", "of Sweden" was added when [The Tolkien Society](The_Tolkien_Society.md) was founded in the United Kingdom in 1969.
 
-Although The Tolkien Society of Sweden no longer exists as such, several Tolkien Societies exist in Sweden today (see [Tolkien Societies](/wiki/Tolkien_Societies)).
+Although The Tolkien Society of Sweden no longer exists as such, several Tolkien Societies exist in Sweden today (see [Tolkien Societies](Tolkien_Societies~67099.md)).
 
 ## References {#References}
 

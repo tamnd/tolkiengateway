@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Shagrat.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Shagrat.jpg</span>"
 page_id: 62262
 namespace: 6
 revision_id: 351552

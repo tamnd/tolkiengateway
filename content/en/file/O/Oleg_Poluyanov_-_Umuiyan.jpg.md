@@ -1,6 +1,5 @@
 ---
 title: "File:Oleg Poluyanov - Umuiyan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oleg Poluyanov - Umuiyan.jpg</span>"
 page_id: 72068
 namespace: 6
 revision_id: 428804
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Detail of "[Luthien and Prince of Cats Tevildo](/wiki/File:Oleg_Poluyanov_-_Luthien_and_Prince_of_Cats_Tevildo.jpg "File:Oleg Poluyanov - Luthien and Prince of Cats Tevildo.jpg")" by [Oleg Poluyanov](/wiki/Category:Images_by_Oleg_Poluyanov "Category:Images by Oleg Poluyanov"), depicting [Umuiyan](/wiki/Umuiyan)
+Detail of "[Luthien and Prince of Cats Tevildo](Oleg_Poluyanov_-_Luthien_and_Prince_of_Cats_Tevildo.jpg.md)" by [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md), depicting [Umuiyan](../../main/U/Umuiyan.md)
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Detail of "[Luthien and Prince of Cats Tevildo](/wiki/File:Oleg_Poluyanov_-_Luth
 </p>
 <ul><li><b>Name:</b> Oleg Poluyanov</li>
 <li><b>Website:</b> <a class="external text" href="https://oleg_poluyanov.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Oleg_Poluyanov" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOleg_Poluyanov.md" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>

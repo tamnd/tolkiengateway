@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Rough Guide to The Lord of the Rings"
 ---
 
-Redirect to [The Rough Guide to The Lord of the Rings](/wiki/The_Rough_Guide_to_The_Lord_of_the_Rings).
+Redirect to [The Rough Guide to The Lord of the Rings](The_Rough_Guide_to_The_Lord_of_the_Rings.md).

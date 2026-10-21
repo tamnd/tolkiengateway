@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings Trading Card Game"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game</span>"
 page_id: 3779
 namespace: 0
 revision_id: 435471
@@ -31,31 +30,25 @@ infobox:
     value: "2 or more"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
 <p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Master_of_Lake-town" title="Master of Lake-town">Master of Lake-town</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+</blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/The_Lord_of_the_Rings_(disambiguation)" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Trading Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="../M/Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a>, Chuck Kallenbach II, Tom Lischke, and Joe Alread</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2 or more</td></tr></tbody></table>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Trading Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data"><a href="/wiki/Mike_Reynolds" title="Mike Reynolds">Mike Reynolds</a>, Chuck Kallenbach II, Tom Lischke, and Joe Alread</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Decipher" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="/wiki/2001" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2 or more</td></tr></tbody></table>
-
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**The Lord of the Rings Trading Card Game** (also known as **LOTR TCG** or simply **Decipher Cards**) is a collectible card game produced by [Decipher](/wiki/Decipher). Released November of [2001](/wiki/2001), it is based on both [the book](/wiki/The_Lord_of_the_Rings "The Lord of the Rings") and [movies](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). Decipher also had the rights to *[The Hobbit](/wiki/The_Hobbit)* but has not released any cards based on it. In addition to images taken from the films, in [2004](/wiki/2004) [Weta Workshop](/wiki/Weta_Workshop) produced artwork depicting characters and items from the novel absent from the films for use on cards.
+**The Lord of the Rings Trading Card Game** (also known as **LOTR TCG** or simply **Decipher Cards**) is a collectible card game produced by [Decipher](../D/Decipher.md). Released November of [2001](../_/2001.md), it is based on both [the book](The_Lord_of_the_Rings.md) and [movies](<The_Lord_of_the_Rings_(film_series).md>). Decipher also had the rights to *[The Hobbit](The_Hobbit.md)* but has not released any cards based on it. In addition to images taken from the films, in [2004](../_/2004.md) [Weta Workshop](../W/Weta_Workshop.md) produced artwork depicting characters and items from the novel absent from the films for use on cards.
 
 The game also had an online version that maintained identical gameplay as well as a market economy. However, since the game's print run has ended, sales for online cards have been stopped and the servers were closed in June 2010.
 
-In [2002](/wiki/2002), the trading card game won the Origins Awards for *Best Trading Card Game of 2001* and *Best Graphic Presentation of a Card Game 2001*.
+In [2002](../_/2002.md), the trading card game won the Origins Awards for *Best Trading Card Game of 2001* and *Best Graphic Presentation of a Card Game 2001*.
 
 ## Game concept {#Game_concept}
 
-*The Lord of the Rings Trading Card Game* is a game for two or more players, each of whom uses their own deck consisting of equal numbers of *Free Peoples* and *Shadow* cards, with a minimum of 30 of each. On a player's turn they are considered to be the Free Peoples player and their [Fellowship](/wiki/Fellowship_of_the_Ring "Fellowship of the Ring") and Free Peoples cards both in their Support Area and on their characters are *active*. A player uses his Free Peoples cards to attempt to traverse the site-path and destroy [the One Ring](/wiki/The_One_Ring "The One Ring") by reaching the ninth site. Each of his or her opponents, the Shadow Players, use their Shadow cards to prevent this by attempting to kill or corrupt the ring-bearer, or by forcing the Fellowship to slow down long enough for their Fellowship to race to victory. At the end of each turn the position of Free Peoples player rotates to the next player in turn. The game is won by the first Free Peoples player to survive to the ninth, and final, site or the last player whose Fellowship is left alive or when you corrupt the opposing fellowships ring-bearer.
+*The Lord of the Rings Trading Card Game* is a game for two or more players, each of whom uses their own deck consisting of equal numbers of *Free Peoples* and *Shadow* cards, with a minimum of 30 of each. On a player's turn they are considered to be the Free Peoples player and their [Fellowship](../F/Fellowship_of_the_Ring.md) and Free Peoples cards both in their Support Area and on their characters are *active*. A player uses his Free Peoples cards to attempt to traverse the site-path and destroy [the One Ring](The_One_Ring.md) by reaching the ninth site. Each of his or her opponents, the Shadow Players, use their Shadow cards to prevent this by attempting to kill or corrupt the ring-bearer, or by forcing the Fellowship to slow down long enough for their Fellowship to race to victory. At the end of each turn the position of Free Peoples player rotates to the next player in turn. The game is won by the first Free Peoples player to survive to the ninth, and final, site or the last player whose Fellowship is left alive or when you corrupt the opposing fellowships ring-bearer.
 
 An innovative mechanic called the *twilight pool* is used as a costing mechanism for cards. Each card has a numerical cost (which can be zero). When the Free Peoples player plays a card, tokens are added to the twilight pool equal to the cost of that card. The Shadow players, however, remove twilight tokens equal to the twilight cost of their cards in order to play their cards. Thus the more powerful cards the Fellowship the Free Peoples player plays, the greater the threat from the Shadow players.
 
@@ -105,7 +98,7 @@ For the first three years the game's releases followed the movies. A 365 *base s
 
 Cards were sold in eleven card booster packs consisting of one rare, three uncommon and seven common cards. In approximately one in six packs a common was replaced by a foiled version of a random card from that set. Each set also had two sixty-three card starter decks containing two copies of a promotional face card, three random rares and sixty fixed commons/uncommons (sets 5 and 6 had sixty card starters with three alternate image rares in place of the random rares).
 
-Between the two expansions of [The Return of the King](/wiki/The_Return_of_the_King) block an extra set, Reflections, was released. This consisted of 52 new cards, all foiled, half of which were designated rare plus and half rare. The new cards took material from all three films and material produced by Weta specifically for the game and did not belong to any block. Reflections boosters contained two of the new cards (with one R+ every 2.4 packs) and sixteen repackaged random cards from the first six sets. One of these old cards was always non-English.
+Between the two expansions of [The Return of the King](The_Return_of_the_King.md) block an extra set, Reflections, was released. This consisted of 52 new cards, all foiled, half of which were designated rare plus and half rare. The new cards took material from all three films and material produced by Weta specifically for the game and did not belong to any block. Reflections boosters contained two of the new cards (with one R+ every 2.4 packs) and sixteen repackaged random cards from the first six sets. One of these old cards was always non-English.
 
 ### Shadows and beyond {#Shadows_and_beyond}
 
@@ -119,23 +112,23 @@ The seven month delay of the *The Hunters* expansion release (from November 2005
 
 To date nineteen sets have been released (were two dates are listed, the first date refers to starter decks and the second to booster packs):
 
-1. "[The Fellowship of the Ring"](</wiki/The_Fellowship_of_the_Ring_(Decipher)> "The Fellowship of the Ring (Decipher)") ([November 6](/wiki/6_November "6 November"), [2001](/wiki/2001))
-2. "Mines of Moria" ([March 6](/wiki/6_March "6 March"), [2002](/wiki/2002))
-3. "Realms of the Elf-lords" ([June 19](/wiki/19_June "19 June") &amp; [July 3](/wiki/3_July "3 July"), [2002](/wiki/2002))
-4. "The Two Towers" ([November 6](/wiki/6_November "6 November"), [2002](/wiki/2002))
-5. "Battle of Helm's Deep" ([March 12](/wiki/12_March "12 March"), [2003](/wiki/2003))
-6. "Ents of Fangorn" ([July 2](/wiki/2_July "2 July"), [2003](/wiki/2003))
-7. "The Return of the King" ([November 5](/wiki/5_November "5 November"), [2003](/wiki/2003))
-8. "Siege of Gondor" ([March 10](/wiki/10_March "10 March"), [2004](/wiki/2004))
-9. "Reflections" ([May 12](/wiki/12_May "12 May"), [2004](/wiki/2004))
-10. "Mount Doom" ([July 14](/wiki/14_July "14 July"), [2004](/wiki/2004))
-11. "Shadows" ([November 3](/wiki/3_November "3 November"), [2004](/wiki/2004))
-12. "Black Rider" ([March 18](/wiki/18_March "18 March"), [2005](/wiki/2005))
-13. "Bloodlines" (September [2005](/wiki/2005))
-14. "The Hunters" (November [2005](/wiki/2005))
-15. "Rise of Saruman" (March [2006](/wiki/2006))
-16. "Treachery and Deceit" (15 June [2007](/wiki/2007))
-17. "Age's End" (22 June [2007](/wiki/2007))
+1. "[The Fellowship of the Ring"](<The_Fellowship_of_the_Ring_(Decipher).md>) ([November 6](../_/6_November.md), [2001](../_/2001.md))
+2. "Mines of Moria" ([March 6](../_/6_March.md), [2002](../_/2002.md))
+3. "Realms of the Elf-lords" ([June 19](../_/19_June.md) &amp; [July 3](../_/3_July.md), [2002](../_/2002.md))
+4. "The Two Towers" ([November 6](../_/6_November.md), [2002](../_/2002.md))
+5. "Battle of Helm's Deep" ([March 12](../_/12_March.md), [2003](../_/2003.md))
+6. "Ents of Fangorn" ([July 2](../_/2_July.md), [2003](../_/2003.md))
+7. "The Return of the King" ([November 5](../_/5_November.md), [2003](../_/2003.md))
+8. "Siege of Gondor" ([March 10](../_/10_March.md), [2004](../_/2004.md))
+9. "Reflections" ([May 12](../_/12_May.md), [2004](../_/2004.md))
+10. "Mount Doom" ([July 14](../_/14_July.md), [2004](../_/2004.md))
+11. "Shadows" ([November 3](../_/3_November.md), [2004](../_/2004.md))
+12. "Black Rider" ([March 18](../_/18_March.md), [2005](../_/2005.md))
+13. "Bloodlines" (September [2005](../_/2005.md))
+14. "The Hunters" (November [2005](../_/2005.md))
+15. "Rise of Saruman" (March [2006](../_/2006.md))
+16. "Treachery and Deceit" (15 June [2007](../_/2007.md))
+17. "Age's End" (22 June [2007](../_/2007.md))
 
 Decipher Inc., dropped the following two expansions from their release schedule:
 
@@ -144,11 +137,11 @@ Decipher Inc., dropped the following two expansions from their release schedule:
 
 In addition a number of boutique products have been released:
 
-- "The Fellowship of the Ring Anthology" ([July 23](/wiki/23_July "23 July"), [2003](/wiki/2003))
-- "The Countdown Collection" ([August 25](/wiki/25_August "25 August") - [December 22](/wiki/22_December "22 December"), [2003](/wiki/2003))
-- "The Two Towers Anthology" ([February 25](/wiki/25_February "25 February"), [2004](/wiki/2004))
-- "The Weta Collection" ([July 23](/wiki/23_July "23 July") - [August 20](/wiki/20_August "20 August"), [2004](/wiki/2004))
-- "The Return of the King Anthology" (September [2004](/wiki/2004))
+- "The Fellowship of the Ring Anthology" ([July 23](../_/23_July.md), [2003](../_/2003.md))
+- "The Countdown Collection" ([August 25](../_/25_August.md) - [December 22](../_/22_December.md), [2003](../_/2003.md))
+- "The Two Towers Anthology" ([February 25](../_/25_February.md), [2004](../_/2004.md))
+- "The Weta Collection" ([July 23](../_/23_July.md) - [August 20](../_/20_August.md), [2004](../_/2004.md))
+- "The Return of the King Anthology" (September [2004](../_/2004.md))
 
 ## Lord of the Rings Online TCG {#Lord_of_the_Rings_Online_TCG}
 
@@ -217,36 +210,36 @@ There has been much of a debate as to the legitimacy of the 2007 World Champions
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="/wiki/1995" title="1995">1995</a>-<a href="/wiki/1998" title="1998">1998</a>) • <i><b><a class="mw-selflink selflink">Lord of the Rings TCG</a></b></i> (<a href="/wiki/2001" title="2001">2001</a>-<a href="/wiki/2007" title="2007">2007</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a class="mw-selflink selflink">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="../M/Magic%253A_The_Gathering.md" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>) • <i><b><a href="/wiki/Magic:_The_Gathering_-_The_Hobbit" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="/wiki/2011" title="2011">2011</a>-<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="/wiki/2022" title="2022">2022</a> digital)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings_Tarot" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="/wiki/1997" title="1997">1997</a>) • <i><b><a href="/wiki/The_Hobbit_Card_Game" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>) • <i><b><a href="/wiki/War_of_the_Ring:_The_Card_Game" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="/wiki/2022" title="2022">2022</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Duel_for_Middle-earth" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)
 </td></tr>
 </tbody></table>

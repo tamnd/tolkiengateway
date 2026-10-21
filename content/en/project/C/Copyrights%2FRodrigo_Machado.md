@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Rodrigo Machado"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Rodrigo Machado</span>"
 page_id: 62340
 namespace: 4
 revision_id: 352242
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Machado, Rodrigo"
 ---
 
-- [Rodrigo Machado](/wiki/Rodrigo_Machado) has kindly granted their permission to use [his artwork](/wiki/Category:Images_by_Rodrigo_Machado "Category:Images by Rodrigo Machado") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Rodrigo Machado](../../main/R/Rodrigo_Machado.md) has kindly granted their permission to use [his artwork](../../category/I/Images_by_Rodrigo_Machado.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 August 2022
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

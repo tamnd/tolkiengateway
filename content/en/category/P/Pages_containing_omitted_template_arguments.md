@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages containing omitted template arguments"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages containing omitted template arguments</span>"
 page_id: 69213
 namespace: 14
 revision_id: 413573

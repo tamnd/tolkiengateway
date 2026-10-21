@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Nature of Tom Bombadil"
 ---
 
-Redirect to [The Nature of Tom Bombadil](/wiki/The_Nature_of_Tom_Bombadil).
+Redirect to [The Nature of Tom Bombadil](The_Nature_of_Tom_Bombadil.md).

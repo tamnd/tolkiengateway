@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Regions"
 ---
 
-Redirect to [Category:Regions](/wiki/Category:Regions).
+Redirect to [Category:Regions](../../category/R/Regions.md).

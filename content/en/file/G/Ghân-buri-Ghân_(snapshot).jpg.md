@@ -1,6 +1,5 @@
 ---
 title: "File:Ghân-buri-Ghân (snapshot).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ghân-buri-Ghân (snapshot).jpg</span>"
 page_id: 28868
 namespace: 6
 revision_id: 427681

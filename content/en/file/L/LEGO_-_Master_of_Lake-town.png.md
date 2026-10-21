@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Master of Lake-town.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Master of Lake-town.png</span>"
 page_id: 73172
 namespace: 6
 revision_id: 433017
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Master of Lake-town](/wiki/Master_of_Lake-town) - [LEGO](/wiki/Lego "Lego") minifigure
+[Master of Lake-town](../../main/M/Master_of_Lake-town.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

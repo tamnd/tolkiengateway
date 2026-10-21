@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Angle map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Angle map.jpg</span>"
 page_id: 61964
 namespace: 6
 revision_id: 413870
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Angle](/wiki/Angle) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [Angle](../../main/A/Angle.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

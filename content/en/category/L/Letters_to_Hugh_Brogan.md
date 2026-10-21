@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Hugh Brogan"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Hugh Brogan</span>"
 page_id: 66667
 namespace: 14
 revision_id: 386068
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Brogan, Hugh"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a>.

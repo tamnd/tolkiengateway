@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith Evening-Star"
 ---
 
-Redirect to [Minas Tirith Evening-Star](/wiki/Minas_Tirith_Evening-Star).
+Redirect to [Minas Tirith Evening-Star](Minas_Tirith_Evening-Star.md).

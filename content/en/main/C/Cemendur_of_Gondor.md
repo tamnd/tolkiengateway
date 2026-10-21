@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cemendur (King of Gondor)"
 ---
 
-Redirect to [Cemendur (King of Gondor)](/wiki/Cemendur_(King_of_Gondor)).
+Redirect to [Cemendur (King of Gondor)](<Cemendur_(King_of_Gondor).md>).

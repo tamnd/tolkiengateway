@@ -1,6 +1,5 @@
 ---
 title: "File:Rodrigo Machado - Thorin Oakenshield.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rodrigo Machado - Thorin Oakenshield.png</span>"
 page_id: 62339
 namespace: 6
 revision_id: 351934
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Rodrigo Machado</li>
 <li><b>Website:</b> <a class="external free" href="https://roguedrigo.artstation.com" rel="noreferrer noopener" target="_blank">https://roguedrigo.artstation.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Rodrigo_Machado" title="Tolkien Gateway:Copyrights/Rodrigo Machado">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRodrigo_Machado.md" title="Tolkien Gateway:Copyrights/Rodrigo Machado">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Melkor and Finrod at the chess table.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Melkor and Finrod at the chess table.jpg</span>"
 page_id: 71721
 namespace: 6
 revision_id: 427446
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Melkor](/wiki/Morgoth "Morgoth") and [Finrod](/wiki/Finrod) at the chess table*", by [Elena Kukanova](/wiki/Elena_Kukanova)
+"*[Melkor](../../main/M/Morgoth.md) and [Finrod](../../main/F/Finrod.md) at the chess table*", by [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s DeviantArt page</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

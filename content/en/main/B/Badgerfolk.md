@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Badger-folk"
 ---
 
-Redirect to [Badger-folk](/wiki/Badger-folk).
+Redirect to [Badger-folk](Badger-folk.md).

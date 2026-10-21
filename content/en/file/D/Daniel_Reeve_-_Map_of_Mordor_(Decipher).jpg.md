@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Reeve - Map of Mordor (Decipher).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Reeve - Map of Mordor (Decipher).jpg</span>"
 page_id: 73053
 namespace: 6
 revision_id: 432541

@@ -1,6 +1,5 @@
 ---
 title: "Forodrim"
-display_title: "<span class=\"mw-page-title-main\">Forodrim</span>"
 page_id: 4736
 namespace: 0
 revision_id: 416495
@@ -16,18 +15,18 @@ images:
   - "Heraldic_device_of_Forodrim.gif"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Heraldic_device_of_Forodrim.gif"><img src="/w/images/thumb/f/fb/Heraldic_device_of_Forodrim.gif/300px-Heraldic_device_of_Forodrim.gif" decoding="async" loading="lazy" width="300" height="359" class="mw-file-element" srcset="/w/images/f/fb/Heraldic_device_of_Forodrim.gif 1.5x" data-file-width="334" data-file-height="400"/></a><figcaption>Heraldic device of Forodrim</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heraldic_device_of_Forodrim.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Heraldic_device_of_Forodrim.gif/300px-Heraldic_device_of_Forodrim.gif" decoding="async" loading="lazy" width="300" height="359" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/Heraldic_device_of_Forodrim.gif 1.5x" data-file-width="334" data-file-height="400"/></a><figcaption>Heraldic device of Forodrim</figcaption></figure>
 
-**Tolkiensällskapet Forodrim** (**The Tolkien Society Forodrim**) was founded in Sweden in [1972](/wiki/1972) and is one of the oldest [Tolkien fan organizations](/wiki/Tolkien_fandom "Tolkien fandom").
+**Tolkiensällskapet Forodrim** (**The Tolkien Society Forodrim**) was founded in Sweden in [1972](../_/1972.md) and is one of the oldest [Tolkien fan organizations](../T/Tolkien_fandom.md).
 
-The Society has an especially active group interested in [Tolkienian linguistics](/wiki/Languages#Elvish_scholarship "Languages"), *Mellonath Daeron*. The Forodrim also supported the publication of *[Arda](</wiki/Arda_(annual)> "Arda (annual)")*.
+The Society has an especially active group interested in [Tolkienian linguistics](../L/Languages.md#Elvish_scholarship), *Mellonath Daeron*. The Forodrim also supported the publication of *[Arda](<../A/Arda_(annual).md>)*.
 
-*Forodrim* is [Sindarin](/wiki/Sindarin) for "People of the North".
+*Forodrim* is [Sindarin](../S/Sindarin.md) for "People of the North".
 
 ## Members of Note {#Members_of_Note}
 
-- [Anders Stenström (a.k.a. Beregond)](/wiki/Anders_Stenstrom "Anders Stenstrom")
-- [Åke Bertenstam](/wiki/%C3%85ke_Bertenstam).
+- [Anders Stenström (a.k.a. Beregond)](../A/Anders_Stenstrom.md)
+- [Åke Bertenstam](../_/Åke_Bertenstam.md).
 
 ## Costumes &amp; Hierarchy &amp; Heraldry {#Costumes_&_Hierarchy_&_Heraldry}
 
@@ -44,14 +43,14 @@ Forodrim has a number of guilds focused on different interests of the members. N
 
 ## Chapters {#Chapters}
 
-[Cerin Erain](/wiki/Cerin_Erain) is the Uppsala chapter of Forodrim.
+[Cerin Erain](../C/Cerin_Erain.md) is the Uppsala chapter of Forodrim.
 
 Tol Nimfalas is a chapter of Forodrim located in England.
 
 ## Publications {#Publications}
 
 - *Medlemsbladet*
-- *[Palantiren](/wiki/Palantiren)* (now discontinued)
+- *[Palantiren](../P/Palantiren.md)* (now discontinued)
 
 ## External links {#External_links}
 

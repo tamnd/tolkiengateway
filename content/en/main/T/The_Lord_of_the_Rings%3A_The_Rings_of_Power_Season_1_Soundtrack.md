@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"
 ---
 
-Redirect to [The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_(Season_One:_Amazon_Original_Series_Soundtrack)).
+Redirect to [The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>).

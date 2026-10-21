@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narrows of the Forest"
 ---
 
-Redirect to [Narrows of the Forest](/wiki/Narrows_of_the_Forest).
+Redirect to [Narrows of the Forest](Narrows_of_the_Forest.md).

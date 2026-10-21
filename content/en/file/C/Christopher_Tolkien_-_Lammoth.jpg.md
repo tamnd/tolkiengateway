@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Lammoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Lammoth.jpg</span>"
 page_id: 56250
 namespace: 6
 revision_id: 306043
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Lammoth](/wiki/Lammoth), [Ered Lómin](/wiki/Ered_L%C3%B3min) and [Drengist](/wiki/Drengist), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg>).
+Map of [Lammoth](../../main/L/Lammoth.md), [Ered Lómin](../../main/E/Ered_Lómin.md) and [Drengist](../../main/D/Drengist.md), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>).
 
 ## Licensing {#Licensing}
 

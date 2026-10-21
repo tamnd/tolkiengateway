@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Tales of Middle-earth"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Tales of Middle-earth</span>"
 page_id: 69942
 namespace: 14
 revision_id: 415559
@@ -15,4 +14,4 @@ sort_keys:
   "Images of Magic: The Gathering": "Tales"
 ---
 
-Images used in the [Magic: The Gathering](/wiki/Magic:_The_Gathering) expansion [The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth). This includes full card images as well as cropped art.
+Images used in the [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md) expansion [The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md). This includes full card images as well as cropped art.

@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The War of the Rohirrim characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The War of the Rohirrim characters</span>"
 page_id: 70835
 namespace: 14
 revision_id: 427735
@@ -16,4 +15,4 @@ sort_keys:
   "The Lord of the Rings: The War of the Rohirrim": "Characters"
 ---
 
-<dl><dd><i>This category contains all original characters from</i> <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></b></i>.</dd></dl>
+<dl><dd><i>This category contains all original characters from</i> <i><b><a href="../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The Lord of the Rings: The War of the Rohirrim</a></b></i>.</dd></dl>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Writings by J.R.R. Tolkien"
 ---
 
-Redirect to [Index:Writings by J.R.R. Tolkien](/wiki/Index:Writings_by_J.R.R._Tolkien).
+Redirect to [Index:Writings by J.R.R. Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md).

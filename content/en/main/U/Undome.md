@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Undómë"
 ---
 
-Redirect to [Undómë](/wiki/Undómë).
+Redirect to [Undómë](Undómë.md).

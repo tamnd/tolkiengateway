@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calmacil (King of Gondor)"
 ---
 
-Redirect to [Calmacil (King of Gondor)](/wiki/Calmacil_(King_of_Gondor)).
+Redirect to [Calmacil (King of Gondor)](<Calmacil_(King_of_Gondor).md>).

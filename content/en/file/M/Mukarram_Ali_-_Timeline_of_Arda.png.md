@@ -1,6 +1,5 @@
 ---
 title: "File:Mukarram Ali - Timeline of Arda.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mukarram Ali - Timeline of Arda.png</span>"
 page_id: 65595
 namespace: 6
 revision_id: 377754
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mukarram Ali</li>
 <li><b>Website:</b> <a class="external text" href="https://www.genealogyandchronology.com/" rel="noreferrer noopener" target="_blank">Mukarram Ali&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mukarram_Ali" title="Tolkien Gateway:Copyrights/Mukarram Ali">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMukarram_Ali.md" title="Tolkien Gateway:Copyrights/Mukarram Ali">Permission for use on Tolkien Gateway</a></b></li></ul></div>

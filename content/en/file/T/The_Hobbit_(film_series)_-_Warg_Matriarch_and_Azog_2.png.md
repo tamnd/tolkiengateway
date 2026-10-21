@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Warg Matriarch and Azog 2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Warg Matriarch and Azog 2.png</span>"
 page_id: 68940
 namespace: 6
 revision_id: 439588
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-An image depicting the [Warg Matriarch](/wiki/Warg_Matriarch) being ridden by [Azog](/wiki/Azog) in [*The Hobbit* film series](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)").
+An image depicting the [Warg Matriarch](../../main/W/Warg_Matriarch.md) being ridden by [Azog](../../main/A/Azog.md) in [*The Hobbit* film series](<../../main/T/The_Hobbit_(film_series).md>).
 
 ## Licensing {#Licensing}
 

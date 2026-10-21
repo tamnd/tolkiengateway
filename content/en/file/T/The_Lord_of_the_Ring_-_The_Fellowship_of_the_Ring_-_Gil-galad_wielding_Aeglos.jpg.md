@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Ring - The Fellowship of the Ring - Gil-galad wielding Aeglos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Ring - The Fellowship of the Ring - Gil-galad wielding Aeglos.jpg</span>"
 page_id: 8128
 namespace: 6
 revision_id: 431923

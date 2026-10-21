@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (Lord of Dor-lómin)"
 ---
 
-Redirect to [Galdor (Lord of Dor-lómin)](/wiki/Galdor_(Lord_of_Dor-lómin)).
+Redirect to [Galdor (Lord of Dor-lómin)](<../G/Galdor_(Lord_of_Dor-lómin).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mukarram Ali"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mukarram Ali</span>"
 page_id: 65594
 namespace: 4
 revision_id: 377750
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ali, Mukarram"
 ---
 
-- Mukarram Ali has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Mukarram_Ali "Category:Images by Mukarram Ali") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Mukarram Ali has kindly granted his permission to use [his artwork](../../category/I/Images_by_Mukarram_Ali.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 July 2023
-- User who sought the permission via email: [Ar-Zigûr](/wiki/User:Ar-Zig%C3%BBr "User:Ar-Zigûr")
+- User who sought the permission via email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr)

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Belladonna Took.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Belladonna Took.png</span>"
 page_id: 30375
 namespace: 6
 revision_id: 260330
@@ -25,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-[Belladonna Took](/wiki/Belladonna_Took) above [Bag End](/wiki/Bag_End)'s fireplace.
+[Belladonna Took](../../main/B/Belladonna_Took.md) above [Bag End](../../main/B/Bag_End.md)'s fireplace.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.newline.com/" rel="noreferrer noopener" target="_blank">New Line Cinema</a>, a subsidiary of <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros. Entertainment</a>. It is believed that the limited use of this file,

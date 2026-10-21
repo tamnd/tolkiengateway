@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bunce family"
 ---
 
-Redirect to [Bunce family](/wiki/Bunce_family).
+Redirect to [Bunce family](Bunce_family.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow Folk"
 ---
 
-Redirect to [Shadow Folk](/wiki/Shadow_Folk).
+Redirect to [Shadow Folk](../S/Shadow_Folk.md).

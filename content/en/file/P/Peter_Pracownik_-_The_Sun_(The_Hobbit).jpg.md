@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - The Sun (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - The Sun (The Hobbit).jpg</span>"
 page_id: 73331
 namespace: 6
 revision_id: 433761
@@ -33,25 +32,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - The Sun (The Hobbit).jpg</span></th>
 <td class="description">
-&#34;The Sun&#34; from <i><a href="/wiki/The_Hobbit_Tarot" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p>The road of life leads each of us through
-our respective Wilderlands. We see <a href="/wiki/Mirkwood" title="Mirkwood">Mirkwood</a> in the distance. The forest is where <a href="/wiki/Thorin_and_Company" title="Thorin and Company">our Companions</a> receive their initiations, teachings, and new skills; where they all become heroes of a sort, by confronting their fears and limitations. On the surface, everything looks so peaceful and welcoming. But we must be ready for the challenges and contradictions that life may throw at us as we move along the road that is our life journey!</p></blockquote>
+&#34;The Sun&#34; from <i><a href="../../main/T/The_Hobbit_Tarot.md" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p>The road of life leads each of us through
+our respective Wilderlands. We see <a href="../../main/M/Mirkwood.md" title="Mirkwood">Mirkwood</a> in the distance. The forest is where <a href="../../main/T/Thorin_and_Company.md" title="Thorin and Company">our Companions</a> receive their initiations, teachings, and new skills; where they all become heroes of a sort, by confronting their fears and limitations. On the surface, everything looks so peaceful and welcoming. But we must be ready for the challenges and contradictions that life may throw at us as we move along the road that is our life journey!</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2012</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20131014212403/http://www.peterpracownik.com/pages/sun.htm" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20131014212403/http://www.peterpracownik.com/pages/sun.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

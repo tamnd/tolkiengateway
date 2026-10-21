@@ -1,6 +1,5 @@
 ---
 title: "File:Gimli - Polystone Statue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gimli - Polystone Statue.png</span>"
 page_id: 38824
 namespace: 6
 revision_id: 191443

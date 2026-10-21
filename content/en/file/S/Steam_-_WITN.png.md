@@ -1,6 +1,5 @@
 ---
 title: "File:Steam - WITN.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Steam - WITN.png</span>"
 page_id: 37546
 namespace: 6
 revision_id: 180208
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North) on <a class="extiw" href="http://en.wikipedia.org/wiki/Steam_(software)" title="wikipedia:Steam (software)">Steam</a>.
+[The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md) on <a class="extiw" href="http://en.wikipedia.org/wiki/Steam_(software)" title="wikipedia:Steam (software)">Steam</a>.
 
 ## Licensing {#Licensing}
 

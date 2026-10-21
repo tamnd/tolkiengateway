@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Sauron.png</span>"
 page_id: 40534
 namespace: 6
 revision_id: 425752

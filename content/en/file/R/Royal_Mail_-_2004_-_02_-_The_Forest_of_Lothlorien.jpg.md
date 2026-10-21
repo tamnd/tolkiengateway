@@ -1,6 +1,5 @@
 ---
 title: "File:Royal Mail - 2004 - 02 - The Forest of Lothlorien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Royal Mail - 2004 - 02 - The Forest of Lothlorien.jpg</span>"
 page_id: 13322
 namespace: 6
 revision_id: 220548

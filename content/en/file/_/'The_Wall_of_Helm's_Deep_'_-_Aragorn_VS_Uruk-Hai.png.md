@@ -1,6 +1,5 @@
 ---
 title: "File:'The Wall of Helm's Deep ' - Aragorn VS Uruk-Hai.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">&#039;The Wall of Helm&#039;s Deep &#039; - Aragorn VS Uruk-Hai.png</span>"
 page_id: 38851
 namespace: 6
 revision_id: 191426

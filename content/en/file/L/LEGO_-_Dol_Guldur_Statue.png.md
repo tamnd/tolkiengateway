@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Dol Guldur Statue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Dol Guldur Statue.png</span>"
 page_id: 73147
 namespace: 6
 revision_id: 432982
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dol Guldur](/wiki/Dol_Guldur) Statue - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.ebay.com.au/itm/173998281054?srsltid=AfmBOorw2xcu_1qSvaNHPu3MHODngb7DlhLZYrC2qWLtzcKTt6dkFDMu" rel="noreferrer noopener" target="_blank">brickohaulic</a>
+[Dol Guldur](../../main/D/Dol_Guldur.md) Statue - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.ebay.com.au/itm/173998281054?srsltid=AfmBOorw2xcu_1qSvaNHPu3MHODngb7DlhLZYrC2qWLtzcKTt6dkFDMu" rel="noreferrer noopener" target="_blank">brickohaulic</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Rodney Matthews 2003 Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rodney Matthews 2003 Calendar.jpg</span>"
 page_id: 6774
 namespace: 6
 revision_id: 215488

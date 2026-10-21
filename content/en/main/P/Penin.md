@@ -13,17 +13,17 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>penin</b></i> is a [Quenya](/wiki/Quenya) word meaning "no" or "I haven't".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>penin</b></i> is a [Quenya](../Q/Quenya.md) word meaning "no" or "I haven't".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [PEN](/wiki/PEN)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) [PEN](PEN~34927.md)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 173</span>
+<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 173</span>
 </li>
 </ol></div>

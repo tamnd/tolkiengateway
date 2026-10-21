@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fastred (disambiguation)"
 ---
 
-Redirect to [Fastred (disambiguation)](/wiki/Fastred_(disambiguation)).
+Redirect to [Fastred (disambiguation)](<Fastred_(disambiguation).md>).

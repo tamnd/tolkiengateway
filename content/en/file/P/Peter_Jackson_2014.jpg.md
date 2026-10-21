@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Jackson 2014.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Jackson 2014.jpg</span>"
 page_id: 71459
 namespace: 6
 revision_id: 426093

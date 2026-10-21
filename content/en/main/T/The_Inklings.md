@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inklings"
 ---
 
-Redirect to [Inklings](/wiki/Inklings).
+Redirect to [Inklings](../I/Inklings.md).

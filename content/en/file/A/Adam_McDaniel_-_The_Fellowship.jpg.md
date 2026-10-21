@@ -1,6 +1,5 @@
 ---
 title: "File:Adam McDaniel - The Fellowship.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Adam McDaniel - The Fellowship.jpg</span>"
 page_id: 14651
 namespace: 6
 revision_id: 206751
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Adam McDaniel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.adammcdaniel.com/" rel="noreferrer noopener" target="_blank">Adam McDaniel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Adam_McDaniel" title="Tolkien Gateway:Copyrights/Adam McDaniel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAdam_McDaniel.md" title="Tolkien Gateway:Copyrights/Adam McDaniel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

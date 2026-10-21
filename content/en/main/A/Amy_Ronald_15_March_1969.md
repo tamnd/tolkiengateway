@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Amy Ronald (15 March 1969)"
 ---
 
-Redirect to [Letter to Amy Ronald (15 March 1969)](/wiki/Letter_to_Amy_Ronald_(15_March_1969)).
+Redirect to [Letter to Amy Ronald (15 March 1969)](<../L/Letter_to_Amy_Ronald_(15_March_1969).md>).

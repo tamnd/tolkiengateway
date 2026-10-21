@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wētā Workshop"
 ---
 
-Redirect to [Wētā Workshop](/wiki/Wētā_Workshop).
+Redirect to [Wētā Workshop](Wētā_Workshop.md).

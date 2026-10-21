@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Háma"
 ---
 
-Redirect to [Háma](/wiki/Háma).
+Redirect to [Háma](Háma.md).

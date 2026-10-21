@@ -1,6 +1,5 @@
 ---
 title: "Starlings"
-display_title: "<span class=\"mw-page-title-main\">Starlings</span>"
 page_id: 59211
 namespace: 0
 revision_id: 328423
@@ -18,19 +17,19 @@ langlinks:
     url: "https://kontu.wiki/Kottarainen"
 ---
 
-**Starlings** was one of the many species of birds found in [Middle-earth](/wiki/Middle-earth). After [Smaug](/wiki/Smaug)'s death many birds were gathering around [Erebor](/wiki/Erebor). [Thorin](/wiki/Thorin) saw among them "starlings and flocks of [finches](/wiki/Finches "Finches")".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Starlings** was one of the many species of birds found in [Middle-earth](../M/Middle-earth.md). After [Smaug](Smaug.md)'s death many birds were gathering around [Erebor](../E/Erebor.md). [Thorin](../T/Thorin.md) saw among them "starlings and flocks of [finches](../F/Finches.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Tom Bombadil](/wiki/Tom_Bombadil) mentions starlings in his song *[Hey dol! merry dol! ring a dong dillo!](/wiki/Hey_dol!_merry_dol!_ring_a_dong_dillo!)* in the [Old Forest](/wiki/Old_Forest): "*Light goes the weather-wind and the feathered starling.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He himself is compared to a starling when he enters the room in his house where the [hobbits](/wiki/Hobbits "Hobbits") had been sleeping: "Tom was moving about the room whistling like a starling."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Tom Bombadil](../T/Tom_Bombadil.md) mentions starlings in his song *[Hey dol! merry dol! ring a dong dillo!](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md)* in the [Old Forest](../O/Old_Forest.md): "*Light goes the weather-wind and the feathered starling.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He himself is compared to a starling when he enters the room in his house where the [hobbits](../H/Hobbits.md) had been sleeping: "Tom was moving about the room whistling like a starling."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/The_Gathering_of_the_Clouds" title="The Gathering of the Clouds">The Gathering of the Clouds</a>&#34;.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../T/The_Gathering_of_the_Clouds.md" title="The Gathering of the Clouds">The Gathering of the Clouds</a>&#34;.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Old_Forest" title="The Old Forest">The Old Forest</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/In_the_House_of_Tom_Bombadil" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../I/In_the_House_of_Tom_Bombadil.md" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;.</span>
 </li>
 </ol></div>

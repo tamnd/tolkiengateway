@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2003) Balfor Baruk-Khazâd.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2003) Balfor Baruk-Khazâd.jpg</span>"
 page_id: 19430
 namespace: 6
 revision_id: 396924
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Dwarf](/wiki/Dwarves "Dwarves") [Balfor](/wiki/Balfor) shouting his take on the [Dwarvish battle-cry](/wiki/Baruk_Khaz%C3%A2d!_Khaz%C3%A2d_ai-m%C3%AAnu! "Baruk Khazâd! Khazâd ai-mênu!"), in the [2003](/wiki/2003) game *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*.
+The [Dwarf](../../main/D/Dwarves.md) [Balfor](../../main/B/Balfor.md) shouting his take on the [Dwarvish battle-cry](../../main/B/Baruk_Khazâd!_Khazâd_ai-mênu!.md), in the [2003](../../main/_/2003.md) game *[The Hobbit](<../../main/T/The_Hobbit_(2003_video_game).md>)*.
 
 ## Licensing {#Licensing}
 

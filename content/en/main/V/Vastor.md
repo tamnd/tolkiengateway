@@ -11,4 +11,4 @@ redirect_target: "Nornorë"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Nornorë](/wiki/Nornorë#Etymology).
+Redirect to [Nornorë](../N/Nornorë.md#Etymology).

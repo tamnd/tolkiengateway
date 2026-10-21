@@ -1,6 +1,5 @@
 ---
 title: "File:The First 'Silmarillion' Map - Airyyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The First &#039;Silmarillion&#039; Map - Airyyn.png</span>"
 page_id: 70430
 namespace: 6
 revision_id: 424763

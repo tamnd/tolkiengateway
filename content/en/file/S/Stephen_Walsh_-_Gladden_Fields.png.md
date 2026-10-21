@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Gladden Fields.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Gladden Fields.png</span>"
 page_id: 74398
 namespace: 6
 revision_id: 438541
@@ -38,27 +37,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Gladden Fields.png</span></th>
 <td class="description">
-<p><i><a href="/wiki/Gladden_Fields" title="Gladden Fields">Gladden Fields</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/StephenGraWalsh/status/1152920472918679552" rel="noreferrer noopener" target="_blank">https://x.com/StephenGraWalsh/status/1152920472918679552</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -77,4 +73,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

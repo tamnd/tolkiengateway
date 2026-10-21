@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien, Race, and Racism in Middle-earth.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien, Race, and Racism in Middle-earth.webp</span>"
 page_id: 69940
 namespace: 6
 revision_id: 415524
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Tolkien, Race, and Racism in Middle-earth](/wiki/Tolkien,_Race,_and_Racism_in_Middle-earth)* by Robert Stuart, published by Palgrave Macmillan.
+Cover of *[Tolkien, Race, and Racism in Middle-earth](../../main/T/Tolkien,_Race,_and_Racism_in_Middle-earth.md)* by Robert Stuart, published by Palgrave Macmillan.
 
 Cover illustration: © AF archive / Alamy Stock Photo<br> Cover image caption: Peter Jackson’s envisaging of Tolkien’s ‘uruks, black orcs of great strength’
 

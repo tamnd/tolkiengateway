@@ -1,6 +1,5 @@
 ---
 title: "Tansoft"
-display_title: "<span class=\"mw-page-title-main\">Tansoft</span>"
 page_id: 25507
 namespace: 0
 revision_id: 121133
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Tansoft** was the distributor of the text-adventure *[The Hobbit](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)")* in Europe.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tansoft** was the distributor of the text-adventure *[The Hobbit](<The_Hobbit_(1982_video_game).md>)* in Europe.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

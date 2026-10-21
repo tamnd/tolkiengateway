@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nandini"
 ---
 
-Redirect to [Nandini](/wiki/Nandini).
+Redirect to [Nandini](Nandini.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Brother of Haldir.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Brother of Haldir.jpeg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Orophin_-_Brother_of_Haldir.jpeg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Brother of Haldir.jpeg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Orophin_-_Brother_of_Haldir.jpeg.md).

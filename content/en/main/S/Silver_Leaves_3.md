@@ -15,11 +15,11 @@ sort_keys:
   "Silver Leaves": "03"
 ---
 
-<b><i>Silver Leaves</i> 3</b> ("Tolkien and Fantasy Art &amp; Artists") is the third issue of *[Silver Leaves](/wiki/Silver_Leaves)*, the journal of [The White Tree Fund](/wiki/The_White_Tree_Fund), published [2010](/wiki/2010).
+<b><i>Silver Leaves</i> 3</b> ("Tolkien and Fantasy Art &amp; Artists") is the third issue of *[Silver Leaves](Silver_Leaves.md)*, the journal of [The White Tree Fund](../T/The_White_Tree_Fund.md), published [2010](../_/2010.md).
 
 ## Contents {#Contents}
 
-- [Ted Nasmith](/wiki/Ted_Nasmith): "Inspired by J.R.R. Tolkien"
+- [Ted Nasmith](../T/Ted_Nasmith.md): "Inspired by J.R.R. Tolkien"
 - P.R. Miller: "Paint! Draw! Sketch!"
 - Lewie Nerino: "Pictures from the Perilous Realm: Tolkien as an Artist"
 - Jonathon D. Svendsen: "A Power of Myth"
@@ -28,18 +28,18 @@ sort_keys:
 - Anne Marie Gazzolo: "Footprints on the Heart"
 - P.R. Miller: "The Gift of Art"
 - Jessica Moritz: "Tolkien Reading Day 2010"
-- [Kristine Larsen](/wiki/Kristine_Larsen): "Silmaril or Simulacrum? Simulations of the Heavens in Middle-Earth"
+- [Kristine Larsen](../K/Kristine_Larsen.md): "Silmaril or Simulacrum? Simulations of the Heavens in Middle-Earth"
 - The Old Maid of Toon Zone: "Abstract of "Arda of the Hobbits""
-- [Tom Shippey](/wiki/Tom_Shippey): "J.R.R. Tolkien: *The Legend of Sigurd and Gudrún*"
+- [Tom Shippey](../T/Tom_Shippey.md): "J.R.R. Tolkien: *The Legend of Sigurd and Gudrún*"
 - Anthony Wilkens: "Equating Tolkien to Plato"
-- <a class="new" href="/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "At Rivendell"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "At Rivendell"
 - Missy M. McClure: "Visionary Hues"
 - James G. Shoopman: "Tolkien's Composite Christ"
-- [Jef Murray](/wiki/Jef_Murray): "October Country"
-- [Brian Sibley](/wiki/Brian_Sibley): "More than Just the Margins: An appreciation of [Pauline Baynes](/wiki/Pauline_Baynes) (1922-2008)"
-- L. Lara Sookoo: "A Unique Vision: Silver Leaves Interview with [Tim Kirk](/wiki/Tim_Kirk)"
-- Alexa Chipman: "Interview with [Anke Eissmann](/wiki/Anke_Eissmann)"
-- <a class="new" href="/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Reflections From A Far Green Country"
+- [Jef Murray](../J/Jef_Murray.md): "October Country"
+- [Brian Sibley](../B/Brian_Sibley.md): "More than Just the Margins: An appreciation of [Pauline Baynes](../P/Pauline_Baynes.md) (1922-2008)"
+- L. Lara Sookoo: "A Unique Vision: Silver Leaves Interview with [Tim Kirk](../T/Tim_Kirk.md)"
+- Alexa Chipman: "Interview with [Anke Eissmann](../A/Anke_Eissmann.md)"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Reflections From A Far Green Country"
 - P.R. Miller: "Breaths"
 - Julie S. Dobbins: "A Lesson in Perspective"
 - Alicia Angst: "The King Has Returned"
@@ -49,19 +49,19 @@ sort_keys:
 - Constane G.J.: "Arresting Strangeness: Fantasy Fulfilled in *The Lord of the Rings* on Stage"
 - Anne Marie Gazzolo: "Hope"
 - Kathryn E. Darden: "When *Lord of the Rings* Fans Attack: Can fans turn into orcs?"
-- [Tom Shippey](/wiki/Tom_Shippey): "*The Hobbit* in Frisian"
+- [Tom Shippey](../T/Tom_Shippey.md): "*The Hobbit* in Frisian"
 - Kerri-Anne Cundill-Hinds: "White Shores are Calling"
 - Christina Drikes: "*The Fellowship of the Ring* Concert (with film) Review"
 - John Adcox: "*The Lord of the Rings Online*: Falling into a Story"
 - Kathryn E. Darden: "The Hunt for Gollum"
 - The Old Maid of Toon Zone: "Tolkien and Shore Together in Concert"
-- Art by [Pauline Baynes](/wiki/Pauline_Baynes), Daisy Brambletoes, Catherine Chmiel-Gugulska, John Dickerson, Julie S. Dobbins, Colleen Doran, Eaneli, [Anke Eissmann](/wiki/Anke_Eissmann), Kovalevskaya Ekaterina, Chloe Giordano, Nayla Ibraghimova, [Tim Kirk](/wiki/Tim_Kirk), Virginia Lee, Gerda Marz, Hyatt Moore, [Jef Murray](/wiki/Jef_Murray), [Ted Nasmith](/wiki/Ted_Nasmith), James Orman, Mya Popova, Cassandra Stevens, L. Lara Sookoo, and <a class="new" href="/w/index.php?title=David_Wyatt&amp;action=edit&amp;redlink=1" title="David Wyatt (page does not exist)">David Wyatt</a>.
+- Art by [Pauline Baynes](../P/Pauline_Baynes.md), Daisy Brambletoes, Catherine Chmiel-Gugulska, John Dickerson, Julie S. Dobbins, Colleen Doran, Eaneli, [Anke Eissmann](../A/Anke_Eissmann.md), Kovalevskaya Ekaterina, Chloe Giordano, Nayla Ibraghimova, [Tim Kirk](../T/Tim_Kirk.md), Virginia Lee, Gerda Marz, Hyatt Moore, [Jef Murray](../J/Jef_Murray.md), [Ted Nasmith](../T/Ted_Nasmith.md), James Orman, Mya Popova, Cassandra Stevens, L. Lara Sookoo, and <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Wyatt&amp;action=edit&amp;redlink=1" title="David Wyatt (page does not exist)">David Wyatt</a>.
 
 ## See also {#See_also}
 
-- *[Silver Leaves](/wiki/Silver_Leaves)*
-- [List of *Silver Leaves* issues](/wiki/Category:Silver_Leaves "Category:Silver Leaves")
-- [The White Tree Fund](/wiki/The_White_Tree_Fund)
+- *[Silver Leaves](Silver_Leaves.md)*
+- [List of *Silver Leaves* issues](../../category/S/Silver_Leaves.md)
+- [The White Tree Fund](../T/The_White_Tree_Fund.md)
 
 ## External links {#External_links}
 

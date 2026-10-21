@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Conflicts of the First Age"
 ---
 
-Redirect to [Category:Conflicts of the First Age](/wiki/Category:Conflicts_of_the_First_Age).
+Redirect to [Category:Conflicts of the First Age](Conflicts_of_the_First_Age.md).

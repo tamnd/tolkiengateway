@@ -1,6 +1,5 @@
 ---
 title: "File:The History of The Hobbit - Mr. Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The History of The Hobbit - Mr. Baggins.jpg</span>"
 page_id: 12556
 namespace: 6
 revision_id: 214636

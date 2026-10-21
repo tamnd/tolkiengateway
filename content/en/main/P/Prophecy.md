@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Oaths and prophecies"
 ---
 
-Redirect to [Category:Oaths and prophecies](/wiki/Category:Oaths_and_prophecies).
+Redirect to [Category:Oaths and prophecies](../../category/O/Oaths_and_prophecies.md).

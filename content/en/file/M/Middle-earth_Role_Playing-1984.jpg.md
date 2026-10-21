@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Role Playing-1984.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing-1984.jpg</span>"
 page_id: 70799
 namespace: 6
 revision_id: 422958

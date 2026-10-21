@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Stanley Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Stanley Unwin</span>"
 page_id: 57170
 namespace: 14
 revision_id: 386939

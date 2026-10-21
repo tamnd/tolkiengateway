@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Annatar and the Seven Rings.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Annatar and the Seven Rings.png</span>"
 page_id: 30712
 namespace: 6
 revision_id: 433690
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Annatar](/wiki/Annatar) and the [Seven Rings](/wiki/Seven_Rings). Art by [Liz Danforth](/wiki/Liz_Danforth), from [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Moria (2nd edition)](</wiki/Moria_(1994_book)> "Moria (1994 book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2011, 1994) .
+[Annatar](../../main/A/Annatar.md) and the [Seven Rings](../../main/S/Seven_Rings.md). Art by [Liz Danforth](../../main/L/Liz_Danforth.md), from [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994) .
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Noldorin adjectives"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Noldorin adjectives</span>"
 page_id: 34517
 namespace: 14
 revision_id: 219807

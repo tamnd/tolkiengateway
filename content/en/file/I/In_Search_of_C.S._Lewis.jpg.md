@@ -1,6 +1,5 @@
 ---
 title: "File:In Search of C.S. Lewis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">In Search of C.S. Lewis.jpg</span>"
 page_id: 53436
 namespace: 6
 revision_id: 290694

@@ -1,6 +1,5 @@
 ---
 title: "File:2004 Seasons of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">2004 Seasons of Middle-earth.jpg</span>"
 page_id: 6784
 namespace: 6
 revision_id: 215440

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Halbrand in Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Halbrand in Mordor.jpg</span>"
 page_id: 63518
 namespace: 6
 revision_id: 412210
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Halbrand](/wiki/Halbrand) having already revealed himself as [Sauron](/wiki/Sauron) in [Mordor](/wiki/Mordor) in episode "[Alloyed](/wiki/Alloyed)" of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series.
+[Halbrand](../../main/H/Halbrand.md) having already revealed himself as [Sauron](../../main/S/Sauron.md) in [Mordor](../../main/M/Mordor.md) in episode "[Alloyed](../../main/A/Alloyed.md)" of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.
 
 ## Licensing {#Licensing}
 

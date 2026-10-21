@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drengist"
 ---
 
-Redirect to [Drengist](/wiki/Drengist).
+Redirect to [Drengist](../D/Drengist.md).

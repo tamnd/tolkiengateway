@@ -1,6 +1,5 @@
 ---
 title: "John Church"
-display_title: "<span class=\"mw-page-title-main\">John Church</span>"
 page_id: 19213
 namespace: 0
 revision_id: 115778
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Church, John"
 ---
 
-**John Church** voiced the part of [Gaffer Gamgee](/wiki/Gaffer_Gamgee) in [*The Lord of the Rings* 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcast on the BBC, and [Old Man Willow](/wiki/Old_Man_Willow) in the episode "The Adventures of Tom Bombadil" of the [1992 *Tales from the Perilous Realm* radio series](</wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)> "Tales from the Perilous Realm (1992 radio series)").
+**John Church** voiced the part of [Gaffer Gamgee](../G/Gaffer_Gamgee.md) in [*The Lord of the Rings* 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcast on the BBC, and [Old Man Willow](../O/Old_Man_Willow.md) in the episode "The Adventures of Tom Bombadil" of the [1992 *Tales from the Perilous Realm* radio series](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## External links {#External_links}
 

@@ -16,10 +16,10 @@ images:
   - "The_J.R.R._Tolkien_Desk_Calendar_1980.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_J.R.R._Tolkien_Desk_Calendar_1980.jpg"><img src="/w/images/0/03/The_J.R.R._Tolkien_Desk_Calendar_1980.jpg" decoding="async" loading="lazy" width="231" height="216" class="mw-file-element" data-file-width="231" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Desk_Calendar_1980.jpg.md"><img src="https://tolkiengateway.net/w/images/0/03/The_J.R.R._Tolkien_Desk_Calendar_1980.jpg" decoding="async" loading="lazy" width="231" height="216" class="mw-file-element" data-file-width="231" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**The J.R.R. Tolkien Desk Calendar 1980** was published by [Ballantine Books](/wiki/Ballantine_Books) with illustrations by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt)
+**The J.R.R. Tolkien Desk Calendar 1980** was published by [Ballantine Books](../B/Ballantine_Books.md) with illustrations by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md)
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345285344">ISBN 0-345-28534-4</a>-695
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345285344">ISBN 0-345-28534-4</a>-695
 - Dimensions: 9 x 8.5 inches
 - White plastic comb-bound

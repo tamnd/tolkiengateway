@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - South Downs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - South Downs.jpg</span>"
 page_id: 63674
 namespace: 6
 revision_id: 366729
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [South Downs](/wiki/South_Downs) as they appear in [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online).
+The [South Downs](../../main/S/South_Downs.md) as they appear in [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md).
 
 ## Licensing {#Licensing}
 

@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Secrets of The Hobbit"
 ---
 
-<i><b>Secrets of The Hobbit</b></i> is a podcast hosted by Fr. Roderick and Dave Kale where they discuss the forthcoming [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)").
+<i><b>Secrets of The Hobbit</b></i> is a podcast hosted by Fr. Roderick and Dave Kale where they discuss the forthcoming [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>).
 
 ## External links {#External_links}
 

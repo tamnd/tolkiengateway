@@ -1,6 +1,5 @@
 ---
 title: "File:JackLowden.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JackLowden.webp</span>"
 page_id: 71526
 namespace: 6
 revision_id: 428147

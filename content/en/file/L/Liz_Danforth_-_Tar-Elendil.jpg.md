@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Tar-Elendil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Tar-Elendil.jpg</span>"
 page_id: 50945
 namespace: 6
 revision_id: 276550

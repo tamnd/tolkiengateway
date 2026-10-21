@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Michele Mantoani"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Michele Mantoani</span>"
 page_id: 68317
 namespace: 4
 revision_id: 401909
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mantoani, Michele"
 ---
 
-- Michele Mantoani has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Michele_Mantoani "Category:Images by Michele Mantoani") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Michele Mantoani has kindly granted permission to use [their artwork](../../category/I/Images_by_Michele_Mantoani.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: July 12th, 2024
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

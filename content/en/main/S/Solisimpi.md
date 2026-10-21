@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Solosimpi"
 ---
 
-Redirect to [Solosimpi](/wiki/Solosimpi).
+Redirect to [Solosimpi](Solosimpi.md).

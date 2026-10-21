@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jeremy Edmonds"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jeremy Edmonds</span>"
 page_id: 53727
 namespace: 4
 revision_id: 292075
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Edmons, Jeremy"
 ---
 
-- Permission granted by copyright holder Jeremy Edmonds to use his photo "[20 November 1954 Newsweek cartoon.jpg](/wiki/File:20_November_1954_Newsweek_cartoon.jpg "File:20 November 1954 Newsweek cartoon.jpg")" on Tolkien Gateway.
+- Permission granted by copyright holder Jeremy Edmonds to use his photo "[20 November 1954 Newsweek cartoon.jpg](../../file/_/20_November_1954_Newsweek_cartoon.jpg.md)" on Tolkien Gateway.
 - Date: 18 February 2017
-- User who sought the permission via private message (at Facebook): [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via private message (at Facebook): [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

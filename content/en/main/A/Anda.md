@@ -13,19 +13,19 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>anda</b></i> means 'long' in [Quenya](/wiki/Quenya).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>anda</b></i> means 'long' in [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") [ÁNAD](/wiki/%C3%81NAD).
+[Root](../S/Sundocarmë.md) [ÁNAD](../_/ÁNAD.md).
 
 ## Examples {#Examples}
 
-- *[andamacil](/wiki/Andamacil "Andamacil")*
+- *[andamacil](Andamacil.md)*
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[and](/wiki/And "And")*
+- [Sindarin](../S/Sindarin.md) *[and](And.md)*
 
 ## Obsolete forms {#Obsolete_forms}
 
@@ -33,15 +33,15 @@ The *Qenya Lexicon* has the forms *ande*, *andea* ("long").<sup id="cite_ref-2" 
 
 ## See also {#See_also}
 
-- *[andave](/wiki/Andave "Andave")*
+- *[andave](Andave.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="../P/Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>)</span>
 </li>
 </ol></div>

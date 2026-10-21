@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Pauline Baynes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Pauline Baynes</span>"
 page_id: 67459
 namespace: 14
 revision_id: 391837
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Baynes, Pauline"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Pauline Baynes](/wiki/Pauline_Baynes).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Pauline Baynes](../../main/P/Pauline_Baynes.md).

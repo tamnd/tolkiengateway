@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Katharine Farrer"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Katharine Farrer</span>"
 page_id: 66972
 namespace: 14
 revision_id: 388317
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Farrer, Katharine"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Katharine Farrer](/wiki/Katharine_Farrer).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Katharine Farrer](../../main/K/Katharine_Farrer.md).

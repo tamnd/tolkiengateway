@@ -1,6 +1,5 @@
 ---
 title: "File:From Peterborough to Faëry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">From Peterborough to Faëry.jpg</span>"
 page_id: 67038
 namespace: 6
 revision_id: 388946
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[From Peterborough to Faëry](/wiki/From_Peterborough_to_Fa%C3%ABry)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). Cover illustration (with Peterborough Cathedral) by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[From Peterborough to Faëry](../../main/F/From_Peterborough_to_Faëry.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). Cover illustration (with Peterborough Cathedral) by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Aia María"
-display_title: "<span class=\"mw-page-title-main\">Aia María</span>"
 page_id: 49957
 namespace: 0
 revision_id: 416067
@@ -22,14 +21,13 @@ images:
   - "J.R.R._Tolkien_-_Aia_María.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png"><img src="/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/400px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png" decoding="async" loading="lazy" width="400" height="97" class="mw-file-element" srcset="/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/600px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 1.5x, /w/images/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 2x" data-file-width="740" data-file-height="179"/></a><figcaption>Tolkien&#39;s manuscript of the final version, <i>Aia María IV</i></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Aia_María.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/400px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png" decoding="async" loading="lazy" width="400" height="97" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png/600px-J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 1.5x, https://tolkiengateway.net/w/images/6/68/J.R.R._Tolkien_-_Aia_Mar%C3%ADa.png 2x" data-file-width="740" data-file-height="179"/></a><figcaption>Tolkien&#39;s manuscript of the final version, <i>Aia María IV</i></figcaption></figure>
 
-**Aia María** ("Ave Maria" in [Quenya](/wiki/Quenya)) is [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s Quenya translation of the <a class="extiw" href="http://en.wikipedia.org/wiki/Ave_Maria" title="wikipedia:Ave Maria">Ave Maria</a>, a traditional [Roman Catholic](/wiki/Christianity "Christianity") prayer to the [Virgin Mary](/wiki/Virgin_Mary). Different versions of the prayer were published in [*Vinyar Tengwar*, Number 43](/wiki/Vinyar_Tengwar_43 "Vinyar Tengwar 43"), January 2002, edited by [Patrick H. Wynne](/wiki/Patrick_H._Wynne), [Arden R. Smith](/wiki/Arden_R._Smith), and [Carl F. Hostetter](/wiki/Carl_F._Hostetter).
+**Aia María** ("Ave Maria" in [Quenya](../Q/Quenya.md)) is [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s Quenya translation of the <a class="extiw" href="http://en.wikipedia.org/wiki/Ave_Maria" title="wikipedia:Ave Maria">Ave Maria</a>, a traditional [Roman Catholic](../C/Christianity.md) prayer to the [Virgin Mary](../V/Virgin_Mary.md). Different versions of the prayer were published in [*Vinyar Tengwar*, Number 43](../V/Vinyar_Tengwar_43.md), January 2002, edited by [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](Arden_R._Smith.md), and [Carl F. Hostetter](../C/Carl_F._Hostetter.md).
 
 ## Final version of the Prayer {#Final_version_of_the_Prayer}
 
 <table style="margin-bottom: 10px;">
-<!-- -->
 <tbody><tr>
 <td>
 <dl><dd><i>Aia María quanta Eruanno,</i></dd>
@@ -54,10 +52,10 @@ images:
 
 ## See also {#See_also}
 
-- [Ortírielyanna](/wiki/Ort%C3%ADrielyanna)
-- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+- [Ortírielyanna](../O/Ortírielyanna.md)
+- [Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/aiamaria.html" rel="noreferrer noopener" target="_blank">Text, translation and audio</a> at [Glǽmscrafu](/wiki/Gl%C7%BDmscrafu)
+- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/aiamaria.html" rel="noreferrer noopener" target="_blank">Text, translation and audio</a> at [Glǽmscrafu](../G/Glǽmscrafu.md)
 - <a class="external text" href="http://www.elvish.org/gwaith/andries/andriesmaria.jpg" rel="noreferrer noopener" target="_blank">Calligraphy of the poem</a> by Daniel Andriës

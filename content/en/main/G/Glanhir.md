@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mering Stream"
 ---
 
-Redirect to [Mering Stream](/wiki/Mering_Stream).
+Redirect to [Mering Stream](../M/Mering_Stream.md).

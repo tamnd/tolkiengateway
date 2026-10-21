@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion"
 ---
 
-Redirect to [Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion](/wiki/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion).
+Redirect to [Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion](Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion.md).

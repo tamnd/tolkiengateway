@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Bree-Land map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Bree-Land map.jpg</span>"
 page_id: 39170
 namespace: 6
 revision_id: 362760
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Bree-land](/wiki/Bree-land) from *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [Bree-land](../../main/B/Bree-land.md) from *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

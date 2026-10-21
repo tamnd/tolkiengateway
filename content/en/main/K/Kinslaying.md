@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kinslaying (disambiguation)"
 ---
 
-Redirect to [Kinslaying (disambiguation)](/wiki/Kinslaying_(disambiguation)).
+Redirect to [Kinslaying (disambiguation)](<Kinslaying_(disambiguation).md>).

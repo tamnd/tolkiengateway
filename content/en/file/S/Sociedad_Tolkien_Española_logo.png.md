@@ -1,6 +1,5 @@
 ---
 title: "File:Sociedad Tolkien Española logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sociedad Tolkien Española logo.png</span>"
 page_id: 56203
 namespace: 6
 revision_id: 306640
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Current logo of the [Sociedad Tolkien Española](/wiki/Sociedad_Tolkien_Espa%C3%B1ola)
+Current logo of the [Sociedad Tolkien Española](../../main/S/Sociedad_Tolkien_Española.md)
 
 ## Licensing {#Licensing}
 

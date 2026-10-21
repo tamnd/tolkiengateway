@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cambridge"
 ---
 
-Redirect to [Cambridge](/wiki/Cambridge).
+Redirect to [Cambridge](../C/Cambridge.md).

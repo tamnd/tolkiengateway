@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Ori.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Ori.jpg</span>"
 page_id: 41400
 namespace: 6
 revision_id: 418613

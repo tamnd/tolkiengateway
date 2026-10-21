@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prisoners of Gravity"
 ---
 
-Redirect to [Prisoners of Gravity](/wiki/Prisoners_of_Gravity).
+Redirect to [Prisoners of Gravity](Prisoners_of_Gravity.md).

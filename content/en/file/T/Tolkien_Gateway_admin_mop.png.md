@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Gateway admin mop.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Gateway admin mop.png</span>"
 page_id: 75115
 namespace: 6
 revision_id: 442449
@@ -35,7 +34,7 @@ Created from Tolkien Gateway Logo and PD mop.
 This file is derived from
 
 <ul><li>Tolkien Gateway Logo</li>
-<li><figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mop.png"><img src="/w/images/thumb/f/f5/Mop.png/45px-Mop.png" decoding="async" loading="lazy" width="45" height="49" class="mw-file-element" srcset="/w/images/thumb/f/f5/Mop.png/68px-Mop.png 1.5x, /w/images/thumb/f/f5/Mop.png/90px-Mop.png 2x" data-file-width="117" data-file-height="128"/></a><figcaption></figcaption></figure><a href="/wiki/File:Mop.png" title="File:Mop.png">File:Mop.png</a></li></ul>
+<li><figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../M/Mop.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Mop.png/45px-Mop.png" decoding="async" loading="lazy" width="45" height="49" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Mop.png/68px-Mop.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/Mop.png/90px-Mop.png 2x" data-file-width="117" data-file-height="128"/></a><figcaption></figcaption></figure><a href="../M/Mop.png.md" title="File:Mop.png">File:Mop.png</a></li></ul>
 
 ## Licensing {#Licensing}
 

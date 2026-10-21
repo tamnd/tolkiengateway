@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angamaitë"
 ---
 
-Redirect to [Angamaitë](/wiki/Angamaitë).
+Redirect to [Angamaitë](Angamaitë.md).

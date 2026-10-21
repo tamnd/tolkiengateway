@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sir Gawain and the Green Knight, Pearl, and Sir Orfeo"
 ---
 
-Redirect to [Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](/wiki/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo).
+Redirect to [Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md).

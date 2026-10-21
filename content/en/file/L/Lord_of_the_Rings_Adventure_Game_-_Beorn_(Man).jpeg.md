@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Beorn (Man).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Beorn (Man).jpeg</span>"
 page_id: 71249
 namespace: 6
 revision_id: 425800
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Beorn](/wiki/Beorn) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Beorn](../../main/B/Beorn.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

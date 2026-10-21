@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chief wolf"
 ---
 
-Redirect to [Chief wolf](/wiki/Chief_wolf).
+Redirect to [Chief wolf](Chief_wolf.md).

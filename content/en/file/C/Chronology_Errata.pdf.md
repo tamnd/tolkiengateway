@@ -1,6 +1,5 @@
 ---
 title: "File:Chronology Errata.pdf"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chronology Errata.pdf</span>"
 page_id: 69549
 namespace: 6
 revision_id: 413999

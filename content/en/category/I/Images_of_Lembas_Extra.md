@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Lembas Extra"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Lembas Extra</span>"
 page_id: 64390
 namespace: 14
 revision_id: 369058
@@ -15,4 +14,4 @@ sort_keys:
   "Images of journals": "Lembas Extra"
 ---
 
-Covers of the journal *[Lembas Extra](/wiki/Lembas_Extra)*.
+Covers of the journal *[Lembas Extra](../../main/L/Lembas_Extra.md)*.

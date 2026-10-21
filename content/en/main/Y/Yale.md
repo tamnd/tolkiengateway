@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Yale"
 ---
 
-Redirect to [The Yale](/wiki/The_Yale).
+Redirect to [The Yale](../T/The_Yale.md).

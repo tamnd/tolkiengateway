@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Legolas & Gimli Brickheadz.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Legolas &amp; Gimli Brickheadz.png</span>"
 page_id: 72940
 namespace: 6
 revision_id: 434160
@@ -32,19 +31,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Lego - Legolas &amp; Gimli Brickheadz.png</span></th>
 <td class="description">
-<p><a href="/wiki/Legolas" title="Legolas">Legolas</a> &amp; <a href="/wiki/Gimli" title="Gimli">Gimli</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Lego_BrickHeadz" title="wikipedia:Lego BrickHeadz">Brickheadz</a> set.
+<p><a href="../../main/L/Legolas.md" title="Legolas">Legolas</a> &amp; <a href="../../main/G/Gimli.md" title="Gimli">Gimli</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Lego_BrickHeadz" title="wikipedia:Lego BrickHeadz">Brickheadz</a> set.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/40751-1/Legolas-Gimli" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/40751-1/Legolas-Gimli</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

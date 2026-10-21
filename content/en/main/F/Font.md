@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fonts"
 ---
 
-Redirect to [Fonts](/wiki/Fonts).
+Redirect to [Fonts](Fonts.md).

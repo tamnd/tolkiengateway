@@ -1,6 +1,5 @@
 ---
 title: "File:Tajmah - Elured and Elurin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tajmah - Elured and Elurin.jpg</span>"
 page_id: 58200
 namespace: 6
 revision_id: 386655
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tajmah</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/tajmah" rel="noreferrer noopener" target="_blank">Tajmah on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tajmah" title="Tolkien Gateway:Copyrights/Tajmah">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTajmah.md" title="Tolkien Gateway:Copyrights/Tajmah">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Alandri"
-display_title: "<span class=\"mw-page-title-main\">Alandri</span>"
 page_id: 61704
 namespace: 0
 revision_id: 347663
@@ -14,11 +13,11 @@ categories:
   - "Qenya names"
 ---
 
-**Alandri** were the [fays](/wiki/Fays "Fays") of the woods, according to the early version of the [legendarium](/wiki/Legendarium "Legendarium") associated with *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*.<sup id="cite_ref-Ala_1-0" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup>
+**Alandri** were the [fays](../F/Fays.md) of the woods, according to the early version of the [legendarium](../L/Legendarium.md) associated with *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Ala_1-0" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The name *Alandri*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> is in [Qenya](/wiki/Qenya), and was based on the word <i><a class="new" href="/w/index.php?title=Aldar%C3%AB&amp;action=edit&amp;redlink=1" title="Aldarë (page does not exist)">aldarë</a></i> ("wood"), which was probably derived from the word *[alda](/wiki/Alda "Alda")* ("tree").<sup id="cite_ref-Ala_1-1" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup> The word *alda* itself comes from the root <a class="new" href="/w/index.php?title=ALA&amp;action=edit&amp;redlink=1" title="ALA (page does not exist)">ALA</a> ("spread?").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+The name *Alandri*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> is in [Qenya](../Q/Qenya.md), and was based on the word <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aldar%C3%AB&amp;action=edit&amp;redlink=1" title="Aldarë (page does not exist)">aldarë</a></i> ("wood"), which was probably derived from the word *[alda](Alda.md)* ("tree").<sup id="cite_ref-Ala_1-1" class="reference"><a href="#cite_note-Ala-1">[1]</a></sup> The word *alda* itself comes from the root <a class="new" href="https://tolkiengateway.net/w/index.php?title=ALA&amp;action=edit&amp;redlink=1" title="ALA (page does not exist)">ALA</a> ("spread?").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Notes {#Notes}
 
@@ -30,8 +29,8 @@ The name *Alandri*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ala-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ala_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ala_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Early Qenya and The Valmaric Script&#34;, in <a href="/wiki/Parma_Eldalamberon_14" title="Parma Eldalamberon 14"><i>Parma Eldalamberon</i> XIV</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>), &#34;<a class="new" href="/w/index.php?title=The_Creatures_of_the_Earth&amp;action=edit&amp;redlink=1" title="The Creatures of the Earth (page does not exist)">The Creatures of the Earth</a>&#34;, pp. 7, 10</span>
+<li id="cite_note-Ala-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ala_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ala_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Early Qenya and The Valmaric Script&#34;, in <a href="../P/Parma_Eldalamberon_14.md" title="Parma Eldalamberon 14"><i>Parma Eldalamberon</i> XIV</a> (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>), &#34;<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Creatures_of_the_Earth&amp;action=edit&amp;redlink=1" title="The Creatures of the Earth (page does not exist)">The Creatures of the Earth</a>&#34;, pp. 7, 10</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), entry <b>ALA</b> (2), p. 29</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="../P/Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), entry <b>ALA</b> (2), p. 29</span>
 </li>
 </ol></div>

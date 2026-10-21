@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hill of the Slain"
 ---
 
-Redirect to [Hill of the Slain](/wiki/Hill_of_the_Slain).
+Redirect to [Hill of the Slain](../H/Hill_of_the_Slain.md).

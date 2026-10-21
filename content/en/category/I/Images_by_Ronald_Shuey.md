@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ronald Shuey"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ronald Shuey</span>"
 page_id: 74873
 namespace: 14
 revision_id: 440587
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Shuey, Ronald"
 ---
 
-This category lists all **images by [Ronald Shuey](/wiki/Ronald_Shuey)**.
+This category lists all **images by [Ronald Shuey](../../main/R/Ronald_Shuey.md)**.

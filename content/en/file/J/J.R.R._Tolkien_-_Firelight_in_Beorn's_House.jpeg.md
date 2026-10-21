@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Firelight in Beorn's House.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Firelight in Beorn&#039;s House.jpeg</span>"
 page_id: 71181
 namespace: 6
 revision_id: 426729

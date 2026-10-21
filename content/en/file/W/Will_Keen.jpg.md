@@ -1,6 +1,5 @@
 ---
 title: "File:Will Keen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Will Keen.jpg</span>"
 page_id: 64267
 namespace: 6
 revision_id: 434523
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Carlos Alvarez</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.imdb.com/name/nm0444617/mediaviewer/rm675429632/?ref_=nm_ov_ph" rel="noreferrer noopener" target="_blank">IMDb</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Filipino people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Filipino people</span>"
 page_id: 74947
 namespace: 14
 revision_id: 441222

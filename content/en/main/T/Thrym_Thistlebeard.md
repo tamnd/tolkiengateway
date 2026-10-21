@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin I"
 ---
 
-Redirect to [Dáin I](/wiki/Dáin_I).
+Redirect to [Dáin I](../D/Dáin_I.md).

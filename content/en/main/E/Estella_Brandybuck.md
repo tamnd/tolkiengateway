@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Estella Bolger"
 ---
 
-Redirect to [Estella Bolger](/wiki/Estella_Bolger).
+Redirect to [Estella Bolger](Estella_Bolger.md).

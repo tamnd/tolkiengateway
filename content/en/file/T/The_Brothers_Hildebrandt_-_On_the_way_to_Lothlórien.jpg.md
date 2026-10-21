@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - On the way to Lothlórien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - On the way to Lothlórien.jpg</span>"
 page_id: 71609
 namespace: 6
 revision_id: 427255
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"On the way to [Lothlórien](/wiki/Lothl%C3%B3rien)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt)
+"On the way to [Lothlórien](../../main/L/Lothlórien.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md)
 
 ## Licensing {#Licensing}
 

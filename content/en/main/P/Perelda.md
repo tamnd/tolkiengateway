@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Half-elven"
 ---
 
-Redirect to [Half-elven](/wiki/Half-elven).
+Redirect to [Half-elven](../H/Half-elven.md).

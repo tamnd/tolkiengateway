@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ivy Bush"
 ---
 
-Redirect to [The Ivy Bush](/wiki/The_Ivy_Bush).
+Redirect to [The Ivy Bush](../T/The_Ivy_Bush.md).

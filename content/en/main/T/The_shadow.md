@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow"
 ---
 
-Redirect to [Shadow](/wiki/Shadow).
+Redirect to [Shadow](../S/Shadow.md).

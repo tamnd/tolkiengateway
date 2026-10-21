@@ -16,11 +16,11 @@ categories:
 
 # as (Quenya) {#as_(Quenya)}
 
-**as** is a [Quenya](/wiki/Quenya) preposition meaning "with (together)".
+**as** is a [Quenya](../Q/Quenya.md) preposition meaning "with (together)".
 
 ## Etymology {#Etymology}
 
-Perhaps from the [root](/wiki/Sundocarme "Sundocarme") [AS](/wiki/AS), and perhaps related to *[ar](/wiki/Ar "Ar")* "and".
+Perhaps from the [root](../S/Sundocarme.md) [AS](AS~30515.md), and perhaps related to *[ar](Ar.md)* "and".
 
 ## Examples {#Examples}
 
@@ -28,35 +28,35 @@ Perhaps from the [root](/wiki/Sundocarme "Sundocarme") [AS](/wiki/AS), and perha
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Ah&amp;action=edit&amp;redlink=1" title="Ah (page does not exist)">ah</a></i> (possibly)
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ah&amp;action=edit&amp;redlink=1" title="Ah (page does not exist)">ah</a></i> (possibly)
 
 # as (Sindarin) {#as_(Sindarin)}
 
-<i><b>as</b></i> is a [Sindarin](/wiki/Sindarin) word meaning 'sunlight'.
+<i><b>as</b></i> is a [Sindarin](../S/Sindarin.md) word meaning 'sunlight'.
 
 ## Etymology {#Etymology_2}
 
-Possibly [root](/wiki/Sundocarme "Sundocarme") [AS](/wiki/AS)
+Possibly [root](../S/Sundocarme.md) [AS](AS~30515.md)
 
 ## Examples {#Examples_2}
 
-- [Asfaloth](/wiki/Asfaloth), "Sunlit foam"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Asfaloth](Asfaloth.md), "Sunlit foam"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cognates {#Cognates_2}
 
-- [Quenya](/wiki/Quenya): *[áre](/wiki/%C3%81re "Áre")*
+- [Quenya](../Q/Quenya.md): *[áre](../_/Áre.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.31</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.31</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_43" title="Vinyar Tengwar 43"><i>Vinyar Tengwar</i>, Number 43</a>, January 2002, p.29</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_43.md" title="Vinyar Tengwar 43"><i>Vinyar Tengwar</i>, Number 43</a>, January 2002, p.29</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>)</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>)</span>
 </li>
 </ol></div>
 
-- <small> <a href="/wiki/The_Languages_of_Tolkien%27s_Middle-earth" title="The Languages of Tolkien&#39;s Middle-earth">The Languages of Tolkien&#39;s Middle-earth</a> by <a href="/wiki/Ruth_S._Noel" title="Ruth S. Noel">Ruth S. Noel</a></small>
+- <small> <a href="../T/The_Languages_of_Tolkien&#39;s_Middle-earth.md" title="The Languages of Tolkien&#39;s Middle-earth">The Languages of Tolkien&#39;s Middle-earth</a> by <a href="../R/Ruth_S._Noel.md" title="Ruth S. Noel">Ruth S. Noel</a></small>

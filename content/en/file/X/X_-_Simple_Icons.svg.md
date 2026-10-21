@@ -1,6 +1,5 @@
 ---
 title: "File:X - Simple Icons.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">X - Simple Icons.svg</span>"
 page_id: 67692
 namespace: 6
 revision_id: 394712

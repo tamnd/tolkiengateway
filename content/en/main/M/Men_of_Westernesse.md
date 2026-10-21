@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenóreans"
 ---
 
-Redirect to [Númenóreans](/wiki/Númenóreans).
+Redirect to [Númenóreans](../N/Númenóreans.md).

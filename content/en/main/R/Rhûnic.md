@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhûnnic"
 ---
 
-Redirect to [Rhûnnic](/wiki/Rhûnnic).
+Redirect to [Rhûnnic](Rhûnnic.md).

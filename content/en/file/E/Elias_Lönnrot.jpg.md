@@ -1,6 +1,5 @@
 ---
 title: "File:Elias Lönnrot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elias Lönnrot.jpg</span>"
 page_id: 28362
 namespace: 6
 revision_id: 248949

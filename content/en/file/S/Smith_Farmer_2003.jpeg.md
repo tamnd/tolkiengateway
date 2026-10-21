@@ -1,6 +1,5 @@
 ---
 title: "File:Smith Farmer 2003.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Smith Farmer 2003.jpeg</span>"
 page_id: 62186
 namespace: 6
 revision_id: 350386

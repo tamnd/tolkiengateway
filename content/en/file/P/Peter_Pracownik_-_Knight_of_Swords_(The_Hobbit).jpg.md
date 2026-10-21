@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Knight of Swords (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Knight of Swords (The Hobbit).jpg</span>"
 page_id: 73336
 namespace: 6
 revision_id: 433771
@@ -37,24 +36,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - Knight of Swords (The Hobbit).jpg</span></th>
 <td class="description">
-&#34;Knight of Swords&#34; from <i><a href="/wiki/The_Hobbit_Tarot" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p>A warrior of <a href="/wiki/Lake-town" title="Lake-town">Laketown</a> prepares himself for battle with helmet, shield and spear. In the background we see <a href="/wiki/Long_Lake" title="Long Lake">the lake</a> itself, and in the distance what might be the approaching <a href="/wiki/Orcs" title="Orcs">Goblin</a> army and <a href="/wiki/Wargs" title="Wargs">Wargs</a>. But the warrior shows no fear. This man might have been on duty the night the <a href="/wiki/Dragons" title="Dragons">Dragon</a> <a href="/wiki/Smaug" title="Smaug">Smaug</a> was roused by the intrusions of <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a>. He would have seen the fires issue forth from the Dragon’s mouth, as it left its lair and came forth angry and determined to wreak vengeance upon the people of Laketown. That time, as the Dragon’s attack was known, the alarm was sounded. Then the warning trumpets were sounded, and echoed all along the shores. Every vessel in the town was filled with water, every bow and arrow brought forth also. So, Smaug did not encounter the people of Laketown completely defenseless upon his arrival!</p></blockquote>
+&#34;Knight of Swords&#34; from <i><a href="../../main/T/The_Hobbit_Tarot.md" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p>A warrior of <a href="../../main/L/Lake-town.md" title="Lake-town">Laketown</a> prepares himself for battle with helmet, shield and spear. In the background we see <a href="../../main/L/Long_Lake.md" title="Long Lake">the lake</a> itself, and in the distance what might be the approaching <a href="../../main/O/Orcs.md" title="Orcs">Goblin</a> army and <a href="../../main/W/Wargs.md" title="Wargs">Wargs</a>. But the warrior shows no fear. This man might have been on duty the night the <a href="../../main/D/Dragons.md" title="Dragons">Dragon</a> <a href="../../main/S/Smaug.md" title="Smaug">Smaug</a> was roused by the intrusions of <a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>. He would have seen the fires issue forth from the Dragon’s mouth, as it left its lair and came forth angry and determined to wreak vengeance upon the people of Laketown. That time, as the Dragon’s attack was known, the alarm was sounded. Then the warning trumpets were sounded, and echoed all along the shores. Every vessel in the town was filled with water, every bow and arrow brought forth also. So, Smaug did not encounter the people of Laketown completely defenseless upon his arrival!</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2012</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20131014212836/http://www.peterpracownik.com/pages/knight-of-swords.htm" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20131014212836/http://www.peterpracownik.com/pages/knight-of-swords.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

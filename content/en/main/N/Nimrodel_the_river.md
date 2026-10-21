@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimrodel (river)"
 ---
 
-Redirect to [Nimrodel (river)](/wiki/Nimrodel_(river)).
+Redirect to [Nimrodel (river)](<Nimrodel_(river).md>).

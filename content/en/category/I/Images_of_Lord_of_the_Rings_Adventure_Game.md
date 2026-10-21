@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Lord of the Rings Adventure Game"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Lord of the Rings Adventure Game</span>"
 page_id: 44875
 namespace: 14
 revision_id: 425079

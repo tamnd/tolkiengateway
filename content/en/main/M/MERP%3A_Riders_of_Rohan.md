@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riders of Rohan (1985 book)"
 ---
 
-Redirect to [Riders of Rohan (1985 book)](/wiki/Riders_of_Rohan_(1985_book)).
+Redirect to [Riders of Rohan (1985 book)](<../R/Riders_of_Rohan_(1985_book).md>).

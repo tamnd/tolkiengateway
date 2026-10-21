@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Library"
 ---
 
-Redirect to [Tolkien Library](/wiki/Tolkien_Library).
+Redirect to [Tolkien Library](Tolkien_Library.md).

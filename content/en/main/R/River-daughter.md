@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goldberry"
 ---
 
-Redirect to [Goldberry](/wiki/Goldberry).
+Redirect to [Goldberry](../G/Goldberry.md).

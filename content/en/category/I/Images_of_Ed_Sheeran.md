@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Ed Sheeran"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Ed Sheeran</span>"
 page_id: 45170
 namespace: 14
 revision_id: 238678

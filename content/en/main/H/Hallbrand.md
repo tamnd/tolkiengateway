@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halbrand"
 ---
 
-Redirect to [Halbrand](/wiki/Halbrand).
+Redirect to [Halbrand](Halbrand.md).

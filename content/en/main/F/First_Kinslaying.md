@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kinslaying at Alqualondë"
 ---
 
-Redirect to [Kinslaying at Alqualondë](/wiki/Kinslaying_at_Alqualondë).
+Redirect to [Kinslaying at Alqualondë](../K/Kinslaying_at_Alqualondë.md).

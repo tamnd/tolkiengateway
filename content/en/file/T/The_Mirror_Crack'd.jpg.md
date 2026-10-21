@@ -1,6 +1,5 @@
 ---
 title: "File:The Mirror Crack'd.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Mirror Crack&#039;d.jpg</span>"
 page_id: 62106
 namespace: 6
 revision_id: 350159

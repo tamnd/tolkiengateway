@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Trading Card Game"
 ---
 
-Redirect to [The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game).
+Redirect to [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md).

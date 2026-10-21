@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Knight of Cups (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Knight of Cups (The Hobbit).jpg</span>"
 page_id: 73337
 namespace: 6
 revision_id: 433773
@@ -33,24 +32,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - Knight of Cups (The Hobbit).jpg</span></th>
 <td class="description">
-&#34;Knight of Cups&#34; from <i><a href="/wiki/The_Hobbit_Tarot" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="/wiki/Balin" title="Balin">Balin</a> was the senior member of <a href="/wiki/Thorin_and_Company" title="Thorin and Company">the Company of Dwarves</a> chosen by <a href="/wiki/Thorin" title="Thorin">Thorin</a> for <a href="/wiki/Quest_of_Erebor" title="Quest of Erebor">his Quest</a> to reclaim the treasure at <a href="/wiki/Lonely_Mountain" title="Lonely Mountain">Lonely Mountain</a> from the <a href="/wiki/Dragons" title="Dragons">Dragon</a> <a href="/wiki/Smaug" title="Smaug">Smaug</a>. Courageous and kind-hearted, he formed a special bond with the <a href="/wiki/Hobbits" title="Hobbits">Hobbit</a> <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a>. Born in <a href="/wiki/Third_Age_2763" title="Third Age 2763">Third Age 2763</a>, as a child he lived at the Lonely Mountain. When it was attacked by Smaug he escaped with Thorin. In <a href="/wiki/Third_Age_2941" title="Third Age 2941">T.A. 2941</a> he joined with Thorin, forming the Company of Thirteen, accompanied by <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a>. Bilbo, alone, was able to creep past Balin, when he had on <a href="/wiki/The_One_Ring" title="The One Ring">his Ring of invisibility</a>. After <a href="/wiki/Battle_of_Five_Armies" title="Battle of Five Armies">the Battle of the Five Armies</a>, Balin made his home at the Lonely Mountain and became prosperous.</p></blockquote>
+&#34;Knight of Cups&#34; from <i><a href="../../main/T/The_Hobbit_Tarot.md" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="../../main/B/Balin.md" title="Balin">Balin</a> was the senior member of <a href="../../main/T/Thorin_and_Company.md" title="Thorin and Company">the Company of Dwarves</a> chosen by <a href="../../main/T/Thorin.md" title="Thorin">Thorin</a> for <a href="../../main/Q/Quest_of_Erebor.md" title="Quest of Erebor">his Quest</a> to reclaim the treasure at <a href="../../main/L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> from the <a href="../../main/D/Dragons.md" title="Dragons">Dragon</a> <a href="../../main/S/Smaug.md" title="Smaug">Smaug</a>. Courageous and kind-hearted, he formed a special bond with the <a href="../../main/H/Hobbits.md" title="Hobbits">Hobbit</a> <a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>. Born in <a href="../../main/T/Third_Age_2763.md" title="Third Age 2763">Third Age 2763</a>, as a child he lived at the Lonely Mountain. When it was attacked by Smaug he escaped with Thorin. In <a href="../../main/T/Third_Age_2941.md" title="Third Age 2941">T.A. 2941</a> he joined with Thorin, forming the Company of Thirteen, accompanied by <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a>. Bilbo, alone, was able to creep past Balin, when he had on <a href="../../main/T/The_One_Ring.md" title="The One Ring">his Ring of invisibility</a>. After <a href="../../main/B/Battle_of_Five_Armies.md" title="Battle of Five Armies">the Battle of the Five Armies</a>, Balin made his home at the Lonely Mountain and became prosperous.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2012</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20131015160718/http://www.peterpracownik.com/pages/knight-of-cups.htm" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20131015160718/http://www.peterpracownik.com/pages/knight-of-cups.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/12 October 2008/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/12 October 2008/Transcript</span>"
 page_id: 20731
 namespace: 4
 revision_id: 202023

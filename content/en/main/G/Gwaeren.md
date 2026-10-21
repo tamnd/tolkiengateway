@@ -13,21 +13,21 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>gwaeren</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "windy".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+<i><b>gwaeren</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "windy".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Bay_of_Belfalas#Other_names" title="Bay of Belfalas">Côf <b>gwaeren</b> Bêl</a></i> ("the windy Bay of Bêl")<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+- <i><a href="../B/Bay_of_Belfalas.md#Other_names" title="Bay of Belfalas">Côf <b>gwaeren</b> Bêl</a></i> ("the windy Bay of Bêl")<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[gwaew](/wiki/Gwaew "Gwaew")* ("wind")
+- *[gwaew](Gwaew.md)* ("wind")
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-VT-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 15</span>
+<li id="cite_note-VT-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 15</span>
 </li>
 </ol></div>

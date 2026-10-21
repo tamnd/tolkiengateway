@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Henning Janssen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Henning Janssen</span>"
 page_id: 15507
 namespace: 14
 revision_id: 182019
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Janssen, Henning"
 ---
 
-This category lists all **images by [Henning Janssen](/wiki/Henning_Janssen)**.
+This category lists all **images by [Henning Janssen](../../main/H/Henning_Janssen.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Gap of Rohan map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Gap of Rohan map.jpg</span>"
 page_id: 38675
 namespace: 6
 revision_id: 270726
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Gap of Rohan](/wiki/Gap_of_Rohan) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [Gap of Rohan](../../main/G/Gap_of_Rohan.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

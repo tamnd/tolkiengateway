@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "C.S. Lewis"
 ---
 
-Redirect to [C.S. Lewis](/wiki/C.S._Lewis).
+Redirect to [C.S. Lewis](../C/C.S._Lewis.md).

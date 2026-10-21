@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Sam in Osgiliath.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Sam in Osgiliath.jpg</span>"
 page_id: 64215
 namespace: 6
 revision_id: 367219
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, [The Tales That Really Mattered...](/wiki/The_Tales_That_Really_Mattered...).
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, [The Tales That Really Mattered...](../../main/T/The_Tales_That_Really_Mattered....md).
 
 ## Licensing {#Licensing}
 

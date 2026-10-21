@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sparrow Song"
 ---
 
-Redirect to [Sparrow Song](/wiki/Sparrow_Song).
+Redirect to [Sparrow Song](../S/Sparrow_Song.md).

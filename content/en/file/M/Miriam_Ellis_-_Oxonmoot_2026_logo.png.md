@@ -1,6 +1,5 @@
 ---
 title: "File:Miriam Ellis - Oxonmoot 2026 logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miriam Ellis - Oxonmoot 2026 logo.png</span>"
 page_id: 74113
 namespace: 6
 revision_id: 437176
@@ -43,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026-04-06</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Miriam Ellis</td>
@@ -53,7 +50,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.tolkiensociety.org/events/oxonmoot-2026/oxonmoot-2026-frequently-asked-questions/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/events/oxonmoot-2026/oxonmoot-2026-frequently-asked-questions/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

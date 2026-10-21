@@ -1,6 +1,5 @@
 ---
 title: "File:Merp Empire of the Witch-king.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merp Empire of the Witch-king.jpg</span>"
 page_id: 42956
 namespace: 6
 revision_id: 350662

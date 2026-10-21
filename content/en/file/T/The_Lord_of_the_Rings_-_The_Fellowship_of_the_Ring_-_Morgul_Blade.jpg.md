@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Morgul Blade.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Morgul Blade.jpg</span>"
 page_id: 71704
 namespace: 6
 revision_id: 427398
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Morgul Blade](/wiki/Morgul-knife "Morgul-knife") - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+[Morgul Blade](../../main/M/Morgul-knife.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caves of the Forgotten"
 ---
 
-Redirect to [Caves of the Forgotten](/wiki/Caves_of_the_Forgotten).
+Redirect to [Caves of the Forgotten](../C/Caves_of_the_Forgotten.md).

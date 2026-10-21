@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Robert Murray"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Robert Murray</span>"
 page_id: 68554
 namespace: 14
 revision_id: 404188
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Murray, Robert"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Robert Murray](/wiki/Robert_Murray).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Robert Murray](../../main/R/Robert_Murray.md).

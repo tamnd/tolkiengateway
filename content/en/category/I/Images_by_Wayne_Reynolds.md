@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Wayne Reynolds"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Wayne Reynolds</span>"
 page_id: 74866
 namespace: 14
 revision_id: 440541
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Reynolds, Wayne"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Wayne_Reynolds&amp;action=edit&amp;redlink=1" title="Wayne Reynolds (page does not exist)">Wayne Reynolds</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wayne_Reynolds&amp;action=edit&amp;redlink=1" title="Wayne Reynolds (page does not exist)">Wayne Reynolds</a></b>.

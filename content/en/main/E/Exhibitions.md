@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien exhibitions"
 ---
 
-Redirect to [Tolkien exhibitions](/wiki/Tolkien_exhibitions).
+Redirect to [Tolkien exhibitions](../T/Tolkien_exhibitions.md).

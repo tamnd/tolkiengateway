@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - War of the Last Alliance.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - War of the Last Alliance.png</span>"
 page_id: 71277
 namespace: 6
 revision_id: 425310
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [War of the Last Alliance](/wiki/War_of_the_Last_Alliance) as depicted in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War).
+The [War of the Last Alliance](../../main/W/War_of_the_Last_Alliance.md) as depicted in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Licensing {#Licensing}
 

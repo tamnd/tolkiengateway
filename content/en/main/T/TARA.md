@@ -1,6 +1,5 @@
 ---
 title: "TARA"
-display_title: "<span class=\"mw-page-title-main\">TARA</span>"
 page_id: 61133
 namespace: 0
 revision_id: 407329
@@ -13,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**TARA** is a [Qenya](/wiki/Qenya) [root](/wiki/Sundocarme "Sundocarme") signifying "to batter, thud, beat". Along with the root [MALA](/wiki/MALA), TARA makes up the word [Maltar](/wiki/Maltar), which is the name of [Aulë’s](/wiki/Aul%C3%AB "Aulë") hammer.<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
+**TARA** is a [Qenya](../Q/Qenya.md) [root](../S/Sundocarme.md) signifying "to batter, thud, beat". Along with the root [MALA](../M/MALA~61132.md), TARA makes up the word [Maltar](../M/Maltar.md), which is the name of [Aulë’s](../A/Aulë.md) hammer.<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
 
 ## Notes {#Notes}
 
@@ -22,6 +21,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Malt-1"><span class="mw-cite-backlink"><a href="#cite_ref-Malt_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="/wiki/Parma_Eldalamberon_15" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>), Appendix, <i>Text V</i>, p. 15</span>
+<li id="cite_note-Malt-1"><span class="mw-cite-backlink"><a href="#cite_ref-Malt_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="../P/Parma_Eldalamberon_15.md" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>), Appendix, <i>Text V</i>, p. 15</span>
 </li>
 </ol></div>

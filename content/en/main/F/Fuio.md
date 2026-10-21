@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fuia-"
 ---
 
-Redirect to [Fuia-](/wiki/Fuia-).
+Redirect to [Fuia-](Fuia-.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Children of Húrin 2014.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Children of Húrin 2014.png</span>"
 page_id: 61976
 namespace: 6
 revision_id: 350575

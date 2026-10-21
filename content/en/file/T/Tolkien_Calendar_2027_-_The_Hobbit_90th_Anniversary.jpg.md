@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Calendar 2027 - The Hobbit 90th Anniversary.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Calendar 2027 - The Hobbit 90th Anniversary.jpg</span>"
 page_id: 74361
 namespace: 6
 revision_id: 438024
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Tolkien Calendar 2027 - The Hobbit 90th Anniversary.jpg</span></th>
 <td class="description">
-<p>Cover of <a href="/wiki/Tolkien_Calendar_2027" title="Tolkien Calendar 2027">Tolkien Calendar 2027: The Hobbit 90th Anniversary</a>
+<p>Cover of <a href="../../main/T/Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">Tolkien Calendar 2027: The Hobbit 90th Anniversary</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/11_August" title="11 August">11 August</a>, <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/_/11_August.md" title="11 August">11 August</a>, <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.amazon.com/Tolkien-Calendar-2027-J-R/dp/0063494388" rel="noreferrer noopener" target="_blank">https://www.amazon.com/Tolkien-Calendar-2027-J-R/dp/0063494388</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

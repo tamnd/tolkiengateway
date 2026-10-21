@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Richard Lupoff"
 ---
 
-Redirect to [Letter to Richard Lupoff](/wiki/Letter_to_Richard_Lupoff).
+Redirect to [Letter to Richard Lupoff](../L/Letter_to_Richard_Lupoff.md).

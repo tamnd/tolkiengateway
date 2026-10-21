@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Duilin (son of Duinhir).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Duilin (son of Duinhir).jpg</span>"
 page_id: 57292
 namespace: 6
 revision_id: 314393

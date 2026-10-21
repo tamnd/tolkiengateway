@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Surprise attack on Umbar"
 ---
 
-Redirect to [Surprise attack on Umbar](/wiki/Surprise_attack_on_Umbar).
+Redirect to [Surprise attack on Umbar](Surprise_attack_on_Umbar.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - Frodo, Sam and Gollum.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - Frodo, Sam and Gollum.png</span>"
 page_id: 56396
 namespace: 6
 revision_id: 307582
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo](/wiki/Frodo) [Sam](/wiki/Sam) and [Gollum](/wiki/Gollum) from *[Hobitit](/wiki/Hobitit)*.
+[Frodo](../../main/F/Frodo.md) [Sam](../../main/S/Sam.md) and [Gollum](../../main/G/Gollum.md) from *[Hobitit](../../main/H/Hobitit.md)*.
 
 ## Licensing {#Licensing}
 

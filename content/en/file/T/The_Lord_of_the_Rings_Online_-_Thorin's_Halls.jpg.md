@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Thorin's Halls.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Thorin&#039;s Halls.jpg</span>"
 page_id: 38664
 namespace: 6
 revision_id: 415064

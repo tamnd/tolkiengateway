@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG The Dragons Player Guide (back).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG The Dragons Player Guide (back).jpg</span>"
 page_id: 72909
 namespace: 6
 revision_id: 432157

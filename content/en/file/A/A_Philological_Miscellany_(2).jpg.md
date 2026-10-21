@@ -1,6 +1,5 @@
 ---
 title: "File:A Philological Miscellany (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Philological Miscellany (2).jpg</span>"
 page_id: 44134
 namespace: 6
 revision_id: 232102
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photo by Andrew Wells of *[A Philological Miscellany Presented to Eilert Ekwall](/wiki/A_Philological_Miscellany_Presented_to_Eilert_Ekwall)*.
+Photo by Andrew Wells of *[A Philological Miscellany Presented to Eilert Ekwall](../../main/A/A_Philological_Miscellany_Presented_to_Eilert_Ekwall.md)*.
 
 ## Licensing {#Licensing}
 
@@ -32,4 +31,4 @@ Photo by Andrew Wells of *[A Philological Miscellany Presented to Eilert Ekwall]
 <p>This work is copyrighted and owned by Andrew Wells. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Andrew Wells</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrew_Wells" title="Tolkien Gateway:Copyrights/Andrew Wells">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrew_Wells.md" title="Tolkien Gateway:Copyrights/Andrew Wells">Permission for use on Tolkien Gateway</a></b></li></ul></div>

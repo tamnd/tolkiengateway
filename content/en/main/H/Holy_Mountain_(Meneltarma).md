@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meneltarma"
 ---
 
-Redirect to [Meneltarma](/wiki/Meneltarma).
+Redirect to [Meneltarma](../M/Meneltarma.md).

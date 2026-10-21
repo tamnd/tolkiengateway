@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Museum Replicas"
 ---
 
-Redirect to [List of Museum Replicas](/wiki/List_of_Museum_Replicas).
+Redirect to [List of Museum Replicas](../L/List_of_Museum_Replicas.md).

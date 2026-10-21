@@ -1,6 +1,5 @@
 ---
 title: "File:Brian Snoddy - Orc-warriors.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brian Snoddy - Orc-warriors.jpeg</span>"
 page_id: 70892
 namespace: 6
 revision_id: 440793
@@ -34,8 +33,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Brian Snoddy - Orc-warriors.jpeg</span></th>
 <td class="description">
 <p><i>Orc-warriors</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
  A repaint per <a class="external text" href="https://councilofelrond.org/forum/viewtopic.php?p=43341#p43341" rel="noreferrer noopener" target="_blank">CoE</a>
 </p>
 </td>
@@ -44,8 +43,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Brian Snoddy</td>
@@ -54,7 +51,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.finarte.it/auction/the-art-of-the-lord-of-the-rings-milan-2022-12-14/brian-snoddy-orc-warriors-88568?lang=en" rel="noreferrer noopener" target="_blank">Finarte</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

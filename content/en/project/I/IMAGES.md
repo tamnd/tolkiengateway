@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Image policy"
 ---
 
-Redirect to [Tolkien Gateway:Image policy](/wiki/Tolkien_Gateway:Image_policy).
+Redirect to [Tolkien Gateway:Image policy](Image_policy.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noldorin"
 ---
 
-Redirect to [Noldorin](/wiki/Noldorin).
+Redirect to [Noldorin](../N/Noldorin.md).

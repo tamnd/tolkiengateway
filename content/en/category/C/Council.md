@@ -1,6 +1,5 @@
 ---
 title: "Category:Council"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Council</span>"
 page_id: 7189
 namespace: 14
 revision_id: 354541
@@ -14,4 +13,4 @@ categories:
   - "Tolkien Gateway"
 ---
 
-Articles in this category are related to [Forums:Council](/wiki/Forums:Council).
+Articles in this category are related to [Forums:Council](https://tolkiengateway.net/wiki/Forums:Council).

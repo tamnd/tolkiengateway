@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Skinbark - Fladrif.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Skinbark - Fladrif.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Skinbark_-_Fladrif.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Skinbark - Fladrif.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Skinbark_-_Fladrif.jpg.md).

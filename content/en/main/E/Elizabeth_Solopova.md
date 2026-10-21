@@ -1,6 +1,5 @@
 ---
 title: "Elizabeth Solopova"
-display_title: "<span class=\"mw-page-title-main\">Elizabeth Solopova</span>"
 page_id: 36194
 namespace: 0
 revision_id: 405376
@@ -19,16 +18,16 @@ images:
   - "Elizabeth_Solopova.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Elizabeth_Solopova.jpg"><img src="/w/images/f/f1/Elizabeth_Solopova.jpg" decoding="async" loading="lazy" width="239" height="303" class="mw-file-element" data-file-width="239" data-file-height="303"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/E/Elizabeth_Solopova.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f1/Elizabeth_Solopova.jpg" decoding="async" loading="lazy" width="239" height="303" class="mw-file-element" data-file-width="239" data-file-height="303"/></a><figcaption></figcaption></figure>
 
-Dr. **Elizabeth Solopova** is Research Fellow at the Faculty of English at the [University of Oxford](/wiki/University_of_Oxford), specialising in research on medieval manuscripts (the <a class="extiw" href="http://en.wikipedia.org/wiki/Wycliffe%27s_Bible" title="wikipedia:Wycliffe&#39;s Bible">Wycliffite Bible</a>, [Old English](/wiki/Old_English) verse, [Middle English](/wiki/Middle_English), etc), and works in the Department of Special Collections and Western Manuscripts at the [Bodleian Library](/wiki/Bodleian_Library).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Dr. **Elizabeth Solopova** is Research Fellow at the Faculty of English at the [University of Oxford](../U/University_of_Oxford.md), specialising in research on medieval manuscripts (the <a class="extiw" href="http://en.wikipedia.org/wiki/Wycliffe%27s_Bible" title="wikipedia:Wycliffe&#39;s Bible">Wycliffite Bible</a>, [Old English](../O/Old_English.md) verse, [Middle English](../M/Middle_English.md), etc), and works in the Department of Special Collections and Western Manuscripts at the [Bodleian Library](../B/Bodleian_Library.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Publications, selected {#Publications,_selected}
 
 ### Books {#Books}
 
-- [2005](/wiki/2005): *[The Keys of Middle-earth: Discovering Medieval Literature through the Fiction of J.R.R. Tolkien](/wiki/The_Keys_of_Middle-earth "The Keys of Middle-earth")* (with [Stuart D. Lee](/wiki/Stuart_D._Lee))
-- [2009](/wiki/2009): *[Languages, Myths and History: An Introduction to the Linguistic and Literary Background of J.R.R. Tolkien's Fiction](/wiki/Languages,_Myths_and_History "Languages, Myths and History")*
+- [2005](../_/2005.md): *[The Keys of Middle-earth: Discovering Medieval Literature through the Fiction of J.R.R. Tolkien](../T/The_Keys_of_Middle-earth~15408.md)* (with [Stuart D. Lee](../S/Stuart_D._Lee.md))
+- [2009](../_/2009.md): *[Languages, Myths and History: An Introduction to the Linguistic and Literary Background of J.R.R. Tolkien's Fiction](../L/Languages,_Myths_and_History.md)*
 
 ## External links {#External_links}
 

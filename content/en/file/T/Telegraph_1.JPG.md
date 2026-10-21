@@ -1,6 +1,5 @@
 ---
 title: "File:Telegraph 1.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Telegraph 1.JPG</span>"
 page_id: 45566
 namespace: 6
 revision_id: 243526
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*Telegraph Magazine* [22 March](/wiki/22_March) [1968](/wiki/1968). Includes an interview with Tolkien.
+*Telegraph Magazine* [22 March](../../main/_/22_March.md) [1968](../../main/_/1968.md). Includes an interview with Tolkien.
 
 ## Licensing {#Licensing}
 

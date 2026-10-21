@@ -15,17 +15,17 @@ sort_keys:
   "Parma Nölé": "Parma Nole 03"
 ---
 
-<b><i>Parma Nölé</i> 3</b> is the third issue of the [North East Tolkien Society](/wiki/North_East_Tolkien_Society) journal *[Parma Nölé](/wiki/Parma_N%C3%B6l%C3%A9)*.
+<b><i>Parma Nölé</i> 3</b> is the third issue of the [North East Tolkien Society](../N/North_East_Tolkien_Society.md) journal *[Parma Nölé](Parma_Nölé.md)*.
 
 ## Contents {#Contents}
 
-- [Anthony S. Burdge](/wiki/Anthony_S._Burdge): "Chairman's and Editor's notes"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Chairman's and Editor's notes"
 - "Exclusive Interview with Clay Harper"
-- [Anthony S. Burdge](/wiki/Anthony_S._Burdge): "Field Report"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Field Report"
 - "Tolkien's Perfect World"
-- [W.H. Auden](/wiki/W.H._Auden): "The Hero Is A Hobbit" (reprint)
+- [W.H. Auden](../W/W.H._Auden.md): "The Hero Is A Hobbit" (reprint)
 - "List of New and Upcoming Books"
-- <a class="new" href="/w/index.php?title=Roseane_Daniello&amp;action=edit&amp;redlink=1" title="Roseane Daniello (page does not exist)">Roseane Daniello</a>: "Member's Forum"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Roseane_Daniello&amp;action=edit&amp;redlink=1" title="Roseane Daniello (page does not exist)">Roseane Daniello</a>: "Member's Forum"
 - "New WETA/Sideshow Figurines"
 - "Sir Ian McKellan at Barnes &amp; Noble"
 - "Middle Earth Trivia"

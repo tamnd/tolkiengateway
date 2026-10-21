@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"
 ---
 
-Redirect to [The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack).
+Redirect to [The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md).

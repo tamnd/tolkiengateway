@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Kettle"
 ---
 
-Redirect to [Letter to John Kettle](/wiki/Letter_to_John_Kettle).
+Redirect to [Letter to John Kettle](../L/Letter_to_John_Kettle.md).

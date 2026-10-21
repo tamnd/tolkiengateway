@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Havens of the Falas"
 ---
 
-Redirect to [Havens of the Falas](/wiki/Havens_of_the_Falas).
+Redirect to [Havens of the Falas](Havens_of_the_Falas.md).

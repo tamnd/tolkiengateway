@@ -1,6 +1,5 @@
 ---
 title: "File:J.D. Gilbert 17 April 1967.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.D. Gilbert 17 April 1967.jpg</span>"
 page_id: 40629
 namespace: 6
 revision_id: 230547

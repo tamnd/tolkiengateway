@@ -1,6 +1,5 @@
 ---
 title: "File:Estella Canziani - Piper of Dreams.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Estella Canziani - Piper of Dreams.jpg</span>"
 page_id: 64177
 namespace: 6
 revision_id: 366865

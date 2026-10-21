@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Estel (concept)"
 ---
 
-Redirect to [Estel (concept)](/wiki/Estel_(concept)).
+Redirect to [Estel (concept)](<Estel_(concept).md>).

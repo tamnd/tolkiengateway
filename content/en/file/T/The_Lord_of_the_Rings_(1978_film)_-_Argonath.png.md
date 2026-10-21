@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Argonath.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Argonath.png</span>"
 page_id: 71548
 namespace: 6
 revision_id: 426662
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Argonath](/wiki/Argonath) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+The [Argonath](../../main/A/Argonath.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

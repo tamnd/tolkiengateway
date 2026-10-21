@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Thorndike 2003.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Thorndike 2003.png</span>"
 page_id: 38135
 namespace: 6
 revision_id: 350589

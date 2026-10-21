@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Young Bilbo Drawing.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Young Bilbo Drawing.jpg</span>"
 page_id: 73808
 namespace: 6
 revision_id: 435926
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Hobbit - An Unexpected Journey - Young Bilbo Drawing.jpg</span></th>
 <td class="description">
-<p>Self-portrait of <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a> from <i><a href="/wiki/The_Hobbit:_An_Unexpected_Journey" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
+<p>Self-portrait of <a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> from <i><a href="../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/14_December" title="14 December">December 14</a> <a href="/wiki/2012" title="2012">2012</a></td>
+<td><a href="../../main/_/14_December.md" title="14 December">December 14</a> <a href="../../main/_/2012.md" title="2012">2012</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Daniel_Reeve" title="Daniel Reeve">Daniel Reeve</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+<td><a href="../../main/D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.amazon.com.au/Weta-Workshop-Hobbit-Portarit-Baggins/dp/B07LFNJB5P" rel="noreferrer noopener" target="_blank">https://www.amazon.com.au/Weta-Workshop-Hobbit-Portarit-Baggins/dp/B07LFNJB5P</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

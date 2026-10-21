@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin"
 ---
 
-Redirect to [Thorin](/wiki/Thorin).
+Redirect to [Thorin](../T/Thorin.md).

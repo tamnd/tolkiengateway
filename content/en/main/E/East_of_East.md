@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Desert"
 ---
 
-Redirect to [Last Desert](/wiki/Last_Desert).
+Redirect to [Last Desert](../L/Last_Desert.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Norse mythology"
 ---
 
-Redirect to [Norse mythology](/wiki/Norse_mythology).
+Redirect to [Norse mythology](Norse_mythology.md).

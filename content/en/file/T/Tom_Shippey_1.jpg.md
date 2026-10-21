@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Shippey 1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Shippey 1.jpg</span>"
 page_id: 67677
 namespace: 6
 revision_id: 394644
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tom Shippey](/wiki/Tom_Shippey) at Arizona State University, photographed by Gage Skidmore.<br> source: <a class="external free" href="https://www.flickr.com/photos/gageskidmore/17172129065/" rel="noreferrer noopener" target="_blank">https://www.flickr.com/photos/gageskidmore/17172129065/</a>
+[Tom Shippey](../../main/T/Tom_Shippey.md) at Arizona State University, photographed by Gage Skidmore.<br> source: <a class="external free" href="https://www.flickr.com/photos/gageskidmore/17172129065/" rel="noreferrer noopener" target="_blank">https://www.flickr.com/photos/gageskidmore/17172129065/</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Reeve - Map of Mordor (Merchandise).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Reeve - Map of Mordor (Merchandise).jpg</span>"
 page_id: 73052
 namespace: 6
 revision_id: 439683
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Daniel Reeve - Map of Mordor (Merchandise).jpg</span></th>
 <td class="description">
-<p>Seems to be a revision of the <a href="/wiki/File:Daniel_Reeve_-_Map_of_Mordor_(Decipher).jpg" title="File:Daniel Reeve - Map of Mordor (Decipher).jpg">Decipher map</a>, with extra labels. Reeve&#39;s website lists it as &#34;a merchandise map&#34;. <a href="/wiki/The_Lord_of_the_Rings:_Weapons_and_Warfare" title="The Lord of the Rings: Weapons and Warfare">The Lord of the Rings: Weapons and Warfare</a> p. 208 has it as “Map of Mordor recovered from Cirith Ungol”
+<p>Seems to be a revision of the <a href="Daniel_Reeve_-_Map_of_Mordor_(Decipher).jpg.md" title="File:Daniel Reeve - Map of Mordor (Decipher).jpg">Decipher map</a>, with extra labels. Reeve&#39;s website lists it as &#34;a merchandise map&#34;. <a href="../../main/T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">The Lord of the Rings: Weapons and Warfare</a> p. 208 has it as “Map of Mordor recovered from Cirith Ungol”
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Daniel Reeve</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

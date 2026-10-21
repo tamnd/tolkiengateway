@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Gelion .jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Gelion .jpg</span>"
 page_id: 56652
 namespace: 6
 revision_id: 308735
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Gelion](/wiki/Gelion), and [Little Gelion](/wiki/Little_Gelion) and [Greater Gelion](/wiki/Greater_Gelion), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg>).
+Map of [Gelion](../../main/G/Gelion.md), and [Little Gelion](../../main/L/Little_Gelion.md) and [Greater Gelion](../../main/G/Greater_Gelion.md), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>).
 
 <br>
 

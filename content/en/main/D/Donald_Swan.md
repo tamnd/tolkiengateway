@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Donald Swann"
 ---
 
-Redirect to [Donald Swann](/wiki/Donald_Swann).
+Redirect to [Donald Swann](Donald_Swann.md).

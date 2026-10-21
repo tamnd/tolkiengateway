@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olwë"
 ---
 
-Redirect to [Olwë](/wiki/Olwë).
+Redirect to [Olwë](../O/Olwë.md).

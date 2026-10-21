@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf (first page).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf (first page).jpg</span>"
 page_id: 33267
 namespace: 6
 revision_id: 428233

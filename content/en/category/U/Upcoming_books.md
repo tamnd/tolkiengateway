@@ -1,6 +1,5 @@
 ---
 title: "Category:Upcoming books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Upcoming books</span>"
 page_id: 60452
 namespace: 14
 revision_id: 338689

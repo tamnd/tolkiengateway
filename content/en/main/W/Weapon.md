@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Weapons"
 ---
 
-Redirect to [Category:Weapons](/wiki/Category:Weapons).
+Redirect to [Category:Weapons](../../category/W/Weapons.md).

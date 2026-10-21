@@ -1,6 +1,5 @@
 ---
 title: "Grant Gould"
-display_title: "<span class=\"mw-page-title-main\">Grant Gould</span>"
 page_id: 12140
 namespace: 0
 revision_id: 420463
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Gould, Grant"
 ---
 
-**Grant Gould** worked with <a class="new" href="/w/index.php?title=Topps&amp;action=edit&amp;redlink=1" title="Topps (page does not exist)">Topps</a> to create 100 illustrations for [The Lord of the Rings Masterpieces](/wiki/The_Lord_of_the_Rings_Masterpieces).
+**Grant Gould** worked with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Topps&amp;action=edit&amp;redlink=1" title="Topps (page does not exist)">Topps</a> to create 100 illustrations for [The Lord of the Rings Masterpieces](../T/The_Lord_of_the_Rings_Masterpieces.md).
 
 <br>
 
 ## See also {#See_also}
 
-- [Images by Grant Gould](/wiki/Category:Images_by_Grant_Gould "Category:Images by Grant Gould")
+- [Images by Grant Gould](../../category/I/Images_by_Grant_Gould.md)
 
 ## External links {#External_links}
 

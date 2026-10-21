@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second battle of Dagorlad"
 ---
 
-Redirect to [Second battle of Dagorlad](/wiki/Second_battle_of_Dagorlad).
+Redirect to [Second battle of Dagorlad](Second_battle_of_Dagorlad.md).

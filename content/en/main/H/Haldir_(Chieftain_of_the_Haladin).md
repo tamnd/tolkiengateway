@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haldir (Chieftain of Brethil)"
 ---
 
-Redirect to [Haldir (Chieftain of Brethil)](/wiki/Haldir_(Chieftain_of_Brethil)).
+Redirect to [Haldir (Chieftain of Brethil)](<Haldir_(Chieftain_of_Brethil).md>).

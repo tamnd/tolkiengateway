@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - He chanted a song of wizardry,.wav"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - He chanted a song of wizardry,.wav</span>"
 page_id: 71266
 namespace: 6
 revision_id: 425115
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Tolkien](/wiki/Christopher_Tolkien) reads *The [He chanted a song of wizardry,](/wiki/He_chanted_a_song_of_wizardry,)* from [Of Beren and Lúthien](/wiki/Of_Beren_and_L%C3%BAthien)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) reads *The [He chanted a song of wizardry,](../../main/H/He_chanted_a_song_of_wizardry,.md)* from [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
 
 ## Licensing {#Licensing}
 

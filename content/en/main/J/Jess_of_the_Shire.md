@@ -1,6 +1,5 @@
 ---
 title: "Jess of the Shire"
-display_title: "<span class=\"mw-page-title-main\">Jess of the Shire</span>"
 page_id: 65601
 namespace: 0
 revision_id: 439423
@@ -15,9 +14,9 @@ images:
   - "Part_Time_Hobbit_-_Logo.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Part_Time_Hobbit_-_Logo.jpg"><img src="/w/images/4/4b/Part_Time_Hobbit_-_Logo.jpg" decoding="async" loading="lazy" width="176" height="176" class="mw-file-element" data-file-width="176" data-file-height="176"/></a><figcaption>Channel avatar</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Part_Time_Hobbit_-_Logo.jpg.md"><img src="https://tolkiengateway.net/w/images/4/4b/Part_Time_Hobbit_-_Logo.jpg" decoding="async" loading="lazy" width="176" height="176" class="mw-file-element" data-file-width="176" data-file-height="176"/></a><figcaption>Channel avatar</figcaption></figure>
 
-**Jess of the Shire**, formerly know as **Part Time Hobbit** is a YouTube channel hosted by Jess. Her content revolves around [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works, consisting mostly of <a class="extiw" href="http://en.wikipedia.org/wiki/Video_essay" title="wikipedia:Video essay">video essays</a>.
+**Jess of the Shire**, formerly know as **Part Time Hobbit** is a YouTube channel hosted by Jess. Her content revolves around [J.R.R. Tolkien](J.R.R._Tolkien.md) and his works, consisting mostly of <a class="extiw" href="http://en.wikipedia.org/wiki/Video_essay" title="wikipedia:Video essay">video essays</a>.
 
 <br>
 

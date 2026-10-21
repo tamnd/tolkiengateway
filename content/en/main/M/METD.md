@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Dragons"
 ---
 
-Redirect to [Middle-earth: The Dragons](/wiki/Middle-earth:_The_Dragons).
+Redirect to [Middle-earth: The Dragons](Middle-earth%253A_The_Dragons.md).

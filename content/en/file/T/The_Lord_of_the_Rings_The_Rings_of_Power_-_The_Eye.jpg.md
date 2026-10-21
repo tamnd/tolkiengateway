@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power - The Eye.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power - The Eye.jpg</span>"
 page_id: 63807
 namespace: 6
 revision_id: 415363
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art for the soundtrack of the seventh episode of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series, "[The Eye](/wiki/The_Eye)".
+Cover art for the soundtrack of the seventh episode of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series, "[The Eye](../../main/T/The_Eye.md)".
 
 ## Licensing {#Licensing}
 

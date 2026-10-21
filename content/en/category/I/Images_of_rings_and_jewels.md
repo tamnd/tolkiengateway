@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of rings and jewels"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of rings and jewels</span>"
 page_id: 39851
 namespace: 14
 revision_id: 199777

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Carole Ward"
 ---
 
-Redirect to [Letter to Carole Ward](/wiki/Letter_to_Carole_Ward).
+Redirect to [Letter to Carole Ward](../L/Letter_to_Carole_Ward.md).

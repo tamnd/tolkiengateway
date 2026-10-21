@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Boromir looking at Isildur mural.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Boromir looking at Isildur mural.jpg</span>"
 page_id: 7436
 namespace: 6
 revision_id: 260372

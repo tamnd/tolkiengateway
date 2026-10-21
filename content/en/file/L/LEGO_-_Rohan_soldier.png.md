@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Rohan soldier.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Rohan soldier.png</span>"
 page_id: 73301
 namespace: 6
 revision_id: 433542
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rohan soldier](/wiki/Rohirrim "Rohirrim") - [LEGO](/wiki/Lego "Lego") minifigure
+[Rohan soldier](../../main/R/Rohirrim.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

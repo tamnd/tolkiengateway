@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Khazad-dûm"
 ---
 
-Redirect to [Dwarves of Khazad-dûm](/wiki/Dwarves_of_Khazad-dûm).
+Redirect to [Dwarves of Khazad-dûm](Dwarves_of_Khazad-dûm.md).

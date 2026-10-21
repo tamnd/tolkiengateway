@@ -1,6 +1,5 @@
 ---
 title: "John Wilson"
-display_title: "<span class=\"mw-page-title-main\">John Wilson</span>"
 page_id: 25842
 namespace: 0
 revision_id: 440140
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Wilson, John"
 ---
 
-**John Wilson** (born [1947](/wiki/1947)), also known as **The Balrog**,<sup id="cite_ref-Spectrum1_1-0" class="reference"><a href="#cite_note-Spectrum1-1">[1]</a></sup> is the founder of [Zenobi Software](/wiki/Zenobi_Software). His company created the text-adventure games *[An Everyday Tale of a Seeker of Gold](/wiki/An_Everyday_Tale_of_a_Seeker_of_Gold)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-El_Anillo_4-0" class="reference"><a href="#cite_note-El_Anillo-4">[4]</a></sup> *[Bulbo and the Lizard King](/wiki/Bulbo_and_the_Lizard_King)*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *[Fuddo and Slam](/wiki/Fuddo_and_Slam)*<sup id="cite_ref-Spectrum1_1-1" class="reference"><a href="#cite_note-Spectrum1-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> and *[Retarded Creatures and Caverns](/wiki/Retarded_Creatures_and_Caverns)*.<sup id="cite_ref-El_Anillo_4-1" class="reference"><a href="#cite_note-El_Anillo-4">[4]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+**John Wilson** (born [1947](../_/1947.md)), also known as **The Balrog**,<sup id="cite_ref-Spectrum1_1-0" class="reference"><a href="#cite_note-Spectrum1-1">[1]</a></sup> is the founder of [Zenobi Software](../Z/Zenobi_Software.md). His company created the text-adventure games *[An Everyday Tale of a Seeker of Gold](../A/An_Everyday_Tale_of_a_Seeker_of_Gold.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-El_Anillo_4-0" class="reference"><a href="#cite_note-El_Anillo-4">[4]</a></sup> *[Bulbo and the Lizard King](../B/Bulbo_and_the_Lizard_King.md)*,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *[Fuddo and Slam](../F/Fuddo_and_Slam.md)*<sup id="cite_ref-Spectrum1_1-1" class="reference"><a href="#cite_note-Spectrum1-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> and *[Retarded Creatures and Caverns](../R/Retarded_Creatures_and_Caverns.md)*.<sup id="cite_ref-El_Anillo_4-1" class="reference"><a href="#cite_note-El_Anillo-4">[4]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## External links {#External_links}
 

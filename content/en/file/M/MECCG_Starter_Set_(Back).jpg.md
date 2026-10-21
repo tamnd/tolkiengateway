@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG Starter Set (Back).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG Starter Set (Back).jpg</span>"
 page_id: 72912
 namespace: 6
 revision_id: 432165

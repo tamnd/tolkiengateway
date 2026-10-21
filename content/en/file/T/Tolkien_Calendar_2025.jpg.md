@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Calendar 2025.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Calendar 2025.jpg</span>"
 page_id: 67273
 namespace: 6
 revision_id: 390691

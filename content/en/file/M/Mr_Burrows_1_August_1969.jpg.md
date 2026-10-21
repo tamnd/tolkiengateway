@@ -1,6 +1,5 @@
 ---
 title: "File:Mr Burrows 1 August 1969.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr Burrows 1 August 1969.jpg</span>"
 page_id: 27638
 namespace: 6
 revision_id: 215072

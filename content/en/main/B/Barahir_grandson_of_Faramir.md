@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir (grandson of Faramir)"
 ---
 
-Redirect to [Barahir (grandson of Faramir)](/wiki/Barahir_(grandson_of_Faramir)).
+Redirect to [Barahir (grandson of Faramir)](<Barahir_(grandson_of_Faramir).md>).

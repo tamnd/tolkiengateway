@@ -1,6 +1,5 @@
 ---
 title: "File:Guy Gavriel Kay.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guy Gavriel Kay.jpg</span>"
 page_id: 43488
 namespace: 6
 revision_id: 438272
@@ -24,7 +23,7 @@ file:
   user: "Paccyd33"
 ---
 
-Photograph of [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay). Photographer: Beth Gwinn.
+Photograph of [Guy Gavriel Kay](../../main/G/Guy_Gavriel_Kay.md). Photographer: Beth Gwinn.
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay). Photographer: Beth Gwinn
 </p>
 <ul><li><b>Name:</b> Guy Gavriel Kay</li>
 <li><b>Website:</b> <a class="external text" href="http://www.brightweavings.com/" rel="noreferrer noopener" target="_blank">Guy Gavriel Kay</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Guy_Gavriel_Kay" title="Tolkien Gateway:Copyrights/Guy Gavriel Kay">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGuy_Gavriel_Kay.md" title="Tolkien Gateway:Copyrights/Guy Gavriel Kay">Permission for use on Tolkien Gateway</a></b></li></ul></div>

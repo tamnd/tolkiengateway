@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to a Primary School in Acocks Green"
 ---
 
-Redirect to [Letter to a Primary School in Acocks Green](/wiki/Letter_to_a_Primary_School_in_Acocks_Green).
+Redirect to [Letter to a Primary School in Acocks Green](../L/Letter_to_a_Primary_School_in_Acocks_Green.md).

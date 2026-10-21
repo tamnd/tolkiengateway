@@ -1,6 +1,5 @@
 ---
 title: "Brilthor"
-display_title: "<span class=\"mw-page-title-main\">Brilthor</span>"
 page_id: 1607
 namespace: 0
 revision_id: 324787
@@ -30,29 +29,29 @@ images:
   - "Matěj_Čadil_-_Brilthor.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg"><img src="/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg" decoding="async" loading="lazy" width="300" height="390" class="mw-file-element" srcset="/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 1.5x, /w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 2x" data-file-width="1232" data-file-height="1600"/></a><figcaption><i>Brilthor</i>by <a href="/wiki/Mat%C4%9Bj_%C4%8Cadil" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Brilthor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg" decoding="async" loading="lazy" width="300" height="390" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Brilthor.jpg 2x" data-file-width="1232" data-file-height="1600"/></a><figcaption><i>Brilthor</i>by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**Brilthor** was one of the six swift rivers that flowed westward from the mountains of the [Ered Luin](/wiki/Ered_Luin) to meet the long course of the [Gelion](/wiki/Gelion) on the borders of [Ossiriand](/wiki/Ossiriand). The Brilthor lay between the rivers [Legolin](/wiki/Legolin) and [Duilwen](/wiki/Duilwen).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Brilthor** was one of the six swift rivers that flowed westward from the mountains of the [Ered Luin](../E/Ered_Luin.md) to meet the long course of the [Gelion](../G/Gelion.md) on the borders of [Ossiriand](../O/Ossiriand.md). The Brilthor lay between the rivers [Legolin](../L/Legolin.md) and [Duilwen](../D/Duilwen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Brilthor* is said to mean "glittering torrent" in [Ilkorin](/wiki/Ilkorin), from <i><a class="new" href="/w/index.php?title=Bril&amp;action=edit&amp;redlink=1" title="Bril (page does not exist)">bril</a></i> ("glass, crystal") and a form of <i><a class="new" href="/w/index.php?title=Th%C3%B3rod&amp;action=edit&amp;redlink=1" title="Thórod (page does not exist)">thórod</a></i> ("torrent").<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+*Brilthor* is said to mean "glittering torrent" in [Ilkorin](../I/Ilkorin.md), from <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bril&amp;action=edit&amp;redlink=1" title="Bril (page does not exist)">bril</a></i> ("glass, crystal") and a form of <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Th%C3%B3rod&amp;action=edit&amp;redlink=1" title="Thórod (page does not exist)">thórod</a></i> ("torrent").<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
-<li id="cite_note-LR-2"><span class="mw-cite-backlink"><a href="#cite_ref-LR_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, pp. 372 (entry &#34;<a href="/wiki/MB%C3%8DRIL" title="MBÍRIL">MBIRIL</a>&#34;), 392-3 (entries &#34;THOR-&#34;, &#34;THORON-&#34;)</span>
+<li id="cite_note-LR-2"><span class="mw-cite-backlink"><a href="#cite_ref-LR_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, pp. 372 (entry &#34;<a href="../M/MBÍRIL.md" title="MBÍRIL">MBIRIL</a>&#34;), 392-3 (entries &#34;THOR-&#34;, &#34;THORON-&#34;)</span>
 </li>
 </ol></div>
 
 <table style="margin-top: .5em; margin-left: 0 auto; margin-right: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5)">Seven Rivers of <a href="/wiki/Ossiriand" title="Ossiriand">Ossiriand</a>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)">Seven Rivers of <a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/Gelion" title="Gelion">Gelion</a> · <a href="/wiki/Ascar" title="Ascar">Ascar</a> · <a href="/wiki/Thalos" title="Thalos">Thalos</a> · <a href="/wiki/Legolin" title="Legolin">Legolin</a> · <a class="mw-selflink selflink">Brilthor</a> · <a href="/wiki/Duilwen" title="Duilwen">Duilwen</a> · <a href="/wiki/Adurant" title="Adurant">Adurant</a>
+<td style="font-size: 90%;" align="center"><a href="../G/Gelion.md" title="Gelion">Gelion</a> · <a href="../A/Ascar.md" title="Ascar">Ascar</a> · <a href="../T/Thalos.md" title="Thalos">Thalos</a> · <a href="../L/Legolin.md" title="Legolin">Legolin</a> · <a class="mw-selflink selflink">Brilthor</a> · <a href="../D/Duilwen.md" title="Duilwen">Duilwen</a> · <a href="../A/Adurant.md" title="Adurant">Adurant</a>
 </td></tr></tbody></table>

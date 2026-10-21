@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves"
 ---
 
-Redirect to [Dwarves](/wiki/Dwarves).
+Redirect to [Dwarves](Dwarves.md).

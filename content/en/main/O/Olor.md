@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olos"
 ---
 
-Redirect to [Olos](/wiki/Olos).
+Redirect to [Olos](Olos.md).

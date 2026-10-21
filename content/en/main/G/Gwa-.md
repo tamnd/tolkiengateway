@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Go-"
 ---
 
-Redirect to [Go-](/wiki/Go-).
+Redirect to [Go-](Go-.md).

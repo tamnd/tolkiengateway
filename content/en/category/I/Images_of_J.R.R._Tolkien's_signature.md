@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of J.R.R. Tolkien's signature"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of J.R.R. Tolkien&#039;s signature</span>"
 page_id: 16130
 namespace: 14
 revision_id: 411934
@@ -15,4 +14,4 @@ sort_keys:
   "Images of objects (real-life)": "J.R.R. Tolkien's signature"
 ---
 
-Images of [J.R.R. Tolkien's signature](/wiki/J.R.R._Tolkien%27s_signature)
+Images of [J.R.R. Tolkien's signature](../../main/J/J.R.R._Tolkien's_signature.md)

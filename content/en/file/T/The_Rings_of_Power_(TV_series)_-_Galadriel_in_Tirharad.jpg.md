@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Galadriel in Tirharad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Galadriel in Tirharad.jpg</span>"
 page_id: 63273
 namespace: 6
 revision_id: 412212

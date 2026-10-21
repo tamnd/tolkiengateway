@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hunthor"
 ---
 
-Redirect to [Hunthor](/wiki/Hunthor).
+Redirect to [Hunthor](../H/Hunthor.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Serbian people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Serbian people</span>"
 page_id: 40102
 namespace: 14
 revision_id: 201686

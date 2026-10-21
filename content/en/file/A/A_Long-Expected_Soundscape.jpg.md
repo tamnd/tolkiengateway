@@ -1,6 +1,5 @@
 ---
 title: "File:A Long-Expected Soundscape.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Long-Expected Soundscape.jpg</span>"
 page_id: 65086
 namespace: 6
 revision_id: 374701

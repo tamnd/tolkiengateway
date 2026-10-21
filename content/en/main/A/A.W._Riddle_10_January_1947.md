@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to A.W. Riddle (10 January 1947)"
 ---
 
-Redirect to [Letter to A.W. Riddle (10 January 1947)](/wiki/Letter_to_A.W._Riddle_(10_January_1947)).
+Redirect to [Letter to A.W. Riddle (10 January 1947)](<../L/Letter_to_A.W._Riddle_(10_January_1947).md>).

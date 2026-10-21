@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with too many expensive parser function calls"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with too many expensive parser function calls</span>"
 page_id: 69203
 namespace: 14
 revision_id: 413496

@@ -11,4 +11,4 @@ redirect_target: "The History of Galadriel and Celeborn"
 redirect_fragment: "Concerning Galadriel and Celeborn"
 ---
 
-Redirect to [The History of Galadriel and Celeborn](/wiki/The_History_of_Galadriel_and_Celeborn#Concerning_Galadriel_and_Celeborn).
+Redirect to [The History of Galadriel and Celeborn](../T/The_History_of_Galadriel_and_Celeborn.md#Concerning_Galadriel_and_Celeborn).

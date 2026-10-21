@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dúnedain of Arnor"
 ---
 
-Redirect to [Dúnedain of Arnor](/wiki/Dúnedain_of_Arnor).
+Redirect to [Dúnedain of Arnor](../D/Dúnedain_of_Arnor.md).

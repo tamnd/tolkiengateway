@@ -1,6 +1,5 @@
 ---
 title: "File:Balin's Tomb Battle for Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Balin&#039;s Tomb Battle for Middle-earth.png</span>"
 page_id: 33737
 namespace: 6
 revision_id: 247080
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-[Balin](/wiki/Balin)'s [Tomb](/wiki/Balin%27s_Tomb "Balin's Tomb") in [Moria](/wiki/Moria).
+[Balin](../../main/B/Balin.md)'s [Tomb](../../main/B/Balin's_Tomb.md) in [Moria](../../main/M/Moria.md).
 
-Screenshot from the PC version of *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*.
+Screenshot from the PC version of *[The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 

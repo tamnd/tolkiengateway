@@ -1,6 +1,5 @@
 ---
 title: "Shé"
-display_title: "<span class=\"mw-page-title-main\">Shé</span>"
 page_id: 7313
 namespace: 0
 revision_id: 218535
@@ -15,4 +14,4 @@ sort_keys:
   "Westron words": "She"
 ---
 
-**Shé** is the [Westron](/wiki/Westron) name for the tengwa 11. It has the value *sh*. [Aha](/wiki/Aha) is the [Quenya](/wiki/Quenya) equivalent.
+**Shé** is the [Westron](../W/Westron.md) name for the tengwa 11. It has the value *sh*. [Aha](../A/Aha.md) is the [Quenya](../Q/Quenya.md) equivalent.

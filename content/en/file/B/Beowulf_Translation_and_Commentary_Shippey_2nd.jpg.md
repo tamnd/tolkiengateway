@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf Translation and Commentary Shippey 2nd.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf Translation and Commentary Shippey 2nd.jpg</span>"
 page_id: 67223
 namespace: 6
 revision_id: 390457

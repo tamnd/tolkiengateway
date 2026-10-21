@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lothíriel"
 ---
 
-Redirect to [Lothíriel](/wiki/Lothíriel).
+Redirect to [Lothíriel](Lothíriel.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Transactions of the Honourable Society of Cymmrodorion Session 1923-24.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Transactions of the Honourable Society of Cymmrodorion Session 1923-24.jpg</span>"
 page_id: 27628
 namespace: 6
 revision_id: 213688

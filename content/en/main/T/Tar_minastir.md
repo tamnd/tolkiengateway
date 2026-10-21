@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Minastir"
 ---
 
-Redirect to [Tar-Minastir](/wiki/Tar-Minastir).
+Redirect to [Tar-Minastir](Tar-Minastir.md).

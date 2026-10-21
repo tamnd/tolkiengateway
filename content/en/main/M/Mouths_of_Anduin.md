@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ethir Anduin"
 ---
 
-Redirect to [Ethir Anduin](/wiki/Ethir_Anduin).
+Redirect to [Ethir Anduin](../E/Ethir_Anduin.md).

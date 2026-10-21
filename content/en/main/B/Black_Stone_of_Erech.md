@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone of Erech"
 ---
 
-Redirect to [Stone of Erech](/wiki/Stone_of_Erech).
+Redirect to [Stone of Erech](../S/Stone_of_Erech.md).

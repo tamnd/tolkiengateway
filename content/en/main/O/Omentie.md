@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Omentië"
 ---
 
-Redirect to [Omentië](/wiki/Omentië).
+Redirect to [Omentië](Omentië.md).

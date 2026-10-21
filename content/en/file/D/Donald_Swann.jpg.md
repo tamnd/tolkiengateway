@@ -1,6 +1,5 @@
 ---
 title: "File:Donald Swann.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Donald Swann.jpg</span>"
 page_id: 7426
 namespace: 6
 revision_id: 249938

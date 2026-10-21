@@ -1,6 +1,5 @@
 ---
 title: "File:76 Sandfield Road.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">76 Sandfield Road.jpg</span>"
 page_id: 9449
 namespace: 6
 revision_id: 225560

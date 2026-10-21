@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - The Cow jumped over the Moon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - The Cow jumped over the Moon.jpg</span>"
 page_id: 71511
 namespace: 6
 revision_id: 438249
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Cow jumped over the Moon](/wiki/The_Man_in_the_Moon_Stayed_Up_Too_Late "The Man in the Moon Stayed Up Too Late")" by [Cor Blok](/wiki/Cor_Blok)
+"[The Cow jumped over the Moon](../../main/T/The_Man_in_the_Moon_Stayed_Up_Too_Late.md)" by [Cor Blok](../../main/C/Cor_Blok.md)
 
 ## Licensing {#Licensing}
 

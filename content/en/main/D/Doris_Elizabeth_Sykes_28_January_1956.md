@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Doris Elizabeth Sykes (28 January 1956)"
 ---
 
-Redirect to [Letter to Doris Elizabeth Sykes (28 January 1956)](/wiki/Letter_to_Doris_Elizabeth_Sykes_(28_January_1956)).
+Redirect to [Letter to Doris Elizabeth Sykes (28 January 1956)](<../L/Letter_to_Doris_Elizabeth_Sykes_(28_January_1956).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helm's daughter"
 ---
 
-Redirect to [Helm's daughter](/wiki/Helm's_daughter).
+Redirect to [Helm's daughter](Helm's_daughter.md).

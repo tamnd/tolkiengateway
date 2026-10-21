@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lassë"
 ---
 
-Redirect to [Lassë](/wiki/Lassë).
+Redirect to [Lassë](Lassë.md).

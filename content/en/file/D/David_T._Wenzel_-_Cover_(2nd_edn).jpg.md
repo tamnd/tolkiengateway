@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:David T. Wenzel - Shire Pastoral.jpg"
 ---
 
-Redirect to [File:David T. Wenzel - Shire Pastoral.jpg](/wiki/File:David_T._Wenzel_-_Shire_Pastoral.jpg).
+Redirect to [File:David T. Wenzel - Shire Pastoral.jpg](David_T._Wenzel_-_Shire_Pastoral.jpg.md).

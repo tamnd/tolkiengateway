@@ -13,24 +13,24 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lass</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "leaf".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>lass</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "leaf".<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Athelas" title="Athelas">athe<b>las</b></a></i> (*[athae](/wiki/Athae "Athae")* + *lass*)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
-- <i><a href="/wiki/Eryn_Lasgalen" title="Eryn Lasgalen">Eryn <b>Las</b>galen</a></i>
-- *[Finglas](/wiki/Leaflock "Leaflock")*
-- *[Legolas](/wiki/Legolas)*
+- <i><a href="../A/Athelas.md" title="Athelas">athe<b>las</b></a></i> (*[athae](../A/Athae.md)* + *lass*)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- <i><a href="../E/Eryn_Lasgalen.md" title="Eryn Lasgalen">Eryn <b>Las</b>galen</a></i>
+- *[Finglas](Leaflock.md)*
+- *[Legolas](Legolas.md)*
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[lassë](/wiki/Lass%C3%AB "Lassë")*
+- [Quenya](../Q/Quenya.md) *[lassë](Lassë.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>) p. 49</span>
+<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>) p. 49</span>
 </li>
 </ol></div>

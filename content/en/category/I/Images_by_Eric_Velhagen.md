@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Eric Velhagen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Eric Velhagen</span>"
 page_id: 73478
 namespace: 14
 revision_id: 434338
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Velhagen, Eric"
 ---
 
-This category lists all **images by [Eric Velhagen](/wiki/Eric_Velhagen)**.
+This category lists all **images by [Eric Velhagen](../../main/E/Eric_Velhagen.md)**.

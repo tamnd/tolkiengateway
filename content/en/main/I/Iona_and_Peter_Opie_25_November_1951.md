@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Iona and Peter Opie"
 ---
 
-Redirect to [Letter to Iona and Peter Opie](/wiki/Letter_to_Iona_and_Peter_Opie).
+Redirect to [Letter to Iona and Peter Opie](../L/Letter_to_Iona_and_Peter_Opie.md).

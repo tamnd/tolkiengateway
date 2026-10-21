@@ -1,6 +1,5 @@
 ---
 title: "Category:IRC users"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">IRC users</span>"
 page_id: 8818
 namespace: 14
 revision_id: 129144
@@ -15,6 +14,6 @@ categories:
 
 <div style="float:right;"></div>
 
-This is a list of users who frequent our [IRC network](/wiki/Tolkien_Gateway:Chat "Tolkien Gateway:Chat").<br><br>You can add yourself to this category by adding the userbox: {{[user irc](/wiki/Template:User_irc "Template:User irc")}}, or add the following to your [user page](/wiki/Help:User_page "Help:User page"):
+This is a list of users who frequent our [IRC network](../../project/C/Chat.md).<br><br>You can add yourself to this category by adding the userbox: {{[user irc](https://tolkiengateway.net/wiki/Template:User_irc)}}, or add the following to your [user page](../../help/U/User_page.md):
 
 <pre>[[Category:IRC users|{{PAGENAME}}]]</pre>

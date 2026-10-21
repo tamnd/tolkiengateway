@@ -1,6 +1,5 @@
 ---
 title: "Category:Roads and streets"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roads and streets</span>"
 page_id: 39691
 namespace: 14
 revision_id: 288423

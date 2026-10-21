@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Darek Zabrocki"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Darek Zabrocki</span>"
 page_id: 48167
 namespace: 4
 revision_id: 257257
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Zabrocki, Darek"
 ---
 
-- Darek Zabrocki has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Darek_Zabrocki "Category:Images by Darek Zabrocki") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Darek Zabrocki has kindly granted his permission to use [his artwork](../../category/I/Images_by_Darek_Zabrocki.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 October 2014
-- User who sought the permission via deviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via deviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

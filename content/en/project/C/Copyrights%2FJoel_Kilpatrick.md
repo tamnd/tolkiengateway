@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Joel Kilpatrick"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Joel Kilpatrick</span>"
 page_id: 50057
 namespace: 4
 revision_id: 271056
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kilpatrick, Joel"
 ---
 
-- Joel Kilpatrick has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Joel_Kilpatrick "Category:Images by Joel Kilpatrick") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Joel Kilpatrick has kindly granted his permission to use [his artwork](../../category/I/Images_by_Joel_Kilpatrick.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 1 June 2015
-- User who sought the permission via DeviantArt: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via DeviantArt: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

@@ -1,6 +1,5 @@
 ---
 title: "File:Klaus Ensikat.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Klaus Ensikat.jpg</span>"
 page_id: 34248
 namespace: 6
 revision_id: 248896

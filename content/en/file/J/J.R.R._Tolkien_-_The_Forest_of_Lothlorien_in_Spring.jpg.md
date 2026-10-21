@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Forest of Lothlorien in Spring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Forest of Lothlorien in Spring.jpg</span>"
 page_id: 5762
 namespace: 6
 revision_id: 424834
@@ -27,11 +26,11 @@ file:
 
 ## Summary {#Summary}
 
-Crayon drawing by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) of the mallorn trees of [Lothlorien](/wiki/Lothl%C3%B3rien "Lothlórien"); cf. [The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring), Book II, Chapter 6:
+Crayon drawing by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) of the mallorn trees of [Lothlorien](../../main/L/Lothlórien.md); cf. [The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md), Book II, Chapter 6:
 
 <dl><dd>&#39;There are no trees like the trees of that land. For in the autumn their leaves fall not, but turn to gold. Not till the spring comes and the new green opens do they fall, and then the boughs are laden with yellow flowers; and the floor of the wood is golden, and golden is the roof, and its pillars are of silver, for the bark of the trees is smooth and grey.&#39;</dd></dl>
 
-This reproduction is as published in The J. R. R. Tolkien Calendar 1974; an enlarged reproduction, with some of the picture including the title cut out, appeared in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar).
+This reproduction is as published in The J. R. R. Tolkien Calendar 1974; an enlarged reproduction, with some of the picture including the title cut out, appeared in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Licensing {#Licensing}
 

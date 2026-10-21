@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wellinghall"
 ---
 
-Redirect to [Wellinghall](/wiki/Wellinghall).
+Redirect to [Wellinghall](../W/Wellinghall.md).

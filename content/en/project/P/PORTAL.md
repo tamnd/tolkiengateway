@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Community Portal"
 ---
 
-Redirect to [Tolkien Gateway:Community Portal](/wiki/Tolkien_Gateway:Community_Portal).
+Redirect to [Tolkien Gateway:Community Portal](../C/Community_Portal.md).

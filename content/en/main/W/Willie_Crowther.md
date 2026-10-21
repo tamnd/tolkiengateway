@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William Crowther"
 ---
 
-Redirect to [William Crowther](/wiki/William_Crowther).
+Redirect to [William Crowther](William_Crowther.md).

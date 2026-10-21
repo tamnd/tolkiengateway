@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Dorthonion in winter & a brief moment of happiness.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Dorthonion in winter &amp; a brief moment of happiness.jpg</span>"
 page_id: 69197
 namespace: 6
 revision_id: 429463
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Andreth](/wiki/Andreth) and [Aegnor](/wiki/Aegnor) are skating*", by [Elena Kukanova](/wiki/Elena_Kukanova)
+"*[Andreth](../../main/A/Andreth.md) and [Aegnor](../../main/A/Aegnor.md) are skating*", by [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s DeviantArt page</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

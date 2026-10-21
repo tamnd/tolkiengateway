@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Sauron.jpg</span>"
 page_id: 22985
 namespace: 6
 revision_id: 424832
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This sketch for the dust jacket of *[The Return of the King](/wiki/The_Return_of_the_King)* was published in *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*.
+This sketch for the dust jacket of *[The Return of the King](../../main/T/The_Return_of_the_King.md)* was published in *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.
 
 ## Licensing {#Licensing}
 

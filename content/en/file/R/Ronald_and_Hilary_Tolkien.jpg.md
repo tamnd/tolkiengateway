@@ -1,6 +1,5 @@
 ---
 title: "File:Ronald and Hilary Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ronald and Hilary Tolkien.jpg</span>"
 page_id: 5747
 namespace: 6
 revision_id: 247293
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ronald](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") and [Hilary Tolkien](/wiki/Hilary_Tolkien)
+[Ronald](../../main/J/J.R.R._Tolkien.md) and [Hilary Tolkien](../../main/H/Hilary_Tolkien.md)
 
 ## Licensing {#Licensing}
 

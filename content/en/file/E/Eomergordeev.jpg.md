@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Denis Gordeev - Éomer.jpg"
 ---
 
-Redirect to [File:Denis Gordeev - Éomer.jpg](/wiki/File:Denis_Gordeev_-_Éomer.jpg).
+Redirect to [File:Denis Gordeev - Éomer.jpg](../D/Denis_Gordeev_-_Éomer.jpg.md).

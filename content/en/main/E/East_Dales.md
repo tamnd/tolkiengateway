@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eastfold"
 ---
 
-Redirect to [Eastfold](/wiki/Eastfold).
+Redirect to [Eastfold](Eastfold.md).

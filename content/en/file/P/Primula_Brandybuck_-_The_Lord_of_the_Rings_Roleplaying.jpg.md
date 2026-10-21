@@ -1,6 +1,5 @@
 ---
 title: "File:Primula Brandybuck - The Lord of the Rings Roleplaying.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Primula Brandybuck - The Lord of the Rings Roleplaying.jpg</span>"
 page_id: 71234
 namespace: 6
 revision_id: 442351
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Primula Brandybuck - The Lord of the Rings Roleplaying.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Primula_Brandybuck" title="Primula Brandybuck">Primula Brandybuck</a>
+<p><a href="../../main/P/Primula_Brandybuck.md" title="Primula Brandybuck">Primula Brandybuck</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jan_Posp%C3%AD%C5%A1il" title="Jan Pospíšil">Jan Pospíšil</a></td>
+<td><a href="../../main/J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings_Roleplaying" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 98</td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings_Roleplaying.md" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 98</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

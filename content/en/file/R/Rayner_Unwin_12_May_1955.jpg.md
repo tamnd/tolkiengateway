@@ -1,6 +1,5 @@
 ---
 title: "File:Rayner Unwin 12 May 1955.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rayner Unwin 12 May 1955.jpg</span>"
 page_id: 45540
 namespace: 6
 revision_id: 240015

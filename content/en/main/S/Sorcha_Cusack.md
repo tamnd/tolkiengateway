@@ -1,6 +1,5 @@
 ---
 title: "Sorcha Cusack"
-display_title: "<span class=\"mw-page-title-main\">Sorcha Cusack</span>"
 page_id: 22446
 namespace: 0
 revision_id: 222014
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Cusack, Sorcha"
 ---
 
-**Sorcha Cusack** ([April 9](/wiki/9_April "9 April"), [1949](/wiki/1949)) is an Irish actress, the younger sister of <a class="extiw" href="http://en.wikipedia.org/wiki/Sin%C3%A9ad_Cusack" title="wikipedia:Sinéad Cusack">Sinéad Cusack</a>. She played [Goldberry](/wiki/Goldberry) in the two episodes of "The Adventures of Tom Bombadil", that were aired as part of [*Tales from the Perilous Realm* (1992 radio series)](</wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)> "Tales from the Perilous Realm (1992 radio series)").
+**Sorcha Cusack** ([April 9](../_/9_April.md), [1949](../_/1949.md)) is an Irish actress, the younger sister of <a class="extiw" href="http://en.wikipedia.org/wiki/Sin%C3%A9ad_Cusack" title="wikipedia:Sinéad Cusack">Sinéad Cusack</a>. She played [Goldberry](../G/Goldberry.md) in the two episodes of "The Adventures of Tom Bombadil", that were aired as part of [*Tales from the Perilous Realm* (1992 radio series)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White deer"
 ---
 
-Redirect to [White deer](/wiki/White_deer).
+Redirect to [White deer](../W/White_deer.md).

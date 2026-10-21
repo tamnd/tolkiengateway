@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inglor Felagund"
 ---
 
-Redirect to [Inglor Felagund](/wiki/Inglor_Felagund).
+Redirect to [Inglor Felagund](Inglor_Felagund.md).

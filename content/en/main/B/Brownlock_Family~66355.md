@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brownlock family"
 ---
 
-Redirect to [Brownlock family](/wiki/Brownlock_family).
+Redirect to [Brownlock family](Brownlock_family.md).

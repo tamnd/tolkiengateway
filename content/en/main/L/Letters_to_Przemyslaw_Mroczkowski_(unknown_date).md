@@ -16,9 +16,9 @@ sort_keys:
   "Letters": "Mroczkowski, Przemyslaw (1960)"
 ---
 
-At somepoint during the 1960s, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[two letters](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to [Przemyslaw Mroczkowski](/wiki/Przemyslaw_Mroczkowski)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+At somepoint during the 1960s, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[two letters](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Publication:** A description of the letters was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_1_June_2009)*.
+- **Publication:** A description of the letters was included in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
 
 ## Contents {#Contents}
 
@@ -26,14 +26,14 @@ At somepoint during the 1960s, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[t
 
 ## See also {#See_also}
 
-- [Letters to Przemyslaw Mroczkowski](/wiki/Category:Letters_to_Przemyslaw_Mroczkowski "Category:Letters to Przemyslaw Mroczkowski")
+- [Letters to Przemyslaw Mroczkowski](../../category/L/Letters_to_Przemyslaw_Mroczkowski.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?pos=7&amp;intObjectID=5210972&amp;sid=" rel="noreferrer noopener" target="_blank">Christies.com</a>, retrieved June 27, 2010. The lot description gives no details on the exact date of these letters. However, they are said to have been written later than <a href="/wiki/Letter_to_Przemyslaw_Mroczkowski_(December_1959)" title="Letter to Przemyslaw Mroczkowski (December 1959)">Letter to Przemyslaw Mroczkowski (December 1959)</a> and earlier than <a href="/wiki/Letter_to_Mrs_Mroczkowska_(10_April_1969)" title="Letter to Mrs Mroczkowska (10 April 1969)">Letter to Mrs Mroczkowska (10 April 1969)</a>. Likewise, we are neither told the number of these letters, but since the lot contains eight letters in total, we can conclude that two items remain.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?pos=7&amp;intObjectID=5210972&amp;sid=" rel="noreferrer noopener" target="_blank">Christies.com</a>, retrieved June 27, 2010. The lot description gives no details on the exact date of these letters. However, they are said to have been written later than <a href="Letter_to_Przemyslaw_Mroczkowski_(December_1959).md" title="Letter to Przemyslaw Mroczkowski (December 1959)">Letter to Przemyslaw Mroczkowski (December 1959)</a> and earlier than <a href="Letter_to_Mrs_Mroczkowska_(10_April_1969).md" title="Letter to Mrs Mroczkowska (10 April 1969)">Letter to Mrs Mroczkowska (10 April 1969)</a>. Likewise, we are neither told the number of these letters, but since the lot contains eight letters in total, we can conclude that two items remain.</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?pos=7&amp;intObjectID=5210972&amp;sid=" rel="noreferrer noopener" target="_blank">Christies.com</a>, retrieved June 27, 2010</span>
 </li>

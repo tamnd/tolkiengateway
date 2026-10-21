@@ -17,23 +17,23 @@ sort_keys:
   "Telerin adjectives": "Netha"
 ---
 
-**néþa (nétha)** is a [Telerin](/wiki/Telerin) word meaning 'sister'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (and also 'gay, lifely, girlish')<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**néþa (nétha)** is a [Telerin](../T/Telerin.md) word meaning 'sister'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (and also 'gay, lifely, girlish')<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-From [Primitive](/wiki/Primitive) <i><a class="new" href="/w/index.php?title=N%C3%AAth%C3%A2&amp;action=edit&amp;redlink=1" title="Nêthâ (page does not exist)">nêthâ</a></i> [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a>.
+From [Primitive](../P/Primitive.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%AAth%C3%A2&amp;action=edit&amp;redlink=1" title="Nêthâ (page does not exist)">nêthâ</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a>.
 
 ## See also {#See_also}
 
-- *[nette](/wiki/Nette "Nette")*
+- *[nette](Nette.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.14</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.14</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp.14, 33</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp.14, 33</span>
 </li>
 </ol></div>

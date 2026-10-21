@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages using Tabber parser tag"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages using Tabber parser tag</span>"
 page_id: 69184
 namespace: 14
 revision_id: 413242

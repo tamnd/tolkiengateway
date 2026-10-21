@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Downfall of Barad-dûr"
 ---
 
-Redirect to [Downfall of Barad-dûr](/wiki/Downfall_of_Barad-dûr).
+Redirect to [Downfall of Barad-dûr](../D/Downfall_of_Barad-dûr.md).

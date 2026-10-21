@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beregond"
 ---
 
-Redirect to [Beregond](/wiki/Beregond).
+Redirect to [Beregond](Beregond.md).

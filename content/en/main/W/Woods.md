@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Forests"
 ---
 
-Redirect to [Category:Forests](/wiki/Category:Forests).
+Redirect to [Category:Forests](../../category/F/Forests.md).

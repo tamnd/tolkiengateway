@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grimbold"
 ---
 
-Redirect to [Grimbold](/wiki/Grimbold).
+Redirect to [Grimbold](Grimbold.md).

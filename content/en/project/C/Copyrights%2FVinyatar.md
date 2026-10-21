@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Vinyatar"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Vinyatar</span>"
 page_id: 58183
 namespace: 4
 revision_id: 322063
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vinyatar"
 ---
 
-- Vinyatar has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Vinyatar "Category:Images by Vinyatar") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Vinyatar has kindly granted their permission to use [their artwork](../../category/I/Images_by_Vinyatar.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 6 September 2020
-- User who sought the permission: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

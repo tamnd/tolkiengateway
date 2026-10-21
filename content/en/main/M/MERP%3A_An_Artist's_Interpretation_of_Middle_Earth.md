@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "An Artist's Interpretation of Middle Earth"
 ---
 
-Redirect to [An Artist's Interpretation of Middle Earth](/wiki/An_Artist's_Interpretation_of_Middle_Earth).
+Redirect to [An Artist's Interpretation of Middle Earth](../A/An_Artist's_Interpretation_of_Middle_Earth.md).

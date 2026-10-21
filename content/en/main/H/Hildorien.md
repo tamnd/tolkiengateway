@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hildórien"
 ---
 
-Redirect to [Hildórien](/wiki/Hildórien).
+Redirect to [Hildórien](Hildórien.md).

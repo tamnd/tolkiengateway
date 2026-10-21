@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales of Middle Earth"
 ---
 
-Redirect to [Tales of Middle Earth](/wiki/Tales_of_Middle_Earth).
+Redirect to [Tales of Middle Earth](Tales_of_Middle_Earth.md).

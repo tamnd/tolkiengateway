@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Map"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Map</span>"
 page_id: 18566
 namespace: 4
 revision_id: 221557
@@ -13,19 +12,19 @@ categories:
   - "Tolkien Gateway"
 ---
 
-The **Tolkien Gateway: Map** project is one which hopes to chart the locations of any and all places relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+The **Tolkien Gateway: Map** project is one which hopes to chart the locations of any and all places relating to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.
 
 ## Examples {#Examples}
 
 - Places where J.R.R. Tolkien has lived
 - Places where J.R.R. Tolkien has worked
 - Anywhere Tolkien was known to have visited, whether a church, restaurant, or university.
-- Filming locations for [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") as well as the upcoming films.
+- Filming locations for [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>) as well as the upcoming films.
 - Locations of past conferences and conventions.
 - Streets named after Tolkien and his works.
 - Restaurants named after Tolkien and his works.
 - Locations which inspired Tolkien
-- Locations which played an important part in Tolkien's [war time](/wiki/World_War_I "World War I").
+- Locations which played an important part in Tolkien's [war time](../../main/W/World_War_I.md).
 - etc.
 
 ## Upcoming features {#Upcoming_features}

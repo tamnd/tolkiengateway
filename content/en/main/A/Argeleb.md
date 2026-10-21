@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Argeleb (disambiguation)"
 ---
 
-Redirect to [Argeleb (disambiguation)](/wiki/Argeleb_(disambiguation)).
+Redirect to [Argeleb (disambiguation)](<Argeleb_(disambiguation).md>).

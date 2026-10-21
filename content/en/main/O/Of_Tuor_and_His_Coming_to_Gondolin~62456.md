@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Tuor and his Coming to Gondolin"
 ---
 
-Redirect to [Of Tuor and his Coming to Gondolin](/wiki/Of_Tuor_and_his_Coming_to_Gondolin).
+Redirect to [Of Tuor and his Coming to Gondolin](Of_Tuor_and_his_Coming_to_Gondolin.md).

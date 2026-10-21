@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien name in history.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien name in history.jpg</span>"
 page_id: 21642
 namespace: 6
 revision_id: 214746

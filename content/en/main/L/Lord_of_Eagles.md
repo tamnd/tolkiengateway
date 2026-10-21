@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Eagles"
 ---
 
-Redirect to [Lord of the Eagles](/wiki/Lord_of_the_Eagles).
+Redirect to [Lord of the Eagles](Lord_of_the_Eagles.md).

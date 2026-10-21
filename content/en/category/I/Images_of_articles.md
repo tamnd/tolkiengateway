@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of articles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of articles</span>"
 page_id: 44314
 namespace: 14
 revision_id: 232934

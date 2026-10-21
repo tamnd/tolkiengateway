@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silvan Elvish"
 ---
 
-Redirect to [Silvan Elvish](/wiki/Silvan_Elvish).
+Redirect to [Silvan Elvish](Silvan_Elvish.md).

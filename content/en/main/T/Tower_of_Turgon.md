@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of the King"
 ---
 
-Redirect to [Tower of the King](/wiki/Tower_of_the_King).
+Redirect to [Tower of the King](Tower_of_the_King.md).

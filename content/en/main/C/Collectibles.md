@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Collectibles"
 ---
 
-Redirect to [Category:Collectibles](/wiki/Category:Collectibles).
+Redirect to [Category:Collectibles](../../category/C/Collectibles.md).

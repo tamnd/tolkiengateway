@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered"
 ---
 
-Redirect to [Ered](/wiki/Ered).
+Redirect to [Ered](../E/Ered.md).

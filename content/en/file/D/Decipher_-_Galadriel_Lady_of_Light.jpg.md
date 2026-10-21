@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Galadriel Lady of Light.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Galadriel Lady of Light.jpg</span>"
 page_id: 22616
 namespace: 6
 revision_id: 211667

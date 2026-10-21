@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Sauron.png</span>"
 page_id: 73305
 namespace: 6
 revision_id: 433547
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sauron](/wiki/Sauron) - [LEGO](/wiki/Lego "Lego") minifigure
+[Sauron](../../main/S/Sauron.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

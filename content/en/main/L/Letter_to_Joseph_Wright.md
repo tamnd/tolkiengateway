@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Joseph Wright (26 January 1925)"
 ---
 
-Redirect to [Letter to Joseph Wright (26 January 1925)](/wiki/Letter_to_Joseph_Wright_(26_January_1925)).
+Redirect to [Letter to Joseph Wright (26 January 1925)](<Letter_to_Joseph_Wright_(26_January_1925).md>).

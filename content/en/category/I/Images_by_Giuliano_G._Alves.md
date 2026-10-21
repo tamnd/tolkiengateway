@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Giuliano G. Alves"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Giuliano G. Alves</span>"
 page_id: 51269
 namespace: 14
 revision_id: 277414

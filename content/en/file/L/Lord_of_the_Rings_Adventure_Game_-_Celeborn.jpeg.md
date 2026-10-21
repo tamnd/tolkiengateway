@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Celeborn.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Celeborn.jpeg</span>"
 page_id: 71254
 namespace: 6
 revision_id: 425065
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Celeborn](/wiki/Celeborn) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Celeborn](../../main/C/Celeborn.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

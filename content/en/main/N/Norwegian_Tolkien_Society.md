@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthedain (Tolkien Society)"
 ---
 
-Redirect to [Arthedain (Tolkien Society)](/wiki/Arthedain_(Tolkien_Society)).
+Redirect to [Arthedain (Tolkien Society)](<../A/Arthedain_(Tolkien_Society).md>).

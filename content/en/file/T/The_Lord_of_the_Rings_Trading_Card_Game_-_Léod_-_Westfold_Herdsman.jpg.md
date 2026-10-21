@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Léod - Westfold Herdsman.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Léod - Westfold Herdsman.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Léod_-_Westfold_Herdsman.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Léod - Westfold Herdsman.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Léod_-_Westfold_Herdsman.jpg.md).

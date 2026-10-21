@@ -1,6 +1,5 @@
 ---
 title: "File:C.A. Furth 30 March 1936.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">C.A. Furth 30 March 1936.jpg</span>"
 page_id: 40500
 namespace: 6
 revision_id: 217540

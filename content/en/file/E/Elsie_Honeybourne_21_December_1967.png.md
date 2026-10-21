@@ -1,6 +1,5 @@
 ---
 title: "File:Elsie Honeybourne 21 December 1967.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elsie Honeybourne 21 December 1967.png</span>"
 page_id: 36924
 namespace: 6
 revision_id: 215025

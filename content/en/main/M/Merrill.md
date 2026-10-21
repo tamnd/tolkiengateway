@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bruinen"
 ---
 
-Redirect to [Bruinen](/wiki/Bruinen).
+Redirect to [Bruinen](../B/Bruinen.md).

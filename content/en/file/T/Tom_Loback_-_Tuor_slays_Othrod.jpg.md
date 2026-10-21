@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Loback - Tuor slays Othrod.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Loback - Tuor slays Othrod.jpg</span>"
 page_id: 58307
 namespace: 6
 revision_id: 362849

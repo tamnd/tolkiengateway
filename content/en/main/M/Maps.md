@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Maps"
 ---
 
-Redirect to [Category:Maps](/wiki/Category:Maps).
+Redirect to [Category:Maps](../../category/M/Maps.md).

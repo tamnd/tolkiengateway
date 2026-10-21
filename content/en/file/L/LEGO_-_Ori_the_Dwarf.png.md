@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Ori the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Ori the Dwarf.png</span>"
 page_id: 73161
 namespace: 6
 revision_id: 433006
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ori the Dwarf](/wiki/Ori "Ori") - [LEGO](/wiki/Lego "Lego") minifigure
+[Ori the Dwarf](../../main/O/Ori.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

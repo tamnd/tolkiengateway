@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rowans"
 ---
 
-Redirect to [Rowans](/wiki/Rowans).
+Redirect to [Rowans](Rowans.md).

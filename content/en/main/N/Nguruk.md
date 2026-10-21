@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ñguruk"
 ---
 
-Redirect to [Ñguruk](/wiki/Ñguruk).
+Redirect to [Ñguruk](../_/Ñguruk.md).

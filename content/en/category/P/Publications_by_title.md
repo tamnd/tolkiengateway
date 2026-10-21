@@ -1,6 +1,5 @@
 ---
 title: "Category:Publications by title"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Publications by title</span>"
 page_id: 26598
 namespace: 14
 revision_id: 219354
@@ -13,11 +12,11 @@ categories:
   - "Publications"
 ---
 
-This category lists all [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-related **publications** sorted by title on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+This category lists all [Tolkien](../../main/J/J.R.R._Tolkien.md)-related **publications** sorted by title on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 
 *Note: periodicals, game book series, calendars, and similar, are only listed once.*
 
 ## See also {#See_also}
 
-- [Index:Writings by year](/wiki/Index:Writings_by_year)
-- [Index:Writings by J.R.R. Tolkien](/wiki/Index:Writings_by_J.R.R._Tolkien)
+- [Index:Writings by year](../../index/W/Writings_by_year.md)
+- [Index:Writings by J.R.R. Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md)

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien a life inspired.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien a life inspired.jpg</span>"
 page_id: 49921
 namespace: 6
 revision_id: 268833

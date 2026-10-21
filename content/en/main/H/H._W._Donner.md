@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "H.W. Donner"
 ---
 
-Redirect to [H.W. Donner](/wiki/H.W._Donner).
+Redirect to [H.W. Donner](H.W._Donner.md).

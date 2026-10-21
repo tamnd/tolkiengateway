@@ -1,6 +1,5 @@
 ---
 title: "Ann-Sophie Qvarnström"
-display_title: "<span class=\"mw-page-title-main\">Ann-Sophie Qvarnström</span>"
 page_id: 25727
 namespace: 0
 revision_id: 437769
@@ -22,27 +21,27 @@ images:
   - "Ann-Sophie_Qvarnström_-_Rohan.jpg"
 ---
 
-**Ann-Sophie Qvarnström** (born [1958](/wiki/1958)), Swedish silversmith and illustrator, created several maps of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [Middle-earth](/wiki/Middle-earth) in the 1980s for *Sagan om Ringen: Rollspelet* (the Swedish version of *[MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing")*). The maps were made using gouache paint and were designed after the original MERP maps created by [Pete Fenlon](/wiki/Pete_Fenlon).
+**Ann-Sophie Qvarnström** (born [1958](../_/1958.md)), Swedish silversmith and illustrator, created several maps of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [Middle-earth](../M/Middle-earth.md) in the 1980s for *Sagan om Ringen: Rollspelet* (the Swedish version of *[MERP](../M/Middle-earth_Role_Playing.md)*). The maps were made using gouache paint and were designed after the original MERP maps created by [Pete Fenlon](../P/Pete_Fenlon.md).
 
 ## Bibliography {#Bibliography}
 
 Selected bibliography of published maps concerned with the legendarium of J.R.R. Tolkien.
 
-- [1988](/wiki/1988): *Rohan* (*[Riders of Rohan (1985 book)](</wiki/Riders_of_Rohan_(1985_book)>)*)
-- [1988](/wiki/1988): *Södra Mörkmården* (*[Southern Mirkwood](/wiki/Southern_Mirkwood)*)
+- [1988](../_/1988.md): *Rohan* (*[Riders of Rohan (1985 book)](<../R/Riders_of_Rohan_(1985_book).md>)*)
+- [1988](../_/1988.md): *Södra Mörkmården* (*[Southern Mirkwood](../S/Southern_Mirkwood.md)*)
 
 ## Maps gallery {#Maps_gallery}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px">
-			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg" title="Map of Southern Mirkwood (1988)."><img alt="Map of Southern Mirkwood (1988)." src="/w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/84px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/126px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg 1.5x, /w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/168px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg 2x" data-file-width="1664" data-file-height="2378"/></a></span></div>
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ann-Sophie_Qvarnström_-_Morkmarden.jpg.md" title="Map of Southern Mirkwood (1988)."><img alt="Map of Southern Mirkwood (1988)." src="https://tolkiengateway.net/w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/84px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/126px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/24/Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg/168px-Ann-Sophie_Qvarnstr%C3%B6m_-_Morkmarden.jpg 2x" data-file-width="1664" data-file-height="2378"/></a></span></div>
 			<div class="gallerytext">
 <p>Map of Southern Mirkwood (1988).
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
-			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg" title="Map of Rohan (1988)."><img alt="Map of Rohan (1988)." src="/w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/120px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg" decoding="async" loading="lazy" width="120" height="89" class="mw-file-element" srcset="/w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/180px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg 1.5x, /w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/240px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg 2x" data-file-width="1666" data-file-height="1234"/></a></span></div>
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ann-Sophie_Qvarnström_-_Rohan.jpg.md" title="Map of Rohan (1988)."><img alt="Map of Rohan (1988)." src="https://tolkiengateway.net/w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/120px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg" decoding="async" loading="lazy" width="120" height="89" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/180px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg/240px-Ann-Sophie_Qvarnstr%C3%B6m_-_Rohan.jpg 2x" data-file-width="1666" data-file-height="1234"/></a></span></div>
 			<div class="gallerytext">
 <p>Map of Rohan (1988).
 </p>
@@ -52,4 +51,4 @@ Selected bibliography of published maps concerned with the legendarium of J.R.R.
 
 ## See also {#See_also}
 
-- [Images by Ann-Sophie Qvarnström](/wiki/Category:Images_by_Ann-Sophie_Qvarnstr%C3%B6m "Category:Images by Ann-Sophie Qvarnström")
+- [Images by Ann-Sophie Qvarnström](../../category/I/Images_by_Ann-Sophie_Qvarnström.md)

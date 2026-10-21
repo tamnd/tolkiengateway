@@ -1,6 +1,5 @@
 ---
 title: "Aldudénië"
-display_title: "<span class=\"mw-page-title-main\">Aldudénië</span>"
 page_id: 1829
 namespace: 0
 revision_id: 404572
@@ -30,21 +29,21 @@ langlinks:
     url: "https://kontu.wiki/Aldud%C3%A9ni%C3%AB"
 ---
 
-**Aldudénië** is a poem lamenting the death of the [Two Trees](/wiki/Two_Trees), composed by [Elemmírë](</wiki/Elemm%C3%ADr%C3%AB_(Elf)> "Elemmírë (Elf)") of the [Vanyar](/wiki/Vanyar), soon after the [event](/wiki/Darkening_of_Valinor "Darkening of Valinor"). It was famous to all the [Eldar](/wiki/Eldar).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Aldudénië** is a poem lamenting the death of the [Two Trees](../T/Two_Trees.md), composed by [Elemmírë](<../E/Elemmírë_(Elf).md>) of the [Vanyar](../V/Vanyar.md), soon after the [event](../D/Darkening_of_Valinor.md). It was famous to all the [Eldar](../E/Eldar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Aldudénie* is said to mean "lament of the Two Trees" and contains *[aldu](/wiki/Alda "Alda")*, the dual of *[alda](/wiki/Alda "Alda")* "tree".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Aldudénie* is said to mean "lament of the Two Trees" and contains *[aldu](Alda.md)*, the dual of *[alda](Alda.md)* "tree".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-The other element \**dénie* which obviously means "lament", is of problematic etymology since the intermedial "d" does not exist in [Quenya](/wiki/Quenya) (only the "ld" "nd" and "rd" are present).
+The other element \**dénie* which obviously means "lament", is of problematic etymology since the intermedial "d" does not exist in [Quenya](../Q/Quenya.md) (only the "ld" "nd" and "rd" are present).
 
-Another similar Quenya word for lament is *[nainië](/wiki/Naini%C3%AB "Nainië")* from [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") NAY. <span></span>
+Another similar Quenya word for lament is *[nainië](../N/Nainië.md)* from [Root](../S/Sundocarmë.md) NAY. <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_the_Darkening_of_Valinor" title="Of the Darkening of Valinor">Of the Darkening of Valinor</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Of the Darkening of Valinor</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
 </li>
 </ol></div>

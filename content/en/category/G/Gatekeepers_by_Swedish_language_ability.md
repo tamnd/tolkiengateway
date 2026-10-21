@@ -1,6 +1,5 @@
 ---
 title: "Category:Gatekeepers by Swedish language ability"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gatekeepers by Swedish language ability</span>"
 page_id: 36497
 namespace: 14
 revision_id: 172499

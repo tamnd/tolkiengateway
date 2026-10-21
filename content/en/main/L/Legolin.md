@@ -1,6 +1,5 @@
 ---
 title: "Legolin"
-display_title: "<span class=\"mw-page-title-main\">Legolin</span>"
 page_id: 3708
 namespace: 0
 revision_id: 422816
@@ -15,30 +14,30 @@ categories:
   - "Sindarin names"
 ---
 
-**Legolin** was the third of [Gelion](/wiki/Gelion)'s six tributary rivers, that like the others rose among the western slopes of the [Blue Mountains](/wiki/Blue_Mountains). It flowed swiftly west through [Ossiriand](/wiki/Ossiriand) between the [Thalos](/wiki/Thalos) to the north and the [Brilthor](/wiki/Brilthor) to the south.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The name *Legolin* is derived from [Ilkorin](/wiki/Ilkorin) *legol* ("running free").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Legolin** was the third of [Gelion](../G/Gelion.md)'s six tributary rivers, that like the others rose among the western slopes of the [Blue Mountains](../B/Blue_Mountains.md). It flowed swiftly west through [Ossiriand](../O/Ossiriand.md) between the [Thalos](../T/Thalos.md) to the north and the [Brilthor](../B/Brilthor.md) to the south.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The name *Legolin* is derived from [Ilkorin](../I/Ilkorin.md) *legol* ("running free").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Other versions of the legendarium {#Other_versions_of_the_legendarium}
 
-On the Eastward extension of [The First 'Silmarillion' Map](/wiki/The_First_%27Silmarillion%27_Map), the river was called "Loeglin"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
+On the Eastward extension of [The First 'Silmarillion' Map](../T/The_First_'Silmarillion'_Map.md), the river was called "Loeglin"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
 <br> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;<a class="new" href="/w/index.php?title=LEK&amp;action=edit&amp;redlink=1" title="LEK (page does not exist)">LEK</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;<a class="new" href="https://tolkiengateway.net/w/index.php?title=LEK&amp;action=edit&amp;redlink=1" title="LEK (page does not exist)">LEK</a>&#34;</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Shaping_of_Middle-earth" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, &#34;IV. <a href="/wiki/The_First_%27Silmarillion%27_Map" title="The First &#39;Silmarillion&#39; Map">The First &#39;Silmarillion&#39; Map</a>: The Eastward Extension&#34;, p.233, entry <i>Loeglin</i></span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, &#34;IV. <a href="../T/The_First_&#39;Silmarillion&#39;_Map.md" title="The First &#39;Silmarillion&#39; Map">The First &#39;Silmarillion&#39; Map</a>: The Eastward Extension&#34;, p.233, entry <i>Loeglin</i></span>
 </li>
 </ol></div>
 
 <table style="margin-top: .5em; margin-left: 0 auto; margin-right: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5)">Seven Rivers of <a href="/wiki/Ossiriand" title="Ossiriand">Ossiriand</a>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)">Seven Rivers of <a href="../O/Ossiriand.md" title="Ossiriand">Ossiriand</a>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/Gelion" title="Gelion">Gelion</a> · <a href="/wiki/Ascar" title="Ascar">Ascar</a> · <a href="/wiki/Thalos" title="Thalos">Thalos</a> · <a class="mw-selflink selflink">Legolin</a> · <a href="/wiki/Brilthor" title="Brilthor">Brilthor</a> · <a href="/wiki/Duilwen" title="Duilwen">Duilwen</a> · <a href="/wiki/Adurant" title="Adurant">Adurant</a>
+<td style="font-size: 90%;" align="center"><a href="../G/Gelion.md" title="Gelion">Gelion</a> · <a href="../A/Ascar.md" title="Ascar">Ascar</a> · <a href="../T/Thalos.md" title="Thalos">Thalos</a> · <a class="mw-selflink selflink">Legolin</a> · <a href="../B/Brilthor.md" title="Brilthor">Brilthor</a> · <a href="../D/Duilwen.md" title="Duilwen">Duilwen</a> · <a href="../A/Adurant.md" title="Adurant">Adurant</a>
 </td></tr></tbody></table>

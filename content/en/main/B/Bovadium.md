@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford"
 ---
 
-Redirect to [Oxford](/wiki/Oxford).
+Redirect to [Oxford](../O/Oxford.md).

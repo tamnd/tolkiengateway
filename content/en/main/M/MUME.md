@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MUME: Multi Users in Middle Earth"
 ---
 
-Redirect to [MUME: Multi Users in Middle Earth](/wiki/MUME:_Multi_Users_in_Middle_Earth).
+Redirect to [MUME: Multi Users in Middle Earth](MUME%253A_Multi_Users_in_Middle_Earth.md).

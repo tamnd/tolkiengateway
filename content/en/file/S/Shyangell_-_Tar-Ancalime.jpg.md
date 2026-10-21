@@ -1,6 +1,5 @@
 ---
 title: "File:Shyangell - Tar-Ancalime.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shyangell - Tar-Ancalime.jpg</span>"
 page_id: 42613
 namespace: 6
 revision_id: 224595
@@ -32,6 +31,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Shyangell</li>
 <li><b>Website:</b> <a class="external text" href="http://shyangell.deviantart.com" rel="noreferrer noopener" target="_blank">Shyangell&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Shyangell" title="Tolkien Gateway:Copyrights/Shyangell">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FShyangell.md" title="Tolkien Gateway:Copyrights/Shyangell">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

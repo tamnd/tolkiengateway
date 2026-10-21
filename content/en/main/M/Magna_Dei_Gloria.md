@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magna Dei Gloria (Warwick)"
 ---
 
-Redirect to [Magna Dei Gloria (Warwick)](/wiki/Magna_Dei_Gloria_(Warwick)).
+Redirect to [Magna Dei Gloria (Warwick)](<Magna_Dei_Gloria_(Warwick).md>).

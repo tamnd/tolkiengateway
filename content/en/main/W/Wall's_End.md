@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ramdal"
 ---
 
-Redirect to [Ramdal](/wiki/Ramdal).
+Redirect to [Ramdal](../R/Ramdal.md).

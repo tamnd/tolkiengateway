@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Horns of the Host of Doriath"
 ---
 
-Redirect to [The Horns of the Host of Doriath](/wiki/The_Horns_of_the_Host_of_Doriath).
+Redirect to [The Horns of the Host of Doriath](The_Horns_of_the_Host_of_Doriath.md).

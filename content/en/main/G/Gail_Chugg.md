@@ -1,6 +1,5 @@
 ---
 title: "Gail Chugg"
-display_title: "<span class=\"mw-page-title-main\">Gail Chugg</span>"
 page_id: 19548
 namespace: 0
 revision_id: 321385
@@ -21,12 +20,12 @@ sort_keys:
   "People by name": "Chugg, Gail"
 ---
 
-**Gail Chugg** is an American stage actor. He provided several voices for <a class="new" href="/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind&#39;s Eye</a>'s two [1979](/wiki/1979) radio series.
+**Gail Chugg** is an American stage actor. He provided several voices for <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="Mind&#39;s Eye (page does not exist)">Mind&#39;s Eye</a>'s two [1979](../_/1979.md) radio series.
 
 ## Roles {#Roles}
 
-- *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1979_radio_series)> "The Lord of the Rings (1979 radio series)")* - Narrator, [Gollum](/wiki/Gollum), [Gimli](/wiki/Gimli)
-- *[The Hobbit](</wiki/The_Hobbit_(1979_radio_series)> "The Hobbit (1979 radio series)")* - Narrator, Gollum, [Balin](/wiki/Balin)
+- *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)* - Narrator, [Gollum](Gollum.md), [Gimli](Gimli.md)
+- *[The Hobbit](<../T/The_Hobbit_(1979_radio_series).md>)* - Narrator, Gollum, [Balin](../B/Balin.md)
 
 ## External links {#External_links}
 

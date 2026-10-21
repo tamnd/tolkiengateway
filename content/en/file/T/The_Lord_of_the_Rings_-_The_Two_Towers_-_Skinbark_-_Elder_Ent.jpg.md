@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Skinbark - Elder Ent.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Skinbark - Elder Ent.jpg</span>"
 page_id: 50390
 namespace: 6
 revision_id: 438787
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Skinbark](/wiki/Skinbark) (Elder [Ent](/wiki/Ent)) in *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *The Hunters*
+[Skinbark](../../main/S/Skinbark.md) (Elder [Ent](../../main/E/Ent.md)) in *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *The Hunters*
 
 ## Licensing {#Licensing}
 

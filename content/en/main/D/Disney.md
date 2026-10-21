@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Walt Disney Company"
 ---
 
-Redirect to [The Walt Disney Company](/wiki/The_Walt_Disney_Company).
+Redirect to [The Walt Disney Company](../T/The_Walt_Disney_Company.md).

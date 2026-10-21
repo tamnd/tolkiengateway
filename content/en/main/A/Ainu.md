@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ainur"
 ---
 
-Redirect to [Ainur](/wiki/Ainur).
+Redirect to [Ainur](Ainur.md).

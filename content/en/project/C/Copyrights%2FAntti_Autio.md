@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Antti Autio"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Antti Autio</span>"
 page_id: 46845
 namespace: 4
 revision_id: 248289
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Autio, Antti"
 ---
 
-- [Antti Autio](/wiki/Antti_Autio) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Antti_Autio "Category:Images by Antti Autio") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Antti Autio](../../main/A/Antti_Autio.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Antti_Autio.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 10 June 2014
-- User who sought the permission via email: [KingAragorn](/wiki/User:KingAragorn "User:KingAragorn")
+- User who sought the permission via email: [KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

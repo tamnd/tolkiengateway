@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/David Bratman"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/David Bratman</span>"
 page_id: 38358
 namespace: 4
 revision_id: 193152
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bratman, David"
 ---
 
-- Permission granted by copyright holder [David Bratman](/wiki/David_Bratman) to use [David Bratman.jpg](/wiki/File:David_Bratman.jpg "File:David Bratman.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [David Bratman](../../main/D/David_Bratman.md) to use [David Bratman.jpg](../../file/D/David_Bratman.jpg.md) on Tolkien Gateway.
 - Statement from copyright holder: "*Nevertheless, since I put it up there to be seen, Tolkien Gateway may have my permission to copy and use it for not-for-profit purposes on the same basis that you use Tom Shippey's.*" (mail)
 - Date: 19 February 2012
-- User who sought the permission: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

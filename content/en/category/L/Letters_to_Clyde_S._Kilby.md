@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Clyde S. Kilby"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Clyde S. Kilby</span>"
 page_id: 68688
 namespace: 14
 revision_id: 408750
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Kilby, Clyde S."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Clyde S. Kilby](/wiki/Clyde_S._Kilby).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Clyde S. Kilby](../../main/C/Clyde_S._Kilby.md).

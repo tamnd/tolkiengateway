@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alcarinquë"
 ---
 
-Redirect to [Alcarinquë](/wiki/Alcarinquë).
+Redirect to [Alcarinquë](Alcarinquë.md).

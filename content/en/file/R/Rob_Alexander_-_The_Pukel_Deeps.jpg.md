@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - The Pûkel-deeps.jpg"
 ---
 
-Redirect to [File:Rob Alexander - The Pûkel-deeps.jpg](/wiki/File:Rob_Alexander_-_The_Pûkel-deeps.jpg).
+Redirect to [File:Rob Alexander - The Pûkel-deeps.jpg](Rob_Alexander_-_The_Pûkel-deeps.jpg.md).

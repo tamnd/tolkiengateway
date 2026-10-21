@@ -1,6 +1,5 @@
 ---
 title: "File:Bunch of Strawberries.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bunch of Strawberries.jpg</span>"
 page_id: 29687
 namespace: 6
 revision_id: 199763

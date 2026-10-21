@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Snaga Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Snaga Icon.jpg</span>"
 page_id: 73789
 namespace: 6
 revision_id: 435831
@@ -34,16 +33,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Guardians of Middle-earth - Snaga Icon.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Snaga_(orc_of_Isengard)" title="Snaga (orc of Isengard)">Snaga</a> icon from <i><a href="/wiki/Guardians_of_Middle-earth" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>
+<p><a href="../../main/S/Snaga_(orc_of_Isengard).md" title="Snaga (orc of Isengard)">Snaga</a> icon from <i><a href="../../main/G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2013" title="2013">2013</a></td>
+<td><a href="../../main/_/2013.md" title="2013">2013</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Daryl Mandryk</td>
@@ -52,7 +49,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.artstation.com/artwork/DXv0" rel="noreferrer noopener" target="_blank">https://www.artstation.com/artwork/DXv0</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

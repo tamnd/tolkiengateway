@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nêl"
 ---
 
-Redirect to [Nêl](/wiki/Nêl).
+Redirect to [Nêl](Nêl.md).

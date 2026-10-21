@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glingal and Belthil"
 ---
 
-Redirect to [Glingal and Belthil](/wiki/Glingal_and_Belthil).
+Redirect to [Glingal and Belthil](Glingal_and_Belthil.md).

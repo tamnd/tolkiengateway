@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Osgiliath (disambiguation)"
 ---
 
-Redirect to [Battle of Osgiliath (disambiguation)](/wiki/Battle_of_Osgiliath_(disambiguation)).
+Redirect to [Battle of Osgiliath (disambiguation)](<Battle_of_Osgiliath_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quenya/Grammar"
 ---
 
-Redirect to [Quenya/Grammar](/wiki/Quenya/Grammar).
+Redirect to [Quenya/Grammar](Quenya%252FGrammar.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Donato Giancola - Fram Framson.jpg"
 ---
 
-Redirect to [File:Donato Giancola - Fram Framson.jpg](/wiki/File:Donato_Giancola_-_Fram_Framson.jpg).
+Redirect to [File:Donato Giancola - Fram Framson.jpg](Donato_Giancola_-_Fram_Framson.jpg.md).

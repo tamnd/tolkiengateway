@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wilwarin"
 ---
 
-Redirect to [Wilwarin](/wiki/Wilwarin).
+Redirect to [Wilwarin](../W/Wilwarin.md).

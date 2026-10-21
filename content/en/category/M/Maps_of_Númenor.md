@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Númenor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Númenor</span>"
 page_id: 24568
 namespace: 14
 revision_id: 328760
@@ -17,4 +16,4 @@ sort_keys:
   "Maps of Arda": "Númenor"
 ---
 
-Maps of [Númenor](/wiki/N%C3%BAmenor)
+Maps of [Númenor](../../main/N/Númenor.md)

@@ -13,8 +13,8 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**nind** or **ninn** was a [Sindarin](/wiki/Sindarin) adjective for *slender*.
+**nind** or **ninn** was a [Sindarin](../S/Sindarin.md) adjective for *slender*.
 
 ## Examples {#Examples}
 
-- *[Cirith Ninniach](/wiki/Cirith_Ninniach)*
+- *[Cirith Ninniach](../C/Cirith_Ninniach.md)*

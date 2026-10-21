@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Poems and Songs of Middle Earth"
 ---
 
-Redirect to [Poems and Songs of Middle Earth](/wiki/Poems_and_Songs_of_Middle_Earth).
+Redirect to [Poems and Songs of Middle Earth](Poems_and_Songs_of_Middle_Earth.md).

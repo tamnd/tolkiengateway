@@ -1,6 +1,5 @@
 ---
 title: "File:Wings Over Arda - logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wings Over Arda - logo.jpg</span>"
 page_id: 30291
 namespace: 6
 revision_id: 272686
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Poster for *[Wings Over Arda: The First Age](/wiki/Wings_Over_Arda:_The_First_Age)*.
+Poster for *[Wings Over Arda: The First Age](../../main/W/Wings_Over_Arda%253A_The_First_Age.md)*.
 
 ## Licensing {#Licensing}
 

@@ -13,7 +13,7 @@ categories:
   - "Calendars (real-world)"
 ---
 
-**1983 Fantasy Calendar** published by Antioch Not-Too-Big Calendars with color illustrations is the only [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-related calendar issued in 1983.
+**1983 Fantasy Calendar** published by Antioch Not-Too-Big Calendars with color illustrations is the only [Tolkien](../J/J.R.R._Tolkien.md)-related calendar issued in 1983.
 
 - Dimensions: 5.75 x 5.75 inches
 - Stapled

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Íverin"
 ---
 
-Redirect to [Íverin](/wiki/Íverin).
+Redirect to [Íverin](../_/Íverin.md).

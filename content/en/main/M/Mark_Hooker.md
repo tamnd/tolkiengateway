@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mark T. Hooker"
 ---
 
-Redirect to [Mark T. Hooker](/wiki/Mark_T._Hooker).
+Redirect to [Mark T. Hooker](Mark_T._Hooker.md).

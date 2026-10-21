@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Annatar, “Gift-Lord”.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Annatar, “Gift-Lord”.jpg</span>"
 page_id: 73619
 namespace: 6
 revision_id: 438912
@@ -32,15 +31,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Annatar, “Gift-Lord”.jpg</span></th>
 <td class="description">
-<blockquote><p>In light of <a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">the prospective Amazon LOTR show</a> that will apparently be looking at <a href="/wiki/Second_Age" title="Second Age">the second age</a> I thought I’d try a response to some of the ideas of a disguised <a href="/wiki/Sauron" title="Sauron">Sauron</a>, in his “fair” form. I took “fair“ to just mean “easy on the eye” rather than blonde, and I also took on board the idea of the proto-Sauron, as written by Tolkien, was “the Prince of Cats”, and so this sleek rock star look just seemed to fit. <a href="/wiki/Tevildo" title="Tevildo">Tevildo</a> apparently wore a collar of gold that allowed him to control others, I guess this was an early version of <a href="/wiki/The_One_Ring" title="The One Ring">the ring</a>, and though I thought first about a collar for Annatar that looked more like Klimt”s jewelled collar as seen in the portrait of Adele Bloch-Bauer and Judith with the head of Holofernes, I eventually opted for this more “Egyptian” collar/choker or bib necklace.</p></blockquote><br/><blockquote><p>The version I prefer, even though I know and understand the anatomy of that neck and upper arm are strange (read wrong)</p></blockquote>
+<blockquote><p>In light of <a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">the prospective Amazon LOTR show</a> that will apparently be looking at <a href="../../main/S/Second_Age.md" title="Second Age">the second age</a> I thought I’d try a response to some of the ideas of a disguised <a href="../../main/S/Sauron.md" title="Sauron">Sauron</a>, in his “fair” form. I took “fair“ to just mean “easy on the eye” rather than blonde, and I also took on board the idea of the proto-Sauron, as written by Tolkien, was “the Prince of Cats”, and so this sleek rock star look just seemed to fit. <a href="../../main/T/Tevildo.md" title="Tevildo">Tevildo</a> apparently wore a collar of gold that allowed him to control others, I guess this was an early version of <a href="../../main/T/The_One_Ring.md" title="The One Ring">the ring</a>, and though I thought first about a collar for Annatar that looked more like Klimt”s jewelled collar as seen in the portrait of Adele Bloch-Bauer and Judith with the head of Holofernes, I eventually opted for this more “Egyptian” collar/choker or bib necklace.</p></blockquote><br/><blockquote><p>The version I prefer, even though I know and understand the anatomy of that neck and upper arm are strange (read wrong)</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/11_February" title="11 February">February 11</a> <a href="/wiki/2020" title="2020">2020</a></td>
+<td><a href="../../main/_/11_February.md" title="11 February">February 11</a> <a href="../../main/_/2020.md" title="2020">2020</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -49,7 +46,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/oOEZ0w" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/oOEZ0w</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -59,4 +55,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

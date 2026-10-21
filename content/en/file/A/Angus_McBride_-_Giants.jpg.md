@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Giants.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Giants.jpg</span>"
 page_id: 29128
 namespace: 6
 revision_id: 204778

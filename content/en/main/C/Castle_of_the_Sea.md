@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alcarondas"
 ---
 
-Redirect to [Alcarondas](/wiki/Alcarondas).
+Redirect to [Alcarondas](../A/Alcarondas.md).

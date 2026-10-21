@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grey Company"
 ---
 
-Redirect to [Grey Company](/wiki/Grey_Company).
+Redirect to [Grey Company](../G/Grey_Company.md).

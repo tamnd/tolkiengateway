@@ -1,6 +1,5 @@
 ---
 title: "Category:PlayStation 2 games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">PlayStation 2 games</span>"
 page_id: 28996
 namespace: 14
 revision_id: 196039
@@ -13,4 +12,4 @@ categories:
   - "Video games by platform"
 ---
 
-This category lists all **PlayStation 2 games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **PlayStation 2 games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

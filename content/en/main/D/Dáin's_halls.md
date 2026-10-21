@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin's hall"
 ---
 
-Redirect to [Dáin's hall](/wiki/Dáin's_hall).
+Redirect to [Dáin's hall](Dáin's_hall.md).

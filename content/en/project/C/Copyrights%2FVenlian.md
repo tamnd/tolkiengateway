@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Venlian"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Venlian</span>"
 page_id: 47479
 namespace: 4
 revision_id: 252875
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Venlian"
 ---
 
-- Venlian has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Venlian "Category:Images by Venlian") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Venlian has kindly granted her permission to use [her artwork](../../category/I/Images_by_Venlian.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 17 August 2014
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

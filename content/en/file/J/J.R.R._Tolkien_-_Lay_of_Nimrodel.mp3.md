@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Lay of Nimrodel.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Lay of Nimrodel.mp3</span>"
 page_id: 71068
 namespace: 6
 revision_id: 424388
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads the [Lay of Nimrodel](/wiki/Lay_of_Nimrodel)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads the [Lay of Nimrodel](../../main/L/Lay_of_Nimrodel.md)
 
 ## Licensing {#Licensing}
 

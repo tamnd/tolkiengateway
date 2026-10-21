@@ -1,6 +1,5 @@
 ---
 title: "Black Hand"
-display_title: "<span class=\"mw-page-title-main\">Black Hand</span>"
 page_id: 58645
 namespace: 0
 revision_id: 433949
@@ -18,19 +17,19 @@ images:
   - "J.R.R._Tolkien_-_Sauron.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Sauron.jpg"><img src="/w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/300px-J.R.R._Tolkien_-_Sauron.jpg" decoding="async" loading="lazy" width="300" height="421" class="mw-file-element" srcset="/w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/450px-J.R.R._Tolkien_-_Sauron.jpg 1.5x, /w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/600px-J.R.R._Tolkien_-_Sauron.jpg 2x" data-file-width="713" data-file-height="1000"/></a><figcaption>Watercolour of the Black Hand of Sauron by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Sauron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/300px-J.R.R._Tolkien_-_Sauron.jpg" decoding="async" loading="lazy" width="300" height="421" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/450px-J.R.R._Tolkien_-_Sauron.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/J.R.R._Tolkien_-_Sauron.jpg/600px-J.R.R._Tolkien_-_Sauron.jpg 2x" data-file-width="713" data-file-height="1000"/></a><figcaption>Watercolour of the Black Hand of Sauron by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-The **Black Hand** was a title of [Morgoth](/wiki/Morgoth), used by [Beleg](/wiki/Beleg) to explain how Morgoth's power had expanded southwards [Beleriand](/wiki/Beleriand) after the [Nirnaeth Arnoediad](/wiki/Nirnaeth_Arnoediad).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Black Hand** was a title of [Morgoth](../M/Morgoth.md), used by [Beleg](Beleg.md) to explain how Morgoth's power had expanded southwards [Beleriand](Beleriand.md) after the [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-In the [Third Age](/wiki/Third_Age), [Gollum](/wiki/Gollum) twice applied the same epithet to [Sauron](/wiki/Sauron)'s left hand. Gollum mentioned how Sauron had just four fingers on his "black hand", this being of course due to the fact that [Isildur](/wiki/Isildur) had cut off the finger that bore the [One Ring](/wiki/The_One_Ring "The One Ring").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In the [Third Age](../T/Third_Age.md), [Gollum](../G/Gollum.md) twice applied the same epithet to [Sauron](../S/Sauron.md)'s left hand. Gollum mentioned how Sauron had just four fingers on his "black hand", this being of course due to the fact that [Isildur](../I/Isildur.md) had cut off the finger that bore the [One Ring](../T/The_One_Ring.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_T%C3%BArin_Turambar" title="Of Túrin Turambar">Of Túrin Turambar</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Túrin_Turambar.md" title="Of Túrin Turambar">Of Túrin Turambar</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/The_Black_Gate_is_Closed" title="The Black Gate is Closed">The Black Gate is Closed</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Black_Gate_is_Closed.md" title="The Black Gate is Closed">The Black Gate is Closed</a>&#34;</span>
 </li>
 </ol></div>

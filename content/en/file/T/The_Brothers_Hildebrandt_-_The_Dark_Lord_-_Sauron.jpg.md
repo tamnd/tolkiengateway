@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Dark Lord - Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Dark Lord - Sauron.jpg</span>"
 page_id: 71580
 namespace: 6
 revision_id: 426793
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Dark Lord: [Sauron](/wiki/Sauron)"
+"The Dark Lord: [Sauron](../../main/S/Sauron.md)"
 
 ## Licensing {#Licensing}
 

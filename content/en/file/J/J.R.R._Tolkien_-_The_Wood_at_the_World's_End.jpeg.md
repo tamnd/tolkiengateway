@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Wood at the World's End.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Wood at the World&#039;s End.jpeg</span>"
 page_id: 71905
 namespace: 6
 revision_id: 428260
@@ -26,14 +25,14 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) painted "The Wood at the World's End" around [1928](/wiki/1928).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The black ink penciled watercolour was published posthumously as figure 60 on page 62 of *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) painted "The Wood at the World's End" around [1928](../../main/_/1928.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The black ink penciled watercolour was published posthumously as figure 60 on page 62 of *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/imagination/" rel="noreferrer noopener" target="_blank">&#34;Imagination&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 21 November 2025</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/200-large.png" rel="noreferrer noopener" target="_blank">The dense row of trees and the strong green colours in this painting were reprised in <i>The Hobbit</i> dust jacket nine years later.</a>&#34;)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/imagination/" rel="noreferrer noopener" target="_blank">&#34;Imagination&#34;</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 21 November 2025</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/200-large.png" rel="noreferrer noopener" target="_blank">The dense row of trees and the strong green colours in this painting were reprised in <i>The Hobbit</i> dust jacket nine years later.</a>&#34;)</span>
 </li>
 </ol></div>
 

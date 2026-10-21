@@ -1,6 +1,5 @@
 ---
 title: "File:Michael Martinez portrait.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Michael Martinez portrait.jpg</span>"
 page_id: 67956
 namespace: 6
 revision_id: 398348
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Michael Martinez</li>
 <li><b>Website:</b> <a class="external text" href="http://www.michael-martinez.com/" rel="noreferrer noopener" target="_blank">Michael Martinez</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Michael_Martinez" title="Tolkien Gateway:Copyrights/Michael Martinez">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMichael_Martinez.md" title="Tolkien Gateway:Copyrights/Michael Martinez">Permission for use on Tolkien Gateway</a></b></li></ul></div>

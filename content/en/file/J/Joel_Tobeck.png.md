@@ -1,6 +1,5 @@
 ---
 title: "File:Joel Tobeck.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joel Tobeck.png</span>"
 page_id: 71474
 namespace: 6
 revision_id: 426173
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[Joel Tobeck](/wiki/Joel_Tobeck) - <a class="external text" href="https://www.youtube.com/watch?v=rwlSUHH5LwM" rel="noreferrer noopener" target="_blank">Source</a>
+[Joel Tobeck](../../main/J/Joel_Tobeck.md) - <a class="external text" href="https://www.youtube.com/watch?v=rwlSUHH5LwM" rel="noreferrer noopener" target="_blank">Source</a>
 
 ## Licensing {#Licensing}
 

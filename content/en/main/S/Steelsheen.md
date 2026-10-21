@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morwen Steelsheen"
 ---
 
-Redirect to [Morwen Steelsheen](/wiki/Morwen_Steelsheen).
+Redirect to [Morwen Steelsheen](../M/Morwen_Steelsheen.md).

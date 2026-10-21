@@ -1,6 +1,5 @@
 ---
 title: "File:Fly Fishing in Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fly Fishing in Middle-earth.png</span>"
 page_id: 31979
 namespace: 6
 revision_id: 214062

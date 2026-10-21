@@ -1,6 +1,5 @@
 ---
 title: "File:Marina Muscan - Fingon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Marina Muscan - Fingon.jpg</span>"
 page_id: 61230
 namespace: 6
 revision_id: 344565
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Marina Muscan‎</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/marinaawin/" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/marinaawin/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Marina_Muscan" title="Tolkien Gateway:Copyrights/Marina Muscan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMarina_Muscan.md" title="Tolkien Gateway:Copyrights/Marina Muscan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

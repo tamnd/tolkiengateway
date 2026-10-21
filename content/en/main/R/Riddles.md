@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riddle-game"
 ---
 
-Redirect to [Riddle-game](/wiki/Riddle-game).
+Redirect to [Riddle-game](Riddle-game.md).

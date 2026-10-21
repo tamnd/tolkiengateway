@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laurelin"
 ---
 
-Redirect to [Laurelin](/wiki/Laurelin).
+Redirect to [Laurelin](Laurelin.md).

@@ -15,19 +15,19 @@ sort_keys:
   "Khuzdul words": "Nala"
 ---
 
-<i><b>nâla</b></i> is a [Khuzdul](/wiki/Khuzdul) word. In one instance [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") translates *nâla* as "channel".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Later he would say that the meaning is unknown but suggested that it might mean "path, course, rivercourse, or bed", a meaning it would share with [Sindarin](/wiki/Sindarin) *[rant](/wiki/Rant "Rant")* of *[Celebrant](/wiki/Celebrant)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>nâla</b></i> is a [Khuzdul](../K/Khuzdul.md) word. In one instance [Tolkien](../J/J.R.R._Tolkien.md) translates *nâla* as "channel".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Later he would say that the meaning is unknown but suggested that it might mean "path, course, rivercourse, or bed", a meaning it would share with [Sindarin](../S/Sindarin.md) *[rant](../R/Rant.md)* of *[Celebrant](../C/Celebrant.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- [Kibil-nâla](/wiki/Kibil-n%C3%A2la)
+- [Kibil-nâla](../K/Kibil-nâla.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Nancy_Smith" title="Nancy Smith">Nancy Smith</a>, &#34;<a class="mw-redirect" href="/wiki/Index_questions" title="Index questions">Index questions</a>&#34; (quoted in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 269)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Nancy_Smith.md" title="Nancy Smith">Nancy Smith</a>, &#34;<a class="mw-redirect" href="../I/Index_questions.md" title="Index questions">Index questions</a>&#34; (quoted in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 269)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i>, p. 175</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, p. 175</span>
 </li>
 </ol></div>

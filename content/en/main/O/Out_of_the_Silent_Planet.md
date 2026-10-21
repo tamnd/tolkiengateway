@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Space Trilogy"
 ---
 
-Redirect to [The Space Trilogy](/wiki/The_Space_Trilogy).
+Redirect to [The Space Trilogy](../T/The_Space_Trilogy.md).

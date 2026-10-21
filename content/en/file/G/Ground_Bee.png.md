@@ -1,6 +1,5 @@
 ---
 title: "File:Ground Bee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ground Bee.png</span>"
 page_id: 31923
 namespace: 6
 revision_id: 275053
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*Ground Bee* portrayed in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Creatures of Middle-earth (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)>)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2012, 1994) , p. 36.
+*Ground Bee* portrayed in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) , p. 36.
 
 ## Licensing {#Licensing}
 

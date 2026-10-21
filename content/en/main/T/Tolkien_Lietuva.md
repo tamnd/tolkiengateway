@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Lietuva"
-display_title: "<span class=\"mw-page-title-main\">Tolkien Lietuva</span>"
 page_id: 36986
 namespace: 0
 revision_id: 250307
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Tolkien Lietuva**, TL, with its official branch "TL Draugija" ("TL Fellowship") is the [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in Lithuania.
+**Tolkien Lietuva**, TL, with its official branch "TL Draugija" ("TL Fellowship") is the [Tolkien society](Tolkien_Societies~67099.md) in Lithuania.
 
 ## History {#History}
 

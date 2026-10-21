@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hisildi"
 ---
 
-Redirect to [Hisildi](/wiki/Hisildi).
+Redirect to [Hisildi](Hisildi.md).

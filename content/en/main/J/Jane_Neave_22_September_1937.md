@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jane Neave (22 September 1937)"
 ---
 
-Redirect to [Letter to Jane Neave (22 September 1937)](/wiki/Letter_to_Jane_Neave_(22_September_1937)).
+Redirect to [Letter to Jane Neave (22 September 1937)](<../L/Letter_to_Jane_Neave_(22_September_1937).md>).

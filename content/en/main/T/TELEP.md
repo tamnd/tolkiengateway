@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "KYELEP"
 ---
 
-Redirect to [KYELEP](/wiki/KYELEP).
+Redirect to [KYELEP](../K/KYELEP.md).

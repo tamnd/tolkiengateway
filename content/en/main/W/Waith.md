@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwaith"
 ---
 
-Redirect to [Gwaith](/wiki/Gwaith).
+Redirect to [Gwaith](../G/Gwaith.md).

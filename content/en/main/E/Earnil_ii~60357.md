@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärnil II"
 ---
 
-Redirect to [Eärnil II](/wiki/Eärnil_II).
+Redirect to [Eärnil II](Eärnil_II.md).

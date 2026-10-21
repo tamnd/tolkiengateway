@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kilmessë"
 ---
 
-Redirect to [Kilmessë](/wiki/Kilmessë).
+Redirect to [Kilmessë](Kilmessë.md).

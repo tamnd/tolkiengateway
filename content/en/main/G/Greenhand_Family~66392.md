@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greenhand family"
 ---
 
-Redirect to [Greenhand family](/wiki/Greenhand_family).
+Redirect to [Greenhand family](Greenhand_family.md).

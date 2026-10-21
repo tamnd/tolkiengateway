@@ -1,6 +1,5 @@
 ---
 title: "File:Sir Gawain and the Green Knight (1925).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sir Gawain and the Green Knight (1925).jpg</span>"
 page_id: 27030
 namespace: 6
 revision_id: 214356

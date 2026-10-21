@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Carol Emery Phenix"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Carol Emery Phenix</span>"
 page_id: 40744
 namespace: 4
 revision_id: 206975
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Phenix, Carol Emery"
 ---
 
-- Carol Emery Phenix has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Carol_Emery_Phenix "Category:Images by Carol Emery Phenix") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Carol Emery Phenix has kindly granted her permission to use [her artwork](../../category/I/Images_by_Carol_Emery_Phenix.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 29 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aracáno"
 ---
 
-Redirect to [Aracáno](/wiki/Aracáno).
+Redirect to [Aracáno](Aracáno.md).

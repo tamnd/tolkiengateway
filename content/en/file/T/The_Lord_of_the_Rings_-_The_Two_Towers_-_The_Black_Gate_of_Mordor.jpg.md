@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - The Black Gate of Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - The Black Gate of Mordor.jpg</span>"
 page_id: 64147
 namespace: 6
 revision_id: 366552
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-An army of [Easterlings](/wiki/Easterlings) going at the [Black Gate](/wiki/Black_Gate) in a scene from [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers).
+An army of [Easterlings](../../main/E/Easterlings.md) going at the [Black Gate](../../main/B/Black_Gate.md) in a scene from [The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## Licensing {#Licensing}
 

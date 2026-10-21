@@ -1,6 +1,5 @@
 ---
 title: "María Lombide Ezpeleta"
-display_title: "<span class=\"mw-page-title-main\">María Lombide Ezpeleta</span>"
 page_id: 9978
 namespace: 0
 revision_id: 420414
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Lombide Ezpelata, Maria"
 ---
 
-**María Lombide Ezpeleta** is a [Spanish](/wiki/Category:Spanish_people "Category:Spanish people") artist who [has illustrated](/wiki/Category:Images_by_Mar%C3%ADa_Lombide_Ezpeleta "Category:Images by María Lombide Ezpeleta") numerous characters from [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") [legendarium](/wiki/Legendarium "Legendarium").
+**María Lombide Ezpeleta** is a [Spanish](../../category/S/Spanish_people.md) artist who [has illustrated](../../category/I/Images_by_María_Lombide_Ezpeleta.md) numerous characters from [Tolkien's](../J/J.R.R._Tolkien.md) [legendarium](../L/Legendarium.md).
 
 ## See also {#See_also}
 
-- [Images by María Lombide Ezpeleta](/wiki/Category:Images_by_Mar%C3%ADa_Lombide_Ezpeleta "Category:Images by María Lombide Ezpeleta")
+- [Images by María Lombide Ezpeleta](../../category/I/Images_by_María_Lombide_Ezpeleta.md)
 
 ## External links {#External_links}
 

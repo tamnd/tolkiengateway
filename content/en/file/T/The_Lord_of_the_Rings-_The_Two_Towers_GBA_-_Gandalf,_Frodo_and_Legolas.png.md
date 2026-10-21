@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Two Towers GBA - Gandalf, Frodo and Legolas.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Two Towers GBA - Gandalf, Frodo and Legolas.png</span>"
 page_id: 37574
 namespace: 6
 revision_id: 180349
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf), [Legolas](/wiki/Legolas) and [Frodo](/wiki/Frodo) at the [west-gate of Moria](/wiki/Doors_of_Durin "Doors of Durin") in *Caradhras - Moria Gate* in the <a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a> version of [The Lord of the Rings: The Two Towers](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)> "The Lord of the Rings: The Two Towers (video game)").
+[Gandalf](../../main/G/Gandalf.md), [Legolas](../../main/L/Legolas.md) and [Frodo](../../main/F/Frodo.md) at the [west-gate of Moria](../../main/D/Doors_of_Durin.md) in *Caradhras - Moria Gate* in the <a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance</a> version of [The Lord of the Rings: The Two Towers](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Middle-earth map 5.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Middle-earth map 5.jpeg</span>"
 page_id: 67389
 namespace: 6
 revision_id: 391568
@@ -27,14 +26,14 @@ file:
 
 ## Summary {#Summary}
 
-The map of [Middle-earth](/wiki/Middle-earth) and [Númenor](/wiki/N%C3%BAmenor) as seen in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The map of [Middle-earth](../../main/M/Middle-earth.md) and [Númenor](../../main/N/Númenor.md) as seen in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">The Lord of the Rings on Prime (6 March 2019)</span>. <span class="cite-web-article"><a class="external text" href="https://x.com/TheRingsofPower/status/1103294050298257410" rel="noreferrer noopener" target="_blank">&#34;One for the Dark Lord on his dark throne. In the Land of Mordor where the Shadows lie.&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://x.com" rel="noreferrer noopener" target="_blank">X (formerly known as Twitter)</a></span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">The Lord of the Rings on Prime (6 March 2019)</span>. <span class="cite-web-article"><a class="external text" href="https://x.com/TheRingsofPower/status/1103294050298257410" rel="noreferrer noopener" target="_blank">&#34;One for the Dark Lord on his dark throne. In the Land of Mordor where the Shadows lie.&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://x.com" rel="noreferrer noopener" target="_blank">X (formerly known as Twitter)</a></span></cite></span>
 </li>
 </ol></div>
 

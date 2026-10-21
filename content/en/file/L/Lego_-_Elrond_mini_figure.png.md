@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Elrond mini figure.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Elrond mini figure.png</span>"
 page_id: 40976
 namespace: 6
 revision_id: 283323

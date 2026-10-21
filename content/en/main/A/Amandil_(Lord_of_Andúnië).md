@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amandil"
 ---
 
-Redirect to [Amandil](/wiki/Amandil).
+Redirect to [Amandil](Amandil.md).

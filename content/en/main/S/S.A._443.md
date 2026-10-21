@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 443"
 ---
 
-Redirect to [Second Age 443](/wiki/Second_Age_443).
+Redirect to [Second Age 443](Second_Age_443.md).

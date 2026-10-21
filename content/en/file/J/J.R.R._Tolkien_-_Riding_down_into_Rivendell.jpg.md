@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Riding down into Rivendell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Riding down into Rivendell.jpg</span>"
 page_id: 71421
 namespace: 6
 revision_id: 427036
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary_2}
 
-"Riding down into [Rivendell](/wiki/Rivendell)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Riding down into [Rivendell](../../main/R/Rivendell.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

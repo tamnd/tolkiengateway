@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to L.M. Cutts"
 ---
 
-Redirect to [Letter to L.M. Cutts](/wiki/Letter_to_L.M._Cutts).
+Redirect to [Letter to L.M. Cutts](Letter_to_L.M._Cutts.md).

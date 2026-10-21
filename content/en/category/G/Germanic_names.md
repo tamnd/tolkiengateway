@@ -1,6 +1,5 @@
 ---
 title: "Category:Germanic names"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Germanic names</span>"
 page_id: 25084
 namespace: 14
 revision_id: 220108
@@ -13,4 +12,4 @@ categories:
   - "Names"
 ---
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) was fond of sometimes using names of [Germanic](/wiki/Germanic) origin in his narrative, especially in *[The Hobbit](/wiki/The_Hobbit)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*. These names are all "translative"—Germanic languages were not actually spoken in [Middle-earth](/wiki/Middle-earth).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) was fond of sometimes using names of [Germanic](../../main/G/Germanic.md) origin in his narrative, especially in *[The Hobbit](../../main/T/The_Hobbit.md)* and *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*. These names are all "translative"—Germanic languages were not actually spoken in [Middle-earth](../../main/M/Middle-earth.md).

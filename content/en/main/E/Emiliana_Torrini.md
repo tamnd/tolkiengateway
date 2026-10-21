@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Emilíana Torrini"
 ---
 
-Redirect to [Emilíana Torrini](/wiki/Emilíana_Torrini).
+Redirect to [Emilíana Torrini](Emilíana_Torrini.md).

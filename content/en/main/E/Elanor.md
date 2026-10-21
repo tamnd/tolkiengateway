@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor (flower)"
 ---
 
-Redirect to [Elanor (flower)](/wiki/Elanor_(flower)).
+Redirect to [Elanor (flower)](<Elanor_(flower).md>).

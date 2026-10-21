@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eglath"
 ---
 
-Redirect to [Eglath](/wiki/Eglath).
+Redirect to [Eglath](../E/Eglath.md).

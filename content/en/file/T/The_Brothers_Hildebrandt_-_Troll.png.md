@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Troll.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Troll.png</span>"
 page_id: 71615
 namespace: 6
 revision_id: 439338
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch for The Siege of Minas Tirith, depicting a Troll. Created in [1977](/wiki/1977).
+Sketch for The Siege of Minas Tirith, depicting a Troll. Created in [1977](../../main/_/1977.md).
 
 ## Licensing {#Licensing}
 

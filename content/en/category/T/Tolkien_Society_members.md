@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien Society members"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Society members</span>"
 page_id: 11104
 namespace: 14
 revision_id: 224883
@@ -14,4 +13,4 @@ categories:
   - "The Tolkien Society"
 ---
 
-This category contains a list of users who are members of [The Tolkien Society](/wiki/The_Tolkien_Society).
+This category contains a list of users who are members of [The Tolkien Society](../../main/T/The_Tolkien_Society.md).

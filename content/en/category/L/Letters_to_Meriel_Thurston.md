@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Meriel Thurston"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Meriel Thurston</span>"
 page_id: 68713
 namespace: 14
 revision_id: 408902
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Thurston, Meriel"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Meriel_Thurston&amp;action=edit&amp;redlink=1" title="Meriel Thurston (page does not exist)">Meriel Thurston</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Meriel_Thurston&amp;action=edit&amp;redlink=1" title="Meriel Thurston (page does not exist)">Meriel Thurston</a>.

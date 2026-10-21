@@ -13,22 +13,22 @@ categories:
   - "North Sindarin words"
 ---
 
-**bartham** is a [Mithrimin](/wiki/Mithrimin) word meaning "dwelling house".
+**bartham** is a [Mithrimin](../M/Mithrimin.md) word meaning "dwelling house".
 
 ## Etymology {#Etymology}
 
-It was adapted from [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Martan&amp;action=edit&amp;redlink=1" title="Martan (page does not exist)">martan</a></i> pl. *martami*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+It was adapted from [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Martan&amp;action=edit&amp;redlink=1" title="Martan (page does not exist)">martan</a></i> pl. *martami*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Martan&amp;action=edit&amp;redlink=1" title="Martan (page does not exist)">martan</a></i>
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Barthan&amp;action=edit&amp;redlink=1" title="Barthan (page does not exist)">barthan</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Martan&amp;action=edit&amp;redlink=1" title="Martan (page does not exist)">martan</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Barthan&amp;action=edit&amp;redlink=1" title="Barthan (page does not exist)">barthan</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p.109</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p.109</span>
 </li>
 </ol></div>

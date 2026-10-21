@@ -11,4 +11,4 @@ redirect_target: "Ring-inscription"
 redirect_fragment: "Ring-verse"
 ---
 
-Redirect to [Ring-inscription](/wiki/Ring-inscription#Ring-verse).
+Redirect to [Ring-inscription](Ring-inscription.md#Ring-verse).

@@ -1,6 +1,5 @@
 ---
 title: "Haydn Wood"
-display_title: "<span class=\"mw-page-title-main\">Haydn Wood</span>"
 page_id: 19810
 namespace: 0
 revision_id: 411113
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Wood, Haydn"
 ---
 
-**Haydn Wood** voiced [Haldir](/wiki/Haldir), [Nob](/wiki/Nob), [Nazgûl](/wiki/Nazg%C3%BBl) and several unspecified bits in the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)").
+**Haydn Wood** voiced [Haldir](Haldir.md), [Nob](../N/Nob.md), [Nazgûl](../N/Nazgûl.md) and several unspecified bits in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## External links {#External_links}
 

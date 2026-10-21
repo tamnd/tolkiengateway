@@ -1,6 +1,5 @@
 ---
 title: "File:Farmer Giles 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Farmer Giles 2024.jpg</span>"
 page_id: 67317
 namespace: 6
 revision_id: 391090

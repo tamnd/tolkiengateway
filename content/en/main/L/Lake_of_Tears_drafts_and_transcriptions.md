@@ -11,4 +11,4 @@ redirect_target: "Lake of Tears"
 redirect_fragment: "Other versions"
 ---
 
-Redirect to [Lake of Tears](/wiki/Lake_of_Tears#Other_versions).
+Redirect to [Lake of Tears](Lake_of_Tears.md#Other_versions).

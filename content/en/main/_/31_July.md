@@ -1,6 +1,5 @@
 ---
 title: "31 July"
-display_title: "<span class=\"mw-page-title-main\">31 July</span>"
 page_id: 19042
 namespace: 0
 revision_id: 441573
@@ -24,68 +23,66 @@ langlinks:
     url: "https://kontu.wiki/31._hein%C3%A4kuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=31_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><style data-mw-deduplicate="TemplateStyles:r402745">.mw-parser-output .tg-button>a{border:1px solid transparent;border-radius:var(--tg-border-radius-small);height:36px;padding:0 1rem!important;color:var(--tg-color-emphasized)!important;display:flex;align-items:center;justify-content:center;gap:0.5rem;line-height:1;font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium);text-decoration:none}.mw-parser-output .tg-button>a:hover{background-color:var(--background-color-button-quiet--hover)!important}.mw-parser-output .tg-button>a:active{background-color:var(--background-color-button-quiet--active)!important}.mw-parser-output .tg-button.tg-button--framed>a{border-color:var(--tg-border-color-interactive)}.mw-parser-output .tg-button.tg-button--icon>a{padding-left:0.5rem!important;padding-right:0.5rem!important;font-size:0;gap:0}.mw-parser-output .tg-button.tg-button--primary>a{color:var(--tg-color-inverted-progressive)!important;background-color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--primary>a:hover{background-color:var(--tg-color-progressive--hover)!important}.mw-parser-output .tg-button.tg-button--primary>a:active{background-color:var(--tg-color-progressive--active)!important}.mw-parser-output .tg-button.tg-button--secondary>a{border-color:var(--tg-color-progressive)!important;color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:hover{border-color:var(--tg-color-progressive--hover)!important;background-color:var(--tg-color-progressive--hover)!important;color:var(--tg-color-inverted-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:active{border-color:var(--tg-color-progressive--active)!important;background-color:var(--tg-color-progressive--active)!important;color:var(--tg-color-inverted-progressive)!important}</style><div class="tg-section-divider"><span><a href="/wiki/July" title="July">July</a></span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=31_July/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../J/July.md" title="July">July</a></span></div>
 <div class="template-month__grid">
-<div class="template-month__day"><a href="/wiki/1_July" title="1 July">1</a></div>
-<div class="template-month__day"><a href="/wiki/2_July" title="2 July">2</a></div>
-<div class="template-month__day"><a href="/wiki/3_July" title="3 July">3</a></div>
-<div class="template-month__day"><a href="/wiki/4_July" title="4 July">4</a></div>
-<div class="template-month__day"><a href="/wiki/5_July" title="5 July">5</a></div>
-<div class="template-month__day"><a href="/wiki/6_July" title="6 July">6</a></div>
-<div class="template-month__day"><a href="/wiki/7_July" title="7 July">7</a></div>
-<div class="template-month__day"><a href="/wiki/8_July" title="8 July">8</a></div>
-<div class="template-month__day"><a href="/wiki/9_July" title="9 July">9</a></div>
-<div class="template-month__day"><a href="/wiki/10_July" title="10 July">10</a></div>
-<div class="template-month__day"><a href="/wiki/11_July" title="11 July">11</a></div>
-<div class="template-month__day"><a href="/wiki/12_July" title="12 July">12</a></div>
-<div class="template-month__day"><a href="/wiki/13_July" title="13 July">13</a></div>
-<div class="template-month__day"><a href="/wiki/14_July" title="14 July">14</a></div>
-<div class="template-month__day"><a href="/wiki/15_July" title="15 July">15</a></div>
-<div class="template-month__day"><a href="/wiki/16_July" title="16 July">16</a></div>
-<div class="template-month__day"><a href="/wiki/17_July" title="17 July">17</a></div>
-<div class="template-month__day"><a href="/wiki/18_July" title="18 July">18</a></div>
-<div class="template-month__day"><a href="/wiki/19_July" title="19 July">19</a></div>
-<div class="template-month__day"><a href="/wiki/20_July" title="20 July">20</a></div>
-<div class="template-month__day"><a href="/wiki/21_July" title="21 July">21</a></div>
-<div class="template-month__day"><a href="/wiki/22_July" title="22 July">22</a></div>
-<div class="template-month__day"><a href="/wiki/23_July" title="23 July">23</a></div>
-<div class="template-month__day"><a href="/wiki/24_July" title="24 July">24</a></div>
-<div class="template-month__day"><a href="/wiki/25_July" title="25 July">25</a></div>
-<div class="template-month__day"><a href="/wiki/26_July" title="26 July">26</a></div>
-<div class="template-month__day"><a href="/wiki/27_July" title="27 July">27</a></div>
-<div class="template-month__day"><a href="/wiki/28_July" title="28 July">28</a></div>
-<div class="template-month__day"><a href="/wiki/29_July" title="29 July">29</a></div>
-<div class="template-month__day"><a href="/wiki/30_July" title="30 July">30</a></div>
+<div class="template-month__day"><a href="1_July.md" title="1 July">1</a></div>
+<div class="template-month__day"><a href="2_July.md" title="2 July">2</a></div>
+<div class="template-month__day"><a href="3_July.md" title="3 July">3</a></div>
+<div class="template-month__day"><a href="4_July.md" title="4 July">4</a></div>
+<div class="template-month__day"><a href="5_July.md" title="5 July">5</a></div>
+<div class="template-month__day"><a href="6_July.md" title="6 July">6</a></div>
+<div class="template-month__day"><a href="7_July.md" title="7 July">7</a></div>
+<div class="template-month__day"><a href="8_July.md" title="8 July">8</a></div>
+<div class="template-month__day"><a href="9_July.md" title="9 July">9</a></div>
+<div class="template-month__day"><a href="10_July.md" title="10 July">10</a></div>
+<div class="template-month__day"><a href="11_July.md" title="11 July">11</a></div>
+<div class="template-month__day"><a href="12_July.md" title="12 July">12</a></div>
+<div class="template-month__day"><a href="13_July.md" title="13 July">13</a></div>
+<div class="template-month__day"><a href="14_July.md" title="14 July">14</a></div>
+<div class="template-month__day"><a href="15_July.md" title="15 July">15</a></div>
+<div class="template-month__day"><a href="16_July.md" title="16 July">16</a></div>
+<div class="template-month__day"><a href="17_July.md" title="17 July">17</a></div>
+<div class="template-month__day"><a href="18_July.md" title="18 July">18</a></div>
+<div class="template-month__day"><a href="19_July.md" title="19 July">19</a></div>
+<div class="template-month__day"><a href="20_July.md" title="20 July">20</a></div>
+<div class="template-month__day"><a href="21_July.md" title="21 July">21</a></div>
+<div class="template-month__day"><a href="22_July.md" title="22 July">22</a></div>
+<div class="template-month__day"><a href="23_July.md" title="23 July">23</a></div>
+<div class="template-month__day"><a href="24_July.md" title="24 July">24</a></div>
+<div class="template-month__day"><a href="25_July.md" title="25 July">25</a></div>
+<div class="template-month__day"><a href="26_July.md" title="26 July">26</a></div>
+<div class="template-month__day"><a href="27_July.md" title="27 July">27</a></div>
+<div class="template-month__day"><a href="28_July.md" title="28 July">28</a></div>
+<div class="template-month__day"><a href="29_July.md" title="29 July">29</a></div>
+<div class="template-month__day"><a href="30_July.md" title="30 July">30</a></div>
 <div class="template-month__day"><a class="mw-selflink selflink">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="/wiki/January" title="January">Jan</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/February" title="February">Feb</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/March" title="March">Mar</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/April" title="April">Apr</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/May" title="May">May</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/June" title="June">Jun</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/July" title="July">Jul</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/August" title="August">Aug</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/September" title="September">Sep</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/October" title="October">Oct</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/November" title="November">Nov</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/December" title="December">Dec</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
-
-<style data-mw-deduplicate="TemplateStyles:r417058">.mw-parser-output .template-month{width:300px;background:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-medium);font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium)}.mw-parser-output .template-month .tg-event-card{border-bottom-left-radius:0;border-bottom-right-radius:0}.mw-parser-output .tg-event-card-button{margin:1rem}.mw-parser-output .template-month .tg-section-divider{margin-top:0.5rem;margin-bottom:0}.mw-parser-output .template-month__grid{border-bottom:var(--tg-border-base);padding:0.5rem;display:grid;grid-template-columns:repeat(7,1fr);text-align:center;gap:0.25rem}.mw-parser-output .template-month__day>a{display:flex;color:var(--tg-color-emphasized);border-radius:var(--tg-border-radius-small);aspect-ratio:1;justify-content:center;align-items:center}.mw-parser-output .template-month__day--nextmonth>a{color:var(--tg-color-subtle)}.mw-parser-output .template-month__day>a.selflink{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__day>a:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-month__day>a:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__footer{padding:0.5rem;display:grid;grid-template-columns:repeat(6,1fr)}.mw-parser-output .template-month__footer .tg-button>a{padding-left:0.5rem!important;padding-right:0.5rem!important}</style>
 
 Events that occurred on 31 July
 
 ## On Earth {#On_Earth}
 
-- **[1917](/wiki/1917)** – ["Tea Cake" Barnsley](/wiki/Thomas_Kenneth_Barnsley "Thomas Kenneth Barnsley") is killed near <a class="extiw" href="http://en.wikipedia.org/wiki/Ypres" title="wikipedia:Ypres">Ypres</a> while consoling a captured prisoner.
-- **[1924](/wiki/1924)** - Actor [Garard Green](/wiki/Garard_Green) is born.
-- **[1944](/wiki/1944)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 77](/wiki/Letter_77).
-- **[1947](/wiki/1947)** - J.R.R. Tolkien writes [Letter 109](/wiki/Letter_109).
-- **[1960](/wiki/1960)** - J.R.R. Tolkien writes [Letter 223](/wiki/Letter_223).
-- **[1965](/wiki/1965)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [letter 274a](/wiki/Letter_274a "Letter 274a").
-- **[1969](/wiki/1969)** - J.R.R. Tolkien writes [Letter 311](/wiki/Letter_311), concerned with his health.
-- **[1982](/wiki/1982)** - The third episode of the new version of the [1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* is aired on [BBC Radio 4](/wiki/BBC "BBC").
-- **[1988](/wiki/1988)** - [Mythcon 19](/wiki/Mythcon_19) in <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1989](/wiki/1989)** - [Mythcon 20](/wiki/Mythcon_20) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">University of British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
-- **[1993](/wiki/1993)** - [Roland Adlerberth](/wiki/Roland_Adlerberth) dies.
-- **[1993](/wiki/1993)** - [Mythcon 24](/wiki/Mythcon_24) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">University of Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
-- **[1999](/wiki/1999)** - [Mythcon 30](/wiki/Mythcon_30) in <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
-- **[2001](/wiki/2001)** - Author [Poul Anderson](/wiki/Poul_Anderson) dies.
-- **[2004](/wiki/2004)** - [The Lord of the Rings Symphony](/wiki/The_Lord_of_the_Rings_Symphony) at Heinz Hall in <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
-- **[2004](/wiki/2004)** - [Mythcon 35](/wiki/Mythcon_35) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">University of Michigan</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
-- **[2011](/wiki/2011)** - *[Picturing Tolkien](/wiki/Picturing_Tolkien)* is published.
-- **[2015](/wiki/2015)** - [Mythcon 46](/wiki/Mythcon_46) in Hotel Elegante, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado" title="wikipedia:Colorado Springs, Colorado">Colorado Springs</a>.
-- **[2017](/wiki/2017)** - *[The Lord of the Rings Online: Mordor](/wiki/The_Lord_of_the_Rings_Online:_Mordor)* expansion is released.
+- **[1917](1917.md)** – ["Tea Cake" Barnsley](../T/Thomas_Kenneth_Barnsley.md) is killed near <a class="extiw" href="http://en.wikipedia.org/wiki/Ypres" title="wikipedia:Ypres">Ypres</a> while consoling a captured prisoner.
+- **[1924](1924.md)** - Actor [Garard Green](../G/Garard_Green.md) is born.
+- **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 77](../L/Letter_77.md).
+- **[1947](1947.md)** - J.R.R. Tolkien writes [Letter 109](../L/Letter_109.md).
+- **[1960](1960.md)** - J.R.R. Tolkien writes [Letter 223](../L/Letter_223.md).
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [letter 274a](../L/Letter_274a.md).
+- **[1969](1969.md)** - J.R.R. Tolkien writes [Letter 311](../L/Letter_311.md), concerned with his health.
+- **[1982](1982.md)** - The third episode of the new version of the [1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* is aired on [BBC Radio 4](../B/BBC.md).
+- **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) in <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
+- **[1989](1989.md)** - [Mythcon 20](../M/Mythcon_20.md) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">University of British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
+- **[1993](1993.md)** - [Roland Adlerberth](../R/Roland_Adlerberth.md) dies.
+- **[1993](1993.md)** - [Mythcon 24](../M/Mythcon_24.md) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Minnesota" title="wikipedia:University of Minnesota">University of Minnesota</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
+- **[1999](1999.md)** - [Mythcon 30](../M/Mythcon_30.md) in <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Wisconsin" title="wikipedia:Wisconsin">Wisconsin</a>.
+- **[2001](2001.md)** - Author [Poul Anderson](../P/Poul_Anderson.md) dies.
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) at Heinz Hall in <a class="extiw" href="http://en.wikipedia.org/wiki/Pittsburgh" title="wikipedia:Pittsburgh">Pittsburgh</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Pennsylvania" title="wikipedia:Pennsylvania">Pennsylvania</a>.
+- **[2004](2004.md)** - [Mythcon 35](../M/Mythcon_35.md) at <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="wikipedia:University of Michigan">University of Michigan</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan" title="wikipedia:Ann Arbor, Michigan">Ann Arbor</a>.
+- **[2011](2011.md)** - *[Picturing Tolkien](../P/Picturing_Tolkien.md)* is published.
+- **[2015](2015.md)** - [Mythcon 46](../M/Mythcon_46.md) in Hotel Elegante, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado_Springs,_Colorado" title="wikipedia:Colorado Springs, Colorado">Colorado Springs</a>.
+- **[2017](2017.md)** - *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)* expansion is released.
 
 ## In Arda {#In_Arda}
 
-<dl><dd><i>Note: Months of the <a href="/wiki/Shire_Calendar" title="Shire Calendar">Shire Calendar</a> only have 30 days, so no events have nor will happen on the 31st.</i></dd></dl>
+<dl><dd><i>Note: Months of the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a> only have 30 days, so no events have nor will happen on the 31st.</i></dd></dl>

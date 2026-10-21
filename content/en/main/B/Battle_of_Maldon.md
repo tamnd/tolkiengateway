@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of Maldon: together with The Homecoming of Beorhtnoth"
 ---
 
-Redirect to [The Battle of Maldon: together with The Homecoming of Beorhtnoth](/wiki/The_Battle_of_Maldon:_together_with_The_Homecoming_of_Beorhtnoth).
+Redirect to [The Battle of Maldon: together with The Homecoming of Beorhtnoth](../T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md).

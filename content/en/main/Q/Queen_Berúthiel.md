@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Berúthiel"
 ---
 
-Redirect to [Berúthiel](/wiki/Berúthiel).
+Redirect to [Berúthiel](../B/Berúthiel.md).

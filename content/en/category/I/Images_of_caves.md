@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of caves"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of caves</span>"
 page_id: 39802
 namespace: 14
 revision_id: 198885

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Tolkien Bestiary"
 ---
 
-Redirect to [A Tolkien Bestiary](/wiki/A_Tolkien_Bestiary).
+Redirect to [A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md).

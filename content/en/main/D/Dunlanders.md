@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunlendings"
 ---
 
-Redirect to [Dunlendings](/wiki/Dunlendings).
+Redirect to [Dunlendings](Dunlendings.md).

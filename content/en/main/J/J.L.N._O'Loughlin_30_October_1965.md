@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to J.L.N. O'Loughlin (30 October 1965)"
 ---
 
-Redirect to [Letter to J.L.N. O'Loughlin (30 October 1965)](/wiki/Letter_to_J.L.N._O'Loughlin_(30_October_1965)).
+Redirect to [Letter to J.L.N. O'Loughlin (30 October 1965)](<../L/Letter_to_J.L.N._O'Loughlin_(30_October_1965).md>).

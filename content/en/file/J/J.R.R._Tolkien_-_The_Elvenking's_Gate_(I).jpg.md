@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Elvenking's Gate (I).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Elvenking&#039;s Gate (I).jpg</span>"
 page_id: 5480
 namespace: 6
 revision_id: 373774
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An unfinished painting to illustrate [The Hobbit](/wiki/The_Hobbit), Chapter 9 ([Barrels Out of Bond](/wiki/Barrels_Out_of_Bond)). It was published in The [J.R.R. Tolkien Calendar 1979](/wiki/J.R.R._Tolkien_Calendar_1979).
+An unfinished painting to illustrate [The Hobbit](../../main/T/The_Hobbit.md), Chapter 9 ([Barrels Out of Bond](../../main/B/Barrels_Out_of_Bond.md)). It was published in The [J.R.R. Tolkien Calendar 1979](../../main/J/J.R.R._Tolkien_Calendar_1979.md).
 
 ## Licensing {#Licensing}
 

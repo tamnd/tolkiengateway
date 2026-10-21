@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riddle of Strider"
 ---
 
-Redirect to [Riddle of Strider](/wiki/Riddle_of_Strider).
+Redirect to [Riddle of Strider](../R/Riddle_of_Strider.md).

@@ -1,6 +1,5 @@
 ---
 title: "Symphony No. 3 Ainulindalë, Op. 42"
-display_title: "<span class=\"mw-page-title-main\">Symphony No. 3 Ainulindalë, Op. 42</span>"
 page_id: 65183
 namespace: 0
 revision_id: 426186
@@ -13,8 +12,8 @@ categories:
   - "Classical music"
 ---
 
-Orchestral symphony by composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey).
+Orchestral symphony by composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md).
 
-The symphony follows the programme of Tolkien’s opening chapter of *[The Silmarillion](/wiki/The_Silmarillion)*, and the original manuscript quoted the whole of the chapter over the music; but these superscriptions are not included in the work as published.
+The symphony follows the programme of Tolkien’s opening chapter of *[The Silmarillion](../T/The_Silmarillion.md)*, and the original manuscript quoted the whole of the chapter over the music; but these superscriptions are not included in the work as published.
 
-A large section of this work was incorporated in *[Fëanor, Op. 46 (Opera)](</wiki/F%C3%ABanor,_Op._46_(Opera)>)* as the prelude to the work.
+A large section of this work was incorporated in *[Fëanor, Op. 46 (Opera)](<../F/Fëanor,_Op._46_(Opera).md>)* as the prelude to the work.

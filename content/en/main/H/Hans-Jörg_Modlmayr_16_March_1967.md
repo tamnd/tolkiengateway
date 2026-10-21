@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Hans-Jörg Modlmayr (16 March 1967)"
 ---
 
-Redirect to [Letter to Hans-Jörg Modlmayr (16 March 1967)](/wiki/Letter_to_Hans-Jörg_Modlmayr_(16_March_1967)).
+Redirect to [Letter to Hans-Jörg Modlmayr (16 March 1967)](<../L/Letter_to_Hans-Jörg_Modlmayr_(16_March_1967).md>).

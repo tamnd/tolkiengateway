@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dorothy Wood"
 ---
 
-Redirect to [Dorothy Wood](/wiki/Dorothy_Wood).
+Redirect to [Dorothy Wood](Dorothy_Wood.md).

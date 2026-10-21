@@ -1,6 +1,5 @@
 ---
 title: "File:Gregor Roffalski - Primrose Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gregor Roffalski - Primrose Baggins.jpg</span>"
 page_id: 58079
 namespace: 6
 revision_id: 322111

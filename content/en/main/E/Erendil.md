@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendil"
 ---
 
-Redirect to [Elendil](/wiki/Elendil).
+Redirect to [Elendil](Elendil.md).

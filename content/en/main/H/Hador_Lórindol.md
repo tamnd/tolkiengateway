@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hador"
 ---
 
-Redirect to [Hador](/wiki/Hador).
+Redirect to [Hador](Hador.md).

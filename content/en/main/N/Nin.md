@@ -14,17 +14,17 @@ categories:
   - "Telerin pronouns"
 ---
 
-**nin** is a [Quenya](/wiki/Quenya) and [Telerin](/wiki/Telerin)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> pronoun meaning "for me"
+**nin** is a [Quenya](../Q/Quenya.md) and [Telerin](../T/Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> pronoun meaning "for me"
 
 ## Etymology {#Etymology}
 
-*nin* is the dative of personal pronoun <i><a class="new" href="/w/index.php?title=Ni&amp;action=edit&amp;redlink=1" title="Ni (page does not exist)">ni</a></i> "I".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> From [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=NI&amp;action=edit&amp;redlink=1" title="NI (page does not exist)">NI</a> <span></span>
+*nin* is the dative of personal pronoun <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ni&amp;action=edit&amp;redlink=1" title="Ni (page does not exist)">ni</a></i> "I".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> From [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NI&amp;action=edit&amp;redlink=1" title="NI (page does not exist)">NI</a> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Notes on <i>Óre</i>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_41" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.15</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Notes on <i>Óre</i>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_41.md" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.15</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Notes and Translations&#34;, in <i><a class="mw-redirect" href="/wiki/The_Road_Goes_Ever_On,_A_Song_Cycle" title="The Road Goes Ever On, A Song Cycle">The Road Goes Ever On, A Song Cycle</a></i>, p.67</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Notes and Translations&#34;, in <i><a class="mw-redirect" href="../T/The_Road_Goes_Ever_On,_A_Song_Cycle.md" title="The Road Goes Ever On, A Song Cycle">The Road Goes Ever On, A Song Cycle</a></i>, p.67</span>
 </li>
 </ol></div>

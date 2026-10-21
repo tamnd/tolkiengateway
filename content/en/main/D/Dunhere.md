@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dúnhere"
 ---
 
-Redirect to [Dúnhere](/wiki/Dúnhere).
+Redirect to [Dúnhere](Dúnhere.md).

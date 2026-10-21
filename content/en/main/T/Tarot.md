@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Tarot"
 ---
 
-Redirect to [The Lord of the Rings Tarot](/wiki/The_Lord_of_the_Rings_Tarot).
+Redirect to [The Lord of the Rings Tarot](The_Lord_of_the_Rings_Tarot.md).

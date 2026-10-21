@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unseen"
 ---
 
-Redirect to [Unseen](/wiki/Unseen).
+Redirect to [Unseen](../U/Unseen.md).

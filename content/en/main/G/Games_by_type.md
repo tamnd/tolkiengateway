@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Games by type"
 ---
 
-Redirect to [Index:Games by type](/wiki/Index:Games_by_type).
+Redirect to [Index:Games by type](../../index/G/Games_by_type.md).

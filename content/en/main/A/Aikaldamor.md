@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egalmoth"
 ---
 
-Redirect to [Egalmoth](/wiki/Egalmoth).
+Redirect to [Egalmoth](../E/Egalmoth.md).

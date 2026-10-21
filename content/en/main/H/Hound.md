@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hounds"
 ---
 
-Redirect to [Hounds](/wiki/Hounds).
+Redirect to [Hounds](Hounds.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Solvey Corbett - Aldamir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Solvey Corbett - Aldamir.jpg</span>"
 page_id: 30003
 namespace: 6
 revision_id: 203217
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Aldamir](/wiki/Aldamir)* by Solvey Corbett. Image from Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](/wiki/Chris_Seeman), Magnus Seter, *[Southern Gondor: The People](/wiki/Southern_Gondor:_The_People)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2020, 1996) .
+*[Aldamir](../../main/A/Aldamir.md)* by Solvey Corbett. Image from Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996) .
 
 ## Licensing {#Licensing}
 

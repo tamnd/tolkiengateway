@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mrs Munby"
 ---
 
-Redirect to [Letter to Mrs Munby](/wiki/Letter_to_Mrs_Munby).
+Redirect to [Letter to Mrs Munby](../L/Letter_to_Mrs_Munby.md).

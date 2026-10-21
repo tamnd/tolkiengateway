@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anairë"
 ---
 
-Redirect to [Anairë](/wiki/Anairë).
+Redirect to [Anairë](Anairë.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - My house (Christmas House).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - My house (Christmas House).png</span>"
 page_id: 66910
 namespace: 6
 revision_id: 387801
@@ -34,4 +33,4 @@ file:
 
 ## Summary {#Summary}
 
-The [Christmas House](/wiki/Christmas_House) drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) ([Father Christmas](/wiki/Father_Christmas)), sent with first letter ([1920](/wiki/1920)).
+The [Christmas House](../../main/C/Christmas_House.md) drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) ([Father Christmas](../../main/F/Father_Christmas.md)), sent with first letter ([1920](../../main/_/1920.md)).

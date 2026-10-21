@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ring of Words"
 ---
 
-Redirect to [The Ring of Words](/wiki/The_Ring_of_Words).
+Redirect to [The Ring of Words](The_Ring_of_Words.md).

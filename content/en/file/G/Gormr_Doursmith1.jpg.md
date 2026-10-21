@@ -1,6 +1,5 @@
 ---
 title: "File:Gormr Doursmith1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gormr Doursmith1.jpg</span>"
 page_id: 36086
 namespace: 6
 revision_id: 369311
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gormr Doursmith](/wiki/Gormr_Doursmith) at the <a class="new" href="/w/index.php?title=Berghold&amp;action=edit&amp;redlink=1" title="Berghold (page does not exist)">Berghold</a> in the Ered Luin Introduction.
+[Gormr Doursmith](../../main/G/Gormr_Doursmith.md) at the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Berghold&amp;action=edit&amp;redlink=1" title="Berghold (page does not exist)">Berghold</a> in the Ered Luin Introduction.
 
 ## Licensing {#Licensing}
 

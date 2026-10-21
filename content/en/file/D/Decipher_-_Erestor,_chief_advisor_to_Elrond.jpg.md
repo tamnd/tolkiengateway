@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Erestor - Chief Advisor to Elrond.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Erestor - Chief Advisor to Elrond.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Erestor_-_Chief_Advisor_to_Elrond.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Erestor - Chief Advisor to Elrond.jpg](../T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Erestor_-_Chief_Advisor_to_Elrond.jpg.md).

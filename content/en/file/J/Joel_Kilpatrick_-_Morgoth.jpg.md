@@ -1,6 +1,5 @@
 ---
 title: "File:Joel Kilpatrick - Morgoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joel Kilpatrick - Morgoth.jpg</span>"
 page_id: 50061
 namespace: 6
 revision_id: 309897
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Joel Kilpatrick</li>
 <li><b>Website:</b> <a class="external free" href="http://jmkilpatrick.deviantart.com/" rel="noreferrer noopener" target="_blank">http://jmkilpatrick.deviantart.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joel_Kilpatrick" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoel_Kilpatrick.md" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Túrin's Path to Glaurung.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Túrin&#039;s Path to Glaurung.png</span>"
 page_id: 68241
 namespace: 6
 revision_id: 401418
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of western [Brethil](/wiki/Brethil) published in *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*. The map by [Christopher Tolkien](/wiki/Christopher_Tolkien) is a redrawing of the one he sketched for *[Unfinished Tales](/wiki/Unfinished_Tales)*, showing the path [Túrin](/wiki/T%C3%BArin) and his companions took to attack [Glaurung](/wiki/Glaurung). Starting in [Nen Girith](/wiki/Nen_Girith), they travelled towards the [Crossings of Taeglin](/wiki/Crossings_of_Taeglin) before turning down a narrow track and following the river through the woods towards [Cabed-en-Aras](/wiki/Cabed-en-Aras).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Map of western [Brethil](../../main/B/Brethil.md) published in *[The Children of Húrin](../../main/T/The_Children_of_Húrin.md)*. The map by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) is a redrawing of the one he sketched for *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*, showing the path [Túrin](../../main/T/Túrin.md) and his companions took to attack [Glaurung](../../main/G/Glaurung.md). Starting in [Nen Girith](../../main/N/Nen_Girith.md), they travelled towards the [Crossings of Taeglin](../../main/C/Crossings_of_Taeglin.md) before turning down a narrow track and following the river through the woods towards [Cabed-en-Aras](../../main/C/Cabed-en-Aras.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
@@ -36,7 +35,7 @@ Map of western [Brethil](/wiki/Brethil) published in *[The Children of Húrin](/
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;Appendix 2: The Composition of the Text&#34;</span>
+<a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../../main/C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../../main/T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;Appendix 2: The Composition of the Text&#34;</span>
 </li>
 </ol></div>
 

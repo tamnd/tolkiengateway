@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AYA(R)"
 ---
 
-Redirect to [AYA(R)](/wiki/AYA(R)).
+Redirect to [AYA(R)](<AYA(R).md>).

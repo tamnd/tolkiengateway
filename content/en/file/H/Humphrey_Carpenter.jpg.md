@@ -1,6 +1,5 @@
 ---
 title: "File:Humphrey Carpenter.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Humphrey Carpenter.jpg</span>"
 page_id: 7916
 namespace: 6
 revision_id: 253140

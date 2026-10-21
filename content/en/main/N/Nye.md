@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-n"
 ---
 
-Redirect to [-n](/wiki/-n).
+Redirect to [-n](../_/-n.md).

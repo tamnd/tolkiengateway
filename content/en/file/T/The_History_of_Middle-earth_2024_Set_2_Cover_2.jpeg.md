@@ -1,6 +1,5 @@
 ---
 title: "File:The History of Middle-earth 2024 Set 2 Cover 2.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The History of Middle-earth 2024 Set 2 Cover 2.jpeg</span>"
 page_id: 66595
 namespace: 6
 revision_id: 385324

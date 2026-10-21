@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rayner Heppenstall (17 November 1954)"
 ---
 
-Redirect to [Letter to Rayner Heppenstall (17 November 1954)](/wiki/Letter_to_Rayner_Heppenstall_(17_November_1954)).
+Redirect to [Letter to Rayner Heppenstall (17 November 1954)](<../L/Letter_to_Rayner_Heppenstall_(17_November_1954).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Insant"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Insant</span>"
 page_id: 66164
 namespace: 4
 revision_id: 381447
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Insant"
 ---
 
-- Insant has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Insant "Category:Images by Insant") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Insant has kindly granted her permission to use [her artwork](../../category/I/Images_by_Insant.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 14 October 2023
-- User who sought the permission via DeviantArt: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission via DeviantArt: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

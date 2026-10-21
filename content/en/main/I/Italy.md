@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Italy"
 ---
 
-Redirect to [Category:Italy](/wiki/Category:Italy).
+Redirect to [Category:Italy](../../category/I/Italy.md).

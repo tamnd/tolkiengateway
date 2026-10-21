@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Moria drum.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Moria drum.jpeg</span>"
 page_id: 11964
 namespace: 6
 revision_id: 203998

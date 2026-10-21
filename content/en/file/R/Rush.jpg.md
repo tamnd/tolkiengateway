@@ -1,6 +1,5 @@
 ---
 title: "File:Rush.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rush.jpg</span>"
 page_id: 66546
 namespace: 6
 revision_id: 389632

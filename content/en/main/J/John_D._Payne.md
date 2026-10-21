@@ -1,6 +1,5 @@
 ---
 title: "John D. Payne"
-display_title: "<span class=\"mw-page-title-main\">John D. Payne</span>"
 page_id: 59079
 namespace: 0
 revision_id: 442265
@@ -29,9 +28,9 @@ images:
   - "John_D._Payne.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_D._Payne.jpg"><img src="/w/images/thumb/b/b1/John_D._Payne.jpg/300px-John_D._Payne.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="/w/images/thumb/b/b1/John_D._Payne.jpg/450px-John_D._Payne.jpg 1.5x, /w/images/thumb/b/b1/John_D._Payne.jpg/600px-John_D._Payne.jpg 2x" data-file-width="900" data-file-height="600"/></a><figcaption><i>John D. Payne</i> at the Mumbai screening of <a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power‎</a> series in 2022</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_D._Payne.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/John_D._Payne.jpg/300px-John_D._Payne.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b1/John_D._Payne.jpg/450px-John_D._Payne.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b1/John_D._Payne.jpg/600px-John_D._Payne.jpg 2x" data-file-width="900" data-file-height="600"/></a><figcaption><i>John D. Payne</i> at the Mumbai screening of <a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power‎</a> series in 2022</figcaption></figure>
 
-**John D. Payne**, or **J. D. Payne**, is an American screenwriter and producer. Alongside [Patrick McKay](/wiki/Patrick_McKay), he is the "showrunner"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> of the entire series, *[The Lord of the Rings: The Rings of Power‎](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power "The Lord of the Rings: The Rings of Power")*.
+**John D. Payne**, or **J. D. Payne**, is an American screenwriter and producer. Alongside [Patrick McKay](../P/Patrick_McKay.md), he is the "showrunner"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> of the entire series, *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 <span></span>
 

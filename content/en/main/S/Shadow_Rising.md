@@ -15,11 +15,11 @@ images:
   - "ShadowRising.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:ShadowRising.jpg"><img src="/w/images/thumb/a/af/ShadowRising.jpg/250px-ShadowRising.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="/w/images/thumb/a/af/ShadowRising.jpg/375px-ShadowRising.jpg 1.5x, /w/images/a/af/ShadowRising.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Shadow Rising cover</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/ShadowRising.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/250px-ShadowRising.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/ShadowRising.jpg/375px-ShadowRising.jpg 1.5x, https://tolkiengateway.net/w/images/a/af/ShadowRising.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Shadow Rising cover</figcaption></figure>
 
-<i><b>Shadow Rising</b></i> is an album by [Soundestiny](/wiki/Soundestiny) that was released in 2004.
+<i><b>Shadow Rising</b></i> is an album by [Soundestiny](Soundestiny.md) that was released in 2004.
 
-It was inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and was the band's first album. The music was written by Darryl Grant Potter and Michael Bohl; lyrics were by Darryl Grant Potter. After two more albums – *Journey Through Love* in 2006, and [All that Glitters](/wiki/All_that_Glitters) in 2009, [Soundestiny](/wiki/Soundestiny) released the follow-up LOTR-inspired album – [Winds of Change](/wiki/Winds_of_Change) in 2010. The band then returned to the studio to record another folk rock album of music entitled [Dragon Quest](/wiki/Dragon_Quest), inspired by *[The Hobbit](/wiki/The_Hobbit)*. The albums *Shadow Rising* and [Winds of Change](/wiki/Winds_of_Change) together form a 25 song rock opera or rock musical titled **RingLord**. This rock musical was inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* only. Throughout the song lyrics, there are no mentions of any of the characters from *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, such as [Gandalf](/wiki/Gandalf) or [Aragorn](/wiki/Aragorn), nor of [Middle-earth](/wiki/Middle-earth) place names like [Rivendell](/wiki/Rivendell) or [Lothlorien](/wiki/Lothl%C3%B3rien "Lothlórien").
+It was inspired by *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and was the band's first album. The music was written by Darryl Grant Potter and Michael Bohl; lyrics were by Darryl Grant Potter. After two more albums – *Journey Through Love* in 2006, and [All that Glitters](../A/All_that_Glitters.md) in 2009, [Soundestiny](Soundestiny.md) released the follow-up LOTR-inspired album – [Winds of Change](../W/Winds_of_Change.md) in 2010. The band then returned to the studio to record another folk rock album of music entitled [Dragon Quest](../D/Dragon_Quest.md), inspired by *[The Hobbit](../T/The_Hobbit.md)*. The albums *Shadow Rising* and [Winds of Change](../W/Winds_of_Change.md) together form a 25 song rock opera or rock musical titled **RingLord**. This rock musical was inspired by *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* only. Throughout the song lyrics, there are no mentions of any of the characters from *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, such as [Gandalf](../G/Gandalf.md) or [Aragorn](../A/Aragorn.md), nor of [Middle-earth](../M/Middle-earth.md) place names like [Rivendell](../R/Rivendell.md) or [Lothlorien](../L/Lothlórien.md).
 
 ## Lineup {#Lineup}
 
@@ -67,7 +67,7 @@ It was inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and wa
 
 - (Hidden track). Ever on – 3:30
 
-(The final, hidden track, Ever on, starts one and a half minutes after the end of the twelfth track. This unplugged song also appears as track number 12 on [Soundestiny](/wiki/Soundestiny)'s [Dragon Quest](/wiki/Dragon_Quest) album released in 2012 - but with percussion and harmony added.
+(The final, hidden track, Ever on, starts one and a half minutes after the end of the twelfth track. This unplugged song also appears as track number 12 on [Soundestiny](Soundestiny.md)'s [Dragon Quest](../D/Dragon_Quest.md) album released in 2012 - but with percussion and harmony added.
 
 ## Sample {#Sample}
 

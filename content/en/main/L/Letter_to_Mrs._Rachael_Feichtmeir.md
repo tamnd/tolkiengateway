@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mrs Rachael Feichtmeir"
 ---
 
-Redirect to [Letter to Mrs Rachael Feichtmeir](/wiki/Letter_to_Mrs_Rachael_Feichtmeir).
+Redirect to [Letter to Mrs Rachael Feichtmeir](Letter_to_Mrs_Rachael_Feichtmeir.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Mop.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mop.png</span>"
 page_id: 75114
 namespace: 6
 revision_id: 442444
@@ -28,7 +27,7 @@ PD mop - usual admin-sign
 
 ## Source {#Source}
 
-[File:Tolkien Gateway admin mop.png](/wiki/File:Tolkien_Gateway_admin_mop.png)
+[File:Tolkien Gateway admin mop.png](../T/Tolkien_Gateway_admin_mop.png.md)
 
 ## Licensing {#Licensing}
 

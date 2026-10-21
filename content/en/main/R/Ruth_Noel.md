@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ruth S. Noel"
 ---
 
-Redirect to [Ruth S. Noel](/wiki/Ruth_S._Noel).
+Redirect to [Ruth S. Noel](Ruth_S._Noel.md).

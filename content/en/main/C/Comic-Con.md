@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "San Diego Comic-Con"
 ---
 
-Redirect to [San Diego Comic-Con](/wiki/San_Diego_Comic-Con).
+Redirect to [San Diego Comic-Con](../S/San_Diego_Comic-Con.md).

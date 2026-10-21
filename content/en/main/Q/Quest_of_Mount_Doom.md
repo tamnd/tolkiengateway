@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest of the Ring"
 ---
 
-Redirect to [Quest of the Ring](/wiki/Quest_of_the_Ring).
+Redirect to [Quest of the Ring](Quest_of_the_Ring.md).

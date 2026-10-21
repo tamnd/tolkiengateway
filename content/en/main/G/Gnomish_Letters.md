@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gnomic Letters"
 ---
 
-Redirect to [Gnomic Letters](/wiki/Gnomic_Letters).
+Redirect to [Gnomic Letters](Gnomic_Letters.md).

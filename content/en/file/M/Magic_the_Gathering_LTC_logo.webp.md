@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Magic the Gathering LTC symbol.webp"
 ---
 
-Redirect to [File:Magic the Gathering LTC symbol.webp](/wiki/File:Magic_the_Gathering_LTC_symbol.webp).
+Redirect to [File:Magic the Gathering LTC symbol.webp](Magic_the_Gathering_LTC_symbol.webp.md).

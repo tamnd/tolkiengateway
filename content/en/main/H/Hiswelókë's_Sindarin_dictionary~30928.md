@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hiswelókë"
 ---
 
-Redirect to [Hiswelókë](/wiki/Hiswelókë).
+Redirect to [Hiswelókë](Hiswelókë.md).

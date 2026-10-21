@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The world was young, the mountains green,"
 ---
 
-Redirect to [The world was young, the mountains green,](/wiki/The_world_was_young,_the_mountains_green,).
+Redirect to [The world was young, the mountains green,](../T/The_world_was_young,_the_mountains_green,.md).

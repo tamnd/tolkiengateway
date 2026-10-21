@@ -1,6 +1,5 @@
 ---
 title: "File:Humphrey Carpenter (black & white).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Humphrey Carpenter (black &amp; white).jpg</span>"
 page_id: 71849
 namespace: 6
 revision_id: 428023

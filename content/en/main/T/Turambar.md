@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turambar (disambiguation)"
 ---
 
-Redirect to [Turambar (disambiguation)](/wiki/Turambar_(disambiguation)).
+Redirect to [Turambar (disambiguation)](<Turambar_(disambiguation).md>).

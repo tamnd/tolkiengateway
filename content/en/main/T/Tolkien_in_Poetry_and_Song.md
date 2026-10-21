@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lembas Extra 2009"
 ---
 
-Redirect to [Lembas Extra 2009](/wiki/Lembas_Extra_2009).
+Redirect to [Lembas Extra 2009](../L/Lembas_Extra_2009.md).

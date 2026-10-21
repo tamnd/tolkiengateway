@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Coming of the Eagles.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Coming of the Eagles.png</span>"
 page_id: 71631
 namespace: 6
 revision_id: 440310
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Coming of the [Eagles](/wiki/Eagles)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+"The Coming of the [Eagles](../../main/E/Eagles.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

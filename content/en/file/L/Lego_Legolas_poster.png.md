@@ -1,6 +1,5 @@
 ---
 title: "File:Lego Legolas poster.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego Legolas poster.png</span>"
 page_id: 38129
 namespace: 6
 revision_id: 358154

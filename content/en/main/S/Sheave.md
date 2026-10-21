@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King Sheave"
 ---
 
-Redirect to [King Sheave](/wiki/King_Sheave).
+Redirect to [King Sheave](../K/King_Sheave.md).

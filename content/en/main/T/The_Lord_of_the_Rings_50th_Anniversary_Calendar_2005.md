@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Calendar 2005"
 ---
 
-Redirect to [Tolkien Calendar 2005](/wiki/Tolkien_Calendar_2005).
+Redirect to [Tolkien Calendar 2005](Tolkien_Calendar_2005.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northwestern Middle-earth Map Set"
 ---
 
-Redirect to [Northwestern Middle-earth Map Set](/wiki/Northwestern_Middle-earth_Map_Set).
+Redirect to [Northwestern Middle-earth Map Set](../N/Northwestern_Middle-earth_Map_Set.md).

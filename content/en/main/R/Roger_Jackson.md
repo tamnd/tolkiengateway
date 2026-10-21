@@ -1,6 +1,5 @@
 ---
 title: "Roger Jackson"
-display_title: "<span class=\"mw-page-title-main\">Roger Jackson</span>"
 page_id: 19187
 namespace: 0
 revision_id: 323960
@@ -23,9 +22,9 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*: [Saruman](/wiki/Saruman)
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
-- [2004](/wiki/2004): [*The Lord of the Rings: The Return of the King* (video game)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)> "The Lord of the Rings: The Return of the King (video game)"): Additional voices
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*: [Saruman](../S/Saruman.md)
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
+- [2004](../_/2004.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): Additional voices
 
 ## External links {#External_links}
 

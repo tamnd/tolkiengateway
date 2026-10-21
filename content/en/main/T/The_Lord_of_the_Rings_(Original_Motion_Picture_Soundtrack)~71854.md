@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings - Original Motion Picture Soundtrack"
 ---
 
-Redirect to [The Lord of the Rings - Original Motion Picture Soundtrack](/wiki/The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack).
+Redirect to [The Lord of the Rings - Original Motion Picture Soundtrack](The_Lord_of_the_Rings_-_Original_Motion_Picture_Soundtrack.md).

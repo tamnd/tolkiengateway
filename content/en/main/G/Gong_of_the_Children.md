@@ -1,6 +1,5 @@
 ---
 title: "Gong of the Children"
-display_title: "<span class=\"mw-page-title-main\">Gong of the Children</span>"
 page_id: 60326
 namespace: 0
 revision_id: 408341
@@ -13,25 +12,25 @@ categories:
   - "Musical instruments"
 ---
 
-The **Gong of the Children** or **Gong of Littleheart** was a [musical instrument](/wiki/Musical_instruments "Musical instruments") according to the early version of the [legendarium](/wiki/Legendarium "Legendarium") in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*.
+The **Gong of the Children** or **Gong of Littleheart** was a [musical instrument](../M/Musical_instruments.md) according to the early version of the [legendarium](../L/Legendarium.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## History {#History}
 
-It was owned by [Littleheart](/wiki/Littleheart), who rang it to awake the [Sleeper](/wiki/Sleeper) in the [Tower of Pearl](/wiki/Tower_of_Pearl) during [Eärendel](/wiki/E%C3%A4rendel)'s travel to the <a class="mw-redirect mw-disambig" href="/wiki/West" title="West">West</a>. Later, Littleheart was the Gong-warden at the [Cottage of Lost Play](/wiki/Cottage_of_Lost_Play). The Gong was located outside the <a class="new" href="/w/index.php?title=Hall_of_Play_Regained&amp;action=edit&amp;redlink=1" title="Hall of Play Regained (page does not exist)">Hall of Play Regained</a>, and it rang once each time the people at the house were summoned for meal, while it sounded thrice each time it was the hour of tale-telling at the [Room of the Log Fire](/wiki/Tale-fire "Tale-fire"). When its sweet sound was heard, it followed the sound the laughters and pattering of feet around the house.<sup id="cite_ref-Cottage_1-0" class="reference"><a href="#cite_note-Cottage-1">[1]</a></sup>
+It was owned by [Littleheart](../L/Littleheart.md), who rang it to awake the [Sleeper](../S/Sleeper.md) in the [Tower of Pearl](../T/Tower_of_Pearl.md) during [Eärendel](../E/Eärendel.md)'s travel to the <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">West</a>. Later, Littleheart was the Gong-warden at the [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md). The Gong was located outside the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_Play_Regained&amp;action=edit&amp;redlink=1" title="Hall of Play Regained (page does not exist)">Hall of Play Regained</a>, and it rang once each time the people at the house were summoned for meal, while it sounded thrice each time it was the hour of tale-telling at the [Room of the Log Fire](../T/Tale-fire.md). When its sweet sound was heard, it followed the sound the laughters and pattering of feet around the house.<sup id="cite_ref-Cottage_1-0" class="reference"><a href="#cite_note-Cottage-1">[1]</a></sup>
 
 ## Other names {#Other_names}
 
-It is also named <i><b>Tombo</b></i>,<sup id="cite_ref-Cottage_1-1" class="reference"><a href="#cite_note-Cottage-1">[1]</a></sup> which is just [Qenya](/wiki/Qenya) for "gong".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Its [Gnomish](/wiki/Gnomish) cognate seemed to be simply <i><b>To</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+It is also named <i><b>Tombo</b></i>,<sup id="cite_ref-Cottage_1-1" class="reference"><a href="#cite_note-Cottage-1">[1]</a></sup> which is just [Qenya](../Q/Qenya.md) for "gong".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Its [Gnomish](Gnomish.md) cognate seemed to be simply <i><b>To</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Cottage-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Cottage_1-0">1.0</a></sup> <sup><a href="#cite_ref-Cottage_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="/wiki/The_Cottage_of_Lost_Play" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34;, p. 15</span>
+<li id="cite_note-Cottage-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Cottage_1-0">1.0</a></sup> <sup><a href="#cite_ref-Cottage_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="../T/The_Cottage_of_Lost_Play.md" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34;, p. 15</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;Tombo&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;Tombo&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="/wiki/Parma_Eldalamberon_15" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>), p. 7</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="../P/Parma_Eldalamberon_15.md" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>), p. 7</span>
 </li>
 </ol></div>

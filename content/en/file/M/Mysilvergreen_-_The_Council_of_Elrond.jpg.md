@@ -1,6 +1,5 @@
 ---
 title: "File:Mysilvergreen - The Council of Elrond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mysilvergreen - The Council of Elrond.jpg</span>"
 page_id: 54720
 namespace: 6
 revision_id: 313730
@@ -37,7 +36,7 @@ file:
 
 ## Summary {#Summary}
 
-From left to right: [Gimli](/wiki/Gimli), [Legolas](/wiki/Legolas), [Glóin](/wiki/Gl%C3%B3in), [Boromir](/wiki/Boromir), [Aragorn](/wiki/Aragorn), [Glorfindel](/wiki/Glorfindel), [Erestor](/wiki/Erestor), [Elrond](/wiki/Elrond), [Frodo Baggins](/wiki/Frodo_Baggins), [Gandalf](/wiki/Gandalf)
+From left to right: [Gimli](../../main/G/Gimli.md), [Legolas](../../main/L/Legolas.md), [Glóin](../../main/G/Glóin.md), [Boromir](../../main/B/Boromir.md), [Aragorn](../../main/A/Aragorn.md), [Glorfindel](../../main/G/Glorfindel.md), [Erestor](../../main/E/Erestor.md), [Elrond](../../main/E/Elrond.md), [Frodo Baggins](../../main/F/Frodo_Baggins.md), [Gandalf](../../main/G/Gandalf.md)
 
 ## Licensing {#Licensing}
 
@@ -46,4 +45,4 @@ From left to right: [Gimli](/wiki/Gimli), [Legolas](/wiki/Legolas), [Glóin](/wi
 </p>
 <ul><li><b>Name:</b> Mysilvergreen‎</li>
 <li><b>Website:</b> <a class="external free" href="http://mysilvergreen.deviantart.com" rel="noreferrer noopener" target="_blank">http://mysilvergreen.deviantart.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mysilvergreen" title="Tolkien Gateway:Copyrights/Mysilvergreen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMysilvergreen.md" title="Tolkien Gateway:Copyrights/Mysilvergreen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

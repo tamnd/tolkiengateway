@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24"
 ---
 
-Redirect to [The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24](/wiki/The_Transactions_of_the_Honourable_Society_of_Cymmrodorion:_Session_1923-24).
+Redirect to [The Transactions of the Honourable Society of Cymmrodorion: Session 1923-24](The_Transactions_of_the_Honourable_Society_of_Cymmrodorion%253A_Session_1923-24.md).

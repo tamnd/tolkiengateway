@@ -1,6 +1,5 @@
 ---
 title: "File:Ten Thousand Leaves - Little Maeglin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ten Thousand Leaves - Little Maeglin.jpg</span>"
 page_id: 52232
 namespace: 6
 revision_id: 284661
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ten Thousand Leaves</li>
 <li><b>Website:</b> <a class="external text" href="http://ten-thousand-leaves.tumblr.com/" rel="noreferrer noopener" target="_blank">TTumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ten_Thousand_Leaves" title="Tolkien Gateway:Copyrights/Ten Thousand Leaves">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTen_Thousand_Leaves.md" title="Tolkien Gateway:Copyrights/Ten Thousand Leaves">Permission for use on Tolkien Gateway</a></b></li></ul></div>

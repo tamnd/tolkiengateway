@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ómar"
 ---
 
-Redirect to [Ómar](/wiki/Ómar).
+Redirect to [Ómar](../_/Ómar.md).

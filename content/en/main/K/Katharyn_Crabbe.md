@@ -1,6 +1,5 @@
 ---
 title: "Katharyn Crabbe"
-display_title: "<span class=\"mw-page-title-main\">Katharyn Crabbe</span>"
 page_id: 21825
 namespace: 0
 revision_id: 321319
@@ -19,14 +18,14 @@ sort_keys:
   "People by name": "Crabbe, Katharyn"
 ---
 
-**Katharyn Crabbe** ([1945](/wiki/1945)) was Associate Professor of English at <a class="extiw" href="http://en.wikipedia.org/wiki/Sonoma_State_University" title="wikipedia:Sonoma State University">Sonoma State University</a>, before taking on the office of Vice President for Student Affairs and Enrollment Management there. She retired in August [2007](/wiki/2007).
+**Katharyn Crabbe** ([1945](../_/1945.md)) was Associate Professor of English at <a class="extiw" href="http://en.wikipedia.org/wiki/Sonoma_State_University" title="wikipedia:Sonoma State University">Sonoma State University</a>, before taking on the office of Vice President for Student Affairs and Enrollment Management there. She retired in August [2007](../_/2007.md).
 
-At the time of her publication of <i><a class="new" href="/w/index.php?title=J.R.R._Tolkien_(Modern_Literature_Series)&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien (Modern Literature Series) (page does not exist)">J.R.R. Tolkien</a></i> in 1982, Crabbe used F. as middle initial (as in **Katharyn F. Crabbe**). In 1988, at the time of her publication of the revised edition of the same book, she had changed her middle initial to W. (as in **Katharyn W. Crabbe**).
+At the time of her publication of <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien_(Modern_Literature_Series)&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien (Modern Literature Series) (page does not exist)">J.R.R. Tolkien</a></i> in 1982, Crabbe used F. as middle initial (as in **Katharyn F. Crabbe**). In 1988, at the time of her publication of the revised edition of the same book, she had changed her middle initial to W. (as in **Katharyn W. Crabbe**).
 
 ## Bibliography {#Bibliography}
 
-- [1982](/wiki/1982): <i><a class="new" href="/w/index.php?title=J.R.R._Tolkien_(Modern_Literature_Series)&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien (Modern Literature Series) (page does not exist)">J.R.R. Tolkien (Modern Literature Series)</a></i>
-- [1988](/wiki/1988): *J.R.R. Tolkien (Modern Literature Series)* (revised edition)
+- [1982](../_/1982.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien_(Modern_Literature_Series)&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien (Modern Literature Series) (page does not exist)">J.R.R. Tolkien (Modern Literature Series)</a></i>
+- [1988](../_/1988.md): *J.R.R. Tolkien (Modern Literature Series)* (revised edition)
 
 ## External links {#External_links}
 

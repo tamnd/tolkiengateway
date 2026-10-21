@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kôr"
 ---
 
-Redirect to [Kôr](/wiki/Kôr).
+Redirect to [Kôr](Kôr.md).

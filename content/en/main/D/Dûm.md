@@ -15,17 +15,17 @@ sort_keys:
   "Khuzdul words": "Dum"
 ---
 
-**dûm** means "hall, mansions" and/or "excavations" in [Khuzdul](/wiki/Khuzdul).
+**dûm** means "hall, mansions" and/or "excavations" in [Khuzdul](../K/Khuzdul.md).
 
-It is seen in the name [Khazad-dûm](/wiki/Moria "Moria"), the name of [Moria](/wiki/Moria).
+It is seen in the name [Khazad-dûm](../M/Moria.md), the name of [Moria](../M/Moria.md).
 
 ## Etymology {#Etymology}
 
-It is possible that the actual form of the word is \**tumum* (root \*T-M-M); the form *dûm* is assimilated (from *[Khazad](/wiki/Khazad)-*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+It is possible that the actual form of the word is \**tumum* (root \*T-M-M); the form *dûm* is assimilated (from *[Khazad](../K/Khazad.md)-*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">An analysis of Dwarvish</a></i> by Magnus Åberg; he bases this on the word <a href="/wiki/Tumunzahar" title="Tumunzahar">Tumunzahar</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">An analysis of Dwarvish</a></i> by Magnus Åberg; he bases this on the word <a href="../T/Tumunzahar.md" title="Tumunzahar">Tumunzahar</a></span>
 </li>
 </ol></div>

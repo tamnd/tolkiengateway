@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Makar"
 ---
 
-Redirect to [Makar](/wiki/Makar).
+Redirect to [Makar](Makar.md).

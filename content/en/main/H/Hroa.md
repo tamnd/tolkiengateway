@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hröa"
 ---
 
-Redirect to [Hröa](/wiki/Hröa).
+Redirect to [Hröa](Hröa.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúwaith Iaur"
 ---
 
-Redirect to [Drúwaith Iaur](/wiki/Drúwaith_Iaur).
+Redirect to [Drúwaith Iaur](Drúwaith_Iaur.md).

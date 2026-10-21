@@ -13,17 +13,17 @@ categories:
   - "Quenya prefixes"
 ---
 
-<i><b>an-</b></i> is a superlative or intensive prefix in [Quenya](/wiki/Quenya).<sup id="cite_ref-Letters_1-0" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup>
+<i><b>an-</b></i> is a superlative or intensive prefix in [Quenya](../Q/Quenya.md).<sup id="cite_ref-Letters_1-0" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- **ancalima** = "most bright" (**[calima](/wiki/Kalima "Kalima")** = "bright")<sup id="cite_ref-Letters_1-1" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup>
+- **ancalima** = "most bright" (**[calima](../K/Kalima.md)** = "bright")<sup id="cite_ref-Letters_1-1" class="reference"><a href="#cite_note-Letters-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Letters-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Letters_1-0">1.0</a></sup> <sup><a href="#cite_ref-Letters_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="/wiki/Letter_211" title="Letter 211">Letter 211</a>, (dated <a href="/wiki/14_October" title="14 October">14 October</a> <a href="/wiki/1958" title="1958">1958</a>), paragraph starting with <i>Ancalima</i></span>
+<li id="cite_note-Letters-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Letters_1-0">1.0</a></sup> <sup><a href="#cite_ref-Letters_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="../L/Letter_211.md" title="Letter 211">Letter 211</a>, (dated <a href="../_/14_October.md" title="14 October">14 October</a> <a href="../_/1958.md" title="1958">1958</a>), paragraph starting with <i>Ancalima</i></span>
 </li>
 </ol></div>

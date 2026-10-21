@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lords of Middle-earth: Vol. III"
 ---
 
-Redirect to [Lords of Middle-earth: Vol. III](/wiki/Lords_of_Middle-earth:_Vol._III).
+Redirect to [Lords of Middle-earth: Vol. III](../L/Lords_of_Middle-earth%253A_Vol._III.md).

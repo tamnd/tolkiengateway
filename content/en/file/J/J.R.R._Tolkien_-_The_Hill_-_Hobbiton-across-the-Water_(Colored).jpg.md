@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg</span>"
 page_id: 5800
 namespace: 6
 revision_id: 430701
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-August 1937 painting by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). See article **[The Hill: Hobbiton-across-the Water](/wiki/The_Hill:_Hobbiton-across-the_Water)**.
+August 1937 painting by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). See article **[The Hill: Hobbiton-across-the Water](../../main/T/The_Hill%253A_Hobbiton-across-the_Water.md)**.
 
 ## Licensing {#Licensing}
 

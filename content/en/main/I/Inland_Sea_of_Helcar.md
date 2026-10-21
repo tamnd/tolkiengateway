@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea of Helcar"
 ---
 
-Redirect to [Sea of Helcar](/wiki/Sea_of_Helcar).
+Redirect to [Sea of Helcar](../S/Sea_of_Helcar.md).

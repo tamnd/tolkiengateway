@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Arwen.jpg</span>"
 page_id: 71610
 namespace: 6
 revision_id: 426928
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Arwen](/wiki/Arwen)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). Created as a design for the Franklin Mint doll.
+"[Arwen](../../main/A/Arwen.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created as a design for the Franklin Mint doll.
 
 ## Licensing {#Licensing}
 

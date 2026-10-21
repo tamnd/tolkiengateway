@@ -1,6 +1,5 @@
 ---
 title: "Nataša Tučev"
-display_title: "<span class=\"mw-page-title-main\">Nataša Tučev</span>"
 page_id: 40101
 namespace: 0
 revision_id: 201693
@@ -19,11 +18,11 @@ sort_keys:
   "Serbian people": "Tusev, Natasa"
 ---
 
-**Nataša Tučev** ([17 March](/wiki/17_March), [1968](/wiki/1968)) is an assistant in the English department of the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Ni%C5%A1" title="wikipedia:University of Niš">University of Niš</a>. Her work primarily focuses on the works of <a class="extiw" href="http://en.wikipedia.org/wiki/Seamus_Heaney" title="wikipedia:Seamus Heaney">Heaney</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/W._B._Yeats" title="wikipedia:W. B. Yeats">Yeats</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/John_Millington_Synge" title="wikipedia:John Millington Synge">Synge</a>.
+**Nataša Tučev** ([17 March](../_/17_March.md), [1968](../_/1968.md)) is an assistant in the English department of the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Ni%C5%A1" title="wikipedia:University of Niš">University of Niš</a>. Her work primarily focuses on the works of <a class="extiw" href="http://en.wikipedia.org/wiki/Seamus_Heaney" title="wikipedia:Seamus Heaney">Heaney</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/W._B._Yeats" title="wikipedia:W. B. Yeats">Yeats</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/John_Millington_Synge" title="wikipedia:John Millington Synge">Synge</a>.
 
 ## Bibliography {#Bibliography}
 
 ### Articles {#Articles}
 
-- [2005](/wiki/2005): *[Reconsidering Tolkien](/wiki/Reconsidering_Tolkien)*:
+- [2005](../_/2005.md): *[Reconsidering Tolkien](../R/Reconsidering_Tolkien.md)*:
     - "The Knife, the Sting and the Tooth: Manifestations of Shadow in The Lord of the Rings"

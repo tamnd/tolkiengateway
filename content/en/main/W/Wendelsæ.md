@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inland Sea (The Book of Lost Tales)"
 ---
 
-Redirect to [Inland Sea (The Book of Lost Tales)](/wiki/Inland_Sea_(The_Book_of_Lost_Tales)).
+Redirect to [Inland Sea (The Book of Lost Tales)](<../I/Inland_Sea_(The_Book_of_Lost_Tales).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hills of the Morning.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hills of the Morning.jpeg</span>"
 page_id: 71283
 namespace: 6
 revision_id: 432737
@@ -39,14 +38,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>November 1969</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>J.R.R. Tolkien</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

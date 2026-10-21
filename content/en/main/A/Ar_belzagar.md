@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Calmacil"
 ---
 
-Redirect to [Tar-Calmacil](/wiki/Tar-Calmacil).
+Redirect to [Tar-Calmacil](../T/Tar-Calmacil.md).

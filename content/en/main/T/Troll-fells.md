@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ettenmoors"
 ---
 
-Redirect to [Ettenmoors](/wiki/Ettenmoors).
+Redirect to [Ettenmoors](../E/Ettenmoors.md).

@@ -13,11 +13,11 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>mar</b></i> means "dwell, abide" in [Quenya](/wiki/Quenya).
+<i><b>mar</b></i> means "dwell, abide" in [Quenya](../Q/Quenya.md).
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") [MBAR](/wiki/MBAR) "dwelling, habitation"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Root](../S/Sundocarmë.md) [MBAR](MBAR.md) "dwelling, habitation"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Other forms {#Other_forms}
 
@@ -25,17 +25,17 @@ categories:
 
 ## See also {#See_also}
 
-- *[már](/wiki/M%C3%A1r "Már")*
+- *[már](Már.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, p. 317</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, p. 317</span>
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](../H/Helge_Fauskanger.md)

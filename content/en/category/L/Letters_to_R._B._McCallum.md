@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to R. B. McCallum"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to R. B. McCallum</span>"
 page_id: 68692
 namespace: 14
 revision_id: 408764
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "McCallum, R. B."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/R._B._McCallum" title="wikipedia:R. B. McCallum">R. B. McCallum</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/R._B._McCallum" title="wikipedia:R. B. McCallum">R. B. McCallum</a>.

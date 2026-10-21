@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guthláf"
 ---
 
-Redirect to [Guthláf](/wiki/Guthláf).
+Redirect to [Guthláf](Guthláf.md).

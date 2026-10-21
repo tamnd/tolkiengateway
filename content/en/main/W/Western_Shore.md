@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falas"
 ---
 
-Redirect to [Falas](/wiki/Falas).
+Redirect to [Falas](../F/Falas.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Éowyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Éowyn.png</span>"
 page_id: 71430
 namespace: 6
 revision_id: 426018
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Éowyn](/wiki/%C3%89owyn) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Éowyn](../../main/_/Éowyn.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

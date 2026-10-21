@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - At the Sign of the Prancing Pony.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - At the Sign of the Prancing Pony.jpg](/wiki/File:Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg).
+Redirect to [File:Ted Nasmith - At the Sign of the Prancing Pony.jpg](Ted_Nasmith_-_At_the_Sign_of_the_Prancing_Pony.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Maps of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Maps of Middle-earth.jpg</span>"
 page_id: 66445
 namespace: 6
 revision_id: 383772

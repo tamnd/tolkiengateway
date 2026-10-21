@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online Shadows of Angmar - Eye of Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online Shadows of Angmar - Eye of Sauron.png</span>"
 page_id: 38189
 namespace: 6
 revision_id: 185421

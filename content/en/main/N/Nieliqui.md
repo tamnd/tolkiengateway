@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nielíqui"
 ---
 
-Redirect to [Nielíqui](/wiki/Nielíqui).
+Redirect to [Nielíqui](Nielíqui.md).

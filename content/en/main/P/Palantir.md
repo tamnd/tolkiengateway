@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palantir (disambiguation)"
 ---
 
-Redirect to [Palantir (disambiguation)](/wiki/Palantir_(disambiguation)).
+Redirect to [Palantir (disambiguation)](<Palantir_(disambiguation).md>).

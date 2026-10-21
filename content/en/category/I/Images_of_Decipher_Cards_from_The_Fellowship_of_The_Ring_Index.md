@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Decipher Cards from The Fellowship of The Ring Index"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Decipher Cards from The Fellowship of The Ring Index</span>"
 page_id: 22534
 namespace: 14
 revision_id: 436183
@@ -15,4 +14,4 @@ sort_keys:
   "Images of The Lord of the Rings Trading Card Game cards": "Decipher Cards from The Fellowship of The Ring Index"
 ---
 
-Images of '*The Fellowship of the Ring*, the first set of [Decipher Cards](/wiki/Decipher_Cards).
+Images of '*The Fellowship of the Ring*, the first set of [Decipher Cards](../../main/D/Decipher_Cards.md).

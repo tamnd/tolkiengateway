@@ -1,6 +1,5 @@
 ---
 title: "File:Barad-dur BFMEI.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Barad-dur BFMEI.jpg</span>"
 page_id: 25295
 namespace: 6
 revision_id: 247082
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barad-dûr](/wiki/Barad-d%C3%BBr), as seen in the introduction scene of [The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)
+[Barad-dûr](../../main/B/Barad-dûr.md), as seen in the introduction scene of [The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)
 
 # =Licensing {#=Licensing}
 

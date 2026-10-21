@@ -1,6 +1,5 @@
 ---
 title: "Category:Chronology"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chronology</span>"
 page_id: 22070
 namespace: 14
 revision_id: 252425

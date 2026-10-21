@@ -1,6 +1,5 @@
 ---
 title: "File:Merp A Campaign.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merp A Campaign.jpg</span>"
 page_id: 31588
 namespace: 6
 revision_id: 350653

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Birmingham"
 ---
 
-Redirect to [Birmingham](/wiki/Birmingham).
+Redirect to [Birmingham](../B/Birmingham.md).

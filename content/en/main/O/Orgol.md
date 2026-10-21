@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Saeros"
 ---
 
-Redirect to [Saeros](/wiki/Saeros).
+Redirect to [Saeros](../S/Saeros.md).

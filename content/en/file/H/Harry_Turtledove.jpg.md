@@ -1,6 +1,5 @@
 ---
 title: "File:Harry Turtledove.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Harry Turtledove.jpg</span>"
 page_id: 29713
 namespace: 6
 revision_id: 248909

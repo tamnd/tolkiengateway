@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Uruk-hai pikes.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Uruk-hai pikes.gif</span>"
 page_id: 12052
 namespace: 6
 revision_id: 204103

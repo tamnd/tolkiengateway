@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Tarot Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Tarot Cover.jpg</span>"
 page_id: 73328
 namespace: 6
 revision_id: 433729
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover artwork depicting [Gandalf](/wiki/Gandalf) - *[The Hobbit Tarot](/wiki/The_Hobbit_Tarot)*
+Cover artwork depicting [Gandalf](../../main/G/Gandalf.md) - *[The Hobbit Tarot](../../main/T/The_Hobbit_Tarot.md)*
 
 ## Licensing {#Licensing}
 

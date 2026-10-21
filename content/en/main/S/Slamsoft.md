@@ -1,6 +1,5 @@
 ---
 title: "Slamsoft"
-display_title: "<span class=\"mw-page-title-main\">Slamsoft</span>"
 page_id: 28148
 namespace: 0
 revision_id: 150843
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Slamsoft** is the publisher of the game [Quest For Mordor](/wiki/Quest_For_Mordor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Slamsoft** is the publisher of the game [Quest For Mordor](../Q/Quest_For_Mordor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

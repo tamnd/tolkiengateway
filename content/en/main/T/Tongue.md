@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tongue"
 ---
 
-Redirect to [The Tongue](/wiki/The_Tongue).
+Redirect to [The Tongue](The_Tongue.md).

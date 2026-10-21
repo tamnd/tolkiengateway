@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (son of Baran)"
 ---
 
-Redirect to [Baranor (son of Baran)](/wiki/Baranor_(son_of_Baran)).
+Redirect to [Baranor (son of Baran)](<Baranor_(son_of_Baran).md>).

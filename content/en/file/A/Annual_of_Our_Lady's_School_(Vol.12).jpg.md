@@ -1,6 +1,5 @@
 ---
 title: "File:Annual of Our Lady's School (Vol.12).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Annual of Our Lady&#039;s School (Vol.12).jpg</span>"
 page_id: 66715
 namespace: 6
 revision_id: 386392

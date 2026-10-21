@@ -1,6 +1,5 @@
 ---
 title: "File:Darrell Midgette - Carach Angren.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Darrell Midgette - Carach Angren.jpg</span>"
 page_id: 30700
 namespace: 6
 revision_id: 204829
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Carach Angren](/wiki/Carach_Angren). [Peter C. Fenlon](/wiki/Pete_Fenlon "Pete Fenlon"), [Coleman Charlton](/wiki/Coleman_Charlton), [Jessica Ney](/wiki/Jessica_M._Ney-Grimm "Jessica M. Ney-Grimm"), John Croudis, Keith Robley, Anders Blixt, *[Gorgoroth](</wiki/Gorgoroth_(book)> "Gorgoroth (book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #3112, 1990)
+[Carach Angren](../../main/C/Carach_Angren.md). [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [Coleman Charlton](../../main/C/Coleman_Charlton.md), [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), John Croudis, Keith Robley, Anders Blixt, *[Gorgoroth](<../../main/G/Gorgoroth_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #3112, 1990)
 
 <br>
 

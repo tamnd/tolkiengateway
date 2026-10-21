@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Rotterdam Hobbit Dinner (1958).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Rotterdam Hobbit Dinner (1958).jpg</span>"
 page_id: 69887
 namespace: 6
 revision_id: 415268
@@ -40,6 +39,6 @@ file:
 
 ## Summary {#Summary_2}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on [March 28th](/wiki/March_28 "March 28"), [1958](/wiki/1958) at the ["Hobbit Dinner" in Rotterdam](/wiki/%22Hobbit_Dinner%22_in_Rotterdam)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) on [March 28th](../../main/M/March_28.md), [1958](../../main/_/1958.md) at the ["Hobbit Dinner" in Rotterdam](../../main/_/%2522Hobbit_Dinner%2522_in_Rotterdam.md)
 
 <a class="external text" href="https://www.huffpost.com/entry/jrr-tolkien-reveals-the-t_b_5373529" rel="noreferrer noopener" target="_blank">Source</a>

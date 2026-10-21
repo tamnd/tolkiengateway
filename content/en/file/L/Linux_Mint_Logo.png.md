@@ -1,6 +1,5 @@
 ---
 title: "File:Linux Mint Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Linux Mint Logo.png</span>"
 page_id: 71707
 namespace: 6
 revision_id: 431405
@@ -38,8 +37,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2014</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Clement Lefebvre</td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg" rel="noreferrer noopener" target="_blank">Commons</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Software"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Software</span>"
 page_id: 38275
 namespace: 14
 revision_id: 185879

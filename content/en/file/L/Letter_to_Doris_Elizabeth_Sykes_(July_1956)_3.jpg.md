@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Doris Elizabeth Sykes (July 1956) 3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Doris Elizabeth Sykes (July 1956) 3.jpg</span>"
 page_id: 53507
 namespace: 6
 revision_id: 290966

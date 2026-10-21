@@ -1,6 +1,5 @@
 ---
 title: "Ralph C. Wood"
-display_title: "<span class=\"mw-page-title-main\">Ralph C. Wood</span>"
 page_id: 25974
 namespace: 0
 revision_id: 321363
@@ -19,44 +18,44 @@ sort_keys:
   "People by name": "Wood, Ralph C."
 ---
 
-**Ralph Cecil Wood** ([28 June](/wiki/28_June) [1942](/wiki/1942)) is Professor of Theology and Literature at <a class="extiw" href="http://en.wikipedia.org/wiki/Baylor_University" title="wikipedia:Baylor University">Baylor University</a> in Waco, Texas. He has published several books and essays on contemporary American authors and the [Inklings](/wiki/Inklings).
+**Ralph Cecil Wood** ([28 June](../_/28_June.md) [1942](../_/1942.md)) is Professor of Theology and Literature at <a class="extiw" href="http://en.wikipedia.org/wiki/Baylor_University" title="wikipedia:Baylor University">Baylor University</a> in Waco, Texas. He has published several books and essays on contemporary American authors and the [Inklings](../I/Inklings.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [2003](/wiki/2003): *[The Gospel According to Tolkien](/wiki/The_Gospel_According_to_Tolkien)*
-- [2015](/wiki/2015): <i><a class="new" href="/w/index.php?title=Tolkien_among_the_Moderns&amp;action=edit&amp;redlink=1" title="Tolkien among the Moderns (page does not exist)">Tolkien among the Moderns</a></i>
+- [2003](../_/2003.md): *[The Gospel According to Tolkien](../T/The_Gospel_According_to_Tolkien.md)*
+- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_among_the_Moderns&amp;action=edit&amp;redlink=1" title="Tolkien among the Moderns (page does not exist)">Tolkien among the Moderns</a></i>
 
 ### Articles {#Articles}
 
-- [2002](/wiki/2002): *Christianity and Literature* #51
+- [2002](../_/2002.md): *Christianity and Literature* #51
     - "Teaching and Living and Dying 'As If Nothing Had Happened': The Example of J.R.R. Tolkien"
-- [2003](/wiki/2003): [*Christian History*, Issue 78](/wiki/Christian_History_78 "Christian History 78")
+- [2003](../_/2003.md): [*Christian History*, Issue 78](../C/Christian_History_78.md)
     - "Good and Evil in Middle-earth"
-- [2003](/wiki/2003): *Christian Century* #120
+- [2003](../_/2003.md): *Christian Century* #120
     - "Frodo's Faith: Middle-earth truths"
-- [2003](/wiki/2003): *Pages* Sept/Oct issue
+- [2003](../_/2003.md): *Pages* Sept/Oct issue
     - "What Tolkien Knew — and Believed"
-- [2004](/wiki/2004): *Christian Reflection*
+- [2004](../_/2004.md): *Christian Reflection*
     - "Frodo's Forgiveness"
-- [2004](/wiki/2004): *Reformed Quarterly*
+- [2004](../_/2004.md): *Reformed Quarterly*
     - "Following the Hobbit Trail: Ralph Wood, Expert on J.R.R. Tolkien" (interview)
-- [2006](/wiki/2006): *The Gift of Story: Narrating Hope in a Postmodern World* (eds. Emily Griesinger and Mark Eaton)
+- [2006](../_/2006.md): *The Gift of Story: Narrating Hope in a Postmodern World* (eds. Emily Griesinger and Mark Eaton)
     - "J.R.R. Tolkien: Postmodern Visionary of Hope"
-- [2007](/wiki/2007): *[Tree of Tales: Tolkien, Literature, and Theology](/wiki/Tree_of_Tales:_Tolkien,_Literature,_and_Theology)* (eds. <a class="new" href="/w/index.php?title=Trevor_Hart&amp;action=edit&amp;redlink=1" title="Trevor Hart (page does not exist)">Trevor Hart</a> and <a class="new" href="/w/index.php?title=Ivan_Khovacs&amp;action=edit&amp;redlink=1" title="Ivan Khovacs (page does not exist)">Ivan Khovacs</a>)
+- [2007](../_/2007.md): *[Tree of Tales: Tolkien, Literature, and Theology](../T/Tree_of_Tales%253A_Tolkien,_Literature,_and_Theology.md)* (eds. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Trevor_Hart&amp;action=edit&amp;redlink=1" title="Trevor Hart (page does not exist)">Trevor Hart</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ivan_Khovacs&amp;action=edit&amp;redlink=1" title="Ivan Khovacs (page does not exist)">Ivan Khovacs</a>)
     - "Tolkien's Augustinian Understanding of Good and Evil: Why *The Lord of the Rings* Is Not Manichean"
-- [2008](/wiki/2008): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](/wiki/The_Ring_Goes_Ever_On:_Proceedings_of_the_Tolkien_2005_Conference)*
+- [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
     - "J.R.R.Tolkien: Our Post-modern Contemporary"
 
 ### Reviews {#Reviews}
 
-- [1979](/wiki/1979): *Christian Century* #96
-    - Review of [Humphrey Carpenter](/wiki/Humphrey_Carpenter)'s *[The Inklings](</wiki/The_Inklings_(book)> "The Inklings (book)")*
-- [1999](/wiki/1999): *VII: An Anglo-American Literary Review* #16
-    - Review of [Verlyn Flieger](/wiki/Verlyn_Flieger)'s *[A Question of Time: J.R.R. Tolkien's Road to Faërie](/wiki/A_Question_of_Time:_J.R.R._Tolkien%27s_Road_to_Fa%C3%ABrie)*
-- [2001](/wiki/2001): *Christian Century* #118
-    - "Frodo Lives" (reviews [Tom Shippey](/wiki/Tom_Shippey)'s *[J.R.R. Tolkien: Author of the Century](/wiki/J.R.R._Tolkien:_Author_of_the_Century)*)
+- [1979](../_/1979.md): *Christian Century* #96
+    - Review of [Humphrey Carpenter](../H/Humphrey_Carpenter.md)'s *[The Inklings](<../T/The_Inklings_(book).md>)*
+- [1999](../_/1999.md): *VII: An Anglo-American Literary Review* #16
+    - Review of [Verlyn Flieger](../V/Verlyn_Flieger.md)'s *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time%253A_J.R.R._Tolkien's_Road_to_Faërie.md)*
+- [2001](../_/2001.md): *Christian Century* #118
+    - "Frodo Lives" (reviews [Tom Shippey](../T/Tom_Shippey.md)'s *[J.R.R. Tolkien: Author of the Century](../J/J.R.R._Tolkien%253A_Author_of_the_Century.md)*)
 
 ## External links {#External_links}
 

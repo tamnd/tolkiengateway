@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Eä"
 ---
 
-Redirect to [Category:Eä](/wiki/Category:Eä).
+Redirect to [Category:Eä](Eä.md).

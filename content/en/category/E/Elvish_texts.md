@@ -1,6 +1,5 @@
 ---
 title: "Category:Elvish texts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elvish texts</span>"
 page_id: 59951
 namespace: 14
 revision_id: 335756
@@ -16,4 +15,4 @@ sort_keys:
   "Elvish": "Texts"
 ---
 
-This category includes texts in [Elvish](/wiki/Elvish) languages written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+This category includes texts in [Elvish](../../main/E/Elvish.md) languages written by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

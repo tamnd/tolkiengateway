@@ -1,6 +1,5 @@
 ---
 title: "File:New Zealand.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Zealand.png</span>"
 page_id: 35999
 namespace: 6
 revision_id: 170365

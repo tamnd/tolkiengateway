@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring (Facebook application)"
 ---
 
-Redirect to [The One Ring (Facebook application)](/wiki/The_One_Ring_(Facebook_application)).
+Redirect to [The One Ring (Facebook application)](<The_One_Ring_(Facebook_application).md>).

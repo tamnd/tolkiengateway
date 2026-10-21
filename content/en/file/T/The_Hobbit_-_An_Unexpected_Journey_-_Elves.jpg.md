@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Elves.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Elves.jpg</span>"
 page_id: 56414
 namespace: 6
 revision_id: 307564
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Woodland Elves from *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*.
+Woodland Elves from *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Licensing {#Licensing}
 

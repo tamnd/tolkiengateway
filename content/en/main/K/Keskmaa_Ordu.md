@@ -1,6 +1,5 @@
 ---
 title: "Keskmaa Ordu"
-display_title: "<span class=\"mw-page-title-main\">Keskmaa Ordu</span>"
 page_id: 36989
 namespace: 0
 revision_id: 391246
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Keskmaa Ordu** (abbr. KO), is a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in Estonia. As of 2024, the group is active on Facebook, and has hosted events as recently as 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Keskmaa Ordu** (abbr. KO), is a [Tolkien society](../T/Tolkien_Societies~67099.md) in Estonia. As of 2024, the group is active on Facebook, and has hosted events as recently as 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 

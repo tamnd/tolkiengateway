@@ -1,6 +1,5 @@
 ---
 title: "Category:Digital publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Digital publications</span>"
 page_id: 26771
 namespace: 14
 revision_id: 106509

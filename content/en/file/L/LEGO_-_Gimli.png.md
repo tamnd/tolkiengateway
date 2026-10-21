@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gimli.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gimli.png</span>"
 page_id: 73077
 namespace: 6
 revision_id: 432616
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gimli](/wiki/Gimli) - [LEGO](/wiki/Lego "Lego") minifigure
+[Gimli](../../main/G/Gimli.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

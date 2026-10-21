@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arnor: The People"
 ---
 
-Redirect to [Arnor: The People](/wiki/Arnor:_The_People).
+Redirect to [Arnor: The People](../A/Arnor%253A_The_People.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:When a Fan Hits the Shit.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">When a Fan Hits the Shit.jpg</span>"
 page_id: 28880
 namespace: 6
 revision_id: 214773

@@ -11,4 +11,4 @@ redirect_target: "Edain"
 redirect_fragment: "The Three Houses"
 ---
 
-Redirect to [Edain](/wiki/Edain#The_Three_Houses).
+Redirect to [Edain](../E/Edain.md#The_Three_Houses).

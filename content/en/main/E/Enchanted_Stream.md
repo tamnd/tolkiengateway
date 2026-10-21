@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enchanted River"
 ---
 
-Redirect to [Enchanted River](/wiki/Enchanted_River).
+Redirect to [Enchanted River](Enchanted_River.md).

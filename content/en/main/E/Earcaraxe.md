@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärcaraxë"
 ---
 
-Redirect to [Eärcaraxë](/wiki/Eärcaraxë).
+Redirect to [Eärcaraxë](Eärcaraxë.md).

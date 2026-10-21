@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Mouth of Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Mouth of Sauron.jpg</span>"
 page_id: 57311
 namespace: 6
 revision_id: 314589

@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - The Battle of Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - The Battle of Helm&#039;s Deep.jpg</span>"
 page_id: 72943
 namespace: 6
 revision_id: 432295

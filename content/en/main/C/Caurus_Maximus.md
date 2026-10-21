@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer Giles of Ham"
 ---
 
-Redirect to [Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham).
+Redirect to [Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md).

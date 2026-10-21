@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gothmog (balrog)"
 ---
 
-Redirect to [Gothmog (balrog)](/wiki/Gothmog_(balrog)).
+Redirect to [Gothmog (balrog)](<Gothmog_(balrog).md>).

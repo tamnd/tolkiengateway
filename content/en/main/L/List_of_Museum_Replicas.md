@@ -1,6 +1,5 @@
 ---
 title: "List of Museum Replicas"
-display_title: "<span class=\"mw-page-title-main\">List of Museum Replicas</span>"
 page_id: 38880
 namespace: 0
 revision_id: 404649
@@ -24,14 +23,11 @@ images:
   - "Uruk_Hai_Sword_-_Prop_Replica.png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="/wiki/Museum_Replicas" title="Museum Replicas">Museum Replicas</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../M/Museum_Replicas.md" title="Museum Replicas">Museum Replicas</a></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
+This page is a **list of [Museum Replicas](../M/Museum_Replicas.md)**.
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
-<!-- -->
 <tbody><tr>
 <th style="width:50px;">Image
 </th>
@@ -48,7 +44,7 @@ This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
 <th>Note(s)
 </th></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Anduril_Sword_-_Prop_Replica.png"><img src="/w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/50px-Anduril_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/75px-Anduril_Sword_-_Prop_Replica.png 1.5x, /w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/100px-Anduril_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Anduril_Sword_-_Prop_Replica.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/50px-Anduril_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/75px-Anduril_Sword_-_Prop_Replica.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ed/Anduril_Sword_-_Prop_Replica.png/100px-Anduril_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
 </td>
 <td>Anduril Sword prop replica
 </td>
@@ -63,7 +59,7 @@ This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
 <td>Price: $55.99
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Glamdring_Sword_-_Prop_Replica.png"><img src="/w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/50px-Glamdring_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/75px-Glamdring_Sword_-_Prop_Replica.png 1.5x, /w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/100px-Glamdring_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Glamdring_Sword_-_Prop_Replica.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/50px-Glamdring_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/75px-Glamdring_Sword_-_Prop_Replica.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e6/Glamdring_Sword_-_Prop_Replica.png/100px-Glamdring_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
 </td>
 <td>Glamdring Sword prop replica
 </td>
@@ -78,7 +74,7 @@ This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
 <td>Price: $84.99
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Sting_Sword_-_Prop_Replica.png"><img src="/w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/50px-Sting_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/75px-Sting_Sword_-_Prop_Replica.png 1.5x, /w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/100px-Sting_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sting_Sword_-_Prop_Replica.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/50px-Sting_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/75px-Sting_Sword_-_Prop_Replica.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/Sting_Sword_-_Prop_Replica.png/100px-Sting_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="599"/></a></span>
 </td>
 <td>Sting Sword prop replica
 </td>
@@ -93,7 +89,7 @@ This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
 <td>Price: $55.99
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Museum_Replicas_-_The_One_Ring.png"><img src="/w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/50px-Museum_Replicas_-_The_One_Ring.png" decoding="async" loading="lazy" width="50" height="50" class="mw-file-element" srcset="/w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/75px-Museum_Replicas_-_The_One_Ring.png 1.5x, /w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/100px-Museum_Replicas_-_The_One_Ring.png 2x" data-file-width="500" data-file-height="500"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Museum_Replicas_-_The_One_Ring.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/50px-Museum_Replicas_-_The_One_Ring.png" decoding="async" loading="lazy" width="50" height="50" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/75px-Museum_Replicas_-_The_One_Ring.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/95/Museum_Replicas_-_The_One_Ring.png/100px-Museum_Replicas_-_The_One_Ring.png 2x" data-file-width="500" data-file-height="500"/></a></span>
 </td>
 <td>The One Ring
 </td>
@@ -108,7 +104,7 @@ This page is a **list of [Museum Replicas](/wiki/Museum_Replicas)**.
 <td>Price: $40.00
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Uruk_Hai_Sword_-_Prop_Replica.png"><img src="/w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/50px-Uruk_Hai_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/75px-Uruk_Hai_Sword_-_Prop_Replica.png 1.5x, /w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/100px-Uruk_Hai_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Uruk_Hai_Sword_-_Prop_Replica.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/50px-Uruk_Hai_Sword_-_Prop_Replica.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/75px-Uruk_Hai_Sword_-_Prop_Replica.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cf/Uruk_Hai_Sword_-_Prop_Replica.png/100px-Uruk_Hai_Sword_-_Prop_Replica.png 2x" data-file-width="200" data-file-height="600"/></a></span>
 </td>
 <td>Uruk Hai Sword prop replica
 </td>

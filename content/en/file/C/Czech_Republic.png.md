@@ -1,6 +1,5 @@
 ---
 title: "File:Czech Republic.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Czech Republic.png</span>"
 page_id: 70176
 namespace: 6
 revision_id: 417447

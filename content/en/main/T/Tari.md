@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tári"
 ---
 
-Redirect to [Tári](/wiki/Tári).
+Redirect to [Tári](Tári.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Khamûl the Easterling.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Khamûl the Easterling.jpg</span>"
 page_id: 74856
 namespace: 6
 revision_id: 440532
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Rings of Power (TV series) - Khamûl the Easterling.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Kham%C3%BBl" title="Khamûl">Khamûl the Easterling</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a class="new" href="/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_3&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 3 (page does not exist)">Season 3</a><i></i>
+<p><a href="../../main/K/Khamûl.md" title="Khamûl">Khamûl the Easterling</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_3&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 3 (page does not exist)">Season 3</a><i></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/23_July" title="23 July">23 July</a>, <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/_/23_July.md" title="23 July">23 July</a>, <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/lotr_s3_ut_250929_rotben_00250_r3_3000.jpg" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

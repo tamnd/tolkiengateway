@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree and the Barrow-Downs"
 ---
 
-Redirect to [Bree and the Barrow-Downs](/wiki/Bree_and_the_Barrow-Downs).
+Redirect to [Bree and the Barrow-Downs](../B/Bree_and_the_Barrow-Downs.md).

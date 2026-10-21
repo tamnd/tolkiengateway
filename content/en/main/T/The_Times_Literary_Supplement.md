@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Times Literary Supplement"
 ---
 
-Redirect to [Times Literary Supplement](/wiki/Times_Literary_Supplement).
+Redirect to [Times Literary Supplement](Times_Literary_Supplement.md).

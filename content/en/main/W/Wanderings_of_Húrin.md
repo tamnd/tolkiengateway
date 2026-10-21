@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Wanderings of Húrin"
 ---
 
-Redirect to [The Wanderings of Húrin](/wiki/The_Wanderings_of_Húrin).
+Redirect to [The Wanderings of Húrin](../T/The_Wanderings_of_Húrin.md).

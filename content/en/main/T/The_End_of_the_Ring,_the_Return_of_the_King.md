@@ -1,6 +1,5 @@
 ---
 title: "The End of the Ring, the Return of the King"
-display_title: "<span class=\"mw-page-title-main\">The End of the Ring, the Return of the King</span>"
 page_id: 46067
 namespace: 0
 revision_id: 306234
@@ -13,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**The End of the Ring, the Return of the King** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). It is sung during [Aragorn](/wiki/Aragorn)'s coronation.
+**The End of the Ring, the Return of the King** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). It is sung during [Aragorn](../A/Aragorn.md)'s coronation.
 
 ## Lyrics {#Lyrics}
 

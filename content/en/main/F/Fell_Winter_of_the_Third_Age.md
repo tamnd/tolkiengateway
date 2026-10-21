@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell Winter (Third Age)"
 ---
 
-Redirect to [Fell Winter (Third Age)](/wiki/Fell_Winter_(Third_Age)).
+Redirect to [Fell Winter (Third Age)](<Fell_Winter_(Third_Age).md>).

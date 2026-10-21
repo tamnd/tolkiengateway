@@ -1,6 +1,5 @@
 ---
 title: "Marya Filatova"
-display_title: "<span class=\"mw-page-title-main\">Marya Filatova</span>"
 page_id: 18158
 namespace: 0
 revision_id: 406484
@@ -21,17 +20,17 @@ images:
   - "Marya_Filatova_-_Anaire.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Marya_Filatova_-_Anaire.jpg"><img src="/w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/200px-Marya_Filatova_-_Anaire.jpg" decoding="async" loading="lazy" width="200" height="282" class="mw-file-element" srcset="/w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/300px-Marya_Filatova_-_Anaire.jpg 1.5x, /w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/400px-Marya_Filatova_-_Anaire.jpg 2x" data-file-width="700" data-file-height="987"/></a><figcaption><a href="/wiki/Anair%C3%AB" title="Anairë">Anairë</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Marya_Filatova_-_Anaire.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/200px-Marya_Filatova_-_Anaire.jpg" decoding="async" loading="lazy" width="200" height="282" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/300px-Marya_Filatova_-_Anaire.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/Marya_Filatova_-_Anaire.jpg/400px-Marya_Filatova_-_Anaire.jpg 2x" data-file-width="700" data-file-height="987"/></a><figcaption><a href="../A/Anairë.md" title="Anairë">Anairë</a></figcaption></figure>
 
-**Marya Filatova** (born [1982](/wiki/1982)), known by her web nicknames **Filat** or **Rittare**, is a Russian artist, who makes art based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [legendarium](/wiki/Legendarium "Legendarium").
+**Marya Filatova** (born [1982](../_/1982.md)), known by her web nicknames **Filat** or **Rittare**, is a Russian artist, who makes art based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md).
 
-In everyday life she works as an accountant and financial worker, but she devotes her free time to J.R.R. Tolkien and art. She is a self-taught artist but as she says, she has been drawing Tolkien-inspired art since she first read *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* in 1995. Her preferred medium is watercolour.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In everyday life she works as an accountant and financial worker, but she devotes her free time to J.R.R. Tolkien and art. She is a self-taught artist but as she says, she has been drawing Tolkien-inspired art since she first read *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* in 1995. Her preferred medium is watercolour.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-She specializes in portraits of characters from the [First Age](/wiki/First_Age), predominantly the [Elves](/wiki/Elves) from *[The Silmarillion](/wiki/The_Silmarillion)*, making many paintings and drawings of characters who are not often chosen by artists. But she also paints landscapes, many of which are based on her own photos and on places from the Caucasus Mountains.
+She specializes in portraits of characters from the [First Age](../F/First_Age.md), predominantly the [Elves](../E/Elves.md) from *[The Silmarillion](../T/The_Silmarillion.md)*, making many paintings and drawings of characters who are not often chosen by artists. But she also paints landscapes, many of which are based on her own photos and on places from the Caucasus Mountains.
 
 ## See also {#See_also}
 
-- [Images by Marya Filatova](/wiki/Category:Images_by_Marya_Filatova "Category:Images by Marya Filatova")
+- [Images by Marya Filatova](../../category/I/Images_by_Marya_Filatova.md)
 
 ## External links {#External_links}
 

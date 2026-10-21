@@ -11,4 +11,4 @@ redirect_target: "Mordor"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Mordor](/wiki/Mordor#Portrayal_in_adaptations).
+Redirect to [Mordor](../M/Mordor.md#Portrayal_in_adaptations).

@@ -1,6 +1,5 @@
 ---
 title: "J.E.A. Tyler"
-display_title: "<span class=\"mw-page-title-main\">J.E.A. Tyler</span>"
 page_id: 16260
 namespace: 0
 revision_id: 360577
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Tyler, J.E.A."
 ---
 
-**James Edward Anthony "Tony" Tyler** ([October 31](/wiki/31_October "31 October"), [1943](/wiki/1943) – [October 28](/wiki/28_October "28 October"), [2006](/wiki/2006)), a British writer, was the author of *[The Tolkien Companion](/wiki/The_Tolkien_Companion)* and its revisions. His main area of work, however, was articles on modern music, and also articles for several computer magazines. As a curiosity, Tyler was the godfather of James Bond-actor Daniel Craig.
+**James Edward Anthony "Tony" Tyler** ([October 31](../_/31_October.md), [1943](../_/1943.md) – [October 28](../_/28_October.md), [2006](../_/2006.md)), a British writer, was the author of *[The Tolkien Companion](../T/The_Tolkien_Companion.md)* and its revisions. His main area of work, however, was articles on modern music, and also articles for several computer magazines. As a curiosity, Tyler was the godfather of James Bond-actor Daniel Craig.
 
 ## External links {#External_links}
 

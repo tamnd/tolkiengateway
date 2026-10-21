@@ -13,8 +13,8 @@ categories:
   - "Sindarin nouns"
 ---
 
-**tinnu** is a [Sindarin](/wiki/Sindarin) word meaning *dusk* or *[twilight](/wiki/Twilight "Twilight")*. It is derived from *[tinu](/wiki/Tinu "Tinu")* "spark, small star" and *[dû](/wiki/D%C3%BB "Dû")* "nightfall, evening, dimness*.*
+**tinnu** is a [Sindarin](../S/Sindarin.md) word meaning *dusk* or *[twilight](Twilight.md)*. It is derived from *[tinu](Tinu.md)* "spark, small star" and *[dû](../D/Dû.md)* "nightfall, evening, dimness*.*
 
 ## Examples {#Examples}
 
-- *[Tinúviel](/wiki/Tin%C3%BAviel)*
+- *[Tinúviel](Tinúviel.md)*

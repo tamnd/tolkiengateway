@@ -1,6 +1,5 @@
 ---
 title: "File:The Manuscripts of J.R.R.T.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Manuscripts of J.R.R.T.jpg</span>"
 page_id: 26719
 namespace: 6
 revision_id: 224834

@@ -1,6 +1,5 @@
 ---
 title: "Category:Natural features"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natural features</span>"
 page_id: 39670
 namespace: 14
 revision_id: 195264

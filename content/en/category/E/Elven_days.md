@@ -1,6 +1,5 @@
 ---
 title: "Category:Elven days"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elven days</span>"
 page_id: 8007
 namespace: 14
 revision_id: 339372

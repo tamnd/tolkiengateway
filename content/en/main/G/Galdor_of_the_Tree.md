@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (elf of Gondolin)"
 ---
 
-Redirect to [Galdor (elf of Gondolin)](/wiki/Galdor_(elf_of_Gondolin)).
+Redirect to [Galdor (elf of Gondolin)](<Galdor_(elf_of_Gondolin).md>).

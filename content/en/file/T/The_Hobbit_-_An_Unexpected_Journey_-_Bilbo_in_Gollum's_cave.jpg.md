@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Bilbo in Gollum's cave.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Bilbo in Gollum&#039;s cave.jpg</span>"
 page_id: 42218
 namespace: 6
 revision_id: 223250

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mariët Theune"
 ---
 
-Redirect to [Mariët Theune](/wiki/Mariët_Theune).
+Redirect to [Mariët Theune](Mariët_Theune.md).

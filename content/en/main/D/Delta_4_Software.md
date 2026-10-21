@@ -1,6 +1,5 @@
 ---
 title: "Delta 4 Software"
-display_title: "<span class=\"mw-page-title-main\">Delta 4 Software</span>"
 page_id: 25612
 namespace: 0
 revision_id: 405163
@@ -16,7 +15,7 @@ categories:
 
 **Delta 4 Software** was a British game publisher, specializing in parody games.
 
-Founded by [Fergus McNeill](/wiki/Fergus_McNeill), it published and created the <i><a class="new" href="/w/index.php?title=Hairy_Toes&amp;action=edit&amp;redlink=1" title="Hairy Toes (page does not exist)">Hairy Toes</a></i>-series,<sup id="cite_ref-El_Anillo_1-0" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup> with was divided in two parts: *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*<sup id="cite_ref-El_Anillo_1-1" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and *[The Boggit](/wiki/The_Boggit)*.<sup id="cite_ref-El_Anillo_1-2" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Founded by [Fergus McNeill](../F/Fergus_McNeill.md), it published and created the <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hairy_Toes&amp;action=edit&amp;redlink=1" title="Hairy Toes (page does not exist)">Hairy Toes</a></i>-series,<sup id="cite_ref-El_Anillo_1-0" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup> with was divided in two parts: *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*<sup id="cite_ref-El_Anillo_1-1" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and *[The Boggit](../T/The_Boggit.md)*.<sup id="cite_ref-El_Anillo_1-2" class="reference"><a href="#cite_note-El_Anillo-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## References {#References}
 

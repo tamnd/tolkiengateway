@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-lva"
 ---
 
-Redirect to [-lva](/wiki/-lva).
+Redirect to [-lva](-lva.md).

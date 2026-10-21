@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbit to Hero"
 ---
 
-Redirect to [Hobbit to Hero](/wiki/Hobbit_to_Hero).
+Redirect to [Hobbit to Hero](Hobbit_to_Hero.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Talking purse"
 ---
 
-Redirect to [Talking purse](/wiki/Talking_purse).
+Redirect to [Talking purse](Talking_purse.md).

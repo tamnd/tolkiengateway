@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (man of Rohan)"
 ---
 
-Redirect to [Galdor (man of Rohan)](/wiki/Galdor_(man_of_Rohan)).
+Redirect to [Galdor (man of Rohan)](<../G/Galdor_(man_of_Rohan).md>).

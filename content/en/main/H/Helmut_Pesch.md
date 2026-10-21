@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helmut W. Pesch"
 ---
 
-Redirect to [Helmut W. Pesch](/wiki/Helmut_W._Pesch).
+Redirect to [Helmut W. Pesch](Helmut_W._Pesch.md).

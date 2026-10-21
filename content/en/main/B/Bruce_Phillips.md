@@ -1,6 +1,5 @@
 ---
 title: "Bruce Phillips"
-display_title: "<span class=\"mw-page-title-main\">Bruce Phillips</span>"
 page_id: 5243
 namespace: 0
 revision_id: 155233
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Phillips, Bruce"
 ---
 
-**Bruce Phillips** ([September 13](/wiki/13_September "13 September"), [1951](/wiki/1951)) played [Grimbold](/wiki/Grimbold) in *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. He also played a [Rohan](/wiki/Rohan) soldier in *[The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers "The Lord of the Rings: The Two Towers")*, and served as [Bernard Hill](/wiki/Bernard_Hill)'s stand-in and stunt double in both those films.
+**Bruce Phillips** ([September 13](../_/13_September.md), [1951](../_/1951.md)) played [Grimbold](../G/Grimbold.md) in *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. He also played a [Rohan](../R/Rohan.md) soldier in *[The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, and served as [Bernard Hill](Bernard_Hill.md)'s stand-in and stunt double in both those films.
 
 ## External links {#External_links}
 

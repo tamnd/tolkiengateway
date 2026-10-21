@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's The Lord of the Rings - Sources of Inspiration.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s The Lord of the Rings - Sources of Inspiration.jpg</span>"
 page_id: 53558
 namespace: 6
 revision_id: 350881

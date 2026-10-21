@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Donato Giancola"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Donato Giancola</span>"
 page_id: 37398
 namespace: 4
 revision_id: 193153
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Giancola, Donato"
 ---
 
-- [Donato Giancola](/wiki/Donato_Giancola) has kindly given his permission to use [his artwork](/wiki/Category:Images_by_Donato_Giancola "Category:Images by Donato Giancola") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Donato Giancola](../../main/D/Donato_Giancola.md) has kindly given his permission to use [his artwork](../../category/I/Images_by_Donato_Giancola.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 23 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Music of Middle-Earth, Vol. 1: From the Shire to Rivendell</b></i> is the first full-length album by [Gene Hargrove](/wiki/Gene_Hargrove), released in 2001.
+<i><b>Music of Middle-Earth, Vol. 1: From the Shire to Rivendell</b></i> is the first full-length album by [Gene Hargrove](../G/Gene_Hargrove.md), released in 2001.
 
 ## Track listing {#Track_listing}
 

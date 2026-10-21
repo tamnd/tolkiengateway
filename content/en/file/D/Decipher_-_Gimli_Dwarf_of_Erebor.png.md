@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Gimli Dwarf of Erebor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Gimli Dwarf of Erebor.png</span>"
 page_id: 39085
 namespace: 6
 revision_id: 211640

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Robin Smallburrow"
 ---
 
-Redirect to [Robin Smallburrow](/wiki/Robin_Smallburrow).
+Redirect to [Robin Smallburrow](../R/Robin_Smallburrow.md).

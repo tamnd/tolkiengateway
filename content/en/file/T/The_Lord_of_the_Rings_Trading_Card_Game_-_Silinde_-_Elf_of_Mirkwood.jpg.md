@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Silinde - Elf of Mirkwood.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Silinde - Elf of Mirkwood.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Silinde_-_Elf_of_Mirkwood.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Silinde - Elf of Mirkwood.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Silinde_-_Elf_of_Mirkwood.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elvenhome"
 ---
 
-Redirect to [Elvenhome](/wiki/Elvenhome).
+Redirect to [Elvenhome](Elvenhome.md).

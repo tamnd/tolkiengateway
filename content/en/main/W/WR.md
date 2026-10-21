@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The War of the Ring"
 ---
 
-Redirect to [The War of the Ring](/wiki/The_War_of_the_Ring).
+Redirect to [The War of the Ring](../T/The_War_of_the_Ring.md).

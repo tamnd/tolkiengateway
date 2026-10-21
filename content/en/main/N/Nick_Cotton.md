@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bowman Cotton"
 ---
 
-Redirect to [Bowman Cotton](/wiki/Bowman_Cotton).
+Redirect to [Bowman Cotton](../B/Bowman_Cotton.md).

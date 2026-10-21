@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Dale-lands"
 ---
 
-Redirect to [The Dale-lands](/wiki/The_Dale-lands).
+Redirect to [The Dale-lands](The_Dale-lands.md).

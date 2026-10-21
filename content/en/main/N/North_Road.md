@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greenway"
 ---
 
-Redirect to [Greenway](/wiki/Greenway).
+Redirect to [Greenway](../G/Greenway.md).

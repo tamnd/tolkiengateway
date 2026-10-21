@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anar (dwarf)"
 ---
 
-Redirect to [Anar (dwarf)](/wiki/Anar_(dwarf)).
+Redirect to [Anar (dwarf)](<Anar_(dwarf).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Jon Hodgson - Barding.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jon Hodgson - Barding.jpg</span>"
 page_id: 34390
 namespace: 6
 revision_id: 433603
@@ -29,19 +28,14 @@ file:
 ---
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jon_Hodgson" title="Jon Hodgson">Jon Hodgson</a></td>
+<td><a href="../../main/J/Jon_Hodgson.md" title="Jon Hodgson">Jon Hodgson</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://jonhodgsondesign.com/portfolio/the-one-ring-roleplaying-game/" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

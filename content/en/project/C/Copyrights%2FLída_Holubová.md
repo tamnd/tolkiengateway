@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Lída Holubová"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Lída Holubová</span>"
 page_id: 53674
 namespace: 4
 revision_id: 291985
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Holubová, Lída"
 ---
 
-- Lída Holubová has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_L%C3%ADda_Holubov%C3%A1 "Category:Images by Lída Holubová") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Lída Holubová has kindly granted her permission to use [her artwork](../../category/I/Images_by_Lída_Holubová.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 2 February 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

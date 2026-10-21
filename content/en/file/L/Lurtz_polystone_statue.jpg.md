@@ -1,6 +1,5 @@
 ---
 title: "File:Lurtz polystone statue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lurtz polystone statue.jpg</span>"
 page_id: 5390
 namespace: 6
 revision_id: 191448

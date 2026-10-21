@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taliska"
 ---
 
-Redirect to [Taliska](/wiki/Taliska).
+Redirect to [Taliska](Taliska.md).

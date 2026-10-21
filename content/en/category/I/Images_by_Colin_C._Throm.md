@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Colin C. Throm"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Colin C. Throm</span>"
 page_id: 40438
 namespace: 14
 revision_id: 205067
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Throm, Colin C."
 ---
 
-This category lists all **images by [Colin C. Throm](/wiki/Colin_C._Throm)**.
+This category lists all **images by [Colin C. Throm](../../main/C/Colin_C._Throm.md)**.

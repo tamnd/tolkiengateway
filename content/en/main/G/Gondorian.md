@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondorians"
 ---
 
-Redirect to [Gondorians](/wiki/Gondorians).
+Redirect to [Gondorians](Gondorians.md).

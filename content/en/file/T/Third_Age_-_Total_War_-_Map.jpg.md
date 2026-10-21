@@ -1,6 +1,5 @@
 ---
 title: "File:Third Age - Total War - Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Third Age - Total War - Map.jpg</span>"
 page_id: 22394
 namespace: 6
 revision_id: 253115
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Third Age: Total War](/wiki/Third_Age:_Total_War), a modification for <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Medieval II: Total War</a>.
+Map of [Third Age: Total War](../../main/T/Third_Age%253A_Total_War.md), a modification for <a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Medieval II: Total War</a>.
 
 ## Licensing {#Licensing}
 

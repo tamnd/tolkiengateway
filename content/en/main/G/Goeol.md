@@ -13,9 +13,9 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>goeol</b></i> is an adjective meaning "dreadful" in [Sindarin](/wiki/Sindarin). Compare with *[rúcima](/wiki/R%C3%BAcima "Rúcima")* in [Quenya](/wiki/Quenya).
+<i><b>goeol</b></i> is an adjective meaning "dreadful" in [Sindarin](../S/Sindarin.md). Compare with *[rúcima](../R/Rúcima.md)* in [Quenya](../Q/Quenya.md).
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

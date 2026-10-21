@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mundo"
 ---
 
-Redirect to [Mundo](/wiki/Mundo).
+Redirect to [Mundo](../M/Mundo.md).

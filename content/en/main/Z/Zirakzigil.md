@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebdil"
 ---
 
-Redirect to [Celebdil](/wiki/Celebdil).
+Redirect to [Celebdil](../C/Celebdil.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Third Age: Total War"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Third Age: Total War</span>"
 page_id: 25588
 namespace: 14
 revision_id: 329260
@@ -15,4 +14,4 @@ sort_keys:
   "Screenshots of Modifications": "Third Age - Total War"
 ---
 
-<dl><dd><i>Images from </i><a href="/wiki/Third_Age:_Total_War" title="Third Age: Total War">Third Age: Total War</a><i>, a modification of </i><a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Medieval II: Total War</a><i>.</i></dd></dl>
+<dl><dd><i>Images from </i><a href="../../main/T/Third_Age%253A_Total_War.md" title="Third Age: Total War">Third Age: Total War</a><i>, a modification of </i><a class="extiw" href="http://en.wikipedia.org/wiki/Medieval_II:_Total_War" title="wikipedia:Medieval II: Total War">Medieval II: Total War</a><i>.</i></dd></dl>

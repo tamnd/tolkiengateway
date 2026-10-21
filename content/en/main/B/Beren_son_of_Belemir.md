@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren (son of Belemir)"
 ---
 
-Redirect to [Beren (son of Belemir)](/wiki/Beren_(son_of_Belemir)).
+Redirect to [Beren (son of Belemir)](<Beren_(son_of_Belemir).md>).

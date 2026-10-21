@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirkwood"
 ---
 
-Redirect to [Mirkwood](/wiki/Mirkwood).
+Redirect to [Mirkwood](../M/Mirkwood.md).

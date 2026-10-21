@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Helm&#039;s Deep.jpg</span>"
 page_id: 71622
 namespace: 6
 revision_id: 426953
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Helm's Deep](/wiki/Helm%27s_Deep)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1977 J.R.R. Tolkien Calendar](/wiki/1977_J.R.R._Tolkien_Calendar)
+"[Helm's Deep](../../main/H/Helm's_Deep.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1977 J.R.R. Tolkien Calendar](../../main/_/1977_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

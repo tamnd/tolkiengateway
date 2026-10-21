@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Numenore.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Numenore.png</span>"
 page_id: 34814
 namespace: 6
 revision_id: 367997

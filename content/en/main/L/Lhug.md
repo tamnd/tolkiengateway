@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lhûg"
 ---
 
-Redirect to [Lhûg](/wiki/Lhûg).
+Redirect to [Lhûg](Lhûg.md).

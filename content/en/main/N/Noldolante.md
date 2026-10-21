@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noldolantë"
 ---
 
-Redirect to [Noldolantë](/wiki/Noldolantë).
+Redirect to [Noldolantë](Noldolantë.md).

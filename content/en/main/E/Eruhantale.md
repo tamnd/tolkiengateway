@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eruhantalë"
 ---
 
-Redirect to [Eruhantalë](/wiki/Eruhantalë).
+Redirect to [Eruhantalë](Eruhantalë.md).

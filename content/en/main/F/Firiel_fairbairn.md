@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel Fairbairn"
 ---
 
-Redirect to [Fíriel Fairbairn](/wiki/Fíriel_Fairbairn).
+Redirect to [Fíriel Fairbairn](Fíriel_Fairbairn.md).

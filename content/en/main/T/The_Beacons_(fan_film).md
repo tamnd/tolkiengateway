@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Beacons"
 ---
 
-Redirect to [The Beacons](/wiki/The_Beacons).
+Redirect to [The Beacons](The_Beacons.md).

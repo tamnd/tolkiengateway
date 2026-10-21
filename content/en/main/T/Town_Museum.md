@@ -11,4 +11,4 @@ redirect_target: "Leaf by Niggle"
 redirect_fragment: "Locations and terms"
 ---
 
-Redirect to [Leaf by Niggle](/wiki/Leaf_by_Niggle#Locations_and_terms).
+Redirect to [Leaf by Niggle](../L/Leaf_by_Niggle.md#Locations_and_terms).

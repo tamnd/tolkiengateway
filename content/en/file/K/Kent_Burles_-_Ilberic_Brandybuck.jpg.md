@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - Ilberic Brandybuck.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - Ilberic Brandybuck.jpg</span>"
 page_id: 30484
 namespace: 6
 revision_id: 203173
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ilberic Brandybuck](/wiki/Ilberic_Brandybuck) by Kent Burles. Interior image from Phil Kime, Chris Kennedy, *[Palantír Quest](/wiki/Palant%C3%ADr_Quest)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2009, 1994) .
+[Ilberic Brandybuck](../../main/I/Ilberic_Brandybuck.md) by Kent Burles. Interior image from Phil Kime, Chris Kennedy, *[Palantír Quest](../../main/P/Palantír_Quest.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2009, 1994) .
 
 ## Licensing {#Licensing}
 

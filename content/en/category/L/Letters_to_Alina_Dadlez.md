@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Alina Dadlez"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Alina Dadlez</span>"
 page_id: 68684
 namespace: 14
 revision_id: 408715
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Dadlez, Alina"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Alina Dadlez](/wiki/Alina_Dadlez).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Alina Dadlez](../../main/A/Alina_Dadlez.md).

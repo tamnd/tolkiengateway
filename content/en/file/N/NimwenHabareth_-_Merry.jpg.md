@@ -1,6 +1,5 @@
 ---
 title: "File:NimwenHabareth - Merry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">NimwenHabareth - Merry.jpg</span>"
 page_id: 66947
 namespace: 6
 revision_id: 388116
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> NimwenHabareth</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/nimwenhabareth" rel="noreferrer noopener" target="_blank">NimwenHabareth on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/NimwenHabareth" title="Tolkien Gateway:Copyrights/NimwenHabareth">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNimwenHabareth.md" title="Tolkien Gateway:Copyrights/NimwenHabareth">Permission for use on Tolkien Gateway</a></b></li></ul></div>

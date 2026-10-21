@@ -1,6 +1,5 @@
 ---
 title: "File:Kingdom-O-Magic cover-USA.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kingdom-O-Magic cover-USA.png</span>"
 page_id: 32363
 namespace: 6
 revision_id: 248581

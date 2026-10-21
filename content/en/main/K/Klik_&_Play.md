@@ -1,6 +1,5 @@
 ---
 title: "Klik & Play"
-display_title: "<span class=\"mw-page-title-main\">Klik &amp; Play</span>"
 page_id: 28122
 namespace: 0
 revision_id: 360172
@@ -14,7 +13,7 @@ categories:
   - "French businesses"
 ---
 
-**Klik &amp; Play** is a software which can be used to create games, including *[Mines of Moria](</wiki/Mines_of_Moria_(video_game)> "Mines of Moria (video game)")*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[Mines of Moria II: The Escape Out](/wiki/Mines_of_Moria_II:_The_Escape_Out)*,<sup id="cite_ref-Tolkien_Games_2-0" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup> *[Quest For Mordor](/wiki/Quest_For_Mordor)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and [The Hobbit](</wiki/The_Hobbit_(action_game)> "The Hobbit (action game)").
+**Klik &amp; Play** is a software which can be used to create games, including *[Mines of Moria](<../M/Mines_of_Moria_(video_game).md>)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[Mines of Moria II: The Escape Out](../M/Mines_of_Moria_II%253A_The_Escape_Out.md)*,<sup id="cite_ref-Tolkien_Games_2-0" class="reference"><a href="#cite_note-Tolkien_Games-2">[2]</a></sup> *[Quest For Mordor](../Q/Quest_For_Mordor.md)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and [The Hobbit](<../T/The_Hobbit_(action_game).md>).
 
 ## External links {#External_links}
 

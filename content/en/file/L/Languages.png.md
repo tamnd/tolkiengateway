@@ -1,6 +1,5 @@
 ---
 title: "File:Languages.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Languages.png</span>"
 page_id: 37053
 namespace: 6
 revision_id: 178611

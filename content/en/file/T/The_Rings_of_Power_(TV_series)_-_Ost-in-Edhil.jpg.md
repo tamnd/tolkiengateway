@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Ost-in-Edhil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Ost-in-Edhil.jpg</span>"
 page_id: 63828
 namespace: 6
 revision_id: 412300
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The city of [Ost-in-Edhil](/wiki/Ost-in-Edhil) as seen in the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+The city of [Ost-in-Edhil](../../main/O/Ost-in-Edhil.md) as seen in the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

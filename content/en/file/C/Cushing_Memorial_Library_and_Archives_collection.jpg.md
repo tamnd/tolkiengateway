@@ -1,6 +1,5 @@
 ---
 title: "File:Cushing Memorial Library and Archives collection.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cushing Memorial Library and Archives collection.jpg</span>"
 page_id: 42679
 namespace: 6
 revision_id: 225100

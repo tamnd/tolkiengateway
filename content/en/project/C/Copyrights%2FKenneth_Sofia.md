@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Kenneth Sofia"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Kenneth Sofia</span>"
 page_id: 54158
 namespace: 4
 revision_id: 293691
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sofia, Kenneth"
 ---
 
-- Kenneth Sofia has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Kenneth_Sofia "Category:Images by Kenneth Sofia") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Kenneth Sofia has kindly granted his permission to use [his artwork](../../category/I/Images_by_Kenneth_Sofia.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 June 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

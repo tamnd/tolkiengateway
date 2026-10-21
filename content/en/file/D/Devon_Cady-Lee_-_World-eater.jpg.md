@@ -1,6 +1,5 @@
 ---
 title: "File:Devon Cady-Lee - World-eater.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Devon Cady-Lee - World-eater.jpg</span>"
 page_id: 74225
 namespace: 6
 revision_id: 442764
@@ -31,16 +30,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Devon Cady-Lee - World-eater.jpg</span></th>
 <td class="description">
-Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
+Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
 <p>One of the Nameless creatures of Middle Earth. Content took some liberties with lore after Gandalf described &#34;nameless beings that gnawed the earth&#34; which were apparently so old even Sauron didn&#39;t know of them, yatta yatta. It was a nice excuse to do some crazy, abstract stuff for a change, so I did not complain.
 </p><p>Yes, <i>he has a vortex in his chest</i>.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Devon Cady-Lee</td>
@@ -49,7 +45,6 @@ Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of 
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/gorrem/art/LOTRO-The-Nameless-101288506" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mike Szabados"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mike Szabados</span>"
 page_id: 73367
 namespace: 4
 revision_id: 433913
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Szabados, Mike"
 ---
 
-- <a class="external text" href="https://mikeszabados.artstation.com" rel="noreferrer noopener" target="_blank">Mike Szabados</a> has kindly granted us permission to use [their artwork](/wiki/Category:Images_by_Mike_Szabados "Category:Images by Mike Szabados") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="https://mikeszabados.artstation.com" rel="noreferrer noopener" target="_blank">Mike Szabados</a> has kindly granted us permission to use [their artwork](../../category/I/Images_by_Mike_Szabados.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 6 February 2026
-- User who sought the permission via email: [Hyarion](/wiki/User:Hyarion "User:Hyarion")
+- User who sought the permission via email: [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

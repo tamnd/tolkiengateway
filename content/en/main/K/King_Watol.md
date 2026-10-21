@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Watol"
 ---
 
-Redirect to [Watol](/wiki/Watol).
+Redirect to [Watol](../W/Watol.md).

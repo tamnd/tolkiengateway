@@ -1,6 +1,5 @@
 ---
 title: "File:The Monsters and the Critics 1997.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Monsters and the Critics 1997.png</span>"
 page_id: 61849
 namespace: 6
 revision_id: 348688

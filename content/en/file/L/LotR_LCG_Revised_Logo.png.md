@@ -1,6 +1,5 @@
 ---
 title: "File:LotR LCG Revised Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotR LCG Revised Logo.png</span>"
 page_id: 72895
 namespace: 6
 revision_id: 432064

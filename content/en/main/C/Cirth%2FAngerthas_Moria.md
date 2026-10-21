@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angerthas Moria"
 ---
 
-Redirect to [Angerthas Moria](/wiki/Angerthas_Moria).
+Redirect to [Angerthas Moria](../A/Angerthas_Moria.md).

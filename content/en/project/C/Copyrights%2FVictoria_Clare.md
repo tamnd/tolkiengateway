@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Victoria Clare"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Victoria Clare</span>"
 page_id: 59239
 namespace: 4
 revision_id: 328747
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Clare, Victoria"
 ---
 
-- Victoria Clare has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Victoria_Clare "Category:Images by Victoria Clare") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Victoria Clare has kindly granted her permission to use [her artwork](../../category/I/Images_by_Victoria_Clare.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 March 2021
-- User who sought the permission via DeviantArt: [LorenzoCB](/wiki/User:LorenzoCB "User:LorenzoCB")
+- User who sought the permission via DeviantArt: [LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB)

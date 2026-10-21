@@ -1,6 +1,5 @@
 ---
 title: "File:Realms of the Three Rings (Polish Collector).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Realms of the Three Rings (Polish Collector).jpg</span>"
 page_id: 75025
 namespace: 6
 revision_id: 441748

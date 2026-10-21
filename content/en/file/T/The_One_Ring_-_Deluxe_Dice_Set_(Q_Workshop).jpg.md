@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Deluxe Dice Set (Q Workshop).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Deluxe Dice Set (Q Workshop).jpg</span>"
 page_id: 75032
 namespace: 6
 revision_id: 441794
@@ -35,12 +34,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

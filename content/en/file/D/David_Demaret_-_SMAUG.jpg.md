@@ -1,6 +1,5 @@
 ---
 title: "File:David Demaret - SMAUG.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David Demaret - SMAUG.jpg</span>"
 page_id: 41505
 namespace: 6
 revision_id: 210779
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David Demaret</li>
 <li><b>Website:</b> <a class="external text" href="http://moonxels.deviantart.com/" rel="noreferrer noopener" target="_blank">David Demaret&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_Demaret" title="Tolkien Gateway:Copyrights/David Demaret">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_Demaret.md" title="Tolkien Gateway:Copyrights/David Demaret">Permission for use on Tolkien Gateway</a></b></li></ul></div>

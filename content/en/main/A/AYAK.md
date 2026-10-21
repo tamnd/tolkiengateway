@@ -1,6 +1,5 @@
 ---
 title: "AYAK"
-display_title: "<span class=\"mw-page-title-main\">AYAK</span>"
 page_id: 31168
 namespace: 0
 revision_id: 440056
@@ -13,17 +12,17 @@ categories:
   - "Roots"
 ---
 
-**AYAK** is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") signifying "sharp, pointed".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+**AYAK** is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying "sharp, pointed".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Derivatives {#Derivatives}
 
-- [Quenya](/wiki/Quenya): *aika* ("sharp"); *aikale* ("a peak"); *[aikasse](/wiki/Aikasse "Aikasse")* ("mountain peak")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Noldorin](/wiki/Noldorin): *oeg* ("sharp, pointed, piercing"); *oegas* ("mountain peak")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *aika* ("sharp"); *aikale* ("a peak"); *[aikasse](Aikasse.md)* ("mountain peak")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Noldorin](../N/Noldorin.md): *oeg* ("sharp, pointed, piercing"); *oegas* ("mountain peak")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Related words<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> {#Related_words[note_1]}
 
-- [Quenya](/wiki/Quenya): *aiqa* ("steep")<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Ilkorin](/wiki/Ilkorin): *taig* ("deep")<sup id="cite_ref-Ety_1-4" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *aiqa* ("steep")<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Ilkorin](../I/Ilkorin.md): *taig* ("deep")<sup id="cite_ref-Ety_1-4" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Notes {#Notes}
 
@@ -35,6 +34,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ety_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ety_1-3">1.3</a></sup> <sup><a href="#cite_ref-Ety_1-4">1.4</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 349 (root appearing as &#34;AYAK-&#34;)</span>
+<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ety_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ety_1-3">1.3</a></sup> <sup><a href="#cite_ref-Ety_1-4">1.4</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 349 (root appearing as &#34;AYAK-&#34;)</span>
 </li>
 </ol></div>

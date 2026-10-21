@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórien (Valinor)"
 ---
 
-Redirect to [Lórien (Valinor)](/wiki/Lórien_(Valinor)).
+Redirect to [Lórien (Valinor)](<../L/Lórien_(Valinor).md>).

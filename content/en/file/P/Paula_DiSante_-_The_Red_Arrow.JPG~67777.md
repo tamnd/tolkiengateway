@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Paula DiSante - The Red Arrow.jpg"
 ---
 
-Redirect to [File:Paula DiSante - The Red Arrow.jpg](/wiki/File:Paula_DiSante_-_The_Red_Arrow.jpg).
+Redirect to [File:Paula DiSante - The Red Arrow.jpg](Paula_DiSante_-_The_Red_Arrow.jpg.md).

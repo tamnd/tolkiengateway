@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhimdath"
 ---
 
-Redirect to [Rhimdath](/wiki/Rhimdath).
+Redirect to [Rhimdath](Rhimdath.md).

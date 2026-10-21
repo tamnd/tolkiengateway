@@ -1,6 +1,5 @@
 ---
 title: "Category:Structures (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Structures (real-world)</span>"
 page_id: 21991
 namespace: 14
 revision_id: 335486
@@ -13,6 +12,6 @@ categories:
   - "Locations by type (real-world)"
 ---
 
-<dl><dd><i>For structures found in Arda see <a href="/wiki/Category:Sites_of_civilisation" title="Category:Sites of civilisation">Category:Sites of civilisation</a>.</i></dd></dl>
+<dl><dd><i>For structures found in Arda see <a href="Sites_of_civilisation.md" title="Category:Sites of civilisation">Category:Sites of civilisation</a>.</i></dd></dl>
 
-Structures that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Structures that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

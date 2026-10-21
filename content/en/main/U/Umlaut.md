@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "I-affection"
 ---
 
-Redirect to [I-affection](/wiki/I-affection).
+Redirect to [I-affection](../I/I-affection.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:New Zealand organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Zealand organizations</span>"
 page_id: 35398
 namespace: 14
 revision_id: 166425

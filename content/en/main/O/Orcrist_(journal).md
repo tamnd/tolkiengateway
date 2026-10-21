@@ -19,23 +19,21 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the journal</b>. For the sword of <a href="/wiki/Thorin" title="Thorin">Thorin</a>, see <b><a href="/wiki/Orcrist" title="Orcrist">Orcrist</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the journal</b>. For the sword of <a href="../T/Thorin.md" title="Thorin">Thorin</a>, see <b><a href="Orcrist.md" title="Orcrist">Orcrist</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-<i><b>Orcrist</b></i> was the journal of the [University of Wisconsin Tolkien Society](/wiki/University_of_Wisconsin_Tolkien_and_Fantasy_Society "University of Wisconsin Tolkien and Fantasy Society"). The journal appeared irregularly and wasn't published for 40 years between [1977](/wiki/1977) and [2017](/wiki/2017) with no publications since. Eight issues were published (numbers 3, 4, and 5 were co-published with the *[Tolkien Journal](/wiki/Tolkien_Journal)* numbers 11, 13, and 14 respectively).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Orcrist</b></i> was the journal of the [University of Wisconsin Tolkien Society](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md). The journal appeared irregularly and wasn't published for 40 years between [1977](../_/1977.md) and [2017](../_/2017.md) with no publications since. Eight issues were published (numbers 3, 4, and 5 were co-published with the *[Tolkien Journal](../T/Tolkien_Journal.md)* numbers 11, 13, and 14 respectively).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Issues {#Issues}
 
-- [1966](/wiki/1966)/[1967](/wiki/1967) - *[Orcrist 1](/wiki/Orcrist_1)*
-- [1967](/wiki/1967)/[1968](/wiki/1968) - *[Orcrist 2](/wiki/Orcrist_2)*
-- [1969](/wiki/1969)/[1970](/wiki/1970) - *[Orcrist 3](/wiki/Orcrist_3)*
-- [1970](/wiki/1970) - *[Orcrist 4](/wiki/Orcrist_4)*
-- [1971](/wiki/1971) - *[Orcrist 5](/wiki/Orcrist_5)*
-- [1971](/wiki/1971)/[1972](/wiki/1972) - *[Orcrist 6](/wiki/Orcrist_6)* (Special C. S. Lewis Issue)
-- [1973](/wiki/1973) - *[Orcrist 7](/wiki/Orcrist_7)* Special Issue on the Medieval Tradition in Modern Literature
-- [1977](/wiki/1977) - *[Orcrist 8](/wiki/Orcrist_8)*
-- [2017](/wiki/2017) - *[Orcrist 9](/wiki/Orcrist_9)*
+- [1966](../_/1966.md)/[1967](../_/1967.md) - *[Orcrist 1](Orcrist_1.md)*
+- [1967](../_/1967.md)/[1968](../_/1968.md) - *[Orcrist 2](Orcrist_2.md)*
+- [1969](../_/1969.md)/[1970](../_/1970.md) - *[Orcrist 3](Orcrist_3.md)*
+- [1970](../_/1970.md) - *[Orcrist 4](Orcrist_4.md)*
+- [1971](../_/1971.md) - *[Orcrist 5](Orcrist_5.md)*
+- [1971](../_/1971.md)/[1972](../_/1972.md) - *[Orcrist 6](Orcrist_6.md)* (Special C. S. Lewis Issue)
+- [1973](../_/1973.md) - *[Orcrist 7](Orcrist_7.md)* Special Issue on the Medieval Tradition in Modern Literature
+- [1977](../_/1977.md) - *[Orcrist 8](Orcrist_8.md)*
+- [2017](../_/2017.md) - *[Orcrist 9](Orcrist_9.md)*
 
 <span></span>
 

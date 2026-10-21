@@ -1,6 +1,5 @@
 ---
 title: "Geldrop"
-display_title: "<span class=\"mw-page-title-main\">Geldrop</span>"
 page_id: 31201
 namespace: 0
 revision_id: 385387
@@ -14,65 +13,65 @@ categories:
   - "Dutch locations"
 ---
 
-**Geldrop** is a Dutch town in the province of <a class="extiw" href="http://en.wikipedia.org/wiki/North_Brabant" title="wikipedia:North Brabant">North Brabant</a> with a neighbourhood, Genoenhuis, whose street names are [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") related. The neighbourhood also has a school called De Hobbit ([The Hobbit](/wiki/The_Hobbit)), an assisted living facility called [Meriadoc](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck"), a playground called Sam Gewissies ([Sam Gamgee](/wiki/Samwise_Gamgee "Samwise Gamgee")) and several other businesses named after Tolkien characters.
+**Geldrop** is a Dutch town in the province of <a class="extiw" href="http://en.wikipedia.org/wiki/North_Brabant" title="wikipedia:North Brabant">North Brabant</a> with a neighbourhood, Genoenhuis, whose street names are [Tolkien](../J/J.R.R._Tolkien.md) related. The neighbourhood also has a school called De Hobbit ([The Hobbit](../T/The_Hobbit.md)), an assisted living facility called [Meriadoc](../M/Meriadoc_Brandybuck.md), a playground called Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md)) and several other businesses named after Tolkien characters.
 
 ## Streets {#Streets}
 
 - Main street: Laan Van Tolkien (Tolkien Avenue)
-- [Amroth](/wiki/Amroth)
-- [Anarion](/wiki/An%C3%A1rion "Anárion")
-- [Aragorn](/wiki/Aragorn)
-- [Arwen](/wiki/Arwen)
-- [Balin](/wiki/Balin)
-- [Bifur](/wiki/Bifur)
-- [Bofur](/wiki/Bofur)
-- [Bombadil](/wiki/Tom_Bombadil "Tom Bombadil")
-- [Bombur](/wiki/Bombur)
-- [Boromir](/wiki/Boromir)
-- [Celeborn](/wiki/Celeborn)
-- [Cirion](/wiki/Cirion)
-- [Denethor](/wiki/Denethor)
-- [Dori](/wiki/Dori)
-- [Durin](/wiki/Durin_I "Durin I")
-- [Elendil](/wiki/Elendil)
-- [Elrond](/wiki/Elrond)
-- [Elros](/wiki/Elros)
-- [Eomer](/wiki/%C3%89omer "Éomer")
-- [Erebor](/wiki/Lonely_Mountain "Lonely Mountain")
-- <a class="mw-disambig" href="/wiki/Fangorn_(disambiguation)" title="Fangorn (disambiguation)">Fangorn</a>
-- [Faramir](/wiki/Faramir)
-- [Farin](/wiki/Farin)
-- [Fili](/wiki/F%C3%ADli "Fíli")
-- [Frodo](/wiki/Frodo_Baggins "Frodo Baggins")
-- [Galadriel](/wiki/Galadriel)
-- [Gandalf](/wiki/Gandalf)
-- [Gimli](/wiki/Gimli)
-- [Gloin](/wiki/Gl%C3%B3in "Glóin")
-- [Kili](/wiki/K%C3%ADli "Kíli")
-- [Legolas](/wiki/Legolas)
-- [Nimrodel](/wiki/Nimrodel)
-- [Ori](/wiki/Ori)
-- [Palantir](/wiki/Palant%C3%ADri "Palantíri")
-- Peregrijn ([Peregrin](/wiki/Peregrin_Took "Peregrin Took"))
-- [Saruman](/wiki/Saruman)
-- [Silmarien](/wiki/Silmari%C3%ABn "Silmariën")
-- [Theoden](/wiki/Th%C3%A9oden "Théoden")
-- [Thorin](/wiki/Thorin)
-- <a class="mw-disambig" href="/wiki/Valandil_(disambiguation)" title="Valandil (disambiguation)">Valandil</a>
-- [Varda](/wiki/Varda)
-- Westernisse ([Westernesse](/wiki/Westernesse))
-- [Yavanna](/wiki/Yavanna)
+- [Amroth](../A/Amroth.md)
+- [Anarion](../A/Anárion.md)
+- [Aragorn](../A/Aragorn.md)
+- [Arwen](../A/Arwen.md)
+- [Balin](../B/Balin.md)
+- [Bifur](../B/Bifur.md)
+- [Bofur](../B/Bofur.md)
+- [Bombadil](../T/Tom_Bombadil.md)
+- [Bombur](../B/Bombur.md)
+- [Boromir](../B/Boromir.md)
+- [Celeborn](../C/Celeborn.md)
+- [Cirion](../C/Cirion.md)
+- [Denethor](../D/Denethor.md)
+- [Dori](../D/Dori.md)
+- [Durin](../D/Durin_I.md)
+- [Elendil](../E/Elendil.md)
+- [Elrond](../E/Elrond.md)
+- [Elros](../E/Elros.md)
+- [Eomer](../_/Éomer.md)
+- [Erebor](../L/Lonely_Mountain.md)
+- <a class="mw-disambig" href="../F/Fangorn_(disambiguation).md" title="Fangorn (disambiguation)">Fangorn</a>
+- [Faramir](../F/Faramir.md)
+- [Farin](../F/Farin.md)
+- [Fili](../F/Fíli.md)
+- [Frodo](../F/Frodo_Baggins.md)
+- [Galadriel](Galadriel.md)
+- [Gandalf](Gandalf.md)
+- [Gimli](Gimli.md)
+- [Gloin](Glóin.md)
+- [Kili](../K/Kíli.md)
+- [Legolas](../L/Legolas.md)
+- [Nimrodel](../N/Nimrodel.md)
+- [Ori](../O/Ori.md)
+- [Palantir](../P/Palantíri.md)
+- Peregrijn ([Peregrin](../P/Peregrin_Took.md))
+- [Saruman](../S/Saruman.md)
+- [Silmarien](../S/Silmariën.md)
+- [Theoden](../T/Théoden.md)
+- [Thorin](../T/Thorin.md)
+- <a class="mw-disambig" href="../V/Valandil_(disambiguation).md" title="Valandil (disambiguation)">Valandil</a>
+- [Varda](../V/Varda.md)
+- Westernisse ([Westernesse](../W/Westernesse.md))
+- [Yavanna](../Y/Yavanna.md)
 
 ### Paths {#Paths}
 
-- [Elenor](/wiki/Elanor_Gardner "Elanor Gardner")
-- [Dwalin](/wiki/Dwalin)
-- Groene Weg ([Greenway](/wiki/Greenway))
-- Haradpad ([Harad Road](/wiki/Harad_Road))
-- [Isildur](/wiki/Isildur)
-- [Lorien](/wiki/Lothl%C3%B3rien "Lothlórien")
-- Sam Gewissies ([Sam Gamgee](/wiki/Samwise_Gamgee "Samwise Gamgee"))
-- Zilverlei ([Silverlode](/wiki/Celebrant "Celebrant"))
+- [Elenor](../E/Elanor_Gardner.md)
+- [Dwalin](../D/Dwalin.md)
+- Groene Weg ([Greenway](Greenway.md))
+- Haradpad ([Harad Road](../H/Harad_Road.md))
+- [Isildur](../I/Isildur.md)
+- [Lorien](../L/Lothlórien.md)
+- Sam Gewissies ([Sam Gamgee](../S/Samwise_Gamgee.md))
+- Zilverlei ([Silverlode](../C/Celebrant.md))
 
 ## External links {#External_links}
 

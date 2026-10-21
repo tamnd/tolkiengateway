@@ -1,6 +1,5 @@
 ---
 title: "Ancrene Wisse and Hali Meiðhad"
-display_title: "<span class=\"mw-page-title-main\">Ancrene Wisse and Hali Meiðhad</span>"
 page_id: 7321
 namespace: 0
 revision_id: 302021
@@ -22,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Ancrene_Wisse_and_Hali_Mei%C3%B0had"
 ---
 
-<i><b>Ancrene Wisse and Hali Meiðhad</b></i> is a [1929](/wiki/1929) essay by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on the 13th century early [Middle English](/wiki/Middle_English) treatise Ancrene Wisse "The Anchoresses' Rule", and on the tract on virginity Hali Meiðhad "Holy Maidenhood". In the essay, which has been called "the most perfect though not the best-known of his \[Tolkien's\] academic pieces",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> he coined the term "[AB language](/wiki/AB_language)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Ancrene Wisse and Hali Meiðhad</b></i> is a [1929](../_/1929.md) essay by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) on the 13th century early [Middle English](../M/Middle_English.md) treatise Ancrene Wisse "The Anchoresses' Rule", and on the tract on virginity Hali Meiðhad "Holy Maidenhood". In the essay, which has been called "the most perfect though not the best-known of his \[Tolkien's\] academic pieces",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> he coined the term "[AB language](AB_language.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 
@@ -33,8 +32,8 @@ langlinks:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Tom_Shippey" title="Tom Shippey">Tom Shippey</a>, <i><a href="/wiki/The_Road_to_Middle-earth" title="The Road to Middle-earth">The Road to Middle-earth</a></i>, 3rd edn, p. 45</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../T/Tom_Shippey.md" title="Tom Shippey">Tom Shippey</a>, <i><a href="../T/The_Road_to_Middle-earth.md" title="The Road to Middle-earth">The Road to Middle-earth</a></i>, 3rd edn, p. 45</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">J.R.R. Tolkien, &#39;Ancrene Wisse and Hali Meiðhad&#39; <i><a href="/wiki/Essays_and_Studies_(1929)" title="Essays and Studies (1929)">Essays and Studies by Members of the English Association</a></i>, vol. 14 (1929), 104-26</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">J.R.R. Tolkien, &#39;Ancrene Wisse and Hali Meiðhad&#39; <i><a href="../E/Essays_and_Studies_(1929).md" title="Essays and Studies (1929)">Essays and Studies by Members of the English Association</a></i>, vol. 14 (1929), 104-26</span>
 </li>
 </ol></div>

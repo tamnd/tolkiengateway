@@ -11,4 +11,4 @@ redirect_target: "J.R.R. Tolkien"
 redirect_fragment: "Names and pseudonyms"
 ---
 
-Redirect to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien#Names_and_pseudonyms).
+Redirect to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md#Names_and_pseudonyms).

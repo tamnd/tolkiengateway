@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria: The Dwarven City"
 ---
 
-Redirect to [Moria: The Dwarven City](/wiki/Moria:_The_Dwarven_City).
+Redirect to [Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md).

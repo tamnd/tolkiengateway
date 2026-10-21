@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to David Masson (12 December 1955)"
 ---
 
-Redirect to [Letter to David Masson (12 December 1955)](/wiki/Letter_to_David_Masson_(12_December_1955)).
+Redirect to [Letter to David Masson (12 December 1955)](<../L/Letter_to_David_Masson_(12_December_1955).md>).

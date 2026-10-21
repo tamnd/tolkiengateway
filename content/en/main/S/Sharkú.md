@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sharkû"
 ---
 
-Redirect to [Sharkû](/wiki/Sharkû).
+Redirect to [Sharkû](Sharkû.md).

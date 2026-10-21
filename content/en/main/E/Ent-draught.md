@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ent-draughts"
 ---
 
-Redirect to [Ent-draughts](/wiki/Ent-draughts).
+Redirect to [Ent-draughts](Ent-draughts.md).

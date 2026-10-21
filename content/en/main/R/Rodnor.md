@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gil-galad"
 ---
 
-Redirect to [Gil-galad](/wiki/Gil-galad).
+Redirect to [Gil-galad](../G/Gil-galad.md).

@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Riddles in the Dark"
 ---
 
-<i><b>Riddles in the Dark</b></i> is a podcast hosted by [Corey Olsen](/wiki/Corey_Olsen), Dave Kale, and Trish Lambert that was released from 2012 to 2015 about the forthcoming [*The Hobbit* film series](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)"). It is part of [The Tolkien Professor](/wiki/The_Tolkien_Professor) podcast series and was produced by the [Mythgard Institute](/wiki/Mythgard_Institute).
+<i><b>Riddles in the Dark</b></i> is a podcast hosted by [Corey Olsen](../C/Corey_Olsen.md), Dave Kale, and Trish Lambert that was released from 2012 to 2015 about the forthcoming [*The Hobbit* film series](<../T/The_Hobbit_(film_series).md>). It is part of [The Tolkien Professor](../T/The_Tolkien_Professor.md) podcast series and was produced by the [Mythgard Institute](../M/Mythgard_Institute.md).
 
 ## External links {#External_links}
 

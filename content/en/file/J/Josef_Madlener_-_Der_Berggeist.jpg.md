@@ -1,6 +1,5 @@
 ---
 title: "File:Josef Madlener - Der Berggeist.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Josef Madlener - Der Berggeist.jpg</span>"
 page_id: 42525
 namespace: 6
 revision_id: 224389

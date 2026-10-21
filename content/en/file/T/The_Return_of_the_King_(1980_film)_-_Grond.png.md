@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Grond.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Grond.png</span>"
 page_id: 45084
 namespace: 6
 revision_id: 282021

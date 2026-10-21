@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf Alone"
 ---
 
-Redirect to [Elf Alone](/wiki/Elf_Alone).
+Redirect to [Elf Alone](../E/Elf_Alone.md).

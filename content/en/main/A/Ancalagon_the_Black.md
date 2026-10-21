@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ancalagon"
 ---
 
-Redirect to [Ancalagon](/wiki/Ancalagon).
+Redirect to [Ancalagon](Ancalagon.md).

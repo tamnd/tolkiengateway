@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Buckland Ferry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Buckland Ferry.jpg</span>"
 page_id: 71458
 namespace: 6
 revision_id: 426076
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Buckland Ferry](/wiki/Bucklebury_Ferry "Bucklebury Ferry")" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[Buckland Ferry](../../main/B/Bucklebury_Ferry.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

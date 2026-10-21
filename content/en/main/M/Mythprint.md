@@ -14,11 +14,11 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>Mythprint</b></i> is the monthly bulletin of the [Mythopoeic Society](/wiki/Mythopoeic_Society). It publishes book reviews, short articles, event information, and other notices of interest to Society members. Full membership in the Mythopoeic Society includes a subscription to *Mythprint*.
+<i><b>Mythprint</b></i> is the monthly bulletin of the [Mythopoeic Society](Mythopoeic_Society.md). It publishes book reviews, short articles, event information, and other notices of interest to Society members. Full membership in the Mythopoeic Society includes a subscription to *Mythprint*.
 
 ## See also {#See_also}
 
-- [*Mythprint* issues](/wiki/Category:Mythprint_issues "Category:Mythprint issues")
+- [*Mythprint* issues](../../category/M/Mythprint_issues.md)
 
 ## External links {#External_links}
 

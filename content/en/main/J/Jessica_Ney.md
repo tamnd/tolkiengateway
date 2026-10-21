@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jessica M. Ney-Grimm"
 ---
 
-Redirect to [Jessica M. Ney-Grimm](/wiki/Jessica_M._Ney-Grimm).
+Redirect to [Jessica M. Ney-Grimm](Jessica_M._Ney-Grimm.md).

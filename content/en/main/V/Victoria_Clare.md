@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Victoria Clare"
 ---
 
-Redirect to [Category:Images by Victoria Clare](/wiki/Category:Images_by_Victoria_Clare).
+Redirect to [Category:Images by Victoria Clare](../../category/I/Images_by_Victoria_Clare.md).

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Mother Mary Anthony"
-display_title: "<span class=\"mw-page-title-main\">Letter to Mother Mary Anthony</span>"
 page_id: 40550
 namespace: 0
 revision_id: 406286
@@ -15,10 +14,10 @@ sort_keys:
   "Letters": "Anthony, Mary"
 ---
 
-On [12 April](/wiki/12_April) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mother Mary Anthony**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [12 April](../_/12_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mother Mary Anthony**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Subject:** [Charles Williams](/wiki/Charles_Williams). Tolkien writes that he has little personal knowledge of Williams's "*biographical or mental history*", and that he "*had no personal discussions with him about literature. His work gave me no pleasure* \[...\] *But I found him a pleasant companion socially*."
-- **Publication:** Extracts from the letter have appeared in [*Mythlore* 45](/wiki/Mythlore_45 "Mythlore 45"),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and in [*The J.R.R. Tolkien Companion and Guide: Chronology*](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide") (p. 662).
+- **Subject:** [Charles Williams](../C/Charles_Williams.md). Tolkien writes that he has little personal knowledge of Williams's "*biographical or mental history*", and that he "*had no personal discussions with him about literature. His work gave me no pleasure* \[...\] *But I found him a pleasant companion socially*."
+- **Publication:** Extracts from the letter have appeared in [*Mythlore* 45](../M/Mythlore_45.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and in [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (p. 662).
 
 <span></span>
 
@@ -26,7 +25,7 @@ On [12 April](/wiki/12_April) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 662</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 662</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=65875" rel="noreferrer noopener" target="_blank">Mythlore 45. Spring 1986</a> at <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a> (accessed 18 November 2011)</span>
 </li>

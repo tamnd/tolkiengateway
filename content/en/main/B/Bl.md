@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren and Lúthien"
 ---
 
-Redirect to [Beren and Lúthien](/wiki/Beren_and_Lúthien).
+Redirect to [Beren and Lúthien](Beren_and_Lúthien.md).

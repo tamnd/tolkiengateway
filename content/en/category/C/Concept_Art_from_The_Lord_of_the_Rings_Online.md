@@ -1,6 +1,5 @@
 ---
 title: "Category:Concept Art from The Lord of the Rings Online"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Concept Art from The Lord of the Rings Online</span>"
 page_id: 74214
 namespace: 14
 revision_id: 437408

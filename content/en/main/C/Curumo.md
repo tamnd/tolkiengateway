@@ -11,4 +11,4 @@ redirect_target: "Saruman"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Saruman](/wiki/Saruman#Other_names).
+Redirect to [Saruman](../S/Saruman.md#Other_names).

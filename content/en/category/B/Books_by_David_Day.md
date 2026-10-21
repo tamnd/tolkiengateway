@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by David Day"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by David Day</span>"
 page_id: 26358
 namespace: 14
 revision_id: 103985

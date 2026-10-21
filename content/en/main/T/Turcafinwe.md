@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celegorm"
 ---
 
-Redirect to [Celegorm](/wiki/Celegorm).
+Redirect to [Celegorm](../C/Celegorm.md).

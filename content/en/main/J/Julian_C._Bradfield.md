@@ -1,6 +1,5 @@
 ---
 title: "Julian C. Bradfield"
-display_title: "<span class=\"mw-page-title-main\">Julian C. Bradfield</span>"
 page_id: 35242
 namespace: 0
 revision_id: 406081
@@ -25,15 +24,15 @@ images:
   - "Julian_C._Bradfield.png"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Julian_C._Bradfield.png"><img src="/w/images/f/f8/Julian_C._Bradfield.png" decoding="async" loading="lazy" width="150" height="222" class="mw-file-element" data-file-width="150" data-file-height="222"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/J/Julian_C._Bradfield.png.md"><img src="https://tolkiengateway.net/w/images/f/f8/Julian_C._Bradfield.png" decoding="async" loading="lazy" width="150" height="222" class="mw-file-element" data-file-width="150" data-file-height="222"/></a><figcaption></figcaption></figure>
 
-**Julian C. Bradfield** is the founder of [Tolklang](/wiki/Tolklang) and cofounder of [the Cambridge Tolkien Society](</wiki/Minas_Tirith_(Cambridge_smial)> "Minas Tirith (Cambridge smial)"). He was also editor of *[Quettar](/wiki/Quettar)*. He is currently Reader in Computer Science at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Edinburgh" title="wikipedia:University of Edinburgh">University of Edinburgh</a>.
+**Julian C. Bradfield** is the founder of [Tolklang](../T/Tolklang.md) and cofounder of [the Cambridge Tolkien Society](<../M/Minas_Tirith_(Cambridge_smial).md>). He was also editor of *[Quettar](../Q/Quettar.md)*. He is currently Reader in Computer Science at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Edinburgh" title="wikipedia:University of Edinburgh">University of Edinburgh</a>.
 
 ## Bibliography {#Bibliography}
 
-- [1981](/wiki/1981): [*Amon Hen* 53](/wiki/Amon_Hen_53 "Amon Hen 53")
+- [1981](../_/1981.md): [*Amon Hen* 53](../A/Amon_Hen_53.md)
     - "Ash Nazg Durbatulûk"
-- [1984](/wiki/1984): *[Quettar](/wiki/Quettar)*, No. 20
+- [1984](../_/1984.md): *[Quettar](../Q/Quettar.md)*, No. 20
     - "Linguistic Information from 'The Last Ark'"
 
 ## External links {#External_links}

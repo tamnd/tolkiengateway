@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengrim (disambiguation)"
 ---
 
-Redirect to [Isengrim (disambiguation)](/wiki/Isengrim_(disambiguation)).
+Redirect to [Isengrim (disambiguation)](<Isengrim_(disambiguation).md>).

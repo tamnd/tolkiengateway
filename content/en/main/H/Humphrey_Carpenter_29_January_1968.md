@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Humphrey Carpenter"
 ---
 
-Redirect to [Letter to Humphrey Carpenter](/wiki/Letter_to_Humphrey_Carpenter).
+Redirect to [Letter to Humphrey Carpenter](../L/Letter_to_Humphrey_Carpenter.md).

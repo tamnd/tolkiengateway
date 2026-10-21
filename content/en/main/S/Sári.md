@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sun"
 ---
 
-Redirect to [Sun](/wiki/Sun).
+Redirect to [Sun](Sun.md).

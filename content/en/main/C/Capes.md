@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Capes"
 ---
 
-Redirect to [Category:Capes](/wiki/Category:Capes).
+Redirect to [Category:Capes](../../category/C/Capes.md).

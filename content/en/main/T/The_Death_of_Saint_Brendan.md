@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imram"
 ---
 
-Redirect to [Imram](/wiki/Imram).
+Redirect to [Imram](../I/Imram.md).

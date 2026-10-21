@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilfanon (elf of Alqaluntë)"
 ---
 
-Redirect to [Gilfanon (elf of Alqaluntë)](/wiki/Gilfanon_(elf_of_Alqaluntë)).
+Redirect to [Gilfanon (elf of Alqaluntë)](<Gilfanon_(elf_of_Alqaluntë).md>).

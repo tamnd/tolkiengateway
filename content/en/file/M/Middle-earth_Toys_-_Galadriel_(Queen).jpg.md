@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Toys - Galadriel (Queen).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Toys - Galadriel (Queen).jpg</span>"
 page_id: 73277
 namespace: 6
 revision_id: 433443
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Middle-earth Toys - Galadriel (Queen).jpg</span></th>
 <td class="description">
-<p>Action figure from <a href="/wiki/Middle-earth_Toys" title="Middle-earth Toys">Middle-earth Toys</a>
+<p>Action figure from <a href="../../main/M/Middle-earth_Toys.md" title="Middle-earth Toys">Middle-earth Toys</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Taken from <a class="external text" href="https://thetoycollectorsguide.com/lotr-middle-earth-toys-toy-vault/" rel="noreferrer noopener" target="_blank">The Toy Collectors Guide</a>, with permission</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

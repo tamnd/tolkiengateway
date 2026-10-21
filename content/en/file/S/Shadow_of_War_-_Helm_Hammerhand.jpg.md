@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Helm Hammerhand.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Helm Hammerhand.jpg</span>"
 page_id: 58558
 namespace: 6
 revision_id: 340078
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Helm Hammerhand as depicted in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War) before he became a [Nazgul](/wiki/Nazgul).
+Helm Hammerhand as depicted in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md) before he became a [Nazgul](../../main/N/Nazgul.md).
 
 ## Licensing {#Licensing}
 

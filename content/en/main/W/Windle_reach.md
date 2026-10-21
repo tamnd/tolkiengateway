@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Windle-reach"
 ---
 
-Redirect to [Windle-reach](/wiki/Windle-reach).
+Redirect to [Windle-reach](Windle-reach.md).

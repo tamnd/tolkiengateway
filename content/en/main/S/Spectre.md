@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spectres"
 ---
 
-Redirect to [Spectres](/wiki/Spectres).
+Redirect to [Spectres](Spectres.md).

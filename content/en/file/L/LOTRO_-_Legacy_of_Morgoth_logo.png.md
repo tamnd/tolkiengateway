@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Legacy of Morgoth logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Legacy of Morgoth logo.png</span>"
 page_id: 70079
 namespace: 6
 revision_id: 416720
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Legacy of Morgoth](/wiki/The_Lord_of_the_Rings_Online:_Legacy_of_Morgoth)*.
+Logo for *[The Lord of the Rings Online: Legacy of Morgoth](../../main/T/The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md)*.
 
 ## Licensing {#Licensing}
 

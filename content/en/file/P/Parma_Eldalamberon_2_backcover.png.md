@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 2 backcover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 2 backcover.png</span>"
 page_id: 64440
 namespace: 6
 revision_id: 369551

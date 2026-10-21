@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stock-brook"
 ---
 
-Redirect to [Stock-brook](/wiki/Stock-brook).
+Redirect to [Stock-brook](../S/Stock-brook.md).

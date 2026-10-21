@@ -1,6 +1,5 @@
 ---
 title: "Category:Homes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Homes</span>"
 page_id: 14436
 namespace: 14
 revision_id: 79676
@@ -13,4 +12,4 @@ categories:
   - "Structures (real-world)"
 ---
 
-Homes where [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) lived during his lifetime.
+Homes where [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) lived during his lifetime.

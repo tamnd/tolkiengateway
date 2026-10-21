@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Manwë"
 ---
 
-Redirect to [Manwë](/wiki/Manwë).
+Redirect to [Manwë](../M/Manwë.md).

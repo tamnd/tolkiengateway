@@ -1,6 +1,5 @@
 ---
 title: "-wen"
-display_title: "<span class=\"mw-page-title-main\">-wen</span>"
 page_id: 10192
 namespace: 0
 revision_id: 277582
@@ -17,18 +16,18 @@ sort_keys:
   "Quenya suffixes": "Wen"
 ---
 
-<i><b>-wen</b></i> is a [Quenya](/wiki/Quenya) suffix added to names to show feminine derivation, usually as "maiden".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare *-[ien](/wiki/Ien "Ien")*. The [Sindarin](/wiki/Sindarin) equivalent is *[gwend](/wiki/Gwend "Gwend")*, which through [lenition](/wiki/Lenition "Lenition") becomes *-wen* too.
+<i><b>-wen</b></i> is a [Quenya](../Q/Quenya.md) suffix added to names to show feminine derivation, usually as "maiden".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare *-[ien](../I/Ien.md)*. The [Sindarin](../S/Sindarin.md) equivalent is *[gwend](../G/Gwend.md)*, which through [lenition](../L/Lenition.md) becomes *-wen* too.
 
 ## Example {#Example}
 
-- *[Eärwen](/wiki/E%C3%A4rwen)* = "Maiden of the [Sea](/wiki/Belegaer "Belegaer")"
-- *[Morwen](/wiki/Morwen)* = "Dark maiden"
+- *[Eärwen](../E/Eärwen.md)* = "Maiden of the [Sea](../B/Belegaer.md)"
+- *[Morwen](../M/Morwen.md)* = "Dark maiden"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>wen</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>wen</i></span>
 </li>
 </ol></div>

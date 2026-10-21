@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Nevrast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Nevrast.jpg</span>"
 page_id: 21853
 namespace: 6
 revision_id: 385108
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Nevrast](/wiki/Nevrast), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg>).
+Map of [Nevrast](../../main/N/Nevrast.md), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>).
 
 ## Licensing {#Licensing}
 

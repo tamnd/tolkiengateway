@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exeter College Smoker (1913)"
 ---
 
-Redirect to [Exeter College Smoker (1913)](/wiki/Exeter_College_Smoker_(1913)).
+Redirect to [Exeter College Smoker (1913)](<Exeter_College_Smoker_(1913).md>).

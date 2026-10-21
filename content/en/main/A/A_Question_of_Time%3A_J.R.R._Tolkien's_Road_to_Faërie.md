@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Question of Time"
 ---
 
-Redirect to [A Question of Time](/wiki/A_Question_of_Time).
+Redirect to [A Question of Time](A_Question_of_Time.md).

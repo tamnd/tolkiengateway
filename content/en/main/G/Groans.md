@@ -11,4 +11,4 @@ redirect_target: "Trolls"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Trolls](/wiki/Trolls#Portrayal_in_adaptations).
+Redirect to [Trolls](../T/Trolls.md#Portrayal_in_adaptations).

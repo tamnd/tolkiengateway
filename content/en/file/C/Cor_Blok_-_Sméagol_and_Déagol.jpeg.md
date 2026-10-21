@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Sméagol and Déagol.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Sméagol and Déagol.jpeg</span>"
 page_id: 71732
 namespace: 6
 revision_id: 427493
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Sméagol](/wiki/Gollum "Gollum") and [Déagol](/wiki/D%C3%A9agol)" by [Cor Blok](/wiki/Cor_Blok).
+"[Sméagol](../../main/G/Gollum.md) and [Déagol](../../main/D/Déagol.md)" by [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Licensing {#Licensing}
 

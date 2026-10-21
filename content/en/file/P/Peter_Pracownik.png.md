@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik.png</span>"
 page_id: 71274
 namespace: 6
 revision_id: 425227
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photo of [Peter Pracownik](/wiki/Peter_Pracownik) - Source: <a class="external autonumber" href="https://www.dailymail.co.uk/news/article-12613665/cornwall-trevalga-sold-william-pears-group-locals-fear.htmlm" rel="noreferrer noopener" target="_blank">[1]</a>
+Photo of [Peter Pracownik](../../main/P/Peter_Pracownik.md) - Source: <a class="external autonumber" href="https://www.dailymail.co.uk/news/article-12613665/cornwall-trevalga-sold-william-pears-group-locals-fear.htmlm" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

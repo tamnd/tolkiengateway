@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Airefëa"
 ---
 
-Redirect to [Airefëa](/wiki/Airefëa).
+Redirect to [Airefëa](../A/Airefëa.md).

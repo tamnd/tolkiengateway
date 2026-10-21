@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Immortality"
 ---
 
-Redirect to [Immortality](/wiki/Immortality).
+Redirect to [Immortality](Immortality.md).

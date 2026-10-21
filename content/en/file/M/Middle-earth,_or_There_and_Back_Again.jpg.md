@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth, or There and Back Again.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth, or There and Back Again.jpg</span>"
 page_id: 57914
 namespace: 6
 revision_id: 388964
@@ -25,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Cover of *[Middle-earth, or There and Back Again](/wiki/Middle-earth,_or_There_and_Back_Again)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). Cover illustration by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[Middle-earth, or There and Back Again](../../main/M/Middle-earth,_or_There_and_Back_Again.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). Cover illustration by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbit-holes"
 ---
 
-Redirect to [Hobbit-holes](/wiki/Hobbit-holes).
+Redirect to [Hobbit-holes](Hobbit-holes.md).

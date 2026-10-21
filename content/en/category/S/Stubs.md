@@ -1,6 +1,5 @@
 ---
 title: "Category:Stubs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stubs</span>"
 page_id: 15773
 namespace: 14
 revision_id: 72622

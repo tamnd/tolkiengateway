@@ -17,20 +17,20 @@ categories:
 
 ## Etymology {#Etymology}
 
-Derived from a stem <a class="new" href="/w/index.php?title=WIL&amp;action=edit&amp;redlink=1" title="WIL (page does not exist)">WIL</a> "fly, float in air"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Derived from a stem <a class="new" href="https://tolkiengateway.net/w/index.php?title=WIL&amp;action=edit&amp;redlink=1" title="WIL (page does not exist)">WIL</a> "fly, float in air"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-According to the examples found in the essay *[Quendi and Eldar](/wiki/Quendi_and_Eldar)* [Helge Fauskanger](/wiki/Helge_Fauskanger) observes that Quenya *w* becomes *u* in Telerin, instead of *v* and *vilverin* should actually read \**vilvarin*
+According to the examples found in the essay *[Quendi and Eldar](../Q/Quendi_and_Eldar.md)* [Helge Fauskanger](../H/Helge_Fauskanger.md) observes that Quenya *w* becomes *u* in Telerin, instead of *v* and *vilverin* should actually read \**vilvarin*
 
 ## See also {#See_also}
 
-- [wilwarin](/wiki/Wilwarin "Wilwarin")
-- <a class="new" href="/w/index.php?title=Gwilgwileth&amp;action=edit&amp;redlink=1" title="Gwilgwileth (page does not exist)">gwilgwileth</a>
+- [wilwarin](../W/Wilwarin.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwilgwileth&amp;action=edit&amp;redlink=1" title="Gwilgwileth (page does not exist)">gwilgwileth</a>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/The_Etymologies" title="The Etymologies">Etymologies</a> p.398</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../T/The_Etymologies.md" title="The Etymologies">Etymologies</a> p.398</span>
 </li>
 </ol></div>

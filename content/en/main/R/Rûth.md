@@ -15,19 +15,19 @@ sort_keys:
   "Sindarin nouns": "Ruth"
 ---
 
-<i><b>rûth</b></i> is a noun meaning "anger" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-SApp_1-0" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
+<i><b>rûth</b></i> is a noun meaning "anger" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-SApp_1-0" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
 
 ## Example {#Example}
 
-- <i><a href="/wiki/Aranr%C3%BAth" title="Aranrúth">Aran<b>rúth</b></a></i> ("King's Ire")<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a href="../A/Aranrúth.md" title="Aranrúth">Aran<b>rúth</b></a></i> ("King's Ire")<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-SApp-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SApp_1-0">1.0</a></sup> <sup><a href="#cite_ref-SApp_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
+<li id="cite_note-SApp-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SApp_1-0">1.0</a></sup> <sup><a href="#cite_ref-SApp_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
 </li>
 </ol></div>

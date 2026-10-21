@@ -15,26 +15,26 @@ sort_keys:
   "Sindarin nouns": "Dun"
 ---
 
-<i><b>dûn</b></i> is a noun meaning "west" in [Sindarin](/wiki/Sindarin).
+<i><b>dûn</b></i> is a noun meaning "west" in [Sindarin](../S/Sindarin.md).
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=ND%C3%9A&amp;action=edit&amp;redlink=1" title="NDÚ (page does not exist)">NDÚ</a>.
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ND%C3%9A&amp;action=edit&amp;redlink=1" title="NDÚ (page does not exist)">NDÚ</a>.
 
 ## See also {#See_also}
 
-- [**Dún**edain](/wiki/D%C3%BAnedain "Dúnedain") = "Men of the West"
-- [Nan **Dun**gortheb](/wiki/Nan_Dungortheb "Nan Dungortheb") = "Valley of the Horrible West"
-- [annún](/wiki/Ann%C3%BBn "Annûn")
+- [**Dún**edain](Dúnedain.md) = "Men of the West"
+- [Nan **Dun**gortheb](../N/Nan_Dungortheb.md) = "Valley of the Horrible West"
+- [annún](../A/Annûn.md)
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya): *[númen](/wiki/N%C3%BAmen "Númen")*
-- [Adûnaic](/wiki/Ad%C3%BBnaic): *[adûn](/wiki/Ad%C3%BBn "Adûn")*
+- [Quenya](../Q/Quenya.md): *[númen](../N/Númen.md)*
+- [Adûnaic](../A/Adûnaic.md): *[adûn](../A/Adûn.md)*
 
 <span></span>
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](Didier_Willis.md)

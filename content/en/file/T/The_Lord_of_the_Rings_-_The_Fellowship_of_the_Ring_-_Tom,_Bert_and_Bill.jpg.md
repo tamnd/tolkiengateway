@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Tom, Bert and Bill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Tom, Bert and Bill.jpg</span>"
 page_id: 45531
 namespace: 6
 revision_id: 321705
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="mw-redirect mw-disambig" href="/wiki/Tom" title="Tom">Tom</a>, [Bert](/wiki/Bert), and [William](/wiki/William), turned to stone, in *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
+<a class="mw-redirect mw-disambig" href="../../main/T/Tom.md" title="Tom">Tom</a>, [Bert](../../main/B/Bert.md), and [William](../../main/W/William.md), turned to stone, in *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 ## Licensing {#Licensing}
 

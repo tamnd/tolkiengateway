@@ -1,6 +1,5 @@
 ---
 title: "Philip Mitchell"
-display_title: "<span class=\"mw-page-title-main\">Philip Mitchell</span>"
 page_id: 25503
 namespace: 0
 revision_id: 137736
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Mitchell, Philip"
 ---
 
-**Philip Mitchell** was a freelance programmer at [Melbourne House](/wiki/Melbourne_House), brought into the company on the recommendation of [Veronika Megler](/wiki/Veronika_Megler). He wrote the coding for the text-adventure video games *[The Hobbit](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)")*, *[Lord of the Rings: Game One](/wiki/Lord_of_the_Rings:_Game_One),*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Shadows of Mordor](/wiki/Shadows_of_Mordor).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and [Crack of Doom Software Adventure](/wiki/Crack_of_Doom_Software_Adventure).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+**Philip Mitchell** was a freelance programmer at [Melbourne House](../M/Melbourne_House.md), brought into the company on the recommendation of [Veronika Megler](../V/Veronika_Megler.md). He wrote the coding for the text-adventure video games *[The Hobbit](<../T/The_Hobbit_(1982_video_game).md>)*, *[Lord of the Rings: Game One](../L/Lord_of_the_Rings%253A_Game_One.md),*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Shadows of Mordor](../S/Shadows_of_Mordor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

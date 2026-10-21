@@ -1,6 +1,5 @@
 ---
 title: "File:Dark Minions Player Guide.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dark Minions Player Guide.png</span>"
 page_id: 35635
 namespace: 6
 revision_id: 356723

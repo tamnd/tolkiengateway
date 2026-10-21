@@ -1,6 +1,5 @@
 ---
 title: "File:ROTWK.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">ROTWK.jpg</span>"
 page_id: 22237
 namespace: 6
 revision_id: 329292

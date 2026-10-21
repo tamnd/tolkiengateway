@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Gandalf.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Gandalf.png](/wiki/File:The_Hobbit_(1967_film)_-_Gandalf.png).
+Redirect to [File:The Hobbit (1967 film) - Gandalf.png](<The_Hobbit_(1967_film)_-_Gandalf.png.md>).

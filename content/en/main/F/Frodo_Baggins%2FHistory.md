@@ -11,4 +11,4 @@ redirect_target: "Frodo Baggins"
 redirect_fragment: "History"
 ---
 
-Redirect to [Frodo Baggins](/wiki/Frodo_Baggins#History).
+Redirect to [Frodo Baggins](Frodo_Baggins.md#History).

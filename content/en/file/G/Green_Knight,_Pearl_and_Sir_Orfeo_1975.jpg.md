@@ -1,6 +1,5 @@
 ---
 title: "File:Green Knight, Pearl and Sir Orfeo 1975.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Green Knight, Pearl and Sir Orfeo 1975.jpg</span>"
 page_id: 18438
 namespace: 6
 revision_id: 351449

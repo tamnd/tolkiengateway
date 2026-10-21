@@ -1,6 +1,5 @@
 ---
 title: "File:Rebecca Knudson - Lothlórien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rebecca Knudson - Lothlórien.jpg</span>"
 page_id: 71374
 namespace: 6
 revision_id: 425859
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Rebecca Knudson</li>
 <li><b>Website:</b> <a class="external free" href="https://www.dailypaintworks.com/artists/rebecca-knudson-15512/bio" rel="noreferrer noopener" target="_blank">https://www.dailypaintworks.com/artists/rebecca-knudson-15512/bio</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Rebecca_Knudson" title="Tolkien Gateway:Copyrights/Rebecca Knudson">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRebecca_Knudson.md" title="Tolkien Gateway:Copyrights/Rebecca Knudson">Permission for use on Tolkien Gateway</a></b></li></ul></div>

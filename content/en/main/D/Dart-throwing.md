@@ -1,6 +1,5 @@
 ---
 title: "Dart-throwing"
-display_title: "<span class=\"mw-page-title-main\">Dart-throwing</span>"
 page_id: 40073
 namespace: 0
 revision_id: 201457
@@ -13,11 +12,11 @@ categories:
   - "Activities"
 ---
 
-**Dart-throwing** is a game which involves tossing darts at a target, which is often circular and awards points depending on where the darts land on the target. [Bilbo Baggins](/wiki/Bilbo_Baggins) enjoyed this game, which indicates that it was popular among [Hobbits](/wiki/Hobbits).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Dart-throwing** is a game which involves tossing darts at a target, which is often circular and awards points depending on where the darts land on the target. [Bilbo Baggins](../B/Bilbo_Baggins.md) enjoyed this game, which indicates that it was popular among [Hobbits](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</span>
 </li>
 </ol></div>

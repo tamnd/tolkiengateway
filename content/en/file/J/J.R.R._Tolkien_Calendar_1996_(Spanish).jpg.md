@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Calendar 1996 (Spanish).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Calendar 1996 (Spanish).jpg</span>"
 page_id: 51969
 namespace: 6
 revision_id: 282775

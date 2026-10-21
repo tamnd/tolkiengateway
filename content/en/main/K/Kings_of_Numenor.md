@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Númenor"
 ---
 
-Redirect to [King of Númenor](/wiki/King_of_Númenor).
+Redirect to [King of Númenor](King_of_Númenor.md).

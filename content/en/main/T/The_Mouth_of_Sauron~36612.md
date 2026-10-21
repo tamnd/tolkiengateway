@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouth of Sauron"
 ---
 
-Redirect to [Mouth of Sauron](/wiki/Mouth_of_Sauron).
+Redirect to [Mouth of Sauron](../M/Mouth_of_Sauron.md).

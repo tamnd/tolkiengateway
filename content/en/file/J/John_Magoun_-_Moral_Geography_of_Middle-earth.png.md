@@ -1,6 +1,5 @@
 ---
 title: "File:John Magoun - Moral Geography of Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Magoun - Moral Geography of Middle-earth.png</span>"
 page_id: 66735
 namespace: 6
 revision_id: 386585
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Moral geography map of Middle-earth made by John Magoun, first published in *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*.
+Moral geography map of Middle-earth made by John Magoun, first published in *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../../main/J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/4.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 4.0</a> License.

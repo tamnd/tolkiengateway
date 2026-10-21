@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin reviews"
 ---
 
-Redirect to [The Children of Húrin reviews](/wiki/The_Children_of_Húrin_reviews).
+Redirect to [The Children of Húrin reviews](The_Children_of_Húrin_reviews.md).

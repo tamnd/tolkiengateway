@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Suffield Family"
 ---
 
-Redirect to [Suffield Family](/wiki/Suffield_Family).
+Redirect to [Suffield Family](Suffield_Family.md).

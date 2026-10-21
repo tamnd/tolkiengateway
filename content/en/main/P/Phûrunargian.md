@@ -11,4 +11,4 @@ redirect_target: "Moria"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Moria](/wiki/Moria#Names).
+Redirect to [Moria](../M/Moria.md#Names).

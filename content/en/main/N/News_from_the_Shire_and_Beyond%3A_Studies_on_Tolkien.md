@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "News from the Shire and Beyond - Studies on Tolkien"
 ---
 
-Redirect to [News from the Shire and Beyond - Studies on Tolkien](/wiki/News_from_the_Shire_and_Beyond_-_Studies_on_Tolkien).
+Redirect to [News from the Shire and Beyond - Studies on Tolkien](News_from_the_Shire_and_Beyond_-_Studies_on_Tolkien.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Matěj Čadil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matěj Čadil.jpg</span>"
 page_id: 74236
 namespace: 6
 revision_id: 437505
@@ -30,7 +29,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Matěj Čadil.jpg</span></th>
 <td class="description">
-<p>Matěj Čadil wearing the official <a href="/wiki/Oxonmoot_2025" title="Oxonmoot 2025">Oxonmoot 2025</a> t-shirt that he designed.
+<p>Matěj Čadil wearing the official <a href="../../main/O/Oxonmoot_2025.md" title="Oxonmoot 2025">Oxonmoot 2025</a> t-shirt that he designed.
 </p>
 </td>
 </tr>
@@ -38,8 +37,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2025-10-10 15:12:47</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Matěj Čadil</td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="http://www.angrenost.cz/clanek.php?akce=clanek&amp;id=250" rel="noreferrer noopener" target="_blank">http://www.angrenost.cz/clanek.php?akce=clanek&amp;id=250</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

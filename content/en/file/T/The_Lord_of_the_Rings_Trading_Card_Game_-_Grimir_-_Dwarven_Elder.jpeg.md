@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Grimir - Dwarven Elder.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Grimir - Dwarven Elder.jpeg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Grimir_-_Dwarven_Elder.jpeg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Grimir - Dwarven Elder.jpeg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Grimir_-_Dwarven_Elder.jpeg.md).

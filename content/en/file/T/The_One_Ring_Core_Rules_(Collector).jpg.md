@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring Core Rules (Collector).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring Core Rules (Collector).jpg</span>"
 page_id: 75022
 namespace: 6
 revision_id: 441757
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://freeleaguepublishing.com/press/" rel="noreferrer noopener" target="_blank">Free League Press Material</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

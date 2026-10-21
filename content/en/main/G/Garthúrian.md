@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthórien"
 ---
 
-Redirect to [Arthórien](/wiki/Arthórien).
+Redirect to [Arthórien](../A/Arthórien.md).

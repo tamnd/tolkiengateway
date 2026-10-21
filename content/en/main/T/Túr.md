@@ -15,38 +15,38 @@ sort_keys:
   "Noldorin nouns": "Tur"
 ---
 
-<i><b>túr</b></i> is a [Noldorin](/wiki/Noldorin) noun meaning "mastery, victory".<sup id="cite_ref-LR395_1-0" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup><sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
+<i><b>túr</b></i> is a [Noldorin](../N/Noldorin.md) noun meaning "mastery, victory".<sup id="cite_ref-LR395_1-0" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup><sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
-[David Salo](/wiki/David_Salo) has suggested that the form *tûr* (retaining the same meaning) could be valid [Neo-Sindarin](/wiki/Neo-Elvish "Neo-Elvish").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[David Salo](../D/David_Salo.md) has suggested that the form *tûr* (retaining the same meaning) could be valid [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [TUR](/wiki/TUR)<sup id="cite_ref-LR395_1-1" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) [TUR](TUR~21398.md)<sup id="cite_ref-LR395_1-1" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *túre*<sup id="cite_ref-LR395_1-2" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md) *túre*<sup id="cite_ref-LR395_1-2" class="reference"><a href="#cite_note-LR395-1">[1]</a></sup>
 
 ## Other versions of the legendarium {#Other_versions_of_the_legendarium}
 
-*túr* was erroneously rendered as *tûr* in the [*Etymologies*](/wiki/The_Etymologies "The Etymologies").<sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
+*túr* was erroneously rendered as *tûr* in the [*Etymologies*](The_Etymologies.md).<sup id="cite_ref-VT46_2-1" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Tuor](/wiki/Tuor)
-- [Turgon](/wiki/Turgon)
-- [Túrin](/wiki/T%C3%BArin)
-- *[taur](/wiki/Taur "Taur")*
+- [Tuor](Tuor.md)
+- [Turgon](Turgon.md)
+- [Túrin](Túrin.md)
+- *[taur](Taur.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR395-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR395_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR395_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR395_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34; , p. 395.</span>
+<li id="cite_note-LR395-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR395_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR395_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR395_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34; , p. 395.</span>
 </li>
-<li id="cite_note-VT46-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT46_2-0">2.0</a></sup> <sup><a href="#cite_ref-VT46_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_46" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 20</span>
+<li id="cite_note-VT46-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT46_2-0">2.0</a></sup> <sup><a href="#cite_ref-VT46_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 20</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/David_Salo" title="David Salo">David Salo</a> (<a href="/wiki/2004" title="2004">2004</a>), <i><a href="/wiki/A_Gateway_to_Sindarin" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, pp. 319, 335</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../D/David_Salo.md" title="David Salo">David Salo</a> (<a href="../_/2004.md" title="2004">2004</a>), <i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, pp. 319, 335</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chieftain of the Dúnedain"
 ---
 
-Redirect to [Chieftain of the Dúnedain](/wiki/Chieftain_of_the_Dúnedain).
+Redirect to [Chieftain of the Dúnedain](Chieftain_of_the_Dúnedain.md).

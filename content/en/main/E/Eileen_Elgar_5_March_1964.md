@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Eileen Elgar (5 March 1964)"
 ---
 
-Redirect to [Letter to Eileen Elgar (5 March 1964)](/wiki/Letter_to_Eileen_Elgar_(5_March_1964)).
+Redirect to [Letter to Eileen Elgar (5 March 1964)](<../L/Letter_to_Eileen_Elgar_(5_March_1964).md>).

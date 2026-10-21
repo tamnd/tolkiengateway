@@ -1,6 +1,5 @@
 ---
 title: "File:Nicholas Gregory - The Cape of Andrast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nicholas Gregory - The Cape of Andrast.jpg</span>"
 page_id: 71778
 namespace: 6
 revision_id: 427799
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Cape of Andrast](/wiki/Andrast "Andrast") - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Flight of the Stormcaller* illustration by Nicholas Gregory
+[The Cape of Andrast](../../main/A/Andrast.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Flight of the Stormcaller* illustration by Nicholas Gregory
 
 ## Licensing {#Licensing}
 

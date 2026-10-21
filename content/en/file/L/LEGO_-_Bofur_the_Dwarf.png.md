@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Bofur the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Bofur the Dwarf.png</span>"
 page_id: 73115
 namespace: 6
 revision_id: 432863
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bofur the Dwarf](/wiki/Bofur "Bofur") - [LEGO](/wiki/Lego "Lego") minifigure
+[Bofur the Dwarf](../../main/B/Bofur.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

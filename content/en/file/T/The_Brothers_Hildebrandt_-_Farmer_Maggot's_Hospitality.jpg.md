@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Farmer Maggot's Hospitality.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Farmer Maggot&#039;s Hospitality.jpg</span>"
 page_id: 72357
 namespace: 6
 revision_id: 429930
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Farmer Maggot](/wiki/Farmer_Maggot)'s Hospitality" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"[Farmer Maggot](../../main/F/Farmer_Maggot.md)'s Hospitality" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

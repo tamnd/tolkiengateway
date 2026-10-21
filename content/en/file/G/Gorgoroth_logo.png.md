@@ -1,6 +1,5 @@
 ---
 title: "File:Gorgoroth logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gorgoroth logo.png</span>"
 page_id: 59410
 namespace: 6
 revision_id: 330499
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of [Gorgoroth (band)](</wiki/Gorgoroth_(band)>)
+Logo of [Gorgoroth (band)](<../../main/G/Gorgoroth_(band).md>)
 
 ## Licensing {#Licensing}
 

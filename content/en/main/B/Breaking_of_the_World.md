@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Downfall of Númenor"
 ---
 
-Redirect to [Downfall of Númenor](/wiki/Downfall_of_Númenor).
+Redirect to [Downfall of Númenor](../D/Downfall_of_Númenor.md).

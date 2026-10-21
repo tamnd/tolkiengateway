@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Watchtower of Ostirith"
 ---
 
-Redirect to [Watchtower of Ostirith](/wiki/Watchtower_of_Ostirith).
+Redirect to [Watchtower of Ostirith](../W/Watchtower_of_Ostirith.md).

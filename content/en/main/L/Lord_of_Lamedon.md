@@ -1,6 +1,5 @@
 ---
 title: "Lord of Lamedon"
-display_title: "<span class=\"mw-page-title-main\">Lord of Lamedon</span>"
 page_id: 56731
 namespace: 0
 revision_id: 406361
@@ -14,11 +13,11 @@ categories:
   - "Mannish titles"
 ---
 
-The **Lord of Lamedon** is the ruler of the [Gondorian](/wiki/Gondor "Gondor") province of [Lamedon](/wiki/Lamedon). During the [War of the Ring](/wiki/War_of_the_Ring) the Lord was [Angbor](/wiki/Angbor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+The **Lord of Lamedon** is the ruler of the [Gondorian](../G/Gondor.md) province of [Lamedon](Lamedon.md). During the [War of the Ring](../W/War_of_the_Ring.md) the Lord was [Angbor](../A/Angbor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Last_Debate" title="The Last Debate">The Last Debate</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Last_Debate.md" title="The Last Debate">The Last Debate</a>&#34;</span>
 </li>
 </ol></div>

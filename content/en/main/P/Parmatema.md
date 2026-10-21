@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parmatéma"
 ---
 
-Redirect to [Parmatéma](/wiki/Parmatéma).
+Redirect to [Parmatéma](Parmatéma.md).

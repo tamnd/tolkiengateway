@@ -1,6 +1,5 @@
 ---
 title: "File:LoTR ACG Banner.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LoTR ACG Banner.jpg</span>"
 page_id: 73050
 namespace: 6
 revision_id: 432523
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://store.playstation.com/product/EP4917-CUSA15795_00-LOTRLCG000000000" rel="noreferrer noopener" target="_blank">https://store.playstation.com/product/EP4917-CUSA15795_00-LOTRLCG000000000</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

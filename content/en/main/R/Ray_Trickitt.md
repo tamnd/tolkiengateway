@@ -1,6 +1,5 @@
 ---
 title: "Ray Trickitt"
-display_title: "<span class=\"mw-page-title-main\">Ray Trickitt</span>"
 page_id: 5250
 namespace: 0
 revision_id: 345058
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Trickitt, Ray"
 ---
 
-**Ray Trickitt** (born [March 5](/wiki/5_March "5 March"), [1962](/wiki/1962)) played [Bereg](</wiki/Bereg_(film_character)> "Bereg (film character)") in [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers).
+**Ray Trickitt** (born [March 5](../_/5_March.md), [1962](../_/1962.md)) played [Bereg](<../B/Bereg_(film_character).md>) in [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## External links {#External_links}
 

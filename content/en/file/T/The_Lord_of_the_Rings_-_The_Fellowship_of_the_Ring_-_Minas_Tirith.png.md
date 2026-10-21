@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Minas Tirith.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Minas Tirith.png</span>"
 page_id: 64138
 namespace: 6
 revision_id: 366535
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The city of [Minas Tirith](/wiki/Minas_Tirith) as depicted in the sunrise in a scene from [The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring).
+The city of [Minas Tirith](../../main/M/Minas_Tirith.md) as depicted in the sunrise in a scene from [The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
 
 ## Licensing {#Licensing}
 

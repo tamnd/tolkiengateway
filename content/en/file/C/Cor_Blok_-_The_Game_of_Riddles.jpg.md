@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - The Game of Riddles.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - The Game of Riddles.jpg</span>"
 page_id: 71570
 namespace: 6
 revision_id: 436011
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Game of Riddles](/wiki/Riddle-game "Riddle-game")" by [Cor Blok](/wiki/Cor_Blok).
+"[The Game of Riddles](../../main/R/Riddle-game.md)" by [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Perilous and Fair.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Perilous and Fair.jpg</span>"
 page_id: 49026
 namespace: 6
 revision_id: 263112

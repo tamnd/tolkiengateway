@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- War in the Nortgh - Farin (video game character).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- War in the Nortgh - Farin (video game character).png</span>"
 page_id: 37724
 namespace: 6
 revision_id: 181850
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept Art of [Farin](</wiki/Farin_(video_game_character)> "Farin (video game character)") for [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Concept Art of [Farin](<../../main/F/Farin_(video_game_character).md>) for [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Licensing {#Licensing}
 

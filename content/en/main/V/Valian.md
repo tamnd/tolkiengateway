@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valarin"
 ---
 
-Redirect to [Valarin](/wiki/Valarin).
+Redirect to [Valarin](Valarin.md).

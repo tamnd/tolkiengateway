@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Théodred.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Théodred.jpg</span>"
 page_id: 29783
 namespace: 6
 revision_id: 433616
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Théodred](/wiki/Th%C3%A9odred) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Théodred](../../main/T/Théodred.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

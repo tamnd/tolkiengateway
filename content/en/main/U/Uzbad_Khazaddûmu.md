@@ -11,4 +11,4 @@ redirect_target: "Lord of Moria"
 redirect_fragment: "Etymology and analysis"
 ---
 
-Redirect to [Lord of Moria](/wiki/Lord_of_Moria#Etymology_and_analysis).
+Redirect to [Lord of Moria](../L/Lord_of_Moria.md#Etymology_and_analysis).

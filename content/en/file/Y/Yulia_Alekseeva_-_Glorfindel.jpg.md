@@ -1,6 +1,5 @@
 ---
 title: "File:Yulia Alekseeva - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Yulia Alekseeva - Glorfindel.jpg</span>"
 page_id: 66218
 namespace: 6
 revision_id: 434670
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Yulia Alekseeva</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/gellihana-art" rel="noreferrer noopener" target="_blank">Yulia Alekseeva on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Yulia_Alekseeva" title="Tolkien Gateway:Copyrights/Yulia Alekseeva">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FYulia_Alekseeva.md" title="Tolkien Gateway:Copyrights/Yulia Alekseeva">Permission for use on Tolkien Gateway</a></b></li></ul></div>

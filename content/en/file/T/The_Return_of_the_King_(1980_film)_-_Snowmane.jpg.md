@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Snowmane.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Snowmane.jpg</span>"
 page_id: 71087
 namespace: 6
 revision_id: 424464
@@ -33,7 +32,7 @@ file:
 
 ## Summary {#Summary}
 
-[Théoden](/wiki/Th%C3%A9oden) on [Snowmane](/wiki/Snowmane) - *[The Return of the King](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")*
+[Théoden](../../main/T/Théoden.md) on [Snowmane](../../main/S/Snowmane.md) - *[The Return of the King](<../../main/T/The_Return_of_the_King_(1980_film).md>)*
 
 ## Licensing {#Licensing}
 

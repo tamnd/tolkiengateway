@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Aldo Katayanagi"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Aldo Katayanagi</span>"
 page_id: 71775
 namespace: 14
 revision_id: 435028

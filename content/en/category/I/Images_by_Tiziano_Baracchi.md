@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tiziano Baracchi"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tiziano Baracchi</span>"
 page_id: 72811
 namespace: 14
 revision_id: 431455
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Baracchi, Tiziano"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Tiziano_Baracchi&amp;action=edit&amp;redlink=1" title="Tiziano Baracchi (page does not exist)">Tiziano Baracchi</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tiziano_Baracchi&amp;action=edit&amp;redlink=1" title="Tiziano Baracchi (page does not exist)">Tiziano Baracchi</a></b>.

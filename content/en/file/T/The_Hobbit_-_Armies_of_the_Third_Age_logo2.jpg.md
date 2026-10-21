@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - Armies of the Third Age logo2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - Armies of the Third Age logo2.jpg</span>"
 page_id: 63696
 namespace: 6
 revision_id: 362946
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of the game [The Hobbit: Armies of The Third Age](/wiki/The_Hobbit:_Armies_of_The_Third_Age).
+Logo of the game [The Hobbit: Armies of The Third Age](../../main/T/The_Hobbit%253A_Armies_of_The_Third_Age.md).
 
 ## Licensing {#Licensing}
 

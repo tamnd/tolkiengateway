@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Máhanaxar"
 ---
 
-Redirect to [Máhanaxar](/wiki/Máhanaxar).
+Redirect to [Máhanaxar](../M/Máhanaxar.md).

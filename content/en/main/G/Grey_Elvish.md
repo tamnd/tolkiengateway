@@ -11,4 +11,4 @@ redirect_target: "Sindarin"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Sindarin](/wiki/Sindarin#Names).
+Redirect to [Sindarin](../S/Sindarin.md#Names).

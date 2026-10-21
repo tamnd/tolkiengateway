@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ekkaia"
 ---
 
-Redirect to [Ekkaia](/wiki/Ekkaia).
+Redirect to [Ekkaia](Ekkaia.md).

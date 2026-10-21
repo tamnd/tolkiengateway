@@ -1,6 +1,5 @@
 ---
 title: "File:The J.R.R. Tolkien Calendar 1975 (Canada).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The J.R.R. Tolkien Calendar 1975 (Canada).jpg</span>"
 page_id: 6496
 namespace: 6
 revision_id: 215531

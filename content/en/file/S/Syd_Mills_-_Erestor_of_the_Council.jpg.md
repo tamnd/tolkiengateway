@@ -1,6 +1,5 @@
 ---
 title: "File:Syd Mills - Erestor of the Council.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Syd Mills - Erestor of the Council.jpg</span>"
 page_id: 73968
 namespace: 6
 revision_id: 436540
@@ -32,26 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Syd Mills - Erestor of the Council.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Erestor" title="Erestor">Erestor</a> of <a href="/wiki/Council_of_Elrond" title="Council of Elrond">the Council</a></i>. Created for <i><a href="/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>
+<p><i><a href="../../main/E/Erestor.md" title="Erestor">Erestor</a> of <a href="../../main/C/Council_of_Elrond.md" title="Council of Elrond">the Council</a></i>. Created for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a></i>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=Syd_Mills&amp;action=edit&amp;redlink=1" title="Syd Mills (page does not exist)">Syd Mills</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Syd_Mills&amp;action=edit&amp;redlink=1" title="Syd Mills (page does not exist)">Syd Mills</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/vetyyr/status/1673433047046266881" rel="noreferrer noopener" target="_blank">https://x.com/vetyyr/status/1673433047046266881</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="/wiki/Middle-earth_Enterprises" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="../../main/M/Middle-earth_Enterprises.md" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

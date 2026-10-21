@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Treason of Isengard - Concept art Gollum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Treason of Isengard - Concept art Gollum.jpg</span>"
 page_id: 47646
 namespace: 6
 revision_id: 253707
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of [Gollum](/wiki/Gollum) in [The Lord of the Rings: The Treason of Isengard](/wiki/The_Lord_of_the_Rings:_The_Treason_of_Isengard).
+Concept art of [Gollum](../../main/G/Gollum.md) in [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 ## Licensing {#Licensing}
 

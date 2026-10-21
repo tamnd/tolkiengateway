@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower Hills"
 ---
 
-Redirect to [Tower Hills](/wiki/Tower_Hills).
+Redirect to [Tower Hills](../T/Tower_Hills.md).

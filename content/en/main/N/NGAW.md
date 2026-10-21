@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ÑGAW"
 ---
 
-Redirect to [ÑGAW](/wiki/ÑGAW).
+Redirect to [ÑGAW](../_/ÑGAW.md).

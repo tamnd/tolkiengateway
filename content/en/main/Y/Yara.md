@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yára"
 ---
 
-Redirect to [Yára](/wiki/Yára).
+Redirect to [Yára](Yára.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Hope"
 ---
 
-Redirect to [Old Hope](/wiki/Old_Hope).
+Redirect to [Old Hope](../O/Old_Hope.md).

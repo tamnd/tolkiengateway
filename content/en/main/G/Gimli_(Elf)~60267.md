@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimli (elf)"
 ---
 
-Redirect to [Gimli (elf)](/wiki/Gimli_(elf)).
+Redirect to [Gimli (elf)](<Gimli_(elf).md>).

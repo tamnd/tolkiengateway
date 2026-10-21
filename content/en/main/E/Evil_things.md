@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Things of Morgoth"
 ---
 
-Redirect to [Things of Morgoth](/wiki/Things_of_Morgoth).
+Redirect to [Things of Morgoth](../T/Things_of_Morgoth.md).

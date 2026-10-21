@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Carandaith"
 ---
 
-Redirect to [Category:Carandaith](/wiki/Category:Carandaith).
+Redirect to [Category:Carandaith](Carandaith.md).

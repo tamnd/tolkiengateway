@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Justin Gerard"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Justin Gerard</span>"
 page_id: 64810
 namespace: 4
 revision_id: 373393
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gerard Justin"
 ---
 
-- [Justin Gerard](/wiki/Justin_Gerard) has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Justin_Gerard "Category:Images by Justin Gerard") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [May 17th](/wiki/May_17 "May 17"), [2023](/wiki/2023)
-- User who received the permission, via email: [User:Hyarion](/wiki/User:Hyarion)
+- [Justin Gerard](../../main/J/Justin_Gerard.md) has kindly granted permission to use [their artwork](../../category/I/Images_by_Justin_Gerard.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [May 17th](../../main/M/May_17.md), [2023](../../main/_/2023.md)
+- User who received the permission, via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

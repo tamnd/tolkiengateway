@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Monsters"
 ---
 
-Redirect to [Tolkien's Monsters](/wiki/Tolkien's_Monsters).
+Redirect to [Tolkien's Monsters](../T/Tolkien's_Monsters.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orodlin (disambiguation)"
 ---
 
-Redirect to [Orodlin (disambiguation)](/wiki/Orodlin_(disambiguation)).
+Redirect to [Orodlin (disambiguation)](<Orodlin_(disambiguation).md>).

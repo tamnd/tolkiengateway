@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 1999-34.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 1999-34.png</span>"
 page_id: 62601
 namespace: 6
 revision_id: 353620

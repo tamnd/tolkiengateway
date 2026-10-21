@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kalevala"
 ---
 
-Redirect to [Kalevala](/wiki/Kalevala).
+Redirect to [Kalevala](../K/Kalevala.md).

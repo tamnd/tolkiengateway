@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "The Founders' Inklings"
 ---
 
-<i><b>The Founders&#39; Inklings</b></i> is a podcast hosted by the founders of the [Middle-earth Network](/wiki/Middle-earth_Network). It is produced by [Middle-earth Network Radio](/wiki/Middle-earth_Network "Middle-earth Network").
+<i><b>The Founders&#39; Inklings</b></i> is a podcast hosted by the founders of the [Middle-earth Network](../M/Middle-earth_Network.md). It is produced by [Middle-earth Network Radio](../M/Middle-earth_Network.md).
 
 ## External links {#External_links}
 

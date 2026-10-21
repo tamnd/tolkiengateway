@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orc-hunters"
 ---
 
-Redirect to [Orc-hunters](/wiki/Orc-hunters).
+Redirect to [Orc-hunters](../O/Orc-hunters.md).

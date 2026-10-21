@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Huan"
 ---
 
-Redirect to [Huan](/wiki/Huan).
+Redirect to [Huan](Huan.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Dwarven titles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dwarven titles</span>"
 page_id: 59166
 namespace: 14
 revision_id: 337636

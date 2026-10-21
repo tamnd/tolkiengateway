@@ -1,6 +1,5 @@
 ---
 title: "Daran Norris"
-display_title: "<span class=\"mw-page-title-main\">Daran Norris</span>"
 page_id: 19199
 namespace: 0
 revision_id: 340005
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Norris, Daran"
 ---
 
-**Daran Morrison Nordlund** ([November 1](/wiki/1_November "1 November"), [1964](/wiki/1964)) is an American comedian, actor and voice actor. He appeared on screen in series as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Veronica_Mars" title="wikipedia:Veronica Mars">Veronica Mars</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ned%27s_Declassified_School_Survival_Guide" title="wikipedia:Ned&#39;s Declassified School Survival Guide">Ned&#39;s Declassified School Survival Guide</a></i>, while notable voice roles include Cosmo on <i><a class="extiw" href="http://en.wikipedia.org/wiki/Fairly_OddParents" title="wikipedia:Fairly OddParents">Fairly OddParents</a></i> and Dick Daring on <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Replacements_(TV_series)" title="wikipedia:The Replacements (TV series)">The Replacements</a></i>. From 1988 to 2012, he was married to [Mary Elizabeth McGlynn](/wiki/Mary_Elizabeth_McGlynn).
+**Daran Morrison Nordlund** ([November 1](../_/1_November.md), [1964](../_/1964.md)) is an American comedian, actor and voice actor. He appeared on screen in series as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Veronica_Mars" title="wikipedia:Veronica Mars">Veronica Mars</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Ned%27s_Declassified_School_Survival_Guide" title="wikipedia:Ned&#39;s Declassified School Survival Guide">Ned&#39;s Declassified School Survival Guide</a></i>, while notable voice roles include Cosmo on <i><a class="extiw" href="http://en.wikipedia.org/wiki/Fairly_OddParents" title="wikipedia:Fairly OddParents">Fairly OddParents</a></i> and Dick Daring on <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Replacements_(TV_series)" title="wikipedia:The Replacements (TV series)">The Replacements</a></i>. From 1988 to 2012, he was married to [Mary Elizabeth McGlynn](../M/Mary_Elizabeth_McGlynn.md).
 
 ## Roles {#Roles}
 
-- [2003](/wiki/2003) - [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)") - [Gollum](/wiki/Gollum), [Bombur](/wiki/Bombur), additional voices
-- [2002](/wiki/2002) - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)") - [Aragorn](/wiki/Aragorn), [Tom Bombadil](/wiki/Tom_Bombadil)
+- [2003](../_/2003.md) - [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>) - [Gollum](../G/Gollum.md), [Bombur](../B/Bombur.md), additional voices
+- [2002](../_/2002.md) - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Aragorn](../A/Aragorn.md), [Tom Bombadil](../T/Tom_Bombadil.md)
 
 ## External links {#External_links}
 

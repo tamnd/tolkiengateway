@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Wizard's River-horses.jpg"
 ---
 
-Redirect to [File:Rob Alexander - Wizard's River-horses.jpg](/wiki/File:Rob_Alexander_-_Wizard's_River-horses.jpg).
+Redirect to [File:Rob Alexander - Wizard's River-horses.jpg](Rob_Alexander_-_Wizard's_River-horses.jpg.md).

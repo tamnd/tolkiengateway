@@ -1,6 +1,5 @@
 ---
 title: "Category:Book-specific"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Book-specific</span>"
 page_id: 26571
 namespace: 14
 revision_id: 128861
@@ -14,4 +13,4 @@ categories:
   - "Tolkien Gateway research"
 ---
 
-Articles and categories referring to specific [books by J.R.R. Tolkien](/wiki/Category:Books_by_J.R.R._Tolkien "Category:Books by J.R.R. Tolkien").
+Articles and categories referring to specific [books by J.R.R. Tolkien](Books_by_J.R.R._Tolkien.md).

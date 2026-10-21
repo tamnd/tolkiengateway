@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagorlad"
 ---
 
-Redirect to [Dagorlad](/wiki/Dagorlad).
+Redirect to [Dagorlad](../D/Dagorlad.md).

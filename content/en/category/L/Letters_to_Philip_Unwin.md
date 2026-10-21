@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Philip Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Philip Unwin</span>"
 page_id: 68549
 namespace: 14
 revision_id: 404166
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Unwin, Phillip"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Phillip_Unwin&amp;action=edit&amp;redlink=1" title="Phillip Unwin (page does not exist)">Phillip Unwin</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Phillip_Unwin&amp;action=edit&amp;redlink=1" title="Phillip Unwin (page does not exist)">Phillip Unwin</a>.

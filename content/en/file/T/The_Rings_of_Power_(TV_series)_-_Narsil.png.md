@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Narsil.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Narsil.png</span>"
 page_id: 74374
 namespace: 6
 revision_id: 438066
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Rings of Power (TV series) - Narsil.png</span></th>
 <td class="description">
-<p><a href="/wiki/Elendil" title="Elendil">Elendil</a> holding <a href="/wiki/Narsil" title="Narsil">Narsil</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a class="new" href="/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">Season 2</a><i>, episode 8 </i><a href="/wiki/Shadow_and_Flame_(episode)" title="Shadow and Flame (episode)">Shadow and Flame</a><i></i>
+<p><a href="../../main/E/Elendil.md" title="Elendil">Elendil</a> holding <a href="../../main/N/Narsil.md" title="Narsil">Narsil</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">Season 2</a><i>, episode 8 </i><a href="../../main/S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">Shadow and Flame</a><i></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/3_October" title="3 October">3 October</a> <a href="/wiki/2024" title="2024">2024</a></td>
+<td><a href="../../main/_/3_October.md" title="3 October">3 October</a> <a href="../../main/_/2024.md" title="2024">2024</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.cap-that.com/lord-of-the-rings/rings-of-power/208/?page=15" rel="noreferrer noopener" target="_blank">https://www.cap-that.com/lord-of-the-rings/rings-of-power/208/?page=15</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Robert E. Howard"
 ---
 
-Redirect to [Robert E. Howard](/wiki/Robert_E._Howard).
+Redirect to [Robert E. Howard](Robert_E._Howard.md).

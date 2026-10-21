@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (son of Calmacil)"
 ---
 
-Redirect to [Calimehtar (son of Calmacil)](/wiki/Calimehtar_(son_of_Calmacil)).
+Redirect to [Calimehtar (son of Calmacil)](<Calimehtar_(son_of_Calmacil).md>).

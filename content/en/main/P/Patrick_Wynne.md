@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Patrick H. Wynne"
 ---
 
-Redirect to [Patrick H. Wynne](/wiki/Patrick_H._Wynne).
+Redirect to [Patrick H. Wynne](Patrick_H._Wynne.md).

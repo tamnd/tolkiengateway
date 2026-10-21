@@ -1,6 +1,5 @@
 ---
 title: "Harry Holm"
-display_title: "<span class=\"mw-page-title-main\">Harry Holm</span>"
 page_id: 19214
 namespace: 0
 revision_id: 115848
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Holm, Harry"
 ---
 
-**Harry Holm** is the son of [Ian Holm](/wiki/Ian_Holm). His crying can be heard in the [radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, where he is credited as [Elanor Fairbairns](/wiki/Elanor_Gardner "Elanor Gardner").
+**Harry Holm** is the son of [Ian Holm](../I/Ian_Holm.md). His crying can be heard in the [radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, where he is credited as [Elanor Fairbairns](../E/Elanor_Gardner.md).
 
 ## External links {#External_links}
 

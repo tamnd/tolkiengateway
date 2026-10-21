@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Duilin.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Duilin.png</span>"
 page_id: 56296
 namespace: 6
 revision_id: 318477
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Duilin of Gondolin](/wiki/Duilin_of_Gondolin), lord of the [House of the Swallow](/wiki/House_of_the_Swallow).
+Image of [Duilin of Gondolin](../../main/D/Duilin_of_Gondolin.md), lord of the [House of the Swallow](../../main/H/House_of_the_Swallow.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Image of [Duilin of Gondolin](/wiki/Duilin_of_Gondolin), lord of the [House of t
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

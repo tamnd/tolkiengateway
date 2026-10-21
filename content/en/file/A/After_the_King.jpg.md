@@ -1,6 +1,5 @@
 ---
 title: "File:After the King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">After the King.jpg</span>"
 page_id: 28847
 namespace: 6
 revision_id: 213961

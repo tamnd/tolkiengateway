@@ -16,11 +16,11 @@ images:
   - "The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg"><img src="/w/images/thumb/8/89/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="/w/images/8/89/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg 1.5x" data-file-width="353" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/89/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/89/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.jpg 1.5x" data-file-width="353" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Art of the Brothers Hildebrandt 2005 Calendar** was produced by Entertainment Calendar, LLC and contains sketches and photos by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt) which were saved from 1979.
+**The Tolkien Art of the Brothers Hildebrandt 2005 Calendar** was produced by Entertainment Calendar, LLC and contains sketches and photos by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md) which were saved from 1979.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1587740559">ISBN 1-58774-055-9</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1587740559">ISBN 1-58774-055-9</a>
 - Dimensions: 12 x 12 inches
 - Stapled
 - Punched hanging hole

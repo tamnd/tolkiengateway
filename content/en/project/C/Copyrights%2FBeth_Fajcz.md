@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Beth Fajcz"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Beth Fajcz</span>"
 page_id: 74986
 namespace: 4
 revision_id: 441394
@@ -15,5 +14,5 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fajcz, Beth"
 ---
 
-- [Beth Fajcz](/wiki/Beth_Fajcz) has kindly granted their permission to use [her artwork](/wiki/Category:Images_by_Beth_Fajcz "Category:Images by Beth Fajcz") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [19 August](/wiki/19_August) [2026](/wiki/2026)
+- [Beth Fajcz](../../main/B/Beth_Fajcz.md) has kindly granted their permission to use [her artwork](../../category/I/Images_by_Beth_Fajcz.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [19 August](../../main/_/19_August.md) [2026](../../main/_/2026.md)

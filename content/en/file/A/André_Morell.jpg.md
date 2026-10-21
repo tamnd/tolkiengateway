@@ -1,6 +1,5 @@
 ---
 title: "File:André Morell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">André Morell.jpg</span>"
 page_id: 9704
 namespace: 6
 revision_id: 248847

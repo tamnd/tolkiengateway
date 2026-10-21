@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragon-helm of Dor-lómin"
 ---
 
-Redirect to [Dragon-helm of Dor-lómin](/wiki/Dragon-helm_of_Dor-lómin).
+Redirect to [Dragon-helm of Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md).

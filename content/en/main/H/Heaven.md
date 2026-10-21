@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Menel"
 ---
 
-Redirect to [Menel](/wiki/Menel).
+Redirect to [Menel](../M/Menel.md).

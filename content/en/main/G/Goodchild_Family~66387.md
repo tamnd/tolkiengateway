@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goodchild family"
 ---
 
-Redirect to [Goodchild family](/wiki/Goodchild_family).
+Redirect to [Goodchild family](Goodchild_family.md).

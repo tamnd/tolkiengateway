@@ -1,6 +1,5 @@
 ---
 title: "Category:Exhibition catalogues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Exhibition catalogues</span>"
 page_id: 28277
 namespace: 14
 revision_id: 365030
@@ -13,4 +12,4 @@ categories:
   - "Catalogues"
 ---
 
-All published exhibition catalogues from some of the [Tolkien exhibitions](/wiki/Tolkien_exhibitions).
+All published exhibition catalogues from some of the [Tolkien exhibitions](../../main/T/Tolkien_exhibitions.md).

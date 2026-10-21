@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Land"
 ---
 
-Redirect to [Dark Land](/wiki/Dark_Land).
+Redirect to [Dark Land](../D/Dark_Land.md).

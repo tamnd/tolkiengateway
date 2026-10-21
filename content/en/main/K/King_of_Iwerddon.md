@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The King of the Green Dozen"
 ---
 
-Redirect to [The King of the Green Dozen](/wiki/The_King_of_the_Green_Dozen).
+Redirect to [The King of the Green Dozen](../T/The_King_of_the_Green_Dozen.md).

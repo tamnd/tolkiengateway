@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Joy Hill"
 ---
 
-Redirect to [Joy Hill](/wiki/Joy_Hill).
+Redirect to [Joy Hill](../J/Joy_Hill.md).

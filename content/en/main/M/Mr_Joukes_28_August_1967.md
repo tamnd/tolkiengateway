@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mr Joukes"
 ---
 
-Redirect to [Letter to Mr Joukes](/wiki/Letter_to_Mr_Joukes).
+Redirect to [Letter to Mr Joukes](../L/Letter_to_Mr_Joukes.md).

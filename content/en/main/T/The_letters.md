@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Letters of J.R.R. Tolkien"
 ---
 
-Redirect to [The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien).
+Redirect to [The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md).

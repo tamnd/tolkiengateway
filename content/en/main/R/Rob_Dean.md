@@ -1,6 +1,5 @@
 ---
 title: "Rob Dean"
-display_title: "<span class=\"mw-page-title-main\">Rob Dean</span>"
 page_id: 22793
 namespace: 0
 revision_id: 229924
@@ -19,9 +18,9 @@ sort_keys:
   "People of unknown nationality": "Dean, Rob"
 ---
 
-**Rob Dean** is an actor. He played several parts in [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-games.
+**Rob Dean** is an actor. He played several parts in [Tolkien](../J/J.R.R._Tolkien.md)-games.
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)* - [Azog](/wiki/Azog), Additional voices
-- [2003](/wiki/2003): [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)") - Additional voice talent
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* - [Azog](../A/Azog.md), Additional voices
+- [2003](../_/2003.md): [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>) - Additional voice talent

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Gelion-Ascar stockade"
 ---
 
-Redirect to [Battle of the Gelion-Ascar stockade](/wiki/Battle_of_the_Gelion-Ascar_stockade).
+Redirect to [Battle of the Gelion-Ascar stockade](Battle_of_the_Gelion-Ascar_stockade.md).

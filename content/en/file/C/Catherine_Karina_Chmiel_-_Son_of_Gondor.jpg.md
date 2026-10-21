@@ -1,6 +1,5 @@
 ---
 title: "File:Catherine Karina Chmiel - Son of Gondor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Catherine Karina Chmiel - Son of Gondor.jpg</span>"
 page_id: 66499
 namespace: 6
 revision_id: 402672
@@ -27,13 +26,13 @@ file:
 
 ## Summary {#Summary}
 
-"*[Son of Gondor](/wiki/Boromir "Boromir")*", by [Catherine Karina Chmiel](/wiki/Catherine_Karina_Chmiel)
+"*[Son of Gondor](../../main/B/Boromir.md)*", by [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md)
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Catherine Karina Chmiel</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Catherine_Karina_Chmiel" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/C/Catherine_Karina_Chmiel.md" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Catherine_Karina_Chmiel" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a></li>
+<ul><li><b>Name:</b> <a href="../../main/C/Catherine_Karina_Chmiel.md" title="Catherine Karina Chmiel">Catherine Karina Chmiel</a></li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/theArtOfKasiopea/" rel="noreferrer noopener" target="_blank">The Art of Katarzyna Chmiel-Gugulska at Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Catherine_Karina_Chmiel" title="Tolkien Gateway:Copyrights/Catherine Karina Chmiel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCatherine_Karina_Chmiel.md" title="Tolkien Gateway:Copyrights/Catherine Karina Chmiel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

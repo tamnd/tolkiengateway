@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Swanfleet"
 ---
 
-Redirect to [Swanfleet](/wiki/Swanfleet).
+Redirect to [Swanfleet](../S/Swanfleet.md).

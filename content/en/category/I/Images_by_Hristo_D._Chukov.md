@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Hristo D. Chukov"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Hristo D. Chukov</span>"
 page_id: 72787
 namespace: 14
 revision_id: 431431
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Chukov, Hristo D."
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Hristo_D._Chukov&amp;action=edit&amp;redlink=1" title="Hristo D. Chukov (page does not exist)">Hristo D. Chukov</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hristo_D._Chukov&amp;action=edit&amp;redlink=1" title="Hristo D. Chukov (page does not exist)">Hristo D. Chukov</a></b>.

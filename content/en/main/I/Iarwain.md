@@ -11,4 +11,4 @@ redirect_target: "Tom Bombadil"
 redirect_fragment: "Etymology and other names"
 ---
 
-Redirect to [Tom Bombadil](/wiki/Tom_Bombadil#Etymology_and_other_names).
+Redirect to [Tom Bombadil](../T/Tom_Bombadil.md#Etymology_and_other_names).

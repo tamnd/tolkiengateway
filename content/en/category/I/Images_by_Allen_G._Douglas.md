@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Allen G. Douglas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Allen G. Douglas</span>"
 page_id: 72695
 namespace: 14
 revision_id: 431207
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Douglas, Allen G."
 ---
 
-This category lists all **images by [Allen G. Douglas](/wiki/Allen_G._Douglas)**.
+This category lists all **images by [Allen G. Douglas](../../main/A/Allen_G._Douglas.md)**.

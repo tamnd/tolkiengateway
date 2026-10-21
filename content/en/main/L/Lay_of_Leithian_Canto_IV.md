@@ -1,6 +1,5 @@
 ---
 title: "Lay of Leithian Canto IV"
-display_title: "<span class=\"mw-page-title-main\">Lay of Leithian Canto IV</span>"
 page_id: 8269
 namespace: 0
 revision_id: 311207
@@ -17,30 +16,29 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="/wiki/Lay_of_Leithian" title="Lay of Leithian">Lay of Leithian</a> cantos
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> cantos
 </th></tr>
-<!-- -->
 <tr>
 <td>
-<ol><li><b><a href="/wiki/Lay_of_Leithian_Canto_I" title="Lay of Leithian Canto I">Canto I</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_II" title="Lay of Leithian Canto II">Canto II</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_III" title="Lay of Leithian Canto III">Canto III</a></b></li>
+<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Canto II</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Canto III</a></b></li>
 <li><b><a class="mw-selflink selflink">Canto IV</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_V" title="Lay of Leithian Canto V">Canto V</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_VI" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_VII" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_VIII" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_IX" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_X" title="Lay of Leithian Canto X">Canto X</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_XI" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_XII" title="Lay of Leithian Canto XII">Canto XII</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_XIII" title="Lay of Leithian Canto XIII">Canto XIII</a></b></li>
-<li><b><a href="/wiki/Lay_of_Leithian_Canto_XIV" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
+<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Canto V</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Canto X</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Canto XII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Canto XIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg"><img src="/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/250px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/375px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 1.5x, /w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/500px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 2x" data-file-width="855" data-file-height="490"/></a><figcaption><i>Beren&#39;s Trial</i> by <a href="/wiki/Anke_Ei%C3%9Fmann" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Beren&#39;s_Trial.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/250px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/375px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/500px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 2x" data-file-width="855" data-file-height="490"/></a><figcaption><i>Beren&#39;s Trial</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-This [Canto](/wiki/Cantos_of_the_Lay_of_Leithian "Cantos of the Lay of Leithian") first speaks of [Beren](/wiki/Beren) and his bliss. Then it tells of [Lúthien](/wiki/L%C3%BAthien)’s return and their dance, and how [Dairon](/wiki/Daeron "Daeron") espied them, and as he loved Lúthien he betrayed them to [Thingol](/wiki/Thingol). Then how Lúthien led Beren into [Menegroth](/wiki/Menegroth) after Thingol promised her that his life would be spared. There he requested the hand of Lúthien, and Thingol, as he was bound to his oath not to harm Beren, in his wrath gave the bride-price as a [Silmaril](/wiki/Silmarils "Silmarils"). Then Beren laughed as if it were a small thing, and left the hall with the promise to bring one back. This fourth canto can be considered the true beginning of the [Quest](/wiki/Quest_for_the_Silmaril "Quest for the Silmaril").
+This [Canto](../C/Cantos_of_the_Lay_of_Leithian.md) first speaks of [Beren](../B/Beren.md) and his bliss. Then it tells of [Lúthien](Lúthien.md)’s return and their dance, and how [Dairon](../D/Daeron.md) espied them, and as he loved Lúthien he betrayed them to [Thingol](../T/Thingol.md). Then how Lúthien led Beren into [Menegroth](../M/Menegroth.md) after Thingol promised her that his life would be spared. There he requested the hand of Lúthien, and Thingol, as he was bound to his oath not to harm Beren, in his wrath gave the bride-price as a [Silmaril](../S/Silmarils.md). Then Beren laughed as if it were a small thing, and left the hall with the promise to bring one back. This fourth canto can be considered the true beginning of the [Quest](../Q/Quest_for_the_Silmaril.md).
 
 ## Concerning the Canto {#Concerning_the_Canto}
 
@@ -55,8 +53,6 @@ enchanted of an elvish kiss
 <p class="tg-quote-footer"><cite>vv. 758-761</cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 Then they dance in joy together.
 
 <blockquote class="tg-quote noexcerpt">
@@ -68,13 +64,11 @@ For fain thy dancing I would see.&#39;
 <p class="tg-quote-footer"><cite>vv. 820-823</cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
 Then Dairon, who is said to have loved Lúthien, espies them.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Thus fleeting fast their short hour flies,<br/>
-while <a class="mw-redirect" href="/wiki/Dairon" title="Dairon">Dairon</a> watches with fiery eyes,<br/>
+while <a class="mw-redirect" href="../D/Dairon.md" title="Dairon">Dairon</a> watches with fiery eyes,<br/>
 haunting the gloom of tangled trees<br/>
 all day, until at night he sees<br/>
 in the fickle moon their moving feet,<br/>
@@ -82,8 +76,6 @@ two lovers linked in dancing sweet
 </p>
 <p class="tg-quote-footer"><cite>vv. 840-845</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 And he first casts a spell of silence on the wood, and gives hints to Thingol about the meeting.
 
@@ -94,8 +86,6 @@ Where one went lonely two now go!&#39;
 </p>
 <p class="tg-quote-footer"><cite>vv. 917-919</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 The King understands swiftly his meaning, and grows angry.
 
@@ -108,8 +98,6 @@ a stranger to both beech and oak?&#39;
 <p class="tg-quote-footer"><cite>vv. 922-925</cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
 Then Dairon saw Lúthien, and wished he had not spoken. Lúthien quickly explains.
 
 <blockquote class="tg-quote noexcerpt">
@@ -119,12 +107,10 @@ that groans beneath King Morgoth&#39;s hand.<br/>
 Thence came one hither, bent and warn<br/>
 in wars and travail, who had sworn<br/>
 undying hatred of that king;<br/>
-the last of <a href="/wiki/B%C3%ABor" title="Bëor">Bëor</a>&#39;s sons, they sing
+the last of <a href="../B/Bëor.md" title="Bëor">Bëor</a>&#39;s sons, they sing
 </p>
 <p class="tg-quote-footer"><cite>vv. 931-937</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;...a sword unconquered, neck unbowed,<br/>
@@ -135,9 +121,7 @@ of Beren son of Barahir!&#39;
 <p class="tg-quote-footer"><cite>vv. 942-945</cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-Lúthien had Thingol swear not to kill or imprison Beren, and then led him to and into Menegroth. A vibrant description follows (see *[Menegroth](/wiki/Menegroth)*). Beren was too stunned to answer any questions, until he looks in Melian's eyes and gains courage.
+Lúthien had Thingol swear not to kill or imprison Beren, and then led him to and into Menegroth. A vibrant description follows (see *[Menegroth](../M/Menegroth.md)*). Beren was too stunned to answer any questions, until he looks in Melian's eyes and gains courage.
 
 <blockquote class="tg-quote noexcerpt">
 <p>...and thence was slowly drawn his gaze<br/>
@@ -149,8 +133,6 @@ in his glance now gleamed an anger cold.
 </p>
 <p class="tg-quote-footer"><cite>vv. 1040-1045</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 He speaks bravely to Thingol about his love for Lúthien:
 
@@ -165,9 +147,7 @@ A daughter hast thou, Lúthien.&#39;
 <p class="tg-quote-footer"><cite>vv. 1050-1055</cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
-Daeron's initial anger returns and he demands death for Beren. Thingol reluctantly restrains himself due to his promise to his daughter, and threatens to let him wander interminably in Menegroth, never finding his way out of the caves. Beren openly compares him with Morgoth in the twisting of oaths, and holds up the [Ring of Barahir](/wiki/Ring_of_Barahir). Melian whispers to Thingol that it will not be by his hand Beren will fall, and Thingol sees then the love of Lúthien for him.
+Daeron's initial anger returns and he demands death for Beren. Thingol reluctantly restrains himself due to his promise to his daughter, and threatens to let him wander interminably in Menegroth, never finding his way out of the caves. Beren openly compares him with Morgoth in the twisting of oaths, and holds up the [Ring of Barahir](../R/Ring_of_Barahir.md). Melian whispers to Thingol that it will not be by his hand Beren will fall, and Thingol sees then the love of Lúthien for him.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Fairest of Elves! Unhappy Men,<br/>
@@ -177,8 +157,6 @@ shall they then look with love on thee?&#39;
 </p>
 <p class="tg-quote-footer"><cite>vv. 1113-1116</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 Thingol's speech mocks Beren's own as he places the ultimate quest before him.
 
@@ -196,8 +174,6 @@ then shalt thou have this jewel of mine.&#39;
 </p>
 <p class="tg-quote-footer"><cite>vv. 1122-1131</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 Follows is a paragraph about the history of the Silmaril, and then Beren laughs, and bids farewell to Tinúviel, and departs. Melian then gets her word in to Thingol.
 
@@ -221,8 +197,6 @@ or light of heaven&#39;s stars again.&#39;
 <p class="tg-quote-footer"><cite>vv. 1189-1202</cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
 The final three lines wrap up this extensive canto, sad and foreboding.
 
 <blockquote class="tg-quote noexcerpt">
@@ -232,5 +206,3 @@ for such is the sorrow of the wise.
 </p>
 <p class="tg-quote-footer"><cite>vv. 1203-1205</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>

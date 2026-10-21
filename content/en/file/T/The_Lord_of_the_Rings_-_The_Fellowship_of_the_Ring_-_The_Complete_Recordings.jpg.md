@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - The Complete Recordings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - The Complete Recordings.jpg</span>"
 page_id: 7052
 namespace: 6
 revision_id: 401681
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover of the box of CDs from [The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_The_Complete_Recordings).
+The cover of the box of CDs from [The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md).
 
 ## Licensing {#Licensing}
 

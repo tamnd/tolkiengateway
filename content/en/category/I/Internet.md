@@ -1,6 +1,5 @@
 ---
 title: "Category:Internet"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Internet</span>"
 page_id: 26615
 namespace: 14
 revision_id: 105608

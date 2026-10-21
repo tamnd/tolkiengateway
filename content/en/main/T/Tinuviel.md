@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tinúviel"
 ---
 
-Redirect to [Tinúviel](/wiki/Tinúviel).
+Redirect to [Tinúviel](Tinúviel.md).

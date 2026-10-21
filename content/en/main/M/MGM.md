@@ -1,6 +1,5 @@
 ---
 title: "MGM"
-display_title: "<span class=\"mw-page-title-main\">MGM</span>"
 page_id: 17708
 namespace: 0
 revision_id: 406425
@@ -16,13 +15,13 @@ images:
   - "MGM_-_logo.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:MGM_-_logo.jpg"><img src="/w/images/thumb/0/07/MGM_-_logo.jpg/200px-MGM_-_logo.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="/w/images/0/07/MGM_-_logo.jpg 1.5x" data-file-width="300" data-file-height="169"/></a><figcaption>MGM&#39;s current logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MGM_-_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/MGM_-_logo.jpg/200px-MGM_-_logo.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/07/MGM_-_logo.jpg 1.5x" data-file-width="300" data-file-height="169"/></a><figcaption>MGM&#39;s current logo</figcaption></figure>
 
 **Metro-Goldwyn-Mayer Inc.**, or MGM, is a motion picture company.
 
-MGM, through its subsidiary [United Artists](/wiki/United_Artists), owns the distribution rights (but not the production rights) to screen adaptations of *[The Hobbit](/wiki/The_Hobbit)*. The company's precarious financial situation caused delays to [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)"), which it was under contract to co-finance, as well as the departure of its initially planned director [Guillermo del Toro](/wiki/Guillermo_del_Toro) from the project.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However, at the same year, the project was grreenlighted through co-operation with [Warner Bros](/wiki/Warner_Bros. "Warner Bros.") and the project was finally made as a trilogy, where [Peter Jackson](/wiki/Peter_Jackson) directed it.
+MGM, through its subsidiary [United Artists](../U/United_Artists.md), owns the distribution rights (but not the production rights) to screen adaptations of *[The Hobbit](../T/The_Hobbit.md)*. The company's precarious financial situation caused delays to [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>), which it was under contract to co-finance, as well as the departure of its initially planned director [Guillermo del Toro](../G/Guillermo_del_Toro.md) from the project.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However, at the same year, the project was grreenlighted through co-operation with [Warner Bros](../W/Warner_Bros..md) and the project was finally made as a trilogy, where [Peter Jackson](../P/Peter_Jackson.md) directed it.
 
-In March 2022, [Amazon](/wiki/Amazon.com_Incorporated "Amazon.com Incorporated") acquired MGM for $8.45 billion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In March 2022, [Amazon](../A/Amazon.com_Incorporated.md) acquired MGM for $8.45 billion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

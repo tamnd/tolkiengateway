@@ -1,6 +1,5 @@
 ---
 title: "File:Bo Hansson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bo Hansson.jpg</span>"
 page_id: 31779
 namespace: 6
 revision_id: 248899

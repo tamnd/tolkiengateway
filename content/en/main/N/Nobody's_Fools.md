@@ -1,6 +1,5 @@
 ---
 title: "Nobody's Fools"
-display_title: "<span class=\"mw-page-title-main\">Nobody&#039;s Fools</span>"
 page_id: 22833
 namespace: 0
 revision_id: 406804
@@ -14,7 +13,7 @@ categories:
   - "Rock music"
 ---
 
-**Nobody's Fools** is an Italian rock band that has released the full-length album *[Inspirations of the Middle Earth](/wiki/Inspirations_of_the_Middle_Earth)* in [2001](/wiki/2001).
+**Nobody's Fools** is an Italian rock band that has released the full-length album *[Inspirations of the Middle Earth](../I/Inspirations_of_the_Middle_Earth.md)* in [2001](../_/2001.md).
 
 ## Members {#Members}
 

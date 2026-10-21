@@ -1,6 +1,5 @@
 ---
 title: "Holbytla"
-display_title: "<span class=\"mw-page-title-main\">Holbytla</span>"
 page_id: 3465
 namespace: 0
 revision_id: 405870
@@ -23,17 +22,17 @@ langlinks:
     url: "https://kontu.wiki/Holbytla"
 ---
 
-**Holbytla** (pl. **Holbytlan**) means "hole-builder",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> the legendary creatures known among the [Northmen](/wiki/Northmen) and the [Rohirrim](/wiki/Rohirrim).
+**Holbytla** (pl. **Holbytlan**) means "hole-builder",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> the legendary creatures known among the [Northmen](../N/Northmen.md) and the [Rohirrim](../R/Rohirrim.md).
 
-The legend originated perhaps from the time when their ancestors, the [Éothéod](/wiki/%C3%89oth%C3%A9od) saw and knew the Hobbits from the [Vales of Anduin](/wiki/Vales_of_Anduin), before or around their [Wandering Days](/wiki/Wandering_Days). From 'Holbytla' the word '[Hobbit](/wiki/Hobbits "Hobbits")' in [Westron](/wiki/Westron) was derived.<sup id="cite_ref-Road_2-0" class="reference"><a href="#cite_note-Road-2">[2]</a></sup>
+The legend originated perhaps from the time when their ancestors, the [Éothéod](../_/Éothéod.md) saw and knew the Hobbits from the [Vales of Anduin](../V/Vales_of_Anduin.md), before or around their [Wandering Days](../W/Wandering_Days.md). From 'Holbytla' the word '[Hobbit](Hobbits.md)' in [Westron](../W/Westron.md) was derived.<sup id="cite_ref-Road_2-0" class="reference"><a href="#cite_note-Road-2">[2]</a></sup>
 
 There is only one tale about them, namely that they do not appear in any other tales. They do little, and avoid the sight of men, being able to vanish in a twinkling; and they can change their voices to resemble the piping of birds.
 
-When [Théoden](/wiki/Th%C3%A9oden) met [Peregrin Took](/wiki/Peregrin_Took) and [Meriadoc Brandybuck](/wiki/Meriadoc_Brandybuck) standing guard at [Isengard](/wiki/Isengard) on [5 March](/wiki/5_March), [T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019"),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> he immediately connected them to the folklore creature although he noted that they weren't known to [spout smoke](/wiki/Smoking "Smoking") from their mouths. He was corrected by Peregrin, who said that they preferred the term "[Hobbit](/wiki/Hobbits "Hobbits")"<sup id="cite_ref-Road_2-1" class="reference"><a href="#cite_note-Road-2">[2]</a></sup> (*[kuduk](/wiki/Kuduk "Kuduk")*).<sup id="cite_ref-Translation_4-0" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
+When [Théoden](../T/Théoden.md) met [Peregrin Took](../P/Peregrin_Took.md) and [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) standing guard at [Isengard](../I/Isengard.md) on [5 March](../_/5_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> he immediately connected them to the folklore creature although he noted that they weren't known to [spout smoke](../S/Smoking.md) from their mouths. He was corrected by Peregrin, who said that they preferred the term "[Hobbit](Hobbits.md)"<sup id="cite_ref-Road_2-1" class="reference"><a href="#cite_note-Road-2">[2]</a></sup> (*[kuduk](../K/Kuduk.md)*).<sup id="cite_ref-Translation_4-0" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Holbytla* is the [Old English](/wiki/Old_English) translation of [Rohanese](/wiki/Rohanese) *[Kûd-dûkan](/wiki/K%C3%BBd-d%C3%BBkan)* "hole-dweller", from which itself the word *[Kuduk](/wiki/Kuduk)* was derived.<sup id="cite_ref-Translation_4-1" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
+*Holbytla* is the [Old English](../O/Old_English.md) translation of [Rohanese](../R/Rohanese.md) *[Kûd-dûkan](../K/Kûd-dûkan.md)* "hole-dweller", from which itself the word *[Kuduk](../K/Kuduk.md)* was derived.<sup id="cite_ref-Translation_4-1" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
 
 Holbytla seems to be a retroactive etymology, invented to explain the word "hobbit", which of course was initially a spontaneous inspiration by Tolkien without an explanation behind it.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -42,14 +41,14 @@ Holbytla seems to be a retroactive etymology, invented to explain the word "hobb
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_F" title="Appendix F">Appendix F</a>, &#34;The Languages and Peoples of the Third Age&#34;, &#34;Of Hobbits&#34;.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_F.md" title="Appendix F">Appendix F</a>, &#34;The Languages and Peoples of the Third Age&#34;, &#34;Of Hobbits&#34;.</span>
 </li>
-<li id="cite_note-Road-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Road_2-0">2.0</a></sup> <sup><a href="#cite_ref-Road_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/The_Road_to_Isengard" title="The Road to Isengard">The Road to Isengard</a>&#34;</span>
+<li id="cite_note-Road-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Road_2-0">2.0</a></sup> <sup><a href="#cite_ref-Road_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Road_to_Isengard.md" title="The Road to Isengard">The Road to Isengard</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
 </li>
-<li id="cite_note-Translation-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Translation_4-0">4.0</a></sup> <sup><a href="#cite_ref-Translation_4-1">4.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_F" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
+<li id="cite_note-Translation-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Translation_4-0">4.0</a></sup> <sup><a href="#cite_ref-Translation_4-1">4.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_F.md" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="/wiki/J.R.R._Tolkien:_A_Biography" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i>, p. 172</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i>, p. 172</span>
 </li>
 </ol></div>

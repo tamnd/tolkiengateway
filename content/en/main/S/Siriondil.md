@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siriondil (disambiguation)"
 ---
 
-Redirect to [Siriondil (disambiguation)](/wiki/Siriondil_(disambiguation)).
+Redirect to [Siriondil (disambiguation)](<Siriondil_(disambiguation).md>).

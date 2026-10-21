@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - War in the North - Gwaihir.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - War in the North - Gwaihir.png</span>"
 page_id: 71538
 namespace: 6
 revision_id: 426582
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gwaihir](/wiki/Gwaihir) - *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)*
+[Gwaihir](../../main/G/Gwaihir.md) - *[The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*
 
 ## Licensing {#Licensing}
 

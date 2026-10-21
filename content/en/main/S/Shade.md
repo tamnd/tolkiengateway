@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wraiths"
 ---
 
-Redirect to [Wraiths](/wiki/Wraiths).
+Redirect to [Wraiths](../W/Wraiths.md).

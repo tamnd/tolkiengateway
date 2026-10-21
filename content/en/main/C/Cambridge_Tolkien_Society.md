@@ -1,6 +1,5 @@
 ---
 title: "Cambridge Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">Cambridge Tolkien Society</span>"
 page_id: 37005
 namespace: 0
 revision_id: 420279
@@ -14,7 +13,7 @@ categories:
   - "Smials"
 ---
 
-**The Cambridge Tolkien Society**, CTS, is a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") of [Cambridge](/wiki/Cambridge), England founded in 1983.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**The Cambridge Tolkien Society**, CTS, is a [Tolkien society](../T/Tolkien_Societies~67099.md) of [Cambridge](Cambridge.md), England founded in 1983.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Publications {#Publications}
 

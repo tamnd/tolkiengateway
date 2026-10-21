@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Eowyn and Faramir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Eowyn and Faramir.jpg</span>"
 page_id: 70275
 namespace: 6
 revision_id: 418042
@@ -28,17 +27,15 @@ file:
 
 ## Summary {#Summary}
 
-"*[Éowyn](/wiki/%C3%89owyn) and [Faramir](/wiki/Faramir)*", by [Elena Kukanova](/wiki/Elena_Kukanova)
+"*[Éowyn](../../main/_/Éowyn.md) and [Faramir](../../main/F/Faramir.md)*", by [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 <blockquote class="tg-quote noexcerpt">
 <p>‘Then you think that the Darkness is coming?’ said Éowyn. ‘Darkness Unescapable?’ And suddenly she drew close to him.
 </p><p>‘No,’ said Faramir, looking into her face. ‘It was but a picture in the mind. I do not know what is happening. The reason of my waking mind tells me that great evil has befallen and we stand at the end of days. But my heart says nay; and all my limbs are light, and a hope and joy are come to me that no reason can deny. Éowyn, Éowyn, White Lady of Rohan, in this hour I do not believe that any darkness will endure!’ And he stooped and kissed her brow.
 </p><p>And so they stood on the walls of the City of Gondor, and a great wind rose and blew, and their hair, raven and golden, streamed out mingling in the air. And the Shadow departed, and the Sun was unveiled, and light leaped forth; and the waters of Anduin shone like silver…
 </p>
-<p class="tg-quote-footer"><cite><i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Steward_and_the_King" title="The Steward and the King">The Steward and the King</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../../main/T/The_Steward_and_the_King.md" title="The Steward and the King">The Steward and the King</a>&#34;</cite></p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## Licensing {#Licensing}
 
@@ -47,4 +44,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s DeviantArt page</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

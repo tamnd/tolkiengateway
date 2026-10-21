@@ -1,6 +1,5 @@
 ---
 title: "File:Maria Lombide Ezpeleta - Varda.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maria Lombide Ezpeleta - Varda.jpg</span>"
 page_id: 51792
 namespace: 6
 revision_id: 282098
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> María Lombide Ezpeleta</li>
 <li><b>Website:</b> <a class="external text" href="http://www.maria-lombide-ezpeleta.com/" rel="noreferrer noopener" target="_blank">María Lombide Ezpeleta&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mar%C3%ADa_Lombide_Ezpeleta" title="Tolkien Gateway:Copyrights/María Lombide Ezpeleta">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMaría_Lombide_Ezpeleta.md" title="Tolkien Gateway:Copyrights/María Lombide Ezpeleta">Permission for use on Tolkien Gateway</a></b></li></ul></div>

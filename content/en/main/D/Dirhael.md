@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dírhael"
 ---
 
-Redirect to [Dírhael](/wiki/Dírhael).
+Redirect to [Dírhael](Dírhael.md).

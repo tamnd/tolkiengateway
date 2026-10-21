@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bombur"
 ---
 
-Redirect to [Bombur](/wiki/Bombur).
+Redirect to [Bombur](Bombur.md).

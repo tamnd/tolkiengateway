@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pine of Tavrobel"
 ---
 
-Redirect to [Pine of Tavrobel](/wiki/Pine_of_Tavrobel).
+Redirect to [Pine of Tavrobel](Pine_of_Tavrobel.md).

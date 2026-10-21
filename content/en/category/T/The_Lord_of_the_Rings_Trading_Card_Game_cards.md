@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings Trading Card Game cards"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game cards</span>"
 page_id: 12246
 namespace: 14
 revision_id: 432058
@@ -11,4 +10,4 @@ license: CC BY-SA 4.0
 source: Tolkien Gateway
 ---
 
-This category lists all **The Lord of the Rings Trading Card Game cards** from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)*.
+This category lists all **The Lord of the Rings Trading Card Game cards** from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)*.

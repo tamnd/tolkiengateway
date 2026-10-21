@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Secret Vice: Tolkien on Invented Languages"
 ---
 
-Redirect to [A Secret Vice: Tolkien on Invented Languages](/wiki/A_Secret_Vice:_Tolkien_on_Invented_Languages).
+Redirect to [A Secret Vice: Tolkien on Invented Languages](A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md).

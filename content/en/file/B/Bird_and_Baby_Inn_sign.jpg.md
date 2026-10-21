@@ -1,6 +1,5 @@
 ---
 title: "File:Bird and Baby Inn sign.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bird and Baby Inn sign.jpg</span>"
 page_id: 23911
 namespace: 6
 revision_id: 248485

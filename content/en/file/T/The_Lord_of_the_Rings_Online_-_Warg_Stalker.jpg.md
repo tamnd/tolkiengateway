@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Warg Stalker.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Warg Stalker.jpg</span>"
 page_id: 71307
 namespace: 6
 revision_id: 425423
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Warg](/wiki/Wargs "Wargs") Stalker - *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*
+[Warg](../../main/W/Wargs.md) Stalker - *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*
 
 ## Licensing {#Licensing}
 

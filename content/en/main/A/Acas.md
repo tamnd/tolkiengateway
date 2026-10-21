@@ -14,21 +14,21 @@ categories:
   - "Quenya body parts"
 ---
 
-<i><b>acas</b></i> (pl. <i><b>axi</b></i>) is a [Quenya](/wiki/Quenya) word meaning "(back) neck" and "rock ridge".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>acas</b></i> (pl. <i><b>axi</b></i>) is a [Quenya](../Q/Quenya.md) word meaning "(back) neck" and "rock ridge".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Other forms {#Other_forms}
 
-- <i><a class="new" href="/w/index.php?title=Ax%C3%AB&amp;action=edit&amp;redlink=1" title="Axë (page does not exist)">axë</a></i> - later form replacing *acas*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ax%C3%AB&amp;action=edit&amp;redlink=1" title="Axë (page does not exist)">axë</a></i> - later form replacing *acas*.
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Lango&amp;action=edit&amp;redlink=1" title="Lango (page does not exist)">lango</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lango&amp;action=edit&amp;redlink=1" title="Lango (page does not exist)">lango</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 92</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 92</span>
 </li>
 </ol></div>

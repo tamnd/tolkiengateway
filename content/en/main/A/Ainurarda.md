@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gar Ainion"
 ---
 
-Redirect to [Gar Ainion](/wiki/Gar_Ainion).
+Redirect to [Gar Ainion](../G/Gar_Ainion.md).

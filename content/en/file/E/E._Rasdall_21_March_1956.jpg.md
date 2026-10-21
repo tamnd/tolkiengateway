@@ -1,6 +1,5 @@
 ---
 title: "File:E. Rasdall 21 March 1956.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">E. Rasdall 21 March 1956.jpg</span>"
 page_id: 43358
 namespace: 6
 revision_id: 228136

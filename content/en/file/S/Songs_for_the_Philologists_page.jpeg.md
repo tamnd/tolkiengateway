@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Songs for the Philologists page 1.jpeg"
 ---
 
-Redirect to [File:Songs for the Philologists page 1.jpeg](/wiki/File:Songs_for_the_Philologists_page_1.jpeg).
+Redirect to [File:Songs for the Philologists page 1.jpeg](Songs_for_the_Philologists_page_1.jpeg.md).

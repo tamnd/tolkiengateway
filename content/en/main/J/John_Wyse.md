@@ -1,6 +1,5 @@
 ---
 title: "John Wyse"
-display_title: "<span class=\"mw-page-title-main\">John Wyse</span>"
 page_id: 30669
 namespace: 0
 revision_id: 221918
@@ -19,11 +18,11 @@ sort_keys:
   "British people": "Wyse, John"
 ---
 
-**John Wyse** ([November 24](/wiki/24_November "24 November"), [1904](/wiki/1904) - March, [1989](/wiki/1989)) was a British actor.
+**John Wyse** ([November 24](../_/24_November.md), [1904](../_/1904.md) - March, [1989](../_/1989.md)) was a British actor.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Roäc](/wiki/Ro%C3%A4c)
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Roäc](../R/Roäc.md)
 
 ## External links {#External_links}
 

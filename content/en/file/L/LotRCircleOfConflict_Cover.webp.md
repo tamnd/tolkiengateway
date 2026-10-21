@@ -1,6 +1,5 @@
 ---
 title: "File:LotRCircleOfConflict Cover.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotRCircleOfConflict Cover.webp</span>"
 page_id: 75237
 namespace: 6
 revision_id: 442891

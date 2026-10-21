@@ -1,6 +1,5 @@
 ---
 title: "File:The Evolution of Tolkien's Mythology.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Evolution of Tolkien&#039;s Mythology.jpg</span>"
 page_id: 67212
 namespace: 6
 revision_id: 390358

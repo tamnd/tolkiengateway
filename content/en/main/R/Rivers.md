@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Rivers"
 ---
 
-Redirect to [Category:Rivers](/wiki/Category:Rivers).
+Redirect to [Category:Rivers](../../category/R/Rivers.md).

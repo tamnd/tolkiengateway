@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rath Dínen"
 ---
 
-Redirect to [Rath Dínen](/wiki/Rath_Dínen).
+Redirect to [Rath Dínen](Rath_Dínen.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - War of the Last Alliance.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - War of the Last Alliance.png</span>"
 page_id: 71278
 namespace: 6
 revision_id: 425261
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [War of the Last Alliance](/wiki/War_of_the_Last_Alliance) - *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")*
+The [War of the Last Alliance](../../main/W/War_of_the_Last_Alliance.md) - *[The Lord of the Rings](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)*
 
 ## Licensing {#Licensing}
 

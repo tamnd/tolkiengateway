@@ -14,4 +14,4 @@ categories:
   - "Unmade projects"
 ---
 
-**The Hobbit Calendar 1986** was a never released calendar produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Abrams_Books" title="wikipedia:Abrams Books">Abrams Books</a> that was set to include photography from the [Rankin/Bass](/wiki/Rankin/Bass) television show.
+**The Hobbit Calendar 1986** was a never released calendar produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Abrams_Books" title="wikipedia:Abrams Books">Abrams Books</a> that was set to include photography from the [Rankin/Bass](../R/Rankin%252FBass.md) television show.

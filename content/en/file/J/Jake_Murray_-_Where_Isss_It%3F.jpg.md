@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Where Isss It?.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Where Isss It?.jpg</span>"
 page_id: 71632
 namespace: 6
 revision_id: 433528
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Where Isss It?!" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray") for *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Dungeons Deep and Caverns Dim*
+"Where Isss It?!" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md) for *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Dungeons Deep and Caverns Dim*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Swords"
 ---
 
-Redirect to [Category:Swords](/wiki/Category:Swords).
+Redirect to [Category:Swords](../../category/S/Swords.md).

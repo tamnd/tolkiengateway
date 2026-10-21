@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Bill the Pony"
 ---
 
-Redirect to [Category:Images of Bill the Pony](/wiki/Category:Images_of_Bill_the_Pony).
+Redirect to [Category:Images of Bill the Pony](Images_of_Bill_the_Pony.md).

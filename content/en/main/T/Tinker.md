@@ -11,4 +11,4 @@ redirect_target: "Cats"
 redirect_fragment: "Other writings"
 ---
 
-Redirect to [Cats](/wiki/Cats#Other_writings).
+Redirect to [Cats](../C/Cats.md#Other_writings).

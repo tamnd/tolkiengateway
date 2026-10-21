@@ -1,6 +1,5 @@
 ---
 title: "File:Ralph Damiani - Ring-verse.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ralph Damiani - Ring-verse.jpg</span>"
 page_id: 63190
 namespace: 6
 revision_id: 433781
@@ -46,7 +45,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Ring-verse](/wiki/Ring-inscription "Ring-inscription")" by [Ralph Damiani](/wiki/Ralph_Damiani)
+"[Ring-verse](../../main/R/Ring-inscription.md)" by [Ralph Damiani](../../main/R/Ralph_Damiani.md)
 
 ## Licensing {#Licensing}
 
@@ -55,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ralph Damiani</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/ralphdamiani" rel="noreferrer noopener" target="_blank">Ralph Damiani at ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ralph_Damiani" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRalph_Damiani.md" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

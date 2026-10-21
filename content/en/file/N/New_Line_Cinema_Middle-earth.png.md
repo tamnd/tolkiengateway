@@ -1,6 +1,5 @@
 ---
 title: "File:New Line Cinema Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Line Cinema Middle-earth.png</span>"
 page_id: 72891
 namespace: 6
 revision_id: 432004

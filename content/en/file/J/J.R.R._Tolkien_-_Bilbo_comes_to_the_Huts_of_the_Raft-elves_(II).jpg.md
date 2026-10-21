@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (II).jpg</span>"
 page_id: 5488
 namespace: 6
 revision_id: 429921
@@ -33,7 +32,7 @@ file:
 
 ## Summary {#Summary}
 
-See [File:J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (I).jpg](</wiki/File:J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg>). Not used in the original impression of The Hobbit, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year. It was the only one of the five submitted that was not used in the first American edition, 1938. In a letter written to the American publishers in March 1938 J. R. R. Tolkien, while approving their use of 'the Eagle picture' (no. [File:J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg](/wiki/File:J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg), omitted from the first English impression to contain coloured illustrations), said that he was sorry that they had not selected 'the River-picture, in which on the whole the amateur artist caught the imagined scene most closely'. In the second English impression the picture carried the printed caption 'The dark river opened suddenly wide' (from Chapter 9, Barrels out of Bond). The painting was reproduced in The J. R. R. Tolkien Calendars 1972 and 1974 and in The Hobbit Calendar 1976.
+See [File:J.R.R. Tolkien - Bilbo comes to the Huts of the Raft-elves (I).jpg](<J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md>). Not used in the original impression of The Hobbit, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year. It was the only one of the five submitted that was not used in the first American edition, 1938. In a letter written to the American publishers in March 1938 J. R. R. Tolkien, while approving their use of 'the Eagle picture' (no. [File:J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg](J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md), omitted from the first English impression to contain coloured illustrations), said that he was sorry that they had not selected 'the River-picture, in which on the whole the amateur artist caught the imagined scene most closely'. In the second English impression the picture carried the printed caption 'The dark river opened suddenly wide' (from Chapter 9, Barrels out of Bond). The painting was reproduced in The J. R. R. Tolkien Calendars 1972 and 1974 and in The Hobbit Calendar 1976.
 
 ## Licensing {#Licensing}
 

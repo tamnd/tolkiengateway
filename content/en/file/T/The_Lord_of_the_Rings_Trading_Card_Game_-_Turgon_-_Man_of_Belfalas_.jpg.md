@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Turgon - Man of Belfalas.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Turgon - Man of Belfalas.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Turgon_-_Man_of_Belfalas.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Turgon - Man of Belfalas.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Turgon_-_Man_of_Belfalas.jpg.md).

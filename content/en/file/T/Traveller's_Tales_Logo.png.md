@@ -1,6 +1,5 @@
 ---
 title: "File:Traveller's Tales Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Traveller&#039;s Tales Logo.png</span>"
 page_id: 64579
 namespace: 6
 revision_id: 370982

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adamant Chenni"
 ---
 
-Redirect to [Adamant Chenni](/wiki/Adamant_Chenni).
+Redirect to [Adamant Chenni](../A/Adamant_Chenni.md).

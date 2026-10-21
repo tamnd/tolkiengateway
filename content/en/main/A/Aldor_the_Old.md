@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldor"
 ---
 
-Redirect to [Aldor](/wiki/Aldor).
+Redirect to [Aldor](Aldor.md).

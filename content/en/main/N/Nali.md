@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náli"
 ---
 
-Redirect to [Náli](/wiki/Náli).
+Redirect to [Náli](Náli.md).

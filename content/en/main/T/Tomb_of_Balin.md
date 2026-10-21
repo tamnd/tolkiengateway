@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balin's Tomb"
 ---
 
-Redirect to [Balin's Tomb](/wiki/Balin's_Tomb).
+Redirect to [Balin's Tomb](../B/Balin's_Tomb.md).

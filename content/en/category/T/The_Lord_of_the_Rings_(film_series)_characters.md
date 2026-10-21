@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings (film series) characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) characters</span>"
 page_id: 64318
 namespace: 14
 revision_id: 368422
@@ -16,4 +15,4 @@ sort_keys:
   "The Lord of the Rings (film series)": "characters"
 ---
 
-<dl><dd><i>This category contains all original characters from</i> <b><a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)">The Lord of the Rings <i>(film series)</i></a></b>.</dd></dl>
+<dl><dd><i>This category contains all original characters from</i> <b><a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">The Lord of the Rings <i>(film series)</i></a></b>.</dd></dl>

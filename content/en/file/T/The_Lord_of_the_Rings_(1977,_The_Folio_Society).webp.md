@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1977, The Folio Society).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1977, The Folio Society).webp</span>"
 page_id: 68995
 namespace: 6
 revision_id: 411623

@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Lost Tales</b></i> is the second EP by [Summoning](/wiki/Summoning), released in [2003](/wiki/2003). It consists of two songs, Arcenstone that was originally written for Silenus' Mirkwood project and Saruman, a left over from the [Dol Guldur](</wiki/Dol_Guldur_(album)> "Dol Guldur (album)") sessions in [1996](/wiki/1996).
+<i><b>Lost Tales</b></i> is the second EP by [Summoning](../S/Summoning.md), released in [2003](../_/2003.md). It consists of two songs, Arcenstone that was originally written for Silenus' Mirkwood project and Saruman, a left over from the [Dol Guldur](<../D/Dol_Guldur_(album).md>) sessions in [1996](../_/1996.md).
 
 ## Track listing {#Track_listing}
 

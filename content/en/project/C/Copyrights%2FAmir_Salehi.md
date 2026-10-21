@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Amir Salehi"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Amir Salehi</span>"
 page_id: 37862
 namespace: 4
 revision_id: 193144
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Salehi, Amir"
 ---
 
-- Amir Salehi has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Amir_Salehi "Category:Images by Amir Salehi") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Amir Salehi has kindly granted his permission to use [his artwork](../../category/I/Images_by_Amir_Salehi.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 5 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

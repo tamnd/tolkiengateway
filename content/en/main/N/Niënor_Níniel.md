@@ -1,6 +1,5 @@
 ---
 title: "Niënor Níniel"
-display_title: "<span class=\"mw-page-title-main\">Niënor Níniel</span>"
 page_id: 28321
 namespace: 0
 revision_id: 420699
@@ -17,14 +16,14 @@ images:
 
 <i><b>Niënor Níniel</b></i> may refer to:
 
-- [Niënor](/wiki/Ni%C3%ABnor), the daughter of [Húrin](/wiki/H%C3%BArin) and [Morwen](/wiki/Morwen).
-- [Niënor Níniel](</wiki/Ni%C3%ABnor_N%C3%ADniel_(film)> "Niënor Níniel (film)"), a [2012](/wiki/2012) fan film.
+- [Niënor](Niënor.md), the daughter of [Húrin](../H/Húrin.md) and [Morwen](../M/Morwen.md).
+- [Niënor Níniel](<Niënor_Níniel_(film).md>), a [2012](../_/2012.md) fan film.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Ni%C3%ABnor_N%C3%ADniel" title="Special:WhatLinksHere/:Niënor Níniel">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Ni%C3%ABnor_N%C3%ADniel" title="Special:WhatLinksHere/:Niënor Níniel">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

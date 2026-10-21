@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erethón"
 ---
 
-Redirect to [Erethón](/wiki/Erethón).
+Redirect to [Erethón](Erethón.md).

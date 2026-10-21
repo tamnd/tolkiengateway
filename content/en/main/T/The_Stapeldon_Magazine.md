@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stapeldon Magazine"
 ---
 
-Redirect to [Stapeldon Magazine](/wiki/Stapeldon_Magazine).
+Redirect to [Stapeldon Magazine](../S/Stapeldon_Magazine.md).

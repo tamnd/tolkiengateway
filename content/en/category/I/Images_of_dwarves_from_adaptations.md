@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of dwarves from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of dwarves from adaptations</span>"
 page_id: 50573
 namespace: 14
 revision_id: 275084

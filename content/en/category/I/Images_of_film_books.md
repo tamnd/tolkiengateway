@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of film books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of film books</span>"
 page_id: 41171
 namespace: 14
 revision_id: 214800

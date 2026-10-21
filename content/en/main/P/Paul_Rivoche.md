@@ -1,6 +1,5 @@
 ---
 title: "Paul Rivoche"
-display_title: "<span class=\"mw-page-title-main\">Paul Rivoche</span>"
 page_id: 14432
 namespace: 0
 revision_id: 378299
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Rivoche, Paul"
 ---
 
-**Paul Rivoche** has created numerous [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired illustrations. He did the artwork for the [1981 J.R.R. Tolkien Calendar](/wiki/The_1981_J.R.R._Tolkien_Calendar_-_The_Lord_of_the_Rings "The 1981 J.R.R. Tolkien Calendar - The Lord of the Rings") which was based on [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)"), "To Honor the Silver Anniversary" of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+**Paul Rivoche** has created numerous [Tolkien](../J/J.R.R._Tolkien.md)-inspired illustrations. He did the artwork for the [1981 J.R.R. Tolkien Calendar](../T/The_1981_J.R.R._Tolkien_Calendar_-_The_Lord_of_the_Rings.md) which was based on [*The Lord of the Rings* (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>), "To Honor the Silver Anniversary" of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## See also {#See_also}
 
-- [Images by Paul Rivoche](/wiki/Category:Images_by_Paul_Rivoche "Category:Images by Paul Rivoche")
+- [Images by Paul Rivoche](../../category/I/Images_by_Paul_Rivoche.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Paula Marmor"
 ---
 
-Redirect to [Paula Marmor](/wiki/Paula_Marmor).
+Redirect to [Paula Marmor](Paula_Marmor.md).

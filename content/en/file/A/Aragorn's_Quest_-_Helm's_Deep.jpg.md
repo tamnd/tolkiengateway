@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Helm&#039;s Deep.jpg</span>"
 page_id: 29035
 namespace: 6
 revision_id: 283340
@@ -26,7 +25,7 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn) and [Rohirrim](/wiki/Rohirrim) fight an [uruk](/wiki/Uruk-hai "Uruk-hai") at the [Battle of Helm's Deep](/wiki/Battle_of_the_Hornburg "Battle of the Hornburg").
+[Aragorn](../../main/A/Aragorn.md) and [Rohirrim](../../main/R/Rohirrim.md) fight an [uruk](../../main/U/Uruk-hai.md) at the [Battle of Helm's Deep](../../main/B/Battle_of_the_Hornburg.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

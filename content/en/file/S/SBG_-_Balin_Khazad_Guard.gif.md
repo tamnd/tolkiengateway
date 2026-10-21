@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Balin Khazad Guard.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Balin Khazad Guard.gif</span>"
 page_id: 11751
 namespace: 6
 revision_id: 203789

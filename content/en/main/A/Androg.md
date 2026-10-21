@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andróg"
 ---
 
-Redirect to [Andróg](/wiki/Andróg).
+Redirect to [Andróg](Andróg.md).

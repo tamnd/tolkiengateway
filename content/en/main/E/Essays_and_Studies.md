@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Essays and Studies (disambiguation)"
 ---
 
-Redirect to [Essays and Studies (disambiguation)](/wiki/Essays_and_Studies_(disambiguation)).
+Redirect to [Essays and Studies (disambiguation)](<Essays_and_Studies_(disambiguation).md>).

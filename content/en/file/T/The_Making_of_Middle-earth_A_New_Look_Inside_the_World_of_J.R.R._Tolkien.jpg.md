@@ -1,6 +1,5 @@
 ---
 title: "File:The Making of Middle-earth A New Look Inside the World of J.R.R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Making of Middle-earth A New Look Inside the World of J.R.R. Tolkien.jpg</span>"
 page_id: 64451
 namespace: 6
 revision_id: 369788

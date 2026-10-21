@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Melkor after his imprisonment.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Melkor after his imprisonment.png</span>"
 page_id: 52258
 namespace: 6
 revision_id: 315943
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Melkor](/wiki/Melkor) after the fall of [Utumno](/wiki/Utumno) in the [Battle of the Powers](/wiki/Battle_of_the_Powers) and his repentance.
+[Melkor](../../main/M/Melkor.md) after the fall of [Utumno](../../main/U/Utumno.md) in the [Battle of the Powers](../../main/B/Battle_of_the_Powers.md) and his repentance.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Dick Plotz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Dick Plotz</span>"
 page_id: 66807
 namespace: 14
 revision_id: 386938

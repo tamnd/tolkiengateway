@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Lórien"
 ---
 
-Redirect to [East Lórien](/wiki/East_Lórien).
+Redirect to [East Lórien](East_Lórien.md).

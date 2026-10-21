@@ -1,6 +1,5 @@
 ---
 title: "Category:Directors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Directors</span>"
 page_id: 9845
 namespace: 14
 revision_id: 115570
@@ -13,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-People who have directed movies relating to [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+People who have directed movies relating to [Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

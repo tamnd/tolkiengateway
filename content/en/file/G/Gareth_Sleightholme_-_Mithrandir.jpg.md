@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Mithrandir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Mithrandir.jpg</span>"
 page_id: 73616
 namespace: 6
 revision_id: 435041
@@ -31,15 +30,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Mithrandir.jpg</span></th>
 <td class="description">
-<blockquote><p>Thought I’d try a character sketch of old <a href="/wiki/Gandalf" title="Gandalf">Greyhame</a> that didn’t use <a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)">the films</a> as a starting point... instead I looked to the portrait painting of people like <a class="extiw" href="http://en.wikipedia.org/wiki/Ilya_Repin" title="wikipedia:Ilya Repin">Ilya Repin</a> (who[&#39;s] work you could go through and find several characters from <a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">LOTR</a>, laughs). I also thought I’d use the rune for “G” that Gandalf was supposed to have adopted as his own as the starting point from the design of his staff.</p></blockquote>
+<blockquote><p>Thought I’d try a character sketch of old <a href="../../main/G/Gandalf.md" title="Gandalf">Greyhame</a> that didn’t use <a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">the films</a> as a starting point... instead I looked to the portrait painting of people like <a class="extiw" href="http://en.wikipedia.org/wiki/Ilya_Repin" title="wikipedia:Ilya Repin">Ilya Repin</a> (who[&#39;s] work you could go through and find several characters from <a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">LOTR</a>, laughs). I also thought I’d use the rune for “G” that Gandalf was supposed to have adopted as his own as the starting point from the design of his staff.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/11_February" title="11 February">February 11</a> <a href="/wiki/2020" title="2020">2020</a></td>
+<td><a href="../../main/_/11_February.md" title="11 February">February 11</a> <a href="../../main/_/2020.md" title="2020">2020</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/oOEZbB" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/oOEZbB</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -58,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

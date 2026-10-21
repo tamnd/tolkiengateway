@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gollum.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gollum.png</span>"
 page_id: 73071
 namespace: 6
 revision_id: 432628
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gollum](/wiki/Gollum) - [LEGO](/wiki/Lego "Lego") minifigure
+[Gollum](../../main/G/Gollum.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

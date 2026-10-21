@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forest of Neldoreth"
 ---
 
-Redirect to [Forest of Neldoreth](/wiki/Forest_of_Neldoreth).
+Redirect to [Forest of Neldoreth](../F/Forest_of_Neldoreth.md).

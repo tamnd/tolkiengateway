@@ -1,6 +1,5 @@
 ---
 title: "File:Humphrey Carpenter 21 March 1967.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Humphrey Carpenter 21 March 1967.jpg</span>"
 page_id: 27496
 namespace: 6
 revision_id: 215033

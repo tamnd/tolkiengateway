@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belecthor II"
 ---
 
-Redirect to [Belecthor II](/wiki/Belecthor_II).
+Redirect to [Belecthor II](Belecthor_II.md).

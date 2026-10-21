@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Lómin"
 ---
 
-Redirect to [Ered Lómin](/wiki/Ered_Lómin).
+Redirect to [Ered Lómin](Ered_Lómin.md).

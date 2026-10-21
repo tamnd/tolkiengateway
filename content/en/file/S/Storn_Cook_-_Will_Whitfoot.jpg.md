@@ -1,6 +1,5 @@
 ---
 title: "File:Storn Cook - Will Whitfoot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Storn Cook - Will Whitfoot.jpg</span>"
 page_id: 30195
 namespace: 6
 revision_id: 203212
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Will Whitfoot](/wiki/Will_Whitfoot). Image by Storn Cook, from: Wesley Frank, *[The Shire](</wiki/The_Shire_(book)> "The Shire (book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2017, 1995) .
+[Will Whitfoot](../../main/W/Will_Whitfoot.md). Image by Storn Cook, from: Wesley Frank, *[The Shire](<../../main/T/The_Shire_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2017, 1995) .
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Chris Wilson"
-display_title: "<span class=\"mw-page-title-main\">Chris Wilson</span>"
 page_id: 69123
 namespace: 0
 revision_id: 423914
@@ -19,7 +18,7 @@ sort_keys:
   "Folk music": "Wilson, Chris"
 ---
 
-**Chris Wilson** is a folk singer-songwriter who played musical gigs in New York City in the 1970's dressed in wizard garb and calling his act Gandalf the Grey. He released one album in [1972](/wiki/1972), <a class="new" href="/w/index.php?title=The_Grey_Wizard_Am_I&amp;action=edit&amp;redlink=1" title="The Grey Wizard Am I (page does not exist)">The Grey Wizard Am I</a>.
+**Chris Wilson** is a folk singer-songwriter who played musical gigs in New York City in the 1970's dressed in wizard garb and calling his act Gandalf the Grey. He released one album in [1972](../_/1972.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Grey_Wizard_Am_I&amp;action=edit&amp;redlink=1" title="The Grey Wizard Am I (page does not exist)">The Grey Wizard Am I</a>.
 
 ## External links {#External_links}
 

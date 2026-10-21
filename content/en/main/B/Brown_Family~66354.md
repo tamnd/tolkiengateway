@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brown family"
 ---
 
-Redirect to [Brown family](/wiki/Brown_family).
+Redirect to [Brown family](Brown_family.md).

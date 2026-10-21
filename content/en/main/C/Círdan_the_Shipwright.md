@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Círdan"
 ---
 
-Redirect to [Círdan](/wiki/Círdan).
+Redirect to [Círdan](Círdan.md).

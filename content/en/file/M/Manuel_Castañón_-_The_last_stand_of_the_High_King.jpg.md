@@ -1,6 +1,5 @@
 ---
 title: "File:Manuel Castañón - The last stand of the High King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Manuel Castañón - The last stand of the High King.jpg</span>"
 page_id: 63506
 namespace: 6
 revision_id: 433635
@@ -30,10 +29,6 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Manuel Castañón</td>
@@ -42,7 +37,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.manuelcastanon.com/artwork/tolkien-fanart" rel="noreferrer noopener" target="_blank">https://www.manuelcastanon.com/artwork/tolkien-fanart</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -54,4 +48,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Manuel Castañón</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/castaguer" rel="noreferrer noopener" target="_blank">Manuel Castañón on ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Manuel_Casta%C3%B1%C3%B3n" title="Tolkien Gateway:Copyrights/Manuel Castañón">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FManuel_Castañón.md" title="Tolkien Gateway:Copyrights/Manuel Castañón">Permission for use on Tolkien Gateway</a></b></li></ul></div>

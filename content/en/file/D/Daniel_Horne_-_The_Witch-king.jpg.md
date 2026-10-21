@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Horne - The Witch-king.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Horne - The Witch-king.jpg</span>"
 page_id: 74111
 namespace: 6
 revision_id: 437166
@@ -36,8 +35,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Daniel Horne - The Witch-king.jpg</span></th>
 <td class="description">
 <p><i>The Witch-king</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -45,8 +44,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Daniel Horne</td>
@@ -55,7 +52,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.facebook.com/groups/meccgartcollectors/permalink/504566637956994" rel="noreferrer noopener" target="_blank">Facebook</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

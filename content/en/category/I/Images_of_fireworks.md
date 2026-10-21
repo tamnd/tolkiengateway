@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of fireworks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of fireworks</span>"
 page_id: 12749
 namespace: 14
 revision_id: 322500

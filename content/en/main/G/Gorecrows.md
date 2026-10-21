@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorcrows"
 ---
 
-Redirect to [Gorcrows](/wiki/Gorcrows).
+Redirect to [Gorcrows](Gorcrows.md).

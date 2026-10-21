@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>macil</b></i> is a [Quenya](/wiki/Quenya) word meaning "sword".
+<i><b>macil</b></i> is a [Quenya](../Q/Quenya.md) word meaning "sword".
 
 ## Etymology {#Etymology}
 
-[Common Eldarin](/wiki/Common_Eldarin) \**makl* from [PQ](/wiki/PQ) <i><a class="new" href="/w/index.php?title=Makla&amp;action=edit&amp;redlink=1" title="Makla (page does not exist)">makla</a></i> [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
+[Common Eldarin](../C/Common_Eldarin.md) \**makl* from [PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Makla&amp;action=edit&amp;redlink=1" title="Makla (page does not exist)">makla</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
 
 ## Other forms {#Other_forms}
 
@@ -25,19 +25,19 @@ categories:
 
 ## See also {#See_also}
 
-- [andamacil](/wiki/Andamacil "Andamacil")
-- <a class="new" href="/w/index.php?title=Mac&amp;action=edit&amp;redlink=1" title="Mac (page does not exist)">mac</a>
-- [maca](/wiki/Maca "Maca")
-- <a class="new" href="/w/index.php?title=Macar&amp;action=edit&amp;redlink=1" title="Macar (page does not exist)">macar</a>
+- [andamacil](../A/Andamacil.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mac&amp;action=edit&amp;redlink=1" title="Mac (page does not exist)">mac</a>
+- [maca](Maca.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Macar&amp;action=edit&amp;redlink=1" title="Macar (page does not exist)">macar</a>
 
 ## Examples {#Examples}
 
-- [Menelmacil](/wiki/Menelmacil)
-- <a class="new" href="/w/index.php?title=Mormacil&amp;action=edit&amp;redlink=1" title="Mormacil (page does not exist)">Mormacil</a>
-- <a class="mw-disambig" href="/wiki/Narmacil_(disambiguation)" title="Narmacil (disambiguation)">Narmacil</a>
-- [Calimmacil](/wiki/Calimmacil)
-- <a class="mw-disambig" href="/wiki/Calmacil_(disambiguation)" title="Calmacil (disambiguation)">Calmacil</a>
+- [Menelmacil](Menelmacil.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mormacil&amp;action=edit&amp;redlink=1" title="Mormacil (page does not exist)">Mormacil</a>
+- <a class="mw-disambig" href="../N/Narmacil_(disambiguation).md" title="Narmacil (disambiguation)">Narmacil</a>
+- [Calimmacil](../C/Calimmacil.md)
+- <a class="mw-disambig" href="../C/Calmacil_(disambiguation).md" title="Calmacil (disambiguation)">Calmacil</a>
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[magol](/wiki/Magol "Magol")*
+- [Sindarin](../S/Sindarin.md) *[magol](Magol.md)*

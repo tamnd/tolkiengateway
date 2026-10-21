@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Dwarf"
 ---
 
-Redirect to [White Dwarf](/wiki/White_Dwarf).
+Redirect to [White Dwarf](White_Dwarf.md).

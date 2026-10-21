@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to an unknown Dutchman"
 ---
 
-Redirect to [Letter to an unknown Dutchman](/wiki/Letter_to_an_unknown_Dutchman).
+Redirect to [Letter to an unknown Dutchman](../L/Letter_to_an_unknown_Dutchman.md).

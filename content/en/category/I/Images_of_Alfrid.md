@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Alfrid Lickspittle"
 ---
 
-Redirect to [Category:Images of Alfrid Lickspittle](/wiki/Category:Images_of_Alfrid_Lickspittle).
+Redirect to [Category:Images of Alfrid Lickspittle](Images_of_Alfrid_Lickspittle.md).

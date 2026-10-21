@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Waste"
 ---
 
-Redirect to [Waste](/wiki/Waste).
+Redirect to [Waste](../W/Waste.md).

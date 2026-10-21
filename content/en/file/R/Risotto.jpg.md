@@ -1,6 +1,5 @@
 ---
 title: "File:Risotto.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Risotto.jpg</span>"
 page_id: 70202
 namespace: 6
 revision_id: 417560
@@ -43,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2011-08-29 12:36:04</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Luca Nebuloni</td>
@@ -53,11 +50,10 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://commons.wikimedia.org/wiki/File:Risotto_with_speck_and_goat_cheese_(6101067436).jpg" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/File:Risotto_with_speck_and_goat_cheese_(6101067436).jpg</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
 
 ## Licensing {#Licensing}
 
-<a class="new" href="/w/index.php?title=Template:Flickrreview&amp;action=edit&amp;redlink=1" title="Template:Flickrreview (page does not exist)">Template:Flickrreview</a><a class="new" href="/w/index.php?title=Template:Cc-by-2.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-2.0 (page does not exist)">Template:Cc-by-2.0</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Flickrreview&amp;action=edit&amp;redlink=1" title="Template:Flickrreview (page does not exist)">Template:Flickrreview</a><a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Cc-by-2.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-2.0 (page does not exist)">Template:Cc-by-2.0</a>

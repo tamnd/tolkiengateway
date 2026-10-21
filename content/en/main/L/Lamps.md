@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Lamps"
 ---
 
-Redirect to [Two Lamps](/wiki/Two_Lamps).
+Redirect to [Two Lamps](../T/Two_Lamps.md).

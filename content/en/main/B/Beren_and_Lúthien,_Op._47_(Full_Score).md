@@ -1,6 +1,5 @@
 ---
 title: "Beren and Lúthien, Op. 47 (Full Score)"
-display_title: "<span class=\"mw-page-title-main\">Beren and Lúthien, Op. 47 (Full Score)</span>"
 page_id: 65207
 namespace: 0
 revision_id: 375237
@@ -15,9 +14,9 @@ images:
   - "Beren_Full_Score_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Beren_Full_Score_Cover.jpg"><img src="/w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/300px-Beren_Full_Score_Cover.jpg" decoding="async" loading="lazy" width="300" height="425" class="mw-file-element" srcset="/w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/450px-Beren_Full_Score_Cover.jpg 1.5x, /w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/600px-Beren_Full_Score_Cover.jpg 2x" data-file-width="2520" data-file-height="3566"/></a><figcaption>Artwork from the full score by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beren_Full_Score_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/300px-Beren_Full_Score_Cover.jpg" decoding="async" loading="lazy" width="300" height="425" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/450px-Beren_Full_Score_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/Beren_Full_Score_Cover.jpg/600px-Beren_Full_Score_Cover.jpg 2x" data-file-width="2520" data-file-height="3566"/></a><figcaption>Artwork from the full score by permission of Ted Nasmith.</figcaption></figure>
 
-Published by Zarathustra Music in 2019, the complete Full Score of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s *[Beren and Lúthien, Op. 47 (Opera)](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
+Published by Zarathustra Music in 2019, the complete Full Score of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s *[Beren and Lúthien, Op. 47 (Opera)](<Beren_and_Lúthien,_Op._47_(Opera).md>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
 
 This is a 422 page A4 sized book with full gloss covers.
 

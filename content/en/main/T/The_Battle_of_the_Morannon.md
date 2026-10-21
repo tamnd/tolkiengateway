@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Morannon"
 ---
 
-Redirect to [Battle of the Morannon](/wiki/Battle_of_the_Morannon).
+Redirect to [Battle of the Morannon](../B/Battle_of_the_Morannon.md).

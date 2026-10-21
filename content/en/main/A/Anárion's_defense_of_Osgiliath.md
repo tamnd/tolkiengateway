@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anárion's defence of Osgiliath"
 ---
 
-Redirect to [Anárion's defence of Osgiliath](/wiki/Anárion's_defence_of_Osgiliath).
+Redirect to [Anárion's defence of Osgiliath](Anárion's_defence_of_Osgiliath.md).

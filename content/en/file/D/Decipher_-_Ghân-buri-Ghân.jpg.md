@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Ghân-buri-Ghân.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Ghân-buri-Ghân.jpg</span>"
 page_id: 28867
 namespace: 6
 revision_id: 211699

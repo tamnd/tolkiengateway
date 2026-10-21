@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin (disambiguation)"
 ---
 
-Redirect to [Durin (disambiguation)](/wiki/Durin_(disambiguation)).
+Redirect to [Durin (disambiguation)](<Durin_(disambiguation).md>).

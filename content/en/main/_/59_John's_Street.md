@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "59 St John Street"
 ---
 
-Redirect to [59 St John Street](/wiki/59_St_John_Street).
+Redirect to [59 St John Street](59_St_John_Street.md).

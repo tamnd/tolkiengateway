@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alystraea"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alystraea</span>"
 page_id: 58019
 namespace: 14
 revision_id: 319509

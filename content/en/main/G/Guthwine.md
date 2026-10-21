@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gúthwinë"
 ---
 
-Redirect to [Gúthwinë](/wiki/Gúthwinë).
+Redirect to [Gúthwinë](Gúthwinë.md).

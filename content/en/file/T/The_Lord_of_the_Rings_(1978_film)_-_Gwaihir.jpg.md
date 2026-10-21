@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Gwaihir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Gwaihir.jpg</span>"
 page_id: 71535
 namespace: 6
 revision_id: 435553
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gwaihir](/wiki/Gwaihir) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Gwaihir](../../main/G/Gwaihir.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

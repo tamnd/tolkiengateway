@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of Pearl"
 ---
 
-Redirect to [Tower of Pearl](/wiki/Tower_of_Pearl).
+Redirect to [Tower of Pearl](Tower_of_Pearl.md).

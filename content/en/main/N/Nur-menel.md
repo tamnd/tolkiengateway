@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dome of Varda"
 ---
 
-Redirect to [Dome of Varda](/wiki/Dome_of_Varda).
+Redirect to [Dome of Varda](../D/Dome_of_Varda.md).

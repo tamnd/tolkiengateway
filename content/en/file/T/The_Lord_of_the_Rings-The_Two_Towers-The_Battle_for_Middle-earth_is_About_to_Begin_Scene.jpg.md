@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Two Towers-The Battle for Middle-earth is About to Begin Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Two Towers-The Battle for Middle-earth is About to Begin Scene.jpg</span>"
 page_id: 75198
 namespace: 6
 revision_id: 442729

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sacha"
 ---
 
-Redirect to [Sacha](/wiki/Sacha).
+Redirect to [Sacha](Sacha.md).

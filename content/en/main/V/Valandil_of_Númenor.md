@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (Lord of Andúnië)"
 ---
 
-Redirect to [Valandil (Lord of Andúnië)](/wiki/Valandil_(Lord_of_Andúnië)).
+Redirect to [Valandil (Lord of Andúnië)](<Valandil_(Lord_of_Andúnië).md>).

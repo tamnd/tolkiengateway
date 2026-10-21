@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómen"
 ---
 
-Redirect to [Rómen](/wiki/Rómen).
+Redirect to [Rómen](Rómen.md).

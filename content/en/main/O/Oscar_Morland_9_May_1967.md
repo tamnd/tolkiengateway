@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Oscar Morland"
 ---
 
-Redirect to [Letter to Oscar Morland](/wiki/Letter_to_Oscar_Morland).
+Redirect to [Letter to Oscar Morland](../L/Letter_to_Oscar_Morland.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Golden Flower"
 ---
 
-Redirect to [House of the Golden Flower](/wiki/House_of_the_Golden_Flower).
+Redirect to [House of the Golden Flower](House_of_the_Golden_Flower.md).

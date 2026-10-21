@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Julie Cape"
 ---
 
-Redirect to [Letter to Julie Cape](/wiki/Letter_to_Julie_Cape).
+Redirect to [Letter to Julie Cape](../L/Letter_to_Julie_Cape.md).

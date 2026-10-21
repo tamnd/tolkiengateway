@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien - 1916 (colorized).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien - 1916 (colorized).jpg</span>"
 page_id: 62291
 namespace: 6
 revision_id: 351673

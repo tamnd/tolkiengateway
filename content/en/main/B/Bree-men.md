@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Bree"
 ---
 
-Redirect to [Men of Bree](/wiki/Men_of_Bree).
+Redirect to [Men of Bree](../M/Men_of_Bree.md).

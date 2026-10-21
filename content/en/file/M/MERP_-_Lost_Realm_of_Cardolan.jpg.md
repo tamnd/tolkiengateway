@@ -1,6 +1,5 @@
 ---
 title: "File:MERP - Lost Realm of Cardolan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MERP - Lost Realm of Cardolan.jpg</span>"
 page_id: 26245
 namespace: 6
 revision_id: 350774

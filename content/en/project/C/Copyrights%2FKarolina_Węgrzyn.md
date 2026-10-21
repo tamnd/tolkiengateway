@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Karolina Węgrzyn"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Karolina Węgrzyn</span>"
 page_id: 37308
 namespace: 4
 revision_id: 297040
@@ -15,4 +14,4 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Wegrzyn, Karolina"
 ---
 
-- All images were uploaded by the copyright holder [Karolina Węgrzyn](/wiki/User:Sirielle "User:Sirielle").
+- All images were uploaded by the copyright holder [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle).

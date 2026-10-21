@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Billy Mosig"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Billy Mosig</span>"
 page_id: 13082
 namespace: 14
 revision_id: 181946
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Mosig, Bill"
 ---
 
-This category lists all **images by [Billy Mosig](/wiki/Billy_Mosig)**.
+This category lists all **images by [Billy Mosig](../../main/B/Billy_Mosig.md)**.

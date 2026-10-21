@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telepi"
 ---
 
-Redirect to [Telepi](/wiki/Telepi).
+Redirect to [Telepi](Telepi.md).

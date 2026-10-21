@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "City Wall"
 ---
 
-Redirect to [City Wall](/wiki/City_Wall).
+Redirect to [City Wall](../C/City_Wall.md).

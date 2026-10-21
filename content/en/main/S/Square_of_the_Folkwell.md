@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Place of the Well"
 ---
 
-Redirect to [Place of the Well](/wiki/Place_of_the_Well).
+Redirect to [Place of the Well](../P/Place_of_the_Well.md).

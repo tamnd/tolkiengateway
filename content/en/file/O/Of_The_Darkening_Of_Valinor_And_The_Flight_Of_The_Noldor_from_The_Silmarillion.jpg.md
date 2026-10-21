@@ -1,6 +1,5 @@
 ---
 title: "File:Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion.jpg</span>"
 page_id: 71239
 namespace: 6
 revision_id: 425042
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion](/wiki/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion) album cover
+[Of The Darkening Of Valinor And The Flight Of The Noldor from The Silmarillion](../../main/O/Of_The_Darkening_Of_Valinor_And_The_Flight_Of_The_Noldor_from_The_Silmarillion.md) album cover
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="https://www.harpercollins.com/pages/caedmon" rel="noreferrer noopener" target="_blank">Caedmon Records</a>. It is believed that the limited use of this file,

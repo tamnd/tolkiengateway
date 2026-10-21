@@ -1,6 +1,5 @@
 ---
 title: "Letter to Julie Cape"
-display_title: "<span class=\"mw-page-title-main\">Letter to Julie Cape</span>"
 page_id: 36587
 namespace: 0
 revision_id: 387970
@@ -17,11 +16,11 @@ images:
   - "Julie_Cape_17_February_1963.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Julie_Cape_17_February_1963.png"><img src="/w/images/thumb/1/17/Julie_Cape_17_February_1963.png/300px-Julie_Cape_17_February_1963.png" decoding="async" loading="lazy" width="300" height="368" class="mw-file-element" srcset="/w/images/thumb/1/17/Julie_Cape_17_February_1963.png/450px-Julie_Cape_17_February_1963.png 1.5x, /w/images/thumb/1/17/Julie_Cape_17_February_1963.png/600px-Julie_Cape_17_February_1963.png 2x" data-file-width="999" data-file-height="1227"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Julie_Cape_17_February_1963.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Julie_Cape_17_February_1963.png/300px-Julie_Cape_17_February_1963.png" decoding="async" loading="lazy" width="300" height="368" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Julie_Cape_17_February_1963.png/450px-Julie_Cape_17_February_1963.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/Julie_Cape_17_February_1963.png/600px-Julie_Cape_17_February_1963.png 2x" data-file-width="999" data-file-height="1227"/></a><figcaption></figcaption></figure>
 
-On [17 February](/wiki/17_February) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Julie Cape**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [17 February](../_/17_February.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Julie Cape**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** Reply to letter of appreciation; mentioning of *[The Silmarillion](/wiki/The_Silmarillion)*
+- **Subject:** Reply to letter of appreciation; mentioning of *[The Silmarillion](../T/The_Silmarillion.md)*
 - **Publication:** None.
 
 ## From the auction {#From_the_auction}

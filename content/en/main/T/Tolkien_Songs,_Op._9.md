@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Songs, Op. 9"
-display_title: "<span class=\"mw-page-title-main\">Tolkien Songs, Op. 9</span>"
 page_id: 65181
 namespace: 0
 revision_id: 426187
@@ -14,9 +13,9 @@ categories:
   - "Songs (real-world)"
 ---
 
-[Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s *Tolkien Songs* for voice and piano were written (and re-written) during the early 1970s and were all conceived as part of an extensive cycle on *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and *[The Hobbit](/wiki/The_Hobbit)*.  The rights to these songs were granted by the estate as part of the *Akallabêth and other Tolkien works* album release.
+[Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s *Tolkien Songs* for voice and piano were written (and re-written) during the early 1970s and were all conceived as part of an extensive cycle on *[The Lord of the Rings](The_Lord_of_the_Rings.md)* and *[The Hobbit](The_Hobbit.md)*.  The rights to these songs were granted by the estate as part of the *Akallabêth and other Tolkien works* album release.
 
-They were all subsequently orchestrated. *In Western Lands* was also incorporated into *[Beren and Lúthien, Op. 47 (Opera)](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)>).*
+They were all subsequently orchestrated. *In Western Lands* was also incorporated into *[Beren and Lúthien, Op. 47 (Opera)](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>).*
 
 ## Songs {#Songs}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Dale"
 ---
 
-Redirect to [Battle of Dale](/wiki/Battle_of_Dale).
+Redirect to [Battle of Dale](../B/Battle_of_Dale.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Smaug"
 ---
 
-Redirect to [Smaug](/wiki/Smaug).
+Redirect to [Smaug](../S/Smaug.md).

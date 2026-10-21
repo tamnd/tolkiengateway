@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gaurwaith"
 ---
 
-Redirect to [Gaurwaith](/wiki/Gaurwaith).
+Redirect to [Gaurwaith](../G/Gaurwaith.md).

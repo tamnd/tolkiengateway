@@ -1,6 +1,5 @@
 ---
 title: "76 Sandfield Road"
-display_title: "<span class=\"mw-page-title-main\">76 Sandfield Road</span>"
 page_id: 9367
 namespace: 0
 revision_id: 404464
@@ -24,9 +23,9 @@ images:
   - "76_Sandfield_Road.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:76_Sandfield_Road.jpg"><img src="/w/images/thumb/c/c7/76_Sandfield_Road.jpg/300px-76_Sandfield_Road.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="/w/images/thumb/c/c7/76_Sandfield_Road.jpg/450px-76_Sandfield_Road.jpg 1.5x, /w/images/c/c7/76_Sandfield_Road.jpg 2x" data-file-width="503" data-file-height="352"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/76_Sandfield_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/76_Sandfield_Road.jpg/300px-76_Sandfield_Road.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/76_Sandfield_Road.jpg/450px-76_Sandfield_Road.jpg 1.5x, https://tolkiengateway.net/w/images/c/c7/76_Sandfield_Road.jpg 2x" data-file-width="503" data-file-height="352"/></a><figcaption></figcaption></figure>
 
-**76 Sandfield Road** in <a class="extiw" href="http://en.wikipedia.org/wiki/Headington" title="wikipedia:Headington">Headington</a> was the home of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and [Edith Tolkien](/wiki/Edith_Tolkien) from [30 March](/wiki/30_March) [1953](/wiki/1953) until mid-July [1968](/wiki/1968).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The volumes of [The Lord of the Rings](/wiki/The_Lord_of_the_Rings) were first published while Tolkien lived in this house. Currently a plaque sits above the door stating that the Professor lived there once.
+**76 Sandfield Road** in <a class="extiw" href="http://en.wikipedia.org/wiki/Headington" title="wikipedia:Headington">Headington</a> was the home of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and [Edith Tolkien](../E/Edith_Tolkien.md) from [30 March](30_March.md) [1953](1953.md) until mid-July [1968](1968.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The volumes of [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) were first published while Tolkien lived in this house. Currently a plaque sits above the door stating that the Professor lived there once.
 
 ## Directions {#Directions}
 
@@ -38,6 +37,6 @@ images:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 696-8</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 696-8</span>
 </li>
 </ol></div>

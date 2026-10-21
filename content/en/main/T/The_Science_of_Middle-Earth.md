@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Science of Middle-earth (disambiguation)"
 ---
 
-Redirect to [The Science of Middle-earth (disambiguation)](/wiki/The_Science_of_Middle-earth_(disambiguation)).
+Redirect to [The Science of Middle-earth (disambiguation)](<The_Science_of_Middle-earth_(disambiguation).md>).

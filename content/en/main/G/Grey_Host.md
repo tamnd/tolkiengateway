@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oathbreakers"
 ---
 
-Redirect to [Oathbreakers](/wiki/Oathbreakers).
+Redirect to [Oathbreakers](../O/Oathbreakers.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Currencies"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Currencies</span>"
 page_id: 22443
 namespace: 14
 revision_id: 82060
@@ -13,4 +12,4 @@ categories:
   - "Objects"
 ---
 
-Various **currencies** of [Arda](/wiki/Arda) and beyond.
+Various **currencies** of [Arda](../../main/A/Arda.md) and beyond.

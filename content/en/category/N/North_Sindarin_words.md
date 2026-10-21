@@ -1,6 +1,5 @@
 ---
 title: "Category:North Sindarin words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">North Sindarin words</span>"
 page_id: 35015
 namespace: 14
 revision_id: 163940
@@ -13,4 +12,4 @@ categories:
   - "Sindarin words"
 ---
 
-Words in [North Sindarin](/wiki/North_Sindarin).
+Words in [North Sindarin](../../main/N/North_Sindarin.md).

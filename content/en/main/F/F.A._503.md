@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Age 503"
 ---
 
-Redirect to [First Age 503](/wiki/First_Age_503).
+Redirect to [First Age 503](First_Age_503.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Karen Haber.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Karen Haber.jpg</span>"
 page_id: 29710
 namespace: 6
 revision_id: 248911

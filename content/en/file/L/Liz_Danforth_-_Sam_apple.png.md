@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Sam apple.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Sam apple.png</span>"
 page_id: 32202
 namespace: 6
 revision_id: 226853
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-*Sam throws an apple at Bill Ferny* by [Liz Danforth](/wiki/Liz_Danforth), appearing in [S. Coleman Charlton](/wiki/Coleman_Charlton "Coleman Charlton"), *[Middle-earth Role Playing (2nd edition, hardcover)](</wiki/Middle-earth_Role_Playing_(2nd_edition)> "Middle-earth Role Playing (2nd edition)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2000, 1993) , p.33.
+*Sam throws an apple at Bill Ferny* by [Liz Danforth](../../main/L/Liz_Danforth.md), appearing in [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, hardcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2000, 1993) , p.33.
 
 ## Licensing {#Licensing}
 

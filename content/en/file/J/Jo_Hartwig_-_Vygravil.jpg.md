@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jo Hartwig - Vygavril.jpg"
 ---
 
-Redirect to [File:Jo Hartwig - Vygavril.jpg](/wiki/File:Jo_Hartwig_-_Vygavril.jpg).
+Redirect to [File:Jo Hartwig - Vygavril.jpg](Jo_Hartwig_-_Vygavril.jpg.md).

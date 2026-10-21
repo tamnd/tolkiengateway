@@ -1,6 +1,5 @@
 ---
 title: "Chris Bouchard"
-display_title: "<span class=\"mw-page-title-main\">Chris Bouchard</span>"
 page_id: 38815
 namespace: 0
 revision_id: 388847
@@ -21,7 +20,7 @@ sort_keys:
   "Producers": "Bouchard, Chris"
 ---
 
-**Chris Bouchard** was the director and producer of the critically-acclaimed fan film *[The Hunt for Gollum](/wiki/The_Hunt_for_Gollum)*.
+**Chris Bouchard** was the director and producer of the critically-acclaimed fan film *[The Hunt for Gollum](../T/The_Hunt_for_Gollum.md)*.
 
 ## External links {#External_links}
 

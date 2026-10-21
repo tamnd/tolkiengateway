@@ -1,6 +1,5 @@
 ---
 title: "Verse Modes"
-display_title: "<span class=\"mw-page-title-main\">Verse Modes</span>"
 page_id: 61396
 namespace: 0
 revision_id: 345595
@@ -17,9 +16,9 @@ This is a disambiguation page for verse modes found within Tolkien’s works.
 
 Elvish Verse Modes:
 
-1. **[Ann-thennath](/wiki/Ann-thennath)**
-2. **[Linnod](/wiki/Linnod)**
-3. **[Minlamad thent/estent](/wiki/Minlamad_thent/estent)**
+1. **[Ann-thennath](../A/Ann-thennath.md)**
+2. **[Linnod](../L/Linnod.md)**
+3. **[Minlamad thent/estent](../M/Minlamad_thent%252Festent.md)**
 
 <span></span>
 

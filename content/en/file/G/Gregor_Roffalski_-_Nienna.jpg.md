@@ -1,6 +1,5 @@
 ---
 title: "File:Gregor Roffalski - Nienna.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gregor Roffalski - Nienna.jpg</span>"
 page_id: 18584
 namespace: 6
 revision_id: 247239

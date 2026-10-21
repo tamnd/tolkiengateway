@@ -1,6 +1,5 @@
 ---
 title: "File:Cristi Balanescu - Durin's Song.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cristi Balanescu - Durin&#039;s Song.jpeg</span>"
 page_id: 71073
 namespace: 6
 revision_id: 427698
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Durin's Song](/wiki/The_world_was_young,_the_mountains_green, "The world was young, the mountains green,") - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Dwarves of Durin* illustration by Cristi Balanescu
+[Durin's Song](../../main/T/The_world_was_young,_the_mountains_green,.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Dwarves of Durin* illustration by Cristi Balanescu
 
 ## Licensing {#Licensing}
 

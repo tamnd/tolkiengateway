@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gonnhirrim"
 ---
 
-Redirect to [Gonnhirrim](/wiki/Gonnhirrim).
+Redirect to [Gonnhirrim](../G/Gonnhirrim.md).

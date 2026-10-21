@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Éowyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Éowyn.png</span>"
 page_id: 63329
 namespace: 6
 revision_id: 359393
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still of [Éowyn](/wiki/%C3%89owyn) from [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+A still of [Éowyn](../../main/_/Éowyn.md) from [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

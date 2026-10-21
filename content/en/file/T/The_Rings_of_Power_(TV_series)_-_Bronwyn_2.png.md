@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Bronwyn 2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Bronwyn 2.png</span>"
 page_id: 64306
 namespace: 6
 revision_id: 412273
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional image of [Bronwyn](/wiki/Bronwyn) from the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+Promotional image of [Bronwyn](../../main/B/Bronwyn.md) from the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

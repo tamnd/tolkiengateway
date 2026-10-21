@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Antonio José Manzanedo"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Antonio José Manzanedo</span>"
 page_id: 72779
 namespace: 14
 revision_id: 431423
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Manzanedo, Antonio José"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Antonio_Jos%C3%A9_Manzanedo&amp;action=edit&amp;redlink=1" title="Antonio José Manzanedo (page does not exist)">Antonio José Manzanedo</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Antonio_Jos%C3%A9_Manzanedo&amp;action=edit&amp;redlink=1" title="Antonio José Manzanedo (page does not exist)">Antonio José Manzanedo</a></b>.

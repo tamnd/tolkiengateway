@@ -1,6 +1,5 @@
 ---
 title: "Category:Exilic Noldorin words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Exilic Noldorin words</span>"
 page_id: 34521
 namespace: 14
 revision_id: 321158

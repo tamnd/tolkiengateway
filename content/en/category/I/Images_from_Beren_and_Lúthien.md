@@ -17,4 +17,4 @@ sort_keys:
   "Images by publication": "Beren and Luthien"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/Beren_and_L%C3%BAthien" title="Beren and Lúthien">Beren and Lúthien</a></i> illustrated by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></b>.</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> illustrated by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></b>.</dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Anastasiya Cemetery"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Anastasiya Cemetery</span>"
 page_id: 58109
 namespace: 4
 revision_id: 322129
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Cemetery, Anastasiya"
 ---
 
-- Anastasiya Cemetery has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Anastasiya_Cemetery "Category:Images by Anastasiya Cemetery") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Anastasiya Cemetery has kindly granted her permission to use [her artwork](../../category/I/Images_by_Anastasiya_Cemetery.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

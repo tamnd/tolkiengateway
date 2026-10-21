@@ -1,6 +1,5 @@
 ---
 title: "File:Complete Guide uk 1978 hc.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Complete Guide uk 1978 hc.jpeg</span>"
 page_id: 62115
 namespace: 6
 revision_id: 391027

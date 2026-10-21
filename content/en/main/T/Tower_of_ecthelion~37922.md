@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of Ecthelion"
 ---
 
-Redirect to [Tower of Ecthelion](/wiki/Tower_of_Ecthelion).
+Redirect to [Tower of Ecthelion](Tower_of_Ecthelion.md).

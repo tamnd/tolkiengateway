@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - The Ring of Barahir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - The Ring of Barahir.jpg</span>"
 page_id: 74496
 namespace: 6
 revision_id: 438593
@@ -31,28 +30,25 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - The Ring of Barahir.jpg</span></th>
 <td class="description">
-<blockquote><p><a href="/wiki/Ring_of_Barahir" title="Ring of Barahir">The ring of Barahir</a> which <a href="/wiki/Beren" title="Beren">Beren</a> used to prove his lineage to <a href="/wiki/Thingol" title="Thingol">Thingol</a>.</p></blockquote><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
-<p>as eyes of serpents twined that met<br/>beneath a golden crown of flowers,<br/>that one upholds and one devours:<br/>the badge that <a href="/wiki/Finrod" title="Finrod">Finrod</a> made of yore<br/>and <a class="mw-redirect" href="/wiki/Felagund" title="Felagund">Felagund</a> his son now bore...
+<blockquote><p><a href="../../main/R/Ring_of_Barahir.md" title="Ring of Barahir">The ring of Barahir</a> which <a href="../../main/B/Beren.md" title="Beren">Beren</a> used to prove his lineage to <a href="../../main/T/Thingol.md" title="Thingol">Thingol</a>.</p></blockquote><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
+<p>as eyes of serpents twined that met<br/>beneath a golden crown of flowers,<br/>that one upholds and one devours:<br/>the badge that <a href="../../main/F/Finrod.md" title="Finrod">Finrod</a> made of yore<br/>and <a class="mw-redirect" href="../../main/F/Felagund.md" title="Felagund">Felagund</a> his son now bore...
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Lay_of_Leithian_Canto_IV" title="Lay of Leithian Canto IV">Lay of Leithian Canto IV</a></cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+<p class="tg-quote-footer"><cite><a href="../../main/L/Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Lay of Leithian Canto IV</a></cite></p>
+</blockquote><div class="tg-section-divider"></div></div>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/25_May" title="25 May">May 25</a> <a href="/wiki/2017" title="2017">2017</a></td>
+<td><a href="../../main/_/25_May.md" title="25 May">May 25</a> <a href="../../main/_/2017.md" title="2017">2017</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.instagram.com/stephenwalshart/p/BUhM0dDlLL2/" rel="noreferrer noopener" target="_blank">https://www.instagram.com/stephenwalshart/p/BUhM0dDlLL2/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -60,4 +56,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

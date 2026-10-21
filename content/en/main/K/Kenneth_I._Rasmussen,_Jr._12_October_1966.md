@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Kenneth I. Rasmussen, Jr."
 ---
 
-Redirect to [Letter to Kenneth I. Rasmussen, Jr.](/wiki/Letter_to_Kenneth_I._Rasmussen,_Jr.).
+Redirect to [Letter to Kenneth I. Rasmussen, Jr.](../L/Letter_to_Kenneth_I._Rasmussen,_Jr..md).

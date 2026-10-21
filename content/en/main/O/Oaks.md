@@ -1,6 +1,5 @@
 ---
 title: "Oaks"
-display_title: "<span class=\"mw-page-title-main\">Oaks</span>"
 page_id: 4163
 namespace: 0
 revision_id: 423462
@@ -16,28 +15,28 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-The **Oak** was one of the most common [trees](/wiki/Trees "Trees") in [Middle-earth](/wiki/Middle-earth), found throughout the numerous forests. [Thorin II](/wiki/Thorin "Thorin") became known as "[Oakenshield](/wiki/Oakenshield)" when he chopped off a bough of an oak to ward off the blows of enemies in the [Battle of Nanduhirion](/wiki/Battle_of_Nanduhirion).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Oak** was one of the most common [trees](../T/Trees.md) in [Middle-earth](../M/Middle-earth.md), found throughout the numerous forests. [Thorin II](../T/Thorin.md) became known as "[Oakenshield](Oakenshield.md)" when he chopped off a bough of an oak to ward off the blows of enemies in the [Battle of Nanduhirion](../B/Battle_of_Nanduhirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="/wiki/Treasures_of_Middle-earth_(2nd_edition)" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth</a></i></b>
 
-<dl><dd>A type of Oak tree, namely <i><b>Furry Oak</b></i>, is described in the book. It was named for the fuzz on the underside of its leaves and the caps of acorns. These acorns were well-liked by the <a href="/wiki/Galadhrim" title="Galadhrim">Galadhrim</a> and the <a href="/wiki/Woodmen" title="Woodmen">Woodmen</a>, who used them in baking.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>A type of Oak tree, namely <i><b>Furry Oak</b></i>, is described in the book. It was named for the fuzz on the underside of its leaves and the caps of acorns. These acorns were well-liked by the <a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a> and the <a href="../W/Woodmen.md" title="Woodmen">Woodmen</a>, who used them in baking.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007: <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>Wood of this tree can be foraged by <i>Eastemnet</i> foresters in <a href="/wiki/Rohan" title="Rohan">Rohan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>Wood of this tree can be foraged by <i>Eastemnet</i> foresters in <a href="../R/Rohan.md" title="Rohan">Rohan</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;Durin&#39;s Folk&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;Durin&#39;s Folk&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Wolfgang Baur, <i><a href="/wiki/Treasures_of_Middle-earth_(2nd_edition)" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth (2nd edition)</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2010, 1994)
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Wolfgang Baur, <i><a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Treasures of Middle-earth (2nd edition)</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2010, 1994)
 , p. 192</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://lotro-wiki.com/wiki/Oak_Branches" rel="noreferrer noopener" target="_blank">&#34;Oak Branches&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://lotro-wiki.com" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings Online</i> Wiki</a></span>. <span class="cite-web-accessed">Retrieved 21 August 2025</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://lotro-wiki.com/wiki/Oak_Branches" rel="noreferrer noopener" target="_blank">&#34;Oak Branches&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://lotro-wiki.com" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings Online</i> Wiki</a></span>. <span class="cite-web-accessed">Retrieved 21 August 2025</span></cite></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elemmírë"
 ---
 
-Redirect to [Elemmírë](/wiki/Elemmírë).
+Redirect to [Elemmírë](Elemmírë.md).

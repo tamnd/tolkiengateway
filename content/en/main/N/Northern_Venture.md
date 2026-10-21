@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Northern Venture"
 ---
 
-Redirect to [A Northern Venture](/wiki/A_Northern_Venture).
+Redirect to [A Northern Venture](../A/A_Northern_Venture.md).

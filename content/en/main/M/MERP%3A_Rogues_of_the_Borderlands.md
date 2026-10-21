@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rogues of the Borderlands"
 ---
 
-Redirect to [Rogues of the Borderlands](/wiki/Rogues_of_the_Borderlands).
+Redirect to [Rogues of the Borderlands](../R/Rogues_of_the_Borderlands.md).

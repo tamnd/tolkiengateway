@@ -1,6 +1,5 @@
 ---
 title: "Category:Animals"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Animals</span>"
 page_id: 5151
 namespace: 14
 revision_id: 274534
@@ -14,4 +13,4 @@ categories:
   - "Races"
 ---
 
-Below is an alphabetical list of animals found in [Arda](/wiki/Arda).
+Below is an alphabetical list of animals found in [Arda](../../main/A/Arda.md).

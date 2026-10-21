@@ -1,6 +1,5 @@
 ---
 title: "Category:Organizations (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Organizations (real-world)</span>"
 page_id: 26616
 namespace: 14
 revision_id: 105624

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Azog"
 ---
 
-Redirect to [Azog](/wiki/Azog).
+Redirect to [Azog](../A/Azog.md).

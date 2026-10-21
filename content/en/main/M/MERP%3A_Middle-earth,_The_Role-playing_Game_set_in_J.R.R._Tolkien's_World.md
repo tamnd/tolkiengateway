@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World"
 ---
 
-Redirect to [Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World](/wiki/Middle-earth:_The_Role-playing_Game_set_in_J.R.R._Tolkien's_World).
+Redirect to [Middle-earth: The Role-playing Game set in J.R.R. Tolkien's World](Middle-earth%253A_The_Role-playing_Game_set_in_J.R.R._Tolkien's_World.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Culture, Communion and Recovery.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Culture, Communion and Recovery.jpg</span>"
 page_id: 65555
 namespace: 6
 revision_id: 377465

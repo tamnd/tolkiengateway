@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Middle-earth"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Middle-earth</span>"
 page_id: 24554
 namespace: 14
 revision_id: 199936
@@ -15,4 +14,4 @@ sort_keys:
   "Maps of Arda": "Middle-earth"
 ---
 
-Maps of the whole or the majority of [Middle-earth](/wiki/Middle-earth).
+Maps of the whole or the majority of [Middle-earth](../../main/M/Middle-earth.md).

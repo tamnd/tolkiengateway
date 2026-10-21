@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dôr"
 ---
 
-Redirect to [Dôr](/wiki/Dôr).
+Redirect to [Dôr](Dôr.md).

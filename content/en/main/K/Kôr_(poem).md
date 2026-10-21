@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The City of the Gods"
 ---
 
-Redirect to [The City of the Gods](/wiki/The_City_of_the_Gods).
+Redirect to [The City of the Gods](../T/The_City_of_the_Gods.md).

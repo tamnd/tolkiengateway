@@ -1,6 +1,5 @@
 ---
 title: "Girdle of Arda"
-display_title: "<span class=\"mw-page-title-main\">Girdle of Arda</span>"
 page_id: 68649
 namespace: 0
 revision_id: 439947
@@ -14,11 +13,11 @@ categories:
   - "Arda"
 ---
 
-The **girdle of Arda** was simply the line that indicated the northern and southern hemisphere of [Arda](/wiki/Arda). It was said that the Girdle of Arda ran right through the center of [Taniquetil](/wiki/Taniquetil).<sup id="cite_ref-" class="reference"><a href="#cite_note-">[1]</a></sup> Later on in the [Third age](/wiki/Third_age) it was more known as the Equator.<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup> <span></span>
+The **girdle of Arda** was simply the line that indicated the northern and southern hemisphere of [Arda](../A/Arda.md). It was said that the Girdle of Arda ran right through the center of [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-" class="reference"><a href="#cite_note-">[1]</a></sup> Later on in the [Third age](../T/Third_age~29089.md) it was more known as the Equator.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Two. <a href="/wiki/The_Annals_of_Aman" title="The Annals of Aman">The Annals of Aman</a>&#34;:  §144</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Two. <a href="../T/The_Annals_of_Aman.md" title="The Annals of Aman">The Annals of Aman</a>&#34;:  §144</span>
 </li>
 </ol></div>

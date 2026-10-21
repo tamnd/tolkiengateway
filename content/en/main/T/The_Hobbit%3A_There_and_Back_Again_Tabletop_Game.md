@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: There and Back Again"
 ---
 
-Redirect to [The Hobbit: There and Back Again](/wiki/The_Hobbit:_There_and_Back_Again).
+Redirect to [The Hobbit: There and Back Again](The_Hobbit%253A_There_and_Back_Again.md).

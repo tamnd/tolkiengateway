@@ -1,6 +1,5 @@
 ---
 title: "Category:Real-world"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Real-world</span>"
 page_id: 15334
 namespace: 14
 revision_id: 125737
@@ -15,4 +14,4 @@ sort_keys:
   "Articles": " Real-world"
 ---
 
-Articles whose subject is within the real-world rather then subject matter that is in the universe of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [legendarium](/wiki/Legendarium "Legendarium"). This includes both scholarly (Tolkien studies) and non-scholarly (fandom) views of his work.
+Articles whose subject is within the real-world rather then subject matter that is in the universe of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s [legendarium](../../main/L/Legendarium.md). This includes both scholarly (Tolkien studies) and non-scholarly (fandom) views of his work.

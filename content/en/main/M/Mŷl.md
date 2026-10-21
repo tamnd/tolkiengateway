@@ -15,15 +15,15 @@ sort_keys:
   "Sindarin nouns": "Myl"
 ---
 
-<i><b>mŷl</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "[gulls](/wiki/Gulls "Gulls")".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+<i><b>mŷl</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "[gulls](../G/Gulls.md)".<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Bar-in-Mŷl‎](/wiki/Ras_Mewrim "Ras Mewrim") ("Home of the Gulls")<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
+- [Bar-in-Mŷl‎](../R/Ras_Mewrim.md) ("Home of the Gulls")<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 
 ## Synonyms {#Synonyms}
 
-- *[maew](/wiki/Maew "Maew")*
+- *[maew](Maew.md)*
 
 <span></span>
 
@@ -31,6 +31,6 @@ sort_keys:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-WJ-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WJ_1-0">1.0</a></sup> <sup><a href="#cite_ref-WJ_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, pp. 379, 418 (note 8)</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, pp. 379, 418 (note 8)</span>
 </li>
 </ol></div>

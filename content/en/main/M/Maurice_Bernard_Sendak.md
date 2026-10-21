@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maurice Sendak"
 ---
 
-Redirect to [Maurice Sendak](/wiki/Maurice_Sendak).
+Redirect to [Maurice Sendak](Maurice_Sendak.md).

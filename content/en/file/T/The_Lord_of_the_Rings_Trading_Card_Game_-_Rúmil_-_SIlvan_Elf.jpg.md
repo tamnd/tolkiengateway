@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Rúmil - SIlvan Elf.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Rúmil - SIlvan Elf.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Rúmil_-_SIlvan_Elf.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Rúmil - SIlvan Elf.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Rúmil_-_SIlvan_Elf.jpg.md).

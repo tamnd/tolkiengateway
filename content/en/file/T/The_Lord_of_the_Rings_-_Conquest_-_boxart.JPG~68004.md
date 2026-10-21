@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - Conquest - boxart.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - Conquest - boxart.jpg](/wiki/File:The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg).
+Redirect to [File:The Lord of the Rings - Conquest - boxart.jpg](The_Lord_of_the_Rings_-_Conquest_-_boxart.jpg.md).

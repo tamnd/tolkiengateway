@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Diana Glyer"
 ---
 
-Redirect to [Diana Glyer](/wiki/Diana_Glyer).
+Redirect to [Diana Glyer](Diana_Glyer.md).

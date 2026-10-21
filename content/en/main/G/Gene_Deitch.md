@@ -1,6 +1,5 @@
 ---
 title: "Gene Deitch"
-display_title: "<span class=\"mw-page-title-main\">Gene Deitch</span>"
 page_id: 8568
 namespace: 0
 revision_id: 405641
@@ -21,9 +20,9 @@ images:
   - "Gene_Deitch.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Gene_Deitch.jpg"><img src="/w/images/thumb/0/0b/Gene_Deitch.jpg/300px-Gene_Deitch.jpg" decoding="async" loading="lazy" width="300" height="209" class="mw-file-element" srcset="/w/images/thumb/0/0b/Gene_Deitch.jpg/450px-Gene_Deitch.jpg 1.5x, /w/images/thumb/0/0b/Gene_Deitch.jpg/600px-Gene_Deitch.jpg 2x" data-file-width="1863" data-file-height="1297"/></a><figcaption>Gene Deitch</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gene_Deitch.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/Gene_Deitch.jpg/300px-Gene_Deitch.jpg" decoding="async" loading="lazy" width="300" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/Gene_Deitch.jpg/450px-Gene_Deitch.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0b/Gene_Deitch.jpg/600px-Gene_Deitch.jpg 2x" data-file-width="1863" data-file-height="1297"/></a><figcaption>Gene Deitch</figcaption></figure>
 
-**Gene Deitch** ([8 August](/wiki/8_August), [1924](/wiki/1924) – [16 April](/wiki/16_April), [2020](/wiki/2020)), was an American Academy Award-winning animator. Mainly known for his work on the Popeye and Tom and Jerry series, he was the director and creator of the [first animated film](</wiki/The_Hobbit_(1967_film)> "The Hobbit (1967 film)") of *[The Hobbit](/wiki/The_Hobbit)* in 1967. The film was produced by William Snyder and was made in under a month. The running time for the film was a minuscule 12 minutes and was produced simply so Snyder could extend his license for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, and sell it back to [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") and his publishers for $100,000.
+**Gene Deitch** ([8 August](../_/8_August.md), [1924](../_/1924.md) – [16 April](../_/16_April.md), [2020](../_/2020.md)), was an American Academy Award-winning animator. Mainly known for his work on the Popeye and Tom and Jerry series, he was the director and creator of the [first animated film](<../T/The_Hobbit_(1967_film).md>) of *[The Hobbit](../T/The_Hobbit.md)* in 1967. The film was produced by William Snyder and was made in under a month. The running time for the film was a minuscule 12 minutes and was produced simply so Snyder could extend his license for *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, and sell it back to [Tolkien](../J/J.R.R._Tolkien.md) and his publishers for $100,000.
 
 ## External links {#External_links}
 

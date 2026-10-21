@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ien"
 ---
 
-Redirect to [-ien](/wiki/-ien).
+Redirect to [-ien](../_/-ien.md).

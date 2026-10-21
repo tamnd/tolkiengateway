@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yavannië"
 ---
 
-Redirect to [Yavannië](/wiki/Yavannië).
+Redirect to [Yavannië](Yavannië.md).

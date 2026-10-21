@@ -1,6 +1,5 @@
 ---
 title: "File:Aiya Earendil Elenion Ancalima!.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aiya Earendil Elenion Ancalima!.png</span>"
 page_id: 62556
 namespace: 6
 revision_id: 353452

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ford of Brithiach"
 ---
 
-Redirect to [Ford of Brithiach](/wiki/Ford_of_Brithiach).
+Redirect to [Ford of Brithiach](../F/Ford_of_Brithiach.md).

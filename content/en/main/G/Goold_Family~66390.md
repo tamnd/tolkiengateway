@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goold family"
 ---
 
-Redirect to [Goold family](/wiki/Goold_family).
+Redirect to [Goold family](Goold_family.md).

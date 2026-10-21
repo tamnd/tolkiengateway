@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eques"
 ---
 
-Redirect to [Eques](/wiki/Eques).
+Redirect to [Eques](Eques.md).

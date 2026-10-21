@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Narvi.jpeg"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Narvi.jpeg](/wiki/File:The_Rings_of_Power_(TV_series)_-_Narvi.jpeg).
+Redirect to [File:The Rings of Power (TV series) - Narvi.jpeg](<../T/The_Rings_of_Power_(TV_series)_-_Narvi.jpeg.md>).

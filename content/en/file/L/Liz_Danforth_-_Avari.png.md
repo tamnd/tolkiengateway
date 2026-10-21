@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Avari.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Avari.png</span>"
 page_id: 28988
 namespace: 6
 revision_id: 274781
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by [Liz Danforth](/wiki/Liz_Danforth), portraying an [Avari](/wiki/Avari) Elf, appearing in *[Elves (book)](</wiki/Elves_(book)>)*.
+Image by [Liz Danforth](../../main/L/Liz_Danforth.md), portraying an [Avari](../../main/A/Avari.md) Elf, appearing in *[Elves (book)](<../../main/E/Elves_(book).md>)*.
 
 ## Licensing {#Licensing}
 

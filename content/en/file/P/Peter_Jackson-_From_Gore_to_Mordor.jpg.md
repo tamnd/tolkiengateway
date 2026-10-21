@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Jackson- From Gore to Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Jackson- From Gore to Mordor.jpg</span>"
 page_id: 26311
 namespace: 6
 revision_id: 214329

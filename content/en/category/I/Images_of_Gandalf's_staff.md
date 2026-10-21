@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Gandalf's staff"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Gandalf&#039;s staff</span>"
 page_id: 15053
 namespace: 14
 revision_id: 199854

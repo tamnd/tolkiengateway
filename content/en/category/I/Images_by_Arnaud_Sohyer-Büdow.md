@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Arnaud Sohyer-Büdow"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Arnaud Sohyer-Büdow</span>"
 page_id: 53669
 namespace: 14
 revision_id: 291979

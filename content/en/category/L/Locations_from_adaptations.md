@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations from adaptations</span>"
 page_id: 63384
 namespace: 14
 revision_id: 367168
@@ -14,4 +13,4 @@ categories:
   - "Locations"
 ---
 
-<dl><dd><i>Locations (and adaption-names of existing locations) that appear only in <b><a href="/wiki/Category:Adaptations" title="Category:Adaptations">adaptations</a></b>, and not within the <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>.</i></dd></dl>
+<dl><dd><i>Locations (and adaption-names of existing locations) that appear only in <b><a href="../A/Adaptations.md" title="Category:Adaptations">adaptations</a></b>, and not within the <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>.</i></dd></dl>

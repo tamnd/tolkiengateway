@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghâsh"
 ---
 
-Redirect to [Ghâsh](/wiki/Ghâsh).
+Redirect to [Ghâsh](Ghâsh.md).

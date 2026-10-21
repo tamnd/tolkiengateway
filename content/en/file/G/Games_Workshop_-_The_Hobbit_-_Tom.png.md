@@ -1,6 +1,5 @@
 ---
 title: "File:Games Workshop - The Hobbit - Tom.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games Workshop - The Hobbit - Tom.png</span>"
 page_id: 45534
 namespace: 6
 revision_id: 387444
@@ -25,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-<a class="mw-redirect mw-disambig" href="/wiki/Tom" title="Tom">Tom</a> in [The Hobbit Strategy Battle Game](/wiki/The_Hobbit_Strategy_Battle_Game).
+<a class="mw-redirect mw-disambig" href="../../main/T/Tom.md" title="Tom">Tom</a> in [The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
 
 ## Licensing {#Licensing}
 

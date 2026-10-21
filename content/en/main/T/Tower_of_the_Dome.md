@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dome of Stars"
 ---
 
-Redirect to [Dome of Stars](/wiki/Dome_of_Stars).
+Redirect to [Dome of Stars](../D/Dome_of_Stars.md).

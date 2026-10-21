@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Gameplay.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Gameplay.jpg</span>"
 page_id: 56429
 namespace: 6
 revision_id: 307548
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image from *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)*.
+Image from *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Éothain - Scout of the Mark.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Éothain - Scout of the Mark.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Éothain_-_Scout_of_the_Mark.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Éothain - Scout of the Mark.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Éothain_-_Scout_of_the_Mark.jpg.md).

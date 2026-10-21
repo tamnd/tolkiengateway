@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/HelenKei"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/HelenKei</span>"
 page_id: 49505
 namespace: 4
 revision_id: 264741
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "HelenKei"
 ---
 
-- HelenKei has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_HelenKei "Category:Images by HelenKei") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- HelenKei has kindly granted her permission to use [her artwork](../../category/I/Images_by_HelenKei.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 1 April 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southfarthing"
 ---
 
-Redirect to [Southfarthing](/wiki/Southfarthing).
+Redirect to [Southfarthing](Southfarthing.md).

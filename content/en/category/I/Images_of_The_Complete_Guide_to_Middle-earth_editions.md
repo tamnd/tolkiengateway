@@ -15,4 +15,4 @@ sort_keys:
   "Images of books": "Complete Guide to Middle earth"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> editions</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> editions</b>.</dd></dl>

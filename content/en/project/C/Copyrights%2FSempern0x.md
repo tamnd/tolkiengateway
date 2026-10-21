@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sempern0x"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sempern0x</span>"
 page_id: 58041
 namespace: 4
 revision_id: 322184
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sempern0x"
 ---
 
-- Sempern0x has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Sempern0x "Category:Images by Sempern0x") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Sempern0x has kindly granted her permission to use [her artwork](../../category/I/Images_by_Sempern0x.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rorimac Brandybuck"
 ---
 
-Redirect to [Rorimac Brandybuck](/wiki/Rorimac_Brandybuck).
+Redirect to [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md).

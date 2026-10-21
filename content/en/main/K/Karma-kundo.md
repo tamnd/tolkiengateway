@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Regent of Gondor"
 ---
 
-Redirect to [Regent of Gondor](/wiki/Regent_of_Gondor).
+Redirect to [Regent of Gondor](../R/Regent_of_Gondor.md).

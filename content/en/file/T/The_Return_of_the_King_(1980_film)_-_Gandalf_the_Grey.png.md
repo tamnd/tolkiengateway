@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Gandalf the Grey.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Gandalf the Grey.png</span>"
 page_id: 71836
 namespace: 6
 revision_id: 427982
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf the Grey](/wiki/Gandalf "Gandalf") - [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")
+[Gandalf the Grey](../../main/G/Gandalf.md) - [*The Return of the King* (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Licensing {#Licensing}
 

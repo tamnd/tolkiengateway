@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Terry A. Ernest"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Terry A. Ernest</span>"
 page_id: 40442
 namespace: 4
 revision_id: 205086
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ernest, Terry A."
 ---
 
-- Terry A. Ernest has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Terry_A._Ernest "Category:Images by Terry A. Ernest") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Terry A. Ernest has kindly granted his permission to use [his artwork](../../category/I/Images_by_Terry_A._Ernest.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - This must be applied to all images: "No Derivative Works — You may not alter, transform, or build upon this work."
 - Date: 10 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

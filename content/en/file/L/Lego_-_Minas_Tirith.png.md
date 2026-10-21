@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Minas Tirith.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Minas Tirith.png</span>"
 page_id: 74469
 namespace: 6
 revision_id: 438533
@@ -35,15 +34,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/en-us/product/icons-11377-11377" rel="noreferrer noopener" target="_blank">https://www.lego.com/en-us/product/icons-11377-11377</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

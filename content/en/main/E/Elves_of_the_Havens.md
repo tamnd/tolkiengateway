@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falathrim"
 ---
 
-Redirect to [Falathrim](/wiki/Falathrim).
+Redirect to [Falathrim](../F/Falathrim.md).

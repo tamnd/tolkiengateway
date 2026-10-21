@@ -1,6 +1,5 @@
 ---
 title: "Category:MMORPG"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MMORPG</span>"
 page_id: 20515
 namespace: 14
 revision_id: 196017
@@ -13,4 +12,4 @@ categories:
   - "Video games by genre"
 ---
 
-This category and its subcategories list all **MMORPG** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category and its subcategories list all **MMORPG** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

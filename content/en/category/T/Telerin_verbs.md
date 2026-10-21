@@ -1,6 +1,5 @@
 ---
 title: "Category:Telerin verbs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Telerin verbs</span>"
 page_id: 21563
 namespace: 14
 revision_id: 219804

@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRSBG Siege of Gondor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRSBG Siege of Gondor.jpg</span>"
 page_id: 26508
 namespace: 6
 revision_id: 433583

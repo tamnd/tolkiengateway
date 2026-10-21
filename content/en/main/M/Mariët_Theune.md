@@ -1,6 +1,5 @@
 ---
 title: "Mariët Theune"
-display_title: "<span class=\"mw-page-title-main\">Mariët Theune</span>"
 page_id: 37924
 namespace: 0
 revision_id: 183304
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Theune, Mariet"
 ---
 
-**Mariët Theune** is a fan artist who created numerous [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-inspired illustrations between 1985-1987.
+**Mariët Theune** is a fan artist who created numerous [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-inspired illustrations between 1985-1987.
 
 ## See also {#See_also}
 
-- [Images by Mariët Theune](/wiki/Category:Images_by_Mari%C3%ABt_Theune "Category:Images by Mariët Theune")
+- [Images by Mariët Theune](../../category/I/Images_by_Mariët_Theune.md)
 
 ## External links {#External_links}
 

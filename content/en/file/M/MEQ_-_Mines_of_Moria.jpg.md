@@ -1,6 +1,5 @@
 ---
 title: "File:MEQ - Mines of Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MEQ - Mines of Moria.jpg</span>"
 page_id: 26296
 namespace: 6
 revision_id: 214535

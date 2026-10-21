@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Celondim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Celondim.jpg</span>"
 page_id: 65274
 namespace: 6
 revision_id: 375606
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of [Celondim](/wiki/Celondim) in the Lord of the Rings Online
+A screenshot of [Celondim](../../main/C/Celondim.md) in the Lord of the Rings Online
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moon-letters"
 ---
 
-Redirect to [Moon-letters](/wiki/Moon-letters).
+Redirect to [Moon-letters](Moon-letters.md).

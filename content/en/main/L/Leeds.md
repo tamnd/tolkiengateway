@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "University of Leeds"
 ---
 
-Redirect to [University of Leeds](/wiki/University_of_Leeds).
+Redirect to [University of Leeds](../U/University_of_Leeds.md).

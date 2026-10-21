@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Symphony"
 ---
 
-Redirect to [The Lord of the Rings Symphony](/wiki/The_Lord_of_the_Rings_Symphony).
+Redirect to [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md).

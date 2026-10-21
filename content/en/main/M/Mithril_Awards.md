@@ -1,6 +1,5 @@
 ---
 title: "Mithril Awards"
-display_title: "<span class=\"mw-page-title-main\">Mithril Awards</span>"
 page_id: 13097
 namespace: 0
 revision_id: 325907
@@ -13,7 +12,7 @@ categories:
   - "Fandom"
 ---
 
-The **Mithril Awards** were awards for [fanfiction](/wiki/Fanfiction "Fanfiction") given out annually on the Internet.
+The **Mithril Awards** were awards for [fanfiction](../F/Fanfiction.md) given out annually on the Internet.
 
 ## Links {#Links}
 

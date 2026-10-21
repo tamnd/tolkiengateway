@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Matthew Burton"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Matthew Burton</span>"
 page_id: 48207
 namespace: 4
 revision_id: 257267
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Burton, Matthew"
 ---
 
-- Matthew Burton has kindly granted his permission to use [File:Matthew Burton - Minas Morgul.jpg](/wiki/File:Matthew_Burton_-_Minas_Morgul.jpg) on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Matthew Burton has kindly granted his permission to use [File:Matthew Burton - Minas Morgul.jpg](../../file/M/Matthew_Burton_-_Minas_Morgul.jpg.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Statement from copyright holder: "*Provided the site is indeed for non-commercial purposes then you have my blessing.* " (DeviantArt)
 - Date: 31 October 2014
-- User who sought the permission via DeviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via DeviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

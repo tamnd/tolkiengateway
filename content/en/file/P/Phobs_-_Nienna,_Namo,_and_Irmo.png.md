@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Nienna, Namo, and Irmo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Nienna, Namo, and Irmo.png</span>"
 page_id: 52242
 namespace: 6
 revision_id: 284885
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Fëanturi](/wiki/F%C3%ABanturi) - [Irmo](/wiki/Irmo) and [Námo](/wiki/Mandos "Mandos") with their sister [Nienna](/wiki/Nienna)
+The [Fëanturi](../../main/F/Fëanturi.md) - [Irmo](../../main/I/Irmo.md) and [Námo](../../main/M/Mandos.md) with their sister [Nienna](../../main/N/Nienna.md)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ The [Fëanturi](/wiki/F%C3%ABanturi) - [Irmo](/wiki/Irmo) and [Námo](/wiki/Mand
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

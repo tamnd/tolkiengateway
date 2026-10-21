@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Constantin Marin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Constantin Marin</span>"
 page_id: 74767
 namespace: 14
 revision_id: 439744
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Marin, Constantin"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Constantin_Marin&amp;action=edit&amp;redlink=1" title="Constantin Marin (page does not exist)">Constantin Marin</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constantin_Marin&amp;action=edit&amp;redlink=1" title="Constantin Marin (page does not exist)">Constantin Marin</a></b>.

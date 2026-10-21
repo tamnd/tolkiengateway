@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northwestern Middle-earth Gazetteer"
 ---
 
-Redirect to [Northwestern Middle-earth Gazetteer](/wiki/Northwestern_Middle-earth_Gazetteer).
+Redirect to [Northwestern Middle-earth Gazetteer](../N/Northwestern_Middle-earth_Gazetteer.md).

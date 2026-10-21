@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dolmed"
 ---
 
-Redirect to [Dolmed](/wiki/Dolmed).
+Redirect to [Dolmed](../D/Dolmed.md).

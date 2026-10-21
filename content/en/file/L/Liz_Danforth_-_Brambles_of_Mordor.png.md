@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Brambles of Mordor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Brambles of Mordor.png</span>"
 page_id: 71408
 namespace: 6
 revision_id: 427779
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Brambles of Mordor](/wiki/Brambles_of_Mordor)" by [Liz Danforth](/wiki/Liz_Danforth) for *[Gorgoroth](</wiki/Gorgoroth_(book)> "Gorgoroth (book)")*
+"[Brambles of Mordor](../../main/B/Brambles_of_Mordor.md)" by [Liz Danforth](../../main/L/Liz_Danforth.md) for *[Gorgoroth](<../../main/G/Gorgoroth_(book).md>)*
 
 ## Licensing {#Licensing}
 

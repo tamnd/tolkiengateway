@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lesser rings"
 ---
 
-Redirect to [Lesser rings](/wiki/Lesser_rings).
+Redirect to [Lesser rings](Lesser_rings.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Corsairs.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Corsairs.gif</span>"
 page_id: 15800
 namespace: 6
 revision_id: 437133
@@ -26,9 +25,9 @@ file:
   user: "Narfil Palùrfalas"
 ---
 
-A [Gondorian](/wiki/Gondorian) wearing the [White Tree of Gondor](/wiki/White_Tree_of_Gondor) battling (apparently) a [Corsair](/wiki/Corsair).
+A [Gondorian](../../main/G/Gondorian.md) wearing the [White Tree of Gondor](../../main/W/White_Tree_of_Gondor.md) battling (apparently) a [Corsair](../../main/C/Corsair.md).
 
-Interestingly, the Corsair is wearing a [Númenórean helmet](/wiki/File:J.R.R._Tolkien_-_N%C3%BAmen%C3%B3rean_helmet.jpg "File:J.R.R. Tolkien - Númenórean helmet.jpg")
+Interestingly, the Corsair is wearing a [Númenórean helmet](../J/J.R.R._Tolkien_-_Númenórean_helmet.jpg.md)
 
 ## Licensing {#Licensing}
 

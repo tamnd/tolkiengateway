@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Deeping-coomb"
 ---
 
-Redirect to [Deeping-coomb](/wiki/Deeping-coomb).
+Redirect to [Deeping-coomb](../D/Deeping-coomb.md).

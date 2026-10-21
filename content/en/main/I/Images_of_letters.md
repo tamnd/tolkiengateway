@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of letters by J.R.R. Tolkien"
 ---
 
-Redirect to [Category:Images of letters by J.R.R. Tolkien](/wiki/Category:Images_of_letters_by_J.R.R._Tolkien).
+Redirect to [Category:Images of letters by J.R.R. Tolkien](../../category/I/Images_of_letters_by_J.R.R._Tolkien.md).

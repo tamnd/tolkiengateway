@@ -1,6 +1,5 @@
 ---
 title: "File:Benedict Cumberbatch.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Benedict Cumberbatch.jpg</span>"
 page_id: 35673
 namespace: 6
 revision_id: 224755

@@ -15,21 +15,21 @@ sort_keys:
   "Khuzdul words": "Zaram"
 ---
 
-<i><b>zâram</b></i> means "lake, mere" in [Khuzdul](/wiki/Khuzdul)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>zâram</b></i> means "lake, mere" in [Khuzdul](../K/Khuzdul.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Radical consonants \*ZRM, perhaps pointing to an ancient root \*Z'R (cf. [Adûnaic](/wiki/Ad%C3%BBnaic) *[azra](/wiki/Azra "Azra")*)
+Radical consonants \*ZRM, perhaps pointing to an ancient root \*Z'R (cf. [Adûnaic](../A/Adûnaic.md) *[azra](../A/Azra.md)*)
 
 ## See also {#See_also}
 
-- [Kheled-zâram](/wiki/Kheled-z%C3%A2ram)
+- [Kheled-zâram](../K/Kheled-zâram.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Return_of_the_Shadow" title="The Return of the Shadow">The Return of the Shadow</a></i>, p. 466</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i>, p. 466</span>
 </li>
 </ol></div>

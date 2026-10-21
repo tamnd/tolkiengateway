@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Last Alliance"
 ---
 
-Redirect to [War of the Last Alliance](/wiki/War_of_the_Last_Alliance).
+Redirect to [War of the Last Alliance](War_of_the_Last_Alliance.md).

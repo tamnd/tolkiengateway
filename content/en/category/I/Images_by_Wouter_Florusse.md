@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Wouter Florusse"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Wouter Florusse</span>"
 page_id: 44683
 namespace: 14
 revision_id: 235237

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwaihir"
 ---
 
-Redirect to [Gwaihir](/wiki/Gwaihir).
+Redirect to [Gwaihir](Gwaihir.md).

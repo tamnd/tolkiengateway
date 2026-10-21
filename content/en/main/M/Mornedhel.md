@@ -11,4 +11,4 @@ redirect_target: "Avari"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Avari](/wiki/Avari#Names).
+Redirect to [Avari](../A/Avari.md#Names).

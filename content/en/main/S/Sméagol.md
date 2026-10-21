@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gollum"
 ---
 
-Redirect to [Gollum](/wiki/Gollum).
+Redirect to [Gollum](../G/Gollum.md).

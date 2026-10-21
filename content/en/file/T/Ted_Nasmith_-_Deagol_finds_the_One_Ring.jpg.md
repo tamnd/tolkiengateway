@@ -1,6 +1,5 @@
 ---
 title: "File:Ted Nasmith - Deagol finds the One Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ted Nasmith - Deagol finds the One Ring.jpg</span>"
 page_id: 71201
 namespace: 6
 revision_id: 427977

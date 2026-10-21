@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Etymologies"
 ---
 
-Redirect to [The Etymologies](/wiki/The_Etymologies).
+Redirect to [The Etymologies](../T/The_Etymologies.md).

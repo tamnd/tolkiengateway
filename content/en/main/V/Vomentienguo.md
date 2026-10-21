@@ -13,9 +13,9 @@ categories:
   - "Telerin words"
 ---
 
-<i><b>vomentienguo</b></i> is a [Telerin](/wiki/Telerin) word.<sup id="cite_ref-WJQ_1-0" class="reference"><a href="#cite_note-WJQ-1">[1]</a></sup>
+<i><b>vomentienguo</b></i> is a [Telerin](../T/Telerin.md) word.<sup id="cite_ref-WJQ_1-0" class="reference"><a href="#cite_note-WJQ-1">[1]</a></sup>
 
-[Helge Fauskanger](/wiki/Helge_Fauskanger) has suggested that it corresponds to the English phrase "of our meeting".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) has suggested that it corresponds to the English phrase "of our meeting".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
@@ -27,8 +27,8 @@ categories:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-WJQ-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WJQ_1-0">1.0</a></sup> <sup><a href="#cite_ref-WJQ_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, pp. 367, 407</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, pp. 367, 407</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/telerin.htm" rel="noreferrer noopener" target="_blank">&#34;Telerin - the language of the Sea-elves&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://folk.uib.no" rel="noreferrer noopener" target="_blank">folk.uib.no</a></span>. <span class="cite-web-accessed">Retrieved 3 February 2012</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/telerin.htm" rel="noreferrer noopener" target="_blank">&#34;Telerin - the language of the Sea-elves&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://folk.uib.no" rel="noreferrer noopener" target="_blank">folk.uib.no</a></span>. <span class="cite-web-accessed">Retrieved 3 February 2012</span></cite></span>
 </li>
 </ol></div>

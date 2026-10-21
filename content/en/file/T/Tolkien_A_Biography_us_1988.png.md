@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien A Biography us 1988.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien A Biography us 1988.png</span>"
 page_id: 62179
 namespace: 6
 revision_id: 350367

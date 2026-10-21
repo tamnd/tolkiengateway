@@ -1,6 +1,5 @@
 ---
 title: "File:The Rarities Archive.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rarities Archive.jpg</span>"
 page_id: 59886
 namespace: 6
 revision_id: 334871
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The album cover of *[The Lord of the Rings: The Rarities Archive](/wiki/The_Lord_of_the_Rings:_The_Rarities_Archive)*.
+The album cover of *[The Lord of the Rings: The Rarities Archive](../../main/T/The_Lord_of_the_Rings%253A_The_Rarities_Archive.md)*.
 
 ## Licensing {#Licensing}
 

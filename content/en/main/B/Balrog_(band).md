@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balrog (disambiguation)"
 ---
 
-Redirect to [Balrog (disambiguation)](/wiki/Balrog_(disambiguation)).
+Redirect to [Balrog (disambiguation)](<Balrog_(disambiguation).md>).

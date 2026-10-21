@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Emeldir"
 ---
 
-Redirect to [Emeldir](/wiki/Emeldir).
+Redirect to [Emeldir](../E/Emeldir.md).

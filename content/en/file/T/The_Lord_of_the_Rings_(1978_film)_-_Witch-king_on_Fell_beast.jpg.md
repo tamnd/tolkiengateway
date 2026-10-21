@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Witch-king on Fell beast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Witch-king on Fell beast.jpg</span>"
 page_id: 74583
 namespace: 6
 revision_id: 438974
@@ -33,22 +32,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings (1978 film) - Witch-king on Fell beast.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Witch-king" title="Witch-king">The Witch-king</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> riding a <a class="mw-redirect" href="/wiki/Fell_beast" title="Fell beast">Fell beast</a>
+<p><a href="../../main/W/Witch-king.md" title="Witch-king">The Witch-king</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> riding a <a class="mw-redirect" href="../../main/F/Fell_beast.md" title="Fell beast">Fell beast</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/16_November" title="16 November">November 15</a> <a href="/wiki/1978" title="1978">1978</a></td>
+<td><a href="../../main/_/16_November.md" title="16 November">November 15</a> <a href="../../main/_/1978.md" title="1978">1978</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/ralphbakshi/status/1963398457496145951" rel="noreferrer noopener" target="_blank">https://x.com/ralphbakshi/status/1963398457496145951</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
@@ -60,6 +55,6 @@ file:
 </div>
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Twitter</i>, <a class="external text" href="https://x.com/ralphbakshi/status/2036248745554375003" rel="noreferrer noopener" target="_blank">The Witch-King of Angmar.  Original production cels from #LOTR are now back at our ebay shop</a> by <a href="/wiki/Ralph_Bakshi" title="Ralph Bakshi">Ralph Bakshi</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>Twitter</i>, <a class="external text" href="https://x.com/ralphbakshi/status/2036248745554375003" rel="noreferrer noopener" target="_blank">The Witch-King of Angmar.  Original production cels from #LOTR are now back at our ebay shop</a> by <a href="../../main/R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></span>
 </li>
 </ol></div>

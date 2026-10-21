@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Muster of Edoras"
 ---
 
-Redirect to [Muster of Edoras](/wiki/Muster_of_Edoras).
+Redirect to [Muster of Edoras](Muster_of_Edoras.md).

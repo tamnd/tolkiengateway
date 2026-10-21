@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lisgardh"
 ---
 
-Redirect to [Lisgardh](/wiki/Lisgardh).
+Redirect to [Lisgardh](../L/Lisgardh.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Seers"
 ---
 
-Redirect to [Seers](/wiki/Seers).
+Redirect to [Seers](Seers.md).

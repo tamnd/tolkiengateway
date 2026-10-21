@@ -1,6 +1,5 @@
 ---
 title: "File:InDeepBlue - Gimli in Lothlorien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">InDeepBlue - Gimli in Lothlorien.jpg</span>"
 page_id: 65612
 namespace: 6
 revision_id: 377906
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> InDeepBlue</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/indeepblue" rel="noreferrer noopener" target="_blank">InDeepBlue on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/InDeepBlue" title="Tolkien Gateway:Copyrights/InDeepBlue">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FInDeepBlue.md" title="Tolkien Gateway:Copyrights/InDeepBlue">Permission for use on Tolkien Gateway</a></b></li></ul></div>

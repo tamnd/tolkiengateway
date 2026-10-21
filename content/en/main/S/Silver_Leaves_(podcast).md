@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Silver Leaves"
 ---
 
-<i><b>Silver Leaves</b></i> is a podcast from the journal team of *[Silver Leaves](/wiki/Silver_Leaves)*, the journal of [the White Tree Fund](/wiki/The_White_Tree_Fund "The White Tree Fund").
+<i><b>Silver Leaves</b></i> is a podcast from the journal team of *[Silver Leaves](Silver_Leaves.md)*, the journal of [the White Tree Fund](../T/The_White_Tree_Fund.md).
 
 ## External links {#External_links}
 

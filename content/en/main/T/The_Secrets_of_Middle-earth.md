@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Secrets of Middle-earth, The"
 ---
 
-<i><b>The Secrets of Middle-earth</b></i> is a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-related podcast hosted by Fr. Roderick. It was formerly known as *The Secrets of the Lord of the Rings* but the name of the podcast was changed to *The Secrets of Middle-earth* on [2 July](/wiki/2_July), [2010](/wiki/2010).
+<i><b>The Secrets of Middle-earth</b></i> is a [Tolkien](../J/J.R.R._Tolkien.md)-related podcast hosted by Fr. Roderick. It was formerly known as *The Secrets of the Lord of the Rings* but the name of the podcast was changed to *The Secrets of Middle-earth* on [2 July](../_/2_July.md), [2010](../_/2010.md).
 
 ## External links {#External_links}
 

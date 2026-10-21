@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien & Co"
 ---
 
-Redirect to [Tolkien &amp; Co](/wiki/Tolkien_&_Co).
+Redirect to [Tolkien &amp; Co](../T/Tolkien_&_Co.md).

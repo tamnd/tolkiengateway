@@ -1,6 +1,5 @@
 ---
 title: "File:MEQ - Treason at Helm's Deep (Spanish Cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MEQ - Treason at Helm&#039;s Deep (Spanish Cover).jpg</span>"
 page_id: 72426
 namespace: 6
 revision_id: 430479
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*El Abismo de Helm* - Spanish cover of *[Treason at Helm's Deep](/wiki/Treason_at_Helm%27s_Deep)*.
+*El Abismo de Helm* - Spanish cover of *[Treason at Helm's Deep](../../main/T/Treason_at_Helm's_Deep.md)*.
 
 ## Source {#Source}
 

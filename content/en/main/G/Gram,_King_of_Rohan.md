@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gram"
 ---
 
-Redirect to [Gram](/wiki/Gram).
+Redirect to [Gram](Gram.md).

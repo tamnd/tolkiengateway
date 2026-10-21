@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Lady Elleth"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Lady Elleth</span>"
 page_id: 50063
 namespace: 4
 revision_id: 271025
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lady Elleth"
 ---
 
-- Lady Elleth has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Lady_Elleth "Category:Images by Lady Elleth") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Lady Elleth has kindly granted her permission to use [her artwork](../../category/I/Images_by_Lady_Elleth.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 1 June 2015
-- User who sought the permission via DeviantArt: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via DeviantArt: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lobelia Sackville-Baggins"
 ---
 
-Redirect to [Lobelia Sackville-Baggins](/wiki/Lobelia_Sackville-Baggins).
+Redirect to [Lobelia Sackville-Baggins](Lobelia_Sackville-Baggins.md).

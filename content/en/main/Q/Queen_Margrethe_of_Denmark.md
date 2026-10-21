@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Margrethe II of Denmark"
 ---
 
-Redirect to [Margrethe II of Denmark](/wiki/Margrethe_II_of_Denmark).
+Redirect to [Margrethe II of Denmark](../M/Margrethe_II_of_Denmark.md).

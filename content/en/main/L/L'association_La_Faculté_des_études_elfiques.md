@@ -1,6 +1,5 @@
 ---
 title: "L'association La Faculté des études elfiques"
-display_title: "<span class=\"mw-page-title-main\">L&#039;association La Faculté des études elfiques</span>"
 page_id: 36968
 namespace: 0
 revision_id: 177346
@@ -14,11 +13,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-**L'association La Faculté des études elfiques**, FEE, was a [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") in France.
+**L'association La Faculté des études elfiques**, FEE, was a [Tolkien Society](../T/Tolkien_Societies~67099.md) in France.
 
 ## History {#History}
 
-FEE was founded in 1985 by [Édouard Kloczko](/wiki/%C3%89douard_Kloczko) and disbanded in 1993.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+FEE was founded in 1985 by [Édouard Kloczko](../_/Édouard_Kloczko.md) and disbanded in 1993.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Publications {#Publications}
 

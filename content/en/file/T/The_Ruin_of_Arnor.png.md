@@ -1,6 +1,5 @@
 ---
 title: "File:The Ruin of Arnor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ruin of Arnor.png</span>"
 page_id: 36145
 namespace: 6
 revision_id: 433575

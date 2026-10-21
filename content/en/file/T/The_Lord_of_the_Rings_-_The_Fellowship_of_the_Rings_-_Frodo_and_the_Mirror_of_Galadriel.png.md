@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Rings - Frodo and the Mirror of Galadriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Rings - Frodo and the Mirror of Galadriel.png</span>"
 page_id: 69096
 namespace: 6
 revision_id: 412628

@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Tarondor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Tarondor.png</span>"
 page_id: 30708
 namespace: 6
 revision_id: 203330
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tarondor (King of Gondor)](</wiki/Tarondor_(King_of_Gondor)>). Art by [Liz Danforth](/wiki/Liz_Danforth), from Graham Staplehurst, *[Minas Tirith (2nd edition)](</wiki/Minas_Tirith_(1994_book)> "Minas Tirith (1994 book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2007, 1994)
+[Tarondor (King of Gondor)](<../../main/T/Tarondor_(King_of_Gondor).md>). Art by [Liz Danforth](../../main/L/Liz_Danforth.md), from Graham Staplehurst, *[Minas Tirith (2nd edition)](<../../main/M/Minas_Tirith_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2007, 1994)
 
 <br>
 

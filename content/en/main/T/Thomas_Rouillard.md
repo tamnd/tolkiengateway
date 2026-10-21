@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Thomas Rouillard"
 ---
 
-Redirect to [Category:Images by Thomas Rouillard](/wiki/Category:Images_by_Thomas_Rouillard).
+Redirect to [Category:Images by Thomas Rouillard](../../category/I/Images_by_Thomas_Rouillard.md).

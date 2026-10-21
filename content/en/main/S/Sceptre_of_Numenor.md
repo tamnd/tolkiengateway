@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sceptre of Númenor"
 ---
 
-Redirect to [Sceptre of Númenor](/wiki/Sceptre_of_Númenor).
+Redirect to [Sceptre of Númenor](Sceptre_of_Númenor.md).

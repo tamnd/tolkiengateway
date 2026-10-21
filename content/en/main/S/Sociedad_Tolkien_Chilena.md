@@ -1,6 +1,5 @@
 ---
 title: "Sociedad Tolkien Chilena"
-display_title: "<span class=\"mw-page-title-main\">Sociedad Tolkien Chilena</span>"
 page_id: 64625
 namespace: 0
 revision_id: 407257
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-The **Sociedad Tolkien Chilena** ("Chilean Tolkien Society") or **STC**, is the [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") in Chile. It was established in 1998.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Sociedad Tolkien Chilena** ("Chilean Tolkien Society") or **STC**, is the [Tolkien Society](../T/Tolkien_Societies~67099.md) in Chile. It was established in 1998.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Publications {#Publications}
 

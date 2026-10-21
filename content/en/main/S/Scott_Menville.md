@@ -1,6 +1,5 @@
 ---
 title: "Scott Menville"
-display_title: "<span class=\"mw-page-title-main\">Scott Menville</span>"
 page_id: 19444
 namespace: 0
 revision_id: 154607
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Menville, Scott"
 ---
 
-**Scott Menville** ([February 12](/wiki/12_February "12 February"), [1971](/wiki/1971)) is an American voice actor, probably best known as Robin in the TV series <i><a class="extiw" href="http://en.wikipedia.org/wiki/Teen_Titans_(TV_series)" title="wikipedia:Teen Titans (TV series)">Teen Titans</a></i>. He voiced [Samwise Gamgee](/wiki/Samwise_Gamgee) in the [Vivendi](/wiki/Vivendi)'s video game *[The Lord of the Rings: The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)")*.
+**Scott Menville** ([February 12](../_/12_February.md), [1971](../_/1971.md)) is an American voice actor, probably best known as Robin in the TV series <i><a class="extiw" href="http://en.wikipedia.org/wiki/Teen_Titans_(TV_series)" title="wikipedia:Teen Titans (TV series)">Teen Titans</a></i>. He voiced [Samwise Gamgee](Samwise_Gamgee.md) in the [Vivendi](../V/Vivendi.md)'s video game *[The Lord of the Rings: The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Mythology me.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythology me.jpg</span>"
 page_id: 26088
 namespace: 6
 revision_id: 214303

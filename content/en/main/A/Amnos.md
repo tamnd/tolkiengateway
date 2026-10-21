@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hanstovánen"
 ---
 
-Redirect to [Hanstovánen](/wiki/Hanstovánen).
+Redirect to [Hanstovánen](../H/Hanstovánen.md).

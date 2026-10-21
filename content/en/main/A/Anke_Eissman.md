@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anke Eißmann"
 ---
 
-Redirect to [Anke Eißmann](/wiki/Anke_Eißmann).
+Redirect to [Anke Eißmann](Anke_Eißmann.md).

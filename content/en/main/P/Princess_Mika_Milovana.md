@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mika Milovana"
 ---
 
-Redirect to [Mika Milovana](/wiki/Mika_Milovana).
+Redirect to [Mika Milovana](../M/Mika_Milovana.md).

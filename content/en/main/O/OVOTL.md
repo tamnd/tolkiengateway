@@ -11,4 +11,4 @@ redirect_target: "Help:Glossary"
 redirect_fragment: "Common acronyms"
 ---
 
-Redirect to [Help:Glossary](/wiki/Help:Glossary#Common_acronyms).
+Redirect to [Help:Glossary](../../help/G/Glossary.md#Common_acronyms).

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Theoden.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Theoden.gif</span>"
 page_id: 12018
 namespace: 6
 revision_id: 204080

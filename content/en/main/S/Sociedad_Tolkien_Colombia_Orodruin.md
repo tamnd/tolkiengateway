@@ -1,6 +1,5 @@
 ---
 title: "Sociedad Tolkien Colombia Orodruin"
-display_title: "<span class=\"mw-page-title-main\">Sociedad Tolkien Colombia Orodruin</span>"
 page_id: 65524
 namespace: 0
 revision_id: 407258
@@ -13,15 +12,15 @@ categories:
   - "Tolkien Societies"
 ---
 
-The **Sociedad Tolkien Colombia Orodruin** (Spanish: "Tolkien Society Colombia Orodruin"), or **STCO**, is a [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") based in Colombia. It is active in 2023 as it's Facebook page shows activity.
+The **Sociedad Tolkien Colombia Orodruin** (Spanish: "Tolkien Society Colombia Orodruin"), or **STCO**, is a [Tolkien Society](../T/Tolkien_Societies~67099.md) based in Colombia. It is active in 2023 as it's Facebook page shows activity.
 
 ## History {#History}
 
-The society was founded on [24 July](/wiki/24_July) [1999](/wiki/1999)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> by Guillermo Correa (1944-2020) and Alejandro Botero in <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. They initially wanted to join the [Spanish Tolkien Society](/wiki/Spanish_Tolkien_Society), but were encouraged to found their own society instead.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The society was founded on [24 July](../_/24_July.md) [1999](../_/1999.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> by Guillermo Correa (1944-2020) and Alejandro Botero in <a class="extiw" href="http://en.wikipedia.org/wiki/Medell%C3%ADn" title="wikipedia:Medellín">Medellín</a>. They initially wanted to join the [Spanish Tolkien Society](Spanish_Tolkien_Society.md), but were encouraged to found their own society instead.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Publications {#Publications}
 
-Since 2015, the society publishes an biannual journal called *Dragón Verde* (Spanish:" [Green Dragon](/wiki/The_Green_Dragon "The Green Dragon")"). Notable cover artists have been [Jemima Caitlin](/wiki/Jemima_Caitlin), [Donato Giancola](/wiki/Donato_Giancola), [Ted Nasmith](/wiki/Ted_Nasmith), [Jenny Dolfen](/wiki/Jenny_Dolfen), [David Wenzel](/wiki/David_Wenzel), [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann) and [Matěj Čadil](/wiki/Mat%C4%9Bj_%C4%8Cadil).
+Since 2015, the society publishes an biannual journal called *Dragón Verde* (Spanish:" [Green Dragon](../T/The_Green_Dragon.md)"). Notable cover artists have been [Jemima Caitlin](../J/Jemima_Caitlin.md), [Donato Giancola](../D/Donato_Giancola.md), [Ted Nasmith](../T/Ted_Nasmith.md), [Jenny Dolfen](../J/Jenny_Dolfen.md), [David Wenzel](../D/David_Wenzel.md), [Anke Eißmann](../A/Anke_Eißmann.md) and [Matěj Čadil](../M/Matěj_Čadil.md).
 
 ## External links {#External_links}
 

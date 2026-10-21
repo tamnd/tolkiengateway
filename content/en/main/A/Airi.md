@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aina"
 ---
 
-Redirect to [Aina](/wiki/Aina).
+Redirect to [Aina](Aina.md).

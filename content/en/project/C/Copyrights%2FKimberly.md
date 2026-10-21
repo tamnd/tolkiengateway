@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Kimberly"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Kimberly</span>"
 page_id: 47135
 namespace: 4
 revision_id: 252715
@@ -15,9 +14,9 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kimberly"
 ---
 
-- Kimberly has kindly granted her permission to use selected artwork on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Kimberly has kindly granted her permission to use selected artwork on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 July 2014
-- User who sought the permission via a private message: [User:Sandy](/wiki/User:Sandy)
+- User who sought the permission via a private message: [User:Sandy](https://tolkiengateway.net/wiki/User:Sandy)
 
 - Date: 14 August 2014
-- User who reconfirmed permission via deviantArt: [User:Mith](/wiki/User:Mith)
+- User who reconfirmed permission via deviantArt: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

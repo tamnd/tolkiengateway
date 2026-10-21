@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Titles"
 ---
 
-Redirect to [Category:Titles](/wiki/Category:Titles).
+Redirect to [Category:Titles](../../category/T/Titles.md).

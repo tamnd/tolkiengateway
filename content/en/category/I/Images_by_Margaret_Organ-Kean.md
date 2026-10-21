@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Margaret Organ-Kean"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Margaret Organ-Kean</span>"
 page_id: 31907
 namespace: 14
 revision_id: 423427
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Organ-Kean, Margaret"
 ---
 
-This category lists all **images by [Margaret Organ-Kean](/wiki/Margaret_Organ-Kean)**.
+This category lists all **images by [Margaret Organ-Kean](../../main/M/Margaret_Organ-Kean.md)**.

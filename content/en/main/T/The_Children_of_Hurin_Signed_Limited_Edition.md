@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Signed Limited Edition"
 ---
 
-Redirect to [The Children of Húrin Signed Limited Edition](/wiki/The_Children_of_Húrin_Signed_Limited_Edition).
+Redirect to [The Children of Húrin Signed Limited Edition](The_Children_of_Húrin_Signed_Limited_Edition.md).

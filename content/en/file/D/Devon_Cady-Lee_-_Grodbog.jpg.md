@@ -1,6 +1,5 @@
 ---
 title: "File:Devon Cady-Lee - Grodbog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Devon Cady-Lee - Grodbog.jpg</span>"
 page_id: 75210
 namespace: 6
 revision_id: 442773
@@ -30,15 +29,12 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Devon Cady-Lee - Grodbog.jpg</span></th>
 <td class="description">
-Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
+Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
 <p>Thought I would post the warrior, since I posted the queen. They wanted a type of monster insect that was semi-aquatic and had mantis claws, so this is what I came up with. I based them off of mantis shrimp, which you should google if you don&#39;t know what those are cuz they are pretty cool.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Devon Cady-Lee</td>
@@ -47,7 +43,6 @@ Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of 
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/gorrem/art/LOTRO%3A-Grodbog-96000340" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

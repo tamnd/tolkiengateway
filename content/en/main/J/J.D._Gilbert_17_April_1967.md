@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to J.D. Gilbert"
 ---
 
-Redirect to [Letter to J.D. Gilbert](/wiki/Letter_to_J.D._Gilbert).
+Redirect to [Letter to J.D. Gilbert](../L/Letter_to_J.D._Gilbert.md).

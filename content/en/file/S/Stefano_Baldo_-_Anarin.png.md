@@ -1,6 +1,5 @@
 ---
 title: "File:Stefano Baldo - Anarin.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stefano Baldo - Anarin.png</span>"
 page_id: 74041
 namespace: 6
 revision_id: 436809
@@ -36,26 +35,23 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stefano Baldo - Anarin.png</span></th>
 <td class="description">
 <p><i>Anarin</i>. 
-Created for <a href="/wiki/Middle-earth:_Dark_Minions" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Dark_Minions.md" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1996" title="1996">1996</a></td>
+<td><a href="../../main/_/1996.md" title="1996">1996</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stefano_Baldo" title="Stefano Baldo">Stefano Baldo</a></td>
+<td><a href="../../main/S/Stefano_Baldo.md" title="Stefano Baldo">Stefano Baldo</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/tree/master/resources/Card%20Art%20Images" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/tree/master/resources/Card%20Art%20Images</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -74,4 +70,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Stefano Baldo</li>
 <li><b>Website:</b> <a class="external text" href="http://www.ideacrylic.com/" rel="noreferrer noopener" target="_blank">Stefano Baldo&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stefano_Baldo" title="Tolkien Gateway:Copyrights/Stefano Baldo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStefano_Baldo.md" title="Tolkien Gateway:Copyrights/Stefano Baldo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

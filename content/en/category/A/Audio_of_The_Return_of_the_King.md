@@ -1,6 +1,5 @@
 ---
 title: "Category:Audio of The Return of the King"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio of The Return of the King</span>"
 page_id: 67823
 namespace: 14
 revision_id: 397353

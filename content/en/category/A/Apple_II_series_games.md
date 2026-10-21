@@ -1,6 +1,5 @@
 ---
 title: "Category:Apple II series games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Apple II series games</span>"
 page_id: 25671
 namespace: 14
 revision_id: 196026
@@ -13,4 +12,4 @@ categories:
   - "Video games by platform"
 ---
 
-This category lists all **Apple II series games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **Apple II series games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

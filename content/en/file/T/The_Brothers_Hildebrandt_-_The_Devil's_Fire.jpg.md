@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Devil's Fire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Devil&#039;s Fire.jpg</span>"
 page_id: 71595
 namespace: 6
 revision_id: 426875
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Devil's Fire" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Created live at the 2010 Illuxcon Art Show in Altoona.
+"The Devil's Fire" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created live at the 2010 Illuxcon Art Show in Altoona.
 
 ## Licensing {#Licensing}
 

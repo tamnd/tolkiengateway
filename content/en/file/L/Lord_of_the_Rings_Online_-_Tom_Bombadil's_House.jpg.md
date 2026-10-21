@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Online - Tom Bombadil's House.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Online - Tom Bombadil&#039;s House.jpg</span>"
 page_id: 65231
 namespace: 6
 revision_id: 430898

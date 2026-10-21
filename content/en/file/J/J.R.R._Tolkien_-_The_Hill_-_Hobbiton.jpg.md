@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hill - Hobbiton.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hill - Hobbiton.jpg</span>"
 page_id: 71487
 namespace: 6
 revision_id: 427032
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Hill: [Hobbiton](/wiki/Hobbiton)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"The Hill: [Hobbiton](../../main/H/Hobbiton.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

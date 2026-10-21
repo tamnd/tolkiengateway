@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kelvar"
 ---
 
-Redirect to [Kelvar](/wiki/Kelvar).
+Redirect to [Kelvar](../K/Kelvar.md).

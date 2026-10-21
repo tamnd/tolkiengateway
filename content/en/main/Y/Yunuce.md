@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yúnece"
 ---
 
-Redirect to [Yúnece](/wiki/Yúnece).
+Redirect to [Yúnece](Yúnece.md).

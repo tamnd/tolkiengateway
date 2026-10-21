@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Magdalena Olechny"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Magdalena Olechny</span>"
 page_id: 64896
 namespace: 4
 revision_id: 373797
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Olechny, Magdalena"
 ---
 
-- Magdalena Olechny has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Magdalena_Olechny "Category:Images by Magdalena Olechny") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [May 23rd](/wiki/May_23 "May 23"), [2023](/wiki/2023)
-- User who sought the permission via e-mail: [User:Hyarion](/wiki/User:Hyarion)
+- Magdalena Olechny has kindly granted their permission to use [their artwork](../../category/I/Images_by_Magdalena_Olechny.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [May 23rd](../../main/M/May_23.md), [2023](../../main/_/2023.md)
+- User who sought the permission via e-mail: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

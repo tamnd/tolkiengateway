@@ -1,6 +1,5 @@
 ---
 title: "Christopher Scott"
-display_title: "<span class=\"mw-page-title-main\">Christopher Scott</span>"
 page_id: 19819
 namespace: 0
 revision_id: 433724
@@ -22,7 +21,7 @@ sort_keys:
   "People by name": "Scott, Christopher"
 ---
 
-**Christopher Scott** provided several voices in the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"): [Nazgûl](/wiki/Nazg%C3%BBl), "the Rider", "the Guard", [Beregond](/wiki/Beregond), and several unspecified bit parts.
+**Christopher Scott** provided several voices in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>): [Nazgûl](../N/Nazgûl.md), "the Rider", "the Guard", [Beregond](../B/Beregond.md), and several unspecified bit parts.
 
 ## External links {#External_links}
 

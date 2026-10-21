@@ -11,4 +11,4 @@ redirect_target: "Orcs"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Orcs](/wiki/Orcs#Etymology).
+Redirect to [Orcs](../O/Orcs.md#Etymology).

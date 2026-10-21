@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Extended Edition - DVD cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Extended Edition - DVD cover.jpg</span>"
 page_id: 51446
 namespace: 6
 revision_id: 278602

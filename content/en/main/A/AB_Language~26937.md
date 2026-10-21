@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AB language"
 ---
 
-Redirect to [AB language](/wiki/AB_language).
+Redirect to [AB language](AB_language.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sáma"
 ---
 
-Redirect to [Sáma](/wiki/Sáma).
+Redirect to [Sáma](Sáma.md).

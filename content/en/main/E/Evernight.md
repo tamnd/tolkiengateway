@@ -1,6 +1,5 @@
 ---
 title: "Evernight"
-display_title: "<span class=\"mw-page-title-main\">Evernight</span>"
 page_id: 2291
 namespace: 0
 revision_id: 409087
@@ -13,4 +12,4 @@ categories:
   - "Seas and oceans"
 ---
 
-**Evernight** was a dark, raging part of the ocean, through which [Eärendil](/wiki/E%C3%A4rendil) passed on his epic journey to [Valinor](/wiki/Valinor). The name only appears in [Bilbo Baggins](/wiki/Bilbo_Baggins)'s *[Eärendillinwë](/wiki/E%C3%A4rendillinw%C3%AB)*, making it hard to identify with certainty. From its context in the poem, though, it seems to be a reference to the [Shadowy Seas](/wiki/Shadowy_Seas) that formed part of the defences of [Aman](/wiki/Aman).
+**Evernight** was a dark, raging part of the ocean, through which [Eärendil](Eärendil.md) passed on his epic journey to [Valinor](../V/Valinor.md). The name only appears in [Bilbo Baggins](../B/Bilbo_Baggins.md)'s *[Eärendillinwë](Eärendillinwë.md)*, making it hard to identify with certainty. From its context in the poem, though, it seems to be a reference to the [Shadowy Seas](../S/Shadowy_Seas.md) that formed part of the defences of [Aman](../A/Aman.md).

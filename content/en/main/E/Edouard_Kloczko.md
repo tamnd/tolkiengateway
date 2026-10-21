@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Édouard Kloczko"
 ---
 
-Redirect to [Édouard Kloczko](/wiki/Édouard_Kloczko).
+Redirect to [Édouard Kloczko](../_/Édouard_Kloczko.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to William Galbraith"
 ---
 
-Redirect to [Letter to William Galbraith](/wiki/Letter_to_William_Galbraith).
+Redirect to [Letter to William Galbraith](../L/Letter_to_William_Galbraith.md).

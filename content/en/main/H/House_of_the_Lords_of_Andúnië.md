@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of Andúnië"
 ---
 
-Redirect to [Lord of Andúnië](/wiki/Lord_of_Andúnië).
+Redirect to [Lord of Andúnië](../L/Lord_of_Andúnië.md).

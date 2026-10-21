@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Puzzles"
 ---
 
-Redirect to [Middle-earth Puzzles](/wiki/Middle-earth_Puzzles).
+Redirect to [Middle-earth Puzzles](Middle-earth_Puzzles.md).

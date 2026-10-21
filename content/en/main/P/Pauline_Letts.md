@@ -1,6 +1,5 @@
 ---
 title: "Pauline Letts"
-display_title: "<span class=\"mw-page-title-main\">Pauline Letts</span>"
 page_id: 27994
 namespace: 0
 revision_id: 406951
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Letts, Pauline"
 ---
 
-**Pauline Letts** ([May 1](/wiki/1_May "1 May"), [1917](/wiki/1917) - [June 25](/wiki/25_June "25 June"), [2001](/wiki/2001)) was a British actress.
+**Pauline Letts** ([May 1](../_/1_May.md), [1917](../_/1917.md) - [June 25](../_/25_June.md), [2001](../_/2001.md)) was a British actress.
 
 ## Roles {#Roles}
 
-- [1981](/wiki/1981): *[The Lord of the Rings (radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)")*: [Ioreth](/wiki/Ioreth)
+- [1981](../_/1981.md): *[The Lord of the Rings (radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*: [Ioreth](../I/Ioreth.md)
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The J.R.R. Tolkien Calendar 1974.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The J.R.R. Tolkien Calendar 1974.jpg</span>"
 page_id: 6483
 namespace: 6
 revision_id: 215530

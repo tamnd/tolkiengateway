@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Rivendell looking East.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Rivendell looking East.jpg</span>"
 page_id: 5469
 namespace: 6
 revision_id: 427038
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This picture was published in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar) where it was much truncated at the top.
+This picture was published in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md) where it was much truncated at the top.
 
 ## Licensing {#Licensing}
 

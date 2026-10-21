@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hansi Kürsch"
 ---
 
-Redirect to [Hansi Kürsch](/wiki/Hansi_Kürsch).
+Redirect to [Hansi Kürsch](Hansi_Kürsch.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anórien"
 ---
 
-Redirect to [Anórien](/wiki/Anórien).
+Redirect to [Anórien](../A/Anórien.md).

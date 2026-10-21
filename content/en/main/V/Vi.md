@@ -13,4 +13,4 @@ categories:
   - "Sindarin affixes"
 ---
 
-**vi** was a [Sindarin](/wiki/Sindarin) preposition meaning "*in*".
+**vi** was a [Sindarin](../S/Sindarin.md) preposition meaning "*in*".

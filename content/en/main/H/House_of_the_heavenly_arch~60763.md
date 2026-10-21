@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Heavenly Arch"
 ---
 
-Redirect to [House of the Heavenly Arch](/wiki/House_of_the_Heavenly_Arch).
+Redirect to [House of the Heavenly Arch](House_of_the_Heavenly_Arch.md).

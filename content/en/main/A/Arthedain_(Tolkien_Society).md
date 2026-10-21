@@ -1,6 +1,5 @@
 ---
 title: "Arthedain (Tolkien Society)"
-display_title: "<span class=\"mw-page-title-main\">Arthedain (Tolkien Society)</span>"
 page_id: 22140
 namespace: 0
 revision_id: 404756
@@ -16,9 +15,9 @@ images:
   - "Arthedain_(Tolkien_Society).png"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Arthedain_(Tolkien_Society).png"><img src="/w/images/9/9b/Arthedain_%28Tolkien_Society%29.png" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" data-file-width="200" data-file-height="200"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Arthedain_(Tolkien_Society).png.md"><img src="https://tolkiengateway.net/w/images/9/9b/Arthedain_%28Tolkien_Society%29.png" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" data-file-width="200" data-file-height="200"/></a><figcaption></figcaption></figure>
 
-**Arthedain - Norges Tolkienforening** is the Norwegian [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies"), founded on [September 16](/wiki/16_September "16 September"), [1981](/wiki/1981) in Oslo, Norway. Arthedain had 71 members in 2003<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and 55 in 2008.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Arthedain - Norges Tolkienforening** is the Norwegian [Tolkien Society](../T/Tolkien_Societies~67099.md), founded on [September 16](../_/16_September.md), [1981](../_/1981.md) in Oslo, Norway. Arthedain had 71 members in 2003<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and 55 in 2008.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Publications {#Publications}
 
@@ -26,11 +25,11 @@ The society's bulletin *Angerthas* is published regularly, ca three times a year
 
 ## Local Chapters {#Local_Chapters}
 
-Talath Aer, the Oslo chapter, has a number of meetings each year. Mithlond, the Bergen chapter, has been dormant for a number of years. [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y) is a prominent member and founder of Arthedain.
+Talath Aer, the Oslo chapter, has a number of meetings each year. Mithlond, the Bergen chapter, has been dormant for a number of years. [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) is a prominent member and founder of Arthedain.
 
 ## Events {#Events}
 
-In 1997 Arthedain hosted the Second Northern Tolkien Festival at the University of Oslo campus in Oslo. Speakers of note were: Kaj André Apeland, [Nils Ivar Agøy](/wiki/Nils_Ivar_Agoy "Nils Ivar Agoy"), [Marjorie Burns](/wiki/Marjorie_Burns), [Verlyn Flieger](/wiki/Verlyn_Flieger), Maria Kuteeva and Daniel Timmons. The proceedings were later published in *[Between Faith and Fiction](/wiki/Between_Faith_and_Fiction)*, edited by Nils Ivar Agøy.
+In 1997 Arthedain hosted the Second Northern Tolkien Festival at the University of Oslo campus in Oslo. Speakers of note were: Kaj André Apeland, [Nils Ivar Agøy](../N/Nils_Ivar_Agoy.md), [Marjorie Burns](../M/Marjorie_Burns.md), [Verlyn Flieger](../V/Verlyn_Flieger.md), Maria Kuteeva and Daniel Timmons. The proceedings were later published in *[Between Faith and Fiction](../B/Between_Faith_and_Fiction.md)*, edited by Nils Ivar Agøy.
 
 In 2009 Arthedain made an attempt to host the Fourth Northern Tolkien Festival in Fredrikstad, Norway. Unfortunately the event was cancelled due to a lack of registrations.
 
@@ -39,8 +38,6 @@ In 2009 Arthedain made an attempt to host the Fourth Northern Tolkien Festival i
 Arthedain refers to Unquendor (Netherlands Tolkien Society) as her sister society since both societies were founded in 1981.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

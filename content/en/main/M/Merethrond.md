@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Hall of Feasts"
 ---
 
-Redirect to [Great Hall of Feasts](/wiki/Great_Hall_of_Feasts).
+Redirect to [Great Hall of Feasts](../G/Great_Hall_of_Feasts.md).

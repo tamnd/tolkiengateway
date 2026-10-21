@@ -1,6 +1,5 @@
 ---
 title: "File:Northern Kingdoms of Arnor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Northern Kingdoms of Arnor.png</span>"
 page_id: 68994
 namespace: 6
 revision_id: 411612
@@ -46,8 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2014-07-01</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Unknown</td>
@@ -56,7 +53,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://tolkienmiddleearth.tumblr.com/post/90504783921/i-had-a-question-if-you-dont-mind-but-i-was" rel="noreferrer noopener" target="_blank">https://tolkienmiddleearth.tumblr.com/post/90504783921/i-had-a-question-if-you-dont-mind-but-i-was</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

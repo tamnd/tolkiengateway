@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Pascal Yung - Tales of the Hunt.jpg"
 ---
 
-Redirect to [File:Pascal Yung - Tales of the Hunt.jpg](/wiki/File:Pascal_Yung_-_Tales_of_the_Hunt.jpg).
+Redirect to [File:Pascal Yung - Tales of the Hunt.jpg](Pascal_Yung_-_Tales_of_the_Hunt.jpg.md).

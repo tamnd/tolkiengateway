@@ -15,15 +15,15 @@ images:
   - "Leonid_Korablev_Calendar_1995.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Leonid_Korablev_Calendar_1995.jpg"><img src="/w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/300px-Leonid_Korablev_Calendar_1995.jpg" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="/w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/450px-Leonid_Korablev_Calendar_1995.jpg 1.5x, /w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/600px-Leonid_Korablev_Calendar_1995.jpg 2x" data-file-width="713" data-file-height="512"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Leonid_Korablev_Calendar_1995.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/300px-Leonid_Korablev_Calendar_1995.jpg" decoding="async" loading="lazy" width="300" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/450px-Leonid_Korablev_Calendar_1995.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/Leonid_Korablev_Calendar_1995.jpg/600px-Leonid_Korablev_Calendar_1995.jpg 2x" data-file-width="713" data-file-height="512"/></a><figcaption></figcaption></figure>
 
-The <b><a class="new" href="/w/index.php?title=Leonid_Korablev&amp;action=edit&amp;redlink=1" title="Leonid Korablev (page does not exist)">Leonid Korablev</a> Calendar</b> is a single-sheet calendar created in [1995](/wiki/1995). It is actually a syncretic or 'universal' calendar which combines the [Reckoning of Rivendell](/wiki/Reckoning_of_Rivendell) and the [King's Reckoning](/wiki/King%27s_Reckoning), neatly fitting the 12 *[astar](/wiki/Astar "Astar")* of the latter in the 6 ‘seasons’ of the former, and these regularized in the astronomical positions of the [Sun](/wiki/Sun) and [Moon](/wiki/Moon) as observed by the peoples of [Middle-earth](/wiki/Middle-earth).
+The <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Leonid_Korablev&amp;action=edit&amp;redlink=1" title="Leonid Korablev (page does not exist)">Leonid Korablev</a> Calendar</b> is a single-sheet calendar created in [1995](../_/1995.md). It is actually a syncretic or 'universal' calendar which combines the [Reckoning of Rivendell](../R/Reckoning_of_Rivendell.md) and the [King's Reckoning](../K/King's_Reckoning.md), neatly fitting the 12 *[astar](../A/Astar.md)* of the latter in the 6 ‘seasons’ of the former, and these regularized in the astronomical positions of the [Sun](../S/Sun.md) and [Moon](../M/Moon.md) as observed by the peoples of [Middle-earth](../M/Middle-earth.md).
 
-For example, the year begins on the [yestare](/wiki/Yestare "Yestare") of 25 March (vernal equinox, which is also the [Cormarë](/wiki/Cormar%C3%AB)); the first *asta* is [Víressë](/wiki/V%C3%ADress%C3%AB), being the first half of the 'season' [Tuilë](/wiki/Tuil%C3%AB).
+For example, the year begins on the [yestare](../Y/Yestare.md) of 25 March (vernal equinox, which is also the [Cormarë](../C/Cormarë.md)); the first *asta* is [Víressë](../V/Víressë.md), being the first half of the 'season' [Tuilë](../T/Tuilë.md).
 
-Each 'season' has normally 54 days since each month has 27 days. The exceptions are the 'seasons' [Lairë](/wiki/Lair%C3%AB) and [Hrívë](/wiki/Hr%C3%ADv%C3%AB) who last 72 days since each of their *astar* are 36 days long.
+Each 'season' has normally 54 days since each month has 27 days. The exceptions are the 'seasons' [Lairë](Lairë.md) and [Hrívë](../H/Hrívë.md) who last 72 days since each of their *astar* are 36 days long.
 
-As in the [Shire Reckoning](/wiki/Shire_Reckoning), the days of the week are fixed to each date. That means that 1 Víresse of each year, falls always on day [Elenya](/wiki/Elenya).
+As in the [Shire Reckoning](../S/Shire_Reckoning.md), the days of the week are fixed to each date. That means that 1 Víresse of each year, falls always on day [Elenya](../E/Elenya.md).
 
 - Dimensions: 8 1/2 x 6 inches
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Inklings and King Arthur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Inklings and King Arthur.jpg</span>"
 page_id: 58877
 namespace: 6
 revision_id: 326262

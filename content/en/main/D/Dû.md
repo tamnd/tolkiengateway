@@ -15,36 +15,36 @@ sort_keys:
   "Sindarin nouns": "Du"
 ---
 
-<i><b>dû</b></i> (or <i><b>dú</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is a [Sindarin](/wiki/Sindarin) noun meaning "nightfall", "late evening", "night", or "dimness".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>dû</b></i> (or <i><b>dú</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is a [Sindarin](../S/Sindarin.md) noun meaning "nightfall", "late evening", "night", or "dimness".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-From [OS](/wiki/OS) <i><a class="new" href="/w/index.php?title=Dogme&amp;action=edit&amp;redlink=1" title="Dogme (page does not exist)">dogme</a></i>, [PQ](/wiki/PQ) \**doȝmi*, [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=DO%C8%9C&amp;action=edit&amp;redlink=1" title="DOȜ (page does not exist)">DOȜ</a>; and/or OS \**doume*, from [PQ](/wiki/PQ) <i><a class="new" href="/w/index.php?title=D%C5%8Dmi&amp;action=edit&amp;redlink=1" title="Dōmi (page does not exist)">dōmi</a></i> from related root <a class="new" href="/w/index.php?title=D%C3%94&amp;action=edit&amp;redlink=1" title="DÔ (page does not exist)">DÔ</a>.<sup id="cite_ref-E_3-0" class="reference"><a href="#cite_note-E-3">[3]</a></sup>
+From [OS](../O/OS.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dogme&amp;action=edit&amp;redlink=1" title="Dogme (page does not exist)">dogme</a></i>, [PQ](../P/PQ.md) \**doȝmi*, [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=DO%C8%9C&amp;action=edit&amp;redlink=1" title="DOȜ (page does not exist)">DOȜ</a>; and/or OS \**doume*, from [PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C5%8Dmi&amp;action=edit&amp;redlink=1" title="Dōmi (page does not exist)">dōmi</a></i> from related root <a class="new" href="https://tolkiengateway.net/w/index.php?title=D%C3%94&amp;action=edit&amp;redlink=1" title="DÔ (page does not exist)">DÔ</a>.<sup id="cite_ref-E_3-0" class="reference"><a href="#cite_note-E-3">[3]</a></sup>
 
-It is also associated with <i><a class="new" href="/w/index.php?title=Nd%C3%BB&amp;action=edit&amp;redlink=1" title="Ndû (page does not exist)">ndû</a></i>.<sup id="cite_ref-E_3-1" class="reference"><a href="#cite_note-E-3">[3]</a></sup>
+It is also associated with <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nd%C3%BB&amp;action=edit&amp;redlink=1" title="Ndû (page does not exist)">ndû</a></i>.<sup id="cite_ref-E_3-1" class="reference"><a href="#cite_note-E-3">[3]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a class="mw-redirect" href="/wiki/Deld%C3%BAwath" title="Deldúwath">Del<b>dú</b>wath</a></i>
-- <i><a href="/wiki/D%C3%BAath" title="Dúath"><b>dú</b>ath</a></i>
-- <i><a class="mw-redirect" href="/wiki/Nanduhirion" title="Nanduhirion">Nan<b>du</b>hirion</a></i>
-- <i><a href="/wiki/Nightingales" title="Nightingales"><b>dú</b>lin</a></i>
-- <i><a href="/wiki/Tinnu" title="Tinnu">tin<b>nu</b></a></i>
+- <i><a class="mw-redirect" href="Deldúwath.md" title="Deldúwath">Del<b>dú</b>wath</a></i>
+- <i><a href="Dúath.md" title="Dúath"><b>dú</b>ath</a></i>
+- <i><a class="mw-redirect" href="../N/Nanduhirion.md" title="Nanduhirion">Nan<b>du</b>hirion</a></i>
+- <i><a href="../N/Nightingales.md" title="Nightingales"><b>dú</b>lin</a></i>
+- <i><a href="../T/Tinnu.md" title="Tinnu">tin<b>nu</b></a></i>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=L%C3%B3me&amp;action=edit&amp;redlink=1" title="Lóme (page does not exist)">ló, lóme</a></i>
-- [Ilkorin](/wiki/Ilkorin) <i><a class="new" href="/w/index.php?title=Daum&amp;action=edit&amp;redlink=1" title="Daum (page does not exist)">daum</a>, <a href="/wiki/D%C3%BBm" title="Dûm">dûm</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3me&amp;action=edit&amp;redlink=1" title="Lóme (page does not exist)">ló, lóme</a></i>
+- [Ilkorin](../I/Ilkorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Daum&amp;action=edit&amp;redlink=1" title="Daum (page does not exist)">daum</a>, <a href="Dûm.md" title="Dûm">dûm</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>dú</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>dú</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 37</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 37</span>
 </li>
-<li id="cite_note-E-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-E_3-0">3.0</a></sup> <sup><a href="#cite_ref-E_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry DOȜ, DÔ-</span>
+<li id="cite_note-E-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-E_3-0">3.0</a></sup> <sup><a href="#cite_ref-E_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry DOȜ, DÔ-</span>
 </li>
 </ol></div>

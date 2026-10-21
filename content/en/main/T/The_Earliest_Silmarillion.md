@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Earliest 'Silmarillion'"
 ---
 
-Redirect to [The Earliest 'Silmarillion'](/wiki/The_Earliest_'Silmarillion').
+Redirect to [The Earliest 'Silmarillion'](The_Earliest_'Silmarillion'.md).

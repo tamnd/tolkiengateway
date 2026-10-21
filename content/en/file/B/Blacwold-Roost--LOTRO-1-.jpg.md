@@ -1,6 +1,5 @@
 ---
 title: "File:Blacwold-Roost--LOTRO-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blacwold-Roost--LOTRO-1-.jpg</span>"
 page_id: 28825
 namespace: 6
 revision_id: 169597

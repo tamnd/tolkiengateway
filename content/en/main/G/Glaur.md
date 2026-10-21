@@ -14,36 +14,36 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>glaur</b></i> (sometimes applied as <i><b>glor</b></i>) is a [Sindarin](/wiki/Sindarin) word meaning "gold (light or colour)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>glaur</b></i> (sometimes applied as <i><b>glor</b></i>) is a [Sindarin](../S/Sindarin.md) word meaning "gold (light or colour)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Etymology {#Etymology}
 
-In the [*Etymologies*](/wiki/The_Etymologies "The Etymologies"), *glaur* derives from the [roots](/wiki/Root "Root") "GLAW(-R)", "[LÁWAR-](/wiki/LAWAR "LAWAR")".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In the [*Etymologies*](../T/The_Etymologies.md), *glaur* derives from the [roots](../R/Root.md) "GLAW(-R)", "[LÁWAR-](../L/LAWAR.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Glaurung" title="Glaurung"><b>Glaur</b>ung</a></i> = "Gold-worm"
-- <i><a href="/wiki/Glorfindel" title="Glorfindel"><b>Glor</b>findel</a></i>= "Golden-hair"
-- <i><a href="/wiki/Gl%C3%B3redhel" title="Glóredhel"><b>Glór</b>edhel</a></i> = "Golden Elf"
-- <i><a href="/wiki/Maglor" title="Maglor">Ma<b>glor</b></a></i> = "Forging Gold"
-- <i><a class="mw-redirect" href="/wiki/Ninglor" title="Ninglor">Nin<b>glor</b></a></i> = "Goldwater"
+- <i><a href="Glaurung.md" title="Glaurung"><b>Glaur</b>ung</a></i> = "Gold-worm"
+- <i><a href="Glorfindel.md" title="Glorfindel"><b>Glor</b>findel</a></i>= "Golden-hair"
+- <i><a href="Glóredhel.md" title="Glóredhel"><b>Glór</b>edhel</a></i> = "Golden Elf"
+- <i><a href="../M/Maglor.md" title="Maglor">Ma<b>glor</b></a></i> = "Forging Gold"
+- <i><a class="mw-redirect" href="../N/Ninglor.md" title="Ninglor">Nin<b>glor</b></a></i> = "Goldwater"
 
 ## Cognate {#Cognate}
 
-- [Quenya](/wiki/Quenya) *[laurë](/wiki/Laur%C3%AB "Laurë")*
+- [Quenya](../Q/Quenya.md) *[laurë](../L/Laurë.md)*
 
 ## See also {#See_also}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [KUL](/wiki/KUL) ("golden-red")
-- For other words glossed as "gold", see *[Gold: Names](/wiki/Gold#Names "Gold")*
+- [Root](../S/Sundocarme.md) [KUL](../K/KUL.md) ("golden-red")
+- For other words glossed as "gold", see *[Gold: Names](Gold.md#Names)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 17, 159</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 17, 159</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entries</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entries</span>
 </li>
 </ol></div>

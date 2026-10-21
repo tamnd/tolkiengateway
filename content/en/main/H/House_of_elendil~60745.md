@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Elendil"
 ---
 
-Redirect to [House of Elendil](/wiki/House_of_Elendil).
+Redirect to [House of Elendil](House_of_Elendil.md).

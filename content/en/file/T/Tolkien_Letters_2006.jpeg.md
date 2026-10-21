@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Letters 2006.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Letters 2006.jpeg</span>"
 page_id: 61796
 namespace: 6
 revision_id: 348382

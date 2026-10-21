@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Eva Heilborn"
 ---
 
-Redirect to [Letter to Eva Heilborn](/wiki/Letter_to_Eva_Heilborn).
+Redirect to [Letter to Eva Heilborn](../L/Letter_to_Eva_Heilborn.md).

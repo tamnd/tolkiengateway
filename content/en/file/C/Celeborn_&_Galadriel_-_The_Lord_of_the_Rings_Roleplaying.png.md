@@ -1,6 +1,5 @@
 ---
 title: "File:Celeborn & Galadriel - The Lord of the Rings Roleplaying.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Celeborn &amp; Galadriel - The Lord of the Rings Roleplaying.png</span>"
 page_id: 71227
 namespace: 6
 revision_id: 442362
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lord](/wiki/Lord) [Celeborn](/wiki/Celeborn) and Lady [Galadriel](/wiki/Galadriel) - [The Lord of the Rings Roleplaying](/wiki/The_Lord_of_the_Rings_Roleplaying) *Keepers of the Elven-rings*
+[Lord](../../main/L/Lord.md) [Celeborn](../../main/C/Celeborn.md) and Lady [Galadriel](../../main/G/Galadriel.md) - [The Lord of the Rings Roleplaying](../../main/T/The_Lord_of_the_Rings_Roleplaying.md) *Keepers of the Elven-rings*
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.sophisticated-games.com/" rel="noreferrer noopener" target="_blank">Sophisticated Games Ltd.</a>. It is believed that the limited use of this file,

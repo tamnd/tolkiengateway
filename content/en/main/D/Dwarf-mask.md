@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-masks"
 ---
 
-Redirect to [Dwarf-masks](/wiki/Dwarf-masks).
+Redirect to [Dwarf-masks](Dwarf-masks.md).

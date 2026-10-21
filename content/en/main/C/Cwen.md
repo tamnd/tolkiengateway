@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cwén"
 ---
 
-Redirect to [Cwén](/wiki/Cwén).
+Redirect to [Cwén](Cwén.md).

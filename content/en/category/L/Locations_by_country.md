@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations by country"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations by country</span>"
 page_id: 27888
 namespace: 14
 revision_id: 198156
@@ -13,6 +12,6 @@ categories:
   - "Locations (real-world)"
 ---
 
-<dl><dd><i>For locations by area found in Arda see <a href="/wiki/Category:Locations_by_area" title="Category:Locations by area">Category:Locations by area</a>.</i></dd></dl>
+<dl><dd><i>For locations by area found in Arda see <a href="Locations_by_area.md" title="Category:Locations by area">Category:Locations by area</a>.</i></dd></dl>
 
-Locations by country that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Locations by country that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Matěj Čadil - Presently Sam Appeared.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matěj Čadil - Presently Sam Appeared.jpg</span>"
 page_id: 71186
 namespace: 6
 revision_id: 424854
@@ -32,17 +31,15 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Matěj Čadil - Presently Sam Appeared.jpg</span></th>
 <td class="description">
 <blockquote class="tg-quote noexcerpt">
-<p>At the bottom of the Hill on its western side they came to the gate opening on to a narrow lane. There they halted and adjusted the straps of their packs. Presently Sam appeared, trotting quickly and breathing hard; his heavy pack was hoisted high on his shoulders, and he had put on his head a tall shapeless fell bag, which he called a hat. In the gloom he looked very much like a dwarf. <style data-mw-deduplicate="TemplateStyles:r413540">.mw-parser-output .cite-dtp-work,.mw-parser-output .cite-dtp-book{font-style:italic}.mw-parser-output .cite-dtp-identifier a{margin-inline-end:0.25rem;padding:0.25rem 0.5rem;box-shadow:var(--tg-border-color-interactive)0px 0px 0px 1px inset;border-radius:var(--border-radius--pill);color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:1rem;letter-spacing:0.025em;display:inline-flex;align-items:center;text-decoration:none}.mw-parser-output .cite-dtp-identifier a:hover{color:var(--tg-color-inverted-progressive);background-color:var(--tg-color-progressive--hover)}.mw-parser-output .cite-dtp-identifier a:active{color:var(--tg-color-inverted-progressive);background-color:var(--tg-color-progressive--active)}.mw-parser-output .cite-dtp-identifier>a::after{display:none}</style><style data-mw-deduplicate="TemplateStyles:r413278">.mw-parser-output .ext-floatingui-floating-content{display:block}</style><cite class="citation cite-dtp"><span class="cite-dtp-identifier ext-floatingui-reference"><a class="external text" href="https://cite.digitaltolkien.com/LR//" rel="noreferrer noopener" target="_blank">LR</a></span><span class="cite-dtp-identifier-tooltip ext-floatingui-content"><a class="external text" href="https://digitaltolkien.com/citation-systems" rel="noreferrer noopener" target="_blank">Digital Tolkien Project Citation Systems</a></span><span class="cite-dtp-author" title="author"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></span>, <span class="cite-dtp-work" title="work"><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></span></cite> 
+<p>At the bottom of the Hill on its western side they came to the gate opening on to a narrow lane. There they halted and adjusted the straps of their packs. Presently Sam appeared, trotting quickly and breathing hard; his heavy pack was hoisted high on his shoulders, and he had put on his head a tall shapeless fell bag, which he called a hat. In the gloom he looked very much like a dwarf. <cite class="citation cite-dtp"><span class="cite-dtp-identifier ext-floatingui-reference"><a class="external text" href="https://cite.digitaltolkien.com/LR//" rel="noreferrer noopener" target="_blank">LR</a></span><span class="cite-dtp-identifier-tooltip ext-floatingui-content"><a class="external text" href="https://digitaltolkien.com/citation-systems" rel="noreferrer noopener" target="_blank">Digital Tolkien Project Citation Systems</a></span><span class="cite-dtp-author" title="author"><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></span>, <span class="cite-dtp-work" title="work"><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></span></cite> 
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2024-10-02</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Matěj Čadil</td>
@@ -51,7 +48,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.patreon.com/posts/presently-sam-1-113233771" rel="noreferrer noopener" target="_blank">https://www.patreon.com/posts/presently-sam-1-113233771</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -59,8 +55,8 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Matěj Čadil</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mat%C4%9Bj_%C4%8Cadil" title="Matěj Čadil">Matěj Čadil</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Mat%C4%9Bj_%C4%8Cadil" title="Matěj Čadil">Matěj Čadil</a></li>
+<ul><li><b>Name:</b> <a href="../../main/M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/matejcadil/" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="https://www.facebook.com/matejcadil.art" rel="noreferrer noopener" target="_blank">Facebook</a> · <a class="external text" href="https://www.instagram.com/matejcadil.art/" rel="noreferrer noopener" target="_blank">Instagram</a> · <a class="external text" href="https://www.patreon.com/matejcadil" rel="noreferrer noopener" target="_blank">Patreon</a> · <a class="external text" href="https://matejcadil.etsy.com" rel="noreferrer noopener" target="_blank">Etsy</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mat%C4%9Bj_%C4%8Cadil" title="Tolkien Gateway:Copyrights/Matěj Čadil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMatěj_Čadil.md" title="Tolkien Gateway:Copyrights/Matěj Čadil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

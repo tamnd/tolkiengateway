@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Writings by year (disambiguation)"
 ---
 
-Redirect to [Writings by year (disambiguation)](/wiki/Writings_by_year_(disambiguation)).
+Redirect to [Writings by year (disambiguation)](<../W/Writings_by_year_(disambiguation).md>).

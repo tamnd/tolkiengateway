@@ -1,6 +1,5 @@
 ---
 title: "File:Button reflink advanced 3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button reflink advanced 3.png</span>"
 page_id: 28525
 namespace: 6
 revision_id: 168989

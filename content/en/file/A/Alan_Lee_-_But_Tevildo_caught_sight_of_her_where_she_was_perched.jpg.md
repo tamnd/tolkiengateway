@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Tevildo catches sight of Tinúviel.jpg"
 ---
 
-Redirect to [File:Alan Lee - Tevildo catches sight of Tinúviel.jpg](/wiki/File:Alan_Lee_-_Tevildo_catches_sight_of_Tinúviel.jpg).
+Redirect to [File:Alan Lee - Tevildo catches sight of Tinúviel.jpg](Alan_Lee_-_Tevildo_catches_sight_of_Tinúviel.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn (disambiguation)"
 ---
 
-Redirect to [Horn (disambiguation)](/wiki/Horn_(disambiguation)).
+Redirect to [Horn (disambiguation)](<Horn_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Pete Austin"
-display_title: "<span class=\"mw-page-title-main\">Pete Austin</span>"
 page_id: 25572
 namespace: 0
 revision_id: 158284
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Austin, Pete"
 ---
 
-**Pete Austin** is the author of [Colossal Adventure](/wiki/Colossal_Adventure), [Adventure Quest](/wiki/Adventure_Quest) and [Dungeon Adventure](/wiki/Dungeon_Adventure) which are part of [The Middle-Earth Trilogy](/wiki/The_Middle-Earth_Trilogy) (reproduced as *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Pete Austin** is the author of [Colossal Adventure](../C/Colossal_Adventure.md), [Adventure Quest](../A/Adventure_Quest.md) and [Dungeon Adventure](../D/Dungeon_Adventure.md) which are part of [The Middle-Earth Trilogy](../T/The_Middle-Earth_Trilogy.md) (reproduced as *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

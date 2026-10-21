@@ -11,4 +11,4 @@ redirect_target: "Livery of the heirs of Elendil"
 redirect_fragment: "Standard of Elendil"
 ---
 
-Redirect to [Livery of the heirs of Elendil](/wiki/Livery_of_the_heirs_of_Elendil#Standard_of_Elendil).
+Redirect to [Livery of the heirs of Elendil](../L/Livery_of_the_heirs_of_Elendil.md#Standard_of_Elendil).

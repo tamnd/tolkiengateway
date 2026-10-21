@@ -1,6 +1,5 @@
 ---
 title: "Category:Switzerland"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Switzerland</span>"
 page_id: 35336
 namespace: 14
 revision_id: 167099

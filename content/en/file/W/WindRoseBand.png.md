@@ -1,6 +1,5 @@
 ---
 title: "File:WindRoseBand.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">WindRoseBand.png</span>"
 page_id: 68882
 namespace: 6
 revision_id: 410806
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of band [Wind Rose](/wiki/Wind_Rose)
+Logo of band [Wind Rose](../../main/W/Wind_Rose.md)
 
 ## Licensing {#Licensing}
 

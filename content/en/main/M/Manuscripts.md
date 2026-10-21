@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Manuscripts"
 ---
 
-Redirect to [Category:Manuscripts](/wiki/Category:Manuscripts).
+Redirect to [Category:Manuscripts](../../category/M/Manuscripts.md).

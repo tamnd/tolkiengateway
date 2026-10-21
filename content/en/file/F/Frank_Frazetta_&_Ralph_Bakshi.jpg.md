@@ -1,6 +1,5 @@
 ---
 title: "File:Frank Frazetta & Ralph Bakshi.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frank Frazetta &amp; Ralph Bakshi.jpg</span>"
 page_id: 71546
 namespace: 6
 revision_id: 426603
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frank Frazetta](/wiki/Frank_Frazetta) &amp; [Ralph Bakshi](/wiki/Ralph_Bakshi)
+[Frank Frazetta](../../main/F/Frank_Frazetta.md) &amp; [Ralph Bakshi](../../main/R/Ralph_Bakshi.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gundabad Orc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gundabad Orc.png</span>"
 page_id: 73163
 namespace: 6
 revision_id: 433008
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gundabad](/wiki/Gundabad) [Orc](/wiki/Orcs "Orcs") - [LEGO](/wiki/Lego "Lego") minifigure
+[Gundabad](../../main/G/Gundabad.md) [Orc](../../main/O/Orcs.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

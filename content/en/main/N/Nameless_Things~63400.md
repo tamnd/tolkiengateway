@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nameless things"
 ---
 
-Redirect to [Nameless things](/wiki/Nameless_things).
+Redirect to [Nameless things](Nameless_things.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Warg Matriarch and Azog.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Warg Matriarch and Azog.png</span>"
 page_id: 68939
 namespace: 6
 revision_id: 439584
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Azog](/wiki/Azog) atop his [Warg Matriarch](/wiki/Warg_Matriarch) steed in *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*.
+[Azog](../../main/A/Azog.md) atop his [Warg Matriarch](../../main/W/Warg_Matriarch.md) steed in *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Licensing {#Licensing}
 

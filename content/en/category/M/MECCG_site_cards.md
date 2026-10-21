@@ -1,6 +1,5 @@
 ---
 title: "Category:MECCG site cards"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG site cards</span>"
 page_id: 27131
 namespace: 14
 revision_id: 196012
@@ -13,4 +12,4 @@ categories:
   - "MECCG cards"
 ---
 
-This category lists all **MECCG site cards** for the *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)*.
+This category lists all **MECCG site cards** for the *[Middle-earth Collectible Card Game](../../main/M/Middle-earth_Collectible_Card_Game.md)*.

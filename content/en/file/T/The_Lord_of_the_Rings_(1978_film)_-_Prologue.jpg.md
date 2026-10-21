@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Prologue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Prologue.jpg</span>"
 page_id: 22148
 namespace: 6
 revision_id: 238157
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sauron](/wiki/Sauron) forging [the One Ring](/wiki/The_One_Ring "The One Ring"). Screenshot from [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Sauron](../../main/S/Sauron.md) forging [the One Ring](../../main/T/The_One_Ring.md). Screenshot from [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

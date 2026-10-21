@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Delving"
 ---
 
-Redirect to [Delving](/wiki/Delving).
+Redirect to [Delving](../D/Delving.md).

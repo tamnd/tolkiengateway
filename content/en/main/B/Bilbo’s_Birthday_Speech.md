@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's birthday speech"
 ---
 
-Redirect to [Bilbo's birthday speech](/wiki/Bilbo's_birthday_speech).
+Redirect to [Bilbo's birthday speech](Bilbo's_birthday_speech.md).

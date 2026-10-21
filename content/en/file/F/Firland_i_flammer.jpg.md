@@ -1,6 +1,5 @@
 ---
 title: "File:Firland i flammer.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Firland i flammer.jpg</span>"
 page_id: 28864
 namespace: 6
 revision_id: 214060

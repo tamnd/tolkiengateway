@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies (journal)"
 ---
 
-Redirect to [Tolkien Studies (journal)](/wiki/Tolkien_Studies_(journal)).
+Redirect to [Tolkien Studies (journal)](<Tolkien_Studies_(journal).md>).

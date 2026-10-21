@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen Title Card.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen Title Card.png</span>"
 page_id: 71006
 namespace: 6
 revision_id: 426133
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)") title card
+[Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>) title card
 
 ## Licensing {#Licensing}
 

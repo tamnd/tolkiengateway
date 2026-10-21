@@ -1,6 +1,5 @@
 ---
 title: "Katrin Kunde"
-display_title: "<span class=\"mw-page-title-main\">Katrin Kunde</span>"
 page_id: 11376
 namespace: 0
 revision_id: 406105
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Kunde, Katrin"
 ---
 
-**Katrin Kunde** is a German artist. She has had several exhibitions of her paintings near her home in Dresden, Germany, as well as contributing artwork to [*Amon Hen*](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)") and [*Mallorn*](</wiki/Mallorn_(journal)> "Mallorn (journal)").
+**Katrin Kunde** is a German artist. She has had several exhibitions of her paintings near her home in Dresden, Germany, as well as contributing artwork to [*Amon Hen*](<../A/Amon_Hen_(journal).md>) and [*Mallorn*](<../M/Mallorn_(journal).md>).
 
 ## External links {#External_links}
 

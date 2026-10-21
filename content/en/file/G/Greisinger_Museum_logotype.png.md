@@ -1,6 +1,5 @@
 ---
 title: "File:Greisinger Museum logotype.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Greisinger Museum logotype.png</span>"
 page_id: 43069
 namespace: 6
 revision_id: 240317
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logotype of the [Greisinger Middle Earth Collection](/wiki/Greisinger_Museum "Greisinger Museum").
+Logotype of the [Greisinger Middle Earth Collection](../../main/G/Greisinger_Museum.md).
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Logotype of the [Greisinger Middle Earth Collection](/wiki/Greisinger_Museum "Gr
 </p>
 <ul><li><b>Name:</b> Greisinger Museum</li>
 <li><b>Website:</b> <a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Greisinger Museum</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Greisinger_Museum" title="Tolkien Gateway:Copyrights/Greisinger Museum">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGreisinger_Museum.md" title="Tolkien Gateway:Copyrights/Greisinger Museum">Permission for use on Tolkien Gateway</a></b></li></ul></div>

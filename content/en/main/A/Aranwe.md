@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aranwë"
 ---
 
-Redirect to [Aranwë](/wiki/Aranwë).
+Redirect to [Aranwë](Aranwë.md).

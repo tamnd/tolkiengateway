@@ -1,6 +1,5 @@
 ---
 title: "Get Out! You old Wight! Vanish in the Sunlight!"
-display_title: "<span class=\"mw-page-title-main\">Get Out! You old Wight! Vanish in the Sunlight!</span>"
 page_id: 45271
 namespace: 0
 revision_id: 385773
@@ -14,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**Get Out! You old Wight! Vanish in the Sunlight!** is one of the songs sung by [Tom Bombadil](/wiki/Tom_Bombadil). He sang it to save the hobbits from the [Barrow-wights](/wiki/Barrow-wights) after [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") sang [Ho! Tom Bombadil, Tom Bombadillo!](/wiki/Ho!_Tom_Bombadil,_Tom_Bombadillo!) He then sang [Wake Now My Merry Lads! Wake and Hear Me Calling!](/wiki/Wake_Now_My_Merry_Lads!_Wake_and_Hear_Me_Calling!) to wake [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck"), [Pippin](/wiki/Peregrin_Took "Peregrin Took") and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Get Out! You old Wight! Vanish in the Sunlight!** is one of the songs sung by [Tom Bombadil](../T/Tom_Bombadil.md). He sang it to save the hobbits from the [Barrow-wights](../B/Barrow-wights.md) after [Frodo](../F/Frodo_Baggins.md) sang [Ho! Tom Bombadil, Tom Bombadillo!](../H/Ho!_Tom_Bombadil,_Tom_Bombadillo!.md) He then sang [Wake Now My Merry Lads! Wake and Hear Me Calling!](../W/Wake_Now_My_Merry_Lads!_Wake_and_Hear_Me_Calling!.md) to wake [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md) and [Sam](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## The poem {#The_poem}
 
@@ -30,13 +29,13 @@ categories:
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Fog_on_the_Barrow-downs" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</span>
 </li>
 </ol></div>

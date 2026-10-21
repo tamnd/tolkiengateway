@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Númenórean helmet.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Númenórean helmet.jpg</span>"
 page_id: 59339
 namespace: 6
 revision_id: 437135
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawing of a [Númenórean](/wiki/N%C3%BAmen%C3%B3rean) helmet by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), appearing in the cover of some *[Unfinished Tales](/wiki/Unfinished_Tales)* editions.
+Drawing of a [Númenórean](../../main/N/Númenórean.md) helmet by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), appearing in the cover of some *[Unfinished Tales](../../main/U/Unfinished_Tales.md)* editions.
 
 ## Licensing {#Licensing}
 

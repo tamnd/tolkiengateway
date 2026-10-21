@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Homecoming of Beorhtnoth Beorhthelm's Son"
 ---
 
-Redirect to [The Homecoming of Beorhtnoth Beorhthelm's Son](/wiki/The_Homecoming_of_Beorhtnoth_Beorhthelm's_Son).
+Redirect to [The Homecoming of Beorhtnoth Beorhthelm's Son](The_Homecoming_of_Beorhtnoth_Beorhthelm's_Son.md).

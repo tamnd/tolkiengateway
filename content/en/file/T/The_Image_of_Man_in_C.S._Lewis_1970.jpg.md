@@ -1,6 +1,5 @@
 ---
 title: "File:The Image of Man in C.S. Lewis 1970.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Image of Man in C.S. Lewis 1970.jpg</span>"
 page_id: 28906
 namespace: 6
 revision_id: 214644

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hayward Family"
 ---
 
-Redirect to [Hayward Family](/wiki/Hayward_Family).
+Redirect to [Hayward Family](Hayward_Family.md).

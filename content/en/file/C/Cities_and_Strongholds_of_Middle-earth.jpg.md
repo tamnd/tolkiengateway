@@ -1,6 +1,5 @@
 ---
 title: "File:Cities and Strongholds of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cities and Strongholds of Middle-earth.jpg</span>"
 page_id: 69907
 namespace: 6
 revision_id: 415389
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Cities and Strongholds of Middle-earth](/wiki/Cities_and_Strongholds_of_Middle-earth)*, published by Mythopoeic Press. Cover design by Megan Kornreich.
+Cover of *[Cities and Strongholds of Middle-earth](../../main/C/Cities_and_Strongholds_of_Middle-earth.md)*, published by Mythopoeic Press. Cover design by Megan Kornreich.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

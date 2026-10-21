@@ -1,6 +1,5 @@
 ---
 title: "File:Map of Beleriand and Eriador.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Map of Beleriand and Eriador.png</span>"
 page_id: 64422
 namespace: 6
 revision_id: 369412
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Backcover of [*Parma Eldalamberon* 6](/wiki/Parma_Eldalamberon_6 "Parma Eldalamberon 6"), drawn by [Christopher Gilson](/wiki/Christopher_Gilson) in 1978. First published in *The Norland Chronicles* No.1 (1978).
+Backcover of [*Parma Eldalamberon* 6](../../main/P/Parma_Eldalamberon_6.md), drawn by [Christopher Gilson](../../main/C/Christopher_Gilson.md) in 1978. First published in *The Norland Chronicles* No.1 (1978).
 
 ## Licensing {#Licensing}
 

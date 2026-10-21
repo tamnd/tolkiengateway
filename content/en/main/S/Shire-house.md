@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shirriff-house"
 ---
 
-Redirect to [Shirriff-house](/wiki/Shirriff-house).
+Redirect to [Shirriff-house](Shirriff-house.md).

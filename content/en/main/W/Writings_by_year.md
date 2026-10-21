@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Tolkien studies publications by year"
 ---
 
-Redirect to [Index:Tolkien studies publications by year](/wiki/Index:Tolkien_studies_publications_by_year).
+Redirect to [Index:Tolkien studies publications by year](../../index/T/Tolkien_studies_publications_by_year.md).

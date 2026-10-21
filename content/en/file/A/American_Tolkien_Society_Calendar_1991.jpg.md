@@ -1,6 +1,5 @@
 ---
 title: "File:American Tolkien Society Calendar 1991.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">American Tolkien Society Calendar 1991.jpg</span>"
 page_id: 6617
 namespace: 6
 revision_id: 215449

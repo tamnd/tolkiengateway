@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- Conquest -Gandalf fighting Orcs.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- Conquest -Gandalf fighting Orcs.png</span>"
 page_id: 37594
 namespace: 6
 revision_id: 180561

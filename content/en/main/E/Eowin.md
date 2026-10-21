@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éowin"
 ---
 
-Redirect to [Éowin](/wiki/Éowin).
+Redirect to [Éowin](../_/Éowin.md).

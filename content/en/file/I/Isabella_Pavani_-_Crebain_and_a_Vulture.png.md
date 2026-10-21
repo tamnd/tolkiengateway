@@ -1,6 +1,5 @@
 ---
 title: "File:Isabella Pavani - Crebain and a Vulture.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Isabella Pavani - Crebain and a Vulture.png</span>"
 page_id: 74130
 namespace: 6
 revision_id: 437217
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Isabella Pavani - Crebain and a Vulture.png</span></th>
 <td class="description">
-<p><i><a href="/wiki/Crebain" title="Crebain">Crebain</a> and a <a href="/wiki/Index:Fauna_of_Arda" title="Index:Fauna of Arda">Vulture</a></i> by <a href="/wiki/Category:Images_by_Isabella_Pavani" title="Category:Images by Isabella Pavani">Isabella Pavani</a>
+<p><i><a href="../../main/C/Crebain.md" title="Crebain">Crebain</a> and a <a href="../../index/F/Fauna_of_Arda.md" title="Index:Fauna of Arda">Vulture</a></i> by <a href="../../category/I/Images_by_Isabella_Pavani.md" title="Category:Images by Isabella Pavani">Isabella Pavani</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/24_December" title="24 December">24 December</a> <a href="/wiki/2018" title="2018">2018</a></td>
+<td><a href="../../main/_/24_December.md" title="24 December">24 December</a> <a href="../../main/_/2018.md" title="2018">2018</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Isabella_Pavani" title="Category:Images by Isabella Pavani">Isabella Pavani</a></td>
+<td><a href="../../category/I/Images_by_Isabella_Pavani.md" title="Category:Images by Isabella Pavani">Isabella Pavani</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.deviantart.com/yzah/art/crebain2-amd-a-vulture-777972480" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/yzah/art/crebain2-amd-a-vulture-777972480</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Isabella Pavani</span></span>
@@ -58,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Isabella Pavani</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/yzah" rel="noreferrer noopener" target="_blank">Isabella Pavani on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Isabella_Pavani" title="Tolkien Gateway:Copyrights/Isabella Pavani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIsabella_Pavani.md" title="Tolkien Gateway:Copyrights/Isabella Pavani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

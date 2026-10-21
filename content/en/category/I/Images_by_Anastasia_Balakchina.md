@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Anastasia Balakchina"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Anastasia Balakchina</span>"
 page_id: 72778
 namespace: 14
 revision_id: 431422
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Balakchina, Anastasia"
 ---
 
-This category lists all **images by [Anastasia Balakchina](/wiki/Anastasia_Balakchina)**.
+This category lists all **images by [Anastasia Balakchina](../../main/A/Anastasia_Balakchina.md)**.

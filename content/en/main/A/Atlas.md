@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Atlas of Middle-earth"
 ---
 
-Redirect to [The Atlas of Middle-earth](/wiki/The_Atlas_of_Middle-earth).
+Redirect to [The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md).

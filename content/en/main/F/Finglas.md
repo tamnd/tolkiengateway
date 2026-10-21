@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leaflock"
 ---
 
-Redirect to [Leaflock](/wiki/Leaflock).
+Redirect to [Leaflock](../L/Leaflock.md).

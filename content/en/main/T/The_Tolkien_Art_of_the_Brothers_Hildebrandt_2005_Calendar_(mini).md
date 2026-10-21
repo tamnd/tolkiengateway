@@ -16,11 +16,11 @@ images:
   - "The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_(Mini).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_(Mini).jpg"><img src="/w/images/thumb/e/e4/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg" decoding="async" loading="lazy" width="300" height="303" class="mw-file-element" srcset="/w/images/e/e4/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg 1.5x" data-file-width="347" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_(Mini).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg" decoding="async" loading="lazy" width="300" height="303" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e4/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar_%28Mini%29.jpg 1.5x" data-file-width="347" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Art of the Brothers Hildebrandt 2005 Calendar** is a miniature of [The Tolkien Art of the Brothers Hildebrandt 2005 Calendar](/wiki/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar) produced by Ronnie Sellers Productions, Inc.
+**The Tolkien Art of the Brothers Hildebrandt 2005 Calendar** is a miniature of [The Tolkien Art of the Brothers Hildebrandt 2005 Calendar](The_Tolkien_Art_of_the_Brothers_Hildebrandt_2005_Calendar.md) produced by Ronnie Sellers Productions, Inc.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1569069379">ISBN 1-56906-937-9</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1569069379">ISBN 1-56906-937-9</a>
 - Dimensions: 7 x 7 inches
 - Stapled
 - Punched hanging hole

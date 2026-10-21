@@ -1,6 +1,5 @@
 ---
 title: "Category:Rivers of Beleriand"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rivers of Beleriand</span>"
 page_id: 56524
 namespace: 14
 revision_id: 308032
@@ -14,4 +13,4 @@ categories:
   - "Rivers"
 ---
 
-This category lists all **[Rivers in Beleriand](/wiki/Index:Rivers#Rivers_in_Beleriand "Index:Rivers")** and other springs and wells.
+This category lists all **[Rivers in Beleriand](../../index/R/Rivers.md#Rivers_in_Beleriand)** and other springs and wells.

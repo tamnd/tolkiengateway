@@ -1,6 +1,5 @@
 ---
 title: "Silmesse"
-display_title: "<span class=\"mw-page-title-main\">Silmesse</span>"
 page_id: 56253
 namespace: 0
 revision_id: 320323
@@ -13,7 +12,7 @@ categories:
   - "Songs (real-world)"
 ---
 
-**Silmesse** is a song in the [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related album *[In Elven Lands](/wiki/In_Elven_Lands)* by [The Fellowship](</wiki/The_Fellowship_(band)> "The Fellowship (band)"). The title means "In the Moonlight" and the lyrics were written by [Helge Kåre Fauskanger](/wiki/Helge_K%C3%A5re_Fauskanger) in [Neo-Quenya](/wiki/Neo-Elvish "Neo-Elvish").
+**Silmesse** is a song in the [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related album *[In Elven Lands](../I/In_Elven_Lands.md)* by [The Fellowship](<../T/The_Fellowship_(band).md>). The title means "In the Moonlight" and the lyrics were written by [Helge Kåre Fauskanger](../H/Helge_Kåre_Fauskanger.md) in [Neo-Quenya](../N/Neo-Elvish.md).
 
 ## Elvish lyrics {#Elvish_lyrics}
 

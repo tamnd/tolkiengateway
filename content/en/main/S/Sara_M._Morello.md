@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Sara M. Morello"
 ---
 
-Redirect to [Category:Images by Sara M. Morello](/wiki/Category:Images_by_Sara_M._Morello).
+Redirect to [Category:Images by Sara M. Morello](../../category/I/Images_by_Sara_M._Morello.md).

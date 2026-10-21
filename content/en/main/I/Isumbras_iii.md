@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isumbras Took III"
 ---
 
-Redirect to [Isumbras Took III](/wiki/Isumbras_Took_III).
+Redirect to [Isumbras Took III](Isumbras_Took_III.md).

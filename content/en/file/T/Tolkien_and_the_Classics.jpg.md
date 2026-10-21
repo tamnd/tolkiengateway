@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and the Classics.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and the Classics.jpg</span>"
 page_id: 57149
 namespace: 6
 revision_id: 388967
@@ -25,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Cover of *[Tolkien and the Classics](/wiki/Tolkien_and_the_Classics)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[Tolkien and the Classics](../../main/T/Tolkien_and_the_Classics.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

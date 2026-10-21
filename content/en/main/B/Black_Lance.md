@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chernoe Kopjo"
 ---
 
-Redirect to [Chernoe Kopjo](/wiki/Chernoe_Kopjo).
+Redirect to [Chernoe Kopjo](../C/Chernoe_Kopjo.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "General Map of Middle-earth"
 ---
 
-Redirect to [General Map of Middle-earth](/wiki/General_Map_of_Middle-earth).
+Redirect to [General Map of Middle-earth](../G/General_Map_of_Middle-earth.md).

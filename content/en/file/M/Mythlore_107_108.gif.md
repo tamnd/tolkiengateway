@@ -1,6 +1,5 @@
 ---
 title: "File:Mythlore 107 108.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythlore 107 108.gif</span>"
 page_id: 66070
 namespace: 6
 revision_id: 380827

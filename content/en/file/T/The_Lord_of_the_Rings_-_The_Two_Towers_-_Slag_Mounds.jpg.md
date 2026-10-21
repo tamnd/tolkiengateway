@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Slag Mounds.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Slag Mounds.jpg</span>"
 page_id: 71751
 namespace: 6
 revision_id: 427631
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Slag Mounds](/wiki/Slag-hills "Slag-hills") in *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *Shadows*
+The [Slag Mounds](../../main/S/Slag-hills.md) in *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *Shadows*
 
 ## Licensing {#Licensing}
 

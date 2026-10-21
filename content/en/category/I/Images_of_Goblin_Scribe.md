@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Goblin Scribe"
 ---
 
-Redirect to [Category:Images of the Goblin Scribe](/wiki/Category:Images_of_the_Goblin_Scribe).
+Redirect to [Category:Images of the Goblin Scribe](Images_of_the_Goblin_Scribe.md).

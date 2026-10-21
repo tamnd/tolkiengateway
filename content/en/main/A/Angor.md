@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar-Pharazôn"
 ---
 
-Redirect to [Ar-Pharazôn](/wiki/Ar-Pharazôn).
+Redirect to [Ar-Pharazôn](Ar-Pharazôn.md).

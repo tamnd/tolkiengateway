@@ -1,6 +1,5 @@
 ---
 title: "File:Tim Tolkien at Pembroke College (2024).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tim Tolkien at Pembroke College (2024).webp</span>"
 page_id: 67497
 namespace: 6
 revision_id: 391989
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary_2}
 
-[Tim Tolkien](/wiki/Tim_Tolkien) next to the statue he created for [Pembroke College](/wiki/Pembroke_College) in [2024](/wiki/2024).
+[Tim Tolkien](../../main/T/Tim_Tolkien.md) next to the statue he created for [Pembroke College](../../main/P/Pembroke_College.md) in [2024](../../main/_/2024.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Heorrenda"
 ---
 
-Redirect to [Heorrenda](/wiki/Heorrenda).
+Redirect to [Heorrenda](Heorrenda.md).

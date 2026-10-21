@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karsh"
 ---
 
-Redirect to [Karsh](/wiki/Karsh).
+Redirect to [Karsh](../K/Karsh.md).

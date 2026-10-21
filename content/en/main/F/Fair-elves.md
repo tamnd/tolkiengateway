@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vanyar"
 ---
 
-Redirect to [Vanyar](/wiki/Vanyar).
+Redirect to [Vanyar](../V/Vanyar.md).

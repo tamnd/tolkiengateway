@@ -1,6 +1,5 @@
 ---
 title: "File:Main page header circular inscription.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page header circular inscription.svg</span>"
 page_id: 67474
 namespace: 6
 revision_id: 392307

@@ -13,22 +13,22 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>alqua</b></i> is [Quenya](/wiki/Quenya) for "swan".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>alqua</b></i> is [Quenya](../Q/Quenya.md) for "swan".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- <i><a class="new" href="/w/index.php?title=Alpa&amp;action=edit&amp;redlink=1" title="Alpa (page does not exist)">Alpa</a></i> ([Telerin](/wiki/Telerin))
-- *[Alph](/wiki/Alph)* ([Sindarin](/wiki/Sindarin))
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alpa&amp;action=edit&amp;redlink=1" title="Alpa (page does not exist)">Alpa</a></i> ([Telerin](../T/Telerin.md))
+- *[Alph](Alph.md)* ([Sindarin](../S/Sindarin.md))
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Alqualond%C3%AB" title="Alqualondë"><b>Alqua</b>londë</a></i>
+- <i><a href="Alqualondë.md" title="Alqualondë"><b>Alqua</b>londë</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_History_of_Galadriel_and_Celeborn" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;, &#34;Appendix D: The Port of Lond Daer&#34; (Note to discussion of the name <i>Glanduin</i>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;, &#34;Appendix D: The Port of Lond Daer&#34; (Note to discussion of the name <i>Glanduin</i>)</span>
 </li>
 </ol></div>

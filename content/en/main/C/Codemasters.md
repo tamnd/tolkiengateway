@@ -1,6 +1,5 @@
 ---
 title: "Codemasters"
-display_title: "<span class=\"mw-page-title-main\">Codemasters</span>"
 page_id: 20511
 namespace: 0
 revision_id: 359867
@@ -16,7 +15,7 @@ categories:
   - "British businesses"
 ---
 
-**Codemasters** is a British video games developer and publisher.Since 2021, it belongs in [Electronic Arts](/wiki/Electronic_Arts). They are the European publishers of *[The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar)*.
+**Codemasters** is a British video games developer and publisher.Since 2021, it belongs in [Electronic Arts](../E/Electronic_Arts.md). They are the European publishers of *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Gatekeepers who play LOTRO"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gatekeepers who play LOTRO</span>"
 page_id: 36337
 namespace: 14
 revision_id: 171962
@@ -13,6 +12,6 @@ categories:
   - "Gatekeepers"
 ---
 
-Gatekeepers who play *[Lord of the Rings Online](/wiki/Lord_of_the_Rings_Online)*.<br><br>You can add yourself to this category by adding the userbox: {{[user lotro](/wiki/Template:User_lotro "Template:User lotro")}}, or add the following to your [user page](/wiki/Help:User_page "Help:User page"):
+Gatekeepers who play *[Lord of the Rings Online](../../main/L/Lord_of_the_Rings_Online.md)*.<br><br>You can add yourself to this category by adding the userbox: {{[user lotro](https://tolkiengateway.net/wiki/Template:User_lotro)}}, or add the following to your [user page](../../help/U/User_page.md):
 
 <pre>[[Category:Gatekeepers who play LOTRO|{{PAGENAME}}]]</pre>

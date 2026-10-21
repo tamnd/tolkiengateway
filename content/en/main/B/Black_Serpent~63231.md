@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black serpent"
 ---
 
-Redirect to [Black serpent](/wiki/Black_serpent).
+Redirect to [Black serpent](Black_serpent.md).

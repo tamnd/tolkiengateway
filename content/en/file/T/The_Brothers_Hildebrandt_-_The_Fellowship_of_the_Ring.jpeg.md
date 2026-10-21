@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Fellowship of the Ring.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Fellowship of the Ring.jpeg</span>"
 page_id: 71573
 namespace: 6
 revision_id: 426773
@@ -36,7 +35,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Fellowship of the Ring](/wiki/Fellowship_of_the_Ring "Fellowship of the Ring")" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1976 J.R.R. Tolkien Calendar](/wiki/1976_J.R.R._Tolkien_Calendar)
+"[The Fellowship of the Ring](../../main/F/Fellowship_of_the_Ring.md)" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1976 J.R.R. Tolkien Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of José Manuel Ferrández Bru"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of José Manuel Ferrández Bru</span>"
 page_id: 43010
 namespace: 14
 revision_id: 226308
@@ -15,4 +14,4 @@ sort_keys:
   "Images of authors": "Ferrandez Bru"
 ---
 
-Images of **[José Manuel Ferrández Bru](/wiki/Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru)**.
+Images of **[José Manuel Ferrández Bru](../../main/J/José_Manuel_Ferrández_Bru.md)**.

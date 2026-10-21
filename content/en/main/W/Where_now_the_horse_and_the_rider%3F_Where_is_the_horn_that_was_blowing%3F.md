@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lament for the Rohirrim"
 ---
 
-Redirect to [Lament for the Rohirrim](/wiki/Lament_for_the_Rohirrim).
+Redirect to [Lament for the Rohirrim](../L/Lament_for_the_Rohirrim.md).

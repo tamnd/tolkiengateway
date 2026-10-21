@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lothlórien (soundtrack)"
 ---
 
-Redirect to [Lothlórien (soundtrack)](/wiki/Lothlórien_(soundtrack)).
+Redirect to [Lothlórien (soundtrack)](<Lothlórien_(soundtrack).md>).

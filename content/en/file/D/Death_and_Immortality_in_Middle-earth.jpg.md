@@ -1,6 +1,5 @@
 ---
 title: "File:Death and Immortality in Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Death and Immortality in Middle-earth.jpg</span>"
 page_id: 54695
 namespace: 6
 revision_id: 296085

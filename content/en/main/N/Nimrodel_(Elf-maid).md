@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimrodel"
 ---
 
-Redirect to [Nimrodel](/wiki/Nimrodel).
+Redirect to [Nimrodel](Nimrodel.md).

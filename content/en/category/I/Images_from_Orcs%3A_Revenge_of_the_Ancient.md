@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Orcs: Revenge of the Ancient"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Orcs: Revenge of the Ancient</span>"
 page_id: 73183
 namespace: 14
 revision_id: 433057

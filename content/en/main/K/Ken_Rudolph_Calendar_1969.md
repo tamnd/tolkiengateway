@@ -15,6 +15,6 @@ images:
   - "Ken_Rudolph_Calendar_1969.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Ken_Rudolph_Calendar_1969.jpg"><img src="/w/images/b/b6/Ken_Rudolph_Calendar_1969.jpg" decoding="async" loading="lazy" width="259" height="350" class="mw-file-element" data-file-width="259" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Ken_Rudolph_Calendar_1969.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b6/Ken_Rudolph_Calendar_1969.jpg" decoding="async" loading="lazy" width="259" height="350" class="mw-file-element" data-file-width="259" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-The **Ken Rudolph Calendar of 1969** is rare calendar published by Ken Rudolph and only known by serious collectors. The calendar consists of 6 pages with illustrations by [Tim Kirk](/wiki/Tim_Kirk). The calendar is 8.5" x 11".
+The **Ken Rudolph Calendar of 1969** is rare calendar published by Ken Rudolph and only known by serious collectors. The calendar consists of 6 pages with illustrations by [Tim Kirk](../T/Tim_Kirk.md). The calendar is 8.5" x 11".

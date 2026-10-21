@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pickthorn Family"
 ---
 
-Redirect to [Pickthorn Family](/wiki/Pickthorn_Family).
+Redirect to [Pickthorn Family](Pickthorn_Family.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arata"
 ---
 
-Redirect to [Arata](/wiki/Arata).
+Redirect to [Arata](Arata.md).

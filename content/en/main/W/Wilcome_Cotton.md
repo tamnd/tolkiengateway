@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wilcome Cotton (disambiguation)"
 ---
 
-Redirect to [Wilcome Cotton (disambiguation)](/wiki/Wilcome_Cotton_(disambiguation)).
+Redirect to [Wilcome Cotton (disambiguation)](<Wilcome_Cotton_(disambiguation).md>).

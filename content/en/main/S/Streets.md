@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Roads and streets"
 ---
 
-Redirect to [Category:Roads and streets](/wiki/Category:Roads_and_streets).
+Redirect to [Category:Roads and streets](../../category/R/Roads_and_streets.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Komponist Paul Kont.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Komponist Paul Kont.jpg</span>"
 page_id: 64455
 namespace: 6
 revision_id: 369823

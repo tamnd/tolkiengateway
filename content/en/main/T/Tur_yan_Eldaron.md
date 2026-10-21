@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingwë"
 ---
 
-Redirect to [Ingwë](/wiki/Ingwë).
+Redirect to [Ingwë](../I/Ingwë.md).

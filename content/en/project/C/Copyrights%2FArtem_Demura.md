@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Artem Demura"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Artem Demura</span>"
 page_id: 67910
 namespace: 4
 revision_id: 398087
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Demura, Artem"
 ---
 
-- <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura</a> has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Artem_Demura "Category:Images by Artem Demura") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura</a> has kindly granted permission to use [their artwork](../../category/I/Images_by_Artem_Demura.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: July 4th, 2024
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

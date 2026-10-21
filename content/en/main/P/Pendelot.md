@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Penlod"
 ---
 
-Redirect to [Penlod](/wiki/Penlod).
+Redirect to [Penlod](Penlod.md).

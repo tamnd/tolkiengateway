@@ -15,17 +15,17 @@ sort_keys:
   "Quenya nouns": "sama"
 ---
 
-<i><b>sáma</b></i> is a [Quenya](/wiki/Quenya) word meaning "mind". The process known as *[ósanwë](/wiki/%C3%93sanw%C3%AB "Ósanwë")* ("interchange of thought") happened between two *samat*.<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+<i><b>sáma</b></i> is a [Quenya](../Q/Quenya.md) word meaning "mind". The process known as *[ósanwë](../_/Ósanwë.md)* ("interchange of thought") happened between two *samat*.<sup id="cite_ref-Eldarin_1-0" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Root) SAM ("mind, think, reflect, be aware").<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
+[Root](../R/Root.md) SAM ("mind, think, reflect, be aware").<sup id="cite_ref-Eldarin_1-1" class="reference"><a href="#cite_note-Eldarin-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Eldarin-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eldarin_1-0">1.0</a></sup> <sup><a href="#cite_ref-Eldarin_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 183</span>
+<li id="cite_note-Eldarin-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eldarin_1-0">1.0</a></sup> <sup><a href="#cite_ref-Eldarin_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 183</span>
 </li>
 </ol></div>

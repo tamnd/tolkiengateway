@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Switzerland in Tolkien's Middle-Earth"
 ---
 
-Redirect to [Switzerland in Tolkien's Middle-Earth](/wiki/Switzerland_in_Tolkien's_Middle-Earth).
+Redirect to [Switzerland in Tolkien's Middle-Earth](../S/Switzerland_in_Tolkien's_Middle-Earth.md).

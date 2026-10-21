@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulmo"
 ---
 
-Redirect to [Ulmo](/wiki/Ulmo).
+Redirect to [Ulmo](Ulmo.md).

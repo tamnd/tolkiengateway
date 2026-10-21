@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bill (disambiguation)"
 ---
 
-Redirect to [Bill (disambiguation)](/wiki/Bill_(disambiguation)).
+Redirect to [Bill (disambiguation)](<Bill_(disambiguation).md>).

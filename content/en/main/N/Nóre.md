@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nórë"
 ---
 
-Redirect to [Nórë](/wiki/Nórë).
+Redirect to [Nórë](Nórë.md).

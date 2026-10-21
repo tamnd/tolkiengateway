@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (song)"
 ---
 
-Redirect to [The Road Goes Ever On (song)](/wiki/The_Road_Goes_Ever_On_(song)).
+Redirect to [The Road Goes Ever On (song)](<../T/The_Road_Goes_Ever_On_(song).md>).

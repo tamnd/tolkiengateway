@@ -1,6 +1,5 @@
 ---
 title: "File:Moria (1994 book).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Moria (1994 book).jpg</span>"
 page_id: 29576
 namespace: 6
 revision_id: 350717

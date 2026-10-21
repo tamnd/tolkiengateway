@@ -1,6 +1,5 @@
 ---
 title: "Category:Giants"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Giants</span>"
 page_id: 22094
 namespace: 14
 revision_id: 177430
@@ -14,4 +13,4 @@ categories:
   - "Races"
 ---
 
-**[Giants](/wiki/Giants)** in the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**[Giants](../../main/G/Giants.md)** in the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

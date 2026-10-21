@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Queen (disambiguation)"
 ---
 
-Redirect to [Queen (disambiguation)](/wiki/Queen_(disambiguation)).
+Redirect to [Queen (disambiguation)](<Queen_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King's Company"
 ---
 
-Redirect to [King's Company](/wiki/King's_Company).
+Redirect to [King's Company](King's_Company.md).

@@ -1,6 +1,5 @@
 ---
 title: "Jan Boom"
-display_title: "<span class=\"mw-page-title-main\">Jan Boom</span>"
 page_id: 36673
 namespace: 0
 revision_id: 406029
@@ -17,11 +16,11 @@ sort_keys:
   "People by name": "Boom, Jan"
 ---
 
-**Jan Boom** (a.k.a. **Fangorn**) is a long time Dutch collector and incubator of Tolkien fan activity. He is a former treasurer and audit committee member as well as an active member of [Unquendor](/wiki/Unquendor). He is also a member of other Tolkien Societies as well as a silent partner of the [Tolkienwinkel](/wiki/Tolkien_Winkel "Tolkien Winkel"). His pseudonym Fangorn is based on his surname Boom, meaning tree in Dutch.
+**Jan Boom** (a.k.a. **Fangorn**) is a long time Dutch collector and incubator of Tolkien fan activity. He is a former treasurer and audit committee member as well as an active member of [Unquendor](../U/Unquendor.md). He is also a member of other Tolkien Societies as well as a silent partner of the [Tolkienwinkel](../T/Tolkien_Winkel.md). His pseudonym Fangorn is based on his surname Boom, meaning tree in Dutch.
 
 ## Biography {#Biography}
 
-J.H.E. (Jan) Boom is a retired <a class="extiw" href="http://en.wikipedia.org/wiki/Financial_Controller#Business_role" title="wikipedia:Financial Controller">financial controller</a> who has been active in Tolkien fandom and as an active collector for many decades. He completed the MULO in 1961.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has also supported numerous Tolkien Societies financially and in kind over the decades. He is a well known attendant of Tolkien events in Europe, including the annual [Oxonmoot](/wiki/Oxonmoot). He has also supported initiatives around collecting Tolkien books and other material.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> He specializes in rare book editions, calendars and [Mithril Miniatures](/wiki/Mithril_Miniatures).
+J.H.E. (Jan) Boom is a retired <a class="extiw" href="http://en.wikipedia.org/wiki/Financial_Controller#Business_role" title="wikipedia:Financial Controller">financial controller</a> who has been active in Tolkien fandom and as an active collector for many decades. He completed the MULO in 1961.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has also supported numerous Tolkien Societies financially and in kind over the decades. He is a well known attendant of Tolkien events in Europe, including the annual [Oxonmoot](../O/Oxonmoot.md). He has also supported initiatives around collecting Tolkien books and other material.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> He specializes in rare book editions, calendars and [Mithril Miniatures](../M/Mithril_Miniatures.md).
 
 In recent years, Jan Boom has sold most of his collection through eBay.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Jan Boom also collected Dutch artisan ceramic tiles for a time.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 

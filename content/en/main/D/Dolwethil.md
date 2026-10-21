@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thuringwethil"
 ---
 
-Redirect to [Thuringwethil](/wiki/Thuringwethil).
+Redirect to [Thuringwethil](../T/Thuringwethil.md).

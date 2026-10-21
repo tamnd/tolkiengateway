@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Silmarillion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Silmarillion.jpg</span>"
 page_id: 71581
 namespace: 6
 revision_id: 428745
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Silmarillion" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt")
+"The Silmarillion" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md)
 
 ## Licensing {#Licensing}
 

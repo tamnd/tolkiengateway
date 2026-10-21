@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (film series) - To the Undying Lands mural.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) - To the Undying Lands mural.jpg</span>"
 page_id: 14422
 namespace: 6
 revision_id: 260487

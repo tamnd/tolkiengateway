@@ -1,6 +1,5 @@
 ---
 title: "File:Elven Blade (2007).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elven Blade (2007).jpg</span>"
 page_id: 28959
 namespace: 6
 revision_id: 214024

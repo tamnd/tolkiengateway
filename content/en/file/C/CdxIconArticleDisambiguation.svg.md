@@ -1,6 +1,5 @@
 ---
 title: "File:CdxIconArticleDisambiguation.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">CdxIconArticleDisambiguation.svg</span>"
 page_id: 67936
 namespace: 6
 revision_id: 398176

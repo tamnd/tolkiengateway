@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Badger-brock"
 ---
 
-Redirect to [Badger-brock](/wiki/Badger-brock).
+Redirect to [Badger-brock](Badger-brock.md).

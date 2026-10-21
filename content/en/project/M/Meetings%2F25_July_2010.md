@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/25 July 2010"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/25 July 2010</span>"
 page_id: 27770
 namespace: 4
 revision_id: 201991
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 25 July 2010</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 25 July 2010</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -72,9 +69,9 @@ sort_keys:
 
 ## Notes {#Notes}
 
-- This meeting was <span style="color:red"><b>cancelled</b></span> and discussion points were postponed until [1 August 2010](/wiki/Tolkien_Gateway:Meetings/1_August_2010 "Tolkien Gateway:Meetings/1 August 2010").
+- This meeting was <span style="color:red"><b>cancelled</b></span> and discussion points were postponed until [1 August 2010](Meetings%252F1_August_2010.md).
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/25_July_2010 "Tolkien Gateway talk:Meetings/25 July 2010")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/25_July_2010)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

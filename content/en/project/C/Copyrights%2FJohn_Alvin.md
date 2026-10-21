@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/John Alvin"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/John Alvin</span>"
 page_id: 37596
 namespace: 4
 revision_id: 193160
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alvin, John"
 ---
 
-- Andrea Alvin, who handles [John Alvin's](/wiki/John_Alvin "John Alvin") estate, has kindly given her permission for [Tolkien Gateway](/wiki/Tolkien_Gateway) to use low-resolution versions of John Alvin's [Lord of the Rings artwork](/wiki/Category:Images_by_John_Alvin "Category:Images by John Alvin").
+- Andrea Alvin, who handles [John Alvin's](../../main/J/John_Alvin.md) estate, has kindly given her permission for [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) to use low-resolution versions of John Alvin's [Lord of the Rings artwork](../../category/I/Images_by_John_Alvin.md).
 - Date: 27 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

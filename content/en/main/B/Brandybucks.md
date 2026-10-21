@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandybuck family"
 ---
 
-Redirect to [Brandybuck family](/wiki/Brandybuck_family).
+Redirect to [Brandybuck family](Brandybuck_family.md).

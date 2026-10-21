@@ -1,6 +1,5 @@
 ---
 title: "File:War in Middle-earth advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War in Middle-earth advertisement.jpg</span>"
 page_id: 72910
 namespace: 6
 revision_id: 433371

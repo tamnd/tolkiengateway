@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telperion"
 ---
 
-Redirect to [Telperion](/wiki/Telperion).
+Redirect to [Telperion](../T/Telperion.md).

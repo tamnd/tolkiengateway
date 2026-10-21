@@ -1,6 +1,5 @@
 ---
 title: "File:Essais de philologie moderne (1951).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Essais de philologie moderne (1951).jpg</span>"
 page_id: 28344
 namespace: 6
 revision_id: 248683

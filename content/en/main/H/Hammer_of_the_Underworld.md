@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grond (Hammer of the Underworld)"
 ---
 
-Redirect to [Grond (Hammer of the Underworld)](/wiki/Grond_(Hammer_of_the_Underworld)).
+Redirect to [Grond (Hammer of the Underworld)](<../G/Grond_(Hammer_of_the_Underworld).md>).

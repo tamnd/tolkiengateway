@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ishmalog"
 ---
 
-Redirect to [Ishmalog](/wiki/Ishmalog).
+Redirect to [Ishmalog](../I/Ishmalog.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Jason Jenicke - Grimbeorn the Old.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jason Jenicke - Grimbeorn the Old.jpg</span>"
 page_id: 66072
 namespace: 6
 revision_id: 434090
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Grimbeorn the Old](/wiki/Grimbeorn "Grimbeorn")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Withered Heath* illustration by <a class="new" href="/w/index.php?title=Jason_Jenicke&amp;action=edit&amp;redlink=1" title="Jason Jenicke (page does not exist)">Jason Jenicke</a>
+"[Grimbeorn the Old](../../main/G/Grimbeorn.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Withered Heath* illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Jenicke&amp;action=edit&amp;redlink=1" title="Jason Jenicke (page does not exist)">Jason Jenicke</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Anonymous - The Last Bridge.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anonymous - The Last Bridge.jpg</span>"
 page_id: 30019
 namespace: 6
 revision_id: 307901
@@ -27,7 +26,7 @@ file:
 
 ## Description {#Description}
 
-*The Last Bridge* by anonymous artist, card art for *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)* (*[A Long-Expected Party: MECCG Sites and Scenarios](/wiki/A_Long-Expected_Party:_MECCG_Sites_and_Scenarios)*).
+*The Last Bridge* by anonymous artist, card art for *[Middle-earth Collectible Card Game](../../main/M/Middle-earth_Collectible_Card_Game.md)* (*[A Long-Expected Party: MECCG Sites and Scenarios](../../main/A/A_Long-Expected_Party%253A_MECCG_Sites_and_Scenarios.md)*).
 
 ## Licensing {#Licensing}
 

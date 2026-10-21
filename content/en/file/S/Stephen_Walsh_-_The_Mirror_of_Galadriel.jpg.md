@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - The Mirror of Galadriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - The Mirror of Galadriel.jpg</span>"
 page_id: 67962
 namespace: 6
 revision_id: 438164
@@ -33,7 +32,7 @@ file:
 
 ## Summary {#Summary}
 
-Created for [MEP: The Mirror Of Galadriel](/wiki/MEP:_The_Mirror_Of_Galadriel).
+Created for [MEP: The Mirror Of Galadriel](../../main/M/MEP%253A_The_Mirror_Of_Galadriel.md).
 
 ## Licensing {#Licensing}
 
@@ -42,4 +41,4 @@ Created for [MEP: The Mirror Of Galadriel](/wiki/MEP:_The_Mirror_Of_Galadriel).
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

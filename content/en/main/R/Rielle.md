@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riellë"
 ---
 
-Redirect to [Riellë](/wiki/Riellë).
+Redirect to [Riellë](Riellë.md).

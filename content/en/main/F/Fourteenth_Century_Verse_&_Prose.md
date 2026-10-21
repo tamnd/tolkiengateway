@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fourteenth Century Verse and Prose"
 ---
 
-Redirect to [Fourteenth Century Verse and Prose](/wiki/Fourteenth_Century_Verse_and_Prose).
+Redirect to [Fourteenth Century Verse and Prose](Fourteenth_Century_Verse_and_Prose.md).

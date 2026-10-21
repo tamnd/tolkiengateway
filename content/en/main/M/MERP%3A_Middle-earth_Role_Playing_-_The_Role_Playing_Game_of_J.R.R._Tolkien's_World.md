@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World"
 ---
 
-Redirect to [Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World](/wiki/Middle-earth_Role_Playing:_The_Role_Playing_Game_of_J.R.R._Tolkien's_World).
+Redirect to [Middle-earth Role Playing: The Role Playing Game of J.R.R. Tolkien's World](Middle-earth_Role_Playing%253A_The_Role_Playing_Game_of_J.R.R._Tolkien's_World.md).

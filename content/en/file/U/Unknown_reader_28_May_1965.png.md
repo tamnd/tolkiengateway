@@ -1,6 +1,5 @@
 ---
 title: "File:Unknown reader 28 May 1965.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unknown reader 28 May 1965.png</span>"
 page_id: 39721
 namespace: 6
 revision_id: 232943

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Barrow Wights.png"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Barrow Wights.png](/wiki/File:The_Rings_of_Power_(TV_series)_-_Barrow_Wights.png).
+Redirect to [File:The Rings of Power (TV series) - Barrow Wights.png](<../T/The_Rings_of_Power_(TV_series)_-_Barrow_Wights.png.md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hunting of the Wolf"
 ---
 
-Redirect to [Hunting of the Wolf](/wiki/Hunting_of_the_Wolf).
+Redirect to [Hunting of the Wolf](../H/Hunting_of_the_Wolf.md).

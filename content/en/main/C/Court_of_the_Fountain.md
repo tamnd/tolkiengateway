@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Court of the Fountain (Minas Tirith)"
 ---
 
-Redirect to [Court of the Fountain (Minas Tirith)](/wiki/Court_of_the_Fountain_(Minas_Tirith)).
+Redirect to [Court of the Fountain (Minas Tirith)](<Court_of_the_Fountain_(Minas_Tirith).md>).

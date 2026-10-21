@@ -11,4 +11,4 @@ redirect_target: "Tar-Ancalimë"
 redirect_fragment: "Biography"
 ---
 
-Redirect to [Tar-Ancalimë](/wiki/Tar-Ancalimë#Biography).
+Redirect to [Tar-Ancalimë](../T/Tar-Ancalimë.md#Biography).

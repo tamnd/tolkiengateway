@@ -1,6 +1,5 @@
 ---
 title: "File:Lidia Postma - Hobbits comparison.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lidia Postma - Hobbits comparison.jpg</span>"
 page_id: 32258
 namespace: 6
 revision_id: 260257
@@ -33,4 +32,4 @@ file:
 </p>
 </div>
 
-<br> The three branches of the Hobbits, portrayed by Lidia Postma (appearing in *[The Hobbit Companion](/wiki/The_Hobbit_Companion)*).
+<br> The three branches of the Hobbits, portrayed by Lidia Postma (appearing in *[The Hobbit Companion](../../main/T/The_Hobbit_Companion.md)*).

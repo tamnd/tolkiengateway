@@ -1,6 +1,5 @@
 ---
 title: "File:Sothebys The James S. Copley Library 17 June 2010.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sothebys The James S. Copley Library 17 June 2010.jpg</span>"
 page_id: 27500
 namespace: 6
 revision_id: 215434

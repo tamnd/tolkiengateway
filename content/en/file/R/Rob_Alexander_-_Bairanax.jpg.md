@@ -1,6 +1,5 @@
 ---
 title: "File:Rob Alexander - Bairanax.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rob Alexander - Bairanax.jpg</span>"
 page_id: 12370
 namespace: 6
 revision_id: 436982
@@ -34,8 +33,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Rob Alexander - Bairanax.jpg</span></th>
 <td class="description">
 <p><i>Bairanax</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Dragons" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -43,8 +42,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Rob Alexander</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="http://fan.theonering.net/~rolozo/cgi-bin/rolozo.cgi/image/alexander?count=60&amp;hide=-6121&amp;filename=bairanax.jpg" rel="noreferrer noopener" target="_blank">Rolozo Tolkien</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

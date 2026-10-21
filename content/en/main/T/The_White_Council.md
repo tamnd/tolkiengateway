@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Council"
 ---
 
-Redirect to [White Council](/wiki/White_Council).
+Redirect to [White Council](../W/White_Council.md).

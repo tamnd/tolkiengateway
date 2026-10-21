@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Two Orcs.jpg"
 ---
 
-Redirect to [File:Alan Lee - Two Orcs.jpg](/wiki/File:Alan_Lee_-_Two_Orcs.jpg).
+Redirect to [File:Alan Lee - Two Orcs.jpg](Alan_Lee_-_Two_Orcs.jpg.md).

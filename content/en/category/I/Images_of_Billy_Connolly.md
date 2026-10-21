@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Billy Connolly"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Billy Connolly</span>"
 page_id: 46879
 namespace: 14
 revision_id: 248746

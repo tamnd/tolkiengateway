@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iminyë"
 ---
 
-Redirect to [Iminyë](/wiki/Iminyë).
+Redirect to [Iminyë](Iminyë.md).

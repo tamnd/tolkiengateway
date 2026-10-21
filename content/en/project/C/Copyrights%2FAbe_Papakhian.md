@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Abe Papakhian"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Abe Papakhian</span>"
 page_id: 37968
 namespace: 4
 revision_id: 193141
@@ -16,7 +15,7 @@ sort_keys:
 ---
 
 - Some images were uploaded by the copyright holder.
-- Use of the images outside of Tolkien Gateway is prohibited without permission from [Abe Papakhian](/wiki/Special:Contributions/Roninsnap "Special:Contributions/Roninsnap").
-- Abe Papakhian has re-confirmed his permission to use [his artwork](/wiki/Category:Images_by_Abe_Papakhian "Category:Images by Abe Papakhian") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Use of the images outside of Tolkien Gateway is prohibited without permission from [Abe Papakhian](https://tolkiengateway.net/wiki/Special:Contributions/Roninsnap).
+- Abe Papakhian has re-confirmed his permission to use [his artwork](../../category/I/Images_by_Abe_Papakhian.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

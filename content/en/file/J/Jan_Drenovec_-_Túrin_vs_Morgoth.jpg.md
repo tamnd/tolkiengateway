@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Drenovec - Túrin vs Morgoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Drenovec - Túrin vs Morgoth.jpg</span>"
 page_id: 57011
 namespace: 6
 revision_id: 335844
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Túrin](/wiki/T%C3%BArin) defeating [Morgoth](/wiki/Morgoth) in the [Dagor Dagorath](/wiki/Dagor_Dagorath).
+Image of [Túrin](../../main/T/Túrin.md) defeating [Morgoth](../../main/M/Morgoth.md) in the [Dagor Dagorath](../../main/D/Dagor_Dagorath.md).
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ Image of [Túrin](/wiki/T%C3%BArin) defeating [Morgoth](/wiki/Morgoth) in the [D
 </p>
 <ul><li><b>Name:</b> Jan Drenovec</li>
 <li><b>Website:</b> <a class="external text" href="http://www.jandrenovec.com/" rel="noreferrer noopener" target="_blank">Jan Drenovec&#39;s web</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Drenovec" title="Tolkien Gateway:Copyrights/Jan Drenovec">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Drenovec.md" title="Tolkien Gateway:Copyrights/Jan Drenovec">Permission for use on Tolkien Gateway</a></b></li></ul></div>

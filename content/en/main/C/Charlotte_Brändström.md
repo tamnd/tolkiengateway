@@ -1,6 +1,5 @@
 ---
 title: "Charlotte Brändström"
-display_title: "<span class=\"mw-page-title-main\">Charlotte Brändström</span>"
 page_id: 59835
 namespace: 0
 revision_id: 405072
@@ -15,14 +14,14 @@ categories:
   - "Directors"
 ---
 
-**Charlotte Brändström** ([30 May](/wiki/30_May) [1959](/wiki/1959)) is a Swedish-French director. She directed two episodes of the first season of the *[The Lord of the Rings: The Rings of Power‎](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power "The Lord of the Rings: The Rings of Power")* series.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Charlotte Brändström** ([30 May](../_/30_May.md) [1959](../_/1959.md)) is a Swedish-French director. She directed two episodes of the first season of the *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Mónica Marie Zorrilla (13 May 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2021/tv//news/amazon-lord-of-the-rings-charlotte-brandstrom-1234972466/" rel="noreferrer noopener" target="_blank">&#34;Amazon’s ‘Lord of the Rings’ Series Taps ‘Outlander’ and ‘Witcher’ Director Charlotte Brändström&#34;</a></span>. <span class="cite-web-website">Variety</span>. <span class="cite-web-accessed">Retrieved 21 August 2021</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Mónica Marie Zorrilla (13 May 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2021/tv//news/amazon-lord-of-the-rings-charlotte-brandstrom-1234972466/" rel="noreferrer noopener" target="_blank">&#34;Amazon’s ‘Lord of the Rings’ Series Taps ‘Outlander’ and ‘Witcher’ Director Charlotte Brändström&#34;</a></span>. <span class="cite-web-website">Variety</span>. <span class="cite-web-accessed">Retrieved 21 August 2021</span></cite></span>
 </li>
 </ol></div>
 

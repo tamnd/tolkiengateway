@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - I felt life in me again.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - I felt life in me again.png</span>"
 page_id: 72673
 namespace: 6
 revision_id: 431130
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf the White](/wiki/Gandalf "Gandalf") returns to [Arda](/wiki/Arda) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Gandalf the White](../../main/G/Gandalf.md) returns to [Arda](../../main/A/Arda.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

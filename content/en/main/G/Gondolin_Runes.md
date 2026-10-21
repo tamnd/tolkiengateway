@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondolinic Runes"
 ---
 
-Redirect to [Gondolinic Runes](/wiki/Gondolinic_Runes).
+Redirect to [Gondolinic Runes](Gondolinic_Runes.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unwin Hyman"
 ---
 
-Redirect to [Unwin Hyman](/wiki/Unwin_Hyman).
+Redirect to [Unwin Hyman](Unwin_Hyman.md).

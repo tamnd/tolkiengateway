@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jared C. Lobdell"
 ---
 
-Redirect to [Letter to Jared C. Lobdell](/wiki/Letter_to_Jared_C._Lobdell).
+Redirect to [Letter to Jared C. Lobdell](../L/Letter_to_Jared_C._Lobdell.md).

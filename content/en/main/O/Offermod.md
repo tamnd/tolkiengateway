@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ofermod"
 ---
 
-Redirect to [Ofermod](/wiki/Ofermod).
+Redirect to [Ofermod](Ofermod.md).

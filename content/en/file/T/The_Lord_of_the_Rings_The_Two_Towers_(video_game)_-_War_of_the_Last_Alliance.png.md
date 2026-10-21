@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Two Towers (video game) - War of the Last Alliance.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Two Towers (video game) - War of the Last Alliance.png</span>"
 page_id: 71279
 namespace: 6
 revision_id: 425256
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [War of the Last Alliance](/wiki/War_of_the_Last_Alliance) in [The Lord of the Rings: The Two Towers (video game)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)>).
+The [War of the Last Alliance](../../main/W/War_of_the_Last_Alliance.md) in [The Lord of the Rings: The Two Towers (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -11,4 +11,4 @@ redirect_target: "Chief of the guards"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Chief of the guards](/wiki/Chief_of_the_guards#Portrayal_in_adaptations).
+Redirect to [Chief of the guards](../C/Chief_of_the_guards.md#Portrayal_in_adaptations).

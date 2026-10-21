@@ -1,6 +1,5 @@
 ---
 title: "File:Alex Lewis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alex Lewis.jpg</span>"
 page_id: 23532
 namespace: 6
 revision_id: 249478
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Alex Lewis](/wiki/Alex_Lewis) from [Oxonmoot](/wiki/Oxonmoot), [2002](/wiki/2002).
+Photograph of [Alex Lewis](../../main/A/Alex_Lewis.md) from [Oxonmoot](../../main/O/Oxonmoot.md), [2002](../../main/_/2002.md).
 
 ## Licensing {#Licensing}
 

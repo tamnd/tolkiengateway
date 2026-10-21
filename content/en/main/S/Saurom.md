@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron"
 ---
 
-Redirect to [Sauron](/wiki/Sauron).
+Redirect to [Sauron](Sauron.md).

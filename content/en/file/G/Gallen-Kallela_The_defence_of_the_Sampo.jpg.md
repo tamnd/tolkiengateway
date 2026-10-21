@@ -1,6 +1,5 @@
 ---
 title: "File:Gallen-Kallela The defence of the Sampo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gallen-Kallela The defence of the Sampo.jpg</span>"
 page_id: 16160
 namespace: 6
 revision_id: 252065

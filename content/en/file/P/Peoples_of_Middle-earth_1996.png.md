@@ -1,6 +1,5 @@
 ---
 title: "File:Peoples of Middle-earth 1996.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peoples of Middle-earth 1996.png</span>"
 page_id: 62204
 namespace: 6
 revision_id: 350558

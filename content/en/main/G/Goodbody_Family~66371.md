@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goodbody family"
 ---
 
-Redirect to [Goodbody family](/wiki/Goodbody_family).
+Redirect to [Goodbody family](Goodbody_family.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing Poster Maps"
 ---
 
-Redirect to [Middle-earth Role Playing Poster Maps](/wiki/Middle-earth_Role_Playing_Poster_Maps).
+Redirect to [Middle-earth Role Playing Poster Maps](Middle-earth_Role_Playing_Poster_Maps.md).

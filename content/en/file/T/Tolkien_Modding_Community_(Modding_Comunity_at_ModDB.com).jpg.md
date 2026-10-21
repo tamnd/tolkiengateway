@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Modding Community (Modding Comunity at ModDB.com).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Modding Community (Modding Comunity at ModDB.com).jpg</span>"
 page_id: 60087
 namespace: 6
 revision_id: 336638
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of the [Tolkien Modding Community](</wiki/Tolkien_Modding_Community_(Modding_Community)> "Tolkien Modding Community (Modding Community)") at <a class="extiw" href="http://en.wikipedia.org/wiki/ModDB.com" title="wikipedia:ModDB.com">ModDB.com</a>, an online comunity for developers of Tolkien-themed mods, addons and total conversions for various compute game titles (licensed Tolkien games as well as non-Tolkien base games).
+Logo of the [Tolkien Modding Community](<../../main/T/Tolkien_Modding_Community_(Modding_Community).md>) at <a class="extiw" href="http://en.wikipedia.org/wiki/ModDB.com" title="wikipedia:ModDB.com">ModDB.com</a>, an online comunity for developers of Tolkien-themed mods, addons and total conversions for various compute game titles (licensed Tolkien games as well as non-Tolkien base games).
 
 ## Licensing {#Licensing}
 

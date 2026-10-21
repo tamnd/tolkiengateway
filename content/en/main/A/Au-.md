@@ -1,6 +1,5 @@
 ---
 title: "Au-"
-display_title: "<span class=\"mw-page-title-main\">Au-</span>"
 page_id: 51258
 namespace: 0
 revision_id: 277358
@@ -15,11 +14,11 @@ sort_keys:
   "Quenya prefixes": "au"
 ---
 
-<i><b>au-</b></i> means "without" in [Quenya](/wiki/Quenya). It is the adjectival form of *[ú-](/wiki/%C3%9A- "Ú-")*.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> **au** could also be used as an adjective meaning "off, away, not here, of position".<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+<i><b>au-</b></i> means "without" in [Quenya](../Q/Quenya.md). It is the adjectival form of *[ú-](../_/Ú-.md)*.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> **au** could also be used as an adjective meaning "off, away, not here, of position".<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-**au-** derives from the prefix **ú-** from [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=%C5%AA&amp;action=edit&amp;redlink=1" title="Ū (page does not exist)">Ū</a>.<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+**au-** derives from the prefix **ú-** from [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C5%AA&amp;action=edit&amp;redlink=1" title="Ū (page does not exist)">Ū</a>.<sup id="cite_ref-PE_1-2" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Example {#Example}
 
@@ -31,6 +30,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup> <sup><a href="#cite_ref-PE_1-2">1.2</a></sup> <sup><a href="#cite_ref-PE_1-3">1.3</a></sup> <sup><a href="#cite_ref-PE_1-4">1.4</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p.144</span>
+<li id="cite_note-PE-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE_1-1">1.1</a></sup> <sup><a href="#cite_ref-PE_1-2">1.2</a></sup> <sup><a href="#cite_ref-PE_1-3">1.3</a></sup> <sup><a href="#cite_ref-PE_1-4">1.4</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p.144</span>
 </li>
 </ol></div>

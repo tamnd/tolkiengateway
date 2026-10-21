@@ -1,6 +1,5 @@
 ---
 title: "Walls of Moria"
-display_title: "<span class=\"mw-page-title-main\">Walls of Moria</span>"
 page_id: 3997
 namespace: 0
 revision_id: 362815
@@ -17,36 +16,36 @@ images:
   - "The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Donato_Giancola_-_Walls_of_Moria.jpg"><img src="/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/250px-Donato_Giancola_-_Walls_of_Moria.jpg" decoding="async" loading="lazy" width="250" height="244" class="mw-file-element" srcset="/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/375px-Donato_Giancola_-_Walls_of_Moria.jpg 1.5x, /w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/500px-Donato_Giancola_-_Walls_of_Moria.jpg 2x" data-file-width="1540" data-file-height="1500"/></a><figcaption><i>Walls of Moria</i> by <a href="/wiki/Donato_Giancola" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_Walls_of_Moria.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/250px-Donato_Giancola_-_Walls_of_Moria.jpg" decoding="async" loading="lazy" width="250" height="244" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/375px-Donato_Giancola_-_Walls_of_Moria.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b4/Donato_Giancola_-_Walls_of_Moria.jpg/500px-Donato_Giancola_-_Walls_of_Moria.jpg 2x" data-file-width="1540" data-file-height="1500"/></a><figcaption><i>Walls of Moria</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 
-The **Walls of Moria** were the western rocky cliffs at the base of the [Misty Mountains](/wiki/Misty_Mountains).
+The **Walls of Moria** were the western rocky cliffs at the base of the [Misty Mountains](../M/Misty_Mountains.md).
 
-The [Doors of Durin](/wiki/Doors_of_Durin) were built upon that surface, and by the craft of its makers, the doorway blended into it when closed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The [Doors of Durin](../D/Doors_of_Durin.md) were built upon that surface, and by the craft of its makers, the doorway blended into it when closed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Before the Walls, there was a shallow valley climbing westward to a small cliff and then to a road between the [Stair Falls](/wiki/Stair_Falls), and the ancient [Eregion](/wiki/Eregion).
+Before the Walls, there was a shallow valley climbing westward to a small cliff and then to a road between the [Stair Falls](../S/Stair_Falls.md), and the ancient [Eregion](../E/Eregion.md).
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg"><img src="/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/300px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/450px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 1.5x, /w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/600px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 2x" data-file-width="1280" data-file-height="1024"/></a><figcaption>Map of the Walls of Moria from <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/300px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg" decoding="async" loading="lazy" width="300" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/450px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg/600px-The_Lord_of_the_Rings_Online_-_The_Walls_of_Moria_map.jpg 2x" data-file-width="1280" data-file-height="1024"/></a><figcaption>Map of the Walls of Moria from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2001: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">Peter Jackson&#39;s The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Peter Jackson&#39;s The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Fellowship passes the Walls of Moria before reaching the Durin&#39;s Gate.</dd></dl>
 
-<b>2008: <i><a href="/wiki/The_Lord_of_the_Rings_Online:_Mines_of_Moria" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mines of Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mines of Moria</a></i>:</b>
 
-<dl><dd>The Walls of Moria are a small sub-area of Eregion, where the &#34;Iron Garrison&#34;, an expedition of Dwarves from <a class="mw-redirect" href="/wiki/Erebor" title="Erebor">Erebor</a> and the <a href="/wiki/Iron_Hills" title="Iron Hills">Iron Hills</a>, seek to gain entry into <a href="/wiki/Moria" title="Moria">Moria</a>. Players must pass through this place before entering the Mines themselves. This may not be so easy considering the <a href="/wiki/Watcher_in_the_Water" title="Watcher in the Water">Watcher in the Water</a> still lurking in the deep waters.</dd></dl>
+<dl><dd>The Walls of Moria are a small sub-area of Eregion, where the &#34;Iron Garrison&#34;, an expedition of Dwarves from <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> and the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, seek to gain entry into <a href="../M/Moria.md" title="Moria">Moria</a>. Players must pass through this place before entering the Mines themselves. This may not be so easy considering the <a href="Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> still lurking in the deep waters.</dd></dl>
 
 ## See also {#See_also}
 
-- **[Doors of Durin](/wiki/Doors_of_Durin)**
-- **[Images of the Doors of Durin](/wiki/Category:Images_of_the_Doors_of_Durin "Category:Images of the Doors of Durin")**
+- **[Doors of Durin](../D/Doors_of_Durin.md)**
+- **[Images of the Doors of Durin](../../category/I/Images_of_the_Doors_of_Durin.md)**
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Journey_in_the_Dark" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
 </li>
 </ol></div>

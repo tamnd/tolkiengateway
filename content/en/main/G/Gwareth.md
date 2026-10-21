@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwar"
 ---
 
-Redirect to [Gwar](/wiki/Gwar).
+Redirect to [Gwar](Gwar.md).

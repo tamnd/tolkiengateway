@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sea-Bell"
 ---
 
-Redirect to [The Sea-Bell](/wiki/The_Sea-Bell).
+Redirect to [The Sea-Bell](../T/The_Sea-Bell.md).

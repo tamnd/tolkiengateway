@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Peter Pracownik"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Peter Pracownik</span>"
 page_id: 71100
 namespace: 14
 revision_id: 424510
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Pracownik, Peter"
 ---
 
-This category lists all **images by [Peter Pracownik](/wiki/Peter_Pracownik)**.
+This category lists all **images by [Peter Pracownik](../../main/P/Peter_Pracownik.md)**.

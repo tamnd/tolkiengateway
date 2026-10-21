@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from The Lord of the Rings Strategy Battle Game"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from The Lord of the Rings Strategy Battle Game</span>"
 page_id: 46085
 namespace: 14
 revision_id: 433557
@@ -13,4 +12,4 @@ categories:
   - "Images from Games Workshop"
 ---
 
-Images from **[The Lord of the Rings Strategy Battle Game](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game)**.
+Images from **[The Lord of the Rings Strategy Battle Game](../../main/T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)**.

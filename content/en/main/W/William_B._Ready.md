@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William Ready"
 ---
 
-Redirect to [William Ready](/wiki/William_Ready).
+Redirect to [William Ready](William_Ready.md).

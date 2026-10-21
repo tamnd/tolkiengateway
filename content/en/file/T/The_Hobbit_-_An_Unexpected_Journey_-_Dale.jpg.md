@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Dale.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Dale.jpg</span>"
 page_id: 56404
 namespace: 6
 revision_id: 307590
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Smaug](/wiki/Smaug) attacking [Dale](/wiki/Dale) from *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*.
+[Smaug](../../main/S/Smaug.md) attacking [Dale](../../main/D/Dale.md) from *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Licensing {#Licensing}
 

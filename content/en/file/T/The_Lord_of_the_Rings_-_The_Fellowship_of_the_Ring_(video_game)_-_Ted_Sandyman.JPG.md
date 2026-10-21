@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Ted Sandyman.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Ted Sandyman.JPG</span>"
 page_id: 21014
 namespace: 6
 revision_id: 298615
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ted Sandyman](/wiki/Ted_Sandyman), standing on the road near the [Old Mill](/wiki/Old_Mill). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Ted Sandyman](../../main/T/Ted_Sandyman.md), standing on the road near the [Old Mill](../../main/O/Old_Mill.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

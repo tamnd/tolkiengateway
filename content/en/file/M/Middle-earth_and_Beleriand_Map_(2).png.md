@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth and Beleriand Map (2).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth and Beleriand Map (2).png</span>"
 page_id: 67090
 namespace: 6
 revision_id: 390369

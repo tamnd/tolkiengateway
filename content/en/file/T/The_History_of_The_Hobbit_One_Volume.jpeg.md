@@ -1,6 +1,5 @@
 ---
 title: "File:The History of The Hobbit One Volume.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The History of The Hobbit One Volume.jpeg</span>"
 page_id: 61721
 namespace: 6
 revision_id: 350044

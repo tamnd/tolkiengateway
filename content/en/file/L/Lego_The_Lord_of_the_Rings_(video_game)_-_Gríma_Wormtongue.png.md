@@ -1,6 +1,5 @@
 ---
 title: "File:Lego The Lord of the Rings (video game) - Gríma Wormtongue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego The Lord of the Rings (video game) - Gríma Wormtongue.png</span>"
 page_id: 43226
 namespace: 6
 revision_id: 227431

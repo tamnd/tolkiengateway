@@ -13,4 +13,4 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**laeg** is the Sindarin word for the colour green as seen in contracted form in [Legolas](/wiki/Legolas)
+**laeg** is the Sindarin word for the colour green as seen in contracted form in [Legolas](Legolas.md)

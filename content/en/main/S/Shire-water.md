@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Water"
 ---
 
-Redirect to [The Water](/wiki/The_Water).
+Redirect to [The Water](../T/The_Water.md).

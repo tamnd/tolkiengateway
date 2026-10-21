@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Shelob's Lair.jpg"
 ---
 
-Redirect to [File:Alan Lee - Shelob's Lair.jpg](/wiki/File:Alan_Lee_-_Shelob's_Lair.jpg).
+Redirect to [File:Alan Lee - Shelob's Lair.jpg](Alan_Lee_-_Shelob's_Lair.jpg.md).

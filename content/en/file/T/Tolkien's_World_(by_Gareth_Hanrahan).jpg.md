@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's World (by Gareth Hanrahan).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s World (by Gareth Hanrahan).jpg</span>"
 page_id: 57252
 namespace: 6
 revision_id: 314190

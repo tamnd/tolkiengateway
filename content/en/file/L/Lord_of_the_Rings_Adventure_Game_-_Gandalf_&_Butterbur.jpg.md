@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Gandalf & Butterbur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Gandalf &amp; Butterbur.jpg</span>"
 page_id: 71258
 namespace: 6
 revision_id: 425069
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) and [Barliman Butterbur](/wiki/Barliman_Butterbur) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)* - *[Darker than the Darkness](/wiki/Darker_than_the_Darkness)*
+[Gandalf](../../main/G/Gandalf.md) and [Barliman Butterbur](../../main/B/Barliman_Butterbur.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)* - *[Darker than the Darkness](../../main/D/Darker_than_the_Darkness.md)*
 
 ## Licensing {#Licensing}
 

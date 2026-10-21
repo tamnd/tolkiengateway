@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Paolo Puggioni"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Paolo Puggioni</span>"
 page_id: 72806
 namespace: 14
 revision_id: 431450
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Puggioni, Paolo"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Paolo_Puggioni&amp;action=edit&amp;redlink=1" title="Paolo Puggioni (page does not exist)">Paolo Puggioni</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paolo_Puggioni&amp;action=edit&amp;redlink=1" title="Paolo Puggioni (page does not exist)">Paolo Puggioni</a></b>.

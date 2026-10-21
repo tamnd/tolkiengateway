@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Role Playing (2nd edition, hardcover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing (2nd edition, hardcover).jpg</span>"
 page_id: 29553
 namespace: 6
 revision_id: 350709

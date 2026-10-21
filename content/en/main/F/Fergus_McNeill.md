@@ -1,6 +1,5 @@
 ---
 title: "Fergus McNeill"
-display_title: "<span class=\"mw-page-title-main\">Fergus McNeill</span>"
 page_id: 25616
 namespace: 0
 revision_id: 148650
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "McNeill, Fergus"
 ---
 
-**Fergus McNeill** ([1969](/wiki/1969)) is a British games developer. He founded [Delta 4](/wiki/Delta_4_Software "Delta 4 Software"), a company that produced parody games such as *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *[The Boggit](/wiki/The_Boggit)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and *[Kingdom O' Magic](/wiki/Kingdom_O%27_Magic)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+**Fergus McNeill** ([1969](../_/1969.md)) is a British games developer. He founded [Delta 4](../D/Delta_4_Software.md), a company that produced parody games such as *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *[The Boggit](../T/The_Boggit.md)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and *[Kingdom O' Magic](../K/Kingdom_O'_Magic.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## External links {#External_links}
 

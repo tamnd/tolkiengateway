@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elladan and Elrohir"
 ---
 
-Redirect to [Elladan and Elrohir](/wiki/Elladan_and_Elrohir).
+Redirect to [Elladan and Elrohir](Elladan_and_Elrohir.md).

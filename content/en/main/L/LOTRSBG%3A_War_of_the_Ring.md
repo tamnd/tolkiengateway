@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring (2009 book)"
 ---
 
-Redirect to [War of the Ring (2009 book)](/wiki/War_of_the_Ring_(2009_book)).
+Redirect to [War of the Ring (2009 book)](<../W/War_of_the_Ring_(2009_book).md>).

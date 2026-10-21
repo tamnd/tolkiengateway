@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "KHILI"
 ---
 
-Redirect to [KHILI](/wiki/KHILI).
+Redirect to [KHILI](KHILI.md).

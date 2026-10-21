@@ -1,6 +1,5 @@
 ---
 title: "King Edward's School"
-display_title: "<span class=\"mw-page-title-main\">King Edward&#039;s School</span>"
 page_id: 17908
 namespace: 0
 revision_id: 390767
@@ -15,15 +14,15 @@ images:
   - "KES_Free_Grammar_School_Charles_Barry.jpg"
 ---
 
-**King Edward's School** (est. 1552) is an independent secondary school in [Birmingham](/wiki/Birmingham).
+**King Edward's School** (est. 1552) is an independent secondary school in [Birmingham](../B/Birmingham.md).
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:KES_Free_Grammar_School_Charles_Barry.jpg"><img src="/w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/180px-KES_Free_Grammar_School_Charles_Barry.jpg" decoding="async" loading="lazy" width="180" height="134" class="mw-file-element" srcset="/w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/270px-KES_Free_Grammar_School_Charles_Barry.jpg 1.5x, /w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/360px-KES_Free_Grammar_School_Charles_Barry.jpg 2x" data-file-width="3709" data-file-height="2764"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/KES_Free_Grammar_School_Charles_Barry.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/180px-KES_Free_Grammar_School_Charles_Barry.jpg" decoding="async" loading="lazy" width="180" height="134" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/270px-KES_Free_Grammar_School_Charles_Barry.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d7/KES_Free_Grammar_School_Charles_Barry.jpg/360px-KES_Free_Grammar_School_Charles_Barry.jpg 2x" data-file-width="3709" data-file-height="2764"/></a><figcaption></figcaption></figure>
 
-Young [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) was a former student, as were his friends [Christopher Wiseman](/wiki/Christopher_Wiseman), [Geoffrey Bache Smith](/wiki/Geoffrey_Bache_Smith), [Thomas Barnsley](/wiki/Thomas_Kenneth_Barnsley "Thomas Kenneth Barnsley") and [Robert Gilson](/wiki/Robert_Gilson), who was the son of headmaster Robert Cary Gilson. It was here that the [T.C.B.S.](/wiki/T.C.B.S.) came to being. The "Tea Club and Barrovian Society" alluded to their fondness of drinking tea in Barrow's Stores near the school and, illegally, in the school library.
+Young [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) was a former student, as were his friends [Christopher Wiseman](../C/Christopher_Wiseman.md), [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md), [Thomas Barnsley](../T/Thomas_Kenneth_Barnsley.md) and [Robert Gilson](../R/Robert_Gilson.md), who was the son of headmaster Robert Cary Gilson. It was here that the [T.C.B.S.](../T/T.C.B.S..md) came to being. The "Tea Club and Barrovian Society" alluded to their fondness of drinking tea in Barrow's Stores near the school and, illegally, in the school library.
 
 ## See also {#See_also}
 
-- [King Edward's School Chronicle](/wiki/King_Edward%27s_School_Chronicle)
+- [King Edward's School Chronicle](King_Edward's_School_Chronicle.md)
 
 ## External links {#External_links}
 

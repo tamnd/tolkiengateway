@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn of Gondor (fan film)"
 ---
 
-Redirect to [Horn of Gondor (fan film)](/wiki/Horn_of_Gondor_(fan_film)).
+Redirect to [Horn of Gondor (fan film)](<../H/Horn_of_Gondor_(fan_film).md>).

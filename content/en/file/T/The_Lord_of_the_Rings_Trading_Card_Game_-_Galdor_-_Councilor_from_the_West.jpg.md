@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Galdor, Councilor From the West.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Galdor, Councilor From the West.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Galdor,_Councilor_From_the_West.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Galdor, Councilor From the West.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Galdor,_Councilor_From_the_West.jpg.md).

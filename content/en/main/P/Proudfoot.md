@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Proudfoot Family"
 ---
 
-Redirect to [Proudfoot Family](/wiki/Proudfoot_Family).
+Redirect to [Proudfoot Family](Proudfoot_Family.md).

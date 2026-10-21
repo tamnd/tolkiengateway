@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MEQ - Rescue in Mirkwood.jpg"
 ---
 
-Redirect to [File:MEQ - Rescue in Mirkwood.jpg](/wiki/File:MEQ_-_Rescue_in_Mirkwood.jpg).
+Redirect to [File:MEQ - Rescue in Mirkwood.jpg](../M/MEQ_-_Rescue_in_Mirkwood.jpg.md).

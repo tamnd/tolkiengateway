@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ten Thousand Leaves"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ten Thousand Leaves</span>"
 page_id: 51349
 namespace: 14
 revision_id: 277607

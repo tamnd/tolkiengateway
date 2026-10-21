@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Harry Goatleaf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Harry Goatleaf.png</span>"
 page_id: 71054
 namespace: 6
 revision_id: 425427
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Harry Goatleaf](/wiki/Harry_Goatleaf). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Harry Goatleaf](../../main/H/Harry_Goatleaf.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Forest-walker"
 ---
 
-Redirect to [The Forest-walker](/wiki/The_Forest-walker).
+Redirect to [The Forest-walker](The_Forest-walker.md).

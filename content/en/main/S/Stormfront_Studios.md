@@ -1,6 +1,5 @@
 ---
 title: "Stormfront Studios"
-display_title: "<span class=\"mw-page-title-main\">Stormfront Studios</span>"
 page_id: 20539
 namespace: 0
 revision_id: 407298
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Stormfront Studios** was a North American video game developer. It developed [*The Lord of the Rings: The Two Towers* (video game)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)> "The Lord of the Rings: The Two Towers (video game)"). As of [April 1](/wiki/1_April "1 April"), [2008](/wiki/2008), the company is no longer doing business.
+**Stormfront Studios** was a North American video game developer. It developed [*The Lord of the Rings: The Two Towers* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>). As of [April 1](../_/1_April.md), [2008](../_/2008.md), the company is no longer doing business.
 
 ## External links {#External_links}
 

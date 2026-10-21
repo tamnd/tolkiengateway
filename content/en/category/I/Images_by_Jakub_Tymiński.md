@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jakub Tymiński"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jakub Tymiński</span>"
 page_id: 53189
 namespace: 14
 revision_id: 289442

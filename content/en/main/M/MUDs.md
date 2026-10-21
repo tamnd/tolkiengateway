@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Multi-User games"
 ---
 
-Redirect to [Multi-User games](/wiki/Multi-User_games).
+Redirect to [Multi-User games](Multi-User_games.md).

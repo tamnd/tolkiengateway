@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit/Publication history and gallery"
 ---
 
-Redirect to [The Hobbit/Publication history and gallery](/wiki/The_Hobbit/Publication_history_and_gallery).
+Redirect to [The Hobbit/Publication history and gallery](../T/The_Hobbit%252FPublication_history_and_gallery.md).

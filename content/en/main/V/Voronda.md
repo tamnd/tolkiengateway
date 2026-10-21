@@ -1,6 +1,5 @@
 ---
 title: "Voronda"
-display_title: "<span class=\"mw-page-title-main\">Voronda</span>"
 page_id: 4876
 namespace: 0
 revision_id: 318617
@@ -19,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Voronda"
 ---
 
-**Voronda** is a [Quenya](/wiki/Quenya) adjective meaning 'faithful' or 'steadfast', given as a title or surname to the great hero [Elendil](/wiki/Elendil).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Voronda** is a [Quenya](../Q/Quenya.md) adjective meaning 'faithful' or 'steadfast', given as a title or surname to the great hero [Elendil](../E/Elendil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, notes 43-44</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, notes 43-44</span>
 </li>
 </ol></div>

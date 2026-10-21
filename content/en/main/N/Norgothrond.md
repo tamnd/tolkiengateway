@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nargothrond"
 ---
 
-Redirect to [Nargothrond](/wiki/Nargothrond).
+Redirect to [Nargothrond](Nargothrond.md).

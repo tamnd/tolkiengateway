@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Beowulf and the Critics 2002.gif"
 ---
 
-Redirect to [File:Beowulf and the Critics 2002.gif](/wiki/File:Beowulf_and_the_Critics_2002.gif).
+Redirect to [File:Beowulf and the Critics 2002.gif](Beowulf_and_the_Critics_2002.gif.md).

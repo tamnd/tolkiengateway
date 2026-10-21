@@ -1,6 +1,5 @@
 ---
 title: "File:Jenny Dolfen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jenny Dolfen.jpg</span>"
 page_id: 53323
 namespace: 6
 revision_id: 290195
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jenny Dolfen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.goldseven.de/" rel="noreferrer noopener" target="_blank">Jenny Dolfen&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jenny_Dolfen" title="Tolkien Gateway:Copyrights/Jenny Dolfen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJenny_Dolfen.md" title="Tolkien Gateway:Copyrights/Jenny Dolfen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Kinship of the Half-elven.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Kinship of the Half-elven.jpg</span>"
 page_id: 62267
 namespace: 6
 revision_id: 351571

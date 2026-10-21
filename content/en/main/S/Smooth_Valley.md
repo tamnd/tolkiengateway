@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tumladen"
 ---
 
-Redirect to [Tumladen](/wiki/Tumladen).
+Redirect to [Tumladen](../T/Tumladen.md).

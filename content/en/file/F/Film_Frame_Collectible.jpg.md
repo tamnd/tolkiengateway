@@ -1,6 +1,5 @@
 ---
 title: "File:Film Frame Collectible.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Film Frame Collectible.jpg</span>"
 page_id: 17119
 namespace: 6
 revision_id: 191433

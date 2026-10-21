@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Fall of Arthur 2013 hc.jpg"
 ---
 
-Redirect to [File:The Fall of Arthur 2013 hc.jpg](/wiki/File:The_Fall_of_Arthur_2013_hc.jpg).
+Redirect to [File:The Fall of Arthur 2013 hc.jpg](The_Fall_of_Arthur_2013_hc.jpg.md).

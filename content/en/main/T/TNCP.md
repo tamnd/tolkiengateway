@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Notion Club Papers"
 ---
 
-Redirect to [The Notion Club Papers](/wiki/The_Notion_Club_Papers).
+Redirect to [The Notion Club Papers](The_Notion_Club_Papers.md).

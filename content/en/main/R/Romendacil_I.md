@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómendacil I"
 ---
 
-Redirect to [Rómendacil I](/wiki/Rómendacil_I).
+Redirect to [Rómendacil I](Rómendacil_I.md).

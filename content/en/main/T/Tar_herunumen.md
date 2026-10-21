@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar-Adûnakhôr"
 ---
 
-Redirect to [Ar-Adûnakhôr](/wiki/Ar-Adûnakhôr).
+Redirect to [Ar-Adûnakhôr](../A/Ar-Adûnakhôr.md).

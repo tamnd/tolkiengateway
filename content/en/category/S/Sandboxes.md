@@ -1,6 +1,5 @@
 ---
 title: "Category:Sandboxes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sandboxes</span>"
 page_id: 29121
 namespace: 14
 revision_id: 130016
@@ -13,7 +12,7 @@ categories:
   - "Gatekeepers"
 ---
 
-<dl><dd><i>See also: <a href="/wiki/Tolkien_Gateway:Sandbox" title="Tolkien Gateway:Sandbox">Tolkien Gateway:Sandbox</a></i></dd></dl>
+<dl><dd><i>See also: <a href="../../project/S/Sandbox.md" title="Tolkien Gateway:Sandbox">Tolkien Gateway:Sandbox</a></i></dd></dl>
 
 To add your sandbox to this category, add the following to your sandbox:
 

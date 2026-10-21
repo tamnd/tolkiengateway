@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aegnor"
 ---
 
-Redirect to [Aegnor](/wiki/Aegnor).
+Redirect to [Aegnor](Aegnor.md).

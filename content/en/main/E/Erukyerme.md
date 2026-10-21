@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erukyermë"
 ---
 
-Redirect to [Erukyermë](/wiki/Erukyermë).
+Redirect to [Erukyermë](Erukyermë.md).

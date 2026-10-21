@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to N.J. Kyle"
 ---
 
-Redirect to [Letter to N.J. Kyle](/wiki/Letter_to_N.J._Kyle).
+Redirect to [Letter to N.J. Kyle](../L/Letter_to_N.J._Kyle.md).

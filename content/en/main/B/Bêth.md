@@ -18,20 +18,20 @@ sort_keys:
   "Adûnaic words": "Beth"
 ---
 
-**Bêth** is an [Adûnaic](/wiki/Ad%C3%BBnaic) word for "saying" or "expression", or sometimes used as an agentive "sayer, speaker".
+**Bêth** is an [Adûnaic](../A/Adûnaic.md) word for "saying" or "expression", or sometimes used as an agentive "sayer, speaker".
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=BITH&amp;action=edit&amp;redlink=1" title="BITH (page does not exist)">BITH</a>.
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=BITH&amp;action=edit&amp;redlink=1" title="BITH (page does not exist)">BITH</a>.
 
-It is obviously a loan from [Sindarin](/wiki/Sindarin) *[peth](/wiki/Peth "Peth")*.
+It is obviously a loan from [Sindarin](../S/Sindarin.md) *[peth](../P/Peth.md)*.
 
 ## Example {#Example}
 
-- [Inzilbêth](/wiki/Inzilb%C3%AAth)
-- <a class="new" href="/w/index.php?title=Saib%C3%AAth&amp;action=edit&amp;redlink=1" title="Saibêth (page does not exist)">saibêth</a>
-- <a class="new" href="/w/index.php?title=Izindu-b%C3%AAth&amp;action=edit&amp;redlink=1" title="Izindu-bêth (page does not exist)">izindu-bêth</a>
+- [Inzilbêth](../I/Inzilbêth.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Saib%C3%AAth&amp;action=edit&amp;redlink=1" title="Saibêth (page does not exist)">saibêth</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Izindu-b%C3%AAth&amp;action=edit&amp;redlink=1" title="Izindu-bêth (page does not exist)">izindu-bêth</a>
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=Barabatta&amp;action=edit&amp;redlink=1" title="Barabatta (page does not exist)">barabatta</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Barabatta&amp;action=edit&amp;redlink=1" title="Barabatta (page does not exist)">barabatta</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Geldrop"
 ---
 
-Redirect to [Geldrop](/wiki/Geldrop).
+Redirect to [Geldrop](../G/Geldrop.md).

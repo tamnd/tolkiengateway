@@ -1,6 +1,5 @@
 ---
 title: "File:Saturday Evening Post (2 July 1966).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Saturday Evening Post (2 July 1966).jpg</span>"
 page_id: 28635
 namespace: 6
 revision_id: 248685

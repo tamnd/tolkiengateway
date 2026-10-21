@@ -1,6 +1,5 @@
 ---
 title: "Douglas C. Kenney"
-display_title: "<span class=\"mw-page-title-main\">Douglas C. Kenney</span>"
 page_id: 15618
 namespace: 0
 revision_id: 313022
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Kenney, Douglas C."
 ---
 
-**Douglas Clark Kenney** ([December 10](/wiki/10_December "10 December"), [1947](/wiki/1947)- [August 29](/wiki/29_August "29 August"), [1980](/wiki/1980)) was the co-author of *[Bored of the Rings](</wiki/Bored_of_the_Rings_(book)> "Bored of the Rings (book)")* along with longtime collaborator Henry Beard. He was a creative mastermind at, and a co-founder of *National Lampoon*. He wrote for the magazine, the radio program, the stage productions, comedy albums and the TV special *Lemmings: Dead in Concert* as well as the first film *Animal House*. He died falling off a cliff in Hawaii at the age of 33.
+**Douglas Clark Kenney** ([December 10](../_/10_December.md), [1947](../_/1947.md)- [August 29](../_/29_August.md), [1980](../_/1980.md)) was the co-author of *[Bored of the Rings](<../B/Bored_of_the_Rings_(book).md>)* along with longtime collaborator Henry Beard. He was a creative mastermind at, and a co-founder of *National Lampoon*. He wrote for the magazine, the radio program, the stage productions, comedy albums and the TV special *Lemmings: Dead in Concert* as well as the first film *Animal House*. He died falling off a cliff in Hawaii at the age of 33.
 
 ## External links {#External_links}
 

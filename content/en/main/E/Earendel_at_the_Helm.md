@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éarendel at the Helm"
 ---
 
-Redirect to [Éarendel at the Helm](/wiki/Éarendel_at_the_Helm).
+Redirect to [Éarendel at the Helm](../_/Éarendel_at_the_Helm.md).

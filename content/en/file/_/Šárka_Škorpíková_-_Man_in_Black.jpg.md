@@ -1,6 +1,5 @@
 ---
 title: "File:Šárka Škorpíková - Man in Black.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Šárka Škorpíková - Man in Black.jpg</span>"
 page_id: 49445
 namespace: 6
 revision_id: 264599
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tuor](/wiki/Tuor) and [Voronwë](/wiki/Voronw%C3%AB) spot [Túrin](/wiki/T%C3%BArin) from afar.
+[Tuor](../../main/T/Tuor.md) and [Voronwë](../../main/V/Voronwë.md) spot [Túrin](../../main/T/Túrin.md) from afar.
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Šárka Škorpíková</li>
 <li><b>Website:</b> <a class="external text" href="http://robleskazeppelin.deviantart.com/" rel="noreferrer noopener" target="_blank">Šárka Škorpíková on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1" title="Tolkien Gateway:Copyrights/Šárka Škorpíková">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FŠárka_Škorpíková.md" title="Tolkien Gateway:Copyrights/Šárka Škorpíková">Permission for use on Tolkien Gateway</a></b></li></ul></div>

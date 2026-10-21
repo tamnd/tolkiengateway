@@ -1,6 +1,5 @@
 ---
 title: "File:William Morris.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">William Morris.jpg</span>"
 page_id: 28453
 namespace: 6
 revision_id: 231568
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[William Morris](/wiki/William_Morris) at the end of 19th century; unknown photographer.
+[William Morris](../../main/W/William_Morris.md) at the end of 19th century; unknown photographer.
 
 ## Licensing {#Licensing}
 

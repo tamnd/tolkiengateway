@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Blue Wizards"
 ---
 
-Redirect to [Blue Wizards](/wiki/Blue_Wizards).
+Redirect to [Blue Wizards](../B/Blue_Wizards.md).

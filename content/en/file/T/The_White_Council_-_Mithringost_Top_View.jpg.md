@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Mithringost Top View.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Mithringost Top View.jpg</span>"
 page_id: 13397
 namespace: 6
 revision_id: 169718

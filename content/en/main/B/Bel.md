@@ -13,16 +13,16 @@ categories:
   - "Mannish words"
 ---
 
-<i><b>bel</b></i> is a [Pre-Númenórean](/wiki/Pre-N%C3%BAmen%C3%B3rean) word or element of unknown meaning. It is seen in the name *[Belfalas](/wiki/Belfalas)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>bel</b></i> is a [Pre-Númenórean](../P/Pre-Númenórean.md) word or element of unknown meaning. It is seen in the name *[Belfalas](Belfalas.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The scholars of [Gondor](/wiki/Gondor) could only speculate the original meaning of *bel*; it's possible that it has the meaning of "shore" as does the second element *[falas](/wiki/Falas "Falas")*.
+The scholars of [Gondor](../G/Gondor.md) could only speculate the original meaning of *bel*; it's possible that it has the meaning of "shore" as does the second element *[falas](../F/Falas.md)*.
 
-Since the great bay between [Umbar](/wiki/Umbar) and [Andrast](/wiki/Andrast) (the Long Cape, beyond [Lefnui](/wiki/Lefnui)) was called *[Côf](/wiki/C%C3%B4f) ([gwaeren](/wiki/Gwaeren "Gwaeren")) Bêl* "(windy) Bay of Bêl" scholars also considered possible that *Bêl* was the name of the region later called [Dor-en-Ernil](/wiki/Dor-en-Ernil) before settled by the [Dúnedain](/wiki/D%C3%BAnedain).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Since the great bay between [Umbar](../U/Umbar.md) and [Andrast](../A/Andrast.md) (the Long Cape, beyond [Lefnui](../L/Lefnui.md)) was called *[Côf](../C/Côf.md) ([gwaeren](../G/Gwaeren.md)) Bêl* "(windy) Bay of Bêl" scholars also considered possible that *Bêl* was the name of the region later called [Dor-en-Ernil](../D/Dor-en-Ernil.md) before settled by the [Dúnedain](../D/Dúnedain.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Belfalas](/wiki/Belfalas)
-- [Bay of Belfalas](/wiki/Bay_of_Belfalas)
+- [Belfalas](Belfalas.md)
+- [Bay of Belfalas](Bay_of_Belfalas.md)
 
 <span></span>
 
@@ -30,8 +30,8 @@ Since the great bay between [Umbar](/wiki/Umbar) and [Andrast](/wiki/Andrast) (t
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Adventures_of_Tom_Bombadil" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="/wiki/Preface" title="Preface">Preface</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="../P/Preface.md" title="Preface">Preface</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Rivers_and_Beacon-hills_of_Gondor" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 15</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001, p. 15</span>
 </li>
 </ol></div>

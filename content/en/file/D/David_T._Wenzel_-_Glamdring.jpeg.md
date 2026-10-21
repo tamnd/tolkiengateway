@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - Glamdring.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - Glamdring.jpeg</span>"
 page_id: 73024
 namespace: 6
 revision_id: 432455
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elrond](/wiki/Elrond) holding [Glamdring](/wiki/Glamdring) - Art by [David T. Wenzel](/wiki/David_T._Wenzel) for [*The Hobbit* (comic book)](</wiki/The_Hobbit_(comic_book)> "The Hobbit (comic book)")
+[Elrond](../../main/E/Elrond.md) holding [Glamdring](../../main/G/Glamdring.md) - Art by [David T. Wenzel](../../main/D/David_T._Wenzel.md) for [*The Hobbit* (comic book)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

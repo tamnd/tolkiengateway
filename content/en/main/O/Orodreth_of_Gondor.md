@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orodreth (Steward of Gondor)"
 ---
 
-Redirect to [Orodreth (Steward of Gondor)](/wiki/Orodreth_(Steward_of_Gondor)).
+Redirect to [Orodreth (Steward of Gondor)](<Orodreth_(Steward_of_Gondor).md>).

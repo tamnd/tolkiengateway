@@ -11,4 +11,4 @@ redirect_target: "Bay of Belfalas"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Bay of Belfalas](/wiki/Bay_of_Belfalas#Other_names).
+Redirect to [Bay of Belfalas](../B/Bay_of_Belfalas.md#Other_names).

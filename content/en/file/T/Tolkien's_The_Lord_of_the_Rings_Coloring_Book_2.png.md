@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's The Lord of the Rings Coloring Book 2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s The Lord of the Rings Coloring Book 2.png</span>"
 page_id: 37966
 namespace: 6
 revision_id: 214757

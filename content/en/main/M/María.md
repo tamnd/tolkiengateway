@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Virgin Mary"
 ---
 
-Redirect to [Virgin Mary](/wiki/Virgin_Mary).
+Redirect to [Virgin Mary](../V/Virgin_Mary.md).

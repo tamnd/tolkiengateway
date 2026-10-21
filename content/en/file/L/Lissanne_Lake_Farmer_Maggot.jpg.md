@@ -1,6 +1,5 @@
 ---
 title: "File:Lissanne Lake Farmer Maggot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lissanne Lake Farmer Maggot.jpg</span>"
 page_id: 71560
 namespace: 6
 revision_id: 426736

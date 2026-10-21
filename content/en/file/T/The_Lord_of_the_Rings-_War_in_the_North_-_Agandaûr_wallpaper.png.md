@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- War in the North - Agandaûr wallpaper.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- War in the North - Agandaûr wallpaper.png</span>"
 page_id: 37553
 namespace: 6
 revision_id: 180298
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Wallpaper of [Agandaûr](/wiki/Aganda%C3%BBr) for [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Wallpaper of [Agandaûr](../../main/A/Agandaûr.md) for [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Licensing {#Licensing}
 

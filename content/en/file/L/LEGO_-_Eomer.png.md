@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Eomer.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Eomer.png</span>"
 page_id: 73151
 namespace: 6
 revision_id: 432989
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Eomer](/wiki/%C3%89omer "Éomer") - [LEGO](/wiki/Lego "Lego") minifigure
+[Eomer](../../main/_/Éomer.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

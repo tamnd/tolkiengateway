@@ -1,6 +1,5 @@
 ---
 title: "File:Beren and Lúthien 2023.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beren and Lúthien 2023.jpg</span>"
 page_id: 66687
 namespace: 6
 revision_id: 394413

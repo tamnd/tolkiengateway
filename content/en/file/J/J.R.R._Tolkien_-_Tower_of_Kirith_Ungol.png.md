@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Tower of Kirith Ungol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Tower of Kirith Ungol.png</span>"
 page_id: 71492
 namespace: 6
 revision_id: 426274
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Early sketch of the [Tower of Kirith Ungol](/wiki/Tower_of_Cirith_Ungol "Tower of Cirith Ungol") in a manuscript for *[The Tower of Cirith Ungol](/wiki/The_Tower_of_Cirith_Ungol)* by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Early sketch of the [Tower of Kirith Ungol](../../main/T/Tower_of_Cirith_Ungol.md) in a manuscript for *[The Tower of Cirith Ungol](../../main/T/The_Tower_of_Cirith_Ungol.md)* by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

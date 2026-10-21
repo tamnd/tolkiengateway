@@ -1,6 +1,5 @@
 ---
 title: "File:Unfinished Tales 1998-18.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unfinished Tales 1998-18.png</span>"
 page_id: 62577
 namespace: 6
 revision_id: 353542

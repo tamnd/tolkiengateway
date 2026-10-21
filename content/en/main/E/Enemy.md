@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Lord"
 ---
 
-Redirect to [Dark Lord](/wiki/Dark_Lord).
+Redirect to [Dark Lord](../D/Dark_Lord.md).

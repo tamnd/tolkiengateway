@@ -1,6 +1,5 @@
 ---
 title: "File:Turner Mohan - Narvi comes before the Dwarf-lords and begs them to relinquish their rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Turner Mohan - Narvi comes before the Dwarf-lords and begs them to relinquish their rings.jpg</span>"
 page_id: 74753
 namespace: 6
 revision_id: 439714
@@ -32,28 +31,26 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Turner Mohan - Narvi comes before the Dwarf-lords and begs them to relinquish their rings.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Narvi" title="Narvi">Narvi</a> comes before the <a href="/wiki/Dwarves" title="Dwarves">Dwarf</a>-lords and begs them to relinquish <a href="/wiki/Seven_Rings" title="Seven Rings">their rings</a></i> by <a href="/wiki/Category:Images_by_Turner_Mohan" title="Category:Images by Turner Mohan">Turner Mohan</a>
+<p><i><a href="../../main/N/Narvi.md" title="Narvi">Narvi</a> comes before the <a href="../../main/D/Dwarves.md" title="Dwarves">Dwarf</a>-lords and begs them to relinquish <a href="../../main/S/Seven_Rings.md" title="Seven Rings">their rings</a></i> by <a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2014" title="2014">2014</a></td>
+<td><a href="../../main/_/2014.md" title="2014">2014</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Ink on paper</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Turner_Mohan" title="Category:Images by Turner Mohan">Turner Mohan</a></td>
+<td><a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.instagram.com/p/CS1o2yLLE6T/?img_index=1" rel="noreferrer noopener" target="_blank">https://www.instagram.com/p/CS1o2yLLE6T/?img_index=1</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Turner Mohan</span></span>
@@ -61,4 +58,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Turner Mohan</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/turnermohan" rel="noreferrer noopener" target="_blank">Turner Mohan on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Turner_Mohan" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTurner_Mohan.md" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

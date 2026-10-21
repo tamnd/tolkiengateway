@@ -1,6 +1,5 @@
 ---
 title: "Category:Pronounced articles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pronounced articles</span>"
 page_id: 5628
 namespace: 14
 revision_id: 175368

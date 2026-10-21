@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rían"
 ---
 
-Redirect to [Rían](/wiki/Rían).
+Redirect to [Rían](Rían.md).

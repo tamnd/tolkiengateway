@@ -1,6 +1,5 @@
 ---
 title: "File:The Science of Middle-earth Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Science of Middle-earth Cover.jpg</span>"
 page_id: 21103
 namespace: 6
 revision_id: 214701

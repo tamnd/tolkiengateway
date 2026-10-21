@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Tar Goroth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Tar Goroth.jpg</span>"
 page_id: 63924
 namespace: 6
 revision_id: 364680
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Balrog](/wiki/Balrog) Tar Goroth as it depicted in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War).
+The [Balrog](../../main/B/Balrog.md) Tar Goroth as it depicted in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Mines"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mines</span>"
 page_id: 8143
 namespace: 14
 revision_id: 195575

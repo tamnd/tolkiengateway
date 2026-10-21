@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Brian Snoddy"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Brian Snoddy</span>"
 page_id: 70891
 namespace: 14
 revision_id: 423475

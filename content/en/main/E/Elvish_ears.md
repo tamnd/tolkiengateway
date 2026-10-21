@@ -11,4 +11,4 @@ redirect_target: "Elven characteristics"
 redirect_fragment: "Pointed ears"
 ---
 
-Redirect to [Elven characteristics](/wiki/Elven_characteristics#Pointed_ears).
+Redirect to [Elven characteristics](Elven_characteristics.md#Pointed_ears).

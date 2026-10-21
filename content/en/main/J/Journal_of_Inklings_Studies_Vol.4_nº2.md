@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Journal of Inklings Studies, vol.4 no.2"
 ---
 
-Redirect to [Journal of Inklings Studies, vol.4 no.2](/wiki/Journal_of_Inklings_Studies,_vol.4_no.2).
+Redirect to [Journal of Inklings Studies, vol.4 no.2](Journal_of_Inklings_Studies,_vol.4_no.2.md).

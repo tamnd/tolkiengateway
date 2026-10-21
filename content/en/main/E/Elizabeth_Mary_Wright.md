@@ -1,6 +1,5 @@
 ---
 title: "Elizabeth Mary Wright"
-display_title: "<span class=\"mw-page-title-main\">Elizabeth Mary Wright</span>"
 page_id: 33612
 namespace: 0
 revision_id: 158699
@@ -17,11 +16,11 @@ sort_keys:
   "People by name": "Wright, Elizabeth Mary"
 ---
 
-**Elizabeth Mary Wright** (1863-1958) was the wife of Tolkien's teacher [Joseph Wright](/wiki/Joseph_Wright), as well as a philologist and teacher in her own right. Tolkien and the Wrights were close friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Letter 6](/wiki/Letter_6) of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien); [Humphrey Carpenter](/wiki/Humphrey_Carpenter), [Christopher Tolkien](/wiki/Christopher_Tolkien) (eds.), *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)* was addressed to her. <span></span>
+**Elizabeth Mary Wright** (1863-1958) was the wife of Tolkien's teacher [Joseph Wright](../J/Joseph_Wright.md), as well as a philologist and teacher in her own right. Tolkien and the Wrights were close friends.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Letter 6](../L/Letter_6.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); [Humphrey Carpenter](../H/Humphrey_Carpenter.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* was addressed to her. <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Douglas_A._Anderson" title="Douglas A. Anderson">Douglas A. Anderson</a> (ed.), (2002) <i><a class="mw-redirect" href="/wiki/The_Annotated_Hobbit:_Revised_and_Expanded_Edition" title="The Annotated Hobbit: Revised and Expanded Edition">The Annotated Hobbit: Revised and Expanded Edition</a></i>, &#34;<a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a>&#34;, Note 14</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a> (ed.), (2002) <i><a class="mw-redirect" href="../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md" title="The Annotated Hobbit: Revised and Expanded Edition">The Annotated Hobbit: Revised and Expanded Edition</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;, Note 14</span>
 </li>
 </ol></div>

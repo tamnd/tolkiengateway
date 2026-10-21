@@ -1,6 +1,5 @@
 ---
 title: "File:At Dawn in Rivendell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">At Dawn in Rivendell.jpg</span>"
 page_id: 67002
 namespace: 6
 revision_id: 388602

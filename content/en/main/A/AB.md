@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ABA"
 ---
 
-Redirect to [ABA](/wiki/ABA).
+Redirect to [ABA](ABA.md).

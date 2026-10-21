@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómenna"
 ---
 
-Redirect to [Rómenna](/wiki/Rómenna).
+Redirect to [Rómenna](Rómenna.md).

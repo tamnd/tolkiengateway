@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-vëa"
 ---
 
-Redirect to [-vëa](/wiki/-vëa).
+Redirect to [-vëa](-vëa.md).

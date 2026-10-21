@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gulf of Lune"
 ---
 
-Redirect to [Gulf of Lune](/wiki/Gulf_of_Lune).
+Redirect to [Gulf of Lune](Gulf_of_Lune.md).

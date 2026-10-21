@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Liz Danforth"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Liz Danforth</span>"
 page_id: 25892
 namespace: 14
 revision_id: 182069
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Danforth, Liz"
 ---
 
-This category lists all **images by [Liz Danforth](/wiki/Liz_Danforth)**.
+This category lists all **images by [Liz Danforth](../../main/L/Liz_Danforth.md)**.

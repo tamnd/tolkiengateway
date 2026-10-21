@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eru-begotten"
 ---
 
-Redirect to [Eru-begotten](/wiki/Eru-begotten).
+Redirect to [Eru-begotten](../E/Eru-begotten.md).

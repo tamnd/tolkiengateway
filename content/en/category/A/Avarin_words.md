@@ -1,6 +1,5 @@
 ---
 title: "Category:Avarin words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Avarin words</span>"
 page_id: 30689
 namespace: 14
 revision_id: 278119

@@ -1,6 +1,5 @@
 ---
 title: "File:Álvaro Calvo Escudero - Orc-chieftain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Álvaro Calvo Escudero - Orc-chieftain.jpg</span>"
 page_id: 73208
 namespace: 6
 revision_id: 433286
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orc-chieftain](/wiki/Orc-chieftain) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Lord of the Rings*: *The Road Darkens* illustration by Álvaro Calvo Escudero
+[Orc-chieftain](../../main/O/Orc-chieftain.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Lord of the Rings*: *The Road Darkens* illustration by Álvaro Calvo Escudero
 
 ## Licensing {#Licensing}
 

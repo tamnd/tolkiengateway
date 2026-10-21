@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avallónë"
 ---
 
-Redirect to [Avallónë](/wiki/Avallónë).
+Redirect to [Avallónë](Avallónë.md).

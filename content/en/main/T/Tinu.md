@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tinw"
 ---
 
-Redirect to [Tinw](/wiki/Tinw).
+Redirect to [Tinw](Tinw.md).

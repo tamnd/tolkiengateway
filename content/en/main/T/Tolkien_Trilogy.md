@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Trilogy"
 ---
 
-Redirect to [The Tolkien Trilogy](/wiki/The_Tolkien_Trilogy).
+Redirect to [The Tolkien Trilogy](The_Tolkien_Trilogy.md).

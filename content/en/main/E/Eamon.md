@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eamon (disambiguation)"
 ---
 
-Redirect to [Eamon (disambiguation)](/wiki/Eamon_(disambiguation)).
+Redirect to [Eamon (disambiguation)](<Eamon_(disambiguation).md>).

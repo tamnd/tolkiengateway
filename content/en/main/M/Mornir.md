@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mornië (ship)"
 ---
 
-Redirect to [Mornië (ship)](/wiki/Mornië_(ship)).
+Redirect to [Mornië (ship)](<Mornië_(ship).md>).

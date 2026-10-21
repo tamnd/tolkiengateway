@@ -1,6 +1,5 @@
 ---
 title: "Drúin"
-display_title: "<span class=\"mw-page-title-main\">Drúin</span>"
 page_id: 3935
 namespace: 0
 revision_id: 405276
@@ -24,6 +23,6 @@ langlinks:
     url: "https://kontu.wiki/Dr%C3%BAedain"
 ---
 
-<dl><dd><i>See main article: <b><a href="/wiki/Dr%C3%BAedain" title="Drúedain">Drúedain</a></b></i></dd></dl>
+<dl><dd><i>See main article: <b><a href="Drúedain.md" title="Drúedain">Drúedain</a></b></i></dd></dl>
 
-<i><b>Drúin</b></i> is a [Sindarin](/wiki/Sindarin) word referring to the wild, reclusive [Men](/wiki/Men) known as the [Drúedain](/wiki/Dr%C3%BAedain). The name comes ultimately from their own name for themselves, [Drughu](/wiki/Dr%C3%BAedain "Drúedain"), adapted to the sounds of Sindarin [Elvish](/wiki/Elvish). Drúin is a simple plural (directly equivalent to "Woses"), but there were also other forms in Sindarin. [Drúath](/wiki/Dr%C3%BAedain "Drúedain") would refer to a large number or crowd of these people, while [Drúedain](/wiki/Dr%C3%BAedain) was a reference to the race as a whole.
+<i><b>Drúin</b></i> is a [Sindarin](../S/Sindarin.md) word referring to the wild, reclusive [Men](../M/Men.md) known as the [Drúedain](Drúedain.md). The name comes ultimately from their own name for themselves, [Drughu](Drúedain.md), adapted to the sounds of Sindarin [Elvish](../E/Elvish.md). Drúin is a simple plural (directly equivalent to "Woses"), but there were also other forms in Sindarin. [Drúath](Drúedain.md) would refer to a large number or crowd of these people, while [Drúedain](Drúedain.md) was a reference to the race as a whole.

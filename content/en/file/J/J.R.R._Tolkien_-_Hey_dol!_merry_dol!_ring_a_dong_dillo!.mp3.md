@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Hey dol! merry dol! ring a dong dillo!.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Hey dol! merry dol! ring a dong dillo!.mp3</span>"
 page_id: 71060
 namespace: 6
 revision_id: 424369
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads an extract of [Hey dol! merry dol! ring a dong dillo!](/wiki/Hey_dol!_merry_dol!_ring_a_dong_dillo!)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads an extract of [Hey dol! merry dol! ring a dong dillo!](../../main/H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Mordor war catapult.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Mordor war catapult.gif</span>"
 page_id: 11916
 namespace: 6
 revision_id: 203997

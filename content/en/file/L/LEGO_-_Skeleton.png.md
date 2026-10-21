@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Skeleton.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Skeleton.png</span>"
 page_id: 73306
 namespace: 6
 revision_id: 433548
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Skeleton - [LEGO](/wiki/Lego "Lego"). Source: <a class="external text" href="https://brickset.com/minifigs/gen001/skeleton-standard-skull-floppy-arms" rel="noreferrer noopener" target="_blank">Brickset</a>
+Skeleton - [LEGO](../../main/L/Lego.md). Source: <a class="external text" href="https://brickset.com/minifigs/gen001/skeleton-standard-skull-floppy-arms" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

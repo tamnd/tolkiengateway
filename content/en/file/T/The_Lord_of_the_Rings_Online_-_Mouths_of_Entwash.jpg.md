@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Mouths of Entwash.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Mouths of Entwash.jpg</span>"
 page_id: 69679
 namespace: 6
 revision_id: 414604

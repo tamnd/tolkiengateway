@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sword of Manwë"
 ---
 
-Redirect to [Sword of Manwë](/wiki/Sword_of_Manwë).
+Redirect to [Sword of Manwë](Sword_of_Manwë.md).

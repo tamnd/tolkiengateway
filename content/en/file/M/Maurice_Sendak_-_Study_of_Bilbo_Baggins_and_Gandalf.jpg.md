@@ -1,6 +1,5 @@
 ---
 title: "File:Maurice Sendak - Study of Bilbo Baggins and Gandalf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maurice Sendak - Study of Bilbo Baggins and Gandalf.jpg</span>"
 page_id: 75212
 namespace: 6
 revision_id: 442799
@@ -34,25 +33,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Maurice Sendak - Study of Bilbo Baggins and Gandalf.jpg</span></th>
 <td class="description">
-<p>Artwork of <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> meeting <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a> at <a href="/wiki/Bag_End" title="Bag End">Bag End</a>
+<p>Artwork of <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a> meeting <a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> at <a href="../../main/B/Bag_End.md" title="Bag End">Bag End</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1967" title="1967">1967</a></td>
+<td><a href="../../main/_/1967.md" title="1967">1967</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Maurice_Sendak" title="Maurice Sendak">Maurice Sendak</a></td>
+<td><a href="../../main/M/Maurice_Sendak.md" title="Maurice Sendak">Maurice Sendak</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>composite of <a class="external free" href="https://www.amazon.ca/Tolkien-Calendar-2027-J-R/dp/0063494388" rel="noreferrer noopener" target="_blank">https://www.amazon.ca/Tolkien-Calendar-2027-J-R/dp/0063494388</a> (for the higher res illustration) and <a class="external free" href="https://www.openculture.com/2014/03/maurice-sendak-illustrates-the-hobbit.html" rel="noreferrer noopener" target="_blank">https://www.openculture.com/2014/03/maurice-sendak-illustrates-the-hobbit.html</a> (for the text below)</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

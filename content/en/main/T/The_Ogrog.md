@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Orgog"
 ---
 
-Redirect to [The Orgog](/wiki/The_Orgog).
+Redirect to [The Orgog](The_Orgog.md).

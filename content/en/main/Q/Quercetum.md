@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oakley"
 ---
 
-Redirect to [Oakley](/wiki/Oakley).
+Redirect to [Oakley](../O/Oakley.md).

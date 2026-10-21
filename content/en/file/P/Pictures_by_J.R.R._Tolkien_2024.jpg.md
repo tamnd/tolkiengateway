@@ -1,6 +1,5 @@
 ---
 title: "File:Pictures by J.R.R. Tolkien 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pictures by J.R.R. Tolkien 2024.jpg</span>"
 page_id: 66592
 namespace: 6
 revision_id: 385318

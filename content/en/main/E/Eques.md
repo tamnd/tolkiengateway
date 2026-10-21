@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-**Eques** (pl.*equessi*) is [Quenyan](/wiki/Quenya "Quenya") for 'saying', 'dictum', 'quotation'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eques** (pl.*equessi*) is [Quenyan](../Q/Quenya.md) for 'saying', 'dictum', 'quotation'.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<i><a class="new" href="/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">I Equessi Rúmilo</a></i>, "The Sayings of Rúmil", are the ancient saga of Tirion that was handed down by tradition of mouth.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=I_Equessi_R%C3%BAmilo&amp;action=edit&amp;redlink=1" title="I Equessi Rúmilo (page does not exist)">I Equessi Rúmilo</a></i>, "The Sayings of Rúmil", are the ancient saga of Tirion that was handed down by tradition of mouth.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*Eques* is also the verb <i><a class="new" href="/w/index.php?title=Equ%C3%AB&amp;action=edit&amp;redlink=1" title="Equë (page does not exist)">equë</a></i> (that was used mostly just before an independent pronoun or after 'that'-conjuction) having an affix added to it, making a meaning *said he, said someone*. This structure was usually used in reporting a dialogue.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Eques* is also the verb <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Equ%C3%AB&amp;action=edit&amp;redlink=1" title="Equë (page does not exist)">equë</a></i> (that was used mostly just before an independent pronoun or after 'that'-conjuction) having an affix added to it, making a meaning *said he, said someone*. This structure was usually used in reporting a dialogue.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
@@ -25,12 +25,12 @@ categories:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix D. *<i>Kwen</i>, <i>Quenya</i>, and the Elvish (especially Ñoldorin) words for &#39;Language&#39;&#34;, p. 392</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix D. *<i>Kwen</i>, <i>Quenya</i>, and the Elvish (especially Ñoldorin) words for &#39;Language&#39;&#34;, p. 392</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix D. *<i>Kwen</i>, <i>Quenya</i>, and the Elvish (especially Ñoldorin) words for &#39;Language&#39;: Note on the &#39;Language of the Valar&#39;&#34;, pp. 397-398</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix D. *<i>Kwen</i>, <i>Quenya</i>, and the Elvish (especially Ñoldorin) words for &#39;Language&#39;: Note on the &#39;Language of the Valar&#39;&#34;, pp. 397-398</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Author&#39;s Notes to Quendi and Eldar&#34;, Note 29, p. 415</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Author&#39;s Notes to Quendi and Eldar&#34;, Note 29, p. 415</span>
 </li>
 </ol></div>

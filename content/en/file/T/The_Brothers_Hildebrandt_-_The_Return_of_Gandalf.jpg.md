@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Return of Gandalf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Return of Gandalf.jpg</span>"
 page_id: 72362
 namespace: 6
 revision_id: 429937
@@ -34,7 +33,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Return of [Gandalf](/wiki/Gandalf)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"The Return of [Gandalf](../../main/G/Gandalf.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

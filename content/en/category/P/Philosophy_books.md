@@ -1,6 +1,5 @@
 ---
 title: "Category:Philosophy books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Philosophy books</span>"
 page_id: 44081
 namespace: 14
 revision_id: 231880

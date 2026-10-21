@@ -1,6 +1,5 @@
 ---
 title: "Gil-Galad (Tolkien Society)"
-display_title: "<span class=\"mw-page-title-main\">Gil-Galad (Tolkien Society)</span>"
 page_id: 36930
 namespace: 0
 revision_id: 439315
@@ -16,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Slovensko Tolkienovo društvo Gil-galad** is the [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in Slovenia.
+**Slovensko Tolkienovo društvo Gil-galad** is the [Tolkien society](../T/Tolkien_Societies~67099.md) in Slovenia.
 
 ## History {#History}
 
-The Slovenian Tolkien Society Gil-galad was founded in 1998. Gil-galad was initially supported by Dutch Tolkien collectors [Jan Boom (a.k.a. Fangorn)](/wiki/Jan_Boom "Jan Boom") and [Peter-Willem Schellen (a.k.a. Fëanor)](/wiki/Peter_Schellen "Peter Schellen") and later on by the [Italian Tolkien Society](/wiki/Societ%C3%A0_Tolkieniana_Italiana "Società Tolkieniana Italiana").
+The Slovenian Tolkien Society Gil-galad was founded in 1998. Gil-galad was initially supported by Dutch Tolkien collectors [Jan Boom (a.k.a. Fangorn)](../J/Jan_Boom.md) and [Peter-Willem Schellen (a.k.a. Fëanor)](../P/Peter_Schellen.md) and later on by the [Italian Tolkien Society](../S/Società_Tolkieniana_Italiana.md).
 
 Gil-galad became very active early on and continues to have a strong focus on live action role playing. Gil-galad typically attends Italian Tolkien Society events but has also attended other European Tolkien events since inception. Gil-galad is usually consulted on Tolkien related matters (the books and movies) in the Slovenian media.
 

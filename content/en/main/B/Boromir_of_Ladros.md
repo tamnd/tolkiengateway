@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boromir (Lord of Ladros)"
 ---
 
-Redirect to [Boromir (Lord of Ladros)](/wiki/Boromir_(Lord_of_Ladros)).
+Redirect to [Boromir (Lord of Ladros)](<Boromir_(Lord_of_Ladros).md>).

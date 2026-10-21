@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elda"
 ---
 
-Redirect to [Elda](/wiki/Elda).
+Redirect to [Elda](Elda.md).

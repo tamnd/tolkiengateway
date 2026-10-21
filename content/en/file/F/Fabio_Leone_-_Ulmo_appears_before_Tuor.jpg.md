@@ -1,6 +1,5 @@
 ---
 title: "File:Fabio Leone - Ulmo appears before Tuor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fabio Leone - Ulmo appears before Tuor.jpg</span>"
 page_id: 47904
 namespace: 6
 revision_id: 364713
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Winner of [the Tolkien Society Award](/wiki/The_Tolkien_Society_Award "The Tolkien Society Award") for Best Artwork in [2015](/wiki/2015).
+Winner of [the Tolkien Society Award](../../main/T/The_Tolkien_Society_Award.md) for Best Artwork in [2015](../../main/_/2015.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Winner of [the Tolkien Society Award](/wiki/The_Tolkien_Society_Award "The Tolki
 </p>
 <ul><li><b>Name:</b> Fabio Leone</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/IllustratorFabioLeone" rel="noreferrer noopener" target="_blank">Fabio Leone</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Fabio_Leone" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFabio_Leone.md" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>

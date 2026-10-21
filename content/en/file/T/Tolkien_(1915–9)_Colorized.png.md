@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Tolkien 1916 (colourized).png"
 ---
 
-Redirect to [File:Tolkien 1916 (colourized).png](/wiki/File:Tolkien_1916_(colourized).png).
+Redirect to [File:Tolkien 1916 (colourized).png](<Tolkien_1916_(colourized).png.md>).

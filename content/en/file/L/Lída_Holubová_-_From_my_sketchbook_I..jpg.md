@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Lída Holubová - Song of Eärendil.jpg"
 ---
 
-Redirect to [File:Lída Holubová - Song of Eärendil.jpg](/wiki/File:Lída_Holubová_-_Song_of_Eärendil.jpg).
+Redirect to [File:Lída Holubová - Song of Eärendil.jpg](Lída_Holubová_-_Song_of_Eärendil.jpg.md).

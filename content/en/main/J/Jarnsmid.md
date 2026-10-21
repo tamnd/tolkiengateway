@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Járnsmid"
 ---
 
-Redirect to [Járnsmid](/wiki/Járnsmid).
+Redirect to [Járnsmid](Járnsmid.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Romas Kukalis - Ren the Ringwraith.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Romas Kukalis - Ren the Ringwraith.jpeg</span>"
 page_id: 70850
 namespace: 6
 revision_id: 440965
@@ -35,8 +34,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Romas Kukalis - Ren the Ringwraith.jpeg</span></th>
 <td class="description">
 <p><i>Ren the Ringwraith</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -44,8 +43,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Romas Kukalis</td>
@@ -54,7 +51,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.finarte.it/auction/the-art-of-the-lord-of-the-rings-milan-2022-12-14/romas-kukalis-ren-the-ringwraith-88543?lang=en" rel="noreferrer noopener" target="_blank">Auction</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

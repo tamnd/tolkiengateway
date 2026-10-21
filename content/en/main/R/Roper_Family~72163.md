@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Roper family"
 ---
 
-Redirect to [Roper family](/wiki/Roper_family).
+Redirect to [Roper family](Roper_family.md).

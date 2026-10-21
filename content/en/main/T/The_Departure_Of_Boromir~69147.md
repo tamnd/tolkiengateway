@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Departure Of Boromir (soundtrack)"
 ---
 
-Redirect to [The Departure Of Boromir (soundtrack)](/wiki/The_Departure_Of_Boromir_(soundtrack)).
+Redirect to [The Departure Of Boromir (soundtrack)](<The_Departure_Of_Boromir_(soundtrack).md>).

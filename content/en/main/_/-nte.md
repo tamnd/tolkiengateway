@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ntë"
 ---
 
-Redirect to [-ntë](/wiki/-ntë).
+Redirect to [-ntë](-ntë.md).

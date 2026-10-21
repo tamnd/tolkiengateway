@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Crown"
 ---
 
-Redirect to [Iron Crown](/wiki/Iron_Crown).
+Redirect to [Iron Crown](../I/Iron_Crown.md).

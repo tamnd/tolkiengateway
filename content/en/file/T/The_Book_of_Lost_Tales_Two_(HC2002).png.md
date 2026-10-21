@@ -1,6 +1,5 @@
 ---
 title: "File:The Book of Lost Tales Two (HC2002).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Book of Lost Tales Two (HC2002).png</span>"
 page_id: 62399
 namespace: 6
 revision_id: 352482

@@ -1,6 +1,5 @@
 ---
 title: "St Petersburg Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">St Petersburg Tolkien Society</span>"
 page_id: 70970
 namespace: 0
 revision_id: 423789
@@ -16,21 +15,21 @@ images:
   - "St_Petersburg_Tolkien_Society_logo.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:St_Petersburg_Tolkien_Society_logo.png"><img src="/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/300px-St_Petersburg_Tolkien_Society_logo.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/450px-St_Petersburg_Tolkien_Society_logo.png 1.5x, /w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/600px-St_Petersburg_Tolkien_Society_logo.png 2x" data-file-width="837" data-file-height="836"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/St_Petersburg_Tolkien_Society_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/300px-St_Petersburg_Tolkien_Society_logo.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/450px-St_Petersburg_Tolkien_Society_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/St_Petersburg_Tolkien_Society_logo.png/600px-St_Petersburg_Tolkien_Society_logo.png 2x" data-file-width="837" data-file-height="836"/></a><figcaption></figcaption></figure>
 
-The **St Petersburg Tolkien Society** (Russian: "Толкиновское Общество Санкт-Петербурга") is a [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") based in <a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Russia</a>.
+The **St Petersburg Tolkien Society** (Russian: "Толкиновское Общество Санкт-Петербурга") is a [Tolkien Society](../T/Tolkien_Societies~67099.md) based in <a class="extiw" href="http://en.wikipedia.org/wiki/Russia" title="wikipedia:Russia">Russia</a>.
 
 ## History {#History}
 
-The St Petersburg Tolkien Society, the first such Society in Russia, was founded by the authors of the most full and authentic translation of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, Maria Kamenkovich and Valery Karrick, following the model of existing Western Societies.
+The St Petersburg Tolkien Society, the first such Society in Russia, was founded by the authors of the most full and authentic translation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Maria Kamenkovich and Valery Karrick, following the model of existing Western Societies.
 
-The Society traces its history from the autumn of [1994](/wiki/1994), when it was started by group of enthusiasts taking part in *The Hobbit Club*, a show broadcast by St.-Petersburgh Radio. From the very beginning the Society's mission was to bring together [Tolkien fans](/wiki/Fandom "Fandom") and [scholars](/wiki/Tolkien_studies "Tolkien studies").
+The Society traces its history from the autumn of [1994](../_/1994.md), when it was started by group of enthusiasts taking part in *The Hobbit Club*, a show broadcast by St.-Petersburgh Radio. From the very beginning the Society's mission was to bring together [Tolkien fans](../F/Fandom.md) and [scholars](../T/Tolkien_studies.md).
 
-The first result of the Society's activity was the First Great Tolkien Seminar held in April [1995](/wiki/1995). As the Society developed, it became more and more scholarly in character, and the Seminars have become a good tradition. Tolkien fans from Russia and its neighbouring post-USSR countries get together to read and discuss their works, and to present and discuss new publications and other Tolkien-related media. They collect and review scholarly theses submitted to Russian Universities.
+The first result of the Society's activity was the First Great Tolkien Seminar held in April [1995](../_/1995.md). As the Society developed, it became more and more scholarly in character, and the Seminars have become a good tradition. Tolkien fans from Russia and its neighbouring post-USSR countries get together to read and discuss their works, and to present and discuss new publications and other Tolkien-related media. They collect and review scholarly theses submitted to Russian Universities.
 
 ## Publications {#Publications}
 
-One of the key projects the Society is involved in is the publication of Tolkien journals. In [1995](/wiki/1995)-[1996](/wiki/1996), it produced a magazine called *The Prancing Pony* (Russian: "Гарцующий Пони"). In [1997](/wiki/1997) the Society started issuing *[The Palantír Journal](/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%80 "Палантир")* (Russian: "Журнал 'Палантир'"), where the true connoisseurs of Tolkien's works could find unique articles and translations of works generally unknown to the Russian audience. Most of the journal's issues are on paper, but there is also an electronic version available from the Society's website.
+One of the key projects the Society is involved in is the publication of Tolkien journals. In [1995](../_/1995.md)-[1996](../_/1996.md), it produced a magazine called *The Prancing Pony* (Russian: "Гарцующий Пони"). In [1997](../_/1997.md) the Society started issuing *[The Palantír Journal](../_/Палантир.md)* (Russian: "Журнал 'Палантир'"), where the true connoisseurs of Tolkien's works could find unique articles and translations of works generally unknown to the Russian audience. Most of the journal's issues are on paper, but there is also an electronic version available from the Society's website.
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Penadar"
 ---
 
-Redirect to [Penadar](/wiki/Penadar).
+Redirect to [Penadar](../P/Penadar.md).

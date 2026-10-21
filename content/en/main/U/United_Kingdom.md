@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:United Kingdom"
 ---
 
-Redirect to [Category:United Kingdom](/wiki/Category:United_Kingdom).
+Redirect to [Category:United Kingdom](../../category/U/United_Kingdom.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Gimli - Middle-earth peoples.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gimli - Middle-earth peoples.png</span>"
 page_id: 12194
 namespace: 6
 revision_id: 270804
@@ -26,14 +25,14 @@ file:
 
 ## Summary {#Summary}
 
-- light blue= men of [Númenórean](/wiki/N%C3%BAmen%C3%B3reans "Númenóreans") descent
-- mid blue = [Northmen](/wiki/Northmen)
-- dark blue = Other [men](/wiki/Men "Men")
-- light green = [elves](/wiki/Elves "Elves")
-- dark green = [ents](/wiki/Ents "Ents")
-- magenta = [hobbits](/wiki/Hobbits "Hobbits")
-- yellow = [dwarves](/wiki/Dwarves "Dwarves")
-- red = enslaved peoples ([orcs](/wiki/Orcs "Orcs"), [trolls](/wiki/Trolls "Trolls"), [dragons](/wiki/Dragons "Dragons") etc.)
+- light blue= men of [Númenórean](../../main/N/Númenóreans.md) descent
+- mid blue = [Northmen](../../main/N/Northmen.md)
+- dark blue = Other [men](../../main/M/Men.md)
+- light green = [elves](../../main/E/Elves.md)
+- dark green = [ents](../../main/E/Ents.md)
+- magenta = [hobbits](../../main/H/Hobbits.md)
+- yellow = [dwarves](../../main/D/Dwarves.md)
+- red = enslaved peoples ([orcs](../../main/O/Orcs.md), [trolls](../../main/T/Trolls.md), [dragons](../../main/D/Dragons.md) etc.)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Konstantin Zahariev"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Konstantin Zahariev</span>"
 page_id: 59426
 namespace: 14
 revision_id: 330588

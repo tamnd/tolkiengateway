@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Joona Kujanen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Joona Kujanen</span>"
 page_id: 41488
 namespace: 14
 revision_id: 210862

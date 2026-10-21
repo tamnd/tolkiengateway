@@ -1,6 +1,5 @@
 ---
 title: "Prunella Scales"
-display_title: "<span class=\"mw-page-title-main\">Prunella Scales</span>"
 page_id: 22378
 namespace: 0
 revision_id: 221885
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Scales, Prunella"
 ---
 
-**Prunella Margaret Rumney Illingworth**, CBE (born [June 22](/wiki/22_June "22 June"), [1932](/wiki/1932)) is an English actress, best known for the role of <a class="extiw" href="http://en.wikipedia.org/wiki/Sybil_Fawlty" title="wikipedia:Sybil Fawlty">Sybil Fawlty</a> in *Fawlty Towers*, and she also served as storyteller for *[Jackanory](/wiki/Jackanory)*. In [1956](/wiki/1956), she played [Ioreth](/wiki/Ioreth) in [*The Lord of the Rings* (1955 radio series)](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)").
+**Prunella Margaret Rumney Illingworth**, CBE (born [June 22](../_/22_June.md), [1932](../_/1932.md)) is an English actress, best known for the role of <a class="extiw" href="http://en.wikipedia.org/wiki/Sybil_Fawlty" title="wikipedia:Sybil Fawlty">Sybil Fawlty</a> in *Fawlty Towers*, and she also served as storyteller for *[Jackanory](../J/Jackanory.md)*. In [1956](../_/1956.md), she played [Ioreth](../I/Ioreth.md) in [*The Lord of the Rings* (1955 radio series)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
 
 ## External links {#External_links}
 

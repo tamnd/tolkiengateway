@@ -13,22 +13,22 @@ categories:
   - "Telerin nouns"
 ---
 
-**spanga** in [Telerin](/wiki/Telerin) means "beard".
+**spanga** in [Telerin](../T/Telerin.md) means "beard".
 
 ## Etymology {#Etymology}
 
-[Primitive Elvish](/wiki/Primitive_Elvish) form <i><a class="new" href="/w/index.php?title=Spang%C3%A2&amp;action=edit&amp;redlink=1" title="Spangâ (page does not exist)">spangâ</a></i>, derived from <a class="new" href="/w/index.php?title=SP%C3%81NAG&amp;action=edit&amp;redlink=1" title="SPÁNAG (page does not exist)">SPÁNAG</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Primitive Elvish](../P/Primitive_Elvish.md) form <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Spang%C3%A2&amp;action=edit&amp;redlink=1" title="Spangâ (page does not exist)">spangâ</a></i>, derived from <a class="new" href="https://tolkiengateway.net/w/index.php?title=SP%C3%81NAG&amp;action=edit&amp;redlink=1" title="SPÁNAG (page does not exist)">SPÁNAG</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[fanga](/wiki/Fanga "Fanga")*
-- [Sindarin](/wiki/Sindarin) *[fang](/wiki/Fang "Fang")*
+- [Quenya](../Q/Quenya.md) *[fanga](../F/Fanga.md)*
+- [Sindarin](Sindarin.md) *[fang](../F/Fang.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="/wiki/The_Etymologies" title="The Etymologies">Etymologies</a> p.387</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="../T/The_Etymologies.md" title="The Etymologies">Etymologies</a> p.387</span>
 </li>
 </ol></div>

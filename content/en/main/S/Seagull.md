@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gulls"
 ---
 
-Redirect to [Gulls](/wiki/Gulls).
+Redirect to [Gulls](../G/Gulls.md).

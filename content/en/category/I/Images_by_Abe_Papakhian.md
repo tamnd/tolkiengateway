@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Abe Papakhian"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Abe Papakhian</span>"
 page_id: 8209
 namespace: 14
 revision_id: 181917
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Papakhian, Abe"
 ---
 
-This category lists all **images by Abe Papakhian** ([User:Roninsnap](/wiki/Special:Contributions/Roninsnap "Special:Contributions/Roninsnap") on [Tolkien Gateway](/wiki/Tolkien_Gateway)).
+This category lists all **images by Abe Papakhian** ([User:Roninsnap](https://tolkiengateway.net/wiki/Special:Contributions/Roninsnap) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)).

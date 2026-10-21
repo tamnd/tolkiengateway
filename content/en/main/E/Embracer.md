@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Embracer Group"
 ---
 
-Redirect to [Embracer Group](/wiki/Embracer_Group).
+Redirect to [Embracer Group](Embracer_Group.md).

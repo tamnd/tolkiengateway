@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Steve Otis"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Steve Otis</span>"
 page_id: 30009
 namespace: 14
 revision_id: 182179

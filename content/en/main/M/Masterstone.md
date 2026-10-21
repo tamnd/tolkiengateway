@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master-stone"
 ---
 
-Redirect to [Master-stone](/wiki/Master-stone).
+Redirect to [Master-stone](Master-stone.md).

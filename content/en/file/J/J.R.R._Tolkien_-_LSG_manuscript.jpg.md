@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - LSG manuscript.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - LSG manuscript.jpg</span>"
 page_id: 31102
 namespace: 6
 revision_id: 365165
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Excerpt from a picture reproduced in the frontispiec in *[The Legend of Sigurd and Gudrún](/wiki/The_Legend_of_Sigurd_and_Gudr%C3%BAn)* hardback and deluxe editions, showing the original manuscript of the New Lay of Gudrún.
+Excerpt from a picture reproduced in the frontispiec in *[The Legend of Sigurd and Gudrún](../../main/T/The_Legend_of_Sigurd_and_Gudrún.md)* hardback and deluxe editions, showing the original manuscript of the New Lay of Gudrún.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Barrow-wight Lord.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Barrow-wight Lord.png</span>"
 page_id: 71425
 namespace: 6
 revision_id: 426053
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="new" href="/w/index.php?title=Barrow-wight_Lord&amp;action=edit&amp;redlink=1" title="Barrow-wight Lord (page does not exist)">Barrow-Wight Lord</a> - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrow-wight_Lord&amp;action=edit&amp;redlink=1" title="Barrow-wight Lord (page does not exist)">Barrow-Wight Lord</a> - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

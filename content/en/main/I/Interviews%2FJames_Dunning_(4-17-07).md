@@ -1,6 +1,5 @@
 ---
 title: "Interviews/James Dunning (4-17-07)"
-display_title: "<span class=\"mw-page-title-main\">Interviews/James Dunning (4-17-07)</span>"
 page_id: 16198
 namespace: 0
 revision_id: 59836
@@ -13,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd>The below article is of a chat session with <a href="/wiki/James_Dunning" title="James Dunning">James Dunning</a> on April 17th, <a href="/wiki/2007" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
+<dl><dd>The below article is of a chat session with <a href="../J/James_Dunning.md" title="James Dunning">James Dunning</a> on April 17th, <a href="../_/2007.md" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
 
 <br>
 

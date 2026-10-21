@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tincotéma"
 ---
 
-Redirect to [Tincotéma](/wiki/Tincotéma).
+Redirect to [Tincotéma](Tincotéma.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hornburg"
 ---
 
-Redirect to [Hornburg](/wiki/Hornburg).
+Redirect to [Hornburg](../H/Hornburg.md).

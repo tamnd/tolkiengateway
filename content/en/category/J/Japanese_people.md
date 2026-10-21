@@ -1,6 +1,5 @@
 ---
 title: "Category:Japanese people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Japanese people</span>"
 page_id: 27833
 namespace: 14
 revision_id: 166068

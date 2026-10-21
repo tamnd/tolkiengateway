@@ -1,6 +1,5 @@
 ---
 title: "Stephen Raw"
-display_title: "<span class=\"mw-page-title-main\">Stephen Raw</span>"
 page_id: 27300
 namespace: 0
 revision_id: 435209
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Raw, Stephen"
 ---
 
-**Stephen Raw** (born [1952](/wiki/1952)) is a British artist who drew the seven maps for the revised version of *The Lord of the Rings* published in [1994](/wiki/1994), and used in all subsequent English editions. Raw was commissioned by the publishers [HarperCollins](/wiki/HarperCollins) and worked under the tutelage of [Christopher Tolkien](/wiki/Christopher_Tolkien) (who had drawn the originals for his father, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)).
+**Stephen Raw** (born [1952](../_/1952.md)) is a British artist who drew the seven maps for the revised version of *The Lord of the Rings* published in [1994](../_/1994.md), and used in all subsequent English editions. Raw was commissioned by the publishers [HarperCollins](../H/HarperCollins.md) and worked under the tutelage of [Christopher Tolkien](../C/Christopher_Tolkien.md) (who had drawn the originals for his father, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)).
 
 Christopher Tolkien wrote "A Note on the Maps" (page 1140 of the one-volume edition) in which he gave an explanation of the background to the maps.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Raw kept an extensive archive of letters and faxes from Christopher from the time they worked on the maps for *The Lord of the Rings*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Images by Stephen Raw](/wiki/Category:Images_by_Stephen_Raw "Category:Images by Stephen Raw")
+- [Images by Stephen Raw](../../category/I/Images_by_Stephen_Raw.md)
 
 ## External links {#External_links}
 

@@ -19,41 +19,41 @@ sort_keys:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><a href="/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of the Five Armies - Original Soundtrack</a>
+<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md" title="The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack">The Battle of the Five Armies - Original Soundtrack</a>
 </th></tr>
 <tr>
 <td>
 <ol><li><a class="mw-selflink selflink">Fire and Water</a></li>
-<li><a href="/wiki/Shores_of_the_Long_Lake" title="Shores of the Long Lake">Shores of the Long Lake</a></li>
-<li><a href="/wiki/Beyond_Sorrow_and_Grief" title="Beyond Sorrow and Grief">Beyond Sorrow and Grief</a></li>
-<li><a href="/wiki/Guardians_of_the_Three" title="Guardians of the Three">Guardians of the Three</a></li>
-<li><a href="/wiki/The_Ruins_of_Dale" title="The Ruins of Dale">The Ruins of Dale</a></li>
-<li><a href="/wiki/The_Gathering_of_the_Clouds_(soundtrack)" title="The Gathering of the Clouds (soundtrack)">The Gathering of the Clouds</a></li>
-<li><a href="/wiki/Mithril_(soundtrack)" title="Mithril (soundtrack)">Mithril</a></li>
-<li><a href="/wiki/Bred_for_War" title="Bred for War">Bred for War</a></li>
-<li><a href="/wiki/A_Thief_in_the_Night_(soundtrack)" title="A Thief in the Night (soundtrack)">A Thief in the Night</a></li>
-<li><a href="/wiki/The_Clouds_Burst_(soundtrack)" title="The Clouds Burst (soundtrack)">The Clouds Burst</a></li>
-<li><a href="/wiki/Battle_for_the_Mountain" title="Battle for the Mountain">Battle for the Mountain</a></li>
-<li><a href="/wiki/The_Darkest_Hour" title="The Darkest Hour">The Darkest Hour</a></li>
-<li><a href="/wiki/Sons_of_Durin" title="Sons of Durin">Sons of Durin</a></li>
-<li><a href="/wiki/The_Fallen" title="The Fallen">The Fallen</a></li>
-<li><a href="/wiki/Ravenhill_(soundtrack)" title="Ravenhill (soundtrack)">Ravenhill</a></li>
-<li><a href="/wiki/To_the_Death" title="To the Death">To the Death</a></li>
-<li><a href="/wiki/Courage_and_Wisdom" title="Courage and Wisdom">Courage and Wisdom</a></li>
-<li><a href="/wiki/The_Return_Journey_(soundtrack)" title="The Return Journey (soundtrack)">The Return Journey</a></li>
-<li><a href="/wiki/There_and_Back_Again_(soundtrack)" title="There and Back Again (soundtrack)">There and Back Again</a></li>
-<li><a href="/wiki/The_Last_Goodbye" title="The Last Goodbye">The Last Goodbye</a></li>
-<li><a href="/wiki/Ironfoot_(soundtrack)" title="Ironfoot (soundtrack)">Ironfoot</a></li></ol>
+<li><a href="../S/Shores_of_the_Long_Lake.md" title="Shores of the Long Lake">Shores of the Long Lake</a></li>
+<li><a href="../B/Beyond_Sorrow_and_Grief.md" title="Beyond Sorrow and Grief">Beyond Sorrow and Grief</a></li>
+<li><a href="../G/Guardians_of_the_Three.md" title="Guardians of the Three">Guardians of the Three</a></li>
+<li><a href="../T/The_Ruins_of_Dale.md" title="The Ruins of Dale">The Ruins of Dale</a></li>
+<li><a href="../T/The_Gathering_of_the_Clouds_(soundtrack).md" title="The Gathering of the Clouds (soundtrack)">The Gathering of the Clouds</a></li>
+<li><a href="../M/Mithril_(soundtrack).md" title="Mithril (soundtrack)">Mithril</a></li>
+<li><a href="../B/Bred_for_War.md" title="Bred for War">Bred for War</a></li>
+<li><a href="../A/A_Thief_in_the_Night_(soundtrack).md" title="A Thief in the Night (soundtrack)">A Thief in the Night</a></li>
+<li><a href="../T/The_Clouds_Burst_(soundtrack).md" title="The Clouds Burst (soundtrack)">The Clouds Burst</a></li>
+<li><a href="../B/Battle_for_the_Mountain.md" title="Battle for the Mountain">Battle for the Mountain</a></li>
+<li><a href="../T/The_Darkest_Hour.md" title="The Darkest Hour">The Darkest Hour</a></li>
+<li><a href="../S/Sons_of_Durin.md" title="Sons of Durin">Sons of Durin</a></li>
+<li><a href="../T/The_Fallen.md" title="The Fallen">The Fallen</a></li>
+<li><a href="../R/Ravenhill_(soundtrack).md" title="Ravenhill (soundtrack)">Ravenhill</a></li>
+<li><a href="../T/To_the_Death.md" title="To the Death">To the Death</a></li>
+<li><a href="../C/Courage_and_Wisdom.md" title="Courage and Wisdom">Courage and Wisdom</a></li>
+<li><a href="../T/The_Return_Journey_(soundtrack).md" title="The Return Journey (soundtrack)">The Return Journey</a></li>
+<li><a href="../T/There_and_Back_Again_(soundtrack).md" title="There and Back Again (soundtrack)">There and Back Again</a></li>
+<li><a href="../T/The_Last_Goodbye.md" title="The Last Goodbye">The Last Goodbye</a></li>
+<li><a href="../I/Ironfoot_(soundtrack).md" title="Ironfoot (soundtrack)">Ironfoot</a></li></ol>
 </td></tr></tbody></table>
 
-**Fire and Water** is the first track of disc one of *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack)* and [special edition soundtrack](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition "The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition"), by [Howard Shore](/wiki/Howard_Shore).
+**Fire and Water** is the first track of disc one of *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md)* and [special edition soundtrack](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), by [Howard Shore](../H/Howard_Shore.md).
 
 ## See also {#See_also}
 
 - Soundtracks:
-    - *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack)*
-    - *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition)*
-- [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)"):
-    - *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*
-    - *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*
-    - *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)*
+    - *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md)*
+    - *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*
+- [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>):
+    - *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*
+    - *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
+    - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*

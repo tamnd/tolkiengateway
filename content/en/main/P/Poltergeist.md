@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghosts"
 ---
 
-Redirect to [Ghosts](/wiki/Ghosts).
+Redirect to [Ghosts](../G/Ghosts.md).

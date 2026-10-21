@@ -1,6 +1,5 @@
 ---
 title: "Category:MUSH"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MUSH</span>"
 page_id: 21768
 namespace: 14
 revision_id: 370478
@@ -13,4 +12,4 @@ categories:
   - "Video games by genre"
 ---
 
-This category lists all <b><a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">MUSHes</a></b> related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all <b><a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">MUSHes</a></b> related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

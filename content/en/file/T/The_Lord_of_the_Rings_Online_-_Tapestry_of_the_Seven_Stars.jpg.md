@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Tapestry of the Seven Stars.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Tapestry of the Seven Stars.jpg</span>"
 page_id: 74001
 namespace: 6
 revision_id: 436709
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings Online - Tapestry of the Seven Stars.jpg</span></th>
 <td class="description">
-<p>&#34;A tapestry of <a href="/wiki/Gondor" title="Gondor">Gondorian</a> make depicting <a href="/wiki/Seven_Stars" title="Seven Stars">the Seven Stars</a> of <a href="/wiki/Gondor" title="Gondor">Gondor</a>.&#34; from <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>&#34;A tapestry of <a href="../../main/G/Gondor.md" title="Gondor">Gondorian</a> make depicting <a href="../../main/S/Seven_Stars.md" title="Seven Stars">the Seven Stars</a> of <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a>.&#34; from <i><a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://lotro-wiki.com/wiki/File:Tapestry_of_the_Seven_Stars.jpg" rel="noreferrer noopener" target="_blank">https://lotro-wiki.com/wiki/File:Tapestry_of_the_Seven_Stars.jpg</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

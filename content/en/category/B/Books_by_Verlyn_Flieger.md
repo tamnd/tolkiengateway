@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Verlyn Flieger"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Verlyn Flieger</span>"
 page_id: 26375
 namespace: 14
 revision_id: 364393
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Flieger, Verlyn"
 ---
 
-<dl><dd><i>Books written or edited by <a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a>.</i></dd></dl>
+<dl><dd><i>Books written or edited by <a href="../../main/V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>.</i></dd></dl>

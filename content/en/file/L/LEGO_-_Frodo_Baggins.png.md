@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Frodo Baggins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Frodo Baggins.png</span>"
 page_id: 73075
 namespace: 6
 revision_id: 432614
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo Baggins](/wiki/Frodo_Baggins) - [LEGO](/wiki/Lego "Lego") minifigure (if anybody finds an official promo picture of the Rivendell frodo minifig with this head, (not the reverse one) please feel free to upload over this)
+[Frodo Baggins](../../main/F/Frodo_Baggins.md) - [LEGO](../../main/L/Lego.md) minifigure (if anybody finds an official promo picture of the Rivendell frodo minifig with this head, (not the reverse one) please feel free to upload over this)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Nargothrond (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Nargothrond (II).jpg</span>"
 page_id: 5773
 namespace: 6
 revision_id: 312872
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and was done at Lyme Regis in Dorset in 1928. The entrance to [Nargothrond](/wiki/Nargothrond) is shown as it was before the great bridge of [Túrin](/wiki/T%C3%BArin) was built over the River [Narog](/wiki/Narog) ([The Silmarillion](/wiki/The_Silmarillion) Chapter 21, Of [Túrin Turambar](/wiki/T%C3%BArin "Túrin")).
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and was done at Lyme Regis in Dorset in 1928. The entrance to [Nargothrond](../../main/N/Nargothrond.md) is shown as it was before the great bridge of [Túrin](../../main/T/Túrin.md) was built over the River [Narog](../../main/N/Narog.md) ([The Silmarillion](../../main/T/The_Silmarillion.md) Chapter 21, Of [Túrin Turambar](../../main/T/Túrin.md)).
 
 ## Licensing {#Licensing}
 

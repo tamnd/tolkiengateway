@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shelob"
 ---
 
-Redirect to [Shelob](/wiki/Shelob).
+Redirect to [Shelob](../S/Shelob.md).

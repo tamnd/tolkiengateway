@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Misses E. Jones and J. Taylor"
 ---
 
-Redirect to [Letter to Misses E. Jones and J. Taylor](/wiki/Letter_to_Misses_E._Jones_and_J._Taylor).
+Redirect to [Letter to Misses E. Jones and J. Taylor](../L/Letter_to_Misses_E._Jones_and_J._Taylor.md).

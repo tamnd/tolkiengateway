@@ -1,6 +1,5 @@
 ---
 title: "File:Aerankai - Telerin Elf Maiden.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aerankai - Telerin Elf Maiden.jpg</span>"
 page_id: 74380
 namespace: 6
 revision_id: 438078
@@ -31,21 +30,17 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Aerankai - Telerin Elf Maiden.jpg</span></th>
 <td class="description">
-<blockquote><p>The <a href="/wiki/Teleri" title="Teleri">Teleri</a>, singers of the shores.<br/>From <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="/wiki/Legendarium" title="Legendarium">legendarium</a></p></blockquote>
+<blockquote><p>The <a href="../../main/T/Teleri.md" title="Teleri">Teleri</a>, singers of the shores.<br/>From <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a></p></blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Aerankai" title="Category:Images by Aerankai">Aerankai</a></td>
+<td><a href="../../category/I/Images_by_Aerankai.md" title="Category:Images by Aerankai">Aerankai</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20150920015349/http://aerankai.deviantart.com/art/Telerin-Elf-Maiden-425605000" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20150920015349/http://aerankai.deviantart.com/art/Telerin-Elf-Maiden-425605000</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Aerankai</span></span>
@@ -53,4 +48,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Aerankai</li>
 <li><b>Website:</b> <a class="external free" href="https://web.archive.org/web/20160606154027/http://aerankai.deviantart.com/" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20160606154027/http://aerankai.deviantart.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Aerankai" title="Tolkien Gateway:Copyrights/Aerankai">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAerankai.md" title="Tolkien Gateway:Copyrights/Aerankai">Permission for use on Tolkien Gateway</a></b></li></ul></div>

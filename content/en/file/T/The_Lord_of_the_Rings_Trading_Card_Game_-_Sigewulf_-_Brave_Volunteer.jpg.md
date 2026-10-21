@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Sigewulf - Brave Volunteer.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Sigewulf - Brave Volunteer.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Sigewulf_-_Brave_Volunteer.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Sigewulf - Brave Volunteer.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Sigewulf_-_Brave_Volunteer.jpg.md).

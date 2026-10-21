@@ -1,6 +1,5 @@
 ---
 title: "File:Gallen Kallela Kullervos Curse.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gallen Kallela Kullervos Curse.jpg</span>"
 page_id: 16162
 namespace: 6
 revision_id: 252066

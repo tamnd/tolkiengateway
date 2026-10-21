@@ -1,6 +1,5 @@
 ---
 title: "Category:Role playing games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Role playing games</span>"
 page_id: 21759
 namespace: 14
 revision_id: 416670
@@ -13,4 +12,4 @@ categories:
   - "Games"
 ---
 
-This category and its subcategories list all tabletop **role playing games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works. See [Category:Role-playing video games](/wiki/Category:Role-playing_video_games) for all digital RPGs.
+This category and its subcategories list all tabletop **role playing games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works. See [Category:Role-playing video games](Role-playing_video_games.md) for all digital RPGs.

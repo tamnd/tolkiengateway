@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Turl Street, Oxford.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Turl Street, Oxford.jpeg</span>"
 page_id: 71906
 namespace: 6
 revision_id: 428261
@@ -26,14 +25,14 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) painted "Turl Street, Oxford" in [1913](/wiki/1913) at <a class="new" href="/w/index.php?title=Exeter_College&amp;action=edit&amp;redlink=1" title="Exeter College (page does not exist)">Exeter College</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The black ink penciled painting was published posthumously as figure 19 on page 24 of *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) painted "Turl Street, Oxford" in [1913](../../main/_/1913.md) at <a class="new" href="https://tolkiengateway.net/w/index.php?title=Exeter_College&amp;action=edit&amp;redlink=1" title="Exeter College (page does not exist)">Exeter College</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The black ink penciled painting was published posthumously as figure 19 on page 24 of *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/real-life/" rel="noreferrer noopener" target="_blank">&#34;Real life&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 21 November 2025</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/72-jpg-scaled.jpg" rel="noreferrer noopener" target="_blank">This is the view from Exeter College where Tolkien was an undergraduate. He lived in the College on Turl Street for three years when he was a student.</a>&#34;)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/real-life/" rel="noreferrer noopener" target="_blank">&#34;Real life&#34;</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 21 November 2025</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/72-jpg-scaled.jpg" rel="noreferrer noopener" target="_blank">This is the view from Exeter College where Tolkien was an undergraduate. He lived in the College on Turl Street for three years when he was a student.</a>&#34;)</span>
 </li>
 </ol></div>
 

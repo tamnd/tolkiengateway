@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ONO"
 ---
 
-Redirect to [ONO](/wiki/ONO).
+Redirect to [ONO](ONO.md).

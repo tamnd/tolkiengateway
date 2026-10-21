@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúnë"
 ---
 
-Redirect to [Andúnë](/wiki/Andúnë).
+Redirect to [Andúnë](Andúnë.md).

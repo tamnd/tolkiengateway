@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jerry VanderStelt"
 ---
 
-Redirect to [Jerry VanderStelt](/wiki/Jerry_VanderStelt).
+Redirect to [Jerry VanderStelt](../J/Jerry_VanderStelt.md).

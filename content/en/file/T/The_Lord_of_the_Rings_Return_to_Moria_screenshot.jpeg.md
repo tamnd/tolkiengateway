@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Return to Moria screenshot.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Return to Moria screenshot.jpeg</span>"
 page_id: 63701
 namespace: 6
 revision_id: 362958
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of the game [The Lord of the Rings: Return to Moria](/wiki/The_Lord_of_the_Rings:_Return_to_Moria).
+A screenshot of the game [The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
 
 ## Licensing {#Licensing}
 

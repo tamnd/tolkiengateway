@@ -1,6 +1,5 @@
 ---
 title: "File:Item-Southern Star Pipe-weed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Item-Southern Star Pipe-weed.jpg</span>"
 page_id: 24011
 namespace: 6
 revision_id: 174058

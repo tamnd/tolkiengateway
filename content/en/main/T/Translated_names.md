@@ -1,6 +1,5 @@
 ---
 title: "Translated names"
-display_title: "<span class=\"mw-page-title-main\">Translated names</span>"
 page_id: 18768
 namespace: 0
 revision_id: 408981
@@ -16,18 +15,16 @@ sort_keys:
   "Translators": " "
 ---
 
-According to the Index Translationum,<sup><a class="external autonumber" href="http://databases.unesco.org/xtrans/stat/xTransStat.a?HL1=-&amp;HL2=-&amp;VL1=L&amp;top=&amp;VL2=-&amp;lg=0&amp;nTyp=HTMLS&amp;a=TOLKIEN+JOHN+RONALD+REUEL&amp;stxt_1=&amp;stxt_2=&amp;stxt_3=&amp;sl=&amp;l=&amp;c=&amp;pla=&amp;pub=&amp;tr=&amp;e=&amp;udc=&amp;d=&amp;from=&amp;to=" rel="noreferrer noopener" target="_blank">[1]</a></sup> [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works have been **translated** into at least 45 languages. Because it is not quite feasible to list all, this article attempts to provide a resource for those who have not read Tolkien's work in English, or for those who are simply curious what tricks the [translators](/wiki/Category:Translators "Category:Translators") used to translate some of Tolkien's intricate personal and place names.
+According to the Index Translationum,<sup><a class="external autonumber" href="http://databases.unesco.org/xtrans/stat/xTransStat.a?HL1=-&amp;HL2=-&amp;VL1=L&amp;top=&amp;VL2=-&amp;lg=0&amp;nTyp=HTMLS&amp;a=TOLKIEN+JOHN+RONALD+REUEL&amp;stxt_1=&amp;stxt_2=&amp;stxt_3=&amp;sl=&amp;l=&amp;c=&amp;pla=&amp;pub=&amp;tr=&amp;e=&amp;udc=&amp;d=&amp;from=&amp;to=" rel="noreferrer noopener" target="_blank">[1]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works have been **translated** into at least 45 languages. Because it is not quite feasible to list all, this article attempts to provide a resource for those who have not read Tolkien's work in English, or for those who are simply curious what tricks the [translators](../../category/T/Translators.md) used to translate some of Tolkien's intricate personal and place names.
 
-Do you think a certain language needs to be included? Make it known at the article's [talk page](/wiki/Talk:Translated_names "Talk:Translated names").
+Do you think a certain language needs to be included? Make it known at the article's [talk page](https://tolkiengateway.net/wiki/Talk:Translated_names).
 
 <center>
-<!-- -->
 </center>
 
 ## A {#A}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -44,7 +41,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Ages_of_the_Children_of_Il%C3%BAvatar" title="Ages of the Children of Ilúvatar">Age</a>
+<td><a class="mw-redirect" href="../A/Ages_of_the_Children_of_Ilúvatar.md" title="Ages of the Children of Ilúvatar">Age</a>
 </td>
 <td>Era
 </td>
@@ -59,7 +56,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Aika
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Arkenstone" title="Arkenstone">Arkenstone</a>
+<td><a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a>
 </td>
 <td>Arkensteen
 </td>
@@ -77,7 +74,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## B {#B}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -94,7 +90,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bag_End" title="Bag End">Bag End</a>
+<td><a href="../B/Bag_End.md" title="Bag End">Bag End</a>
 </td>
 <td>Balingshoek
 </td>
@@ -109,7 +105,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Repunpää
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Baggins_Family" title="Baggins Family">Baggins</a>
+<td><a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>
 </td>
 <td>Balings
 </td>
@@ -124,7 +120,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Reppuli
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Barliman_Butterbur" title="Barliman Butterbur">Barliman Butterbur</a>
+<td><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a>
 </td>
 <td>Gersteman Boterbast/Boterbloem (revised edition)
 </td>
@@ -139,7 +135,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Viljami Voivalvatti
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Battle_of_Five_Armies" title="Battle of Five Armies">Battle of Five Armies</a>
+<td><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a>
 </td>
 <td>Slag van Vijf Legers
 </td>
@@ -154,7 +150,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Viiden armeijan taistelu
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Battle_of_Greenfields" title="Battle of Greenfields">Battle of Greenfields</a>
+<td><a href="../B/Battle_of_Greenfields.md" title="Battle of Greenfields">Battle of Greenfields</a>
 </td>
 <td>Slag van Groeneveld
 </td>
@@ -169,7 +165,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Viherkenttien taistelu
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Nirnaeth_Arnoediad" title="Nirnaeth Arnoediad">Battle of Unnumbered Tears</a>
+<td><a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Battle of Unnumbered Tears</a>
 </td>
 <td>Slag van Ongetelde Tranen
 </td>
@@ -184,7 +180,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Lukemattomien Kyynelten Taistelu
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bindbole_Wood" title="Bindbole Wood">Bindbale Wood</a>
+<td><a href="../B/Bindbole_Wood.md" title="Bindbole Wood">Bindbale Wood</a>
 </td>
 <td>Pakkebaal Bos
 </td>
@@ -199,7 +195,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Palokorpi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Brandy_Hall" title="Brandy Hall">Brandy Hall</a>
+<td><a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a>
 </td>
 <td>Brandeburcht
 </td>
@@ -214,7 +210,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Rankkihovi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Brandywine" title="Brandywine">Brandywine</a>
+<td><a class="mw-redirect" href="../B/Brandywine.md" title="Brandywine">Brandywine</a>
 </td>
 <td>Brandewijn
 </td>
@@ -229,7 +225,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Rankkivuo
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bree" title="Bree">Bree</a>
+<td><a href="../B/Bree.md" title="Bree">Bree</a>
 </td>
 <td>Breeg
 </td>
@@ -244,7 +240,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Brii
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bridgefields" title="Bridgefields">Bridgefields</a>
+<td><a href="../B/Bridgefields.md" title="Bridgefields">Bridgefields</a>
 </td>
 <td>Brugkamp
 </td>
@@ -259,7 +255,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sillanaho
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Brockenborings" title="Brockenborings">Brockenborings</a>
+<td><a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a>
 </td>
 <td>Brockenschacht
 </td>
@@ -274,7 +270,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Purumurjula
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Buckland" title="Buckland">Buckland</a>
+<td><a href="../B/Buckland.md" title="Buckland">Buckland</a>
 </td>
 <td>Bokland
 </td>
@@ -289,7 +285,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Bukinmaa
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bandobras_Took" title="Bandobras Took">Bullroarer</a>
+<td><a href="../B/Bandobras_Took.md" title="Bandobras Took">Bullroarer</a>
 </td>
 <td>Bullebas
 </td>
@@ -304,7 +300,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Härkäräikkä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Bywater" title="Bywater">Bywater</a>
+<td><a href="../B/Bywater.md" title="Bywater">Bywater</a>
 </td>
 <td>Bijwater
 </td>
@@ -322,7 +318,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## C {#C}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -339,7 +334,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Chubb_Family" title="Chubb Family">Chubb</a>
+<td><a class="mw-redirect" href="../C/Chubb_Family~66359.md" title="Chubb Family">Chubb</a>
 </td>
 <td>Meun
 </td>
@@ -354,7 +349,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pönkeli
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Cold-drake" title="Cold-drake">cold-drake</a>
+<td><a class="mw-redirect" href="../C/Cold-drake.md" title="Cold-drake">cold-drake</a>
 </td>
 <td>koud-draak
 </td>
@@ -369,7 +364,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Hyykäärmeet
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Crickhollow" title="Crickhollow">Crickhollow</a>
+<td><a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a>
 </td>
 <td>Krikhol
 </td>
@@ -387,7 +382,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## D {#D}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -404,7 +398,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Dale" title="Dale">Dale</a>
+<td><a href="../D/Dale.md" title="Dale">Dale</a>
 </td>
 <td>Dal
 </td>
@@ -419,7 +413,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Laakso
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Dragon-helm_of_Dor-l%C3%B3min" title="Dragon-helm of Dor-lómin">Dragon-helm of Dor-lómin</a>
+<td><a href="../D/Dragon-helm_of_Dor-lómin.md" title="Dragon-helm of Dor-lómin">Dragon-helm of Dor-lómin</a>
 </td>
 <td>Drakenhelm van Dor-lómin
 </td>
@@ -434,7 +428,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Dor-lóminin Lohikäärmekypäri
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Dwaling" title="Dwaling">Dwaling</a>
+<td><a href="../D/Dwaling.md" title="Dwaling">Dwaling</a>
 </td>
 <td>Dullingen
 </td>
@@ -452,7 +446,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## E {#E}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -469,7 +462,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Eagles" title="Eagles">Eagles</a>
+<td><a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>
 </td>
 <td>Adelaars
 </td>
@@ -484,7 +477,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kotkat
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Entwash" title="Entwash">Entwash</a>
+<td><a href="../E/Entwash.md" title="Entwash">Entwash</a>
 </td>
 <td>Entwas
 </td>
@@ -499,7 +492,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Entinoja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Arwen" title="Arwen">Evenstar</a>
+<td><a href="../A/Arwen.md" title="Arwen">Evenstar</a>
 </td>
 <td>Avondster
 </td>
@@ -514,7 +507,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Iltatähti
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Evermind" title="Evermind">Evermind</a>
+<td><a href="../E/Evermind.md" title="Evermind">Evermind</a>
 </td>
 <td>Immerdaar
 </td>
@@ -532,7 +525,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## F {#F}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -549,7 +541,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Fallohides" title="Fallohides">Fallohides</a>
+<td><a href="../F/Fallohides.md" title="Fallohides">Fallohides</a>
 </td>
 <td>Vavels
 </td>
@@ -564,7 +556,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Helokesit
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Farthing" title="Farthing">Farthing</a>
+<td><a class="mw-redirect" href="../F/Farthing.md" title="Farthing">Farthing</a>
 </td>
 <td>Kwartier
 </td>
@@ -579,7 +571,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Neljännys
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Fellowship_of_the_Ring" title="Fellowship of the Ring">Fellowship of the Ring</a>
+<td><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>
 </td>
 <td>Reisgenootschap van de Ring
 </td>
@@ -594,7 +586,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sormuksen Saattue
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Frogmorton" title="Frogmorton">Frogmorton</a>
+<td><a href="../F/Frogmorton.md" title="Frogmorton">Frogmorton</a>
 </td>
 <td>Puitenlee
 </td>
@@ -612,7 +604,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## G {#G}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -629,7 +620,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Gamgee_Family" title="Gamgee Family">Gamgee</a>
+<td><a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a>
 </td>
 <td>Gewissies
 </td>
@@ -644,7 +635,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Gamgi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Gates_of_Sirion" title="Gates of Sirion">Gates of Sirion</a>
+<td><a href="../G/Gates_of_Sirion.md" title="Gates of Sirion">Gates of Sirion</a>
 </td>
 <td>Poorten van de Sirion
 </td>
@@ -659,7 +650,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sirionin Portit
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Girdley_Island" title="Girdley Island">Girdley Island</a>
+<td><a href="../G/Girdley_Island.md" title="Girdley Island">Girdley Island</a>
 </td>
 <td>Ringeleiland
 </td>
@@ -674,7 +665,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Paulasaari
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Gladden_River" title="Gladden River">Gladden</a>
+<td><a href="../G/Gladden_River.md" title="Gladden River">Gladden</a>
 </td>
 <td>Lisse
 </td>
@@ -689,7 +680,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kurjenmiekkajoki
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Gladden_Fields" title="Gladden Fields">Gladden Fields</a>
+<td><a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a>
 </td>
 <td>Lissevelden
 </td>
@@ -704,7 +695,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kurjenmiekkakentät
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Goldberry" title="Goldberry">Goldberry</a>
+<td><a href="../G/Goldberry.md" title="Goldberry">Goldberry</a>
 </td>
 <td>Goudbezie
 </td>
@@ -719,7 +710,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kultamarja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Gollum" title="Gollum">Gollum</a>
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a>
 </td>
 <td>Gollem
 </td>
@@ -734,7 +725,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Klonkku
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Great_River" title="Great River">Great River</a>
+<td><a class="mw-redirect" href="../G/Great_River.md" title="Great River">Great River</a>
 </td>
 <td>
 </td>
@@ -749,7 +740,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Suuri virta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Greyflood" title="Greyflood">Greyflood</a>
+<td><a class="mw-redirect" href="../G/Greyflood.md" title="Greyflood">Greyflood</a>
 </td>
 <td>Grijsvloed
 </td>
@@ -764,7 +755,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Harmaavirta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Grey_Mountains" title="Grey Mountains">Grey Mountains</a>
+<td><a href="../G/Grey_Mountains.md" title="Grey Mountains">Grey Mountains</a>
 </td>
 <td>Grijze bergen
 </td>
@@ -782,7 +773,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## H {#H}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -799,7 +789,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Harfoots" title="Harfoots">Harfoots</a>
+<td><a href="../H/Harfoots.md" title="Harfoots">Harfoots</a>
 </td>
 <td>Bruivels
 </td>
@@ -814,7 +804,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Karvajalat
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Hoarwell" title="Hoarwell">Hoarwell</a>
+<td><a href="../H/Hoarwell.md" title="Hoarwell">Hoarwell</a>
 </td>
 <td>Grauwel
 </td>
@@ -829,7 +819,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Maitokymi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Hobbiton" title="Hobbiton">Hobbiton</a>
+<td><a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a>
 </td>
 <td>Hobbitstee
 </td>
@@ -844,7 +834,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Hobittila
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Hollin" title="Hollin">Hollin</a>
+<td><a class="mw-redirect" href="../H/Hollin.md" title="Hollin">Hollin</a>
 </td>
 <td>Hulst
 </td>
@@ -862,7 +852,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## K {#K}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -879,7 +868,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-disambig" href="/wiki/Kinslaying_(disambiguation)" title="Kinslaying (disambiguation)">Kinslaying</a>
+<td><a class="mw-disambig" href="../K/Kinslaying_(disambiguation).md" title="Kinslaying (disambiguation)">Kinslaying</a>
 </td>
 <td>Broedermoord
 </td>
@@ -897,7 +886,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## L {#L}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -914,7 +902,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Little_Delving" title="Little Delving">Little Delving</a>
+<td><a href="../L/Little_Delving.md" title="Little Delving">Little Delving</a>
 </td>
 <td>Lutjedelft
 </td>
@@ -929,7 +917,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Vähä-Möyremä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Longbottom" title="Longbottom">Longbottom</a>
+<td><a href="../L/Longbottom.md" title="Longbottom">Longbottom</a>
 </td>
 <td>Langedaal
 </td>
@@ -944,7 +932,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pitkänpohja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Loudwater" title="Loudwater">Loudwater</a>
+<td><a class="mw-redirect" href="../L/Loudwater.md" title="Loudwater">Loudwater</a>
 </td>
 <td>Luidwater
 </td>
@@ -962,7 +950,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## M {#M}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -979,7 +966,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Farmer_Maggot" title="Farmer Maggot">Maggot</a>
+<td><a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Maggot</a>
 </td>
 <td>Van der Made
 </td>
@@ -994,7 +981,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Magot
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Marish" title="Marish">Marish</a>
+<td><a href="../M/Marish.md" title="Marish">Marish</a>
 </td>
 <td>Moer
 </td>
@@ -1009,7 +996,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Neva
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/D%C3%BAnedain" title="Dúnedain">Men of the West</a>
+<td><a href="../D/Dúnedain.md" title="Dúnedain">Men of the West</a>
 </td>
 <td>Edain van het Westen
 </td>
@@ -1024,7 +1011,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Lännen edain
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Meriadoc &#34;Merry&#34; Brandybuck</a>
+<td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc &#34;Merry&#34; Brandybuck</a>
 </td>
 <td>Meriadoc &#34;Merijn&#34; Brandebok
 </td>
@@ -1039,7 +1026,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Meriadoc &#34;Merri&#34; Rankkibuk
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Michel_Delving" title="Michel Delving">Michel Delving</a>
+<td><a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>
 </td>
 <td>Grotedelft
 </td>
@@ -1054,7 +1041,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Järin Möyremä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>
+<td><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>
 </td>
 <td>Midden-aarde
 </td>
@@ -1069,7 +1056,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Keski-Maa
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Mirkwood" title="Mirkwood">Mirkwood</a>
+<td><a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
 </td>
 <td>Demsterwold, Deemsterwold
 </td>
@@ -1084,7 +1071,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Synkmetsä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Misty_Mountains" title="Misty Mountains">Misty Mountains</a>
+<td><a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>
 </td>
 <td>Nevelbergen
 </td>
@@ -1099,7 +1086,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sumuvuoret
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Mount_Doom" title="Mount Doom">Mount Doom</a>
+<td><a href="../M/Mount_Doom.md" title="Mount Doom">Mount Doom</a>
 </td>
 <td>Doemberg
 </td>
@@ -1117,7 +1104,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## N {#N}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1134,7 +1120,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Needlehole" title="Needlehole">Needlehole</a>
+<td><a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>
 </td>
 <td>Naaldhol
 </td>
@@ -1149,7 +1135,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Äimänsilmä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Nobottle" title="Nobottle">Nobottle</a>
+<td><a href="../N/Nobottle.md" title="Nobottle">Nobottle</a>
 </td>
 <td>Geenhuijzen
 </td>
@@ -1167,7 +1153,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## O {#O}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1184,7 +1169,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Old_Forest" title="Old Forest">Old Forest</a>
+<td><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>
 </td>
 <td>Oude Woud
 </td>
@@ -1199,7 +1184,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Vanha Metsä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Orcs" title="Orcs">Orc</a>
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a>
 </td>
 <td>Ork
 </td>
@@ -1214,7 +1199,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Örkki
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Overhill" title="Overhill">Overhill</a>
+<td><a href="../O/Overhill.md" title="Overhill">Overhill</a>
 </td>
 <td>Overheuvel
 </td>
@@ -1232,7 +1217,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## P {#P}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1249,7 +1233,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Pincup" title="Pincup">Pincup</a>
+<td><a href="../P/Pincup.md" title="Pincup">Pincup</a>
 </td>
 <td>Vinkop
 </td>
@@ -1264,7 +1248,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pinkkala
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Pipe-weed" title="Pipe-weed">Pipe-weed</a>
+<td><a href="../P/Pipe-weed.md" title="Pipe-weed">Pipe-weed</a>
 </td>
 <td>Pijpkruid
 </td>
@@ -1279,7 +1263,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pehku
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Peregrin_Took" title="Peregrin Took">Peregrin &#34;Pippin&#34; Took</a>
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin &#34;Pippin&#34; Took</a>
 </td>
 <td>Peregrijn &#34;Pepijn&#34; Toek
 </td>
@@ -1297,7 +1281,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## Q {#Q}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1329,7 +1312,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Louhikko
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Quickbeam" title="Quickbeam">Quickbeam</a>
+<td><a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a>
 </td>
 <td>Vlugstraal
 </td>
@@ -1347,7 +1330,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## R {#R}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1364,7 +1346,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Rangers_of_the_North" title="Rangers of the North">Ranger</a>
+<td><a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Ranger</a>
 </td>
 <td>Doler
 </td>
@@ -1379,7 +1361,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Samooja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Nazg%C3%BBl" title="Nazgûl">Ringwraith</a>
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Ringwraith</a>
 </td>
 <td>Ringgeest
 </td>
@@ -1394,7 +1376,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sormusaave
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Rivendell" title="Rivendell">Rivendell</a>
+<td><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>
 </td>
 <td>Rivendel
 </td>
@@ -1409,7 +1391,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Rivendell
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Rose_Cotton" title="Rose Cotton">Rose Cotton</a>
+<td><a href="../R/Rose_Cotton.md" title="Rose Cotton">Rose Cotton</a>
 </td>
 <td>Roosje Katoen
 </td>
@@ -1424,7 +1406,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Roosa Tölli
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Rushy" title="Rushy">Rushy</a>
+<td><a class="mw-redirect" href="../R/Rushy.md" title="Rushy">Rushy</a>
 </td>
 <td>Lisse
 </td>
@@ -1442,7 +1424,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## S {#S}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1459,7 +1440,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Samwise Gamgee</a>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a>
 </td>
 <td>Sam Gewissies
 </td>
@@ -1474,7 +1455,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Samvais Gamgi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Sarn_Ford" title="Sarn Ford">Sarn Ford</a>
+<td><a href="../S/Sarn_Ford.md" title="Sarn Ford">Sarn Ford</a>
 </td>
 <td>Sarnvoorde
 </td>
@@ -1489,7 +1470,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Sarnin Kahlaamo
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Scary" title="Scary">Scary</a>
+<td><a href="../S/Scary.md" title="Scary">Scary</a>
 </td>
 <td>Klip
 </td>
@@ -1504,7 +1485,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kivikko
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Men" title="Men">Second People</a>
+<td><a href="../M/Men.md" title="Men">Second People</a>
 </td>
 <td>Het Tweede Volk
 </td>
@@ -1519,7 +1500,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Toinen Kansa
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Shadowfax" title="Shadowfax">Shadowfax</a>
+<td><a href="../S/Shadowfax.md" title="Shadowfax">Shadowfax</a>
 </td>
 <td>Schaduwvacht
 </td>
@@ -1534,7 +1515,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Hallavaharja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Shire" title="The Shire">Shire</a>
+<td><a href="The_Shire.md" title="The Shire">Shire</a>
 </td>
 <td>Gouw
 </td>
@@ -1549,7 +1530,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kontu
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Shirebourn" title="Shirebourn">Shirebourn</a>
+<td><a href="../S/Shirebourn.md" title="Shirebourn">Shirebourn</a>
 </td>
 <td>Klaarbeek
 </td>
@@ -1564,7 +1545,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Konnunallikko
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Silverlode" title="Silverlode">Silverlode</a>
+<td><a class="mw-redirect" href="../S/Silverlode.md" title="Silverlode">Silverlode</a>
 </td>
 <td>Zilverlei
 </td>
@@ -1579,7 +1560,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Hopeajuopa
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Smials" title="Smials">Smials</a>
+<td><a href="../S/Smials.md" title="Smials">Smials</a>
 </td>
 <td>Smielen
 </td>
@@ -1594,7 +1575,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Smialit
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Standelf" title="Standelf">Standelf</a>
+<td><a href="../S/Standelf.md" title="Standelf">Standelf</a>
 </td>
 <td>Staandelf
 </td>
@@ -1609,7 +1590,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Vinkalo
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Sting" title="Sting">Sting</a>
+<td><a href="../S/Sting.md" title="Sting">Sting</a>
 </td>
 <td>Prik
 </td>
@@ -1624,7 +1605,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Piikki
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Stock" title="Stock">Stock</a>
+<td><a href="../S/Stock.md" title="Stock">Stock</a>
 </td>
 <td>Stok
 </td>
@@ -1639,7 +1620,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Runko
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Stoors" title="Stoors">Stoors</a>
+<td><a href="../S/Stoors.md" title="Stoors">Stoors</a>
 </td>
 <td>Stoerders
 </td>
@@ -1654,7 +1635,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Väkevät
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Strider_(Aragorn)" title="Strider (Aragorn)">Strider</a>
+<td><a class="mw-redirect" href="../S/Strider_(Aragorn).md" title="Strider (Aragorn)">Strider</a>
 </td>
 <td>Stapper
 </td>
@@ -1672,7 +1653,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## T {#T}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1689,7 +1669,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a>
+<td><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a>
 </td>
 <td>In de Ban van de Ring
 </td>
@@ -1704,7 +1684,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Taru Sormusten Herrasta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Prancing_Pony" title="The Prancing Pony">The Prancing Pony</a>
+<td><a href="The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a>
 </td>
 <td>De steigerende pony
 </td>
@@ -1719,7 +1699,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pomppiva Poni
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a>
+<td><a href="The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a>
 </td>
 <td>De Terugkeer van de Koning
 </td>
@@ -1734,7 +1714,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kuninkaan Paluu
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a>
+<td><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a>
 </td>
 <td>De Twee Torens
 </td>
@@ -1749,7 +1729,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kaksi Tornia
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/The_Water" title="The Water">The Water</a>
+<td><a href="The_Water.md" title="The Water">The Water</a>
 </td>
 <td>Het Water
 </td>
@@ -1764,7 +1744,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Virta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Thistle_Brook" title="Thistle Brook">Thistle Brook</a>
+<td><a href="Thistle_Brook.md" title="Thistle Brook">Thistle Brook</a>
 </td>
 <td>Distelbeek
 </td>
@@ -1779,7 +1759,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Karhiaispuro
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Thorin" title="Thorin">Thorin</a>
+<td><a href="Thorin.md" title="Thorin">Thorin</a>
 </td>
 <td>Thorin Eikenschild
 </td>
@@ -1794,7 +1774,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Thorin Tammikilpi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Took_Family" title="Took Family">Took</a>
+<td><a href="Took_Family.md" title="Took Family">Took</a>
 </td>
 <td>Toek
 </td>
@@ -1809,7 +1789,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Tuk
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Tookbank" title="Tookbank">Tookbank</a>
+<td><a href="Tookbank.md" title="Tookbank">Tookbank</a>
 </td>
 <td>Toekhelling
 </td>
@@ -1824,7 +1804,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Tukinrinne
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Treebeard" title="Treebeard">Treebeard</a>
+<td><a href="Treebeard.md" title="Treebeard">Treebeard</a>
 </td>
 <td>Boombaard
 </td>
@@ -1839,7 +1819,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Puuparta
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Two_Lamps" title="Two Lamps">Two Lamps</a>
+<td><a href="Two_Lamps.md" title="Two Lamps">Two Lamps</a>
 </td>
 <td>Twee Lampen
 </td>
@@ -1854,7 +1834,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kaksi Lamppua
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Two_Trees_of_Valinor" title="Two Trees of Valinor">Two Trees of Valinor</a>
+<td><a href="Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees of Valinor</a>
 </td>
 <td>Twee Bomen van Valinor
 </td>
@@ -1872,7 +1852,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## U {#U}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1889,7 +1868,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Undying_Lands" title="Undying Lands">Undying Lands</a>
+<td><a href="../U/Undying_Lands.md" title="Undying Lands">Undying Lands</a>
 </td>
 <td>Onsterfelijke Landen
 </td>
@@ -1907,7 +1886,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## W {#W}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -1924,7 +1902,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Waymoot" title="Waymoot">Waymoot</a>
+<td><a class="mw-redirect" href="../W/Waymoot.md" title="Waymoot">Waymoot</a>
 </td>
 <td>Wegemoet
 </td>
@@ -1939,7 +1917,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Tienristi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Weather_Hills" title="Weather Hills">Weather Hills</a>
+<td><a href="../W/Weather_Hills.md" title="Weather Hills">Weather Hills</a>
 </td>
 <td>Weerheuvels
 </td>
@@ -1954,7 +1932,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Viimavaarat
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Westernesse" title="Westernesse">Westernesse</a>
+<td><a href="../W/Westernesse.md" title="Westernesse">Westernesse</a>
 </td>
 <td>Westernisse
 </td>
@@ -1969,7 +1947,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Westernesse
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/White_Downs" title="White Downs">White Downs</a>
+<td><a href="../W/White_Downs.md" title="White Downs">White Downs</a>
 </td>
 <td>Witte Duinen
 </td>
@@ -1984,7 +1962,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Valkovaarat
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Whitfurrows" title="Whitfurrows">Whitfurrows</a>
+<td><a href="../W/Whitfurrows.md" title="Whitfurrows">Whitfurrows</a>
 </td>
 <td>Witvoren
 </td>
@@ -1999,7 +1977,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Valkovakola
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Willowbottom" title="Willowbottom">Willowbottom</a>
+<td><a href="../W/Willowbottom.md" title="Willowbottom">Willowbottom</a>
 </td>
 <td>Wilgedal
 </td>
@@ -2014,7 +1992,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Pajunpohja
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Withywindle" title="Withywindle">Withywindle</a>
+<td><a href="../W/Withywindle.md" title="Withywindle">Withywindle</a>
 </td>
 <td>Wilgewinde
 </td>
@@ -2029,7 +2007,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Halavainen
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Woodhall" title="Woodhall">Woodhall</a>
+<td><a href="../W/Woodhall.md" title="Woodhall">Woodhall</a>
 </td>
 <td>Bosrode
 </td>
@@ -2044,7 +2022,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Metsähovi
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Woody_End" title="Woody End">Woody End</a>
+<td><a href="../W/Woody_End.md" title="Woody End">Woody End</a>
 </td>
 <td>Houtenend
 </td>
@@ -2059,7 +2037,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Korvenperä
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Gr%C3%ADma" title="Gríma">Wormtongue</a>
+<td><a href="../G/Gríma.md" title="Gríma">Wormtongue</a>
 </td>
 <td>Slangtong
 </td>
@@ -2074,7 +2052,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <td>Kärmekieli
 </td></tr>
 <tr bgcolor="#F5F5F5">
-<td><a class="mw-redirect" href="/wiki/Wose" title="Wose">Wose</a>
+<td><a class="mw-redirect" href="../W/Wose.md" title="Wose">Wose</a>
 </td>
 <td>Wildeman
 </td>
@@ -2092,7 +2070,6 @@ Do you think a certain language needs to be included? Make it known at the artic
 ## Y {#Y}
 
 <table border="0" cellpadding="1" cellspacing="1" width="98%">
-<!-- -->
 <tbody><tr bgcolor="#C6E2FF">
 <th width="16%">English
 </th>
@@ -2109,7 +2086,7 @@ Do you think a certain language needs to be included? Make it known at the artic
 <th width="16%">Finnish
 </th></tr>
 <tr bgcolor="#F5F5F5">
-<td><a href="/wiki/Yule" title="Yule">Yule</a>
+<td><a href="../Y/Yule.md" title="Yule">Yule</a>
 </td>
 <td>Joel
 </td>

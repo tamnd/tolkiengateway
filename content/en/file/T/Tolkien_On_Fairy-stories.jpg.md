@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien On Fairy-stories.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien On Fairy-stories.jpg</span>"
 page_id: 26381
 namespace: 6
 revision_id: 419448

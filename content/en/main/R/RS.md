@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Shadow"
 ---
 
-Redirect to [The Return of the Shadow](/wiki/The_Return_of_the_Shadow).
+Redirect to [The Return of the Shadow](../T/The_Return_of_the_Shadow.md).

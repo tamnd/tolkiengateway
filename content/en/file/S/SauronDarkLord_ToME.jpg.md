@@ -1,6 +1,5 @@
 ---
 title: "File:SauronDarkLord ToME.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SauronDarkLord ToME.jpg</span>"
 page_id: 70014
 namespace: 6
 revision_id: 426118
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Art by <a class="new" href="/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a> for [Magic: The Gathering](/wiki/Magic:_The_Gathering) [The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth). Card: <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617054" rel="noreferrer noopener" target="_blank">Sauron, the Dark Lord</a>
+Art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a> for [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md) [The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md). Card: <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617054" rel="noreferrer noopener" target="_blank">Sauron, the Dark Lord</a>
 
 ## Licensing {#Licensing}
 

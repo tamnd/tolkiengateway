@@ -1,6 +1,5 @@
 ---
 title: "File:The one ring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The one ring.png</span>"
 page_id: 66551
 namespace: 6
 revision_id: 385018

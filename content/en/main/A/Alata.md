@@ -13,26 +13,26 @@ categories:
   - "Telerin nouns"
 ---
 
-**alata** in [Telerin](/wiki/Telerin) means "radiance, glittering reflection".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**alata** in [Telerin](../T/Telerin.md) means "radiance, glittering reflection".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-It derives from [primitive Elvish](/wiki/Primitive_Elvish "Primitive Elvish") form \*<i><a class="new" href="/w/index.php?title=%C3%91alat%C3%A2&amp;action=edit&amp;redlink=1" title="Ñalatâ (page does not exist)">ñalatâ</a></i> from [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a>.
+It derives from [primitive Elvish](../P/Primitive_Elvish.md) form \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91alat%C3%A2&amp;action=edit&amp;redlink=1" title="Ñalatâ (page does not exist)">ñalatâ</a></i> from [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91AL&amp;action=edit&amp;redlink=1" title="ÑAL (page does not exist)">ÑAL</a>.
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[ñalta](/wiki/%C3%91alta "Ñalta")*
-- [Sindarin](/wiki/Sindarin) *[galad](/wiki/Galad "Galad")*
+- [Quenya](../Q/Quenya.md) *[ñalta](../_/Ñalta.md)*
+- [Sindarin](../S/Sindarin.md) *[galad](../G/Galad.md)*
 
 ## See also {#See_also}
 
-- [Alatáriel](/wiki/Alat%C3%A1riel)
+- [Alatáriel](Alatáriel.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.347</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.347</span>
 </li>
 </ol></div>

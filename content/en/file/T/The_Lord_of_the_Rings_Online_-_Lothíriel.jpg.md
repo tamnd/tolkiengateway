@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Lothíriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Lothíriel.jpg</span>"
 page_id: 48192
 namespace: 6
 revision_id: 315712
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lothíriel](/wiki/Loth%C3%ADriel) in [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online).
+[Lothíriel](../../main/L/Lothíriel.md) in [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md).
 
 ## Licensing {#Licensing}
 

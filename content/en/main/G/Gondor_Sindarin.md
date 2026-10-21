@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenórean Sindarin"
 ---
 
-Redirect to [Númenórean Sindarin](/wiki/Númenórean_Sindarin).
+Redirect to [Númenórean Sindarin](../N/Númenórean_Sindarin.md).

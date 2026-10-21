@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Ambarkanta Diagram III.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ambarkanta Diagram III.jpg</span>"
 page_id: 52846
 namespace: 6
 revision_id: 384635
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [*Ambarkanta* Diagram III](/wiki/Ambarkanta_maps "Ambarkanta maps"), by J.R.R. Tolkien.
+The [*Ambarkanta* Diagram III](../../main/A/Ambarkanta_maps.md), by J.R.R. Tolkien.
 
 ## Licensing {#Licensing}
 

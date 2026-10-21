@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Donna Sadlier.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Donna Sadlier.png</span>"
 page_id: 48924
 namespace: 6
 revision_id: 262297

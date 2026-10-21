@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R Tolkien Signature 1913.png"
 ---
 
-Redirect to [File:J.R.R Tolkien Signature 1913.png](/wiki/File:J.R.R_Tolkien_Signature_1913.png).
+Redirect to [File:J.R.R Tolkien Signature 1913.png](J.R.R_Tolkien_Signature_1913.png.md).

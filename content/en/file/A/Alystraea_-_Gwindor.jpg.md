@@ -1,6 +1,5 @@
 ---
 title: "File:Alystraea - Gwindor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alystraea - Gwindor.jpg</span>"
 page_id: 68525
 namespace: 6
 revision_id: 403813
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Gwindor](/wiki/Gwindor)*, by [Alystraea](/wiki/Category:Images_by_Alystraea "Category:Images by Alystraea")
+*[Gwindor](../../main/G/Gwindor.md)*, by [Alystraea](../../category/I/Images_by_Alystraea.md)
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Alystraea</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/annamare" rel="noreferrer noopener" target="_blank">Alystraea on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alystraea" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlystraea.md" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>

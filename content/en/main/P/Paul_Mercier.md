@@ -1,6 +1,5 @@
 ---
 title: "Paul Mercier"
-display_title: "<span class=\"mw-page-title-main\">Paul Mercier</span>"
 page_id: 22893
 namespace: 0
 revision_id: 115966
@@ -23,10 +22,10 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: [Faramir](/wiki/Faramir), Evil Human Officer 3, Gondorian Officer 3
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*: Additional voices
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: [Faramir](../F/Faramir.md), Evil Human Officer 3, Gondorian Officer 3
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andram"
 ---
 
-Redirect to [Andram](/wiki/Andram).
+Redirect to [Andram](../A/Andram.md).

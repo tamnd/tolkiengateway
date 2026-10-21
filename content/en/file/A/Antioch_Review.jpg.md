@@ -1,6 +1,5 @@
 ---
 title: "File:Antioch Review.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Antioch Review.jpg</span>"
 page_id: 60019
 namespace: 6
 revision_id: 335986

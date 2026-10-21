@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Society"
 ---
 
-Redirect to [The Tolkien Society](/wiki/The_Tolkien_Society).
+Redirect to [The Tolkien Society](The_Tolkien_Society.md).

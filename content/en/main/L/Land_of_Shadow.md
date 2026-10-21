@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Land of Shadow"
 ---
 
-Redirect to [The Land of Shadow](/wiki/The_Land_of_Shadow).
+Redirect to [The Land of Shadow](../T/The_Land_of_Shadow.md).

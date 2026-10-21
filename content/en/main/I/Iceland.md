@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Iceland"
 ---
 
-Redirect to [Category:Iceland](/wiki/Category:Iceland).
+Redirect to [Category:Iceland](../../category/I/Iceland.md).

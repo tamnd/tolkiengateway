@@ -1,6 +1,5 @@
 ---
 title: "Yáviérë"
-display_title: "<span class=\"mw-page-title-main\">Yáviérë</span>"
 page_id: 4889
 namespace: 0
 revision_id: 305467
@@ -22,11 +21,11 @@ langlinks:
     url: "https://kontu.wiki/Y%C3%A1vi%C3%A9r%C3%AB"
 ---
 
-**Yáviérë** was the harvest feast-day of the [Stewards' Reckoning](/wiki/Stewards%27_Reckoning) of [Gondor](/wiki/Gondor), lying between the months of [Yavannië](/wiki/Yavanni%C3%AB) and [Narquelië](/wiki/Narqueli%C3%AB), near the autumnal equinox.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> On a modern calendar, Yáviérë would have fallen on [September 21st](/wiki/21_September "21 September"). <span></span>
+**Yáviérë** was the harvest feast-day of the [Stewards' Reckoning](../S/Stewards'_Reckoning.md) of [Gondor](../G/Gondor.md), lying between the months of [Yavannië](Yavannië.md) and [Narquelië](../N/Narquelië.md), near the autumnal equinox.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> On a modern calendar, Yáviérë would have fallen on [September 21st](../_/21_September.md). <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Robert_Foster" title="Robert Foster">Robert Foster</a>, <i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, entry &#34;Yáviérë&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, entry &#34;Yáviérë&#34;</span>
 </li>
 </ol></div>

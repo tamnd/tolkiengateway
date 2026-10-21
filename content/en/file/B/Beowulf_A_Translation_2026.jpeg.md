@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf A Translation 2026.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf A Translation 2026.jpeg</span>"
 page_id: 70645
 namespace: 6
 revision_id: 421610

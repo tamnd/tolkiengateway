@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Puzzles - Arwen's Choice.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Puzzles - Arwen&#039;s Choice.jpg</span>"
 page_id: 25379
 namespace: 6
 revision_id: 234760

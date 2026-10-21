@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Larry Elmore"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Larry Elmore</span>"
 page_id: 29850
 namespace: 14
 revision_id: 423109
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Elmore, Larry"
 ---
 
-This category lists all **images by [Larry Elmore](/wiki/Larry_Elmore)**.
+This category lists all **images by [Larry Elmore](../../main/L/Larry_Elmore.md)**.

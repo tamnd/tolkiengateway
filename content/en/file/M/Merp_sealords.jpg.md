@@ -1,6 +1,5 @@
 ---
 title: "File:Merp sealords.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merp sealords.jpg</span>"
 page_id: 26020
 namespace: 6
 revision_id: 350699

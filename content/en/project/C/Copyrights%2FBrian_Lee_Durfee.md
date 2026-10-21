@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Brian Lee Durfee"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Brian Lee Durfee</span>"
 page_id: 44047
 namespace: 4
 revision_id: 231677
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Durfee, Brian Lee"
 ---
 
-- <a class="external text" href="http://brianleedurfee.weebly.com/" rel="noreferrer noopener" target="_blank">Brian Lee Durfee</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Brian_Durfee "Category:Images by Brian Durfee") related to Middle-earth on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="http://brianleedurfee.weebly.com/" rel="noreferrer noopener" target="_blank">Brian Lee Durfee</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Brian_Durfee.md) related to Middle-earth on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 14 July 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

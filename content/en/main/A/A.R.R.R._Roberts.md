@@ -1,6 +1,5 @@
 ---
 title: "A.R.R.R. Roberts"
-display_title: "<span class=\"mw-page-title-main\">A.R.R.R. Roberts</span>"
 page_id: 26633
 namespace: 0
 revision_id: 404470
@@ -13,4 +12,4 @@ categories:
   - "Pseudonyms"
 ---
 
-**A.R.R.R. Roberts** was the pseudonym (alluding to the name *[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)*) used by writer [Adam Roberts](/wiki/Adam_Roberts) when publishing *[The Soddit](/wiki/The_Soddit)* and *[The Sellamillion](/wiki/The_Sellamillion)*.
+**A.R.R.R. Roberts** was the pseudonym (alluding to the name *[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)*) used by writer [Adam Roberts](Adam_Roberts.md) when publishing *[The Soddit](../T/The_Soddit.md)* and *[The Sellamillion](../T/The_Sellamillion.md)*.

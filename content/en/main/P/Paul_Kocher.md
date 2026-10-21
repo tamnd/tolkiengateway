@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Paul H. Kocher"
 ---
 
-Redirect to [Paul H. Kocher](/wiki/Paul_H._Kocher).
+Redirect to [Paul H. Kocher](Paul_H._Kocher.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Nia Kovalevski - You Shall Not Pass.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nia Kovalevski - You Shall Not Pass.jpg</span>"
 page_id: 67343
 namespace: 6
 revision_id: 437838
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Nia Kovalevski</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/niakov" rel="noreferrer noopener" target="_blank">Nia Kovalevski&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Nia_Kovalevski" title="Tolkien Gateway:Copyrights/Nia Kovalevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNia_Kovalevski.md" title="Tolkien Gateway:Copyrights/Nia Kovalevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>

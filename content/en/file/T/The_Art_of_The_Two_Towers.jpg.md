@@ -1,6 +1,5 @@
 ---
 title: "File:The Art of The Two Towers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Art of The Two Towers.jpg</span>"
 page_id: 16187
 namespace: 6
 revision_id: 351075

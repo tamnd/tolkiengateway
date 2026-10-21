@@ -1,6 +1,5 @@
 ---
 title: "Standing Stone Games"
-display_title: "<span class=\"mw-page-title-main\">Standing Stone Games</span>"
 page_id: 60810
 namespace: 0
 revision_id: 341367
@@ -15,7 +14,7 @@ categories:
   - "American businesses"
 ---
 
-"**Standing Stone Games** is a gaming studio based in Boston, Massachusetts. Since 2016, it is developer of *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+"**Standing Stone Games** is a gaming studio based in Boston, Massachusetts. Since 2016, it is developer of *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 ## External links {#External_links}
 

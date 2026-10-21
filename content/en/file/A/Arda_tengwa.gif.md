@@ -1,6 +1,5 @@
 ---
 title: "File:Arda tengwa.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arda tengwa.gif</span>"
 page_id: 18974
 namespace: 6
 revision_id: 247691
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An image of the tengwa <i><b>arda</b></i>, from the site of the <a class="external text" href="http://www.forodrim.org/arda/arda_eng.html" rel="noreferrer noopener" target="_blank">ARDA - annual for Arda research</a>, hosted by **[The Tolkien Society Forodrim](/wiki/Forodrim "Forodrim")**.
+An image of the tengwa <i><b>arda</b></i>, from the site of the <a class="external text" href="http://www.forodrim.org/arda/arda_eng.html" rel="noreferrer noopener" target="_blank">ARDA - annual for Arda research</a>, hosted by **[The Tolkien Society Forodrim](../../main/F/Forodrim.md)**.
 
 ## Licensing {#Licensing}
 

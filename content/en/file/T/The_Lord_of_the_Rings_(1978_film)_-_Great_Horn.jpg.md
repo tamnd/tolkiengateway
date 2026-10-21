@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Great Horn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Great Horn.jpg</span>"
 page_id: 21931
 namespace: 6
 revision_id: 238163
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Boromir](/wiki/Boromir) blowing the [Great Horn](/wiki/Great_Horn). Screenshot from [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Boromir](../../main/B/Boromir.md) blowing the [Great Horn](../../main/G/Great_Horn.md). Screenshot from [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

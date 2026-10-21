@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Bain Son of Bard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Bain Son of Bard.png</span>"
 page_id: 73108
 namespace: 6
 revision_id: 432879
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bain Son of Bard](/wiki/Bain "Bain") - [LEGO](/wiki/Lego "Lego") minifigure
+[Bain Son of Bard](../../main/B/Bain.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

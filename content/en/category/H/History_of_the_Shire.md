@@ -1,6 +1,5 @@
 ---
 title: "Category:History of the Shire"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">History of the Shire</span>"
 page_id: 28551
 namespace: 14
 revision_id: 125593

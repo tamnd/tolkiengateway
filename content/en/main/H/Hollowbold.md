@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nogrod"
 ---
 
-Redirect to [Nogrod](/wiki/Nogrod).
+Redirect to [Nogrod](../N/Nogrod.md).

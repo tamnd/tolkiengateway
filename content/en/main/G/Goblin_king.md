@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Goblin"
 ---
 
-Redirect to [Great Goblin](/wiki/Great_Goblin).
+Redirect to [Great Goblin](Great_Goblin.md).

@@ -1,6 +1,5 @@
 ---
 title: "Phillip LaMarr"
-display_title: "<span class=\"mw-page-title-main\">Phillip LaMarr</span>"
 page_id: 63689
 namespace: 0
 revision_id: 362979
@@ -19,16 +18,16 @@ sort_keys:
   "People by name": "LaMarr, Phil"
 ---
 
-**Phillip "Phil" LaMarr** ([January 24](/wiki/24_January "24 January"), [1967](/wiki/1967)) is an American actor and voice actor with many video game, film and television credits.
+**Phillip "Phil" LaMarr** ([January 24](../_/24_January.md), [1967](../_/1967.md)) is an American actor and voice actor with many video game, film and television credits.
 
 ## Roles {#Roles}
 
-- [2017](/wiki/2017): *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)* - [Ratbag the Coward](/wiki/Ratbag "Ratbag")
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - [Ratbag the Coward](/wiki/Ratbag "Ratbag")
+- [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Ratbag the Coward](../R/Ratbag.md)
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - [Ratbag the Coward](../R/Ratbag.md)
 
 ## Awards {#Awards}
 
-- [2015](/wiki/2015) - <b><a class="external text" href="https://navgtr.org/" rel="noreferrer noopener" target="_blank">NAVGTR Award</a></b>, Best Performance In A Drama, Supporting, *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*
+- [2015](../_/2015.md) - <b><a class="external text" href="https://navgtr.org/" rel="noreferrer noopener" target="_blank">NAVGTR Award</a></b>, Best Performance In A Drama, Supporting, *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*
 
 ## External links {#External_links}
 

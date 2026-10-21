@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Cookbooks"
 ---
 
-Redirect to [Category:Cookbooks](/wiki/Category:Cookbooks).
+Redirect to [Category:Cookbooks](../../category/C/Cookbooks.md).

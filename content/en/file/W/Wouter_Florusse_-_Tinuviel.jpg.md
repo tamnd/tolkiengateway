@@ -1,6 +1,5 @@
 ---
 title: "File:Wouter Florusse - Tinuviel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wouter Florusse - Tinuviel.jpg</span>"
 page_id: 44693
 namespace: 6
 revision_id: 235256
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Wouter Florusse</li>
 <li><b>Website:</b> <a class="external text" href="http://wouterflorusse.daportfolio.com/" rel="noreferrer noopener" target="_blank">Wouter Florusse&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Wouter_Florusse" title="Tolkien Gateway:Copyrights/Wouter Florusse">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FWouter_Florusse.md" title="Tolkien Gateway:Copyrights/Wouter Florusse">Permission for use on Tolkien Gateway</a></b></li></ul></div>

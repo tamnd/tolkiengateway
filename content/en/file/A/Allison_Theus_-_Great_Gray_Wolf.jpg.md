@@ -1,6 +1,5 @@
 ---
 title: "File:Allison Theus - Great Gray Wolf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Allison Theus - Great Gray Wolf.jpg</span>"
 page_id: 71782
 namespace: 6
 revision_id: 439578
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Great Gray Wolf](/wiki/Chief_wolf "Chief wolf")" - Illustration by [Allison Theus](/wiki/Category:Images_by_Allison_Theus "Category:Images by Allison Theus") for *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Hobbit*: *Over Hill and Under Hill* expansion.
+"[Great Gray Wolf](../../main/C/Chief_wolf.md)" - Illustration by [Allison Theus](../../category/I/Images_by_Allison_Theus.md) for *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Hobbit*: *Over Hill and Under Hill* expansion.
 
 ## Licensing {#Licensing}
 

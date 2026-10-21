@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Uruk-hai.jpg"
 ---
 
-Redirect to [File:John Howe - The Uruk-hai.jpg](/wiki/File:John_Howe_-_The_Uruk-hai.jpg).
+Redirect to [File:John Howe - The Uruk-hai.jpg](John_Howe_-_The_Uruk-hai.jpg.md).

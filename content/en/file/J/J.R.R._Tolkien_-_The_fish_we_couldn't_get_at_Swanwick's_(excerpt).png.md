@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The fish we couldn't get at Swanwick's (excerpt).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The fish we couldn&#039;t get at Swanwick&#039;s (excerpt).png</span>"
 page_id: 45518
 namespace: 6
 revision_id: 390188
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An excerpt from the illustration "[High Life at Gipsy Green](/wiki/File:J.R.R._Tolkien_-_High_Life_at_Gipsy_Green.jpg "File:J.R.R. Tolkien - High Life at Gipsy Green.jpg")", early summer of 1918, found within *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*.
+An excerpt from the illustration "[High Life at Gipsy Green](J.R.R._Tolkien_-_High_Life_at_Gipsy_Green.jpg.md)", early summer of 1918, found within *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.
 
 ## Licensing {#Licensing}
 

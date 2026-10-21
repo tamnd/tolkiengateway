@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Children of Húrin 2024.png"
 ---
 
-Redirect to [File:Children of Húrin 2024.png](/wiki/File:Children_of_Húrin_2024.png).
+Redirect to [File:Children of Húrin 2024.png](Children_of_Húrin_2024.png.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harma"
 ---
 
-Redirect to [Harma](/wiki/Harma).
+Redirect to [Harma](../H/Harma.md).

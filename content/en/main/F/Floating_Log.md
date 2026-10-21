@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Floating Log"
 ---
 
-Redirect to [The Floating Log](/wiki/The_Floating_Log).
+Redirect to [The Floating Log](../T/The_Floating_Log.md).

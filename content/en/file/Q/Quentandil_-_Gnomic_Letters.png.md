@@ -1,6 +1,5 @@
 ---
 title: "File:Quentandil - Gnomic Letters.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quentandil - Gnomic Letters.png</span>"
 page_id: 59176
 namespace: 6
 revision_id: 422116
@@ -27,11 +26,11 @@ file:
 
 ## Summary {#Summary}
 
-"Gnomic Letters" created by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) between [1920](/wiki/1920)-[1925](/wiki/1925), published in [*Parma Eldalamberon* 15](/wiki/Parma_Eldalamberon_15 "Parma Eldalamberon 15"), pp. 108-110, edited by [Christopher Gilson](/wiki/Christopher_Gilson) (being [Arden R. Smith](/wiki/Arden_R._Smith) who edited the "Gnomic Letters" section). Here [User:Quentandil](/wiki/User:Quentandil) selected and redrew the letters.
+"Gnomic Letters" created by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) between [1920](../../main/_/1920.md)-[1925](../../main/_/1925.md), published in [*Parma Eldalamberon* 15](../../main/P/Parma_Eldalamberon_15.md), pp. 108-110, edited by [Christopher Gilson](../../main/C/Christopher_Gilson.md) (being [Arden R. Smith](../../main/A/Arden_R._Smith.md) who edited the "Gnomic Letters" section). Here [User:Quentandil](https://tolkiengateway.net/wiki/User:Quentandil) selected and redrew the letters.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>As a Tolkien Gateway contributor, <a href="/wiki/User:Quentandil" title="User:Quentandil">Quentandil</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+<p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Quentandil" title="User:Quentandil">Quentandil</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 </p>
 </div>

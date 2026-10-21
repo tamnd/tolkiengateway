@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Line Party"
 ---
 
-Redirect to [The Children of Húrin Line Party](/wiki/The_Children_of_Húrin_Line_Party).
+Redirect to [The Children of Húrin Line Party](The_Children_of_Húrin_Line_Party.md).

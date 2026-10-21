@@ -1,6 +1,5 @@
 ---
 title: "Category:Cities (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cities (real-world)</span>"
 page_id: 21987
 namespace: 14
 revision_id: 335488
@@ -13,6 +12,6 @@ categories:
   - "Locations by type (real-world)"
 ---
 
-<dl><dd><i>For cities found in Arda see <a href="/wiki/Category:Cities,_towns_and_villages" title="Category:Cities, towns and villages">Category:Cities, towns and villages</a>.</i></dd></dl>
+<dl><dd><i>For cities found in Arda see <a href="Cities,_towns_and_villages.md" title="Category:Cities, towns and villages">Category:Cities, towns and villages</a>.</i></dd></dl>
 
-Cities that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Cities that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

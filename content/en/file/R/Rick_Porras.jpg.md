@@ -1,6 +1,5 @@
 ---
 title: "File:Rick Porras.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rick Porras.jpg</span>"
 page_id: 20160
 namespace: 6
 revision_id: 249451

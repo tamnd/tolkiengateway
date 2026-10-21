@@ -1,6 +1,5 @@
 ---
 title: "Steven M. Kramer"
-display_title: "<span class=\"mw-page-title-main\">Steven M. Kramer</span>"
 page_id: 24104
 namespace: 0
 revision_id: 153551
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Kramer, Steven M."
 ---
 
-**Steven M. Kramer** ([March 1](/wiki/1_March "1 March"), [1948](/wiki/1948)) is an American actor, primarily working in anime dubbing. He is often cast as the old mentor.
+**Steven M. Kramer** ([March 1](../_/1_March.md), [1948](../_/1948.md)) is an American actor, primarily working in anime dubbing. He is often cast as the old mentor.
 
 ## Filmography {#Filmography}
 
-- [2004](/wiki/2004) - *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)* - [Gandalf](/wiki/Gandalf)
+- [2004](../_/2004.md) - *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* - [Gandalf](../G/Gandalf.md)
 
 ## External links {#External_links}
 

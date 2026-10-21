@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Lithui"
 ---
 
-Redirect to [Ered Lithui](/wiki/Ered_Lithui).
+Redirect to [Ered Lithui](../E/Ered_Lithui.md).

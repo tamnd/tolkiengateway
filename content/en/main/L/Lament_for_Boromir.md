@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Boromir"
 ---
 
-Redirect to [Song of Boromir](/wiki/Song_of_Boromir).
+Redirect to [Song of Boromir](../S/Song_of_Boromir.md).

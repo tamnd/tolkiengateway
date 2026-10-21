@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Aotrou and Itroun.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Aotrou and Itroun.jpg</span>"
 page_id: 59483
 namespace: 6
 revision_id: 331234
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-First page of *[The Lay of Aotrou and Itroun](/wiki/The_Lay_of_Aotrou_and_Itroun)*, included as frontispiece in [Verlyn Flieger](/wiki/Verlyn_Flieger)'s [2016](/wiki/2016) edition.
+First page of *[The Lay of Aotrou and Itroun](../../main/T/The_Lay_of_Aotrou_and_Itroun.md)*, included as frontispiece in [Verlyn Flieger](../../main/V/Verlyn_Flieger.md)'s [2016](../../main/_/2016.md) edition.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Carol Emery Phenix"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Carol Emery Phenix</span>"
 page_id: 13829
 namespace: 14
 revision_id: 181953

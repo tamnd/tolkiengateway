@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar conflict"
 ---
 
-Redirect to [Angmar conflict](/wiki/Angmar_conflict).
+Redirect to [Angmar conflict](Angmar_conflict.md).

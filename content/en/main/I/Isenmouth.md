@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carach Angren"
 ---
 
-Redirect to [Carach Angren](/wiki/Carach_Angren).
+Redirect to [Carach Angren](../C/Carach_Angren.md).

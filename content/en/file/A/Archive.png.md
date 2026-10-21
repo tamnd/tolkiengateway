@@ -1,6 +1,5 @@
 ---
 title: "File:Archive.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Archive.png</span>"
 page_id: 12871
 namespace: 6
 revision_id: 247693

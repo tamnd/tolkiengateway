@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Enterprises/Copyrights"
 ---
 
-Redirect to [Middle-earth Enterprises/Copyrights](/wiki/Middle-earth_Enterprises/Copyrights).
+Redirect to [Middle-earth Enterprises/Copyrights](../M/Middle-earth_Enterprises%252FCopyrights.md).

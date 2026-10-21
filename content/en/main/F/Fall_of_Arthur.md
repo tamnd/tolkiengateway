@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Arthur"
 ---
 
-Redirect to [The Fall of Arthur](/wiki/The_Fall_of_Arthur).
+Redirect to [The Fall of Arthur](../T/The_Fall_of_Arthur.md).

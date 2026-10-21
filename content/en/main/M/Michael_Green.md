@@ -1,6 +1,5 @@
 ---
 title: "Michael Green"
-display_title: "<span class=\"mw-page-title-main\">Michael Green</span>"
 page_id: 25661
 namespace: 0
 revision_id: 249290
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Green, Michael"
 ---
 
-**Michael Green** is an American artist. In the late 1970s, his illustrations inspired by *The Lord of the Rings* were published in *[The Tolkien Scrapbook](/wiki/The_Tolkien_Scrapbook)*, *[A Hobbit's Travels](/wiki/A_Hobbit%27s_Travels)*, *[A Hobbit's Journal](/wiki/A_Hobbit%27s_Journal)* and *[A Walk Through the Shire](/wiki/A_Walk_Through_the_Shire)*, all published by the Running Press Book Publishers.
+**Michael Green** is an American artist. In the late 1970s, his illustrations inspired by *The Lord of the Rings* were published in *[The Tolkien Scrapbook](../T/The_Tolkien_Scrapbook.md)*, *[A Hobbit's Travels](../A/A_Hobbit's_Travels.md)*, *[A Hobbit's Journal](../A/A_Hobbit's_Journal.md)* and *[A Walk Through the Shire](../A/A_Walk_Through_the_Shire.md)*, all published by the Running Press Book Publishers.
 
 ## External links {#External_links}
 

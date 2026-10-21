@@ -1,6 +1,5 @@
 ---
 title: "File:Angelo Montanini - Gloin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angelo Montanini - Gloin.jpg</span>"
 page_id: 7923
 namespace: 6
 revision_id: 204878

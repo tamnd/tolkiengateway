@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The End of Bovadium"
 ---
 
-Redirect to [The End of Bovadium](/wiki/The_End_of_Bovadium).
+Redirect to [The End of Bovadium](../T/The_End_of_Bovadium.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Risk: The Lord of the Rings: Gondor and Mordor"
 ---
 
-Redirect to [Risk: The Lord of the Rings: Gondor and Mordor](/wiki/Risk:_The_Lord_of_the_Rings:_Gondor_and_Mordor).
+Redirect to [Risk: The Lord of the Rings: Gondor and Mordor](Risk%253A_The_Lord_of_the_Rings%253A_Gondor_and_Mordor.md).

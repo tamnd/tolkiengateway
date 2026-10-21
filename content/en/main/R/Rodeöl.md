@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galvorn"
 ---
 
-Redirect to [Galvorn](/wiki/Galvorn).
+Redirect to [Galvorn](../G/Galvorn.md).

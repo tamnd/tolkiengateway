@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Walking Song"
 ---
 
-Redirect to [A Walking Song](/wiki/A_Walking_Song).
+Redirect to [A Walking Song](../A/A_Walking_Song.md).

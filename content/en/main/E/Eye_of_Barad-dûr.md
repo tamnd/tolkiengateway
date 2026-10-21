@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eye of Sauron"
 ---
 
-Redirect to [Eye of Sauron](/wiki/Eye_of_Sauron).
+Redirect to [Eye of Sauron](Eye_of_Sauron.md).

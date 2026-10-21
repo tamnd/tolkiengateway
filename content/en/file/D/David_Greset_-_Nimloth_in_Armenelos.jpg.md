@@ -1,6 +1,5 @@
 ---
 title: "File:David Greset - Nimloth in Armenelos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David Greset - Nimloth in Armenelos.jpg</span>"
 page_id: 65483
 namespace: 6
 revision_id: 377025
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David Greset</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/gresetdavid" rel="noreferrer noopener" target="_blank">David Greset on ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_Greset" title="Tolkien Gateway:Copyrights/David Greset">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_Greset.md" title="Tolkien Gateway:Copyrights/David Greset">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Åke Bertenstam"
 ---
 
-Redirect to [Åke Bertenstam](/wiki/Åke_Bertenstam).
+Redirect to [Åke Bertenstam](../_/Åke_Bertenstam.md).

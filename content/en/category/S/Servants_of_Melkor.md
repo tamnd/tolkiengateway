@@ -1,6 +1,5 @@
 ---
 title: "Category:Servants of Melkor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Servants of Melkor</span>"
 page_id: 24766
 namespace: 14
 revision_id: 189799
@@ -13,4 +12,4 @@ categories:
   - "Evil"
 ---
 
-Servants and slaves of [Melkor](/wiki/Morgoth "Morgoth"). Though evil in [Arda](/wiki/Arda) comes from Melkor, this category should be for characters who intentionally serve or are specifically enslaved by him.
+Servants and slaves of [Melkor](../../main/M/Morgoth.md). Though evil in [Arda](../../main/A/Arda.md) comes from Melkor, this category should be for characters who intentionally serve or are specifically enslaved by him.

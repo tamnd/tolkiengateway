@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Wilkinson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Wilkinson.jpg</span>"
 page_id: 8326
 namespace: 6
 revision_id: 247534

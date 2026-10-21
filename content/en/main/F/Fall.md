@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall (disambiguation)"
 ---
 
-Redirect to [The Fall (disambiguation)](/wiki/The_Fall_(disambiguation)).
+Redirect to [The Fall (disambiguation)](<../T/The_Fall_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Golem (cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Golem (cover).jpg</span>"
 page_id: 28408
 namespace: 6
 revision_id: 214750

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nolondil"
 ---
 
-Redirect to [Nolondil](/wiki/Nolondil).
+Redirect to [Nolondil](../N/Nolondil.md).

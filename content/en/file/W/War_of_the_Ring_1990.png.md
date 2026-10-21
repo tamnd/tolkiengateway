@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Ring 1990.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Ring 1990.png</span>"
 page_id: 62162
 namespace: 6
 revision_id: 350943

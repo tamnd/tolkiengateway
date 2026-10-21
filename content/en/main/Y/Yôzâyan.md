@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andor"
 ---
 
-Redirect to [Andor](/wiki/Andor).
+Redirect to [Andor](../A/Andor.md).

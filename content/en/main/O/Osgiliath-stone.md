@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master Stone of Osgiliath"
 ---
 
-Redirect to [Master Stone of Osgiliath](/wiki/Master_Stone_of_Osgiliath).
+Redirect to [Master Stone of Osgiliath](../M/Master_Stone_of_Osgiliath.md).

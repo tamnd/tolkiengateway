@@ -11,4 +11,4 @@ redirect_target: "Berúthiel"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Berúthiel](/wiki/Berúthiel#Other_versions_of_the_legendarium).
+Redirect to [Berúthiel](../B/Berúthiel.md#Other_versions_of_the_legendarium).

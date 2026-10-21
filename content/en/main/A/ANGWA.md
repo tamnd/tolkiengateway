@@ -1,6 +1,5 @@
 ---
 title: "ANGWA"
-display_title: "<span class=\"mw-page-title-main\">ANGWA</span>"
 page_id: 30462
 namespace: 0
 revision_id: 440045
@@ -13,22 +12,22 @@ categories:
   - "Roots"
 ---
 
-**ANGWA** or **ANGU** are [Elvish](/wiki/Elvish) [roots](/wiki/Sundocarme "Sundocarme") signifying "snake".<sup id="cite_ref-LR349_1-0" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup>
+**ANGWA** or **ANGU** are [Elvish](../E/Elvish.md) [roots](../S/Sundocarme.md) signifying "snake".<sup id="cite_ref-LR349_1-0" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup>
 
-- [Quenya](/wiki/Quenya): *[ango](/wiki/Ango "Ango")*;<sup id="cite_ref-LR349_1-1" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup> *[angulóke](/wiki/Angul%C3%B3ke "Angulóke")* ("dragon")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Noldorin](/wiki/Noldorin) ([Sindarin](/wiki/Sindarin)): *am-* (as in *[amlug](/wiki/Amlug "Amlug")*, "dragon")<sup id="cite_ref-LR349_1-2" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *[ango](Ango.md)*;<sup id="cite_ref-LR349_1-1" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup> *[angulóke](Angulóke.md)* ("dragon")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *am-* (as in *[amlug](Amlug.md)*, "dragon")<sup id="cite_ref-LR349_1-2" class="reference"><a href="#cite_note-LR349-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=LOK&amp;action=edit&amp;redlink=1" title="LOK (page does not exist)">LOK</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=LOK&amp;action=edit&amp;redlink=1" title="LOK (page does not exist)">LOK</a>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR349-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR349_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR349_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR349_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 349</span>
+<li id="cite_note-LR349-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR349_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR349_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR349_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 349</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 370</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 370</span>
 </li>
 </ol></div>

@@ -13,17 +13,17 @@ categories:
   - "Quenya nouns"
 ---
 
-**samna** in [Quenya](/wiki/Quenya) means "wooden post".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**samna** in [Quenya](../Q/Quenya.md) means "wooden post".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Earlier *thamna* from [PQ](/wiki/PQ) \**stabnâ* ([Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>)
+Earlier *thamna* from [PQ](../P/PQ.md) \**stabnâ* ([Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STAB&amp;action=edit&amp;redlink=1" title="STAB (page does not exist)">STAB</a>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, <b>STAB-</b></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, <b>STAB-</b></span>
 </li>
 </ol></div>

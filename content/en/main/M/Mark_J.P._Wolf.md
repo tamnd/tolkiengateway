@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mark Wolf"
 ---
 
-Redirect to [Mark Wolf](/wiki/Mark_Wolf).
+Redirect to [Mark Wolf](Mark_Wolf.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jørn Benzon"
 ---
 
-Redirect to [Jørn Benzon](/wiki/Jørn_Benzon).
+Redirect to [Jørn Benzon](Jørn_Benzon.md).

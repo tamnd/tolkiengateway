@@ -1,6 +1,5 @@
 ---
 title: "Writings by year (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Writings by year (disambiguation)</span>"
 page_id: 26581
 namespace: 0
 revision_id: 404941
@@ -15,20 +14,20 @@ images:
   - "Disambig.png"
 ---
 
-On Tolkien Gateway, there are several chronological bibliographies of works by or related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+On Tolkien Gateway, there are several chronological bibliographies of works by or related to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-- **[Writings by J.R.R. Tolkien](/wiki/Index:Writings_by_J.R.R._Tolkien "Index:Writings by J.R.R. Tolkien")** (published writings by J.R.R. Tolkien)
-- **[Writings by year](/wiki/Index:Writings_by_year "Index:Writings by year")** (published writings relating to J.R.R. Tolkien)
+- **[Writings by J.R.R. Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md)** (published writings by J.R.R. Tolkien)
+- **[Writings by year](../../index/W/Writings_by_year.md)** (published writings relating to J.R.R. Tolkien)
 
-- **[Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")** (chronological list)
+- **[Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)** (chronological list)
 
-- **[Letters not published in "The Letters of J.R.R. Tolkien"](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22)** (chronological list including unpublished letters)
+- **[Letters not published in "The Letters of J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)** (chronological list including unpublished letters)
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Writings_by_year_(disambiguation)" title="Special:WhatLinksHere/:Writings by year (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Writings_by_year_(disambiguation)" title="Special:WhatLinksHere/:Writings by year (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

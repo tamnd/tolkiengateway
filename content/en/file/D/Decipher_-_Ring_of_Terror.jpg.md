@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Ring of Terror.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Ring of Terror.jpg</span>"
 page_id: 71092
 namespace: 6
 revision_id: 433701
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Ring of Terror](/wiki/Nine_Rings#Portrayals_in_adaptations "Nine Rings")
+The [Ring of Terror](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
 
 ## Licensing {#Licensing}
 

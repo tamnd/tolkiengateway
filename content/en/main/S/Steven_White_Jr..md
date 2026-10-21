@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Smeagol"
 ---
 
-Redirect to [User:Smeagol](/wiki/User:Smeagol).
+Redirect to [User:Smeagol](https://tolkiengateway.net/wiki/User:Smeagol).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Minas Tirith.jpg</span>"
 page_id: 64137
 namespace: 6
 revision_id: 366536
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The city of [Minas Tirith](/wiki/Minas_Tirith) as depicted from the outside in a scene from [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+The city of [Minas Tirith](../../main/M/Minas_Tirith.md) as depicted from the outside in a scene from [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

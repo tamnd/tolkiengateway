@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eorl"
 ---
 
-Redirect to [Eorl](/wiki/Eorl).
+Redirect to [Eorl](Eorl.md).

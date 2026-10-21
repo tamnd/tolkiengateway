@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings"
 ---
 
-Redirect to [Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings](/wiki/Following_Gandalf:_Epic_Battles_and_Moral_Victory_in_The_Lord_of_the_Rings).
+Redirect to [Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings](Following_Gandalf%253A_Epic_Battles_and_Moral_Victory_in_The_Lord_of_the_Rings.md).

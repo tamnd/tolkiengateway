@@ -1,6 +1,5 @@
 ---
 title: "Simon Chandler"
-display_title: "<span class=\"mw-page-title-main\">Simon Chandler</span>"
 page_id: 18836
 namespace: 0
 revision_id: 263602
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Chandler, Simon"
 ---
 
-**Simon Chandler** (born [1953](/wiki/1953)) is a British actor who played [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") in [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+**Simon Chandler** (born [1953](../_/1953.md)) is a British actor who played [Merry](../M/Meriadoc_Brandybuck.md) in [*The Lord of the Rings* (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

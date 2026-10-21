@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Pilla - Gandalf and Bilbo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Pilla - Gandalf and Bilbo.jpg</span>"
 page_id: 53634
 namespace: 6
 revision_id: 291870
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Daniel Pilla</li>
 <li><b>Website:</b> <a class="external text" href="http://danpilla.deviantart.com" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="http://www.facebook.com/danpillaart" rel="noreferrer noopener" target="_blank">Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Daniel_Pilla" title="Tolkien Gateway:Copyrights/Daniel Pilla">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDaniel_Pilla.md" title="Tolkien Gateway:Copyrights/Daniel Pilla">Permission for use on Tolkien Gateway</a></b></li></ul></div>

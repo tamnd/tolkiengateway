@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Great Tales Never End"
 ---
 
-Redirect to [The Great Tales Never End](/wiki/The_Great_Tales_Never_End).
+Redirect to [The Great Tales Never End](../T/The_Great_Tales_Never_End.md).

@@ -1,6 +1,5 @@
 ---
 title: "High (Band)"
-display_title: "<span class=\"mw-page-title-main\">High (Band)</span>"
 page_id: 70860
 namespace: 0
 revision_id: 433550
@@ -13,7 +12,7 @@ categories:
   - "Bands"
 ---
 
-**High** is a band from Calcutta, India. The band was formed in [1974](/wiki/1974) and officially disbanded in [1990](/wiki/1990) after Dilip, the main songwriter died. They have one album with Tolkien poems called the Tolkien Suite. They were heavily influenced by UK and USA pop and rock.
+**High** is a band from Calcutta, India. The band was formed in [1974](../_/1974.md) and officially disbanded in [1990](../_/1990.md) after Dilip, the main songwriter died. They have one album with Tolkien poems called the Tolkien Suite. They were heavily influenced by UK and USA pop and rock.
 
 ### Band Members {#Band_Members}
 

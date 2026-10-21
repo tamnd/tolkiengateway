@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of the Dead"
 ---
 
-Redirect to [King of the Dead](/wiki/King_of_the_Dead).
+Redirect to [King of the Dead](../K/King_of_the_Dead.md).

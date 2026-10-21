@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Zamîn"
 ---
 
-Redirect to [Zamîn](/wiki/Zamîn).
+Redirect to [Zamîn](Zamîn.md).

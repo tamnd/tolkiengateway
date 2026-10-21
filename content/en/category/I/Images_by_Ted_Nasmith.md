@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ted Nasmith"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ted Nasmith</span>"
 page_id: 6387
 namespace: 14
 revision_id: 182186
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Nasmith, Ted"
 ---
 
-This category lists all **images by [Ted Nasmith](/wiki/Ted_Nasmith)**.
+This category lists all **images by [Ted Nasmith](../../main/T/Ted_Nasmith.md)**.

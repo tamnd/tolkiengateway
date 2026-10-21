@@ -1,6 +1,5 @@
 ---
 title: "Victor Platt"
-display_title: "<span class=\"mw-page-title-main\">Victor Platt</span>"
 page_id: 22389
 namespace: 0
 revision_id: 295568
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Platt, Victor"
 ---
 
-**Victor Platt** (born **Victor William Elphick**, [10 October](/wiki/10_October) [1920](/wiki/1920) - [30 January](/wiki/30_January) [2017](/wiki/2017)) was a British actor. He played various stage roles and made guest appearances on television series. In the [1955](/wiki/1955) radio series *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*, he played [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee").
+**Victor Platt** (born **Victor William Elphick**, [10 October](../_/10_October.md) [1920](../_/1920.md) - [30 January](../_/30_January.md) [2017](../_/2017.md)) was a British actor. He played various stage roles and made guest appearances on television series. In the [1955](../_/1955.md) radio series *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, he played [Sam](../S/Samwise_Gamgee.md).
 
 ## External links {#External_links}
 

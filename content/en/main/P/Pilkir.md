@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pygmies"
 ---
 
-Redirect to [Pygmies](/wiki/Pygmies).
+Redirect to [Pygmies](Pygmies.md).

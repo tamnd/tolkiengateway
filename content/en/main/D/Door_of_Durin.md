@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doors of Durin"
 ---
 
-Redirect to [Doors of Durin](/wiki/Doors_of_Durin).
+Redirect to [Doors of Durin](Doors_of_Durin.md).

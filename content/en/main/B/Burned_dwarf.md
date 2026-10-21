@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burned Dwarves"
 ---
 
-Redirect to [Burned Dwarves](/wiki/Burned_Dwarves).
+Redirect to [Burned Dwarves](Burned_Dwarves.md).

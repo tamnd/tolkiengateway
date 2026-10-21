@@ -1,6 +1,5 @@
 ---
 title: "File:The Inklings handbook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Inklings handbook.jpg</span>"
 page_id: 48380
 namespace: 6
 revision_id: 258472

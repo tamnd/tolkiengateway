@@ -1,6 +1,5 @@
 ---
 title: "File:Sisam letter 1938.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sisam letter 1938.jpg</span>"
 page_id: 23882
 namespace: 6
 revision_id: 215118

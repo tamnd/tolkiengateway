@@ -1,6 +1,5 @@
 ---
 title: "File:Mikel Janin - Yavanna.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mikel Janin - Yavanna.jpg</span>"
 page_id: 17764
 namespace: 6
 revision_id: 206679
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mikel Janin</li>
 <li><b>Website:</b> <a class="external text" href="http://mikeljanin.daportfolio.com/" rel="noreferrer noopener" target="_blank">Mikel Janin&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mikel_Janin" title="Tolkien Gateway:Copyrights/Mikel Janin">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMikel_Janin.md" title="Tolkien Gateway:Copyrights/Mikel Janin">Permission for use on Tolkien Gateway</a></b></li></ul></div>

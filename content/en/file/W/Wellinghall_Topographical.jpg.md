@@ -1,6 +1,5 @@
 ---
 title: "File:Wellinghall Topographical.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wellinghall Topographical.jpg</span>"
 page_id: 71516
 namespace: 6
 revision_id: 426448
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Wellinghall](/wiki/Wellinghall) Topographical illustration from *[Ents of Fangorn](/wiki/Ents_of_Fangorn)*
+[Wellinghall](../../main/W/Wellinghall.md) Topographical illustration from *[Ents of Fangorn](../../main/E/Ents_of_Fangorn.md)*
 
 ## Licensing {#Licensing}
 

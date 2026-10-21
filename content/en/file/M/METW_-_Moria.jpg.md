@@ -1,6 +1,5 @@
 ---
 title: "File:METW - Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">METW - Moria.jpg</span>"
 page_id: 27130
 namespace: 6
 revision_id: 204630

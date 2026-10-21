@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Name Coventry"
 ---
 
-Redirect to [The Name Coventry](/wiki/The_Name_Coventry).
+Redirect to [The Name Coventry](../T/The_Name_Coventry.md).

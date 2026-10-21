@@ -1,6 +1,5 @@
 ---
 title: "File:Nils Ivar Agøy.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nils Ivar Agøy.png</span>"
 page_id: 36651
 namespace: 6
 revision_id: 173733
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photography of [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y).
+Photography of [Nils Ivar Agøy](../../main/N/Nils_Ivar_Agøy.md).
 
 ## Licensing {#Licensing}
 
@@ -32,4 +31,4 @@ Photography of [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y).
 <p>This work is copyrighted and owned by Nils Ivar Agøy. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Nils Ivar Agøy</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Nils_Ivar_Ag%C3%B8y" title="Tolkien Gateway:Copyrights/Nils Ivar Agøy">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNils_Ivar_Agøy.md" title="Tolkien Gateway:Copyrights/Nils Ivar Agøy">Permission for use on Tolkien Gateway</a></b></li></ul></div>

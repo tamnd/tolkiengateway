@@ -1,6 +1,5 @@
 ---
 title: "Category:Graves and tombs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Graves and tombs</span>"
 page_id: 39682
 namespace: 14
 revision_id: 195721

@@ -21,7 +21,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Der_Hobbit_(H%C3%B6rspiel)"
 ---
 
-<i><b>Der kleine Hobbit</b></i> (<a class="extiw" href="http://en.wikipedia.org/wiki/German_language" title="wikipedia:German language">German.</a> **The Little Hobbit**), later shortened to just <i><b>Der Hobbit</b></i>, was a <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">German</a> radio adaptation based on *[The Hobbit](/wiki/The_Hobbit)*. It first aired in late December [1980](/wiki/1980) as a four-part radio miniseries on German public radio broadcaster <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk).
+<i><b>Der kleine Hobbit</b></i> (<a class="extiw" href="http://en.wikipedia.org/wiki/German_language" title="wikipedia:German language">German.</a> **The Little Hobbit**), later shortened to just <i><b>Der Hobbit</b></i>, was a <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">German</a> radio adaptation based on *[The Hobbit](../T/The_Hobbit.md)*. It first aired in late December [1980](../_/1980.md) as a four-part radio miniseries on German public radio broadcaster <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk).
 
 The radio series had a relatively small cast, and used various accompanying incidental music and sound effects to create an atmospheric retelling of the novel. Each of the four episodes of the *Der Hobbit* radio miniseries had a runtime of about 55–60 minutes. The series was adapted for radio by Ingeborg Oehme-Tröndle and Heinz Dieter Köhler, and directed by Heinz Dieter Köhler. The music for the series was composed by Enno Dugend.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -38,12 +38,11 @@ The overall runtime of the series in the original radio version is 240 minutes. 
 
 ## Plot {#Plot}
 
-The series follows the storyline of *[The Hobbit](/wiki/The_Hobbit)* fairly closely.
+The series follows the storyline of *[The Hobbit](../T/The_Hobbit.md)* fairly closely.
 
 ## Cast {#Cast}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Role</th>
 <th>Actor
@@ -53,59 +52,59 @@ The series follows the storyline of *[The Hobbit](/wiki/The_Hobbit)* fairly clos
 <td>Martin Benrath
 </td></tr>
 <tr>
-<td><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a></td>
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
 <td>Horst Bollman
 </td></tr>
 <tr>
-<td><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></td>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></td>
 <td>Bernhard Minetti
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/Thorin_Oakenshield" title="Thorin Oakenshield">Thorin Oakenshield</a></td>
+<td><a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a></td>
 <td>Heinz Schlacht
 </td></tr>
 <tr>
-<td><a href="/wiki/Balin" title="Balin">Balin</a></td>
+<td><a href="../B/Balin.md" title="Balin">Balin</a></td>
 <td>Wolfgang Spier
 </td></tr>
 <tr>
-<td><a href="/wiki/Dwalin" title="Dwalin">Dwalin</a></td>
+<td><a href="Dwalin.md" title="Dwalin">Dwalin</a></td>
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
-<td><a href="/wiki/Gl%C3%B3in" title="Glóin">Glóin</a></td>
+<td><a href="../G/Glóin.md" title="Glóin">Glóin</a></td>
 <td>Herbert Weissbach
 </td></tr>
 <tr>
-<td><a href="/wiki/Bombur" title="Bombur">Bombur</a></td>
+<td><a href="../B/Bombur.md" title="Bombur">Bombur</a></td>
 <td>Herbert Grünbaum
 </td></tr>
 <tr>
-<td><a href="/wiki/Dori" title="Dori">Dori</a></td>
+<td><a href="Dori.md" title="Dori">Dori</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a href="/wiki/F%C3%ADli" title="Fíli">Fíli</a></td>
+<td><a href="../F/Fíli.md" title="Fíli">Fíli</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a href="/wiki/K%C3%ADli" title="Kíli">Kíli</a></td>
+<td><a href="../K/Kíli.md" title="Kíli">Kíli</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/William" title="William">William Huggins</a></td>
+<td><a class="mw-redirect" href="../W/William.md" title="William">William Huggins</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/Bert" title="Bert">Bert</a></td>
+<td><a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a class="mw-redirect mw-disambig" href="/wiki/Tom" title="Tom">Tom</a></td>
+<td><a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a></td>
 <td>Martin Hirthe
 </td></tr>
 <tr>
-<td><a href="/wiki/Elrond" title="Elrond">Elrond</a></td>
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a></td>
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
@@ -113,55 +112,55 @@ The series follows the storyline of *[The Hobbit](/wiki/The_Hobbit)* fairly clos
 <td>Uta Hallant <br/> Lieselotte Rau
 </td></tr>
 <tr>
-<td><a href="/wiki/Great_Goblin" title="Great Goblin">Great Goblin</a></td>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
-<td><a href="/wiki/Gollum" title="Gollum">Gollum</a></td>
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a></td>
 <td>Jürgen von Manger
 </td></tr>
 <tr>
-<td><a href="/wiki/Lord_of_the_Eagles" title="Lord of the Eagles">Lord of the Eagles</a></td>
+<td><a href="../L/Lord_of_the_Eagles.md" title="Lord of the Eagles">Lord of the Eagles</a></td>
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
-<td><a href="/wiki/Beorn" title="Beorn">Beorn</a></td>
+<td><a href="../B/Beorn.md" title="Beorn">Beorn</a></td>
 <td>Martin Hirthe
 </td></tr>
 <tr>
-<td><a href="/wiki/Spiders" title="Spiders">Mirkwood spiders</a></td>
+<td><a href="../S/Spiders.md" title="Spiders">Mirkwood spiders</a></td>
 <td>Uta Hallant <br/> Lieselotte Rau
 </td></tr>
 <tr>
-<td><a href="/wiki/Thranduil" title="Thranduil">The Elven-king</a></td>
+<td><a href="../T/Thranduil.md" title="Thranduil">The Elven-king</a></td>
 <td>Martin Hirthe
 </td></tr>
 <tr>
-<td><a href="/wiki/Galion" title="Galion">Galion</a></td>
+<td><a href="../G/Galion.md" title="Galion">Galion</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
-<td><a href="/wiki/Master_of_Lake-town" title="Master of Lake-town">Master of Lake-town</a></td>
+<td><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/Bard_the_Bowman" title="Bard the Bowman">Bard the Bowman</a></td>
+<td><a class="mw-redirect" href="../B/Bard_the_Bowman.md" title="Bard the Bowman">Bard the Bowman</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a href="/wiki/Smaug" title="Smaug">Smaug</a></td>
+<td><a href="../S/Smaug.md" title="Smaug">Smaug</a></td>
 <td>Benno Kusche
 </td></tr>
 <tr>
-<td><a href="/wiki/Ro%C3%A4c" title="Roäc">Roäc</a></td>
+<td><a href="../R/Roäc.md" title="Roäc">Roäc</a></td>
 <td>Friedrich W. Bauschulle
 </td></tr>
 <tr>
-<td><a href="/wiki/Chief_of_the_guards" title="Chief of the guards">Elven commander</a></td>
+<td><a href="../C/Chief_of_the_guards.md" title="Chief of the guards">Elven commander</a></td>
 <td>Rolf Schult
 </td></tr>
 <tr>
-<td><a href="/wiki/Captain_of_the_guard" title="Captain of the guard">A man</a></td>
+<td><a href="../C/Captain_of_the_guard.md" title="Captain of the guard">A man</a></td>
 <td>Heinz Theo Branding
 </td></tr></tbody></table>
 
@@ -171,11 +170,11 @@ Gollum was voiced by well-known German comedian Jürgen von Manger.
 
 The overall voice cast in this radio adaptation was fairly small, only consisting of 13 actors in total.
 
-[Bolg](/wiki/Bolg) and [Dáin Ironfoot](/wiki/D%C3%A1in_Ironfoot) do not have any lines in this radio adaptation.
+[Bolg](../B/Bolg.md) and [Dáin Ironfoot](Dáin_Ironfoot.md) do not have any lines in this radio adaptation.
 
 ## Credits {#Credits}
 
-- Based on the work by: [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+- Based on the work by: [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - Adapted by: Ingeborg Oehme-Tröndle, Heinz Dieter Köhler
 - Assistant director: Christoph Pragua
 - Directed by: Heinz Dieter Köhler
@@ -190,11 +189,11 @@ The music for the series was composed by Enno Dugend.<sup id="cite_ref-2" class=
 
 ### Adapted songs {#Adapted_songs}
 
-The play adapts [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold). The solemn singing of the dwarves and the instrumentation recall secular music of the Middle Ages and early modern era.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+The play adapts [Far over the misty mountains cold](../F/Far_over_the_misty_mountains_cold.md). The solemn singing of the dwarves and the instrumentation recall secular music of the Middle Ages and early modern era.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Translation {#Translation}
 
-To date, there are two published book translations of *The Hobbit* into German. The first, 1957 translation by [Walter Scherf](/wiki/Walter_Scherf), *Kleiner Hobbit und der grosse Zauberer* ("The Little Hobbit and the Great Wizard"), abbrievated to *Der kleine Hobbit* ("The Little Hobbit") since its second edition in 1967, and the second, 1997 translation by [Wolfgang Krege](/wiki/Wolfgang_Krege), *Der Hobbit oder Hin und zurück* ("The Hobbit or There and Back").
+To date, there are two published book translations of *The Hobbit* into German. The first, 1957 translation by [Walter Scherf](../W/Walter_Scherf.md), *Kleiner Hobbit und der grosse Zauberer* ("The Little Hobbit and the Great Wizard"), abbrievated to *Der kleine Hobbit* ("The Little Hobbit") since its second edition in 1967, and the second, 1997 translation by [Wolfgang Krege](../W/Wolfgang_Krege.md), *Der Hobbit oder Hin und zurück* ("The Hobbit or There and Back").
 
 Due to the era the *Der Hobbit* radio series was produced in, it used the terminology and some of the excerpts from the earlier translation by Scherf. The title of the radio series was also originally *Der kleine Hobbit*, for the sake of consistency with the then-in-use title of the first translation. The published editions of this adaptation from more recent decades have simplified the title to just *Der Hobbit*. This is the title that the radio series can be found under these days, for anyone looking to purchase a physical medium or digital copy of it.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -221,13 +220,13 @@ To date, this radio series has been commercially released on home media and for 
 </li>
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.randomhouse.de/Tontraeger/Der-Hobbit-Das-Hoerspiel-als-Vinyl-Edition/J-R-R-Tolkien/e442841.rhd" rel="noreferrer noopener" target="_blank">Vinyl Edition of the <i>Der Hobbit</i> radio series</a>. RandomHouse.de. Retrieved 7 June 2021.</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">The home media releases of the <i>Der Hobbit</i> radio series can be found under the ISBN codes <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/389584067X">ISBN 3-89584-067-X</a> / <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/3895841676">ISBN 3-89584-167-6</a> / <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/3844512182">ISBN 3-8445-1218-2</a>.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">The home media releases of the <i>Der Hobbit</i> radio series can be found under the ISBN codes <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/389584067X">ISBN 3-89584-067-X</a> / <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/3895841676">ISBN 3-89584-167-6</a> / <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/3844512182">ISBN 3-8445-1218-2</a>.</span>
 </li>
 </ol></div>
 
 ## See also {#See_also}
 
-- [*Der Herr der Ringe* (1992 German radio series)](</wiki/Der_Herr_der_Ringe_(1992_German_radio_series)> "Der Herr der Ringe (1992 German radio series)") - The 30 episode German radio series adaptation of [J. R. R. Tolkien](/wiki/J._R._R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* by SWR (Südwestrundfunk) and WDR (Westdeutscher Rundfunk), first aired January–April 1992.
+- [*Der Herr der Ringe* (1992 German radio series)](<Der_Herr_der_Ringe_(1992_German_radio_series).md>) - The 30 episode German radio series adaptation of [J. R. R. Tolkien](../J/J._R._R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* by SWR (Südwestrundfunk) and WDR (Westdeutscher Rundfunk), first aired January–April 1992.
 
 ## External links {#External_links}
 

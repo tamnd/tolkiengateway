@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Front Gate"
 ---
 
-Redirect to [Front Gate](/wiki/Front_Gate).
+Redirect to [Front Gate](../F/Front_Gate.md).

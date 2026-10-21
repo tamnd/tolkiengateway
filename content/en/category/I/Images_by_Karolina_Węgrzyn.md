@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Karolina Węgrzyn"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Karolina Węgrzyn</span>"
 page_id: 20912
 namespace: 14
 revision_id: 184559
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Wegrzyn, Karolina"
 ---
 
-This category lists all **images by [Karolina Węgrzyn](/wiki/User:Sirielle "User:Sirielle")**.
+This category lists all **images by [Karolina Węgrzyn](https://tolkiengateway.net/wiki/User:Sirielle)**.

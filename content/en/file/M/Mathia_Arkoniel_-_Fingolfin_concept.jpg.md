@@ -1,6 +1,5 @@
 ---
 title: "File:Mathia Arkoniel - Fingolfin concept.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mathia Arkoniel - Fingolfin concept.jpg</span>"
 page_id: 51460
 namespace: 6
 revision_id: 278758
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mathia Arkoniel</li>
 <li><b>Website:</b> <a class="external text" href="http://mathiaarkoniel.com/" rel="noreferrer noopener" target="_blank">Mathia Arkoniel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mathia_Arkoniel" title="Tolkien Gateway:Copyrights/Mathia Arkoniel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMathia_Arkoniel.md" title="Tolkien Gateway:Copyrights/Mathia Arkoniel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

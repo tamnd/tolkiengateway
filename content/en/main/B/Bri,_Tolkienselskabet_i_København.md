@@ -1,6 +1,5 @@
 ---
 title: "Bri, Tolkienselskabet i København"
-display_title: "<span class=\"mw-page-title-main\">Bri, Tolkienselskabet i København</span>"
 page_id: 27860
 namespace: 0
 revision_id: 404973
@@ -16,11 +15,11 @@ images:
   - "Bri.png"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Bri.png"><img src="/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Heraldic device of Bri</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/B/Bri.png.md"><img src="https://tolkiengateway.net/w/images/1/1b/Bri.png" decoding="async" loading="lazy" width="77" height="120" class="mw-file-element" data-file-width="77" data-file-height="120"/></a><figcaption>Heraldic device of Bri</figcaption></figure>
 
 **Bri, Tolkienselskabet i København** ("Bree, the Copenhagen Tolkien Society") is a Danish Tolkien Society.
 
-Bri was founded in [1996](/wiki/1996) as members of the [Imladris](/wiki/Imladris,_Danmarks_Tolkienforening "Imladris, Danmarks Tolkienforening") and the now extinct [Tolkiens Følge](/wiki/Tolkiens_F%C3%B8lge) felt that Denmark lacked a society where members came together for various Tolkien-related activities such as banquets, discussions and guilds.
+Bri was founded in [1996](../_/1996.md) as members of the [Imladris](../I/Imladris,_Danmarks_Tolkienforening.md) and the now extinct [Tolkiens Følge](../T/Tolkiens_Følge.md) felt that Denmark lacked a society where members came together for various Tolkien-related activities such as banquets, discussions and guilds.
 
 Bri has moved from its website to its Facebook page to capture activities.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -51,8 +50,6 @@ The Town Guild: The board of Bri.
 Bri published a magazine from 2011 - 2012 in Danish called <i><a class="external text" href="http://www.bri.dk/Biblioteket/Pipeurten/Pipeurten.html" rel="noreferrer noopener" target="_blank">Pipeurten</a></i> ("Pipeweed").
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Template:Legend"
 ---
 
-Redirect to [Template:Legend](/wiki/Template:Legend).
+Redirect to [Template:Legend](https://tolkiengateway.net/wiki/Template:Legend).

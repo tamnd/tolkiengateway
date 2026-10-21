@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Guthláf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Guthláf.png</span>"
 page_id: 41942
 namespace: 6
 revision_id: 427601
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of Guthláf from [Decipher](/wiki/Decipher)'s *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)*.
+Image of Guthláf from [Decipher](../../main/D/Decipher.md)'s *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)*.
 
 ## Licensing {#Licensing}
 

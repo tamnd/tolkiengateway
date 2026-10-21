@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgul-knife"
 ---
 
-Redirect to [Morgul-knife](/wiki/Morgul-knife).
+Redirect to [Morgul-knife](Morgul-knife.md).

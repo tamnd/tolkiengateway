@@ -1,6 +1,5 @@
 ---
 title: "File:Leo Woodall.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leo Woodall.png</span>"
 page_id: 74239
 namespace: 6
 revision_id: 437509
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Leo Woodall.png</span></th>
 <td class="description">
-<p><a href="/wiki/Leo_Woodall" title="Leo Woodall">Leo Woodall</a>
+<p><a href="../../main/L/Leo_Woodall.md" title="Leo Woodall">Leo Woodall</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/20_January" title="20 January">January 20</a>, <a href="/wiki/2024" title="2024">2024</a></td>
+<td><a href="../../main/_/20_January.md" title="20 January">January 20</a>, <a href="../../main/_/2024.md" title="2024">2024</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://commons.wikimedia.org/wiki/File:Leo_Woodall_2024_Emmys_04.png" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/File:Leo_Woodall_2024_Emmys_04.png</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">

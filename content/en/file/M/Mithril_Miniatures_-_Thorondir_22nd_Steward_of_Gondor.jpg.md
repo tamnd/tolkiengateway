@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Thorondir 22nd Steward of Gondor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Thorondir 22nd Steward of Gondor.jpg</span>"
 page_id: 71205
 namespace: 6
 revision_id: 424901
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thorondir](/wiki/Thorondir), 22nd [Steward of Gondor](/wiki/Steward_of_Gondor) - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+[Thorondir](../../main/T/Thorondir.md), 22nd [Steward of Gondor](../../main/S/Steward_of_Gondor.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>The 22nd ruling steward of Gondor, Thorondir was the son of Belecthor II in whose reign the white tree died in Minas Tirith. During his reign of 30 years the Haradrim in the south were visited by emissaries of the Dark lord, though their depredations upon Harondor did not start until the reign of Thorondir’s son, Turin II.<br/>
@@ -38,7 +37,7 @@ This is the 106th release in the Gold Status Fellowship club and was June 2014&#
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

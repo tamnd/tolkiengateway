@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stefan Meisl"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stefan Meisl</span>"
 page_id: 49475
 namespace: 14
 revision_id: 264648

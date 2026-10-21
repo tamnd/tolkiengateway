@@ -1,6 +1,5 @@
 ---
 title: "Interviews/Diana Glyer (4-16-07)"
-display_title: "<span class=\"mw-page-title-main\">Interviews/Diana Glyer (4-16-07)</span>"
 page_id: 15267
 namespace: 0
 revision_id: 405970
@@ -13,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd>The below article is of a chat session with <a href="/wiki/Diana_Glyer" title="Diana Glyer">Diana Glyer</a> on April 16th, <a href="/wiki/2007" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
+<dl><dd>The below article is of a chat session with <a href="../D/Diana_Glyer.md" title="Diana Glyer">Diana Glyer</a> on April 16th, <a href="../_/2007.md" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
 
 <br>
 

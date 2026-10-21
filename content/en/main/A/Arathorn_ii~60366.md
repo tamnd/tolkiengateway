@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arathorn II"
 ---
 
-Redirect to [Arathorn II](/wiki/Arathorn_II).
+Redirect to [Arathorn II](Arathorn_II.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Rohan Swordsman.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Rohan Swordsman.png</span>"
 page_id: 73302
 namespace: 6
 revision_id: 433543
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rohan](/wiki/Rohan) Swordsman - [LEGO](/wiki/Lego "Lego") microfigure. Source: <a class="external text" href="https://brickset.com/minifigs/85863pb111/microfigure-lord-of-the-rings-eowyn" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Rohan](../../main/R/Rohan.md) Swordsman - [LEGO](../../main/L/Lego.md) microfigure. Source: <a class="external text" href="https://brickset.com/minifigs/85863pb111/microfigure-lord-of-the-rings-eowyn" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Kirstin Jeffrey Johnson"
-display_title: "<span class=\"mw-page-title-main\">Kirstin Jeffrey Johnson</span>"
 page_id: 42151
 namespace: 0
 revision_id: 384851
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Johnson, Kirstin Jeffrey"
 ---
 
-**Dr. Kirstin Jeffrey Johnson** is a [George MacDonald](/wiki/George_MacDonald) scholar, and a free-lance writer and lecturer based in the Ottawa Valley, Canada. Her doctoral studies (Institute for Theology, Imagination and the Arts, University of St Andrews) considered the concept of Mythopoesis / Mythopoeia as defined by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") and [Lewis](/wiki/C.S._Lewis "C.S. Lewis"), and as attributed to [George MacDonald](/wiki/George_MacDonald) – how and why MacDonald earned their acknowledgment as a great mythopoeic writer, and MacDonald’s own mythopoeic intent. Her writings include studies of the work of Tolkien, Lewis, MacDonald, [Charles Williams](/wiki/Charles_Williams), and [Owen Barfield](/wiki/Owen_Barfield).
+**Dr. Kirstin Jeffrey Johnson** is a [George MacDonald](../G/George_MacDonald.md) scholar, and a free-lance writer and lecturer based in the Ottawa Valley, Canada. Her doctoral studies (Institute for Theology, Imagination and the Arts, University of St Andrews) considered the concept of Mythopoesis / Mythopoeia as defined by [Tolkien](../J/J.R.R._Tolkien.md) and [Lewis](../C/C.S._Lewis.md), and as attributed to [George MacDonald](../G/George_MacDonald.md) – how and why MacDonald earned their acknowledgment as a great mythopoeic writer, and MacDonald’s own mythopoeic intent. Her writings include studies of the work of Tolkien, Lewis, MacDonald, [Charles Williams](../C/Charles_Williams.md), and [Owen Barfield](../O/Owen_Barfield.md).
 
 <br>
 

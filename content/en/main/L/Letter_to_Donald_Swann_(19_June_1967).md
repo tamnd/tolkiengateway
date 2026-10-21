@@ -1,6 +1,5 @@
 ---
 title: "Letter to Donald Swann (19 June 1967)"
-display_title: "<span class=\"mw-page-title-main\">Letter to Donald Swann (19 June 1967)</span>"
 page_id: 66909
 namespace: 0
 revision_id: 387960
@@ -15,7 +14,7 @@ sort_keys:
   "Letters": "Swann, Donald (1967-06-19)"
 ---
 
-On [19 June](/wiki/19_June) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Donald Swann](/wiki/Donald_Swann)**.
+On [19 June](../_/19_June.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Donald Swann](../D/Donald_Swann.md)**.
 
 - **Subject:** Tolkien thanks Swann for the book cover and compares the "t" rendered there to various occurrences from genuine manuscripts.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Archive:** Wade Center Archives<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -25,8 +24,8 @@ On [19 June](/wiki/19_June) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki/J.R.R._To
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/guide/letters/978" rel="noreferrer noopener" target="_blank">&#34;TCG Letter #978&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 17 March 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/guide/letters/978" rel="noreferrer noopener" target="_blank">&#34;TCG Letter #978&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 17 March 2024</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.wheaton.edu/media/wade-center/files/collections/letter-listings/JRRT_Papers_20220909.pdf" rel="noreferrer noopener" target="_blank">&#34;The J.R.R. Tolkien Papers&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.wheaton.edu/" rel="noreferrer noopener" target="_blank">Wheaton.edu</a></span>. <span class="cite-web-accessed">Retrieved 17 March 2024</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.wheaton.edu/media/wade-center/files/collections/letter-listings/JRRT_Papers_20220909.pdf" rel="noreferrer noopener" target="_blank">&#34;The J.R.R. Tolkien Papers&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.wheaton.edu/" rel="noreferrer noopener" target="_blank">Wheaton.edu</a></span>. <span class="cite-web-accessed">Retrieved 17 March 2024</span></cite></span>
 </li>
 </ol></div>

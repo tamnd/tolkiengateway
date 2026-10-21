@@ -13,15 +13,15 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>anwa</b></i> is [Quenya](/wiki/Quenya) meaning "real, actual, true".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The word is derived from the [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") <a href="/wiki/ANA" title="ANA">ANA<sup>2</sup></a>. Compare the near-synonym *[nanwa](/wiki/Nanwa "Nanwa")*.
+<i><b>anwa</b></i> is [Quenya](../Q/Quenya.md) meaning "real, actual, true".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The word is derived from the [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) <a href="ANA.md" title="ANA">ANA<sup>2</sup></a>. Compare the near-synonym *[nanwa](../N/Nanwa.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Although not given a language designation in <i><a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a></i>, <i>anwa</i> is glossed as a Quenya word in <a class="external text" href="http://folk.uib.no/hnohf/wordlists.htm" rel="noreferrer noopener" target="_blank">Quettaparma Quenyallo (Quenya Wordlists)</a> (accessed 29 November 2010)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Although not given a language designation in <i><a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a></i>, <i>anwa</i> is glossed as a Quenya word in <a class="external text" href="http://folk.uib.no/hnohf/wordlists.htm" rel="noreferrer noopener" target="_blank">Quettaparma Quenyallo (Quenya Wordlists)</a> (accessed 29 November 2010)</span>
 </li>
 </ol></div>

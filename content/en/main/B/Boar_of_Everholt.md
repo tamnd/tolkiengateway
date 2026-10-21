@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great boar of Everholt"
 ---
 
-Redirect to [Great boar of Everholt](/wiki/Great_boar_of_Everholt).
+Redirect to [Great boar of Everholt](../G/Great_boar_of_Everholt.md).

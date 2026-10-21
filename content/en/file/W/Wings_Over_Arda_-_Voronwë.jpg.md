@@ -1,6 +1,5 @@
 ---
 title: "File:Wings Over Arda - Voronwë.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wings Over Arda - Voronwë.jpg</span>"
 page_id: 30516
 namespace: 6
 revision_id: 260553

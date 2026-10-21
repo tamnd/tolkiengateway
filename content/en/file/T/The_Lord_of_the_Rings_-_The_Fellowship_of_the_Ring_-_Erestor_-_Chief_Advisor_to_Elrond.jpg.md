@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Erestor - Chief Advisor to Elrond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Erestor - Chief Advisor to Elrond.jpg</span>"
 page_id: 17113
 namespace: 6
 revision_id: 436319
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Jonathan Harding was an extra for [Erestor](/wiki/Erestor) in [The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring). Later he posed for a [Decipher](/wiki/Decipher) card game image.
+Jonathan Harding was an extra for [Erestor](../../main/E/Erestor.md) in [The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md). Later he posed for a [Decipher](../../main/D/Decipher.md) card game image.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Geoff Taylor - The Two Towers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Geoff Taylor - The Two Towers.jpg</span>"
 page_id: 8803
 namespace: 6
 revision_id: 206826
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Geoff Taylor</li>
 <li><b>Website:</b> <a class="external text" href="http://www.geofftaylor-artist.com/" rel="noreferrer noopener" target="_blank">Geoff Taylor&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Geoff_Taylor" title="Tolkien Gateway:Copyrights/Geoff Taylor">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGeoff_Taylor.md" title="Tolkien Gateway:Copyrights/Geoff Taylor">Permission for use on Tolkien Gateway</a></b></li></ul></div>

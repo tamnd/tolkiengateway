@@ -1,6 +1,5 @@
 ---
 title: "File:David Bratman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David Bratman.jpg</span>"
 page_id: 28338
 namespace: 6
 revision_id: 186474
@@ -29,4 +28,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David Bratman</li>
 <li><b>Website:</b> <a class="external text" href="http://home.earthlink.net/~dbratman/" rel="noreferrer noopener" target="_blank">Earthlink, David Bratman</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_Bratman" title="Tolkien Gateway:Copyrights/David Bratman">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_Bratman.md" title="Tolkien Gateway:Copyrights/David Bratman">Permission for use on Tolkien Gateway</a></b></li></ul></div>

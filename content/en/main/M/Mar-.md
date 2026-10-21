@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mar"
 ---
 
-Redirect to [Mar](/wiki/Mar).
+Redirect to [Mar](Mar.md).

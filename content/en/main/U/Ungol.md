@@ -11,4 +11,4 @@ redirect_target: "Spiders"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Spiders](/wiki/Spiders#Names).
+Redirect to [Spiders](../S/Spiders.md#Names).

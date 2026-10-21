@@ -1,6 +1,5 @@
 ---
 title: "Category:Swiss businesses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Swiss businesses</span>"
 page_id: 38708
 namespace: 14
 revision_id: 190195

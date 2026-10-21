@@ -1,6 +1,5 @@
 ---
 title: "File:Bloemfontein 1900.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bloemfontein 1900.jpg</span>"
 page_id: 34658
 namespace: 6
 revision_id: 219994
@@ -24,7 +23,7 @@ file:
   user: "Amroth"
 ---
 
-[Bloemfontein](/wiki/Bloemfontein) in [1900](/wiki/1900).
+[Bloemfontein](../../main/B/Bloemfontein.md) in [1900](../../main/_/1900.md).
 
 ## Licensing {#Licensing}
 

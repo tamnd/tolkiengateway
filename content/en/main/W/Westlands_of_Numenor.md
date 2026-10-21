@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andustar"
 ---
 
-Redirect to [Andustar](/wiki/Andustar).
+Redirect to [Andustar](../A/Andustar.md).

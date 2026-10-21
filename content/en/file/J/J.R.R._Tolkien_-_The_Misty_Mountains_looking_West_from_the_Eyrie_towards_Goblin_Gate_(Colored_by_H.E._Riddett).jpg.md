@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate (Colored by H.E. Riddett).jpg</span>"
 page_id: 5474
 namespace: 6
 revision_id: 425989
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The original black and white version was drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and this version is colored by [H.E. Riddett](/wiki/H.E._Riddett) for The J.R.R. Tolkien Calendar 1976, and has been used in some illustrated editions of the book.
+The original black and white version was drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and this version is colored by [H.E. Riddett](../../main/H/H.E._Riddett.md) for The J.R.R. Tolkien Calendar 1976, and has been used in some illustrated editions of the book.
 
 ## Licensing {#Licensing}
 

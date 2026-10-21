@@ -1,6 +1,5 @@
 ---
 title: "File:Gabrielle Portal - Hope Rekindled.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gabrielle Portal - Hope Rekindled.jpg</span>"
 page_id: 73424
 namespace: 6
 revision_id: 434082
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Hope Rekindled](/wiki/Out_of_doubt,_out_of_dark,_to_the_day%E2%80%99s_rising "Out of doubt, out of dark, to the day’s rising")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Across the Ettenmoors* illustration by <a class="new" href="/w/index.php?title=Gabrielle_Portal&amp;action=edit&amp;redlink=1" title="Gabrielle Portal (page does not exist)">Gabrielle Portal</a>
+"[Hope Rekindled](../../main/O/Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Across the Ettenmoors* illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gabrielle_Portal&amp;action=edit&amp;redlink=1" title="Gabrielle Portal (page does not exist)">Gabrielle Portal</a>
 
 ## Licensing {#Licensing}
 

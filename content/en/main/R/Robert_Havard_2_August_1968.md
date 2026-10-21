@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Robert Havard"
 ---
 
-Redirect to [Letter to Robert Havard](/wiki/Letter_to_Robert_Havard).
+Redirect to [Letter to Robert Havard](../L/Letter_to_Robert_Havard.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Lída Holubová - The House of Eorl - Freawine.jpg"
 ---
 
-Redirect to [File:Lída Holubová - The House of Eorl - Freawine.jpg](/wiki/File:Lída_Holubová_-_The_House_of_Eorl_-_Freawine.jpg).
+Redirect to [File:Lída Holubová - The House of Eorl - Freawine.jpg](Lída_Holubová_-_The_House_of_Eorl_-_Freawine.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orofarnë"
 ---
 
-Redirect to [Orofarnë](/wiki/Orofarnë).
+Redirect to [Orofarnë](Orofarnë.md).

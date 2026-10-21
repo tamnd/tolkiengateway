@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haysend"
 ---
 
-Redirect to [Haysend](/wiki/Haysend).
+Redirect to [Haysend](Haysend.md).

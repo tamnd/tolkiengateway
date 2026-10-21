@@ -1,6 +1,5 @@
 ---
 title: "File:Jeremy Bennett - Durin's Tower.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeremy Bennett - Durin&#039;s Tower.jpg</span>"
 page_id: 12341
 namespace: 6
 revision_id: 207150

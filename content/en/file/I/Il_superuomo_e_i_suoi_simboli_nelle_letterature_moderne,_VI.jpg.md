@@ -1,6 +1,5 @@
 ---
 title: "File:Il superuomo e i suoi simboli nelle letterature moderne, VI.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Il superuomo e i suoi simboli nelle letterature moderne, VI.jpg</span>"
 page_id: 26110
 namespace: 6
 revision_id: 214223

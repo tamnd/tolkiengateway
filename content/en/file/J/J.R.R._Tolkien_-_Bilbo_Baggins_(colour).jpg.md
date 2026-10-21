@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bilbo Baggins (colour).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bilbo Baggins (colour).jpg</span>"
 page_id: 29365
 namespace: 6
 revision_id: 205184
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), excerpt from "The Hall at Bag-End, Residence of B. Baggins Esquire" (Colored by H.E. Riddett)
+Illustration by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), excerpt from "The Hall at Bag-End, Residence of B. Baggins Esquire" (Colored by H.E. Riddett)
 
 ## Licensing {#Licensing}
 

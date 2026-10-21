@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "PED"
 ---
 
-Redirect to [PED](/wiki/PED).
+Redirect to [PED](PED.md).

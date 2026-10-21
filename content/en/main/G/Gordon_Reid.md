@@ -1,6 +1,5 @@
 ---
 title: "Gordon Reid"
-display_title: "<span class=\"mw-page-title-main\">Gordon Reid</span>"
 page_id: 19217
 namespace: 0
 revision_id: 417606
@@ -22,7 +21,7 @@ sort_keys:
   "People by name": "Reid, Gordon"
 ---
 
-**Gordon Reid** ([September 6](/wiki/6_September "6 September"), [1939](/wiki/1939) - [November 26](/wiki/26_November "26 November"), [2003](/wiki/2003)) provided the voice of [Sandyman](/wiki/Sandyman) in the [1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"), aired by the BBC. He also provided the voices of both [Snaga (orc of Isengard)](</wiki/Snaga_(orc_of_Isengard)>) and [Snaga (orc of Mordor)](</wiki/Snaga_(orc_of_Mordor)>).
+**Gordon Reid** ([September 6](../_/6_September.md), [1939](../_/1939.md) - [November 26](../_/26_November.md), [2003](../_/2003.md)) provided the voice of [Sandyman](../S/Sandyman.md) in the [1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), aired by the BBC. He also provided the voices of both [Snaga (orc of Isengard)](<../S/Snaga_(orc_of_Isengard).md>) and [Snaga (orc of Mordor)](<../S/Snaga_(orc_of_Mordor).md>).
 
 ## External links {#External_links}
 

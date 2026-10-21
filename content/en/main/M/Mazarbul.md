@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mazarbul (disambiguation)"
 ---
 
-Redirect to [Mazarbul (disambiguation)](/wiki/Mazarbul_(disambiguation)).
+Redirect to [Mazarbul (disambiguation)](<Mazarbul_(disambiguation).md>).

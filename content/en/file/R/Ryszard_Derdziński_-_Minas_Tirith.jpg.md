@@ -1,6 +1,5 @@
 ---
 title: "File:Ryszard Derdziński - Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ryszard Derdziński - Minas Tirith.jpg</span>"
 page_id: 8458
 namespace: 6
 revision_id: 361098
@@ -31,4 +30,4 @@ file:
 <p>This work is copyrighted and owned by Ryszard Derdziński. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Ryszard Derdziński</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ryszard_Derdzi%C5%84ski" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRyszard_Derdziński.md" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>

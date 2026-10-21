@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/MellorianJ"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/MellorianJ</span>"
 page_id: 58008
 namespace: 4
 revision_id: 322187
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "MellorianJ"
 ---
 
-- MellorianJ has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_MellorianJ "Category:Images by MellorianJ") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- MellorianJ has kindly granted her permission to use [her artwork](../../category/I/Images_by_MellorianJ.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 August 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

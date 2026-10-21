@@ -1,6 +1,5 @@
 ---
 title: "Charles Moorman"
-display_title: "<span class=\"mw-page-title-main\">Charles Moorman</span>"
 page_id: 39398
 namespace: 0
 revision_id: 405071
@@ -21,20 +20,20 @@ sort_keys:
   "People by name": "Moorman, Charles"
 ---
 
-**Charles W. Moorman III** ([1925](/wiki/1925) – [3 May](/wiki/3_May) [1996](/wiki/1996)) was an American author and academic. He worked at the Department of English at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Southern_Mississippi" title="wikipedia:University of Southern Mississippi">University of Southern Mississipi</a>, and wrote extensively on [Middle English](/wiki/Middle_English), Medieval Literature, the Arthurian Legends, and the [Inklings](/wiki/Inklings).
+**Charles W. Moorman III** ([1925](../_/1925.md) – [3 May](../_/3_May.md) [1996](../_/1996.md)) was an American author and academic. He worked at the Department of English at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Southern_Mississippi" title="wikipedia:University of Southern Mississippi">University of Southern Mississipi</a>, and wrote extensively on [Middle English](../M/Middle_English.md), Medieval Literature, the Arthurian Legends, and the [Inklings](../I/Inklings.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [1960](/wiki/1960): *Arthurian Triptych: Mythic Materials in Charles Williams, C.S. Lewis, and T.S. Eliot*
-- [1965](/wiki/1965): *[The Book of Kyng Arthur: The Unity of Malory's Morte Darthur](/wiki/The_Book_of_Kyng_Arthur "The Book of Kyng Arthur")*
+- [1960](../_/1960.md): *Arthurian Triptych: Mythic Materials in Charles Williams, C.S. Lewis, and T.S. Eliot*
+- [1965](../_/1965.md): *[The Book of Kyng Arthur: The Unity of Malory's Morte Darthur](../T/The_Book_of_Kyng_Arthur.md)*
 
 ### Articles {#Articles}
 
-- [1966](/wiki/1966): *The Precincts of Felicity: The Agustinian City of the Oxford Christians*
+- [1966](../_/1966.md): *The Precincts of Felicity: The Agustinian City of the Oxford Christians*
     - "The Shire, Mordor, and Minas Tirith" (pp. 86–100)
-- [1968](/wiki/1968): *[Tolkien and the Critics: Essays on J.R.R. Tolkien's The Lord of the Rings](/wiki/Tolkien_and_the_Critics "Tolkien and the Critics")*
+- [1968](../_/1968.md): *[Tolkien and the Critics: Essays on J.R.R. Tolkien's The Lord of the Rings](../T/Tolkien_and_the_Critics.md)*
     - "The Shire, Mordor, and Minas Tirith"
 
 ## External links {#External_links}

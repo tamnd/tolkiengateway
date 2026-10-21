@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and C.S. Lewis"
 ---
 
-Redirect to [Tolkien and C.S. Lewis](/wiki/Tolkien_and_C.S._Lewis).
+Redirect to [Tolkien and C.S. Lewis](Tolkien_and_C.S._Lewis.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Saruman at Orthanc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Saruman at Orthanc.jpg</span>"
 page_id: 71576
 namespace: 6
 revision_id: 426778
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Saruman](/wiki/Saruman) at [Orthanc](/wiki/Orthanc)" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1976 J.R.R. Tolkien Calendar](/wiki/1976_J.R.R._Tolkien_Calendar)
+"[Saruman](../../main/S/Saruman.md) at [Orthanc](../../main/O/Orthanc.md)" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1976 J.R.R. Tolkien Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

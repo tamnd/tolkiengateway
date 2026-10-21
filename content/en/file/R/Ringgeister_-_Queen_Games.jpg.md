@@ -1,6 +1,5 @@
 ---
 title: "File:Ringgeister - Queen Games.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ringgeister - Queen Games.jpg</span>"
 page_id: 74879
 namespace: 6
 revision_id: 440610
@@ -28,19 +27,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jo_Hartwig" title="Jo Hartwig">Jo Hartwig</a></td>
+<td><a href="../../main/J/Jo_Hartwig.md" title="Jo Hartwig">Jo Hartwig</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://boardgamegeek.com/image/1418260/ringgeister" rel="noreferrer noopener" target="_blank">https://boardgamegeek.com/image/1418260/ringgeister</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

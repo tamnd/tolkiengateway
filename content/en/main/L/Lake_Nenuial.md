@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lake Evendim"
 ---
 
-Redirect to [Lake Evendim](/wiki/Lake_Evendim).
+Redirect to [Lake Evendim](Lake_Evendim.md).

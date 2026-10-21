@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yuledays"
 ---
 
-Redirect to [Yuledays](/wiki/Yuledays).
+Redirect to [Yuledays](Yuledays.md).

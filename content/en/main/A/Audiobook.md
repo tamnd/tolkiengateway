@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Audiobooks"
 ---
 
-Redirect to [Audiobooks](/wiki/Audiobooks).
+Redirect to [Audiobooks](Audiobooks.md).

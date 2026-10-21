@@ -1,6 +1,5 @@
 ---
 title: "Susan Rule"
-display_title: "<span class=\"mw-page-title-main\">Susan Rule</span>"
 page_id: 47971
 namespace: 0
 revision_id: 255536
@@ -23,4 +22,4 @@ sort_keys:
   "Tolkien Society members": "Rule, Susan"
 ---
 
-**Susan Rule** is an author and member of [The Tolkien Society](/wiki/The_Tolkien_Society). She was editor of *[Quettar](/wiki/Quettar)*, and of *[Mallorn (journal)](</wiki/Mallorn_(journal)>)* from [1979](/wiki/1979) to [1981](/wiki/1981).
+**Susan Rule** is an author and member of [The Tolkien Society](../T/The_Tolkien_Society.md). She was editor of *[Quettar](../Q/Quettar.md)*, and of *[Mallorn (journal)](<../M/Mallorn_(journal).md>)* from [1979](../_/1979.md) to [1981](../_/1981.md).

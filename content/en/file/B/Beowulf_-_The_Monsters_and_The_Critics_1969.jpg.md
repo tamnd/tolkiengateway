@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf - The Monsters and The Critics 1969.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf - The Monsters and The Critics 1969.jpg</span>"
 page_id: 26545
 namespace: 6
 revision_id: 214160

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jenny Dolfen"
 ---
 
-Redirect to [Jenny Dolfen](/wiki/Jenny_Dolfen).
+Redirect to [Jenny Dolfen](Jenny_Dolfen.md).

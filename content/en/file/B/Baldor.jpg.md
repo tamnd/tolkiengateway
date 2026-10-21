@@ -1,6 +1,5 @@
 ---
 title: "File:Baldor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Baldor.jpg</span>"
 page_id: 29955
 namespace: 6
 revision_id: 441732
@@ -25,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-[Baldor](/wiki/Baldor)'s corpse. Interior illustration from the [MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing") book *[Erech and the Paths of the Dead](/wiki/Erech_and_the_Paths_of_the_Dead)*.
+[Baldor](../../main/B/Baldor.md)'s corpse. Interior illustration from the [MERP](../../main/M/Middle-earth_Role_Playing.md) book *[Erech and the Paths of the Dead](../../main/E/Erech_and_the_Paths_of_the_Dead.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

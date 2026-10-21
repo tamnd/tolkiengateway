@@ -1,6 +1,5 @@
 ---
 title: "File:There and Back Again The Map of Tolkien's The Hobbit.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">There and Back Again The Map of Tolkien&#039;s The Hobbit.jpg</span>"
 page_id: 35189
 namespace: 6
 revision_id: 214724

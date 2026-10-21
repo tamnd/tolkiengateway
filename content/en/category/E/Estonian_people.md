@@ -1,6 +1,5 @@
 ---
 title: "Category:Estonian people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Estonian people</span>"
 page_id: 27929
 namespace: 14
 revision_id: 166047

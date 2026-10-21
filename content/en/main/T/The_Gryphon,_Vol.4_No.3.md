@@ -1,6 +1,5 @@
 ---
 title: "The Gryphon, Vol.4 No.3"
-display_title: "<span class=\"mw-page-title-main\">The Gryphon, Vol.4 No.3</span>"
 page_id: 26555
 namespace: 0
 revision_id: 426215
@@ -16,19 +15,19 @@ sort_keys:
   "Magazines": "Gryphon Vol.4 No.3, The"
 ---
 
-<i><b>The Gryphon</b></i>, first established in [1897](/wiki/1897), was a magazine produced by the [University of Leeds](/wiki/University_of_Leeds). Several issues contain poems by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+<i><b>The Gryphon</b></i>, first established in [1897](../_/1897.md), was a magazine produced by the [University of Leeds](../U/University_of_Leeds.md). Several issues contain poems by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## December 1922 {#December_1922}
 
-Vol. 4. No. 3. Leeds University. This issue contains the poem *[The Clerkes Compleinte](/wiki/The_Clerkes_Compleinte)* (p. 95), signed N.N.,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> and written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Vol. 4. No. 3. Leeds University. This issue contains the poem *[The Clerkes Compleinte](The_Clerkes_Compleinte.md)* (p. 95), signed N.N.,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> and written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## January 1923 {#January_1923}
 
-Vol. 4. No. 4. Leeds University. This issue contains the poem *[Iúmonna Gold Galdre Bewunden](/wiki/The_Hoard "The Hoard")* (p. 130), written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Vol. 4. No. 4. Leeds University. This issue contains the poem *[Iúmonna Gold Galdre Bewunden](The_Hoard.md)* (p. 130), written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## June 1925 {#June_1925}
 
-New Series: Vol. 4. No. 6. Leeds University. This issue contains the poem *[Light as Leaf on Lindentree](/wiki/Light_as_Leaf_on_Lindentree)* (p. 217), written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+New Series: Vol. 4. No. 6. Leeds University. This issue contains the poem *[Light as Leaf on Lindentree](../L/Light_as_Leaf_on_Lindentree.md)* (p. 217), written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Notes {#Notes}
 

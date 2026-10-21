@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Experience Podcast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Experience Podcast.jpg</span>"
 page_id: 64827
 namespace: 6
 revision_id: 373434
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of <a class="new" href="/w/index.php?title=The_Tolkien_Experience_Podcast&amp;action=edit&amp;redlink=1" title="The Tolkien Experience Podcast (page does not exist)">The Tolkien Experience Podcast</a>.
+Logo of <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkien_Experience_Podcast&amp;action=edit&amp;redlink=1" title="The Tolkien Experience Podcast (page does not exist)">The Tolkien Experience Podcast</a>.
 
 ## Licensing {#Licensing}
 

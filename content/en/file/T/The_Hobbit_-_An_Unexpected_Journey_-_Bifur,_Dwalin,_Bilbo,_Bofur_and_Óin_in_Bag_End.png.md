@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Bifur, Dwalin, Bilbo, Bofur and Óin in Bag End.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Bifur, Dwalin, Bilbo, Bofur and Óin in Bag End.png</span>"
 page_id: 38169
 namespace: 6
 revision_id: 222512
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bifur](/wiki/Bifur), [Dwalin](/wiki/Dwalin), [Bilbo Baggins](/wiki/Bilbo_Baggins), [Bofur](/wiki/Bofur) and [Óin](/wiki/%C3%93in) in [Bag End](/wiki/Bag_End) in [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)").
+[Bifur](../../main/B/Bifur.md), [Dwalin](../../main/D/Dwalin.md), [Bilbo Baggins](../../main/B/Bilbo_Baggins.md), [Bofur](../../main/B/Bofur.md) and [Óin](../../main/_/Óin.md) in [Bag End](../../main/B/Bag_End.md) in [*The Hobbit* (film series)](<../../main/T/The_Hobbit_(film_series).md>).
 
 ## Licensing {#Licensing}
 

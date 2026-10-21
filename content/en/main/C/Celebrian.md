@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebrían"
 ---
 
-Redirect to [Celebrían](/wiki/Celebrían).
+Redirect to [Celebrían](Celebrían.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avathar"
 ---
 
-Redirect to [Avathar](/wiki/Avathar).
+Redirect to [Avathar](Avathar.md).

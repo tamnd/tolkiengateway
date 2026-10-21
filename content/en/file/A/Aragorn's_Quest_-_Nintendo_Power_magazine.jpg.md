@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Nintendo Power magazine.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Nintendo Power magazine.jpg</span>"
 page_id: 29083
 namespace: 6
 revision_id: 224968
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Power" title="wikipedia:Nintendo Power">Nintendo Power</a> magazine's coverage of *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*.
+<a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Power" title="wikipedia:Nintendo Power">Nintendo Power</a> magazine's coverage of *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
 ## Licensing {#Licensing}
 

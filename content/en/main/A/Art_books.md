@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Art books"
 ---
 
-Redirect to [Category:Art books](/wiki/Category:Art_books).
+Redirect to [Category:Art books](../../category/A/Art_books.md).

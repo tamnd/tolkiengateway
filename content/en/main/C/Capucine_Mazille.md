@@ -1,6 +1,5 @@
 ---
 title: "Capucine Mazille"
-display_title: "<span class=\"mw-page-title-main\">Capucine Mazille</span>"
 page_id: 64639
 namespace: 0
 revision_id: 372909
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Mazille, Capucine"
 ---
 
-**Capucine Mazille** is a Dutch artist, living in [France](/wiki/France), specialised in illustrating children's books.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Capucine Mazille** is a Dutch artist, living in [France](../F/France.md), specialised in illustrating children's books.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- *[See gallery](/wiki/Category:Images_by_Capucine_Mazille "Category:Images by Capucine Mazille")*.
+- *[See gallery](../../category/I/Images_by_Capucine_Mazille.md)*.
 
 ## External links {#External_links}
 
@@ -33,6 +32,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienshop.com/contents/en-uk/d189.html" rel="noreferrer noopener" target="_blank">&#34;Capucine Mazille&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.tolkienshop.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien Shop</a></span>. <span class="cite-web-accessed">Retrieved 8 May 2023</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienshop.com/contents/en-uk/d189.html" rel="noreferrer noopener" target="_blank">&#34;Capucine Mazille&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.tolkienshop.com/index.html" rel="noreferrer noopener" target="_blank">Tolkien Shop</a></span>. <span class="cite-web-accessed">Retrieved 8 May 2023</span></cite></span>
 </li>
 </ol></div>

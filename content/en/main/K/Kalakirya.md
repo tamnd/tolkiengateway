@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calacirya"
 ---
 
-Redirect to [Calacirya](/wiki/Calacirya).
+Redirect to [Calacirya](../C/Calacirya.md).

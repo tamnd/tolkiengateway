@@ -1,6 +1,5 @@
 ---
 title: "File:Map tile - The West of Middle-earth at the End of the Third Age - 0-8-2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Map tile - The West of Middle-earth at the End of the Third Age - 0-8-2.jpg</span>"
 page_id: 68179
 namespace: 6
 revision_id: 401122
@@ -46,17 +45,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2024-07-11</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Christopher Tolkien</td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><span class="mw-default-size" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Christopher_Tolkien_-_The_West_of_Middle-earth.png"><img src="/w/images/f/fb/Christopher_Tolkien_-_The_West_of_Middle-earth.png" decoding="async" loading="lazy" width="3840" height="2931" class="mw-file-element" data-file-width="3840" data-file-height="2931"/></a></span></td>
+<td><span class="mw-default-size" typeof="mw:File"><a class="mw-file-description" href="../C/Christopher_Tolkien_-_The_West_of_Middle-earth.png.md"><img src="https://tolkiengateway.net/w/images/f/fb/Christopher_Tolkien_-_The_West_of_Middle-earth.png" decoding="async" loading="lazy" width="3840" height="2931" class="mw-file-element" data-file-width="3840" data-file-height="2931"/></a></span></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -74,7 +70,7 @@ file:
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

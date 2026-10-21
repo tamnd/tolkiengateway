@@ -1,6 +1,5 @@
 ---
 title: "Salve!"
-display_title: "<span class=\"mw-page-title-main\">Salve!</span>"
 page_id: 63173
 namespace: 0
 revision_id: 438509
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Salve!** is a song written in [Latin](/wiki/Latin) and Swedish ("Greetings!") by <a class="extiw" href="http://en.wikipedia.org/wiki/Benedikt_Sveinbjarnarson_Gr%C3%B6ndal" title="wikipedia:Benedikt Sveinbjarnarson Gröndal">Benedikt Sveinbjarnarson Gröndal</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is published as the 25th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Salve!** is a song written in [Latin](../L/Latin.md) and Swedish ("Greetings!") by <a class="extiw" href="http://en.wikipedia.org/wiki/Benedikt_Sveinbjarnarson_Gr%C3%B6ndal" title="wikipedia:Benedikt Sveinbjarnarson Gröndal">Benedikt Sveinbjarnarson Gröndal</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is published as the 25th song in *[Songs for the Philologists](Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to G.H. Cowling"
 ---
 
-Redirect to [Letter to G.H. Cowling](/wiki/Letter_to_G.H._Cowling).
+Redirect to [Letter to G.H. Cowling](../L/Letter_to_G.H._Cowling.md).

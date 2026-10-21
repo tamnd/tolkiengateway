@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by author"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by author</span>"
 page_id: 26345
 namespace: 14
 revision_id: 104235
@@ -13,4 +12,4 @@ categories:
   - "Books"
 ---
 
-This category only contains books by the most prolific authors. For complete bibliographies of all authors, follow [the category of authors](/wiki/Category:Authors "Category:Authors") and look at the bibliography section of each specific author.
+This category only contains books by the most prolific authors. For complete bibliographies of all authors, follow [the category of authors](../A/Authors.md) and look at the bibliography section of each specific author.

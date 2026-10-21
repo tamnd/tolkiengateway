@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Delta 4 Software"
 ---
 
-Redirect to [Delta 4 Software](/wiki/Delta_4_Software).
+Redirect to [Delta 4 Software](Delta_4_Software.md).

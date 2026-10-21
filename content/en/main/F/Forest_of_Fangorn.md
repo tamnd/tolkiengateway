@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fangorn Forest"
 ---
 
-Redirect to [Fangorn Forest](/wiki/Fangorn_Forest).
+Redirect to [Fangorn Forest](Fangorn_Forest.md).

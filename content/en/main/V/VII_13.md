@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "SEVEN 13"
 ---
 
-Redirect to [SEVEN 13](/wiki/SEVEN_13).
+Redirect to [SEVEN 13](../S/SEVEN_13.md).

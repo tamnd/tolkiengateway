@@ -1,6 +1,5 @@
 ---
 title: "File:Germanic Words for Deceive - 1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Germanic Words for Deceive - 1.png</span>"
 page_id: 42944
 namespace: 6
 revision_id: 225941

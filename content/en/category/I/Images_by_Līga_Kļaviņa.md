@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Līga Kļaviņa"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Līga Kļaviņa</span>"
 page_id: 42465
 namespace: 14
 revision_id: 224278

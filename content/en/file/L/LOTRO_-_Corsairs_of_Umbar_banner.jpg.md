@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Corsairs of Umbar banner.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Corsairs of Umbar banner.jpg</span>"
 page_id: 67177
 namespace: 6
 revision_id: 390085
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Corsairs of Umbar](/wiki/The_Lord_of_the_Rings_Online:_Corsairs_of_Umbar)* with the [Corsairs of Umbar](/wiki/Corsairs_of_Umbar).
+Logo for *[The Lord of the Rings Online: Corsairs of Umbar](../../main/T/The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md)* with the [Corsairs of Umbar](../../main/C/Corsairs_of_Umbar.md).
 
 ## Licensing {#Licensing}
 

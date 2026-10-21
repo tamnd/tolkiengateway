@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Fëanor's hammer.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Fëanor&#039;s hammer.webp</span>"
 page_id: 64070
 namespace: 6
 revision_id: 412269
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Fëanor's hammer](/wiki/F%C3%ABanor "Fëanor") on a display within [Lord Celebrimbor's](/wiki/Celebrimbor "Celebrimbor") workshop in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* by [Amazon Studios](/wiki/Amazon_Studios). This was the very hammer that [Fëanor](/wiki/F%C3%ABanor) himself had used to wrought the [Silmarils](/wiki/Silmarils).
+[Fëanor's hammer](../../main/F/Fëanor.md) on a display within [Lord Celebrimbor's](../../main/C/Celebrimbor.md) workshop in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* by [Amazon Studios](../../main/A/Amazon_Studios.md). This was the very hammer that [Fëanor](../../main/F/Fëanor.md) himself had used to wrought the [Silmarils](../../main/S/Silmarils.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Simonne d'Ardenne (21 September 1937)"
 ---
 
-Redirect to [Letter to Simonne d'Ardenne (21 September 1937)](/wiki/Letter_to_Simonne_d'Ardenne_(21_September_1937)).
+Redirect to [Letter to Simonne d'Ardenne (21 September 1937)](<../L/Letter_to_Simonne_d'Ardenne_(21_September_1937).md>).

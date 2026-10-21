@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ANGA"
 ---
 
-Redirect to [ANGA](/wiki/ANGA).
+Redirect to [ANGA](ANGA~30450.md).

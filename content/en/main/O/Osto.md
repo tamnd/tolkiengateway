@@ -13,12 +13,12 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>osto</b></i> is a noun meaning "stronghold" or "fortress" in [Quenya](/wiki/Quenya).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with *[ost](/wiki/Ost "Ost")* in [Sindarin](/wiki/Sindarin).
+<i><b>osto</b></i> is a noun meaning "stronghold" or "fortress" in [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with *[ost](Ost.md)* in [Sindarin](../S/Sindarin.md).
 
 Examples:
 
-- [Formenos](/wiki/Formenos) = "Northern Fortress"
-- [Ostoher](/wiki/Ostoher) = "Fortress Lord"
+- [Formenos](../F/Formenos.md) = "Northern Fortress"
+- [Ostoher](Ostoher.md) = "Fortress Lord"
 
 <span></span>
 
@@ -26,6 +26,6 @@ Examples:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="/wiki/Athrabeth_Finrod_ah_Andreth" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: <i>Glossary</i>&#34;, <i>Mandos</i></span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: <i>Glossary</i>&#34;, <i>Mandos</i></span>
 </li>
 </ol></div>

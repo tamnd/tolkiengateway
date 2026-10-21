@@ -1,6 +1,5 @@
 ---
 title: "Richard A. Lupoff"
-display_title: "<span class=\"mw-page-title-main\">Richard A. Lupoff</span>"
 page_id: 28667
 namespace: 0
 revision_id: 366486
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Lupoff, Richard A."
 ---
 
-**Richard Allen Lupoff** ([February 21](/wiki/21_February "21 February"), [1935](/wiki/1935) - [October 22](/wiki/22_October "22 October"), [2020](/wiki/2020)) was an American science fiction and mystery author, and an expert on <a class="extiw" href="http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs" title="wikipedia:Edgar Rice Burroughs">Edgar Rice Burroughs</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/H._P._Lovecraft" title="wikipedia:H. P. Lovecraft">H. P. Lovecraft</a>.
+**Richard Allen Lupoff** ([February 21](../_/21_February.md), [1935](../_/1935.md) - [October 22](../_/22_October.md), [2020](../_/2020.md)) was an American science fiction and mystery author, and an expert on <a class="extiw" href="http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs" title="wikipedia:Edgar Rice Burroughs">Edgar Rice Burroughs</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/H._P._Lovecraft" title="wikipedia:H. P. Lovecraft">H. P. Lovecraft</a>.
 
-In his [1965](/wiki/1965) book on Burroughs, *[Edgar Rice Burroughs: Master of Adventure](/wiki/Edgar_Rice_Burroughs:_Master_of_Adventure)*, Lupoff quoted from [a letter from J.R.R. Tolkien](/wiki/Letter_to_Richard_Lupoff "Letter to Richard Lupoff").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In his [1965](../_/1965.md) book on Burroughs, *[Edgar Rice Burroughs: Master of Adventure](../E/Edgar_Rice_Burroughs%253A_Master_of_Adventure.md)*, Lupoff quoted from [a letter from J.R.R. Tolkien](../L/Letter_to_Richard_Lupoff.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 # External links {#External_links}
 

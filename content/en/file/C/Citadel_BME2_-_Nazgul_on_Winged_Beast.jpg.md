@@ -1,6 +1,5 @@
 ---
 title: "File:Citadel BME2 - Nazgul on Winged Beast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Citadel BME2 - Nazgul on Winged Beast.jpg</span>"
 page_id: 73309
 namespace: 6
 revision_id: 433553

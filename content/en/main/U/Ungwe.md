@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ungwë"
 ---
 
-Redirect to [Ungwë](/wiki/Ungwë).
+Redirect to [Ungwë](Ungwë.md).

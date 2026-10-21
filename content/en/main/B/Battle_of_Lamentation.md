@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nirnaeth Arnoediad"
 ---
 
-Redirect to [Nirnaeth Arnoediad](/wiki/Nirnaeth_Arnoediad).
+Redirect to [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).

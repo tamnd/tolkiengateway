@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Capucine Mazille"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Capucine Mazille</span>"
 page_id: 14669
 namespace: 14
 revision_id: 372915
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Mazille, Capucine"
 ---
 
-This category lists all **images by [Capucine Mazille](/wiki/Capucine_Mazille)**.
+This category lists all **images by [Capucine Mazille](../../main/C/Capucine_Mazille.md)**.

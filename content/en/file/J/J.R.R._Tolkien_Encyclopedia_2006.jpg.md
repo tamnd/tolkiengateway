@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Encyclopedia 2006.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Encyclopedia 2006.jpg</span>"
 page_id: 13380
 namespace: 6
 revision_id: 369852

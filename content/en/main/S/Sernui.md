@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Serni"
 ---
 
-Redirect to [Serni](/wiki/Serni).
+Redirect to [Serni](Serni.md).

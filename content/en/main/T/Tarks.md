@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tark"
 ---
 
-Redirect to [Tark](/wiki/Tark).
+Redirect to [Tark](Tark.md).

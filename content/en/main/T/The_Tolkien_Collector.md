@@ -19,9 +19,9 @@ images:
   - "The_Tolkien_Collector_27.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Collector_27.jpg"><img src="/w/images/thumb/b/b4/The_Tolkien_Collector_27.jpg/250px-The_Tolkien_Collector_27.jpg" decoding="async" loading="lazy" width="250" height="361" class="mw-file-element" srcset="/w/images/b/b4/The_Tolkien_Collector_27.jpg 1.5x" data-file-width="355" data-file-height="513"/></a><figcaption>Cover of issue 27</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Collector_27.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/The_Tolkien_Collector_27.jpg/250px-The_Tolkien_Collector_27.jpg" decoding="async" loading="lazy" width="250" height="361" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/The_Tolkien_Collector_27.jpg 1.5x" data-file-width="355" data-file-height="513"/></a><figcaption>Cover of issue 27</figcaption></figure>
 
-**The Tolkien Collector** is a magazine for [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) collectors. The magazine is edited by [Christina Scull](/wiki/Christina_Scull) and [Wayne Hammond](/wiki/Wayne_G._Hammond "Wayne G. Hammond"). It was founded in the Fall of [1992](/wiki/1992) and is still being printed today though less frequently.
+**The Tolkien Collector** is a magazine for [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) collectors. The magazine is edited by [Christina Scull](../C/Christina_Scull.md) and [Wayne Hammond](../W/Wayne_G._Hammond.md). It was founded in the Fall of [1992](../_/1992.md) and is still being printed today though less frequently.
 
 ## Issue 1 {#Issue_1}
 
@@ -33,11 +33,11 @@ images:
 
 ## Issue 2 {#Issue_2}
 
-- "Italian Tolkien Criticism" by [Patricia Reynolds](/wiki/Patricia_Reynolds); "A Midwest Tolkien Tour" by [Sumner Gary Hunnewell](/wiki/Sumner_Gary_Hunnewell)
+- "Italian Tolkien Criticism" by [Patricia Reynolds](../P/Patricia_Reynolds.md); "A Midwest Tolkien Tour" by [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
 
 ## Issue 3 {#Issue_3}
 
-- "A Collector's Tale" by [Sumner Gary Hunnewell](/wiki/Sumner_Gary_Hunnewell); "Dutch Tolkien Illustrators" by [René van Rossenberg](/wiki/Ren%C3%A9_van_Rossenberg); "The Ballantine Hobbit" by Richard E. Blackwelder
+- "A Collector's Tale" by [Sumner Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md); "Dutch Tolkien Illustrators" by [René van Rossenberg](../R/René_van_Rossenberg.md); "The Ballantine Hobbit" by Richard E. Blackwelder
 
 ## Issue 4 {#Issue_4}
 
@@ -45,15 +45,15 @@ images:
 
 ## Issue 5 {#Issue_5}
 
-- "Fair Dealing" by Wayne G. Hammond; "Tolkien and Linguaphone" by [René van Rossenberg](/wiki/Ren%C3%A9_van_Rossenberg); "Works by and about Tolkien in Czech and Slovak" by Karel Makovsky
+- "Fair Dealing" by Wayne G. Hammond; "Tolkien and Linguaphone" by [René van Rossenberg](../R/René_van_Rossenberg.md); "Works by and about Tolkien in Czech and Slovak" by Karel Makovsky
 
 ## Issue 6 {#Issue_6}
 
-- "The Silmarillion in Russian" by Christina Scull; "A Corrigenda to The Lord of the Rings" by [David Bratman](/wiki/David_Bratman) (published March [1994](/wiki/1994))
+- "The Silmarillion in Russian" by Christina Scull; "A Corrigenda to The Lord of the Rings" by [David Bratman](../D/David_Bratman.md) (published March [1994](../_/1994.md))
 
 ## Issue 7 {#Issue_7}
 
-- "The J.R.R. Tolkien Calendar 1994" by Wayne G. Hammond; "The Lord of the Rings in Japanese" by Christina Scull; "A Dutch Stephen Oliver" by [René van Rossenberg](/wiki/Ren%C3%A9_van_Rossenberg)
+- "The J.R.R. Tolkien Calendar 1994" by Wayne G. Hammond; "The Lord of the Rings in Japanese" by Christina Scull; "A Dutch Stephen Oliver" by [René van Rossenberg](../R/René_van_Rossenberg.md)
 
 ## Issue 8 {#Issue_8}
 
@@ -73,7 +73,7 @@ images:
 
 ## Issue 12 {#Issue_12}
 
-- "The 1996 J.R.R. Tolkien Calendar" by Christina Scull; "Dutch Editions of Tolkien's Works" by [Johan Vanhecke](/wiki/Johan_Vanhecke). Published in February 1996.
+- "The 1996 J.R.R. Tolkien Calendar" by Christina Scull; "Dutch Editions of Tolkien's Works" by [Johan Vanhecke](../J/Johan_Vanhecke.md). Published in February 1996.
 
 ## Issue 13 {#Issue_13}
 
@@ -149,11 +149,11 @@ images:
 
 ## Issue 31 {#Issue_31}
 
-- "The 'Father Christmas' Letters" by [Christina Scull](/wiki/Christina_Scull)
+- "The 'Father Christmas' Letters" by [Christina Scull](../C/Christina_Scull.md)
 
 ## Issue 32 {#Issue_32}
 
-- "A Tolkien Classification System" by [David Bratman](/wiki/David_Bratman); published in December 2011
+- "A Tolkien Classification System" by [David Bratman](../D/David_Bratman.md); published in December 2011
 
 ## External links {#External_links}
 

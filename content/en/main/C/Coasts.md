@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Coasts"
 ---
 
-Redirect to [Category:Coasts](/wiki/Category:Coasts).
+Redirect to [Category:Coasts](../../category/C/Coasts.md).

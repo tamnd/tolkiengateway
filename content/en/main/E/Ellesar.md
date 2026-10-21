@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elessar (disambiguation)"
 ---
 
-Redirect to [Elessar (disambiguation)](/wiki/Elessar_(disambiguation)).
+Redirect to [Elessar (disambiguation)](<Elessar_(disambiguation).md>).

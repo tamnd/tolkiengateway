@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Strategy Battle Game The Two Towers.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Strategy Battle Game The Two Towers.png</span>"
 page_id: 36165
 namespace: 6
 revision_id: 433588

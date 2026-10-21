@@ -1,6 +1,5 @@
 ---
 title: "File:Gail McIntosh - The Court of Ardor.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gail McIntosh - The Court of Ardor.jpeg</span>"
 page_id: 72049
 namespace: 6
 revision_id: 428680
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover art of [The Court of Ardor](/wiki/The_Court_of_Ardor). It shows the sorceress Rilia (as evidenced by her red hair) and the demon Mourfuin (based on his red skin), but I do not yet know who is depicted fighting him.
+The cover art of [The Court of Ardor](../../main/T/The_Court_of_Ardor.md). It shows the sorceress Rilia (as evidenced by her red hair) and the demon Mourfuin (based on his red skin), but I do not yet know who is depicted fighting him.
 
 ## Licensing {#Licensing}
 

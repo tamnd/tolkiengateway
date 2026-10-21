@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Samuel Hazeldine"
 ---
 
-Redirect to [Samuel Hazeldine](/wiki/Samuel_Hazeldine).
+Redirect to [Samuel Hazeldine](Samuel_Hazeldine.md).

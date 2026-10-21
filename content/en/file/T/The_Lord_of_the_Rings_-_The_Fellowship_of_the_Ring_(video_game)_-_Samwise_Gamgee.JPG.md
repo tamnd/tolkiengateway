@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Samwise Gamgee.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Samwise Gamgee.JPG</span>"
 page_id: 21081
 namespace: 6
 revision_id: 298618
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) in [Lothlórien](/wiki/Lothl%C3%B3rien). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Samwise Gamgee](../../main/S/Samwise_Gamgee.md) in [Lothlórien](../../main/L/Lothlórien.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

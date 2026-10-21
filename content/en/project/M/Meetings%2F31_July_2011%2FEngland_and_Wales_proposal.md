@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/31 July 2011/England and Wales proposal"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/31 July 2011/England and Wales proposal</span>"
 page_id: 35464
 namespace: 4
 revision_id: 166688

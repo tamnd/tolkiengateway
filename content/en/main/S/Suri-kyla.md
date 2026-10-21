@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sûri-kylä"
 ---
 
-Redirect to [Sûri-kylä](/wiki/Sûri-kylä).
+Redirect to [Sûri-kylä](Sûri-kylä.md).

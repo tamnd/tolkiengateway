@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Remains of Óin.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Remains of Óin.jpeg</span>"
 page_id: 64652
 namespace: 6
 revision_id: 372157
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An image of the remains of [Óin](/wiki/%C3%93in) in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+An image of the remains of [Óin](../../main/_/Óin.md) in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ An image of the remains of [Óin](/wiki/%C3%93in) in *[The Lord of the Rings Onl
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Lotro-Wiki.com</span>. <span class="cite-web-article"><a class="external text" href="https://lotro-wiki.com/index.php/File:Remains_of_Óin.jpg" rel="noreferrer noopener" target="_blank">&#34;File:Remains of Óin.jpg&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://lotro-wiki.com" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings Online</i> Wiki</a></span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Lotro-Wiki.com</span>. <span class="cite-web-article"><a class="external text" href="https://lotro-wiki.com/index.php/File:Remains_of_Óin.jpg" rel="noreferrer noopener" target="_blank">&#34;File:Remains of Óin.jpg&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://lotro-wiki.com" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings Online</i> Wiki</a></span></cite></span>
 </li>
 </ol></div>

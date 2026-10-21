@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Charles Calleja"
 ---
 
-Redirect to [Letter to Charles Calleja](/wiki/Letter_to_Charles_Calleja).
+Redirect to [Letter to Charles Calleja](../L/Letter_to_Charles_Calleja.md).

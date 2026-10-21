@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Laughing Philosopher (colorized).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Laughing Philosopher (colorized).jpg</span>"
 page_id: 65519
 namespace: 6
 revision_id: 377128
@@ -28,7 +27,7 @@ file:
 
 ‘The Laughing Philosopher’, taken at the Garden House Hotel, Cambridge, August 1952. Tolkien was visiting the library at Corpus Christi College to work on the Middle English text, Ancrene Wisse.<a class="external autonumber" href="https://www.tolkienestate.com/life/" rel="noreferrer noopener" target="_blank">[1]</a>
 
-Colorized by [User:Hyarion](/wiki/User:Hyarion)
+Colorized by [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)
 
 ## Licensing {#Licensing}
 

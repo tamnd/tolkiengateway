@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Gandalf facing Witch-king.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Gandalf facing Witch-king.gif</span>"
 page_id: 15803
 namespace: 6
 revision_id: 382049

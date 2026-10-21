@@ -1,6 +1,5 @@
 ---
 title: "Category:Candidates for speedy deletion"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Candidates for speedy deletion</span>"
 page_id: 60529
 namespace: 14
 revision_id: 63201

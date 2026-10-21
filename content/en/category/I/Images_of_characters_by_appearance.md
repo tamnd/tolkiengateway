@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of characters by appearance"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of characters by appearance</span>"
 page_id: 39756
 namespace: 14
 revision_id: 198491

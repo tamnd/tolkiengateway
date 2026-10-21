@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-në"
 ---
 
-Redirect to [-në](/wiki/-në).
+Redirect to [-në](-në.md).

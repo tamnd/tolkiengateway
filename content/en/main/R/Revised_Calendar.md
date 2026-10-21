@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stewards' Reckoning"
 ---
 
-Redirect to [Stewards' Reckoning](/wiki/Stewards'_Reckoning).
+Redirect to [Stewards' Reckoning](../S/Stewards'_Reckoning.md).

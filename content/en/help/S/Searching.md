@@ -1,6 +1,5 @@
 ---
 title: "Help:Searching"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Searching</span>"
 page_id: 2636
 namespace: 12
 revision_id: 69117

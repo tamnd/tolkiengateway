@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - The earliest map.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - The earliest map.png</span>"
 page_id: 48838
 namespace: 6
 revision_id: 330276
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-The drawing *[The earliest map](/wiki/The_earliest_map)*, a redrawing by [Christopher Tolkien](/wiki/Christopher_Tolkien), from a scribble by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+The drawing *[The earliest map](../../main/T/The_earliest_map.md)*, a redrawing by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md), from a scribble by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

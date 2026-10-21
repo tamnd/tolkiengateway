@@ -13,4 +13,4 @@ categories:
   - "Calendars (real-world)"
 ---
 
-A Tolkien Calendar was published by the [Finnish Tolkien Society](/wiki/Finnish_Tolkien_Society) in 2001, it features pen and ink illustrations by various artsts. No other details are known.
+A Tolkien Calendar was published by the [Finnish Tolkien Society](../F/Finnish_Tolkien_Society.md) in 2001, it features pen and ink illustrations by various artsts. No other details are known.

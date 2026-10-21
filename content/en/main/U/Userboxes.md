@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Userboxes"
 ---
 
-Redirect to [Tolkien Gateway:Userboxes](/wiki/Tolkien_Gateway:Userboxes).
+Redirect to [Tolkien Gateway:Userboxes](../../project/U/Userboxes.md).

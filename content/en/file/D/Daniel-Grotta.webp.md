@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel-Grotta.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel-Grotta.webp</span>"
 page_id: 69820
 namespace: 6
 revision_id: 415051
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Daniel Grotta](/wiki/Daniel_Grotta) by his wife Sally Wiener Grotta
+Photograph of [Daniel Grotta](../../main/D/Daniel_Grotta.md) by his wife Sally Wiener Grotta
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Landmark-The Forsaken Inn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Landmark-The Forsaken Inn.jpg</span>"
 page_id: 23925
 namespace: 6
 revision_id: 248486

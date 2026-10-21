@@ -1,6 +1,5 @@
 ---
 title: "Letter to Elena Jeronimides"
-display_title: "<span class=\"mw-page-title-main\">Letter to Elena Jeronimides</span>"
 page_id: 40004
 namespace: 0
 revision_id: 388036
@@ -17,13 +16,13 @@ images:
   - "Elena_Jeronimides_14_June_1973.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Elena_Jeronimides_14_June_1973.png"><img src="/w/images/thumb/a/a3/Elena_Jeronimides_14_June_1973.png/300px-Elena_Jeronimides_14_June_1973.png" decoding="async" loading="lazy" width="300" height="370" class="mw-file-element" srcset="/w/images/thumb/a/a3/Elena_Jeronimides_14_June_1973.png/450px-Elena_Jeronimides_14_June_1973.png 1.5x, /w/images/a/a3/Elena_Jeronimides_14_June_1973.png 2x" data-file-width="534" data-file-height="658"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Jeronimides_14_June_1973.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/Elena_Jeronimides_14_June_1973.png/300px-Elena_Jeronimides_14_June_1973.png" decoding="async" loading="lazy" width="300" height="370" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/Elena_Jeronimides_14_June_1973.png/450px-Elena_Jeronimides_14_June_1973.png 1.5x, https://tolkiengateway.net/w/images/a/a3/Elena_Jeronimides_14_June_1973.png 2x" data-file-width="534" data-file-height="658"/></a><figcaption></figcaption></figure>
 
-On [14 June](/wiki/14_June) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mrs Elena Jeronimides**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [14 June](../_/14_June.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mrs Elena Jeronimides**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** Discussion of a translation of *[The Hobbit](/wiki/The_Hobbit)* into Italian.
+- **Subject:** Discussion of a translation of *[The Hobbit](../T/The_Hobbit.md)* into Italian.
 - **Description:** Typed letter, signed; Merton College, Oxford; 1½ pages, 4to, stapled at upper left.
-- **Publication:** Quotes from the letter appeared in *[Christie's Fine Printed Books and Manuscripts 19 June 2012](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_19_June_2012)*. The first page of the letter is reproduced in a photograph.
+- **Publication:** Quotes from the letter appeared in *[Christie's Fine Printed Books and Manuscripts 19 June 2012](../C/Christie's_Fine_Printed_Books_and_Manuscripts_19_June_2012.md)*. The first page of the letter is reproduced in a photograph.
 
 ## Excerpts {#Excerpts}
 
@@ -39,6 +38,6 @@ On [14 June](/wiki/14_June) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._To
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.christies.com/lotfinder/books-manuscripts/tolkien-john-ronald-reuel-typed-letter-5578691-details.aspx?from=searchresults&amp;intObjectID=5578691&amp;sid=808ae394-3ce7-4475-8e9c-d5db92dc6fd4" rel="noreferrer noopener" target="_blank">&#34;Sale 6237/Lot 252&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.christies.com/" rel="noreferrer noopener" target="_blank">Christie&#39;s.com</a></span>. <span class="cite-web-accessed">Retrieved 19 June 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.christies.com/lotfinder/books-manuscripts/tolkien-john-ronald-reuel-typed-letter-5578691-details.aspx?from=searchresults&amp;intObjectID=5578691&amp;sid=808ae394-3ce7-4475-8e9c-d5db92dc6fd4" rel="noreferrer noopener" target="_blank">&#34;Sale 6237/Lot 252&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.christies.com/" rel="noreferrer noopener" target="_blank">Christie&#39;s.com</a></span>. <span class="cite-web-accessed">Retrieved 19 June 2012</span></cite></span>
 </li>
 </ol></div>

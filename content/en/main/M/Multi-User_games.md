@@ -1,6 +1,5 @@
 ---
 title: "Multi-User games"
-display_title: "<span class=\"mw-page-title-main\">Multi-User games</span>"
 page_id: 5086
 namespace: 0
 revision_id: 315155
@@ -13,7 +12,7 @@ categories:
   - "MMORPG"
 ---
 
-In the 80's and 90's, a variety of **Multi-User** computer based games came out, either by professional companies or individual programmers. Though outdated in design, many are still active. The games involved multiple users logging in and interacting with each other; in many ways they were the precursors of modern MMPORGs like *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+In the 80's and 90's, a variety of **Multi-User** computer based games came out, either by professional companies or individual programmers. Though outdated in design, many are still active. The games involved multiple users logging in and interacting with each other; in many ways they were the precursors of modern MMPORGs like *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
 There have been several types of *Multi-User* games:
 
@@ -23,9 +22,9 @@ There have been several types of *Multi-User* games:
 
 ## See also {#See_also}
 
-- [List of Multi-User Dungeons](/wiki/Category:Multi-User_Dungeons "Category:Multi-User Dungeons")
-- [List of Multi-User Shared Hacks](/wiki/Category:MUSH "Category:MUSH")
-- [List of Multi-User Experiences](/wiki/Category:MUX "Category:MUX")
+- [List of Multi-User Dungeons](../../category/M/Multi-User_Dungeons.md)
+- [List of Multi-User Shared Hacks](../../category/M/MUSH.md)
+- [List of Multi-User Experiences](../../category/M/MUX.md)
 
 ## External links {#External_links}
 

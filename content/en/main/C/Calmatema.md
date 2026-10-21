@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calmatéma"
 ---
 
-Redirect to [Calmatéma](/wiki/Calmatéma).
+Redirect to [Calmatéma](Calmatéma.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Short Cut to Mushrooms"
 ---
 
-Redirect to [A Short Cut to Mushrooms](/wiki/A_Short_Cut_to_Mushrooms).
+Redirect to [A Short Cut to Mushrooms](A_Short_Cut_to_Mushrooms.md).

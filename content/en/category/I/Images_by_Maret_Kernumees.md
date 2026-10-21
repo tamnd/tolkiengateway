@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Maret Kernumees"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Maret Kernumees</span>"
 page_id: 17718
 namespace: 14
 revision_id: 182087
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kernumees, Maret"
 ---
 
-This category lists all **images by [Maret Kernumees](/wiki/Maret_Kernumees)**.
+This category lists all **images by [Maret Kernumees](../../main/M/Maret_Kernumees.md)**.

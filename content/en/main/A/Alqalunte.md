@@ -11,4 +11,4 @@ redirect_target: "Alqualondë"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Alqualondë](/wiki/Alqualondë#Etymology).
+Redirect to [Alqualondë](Alqualondë.md#Etymology).

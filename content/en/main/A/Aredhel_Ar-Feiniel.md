@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aredhel"
 ---
 
-Redirect to [Aredhel](/wiki/Aredhel).
+Redirect to [Aredhel](Aredhel.md).

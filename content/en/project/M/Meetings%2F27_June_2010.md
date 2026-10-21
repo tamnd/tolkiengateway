@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/27 June 2010"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/27 June 2010</span>"
 page_id: 27433
 namespace: 4
 revision_id: 354945
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 27 June 2010</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 27 June 2010</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -89,7 +86,7 @@ sort_keys:
 </td></tr>
 <tr>
 <td>
-<ul><li><a href="/wiki/Forums:The_future_of_Tolkien_Gateway" title="Forums:The future of Tolkien Gateway">The future of Tolkien Gateway</a>
+<ul><li><a href="https://tolkiengateway.net/wiki/Forums:The_future_of_Tolkien_Gateway" title="Forums:The future of Tolkien Gateway">The future of Tolkien Gateway</a>
 <ul><li>The need for more admins/bureaucrats/any-other-usergroups.</li>
 <li>Server Access for more than one person.</li></ul></li></ul>
 </td>
@@ -99,7 +96,7 @@ sort_keys:
 <td>
 <ul><li>Spam
 <ul><li>How do we tackle it? Captacha?</li>
-<li>How long do we continue the ‘<a href="/wiki/Forums:Database_Lock" title="Forums:Database Lock">database lock</a>’?</li></ul></li></ul>
+<li>How long do we continue the ‘<a href="https://tolkiengateway.net/wiki/Forums:Database_Lock" title="Forums:Database Lock">database lock</a>’?</li></ul></li></ul>
 </td>
 <td>
 </td></tr>
@@ -108,7 +105,7 @@ sort_keys:
 <ul><li>Extensions
 <ul><li>Youtube extension (fixing current installation)</li>
 <li>Inputbox extension (fixing current installation)</li>
-<li><a href="/wiki/User_talk:Hyarion#Google_Maps_for_Arda" title="User talk:Hyarion">Arda Google Maps</a> extension</li>
+<li><a href="https://tolkiengateway.net/wiki/User_talk:Hyarion#Google_Maps_for_Arda" title="User talk:Hyarion">Arda Google Maps</a> extension</li>
 <li><a class="external text" href="http://www.mediawiki.org/wiki/Extension:StringFunctions" rel="noreferrer noopener" target="_blank">StringFunctions Extension</a></li>
 <li><a class="external text" href="http://www.mediawiki.org/wiki/Extension:GiveRollback" rel="noreferrer noopener" target="_blank">Rollback rights extension</a> - Built into MediaWiki 1.11.0 (possible MediaWiki upgrade?)</li>
 <li>Any more extensions?</li></ul></li></ul>
@@ -117,40 +114,40 @@ sort_keys:
 </td></tr>
 <tr>
 <td>
-<ul><li><a href="/wiki/Tolkien_Gateway:Projects" title="Tolkien Gateway:Projects">Projects</a></li></ul>
+<ul><li><a href="../P/Projects.md" title="Tolkien Gateway:Projects">Projects</a></li></ul>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>
-<ul><li><a href="/wiki/Forums:User_awards" title="Forums:User awards">Barnstars</a></li></ul>
+<ul><li><a href="https://tolkiengateway.net/wiki/Forums:User_awards" title="Forums:User awards">Barnstars</a></li></ul>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>
 <ul><li>Whether TG needs some sort of publicity manage</li></ul>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>
 <ul><li>Whether TG needs some sort of community manager to turn individuals into a group working together.</li></ul>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>
-<ul><li>As per our <a href="/wiki/Tolkien_Gateway:To-do" title="Tolkien Gateway:To-do">To-do</a>, do we really need a page for EVERY year?</li></ul>
+<ul><li>As per our <a href="../T/To-do.md" title="Tolkien Gateway:To-do">To-do</a>, do we really need a page for EVERY year?</li></ul>
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>
 <ul><li>Scheduling of a future meeting.</li>
 <li>End meeting.</li></ul>
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Outcome {#Outcome}
@@ -158,7 +155,7 @@ sort_keys:
 - We learnt that the serious server issues will be resolved by migrating the Wiki to a new server with "256mb of dedicated RAM, 10gb of disk space for $10.95 and bandwidth is an additional 22 cents out / 8 cents in."
     - This will happen over the next few weeks.
 - Mithbot was made a bot.
-- [Ederchil](/wiki/User:Ederchil "User:Ederchil") was made a bureaucrat.
+- [Ederchil](https://tolkiengateway.net/wiki/User:Ederchil) was made a bureaucrat.
 - The need for more sysops was agreed, possibly two.
     - It was agreed discussions/nominations should be made on the Wiki.
 - Access to the server for more than one user was briefly discussed, but should be revisited in the future.
@@ -177,6 +174,6 @@ sort_keys:
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/27_June_2010 "Tolkien Gateway talk:Meetings/27 June 2010")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/27_June_2010/Transcript "Tolkien Gateway:Meetings/27 June 2010/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/27_June_2010)
+- [Transcript](Meetings%252F27_June_2010%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Folcred and Fastred"
 ---
 
-Redirect to [Folcred and Fastred](/wiki/Folcred_and_Fastred).
+Redirect to [Folcred and Fastred](Folcred_and_Fastred.md).

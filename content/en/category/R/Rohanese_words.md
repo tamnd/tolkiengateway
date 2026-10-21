@@ -1,6 +1,5 @@
 ---
 title: "Category:Rohanese words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rohanese words</span>"
 page_id: 64056
 namespace: 14
 revision_id: 365783
@@ -16,4 +15,4 @@ sort_keys:
   "Rohanese": "Words"
 ---
 
-[Rohanese](/wiki/Rohanese) words.
+[Rohanese](../../main/R/Rohanese.md) words.

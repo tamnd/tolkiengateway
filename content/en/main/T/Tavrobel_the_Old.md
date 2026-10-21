@@ -11,4 +11,4 @@ redirect_target: "Tavrobel"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Tavrobel](/wiki/Tavrobel#Other_versions_of_the_legendarium).
+Redirect to [Tavrobel](Tavrobel.md#Other_versions_of_the_legendarium).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sidney Barrowclough"
 ---
 
-Redirect to [Sidney Barrowclough](/wiki/Sidney_Barrowclough).
+Redirect to [Sidney Barrowclough](Sidney_Barrowclough.md).

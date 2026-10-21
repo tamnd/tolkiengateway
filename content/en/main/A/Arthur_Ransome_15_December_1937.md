@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Arthur Ransome"
 ---
 
-Redirect to [Letter to Arthur Ransome](/wiki/Letter_to_Arthur_Ransome).
+Redirect to [Letter to Arthur Ransome](../L/Letter_to_Arthur_Ransome.md).

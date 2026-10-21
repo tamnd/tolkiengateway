@@ -11,4 +11,4 @@ redirect_target: "Ossë"
 redirect_fragment: "Etymoloy"
 ---
 
-Redirect to [Ossë](/wiki/Ossë#Etymoloy).
+Redirect to [Ossë](../O/Ossë.md#Etymoloy).

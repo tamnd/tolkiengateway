@@ -1,6 +1,5 @@
 ---
 title: "File:The Atlas of Tolkien's Middle-earth 2017.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Atlas of Tolkien&#039;s Middle-earth 2017.jpg</span>"
 page_id: 74027
 namespace: 6
 revision_id: 436787
@@ -30,7 +29,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Atlas of Tolkien&#39;s Middle-earth 2017.jpg</span></th>
 <td class="description">
-<p>Paperback book cover of <a class="mw-redirect" href="/wiki/The_Atlas_of_Tolkien%27s_Middle-earth" title="The Atlas of Tolkien&#39;s Middle-earth">The Atlas of Tolkien&#39;s Middle-earth</a>
+<p>Paperback book cover of <a class="mw-redirect" href="../../main/T/The_Atlas_of_Tolkien&#39;s_Middle-earth.md" title="The Atlas of Tolkien&#39;s Middle-earth">The Atlas of Tolkien&#39;s Middle-earth</a>
 </p>
 </td>
 </tr>
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2017</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.amazon.com/Atlas-Tolkiens-Middle-earth-Karen-Fonstad/dp/0008194513" rel="noreferrer noopener" target="_blank">https://www.amazon.com/Atlas-Tolkiens-Middle-earth-Karen-Fonstad/dp/0008194513</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Road Goes Ever On And On The Map of Tolkien's Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Road Goes Ever On And On The Map of Tolkien&#039;s Middle-earth.jpg</span>"
 page_id: 35191
 namespace: 6
 revision_id: 214696

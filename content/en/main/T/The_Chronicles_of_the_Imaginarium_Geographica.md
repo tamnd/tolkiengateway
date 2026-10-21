@@ -19,22 +19,22 @@ images:
   - "The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg"><img src="/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/250px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg" decoding="async" loading="lazy" width="250" height="49" class="mw-file-element" srcset="/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/375px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 1.5x, /w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/500px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 2x" data-file-width="824" data-file-height="160"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/250px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg" decoding="async" loading="lazy" width="250" height="49" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/375px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg/500px-The_Chronicles_of_the_Imaginarium_Geographica_logo.jpg 2x" data-file-width="824" data-file-height="160"/></a><figcaption></figcaption></figure>
 
-**The Chronicles of the Imaginarium Geographica** is the title of a series of books written by [James A. Owen](/wiki/James_A._Owen). The books tell a fictional story of John ([J.R.R. Tolkien](/wiki/J.R.R._Tolkien)), Charles ([Charles Williams](/wiki/Charles_Williams)), and Jack ([C.S. Lewis](/wiki/C.S._Lewis)). Seven books have been published to-date. The author started crowdfunding campaign for the eighth book in 2016.
+**The Chronicles of the Imaginarium Geographica** is the title of a series of books written by [James A. Owen](../J/James_A._Owen.md). The books tell a fictional story of John ([J.R.R. Tolkien](../J/J.R.R._Tolkien.md)), Charles ([Charles Williams](../C/Charles_Williams.md)), and Jack ([C.S. Lewis](../C/C.S._Lewis.md)). Seven books have been published to-date. The author started crowdfunding campaign for the eighth book in 2016.
 
-Warner Brothers bought the filming rights to *The Chronicles of the Imaginarium Geographica* and [Rick Porras](/wiki/Rick_Porras), co-producer of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), was said to be a part of the production team.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Warner Brothers bought the filming rights to *The Chronicles of the Imaginarium Geographica* and [Rick Porras](../R/Rick_Porras.md), co-producer of [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>), was said to be a part of the production team.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Books {#Books}
 
-1. [2006](/wiki/2006): *[Here, There Be Dragons](/wiki/Here,_There_Be_Dragons)*
-2. [2008](/wiki/2008): *[The Search for the Red Dragon](/wiki/The_Search_for_the_Red_Dragon)*
-3. [2008](/wiki/2008): *[The Indigo King](/wiki/The_Indigo_King)*
-4. [2009](/wiki/2009): *[The Shadow Dragons](/wiki/The_Shadow_Dragons)*
-5. [2010](/wiki/2010): *[The Dragon's Apprentice](/wiki/The_Dragon%27s_Apprentice)*
-6. [2013](/wiki/2013): *The Dragons of Winter*
-7. [2014](/wiki/2014): *The First Dragon*
-8. [2016](/wiki/2016): *The Dragon Knight*
+1. [2006](../_/2006.md): *[Here, There Be Dragons](../H/Here,_There_Be_Dragons.md)*
+2. [2008](../_/2008.md): *[The Search for the Red Dragon](The_Search_for_the_Red_Dragon.md)*
+3. [2008](../_/2008.md): *[The Indigo King](The_Indigo_King.md)*
+4. [2009](../_/2009.md): *[The Shadow Dragons](The_Shadow_Dragons.md)*
+5. [2010](../_/2010.md): *[The Dragon's Apprentice](The_Dragon's_Apprentice.md)*
+6. [2013](../_/2013.md): *The Dragons of Winter*
+7. [2014](../_/2014.md): *The First Dragon*
+8. [2016](../_/2016.md): *The Dragon Knight*
 
 ## From the publisher {#From_the_publisher}
 
@@ -44,16 +44,12 @@ Warner Brothers bought the filming rights to *The Chronicles of the Imaginarium 
 <i>The little man blinked and arched an eyebrow. &#34;It is the world, my boy,&#34; he said. &#34;All the World, in ink and blood, vellum and parchment, leather and hide. It is the World, and it is yours to save or lose.&#34;<br/></i>
 </p><p>
 An unusual murder brings together three strangers, John, Jack, and Charles, on a rainy night in London during the First World War. An eccentric little man called Bert tells them that they are now the caretakers of &#34;The Imaginarium Geographica&#34;, an atlas of all the lands that have ever existed in myth and legend, fable and fairy tale. These lands, Bert claims, can be traveled to in his ship The Indigo Dragon, one of only seven vessels that is able to cross the Frontier between worlds into the Archipelago of Dreams.</p><p>
-<!-- -->
 Pursued by strange and terrifying creatures, the companions flee London aboard the Dragonship. Traveling to the very realm of the imagination itself, they must learn to overcome their fears and trust in one another if they are to defeat the dark forces that threaten the destiny of two worlds. And in the process, they will share a great adventure filled with clues that lead readers to the surprise revelation of the legendary storytellers these men will one day become.
-<!-- -->
 </p></blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## See also {#See_also}
 
-- *[Heaven's War](/wiki/Heaven%27s_War)*
+- *[Heaven's War](../H/Heaven's_War.md)*
 
 ## External links {#External_links}
 
@@ -71,23 +67,23 @@ Pursued by strange and terrifying creatures, the companions flee London aboard t
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="/wiki/Category:Fiction_books" title="Category:Fiction books">Published fiction books</a> relating to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="/wiki/Arda" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a href="../../category/F/Fiction_books.md" title="Category:Fiction books">Published fiction books</a> relating to <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center"> <i><a class="mw-selflink selflink">The Chronicles of the Imaginarium Geographica</a>:</i>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"> <i><a href="/wiki/Here,_There_Be_Dragons" title="Here, There Be Dragons">Here, There Be Dragons</a></i> | <i><a href="/wiki/The_Search_for_the_Red_Dragon" title="The Search for the Red Dragon">The Search for the Red Dragon</a></i> | <i><a href="/wiki/The_Indigo_King" title="The Indigo King">The Indigo King</a></i> | <i><a href="/wiki/The_Shadow_Dragons" title="The Shadow Dragons">The Shadow Dragons</a></i>  | <i><a href="/wiki/The_Dragon%27s_Apprentice" title="The Dragon&#39;s Apprentice">The Dragon&#39;s Apprentice</a></i>
+<td style="font-size: 90%;" align="center"> <i><a href="../H/Here,_There_Be_Dragons.md" title="Here, There Be Dragons">Here, There Be Dragons</a></i> | <i><a href="The_Search_for_the_Red_Dragon.md" title="The Search for the Red Dragon">The Search for the Red Dragon</a></i> | <i><a href="The_Indigo_King.md" title="The Indigo King">The Indigo King</a></i> | <i><a href="The_Shadow_Dragons.md" title="The Shadow Dragons">The Shadow Dragons</a></i>  | <i><a href="The_Dragon&#39;s_Apprentice.md" title="The Dragon&#39;s Apprentice">The Dragon&#39;s Apprentice</a></i>
 </td></tr>
 <tr>
-<th style="background: var(--tg-color-surface-3);" align="center"> <i><a href="/wiki/Ring_of_Darkness" title="Ring of Darkness">Ring of Darkness</a>:</i>
+<th style="background: var(--tg-color-surface-3);" align="center"> <i><a href="../R/Ring_of_Darkness.md" title="Ring of Darkness">Ring of Darkness</a>:</i>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"> <i><a class="mw-redirect" href="/wiki/Elven_Blade" title="Elven Blade">Elven Blade</a></i> | <i><a class="mw-redirect" href="/wiki/Black_Lance" title="Black Lance">Black Lance</a></i> | <i><a class="mw-redirect" href="/wiki/The_Adamant_of_Henna" title="The Adamant of Henna">The Adamant of Henna</a></i>
+<td style="font-size: 90%;" align="center"> <i><a class="mw-redirect" href="../E/Elven_Blade.md" title="Elven Blade">Elven Blade</a></i> | <i><a class="mw-redirect" href="../B/Black_Lance.md" title="Black Lance">Black Lance</a></i> | <i><a class="mw-redirect" href="The_Adamant_of_Henna.md" title="The Adamant of Henna">The Adamant of Henna</a></i>
 </td></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center">Stand-alone works:
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"> <i><a href="/wiki/Heaven%27s_War" title="Heaven&#39;s War">Heaven&#39;s War</a> </i> | <i><a href="/wiki/Looking_for_the_King" title="Looking for the King">Looking for the King</a></i> | <i><a href="/wiki/Mirkwood:_A_Novel_About_JRR_Tolkien" title="Mirkwood: A Novel About JRR Tolkien">Mirkwood: A Novel About JRR Tolkien</a></i>
+<td style="font-size: 90%;" align="center"> <i><a href="../H/Heaven&#39;s_War.md" title="Heaven&#39;s War">Heaven&#39;s War</a> </i> | <i><a href="../L/Looking_for_the_King.md" title="Looking for the King">Looking for the King</a></i> | <i><a href="../M/Mirkwood%253A_A_Novel_About_JRR_Tolkien.md" title="Mirkwood: A Novel About JRR Tolkien">Mirkwood: A Novel About JRR Tolkien</a></i>
 </td></tr></tbody></table>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadhrim"
 ---
 
-Redirect to [Galadhrim](/wiki/Galadhrim).
+Redirect to [Galadhrim](Galadhrim.md).

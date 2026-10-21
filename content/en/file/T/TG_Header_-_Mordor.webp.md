@@ -1,6 +1,5 @@
 ---
 title: "File:TG Header - Mordor.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TG Header - Mordor.webp</span>"
 page_id: 73501
 namespace: 6
 revision_id: 434442

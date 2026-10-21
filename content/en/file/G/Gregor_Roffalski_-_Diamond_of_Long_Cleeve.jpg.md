@@ -1,6 +1,5 @@
 ---
 title: "File:Gregor Roffalski - Diamond of Long Cleeve.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gregor Roffalski - Diamond of Long Cleeve.jpg</span>"
 page_id: 58073
 namespace: 6
 revision_id: 322117

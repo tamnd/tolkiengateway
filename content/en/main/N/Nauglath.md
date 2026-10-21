@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Nogrod"
 ---
 
-Redirect to [Dwarves of Nogrod](/wiki/Dwarves_of_Nogrod).
+Redirect to [Dwarves of Nogrod](../D/Dwarves_of_Nogrod.md).

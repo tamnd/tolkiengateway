@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laurë"
 ---
 
-Redirect to [Laurë](/wiki/Laurë).
+Redirect to [Laurë](Laurë.md).

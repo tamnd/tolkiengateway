@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Saelon"
 ---
 
-Redirect to [Saelon](/wiki/Saelon).
+Redirect to [Saelon](../S/Saelon.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Tol Sirion (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Tol Sirion (Colored by H.E. Riddett).jpg</span>"
 page_id: 5778
 namespace: 6
 revision_id: 205270
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Originally drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in [black and white](/wiki/File:J.R.R._Tolkien_-_Tol_Sirion.jpg "File:J.R.R. Tolkien - Tol Sirion.jpg"), this version has color added by [H.E. Riddett](/wiki/H.E._Riddett) and appeared in [The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978).
+Originally drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) in [black and white](J.R.R._Tolkien_-_Tol_Sirion.jpg.md), this version has color added by [H.E. Riddett](../../main/H/H.E._Riddett.md) and appeared in [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md).
 
 ## Licensing {#Licensing}
 

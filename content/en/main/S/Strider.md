@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aragorn"
 ---
 
-Redirect to [Aragorn](/wiki/Aragorn).
+Redirect to [Aragorn](../A/Aragorn.md).

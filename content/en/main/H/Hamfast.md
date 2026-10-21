@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hamfast (disambiguation)"
 ---
 
-Redirect to [Hamfast (disambiguation)](/wiki/Hamfast_(disambiguation)).
+Redirect to [Hamfast (disambiguation)](<Hamfast_(disambiguation).md>).

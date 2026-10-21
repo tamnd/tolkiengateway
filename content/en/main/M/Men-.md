@@ -13,28 +13,28 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>men-</b></i> is a [Quenya](/wiki/Quenya) verb meaning "goes"<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> or "arrive".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>men-</b></i> is a [Quenya](../Q/Quenya.md) verb meaning "goes"<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup> or "arrive".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-Editor [Patrick H. Wynne](/wiki/Patrick_H._Wynne) links *mene* ("goes") to the [root](/wiki/Sundocarme "Sundocarme") [MEN](/wiki/MEN) ("go").<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+Editor [Patrick H. Wynne](../P/Patrick_H._Wynne.md) links *mene* ("goes") to the [root](../S/Sundocarme.md) [MEN](MEN~35108.md) ("go").<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-<i>imbi <a href="/wiki/Menel" title="Menel">Menel</a> Kemenye <b>mene</b> Ráno tie</i> ("between Heaven and Earth goes the path of the Moon")<sup id="cite_ref-VT_1-2" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+<i>imbi <a href="Menel.md" title="Menel">Menel</a> Kemenye <b>mene</b> Ráno tie</i> ("between Heaven and Earth goes the path of the Moon")<sup id="cite_ref-VT_1-2" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[men](</wiki/Men_(Elvish)> "Men (Elvish)")*
-- *[ten](/wiki/Ten "Ten")*
+- *[men](<Men_(Elvish).md>)*
+- *[ten](../T/Ten~56220.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-VT-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp. 11, 30 (note 44)</span>
+<li id="cite_note-VT-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp. 11, 30 (note 44)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 23</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 23</span>
 </li>
 </ol></div>

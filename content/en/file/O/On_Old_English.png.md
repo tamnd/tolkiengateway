@@ -1,6 +1,5 @@
 ---
 title: "File:On Old English.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">On Old English.png</span>"
 page_id: 38071
 namespace: 6
 revision_id: 214564

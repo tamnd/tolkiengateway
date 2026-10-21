@@ -1,6 +1,5 @@
 ---
 title: "File:En jungiansk fortolkning af Tolkiens Ringenes herre.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">En jungiansk fortolkning af Tolkiens Ringenes herre.png</span>"
 page_id: 32436
 namespace: 6
 revision_id: 214028

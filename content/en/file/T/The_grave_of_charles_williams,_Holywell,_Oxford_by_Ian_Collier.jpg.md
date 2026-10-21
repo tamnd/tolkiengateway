@@ -1,6 +1,5 @@
 ---
 title: "File:The grave of charles williams, Holywell, Oxford by Ian Collier.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The grave of charles williams, Holywell, Oxford by Ian Collier.jpg</span>"
 page_id: 47826
 namespace: 6
 revision_id: 254980
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Grave of [Charles Williams](/wiki/Charles_Williams).
+Grave of [Charles Williams](../../main/C/Charles_Williams.md).
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ Grave of [Charles Williams](/wiki/Charles_Williams).
 <p>This work is copyrighted and owned by Ian L. Collier. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Ian L. Collier</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ian_L._Collier" title="Tolkien Gateway:Copyrights/Ian L. Collier">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIan_L._Collier.md" title="Tolkien Gateway:Copyrights/Ian L. Collier">Permission for use on Tolkien Gateway</a></b></li></ul></div>

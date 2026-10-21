@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inland Sea (disambiguation)"
 ---
 
-Redirect to [Inland Sea (disambiguation)](/wiki/Inland_Sea_(disambiguation)).
+Redirect to [Inland Sea (disambiguation)](<Inland_Sea_(disambiguation).md>).

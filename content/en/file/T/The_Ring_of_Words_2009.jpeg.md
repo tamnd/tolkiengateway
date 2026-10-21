@@ -1,6 +1,5 @@
 ---
 title: "File:The Ring of Words 2009.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ring of Words 2009.jpeg</span>"
 page_id: 66019
 namespace: 6
 revision_id: 380500

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harwë"
 ---
 
-Redirect to [Harwë](/wiki/Harwë).
+Redirect to [Harwë](Harwë.md).

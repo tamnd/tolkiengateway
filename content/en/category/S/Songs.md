@@ -1,6 +1,5 @@
 ---
 title: "Category:Songs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Songs</span>"
 page_id: 5157
 namespace: 14
 revision_id: 148104
@@ -13,4 +12,4 @@ categories:
   - "Writings"
 ---
 
-Below is an alphabetical list of [Songs](/wiki/Songs) found in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works. For songs in the real world, see [Category:Songs (real-world)](</wiki/Category:Songs_(real-world)>).
+Below is an alphabetical list of [Songs](../../main/S/Songs.md) found in [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s works. For songs in the real world, see [Category:Songs (real-world)](<Songs_(real-world).md>).

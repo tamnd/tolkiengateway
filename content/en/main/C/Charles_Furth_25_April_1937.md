@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Charles Furth (25 April 1937)"
 ---
 
-Redirect to [Letter to Charles Furth (25 April 1937)](/wiki/Letter_to_Charles_Furth_(25_April_1937)).
+Redirect to [Letter to Charles Furth (25 April 1937)](<../L/Letter_to_Charles_Furth_(25_April_1937).md>).

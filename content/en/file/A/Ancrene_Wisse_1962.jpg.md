@@ -1,6 +1,5 @@
 ---
 title: "File:Ancrene Wisse 1962.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ancrene Wisse 1962.jpg</span>"
 page_id: 25258
 namespace: 6
 revision_id: 379507

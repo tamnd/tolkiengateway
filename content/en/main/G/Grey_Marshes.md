@@ -11,4 +11,4 @@ redirect_target: "Dead Marshes"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Dead Marshes](/wiki/Dead_Marshes#Portrayal_in_adaptations).
+Redirect to [Dead Marshes](../D/Dead_Marshes.md#Portrayal_in_adaptations).

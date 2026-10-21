@@ -11,4 +11,4 @@ redirect_target: "Lord of Andúnië"
 redirect_fragment: "List of Lords"
 ---
 
-Redirect to [Lord of Andúnië](/wiki/Lord_of_Andúnië#List_of_Lords).
+Redirect to [Lord of Andúnië](Lord_of_Andúnië.md#List_of_Lords).

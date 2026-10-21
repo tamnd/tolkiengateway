@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "La mastro de l' ringoj"
 ---
 
-Redirect to [La mastro de l' ringoj](/wiki/La_mastro_de_l'_ringoj).
+Redirect to [La mastro de l' ringoj](La_mastro_de_l'_ringoj.md).

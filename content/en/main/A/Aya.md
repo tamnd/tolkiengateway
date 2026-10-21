@@ -13,13 +13,13 @@ categories:
   - "Khuzdul words"
 ---
 
-**aya** also prefixed as *ai-* means "upon" in [Khuzdul](/wiki/Khuzdul)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**aya** also prefixed as *ai-* means "upon" in [Khuzdul](../K/Khuzdul.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-It is attested in the phrase [Ai-mênu](/wiki/Aim%C3%AAnu "Aimênu") <span></span>
+It is attested in the phrase [Ai-mênu](Aimênu.md) <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/Appendix_E" title="Appendix E">Appendix E</a></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="Appendix_E.md" title="Appendix E">Appendix E</a></i></span>
 </li>
 </ol></div>

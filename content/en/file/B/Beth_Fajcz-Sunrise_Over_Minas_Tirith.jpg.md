@@ -1,6 +1,5 @@
 ---
 title: "File:Beth Fajcz-Sunrise Over Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beth Fajcz-Sunrise Over Minas Tirith.jpg</span>"
 page_id: 75087
 namespace: 6
 revision_id: 442253

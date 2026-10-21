@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Sauron and Nazgul.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Sauron and Nazgul.png</span>"
 page_id: 56412
 namespace: 6
 revision_id: 307580
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sauron](/wiki/Sauron) and [Nazgul](/wiki/Nazgul) from *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)*.
+[Sauron](../../main/S/Sauron.md) and [Nazgul](../../main/N/Nazgul.md) from *[The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
 
 ## Licensing {#Licensing}
 

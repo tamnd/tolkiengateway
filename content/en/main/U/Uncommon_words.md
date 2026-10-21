@@ -1,6 +1,5 @@
 ---
 title: "Uncommon words"
-display_title: "<span class=\"mw-page-title-main\">Uncommon words</span>"
 page_id: 6963
 namespace: 0
 revision_id: 442909
@@ -13,7 +12,7 @@ categories:
   - "Languages (real-world)"
 ---
 
-Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon**, archaic, obsolete and dialectal words (especially from the dialects of the United Kingdom), and words used in unusual senses, which might cause confusion to readers and may make a passage of text appear unwieldy.
+Within [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works, there are many **uncommon**, archaic, obsolete and dialectal words (especially from the dialects of the United Kingdom), and words used in unusual senses, which might cause confusion to readers and may make a passage of text appear unwieldy.
 
 ## A {#A}
 
@@ -108,7 +107,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **close-serried** - packed tightly together
 - **cloven** - split into two
 - **cob** - spider (the name survives in the term 'cobweb'), also a lead swan, a male swan (short for "cobswan"
-- **cockshut-light** - evening twilight (when woodcocks fly through clearings called cockshoots and can be netted, according to <a class="extiw" href="http://en.wikipedia.org/wiki/cockshoot" title="wikipedia:cockshoot">Wikipedia</a>, or when poultry are shut into their enclosures, an alternative given by the *[Oxford English Dictionary](/wiki/Oxford_English_Dictionary)*)
+- **cockshut-light** - evening twilight (when woodcocks fly through clearings called cockshoots and can be netted, according to <a class="extiw" href="http://en.wikipedia.org/wiki/cockshoot" title="wikipedia:cockshoot">Wikipedia</a>, or when poultry are shut into their enclosures, an alternative given by the *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*)
 - **coëval** - born at the same time
 - **coffer** - strongbox, especially for holding valuables
 - **comely** - pleasant-looking
@@ -118,9 +117,9 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **concourse** - large group of people; crowd
 - **coney** - rabbit
 - **confines** - borders; borderlands
-- **confusticate** - to confuse, confound, or perplex (someone) (The *[Oxford English Dictionary](/wiki/Oxford_English_Dictionary)* says it's a fanciful form of "confuse" or "confound", but its Latin roots can be interpreted "beat with a cudgel".)
+- **confusticate** - to confuse, confound, or perplex (someone) (The *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* says it's a fanciful form of "confuse" or "confound", but its Latin roots can be interpreted "beat with a cudgel".)
 - **constellate** - formed into a constellation
-- **cony** - [rabbit](/wiki/Rabbits "Rabbits")
+- **cony** - [rabbit](../R/Rabbits.md)
 - **cools** - coolnesses
 - **coomb** - short valley in the side of a hill or mountain
 - **coop** - cage, imprison
@@ -221,7 +220,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **flammifer** - in Latin, flammifer means "fiery", but Tolkien's usage is likely meant to suggest "flame-bearer", as a reference to the blazing Silmaril borne by Eärendil.
 - **flank** - the exposed side of an attacking or marching army
 - **flet** - ground, floor, a house (the origin of "flat" meaning a storey of a house, an apartment)
-- **flittermice** - [bats](/wiki/Bats "Bats")
+- **flittermice** - [bats](../B/Bats.md)
 - **flotsam** - floating wreckage; flotsam and jetsam items washed up by the sea, or a flood (also used figuratively)
 - **flummoxed** - bewildered, disconcerted
 - **fold** - a pen for livestock, especially sheep
@@ -243,7 +242,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 
 ## G {#G}
 
-- **gaffer** - a word meaning both "old man" and "foreman"\* its use as the nickname of [Hamfast Gamgee](/wiki/Hamfast_Gamgee) is probably meant to combine both meanings.
+- **gaffer** - a word meaning both "old man" and "foreman"\* its use as the nickname of [Hamfast Gamgee](../H/Hamfast_Gamgee.md) is probably meant to combine both meanings.
 - **gainsay** - contradict
 - **gallop** - boil and bubble
 - **game** - crippled
@@ -297,7 +296,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **hornpipe** - solo dance, usu. associated with sailors; orig. a musical instrument
 - **houseleek** - a fleshy plant that grows on the walls and roofs of houses
 - **hue** - form or shape
-- **hummock** - a small hill or knoll (in The Lord of the Rings, "hummock" is used metaphorically to describe the shape made by the [palantír](/wiki/Palant%C3%ADr "Palantír") beneath Gandalf's cloak)
+- **hummock** - a small hill or knoll (in The Lord of the Rings, "hummock" is used metaphorically to describe the shape made by the [palantír](../P/Palantír.md) beneath Gandalf's cloak)
 - **hundredweight** - the pun in Tolkien's description of Bilbo's 112th birthday as a "Hundredweight Feast" is based on the fact that in Britain a hundredweight is 112 pounds.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - **hunter's moon** - the full moon of mid- to late October
 - **hythe** - a small harbour or haven, especially on a river, "low place on a river bank for landing a boat"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
@@ -333,14 +332,14 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **lee** - shelter, especially from wind and weather
 - **leech** - healer
 - **leechcraft** - the practice of magical medicine. The name is based on the Celtic word for *stone*. The animal leech (Latin: *sanguisuga*, literally: *blood sucker*) is named for the healer (leech), rather than the other way around.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- **[legendarium](/wiki/Legendarium "Legendarium")** - term coined by Tolkien to mean the entirety of his works concerning his imagined world of [Eä](/wiki/E%C3%A4)
+- **[legendarium](../L/Legendarium.md)** - term coined by Tolkien to mean the entirety of his works concerning his imagined world of [Eä](../E/Eä.md)
 - **Lethe** - river in Hades whose water causes drinkers to forget their pasts
 - **lets upon** gives on to, opens on to
 - **lief** gladly, willingly
 - **liever** more gladly, more willingly, rather
 - **lissom** - lithe, supple
 - **loath** - reluctant
-- **lob** - spider (seen, for example, in the name [Shelob](/wiki/Shelob))
+- **lob** - spider (seen, for example, in the name [Shelob](../S/Shelob.md))
 - **loth** - reluctant \[a variation on loath above\]
 - **louver** - a domed structure built on a roof with side-openings to allow smoke to escape
 - **lustihead** vigour
@@ -419,11 +418,11 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **plash** - splash
 - **pleasance** - "A pleasure-ground, usually attached to a mansion; sometimes a secluded part of a garden, but more often a separate enclosure laid out with shady walks, trees and shrubs..." (O.E.D.)
 - **pled** old past tense of plead, 186
-- **plenilune** - the time of full moon (see *[Letters](/wiki/The_Letters_of_J.R.R._Tolkien "The Letters of J.R.R. Tolkien")* p. 310).
+- **plenilune** - the time of full moon (see *[Letters](../T/The_Letters_of_J.R.R._Tolkien.md)* p. 310).
 - **portage** - transporting a boat overland
 - **portent** - omen, sign
 - **postern** - a back- or side-entrance
-- **pricks** - (spurs his horse), rides fast. [Oromë](/wiki/Orom%C3%AB) pricks over the plain echoes the first line of The Faerie Queene, A Gentle Knight was pricking on the plaine.
+- **pricks** - (spurs his horse), rides fast. [Oromë](../O/Oromë.md) pricks over the plain echoes the first line of The Faerie Queene, A Gentle Knight was pricking on the plaine.
 - **prink** - to primp
 - **profound** - deep
 - **prosy** - dull, contented with the commonplace
@@ -467,8 +466,8 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **sate** - old past tense of sit
 - **save** - except
 - **sea-bell** - a species of bindweed, a twining plant of the morning-glory family, binds, mats, or interlaces with neighboring plants
-- **seamews** - [seagulls](/wiki/Seagulls "Seagulls")
-- **selenites** - inhabitants of the [Moon](/wiki/Moon)
+- **seamews** - [seagulls](../S/Seagulls.md)
+- **selenites** - inhabitants of the [Moon](../M/Moon.md)
 - **semblance** - appearance
 - **shade** - ghost or phantasm
 - **shallop** - This word had precise applications to particular kinds of boat, but here apparently means "open boat propelled by oars and sail".
@@ -493,7 +492,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **spinney** - group of trees, or small wood
 - **sprent** - past participle of the lost verb sprenge "sprinkle, scatter"
 - **Springle-ring** - a Shire Hobbits' lively dance involving jumping
-- **[sprite(s)](/wiki/Sprites "Sprites")** - spirit(s)
+- **[sprite(s)](../S/Sprites.md)** - spirit(s)
 - **stead** - place, position
 - **stem** - block, hold back
 - **stock** - the trunk or stump of a tree; stock and stone inanimate things
@@ -599,7 +598,7 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 - **wherefore** - for what (or which) reason
 - **wherry** - a long, light rowboat chiefly used for carrying passengers
 - **whet** - sharpen
-- **whickering** - The verb whicker meant to laugh or titter, or of a horse to whinny, but the O.E.D. cites a line from Masefield *the wall-top grasses whickered in the breeze*, and the 1920 Supplement to the Dictionary gives a meaning "to make a hurtling sound", with a single citation where the word is used of a thunderbolt "whickering through the sky". In the 1962 version of <i><a class="new" href="/w/index.php?title=The_Man_in_the_Moon&amp;action=edit&amp;redlink=1" title="The Man in the Moon (page does not exist)">The Man in the Moon</a></i> the word flickering occurs in this verse.
+- **whickering** - The verb whicker meant to laugh or titter, or of a horse to whinny, but the O.E.D. cites a line from Masefield *the wall-top grasses whickered in the breeze*, and the 1920 Supplement to the Dictionary gives a meaning "to make a hurtling sound", with a single citation where the word is used of a thunderbolt "whickering through the sky". In the 1962 version of <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Man_in_the_Moon&amp;action=edit&amp;redlink=1" title="The Man in the Moon (page does not exist)">The Man in the Moon</a></i> the word flickering occurs in this verse.
 - **whitethorn** - hawthorn
 - **whither** - to which place
 - **wildered** - perplexed, bewildered
@@ -633,22 +632,22 @@ Within [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works, there are many **uncommon
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LT2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LT2_1-0">1.00</a></sup> <sup><a href="#cite_ref-LT2_1-1">1.01</a></sup> <sup><a href="#cite_ref-LT2_1-2">1.02</a></sup> <sup><a href="#cite_ref-LT2_1-3">1.03</a></sup> <sup><a href="#cite_ref-LT2_1-4">1.04</a></sup> <sup><a href="#cite_ref-LT2_1-5">1.05</a></sup> <sup><a href="#cite_ref-LT2_1-6">1.06</a></sup> <sup><a href="#cite_ref-LT2_1-7">1.07</a></sup> <sup><a href="#cite_ref-LT2_1-8">1.08</a></sup> <sup><a href="#cite_ref-LT2_1-9">1.09</a></sup> <sup><a href="#cite_ref-LT2_1-10">1.10</a></sup> <sup><a href="#cite_ref-LT2_1-11">1.11</a></sup> <sup><a href="#cite_ref-LT2_1-12">1.12</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_Two" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;Short Glossary of Obsolete, Archaic and Rare Words&#34;</span>
+<li id="cite_note-LT2-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LT2_1-0">1.00</a></sup> <sup><a href="#cite_ref-LT2_1-1">1.01</a></sup> <sup><a href="#cite_ref-LT2_1-2">1.02</a></sup> <sup><a href="#cite_ref-LT2_1-3">1.03</a></sup> <sup><a href="#cite_ref-LT2_1-4">1.04</a></sup> <sup><a href="#cite_ref-LT2_1-5">1.05</a></sup> <sup><a href="#cite_ref-LT2_1-6">1.06</a></sup> <sup><a href="#cite_ref-LT2_1-7">1.07</a></sup> <sup><a href="#cite_ref-LT2_1-8">1.08</a></sup> <sup><a href="#cite_ref-LT2_1-9">1.09</a></sup> <sup><a href="#cite_ref-LT2_1-10">1.10</a></sup> <sup><a href="#cite_ref-LT2_1-11">1.11</a></sup> <sup><a href="#cite_ref-LT2_1-12">1.12</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;Short Glossary of Obsolete, Archaic and Rare Words&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 74.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 74.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/Mark_T._Hooker" title="Mark T. Hooker">Mark T. Hooker</a>, <i><a href="/wiki/The_Hobbitonian_Anthology" title="The Hobbitonian Anthology">The Hobbitonian Anthology</a></i>, pp. 160-164.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../M/Mark_T._Hooker.md" title="Mark T. Hooker">Mark T. Hooker</a>, <i><a href="../T/The_Hobbitonian_Anthology.md" title="The Hobbitonian Anthology">The Hobbitonian Anthology</a></i>, pp. 160-164.</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Andreas_M%C3%B6hn" title="Andreas Möhn">Andreas Möhn</a></span>. <span class="cite-web-article"><a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Bombadil_in_the_Shire.html" rel="noreferrer noopener" target="_blank">&#34;Bombadil in the Shire&#34;</a></span>. <span class="cite-web-website">Lalaith</span>. <span class="cite-web-accessed">Retrieved 16 May 2012</span></cite></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../A/Andreas_Möhn.md" title="Andreas Möhn">Andreas Möhn</a></span>. <span class="cite-web-article"><a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Bombadil_in_the_Shire.html" rel="noreferrer noopener" target="_blank">&#34;Bombadil in the Shire&#34;</a></span>. <span class="cite-web-website">Lalaith</span>. <span class="cite-web-accessed">Retrieved 16 May 2012</span></cite></span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/Mark_T._Hooker" title="Mark T. Hooker">Mark T. Hooker</a>, <i><a href="/wiki/The_Hobbitonian_Anthology" title="The Hobbitonian Anthology">The Hobbitonian Anthology</a></i>, pp. 165-172.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../M/Mark_T._Hooker.md" title="Mark T. Hooker">Mark T. Hooker</a>, <i><a href="../T/The_Hobbitonian_Anthology.md" title="The Hobbitonian Anthology">The Hobbitonian Anthology</a></i>, pp. 165-172.</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Flight_to_the_Ford" title="Flight to the Ford">Flight to the Ford</a>&#34;</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Flight_to_the_Ford.md" title="Flight to the Ford">Flight to the Ford</a>&#34;</span>
 </li>
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Adventures_of_Tom_Bombadil" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="/wiki/The_Stone_Troll" title="The Stone Troll">The Stone Troll</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="../T/The_Stone_Troll.md" title="The Stone Troll">The Stone Troll</a>&#34;</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.merriam-webster.com/dictionary/nuncle" rel="noreferrer noopener" target="_blank">&#34;&#34;nuncle&#34;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.merriam-webster.com/" rel="noreferrer noopener" target="_blank">Merriam-Webster</a></span>. <span class="cite-web-accessed">Retrieved 9 March 2012</span></cite></span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.merriam-webster.com/dictionary/nuncle" rel="noreferrer noopener" target="_blank">&#34;&#34;nuncle&#34;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.merriam-webster.com/" rel="noreferrer noopener" target="_blank">Merriam-Webster</a></span>. <span class="cite-web-accessed">Retrieved 9 March 2012</span></cite></span>
 </li>
 </ol></div>
 

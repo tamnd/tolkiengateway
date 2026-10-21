@@ -15,7 +15,7 @@ sort_keys:
   "Letters": "Harding, Willard G. (1926-06-25)"
 ---
 
-On [25 June](/wiki/25_June) [1926](/wiki/1926), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to Willard G. Harding**.
+On [25 June](../_/25_June.md) [1926](../_/1926.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to Willard G. Harding**.
 
 - **Publication:** None
 - **Description:** Tolkien replies to an enquiry from Willard G. Harding about the etymology of "gemowe".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -25,6 +25,6 @@ On [25 June](/wiki/25_June) [1926](/wiki/1926), [J.R.R. Tolkien](/wiki/J.R.R._To
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a> (accessed 30 May 2015)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a> (accessed 30 May 2015)</span>
 </li>
 </ol></div>

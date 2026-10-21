@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Deborah Rogers"
 ---
 
-Redirect to [Deborah Rogers](/wiki/Deborah_Rogers).
+Redirect to [Deborah Rogers](Deborah_Rogers.md).

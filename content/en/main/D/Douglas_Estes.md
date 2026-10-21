@@ -1,6 +1,5 @@
 ---
 title: "Douglas Estes"
-display_title: "<span class=\"mw-page-title-main\">Douglas Estes</span>"
 page_id: 67991
 namespace: 0
 revision_id: 405266
@@ -21,26 +20,26 @@ sort_keys:
   "People by name": "Estes, Douglas"
 ---
 
-**Douglas Estes** is a biblical scholar with interests in narrative, imagination, and [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). Douglas has written or edited thirteen books and more than fifty articles and essays. He currently serves as Associate Professor of Religion at New College of Florida.
+**Douglas Estes** is a biblical scholar with interests in narrative, imagination, and [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Douglas has written or edited thirteen books and more than fifty articles and essays. He currently serves as Associate Professor of Religion at New College of Florida.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [2023](/wiki/2023): *[Theology and Tolkien: Practical Theology](/wiki/Theology_and_Tolkien:_Practical_Theology)*
-- [2024](/wiki/2024): *[Theology and Tolkien: Constructive Theology](/wiki/Theology_and_Tolkien:_Constructive_Theology)*
+- [2023](../_/2023.md): *[Theology and Tolkien: Practical Theology](../T/Theology_and_Tolkien%253A_Practical_Theology.md)*
+- [2024](../_/2024.md): *[Theology and Tolkien: Constructive Theology](../T/Theology_and_Tolkien%253A_Constructive_Theology.md)*
 
 ### Articles and Essays {#Articles_and_Essays}
 
-- [2019](/wiki/2019): *Christianity Today*
+- [2019](../_/2019.md): *Christianity Today*
     - <a class="external text" href="https://www.christianitytoday.com/ct/2019/december-web-only/what-christians-miss-when-they-dismiss-imagination.html" rel="noreferrer noopener" target="_blank">“What Christians Miss When They Dismiss Imagination&#34;</a>
-- [2023](/wiki/2023): *[Theology and Tolkien: Practical Theology](/wiki/Theology_and_Tolkien:_Practical_Theology)*
+- [2023](../_/2023.md): *[Theology and Tolkien: Practical Theology](../T/Theology_and_Tolkien%253A_Practical_Theology.md)*
     - “Gandalf the Grey, Apostle to Men and Elves”
-- [2024](/wiki/2024): *[Theology and Tolkien: Constructive Theology](/wiki/Theology_and_Tolkien:_Constructive_Theology)*
+- [2024](../_/2024.md): *[Theology and Tolkien: Constructive Theology](../T/Theology_and_Tolkien%253A_Constructive_Theology.md)*
     - “In the Brilliant Darkness of a Hidden Silence: J.R.R. Tolkien’s Apophatic Tendencies”
-- [2024](/wiki/2024): *What John Knows*
+- [2024](../_/2024.md): *What John Knows*
     - “Imagination”
-- [2025](/wiki/2025): *Furor Poeticus*
+- [2025](../_/2025.md): *Furor Poeticus*
     - “Tolkien's Mythopoeia” (forthcoming)
 
 ### Interviews {#Interviews}

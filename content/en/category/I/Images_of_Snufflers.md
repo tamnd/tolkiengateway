@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Orc-hunters"
 ---
 
-Redirect to [Category:Images of Orc-hunters](/wiki/Category:Images_of_Orc-hunters).
+Redirect to [Category:Images of Orc-hunters](Images_of_Orc-hunters.md).

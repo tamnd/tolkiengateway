@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - At the Prancing Pony.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - At the Prancing Pony.jpg</span>"
 page_id: 71566
 namespace: 6
 revision_id: 438263
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"At the [Prancing Pony](/wiki/Prancing_Pony)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the <a class="new" href="/w/index.php?title=1976J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1976J.R.R. Tolkien Calendar (page does not exist)">1976J.R.R. Tolkien Calendar</a>
+"At the [Prancing Pony](../../main/P/Prancing_Pony.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=1976J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1976J.R.R. Tolkien Calendar (page does not exist)">1976J.R.R. Tolkien Calendar</a>
 
 ## Licensing {#Licensing}
 

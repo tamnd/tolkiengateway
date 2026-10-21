@@ -1,6 +1,5 @@
 ---
 title: "File:Angelo Montanini - Bofur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angelo Montanini - Bofur.jpg</span>"
 page_id: 7919
 namespace: 6
 revision_id: 440808
@@ -34,26 +33,23 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Angelo Montanini - Bofur.jpg</span></th>
 <td class="description">
 <p><i>Bofur</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Angelo_Montanini" title="Angelo Montanini">Angelo Montanini</a></td>
+<td><a href="../../main/A/Angelo_Montanini.md" title="Angelo Montanini">Angelo Montanini</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.finarte.it/auction/the-art-of-the-lord-of-the-rings-milan-2022-12-14/angelo-montanini-bofur-88593?lang=en" rel="noreferrer noopener" target="_blank">&#34;Dream &amp; Gifts: The art of Angelo Montanini&#34;</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

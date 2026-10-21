@@ -1,6 +1,5 @@
 ---
 title: "Category:Númenórean Calendar"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Númenórean Calendar</span>"
 page_id: 2640
 namespace: 14
 revision_id: 339376

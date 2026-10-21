@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages which use = as a template"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages which use = as a template</span>"
 page_id: 69223
 namespace: 14
 revision_id: 413583

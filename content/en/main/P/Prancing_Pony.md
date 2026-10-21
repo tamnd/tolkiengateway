@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Prancing Pony"
 ---
 
-Redirect to [The Prancing Pony](/wiki/The_Prancing_Pony).
+Redirect to [The Prancing Pony](../T/The_Prancing_Pony.md).

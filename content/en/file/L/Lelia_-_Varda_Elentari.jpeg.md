@@ -1,6 +1,5 @@
 ---
 title: "File:Lelia - Varda Elentari.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lelia - Varda Elentari.jpeg</span>"
 page_id: 52408
 namespace: 6
 revision_id: 285378
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lelia</li>
 <li><b>Website:</b> <a class="external text" href="http://lelia.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Lelia" title="Tolkien Gateway:Copyrights/Lelia">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLelia.md" title="Tolkien Gateway:Copyrights/Lelia">Permission for use on Tolkien Gateway</a></b></li></ul></div>

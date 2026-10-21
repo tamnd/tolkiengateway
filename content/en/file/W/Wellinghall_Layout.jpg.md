@@ -1,6 +1,5 @@
 ---
 title: "File:Wellinghall Layout.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wellinghall Layout.jpg</span>"
 page_id: 71517
 namespace: 6
 revision_id: 426446
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Wellinghall](/wiki/Wellinghall) Layout illustration from *[Ents of Fangorn](/wiki/Ents_of_Fangorn)*
+[Wellinghall](../../main/W/Wellinghall.md) Layout illustration from *[Ents of Fangorn](../../main/E/Ents_of_Fangorn.md)*
 
 ## Licensing {#Licensing}
 

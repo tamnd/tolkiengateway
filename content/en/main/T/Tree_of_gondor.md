@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Tree of Gondor"
 ---
 
-Redirect to [White Tree of Gondor](/wiki/White_Tree_of_Gondor).
+Redirect to [White Tree of Gondor](../W/White_Tree_of_Gondor.md).

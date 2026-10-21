@@ -1,6 +1,5 @@
 ---
 title: "1965 BBC Interview"
-display_title: "<span class=\"mw-page-title-main\">1965 BBC Interview</span>"
 page_id: 25313
 namespace: 0
 revision_id: 404433
@@ -13,22 +12,22 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1965 BBC Interview** is a [recorded](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien "Index:Audio recordings of J.R.R. Tolkien") [interview](/wiki/Index:Interviews_with_J.R.R._Tolkien "Index:Interviews with J.R.R. Tolkien") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on [January 20](/wiki/20_January "20 January"), [1965](/wiki/1965), to be placed in the BBC's Recorded Programmes Permanent Library.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The interview comprises a detailed discussion about *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and whether Tolkien will be remembered for his fiction or his academic career.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**1965 BBC Interview** is a [recorded](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) [interview](../../index/I/Interviews_with_J.R.R._Tolkien.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) on [January 20](20_January.md), [1965](1965.md), to be placed in the BBC's Recorded Programmes Permanent Library.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The interview comprises a detailed discussion about *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and whether Tolkien will be remembered for his fiction or his academic career.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- Interviewer: [Denys Gueroult](/wiki/Denys_Gueroult)
+- Interviewer: [Denys Gueroult](../D/Denys_Gueroult.md)
 - Venue: Randolph Hotel, Oxford
 - Duration: nearly 40 minutes
-- Publication: An extract was released on *[The Spoken Word: British Writers](/wiki/The_Spoken_Word:_British_Writers)*. Another extract, where Tolkien discusses the grammar of the word 'Dwarves', was published in *[The Annotated Hobbit: Revised and Expanded Edition](/wiki/The_Annotated_Hobbit:_Revised_and_Expanded_Edition)*, page 27.
+- Publication: An extract was released on *[The Spoken Word: British Writers](../T/The_Spoken_Word%253A_British_Writers.md)*. Another extract, where Tolkien discusses the grammar of the word 'Dwarves', was published in *[The Annotated Hobbit: Revised and Expanded Edition](../T/The_Annotated_Hobbit%253A_Revised_and_Expanded_Edition.md)*, page 27.
 
-As a trial for this interview, [Denys Gueroult](/wiki/Denys_Gueroult) had already made an informal recording of Tolkien in 1964 (see *[1964 BBC Interview](/wiki/1964_BBC_Interview)*).
+As a trial for this interview, [Denys Gueroult](../D/Denys_Gueroult.md) had already made an informal recording of Tolkien in 1964 (see *[1964 BBC Interview](1964_BBC_Interview.md)*).
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.627. Another source, <i><a href="/wiki/The_Spoken_Word:_British_Writers" title="The Spoken Word: British Writers">The Spoken Word: British Writers</a></i>, says the interview was recorded for the BBC Sound Archive and was not transmitted.<i></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.627. Another source, <i><a href="../T/The_Spoken_Word%253A_British_Writers.md" title="The Spoken Word: British Writers">The Spoken Word: British Writers</a></i>, says the interview was recorded for the BBC Sound Archive and was not transmitted.<i></i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Publishers&#39; note to the <i><a href="/wiki/The_Spoken_Word:_British_Writers" title="The Spoken Word: British Writers">The Spoken Word: British Writers</a></i>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Publishers&#39; note to the <i><a href="../T/The_Spoken_Word%253A_British_Writers.md" title="The Spoken Word: British Writers">The Spoken Word: British Writers</a></i>.</span>
 </li>
 </ol></div>

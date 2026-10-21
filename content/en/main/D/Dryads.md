@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dryads (disambiguation)"
 ---
 
-Redirect to [Dryads (disambiguation)](/wiki/Dryads_(disambiguation)).
+Redirect to [Dryads (disambiguation)](<Dryads_(disambiguation).md>).

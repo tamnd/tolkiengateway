@@ -1,6 +1,5 @@
 ---
 title: "Category:Biology (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Biology (real-world)</span>"
 page_id: 21990
 namespace: 14
 revision_id: 176234
@@ -13,6 +12,6 @@ categories:
   - "Real-world"
 ---
 
-<dl><dd><i>For the biology of Arda see <a href="/wiki/Category:E%C3%A4" title="Category:Eä">Category:Eä</a>, especially <a href="/wiki/Category:Plants" title="Category:Plants">Category:Plants</a> and <a href="/wiki/Category:Races" title="Category:Races">Category:Races</a>.</i></dd></dl>
+<dl><dd><i>For the biology of Arda see <a href="../E/Eä.md" title="Category:Eä">Category:Eä</a>, especially <a href="../P/Plants.md" title="Category:Plants">Category:Plants</a> and <a href="../R/Races.md" title="Category:Races">Category:Races</a>.</i></dd></dl>
 
-The biology that is part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+The biology that is part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

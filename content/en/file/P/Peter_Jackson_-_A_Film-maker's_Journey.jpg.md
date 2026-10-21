@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Jackson - A Film-maker's Journey.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Jackson - A Film-maker&#039;s Journey.jpg</span>"
 page_id: 12724
 namespace: 6
 revision_id: 214327

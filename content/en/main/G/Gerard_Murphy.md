@@ -1,6 +1,5 @@
 ---
 title: "Gerard Murphy"
-display_title: "<span class=\"mw-page-title-main\">Gerard Murphy</span>"
 page_id: 6875
 namespace: 0
 revision_id: 233053
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Murphy, Gerard"
 ---
 
-**Gerard Murphy** ([14 October](/wiki/14_October), [1948](/wiki/1948)-[26 August](/wiki/26_August), [2013](/wiki/2013)) was the narrator of the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"), broadcasted on the [BBC 4](/wiki/BBC "BBC"). Murphy, a Shakespearian actor, has appeared in guest roles in numerous British TV-series, such as *Dr. Who*, *Dalziel &amp; Pascoe* and *Waking the Dead*.
+**Gerard Murphy** ([14 October](../_/14_October.md), [1948](../_/1948.md)-[26 August](../_/26_August.md), [2013](../_/2013.md)) was the narrator of the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), broadcasted on the [BBC 4](../B/BBC.md). Murphy, a Shakespearian actor, has appeared in guest roles in numerous British TV-series, such as *Dr. Who*, *Dalziel &amp; Pascoe* and *Waking the Dead*.
 
 ## External links {#External_links}
 

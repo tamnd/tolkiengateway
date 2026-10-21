@@ -13,22 +13,22 @@ categories:
   - "Khuzdul words"
 ---
 
-**felek** means "to hew rock" in [Khuzdul](/wiki/Khuzdul).
+**felek** means "to hew rock" in [Khuzdul](../K/Khuzdul.md).
 
 ## Etymology {#Etymology}
 
-Stated to be a "root".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") is \*F-L-K
+Stated to be a "root".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The [Root](../S/Sundocarmë.md) is \*F-L-K
 
 ## See also {#See_also}
 
-- *[felak](/wiki/Felak "Felak")*
-- *[felakgundu](/wiki/Felakgundu "Felakgundu")*
+- *[felak](Felak.md)*
+- *[felakgundu](Felakgundu.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.352</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.352</span>
 </li>
 </ol></div>

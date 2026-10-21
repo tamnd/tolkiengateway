@@ -11,4 +11,4 @@ redirect_target: "Darkening of Valinor"
 redirect_fragment: "Long Night"
 ---
 
-Redirect to [Darkening of Valinor](/wiki/Darkening_of_Valinor#Long_Night).
+Redirect to [Darkening of Valinor](../D/Darkening_of_Valinor.md#Long_Night).

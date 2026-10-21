@@ -11,4 +11,4 @@ redirect_target: "Witch-king"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Witch-king](/wiki/Witch-king#Other_versions_of_the_legendarium).
+Redirect to [Witch-king](Witch-king.md#Other_versions_of_the_legendarium).

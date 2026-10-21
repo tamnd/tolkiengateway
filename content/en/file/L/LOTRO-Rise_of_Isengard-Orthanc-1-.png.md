@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO-Rise of Isengard-Orthanc-1-.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO-Rise of Isengard-Orthanc-1-.png</span>"
 page_id: 30975
 namespace: 6
 revision_id: 372584
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orthanc](/wiki/Orthanc) in *[The Lord of the Rings Online: Rise of Isengard](/wiki/The_Lord_of_the_Rings_Online:_Rise_of_Isengard)*.
+[Orthanc](../../main/O/Orthanc.md) in *[The Lord of the Rings Online: Rise of Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md)*.
 
 ## Licensing {#Licensing}
 

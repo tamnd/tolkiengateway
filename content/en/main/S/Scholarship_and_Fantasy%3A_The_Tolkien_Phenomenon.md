@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Scholarship and Fantasy"
 ---
 
-Redirect to [Scholarship and Fantasy](/wiki/Scholarship_and_Fantasy).
+Redirect to [Scholarship and Fantasy](Scholarship_and_Fantasy.md).

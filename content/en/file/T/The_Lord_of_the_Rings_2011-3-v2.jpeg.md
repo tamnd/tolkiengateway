@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings 2023-v2.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings 2023-v2.jpeg](/wiki/File:The_Lord_of_the_Rings_2023-v2.jpeg).
+Redirect to [File:The Lord of the Rings 2023-v2.jpeg](The_Lord_of_the_Rings_2023-v2.jpeg.md).

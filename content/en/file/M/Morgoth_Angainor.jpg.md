@@ -1,6 +1,5 @@
 ---
 title: "File:Morgoth Angainor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Morgoth Angainor.jpg</span>"
 page_id: 74230
 namespace: 6
 revision_id: 437467

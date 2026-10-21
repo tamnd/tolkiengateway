@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Marta Nael"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Marta Nael</span>"
 page_id: 74602
 namespace: 14
 revision_id: 439113
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Nael, Marta"
 ---
 
-This category lists all **images by [Marta Nael](/wiki/Marta_Nael)**.
+This category lists all **images by [Marta Nael](../../main/M/Marta_Nael.md)**.

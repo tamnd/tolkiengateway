@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Lúthien dances (preparatory sketch).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Lúthien dances (preparatory sketch).jpg</span>"
 page_id: 74497
 namespace: 6
 revision_id: 438596
@@ -34,28 +33,25 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Lúthien dances (preparatory sketch).jpg</span></th>
 <td class="description">
-<blockquote><p>One of my preparatory sketches for <a href="/wiki/File:Stephen_Walsh_-_L%C3%BAthien_dances.jpg" title="File:Stephen Walsh - Lúthien dances.jpg">my latest painting</a>. I&#39;ve added <a href="/wiki/Hemlocks" title="Hemlocks">hemlock</a> in reference to <a href="/wiki/Edith_Tolkien" title="Edith Tolkien">Edith</a>&#39;s dance among the white flowers.</p></blockquote><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
-<p>But wandering in the summer in the woods of <a class="mw-redirect" href="/wiki/Neldoreth" title="Neldoreth">Neldoreth</a> <a href="/wiki/Beren" title="Beren">he</a> came upon <a href="/wiki/L%C3%BAthien" title="Lúthien">Lúthien</a>, daughter of <a href="/wiki/Thingol" title="Thingol">Thingol</a> and <a href="/wiki/Melian" title="Melian">Melian</a>, at a time of evening under <a href="/wiki/Moon" title="Moon">moonrise</a>, as she danced upon the unfading grass in the glades beside <a href="/wiki/Esgalduin" title="Esgalduin">Esgalduin</a>.
+<blockquote><p>One of my preparatory sketches for <a href="Stephen_Walsh_-_Lúthien_dances.jpg.md" title="File:Stephen Walsh - Lúthien dances.jpg">my latest painting</a>. I&#39;ve added <a href="../../main/H/Hemlocks.md" title="Hemlocks">hemlock</a> in reference to <a href="../../main/E/Edith_Tolkien.md" title="Edith Tolkien">Edith</a>&#39;s dance among the white flowers.</p></blockquote><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
+<p>But wandering in the summer in the woods of <a class="mw-redirect" href="../../main/N/Neldoreth.md" title="Neldoreth">Neldoreth</a> <a href="../../main/B/Beren.md" title="Beren">he</a> came upon <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a>, daughter of <a href="../../main/T/Thingol.md" title="Thingol">Thingol</a> and <a href="../../main/M/Melian.md" title="Melian">Melian</a>, at a time of evening under <a href="../../main/M/Moon.md" title="Moon">moonrise</a>, as she danced upon the unfading grass in the glades beside <a href="../../main/E/Esgalduin.md" title="Esgalduin">Esgalduin</a>.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Of_Beren_and_L%C3%BAthien" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+<p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../../main/O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</cite></p>
+</blockquote><div class="tg-section-divider"></div></div>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/6_March" title="6 March">March 6</a> <a href="/wiki/2017" title="2017">2017</a></td>
+<td><a href="../../main/_/6_March.md" title="6 March">March 6</a> <a href="../../main/_/2017.md" title="2017">2017</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.instagram.com/stephenwalshart/p/BRTAkJejWGk/" rel="noreferrer noopener" target="_blank">https://www.instagram.com/stephenwalshart/p/BRTAkJejWGk/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -63,4 +59,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

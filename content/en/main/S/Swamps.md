@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Swamps"
 ---
 
-Redirect to [Category:Swamps](/wiki/Category:Swamps).
+Redirect to [Category:Swamps](../../category/S/Swamps.md).

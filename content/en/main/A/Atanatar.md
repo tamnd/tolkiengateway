@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atanatar (disambiguation)"
 ---
 
-Redirect to [Atanatar (disambiguation)](/wiki/Atanatar_(disambiguation)).
+Redirect to [Atanatar (disambiguation)](<Atanatar_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:United States"
 ---
 
-Redirect to [Category:United States](/wiki/Category:United_States).
+Redirect to [Category:United States](../../category/U/United_States.md).

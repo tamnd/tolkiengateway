@@ -1,6 +1,5 @@
 ---
 title: "File:WITN-boxart.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">WITN-boxart.png</span>"
 page_id: 34726
 namespace: 6
 revision_id: 248591

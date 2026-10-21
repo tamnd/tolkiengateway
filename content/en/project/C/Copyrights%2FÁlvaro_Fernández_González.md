@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Álvaro Fernández González"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Álvaro Fernández González</span>"
 page_id: 64866
 namespace: 4
 revision_id: 373669
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "González, Álvaro Fernández"
 ---
 
-- Álvaro Fernández González has kindly granted permission to use [their artwork](/wiki/Category:Images_by_%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez "Category:Images by Álvaro Fernández González") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [May 21st](/wiki/May_21 "May 21"), [2023](/wiki/2023)
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- Álvaro Fernández González has kindly granted permission to use [their artwork](../../category/I/Images_by_Álvaro_Fernández_González.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [May 21st](../../main/M/May_21.md), [2023](../../main/_/2023.md)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

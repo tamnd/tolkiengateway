@@ -1,6 +1,5 @@
 ---
 title: "Silver pennies"
-display_title: "<span class=\"mw-page-title-main\">Silver pennies</span>"
 page_id: 41822
 namespace: 0
 revision_id: 422726
@@ -23,15 +22,15 @@ images:
   - "Silver_Penny.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Silver_Penny.png"><img src="/w/images/thumb/2/24/Silver_Penny.png/300px-Silver_Penny.png" decoding="async" loading="lazy" width="300" height="219" class="mw-file-element" srcset="/w/images/thumb/2/24/Silver_Penny.png/450px-Silver_Penny.png 1.5x, /w/images/2/24/Silver_Penny.png 2x" data-file-width="480" data-file-height="351"/></a><figcaption><i>Silver Penny</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Silver_Penny.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/24/Silver_Penny.png/300px-Silver_Penny.png" decoding="async" loading="lazy" width="300" height="219" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/24/Silver_Penny.png/450px-Silver_Penny.png 1.5x, https://tolkiengateway.net/w/images/2/24/Silver_Penny.png 2x" data-file-width="480" data-file-height="351"/></a><figcaption><i>Silver Penny</i></figcaption></figure>
 
-**Silver pennies** were a [currency](/wiki/Money "Money") used in [Bree](/wiki/Bree) at the time of the [War of the Ring](/wiki/War_of_the_Ring).
+**Silver pennies** were a [currency](../M/Money.md) used in [Bree](../B/Bree.md) at the time of the [War of the Ring](../W/War_of_the_Ring.md).
 
-On the morning of [30 September](/wiki/30_September) [T.A.](/wiki/Third_Age "Third Age") [3018](/wiki/Third_Age_3018 "Third Age 3018")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> it was discovered that all of the ponies belonging to [Frodo](/wiki/Frodo_Baggins "Frodo Baggins"), [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck"), [Pippin](/wiki/Peregrin_Took "Peregrin Took"), and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee"), as well as every other horse stabled at [the Prancing Pony](/wiki/The_Prancing_Pony "The Prancing Pony") had been stolen in the night. Eventually [Bill the Pony](/wiki/Bill_the_Pony) was bought from [Bill Ferny](/wiki/Bill_Ferny) for twelve silver pennies, which was considered to be at least three times its value. [Barliman Butterbur](/wiki/Barliman_Butterbur) paid for the beast and also gave Merry eighteen more silver pennies in compensation for the ponies the party had lost. The loss of thirty silver pennies was quite a financial blow to the innkeeper, even though he was reckoned well-off in [Bree](/wiki/Bree).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+On the morning of [30 September](../_/30_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> it was discovered that all of the ponies belonging to [Frodo](../F/Frodo_Baggins.md), [Merry](../M/Meriadoc_Brandybuck.md), [Pippin](../P/Peregrin_Took.md), and [Sam](Samwise_Gamgee.md), as well as every other horse stabled at [the Prancing Pony](../T/The_Prancing_Pony.md) had been stolen in the night. Eventually [Bill the Pony](../B/Bill_the_Pony.md) was bought from [Bill Ferny](../B/Bill_Ferny.md) for twelve silver pennies, which was considered to be at least three times its value. [Barliman Butterbur](../B/Barliman_Butterbur.md) paid for the beast and also gave Merry eighteen more silver pennies in compensation for the ponies the party had lost. The loss of thirty silver pennies was quite a financial blow to the innkeeper, even though he was reckoned well-off in [Bree](../B/Bree.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>2003: <a href="/wiki/The_Hobbit_(2003_video_game)" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (2003 video game)</a>:</b>
 
 <dl><dd>Silver pennies are collected throughout the PC and console versions, and Bilbo can use them to purchase items between levels at the vendor.</dd></dl>
 
@@ -40,8 +39,8 @@ On the morning of [30 September](/wiki/30_September) [T.A.](/wiki/Third_Age "Thi
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Knife_in_the_Dark" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</span>
 </li>
 </ol></div>

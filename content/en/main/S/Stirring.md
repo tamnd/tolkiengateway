@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Echuir"
 ---
 
-Redirect to [Echuir](/wiki/Echuir).
+Redirect to [Echuir](../E/Echuir.md).

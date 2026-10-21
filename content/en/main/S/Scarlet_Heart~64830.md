@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Scarlet heart"
 ---
 
-Redirect to [Scarlet heart](/wiki/Scarlet_heart).
+Redirect to [Scarlet heart](Scarlet_heart.md).

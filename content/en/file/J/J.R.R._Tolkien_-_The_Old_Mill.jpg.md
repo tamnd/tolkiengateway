@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Old Mill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Old Mill.jpg</span>"
 page_id: 73380
 namespace: 6
 revision_id: 433952
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Detail of "[The Hill: Hobbiton-across-the-Water](</wiki/File:J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg> "File:J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg")" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), depicting [The Old Mill](/wiki/Old_Mill "Old Mill")
+Detail of "[The Hill: Hobbiton-across-the-Water](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), depicting [The Old Mill](../../main/O/Old_Mill.md)
 
 ## Licensing {#Licensing}
 

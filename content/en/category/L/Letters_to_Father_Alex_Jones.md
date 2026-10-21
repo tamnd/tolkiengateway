@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Father Alex Jones"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Father Alex Jones</span>"
 page_id: 68686
 namespace: 14
 revision_id: 408720
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Jones, Father Alex"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/Father_Alex_Jones" title="wikipedia:Father Alex Jones">Father Alex Jones</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/Father_Alex_Jones" title="wikipedia:Father Alex Jones">Father Alex Jones</a>.

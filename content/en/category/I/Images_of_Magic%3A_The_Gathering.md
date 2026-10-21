@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Magic: The Gathering"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Magic: The Gathering</span>"
 page_id: 69931
 namespace: 14
 revision_id: 415582
@@ -15,4 +14,4 @@ sort_keys:
   "Images of card games": "Magic"
 ---
 
-Images pertaining to the collectible card game [Magic: The Gathering](/wiki/Magic:_The_Gathering).
+Images pertaining to the collectible card game [Magic: The Gathering](../../main/M/Magic%253A_The_Gathering.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Randy Post"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Randy Post</span>"
 page_id: 74865
 namespace: 14
 revision_id: 440540
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Post, Randy"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Randy_Post&amp;action=edit&amp;redlink=1" title="Randy Post (page does not exist)">Randy Post</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Randy_Post&amp;action=edit&amp;redlink=1" title="Randy Post (page does not exist)">Randy Post</a></b>.

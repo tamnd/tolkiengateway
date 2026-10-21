@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Long"
 ---
 
-Redirect to [Long](/wiki/Long).
+Redirect to [Long](Long.md).

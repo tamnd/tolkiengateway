@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aran"
 ---
 
-Redirect to [Aran](/wiki/Aran).
+Redirect to [Aran](../A/Aran.md).

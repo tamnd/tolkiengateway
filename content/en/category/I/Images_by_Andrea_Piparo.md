@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Andrea Piparo"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Andrea Piparo</span>"
 page_id: 68009
 namespace: 14
 revision_id: 431090
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Piparo, Andrea"
 ---
 
-This category lists all **images by [Andrea Piparo](/wiki/Andrea_Piparo)**.
+This category lists all **images by [Andrea Piparo](../../main/A/Andrea_Piparo.md)**.

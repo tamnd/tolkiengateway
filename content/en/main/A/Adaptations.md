@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Adaptations"
 ---
 
-Redirect to [Portal:Adaptations](/wiki/Portal:Adaptations).
+Redirect to [Portal:Adaptations](../../portal/A/Adaptations.md).

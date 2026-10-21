@@ -11,4 +11,4 @@ redirect_target: "The Darkness"
 redirect_fragment: "Great Darkness"
 ---
 
-Redirect to [The Darkness](/wiki/The_Darkness#Great_Darkness).
+Redirect to [The Darkness](../T/The_Darkness.md#Great_Darkness).

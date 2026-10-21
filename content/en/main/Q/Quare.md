@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quár"
 ---
 
-Redirect to [Quár](/wiki/Quár).
+Redirect to [Quár](Quár.md).

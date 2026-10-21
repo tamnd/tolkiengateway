@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Val Mayerik"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Val Mayerik</span>"
 page_id: 72841
 namespace: 14
 revision_id: 431656
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Mayerik, Val"
 ---
 
-This category lists all **images by [Val Mayerik](/wiki/Val_Mayerik)**.
+This category lists all **images by [Val Mayerik](../../main/V/Val_Mayerik.md)**.

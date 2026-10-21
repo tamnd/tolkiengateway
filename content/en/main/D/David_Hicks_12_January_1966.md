@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to David Hicks"
 ---
 
-Redirect to [Letter to David Hicks](/wiki/Letter_to_David_Hicks).
+Redirect to [Letter to David Hicks](../L/Letter_to_David_Hicks.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Amy Ronald"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Amy Ronald</span>"
 page_id: 68565
 namespace: 14
 revision_id: 404254
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Ronald, Amy"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Amy_Ronald&amp;action=edit&amp;redlink=1" title="Amy Ronald (page does not exist)">Amy Ronald</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Amy_Ronald&amp;action=edit&amp;redlink=1" title="Amy Ronald (page does not exist)">Amy Ronald</a>.

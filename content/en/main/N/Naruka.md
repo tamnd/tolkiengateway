@@ -13,17 +13,17 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>naruka</b></i> is a [Khuzdul](/wiki/Khuzdul) word of unknown meaning, stated at one point to the possible origin of the river-name *[Narog](/wiki/Narog)*. The word *naruka* was perhaps originally the Khuzdul name of the [Petty-dwarves](/wiki/Petty-dwarves).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>naruka</b></i> is a [Khuzdul](../K/Khuzdul.md) word of unknown meaning, stated at one point to the possible origin of the river-name *[Narog](Narog.md)*. The word *naruka* was perhaps originally the Khuzdul name of the [Petty-dwarves](../P/Petty-dwarves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[Narâg](/wiki/Nar%C3%A2g)*
+- *[Narâg](Narâg.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 47</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 47</span>
 </li>
 </ol></div>

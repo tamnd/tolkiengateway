@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Idril Celebrindal heraldic device (I).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Idril Celebrindal heraldic device (I).jpg</span>"
 page_id: 64786
 namespace: 6
 revision_id: 432775
@@ -29,15 +28,15 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/37/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #37</a>. Published in:
 
-- *[The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974)* ([1973](/wiki/1973)), back cover
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), April
-- *[The Silmarillion](/wiki/The_Silmarillion)* ([1977](/wiki/1977)), dust jacket (back)
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), July
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)* ([1992](/wiki/1992)), p. 77, #218; p. 91
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 192, #189
-- *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)* ([2018](/wiki/2018)), p. 237, #79
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* (2022), p. 116
+- *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)* ([1973](../../main/_/1973.md)), back cover
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), April
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)* ([1977](../../main/_/1977.md)), dust jacket (back)
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), July
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)* ([1992](../../main/_/1992.md)), p. 77, #218; p. 91
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 192, #189
+- *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../../main/_/2018.md)), p. 237, #79
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* (2022), p. 116
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Evenstar (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Evenstar (disambiguation)</span>"
 page_id: 41184
 namespace: 0
 revision_id: 408119
@@ -19,23 +18,23 @@ images:
 
 ## Middle-earth {#Middle-earth}
 
-- **"Evenstar"**, which is the translation of "Undómiel", [Arwen](/wiki/Arwen)'s [epessë](/wiki/Epess%C3%AB "Epessë").
+- **"Evenstar"**, which is the translation of "Undómiel", [Arwen](../A/Arwen.md)'s [epessë](Epessë.md).
 
 ## Adaptations {#Adaptations}
 
-- **[The Evenstar (The Lord of the Rings: The Fellowship of the Ring scene)](</wiki/The_Evenstar_(The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_scene)>)**, a scene from *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
-- **[The Evenstar (The Lord of the Rings: The Two Towers scene)](</wiki/The_Evenstar_(The_Lord_of_the_Rings:_The_Two_Towers_scene)>)**, a scene from *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*.
-    - **[Evenstar](</wiki/Evenstar_(soundtrack)> "Evenstar (soundtrack)")**, a track from *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_Original_Motion_Picture_Soundtrack)*.
+- **[The Evenstar (The Lord of the Rings: The Fellowship of the Ring scene)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_scene).md>)**, a scene from *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- **[The Evenstar (The Lord of the Rings: The Two Towers scene)](<../T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Two_Towers_scene).md>)**, a scene from *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+    - **[Evenstar](<Evenstar_(soundtrack).md>)**, a track from *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*.
 
 ## See also {#See_also}
 
-- *[Stella Vespertina](/wiki/Mother!_O_Lady_Throned_beyond_the_Stars "Mother! O Lady Throned beyond the Stars")*
+- *[Stella Vespertina](../M/Mother!_O_Lady_Throned_beyond_the_Stars.md)*
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Evenstar_(disambiguation)" title="Special:WhatLinksHere/:Evenstar (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Evenstar_(disambiguation)" title="Special:WhatLinksHere/:Evenstar (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

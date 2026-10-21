@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Contour map of the Misty Mountains around Mirrormere.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Contour map of the Misty Mountains around Mirrormere.jpg</span>"
 page_id: 71482
 namespace: 6
 revision_id: 426243
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Contour map of the [Misty Mountains](/wiki/Misty_Mountains) around [Mirrormere](/wiki/Mirrormere)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Contour map of the [Misty Mountains](../../main/M/Misty_Mountains.md) around [Mirrormere](../../main/M/Mirrormere.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

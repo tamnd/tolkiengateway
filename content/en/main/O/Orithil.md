@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isilya"
 ---
 
-Redirect to [Isilya](/wiki/Isilya).
+Redirect to [Isilya](../I/Isilya.md).

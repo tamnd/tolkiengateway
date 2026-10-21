@@ -1,6 +1,5 @@
 ---
 title: "November"
-display_title: "<span class=\"mw-page-title-main\">November</span>"
 page_id: 18518
 namespace: 0
 revision_id: 441460
@@ -24,41 +23,39 @@ langlinks:
     url: "https://kontu.wiki/Marraskuu"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=November/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><style data-mw-deduplicate="TemplateStyles:r402745">.mw-parser-output .tg-button>a{border:1px solid transparent;border-radius:var(--tg-border-radius-small);height:36px;padding:0 1rem!important;color:var(--tg-color-emphasized)!important;display:flex;align-items:center;justify-content:center;gap:0.5rem;line-height:1;font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium);text-decoration:none}.mw-parser-output .tg-button>a:hover{background-color:var(--background-color-button-quiet--hover)!important}.mw-parser-output .tg-button>a:active{background-color:var(--background-color-button-quiet--active)!important}.mw-parser-output .tg-button.tg-button--framed>a{border-color:var(--tg-border-color-interactive)}.mw-parser-output .tg-button.tg-button--icon>a{padding-left:0.5rem!important;padding-right:0.5rem!important;font-size:0;gap:0}.mw-parser-output .tg-button.tg-button--primary>a{color:var(--tg-color-inverted-progressive)!important;background-color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--primary>a:hover{background-color:var(--tg-color-progressive--hover)!important}.mw-parser-output .tg-button.tg-button--primary>a:active{background-color:var(--tg-color-progressive--active)!important}.mw-parser-output .tg-button.tg-button--secondary>a{border-color:var(--tg-color-progressive)!important;color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:hover{border-color:var(--tg-color-progressive--hover)!important;background-color:var(--tg-color-progressive--hover)!important;color:var(--tg-color-inverted-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:active{border-color:var(--tg-color-progressive--active)!important;background-color:var(--tg-color-progressive--active)!important;color:var(--tg-color-inverted-progressive)!important}</style><div class="tg-section-divider"><span><a class="mw-selflink selflink">November</a></span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=November/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a class="mw-selflink selflink">November</a></span></div>
 <div class="template-month__grid">
-<div class="template-month__day"><a href="/wiki/1_November" title="1 November">1</a></div>
-<div class="template-month__day"><a href="/wiki/2_November" title="2 November">2</a></div>
-<div class="template-month__day"><a href="/wiki/3_November" title="3 November">3</a></div>
-<div class="template-month__day"><a href="/wiki/4_November" title="4 November">4</a></div>
-<div class="template-month__day"><a href="/wiki/5_November" title="5 November">5</a></div>
-<div class="template-month__day"><a href="/wiki/6_November" title="6 November">6</a></div>
-<div class="template-month__day"><a href="/wiki/7_November" title="7 November">7</a></div>
-<div class="template-month__day"><a href="/wiki/8_November" title="8 November">8</a></div>
-<div class="template-month__day"><a href="/wiki/9_November" title="9 November">9</a></div>
-<div class="template-month__day"><a href="/wiki/10_November" title="10 November">10</a></div>
-<div class="template-month__day"><a href="/wiki/11_November" title="11 November">11</a></div>
-<div class="template-month__day"><a href="/wiki/12_November" title="12 November">12</a></div>
-<div class="template-month__day"><a href="/wiki/13_November" title="13 November">13</a></div>
-<div class="template-month__day"><a href="/wiki/14_November" title="14 November">14</a></div>
-<div class="template-month__day"><a href="/wiki/15_November" title="15 November">15</a></div>
-<div class="template-month__day"><a href="/wiki/16_November" title="16 November">16</a></div>
-<div class="template-month__day"><a href="/wiki/17_November" title="17 November">17</a></div>
-<div class="template-month__day"><a href="/wiki/18_November" title="18 November">18</a></div>
-<div class="template-month__day"><a href="/wiki/19_November" title="19 November">19</a></div>
-<div class="template-month__day"><a href="/wiki/20_November" title="20 November">20</a></div>
-<div class="template-month__day"><a href="/wiki/21_November" title="21 November">21</a></div>
-<div class="template-month__day"><a href="/wiki/22_November" title="22 November">22</a></div>
-<div class="template-month__day"><a href="/wiki/23_November" title="23 November">23</a></div>
-<div class="template-month__day"><a href="/wiki/24_November" title="24 November">24</a></div>
-<div class="template-month__day"><a href="/wiki/25_November" title="25 November">25</a></div>
-<div class="template-month__day"><a href="/wiki/26_November" title="26 November">26</a></div>
-<div class="template-month__day"><a href="/wiki/27_November" title="27 November">27</a></div>
-<div class="template-month__day"><a href="/wiki/28_November" title="28 November">28</a></div>
-<div class="template-month__day"><a href="/wiki/29_November" title="29 November">29</a></div>
-<div class="template-month__day"><a href="/wiki/30_November" title="30 November">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="/wiki/January" title="January">Jan</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/February" title="February">Feb</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/March" title="March">Mar</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/April" title="April">Apr</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/May" title="May">May</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/June" title="June">Jun</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/July" title="July">Jul</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/August" title="August">Aug</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/September" title="September">Sep</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/October" title="October">Oct</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a class="mw-selflink selflink">Nov</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/December" title="December">Dec</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/></div>
+<div class="template-month__day"><a href="../_/1_November.md" title="1 November">1</a></div>
+<div class="template-month__day"><a href="../_/2_November.md" title="2 November">2</a></div>
+<div class="template-month__day"><a href="../_/3_November.md" title="3 November">3</a></div>
+<div class="template-month__day"><a href="../_/4_November.md" title="4 November">4</a></div>
+<div class="template-month__day"><a href="../_/5_November.md" title="5 November">5</a></div>
+<div class="template-month__day"><a href="../_/6_November.md" title="6 November">6</a></div>
+<div class="template-month__day"><a href="../_/7_November.md" title="7 November">7</a></div>
+<div class="template-month__day"><a href="../_/8_November.md" title="8 November">8</a></div>
+<div class="template-month__day"><a href="../_/9_November.md" title="9 November">9</a></div>
+<div class="template-month__day"><a href="../_/10_November.md" title="10 November">10</a></div>
+<div class="template-month__day"><a href="../_/11_November.md" title="11 November">11</a></div>
+<div class="template-month__day"><a href="../_/12_November.md" title="12 November">12</a></div>
+<div class="template-month__day"><a href="../_/13_November.md" title="13 November">13</a></div>
+<div class="template-month__day"><a href="../_/14_November.md" title="14 November">14</a></div>
+<div class="template-month__day"><a href="../_/15_November.md" title="15 November">15</a></div>
+<div class="template-month__day"><a href="../_/16_November.md" title="16 November">16</a></div>
+<div class="template-month__day"><a href="../_/17_November.md" title="17 November">17</a></div>
+<div class="template-month__day"><a href="../_/18_November.md" title="18 November">18</a></div>
+<div class="template-month__day"><a href="../_/19_November.md" title="19 November">19</a></div>
+<div class="template-month__day"><a href="../_/20_November.md" title="20 November">20</a></div>
+<div class="template-month__day"><a href="../_/21_November.md" title="21 November">21</a></div>
+<div class="template-month__day"><a href="../_/22_November.md" title="22 November">22</a></div>
+<div class="template-month__day"><a href="../_/23_November.md" title="23 November">23</a></div>
+<div class="template-month__day"><a href="../_/24_November.md" title="24 November">24</a></div>
+<div class="template-month__day"><a href="../_/25_November.md" title="25 November">25</a></div>
+<div class="template-month__day"><a href="../_/26_November.md" title="26 November">26</a></div>
+<div class="template-month__day"><a href="../_/27_November.md" title="27 November">27</a></div>
+<div class="template-month__day"><a href="../_/28_November.md" title="28 November">28</a></div>
+<div class="template-month__day"><a href="../_/29_November.md" title="29 November">29</a></div>
+<div class="template-month__day"><a href="../_/30_November.md" title="30 November">30</a></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a class="mw-selflink selflink">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
-
-<style data-mw-deduplicate="TemplateStyles:r417058">.mw-parser-output .template-month{width:300px;background:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-medium);font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium)}.mw-parser-output .template-month .tg-event-card{border-bottom-left-radius:0;border-bottom-right-radius:0}.mw-parser-output .tg-event-card-button{margin:1rem}.mw-parser-output .template-month .tg-section-divider{margin-top:0.5rem;margin-bottom:0}.mw-parser-output .template-month__grid{border-bottom:var(--tg-border-base);padding:0.5rem;display:grid;grid-template-columns:repeat(7,1fr);text-align:center;gap:0.25rem}.mw-parser-output .template-month__day>a{display:flex;color:var(--tg-color-emphasized);border-radius:var(--tg-border-radius-small);aspect-ratio:1;justify-content:center;align-items:center}.mw-parser-output .template-month__day--nextmonth>a{color:var(--tg-color-subtle)}.mw-parser-output .template-month__day>a.selflink{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__day>a:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-month__day>a:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__footer{padding:0.5rem;display:grid;grid-template-columns:repeat(6,1fr)}.mw-parser-output .template-month__footer .tg-button>a{padding-left:0.5rem!important;padding-right:0.5rem!important}</style>
 
 **November** is the eleventh month of the Gregorian year.

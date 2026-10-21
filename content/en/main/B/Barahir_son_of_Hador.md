@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir (Steward of Gondor)"
 ---
 
-Redirect to [Barahir (Steward of Gondor)](/wiki/Barahir_(Steward_of_Gondor)).
+Redirect to [Barahir (Steward of Gondor)](<Barahir_(Steward_of_Gondor).md>).

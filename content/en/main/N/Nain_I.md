@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin I"
 ---
 
-Redirect to [Náin I](/wiki/Náin_I).
+Redirect to [Náin I](Náin_I.md).

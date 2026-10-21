@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sirannon"
 ---
 
-Redirect to [Sirannon](/wiki/Sirannon).
+Redirect to [Sirannon](../S/Sirannon.md).

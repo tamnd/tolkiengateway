@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Chapters"
 ---
 
-Redirect to [Category:Chapters](/wiki/Category:Chapters).
+Redirect to [Category:Chapters](../../category/C/Chapters.md).

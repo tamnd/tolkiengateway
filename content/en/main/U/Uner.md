@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úner"
 ---
 
-Redirect to [Úner](/wiki/Úner).
+Redirect to [Úner](../_/Úner.md).

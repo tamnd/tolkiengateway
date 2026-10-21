@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindarin"
 ---
 
-Redirect to [Sindarin](/wiki/Sindarin).
+Redirect to [Sindarin](Sindarin.md).

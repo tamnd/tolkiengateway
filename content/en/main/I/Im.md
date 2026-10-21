@@ -13,17 +13,17 @@ categories:
   - "Sindarin prepositions"
 ---
 
-<i><b>im</b></i> (or <i><b>imm</b></i>) is a [Sindarin](/wiki/Sindarin) word meaning "between".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>im</b></i> (or <i><b>imm</b></i>) is a [Sindarin](../S/Sindarin.md) word meaning "between".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Taur-im-Duinath](/wiki/Taur-im-Duinath)
+- [Taur-im-Duinath](../T/Taur-im-Duinath.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 38</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 38</span>
 </li>
 </ol></div>

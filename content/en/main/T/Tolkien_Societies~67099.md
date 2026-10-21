@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien societies"
 ---
 
-Redirect to [Tolkien societies](/wiki/Tolkien_societies).
+Redirect to [Tolkien societies](Tolkien_societies.md).

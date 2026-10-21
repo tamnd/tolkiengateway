@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hísimë"
 ---
 
-Redirect to [Hísimë](/wiki/Hísimë).
+Redirect to [Hísimë](Hísimë.md).

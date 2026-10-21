@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "BARAT"
 ---
 
-Redirect to [BARAT](/wiki/BARAT).
+Redirect to [BARAT](BARAT.md).

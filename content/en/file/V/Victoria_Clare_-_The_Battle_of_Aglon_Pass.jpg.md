@@ -1,6 +1,5 @@
 ---
 title: "File:Victoria Clare - The Battle of Aglon Pass.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Victoria Clare - The Battle of Aglon Pass.jpg</span>"
 page_id: 59240
 namespace: 6
 revision_id: 328748
@@ -30,4 +29,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Victoria Clare</li>
 <li><b>Website:</b> <a class="external text" href="http://victoriaclare.com/category/tolkien-fantasy-art/" rel="noreferrer noopener" target="_blank">Victoria Clare&#39;s Art</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Victoria_Clare" title="Tolkien Gateway:Copyrights/Victoria Clare">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FVictoria_Clare.md" title="Tolkien Gateway:Copyrights/Victoria Clare">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwathló"
 ---
 
-Redirect to [Gwathló](/wiki/Gwathló).
+Redirect to [Gwathló](Gwathló.md).

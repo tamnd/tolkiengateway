@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Third Age (Modding Community)"
 ---
 
-Redirect to [The Third Age (Modding Community)](/wiki/The_Third_Age_(Modding_Community)).
+Redirect to [The Third Age (Modding Community)](<The_Third_Age_(Modding_Community).md>).

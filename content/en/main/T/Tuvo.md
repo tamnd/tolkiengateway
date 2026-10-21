@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tû (king of the Hisildi)"
 ---
 
-Redirect to [Tû (king of the Hisildi)](/wiki/Tû_(king_of_the_Hisildi)).
+Redirect to [Tû (king of the Hisildi)](<Tû_(king_of_the_Hisildi).md>).

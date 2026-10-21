@@ -1,6 +1,5 @@
 ---
 title: "Faith Faulconbridge"
-display_title: "<span class=\"mw-page-title-main\">Faith Faulconbridge</span>"
 page_id: 28320
 namespace: 0
 revision_id: 295094
@@ -28,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/Faith_Tolkien"
 ---
 
-**Faith Lucy Tilly Faulconbridge** ([1928](/wiki/1928)- [24 October](/wiki/24_October), [2017](/wiki/2017))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> was the first wife of [Christopher Tolkien](/wiki/Christopher_Tolkien). They married on [April 2](/wiki/2_April "2 April"), [1951](/wiki/1951) and separated in [1964](/wiki/1964); the divorce followed three years later. She was a sculptress, and made the [bust](/wiki/File:J.R.R._Tolkien%27s_bust_at_Exeter.jpg "File:J.R.R. Tolkien's bust at Exeter.jpg") of Tolkien that the English Faculty at Oxford presented to him at his retirement.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Faith Lucy Tilly Faulconbridge** ([1928](../_/1928.md)- [24 October](../_/24_October.md), [2017](../_/2017.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> was the first wife of [Christopher Tolkien](../C/Christopher_Tolkien.md). They married on [April 2](../_/2_April.md), [1951](../_/1951.md) and separated in [1964](../_/1964.md); the divorce followed three years later. She was a sculptress, and made the [bust](../../file/J/J.R.R._Tolkien's_bust_at_Exeter.jpg.md) of Tolkien that the English Faculty at Oxford presented to him at his retirement.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## External links {#External_links}
 
@@ -43,6 +42,6 @@ langlinks:
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external free" href="http://tolkienbrasil.com/noticias/diversas/faleceu-faith-tolkien-primeira-esposa-de-christopher-tolkien/" rel="noreferrer noopener" target="_blank">http://tolkienbrasil.com/noticias/diversas/faleceu-faith-tolkien-primeira-esposa-de-christopher-tolkien/</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/Douglas_A._Anderson" title="Douglas A. Anderson">Douglas A. Anderson</a>, &#34;Tolkien, Faith&#34;, published in <i><a class="mw-redirect" href="/wiki/J.R.R._Tolkien_Encyclopedia" title="J.R.R. Tolkien Encyclopedia">J.R.R. Tolkien Encyclopedia</a></i> (edited by <a href="/wiki/Michael_D.C._Drout" title="Michael D.C. Drout">Michael D.C. Drout</a>), pp. 665-6</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Douglas A. Anderson</a>, &#34;Tolkien, Faith&#34;, published in <i><a class="mw-redirect" href="../J/J.R.R._Tolkien_Encyclopedia.md" title="J.R.R. Tolkien Encyclopedia">J.R.R. Tolkien Encyclopedia</a></i> (edited by <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>), pp. 665-6</span>
 </li>
 </ol></div>

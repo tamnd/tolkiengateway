@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien Encyclopedia 2006.jpg"
 ---
 
-Redirect to [File:J.R.R. Tolkien Encyclopedia 2006.jpg](/wiki/File:J.R.R._Tolkien_Encyclopedia_2006.jpg).
+Redirect to [File:J.R.R. Tolkien Encyclopedia 2006.jpg](J.R.R._Tolkien_Encyclopedia_2006.jpg.md).

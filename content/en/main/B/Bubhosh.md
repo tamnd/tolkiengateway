@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai"
 ---
 
-Redirect to [Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai](/wiki/Uglúk_u_bagronk_sha_pushdug_Saruman-glob_búbhosh_skai).
+Redirect to [Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai](../U/Uglúk_u_bagronk_sha_pushdug_Saruman-glob_búbhosh_skai.md).

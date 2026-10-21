@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sarati"
 ---
 
-Redirect to [Sarati](/wiki/Sarati).
+Redirect to [Sarati](Sarati.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Hen"
 ---
 
-Redirect to [Amon Hen](/wiki/Amon_Hen).
+Redirect to [Amon Hen](../A/Amon_Hen.md).

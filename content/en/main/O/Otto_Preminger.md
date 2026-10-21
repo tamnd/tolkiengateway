@@ -1,6 +1,5 @@
 ---
 title: "Otto Preminger"
-display_title: "<span class=\"mw-page-title-main\">Otto Preminger</span>"
 page_id: 6440
 namespace: 0
 revision_id: 406908
@@ -23,9 +22,9 @@ images:
   - "Otto_Preminger.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Otto_Preminger.jpg"><img src="/w/images/thumb/3/3b/Otto_Preminger.jpg/300px-Otto_Preminger.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="/w/images/thumb/3/3b/Otto_Preminger.jpg/450px-Otto_Preminger.jpg 1.5x, /w/images/thumb/3/3b/Otto_Preminger.jpg/600px-Otto_Preminger.jpg 2x" data-file-width="640" data-file-height="862"/></a><figcaption>Otto Preminger</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Otto_Preminger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/300px-Otto_Preminger.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/450px-Otto_Preminger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/600px-Otto_Preminger.jpg 2x" data-file-width="640" data-file-height="862"/></a><figcaption>Otto Preminger</figcaption></figure>
 
-Famed actor and Oscar-nominated director **Otto Preminger** (1906 – 1986) was the voice for the "Elvenking" ([Thranduil](/wiki/Thranduil)) in the [Rankin/Bass](/wiki/Rankin/Bass) animated version of *[The Hobbit](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")*. He was born and raised in Austria, and his thick accent is very apparent in the film.
+Famed actor and Oscar-nominated director **Otto Preminger** (1906 – 1986) was the voice for the "Elvenking" ([Thranduil](../T/Thranduil.md)) in the [Rankin/Bass](../R/Rankin%252FBass.md) animated version of *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*. He was born and raised in Austria, and his thick accent is very apparent in the film.
 
 ## External links {#External_links}
 

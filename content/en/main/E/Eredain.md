@@ -1,6 +1,5 @@
 ---
 title: "Eredain"
-display_title: "<span class=\"mw-page-title-main\">Eredain</span>"
 page_id: 19542
 namespace: 0
 revision_id: 428626
@@ -23,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Eredain"
 ---
 
-The **Eredain**, or the **Schweizerische Tolkien Gesellschaft**, was the Swiss [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies"). It was founded on [March 25](/wiki/25_March "25 March"), [1986](/wiki/1986) and disbanded in the summer of [2006](/wiki/2006). In [1996](/wiki/1996), they founded [Walking Tree Publishers](/wiki/Walking_Tree_Publishers), which does still exist.
+The **Eredain**, or the **Schweizerische Tolkien Gesellschaft**, was the Swiss [Tolkien Society](../T/Tolkien_Societies~67099.md). It was founded on [March 25](../_/25_March.md), [1986](../_/1986.md) and disbanded in the summer of [2006](../_/2006.md). In [1996](../_/1996.md), they founded [Walking Tree Publishers](../W/Walking_Tree_Publishers.md), which does still exist.
 
 ## External links {#External_links}
 

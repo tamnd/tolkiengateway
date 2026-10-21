@@ -1,6 +1,5 @@
 ---
 title: "Warwickshire"
-display_title: "<span class=\"mw-page-title-main\">Warwickshire</span>"
 page_id: 7317
 namespace: 0
 revision_id: 161460
@@ -13,4 +12,4 @@ categories:
   - "British locations"
 ---
 
-**Warwickshire** is one of England's counties. [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") lived there during his childhood, making the Barrow Downs of Warwickshire a possible influence for the [Barrow-downs](/wiki/Barrow-downs) of [Middle-earth](/wiki/Middle-earth).
+**Warwickshire** is one of England's counties. [Tolkien](../J/J.R.R._Tolkien.md) lived there during his childhood, making the Barrow Downs of Warwickshire a possible influence for the [Barrow-downs](../B/Barrow-downs.md) of [Middle-earth](../M/Middle-earth.md).

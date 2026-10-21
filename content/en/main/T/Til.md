@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "TIL"
 ---
 
-Redirect to [TIL](/wiki/TIL).
+Redirect to [TIL](TIL~40097.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thalion"
 ---
 
-Redirect to [Thalion](/wiki/Thalion).
+Redirect to [Thalion](Thalion.md).

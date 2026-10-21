@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Dor-lómin"
 ---
 
-Redirect to [Men of Dor-lómin](/wiki/Men_of_Dor-lómin).
+Redirect to [Men of Dor-lómin](Men_of_Dor-lómin.md).

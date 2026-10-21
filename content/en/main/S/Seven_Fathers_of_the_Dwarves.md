@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fathers of the Dwarves"
 ---
 
-Redirect to [Fathers of the Dwarves](/wiki/Fathers_of_the_Dwarves).
+Redirect to [Fathers of the Dwarves](../F/Fathers_of_the_Dwarves.md).

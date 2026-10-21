@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Field of Cormallen"
 ---
 
-Redirect to [Field of Cormallen](/wiki/Field_of_Cormallen).
+Redirect to [Field of Cormallen](Field_of_Cormallen.md).

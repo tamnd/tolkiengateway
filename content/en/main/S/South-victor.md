@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hyarmendacil (disambiguation)"
 ---
 
-Redirect to [Hyarmendacil (disambiguation)](/wiki/Hyarmendacil_(disambiguation)).
+Redirect to [Hyarmendacil (disambiguation)](<../H/Hyarmendacil_(disambiguation).md>).

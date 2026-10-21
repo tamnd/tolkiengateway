@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by David Rapoza"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by David Rapoza</span>"
 page_id: 72784
 namespace: 14
 revision_id: 431428
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Rapoza, David"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=David_Rapoza&amp;action=edit&amp;redlink=1" title="David Rapoza (page does not exist)">David Rapoza</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Rapoza&amp;action=edit&amp;redlink=1" title="David Rapoza (page does not exist)">David Rapoza</a></b>.

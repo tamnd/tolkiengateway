@@ -11,4 +11,4 @@ redirect_target: "Gondorian Military Forces"
 redirect_fragment: "King's Ships"
 ---
 
-Redirect to [Gondorian Military Forces](/wiki/Gondorian_Military_Forces#King's_Ships).
+Redirect to [Gondorian Military Forces](../G/Gondorian_Military_Forces.md#King's_Ships).

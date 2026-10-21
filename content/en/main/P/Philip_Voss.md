@@ -1,6 +1,5 @@
 ---
 title: "Philip Voss"
-display_title: "<span class=\"mw-page-title-main\">Philip Voss</span>"
 page_id: 6904
 namespace: 0
 revision_id: 136086
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "Voss, Philip"
 ---
 
-**Philip Voss** voiced the part of the [Lord of the Nazgûl](/wiki/Witch-king "Witch-king") in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on the BBC 4.
+**Philip Voss** voiced the part of the [Lord of the Nazgûl](../W/Witch-king.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on the BBC 4.

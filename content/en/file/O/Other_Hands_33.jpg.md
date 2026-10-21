@@ -1,6 +1,5 @@
 ---
 title: "File:Other Hands 33.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Other Hands 33.jpg</span>"
 page_id: 25817
 namespace: 6
 revision_id: 211105

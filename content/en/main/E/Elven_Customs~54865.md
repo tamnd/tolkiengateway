@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven customs"
 ---
 
-Redirect to [Elven customs](/wiki/Elven_customs).
+Redirect to [Elven customs](Elven_customs.md).

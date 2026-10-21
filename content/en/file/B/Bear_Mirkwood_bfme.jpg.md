@@ -1,6 +1,5 @@
 ---
 title: "File:Bear Mirkwood bfme.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bear Mirkwood bfme.jpg</span>"
 page_id: 21939
 namespace: 6
 revision_id: 361061
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A [bear](/wiki/Bears "Bears") in [Mirkwood](/wiki/Mirkwood). Screenshot from *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*.
+A [bear](../../main/B/Bears.md) in [Mirkwood](../../main/M/Mirkwood.md). Screenshot from *[The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 

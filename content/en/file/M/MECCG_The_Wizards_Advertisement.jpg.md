@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG The Wizards Advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG The Wizards Advertisement.jpg</span>"
 page_id: 73101
 namespace: 6
 revision_id: 432789
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1995</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Inquest #7</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 5.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 5.png</span>"
 page_id: 35712
 namespace: 6
 revision_id: 370118

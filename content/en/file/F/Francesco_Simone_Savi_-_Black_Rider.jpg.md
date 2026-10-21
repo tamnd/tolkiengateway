@@ -1,6 +1,5 @@
 ---
 title: "File:Francesco Simone Savi - Black Rider.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Francesco Simone Savi - Black Rider.jpg</span>"
 page_id: 66078
 namespace: 6
 revision_id: 380916
@@ -36,4 +35,4 @@ Pencils on vellum paper.
 </p>
 <ul><li><b>Name:</b> Francesco Simone Savi</li>
 <li><b>Website:</b> <a class="external text" href="http://theweefolktreasures.com" rel="noreferrer noopener" target="_blank">theweefolktreasures.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Francesco_Simone_Savi" title="Tolkien Gateway:Copyrights/Francesco Simone Savi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFrancesco_Simone_Savi.md" title="Tolkien Gateway:Copyrights/Francesco Simone Savi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

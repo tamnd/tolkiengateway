@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Robin Wood"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Robin Wood</span>"
 page_id: 29893
 namespace: 14
 revision_id: 182154

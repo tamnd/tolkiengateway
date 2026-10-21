@@ -11,4 +11,4 @@ redirect_target: "Nahar"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Nahar](/wiki/Nahar#Etymology).
+Redirect to [Nahar](Nahar.md#Etymology).

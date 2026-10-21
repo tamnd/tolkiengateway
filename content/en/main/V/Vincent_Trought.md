@@ -1,6 +1,5 @@
 ---
 title: "Vincent Trought"
-display_title: "<span class=\"mw-page-title-main\">Vincent Trought</span>"
 page_id: 18565
 namespace: 0
 revision_id: 155511
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Trought, Vincent"
 ---
 
-**Vincent Trought** ([April 8](/wiki/8_April "8 April"), [1893](/wiki/1893) - [January 20](/wiki/20_January "20 January"), [1912](/wiki/1912)) was a classmate of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) at [King Edward's School](/wiki/King_Edward%27s_School), and one of the [T.C.B.S.](/wiki/T.C.B.S.). He was the first of Tolkien's friends to die (of illness); his place in the T.C.B.S. was taken over by [Geoffrey Bache Smith](/wiki/Geoffrey_Bache_Smith).
+**Vincent Trought** ([April 8](../_/8_April.md), [1893](../_/1893.md) - [January 20](../_/20_January.md), [1912](../_/1912.md)) was a classmate of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) at [King Edward's School](../K/King_Edward's_School.md), and one of the [T.C.B.S.](../T/T.C.B.S..md). He was the first of Tolkien's friends to die (of illness); his place in the T.C.B.S. was taken over by [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md).
 
 ## References {#References}
 
-- *[Tolkien and the Great War](/wiki/Tolkien_and_the_Great_War)* by [John Garth](/wiki/John_Garth).
+- *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* by [John Garth](../J/John_Garth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rog"
 ---
 
-Redirect to [Rog](/wiki/Rog).
+Redirect to [Rog](Rog.md).

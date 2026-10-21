@@ -1,6 +1,5 @@
 ---
 title: "File:Triode 18.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Triode 18.jpg</span>"
 page_id: 45678
 namespace: 6
 revision_id: 240978
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> TolkienBooks.net</li>
 <li><b>Website:</b> <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/TolkienBooks.net" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTolkienBooks.net.md" title="Tolkien Gateway:Copyrights/TolkienBooks.net">Permission for use on Tolkien Gateway</a></b></li></ul></div>

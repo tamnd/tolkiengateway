@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sí"
 ---
 
-Redirect to [Sí](/wiki/Sí).
+Redirect to [Sí](Sí.md).

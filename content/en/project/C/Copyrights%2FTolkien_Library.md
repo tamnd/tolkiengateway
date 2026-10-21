@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tolkien Library"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tolkien Library</span>"
 page_id: 44295
 namespace: 4
 revision_id: 252713
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolkien Library"
 ---
 
-- [Tolkien Library](/wiki/Tolkien_Library) has kindly granted permission to use [El hobito - Inscribed by Tolkien.jpg](/wiki/File:El_hobito_-_Inscribed_by_Tolkien.jpg "File:El hobito - Inscribed by Tolkien.jpg") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Tolkien Library](../../main/T/Tolkien_Library.md) has kindly granted permission to use [El hobito - Inscribed by Tolkien.jpg](../../file/E/El_hobito_-_Inscribed_by_Tolkien.jpg.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 27 August 2013
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

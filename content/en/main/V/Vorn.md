@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morn"
 ---
 
-Redirect to [Morn](/wiki/Morn).
+Redirect to [Morn](../M/Morn.md).

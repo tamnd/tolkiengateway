@@ -1,6 +1,5 @@
 ---
 title: "Ghân"
-display_title: "<span class=\"mw-page-title-main\">Ghân</span>"
 page_id: 2649
 namespace: 0
 revision_id: 426552
@@ -19,17 +18,17 @@ sort_keys:
   "Third Age characters": "Ghan"
 ---
 
-**Ghân** was the father of the famous leader of the [Third Age](/wiki/Third_Age) [Drúedain](/wiki/Dr%C3%BAedain), [Ghân-buri-Ghân](/wiki/Gh%C3%A2n-buri-Gh%C3%A2n), obviously derived from his own name.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ghân** was the father of the famous leader of the [Third Age](../T/Third_Age.md) [Drúedain](../D/Drúedain.md), [Ghân-buri-Ghân](Ghân-buri-Ghân.md), obviously derived from his own name.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Ghân-buri-Ghân](/wiki/Gh%C3%A2n-buri-Gh%C3%A2n) ("Ghân son of Ghân"; *Ghân* + *[buri](/wiki/Buri "Buri")*)
+- [Ghân-buri-Ghân](Ghân-buri-Ghân.md) ("Ghân son of Ghân"; *Ghân* + *[buri](../B/Buri.md)*)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 99</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 99</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Huorns"
 ---
 
-Redirect to [Huorns](/wiki/Huorns).
+Redirect to [Huorns](Huorns.md).

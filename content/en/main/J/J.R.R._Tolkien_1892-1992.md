@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien, 1892-1992"
 ---
 
-Redirect to [J.R.R. Tolkien, 1892-1992](/wiki/J.R.R._Tolkien,_1892-1992).
+Redirect to [J.R.R. Tolkien, 1892-1992](J.R.R._Tolkien,_1892-1992.md).

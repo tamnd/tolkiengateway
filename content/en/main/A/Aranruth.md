@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aranrúth"
 ---
 
-Redirect to [Aranrúth](/wiki/Aranrúth).
+Redirect to [Aranrúth](Aranrúth.md).

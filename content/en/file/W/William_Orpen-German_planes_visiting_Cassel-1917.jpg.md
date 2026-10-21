@@ -1,6 +1,5 @@
 ---
 title: "File:William Orpen-German planes visiting Cassel-1917.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">William Orpen-German planes visiting Cassel-1917.jpg</span>"
 page_id: 53353
 namespace: 6
 revision_id: 290496

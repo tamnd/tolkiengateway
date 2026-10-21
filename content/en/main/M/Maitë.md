@@ -15,4 +15,4 @@ sort_keys:
   "Quenya adjectives": "Maite"
 ---
 
-**Maitë** means *handed* in [Quenya](/wiki/Quenya). The plural form is *maiti*.
+**Maitë** means *handed* in [Quenya](../Q/Quenya.md). The plural form is *maiti*.

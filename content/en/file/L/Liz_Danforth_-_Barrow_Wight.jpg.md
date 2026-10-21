@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Barrow Wight.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Barrow Wight.jpg</span>"
 page_id: 73736
 namespace: 6
 revision_id: 435534
@@ -32,26 +31,23 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Liz Danforth - Barrow Wight.jpg</span></th>
 <td class="description">
-<p><i>Barrow Wight</i> for <a href="/wiki/Creatures_of_Middle-earth_(2nd_edition)" title="Creatures of Middle-earth (2nd edition)"><i>Creatures of Middle-earth</i> (2nd edition)</a>
+<p><i>Barrow Wight</i> for <a href="../../main/C/Creatures_of_Middle-earth_(2nd_edition).md" title="Creatures of Middle-earth (2nd edition)"><i>Creatures of Middle-earth</i> (2nd edition)</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1994" title="1994">1994</a></td>
+<td><a href="../../main/_/1994.md" title="1994">1994</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Liz_Danforth" title="Liz Danforth">Liz Danforth</a></td>
+<td><a href="../../main/L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Ruth Sochard Pitt, Jeff O&#39;Hare, <a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a href="/wiki/Creatures_of_Middle-earth_(2nd_edition)" title="Creatures of Middle-earth (2nd edition)">Creatures of Middle-earth (2nd edition)</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2012, 1994)
+<td>Ruth Sochard Pitt, Jeff O&#39;Hare, <a href="../../main/P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a href="../../main/C/Creatures_of_Middle-earth_(2nd_edition).md" title="Creatures of Middle-earth (2nd edition)">Creatures of Middle-earth (2nd edition)</a></i> (<a href="../../main/I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2012, 1994)
 , p. 124</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

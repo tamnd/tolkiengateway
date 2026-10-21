@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ebe Kastein"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ebe Kastein</span>"
 page_id: 49289
 namespace: 14
 revision_id: 264317

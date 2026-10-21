@@ -1,6 +1,5 @@
 ---
 title: "Hordes of the Things"
-display_title: "<span class=\"mw-page-title-main\">Hordes of the Things</span>"
 page_id: 9502
 namespace: 0
 revision_id: 405877
@@ -13,17 +12,17 @@ categories:
   - "Parodies"
 ---
 
-<i><b>Hordes of the Things</b></i> is a [BBC Radio](/wiki/BBC "BBC") comedy series parodying [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*. It was written by "A. P. R. Marshall and J. H. W. Lloyd" (<a class="extiw" href="http://en.wikipedia.org/wiki/Andrew_Marshall_(writer)" title="wikipedia:Andrew Marshall (writer)">Andrew Marshall</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/John_Lloyd_(writer)" title="wikipedia:John Lloyd (writer)">John Lloyd</a>) and produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Perkins" title="wikipedia:Geoffrey Perkins">Geoffrey Perkins</a>.
+<i><b>Hordes of the Things</b></i> is a [BBC Radio](../B/BBC.md) comedy series parodying [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. It was written by "A. P. R. Marshall and J. H. W. Lloyd" (<a class="extiw" href="http://en.wikipedia.org/wiki/Andrew_Marshall_(writer)" title="wikipedia:Andrew Marshall (writer)">Andrew Marshall</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/John_Lloyd_(writer)" title="wikipedia:John Lloyd (writer)">John Lloyd</a>) and produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Perkins" title="wikipedia:Geoffrey Perkins">Geoffrey Perkins</a>.
 
 ## History {#History}
 
 ### Production {#Production}
 
-The series consists of four half-hour episodes or "Chronicles", originally broadcast on BBC Radio 4 from [November 25](/wiki/25_November "25 November") to [December 16](/wiki/16_December "16 December"), [1980](/wiki/1980). This was the only uncut broadcast; all subsequent repeats have omitted part of the opening narration from The First Chronicle.
+The series consists of four half-hour episodes or "Chronicles", originally broadcast on BBC Radio 4 from [November 25](../_/25_November.md) to [December 16](../_/16_December.md), [1980](../_/1980.md). This was the only uncut broadcast; all subsequent repeats have omitted part of the opening narration from The First Chronicle.
 
 The cast includes <a class="extiw" href="http://en.wikipedia.org/wiki/Patrick_Magee_(actor)" title="wikipedia:Patrick Magee (actor)">Patrick Magee</a> as the Chronicler, <a class="extiw" href="http://en.wikipedia.org/wiki/Simon_Callow" title="wikipedia:Simon Callow">Simon Callow</a> as the Crown Prince Veganin, <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Middlemass" title="wikipedia:Frank Middlemass">Frank Middlemass</a> as the wizard Radox the Green, <a class="extiw" href="http://en.wikipedia.org/wiki/Paul_Eddington" title="wikipedia:Paul Eddington">Paul Eddington</a> as King Yulfric the Wise III, <a class="extiw" href="http://en.wikipedia.org/wiki/Maggie_Steed" title="wikipedia:Maggie Steed">Maggie Steed</a> as Queen Elfreda, <a class="extiw" href="http://en.wikipedia.org/wiki/Christian_Rodska" title="wikipedia:Christian Rodska">Christian Rodska</a> as the hero Agar son of Athar, and <a class="extiw" href="http://en.wikipedia.org/wiki/Jonathan_Lynn" title="wikipedia:Jonathan Lynn">Jonathan Lynn</a> as the dwarf Golin Longshanks.
 
-The series was launched with a good deal of hype. A full-page feature in Radio Times included a map of the land of Albion and a spoof interview with Marshall and Lloyd. Despite this, the series was repeated only once, never released on cassette or CD, and largely forgotten until BBC 7 dusted off the (still abridged) tapes for a rerun in May [2003](/wiki/2003) and again in December.
+The series was launched with a good deal of hype. A full-page feature in Radio Times included a map of the land of Albion and a spoof interview with Marshall and Lloyd. Despite this, the series was repeated only once, never released on cassette or CD, and largely forgotten until BBC 7 dusted off the (still abridged) tapes for a rerun in May [2003](../_/2003.md) and again in December.
 
 ### Plot {#Plot}
 
@@ -41,7 +40,7 @@ Agar and Golin finally wrest Summontrumpet from the clutches of the Dread Sphynx
 
 ## See also {#See_also}
 
-- [Hordes of the Things (audiobook)](</wiki/Hordes_of_the_Things_(audiobook)>)
+- [Hordes of the Things (audiobook)](<Hordes_of_the_Things_(audiobook).md>)
 
 ## External links {#External_links}
 

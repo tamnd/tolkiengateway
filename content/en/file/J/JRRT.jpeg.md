@@ -1,6 +1,5 @@
 ---
 title: "File:JRRT.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JRRT.jpeg</span>"
 page_id: 32524
 namespace: 6
 revision_id: 205172
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tolkien](/wiki/Tolkien)'s monogram and likely also his trademark.
+[Tolkien](../../main/T/Tolkien.md)'s monogram and likely also his trademark.
 
 ## Licensing {#Licensing}
 

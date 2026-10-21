@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Vera Chapman and the Tolkien Society"
 ---
 
-Redirect to [Letter to Vera Chapman and the Tolkien Society](/wiki/Letter_to_Vera_Chapman_and_the_Tolkien_Society).
+Redirect to [Letter to Vera Chapman and the Tolkien Society](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md).

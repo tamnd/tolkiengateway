@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ná-"
 ---
 
-Redirect to [Ná-](/wiki/Ná-).
+Redirect to [Ná-](Ná-.md).

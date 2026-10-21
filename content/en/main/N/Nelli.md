@@ -13,12 +13,12 @@ categories:
   - "Telerin nouns"
 ---
 
-<b>*nelli</b> or perhaps <b>*nelloi</b> or <b>*neldi</b> is a [Telerin](/wiki/Telerin) word perhaps meaning "singers".
+<b>*nelli</b> or perhaps <b>*nelloi</b> or <b>*neldi</b> is a [Telerin](../T/Telerin.md) word perhaps meaning "singers".
 
-The word is seen in the <i><a class="new" href="/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i> and *[Soloneldi](/wiki/Soloneldi)* (which may actually be a Quenya-Telerin hybrid)
+The word is seen in the <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fallinelli&amp;action=edit&amp;redlink=1" title="Fallinelli (page does not exist)">Fallinelli</a></i> and *[Soloneldi](../S/Soloneldi.md)* (which may actually be a Quenya-Telerin hybrid)
 
 The independent word "singer" is probably \**nello*.
 
 ## Etymology {#Etymology}
 
-It comes from a possible [Primitive Elvish](/wiki/Primitive_Elvish) \**nyeldo* [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.
+It comes from a possible [Primitive Elvish](../P/Primitive_Elvish.md) \**nyeldo* [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NYEL&amp;action=edit&amp;redlink=1" title="NYEL (page does not exist)">NYEL</a>.

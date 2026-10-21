@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: War in the North characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: War in the North characters</span>"
 page_id: 50599
 namespace: 14
 revision_id: 274515

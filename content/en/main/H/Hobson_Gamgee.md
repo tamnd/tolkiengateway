@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobson"
 ---
 
-Redirect to [Hobson](/wiki/Hobson).
+Redirect to [Hobson](Hobson.md).

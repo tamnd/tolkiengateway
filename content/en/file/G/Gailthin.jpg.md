@@ -1,6 +1,5 @@
 ---
 title: "File:Gailthin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gailthin.jpg</span>"
 page_id: 35727
 namespace: 6
 revision_id: 168229

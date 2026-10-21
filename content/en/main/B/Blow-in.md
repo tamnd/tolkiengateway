@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíli"
 ---
 
-Redirect to [Fíli](/wiki/Fíli).
+Redirect to [Fíli](../F/Fíli.md).

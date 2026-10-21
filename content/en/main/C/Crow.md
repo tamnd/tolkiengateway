@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crows"
 ---
 
-Redirect to [Crows](/wiki/Crows).
+Redirect to [Crows](Crows.md).

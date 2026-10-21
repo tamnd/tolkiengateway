@@ -1,6 +1,5 @@
 ---
 title: "Lammoth (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Lammoth (disambiguation)</span>"
 page_id: 68424
 namespace: 0
 revision_id: 403292
@@ -19,17 +18,17 @@ images:
 
 ## Arda {#Arda}
 
-- **[Lammoth](/wiki/Lammoth), the shoreland region in the northwest of [Beleriand](/wiki/Beleriand).**
+- **[Lammoth](Lammoth.md), the shoreland region in the northwest of [Beleriand](../B/Beleriand.md).**
 
 ## Music {#Music}
 
-- [Lammoth (song)](</wiki/Lammoth_(song)>), a track from the album [Nightfall in Middle-Earth](/wiki/Nightfall_in_Middle-Earth) by [Blind Guardian](/wiki/Blind_Guardian).
+- [Lammoth (song)](<Lammoth_(song).md>), a track from the album [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) by [Blind Guardian](../B/Blind_Guardian.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Lammoth_(disambiguation)" title="Special:WhatLinksHere/:Lammoth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Lammoth_(disambiguation)" title="Special:WhatLinksHere/:Lammoth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

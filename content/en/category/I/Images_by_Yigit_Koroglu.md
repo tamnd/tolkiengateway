@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Yigit Koroglu"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Yigit Koroglu</span>"
 page_id: 74765
 namespace: 14
 revision_id: 439739
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Koroglu, Yigit"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Yigit_Koroglu&amp;action=edit&amp;redlink=1" title="Yigit Koroglu (page does not exist)">Yigit Koroglu</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yigit_Koroglu&amp;action=edit&amp;redlink=1" title="Yigit Koroglu (page does not exist)">Yigit Koroglu</a></b>.

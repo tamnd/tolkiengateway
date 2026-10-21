@@ -1,6 +1,5 @@
 ---
 title: "File:Rob Alexander - Truths of Doom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rob Alexander - Truths of Doom.jpg</span>"
 page_id: 12412
 namespace: 6
 revision_id: 437209
@@ -34,9 +33,9 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Rob Alexander - Truths of Doom.jpg</span></th>
 <td class="description">
 <p><i>Truths of Doom</i>. 
-Created for <a href="/wiki/Middle-earth:_The_White_Hand" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
- Given the flavour text, this might be <a href="/wiki/Meneltarma" title="Meneltarma">Meneltarma</a>
+Created for <a href="../../main/M/Middle-earth%253A_The_White_Hand.md" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+ Given the flavour text, this might be <a href="../../main/M/Meneltarma.md" title="Meneltarma">Meneltarma</a>
 </p>
 </td>
 </tr>
@@ -44,8 +43,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Rob Alexander</td>
@@ -54,7 +51,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.comicartfans.com/gallerypiece.asp?piece=2163950" rel="noreferrer noopener" target="_blank">Comic Art Fans</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

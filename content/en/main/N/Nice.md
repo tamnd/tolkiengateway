@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Níce"
 ---
 
-Redirect to [Níce](/wiki/Níce).
+Redirect to [Níce](Níce.md).

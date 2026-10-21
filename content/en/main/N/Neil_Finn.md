@@ -1,6 +1,5 @@
 ---
 title: "Neil Finn"
-display_title: "<span class=\"mw-page-title-main\">Neil Finn</span>"
 page_id: 42067
 namespace: 0
 revision_id: 430054
@@ -21,9 +20,9 @@ images:
   - "Neil_Finn.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Neil_Finn.jpg"><img src="/w/images/thumb/f/f5/Neil_Finn.jpg/250px-Neil_Finn.jpg" decoding="async" loading="lazy" width="250" height="148" class="mw-file-element" srcset="/w/images/thumb/f/f5/Neil_Finn.jpg/375px-Neil_Finn.jpg 1.5x, /w/images/thumb/f/f5/Neil_Finn.jpg/500px-Neil_Finn.jpg 2x" data-file-width="600" data-file-height="356"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Neil_Finn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/250px-Neil_Finn.jpg" decoding="async" loading="lazy" width="250" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/375px-Neil_Finn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f5/Neil_Finn.jpg/500px-Neil_Finn.jpg 2x" data-file-width="600" data-file-height="356"/></a><figcaption></figcaption></figure>
 
-**Neil Finn** is a New Zealand singer and musician, both as a solo artist and as a member of the bands Split Enz and <a class="external text" href="https://en.wikipedia.org/wiki/Crowded_House" rel="noreferrer noopener" target="_blank">Crowded House</a>. He performed "[Song of the Lonely Mountain](/wiki/Song_of_the_Lonely_Mountain)", the credit song of *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*.
+**Neil Finn** is a New Zealand singer and musician, both as a solo artist and as a member of the bands Split Enz and <a class="external text" href="https://en.wikipedia.org/wiki/Crowded_House" rel="noreferrer noopener" target="_blank">Crowded House</a>. He performed "[Song of the Lonely Mountain](../S/Song_of_the_Lonely_Mountain.md)", the credit song of *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:King Edward's School Chronicle.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">King Edward&#039;s School Chronicle.jpeg</span>"
 page_id: 67312
 namespace: 6
 revision_id: 390994

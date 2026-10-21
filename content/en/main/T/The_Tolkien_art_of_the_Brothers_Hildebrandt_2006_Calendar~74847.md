@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Art of the Brothers Hildebrandt 2006 Calendar"
 ---
 
-Redirect to [The Tolkien Art of the Brothers Hildebrandt 2006 Calendar](/wiki/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2006_Calendar).
+Redirect to [The Tolkien Art of the Brothers Hildebrandt 2006 Calendar](The_Tolkien_Art_of_the_Brothers_Hildebrandt_2006_Calendar.md).

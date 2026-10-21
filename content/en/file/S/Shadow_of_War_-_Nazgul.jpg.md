@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Nazgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Nazgul.jpg</span>"
 page_id: 56431
 namespace: 6
 revision_id: 307545
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Nazgûl](/wiki/Nazg%C3%BBl) from [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War),
+[Nazgûl](../../main/N/Nazgûl.md) from [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md),
 
 ## Licensing {#Licensing}
 

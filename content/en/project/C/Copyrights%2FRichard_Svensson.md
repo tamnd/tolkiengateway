@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Richard Svensson"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Richard Svensson</span>"
 page_id: 47543
 namespace: 4
 revision_id: 253285
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Svensson, Richard"
 ---
 
-- Richard Svensson has kindly granted his permission to use [his artwork related to Tolkien and Middle-earth](/wiki/Category:Images_by_Richard_Svensson "Category:Images by Richard Svensson") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Richard Svensson has kindly granted his permission to use [his artwork related to Tolkien and Middle-earth](../../category/I/Images_by_Richard_Svensson.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 21 August 2014
-- User who sought the permission via email: [Morgan](/wiki/User:Morgan "User:Morgan")
+- User who sought the permission via email: [Morgan](https://tolkiengateway.net/wiki/User:Morgan)

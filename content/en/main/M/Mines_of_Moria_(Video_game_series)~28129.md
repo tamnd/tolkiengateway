@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mines of Moria (video game series)"
 ---
 
-Redirect to [Mines of Moria (video game series)](/wiki/Mines_of_Moria_(video_game_series)).
+Redirect to [Mines of Moria (video game series)](<Mines_of_Moria_(video_game_series).md>).

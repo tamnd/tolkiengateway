@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-**Qualme** is a [Quenya](/wiki/Quenya) term that refers to the natural "death" of the [Elves](/wiki/Elves).
+**Qualme** is a [Quenya](Quenya.md) term that refers to the natural "death" of the [Elves](../E/Elves.md).
 
 Although the Elves don't grow old, after the passage of millennia withered their bodies and "passed away" with their physical disappearance.
 
@@ -21,18 +21,18 @@ Qualme may occur either naturally, or voluntarily by a weariness of life, due to
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KWAL&amp;action=edit&amp;redlink=1" title="KWAL (page does not exist)">KWAL</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[PQ](../P/PQ.md) [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KWAL&amp;action=edit&amp;redlink=1" title="KWAL (page does not exist)">KWAL</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Quel&amp;action=edit&amp;redlink=1" title="Quel (page does not exist)">quel</a>/<a class="new" href="/w/index.php?title=Quelie&amp;action=edit&amp;redlink=1" title="Quelie (page does not exist)">quelie</a></i>
-- *[quelle](/wiki/Quelle "Quelle")*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quel&amp;action=edit&amp;redlink=1" title="Quel (page does not exist)">quel</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Quelie&amp;action=edit&amp;redlink=1" title="Quelie (page does not exist)">quelie</a></i>
+- *[quelle](Quelle.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a></span>
 </li>
 </ol></div>

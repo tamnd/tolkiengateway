@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bywater Pool"
 ---
 
-Redirect to [Bywater Pool](/wiki/Bywater_Pool).
+Redirect to [Bywater Pool](../B/Bywater_Pool.md).

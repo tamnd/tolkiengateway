@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kheledûl"
 ---
 
-Redirect to [Kheledûl](/wiki/Kheledûl).
+Redirect to [Kheledûl](Kheledûl.md).

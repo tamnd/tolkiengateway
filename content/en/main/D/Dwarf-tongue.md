@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khuzdul"
 ---
 
-Redirect to [Khuzdul](/wiki/Khuzdul).
+Redirect to [Khuzdul](../K/Khuzdul.md).

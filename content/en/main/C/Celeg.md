@@ -13,26 +13,26 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>Celeg</b></i> is a [Sindarin](/wiki/Sindarin) adjective meaning "swift" or "agile".
+<i><b>Celeg</b></i> is a [Sindarin](../S/Sindarin.md) adjective meaning "swift" or "agile".
 
 ## Etymology {#Etymology}
 
-Probably [OS](/wiki/OS) \**keleka*, from [PQ](/wiki/PQ) \**kyelekâ*, [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
+Probably [OS](../O/OS.md) \**keleka*, from [PQ](../P/PQ.md) \**kyelekâ*, [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
 
 ## Examples {#Examples}
 
-- [Celegorm](/wiki/Celegorm) = Hasty-riser
-- [Celduin](/wiki/River_Running "River Running")
+- [Celegorm](Celegorm.md) = Hasty-riser
+- [Celduin](../R/River_Running.md)
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Lagor&amp;action=edit&amp;redlink=1" title="Lagor (page does not exist)">lagor</a></i>
-- <i><a class="new" href="/w/index.php?title=Lim&amp;action=edit&amp;redlink=1" title="Lim (page does not exist)">lim</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lagor&amp;action=edit&amp;redlink=1" title="Lagor (page does not exist)">lagor</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lim&amp;action=edit&amp;redlink=1" title="Lim (page does not exist)">lim</a></i>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[tyelca](/wiki/Tyelka "Tyelka")*
+- [Quenya](../Q/Quenya.md) *[tyelca](../T/Tyelka.md)*
 
 ## References {#References}
 
-- [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [Christopher Tolkien](/wiki/Christopher_Tolkien) (ed.), *[The Lost Road and Other Writings](/wiki/The_Lost_Road_and_Other_Writings)*, "[The Etymologies](/wiki/The_Etymologies)"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](Christopher_Tolkien.md) (ed.), *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, "[The Etymologies](../T/The_Etymologies.md)"

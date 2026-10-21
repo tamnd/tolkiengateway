@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir (son of Ondoher)"
 ---
 
-Redirect to [Faramir (son of Ondoher)](/wiki/Faramir_(son_of_Ondoher)).
+Redirect to [Faramir (son of Ondoher)](<Faramir_(son_of_Ondoher).md>).

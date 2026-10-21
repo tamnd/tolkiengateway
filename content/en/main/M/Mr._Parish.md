@@ -1,6 +1,5 @@
 ---
 title: "Mr. Parish"
-display_title: "<span class=\"mw-page-title-main\">Mr. Parish</span>"
 page_id: 19771
 namespace: 0
 revision_id: 411184
@@ -15,10 +14,10 @@ sort_keys:
   "Leaf by Niggle": "Parish, Mr."
 ---
 
-**Mr. Parish** is a character in *[Leaf by Niggle](/wiki/Leaf_by_Niggle)*. He is the neighbour of [Niggle](/wiki/Niggle), and husband to [Mrs. Parish](/wiki/Mrs._Parish). Parish is an old man, who asks his neighbour to do several chores for him. Since Niggle is a nice fellow, he agrees, though he prefers to work on his painting. Parish never understood his art.
+**Mr. Parish** is a character in *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. He is the neighbour of [Niggle](../N/Niggle.md), and husband to [Mrs. Parish](Mrs._Parish.md). Parish is an old man, who asks his neighbour to do several chores for him. Since Niggle is a nice fellow, he agrees, though he prefers to work on his painting. Parish never understood his art.
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>1992: <i><a href="/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm radio series</a></i></b>
+<b>1992: <i><a href="../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md" title="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm radio series</a></i></b>
 
-<dl><dd>Mr. Parish is voiced by <a class="new" href="/w/index.php?title=John_Fleming&amp;action=edit&amp;redlink=1" title="John Fleming (page does not exist)">John Fleming</a>.</dd></dl>
+<dl><dd>Mr. Parish is voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Fleming&amp;action=edit&amp;redlink=1" title="John Fleming (page does not exist)">John Fleming</a>.</dd></dl>

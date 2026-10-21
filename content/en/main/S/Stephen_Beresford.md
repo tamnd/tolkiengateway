@@ -1,6 +1,5 @@
 ---
 title: "Stephen Beresford"
-display_title: "<span class=\"mw-page-title-main\">Stephen Beresford</span>"
 page_id: 57478
 namespace: 0
 revision_id: 407289
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Beresford, Stephen"
 ---
 
-**Stephen Beresford** (born 1972) is an English actor and writer who co-wrote *[Tolkien](</wiki/Tolkien_(film)> "Tolkien (film)")*.
+**Stephen Beresford** (born 1972) is an English actor and writer who co-wrote *[Tolkien](<../T/Tolkien_(film).md>)*.
 
 ## External links {#External_links}
 

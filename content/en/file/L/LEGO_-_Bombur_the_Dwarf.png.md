@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Bombur the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Bombur the Dwarf.png</span>"
 page_id: 73116
 namespace: 6
 revision_id: 432876
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bombur the Dwarf](/wiki/Bombur "Bombur") - [LEGO](/wiki/Lego "Lego") minifigure
+[Bombur the Dwarf](../../main/B/Bombur.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

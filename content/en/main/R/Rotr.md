@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Ring"
 ---
 
-Redirect to [The Return of the Ring](/wiki/The_Return_of_the_Ring).
+Redirect to [The Return of the Ring](../T/The_Return_of_the_Ring.md).

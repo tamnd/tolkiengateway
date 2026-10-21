@@ -13,19 +13,19 @@ categories:
   - "Telerin nouns"
 ---
 
-**nette** in [Telerin](/wiki/Telerin) means 'sister' (diminutive). It is also a play-name for the ring finger.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**nette** in [Telerin](../T/Telerin.md) means 'sister' (diminutive). It is also a play-name for the ring finger.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-A diminutive form was also <i><a class="new" href="/w/index.php?title=Nettice&amp;action=edit&amp;redlink=1" title="Nettice (page does not exist)">nettice</a></i>
+A diminutive form was also <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nettice&amp;action=edit&amp;redlink=1" title="Nettice (page does not exist)">nettice</a></i>
 
 ## Etymology {#Etymology}
 
-From [PQ](/wiki/PQ) \**netthi*, [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a> <span></span>
+From [PQ](../P/PQ.md) \**netthi*, [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NETH&amp;action=edit&amp;redlink=1" title="NETH (page does not exist)">NETH</a> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_48.md" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005</span>
 </li>
 </ol></div>

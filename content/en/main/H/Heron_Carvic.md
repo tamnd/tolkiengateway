@@ -1,6 +1,5 @@
 ---
 title: "Heron Carvic"
-display_title: "<span class=\"mw-page-title-main\">Heron Carvic</span>"
 page_id: 15639
 namespace: 0
 revision_id: 226123
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Carvic, Heron"
 ---
 
-**Heron Carvic** ([January 21](/wiki/21_January "21 January"), [1913](/wiki/1913) - [February 9](/wiki/9_February "9 February"), [1980](/wiki/1980)) was the voice of [Gandalf](/wiki/Gandalf) in *[The Hobbit](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)")* radio adaptation broadcast on BBC Radio 4.
+**Heron Carvic** ([January 21](../_/21_January.md), [1913](../_/1913.md) - [February 9](../_/9_February.md), [1980](../_/1980.md)) was the voice of [Gandalf](../G/Gandalf.md) in *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* radio adaptation broadcast on BBC Radio 4.
 
 ## External links {#External_links}
 

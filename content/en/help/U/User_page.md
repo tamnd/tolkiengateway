@@ -1,6 +1,5 @@
 ---
 title: "Help:User page"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">User page</span>"
 page_id: 29676
 namespace: 12
 revision_id: 298105
@@ -23,11 +22,11 @@ If you have registered, you can create your own user page. Your user page is lin
 
 User pages are just as flexible as any other wiki page, and it's a page all about you, so generally people will leave you to freely write your user page in whatever format you like. It's a feature to help other people know who you are, and to bring the online community closer together. Think of it as a “profile” page. You might like to mention where you are from and what your job is. You can also state what your main areas of interest are in relation to the topic of the wiki, and describe contributions you have made or areas where you are interested in contributing.
 
-Feel free to add user boxes to your user page. See [Tolkien Gateway:Userboxes](/wiki/Tolkien_Gateway:Userboxes).
+Feel free to add user boxes to your user page. See [Tolkien Gateway:Userboxes](../../project/U/Userboxes.md).
 
 ### User scratchpad / development area {#User_scratchpad_/_development_area}
 
-You can use your user page as a scratchpad. An area for developing ideas without cluttering the main namespace. You may find it useful to create sub pages under your user page for this purpose, such as User:YourUserName/Sandbox or User:YourUserName/FrodoDraft. However you should avoid expending too much effort within your own area of the wiki. Be bold! Edit the main wiki articles! You can also use the shared [Tolkien Gateway Sandbox](/wiki/Tolkien_Gateway:Sandbox "Tolkien Gateway:Sandbox") for quick (non-permanent) wiki experimentation.
+You can use your user page as a scratchpad. An area for developing ideas without cluttering the main namespace. You may find it useful to create sub pages under your user page for this purpose, such as User:YourUserName/Sandbox or User:YourUserName/FrodoDraft. However you should avoid expending too much effort within your own area of the wiki. Be bold! Edit the main wiki articles! You can also use the shared [Tolkien Gateway Sandbox](../../project/S/Sandbox.md) for quick (non-permanent) wiki experimentation.
 
 <h2><span id="Other_people.27s_user_pages"></span><span class="mw-headline" id="Other_people&#39;s_user_pages">Other people&#39;s user pages</span></h2>
 
@@ -51,4 +50,4 @@ Every user page has an associated talk page; a "user talk page". This is a speci
 
 ### Link to a user page {#Link_to_a_user_page}
 
-To create a link to the user page of the user that clicks that link, use [Special:MyPage](/wiki/Special:MyPage).
+To create a link to the user page of the user that clicks that link, use [Special:MyPage](https://tolkiengateway.net/wiki/Special:MyPage).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Daphne Castell"
 ---
 
-Redirect to [Daphne Castell](/wiki/Daphne_Castell).
+Redirect to [Daphne Castell](Daphne_Castell.md).

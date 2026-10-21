@@ -1,6 +1,5 @@
 ---
 title: "Blockdot Games"
-display_title: "<span class=\"mw-page-title-main\">Blockdot Games</span>"
 page_id: 32332
 namespace: 0
 revision_id: 404926
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Blockdot Games** is a company which develops minigames. The company was founded in [2001](/wiki/2001). In [2008](/wiki/2008) it developed, together with [Turbine](/wiki/Turbine), three minigames ([King Under the Mountain](</wiki/King_Under_the_Mountain_(minigame)> "King Under the Mountain (minigame)"), <a class="new" href="/w/index.php?title=Swig_and_Toss&amp;action=edit&amp;redlink=1" title="Swig and Toss (page does not exist)">Swig and Toss</a> and <a class="new" href="/w/index.php?title=Eleventy-Seven_Morsels&amp;action=edit&amp;redlink=1" title="Eleventy-Seven Morsels (page does not exist)">Eleventy-Seven Morsels</a>) to promote [The Lord of the Rings Online: Mines of Moria](/wiki/The_Lord_of_the_Rings_Online:_Mines_of_Moria).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Blockdot Games** is a company which develops minigames. The company was founded in [2001](../_/2001.md). In [2008](../_/2008.md) it developed, together with [Turbine](../T/Turbine.md), three minigames ([King Under the Mountain](<../K/King_Under_the_Mountain_(minigame).md>), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Swig_and_Toss&amp;action=edit&amp;redlink=1" title="Swig and Toss (page does not exist)">Swig and Toss</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eleventy-Seven_Morsels&amp;action=edit&amp;redlink=1" title="Eleventy-Seven Morsels (page does not exist)">Eleventy-Seven Morsels</a>) to promote [The Lord of the Rings Online: Mines of Moria](../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 

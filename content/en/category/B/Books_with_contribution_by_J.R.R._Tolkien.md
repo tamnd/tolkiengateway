@@ -1,6 +1,5 @@
 ---
 title: "Category:Books with contribution by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books with contribution by J.R.R. Tolkien</span>"
 page_id: 26359
 namespace: 14
 revision_id: 105323

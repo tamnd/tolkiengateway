@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Haleth"
 ---
 
-Redirect to [House of Haleth](/wiki/House_of_Haleth).
+Redirect to [House of Haleth](House_of_Haleth.md).

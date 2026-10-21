@@ -1,6 +1,5 @@
 ---
 title: "Beren and Lúthien, Op. 47 (Album)"
-display_title: "<span class=\"mw-page-title-main\">Beren and Lúthien, Op. 47 (Album)</span>"
 page_id: 65189
 namespace: 0
 revision_id: 426174
@@ -16,9 +15,9 @@ images:
   - "Artwork_from_the_CD_Release.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Artwork_from_the_CD_Release.jpg"><img src="/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, /w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artwork_from_the_CD_Release.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith</figcaption></figure>
 
-Complete Demo Recording of composer Paul Corfield Godfrey's operatic work *[Beren and Lúthien, Op. 47 (Opera)](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)>)* from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2019.
+Complete Demo Recording of composer Paul Corfield Godfrey's operatic work *[Beren and Lúthien, Op. 47 (Opera)](<Beren_and_Lúthien,_Op._47_(Opera).md>)* from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2019.
 
 <br> **Cast:**
 

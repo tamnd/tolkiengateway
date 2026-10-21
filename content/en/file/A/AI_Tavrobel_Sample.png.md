@@ -1,6 +1,5 @@
 ---
 title: "File:AI Tavrobel Sample.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">AI Tavrobel Sample.png</span>"
 page_id: 71701
 namespace: 6
 revision_id: 427385
@@ -35,6 +34,6 @@ Prompt for ChatGTP was:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>This image was created by <a href="/wiki/User:Smeagol" title="User:Smeagol">Smeagol</a>  prompting ChatGPT, an artificial intelligence system that generates images from human input.
+<p>This image was created by <a href="https://tolkiengateway.net/wiki/User:Smeagol" title="User:Smeagol">Smeagol</a>  prompting ChatGPT, an artificial intelligence system that generates images from human input.
 </p>
 </div>

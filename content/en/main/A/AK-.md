@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AK"
 ---
 
-Redirect to [AK](/wiki/AK).
+Redirect to [AK](AK.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peregrin Took"
 ---
 
-Redirect to [Peregrin Took](/wiki/Peregrin_Took).
+Redirect to [Peregrin Took](Peregrin_Took.md).

@@ -16,11 +16,11 @@ images:
   - "J.R.R._Tolkien_Calendar_1999_(Italian).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_Calendar_1999_(Italian).jpg"><img src="/w/images/thumb/d/d4/J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg/300px-J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg" decoding="async" loading="lazy" width="300" height="305" class="mw-file-element" srcset="/w/images/d/d4/J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg 1.5x" data-file-width="344" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_1999_(Italian).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d4/J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg/300px-J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg" decoding="async" loading="lazy" width="300" height="305" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d4/J.R.R._Tolkien_Calendar_1999_%28Italian%29.jpg 1.5x" data-file-width="344" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-The *J.R.R. Tolkien Calendar 1999'* was produced by Rusconi ([Italian Tolkien Society](/wiki/Italian_Tolkien_Society) and is illustrated by [Luca Michelucci](/wiki/Luca_Michelucci).
+The *J.R.R. Tolkien Calendar 1999'* was produced by Rusconi ([Italian Tolkien Society](../I/Italian_Tolkien_Society.md) and is illustrated by [Luca Michelucci](../L/Luca_Michelucci.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/8818970119">ISBN 88-18-97011-9</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/8818970119">ISBN 88-18-97011-9</a>
 - Dimensions: 15.75 x 15.75 inches
 - Wire bound/hanger
 - Plastic wrapped

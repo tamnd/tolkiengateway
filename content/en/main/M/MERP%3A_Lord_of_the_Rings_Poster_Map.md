@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings Poster Map"
 ---
 
-Redirect to [Lord of the Rings Poster Map](/wiki/Lord_of_the_Rings_Poster_Map).
+Redirect to [Lord of the Rings Poster Map](../L/Lord_of_the_Rings_Poster_Map.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulumúri"
 ---
 
-Redirect to [Ulumúri](/wiki/Ulumúri).
+Redirect to [Ulumúri](../U/Ulumúri.md).

@@ -13,19 +13,19 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Ernil** means prince in [Sindarin](/wiki/Sindarin).
+**Ernil** means prince in [Sindarin](../S/Sindarin.md).
 
 ## Etymology {#Etymology}
 
-Perhaps composed of <i><a class="new" href="/w/index.php?title=Arn&amp;action=edit&amp;redlink=1" title="Arn (page does not exist)">arn</a></i> "noble" and ending *[-il](/wiki/-il)*.
+Perhaps composed of <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Arn&amp;action=edit&amp;redlink=1" title="Arn (page does not exist)">arn</a></i> "noble" and ending *[-il](../_/-il.md)*.
 
-Possible [Old Sindarin](/wiki/Old_Sindarin) form could be \**arnillo*.
+Possible [Old Sindarin](../O/Old_Sindarin.md) form could be \**arnillo*.
 
 ## Examples {#Examples}
 
-- [Dor-en-Ernil](/wiki/Dor-en-Ernil)
-- [Ernil i Pheriannath](/wiki/Ernil_i_Pheriannath)
+- [Dor-en-Ernil](../D/Dor-en-Ernil.md)
+- [Ernil i Pheriannath](Ernil_i_Pheriannath.md)
 
 ## See also {#See_also}
 
-Other words for "prince" are *[caun](/wiki/Caun "Caun")* and <i><a class="new" href="/w/index.php?title=Cund&amp;action=edit&amp;redlink=1" title="Cund (page does not exist)">cund</a></i>
+Other words for "prince" are *[caun](../C/Caun.md)* and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cund&amp;action=edit&amp;redlink=1" title="Cund (page does not exist)">cund</a></i>

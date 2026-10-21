@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Theoden of Rohan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Theoden of Rohan.jpg</span>"
 page_id: 22161
 namespace: 6
 revision_id: 272550
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) and the [Three Hunters](/wiki/Three_Hunters) enter [Meduseld](/wiki/Meduseld). Screenshot from [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Gandalf](../../main/G/Gandalf.md) and the [Three Hunters](../../main/T/Three_Hunters.md) enter [Meduseld](../../main/M/Meduseld.md). Screenshot from [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

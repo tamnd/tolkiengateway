@@ -1,6 +1,5 @@
 ---
 title: "File:Mariët Theune - Isengard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mariët Theune - Isengard.jpg</span>"
 page_id: 13690
 namespace: 6
 revision_id: 183375
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mariët Theune</li>
 <li><b>Website:</b> <a class="external text" href="http://home.planet.nl/~theun390/lotr/" rel="noreferrer noopener" target="_blank">Mariët Theune&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mari%C3%ABt_Theune" title="Tolkien Gateway:Copyrights/Mariët Theune">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMariët_Theune.md" title="Tolkien Gateway:Copyrights/Mariët Theune">Permission for use on Tolkien Gateway</a></b></li></ul></div>

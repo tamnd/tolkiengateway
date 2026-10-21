@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brytta"
 ---
 
-Redirect to [Brytta](/wiki/Brytta).
+Redirect to [Brytta](Brytta.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth.png</span>"
 page_id: 71357
 namespace: 6
 revision_id: 425775
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)* poster
+*[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)* poster
 
 ## Licensing {#Licensing}
 

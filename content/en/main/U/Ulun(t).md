@@ -11,4 +11,4 @@ redirect_target: "Camels"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Camels](/wiki/Camels#Etymology).
+Redirect to [Camels](../C/Camels.md#Etymology).

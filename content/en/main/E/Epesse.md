@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Epessë"
 ---
 
-Redirect to [Epessë](/wiki/Epessë).
+Redirect to [Epessë](Epessë.md).

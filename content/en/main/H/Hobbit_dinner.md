@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "\"Hobbit Dinner\" in Rotterdam"
 ---
 
-Redirect to ["Hobbit Dinner" in Rotterdam](/wiki/"Hobbit_Dinner"_in_Rotterdam).
+Redirect to ["Hobbit Dinner" in Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md).

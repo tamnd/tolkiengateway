@@ -1,6 +1,5 @@
 ---
 title: "File:Jerry VanderStelt - Gandalf the Grey Mini Epic.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jerry VanderStelt - Gandalf the Grey Mini Epic.jpg</span>"
 page_id: 62332
 namespace: 6
 revision_id: 351909

@@ -1,6 +1,5 @@
 ---
 title: "Christopher Guard"
-display_title: "<span class=\"mw-page-title-main\">Christopher Guard</span>"
 page_id: 18832
 namespace: 0
 revision_id: 221847
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Guard, Christopher"
 ---
 
-**Christopher Guard** ([December 5](/wiki/5_December "5 December"), [1953](/wiki/1953)) is an English actor. He voiced [Frodo Baggins](/wiki/Frodo_Baggins) in [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)"). He is the older brother of [Dominic Guard](/wiki/Dominic_Guard), who played [Peregrin Took](/wiki/Peregrin_Took).
+**Christopher Guard** ([December 5](../_/5_December.md), [1953](../_/1953.md)) is an English actor. He voiced [Frodo Baggins](../F/Frodo_Baggins.md) in [*The Lord of the Rings* (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>). He is the older brother of [Dominic Guard](../D/Dominic_Guard.md), who played [Peregrin Took](../P/Peregrin_Took.md).
 
 ## External links {#External_links}
 

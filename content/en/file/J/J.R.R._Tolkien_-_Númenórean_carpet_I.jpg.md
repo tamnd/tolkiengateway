@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Númenórean carpet I.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Númenórean carpet I.jpg</span>"
 page_id: 5791
 namespace: 6
 revision_id: 434716
@@ -30,11 +29,10 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Númenórean carpet I.jpg</span></th>
 <td class="description">
-<p>This <a href="/wiki/N%C3%BAmen%C3%B3reans" title="Númenóreans">Númenórean</a> textile would have been among such precious artefacts to be saved from the <a href="/wiki/Downfall_of_N%C3%BAmenor" title="Downfall of Númenor">Downfall of Númenor</a> in the ships of <a href="/wiki/Elendil" title="Elendil">Elendil</a> and his sons <a href="/wiki/Isildur" title="Isildur">Isildur</a> and <a href="/wiki/An%C3%A1rion" title="Anárion">Anárion</a> and brought to <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>, as is told in the <a href="/wiki/Akallab%C3%AAth" title="Akallabêth">Akallabêth</a> (<a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a>).
+<p>This <a href="../../main/N/Númenóreans.md" title="Númenóreans">Númenórean</a> textile would have been among such precious artefacts to be saved from the <a href="../../main/D/Downfall_of_Númenor.md" title="Downfall of Númenor">Downfall of Númenor</a> in the ships of <a href="../../main/E/Elendil.md" title="Elendil">Elendil</a> and his sons <a href="../../main/I/Isildur.md" title="Isildur">Isildur</a> and <a href="../../main/A/Anárion.md" title="Anárion">Anárion</a> and brought to <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, as is told in the <a href="../../main/A/Akallabêth.md" title="Akallabêth">Akallabêth</a> (<a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>).
 </p>
 </td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Drawing</td>
@@ -45,13 +43,12 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
+<td><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

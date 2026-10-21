@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Farmer Proudfoot.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Farmer Proudfoot.png</span>"
 page_id: 73153
 namespace: 6
 revision_id: 432992
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Farmer Proudfoot](/wiki/Everard_Proudfoot "Everard Proudfoot") - [LEGO](/wiki/Lego "Lego") minifigure
+[Farmer Proudfoot](../../main/E/Everard_Proudfoot.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

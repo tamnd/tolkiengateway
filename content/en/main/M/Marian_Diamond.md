@@ -1,6 +1,5 @@
 ---
 title: "Marian Diamond"
-display_title: "<span class=\"mw-page-title-main\">Marian Diamond</span>"
 page_id: 6881
 namespace: 0
 revision_id: 406469
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Diamond, Marian"
 ---
 
-**Marian Diamond** (born [17 December](/wiki/17_December) [1936](/wiki/1936)) is an English actress. Known primarily for her voice, she has worked for the [BBC](/wiki/BBC) for years. She narrated several episodes of *[Jackanory](/wiki/Jackanory)* (dealing with [C.S. Lewis](/wiki/C.S._Lewis)' books mostly), and she voiced the [Galadriel](/wiki/Galadriel) in [*The Lord of the Rings* radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)").
+**Marian Diamond** (born [17 December](../_/17_December.md) [1936](../_/1936.md)) is an English actress. Known primarily for her voice, she has worked for the [BBC](../B/BBC.md) for years. She narrated several episodes of *[Jackanory](../J/Jackanory.md)* (dealing with [C.S. Lewis](../C/C.S._Lewis.md)' books mostly), and she voiced the [Galadriel](../G/Galadriel.md) in [*The Lord of the Rings* radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## External links {#External_links}
 

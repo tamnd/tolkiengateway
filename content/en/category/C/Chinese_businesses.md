@@ -1,6 +1,5 @@
 ---
 title: "Category:Chinese businesses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chinese businesses</span>"
 page_id: 38694
 namespace: 14
 revision_id: 190170

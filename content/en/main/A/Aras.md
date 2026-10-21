@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Aras** is the [Sindarin](/wiki/Sindarin) word for "deer".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Aras** is the [Sindarin](../S/Sindarin.md) word for "deer".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
@@ -21,6 +21,6 @@ categories:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;List of Names&#34;, <i>Cabed-en-Aras</i>, p. 298</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;List of Names&#34;, <i>Cabed-en-Aras</i>, p. 298</span>
 </li>
 </ol></div>

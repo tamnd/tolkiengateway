@@ -1,6 +1,5 @@
 ---
 title: "File:Soni Alcorn-Hender - Frodo and Gandalf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Soni Alcorn-Hender - Frodo and Gandalf.jpg</span>"
 page_id: 53614
 namespace: 6
 revision_id: 291799
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Soni Alcorn-Hender</li>
 <li><b>Website:</b> <a class="external text" href="http://www.bohemianweasel.com/" rel="noreferrer noopener" target="_blank">Soni Alcorn-Hender&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Soni_Alcorn-Hender" title="Tolkien Gateway:Copyrights/Soni Alcorn-Hender">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSoni_Alcorn-Hender.md" title="Tolkien Gateway:Copyrights/Soni Alcorn-Hender">Permission for use on Tolkien Gateway</a></b></li></ul></div>

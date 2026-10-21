@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin IV"
 ---
 
-Redirect to [Durin IV](/wiki/Durin_IV).
+Redirect to [Durin IV](Durin_IV.md).

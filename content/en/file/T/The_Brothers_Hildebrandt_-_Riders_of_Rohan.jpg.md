@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Riders of Rohan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Riders of Rohan.jpg</span>"
 page_id: 71611
 namespace: 6
 revision_id: 426930
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Riders of Rohan](/wiki/Rohirrim "Rohirrim")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). A pencil Sketch on Tracing Vellum for The uncompleted 1979 Tolkien Calendar.
+"[Riders of Rohan](../../main/R/Rohirrim.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). A pencil Sketch on Tracing Vellum for The uncompleted 1979 Tolkien Calendar.
 
 ## Licensing {#Licensing}
 

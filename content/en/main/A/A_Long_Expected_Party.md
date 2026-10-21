@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Long-expected Party"
 ---
 
-Redirect to [A Long-expected Party](/wiki/A_Long-expected_Party).
+Redirect to [A Long-expected Party](A_Long-expected_Party.md).

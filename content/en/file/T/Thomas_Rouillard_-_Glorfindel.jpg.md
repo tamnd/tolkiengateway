@@ -1,6 +1,5 @@
 ---
 title: "File:Thomas Rouillard - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Thomas Rouillard - Glorfindel.jpg</span>"
 page_id: 39013
 namespace: 6
 revision_id: 192124
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Thomas Rouillard</li>
 <li><b>Website:</b> <a class="external text" href="http://formenost.deviantart.com/" rel="noreferrer noopener" target="_blank">Thomas Rouillard on deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Thomas_Rouillard" title="Tolkien Gateway:Copyrights/Thomas Rouillard">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FThomas_Rouillard.md" title="Tolkien Gateway:Copyrights/Thomas Rouillard">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Months"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Months</span>"
 page_id: 5435
 namespace: 14
 revision_id: 339368
@@ -13,4 +12,4 @@ categories:
   - "Calendars"
 ---
 
-This category lists all **Months** in the [legendarium](/wiki/Legendarium "Legendarium").
+This category lists all **Months** in the [legendarium](../../main/L/Legendarium.md).

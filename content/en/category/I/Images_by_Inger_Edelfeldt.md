@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Inger Edelfeldt"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Inger Edelfeldt</span>"
 page_id: 16599
 namespace: 14
 revision_id: 182024
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Edelfeldt, Inger"
 ---
 
-This category lists all **images by [Inger Edelfeldt](/wiki/Inger_Edelfeldt)**.
+This category lists all **images by [Inger Edelfeldt](../../main/I/Inger_Edelfeldt.md)**.

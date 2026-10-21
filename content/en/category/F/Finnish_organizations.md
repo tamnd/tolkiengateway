@@ -1,6 +1,5 @@
 ---
 title: "Category:Finnish organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Finnish organizations</span>"
 page_id: 35446
 namespace: 14
 revision_id: 166608

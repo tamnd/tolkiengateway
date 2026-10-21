@@ -1,6 +1,5 @@
 ---
 title: "Gollancz"
-display_title: "<span class=\"mw-page-title-main\">Gollancz</span>"
 page_id: 19866
 namespace: 0
 revision_id: 190132
@@ -14,14 +13,14 @@ categories:
   - "British businesses"
 ---
 
-**Victor Gollancz Limited** is a British publisher of fantasy, science fiction, and parodies thereof. After being part of [Houghton Mifflin](/wiki/Houghton_Mifflin) for most of the 1990s, it is now part of the Orion Publishing Group. Their *Gollancz list* contains fantasy books by authors as <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_K._Dick" title="wikipedia:Philip K. Dick">Philip K. Dick</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Terry_Pratchet" title="wikipedia:Terry Pratchet">Terry Pratchet</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_C._Clarke" title="wikipedia:Arthur C. Clarke">Arthur C. Clarke</a>.
+**Victor Gollancz Limited** is a British publisher of fantasy, science fiction, and parodies thereof. After being part of [Houghton Mifflin](../H/Houghton_Mifflin.md) for most of the 1990s, it is now part of the Orion Publishing Group. Their *Gollancz list* contains fantasy books by authors as <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_K._Dick" title="wikipedia:Philip K. Dick">Philip K. Dick</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Terry_Pratchet" title="wikipedia:Terry Pratchet">Terry Pratchet</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_C._Clarke" title="wikipedia:Arthur C. Clarke">Arthur C. Clarke</a>.
 
 ## Publications {#Publications}
 
-- [2003](/wiki/2003): [Henry N. Beard](/wiki/Henry_N._Beard) and [Douglas C. Kenney](/wiki/Douglas_C._Kenney) - *[Bored of the Rings](</wiki/Bored_of_the_Rings_(book)> "Bored of the Rings (book)")*
-- [2003](/wiki/2003): [Lin Carter](/wiki/Lin_Carter) - *[Tolkien: A Look Behind The Lord of the Rings](/wiki/Tolkien:_A_Look_Behind_The_Lord_of_the_Rings)* (Second edition, edited by [Adam Roberts](/wiki/Adam_Roberts))
-- [2003](/wiki/2003): [Adam Roberts](/wiki/Adam_Roberts) - *[The Soddit](/wiki/The_Soddit)*
-- [2004](/wiki/2004): [Adam Roberts](/wiki/Adam_Roberts) - *[The Sellamillion](/wiki/The_Sellamillion)*
+- [2003](../_/2003.md): [Henry N. Beard](../H/Henry_N._Beard.md) and [Douglas C. Kenney](../D/Douglas_C._Kenney.md) - *[Bored of the Rings](<../B/Bored_of_the_Rings_(book).md>)*
+- [2003](../_/2003.md): [Lin Carter](../L/Lin_Carter.md) - *[Tolkien: A Look Behind The Lord of the Rings](../T/Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md)* (Second edition, edited by [Adam Roberts](../A/Adam_Roberts.md))
+- [2003](../_/2003.md): [Adam Roberts](../A/Adam_Roberts.md) - *[The Soddit](../T/The_Soddit.md)*
+- [2004](../_/2004.md): [Adam Roberts](../A/Adam_Roberts.md) - *[The Sellamillion](../T/The_Sellamillion.md)*
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Dark Tower.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Dark Tower.png</span>"
 page_id: 72368
 namespace: 6
 revision_id: 429946
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Dark Tower](/wiki/Barad-d%C3%BBr "Barad-dûr")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"[The Dark Tower](../../main/B/Barad-dûr.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

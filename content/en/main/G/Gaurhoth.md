@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Werewolves"
 ---
 
-Redirect to [Werewolves](/wiki/Werewolves).
+Redirect to [Werewolves](../W/Werewolves.md).

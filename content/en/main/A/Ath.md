@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ath"
 ---
 
-Redirect to [-ath](/wiki/-ath).
+Redirect to [-ath](../_/-ath.md).

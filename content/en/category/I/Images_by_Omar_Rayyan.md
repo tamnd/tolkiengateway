@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Omar Rayyan"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Omar Rayyan</span>"
 page_id: 29760
 namespace: 14
 revision_id: 239968
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Rayyan, Omar"
 ---
 
-This category lists all **images by [Omar Rayyan](/wiki/Omar_Rayyan)**.
+This category lists all **images by [Omar Rayyan](../../main/O/Omar_Rayyan.md)**.

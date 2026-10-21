@@ -1,6 +1,5 @@
 ---
 title: "File:The Broken Scythe.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Broken Scythe.jpg</span>"
 page_id: 67045
 namespace: 6
 revision_id: 388974
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](/wiki/The_Broken_Scythe "The Broken Scythe")*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is *[The Departure of Boromir](/wiki/The_Departure_of_Boromir)* (2003) by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien](../../main/T/The_Broken_Scythe.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is *[The Departure of Boromir](../../main/T/The_Departure_of_Boromir.md)* (2003) by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doriath"
 ---
 
-Redirect to [Doriath](/wiki/Doriath).
+Redirect to [Doriath](../D/Doriath.md).

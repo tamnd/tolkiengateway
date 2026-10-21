@@ -1,6 +1,5 @@
 ---
 title: "Fell Winter (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Fell Winter (disambiguation)</span>"
 page_id: 28239
 namespace: 0
 revision_id: 212797
@@ -15,20 +14,20 @@ images:
   - "Disambig.png"
 ---
 
-There were two particularly bitter winters in [Middle-earth](/wiki/Middle-earth) called the **Fell Winter**:
+There were two particularly bitter winters in [Middle-earth](../M/Middle-earth.md) called the **Fell Winter**:
 
-- The [Fell Winter](</wiki/Fell_Winter_(First_Age)> "Fell Winter (First Age)"), [F.A.](/wiki/First_Age "First Age") [495](/wiki/First_Age_495 "First Age 495")/[496](/wiki/First_Age_496 "First Age 496").
-- The [Fell Winter](</wiki/Fell_Winter_(Third_Age)> "Fell Winter (Third Age)"), [T.A.](/wiki/Third_Age "Third Age") [2911](/wiki/Third_Age_2911 "Third Age 2911")/[2912](/wiki/Third_Age_2912 "Third Age 2912").
+- The [Fell Winter](<Fell_Winter_(First_Age).md>), [F.A.](First_Age.md) [495](First_Age_495.md)/[496](First_Age_496.md).
+- The [Fell Winter](<Fell_Winter_(Third_Age).md>), [T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md)/[2912](../T/Third_Age_2912.md).
 
 ## See also {#See_also}
 
-- [Long Winter](/wiki/Long_Winter)
+- [Long Winter](../L/Long_Winter.md)
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Fell_Winter_(disambiguation)" title="Special:WhatLinksHere/:Fell Winter (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Fell_Winter_(disambiguation)" title="Special:WhatLinksHere/:Fell Winter (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

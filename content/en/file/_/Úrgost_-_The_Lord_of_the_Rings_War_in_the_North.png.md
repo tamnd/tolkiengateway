@@ -1,6 +1,5 @@
 ---
 title: "File:Úrgost - The Lord of the Rings War in the North.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Úrgost - The Lord of the Rings War in the North.png</span>"
 page_id: 67578
 namespace: 6
 revision_id: 392930

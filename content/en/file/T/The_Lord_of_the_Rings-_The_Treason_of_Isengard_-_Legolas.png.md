@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Treason of Isengard - Legolas.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Treason of Isengard - Legolas.png</span>"
 page_id: 47654
 namespace: 6
 revision_id: 361253
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Legolas](/wiki/Legolas) in *[The Lord of the Rings: The Treason of Isengard](/wiki/The_Lord_of_the_Rings:_The_Treason_of_Isengard)*.
+[Legolas](../../main/L/Legolas.md) in *[The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md)*.
 
 ## Licensing {#Licensing}
 

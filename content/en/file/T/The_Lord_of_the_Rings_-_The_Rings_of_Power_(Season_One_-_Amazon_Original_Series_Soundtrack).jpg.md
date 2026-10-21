@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Rings of Power (Season One - Amazon Original Series Soundtrack).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Rings of Power (Season One - Amazon Original Series Soundtrack).jpg</span>"
 page_id: 62537
 namespace: 6
 revision_id: 415347

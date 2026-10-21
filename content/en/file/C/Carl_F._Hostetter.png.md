@@ -1,6 +1,5 @@
 ---
 title: "File:Carl F. Hostetter.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Carl F. Hostetter.png</span>"
 page_id: 70767
 namespace: 6
 revision_id: 422677
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photo of [Carl F. Hostetter](/wiki/Carl_F._Hostetter)
+Photo of [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md)
 
 ## Licensing {#Licensing}
 

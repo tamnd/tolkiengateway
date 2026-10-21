@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entwives"
 ---
 
-Redirect to [Entwives](/wiki/Entwives).
+Redirect to [Entwives](Entwives.md).

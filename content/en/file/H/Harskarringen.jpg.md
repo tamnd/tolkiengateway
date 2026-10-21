@@ -1,6 +1,5 @@
 ---
 title: "File:Harskarringen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Harskarringen.jpg</span>"
 page_id: 43856
 namespace: 6
 revision_id: 350766
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The first edition of *[Härskarringen](/wiki/H%C3%A4rskarringen)*, a translation into Swedish of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+The first edition of *[Härskarringen](../../main/H/Härskarringen.md)*, a translation into Swedish of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 ## Licensing {#Licensing}
 

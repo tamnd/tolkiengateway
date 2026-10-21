@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Appendices"
 ---
 
-Redirect to [The Lord of the Rings Appendices](/wiki/The_Lord_of_the_Rings_Appendices).
+Redirect to [The Lord of the Rings Appendices](../T/The_Lord_of_the_Rings_Appendices.md).

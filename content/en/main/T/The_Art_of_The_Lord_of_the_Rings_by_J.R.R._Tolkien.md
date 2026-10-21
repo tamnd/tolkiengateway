@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Art of The Lord of the Rings"
 ---
 
-Redirect to [The Art of The Lord of the Rings](/wiki/The_Art_of_The_Lord_of_the_Rings).
+Redirect to [The Art of The Lord of the Rings](The_Art_of_The_Lord_of_the_Rings.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Return of the King (video game)"
 ---
 
-Redirect to [The Lord of the Rings: The Return of the King (video game)](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)).
+Redirect to [The Lord of the Rings: The Return of the King (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>).

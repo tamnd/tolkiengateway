@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lampwrights' Street"
 ---
 
-Redirect to [Lampwrights' Street](/wiki/Lampwrights'_Street).
+Redirect to [Lampwrights' Street](../L/Lampwrights'_Street.md).

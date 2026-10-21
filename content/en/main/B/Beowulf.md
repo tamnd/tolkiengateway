@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf (disambiguation)"
 ---
 
-Redirect to [Beowulf (disambiguation)](/wiki/Beowulf_(disambiguation)).
+Redirect to [Beowulf (disambiguation)](<Beowulf_(disambiguation).md>).

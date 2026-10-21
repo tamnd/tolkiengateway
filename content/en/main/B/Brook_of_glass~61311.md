@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brook of Glass"
 ---
 
-Redirect to [Brook of Glass](/wiki/Brook_of_Glass).
+Redirect to [Brook of Glass](Brook_of_Glass.md).

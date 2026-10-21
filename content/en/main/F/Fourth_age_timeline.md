@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline/Fourth Age"
 ---
 
-Redirect to [Timeline/Fourth Age](/wiki/Timeline/Fourth_Age).
+Redirect to [Timeline/Fourth Age](../T/Timeline%252FFourth_Age.md).

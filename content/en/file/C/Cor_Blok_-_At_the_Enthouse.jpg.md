@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - At the Enthouse.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - At the Enthouse.jpg</span>"
 page_id: 71514
 namespace: 6
 revision_id: 426430
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"At [the Enthouse](/wiki/Wellinghall "Wellinghall")" by [Cor Blok](/wiki/Cor_Blok).
+"At [the Enthouse](../../main/W/Wellinghall.md)" by [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Licensing {#Licensing}
 

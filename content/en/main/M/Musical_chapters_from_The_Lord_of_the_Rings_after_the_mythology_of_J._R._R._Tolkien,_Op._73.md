@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Musical Chapters from The Lord of the Rings after the Mythology of J.R.R. Tolkien, Op. 73"
 ---
 
-Redirect to [Musical Chapters from The Lord of the Rings after the Mythology of J.R.R. Tolkien, Op. 73](/wiki/Musical_Chapters_from_The_Lord_of_the_Rings_after_the_Mythology_of_J.R.R._Tolkien,_Op._73).
+Redirect to [Musical Chapters from The Lord of the Rings after the Mythology of J.R.R. Tolkien, Op. 73](Musical_Chapters_from_The_Lord_of_the_Rings_after_the_Mythology_of_J.R.R._Tolkien,_Op._73.md).

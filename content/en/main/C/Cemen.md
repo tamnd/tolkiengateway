@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kemen"
 ---
 
-Redirect to [Kemen](/wiki/Kemen).
+Redirect to [Kemen](../K/Kemen.md).

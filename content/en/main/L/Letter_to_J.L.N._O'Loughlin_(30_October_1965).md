@@ -15,15 +15,15 @@ sort_keys:
   "Letters": "OLoughlin, J.L.N. (1965-10-30)"
 ---
 
-On [30 October](/wiki/30_October) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
+On [30 October](../_/30_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to J.L.N. O'Loughlin**.<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-Marq_2-0" class="reference"><a href="#cite_note-Marq-2">[2]</a></sup>
 
 - **Subject:** Tolkien replies that he has read O'Loughlin's article (possibly included in *Odham's Dictionary of the English Language*, 1965). He does not have time to provide commentary, besides finding the article plausible.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
-- **Publication:** A description of the letter appeared in *[The J.R.R. Tolkien Companion and Guide: Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")*.
+- **Publication:** A description of the letter appeared in *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
 
 ## See also {#See_also}
 
-- [Letter to J.L.N. O'Loughlin (29 January 1943)](</wiki/Letter_to_J.L.N._O%27Loughlin_(29_January_1943)>)
-- [Letter to J.L.N. O'Loughlin (18 January 1948)](</wiki/Letter_to_J.L.N._O%27Loughlin_(18_January_1948)>)
+- [Letter to J.L.N. O'Loughlin (29 January 1943)](<Letter_to_J.L.N._O'Loughlin_(29_January_1943).md>)
+- [Letter to J.L.N. O'Loughlin (18 January 1948)](<Letter_to_J.L.N._O'Loughlin_(18_January_1948).md>)
 
 <span></span>
 
@@ -31,8 +31,8 @@ On [30 October](/wiki/30_October) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-CG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CG_1-0">1.0</a></sup> <sup><a href="#cite_ref-CG_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 645</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 645</span>
 </li>
-<li id="cite_note-Marq-2"><span class="mw-cite-backlink"><a href="#cite_ref-Marq_2-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
+<li id="cite_note-Marq-2"><span class="mw-cite-backlink"><a href="#cite_ref-Marq_2-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
 </li>
 </ol></div>

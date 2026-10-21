@@ -1,6 +1,5 @@
 ---
 title: "Tolkientrail.com"
-display_title: "<span class=\"mw-page-title-main\">Tolkientrail.com</span>"
 page_id: 14535
 namespace: 0
 revision_id: 424111
@@ -16,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-The **Tolkien Trail** is an interactive Lord of the Rings fan site that launched in [2000](/wiki/2000). It offers games and various other activities including the [Entmoot](/wiki/Entmoot) forum, which was founded in [1999](/wiki/1999). Users can move to places and select activities, guided for the most part by [Gandalf](/wiki/Gandalf_the_Grey "Gandalf the Grey").
+The **Tolkien Trail** is an interactive Lord of the Rings fan site that launched in [2000](../_/2000.md). It offers games and various other activities including the [Entmoot](../E/Entmoot.md) forum, which was founded in [1999](../_/1999.md). Users can move to places and select activities, guided for the most part by [Gandalf](../G/Gandalf_the_Grey.md).
 
 <br>
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michael Apice"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michael Apice</span>"
 page_id: 72803
 namespace: 14
 revision_id: 431447
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Apice, Michael"
 ---
 
-This category lists all **images by [Michael Apice](/wiki/Michael_Apice)**.
+This category lists all **images by [Michael Apice](../../main/M/Michael_Apice.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:Aerankai - Irmo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aerankai - Irmo.jpg</span>"
 page_id: 50042
 namespace: 6
 revision_id: 438080
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Aerankai</li>
 <li><b>Website:</b> <a class="external free" href="https://web.archive.org/web/20160606154027/http://aerankai.deviantart.com/" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20160606154027/http://aerankai.deviantart.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Aerankai" title="Tolkien Gateway:Copyrights/Aerankai">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAerankai.md" title="Tolkien Gateway:Copyrights/Aerankai">Permission for use on Tolkien Gateway</a></b></li></ul></div>

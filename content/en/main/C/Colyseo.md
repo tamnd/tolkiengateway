@@ -1,6 +1,5 @@
 ---
 title: "Colyseo"
-display_title: "<span class=\"mw-page-title-main\">Colyseo</span>"
 page_id: 30862
 namespace: 0
 revision_id: 190104
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Colyseo** is a French company that developes strategic games. It published [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail) in France.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Colyseo** is a French company that developes strategic games. It published [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) in France.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

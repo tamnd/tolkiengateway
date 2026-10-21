@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Littleheart"
 ---
 
-Redirect to [Littleheart](/wiki/Littleheart).
+Redirect to [Littleheart](../L/Littleheart.md).

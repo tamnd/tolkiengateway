@@ -1,6 +1,5 @@
 ---
 title: "File:Old Mornings Dawn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Old Mornings Dawn.jpg</span>"
 page_id: 65195
 namespace: 6
 revision_id: 375190

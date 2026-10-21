@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Riding of the Keepers of the Rings"
 ---
 
-Redirect to [Last Riding of the Keepers of the Rings](/wiki/Last_Riding_of_the_Keepers_of_the_Rings).
+Redirect to [Last Riding of the Keepers of the Rings](Last_Riding_of_the_Keepers_of_the_Rings.md).

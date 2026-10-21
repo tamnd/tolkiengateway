@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Roll-roll-roll-roll,"
 ---
 
-Redirect to [Roll-roll-roll-roll,](/wiki/Roll-roll-roll-roll,).
+Redirect to [Roll-roll-roll-roll,](../R/Roll-roll-roll-roll,.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Viggo Mortensen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Viggo Mortensen.jpg</span>"
 page_id: 10962
 namespace: 6
 revision_id: 248392

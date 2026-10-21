@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:House of Elwë"
 ---
 
-Redirect to [Category:House of Elwë](/wiki/Category:House_of_Elwë).
+Redirect to [Category:House of Elwë](House_of_Elwë.md).

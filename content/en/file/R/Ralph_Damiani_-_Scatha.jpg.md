@@ -1,6 +1,5 @@
 ---
 title: "File:Ralph Damiani - Scatha.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ralph Damiani - Scatha.jpg</span>"
 page_id: 73188
 namespace: 6
 revision_id: 433092
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Scatha](/wiki/Scatha)*", by [Ralph Damiani](/wiki/Ralph_Damiani)
+"*[Scatha](../../main/S/Scatha.md)*", by [Ralph Damiani](../../main/R/Ralph_Damiani.md)
 
 ## Copyright {#Copyright}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ralph Damiani</li>
 <li><b>Website:</b> <a class="external text" href="https://ralphdamianiart.com/" rel="noreferrer noopener" target="_blank">Ralph Damiani&#39;s official site</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ralph_Damiani" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRalph_Damiani.md" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

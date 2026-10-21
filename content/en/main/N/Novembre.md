@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "November"
 ---
 
-Redirect to [November](/wiki/November).
+Redirect to [November](November.md).

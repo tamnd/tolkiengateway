@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Void"
 ---
 
-Redirect to [Void](/wiki/Void).
+Redirect to [Void](../V/Void.md).

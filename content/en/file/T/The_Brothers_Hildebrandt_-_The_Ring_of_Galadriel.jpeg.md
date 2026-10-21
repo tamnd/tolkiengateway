@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Ring of Galadriel.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Ring of Galadriel.jpeg</span>"
 page_id: 71571
 namespace: 6
 revision_id: 426767
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Ring of Galadriel](/wiki/Nenya "Nenya")" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1976 J.R.R. Tolkien Calendar](/wiki/1976_J.R.R._Tolkien_Calendar)
+"[The Ring of Galadriel](../../main/N/Nenya.md)" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1976 J.R.R. Tolkien Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

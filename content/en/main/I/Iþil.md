@@ -11,4 +11,4 @@ redirect_target: "Moon"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Moon](/wiki/Moon#Other_names).
+Redirect to [Moon](../M/Moon.md#Other_names).

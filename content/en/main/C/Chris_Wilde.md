@@ -1,6 +1,5 @@
 ---
 title: "Chris Wilde"
-display_title: "<span class=\"mw-page-title-main\">Chris Wilde</span>"
 page_id: 27937
 namespace: 0
 revision_id: 146261
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Wilde, Chris"
 ---
 
-**Chris Wilde** was the author and game designer of [Morgul](</wiki/Morgul_(video_game)> "Morgul (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Chris Wilde** was the author and game designer of [Morgul](<../M/Morgul_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

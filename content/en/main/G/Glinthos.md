@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilinsor"
 ---
 
-Redirect to [Ilinsor](/wiki/Ilinsor).
+Redirect to [Ilinsor](../I/Ilinsor.md).

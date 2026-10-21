@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bane (disambiguation)"
 ---
 
-Redirect to [Bane (disambiguation)](/wiki/Bane_(disambiguation)).
+Redirect to [Bane (disambiguation)](<Bane_(disambiguation).md>).

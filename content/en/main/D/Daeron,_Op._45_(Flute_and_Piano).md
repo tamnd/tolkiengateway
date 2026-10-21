@@ -1,6 +1,5 @@
 ---
 title: "Daeron, Op. 45 (Flute and Piano)"
-display_title: "<span class=\"mw-page-title-main\">Daeron, Op. 45 (Flute and Piano)</span>"
 page_id: 65186
 namespace: 0
 revision_id: 426176
@@ -13,9 +12,9 @@ categories:
   - "Classical music"
 ---
 
-The romance for flute and piano *Daeron,* by composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey), was written in the late 1980s as a ‘spin-off’ from the work on his cycle of operatic works *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien*, which was then proceeding apace.
+The romance for flute and piano *Daeron,* by composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), was written in the late 1980s as a ‘spin-off’ from the work on his cycle of operatic works *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien*, which was then proceeding apace.
 
-Sections of this work would later be used in orchestral form as the prelude to Scene Four and Interlude before Scene Five of *[Beren and Lúthien, Op. 47 (Opera)](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)>).*
+Sections of this work would later be used in orchestral form as the prelude to Scene Four and Interlude before Scene Five of *[Beren and Lúthien, Op. 47 (Opera)](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>).*
 
 ## Recording {#Recording}
 

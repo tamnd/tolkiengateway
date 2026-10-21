@@ -1,6 +1,5 @@
 ---
 title: "File:Songs for the Philologists.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Songs for the Philologists.jpg</span>"
 page_id: 26341
 namespace: 6
 revision_id: 214362

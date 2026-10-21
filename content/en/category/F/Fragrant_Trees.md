@@ -1,6 +1,5 @@
 ---
 title: "Category:Fragrant Trees"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fragrant Trees</span>"
 page_id: 34440
 namespace: 14
 revision_id: 159884
@@ -13,4 +12,4 @@ categories:
   - "Trees"
 ---
 
-[Fragrant Trees](/wiki/Fragrant_Trees).
+[Fragrant Trees](../../main/F/Fragrant_Trees.md).

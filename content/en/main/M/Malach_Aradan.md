@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Malach"
 ---
 
-Redirect to [Malach](/wiki/Malach).
+Redirect to [Malach](Malach.md).

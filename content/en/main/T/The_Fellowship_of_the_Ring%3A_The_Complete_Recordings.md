@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings"
 ---
 
-Redirect to [The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_The_Complete_Recordings).
+Redirect to [The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md).

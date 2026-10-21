@@ -1,6 +1,5 @@
 ---
 title: "René van Rossenberg"
-display_title: "<span class=\"mw-page-title-main\">René van Rossenberg</span>"
 page_id: 46980
 namespace: 0
 revision_id: 438892
@@ -21,11 +20,11 @@ sort_keys:
   "People by name": "Rossenberg, Rene van"
 ---
 
-**René van Rossenberg** (born 1961) a Dutch author and collector. He runs the [Tolkien Winkel](/wiki/Tolkien_Winkel) and its Museum, and is an active member of [Unquendor](/wiki/Unquendor) (he was chairman from 1986 to 1996).
+**René van Rossenberg** (born 1961) a Dutch author and collector. He runs the [Tolkien Winkel](../T/Tolkien_Winkel.md) and its Museum, and is an active member of [Unquendor](../U/Unquendor.md) (he was chairman from 1986 to 1996).
 
 ## Biography {#Biography}
 
-R.J. (René) van Rossenberg holds a MA in History from Leiden University in the Netherlands. He first read [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Hobbit](/wiki/The_Hobbit)* (De Hobbit in Dutch) in 1973 at age 12. He became an avid Tolkien collector as well as a board member and ten year chairman of the Netherlands Tolkien Society Unquendor. From this society's bookstore he developed his own full time business: the Tolkienwinkel. He also lecture(s)(d) at Leiden University and review(s)(ed) books translated into Dutch to supplement his income. To date he still lives in Leiden. At one point he bought [Joy Hill](/wiki/Joy_Hill)'s (Tolkien's private secretary), library of books at auction. He was working on his PhD through the early 2000s but is unclear whether he completed this.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has supplemented Dutch translations of Tolkien books with his reflections on occasion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+R.J. (René) van Rossenberg holds a MA in History from Leiden University in the Netherlands. He first read [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Hobbit](../T/The_Hobbit.md)* (De Hobbit in Dutch) in 1973 at age 12. He became an avid Tolkien collector as well as a board member and ten year chairman of the Netherlands Tolkien Society Unquendor. From this society's bookstore he developed his own full time business: the Tolkienwinkel. He also lecture(s)(d) at Leiden University and review(s)(ed) books translated into Dutch to supplement his income. To date he still lives in Leiden. At one point he bought [Joy Hill](../J/Joy_Hill.md)'s (Tolkien's private secretary), library of books at auction. He was working on his PhD through the early 2000s but is unclear whether he completed this.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has supplemented Dutch translations of Tolkien books with his reflections on occasion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 René van Rossenberg is occasionally interviewed by the Dutch press on matters pertaining to JRR Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
@@ -33,42 +32,42 @@ René van Rossenberg is occasionally interviewed by the Dutch press on matters p
 
 ### Books {#Books}
 
-- [1992](/wiki/1992): *[Hobbits in Holland: Leven en werk van JRR Tolkien (1892-1973)](/wiki/Hobbits_in_Holland "Hobbits in Holland")* \[exhibition catalogue\]
+- [1992](../_/1992.md): *[Hobbits in Holland: Leven en werk van JRR Tolkien (1892-1973)](../H/Hobbits_in_Holland.md)* \[exhibition catalogue\]
 - <a class="external text" href="https://www.deslegte.com/de-wereld-van-de-hobbits-127380/" rel="noreferrer noopener" target="_blank">1997: De Wereld van de Hobbits</a>
-- [2004](/wiki/2004): *[Tolkien's Golem](/wiki/Tolkien%27s_Golem)*
+- [2004](../_/2004.md): *[Tolkien's Golem](../T/Tolkien's_Golem.md)*
 - <a class="external text" href="https://www.boekerij.nl/producten/de-aanhangsels-9789022551356" rel="noreferrer noopener" target="_blank">2016: De Aanhangsels</a>
 - <a class="external text" href="https://www.bol.com/nl/nl/p/in-de-ban-van-de-ring-de-aanhangsels/9300000145370121/?Referrer=ADVNLPPcef6180028b05e6e0065bba51d680003079&amp;utm_source=3079&amp;utm_medium=Affiliates&amp;utm_campaign=CPS&amp;utm_content=txl" rel="noreferrer noopener" target="_blank">2023: De Aanhangsels</a>
 
 <h3><span id="Tolkien.27s_1958_visit_to_Rotterdam"></span><span class="mw-headline" id="Tolkien&#39;s_1958_visit_to_Rotterdam">Tolkien&#39;s 1958 visit to Rotterdam</span></h3>
 
-Van Rossenberg also uncovered the audio recordings of the ["Hobbit Dinner" in Rotterdam](/wiki/%22Hobbit_Dinner%22_in_Rotterdam), Netherlands where Tolkien participated. He published an article on this: “Tolkien’s Exceptional Visit to Holland: A Reconstruction” in the [Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference).
+Van Rossenberg also uncovered the audio recordings of the ["Hobbit Dinner" in Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md), Netherlands where Tolkien participated. He published an article on this: “Tolkien’s Exceptional Visit to Holland: A Reconstruction” in the [Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).
 
 ### Articles {#Articles}
 
-- [1990](/wiki/1990): *[Elrond's Holy Round Table](/wiki/Elrond%27s_Holy_Round_Table)* (editor)
+- [1990](../_/1990.md): *[Elrond's Holy Round Table](../E/Elrond's_Holy_Round_Table.md)* (editor)
     - "Preface"
     - "Bilbo Baggins and the Beeb"
-    - "Comrade Frodo and Hobbitania: Tolkien in Russian" (with [Nathalie Kotowski](/wiki/Nathalie_Kotowski))
-- [1991](/wiki/1991): [*Amon Hen* 112](/wiki/Amon_Hen_112 "Amon Hen 112")
+    - "Comrade Frodo and Hobbitania: Tolkien in Russian" (with [Nathalie Kotowski](../N/Nathalie_Kotowski.md))
+- [1991](../_/1991.md): [*Amon Hen* 112](../A/Amon_Hen_112.md)
     - "Dutch quarter gets Tolkien names"
-- [1993](/wiki/1993): <a class="new" href="/w/index.php?title=Tolkien_Collector_5&amp;action=edit&amp;redlink=1" title="Tolkien Collector 5 (page does not exist)"><i>Tolkien Collector</i> 5</a>
+- [1993](../_/1993.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Collector_5&amp;action=edit&amp;redlink=1" title="Tolkien Collector 5 (page does not exist)"><i>Tolkien Collector</i> 5</a>
     - "Tolkien and Linguaphone"
-- [1995](/wiki/1995): *[Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference)*
+- [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Tolkien's Exceptional Visit to Holland: A Reconstruction"
-- [1997](/wiki/1997): *[Digging Potatoes, Growing Trees - Volume 2](/wiki/Digging_Potatoes,_Growing_Trees "Digging Potatoes, Growing Trees")*
+- [1997](../_/1997.md): *[Digging Potatoes, Growing Trees - Volume 2](../D/Digging_Potatoes,_Growing_Trees.md)*
     - "...When I made a mental picture of The Shire, I saw dykes, windmills, rectangular tulip-fields" \[Speech at the Tolkien Society's Annual Dinner 1996\]
-- [2001](/wiki/2001): [*Amon Hen* 168](/wiki/Amon_Hen_168 "Amon Hen 168")
+- [2001](../_/2001.md): [*Amon Hen* 168](../A/Amon_Hen_168.md)
     - "Unquendor Lustrum Announcement"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Dutch Language"
     - "Netherlands: Reception of Tolkien"
 
 ### Reviews {#Reviews}
 
-- [1989](/wiki/1989): [*Amon Hen* 97](/wiki/Amon_Hen_97 "Amon Hen 97")
-    - *[Symphony No. 1, "The Lord of the Rings"](/wiki/Symphony_No._1,_%22The_Lord_of_the_Rings%22)*
-- [1993](/wiki/1993): [*Mallorn* 30](/wiki/Mallorn_30 "Mallorn 30")
-    - *[The Tolkien Collector](/wiki/The_Tolkien_Collector)*
+- [1989](../_/1989.md): [*Amon Hen* 97](../A/Amon_Hen_97.md)
+    - *[Symphony No. 1, "The Lord of the Rings"](../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md)*
+- [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
+    - *[The Tolkien Collector](../T/The_Tolkien_Collector.md)*
 
 ### Editorial work {#Editorial_work}
 
@@ -78,7 +77,7 @@ Van Rossenberg also uncovered the audio recordings of the ["Hobbit Dinner" in Ro
 
 ## External link {#External_link}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=o2KDDPG7iA8&amp;t=13s" rel="noreferrer noopener" target="_blank">Interview</a> with the [Tolkien Collector's Guide](/wiki/Tolkien_Collector%27s_Guide)
+- <a class="external text" href="https://www.youtube.com/watch?v=o2KDDPG7iA8&amp;t=13s" rel="noreferrer noopener" target="_blank">Interview</a> with the [Tolkien Collector's Guide](../T/Tolkien_Collector's_Guide.md)
 - <a class="external text" href="https://www.youtube.com/watch?v=s49bhpkD1Oc" rel="noreferrer noopener" target="_blank">Interview on Dutch TV</a> (English subtitles available)
 
 <span></span>

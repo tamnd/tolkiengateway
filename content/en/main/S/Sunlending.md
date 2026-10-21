@@ -1,6 +1,5 @@
 ---
 title: "Sunlending"
-display_title: "<span class=\"mw-page-title-main\">Sunlending</span>"
 page_id: 17479
 namespace: 0
 revision_id: 225582
@@ -22,17 +21,17 @@ langlinks:
     url: "https://kontu.wiki/Sunlending"
 ---
 
-<dl><dd><i>Not to be confounded with: <b><a href="/wiki/Sunlands" title="Sunlands">Sunlands</a></b>, the name of <a href="/wiki/Harad" title="Harad">Harad</a> in the <a href="/wiki/Westron" title="Westron">Common Speech</a></i></dd></dl>
+<dl><dd><i>Not to be confounded with: <b><a href="Sunlands.md" title="Sunlands">Sunlands</a></b>, the name of <a href="../H/Harad.md" title="Harad">Harad</a> in the <a href="../W/Westron.md" title="Westron">Common Speech</a></i></dd></dl>
 
-**Sunlending** was the name used by the [Rohirrim](/wiki/Rohirrim) of the land of *[Anórien](/wiki/An%C3%B3rien)*, 'Sun-land'. It is mentioned in the song *From dark Dunharrow in the dim morning*, l. 15: "*six thousand spears to Sunlending*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sunlending** was the name used by the [Rohirrim](../R/Rohirrim.md) of the land of *[Anórien](../A/Anórien.md)*, 'Sun-land'. It is mentioned in the song *From dark Dunharrow in the dim morning*, l. 15: "*six thousand spears to Sunlending*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The name *Sunlending* did not refer to the climate, but was rather 'heraldic', as Anórien was immediately attached to [Minas Anor](/wiki/Minas_Anor). *Sunlending* was thus connected to the name and the emblem of [Anárion](/wiki/An%C3%A1rion), brother of [Isildur](/wiki/Isildur).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+The name *Sunlending* did not refer to the climate, but was rather 'heraldic', as Anórien was immediately attached to [Minas Anor](../M/Minas_Anor.md). *Sunlending* was thus connected to the name and the emblem of [Anárion](../A/Anárion.md), brother of [Isildur](../I/Isildur.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Muster_of_Rohan" title="The Muster of Rohan">The Muster of Rohan</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Muster_of_Rohan.md" title="The Muster of Rohan">The Muster of Rohan</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Guide_to_the_Names_in_The_Lord_of_the_Rings" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 776</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 776</span>
 </li>
 </ol></div>

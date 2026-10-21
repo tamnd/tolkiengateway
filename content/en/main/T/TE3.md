@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "TEN"
 ---
 
-Redirect to [TEN](/wiki/TEN).
+Redirect to [TEN](TEN.md).

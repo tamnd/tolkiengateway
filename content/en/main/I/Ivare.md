@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ivárë"
 ---
 
-Redirect to [Ivárë](/wiki/Ivárë).
+Redirect to [Ivárë](Ivárë.md).

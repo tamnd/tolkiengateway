@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Food"
 ---
 
-Redirect to [Category:Food](/wiki/Category:Food).
+Redirect to [Category:Food](../../category/F/Food.md).

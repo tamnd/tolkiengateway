@@ -1,6 +1,5 @@
 ---
 title: "Barbara Strachey"
-display_title: "<span class=\"mw-page-title-main\">Barbara Strachey</span>"
 page_id: 22225
 namespace: 0
 revision_id: 438625
@@ -30,14 +29,14 @@ langlinks:
     url: "https://kontu.wiki/Barbara_Strachey"
 ---
 
-**Barbara Strachey** ([July 17](/wiki/17_July "17 July"), [1912](/wiki/1912) - [October 15](/wiki/15_October "15 October"), [1999](/wiki/1999)) was a writer, broadcaster and photographer.
+**Barbara Strachey** ([July 17](../_/17_July.md), [1912](../_/1912.md) - [October 15](../_/15_October.md), [1999](../_/1999.md)) was a writer, broadcaster and photographer.
 
-The [Oxford](/wiki/University_of_Oxford "University of Oxford")-schooled Strachey worked for the [BBC](/wiki/BBC), and later wrote among other works *[Journeys of Frodo](/wiki/Journeys_of_Frodo)*. This collection of maps does not share the widespread fame of [Karen Wynn Fonstad](/wiki/Karen_Wynn_Fonstad)'s *[The Atlas of Middle-earth](/wiki/The_Atlas_of_Middle-earth)*, but is of similar quality.
+The [Oxford](../U/University_of_Oxford.md)-schooled Strachey worked for the [BBC](BBC.md), and later wrote among other works *[Journeys of Frodo](../J/Journeys_of_Frodo.md)*. This collection of maps does not share the widespread fame of [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md)'s *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)*, but is of similar quality.
 
 ## Bibliography {#Bibliography}
 
-- [1981](/wiki/1981): *[Journeys of Frodo](/wiki/Journeys_of_Frodo)*
+- [1981](../_/1981.md): *[Journeys of Frodo](../J/Journeys_of_Frodo.md)*
 
 ## External links {#External_links}
 
-- Paul Levy, "<a class="external text" href="http://www.independent.co.uk/arts-entertainment/obituary-barbara-strachey-1127122.html" rel="noreferrer noopener" target="_blank">Obituary: Barbara Strachey</a>", <i><a class="external text" href="http://www.independent.co.uk/" rel="noreferrer noopener" target="_blank">The Independent</a></i> ([November 19](/wiki/19_November "19 November"), [1999](/wiki/1999))
+- Paul Levy, "<a class="external text" href="http://www.independent.co.uk/arts-entertainment/obituary-barbara-strachey-1127122.html" rel="noreferrer noopener" target="_blank">Obituary: Barbara Strachey</a>", <i><a class="external text" href="http://www.independent.co.uk/" rel="noreferrer noopener" target="_blank">The Independent</a></i> ([November 19](../_/19_November.md), [1999](../_/1999.md))

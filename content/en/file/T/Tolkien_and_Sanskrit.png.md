@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and Sanskrit.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and Sanskrit.png</span>"
 page_id: 56454
 namespace: 6
 revision_id: 307348
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the book [Tolkien and Sanskrit](/wiki/Tolkien_and_Sanskrit)
+Cover of the book [Tolkien and Sanskrit](../../main/T/Tolkien_and_Sanskrit.md)
 
 <br>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mithrim"
 ---
 
-Redirect to [Mithrim](/wiki/Mithrim).
+Redirect to [Mithrim](../M/Mithrim.md).

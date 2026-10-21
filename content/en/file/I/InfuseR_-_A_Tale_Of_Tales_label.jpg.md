@@ -1,6 +1,5 @@
 ---
 title: "File:InfuseR - A Tale Of Tales label.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">InfuseR - A Tale Of Tales label.jpg</span>"
 page_id: 71810
 namespace: 6
 revision_id: 428146

@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Let them Come!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Let them Come!.jpg</span>"
 page_id: 22571
 namespace: 6
 revision_id: 211677

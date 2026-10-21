@@ -20,9 +20,9 @@ images:
   - "The_Hobbit_Glyn_Robbins.JPG"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Hobbit_Glyn_Robbins.JPG"><img src="/w/images/a/a3/The_Hobbit_Glyn_Robbins.JPG" decoding="async" loading="lazy" width="263" height="320" class="mw-file-element" data-file-width="263" data-file-height="320"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Glyn_Robbins.JPG.md"><img src="https://tolkiengateway.net/w/images/a/a3/The_Hobbit_Glyn_Robbins.JPG" decoding="async" loading="lazy" width="263" height="320" class="mw-file-element" data-file-width="263" data-file-height="320"/></a><figcaption></figcaption></figure>
 
-<i><b>The Hobbit</b></i> was a stage adaptation of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Hobbit](/wiki/The_Hobbit)* written by [Glyn Robbins](/wiki/Glyn_Robbins). It was played for the first time between [28 November](/wiki/28_November) [2001](/wiki/2001) to [9 February](/wiki/9_February) [2002](/wiki/2002), at <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen&#39;s Theatre</a> in London. The play was performed under license from [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises).
+<i><b>The Hobbit</b></i> was a stage adaptation of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Hobbit](The_Hobbit.md)* written by [Glyn Robbins](../G/Glyn_Robbins.md). It was played for the first time between [28 November](../_/28_November.md) [2001](../_/2001.md) to [9 February](../_/9_February.md) [2002](../_/2002.md), at <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen&#39;s Theatre</a> in London. The play was performed under license from [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md).
 
 ## Press Release {#Press_Release}
 
@@ -34,8 +34,6 @@ images:
 </p><p>The stage adaptation by the late children&#39;s playwright Glyn Robbins has played to nearly half a million people during national tours and Christmas seasons in the West End.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## External links {#External_links}
 
@@ -51,6 +49,6 @@ images:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.allgigs.co.uk/view/artist/61903/The_Hobbit_Glyn_Robbins.html" rel="noreferrer noopener" target="_blank">&#34;The Hobbit [Glyn Robbins</a>&#34;]</span>. <span class="cite-web-website">Allgigs.co.uk</span>. <span class="cite-web-accessed">Retrieved 14 March 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.allgigs.co.uk/view/artist/61903/The_Hobbit_Glyn_Robbins.html" rel="noreferrer noopener" target="_blank">&#34;The Hobbit [Glyn Robbins</a>&#34;]</span>. <span class="cite-web-website">Allgigs.co.uk</span>. <span class="cite-web-accessed">Retrieved 14 March 2024</span></cite></span>
 </li>
 </ol></div>

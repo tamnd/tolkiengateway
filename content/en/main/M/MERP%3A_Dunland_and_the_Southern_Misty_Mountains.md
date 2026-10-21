@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunland and the Southern Misty Mountains"
 ---
 
-Redirect to [Dunland and the Southern Misty Mountains](/wiki/Dunland_and_the_Southern_Misty_Mountains).
+Redirect to [Dunland and the Southern Misty Mountains](../D/Dunland_and_the_Southern_Misty_Mountains.md).

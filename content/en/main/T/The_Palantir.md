@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Palantír"
 ---
 
-Redirect to [The Palantír](/wiki/The_Palantír).
+Redirect to [The Palantír](The_Palantír.md).

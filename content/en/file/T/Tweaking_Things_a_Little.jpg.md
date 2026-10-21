@@ -1,6 +1,5 @@
 ---
 title: "File:Tweaking Things a Little.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tweaking Things a Little.jpg</span>"
 page_id: 67041
 namespace: 6
 revision_id: 388961
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and G.R.R. Martin](/wiki/Tweaking_Things_a_Little "Tweaking Things a Little")*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). Illustration by [Jay Johnstone](/wiki/Jay_Johnstone).
+Cover of *[Tweaking Things a Little: Essays on the Epic Fantasy of J.R.R. Tolkien and G.R.R. Martin](../../main/T/Tweaking_Things_a_Little.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). Illustration by [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 <br>
 

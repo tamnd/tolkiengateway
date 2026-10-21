@@ -1,6 +1,5 @@
 ---
 title: "Middle-earth Quest"
-display_title: "<span class=\"mw-page-title-main\">Middle-earth Quest</span>"
 page_id: 23702
 namespace: 0
 revision_id: 406409
@@ -15,16 +14,16 @@ images:
   - "Middle-earth_Quest.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Middle-earth_Quest.png" title="Middle-earth Quest logo"><img alt="Middle-earth Quest logo" src="/w/images/thumb/8/8b/Middle-earth_Quest.png/250px-Middle-earth_Quest.png" decoding="async" loading="lazy" width="250" height="136" class="mw-file-element" srcset="/w/images/thumb/8/8b/Middle-earth_Quest.png/375px-Middle-earth_Quest.png 1.5x, /w/images/8/8b/Middle-earth_Quest.png 2x" data-file-width="400" data-file-height="218"/></a><figcaption><i>Middle-earth Quest</i> logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Quest.png.md" title="Middle-earth Quest logo"><img alt="Middle-earth Quest logo" src="https://tolkiengateway.net/w/images/thumb/8/8b/Middle-earth_Quest.png/250px-Middle-earth_Quest.png" decoding="async" loading="lazy" width="250" height="136" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/Middle-earth_Quest.png/375px-Middle-earth_Quest.png 1.5x, https://tolkiengateway.net/w/images/8/8b/Middle-earth_Quest.png 2x" data-file-width="400" data-file-height="218"/></a><figcaption><i>Middle-earth Quest</i> logo</figcaption></figure>
 
-**Middle-earth Quest** (MEQ) was a series of solo adventure paperback books (similar to the *[Tolkien Quest](/wiki/Tolkien_Quest)*) based on the *QuestGame* System, published by [Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises). According to [Terry Amthor](/wiki/Terry_Kevin_Amthor "Terry Kevin Amthor"), the books in the *Middle-earth Quest* series were scrutinized more closely than the supplements to *[MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing")*, involving [Rayner Unwin](/wiki/Rayner_Unwin) and a "Tolkien scholar at Oxford".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Middle-earth Quest** (MEQ) was a series of solo adventure paperback books (similar to the *[Tolkien Quest](../T/Tolkien_Quest.md)*) based on the *QuestGame* System, published by [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md). According to [Terry Amthor](../T/Terry_Kevin_Amthor.md), the books in the *Middle-earth Quest* series were scrutinized more closely than the supplements to *[MERP](Middle-earth_Role_Playing.md)*, involving [Rayner Unwin](../R/Rayner_Unwin.md) and a "Tolkien scholar at Oxford".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Publications {#Publications}
 
-- [1986](/wiki/1986): *[Rescue in Mirkwood](/wiki/Rescue_in_Mirkwood)*
-- [1988](/wiki/1988): *[A Spy In Isengard](/wiki/A_Spy_In_Isengard)*
-- [1988](/wiki/1988): *[Treason at Helm's Deep](/wiki/Treason_at_Helm%27s_Deep)*
-- [1988](/wiki/1988): *[Mines of Moria](</wiki/Mines_of_Moria_(Middle-earth_Quest_book)> "Mines of Moria (Middle-earth Quest book)")*
+- [1986](../_/1986.md): *[Rescue in Mirkwood](../R/Rescue_in_Mirkwood.md)*
+- [1988](../_/1988.md): *[A Spy In Isengard](../A/A_Spy_In_Isengard.md)*
+- [1988](../_/1988.md): *[Treason at Helm's Deep](../T/Treason_at_Helm's_Deep.md)*
+- [1988](../_/1988.md): *[Mines of Moria](<Mines_of_Moria_(Middle-earth_Quest_book).md>)*
 
 Two more sequel books were promised to be available (*Search for the Palantír* and *Race from Rivendell*), but never reached publication.
 

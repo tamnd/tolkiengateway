@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Long-expected Party draft manuscript.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Long-expected Party draft manuscript.jpg</span>"
 page_id: 73105
 namespace: 6
 revision_id: 432807
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A draft of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [A Long-expected Party](/wiki/A_Long-expected_Party), the first chapter in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+A draft of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s [A Long-expected Party](../../main/A/A_Long-expected_Party.md), the first chapter in *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 ## Licensing {#Licensing}
 

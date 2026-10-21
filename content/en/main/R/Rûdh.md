@@ -15,11 +15,11 @@ sort_keys:
   "Sindarin adjectives": "Rudh"
 ---
 
-**rûdh** is the [Sindarin](/wiki/Sindarin) word for *bald*.
+**rûdh** is the [Sindarin](../S/Sindarin.md) word for *bald*.
 
 ## Examples and Instances {#Examples_and_Instances}
 
-- *[Amon Rûdh](/wiki/Amon_R%C3%BBdh)*
+- *[Amon Rûdh](../A/Amon_Rûdh.md)*
 
 <span></span>
 

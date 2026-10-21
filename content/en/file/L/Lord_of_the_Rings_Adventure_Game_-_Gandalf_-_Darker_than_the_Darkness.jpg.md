@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Gandalf - Darker than the Darkness.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Gandalf - Darker than the Darkness.jpg</span>"
 page_id: 71257
 namespace: 6
 revision_id: 425068
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)* - *[Darker than the Darkness](/wiki/Darker_than_the_Darkness)*
+[Gandalf](../../main/G/Gandalf.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)* - *[Darker than the Darkness](../../main/D/Darker_than_the_Darkness.md)*
 
 ## Licensing {#Licensing}
 

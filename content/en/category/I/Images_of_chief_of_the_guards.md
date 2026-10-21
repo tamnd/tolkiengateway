@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the chief of the guards"
 ---
 
-Redirect to [Category:Images of the chief of the guards](/wiki/Category:Images_of_the_chief_of_the_guards).
+Redirect to [Category:Images of the chief of the guards](Images_of_the_chief_of_the_guards.md).

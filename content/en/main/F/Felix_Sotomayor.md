@@ -1,6 +1,5 @@
 ---
 title: "Felix Sotomayor"
-display_title: "<span class=\"mw-page-title-main\">Felix Sotomayor</span>"
 page_id: 6354
 namespace: 0
 revision_id: 122804
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Sotomayor, Felix"
 ---
 
-**Félix Sotomayor** is a Spanish designer and illustrator<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> who has produced pieces of art based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [legendarium](/wiki/Legendarium "Legendarium").
+**Félix Sotomayor** is a Spanish designer and illustrator<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> who has produced pieces of art based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md).
 
 ## See also {#See_also}
 
-- [Images by Felix Sotomayor](/wiki/Category:Images_by_Felix_Sotomayor "Category:Images by Felix Sotomayor")
+- [Images by Felix Sotomayor](../../category/I/Images_by_Felix_Sotomayor.md)
 
 <span></span>
 

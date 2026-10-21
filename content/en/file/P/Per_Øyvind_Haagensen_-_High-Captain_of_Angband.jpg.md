@@ -1,6 +1,5 @@
 ---
 title: "File:Per Øyvind Haagensen - High-Captain of Angband.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Per Øyvind Haagensen - High-Captain of Angband.jpg</span>"
 page_id: 17149
 namespace: 6
 revision_id: 276753
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Per Øyvind Haagensen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.artbyper.com/" rel="noreferrer noopener" target="_blank">Per Øyvind Haagensen&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Per_%C3%98yvind_Haagensen" title="Tolkien Gateway:Copyrights/Per Øyvind Haagensen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPer_Øyvind_Haagensen.md" title="Tolkien Gateway:Copyrights/Per Øyvind Haagensen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

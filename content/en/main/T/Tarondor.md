@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarondor (disambiguation)"
 ---
 
-Redirect to [Tarondor (disambiguation)](/wiki/Tarondor_(disambiguation)).
+Redirect to [Tarondor (disambiguation)](<Tarondor_(disambiguation).md>).

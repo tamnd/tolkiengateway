@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Sirielle"
 ---
 
-Redirect to [User:Sirielle](/wiki/User:Sirielle).
+Redirect to [User:Sirielle](https://tolkiengateway.net/wiki/User:Sirielle).

@@ -1,6 +1,5 @@
 ---
 title: "Rivil's Well"
-display_title: "<span class=\"mw-page-title-main\">Rivil&#039;s Well</span>"
 page_id: 7239
 namespace: 0
 revision_id: 409341
@@ -17,25 +16,23 @@ images:
   - "Šárka_Škorpíková_-_Rivil's_Well.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg"><img src="/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/300px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg" decoding="async" loading="lazy" width="300" height="222" class="mw-file-element" srcset="/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/450px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 1.5x, /w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/600px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 2x" data-file-width="1280" data-file-height="948"/></a><figcaption>&#34;Rivil&#39;s Well&#34; by Šárka Škorpíková</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Rivil&#39;s_Well.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/300px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg" decoding="async" loading="lazy" width="300" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/450px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/600px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 2x" data-file-width="1280" data-file-height="948"/></a><figcaption>&#34;Rivil&#39;s Well&#34; by Šárka Škorpíková</figcaption></figure>
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>[Beren] swore. . . an oath of vengeance.  First therefore he pursued the Orcs that had slain his father and his kinsmen, and he found their camp by night at Rivil&#39;s Well. . .
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a>, <a href="/wiki/Of_Beren_and_L%C3%BAthien" title="Of Beren and Lúthien">Of Beren and Lúthien</a></cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+<p class="tg-quote-footer"><cite><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>, <a href="../O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a></cite></p>
+</blockquote><div class="tg-section-divider"></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+**Rivil's Well** was the spring of the river [Rivil](Rivil.md), flowing from [Dorthonion](../D/Dorthonion.md) above the [Fen of Serech](../F/Fen_of_Serech.md).
 
-**Rivil's Well** was the spring of the river [Rivil](/wiki/Rivil), flowing from [Dorthonion](/wiki/Dorthonion) above the [Fen of Serech](/wiki/Fen_of_Serech).
-
-It was here where an [Orc](/wiki/Orc)-band, after [killing](/wiki/Massacre_at_Tarn_Aeluin "Massacre at Tarn Aeluin") [Barahir](/wiki/Barahir) and his [followers](/wiki/XII_B%C3%ABorings "XII Bëorings"), camped. Their captain boasted about his deeds, holding the severed hand of [Barahir](/wiki/Barahir), still with [his Ring](/wiki/Ring_of_Barahir "Ring of Barahir") on it. [Beren](/wiki/Beren), having followed their traces, avenged his father by slaying the captain, while recapturing his father's hand. He fled leaving the Orcs aimless and dismayed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+It was here where an [Orc](../O/Orc.md)-band, after [killing](../M/Massacre_at_Tarn_Aeluin.md) [Barahir](../B/Barahir.md) and his [followers](../X/XII_Bëorings.md), camped. Their captain boasted about his deeds, holding the severed hand of [Barahir](../B/Barahir.md), still with [his Ring](Ring_of_Barahir.md) on it. [Beren](../B/Beren.md), having followed their traces, avenged his father by slaying the captain, while recapturing his father's hand. He fled leaving the Orcs aimless and dismayed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_Beren_and_L%C3%BAthien" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</span>
 </li>
 </ol></div>

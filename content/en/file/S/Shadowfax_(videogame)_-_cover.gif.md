@@ -1,6 +1,5 @@
 ---
 title: "File:Shadowfax (videogame) - cover.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadowfax (videogame) - cover.gif</span>"
 page_id: 25468
 namespace: 6
 revision_id: 262024

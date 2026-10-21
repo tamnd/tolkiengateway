@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Aragorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Aragorn.jpg</span>"
 page_id: 6344
 namespace: 6
 revision_id: 247286
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Viggo Mortensen](/wiki/Viggo_Mortensen) from [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+Image of [Viggo Mortensen](../../main/V/Viggo_Mortensen.md) from [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Licensing {#Licensing}
 

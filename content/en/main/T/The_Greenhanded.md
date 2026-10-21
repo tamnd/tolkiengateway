@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Holman the greenhanded"
 ---
 
-Redirect to [Holman the greenhanded](/wiki/Holman_the_greenhanded).
+Redirect to [Holman the greenhanded](../H/Holman_the_greenhanded.md).

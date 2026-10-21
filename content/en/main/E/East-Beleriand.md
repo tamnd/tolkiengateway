@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Beleriand"
 ---
 
-Redirect to [East Beleriand](/wiki/East_Beleriand).
+Redirect to [East Beleriand](East_Beleriand.md).

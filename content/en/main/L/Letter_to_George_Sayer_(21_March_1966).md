@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Sayer, George (1966-03-21)"
 ---
 
-On [21 March](/wiki/21_March) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [George Sayer](/wiki/George_Sayer)**.
+On [21 March](../_/21_March.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [George Sayer](../G/George_Sayer.md)**.
 
 - **Description:** A signed and dated handwritten letter. 175 by 135 cm, written on both sides of a single sheet of Tolkien's cream-coloured Oxford stationery printed with the heading 'Professor J.R.R. Tolkien' and with the Oxford return address.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Publication:** None

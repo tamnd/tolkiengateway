@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Goblin Scribe.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Goblin Scribe.png</span>"
 page_id: 73159
 namespace: 6
 revision_id: 433004
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Goblin Scribe](/wiki/Goblin_Scribe) - [LEGO](/wiki/Lego "Lego") minifigure
+[Goblin Scribe](../../main/G/Goblin_Scribe.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Charles Williams"
 ---
 
-Redirect to [Charles Williams](/wiki/Charles_Williams).
+Redirect to [Charles Williams](../C/Charles_Williams.md).

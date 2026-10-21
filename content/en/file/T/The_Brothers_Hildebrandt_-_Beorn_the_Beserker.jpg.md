@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Beorn the Beserker.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Beorn the Beserker.jpg</span>"
 page_id: 71418
 namespace: 6
 revision_id: 425982
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Beorn](/wiki/Beorn) the Beserker" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)
+"[Beorn](../../main/B/Beorn.md) the Beserker" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

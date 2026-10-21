@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orta-"
 ---
 
-Redirect to [Orta-](/wiki/Orta-).
+Redirect to [Orta-](Orta-.md).

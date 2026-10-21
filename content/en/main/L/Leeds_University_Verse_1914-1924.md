@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leeds University Verse 1914-24"
 ---
 
-Redirect to [Leeds University Verse 1914-24](/wiki/Leeds_University_Verse_1914-24).
+Redirect to [Leeds University Verse 1914-24](Leeds_University_Verse_1914-24.md).

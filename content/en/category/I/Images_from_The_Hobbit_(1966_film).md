@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images from The Hobbit (1967 film)"
 ---
 
-Redirect to [Category:Images from The Hobbit (1967 film)](/wiki/Category:Images_from_The_Hobbit_(1967_film)).
+Redirect to [Category:Images from The Hobbit (1967 film)](<Images_from_The_Hobbit_(1967_film).md>).

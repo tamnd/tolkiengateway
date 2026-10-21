@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orocarni"
 ---
 
-Redirect to [Orocarni](/wiki/Orocarni).
+Redirect to [Orocarni](../O/Orocarni.md).

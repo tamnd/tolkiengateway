@@ -1,6 +1,5 @@
 ---
 title: "Ondolinde (band)"
-display_title: "<span class=\"mw-page-title-main\">Ondolinde (band)</span>"
 page_id: 68867
 namespace: 0
 revision_id: 410706
@@ -14,7 +13,7 @@ categories:
   - "Death metal"
 ---
 
-**Ondolindë** is a Turkish death metal band who create music based on the works of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien"). They have released one album, <a class="new" href="/w/index.php?title=Tales_from_Middle-Earth&amp;action=edit&amp;redlink=1" title="Tales from Middle-Earth (page does not exist)">Tales from Middle-Earth</a>, in 2018.
+**Ondolindë** is a Turkish death metal band who create music based on the works of [Tolkien](../J/J.R.R._Tolkien.md). They have released one album, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tales_from_Middle-Earth&amp;action=edit&amp;redlink=1" title="Tales from Middle-Earth (page does not exist)">Tales from Middle-Earth</a>, in 2018.
 
 ## External links {#External_links}
 

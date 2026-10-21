@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pass of Sirion"
 ---
 
-Redirect to [Pass of Sirion](/wiki/Pass_of_Sirion).
+Redirect to [Pass of Sirion](../P/Pass_of_Sirion.md).

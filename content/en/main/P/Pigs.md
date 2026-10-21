@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Fauna of Arda"
 ---
 
-Redirect to [Index:Fauna of Arda](/wiki/Index:Fauna_of_Arda).
+Redirect to [Index:Fauna of Arda](../../index/F/Fauna_of_Arda.md).

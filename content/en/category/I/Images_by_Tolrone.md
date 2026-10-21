@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tolrone"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tolrone</span>"
 page_id: 57757
 namespace: 14
 revision_id: 318510

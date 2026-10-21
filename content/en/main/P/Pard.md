@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pards"
 ---
 
-Redirect to [Pards](/wiki/Pards).
+Redirect to [Pards](Pards.md).

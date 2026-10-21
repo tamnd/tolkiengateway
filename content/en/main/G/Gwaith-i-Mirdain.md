@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwaith-i-Mírdain"
 ---
 
-Redirect to [Gwaith-i-Mírdain](/wiki/Gwaith-i-Mírdain).
+Redirect to [Gwaith-i-Mírdain](Gwaith-i-Mírdain.md).

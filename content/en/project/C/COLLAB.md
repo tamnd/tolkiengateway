@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Collaborations"
 ---
 
-Redirect to [Tolkien Gateway:Collaborations](/wiki/Tolkien_Gateway:Collaborations).
+Redirect to [Tolkien Gateway:Collaborations](Collaborations.md).

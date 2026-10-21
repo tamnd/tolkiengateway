@@ -1,6 +1,5 @@
 ---
 title: "File:MellorianJ - Eldarion Telcontar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MellorianJ - Eldarion Telcontar.jpg</span>"
 page_id: 58015
 namespace: 6
 revision_id: 322178
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> MellorianJ</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/mellorianj" rel="noreferrer noopener" target="_blank">MellorianJ on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/MellorianJ" title="Tolkien Gateway:Copyrights/MellorianJ">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMellorianJ.md" title="Tolkien Gateway:Copyrights/MellorianJ">Permission for use on Tolkien Gateway</a></b></li></ul></div>

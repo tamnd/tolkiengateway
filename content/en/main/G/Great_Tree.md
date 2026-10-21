@@ -11,4 +11,4 @@ redirect_target: "Niggle's Parish"
 redirect_fragment: "Great Tree"
 ---
 
-Redirect to [Niggle's Parish](/wiki/Niggle's_Parish#Great_Tree).
+Redirect to [Niggle's Parish](../N/Niggle's_Parish.md#Great_Tree).

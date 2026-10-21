@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Making of Middle-earth: A New Look Inside the World of J.R.R. Tolkien"
 ---
 
-Redirect to [The Making of Middle-earth: A New Look Inside the World of J.R.R. Tolkien](/wiki/The_Making_of_Middle-earth:_A_New_Look_Inside_the_World_of_J.R.R._Tolkien).
+Redirect to [The Making of Middle-earth: A New Look Inside the World of J.R.R. Tolkien](The_Making_of_Middle-earth%253A_A_New_Look_Inside_the_World_of_J.R.R._Tolkien.md).

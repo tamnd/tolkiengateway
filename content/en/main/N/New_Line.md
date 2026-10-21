@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "New Line Cinema"
 ---
 
-Redirect to [New Line Cinema](/wiki/New_Line_Cinema).
+Redirect to [New Line Cinema](New_Line_Cinema.md).

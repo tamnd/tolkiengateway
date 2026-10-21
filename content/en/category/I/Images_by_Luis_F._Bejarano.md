@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Luis F. Bejarano"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Luis F. Bejarano</span>"
 page_id: 40387
 namespace: 14
 revision_id: 204988
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Bejarano, Luis F."
 ---
 
-This category lists all **images by [Luis F. Bejarano](/wiki/Luis_F._Bejarano)**.
+This category lists all **images by [Luis F. Bejarano](../../main/L/Luis_F._Bejarano.md)**.

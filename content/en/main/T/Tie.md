@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tië"
 ---
 
-Redirect to [Tië](/wiki/Tië).
+Redirect to [Tië](Tië.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Young Magicians"
 ---
 
-Redirect to [The Young Magicians](/wiki/The_Young_Magicians).
+Redirect to [The Young Magicians](../T/The_Young_Magicians.md).

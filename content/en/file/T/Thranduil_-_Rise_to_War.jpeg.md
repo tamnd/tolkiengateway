@@ -1,6 +1,5 @@
 ---
 title: "File:Thranduil - Rise to War.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Thranduil - Rise to War.jpeg</span>"
 page_id: 64661
 namespace: 6
 revision_id: 373914

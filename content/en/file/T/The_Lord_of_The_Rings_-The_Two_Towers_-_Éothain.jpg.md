@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of The Rings -The Two Towers - Éothain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of The Rings -The Two Towers - Éothain.jpg</span>"
 page_id: 47018
 namespace: 6
 revision_id: 250232

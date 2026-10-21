@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Elrond at Khazad-dûm.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Elrond at Khazad-dûm.jpg</span>"
 page_id: 64095
 namespace: 6
 revision_id: 412294
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elrond](/wiki/Elrond) visiting [Khazad-dûm](/wiki/Moria "Moria") in the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series.
+[Elrond](../../main/E/Elrond.md) visiting [Khazad-dûm](../../main/M/Moria.md) in the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.
 
 ## Licensing {#Licensing}
 

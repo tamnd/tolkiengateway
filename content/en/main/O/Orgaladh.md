@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldëa"
 ---
 
-Redirect to [Aldëa](/wiki/Aldëa).
+Redirect to [Aldëa](../A/Aldëa.md).

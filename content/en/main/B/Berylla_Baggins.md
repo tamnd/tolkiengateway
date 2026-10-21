@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Berylla Boffin"
 ---
 
-Redirect to [Berylla Boffin](/wiki/Berylla_Boffin).
+Redirect to [Berylla Boffin](Berylla_Boffin.md).

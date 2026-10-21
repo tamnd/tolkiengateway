@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goblin-gate and Eagle's Eyrie"
 ---
 
-Redirect to [Goblin-gate and Eagle's Eyrie](/wiki/Goblin-gate_and_Eagle's_Eyrie).
+Redirect to [Goblin-gate and Eagle's Eyrie](Goblin-gate_and_Eagle's_Eyrie.md).

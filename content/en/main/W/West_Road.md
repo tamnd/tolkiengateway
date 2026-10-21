@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great West Road"
 ---
 
-Redirect to [Great West Road](/wiki/Great_West_Road).
+Redirect to [Great West Road](../G/Great_West_Road.md).

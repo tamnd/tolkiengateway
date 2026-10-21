@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Green Emberü"
 ---
 
-Redirect to [Green Emberü](/wiki/Green_Emberü).
+Redirect to [Green Emberü](Green_Emberü.md).

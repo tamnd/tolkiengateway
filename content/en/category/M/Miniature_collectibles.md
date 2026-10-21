@@ -1,6 +1,5 @@
 ---
 title: "Category:Miniature collectibles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miniature collectibles</span>"
 page_id: 26492
 namespace: 14
 revision_id: 104628
@@ -13,4 +12,4 @@ categories:
   - "Collectibles"
 ---
 
-Various companies or product lines having issued miniature figures from the [legendarium](/wiki/Legendarium "Legendarium") of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Various companies or product lines having issued miniature figures from the [legendarium](../../main/L/Legendarium.md) of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

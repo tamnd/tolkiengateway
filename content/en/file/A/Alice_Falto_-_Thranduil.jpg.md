@@ -1,6 +1,5 @@
 ---
 title: "File:Alice Falto - Thranduil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alice Falto - Thranduil.jpg</span>"
 page_id: 38929
 namespace: 6
 revision_id: 191885
@@ -31,4 +30,4 @@ file:
 <p>This work is copyrighted and owned by Alice Falto. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Alice Falto</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alice_Falto" title="Tolkien Gateway:Copyrights/Alice Falto">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlice_Falto.md" title="Tolkien Gateway:Copyrights/Alice Falto">Permission for use on Tolkien Gateway</a></b></li></ul></div>

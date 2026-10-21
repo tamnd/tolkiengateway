@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Balrog2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Balrog2.jpg</span>"
 page_id: 29022
 namespace: 6
 revision_id: 169310
@@ -25,7 +24,7 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn) firing an arrow at the [Balrog](/wiki/Durin%27s_Bane "Durin's Bane") of [Moria](/wiki/Moria).
+[Aragorn](../../main/A/Aragorn.md) firing an arrow at the [Balrog](../../main/D/Durin's_Bane.md) of [Moria](../../main/M/Moria.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

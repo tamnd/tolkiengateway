@@ -1,6 +1,5 @@
 ---
 title: "File:Andy Serkis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andy Serkis.jpg</span>"
 page_id: 46908
 namespace: 6
 revision_id: 426637

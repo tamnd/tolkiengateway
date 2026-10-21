@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Emyn Eglain"
 ---
 
-Redirect to [Emyn Eglain](/wiki/Emyn_Eglain).
+Redirect to [Emyn Eglain](../E/Emyn_Eglain.md).

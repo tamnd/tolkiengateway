@@ -1,6 +1,5 @@
 ---
 title: "File:The War of the Rohirrim - Breaching of the Walls of Edoras Concept Art.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The War of the Rohirrim - Breaching of the Walls of Edoras Concept Art.jpg</span>"
 page_id: 63363
 namespace: 6
 revision_id: 435400
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of an [Oliphaunt](/wiki/Oliphaunts "Oliphaunts") from the anime film [The Lord of the Rings: The War of the Rohirrim](/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim).
+Concept art of an [Oliphaunt](../../main/O/Oliphaunts.md) from the anime film [The Lord of the Rings: The War of the Rohirrim](../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).
 
 ## Licensing {#Licensing}
 

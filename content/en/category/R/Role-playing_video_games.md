@@ -1,6 +1,5 @@
 ---
 title: "Category:Role-playing video games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Role-playing video games</span>"
 page_id: 70070
 namespace: 14
 revision_id: 416683

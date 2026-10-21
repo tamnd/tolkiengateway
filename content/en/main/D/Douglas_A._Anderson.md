@@ -1,6 +1,5 @@
 ---
 title: "Douglas A. Anderson"
-display_title: "<span class=\"mw-page-title-main\">Douglas A. Anderson</span>"
 page_id: 14376
 namespace: 0
 revision_id: 442531
@@ -37,68 +36,66 @@ infobox:
     value: "Michigan, USA"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Douglas A. Anderson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/30_December" title="30 December">30 December</a> <a href="/wiki/1959" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Michigan, USA</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Douglas A. Anderson</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/30_December.md" title="30 December">30 December</a> <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Michigan, USA</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+**Douglas Allen Anderson** (born [30 December](../_/30_December.md) [1959](../_/1959.md) in Valparaiso, Indiana<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is an American independent scholar who has authored and edited various books relating to the works of Tolkien.
 
-**Douglas Allen Anderson** (born [30 December](/wiki/30_December) [1959](/wiki/1959) in Valparaiso, Indiana<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is an American independent scholar who has authored and edited various books relating to the works of Tolkien.
+Anderson assisted [Humphrey Carpenter](../H/Humphrey_Carpenter.md) during the process of compiling [The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md). For instance, he found [Letter 27](../L/Letter_27.md) at the Houghton Mifflin archives in Boston.<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup> In [1988](../_/1988.md), he edited *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md)*, which won the [Mythopeic Scholarship Award in Inklings Studies](../M/Mythopoeic_Society.md) in [1990](../_/1990.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A revised and expanded edition was published in [2002](../_/2002.md). He is currently working on a third edition.<sup id="cite_ref-interview_2-1" class="reference"><a href="#cite_note-interview-2">[2]</a></sup>
 
-Anderson assisted [Humphrey Carpenter](/wiki/Humphrey_Carpenter) during the process of compiling [The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien). For instance, he found [Letter 27](/wiki/Letter_27) at the Houghton Mifflin archives in Boston.<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup> In [1988](/wiki/1988), he edited *[The Annotated Hobbit](/wiki/The_Annotated_Hobbit)*, which won the [Mythopeic Scholarship Award in Inklings Studies](/wiki/Mythopoeic_Society "Mythopoeic Society") in [1990](/wiki/1990).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A revised and expanded edition was published in [2002](/wiki/2002). He is currently working on a third edition.<sup id="cite_ref-interview_2-1" class="reference"><a href="#cite_note-interview-2">[2]</a></sup>
-
-With [Michael D.C. Drout](/wiki/Michael_D.C._Drout) and [Verlyn Flieger](/wiki/Verlyn_Flieger), Anderson was co-editor for volumes one through eight of *[Tolkien Studies: An Annual Scholarly Review](</wiki/Tolkien_Studies_(journal)> "Tolkien Studies (journal)")*. He is a member of the Board of Academic Advisors for [Walking Tree Publishers](/wiki/Walking_Tree_Publishers) <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and currently serves as editor for book reviews at the [Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research). <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> He also manages the small publisher *[Nodens Books](/wiki/Nodens_Books)*, which focuses on reprinting works by lesser known writers.
+With [Michael D.C. Drout](../M/Michael_D.C._Drout.md) and [Verlyn Flieger](../V/Verlyn_Flieger.md), Anderson was co-editor for volumes one through eight of *[Tolkien Studies: An Annual Scholarly Review](<../T/Tolkien_Studies_(journal).md>)*. He is a member of the Board of Academic Advisors for [Walking Tree Publishers](../W/Walking_Tree_Publishers.md) <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and currently serves as editor for book reviews at the [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md). <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> He also manages the small publisher *[Nodens Books](../N/Nodens_Books.md)*, which focuses on reprinting works by lesser known writers.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [1988](/wiki/1988): *[The Annotated Hobbit](/wiki/The_Annotated_Hobbit)*
-- [1993](/wiki/1993): *[J.R.R. Tolkien: A Descriptive Bibliography](/wiki/J.R.R._Tolkien:_A_Descriptive_Bibliography)* (with [Wayne G. Hammond](/wiki/Wayne_G._Hammond))
-- [2002](/wiki/2002): *[The Annotated Hobbit](/wiki/The_Annotated_Hobbit): Revised and Expanded Edition*
-- [2003](/wiki/2003): *[Tales Before Tolkien](/wiki/Tales_Before_Tolkien): The Roots of Modern Fantasy*
-- [2005](/wiki/2005): <i><a class="new" href="/w/index.php?title=Seekers_of_Dreams&amp;action=edit&amp;redlink=1" title="Seekers of Dreams (page does not exist)">Seekers of Dreams</a>: Masterpieces of Fantasy</i>
-- [2007](/wiki/2007): *[Tolkien On Fairy-stories](/wiki/Tolkien_On_Fairy-stories)* (with [Verlyn Flieger](/wiki/Verlyn_Flieger))
-- [2008](/wiki/2008): *[Tales Before Narnia: The Roots of Modern Fantasy and Science Fiction](/wiki/Tales_Before_Narnia "Tales Before Narnia")*
-- [2025](/wiki/2025): <i><a class="new" href="/w/index.php?title=More_Tales_Before_Tolkien&amp;action=edit&amp;redlink=1" title="More Tales Before Tolkien (page does not exist)">More Tales Before Tolkien</a></i>
+- [1988](../_/1988.md): *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md)*
+- [1993](../_/1993.md): *[J.R.R. Tolkien: A Descriptive Bibliography](../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md)* (with [Wayne G. Hammond](../W/Wayne_G._Hammond.md))
+- [2002](../_/2002.md): *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md): Revised and Expanded Edition*
+- [2003](../_/2003.md): *[Tales Before Tolkien](../T/Tales_Before_Tolkien.md): The Roots of Modern Fantasy*
+- [2005](../_/2005.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Seekers_of_Dreams&amp;action=edit&amp;redlink=1" title="Seekers of Dreams (page does not exist)">Seekers of Dreams</a>: Masterpieces of Fantasy</i>
+- [2007](../_/2007.md): *[Tolkien On Fairy-stories](../T/Tolkien_On_Fairy-stories~23734.md)* (with [Verlyn Flieger](../V/Verlyn_Flieger.md))
+- [2008](../_/2008.md): *[Tales Before Narnia: The Roots of Modern Fantasy and Science Fiction](../T/Tales_Before_Narnia.md)*
+- [2025](../_/2025.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=More_Tales_Before_Tolkien&amp;action=edit&amp;redlink=1" title="More Tales Before Tolkien (page does not exist)">More Tales Before Tolkien</a></i>
 
 ### Journals, editor {#Journals,_editor}
 
-- [2004](/wiki/2004): *[Tolkien Studies: An Annual Scholarly Review, Volume 1](/wiki/Tolkien_Studies:_Volume_1 "Tolkien Studies: Volume 1")* (co-editor)
-- [2005](/wiki/2005): *[Tolkien Studies: An Annual Scholarly Review, Volume 2](/wiki/Tolkien_Studies:_Volume_2 "Tolkien Studies: Volume 2")* (co-editor)
-- [2006](/wiki/2006): *[Tolkien Studies: An Annual Scholarly Review, Volume 3](/wiki/Tolkien_Studies:_Volume_3 "Tolkien Studies: Volume 3")* (co-editor)
-- [2007](/wiki/2007): *[Tolkien Studies: An Annual Scholarly Review, Volume 4](/wiki/Tolkien_Studies:_Volume_4 "Tolkien Studies: Volume 4")* (co-editor)
-- [2008](/wiki/2008): *[Tolkien Studies: An Annual Scholarly Review, Volume 5](/wiki/Tolkien_Studies:_Volume_5 "Tolkien Studies: Volume 5")* (co-editor)
-- [2009](/wiki/2009): *[Tolkien Studies: An Annual Scholarly Review, Volume 6](/wiki/Tolkien_Studies:_Volume_6 "Tolkien Studies: Volume 6")* (co-editor)
-- [2010](/wiki/2010): *[Tolkien Studies: An Annual Scholarly Review, Volume 7](/wiki/Tolkien_Studies:_Volume_7 "Tolkien Studies: Volume 7")* (co-editor)
-- [2011](/wiki/2011): *[Tolkien Studies: An Annual Scholarly Review, Volume 8](/wiki/Tolkien_Studies:_Volume_8 "Tolkien Studies: Volume 8")* (co-editor)
+- [2004](../_/2004.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)* (co-editor)
+- [2005](../_/2005.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)* (co-editor)
+- [2006](../_/2006.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)* (co-editor)
+- [2007](../_/2007.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)* (co-editor)
+- [2008](../_/2008.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)* (co-editor)
+- [2009](../_/2009.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 6](../T/Tolkien_Studies%253A_Volume_6.md)* (co-editor)
+- [2010](../_/2010.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 7](../T/Tolkien_Studies%253A_Volume_7.md)* (co-editor)
+- [2011](../_/2011.md): *[Tolkien Studies: An Annual Scholarly Review, Volume 8](../T/Tolkien_Studies%253A_Volume_8.md)* (co-editor)
 
 ### Articles and contributions {#Articles_and_contributions}
 
-- [1981](/wiki/1981): [*Mallorn* 16](/wiki/Mallorn_16 "Mallorn 16")
+- [1981](../_/1981.md): [*Mallorn* 16](../M/Mallorn_16.md)
     - "A Look at the Marquette Archives"
     - "The Marring of the Moon"
-- [1987](/wiki/1987): *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* ([Houghton Mifflin](/wiki/Houghton_Mifflin))
+- [1987](../_/1987.md): *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ([Houghton Mifflin](../H/Houghton_Mifflin.md))
     - "Note on the Text"
-- 1994\[?\]: *[The Hobbit](/wiki/The_Hobbit)*
+- 1994\[?\]: *[The Hobbit](../T/The_Hobbit.md)*
     - "Note on the Text"
-- [1996](/wiki/1996): *[The Marvellous Land of Snergs](/wiki/The_Marvellous_Land_of_Snergs)*
+- [1996](../_/1996.md): *[The Marvellous Land of Snergs](../T/The_Marvellous_Land_of_Snergs.md)*
     - "Introduction"
-- [2001](/wiki/2001): *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*
+- [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
     - "Tolkien After All These Years"
-- [2002](/wiki/2002): *[Tolkien the Medievalist](/wiki/Tolkien_the_Medievalist)*
+- [2002](../_/2002.md): *[Tolkien the Medievalist](../T/Tolkien_the_Medievalist.md)*
     - "'An Industrious Little Devil': E.V. Gordon as Friend and Collaborator with Tolkien'
-- [2004](/wiki/2004): [*Tolkien Studies*: Volume 1](/wiki/Tolkien_Studies:_Volume_1 "Tolkien Studies: Volume 1")
-    - "J.R.R. Tolkien, A Checklist" (with [Tom Shippey](/wiki/Tom_Shippey))
-- [2005](/wiki/2005): [*Tolkien Studies*: Volume 2](/wiki/Tolkien_Studies:_Volume_2 "Tolkien Studies: Volume 2")
+- [2004](../_/2004.md): [*Tolkien Studies*: Volume 1](../T/Tolkien_Studies%253A_Volume_1.md)
+    - "J.R.R. Tolkien, A Checklist" (with [Tom Shippey](../T/Tom_Shippey.md))
+- [2005](../_/2005.md): [*Tolkien Studies*: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)
     - "J.R.R. Tolkien and W. Rhys Roberts's 'Gerald of Wales on the Survival of Welsh'"
-- [2013](/wiki/2013): [*Mythlore* 123](/wiki/Mythlore_123 "Mythlore 123")
+- [2013](../_/2013.md): [*Mythlore* 123](../M/Mythlore_123.md)
     - "Fairy Elements in British Literary Writings in the Decade Following the Cottingley Fairy Photographs Episode"
-- [2025](/wiki/2025): *[Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research): Vol. 22: Iss. 2*
-    - "[Josef Madlener](/wiki/Josef_Madlener)’s “[Der Berggeist](/wiki/Der_Berggeist)”: Not the “Origin of Gandalf”
+- [2025](../_/2025.md): *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md): Vol. 22: Iss. 2*
+    - "[Josef Madlener](../J/Josef_Madlener.md)’s “[Der Berggeist](Der_Berggeist.md)”: Not the “Origin of Gandalf”
 
 ## Awards {#Awards}
 
-- [1988](/wiki/1988): **[Mythopoeic Scholarship Award for Inklings Studies](/wiki/Mythopoeic_Society "Mythopoeic Society")**, *[The Annotated Hobbit](/wiki/The_Annotated_Hobbit)*
-- [2025](/wiki/2025): **[Tolkien Society Award](/wiki/Tolkien_Society_Awards "Tolkien Society Awards"): Outstanding Contribution**
+- [1988](../_/1988.md): **[Mythopoeic Scholarship Award for Inklings Studies](../M/Mythopoeic_Society.md)**, *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md)*
+- [2025](../_/2025.md): **[Tolkien Society Award](../T/Tolkien_Society_Awards.md): Outstanding Contribution**
 
 ## External links {#External_links}
 
@@ -107,7 +104,7 @@ With [Michael D.C. Drout](/wiki/Michael_D.C._Drout) and [Verlyn Flieger](/wiki/V
 
 ### Interviews {#Interviews}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=QZZg-n3ARPI&amp;lc=UgxzxlNJo3dqpq1uHVV4AaABAg&amp;ab_channel=TolkienTalk" rel="noreferrer noopener" target="_blank">Interview with Douglas A. Anderson</a> (with <a class="new" href="/w/index.php?title=TolkienTalk&amp;action=edit&amp;redlink=1" title="TolkienTalk (page does not exist)">TolkienTalk</a>)
+- <a class="external text" href="https://www.youtube.com/watch?v=QZZg-n3ARPI&amp;lc=UgxzxlNJo3dqpq1uHVV4AaABAg&amp;ab_channel=TolkienTalk" rel="noreferrer noopener" target="_blank">Interview with Douglas A. Anderson</a> (with <a class="new" href="https://tolkiengateway.net/w/index.php?title=TolkienTalk&amp;action=edit&amp;redlink=1" title="TolkienTalk (page does not exist)">TolkienTalk</a>)
 - <a class="external text" href="https://www.longwinded.one/episode-135-the-roots-of-douglas-a-anderson/" rel="noreferrer noopener" target="_blank">The Roots of Douglas A. Anderson</a> (Episode 135 of the *Longwinded One* podcast)
 
 <span></span>
@@ -121,8 +118,8 @@ With [Michael D.C. Drout](/wiki/Michael_D.C._Drout) and [Verlyn Flieger](/wiki/V
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.mythsoc.org/awards/awards-winners.htm" rel="noreferrer noopener" target="_blank">Complete list of Mythopoeic Awards winners</a> on <a class="external free" href="https://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">https://www.mythsoc.org/</a> (accessed 21 March 2023)</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.walking-tree.org/board_of_advisors.php" rel="noreferrer noopener" target="_blank">&#34;Walking Tree Publishers Board of Advisors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.walking-tree.org/" rel="noreferrer noopener" target="_blank">Walking Tree Publihers</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.walking-tree.org/board_of_advisors.php" rel="noreferrer noopener" target="_blank">&#34;Walking Tree Publishers Board of Advisors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.walking-tree.org/" rel="noreferrer noopener" target="_blank">Walking Tree Publihers</a></span>. <span class="cite-web-accessed">Retrieved 21 January 2012</span></cite></span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"> <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/editorialboard.html" rel="noreferrer noopener" target="_blank">Editorial Board</a> at the <a href="/wiki/Journal_of_Tolkien_Research" title="Journal of Tolkien Research">Journal of Tolkien Research</a> website (accessed 29 April 2025)</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"> <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/editorialboard.html" rel="noreferrer noopener" target="_blank">Editorial Board</a> at the <a href="../J/Journal_of_Tolkien_Research.md" title="Journal of Tolkien Research">Journal of Tolkien Research</a> website (accessed 29 April 2025)</span>
 </li>
 </ol></div>

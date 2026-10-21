@@ -1,6 +1,5 @@
 ---
 title: "Leonard Fenton"
-display_title: "<span class=\"mw-page-title-main\">Leonard Fenton</span>"
 page_id: 19550
 namespace: 0
 revision_id: 402575
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Fenton, Leonard"
 ---
 
-**Leonard Feinstein** ([April 29](/wiki/29_April "29 April"), [1926](/wiki/1926)) is a London-born actor. He changed his stagename to **Leonard Fenton** during the Second World War, because his Jewish surname was [associated with Germany](/wiki/Tolkein "Tolkein"). His most famous role is that of <a class="external text" href="https://www.bbc.co.uk/programmes/profiles/1791n30gcbLkhZlXzmGpy8X/harold-legg" rel="noreferrer noopener" target="_blank">Dr. Harold Legg</a> in *Eastenders*, but has also played in many radio plays.
+**Leonard Feinstein** ([April 29](../_/29_April.md), [1926](../_/1926.md)) is a London-born actor. He changed his stagename to **Leonard Fenton** during the Second World War, because his Jewish surname was [associated with Germany](../T/Tolkein.md). His most famous role is that of <a class="external text" href="https://www.bbc.co.uk/programmes/profiles/1791n30gcbLkhZlXzmGpy8X/harold-legg" rel="noreferrer noopener" target="_blank">Dr. Harold Legg</a> in *Eastenders*, but has also played in many radio plays.
 
 ## Roles {#Roles}
 
-- [1981](/wiki/1981): *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)")*: [Daddy Twofoot](/wiki/Daddy_Twofoot)
-- [1968](/wiki/1968): *[The Hobbit](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)")*: [The Elvenking](/wiki/Thranduil "Thranduil")
+- [1981](../_/1981.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*: [Daddy Twofoot](../D/Daddy_Twofoot.md)
+- [1968](../_/1968.md): *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)*: [The Elvenking](../T/Thranduil.md)
 
 ## External links {#External_links}
 

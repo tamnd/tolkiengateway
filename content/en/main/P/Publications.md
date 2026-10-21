@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Publications"
 ---
 
-Redirect to [Category:Publications](/wiki/Category:Publications).
+Redirect to [Category:Publications](../../category/P/Publications.md).

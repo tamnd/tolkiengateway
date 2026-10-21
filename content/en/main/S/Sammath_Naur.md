@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cracks of Doom"
 ---
 
-Redirect to [Cracks of Doom](/wiki/Cracks_of_Doom).
+Redirect to [Cracks of Doom](../C/Cracks_of_Doom.md).

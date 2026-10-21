@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narmacil II"
 ---
 
-Redirect to [Narmacil II](/wiki/Narmacil_II).
+Redirect to [Narmacil II](Narmacil_II.md).

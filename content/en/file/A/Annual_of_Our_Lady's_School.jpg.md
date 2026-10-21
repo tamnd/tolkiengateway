@@ -1,6 +1,5 @@
 ---
 title: "File:Annual of Our Lady's School.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Annual of Our Lady&#039;s School.jpg</span>"
 page_id: 59484
 namespace: 6
 revision_id: 331236

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arkenstone"
 ---
 
-Redirect to [Arkenstone](/wiki/Arkenstone).
+Redirect to [Arkenstone](Arkenstone.md).

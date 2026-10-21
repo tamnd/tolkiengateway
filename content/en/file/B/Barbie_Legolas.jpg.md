@@ -1,6 +1,5 @@
 ---
 title: "File:Barbie Legolas.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Barbie Legolas.jpg</span>"
 page_id: 30722
 namespace: 6
 revision_id: 249257
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a> as [Legolas](/wiki/Legolas). Stock photo by [Mattel](/wiki/Barbie "Barbie").
+<a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a> as [Legolas](../../main/L/Legolas.md). Stock photo by [Mattel](../../main/B/Barbie.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl (disambiguation)"
 ---
 
-Redirect to [Carl (disambiguation)](/wiki/Carl_(disambiguation)).
+Redirect to [Carl (disambiguation)](<Carl_(disambiguation).md>).

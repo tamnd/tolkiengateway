@@ -1,6 +1,5 @@
 ---
 title: "File:Essays Presented to Charles Williams.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Essays Presented to Charles Williams.png</span>"
 page_id: 25962
 namespace: 6
 revision_id: 348506

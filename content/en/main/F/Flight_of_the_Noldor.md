@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exile of the Noldor"
 ---
 
-Redirect to [Exile of the Noldor](/wiki/Exile_of_the_Noldor).
+Redirect to [Exile of the Noldor](../E/Exile_of_the_Noldor.md).

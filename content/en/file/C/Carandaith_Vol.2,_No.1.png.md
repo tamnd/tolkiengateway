@@ -1,6 +1,5 @@
 ---
 title: "File:Carandaith Vol.2, No.1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Carandaith Vol.2, No.1.png</span>"
 page_id: 37720
 namespace: 6
 revision_id: 215397

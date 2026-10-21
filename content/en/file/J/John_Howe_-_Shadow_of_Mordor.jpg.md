@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Dark Tower 01.jpg"
 ---
 
-Redirect to [File:John Howe - The Dark Tower 01.jpg](/wiki/File:John_Howe_-_The_Dark_Tower_01.jpg).
+Redirect to [File:John Howe - The Dark Tower 01.jpg](John_Howe_-_The_Dark_Tower_01.jpg.md).

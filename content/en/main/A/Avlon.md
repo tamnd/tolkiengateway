@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Salmar"
 ---
 
-Redirect to [Salmar](/wiki/Salmar).
+Redirect to [Salmar](../S/Salmar.md).

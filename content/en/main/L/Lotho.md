@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lotho Sackville-Baggins"
 ---
 
-Redirect to [Lotho Sackville-Baggins](/wiki/Lotho_Sackville-Baggins).
+Redirect to [Lotho Sackville-Baggins](Lotho_Sackville-Baggins.md).

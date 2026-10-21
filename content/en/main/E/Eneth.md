@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>eneth</b></i> is a noun meaning "name" in [Sindarin](/wiki/Sindarin).
+<i><b>eneth</b></i> is a noun meaning "name" in [Sindarin](../S/Sindarin.md).
 
 ## Etymology {#Etymology}
 
-The etymology of this word is obscure. It is unknown if it contains any [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") related to the [Quenya](/wiki/Quenya) word *[esse](/wiki/Ess%C3%AB "Essë")*.
+The etymology of this word is obscure. It is unknown if it contains any [Root](../S/Sundocarmë.md) related to the [Quenya](../Q/Quenya.md) word *[esse](Essë.md)*.
 
-Note that the verb "to name" in Sindarin is <i><a class="new" href="/w/index.php?title=Esta-&amp;action=edit&amp;redlink=1" title="Esta- (page does not exist)">esta-</a></i>.
+Note that the verb "to name" in Sindarin is <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Esta-&amp;action=edit&amp;redlink=1" title="Esta- (page does not exist)">esta-</a></i>.
 
 ## References {#References}
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

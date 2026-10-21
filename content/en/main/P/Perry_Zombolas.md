@@ -1,6 +1,5 @@
 ---
 title: "Perry Zombolas"
-display_title: "<span class=\"mw-page-title-main\">Perry Zombolas</span>"
 page_id: 27973
 namespace: 0
 revision_id: 406966
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Zombolas, Perry"
 ---
 
-**Perry J. Zombolas, Jr.** ([1968](/wiki/1968)) is an American storyboard artist, animation director and occasional voice actor.
+**Perry J. Zombolas, Jr.** ([1968](../_/1968.md)) is an American storyboard artist, animation director and occasional voice actor.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
 
 ## External links {#External_links}
 

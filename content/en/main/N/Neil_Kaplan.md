@@ -1,6 +1,5 @@
 ---
 title: "Neil Kaplan"
-display_title: "<span class=\"mw-page-title-main\">Neil Kaplan</span>"
 page_id: 22666
 namespace: 0
 revision_id: 277390
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Kaplan, Neil"
 ---
 
-**Neil Kaplan** ([March 9](/wiki/9_March "9 March"), [1967](/wiki/1967)) is an American actor. He is still best friends with his *Transformers: Robots in Disguise* co-star [Wally Wingert](/wiki/Wally_Wingert).
+**Neil Kaplan** ([March 9](../_/9_March.md), [1967](../_/1967.md)) is an American actor. He is still best friends with his *Transformers: Robots in Disguise* co-star [Wally Wingert](../W/Wally_Wingert.md).
 
 ## Roles {#Roles}
 
-- [2007](/wiki/2007): *[The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar)*: Additional voices
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Ranger
+- [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*: Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Ranger
 
 ## External links {#External_links}
 

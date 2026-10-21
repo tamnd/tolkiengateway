@@ -1,6 +1,5 @@
 ---
 title: "Westfold Vale"
-display_title: "<span class=\"mw-page-title-main\">Westfold Vale</span>"
 page_id: 55806
 namespace: 0
 revision_id: 416351
@@ -19,21 +18,21 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg"><img src="/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/250px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/375px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 1.5x, /w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/500px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Westfold Vale in <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/250px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/375px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg/500px-The_Lord_of_the_Rings_Online_-_Westfold_Vale.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Westfold Vale in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-The **Westfold Vale** was a valley in the [Westfold](/wiki/Westfold) of [Rohan](/wiki/Rohan) through which ran the [Deeping-stream](/wiki/Deeping-stream) out from the [Deeping-coomb](/wiki/Deeping-coomb). It was also the home of [Erkenbrand](/wiki/Erkenbrand).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Westfold Vale** was a valley in the [Westfold](Westfold.md) of [Rohan](../R/Rohan.md) through which ran the [Deeping-stream](../D/Deeping-stream.md) out from the [Deeping-coomb](../D/Deeping-coomb.md). It was also the home of [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>The Westfold Vale is located in the south of the <a href="/wiki/Westfold" title="Westfold">Westfold</a> area of the <a href="/wiki/Westemnet" title="Westemnet">Westemnet</a>.</dd></dl>
+<dl><dd>The Westfold Vale is located in the south of the <a href="Westfold.md" title="Westfold">Westfold</a> area of the <a href="Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/Helm%27s_Deep_(chapter)" title="Helm&#39;s Deep (chapter)">Helm&#39;s Deep</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../H/Helm&#39;s_Deep_(chapter).md" title="Helm&#39;s Deep (chapter)">Helm&#39;s Deep</a>&#34;</span>
 </li>
 </ol></div>

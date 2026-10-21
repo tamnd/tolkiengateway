@@ -1,6 +1,5 @@
 ---
 title: "Muermamick Softwarradas Productiones"
-display_title: "<span class=\"mw-page-title-main\">Muermamick Softwarradas Productiones</span>"
 page_id: 27748
 namespace: 0
 revision_id: 232290
@@ -14,7 +13,7 @@ categories:
   - "Spanish businesses"
 ---
 
-**Muermamick Softwarradas Productiones** is a Spanish company that published [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](</wiki/El_Se%C3%B1or_de_los_Anillos,_Parte_I:_La_Communidad_del_Anillo_(Libro_1)>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Muermamick Softwarradas Productiones** is a Spanish company that published [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](<../E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

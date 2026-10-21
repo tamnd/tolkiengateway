@@ -1,6 +1,5 @@
 ---
 title: "Inland Northwest Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">Inland Northwest Tolkien Society</span>"
 page_id: 27878
 namespace: 0
 revision_id: 405966
@@ -14,11 +13,11 @@ categories:
   - "American organizations"
 ---
 
-The **Inland Northwest Tolkien Society** is a US registered Smial of [The Tolkien Society](/wiki/The_Tolkien_Society).
+The **Inland Northwest Tolkien Society** is a US registered Smial of [The Tolkien Society](../T/The_Tolkien_Society.md).
 
 The Inland Northwest Tolkien Society runs the Tolkien Scholars Website, a site *"intended as a central repository for Tolkien scholars and enthusiasts looking for a single location to aide in learning and researching information related to J.R.R. Tolkien and his works"*, and also serves as the home of the Society.
 
-Central figures of the Society include [Hawke Robinson](/wiki/Hawke_Robinson) and Brian Huseland.
+Central figures of the Society include [Hawke Robinson](../H/Hawke_Robinson.md) and Brian Huseland.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Valentines-wrath2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Valentines-wrath2.jpg</span>"
 page_id: 38311
 namespace: 6
 revision_id: 189917
@@ -34,4 +33,4 @@ Winning image from <a class="external text" href="http://www.warinthenorth.com/f
 <p>This work is copyrighted and owned by Valentine&#39;s Wrath. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Valentine&#39;s Wrath</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Valentine%27s_Wrath" title="Tolkien Gateway:Copyrights/Valentine&#39;s Wrath">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FValentine&#39;s_Wrath.md" title="Tolkien Gateway:Copyrights/Valentine&#39;s Wrath">Permission for use on Tolkien Gateway</a></b></li></ul></div>

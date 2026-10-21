@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yavannildi"
 ---
 
-Redirect to [Yavannildi](/wiki/Yavannildi).
+Redirect to [Yavannildi](../Y/Yavannildi.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fallohides"
 ---
 
-Redirect to [Fallohides](/wiki/Fallohides).
+Redirect to [Fallohides](Fallohides.md).

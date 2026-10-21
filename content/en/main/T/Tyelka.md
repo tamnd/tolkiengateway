@@ -13,21 +13,21 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>Tyelca</b></i> is a [Quenya](/wiki/Quenya) adjective which means "swift", "agile" or "hasty".
+<i><b>Tyelca</b></i> is a [Quenya](../Q/Quenya.md) adjective which means "swift", "agile" or "hasty".
 
 ## Etymology {#Etymology}
 
-Probably [PQ](/wiki/PQ) \**kyelekâ*, [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
+Probably [PQ](../P/PQ.md) \**kyelekâ*, [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KYELEK&amp;action=edit&amp;redlink=1" title="KYELEK (page does not exist)">KYELEK</a>
 
 ## Examples {#Examples}
 
-- [Tyelkormo](/wiki/Tyelkormo) = Hasty-riser
+- [Tyelkormo](Tyelkormo.md) = Hasty-riser
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[celeg](/wiki/Celeg "Celeg")*
+- [Sindarin](../S/Sindarin.md) *[celeg](../C/Celeg.md)*
 
 ## References {#References}
 
-- [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [Christopher Tolkien](/wiki/Christopher_Tolkien) (ed.), *[The Peoples of Middle-earth](/wiki/The_Peoples_of_Middle-earth)*, "[The Shibboleth of Fëanor](/wiki/The_Shibboleth_of_F%C3%ABanor)"
-- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-English Wordlist</a> compiled by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*, "[The Shibboleth of Fëanor](The_Shibboleth_of_Fëanor.md)"
+- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-English Wordlist</a> compiled by [Helge Fauskanger](../H/Helge_Fauskanger.md)

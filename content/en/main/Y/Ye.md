@@ -13,15 +13,15 @@ categories:
   - "Telerin words"
 ---
 
-**ye** in [Telerin](/wiki/Telerin) is used for "and" expressions; could be used as usually in pairs (or prefixed) and also appears before each item of a list<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ye** in [Telerin](../T/Telerin.md) is used for "and" expressions; could be used as usually in pairs (or prefixed) and also appears before each item of a list<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-It is related to the exclamation <i><a class="new" href="/w/index.php?title=Y%C3%A9&amp;action=edit&amp;redlink=1" title="Yé (page does not exist)">yé</a></i> <span></span>
+It is related to the exclamation <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y%C3%A9&amp;action=edit&amp;redlink=1" title="Yé (page does not exist)">yé</a></i> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
 </li>
 </ol></div>

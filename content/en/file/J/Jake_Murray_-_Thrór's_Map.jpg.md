@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Thrór's Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Thrór&#039;s Map.jpg</span>"
 page_id: 71636
 namespace: 6
 revision_id: 427008
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Thrór's Map](/wiki/Thr%C3%B3r%27s_Map)" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray")
+"[Thrór's Map](../../main/T/Thrór's_Map.md)" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md)
 
 ## Licensing {#Licensing}
 

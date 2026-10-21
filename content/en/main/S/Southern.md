@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "South (disambiguation)"
 ---
 
-Redirect to [South (disambiguation)](/wiki/South_(disambiguation)).
+Redirect to [South (disambiguation)](<South_(disambiguation).md>).

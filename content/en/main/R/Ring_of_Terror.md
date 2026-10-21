@@ -11,4 +11,4 @@ redirect_target: "Nine Rings"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Nine Rings](/wiki/Nine_Rings#Portrayal_in_adaptations).
+Redirect to [Nine Rings](../N/Nine_Rings.md#Portrayal_in_adaptations).

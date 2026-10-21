@@ -1,6 +1,5 @@
 ---
 title: "Nodens Books"
-display_title: "<span class=\"mw-page-title-main\">Nodens Books</span>"
 page_id: 40851
 namespace: 0
 revision_id: 250797
@@ -14,15 +13,15 @@ categories:
   - "Publishers"
 ---
 
-**Nodens Books** is a publishing firm established by [Douglas A. Anderson](/wiki/Douglas_A._Anderson) in [2012](/wiki/2012).
+**Nodens Books** is a publishing firm established by [Douglas A. Anderson](../D/Douglas_A._Anderson.md) in [2012](../_/2012.md).
 
-The firm is named after the [Celtic](/wiki/Celtic) god <a class="extiw" href="http://en.wikipedia.org/wiki/Nodens" title="wikipedia:Nodens">Nodens</a>, about which [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote an etymological essay (see: *[The Name 'Nodens'](/wiki/The_Name_%27Nodens%27)*).
+The firm is named after the [Celtic](../C/Celtic.md) god <a class="extiw" href="http://en.wikipedia.org/wiki/Nodens" title="wikipedia:Nodens">Nodens</a>, about which [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote an etymological essay (see: *[The Name 'Nodens'](../T/The_Name_'Nodens'.md)*).
 
 ## Publications, selected {#Publications,_selected}
 
-Publications related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien):
+Publications related to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md):
 
-- [2012](/wiki/2012): *[The Saga of Hrolf Kraki](/wiki/The_Saga_of_Hrolf_Kraki)*, translated and edited by Stella M. Mills; Foreword by [Priscilla Tolkien](/wiki/Priscilla_Tolkien)
+- [2012](../_/2012.md): *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, translated and edited by Stella M. Mills; Foreword by [Priscilla Tolkien](../P/Priscilla_Tolkien.md)
 - 201?: *Medieval Tales Before Tolkien*, edited by Douglas A. Anderson
 
 ## External links {#External_links}

@@ -1,6 +1,5 @@
 ---
 title: "Miniature Figurines"
-display_title: "<span class=\"mw-page-title-main\">Miniature Figurines</span>"
 page_id: 74728
 namespace: 0
 revision_id: 439594
@@ -16,13 +15,13 @@ images:
   - "Minifigs_-_Mythical_Earth_preview.jpeg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Minifigs_-_Mythical_Earth_preview.jpeg"><img src="/w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/300px-Minifigs_-_Mythical_Earth_preview.jpeg" decoding="async" loading="lazy" width="300" height="146" class="mw-file-element" srcset="/w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/450px-Minifigs_-_Mythical_Earth_preview.jpeg 1.5x, /w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/600px-Minifigs_-_Mythical_Earth_preview.jpeg 2x" data-file-width="1884" data-file-height="919"/></a><figcaption>Preview of <i>Mythical Earth</i> in <i>Airfix Magazine</i></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Minifigs_-_Mythical_Earth_preview.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/300px-Minifigs_-_Mythical_Earth_preview.jpeg" decoding="async" loading="lazy" width="300" height="146" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/450px-Minifigs_-_Mythical_Earth_preview.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/Minifigs_-_Mythical_Earth_preview.jpeg/600px-Minifigs_-_Mythical_Earth_preview.jpeg 2x" data-file-width="1884" data-file-height="919"/></a><figcaption>Preview of <i>Mythical Earth</i> in <i>Airfix Magazine</i></figcaption></figure>
 
 **Miniature Figurines**, better known as **Minifigs**, was a British company which produced metal figurines for wargaming.<sup id="cite_ref-appelcline_1-0" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup>
 
-It released an unlicensed line of Lord of the Rings miniatures in [1973](/wiki/1973) titled *Mythical Earth*.<sup id="cite_ref-appelcline_1-1" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup> This was one of the earliest lines of fantasy miniatures for wargaming. In the August 1973 issue of *Airfix Magazine*, the models were announced plainly as “Middle Earth” figures and sent as such to the magazine.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+It released an unlicensed line of Lord of the Rings miniatures in [1973](../_/1973.md) titled *Mythical Earth*.<sup id="cite_ref-appelcline_1-1" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup> This was one of the earliest lines of fantasy miniatures for wargaming. In the August 1973 issue of *Airfix Magazine*, the models were announced plainly as “Middle Earth” figures and sent as such to the magazine.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-The American company [Heritage Models](/wiki/Heritage_Models) began as an importer of MiniFigs miniatures.<sup id="cite_ref-appelcline_1-2" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup>
+The American company [Heritage Models](../H/Heritage_Models.md) began as an importer of MiniFigs miniatures.<sup id="cite_ref-appelcline_1-2" class="reference"><a href="#cite_note-appelcline-1">[1]</a></sup>
 
 ## External links {#External_links}
 

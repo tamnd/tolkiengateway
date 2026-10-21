@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angren"
 ---
 
-Redirect to [Angren](/wiki/Angren).
+Redirect to [Angren](../A/Angren.md).

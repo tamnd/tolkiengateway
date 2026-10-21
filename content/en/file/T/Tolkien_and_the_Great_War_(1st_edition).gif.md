@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and the Great War (1st edition).gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and the Great War (1st edition).gif</span>"
 page_id: 6934
 namespace: 6
 revision_id: 214731

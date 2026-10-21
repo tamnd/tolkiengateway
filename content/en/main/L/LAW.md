@@ -1,6 +1,5 @@
 ---
 title: "LAW"
-display_title: "<span class=\"mw-page-title-main\">LAW</span>"
 page_id: 32141
 namespace: 0
 revision_id: 405602
@@ -13,40 +12,40 @@ categories:
   - "Roots"
 ---
 
-**LAW** (also appearing in the extended form **LAWAR**) is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") signifying the golden colour.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**LAW** (also appearing in the extended form **LAWAR**) is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying the golden colour.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Derivatives {#Derivatives}
 
-- [Common Eldarin](/wiki/Common_Eldarin): *lawā* ("growing, blooming...used for a sun-year")
-    - [Quenya](/wiki/Quenya): *löa* ("growing, blooming...used for a sun-year")
+- [Common Eldarin](../C/Common_Eldarin.md): *lawā* ("growing, blooming...used for a sun-year")
+    - [Quenya](../Q/Quenya.md): *löa* ("growing, blooming...used for a sun-year")
 
-- [Sindarin](/wiki/Sindarin): *glaw-* ("sunshine")
+- [Sindarin](../S/Sindarin.md): *glaw-* ("sunshine")
 
-- [Quenya](/wiki/Quenya): *löar*, *lávar* ("(golden) blossom"); *[laure](/wiki/Laur%C3%AB "Laurë")* ("golden colour of sunshine or golden flowers")
-- [Sindarin](/wiki/Sindarin): *glawar*, *glaur-*
+- [Quenya](../Q/Quenya.md): *löar*, *lávar* ("(golden) blossom"); *[laure](Laurë.md)* ("golden colour of sunshine or golden flowers")
+- [Sindarin](../S/Sindarin.md): *glawar*, *glaur-*
 
 ## Other versions {#Other_versions}
 
 In the *Qenya Lexicon* appear the roots LAURE ("gold") and LAWA ("have life...but used of a vegetable").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-In the *[Etymologies](/wiki/The_Etymologies "The Etymologies")* appears the roots LÁWAR- ([Noldorin](/wiki/Noldorin) alteration: GLÁWAR-), from which derives Primitive Quendian \**laurē* ("(light of the golden Tree *[Laurelin](/wiki/Laurelin)*) gold \[the colour, cf. [SMAL](/wiki/SMAL)\]".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+In the *[Etymologies](../T/The_Etymologies.md)* appears the roots LÁWAR- ([Noldorin](../N/Noldorin.md) alteration: GLÁWAR-), from which derives Primitive Quendian \**laurē* ("(light of the golden Tree *[Laurelin](Laurelin.md)*) gold \[the colour, cf. [SMAL](../S/SMAL.md)\]".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## See also {#See_also}
 
-- [MALAT](/wiki/MALAT)
-- [SMAL](/wiki/SMAL)
+- [MALAT](../M/MALAT.md)
+- [SMAL](../S/SMAL.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 159 (roots appearing as &#34;√LAW-&#34; and &#34;LAWAR-&#34;)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 159 (roots appearing as &#34;√LAW-&#34; and &#34;LAWAR-&#34;)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="../P/Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, pp. 358, 368</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, pp. 358, 368</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 26</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 26</span>
 </li>
 </ol></div>

@@ -18,19 +18,19 @@ images:
   - "Rayner_Unwin_28_December_1953.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Rayner_Unwin_28_December_1953.png"><img src="/w/images/thumb/5/54/Rayner_Unwin_28_December_1953.png/300px-Rayner_Unwin_28_December_1953.png" decoding="async" loading="lazy" width="300" height="287" class="mw-file-element" srcset="/w/images/5/54/Rayner_Unwin_28_December_1953.png 1.5x" data-file-width="334" data-file-height="320"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rayner_Unwin_28_December_1953.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/Rayner_Unwin_28_December_1953.png/300px-Rayner_Unwin_28_December_1953.png" decoding="async" loading="lazy" width="300" height="287" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/54/Rayner_Unwin_28_December_1953.png 1.5x" data-file-width="334" data-file-height="320"/></a><figcaption></figcaption></figure>
 
-On [28 December](/wiki/28_December) [1953](/wiki/1953), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Rayner Unwin](/wiki/Rayner_Unwin)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
+On [28 December](../_/28_December.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Rayner Unwin](../R/Rayner_Unwin.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
 
-- **Subject:** Arrangements for a visit to [Allen &amp; Unwin](/wiki/Allen_and_Unwin "Allen and Unwin") at <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Museum Street</a> the [following day](/wiki/29_December "29 December").
-- **Publication:** A reproduction of the postcard appears in *[Treasures from the Misty Mountains: A Collector's Guide to Tolkien](/wiki/Treasures_from_the_Misty_Mountains "Treasures from the Misty Mountains")* (p. 126). Selected quotes appear in *[The J.R.R. Tolkien Companion and Guide: I. Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")* (p. 420).
+- **Subject:** Arrangements for a visit to [Allen &amp; Unwin](../A/Allen_and_Unwin.md) at <a class="extiw" href="http://en.wikipedia.org/wiki/Museum_Street" title="wikipedia:Museum Street">Museum Street</a> the [following day](../_/29_December.md).
+- **Publication:** A reproduction of the postcard appears in *[Treasures from the Misty Mountains: A Collector's Guide to Tolkien](../T/Treasures_from_the_Misty_Mountains.md)* (p. 126). Selected quotes appear in *[The J.R.R. Tolkien Companion and Guide: I. Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (p. 420).
 
 ## See also {#See_also}
 
-- [Letter to Rayner Unwin (12 May 1955)](</wiki/Letter_to_Rayner_Unwin_(12_May_1955)>)
-- [Letter to Rayner Unwin (23 May 1961)](</wiki/Letter_to_Rayner_Unwin_(23_May_1961)>)
-- [Letter to Rayner Unwin (25 April 1966)](</wiki/Letter_to_Rayner_Unwin_(25_April_1966)>)
-- [Letter to Rayner Unwin (12 October 1972)](</wiki/Letter_to_Rayner_Unwin_(12_October_1972)>)
+- [Letter to Rayner Unwin (12 May 1955)](<Letter_to_Rayner_Unwin_(12_May_1955).md>)
+- [Letter to Rayner Unwin (23 May 1961)](<Letter_to_Rayner_Unwin_(23_May_1961).md>)
+- [Letter to Rayner Unwin (25 April 1966)](<Letter_to_Rayner_Unwin_(25_April_1966).md>)
+- [Letter to Rayner Unwin (12 October 1972)](<Letter_to_Rayner_Unwin_(12_October_1972).md>)
 
 <span></span>
 
@@ -38,8 +38,8 @@ On [28 December](/wiki/28_December) [1953](/wiki/1953), [J.R.R. Tolkien](/wiki/J
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 420</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 420</span>
 </li>
-<li id="cite_note-TB-2"><span class="mw-cite-backlink"><a href="#cite_ref-TB_2-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=72170" rel="noreferrer noopener" target="_blank">&#34;Treasures from the Misty Mountains. 2001&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 7 February 2012</span></cite></span>
+<li id="cite_note-TB-2"><span class="mw-cite-backlink"><a href="#cite_ref-TB_2-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=72170" rel="noreferrer noopener" target="_blank">&#34;Treasures from the Misty Mountains. 2001&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 7 February 2012</span></cite></span>
 </li>
 </ol></div>

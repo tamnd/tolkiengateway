@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kemen (The Rings of Power)"
 ---
 
-Redirect to [Kemen (The Rings of Power)](/wiki/Kemen_(The_Rings_of_Power)).
+Redirect to [Kemen (The Rings of Power)](<Kemen_(The_Rings_of_Power).md>).

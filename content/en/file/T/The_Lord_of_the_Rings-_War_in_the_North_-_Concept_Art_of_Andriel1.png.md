@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- War in the North - Concept Art of Andriel1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- War in the North - Concept Art of Andriel1.png</span>"
 page_id: 37551
 namespace: 6
 revision_id: 180271
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of [Andriel](/wiki/Andriel) for [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Concept art of [Andriel](../../main/A/Andriel.md) for [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Licensing {#Licensing}
 

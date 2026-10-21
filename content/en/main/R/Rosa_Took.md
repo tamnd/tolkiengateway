@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rosa Baggins"
 ---
 
-Redirect to [Rosa Baggins](/wiki/Rosa_Baggins).
+Redirect to [Rosa Baggins](Rosa_Baggins.md).

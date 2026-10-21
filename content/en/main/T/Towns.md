@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Cities, towns and villages"
 ---
 
-Redirect to [Category:Cities, towns and villages](/wiki/Category:Cities,_towns_and_villages).
+Redirect to [Category:Cities, towns and villages](../../category/C/Cities,_towns_and_villages.md).

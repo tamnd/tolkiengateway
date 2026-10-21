@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with non-numeric formatnum arguments"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with non-numeric formatnum arguments</span>"
 page_id: 69205
 namespace: 14
 revision_id: 413498

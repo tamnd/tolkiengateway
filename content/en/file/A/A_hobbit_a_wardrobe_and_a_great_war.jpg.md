@@ -1,6 +1,5 @@
 ---
 title: "File:A hobbit a wardrobe and a great war.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A hobbit a wardrobe and a great war.jpg</span>"
 page_id: 50467
 namespace: 6
 revision_id: 271975

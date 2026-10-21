@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Struggle for the Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Struggle for the Ring.jpg</span>"
 page_id: 71600
 namespace: 6
 revision_id: 426885
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"Struggle for [the Ring](/wiki/The_One_Ring "The One Ring")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"Struggle for [the Ring](../../main/T/The_One_Ring.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

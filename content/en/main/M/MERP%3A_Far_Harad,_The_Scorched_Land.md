@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Far Harad: The Scorched Land"
 ---
 
-Redirect to [Far Harad: The Scorched Land](/wiki/Far_Harad:_The_Scorched_Land).
+Redirect to [Far Harad: The Scorched Land](../F/Far_Harad%253A_The_Scorched_Land.md).

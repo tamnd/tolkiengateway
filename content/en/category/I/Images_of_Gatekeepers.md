@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Gatekeepers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Gatekeepers</span>"
 page_id: 13024
 namespace: 14
 revision_id: 361001

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Gardner"
 ---
 
-Redirect to [Frodo Gardner](/wiki/Frodo_Gardner).
+Redirect to [Frodo Gardner](../F/Frodo_Gardner.md).

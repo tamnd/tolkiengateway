@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valar and Maiar"
 ---
 
-Redirect to [Valar and Maiar](/wiki/Valar_and_Maiar).
+Redirect to [Valar and Maiar](../V/Valar_and_Maiar.md).

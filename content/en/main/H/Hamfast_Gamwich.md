@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hamfast of Gamwich"
 ---
 
-Redirect to [Hamfast of Gamwich](/wiki/Hamfast_of_Gamwich).
+Redirect to [Hamfast of Gamwich](Hamfast_of_Gamwich.md).

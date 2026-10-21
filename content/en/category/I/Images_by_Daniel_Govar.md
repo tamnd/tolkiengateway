@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Daniel Govar"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Daniel Govar</span>"
 page_id: 7466
 namespace: 14
 revision_id: 181965
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Govar, Daniel"
 ---
 
-This category lists all **images by [Daniel Govar](/wiki/Daniel_Govar)**.
+This category lists all **images by [Daniel Govar](../../main/D/Daniel_Govar.md)**.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telain"
 ---
 
-Redirect to [Telain](/wiki/Telain).
+Redirect to [Telain](../T/Telain.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf and the Finnsburg Fragment (1940).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf and the Finnsburg Fragment (1940).jpg</span>"
 page_id: 28787
 namespace: 6
 revision_id: 213979

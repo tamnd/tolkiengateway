@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Gondor: The Land"
 ---
 
-Redirect to [Southern Gondor: The Land](/wiki/Southern_Gondor:_The_Land).
+Redirect to [Southern Gondor: The Land](../S/Southern_Gondor%253A_The_Land.md).

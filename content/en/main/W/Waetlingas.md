@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wætlingas"
 ---
 
-Redirect to [Wætlingas](/wiki/Wætlingas).
+Redirect to [Wætlingas](Wætlingas.md).

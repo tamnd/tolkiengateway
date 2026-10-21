@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Barrow Wights.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Barrow Wights.png</span>"
 page_id: 70771
 namespace: 6
 revision_id: 435541
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barrow-wights](/wiki/Barrow-wights) as seen in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*
+[Barrow-wights](../../main/B/Barrow-wights.md) as seen in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*
 
 ## Licensing {#Licensing}
 

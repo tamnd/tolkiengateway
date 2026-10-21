@@ -1,6 +1,5 @@
 ---
 title: "File:Frodo-and-Sam-sail-away.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frodo-and-Sam-sail-away.jpg</span>"
 page_id: 66452
 namespace: 6
 revision_id: 383835

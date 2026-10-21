@@ -1,6 +1,5 @@
 ---
 title: "Category:Proudfoot"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Proudfoot</span>"
 page_id: 9902
 namespace: 14
 revision_id: 435968
@@ -13,4 +12,4 @@ categories:
   - "Hobbit families"
 ---
 
-All the [Proudfoots](/wiki/Proudfoot_Family "Proudfoot Family") - or should we say: Proud**feet** - of [the Shire](/wiki/The_Shire "The Shire").
+All the [Proudfoots](../../main/P/Proudfoot_Family.md) - or should we say: Proud**feet** - of [the Shire](../../main/T/The_Shire.md).

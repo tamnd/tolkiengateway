@@ -1,6 +1,5 @@
 ---
 title: "File:One Ring to Bind Them All (1979).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">One Ring to Bind Them All (1979).jpg</span>"
 page_id: 26960
 namespace: 6
 revision_id: 214320

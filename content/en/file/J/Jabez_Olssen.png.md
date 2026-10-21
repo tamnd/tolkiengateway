@@ -1,6 +1,5 @@
 ---
 title: "File:Jabez Olssen.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jabez Olssen.png</span>"
 page_id: 36719
 namespace: 6
 revision_id: 174851

@@ -15,4 +15,4 @@ sort_keys:
   "Quenya adjectives": "Rucima"
 ---
 
-**Rúcima** is the [Quenya](/wiki/Quenya) word for *dreadful*. The plural form is *rúcimë*.
+**Rúcima** is the [Quenya](../Q/Quenya.md) word for *dreadful*. The plural form is *rúcimë*.

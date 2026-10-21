@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirror of Galadriel"
 ---
 
-Redirect to [Mirror of Galadriel](/wiki/Mirror_of_Galadriel).
+Redirect to [Mirror of Galadriel](../M/Mirror_of_Galadriel.md).

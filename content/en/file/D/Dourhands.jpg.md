@@ -1,6 +1,5 @@
 ---
 title: "File:Dourhands.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dourhands.jpg</span>"
 page_id: 36085
 namespace: 6
 revision_id: 318836
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gormr Doursmith](/wiki/Gormr_Doursmith) and two [Dourhands](/wiki/Dourhands) in the Ered Luin Introduction.
+[Gormr Doursmith](../../main/G/Gormr_Doursmith.md) and two [Dourhands](../../main/D/Dourhands.md) in the Ered Luin Introduction.
 
 ## Licensing {#Licensing}
 

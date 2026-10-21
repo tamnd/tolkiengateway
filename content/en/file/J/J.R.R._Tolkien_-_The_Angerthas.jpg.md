@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Angerthas.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Angerthas.jpg</span>"
 page_id: 67878
 namespace: 6
 revision_id: 397958
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Angerthas" table, included in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, [Appendix E](/wiki/Appendix_E), (ii) "the cirth".
+"The Angerthas" table, included in *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, [Appendix E](../../main/A/Appendix_E.md), (ii) "the cirth".
 
 ## Licensing {#Licensing}
 

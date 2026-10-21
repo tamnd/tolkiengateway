@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Joan O. Falconer"
 ---
 
-Redirect to [Letter to Joan O. Falconer](/wiki/Letter_to_Joan_O._Falconer).
+Redirect to [Letter to Joan O. Falconer](../L/Letter_to_Joan_O._Falconer.md).

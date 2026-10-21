@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien (son of Telimektar)"
 ---
 
-Redirect to [Lúthien (son of Telimektar)](/wiki/Lúthien_(son_of_Telimektar)).
+Redirect to [Lúthien (son of Telimektar)](<Lúthien_(son_of_Telimektar).md>).

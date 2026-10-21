@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annúnaid"
 ---
 
-Redirect to [Annúnaid](/wiki/Annúnaid).
+Redirect to [Annúnaid](Annúnaid.md).

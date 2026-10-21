@@ -1,6 +1,5 @@
 ---
 title: "File:LOTR&TTT.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTR&amp;TTT.png</span>"
 page_id: 32234
 namespace: 6
 revision_id: 248580

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ruamórë"
 ---
 
-Redirect to [Ruamórë](/wiki/Ruamórë).
+Redirect to [Ruamórë](Ruamórë.md).

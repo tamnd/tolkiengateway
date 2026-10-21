@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Ring of Thrór.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Ring of Thrór.png</span>"
 page_id: 73817
 namespace: 6
 revision_id: 436058
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Hobbit - The Desolation of Smaug - Ring of Thrór.png</span></th>
 <td class="description">
-<p><a href="/wiki/Ring_of_Thr%C3%B3r" title="Ring of Thrór">The Ring of Thrór</a> on <a href="/wiki/Thr%C3%A1in" title="Thráin">Thráin</a>&#39;s finger during <a href="/wiki/Battle_of_Azanulbizar" title="Battle of Azanulbizar">the Battle of Azanulbizar</a> from <i><a href="/wiki/The_Hobbit:_The_Desolation_of_Smaug" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>
+<p><a href="../../main/R/Ring_of_Thrór.md" title="Ring of Thrór">The Ring of Thrór</a> on <a href="../../main/T/Thráin.md" title="Thráin">Thráin</a>&#39;s finger during <a href="../../main/B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">the Battle of Azanulbizar</a> from <i><a href="../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/13_December" title="13 December">13 December</a> <a href="/wiki/2013" title="2013">2013</a></td>
+<td><a href="../../main/_/13_December.md" title="13 December">13 December</a> <a href="../../main/_/2013.md" title="2013">2013</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Hobbit:_The_Desolation_of_Smaug" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i></td>
+<td><i><a href="../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

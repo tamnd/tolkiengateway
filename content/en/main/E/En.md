@@ -13,23 +13,23 @@ categories:
   - "Sindarin articles"
 ---
 
-<i><b>en</b></i> is a [Sindarin](/wiki/Sindarin) genitival article, usually meaning "of the".
+<i><b>en</b></i> is a [Sindarin](../S/Sindarin.md) genitival article, usually meaning "of the".
 
 It is probably a combination of the determiner *i* and *na*, "with, by".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Dor-en-Ernil](/wiki/Dor-en-Ernil)
-- [Haudh-en-Ndengin](/wiki/Hill_of_the_Slain "Hill of the Slain")
-- [Cabed-en-Aras](/wiki/Cabed-en-Aras)
-- [Methed-en-glad](/wiki/Methed-en-glad)
-- [Taur-e-Ndaedelos](/wiki/Taur-e-Ndaedelos)
+- [Dor-en-Ernil](../D/Dor-en-Ernil.md)
+- [Haudh-en-Ndengin](../H/Hill_of_the_Slain.md)
+- [Cabed-en-Aras](../C/Cabed-en-Aras.md)
+- [Methed-en-glad](../M/Methed-en-glad.md)
+- [Taur-e-Ndaedelos](../T/Taur-e-Ndaedelos.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Didier_Willis" title="Didier Willis">Didier Willis</a> (ed.)</span>. <span class="cite-web-article"><a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">&#34;Hiswelókë&#39;s Sindarin dictionary&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.jrrvf.com/hisweloke/" rel="noreferrer noopener" target="_blank">Hiswelókë</a></span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a> (ed.)</span>. <span class="cite-web-article"><a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">&#34;Hiswelókë&#39;s Sindarin dictionary&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.jrrvf.com/hisweloke/" rel="noreferrer noopener" target="_blank">Hiswelókë</a></span></cite></span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Gwaihir LOTRO.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gwaihir LOTRO.jpg</span>"
 page_id: 29407
 namespace: 6
 revision_id: 169568
@@ -24,7 +23,7 @@ file:
   user: "Pinkkeith"
 ---
 
-[Gwaihir](/wiki/Gwaihir) at [Galadriel](/wiki/Galadriel)'s garden in [Lothlórien](/wiki/Lothl%C3%B3rien).
+[Gwaihir](../../main/G/Gwaihir.md) at [Galadriel](../../main/G/Galadriel.md)'s garden in [Lothlórien](../../main/L/Lothlórien.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.turbine.com/" rel="noreferrer noopener" target="_blank">Turbine</a>. It is believed that the limited use of this file,

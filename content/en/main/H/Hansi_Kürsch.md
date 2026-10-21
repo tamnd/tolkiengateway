@@ -1,6 +1,5 @@
 ---
 title: "Hansi Kürsch"
-display_title: "<span class=\"mw-page-title-main\">Hansi Kürsch</span>"
 page_id: 38442
 namespace: 0
 revision_id: 187033
@@ -21,7 +20,7 @@ sort_keys:
   "Singers": "Kursch, Hansi"
 ---
 
-**Hans Jürgen Kürsch**, better known as Hansi Kürsch (born [August 10](/wiki/10_August "10 August"), [1966](/wiki/1966) in Lank-Latum, Germany) is a German musician, the lead vocalist and lyricist of the [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired power metal band [Blind Guardian](/wiki/Blind_Guardian). Together with André Olbrich, he is also the principal songwriter for the band.
+**Hans Jürgen Kürsch**, better known as Hansi Kürsch (born [August 10](../_/10_August.md), [1966](../_/1966.md) in Lank-Latum, Germany) is a German musician, the lead vocalist and lyricist of the [Tolkien](../J/J.R.R._Tolkien.md)-inspired power metal band [Blind Guardian](../B/Blind_Guardian.md). Together with André Olbrich, he is also the principal songwriter for the band.
 
 ## External links {#External_links}
 

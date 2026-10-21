@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Loback - The Wedding of Tuor and Idril.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Loback - The Wedding of Tuor and Idril.jpg</span>"
 page_id: 58311
 namespace: 6
 revision_id: 321108

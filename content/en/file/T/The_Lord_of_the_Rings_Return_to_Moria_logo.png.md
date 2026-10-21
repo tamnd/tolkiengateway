@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Return to Moria logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Return to Moria logo.png</span>"
 page_id: 63357
 namespace: 6
 revision_id: 359901
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The official logo for [The Lord of the Rings: Return to Moria](/wiki/The_Lord_of_the_Rings:_Return_to_Moria).
+The official logo for [The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md).
 
 ## Licensing {#Licensing}
 

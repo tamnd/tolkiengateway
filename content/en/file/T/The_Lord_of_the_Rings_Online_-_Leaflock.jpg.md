@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Leaflock.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Leaflock.jpg</span>"
 page_id: 43805
 namespace: 6
 revision_id: 355293
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Leaflock](/wiki/Leaflock) from *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+[Leaflock](../../main/L/Leaflock.md) from *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

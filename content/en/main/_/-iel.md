@@ -1,6 +1,5 @@
 ---
 title: "-iel"
-display_title: "<span class=\"mw-page-title-main\">-iel</span>"
 page_id: 17714
 namespace: 0
 revision_id: 277457
@@ -17,17 +16,17 @@ sort_keys:
   "Quenya suffixes": "iel"
 ---
 
-<i><b>-iel</b></i> is a feminine patronymic suffix in [Elvish](/wiki/Elvish) [languages](/wiki/Languages "Languages").
+<i><b>-iel</b></i> is a feminine patronymic suffix in [Elvish](../E/Elvish.md) [languages](../L/Languages.md).
 
 ## Examples {#Examples}
 
-- **[Uinéniel](/wiki/Uin%C3%A9niel)** = "Daughter of Uinen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **[Uinéniel](../U/Uinéniel.md)** = "Daughter of Uinen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, p. 168</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, p. 168</span>
 </li>
 </ol></div>

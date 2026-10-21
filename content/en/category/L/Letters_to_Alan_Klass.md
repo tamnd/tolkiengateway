@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Alan Klass"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Alan Klass</span>"
 page_id: 68706
 namespace: 14
 revision_id: 408875
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Klass, Alan"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Alan_Klass&amp;action=edit&amp;redlink=1" title="Alan Klass (page does not exist)">Alan Klass</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alan_Klass&amp;action=edit&amp;redlink=1" title="Alan Klass (page does not exist)">Alan Klass</a>.

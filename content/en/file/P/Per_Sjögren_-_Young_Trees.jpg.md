@@ -1,6 +1,5 @@
 ---
 title: "File:Per Sjögren - Young Trees.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Per Sjögren - Young Trees.jpg</span>"
 page_id: 13794
 namespace: 6
 revision_id: 188264
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Per Sjögren</li>
 <li><b>Website:</b> <a class="external text" href="http://perkan-arts.com" rel="noreferrer noopener" target="_blank">Per Sjögren&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Per_Sj%C3%B6gren" title="Tolkien Gateway:Copyrights/Per Sjögren">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPer_Sjögren.md" title="Tolkien Gateway:Copyrights/Per Sjögren">Permission for use on Tolkien Gateway</a></b></li></ul></div>

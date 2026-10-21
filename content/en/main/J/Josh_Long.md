@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Josh B. Long"
 ---
 
-Redirect to [Josh B. Long](/wiki/Josh_B._Long).
+Redirect to [Josh B. Long](Josh_B._Long.md).

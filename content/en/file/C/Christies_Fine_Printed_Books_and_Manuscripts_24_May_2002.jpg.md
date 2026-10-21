@@ -1,6 +1,5 @@
 ---
 title: "File:Christies Fine Printed Books and Manuscripts 24 May 2002.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christies Fine Printed Books and Manuscripts 24 May 2002.jpg</span>"
 page_id: 26667
 namespace: 6
 revision_id: 224722

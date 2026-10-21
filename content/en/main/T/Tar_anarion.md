@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Anárion"
 ---
 
-Redirect to [Tar-Anárion](/wiki/Tar-Anárion).
+Redirect to [Tar-Anárion](Tar-Anárion.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harding (disambiguation)"
 ---
 
-Redirect to [Harding (disambiguation)](/wiki/Harding_(disambiguation)).
+Redirect to [Harding (disambiguation)](<Harding_(disambiguation).md>).

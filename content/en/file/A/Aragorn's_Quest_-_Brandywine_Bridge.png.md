@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Brandywine Bridge.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Brandywine Bridge.png</span>"
 page_id: 72129
 namespace: 6
 revision_id: 429034
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[King](/wiki/King_of_Gondor "King of Gondor") [Elessar](/wiki/Aragorn "Aragorn") and [Samwise Gamgee](/wiki/Samwise_Gamgee) on the [Brandywine Bridge](/wiki/Brandywine_Bridge)
+[King](../../main/K/King_of_Gondor.md) [Elessar](../../main/A/Aragorn.md) and [Samwise Gamgee](../../main/S/Samwise_Gamgee.md) on the [Brandywine Bridge](../../main/B/Brandywine_Bridge.md)
 
 ## Licensing {#Licensing}
 

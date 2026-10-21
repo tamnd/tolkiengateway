@@ -1,6 +1,5 @@
 ---
 title: "Annals of Arda"
-display_title: "<span class=\"mw-page-title-main\">Annals of Arda</span>"
 page_id: 23162
 namespace: 0
 revision_id: 85493
@@ -13,11 +12,11 @@ categories:
   - "Encyclopedia websites"
 ---
 
-The **Annals of Arda** is a Family Tree and Encyclopedia website started around [2000](/wiki/2000). It was all made by a single person based in Denmark.
+The **Annals of Arda** is a Family Tree and Encyclopedia website started around [2000](../_/2000.md). It was all made by a single person based in Denmark.
 
 It was designed to make possible to find any information about any object, place, name, event and/or relationship. There were categories titles **Valar, Maiar, Elves, Humans, Dwarves, Hobbits, Orcs, Others, Objects, Battles, Maps, Places** and **Misc**.
 
-The last major updates were made in 2005. After that, there were some recent updates concerning the website code, and some disclaimers about the website copyright, the *[Children of Húrin](/wiki/Children_of_H%C3%BArin)*, and that the webmaster won't be able to resume work in the same pace.
+The last major updates were made in 2005. After that, there were some recent updates concerning the website code, and some disclaimers about the website copyright, the *[Children of Húrin](../C/Children_of_Húrin.md)*, and that the webmaster won't be able to resume work in the same pace.
 
 ## External links {#External_links}
 

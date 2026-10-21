@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Belladonna Took.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Belladonna Took.jpg</span>"
 page_id: 71097
 namespace: 6
 revision_id: 424643
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Belladonna Took](/wiki/Belladonna_Took) - *[The Lord of the Rings Tarot](/wiki/The_Lord_of_the_Rings_Tarot)*
+[Belladonna Took](../../main/B/Belladonna_Took.md) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)*
 
 ## Licensing {#Licensing}
 

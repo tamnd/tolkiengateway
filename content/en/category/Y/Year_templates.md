@@ -1,6 +1,5 @@
 ---
 title: "Category:Year templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Year templates</span>"
 page_id: 28299
 namespace: 14
 revision_id: 162254
@@ -13,4 +12,4 @@ categories:
   - "Calendars and events templates"
 ---
 
-Templates in this category provide shortcuts for linking to in-universe years ("[F.A.](/wiki/First_Age "First Age") [496](/wiki/First_Age_496 "First Age 496")", "[T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019")", etc.).
+Templates in this category provide shortcuts for linking to in-universe years ("[F.A.](../../main/F/First_Age.md) [496](../../main/F/First_Age_496.md)", "[T.A.](../../main/T/Third_Age.md) [3019](../../main/T/Third_Age_3019.md)", etc.).

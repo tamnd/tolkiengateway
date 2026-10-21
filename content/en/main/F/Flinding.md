@@ -11,4 +11,4 @@ redirect_target: "Gwindor"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Gwindor](/wiki/Gwindor#Other_versions_of_the_legendarium).
+Redirect to [Gwindor](../G/Gwindor.md#Other_versions_of_the_legendarium).

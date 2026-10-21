@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sceptre of Annúminas"
 ---
 
-Redirect to [Sceptre of Annúminas](/wiki/Sceptre_of_Annúminas).
+Redirect to [Sceptre of Annúminas](Sceptre_of_Annúminas.md).

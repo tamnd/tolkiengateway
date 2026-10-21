@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glen GoodKnight"
 ---
 
-Redirect to [Glen GoodKnight](/wiki/Glen_GoodKnight).
+Redirect to [Glen GoodKnight](Glen_GoodKnight.md).

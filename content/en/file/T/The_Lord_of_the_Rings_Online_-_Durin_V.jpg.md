@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Durin V.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Durin V.jpg</span>"
 page_id: 64152
 namespace: 6
 revision_id: 369605

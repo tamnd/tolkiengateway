@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with short description"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with short description</span>"
 page_id: 69190
 namespace: 14
 revision_id: 413291

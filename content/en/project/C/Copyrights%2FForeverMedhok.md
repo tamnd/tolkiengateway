@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/ForeverMedhok"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/ForeverMedhok</span>"
 page_id: 53801
 namespace: 4
 revision_id: 292245
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "ForeverMedhok"
 ---
 
-- ForeverMedhok has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_ForeverMedhok "Category:Images by ForeverMedhok") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- ForeverMedhok has kindly granted her permission to use [her artwork](../../category/I/Images_by_ForeverMedhok.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 February 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

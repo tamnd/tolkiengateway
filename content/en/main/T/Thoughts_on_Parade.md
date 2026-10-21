@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Swallow, and the Traveller on the Plains"
 ---
 
-Redirect to [The Swallow, and the Traveller on the Plains](/wiki/The_Swallow,_and_the_Traveller_on_the_Plains).
+Redirect to [The Swallow, and the Traveller on the Plains](The_Swallow,_and_the_Traveller_on_the_Plains.md).

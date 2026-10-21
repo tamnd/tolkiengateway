@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "James Branch Cabell"
 ---
 
-Redirect to [James Branch Cabell](/wiki/James_Branch_Cabell).
+Redirect to [James Branch Cabell](../J/James_Branch_Cabell.md).

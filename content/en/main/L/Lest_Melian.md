@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Girdle of Melian"
 ---
 
-Redirect to [Girdle of Melian](/wiki/Girdle_of_Melian).
+Redirect to [Girdle of Melian](../G/Girdle_of_Melian.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Electronic Arts"
 ---
 
-Redirect to [Electronic Arts](/wiki/Electronic_Arts).
+Redirect to [Electronic Arts](Electronic_Arts.md).

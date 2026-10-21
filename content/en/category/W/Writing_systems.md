@@ -1,6 +1,5 @@
 ---
 title: "Category:Writing systems"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Writing systems</span>"
 page_id: 19968
 namespace: 14
 revision_id: 92748

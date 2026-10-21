@@ -1,6 +1,5 @@
 ---
 title: "Rodrigo Machado"
-display_title: "<span class=\"mw-page-title-main\">Rodrigo Machado</span>"
 page_id: 62342
 namespace: 0
 revision_id: 407120
@@ -17,11 +16,11 @@ sort_keys:
   "People by name": "Machado, Rodrigo"
 ---
 
-**Rodrigo Machado** is an artist who has created illustrations based on the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). Their focus is creatures and characters using the digital medium.
+**Rodrigo Machado** is an artist who has created illustrations based on the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Their focus is creatures and characters using the digital medium.
 
 ## See also {#See_also}
 
-- [Images by Rodrigo Machado](/wiki/Category:Images_by_Rodrigo_Machado "Category:Images by Rodrigo Machado").
+- [Images by Rodrigo Machado](../../category/I/Images_by_Rodrigo_Machado.md).
 
 ## External links {#External_links}
 

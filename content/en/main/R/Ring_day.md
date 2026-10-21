@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cormarë"
 ---
 
-Redirect to [Cormarë](/wiki/Cormarë).
+Redirect to [Cormarë](../C/Cormarë.md).

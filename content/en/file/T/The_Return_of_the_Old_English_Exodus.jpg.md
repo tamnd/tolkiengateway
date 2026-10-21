@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Reprint of the Old English Exodus.jpg"
 ---
 
-Redirect to [File:The Reprint of the Old English Exodus.jpg](/wiki/File:The_Reprint_of_the_Old_English_Exodus.jpg).
+Redirect to [File:The Reprint of the Old English Exodus.jpg](The_Reprint_of_the_Old_English_Exodus.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "Leonard Nimoy"
-display_title: "<span class=\"mw-page-title-main\">Leonard Nimoy</span>"
 page_id: 15214
 namespace: 0
 revision_id: 406207
@@ -24,9 +23,9 @@ langlinks:
     url: "https://kontu.wiki/Leonard_Nimoy"
 ---
 
-**Leonard Simon Nimoy** ([March 26](/wiki/26_March "26 March"), [1931](/wiki/1931) - [February 27](/wiki/27_February "27 February"), [2015](/wiki/2015)) was an American actor, film director, poet, musician and photographer. He is best well known for having played the character *Mr. Spock* in the Star Trek series and films.
+**Leonard Simon Nimoy** ([March 26](../_/26_March.md), [1931](../_/1931.md) - [February 27](../_/27_February.md), [2015](../_/2015.md)) was an American actor, film director, poet, musician and photographer. He is best well known for having played the character *Mr. Spock* in the Star Trek series and films.
 
-He recorded "*[The Ballad of Bilbo Baggins](/wiki/The_Ballad_of_Bilbo_Baggins)*" as part of his 1968 *Two Sides of Leonard Nimoy* album, recount the storyline of *[The Hobbit](/wiki/The_Hobbit)* in two minutes. The ballad's music video became a minor Internet meme in the early 2000s when [*The Lord of the Rings* movies](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") were released.
+He recorded "*[The Ballad of Bilbo Baggins](../T/The_Ballad_of_Bilbo_Baggins.md)*" as part of his 1968 *Two Sides of Leonard Nimoy* album, recount the storyline of *[The Hobbit](../T/The_Hobbit.md)* in two minutes. The ballad's music video became a minor Internet meme in the early 2000s when [*The Lord of the Rings* movies](<../T/The_Lord_of_the_Rings_(film_series).md>) were released.
 
 ## External links {#External_links}
 

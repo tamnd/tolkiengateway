@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to James S. Marsh - 29 December 1966.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to James S. Marsh - 29 December 1966.jpg</span>"
 page_id: 62419
 namespace: 6
 revision_id: 352259

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Pascal Yung"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Pascal Yung</span>"
 page_id: 29876
 namespace: 14
 revision_id: 182122

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ferny Family"
 ---
 
-Redirect to [Ferny Family](/wiki/Ferny_Family).
+Redirect to [Ferny Family](Ferny_Family.md).

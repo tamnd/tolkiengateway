@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Melkor seduces Mairon (Sauron).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Melkor seduces Mairon (Sauron).png</span>"
 page_id: 52256
 namespace: 6
 revision_id: 284882
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-The [Vala](/wiki/Valar "Valar"), [Melkor](/wiki/Morgoth "Morgoth")'s seduction of the [Maia](/wiki/Maiar "Maiar"), [Mairon](/wiki/Sauron "Sauron").
+The [Vala](../../main/V/Valar.md), [Melkor](../../main/M/Morgoth.md)'s seduction of the [Maia](../../main/M/Maiar.md), [Mairon](../../main/S/Sauron.md).
 
-"It had been his \[Mairon’s\] virtue (and therefore also the cause of his fall . . .) that he loved order and coordination, and disliked all confusion and wasteful friction.” And, “it was the apparent will and power of Melkor to effect his designs quickly and masterfully that had first attracted Sauron to him.” - *[Morgoth's Ring](/wiki/Morgoth%27s_Ring)* p. 396
+"It had been his \[Mairon’s\] virtue (and therefore also the cause of his fall . . .) that he loved order and coordination, and disliked all confusion and wasteful friction.” And, “it was the apparent will and power of Melkor to effect his designs quickly and masterfully that had first attracted Sauron to him.” - *[Morgoth's Ring](../../main/M/Morgoth's_Ring.md)* p. 396
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ The [Vala](/wiki/Valar "Valar"), [Melkor](/wiki/Morgoth "Morgoth")'s seduction o
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

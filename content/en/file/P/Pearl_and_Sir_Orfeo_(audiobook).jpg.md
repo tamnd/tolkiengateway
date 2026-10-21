@@ -1,6 +1,5 @@
 ---
 title: "File:Pearl and Sir Orfeo (audiobook).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pearl and Sir Orfeo (audiobook).jpg</span>"
 page_id: 40638
 namespace: 6
 revision_id: 214916

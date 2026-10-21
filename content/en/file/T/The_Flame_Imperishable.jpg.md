@@ -1,6 +1,5 @@
 ---
 title: "File:The Flame Imperishable.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Flame Imperishable.jpg</span>"
 page_id: 56068
 namespace: 6
 revision_id: 305127

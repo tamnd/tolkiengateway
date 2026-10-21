@@ -1,6 +1,5 @@
 ---
 title: "Paris Paloma"
-display_title: "<span class=\"mw-page-title-main\">Paris Paloma</span>"
 page_id: 69047
 namespace: 0
 revision_id: 435433
@@ -17,7 +16,7 @@ sort_keys:
   "Singers": "Paloma, Paris"
 ---
 
-**Paris Paloma** is a singer-songwriter from Derbyshire, England. She wrote the original single <a class="new" href="/w/index.php?title=The_Rider_(From_%22The_Lord_Of_The_Rings:_The_War_Of_The_Rohirrim%22)&amp;action=edit&amp;redlink=1" title="The Rider (From &#34;The Lord Of The Rings: The War Of The Rohirrim&#34;) (page does not exist)">The Rider</a> for [the soundtrack](</wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack)> "The Lord of the Rings: The War of the Rohirrim (Original Motion Picture Soundtrack)") for [The Lord of the Rings: The War of the Rohirrim](/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Paris Paloma** is a singer-songwriter from Derbyshire, England. She wrote the original single <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Rider_(From_%22The_Lord_Of_The_Rings:_The_War_Of_The_Rohirrim%22)&amp;action=edit&amp;redlink=1" title="The Rider (From &#34;The Lord Of The Rings: The War Of The Rohirrim&#34;) (page does not exist)">The Rider</a> for [the soundtrack](<../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>) for [The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 

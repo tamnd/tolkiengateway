@@ -1,6 +1,5 @@
 ---
 title: "Troy Baker"
-display_title: "<span class=\"mw-page-title-main\">Troy Baker</span>"
 page_id: 56323
 namespace: 0
 revision_id: 430136
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Baker, Troy"
 ---
 
-**Troy Baker** ([April 1](/wiki/1_April "1 April"), [1976](/wiki/1976)) is an accomplished voice actor and actor with many video game and television credits.
+**Troy Baker** ([April 1](../_/1_April.md), [1976](../_/1976.md)) is an accomplished voice actor and actor with many video game and television credits.
 
 ## Roles {#Roles}
 
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - [Talion](/wiki/Talion)
-- [2017](/wiki/2017): *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)* - [Talion](/wiki/Talion)
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - [Talion](Talion.md)
+- [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Talion](Talion.md)
 
 ## External links {#External_links}
 

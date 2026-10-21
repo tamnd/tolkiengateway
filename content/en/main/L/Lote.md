@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lótë"
 ---
 
-Redirect to [Lótë](/wiki/Lótë).
+Redirect to [Lótë](Lótë.md).

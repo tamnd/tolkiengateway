@@ -1,6 +1,5 @@
 ---
 title: "File:ToastedBuckwheat - Fëanor and Fingolfin in Valinor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">ToastedBuckwheat - Fëanor and Fingolfin in Valinor.jpg</span>"
 page_id: 59747
 namespace: 6
 revision_id: 341247
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> ToastedBuckwheat</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/toastedbuckwheat/" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/toastedbuckwheat/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/ToastedBuckwheat" title="Tolkien Gateway:Copyrights/ToastedBuckwheat">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FToastedBuckwheat.md" title="Tolkien Gateway:Copyrights/ToastedBuckwheat">Permission for use on Tolkien Gateway</a></b></li></ul></div>

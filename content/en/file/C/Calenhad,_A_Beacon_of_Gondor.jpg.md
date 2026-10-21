@@ -1,6 +1,5 @@
 ---
 title: "File:Calenhad, A Beacon of Gondor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Calenhad, A Beacon of Gondor.jpg</span>"
 page_id: 29540
 namespace: 6
 revision_id: 350639

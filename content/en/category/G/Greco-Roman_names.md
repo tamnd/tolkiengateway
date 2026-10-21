@@ -1,6 +1,5 @@
 ---
 title: "Category:Greco-Roman names"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Greco-Roman names</span>"
 page_id: 40733
 namespace: 14
 revision_id: 206910
@@ -13,6 +12,6 @@ categories:
   - "Names"
 ---
 
-This category lists all **Greco-Roman names**. Although [Tolkien](/wiki/Tolkien) used names of [Germanic](/wiki/Germanic) origin in his narrative to render names related to [Westron](/wiki/Westron) and its wider family, it was not uncommon to use names of Latin origin, some of them in turn derived from ancient Greek. Furthermore, he made use of medieval French, Italian or Spanish names (hence the category is named "Greco-Roman" instead of "Greco-Latin").
+This category lists all **Greco-Roman names**. Although [Tolkien](../../main/T/Tolkien.md) used names of [Germanic](../../main/G/Germanic.md) origin in his narrative to render names related to [Westron](../../main/W/Westron.md) and its wider family, it was not uncommon to use names of Latin origin, some of them in turn derived from ancient Greek. Furthermore, he made use of medieval French, Italian or Spanish names (hence the category is named "Greco-Roman" instead of "Greco-Latin").
 
 These names refer usually to flowers of jewels.

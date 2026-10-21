@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Mirkwood Archer.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Mirkwood Archer.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Dínendal_-_Mirkwood_Archer.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Mirkwood Archer.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Dínendal_-_Mirkwood_Archer.jpg.md).

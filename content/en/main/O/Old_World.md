@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elder Days"
 ---
 
-Redirect to [Elder Days](/wiki/Elder_Days).
+Redirect to [Elder Days](../E/Elder_Days.md).

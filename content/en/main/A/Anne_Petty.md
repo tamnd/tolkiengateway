@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anne C. Petty"
 ---
 
-Redirect to [Anne C. Petty](/wiki/Anne_C._Petty).
+Redirect to [Anne C. Petty](Anne_C._Petty.md).

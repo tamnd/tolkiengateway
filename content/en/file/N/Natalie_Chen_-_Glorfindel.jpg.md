@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Glorfindel.jpg</span>"
 page_id: 56312
 namespace: 6
 revision_id: 434666
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Glorfindel](/wiki/Glorfindel), lord of the [House of the Golden Flower](/wiki/House_of_the_Golden_Flower), by Natalie Chen.
+Image of [Glorfindel](../../main/G/Glorfindel.md), lord of the [House of the Golden Flower](../../main/H/House_of_the_Golden_Flower.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ Image of [Glorfindel](/wiki/Glorfindel), lord of the [House of the Golden Flower
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

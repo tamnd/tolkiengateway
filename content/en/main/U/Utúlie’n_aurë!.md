@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Utúlie'n aurë!"
 ---
 
-Redirect to [Utúlie'n aurë!](/wiki/Utúlie'n_aurë!).
+Redirect to [Utúlie'n aurë!](Utúlie'n_aurë!.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Sting.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Sting.JPG</span>"
 page_id: 27003
 namespace: 6
 revision_id: 238128
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sting](/wiki/Sting) as it appears in [The Hobbit (1977 film)](</wiki/The_Hobbit_(1977_film)>).
+[Sting](../../main/S/Sting.md) as it appears in [The Hobbit (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 ## Licensing {#Licensing}
 

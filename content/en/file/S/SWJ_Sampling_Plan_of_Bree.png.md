@@ -1,6 +1,5 @@
 ---
 title: "File:SWJ Sampling Plan of Bree.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SWJ Sampling Plan of Bree.png</span>"
 page_id: 74885
 namespace: 6
 revision_id: 440631

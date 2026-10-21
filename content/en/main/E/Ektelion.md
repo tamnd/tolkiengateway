@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ecthelion"
 ---
 
-Redirect to [Ecthelion](/wiki/Ecthelion).
+Redirect to [Ecthelion](Ecthelion.md).

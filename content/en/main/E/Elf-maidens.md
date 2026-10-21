@@ -1,6 +1,5 @@
 ---
 title: "Elf-maidens"
-display_title: "<span class=\"mw-page-title-main\">Elf-maidens</span>"
 page_id: 14853
 namespace: 0
 revision_id: 326555
@@ -13,11 +12,11 @@ categories:
   - "Elves"
 ---
 
-**Elf-maidens** are mentioned only in a song sung by the [Elves](/wiki/Elves) of [Rivendell](/wiki/Rivendell) when [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") stopped there on his way home from his adventures in the [Quest of Erebor](/wiki/Quest_of_Erebor). The term was used to describe un-married elves.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Elf-maidens** are mentioned only in a song sung by the [Elves](Elves.md) of [Rivendell](../R/Rivendell.md) when [Bilbo](../B/Bilbo_Baggins.md) stopped there on his way home from his adventures in the [Quest of Erebor](../Q/Quest_of_Erebor.md). The term was used to describe un-married elves.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/The_Last_Stage" title="The Last Stage">The Last Stage</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../T/The_Last_Stage.md" title="The Last Stage">The Last Stage</a>&#34;</span>
 </li>
 </ol></div>

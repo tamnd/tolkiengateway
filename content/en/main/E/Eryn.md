@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>eryn</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "forest" or "woods".
+<i><b>eryn</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "forest" or "woods".
 
 ## Examples {#Examples}
 
-- *[Eryn Lasgalen](/wiki/Eryn_Lasgalen)*
-- *[Eryn Vorn](/wiki/Eryn_Vorn)*
+- *[Eryn Lasgalen](Eryn_Lasgalen.md)*
+- *[Eryn Vorn](Eryn_Vorn.md)*
 
 ## See also {#See_also}
 
-- Sindarin *[orn](/wiki/Orn "Orn")*
-- Sindarin *[oron](/wiki/Oron "Oron")*
+- Sindarin *[orn](../O/Orn.md)*
+- Sindarin *[oron](../O/Oron.md)*

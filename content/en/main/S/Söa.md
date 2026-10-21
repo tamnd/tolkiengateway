@@ -11,4 +11,4 @@ redirect_target: "SAWA"
 redirect_fragment: "Derivatives"
 ---
 
-Redirect to [SAWA](/wiki/SAWA#Derivatives).
+Redirect to [SAWA](SAWA.md#Derivatives).

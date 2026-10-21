@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Castamir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Castamir.jpg</span>"
 page_id: 29846
 namespace: 6
 revision_id: 203312

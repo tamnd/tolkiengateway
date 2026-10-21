@@ -1,6 +1,5 @@
 ---
 title: "File:The Keys of Middle-earth 2015.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Keys of Middle-earth 2015.jpg</span>"
 page_id: 66006
 namespace: 6
 revision_id: 380319

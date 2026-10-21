@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fragment of an alliterative Lay of Eärendel"
 ---
 
-Redirect to [Fragment of an alliterative Lay of Eärendel](/wiki/Fragment_of_an_alliterative_Lay_of_Eärendel).
+Redirect to [Fragment of an alliterative Lay of Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md).

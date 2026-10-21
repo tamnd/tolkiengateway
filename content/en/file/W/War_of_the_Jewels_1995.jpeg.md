@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Jewels 1995.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Jewels 1995.jpeg</span>"
 page_id: 62168
 namespace: 6
 revision_id: 350939

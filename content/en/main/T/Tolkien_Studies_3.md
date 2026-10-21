@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 3"
 ---
 
-Redirect to [Tolkien Studies: Volume 3](/wiki/Tolkien_Studies:_Volume_3).
+Redirect to [Tolkien Studies: Volume 3](Tolkien_Studies%253A_Volume_3.md).

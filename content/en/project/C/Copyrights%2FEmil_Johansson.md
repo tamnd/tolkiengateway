@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Emil Johansson"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Emil Johansson</span>"
 page_id: 41648
 namespace: 4
 revision_id: 211775
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Johansson, Emil"
 ---
 
-- Emil Johansson has kindly given [Tolkien Gateway](/wiki/Tolkien_Gateway) his permission to use [his photographs from The Return of the Ring](/wiki/Category:Images_from_The_Return_of_the_Ring "Category:Images from The Return of the Ring").
+- Emil Johansson has kindly given [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) his permission to use [his photographs from The Return of the Ring](../../category/I/Images_from_The_Return_of_the_Ring.md).
 - Date: 21 September 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

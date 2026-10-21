@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perian"
 ---
 
-Redirect to [Perian](/wiki/Perian).
+Redirect to [Perian](Perian.md).

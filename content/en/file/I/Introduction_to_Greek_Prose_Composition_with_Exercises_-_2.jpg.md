@@ -1,6 +1,5 @@
 ---
 title: "File:Introduction to Greek Prose Composition with Exercises - 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Introduction to Greek Prose Composition with Exercises - 2.jpg</span>"
 page_id: 42063
 namespace: 6
 revision_id: 220354

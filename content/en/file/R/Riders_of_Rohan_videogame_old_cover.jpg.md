@@ -1,6 +1,5 @@
 ---
 title: "File:Riders of Rohan videogame old cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Riders of Rohan videogame old cover.jpg</span>"
 page_id: 27556
 namespace: 6
 revision_id: 248573

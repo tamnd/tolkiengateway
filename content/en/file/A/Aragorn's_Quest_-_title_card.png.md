@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - title card.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - title card.png</span>"
 page_id: 22813
 namespace: 6
 revision_id: 224964
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Title card of *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*. From the E3 trailer, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
+Title card of *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*. From the E3 trailer, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

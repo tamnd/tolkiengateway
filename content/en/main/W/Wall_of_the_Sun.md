@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walls of the Sun"
 ---
 
-Redirect to [Walls of the Sun](/wiki/Walls_of_the_Sun).
+Redirect to [Walls of the Sun](Walls_of_the_Sun.md).

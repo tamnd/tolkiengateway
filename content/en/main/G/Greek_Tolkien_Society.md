@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ellinikós Sýllogos Philon Tólkin"
 ---
 
-Redirect to [Ellinikós Sýllogos Philon Tólkin](/wiki/Ellinikós_Sýllogos_Philon_Tólkin).
+Redirect to [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md).

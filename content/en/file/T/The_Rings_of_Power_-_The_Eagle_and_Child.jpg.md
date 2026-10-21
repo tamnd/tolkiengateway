@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - The Eagle and Child.jpg"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - The Eagle and Child.jpg](/wiki/File:The_Rings_of_Power_(TV_series)_-_The_Eagle_and_Child.jpg).
+Redirect to [File:The Rings of Power (TV series) - The Eagle and Child.jpg](<The_Rings_of_Power_(TV_series)_-_The_Eagle_and_Child.jpg.md>).

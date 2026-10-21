@@ -18,9 +18,9 @@ images:
   - "H._Cotton_Minchin_14_November_1962.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:H._Cotton_Minchin_14_November_1962.jpg"><img src="/w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/300px-H._Cotton_Minchin_14_November_1962.jpg" decoding="async" loading="lazy" width="300" height="373" class="mw-file-element" srcset="/w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/450px-H._Cotton_Minchin_14_November_1962.jpg 1.5x, /w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/600px-H._Cotton_Minchin_14_November_1962.jpg 2x" data-file-width="720" data-file-height="896"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/H._Cotton_Minchin_14_November_1962.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/300px-H._Cotton_Minchin_14_November_1962.jpg" decoding="async" loading="lazy" width="300" height="373" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/450px-H._Cotton_Minchin_14_November_1962.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/H._Cotton_Minchin_14_November_1962.jpg/600px-H._Cotton_Minchin_14_November_1962.jpg 2x" data-file-width="720" data-file-height="896"/></a><figcaption></figcaption></figure>
 
-On [14 November](/wiki/14_November) [1962](/wiki/1962), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to H. Cotton Minchin**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-C_2-0" class="reference"><a href="#cite_note-C-2">[2]</a></sup>
+On [14 November](../_/14_November.md) [1962](../_/1962.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to H. Cotton Minchin**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-C_2-0" class="reference"><a href="#cite_note-C-2">[2]</a></sup>
 
 - **Description:** Typed letter, signed, 1 page, 4to<sup id="cite_ref-C_2-1" class="reference"><a href="#cite_note-C-2">[2]</a></sup>
 
@@ -32,8 +32,8 @@ He also mentions his latest book--*The Adventures of Tom Bombadil* (1962) "which
 
 ## See also {#See_also}
 
-- [Letter to H. Cotton Minchin (16 April 1956)](</wiki/Letter_to_H._Cotton_Minchin_(16_April_1956)>)
-- [Letter 187](/wiki/Letter_187)
+- [Letter to H. Cotton Minchin (16 April 1956)](<Letter_to_H._Cotton_Minchin_(16_April_1956).md>)
+- [Letter 187](Letter_187.md)
 
 <span></span>
 
@@ -41,7 +41,7 @@ He also mentions his latest book--*The Adventures of Tom Bombadil* (1962) "which
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 600</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 600</span>
 </li>
 <li id="cite_note-C-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-C_2-0">2.0</a></sup> <sup><a href="#cite_ref-C_2-1">2.1</a></sup> <sup><a href="#cite_ref-C_2-2">2.2</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?from=searchresults&amp;intObjectID=5455392&amp;sid=5085fa12-4386-4276-8468-2a55a539d736" rel="noreferrer noopener" target="_blank">Sale 2456 / Lot 315</a> at <a class="external text" href="http://www.christies.com/" rel="noreferrer noopener" target="_blank">Christies.com</a> (accessed 29 June 2011)</span>
 </li>

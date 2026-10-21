@@ -1,6 +1,5 @@
 ---
 title: "File:Toward the Gleam.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Toward the Gleam.jpeg</span>"
 page_id: 66459
 namespace: 6
 revision_id: 384169
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Toward the Gleam](/wiki/Toward_the_Gleam)* by T.M. Doran.
+Cover of *[Toward the Gleam](../../main/T/Toward_the_Gleam.md)* by T.M. Doran.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Argonath.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Argonath.png</span>"
 page_id: 71549
 namespace: 6
 revision_id: 426656
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Argonath](/wiki/Argonath) - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+The [Argonath](../../main/A/Argonath.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

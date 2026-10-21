@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Card Game - Thorin Oakenshield.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Card Game - Thorin Oakenshield.jpg</span>"
 page_id: 71902
 namespace: 6
 revision_id: 428198

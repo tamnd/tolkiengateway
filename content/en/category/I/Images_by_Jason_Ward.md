@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jason Ward"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jason Ward</span>"
 page_id: 72790
 namespace: 14
 revision_id: 431434
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Ward, Jason"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Jason_Ward&amp;action=edit&amp;redlink=1" title="Jason Ward (page does not exist)">Jason Ward</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Ward&amp;action=edit&amp;redlink=1" title="Jason Ward (page does not exist)">Jason Ward</a></b>.

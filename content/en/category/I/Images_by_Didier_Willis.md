@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Didier Willis"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Didier Willis</span>"
 page_id: 45691
 namespace: 14
 revision_id: 270877
@@ -17,4 +16,4 @@ sort_keys:
   "Maps by cartographer": "Willis, Didier"
 ---
 
-This category lists all **images by [Didier Willis](/wiki/Didier_Willis)**.
+This category lists all **images by [Didier Willis](../../main/D/Didier_Willis.md)**.

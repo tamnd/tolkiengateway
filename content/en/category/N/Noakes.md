@@ -1,6 +1,5 @@
 ---
 title: "Category:Noakes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Noakes</span>"
 page_id: 30223
 namespace: 14
 revision_id: 435965

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vardamir"
 ---
 
-Redirect to [Vardamir](/wiki/Vardamir).
+Redirect to [Vardamir](../V/Vardamir.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Original research"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Original research</span>"
 page_id: 32921
 namespace: 4
 revision_id: 295457
@@ -13,23 +12,23 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Original research** refers to claims in articles for which no published source exists. While editors on Tolkien Gateway foremostly are encouraged to cite sources for claims in articles (see [Help:References](/wiki/Help:References)), a limited amount of original research may be used for theories or assumptions:
+**Original research** refers to claims in articles for which no published source exists. While editors on Tolkien Gateway foremostly are encouraged to cite sources for claims in articles (see [Help:References](../../help/R/References.md)), a limited amount of original research may be used for theories or assumptions:
 
 - when an unreferenced claim has a clear scholarly value for the subject in question
 - when an unreferenced claim is especially useful or interesting for the subject in question
 - when an unreferenced claim has been deduced from logical reasoning, such as calculations of dates, sizes, numbers, astronomical phenomena, or deducing of ancient linguistic forms.
 
-Anything beyond these circumstances may border on [fanon](/wiki/Fanon "Fanon") and subsequently be removed.
+Anything beyond these circumstances may border on [fanon](../../main/F/Fanon.md) and subsequently be removed.
 
 If original research is added to or found in an article, appropriate wording must make clear that the claim made is only an approximation, or a possibility.
 
 ## Policy {#Policy}
 
-It must be noted that [Tolkien Gateway](/wiki/Tolkien_Gateway) differentiates from Wikipedia's <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:No_original_research" title="wikipedia:Wikipedia:No original research">No original research</a> policy by *not forbidding* "Original research" per se. Of course, if a written source is eventually found to back up a previously unreferenced claim, that source should be included and 'fill the gap'. The same must be also if a written source supercedes or obsoletes such an unreferenced theory.
+It must be noted that [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) differentiates from Wikipedia's <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:No_original_research" title="wikipedia:Wikipedia:No original research">No original research</a> policy by *not forbidding* "Original research" per se. Of course, if a written source is eventually found to back up a previously unreferenced claim, that source should be included and 'fill the gap'. The same must be also if a written source supercedes or obsoletes such an unreferenced theory.
 
 ## Original research and fanon {#Original_research_and_fanon}
 
-"Original research" can qualify as [Tolkienology](/wiki/Tolkienology) and is not the same as "[fanon](/wiki/Fanon "Fanon")". Fanon refers to totally original elements, radical (or even arbitrary) theories, and personal or subjective interpretations of the stories. Fanon is **not** to be included in articles.
+"Original research" can qualify as [Tolkienology](../../main/T/Tolkienology.md) and is not the same as "[fanon](../../main/F/Fanon.md)". Fanon refers to totally original elements, radical (or even arbitrary) theories, and personal or subjective interpretations of the stories. Fanon is **not** to be included in articles.
 
 For example, mentioning a "reasonable" number of casualties in a battle, whereas none is mentioned or suggested in Tolkien's text, constitutes as fanon.
 
@@ -37,6 +36,6 @@ Deciding whether something is acceptable original research or fanon, is a matter
 
 ## See also {#See_also}
 
-- [Asterisk (\*)](/wiki/* "*")
-- [Fanon](/wiki/Fanon) vs. [Tolkienology](/wiki/Tolkienology)
+- [Asterisk (\*)](../../main/_/%252A.md)
+- [Fanon](../../main/F/Fanon.md) vs. [Tolkienology](../../main/T/Tolkienology.md)
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:No_original_research" title="wikipedia:Wikipedia:No original research">Wikipedia:No original research</a>

@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin Release Party"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin Release Party</span>"
 page_id: 14621
 namespace: 0
 revision_id: 407413
@@ -16,58 +15,58 @@ images:
   - "The_Children_of_Hurin_Release_Party_logo.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Children_of_Hurin_Release_Party_logo.jpg"><img src="/w/images/thumb/4/49/The_Children_of_Hurin_Release_Party_logo.jpg/350px-The_Children_of_Hurin_Release_Party_logo.jpg" decoding="async" loading="lazy" width="350" height="106" class="mw-file-element" srcset="/w/images/4/49/The_Children_of_Hurin_Release_Party_logo.jpg 1.5x" data-file-width="463" data-file-height="140"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Children_of_Hurin_Release_Party_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/The_Children_of_Hurin_Release_Party_logo.jpg/350px-The_Children_of_Hurin_Release_Party_logo.jpg" decoding="async" loading="lazy" width="350" height="106" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/49/The_Children_of_Hurin_Release_Party_logo.jpg 1.5x" data-file-width="463" data-file-height="140"/></a><figcaption></figcaption></figure>
 
-**The Children of Húrin Release Party** was an online event which took place around the release date of *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*. The party was located on [irc.tolkiengateway.net](/wiki/Tolkien_Gateway:Chat "Tolkien Gateway:Chat"). It was organized by Tolkien Gateway and TolkienLibrary.com.
+**The Children of Húrin Release Party** was an online event which took place around the release date of *[The Children of Húrin](The_Children_of_Húrin.md)*. The party was located on [irc.tolkiengateway.net](../../project/C/Chat.md). It was organized by Tolkien Gateway and TolkienLibrary.com.
 
 ## Prizes That Were Given Out {#Prizes_That_Were_Given_Out}
 
-- 3 Deluxe editions of *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)* signed by [Alan Lee](/wiki/Alan_Lee) and [Christopher Tolkien](/wiki/Christopher_Tolkien) - donated by [HarperCollins](/wiki/HarperCollins).
-- 2 *The Lord of the Rings* 3 volume slip cased sets signed by [Alan Lee](/wiki/Alan_Lee) - donated by <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a> and [Houghton Mifflin](/wiki/Houghton_Mifflin)
-- *[The Lord of the Rings Sketchbook](/wiki/The_Lord_of_the_Rings_Sketchbook)* signed by [Alan Lee](/wiki/Alan_Lee) ­ donated by [Houghton Mifflin](/wiki/Houghton_Mifflin)
-- *The Hobbit* signed by [Alan Lee](/wiki/Alan_Lee) - donated by <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>
-- 2 one year memberships to [The Tolkien Society](/wiki/The_Tolkien_Society) - donated by [The Tolkien Society](/wiki/The_Tolkien_Society)
+- 3 Deluxe editions of *[The Children of Húrin](The_Children_of_Húrin.md)* signed by [Alan Lee](../A/Alan_Lee.md) and [Christopher Tolkien](../C/Christopher_Tolkien.md) - donated by [HarperCollins](../H/HarperCollins.md).
+- 2 *The Lord of the Rings* 3 volume slip cased sets signed by [Alan Lee](../A/Alan_Lee.md) - donated by <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a> and [Houghton Mifflin](../H/Houghton_Mifflin.md)
+- *[The Lord of the Rings Sketchbook](The_Lord_of_the_Rings_Sketchbook.md)* signed by [Alan Lee](../A/Alan_Lee.md) ­ donated by [Houghton Mifflin](../H/Houghton_Mifflin.md)
+- *The Hobbit* signed by [Alan Lee](../A/Alan_Lee.md) - donated by <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>
+- 2 one year memberships to [The Tolkien Society](The_Tolkien_Society.md) - donated by [The Tolkien Society](The_Tolkien_Society.md)
 - A silver replica of either the Ring of Barahir or Nenya ­ donated by <a class="external text" href="http://www.tolkienshop.com" rel="noreferrer noopener" target="_blank">Tolkienshop.com</a>
-- *[Beowulf and the Critics](/wiki/Beowulf_and_the_Critics)* signed by [Michael D.C. Drout](/wiki/Michael_D.C._Drout) - donated by [Michael D.C. Drout](/wiki/Michael_D.C._Drout)
-- 2 copies of *[The Company They Keep](/wiki/The_Company_They_Keep)* signed by [Diana Glyer](/wiki/Diana_Glyer) - donated by [Diana Glyer](/wiki/Diana_Glyer) and Josh B. Long
-- The Lord of the Rings Trivia game, signed by Angie Gardner and [Ted Nasmith](/wiki/Ted_Nasmith) - donated by <a class="external text" href="http://www.daerons.co.uk/" rel="noreferrer noopener" target="_blank">Daerons.co.uk</a>
-- 2 copies of *[A Tolkienian Mathomium](/wiki/A_Tolkienian_Mathomium)* signed by [Mark T. Hooker](/wiki/Mark_T._Hooker) - donated by [Mark T. Hooker](/wiki/Mark_T._Hooker)
-- 2 copies of *Tolkien through Russian Eyes* signed by [Mark T. Hooker](/wiki/Mark_T._Hooker) - donated by [Mark T. Hooker](/wiki/Mark_T._Hooker)
-- *The Hobbit* Russian translation - donated by [Mark T. Hooker](/wiki/Mark_T._Hooker)
-- 2 copies of In de Ban van de Hobbit signed by [Johan Vanhecke](/wiki/Johan_Vanhecke) donated by [Johan Vanhecke](/wiki/Johan_Vanhecke)
-- A print of *The Dragon's Lair* signed by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt) - donated by <a class="external text" href="http://www.tolkienguide.com" rel="noreferrer noopener" target="_blank">TolkienGuide.com</a>
-- A print of *The Fellowship* signed by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt) - donated by <a class="external text" href="http://www.tolkienguide.com" rel="noreferrer noopener" target="_blank">TolkienGuide.com</a>
+- *[Beowulf and the Critics](../B/Beowulf_and_the_Critics.md)* signed by [Michael D.C. Drout](../M/Michael_D.C._Drout.md) - donated by [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
+- 2 copies of *[The Company They Keep](The_Company_They_Keep.md)* signed by [Diana Glyer](../D/Diana_Glyer.md) - donated by [Diana Glyer](../D/Diana_Glyer.md) and Josh B. Long
+- The Lord of the Rings Trivia game, signed by Angie Gardner and [Ted Nasmith](Ted_Nasmith.md) - donated by <a class="external text" href="http://www.daerons.co.uk/" rel="noreferrer noopener" target="_blank">Daerons.co.uk</a>
+- 2 copies of *[A Tolkienian Mathomium](../A/A_Tolkienian_Mathomium.md)* signed by [Mark T. Hooker](../M/Mark_T._Hooker.md) - donated by [Mark T. Hooker](../M/Mark_T._Hooker.md)
+- 2 copies of *Tolkien through Russian Eyes* signed by [Mark T. Hooker](../M/Mark_T._Hooker.md) - donated by [Mark T. Hooker](../M/Mark_T._Hooker.md)
+- *The Hobbit* Russian translation - donated by [Mark T. Hooker](../M/Mark_T._Hooker.md)
+- 2 copies of In de Ban van de Hobbit signed by [Johan Vanhecke](../J/Johan_Vanhecke.md) donated by [Johan Vanhecke](../J/Johan_Vanhecke.md)
+- A print of *The Dragon's Lair* signed by [The Brothers Hildebrandt](The_Brothers_Hildebrandt.md) - donated by <a class="external text" href="http://www.tolkienguide.com" rel="noreferrer noopener" target="_blank">TolkienGuide.com</a>
+- A print of *The Fellowship* signed by [The Brothers Hildebrandt](The_Brothers_Hildebrandt.md) - donated by <a class="external text" href="http://www.tolkienguide.com" rel="noreferrer noopener" target="_blank">TolkienGuide.com</a>
 - A mounted print of Inger Edelfeldt's *The Death of Glaurung* - donated by <a class="external text" href="http://www.daerons.co.uk/" rel="noreferrer noopener" target="_blank">Daerons.co.uk</a>
-- A print of *The Gates of Menegroth* signed by [Jef Murray](/wiki/Jef_Murray) ­ donated by [Jef Murray](/wiki/Jef_Murray)
-- A print of *The Bridge Over Narog* signed by [Jef Murray](/wiki/Jef_Murray) ­ donated by Jef Murray
-- A print of *The Seduction of Nienor* signed by [Jef Murray](/wiki/Jef_Murray) ­ donated by [Jef Murray](/wiki/Jef_Murray)
-- A print of *The Bridge of Khazad-Dûm* signed by [James Dunning](/wiki/James_Dunning) donated by [James Dunning](/wiki/James_Dunning)
+- A print of *The Gates of Menegroth* signed by [Jef Murray](../J/Jef_Murray.md) ­ donated by [Jef Murray](../J/Jef_Murray.md)
+- A print of *The Bridge Over Narog* signed by [Jef Murray](../J/Jef_Murray.md) ­ donated by Jef Murray
+- A print of *The Seduction of Nienor* signed by [Jef Murray](../J/Jef_Murray.md) ­ donated by [Jef Murray](../J/Jef_Murray.md)
+- A print of *The Bridge of Khazad-Dûm* signed by [James Dunning](../J/James_Dunning.md) donated by [James Dunning](../J/James_Dunning.md)
 - Two $25 and one $50 gift certificate for Rowns.com - donated by <a class="external text" href="http://www.rowns.com" rel="noreferrer noopener" target="_blank">Rowns.com</a>
-- 5 copies of *The Lord of the Rings Online* game­ - donated by [Houghton Mifflin](/wiki/Houghton_Mifflin)
-- *The Children of Húurin* posters - donated by [Houghton Mifflin](/wiki/Houghton_Mifflin)
-- *The Children of Húrin* bookmarks - donated by [Houghton Mifflin](/wiki/Houghton_Mifflin)
+- 5 copies of *The Lord of the Rings Online* game­ - donated by [Houghton Mifflin](../H/Houghton_Mifflin.md)
+- *The Children of Húurin* posters - donated by [Houghton Mifflin](../H/Houghton_Mifflin.md)
+- *The Children of Húrin* bookmarks - donated by [Houghton Mifflin](../H/Houghton_Mifflin.md)
 - *The Lord of the Rings Online* Open Beta keys
 - And various smaller prizes.
 
 ## Guests {#Guests}
 
-- [Johan Vanhecke](/wiki/Johan_Vanhecke)
-- [Michaël Devaux](/wiki/Micha%C3%ABl_Devaux)
-- [Pieter Collier](/wiki/Pieter_Collier)
-- [David Brawn](/wiki/David_Brawn)
-- [Roger Garland](/wiki/Roger_Garland)
-- [Jef Murray](/wiki/Jef_Murray)
-- [Matt Blessing](/wiki/Matt_Blessing)
-- [Michael D.C. Drout](/wiki/Michael_D.C._Drout)
-- [Mark T. Hooker](/wiki/Mark_T._Hooker)
-- [Verlyn Flieger](/wiki/Verlyn_Flieger)
-- [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y)
-- [James Dunning](/wiki/James_Dunning)
-- [John Garth](/wiki/John_Garth)
-- [Diana Glyer](/wiki/Diana_Glyer)
-- [Jeffrey Steefel](/wiki/Jeffrey_Steefel) (Executive Producer) and [Chris Pierson](/wiki/Chris_Pierson) (Senior Designer), from [Turbine](/wiki/Turbine)
-- [Michael Martinez](/wiki/Michael_Martinez)
-- [Marcel Bülles](/wiki/Marcel_B%C3%BClles)
+- [Johan Vanhecke](../J/Johan_Vanhecke.md)
+- [Michaël Devaux](../M/Michaël_Devaux.md)
+- [Pieter Collier](../P/Pieter_Collier.md)
+- [David Brawn](../D/David_Brawn.md)
+- [Roger Garland](../R/Roger_Garland.md)
+- [Jef Murray](../J/Jef_Murray.md)
+- [Matt Blessing](../M/Matt_Blessing.md)
+- [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
+- [Mark T. Hooker](../M/Mark_T._Hooker.md)
+- [Verlyn Flieger](../V/Verlyn_Flieger.md)
+- [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md)
+- [James Dunning](../J/James_Dunning.md)
+- [John Garth](../J/John_Garth.md)
+- [Diana Glyer](../D/Diana_Glyer.md)
+- [Jeffrey Steefel](../J/Jeffrey_Steefel.md) (Executive Producer) and [Chris Pierson](../C/Chris_Pierson.md) (Senior Designer), from [Turbine](Turbine.md)
+- [Michael Martinez](../M/Michael_Martinez.md)
+- [Marcel Bülles](../M/Marcel_Bülles.md)
 
 ## Activities {#Activities}
 
@@ -80,4 +79,4 @@ images:
 
 ## Schedule {#Schedule}
 
-- **[Schedule](/wiki/The_Children_of_H%C3%BArin_Release_Party/Schedule "The Children of Húrin Release Party/Schedule")**
+- **[Schedule](The_Children_of_Húrin_Release_Party%252FSchedule.md)**

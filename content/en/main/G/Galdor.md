@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (disambiguation)"
 ---
 
-Redirect to [Galdor (disambiguation)](/wiki/Galdor_(disambiguation)).
+Redirect to [Galdor (disambiguation)](<Galdor_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountain-trolls"
 ---
 
-Redirect to [Mountain-trolls](/wiki/Mountain-trolls).
+Redirect to [Mountain-trolls](Mountain-trolls.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Beleriand and its Realms"
 ---
 
-Redirect to [Of Beleriand and its Realms](/wiki/Of_Beleriand_and_its_Realms).
+Redirect to [Of Beleriand and its Realms](Of_Beleriand_and_its_Realms~31103.md).

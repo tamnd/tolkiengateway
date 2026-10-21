@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings War in the North - Beleram.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings War in the North - Beleram.png</span>"
 page_id: 37559
 namespace: 6
 revision_id: 257040

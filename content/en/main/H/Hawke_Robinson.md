@@ -1,6 +1,5 @@
 ---
 title: "Hawke Robinson"
-display_title: "<span class=\"mw-page-title-main\">Hawke Robinson</span>"
 page_id: 27881
 namespace: 0
 revision_id: 370095
@@ -23,7 +22,7 @@ sort_keys:
   "People by name": "Robinson, Hawke"
 ---
 
-**Hawke Robinson** is an avid Tolkien fan since the late 1970s. Robinson has written several articles on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and about gaming in [Arda](/wiki/Arda), and is a central figure in the [Inland Northwest Tolkien Society](/wiki/Inland_Northwest_Tolkien_Society). He organizes, funds and founded the convention [TolkienMoot](/wiki/MerpCon "MerpCon"), founded The Middle-earth Radio, founded and co-edits *[Other Minds](/wiki/Other_Minds)* with [Thomas Morwinsky](/wiki/Thomas_Morwinsky), and is the webmaster of the sites of the afore-mentioned projects. He has also created a fan-based game system for role playing in Tolkien's universe, called Eä RPG. Robinson founded Merp.com in the 1990s before handing it over to be run by an international volunteer community, and also maintains the merp@merp.com email list since the late 1990s (taking over from Mario M. Butter).
+**Hawke Robinson** is an avid Tolkien fan since the late 1970s. Robinson has written several articles on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and about gaming in [Arda](../A/Arda.md), and is a central figure in the [Inland Northwest Tolkien Society](../I/Inland_Northwest_Tolkien_Society.md). He organizes, funds and founded the convention [TolkienMoot](../M/MerpCon.md), founded The Middle-earth Radio, founded and co-edits *[Other Minds](../O/Other_Minds.md)* with [Thomas Morwinsky](../T/Thomas_Morwinsky.md), and is the webmaster of the sites of the afore-mentioned projects. He has also created a fan-based game system for role playing in Tolkien's universe, called Eä RPG. Robinson founded Merp.com in the 1990s before handing it over to be run by an international volunteer community, and also maintains the merp@merp.com email list since the late 1990s (taking over from Mario M. Butter).
 
 Robinson is the founder of the Role Playing Gaming Research Project, which links to the Therapeutic Recreation Department at <a class="extiw" href="http://en.wikipedia.org/wiki/Eastern_Washington_University" title="wikipedia:Eastern Washington University">Eastern Washington University</a>. He lives in <a class="extiw" href="http://en.wikipedia.org/wiki/Spokane,_Washington" title="wikipedia:Spokane, Washington">Spokane, Washington</a>, raising three boys.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -31,17 +30,17 @@ Robinson is the founder of the Role Playing Gaming Research Project, which links
 
 ### Articles {#Articles}
 
-- [2007](/wiki/2007): *[Other Minds 1](/wiki/Other_Minds_1)*
+- [2007](../_/2007.md): *[Other Minds 1](../O/Other_Minds_1.md)*
     - "The Acroteriasm of Other Hands"
     - "The Battle Over Role Playing Gaming"
-- [2008](/wiki/2008): *[Other Minds 2](/wiki/Other_Minds_2)*
+- [2008](../_/2008.md): *[Other Minds 2](../O/Other_Minds_2.md)*
     - "J.R.R. Tolkien's Love of Trees and the Environment"
     - "Uswe Numenorello - Escape From Númenor" \[supplement\]
-- [2008](/wiki/2008): *[Other Minds 3](/wiki/Other_Minds_3)*
+- [2008](../_/2008.md): *[Other Minds 3](../O/Other_Minds_3.md)*
     - "Umbar-dalad ("Under Umbar")" \[supplement\]
-- [2008](/wiki/2008): *[Other Minds 4](/wiki/Other_Minds_4)*
+- [2008](../_/2008.md): *[Other Minds 4](../O/Other_Minds_4.md)*
     - "Whither MerpCon"
-- 2009: *[Other Minds 5](/wiki/Other_Minds_5)*
+- 2009: *[Other Minds 5](../O/Other_Minds_5.md)*
     - "Tolkien's Impact on Beowulf"
 
 ## External links {#External_links}

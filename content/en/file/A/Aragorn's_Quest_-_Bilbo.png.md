@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Bilbo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Bilbo.png</span>"
 page_id: 38606
 namespace: 6
 revision_id: 224961

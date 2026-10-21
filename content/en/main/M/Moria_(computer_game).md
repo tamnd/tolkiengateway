@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria (video game)"
 ---
 
-Redirect to [Moria (video game)](/wiki/Moria_(video_game)).
+Redirect to [Moria (video game)](<Moria_(video_game).md>).

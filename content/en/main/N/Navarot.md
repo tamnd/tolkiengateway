@@ -11,4 +11,4 @@ redirect_target: "Nogrod"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Nogrod](/wiki/Nogrod#Etymology).
+Redirect to [Nogrod](Nogrod.md#Etymology).

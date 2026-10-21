@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 2013.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 2013.jpeg</span>"
 page_id: 62613
 namespace: 6
 revision_id: 416105

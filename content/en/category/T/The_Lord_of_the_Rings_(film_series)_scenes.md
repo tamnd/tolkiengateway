@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings (film series) scenes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) scenes</span>"
 page_id: 42176
 namespace: 14
 revision_id: 346030
@@ -13,4 +12,4 @@ categories:
   - "The Lord of the Rings (film series)"
 ---
 
-This category and its subcategories list all articles relating to <b><a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a> scenes</b>.
+This category and its subcategories list all articles relating to <b><a href="../../main/T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a> scenes</b>.

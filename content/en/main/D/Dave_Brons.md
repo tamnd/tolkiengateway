@@ -1,6 +1,5 @@
 ---
 title: "Dave Brons"
-display_title: "<span class=\"mw-page-title-main\">Dave Brons</span>"
 page_id: 70873
 namespace: 0
 revision_id: 424766
@@ -19,7 +18,7 @@ sort_keys:
   "Singers": "Brons, Dave"
 ---
 
-**Dave Brons** is a Celtic Prog Rock independent musician and guitarist with two [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") related albums with a third one to be released this year according to his website.
+**Dave Brons** is a Celtic Prog Rock independent musician and guitarist with two [Tolkien](../J/J.R.R._Tolkien.md) related albums with a third one to be released this year according to his website.
 
 ## Tolkien Related Discography {#Tolkien_Related_Discography}
 
@@ -113,7 +112,7 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.davebrons.com/about/" rel="noreferrer noopener" target="_blank">&#34;About&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.davebrons.com" rel="noreferrer noopener" target="_blank">www.davebrons.com</a></span>. <span class="cite-web-accessed">Retrieved 20 August 2025</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.davebrons.com/about/" rel="noreferrer noopener" target="_blank">&#34;About&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.davebrons.com" rel="noreferrer noopener" target="_blank">www.davebrons.com</a></span>. <span class="cite-web-accessed">Retrieved 20 August 2025</span></cite></span>
 </li>
 </ol></div>
 

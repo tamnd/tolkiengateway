@@ -1,6 +1,5 @@
 ---
 title: "Category:Hungarian people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hungarian people</span>"
 page_id: 27831
 namespace: 14
 revision_id: 166056

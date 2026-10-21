@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/13 November 2011/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/13 November 2011/Transcript</span>"
 page_id: 36798
 namespace: 4
 revision_id: 202041
@@ -47,8 +46,8 @@ sort_keys:
 [2011-11-13 20:07:12] &lt;Mith&gt; Singulars are easier to link to.<br/>
 [2011-11-13 20:07:39] &lt;Morgan&gt; Why?<br/>
 [2011-11-13 20:07:41] &lt;Ederchil&gt; Agreed<br/>
-[2011-11-13 20:07:44] &lt;Mith&gt; If the article is Hobbits. To say a hobbit you have to do <a href="/wiki/Hobbits" title="Hobbits">hobbit</a>, or hobbits you do &#34;<a href="/wiki/Hobbits" title="Hobbits">hobbits</a> of course.<br/>
-[2011-11-13 20:08:06] &lt;Mith&gt; If the article is Hobbit. To say hobbit you have to do just <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">hobbit</a>, or to do hobbits you just do &#34;<a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">hobbits</a>&#34;<br/>
+[2011-11-13 20:07:44] &lt;Mith&gt; If the article is Hobbits. To say a hobbit you have to do <a href="../../main/H/Hobbits.md" title="Hobbits">hobbit</a>, or hobbits you do &#34;<a href="../../main/H/Hobbits.md" title="Hobbits">hobbits</a> of course.<br/>
+[2011-11-13 20:08:06] &lt;Mith&gt; If the article is Hobbit. To say hobbit you have to do just <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">hobbit</a>, or to do hobbits you just do &#34;<a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">hobbits</a>&#34;<br/>
 [2011-11-13 20:08:10] &lt;Morgan&gt; I see<br/>
 [2011-11-13 20:09:04] &lt;Mith&gt; My whole thing rests on that<br/>
 [2011-11-13 20:09:26] &lt;Morgan&gt; But if people want to know something about Hobbits, they search for &#34;Hobbits&#34;, rather than &#34;Hobbit&#34; (generally speaking), right?<br/>

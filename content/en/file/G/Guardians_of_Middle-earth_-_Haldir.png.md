@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Haldir.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Haldir.png</span>"
 page_id: 71437
 namespace: 6
 revision_id: 426027
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Haldir](/wiki/Haldir) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Haldir](../../main/H/Haldir.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

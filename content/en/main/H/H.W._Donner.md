@@ -1,6 +1,5 @@
 ---
 title: "H.W. Donner"
-display_title: "<span class=\"mw-page-title-main\">H.W. Donner</span>"
 page_id: 37395
 namespace: 0
 revision_id: 245764
@@ -21,9 +20,9 @@ sort_keys:
   "People by name": "Donner, H.W."
 ---
 
-**Heinrich Wolfgang Donner** ([1904](/wiki/1904)-[1980](/wiki/1980)), born in <a class="extiw" href="http://en.wikipedia.org/wiki/Helsinki" title="wikipedia:Helsinki">Helsinki</a> and educated at the [University of Oxford](/wiki/University_of_Oxford) (B. Litt. 1932, D.Phil. in 1934), was Professor of English at the <a class="extiw" href="http://en.wikipedia.org/wiki/%C3%85bo_Akademi_University" title="wikipedia:Åbo Akademi University">Åbo Akademi University</a> from [1937](/wiki/1937) to [1951](/wiki/1951), and held the chair of English Literature at <a class="extiw" href="http://en.wikipedia.org/wiki/Uppsala_University" title="wikipedia:Uppsala University">Uppsala University</a> from [1951](/wiki/1951) to his retirement in [1966](/wiki/1966).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Heinrich Wolfgang Donner** ([1904](../_/1904.md)-[1980](../_/1980.md)), born in <a class="extiw" href="http://en.wikipedia.org/wiki/Helsinki" title="wikipedia:Helsinki">Helsinki</a> and educated at the [University of Oxford](../U/University_of_Oxford.md) (B. Litt. 1932, D.Phil. in 1934), was Professor of English at the <a class="extiw" href="http://en.wikipedia.org/wiki/%C3%85bo_Akademi_University" title="wikipedia:Åbo Akademi University">Åbo Akademi University</a> from [1937](../_/1937.md) to [1951](../_/1951.md), and held the chair of English Literature at <a class="extiw" href="http://en.wikipedia.org/wiki/Uppsala_University" title="wikipedia:Uppsala University">Uppsala University</a> from [1951](../_/1951.md) to his retirement in [1966](../_/1966.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-In [1960](/wiki/1960), [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") is known to have written [a letter](/wiki/Letter_to_H.W._Donner "Letter to H.W. Donner") to Donner.<sup id="cite_ref-Abo_2-0" class="reference"><a href="#cite_note-Abo-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+In [1960](../_/1960.md), [Tolkien](../J/J.R.R._Tolkien.md) is known to have written [a letter](../L/Letter_to_H.W._Donner.md) to Donner.<sup id="cite_ref-Abo_2-0" class="reference"><a href="#cite_note-Abo-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## References {#References}
 

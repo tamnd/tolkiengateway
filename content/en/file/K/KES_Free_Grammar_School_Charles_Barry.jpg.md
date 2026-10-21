@@ -1,6 +1,5 @@
 ---
 title: "File:KES Free Grammar School Charles Barry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">KES Free Grammar School Charles Barry.jpg</span>"
 page_id: 47990
 namespace: 6
 revision_id: 255642

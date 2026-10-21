@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolves"
 ---
 
-Redirect to [Wolves](/wiki/Wolves).
+Redirect to [Wolves](../W/Wolves.md).

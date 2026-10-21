@@ -1,6 +1,5 @@
 ---
 title: "File:Essays and Studies (1929a).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Essays and Studies (1929a).jpg</span>"
 page_id: 26770
 namespace: 6
 revision_id: 213680

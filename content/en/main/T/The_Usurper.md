@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Castamir"
 ---
 
-Redirect to [Castamir](/wiki/Castamir).
+Redirect to [Castamir](../C/Castamir.md).

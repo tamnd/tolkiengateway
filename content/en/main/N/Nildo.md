@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nilmo"
 ---
 
-Redirect to [Nilmo](/wiki/Nilmo).
+Redirect to [Nilmo](Nilmo.md).

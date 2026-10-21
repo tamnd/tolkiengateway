@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Heart of the Wild"
 ---
 
-Redirect to [The Heart of the Wild](/wiki/The_Heart_of_the_Wild).
+Redirect to [The Heart of the Wild](../T/The_Heart_of_the_Wild.md).

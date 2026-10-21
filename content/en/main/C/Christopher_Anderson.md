@@ -1,6 +1,5 @@
 ---
 title: "Christopher Anderson"
-display_title: "<span class=\"mw-page-title-main\">Christopher Anderson</span>"
 page_id: 27922
 namespace: 0
 revision_id: 144833
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Anderson, Christopher"
 ---
 
-**Christopher "Sagar" Anderson** was the writer and game designer of [The Lord of the Rings MUSH](</wiki/The_Lord_of_the_Rings_MUSH_(1993_video_game)> "The Lord of the Rings MUSH (1993 video game)")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and [The Lord of the Rings MUSH II](/wiki/The_Lord_of_the_Rings_MUSH_II).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Christopher "Sagar" Anderson** was the writer and game designer of [The Lord of the Rings MUSH](<../T/The_Lord_of_the_Rings_MUSH_(1993_video_game).md>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and [The Lord of the Rings MUSH II](../T/The_Lord_of_the_Rings_MUSH_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

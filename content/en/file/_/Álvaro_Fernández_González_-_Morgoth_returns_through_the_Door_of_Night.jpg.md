@@ -1,6 +1,5 @@
 ---
 title: "File:Álvaro Fernández González - Morgoth returns through the Door of Night.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Álvaro Fernández González - Morgoth returns through the Door of Night.jpg</span>"
 page_id: 70736
 namespace: 6
 revision_id: 422467
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Morgoth](/wiki/Morgoth) returns through the [Door of Night](/wiki/Door_of_Night)*", by [Álvaro Fernández González](/wiki/Category:Images_by_%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez "Category:Images by Álvaro Fernández González")
+"*[Morgoth](../../main/M/Morgoth.md) returns through the [Door of Night](../../main/D/Door_of_Night.md)*", by [Álvaro Fernández González](../../category/I/Images_by_Álvaro_Fernández_González.md)
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Álvaro Fernández González</li>
 <li><b>Website:</b> <a class="external text" href="https://alvaro-fernandez-gonzalez.artstation.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez" title="Tolkien Gateway:Copyrights/Álvaro Fernández González">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FÁlvaro_Fernández_González.md" title="Tolkien Gateway:Copyrights/Álvaro Fernández González">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Songs from Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Songs from Middle-earth.jpg</span>"
 page_id: 46129
 namespace: 6
 revision_id: 245527
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover to *J.R.R. Tolkien's Songs from Middle-earth* by Dutch band [The Hobbitons](/wiki/The_Hobbitons).
+Cover to *J.R.R. Tolkien's Songs from Middle-earth* by Dutch band [The Hobbitons](../../main/T/The_Hobbitons.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Nils-Lennart Johannesson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Nils-Lennart Johannesson</span>"
 page_id: 37666
 namespace: 14
 revision_id: 181522
@@ -15,4 +14,4 @@ sort_keys:
   "Images of authors": "Johannesson, Nils-Lennart"
 ---
 
-Images of [Nils-Lennart Johannesson](/wiki/Nils-Lennart_Johannesson).
+Images of [Nils-Lennart Johannesson](../../main/N/Nils-Lennart_Johannesson.md).

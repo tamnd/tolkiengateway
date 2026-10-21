@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Songs"
 ---
 
-Redirect to [Category:Songs](/wiki/Category:Songs).
+Redirect to [Category:Songs](../../category/S/Songs.md).

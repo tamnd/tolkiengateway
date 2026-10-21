@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Battle for Middle-earth - Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Battle for Middle-earth - Isildur.png</span>"
 page_id: 71382
 namespace: 6
 revision_id: 425886
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) - *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*
+[Isildur](../../main/I/Isildur.md) - *[The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

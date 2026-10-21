@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Gollum poster.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Gollum poster.png</span>"
 page_id: 38157
 namespace: 6
 revision_id: 358153

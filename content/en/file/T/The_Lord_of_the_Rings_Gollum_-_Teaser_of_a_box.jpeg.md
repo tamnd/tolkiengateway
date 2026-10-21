@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Teaser of a box.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Teaser of a box.jpeg</span>"
 page_id: 64669
 namespace: 6
 revision_id: 372443
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A cryptic teaser image depicting a box labeled "MY PRECIOUS — 200 OF 230 –" for *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was revealed in a later post to be a <a class="new" href="/w/index.php?title=Precious_Kit&amp;action=edit&amp;redlink=1" title="Precious Kit (page does not exist)">Precious Kit</a>, thus making the previous post a "Precious Kit teaser."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+A cryptic teaser image depicting a box labeled "MY PRECIOUS — 200 OF 230 –" for *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was revealed in a later post to be a <a class="new" href="https://tolkiengateway.net/w/index.php?title=Precious_Kit&amp;action=edit&amp;redlink=1" title="Precious Kit (page does not exist)">Precious Kit</a>, thus making the previous post a "Precious Kit teaser."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -43,8 +42,8 @@ A cryptic teaser image depicting a box labeled "MY PRECIOUS — 200 OF 230 –" 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1649427884098957312" rel="noreferrer noopener" target="_blank">&#34;What have I got in my box? #GollumGame&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1649427884098957312" rel="noreferrer noopener" target="_blank">&#34;What have I got in my box? #GollumGame&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1650530043431452672" rel="noreferrer noopener" target="_blank">&#34;What do you think Precious, can they beat our first Riddle in the Dark? Leave your answer in the comments below for a chance to win a Precious Kit. 🌍 Opened Worldwide 📆 Ends on Friday, May 5 at 4:59pm CEST&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1650530043431452672" rel="noreferrer noopener" target="_blank">&#34;What do you think Precious, can they beat our first Riddle in the Dark? Leave your answer in the comments below for a chance to win a Precious Kit. 🌍 Opened Worldwide 📆 Ends on Friday, May 5 at 4:59pm CEST&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

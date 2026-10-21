@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ANGWA"
 ---
 
-Redirect to [ANGWA](/wiki/ANGWA).
+Redirect to [ANGWA](ANGWA.md).

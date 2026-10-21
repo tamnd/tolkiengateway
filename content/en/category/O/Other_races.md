@@ -1,6 +1,5 @@
 ---
 title: "Category:Other races"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Other races</span>"
 page_id: 31740
 namespace: 14
 revision_id: 288622

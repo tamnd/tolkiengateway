@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Thror's map (Clean).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Thror&#039;s map (Clean).png</span>"
 page_id: 72651
 namespace: 6
 revision_id: 431064
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Thror's map of the Lonely Mountain. Colours match the map from *[The Hobbit](/wiki/The_Hobbit)* (illustrated by the author) - 2023, HarperCollins hardcover (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0008627789">ISBN 0008627789</a>), with the moon letters visible.
+Thror's map of the Lonely Mountain. Colours match the map from *[The Hobbit](../../main/T/The_Hobbit.md)* (illustrated by the author) - 2023, HarperCollins hardcover (<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008627789">ISBN 0008627789</a>), with the moon letters visible.
 
 ## Licensing {#Licensing}
 

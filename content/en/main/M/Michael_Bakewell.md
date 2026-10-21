@@ -1,6 +1,5 @@
 ---
 title: "Michael Bakewell"
-display_title: "<span class=\"mw-page-title-main\">Michael Bakewell</span>"
 page_id: 19555
 namespace: 0
 revision_id: 116378
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Bakewell, Michael"
 ---
 
-**Michael Bakewell** is a British producer and director. He was the first "Head of Plays" at the [BBC](/wiki/BBC), and would work actively in the broadcast's radio plays. He assisted [Brian Sibley](/wiki/Brian_Sibley) in the adaptation of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* for the [1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)").
+**Michael Bakewell** is a British producer and director. He was the first "Head of Plays" at the [BBC](../B/BBC.md), and would work actively in the broadcast's radio plays. He assisted [Brian Sibley](../B/Brian_Sibley.md) in the adaptation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* for the [1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 ## External links {#External_links}
 

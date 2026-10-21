@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Big Folk"
 ---
 
-Redirect to [Big Folk](/wiki/Big_Folk).
+Redirect to [Big Folk](Big_Folk.md).

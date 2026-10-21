@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úvanimo"
 ---
 
-Redirect to [Úvanimo](/wiki/Úvanimo).
+Redirect to [Úvanimo](Úvanimo.md).

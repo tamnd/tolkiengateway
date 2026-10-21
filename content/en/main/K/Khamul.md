@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khamûl"
 ---
 
-Redirect to [Khamûl](/wiki/Khamûl).
+Redirect to [Khamûl](Khamûl.md).

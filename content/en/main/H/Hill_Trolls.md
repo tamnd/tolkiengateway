@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hill-trolls"
 ---
 
-Redirect to [Hill-trolls](/wiki/Hill-trolls).
+Redirect to [Hill-trolls](Hill-trolls.md).

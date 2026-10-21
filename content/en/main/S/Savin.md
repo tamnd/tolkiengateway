@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sav"
 ---
 
-Redirect to [Sav](/wiki/Sav).
+Redirect to [Sav](Sav.md).

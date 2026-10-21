@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohan"
 ---
 
-Redirect to [Rohan](/wiki/Rohan).
+Redirect to [Rohan](Rohan.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Matt Stewart.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matt Stewart.png</span>"
 page_id: 74440
 namespace: 6
 revision_id: 438321
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Matt Stewart.png</span></th>
 <td class="description">
-<p>Photograph of <a href="/wiki/Matt_Stewart" title="Matt Stewart">Matt Stewart</a>
+<p>Photograph of <a href="../../main/M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/23_September" title="23 September">23 September</a>, <a href="/wiki/2023" title="2023">2023</a>, 10:54:51</td>
+<td><a href="../../main/_/23_September.md" title="23 September">23 September</a>, <a href="../../main/_/2023.md" title="2023">2023</a>, 10:54:51</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.matthew-stewart.com/about" rel="noreferrer noopener" target="_blank">https://www.matthew-stewart.com/about</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

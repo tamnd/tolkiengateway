@@ -1,6 +1,5 @@
 ---
 title: "Reckoning of Years"
-display_title: "<span class=\"mw-page-title-main\">Reckoning of Years</span>"
 page_id: 34335
 namespace: 0
 revision_id: 429253
@@ -25,29 +24,27 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="/wiki/Help:References" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
 <p>Who told you, and who sent you?
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
+</blockquote></div></div>
 
-The <i><b>Reckoning of Years</b></i> was a book written by [Merry Brandybuck](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") sometime after the [War of the Ring](/wiki/War_of_the_Ring). In this work Merry discussed the relation of the [calendars](/wiki/Shire_Calendar "Shire Calendar") of [the Shire](/wiki/The_Shire "The Shire") and [of](/wiki/Bree_Calendar "Bree Calendar") [Bree](/wiki/Bree) to those of [Rivendell](/wiki/Reckoning_of_Rivendell "Reckoning of Rivendell"), [Gondor](/wiki/New_Reckoning "New Reckoning"), and [Rohan](/wiki/Rohan).
+The <i><b>Reckoning of Years</b></i> was a book written by [Merry Brandybuck](../M/Meriadoc_Brandybuck.md) sometime after the [War of the Ring](../W/War_of_the_Ring.md). In this work Merry discussed the relation of the [calendars](../S/Shire_Calendar.md) of [the Shire](../T/The_Shire.md) and [of](../B/Bree_Calendar.md) [Bree](../B/Bree.md) to those of [Rivendell](Reckoning_of_Rivendell.md), [Gondor](../N/New_Reckoning.md), and [Rohan](Rohan.md).
 
-This book was one of the important tomes kept in the library of [Bucklebury](/wiki/Bucklebury), perhaps one of those important works that were not copied into the [Red Book](/wiki/Red_Book).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+This book was one of the important tomes kept in the library of [Bucklebury](../B/Bucklebury.md), perhaps one of those important works that were not copied into the [Red Book](Red_Book.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Inspiration {#Inspiration}
 
-"Reckoning of Years" is a rendering into English of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reckoning_of_Time" title="wikipedia:The Reckoning of Time">De temporum ratione</a></i>, the title of an important treatise on astronomy and timekeeping by the seventh-century English monk Bede. This work is the sole source of the Anglo-Saxon names of the months of the year, which Tolkien adapted for the [Shire Calendar](/wiki/Shire_Calendar).
+"Reckoning of Years" is a rendering into English of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Reckoning_of_Time" title="wikipedia:The Reckoning of Time">De temporum ratione</a></i>, the title of an important treatise on astronomy and timekeeping by the seventh-century English monk Bede. This work is the sole source of the Anglo-Saxon names of the months of the year, which Tolkien adapted for the [Shire Calendar](../S/Shire_Calendar.md).
 
-Tolkien likely intended this work to be taken as the source for the information in "[Appendix D](/wiki/Appendix_D)" of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, although the [Prologue](/wiki/Prologue_Concerning_Hobbits,_and_other_matters "Prologue Concerning Hobbits, and other matters") suggests that it was not included in the Red Book.
+Tolkien likely intended this work to be taken as the source for the information in "[Appendix D](../A/Appendix_D.md)" of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, although the [Prologue](../P/Prologue_Concerning_Hobbits,_and_other_matters.md) suggests that it was not included in the Red Book.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="/wiki/Prologue_(The_Lord_of_the_Rings)" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="/wiki/Note_on_the_Shire_Records" title="Note on the Shire Records">Note on the Shire Records</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="../N/Note_on_the_Shire_Records.md" title="Note on the Shire Records">Note on the Shire Records</a>&#34;</span>
 </li>
 </ol></div>

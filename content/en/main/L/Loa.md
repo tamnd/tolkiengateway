@@ -1,6 +1,5 @@
 ---
 title: "Loa"
-display_title: "<span class=\"mw-page-title-main\">Loa</span>"
 page_id: 3738
 namespace: 0
 revision_id: 412793
@@ -14,13 +13,13 @@ categories:
   - "Quenya nouns"
 ---
 
-A <i><b>loa</b></i> (or <i><b>löa</b></i>, plural <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a name used by the [Elves](/wiki/Elves) for a single year; also called a *[coranar](/wiki/Coranar "Coranar")*. 144 *löar* amounted a single *[yén](/wiki/Y%C3%A9n "Yén")*, an Elvish 'long-year'.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+A <i><b>loa</b></i> (or <i><b>löa</b></i>, plural <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a name used by the [Elves](../E/Elves.md) for a single year; also called a *[coranar](../C/Coranar.md)*. 144 *löar* amounted a single *[yén](../Y/Yén.md)*, an Elvish 'long-year'.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word was used especially in the north-western portions of the [Westlands](/wiki/Westlands) and (in contrast to the "astronomical" *coranar*) took into consideration (as the Elves generally did) the seasonal changes in vegetation.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+The word was used especially in the north-western portions of the [Westlands](../W/Westlands.md) and (in contrast to the "astronomical" *coranar*) took into consideration (as the Elves generally did) the seasonal changes in vegetation.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
-See: [LAW](/wiki/LAW)
+See: [LAW](LAW.md)
 
 <span></span>
 
@@ -28,8 +27,8 @@ See: [LAW](/wiki/LAW)
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Appendix to the Index: Elvish words and terms&#34;, p. 471</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Appendix to the Index: Elvish words and terms&#34;, p. 471</span>
 </li>
-<li id="cite_note-Calendars-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Calendars_2-0">2.0</a></sup> <sup><a href="#cite_ref-Calendars_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;, p. 1107</span>
+<li id="cite_note-Calendars-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Calendars_2-0">2.0</a></sup> <sup><a href="#cite_ref-Calendars_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;, p. 1107</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin Stonehelm"
 ---
 
-Redirect to [Thorin Stonehelm](/wiki/Thorin_Stonehelm).
+Redirect to [Thorin Stonehelm](Thorin_Stonehelm.md).

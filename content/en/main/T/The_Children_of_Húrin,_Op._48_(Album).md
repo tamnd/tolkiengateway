@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin, Op. 48 (Album)"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin, Op. 48 (Album)</span>"
 page_id: 65190
 namespace: 0
 revision_id: 426195
@@ -15,9 +14,9 @@ images:
   - "Hurin_CD_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Hurin_CD_Cover.png"><img src="/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, /w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release with permission from Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release with permission from Ted Nasmith.</figcaption></figure>
 
-Complete Demo Recording of composer Paul Corfield Godfrey's operatic work *[The Children of Húrin, Op. 48 (Opera)](</wiki/The_Children_of_H%C3%BArin,_Op._48_(Opera)>)* from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2020.
+Complete Demo Recording of composer Paul Corfield Godfrey's operatic work *[The Children of Húrin, Op. 48 (Opera)](<The_Children_of_Húrin,_Op._48_(Opera).md>)* from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2020.
 
 <br> **Cast:**
 

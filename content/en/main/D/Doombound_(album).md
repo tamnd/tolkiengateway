@@ -17,9 +17,9 @@ images:
   - "Doombound.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Doombound.jpg"><img src="/w/images/thumb/2/27/Doombound.jpg/250px-Doombound.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="/w/images/2/27/Doombound.jpg 1.5x" data-file-width="316" data-file-height="316"/></a><figcaption>Cover of <i>Doombound</i><br/> <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="/wiki/The_Last_Alliance_(album)" title="The Last Alliance (album)">The Last Alliance</a></b> </td> <td width="40%"><b><a href="/wiki/Battlelore" title="Battlelore">Battlelore</a> discography</b> </td> <td width="30%">Followed by:<br/><b>–</b> </td></tr></tbody></table></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Doombound.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Doombound.jpg/250px-Doombound.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/27/Doombound.jpg 1.5x" data-file-width="316" data-file-height="316"/></a><figcaption>Cover of <i>Doombound</i><br/> <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="../T/The_Last_Alliance_(album).md" title="The Last Alliance (album)">The Last Alliance</a></b> </td> <td width="40%"><b><a href="../B/Battlelore.md" title="Battlelore">Battlelore</a> discography</b> </td> <td width="30%">Followed by:<br/><b>–</b> </td></tr></tbody></table></figcaption></figure>
 
-<i><b>Doombound</b></i> is the sixth full-length album by the epic metal band [Battlelore](/wiki/Battlelore). It was released on January 26, [2011](/wiki/2011).
+<i><b>Doombound</b></i> is the sixth full-length album by the epic metal band [Battlelore](../B/Battlelore.md). It was released on January 26, [2011](../_/2011.md).
 
 ## Track listing {#Track_listing}
 

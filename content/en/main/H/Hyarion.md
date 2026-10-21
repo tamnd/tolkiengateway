@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Hyarion"
 ---
 
-Redirect to [User:Hyarion](/wiki/User:Hyarion).
+Redirect to [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion).

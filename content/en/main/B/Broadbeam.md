@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Broadbeams"
 ---
 
-Redirect to [Broadbeams](/wiki/Broadbeams).
+Redirect to [Broadbeams](Broadbeams.md).

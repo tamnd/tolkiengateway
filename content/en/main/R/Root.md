@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sundocarme"
 ---
 
-Redirect to [Sundocarme](/wiki/Sundocarme).
+Redirect to [Sundocarme](../S/Sundocarme.md).

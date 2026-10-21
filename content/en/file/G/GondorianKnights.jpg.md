@@ -1,6 +1,5 @@
 ---
 title: "File:GondorianKnights.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">GondorianKnights.jpg</span>"
 page_id: 23875
 namespace: 6
 revision_id: 433569

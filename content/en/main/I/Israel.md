@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Israel"
 ---
 
-Redirect to [Category:Israel](/wiki/Category:Israel).
+Redirect to [Category:Israel](../../category/I/Israel.md).

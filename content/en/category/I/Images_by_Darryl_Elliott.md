@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darryl Elliott"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darryl Elliott</span>"
 page_id: 30051
 namespace: 14
 revision_id: 181971

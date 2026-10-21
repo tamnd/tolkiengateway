@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings SV 2001-v7.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings SV 2001-v7.gif</span>"
 page_id: 62804
 namespace: 6
 revision_id: 355548

@@ -1,6 +1,5 @@
 ---
 title: "Citadel Miniatures"
-display_title: "<span class=\"mw-page-title-main\">Citadel Miniatures</span>"
 page_id: 71984
 namespace: 0
 revision_id: 433559
@@ -18,21 +17,21 @@ images:
   - "Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg"
 ---
 
-**Citadel Miniatures** is a company producing miniature figurines for wargaming. Though once a separate company, it now mostly serves as a brand for [Games Workshop](/wiki/Games_Workshop).
+**Citadel Miniatures** is a company producing miniature figurines for wargaming. Though once a separate company, it now mostly serves as a brand for [Games Workshop](../G/Games_Workshop.md).
 
-In December [1984](/wiki/1984), Games Workshop announced that it had secured the rights to Lord of the Rings for Citadel, for use with [Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It would ultimate lose this license to [Mithril Miniatures](/wiki/Mithril_Miniatures). Citadel would later on produce miniatures for [The Lord of the Rings Strategy Battle Game](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game) and its successors.
+In December [1984](../_/1984.md), Games Workshop announced that it had secured the rights to Lord of the Rings for Citadel, for use with [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It would ultimate lose this license to [Mithril Miniatures](../M/Mithril_Miniatures.md). Citadel would later on produce miniatures for [The Lord of the Rings Strategy Battle Game](../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md) and its successors.
 
 ## Box sets {#Box_sets}
 
 ### BME1 - The Fellowship of the Ring {#BME1_-_The_Fellowship_of_the_Ring}
 
-*The Fellowship of the Ring* came with the [fellowship](/wiki/Fellowship_of_the_Ring "Fellowship of the Ring") and [Bill the Pony](/wiki/Bill_the_Pony).
+*The Fellowship of the Ring* came with the [fellowship](../F/Fellowship_of_the_Ring.md) and [Bill the Pony](../B/Bill_the_Pony.md).
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px">
-			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/120px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg" decoding="async" loading="lazy" width="120" height="176" class="mw-file-element" srcset="/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/180px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 1.5x, /w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/240px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 2x" data-file-width="697" data-file-height="1024"/></a></span></div>
+			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg.md" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/120px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg" decoding="async" loading="lazy" width="120" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/180px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3c/Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg/240px-Citadel_BME1_-_The_Fellowship_of_the_Ring.jpg 2x" data-file-width="697" data-file-height="1024"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
+<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
 </p>
 			</div>
 		</li>
@@ -44,9 +43,9 @@ In December [1984](/wiki/1984), Games Workshop announced that it had secured the
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px">
-			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/120px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg" decoding="async" loading="lazy" width="120" height="177" class="mw-file-element" srcset="/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/180px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 1.5x, /w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/240px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 2x" data-file-width="1200" data-file-height="1768"/></a></span></div>
+			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg.md" title="Cover art by John Blanche."><img alt="Cover art by John Blanche." src="https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/120px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg" decoding="async" loading="lazy" width="120" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/180px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/eb/Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg/240px-Citadel_BME2_-_Nazgul_on_Winged_Beast.jpg 2x" data-file-width="1200" data-file-height="1768"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
+<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a>.
 </p>
 			</div>
 		</li>
@@ -58,9 +57,9 @@ In December [1984](/wiki/1984), Games Workshop announced that it had secured the
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px">
-			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg" title="Cover art by Angus Fieldhouse."><img alt="Cover art by Angus Fieldhouse." src="/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/120px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg" decoding="async" loading="lazy" width="120" height="88" class="mw-file-element" srcset="/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/180px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 1.5x, /w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/240px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 2x" data-file-width="1471" data-file-height="1080"/></a></span></div>
+			<div class="thumb" style="width: 150px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg.md" title="Cover art by Angus Fieldhouse."><img alt="Cover art by Angus Fieldhouse." src="https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/120px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg" decoding="async" loading="lazy" width="120" height="88" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/180px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg/240px-Citadel_BME3_-_Balrog_Encounter_at_Khazad-dum.jpg 2x" data-file-width="1471" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Cover art by <a class="new" href="/w/index.php?title=Angus_Fieldhouse&amp;action=edit&amp;redlink=1" title="Angus Fieldhouse (page does not exist)">Angus Fieldhouse</a>.
+<p>Cover art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Angus_Fieldhouse&amp;action=edit&amp;redlink=1" title="Angus Fieldhouse (page does not exist)">Angus Fieldhouse</a>.
 </p>
 			</div>
 		</li>
@@ -130,21 +129,21 @@ In December [1984](/wiki/1984), Games Workshop announced that it had secured the
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">miniatures</a> for gaming in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Miniature_figure_(gaming)" title="wikipedia:Miniature figure (gaming)">miniatures</a> for gaming in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;">  <b><a href="/wiki/Heritage_Models" title="Heritage Models">Heritage Models</a></b> (<a href="/wiki/1978" title="1978">1978</a>)
+<td style="font-size: 90%;">  <b><a href="../H/Heritage_Models.md" title="Heritage Models">Heritage Models</a></b> (<a href="../_/1978.md" title="1978">1978</a>)
 </td></tr>
 <tr>
-<td style="font-size: 90%;">  <b><a href="/wiki/Grenadier_Models_Inc." title="Grenadier Models Inc.">Grenadier Models Inc.</a></b> (<a href="/wiki/1985" title="1985">1985</a>)
+<td style="font-size: 90%;">  <b><a href="../G/Grenadier_Models_Inc..md" title="Grenadier Models Inc.">Grenadier Models Inc.</a></b> (<a href="../_/1985.md" title="1985">1985</a>)
 </td></tr>
 <tr>
-<td style="font-size: 90%;">  <b><a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a></b> (<a href="/wiki/1987" title="1987">1987</a>-)
+<td style="font-size: 90%;">  <b><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a></b> (<a href="../_/1987.md" title="1987">1987</a>-)
 </td></tr>
 <tr>
-<td style="font-size: 90%;">  <b><a href="/wiki/Harlequin_Miniatures" title="Harlequin Miniatures">Harlequin Miniatures</a></b> (1990s)
+<td style="font-size: 90%;">  <b><a href="../H/Harlequin_Miniatures.md" title="Harlequin Miniatures">Harlequin Miniatures</a></b> (1990s)
 </td></tr>
 <tr>
-<td style="font-size: 90%;">  <b><a href="/wiki/Games_Workshop" title="Games Workshop">Games Workshop</a></b>: <a class="mw-selflink selflink">Citadel ME</a> (<a href="/wiki/1985" title="1985">1985</a>-<a href="/wiki/1987" title="1987">1987</a>)  • <a href="/wiki/Middle-earth_Strategy_Battle_Game" title="Middle-earth Strategy Battle Game">Middle-earth Strategy Battle Game</a> (<a href="/wiki/2001" title="2001">2001</a>-)
+<td style="font-size: 90%;">  <b><a href="../G/Games_Workshop.md" title="Games Workshop">Games Workshop</a></b>: <a class="mw-selflink selflink">Citadel ME</a> (<a href="../_/1985.md" title="1985">1985</a>-<a href="../_/1987.md" title="1987">1987</a>)  • <a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">Middle-earth Strategy Battle Game</a> (<a href="../_/2001.md" title="2001">2001</a>-)
 </td></tr>
 </tbody></table>

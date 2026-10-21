@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ADC Art and Books"
 ---
 
-Redirect to [ADC Art and Books](/wiki/ADC_Art_and_Books).
+Redirect to [ADC Art and Books](ADC_Art_and_Books.md).

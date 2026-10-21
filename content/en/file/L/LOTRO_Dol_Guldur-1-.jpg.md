@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO Dol Guldur-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO Dol Guldur-1-.jpg</span>"
 page_id: 25592
 namespace: 6
 revision_id: 169572

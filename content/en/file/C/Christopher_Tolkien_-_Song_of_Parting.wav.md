@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Song of Parting.wav"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Song of Parting.wav</span>"
 page_id: 71265
 namespace: 6
 revision_id: 425111
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Tolkien](/wiki/Christopher_Tolkien) reads *The [Song of Parting](/wiki/Song_of_Parting)* from [Of Beren and Lúthien](/wiki/Of_Beren_and_L%C3%BAthien)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) reads *The [Song of Parting](../../main/S/Song_of_Parting.md)* from [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
 
 ## Licensing {#Licensing}
 

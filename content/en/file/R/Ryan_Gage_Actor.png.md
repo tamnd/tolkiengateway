@@ -1,6 +1,5 @@
 ---
 title: "File:Ryan Gage Actor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ryan Gage Actor.png</span>"
 page_id: 68958
 namespace: 6
 revision_id: 412495

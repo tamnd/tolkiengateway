@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Faith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Faith.jpg</span>"
 page_id: 64363
 namespace: 6
 revision_id: 368745
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Book by [Holly Ordway](/wiki/Holly_Ordway).
+Book by [Holly Ordway](../../main/H/Holly_Ordway.md).
 
 ## Licensing {#Licensing}
 

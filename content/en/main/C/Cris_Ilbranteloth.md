@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Ninniach"
 ---
 
-Redirect to [Cirith Ninniach](/wiki/Cirith_Ninniach).
+Redirect to [Cirith Ninniach](Cirith_Ninniach.md).

@@ -1,6 +1,5 @@
 ---
 title: "David Doughan"
-display_title: "<span class=\"mw-page-title-main\">David Doughan</span>"
 page_id: 42385
 namespace: 0
 revision_id: 405198
@@ -26,87 +25,87 @@ langlinks:
     url: "https://kontu.wiki/David_Doughan"
 ---
 
-**David Doughan MBE** is a prolific writer, editor and member of [The Tolkien Society](/wiki/The_Tolkien_Society). He has edited the Society's journal *[Mallorn](</wiki/Mallorn_(journal)> "Mallorn (journal)")* as well as its linguistic bulletin *[Quettar](/wiki/Quettar)*.
+**David Doughan MBE** is a prolific writer, editor and member of [The Tolkien Society](../T/The_Tolkien_Society.md). He has edited the Society's journal *[Mallorn](<../M/Mallorn_(journal).md>)* as well as its linguistic bulletin *[Quettar](../Q/Quettar.md)*.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Journals (editor) {#Journals_(editor)}
 
-- [1985](/wiki/1985): *[Quettar](/wiki/Quettar)* 23
-- [1986](/wiki/1986): *[Quettar](/wiki/Quettar)* 24
-- [1986](/wiki/1986): *[Quettar](/wiki/Quettar)* 26
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* 27
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* 28
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* Special 1, Part I (with [Julian Brafield](/wiki/Julian_C._Bradfield "Julian C. Bradfield"))
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* 29
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* Special 1, Part II and III (with [Julian Brafield](/wiki/Julian_C._Bradfield "Julian C. Bradfield"))
-- [1988](/wiki/1988): *[Quettar](/wiki/Quettar)* 30
-- [1987](/wiki/1987): *[Quettar](/wiki/Quettar)* Special 2
-- [1988](/wiki/1988): *[Quettar](/wiki/Quettar)* 31
-- [1988](/wiki/1988): *[Quettar](/wiki/Quettar)* 32
-- [1988](/wiki/1988): *[Quettar](/wiki/Quettar)* 33
-- [1988](/wiki/1988): *[Quettar](/wiki/Quettar)* 34
-- [1989](/wiki/1989): *[Quettar](/wiki/Quettar)* 35
-- [1989](/wiki/1989): *[Quettar](/wiki/Quettar)* 36
-- [1989](/wiki/1989): *[Quettar](/wiki/Quettar)* 37
-- [1989](/wiki/1989): *[Quettar](/wiki/Quettar)* 38
-- [1991](/wiki/1991): [*Mallorn* 28](/wiki/Mallorn_28 "Mallorn 28")
-- [1992](/wiki/1992): [*Mallorn* 29](/wiki/Mallorn_29 "Mallorn 29")
+- [1985](../_/1985.md): *[Quettar](../Q/Quettar.md)* 23
+- [1986](../_/1986.md): *[Quettar](../Q/Quettar.md)* 24
+- [1986](../_/1986.md): *[Quettar](../Q/Quettar.md)* 26
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* 27
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* 28
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* Special 1, Part I (with [Julian Brafield](../J/Julian_C._Bradfield.md))
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* 29
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* Special 1, Part II and III (with [Julian Brafield](../J/Julian_C._Bradfield.md))
+- [1988](../_/1988.md): *[Quettar](../Q/Quettar.md)* 30
+- [1987](../_/1987.md): *[Quettar](../Q/Quettar.md)* Special 2
+- [1988](../_/1988.md): *[Quettar](../Q/Quettar.md)* 31
+- [1988](../_/1988.md): *[Quettar](../Q/Quettar.md)* 32
+- [1988](../_/1988.md): *[Quettar](../Q/Quettar.md)* 33
+- [1988](../_/1988.md): *[Quettar](../Q/Quettar.md)* 34
+- [1989](../_/1989.md): *[Quettar](../Q/Quettar.md)* 35
+- [1989](../_/1989.md): *[Quettar](../Q/Quettar.md)* 36
+- [1989](../_/1989.md): *[Quettar](../Q/Quettar.md)* 37
+- [1989](../_/1989.md): *[Quettar](../Q/Quettar.md)* 38
+- [1991](../_/1991.md): [*Mallorn* 28](../M/Mallorn_28.md)
+- [1992](../_/1992.md): [*Mallorn* 29](../M/Mallorn_29.md)
 
 ### Articles {#Articles}
 
-- [1988](/wiki/1988): *[Tolkien and Romanticism](/wiki/Tolkien_and_Romanticism)*
+- [1988](../_/1988.md): *[Tolkien and Romanticism](../T/Tolkien_and_Romanticism.md)*
     - "Elf-Spear, The Wand of Youth, and the Starlight Express"
-- [1982](/wiki/1982): [*Mallorn* 18](/wiki/Mallorn_18 "Mallorn 18")
+- [1982](../_/1982.md): [*Mallorn* 18](../M/Mallorn_18.md)
     - "Orthanc and the Onodrim in late Mannish tradition: some West Saxon vestigia"
-- [1987](/wiki/1987): [*Amon Hen* 88](/wiki/Amon_Hen_88 "Amon Hen 88")
+- [1987](../_/1987.md): [*Amon Hen* 88](../A/Amon_Hen_88.md)
     - "The Tolkien Society Wine Column"
-- [1991](/wiki/1991): *[Leaves from the Tree](/wiki/Leaves_from_the_Tree)*
+- [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
     - "In Search of the Bounce: Tolkien seen through Smith"\*\*
-- [1993](/wiki/1993): [*Mallorn* 30](/wiki/Mallorn_30 "Mallorn 30")
+- [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
     - "English and Welsh"
-- [1995](/wiki/1995): *[Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference)*
+- [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Tolkien, Sayers, Sex and Gender"
-- [1995](/wiki/1995): [*Mallorn* 32](/wiki/Mallorn_32 "Mallorn 32")
+- [1995](../_/1995.md): [*Mallorn* 32](../M/Mallorn_32.md)
     - "An Ethnically Cleansed Faery? Tolkien and the Matter of Britain"
-- [1995](/wiki/1995): [*Tyalië Tyelelliéva* 7](/wiki/Tyali%C3%AB_Tyelelli%C3%A9va_7 "Tyalië Tyelelliéva 7")
+- [1995](../_/1995.md): [*Tyalië Tyelelliéva* 7](../T/Tyalië_Tyelelliéva_7.md)
     - "Letter to the Editor"
-- [2000](/wiki/2000): *[The Ways of Creative Mythologies](/wiki/The_Ways_of_Creative_Mythologies)*
+- [2000](../_/2000.md): *[The Ways of Creative Mythologies](../T/The_Ways_of_Creative_Mythologies.md)*
     - "Progressive Mythology and History Men"
-- [2000](/wiki/2000): *[Tolkien: A Mythology for England?](/wiki/Tolkien:_A_Mythology_for_England%3F)*
+- [2000](../_/2000.md): *[Tolkien: A Mythology for England?](../T/Tolkien%253A_A_Mythology_for_England%253F.md)*
     - "England? Which England?: Concepts Of Englishness 1982-1954"
-- [2007](/wiki/2007): [*Amon Hen* 207](/wiki/Amon_Hen_207 "Amon Hen 207")
+- [2007](../_/2007.md): [*Amon Hen* 207](../A/Amon_Hen_207.md)
     - "Tolkien the Fascist?"
-- [2008](/wiki/2008): [*Mallorn* 45](/wiki/Mallorn_45 "Mallorn 45")
+- [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
     - "Women, Oxford and Tolkien"
-- [2008](/wiki/2008): [*Mallorn* 46](/wiki/Mallorn_46 "Mallorn 46")
+- [2008](../_/2008.md): [*Mallorn* 46](../M/Mallorn_46.md)
     - "Tibbles, Fauna of Mordor"
-- [2012](/wiki/2012): [*Mallorn* 53](/wiki/Mallorn_53 "Mallorn 53")
+- [2012](../_/2012.md): [*Mallorn* 53](../M/Mallorn_53.md)
     - "Meriadoc and the matter of Rohan"
-- [2016](/wiki/2016): *[The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012](/wiki/The_Return_Of_The_Ring:_Proceedings_of_the_Tolkien_Society_Conference_2012)*
-    - "The [Notion Club Papers](/wiki/Notion_Club_Papers): A Summary"
+- [2016](../_/2016.md): *[The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012](../T/The_Return_Of_The_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012~62335.md)*
+    - "The [Notion Club Papers](../N/Notion_Club_Papers.md): A Summary"
 
 ### Reviews {#Reviews}
 
-- [2001](/wiki/2001): [*Mallorn* 38](/wiki/Mallorn_38 "Mallorn 38")
-    - *[Recovery and Transcendence for the Contemporary Mythmaker](/wiki/Recovery_and_Transcendence_for_the_Contemporary_Mythmaker)*
-- [2002](/wiki/2002): [*Amon Hen* 173](/wiki/Amon_Hen_173 "Amon Hen 173")
+- [2001](../_/2001.md): [*Mallorn* 38](../M/Mallorn_38.md)
+    - *[Recovery and Transcendence for the Contemporary Mythmaker](../R/Recovery_and_Transcendence_for_the_Contemporary_Mythmaker.md)*
+- [2002](../_/2002.md): [*Amon Hen* 173](../A/Amon_Hen_173.md)
     - *Women Among the Inklings*
-- [2004](/wiki/2004): [*Amon Hen* 187](/wiki/Amon_Hen_187 "Amon Hen 187")
-    - *[Tolkien: A Cultural Phenomenon](/wiki/Tolkien:_A_Cultural_Phenomenon)*
-- [2006](/wiki/2006): [*Amon Hen* 199](/wiki/Amon_Hen_199 "Amon Hen 199")
-    - *[Reading The Lord of the Rings](/wiki/Reading_The_Lord_of_the_Rings)*
-    - *[The Lord of the Rings: A Reader's Companion](/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion)*
-- [2006](/wiki/2006): [*Amon Hen* 201](/wiki/Amon_Hen_201 "Amon Hen 201")
-    - *[A Tolkienian Mathomium](/wiki/A_Tolkienian_Mathomium)*
-- [2007](/wiki/2007): [*Amon Hen* 203](/wiki/Amon_Hen_203 "Amon Hen 203")
-    - *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment "J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment")*
-    - *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide)*
-- [2008](/wiki/2008): [*Mallorn* 45](/wiki/Mallorn_45 "Mallorn 45")
-    - "You Get What You Pay For" (review of *[Tolkien Studies: Volume 4](/wiki/Tolkien_Studies:_Volume_4)*)
-- [2008](/wiki/2008): [*Amon Hen* 212](/wiki/Amon_Hen_212 "Amon Hen 212")
+- [2004](../_/2004.md): [*Amon Hen* 187](../A/Amon_Hen_187.md)
+    - *[Tolkien: A Cultural Phenomenon](../T/Tolkien%253A_A_Cultural_Phenomenon.md)*
+- [2006](../_/2006.md): [*Amon Hen* 199](../A/Amon_Hen_199.md)
+    - *[Reading The Lord of the Rings](../R/Reading_The_Lord_of_the_Rings.md)*
+    - *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*
+- [2006](../_/2006.md): [*Amon Hen* 201](../A/Amon_Hen_201.md)
+    - *[A Tolkienian Mathomium](../A/A_Tolkienian_Mathomium.md)*
+- [2007](../_/2007.md): [*Amon Hen* 203](../A/Amon_Hen_203.md)
+    - *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
+    - *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*
+- [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
+    - "You Get What You Pay For" (review of *[Tolkien Studies: Volume 4](../T/Tolkien_Studies%253A_Volume_4.md)*)
+- [2008](../_/2008.md): [*Amon Hen* 212](../A/Amon_Hen_212.md)
     - <i><a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">The Lord of the Rings Fanatics Plaza</a></i>
-- [2009](/wiki/2009): [*Mallorn* 47](/wiki/Mallorn_47 "Mallorn 47")
-    - "The shores of Faery, revisited" (review of *[Tolkien On Fairy-stories](/wiki/Tolkien_On_Fairy-stories)*)
-- [2012](/wiki/2012): [*Amon Hen* 234](/wiki/Amon_Hen_234 "Amon Hen 234")
-    - *[Tolkien and Wales](/wiki/Tolkien_and_Wales)*
+- [2009](../_/2009.md): [*Mallorn* 47](../M/Mallorn_47.md)
+    - "The shores of Faery, revisited" (review of *[Tolkien On Fairy-stories](../T/Tolkien_On_Fairy-stories~23734.md)*)
+- [2012](../_/2012.md): [*Amon Hen* 234](../A/Amon_Hen_234.md)
+    - *[Tolkien and Wales](../T/Tolkien_and_Wales.md)*

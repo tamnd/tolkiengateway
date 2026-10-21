@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Tolkien studies"
 ---
 
-Redirect to [Category:Tolkien studies](/wiki/Category:Tolkien_studies).
+Redirect to [Category:Tolkien studies](Tolkien_studies.md).

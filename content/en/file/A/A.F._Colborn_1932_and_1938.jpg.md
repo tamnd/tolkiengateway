@@ -1,6 +1,5 @@
 ---
 title: "File:A.F. Colborn 1932 and 1938.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A.F. Colborn 1932 and 1938.jpg</span>"
 page_id: 43845
 namespace: 6
 revision_id: 230825

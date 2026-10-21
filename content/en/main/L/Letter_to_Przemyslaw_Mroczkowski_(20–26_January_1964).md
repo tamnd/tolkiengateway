@@ -18,12 +18,12 @@ images:
   - "Przemyslaw_Mroczkowski_20–26_January_1964.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg"><img src="/w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/300px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg" decoding="async" loading="lazy" width="300" height="231" class="mw-file-element" srcset="/w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/450px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg 1.5x, /w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/600px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg 2x" data-file-width="1054" data-file-height="812"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Przemyslaw_Mroczkowski_20–26_January_1964.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/300px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg" decoding="async" loading="lazy" width="300" height="231" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/450px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg/600px-Przemyslaw_Mroczkowski_20%E2%80%9326_January_1964.jpg 2x" data-file-width="1054" data-file-height="812"/></a><figcaption></figcaption></figure>
 
-Between [20](/wiki/20_January "20 January")-[26 January](/wiki/26_January) [1964](/wiki/1964), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Przemyslaw Mroczkowski](/wiki/Przemyslaw_Mroczkowski)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Between [20](../_/20_January.md)-[26 January](../_/26_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Przemyslaw Mroczkowski](../P/Przemyslaw_Mroczkowski.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Description:** Autograph letter signed ('Ronald Tolkien') to Professor Przemyslaw Mroczkowski, Headington, 20–26 January 1964, 3½ pages, 4to.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** Excerpt and pictures of the letter were published in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_1_June_2009)*.
+- **Publication:** Excerpt and pictures of the letter were published in *[Christie's Fine Printed Books and Manuscripts 1 June 2009](../C/Christie's_Fine_Printed_Books_and_Manuscripts_1_June_2009.md)*.
 
 ## Contents (from the auction) {#Contents_(from_the_auction)}
 
@@ -31,14 +31,14 @@ Between [20](/wiki/20_January "20 January")-[26 January](/wiki/26_January) [1964
 
 ## See also {#See_also}
 
-- [Letters to Przemyslaw Mroczkowski](/wiki/Category:Letters_to_Przemyslaw_Mroczkowski "Category:Letters to Przemyslaw Mroczkowski")
+- [Letters to Przemyslaw Mroczkowski](../../category/L/Letters_to_Przemyslaw_Mroczkowski.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2014</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2014</span></cite></span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.christies.com/LotFinder/lot_details.aspx?pos=6&amp;intObjectID=5210971&amp;sid=" rel="noreferrer noopener" target="_blank">Christies.com</a>, as of June 25, 2010</span>
 </li>

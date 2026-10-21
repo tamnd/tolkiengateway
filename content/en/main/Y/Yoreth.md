@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ioreth"
 ---
 
-Redirect to [Ioreth](/wiki/Ioreth).
+Redirect to [Ioreth](../I/Ioreth.md).

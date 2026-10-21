@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Harfoot Camp Concept Art.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Harfoot Camp Concept Art.jpg</span>"
 page_id: 64472
 namespace: 6
 revision_id: 412329

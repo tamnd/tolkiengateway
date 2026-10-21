@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aulëan"
 ---
 
-Redirect to [Aulëan](/wiki/Aulëan).
+Redirect to [Aulëan](Aulëan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éadgifu"
 ---
 
-Redirect to [Éadgifu](/wiki/Éadgifu).
+Redirect to [Éadgifu](../_/Éadgifu.md).

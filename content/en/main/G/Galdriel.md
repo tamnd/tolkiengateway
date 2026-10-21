@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel"
 ---
 
-Redirect to [Galadriel](/wiki/Galadriel).
+Redirect to [Galadriel](Galadriel.md).

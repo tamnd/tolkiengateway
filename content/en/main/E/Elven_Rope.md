@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven Rope (disambiguation)"
 ---
 
-Redirect to [Elven Rope (disambiguation)](/wiki/Elven_Rope_(disambiguation)).
+Redirect to [Elven Rope (disambiguation)](<Elven_Rope_(disambiguation).md>).

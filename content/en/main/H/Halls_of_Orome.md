@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Oromë"
 ---
 
-Redirect to [House of Oromë](/wiki/House_of_Oromë).
+Redirect to [House of Oromë](House_of_Oromë.md).

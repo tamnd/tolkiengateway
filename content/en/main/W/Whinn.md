@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chwind"
 ---
 
-Redirect to [Chwind](/wiki/Chwind).
+Redirect to [Chwind](../C/Chwind.md).

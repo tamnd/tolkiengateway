@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tuuliky"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tuuliky</span>"
 page_id: 37990
 namespace: 4
 revision_id: 193188
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tuuliky"
 ---
 
-- Tuuliky has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Tuuliky "Category:Images by Tuuliky") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Tuuliky has kindly granted his permission to use [his artwork](../../category/I/Images_by_Tuuliky.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 11 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

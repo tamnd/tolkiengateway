@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lond Daer"
 ---
 
-Redirect to [Lond Daer](/wiki/Lond_Daer).
+Redirect to [Lond Daer](Lond_Daer.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Brazilian Tolkien Society"
 ---
 
-Redirect to [The Brazilian Tolkien Society](/wiki/The_Brazilian_Tolkien_Society).
+Redirect to [The Brazilian Tolkien Society](../T/The_Brazilian_Tolkien_Society.md).

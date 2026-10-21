@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by NimwenHabareth"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by NimwenHabareth</span>"
 page_id: 66916
 namespace: 14
 revision_id: 388083

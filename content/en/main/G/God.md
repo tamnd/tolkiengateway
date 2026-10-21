@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gods"
 ---
 
-Redirect to [Gods](/wiki/Gods).
+Redirect to [Gods](Gods.md).

@@ -1,6 +1,5 @@
 ---
 title: "Douglas C. Kane"
-display_title: "<span class=\"mw-page-title-main\">Douglas C. Kane</span>"
 page_id: 22851
 namespace: 0
 revision_id: 420879
@@ -21,21 +20,21 @@ sort_keys:
   "Lawyer": "Kane, Douglas C."
 ---
 
-**Douglas Charles Kane** (born [1963](/wiki/1963)) is a Californian civil rights attorney and an avid [Tolkien fan](/wiki/Tolkien_fandom "Tolkien fandom"). He was the co-founder of <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>, and posts online under the handle **Voronwe\_the\_Faithful**. As an attorney at law, he also frequently reports on the legal battles between the [Tolkien Family](/wiki/Tolkien_Family) and [New Line Cinema](/wiki/New_Line_Cinema).
+**Douglas Charles Kane** (born [1963](../_/1963.md)) is a Californian civil rights attorney and an avid [Tolkien fan](../T/Tolkien_fandom.md). He was the co-founder of <a class="external text" href="http://www.thehalloffire.net/" rel="noreferrer noopener" target="_blank">TheHallofFire.net</a>, and posts online under the handle **Voronwe\_the\_Faithful**. As an attorney at law, he also frequently reports on the legal battles between the [Tolkien Family](../T/Tolkien_Family.md) and [New Line Cinema](../N/New_Line_Cinema.md).
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2009](/wiki/2009): *[Arda Reconstructed: The Creation of the Published Silmarillion](/wiki/Arda_Reconstructed:_The_Creation_of_the_Published_Silmarillion)*
+- [2009](../_/2009.md): *[Arda Reconstructed: The Creation of the Published Silmarillion](../A/Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md)*
 
 ### Articles {#Articles}
 
-- [2008](/wiki/2008): *[Mythlore](/wiki/Mythlore)* 103/104:
+- [2008](../_/2008.md): *[Mythlore](../M/Mythlore.md)* 103/104:
     - "Reconstructing Arda: of Feanor and the Unchaining of Melkor"
-- [2012](/wiki/2012): [*Tolkien Studies*: Volume 9](/wiki/Tolkien_Studies:_Volume_9 "Tolkien Studies: Volume 9")
+- [2012](../_/2012.md): [*Tolkien Studies*: Volume 9](../T/Tolkien_Studies%253A_Volume_9.md)
     - "Law and Arda"
-- [2021](/wiki/2021): *[Tolkien Studies: Volume 18](/wiki/Tolkien_Studies:_Volume_18)*
+- [2021](../_/2021.md): *[Tolkien Studies: Volume 18](../T/Tolkien_Studies%253A_Volume_18.md)*
     - "Túrin the Hapless: Tolkien and the Sanctification of Suffering"
 
 ## External links {#External_links}

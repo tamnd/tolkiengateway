@@ -1,6 +1,5 @@
 ---
 title: "File:Harry Potter, Narnia, and The Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Harry Potter, Narnia, and The Lord of the Rings.jpg</span>"
 page_id: 5297
 namespace: 6
 revision_id: 214102

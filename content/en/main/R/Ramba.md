@@ -13,26 +13,26 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Ramba</b></i> is a root [Quenya](/wiki/Quenya) noun and means "wall".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup>
+<i><b>Ramba</b></i> is a root [Quenya](../Q/Quenya.md) noun and means "wall".<sup id="cite_ref-silmap_1-0" class="reference"><a href="#cite_note-silmap-1">[1]</a></sup>
 
 Examples:
 
-- [Ilurambar](/wiki/Ilurambar), "[Walls of the World](/wiki/Walls_of_the_World)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
+- [Ilurambar](../I/Ilurambar.md), "[Walls of the World](../W/Walls_of_the_World.md)"<sup id="cite_ref-bolt_2-0" class="reference"><a href="#cite_note-bolt-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Category:Walls](/wiki/Category:Walls)
-- *[osto](/wiki/Osto "Osto")*, "fortress, walled city"
-- *[pelennor](/wiki/Pelennor "Pelennor")*, "fenced land"
-- *[ram](/wiki/Ram "Ram")*, "wall"; the Sindarin equivalent
+- [Category:Walls](../../category/W/Walls.md)
+- *[osto](../O/Osto.md)*, "fortress, walled city"
+- *[pelennor](../P/Pelennor.md)*, "fenced land"
+- *[ram](Ram.md)*, "wall"; the Sindarin equivalent
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-silmap-1"><span class="mw-cite-backlink"><a href="#cite_ref-silmap_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">the Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>ram</i></span>
+<li id="cite_note-silmap-1"><span class="mw-cite-backlink"><a href="#cite_ref-silmap_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">the Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>ram</i></span>
 </li>
-<li id="cite_note-bolt-2"><span class="mw-cite-backlink"><a href="#cite_ref-bolt_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;The Hiding of Valinor&#34;</span>
+<li id="cite_note-bolt-2"><span class="mw-cite-backlink"><a href="#cite_ref-bolt_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;The Hiding of Valinor&#34;</span>
 </li>
 </ol></div>

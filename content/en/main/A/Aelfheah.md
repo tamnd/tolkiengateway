@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ælfheah"
 ---
 
-Redirect to [Ælfheah](/wiki/Ælfheah).
+Redirect to [Ælfheah](../_/Ælfheah.md).

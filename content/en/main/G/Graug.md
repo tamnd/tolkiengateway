@@ -11,4 +11,4 @@ redirect_target: "Demons"
 redirect_fragment: "other names"
 ---
 
-Redirect to [Demons](/wiki/Demons#other_names).
+Redirect to [Demons](../D/Demons.md#other_names).

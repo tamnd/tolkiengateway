@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tata (word)"
 ---
 
-Redirect to [Tata (word)](/wiki/Tata_(word)).
+Redirect to [Tata (word)](<Tata_(word).md>).

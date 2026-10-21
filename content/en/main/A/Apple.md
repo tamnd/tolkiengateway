@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Apples"
 ---
 
-Redirect to [Apples](/wiki/Apples).
+Redirect to [Apples](Apples.md).

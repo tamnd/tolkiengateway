@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Online player character classes"
 ---
 
-Redirect to [The Lord of the Rings Online player character classes](/wiki/The_Lord_of_the_Rings_Online_player_character_classes).
+Redirect to [The Lord of the Rings Online player character classes](../T/The_Lord_of_the_Rings_Online_player_character_classes.md).

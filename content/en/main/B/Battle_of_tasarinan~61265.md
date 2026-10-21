@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Tasarinan"
 ---
 
-Redirect to [Battle of Tasarinan](/wiki/Battle_of_Tasarinan).
+Redirect to [Battle of Tasarinan](Battle_of_Tasarinan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulwarth"
 ---
 
-Redirect to [Ulwarth](/wiki/Ulwarth).
+Redirect to [Ulwarth](Ulwarth.md).

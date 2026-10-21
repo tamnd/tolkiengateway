@@ -1,6 +1,5 @@
 ---
 title: "File:Paula DiSante - Khazad-Zum with banner.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paula DiSante - Khazad-Zum with banner.png</span>"
 page_id: 65299
 namespace: 6
 revision_id: 437580
@@ -39,6 +38,6 @@ What do you get when you cross the Mines of Moria with the Fellowship of the Rin
 </p>
 <ul><li><b>Name:</b> Paula DiSante</li>
 <li><b>Website:</b> <a class="external free" href="https://www.etsy.com/shop/TheSecretFireLLC" rel="noreferrer noopener" target="_blank">https://www.etsy.com/shop/TheSecretFireLLC</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Paula_DiSante" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPaula_DiSante.md" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
-Category:Images by [Paula DiSante](/wiki/Category:Images_by_Paula_DiSante "Category:Images by Paula DiSante")
+Category:Images by [Paula DiSante](../../category/I/Images_by_Paula_DiSante.md)

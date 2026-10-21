@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master of Lake-town"
 ---
 
-Redirect to [Master of Lake-town](/wiki/Master_of_Lake-town).
+Redirect to [Master of Lake-town](../M/Master_of_Lake-town.md).

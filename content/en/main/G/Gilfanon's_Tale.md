@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind"
 ---
 
-Redirect to [Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind](/wiki/Gilfanon's_Tale:_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind).
+Redirect to [Gilfanon's Tale: The Travail of the Noldoli and the Coming of Mankind](Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md).

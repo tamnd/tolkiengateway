@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Borondir"
 ---
 
-Redirect to [Borondir](/wiki/Borondir).
+Redirect to [Borondir](Borondir.md).

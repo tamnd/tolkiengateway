@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor-Cúarthol"
 ---
 
-Redirect to [Dor-Cúarthol](/wiki/Dor-Cúarthol).
+Redirect to [Dor-Cúarthol](Dor-Cúarthol.md).

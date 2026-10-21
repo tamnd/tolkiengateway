@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déor (father of Ælfwine)"
 ---
 
-Redirect to [Déor (father of Ælfwine)](/wiki/Déor_(father_of_Ælfwine)).
+Redirect to [Déor (father of Ælfwine)](<Déor_(father_of_Ælfwine).md>).

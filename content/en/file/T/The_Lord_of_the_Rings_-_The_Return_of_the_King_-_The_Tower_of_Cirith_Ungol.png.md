@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - The Tower of Cirith Ungol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - The Tower of Cirith Ungol.png</span>"
 page_id: 71830
 namespace: 6
 revision_id: 427960
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Tower of Cirith Ungol](/wiki/Tower_of_Cirith_Ungol "Tower of Cirith Ungol") - *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*
+[The Tower of Cirith Ungol](../../main/T/Tower_of_Cirith_Ungol.md) - *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
 
 ## Licensing {#Licensing}
 

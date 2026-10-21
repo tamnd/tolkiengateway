@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Page of Wands (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Page of Wands (The Hobbit).jpg</span>"
 page_id: 73334
 namespace: 6
 revision_id: 433770
@@ -33,27 +32,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - Page of Wands (The Hobbit).jpg</span></th>
 <td class="description">
-&#34;Page of Wands&#34; from <i><a href="/wiki/The_Hobbit_Tarot" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a> reads <a href="/wiki/Thr%C3%B3r%27s_Map" title="Thrór&#39;s Map">the map</a> to find <a href="/wiki/Back_Door" title="Back Door">the secret door</a>. He often borrowed <a href="/wiki/Thorin" title="Thorin">Thorin Oakenshield</a>’s map, looking at the runic lettering and the <a href="/wiki/Moon-letters" title="Moon-letters">Moon Letters</a> on it. Moon Letters were runic letters that could only be seen when <a href="/wiki/Moon" title="Moon">the moon</a> was behind them. The more cunning sort required a moon of the same shape and season as the day when they were written. The ones in Thorin’s map were written in mid-summer’s eve, under a crescent moon.
-</p><p>“Stand by the grey stone when <a class="new" href="/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">the thrush</a> knocks and the setting sun with the last light of <a href="/wiki/Durin%27s_Day" title="Durin&#39;s Day">Durin’s Day</a> will shine upon the keyhole.”
+&#34;Page of Wands&#34; from <i><a href="../../main/T/The_Hobbit_Tarot.md" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> reads <a href="../../main/T/Thrór&#39;s_Map.md" title="Thrór&#39;s Map">the map</a> to find <a href="../../main/B/Back_Door.md" title="Back Door">the secret door</a>. He often borrowed <a href="../../main/T/Thorin.md" title="Thorin">Thorin Oakenshield</a>’s map, looking at the runic lettering and the <a href="../../main/M/Moon-letters.md" title="Moon-letters">Moon Letters</a> on it. Moon Letters were runic letters that could only be seen when <a href="../../main/M/Moon.md" title="Moon">the moon</a> was behind them. The more cunning sort required a moon of the same shape and season as the day when they were written. The ones in Thorin’s map were written in mid-summer’s eve, under a crescent moon.
+</p><p>“Stand by the grey stone when <a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">the thrush</a> knocks and the setting sun with the last light of <a href="../../main/D/Durin&#39;s_Day.md" title="Durin&#39;s Day">Durin’s Day</a> will shine upon the keyhole.”
 </p>
-<p><a href="/wiki/Durin_I" title="Durin I">Durin</a> was the father of the race of <a href="/wiki/Dwarves" title="Dwarves">Dwarves</a>, and his day was when the last moon of autumn and <a href="/wiki/Sun" title="Sun">the sun</a> were in the sky together.</p></blockquote>
+<p><a href="../../main/D/Durin_I.md" title="Durin I">Durin</a> was the father of the race of <a href="../../main/D/Dwarves.md" title="Dwarves">Dwarves</a>, and his day was when the last moon of autumn and <a href="../../main/S/Sun.md" title="Sun">the sun</a> were in the sky together.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2012</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20131014212113/http://www.peterpracownik.com/pages/page-of-wands.htm" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20131014212113/http://www.peterpracownik.com/pages/page-of-wands.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Mithril Miniatures"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Mithril Miniatures</span>"
 page_id: 36460
 namespace: 14
 revision_id: 197687
@@ -15,4 +14,4 @@ sort_keys:
   "Images of collectibles": "Mithril Miniatures"
 ---
 
-Images of figures from [Mithril Miniatures](/wiki/Mithril_Miniatures).
+Images of figures from [Mithril Miniatures](../../main/M/Mithril_Miniatures.md).

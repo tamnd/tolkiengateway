@@ -1,6 +1,5 @@
 ---
 title: "File:Lars Gustafsson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lars Gustafsson.jpg</span>"
 page_id: 31137
 namespace: 6
 revision_id: 248905

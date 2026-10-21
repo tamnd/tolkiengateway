@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alda"
 ---
 
-Redirect to [Alda](/wiki/Alda).
+Redirect to [Alda](Alda.md).

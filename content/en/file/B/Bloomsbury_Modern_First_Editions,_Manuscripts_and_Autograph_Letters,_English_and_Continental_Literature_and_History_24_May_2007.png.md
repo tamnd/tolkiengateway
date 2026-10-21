@@ -1,6 +1,5 @@
 ---
 title: "File:Bloomsbury Modern First Editions, Manuscripts and Autograph Letters, English and Continental Literature and History 24 May 2007.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bloomsbury Modern First Editions, Manuscripts and Autograph Letters, English and Continental Literature and History 24 May 2007.png</span>"
 page_id: 36963
 namespace: 6
 revision_id: 215413

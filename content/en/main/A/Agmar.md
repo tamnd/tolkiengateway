@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar"
 ---
 
-Redirect to [Angmar](/wiki/Angmar).
+Redirect to [Angmar](Angmar.md).

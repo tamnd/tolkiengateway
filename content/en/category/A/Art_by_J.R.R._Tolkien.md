@@ -1,6 +1,5 @@
 ---
 title: "Category:Art by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Art by J.R.R. Tolkien</span>"
 page_id: 27622
 namespace: 14
 revision_id: 111522
@@ -13,4 +12,4 @@ categories:
   - "Art"
 ---
 
-This category collects articles about drawings by J.R.R. Tolkien. See also [Category:Images by J.R.R. Tolkien](/wiki/Category:Images_by_J.R.R._Tolkien).
+This category collects articles about drawings by J.R.R. Tolkien. See also [Category:Images by J.R.R. Tolkien](../I/Images_by_J.R.R._Tolkien.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:War of the Ring.png"
 ---
 
-Redirect to [File:War of the Ring.png](/wiki/File:War_of_the_Ring.png).
+Redirect to [File:War of the Ring.png](War_of_the_Ring.png.md).

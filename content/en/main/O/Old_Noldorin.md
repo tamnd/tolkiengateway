@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kornoldorin"
 ---
 
-Redirect to [Kornoldorin](/wiki/Kornoldorin).
+Redirect to [Kornoldorin](../K/Kornoldorin.md).

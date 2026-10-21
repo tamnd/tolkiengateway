@@ -1,6 +1,5 @@
 ---
 title: "File:The Comb and Wattle Inn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Comb and Wattle Inn.jpg</span>"
 page_id: 23944
 namespace: 6
 revision_id: 248491

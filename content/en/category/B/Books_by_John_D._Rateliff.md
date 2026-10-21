@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by John D. Rateliff"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by John D. Rateliff</span>"
 page_id: 26376
 namespace: 14
 revision_id: 104247
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Rateliff, John D."
 ---
 
-Books by [John D. Rateliff](/wiki/John_D._Rateliff).
+Books by [John D. Rateliff](../../main/J/John_D._Rateliff.md).

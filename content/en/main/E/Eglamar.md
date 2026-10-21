@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eglamar (disambiguation)"
 ---
 
-Redirect to [Eglamar (disambiguation)](/wiki/Eglamar_(disambiguation)).
+Redirect to [Eglamar (disambiguation)](<Eglamar_(disambiguation).md>).

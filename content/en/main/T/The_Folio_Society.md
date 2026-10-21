@@ -1,6 +1,5 @@
 ---
 title: "The Folio Society"
-display_title: "<span class=\"mw-page-title-main\">The Folio Society</span>"
 page_id: 17674
 namespace: 0
 revision_id: 413008
@@ -32,28 +31,26 @@ infobox:
     value: "https://www.foliosociety.com"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Folio_Society_logo.png"><img src="/w/images/2/2d/The_Folio_Society_logo.png" decoding="async" loading="lazy" width="196" height="257" class="mw-file-element" data-file-width="196" data-file-height="257"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Folio Society</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="/wiki/1947" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">London</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Limited Edition Books</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external free" href="https://www.foliosociety.com" rel="noreferrer noopener" target="_blank">https://www.foliosociety.com</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_logo.png.md"><img src="https://tolkiengateway.net/w/images/2/2d/The_Folio_Society_logo.png" decoding="async" loading="lazy" width="196" height="257" class="mw-file-element" data-file-width="196" data-file-height="257"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Folio Society</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Company Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../_/1947.md" title="1947">1947</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">London</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Limited Edition Books</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external free" href="https://www.foliosociety.com" rel="noreferrer noopener" target="_blank">https://www.foliosociety.com</a></td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**The Folio Society** is a publishing company which has released several books by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* is their best selling 3-volume set of all time.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In [2021](/wiki/2021) they stopped shrink-wrapping their volumes in favor of recycled transparent paper.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**The Folio Society** is a publishing company which has released several books by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). *[The Lord of the Rings](The_Lord_of_the_Rings.md)* is their best selling 3-volume set of all time.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In [2021](../_/2021.md) they stopped shrink-wrapping their volumes in favor of recycled transparent paper.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Editions {#Editions}
 
 ### The Hobbit (1976) {#The_Hobbit_(1976)}
 
-This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works. Some copies erroneously reference [George Allen &amp; Unwin](/wiki/George_Allen_%26_Unwin) on the title page instead of The Folio Society. According to [Wayne G. Hammond](/wiki/Wayne_G._Hammond), this occurred due to the imprint being identical to the George Allen &amp; Unwin release, and the first few pages were supposed to be replaced with a reference to The Folio society.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+This is the first release from The Folio Society of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works. Some copies erroneously reference [George Allen &amp; Unwin](../G/George_Allen_&_Unwin.md) on the title page instead of The Folio Society. According to [Wayne G. Hammond](../W/Wayne_G._Hammond.md), this occurred due to the imprint being identical to the George Allen &amp; Unwin release, and the first few pages were supposed to be replaced with a reference to The Folio society.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br> **Details**
 
-- Illustrations by [H.E. Riddett](/wiki/H.E._Riddett)
+- Illustrations by [H.E. Riddett](../H/H.E._Riddett.md)
 - Slipcase designed by Jeff Clements
 - Quarter leather
 - 7 3/4" by 9 3/4"
 
 ### The Lord of the Rings (1977-1979) {#The_Lord_of_the_Rings_(1977-1979)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_(1977,_The_Folio_Society).webp"><img src="/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 1.5x, /w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 2x" data-file-width="1600" data-file-height="2000"/></a><figcaption>1977</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1977,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281977%2C_The_Folio_Society%29.webp.png 2x" data-file-width="1600" data-file-height="2000"/></a><figcaption>1977</figcaption></figure>
 
 - Set in 11 point Barbou leaded I point with Libra for display
 - Printed on Guard Bridge Silver City paper
@@ -70,14 +67,14 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 </th></tr>
 <tr>
 <td>1st Impression</td>
-<td><a href="/wiki/1977" title="1977">1977</a></td>
+<td><a href="../_/1977.md" title="1977">1977</a></td>
 <td>W&amp;J Mackay Limited</td>
 <td></td>
 <td>
 </td></tr>
 <tr>
 <td>2nd Impression</td>
-<td><a href="/wiki/1979" title="1979">1979</a></td>
+<td><a href="../_/1979.md" title="1979">1979</a></td>
 <td></td>
 <td></td>
 <td>
@@ -87,19 +84,17 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 
 ### The Lord of the Rings (1990-1995) {#The_Lord_of_the_Rings_(1990-1995)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_(1990,_The_Folio_Society).webp"><img src="/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 1.5x, /w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 2x" data-file-width="768" data-file-height="960"/></a><figcaption>1990-1993</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1990,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/300px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/450px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp/600px-The_Lord_of_the_Rings_%281990%2C_The_Folio_Society%29.webp.png 2x" data-file-width="768" data-file-height="960"/></a><figcaption>1990-1993</figcaption></figure>
 
 ### The Hobbit (1997-Present) {#The_Hobbit_(1997-Present)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Folio_Society_-_The_Hobbit_(1997).webp"><img src="/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/300px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/450px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 1.5x, /w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/600px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Hobbit, 1997-Present</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Hobbit_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/300px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/450px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Folio_Society_-_The_Hobbit_%281997%29.webp/600px-The_Folio_Society_-_The_Hobbit_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Hobbit, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
 <p>This edition is bound in parchment cloth blocked in gold, with an inset label showing Smaug the dragon. It contains 19 black-and-white illustrations by the great Eric Fraser, and endpapers printed in red and black ink, showing Thrór’s Map and Wilderland.
 </p>
 <p class="tg-quote-footer"><cite>The Folio Society</cite></p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 <br> **Details**
 
@@ -359,15 +354,13 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 
 ### The Lord of the Rings (1997-Present) {#The_Lord_of_the_Rings_(1997-Present)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Folio_Society_-_The_Lord_of_the_Rings_(1997).webp"><img src="/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 1.5x, /w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 1997-Present</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
 <p>Eric Fraser was one of the foremost British illustrators of the 20th century. His images – a total of seven full-page images and 57 head-pieces – are based on original designs by Queen Margrethe II of Denmark. Tolkien had seen her sketches and was so impressed that his executors gave special permission for Fraser to interpret them for these Folio editions. Covers blocked in gold and maps of Middle Earth as endpapers complete this superb edition of one the world’s favourite stories.
 </p>
 <p class="tg-quote-footer"><cite>The Folio society</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 **Details**
 
@@ -619,15 +612,13 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 
 ### The Silmarillion (1997-Present) {#The_Silmarillion_(1997-Present)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Folio_Society_-_The_Silmarillion_(1997).webp"><img src="/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/300px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/450px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 1.5x, /w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/600px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Silmarillion, 1997-Present</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Silmarillion_(1997).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/300px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/450px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/The_Folio_Society_-_The_Silmarillion_%281997%29.webp/600px-The_Folio_Society_-_The_Silmarillion_%281997%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Silmarillion, 1997-Present</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
-<p>This edition is published with the original foreword by Christopher Tolkien. It features a frontispiece and 28 superb chapter illustrations by the artist <a class="new" href="/w/index.php?title=Francis_Mosley&amp;action=edit&amp;redlink=1" title="Francis Mosley (page does not exist)">Francis Mosley</a>. The binding is blocked in blue and pale gold, based on a design by the artist. A very special feature of this edition is the fold-out map by Christopher Tolkien. Measuring 23 × 15 inches and printed in black and red, it shows Beleriand and the Lands to the North – the mysterious lands that precede Middle-earth.
+<p>This edition is published with the original foreword by Christopher Tolkien. It features a frontispiece and 28 superb chapter illustrations by the artist <a class="new" href="https://tolkiengateway.net/w/index.php?title=Francis_Mosley&amp;action=edit&amp;redlink=1" title="Francis Mosley (page does not exist)">Francis Mosley</a>. The binding is blocked in blue and pale gold, based on a design by the artist. A very special feature of this edition is the fold-out map by Christopher Tolkien. Measuring 23 × 15 inches and printed in black and red, it shows Beleriand and the Lands to the North – the mysterious lands that precede Middle-earth.
 </p>
 <p class="tg-quote-footer"><cite>The Folio Society</cite></p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 <br> **Details**
 
@@ -795,14 +786,12 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 
 ### The Lord of the Rings (Limited Edition, 2022) {#The_Lord_of_the_Rings_(Limited_Edition,_2022)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Folio_Society_-_The_Lord_of_the_Rings_(Limited_Edition).webp"><img src="/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 1.5x, /w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 2022</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Folio_Society_-_The_Lord_of_the_Rings_(Limited_Edition).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/300px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/450px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp/600px-The_Folio_Society_-_The_Lord_of_the_Rings_%28Limited_Edition%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>The Lord of the Rings, 2022</figcaption></figure>
 
 <blockquote class="tg-quote noexcerpt">
 <p>This exquisite three-volume set is presented in a silver-blocked slipcase (lined with a hidden illustration) with a new art print exclusive to this edition and a pair of maps drawn by Christopher Tolkien, printed together and presented in a cloth-covered case. Each volume is quarter-bound in burgundy calfskin leather blocked in silver, with an illustrated inset label, silver page tops and a burgundy satin ribbon marker. The text itself – printed in black and burgundy – is the most up-to-date and academically rigorous available, and is accompanied by a new preface written exclusively for this edition by the artist.
 </p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
 
 #### Details {#Details}
 
@@ -826,9 +815,9 @@ This is the first release from The Folio Society of [J.R.R. Tolkien](/wiki/J.R.R
 
 ### The Hobbit (Limited Edition, 2024) {#The_Hobbit_(Limited_Edition,_2024)}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Hobbit_(2024,_The_Folio_Society).webp"><img src="/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/300px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/450px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 1.5x, /w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/600px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>Limited Edition, 2024</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(2024,_The_Folio_Society).webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/300px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/450px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Hobbit_%282024%2C_The_Folio_Society%29.webp/600px-The_Hobbit_%282024%2C_The_Folio_Society%29.webp.png 2x" data-file-width="700" data-file-height="700"/></a><figcaption>Limited Edition, 2024</figcaption></figure>
 
-On [November 19th](/wiki/November_19 "November 19"), [2024](/wiki/2024) The Folio Society released a limited edition of *The Hobbit* to match their previous *The Lord of the Rings* release.
+On [November 19th](../N/November_19.md), [2024](../_/2024.md) The Folio Society released a limited edition of *The Hobbit* to match their previous *The Lord of the Rings* release.
 
 #### Details {#Details_2}
 
@@ -855,12 +844,12 @@ On [November 19th](/wiki/November_19 "November 19"), [2024](/wiki/2024) The Foli
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.librarything.com/topic/346713" rel="noreferrer noopener" target="_blank">https://www.librarything.com/topic/346713</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.librarything.com" rel="noreferrer noopener" target="_blank">Library Thing</a></span>. <span class="cite-web-accessed">Retrieved 26 May 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.librarything.com/topic/346713" rel="noreferrer noopener" target="_blank">https://www.librarything.com/topic/346713</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.librarything.com" rel="noreferrer noopener" target="_blank">Library Thing</a></span>. <span class="cite-web-accessed">Retrieved 26 May 2024</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.foliosociety.com/usa/blog/this-folio-life-it-s-a-wrap/" rel="noreferrer noopener" target="_blank">&#34;This Folio Life: It’s a wrap&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.foliosociety.com/" rel="noreferrer noopener" target="_blank">The Folio Society</a></span>. <span class="cite-web-accessed">Retrieved 26 May 2024</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.foliosociety.com/usa/blog/this-folio-life-it-s-a-wrap/" rel="noreferrer noopener" target="_blank">&#34;This Folio Life: It’s a wrap&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.foliosociety.com/" rel="noreferrer noopener" target="_blank">The Folio Society</a></span>. <span class="cite-web-accessed">Retrieved 26 May 2024</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien:_A_Descriptive_Bibliography" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a>, pg. 52</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a>, pg. 52</span>
 </li>
-<li id="cite_note-adam-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-adam_4-0">4.0</a></sup> <sup><a href="#cite_ref-adam_4-1">4.1</a></sup> <sup><a href="#cite_ref-adam_4-2">4.2</a></sup></span> <span class="reference-text">Printing history courtesy of Adam Kohlhaas via e-mail to <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a></span>
+<li id="cite_note-adam-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-adam_4-0">4.0</a></sup> <sup><a href="#cite_ref-adam_4-1">4.1</a></sup> <sup><a href="#cite_ref-adam_4-2">4.2</a></sup></span> <span class="reference-text">Printing history courtesy of Adam Kohlhaas via e-mail to <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a></span>
 </li>
 </ol></div>

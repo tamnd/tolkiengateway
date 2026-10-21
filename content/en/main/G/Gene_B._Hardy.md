@@ -1,6 +1,5 @@
 ---
 title: "Gene B. Hardy"
-display_title: "<span class=\"mw-page-title-main\">Gene B. Hardy</span>"
 page_id: 21639
 namespace: 0
 revision_id: 221788
@@ -23,6 +22,6 @@ sort_keys:
 
 ## Bibliography {#Bibliography}
 
-- [1977](/wiki/1977): *[Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit](/wiki/Cliffs_Notes_on_Tolkien%27s_The_Lord_of_the_Rings_and_The_Hobbit)*
-- [1983](/wiki/1983): *Children's Novels and the Movies*
-    - "More than a Magic Ring" (review of [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)"))
+- [1977](../_/1977.md): *[Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit](../C/Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md)*
+- [1983](../_/1983.md): *Children's Novels and the Movies*
+    - "More than a Magic Ring" (review of [*The Hobbit* (1977 film)](<../T/The_Hobbit_(1977_film).md>))

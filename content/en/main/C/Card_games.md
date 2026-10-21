@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Card games"
 ---
 
-Redirect to [Category:Card games](/wiki/Category:Card_games).
+Redirect to [Category:Card games](../../category/C/Card_games.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Tol Sirion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Tol Sirion.jpg</span>"
 page_id: 5777
 namespace: 6
 revision_id: 205271
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This image was drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and was done at Lyme Regis in Dorset in 1928. The picture shows [Minas Tirith](/wiki/Minas_Tirith_in_Beleriand "Minas Tirith in Beleriand"), the watchtower of [Finrod Felagund](/wiki/Finrod "Finrod"), on the island of [Tol Sirion](/wiki/Tol_Sirion), which after its capture by [Sauron](/wiki/Sauron) was named [Tol-in-Gaurhoth](/wiki/Tol-in-Gaurhoth), the [Isle of Werewolves](/wiki/Isle_of_Werewolves). To the left are [Ered Wethrin](/wiki/Ered_Wethrin), the Mountains of Shadow, and to the right the western edge of [Dorthonion](/wiki/Dorthonion) ([Taur-nu-Fuin](</wiki/Taur-nu-Fuin_(Dorthonion)> "Taur-nu-Fuin (Dorthonion)")); beyond lies the wide plain of [Ard-galen](/wiki/Ard-galen), called after its devastation [Anfauglith](/wiki/Anfauglith), and on the far northern horizon is the line of [Ered Engrin](/wiki/Ered_Engrin), the [Iron Mountains](/wiki/Iron_Mountains), with smoke hanging over [Thangorodrim](/wiki/Thangorodrim).
+This image was drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and was done at Lyme Regis in Dorset in 1928. The picture shows [Minas Tirith](../../main/M/Minas_Tirith_in_Beleriand.md), the watchtower of [Finrod Felagund](../../main/F/Finrod.md), on the island of [Tol Sirion](../../main/T/Tol_Sirion.md), which after its capture by [Sauron](../../main/S/Sauron.md) was named [Tol-in-Gaurhoth](../../main/T/Tol-in-Gaurhoth.md), the [Isle of Werewolves](../../main/I/Isle_of_Werewolves.md). To the left are [Ered Wethrin](../../main/E/Ered_Wethrin.md), the Mountains of Shadow, and to the right the western edge of [Dorthonion](../../main/D/Dorthonion.md) ([Taur-nu-Fuin](<../../main/T/Taur-nu-Fuin_(Dorthonion).md>)); beyond lies the wide plain of [Ard-galen](../../main/A/Ard-galen.md), called after its devastation [Anfauglith](../../main/A/Anfauglith.md), and on the far northern horizon is the line of [Ered Engrin](../../main/E/Ered_Engrin.md), the [Iron Mountains](../../main/I/Iron_Mountains.md), with smoke hanging over [Thangorodrim](../../main/T/Thangorodrim.md).
 
 ## Licensing {#Licensing}
 

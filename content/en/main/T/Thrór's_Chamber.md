@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Chamber of Thrór"
 ---
 
-Redirect to [Great Chamber of Thrór](/wiki/Great_Chamber_of_Thrór).
+Redirect to [Great Chamber of Thrór](../G/Great_Chamber_of_Thrór.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gates of Morning"
 ---
 
-Redirect to [Gates of Morning](/wiki/Gates_of_Morning).
+Redirect to [Gates of Morning](Gates_of_Morning.md).

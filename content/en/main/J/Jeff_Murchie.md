@@ -1,6 +1,5 @@
 ---
 title: "Jeff Murchie"
-display_title: "<span class=\"mw-page-title-main\">Jeff Murchie</span>"
 page_id: 36200
 namespace: 0
 revision_id: 171246
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Murchie, Jeff"
 ---
 
-**Jeff Murchie** is an American illustrator, working as senior character concept artist for 38 Studios.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has created much of the concept art for *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*, in which he says to have been influenced by the works of [Angus McBride](/wiki/Angus_McBride).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Jeff Murchie** is an American illustrator, working as senior character concept artist for 38 Studios.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He has created much of the concept art for *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, in which he says to have been influenced by the works of [Angus McBride](../A/Angus_McBride.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Images by Jeff Murchie](/wiki/Category:Images_by_Jeff_Murchie "Category:Images by Jeff Murchie")
+- [Images by Jeff Murchie](../../category/I/Images_by_Jeff_Murchie.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Lórien Bowman.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Lórien Bowman.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Orophin_-_Lórien_Bowman.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Orophin - Lórien Bowman.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Orophin_-_Lórien_Bowman.jpg.md).

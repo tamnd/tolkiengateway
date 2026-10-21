@@ -1,6 +1,5 @@
 ---
 title: "Noakes Family"
-display_title: "<span class=\"mw-page-title-main\">Noakes Family</span>"
 page_id: 29185
 namespace: 0
 revision_id: 435941
@@ -14,9 +13,9 @@ categories:
   - "Noakes"
 ---
 
-The **Noakes** family (plural *Nokeses*) were working-class [hobbits](/wiki/Hobbits "Hobbits").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Noakes** family (plural *Nokeses*) were working-class [hobbits](../H/Hobbits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Old Noakes](/wiki/Old_Noakes) was a resident of [Bywater](/wiki/Bywater).
+[Old Noakes](../O/Old_Noakes.md) was a resident of [Bywater](../B/Bywater.md).
 
 ## Etymology {#Etymology}
 
@@ -25,8 +24,8 @@ Noake(s) or Noke(s) is a real-life English surname, derived probably from the pl
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Long-expected_Party" title="A Long-expected Party">A Long-expected Party</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Long-expected_Party.md" title="A Long-expected Party">A Long-expected Party</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Guide_to_the_Names_in_The_Lord_of_the_Rings" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 761</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 761</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by R. Ward Shipman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by R. Ward Shipman</span>"
 page_id: 29969
 namespace: 14
 revision_id: 431322
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Shipman, R. Ward"
 ---
 
-This category lists all **images by [R. Ward Shipman](/wiki/R._Ward_Shipman)**.
+This category lists all **images by [R. Ward Shipman](../../main/R/R._Ward_Shipman.md)**.

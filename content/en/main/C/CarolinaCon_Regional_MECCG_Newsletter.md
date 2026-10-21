@@ -14,13 +14,13 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>CarolinaCon Regional MECCG Newsletter</b></i> was the official [Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game) newsletter, edited by James Kight.
+<i><b>CarolinaCon Regional MECCG Newsletter</b></i> was the official [Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md) newsletter, edited by James Kight.
 
 ## Issues {#Issues}
 
-- \#1 published June 1998 (interview with [Mike Reynolds](/wiki/Mike_Reynolds))
-- \#2 published [August 24](/wiki/24_August "24 August"), 1998 (interview with [Audrey Corman](/wiki/Audrey_Corman))
-- \#3 published September 1998 (interview with [Liz Danforth](/wiki/Liz_Danforth))
-- \#4 published January 1999 (interview with [Coleman Charlton](/wiki/Coleman_Charlton))
-- \#5 published August 1999 (interview with [Angelo Montanini](/wiki/Angelo_Montanini))
-- \#6 published October 1999 (interview with [Donato Giancola](/wiki/Donato_Giancola))
+- \#1 published June 1998 (interview with [Mike Reynolds](../M/Mike_Reynolds.md))
+- \#2 published [August 24](../_/24_August.md), 1998 (interview with [Audrey Corman](../A/Audrey_Corman.md))
+- \#3 published September 1998 (interview with [Liz Danforth](../L/Liz_Danforth.md))
+- \#4 published January 1999 (interview with [Coleman Charlton](Coleman_Charlton.md))
+- \#5 published August 1999 (interview with [Angelo Montanini](../A/Angelo_Montanini.md))
+- \#6 published October 1999 (interview with [Donato Giancola](../D/Donato_Giancola.md))

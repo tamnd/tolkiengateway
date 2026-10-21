@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer (disambiguation)"
 ---
 
-Redirect to [Farmer (disambiguation)](/wiki/Farmer_(disambiguation)).
+Redirect to [Farmer (disambiguation)](<Farmer_(disambiguation).md>).

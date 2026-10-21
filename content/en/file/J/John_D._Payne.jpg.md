@@ -1,6 +1,5 @@
 ---
 title: "File:John D. Payne.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John D. Payne.jpg</span>"
 page_id: 63727
 namespace: 6
 revision_id: 434544
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.forbesindia.com/article/lifes/everyone-had-come-to-tolkien-in-some-kind-of-time-of-crisis-jd-payne-on-creating-the-rings-of-power/79491/1" rel="noreferrer noopener" target="_blank">Forbes</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Morgul"
 ---
 
-Redirect to [Minas Morgul](/wiki/Minas_Morgul).
+Redirect to [Minas Morgul](../M/Minas_Morgul.md).

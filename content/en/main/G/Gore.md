@@ -11,4 +11,4 @@ redirect_target: "Naith"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Naith](/wiki/Naith#Etymology).
+Redirect to [Naith](../N/Naith.md#Etymology).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fandom"
 ---
 
-Redirect to [Fandom](/wiki/Fandom).
+Redirect to [Fandom](../F/Fandom.md).

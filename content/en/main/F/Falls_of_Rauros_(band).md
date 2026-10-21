@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bands"
 ---
 
-Redirect to [Bands](/wiki/Bands).
+Redirect to [Bands](../B/Bands.md).

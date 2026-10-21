@@ -11,4 +11,4 @@ redirect_target: "Daeron"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Daeron](/wiki/Daeron#Other_versions_of_the_legendarium).
+Redirect to [Daeron](../D/Daeron.md#Other_versions_of_the_legendarium).

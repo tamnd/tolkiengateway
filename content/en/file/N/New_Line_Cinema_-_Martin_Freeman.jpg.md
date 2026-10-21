@@ -1,6 +1,5 @@
 ---
 title: "File:New Line Cinema - Martin Freeman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Line Cinema - Martin Freeman.jpg</span>"
 page_id: 38243
 namespace: 6
 revision_id: 222532

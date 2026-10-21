@@ -1,6 +1,5 @@
 ---
 title: "Oilima Markirya"
-display_title: "<span class=\"mw-page-title-main\">Oilima Markirya</span>"
 page_id: 38382
 namespace: 0
 revision_id: 308074
@@ -14,13 +13,13 @@ categories:
   - "Quenya texts"
 ---
 
-<i><b>Oilima Markirya</b></i> ("**The Last Ark**") is the title of a [Qenya](/wiki/Qenya)/[Quenya](/wiki/Quenya) poem (with English translation) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), originally published in the essay "[A Secret Vice](/wiki/A_Secret_Vice)" (in *[The Monsters and the Critics](/wiki/The_Monsters_and_the_Critics)*).
+<i><b>Oilima Markirya</b></i> ("**The Last Ark**") is the title of a [Qenya](../Q/Qenya.md)/[Quenya](../Q/Quenya.md) poem (with English translation) by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), originally published in the essay "[A Secret Vice](../A/A_Secret_Vice.md)" (in *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*).
 
-Two additional versions of the poem also appeared in *[The Monsters and the Critics](/wiki/The_Monsters_and_the_Critics)*, one called "the first version", and one likely dating from "the last decade" of Tolkien's life.
+Two additional versions of the poem also appeared in *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*, one called "the first version", and one likely dating from "the last decade" of Tolkien's life.
 
-Draft versions of *Oilima Markirya*, together with comments, were published in [*Parma Eldalamberon* 16](/wiki/Parma_Eldalamberon_16 "Parma Eldalamberon 16").
+Draft versions of *Oilima Markirya*, together with comments, were published in [*Parma Eldalamberon* 16](../P/Parma_Eldalamberon_16.md).
 
-[Helge Fauskanger](/wiki/Helge_Fauskanger) used the early ([1931](/wiki/1931)) and late versions of the first stanza of the poem to display the evolution of Tolkien's revisions in Quenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) used the early ([1931](../_/1931.md)) and late versions of the first stanza of the poem to display the evolution of Tolkien's revisions in Quenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Last version of the poem {#Last_version_of_the_poem}
 
@@ -72,13 +71,13 @@ Man cenuva métim&#39; andúnë?
 
 ## See also {#See_also}
 
-- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+- [Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/vice.htm" rel="noreferrer noopener" target="_blank">&#34;Tolkien&#39;s Not-So-Secret Vice&#34;</a></span>. <span class="cite-web-website">Arda</span>. <span class="cite-web-accessed">Retrieved 13 October 2019</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/vice.htm" rel="noreferrer noopener" target="_blank">&#34;Tolkien&#39;s Not-So-Secret Vice&#34;</a></span>. <span class="cite-web-website">Arda</span>. <span class="cite-web-accessed">Retrieved 13 October 2019</span></cite></span>
 </li>
 </ol></div>

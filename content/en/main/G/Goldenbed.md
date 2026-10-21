@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ascar"
 ---
 
-Redirect to [Ascar](/wiki/Ascar).
+Redirect to [Ascar](../A/Ascar.md).

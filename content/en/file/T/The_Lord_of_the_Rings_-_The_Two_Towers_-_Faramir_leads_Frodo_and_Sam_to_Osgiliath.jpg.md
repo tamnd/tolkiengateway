@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Faramir leads Frodo and Sam to Osgiliath.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Faramir leads Frodo and Sam to Osgiliath.jpg</span>"
 page_id: 64188
 namespace: 6
 revision_id: 367025
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, "[Osgiliath](</wiki/Osgiliath_(scene)> "Osgiliath (scene)")", showing Faramir leading [Frodo](/wiki/Frodo) and [Sam](/wiki/Sam) to [Osgiliath](/wiki/Osgiliath).
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, "[Osgiliath](<../../main/O/Osgiliath_(scene).md>)", showing Faramir leading [Frodo](../../main/F/Frodo.md) and [Sam](../../main/S/Sam.md) to [Osgiliath](../../main/O/Osgiliath.md).
 
 ## Licensing {#Licensing}
 

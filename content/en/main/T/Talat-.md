@@ -15,11 +15,11 @@ sort_keys:
   "Quenya verbs": "Talat"
 ---
 
-**talat-** is a [Quenya](/wiki/Quenya) verb root meaning "to fall down".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**talat-** is a [Quenya](../Q/Quenya.md) verb root meaning "to fall down".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-From a [PQ](/wiki/PQ) [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=TAL%C3%81T&amp;action=edit&amp;redlink=1" title="TALÁT (page does not exist)">TALÁT</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+From a [PQ](../P/PQ.md) [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TAL%C3%81T&amp;action=edit&amp;redlink=1" title="TALÁT (page does not exist)">TALÁT</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Forms {#Forms}
 
@@ -27,18 +27,18 @@ From a [PQ](/wiki/PQ) [root](/wiki/Root "Root") <a class="new" href="/w/index.ph
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Talta-&amp;action=edit&amp;redlink=1" title="Talta- (page does not exist)">talta-</a></i>
-- <i><a class="new" href="/w/index.php?title=Atalta-&amp;action=edit&amp;redlink=1" title="Atalta- (page does not exist)">atalta-</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Talta-&amp;action=edit&amp;redlink=1" title="Talta- (page does not exist)">talta-</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Atalta-&amp;action=edit&amp;redlink=1" title="Atalta- (page does not exist)">atalta-</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_347" title="Letter 347">Letter 347</a>, (dated <a href="/wiki/17_December" title="17 December">17 December</a> <a href="/wiki/1972" title="1972">1972</a>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;Part One: III. <a href="/wiki/The_Lost_Road" title="The Lost Road">The Lost Road, (ii) The Númenórean chapters</a>&#34;, p.72 (as <i>talant<b>ie</b></i> &#34;he <b>is</b> fallen&#34;)</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;Part One: III. <a href="The_Lost_Road.md" title="The Lost Road">The Lost Road, (ii) The Númenórean chapters</a>&#34;, p.72 (as <i>talant<b>ie</b></i> &#34;he <b>is</b> fallen&#34;)</span>
 </li>
 </ol></div>

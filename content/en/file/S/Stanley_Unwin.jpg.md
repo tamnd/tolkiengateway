@@ -1,6 +1,5 @@
 ---
 title: "File:Stanley Unwin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stanley Unwin.jpg</span>"
 page_id: 57169
 namespace: 6
 revision_id: 429467

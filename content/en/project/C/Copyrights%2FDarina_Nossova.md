@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Darina Nossova"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Darina Nossova</span>"
 page_id: 58206
 namespace: 4
 revision_id: 322049
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nossova, Darina"
 ---
 
-- Darina Nossova has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Darina_Nossova "Category:Images by Darina Nossova") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Darina Nossova has kindly granted her permission to use [her artwork](../../category/I/Images_by_Darina_Nossova.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 September 2020
-- User who sought the permission via Tumblr: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via Tumblr: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

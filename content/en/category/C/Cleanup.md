@@ -1,6 +1,5 @@
 ---
 title: "Category:Cleanup"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cleanup</span>"
 page_id: 13236
 namespace: 14
 revision_id: 63198

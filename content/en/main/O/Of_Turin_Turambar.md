@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Túrin Turambar"
 ---
 
-Redirect to [Of Túrin Turambar](/wiki/Of_Túrin_Turambar).
+Redirect to [Of Túrin Turambar](Of_Túrin_Turambar.md).

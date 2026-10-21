@@ -1,6 +1,5 @@
 ---
 title: "CHAOS Productions"
-display_title: "<span class=\"mw-page-title-main\">CHAOS Productions</span>"
 page_id: 27963
 namespace: 0
 revision_id: 147730
@@ -14,7 +13,7 @@ categories:
   - "Video Game developers"
 ---
 
-**CHAOS Productions** is a company that developed and published the video game [Lord of the Rings vol. 1](/wiki/Lord_of_the_Rings_vol._1).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**CHAOS Productions** is a company that developed and published the video game [Lord of the Rings vol. 1](../L/Lord_of_the_Rings_vol._1.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

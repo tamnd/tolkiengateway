@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cú"
 ---
 
-Redirect to [Cú](/wiki/Cú).
+Redirect to [Cú](Cú.md).

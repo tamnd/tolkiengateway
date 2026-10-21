@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Assassins of Dol Amroth"
 ---
 
-Redirect to [Assassins of Dol Amroth](/wiki/Assassins_of_Dol_Amroth).
+Redirect to [Assassins of Dol Amroth](../A/Assassins_of_Dol_Amroth.md).

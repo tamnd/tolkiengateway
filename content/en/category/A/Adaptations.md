@@ -1,6 +1,5 @@
 ---
 title: "Category:Adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Adaptations</span>"
 page_id: 15751
 namespace: 14
 revision_id: 195977
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-This category and its subcategories lists all **Adaptations** of [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category and its subcategories lists all **Adaptations** of [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

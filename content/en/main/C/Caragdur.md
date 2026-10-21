@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caragdûr"
 ---
 
-Redirect to [Caragdûr](/wiki/Caragdûr).
+Redirect to [Caragdûr](Caragdûr.md).

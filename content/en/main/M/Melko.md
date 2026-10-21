@@ -11,4 +11,4 @@ redirect_target: "Morgoth"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Morgoth](/wiki/Morgoth#Other_versions_of_the_legendarium).
+Redirect to [Morgoth](Morgoth.md#Other_versions_of_the_legendarium).

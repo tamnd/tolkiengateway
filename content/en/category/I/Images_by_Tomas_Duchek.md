@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tomas Duchek"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tomas Duchek</span>"
 page_id: 72824
 namespace: 14
 revision_id: 431468
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Duchek, Tomas"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Tomas_Duchek&amp;action=edit&amp;redlink=1" title="Tomas Duchek (page does not exist)">Tomas Duchek</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tomas_Duchek&amp;action=edit&amp;redlink=1" title="Tomas Duchek (page does not exist)">Tomas Duchek</a></b>.

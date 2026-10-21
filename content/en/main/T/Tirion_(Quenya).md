@@ -13,25 +13,25 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>tirion</b></i> is a [Quenya](/wiki/Quenya) word meaning "watch-tower, tower".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tirion</b></i> is a [Quenya](../Q/Quenya.md) word meaning "watch-tower, tower".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [TIR](/wiki/TIR)
+- [Root](../S/Sundocarme.md) [TIR](TIR~30982.md)
 
 ## Examples {#Examples}
 
-- [Tirion upon Túna](/wiki/Tirion "Tirion")
+- [Tirion upon Túna](Tirion.md)
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[tirith](/wiki/Tirith "Tirith")*
+- [Sindarin](../S/Sindarin.md) *[tirith](Tirith.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 394</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 394</span>
 </li>
 </ol></div>

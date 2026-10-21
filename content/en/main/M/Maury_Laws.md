@@ -1,6 +1,5 @@
 ---
 title: "Maury Laws"
-display_title: "<span class=\"mw-page-title-main\">Maury Laws</span>"
 page_id: 47618
 namespace: 0
 revision_id: 388699
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Laws, Maury"
 ---
 
-**Maury Laws** is an American composer. Laws worked for [Rankin/Bass](/wiki/Rankin/Bass) for many years, and composed the music to [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)") and [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"), the former earning Laws a <a class="external text" href="http://www.imdb.com/event/ev0000301/1979?ref_=ttawd_ev_1" rel="noreferrer noopener" target="_blank">Grammy nomination</a>.
+**Maury Laws** is an American composer. Laws worked for [Rankin/Bass](../R/Rankin%252FBass.md) for many years, and composed the music to [*The Hobbit* (1977 film)](<../T/The_Hobbit_(1977_film).md>) and [*The Return of the King* (1980 film)](<../T/The_Return_of_the_King_(1980_film).md>), the former earning Laws a <a class="external text" href="http://www.imdb.com/event/ev0000301/1979?ref_=ttawd_ev_1" rel="noreferrer noopener" target="_blank">Grammy nomination</a>.
 
 ## Filmography {#Filmography}
 
-- [1977](/wiki/1977): *[The Hobbit](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")*
-- [1980](/wiki/1980): *[The Return of the King](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")*
+- [1977](../_/1977.md): *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*
+- [1980](../_/1980.md): *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Far over the misty mountains cold.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Far over the misty mountains cold.mp3</span>"
 page_id: 71070
 namespace: 6
 revision_id: 424639
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads [Far over the misty mountains cold](../../main/F/Far_over_the_misty_mountains_cold.md)
 
 ## Licensing {#Licensing}
 

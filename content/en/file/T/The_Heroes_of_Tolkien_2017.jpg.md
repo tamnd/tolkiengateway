@@ -1,6 +1,5 @@
 ---
 title: "File:The Heroes of Tolkien 2017.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Heroes of Tolkien 2017.jpg</span>"
 page_id: 67517
 namespace: 6
 revision_id: 392213

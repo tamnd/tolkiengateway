@@ -16,9 +16,9 @@ categories:
 
 **Sauron** is the name of several metal bands:
 
-- <a class="new" href="/w/index.php?title=Sauron_(Argentine_band)&amp;action=edit&amp;redlink=1" title="Sauron (Argentine band) (page does not exist)">Sauron (Argentine band)</a>
-- <a class="new" href="/w/index.php?title=Sauron_(Polish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Polish band) (page does not exist)">Sauron (Polish band)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Argentine_band)&amp;action=edit&amp;redlink=1" title="Sauron (Argentine band) (page does not exist)">Sauron (Argentine band)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Polish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Polish band) (page does not exist)">Sauron (Polish band)</a>
 - Sauron, also from Poland (Łowicz), split-up
 - Sauron, a third band from Poland (Starachowice), split-up
-- <a class="new" href="/w/index.php?title=Sauron_(Swedish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Swedish band) (page does not exist)">Sauron (Swedish band)</a>
-- [Sauron (US band)](</wiki/Sauron_(US_band)>)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sauron_(Swedish_band)&amp;action=edit&amp;redlink=1" title="Sauron (Swedish band) (page does not exist)">Sauron (Swedish band)</a>
+- [Sauron (US band)](<Sauron_(US_band).md>)

@@ -1,6 +1,5 @@
 ---
 title: "Bowls"
-display_title: "<span class=\"mw-page-title-main\">Bowls</span>"
 page_id: 40076
 namespace: 0
 revision_id: 201458
@@ -13,14 +12,14 @@ categories:
   - "Activities"
 ---
 
-**Bowls**, now known as lawn-bowling, is played on a lawn with wooden balls. The player's goal is to get the ball nearest to a specified point.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](/wiki/Bilbo_Baggins) was good at this game.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Bowls**, now known as lawn-bowling, is played on a lawn with wooden balls. The player's goal is to get the ball nearest to a specified point.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](Bilbo_Baggins.md) was good at this game.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/John_D._Rateliff" title="John D. Rateliff">John D. Rateliff</a> (ed.), “The Second Phase: Mirkwood,” in <i><a href="/wiki/The_History_of_The_Hobbit" title="The History of The Hobbit">The History of The Hobbit: Mr. Baggins</a></i> (2007), note 25, p. 321</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../J/John_D._Rateliff.md" title="John D. Rateliff">John D. Rateliff</a> (ed.), “The Second Phase: Mirkwood,” in <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit: Mr. Baggins</a></i> (2007), note 25, p. 321</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</span>
 </li>
 </ol></div>

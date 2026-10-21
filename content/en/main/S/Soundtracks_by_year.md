@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Soundtracks by year"
 ---
 
-Redirect to [Index:Soundtracks by year](/wiki/Index:Soundtracks_by_year).
+Redirect to [Index:Soundtracks by year](../../index/S/Soundtracks_by_year.md).

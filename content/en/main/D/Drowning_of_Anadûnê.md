@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Drowning of Anadûnê"
 ---
 
-Redirect to [The Drowning of Anadûnê](/wiki/The_Drowning_of_Anadûnê).
+Redirect to [The Drowning of Anadûnê](../T/The_Drowning_of_Anadûnê.md).

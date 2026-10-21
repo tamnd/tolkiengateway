@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Dragon (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Dragon (The Hobbit).jpg</span>"
 page_id: 6644
 namespace: 6
 revision_id: 205194
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of a dragon created for [The Hobbit](/wiki/The_Hobbit) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Image of a dragon created for [The Hobbit](../../main/T/The_Hobbit.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

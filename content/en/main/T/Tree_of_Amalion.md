@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amalion"
 ---
 
-Redirect to [Amalion](/wiki/Amalion).
+Redirect to [Amalion](../A/Amalion.md).

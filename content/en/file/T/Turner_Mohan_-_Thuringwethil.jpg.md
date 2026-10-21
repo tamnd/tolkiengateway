@@ -1,6 +1,5 @@
 ---
 title: "File:Turner Mohan - Thuringwethil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Turner Mohan - Thuringwethil.jpg</span>"
 page_id: 66278
 namespace: 6
 revision_id: 382219
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Thuringwethil](/wiki/Thuringwethil)*", by <a class="external text" href="https://www.deviantart.com/turnermohan/art/Thuringwethil-425595073" rel="noreferrer noopener" target="_blank">Turner Mohan</a>
+"*[Thuringwethil](../../main/T/Thuringwethil.md)*", by <a class="external text" href="https://www.deviantart.com/turnermohan/art/Thuringwethil-425595073" rel="noreferrer noopener" target="_blank">Turner Mohan</a>
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Turner Mohan</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/turnermohan" rel="noreferrer noopener" target="_blank">Turner Mohan&#39;s DeviantArt account</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Turner_Mohan" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTurner_Mohan.md" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

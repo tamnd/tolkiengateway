@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Bridges"
 ---
 
-Redirect to [Category:Bridges](/wiki/Category:Bridges).
+Redirect to [Category:Bridges](../../category/B/Bridges.md).

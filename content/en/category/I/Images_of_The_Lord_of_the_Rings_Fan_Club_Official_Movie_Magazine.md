@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of The Lord of the Rings Fan Club Official Movie Magazine"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of The Lord of the Rings Fan Club Official Movie Magazine</span>"
 page_id: 41594
 namespace: 14
 revision_id: 224835

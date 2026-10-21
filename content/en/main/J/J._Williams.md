@@ -1,6 +1,5 @@
 ---
 title: "J. Williams"
-display_title: "<span class=\"mw-page-title-main\">J. Williams</span>"
 page_id: 28060
 namespace: 0
 revision_id: 149911
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Williams, J."
 ---
 
-**J. Williams** is the game designer of [Akallabeth MUSH](/wiki/Akallabeth_MUSH).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**J. Williams** is the game designer of [Akallabeth MUSH](../A/Akallabeth_MUSH.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

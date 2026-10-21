@@ -1,6 +1,5 @@
 ---
 title: "File:Citadel BME1 - The Fellowship of the Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Citadel BME1 - The Fellowship of the Ring.jpg</span>"
 page_id: 73308
 namespace: 6
 revision_id: 433552

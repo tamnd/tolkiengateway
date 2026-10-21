@@ -1,6 +1,5 @@
 ---
 title: "Oliver Muirhead"
-display_title: "<span class=\"mw-page-title-main\">Oliver Muirhead</span>"
 page_id: 38299
 namespace: 0
 revision_id: 241897
@@ -23,8 +22,8 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - [Otto Aster](/wiki/Otto_Aster)
-- [2003](/wiki/2003): *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")* - Unspecified
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Otto Aster](Otto_Aster.md)
+- [2003](../_/2003.md): *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)* - Unspecified
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Perilous Realm 2009.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Perilous Realm 2009.jpg</span>"
 page_id: 66664
 namespace: 6
 revision_id: 386054

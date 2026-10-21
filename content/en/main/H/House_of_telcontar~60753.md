@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Telcontar"
 ---
 
-Redirect to [House of Telcontar](/wiki/House_of_Telcontar).
+Redirect to [House of Telcontar](House_of_Telcontar.md).

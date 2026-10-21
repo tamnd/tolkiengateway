@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ÁNAD"
 ---
 
-Redirect to [ÁNAD](/wiki/ÁNAD).
+Redirect to [ÁNAD](../_/ÁNAD.md).

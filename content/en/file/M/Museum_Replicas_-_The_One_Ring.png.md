@@ -1,6 +1,5 @@
 ---
 title: "File:Museum Replicas - The One Ring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Museum Replicas - The One Ring.png</span>"
 page_id: 38881
 namespace: 6
 revision_id: 191577

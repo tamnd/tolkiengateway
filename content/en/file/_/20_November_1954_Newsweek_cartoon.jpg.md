@@ -1,6 +1,5 @@
 ---
 title: "File:20 November 1954 Newsweek cartoon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">20 November 1954 Newsweek cartoon.jpg</span>"
 page_id: 53726
 namespace: 6
 revision_id: 292074
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of a single strip [cartoon](/wiki/Tolkien%27s_works_in_popular_media/Comics "Tolkien's works in popular media/Comics") appearing in the 29 November 1954 edition of *Newsweek*.
+Photograph of a single strip [cartoon](../../main/T/Tolkien's_works_in_popular_media%252FComics.md) appearing in the 29 November 1954 edition of *Newsweek*.
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ Photograph of a single strip [cartoon](/wiki/Tolkien%27s_works_in_popular_media/
 <p>This work is copyrighted and owned by Jeremy Edmonds. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Jeremy Edmonds</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jeremy_Edmonds" title="Tolkien Gateway:Copyrights/Jeremy Edmonds">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJeremy_Edmonds.md" title="Tolkien Gateway:Copyrights/Jeremy Edmonds">Permission for use on Tolkien Gateway</a></b></li></ul></div>

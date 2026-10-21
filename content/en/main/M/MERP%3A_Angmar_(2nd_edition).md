@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar (book)"
 ---
 
-Redirect to [Angmar (book)](/wiki/Angmar_(book)).
+Redirect to [Angmar (book)](<../A/Angmar_(book).md>).

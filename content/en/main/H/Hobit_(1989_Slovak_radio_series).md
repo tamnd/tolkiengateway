@@ -15,22 +15,22 @@ sort_keys:
   "Radio adaptations": "Hobit"
 ---
 
-<i><b>Hobit</b></i> (Slovak: **The Hobbit**) was a <a class="extiw" href="http://en.wikipedia.org/wiki/Slovakia" title="wikipedia:Slovakia">Slovak</a> radio adaptation based on *[The Hobbit](/wiki/The_Hobbit)*. It first aired in [1989](/wiki/1989) as a two-part radio miniseries on the <a class="extiw" href="http://en.wikipedia.org/wiki/Slovensk%C3%BD_rozhlas" title="wikipedia:Slovenský rozhlas">Slovak division</a> of <a class="extiw" href="http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic" title="wikipedia:Czechoslovak Socialist Republic">Czechoslovakia</a>'s then public radio broadcaster, the now defunct <a class="extiw" href="http://en.wikipedia.org/wiki/Czech_Radio#Czechoslovak_era" title="wikipedia:Czech Radio">Československý rozhlas</a>.
+<i><b>Hobit</b></i> (Slovak: **The Hobbit**) was a <a class="extiw" href="http://en.wikipedia.org/wiki/Slovakia" title="wikipedia:Slovakia">Slovak</a> radio adaptation based on *[The Hobbit](../T/The_Hobbit.md)*. It first aired in [1989](../_/1989.md) as a two-part radio miniseries on the <a class="extiw" href="http://en.wikipedia.org/wiki/Slovensk%C3%BD_rozhlas" title="wikipedia:Slovenský rozhlas">Slovak division</a> of <a class="extiw" href="http://en.wikipedia.org/wiki/Czechoslovak_Socialist_Republic" title="wikipedia:Czechoslovak Socialist Republic">Czechoslovakia</a>'s then public radio broadcaster, the now defunct <a class="extiw" href="http://en.wikipedia.org/wiki/Czech_Radio#Czechoslovak_era" title="wikipedia:Czech Radio">Československý rozhlas</a>.
 
 This was a fairly basic radio series, with a relatively small cast, and various accompanying incidental music and sound effects. Each of the two episodes of the *Hobit* radio miniseries had a runtime of about 40 minutes. Adapted for radio by Július Gajdoš, with Ľuboš Machaj as dramaturge, the series was directed by Táňa Tadlánková. The incidental music for the series was composed by Jozef Malovec.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-It is not known whether the adaptation sought permission from the [Tolkien Estate](/wiki/Tolkien_Estate) and whether it was approved by the Estate (many former East Bloc television and radio adaptations of Tolkien's works were not officially approved by the Estate or other TV/film rights holders).
+It is not known whether the adaptation sought permission from the [Tolkien Estate](../T/Tolkien_Estate.md) and whether it was approved by the Estate (many former East Bloc television and radio adaptations of Tolkien's works were not officially approved by the Estate or other TV/film rights holders).
 
 ## Episodes {#Episodes}
 
 The series aired in two episodes.
 
-1. **Part 1** (covers the story from "[An Unexpected Party](/wiki/An_Unexpected_Party)" to "[Riddles in the Dark](/wiki/Riddles_in_the_Dark)")
-2. **Part 2** (covers the story from "[Out of the Frying-Pan into the Fire](/wiki/Out_of_the_Frying-Pan_into_the_Fire)" to "[The Last Stage](/wiki/The_Last_Stage)")
+1. **Part 1** (covers the story from "[An Unexpected Party](../A/An_Unexpected_Party.md)" to "[Riddles in the Dark](../R/Riddles_in_the_Dark.md)")
+2. **Part 2** (covers the story from "[Out of the Frying-Pan into the Fire](../O/Out_of_the_Frying-Pan_into_the_Fire.md)" to "[The Last Stage](../T/The_Last_Stage.md)")
 
 ## Plot {#Plot}
 
-The series follows the storyline of *[The Hobbit](/wiki/The_Hobbit)* fairly closely.
+The series follows the storyline of *[The Hobbit](../T/The_Hobbit.md)* fairly closely.
 
 However, due to the relatively short running time of the miniseries, there are also some major omissions from the storyline. This occurs slightly in the first episode, but is particularly noticeable in the second episode.
 
@@ -42,9 +42,9 @@ One of the few non-omission changes in the first episode is that Bilbo becomes p
 
 ### Changes and omissions in the second episode {#Changes_and_omissions_in_the_second_episode}
 
-The second episode of the radio miniseries adapts the majority of the chapters set after Thorin and company conclude their passing of the [Misty Mountains](/wiki/Misty_Mountains).
+The second episode of the radio miniseries adapts the majority of the chapters set after Thorin and company conclude their passing of the [Misty Mountains](../M/Misty_Mountains.md).
 
-Major omissions include [Beorn](/wiki/Beorn) and the company's stay at his house, as well as all appearances by the [giant spiders](/wiki/Spiders "Spiders") of [Mirkwood](/wiki/Mirkwood). [Bard the Bowman](/wiki/Bard_the_Bowman) is also absent from the story and there is no mention of the [Black Arrow](/wiki/Black_Arrow), but Smaug is still killed by the [Men of Lake-town](/wiki/Lake-men "Lake-men") after being struck by an arrow in the one vulnerable point of his body. The arrival to Lake-town and Smaug's later attack on it are summarized quickly during the course of the story, and there are essentially no distinct characters from Lake-town in this radio adaptation.
+Major omissions include [Beorn](../B/Beorn.md) and the company's stay at his house, as well as all appearances by the [giant spiders](../S/Spiders.md) of [Mirkwood](../M/Mirkwood.md). [Bard the Bowman](../B/Bard_the_Bowman.md) is also absent from the story and there is no mention of the [Black Arrow](../B/Black_Arrow~68980.md), but Smaug is still killed by the [Men of Lake-town](../L/Lake-men.md) after being struck by an arrow in the one vulnerable point of his body. The arrival to Lake-town and Smaug's later attack on it are summarized quickly during the course of the story, and there are essentially no distinct characters from Lake-town in this radio adaptation.
 
 Aside from the absent giant spiders, most of the company's adventures and temporary imprisonment in the Woodland Realm is adapted faithfully. This includes their interrogation by the Elven-king, Bilbo stealthily breaking the dwarves out of prison, bypassing elven guards drunk on wine, and loading the dwarves into barrels for a successful escape.
 
@@ -55,49 +55,48 @@ The Great Eagles, absent from the entire radio play, do not make an appearance a
 ## Cast {#Cast}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Role</th>
 <th>Actor
 </th></tr>
 <tr>
-<td><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a></td>
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
 <td>Peter Bzdúch
 </td></tr>
 <tr>
-<td><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></td>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></td>
 <td>Karol Machata
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/Thorin_Oakenshield" title="Thorin Oakenshield">Thorin Oakenshield</a></td>
+<td><a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a></td>
 <td>Ľubomír Roman
 </td></tr>
 <tr>
-<td><a href="/wiki/Thorin_and_Company" title="Thorin and Company">Dwarves of <br/> Thorin&#39;s Company</a></td>
+<td><a href="../T/Thorin_and_Company.md" title="Thorin and Company">Dwarves of <br/> Thorin&#39;s Company</a></td>
 <td>Boris Farkaš <br/> Marián Zednikovič <br/> Alfréd Swan <br/>  various (not specified)
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="/wiki/William" title="William">William</a>, <a class="mw-redirect" href="/wiki/Bert" title="Bert">Bert</a> <br/> and <a class="mw-redirect mw-disambig" href="/wiki/Tom" title="Tom">Tom</a></td>
+<td><a class="mw-redirect" href="../W/William.md" title="William">William</a>, <a class="mw-redirect" href="../B/Bert.md" title="Bert">Bert</a> <br/> and <a class="mw-redirect mw-disambig" href="../T/Tom.md" title="Tom">Tom</a></td>
 <td>Peter Debnár <br/> Vlado Černý <br/> Ivan Gogál
 </td></tr>
 <tr>
-<td><a href="/wiki/Great_Goblin" title="Great Goblin">Great Goblin</a></td>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
 <td>uncredited actor <br/> (apparently Karol Čálik)
 </td></tr>
 <tr>
-<td><a href="/wiki/Gollum" title="Gollum">Gollum</a></td>
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a></td>
 <td>Karol Čálik
 </td></tr>
 <tr>
-<td><a href="/wiki/Thranduil" title="Thranduil">The Elven-king</a></td>
+<td><a href="../T/Thranduil.md" title="Thranduil">The Elven-king</a></td>
 <td>Alfréd Swan
 </td></tr>
 <tr>
-<td><a href="/wiki/Smaug" title="Smaug">Smaug</a></td>
+<td><a href="../S/Smaug.md" title="Smaug">Smaug</a></td>
 <td>Ján Mistrík
 </td></tr>
 <tr>
-<td><a href="/wiki/Ro%C3%A4c" title="Roäc">Roäc</a></td>
+<td><a href="../R/Roäc.md" title="Roäc">Roäc</a></td>
 <td>Ivan Krivosudský
 </td></tr>
 <tr>
@@ -109,11 +108,11 @@ Karol Machata's Gandalf also serves as the overarching narrator of the storyline
 
 The dwarves in Thorin's Company are not credited, and they are not easily identifiable by their radio actor due to many of them having slightly modulated voices. It's possible several of the dwarves were portrayed by a single actor, with only a small pool of the play's actors portraying all thirteen dwarves.
 
-[Elrond](/wiki/Elrond) and the Rivendell elves, the [Lord of the Eagles](/wiki/Lord_of_the_Eagles), [Beorn](/wiki/Beorn), [Bard the Bowman](/wiki/Bard_the_Bowman), the [Master of Lake-town](/wiki/Master_of_Lake-town), [Bolg](/wiki/Bolg) and [Dáin Ironfoot](/wiki/D%C3%A1in_Ironfoot) do not appear in this radio adaptation.
+[Elrond](../E/Elrond.md) and the Rivendell elves, the [Lord of the Eagles](../L/Lord_of_the_Eagles.md), [Beorn](../B/Beorn.md), [Bard the Bowman](../B/Bard_the_Bowman.md), the [Master of Lake-town](../M/Master_of_Lake-town.md), [Bolg](../B/Bolg.md) and [Dáin Ironfoot](../D/Dáin_Ironfoot.md) do not appear in this radio adaptation.
 
 ## Credits {#Credits}
 
-- Based on the work by: [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+- Based on the work by: [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - Adapted by: Július Gajdoš <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Dramaturge: Ľuboš Machaj
 - Directed by: Táňa Tadlánková
@@ -137,9 +136,9 @@ Some of the recognisable themes and leitmotifs in this radio miniseries.
 
 ### Adapted songs {#Adapted_songs}
 
-The play adapts [Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold) in a heavily abbreviated version, which the dwarves sing several times throughout the radio play. The lyrics are also more of a loose translation/interpretation of the novel's original lyrics. They do not examine the backstory of the [Sack of Erebor](/wiki/Sack_of_Erebor) and the dwarves' exile from Erebor in-depth.
+The play adapts [Far over the misty mountains cold](../F/Far_over_the_misty_mountains_cold.md) in a heavily abbreviated version, which the dwarves sing several times throughout the radio play. The lyrics are also more of a loose translation/interpretation of the novel's original lyrics. They do not examine the backstory of the [Sack of Erebor](../S/Sack_of_Erebor.md) and the dwarves' exile from Erebor in-depth.
 
-Another song adapted from the original novel is [Roll-roll-roll-roll,](/wiki/Roll-roll-roll-roll,). It is sung by the elven guards from the Woodland Realm while they're working their chores with the delivery barrels intended for a return journey to Lake-town.
+Another song adapted from the original novel is [Roll-roll-roll-roll,](../R/Roll-roll-roll-roll,.md). It is sung by the elven guards from the Woodland Realm while they're working their chores with the delivery barrels intended for a return journey to Lake-town.
 
 ## Translation and terms {#Translation_and_terms}
 
@@ -163,11 +162,11 @@ Finally, there are some translated epithets and names loaned directly from Vrba'
 
 ## Other notes {#Other_notes}
 
-Some of the actors from the 1989 *Hobit* radio miniseries also appeared in the [2001-2003 Slovak radio adaptation](</wiki/The_Lord_of_the_Rings_(2001-2003_Slovak_radio_series)> "The Lord of the Rings (2001-2003 Slovak radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, albeit all in different roles. These include Boriš Farkaš (as Aragorn), Ivan Gogál (as Gríma Wormtongue), Vlado Černý (as Radagast the Brown), Marián Zednikovič (as Glorfindel), Pavol Topoľský (as Uglúk) and Karol Čálik (as a hobbit bounder).
+Some of the actors from the 1989 *Hobit* radio miniseries also appeared in the [2001-2003 Slovak radio adaptation](<../T/The_Lord_of_the_Rings_(2001-2003_Slovak_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, albeit all in different roles. These include Boriš Farkaš (as Aragorn), Ivan Gogál (as Gríma Wormtongue), Vlado Černý (as Radagast the Brown), Marián Zednikovič (as Glorfindel), Pavol Topoľský (as Uglúk) and Karol Čálik (as a hobbit bounder).
 
 The 1989 miniseries' dramaturge Ľuboš Machaj would also work as the dramaturge for the first (2001) season of the 2001-2003 radio series (possibly as a passing of the baton to the different creative team behind the newer radio series).
 
-Several of the actors also appeared in the Slovak television dubs of Peter Jackson's two film trilogies. For both the *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")* and *[The Hobbit](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)")* film trilogies, Ivan Gogál dubbed Elrond, while Boris Farkaš dubbed Gimli in *The Lord of the Rings* film trilogy and Radagast the Brown (in a different voice) in *The Hobbit* film trilogy. Ján Mistrík also appeared as Óin, Karol Čálik as Glóin, and Peter Rúfus as Dáin Ironfoot in the dub of *The Hobbit* film trilogy. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+Several of the actors also appeared in the Slovak television dubs of Peter Jackson's two film trilogies. For both the *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)* and *[The Hobbit](<../T/The_Hobbit_(film_series).md>)* film trilogies, Ivan Gogál dubbed Elrond, while Boris Farkaš dubbed Gimli in *The Lord of the Rings* film trilogy and Radagast the Brown (in a different voice) in *The Hobbit* film trilogy. Ján Mistrík also appeared as Óin, Karol Čálik as Glóin, and Peter Rúfus as Dáin Ironfoot in the dub of *The Hobbit* film trilogy. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
 <span></span>
 
@@ -208,7 +207,7 @@ Several of the actors also appeared in the Slovak television dubs of Peter Jacks
 
 ## See also {#See_also}
 
-- [*Pán prsteňov* (2001-2003 Slovak radio series)](</wiki/P%C3%A1n_prste%C5%88ov_(2001-2003_Slovak_radio_series)> "Pán prsteňov (2001-2003 Slovak radio series)") - The three season, 18 episode Slovak radio series adaptation of [J. R. R. Tolkien](/wiki/J._R._R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, by Slovak Radio and Rádio Twist.
+- [*Pán prsteňov* (2001-2003 Slovak radio series)](<../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md>) - The three season, 18 episode Slovak radio series adaptation of [J. R. R. Tolkien](../J/J._R._R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, by Slovak Radio and Rádio Twist.
 
 ## External links {#External_links}
 

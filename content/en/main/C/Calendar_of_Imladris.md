@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Reckoning of Rivendell"
 ---
 
-Redirect to [Reckoning of Rivendell](/wiki/Reckoning_of_Rivendell).
+Redirect to [Reckoning of Rivendell](../R/Reckoning_of_Rivendell.md).

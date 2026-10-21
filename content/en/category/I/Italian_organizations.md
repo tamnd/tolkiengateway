@@ -1,6 +1,5 @@
 ---
 title: "Category:Italian organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Italian organizations</span>"
 page_id: 35348
 namespace: 14
 revision_id: 166152

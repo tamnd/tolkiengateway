@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps (real-world)</span>"
 page_id: 24564
 namespace: 14
 revision_id: 385448
@@ -13,4 +12,4 @@ categories:
   - "Maps"
 ---
 
-Maps of real-world locations, particularly as they relate to [Middle-earth](/wiki/Middle-earth) or [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Maps of real-world locations, particularly as they relate to [Middle-earth](../../main/M/Middle-earth.md) or [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Eileen Elgar"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Eileen Elgar</span>"
 page_id: 68687
 namespace: 14
 revision_id: 408735
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Elgar, Eileen"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Eileen_Elgar&amp;action=edit&amp;redlink=1" title="Eileen Elgar (page does not exist)">Eileen Elgar</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eileen_Elgar&amp;action=edit&amp;redlink=1" title="Eileen Elgar (page does not exist)">Eileen Elgar</a>.

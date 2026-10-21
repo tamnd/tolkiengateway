@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Misty Mountains"
 ---
 
-Redirect to [Misty Mountains](/wiki/Misty_Mountains).
+Redirect to [Misty Mountains](../M/Misty_Mountains.md).

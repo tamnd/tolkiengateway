@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow-Bride"
 ---
 
-Redirect to [Shadow-Bride](/wiki/Shadow-Bride).
+Redirect to [Shadow-Bride](Shadow-Bride.md).

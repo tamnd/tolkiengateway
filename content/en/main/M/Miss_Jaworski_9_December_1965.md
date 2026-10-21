@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss Jaworski"
 ---
 
-Redirect to [Letter to Miss Jaworski](/wiki/Letter_to_Miss_Jaworski).
+Redirect to [Letter to Miss Jaworski](../L/Letter_to_Miss_Jaworski.md).

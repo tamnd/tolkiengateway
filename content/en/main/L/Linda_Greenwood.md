@@ -1,6 +1,5 @@
 ---
 title: "Linda Greenwood"
-display_title: "<span class=\"mw-page-title-main\">Linda Greenwood</span>"
 page_id: 22182
 namespace: 0
 revision_id: 116279
@@ -21,5 +20,5 @@ sort_keys:
 
 ## Bibliography {#Bibliography}
 
-- [2005](/wiki/2005): *[Tolkien Studies: Volume 2](/wiki/Tolkien_Studies:_Volume_2)*
+- [2005](../_/2005.md): *[Tolkien Studies: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)*
     - "Love: 'The Gift of Death'"

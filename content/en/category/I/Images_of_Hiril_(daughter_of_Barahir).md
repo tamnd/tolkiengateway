@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Hiril (sister of Beren Erchamion)"
 ---
 
-Redirect to [Category:Images of Hiril (sister of Beren Erchamion)](/wiki/Category:Images_of_Hiril_(sister_of_Beren_Erchamion)).
+Redirect to [Category:Images of Hiril (sister of Beren Erchamion)](<Images_of_Hiril_(sister_of_Beren_Erchamion).md>).

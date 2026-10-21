@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Man in the Moon"
 ---
 
-Redirect to [Man in the Moon](/wiki/Man_in_the_Moon).
+Redirect to [Man in the Moon](../M/Man_in_the_Moon.md).

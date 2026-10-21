@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Brazil"
 ---
 
-Redirect to [Category:Brazil](/wiki/Category:Brazil).
+Redirect to [Category:Brazil](../../category/B/Brazil.md).

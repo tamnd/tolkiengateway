@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to George Sayer (21 March 1966)"
 ---
 
-Redirect to [Letter to George Sayer (21 March 1966)](/wiki/Letter_to_George_Sayer_(21_March_1966)).
+Redirect to [Letter to George Sayer (21 March 1966)](<../L/Letter_to_George_Sayer_(21_March_1966).md>).

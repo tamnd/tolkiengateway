@@ -11,4 +11,4 @@ redirect_target: "Secret Lair"
 redirect_fragment: "More Adventures in Middle-earth"
 ---
 
-Redirect to [Secret Lair](/wiki/Secret_Lair#More_Adventures_in_Middle-earth).
+Redirect to [Secret Lair](../S/Secret_Lair.md#More_Adventures_in_Middle-earth).

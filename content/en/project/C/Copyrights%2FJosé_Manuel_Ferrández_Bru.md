@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/José Manuel Ferrández Bru"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/José Manuel Ferrández Bru</span>"
 page_id: 43009
 namespace: 4
 revision_id: 226307
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ferrandez Bru, Jose Manuel"
 ---
 
-- Permission granted by copyright holder [José Manuel Ferrández Bru](/wiki/Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru) to use [José Manuel Ferrández Bru.jpg](/wiki/File:Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru.jpg "File:José Manuel Ferrández Bru.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [José Manuel Ferrández Bru](../../main/J/José_Manuel_Ferrández_Bru.md) to use [José Manuel Ferrández Bru.jpg](../../file/J/José_Manuel_Ferrández_Bru.jpg.md) on Tolkien Gateway.
 - Date: 3 February 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

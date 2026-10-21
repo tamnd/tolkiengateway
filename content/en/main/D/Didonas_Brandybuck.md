@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dodinas Brandybuck"
 ---
 
-Redirect to [Dodinas Brandybuck](/wiki/Dodinas_Brandybuck).
+Redirect to [Dodinas Brandybuck](Dodinas_Brandybuck.md).

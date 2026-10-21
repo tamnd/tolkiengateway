@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Latin"
 ---
 
-Redirect to [Latin](/wiki/Latin).
+Redirect to [Latin](Latin.md).

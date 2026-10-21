@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Family Album"
 ---
 
-Redirect to [The Tolkien Family Album](/wiki/The_Tolkien_Family_Album).
+Redirect to [The Tolkien Family Album](../T/The_Tolkien_Family_Album.md).

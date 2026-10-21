@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déorwine"
 ---
 
-Redirect to [Déorwine](/wiki/Déorwine).
+Redirect to [Déorwine](Déorwine.md).

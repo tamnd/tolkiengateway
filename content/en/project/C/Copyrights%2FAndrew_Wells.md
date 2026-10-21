@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Andrew Wells"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Andrew Wells</span>"
 page_id: 44131
 namespace: 4
 revision_id: 240174
@@ -15,10 +14,10 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Wells, Andrew"
 ---
 
-- Permission granted by copyright holder Andrew Wells to use his photos of *[A Philological Miscellany Presented to Eilert Ekwall](/wiki/A_Philological_Miscellany_Presented_to_Eilert_Ekwall)* on Tolkien Gateway.
+- Permission granted by copyright holder Andrew Wells to use his photos of *[A Philological Miscellany Presented to Eilert Ekwall](../../main/A/A_Philological_Miscellany_Presented_to_Eilert_Ekwall.md)* on Tolkien Gateway.
 - Date: 25 July 2013.
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
 
-- Permission granted by copyright holder Andrew Wells to use his photos [The British Esperantist (cover)](</wiki/File:The_British_Esperantist_(cover).jpg> "File:The British Esperantist (cover).jpg") and [The British Esperantist (title page).jpg](</wiki/File:The_British_Esperantist_(title_page).jpg> "File:The British Esperantist (title page).jpg") on Tolkien Gateway.
+- Permission granted by copyright holder Andrew Wells to use his photos [The British Esperantist (cover)](<../../file/T/The_British_Esperantist_(cover).jpg.md>) and [The British Esperantist (title page).jpg](<../../file/T/The_British_Esperantist_(title_page).jpg.md>) on Tolkien Gateway.
 - Date: 16 February 2014.
-- User who sought the permission via private communication: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private communication: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

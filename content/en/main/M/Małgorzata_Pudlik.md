@@ -1,6 +1,5 @@
 ---
 title: "Małgorzata Pudlik"
-display_title: "<span class=\"mw-page-title-main\">Małgorzata Pudlik</span>"
 page_id: 7306
 namespace: 0
 revision_id: 289252
@@ -19,12 +18,12 @@ sort_keys:
   "Polish people": "Pudlik, Malgorzata"
 ---
 
-**Małgorzata Pudlik** is a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") artist who has illustrated numerous calendars, including:
+**Małgorzata Pudlik** is a [Tolkien](../J/J.R.R._Tolkien.md) artist who has illustrated numerous calendars, including:
 
-- [The Tolkien Calendar 1991 (Poland)](</wiki/The_Tolkien_Calendar_1991_(Poland)>)
-- [The Tolkien Calendar 1992](/wiki/The_Tolkien_Calendar_1992)
-- [The Tolkien Calendar 1993 (Polish)](</wiki/The_Tolkien_Calendar_1993_(Polish)>)
-- [The Tolkien Calendar 1994 (Polish)](</wiki/The_Tolkien_Calendar_1994_(Polish)>)
-- [Tolkien Calendar 1995 (Polish)](</wiki/Tolkien_Calendar_1995_(Polish)>)
-- [Tolkien Calendar 1996](/wiki/Tolkien_Calendar_1996)
-- [Simbelmyne Calendar 1999 (Polish)](</wiki/Simbelmyne_Calendar_1999_(Polish)>)
+- [The Tolkien Calendar 1991 (Poland)](<../T/The_Tolkien_Calendar_1991_(Poland).md>)
+- [The Tolkien Calendar 1992](../T/The_Tolkien_Calendar_1992.md)
+- [The Tolkien Calendar 1993 (Polish)](<../T/The_Tolkien_Calendar_1993_(Polish).md>)
+- [The Tolkien Calendar 1994 (Polish)](<../T/The_Tolkien_Calendar_1994_(Polish).md>)
+- [Tolkien Calendar 1995 (Polish)](<../T/Tolkien_Calendar_1995_(Polish).md>)
+- [Tolkien Calendar 1996](../T/Tolkien_Calendar_1996.md)
+- [Simbelmyne Calendar 1999 (Polish)](<../S/Simbelmyne_Calendar_1999_(Polish).md>)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bardings"
 ---
 
-Redirect to [Bardings](/wiki/Bardings).
+Redirect to [Bardings](Bardings.md).

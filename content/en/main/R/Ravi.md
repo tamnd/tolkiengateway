@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meássë"
 ---
 
-Redirect to [Meássë](/wiki/Meássë).
+Redirect to [Meássë](../M/Meássë.md).

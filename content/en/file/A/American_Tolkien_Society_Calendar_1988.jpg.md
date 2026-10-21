@@ -1,6 +1,5 @@
 ---
 title: "File:American Tolkien Society Calendar 1988.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">American Tolkien Society Calendar 1988.jpg</span>"
 page_id: 6588
 namespace: 6
 revision_id: 215448

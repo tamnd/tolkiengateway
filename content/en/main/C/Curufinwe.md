@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Curufinwë"
 ---
 
-Redirect to [Curufinwë](/wiki/Curufinwë).
+Redirect to [Curufinwë](Curufinwë.md).

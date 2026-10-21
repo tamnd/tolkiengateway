@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagor Bragollach"
 ---
 
-Redirect to [Dagor Bragollach](/wiki/Dagor_Bragollach).
+Redirect to [Dagor Bragollach](../D/Dagor_Bragollach.md).

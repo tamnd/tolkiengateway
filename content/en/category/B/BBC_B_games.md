@@ -1,6 +1,5 @@
 ---
 title: "Category:BBC B games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BBC B games</span>"
 page_id: 48870
 namespace: 14
 revision_id: 261968

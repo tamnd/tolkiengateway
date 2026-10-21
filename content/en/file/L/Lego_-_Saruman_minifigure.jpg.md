@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:LEGO - Saruman.png"
 ---
 
-Redirect to [File:LEGO - Saruman.png](/wiki/File:LEGO_-_Saruman.png).
+Redirect to [File:LEGO - Saruman.png](LEGO_-_Saruman.png.md).

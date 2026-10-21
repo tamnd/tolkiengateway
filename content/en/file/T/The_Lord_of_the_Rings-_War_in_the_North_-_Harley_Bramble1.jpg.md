@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- War in the North - Harley Bramble1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- War in the North - Harley Bramble1.jpg</span>"
 page_id: 37536
 namespace: 6
 revision_id: 180181

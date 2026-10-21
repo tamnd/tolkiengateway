@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Herbert Schiro (17 November 1957)"
 ---
 
-Redirect to [Letter to Herbert Schiro (17 November 1957)](/wiki/Letter_to_Herbert_Schiro_(17_November_1957)).
+Redirect to [Letter to Herbert Schiro (17 November 1957)](<Letter_to_Herbert_Schiro_(17_November_1957).md>).

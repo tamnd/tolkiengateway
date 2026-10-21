@@ -1,6 +1,5 @@
 ---
 title: "File:Omar Rayyan - Scorba Roused.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Omar Rayyan - Scorba Roused.jpg</span>"
 page_id: 74934
 namespace: 6
 revision_id: 441207
@@ -35,31 +34,28 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Omar Rayyan - Scorba Roused.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Scorba" title="Scorba">Scorba</a> Roused</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/S/Scorba.md" title="Scorba">Scorba</a> Roused</i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
  <blockquote class="tg-quote noexcerpt">
 <p>Fun fact: Iron Crown’s business tanked during production of this game and they ghosted many artists on payment for their work. 😡 I can relate, Scorba.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Omar_Rayyan" title="Omar Rayyan">Omar Rayyan</a></td>
+<td><a href="../../main/O/Omar_Rayyan.md" title="Omar Rayyan">Omar Rayyan</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.instagram.com/p/DLSdr_8sMvC/" rel="noreferrer noopener" target="_blank">Instagram</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

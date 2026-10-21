@@ -1,6 +1,5 @@
 ---
 title: "File:Miss Perry 29 December 1961 (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miss Perry 29 December 1961 (2).jpg</span>"
 page_id: 40058
 namespace: 6
 revision_id: 215061

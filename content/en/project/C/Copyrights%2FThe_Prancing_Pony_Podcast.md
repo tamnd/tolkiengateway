@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/The Prancing Pony Podcast"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/The Prancing Pony Podcast</span>"
 page_id: 62515
 namespace: 4
 revision_id: 353194
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Prancing Pony Podcast, The"
 ---
 
-- [The Prancing Pony Podcast](/wiki/The_Prancing_Pony_Podcast) has kindly granted their permission to use their logo on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [The Prancing Pony Podcast](../../main/T/The_Prancing_Pony_Podcast.md) has kindly granted their permission to use their logo on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 August 2022
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Līga Kļaviņa"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Līga Kļaviņa</span>"
 page_id: 42464
 namespace: 4
 revision_id: 224277
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Klavina, Liga"
 ---
 
-- Līga Kļaviņa has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_L%C4%ABga_K%C4%BCavi%C5%86a "Category:Images by Līga Kļaviņa") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Līga Kļaviņa has kindly granted her permission to use [her artwork](../../category/I/Images_by_Līga_Kļaviņa.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 26 December 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

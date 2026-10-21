@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alwin Arundel Lowdham"
 ---
 
-Redirect to [Alwin Arundel Lowdham](/wiki/Alwin_Arundel_Lowdham).
+Redirect to [Alwin Arundel Lowdham](../A/Alwin_Arundel_Lowdham.md).

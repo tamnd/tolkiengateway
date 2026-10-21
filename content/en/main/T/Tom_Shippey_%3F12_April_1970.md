@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Tom Shippey (12 April 1970)"
 ---
 
-Redirect to [Letter to Tom Shippey (12 April 1970)](/wiki/Letter_to_Tom_Shippey_(12_April_1970)).
+Redirect to [Letter to Tom Shippey (12 April 1970)](<../L/Letter_to_Tom_Shippey_(12_April_1970).md>).

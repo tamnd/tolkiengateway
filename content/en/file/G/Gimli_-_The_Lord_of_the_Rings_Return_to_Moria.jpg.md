@@ -1,6 +1,5 @@
 ---
 title: "File:Gimli - The Lord of the Rings Return to Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gimli - The Lord of the Rings Return to Moria.jpg</span>"
 page_id: 67574
 namespace: 6
 revision_id: 393349
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gimli](/wiki/Gimli) as depicted in *[The Lord of the Rings: Return to Moria](/wiki/The_Lord_of_the_Rings:_Return_to_Moria)*.
+[Gimli](../../main/G/Gimli.md) as depicted in *[The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md)*.
 
 ## Licensing {#Licensing}
 

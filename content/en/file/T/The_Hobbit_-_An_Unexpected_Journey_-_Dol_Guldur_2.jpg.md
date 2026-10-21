@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Dol Guldur 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Dol Guldur 2.jpg</span>"
 page_id: 56388
 namespace: 6
 revision_id: 307596
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dol Guldur](/wiki/Dol_Guldur) from *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*.
+[Dol Guldur](../../main/D/Dol_Guldur.md) from *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*.
 
 ## Licensing {#Licensing}
 

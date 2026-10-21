@@ -1,6 +1,5 @@
 ---
 title: "File:Burzum Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Burzum Logo.png</span>"
 page_id: 58003
 namespace: 6
 revision_id: 319455
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of [Burzum (band)](</wiki/Burzum_(band)>)
+Logo of [Burzum (band)](<../../main/B/Burzum_(band).md>)
 
 ## Licensing {#Licensing}
 

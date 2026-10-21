@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Merry mini figure.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Merry mini figure.png</span>"
 page_id: 38160
 namespace: 6
 revision_id: 283310

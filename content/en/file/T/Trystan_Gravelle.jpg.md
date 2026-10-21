@@ -1,6 +1,5 @@
 ---
 title: "File:Trystan Gravelle.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Trystan Gravelle.jpg</span>"
 page_id: 63763
 namespace: 6
 revision_id: 434530
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Maarten De Boer</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.gettyimages.co.uk/detail/news-photo/trystan-gravelle-of-the-lord-of-the-rings-the-rings-of-news-photo/1243603125" rel="noreferrer noopener" target="_blank">Getty</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

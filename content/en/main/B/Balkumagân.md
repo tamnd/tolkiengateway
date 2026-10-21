@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Ciryatan"
 ---
 
-Redirect to [Tar-Ciryatan](/wiki/Tar-Ciryatan).
+Redirect to [Tar-Ciryatan](../T/Tar-Ciryatan.md).

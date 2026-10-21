@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Darkness"
 ---
 
-Redirect to [The Darkness](/wiki/The_Darkness).
+Redirect to [The Darkness](../T/The_Darkness.md).

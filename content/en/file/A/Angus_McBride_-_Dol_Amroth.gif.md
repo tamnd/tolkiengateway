@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Angus McBride - Sack of Osgiliath.gif"
 ---
 
-Redirect to [File:Angus McBride - Sack of Osgiliath.gif](/wiki/File:Angus_McBride_-_Sack_of_Osgiliath.gif).
+Redirect to [File:Angus McBride - Sack of Osgiliath.gif](Angus_McBride_-_Sack_of_Osgiliath.gif.md).

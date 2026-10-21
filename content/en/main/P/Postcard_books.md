@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Postcard books"
 ---
 
-Redirect to [Category:Postcard books](/wiki/Category:Postcard_books).
+Redirect to [Category:Postcard books](../../category/P/Postcard_books.md).

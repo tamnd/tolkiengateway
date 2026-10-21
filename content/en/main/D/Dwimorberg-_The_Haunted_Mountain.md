@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwimorberg - The Haunted Mountain (song)"
 ---
 
-Redirect to [Dwimorberg - The Haunted Mountain (song)](/wiki/Dwimorberg_-_The_Haunted_Mountain_(song)).
+Redirect to [Dwimorberg - The Haunted Mountain (song)](<Dwimorberg_-_The_Haunted_Mountain_(song).md>).

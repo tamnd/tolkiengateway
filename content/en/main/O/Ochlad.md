@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Otsola"
 ---
 
-Redirect to [Otsola](/wiki/Otsola).
+Redirect to [Otsola](Otsola.md).

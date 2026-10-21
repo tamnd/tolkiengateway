@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Eldarin week"
 ---
 
-Redirect to [Category:Eldarin week](/wiki/Category:Eldarin_week).
+Redirect to [Category:Eldarin week](../../category/E/Eldarin_week.md).

@@ -1,6 +1,5 @@
 ---
 title: "Sarah Downey"
-display_title: "<span class=\"mw-page-title-main\">Sarah Downey</span>"
 page_id: 22235
 namespace: 0
 revision_id: 285495
@@ -21,14 +20,14 @@ sort_keys:
   "People by name": "Downey, Sarah"
 ---
 
-**Sarah Downey** is currently an assistant professor at <a class="extiw" href="http://en.wikipedia.org/wiki/California_University_of_Pennsylvania" title="wikipedia:California University of Pennsylvania">California University of Pennsylvania</a>. Her thesis, and much of her later work, was on <a class="extiw" href="http://en.wikipedia.org/wiki/Saint_Guthlac" title="wikipedia:Saint Guthlac">Saint Guthlac</a>, and articles on him are her sole contribution to the *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*.
+**Sarah Downey** is currently an assistant professor at <a class="extiw" href="http://en.wikipedia.org/wiki/California_University_of_Pennsylvania" title="wikipedia:California University of Pennsylvania">California University of Pennsylvania</a>. Her thesis, and much of her later work, was on <a class="extiw" href="http://en.wikipedia.org/wiki/Saint_Guthlac" title="wikipedia:Saint Guthlac">Saint Guthlac</a>, and articles on him are her sole contribution to the *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*.
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*, entries:
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*, entries:
     - "Guthlac, Poem"
     - "Guthlac, Saint"
-- [2011](/wiki/2011): *[Mythlore 113/114](/wiki/Mythlore_113/114)*
+- [2011](../_/2011.md): *[Mythlore 113/114](../M/Mythlore_113%252F114.md)*
     - "Cordial Dislike: Reinventing the Celestial Ladies of 'Pearl' and 'Purgatorio' in Tolkien's Galadriel"
 
 ## External links {#External_links}

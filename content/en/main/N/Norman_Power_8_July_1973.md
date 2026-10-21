@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Norman Power"
 ---
 
-Redirect to [Letter to Norman Power](/wiki/Letter_to_Norman_Power).
+Redirect to [Letter to Norman Power](../L/Letter_to_Norman_Power.md).

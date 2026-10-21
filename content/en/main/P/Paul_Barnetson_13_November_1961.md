@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Paul Barnetson"
 ---
 
-Redirect to [Letter to Paul Barnetson](/wiki/Letter_to_Paul_Barnetson).
+Redirect to [Letter to Paul Barnetson](../L/Letter_to_Paul_Barnetson.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bag End, Underhill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bag End, Underhill.jpg</span>"
 page_id: 71477
 namespace: 6
 revision_id: 427030
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary_2}
 
-"[Bag End](/wiki/Bag_End), <a class="mw-redirect mw-disambig" href="/wiki/Underhill" title="Underhill">Underhill</a>" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[Bag End](../../main/B/Bag_End.md), <a class="mw-redirect mw-disambig" href="../../main/U/Underhill.md" title="Underhill">Underhill</a>" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

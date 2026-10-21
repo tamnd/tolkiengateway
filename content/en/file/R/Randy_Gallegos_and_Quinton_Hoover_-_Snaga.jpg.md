@@ -1,6 +1,5 @@
 ---
 title: "File:Randy Gallegos and Quinton Hoover - Snaga.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Randy Gallegos and Quinton Hoover - Snaga.jpg</span>"
 page_id: 29980
 namespace: 6
 revision_id: 440669
@@ -34,9 +33,9 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Randy Gallegos and Quinton Hoover - Snaga.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Snaga_(orc_of_Mordor)" title="Snaga (orc of Mordor)">Snaga</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/S/Snaga_(orc_of_Mordor).md" title="Snaga (orc of Mordor)">Snaga</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
  Painted by Gallegos over pencils by Hoover
 </p>
 </td>
@@ -49,16 +48,14 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Acrylics on bristol</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Quinton_Hoover" title="Quinton Hoover">Quinton Hoover</a> and <a href="/wiki/Randy_Gallegos" title="Randy Gallegos">Randy Gallegos</a></td>
+<td><a href="../../main/Q/Quinton_Hoover.md" title="Quinton Hoover">Quinton Hoover</a> and <a href="../../main/R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.artofthe.day/p/snaga-1996" rel="noreferrer noopener" target="_blank">Art of the Day</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

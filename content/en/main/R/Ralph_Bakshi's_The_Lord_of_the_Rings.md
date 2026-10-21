@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (1978 film)"
 ---
 
-Redirect to [The Lord of the Rings (1978 film)](/wiki/The_Lord_of_the_Rings_(1978_film)).
+Redirect to [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).

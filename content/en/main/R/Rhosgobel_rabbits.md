@@ -11,4 +11,4 @@ redirect_target: "Rabbits"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Rabbits](/wiki/Rabbits#Portrayal_in_adaptations).
+Redirect to [Rabbits](Rabbits.md#Portrayal_in_adaptations).

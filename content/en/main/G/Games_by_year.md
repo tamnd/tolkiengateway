@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Video games by year"
 ---
 
-Redirect to [Index:Video games by year](/wiki/Index:Video_games_by_year).
+Redirect to [Index:Video games by year](../../index/V/Video_games_by_year.md).

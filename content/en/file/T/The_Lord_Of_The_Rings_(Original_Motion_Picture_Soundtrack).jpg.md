@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord Of The Rings (Original Motion Picture Soundtrack).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord Of The Rings (Original Motion Picture Soundtrack).jpg</span>"
 page_id: 71552
 namespace: 6
 revision_id: 426670
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Lord Of The Rings (Original Motion Picture Soundtrack)](</wiki/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack)>)
+[The Lord Of The Rings (Original Motion Picture Soundtrack)](<../../main/T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>)
 
 ## Licensing {#Licensing}
 

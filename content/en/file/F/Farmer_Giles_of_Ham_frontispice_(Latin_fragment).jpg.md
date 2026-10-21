@@ -1,6 +1,5 @@
 ---
 title: "File:Farmer Giles of Ham frontispice (Latin fragment).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Farmer Giles of Ham frontispice (Latin fragment).jpg</span>"
 page_id: 66538
 namespace: 6
 revision_id: 384749
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Classic Latin frontispice of *[Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham)*.
+Classic Latin frontispice of *[Farmer Giles of Ham](../../main/F/Farmer_Giles_of_Ham.md)*.
 
 ## Licensing {#Licensing}
 

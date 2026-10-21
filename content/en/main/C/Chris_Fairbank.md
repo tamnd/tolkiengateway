@@ -1,6 +1,5 @@
 ---
 title: "Chris Fairbank"
-display_title: "<span class=\"mw-page-title-main\">Chris Fairbank</span>"
 page_id: 29769
 namespace: 0
 revision_id: 440122
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Fairbank, Chris"
 ---
 
-**Christopher Fairbank** (born [4 October](/wiki/4_October) [1953](/wiki/1953)) is an English actor. He has played in many British television series, and his best known role is Moxey in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Auf_Wiedersehen,_Pet" title="wikipedia:Auf Wiedersehen, Pet">Auf Wiedersehen, Pet</a></i>. He has also had supporting roles in big features as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Alien_3" title="wikipedia:Alien 3">Alien³</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Fifth_Element" title="wikipedia:The Fifth Element">The Fifth Element</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Batman_(1989_movie)" title="wikipedia:Batman (1989 movie)">Batman</a></i>.
+**Christopher Fairbank** (born [4 October](../_/4_October.md) [1953](../_/1953.md)) is an English actor. He has played in many British television series, and his best known role is Moxey in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Auf_Wiedersehen,_Pet" title="wikipedia:Auf Wiedersehen, Pet">Auf Wiedersehen, Pet</a></i>. He has also had supporting roles in big features as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Alien_3" title="wikipedia:Alien 3">Alien³</a></i>, <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Fifth_Element" title="wikipedia:The Fifth Element">The Fifth Element</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Batman_(1989_movie)" title="wikipedia:Batman (1989 movie)">Batman</a></i>.
 
 ## Roles {#Roles}
 
-- [1981](/wiki/1981): [*The Lord of the Rings* (1981 radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"): [Shagrat](/wiki/Shagrat)
+- [1981](../_/1981.md): [*The Lord of the Rings* (1981 radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>): [Shagrat](../S/Shagrat.md)
 
 ## External links {#External_links}
 

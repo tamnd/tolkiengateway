@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Malbeth"
 ---
 
-Redirect to [Malbeth](/wiki/Malbeth).
+Redirect to [Malbeth](Malbeth.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Weapons"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Weapons</span>"
 page_id: 2613
 namespace: 14
 revision_id: 407842
@@ -19,4 +18,4 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/categories/artefacts/armes"
 ---
 
-Below is a list of **weapons** used in [Arda](/wiki/Arda).
+Below is a list of **weapons** used in [Arda](../../main/A/Arda.md).

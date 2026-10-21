@@ -16,21 +16,21 @@ categories:
 
 ## Elvish {#Elvish}
 
-<i><b>inga</b></i> is an [Elvish](/wiki/Elvish) word meaning "first", said to be (or perhaps derive from) an element in "Elfin and especially Sindarin names". The word appears without any specific designated language.<sup id="cite_ref-LR361_1-0" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
+<i><b>inga</b></i> is an [Elvish](../E/Elvish.md) word meaning "first", said to be (or perhaps derive from) an element in "Elfin and especially Sindarin names". The word appears without any specific designated language.<sup id="cite_ref-LR361_1-0" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
 
-[Helge Fauskanger](/wiki/Helge_Fauskanger) has suggested that the word (and its meaning) could be valid [Neo-Quenya](/wiki/Neo-Quenya).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) has suggested that the word (and its meaning) could be valid [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme"): ING<sup id="cite_ref-LR361_1-1" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md): ING<sup id="cite_ref-LR361_1-1" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
 
 ### Compounds {#Compounds}
 
-- *[Ingwe](/wiki/Ingw%C3%AB#Etymology "Ingwë")*<sup id="cite_ref-LR361_1-2" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
+- *[Ingwe](Ingwë.md#Etymology)*<sup id="cite_ref-LR361_1-2" class="reference"><a href="#cite_note-LR361-1">[1]</a></sup>
 
 ## Quenya {#Quenya}
 
-<i><b>inga</b></i> is a [Quenya](/wiki/Quenya) word meaning "top", which was "only applied to shapes pointing upwards" and referred "primarily to position and could be used of tops relatively broad".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>inga</b></i> is a [Quenya](../Q/Quenya.md) word meaning "top", which was "only applied to shapes pointing upwards" and referred "primarily to position and could be used of tops relatively broad".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### See also {#See_also}
 
@@ -42,10 +42,10 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR361-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR361_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR361_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR361_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 361</span>
+<li id="cite_note-LR361-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR361_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR361_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR361_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 361</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/eng-quen.rtf" rel="noreferrer noopener" target="_blank">English-Quenya Wordlist (Quettaparma Quenyanna)</a>&#34; at <a class="external text" href="http://folk.uib.no/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a> (accessed 25 June 2011)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/eng-quen.rtf" rel="noreferrer noopener" target="_blank">English-Quenya Wordlist (Quettaparma Quenyanna)</a>&#34; at <a class="external text" href="http://folk.uib.no/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a> (accessed 25 June 2011)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 28</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 28</span>
 </li>
 </ol></div>

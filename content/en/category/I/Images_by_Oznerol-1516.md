@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Oznerol-1516"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Oznerol-1516</span>"
 page_id: 58194
 namespace: 14
 revision_id: 319877

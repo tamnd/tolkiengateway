@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Stephen Walsh - Barad-dûr.jpg"
 ---
 
-Redirect to [File:Stephen Walsh - Barad-dûr.jpg](/wiki/File:Stephen_Walsh_-_Barad-dûr.jpg).
+Redirect to [File:Stephen Walsh - Barad-dûr.jpg](Stephen_Walsh_-_Barad-dûr.jpg.md).

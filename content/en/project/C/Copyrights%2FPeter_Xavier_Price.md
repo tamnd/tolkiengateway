@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Peter Xavier Price"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Peter Xavier Price</span>"
 page_id: 37590
 namespace: 4
 revision_id: 193180
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Price, Peter Xavier"
 ---
 
-- [Peter Xavier Price](/wiki/Peter_Xavier_Price) has kindly granted [his artwork](/wiki/Category:Images_by_Peter_Xavier_Price "Category:Images by Peter Xavier Price") to use his artwork on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Peter Xavier Price](../../main/P/Peter_Xavier_Price.md) has kindly granted [his artwork](../../category/I/Images_by_Peter_Xavier_Price.md) to use his artwork on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 26 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

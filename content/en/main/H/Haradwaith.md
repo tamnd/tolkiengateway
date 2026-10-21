@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harad"
 ---
 
-Redirect to [Harad](/wiki/Harad).
+Redirect to [Harad](Harad.md).

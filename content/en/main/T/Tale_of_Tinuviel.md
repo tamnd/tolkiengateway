@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tale of Tinúviel"
 ---
 
-Redirect to [The Tale of Tinúviel](/wiki/The_Tale_of_Tinúviel).
+Redirect to [The Tale of Tinúviel](The_Tale_of_Tinúviel.md).

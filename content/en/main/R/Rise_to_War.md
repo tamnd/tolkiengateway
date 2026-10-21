@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Rise to War"
 ---
 
-Redirect to [The Lord of the Rings: Rise to War](/wiki/The_Lord_of_the_Rings:_Rise_to_War).
+Redirect to [The Lord of the Rings: Rise to War](../T/The_Lord_of_the_Rings%253A_Rise_to_War.md).

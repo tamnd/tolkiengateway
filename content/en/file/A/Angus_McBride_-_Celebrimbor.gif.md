@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Celebrimbor.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Celebrimbor.gif</span>"
 page_id: 15034
 namespace: 6
 revision_id: 319242
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Celebrimbor](/wiki/Celebrimbor) by [Angus McBride](/wiki/Angus_McBride), appearing in [Jessica Ney](/wiki/Jessica_M._Ney-Grimm "Jessica M. Ney-Grimm"), *[Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #8007, ed.; 1990) .
+[Celebrimbor](../../main/C/Celebrimbor.md) by [Angus McBride](../../main/A/Angus_McBride.md), appearing in [Jessica Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8007, ed.; 1990) .
 
 ## Licensing {#Licensing}
 

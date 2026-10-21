@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Martin Mottet - Gil-galad.jpg"
 ---
 
-Redirect to [File:Martin Mottet - Gil-galad.jpg](/wiki/File:Martin_Mottet_-_Gil-galad.jpg).
+Redirect to [File:Martin Mottet - Gil-galad.jpg](Martin_Mottet_-_Gil-galad.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Athrabeth Finrod ah Andreth"
 ---
 
-Redirect to [Athrabeth Finrod ah Andreth](/wiki/Athrabeth_Finrod_ah_Andreth).
+Redirect to [Athrabeth Finrod ah Andreth](../A/Athrabeth_Finrod_ah_Andreth.md).

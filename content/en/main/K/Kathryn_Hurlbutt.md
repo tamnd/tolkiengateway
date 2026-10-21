@@ -1,6 +1,5 @@
 ---
 title: "Kathryn Hurlbutt"
-display_title: "<span class=\"mw-page-title-main\">Kathryn Hurlbutt</span>"
 page_id: 19252
 namespace: 0
 revision_id: 406104
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Hurlbutt, Kathryn"
 ---
 
-**Kathryn Hurlbutt** (born [1958](/wiki/1958)) is a British actress. After winning the Carleton Hobbs Bursary Award in [1980](/wiki/1980), she became part of the [BBC](/wiki/BBC)'s stock actors of radio drama. She voiced [Rose Cotton](/wiki/Rose_Cotton) in [the 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+**Kathryn Hurlbutt** (born [1958](../_/1958.md)) is a British actress. After winning the Carleton Hobbs Bursary Award in [1980](../_/1980.md), she became part of the [BBC](../B/BBC.md)'s stock actors of radio drama. She voiced [Rose Cotton](../R/Rose_Cotton.md) in [the 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## External links {#External_links}
 

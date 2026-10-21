@@ -1,6 +1,5 @@
 ---
 title: "Rawlinson and Bosworth Professor of Anglo-Saxon"
-display_title: "<span class=\"mw-page-title-main\">Rawlinson and Bosworth Professor of Anglo-Saxon</span>"
 page_id: 28021
 namespace: 0
 revision_id: 362073
@@ -13,6 +12,6 @@ categories:
   - "Education"
 ---
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) held the **Rawlinson and Bosworth Professorship of Anglo-Saxon** at the [University of Oxford](/wiki/University_of_Oxford) from 1925 to 1945. In this post he was preceded by [William Craigie](/wiki/William_Craigie) and succeeded by fellow [Inkling](/wiki/Inklings "Inklings") [Charles Leslie Wrenn](/wiki/Charles_Leslie_Wrenn).
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) held the **Rawlinson and Bosworth Professorship of Anglo-Saxon** at the [University of Oxford](../U/University_of_Oxford.md) from 1925 to 1945. In this post he was preceded by [William Craigie](../W/William_Craigie.md) and succeeded by fellow [Inkling](../I/Inklings.md) [Charles Leslie Wrenn](../C/Charles_Leslie_Wrenn.md).
 
-Tolkien's formal letter of application for the Chair was published as [Letter 7](/wiki/Letter_7) in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*.
+Tolkien's formal letter of application for the Chair was published as [Letter 7](../L/Letter_7.md) in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.

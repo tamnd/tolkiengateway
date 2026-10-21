@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bay of Andúnië"
 ---
 
-Redirect to [Bay of Andúnië](/wiki/Bay_of_Andúnië).
+Redirect to [Bay of Andúnië](Bay_of_Andúnië.md).

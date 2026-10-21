@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Mallos.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Mallos.png</span>"
 page_id: 72964
 namespace: 6
 revision_id: 432312
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mallos](/wiki/Mallos) - *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*
+[Mallos](../../main/M/Mallos.md) - *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*
 
 ## Licensing {#Licensing}
 

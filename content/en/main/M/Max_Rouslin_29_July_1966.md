@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Max Rouslin"
 ---
 
-Redirect to [Letter to Max Rouslin](/wiki/Letter_to_Max_Rouslin).
+Redirect to [Letter to Max Rouslin](../L/Letter_to_Max_Rouslin.md).

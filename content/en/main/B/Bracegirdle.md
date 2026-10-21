@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bracegirdle family"
 ---
 
-Redirect to [Bracegirdle family](/wiki/Bracegirdle_family).
+Redirect to [Bracegirdle family](Bracegirdle_family.md).

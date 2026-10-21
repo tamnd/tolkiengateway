@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Necromancer's Lieutenant"
 ---
 
-Redirect to [The Necromancer's Lieutenant](/wiki/The_Necromancer's_Lieutenant).
+Redirect to [The Necromancer's Lieutenant](../T/The_Necromancer's_Lieutenant.md).

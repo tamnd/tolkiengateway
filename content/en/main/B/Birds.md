@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Birds"
 ---
 
-Redirect to [Category:Birds](/wiki/Category:Birds).
+Redirect to [Category:Birds](../../category/B/Birds.md).

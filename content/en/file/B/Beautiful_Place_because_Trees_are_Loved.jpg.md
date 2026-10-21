@@ -1,6 +1,5 @@
 ---
 title: "File:Beautiful Place because Trees are Loved.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beautiful Place because Trees are Loved.jpg</span>"
 page_id: 44391
 namespace: 6
 revision_id: 233319

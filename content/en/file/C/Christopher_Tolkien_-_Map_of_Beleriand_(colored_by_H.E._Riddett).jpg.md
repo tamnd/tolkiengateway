@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg</span>"
 page_id: 16838
 namespace: 6
 revision_id: 270671

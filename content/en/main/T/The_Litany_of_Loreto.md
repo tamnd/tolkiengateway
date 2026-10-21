@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Litany of Loreto"
 ---
 
-Redirect to [Litany of Loreto](/wiki/Litany_of_Loreto).
+Redirect to [Litany of Loreto](../L/Litany_of_Loreto.md).

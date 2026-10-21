@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "O Hobbit (Brazilian edition)"
 ---
 
-Redirect to [O Hobbit (Brazilian edition)](/wiki/O_Hobbit_(Brazilian_edition)).
+Redirect to [O Hobbit (Brazilian edition)](<O_Hobbit_(Brazilian_edition).md>).

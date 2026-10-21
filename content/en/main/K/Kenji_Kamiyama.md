@@ -1,6 +1,5 @@
 ---
 title: "Kenji Kamiyama"
-display_title: "<span class=\"mw-page-title-main\">Kenji Kamiyama</span>"
 page_id: 60779
 namespace: 0
 revision_id: 426296
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Kamiyama, Kenji"
 ---
 
-**Kenji Kamiyama** ([March 20](/wiki/20_March "20 March"), [1966](/wiki/1966)) is a Japanese anime director. He directed *[The Lord of the Rings: The War of the Rohirrim](/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim)*.
+**Kenji Kamiyama** ([March 20](../_/20_March.md), [1966](../_/1966.md)) is a Japanese anime director. He directed *[The Lord of the Rings: The War of the Rohirrim](../T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*.
 
 ## External links {#External_links}
 

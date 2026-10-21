@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Marc Simonetti"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Marc Simonetti</span>"
 page_id: 72800
 namespace: 14
 revision_id: 431444
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Simonetti, Marc"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Marc_Simonetti&amp;action=edit&amp;redlink=1" title="Marc Simonetti (page does not exist)">Marc Simonetti</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Marc_Simonetti&amp;action=edit&amp;redlink=1" title="Marc Simonetti (page does not exist)">Marc Simonetti</a></b>.

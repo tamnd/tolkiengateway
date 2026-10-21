@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Born of Hope"
 ---
 
-Redirect to [Born of Hope](/wiki/Born_of_Hope).
+Redirect to [Born of Hope](Born_of_Hope.md).

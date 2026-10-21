@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Christopher Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Christopher Tolkien</span>"
 page_id: 66622
 namespace: 14
 revision_id: 385691
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Tolkien, Christopher"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Christopher Tolkien](/wiki/Christopher_Tolkien).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Christopher Tolkien](../../main/C/Christopher_Tolkien.md).

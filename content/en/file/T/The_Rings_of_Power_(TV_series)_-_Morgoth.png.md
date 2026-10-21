@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Morgoth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Morgoth.png</span>"
 page_id: 64343
 namespace: 6
 revision_id: 412237
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Darkness](/wiki/Darkness) of [Morgoth](/wiki/Morgoth) as seen in the first season [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+The [Darkness](../../main/D/Darkness.md) of [Morgoth](../../main/M/Morgoth.md) as seen in the first season [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

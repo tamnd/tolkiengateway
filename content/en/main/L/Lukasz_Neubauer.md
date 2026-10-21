@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Łukasz Neubauer"
 ---
 
-Redirect to [Łukasz Neubauer](/wiki/Łukasz_Neubauer).
+Redirect to [Łukasz Neubauer](../_/Łukasz_Neubauer.md).

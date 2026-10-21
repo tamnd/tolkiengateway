@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lintips"
 ---
 
-Redirect to [Lintips](/wiki/Lintips).
+Redirect to [Lintips](Lintips.md).

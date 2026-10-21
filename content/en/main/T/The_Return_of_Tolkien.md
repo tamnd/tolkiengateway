@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sunday Times Magazine 19 September 1982"
 ---
 
-Redirect to [The Sunday Times Magazine 19 September 1982](/wiki/The_Sunday_Times_Magazine_19_September_1982).
+Redirect to [The Sunday Times Magazine 19 September 1982](The_Sunday_Times_Magazine_19_September_1982.md).

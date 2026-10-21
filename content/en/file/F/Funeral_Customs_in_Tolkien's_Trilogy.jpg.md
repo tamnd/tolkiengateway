@@ -1,6 +1,5 @@
 ---
 title: "File:Funeral Customs in Tolkien's Trilogy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Funeral Customs in Tolkien&#039;s Trilogy.jpg</span>"
 page_id: 13915
 namespace: 6
 revision_id: 214080

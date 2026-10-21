@@ -1,6 +1,5 @@
 ---
 title: "Category:Designers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Designers</span>"
 page_id: 27812
 namespace: 14
 revision_id: 115593

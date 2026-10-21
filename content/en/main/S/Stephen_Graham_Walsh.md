@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stephen Walsh"
 ---
 
-Redirect to [Stephen Walsh](/wiki/Stephen_Walsh).
+Redirect to [Stephen Walsh](Stephen_Walsh.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien Calendario 1997"
 ---
 
-Redirect to [J.R.R. Tolkien Calendario 1997](/wiki/J.R.R._Tolkien_Calendario_1997).
+Redirect to [J.R.R. Tolkien Calendario 1997](J.R.R._Tolkien_Calendario_1997.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shores of Faëry"
 ---
 
-Redirect to [The Shores of Faëry](/wiki/The_Shores_of_Faëry).
+Redirect to [The Shores of Faëry](The_Shores_of_Faëry.md).

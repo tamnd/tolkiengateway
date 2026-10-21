@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calendar"
 ---
 
-Redirect to [Calendar](/wiki/Calendar).
+Redirect to [Calendar](Calendar.md).

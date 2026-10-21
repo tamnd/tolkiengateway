@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mánata"
 ---
 
-Redirect to [Mánata](/wiki/Mánata).
+Redirect to [Mánata](Mánata.md).

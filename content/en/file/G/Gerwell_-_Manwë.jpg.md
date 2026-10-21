@@ -1,6 +1,5 @@
 ---
 title: "File:Gerwell - Manwë.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gerwell - Manwë.jpg</span>"
 page_id: 66788
 namespace: 6
 revision_id: 386854

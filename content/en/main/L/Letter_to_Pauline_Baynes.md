@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Pauline Baynes (4 June 1949)"
 ---
 
-Redirect to [Letter to Pauline Baynes (4 June 1949)](/wiki/Letter_to_Pauline_Baynes_(4_June_1949)).
+Redirect to [Letter to Pauline Baynes (4 June 1949)](<Letter_to_Pauline_Baynes_(4_June_1949).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Father Francis Morgan"
 ---
 
-Redirect to [Letter to Father Francis Morgan](/wiki/Letter_to_Father_Francis_Morgan).
+Redirect to [Letter to Father Francis Morgan](../L/Letter_to_Father_Francis_Morgan.md).

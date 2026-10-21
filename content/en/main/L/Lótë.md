@@ -15,15 +15,15 @@ sort_keys:
   "Quenya nouns": "Lote"
 ---
 
-<i><b>lótë</b></i> is a noun meaning "flower" in [Quenya](/wiki/Quenya). Compare with *[loth](/wiki/Loth "Loth")* in [Sindarin](/wiki/Sindarin).
+<i><b>lótë</b></i> is a noun meaning "flower" in [Quenya](../Q/Quenya.md). Compare with *[loth](Loth.md)* in [Sindarin](../S/Sindarin.md).
 
 Examples:
 
-- [Eldalótë](/wiki/Eldal%C3%B3t%C3%AB) = "[High-elven](/wiki/High-elves "High-elves") Flower"
-- [Vingilótë](/wiki/Vingil%C3%B3t%C3%AB) = "Foam-flower"
+- [Eldalótë](../E/Eldalótë.md) = "[High-elven](../H/High-elves.md) Flower"
+- [Vingilótë](../V/Vingilótë.md) = "Foam-flower"
 
 <span></span>
 
 ## References {#References}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](../H/Helge_Fauskanger.md)

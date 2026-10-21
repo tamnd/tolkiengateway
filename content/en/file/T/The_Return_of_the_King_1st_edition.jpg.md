@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King 1st edition.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King 1st edition.jpg</span>"
 page_id: 7976
 namespace: 6
 revision_id: 350789

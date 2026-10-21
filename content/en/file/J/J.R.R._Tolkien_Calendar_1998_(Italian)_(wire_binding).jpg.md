@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Calendar 1998 (Italian) (wire binding).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Calendar 1998 (Italian) (wire binding).jpg</span>"
 page_id: 6698
 namespace: 6
 revision_id: 215473

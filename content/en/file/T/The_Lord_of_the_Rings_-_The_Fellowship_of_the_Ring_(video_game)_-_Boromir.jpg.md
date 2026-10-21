@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Boromir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Boromir.jpg</span>"
 page_id: 21935
 namespace: 6
 revision_id: 298649
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Boromir](/wiki/Boromir) with his shield and [horn](/wiki/Great_Horn "Great Horn") in [Lothlórien](/wiki/Lothl%C3%B3rien). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Boromir](../../main/B/Boromir.md) with his shield and [horn](../../main/G/Great_Horn.md) in [Lothlórien](../../main/L/Lothlórien.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

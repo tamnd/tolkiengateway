@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Mazarbul page 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Mazarbul page 2.jpg</span>"
 page_id: 7386
 namespace: 6
 revision_id: 364286
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elvish](/wiki/Elvish) script from the [Book of Mazarbul](/wiki/Book_of_Mazarbul), drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). Taken from <a class="external text" href="http://www.henneth-annun.net/things_view.cfm?thid=179" rel="noreferrer noopener" target="_blank">Henneth Annun Research Center</a>.
+[Elvish](../../main/E/Elvish.md) script from the [Book of Mazarbul](../../main/B/Book_of_Mazarbul.md), drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Taken from <a class="external text" href="http://www.henneth-annun.net/things_view.cfm?thid=179" rel="noreferrer noopener" target="_blank">Henneth Annun Research Center</a>.
 
 ## Licensing {#Licensing}
 

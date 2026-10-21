@@ -1,6 +1,5 @@
 ---
 title: "File:Der Kleine Hobbit - Gameplay.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Der Kleine Hobbit - Gameplay.gif</span>"
 page_id: 25584
 namespace: 6
 revision_id: 323093

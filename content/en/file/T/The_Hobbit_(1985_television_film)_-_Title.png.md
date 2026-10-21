@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1985 television film) - Title.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1985 television film) - Title.png</span>"
 page_id: 41635
 namespace: 6
 revision_id: 358491

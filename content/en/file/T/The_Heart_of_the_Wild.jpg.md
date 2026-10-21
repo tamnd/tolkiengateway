@@ -1,6 +1,5 @@
 ---
 title: "File:The Heart of the Wild.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Heart of the Wild.jpg</span>"
 page_id: 44074
 namespace: 6
 revision_id: 350745

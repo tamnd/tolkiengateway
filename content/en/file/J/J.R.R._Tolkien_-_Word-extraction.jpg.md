@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Word-extraction.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Word-extraction.jpg</span>"
 page_id: 56724
 namespace: 6
 revision_id: 309586
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's manuscript describing his word game "[Word-extraction](/wiki/Word-extraction)".
+Tolkien's manuscript describing his word game "[Word-extraction](../../main/W/Word-extraction.md)".
 
 ## Licensing {#Licensing}
 

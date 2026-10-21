@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael D.C. Drout"
 ---
 
-Redirect to [Michael D.C. Drout](/wiki/Michael_D.C._Drout).
+Redirect to [Michael D.C. Drout](Michael_D.C._Drout.md).

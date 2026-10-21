@@ -1,6 +1,5 @@
 ---
 title: "Ennorandirrim"
-display_title: "<span class=\"mw-page-title-main\">Ennorandirrim</span>"
 page_id: 66245
 namespace: 0
 revision_id: 388158
@@ -13,7 +12,7 @@ categories:
   - "Dutch organizations"
 ---
 
-**Ennorandirrim** is a Netherlands based Middle-earth live action role playing group that originated mostly from [Unquendor](/wiki/Unquendor) and to a limited extent [Elanor (society)](</wiki/Elanor_(society)>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is mostly active at large fantasy [fandom](/wiki/Fandom "Fandom") events such as Elfia and Tolkien Tage. It also, at times, attends Unquendor and Elanor events.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ennorandirrim** is a Netherlands based Middle-earth live action role playing group that originated mostly from [Unquendor](../U/Unquendor.md) and to a limited extent [Elanor (society)](<Elanor_(society).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is mostly active at large fantasy [fandom](../F/Fandom.md) events such as Elfia and Tolkien Tage. It also, at times, attends Unquendor and Elanor events.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 The group also publishes an electronic newsletter irregularly.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 

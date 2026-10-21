@@ -1,6 +1,5 @@
 ---
 title: "File:Akallabeth CD cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Akallabeth CD cover.jpg</span>"
 page_id: 65193
 namespace: 6
 revision_id: 378372

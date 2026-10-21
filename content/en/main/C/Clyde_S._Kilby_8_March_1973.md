@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter 348a"
 ---
 
-Redirect to [Letter 348a](/wiki/Letter_348a).
+Redirect to [Letter 348a](../L/Letter_348a.md).

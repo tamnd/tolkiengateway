@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hyarmendacil I"
 ---
 
-Redirect to [Hyarmendacil I](/wiki/Hyarmendacil_I).
+Redirect to [Hyarmendacil I](../H/Hyarmendacil_I.md).

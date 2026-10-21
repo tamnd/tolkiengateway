@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Nori the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Nori the Dwarf.png</span>"
 page_id: 73162
 namespace: 6
 revision_id: 433007
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Nori the Dwarf](/wiki/Nori "Nori") - [LEGO](/wiki/Lego "Lego") minifigure
+[Nori the Dwarf](../../main/N/Nori.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

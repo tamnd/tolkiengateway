@@ -1,6 +1,5 @@
 ---
 title: "O slender as a willow-wand!"
-display_title: "<span class=\"mw-page-title-main\">O slender as a willow-wand!</span>"
 page_id: 44032
 namespace: 0
 revision_id: 309488
@@ -14,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**O slender as a willow-wand!** was a poem [Frodo Baggins](/wiki/Frodo_Baggins) sang to [Goldberry](/wiki/Goldberry).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**O slender as a willow-wand!** was a poem [Frodo Baggins](../F/Frodo_Baggins.md) sang to [Goldberry](../G/Goldberry.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## The poem {#The_poem}
 
@@ -28,13 +27,13 @@ categories:
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/In_the_House_of_Tom_Bombadil" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../I/In_the_House_of_Tom_Bombadil.md" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Adventures of Tom Bombadil"
 ---
 
-Redirect to [The Adventures of Tom Bombadil](/wiki/The_Adventures_of_Tom_Bombadil).
+Redirect to [The Adventures of Tom Bombadil](The_Adventures_of_Tom_Bombadil.md).

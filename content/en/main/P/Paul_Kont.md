@@ -1,6 +1,5 @@
 ---
 title: "Paul Kont"
-display_title: "<span class=\"mw-page-title-main\">Paul Kont</span>"
 page_id: 64456
 namespace: 0
 revision_id: 410671
@@ -18,13 +17,13 @@ images:
   - "Komponist_Paul_Kont.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Komponist_Paul_Kont.jpg"><img src="/w/images/thumb/3/38/Komponist_Paul_Kont.jpg/200px-Komponist_Paul_Kont.jpg" decoding="async" loading="lazy" width="200" height="416" class="mw-file-element" srcset="/w/images/3/38/Komponist_Paul_Kont.jpg 1.5x" data-file-width="264" data-file-height="549"/></a><figcaption>Paul Kont</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Komponist_Paul_Kont.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Komponist_Paul_Kont.jpg/200px-Komponist_Paul_Kont.jpg" decoding="async" loading="lazy" width="200" height="416" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/38/Komponist_Paul_Kont.jpg 1.5x" data-file-width="264" data-file-height="549"/></a><figcaption>Paul Kont</figcaption></figure>
 
-**Paul Kont** ([August 19](/wiki/19_August "19 August"), [1920](/wiki/1920) - [December 26](/wiki/26_December "26 December"), [2000](/wiki/2000)), was a prize-winning composer. Along with Leonard Rosenman, he composed the soundtrack for [*The Lord of the Rings* film 1978](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+**Paul Kont** ([August 19](../_/19_August.md), [1920](../_/1920.md) - [December 26](../_/26_December.md), [2000](../_/2000.md)), was a prize-winning composer. Along with Leonard Rosenman, he composed the soundtrack for [*The Lord of the Rings* film 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## See also {#See_also}
 
-- *[Leonard Rosenman](/wiki/Leonard_Rosenman)*
+- *[Leonard Rosenman](../L/Leonard_Rosenman.md)*
 
 ## External links {#External_links}
 

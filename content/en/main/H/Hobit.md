@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobit (disambiguation)"
 ---
 
-Redirect to [Hobit (disambiguation)](/wiki/Hobit_(disambiguation)).
+Redirect to [Hobit (disambiguation)](<Hobit_(disambiguation).md>).

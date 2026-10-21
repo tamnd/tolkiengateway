@@ -1,6 +1,5 @@
 ---
 title: "File:Blind Guardian - The Forgotten Tales.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blind Guardian - The Forgotten Tales.jpg</span>"
 page_id: 74456
 namespace: 6
 revision_id: 438418
@@ -28,7 +27,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Blind Guardian - The Forgotten Tales.jpg</span></th>
 <td class="description">
-<p>The Forgotten Tales by <a href="/wiki/Blind_Guardian" title="Blind Guardian">Blind Guardian</a> album cover.
+<p>The Forgotten Tales by <a href="../../main/B/Blind_Guardian.md" title="Blind Guardian">Blind Guardian</a> album cover.
 </p>
 </td>
 </tr>
@@ -36,17 +35,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996-04-16</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=Andreas_Marschall&amp;action=edit&amp;redlink=1" title="Andreas Marschall (page does not exist)">Andreas Marschall</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Andreas_Marschall&amp;action=edit&amp;redlink=1" title="Andreas Marschall (page does not exist)">Andreas Marschall</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://blob.cede.ch/catalog/146574000/146574695_1_92.jpg" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

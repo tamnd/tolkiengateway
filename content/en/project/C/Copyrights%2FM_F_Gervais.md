@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/M F Gervais"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/M F Gervais</span>"
 page_id: 67862
 namespace: 4
 revision_id: 397894
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gervais, M F"
 ---
 
-- M F Gervais has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_M_F_Gervais "Category:Images by M F Gervais") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- M F Gervais has kindly granted their permission to use [their artwork](../../category/I/Images_by_M_F_Gervais.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: June 2nd, 2024
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

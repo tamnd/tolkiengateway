@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sandheaver Family"
 ---
 
-Redirect to [Sandheaver Family](/wiki/Sandheaver_Family).
+Redirect to [Sandheaver Family](Sandheaver_Family.md).

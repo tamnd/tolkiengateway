@@ -15,13 +15,13 @@ categories:
   - "Quenya prepositions"
 ---
 
-<i><b>or</b></i> means "above" in both [Quenya](/wiki/Quenya)<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup> and [Noldorin](/wiki/Noldorin).<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+<i><b>or</b></i> means "above" in both [Quenya](../Q/Quenya.md)<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup> and [Noldorin](../N/Noldorin.md).<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 In both languages it is most commonly used as a prefix.
 
 ## Examples {#Examples}
 
-- (Quenya) "...<i><a href="/wiki/I" title="I">i</a> <a href="/wiki/Il%C3%BAvatar" title="Ilúvatar">Eru</a> i <b>or</b> <a href="/wiki/Ilya" title="Ilya">ilyë</a> mahalmar eä <a href="/wiki/Tennoio" title="Tennoio">tennoio</a></i>" = "the One who is **above** all thrones for ever"<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+- (Quenya) "...<i><a href="../I/I.md" title="I">i</a> <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a> i <b>or</b> <a href="../I/Ilya.md" title="Ilya">ilyë</a> mahalmar eä <a href="../T/Tennoio.md" title="Tennoio">tennoio</a></i>" = "the One who is **above** all thrones for ever"<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 - (Quenya) ‘’orta-‘’ = “rise”
 - (Quenya) ‘’olla‘’ = “over”<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - (Noldorian) ‘’orchal’’ = “superior / lofty”
@@ -29,19 +29,19 @@ In both languages it is most commonly used as a prefix.
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [ORO](/wiki/OR#Other_versions "OR")<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+- [Root](../S/Sundocarme.md) [ORO](OR~34968.md#Other_versions)<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-C-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-C_1-0">1.0</a></sup> <sup><a href="#cite_ref-C_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;</span>
+<li id="cite_note-C-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-C_1-0">1.0</a></sup> <sup><a href="#cite_ref-C_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;</span>
 </li>
-<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34; p. 379</span>
+<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34; p. 379</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>) p. 65</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>) p. 65</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;The Feanorian Alphabet, Part 1 &amp; Quenya Verb Structure&#34;, in <a href="/wiki/Parma_Eldalamberon_22" title="Parma Eldalamberon 22"><i>Parma Eldalamberon</i> XXII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a> and <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>)p. 31</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;The Feanorian Alphabet, Part 1 &amp; Quenya Verb Structure&#34;, in <a href="../P/Parma_Eldalamberon_22.md" title="Parma Eldalamberon 22"><i>Parma Eldalamberon</i> XXII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a> and <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>)p. 31</span>
 </li>
 </ol></div>

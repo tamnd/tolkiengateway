@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rushey"
 ---
 
-Redirect to [Rushey](/wiki/Rushey).
+Redirect to [Rushey](Rushey.md).

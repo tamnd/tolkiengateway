@@ -1,6 +1,5 @@
 ---
 title: "Silver Soft"
-display_title: "<span class=\"mw-page-title-main\">Silver Soft</span>"
 page_id: 25613
 namespace: 0
 revision_id: 190144
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Silver Soft** was the developer of *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> in the United Kingdom.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Silver Soft** was the developer of *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> in the United Kingdom.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 

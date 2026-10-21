@@ -1,6 +1,5 @@
 ---
 title: "Laocoon"
-display_title: "<span class=\"mw-page-title-main\">Laocoon</span>"
 page_id: 47223
 namespace: 0
 revision_id: 406172
@@ -16,13 +15,13 @@ images:
   - "Tolkien's_Favorite_Tree,_Oxford_Botanical_Garden.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Jrrt_1972_tree.jpg"><img src="/w/images/thumb/6/63/Jrrt_1972_tree.jpg/180px-Jrrt_1972_tree.jpg" decoding="async" loading="lazy" width="180" height="108" class="mw-file-element" srcset="/w/images/thumb/6/63/Jrrt_1972_tree.jpg/270px-Jrrt_1972_tree.jpg 1.5x, /w/images/thumb/6/63/Jrrt_1972_tree.jpg/360px-Jrrt_1972_tree.jpg 2x" data-file-width="460" data-file-height="276"/></a><figcaption>Tolkien next to a Black Pine in 1973</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jrrt_1972_tree.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/180px-Jrrt_1972_tree.jpg" decoding="async" loading="lazy" width="180" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/270px-Jrrt_1972_tree.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/Jrrt_1972_tree.jpg/360px-Jrrt_1972_tree.jpg 2x" data-file-width="460" data-file-height="276"/></a><figcaption>Tolkien next to a Black Pine in 1973</figcaption></figure>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Tolkien%27s_Favorite_Tree,_Oxford_Botanical_Garden.jpg"><img src="/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/180px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg" decoding="async" loading="lazy" width="180" height="240" class="mw-file-element" srcset="/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/270px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 1.5x, /w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/360px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 2x" data-file-width="461" data-file-height="614"/></a><figcaption>Laocoon, the favourite Tolkien tree</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Favorite_Tree,_Oxford_Botanical_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/180px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg" decoding="async" loading="lazy" width="180" height="240" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/270px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg/360px-Tolkien%27s_Favorite_Tree%2C_Oxford_Botanical_Garden.jpg 2x" data-file-width="461" data-file-height="614"/></a><figcaption>Laocoon, the favourite Tolkien tree</figcaption></figure>
 
 **Laocoon** was the name Tolkien gave to one of his favourite trees at the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oxford_Botanic_Garden" title="wikipedia:University of Oxford Botanic Garden">Botanic Garden of Oxford</a>. Laocoon was a <a class="extiw" href="http://en.wikipedia.org/wiki/European_Black_Pine" title="wikipedia:European Black Pine">Black Pine, lat. <i>Pinus nigra</i></a>
 
-On the last known photograph of Tolkien (taken [9 August](/wiki/9_August) [1973](/wiki/1973)), he appears standing next to the tree.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On the last known photograph of Tolkien (taken [9 August](../_/9_August.md) [1973](../_/1973.md)), he appears standing next to the tree.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 According to Dr Stephen Harris of Oxford University’s Department of Plant Sciences:
 
@@ -32,11 +31,9 @@ According to Dr Stephen Harris of Oxford University’s Department of Plant Scie
 <p class="tg-quote-footer"><cite><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 If the story of the Black Pine is true then it should be at least 215 years old.
 
-The tree suffered a collapse on the [26 July](/wiki/26_July) [2014](/wiki/2014) <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and was cut down shortly after due to safety concerns.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+The tree suffered a collapse on the [26 July](../_/26_July.md) [2014](../_/2014.md) <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and was cut down shortly after due to safety concerns.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 After its collapse Dr Harris said:
 
@@ -46,15 +43,13 @@ After its collapse Dr Harris said:
 <p class="tg-quote-footer"><cite><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
 To celebrate its 400th anniversary, the Oxford Botanical Garden is partnering with The Oxford Artisan Distillery to produce Black Pine Whiskey. Some bottles will be available in boxes made from the tree's wood.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The bottle's stoppers will also contain a small piece of wood.
 
-A sapling grown from the tree was planted in the Literary Garden at Oxford by the then Prince Charles in [June](/wiki/June) [2021](/wiki/2021).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+A sapling grown from the tree was planted in the Literary Garden at Oxford by the then Prince Charles in [June](../J/June.md) [2021](../_/2021.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 ## See also {#See_also}
 
-- [Pines](/wiki/Pines)
+- [Pines](../P/Pines.md)
 
 ## External links {#External_links}
 

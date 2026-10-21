@@ -1,6 +1,5 @@
 ---
 title: "-ndo"
-display_title: "<span class=\"mw-page-title-main\">-ndo</span>"
 page_id: 50960
 namespace: 0
 revision_id: 404396
@@ -24,14 +23,14 @@ sort_keys:
 
 ## See also {#See_also}
 
-- [-mo](/wiki/-mo)
-- [-on](/wiki/-on)
+- [-mo](-mo.md)
+- [-on](-on.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Eldarin-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eldarin_1-0">1.0</a></sup> <sup><a href="#cite_ref-Eldarin_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>)</span>
+<li id="cite_note-Eldarin-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eldarin_1-0">1.0</a></sup> <sup><a href="#cite_ref-Eldarin_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>)</span>
 </li>
 </ol></div>

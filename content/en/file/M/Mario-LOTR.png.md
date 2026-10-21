@@ -1,6 +1,5 @@
 ---
 title: "File:Mario-LOTR.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mario-LOTR.png</span>"
 page_id: 25538
 namespace: 6
 revision_id: 224973

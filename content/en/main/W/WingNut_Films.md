@@ -1,6 +1,5 @@
 ---
 title: "WingNut Films"
-display_title: "<span class=\"mw-page-title-main\">WingNut Films</span>"
 page_id: 42085
 namespace: 0
 revision_id: 428782
@@ -19,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/WingNut_Films"
 ---
 
-**WingNut Films** is [Peter Jackson](/wiki/Peter_Jackson)'s film production company.It's a New Zealand production company and it was founded in 1987 by Peter Jackson and Michael Stephens.
+**WingNut Films** is [Peter Jackson](../P/Peter_Jackson.md)'s film production company.It's a New Zealand production company and it was founded in 1987 by Peter Jackson and Michael Stephens.
 
 ## External Links {#External_Links}
 

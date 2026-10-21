@@ -1,6 +1,5 @@
 ---
 title: "Robert Clardy"
-display_title: "<span class=\"mw-page-title-main\">Robert Clardy</span>"
 page_id: 27612
 namespace: 0
 revision_id: 332052
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Clardy, Robert C."
 ---
 
-**Robert C. Clardy** was one of the designers of *[War in Middle Earth](/wiki/War_in_Middle_Earth)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> together with [Alan Clark](/wiki/Alan_Clark) and [Mike Singleton](/wiki/Mike_Singleton). He and Ann Dickens Clardy founded [Synergistic Software, inc.](/wiki/Synergistic_Software,_inc.).
+**Robert C. Clardy** was one of the designers of *[War in Middle Earth](../W/War_in_Middle_Earth.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> together with [Alan Clark](../A/Alan_Clark.md) and [Mike Singleton](../M/Mike_Singleton.md). He and Ann Dickens Clardy founded [Synergistic Software, inc.](../S/Synergistic_Software,_inc..md).
 
 ## External links {#External_links}
 

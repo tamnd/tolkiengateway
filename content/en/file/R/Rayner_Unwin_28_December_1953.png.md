@@ -1,6 +1,5 @@
 ---
 title: "File:Rayner Unwin 28 December 1953.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rayner Unwin 28 December 1953.png</span>"
 page_id: 38343
 namespace: 6
 revision_id: 215097

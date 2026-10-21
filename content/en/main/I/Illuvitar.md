@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilúvatar"
 ---
 
-Redirect to [Ilúvatar](/wiki/Ilúvatar).
+Redirect to [Ilúvatar](Ilúvatar.md).

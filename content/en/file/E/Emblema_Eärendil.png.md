@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien - Earendil's Heraldic Device.JPG"
 ---
 
-Redirect to [File:J.R.R. Tolkien - Earendil's Heraldic Device.JPG](/wiki/File:J.R.R._Tolkien_-_Earendil's_Heraldic_Device.JPG).
+Redirect to [File:J.R.R. Tolkien - Earendil's Heraldic Device.JPG](../J/J.R.R._Tolkien_-_Earendil's_Heraldic_Device.JPG.md).

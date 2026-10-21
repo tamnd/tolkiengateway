@@ -1,6 +1,5 @@
 ---
 title: "File:Roger Garland - Tolkien Landscape.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roger Garland - Tolkien Landscape.jpg</span>"
 page_id: 73460
 namespace: 6
 revision_id: 434282
@@ -32,13 +31,13 @@ file:
 
 ## Summary {#Summary}
 
-"[Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") Landscape" by [Roger Garland](/wiki/Roger_Garland). Created for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* paperbacks.
+"[Tolkien](../../main/J/J.R.R._Tolkien.md) Landscape" by [Roger Garland](../../main/R/Roger_Garland.md). Created for *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)* paperbacks.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Roger Garland</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Roger_Garland" title="Roger Garland">Roger Garland</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/R/Roger_Garland.md" title="Roger Garland">Roger Garland</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Roger_Garland" title="Roger Garland">Roger Garland</a></li>
+<ul><li><b>Name:</b> <a href="../../main/R/Roger_Garland.md" title="Roger Garland">Roger Garland</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.lakeside-gallery.com/" rel="noreferrer noopener" target="_blank">www.lakeside-gallery.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Roger_Garland" title="Tolkien Gateway:Copyrights/Roger Garland">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRoger_Garland.md" title="Tolkien Gateway:Copyrights/Roger Garland">Permission for use on Tolkien Gateway</a></b></li></ul></div>

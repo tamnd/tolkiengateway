@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yávien"
 ---
 
-Redirect to [Yávien](/wiki/Yávien).
+Redirect to [Yávien](Yávien.md).

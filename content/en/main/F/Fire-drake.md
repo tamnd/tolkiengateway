@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fire-drakes"
 ---
 
-Redirect to [Fire-drakes](/wiki/Fire-drakes).
+Redirect to [Fire-drakes](Fire-drakes.md).

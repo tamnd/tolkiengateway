@@ -11,4 +11,4 @@ redirect_target: "Ossë"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Ossë](/wiki/Ossë#Other_versions_of_the_legendarium).
+Redirect to [Ossë](../O/Ossë.md#Other_versions_of_the_legendarium).

@@ -1,6 +1,5 @@
 ---
 title: "Dorothy Whitelock"
-display_title: "<span class=\"mw-page-title-main\">Dorothy Whitelock</span>"
 page_id: 16897
 namespace: 0
 revision_id: 243841
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Whitelock, Dorothy"
 ---
 
-**Dorothy Whitelock** ([11 November](/wiki/11_November), [1901](/wiki/1901) - [14 August](/wiki/14_August), [1982](/wiki/1982)) was a scholar of Anglo-Saxon poetry and history. She was a colleague of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) at the [University of Oxford](/wiki/University_of_Oxford) from [1930](/wiki/1930) until [1957](/wiki/1957), when she became Bosworth Professor of Anglo-Saxon at the [University of Cambridge](/wiki/Cambridge "Cambridge").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dorothy Whitelock** ([11 November](../_/11_November.md), [1901](../_/1901.md) - [14 August](../_/14_August.md), [1982](../_/1982.md)) was a scholar of Anglo-Saxon poetry and history. She was a colleague of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) at the [University of Oxford](../U/University_of_Oxford.md) from [1930](../_/1930.md) until [1957](../_/1957.md), when she became Bosworth Professor of Anglo-Saxon at the [University of Cambridge](../C/Cambridge.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography {#Bibliography}
 
@@ -40,6 +39,6 @@ sort_keys:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 1101</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 1101</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Atlas of Middle-earth 2001.jpg"
 ---
 
-Redirect to [File:The Atlas of Middle-earth 2001.jpg](/wiki/File:The_Atlas_of_Middle-earth_2001.jpg).
+Redirect to [File:The Atlas of Middle-earth 2001.jpg](The_Atlas_of_Middle-earth_2001.jpg.md).

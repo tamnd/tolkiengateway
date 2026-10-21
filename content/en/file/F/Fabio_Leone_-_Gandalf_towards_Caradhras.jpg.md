@@ -1,6 +1,5 @@
 ---
 title: "File:Fabio Leone - Gandalf towards Caradhras.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fabio Leone - Gandalf towards Caradhras.jpg</span>"
 page_id: 54416
 namespace: 6
 revision_id: 437550
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Fabio Leone</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/IllustratorFabioLeone" rel="noreferrer noopener" target="_blank">Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Fabio_Leone" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFabio_Leone.md" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>

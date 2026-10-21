@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarkil"
 ---
 
-Redirect to [Tarkil](/wiki/Tarkil).
+Redirect to [Tarkil](../T/Tarkil.md).

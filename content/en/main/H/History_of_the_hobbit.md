@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of The Hobbit"
 ---
 
-Redirect to [The History of The Hobbit](/wiki/The_History_of_The_Hobbit).
+Redirect to [The History of The Hobbit](../T/The_History_of_The_Hobbit.md).

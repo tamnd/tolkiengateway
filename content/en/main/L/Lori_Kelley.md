@@ -1,6 +1,5 @@
 ---
 title: "Lori Kelley"
-display_title: "<span class=\"mw-page-title-main\">Lori Kelley</span>"
 page_id: 70639
 namespace: 0
 revision_id: 439432
@@ -19,7 +18,7 @@ sort_keys:
   "Country music": "kelley, Lori"
 ---
 
-<i><b>Lori Kelley</b></i> is a Singer-Songwriter, and her music is in several different genres. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She has released two original albums inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*: *A Tale or Two to Tell* and *Ladies of the Rings*.
+<i><b>Lori Kelley</b></i> is a Singer-Songwriter, and her music is in several different genres. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She has released two original albums inspired by *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*: *A Tale or Two to Tell* and *Ladies of the Rings*.
 
 ## Links {#Links}
 
@@ -32,6 +31,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.instagram.com/thelorikelley/" rel="noreferrer noopener" target="_blank">&#34;@thelorikelley&#34;</a></span>. <span class="cite-web-website">Instagram</span>. <span class="cite-web-accessed">Retrieved 1 July 2025</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.instagram.com/thelorikelley/" rel="noreferrer noopener" target="_blank">&#34;@thelorikelley&#34;</a></span>. <span class="cite-web-website">Instagram</span>. <span class="cite-web-accessed">Retrieved 1 July 2025</span></cite></span>
 </li>
 </ol></div>

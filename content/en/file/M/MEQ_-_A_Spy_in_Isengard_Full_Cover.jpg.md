@@ -1,6 +1,5 @@
 ---
 title: "File:MEQ - A Spy in Isengard Full Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MEQ - A Spy in Isengard Full Cover.jpg</span>"
 page_id: 72424
 namespace: 6
 revision_id: 430444

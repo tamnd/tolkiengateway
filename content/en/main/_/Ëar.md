@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eär"
 ---
 
-Redirect to [Eär](/wiki/Eär).
+Redirect to [Eär](../E/Eär.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Elves and Sauron"
 ---
 
-Redirect to [War of the Elves and Sauron](/wiki/War_of_the_Elves_and_Sauron).
+Redirect to [War of the Elves and Sauron](War_of_the_Elves_and_Sauron.md).

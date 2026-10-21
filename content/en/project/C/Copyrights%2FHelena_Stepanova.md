@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Helena Stepanova"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Helena Stepanova</span>"
 page_id: 58240
 namespace: 4
 revision_id: 322022
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Stepanova, Helena"
 ---
 
-- Helena Stepanova has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Helena_Stepanova "Category:Images by Helena Stepanova") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Helena Stepanova has kindly granted her permission to use [her artwork](../../category/I/Images_by_Helena_Stepanova.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

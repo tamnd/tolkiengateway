@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narquelië"
 ---
 
-Redirect to [Narquelië](/wiki/Narquelië).
+Redirect to [Narquelië](Narquelië.md).

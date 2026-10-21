@@ -1,6 +1,5 @@
 ---
 title: "Category:Springs and wells"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Springs and wells</span>"
 page_id: 39673
 namespace: 14
 revision_id: 195507

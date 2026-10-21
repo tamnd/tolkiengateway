@@ -1,6 +1,5 @@
 ---
 title: "File:A Path from Rome (paperback).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Path from Rome (paperback).jpg</span>"
 page_id: 30392
 namespace: 6
 revision_id: 213952

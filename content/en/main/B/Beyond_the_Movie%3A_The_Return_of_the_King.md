@@ -1,6 +1,5 @@
 ---
 title: "Beyond the Movie: The Return of the King"
-display_title: "<span class=\"mw-page-title-main\">Beyond the Movie: The Return of the King</span>"
 page_id: 66502
 namespace: 0
 revision_id: 384285
@@ -13,7 +12,7 @@ categories:
   - "Documentaries"
 ---
 
-<i><b>National Geographic: Beyond the Movie - The Lord of the Rings: The Return of the King</b></i> is a [2003](/wiki/2003) documentary by National Geographic Channel about [Peter Jackson's](/wiki/Peter_Jackson "Peter Jackson") *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. It was preceded by *[National Geographic: Beyond the Movie - The Lord of the Rings: The Fellowship of the Ring](/wiki/Beyond_the_Movie:_The_Fellowship_of_the_Ring "Beyond the Movie: The Fellowship of the Ring")*. The documentary was written by Rachel Allen, John B. Bredar, and Helen Fitzwilliam, and features cast and crew members of the film.
+<i><b>National Geographic: Beyond the Movie - The Lord of the Rings: The Return of the King</b></i> is a [2003](../_/2003.md) documentary by National Geographic Channel about [Peter Jackson's](../P/Peter_Jackson.md) *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. It was preceded by *[National Geographic: Beyond the Movie - The Lord of the Rings: The Fellowship of the Ring](Beyond_the_Movie%253A_The_Fellowship_of_the_Ring.md)*. The documentary was written by Rachel Allen, John B. Bredar, and Helen Fitzwilliam, and features cast and crew members of the film.
 
 ## Back cover {#Back_cover}
 
@@ -27,22 +26,20 @@ categories:
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## Interviewed people {#Interviewed_people}
 
-- [John Rhys-Davies](/wiki/John_Rhys-Davies) - documentary narrator and actor of [Gimli](/wiki/Gimli).
-- [Peter Jackson](/wiki/Peter_Jackson) - director.
-- [Philippa Boyens](/wiki/Philippa_Boyens) - co-screenwriter.
-- [Michael D. C. Drout](/wiki/Michael_D._C._Drout) - Tolkien scholar.
-- [Ian McKellen](/wiki/Ian_McKellen) - actor of Gandalf.
-- [Hugo Weaving](/wiki/Hugo_Weaving) - actor of Elrond.
-- [Christopher Lee](/wiki/Christopher_Lee) - actor of Saruman.
-- [David Wenham](/wiki/David_Wenham) - actor of Faramir.
-- [Elijah Wood](/wiki/Elijah_Wood) - actor of Frodo.
-- [Billy Boyd](/wiki/Billy_Boyd) - actor of Pippin.
-- [Orlando Bloom](/wiki/Orlando_Bloom) - actor of Legolas.
-- [Sean Astin](/wiki/Sean_Astin) - actor of Samwise Gamgee.
+- [John Rhys-Davies](../J/John_Rhys-Davies.md) - documentary narrator and actor of [Gimli](../G/Gimli.md).
+- [Peter Jackson](../P/Peter_Jackson.md) - director.
+- [Philippa Boyens](../P/Philippa_Boyens.md) - co-screenwriter.
+- [Michael D. C. Drout](../M/Michael_D._C._Drout.md) - Tolkien scholar.
+- [Ian McKellen](../I/Ian_McKellen.md) - actor of Gandalf.
+- [Hugo Weaving](../H/Hugo_Weaving.md) - actor of Elrond.
+- [Christopher Lee](../C/Christopher_Lee.md) - actor of Saruman.
+- [David Wenham](../D/David_Wenham.md) - actor of Faramir.
+- [Elijah Wood](../E/Elijah_Wood.md) - actor of Frodo.
+- [Billy Boyd](Billy_Boyd.md) - actor of Pippin.
+- [Orlando Bloom](../O/Orlando_Bloom.md) - actor of Legolas.
+- [Sean Astin](../S/Sean_Astin.md) - actor of Samwise Gamgee.
 - Lynette Nusbacher - English historian.
 - Fiona Watson - Scottish historian.
 - Michael Zuckerman - expert on Benjamin Franklin.
@@ -53,4 +50,4 @@ categories:
 
 ## See also {#See_also}
 
-- *[Beyond the Movie: The Fellowship of the Ring](/wiki/Beyond_the_Movie:_The_Fellowship_of_the_Ring)*
+- *[Beyond the Movie: The Fellowship of the Ring](Beyond_the_Movie%253A_The_Fellowship_of_the_Ring.md)*

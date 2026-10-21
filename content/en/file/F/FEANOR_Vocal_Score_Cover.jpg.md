@@ -1,6 +1,5 @@
 ---
 title: "File:FEANOR Vocal Score Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">FEANOR Vocal Score Cover.jpg</span>"
 page_id: 65200
 namespace: 6
 revision_id: 378818

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Modding Community"
 ---
 
-Redirect to [Tolkien Modding Community](/wiki/Tolkien_Modding_Community).
+Redirect to [Tolkien Modding Community](Tolkien_Modding_Community.md).

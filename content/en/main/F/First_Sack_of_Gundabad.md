@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Mount Gundabad"
 ---
 
-Redirect to [Fall of Mount Gundabad](/wiki/Fall_of_Mount_Gundabad).
+Redirect to [Fall of Mount Gundabad](Fall_of_Mount_Gundabad.md).

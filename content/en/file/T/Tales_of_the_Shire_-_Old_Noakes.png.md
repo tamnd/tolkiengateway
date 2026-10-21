@@ -1,6 +1,5 @@
 ---
 title: "File:Tales of the Shire - Old Noakes.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales of the Shire - Old Noakes.png</span>"
 page_id: 72180
 namespace: 6
 revision_id: 429154
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Old Noakes](/wiki/Old_Noakes) - *[Tales of the Shire: A "The Lord of the Rings" Game](/wiki/Tales_of_the_Shire:_A_%22The_Lord_of_the_Rings%22_Game)*
+[Old Noakes](../../main/O/Old_Noakes.md) - *[Tales of the Shire: A "The Lord of the Rings" Game](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md)*
 
 ## Licensing {#Licensing}
 

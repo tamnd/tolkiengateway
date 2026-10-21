@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Bilbo Baggins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Bilbo Baggins.png</span>"
 page_id: 71428
 namespace: 6
 revision_id: 436318
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

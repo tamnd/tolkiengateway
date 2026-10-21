@@ -1,6 +1,5 @@
 ---
 title: "File:Magali Villeneuve - Second Breakfast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Magali Villeneuve - Second Breakfast.jpg</span>"
 page_id: 73045
 namespace: 6
 revision_id: 432554
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Second Breakfast](/wiki/Second_breakfast "Second breakfast")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Conflict at the Carrock* illustration by Magali Villeneuve
+"[Second Breakfast](../../main/S/Second_breakfast.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Conflict at the Carrock* illustration by Magali Villeneuve
 
 ## Licensing {#Licensing}
 

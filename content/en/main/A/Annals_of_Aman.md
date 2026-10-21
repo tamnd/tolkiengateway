@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Annals of Aman"
 ---
 
-Redirect to [The Annals of Aman](/wiki/The_Annals_of_Aman).
+Redirect to [The Annals of Aman](../T/The_Annals_of_Aman.md).

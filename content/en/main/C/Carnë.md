@@ -15,24 +15,24 @@ sort_keys:
   "Quenya adjectives": "Carne"
 ---
 
-<i><b>carnë</b></i> is a [Quenya](/wiki/Quenya) ajective which means "red" or "scarlet".
+<i><b>carnë</b></i> is a [Quenya](../Q/Quenya.md) ajective which means "red" or "scarlet".
 
 ## Etymology {#Etymology}
 
-Derived from the [root](/wiki/Sundocarme "Sundocarme") AK- ("narrow, confined").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Derived from the [root](../S/Sundocarme.md) AK- ("narrow, confined").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Carnistir](/wiki/Carnistir) = Red-face
-- [Orocarni](/wiki/Orocarni) = Red Mountains
+- [Carnistir](Carnistir.md) = Red-face
+- [Orocarni](../O/Orocarni.md) = Red Mountains
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry <b>KARÁN-</b></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry <b>KARÁN-</b></span>
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-English Wordlist</a> compiled by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- <a class="external text" href="http://www.uib.no/People/hnohf" rel="noreferrer noopener" target="_blank">Quenya-English Wordlist</a> compiled by [Helge Fauskanger](../H/Helge_Fauskanger.md)

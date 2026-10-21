@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanor"
 ---
 
-Redirect to [Fëanor](/wiki/Fëanor).
+Redirect to [Fëanor](../F/Fëanor.md).

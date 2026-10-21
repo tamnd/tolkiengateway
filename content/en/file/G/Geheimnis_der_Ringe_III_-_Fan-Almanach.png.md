@@ -1,6 +1,5 @@
 ---
 title: "File:Geheimnis der Ringe III - Fan-Almanach.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Geheimnis der Ringe III - Fan-Almanach.png</span>"
 page_id: 74738
 namespace: 6
 revision_id: 439650
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Taken by myself</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

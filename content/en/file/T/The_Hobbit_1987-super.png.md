@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 1987-super.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 1987-super.png</span>"
 page_id: 62652
 namespace: 6
 revision_id: 353851

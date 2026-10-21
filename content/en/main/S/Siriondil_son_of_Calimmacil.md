@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siriondil (son of Calimmacil)"
 ---
 
-Redirect to [Siriondil (son of Calimmacil)](/wiki/Siriondil_(son_of_Calimmacil)).
+Redirect to [Siriondil (son of Calimmacil)](<Siriondil_(son_of_Calimmacil).md>).

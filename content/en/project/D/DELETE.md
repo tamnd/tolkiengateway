@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Deletion policy"
 ---
 
-Redirect to [Tolkien Gateway:Deletion policy](/wiki/Tolkien_Gateway:Deletion_policy).
+Redirect to [Tolkien Gateway:Deletion policy](Deletion_policy.md).

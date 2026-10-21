@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Eärendil heraldic device (III).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Eärendil heraldic device (III).jpg</span>"
 page_id: 64777
 namespace: 6
 revision_id: 373305
@@ -30,8 +29,8 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/117/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #117</a>. Published in:
 
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), February
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 193, #190
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), February
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 193, #190
 
 Notice that the device in the manuscript has "Eärendel" as title, but we kept the same title as the TAI.
 

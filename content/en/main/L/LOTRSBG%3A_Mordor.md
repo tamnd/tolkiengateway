@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mordor (book)"
 ---
 
-Redirect to [Mordor (book)](/wiki/Mordor_(book)).
+Redirect to [Mordor (book)](<../M/Mordor_(book).md>).

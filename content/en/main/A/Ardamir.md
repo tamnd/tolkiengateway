@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ardamir (disambiguation)"
 ---
 
-Redirect to [Ardamir (disambiguation)](/wiki/Ardamir_(disambiguation)).
+Redirect to [Ardamir (disambiguation)](<Ardamir_(disambiguation).md>).

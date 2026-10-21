@@ -1,6 +1,5 @@
 ---
 title: "File:TS Westmoot logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TS Westmoot logo.jpg</span>"
 page_id: 69177
 namespace: 6
 revision_id: 413186
@@ -43,17 +42,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2024-11-27</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/The_Tolkien_Society" title="The Tolkien Society">The Tolkien Society</a></td>
+<td><a href="../../main/T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.tolkiensociety.org/events/westmoot-2025/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/events/westmoot-2025/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

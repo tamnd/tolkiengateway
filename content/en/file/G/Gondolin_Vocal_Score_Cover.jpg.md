@@ -1,6 +1,5 @@
 ---
 title: "File:Gondolin Vocal Score Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gondolin Vocal Score Cover.jpg</span>"
 page_id: 65212
 namespace: 6
 revision_id: 378820

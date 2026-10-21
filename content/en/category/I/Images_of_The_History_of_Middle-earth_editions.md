@@ -15,4 +15,4 @@ sort_keys:
   "Images of books": "History of Middle earth"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_History_of_Middle-earth" title="The History of Middle-earth">The History of Middle-earth</a></i> editions</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> editions</b>.</dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "Frodo's Restaurant"
-display_title: "<span class=\"mw-page-title-main\">Frodo&#039;s Restaurant</span>"
 page_id: 6334
 namespace: 0
 revision_id: 190064
@@ -16,9 +15,9 @@ images:
   - "Frodo's_Restaurant.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Frodo%27s_Restaurant.jpg"><img src="/w/images/f/fe/Frodo%27s_Restaurant.jpg" decoding="async" loading="lazy" width="150" height="113" class="mw-file-element" data-file-width="150" data-file-height="113"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Frodo&#39;s_Restaurant.jpg.md"><img src="https://tolkiengateway.net/w/images/f/fe/Frodo%27s_Restaurant.jpg" decoding="async" loading="lazy" width="150" height="113" class="mw-file-element" data-file-width="150" data-file-height="113"/></a><figcaption></figcaption></figure>
 
-**Frodo's Restaurant** was a Tolkien-themed restaurant in New York. It closed sometime in [2007](/wiki/2007).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Frodo's Restaurant** was a Tolkien-themed restaurant in New York. It closed sometime in [2007](../_/2007.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

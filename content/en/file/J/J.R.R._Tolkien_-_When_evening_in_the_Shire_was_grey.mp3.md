@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - When evening in the Shire was grey.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - When evening in the Shire was grey.mp3</span>"
 page_id: 71069
 namespace: 6
 revision_id: 424391
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads [When evening in the Shire was grey](/wiki/When_evening_in_the_Shire_was_grey)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads [When evening in the Shire was grey](../../main/W/When_evening_in_the_Shire_was_grey.md)
 
 ## Licensing {#Licensing}
 

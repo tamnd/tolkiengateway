@@ -1,6 +1,5 @@
 ---
 title: "Ja, Lattu Gamminn"
-display_title: "<span class=\"mw-page-title-main\">Ja, Lattu Gamminn</span>"
 page_id: 63162
 namespace: 0
 revision_id: 357576
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Ja, Lattu Gamminn** is an Icelandic song by poet <a class="extiw" href="http://en.wikipedia.org/wiki/Hannes_Hafstein" title="wikipedia:Hannes Hafstein">Hannes Hafstein</a>. It is published as the third song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Ja, Lattu Gamminn** is an Icelandic song by poet <a class="extiw" href="http://en.wikipedia.org/wiki/Hannes_Hafstein" title="wikipedia:Hannes Hafstein">Hannes Hafstein</a>. It is published as the third song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

@@ -1,6 +1,5 @@
 ---
 title: "Down, Down, To Goblin Town"
-display_title: "<span class=\"mw-page-title-main\">Down, Down, To Goblin Town</span>"
 page_id: 23499
 namespace: 0
 revision_id: 408282
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Down, Down, To Goblin Town** is the eighth track on *[The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack)*. It is very similar to the more famous *[Where There's a Whip, There's a Way](/wiki/Where_There%27s_a_Whip,_There%27s_a_Way)*, which was featured in the other [Rankin/Bass](/wiki/Rankin/Bass) film, *[The Return of the King](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")*. It is based on the poem *[Clap! Snap! the black crack!](/wiki/Clap!_Snap!_the_black_crack!)*, which appears in the novel.
+**Down, Down, To Goblin Town** is the eighth track on *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. It is very similar to the more famous *[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)*, which was featured in the other [Rankin/Bass](../R/Rankin%252FBass.md) film, *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. It is based on the poem *[Clap! Snap! the black crack!](../C/Clap!_Snap!_the_black_crack!.md)*, which appears in the novel.
 
 ## Lyrics {#Lyrics}
 

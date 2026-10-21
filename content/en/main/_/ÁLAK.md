@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "LAK"
 ---
 
-Redirect to [LAK](/wiki/LAK).
+Redirect to [LAK](../L/LAK.md).

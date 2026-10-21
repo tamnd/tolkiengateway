@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Éowyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Éowyn.png</span>"
 page_id: 73152
 namespace: 6
 revision_id: 432990
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Éowyn](/wiki/%C3%89owyn) - [LEGO](/wiki/Lego "Lego") microfigure. Source: <a class="external text" href="https://brickset.com/minifigs/85863pb111/microfigure-lord-of-the-rings-eowyn" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Éowyn](../../main/_/Éowyn.md) - [LEGO](../../main/L/Lego.md) microfigure. Source: <a class="external text" href="https://brickset.com/minifigs/85863pb111/microfigure-lord-of-the-rings-eowyn" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

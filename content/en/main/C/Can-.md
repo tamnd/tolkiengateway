@@ -16,25 +16,25 @@ categories:
 
 ## Sindarin {#Sindarin}
 
-<i><b>can-</b></i> means "cry out, shout, call" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>can-</b></i> means "cry out, shout, call" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme"): [Common Eldarin](/wiki/Common_Eldarin) [KAN](/wiki/KAN)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Telerin {#Telerin}
 
-<i><b>can-</b></i> means "cry aloud, call" or "to summons or name a person" in [Telerin](/wiki/Telerin).<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>can-</b></i> means "cry aloud, call" or "to summons or name a person" in [Telerin](../T/Telerin.md).<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Etymology {#Etymology_2}
 
-- [Root](/wiki/Sundocarme "Sundocarme"): [Common Eldarin](/wiki/Common_Eldarin) [KAN](/wiki/KAN)<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup> <sup><a href="#cite_ref-PM_1-2">1.2</a></sup> <sup><a href="#cite_ref-PM_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p. 362</span>
+<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup> <sup><a href="#cite_ref-PM_1-2">1.2</a></sup> <sup><a href="#cite_ref-PM_1-3">1.3</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p. 362</span>
 </li>
 </ol></div>

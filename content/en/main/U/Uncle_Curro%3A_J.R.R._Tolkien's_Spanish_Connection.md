@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "La Conexion Española de J.R.R. Tolkien"
 ---
 
-Redirect to [La Conexion Española de J.R.R. Tolkien](/wiki/La_Conexion_Española_de_J.R.R._Tolkien).
+Redirect to [La Conexion Española de J.R.R. Tolkien](../L/La_Conexion_Española_de_J.R.R._Tolkien.md).

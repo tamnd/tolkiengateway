@@ -1,6 +1,5 @@
 ---
 title: "Tolkiendil (Tolkien society)"
-display_title: "<span class=\"mw-page-title-main\">Tolkiendil (Tolkien society)</span>"
 page_id: 36969
 namespace: 0
 revision_id: 403670
@@ -17,11 +16,11 @@ sort_keys:
   "Tolkien Societies": "Tolkien dil"
 ---
 
-**L'Association Tolkiendil** is a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in France founded in [2003](/wiki/2003).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This non-profit organization is dedicated to promoting J.R.R. Tolkien’s works in French-speaking countries.
+**L'Association Tolkiendil** is a [Tolkien society](Tolkien_Societies~67099.md) in France founded in [2003](../_/2003.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This non-profit organization is dedicated to promoting J.R.R. Tolkien’s works in French-speaking countries.
 
 ## Publications {#Publications}
 
-Publications include *[L'Arc et le Heaume](/wiki/L%27Arc_et_le_Heaume)*. Tolkiendil organizes various Tolkien events and also attends Fantasy related events throughout the year.
+Publications include *[L'Arc et le Heaume](../L/L'Arc_et_le_Heaume.md)*. Tolkiendil organizes various Tolkien events and also attends Fantasy related events throughout the year.
 
 ## External links {#External_links}
 

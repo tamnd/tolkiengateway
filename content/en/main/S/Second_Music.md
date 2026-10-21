@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Music of the Ainur"
 ---
 
-Redirect to [Second Music of the Ainur](/wiki/Second_Music_of_the_Ainur).
+Redirect to [Second Music of the Ainur](Second_Music_of_the_Ainur.md).

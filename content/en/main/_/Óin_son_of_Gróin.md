@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óin"
 ---
 
-Redirect to [Óin](/wiki/Óin).
+Redirect to [Óin](Óin.md).

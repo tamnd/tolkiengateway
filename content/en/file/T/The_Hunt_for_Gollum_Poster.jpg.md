@@ -1,6 +1,5 @@
 ---
 title: "File:The Hunt for Gollum Poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hunt for Gollum Poster.jpg</span>"
 page_id: 23763
 namespace: 6
 revision_id: 358106
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional poster for *[The Hunt for Gollum](/wiki/The_Hunt_for_Gollum)*. Scaled down, original <a class="external text" href="http://www.thehuntforgollum.com/downloads.htm" rel="noreferrer noopener" target="_blank">here</a>
+Promotional poster for *[The Hunt for Gollum](../../main/T/The_Hunt_for_Gollum.md)*. Scaled down, original <a class="external text" href="http://www.thehuntforgollum.com/downloads.htm" rel="noreferrer noopener" target="_blank">here</a>
 
 ## Licensing {#Licensing}
 

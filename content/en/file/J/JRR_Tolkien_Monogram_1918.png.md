@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R Tolkien Monogram 1918.png"
 ---
 
-Redirect to [File:J.R.R Tolkien Monogram 1918.png](/wiki/File:J.R.R_Tolkien_Monogram_1918.png).
+Redirect to [File:J.R.R Tolkien Monogram 1918.png](J.R.R_Tolkien_Monogram_1918.png.md).

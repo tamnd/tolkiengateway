@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Anduril Flame of the West.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Anduril Flame of the West.jpg</span>"
 page_id: 66272
 namespace: 6
 revision_id: 435741
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Andúril, Flame of the West](/wiki/And%C3%BAril "Andúril")*", by <a class="external text" href="https://www.deviantart.com/artigas/art/Anduril-Flame-of-the-West-889370007" rel="noreferrer noopener" target="_blank">Artigas</a>
+"*[Andúril, Flame of the West](../../main/A/Andúril.md)*", by <a class="external text" href="https://www.deviantart.com/artigas/art/Anduril-Flame-of-the-West-889370007" rel="noreferrer noopener" target="_blank">Artigas</a>
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">Artigas&#39;s DeviantArt account</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

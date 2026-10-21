@@ -1,6 +1,5 @@
 ---
 title: "Category:Germany"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Germany</span>"
 page_id: 27887
 namespace: 14
 revision_id: 166856

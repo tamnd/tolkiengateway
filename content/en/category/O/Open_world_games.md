@@ -1,6 +1,5 @@
 ---
 title: "Category:Open world games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Open world games</span>"
 page_id: 48859
 namespace: 14
 revision_id: 416679

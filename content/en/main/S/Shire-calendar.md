@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shire Calendar"
 ---
 
-Redirect to [Shire Calendar](/wiki/Shire_Calendar).
+Redirect to [Shire Calendar](Shire_Calendar.md).

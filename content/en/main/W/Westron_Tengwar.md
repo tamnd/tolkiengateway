@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alphabet of Fëanor: Numenian, or Westron, Mode"
 ---
 
-Redirect to [Alphabet of Fëanor: Numenian, or Westron, Mode](/wiki/Alphabet_of_Fëanor:_Numenian,_or_Westron,_Mode).
+Redirect to [Alphabet of Fëanor: Numenian, or Westron, Mode](../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md).

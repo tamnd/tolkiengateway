@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with reference errors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with reference errors</span>"
 page_id: 63510
 namespace: 14
 revision_id: 361725

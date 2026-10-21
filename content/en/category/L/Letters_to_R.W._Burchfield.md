@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to R.W. Burchfield"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to R.W. Burchfield</span>"
 page_id: 68709
 namespace: 14
 revision_id: 408884
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Burchfield, R.W."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burchfield" title="wikipedia:Robert Burchfield">R.W. Burchfield</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burchfield" title="wikipedia:Robert Burchfield">R.W. Burchfield</a>.

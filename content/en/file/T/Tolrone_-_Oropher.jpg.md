@@ -1,6 +1,5 @@
 ---
 title: "File:Tolrone - Oropher.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolrone - Oropher.jpg</span>"
 page_id: 57773
 namespace: 6
 revision_id: 317821
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tolrone</li>
 <li><b>Website:</b> <a class="external text" href="https://www.tumblr.com/blog/view/tolrone" rel="noreferrer noopener" target="_blank">Tolrone on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tolrone" title="Tolkien Gateway:Copyrights/Tolrone">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTolrone.md" title="Tolkien Gateway:Copyrights/Tolrone">Permission for use on Tolkien Gateway</a></b></li></ul></div>

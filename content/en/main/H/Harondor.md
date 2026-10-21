@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "South Gondor"
 ---
 
-Redirect to [South Gondor](/wiki/South_Gondor).
+Redirect to [South Gondor](../S/South_Gondor.md).

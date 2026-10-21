@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carn Dûm"
 ---
 
-Redirect to [Carn Dûm](/wiki/Carn_Dûm).
+Redirect to [Carn Dûm](Carn_Dûm.md).

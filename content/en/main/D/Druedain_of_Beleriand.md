@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúedain of Beleriand"
 ---
 
-Redirect to [Drúedain of Beleriand](/wiki/Drúedain_of_Beleriand).
+Redirect to [Drúedain of Beleriand](Drúedain_of_Beleriand.md).

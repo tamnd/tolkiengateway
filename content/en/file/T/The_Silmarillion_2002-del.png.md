@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 2002-del.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 2002-del.png</span>"
 page_id: 62607
 namespace: 6
 revision_id: 353681

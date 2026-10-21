@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Wold"
 ---
 
-Redirect to [The Wold](/wiki/The_Wold).
+Redirect to [The Wold](../T/The_Wold.md).

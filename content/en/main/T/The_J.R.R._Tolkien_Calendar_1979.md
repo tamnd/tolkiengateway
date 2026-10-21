@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien Calendar 1979"
 ---
 
-Redirect to [J.R.R. Tolkien Calendar 1979](/wiki/J.R.R._Tolkien_Calendar_1979).
+Redirect to [J.R.R. Tolkien Calendar 1979](../J/J.R.R._Tolkien_Calendar_1979.md).

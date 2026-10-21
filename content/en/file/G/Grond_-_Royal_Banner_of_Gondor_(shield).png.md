@@ -1,6 +1,5 @@
 ---
 title: "File:Grond - Royal Banner of Gondor (shield).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grond - Royal Banner of Gondor (shield).png</span>"
 page_id: 70833
 namespace: 6
 revision_id: 430967
@@ -30,28 +29,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Grond - Royal Banner of Gondor (shield).png</span></th>
 <td class="description">
-<p>Shield-shaped alternative to <a href="/wiki/File:Grond_-_Royal_Banner_of_Gondor.png" title="File:Grond - Royal Banner of Gondor.png">File:Grond - Royal Banner of Gondor.png</a>
+<p>Shield-shaped alternative to <a href="Grond_-_Royal_Banner_of_Gondor.png.md" title="File:Grond - Royal Banner of Gondor.png">File:Grond - Royal Banner of Gondor.png</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/User:Grond" title="User:Grond">Grond</a></td>
+<td><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Based on <a href="/wiki/File:J.R.R._Tolkien_-_The_Return_of_the_King.jpg" title="File:J.R.R. Tolkien - The Return of the King.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
+<td>Based on <a href="../J/J.R.R._Tolkien_-_The_Return_of_the_King.jpg.md" title="File:J.R.R. Tolkien - The Return of the King.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by/3.0/" rel="noreferrer noopener" target="_blank">Attribution 3.0</a> License.
-</p><p>Attribution: <span class="licensetpl_attr"><a href="/wiki/User:Grond" title="User:Grond">Grond</a></span><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by/3.0</span><span class="licensetpl_short" style="display:none;">CC BY 3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p><p>Attribution: <span class="licensetpl_attr"><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></span><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by/3.0</span><span class="licensetpl_short" style="display:none;">CC BY 3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
 </p>
 </div>

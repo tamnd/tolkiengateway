@@ -1,6 +1,5 @@
 ---
 title: "File:Randy Gallegos - Dinner.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Randy Gallegos - Dinner.jpeg</span>"
 page_id: 74951
 namespace: 6
 revision_id: 441236
@@ -35,7 +34,7 @@ file:
 <blockquote class="tg-quote noexcerpt">
 <p>Dinner inside by candlelight […] I composed these by setting out tables both in and outdoors with various plates, foods, cups and dishes, rather than by sketching. As I was not allowed to paint these, I did them digitally. While you might assume I just smudged photographs into art-looking images, I actually digitally painted these from scratch because I thought it would look better to do so, digital painting being time-saving in any case.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>From <a href="/wiki/Secret_Lair#Second_Breakfast_and_Beyond" title="Secret Lair">Secret Lair: Second Breakfast and Beyond</a>. Per the actual card&#39;s flavour text (and what can be seen on the art), this is dinner at <a href="/wiki/Beorn%27s_Hall" title="Beorn&#39;s Hall">Beorn&#39;s Hall</a>
+</blockquote>From <a href="../../main/S/Secret_Lair.md#Second_Breakfast_and_Beyond" title="Secret Lair">Secret Lair: Second Breakfast and Beyond</a>. Per the actual card&#39;s flavour text (and what can be seen on the art), this is dinner at <a href="../../main/B/Beorn&#39;s_Hall.md" title="Beorn&#39;s Hall">Beorn&#39;s Hall</a>
 </td>
 </tr>
 <tr style="vertical-align: top">
@@ -46,22 +45,20 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>digital</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Randy_Gallegos" title="Randy Gallegos">Randy Gallegos</a></td>
+<td><a href="../../main/R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.artofthe.day/p/mtg-elevensies-dinner-2025" rel="noreferrer noopener" target="_blank">Art of the Day</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="/wiki/Middle-earth_Enterprises" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="../../main/M/Middle-earth_Enterprises.md" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

@@ -1,6 +1,5 @@
 ---
 title: "File:Tuuliky - Prayer of Fingon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tuuliky - Prayer of Fingon.jpg</span>"
 page_id: 38008
 namespace: 6
 revision_id: 183947
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-*[Maedhros](/wiki/Maedhros), being in anguish without hope, begged [Fingon](/wiki/Fingon) to shoot him. Fingon, seeing no better hope, strung his bow and cried to [Manwë](/wiki/Manw%C3%AB) "O King to whom all birds are dear, speed now this feathered shaft, and recall some pity for the [Noldor](/wiki/Noldor) in their need!"*
+*[Maedhros](../../main/M/Maedhros.md), being in anguish without hope, begged [Fingon](../../main/F/Fingon.md) to shoot him. Fingon, seeing no better hope, strung his bow and cried to [Manwë](../../main/M/Manwë.md) "O King to whom all birds are dear, speed now this feathered shaft, and recall some pity for the [Noldor](../../main/N/Noldor.md) in their need!"*
 
-*His prayer was answered swiftly, for Manwë had commanded a watch upon Morgoth as he held still some pity for the Elves in exile. Even as Fingon bent his bow, [Thorondor](/wiki/Thorondor), King of [Eagles](/wiki/Eagles), flew down from the high airs, and staying Fingon's hand, bore him to the precipice where his friend hung...*
+*His prayer was answered swiftly, for Manwë had commanded a watch upon Morgoth as he held still some pity for the Elves in exile. Even as Fingon bent his bow, [Thorondor](../../main/T/Thorondor.md), King of [Eagles](../../main/E/Eagles.md), flew down from the high airs, and staying Fingon's hand, bore him to the precipice where his friend hung...*
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tuuliky</li>
 <li><b>Website:</b> <a class="external text" href="http://tuuliky.deviantart.com/" rel="noreferrer noopener" target="_blank">Tuuliky&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tuuliky" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTuuliky.md" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>

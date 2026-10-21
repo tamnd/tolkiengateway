@@ -1,6 +1,5 @@
 ---
 title: "File:Ebe Kastein - Amandil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ebe Kastein - Amandil.jpg</span>"
 page_id: 49996
 namespace: 6
 revision_id: 336250
@@ -36,4 +35,4 @@ Original Gondorian character for a fanfic titled "Many Partings". See <a class="
 </p>
 <ul><li><b>Name:</b> Ebe Kastein</li>
 <li><b>Website:</b> <a class="external text" href="http://ebe-kastein.deviantart.com/" rel="noreferrer noopener" target="_blank">Ebe Kastein on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ebe_Kastein" title="Tolkien Gateway:Copyrights/Ebe Kastein">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEbe_Kastein.md" title="Tolkien Gateway:Copyrights/Ebe Kastein">Permission for use on Tolkien Gateway</a></b></li></ul></div>

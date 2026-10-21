@@ -1,6 +1,5 @@
 ---
 title: "Benjamin Milder"
-display_title: "<span class=\"mw-page-title-main\">Benjamin Milder</span>"
 page_id: 28033
 namespace: 0
 revision_id: 148879
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Milder, Benjamin"
 ---
 
-**Benjamin Milder** was a game designer who worked on the [Bilbo Slider Puzzle](/wiki/Bilbo_Slider_Puzzle)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> and the [Tolkien WordSearch](/wiki/Tolkien_WordSearch).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Benjamin Milder** was a game designer who worked on the [Bilbo Slider Puzzle](Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> and the [Tolkien WordSearch](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Wonder Tales from Fairy Isles (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wonder Tales from Fairy Isles (1).jpg</span>"
 page_id: 43032
 namespace: 6
 revision_id: 226432

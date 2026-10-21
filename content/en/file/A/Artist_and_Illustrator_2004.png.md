@@ -1,6 +1,5 @@
 ---
 title: "File:Artist and Illustrator 2004.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artist and Illustrator 2004.png</span>"
 page_id: 61875
 namespace: 6
 revision_id: 348831

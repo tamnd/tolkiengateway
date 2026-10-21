@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Banazîr"
 ---
 
-Redirect to [Banazîr](/wiki/Banazîr).
+Redirect to [Banazîr](Banazîr.md).

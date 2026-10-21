@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring Cubicle 7 Second Edition.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring Cubicle 7 Second Edition.jpg</span>"
 page_id: 75006
 namespace: 6
 revision_id: 441669
@@ -38,8 +37,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2019</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Johan Grenier</td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20190721101241/https://www.cubicle7games.com/the-one-ring-the-lord-of-the-rings-cover-reveal/" rel="noreferrer noopener" target="_blank">Cubicle 7</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

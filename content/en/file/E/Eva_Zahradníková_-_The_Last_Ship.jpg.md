@@ -1,6 +1,5 @@
 ---
 title: "File:Eva Zahradníková - The Last Ship.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eva Zahradníková - The Last Ship.jpg</span>"
 page_id: 58099
 namespace: 6
 revision_id: 344539
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Eva Zahradníková</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/mirachravaia" rel="noreferrer noopener" target="_blank">Eva Zahradníková on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Eva_Zahradn%C3%ADkov%C3%A1" title="Tolkien Gateway:Copyrights/Eva Zahradníková">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEva_Zahradníková.md" title="Tolkien Gateway:Copyrights/Eva Zahradníková">Permission for use on Tolkien Gateway</a></b></li></ul></div>

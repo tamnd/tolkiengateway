@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nenya"
 ---
 
-Redirect to [Nenya](/wiki/Nenya).
+Redirect to [Nenya](../N/Nenya.md).

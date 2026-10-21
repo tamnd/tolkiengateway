@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Horn"
 ---
 
-Redirect to [Great Horn](/wiki/Great_Horn).
+Redirect to [Great Horn](../G/Great_Horn.md).

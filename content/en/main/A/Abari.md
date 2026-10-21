@@ -1,6 +1,5 @@
 ---
 title: "Abari"
-display_title: "<span class=\"mw-page-title-main\">Abari</span>"
 page_id: 18274
 namespace: 0
 revision_id: 416505
@@ -16,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Abari</b></i> is the [Telerin](/wiki/Telerin) word for the *[Avari](/wiki/Avari)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>Abari</b></i> is the [Telerin](../T/Telerin.md) word for the *[Avari](Avari.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;<a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 380</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;<a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 380</span>
 </li>
 </ol></div>

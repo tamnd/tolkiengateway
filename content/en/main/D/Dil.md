@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndil"
 ---
 
-Redirect to [-ndil](/wiki/-ndil).
+Redirect to [-ndil](../_/-ndil.md).

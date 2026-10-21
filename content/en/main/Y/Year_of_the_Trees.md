@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Years of the Trees"
 ---
 
-Redirect to [Years of the Trees](/wiki/Years_of_the_Trees).
+Redirect to [Years of the Trees](Years_of_the_Trees.md).

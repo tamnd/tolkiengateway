@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gríma"
 ---
 
-Redirect to [Gríma](/wiki/Gríma).
+Redirect to [Gríma](../G/Gríma.md).

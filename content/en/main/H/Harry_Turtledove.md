@@ -1,6 +1,5 @@
 ---
 title: "Harry Turtledove"
-display_title: "<span class=\"mw-page-title-main\">Harry Turtledove</span>"
 page_id: 29712
 namespace: 0
 revision_id: 154942
@@ -21,17 +20,17 @@ images:
   - "Harry_Turtledove.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Harry_Turtledove.jpg"><img src="/w/images/thumb/0/0b/Harry_Turtledove.jpg/300px-Harry_Turtledove.jpg" decoding="async" loading="lazy" width="300" height="333" class="mw-file-element" srcset="/w/images/thumb/0/0b/Harry_Turtledove.jpg/450px-Harry_Turtledove.jpg 1.5x, /w/images/0/0b/Harry_Turtledove.jpg 2x" data-file-width="541" data-file-height="600"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Harry_Turtledove.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/Harry_Turtledove.jpg/300px-Harry_Turtledove.jpg" decoding="async" loading="lazy" width="300" height="333" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/Harry_Turtledove.jpg/450px-Harry_Turtledove.jpg 1.5x, https://tolkiengateway.net/w/images/0/0b/Harry_Turtledove.jpg 2x" data-file-width="541" data-file-height="600"/></a><figcaption></figcaption></figure>
 
-**Harry Turtledove** (born [14 June](/wiki/14_June) [1949](/wiki/1949)) is an American author who primarily writes science fiction and fantasy.
+**Harry Turtledove** (born [14 June](../_/14_June.md) [1949](../_/1949.md)) is an American author who primarily writes science fiction and fantasy.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles and short stories {#Articles_and_short_stories}
 
-- [1991](/wiki/1991): *[After the King: Stories In Honor of J.R.R. Tolkien](/wiki/After_the_King "After the King")*
+- [1991](../_/1991.md): *[After the King: Stories In Honor of J.R.R. Tolkien](../A/After_the_King.md)*
     - "Decoy Duck"
-- [2001](/wiki/2001): *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*
+- [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
     - "The Ring and I"
 
 ## External links {#External_links}

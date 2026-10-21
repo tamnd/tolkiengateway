@@ -1,6 +1,5 @@
 ---
 title: "File:Exploring J.R.R. Tolkien's The Hobbit.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Exploring J.R.R. Tolkien&#039;s The Hobbit.jpg</span>"
 page_id: 41404
 namespace: 6
 revision_id: 214038

@@ -1,6 +1,5 @@
 ---
 title: "File:The Body in Tolkien Legendarium.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Body in Tolkien Legendarium.jpg</span>"
 page_id: 50213
 namespace: 6
 revision_id: 369954

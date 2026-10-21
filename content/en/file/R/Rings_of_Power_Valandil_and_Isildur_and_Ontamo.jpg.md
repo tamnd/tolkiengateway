@@ -1,6 +1,5 @@
 ---
 title: "File:Rings of Power Valandil and Isildur and Ontamo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rings of Power Valandil and Isildur and Ontamo.jpg</span>"
 page_id: 68876
 namespace: 6
 revision_id: 415411
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Valandil](</wiki/Valandil_(The_Rings_of_Power)> "Valandil (The Rings of Power)") with [Isildur](/wiki/Isildur) and [Ontamo](/wiki/Ontamo) in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+[Valandil](<../../main/V/Valandil_(The_Rings_of_Power).md>) with [Isildur](../../main/I/Isildur.md) and [Ontamo](../../main/O/Ontamo.md) in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

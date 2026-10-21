@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Peter Alford (February 1956)"
 ---
 
-Redirect to [Letter to Peter Alford (February 1956)](/wiki/Letter_to_Peter_Alford_(February_1956)).
+Redirect to [Letter to Peter Alford (February 1956)](<../L/Letter_to_Peter_Alford_(February_1956).md>).

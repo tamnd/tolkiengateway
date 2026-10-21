@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - Khamûl the Easterling.jpg"
 ---
 
-Redirect to [File:John Howe - Khamûl the Easterling.jpg](/wiki/File:John_Howe_-_Khamûl_the_Easterling.jpg).
+Redirect to [File:John Howe - Khamûl the Easterling.jpg](John_Howe_-_Khamûl_the_Easterling.jpg.md).

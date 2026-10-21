@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thomas M. Honegger"
 ---
 
-Redirect to [Thomas M. Honegger](/wiki/Thomas_M._Honegger).
+Redirect to [Thomas M. Honegger](Thomas_M._Honegger.md).

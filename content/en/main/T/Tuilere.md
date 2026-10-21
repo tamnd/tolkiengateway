@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tuilérë"
 ---
 
-Redirect to [Tuilérë](/wiki/Tuilérë).
+Redirect to [Tuilérë](Tuilérë.md).

@@ -14,11 +14,11 @@ categories:
   - "The Lord of the Rings: The Battle for Middle-earth (video game series)"
 ---
 
-**The Lord of the Rings: The Battle for Middle-earth Anthology** is a box set of three video games for the PC by [Electronic Arts](/wiki/Electronic_Arts). The set was released on [March 1](/wiki/1_March "1 March"), [2007](/wiki/2007), and consists of the following games:
+**The Lord of the Rings: The Battle for Middle-earth Anthology** is a box set of three video games for the PC by [Electronic Arts](../E/Electronic_Arts.md). The set was released on [March 1](../_/1_March.md), [2007](../_/2007.md), and consists of the following games:
 
-- [The Lord of the Rings:The Battle for Middle-earth](/wiki/EA%27s_The_Battle_for_Middle-earth "EA's The Battle for Middle-earth")
-- [The Lord of the Rings:The Battle for Middle-earth II](/wiki/EA%27s_The_Battle_for_Middle-earth_II "EA's The Battle for Middle-earth II")
-- [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king) (expansion)
+- [The Lord of the Rings:The Battle for Middle-earth](../E/EA's_The_Battle_for_Middle-earth.md)
+- [The Lord of the Rings:The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)
+- [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md) (expansion)
 
 ## External links {#External_links}
 

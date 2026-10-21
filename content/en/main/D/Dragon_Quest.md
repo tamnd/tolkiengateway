@@ -15,11 +15,11 @@ images:
   - "DragonQuestCover3.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:DragonQuestCover3.jpg"><img src="/w/images/thumb/c/cb/DragonQuestCover3.jpg/250px-DragonQuestCover3.jpg" decoding="async" loading="lazy" width="250" height="255" class="mw-file-element" srcset="/w/images/thumb/c/cb/DragonQuestCover3.jpg/375px-DragonQuestCover3.jpg 1.5x, /w/images/c/cb/DragonQuestCover3.jpg 2x" data-file-width="400" data-file-height="408"/></a><figcaption>Dragon Quest cover</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/DragonQuestCover3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/250px-DragonQuestCover3.jpg" decoding="async" loading="lazy" width="250" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/DragonQuestCover3.jpg/375px-DragonQuestCover3.jpg 1.5x, https://tolkiengateway.net/w/images/c/cb/DragonQuestCover3.jpg 2x" data-file-width="400" data-file-height="408"/></a><figcaption>Dragon Quest cover</figcaption></figure>
 
-<i><b>Dragon Quest</b></i> is an album by [Soundestiny](/wiki/Soundestiny) that was released in 2012.
+<i><b>Dragon Quest</b></i> is an album by [Soundestiny](../S/Soundestiny.md) that was released in 2012.
 
-All words and music were written by Darryl Grant Potter. This CD is a 12-song album that contains music inspired by [The Hobbit](/wiki/The_Hobbit). The songs themselves contain no references to any [Middle-earth](/wiki/Middle-earth) characters such as [Frodo](/wiki/Frodo) or [Gandalf](/wiki/Gandalf), nor place-names like [Mordor](/wiki/Mordor) or [Gondor](/wiki/Gondor). Previously (2009),[Soundestiny](/wiki/Soundestiny) released 4 of these tracks on an EP [All that Glitters](/wiki/All_that_Glitters). This 2012 album contains a further 8 songs that complete their homage to [The Hobbit](/wiki/The_Hobbit). The 3-year gap between these releases occurred because the band released their 2nd LOTR-inspired album [Winds of Change](/wiki/Winds_of_Change) in 2010.
+All words and music were written by Darryl Grant Potter. This CD is a 12-song album that contains music inspired by [The Hobbit](../T/The_Hobbit.md). The songs themselves contain no references to any [Middle-earth](../M/Middle-earth.md) characters such as [Frodo](../F/Frodo.md) or [Gandalf](../G/Gandalf.md), nor place-names like [Mordor](../M/Mordor.md) or [Gondor](../G/Gondor.md). Previously (2009),[Soundestiny](../S/Soundestiny.md) released 4 of these tracks on an EP [All that Glitters](../A/All_that_Glitters.md). This 2012 album contains a further 8 songs that complete their homage to [The Hobbit](../T/The_Hobbit.md). The 3-year gap between these releases occurred because the band released their 2nd LOTR-inspired album [Winds of Change](../W/Winds_of_Change.md) in 2010.
 
 ## Lineup {#Lineup}
 

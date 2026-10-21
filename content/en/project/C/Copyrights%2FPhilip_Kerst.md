@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Philip Kerst"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Philip Kerst</span>"
 page_id: 58119
 namespace: 4
 revision_id: 322126
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kerst, Philip"
 ---
 
-- Philip Kerst has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Philip_Kerst "Category:Images by Philip Kerst") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Philip Kerst has kindly granted his permission to use [his artwork](../../category/I/Images_by_Philip_Kerst.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 September 2020
-- User who sought the permission via Tumblr: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via Tumblr: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

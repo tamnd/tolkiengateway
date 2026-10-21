@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (film series) - Gilraen's grave.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) - Gilraen&#039;s grave.jpg</span>"
 page_id: 8325
 namespace: 6
 revision_id: 298496

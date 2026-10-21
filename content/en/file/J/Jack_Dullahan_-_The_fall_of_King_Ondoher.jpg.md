@@ -1,6 +1,5 @@
 ---
 title: "File:Jack Dullahan - The fall of King Ondoher.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jack Dullahan - The fall of King Ondoher.jpg</span>"
 page_id: 58055
 namespace: 6
 revision_id: 322150
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jack Dullahan</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/dracarysdrekkar7" rel="noreferrer noopener" target="_blank">Jack Dullahan on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jack_Dullahan" title="Tolkien Gateway:Copyrights/Jack Dullahan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJack_Dullahan.md" title="Tolkien Gateway:Copyrights/Jack Dullahan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

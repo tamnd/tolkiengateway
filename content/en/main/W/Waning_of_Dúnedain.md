@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Waning of the Dúnedain"
 ---
 
-Redirect to [Waning of the Dúnedain](/wiki/Waning_of_the_Dúnedain).
+Redirect to [Waning of the Dúnedain](Waning_of_the_Dúnedain.md).

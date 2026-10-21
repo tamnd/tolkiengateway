@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jewels of Darkness"
 ---
 
-Redirect to [Jewels of Darkness](/wiki/Jewels_of_Darkness).
+Redirect to [Jewels of Darkness](../J/Jewels_of_Darkness.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimitra Fimi"
 ---
 
-Redirect to [Dimitra Fimi](/wiki/Dimitra_Fimi).
+Redirect to [Dimitra Fimi](../D/Dimitra_Fimi.md).

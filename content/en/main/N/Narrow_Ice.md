@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helcaraxë"
 ---
 
-Redirect to [Helcaraxë](/wiki/Helcaraxë).
+Redirect to [Helcaraxë](../H/Helcaraxë.md).

@@ -1,6 +1,5 @@
 ---
 title: "Úmaiar"
-display_title: "<span class=\"mw-page-title-main\">Úmaiar</span>"
 page_id: 31689
 namespace: 0
 revision_id: 381262
@@ -17,22 +16,22 @@ sort_keys:
   "Spirits": "Umaiar"
 ---
 
-<i><b>Úmaiar</b></i> (or *Umaiar*) is a [Quenya](/wiki/Quenya) word referring to the [evil spirits](/wiki/Evil_spirits "Evil spirits") corrupted by [Morgoth](/wiki/Morgoth). The chief among them were the [Balrogs](/wiki/Balrogs).<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
+<i><b>Úmaiar</b></i> (or *Umaiar*) is a [Quenya](../Q/Quenya.md) word referring to the [evil spirits](../E/Evil_spirits.md) corrupted by [Morgoth](../M/Morgoth.md). The chief among them were the [Balrogs](../B/Balrogs.md).<sup id="cite_ref-MR_1-0" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- *[ú-](/wiki/%C3%9A- "Ú-")* + *[maiar](/wiki/Maiar "Maiar")*<sup id="cite_ref-MR_1-1" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
+- *[ú-](Ú-.md)* + *[maiar](../M/Maiar.md)*<sup id="cite_ref-MR_1-1" class="reference"><a href="#cite_note-MR-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Maiar](/wiki/Maiar)
-- [Demons](/wiki/Demons)
+- [Maiar](../M/Maiar.md)
+- [Demons](../D/Demons.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-MR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MR_1-0">1.0</a></sup> <sup><a href="#cite_ref-MR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, pp. 79 (commentary to §30), 165 (commentary to §18)</span>
+<li id="cite_note-MR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-MR_1-0">1.0</a></sup> <sup><a href="#cite_ref-MR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, pp. 79 (commentary to §30), 165 (commentary to §18)</span>
 </li>
 </ol></div>

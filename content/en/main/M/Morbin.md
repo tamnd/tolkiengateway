@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morben"
 ---
 
-Redirect to [Morben](/wiki/Morben).
+Redirect to [Morben](Morben.md).

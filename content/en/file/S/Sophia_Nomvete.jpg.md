@@ -1,6 +1,5 @@
 ---
 title: "File:Sophia Nomvete.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sophia Nomvete.jpg</span>"
 page_id: 63785
 namespace: 6
 revision_id: 434528
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.digitalspy.com/tv/ustv/a41063735/rings-of-power-groundbreaking-change-sophia-nomvete/" rel="noreferrer noopener" target="_blank">Getty</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

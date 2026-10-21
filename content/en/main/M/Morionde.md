@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moriondë"
 ---
 
-Redirect to [Moriondë](/wiki/Moriondë).
+Redirect to [Moriondë](Moriondë.md).

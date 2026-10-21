@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andvír"
 ---
 
-Redirect to [Andvír](/wiki/Andvír).
+Redirect to [Andvír](Andvír.md).

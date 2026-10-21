@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William Cater"
 ---
 
-Redirect to [William Cater](/wiki/William_Cater).
+Redirect to [William Cater](../W/William_Cater.md).

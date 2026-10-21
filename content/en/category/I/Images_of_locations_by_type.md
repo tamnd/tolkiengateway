@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of locations by type"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of locations by type</span>"
 page_id: 39796
 namespace: 14
 revision_id: 198858

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belegost"
 ---
 
-Redirect to [Belegost](/wiki/Belegost).
+Redirect to [Belegost](../B/Belegost.md).

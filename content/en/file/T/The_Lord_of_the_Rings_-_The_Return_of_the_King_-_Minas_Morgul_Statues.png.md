@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Minas Morgul Statues.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Minas Morgul Statues.png</span>"
 page_id: 72018
 namespace: 6
 revision_id: 434776
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Two Huge, Bestial\[,\]" "Hideous" "Stone Statues"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> outside [Minas Morgul](/wiki/Minas_Morgul) in *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*.
+"Two Huge, Bestial\[,\]" "Hideous" "Stone Statues"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> outside [Minas Morgul](../../main/M/Minas_Morgul.md) in *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Licensing {#Licensing}
 

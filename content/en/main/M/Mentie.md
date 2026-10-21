@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mentië"
 ---
 
-Redirect to [Mentië](/wiki/Mentië).
+Redirect to [Mentië](Mentië.md).

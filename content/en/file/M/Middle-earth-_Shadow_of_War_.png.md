@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth- Shadow of War .png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth- Shadow of War .png</span>"
 page_id: 68988
 namespace: 6
 revision_id: 422476
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Blue Wizards as depicted in an azurite figurine in *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)*.
+Blue Wizards as depicted in an azurite figurine in *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
 
 ## Licensing {#Licensing}
 

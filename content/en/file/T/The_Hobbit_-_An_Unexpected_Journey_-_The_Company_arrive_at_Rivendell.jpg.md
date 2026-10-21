@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - The Company arrive at Rivendell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - The Company arrive at Rivendell.jpg</span>"
 page_id: 42240
 namespace: 6
 revision_id: 254218

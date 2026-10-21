@@ -1,6 +1,5 @@
 ---
 title: "File:Map of the Northern Waste (MERP).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Map of the Northern Waste (MERP).jpeg</span>"
 page_id: 74076
 namespace: 6
 revision_id: 437056
@@ -30,7 +29,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Map of the Northern Waste (MERP).jpeg</span></th>
 <td class="description">
-<p>Map of the <a href="/wiki/Northern_Waste" title="Northern Waste">Northern Waste</a> according to <a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">Middle-earth Role Playing</a>, filling in an area left blank in <a href="/wiki/An_Artist%27s_Interpretation_of_Middle_Earth" title="An Artist&#39;s Interpretation of Middle Earth">An Artist&#39;s Interpretation of Middle Earth</a>
+<p>Map of the <a href="../../main/N/Northern_Waste.md" title="Northern Waste">Northern Waste</a> according to <a href="../../main/M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>, filling in an area left blank in <a href="../../main/A/An_Artist&#39;s_Interpretation_of_Middle_Earth.md" title="An Artist&#39;s Interpretation of Middle Earth">An Artist&#39;s Interpretation of Middle Earth</a>
 </p>
 </td>
 </tr>
@@ -38,17 +37,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Karin &amp; Christian Bohr</td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Northern_Waste" title="The Northern Waste">The Northern Waste</a></td>
+<td><a href="../../main/T/The_Northern_Waste.md" title="The Northern Waste">The Northern Waste</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -56,7 +52,7 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

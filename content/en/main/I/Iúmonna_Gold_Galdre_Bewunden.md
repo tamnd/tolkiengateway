@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hoard"
 ---
 
-Redirect to [The Hoard](/wiki/The_Hoard).
+Redirect to [The Hoard](../T/The_Hoard.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stephen Walsh"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stephen Walsh</span>"
 page_id: 21849
 namespace: 14
 revision_id: 429333
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Walsh, Stephen"
 ---
 
-This category lists all **images by [Stephen Walsh](/wiki/Stephen_Walsh)**.
+This category lists all **images by [Stephen Walsh](../../main/S/Stephen_Walsh.md)**.

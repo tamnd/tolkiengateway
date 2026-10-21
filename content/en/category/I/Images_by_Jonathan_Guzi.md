@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jonathan Guzi"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jonathan Guzi</span>"
 page_id: 53762
 namespace: 14
 revision_id: 292161

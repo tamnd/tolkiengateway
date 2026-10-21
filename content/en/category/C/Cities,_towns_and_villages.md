@@ -1,6 +1,5 @@
 ---
 title: "Category:Cities, towns and villages"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cities, towns and villages</span>"
 page_id: 39678
 namespace: 14
 revision_id: 195589

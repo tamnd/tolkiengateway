@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orne"
 ---
 
-Redirect to [Orne](/wiki/Orne).
+Redirect to [Orne](Orne.md).

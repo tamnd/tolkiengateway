@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings in Cincinnati"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings in Cincinnati</span>"
 page_id: 19414
 namespace: 0
 revision_id: 255281
@@ -13,4 +12,4 @@ categories:
   - "Stage adaptations"
 ---
 
-**The Lord of the Rings in Cincinatti** was a 2 hour stage performance played by over 200 musicians of the Cincinnati Symphony Orchestra, which included a slide show of artwork sketches and illustrations by [Alan Lee](/wiki/Alan_Lee) and [John Howe](/wiki/John_Howe).
+**The Lord of the Rings in Cincinatti** was a 2 hour stage performance played by over 200 musicians of the Cincinnati Symphony Orchestra, which included a slide show of artwork sketches and illustrations by [Alan Lee](../A/Alan_Lee.md) and [John Howe](../J/John_Howe.md).

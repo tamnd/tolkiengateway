@@ -11,4 +11,4 @@ redirect_target: "Kingfishers"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Kingfishers](/wiki/Kingfishers#Names).
+Redirect to [Kingfishers](../K/Kingfishers.md#Names).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by J.R.R. Tolkien</span>"
 page_id: 12500
 namespace: 14
 revision_id: 158642
@@ -17,7 +16,7 @@ sort_keys:
   "Books by author": "Tolkien, J.R.R."
 ---
 
-Books by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Books by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
-- For a complete chronology of Tolkien's writings, see [Writings by J.R.R. Tolkien by year](/wiki/Index:Writings_by_J.R.R._Tolkien "Index:Writings by J.R.R. Tolkien").
-- For all Tolkien's publications, see [Publications by J.R.R. Tolkien](/wiki/Category:Publications_by_J.R.R._Tolkien "Category:Publications by J.R.R. Tolkien").
+- For a complete chronology of Tolkien's writings, see [Writings by J.R.R. Tolkien by year](../../index/W/Writings_by_J.R.R._Tolkien.md).
+- For all Tolkien's publications, see [Publications by J.R.R. Tolkien](../P/Publications_by_J.R.R._Tolkien.md).

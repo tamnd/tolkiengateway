@@ -15,8 +15,8 @@ sort_keys:
   "Quenya verbs": "Laita"
 ---
 
-**Laita** is the [Quenyan](/wiki/Quenya "Quenya") verb "to praise".
+**Laita** is the [Quenyan](../Q/Quenya.md) verb "to praise".
 
 ## Examples {#Examples}
 
-[Erulaitalë](/wiki/Erulaital%C3%AB): "Praise of Eru"
+[Erulaitalë](../E/Erulaitalë.md): "Praise of Eru"

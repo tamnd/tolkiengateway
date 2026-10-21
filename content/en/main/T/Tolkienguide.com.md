@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Collector's Guide"
 ---
 
-Redirect to [Tolkien Collector's Guide](/wiki/Tolkien_Collector's_Guide).
+Redirect to [Tolkien Collector's Guide](Tolkien_Collector's_Guide.md).

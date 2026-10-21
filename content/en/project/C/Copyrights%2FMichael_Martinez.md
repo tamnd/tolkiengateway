@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Michael Martinez"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Michael Martinez</span>"
 page_id: 43014
 namespace: 4
 revision_id: 226379
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Martinez, Michael"
 ---
 
-- Permission granted by copyright holder [Michael Martinez](/wiki/Michael_Martinez) to use [Michael Martinez.jpg](/wiki/File:Michael_Martinez.jpg "File:Michael Martinez.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Michael Martinez](../../main/M/Michael_Martinez.md) to use [Michael Martinez.jpg](../../file/M/Michael_Martinez.jpg.md) on Tolkien Gateway.
 - Date: 6 February 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

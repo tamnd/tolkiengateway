@@ -1,6 +1,5 @@
 ---
 title: "File:Grant Gould - Gandalf and the Balrog sketch.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grant Gould - Gandalf and the Balrog sketch.jpg</span>"
 page_id: 12164
 namespace: 6
 revision_id: 437806
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Grant Gould</li>
 <li><b>Website:</b> <a class="external text" href="http://grantgould.com" rel="noreferrer noopener" target="_blank">Grant Gould&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Grant_Gould" title="Tolkien Gateway:Copyrights/Grant Gould">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGrant_Gould.md" title="Tolkien Gateway:Copyrights/Grant Gould">Permission for use on Tolkien Gateway</a></b></li></ul></div>

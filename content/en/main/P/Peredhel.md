@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peredhil"
 ---
 
-Redirect to [Peredhil](/wiki/Peredhil).
+Redirect to [Peredhil](Peredhil.md).

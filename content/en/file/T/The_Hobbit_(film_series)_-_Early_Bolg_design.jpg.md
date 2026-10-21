@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Early Bolg design.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Early Bolg design.jpg</span>"
 page_id: 42044
 namespace: 6
 revision_id: 429126

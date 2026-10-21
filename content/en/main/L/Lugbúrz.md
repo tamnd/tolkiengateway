@@ -11,4 +11,4 @@ redirect_target: "Barad-dûr"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Barad-dûr](/wiki/Barad-dûr#Etymology).
+Redirect to [Barad-dûr](../B/Barad-dûr.md#Etymology).

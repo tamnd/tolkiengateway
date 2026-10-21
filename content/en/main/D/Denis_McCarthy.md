@@ -1,6 +1,5 @@
 ---
 title: "Denis McCarthy"
-display_title: "<span class=\"mw-page-title-main\">Denis McCarthy</span>"
 page_id: 28046
 namespace: 0
 revision_id: 221915
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Bofur](/wiki/Bofur), [Great Goblin](/wiki/Great_Goblin)
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Bofur](../B/Bofur.md), [Great Goblin](../G/Great_Goblin.md)
 
 ## External links {#External_links}
 

@@ -35,11 +35,9 @@ infobox:
     value: "2006"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Valar_and_Maiar_(MERP).jpg"><img src="/w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/320px-Valar_and_Maiar_%28MERP%29.jpg" decoding="async" loading="lazy" width="320" height="412" class="mw-file-element" srcset="/w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/480px-Valar_and_Maiar_%28MERP%29.jpg 1.5x, /w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/640px-Valar_and_Maiar_%28MERP%29.jpg 2x" data-file-width="1240" data-file-height="1595"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valar and Maiar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="mw-redirect" href="/wiki/Peter_C._Fenlon,_Jr." title="Peter C. Fenlon, Jr.">Peter C. Fenlon, Jr.</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Pete Fenlon</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="/wiki/Angus_McBride" title="Angus McBride">Angus McBride</a> (cover)<br/>Kent Burles, Liz Danforth, Stephan Peregrine (interior art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/1993" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="/wiki/Special:BookSources/1-55806-196-7" title="Special:BookSources/1-55806-196-7">1-55806-196-7</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">2006</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Valar_and_Maiar_(MERP).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/320px-Valar_and_Maiar_%28MERP%29.jpg" decoding="async" loading="lazy" width="320" height="412" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/480px-Valar_and_Maiar_%28MERP%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/Valar_and_Maiar_%28MERP%29.jpg/640px-Valar_and_Maiar_%28MERP%29.jpg 2x" data-file-width="1240" data-file-height="1595"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Valar and Maiar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a class="mw-redirect" href="../P/Peter_C._Fenlon,_Jr..md" title="Peter C. Fenlon, Jr.">Peter C. Fenlon, Jr.</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Pete Fenlon</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> (cover)<br/>Kent Burles, Liz Danforth, Stephan Peregrine (interior art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-55806-196-7" title="Special:BookSources/1-55806-196-7">1-55806-196-7</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">2006</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-<i><b>Valar and Maiar</b></i> is a supplement (in the series *Peoples of Middle-earth*) for *[Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing)*, 2nd Edition and the [Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game). It is a revision of [Lords of Middle-earth, Volume 1: the Immortals: Elves, Maiar, and Valar](/wiki/Lords_of_Middle-earth:_Vol._I "Lords of Middle-earth: Vol. I").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Valar and Maiar</b></i> is a supplement (in the series *Peoples of Middle-earth*) for *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, 2nd Edition and the [Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md). It is a revision of [Lords of Middle-earth, Volume 1: the Immortals: Elves, Maiar, and Valar](../L/Lords_of_Middle-earth%253A_Vol._I.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cover/Jacket Text {#Cover/Jacket_Text}
 
@@ -68,7 +66,7 @@ Inside you'll find alphabetical listings covering the appearance, motivations, c
     - Gothmog, the "King of the Balrogs," the lost Fire-spirit that led the Host of Angband.
     - Ungoliant, the frightful "Demon of the Void," who poisoned the Two Trees that gave light to the World.
 
-Complete character stats for ICE's [Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing), Rolemaster, and [Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game) systems, as well as provisions for adapting the characters to other adventure games.
+Complete character stats for ICE's [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), Rolemaster, and [Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md) systems, as well as provisions for adapting the characters to other adventure games.
 
 Valar &amp; Maiar is the first title in ICE's Peoples of Middle-earth adventure game series. Each work in this collection documents a specific race or group found in Tolkien's Middle-earth. Other volumes includes Dwarves, Hobbits, Orcs, Trolls, etc. Each is a comprehensive compendium describing all the notable characters from one of Endor's varied races.
 
@@ -77,7 +75,6 @@ Valar &amp; Maiar is the first title in ICE's Peoples of Middle-earth adventure 
 As each of the Valar and Maiar are described as characters, complete with character statistics and equipment, ICE came up with new artefacts to fill in the gaps.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Name
 </th>
@@ -88,30 +85,30 @@ As each of the Valar and Maiar are described as characters, complete with charac
 <tr>
 <td><i><b>Echerun</b></i>
 </td>
-<td>“Lord Maker” (<a href="/wiki/Sindarin" title="Sindarin">S.</a>)
+<td>“Lord Maker” (<a href="../S/Sindarin.md" title="Sindarin">S.</a>)
 </td>
-<td>The hammer of <a href="/wiki/Aul%C3%AB" title="Aulë">Aulë</a>, made of gold and inlaid with black <a href="/wiki/Metals_in_Middle-earth_Role_Playing#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<td>The hammer of <a href="../A/Aulë.md" title="Aulë">Aulë</a>, made of gold and inlaid with black <a href="../M/Metals_in_Middle-earth_Role_Playing.md#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Lissicoirë</b></i>
 </td>
-<td>“Sweet Stirring“  (<a href="/wiki/Quenya" title="Quenya">Q.</a>)
+<td>“Sweet Stirring“  (<a href="../Q/Quenya.md" title="Quenya">Q.</a>)
 </td>
-<td><a href="/wiki/Est%C3%AB" title="Estë">Estë</a>&#39;s cup that fills up with sweet healing wine of the wielder&#39;s choice.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<td><a href="../E/Estë.md" title="Estë">Estë</a>&#39;s cup that fills up with sweet healing wine of the wielder&#39;s choice.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Irmírë</b></i>
 </td>
 <td>“Jewel of Desire“  (Q.)
 </td>
-<td><a href="/wiki/Irmo" title="Irmo">Irmo</a>&#39;s mithril circlet, with a blue diamond. It captures the dreams taken by his Staff of Dreams.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<td><a href="../I/Irmo.md" title="Irmo">Irmo</a>&#39;s mithril circlet, with a blue diamond. It captures the dreams taken by his Staff of Dreams.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Luinêl</b></i>
 </td>
 <td>“Blue Star“  (Q.)
 </td>
-<td><a href="/wiki/Manw%C3%AB" title="Manwë">Manwë</a>&#39;s silver sceptre with a blue sapphire on top. Holding the sceptre and sitting on the Throne of Ilmarin allows one to see anywhere in Arda.<sup id="cite_ref-manwe_5-0" class="reference"><a href="#cite_note-manwe-5">[5]</a></sup>
+<td><a href="../M/Manwë.md" title="Manwë">Manwë</a>&#39;s silver sceptre with a blue sapphire on top. Holding the sceptre and sitting on the Throne of Ilmarin allows one to see anywhere in Arda.<sup id="cite_ref-manwe_5-0" class="reference"><a href="#cite_note-manwe-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Vilyagollor</b></i>
@@ -125,7 +122,7 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>“High Sword“  (Q.)
 </td>
-<td>Manwë&#39;s sky-blue sword, forged by <a href="/wiki/Aul%C3%AB" title="Aulë">Aulë</a>. A spirit within can speak with the wielder.<sup id="cite_ref-manwe_5-2" class="reference"><a href="#cite_note-manwe-5">[5]</a></sup>
+<td>Manwë&#39;s sky-blue sword, forged by <a href="../A/Aulë.md" title="Aulë">Aulë</a>. A spirit within can speak with the wielder.<sup id="cite_ref-manwe_5-2" class="reference"><a href="#cite_note-manwe-5">[5]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Gebir-i-Manwë</b></i>
@@ -139,28 +136,28 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>
 </td>
-<td><a href="/wiki/Nienna" title="Nienna">Nienna</a>&#39;s quarterstaff, made from a branch of <a href="/wiki/Telperion" title="Telperion">Telperion</a>. It makes opponents experience sorrowful mental images.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+<td><a href="../N/Nienna.md" title="Nienna">Nienna</a>&#39;s quarterstaff, made from a branch of <a href="../T/Telperion.md" title="Telperion">Telperion</a>. It makes opponents experience sorrowful mental images.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Luvaninque</b></i>
 </td>
 <td>“White Bow“  (Q.)
 </td>
-<td><a href="/wiki/Orom%C3%AB" title="Oromë">Oromë</a>&#39;s unbreakable mallorn longbow. It is seven and a half feet long, yet is silent fired.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+<td><a href="../O/Oromë.md" title="Oromë">Oromë</a>&#39;s unbreakable mallorn longbow. It is seven and a half feet long, yet is silent fired.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Iaroma</b></i>
 </td>
 <td>“Old-voice“  (Q.)
 </td>
-<td><a href="/wiki/Vair%C3%AB" title="Vairë">Vairë</a>&#39;s black eog mace.<sup id="cite_ref-orome_8-0" class="reference"><a href="#cite_note-orome-8">[8]</a></sup>
+<td><a href="Vairë.md" title="Vairë">Vairë</a>&#39;s black eog mace.<sup id="cite_ref-orome_8-0" class="reference"><a href="#cite_note-orome-8">[8]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Vardamírë</b></i>
 </td>
 <td>“Jewel of Varda“  (Q.)
 </td>
-<td><a href="/wiki/Varda" title="Varda">Varda</a>&#39;s white mithril headband with a single adamant. The gem can glow as bright as the stars if needed.<sup id="cite_ref-varda_9-0" class="reference"><a href="#cite_note-varda-9">[9]</a></sup>
+<td><a href="Varda.md" title="Varda">Varda</a>&#39;s white mithril headband with a single adamant. The gem can glow as bright as the stars if needed.<sup id="cite_ref-varda_9-0" class="reference"><a href="#cite_note-varda-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Coríriel</b></i>
@@ -174,77 +171,77 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>“Word-sword“  (Q.)
 </td>
-<td><a href="/wiki/E%C3%B6nw%C3%AB" title="Eönwë">Eönwë</a>&#39;s white broadsword. The wielder&#39;s commands are engraved on the sword.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+<td><a href="../E/Eönwë.md" title="Eönwë">Eönwë</a>&#39;s white broadsword. The wielder&#39;s commands are engraved on the sword.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Amulet of Dreams</b></i>
 </td>
 <td>
 </td>
-<td>A silver and black <a href="/wiki/Metals_in_Middle-earth_Role_Playing#ithilnaur" title="Metals in Middle-earth Role Playing">ithilnaur</a> amulet with a grey diamond. It was gifted to <a href="/wiki/Melian" title="Melian">Melian</a> by <a href="/wiki/Irmo" title="Irmo">Irmo</a>. The wielder can read the last thoughts of another if placed on the forehead.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+<td>A silver and black <a href="../M/Metals_in_Middle-earth_Role_Playing.md#ithilnaur" title="Metals in Middle-earth Role Playing">ithilnaur</a> amulet with a grey diamond. It was gifted to <a href="../M/Melian.md" title="Melian">Melian</a> by <a href="../I/Irmo.md" title="Irmo">Irmo</a>. The wielder can read the last thoughts of another if placed on the forehead.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Telpelúva</b></i> (Q.) or <i><b>Cúceleb</b></i> (S.)
 </td>
 <td>“Silver Bow”
 </td>
-<td><a href="/wiki/Tilion" title="Tilion">Tilion</a>&#39;s seven feet long longbow.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+<td><a href="../T/Tilion.md" title="Tilion">Tilion</a>&#39;s seven feet long longbow.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>E Thrond</b></i>
 </td>
 <td>“Ancient Root” (?)
 </td>
-<td><a href="/wiki/Blue_Wizards" title="Blue Wizards">Alatar</a>&#39;s gnarled white staff. It is a living tree root, that when planted can become a tree for as long as the wielder desires.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+<td><a href="../B/Blue_Wizards.md" title="Blue Wizards">Alatar</a>&#39;s gnarled white staff. It is a living tree root, that when planted can become a tree for as long as the wielder desires.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Ring of Soul-taking</b></i> &amp; <i><b>Earring of Souls</b></i>
 </td>
 <td>
 </td>
-<td><a href="/wiki/Blue_Wizards" title="Blue Wizards">Pallando</a>&#39;s jewelry, both with a black <a href="/wiki/Stones_in_Middle-earth_Role_Playing#Laen" title="Stones in Middle-earth Role Playing">laen</a> orb. The ring can separate souls, which are stored in the orb of the earring.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+<td><a href="../B/Blue_Wizards.md" title="Blue Wizards">Pallando</a>&#39;s jewelry, both with a black <a href="../S/Stones_in_Middle-earth_Role_Playing.md#Laen" title="Stones in Middle-earth Role Playing">laen</a> orb. The ring can separate souls, which are stored in the orb of the earring.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Erivagil</b></i>
 </td>
 <td>“Wood-sword” (S.)
 </td>
-<td><a href="/wiki/Radagast" title="Radagast">Radagast</a>&#39;s silver-wooden sword that cannot be wielded against living plants or non-speaking animals.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+<td><a href="../R/Radagast.md" title="Radagast">Radagast</a>&#39;s silver-wooden sword that cannot be wielded against living plants or non-speaking animals.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Glosovagil</b></i>
 </td>
 <td>“White-sword” (S.)
 </td>
-<td><a href="/wiki/Saruman" title="Saruman">Saruman</a>&#39;s mithril alloy sword, with moonlight-hidden symbols on the blade. It cannot be wielded against Dwarves.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s mithril alloy sword, with moonlight-hidden symbols on the blade. It cannot be wielded against Dwarves.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Gebir Melkor</b></i>
 </td>
 <td>“Melkor&#39;s Stake” (Q.)
 </td>
-<td><a class="mw-redirect" href="/wiki/Melkor" title="Melkor">Melkor</a>&#39;s black steel spear, inlaid with red ithilnaur.<sup id="cite_ref-melkor_17-0" class="reference"><a href="#cite_note-melkor-17">[17]</a></sup>
+<td><a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Melkor</a>&#39;s black steel spear, inlaid with red ithilnaur.<sup id="cite_ref-melkor_17-0" class="reference"><a href="#cite_note-melkor-17">[17]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Corómorna</b></i>
 </td>
 <td>“Black Ring” (Q.)
 </td>
-<td><a class="mw-redirect" href="/wiki/Melkor" title="Melkor">Melkor</a>&#39;s black mithril ring, which can alter the dreams and desires of its foes.<sup id="cite_ref-melkor_17-1" class="reference"><a href="#cite_note-melkor-17">[17]</a></sup>
+<td><a class="mw-redirect" href="../M/Melkor.md" title="Melkor">Melkor</a>&#39;s black mithril ring, which can alter the dreams and desires of its foes.<sup id="cite_ref-melkor_17-1" class="reference"><a href="#cite_note-melkor-17">[17]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Mormacil</b></i>
 </td>
 <td>“Black Sword” (Q.)
 </td>
-<td><a href="/wiki/Sauron" title="Sauron">Sauron</a>&#39;s black ithilnaur broadword, for slaying Elves. It is unbreakable against all except eog.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+<td><a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s black ithilnaur broadword, for slaying Elves. It is unbreakable against all except eog.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Cuivigurth</b></i>
 </td>
 <td>“Awakening Death” (S.)
 </td>
-<td>The flaming black <a href="/wiki/Metals_in_Middle-earth_Role_Playing#ogamur" title="Metals in Middle-earth Role Playing">ogamur</a> whip of <a href="/wiki/Durin%27s_Bane" title="Durin&#39;s Bane">Durin&#39;s Bane</a>.<sup id="cite_ref-bane_19-0" class="reference"><a href="#cite_note-bane-19">[19]</a></sup>
+<td>The flaming black <a href="../M/Metals_in_Middle-earth_Role_Playing.md#ogamur" title="Metals in Middle-earth Role Playing">ogamur</a> whip of <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a>.<sup id="cite_ref-bane_19-0" class="reference"><a href="#cite_note-bane-19">[19]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Calris</b></i>
@@ -258,7 +255,7 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>“Fire-speaker” (S.)
 </td>
-<td>The flaming black ogamur whip of <a href="/wiki/Gothmog_(balrog)" title="Gothmog (balrog)">Gothmog</a>.<sup id="cite_ref-gothmog_20-0" class="reference"><a href="#cite_note-gothmog-20">[20]</a></sup>
+<td>The flaming black ogamur whip of <a href="../G/Gothmog_(balrog).md" title="Gothmog (balrog)">Gothmog</a>.<sup id="cite_ref-gothmog_20-0" class="reference"><a href="#cite_note-gothmog-20">[20]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Bragolamarth</b></i>
@@ -279,7 +276,7 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>“Fire-loop” (S.)
 </td>
-<td>The flaming white ogamur whip of <a href="/wiki/Lungorthin" title="Lungorthin">Lungorthin</a>.<sup id="cite_ref-lungorthin_21-0" class="reference"><a href="#cite_note-lungorthin-21">[21]</a></sup>
+<td>The flaming white ogamur whip of <a href="../L/Lungorthin.md" title="Lungorthin">Lungorthin</a>.<sup id="cite_ref-lungorthin_21-0" class="reference"><a href="#cite_note-lungorthin-21">[21]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Nimrist</b></i>
@@ -300,7 +297,7 @@ As each of the Valar and Maiar are described as characters, complete with charac
 </td>
 <td>“Double Horror” (S.)
 </td>
-<td>The flaming black ogamur double-whip of <a href="/wiki/M%C3%BAar" title="Múar">Múar</a>.<sup id="cite_ref-muar_22-0" class="reference"><a href="#cite_note-muar-22">[22]</a></sup>
+<td>The flaming black ogamur double-whip of <a href="../M/Múar.md" title="Múar">Múar</a>.<sup id="cite_ref-muar_22-0" class="reference"><a href="#cite_note-muar-22">[22]</a></sup>
 </td></tr>
 <tr>
 <td><i><b>Gordring</b></i>
@@ -316,70 +313,70 @@ As each of the Valar and Maiar are described as characters, complete with charac
 ## References {#References}
 
 <div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p.2</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 28</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 30</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 31</span>
 </li>
-<li id="cite_note-manwe-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-manwe_5-0">5.0</a></sup> <sup><a href="#cite_ref-manwe_5-1">5.1</a></sup> <sup><a href="#cite_ref-manwe_5-2">5.2</a></sup> <sup><a href="#cite_ref-manwe_5-3">5.3</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-manwe-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-manwe_5-0">5.0</a></sup> <sup><a href="#cite_ref-manwe_5-1">5.1</a></sup> <sup><a href="#cite_ref-manwe_5-2">5.2</a></sup> <sup><a href="#cite_ref-manwe_5-3">5.3</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 33</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 38</span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 38</span>
 </li>
-<li id="cite_note-orome-8"><span class="mw-cite-backlink"><a href="#cite_ref-orome_8-0">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-orome-8"><span class="mw-cite-backlink"><a href="#cite_ref-orome_8-0">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 45</span>
 </li>
-<li id="cite_note-varda-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-varda_9-0">9.0</a></sup> <sup><a href="#cite_ref-varda_9-1">9.1</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-varda-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-varda_9-0">9.0</a></sup> <sup><a href="#cite_ref-varda_9-1">9.1</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 49</span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 60</span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 64</span>
 </li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 70</span>
 </li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 79</span>
 </li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 85</span>
 </li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 87</span>
 </li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 90</span>
 </li>
-<li id="cite_note-melkor-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-melkor_17-0">17.0</a></sup> <sup><a href="#cite_ref-melkor_17-1">17.1</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-melkor-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-melkor_17-0">17.0</a></sup> <sup><a href="#cite_ref-melkor_17-1">17.1</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 95</span>
 </li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 105</span>
 </li>
-<li id="cite_note-bane-19"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-bane_19-0">19.0</a></sup> <sup><a href="#cite_ref-bane_19-1">19.1</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-bane-19"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-bane_19-0">19.0</a></sup> <sup><a href="#cite_ref-bane_19-1">19.1</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 105</span>
 </li>
-<li id="cite_note-gothmog-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-gothmog_20-0">20.0</a></sup> <sup><a href="#cite_ref-gothmog_20-1">20.1</a></sup> <sup><a href="#cite_ref-gothmog_20-2">20.2</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-gothmog-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-gothmog_20-0">20.0</a></sup> <sup><a href="#cite_ref-gothmog_20-1">20.1</a></sup> <sup><a href="#cite_ref-gothmog_20-2">20.2</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 109</span>
 </li>
-<li id="cite_note-lungorthin-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-lungorthin_21-0">21.0</a></sup> <sup><a href="#cite_ref-lungorthin_21-1">21.1</a></sup> <sup><a href="#cite_ref-lungorthin_21-2">21.2</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-lungorthin-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-lungorthin_21-0">21.0</a></sup> <sup><a href="#cite_ref-lungorthin_21-1">21.1</a></sup> <sup><a href="#cite_ref-lungorthin_21-2">21.2</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , p. 111</span>
 </li>
-<li id="cite_note-muar-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-muar_22-0">22.0</a></sup> <sup><a href="#cite_ref-muar_22-1">22.1</a></sup></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
+<li id="cite_note-muar-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-muar_22-0">22.0</a></sup> <sup><a href="#cite_ref-muar_22-1">22.1</a></sup></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a class="mw-selflink selflink">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993)
 , pp. 114-115</span>
 </li>
 </ol></div>

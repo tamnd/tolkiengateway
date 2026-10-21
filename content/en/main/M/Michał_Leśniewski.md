@@ -1,6 +1,5 @@
 ---
 title: "Michał Leśniewski"
-display_title: "<span class=\"mw-page-title-main\">Michał Leśniewski</span>"
 page_id: 53143
 namespace: 0
 revision_id: 440127
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Lesniewski, Michal"
 ---
 
-**Michał Leśniewski** 'M.L.' is an editor and one of the founders of the Polish Tolkienists Almanac *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)").* He has served as editor since[November](/wiki/November) [2004](/wiki/2004).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](/wiki/Sekcja_Tolkienowska_%C5%9AKF "Sekcja Tolkienowska ŚKF").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Michał Leśniewski** 'M.L.' is an editor and one of the founders of the Polish Tolkienists Almanac *[Aiglos](<../A/Aiglos_(journal).md>).* He has served as editor since[November](../N/November.md) [2004](../_/2004.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <br>
 
@@ -27,35 +26,35 @@ sort_keys:
 
 ### Articles {#Articles}
 
-- [2005](/wiki/2005): *[Aiglos Special Issue](/wiki/Aiglos_Special_Issue_I "Aiglos Special Issue I")*
+- [2005](../_/2005.md): *[Aiglos Special Issue](../A/Aiglos_Special_Issue_I.md)*
     - "The Question of the "Round Arda" Arda : An Abandoned Idea, or Another Perspective on Tolkien's Legendarium"
     - *A Glimmer of Pearly Light* (fan fiction)
-- [2011](/wiki/2011): *[Aiglos 15](/wiki/Aiglos_15)*
+- [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
     - "J.R.R. Tolkien and the Atlantis Myth, or the Usefulness of Dreams and Myth-making"
-- [2012](/wiki/2012): *[Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)*
+- [2012](../_/2012.md): *[Aiglos Special Issue II](../A/Aiglos_Special_Issue_II.md)*
     - "Tolkien and the Vikings. J.R.R. Tolkien's connection with the Victorian literature concerning the North"
     - "Nerdanel. A few words about an episode which did not have to be a mere episode"
-- [2015](/wiki/2015): *[Aiglos 20](/wiki/Aiglos_20)*
+- [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
     - "A few more words on Gil-galad’s paternity" – a polemic against Barbara Cecylia Liwo’s article "Gil-galad – a paternity case"
-- [2016](/wiki/2016) *[Aiglos 21](/wiki/Aiglos_21)*
+- [2016](../_/2016.md) *[Aiglos 21](../A/Aiglos_21.md)*
     - "Sauron’s war with the Elves 1693–1701. A draft monograph."
 
 ### Reviews {#Reviews}
 
-- [2005](/wiki/2005): *[Aiglos Special Issue](/wiki/Aiglos_Special_Issue_I "Aiglos Special Issue I")*
+- [2005](../_/2005.md): *[Aiglos Special Issue](../A/Aiglos_Special_Issue_I.md)*
     - "Of Stories Inspired by Deep Fascination - a Handful of Remarks on John *Ronald Reuel Tolkien's Stories About... the Edges of Epochs and Times*" by: J.Z. Lichański
     - "Looking for Spirituality in Tolkien's Sub-creation"
     - "An Introduction to a Biography Or Something More? Michał Błażejewski, *J.R.R Tolkien, The Laybearer*
-- [2011](/wiki/2011): *[Aiglos 15](/wiki/Aiglos_15)*
-    - An interview with [Alex Lewis](/wiki/Alex_Lewis), a long-standing chairman of [The Tolkien Society](/wiki/The_Tolkien_Society)
-    - Report on Tricon ([Polcon](/wiki/Polcon), [Eurocon](/wiki/Eurocon), and Parcon in one, 26-29 [August](/wiki/August) [2010](/wiki/2010), Cieszyn, Poland)
-- [2012](/wiki/2012): *[Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)*
+- [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
+    - An interview with [Alex Lewis](../A/Alex_Lewis.md), a long-standing chairman of [The Tolkien Society](../T/The_Tolkien_Society.md)
+    - Report on Tricon ([Polcon](../P/Polcon.md), [Eurocon](../E/Eurocon.md), and Parcon in one, 26-29 [August](../A/August.md) [2010](../_/2010.md), Cieszyn, Poland)
+- [2012](../_/2012.md): *[Aiglos Special Issue II](../A/Aiglos_Special_Issue_II.md)*
     - "Destroying the tower built in Beleriand. *Arda Reconstructed*, i.e. a handful of comments on the book by Douglas Kane, on Tolkienologists and on Christopher Tolkien's edition"
     - "A Truly Monumental Work. A Handful of Remarks on *J. R. R. Tolkien Companion and Guide* by Christina Scull and Wayne G. Hammond"
-- [2015](/wiki/2015): *[Aiglos 20](/wiki/Aiglos_20)*
-    - *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)* review
-- [2016](/wiki/2016) *[Aiglos 21](/wiki/Aiglos_21)*
-    - "On laundry tickets, inspirations, fanfiction and collecting points. A few words about the publication of J.R.R. Tolkien’s *[The Story of Kullervo](/wiki/The_Story_of_Kullervo)*"
+- [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
+    - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* review
+- [2016](../_/2016.md) *[Aiglos 21](../A/Aiglos_21.md)*
+    - "On laundry tickets, inspirations, fanfiction and collecting points. A few words about the publication of J.R.R. Tolkien’s *[The Story of Kullervo](../T/The_Story_of_Kullervo.md)*"
 
 ## External links {#External_links}
 

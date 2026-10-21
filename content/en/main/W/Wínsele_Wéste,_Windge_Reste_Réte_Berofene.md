@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Song of Eriol"
 ---
 
-Redirect to [The Song of Eriol](/wiki/The_Song_of_Eriol).
+Redirect to [The Song of Eriol](../T/The_Song_of_Eriol.md).

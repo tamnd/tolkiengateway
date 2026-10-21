@@ -1,6 +1,5 @@
 ---
 title: "File:Rob Alexander - The Moon Is Dead.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rob Alexander - The Moon Is Dead.jpg</span>"
 page_id: 12408
 namespace: 6
 revision_id: 441096
@@ -35,8 +34,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Rob Alexander - The Moon Is Dead.jpg</span></th>
 <td class="description">
 <p><i>The Moon Is Dead</i>. 
-Created for <a href="/wiki/Middle-earth:_Dark_Minions" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Dark_Minions.md" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
  Later retitled <i>Spirits of the Dead</i>
 </p>
 </td>
@@ -45,8 +44,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Rob Alexander</td>
@@ -55,7 +52,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.robalexander.com/index.php/product/spirits-of-the-dead/" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

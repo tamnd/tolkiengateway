@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanorian lamps"
 ---
 
-Redirect to [Fëanorian lamps](/wiki/Fëanorian_lamps).
+Redirect to [Fëanorian lamps](Fëanorian_lamps~17189.md).

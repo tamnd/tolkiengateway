@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Real Middle Earth (documentary)"
 ---
 
-Redirect to [The Real Middle Earth (documentary)](/wiki/The_Real_Middle_Earth_(documentary)).
+Redirect to [The Real Middle Earth (documentary)](<The_Real_Middle_Earth_(documentary).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ferumbras Took III"
 ---
 
-Redirect to [Ferumbras Took III](/wiki/Ferumbras_Took_III).
+Redirect to [Ferumbras Took III](Ferumbras_Took_III.md).

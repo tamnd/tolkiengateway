@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Forest of Fangorn.jpg"
 ---
 
-Redirect to [File:Alan Lee - The Forest of Fangorn.jpg](/wiki/File:Alan_Lee_-_The_Forest_of_Fangorn.jpg).
+Redirect to [File:Alan Lee - The Forest of Fangorn.jpg](Alan_Lee_-_The_Forest_of_Fangorn.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uldor"
 ---
 
-Redirect to [Uldor](/wiki/Uldor).
+Redirect to [Uldor](Uldor.md).

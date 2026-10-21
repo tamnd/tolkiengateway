@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Isengard"
 ---
 
-Redirect to [Battle of Isengard](/wiki/Battle_of_Isengard).
+Redirect to [Battle of Isengard](../B/Battle_of_Isengard.md).

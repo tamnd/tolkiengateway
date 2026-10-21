@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Bilbo Baggins.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Bilbo Baggins.JPG</span>"
 page_id: 20972
 namespace: 6
 revision_id: 298591
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins) in his room in [Rivendell](/wiki/Rivendell). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) in his room in [Rivendell](../../main/R/Rivendell.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tompollë"
 ---
 
-Redirect to [Tompollë](/wiki/Tompollë).
+Redirect to [Tompollë](Tompollë.md).

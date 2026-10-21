@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AM"
 ---
 
-Redirect to [AM](/wiki/AM).
+Redirect to [AM](AM~30211.md).

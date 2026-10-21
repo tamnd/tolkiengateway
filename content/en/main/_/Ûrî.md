@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lady of the Sun"
 ---
 
-Redirect to [The Lady of the Sun](/wiki/The_Lady_of_the_Sun).
+Redirect to [The Lady of the Sun](../T/The_Lady_of_the_Sun.md).

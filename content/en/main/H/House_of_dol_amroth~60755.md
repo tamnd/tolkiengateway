@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Dol Amroth"
 ---
 
-Redirect to [House of Dol Amroth](/wiki/House_of_Dol_Amroth).
+Redirect to [House of Dol Amroth](House_of_Dol_Amroth.md).

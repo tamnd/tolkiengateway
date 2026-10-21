@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien studies"
 ---
 
-Redirect to [Tolkien studies](/wiki/Tolkien_studies).
+Redirect to [Tolkien studies](Tolkien_studies.md).

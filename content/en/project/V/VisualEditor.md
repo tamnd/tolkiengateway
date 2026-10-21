@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:VisualEditor"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">VisualEditor</span>"
 page_id: 64759
 namespace: 4
 revision_id: 373132
@@ -13,6 +12,6 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**VisualEditor** gives you the ability to edit articles without needing to learn [wikitext markup](/wiki/Help:Editing "Help:Editing"). Unlike the original source editing tool, VisualEditor displays the text being edited almost as if it were already published. There are some limitations however, such as the VisualEditor being slower on large articles, and not supported on talk pages, but it is the recommended default editor for [Tolkien Gateway](/wiki/Tolkien_Gateway), especially for new users.
+**VisualEditor** gives you the ability to edit articles without needing to learn [wikitext markup](../../help/E/Editing.md). Unlike the original source editing tool, VisualEditor displays the text being edited almost as if it were already published. There are some limitations however, such as the VisualEditor being slower on large articles, and not supported on talk pages, but it is the recommended default editor for [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), especially for new users.
 
 Please see <a class="external text" href="https://en.wikipedia.org/wiki/Wikipedia:VisualEditor" rel="noreferrer noopener" target="_blank">this VisualEditor Portal</a> on Wikipedia for more frequently asked questions.

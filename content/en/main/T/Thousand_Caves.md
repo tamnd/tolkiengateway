@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Menegroth"
 ---
 
-Redirect to [Menegroth](/wiki/Menegroth).
+Redirect to [Menegroth](../M/Menegroth.md).

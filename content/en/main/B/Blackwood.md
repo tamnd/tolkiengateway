@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eryn Vorn"
 ---
 
-Redirect to [Eryn Vorn](/wiki/Eryn_Vorn).
+Redirect to [Eryn Vorn](../E/Eryn_Vorn.md).

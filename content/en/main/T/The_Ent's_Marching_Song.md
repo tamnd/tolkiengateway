@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ra-hoom-rah!"
 ---
 
-Redirect to [Ra-hoom-rah!](/wiki/Ra-hoom-rah!).
+Redirect to [Ra-hoom-rah!](../R/Ra-hoom-rah!.md).

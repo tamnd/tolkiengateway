@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Were-worms"
 ---
 
-Redirect to [Were-worms](/wiki/Were-worms).
+Redirect to [Were-worms](Were-worms.md).

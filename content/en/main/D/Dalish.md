@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Language of Dale"
 ---
 
-Redirect to [Language of Dale](/wiki/Language_of_Dale).
+Redirect to [Language of Dale](../L/Language_of_Dale.md).

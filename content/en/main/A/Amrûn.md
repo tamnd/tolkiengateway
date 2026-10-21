@@ -19,27 +19,27 @@ sort_keys:
 
 ## Sindarin {#Sindarin}
 
-<i><b>amrûn</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "east".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>amrûn</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "east".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### See also {#See_also}
 
-- Sindarin *[rhûn](/wiki/Rh%C3%BBn "Rhûn")*
+- Sindarin *[rhûn](../R/Rhûn.md)*
 
 ## Noldorin {#Noldorin}
 
-<i><b>amrûn</b></i> is a [Noldorin](/wiki/Noldorin) word meaning "uprising, sunrise, Orient".<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+<i><b>amrûn</b></i> is a [Noldorin](../N/Noldorin.md) word meaning "uprising, sunrise, Orient".<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ### Etymology {#Etymology}
 
-The first element of the word is *[am](/wiki/Am "Am")*, deriving from root <a href="/wiki/AM" title="AM">AM<sup>2</sup></a> ("up").<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+The first element of the word is *[am](Am.md)*, deriving from root <a href="AM~30211.md" title="AM">AM<sup>2</sup></a> ("up").<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_E" title="Appendix E">Appendix E</a>, &#34;Writing&#34;, &#34;The Fëanorian Letters&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="Appendix_E.md" title="Appendix E">Appendix E</a>, &#34;Writing&#34;, &#34;The Fëanorian Letters&#34;</span>
 </li>
-<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
 </ol></div>

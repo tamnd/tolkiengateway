@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings: Game One"
 ---
 
-Redirect to [Lord of the Rings: Game One](/wiki/Lord_of_the_Rings:_Game_One).
+Redirect to [Lord of the Rings: Game One](../L/Lord_of_the_Rings%253A_Game_One.md).

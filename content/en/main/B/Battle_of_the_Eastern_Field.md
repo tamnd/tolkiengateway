@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of the Eastern Field"
 ---
 
-Redirect to [The Battle of the Eastern Field](/wiki/The_Battle_of_the_Eastern_Field).
+Redirect to [The Battle of the Eastern Field](../T/The_Battle_of_the_Eastern_Field.md).

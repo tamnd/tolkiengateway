@@ -1,6 +1,5 @@
 ---
 title: "Courtenay Taylor"
-display_title: "<span class=\"mw-page-title-main\">Courtenay Taylor</span>"
 page_id: 38300
 namespace: 0
 revision_id: 261369
@@ -19,11 +18,11 @@ sort_keys:
   "American people": "Taylor, Courtenay"
 ---
 
-**Courtenay Kellen Taylor, née Dennis** ([19 July](/wiki/19_July), [1969](/wiki/1969)) is an American voice actress.
+**Courtenay Kellen Taylor, née Dennis** ([19 July](../_/19_July.md), [1969](../_/1969.md)) is an American voice actress.
 
 ## Roles {#Roles}
 
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - [Arwen](/wiki/Arwen), Saenathra
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Arwen](../A/Arwen.md), Saenathra
 
 ## External links {#External_links}
 

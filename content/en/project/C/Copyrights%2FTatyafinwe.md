@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tatyafinwe"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tatyafinwe</span>"
 page_id: 61209
 namespace: 4
 revision_id: 344504
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tatyafinwe"
 ---
 
-- Tatyafinwe has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Tatyafinwe "Category:Images by Tatyafinwe") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Tatyafinwe has kindly granted her permission to use [her artwork](../../category/I/Images_by_Tatyafinwe.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 April 2022
-- User who sought the permission via email: [Ar-Zigûr](/wiki/User:Ar-Zig%C3%BBr "User:Ar-Zigûr")
+- User who sought the permission via email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr)

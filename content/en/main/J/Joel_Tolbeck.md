@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Joel Tobeck"
 ---
 
-Redirect to [Joel Tobeck](/wiki/Joel_Tobeck).
+Redirect to [Joel Tobeck](Joel_Tobeck.md).

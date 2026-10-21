@@ -1,6 +1,5 @@
 ---
 title: "Tim Winsky"
-display_title: "<span class=\"mw-page-title-main\">Tim Winsky</span>"
 page_id: 32530
 namespace: 0
 revision_id: 407657
@@ -21,11 +20,9 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tim</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/Tim_(disambiguation)" title="Tim (disambiguation)">Tim (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Tim</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Tim_(disambiguation).md" title="Tim (disambiguation)">Tim (disambiguation)</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**Tim "Tatsumakisenpukyaku III" Winsky** is a game designer and the founder of [Tatsusoft](/wiki/Tatsusoft).<sup id="cite_ref-Twinsky_1-0" class="reference"><a href="#cite_note-Twinsky-1">[1]</a></sup> He designed the action video game [Lord of the Rings: The Duel](</wiki/Lord_of_the_Rings:_The_Duel_(video_game)> "Lord of the Rings: The Duel (video game)").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Tim "Tatsumakisenpukyaku III" Winsky** is a game designer and the founder of [Tatsusoft](Tatsusoft.md).<sup id="cite_ref-Twinsky_1-0" class="reference"><a href="#cite_note-Twinsky-1">[1]</a></sup> He designed the action video game [Lord of the Rings: The Duel](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and The Silmarillion"
 ---
 
-Redirect to [Tolkien and The Silmarillion](/wiki/Tolkien_and_The_Silmarillion).
+Redirect to [Tolkien and The Silmarillion](Tolkien_and_The_Silmarillion.md).

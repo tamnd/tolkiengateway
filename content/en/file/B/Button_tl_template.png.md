@@ -1,6 +1,5 @@
 ---
 title: "File:Button tl template.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button tl template.png</span>"
 page_id: 28529
 namespace: 6
 revision_id: 168991

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss Turnbull (11 March 1949)"
 ---
 
-Redirect to [Letter to Miss Turnbull (11 March 1949)](/wiki/Letter_to_Miss_Turnbull_(11_March_1949)).
+Redirect to [Letter to Miss Turnbull (11 March 1949)](<../L/Letter_to_Miss_Turnbull_(11_March_1949).md>).

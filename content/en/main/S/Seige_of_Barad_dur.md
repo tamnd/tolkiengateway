@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siege of Barad-dûr"
 ---
 
-Redirect to [Siege of Barad-dûr](/wiki/Siege_of_Barad-dûr).
+Redirect to [Siege of Barad-dûr](Siege_of_Barad-dûr.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "World War I"
 ---
 
-Redirect to [World War I](/wiki/World_War_I).
+Redirect to [World War I](World_War_I.md).

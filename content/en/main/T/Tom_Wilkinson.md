@@ -1,6 +1,5 @@
 ---
 title: "Tom Wilkinson"
-display_title: "<span class=\"mw-page-title-main\">Tom Wilkinson</span>"
 page_id: 2878
 namespace: 0
 revision_id: 407720
@@ -21,9 +20,9 @@ images:
   - "Tom_Wilkinson.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Tom_Wilkinson.jpg"><img src="/w/images/thumb/6/65/Tom_Wilkinson.jpg/300px-Tom_Wilkinson.jpg" decoding="async" loading="lazy" width="300" height="208" class="mw-file-element" srcset="/w/images/thumb/6/65/Tom_Wilkinson.jpg/450px-Tom_Wilkinson.jpg 1.5x, /w/images/thumb/6/65/Tom_Wilkinson.jpg/600px-Tom_Wilkinson.jpg 2x" data-file-width="2342" data-file-height="1622"/></a><figcaption>Tom Wilkinson</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tom_Wilkinson.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Tom_Wilkinson.jpg/300px-Tom_Wilkinson.jpg" decoding="async" loading="lazy" width="300" height="208" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Tom_Wilkinson.jpg/450px-Tom_Wilkinson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/Tom_Wilkinson.jpg/600px-Tom_Wilkinson.jpg 2x" data-file-width="2342" data-file-height="1622"/></a><figcaption>Tom Wilkinson</figcaption></figure>
 
-Academy Award-nominated British character actor **Tom Wilkinson** (born 1948) has stated that he was offered a part in [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), but turned it down because he would have had to spend a year in [New Zealand](/wiki/New_Zealand).
+Academy Award-nominated British character actor **Tom Wilkinson** (born 1948) has stated that he was offered a part in [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>), but turned it down because he would have had to spend a year in [New Zealand](../N/New_Zealand.md).
 
 He was not asked for a specific part; he turned the opportunity down prior to the casting of characters.
 

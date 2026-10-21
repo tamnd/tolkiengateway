@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Wolf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Wolf.jpg</span>"
 page_id: 65137
 namespace: 6
 revision_id: 374938
@@ -25,6 +24,6 @@ file:
 ## Summary {#Summary}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-3);border:2px solid --tg-border-color-base;padding:0px 10px 0px 10px;font-size:100%;text-align:center;">
-<p>Mark Wolf has kindly granted <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a> permission to display this image on the site.
+<p>Mark Wolf has kindly granted <a href="../../main/T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a> permission to display this image on the site.
 </p>
 </div>

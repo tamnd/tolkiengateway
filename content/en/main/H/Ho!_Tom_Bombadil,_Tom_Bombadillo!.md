@@ -1,6 +1,5 @@
 ---
 title: "Ho! Tom Bombadil, Tom Bombadillo!"
-display_title: "<span class=\"mw-page-title-main\">Ho! Tom Bombadil, Tom Bombadillo!</span>"
 page_id: 45267
 namespace: 0
 revision_id: 424368
@@ -16,9 +15,9 @@ images:
   - "Romana_Kendelic_-_Ho!_Tom_Bombadil!.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Romana_Kendelic_-_Ho!_Tom_Bombadil!.png"><img src="/w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/250px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="/w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/375px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png 1.5x, /w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/500px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png 2x" data-file-width="720" data-file-height="720"/></a><figcaption>&#34;Ho! Tom Bombadil!&#34; by <a href="/wiki/Category:Images_by_Romana_Kendelic" title="Category:Images by Romana Kendelic">Romana Kendelic</a></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Romana_Kendelic_-_Ho!_Tom_Bombadil!.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/250px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/375px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d1/Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png/500px-Romana_Kendelic_-_Ho%21_Tom_Bombadil%21.png 2x" data-file-width="720" data-file-height="720"/></a><figcaption>&#34;Ho! Tom Bombadil!&#34; by <a href="../../category/I/Images_by_Romana_Kendelic.md" title="Category:Images by Romana Kendelic">Romana Kendelic</a></figcaption></figure>
 
-**Ho! Tom Bombadil, Tom Bombadillo!** is a song sung by [Tom Bombadil](/wiki/Tom_Bombadil), and later, by [Frodo Baggins](/wiki/Frodo_Baggins). Tom instructed Frodo and the other hobbits to sing it if they were in trouble and needed him to rescue them.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> When the hobbits were in danger from a [Barrow-wight](/wiki/Barrow-wight) Frodo sang the song and they were rescued by Tom Bombadil who sang [Get Out! You old Wight! Vanish in the Sunlight!](/wiki/Get_Out!_You_old_Wight!_Vanish_in_the_Sunlight!).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ho! Tom Bombadil, Tom Bombadillo!** is a song sung by [Tom Bombadil](../T/Tom_Bombadil.md), and later, by [Frodo Baggins](../F/Frodo_Baggins.md). Tom instructed Frodo and the other hobbits to sing it if they were in trouble and needed him to rescue them.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> When the hobbits were in danger from a [Barrow-wight](../B/Barrow-wight.md) Frodo sang the song and they were rescued by Tom Bombadil who sang [Get Out! You old Wight! Vanish in the Sunlight!](../G/Get_Out!_You_old_Wight!_Vanish_in_the_Sunlight!.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## The poem {#The_poem}
 
@@ -32,15 +31,15 @@ images:
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/In_the_House_of_Tom_Bombadil" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;, p. 134</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../I/In_the_House_of_Tom_Bombadil.md" title="In the House of Tom Bombadil">In the House of Tom Bombadil</a>&#34;, p. 134</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Fog_on_the_Barrow-downs" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;, p. 142</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;, p. 142</span>
 </li>
 </ol></div>

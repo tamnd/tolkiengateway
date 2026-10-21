@@ -1,6 +1,5 @@
 ---
 title: "Pieter Collier"
-display_title: "<span class=\"mw-page-title-main\">Pieter Collier</span>"
 page_id: 10021
 namespace: 0
 revision_id: 406982
@@ -21,25 +20,25 @@ sort_keys:
   "Webmasters": "Collier, Pieter"
 ---
 
-**Pieter Collier** is the webmaster and creator of <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>, a writer, and an avid [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") book collector.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He is also Library Consultant and webmaster of the [Greisinger Museum](/wiki/Greisinger_Museum).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Pieter Collier** is the webmaster and creator of <a class="external text" href="http://www.tolkienlibrary.com" rel="noreferrer noopener" target="_blank">TolkienLibrary.com</a>, a writer, and an avid [Tolkien](../J/J.R.R._Tolkien.md) book collector.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He is also Library Consultant and webmaster of the [Greisinger Museum](../G/Greisinger_Museum.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2011](/wiki/2011): [*A Tolkien Tapestry: Pictures to accompany* The Lord of the Rings](/wiki/A_Tolkien_Tapestry "A Tolkien Tapestry") (editor)
+- [2011](../_/2011.md): [*A Tolkien Tapestry: Pictures to accompany* The Lord of the Rings](../A/A_Tolkien_Tapestry.md) (editor)
 
 ### Articles {#Articles}
 
-- [2010](/wiki/2010): [*Amon Hen* 226](/wiki/Amon_Hen_226 "Amon Hen 226")
+- [2010](../_/2010.md): [*Amon Hen* 226](../A/Amon_Hen_226.md)
     - "Request for information on Cor Blok paintings"
-- [2011](/wiki/2011): *[Lembas Extra](</wiki/Lembas_(journal)> "Lembas (journal)")*
+- [2011](../_/2011.md): *[Lembas Extra](<../L/Lembas_(journal).md>)*
     - "Collecting Tolkien Books, from Hobbits to Dragons — There and Back again"
 
 ## Awards {#Awards}
 
-- [2006](/wiki/2006) - **[Imperishable Flame Award](/wiki/Imperishable_Flame_Award)**, Tolkien/Inklings Fan Appreciation, *Tolkien Library*
-- [2007](/wiki/2007) - **Imperishable Flame Award**, Tolkien/Inkling Fan Community Award, *[The Children of Húrin Release Party](/wiki/The_Children_of_H%C3%BArin_Release_Party)*
+- [2006](../_/2006.md) - **[Imperishable Flame Award](../I/Imperishable_Flame_Award.md)**, Tolkien/Inklings Fan Appreciation, *Tolkien Library*
+- [2007](../_/2007.md) - **Imperishable Flame Award**, Tolkien/Inkling Fan Community Award, *[The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md)*
 
 ## External links {#External_links}
 
@@ -52,7 +51,7 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.abebooks.com/docs/RareBooks/Avid-Collector/Jun06/collector-profiles.shtml?cm_ven=nl&amp;cm_cat=ac-2006-06&amp;cm_pla=body&amp;cm_ite=collector-profile" rel="noreferrer noopener" target="_blank">&#34;AbeBooks Collector Profile: Pieter Collier &amp; His Tolkien Library&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.abebooks.com/" rel="noreferrer noopener" target="_blank">AbeBooks.com</a></span>. <span class="cite-web-accessed">Retrieved 12 February 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.abebooks.com/docs/RareBooks/Avid-Collector/Jun06/collector-profiles.shtml?cm_ven=nl&amp;cm_cat=ac-2006-06&amp;cm_pla=body&amp;cm_ite=collector-profile" rel="noreferrer noopener" target="_blank">&#34;AbeBooks Collector Profile: Pieter Collier &amp; His Tolkien Library&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.abebooks.com/" rel="noreferrer noopener" target="_blank">AbeBooks.com</a></span>. <span class="cite-web-accessed">Retrieved 12 February 2013</span></cite></span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Greisinger Museum</a> (accessed 12 February 2013)</span>
 </li>

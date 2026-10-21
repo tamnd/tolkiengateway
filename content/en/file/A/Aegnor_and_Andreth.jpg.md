@@ -1,6 +1,5 @@
 ---
 title: "File:Aegnor and Andreth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aegnor and Andreth.jpg</span>"
 page_id: 75236
 namespace: 6
 revision_id: 442885
@@ -43,21 +42,18 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026-09-30</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=User:Joan&amp;action=edit&amp;redlink=1" title="User:Joan (page does not exist)">Joan</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=User:Joan&amp;action=edit&amp;redlink=1" title="User:Joan (page does not exist)">Joan</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a class="new" href="/w/index.php?title=Template:Own&amp;action=edit&amp;redlink=1" title="Template:Own (page does not exist)">Template:Own</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Own&amp;action=edit&amp;redlink=1" title="Template:Own (page does not exist)">Template:Own</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
 
 ## Licensing {#Licensing}
 
-<a class="new" href="/w/index.php?title=Template:Self&amp;action=edit&amp;redlink=1" title="Template:Self (page does not exist)">Template:Self</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Self&amp;action=edit&amp;redlink=1" title="Template:Self (page does not exist)">Template:Self</a>

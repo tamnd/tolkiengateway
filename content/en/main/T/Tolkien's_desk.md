@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Desk certificate 27 July 1972"
 ---
 
-Redirect to [Desk certificate 27 July 1972](/wiki/Desk_certificate_27_July_1972).
+Redirect to [Desk certificate 27 July 1972](../D/Desk_certificate_27_July_1972.md).

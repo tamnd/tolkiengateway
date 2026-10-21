@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Amani Warrington"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Amani Warrington</span>"
 page_id: 57898
 namespace: 14
 revision_id: 318922

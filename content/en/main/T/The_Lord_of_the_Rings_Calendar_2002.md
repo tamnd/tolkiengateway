@@ -16,15 +16,15 @@ images:
   - "The_Lord_of_the_Rings_Calendar_2002.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Calendar_2002.jpg"><img src="/w/images/thumb/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg/300px-The_Lord_of_the_Rings_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="/w/images/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg 1.5x" data-file-width="348" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Calendar_2002.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg/300px-The_Lord_of_the_Rings_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg 1.5x" data-file-width="348" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Lord of the Rings Calendar 2002** is an Italian calendar produced by Idea Libri and contains illustrations by <a class="new" href="/w/index.php?title=Anton_Spazzapan&amp;action=edit&amp;redlink=1" title="Anton Spazzapan (page does not exist)">Anton Spazzapan</a>.
+**The Lord of the Rings Calendar 2002** is an Italian calendar produced by Idea Libri and contains illustrations by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anton_Spazzapan&amp;action=edit&amp;redlink=1" title="Anton Spazzapan (page does not exist)">Anton Spazzapan</a>.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/887082733X">ISBN 88-7082-733-X</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/887082733X">ISBN 88-7082-733-X</a>
 - Dimensions: 15 3/4 x 15 3/4 inches
 - Wire bound
 - Heavy wire hanging loop
 
 Another Italian calendar exists with a different ISBN.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/8870827402">ISBN 88-7082-740-2</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/8870827402">ISBN 88-7082-740-2</a>

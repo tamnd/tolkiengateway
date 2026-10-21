@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - A Part of the Shire (colored).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - A Part of the Shire (colored).jpg</span>"
 page_id: 16798
 namespace: 6
 revision_id: 270759

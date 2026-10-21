@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barliman Butterbur"
 ---
 
-Redirect to [Barliman Butterbur](/wiki/Barliman_Butterbur).
+Redirect to [Barliman Butterbur](Barliman_Butterbur.md).

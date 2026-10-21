@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forostar"
 ---
 
-Redirect to [Forostar](/wiki/Forostar).
+Redirect to [Forostar](../F/Forostar.md).

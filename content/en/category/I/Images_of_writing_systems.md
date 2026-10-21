@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of writing systems"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of writing systems</span>"
 page_id: 63868
 namespace: 14
 revision_id: 364019

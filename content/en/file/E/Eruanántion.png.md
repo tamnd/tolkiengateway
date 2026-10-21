@@ -1,6 +1,5 @@
 ---
 title: "File:Eruanántion.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eruanántion.png</span>"
 page_id: 66498
 namespace: 6
 revision_id: 384209

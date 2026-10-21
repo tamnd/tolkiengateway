@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Melian"
 ---
 
-Redirect to [Melian](/wiki/Melian).
+Redirect to [Melian](Melian.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - Salmar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - Salmar.png</span>"
 page_id: 31708
 namespace: 6
 revision_id: 318978
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-*Salmar* by Kent Burles, appearing in [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Valar and Maiar](/wiki/Valar_and_Maiar)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2006, 1993) .
+*Salmar* by Kent Burles, appearing in [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Valar and Maiar](../../main/V/Valar_and_Maiar.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2006, 1993) .
 
 ## Licensing {#Licensing}
 

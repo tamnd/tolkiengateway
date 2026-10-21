@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Treason of Isengard - Shelob.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Treason of Isengard - Shelob.jpg</span>"
 page_id: 47657
 namespace: 6
 revision_id: 253737
@@ -25,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Concept art of [Shelob](/wiki/Shelob) in *[The Lord of the Rings: The Treason of Isengard](/wiki/The_Lord_of_the_Rings:_The_Treason_of_Isengard)*.
+Concept art of [Shelob](../../main/S/Shelob.md) in *[The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.vugames.com" rel="noreferrer noopener" target="_blank">Vivendi Universal</a>. It is believed that the limited use of this file,

@@ -1,6 +1,5 @@
 ---
 title: "37 Duchess Road"
-display_title: "<span class=\"mw-page-title-main\">37 Duchess Road</span>"
 page_id: 46918
 namespace: 0
 revision_id: 404462
@@ -22,9 +21,9 @@ images:
   - "Duchess_Road_old.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Duchess_Road_old.jpg"><img src="/w/images/thumb/d/d9/Duchess_Road_old.jpg/300px-Duchess_Road_old.jpg" decoding="async" loading="lazy" width="300" height="183" class="mw-file-element" srcset="/w/images/thumb/d/d9/Duchess_Road_old.jpg/450px-Duchess_Road_old.jpg 1.5x, /w/images/thumb/d/d9/Duchess_Road_old.jpg/600px-Duchess_Road_old.jpg 2x" data-file-width="1024" data-file-height="625"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Duchess_Road_old.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/300px-Duchess_Road_old.jpg" decoding="async" loading="lazy" width="300" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/450px-Duchess_Road_old.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/Duchess_Road_old.jpg/600px-Duchess_Road_old.jpg 2x" data-file-width="1024" data-file-height="625"/></a><figcaption></figcaption></figure>
 
-**37 Duchess Road** in [Edgbaston](/wiki/Birmingham "Birmingham"), was the home of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his brother [Hilary](/wiki/Hilary_Tolkien "Hilary Tolkien") from [1908](/wiki/1908) to [1910](/wiki/1910). They were let a room by a Mrs. Faulkner. Duchess Road is behind the [Birmingham Oratory](/wiki/Birmingham_Oratory). It was at this time that Tolkien first met [Edith Bratt](/wiki/Edith_Tolkien "Edith Tolkien").<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+**37 Duchess Road** in [Edgbaston](../B/Birmingham.md), was the home of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and his brother [Hilary](../H/Hilary_Tolkien.md) from [1908](1908.md) to [1910](1910.md). They were let a room by a Mrs. Faulkner. Duchess Road is behind the [Birmingham Oratory](../B/Birmingham_Oratory.md). It was at this time that Tolkien first met [Edith Bratt](../E/Edith_Tolkien.md).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 ## External links {#External_links}
 
@@ -36,6 +35,6 @@ images:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-CG-1"><span class="mw-cite-backlink"><a href="#cite_ref-CG_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 13</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 13</span>
 </li>
 </ol></div>

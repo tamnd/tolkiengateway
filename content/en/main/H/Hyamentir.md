@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hyarmentir"
 ---
 
-Redirect to [Hyarmentir](/wiki/Hyarmentir).
+Redirect to [Hyarmentir](Hyarmentir.md).

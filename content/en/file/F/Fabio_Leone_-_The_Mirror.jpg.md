@@ -1,6 +1,5 @@
 ---
 title: "File:Fabio Leone - The Mirror.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fabio Leone - The Mirror.jpg</span>"
 page_id: 74256
 namespace: 6
 revision_id: 437544
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Fabio Leone - The Mirror.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Mirror_of_Galadriel" title="Mirror of Galadriel">The Mirror</a></i> by <a href="/wiki/Category:Images_by_Fabio_Leone" title="Category:Images by Fabio Leone">Fabio Leone</a>
+<p><i><a href="../../main/M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">The Mirror</a></i> by <a href="../../category/I/Images_by_Fabio_Leone.md" title="Category:Images by Fabio Leone">Fabio Leone</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1_January" title="1 January">January 1</a>, <a href="/wiki/2015" title="2015">2015</a> - 4:58 AM</td>
+<td><a href="../../main/_/1_January.md" title="1 January">January 1</a>, <a href="../../main/_/2015.md" title="2015">2015</a> - 4:58 AM</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Fabio_Leone" title="Category:Images by Fabio Leone">Fabio Leone</a></td>
+<td><a href="../../category/I/Images_by_Fabio_Leone.md" title="Category:Images by Fabio Leone">Fabio Leone</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://fabioleone.artstation.com/projects/v2RQ3" rel="noreferrer noopener" target="_blank">https://fabioleone.artstation.com/projects/v2RQ3</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Fabio Leone</span></span>
@@ -58,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Fabio Leone</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/IllustratorFabioLeone" rel="noreferrer noopener" target="_blank">Fabio Leone</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Fabio_Leone" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFabio_Leone.md" title="Tolkien Gateway:Copyrights/Fabio Leone">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Witch-King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Witch-King.jpg</span>"
 page_id: 45080
 namespace: 6
 revision_id: 436915

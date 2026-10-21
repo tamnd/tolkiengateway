@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nandor"
 ---
 
-Redirect to [Nandor](/wiki/Nandor).
+Redirect to [Nandor](Nandor.md).

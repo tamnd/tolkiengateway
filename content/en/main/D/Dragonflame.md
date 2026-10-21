@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragon Flame"
 ---
 
-Redirect to [Dragon Flame](/wiki/Dragon_Flame).
+Redirect to [Dragon Flame](Dragon_Flame.md).

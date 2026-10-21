@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Brandir"
 ---
 
-Redirect to [Tol Brandir](/wiki/Tol_Brandir).
+Redirect to [Tol Brandir](Tol_Brandir.md).

@@ -1,6 +1,5 @@
 ---
 title: "Lindsey Stirling"
-display_title: "<span class=\"mw-page-title-main\">Lindsey Stirling</span>"
 page_id: 68863
 namespace: 0
 revision_id: 423916
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Stirling, Lindsey"
 ---
 
-**Lindsey Stirling** is a Santa Ana, California-based violinist and songwriter. In 2014 she released a song based on the themes of [Howard Shore's](/wiki/Howard_Shore "Howard Shore") film compositions, entitled "Lord of the Rings Medley".
+**Lindsey Stirling** is a Santa Ana, California-based violinist and songwriter. In 2014 she released a song based on the themes of [Howard Shore's](../H/Howard_Shore.md) film compositions, entitled "Lord of the Rings Medley".
 
 ## External links {#External_links}
 

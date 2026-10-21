@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Lukasz Jaskolski"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Lukasz Jaskolski</span>"
 page_id: 72799
 namespace: 14
 revision_id: 431443
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Jaskolski, Lukasz"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Lukasz_Jaskolski&amp;action=edit&amp;redlink=1" title="Lukasz Jaskolski (page does not exist)">Lukasz Jaskolski</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lukasz_Jaskolski&amp;action=edit&amp;redlink=1" title="Lukasz Jaskolski (page does not exist)">Lukasz Jaskolski</a></b>.

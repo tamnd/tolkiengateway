@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spiders"
 ---
 
-Redirect to [Spiders](/wiki/Spiders).
+Redirect to [Spiders](Spiders.md).

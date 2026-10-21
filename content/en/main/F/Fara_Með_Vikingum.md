@@ -1,6 +1,5 @@
 ---
 title: "Fara Með Vikingum"
-display_title: "<span class=\"mw-page-title-main\">Fara Með Vikingum</span>"
 page_id: 63161
 namespace: 0
 revision_id: 357575
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Fara Með Vikingum** is an Icelandic song ("To go with the Vikings") by the 10th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson" title="wikipedia:Egill Skallagrímsson">Egill Skallagrímsson</a>. It is published as the second song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Fara Með Vikingum** is an Icelandic song ("To go with the Vikings") by the 10th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/Egill_Skallagr%C3%ADmsson" title="wikipedia:Egill Skallagrímsson">Egill Skallagrímsson</a>. It is published as the second song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

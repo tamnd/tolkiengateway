@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Murchie - Angmarim Chief.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Murchie - Angmarim Chief.jpg</span>"
 page_id: 74224
 namespace: 6
 revision_id: 437426
@@ -36,18 +35,14 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jeff_Murchie" title="Jeff Murchie">Jeff Murchie</a></td>
+<td><a href="../../main/J/Jeff_Murchie.md" title="Jeff Murchie">Jeff Murchie</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://murchiemonster.blogspot.com/2011/05/angmarim-chief.html" rel="noreferrer noopener" target="_blank">Blog</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

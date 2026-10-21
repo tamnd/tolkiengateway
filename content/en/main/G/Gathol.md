@@ -13,4 +13,4 @@ categories:
   - "Khuzdul words"
 ---
 
-**gathol** Is a [Khuzdul](/wiki/Khuzdul) word meaning "fortress". Is it only found in the name for the Dwarf city of [Gabilgathol](/wiki/Gabilgathol).
+**gathol** Is a [Khuzdul](../K/Khuzdul.md) word meaning "fortress". Is it only found in the name for the Dwarf city of [Gabilgathol](Gabilgathol.md).

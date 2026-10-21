@@ -1,6 +1,5 @@
 ---
 title: "File:Darrell K. Sweet.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Darrell K. Sweet.webp</span>"
 page_id: 67816
 namespace: 6
 revision_id: 397294

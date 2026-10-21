@@ -1,6 +1,5 @@
 ---
 title: "File:Tony Foti - Dwalin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tony Foti - Dwalin.jpg</span>"
 page_id: 42527
 namespace: 6
 revision_id: 428190

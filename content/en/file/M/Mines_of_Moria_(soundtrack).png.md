@@ -1,6 +1,5 @@
 ---
 title: "File:Mines of Moria (soundtrack).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mines of Moria (soundtrack).png</span>"
 page_id: 62079
 namespace: 6
 revision_id: 374918
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Fan created cover art for *[The Lord of the Rings Online: Mines of Moria](</wiki/The_Lord_of_the_Rings_Online:_Mines_of_Moria_(soundtrack)> "The Lord of the Rings Online: Mines of Moria (soundtrack)")*.
+Fan created cover art for *[The Lord of the Rings Online: Mines of Moria](<../../main/T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)*.
 
 ## Licensing {#Licensing}
 

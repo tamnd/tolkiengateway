@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers (video game) - Gandalf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers (video game) - Gandalf.png</span>"
 page_id: 37108
 namespace: 6
 revision_id: 437801
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) in [The Lord of the Rings: The Two Towers (video game)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)>).
+[Gandalf](../../main/G/Gandalf.md) in [The Lord of the Rings: The Two Towers (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Licensing {#Licensing}
 

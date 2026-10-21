@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Westfarthing"
 ---
 
-Redirect to [Westfarthing](/wiki/Westfarthing).
+Redirect to [Westfarthing](Westfarthing.md).

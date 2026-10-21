@@ -11,4 +11,4 @@ redirect_target: "Oxford Mail"
 redirect_fragment: "11 September 1957"
 ---
 
-Redirect to [Oxford Mail](/wiki/Oxford_Mail#11_September_1957).
+Redirect to [Oxford Mail](Oxford_Mail.md#11_September_1957).

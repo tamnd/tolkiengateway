@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Journey of the Dunadan</b></i> is the first studio album of the band [Glass Hammer](/wiki/Glass_Hammer). It is a concept album based on the story of [Aragorn](/wiki/Aragorn) from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*. The Album was released in 1993.
+<i><b>Journey of the Dunadan</b></i> is the first studio album of the band [Glass Hammer](../G/Glass_Hammer.md). It is a concept album based on the story of [Aragorn](../A/Aragorn.md) from [J.R.R. Tolkien](J.R.R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. The Album was released in 1993.
 
 ## Track listing {#Track_listing}
 

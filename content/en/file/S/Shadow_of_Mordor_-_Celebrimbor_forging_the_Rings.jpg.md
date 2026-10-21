@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Celebrimbor forging the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Celebrimbor forging the Rings.jpg</span>"
 page_id: 56384
 namespace: 6
 revision_id: 307606
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Celebrimbor](/wiki/Celebrimbor) forging the [Great Rings of Power](/wiki/Rings_of_Power "Rings of Power") from *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*.
+[Celebrimbor](../../main/C/Celebrimbor.md) forging the [Great Rings of Power](../../main/R/Rings_of_Power.md) from *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*.
 
 ## Licensing {#Licensing}
 

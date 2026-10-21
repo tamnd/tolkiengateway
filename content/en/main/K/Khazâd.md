@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khuzd"
 ---
 
-Redirect to [Khuzd](/wiki/Khuzd).
+Redirect to [Khuzd](Khuzd.md).

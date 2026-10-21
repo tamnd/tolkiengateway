@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belladonna Took"
 ---
 
-Redirect to [Belladonna Took](/wiki/Belladonna_Took).
+Redirect to [Belladonna Took](Belladonna_Took.md).

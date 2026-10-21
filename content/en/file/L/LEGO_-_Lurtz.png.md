@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Lurtz.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Lurtz.png</span>"
 page_id: 73171
 namespace: 6
 revision_id: 433016
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lurtz](/wiki/Lurtz) - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor025/lurtz" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Lurtz](../../main/L/Lurtz.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor025/lurtz" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

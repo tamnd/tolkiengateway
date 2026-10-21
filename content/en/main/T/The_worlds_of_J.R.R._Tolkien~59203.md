@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Worlds of J.R.R. Tolkien"
 ---
 
-Redirect to [The Worlds of J.R.R. Tolkien](/wiki/The_Worlds_of_J.R.R._Tolkien).
+Redirect to [The Worlds of J.R.R. Tolkien](The_Worlds_of_J.R.R._Tolkien.md).

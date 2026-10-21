@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Linguaphone Conversational Course"
 ---
 
-Redirect to [Linguaphone Conversational Course](/wiki/Linguaphone_Conversational_Course).
+Redirect to [Linguaphone Conversational Course](Linguaphone_Conversational_Course.md).

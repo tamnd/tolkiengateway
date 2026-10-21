@@ -1,6 +1,5 @@
 ---
 title: "-va"
-display_title: "<span class=\"mw-page-title-main\">-va</span>"
 page_id: 10702
 namespace: 0
 revision_id: 304676
@@ -15,11 +14,11 @@ sort_keys:
   "Quenya suffixes": "Va"
 ---
 
-<i><b>-va</b></i> (plural **-[vë](/wiki/V%C3%AB "Vë")**, from archaic **-vai**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is a possessive suffix in [Quenya](/wiki/Quenya).
+<i><b>-va</b></i> (plural **-[vë](../V/Vë.md)**, from archaic **-vai**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is a possessive suffix in [Quenya](../Q/Quenya.md).
 
 ## Example {#Example}
 
-- [Mindon Eldaliéva](/wiki/Mindon_Eldali%C3%A9va) = "Lofty Tower of the Eldar"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Mindon Eldaliéva](../M/Mindon_Eldaliéva.md) = "Lofty Tower of the Eldar"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
@@ -27,8 +26,8 @@ sort_keys:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 407</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 407</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;, entry &#34;Mindon Eldaliéva&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;, entry &#34;Mindon Eldaliéva&#34;</span>
 </li>
 </ol></div>

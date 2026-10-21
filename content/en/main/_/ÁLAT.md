@@ -1,6 +1,5 @@
 ---
 title: "ÁLAT"
-display_title: "<span class=\"mw-page-title-main\">ÁLAT</span>"
 page_id: 30209
 namespace: 0
 revision_id: 134054
@@ -15,21 +14,21 @@ sort_keys:
   "Roots": "ALAT-"
 ---
 
-**ÁLAT-** is an [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") signifying "large, great in size".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ÁLAT-** is an [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) signifying "large, great in size".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Quenya](/wiki/Quenya): *alta*; prefix:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *alat-*
+- [Quenya](../Q/Quenya.md): *alta*; prefix:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *alat-*
 
 ## Examples {#Examples}
 
-- [Quenya](/wiki/Quenya): *Alataire* (see [Belegaer](/wiki/Belegaer#Etymology))
+- [Quenya](../Q/Quenya.md): *Alataire* (see [Belegaer](../B/Belegaer.md#Etymology))
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 5</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 5</span>
 </li>
 </ol></div>

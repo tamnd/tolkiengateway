@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nori"
 ---
 
-Redirect to [Nori](/wiki/Nori).
+Redirect to [Nori](../N/Nori.md).

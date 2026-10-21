@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Half-orcs"
 ---
 
-Redirect to [Half-orcs](/wiki/Half-orcs).
+Redirect to [Half-orcs](Half-orcs.md).

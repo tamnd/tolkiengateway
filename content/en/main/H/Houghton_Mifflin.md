@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Houghton Mifflin Harcourt"
 ---
 
-Redirect to [Houghton Mifflin Harcourt](/wiki/Houghton_Mifflin_Harcourt).
+Redirect to [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md).

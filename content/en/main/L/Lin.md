@@ -13,25 +13,25 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lin</b></i> is a [Sindarin](/wiki/Sindarin) word that was the meaning "pool, mere".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>lin</b></i> is a [Sindarin](../S/Sindarin.md) word that was the meaning "pool, mere".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Root) [LINI](/wiki/LINI)
+[Root](../R/Root.md) [LINI](LINI.md)
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Ailin" title="Ailin">ai<b>lin</b></a></i> = "lake"
-- <i><a href="/wiki/Linaewen" title="Linaewen"><b>Lin</b>aewen</a></i> = "Lake of Birds"
-- <i><a href="/wiki/Taeglin" title="Taeglin">Taeg<b>lin</b></a></i> = "boundary pool"?<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a href="../A/Ailin.md" title="Ailin">ai<b>lin</b></a></i> = "lake"
+- <i><a href="Linaewen.md" title="Linaewen"><b>Lin</b>aewen</a></i> = "Lake of Birds"
+- <i><a href="../T/Taeglin.md" title="Taeglin">Taeg<b>lin</b></a></i> = "boundary pool"?<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>lin</i> (1)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>lin</i> (1)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, LIN (1)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, LIN (1)</span>
 </li>
 </ol></div>

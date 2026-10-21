@@ -1,6 +1,5 @@
 ---
 title: "Norton Truter"
-display_title: "<span class=\"mw-page-title-main\">Norton Truter</span>"
 page_id: 27649
 namespace: 0
 revision_id: 137737
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Truter, Norton"
 ---
 
-**Norton Truter** was one of the authors of [Crack of Doom Software Adventure](/wiki/Crack_of_Doom_Software_Adventure).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Norton Truter** was one of the authors of [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

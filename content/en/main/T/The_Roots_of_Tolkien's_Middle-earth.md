@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Roots of Tolkien's Middle Earth"
 ---
 
-Redirect to [The Roots of Tolkien's Middle Earth](/wiki/The_Roots_of_Tolkien's_Middle_Earth).
+Redirect to [The Roots of Tolkien's Middle Earth](The_Roots_of_Tolkien's_Middle_Earth.md).

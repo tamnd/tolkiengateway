@@ -1,6 +1,5 @@
 ---
 title: "Heinz Strobl"
-display_title: "<span class=\"mw-page-title-main\">Heinz Strobl</span>"
 page_id: 69122
 namespace: 0
 revision_id: 440442
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Strobl, Heinz"
 ---
 
-**Heinz Strobl** ([December 4](/wiki/4_December "4 December"), [1952](/wiki/1952)), also known as his artist name **Gandalf**, is an Austrian composer and producer. He released an album titled <a class="new" href="/w/index.php?title=Visions_2001&amp;action=edit&amp;redlink=1" title="Visions 2001 (page does not exist)">Visions 2001</a> in [2000](/wiki/2000) which was filled with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related songs.
+**Heinz Strobl** ([December 4](../_/4_December.md), [1952](../_/1952.md)), also known as his artist name **Gandalf**, is an Austrian composer and producer. He released an album titled <a class="new" href="https://tolkiengateway.net/w/index.php?title=Visions_2001&amp;action=edit&amp;redlink=1" title="Visions 2001 (page does not exist)">Visions 2001</a> in [2000](../_/2000.md) which was filled with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related songs.
 
 ## External links {#External_links}
 

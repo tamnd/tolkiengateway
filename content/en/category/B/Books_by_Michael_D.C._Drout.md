@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Michael D.C. Drout"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Michael D.C. Drout</span>"
 page_id: 35805
 namespace: 14
 revision_id: 168781
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Drout, Michael D.C."
 ---
 
-Books by [Michael D.C. Drout](/wiki/Michael_D.C._Drout).
+Books by [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md).

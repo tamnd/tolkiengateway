@@ -1,6 +1,5 @@
 ---
 title: "File:Signature paperbacks portal.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Signature paperbacks portal.png</span>"
 page_id: 70000
 namespace: 6
 revision_id: 416627

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:IPA"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">IPA</span>"
 page_id: 24736
 namespace: 4
 revision_id: 291534
@@ -16,14 +15,13 @@ sort_keys:
   "Linguistics": "IPA"
 ---
 
-These are charts for pronouncing some of the principal [languages](/wiki/Languages "Languages") of [Arda](/wiki/Arda) using the <a class="extiw" href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet" title="wikipedia:International Phonetic Alphabet">International Phonetic Alphabet</a>. Many of these IPA articulations are not going to be 100% *exact* (there are no laboratory recordings of the speech of real-life [Eldar](/wiki/Eldar), considering they are fictional), but they are phonemic.
+These are charts for pronouncing some of the principal [languages](../../main/L/Languages.md) of [Arda](../../main/A/Arda.md) using the <a class="extiw" href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet" title="wikipedia:International Phonetic Alphabet">International Phonetic Alphabet</a>. Many of these IPA articulations are not going to be 100% *exact* (there are no laboratory recordings of the speech of real-life [Eldar](../../main/E/Eldar.md), considering they are fictional), but they are phonemic.
 
 ## Charts {#Charts}
 
-### [Adûnaic](/wiki/Ad%C3%BBnaic) {#Adûnaic}
+### [Adûnaic](../../main/A/Adûnaic.md) {#Adûnaic}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>Spelling
 </th>
@@ -62,7 +60,7 @@ These are charts for pronouncing some of the principal [languages](/wiki/Languag
 <tr>
 <td><b>Ê, ê</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[eː]</span></td>
-<td><b>ê</b> is how <b>ai</b> are pronounced together.  There is (properly) no short <b>e</b>.  The name <i><a href="/wiki/Zimraphel" title="Zimraphel">Zimraphel</a></i> may be an exception, though it may also actually be <i>Zimraphêl</i>.
+<td><b>ê</b> is how <b>ai</b> are pronounced together.  There is (properly) no short <b>e</b>.  The name <i><a href="../../main/Z/Zimraphel.md" title="Zimraphel">Zimraphel</a></i> may be an exception, though it may also actually be <i>Zimraphêl</i>.
 </td></tr>
 <tr>
 <td><b>G, g</b></td>
@@ -222,12 +220,11 @@ These are charts for pronouncing some of the principal [languages](/wiki/Languag
 <td><span title="Pronunciation in IPA" class="IPA">[z]</span>
 </td></tr></tbody></table>
 
-### [Khuzdul](/wiki/Khuzdul) {#Khuzdul}
+### [Khuzdul](../../main/K/Khuzdul.md) {#Khuzdul}
 
 Note that there is no **p** or **ph** in Khuzdul.
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>Spelling
 </th>
@@ -413,10 +410,9 @@ Note that there is no **p** or **ph** in Khuzdul.
 <td><span title="Pronunciation in IPA" class="IPA">[z]</span>
 </td></tr></tbody></table>
 
-### [Quenya](/wiki/Quenya) {#Quenya}
+### [Quenya](../../main/Q/Quenya.md) {#Quenya}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>Spelling
 </th>
@@ -488,7 +484,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Iu, iu</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɪ͡ʊ]</span></td>
-<td><a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> in the <a href="/wiki/Third_Age" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[juː]</span>.
+<td><a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> in the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[juː]</span>.
 </td></tr>
 <tr>
 <td><b>Oi, oi</b></td>
@@ -508,22 +504,22 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>F, f</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɸ~f]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸ]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[f]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸ]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[f]</span>.
 </td></tr>
 <tr>
 <td><b>Ȝ, ȝ</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɣ]</span></td>
-<td>Extinct phoneme which still existed in the written Quenya of <a href="/wiki/R%C3%BAmil_(elf_of_Tirion)" title="Rúmil (elf of Tirion)">Rúmil</a>&#39;s <a href="/wiki/Sarati" title="Sarati">sarati</a>.
+<td>Extinct phoneme which still existed in the written Quenya of <a href="../../main/R/Rúmil_(elf_of_Tirion).md" title="Rúmil (elf of Tirion)">Rúmil</a>&#39;s <a href="../../main/S/Sarati.md" title="Sarati">sarati</a>.
 </td></tr>
 <tr>
 <td><b>H, h</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[x~h]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[x]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[h]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[x]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[h]</span>.
 </td></tr>
 <tr>
 <td><b>Hl, hl</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɬ~l]</span></td>
-<td>Traditionally <span title="Pronunciation in IPA" class="IPA">[ɬ]</span>.  By the <a href="/wiki/Third_Age" title="Third Age">Third Age</a> in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>, it is pronounced <span title="Pronunciation in IPA" class="IPA">[l]</span>.  This phoneme cannot occur medially, where <b>ll</b> is used instead.
+<td>Traditionally <span title="Pronunciation in IPA" class="IPA">[ɬ]</span>.  By the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a> in <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, it is pronounced <span title="Pronunciation in IPA" class="IPA">[l]</span>.  This phoneme cannot occur medially, where <b>ll</b> is used instead.
 </td></tr>
 <tr>
 <td><b>Hr, hr</b></td>
@@ -537,7 +533,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Hy, hy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ç~ʃ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ç]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ç]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃ]</span>.
 </td></tr>
 <tr>
 <td><b>L, l</b></td>
@@ -559,7 +555,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Nw, nw</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[nˠʷ]</span></td>
-<td>Initial <b>ñw</b> becomes <b>nw</b> in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> in the <a href="/wiki/Third_Age" title="Third Age">Third Age</a>.  They are not separate phonemes when initial.
+<td>Initial <b>ñw</b> becomes <b>nw</b> in <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> in the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a>.  They are not separate phonemes when initial.
 </td></tr>
 <tr>
 <td><b>Ñw, ñw, Ngw, ngw</b></td>
@@ -569,7 +565,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Ny, ny</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɲ~nʲ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲ]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʲ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲ]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʲ]</span>.
 </td></tr>
 <tr>
 <td><b>P, p</b></td>
@@ -594,17 +590,17 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Ty, ty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[c~ʧ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[c]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʧ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[c]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʧ]</span>.
 </td></tr>
 <tr>
 <td><b>V, v</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[β~v]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[β]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[v]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[β]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[v]</span>.
 </td></tr>
 <tr>
 <td><b>W, w</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[w]</span></td>
-<td>As an initial consonant, this mostly merges with <b>v</b> outside <a href="/wiki/Aman" title="Aman">Aman</a> in the <a href="/wiki/Second_Age" title="Second Age">Second Age</a>.
+<td>As an initial consonant, this mostly merges with <b>v</b> outside <a href="../../main/A/Aman.md" title="Aman">Aman</a> in the <a href="../../main/S/Second_Age.md" title="Second Age">Second Age</a>.
 </td></tr>
 <tr>
 <td><b>Y, y</b></td>
@@ -613,7 +609,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Þ, þ, Th, th</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[θ]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> retain this phoneme, but most (though not all) of the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> replace it with <b>s</b>, which becomes the more common pronunciation outside <a href="/wiki/Aman" title="Aman">Aman</a>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme, but most (though not all) of the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> replace it with <b>s</b>, which becomes the more common pronunciation outside <a href="../../main/A/Aman.md" title="Aman">Aman</a>.
 </td></tr>
 <tr>
 <th colspan="3">Medial Single Consonants
@@ -625,22 +621,22 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>d</b></td>
 <td></td>
-<td>As a medial single consonant, this poorly-understood phoneme is only known to occur in the <a href="/wiki/Vanyar" title="Vanyar">Vanyarin</a> word <i><a href="/wiki/Aldud%C3%A9ni%C3%AB" title="Aldudénië">Aldudénië</a></i>.
+<td>As a medial single consonant, this poorly-understood phoneme is only known to occur in the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyarin</a> word <i><a href="../../main/A/Aldudénië.md" title="Aldudénië">Aldudénië</a></i>.
 </td></tr>
 <tr>
 <td><b>f</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɸ~f]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸ]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[f]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸ]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[f]</span>.
 </td></tr>
 <tr>
 <td><b>ȝ</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɣ]</span></td>
-<td>Extinct phoneme which still existed in the written Quenya of <a href="/wiki/R%C3%BAmil_(elf_of_Tirion)" title="Rúmil (elf of Tirion)">Rúmil</a>&#39;s <a href="/wiki/Sarati" title="Sarati">sarati</a>.
+<td>Extinct phoneme which still existed in the written Quenya of <a href="../../main/R/Rúmil_(elf_of_Tirion).md" title="Rúmil (elf of Tirion)">Rúmil</a>&#39;s <a href="../../main/S/Sarati.md" title="Sarati">sarati</a>.
 </td></tr>
 <tr>
 <td><b>h</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[x~h]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[x]</span>.  <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> in the <a href="/wiki/Third_Age" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[h]</span> in all locations.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[x]</span>.  <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> in the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[h]</span> in all locations.
 </td></tr>
 <tr>
 <td><b>l</b></td>
@@ -665,7 +661,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>s</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[s]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> do not use this single consonant medially, where either <b>z</b> or <b>þ</b> are used instead.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> do not use this single consonant medially, where either <b>z</b> or <b>þ</b> are used instead.
 </td></tr>
 <tr>
 <td><b>t</b></td>
@@ -674,12 +670,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>v</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[β~v]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[β]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[v]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[β]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[v]</span>.
 </td></tr>
 <tr>
 <td><b>w</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[w]</span></td>
-<td>As a single medial consonant, this mostly merges with <b>v</b> outside <a href="/wiki/Aman" title="Aman">Aman</a> in the <a href="/wiki/Second_Age" title="Second Age">Second Age</a>.
+<td>As a single medial consonant, this mostly merges with <b>v</b> outside <a href="../../main/A/Aman.md" title="Aman">Aman</a> in the <a href="../../main/S/Second_Age.md" title="Second Age">Second Age</a>.
 </td></tr>
 <tr>
 <td><b>y</b></td>
@@ -688,12 +684,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>þ, th</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[θ]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> retain this phoneme, but most (though not all) of the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> replace it with <b>s</b>, which becomes the more common pronunciation outside <a href="/wiki/Aman" title="Aman">Aman</a>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme, but most (though not all) of the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> replace it with <b>s</b>, which becomes the more common pronunciation outside <a href="../../main/A/Aman.md" title="Aman">Aman</a>.
 </td></tr>
 <tr>
 <td><b>z</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[z]</span></td>
-<td>Only the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> it becomes <b>r</b>, and they pronounce <b>z</b> as <b>s</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>r</b>, and they pronounce <b>z</b> as <b>s</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <th colspan="3">Medial Consonant Clusters
@@ -705,17 +701,17 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>ff</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɸː~fː]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸː]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[fː]</span>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɸː]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[fː]</span>.
 </td></tr>
 <tr>
 <td><b>ht</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[xt, çt~ʃt]</span></td>
-<td>Pronounced <span title="Pronunciation in IPA" class="IPA">[xt]</span> after one of <b>a o u</b>, but <span title="Pronunciation in IPA" class="IPA">[çt~ʃt]</span> after one of <b>e i</b>.  For the latter, <span title="Pronunciation in IPA" class="IPA">[çt]</span> is traditional among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a>, but the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce it <span title="Pronunciation in IPA" class="IPA">[ʃt]</span>.
+<td>Pronounced <span title="Pronunciation in IPA" class="IPA">[xt]</span> after one of <b>a o u</b>, but <span title="Pronunciation in IPA" class="IPA">[çt~ʃt]</span> after one of <b>e i</b>.  For the latter, <span title="Pronunciation in IPA" class="IPA">[çt]</span> is traditional among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a>, but the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce it <span title="Pronunciation in IPA" class="IPA">[ʃt]</span>.
 </td></tr>
 <tr>
 <td><b>hty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[çc~ʃʧ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[çc]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃʧ]</span>, merging with <b>hty</b>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[çc]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃʧ]</span>, merging with <b>hty</b>.
 </td></tr>
 <tr>
 <td><b>hw</b></td>
@@ -724,7 +720,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>hy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[çː~ʃː]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[çː]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃː]</span>, which merges with <b>sy</b>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[çː]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃː]</span>, which merges with <b>sy</b>.
 </td></tr>
 <tr>
 <td><b>lb</b></td>
@@ -741,12 +737,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>lh</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[lx~lh]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lx]</span>.  <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> in the <a href="/wiki/Third_Age" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[lh]</span> in all locations.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lx]</span>.  <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> in the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[lh]</span> in all locations.
 </td></tr>
 <tr>
 <td><b>lhy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ʎç~lʃ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʎç]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lʃ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʎç]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lʃ]</span>.
 </td></tr>
 <tr>
 <td><b>ll</b></td>
@@ -771,12 +767,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>lty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ʎc~lʧ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʎc]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lʧ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʎc]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lʧ]</span>.
 </td></tr>
 <tr>
 <td><b>lv</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[lv~lβ]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lβ]</span>.  The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lv]</span>, if they don&#39;t prefer <b>lb</b> instead.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lβ]</span>.  The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[lv]</span>, if they don&#39;t prefer <b>lb</b> instead.
 </td></tr>
 <tr>
 <td><b>lw</b></td>
@@ -817,7 +813,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>ndy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɲɟ~nʤ]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʤ]</span>.  Among <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> this has merged with <b>ny</b>.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʤ]</span>.  Among <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> this has merged with <b>ny</b>.
 </td></tr>
 <tr>
 <td><b>ng</b></td>
@@ -842,7 +838,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>nty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɲc~nʧ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲc]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʧ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲc]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nʧ]</span>.
 </td></tr>
 <tr>
 <td><b>nw</b></td>
@@ -851,7 +847,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>ny</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɲj~nj]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲj]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nj]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ɲj]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[nj]</span>.
 </td></tr>
 <tr>
 <td><b>pp</b></td>
@@ -868,7 +864,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>py</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[pç~pʃ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[pç]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[pʃ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[pç]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[pʃ]</span>.
 </td></tr>
 <tr>
 <td><b>qu</b></td>
@@ -885,7 +881,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>rh</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[rx~rh]</span></td>
-<td>The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rx]</span>.  <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> in the <a href="/wiki/Third_Age" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[rh]</span> in all locations.
+<td>The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rx]</span>.  <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle-earth</a> in the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[rh]</span> in all locations.
 </td></tr>
 <tr>
 <td><b>rhw</b></td>
@@ -914,7 +910,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>rs</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[rs]</span></td>
-<td>Not normally known to exist in Quenya.  Occurs in <i><a href="/wiki/Narsil" title="Narsil">Narsil</a></i>, which is a contraction of <i><a href="/wiki/Sun" title="Sun">Anar</a>-<a href="/wiki/Moon#Other_names" title="Moon">Isil</a></i>.
+<td>Not normally known to exist in Quenya.  Occurs in <i><a href="../../main/N/Narsil.md" title="Narsil">Narsil</a></i>, which is a contraction of <i><a href="../../main/S/Sun.md" title="Sun">Anar</a>-<a href="../../main/M/Moon.md#Other_names" title="Moon">Isil</a></i>.
 </td></tr>
 <tr>
 <td><b>rt</b></td>
@@ -923,7 +919,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>rv</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[rv~rβ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rv]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rβ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rv]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[rβ]</span>.
 </td></tr>
 <tr>
 <td><b>rw</b></td>
@@ -956,17 +952,17 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>sty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɕc]</span></td>
-<td>Among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a>, this is distinct from <b>hty</b>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃʧ]</span>, merging with <b>hty</b>.
+<td>Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a>, this is distinct from <b>hty</b>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʃʧ]</span>, merging with <b>hty</b>.
 </td></tr>
 <tr>
 <td><b>sw</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[sʍ]</span></td>
-<td>This phoneme is not believed to occur among the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a>, who use <b>zw</b> or <b>þw</b> instead.
+<td>This phoneme is not believed to occur among the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a>, who use <b>zw</b> or <b>þw</b> instead.
 </td></tr>
 <tr>
 <td><b>sy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɕç]</span></td>
-<td>Among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a>, this is distinct from <b>hy</b>.  <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounces this <a class="new" href="/w/index.php?title=%C6%A9%CB%90&amp;action=edit&amp;redlink=1" title="Ʃː (page does not exist)">ʃː</a>, which merges with <b>hy</b>.  This phoneme is not believed to occur among the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a>, who use <b>zy</b> or <b>þy</b> instead.
+<td>Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a>, this is distinct from <b>hy</b>.  <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounces this <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%A9%CB%90&amp;action=edit&amp;redlink=1" title="Ʃː (page does not exist)">ʃː</a>, which merges with <b>hy</b>.  This phoneme is not believed to occur among the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a>, who use <b>zy</b> or <b>þy</b> instead.
 </td></tr>
 <tr>
 <td><b>ts</b></td>
@@ -983,12 +979,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>ty</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[cʰː~ʧʰː]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[cʰː]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʧʰː]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[cʰː]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> and <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[ʧʰː]</span>.
 </td></tr>
 <tr>
 <td><b>vy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[vj~βj]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[vj]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[βj]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[vj]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[βj]</span>.
 </td></tr>
 <tr>
 <td><b>x</b></td>
@@ -997,12 +993,12 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>zw</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[zw]</span></td>
-<td>Only the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> it becomes <b>rw</b>, and they pronounce <b>zw</b> as <b>sw</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>rw</b>, and they pronounce <b>zw</b> as <b>sw</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <td><b>zy</b></td>
 <td></td>
-<td>Only the <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> retain this phoneme, but their pronunciation of it is not entirely certain.  Among the <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> it becomes <b>ry</b>, and they pronounce <b>zy</b> as <b>sy</b> when reading Vanyarin texts.
+<td>Only the <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> retain this phoneme, but their pronunciation of it is not entirely certain.  Among the <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> it becomes <b>ry</b>, and they pronounce <b>zy</b> as <b>sy</b> when reading Vanyarin texts.
 </td></tr>
 <tr>
 <td><b>þw, thw</b></td>
@@ -1011,7 +1007,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>þy, thy</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[θç~θʃ]</span></td>
-<td>The <a href="/wiki/Noldor" title="Noldor">Ñoldor</a> (at least those Ñoldor who retain <b>þ</b>) pronounce this <span title="Pronunciation in IPA" class="IPA">[θç]</span>.  The <a href="/wiki/Vanyar" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[θʃ]</span>.
+<td>The <a href="../../main/N/Noldor.md" title="Noldor">Ñoldor</a> (at least those Ñoldor who retain <b>þ</b>) pronounce this <span title="Pronunciation in IPA" class="IPA">[θç]</span>.  The <a href="../../main/V/Vanyar.md" title="Vanyar">Vanyar</a> pronounce this <span title="Pronunciation in IPA" class="IPA">[θʃ]</span>.
 </td></tr>
 <tr>
 <td><b>þþ, thth</b></td>
@@ -1053,10 +1049,9 @@ Note that there is no **p** or **ph** in Khuzdul.
     - In words with three or more syllables, the antepenultimate (third-to-last) syllable is *usually* stressed. However:
     - If the penultimate (second-to-last) syllable is either a long vowel, a diphthong, or ends with a consonant cluster (including **x**), then this syllable is stressed.
 
-### [Sindarin](/wiki/Sindarin) {#Sindarin}
+### [Sindarin](../../main/S/Sindarin.md) {#Sindarin}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>Spelling
 </th>
@@ -1105,7 +1100,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Ch, ch</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[x~h]</span></td>
-<td><span title="Pronunciation in IPA" class="IPA">[x]</span> is traditional.  <a href="/wiki/Gondor" title="Gondor">Gondor</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[h]</span>.
+<td><span title="Pronunciation in IPA" class="IPA">[x]</span> is traditional.  <a href="../../main/G/Gondor.md" title="Gondor">Gondor</a> pronounces this <span title="Pronunciation in IPA" class="IPA">[h]</span>.
 </td></tr>
 <tr>
 <td><b>D, d</b></td>
@@ -1156,7 +1151,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>I, i</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[i, j]</span></td>
-<td>Short vowel.  Pronounced <span title="Pronunciation in IPA" class="IPA">[j]</span> when unstressed neighboring another vowel (where practical—in names like <i><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a></i> it might not be).  Pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> elsewhere.
+<td>Short vowel.  Pronounced <span title="Pronunciation in IPA" class="IPA">[j]</span> when unstressed neighboring another vowel (where practical—in names like <i><a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a></i> it might not be).  Pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> elsewhere.
 </td></tr>
 <tr>
 <td><b>Í, í</b></td>
@@ -1232,7 +1227,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Oe, oe</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[ɔ͡ɛ, ø~ɛ]</span></td>
-<td>Confusingly, this represents two sounds in <a href="/wiki/First_Age" title="First Age">First Age</a> Sindarin.  <span title="Pronunciation in IPA" class="IPA">[oe]</span> is a diphthong, and <span title="Pronunciation in IPA" class="IPA">[ø]</span> is a single vowel.  The latter later becomes pronounced and written like <b>e</b>.  Perhaps the most famous word known to be spelled with <b>oe</b> as <span title="Pronunciation in IPA" class="IPA">[ø]</span> is <i><a href="/wiki/Nirnaeth_Arnoediad" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a></i>.
+<td>Confusingly, this represents two sounds in <a href="../../main/F/First_Age.md" title="First Age">First Age</a> Sindarin.  <span title="Pronunciation in IPA" class="IPA">[oe]</span> is a diphthong, and <span title="Pronunciation in IPA" class="IPA">[ø]</span> is a single vowel.  The latter later becomes pronounced and written like <b>e</b>.  Perhaps the most famous word known to be spelled with <b>oe</b> as <span title="Pronunciation in IPA" class="IPA">[ø]</span> is <i><a href="../../main/N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a></i>.
 </td></tr>
 <tr>
 <td><b>P, p</b></td>
@@ -1305,7 +1300,7 @@ Note that there is no **p** or **ph** in Khuzdul.
 <tr>
 <td><b>Y, y</b></td>
 <td><span title="Pronunciation in IPA" class="IPA">[y~i]</span></td>
-<td>Short vowel.  The traditional pronunciation is <span title="Pronunciation in IPA" class="IPA">[y]</span>.  By the <a href="/wiki/Third_Age" title="Third Age">Third Age</a>, all varieties of <span title="Pronunciation in IPA" class="IPA">[y]</span> become pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> instead.
+<td>Short vowel.  The traditional pronunciation is <span title="Pronunciation in IPA" class="IPA">[y]</span>.  By the <a href="../../main/T/Third_Age.md" title="Third Age">Third Age</a>, all varieties of <span title="Pronunciation in IPA" class="IPA">[y]</span> become pronounced <span title="Pronunciation in IPA" class="IPA">[i]</span> instead.
 </td></tr>
 <tr>
 <td><b>Ý, ý</b></td>

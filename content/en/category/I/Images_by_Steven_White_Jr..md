@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Steven White Jr."
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Steven White Jr.</span>"
 page_id: 16640
 namespace: 14
 revision_id: 361004
@@ -19,4 +18,4 @@ sort_keys:
   "Maps by Gatekeepers": "White, Steven, Jr."
 ---
 
-This category lists all **images by [Steven White Jr.](/wiki/User:Smeagol "User:Smeagol")**.
+This category lists all **images by [Steven White Jr.](https://tolkiengateway.net/wiki/User:Smeagol)**.

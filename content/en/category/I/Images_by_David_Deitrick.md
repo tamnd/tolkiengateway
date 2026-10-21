@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by David Deitrick"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by David Deitrick</span>"
 page_id: 74096
 namespace: 14
 revision_id: 437136
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Deitrick, David Ralph"
 ---
 
-This category lists all **images by [David Deitrick](/wiki/David_Deitrick)**.
+This category lists all **images by [David Deitrick](../../main/D/David_Deitrick.md)**.

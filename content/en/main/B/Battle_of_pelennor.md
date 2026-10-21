@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Pelennor Fields"
 ---
 
-Redirect to [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields).
+Redirect to [Battle of the Pelennor Fields](Battle_of_the_Pelennor_Fields.md).

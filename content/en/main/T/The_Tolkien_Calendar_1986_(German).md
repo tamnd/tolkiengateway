@@ -16,10 +16,10 @@ images:
   - "The_Tolkien_Calendar_1986_(German).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Calendar_1986_(German).jpg"><img src="/w/images/5/5d/The_Tolkien_Calendar_1986_%28German%29.jpg" decoding="async" loading="lazy" width="284" height="350" class="mw-file-element" data-file-width="284" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1986_(German).jpg.md"><img src="https://tolkiengateway.net/w/images/5/5d/The_Tolkien_Calendar_1986_%28German%29.jpg" decoding="async" loading="lazy" width="284" height="350" class="mw-file-element" data-file-width="284" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Calendar 1986** was published in Germany by Hobbit Presse, Ernst Klett Verlag Stuttgart. It features illustrations by [Dietrich Ebert](/wiki/Dietrich_Ebert) and a unique format of 12 color illustrations each overlaying a calendar page with quotations in German relevant to the artwork.
+**The Tolkien Calendar 1986** was published in Germany by Hobbit Presse, Ernst Klett Verlag Stuttgart. It features illustrations by [Dietrich Ebert](../D/Dietrich_Ebert.md) and a unique format of 12 color illustrations each overlaying a calendar page with quotations in German relevant to the artwork.
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/3608953485">ISBN 3-608-95348-5</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/3608953485">ISBN 3-608-95348-5</a>
 - Dimensions: 12 5/8 x 15 3/8 inches
 - Wire bound; heavy wire hanging loop

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Artists"
 ---
 
-Redirect to [Category:Artists](/wiki/Category:Artists).
+Redirect to [Category:Artists](../../category/A/Artists.md).

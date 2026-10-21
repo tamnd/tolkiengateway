@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mŷl"
 ---
 
-Redirect to [Mŷl](/wiki/Mŷl).
+Redirect to [Mŷl](Mŷl.md).

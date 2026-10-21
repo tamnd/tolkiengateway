@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gerard A.J. Stodolski Catalogue 299"
 ---
 
-Redirect to [Gerard A.J. Stodolski Catalogue 299](/wiki/Gerard_A.J._Stodolski_Catalogue_299).
+Redirect to [Gerard A.J. Stodolski Catalogue 299](Gerard_A.J._Stodolski_Catalogue_299.md).

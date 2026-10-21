@@ -11,4 +11,4 @@ redirect_target: "Durin's Folk"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Durin's Folk](/wiki/Durin's_Folk#Etymology).
+Redirect to [Durin's Folk](../D/Durin's_Folk~15256.md#Etymology).

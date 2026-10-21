@@ -1,6 +1,5 @@
 ---
 title: "File:R.W. Chambers 21 December 1933.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">R.W. Chambers 21 December 1933.jpg</span>"
 page_id: 45818
 namespace: 6
 revision_id: 242031

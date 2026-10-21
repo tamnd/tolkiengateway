@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Castar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Castar.png</span>"
 page_id: 74813
 namespace: 6
 revision_id: 439937
@@ -31,19 +30,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Shadow of Mordor - Castar.png</span></th>
 <td class="description">
-<p>Back and front of a &#34;Gondorian Coin&#34;, identified as Castar in its description, from <i><a href="/wiki/Middle-earth:_Shadow_of_Mordor" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>
+<p>Back and front of a &#34;Gondorian Coin&#34;, identified as Castar in its description, from <i><a href="../../main/M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Stitched together and cut out from <i><a href="/wiki/Middle-earth:_Shadow_of_Mordor" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i> screenshots</td>
+<td>Stitched together and cut out from <i><a href="../../main/M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i> screenshots</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

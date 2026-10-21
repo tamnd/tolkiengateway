@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Rivendell.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Rivendell.jpg</span>"
 page_id: 5470
 namespace: 6
 revision_id: 429907
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Not used in the original impression of The Hobbit, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year, and in the first American edition, 1938. In the American edition the title 'Rivendell' within the decorative border was removed (on which J.R.R. Tolkien commented: 'I cannot imagine why they have spilt the [Rivendell](/wiki/Rivendell) picture by slicing the top and cutting out the ornament at the bottom'), but both reproductions carried the printed caption 'The Fair Valley of Rivendell' ('Hidden somewhere ahead of us is the fair valley of Rivendell where [Elrond](/wiki/Elrond) lives in the Last Homely House', Chapter 3, A Short Rest). The painting was reproduced in The J.R.R. Tolkien Calendars 1973 and 1974 and in The Hobbit Calendar 1976.
+Not used in the original impression of The Hobbit, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year, and in the first American edition, 1938. In the American edition the title 'Rivendell' within the decorative border was removed (on which J.R.R. Tolkien commented: 'I cannot imagine why they have spilt the [Rivendell](../../main/R/Rivendell.md) picture by slicing the top and cutting out the ornament at the bottom'), but both reproductions carried the printed caption 'The Fair Valley of Rivendell' ('Hidden somewhere ahead of us is the fair valley of Rivendell where [Elrond](../../main/E/Elrond.md) lives in the Last Homely House', Chapter 3, A Short Rest). The painting was reproduced in The J.R.R. Tolkien Calendars 1973 and 1974 and in The Hobbit Calendar 1976.
 
 ## Licensing {#Licensing}
 

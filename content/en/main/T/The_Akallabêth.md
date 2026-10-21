@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Akallabêth"
 ---
 
-Redirect to [Akallabêth](/wiki/Akallabêth).
+Redirect to [Akallabêth](../A/Akallabêth.md).

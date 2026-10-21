@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oliphaunt (poem)"
 ---
 
-Redirect to [Oliphaunt (poem)](/wiki/Oliphaunt_(poem)).
+Redirect to [Oliphaunt (poem)](<../O/Oliphaunt_(poem).md>).

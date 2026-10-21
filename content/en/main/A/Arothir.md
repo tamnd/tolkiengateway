@@ -11,4 +11,4 @@ redirect_target: "Orodreth"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Orodreth](/wiki/Orodreth#Other_versions_of_the_legendarium).
+Redirect to [Orodreth](../O/Orodreth.md#Other_versions_of_the_legendarium).

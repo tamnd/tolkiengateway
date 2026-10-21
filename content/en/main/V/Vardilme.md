@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vardilmë"
 ---
 
-Redirect to [Vardilmë](/wiki/Vardilmë).
+Redirect to [Vardilmë](Vardilmë.md).

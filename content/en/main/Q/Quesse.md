@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quessë"
 ---
 
-Redirect to [Quessë](/wiki/Quessë).
+Redirect to [Quessë](Quessë.md).

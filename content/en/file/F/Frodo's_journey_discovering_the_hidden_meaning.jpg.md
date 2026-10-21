@@ -1,6 +1,5 @@
 ---
 title: "File:Frodo's journey discovering the hidden meaning.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frodo&#039;s journey discovering the hidden meaning.jpg</span>"
 page_id: 50459
 namespace: 6
 revision_id: 271921

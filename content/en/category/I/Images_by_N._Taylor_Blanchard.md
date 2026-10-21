@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by N. Taylor Blanchard"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by N. Taylor Blanchard</span>"
 page_id: 32122
 namespace: 14
 revision_id: 182109

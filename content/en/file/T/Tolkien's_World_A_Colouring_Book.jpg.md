@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's World A Colouring Book.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s World A Colouring Book.jpg</span>"
 page_id: 52939
 namespace: 6
 revision_id: 288066

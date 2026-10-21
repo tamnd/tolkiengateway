@@ -1,6 +1,5 @@
 ---
 title: "Category:VAX games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">VAX games</span>"
 page_id: 48963
 namespace: 14
 revision_id: 262733

@@ -1,6 +1,5 @@
 ---
 title: "File:Peyton Moss 2 January 1967.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peyton Moss 2 January 1967.jpg</span>"
 page_id: 43484
 namespace: 6
 revision_id: 229212

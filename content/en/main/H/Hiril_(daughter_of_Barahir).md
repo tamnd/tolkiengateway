@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hiril (sister of Beren Erchamion)"
 ---
 
-Redirect to [Hiril (sister of Beren Erchamion)](/wiki/Hiril_(sister_of_Beren_Erchamion)).
+Redirect to [Hiril (sister of Beren Erchamion)](<Hiril_(sister_of_Beren_Erchamion).md>).

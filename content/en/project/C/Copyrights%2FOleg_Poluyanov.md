@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Oleg Poluyanov"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Oleg Poluyanov</span>"
 page_id: 72065
 namespace: 4
 revision_id: 428793
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Poluyanov, Oleg"
 ---
 
-- Oleg Poluyanov has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Oleg_Poluyanov "Category:Images by Oleg Poluyanov") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Oleg Poluyanov has kindly granted his permission to use [his artwork](../../category/I/Images_by_Oleg_Poluyanov.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 November 2025
-- User who sought the permission via email: [User:Paccyd33](/wiki/User:Paccyd33)
+- User who sought the permission via email: [User:Paccyd33](https://tolkiengateway.net/wiki/User:Paccyd33)

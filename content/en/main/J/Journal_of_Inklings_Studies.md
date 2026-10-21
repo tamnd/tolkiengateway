@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Journal of Inklings Studies"
 ---
 
-Redirect to [The Journal of Inklings Studies](/wiki/The_Journal_of_Inklings_Studies).
+Redirect to [The Journal of Inklings Studies](../T/The_Journal_of_Inklings_Studies.md).

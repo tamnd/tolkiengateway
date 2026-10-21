@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erien"
 ---
 
-Redirect to [Erien](/wiki/Erien).
+Redirect to [Erien](Erien.md).

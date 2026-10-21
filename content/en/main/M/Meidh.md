@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maidh"
 ---
 
-Redirect to [Maidh](/wiki/Maidh).
+Redirect to [Maidh](Maidh.md).

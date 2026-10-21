@@ -1,6 +1,5 @@
 ---
 title: "File:The Land of Faraway.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Land of Faraway.jpg</span>"
 page_id: 28381
 namespace: 6
 revision_id: 358097

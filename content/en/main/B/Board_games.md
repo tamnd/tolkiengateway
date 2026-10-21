@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Board games"
 ---
 
-Redirect to [Category:Board games](/wiki/Category:Board_games).
+Redirect to [Category:Board games](../../category/B/Board_games.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Warg.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Warg.png</span>"
 page_id: 71304
 namespace: 6
 revision_id: 425417
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A [Warg](/wiki/Wargs "Wargs") in the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+A [Warg](../../main/W/Wargs.md) in the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

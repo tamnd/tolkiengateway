@@ -1,6 +1,5 @@
 ---
 title: "File:Deirdre Levinson 20 December 1956.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Deirdre Levinson 20 December 1956.png</span>"
 page_id: 36909
 namespace: 6
 revision_id: 215023

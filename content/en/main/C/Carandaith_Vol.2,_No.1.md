@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carandaith Vol. 2, No. 1"
 ---
 
-Redirect to [Carandaith Vol. 2, No. 1](/wiki/Carandaith_Vol._2,_No._1).
+Redirect to [Carandaith Vol. 2, No. 1](Carandaith_Vol._2,_No._1.md).

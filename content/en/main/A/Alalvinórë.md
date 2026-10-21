@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alalminórë"
 ---
 
-Redirect to [Alalminórë](/wiki/Alalminórë).
+Redirect to [Alalminórë](Alalminórë.md).

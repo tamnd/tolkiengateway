@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Loback - Ecthelion slays Orcobal.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Loback - Ecthelion slays Orcobal.jpg</span>"
 page_id: 58306
 namespace: 6
 revision_id: 321101

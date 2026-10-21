@@ -1,6 +1,5 @@
 ---
 title: "File:Cigar bill (3 March 1972).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cigar bill (3 March 1972).png</span>"
 page_id: 38634
 namespace: 6
 revision_id: 199151

@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Walls of the World.wav"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Walls of the World.wav</span>"
 page_id: 71264
 namespace: 6
 revision_id: 425109
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Tolkien](/wiki/Christopher_Tolkien) reads a quote from [Of Beren and Lúthien](/wiki/Of_Beren_and_L%C3%BAthien)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) reads a quote from [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
 
 ## Licensing {#Licensing}
 

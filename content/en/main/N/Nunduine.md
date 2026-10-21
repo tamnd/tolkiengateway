@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nunduinë"
 ---
 
-Redirect to [Nunduinë](/wiki/Nunduinë).
+Redirect to [Nunduinë](Nunduinë.md).

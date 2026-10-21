@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls of the Misty Mountains"
 ---
 
-Redirect to [Trolls of the Misty Mountains](/wiki/Trolls_of_the_Misty_Mountains).
+Redirect to [Trolls of the Misty Mountains](../T/Trolls_of_the_Misty_Mountains.md).

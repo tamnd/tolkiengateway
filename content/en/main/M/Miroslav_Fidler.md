@@ -1,6 +1,5 @@
 ---
 title: "Miroslav Fidler"
-display_title: "<span class=\"mw-page-title-main\">Miroslav Fidler</span>"
 page_id: 27669
 namespace: 0
 revision_id: 137847
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Fidler, Miroslav"
 ---
 
-**Miroslav Fidler** was the author and designer of the game [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Miroslav Fidler** was the author and designer of the game [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

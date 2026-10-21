@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Use Your Legs.jpg"
 ---
 
-Redirect to [File:Alan Lee - Use Your Legs.jpg](/wiki/File:Alan_Lee_-_Use_Your_Legs.jpg).
+Redirect to [File:Alan Lee - Use Your Legs.jpg](Alan_Lee_-_Use_Your_Legs.jpg.md).

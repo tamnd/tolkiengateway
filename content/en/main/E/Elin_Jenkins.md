@@ -1,6 +1,5 @@
 ---
 title: "Elin Jenkins"
-display_title: "<span class=\"mw-page-title-main\">Elin Jenkins</span>"
 page_id: 6895
 namespace: 0
 revision_id: 115872
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Jenkins, Elin"
 ---
 
-**Elin Jenkins** voiced the part of [Éowyn](/wiki/%C3%89owyn) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on BBC4.
+**Elin Jenkins** voiced the part of [Éowyn](../_/Éowyn.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on BBC4.
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Gate of Minas Tirith"
 ---
 
-Redirect to [Great Gate of Minas Tirith](/wiki/Great_Gate_of_Minas_Tirith).
+Redirect to [Great Gate of Minas Tirith](Great_Gate_of_Minas_Tirith.md).

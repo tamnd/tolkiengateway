@@ -1,6 +1,5 @@
 ---
 title: "John McGlynn"
-display_title: "<span class=\"mw-page-title-main\">John McGlynn</span>"
 page_id: 28005
 namespace: 0
 revision_id: 388187
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "McGlynn, John"
 ---
 
-**John McGlynn** ([September 8](/wiki/8_September "8 September"), [1953](/wiki/1953)) is a Scottish actor.
+**John McGlynn** ([September 8](../_/8_September.md), [1953](../_/1953.md)) is a Scottish actor.
 
 ## Roles {#Roles}
 
-- [1992](/wiki/1992): [*Tales from the Perilous Realm* (1992 radio series)](</wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)> "Tales from the Perilous Realm (1992 radio series)"): The Fäerie King
+- [1992](../_/1992.md): [*Tales from the Perilous Realm* (1992 radio series)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>): The Fäerie King
 
 ## External links {#External_links}
 

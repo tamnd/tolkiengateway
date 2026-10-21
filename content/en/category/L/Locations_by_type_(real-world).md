@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations by type (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations by type (real-world)</span>"
 page_id: 59954
 namespace: 14
 revision_id: 335489
@@ -13,6 +12,6 @@ categories:
   - "Locations (real-world)"
 ---
 
-<dl><dd><i>For locations by type found in Arda see <a href="/wiki/Category:Locations_by_type" title="Category:Locations by type">Category:Locations by type</a>.</i></dd></dl>
+<dl><dd><i>For locations by type found in Arda see <a href="Locations_by_type.md" title="Category:Locations by type">Category:Locations by type</a>.</i></dd></dl>
 
-Locations by type that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Locations by type that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

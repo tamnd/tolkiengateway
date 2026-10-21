@@ -1,6 +1,5 @@
 ---
 title: "File:Word and Story in C.S. Lewis (US).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Word and Story in C.S. Lewis (US).jpg</span>"
 page_id: 43457
 namespace: 6
 revision_id: 228936

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ages"
 ---
 
-Redirect to [Ages](/wiki/Ages).
+Redirect to [Ages](Ages.md).

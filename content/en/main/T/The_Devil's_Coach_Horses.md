@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Devil's Coach-Horses"
 ---
 
-Redirect to [The Devil's Coach-Horses](/wiki/The_Devil's_Coach-Horses).
+Redirect to [The Devil's Coach-Horses](The_Devil's_Coach-Horses.md).

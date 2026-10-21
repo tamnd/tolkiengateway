@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Interrupted Music: The Making of Tolkien's Mythology"
 ---
 
-Redirect to [Interrupted Music: The Making of Tolkien's Mythology](/wiki/Interrupted_Music:_The_Making_of_Tolkien's_Mythology).
+Redirect to [Interrupted Music: The Making of Tolkien's Mythology](Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md).

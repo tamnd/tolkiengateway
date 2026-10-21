@@ -1,6 +1,5 @@
 ---
 title: "File:Anna Kulisz - Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anna Kulisz - Arwen.jpg</span>"
 page_id: 50176
 namespace: 6
 revision_id: 390283
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Arwen](/wiki/Arwen) stitching the [standard of Elendil](/wiki/Standard_of_Elendil "Standard of Elendil") by <a class="new" href="/w/index.php?title=Anna_Kulisz&amp;action=edit&amp;redlink=1" title="Anna Kulisz (page does not exist)">Anna Kulisz</a>. Based on <a class="extiw" href="http://en.wikipedia.org/wiki/Edmund_Leighton" title="wikipedia:Edmund Leighton">Edmund Leighton</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/File:Leighton-Stitching_the_Standard.jpg" title="wikipedia:File:Leighton-Stitching the Standard.jpg">Stitching the Standard</a></i>.
+[Arwen](../../main/A/Arwen.md) stitching the [standard of Elendil](../../main/S/Standard_of_Elendil.md) by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Kulisz&amp;action=edit&amp;redlink=1" title="Anna Kulisz (page does not exist)">Anna Kulisz</a>. Based on <a class="extiw" href="http://en.wikipedia.org/wiki/Edmund_Leighton" title="wikipedia:Edmund Leighton">Edmund Leighton</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/File:Leighton-Stitching_the_Standard.jpg" title="wikipedia:File:Leighton-Stitching the Standard.jpg">Stitching the Standard</a></i>.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Anna Kulisz</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/alasseaearello" rel="noreferrer noopener" target="_blank">Anna Kulisz&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anna_Kulisz" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnna_Kulisz.md" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Cardolan map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Cardolan map.jpg</span>"
 page_id: 63671
 namespace: 6
 revision_id: 362762
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Cardolan](/wiki/Cardolan) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [Cardolan](../../main/C/Cardolan.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

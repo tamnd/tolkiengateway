@@ -13,15 +13,15 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>amba</b></i> is a noun meaning "upwards" or "top" in [Quenya](/wiki/Quenya). It derives from the [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") <a class="mw-redirect" href="/wiki/AM-" title="AM-">AM<sup>2</sup>-</a>. Compare with *[am](/wiki/Am "Am")* in [Sindarin](/wiki/Sindarin).
+<i><b>amba</b></i> is a noun meaning "upwards" or "top" in [Quenya](../Q/Quenya.md). It derives from the [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) <a class="mw-redirect" href="AM-.md" title="AM-">AM<sup>2</sup>-</a>. Compare with *[am](Am.md)* in [Sindarin](../S/Sindarin.md).
 
 Examples:
 
-- [Ambalotsë](/wiki/Ambalots%C3%AB) = "Uprising Flower"
-- [Ambaróna](/wiki/Ambar%C3%B3na) = "uprising, sunrise, orient"
-- [Ambarussa](/wiki/Ambarussa) = "Top-russet"
+- [Ambalotsë](Ambalotsë.md) = "Uprising Flower"
+- [Ambaróna](Ambaróna.md) = "uprising, sunrise, orient"
+- [Ambarussa](Ambarussa.md) = "Top-russet"
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](../H/Helge_Fauskanger.md)

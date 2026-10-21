@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oilima Markirya"
 ---
 
-Redirect to [Oilima Markirya](/wiki/Oilima_Markirya).
+Redirect to [Oilima Markirya](../O/Oilima_Markirya.md).

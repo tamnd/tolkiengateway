@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Saruman filling the fire of Orthanc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Saruman filling the fire of Orthanc.png</span>"
 page_id: 73863
 namespace: 6
 revision_id: 436200
@@ -34,22 +33,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Two Towers - Saruman filling the fire of Orthanc.png</span></th>
 <td class="description">
-<p><a href="/wiki/Gr%C3%ADma" title="Gríma">Gríma Wormtongue</a> watching <a href="/wiki/Saruman" title="Saruman">Saruman</a> fill <a href="/wiki/Fire_of_Orthanc" title="Fire of Orthanc">the Fire of Orthanc</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
+<p><a href="../../main/G/Gríma.md" title="Gríma">Gríma Wormtongue</a> watching <a href="../../main/S/Saruman.md" title="Saruman">Saruman</a> fill <a href="../../main/F/Fire_of_Orthanc.md" title="Fire of Orthanc">the Fire of Orthanc</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/18_December" title="18 December">December 18</a> <a href="/wiki/2002" title="2002">2002</a></td>
+<td><a href="../../main/_/18_December.md" title="18 December">December 18</a> <a href="../../main/_/2002.md" title="2002">2002</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://movie-screencaps.com/the-lord-of-the-rings-the-two-towers-2002-4k/page/95#foobox-1/169/4k-twotowers-movie-screencaps.com-17090.jpg?ssl=1" rel="noreferrer noopener" target="_blank">https://movie-screencaps.com/the-lord-of-the-rings-the-two-towers-2002-4k/page/95#foobox-1/169/4k-twotowers-movie-screencaps.com-17090.jpg?ssl=1</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

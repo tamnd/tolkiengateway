@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Númenóreans"
 ---
 
-Redirect to [Black Númenóreans](/wiki/Black_Númenóreans).
+Redirect to [Black Númenóreans](../B/Black_Númenóreans.md).

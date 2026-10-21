@@ -1,6 +1,5 @@
 ---
 title: "Category:Unpublished material"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unpublished material</span>"
 page_id: 17568
 namespace: 14
 revision_id: 388078
@@ -13,6 +12,6 @@ categories:
   - "Manuscripts by J.R.R. Tolkien"
 ---
 
-Unpublished works or slightly published manuscripts by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Unpublished works or slightly published manuscripts by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
-<dl><dd><i>See also </i><b><a href="/wiki/Index:Unpublished_material" title="Index:Unpublished material">Index:Unpublished material</a></b><i> and </i><a href="/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien" title="Letters not published in The Letters of J.R.R. Tolkien">Letters not published in <i>The Letters of J.R.R. Tolkien</i></a><b></b></dd></dl>
+<dl><dd><i>See also </i><b><a href="../../index/U/Unpublished_material.md" title="Index:Unpublished material">Index:Unpublished material</a></b><i> and </i><a href="../../main/L/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">Letters not published in <i>The Letters of J.R.R. Tolkien</i></a><b></b></dd></dl>

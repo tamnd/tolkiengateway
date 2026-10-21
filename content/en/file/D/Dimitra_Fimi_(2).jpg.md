@@ -1,6 +1,5 @@
 ---
 title: "File:Dimitra Fimi (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dimitra Fimi (2).jpg</span>"
 page_id: 44223
 namespace: 6
 revision_id: 232597
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Dimitra Fimi](/wiki/Dimitra_Fimi) (2013).
+Photograph of [Dimitra Fimi](../../main/D/Dimitra_Fimi.md) (2013).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Dimitra Fimi](/wiki/Dimitra_Fimi) (2013).
 </p>
 <ul><li><b>Name:</b> Dimitra Fimi</li>
 <li><b>Website:</b> <a class="external text" href="http://www.dimitrafimi.com/" rel="noreferrer noopener" target="_blank">Dimitra Fimi</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Dimitra_Fimi" title="Tolkien Gateway:Copyrights/Dimitra Fimi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDimitra_Fimi.md" title="Tolkien Gateway:Copyrights/Dimitra Fimi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

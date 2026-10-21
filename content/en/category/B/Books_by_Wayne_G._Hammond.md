@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Wayne G. Hammond"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Wayne G. Hammond</span>"
 page_id: 26354
 namespace: 14
 revision_id: 104004

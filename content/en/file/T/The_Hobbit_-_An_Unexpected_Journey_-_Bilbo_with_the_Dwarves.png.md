@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Bilbo with the Dwarves.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Bilbo with the Dwarves.png</span>"
 page_id: 37198
 namespace: 6
 revision_id: 222516

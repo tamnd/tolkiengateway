@@ -1,6 +1,5 @@
 ---
 title: "File:Charles Williams.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Charles Williams.jpg</span>"
 page_id: 26939
 namespace: 6
 revision_id: 316322
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Charles Williams](/wiki/Charles_Williams) in the 1930s.
+[Charles Williams](../../main/C/Charles_Williams.md) in the 1930s.
 
 ## Licensing {#Licensing}
 

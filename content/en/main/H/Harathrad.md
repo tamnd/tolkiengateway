@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sarn Athrad"
 ---
 
-Redirect to [Sarn Athrad](/wiki/Sarn_Athrad).
+Redirect to [Sarn Athrad](../S/Sarn_Athrad.md).

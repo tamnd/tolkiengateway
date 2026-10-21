@@ -1,6 +1,5 @@
 ---
 title: "File:Alystraea - Gil-Estel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alystraea - Gil-Estel.jpg</span>"
 page_id: 70386
 namespace: 6
 revision_id: 418921
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Gil-Estel](/wiki/Star_of_E%C3%A4rendil "Star of Eärendil")*", by [Alystraea](/wiki/Category:Images_by_Alystraea "Category:Images by Alystraea")
+"*[Gil-Estel](../../main/S/Star_of_Eärendil.md)*", by [Alystraea](../../category/I/Images_by_Alystraea.md)
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Alystraea</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/annamare" rel="noreferrer noopener" target="_blank">Alystraea on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alystraea" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlystraea.md" title="Tolkien Gateway:Copyrights/Alystraea">Permission for use on Tolkien Gateway</a></b></li></ul></div>

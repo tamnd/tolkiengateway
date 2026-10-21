@@ -1,6 +1,5 @@
 ---
 title: "Mexican Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">Mexican Tolkien Society</span>"
 page_id: 65828
 namespace: 0
 revision_id: 406523
@@ -13,11 +12,9 @@ categories:
   - "Tolkien Societies"
 ---
 
-The Mexican [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") is active in 2023 since it's Facebook page activity.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Their website also lists no activity after 2021 but it appears they now utilize social media.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+The Mexican [Tolkien Society](../T/Tolkien_Societies~67099.md) is active in 2023 since it's Facebook page activity.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Their website also lists no activity after 2021 but it appears they now utilize social media.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

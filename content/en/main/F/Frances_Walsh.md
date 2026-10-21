@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fran Walsh"
 ---
 
-Redirect to [Fran Walsh](/wiki/Fran_Walsh).
+Redirect to [Fran Walsh](Fran_Walsh.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Troll's Hill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Troll&#039;s Hill.jpg</span>"
 page_id: 71419
 namespace: 6
 revision_id: 427033
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Troll's Hill" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Troll's Hill" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

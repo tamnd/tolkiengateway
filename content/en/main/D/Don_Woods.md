@@ -1,6 +1,5 @@
 ---
 title: "Don Woods"
-display_title: "<span class=\"mw-page-title-main\">Don Woods</span>"
 page_id: 25568
 namespace: 0
 revision_id: 385454
@@ -15,7 +14,7 @@ sort_keys:
   "Game designers": "Woods, Don"
 ---
 
-**Donald A. Woods** (born [April 30](/wiki/30_April "30 April"), [1954](/wiki/1954)) is a hacker and programmer. Together with [Willie Crowther](/wiki/Willie_Crowther), he wrote <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Colossal Cave Adventure</a>, a Text-Adventure strongly influenced by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") on which [Colossal Adventure](/wiki/Colossal_Adventure) was based.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Donald A. Woods** (born [April 30](../_/30_April.md), [1954](../_/1954.md)) is a hacker and programmer. Together with [Willie Crowther](../W/Willie_Crowther.md), he wrote <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Colossal Cave Adventure</a>, a Text-Adventure strongly influenced by [Tolkien](../J/J.R.R._Tolkien.md) on which [Colossal Adventure](../C/Colossal_Adventure.md) was based.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 

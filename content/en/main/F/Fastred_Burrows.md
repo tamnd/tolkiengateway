@@ -11,4 +11,4 @@ redirect_target: "List of minor The Lord of the Rings Online characters in Bree-
 redirect_fragment: "Fastred Burrows"
 ---
 
-Redirect to [List of minor The Lord of the Rings Online characters in Bree-land](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Fastred_Burrows).
+Redirect to [List of minor The Lord of the Rings Online characters in Bree-land](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Fastred_Burrows).

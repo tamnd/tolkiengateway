@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nainië"
 ---
 
-Redirect to [Nainië](/wiki/Nainië).
+Redirect to [Nainië](Nainië.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of Middle-earth Index"
 ---
 
-Redirect to [The History of Middle-earth Index](/wiki/The_History_of_Middle-earth_Index).
+Redirect to [The History of Middle-earth Index](The_History_of_Middle-earth_Index.md).

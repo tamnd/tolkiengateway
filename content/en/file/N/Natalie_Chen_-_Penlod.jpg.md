@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Penlod.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Penlod.jpg</span>"
 page_id: 56302
 namespace: 6
 revision_id: 306416
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Penlod](/wiki/Penlod), lord of the Houses of [the Tower of Snow](/wiki/House_of_the_Tower_of_Snow "House of the Tower of Snow") and [the Pillar](/wiki/House_of_the_Pillar "House of the Pillar"), by Natalie Chen.
+Image of [Penlod](../../main/P/Penlod.md), lord of the Houses of [the Tower of Snow](../../main/H/House_of_the_Tower_of_Snow.md) and [the Pillar](../../main/H/House_of_the_Pillar.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Image of [Penlod](/wiki/Penlod), lord of the Houses of [the Tower of Snow](/wiki
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

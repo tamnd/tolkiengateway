@@ -1,6 +1,5 @@
 ---
 title: "Gad Games"
-display_title: "<span class=\"mw-page-title-main\">Gad Games</span>"
 page_id: 27681
 namespace: 0
 revision_id: 190130
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Gad Games** was the publisher and game master of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail) in the United Kingdom till [1995](/wiki/1995).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gad Games** was the publisher and game master of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md) in the United Kingdom till [1995](../_/1995.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

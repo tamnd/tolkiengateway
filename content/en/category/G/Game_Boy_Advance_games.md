@@ -1,6 +1,5 @@
 ---
 title: "Category:Game Boy Advance games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Game Boy Advance games</span>"
 page_id: 20527
 namespace: 14
 revision_id: 196033
@@ -13,4 +12,4 @@ categories:
   - "Video games by platform"
 ---
 
-This category lists all **Game Boy Advance games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **Game Boy Advance games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

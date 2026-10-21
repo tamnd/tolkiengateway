@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Figwit"
 ---
 
-Redirect to [Figwit](/wiki/Figwit).
+Redirect to [Figwit](../F/Figwit.md).

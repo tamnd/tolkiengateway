@@ -1,6 +1,5 @@
 ---
 title: "File:Biographische, theologische und literaturpsychologische Analysen zur Person und zum Werk J.R.R. Tolkiens.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Biographische, theologische und literaturpsychologische Analysen zur Person und zum Werk J.R.R. Tolkiens.jpg</span>"
 page_id: 27018
 namespace: 6
 revision_id: 214162

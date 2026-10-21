@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of stamps"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of stamps</span>"
 page_id: 13361
 namespace: 14
 revision_id: 197691

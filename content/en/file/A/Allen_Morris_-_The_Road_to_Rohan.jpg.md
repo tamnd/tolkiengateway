@@ -1,6 +1,5 @@
 ---
 title: "File:Allen Morris - The Road to Rohan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Allen Morris - The Road to Rohan.jpg</span>"
 page_id: 62333
 namespace: 6
 revision_id: 437732

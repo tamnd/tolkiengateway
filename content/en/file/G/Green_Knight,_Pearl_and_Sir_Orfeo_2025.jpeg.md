@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Green Knight, Pearl and Sir Orfeo 2025 pb.jpeg"
 ---
 
-Redirect to [File:Green Knight, Pearl and Sir Orfeo 2025 pb.jpeg](/wiki/File:Green_Knight,_Pearl_and_Sir_Orfeo_2025_pb.jpeg).
+Redirect to [File:Green Knight, Pearl and Sir Orfeo 2025 pb.jpeg](Green_Knight,_Pearl_and_Sir_Orfeo_2025_pb.jpeg.md).

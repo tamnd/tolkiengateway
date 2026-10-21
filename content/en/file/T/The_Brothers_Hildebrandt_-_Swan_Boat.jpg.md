@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Swan Boat.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Swan Boat.jpg</span>"
 page_id: 71604
 namespace: 6
 revision_id: 426899
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Swan Boat](/wiki/Swan-ships "Swan-ships")" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), created in [2003](/wiki/2003) to establish their color and light from an old sketch done in the 70's.
+"[Swan Boat](../../main/S/Swan-ships.md)" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), created in [2003](../../main/_/2003.md) to establish their color and light from an old sketch done in the 70's.
 
 ## Licensing {#Licensing}
 

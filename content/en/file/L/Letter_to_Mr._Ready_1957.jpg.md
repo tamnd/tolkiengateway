@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Mr. Ready 1957.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Mr. Ready 1957.jpg</span>"
 page_id: 49853
 namespace: 6
 revision_id: 268557

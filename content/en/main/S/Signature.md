@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of J.R.R. Tolkien's signature"
 ---
 
-Redirect to [Category:Images of J.R.R. Tolkien's signature](/wiki/Category:Images_of_J.R.R._Tolkien's_signature).
+Redirect to [Category:Images of J.R.R. Tolkien's signature](../../category/I/Images_of_J.R.R._Tolkien's_signature.md).

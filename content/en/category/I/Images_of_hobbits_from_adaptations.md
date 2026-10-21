@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of hobbits from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of hobbits from adaptations</span>"
 page_id: 50576
 namespace: 14
 revision_id: 274844

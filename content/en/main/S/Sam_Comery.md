@@ -1,6 +1,5 @@
 ---
 title: "Sam Comery"
-display_title: "<span class=\"mw-page-title-main\">Sam Comery</span>"
 page_id: 5238
 namespace: 0
 revision_id: 407168
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Comery, Sam"
 ---
 
-**Sam Comery** played [Éothain](</wiki/%C3%89othain_(film_character)> "Éothain (film character)") in [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers).
+**Sam Comery** played [Éothain](<../_/Éothain_(film_character).md>) in [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fastred (rider of Rohan)"
 ---
 
-Redirect to [Fastred (rider of Rohan)](/wiki/Fastred_(rider_of_Rohan)).
+Redirect to [Fastred (rider of Rohan)](<Fastred_(rider_of_Rohan).md>).

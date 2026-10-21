@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quennar"
 ---
 
-Redirect to [Quennar](/wiki/Quennar).
+Redirect to [Quennar](../Q/Quennar.md).

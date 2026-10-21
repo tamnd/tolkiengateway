@@ -1,6 +1,5 @@
 ---
 title: "File:Ciarán Hinds.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ciarán Hinds.jpg</span>"
 page_id: 67058
 namespace: 6
 revision_id: 434556
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Cattermole</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.gettyimages.be/detail/nieuwsfoto%27s/ciaran-hinds-attends-the-belfast-european-premiere-during-nieuwsfotos/1346215044" rel="noreferrer noopener" target="_blank">Getty</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

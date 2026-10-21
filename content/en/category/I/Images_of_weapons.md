@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of weapons"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of weapons</span>"
 page_id: 39856
 namespace: 14
 revision_id: 199872

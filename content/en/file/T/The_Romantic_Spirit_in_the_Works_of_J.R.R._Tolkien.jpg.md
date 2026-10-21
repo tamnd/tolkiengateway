@@ -1,6 +1,5 @@
 ---
 title: "File:The Romantic Spirit in the Works of J.R.R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Romantic Spirit in the Works of J.R.R. Tolkien.jpg</span>"
 page_id: 67049
 namespace: 6
 revision_id: 388997
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[The Romantic Spirit in the Works of J.R.R. Tolkien](/wiki/The_Romantic_Spirit_in_the_Works_of_J.R.R._Tolkien)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). Cover illustration by [Jay Johnstone](/wiki/Jay_Johnstone).
+Cover of *[The Romantic Spirit in the Works of J.R.R. Tolkien](../../main/T/The_Romantic_Spirit_in_the_Works_of_J.R.R._Tolkien.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). Cover illustration by [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 ## Licensing {#Licensing}
 

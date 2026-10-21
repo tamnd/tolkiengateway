@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tom Cross"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tom Cross</span>"
 page_id: 9260
 namespace: 14
 revision_id: 182197
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Cross, Tom"
 ---
 
-This category lists all **images by [Tom Cross](/wiki/Tom_Cross)**.
+This category lists all **images by [Tom Cross](../../main/T/Tom_Cross.md)**.

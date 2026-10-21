@@ -16,11 +16,11 @@ images:
   - "The_Silmarillion_Desk_Calendar_1979.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Silmarillion_Desk_Calendar_1979.jpg"><img src="/w/images/9/93/The_Silmarillion_Desk_Calendar_1979.jpg" decoding="async" loading="lazy" width="155" height="216" class="mw-file-element" data-file-width="155" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Silmarillion_Desk_Calendar_1979.jpg.md"><img src="https://tolkiengateway.net/w/images/9/93/The_Silmarillion_Desk_Calendar_1979.jpg" decoding="async" loading="lazy" width="155" height="216" class="mw-file-element" data-file-width="155" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-**The Silmarillion Desk Calendar 1979** was produced by [Ballantine Books](/wiki/Ballantine_Books) with illustrations by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and coloration by [H.E. Riddett](/wiki/H.E._Riddett).
+**The Silmarillion Desk Calendar 1979** was produced by [Ballantine Books](../B/Ballantine_Books.md) with illustrations by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and coloration by [H.E. Riddett](../H/H.E._Riddett.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0345278178">ISBN 0-345-27817-8</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345278178">ISBN 0-345-27817-8</a>
 - Dimensions: 6.5 x 9 inches
 - Plastic comb-bound on side
 - Cardboard cover

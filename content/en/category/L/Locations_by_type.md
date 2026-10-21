@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations by type"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations by type</span>"
 page_id: 39669
 namespace: 14
 revision_id: 195241

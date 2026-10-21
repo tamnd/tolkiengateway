@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Neithan"
 ---
 
-Redirect to [Neithan](/wiki/Neithan).
+Redirect to [Neithan](../N/Neithan.md).

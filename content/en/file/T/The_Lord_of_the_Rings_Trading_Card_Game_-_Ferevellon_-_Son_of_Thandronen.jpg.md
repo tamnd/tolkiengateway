@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Ferevellon - Son of Thandronen.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Ferevellon - Son of Thandronen.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Ferevellon_-_Son_of_Thandronen.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Ferevellon - Son of Thandronen.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Ferevellon_-_Son_of_Thandronen.jpg.md).

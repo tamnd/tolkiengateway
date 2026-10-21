@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wētā FX"
 ---
 
-Redirect to [Wētā FX](/wiki/Wētā_FX).
+Redirect to [Wētā FX](Wētā_FX.md).

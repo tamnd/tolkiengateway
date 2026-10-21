@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Mines of Moria 3"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Mines of Moria 3</span>"
 page_id: 32881
 namespace: 14
 revision_id: 196663

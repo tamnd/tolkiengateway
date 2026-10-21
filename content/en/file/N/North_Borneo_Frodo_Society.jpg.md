@@ -1,6 +1,5 @@
 ---
 title: "File:North Borneo Frodo Society.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">North Borneo Frodo Society.jpg</span>"
 page_id: 46068
 namespace: 6
 revision_id: 243488
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s membership card from the [North Borneo Frodo Society](/wiki/North_Borneo_Frodo_Society).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s membership card from the [North Borneo Frodo Society](../../main/N/North_Borneo_Frodo_Society.md).
 
 ## Licensing {#Licensing}
 

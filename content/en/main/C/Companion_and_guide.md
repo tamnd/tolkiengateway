@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The J.R.R. Tolkien Companion and Guide"
 ---
 
-Redirect to [The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide).
+Redirect to [The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md).

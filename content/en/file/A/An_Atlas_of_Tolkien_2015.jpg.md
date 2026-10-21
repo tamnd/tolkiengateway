@@ -1,6 +1,5 @@
 ---
 title: "File:An Atlas of Tolkien 2015.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">An Atlas of Tolkien 2015.jpg</span>"
 page_id: 67511
 namespace: 6
 revision_id: 392201

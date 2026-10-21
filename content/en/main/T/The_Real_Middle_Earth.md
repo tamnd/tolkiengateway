@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Real Middle-earth"
 ---
 
-Redirect to [The Real Middle-earth](/wiki/The_Real_Middle-earth).
+Redirect to [The Real Middle-earth](The_Real_Middle-earth.md).

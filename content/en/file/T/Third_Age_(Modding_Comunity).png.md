@@ -1,6 +1,5 @@
 ---
 title: "File:Third Age (Modding Comunity).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Third Age (Modding Comunity).png</span>"
 page_id: 25603
 namespace: 6
 revision_id: 271051
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Banner of [The Third Age](</wiki/The_Third_Age_(Modding_Comunity)> "The Third Age (Modding Comunity)"), a comunity for moders of [The Battle for Middle-earth series](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_Anthology "The Lord of the Rings: The Battle for Middle-earth Anthology").
+Banner of [The Third Age](<../../main/T/The_Third_Age_(Modding_Comunity).md>), a comunity for moders of [The Battle for Middle-earth series](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_Anthology.md).
 
 ## Licensing {#Licensing}
 

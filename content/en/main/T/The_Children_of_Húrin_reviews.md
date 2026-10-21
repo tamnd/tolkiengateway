@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin reviews"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin reviews</span>"
 page_id: 15132
 namespace: 0
 revision_id: 305390
@@ -13,15 +12,15 @@ categories:
   - "The Children of Húrin Release Party"
 ---
 
-Below is a list of reviews of *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*.
+Below is a list of reviews of *[The Children of Húrin](The_Children_of_Húrin.md)*.
 
 ## Positive {#Positive}
 
 - <a class="external text" href="http://www.cnn.com/2007/SHOWBIZ/books/04/17/review.tolkien.ap/index.html" rel="noreferrer noopener" target="_blank">&#39;New&#39; Tolkien splendidly rewarding</a> by Bruce DeSilva (AP)
 - <a class="external text" href="http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article1613657.ece" rel="noreferrer noopener" target="_blank">What took them so long?</a> by Bryan Appleyard (The Sunday Times)
 - <a class="external text" href="http://www.salon.com/books/feature/2007/04/17/hurin/" rel="noreferrer noopener" target="_blank">Lord of the ruins</a> by Andrew O'Hehir (Salon.com)
-- <a class="external text" href="http://wormtalk.blogspot.com/2007/04/children-of-hrin-review-below-contains.html" rel="noreferrer noopener" target="_blank">The Children of Húrin Review</a> by [Michael D.C. Drout](/wiki/Michael_D.C._Drout)
-- <a class="external text" href="http://www.marcel-buelles.de/the-children-of-hurin-tolkien-is-back-with-a-vengeance/" rel="noreferrer noopener" target="_blank">The Children of Húrin - Tolkien is back with a vengeance</a> Commentary by [Marcel Bülles](/wiki/Marcel_B%C3%BClles)
+- <a class="external text" href="http://wormtalk.blogspot.com/2007/04/children-of-hrin-review-below-contains.html" rel="noreferrer noopener" target="_blank">The Children of Húrin Review</a> by [Michael D.C. Drout](../M/Michael_D.C._Drout.md)
+- <a class="external text" href="http://www.marcel-buelles.de/the-children-of-hurin-tolkien-is-back-with-a-vengeance/" rel="noreferrer noopener" target="_blank">The Children of Húrin - Tolkien is back with a vengeance</a> Commentary by [Marcel Bülles](../M/Marcel_Bülles.md)
 - <a class="external text" href="http://www.spiegel.de/kultur/literatur/0,1518,477423,00.html" rel="noreferrer noopener" target="_blank">Middle-earth is back</a> by hoc/Reuters (Spiegel-Online.de) Irrelevant, quotes D. Brawn.
 - <a class="external text" href="http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article1613662.ece" rel="noreferrer noopener" target="_blank">The stuff of legend</a> Robbie Hudson (The Sunday Times)
 - <a class="external text" href="http://www.thestar.com/artsentertainment/article/203389" rel="noreferrer noopener" target="_blank">Tolkien proves he&#39;s still the king</a> by Vit Wagner (TheStar.com)

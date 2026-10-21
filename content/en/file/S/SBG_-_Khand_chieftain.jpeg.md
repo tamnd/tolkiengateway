@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Khand chieftain.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Khand chieftain.jpeg</span>"
 page_id: 11892
 namespace: 6
 revision_id: 203934

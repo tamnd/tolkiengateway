@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalf I Want You.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalf I Want You.png</span>"
 page_id: 67847
 namespace: 6
 revision_id: 397829

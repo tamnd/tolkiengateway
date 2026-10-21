@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Ceorl - Weary Horseman.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Ceorl - Weary Horseman.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Ceorl_-_Weary_Horseman.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Ceorl - Weary Horseman.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Ceorl_-_Weary_Horseman.jpg.md).

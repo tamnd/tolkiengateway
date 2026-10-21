@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to the Royal Society of Literature"
 ---
 
-Redirect to [Letter to the Royal Society of Literature](/wiki/Letter_to_the_Royal_Society_of_Literature).
+Redirect to [Letter to the Royal Society of Literature](../L/Letter_to_the_Royal_Society_of_Literature.md).

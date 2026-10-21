@@ -1,6 +1,5 @@
 ---
 title: "Tom Zuchowski"
-display_title: "<span class=\"mw-page-title-main\">Tom Zuchowski</span>"
 page_id: 25720
 namespace: 0
 revision_id: 356599
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Zuchowski, Tom"
 ---
 
-**Tom Zuchowski** (<a class="extiw" href="http://en.wikipedia.org/wiki/Missouri" title="wikipedia:Missouri">Northwest Missouri</a>, c. [1952](/wiki/1952))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is the author and programmer of *[Thror's Ring](/wiki/Thror%27s_Ring)*<sup id="cite_ref-Tolkien_Games2_2-0" class="reference"><a href="#cite_note-Tolkien_Games2-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (October [1985](/wiki/1985)) and *[Assault on Dolni Keep](/wiki/Assault_on_Dolni_Keep)*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (January [1987](/wiki/1987)) for the *[Eamon](</wiki/Eamon_(video_game)> "Eamon (video game)")* text adventure game series. Zuchowski served as the president of the Eamon Adventurer's Guild club.
+**Tom Zuchowski** (<a class="extiw" href="http://en.wikipedia.org/wiki/Missouri" title="wikipedia:Missouri">Northwest Missouri</a>, c. [1952](../_/1952.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is the author and programmer of *[Thror's Ring](Thror's_Ring.md)*<sup id="cite_ref-Tolkien_Games2_2-0" class="reference"><a href="#cite_note-Tolkien_Games2-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> (October [1985](../_/1985.md)) and *[Assault on Dolni Keep](../A/Assault_on_Dolni_Keep.md)*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> (January [1987](../_/1987.md)) for the *[Eamon](<../E/Eamon_(video_game).md>)* text adventure game series. Zuchowski served as the president of the Eamon Adventurer's Guild club.
 
 ## External links {#External_links}
 

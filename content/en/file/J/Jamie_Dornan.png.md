@@ -1,6 +1,5 @@
 ---
 title: "File:Jamie Dornan.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jamie Dornan.png</span>"
 page_id: 74233
 namespace: 6
 revision_id: 437475
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jamie Dornan.png</span></th>
 <td class="description">
-<p><a href="/wiki/Jamie_Dornan" title="Jamie Dornan">Jamie Dornan</a>
+<p><a href="../../main/J/Jamie_Dornan.md" title="Jamie Dornan">Jamie Dornan</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/8_November" title="8 November">November 8</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/8_November.md" title="8 November">November 8</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://commons.wikimedia.org/wiki/File:Jamie_Dornan_in_2021.png" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/File:Jamie_Dornan_in_2021.png</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">

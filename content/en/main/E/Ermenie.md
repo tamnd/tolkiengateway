@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ermenië"
 ---
 
-Redirect to [Ermenië](/wiki/Ermenië).
+Redirect to [Ermenië](Ermenië.md).

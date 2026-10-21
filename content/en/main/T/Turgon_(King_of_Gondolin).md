@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turgon"
 ---
 
-Redirect to [Turgon](/wiki/Turgon).
+Redirect to [Turgon](Turgon.md).

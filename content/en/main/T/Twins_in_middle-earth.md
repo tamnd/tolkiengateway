@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twins"
 ---
 
-Redirect to [Twins](/wiki/Twins).
+Redirect to [Twins](Twins.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:American businesses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">American businesses</span>"
 page_id: 38691
 namespace: 14
 revision_id: 190173

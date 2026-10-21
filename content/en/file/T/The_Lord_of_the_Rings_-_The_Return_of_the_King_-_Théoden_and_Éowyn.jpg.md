@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Théoden and Éowyn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Théoden and Éowyn.jpg</span>"
 page_id: 64182
 namespace: 6
 revision_id: 366937
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*, "["No More Despair"](/wiki/%22No_More_Despair%22)".
+A still from the scene *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, "["No More Despair"](../../main/_/%2522No_More_Despair%2522.md)".
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angulókë"
 ---
 
-Redirect to [Angulókë](/wiki/Angulókë).
+Redirect to [Angulókë](Angulókë.md).

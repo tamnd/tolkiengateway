@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Card Game.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Card Game.jpg</span>"
 page_id: 44260
 namespace: 6
 revision_id: 429825

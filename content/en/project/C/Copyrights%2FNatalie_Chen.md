@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Natalie Chen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Natalie Chen</span>"
 page_id: 56286
 namespace: 4
 revision_id: 306370
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Chen, Natalie"
 ---
 
-- Natalie Chen has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Natalie_Chen "Category:Images by Natalie Chen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Natalie Chen has kindly granted her permission to use [her artwork](../../category/I/Images_by_Natalie_Chen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 23 August 2019
-- User who sought the permission via Facebook: [LorenzoCB](/wiki/User:LorenzoCB "User:LorenzoCB")
+- User who sought the permission via Facebook: [LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB)

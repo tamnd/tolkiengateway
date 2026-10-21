@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Tevildo (the Prince of Cats).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Tevildo (the Prince of Cats).jpg</span>"
 page_id: 73615
 namespace: 6
 revision_id: 435040
@@ -32,15 +31,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Tevildo (the Prince of Cats).jpg</span></th>
 <td class="description">
-<blockquote><p><a href="/wiki/Tevildo" title="Tevildo">Tevildo</a>, the cat version of <a href="/wiki/Sauron" title="Sauron">Sauron</a>... y’know, before he became <a href="/wiki/Th%C3%BB" title="Thû">a werewolf</a>, then a werewolf sorcerer, then a right hand man to a demon living on an island full of werewolves and vampires, then a necromancer, then the Sauron we know today.</p></blockquote>
+<blockquote><p><a href="../../main/T/Tevildo.md" title="Tevildo">Tevildo</a>, the cat version of <a href="../../main/S/Sauron.md" title="Sauron">Sauron</a>... y’know, before he became <a href="../../main/T/Thû.md" title="Thû">a werewolf</a>, then a werewolf sorcerer, then a right hand man to a demon living on an island full of werewolves and vampires, then a necromancer, then the Sauron we know today.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/4_July" title="4 July">July 4</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/4_July.md" title="4 July">July 4</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -49,7 +46,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/8e8b1R" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/8e8b1R</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -59,4 +55,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

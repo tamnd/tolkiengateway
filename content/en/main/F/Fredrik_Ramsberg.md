@@ -1,6 +1,5 @@
 ---
 title: "Fredrik Ramsberg"
-display_title: "<span class=\"mw-page-title-main\">Fredrik Ramsberg</span>"
 page_id: 27944
 namespace: 0
 revision_id: 146271
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Ramsberg, Fredrik"
 ---
 
-**Fredrik Ramsberg** is a game designer who, together with [Johan Berntsson](/wiki/Johan_Berntsson), wrote and designed the parody [Hobbit - The True Story](/wiki/Hobbit_-_The_True_Story).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Fredrik Ramsberg** is a game designer who, together with [Johan Berntsson](../J/Johan_Berntsson.md), wrote and designed the parody [Hobbit - The True Story](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

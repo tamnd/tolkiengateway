@@ -1,6 +1,5 @@
 ---
 title: "File:Catherine Karina Chmiel - Caranthir and Haleth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Catherine Karina Chmiel - Caranthir and Haleth.jpg</span>"
 page_id: 9895
 namespace: 6
 revision_id: 188304
@@ -28,7 +27,7 @@ file:
 
 ## Art Analysis {#Art_Analysis}
 
-<i><b>Caranthir and Haleth</b></i> by [Catherine Karina Chmiel](/wiki/Catherine_Karina_Chmiel) is a wonderful work comparing the stubborn pride of the human [Haleth](/wiki/Haleth) with the cool admiration of her rescuer, the High Elf [Caranthir the Dark](/wiki/Caranthir "Caranthir"). The is one noticeable problem, however. Within Haleth's lifetime [her people](/wiki/Haladin "Haladin") crossed the [Blue Mountains](/wiki/Blue_Mountains) and first met [High Elves](/wiki/High_Elves). High Elves were responsible for teaching [Men](/wiki/Men) higher culture, including smithing. Haleth could not have worn plate armor as shown in the picture; it is possible her people had no armor at all.
+<i><b>Caranthir and Haleth</b></i> by [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md) is a wonderful work comparing the stubborn pride of the human [Haleth](../../main/H/Haleth.md) with the cool admiration of her rescuer, the High Elf [Caranthir the Dark](../../main/C/Caranthir.md). The is one noticeable problem, however. Within Haleth's lifetime [her people](../../main/H/Haladin.md) crossed the [Blue Mountains](../../main/B/Blue_Mountains.md) and first met [High Elves](../../main/H/High_Elves.md). High Elves were responsible for teaching [Men](../../main/M/Men.md) higher culture, including smithing. Haleth could not have worn plate armor as shown in the picture; it is possible her people had no armor at all.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Catherine Karina Chmiel</li>
 <li><b>Website:</b> <a class="external text" href="http://kasiopea.art.pl/en/home" rel="noreferrer noopener" target="_blank">Kasiopea Art</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Catherine_Karina_Chmiel" title="Tolkien Gateway:Copyrights/Catherine Karina Chmiel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCatherine_Karina_Chmiel.md" title="Tolkien Gateway:Copyrights/Catherine Karina Chmiel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

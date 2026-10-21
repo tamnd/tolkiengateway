@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jane T. Sibley"
 ---
 
-Redirect to [Letter to Jane T. Sibley](/wiki/Letter_to_Jane_T._Sibley).
+Redirect to [Letter to Jane T. Sibley](../L/Letter_to_Jane_T._Sibley.md).

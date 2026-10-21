@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thráin"
 ---
 
-Redirect to [Thráin](/wiki/Thráin).
+Redirect to [Thráin](Thráin.md).

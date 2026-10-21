@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Gollum.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Gollum.png</span>"
 page_id: 40531
 namespace: 6
 revision_id: 425754

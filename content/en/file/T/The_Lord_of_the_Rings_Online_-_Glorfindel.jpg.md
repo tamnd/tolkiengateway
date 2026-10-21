@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Glorfindel.jpg</span>"
 page_id: 38604
 namespace: 6
 revision_id: 324554
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Glorfindel](/wiki/Glorfindel) as he appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+[Glorfindel](../../main/G/Glorfindel.md) as he appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

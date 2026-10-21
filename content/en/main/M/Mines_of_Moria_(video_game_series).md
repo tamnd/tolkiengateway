@@ -15,19 +15,17 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mines of Moria</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/The_Mines_of_Moria_(disambiguation)" title="The Mines of Moria (disambiguation)">The Mines of Moria (disambiguation)</a></b>.</div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Mines of Moria</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Mines_of_Moria_(disambiguation).md" title="The Mines of Moria (disambiguation)">The Mines of Moria (disambiguation)</a></b>.</div></div>
 
 **Mines of Moria** is a collection of three video games. Two of them are platform games for Windows 3.x and one of them is a Text-Adventure for the MS-DOS.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Mines of Moria](</wiki/Mines_of_Moria_(video_game)> "Mines of Moria (video game)")
-- [Mines of Moria II: The Escape Out](/wiki/Mines_of_Moria_II:_The_Escape_Out)
-- [Mines of Moria 3](/wiki/Mines_of_Moria_3)
+- [Mines of Moria](<Mines_of_Moria_(video_game).md>)
+- [Mines of Moria II: The Escape Out](Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mines of Moria 3](Mines_of_Moria_3.md)
 
 ## Synopsis {#Synopsis}
 
-[Feagwaith](/wiki/Feagwaith), a man of [Gondor](/wiki/Gondor), enters the mines of Moria to find a part of *[Mithril](/wiki/Mithril)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> In the second part of the trilogy he must find the way out of Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The last part doesn't take place in [Moria](/wiki/Moria) but covers the travels of Feagwaith back to his homeland, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Feagwaith](../F/Feagwaith.md), a man of [Gondor](../G/Gondor.md), enters the mines of Moria to find a part of *[Mithril](Mithril.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> In the second part of the trilogy he must find the way out of Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The last part doesn't take place in [Moria](Moria.md) but covers the travels of Feagwaith back to his homeland, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "File:BFME2 - Goblin Fort.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BFME2 - Goblin Fort.jpg</span>"
 page_id: 12936
 namespace: 6
 revision_id: 231617

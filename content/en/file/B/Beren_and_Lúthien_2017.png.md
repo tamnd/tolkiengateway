@@ -1,6 +1,5 @@
 ---
 title: "File:Beren and Lúthien 2017.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beren and Lúthien 2017.png</span>"
 page_id: 61978
 namespace: 6
 revision_id: 428744

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Blackwolds"
 ---
 
-Redirect to [Blackwolds](/wiki/Blackwolds).
+Redirect to [Blackwolds](Blackwolds.md).

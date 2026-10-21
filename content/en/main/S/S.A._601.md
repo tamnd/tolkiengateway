@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 601"
 ---
 
-Redirect to [Second Age 601](/wiki/Second_Age_601).
+Redirect to [Second Age 601](Second_Age_601.md).

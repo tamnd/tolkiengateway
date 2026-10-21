@@ -1,6 +1,5 @@
 ---
 title: "File:History of Middle-Earth Index (HC2002).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">History of Middle-Earth Index (HC2002).png</span>"
 page_id: 62403
 namespace: 6
 revision_id: 352485

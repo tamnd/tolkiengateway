@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Corsairs of Umbar"
 ---
 
-Redirect to [Corsairs of Umbar](/wiki/Corsairs_of_Umbar).
+Redirect to [Corsairs of Umbar](Corsairs_of_Umbar.md).

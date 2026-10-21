@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Magdalena Olechny"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Magdalena Olechny</span>"
 page_id: 64897
 namespace: 14
 revision_id: 373799

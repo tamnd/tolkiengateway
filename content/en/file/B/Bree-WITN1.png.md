@@ -1,6 +1,5 @@
 ---
 title: "File:Bree-WITN1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bree-WITN1.png</span>"
 page_id: 36109
 namespace: 6
 revision_id: 170795
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of [Bree](/wiki/Bree) for [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Concept art of [Bree](../../main/B/Bree.md) for [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Licensing {#Licensing}
 

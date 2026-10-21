@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Azaghal and Glaurung.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Azaghal and Glaurung.jpg</span>"
 page_id: 59756
 namespace: 6
 revision_id: 333687
@@ -29,7 +28,7 @@ file:
 
 ## Description {#Description}
 
-"[Azaghâl](/wiki/Azagh%C3%A2l) and [Glaurung](/wiki/Glaurung)", by Artigas.
+"[Azaghâl](../../main/A/Azaghâl.md) and [Glaurung](../../main/G/Glaurung.md)", by Artigas.
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

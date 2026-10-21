@@ -1,6 +1,5 @@
 ---
 title: "File:Ralph Damiani - Nienna.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ralph Damiani - Nienna.png</span>"
 page_id: 64504
 namespace: 6
 revision_id: 370352
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ralph Damiani</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ralphdamiani" rel="noreferrer noopener" target="_blank">Ralph Damiani at DeviatArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ralph_Damiani" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRalph_Damiani.md" title="Tolkien Gateway:Copyrights/Ralph Damiani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

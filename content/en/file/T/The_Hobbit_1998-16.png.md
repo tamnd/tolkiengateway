@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 1998-16.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 1998-16.png</span>"
 page_id: 62671
 namespace: 6
 revision_id: 354017

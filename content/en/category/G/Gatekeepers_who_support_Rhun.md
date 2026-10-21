@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Gatekeepers who support Rhûn"
 ---
 
-Redirect to [Category:Gatekeepers who support Rhûn](/wiki/Category:Gatekeepers_who_support_Rhûn).
+Redirect to [Category:Gatekeepers who support Rhûn](Gatekeepers_who_support_Rhûn.md).

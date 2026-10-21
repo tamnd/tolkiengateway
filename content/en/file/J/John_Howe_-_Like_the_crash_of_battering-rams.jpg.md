@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - Smaug Destroys Lake-town.jpg"
 ---
 
-Redirect to [File:John Howe - Smaug Destroys Lake-town.jpg](/wiki/File:John_Howe_-_Smaug_Destroys_Lake-town.jpg).
+Redirect to [File:John Howe - Smaug Destroys Lake-town.jpg](John_Howe_-_Smaug_Destroys_Lake-town.jpg.md).

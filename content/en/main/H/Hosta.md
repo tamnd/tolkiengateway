@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hosta-"
 ---
 
-Redirect to [Hosta-](/wiki/Hosta-).
+Redirect to [Hosta-](Hosta-.md).

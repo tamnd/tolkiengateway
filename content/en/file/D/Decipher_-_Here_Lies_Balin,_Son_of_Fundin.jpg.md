@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Here Lies Balin, Son of Fundin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Here Lies Balin, Son of Fundin.jpg</span>"
 page_id: 22551
 namespace: 6
 revision_id: 211674

@@ -1,6 +1,5 @@
 ---
 title: "Category:Silvan Elvish words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Silvan Elvish words</span>"
 page_id: 35012
 namespace: 14
 revision_id: 164259
@@ -14,4 +13,4 @@ categories:
   - "Silvan Elvish"
 ---
 
-[Silvan Elvish](/wiki/Silvan_Elvish)
+[Silvan Elvish](../../main/S/Silvan_Elvish.md)

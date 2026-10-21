@@ -1,6 +1,5 @@
 ---
 title: "URUN"
-display_title: "<span class=\"mw-page-title-main\">URUN</span>"
 page_id: 32130
 namespace: 0
 revision_id: 407758
@@ -13,30 +12,30 @@ categories:
   - "Roots"
 ---
 
-**URUN** is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") signifying "copper".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+**URUN** is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying "copper".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Derivatives {#Derivatives}
 
-- [Quenya](/wiki/Quenya): *[Urundil](/wiki/Urundil)* ("copper-lover")<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *[Urundil](Urundil.md)* ("copper-lover")<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- <a href="/wiki/RUN" title="RUN">RUN<sup>3</sup></a>
+- <a href="../R/RUN.md" title="RUN">RUN<sup>3</sup></a>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XI. <a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>&#34;, p. 366 (note 61; root appearing as &#34;URUN&#34;)</span>
+<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XI. <a href="../T/The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>&#34;, p. 366 (note 61; root appearing as &#34;URUN&#34;)</span>
 </li>
 </ol></div>
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>The <a href="/wiki/Sundocarme" title="Sundocarme">Sundocarme</a> &#34;Metals&#34; Group</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>The <a href="../S/Sundocarme.md" title="Sundocarme">Sundocarme</a> &#34;Metals&#34; Group</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="/wiki/ANGA" title="ANGA">ANGA</a></b> (&#34;<a href="/wiki/Iron" title="Iron">iron</a>&#34;) · <b><a class="mw-selflink selflink">URUN</a></b> (&#34;<a href="/wiki/Copper" title="Copper">copper</a>&#34;) · <b><a href="/wiki/MALAT" title="MALAT">MALAT</a></b> (&#34;<a href="/wiki/Gold" title="Gold">gold</a>&#34;) · <b><a href="/wiki/KYELEP" title="KYELEP">KYELEP</a></b> (&#34;<a href="/wiki/Silver" title="Silver">silver</a>&#34;)
+<td style="font-size: 90%;"> <b><a href="../A/ANGA~30450.md" title="ANGA">ANGA</a></b> (&#34;<a href="../I/Iron.md" title="Iron">iron</a>&#34;) · <b><a class="mw-selflink selflink">URUN</a></b> (&#34;<a href="../C/Copper.md" title="Copper">copper</a>&#34;) · <b><a href="../M/MALAT.md" title="MALAT">MALAT</a></b> (&#34;<a href="../G/Gold.md" title="Gold">gold</a>&#34;) · <b><a href="../K/KYELEP.md" title="KYELEP">KYELEP</a></b> (&#34;<a href="../S/Silver.md" title="Silver">silver</a>&#34;)
 </td></tr>
 </tbody></table>

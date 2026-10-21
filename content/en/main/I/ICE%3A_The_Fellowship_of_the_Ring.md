@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fellowship of the Ring (board game)"
 ---
 
-Redirect to [The Fellowship of the Ring (board game)](/wiki/The_Fellowship_of_the_Ring_(board_game)).
+Redirect to [The Fellowship of the Ring (board game)](<../T/The_Fellowship_of_the_Ring_(board_game).md>).

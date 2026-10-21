@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolman Cotton Junior"
 ---
 
-Redirect to [Tolman Cotton Junior](/wiki/Tolman_Cotton_Junior).
+Redirect to [Tolman Cotton Junior](../T/Tolman_Cotton_Junior.md).

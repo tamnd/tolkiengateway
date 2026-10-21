@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Otoso"
 ---
 
-Redirect to [Otoso](/wiki/Otoso).
+Redirect to [Otoso](Otoso.md).

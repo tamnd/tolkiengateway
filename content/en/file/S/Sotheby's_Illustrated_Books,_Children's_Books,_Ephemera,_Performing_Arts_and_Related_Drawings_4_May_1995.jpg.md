@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Illustrated Books, Children's Books, Ephemera, Performing Arts and Related Drawings 4 May 1995.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Illustrated Books, Children&#039;s Books, Ephemera, Performing Arts and Related Drawings 4 May 1995.jpg</span>"
 page_id: 41032
 namespace: 6
 revision_id: 215429

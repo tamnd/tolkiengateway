@@ -1,6 +1,5 @@
 ---
 title: "File:Angel Falto - Orome.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angel Falto - Orome.jpg</span>"
 page_id: 24645
 namespace: 6
 revision_id: 275398
@@ -32,4 +31,4 @@ file:
 <p>This work is copyrighted and owned by Angel Falto. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Angel Falto</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Angel_Falto" title="Tolkien Gateway:Copyrights/Angel Falto">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAngel_Falto.md" title="Tolkien Gateway:Copyrights/Angel Falto">Permission for use on Tolkien Gateway</a></b></li></ul></div>

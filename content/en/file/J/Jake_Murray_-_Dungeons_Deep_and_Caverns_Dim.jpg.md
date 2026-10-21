@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Dungeons Deep and Caverns Dim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Dungeons Deep and Caverns Dim.jpg</span>"
 page_id: 71634
 namespace: 6
 revision_id: 433531
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"Dungeons Deep and Caverns Dim" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray") for *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Dungeons Deep and Caverns Dim*
+"Dungeons Deep and Caverns Dim" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md) for *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Dungeons Deep and Caverns Dim*
 
 ## Licensing {#Licensing}
 

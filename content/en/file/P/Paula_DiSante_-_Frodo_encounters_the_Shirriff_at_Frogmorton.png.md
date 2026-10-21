@@ -1,6 +1,5 @@
 ---
 title: "File:Paula DiSante - Frodo encounters the Shirriff at Frogmorton.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paula DiSante - Frodo encounters the Shirriff at Frogmorton.png</span>"
 page_id: 59285
 namespace: 6
 revision_id: 437712
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Paula DiSante</li>
 <li><b>Website:</b> <a class="external free" href="https://www.etsy.com/shop/TheSecretFireLLC" rel="noreferrer noopener" target="_blank">https://www.etsy.com/shop/TheSecretFireLLC</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Paula_DiSante" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPaula_DiSante.md" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>

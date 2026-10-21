@@ -1,6 +1,5 @@
 ---
 title: "Category:Maggot"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maggot</span>"
 page_id: 30496
 namespace: 14
 revision_id: 435963

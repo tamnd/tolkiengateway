@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rodrigo Machado"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rodrigo Machado</span>"
 page_id: 62341
 namespace: 14
 revision_id: 389493
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Machado Rodrigo"
 ---
 
-Images by **[Rodrigo Machado](/wiki/Rodrigo_Machado)**
+Images by **[Rodrigo Machado](../../main/R/Rodrigo_Machado.md)**

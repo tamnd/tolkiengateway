@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Rosie.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Rosie.png</span>"
 page_id: 73303
 namespace: 6
 revision_id: 433544
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rosie](/wiki/Rose_Cotton "Rose Cotton") - [LEGO](/wiki/Lego "Lego") minifigure
+[Rosie](../../main/R/Rose_Cotton.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

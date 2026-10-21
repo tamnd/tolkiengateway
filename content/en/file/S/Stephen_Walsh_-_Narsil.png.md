@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Narsil.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Narsil.png</span>"
 page_id: 74486
 namespace: 6
 revision_id: 438578
@@ -36,19 +35,16 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/25_March" title="25 March">March 25</a> <a href="/wiki/2017" title="2017">2017</a></td>
+<td><a href="../../main/_/25_March.md" title="25 March">March 25</a> <a href="../../main/_/2017.md" title="2017">2017</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.facebook.com/photo.php?fbid=1240322129407984&amp;set=pb.100063498109166.-2207520000&amp;type=3" rel="noreferrer noopener" target="_blank">https://www.facebook.com/photo.php?fbid=1240322129407984&amp;set=pb.100063498109166.-2207520000&amp;type=3</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -56,4 +52,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

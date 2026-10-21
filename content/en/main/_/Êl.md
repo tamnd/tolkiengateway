@@ -15,23 +15,23 @@ sort_keys:
   "Sindarin nouns": "El"
 ---
 
-<i><b>êl</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "[star](/wiki/Star "Star")". It is archaic and poetic, only recorded being used in verses.
+<i><b>êl</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "[star](../S/Star.md)". It is archaic and poetic, only recorded being used in verses.
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [EL](/wiki/EL)
+- [Root](../S/Sundocarme.md) [EL](../E/EL~31035.md)
 
 ## Synonyms {#Synonyms}
 
-- *[gil](/wiki/Gil "Gil")*
-- *[tinu](/wiki/Tinu "Tinu")*
+- *[gil](../G/Gil.md)*
+- *[tinu](../T/Tinu.md)*
 
 ## Examples {#Examples}
 
-- [Star of *El*endil](/wiki/Star_of_Elendil "Star of Elendil") or [*El*endilmir](/wiki/Elendilmir "Elendilmir")
+- [Star of *El*endil](../S/Star_of_Elendil.md) or [*El*endilmir](../E/Elendilmir.md)
 
 <span></span>
 
 ## References {#References}
 
-- *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary) (Edition 1.6, Lexicon 0.993)*
+- *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë's_Sindarin_dictionary~30928.md) (Edition 1.6, Lexicon 0.993)*

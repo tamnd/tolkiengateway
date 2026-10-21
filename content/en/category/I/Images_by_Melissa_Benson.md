@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Melissa Benson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Melissa Benson</span>"
 page_id: 72757
 namespace: 14
 revision_id: 431313
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Benson, Melissa"
 ---
 
-This category lists all **images by [Melissa Benson](/wiki/Melissa_Benson)**.
+This category lists all **images by [Melissa Benson](../../main/M/Melissa_Benson.md)**.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parish (disambiguation)"
 ---
 
-Redirect to [Parish (disambiguation)](/wiki/Parish_(disambiguation)).
+Redirect to [Parish (disambiguation)](<Parish_(disambiguation).md>).

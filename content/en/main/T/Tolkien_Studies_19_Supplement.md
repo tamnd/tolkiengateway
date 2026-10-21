@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 19 Supplement"
 ---
 
-Redirect to [Tolkien Studies: Volume 19 Supplement](/wiki/Tolkien_Studies:_Volume_19_Supplement).
+Redirect to [Tolkien Studies: Volume 19 Supplement](Tolkien_Studies%253A_Volume_19_Supplement.md).

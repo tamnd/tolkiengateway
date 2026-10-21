@@ -11,4 +11,4 @@ redirect_target: "Cotman"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Cotman](/wiki/Cotman#Etymology).
+Redirect to [Cotman](../C/Cotman.md#Etymology).

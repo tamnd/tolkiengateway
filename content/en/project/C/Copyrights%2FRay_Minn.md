@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ray Minn"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ray Minn</span>"
 page_id: 68367
 namespace: 4
 revision_id: 402469
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Minn, Ray"
 ---
 
-- <a class="external text" href="https://www.artstation.com/nicatorshields" rel="noreferrer noopener" target="_blank">Ray Minn</a> has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Ray_Minn "Category:Images by Ray Minn") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="https://www.artstation.com/nicatorshields" rel="noreferrer noopener" target="_blank">Ray Minn</a> has kindly granted permission to use [their artwork](../../category/I/Images_by_Ray_Minn.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: July 20th, 2024
-- User who sought the permission via Reddit: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via Reddit: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

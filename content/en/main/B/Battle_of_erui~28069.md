@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Crossings of Erui"
 ---
 
-Redirect to [Battle of the Crossings of Erui](/wiki/Battle_of_the_Crossings_of_Erui).
+Redirect to [Battle of the Crossings of Erui](Battle_of_the_Crossings_of_Erui.md).

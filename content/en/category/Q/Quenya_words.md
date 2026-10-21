@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya words</span>"
 page_id: 10110
 namespace: 14
 revision_id: 92820
@@ -16,4 +15,4 @@ sort_keys:
   "Quenya": "Words"
 ---
 
-This category includes the definitions of [Quenya](/wiki/Quenya) words.
+This category includes the definitions of [Quenya](../../main/Q/Quenya.md) words.

@@ -1,6 +1,5 @@
 ---
 title: "File:Rodrigo Machado - Foalókë.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rodrigo Machado - Foalókë.png</span>"
 page_id: 63279
 namespace: 6
 revision_id: 358778
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This illustration was commissioned by [Tolkien Gateway](/wiki/Tolkien_Gateway) to [Rodrigo Machado](/wiki/Rodrigo_Machado).
+This illustration was commissioned by [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) to [Rodrigo Machado](../../main/R/Rodrigo_Machado.md).
 
 ## Licensing {#Licensing}
 

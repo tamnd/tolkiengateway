@@ -1,6 +1,5 @@
 ---
 title: "File:A Walk Through the Shire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Walk Through the Shire.jpg</span>"
 page_id: 26299
 namespace: 6
 revision_id: 214136

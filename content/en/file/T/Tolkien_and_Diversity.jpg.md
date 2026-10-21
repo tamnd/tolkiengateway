@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and Diversity.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and Diversity.jpg</span>"
 page_id: 66290
 namespace: 6
 revision_id: 382311
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Tolkien and Diversity](/wiki/Tolkien_and_Diversity)*
+*[Tolkien and Diversity](../../main/T/Tolkien_and_Diversity.md)*
 
 ## Licensing {#Licensing}
 

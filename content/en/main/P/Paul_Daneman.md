@@ -1,6 +1,5 @@
 ---
 title: "Paul Daneman"
-display_title: "<span class=\"mw-page-title-main\">Paul Daneman</span>"
 page_id: 19191
 namespace: 0
 revision_id: 157283
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Daneman, Paul"
 ---
 
-**Paul Daneman** ([October 29](/wiki/29_October "29 October"), [1925](/wiki/1925) - [April 28](/wiki/28_April "28 April"), [2001](/wiki/2001)) was the voice of [Bilbo Baggins](/wiki/Bilbo_Baggins) in *[The Hobbit](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)")* radio adaptation broadcast on BBC Radio 4.
+**Paul Daneman** ([October 29](../_/29_October.md), [1925](../_/1925.md) - [April 28](../_/28_April.md), [2001](../_/2001.md)) was the voice of [Bilbo Baggins](../B/Bilbo_Baggins.md) in *[The Hobbit](<../T/The_Hobbit_(1968_radio_series).md>)* radio adaptation broadcast on BBC Radio 4.
 
 ## External lniks {#External_lniks}
 

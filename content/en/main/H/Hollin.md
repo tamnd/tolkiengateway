@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eregion"
 ---
 
-Redirect to [Eregion](/wiki/Eregion).
+Redirect to [Eregion](../E/Eregion.md).

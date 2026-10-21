@@ -16,26 +16,26 @@ images:
   - "J.R.R._Tolkien_-_Pilinehtar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Pilinehtar.jpg"><img src="/w/images/thumb/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg/300px-J.R.R._Tolkien_-_Pilinehtar.jpg" decoding="async" loading="lazy" width="300" height="344" class="mw-file-element" srcset="/w/images/thumb/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg/450px-J.R.R._Tolkien_-_Pilinehtar.jpg 1.5x, /w/images/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg 2x" data-file-width="550" data-file-height="630"/></a><figcaption><i>Pilinehtar</i> by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Pilinehtar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg/300px-J.R.R._Tolkien_-_Pilinehtar.jpg" decoding="async" loading="lazy" width="300" height="344" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg/450px-J.R.R._Tolkien_-_Pilinehtar.jpg 1.5x, https://tolkiengateway.net/w/images/6/6e/J.R.R._Tolkien_-_Pilinehtar.jpg 2x" data-file-width="550" data-file-height="630"/></a><figcaption><i>Pilinehtar</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-<i><b>Pilinehtar</b></i> is the [Elvish](/wiki/Elvish) name of a plant. The name only appears on a drawing of the plant; [Christopher Tolkien](/wiki/Christopher_Tolkien) describes the physical appearance of the plant as a "*slender rushlike or grasslike \[plant\]*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Pilinehtar</b></i> is the [Elvish](../E/Elvish.md) name of a plant. The name only appears on a drawing of the plant; [Christopher Tolkien](../C/Christopher_Tolkien.md) describes the physical appearance of the plant as a "*slender rushlike or grasslike \[plant\]*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-It has been suggested that *pilinehtar* consists of [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Pilin&amp;action=edit&amp;redlink=1" title="Pilin (page does not exist)">pilin</a></i> ("arrow") + *[ehtar](/wiki/Ehtar "Ehtar")* ("spearman"), features that describe "the shape of \[the plant's\] stems".<sup id="cite_ref-AI_2-0" class="reference"><a href="#cite_note-AI-2">[2]</a></sup>
+It has been suggested that *pilinehtar* consists of [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pilin&amp;action=edit&amp;redlink=1" title="Pilin (page does not exist)">pilin</a></i> ("arrow") + *[ehtar](../E/Ehtar.md)* ("spearman"), features that describe "the shape of \[the plant's\] stems".<sup id="cite_ref-AI_2-0" class="reference"><a href="#cite_note-AI-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- *[linquë súrisse‎](/wiki/Linqu%C3%AB_s%C3%BArisse "Linquë súrisse")*
-- *[súriquessë](/wiki/S%C3%BAriquess%C3%AB "Súriquessë")*
+- *[linquë súrisse‎](../L/Linquë_súrisse.md)*
+- *[súriquessë](../S/Súriquessë.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Pictures_by_J.R.R._Tolkien" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i>, no. 45 (the drawing first appeared in the <i><a href="/wiki/J.R.R._Tolkien_Calendar_1979" title="J.R.R. Tolkien Calendar 1979">J.R.R. Tolkien Calendar 1979</a></i>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i>, no. 45 (the drawing first appeared in the <i><a href="../J/J.R.R._Tolkien_Calendar_1979.md" title="J.R.R. Tolkien Calendar 1979">J.R.R. Tolkien Calendar 1979</a></i>)</span>
 </li>
-<li id="cite_note-AI-2"><span class="mw-cite-backlink"><a href="#cite_ref-AI_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <i><a href="/wiki/J.R.R._Tolkien:_Artist_and_Illustrator" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist &amp; Illustrator</a></i>, p. 199 (note 34)</span>
+<li id="cite_note-AI-2"><span class="mw-cite-backlink"><a href="#cite_ref-AI_2-0">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist &amp; Illustrator</a></i>, p. 199 (note 34)</span>
 </li>
 </ol></div>

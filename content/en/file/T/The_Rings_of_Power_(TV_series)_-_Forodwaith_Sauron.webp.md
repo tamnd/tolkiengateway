@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Forodwaith Sauron.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Forodwaith Sauron.webp</span>"
 page_id: 70756
 namespace: 6
 revision_id: 422670
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Jack Lowden](/wiki/Jack_Lowden) as 'Forodwraith [Sauron](/wiki/Sauron)' in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*
+[Jack Lowden](../../main/J/Jack_Lowden.md) as 'Forodwraith [Sauron](../../main/S/Sauron.md)' in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*
 
 ## Licensing {#Licensing}
 

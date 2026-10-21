@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fell beasts"
 ---
 
-Redirect to [Fell beasts](/wiki/Fell_beasts).
+Redirect to [Fell beasts](Fell_beasts.md).

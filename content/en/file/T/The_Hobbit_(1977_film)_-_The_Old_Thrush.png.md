@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - The Old Thrush.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - The Old Thrush.png</span>"
 page_id: 72325
 namespace: 6
 revision_id: 429836
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="new" href="/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">The Old Thrush</a> - [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">The Old Thrush</a> - [*The Hobbit* (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Licensing {#Licensing}
 

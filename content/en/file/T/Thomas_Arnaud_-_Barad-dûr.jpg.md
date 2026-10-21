@@ -1,6 +1,5 @@
 ---
 title: "File:Thomas Arnaud - Barad-dûr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Thomas Arnaud - Barad-dûr.jpg</span>"
 page_id: 65050
 namespace: 6
 revision_id: 374553
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Thomas Arnaud</li>
 <li><b>Website:</b> <a class="external text" href="https://www.instagram.com/chroma.rtist" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Thomas_Arnaud" title="Tolkien Gateway:Copyrights/Thomas Arnaud">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FThomas_Arnaud.md" title="Tolkien Gateway:Copyrights/Thomas Arnaud">Permission for use on Tolkien Gateway</a></b></li></ul></div>

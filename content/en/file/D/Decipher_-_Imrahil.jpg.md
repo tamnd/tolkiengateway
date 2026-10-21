@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Imrahil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Imrahil.jpg</span>"
 page_id: 71083
 namespace: 6
 revision_id: 426064
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Imrahil](/wiki/Imrahil) - *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *Siege of Gondor*
+[Imrahil](../../main/I/Imrahil.md) - *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *Siege of Gondor*
 
 ## Licensing {#Licensing}
 

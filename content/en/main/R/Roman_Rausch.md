@@ -1,6 +1,5 @@
 ---
 title: "Roman Rausch"
-display_title: "<span class=\"mw-page-title-main\">Roman Rausch</span>"
 page_id: 54039
 namespace: 0
 revision_id: 293204
@@ -19,25 +18,25 @@ sort_keys:
   "People by name": "Rausch, Roman"
 ---
 
-**Roman Rausch** is a German linguist of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s invented [languages](/wiki/Languages "Languages"). He is the creator of the <a class="external text" href="http://www.sindanoorie.net/index.html" rel="noreferrer noopener" target="_blank">Sindanórië</a> website, and one of the [Sindarin](/wiki/Sindarin) translators for the fan-film [Born of Hope](/wiki/Born_of_Hope).
+**Roman Rausch** is a German linguist of [Tolkien](../J/J.R.R._Tolkien.md)'s invented [languages](../L/Languages.md). He is the creator of the <a class="external text" href="http://www.sindanoorie.net/index.html" rel="noreferrer noopener" target="_blank">Sindanórië</a> website, and one of the [Sindarin](../S/Sindarin.md) translators for the fan-film [Born of Hope](../B/Born_of_Hope.md).
 
 ## Bibliography {#Bibliography}
 
-- [2005](/wiki/2005): "Similarities between natural languages and Tolkien's Eldarin"
-- [2005](/wiki/2005): "Enquiry into the Telerin language"
-- [2005](/wiki/2005): "Tal-Elmar and the Drughu tongue"
-- [2006](/wiki/2006): "Agreement of adjectives in Quenya"
-- [2006](/wiki/2006): "Names from *The Return of the Shadow, The Treason of Isengard* and *The War of the Ring*"
-- [2007](/wiki/2007): "Systematic approach to Elvish name translation"
-- [2007](/wiki/2007): "Historical Phonology of Goldogrin"
-- [2008](/wiki/2008): "The Early Noldorin past tense"
-- [2008](/wiki/2008): "On the diphthongs *ei, ai* in Noldorin and Sindarin"
-- [2008](/wiki/2008): "Historical phonologies of Ilkorin, Telerin and Noldorin around 1923"
-- [2008](/wiki/2008): "On the different forms of 'we' in Eldarin"
-- [2009](/wiki/2009): "The Mithrimin dialect of Sindarin"
-- [2013](/wiki/2013): [Arda Philology 4](/wiki/Arda_Philology_4)
-    - "Sound symbolism in Elvish" (presented at [Omentielva Cantea](/wiki/Omentielva "Omentielva") in [2011](/wiki/2011))
-- [2013](/wiki/2013): "Sindarin dictionary statistics"
-- [2015](/wiki/2015): [Arda Philology 5](/wiki/Arda_Philology_5)
-    - "Analyzing Elvish vocabulary and explaining the word *hobbit*" (presented at [Omentielva Lempea](/wiki/Omentielva "Omentielva") in [2013](/wiki/2013))
-- [2015](/wiki/2015): "The Cymricity of Sindarin through Time"
+- [2005](../_/2005.md): "Similarities between natural languages and Tolkien's Eldarin"
+- [2005](../_/2005.md): "Enquiry into the Telerin language"
+- [2005](../_/2005.md): "Tal-Elmar and the Drughu tongue"
+- [2006](../_/2006.md): "Agreement of adjectives in Quenya"
+- [2006](../_/2006.md): "Names from *The Return of the Shadow, The Treason of Isengard* and *The War of the Ring*"
+- [2007](../_/2007.md): "Systematic approach to Elvish name translation"
+- [2007](../_/2007.md): "Historical Phonology of Goldogrin"
+- [2008](../_/2008.md): "The Early Noldorin past tense"
+- [2008](../_/2008.md): "On the diphthongs *ei, ai* in Noldorin and Sindarin"
+- [2008](../_/2008.md): "Historical phonologies of Ilkorin, Telerin and Noldorin around 1923"
+- [2008](../_/2008.md): "On the different forms of 'we' in Eldarin"
+- [2009](../_/2009.md): "The Mithrimin dialect of Sindarin"
+- [2013](../_/2013.md): [Arda Philology 4](../A/Arda_Philology_4.md)
+    - "Sound symbolism in Elvish" (presented at [Omentielva Cantea](../O/Omentielva.md) in [2011](../_/2011.md))
+- [2013](../_/2013.md): "Sindarin dictionary statistics"
+- [2015](../_/2015.md): [Arda Philology 5](../A/Arda_Philology_5.md)
+    - "Analyzing Elvish vocabulary and explaining the word *hobbit*" (presented at [Omentielva Lempea](../O/Omentielva.md) in [2013](../_/2013.md))
+- [2015](../_/2015.md): "The Cymricity of Sindarin through Time"

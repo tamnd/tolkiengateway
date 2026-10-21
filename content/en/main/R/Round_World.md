@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Round World version of the legendarium"
 ---
 
-Redirect to [Round World version of the legendarium](/wiki/Round_World_version_of_the_legendarium).
+Redirect to [Round World version of the legendarium](Round_World_version_of_the_legendarium.md).

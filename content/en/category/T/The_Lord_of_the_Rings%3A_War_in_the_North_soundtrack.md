@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: War in the North soundtrack"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: War in the North soundtrack</span>"
 page_id: 38401
 namespace: 14
 revision_id: 186740

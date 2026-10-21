@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Heath of the Sky-roof"
 ---
 
-Redirect to [Heath of the Sky-roof](/wiki/Heath_of_the_Sky-roof).
+Redirect to [Heath of the Sky-roof](Heath_of_the_Sky-roof.md).

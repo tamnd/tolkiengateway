@@ -1,6 +1,5 @@
 ---
 title: "File:Mirkwood A Novel About JRR Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mirkwood A Novel About JRR Tolkien.jpg</span>"
 page_id: 31078
 namespace: 6
 revision_id: 214546

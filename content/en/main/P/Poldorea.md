@@ -11,4 +11,4 @@ redirect_target: "Tulkas"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Tulkas](/wiki/Tulkas#Etymology).
+Redirect to [Tulkas](../T/Tulkas.md#Etymology).

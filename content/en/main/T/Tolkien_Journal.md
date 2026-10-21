@@ -23,32 +23,30 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a journal from the <a href="/wiki/Tolkien_Society_of_America" title="Tolkien Society of America">Tolkien Society of America</a></b>. For the illustrated notebook, see <b><a href="/wiki/A_Tolkien_Journal" title="A Tolkien Journal">A Tolkien Journal</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a journal from the <a href="Tolkien_Society_of_America.md" title="Tolkien Society of America">Tolkien Society of America</a></b>. For the illustrated notebook, see <b><a href="../A/A_Tolkien_Journal.md" title="A Tolkien Journal">A Tolkien Journal</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-<i><b>Tolkien Journal</b></i>, an anthology of reviews, articles and art about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), was published by the [Tolkien Society of America](/wiki/Tolkien_Society_of_America) (Center Harbor, NH, USA). 15 issues were published from Spring [1965](/wiki/1965) to Summer [1972](/wiki/1972) (aftwerwards, it merged with *[Mythlore](/wiki/Mythlore)*). For three issues, it was a dual-publication with *[Orcrist](</wiki/Orcrist_(journal)> "Orcrist (journal)")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Tolkien Journal</b></i>, an anthology of reviews, articles and art about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), was published by the [Tolkien Society of America](Tolkien_Society_of_America.md) (Center Harbor, NH, USA). 15 issues were published from Spring [1965](../_/1965.md) to Summer [1972](../_/1972.md) (aftwerwards, it merged with *[Mythlore](../M/Mythlore.md)*). For three issues, it was a dual-publication with *[Orcrist](<../O/Orcrist_(journal).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Issues {#Issues}
 
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.1,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.1, No.1) (page does not exist)">Tolkien Journal (Vol.1, No.1)</a>
-- [Tolkien Journal (Vol.1, No.2)](</wiki/Tolkien_Journal_(Vol.1,_No.2)>)
-- [Tolkien Journal (Vol.2, No.1)](</wiki/Tolkien_Journal_(Vol.2,_No.1)>)
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.2,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.2) (page does not exist)">Tolkien Journal (Vol.2, No.2)</a>
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.2,_No.3)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.3) (page does not exist)">Tolkien Journal (Vol.2, No.3)</a>
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.2,_No.4)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.4) (page does not exist)">Tolkien Journal (Vol.2, No.4)</a>
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.3,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.3, No.1) (page does not exist)">Tolkien Journal (Vol.3, No.1)</a>
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.3,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.3, No.2) (page does not exist)">Tolkien Journal (Vol.3, No.2)</a>
-- [Tolkien Journal (Vol.3, No.3)](</wiki/Tolkien_Journal_(Vol.3,_No.3)>)
-- [Tolkien Journal (Vol.3, No.4)](</wiki/Tolkien_Journal_(Vol.3,_No.4)>)
-- [Tolkien Journal (Vol.4, No.1)](/wiki/Orcrist_3 "Orcrist 3")
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.4,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.4, No.2) (page does not exist)">Tolkien Journal (Vol.4, No.2)</a>
-- [Tolkien Journal (Vol.4, No.3)](/wiki/Orcrist_4 "Orcrist 4")
-- [Tolkien Journal (Vol.4, No.4)](/wiki/Orcrist_5 "Orcrist 5")
-- <a class="new" href="/w/index.php?title=Tolkien_Journal_(Vol.5,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.5, No.1) (page does not exist)">Tolkien Journal (Vol.5, No.1)</a>
-- [Tolkien Journal (Vol.5, No.2)](/wiki/Mythlore_9 "Mythlore 9")
-- [Tolkien Journal (Vol.5, No.3)](/wiki/Mythlore_10 "Mythlore 10")
-- [Tolkien Journal (Vol.5, No.4)](/wiki/Mythlore_11 "Mythlore 11")
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.1,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.1, No.1) (page does not exist)">Tolkien Journal (Vol.1, No.1)</a>
+- [Tolkien Journal (Vol.1, No.2)](<Tolkien_Journal_(Vol.1,_No.2).md>)
+- [Tolkien Journal (Vol.2, No.1)](<Tolkien_Journal_(Vol.2,_No.1).md>)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.2,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.2) (page does not exist)">Tolkien Journal (Vol.2, No.2)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.2,_No.3)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.3) (page does not exist)">Tolkien Journal (Vol.2, No.3)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.2,_No.4)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.2, No.4) (page does not exist)">Tolkien Journal (Vol.2, No.4)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.3,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.3, No.1) (page does not exist)">Tolkien Journal (Vol.3, No.1)</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.3,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.3, No.2) (page does not exist)">Tolkien Journal (Vol.3, No.2)</a>
+- [Tolkien Journal (Vol.3, No.3)](<Tolkien_Journal_(Vol.3,_No.3).md>)
+- [Tolkien Journal (Vol.3, No.4)](<Tolkien_Journal_(Vol.3,_No.4).md>)
+- [Tolkien Journal (Vol.4, No.1)](../O/Orcrist_3.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.4,_No.2)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.4, No.2) (page does not exist)">Tolkien Journal (Vol.4, No.2)</a>
+- [Tolkien Journal (Vol.4, No.3)](../O/Orcrist_4.md)
+- [Tolkien Journal (Vol.4, No.4)](../O/Orcrist_5.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_(Vol.5,_No.1)&amp;action=edit&amp;redlink=1" title="Tolkien Journal (Vol.5, No.1) (page does not exist)">Tolkien Journal (Vol.5, No.1)</a>
+- [Tolkien Journal (Vol.5, No.2)](../M/Mythlore_9.md)
+- [Tolkien Journal (Vol.5, No.3)](../M/Mythlore_10.md)
+- [Tolkien Journal (Vol.5, No.4)](../M/Mythlore_11.md)
 
 ## External links {#External_links}
 

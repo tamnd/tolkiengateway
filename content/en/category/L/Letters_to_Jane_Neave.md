@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Jane Neave"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Jane Neave</span>"
 page_id: 68277
 namespace: 14
 revision_id: 401577
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Neave, Jane"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Jane Neave](/wiki/Jane_Neave).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Jane Neave](../../main/J/Jane_Neave.md).

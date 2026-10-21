@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Martina Pilcerova"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Martina Pilcerova</span>"
 page_id: 74870
 namespace: 14
 revision_id: 440545
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Pilcerova, Martina"
 ---
 
-This category lists all **images by [Martina Pilcerova](/wiki/Martina_Pilcerova)**.
+This category lists all **images by [Martina Pilcerova](../../main/M/Martina_Pilcerova.md)**.

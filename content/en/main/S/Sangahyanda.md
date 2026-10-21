@@ -11,4 +11,4 @@ redirect_target: "Sangahyando"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Sangahyando](/wiki/Sangahyando#Etymology).
+Redirect to [Sangahyando](Sangahyando.md#Etymology).

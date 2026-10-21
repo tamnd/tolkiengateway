@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from War of the Ring: The Card Game"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from War of the Ring: The Card Game</span>"
 page_id: 71460
 namespace: 14
 revision_id: 427427
@@ -15,4 +14,4 @@ sort_keys:
   "Images of card games": "War of the Ring: The Card Game"
 ---
 
-Images from *[War of the Ring: The Card Game](/wiki/War_of_the_Ring:_The_Card_Game)*
+Images from *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*

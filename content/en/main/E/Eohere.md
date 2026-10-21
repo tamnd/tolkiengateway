@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éoherë"
 ---
 
-Redirect to [Éoherë](/wiki/Éoherë).
+Redirect to [Éoherë](../_/Éoherë.md).

@@ -16,12 +16,12 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**kalab** is an [Adûnaic](/wiki/Ad%C3%BBnaic) verb root meaning "to fall down" or "to lean over".
+**kalab** is an [Adûnaic](../A/Adûnaic.md) verb root meaning "to fall down" or "to lean over".
 
 ## Example {#Example}
 
-- [Akallabêth](/wiki/Akallab%C3%AAth), "she that has fallen"
-- <a class="new" href="/w/index.php?title=Yakalubim&amp;action=edit&amp;redlink=1" title="Yakalubim (page does not exist)">yakalubim</a> "they lean over"
+- [Akallabêth](../A/Akallabêth.md), "she that has fallen"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yakalubim&amp;action=edit&amp;redlink=1" title="Yakalubim (page does not exist)">yakalubim</a> "they lean over"
 
 ## References {#References}
 

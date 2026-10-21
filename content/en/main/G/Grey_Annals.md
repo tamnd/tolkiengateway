@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Grey Annals"
 ---
 
-Redirect to [The Grey Annals](/wiki/The_Grey_Annals).
+Redirect to [The Grey Annals](../T/The_Grey_Annals.md).

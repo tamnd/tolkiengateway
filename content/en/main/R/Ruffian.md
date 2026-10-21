@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ruffians"
 ---
 
-Redirect to [Ruffians](/wiki/Ruffians).
+Redirect to [Ruffians](Ruffians.md).

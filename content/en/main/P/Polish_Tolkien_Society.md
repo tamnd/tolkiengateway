@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sekcja Tolkienowska ŚKF"
 ---
 
-Redirect to [Sekcja Tolkienowska ŚKF](/wiki/Sekcja_Tolkienowska_ŚKF).
+Redirect to [Sekcja Tolkienowska ŚKF](../S/Sekcja_Tolkienowska_ŚKF.md).

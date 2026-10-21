@@ -1,6 +1,5 @@
 ---
 title: "File:The Dungeons of Moria (video game) - Gameplay.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Dungeons of Moria (video game) - Gameplay.png</span>"
 page_id: 48965
 namespace: 6
 revision_id: 262738

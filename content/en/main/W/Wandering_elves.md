@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wandering Companies"
 ---
 
-Redirect to [Wandering Companies](/wiki/Wandering_Companies).
+Redirect to [Wandering Companies](Wandering_Companies.md).

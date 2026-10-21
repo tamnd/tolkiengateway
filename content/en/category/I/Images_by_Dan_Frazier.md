@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Dan Frazier"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Dan Frazier</span>"
 page_id: 70946
 namespace: 14
 revision_id: 423630

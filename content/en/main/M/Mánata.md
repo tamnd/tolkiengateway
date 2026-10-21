@@ -19,11 +19,11 @@ sort_keys:
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">MAN</a> <span></span>
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAN&amp;action=edit&amp;redlink=1" title="MAN (page does not exist)">MAN</a> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p.39</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p.39</span>
 </li>
 </ol></div>

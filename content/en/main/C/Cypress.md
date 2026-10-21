@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cypresses"
 ---
 
-Redirect to [Cypresses](/wiki/Cypresses).
+Redirect to [Cypresses](Cypresses.md).

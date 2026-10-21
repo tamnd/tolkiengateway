@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Plan of Farmer Cotton's House.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Plan of Farmer Cotton&#039;s House.png</span>"
 page_id: 71643
 namespace: 6
 revision_id: 427020
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Plan of [Farmer Cotton](/wiki/Farmer_Cotton)'s House" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+"Plan of [Farmer Cotton](../../main/F/Farmer_Cotton.md)'s House" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Games"
 ---
 
-Redirect to [Portal:Games](/wiki/Portal:Games).
+Redirect to [Portal:Games](../../portal/G/Games.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egladil"
 ---
 
-Redirect to [Egladil](/wiki/Egladil).
+Redirect to [Egladil](../E/Egladil.md).

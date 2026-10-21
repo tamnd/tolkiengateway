@@ -1,6 +1,5 @@
 ---
 title: "File:Road to Middle-earth 2005.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Road to Middle-earth 2005.jpg</span>"
 page_id: 26343
 namespace: 6
 revision_id: 352107

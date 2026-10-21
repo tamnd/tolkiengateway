@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Angrist.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Angrist.jpg</span>"
 page_id: 70722
 namespace: 6
 revision_id: 422198
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Angrist](/wiki/Angrist)*", by <a class="external text" href="https://www.deviantart.com/artigas/art/ANGRIST-1041045534" rel="noreferrer noopener" target="_blank">Artigas</a>
+"*[Angrist](../../main/A/Angrist.md)*", by <a class="external text" href="https://www.deviantart.com/artigas/art/ANGRIST-1041045534" rel="noreferrer noopener" target="_blank">Artigas</a>
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">Artigas&#39;s DeviantArt account</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

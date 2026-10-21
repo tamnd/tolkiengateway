@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Shelob Attacks.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Shelob Attacks.jpg</span>"
 page_id: 73145
 namespace: 6
 revision_id: 432963
@@ -37,15 +36,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/9470-1/Shelob-Attacks" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/9470-1/Shelob-Attacks</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

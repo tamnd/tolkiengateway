@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-lë"
 ---
 
-Redirect to [-lë](/wiki/-lë).
+Redirect to [-lë](../_/-lë.md).

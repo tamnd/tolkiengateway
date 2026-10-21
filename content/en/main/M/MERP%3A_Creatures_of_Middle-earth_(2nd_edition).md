@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Creatures of Middle-earth (2nd edition)"
 ---
 
-Redirect to [Creatures of Middle-earth (2nd edition)](/wiki/Creatures_of_Middle-earth_(2nd_edition)).
+Redirect to [Creatures of Middle-earth (2nd edition)](<../C/Creatures_of_Middle-earth_(2nd_edition).md>).

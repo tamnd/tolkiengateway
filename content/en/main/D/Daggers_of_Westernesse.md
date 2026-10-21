@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barrow-blades"
 ---
 
-Redirect to [Barrow-blades](/wiki/Barrow-blades).
+Redirect to [Barrow-blades](../B/Barrow-blades.md).

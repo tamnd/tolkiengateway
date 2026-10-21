@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Dr. Denis Tolhurst"
 ---
 
-Redirect to [Letter to Dr. Denis Tolhurst](/wiki/Letter_to_Dr._Denis_Tolhurst).
+Redirect to [Letter to Dr. Denis Tolhurst](../L/Letter_to_Dr._Denis_Tolhurst.md).

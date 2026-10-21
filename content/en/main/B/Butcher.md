@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bill Butcher"
 ---
 
-Redirect to [Bill Butcher](/wiki/Bill_Butcher).
+Redirect to [Bill Butcher](Bill_Butcher.md).

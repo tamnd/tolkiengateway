@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kwāra"
 ---
 
-Redirect to [Kwāra](/wiki/Kwāra).
+Redirect to [Kwāra](Kwāra.md).

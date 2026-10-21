@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yestarë"
 ---
 
-Redirect to [Yestarë](/wiki/Yestarë).
+Redirect to [Yestarë](Yestarë.md).

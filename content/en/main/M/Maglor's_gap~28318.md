@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maglor's Gap"
 ---
 
-Redirect to [Maglor's Gap](/wiki/Maglor's_Gap).
+Redirect to [Maglor's Gap](Maglor's_Gap.md).

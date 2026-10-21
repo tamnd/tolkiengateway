@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Royal Road"
 ---
 
-Redirect to [Royal Road](/wiki/Royal_Road).
+Redirect to [Royal Road](../R/Royal_Road.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forochel"
 ---
 
-Redirect to [Forochel](/wiki/Forochel).
+Redirect to [Forochel](../F/Forochel.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Published articles by J.R.R. Tolkien"
 ---
 
-Redirect to [Category:Published articles by J.R.R. Tolkien](/wiki/Category:Published_articles_by_J.R.R._Tolkien).
+Redirect to [Category:Published articles by J.R.R. Tolkien](../../category/P/Published_articles_by_J.R.R._Tolkien.md).

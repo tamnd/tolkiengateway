@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Elbereth Gilthoniel.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Elbereth Gilthoniel.mp3</span>"
 page_id: 71066
 namespace: 6
 revision_id: 424383
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads the [A Elbereth Gilthoniel](/wiki/A_Elbereth_Gilthoniel)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads the [A Elbereth Gilthoniel](../../main/A/A_Elbereth_Gilthoniel.md)
 
 ## Licensing {#Licensing}
 

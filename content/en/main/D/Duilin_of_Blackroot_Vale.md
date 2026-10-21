@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duilin (son of Duinhir)"
 ---
 
-Redirect to [Duilin (son of Duinhir)](/wiki/Duilin_(son_of_Duinhir)).
+Redirect to [Duilin (son of Duinhir)](<Duilin_(son_of_Duinhir).md>).

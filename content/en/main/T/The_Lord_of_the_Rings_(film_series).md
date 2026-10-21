@@ -56,13 +56,9 @@ infobox:
     value: "Official Website"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/The_Lord_of_the_Rings_(disambiguation)" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_(film_series)_-_logo.jpg"><img src="/w/images/thumb/c/ca/The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg/320px-The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg" decoding="async" loading="lazy" width="320" height="109" class="mw-file-element" srcset="/w/images/c/ca/The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg 1.5x" data-file-width="420" data-file-height="143"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data">Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<br/>Stephen Sinclair<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><br/><b>(screenplay)</b><br/><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R.Tolkien</a><br/><b>(novels)</b></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/><a href="/wiki/Fran_Walsh" title="Fran Walsh">Fran Walsh</a><br/>Barrie M. Osborne<br/><a href="/wiki/Philippa_Boyens" title="Philippa Boyens">Philippa Boyens</a><br/>Tim Sanders<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="/wiki/Elijah_Wood" title="Elijah Wood">Elijah Wood</a><br/><a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a><br/><a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a><br/><i><a class="mw-selflink-fragment" href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="/wiki/Andrew_Lesnie" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">John Gilbert<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup><br/>Michael Horton<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup><br/>Jamie Selkirk<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 5]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="/wiki/Howard_Shore" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a><br/><a href="/wiki/WingNut_Films" title="WingNut Films">WingNut Films</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">New Line Cinema<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 6]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><i><b>The Fellowship of the Ring</b></i>: 19 December 2001<br/><i><b>The Two Towers</b></i>: 18 December 2002<br/><i><b>The Return of the King</b></i>: 17 December 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">557 minutes (Theatrical Edition)<br/>681 minutes (Extended Edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">New Zealand<br/>United Kingdom<br/>United States</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Official Website</a></td></tr></tbody></table>
-
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(film_series)_-_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ca/The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg/320px-The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg" decoding="async" loading="lazy" width="320" height="109" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/ca/The_Lord_of_the_Rings_%28film_series%29_-_logo.jpg 1.5x" data-file-width="420" data-file-height="143"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data">Peter Jackson<br/>Fran Walsh<br/>Philippa Boyens<br/>Stephen Sinclair<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><br/><b>(screenplay)</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R.Tolkien</a><br/><b>(novels)</b></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a><br/>Barrie M. Osborne<br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Tim Sanders<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../E/Elijah_Wood.md" title="Elijah Wood">Elijah Wood</a><br/><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a><br/><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a><br/><i><a class="mw-selflink-fragment" href="#Cast">See cast section below for more</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">John Gilbert<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup><br/>Michael Horton<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 4]</a></sup><br/>Jamie Selkirk<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 5]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">New Line Cinema<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 6]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><i><b>The Fellowship of the Ring</b></i>: 19 December 2001<br/><i><b>The Two Towers</b></i>: 18 December 2002<br/><i><b>The Return of the King</b></i>: 17 December 2003</td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">557 minutes (Theatrical Edition)<br/>681 minutes (Extended Edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">New Zealand<br/>United Kingdom<br/>United States</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Official Website</a></td></tr></tbody></table>
 
 <blockquote class="tg-quote noexcerpt">
 <p>It&#39;s just going to be...I&#39;m trying to think of the right word - without making it sound like the usual fashionable superlative. I think it will create film history. I think it&#39;s going to have the biggest impact, on screen, of anything of the last 40 or 50 years
@@ -70,15 +66,13 @@ infobox:
 <p class="tg-quote-footer"><cite>Christopher Lee, SFX Magazine June #65</cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+<i><b>The Lord of the Rings</b></i> is a movie series consisting of three live-action films: *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, *[The Lord of the Rings:](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* [*The Two Towers*](The_Lord_of_the_Rings%253A_The_Two_Towers.md), and *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. All three films were directed by [Peter Jackson](../P/Peter_Jackson.md) and were based upon the *[The Lord of the Rings](The_Lord_of_the_Rings.md)* books by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-<i><b>The Lord of the Rings</b></i> is a movie series consisting of three live-action films: *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*, *[The Lord of the Rings:](/wiki/The_Lord_of_the_Rings:_The_Two_Towers "The Lord of the Rings: The Two Towers")* [*The Two Towers*](/wiki/The_Lord_of_the_Rings:_The_Two_Towers "The Lord of the Rings: The Two Towers"), and *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. All three films were directed by [Peter Jackson](/wiki/Peter_Jackson) and were based upon the *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* books by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Principal photography for all three films took place in [New Zealand](../N/New_Zealand.md) over a continuous eighteen-month period. It was the first time that three films had ever been shot together in this way, although some pairs of films had. There were several later "pick-up" shoots over the following months and years as the films were edited, special effects, were added, and the script was honed and revised.
 
-Principal photography for all three films took place in [New Zealand](/wiki/New_Zealand) over a continuous eighteen-month period. It was the first time that three films had ever been shot together in this way, although some pairs of films had. There were several later "pick-up" shoots over the following months and years as the films were edited, special effects, were added, and the script was honed and revised.
-
-- *The Lord of the Rings: The Fellowship of the Ring* was released in December [2001](/wiki/2001), and won the <a class="new" href="/w/index.php?title=Hugo_Award&amp;action=edit&amp;redlink=1" title="Hugo Award (page does not exist)">Hugo Award</a> for Best Dramatic Presentation of 2001.
-- *The Lord of the Rings: The Two Towers* was released in December [2002](/wiki/2002).
-- *The Lord of the Rings: The Return of the King* was released in December [2003](/wiki/2003), and won all eleven of the <a class="new" href="/w/index.php?title=Academy_Awards&amp;action=edit&amp;redlink=1" title="Academy Awards (page does not exist)">Academy Awards</a> for which it was nominated, including the award for Best Picture.
+- *The Lord of the Rings: The Fellowship of the Ring* was released in December [2001](../_/2001.md), and won the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hugo_Award&amp;action=edit&amp;redlink=1" title="Hugo Award (page does not exist)">Hugo Award</a> for Best Dramatic Presentation of 2001.
+- *The Lord of the Rings: The Two Towers* was released in December [2002](../_/2002.md).
+- *The Lord of the Rings: The Return of the King* was released in December [2003](../_/2003.md), and won all eleven of the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Academy_Awards&amp;action=edit&amp;redlink=1" title="Academy Awards (page does not exist)">Academy Awards</a> for which it was nominated, including the award for Best Picture.
 
 ## Differences from the book {#Differences_from_the_book}
 
@@ -89,91 +83,89 @@ The films, for the most part, follow the storyline of the book. However, there a
 Principal actors and actresses include:
 
 <table class="wikitable mw-collapsible">
-<!-- -->
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th>Role</th>
 <th>Actor
 </th></tr>
 <tr>
-<td><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a></td>
-<td><a href="/wiki/Elijah_Wood" title="Elijah Wood">Elijah Wood</a>
+<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></td>
+<td><a href="../E/Elijah_Wood.md" title="Elijah Wood">Elijah Wood</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></td>
-<td><a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a>
-</td></tr>
-<!-- -->
-<tr>
-<td><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a></td>
-<td><a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></td>
+<td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Arwen" title="Arwen">Arwen</a></td>
-<td><a href="/wiki/Liv_Tyler" title="Liv Tyler">Liv Tyler</a>
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></td>
+<td><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Samwise Gamgee</a></td>
-<td><a href="/wiki/Sean_Astin" title="Sean Astin">Sean Astin</a>
+<td><a href="../A/Arwen.md" title="Arwen">Arwen</a></td>
+<td><a href="../L/Liv_Tyler.md" title="Liv Tyler">Liv Tyler</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Saruman" title="Saruman">Saruman</a></td>
-<td><a href="/wiki/Christopher_Lee" title="Christopher Lee">Christopher Lee</a>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a></td>
+<td><a href="../S/Sean_Astin.md" title="Sean Astin">Sean Astin</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Legolas" title="Legolas">Legolas</a></td>
-<td><a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman</a></td>
+<td><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Gimli" title="Gimli">Gimli</a>, voice of <a href="/wiki/Treebeard" title="Treebeard">Treebeard</a></td>
-<td><a href="/wiki/John_Rhys-Davies" title="John Rhys-Davies">John Rhys-Davies</a>
+<td><a href="../L/Legolas.md" title="Legolas">Legolas</a></td>
+<td><a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Elrond" title="Elrond">Elrond</a></td>
-<td><a href="/wiki/Hugo_Weaving" title="Hugo Weaving">Hugo Weaving</a>
+<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>, voice of <a href="Treebeard.md" title="Treebeard">Treebeard</a></td>
+<td><a href="../J/John_Rhys-Davies.md" title="John Rhys-Davies">John Rhys-Davies</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a></td>
-<td><a href="/wiki/Cate_Blanchett" title="Cate Blanchett">Cate Blanchett</a>
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a></td>
+<td><a href="../H/Hugo_Weaving.md" title="Hugo Weaving">Hugo Weaving</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a></td>
-<td><a href="/wiki/Dominic_Monaghan" title="Dominic Monaghan">Dominic Monaghan</a>
+<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a></td>
+<td><a href="../C/Cate_Blanchett.md" title="Cate Blanchett">Cate Blanchett</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Peregrin_Took" title="Peregrin Took">Peregrin Took</a></td>
-<td><a href="/wiki/Billy_Boyd" title="Billy Boyd">Billy Boyd</a>
+<td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a></td>
+<td><a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a></td>
-<td><a href="/wiki/Miranda_Otto" title="Miranda Otto">Miranda Otto</a>
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a></td>
+<td><a href="../B/Billy_Boyd.md" title="Billy Boyd">Billy Boyd</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/%C3%89omer" title="Éomer">Éomer</a></td>
-<td><a href="/wiki/Karl_Urban" title="Karl Urban">Karl Urban</a>
+<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a></td>
+<td><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a></td>
-<td><a href="/wiki/Bernard_Hill" title="Bernard Hill">Bernard Hill</a>
+<td><a href="../_/Éomer.md" title="Éomer">Éomer</a></td>
+<td><a href="../K/Karl_Urban.md" title="Karl Urban">Karl Urban</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Gr%C3%ADma" title="Gríma">Gríma Wormtongue</a></td>
-<td><a href="/wiki/Brad_Dourif" title="Brad Dourif">Brad Dourif</a>
+<td><a href="Théoden.md" title="Théoden">Théoden</a></td>
+<td><a href="../B/Bernard_Hill.md" title="Bernard Hill">Bernard Hill</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Boromir" title="Boromir">Boromir</a></td>
-<td><a href="/wiki/Sean_Bean" title="Sean Bean">Sean Bean</a>
+<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a></td>
+<td><a href="../B/Brad_Dourif.md" title="Brad Dourif">Brad Dourif</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Faramir" title="Faramir">Faramir</a></td>
-<td><a href="/wiki/David_Wenham" title="David Wenham">David Wenham</a>
+<td><a href="../B/Boromir.md" title="Boromir">Boromir</a></td>
+<td><a href="../S/Sean_Bean.md" title="Sean Bean">Sean Bean</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Denethor" title="Denethor">Denethor II</a></td>
-<td><a href="/wiki/John_Noble" title="John Noble">John Noble</a>
+<td><a href="../F/Faramir.md" title="Faramir">Faramir</a></td>
+<td><a href="../D/David_Wenham.md" title="David Wenham">David Wenham</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Gollum" title="Gollum">Gollum/Sméagol</a></td>
-<td><a href="/wiki/Andy_Serkis" title="Andy Serkis">Andy Serkis</a>
+<td><a href="../D/Denethor.md" title="Denethor">Denethor II</a></td>
+<td><a href="../J/John_Noble.md" title="John Noble">John Noble</a>
+</td></tr>
+<tr>
+<td><a href="../G/Gollum.md" title="Gollum">Gollum/Sméagol</a></td>
+<td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a>
 </td></tr></tbody></table>
 
 ## Facts and figures {#Facts_and_figures}
@@ -182,9 +174,9 @@ Principal actors and actresses include:
 - Swords, axes, shields and makeup prostheses created: **48,000**
 - Background actors cast: **20,602**
 - Costumes produced by the wardrobe department: **19,000**
-- New Zealand cricket fans enlisted to create the [Orc](/wiki/Orcs "Orcs") army's grunts: **10,000**
+- New Zealand cricket fans enlisted to create the [Orc](../O/Orcs.md) army's grunts: **10,000**
 - Behind-the-scenes crew members: **2,400** at the height of production
-- Pairs of prosthetic [Hobbit](/wiki/Hobbits "Hobbits") feet created: **1,600**
+- Pairs of prosthetic [Hobbit](../H/Hobbits.md) feet created: **1,600**
 - Most real horses in one scene: **250**
 - Computer special-effects artists employed: **180**
 - Total speaking roles: **114**
@@ -214,17 +206,17 @@ The Awards were as follows (A Win is marked by a "W"):
 - **Sound** \[*Fellowship*, *Two Towers*\]
 - **Sound Editing** \[*Two Towers*\]
 - **Sound Mixing** \[*King* (W)\]
-- **Supporting Actor** \[*Fellowship*: [Ian McKellen](/wiki/Ian_McKellen) ("[Gandalf](/wiki/Gandalf)")\]
+- **Supporting Actor** \[*Fellowship*: [Ian McKellen](../I/Ian_McKellen.md) ("[Gandalf](../G/Gandalf.md)")\]
 - **Visual Effects** \[*Fellowship* (W), *Two Towers* (W), *King* (W)\]
 - **Writing** (Previously Produced or Published) \[*Fellowship*, *King* (W)\]
 
 ## Early development {#Early_development}
 
-Growing up in New Zealand, Peter Jackson had "heard" of *Lord of the Rings,* his childhood friend Andrew Neal having been a lifelong fan.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">[4]</a></sup> Interested in fantasy films from early childhood, Jackson saw Ralph Bakshi's *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")* when it premiered in New Zealand. Although he "liked the early part"<sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11">[5]</a></sup> he found the film "disjointed" but wanted to know more. A few weeks later he picked up a tie-in paperback which he read over the following months. He later followed this up by the [1981 radio serial](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"), which he would keep on listening to while working in his garage in the 1980s.
+Growing up in New Zealand, Peter Jackson had "heard" of *Lord of the Rings,* his childhood friend Andrew Neal having been a lifelong fan.<sup id="cite_ref-:0_10-0" class="reference"><a href="#cite_note-:0-10">[4]</a></sup> Interested in fantasy films from early childhood, Jackson saw Ralph Bakshi's *[The Lord of the Rings](<The_Lord_of_the_Rings_(1978_film).md>)* when it premiered in New Zealand. Although he "liked the early part"<sup id="cite_ref-:1_11-0" class="reference"><a href="#cite_note-:1-11">[5]</a></sup> he found the film "disjointed" but wanted to know more. A few weeks later he picked up a tie-in paperback which he read over the following months. He later followed this up by the [1981 radio serial](<The_Lord_of_the_Rings_(1981_radio_series).md>), which he would keep on listening to while working in his garage in the 1980s.
 
 Although he assumed it would eventually be adapted to live-action - he later read with interest of attempts to entice David Lean or Stanley Kubrick to direct - he remembers that "there was no romantic moment that had me sitting on the train thinking, 'One day I will make a film of this book!"<sup id="cite_ref-:1_11-1" class="reference"><a href="#cite_note-:1-11">[5]</a></sup> Nevertheless, Jackson kept on entertaining notions of making a fantasy film somewhat in the Tolkien mould. For his first 16mm film in 1983, Jackson was inspired to make a *Conan the Barbarian-*type film, getting as far as making swords and a Troll prosthetic before aborting the project in favour of *Bad Taste*. After completing this, his first feature, he worked with Dany Mulheron on a "Terry Gilliam-esque" film called "*Blubberhead*."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[6]</a></sup> The script, completed in 1992, got Jackson a start at New Line Cinema but went no further.
 
-In early November 1995, towards the end of shooting on his first Hollywood picture, *The Frighteners*, Jackson entertained notions of proceeding with <i>Blubberhead.<sup id="cite_ref-:0_10-1" class="reference"><a href="#cite_note-:0-10">[4]</a></sup></i> His now-partner [Fran Walsh](/wiki/Fran_Walsh) opined that some elements were too deriviative of *Lord of the Rings* and *The Hobbit.* After a period of discussing this, they decided to proceed with adapting Tolkien's novels: this entailed starting with *The Hobbit,* which Jackson had not in fact read prior to this point and promptly set to read.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[7]</a></sup> A few days later, their agent [Ken Kamins](/wiki/Ken_Kamins) tracked the rights to producer [Saul Zaentz](/wiki/Saul_Zaentz). They were signed on a first look deal with Miramax, and although there was some question as to whether the scope of the project was covered in the deal, they decided to approach the studio in the specific interest of having a studio onboard for the negotiations with Zaentz. As it turned out, Miramax had just helped Zaentz' produce *The English Patient*.<sup id="cite_ref-:2_14-0" class="reference"><a href="#cite_note-:2-14">[8]</a></sup>
+In early November 1995, towards the end of shooting on his first Hollywood picture, *The Frighteners*, Jackson entertained notions of proceeding with <i>Blubberhead.<sup id="cite_ref-:0_10-1" class="reference"><a href="#cite_note-:0-10">[4]</a></sup></i> His now-partner [Fran Walsh](../F/Fran_Walsh.md) opined that some elements were too deriviative of *Lord of the Rings* and *The Hobbit.* After a period of discussing this, they decided to proceed with adapting Tolkien's novels: this entailed starting with *The Hobbit,* which Jackson had not in fact read prior to this point and promptly set to read.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[7]</a></sup> A few days later, their agent [Ken Kamins](../K/Ken_Kamins.md) tracked the rights to producer [Saul Zaentz](../S/Saul_Zaentz.md). They were signed on a first look deal with Miramax, and although there was some question as to whether the scope of the project was covered in the deal, they decided to approach the studio in the specific interest of having a studio onboard for the negotiations with Zaentz. As it turned out, Miramax had just helped Zaentz' produce *The English Patient*.<sup id="cite_ref-:2_14-0" class="reference"><a href="#cite_note-:2-14">[8]</a></sup>
 
 Note that the timetables here are a little murky: Kamins remembers talking to Miramax in "Late september" 1995,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[9]</a></sup> which is certainly false since Jackson was still entertaining *Blubberhead* in November. Most accounts put the discussions as taking place partway through post-production on *The Frighteners*, and Ian Nathan dates them to February 1996.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[10]</a></sup> Jackson himself remembers it being in November 1995.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[11]</a></sup> He was surely already discussing it with Walsh by this point — Jackson at one point remembers proposing to adapt *The Lord of the Rings* during a sunday they had off during the shoot<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[12]</a></sup> — they definitely could have pitched it later that month. In another interview, he remembers being in a hotel in Syndey "in 1995 or 1996"<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[13]</a></sup> which might suggest the holidays following the end of filming. So although the pitch probably happened in late November 1995, it could also have happened as late as February 1996.
 
@@ -232,7 +224,7 @@ Note that the timetables here are a little murky: Kamins remembers talking to Mi
 
 ### Pitch {#Pitch}
 
-Although he was aware that it would take more films to do the books justice, Jackson pitched a trilogy: they'd film *The Hobbit* and, were that to prove succesfull, they'll produce two *Lord of the Rings* films back-to-back. Complications arose when it became apparent that the rights for *The Hobbit* were split between Zaentz (who held the production rights) and [Metro Goldwyn-Mayer](/wiki/MGM "MGM") (who held the distribution rights) and while an attempt was made to buy them out, the bankrupt studio was reluctant to do so. Furthermore, both Jackson and Miramax chief Harvey Weinstein were reluctant to see Zaentz personally involved in the production which delayed negotiations.<sup id="cite_ref-:2_14-1" class="reference"><a href="#cite_note-:2-14">[8]</a></sup>
+Although he was aware that it would take more films to do the books justice, Jackson pitched a trilogy: they'd film *The Hobbit* and, were that to prove succesfull, they'll produce two *Lord of the Rings* films back-to-back. Complications arose when it became apparent that the rights for *The Hobbit* were split between Zaentz (who held the production rights) and [Metro Goldwyn-Mayer](../M/MGM.md) (who held the distribution rights) and while an attempt was made to buy them out, the bankrupt studio was reluctant to do so. Furthermore, both Jackson and Miramax chief Harvey Weinstein were reluctant to see Zaentz personally involved in the production which delayed negotiations.<sup id="cite_ref-:2_14-1" class="reference"><a href="#cite_note-:2-14">[8]</a></sup>
 
 Jackson had declined other projects, including a remake of his childhood favourite *King Kong* in order to focus on his Tolkien adaptations, but since the project was concieved largely to keep Jackson's special effects company WetaFX from disbanding after *The Frighteners*, he was becoming worried of the protracted negotiations and agreed to direct K*ing Kong* in April 1996. As a result, Universal temporarily became a partner on the Tolkien project, now billed as two *Lord of the Ring*s films, while Miramax became partners on *King Kong* and *Shakespeare in Love*.<sup id="cite_ref-:2_14-2" class="reference"><a href="#cite_note-:2-14">[8]</a></sup>
 
@@ -308,17 +300,17 @@ After the success of Fellowship of the Ring, they set some time aside for Fellow
 
 <br>
 
-The three live action films (supplemented with extensive computer-generated imagery, for example in the major battle scenes, using the "<a class="new" href="/w/index.php?title=Massive&amp;action=edit&amp;redlink=1" title="Massive (page does not exist)">Massive</a>" software) were filmed simultaneously. Jackson filmed all the major scenes in his native New Zealand. *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)* was released on [December 19](/wiki/19_December "19 December"), [2001](/wiki/2001). *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)* was released on [December 18](/wiki/18_December "18 December"), [2002](/wiki/2002). Finally, *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)* was released worldwide on [December 17](/wiki/17_December "17 December"), [2003](/wiki/2003). All three films won the Hugo Award for Best (Long-form) Dramatic Presentation in their respective years.
+The three live action films (supplemented with extensive computer-generated imagery, for example in the major battle scenes, using the "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Massive&amp;action=edit&amp;redlink=1" title="Massive (page does not exist)">Massive</a>" software) were filmed simultaneously. Jackson filmed all the major scenes in his native New Zealand. *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* was released on [December 19](../_/19_December.md), [2001](../_/2001.md). *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)* was released on [December 18](../_/18_December.md), [2002](../_/2002.md). Finally, *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* was released worldwide on [December 17](../_/17_December.md), [2003](../_/2003.md). All three films won the Hugo Award for Best (Long-form) Dramatic Presentation in their respective years.
 
-Although some have criticized the films because of their alterations to the story and, many would argue, noticeably different tone from Tolkien's original vision, others have hailed them as remarkable achievements. [Peter Jackson](/wiki/Peter_Jackson) has defended his changes by stating that he views the films merely as one man's interpretation.
+Although some have criticized the films because of their alterations to the story and, many would argue, noticeably different tone from Tolkien's original vision, others have hailed them as remarkable achievements. [Peter Jackson](../P/Peter_Jackson.md) has defended his changes by stating that he views the films merely as one man's interpretation.
 
 Peter Jackson's film adaptations garnered seventeen Oscars (four for *The Fellowship of the Ring*, two for *The Two Towers*, and eleven for *The Return of the King*). *The Return of the King* won all of the eleven awards for which it was nominated, including Best Picture—it was the first film of the fantasy genre to do so. With 30 total nominations, the trilogy became the most-nominated in the Academy's history, surpassing the *Godfather* series' 28 nominations.
 
-*The Return of the King*'s Oscar sweep is widely seen as a proxy award for the entire trilogy. *The Return of the King*'s 11 Oscars at the 2004 Academy Awards tied it for most awards won for one film with *Titanic* six years earlier and the [1959](/wiki/1959) version of *Ben-Hur*. It also broke the previous "sweep" record, beating *Gigi* and *The Last Emperor*.
+*The Return of the King*'s Oscar sweep is widely seen as a proxy award for the entire trilogy. *The Return of the King*'s 11 Oscars at the 2004 Academy Awards tied it for most awards won for one film with *Titanic* six years earlier and the [1959](../_/1959.md) version of *Ben-Hur*. It also broke the previous "sweep" record, beating *Gigi* and *The Last Emperor*.
 
-The visual-effects work has been groundbreaking, particularly the creation of the emotionally versatile digital character [Gollum](/wiki/Gollum). The scale of the production alone – three films shot and edited back to back over a period of little more than three years – is unprecedented.
+The visual-effects work has been groundbreaking, particularly the creation of the emotionally versatile digital character [Gollum](../G/Gollum.md). The scale of the production alone – three films shot and edited back to back over a period of little more than three years – is unprecedented.
 
-The films have also proven to be substantial box office successes. The premiere of *The Return of the King* took place in [Wellington](/wiki/Wellington), [New Zealand](/wiki/New_Zealand), on [December 1](/wiki/1_December "1 December"), 2003 and was surrounded by fan celebrations and official promotions (the production of the films having contributed significantly to the New Zealand economy). The movie earned $34.5 million on its opening day, making it the seventh-largest opening day for a film released on a Wednesday.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[14]</a></sup> *The Return of the King* was also the second movie in history (after *Titanic*) to earn over 1 billion $US (worldwide).
+The films have also proven to be substantial box office successes. The premiere of *The Return of the King* took place in [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), on [December 1](../_/1_December.md), 2003 and was surrounded by fan celebrations and official promotions (the production of the films having contributed significantly to the New Zealand economy). The movie earned $34.5 million on its opening day, making it the seventh-largest opening day for a film released on a Wednesday.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[14]</a></sup> *The Return of the King* was also the second movie in history (after *Titanic*) to earn over 1 billion $US (worldwide).
 
 Fanatics of the films have also flocked to the locations where the trilogy was filmed in New Zealand, with many tour companies being totally devoted to taking fans to and from the filming locations that director Peter Jackson chose for the adaptation of Tolkien’s epic trilogy.
 
@@ -329,17 +321,17 @@ Fanatics of the films have also flocked to the locations where the trilogy was f
 ## See also {#See_also}
 
 - *The Lord of the Rings* (film series)
-    - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
-    - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
-    - *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*
-- *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*
-    - *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*
-    - *[The Two Towers](/wiki/The_Two_Towers)*
-    - *[The Return of the King](/wiki/The_Return_of_the_King)*
-- [Images from *The Lord of the Rings* (film series)](</wiki/Category:Images_from_The_Lord_of_the_Rings_(film_series)> "Category:Images from The Lord of the Rings (film series)")
-    - [Images from *The Lord of the Rings: The Fellowship of the Ring*](/wiki/Category:Images_from_The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring "Category:Images from The Lord of the Rings: The Fellowship of the Ring")
-    - [Images from *The Lord of the Rings: The Two Towers*](/wiki/Category:Images_from_The_Lord_of_the_Rings:_The_Two_Towers "Category:Images from The Lord of the Rings: The Two Towers")
-    - [Images from *The Lord of the Rings: The Return of the King*](/wiki/Category:Images_from_The_Lord_of_the_Rings:_The_Return_of_the_King "Category:Images from The Lord of the Rings: The Return of the King")
+    - *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
+    - *[The Lord of the Rings: The Two Towers](The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
+    - *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
+- *[The Lord of the Rings](The_Lord_of_the_Rings.md)*
+    - *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*
+    - *[The Two Towers](The_Two_Towers.md)*
+    - *[The Return of the King](The_Return_of_the_King.md)*
+- [Images from *The Lord of the Rings* (film series)](<../../category/I/Images_from_The_Lord_of_the_Rings_(film_series).md>)
+    - [Images from *The Lord of the Rings: The Fellowship of the Ring*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)
+    - [Images from *The Lord of the Rings: The Two Towers*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Two_Towers.md)
+    - [Images from *The Lord of the Rings: The Return of the King*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)
 
 ## Notes {#Notes}
 
@@ -354,7 +346,7 @@ Fanatics of the films have also flocked to the locations where the trilogy was f
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">He is only crdited as editor on <i>The Return of the King</i>.</span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">The films&#39; distribution rights were transferred to  <a href="/wiki/Warner_Bros." title="Warner Bros.">Warner Bros. Pictures</a> in 2008.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">The films&#39; distribution rights were transferred to  <a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros. Pictures</a> in 2008.</span>
 </li>
 </ol></div></span>
 
@@ -383,92 +375,90 @@ Fanatics of the films have also flocked to the locations where the trilogy was f
 </li>
 <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Brian Sibley, <i>Peter Jackson: A Filmmaker&#39;s Journey</i> (London: HarperCollins, 2006), p. 500.</span>
 </li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">“BIFF” (22 December 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?t=500&amp;v=L0h-fcEWpHA" rel="noreferrer noopener" target="_blank">&#34;Peter Jackson Bifff 1999 Q&amp;A&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite></span>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">“BIFF” (22 December 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?t=500&amp;v=L0h-fcEWpHA" rel="noreferrer noopener" target="_blank">&#34;Peter Jackson Bifff 1999 Q&amp;A&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite></span>
 </li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Exeter College, Oxford (30 July 2015)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=9XDsSr3sGSI&amp;t=1147s" rel="noreferrer noopener" target="_blank">&#34;Sir Peter Jackson in conversation: Exeter College Oxford Eighth Century Lecture Series&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite></span>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Exeter College, Oxford (30 July 2015)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=9XDsSr3sGSI&amp;t=1147s" rel="noreferrer noopener" target="_blank">&#34;Sir Peter Jackson in conversation: Exeter College Oxford Eighth Century Lecture Series&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span></cite></span>
 </li>
 <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a class="external free" href="http://boxofficemojo.com/alltime/days/?page=wed&amp;p=.htm" rel="noreferrer noopener" target="_blank">http://boxofficemojo.com/alltime/days/?page=wed&amp;p=.htm</a></span>
 </li>
 </ol></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
 </th></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Hobbit_(1967_film)" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="/wiki/The_Hobbit_(1977_film)" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="/wiki/The_Lord_of_the_Rings_(1978_film)" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="/wiki/The_Return_of_the_King_(1980_film)" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a class="mw-selflink selflink"><i>The Lord of the Rings </i> series</a></b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="/wiki/The_Hobbit_(film_series)" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Hobbit:_An_Unexpected_Journey" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="/wiki/The_Hobbit:_The_Desolation_of_Smaug" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Hunt_for_Gollum" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
 </td></tr>
 <tr>
 <th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a class="mw-selflink selflink"><i>The Lord of the Rings </i> film series</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(extended_edition)" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_The_Complete_Recordings" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_The_Complete_Recordings" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_The_Complete_Recordings" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="/wiki/May_It_Be" title="May It Be">May It Be</a>&#34; · &#34;<a href="/wiki/Gollum%27s_Song" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="/wiki/Into_the_West" title="Into the West">Into the West</a>&#34;
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_Official_Movie_Guide" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Making_of_the_Movie_Trilogy" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Complete_Visual_Companion" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="/wiki/The_Lord_of_the_Rings_Trilogy_Photo_Guide" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/Gollum:_How_We_Made_Movie_Magic" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="/wiki/There_and_Back_Again:_An_Actor%27s_Tale" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Weapons_and_Warfare" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="/wiki/The_Art_of_The_Lord_of_the_Rings_(film_book)" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="/wiki/The_Music_of_the_Lord_of_the_Rings_Films" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Location_Guidebook" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Location_Guidebook:_Travel_Diary" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Sketchbook" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Fellowship of the Ring</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Visual_Companion" title="The Lord of the Rings: The Fellowship of the Ring Visual Companion">Visual Companion</a></i>   · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Photo_Guide" title="The Lord of the Rings: The Fellowship of the Ring Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Rings_-_Insiders%27_Guide" title="The Lord of the Rings: The Fellowship of the Rings - Insiders&#39; Guide">Insiders&#39; Guide</a></i> · <i><a href="/wiki/The_Art_of_The_Fellowship_of_the_Ring" title="The Art of The Fellowship of the Ring">The Art of The Fellowship of the Ring</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md" title="The Lord of the Rings: The Fellowship of the Ring Visual Companion">Visual Companion</a></i>   · <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Photo_Guide.md" title="The Lord of the Rings: The Fellowship of the Ring Photo Guide">Photo Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Rings_-_Insiders&#39;_Guide.md" title="The Lord of the Rings: The Fellowship of the Rings - Insiders&#39; Guide">Insiders&#39; Guide</a></i> · <i><a href="The_Art_of_The_Fellowship_of_the_Ring.md" title="The Art of The Fellowship of the Ring">The Art of The Fellowship of the Ring</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Two Towers</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion" title="The Lord of the Rings: The Two Towers Visual Companion">Visual Companion</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Photo_Guide" title="The Lord of the Rings: The Two Towers Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Creatures" title="The Lord of the Rings: The Two Towers Creatures">Creatures</a></i> · <i><a href="/wiki/The_Art_of_The_Two_Towers" title="The Art of The Two Towers">The Art of The Two Towers</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md" title="The Lord of the Rings: The Two Towers Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_Photo_Guide.md" title="The Lord of the Rings: The Two Towers Photo Guide">Photo Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_Creatures.md" title="The Lord of the Rings: The Two Towers Creatures">Creatures</a></i> · <i><a href="The_Art_of_The_Two_Towers.md" title="The Art of The Two Towers">The Art of The Two Towers</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Return of the King</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Visual_Companion" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Photo_Guide" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Art_of_The_Return_of_the_King" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Third_Age" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Tactics" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Conquest" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> · <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a> · <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a> · <a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Merry</a> · <a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a> · <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> · <a href="/wiki/Aragorn" title="Aragorn">Aragorn</a> · <a href="/wiki/Boromir" title="Boromir">Boromir</a> · <a href="/wiki/Legolas" title="Legolas">Legolas</a> · <a href="/wiki/Gimli" title="Gimli">Gimli</a> · <a href="/wiki/Elrond" title="Elrond">Elrond</a> · <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> · <a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a> · <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a> · <a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a> · <a href="/wiki/Saruman" title="Saruman">Saruman</a> · <a href="/wiki/Sauron" title="Sauron">Sauron</a> · <a href="/wiki/Witch-king" title="Witch-king">Witch-king</a> · <a href="/wiki/Denethor" title="Denethor">Denethor</a> · <a href="/wiki/Faramir" title="Faramir">Faramir</a> · <a href="/wiki/Gollum" title="Gollum">Gollum</a> · <a href="/wiki/Gr%C3%ADma" title="Gríma">Gríma</a> · <a href="/wiki/Treebeard" title="Treebeard">Treebeard</a> · <a href="/wiki/Celeborn" title="Celeborn">Celeborn</a> · <a href="/wiki/Haldir" title="Haldir">Haldir</a> · <a href="/wiki/Lurtz" title="Lurtz">Lurtz</a> · <a href="/wiki/Sharku" title="Sharku">Sharku</a> · <a href="/wiki/Grishn%C3%A1kh" title="Grishnákh">Grishnákh</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

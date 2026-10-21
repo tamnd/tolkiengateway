@@ -1,6 +1,5 @@
 ---
 title: "File:Last Song 2002.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Last Song 2002.jpeg</span>"
 page_id: 61719
 namespace: 6
 revision_id: 349232

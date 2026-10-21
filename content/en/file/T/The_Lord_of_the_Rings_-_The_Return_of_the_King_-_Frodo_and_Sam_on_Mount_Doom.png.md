@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Frodo and Sam on Mount Doom.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Frodo and Sam on Mount Doom.png</span>"
 page_id: 63378
 namespace: 6
 revision_id: 360151

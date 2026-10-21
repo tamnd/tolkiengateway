@@ -1,6 +1,5 @@
 ---
 title: "Category:Rivers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rivers</span>"
 page_id: 1042
 namespace: 14
 revision_id: 195480
@@ -15,4 +14,4 @@ categories:
 
 This category lists all **Rivers** within Arda.
 
-- *See also [Index:Rivers](/wiki/Index:Rivers)*
+- *See also [Index:Rivers](../../index/R/Rivers.md)*

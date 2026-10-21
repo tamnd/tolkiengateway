@@ -1,6 +1,5 @@
 ---
 title: "File:Olanda Fong-Surdenas - Mouth of Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Olanda Fong-Surdenas - Mouth of Sauron.png</span>"
 page_id: 74343
 namespace: 6
 revision_id: 437973
@@ -37,27 +36,25 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/23_February" title="23 February">February 23</a>, <a href="/wiki/2013" title="2013">2013</a></td>
+<td><a href="../../main/_/23_February.md" title="23 February">February 23</a>, <a href="../../main/_/2013.md" title="2013">2013</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Digital (Photoshop)</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Olanda_Fong-Surdenas" title="Category:Images by Olanda Fong-Surdenas">Olanda Fong-Surdenas</a></td>
+<td><a href="../../category/I/Images_by_Olanda_Fong-Surdenas.md" title="Category:Images by Olanda Fong-Surdenas">Olanda Fong-Surdenas</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://olandaart.wordpress.com/2013/02/23/88/" rel="noreferrer noopener" target="_blank">https://olandaart.wordpress.com/2013/02/23/88/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Olanda Fong-Surdenas</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Olanda_Fong-Surdenas" title="Olanda Fong-Surdenas">Olanda Fong-Surdenas</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/O/Olanda_Fong-Surdenas.md" title="Olanda Fong-Surdenas">Olanda Fong-Surdenas</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Olanda_Fong-Surdenas" title="Olanda Fong-Surdenas">Olanda Fong-Surdenas</a></li>
+<ul><li><b>Name:</b> <a href="../../main/O/Olanda_Fong-Surdenas.md" title="Olanda Fong-Surdenas">Olanda Fong-Surdenas</a></li>
 <li><b>Website:</b> <a class="external text" href="https://olandaart.wordpress.com/" rel="noreferrer noopener" target="_blank">Olanda Fong-Surdenas&#39;s Wordpress</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Olanda_Fong-Surdenas" title="Tolkien Gateway:Copyrights/Olanda Fong-Surdenas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOlanda_Fong-Surdenas.md" title="Tolkien Gateway:Copyrights/Olanda Fong-Surdenas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

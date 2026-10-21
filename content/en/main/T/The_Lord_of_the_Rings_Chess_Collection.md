@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings Chess Collection"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Chess Collection</span>"
 page_id: 12239
 namespace: 0
 revision_id: 312805
@@ -13,7 +12,7 @@ categories:
   - "Chess sets"
 ---
 
-**The Lord of the Rings Chess Collection** is a high-quality, hand-painted, chess set with pieces based on characters from [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). It is part of the official merchandise. Due to the popularity of the first chess set, a second one is currently in the works. Both sets are UK exclusive.
+**The Lord of the Rings Chess Collection** is a high-quality, hand-painted, chess set with pieces based on characters from [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>). It is part of the official merchandise. Due to the popularity of the first chess set, a second one is currently in the works. Both sets are UK exclusive.
 
 ## Pieces {#Pieces}
 
@@ -21,41 +20,41 @@ categories:
 
 #### White {#White}
 
-- King - [Aragorn](/wiki/Aragorn)
-- Queen - [Arwen](/wiki/Arwen)
-- Bishops - [Gandalf](/wiki/Gandalf), [Legolas](/wiki/Legolas)
-- Knights - [Théoden](/wiki/Th%C3%A9oden), [Éomer](/wiki/%C3%89omer)
-- Rooks - [Minas Tirith](/wiki/Minas_Tirith), [Osgiliath](/wiki/Osgiliath)
-- Pawns - [Faramir](/wiki/Faramir), [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee"), [Frodo](/wiki/Frodo_Baggins "Frodo Baggins"), [Pippin](/wiki/Peregrin_Took "Peregrin Took"), [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck"), [Éowyn](/wiki/%C3%89owyn), [Gimli](/wiki/Gimli), Gondorian Archer
+- King - [Aragorn](../A/Aragorn.md)
+- Queen - [Arwen](../A/Arwen.md)
+- Bishops - [Gandalf](../G/Gandalf.md), [Legolas](../L/Legolas.md)
+- Knights - [Théoden](Théoden.md), [Éomer](../_/Éomer.md)
+- Rooks - [Minas Tirith](../M/Minas_Tirith.md), [Osgiliath](../O/Osgiliath.md)
+- Pawns - [Faramir](../F/Faramir.md), [Sam](../S/Samwise_Gamgee.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), [Merry](../M/Meriadoc_Brandybuck.md), [Éowyn](../_/Éowyn.md), [Gimli](../G/Gimli.md), Gondorian Archer
 
 #### Black {#Black}
 
-- King - [Sauron](/wiki/Sauron)
-- Queen - [Witch-king](/wiki/Witch-king) of [Angmar](/wiki/Angmar)
-- Bishops - [Orc](/wiki/Orcs "Orcs") Lieutenant, [Gothmog](</wiki/Gothmog_(Lieutenant_of_Morgul)> "Gothmog (Lieutenant of Morgul)")
-- Knights - [Shagrat](/wiki/Shagrat), A Black Uruk
-- Rooks - [Orthanc](/wiki/Orthanc), [Barad-dûr](/wiki/Barad-d%C3%BBr)
-- Pawns - Orc Drum Beater, Orc Archer, Orc Axeman, [Gollum](/wiki/Gollum), [Gorbag](/wiki/Gorbag), Orc Swordsman, Orc Archer, Orc Drum Beater
+- King - [Sauron](../S/Sauron.md)
+- Queen - [Witch-king](../W/Witch-king.md) of [Angmar](../A/Angmar.md)
+- Bishops - [Orc](../O/Orcs.md) Lieutenant, [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>)
+- Knights - [Shagrat](../S/Shagrat.md), A Black Uruk
+- Rooks - [Orthanc](../O/Orthanc.md), [Barad-dûr](../B/Barad-dûr.md)
+- Pawns - Orc Drum Beater, Orc Archer, Orc Axeman, [Gollum](../G/Gollum.md), [Gorbag](../G/Gorbag.md), Orc Swordsman, Orc Archer, Orc Drum Beater
 
 ### Set Two {#Set_Two}
 
 #### White {#White_2}
 
-- King - [Elrond](/wiki/Elrond)
-- Queen - [Galadriel](/wiki/Galadriel)
-- Bishops - [Treebeard](/wiki/Treebeard), [Ent](/wiki/Ents "Ents")
-- Knights - [Shadowfax](/wiki/Shadowfax), [Snowmane](/wiki/Snowmane)
-- Rooks - [Grey Havens](/wiki/Grey_Havens), [Eagle](/wiki/Eagles "Eagles") [Ecthelion](/wiki/Tower_of_Ecthelion "Tower of Ecthelion")
-- Pawns - [Boromir](/wiki/Boromir), [Gamling](/wiki/Gamling), [Haldir](/wiki/Haldir), Elven archer, [Celeborn](/wiki/Celeborn), [Helm's Deep](/wiki/Helm%27s_Deep) Archer, [Numenorian *(sic)*](/wiki/N%C3%BAmen%C3%B3reans "Númenóreans") Knight, [Ranger of Ithilien](/wiki/Rangers_of_Ithilien "Rangers of Ithilien")
+- King - [Elrond](../E/Elrond.md)
+- Queen - [Galadriel](../G/Galadriel.md)
+- Bishops - [Treebeard](Treebeard.md), [Ent](../E/Ents.md)
+- Knights - [Shadowfax](../S/Shadowfax.md), [Snowmane](../S/Snowmane.md)
+- Rooks - [Grey Havens](../G/Grey_Havens.md), [Eagle](../E/Eagles.md) [Ecthelion](Tower_of_Ecthelion.md)
+- Pawns - [Boromir](../B/Boromir.md), [Gamling](../G/Gamling.md), [Haldir](../H/Haldir.md), Elven archer, [Celeborn](../C/Celeborn.md), [Helm's Deep](../H/Helm's_Deep.md) Archer, [Numenorian *(sic)*](../N/Númenóreans.md) Knight, [Ranger of Ithilien](../R/Rangers_of_Ithilien.md)
 
 #### Black {#Black_2}
 
-- King - [Saruman](/wiki/Saruman)
-- Queen - [Shelob](/wiki/Shelob)
-- Bishops - [Lurtz](/wiki/Lurtz), Berserker [Uruk-hai](/wiki/Uruk-hai)
-- Knights - [Warg](/wiki/Wargs "Wargs"), [Ringwraith](/wiki/Nazg%C3%BBl "Nazgûl") horse
-- Rooks - [Balrog](/wiki/Durin%27s_Bane "Durin's Bane"), [Fell Beast](/wiki/Fell_Beasts "Fell Beasts")
-- Pawns - Siege [Troll](/wiki/Trolls "Trolls"), [Easterling *(sic)*](/wiki/Easterlings "Easterlings"), [Cave Troll](/wiki/Cave-trolls "Cave-trolls"), [Haradrim](/wiki/Haradrim) Archer, [Wormtongue](/wiki/Gr%C3%ADma "Gríma"), Armoured Troll, Battle Troll, Crossbow Uruk-hai
+- King - [Saruman](../S/Saruman.md)
+- Queen - [Shelob](../S/Shelob.md)
+- Bishops - [Lurtz](../L/Lurtz.md), Berserker [Uruk-hai](../U/Uruk-hai.md)
+- Knights - [Warg](../W/Wargs.md), [Ringwraith](../N/Nazgûl.md) horse
+- Rooks - [Balrog](../D/Durin's_Bane.md), [Fell Beast](../F/Fell_Beasts~17925.md)
+- Pawns - Siege [Troll](Trolls.md), [Easterling *(sic)*](../E/Easterlings.md), [Cave Troll](../C/Cave-trolls.md), [Haradrim](../H/Haradrim.md) Archer, [Wormtongue](../G/Gríma.md), Armoured Troll, Battle Troll, Crossbow Uruk-hai
 
 ## External links {#External_links}
 

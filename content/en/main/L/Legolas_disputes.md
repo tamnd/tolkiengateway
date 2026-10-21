@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas/Disputes"
 ---
 
-Redirect to [Legolas/Disputes](/wiki/Legolas/Disputes).
+Redirect to [Legolas/Disputes](Legolas%252FDisputes.md).

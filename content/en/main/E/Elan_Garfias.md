@@ -1,6 +1,5 @@
 ---
 title: "Elan Garfias"
-display_title: "<span class=\"mw-page-title-main\">Elan Garfias</span>"
 page_id: 31901
 namespace: 0
 revision_id: 155714
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Garfias, Elan"
 ---
 
-**Elan Garfias** ([April 20](/wiki/20_April "20 April"), [1999](/wiki/1999)) is an American actor.
+**Elan Garfias** ([April 20](../_/20_April.md), [1999](../_/1999.md)) is an American actor.
 
 ## Roles {#Roles}
 
-- [2010](/wiki/2010): *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*: [Pippin Gamgee](/wiki/Pippin_Gardner "Pippin Gardner")
+- [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*: [Pippin Gamgee](../P/Pippin_Gardner.md)
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "Stephen Stanton"
-display_title: "<span class=\"mw-page-title-main\">Stephen Stanton</span>"
 page_id: 19260
 namespace: 0
 revision_id: 222161
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Stanton, Stephen"
 ---
 
-**Stephen Stanton** is a versatile voice actor and voicematcher. He voiced [Sauron](/wiki/Sauron) and [Uruk-hai](/wiki/Uruk-hai) in several [video games](/wiki/Category:Games "Category:Games").
+**Stephen Stanton** is a versatile voice actor and voicematcher. He voiced [Sauron](Sauron.md) and [Uruk-hai](../U/Uruk-hai.md) in several [video games](../../category/G/Games.md).
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)* - [Sauron](/wiki/Sauron), Uruk-hai
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)* - Uruk-hai
-- [2003](/wiki/2003): [*The Lord of the Rings: The Return of the King* (video game)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)> "The Lord of the Rings: The Return of the King (video game)") - Uruk-hai warriors
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* - [Sauron](Sauron.md), Uruk-hai
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)* - Uruk-hai
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>) - Uruk-hai warriors
 
 ## External links {#External_links}
 

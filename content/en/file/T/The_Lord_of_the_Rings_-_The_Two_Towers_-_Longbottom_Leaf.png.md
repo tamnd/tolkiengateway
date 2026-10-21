@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Longbottom Leaf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Longbottom Leaf.png</span>"
 page_id: 71685
 namespace: 6
 revision_id: 427317
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Longbottom Leaf](/wiki/Longbottom_Leaf) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Longbottom Leaf](../../main/L/Longbottom_Leaf.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

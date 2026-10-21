@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of letters to J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of letters to J.R.R. Tolkien</span>"
 page_id: 40501
 namespace: 14
 revision_id: 217531

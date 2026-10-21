@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Valandil Duels Kemen.png"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Valandil Duels Kemen.png](/wiki/File:The_Rings_of_Power_(TV_series)_-_Valandil_Duels_Kemen.png).
+Redirect to [File:The Rings of Power (TV series) - Valandil Duels Kemen.png](<../T/The_Rings_of_Power_(TV_series)_-_Valandil_Duels_Kemen.png.md>).

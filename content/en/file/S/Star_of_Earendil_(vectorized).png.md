@@ -1,6 +1,5 @@
 ---
 title: "File:Star of Earendil (vectorized).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Star of Earendil (vectorized).png</span>"
 page_id: 66372
 namespace: 6
 revision_id: 431971

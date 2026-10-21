@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Bree-land"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Bree-land</span>"
 page_id: 29413
 namespace: 14
 revision_id: 200091

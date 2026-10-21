@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Buckland Gate"
 ---
 
-Redirect to [Buckland Gate](/wiki/Buckland_Gate).
+Redirect to [Buckland Gate](../B/Buckland_Gate.md).

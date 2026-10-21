@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Completorium"
 ---
 
-Redirect to [Completorium](/wiki/Completorium).
+Redirect to [Completorium](../C/Completorium.md).

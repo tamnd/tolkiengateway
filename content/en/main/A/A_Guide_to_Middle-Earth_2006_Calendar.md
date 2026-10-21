@@ -15,9 +15,9 @@ images:
   - "A_Guide_to_Middle-earth_2006_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_Guide_to_Middle-earth_2006_Calendar.jpg"><img src="/w/images/f/f8/A_Guide_to_Middle-earth_2006_Calendar.jpg" decoding="async" loading="lazy" width="210" height="216" class="mw-file-element" data-file-width="210" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Guide_to_Middle-earth_2006_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/f/f8/A_Guide_to_Middle-earth_2006_Calendar.jpg" decoding="async" loading="lazy" width="210" height="216" class="mw-file-element" data-file-width="210" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-<i><b>A Guide to Middle-Earth 2006 Calendar</b></i> was published by Andrews McMeel Publishing and is based on the book by [Robert Foster](/wiki/Robert_Foster).
+<i><b>A Guide to Middle-Earth 2006 Calendar</b></i> was published by Andrews McMeel Publishing and is based on the book by [Robert Foster](../R/Robert_Foster.md).
 
 - Dimensions: 5⅜ x 5⅜ inches
 - Shrink-wrapped

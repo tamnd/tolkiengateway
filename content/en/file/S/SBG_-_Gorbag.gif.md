@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Gorbag.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Gorbag.gif</span>"
 page_id: 11900
 namespace: 6
 revision_id: 203892

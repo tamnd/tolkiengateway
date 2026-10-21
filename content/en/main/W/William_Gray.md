@@ -1,6 +1,5 @@
 ---
 title: "William Gray"
-display_title: "<span class=\"mw-page-title-main\">William Gray</span>"
 page_id: 28079
 namespace: 0
 revision_id: 300861
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Bibliography, selected {#Bibliography,_selected}
 
-- [2008](/wiki/2008): *[Fantasy, Myth and the Measure of Truth: Tales of Pullman, Lewis, Tolkien, MacDonald and Hoffmann](/wiki/Fantasy,_Myth_and_the_Measure_of_Truth "Fantasy, Myth and the Measure of Truth")*
+- [2008](../_/2008.md): *[Fantasy, Myth and the Measure of Truth: Tales of Pullman, Lewis, Tolkien, MacDonald and Hoffmann](../F/Fantasy,_Myth_and_the_Measure_of_Truth.md)*
 
 ## External links {#External_links}
 

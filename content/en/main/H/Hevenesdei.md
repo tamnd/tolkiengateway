@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hevensday"
 ---
 
-Redirect to [Hevensday](/wiki/Hevensday).
+Redirect to [Hevensday](Hevensday.md).

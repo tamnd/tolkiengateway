@@ -17,9 +17,9 @@ images:
   - "Letter_to_Darrington_(16_February_1972).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Letter_to_Darrington_(16_February_1972).jpg"><img src="/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/300px-Letter_to_Darrington_%2816_February_1972%29.jpg" decoding="async" loading="lazy" width="300" height="485" class="mw-file-element" srcset="/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/450px-Letter_to_Darrington_%2816_February_1972%29.jpg 1.5x, /w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/600px-Letter_to_Darrington_%2816_February_1972%29.jpg 2x" data-file-width="1266" data-file-height="2048"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Letter_to_Darrington_(16_February_1972).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/300px-Letter_to_Darrington_%2816_February_1972%29.jpg" decoding="async" loading="lazy" width="300" height="485" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/450px-Letter_to_Darrington_%2816_February_1972%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Letter_to_Darrington_%2816_February_1972%29.jpg/600px-Letter_to_Darrington_%2816_February_1972%29.jpg 2x" data-file-width="1266" data-file-height="2048"/></a><figcaption></figcaption></figure>
 
-On [16 February](/wiki/16_February) [1972](/wiki/1972), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Miss Fay Darrington**.<sup id="cite_ref-dreweattss_1-0" class="reference"><a href="#cite_note-dreweattss-1">[1]</a></sup>
+On [16 February](../_/16_February.md) [1972](../_/1972.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Miss Fay Darrington**.<sup id="cite_ref-dreweattss_1-0" class="reference"><a href="#cite_note-dreweattss-1">[1]</a></sup>
 
 - **Publication:** None.
 - **Description:** One page, printed heading, handwritten signed letter.
@@ -30,13 +30,13 @@ Autograph Letter signed to Fay Darrington, 1p. &amp; envelope, 8vo, Hotel Mirama
 
 ## See also {#See_also}
 
-- [Letter to Fay Darrington (16 November 1971)](</wiki/Letter_to_Fay_Darrington_(16_November_1971)>)
+- [Letter to Fay Darrington (16 November 1971)](<Letter_to_Fay_Darrington_(16_November_1971).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-dreweattss-1"><span class="mw-cite-backlink"><a href="#cite_ref-dreweattss_1-0">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.dreweatts.com/cms/pages/lot/36158/454" rel="noreferrer noopener" target="_blank">&#34;Lot No:454, Important Books and Works on Paper&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.dreweatts.com" rel="noreferrer noopener" target="_blank">www.dreweatts.com</a></span>. <span class="cite-web-accessed">Retrieved 2 November 2014</span></cite></span>
+<li id="cite_note-dreweattss-1"><span class="mw-cite-backlink"><a href="#cite_ref-dreweattss_1-0">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.dreweatts.com/cms/pages/lot/36158/454" rel="noreferrer noopener" target="_blank">&#34;Lot No:454, Important Books and Works on Paper&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.dreweatts.com" rel="noreferrer noopener" target="_blank">www.dreweatts.com</a></span>. <span class="cite-web-accessed">Retrieved 2 November 2014</span></cite></span>
 </li>
 </ol></div>

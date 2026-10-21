@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gostir"
 ---
 
-Redirect to [Gostir](/wiki/Gostir).
+Redirect to [Gostir](Gostir.md).

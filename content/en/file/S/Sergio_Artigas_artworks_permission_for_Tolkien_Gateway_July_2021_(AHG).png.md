@@ -1,6 +1,5 @@
 ---
 title: "File:Sergio Artigas artworks permission for Tolkien Gateway July 2021 (AHG).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sergio Artigas artworks permission for Tolkien Gateway July 2021 (AHG).png</span>"
 page_id: 59752
 namespace: 6
 revision_id: 333620
@@ -26,4 +25,4 @@ file:
 
 Screenshot of Artigas' permission to use his Tolkien artworks non-commercially on Tolkien Gateway. Screenshot of his e-mail, compiled as a large .png image.
 
-Please see [Copyrights - Artigas](/wiki/Tolkien_Gateway:Copyrights/Artigas "Tolkien Gateway:Copyrights/Artigas") for more information.
+Please see [Copyrights - Artigas](../../project/C/Copyrights%252FArtigas.md) for more information.

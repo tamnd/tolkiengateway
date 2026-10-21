@@ -1,6 +1,5 @@
 ---
 title: "File:Bonhams Books, Maps, Manuscripts and Historical Photographs 22 November 2011.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bonhams Books, Maps, Manuscripts and Historical Photographs 22 November 2011.png</span>"
 page_id: 36877
 namespace: 6
 revision_id: 215415

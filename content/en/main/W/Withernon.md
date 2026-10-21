@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Withernon"
 ---
 
-Redirect to [Tol Withernon](/wiki/Tol_Withernon).
+Redirect to [Tol Withernon](../T/Tol_Withernon.md).

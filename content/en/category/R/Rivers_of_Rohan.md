@@ -1,6 +1,5 @@
 ---
 title: "Category:Rivers of Rohan"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rivers of Rohan</span>"
 page_id: 28936
 namespace: 14
 revision_id: 195025

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Legolas.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Legolas.png</span>"
 page_id: 73092
 namespace: 6
 revision_id: 432653
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Legolas Greenleaf](/wiki/Legolas "Legolas") - [LEGO](/wiki/Lego "Lego") minifigure
+[Legolas Greenleaf](../../main/L/Legolas.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

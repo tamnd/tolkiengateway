@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Dwarven names"
 ---
 
-Redirect to [Category:Dwarven names](/wiki/Category:Dwarven_names).
+Redirect to [Category:Dwarven names](Dwarven_names.md).

@@ -1,6 +1,5 @@
 ---
 title: "Queen of Númenor"
-display_title: "<span class=\"mw-page-title-main\">Queen of Númenor</span>"
 page_id: 4147
 namespace: 0
 revision_id: 407023
@@ -17,7 +16,7 @@ sort_keys:
   "Númenor": "Queen of Numenor"
 ---
 
-**Queen of Númenor** was a title of the spouse of any [King of Númenor](/wiki/King_of_N%C3%BAmenor), or the three [Ruling Queens of Númenor](/wiki/Ruling_Queens_of_N%C3%BAmenor).
+**Queen of Númenor** was a title of the spouse of any [King of Númenor](../K/King_of_Númenor.md), or the three [Ruling Queens of Númenor](../R/Ruling_Queens_of_Númenor.md).
 
 <table rules="all" align="center" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0">
 <tbody><tr>
@@ -35,63 +34,63 @@ sort_keys:
 <tr>
 <td>5
 </td>
-<td><a href="/wiki/Almarian" title="Almarian">Almarian</a>
+<td><a href="../A/Almarian.md" title="Almarian">Almarian</a>
 </td>
-<td><a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_740" title="Second Age 740">740</a> - <a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_883" title="Second Age 883">883</a>
+<td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_740.md" title="Second Age 740">740</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_883.md" title="Second Age 883">883</a>
 </td>
-<td>Wife of <a href="/wiki/Tar-Meneldur" title="Tar-Meneldur">Tar-Meneldur</a>.
+<td>Wife of <a href="../T/Tar-Meneldur.md" title="Tar-Meneldur">Tar-Meneldur</a>.
 </td></tr>
 <tr>
 <td>6
 </td>
-<td><a href="/wiki/Erendis" title="Erendis">Erendis</a>
+<td><a href="../E/Erendis.md" title="Erendis">Erendis</a>
 </td>
 <td>Unknown
 </td>
-<td>Wife of <a href="/wiki/Tar-Aldarion" title="Tar-Aldarion">Tar-Aldarion</a>.
+<td>Wife of <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a>.
 </td></tr>
 <tr>
 <td>7
 </td>
-<td><a href="/wiki/Tar-Ancalim%C3%AB" title="Tar-Ancalimë">Tar-Ancalimë</a>
+<td><a href="../T/Tar-Ancalimë.md" title="Tar-Ancalimë">Tar-Ancalimë</a>
 </td>
-<td><a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_1075" title="Second Age 1075">1075</a> - <a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_1280" title="Second Age 1280">1280</a>
+<td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1075.md" title="Second Age 1075">1075</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1280.md" title="Second Age 1280">1280</a>
 </td>
 <td>First Ruling Queen of Númenor.
 </td></tr>
 <tr>
 <td>10
 </td>
-<td><a href="/wiki/Tar-Telperi%C3%ABn" title="Tar-Telperiën">Tar-Telperiën</a>
+<td><a href="../T/Tar-Telperiën.md" title="Tar-Telperiën">Tar-Telperiën</a>
 </td>
-<td><a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_1556" title="Second Age 1556">1556</a> - <a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_1731" title="Second Age 1731">1731</a>
+<td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1556.md" title="Second Age 1556">1556</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_1731.md" title="Second Age 1731">1731</a>
 </td>
 <td>Second Ruling Queen of Númenor.
 </td></tr>
 <tr>
 <td>16
 </td>
-<td><a href="/wiki/Tar-Vanimeld%C3%AB" title="Tar-Vanimeldë">Tar-Vanimeldë</a>
+<td><a href="../T/Tar-Vanimeldë.md" title="Tar-Vanimeldë">Tar-Vanimeldë</a>
 </td>
-<td><a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_2526" title="Second Age 2526">2526</a> - <a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_2637" title="Second Age 2637">2637</a>
+<td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2526.md" title="Second Age 2526">2526</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_2637.md" title="Second Age 2637">2637</a>
 </td>
 <td>Third Ruling Queen of Númenor.
 </td></tr>
 <tr>
 <td>23
 </td>
-<td><a href="/wiki/Inzilb%C3%AAth" title="Inzilbêth">Inzilbêth</a>
+<td><a href="../I/Inzilbêth.md" title="Inzilbêth">Inzilbêth</a>
 </td>
 <td>Unknown
 </td>
-<td>Wife of <a href="/wiki/Ar-Gimilz%C3%B4r" title="Ar-Gimilzôr">Ar-Gimilzôr</a>.
+<td>Wife of <a href="../A/Ar-Gimilzôr.md" title="Ar-Gimilzôr">Ar-Gimilzôr</a>.
 </td></tr>
 <tr>
 <td>25
 </td>
-<td><a href="/wiki/Tar-M%C3%ADriel" title="Tar-Míriel">Tar-Míriel</a>
+<td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Tar-Míriel</a>
 </td>
-<td><a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_3255" title="Second Age 3255">3255</a> - <a href="/wiki/Second_Age" title="Second Age">S.A.</a> <a href="/wiki/Second_Age_3319" title="Second Age 3319">3319</a>
+<td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3319.md" title="Second Age 3319">3319</a>
 </td>
-<td>Should have been Ruling Queen of Númenor but <a href="/wiki/Ar-Pharaz%C3%B4n" title="Ar-Pharazôn">Ar-Pharazôn</a> took her as his unwilling wife and seized the<br/><a href="/wiki/Sceptre_of_N%C3%BAmenor" title="Sceptre of Númenor">Sceptre of Númenor</a> for himself.
+<td>Should have been Ruling Queen of Númenor but <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> took her as his unwilling wife and seized the<br/><a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> for himself.
 </td></tr></tbody></table>

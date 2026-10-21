@@ -16,11 +16,11 @@ images:
   - "The_1979_Calendar_of_J.R.R._Tolkien's_The_Lord_of_the_Rings_(Canada).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings_(Canada).jpg"><img src="/w/images/6/66/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings_%28Canada%29.jpg" decoding="async" loading="lazy" width="229" height="216" class="mw-file-element" data-file-width="229" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_1979_Calendar_of_J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings_(Canada).jpg.md"><img src="https://tolkiengateway.net/w/images/6/66/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings_%28Canada%29.jpg" decoding="async" loading="lazy" width="229" height="216" class="mw-file-element" data-file-width="229" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-This version of **The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings** was published by [Methuen](/wiki/Methuen) specifically for Canda and is identical to [The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings](/wiki/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings).
+This version of **The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings** was published by [Methuen](../M/Methuen.md) specifically for Canda and is identical to [The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings](The_1979_Calendar_of_J.R.R._Tolkien's_The_Lord_of_the_Rings.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0458937002">ISBN 045-893700-2</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0458937002">ISBN 045-893700-2</a>
 - Dimensions: 13 x 12.25 inches
 - Stapled; punched hanging hole
 - Heavy-weight cardboard mailer

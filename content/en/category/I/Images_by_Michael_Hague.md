@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michael Hague"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michael Hague</span>"
 page_id: 46871
 namespace: 14
 revision_id: 182102
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hague, Michael"
 ---
 
-This category lists all **images by [Michael Hague](/wiki/Michael_Hague)**.
+This category lists all **images by [Michael Hague](../../main/M/Michael_Hague.md)**.

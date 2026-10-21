@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "I've got a very Briny Notion"
 ---
 
-Redirect to [I've got a very Briny Notion](/wiki/I've_got_a_very_Briny_Notion).
+Redirect to [I've got a very Briny Notion](../I/I've_got_a_very_Briny_Notion.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:WOW Full Score Cover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">WOW Full Score Cover.png</span>"
 page_id: 65218
 namespace: 6
 revision_id: 378814

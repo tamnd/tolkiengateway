@@ -1,6 +1,5 @@
 ---
 title: "File:The Review of English Studies (Vol. 1 No. 3).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Review of English Studies (Vol. 1 No. 3).jpg</span>"
 page_id: 44937
 namespace: 6
 revision_id: 236386

@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Gift of Boats.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Gift of Boats.jpg</span>"
 page_id: 22617
 namespace: 6
 revision_id: 211668

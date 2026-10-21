@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Ambarkanta Map V.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ambarkanta Map V.png</span>"
 page_id: 43551
 namespace: 6
 revision_id: 384638
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [*Ambarkanta* Map V](/wiki/Ambarkanta_maps "Ambarkanta maps"), by J.R.R. Tolkien.
+The [*Ambarkanta* Map V](../../main/A/Ambarkanta_maps.md), by J.R.R. Tolkien.
 
 ## Licensing {#Licensing}
 

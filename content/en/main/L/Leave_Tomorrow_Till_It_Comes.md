@@ -1,6 +1,5 @@
 ---
 title: "Leave Tomorrow Till It Comes"
-display_title: "<span class=\"mw-page-title-main\">Leave Tomorrow Till It Comes</span>"
 page_id: 46062
 namespace: 0
 revision_id: 346984
@@ -13,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Leave Tomorrow Till It Comes** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) and performed by [Glenn Yarbrough](/wiki/Glenn_Yarbrough) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). The song plays as [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") dreams about his and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee")'s triumph over the Ring.
+**Leave Tomorrow Till It Comes** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) and performed by [Glenn Yarbrough](../G/Glenn_Yarbrough.md) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). The song plays as [Frodo](../F/Frodo_Baggins.md) dreams about his and [Sam](../S/Samwise_Gamgee.md)'s triumph over the Ring.
 
 ## Lyrics {#Lyrics}
 

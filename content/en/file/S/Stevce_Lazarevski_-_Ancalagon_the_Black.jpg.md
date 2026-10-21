@@ -1,6 +1,5 @@
 ---
 title: "File:Stevce Lazarevski - Ancalagon the Black.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stevce Lazarevski - Ancalagon the Black.jpg</span>"
 page_id: 64878
 namespace: 6
 revision_id: 373726
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stevce Lazarevski</li>
 <li><b>Website:</b> <a class="external text" href="https://artofstevce.artstation.com/" rel="noreferrer noopener" target="_blank">Stevce Lazarevski&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stevce_Lazarevski" title="Tolkien Gateway:Copyrights/Stevce Lazarevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStevce_Lazarevski.md" title="Tolkien Gateway:Copyrights/Stevce Lazarevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>

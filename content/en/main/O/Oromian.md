@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elvish"
 ---
 
-Redirect to [Elvish](/wiki/Elvish).
+Redirect to [Elvish](../E/Elvish.md).

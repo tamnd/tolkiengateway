@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arnor"
 ---
 
-Redirect to [Arnor](/wiki/Arnor).
+Redirect to [Arnor](Arnor.md).

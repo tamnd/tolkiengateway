@@ -1,6 +1,5 @@
 ---
 title: "File:Jeremy Bennett - Folca hunting the Boar of Everholt.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeremy Bennett - Folca hunting the Boar of Everholt.jpg</span>"
 page_id: 12337
 namespace: 6
 revision_id: 221390
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A tapestry of Folca hunting the Boar of Everholt designed by Jeremy Bennett for [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+A tapestry of Folca hunting the Boar of Everholt designed by Jeremy Bennett for [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Licensing {#Licensing}
 

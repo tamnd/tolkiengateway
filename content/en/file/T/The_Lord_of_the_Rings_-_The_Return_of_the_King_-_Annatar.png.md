@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Annatar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Annatar.png</span>"
 page_id: 20726
 namespace: 6
 revision_id: 431889
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-[Sauron](/wiki/Sauron) in the disguise of *[Annatar](/wiki/Annatar)*, "Lord of Gifts".
+[Sauron](../../main/S/Sauron.md) in the disguise of *[Annatar](../../main/A/Annatar.md)*, "Lord of Gifts".
 
-This is an image of an unused scene from [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), as shown on [disc 3](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Special_Extended_DVD_Edition#The_Appendices:_Part_Five:_The_War_of_the_Ring_(disc_3)> "The Lord of the Rings: The Return of the King Special Extended DVD Edition") of [*The Lord of the Rings: The Return of the King* (extended edition)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)> "The Lord of the Rings: The Return of the King (extended edition)") in the documentary "From Book To Script - Forging The Final Chapter".
+This is an image of an unused scene from [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>), as shown on [disc 3](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Special_Extended_DVD_Edition.md#The_Appendices:_Part_Five:_The_War_of_the_Ring_(disc_3)>) of [*The Lord of the Rings: The Return of the King* (extended edition)](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) in the documentary "From Book To Script - Forging The Final Chapter".
 
 ## Licensing {#Licensing}
 

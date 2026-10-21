@@ -15,17 +15,17 @@ sort_keys:
   "Silver Leaves": "04"
 ---
 
-<b><i>Silver Leaves</i> 4</b> ("Here be Dragons") is the fourth issue of *[Silver Leaves](/wiki/Silver_Leaves)*, the journal of [The White Tree Fund](/wiki/The_White_Tree_Fund), published [22 September](/wiki/22_September) [2012](/wiki/2012).
+<b><i>Silver Leaves</i> 4</b> ("Here be Dragons") is the fourth issue of *[Silver Leaves](Silver_Leaves.md)*, the journal of [The White Tree Fund](../T/The_White_Tree_Fund.md), published [22 September](../_/22_September.md) [2012](../_/2012.md).
 
 ## Contents {#Contents}
 
-- [Colin Duriez](/wiki/Colin_Duriez): "A Tribute to J.R.R. Tolkien"
+- [Colin Duriez](../C/Colin_Duriez.md): "A Tribute to J.R.R. Tolkien"
 - Fortinbras Proudfoot: "Dragons of Myth and Legend"
 - Dragons in Middle-earth: "A Timeline"
 - P.R. Miller: "The Quandry of Dragons"
 - Alison Baird: "The Un-Dragoning of Eustace Scrub"
 - Elijah David: "Elmarch of Lindon, the Author’s Story"
-- <a class="new" href="/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Smaug’s Riddle"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Constance_Wagner&amp;action=edit&amp;redlink=1" title="Constance Wagner (page does not exist)">Constance G.J. Wagner</a>: "Smaug’s Riddle"
 - Julie Dobbins: "Goblins in Our Midst: The Fight Against Human Trafficking"
 - Kerri-Anne Cundill-Hinds: "The Land of Doom"
 - Anne Marie Gazzolo: "The Measure of Love"
@@ -40,7 +40,7 @@ sort_keys:
 - Peter S. Beagle: "Dragonsong"
 - Bennett Dobbins: "How to Train Your Dragon: A Step-by-Step Instruction Manual. . ."
 - Richard Bulze: "The Black Dragon Cup Finals Are Set!"
-- [Jef Murray](/wiki/Jef_Murray): "The Unmarked Byway"
+- [Jef Murray](../J/Jef_Murray.md): "The Unmarked Byway"
 - Kathryn Darden: "Dragon Acrostic"
 - Alexa Chipman: "The Fiery Awakening"
 - Mark Ostley: "The Invention of Middle-earth"
@@ -55,18 +55,18 @@ sort_keys:
 - Jef Murray: "The Picture Book"
 - L. Lara Sookoo: "Never Laugh at Live Dragons"
 - “Vern”: "A Sincere Letter to the Editors"
-- Constance G.J. Wagner: "Echoing the Ainur’s Song: [Doug Adams](/wiki/Doug_Adams)’ *[The Music of the Lord of the Rings Films](/wiki/The_Music_of_the_Lord_of_the_Rings_Films)*"
+- Constance G.J. Wagner: "Echoing the Ainur’s Song: [Doug Adams](../D/Doug_Adams.md)’ *[The Music of the Lord of the Rings Films](../T/The_Music_of_the_Lord_of_the_Rings_Films.md)*"
 - Bennett Dobbins: "The Lord of the Rings: An Overview of the Soundtracks"
 - Steven R. Dajic: "Role-Playing and the World of Tolkien"
 - Alexa Chipman: "Beowulf and the Dragon (Review)"
 - Julie Dobbins: "Middle-earth: Visions of a Modern Myth (Review)"
-- Art by Kerem Beyit, [Ted Nasmith](/wiki/Ted_Nasmith), Collen Doran, Benjamin Phillips, [Tim Kirk](/wiki/Tim_Kirk), Leilani Amorey, Cassandra Stevens, Valentina Levshina, [Jef Murray](/wiki/Jef_Murray), Alexandra-Felicity King, Chris Mills, Connor Cochran, Annette Jones, Steve Thomas, Alberto Ramirez, Donato Giancola, Else Tennesse, Ann Repp, Dave DelaGardelle
+- Art by Kerem Beyit, [Ted Nasmith](../T/Ted_Nasmith.md), Collen Doran, Benjamin Phillips, [Tim Kirk](../T/Tim_Kirk.md), Leilani Amorey, Cassandra Stevens, Valentina Levshina, [Jef Murray](../J/Jef_Murray.md), Alexandra-Felicity King, Chris Mills, Connor Cochran, Annette Jones, Steve Thomas, Alberto Ramirez, Donato Giancola, Else Tennesse, Ann Repp, Dave DelaGardelle
 
 ## See also {#See_also}
 
-- *[Silver Leaves](/wiki/Silver_Leaves)*
-- [List of *Silver Leaves* issues](/wiki/Category:Silver_Leaves "Category:Silver Leaves")
-- [The White Tree Fund](/wiki/The_White_Tree_Fund)
+- *[Silver Leaves](Silver_Leaves.md)*
+- [List of *Silver Leaves* issues](../../category/S/Silver_Leaves.md)
+- [The White Tree Fund](../T/The_White_Tree_Fund.md)
 
 ## External links {#External_links}
 

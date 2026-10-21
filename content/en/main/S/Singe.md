@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Singe"
 ---
 
-Redirect to [User:Singe](/wiki/User:Singe).
+Redirect to [User:Singe](https://tolkiengateway.net/wiki/User:Singe).

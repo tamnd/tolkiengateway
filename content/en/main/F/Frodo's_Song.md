@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "When evening in the Shire was grey"
 ---
 
-Redirect to [When evening in the Shire was grey](/wiki/When_evening_in_the_Shire_was_grey).
+Redirect to [When evening in the Shire was grey](../W/When_evening_in_the_Shire_was_grey.md).

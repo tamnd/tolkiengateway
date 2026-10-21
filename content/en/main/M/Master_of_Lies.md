@@ -11,4 +11,4 @@ redirect_target: "Morgoth"
 redirect_fragment: "Other names and titles"
 ---
 
-Redirect to [Morgoth](/wiki/Morgoth#Other_names_and_titles).
+Redirect to [Morgoth](Morgoth.md#Other_names_and_titles).

@@ -1,6 +1,5 @@
 ---
 title: "Girithron"
-display_title: "<span class=\"mw-page-title-main\">Girithron</span>"
 page_id: 2667
 namespace: 0
 revision_id: 368484
@@ -22,19 +21,19 @@ langlinks:
     url: "https://kontu.wiki/Girithron"
 ---
 
-**Girithron** is the [Sindarin](/wiki/Sindarin) name for the twelfth month of the year, following [Hithui](/wiki/Hithui), according to the calendars of the [Dunedain](/wiki/Dunedain). *Girithron* in the [Kings'](/wiki/Kings%27_Reckoning "Kings' Reckoning") and [Stewards' Reckoning](/wiki/Stewards%27_Reckoning) corresponded to [Foreyule](/wiki/Foreyule) in the [Shire Calendar](/wiki/Shire_Calendar) (approximately modern [21 November](/wiki/21_November) through [20 December](/wiki/20_December)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Girithron** is the [Sindarin](../S/Sindarin.md) name for the twelfth month of the year, following [Hithui](../H/Hithui.md), according to the calendars of the [Dunedain](../D/Dunedain.md). *Girithron* in the [Kings'](../K/Kings'_Reckoning.md) and [Stewards' Reckoning](../S/Stewards'_Reckoning.md) corresponded to [Foreyule](../F/Foreyule.md) in the [Shire Calendar](../S/Shire_Calendar.md) (approximately modern [21 November](../_/21_November.md) through [20 December](../_/20_December.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The name apparently contains *[girith](/wiki/Girith "Girith")* "shivering" and *raun* "[moon](/wiki/Moon "Moon"), month".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The name apparently contains *[girith](Girith.md)* "shivering" and *raun* "[moon](../M/Moon.md), month".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/David_Salo" title="David Salo">David Salo</a></span>. <span class="cite-web-article"><a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3600df6700ce9c85c029" rel="noreferrer noopener" target="_blank">&#34;queren, ringare&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Elfling" title="Elfling">Elfling</a></span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../D/David_Salo.md" title="David Salo">David Salo</a></span>. <span class="cite-web-article"><a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3600df6700ce9c85c029" rel="noreferrer noopener" target="_blank">&#34;queren, ringare&#34;</a></span>. <span class="cite-web-website"><a href="../E/Elfling.md" title="Elfling">Elfling</a></span></cite></span>
 </li>
 </ol></div>

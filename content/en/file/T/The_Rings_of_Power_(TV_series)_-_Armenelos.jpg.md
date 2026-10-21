@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Armenelos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Armenelos.jpg</span>"
 page_id: 64064
 namespace: 6
 revision_id: 412240
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [capital city](/wiki/Armenelos "Armenelos") of [Númenor](/wiki/N%C3%BAmenor) from the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+The [capital city](../../main/A/Armenelos.md) of [Númenor](../../main/N/Númenor.md) from the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

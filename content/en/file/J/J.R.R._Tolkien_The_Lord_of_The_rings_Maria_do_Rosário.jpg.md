@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien The Lord of The rings Maria do Rosário.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien The Lord of The rings Maria do Rosário.jpg</span>"
 page_id: 48373
 namespace: 6
 revision_id: 258491
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[J. R. R. Tolkien, The Lord of the Rings: a Viagem e a Transformação](/wiki/The_Lord_of_the_Rings:_A_viagem_e_a_transforma%C3%A7%C3%A3o "The Lord of the Rings: A viagem e a transformação")* by Maria do Rosário.
+Cover of *[J. R. R. Tolkien, The Lord of the Rings: a Viagem e a Transformação](../../main/T/The_Lord_of_the_Rings%253A_A_viagem_e_a_transformação.md)* by Maria do Rosário.
 
 ## Licensing {#Licensing}
 

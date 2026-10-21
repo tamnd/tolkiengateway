@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Minas Ithil (disambiguation)"
 ---
 
-Redirect to [Fall of Minas Ithil (disambiguation)](/wiki/Fall_of_Minas_Ithil_(disambiguation)).
+Redirect to [Fall of Minas Ithil (disambiguation)](<Fall_of_Minas_Ithil_(disambiguation).md>).

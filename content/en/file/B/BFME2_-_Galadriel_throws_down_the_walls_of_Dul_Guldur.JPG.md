@@ -1,6 +1,5 @@
 ---
 title: "File:BFME2 - Galadriel throws down the walls of Dul Guldur.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BFME2 - Galadriel throws down the walls of Dul Guldur.JPG</span>"
 page_id: 19646
 namespace: 6
 revision_id: 436329
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) throws down the walls of [Dol Guldur](/wiki/Dol_Guldur). Screenshot from *[EA's The Battle for Middle-earth II](/wiki/EA%27s_The_Battle_for_Middle-earth_II)*.
+[Galadriel](../../main/G/Galadriel.md) throws down the walls of [Dol Guldur](../../main/D/Dol_Guldur.md). Screenshot from *[EA's The Battle for Middle-earth II](../../main/E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## Licensing {#Licensing}
 

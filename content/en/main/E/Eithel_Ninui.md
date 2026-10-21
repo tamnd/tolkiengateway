@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eithel Nínui"
 ---
 
-Redirect to [Eithel Nínui](/wiki/Eithel_Nínui).
+Redirect to [Eithel Nínui](Eithel_Nínui.md).

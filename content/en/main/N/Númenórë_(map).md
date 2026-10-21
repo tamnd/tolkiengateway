@@ -20,17 +20,17 @@ images:
   - "Christopher_Tolkien_-_Numenore.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Christopher_Tolkien_-_Numenore.png"><img src="/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/300px-Christopher_Tolkien_-_Numenore.png" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/450px-Christopher_Tolkien_-_Numenore.png 1.5x, /w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/600px-Christopher_Tolkien_-_Numenore.png 2x" data-file-width="1853" data-file-height="1421"/></a><figcaption>The <i>Númenórë</i> map</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Numenore.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/300px-Christopher_Tolkien_-_Numenore.png" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/450px-Christopher_Tolkien_-_Numenore.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/Christopher_Tolkien_-_Numenore.png/600px-Christopher_Tolkien_-_Numenore.png 2x" data-file-width="1853" data-file-height="1421"/></a><figcaption>The <i>Númenórë</i> map</figcaption></figure>
 
-The **Númenórë** map, appearing in the *[Unfinished Tales](/wiki/Unfinished_Tales)*, depicts the island of [Númenor](/wiki/N%C3%BAmenor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Númenórë** map, appearing in the *[Unfinished Tales](../U/Unfinished_Tales.md)*, depicts the island of [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The map is a redrawing by [Christopher Tolkien](/wiki/Christopher_Tolkien) from what probably was the only sketch of Númenor made by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
+The map is a redrawing by [Christopher Tolkien](../C/Christopher_Tolkien.md) from what probably was the only sketch of Númenor made by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-UT_2-0" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 
-The sketch-map of Númenor was only published in the book [Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth). It includes the haven of *[Almaida](/wiki/Almaida)*, which apparently is not mentioned elsewhere in the [legendarium](/wiki/Legendarium "Legendarium").<sup id="cite_ref-UT_2-1" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
+The sketch-map of Númenor was only published in the book [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md). It includes the haven of *[Almaida](../A/Almaida.md)*, which apparently is not mentioned elsewhere in the [legendarium](../L/Legendarium.md).<sup id="cite_ref-UT_2-1" class="reference"><a href="#cite_note-UT-2">[2]</a></sup>
 
 In the <i><a class="external text" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">Tolkien Art Index</a>,</i> the sketch corresponds to the item <i><a class="external text" href="https://tai.tolkienists.org/tai/538/" rel="noreferrer noopener" target="_blank">#538</a></i> and the redrawn map corresponds to the item <i><a class="external text" href="https://tai.tolkienists.org/tai/544/" rel="noreferrer noopener" target="_blank">#544</a>.</i>
 
-*[The Fall of Númenor](/wiki/The_Fall_of_N%C3%BAmenor)* includes a [colorized version](</wiki/File:N%C3%BAmen%C3%B3r%C3%AB_(colorized).jpeg> "File:Númenórë (colorized).jpeg") of this map.
+*[The Fall of Númenor](../T/The_Fall_of_Númenor.md)* includes a [colorized version](<../../file/N/Númenórë_(colorized).jpeg.md>) of this map.
 
 <br>
 
@@ -39,39 +39,39 @@ In the <i><a class="external text" href="https://tai.tolkienists.org/" rel="nore
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a class="mw-selflink selflink">[Map of] Númenórë</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a class="mw-selflink selflink">[Map of] Númenórë</a>&#34;</span>
 </li>
-<li id="cite_note-UT-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-UT_2-0">2.0</a></sup> <sup><a href="#cite_ref-UT_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;Introduction&#34;, PART TWO, I <i>A Description of the Island of Númenor</i></span>
+<li id="cite_note-UT-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-UT_2-0">2.0</a></sup> <sup><a href="#cite_ref-UT_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;Introduction&#34;, PART TWO, I <i>A Description of the Island of Númenor</i></span>
 </li>
 </ol></div>
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Maps of <a href="/wiki/Arda" title="Arda">Arda</a> made by or for <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Maps of <a href="../A/Arda.md" title="Arda">Arda</a> made by or for <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>:
+<th style="background:var(--tg-color-surface-3);" align="right"><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Thr%C3%B3r%27s_Map" title="Thrór&#39;s Map">Thrór&#39;s Map</a> · <a href="/wiki/Map_of_Wilderland" title="Map of Wilderland">Map of Wilderland</a>
+<td style="font-size: 90%;"> <a href="../T/Thrór&#39;s_Map.md" title="Thrór&#39;s Map">Thrór&#39;s Map</a> · <a href="../M/Map_of_Wilderland.md" title="Map of Wilderland">Map of Wilderland</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">TLOTR</a></i>:
+<th style="background:var(--tg-color-surface-3);" align="right"> <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">TLOTR</a></i>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/A_Part_of_the_Shire" title="A Part of the Shire">A Part of the Shire</a> · <a href="/wiki/General_Map_of_Middle-earth" title="General Map of Middle-earth">General Map of Middle-earth</a> · <a href="/wiki/Map_of_Rohan,_Gondor,_and_Mordor" title="Map of Rohan, Gondor, and Mordor">Map of Rohan, Gondor, and Mordor</a> · <a href="/wiki/The_West_of_Middle-earth_at_the_End_of_the_Third_Age" title="The West of Middle-earth at the End of the Third Age">The West of Middle-earth at the End of the Third Age</a>
+<td style="font-size: 90%;"> <a href="../A/A_Part_of_the_Shire.md" title="A Part of the Shire">A Part of the Shire</a> · <a href="../G/General_Map_of_Middle-earth.md" title="General Map of Middle-earth">General Map of Middle-earth</a> · <a href="../M/Map_of_Rohan,_Gondor,_and_Mordor.md" title="Map of Rohan, Gondor, and Mordor">Map of Rohan, Gondor, and Mordor</a> · <a href="../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md" title="The West of Middle-earth at the End of the Third Age">The West of Middle-earth at the End of the Third Age</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right">Other:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a> · <a class="mw-selflink selflink">Númenórë‎</a>
+<td style="font-size: 90%;"> <a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a> · <a class="mw-selflink selflink">Númenórë‎</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Pauline_Baynes" title="Pauline Baynes">Baynes</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Baynes</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/A_Map_of_Middle-earth" title="A Map of Middle-earth">A Map of Middle-earth</a> · <a href="/wiki/There_and_Back_Again_(map)" title="There and Back Again (map)">There and Back Again</a>
+<td style="font-size: 90%;"> <a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a> · <a href="../T/There_and_Back_Again_(map).md" title="There and Back Again (map)">There and Back Again</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right">Early maps:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/The_earliest_map" title="The earliest map">The earliest map‎</a> · <a href="/wiki/I_Vene_Kemen" title="I Vene Kemen"><i>I Vene Kemen</i></a> · <a href="/wiki/The_First_%27Silmarillion%27_Map_(map)" title="The First &#39;Silmarillion&#39; Map (map)">The First &#39;Silmarillion&#39; Map</a> · <a href="/wiki/Ambarkanta_maps" title="Ambarkanta maps"><i>Ambarkanta</i> maps</a> · <a href="/wiki/The_Second_%27Silmarillion%27_Map" title="The Second &#39;Silmarillion&#39; Map">The Second &#39;Silmarillion&#39; Map</a> · <a href="/wiki/The_First_Map_of_The_Lord_of_the_Rings" title="The First Map of The Lord of the Rings">The First Map of &#39;The Lord of the Rings&#39;</a> · <a href="/wiki/The_1943_Map_of_The_Lord_of_the_Rings" title="The 1943 Map of The Lord of the Rings">The 1943 Map of &#39;The Lord of the Rings&#39;</a> · <a href="/wiki/The_Second_Map_of_The_Lord_of_the_Rings" title="The Second Map of The Lord of the Rings">The Second Map of &#39;The Lord of the Rings&#39;</a> · <a href="/wiki/The_Third_Map_of_The_Lord_of_the_Rings" title="The Third Map of The Lord of the Rings">The Third Map of &#39;The Lord of the Rings&#39;</a>
+<td style="font-size: 90%;"> <a href="../T/The_earliest_map.md" title="The earliest map">The earliest map‎</a> · <a href="../I/I_Vene_Kemen.md" title="I Vene Kemen"><i>I Vene Kemen</i></a> · <a href="../T/The_First_&#39;Silmarillion&#39;_Map_(map).md" title="The First &#39;Silmarillion&#39; Map (map)">The First &#39;Silmarillion&#39; Map</a> · <a href="../A/Ambarkanta_maps.md" title="Ambarkanta maps"><i>Ambarkanta</i> maps</a> · <a href="../T/The_Second_&#39;Silmarillion&#39;_Map.md" title="The Second &#39;Silmarillion&#39; Map">The Second &#39;Silmarillion&#39; Map</a> · <a href="../T/The_First_Map_of_The_Lord_of_the_Rings.md" title="The First Map of The Lord of the Rings">The First Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_1943_Map_of_The_Lord_of_the_Rings.md" title="The 1943 Map of The Lord of the Rings">The 1943 Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_Second_Map_of_The_Lord_of_the_Rings.md" title="The Second Map of The Lord of the Rings">The Second Map of &#39;The Lord of the Rings&#39;</a> · <a href="../T/The_Third_Map_of_The_Lord_of_the_Rings.md" title="The Third Map of The Lord of the Rings">The Third Map of &#39;The Lord of the Rings&#39;</a>
 </td></tr>
 </tbody></table>

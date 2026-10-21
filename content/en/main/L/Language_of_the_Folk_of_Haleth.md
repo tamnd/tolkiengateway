@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halethian"
 ---
 
-Redirect to [Halethian](/wiki/Halethian).
+Redirect to [Halethian](../H/Halethian.md).

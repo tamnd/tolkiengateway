@@ -1,6 +1,5 @@
 ---
 title: "Nimrodel / Procession / White Rider"
-display_title: "<span class=\"mw-page-title-main\">Nimrodel / Procession / White Rider</span>"
 page_id: 71473
 namespace: 0
 revision_id: 426169
@@ -13,7 +12,7 @@ categories:
   - "Songs (real-world)"
 ---
 
-**Nimrodel / Procession / White Rider** is a song by the progressive rock band [Camel](</wiki/Camel_(band)> "Camel (band)"). It appears on the bands second album <a class="external text" href="https://en.wikipedia.org/wiki/Mirage_(Camel_album)" rel="noreferrer noopener" target="_blank">Mirage</a> released in 1974. The first part of the song titled **Nimrodel** is a instrumental and appears to reference the stream in [Lothlórien](/wiki/Lothl%C3%B3rien). The third part titled **White Rider** is a description of [Gandalf](/wiki/Gandalf).
+**Nimrodel / Procession / White Rider** is a song by the progressive rock band [Camel](<../C/Camel_(band).md>). It appears on the bands second album <a class="external text" href="https://en.wikipedia.org/wiki/Mirage_(Camel_album)" rel="noreferrer noopener" target="_blank">Mirage</a> released in 1974. The first part of the song titled **Nimrodel** is a instrumental and appears to reference the stream in [Lothlórien](../L/Lothlórien.md). The third part titled **White Rider** is a description of [Gandalf](../G/Gandalf.md).
 
 ## Lyrics {#Lyrics}
 

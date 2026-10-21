@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Soronto"
 ---
 
-Redirect to [Soronto](/wiki/Soronto).
+Redirect to [Soronto](../S/Soronto.md).

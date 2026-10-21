@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anders Stenström"
 ---
 
-Redirect to [Anders Stenström](/wiki/Anders_Stenström).
+Redirect to [Anders Stenström](../A/Anders_Stenström.md).

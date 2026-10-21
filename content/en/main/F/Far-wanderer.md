@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palarran"
 ---
 
-Redirect to [Palarran](/wiki/Palarran).
+Redirect to [Palarran](../P/Palarran.md).

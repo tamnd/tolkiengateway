@@ -1,6 +1,5 @@
 ---
 title: "Category:Academic institutions in the United States"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Academic institutions in the United States</span>"
 page_id: 34707
 namespace: 14
 revision_id: 161496

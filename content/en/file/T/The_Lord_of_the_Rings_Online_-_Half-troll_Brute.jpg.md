@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Half-troll Brute.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Half-troll Brute.jpg</span>"
 page_id: 52883
 namespace: 6
 revision_id: 287740
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A Half-troll Brute from [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online).
+A Half-troll Brute from [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md).
 
 ## Licensing {#Licensing}
 

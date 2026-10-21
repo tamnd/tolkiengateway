@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Aragorn brings athelas for Frodo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Aragorn brings athelas for Frodo.png</span>"
 page_id: 70878
 namespace: 6
 revision_id: 423418
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by [Liz Danforth](/wiki/Liz_Danforth), portraying [Aragorn](/wiki/Aragorn) carrying [athelas](/wiki/Athelas "Athelas"), appearing in *[Treasures of Middle-earth (2nd edition)](</wiki/Treasures_of_Middle-earth_(2nd_edition)>)*.
+Image by [Liz Danforth](../../main/L/Liz_Danforth.md), portraying [Aragorn](../../main/A/Aragorn.md) carrying [athelas](../../main/A/Athelas.md), appearing in *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)*.
 
 ## Licensing {#Licensing}
 

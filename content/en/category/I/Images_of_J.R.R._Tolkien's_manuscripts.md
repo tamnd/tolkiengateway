@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of J.R.R. Tolkien's manuscripts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of J.R.R. Tolkien&#039;s manuscripts</span>"
 page_id: 14296
 namespace: 14
 revision_id: 310497
@@ -15,6 +14,6 @@ sort_keys:
   "Images of manuscripts": "J.R.R. Tolkien's manuscripts"
 ---
 
-<dl><dd>This category lists all <b><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s manuscripts</b></dd></dl>
+<dl><dd>This category lists all <b><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s manuscripts</b></dd></dl>
 
-<dl><dd><dl><dd><i>See also: <a href="/wiki/Category:Images_by_J.R.R._Tolkien" title="Category:Images by J.R.R. Tolkien">Images by J.R.R. Tolkien</a></i></dd></dl></dd></dl>
+<dl><dd><dl><dd><i>See also: <a href="Images_by_J.R.R._Tolkien.md" title="Category:Images by J.R.R. Tolkien">Images by J.R.R. Tolkien</a></i></dd></dl></dd></dl>

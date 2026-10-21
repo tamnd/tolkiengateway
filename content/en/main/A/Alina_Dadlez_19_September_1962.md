@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Alina Dadlez (19 September 1962)"
 ---
 
-Redirect to [Letter to Alina Dadlez (19 September 1962)](/wiki/Letter_to_Alina_Dadlez_(19_September_1962)).
+Redirect to [Letter to Alina Dadlez (19 September 1962)](<../L/Letter_to_Alina_Dadlez_(19_September_1962).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Butterbur, Sr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Butterbur, Sr.jpg</span>"
 page_id: 47512
 namespace: 6
 revision_id: 272517

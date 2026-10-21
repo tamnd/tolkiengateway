@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Lurtz Scimitar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Lurtz Scimitar.png</span>"
 page_id: 69727
 namespace: 6
 revision_id: 431916
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Lurtz](/wiki/Lurtz) in *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
+[Lurtz](../../main/L/Lurtz.md) in *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 ## Licensing {#Licensing}
 

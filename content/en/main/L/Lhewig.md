@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**lhewig** is the [Sindarin](/wiki/Sindarin) word for *ear*. A pair of ears is *[lhaw](/wiki/Lhaw "Lhaw")*.
+**lhewig** is the [Sindarin](../S/Sindarin.md) word for *ear*. A pair of ears is *[lhaw](Lhaw.md)*.

@@ -1,6 +1,5 @@
 ---
 title: "Stephen DiGregorio"
-display_title: "<span class=\"mw-page-title-main\">Stephen DiGregorio</span>"
 page_id: 29683
 namespace: 0
 revision_id: 387717
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "DiGregorio, Stephen"
 ---
 
-**Stephen DiGregorio** is a music composer who writes music for the games of [Turbine](/wiki/Turbine), including [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online). He is the music composer for LOTRO Helm’s Deep, LOTRO Riders of Rohan, LOTRO Rise of Isengard, LOTRO Siege of Mirkwood, LOTRO Mines of Moria, and LOTRO Shadows of Angmar. He currently lives in <a class="extiw" href="http://en.wikipedia.org/wiki/Boston" title="wikipedia:Boston">Boston</a>, MA.
+**Stephen DiGregorio** is a music composer who writes music for the games of [Turbine](../T/Turbine.md), including [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md). He is the music composer for LOTRO Helm’s Deep, LOTRO Riders of Rohan, LOTRO Rise of Isengard, LOTRO Siege of Mirkwood, LOTRO Mines of Moria, and LOTRO Shadows of Angmar. He currently lives in <a class="extiw" href="http://en.wikipedia.org/wiki/Boston" title="wikipedia:Boston">Boston</a>, MA.
 
 ## External links {#External_links}
 

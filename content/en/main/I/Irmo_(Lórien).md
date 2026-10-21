@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Irmo"
 ---
 
-Redirect to [Irmo](/wiki/Irmo).
+Redirect to [Irmo](Irmo.md).

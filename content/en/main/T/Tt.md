@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Two Towers"
 ---
 
-Redirect to [The Two Towers](/wiki/The_Two_Towers).
+Redirect to [The Two Towers](The_Two_Towers.md).

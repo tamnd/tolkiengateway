@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Bill the Pony.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Bill the Pony.png</span>"
 page_id: 71532
 namespace: 6
 revision_id: 426659
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bill the Pony](/wiki/Bill_the_Pony) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Bill the Pony](../../main/B/Bill_the_Pony.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

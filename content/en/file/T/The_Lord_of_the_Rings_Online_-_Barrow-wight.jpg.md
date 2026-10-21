@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Barrow-wight.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Barrow-wight.jpg</span>"
 page_id: 73737
 namespace: 6
 revision_id: 435536
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings Online - Barrow-wight.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Barrow-wights" title="Barrow-wights">Barrow-wight</a> of the <a href="/wiki/Barrow-downs" title="Barrow-downs">Barrow-downs</a> from <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p><a href="../../main/B/Barrow-wights.md" title="Barrow-wights">Barrow-wight</a> of the <a href="../../main/B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> from <i><a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/24_April" title="24 April">April 24</a> <a href="/wiki/2007" title="2007">2007</a></td>
+<td><a href="../../main/_/24_April.md" title="24 April">April 24</a> <a href="../../main/_/2007.md" title="2007">2007</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://lotro-wiki.com/wiki/File:Barrow-wight.jpg" rel="noreferrer noopener" target="_blank">https://lotro-wiki.com/wiki/File:Barrow-wight.jpg</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

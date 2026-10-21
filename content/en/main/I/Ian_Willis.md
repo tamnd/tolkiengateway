@@ -1,6 +1,5 @@
 ---
 title: "Ian Willis"
-display_title: "<span class=\"mw-page-title-main\">Ian Willis</span>"
 page_id: 25618
 namespace: 0
 revision_id: 158310
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Willis, Ian"
 ---
 
-**Ian Willis** is a games designer. He created <a class="extiw" href="http://en.wikipedia.org/wiki/BBC_Micro" title="wikipedia:BBC Micro">BBC Micro B</a>-versions of most of [Delta 4](/wiki/Delta_4)'s games, including *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Ian Willis** is a games designer. He created <a class="extiw" href="http://en.wikipedia.org/wiki/BBC_Micro" title="wikipedia:BBC Micro">BBC Micro B</a>-versions of most of [Delta 4](../D/Delta_4.md)'s games, including *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 

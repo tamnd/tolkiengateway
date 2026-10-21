@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - The Capture of Ornendil.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - The Capture of Ornendil.png</span>"
 page_id: 30706
 namespace: 6
 revision_id: 203171
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The capture of [Ornendil](/wiki/Ornendil). Art by Kent Burles, from Anders Blixt, Mats Blomqvist, Gunnar Brolin, Sanna Fogelvik, Åke Rosenius, [Chris Seeman](/wiki/Chris_Seeman), Dag Stålhandske, *[The Kin-strife](/wiki/The_Kin-strife)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2015, 1995)
+The capture of [Ornendil](../../main/O/Ornendil.md). Art by Kent Burles, from Anders Blixt, Mats Blomqvist, Gunnar Brolin, Sanna Fogelvik, Åke Rosenius, [Chris Seeman](../../main/C/Chris_Seeman.md), Dag Stålhandske, *[The Kin-strife](../../main/T/The_Kin-strife.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2015, 1995)
 
 <br>
 

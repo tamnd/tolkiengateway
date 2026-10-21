@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Angelo Montanini - Boromir II.jpg"
 ---
 
-Redirect to [File:Angelo Montanini - Boromir II.jpg](/wiki/File:Angelo_Montanini_-_Boromir_II.jpg).
+Redirect to [File:Angelo Montanini - Boromir II.jpg](Angelo_Montanini_-_Boromir_II.jpg.md).

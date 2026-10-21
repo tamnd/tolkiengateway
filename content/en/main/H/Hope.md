@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hope (disambiguation)"
 ---
 
-Redirect to [Hope (disambiguation)](/wiki/Hope_(disambiguation)).
+Redirect to [Hope (disambiguation)](<Hope_(disambiguation).md>).

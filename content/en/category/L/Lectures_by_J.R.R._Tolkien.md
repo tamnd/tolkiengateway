@@ -1,6 +1,5 @@
 ---
 title: "Category:Lectures by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lectures by J.R.R. Tolkien</span>"
 page_id: 28210
 namespace: 14
 revision_id: 121617
@@ -13,4 +12,4 @@ categories:
   - "Lectures"
 ---
 
-Lectures and academic speeches delivered by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Lectures and academic speeches delivered by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

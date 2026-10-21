@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - King of the Dead.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - King of the Dead.png</span>"
 page_id: 73169
 namespace: 6
 revision_id: 433014
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[King of the Dead](/wiki/King_of_the_Dead) - [LEGO](/wiki/Lego "Lego") minifigure
+[King of the Dead](../../main/K/King_of_the_Dead.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

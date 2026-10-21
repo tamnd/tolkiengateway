@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lake Mithrim"
 ---
 
-Redirect to [Lake Mithrim](/wiki/Lake_Mithrim).
+Redirect to [Lake Mithrim](../L/Lake_Mithrim.md).

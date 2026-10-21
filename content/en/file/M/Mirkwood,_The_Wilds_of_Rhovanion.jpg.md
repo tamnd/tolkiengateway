@@ -1,6 +1,5 @@
 ---
 title: "File:Mirkwood, The Wilds of Rhovanion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mirkwood, The Wilds of Rhovanion.jpg</span>"
 page_id: 29595
 namespace: 6
 revision_id: 350716

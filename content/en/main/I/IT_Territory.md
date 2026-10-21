@@ -1,6 +1,5 @@
 ---
 title: "IT Territory"
-display_title: "<span class=\"mw-page-title-main\">IT Territory</span>"
 page_id: 37687
 namespace: 0
 revision_id: 405915
@@ -16,12 +15,12 @@ categories:
   - "Video Game publishers"
 ---
 
-**IT Territory** (Russian: Территория ИТ) is a Russian company, which is specialized in developing and publishing MMO's. They published [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online) in Russia and maintain its' servers ([Fornost](/wiki/Fornost#Portrayal_in_Adaptations) and [Mirkwood](/wiki/Mirkwood#Portrayal_in_Adaptations)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**IT Territory** (Russian: Территория ИТ) is a Russian company, which is specialized in developing and publishing MMO's. They published [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) in Russia and maintain its' servers ([Fornost](../F/Fornost.md#Portrayal_in_Adaptations) and [Mirkwood](../M/Mirkwood.md#Portrayal_in_Adaptations)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)
-- [NHN Corporation](/wiki/NHN_Corporation)
+- [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
+- [NHN Corporation](../N/NHN_Corporation.md)
 
 ## External links {#External_links}
 
@@ -32,6 +31,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">William Dobson (23 April 2009)</span>. <span class="cite-web-article"><a class="external text" href="http://massively.joystiq.com/2009/04/23/lord-of-the-rings-online-launches-in-korea-and-russia/" rel="noreferrer noopener" target="_blank">&#34;Lord of the Rings Online launches in Korea and Russia&#34;</a></span>. <span class="cite-web-website">Massively</span>. <span class="cite-web-accessed">Retrieved 2 January 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">William Dobson (23 April 2009)</span>. <span class="cite-web-article"><a class="external text" href="http://massively.joystiq.com/2009/04/23/lord-of-the-rings-online-launches-in-korea-and-russia/" rel="noreferrer noopener" target="_blank">&#34;Lord of the Rings Online launches in Korea and Russia&#34;</a></span>. <span class="cite-web-website">Massively</span>. <span class="cite-web-accessed">Retrieved 2 January 2012</span></cite></span>
 </li>
 </ol></div>

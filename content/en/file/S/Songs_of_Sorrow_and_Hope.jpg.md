@@ -1,6 +1,5 @@
 ---
 title: "File:Songs of Sorrow and Hope.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Songs of Sorrow and Hope.jpg</span>"
 page_id: 53321
 namespace: 6
 revision_id: 290183

@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - Aranarth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - Aranarth.jpg</span>"
 page_id: 29950
 namespace: 6
 revision_id: 203169
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Interior from the [MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing") book *[Arnor: The Realm](/wiki/Arnor:_The_Realm)*.
+Interior from the [MERP](../../main/M/Middle-earth_Role_Playing.md) book *[Arnor: The Realm](../../main/A/Arnor%253A_The_Realm.md)*.
 
 ## Licensing {#Licensing}
 

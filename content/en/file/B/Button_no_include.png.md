@@ -1,6 +1,5 @@
 ---
 title: "File:Button no include.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button no include.png</span>"
 page_id: 28535
 namespace: 6
 revision_id: 168996

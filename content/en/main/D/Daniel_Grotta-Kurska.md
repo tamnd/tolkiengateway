@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Daniel Grotta"
 ---
 
-Redirect to [Daniel Grotta](/wiki/Daniel_Grotta).
+Redirect to [Daniel Grotta](Daniel_Grotta.md).

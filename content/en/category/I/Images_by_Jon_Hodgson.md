@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jon Hodgson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jon Hodgson</span>"
 page_id: 72794
 namespace: 14
 revision_id: 431438
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hodgson, Jon"
 ---
 
-This category lists all **images by [Jon Hodgson](/wiki/Jon_Hodgson)**.
+This category lists all **images by [Jon Hodgson](../../main/J/Jon_Hodgson.md)**.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King of the Noldor"
 ---
 
-Redirect to [High King of the Noldor](/wiki/High_King_of_the_Noldor).
+Redirect to [High King of the Noldor](High_King_of_the_Noldor.md).

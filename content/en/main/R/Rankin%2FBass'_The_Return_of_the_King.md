@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the King (1980 film)"
 ---
 
-Redirect to [The Return of the King (1980 film)](/wiki/The_Return_of_the_King_(1980_film)).
+Redirect to [The Return of the King (1980 film)](<../T/The_Return_of_the_King_(1980_film).md>).

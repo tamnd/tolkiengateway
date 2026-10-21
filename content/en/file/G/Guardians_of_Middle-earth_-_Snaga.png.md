@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Snaga.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Snaga.png</span>"
 page_id: 71447
 namespace: 6
 revision_id: 426042
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Snaga](</wiki/Snaga_(orc_of_Isengard)> "Snaga (orc of Isengard)") - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Snaga](<../../main/S/Snaga_(orc_of_Isengard).md>) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

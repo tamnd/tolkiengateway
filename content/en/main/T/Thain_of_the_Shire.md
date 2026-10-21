@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thain"
 ---
 
-Redirect to [Thain](/wiki/Thain).
+Redirect to [Thain](Thain.md).

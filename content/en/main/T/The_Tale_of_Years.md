@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Appendix B"
 ---
 
-Redirect to [Appendix B](/wiki/Appendix_B).
+Redirect to [Appendix B](../A/Appendix_B.md).

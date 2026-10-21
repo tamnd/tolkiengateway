@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Othrod"
 ---
 
-Redirect to [Othrod](/wiki/Othrod).
+Redirect to [Othrod](Othrod.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ken Meyer, Jr."
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ken Meyer, Jr.</span>"
 page_id: 72761
 namespace: 14
 revision_id: 431323
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Meyer, Ken Jr."
 ---
 
-This category lists all **images by [Ken Meyer, Jr.](/wiki/Ken_Meyer,_Jr.)**.
+This category lists all **images by [Ken Meyer, Jr.](../../main/K/Ken_Meyer,_Jr..md)**.

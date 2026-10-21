@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Film books"
 ---
 
-Redirect to [Category:Film books](/wiki/Category:Film_books).
+Redirect to [Category:Film books](../../category/F/Film_books.md).

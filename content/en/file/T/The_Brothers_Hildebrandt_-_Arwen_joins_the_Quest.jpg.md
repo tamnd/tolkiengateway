@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Arwen joins the Quest.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Arwen joins the Quest.jpg</span>"
 page_id: 71462
 namespace: 6
 revision_id: 433026
@@ -34,27 +33,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Brothers Hildebrandt - Arwen joins the Quest.jpg</span></th>
 <td class="description">
-&#34;<a href="/wiki/Arwen" title="Arwen">Arwen</a> joins the Quest&#34; by <a href="/wiki/The_Brothers_Hildebrandt" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a>, designed as the cover for for <a href="/wiki/InQuest" title="InQuest">InQuest</a> 63. <blockquote class="tg-quote noexcerpt">
+&#34;<a href="../../main/A/Arwen.md" title="Arwen">Arwen</a> joins the Quest&#34; by <a href="../../main/T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a>, designed as the cover for for <a href="../../main/I/InQuest.md" title="InQuest">InQuest</a> 63. <blockquote class="tg-quote noexcerpt">
 <p> It was a daunting challenge for the Hildebrandt brothers: create a captivating cover for an issue previewing the first &#34;Lord of the Rings&#34; movie, &#34;The Fellowship of the Ring,&#34; but without the aid of any stills or other reference material from the studio, which was keeping everything under wraps! Despite this handicap, the famed duo produced outstanding artistic likenesses of Liv Tyler (Arwen), Elijah Wood (Frodo), and Ian McKellen (Gandalf).
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2000</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/The_Brothers_Hildebrandt" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
+<td><a href="../../main/T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://comics.ha.com/itm/original-comic-art/covers/greg-and-tim-hildebrandt-inquest-gamer-magazine-63-cover-original-art-wizard-entertainment-2000-it-was-a-daunting-cha/a/821-44254.s#" rel="noreferrer noopener" target="_blank">Auction</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

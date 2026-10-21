@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Speech"
 ---
 
-Redirect to [Black Speech](/wiki/Black_Speech).
+Redirect to [Black Speech](Black_Speech.md).

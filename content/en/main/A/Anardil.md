@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anardil (disambiguation)"
 ---
 
-Redirect to [Anardil (disambiguation)](/wiki/Anardil_(disambiguation)).
+Redirect to [Anardil (disambiguation)](<Anardil_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor Firn-i-Guinar"
 ---
 
-Redirect to [Dor Firn-i-Guinar](/wiki/Dor_Firn-i-Guinar).
+Redirect to [Dor Firn-i-Guinar](../D/Dor_Firn-i-Guinar.md).

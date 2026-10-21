@@ -1,6 +1,5 @@
 ---
 title: "Eamon (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Eamon (disambiguation)</span>"
 page_id: 63014
 namespace: 0
 revision_id: 385798
@@ -17,14 +16,14 @@ images:
 
 **Eamon** can refer to:
 
-- **[Eamon (The Rings of Power)](</wiki/Eamon_(The_Rings_of_Power)>)**, a [Man](/wiki/Men "Men") within the *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* produced by [Amazon Studios](/wiki/Amazon_Studios).
-- <i><b><a href="/wiki/Eamon_(video_game)" title="Eamon (video game)">Eamon (video game)</a></b></i>, a long-running series of text adventure games originally made for the <a class="extiw" href="http://en.wikipedia.org/wiki/Apple_II_series" title="wikipedia:Apple II series">Apple II</a>.
+- **[Eamon (The Rings of Power)](<Eamon_(The_Rings_of_Power).md>)**, a [Man](../M/Men.md) within the *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* produced by [Amazon Studios](../A/Amazon_Studios.md).
+- <i><b><a href="Eamon_(video_game).md" title="Eamon (video game)">Eamon (video game)</a></b></i>, a long-running series of text adventure games originally made for the <a class="extiw" href="http://en.wikipedia.org/wiki/Apple_II_series" title="wikipedia:Apple II series">Apple II</a>.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Eamon_(disambiguation)" title="Special:WhatLinksHere/:Eamon (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Eamon_(disambiguation)" title="Special:WhatLinksHere/:Eamon (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

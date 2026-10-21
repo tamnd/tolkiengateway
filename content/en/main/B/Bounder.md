@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bounders"
 ---
 
-Redirect to [Bounders](/wiki/Bounders).
+Redirect to [Bounders](Bounders.md).

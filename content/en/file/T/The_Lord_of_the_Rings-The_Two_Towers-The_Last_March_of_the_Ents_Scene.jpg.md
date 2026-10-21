@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Two Towers-The Last March of the Ents Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Two Towers-The Last March of the Ents Scene.jpg</span>"
 page_id: 75195
 namespace: 6
 revision_id: 442723

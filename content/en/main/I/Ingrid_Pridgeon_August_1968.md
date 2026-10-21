@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ingrid Pridgeon"
 ---
 
-Redirect to [Letter to Ingrid Pridgeon](/wiki/Letter_to_Ingrid_Pridgeon).
+Redirect to [Letter to Ingrid Pridgeon](../L/Letter_to_Ingrid_Pridgeon.md).

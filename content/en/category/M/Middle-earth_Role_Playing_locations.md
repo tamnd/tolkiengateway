@@ -1,6 +1,5 @@
 ---
 title: "Category:Middle-earth Role Playing locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing locations</span>"
 page_id: 71983
 namespace: 14
 revision_id: 428443

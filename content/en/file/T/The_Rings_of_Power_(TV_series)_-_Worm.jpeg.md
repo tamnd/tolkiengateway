@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Worm.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Worm.jpeg</span>"
 page_id: 64454
 namespace: 6
 revision_id: 412226
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Worm](/wiki/Nameless_things "Nameless things") as seen in the [second episode](/wiki/Adrift "Adrift") of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* by [Amazon Studios](/wiki/Amazon_Studios).
+The [Worm](../../main/N/Nameless_things.md) as seen in the [second episode](../../main/A/Adrift.md) of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* by [Amazon Studios](../../main/A/Amazon_Studios.md).
 
 ## Licensing {#Licensing}
 

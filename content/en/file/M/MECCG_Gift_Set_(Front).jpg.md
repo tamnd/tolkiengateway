@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG Gift Set (Front).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG Gift Set (Front).jpg</span>"
 page_id: 72899
 namespace: 6
 revision_id: 432127

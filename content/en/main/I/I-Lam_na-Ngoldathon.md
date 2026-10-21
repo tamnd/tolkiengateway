@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gnomish"
 ---
 
-Redirect to [Gnomish](/wiki/Gnomish).
+Redirect to [Gnomish](../G/Gnomish.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gamling"
 ---
 
-Redirect to [Gamling](/wiki/Gamling).
+Redirect to [Gamling](Gamling.md).

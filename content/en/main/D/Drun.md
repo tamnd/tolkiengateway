@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drûn"
 ---
 
-Redirect to [Drûn](/wiki/Drûn).
+Redirect to [Drûn](Drûn.md).

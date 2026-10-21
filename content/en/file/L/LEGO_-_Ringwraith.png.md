@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Ringwraith.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Ringwraith.png</span>"
 page_id: 73083
 namespace: 6
 revision_id: 432632
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ringwraith](/wiki/Nazg%C3%BBl "Nazgûl") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor018/ringwraith-(nazg%C3%BBl)-robe-with-buckle" rel="noreferrer noopener" target="_blank">Brickset</a> (Until now, I had been uploading the newest version of the figure. I think, however, most will agree that the old Nazgûl fig is far superior. If anybody objects, you could change it.)
+[Ringwraith](../../main/N/Nazgûl.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor018/ringwraith-(nazg%C3%BBl)-robe-with-buckle" rel="noreferrer noopener" target="_blank">Brickset</a> (Until now, I had been uploading the newest version of the figure. I think, however, most will agree that the old Nazgûl fig is far superior. If anybody objects, you could change it.)
 
 ## Licensing {#Licensing}
 

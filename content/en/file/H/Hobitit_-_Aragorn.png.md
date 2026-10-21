@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - Aragorn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - Aragorn.png</span>"
 page_id: 56391
 namespace: 6
 revision_id: 376821
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) from *[Hobitit](/wiki/Hobitit)*.
+[Aragorn](../../main/A/Aragorn.md) from *[Hobitit](../../main/H/Hobitit.md)*.
 
 ## Licensing {#Licensing}
 

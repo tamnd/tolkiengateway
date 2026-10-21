@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien – El Senor de Los Mitos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien – El Senor de Los Mitos.jpg</span>"
 page_id: 47939
 namespace: 6
 revision_id: 255415

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éomer"
 ---
 
-Redirect to [Éomer](/wiki/Éomer).
+Redirect to [Éomer](Éomer.md).

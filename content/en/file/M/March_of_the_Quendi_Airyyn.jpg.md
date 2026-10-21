@@ -1,6 +1,5 @@
 ---
 title: "File:March of the Quendi Airyyn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">March of the Quendi Airyyn.jpg</span>"
 page_id: 68488
 namespace: 6
 revision_id: 403599

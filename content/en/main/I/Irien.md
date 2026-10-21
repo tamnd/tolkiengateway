@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Írimë"
 ---
 
-Redirect to [Írimë](/wiki/Írimë).
+Redirect to [Írimë](../_/Írimë.md).

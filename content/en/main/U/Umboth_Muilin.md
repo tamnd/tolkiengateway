@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aelin-uial"
 ---
 
-Redirect to [Aelin-uial](/wiki/Aelin-uial).
+Redirect to [Aelin-uial](../A/Aelin-uial.md).

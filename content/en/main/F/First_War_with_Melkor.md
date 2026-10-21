@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First War"
 ---
 
-Redirect to [First War](/wiki/First_War).
+Redirect to [First War](First_War.md).

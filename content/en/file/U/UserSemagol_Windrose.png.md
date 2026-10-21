@@ -1,6 +1,5 @@
 ---
 title: "File:UserSemagol Windrose.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">UserSemagol Windrose.png</span>"
 page_id: 68771
 namespace: 6
 revision_id: 409458
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-User heraldic logo, adapted from <span class="mw-default-size" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:WindRose3.png"><img src="/w/images/a/a2/WindRose3.png" decoding="async" loading="lazy" width="500" height="503" class="mw-file-element" data-file-width="500" data-file-height="503"/></a></span>
+User heraldic logo, adapted from <span class="mw-default-size" typeof="mw:File"><a class="mw-file-description" href="../W/WindRose3.png.md"><img src="https://tolkiengateway.net/w/images/a/a2/WindRose3.png" decoding="async" loading="lazy" width="500" height="503" class="mw-file-element" data-file-width="500" data-file-height="503"/></a></span>
 
 ## Licensing {#Licensing}
 

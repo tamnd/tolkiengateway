@@ -1,6 +1,5 @@
 ---
 title: "Parmaitë"
-display_title: "<span class=\"mw-page-title-main\">Parmaitë</span>"
 page_id: 10236
 namespace: 0
 revision_id: 416284
@@ -21,15 +20,15 @@ sort_keys:
   "Quenya names": "Parmaite"
 ---
 
-**Parmaitë** was a nickname of **[Tar-Elendil](/wiki/Tar-Elendil)**, the fourth [King of Númenor](/wiki/King_of_N%C3%BAmenor). The name came from his hobby of making books from the notes on legends and lore gathered by his grandfather, [Vardamir Nólimon](/wiki/Vardamir "Vardamir").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Parmaitë** was a nickname of **[Tar-Elendil](../T/Tar-Elendil.md)**, the fourth [King of Númenor](../K/King_of_Númenor.md). The name came from his hobby of making books from the notes on legends and lore gathered by his grandfather, [Vardamir Nólimon](../V/Vardamir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-His name means "Book-Handed" in [Quenya](/wiki/Quenya) (from *[parma](/wiki/Parma "Parma")* = "book" and *-[maitë](/wiki/Mait%C3%AB "Maitë")* = "handed").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+His name means "Book-Handed" in [Quenya](../Q/Quenya.md) (from *[parma](Parma.md)* = "book" and *-[maitë](../M/Maitë.md)* = "handed").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Line_of_Elros:_Kings_of_N%C3%BAmenor" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
 </li>
 </ol></div>

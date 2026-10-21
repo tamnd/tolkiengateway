@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Martin Grip"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Martin Grip</span>"
 page_id: 74889
 namespace: 14
 revision_id: 440659
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Grip, Martin"
 ---
 
-This category lists all **images by [Martin Grip](/wiki/Martin_Grip)**.
+This category lists all **images by [Martin Grip](../../main/M/Martin_Grip.md)**.

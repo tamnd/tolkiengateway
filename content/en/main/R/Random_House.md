@@ -1,6 +1,5 @@
 ---
 title: "Random House"
-display_title: "<span class=\"mw-page-title-main\">Random House</span>"
 page_id: 6725
 namespace: 0
 revision_id: 190083
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Random House** is a publisher of numerous books by and about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Random House** is a publisher of numerous books by and about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## External links {#External_links}
 

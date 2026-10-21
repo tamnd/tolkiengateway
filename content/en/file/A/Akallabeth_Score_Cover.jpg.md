@@ -1,6 +1,5 @@
 ---
 title: "File:Akallabeth Score Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Akallabeth Score Cover.jpg</span>"
 page_id: 65220
 namespace: 6
 revision_id: 378812

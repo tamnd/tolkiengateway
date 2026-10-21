@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin, Op. 48 (Opera)"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin, Op. 48 (Opera)</span>"
 page_id: 65175
 namespace: 0
 revision_id: 426194
@@ -16,11 +15,11 @@ images:
   - "Hurin_CD_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Hurin_CD_Cover.png"><img src="/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, /w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurin_CD_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/300px-Hurin_CD_Cover.png" decoding="async" loading="lazy" width="300" height="315" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/450px-Hurin_CD_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Hurin_CD_Cover.png/600px-Hurin_CD_Cover.png 2x" data-file-width="1405" data-file-height="1474"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith</figcaption></figure>
 
-Part three of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
+Part three of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
 
-This section of the *Epic Scenes* was composed between 1981 and 1982 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. It utilises texts from *[The Silmarillion](/wiki/The_Silmarillion), [The Unfinished Tales](/wiki/Unfinished_Tales "Unfinished Tales")* and *[The Lays of Beleriand](/wiki/The_Lays_of_Beleriand).*
+This section of the *Epic Scenes* was composed between 1981 and 1982 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto. It utilises texts from *[The Silmarillion](The_Silmarillion.md), [The Unfinished Tales](../U/Unfinished_Tales.md)* and *[The Lays of Beleriand](The_Lays_of_Beleriand.md).*
 
 It has a total duration of 136 minutes and is scored for full orchestra, full chorus and solo voices.
 

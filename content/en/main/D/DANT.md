@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "DAT"
 ---
 
-Redirect to [DAT](/wiki/DAT).
+Redirect to [DAT](DAT.md).

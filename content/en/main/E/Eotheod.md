@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éothéod"
 ---
 
-Redirect to [Éothéod](/wiki/Éothéod).
+Redirect to [Éothéod](../_/Éothéod.md).

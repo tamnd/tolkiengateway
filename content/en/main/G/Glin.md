@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glîn"
 ---
 
-Redirect to [Glîn](/wiki/Glîn).
+Redirect to [Glîn](Glîn.md).

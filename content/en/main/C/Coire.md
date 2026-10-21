@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Coirë"
 ---
 
-Redirect to [Coirë](/wiki/Coirë).
+Redirect to [Coirë](Coirë.md).

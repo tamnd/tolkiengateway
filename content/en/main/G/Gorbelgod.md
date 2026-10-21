@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Swans of Gorbelgod"
 ---
 
-Redirect to [Swans of Gorbelgod](/wiki/Swans_of_Gorbelgod).
+Redirect to [Swans of Gorbelgod](../S/Swans_of_Gorbelgod.md).

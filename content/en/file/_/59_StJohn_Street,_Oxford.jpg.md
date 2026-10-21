@@ -1,6 +1,5 @@
 ---
 title: "File:59 StJohn Street, Oxford.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">59 StJohn Street, Oxford.jpg</span>"
 page_id: 48202
 namespace: 6
 revision_id: 257265

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Rings of Power and the Third Age"
 ---
 
-Redirect to [Of the Rings of Power and the Third Age](/wiki/Of_the_Rings_of_Power_and_the_Third_Age).
+Redirect to [Of the Rings of Power and the Third Age](Of_the_Rings_of_Power_and_the_Third_Age.md).

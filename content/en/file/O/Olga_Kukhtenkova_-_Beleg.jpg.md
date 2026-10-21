@@ -1,6 +1,5 @@
 ---
 title: "File:Olga Kukhtenkova - Beleg.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Olga Kukhtenkova - Beleg.jpg</span>"
 page_id: 14657
 namespace: 6
 revision_id: 182702
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Olga Kukhtenkova</li>
 <li><b>Website:</b> <a class="external text" href="http://www.graysilk.ru" rel="noreferrer noopener" target="_blank">Olga Kukhtenkova&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Olga_Kukhtenkova" title="Tolkien Gateway:Copyrights/Olga Kukhtenkova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOlga_Kukhtenkova.md" title="Tolkien Gateway:Copyrights/Olga Kukhtenkova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

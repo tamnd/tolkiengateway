@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déor"
 ---
 
-Redirect to [Déor](/wiki/Déor).
+Redirect to [Déor](Déor.md).

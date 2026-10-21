@@ -1,6 +1,5 @@
 ---
 title: "File:Donato Giancola - The Will of the Ring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Donato Giancola - The Will of the Ring.png</span>"
 page_id: 73997
 namespace: 6
 revision_id: 440899
@@ -35,27 +34,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Donato Giancola - The Will of the Ring.png</span></th>
 <td class="description">
-<p><i>The Will of <a href="/wiki/The_One_Ring" title="The One Ring">the Ring</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i>The Will of <a href="../../main/T/The_One_Ring.md" title="The One Ring">the Ring</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Donato_Giancola" title="Donato Giancola">Donato Giancola</a></td>
+<td><a href="../../main/D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -70,8 +66,8 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Donato Giancola</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Donato_Giancola" title="Donato Giancola">Donato Giancola</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Donato_Giancola" title="Donato Giancola">Donato Giancola</a></li>
+<ul><li><b>Name:</b> <a href="../../main/D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></li>
 <li><b>Website:</b> <a class="external text" href="http://donatoart.com" rel="noreferrer noopener" target="_blank">donatoart.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Donato_Giancola" title="Tolkien Gateway:Copyrights/Donato Giancola">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDonato_Giancola.md" title="Tolkien Gateway:Copyrights/Donato Giancola">Permission for use on Tolkien Gateway</a></b></li></ul></div>

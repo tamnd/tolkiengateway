@@ -1,6 +1,5 @@
 ---
 title: "File:The trees, the jewels and the rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The trees, the jewels and the rings.jpg</span>"
 page_id: 65654
 namespace: 6
 revision_id: 378113
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [The Trees, the Jewels and the Rings](/wiki/The_Trees,_the_Jewels_and_the_Rings) by [Charles E. Noad](/wiki/Charles_E._Noad)
+Cover of [The Trees, the Jewels and the Rings](../../main/T/The_Trees,_the_Jewels_and_the_Rings.md) by [Charles E. Noad](../../main/C/Charles_E._Noad.md)
 
 ## Licensing {#Licensing}
 

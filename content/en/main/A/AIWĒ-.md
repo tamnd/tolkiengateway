@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AIWĒ"
 ---
 
-Redirect to [AIWĒ](/wiki/AIWĒ).
+Redirect to [AIWĒ](AIWĒ.md).

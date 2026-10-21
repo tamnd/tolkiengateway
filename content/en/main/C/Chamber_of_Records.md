@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chamber of Mazarbul"
 ---
 
-Redirect to [Chamber of Mazarbul](/wiki/Chamber_of_Mazarbul).
+Redirect to [Chamber of Mazarbul](Chamber_of_Mazarbul.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morthond"
 ---
 
-Redirect to [Morthond](/wiki/Morthond).
+Redirect to [Morthond](../M/Morthond.md).

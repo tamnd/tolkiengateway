@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Greenfields"
 ---
 
-Redirect to [Battle of Greenfields](/wiki/Battle_of_Greenfields).
+Redirect to [Battle of Greenfields](Battle_of_Greenfields.md).

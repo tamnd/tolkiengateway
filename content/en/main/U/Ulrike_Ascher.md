@@ -1,6 +1,5 @@
 ---
 title: "Ulrike Ascher"
-display_title: "<span class=\"mw-page-title-main\">Ulrike Ascher</span>"
 page_id: 47012
 namespace: 0
 revision_id: 407769
@@ -19,11 +18,11 @@ sort_keys:
   "Translators": "Ascher, Ulrike"
 ---
 
-**Ulrike Ascher** (born [1960](/wiki/1960))<sup id="cite_ref-AV_1-0" class="reference"><a href="#cite_note-AV-1">[1]</a></sup> is a German journalist, author and translator.
+**Ulrike Ascher** (born [1960](../_/1960.md))<sup id="cite_ref-AV_1-0" class="reference"><a href="#cite_note-AV-1">[1]</a></sup> is a German journalist, author and translator.
 
-Ulrike Ascher was born in <a class="extiw" href="http://en.wikipedia.org/wiki/Hamburg" title="wikipedia:Hamburg">Hamburg</a> and studied English. She writes nonfiction books, especially about spiritualism, herbs and gardening. Since [1998](/wiki/1998), Ulrike Ascher lives in <a class="extiw" href="http://en.wikipedia.org/wiki/Ireland" title="wikipedia:Ireland">Ireland</a>, where she works as a <a class="extiw" href="http://en.wikipedia.org/wiki/Shamanism" title="wikipedia:Shamanism">shaman</a> and organises workshops about magic rituals, <a class="extiw" href="http://en.wikipedia.org/wiki/Reiki" title="wikipedia:Reiki">Reiki</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Hypnosis" title="wikipedia:Hypnosis">hypnosis</a>.<sup id="cite_ref-AV_1-1" class="reference"><a href="#cite_note-AV-1">[1]</a></sup>
+Ulrike Ascher was born in <a class="extiw" href="http://en.wikipedia.org/wiki/Hamburg" title="wikipedia:Hamburg">Hamburg</a> and studied English. She writes nonfiction books, especially about spiritualism, herbs and gardening. Since [1998](../_/1998.md), Ulrike Ascher lives in <a class="extiw" href="http://en.wikipedia.org/wiki/Ireland" title="wikipedia:Ireland">Ireland</a>, where she works as a <a class="extiw" href="http://en.wikipedia.org/wiki/Shamanism" title="wikipedia:Shamanism">shaman</a> and organises workshops about magic rituals, <a class="extiw" href="http://en.wikipedia.org/wiki/Reiki" title="wikipedia:Reiki">Reiki</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Hypnosis" title="wikipedia:Hypnosis">hypnosis</a>.<sup id="cite_ref-AV_1-1" class="reference"><a href="#cite_note-AV-1">[1]</a></sup>
 
-Ulrike Ascher translated the song texts, notes and the appendix of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)’s and [Donald Swann](/wiki/Donald_Swann)’s *[The Road Goes Ever On, A Song Cycle](</wiki/The_Road_Goes_Ever_On_(book)> "The Road Goes Ever On (book)")* (*The Road Goes Ever On: Der Tolkien Liederzyklus*, [1993](/wiki/1993)) into German. The German edition of the book is a reprint of the original one and includes Ulrike Ascher’s translation as a separate printing. <span></span>
+Ulrike Ascher translated the song texts, notes and the appendix of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)’s and [Donald Swann](../D/Donald_Swann.md)’s *[The Road Goes Ever On, A Song Cycle](<../T/The_Road_Goes_Ever_On_(book).md>)* (*The Road Goes Ever On: Der Tolkien Liederzyklus*, [1993](../_/1993.md)) into German. The German edition of the book is a reprint of the original one and includes Ulrike Ascher’s translation as a separate printing. <span></span>
 
 ## References {#References}
 

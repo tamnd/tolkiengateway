@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sleeper"
 ---
 
-Redirect to [Sleeper](/wiki/Sleeper).
+Redirect to [Sleeper](Sleeper.md).

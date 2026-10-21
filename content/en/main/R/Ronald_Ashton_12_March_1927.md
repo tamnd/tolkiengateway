@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ronald Ashton"
 ---
 
-Redirect to [Letter to Ronald Ashton](/wiki/Letter_to_Ronald_Ashton).
+Redirect to [Letter to Ronald Ashton](../L/Letter_to_Ronald_Ashton.md).

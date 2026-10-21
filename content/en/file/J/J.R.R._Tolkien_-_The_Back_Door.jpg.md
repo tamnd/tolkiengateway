@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Back Door.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Back Door.jpg</span>"
 page_id: 72385
 namespace: 6
 revision_id: 430043
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Back Door](/wiki/Back_Door "Back Door") by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[The Back Door](../../main/B/Back_Door.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhudaur"
 ---
 
-Redirect to [Rhudaur](/wiki/Rhudaur).
+Redirect to [Rhudaur](../R/Rhudaur.md).

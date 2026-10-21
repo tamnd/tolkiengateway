@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Púkel-men"
 ---
 
-Redirect to [Púkel-men](/wiki/Púkel-men).
+Redirect to [Púkel-men](../P/Púkel-men.md).

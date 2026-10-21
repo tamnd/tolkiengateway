@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walls of the Night"
 ---
 
-Redirect to [Walls of the Night](/wiki/Walls_of_the_Night).
+Redirect to [Walls of the Night](Walls_of_the_Night.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pelargir"
 ---
 
-Redirect to [Pelargir](/wiki/Pelargir).
+Redirect to [Pelargir](Pelargir.md).

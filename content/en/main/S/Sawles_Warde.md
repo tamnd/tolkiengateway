@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Soul's Ward"
 ---
 
-Redirect to [Soul's Ward](/wiki/Soul's_Ward).
+Redirect to [Soul's Ward](Soul's_Ward.md).

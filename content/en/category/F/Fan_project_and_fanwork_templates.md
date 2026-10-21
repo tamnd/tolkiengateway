@@ -1,6 +1,5 @@
 ---
 title: "Category:Fan project and fanwork templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fan project and fanwork templates</span>"
 page_id: 60076
 namespace: 14
 revision_id: 336561

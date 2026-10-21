@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inklings: Jahrbuch für Literatur und Ästhetik"
 ---
 
-Redirect to [Inklings: Jahrbuch für Literatur und Ästhetik](/wiki/Inklings:_Jahrbuch_für_Literatur_und_Ästhetik).
+Redirect to [Inklings: Jahrbuch für Literatur und Ästhetik](Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md).

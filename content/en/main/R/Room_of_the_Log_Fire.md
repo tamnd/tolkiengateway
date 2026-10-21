@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Room of Logs"
 ---
 
-Redirect to [Room of Logs](/wiki/Room_of_Logs).
+Redirect to [Room of Logs](Room_of_Logs.md).

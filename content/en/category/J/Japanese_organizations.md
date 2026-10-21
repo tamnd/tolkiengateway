@@ -1,6 +1,5 @@
 ---
 title: "Category:Japanese organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Japanese organizations</span>"
 page_id: 35355
 namespace: 14
 revision_id: 166183

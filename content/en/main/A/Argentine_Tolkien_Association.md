@@ -1,6 +1,5 @@
 ---
 title: "Argentine Tolkien Association"
-display_title: "<span class=\"mw-page-title-main\">Argentine Tolkien Association</span>"
 page_id: 39184
 namespace: 0
 revision_id: 404743
@@ -14,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-The **Argentine Tolkien Association** (Spanish: *La Asociación Tolkien Argentina*) is a [Tolkien society](/wiki/Tolkien_societies "Tolkien societies") based in Argentina. It appears active in 2023. It appears to have moved from its website (now defunct) to Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Another page is titled similarly but this appears to be a fan page only.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The **Argentine Tolkien Association** (Spanish: *La Asociación Tolkien Argentina*) is a [Tolkien society](../T/Tolkien_societies.md) based in Argentina. It appears active in 2023. It appears to have moved from its website (now defunct) to Facebook.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Another page is titled similarly but this appears to be a fan page only.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 

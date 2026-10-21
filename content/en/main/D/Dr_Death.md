@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Dr Death"
 ---
 
-Redirect to [User:Dr Death](/wiki/User:Dr_Death).
+Redirect to [User:Dr Death](https://tolkiengateway.net/wiki/User:Dr_Death).

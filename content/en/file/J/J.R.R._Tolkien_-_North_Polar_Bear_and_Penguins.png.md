@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - North Polar Bear and Penguins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - North Polar Bear and Penguins.png</span>"
 page_id: 66953
 namespace: 6
 revision_id: 424837
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The [North Polar Bear](/wiki/North_Polar_Bear) dancing with the chiefs of the penguins, drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) ([Father Christmas](/wiki/Father_Christmas)), sent in [1940](/wiki/1940).
+The [North Polar Bear](../../main/N/North_Polar_Bear.md) dancing with the chiefs of the penguins, drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) ([Father Christmas](../../main/F/Father_Christmas.md)), sent in [1940](../../main/_/1940.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

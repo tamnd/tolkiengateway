@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven characteristics"
 ---
 
-Redirect to [Elven characteristics](/wiki/Elven_characteristics).
+Redirect to [Elven characteristics](Elven_characteristics.md).

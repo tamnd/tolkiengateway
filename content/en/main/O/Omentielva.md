@@ -1,6 +1,5 @@
 ---
 title: "Omentielva"
-display_title: "<span class=\"mw-page-title-main\">Omentielva</span>"
 page_id: 22006
 namespace: 0
 revision_id: 402521
@@ -18,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Omentielva"
 ---
 
-**Omentielva** (also the International Conference on J.R.R. Tolkien’s Invented Languages) is a biennial scholarly conference for the invented languages of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). The name of the conference comes from the [Quenya](/wiki/Quenya) word for "meeting", *[omentie](/wiki/Omentie "Omentie")*. The meetings are all numbered using the appropriate Quenya ordinal. Thus, the first meeting is called Omentielva Minya (literally "first meeting").
+**Omentielva** (also the International Conference on J.R.R. Tolkien’s Invented Languages) is a biennial scholarly conference for the invented languages of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). The name of the conference comes from the [Quenya](../Q/Quenya.md) word for "meeting", *[omentie](Omentie.md)*. The meetings are all numbered using the appropriate Quenya ordinal. Thus, the first meeting is called Omentielva Minya (literally "first meeting").
 
-The proceedings of the Conference are published as *[Arda Philology](/wiki/Arda_Philology)*.
+The proceedings of the Conference are published as *[Arda Philology](../A/Arda_Philology.md)*.
 
 ## Omentielva Minya {#Omentielva_Minya}
 

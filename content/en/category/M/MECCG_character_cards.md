@@ -1,6 +1,5 @@
 ---
 title: "Category:MECCG character cards"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG character cards</span>"
 page_id: 27134
 namespace: 14
 revision_id: 196010
@@ -13,4 +12,4 @@ categories:
   - "MECCG cards"
 ---
 
-This category lists all **MECCG character cards** for the *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)*.
+This category lists all **MECCG character cards** for the *[Middle-earth Collectible Card Game](../../main/M/Middle-earth_Collectible_Card_Game.md)*.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Siege of Gondor"
 ---
 
-Redirect to [Category:Images of the Siege of Gondor](/wiki/Category:Images_of_the_Siege_of_Gondor).
+Redirect to [Category:Images of the Siege of Gondor](Images_of_the_Siege_of_Gondor.md).

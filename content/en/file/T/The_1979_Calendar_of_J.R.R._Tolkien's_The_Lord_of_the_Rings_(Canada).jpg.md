@@ -1,6 +1,5 @@
 ---
 title: "File:The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings (Canada).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The 1979 Calendar of J.R.R. Tolkien&#039;s The Lord of the Rings (Canada).jpg</span>"
 page_id: 6526
 namespace: 6
 revision_id: 215495

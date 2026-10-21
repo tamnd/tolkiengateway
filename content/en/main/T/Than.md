@@ -13,8 +13,8 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>than</b></i> (<i><b>thand</b></i> or <i><b>thann</b></i> in full) is a noun in the [Sindarin](/wiki/Sindarin) language, meaning "shield". The Quenya equivalent is *stan*.
+<i><b>than</b></i> (<i><b>thand</b></i> or <i><b>thann</b></i> in full) is a noun in the [Sindarin](../S/Sindarin.md) language, meaning "shield". The Quenya equivalent is *stan*.
 
 ## Example {#Example}
 
-- [Thangail](/wiki/Thangail)
+- [Thangail](Thangail.md)

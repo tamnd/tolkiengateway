@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Aleksander Karcz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Aleksander Karcz</span>"
 page_id: 72775
 namespace: 14
 revision_id: 431419
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Karcz, Aleksander"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Aleksander_Karcz&amp;action=edit&amp;redlink=1" title="Aleksander Karcz (page does not exist)">Aleksander Karcz</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Aleksander_Karcz&amp;action=edit&amp;redlink=1" title="Aleksander Karcz (page does not exist)">Aleksander Karcz</a></b>.

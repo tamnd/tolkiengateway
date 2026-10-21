@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eruman beneath the Stars"
 ---
 
-Redirect to [Eruman beneath the Stars](/wiki/Eruman_beneath_the_Stars).
+Redirect to [Eruman beneath the Stars](../E/Eruman_beneath_the_Stars.md).

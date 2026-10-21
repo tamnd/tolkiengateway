@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Loback - Thingol fights Boldog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Loback - Thingol fights Boldog.jpg</span>"
 page_id: 58308
 namespace: 6
 revision_id: 321103

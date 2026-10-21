@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mablung (ranger of Ithilien)"
 ---
 
-Redirect to [Mablung (ranger of Ithilien)](/wiki/Mablung_(ranger_of_Ithilien)).
+Redirect to [Mablung (ranger of Ithilien)](<Mablung_(ranger_of_Ithilien).md>).

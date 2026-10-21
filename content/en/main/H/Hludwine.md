@@ -11,4 +11,4 @@ redirect_target: "Hendwine"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Hendwine](/wiki/Hendwine#Other_versions_of_the_legendarium).
+Redirect to [Hendwine](Hendwine.md#Other_versions_of_the_legendarium).

@@ -1,6 +1,5 @@
 ---
 title: "File:John Howe - Legolas (WOTRTCG).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Howe - Legolas (WOTRTCG).jpeg</span>"
 page_id: 72044
 namespace: 6
 revision_id: 428656

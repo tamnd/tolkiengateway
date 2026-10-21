@@ -1,6 +1,5 @@
 ---
 title: "File:Bluesky - Simple Icons.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bluesky - Simple Icons.svg</span>"
 page_id: 69157
 namespace: 6
 revision_id: 412967

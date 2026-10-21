@@ -1,6 +1,5 @@
 ---
 title: "File:Antonio Vinci - The Elder Days.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Antonio Vinci - The Elder Days.jpg</span>"
 page_id: 70385
 namespace: 6
 revision_id: 435510
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"*The Elder Days*", by [Antonio Vinci](/wiki/Category:Images_by_Antonio_Vinci "Category:Images by Antonio Vinci")
+"*The Elder Days*", by [Antonio Vinci](../../category/I/Images_by_Antonio_Vinci.md)
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Antonio Vinci</li>
 <li><b>Website:</b> <a class="external text" href="https://ninni-v.deviantart.com" rel="noreferrer noopener" target="_blank">Antonio Vinci on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Antonio_Vinci" title="Tolkien Gateway:Copyrights/Antonio Vinci">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAntonio_Vinci.md" title="Tolkien Gateway:Copyrights/Antonio Vinci">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guðrúnarkviða en nýja eða Dráp Niflunga"
 ---
 
-Redirect to [Guðrúnarkviða en nýja eða Dráp Niflunga](/wiki/Guðrúnarkviða_en_nýja_eða_Dráp_Niflunga).
+Redirect to [Guðrúnarkviða en nýja eða Dráp Niflunga](../G/Guðrúnarkviða_en_nýja_eða_Dráp_Niflunga.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Suzy Almblade"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Suzy Almblade</span>"
 page_id: 42680
 namespace: 4
 revision_id: 225101
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Almblade, Suzy"
 ---
 
-- Suzy Almblade has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Suzy_Almblade "Category:Images by Suzy Almblade") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Suzy Almblade has kindly granted her permission to use [her artwork](../../category/I/Images_by_Suzy_Almblade.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 December 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

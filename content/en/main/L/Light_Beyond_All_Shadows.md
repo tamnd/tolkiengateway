@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Light Beyond All Shadow"
 ---
 
-Redirect to [Light Beyond All Shadow](/wiki/Light_Beyond_All_Shadow).
+Redirect to [Light Beyond All Shadow](Light_Beyond_All_Shadow.md).

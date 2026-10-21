@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Return of the King - Ingold.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Return of the King - Ingold.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Ingold.jpg).
+Redirect to [File:The Lord of the Rings - The Return of the King - Ingold.jpg](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Ingold.jpg.md).

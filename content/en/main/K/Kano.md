@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Káno"
 ---
 
-Redirect to [Káno](/wiki/Káno).
+Redirect to [Káno](Káno.md).

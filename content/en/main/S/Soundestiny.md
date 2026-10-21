@@ -1,6 +1,5 @@
 ---
 title: "Soundestiny"
-display_title: "<span class=\"mw-page-title-main\">Soundestiny</span>"
 page_id: 29207
 namespace: 0
 revision_id: 225119
@@ -16,9 +15,9 @@ images:
   - "Soundestiny_Live_Recording.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Soundestiny_Live_Recording.jpg"><img src="/w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/250px-Soundestiny_Live_Recording.jpg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="/w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/375px-Soundestiny_Live_Recording.jpg 1.5x, /w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/500px-Soundestiny_Live_Recording.jpg 2x" data-file-width="1012" data-file-height="578"/></a><figcaption>Soundestiny</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Soundestiny_Live_Recording.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/250px-Soundestiny_Live_Recording.jpg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/375px-Soundestiny_Live_Recording.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/Soundestiny_Live_Recording.jpg/500px-Soundestiny_Live_Recording.jpg 2x" data-file-width="1012" data-file-height="578"/></a><figcaption>Soundestiny</figcaption></figure>
 
-**Soundestiny** is a Neo-celtic Folk Rock band based in <a class="extiw" href="http://en.wikipedia.org/wiki/Brisbane" title="wikipedia:Brisbane">Brisbane, Australia</a>. They have produced two albums (2004, 2010) featuring music inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*. The 25 original songs from these two albums together form their "RingLord saga" - a Rock musical inspired by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). They have also released an EP (2009) and a full album (2012) containing music inspired by *[The Hobbit](/wiki/The_Hobbit)*.
+**Soundestiny** is a Neo-celtic Folk Rock band based in <a class="extiw" href="http://en.wikipedia.org/wiki/Brisbane" title="wikipedia:Brisbane">Brisbane, Australia</a>. They have produced two albums (2004, 2010) featuring music inspired by *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. The 25 original songs from these two albums together form their "RingLord saga" - a Rock musical inspired by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). They have also released an EP (2009) and a full album (2012) containing music inspired by *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## Members {#Members}
 
@@ -30,10 +29,10 @@ From time to time other artists have recorded with the band. These include Clyde
 
 ### Selected Discography {#Selected_Discography}
 
-- [2004](/wiki/2004): *[Shadow Rising](/wiki/Shadow_Rising)* (RingLord Saga Part 1 of 2)
-- [2009](/wiki/2009): *[All that Glitters](/wiki/All_that_Glitters)*
-- [2010](/wiki/2010): *[Winds of Change](/wiki/Winds_of_Change)* (RingLord Saga Part 2 of 2)
-- [2012](/wiki/2012): *[Dragon Quest](/wiki/Dragon_Quest)*
+- [2004](../_/2004.md): *[Shadow Rising](Shadow_Rising.md)* (RingLord Saga Part 1 of 2)
+- [2009](../_/2009.md): *[All that Glitters](../A/All_that_Glitters.md)*
+- [2010](../_/2010.md): *[Winds of Change](../W/Winds_of_Change.md)* (RingLord Saga Part 2 of 2)
+- [2012](../_/2012.md): *[Dragon Quest](../D/Dragon_Quest.md)*
 
 ## External links {#External_links}
 

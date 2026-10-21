@@ -11,4 +11,4 @@ redirect_target: "Armenelos"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Armenelos](/wiki/Armenelos#Etymology).
+Redirect to [Armenelos](../A/Armenelos.md#Etymology).

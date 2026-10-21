@@ -1,6 +1,5 @@
 ---
 title: "File:Rondador - Minas Morgul.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rondador - Minas Morgul.png</span>"
 page_id: 72765
 namespace: 6
 revision_id: 431330

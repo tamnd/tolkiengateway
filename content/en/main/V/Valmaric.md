@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valmaric script"
 ---
 
-Redirect to [Valmaric script](/wiki/Valmaric_script).
+Redirect to [Valmaric script](Valmaric_script.md).

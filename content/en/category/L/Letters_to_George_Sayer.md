@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to George Sayer"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to George Sayer</span>"
 page_id: 66834
 namespace: 14
 revision_id: 387129
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Sayer, George"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [George Sayer](/wiki/George_Sayer).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [George Sayer](../../main/G/George_Sayer.md).

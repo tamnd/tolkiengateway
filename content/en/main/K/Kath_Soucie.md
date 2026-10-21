@@ -1,6 +1,5 @@
 ---
 title: "Kath Soucie"
-display_title: "<span class=\"mw-page-title-main\">Kath Soucie</span>"
 page_id: 19211
 namespace: 0
 revision_id: 439905
@@ -22,7 +21,7 @@ sort_keys:
   "People by name": "Soucie, Kath"
 ---
 
-**Katherine Soucie** (February 20, 1967) is an American voice actress. She played [Goldberry](/wiki/Goldberry), [Angelica](/wiki/Angelica_Baggins "Angelica Baggins") and [Arwen](/wiki/Arwen) in the game *[The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)")* (but only appeared on the credits for the first) and did additional voices for *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*.
+**Katherine Soucie** (February 20, 1967) is an American voice actress. She played [Goldberry](../G/Goldberry.md), [Angelica](../A/Angelica_Baggins.md) and [Arwen](../A/Arwen.md) in the game *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* (but only appeared on the credits for the first) and did additional voices for *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## External links {#External_links}
 

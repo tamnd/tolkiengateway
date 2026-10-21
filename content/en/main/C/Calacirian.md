@@ -1,6 +1,5 @@
 ---
 title: "Calacirian"
-display_title: "<span class=\"mw-page-title-main\">Calacirian</span>"
 page_id: 1654
 namespace: 0
 revision_id: 415833
@@ -22,30 +21,28 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Calacirian** was a region of [Eldamar](/wiki/Eldamar) near the entrance to the ravine of [Calacirya](/wiki/Calacirya). The hill of [Túna](/wiki/T%C3%BAna) stood there, with the city of [Tirion](/wiki/Tirion) built upon it. The light of the [Two Trees](/wiki/Two_Trees) was the strongest there in all Eldamar.
+**Calacirian** was a region of [Eldamar](../E/Eldamar.md) near the entrance to the ravine of [Calacirya](Calacirya.md). The hill of [Túna](../T/Túna.md) stood there, with the city of [Tirion](../T/Tirion.md) built upon it. The light of the [Two Trees](../T/Two_Trees.md) was the strongest there in all Eldamar.
 
-The name appears in [Bilbo's](/wiki/Bilbo_Baggins "Bilbo Baggins") *[Eärendillinwë](/wiki/E%C3%A4rendillinw%C3%AB)* in [Rivendell](/wiki/Rivendell):<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-RGEO_2-0" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup>
+The name appears in [Bilbo's](../B/Bilbo_Baggins.md) *[Eärendillinwë](../E/Eärendillinwë.md)* in [Rivendell](../R/Rivendell.md):<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-RGEO_2-0" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup>
 
 <dl><dd><i>and seven lights before him sent,<br/>as through the Calacirian<br/>to hidden land forlorn he went.</i></dd></dl>
 
 ## Etymology {#Etymology}
 
-The [Quenya](/wiki/Quenya) name *Calacirian* is a simplified ("anglicized") form of *Kalakiryan* (full *Kalakiryandë*, derived from *Kalakirya*).<sup id="cite_ref-RGEO_2-1" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+The [Quenya](../Q/Quenya.md) name *Calacirian* is a simplified ("anglicized") form of *Kalakiryan* (full *Kalakiryandë*, derived from *Kalakirya*).<sup id="cite_ref-RGEO_2-1" class="reference"><a href="#cite_note-RGEO-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="/wiki/-nd" title="-nd">-nd</a></div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../_/-nd.md" title="-nd">-nd</a></div></div>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Many_Meetings" title="Many Meetings">Many Meetings</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</span>
 </li>
 <li id="cite_note-RGEO-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-RGEO_2-0">2.0</a></sup> <sup><a href="#cite_ref-RGEO_2-1">2.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, “<a class="new" href="/w/index.php?title=Notes_and_Translations&amp;action=edit&amp;redlink=1" title="Notes and Translations (page does not exist)">Notes and Translations</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, p. 70</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, “<a class="new" href="https://tolkiengateway.net/w/index.php?title=Notes_and_Translations&amp;action=edit&amp;redlink=1" title="Notes and Translations (page does not exist)">Notes and Translations</a>,” in <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, p. 70</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 73</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 73</span>
 </li>
 </ol></div>

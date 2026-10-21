@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - Frodo looking over the Cracks of Doom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - Frodo looking over the Cracks of Doom.jpg</span>"
 page_id: 73591
 namespace: 6
 revision_id: 437750
@@ -32,32 +31,29 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Alan Lee - Frodo looking over the Cracks of Doom.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> looking over an edge at <a href="/wiki/Mount_Doom" title="Mount Doom">the Cracks of Doom</a>, presumably watching <a href="/wiki/Gollum" title="Gollum">Gollum</a> fall to his death
+<p><a href="../../main/F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> looking over an edge at <a href="../../main/M/Mount_Doom.md" title="Mount Doom">the Cracks of Doom</a>, presumably watching <a href="../../main/G/Gollum.md" title="Gollum">Gollum</a> fall to his death
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1994" title="1994">1994</a></td>
+<td><a href="../../main/_/1994.md" title="1994">1994</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></td>
+<td><a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="http://www.dana-mad.ru/gal/display.php?img=778" rel="noreferrer noopener" target="_blank">http://www.dana-mad.ru/gal/display.php?img=778</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

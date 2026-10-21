@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:David T. Wenzel - A Tumble of Dwarfs.jpg"
 ---
 
-Redirect to [File:David T. Wenzel - A Tumble of Dwarfs.jpg](/wiki/File:David_T._Wenzel_-_A_Tumble_of_Dwarfs.jpg).
+Redirect to [File:David T. Wenzel - A Tumble of Dwarfs.jpg](David_T._Wenzel_-_A_Tumble_of_Dwarfs.jpg.md).

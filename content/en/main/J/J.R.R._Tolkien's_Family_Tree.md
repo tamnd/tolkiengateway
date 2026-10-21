@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Family"
 ---
 
-Redirect to [Tolkien Family](/wiki/Tolkien_Family).
+Redirect to [Tolkien Family](../T/Tolkien_Family.md).

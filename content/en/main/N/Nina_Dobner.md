@@ -1,6 +1,5 @@
 ---
 title: "Nina Dobner"
-display_title: "<span class=\"mw-page-title-main\">Nina Dobner</span>"
 page_id: 22855
 namespace: 0
 revision_id: 222140
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Dobner, Nina"
 ---
 
-**Nina Dobner** is the Director of Partner Relations of [Electronic Arts](/wiki/Electronic_Arts), handling production of all EA's licensed games, including the [movie](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")-license.
+**Nina Dobner** is the Director of Partner Relations of [Electronic Arts](../E/Electronic_Arts.md), handling production of all EA's licensed games, including the [movie](<../T/The_Lord_of_the_Rings_(film_series).md>)-license.
 
 ## Roles {#Roles}
 
-- [2003](/wiki/2003): [*The Lord of the Rings: The Two Towers* (video game)](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)> "The Lord of the Rings: The Two Towers (video game)"): Additional voices
+- [2003](../_/2003.md): [*The Lord of the Rings: The Two Towers* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>): Additional voices

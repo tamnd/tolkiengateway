@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helevorn"
 ---
 
-Redirect to [Helevorn](/wiki/Helevorn).
+Redirect to [Helevorn](../H/Helevorn.md).

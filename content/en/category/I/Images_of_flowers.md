@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of flowers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of flowers</span>"
 page_id: 39870
 namespace: 14
 revision_id: 200223

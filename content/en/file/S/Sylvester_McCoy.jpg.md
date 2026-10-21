@@ -1,6 +1,5 @@
 ---
 title: "File:Sylvester McCoy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sylvester McCoy.jpg</span>"
 page_id: 35672
 namespace: 6
 revision_id: 224753

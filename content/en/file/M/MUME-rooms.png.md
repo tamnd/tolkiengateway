@@ -1,6 +1,5 @@
 ---
 title: "File:MUME-rooms.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MUME-rooms.png</span>"
 page_id: 31272
 namespace: 6
 revision_id: 224988
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-All 230 zones of [MUMU](/wiki/MUME:_Multi_Users_in_Middle_Earth "MUME: Multi Users in Middle Earth") on the map of [Middle-earth](/wiki/Middle-earth).
+All 230 zones of [MUMU](../../main/M/MUME%253A_Multi_Users_in_Middle_Earth.md) on the map of [Middle-earth](../../main/M/Middle-earth.md).
 
 ## Licensing {#Licensing}
 

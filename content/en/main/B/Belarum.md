@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleram"
 ---
 
-Redirect to [Beleram](/wiki/Beleram).
+Redirect to [Beleram](Beleram.md).

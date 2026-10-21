@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Languages of Tolkien's Middle-earth"
 ---
 
-Redirect to [The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien's_Middle-earth).
+Redirect to [The Languages of Tolkien's Middle-earth](The_Languages_of_Tolkien's_Middle-earth.md).

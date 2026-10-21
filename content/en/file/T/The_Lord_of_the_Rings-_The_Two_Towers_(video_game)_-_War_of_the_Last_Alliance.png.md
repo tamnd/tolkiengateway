@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings The Two Towers (video game) - War of the Last Alliance.png"
 ---
 
-Redirect to [File:The Lord of the Rings The Two Towers (video game) - War of the Last Alliance.png](/wiki/File:The_Lord_of_the_Rings_The_Two_Towers_(video_game)_-_War_of_the_Last_Alliance.png).
+Redirect to [File:The Lord of the Rings The Two Towers (video game) - War of the Last Alliance.png](<The_Lord_of_the_Rings_The_Two_Towers_(video_game)_-_War_of_the_Last_Alliance.png.md>).

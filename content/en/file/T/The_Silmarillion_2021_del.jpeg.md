@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 2021 del.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 2021 del.jpeg</span>"
 page_id: 62614
 namespace: 6
 revision_id: 353671

@@ -1,6 +1,5 @@
 ---
 title: "File:Quinton Hoover - Fell turtles.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quinton Hoover - Fell turtles.jpg</span>"
 page_id: 29286
 namespace: 6
 revision_id: 204542
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by [Quinton Hoover](/wiki/Quinton_Hoover), appearing on the [METW](/wiki/Middle-earth:_The_Wizards "Middle-earth: The Wizards") card *Fell Turtle*.
+Image by [Quinton Hoover](../../main/Q/Quinton_Hoover.md), appearing on the [METW](../../main/M/Middle-earth%253A_The_Wizards.md) card *Fell Turtle*.
 
 ## Licensing {#Licensing}
 

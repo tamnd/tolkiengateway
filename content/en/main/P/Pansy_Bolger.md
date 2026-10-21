@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pansy Baggins"
 ---
 
-Redirect to [Pansy Baggins](/wiki/Pansy_Baggins).
+Redirect to [Pansy Baggins](Pansy_Baggins.md).

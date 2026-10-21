@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings 1973-v2.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings 1973-v2.gif</span>"
 page_id: 62849
 namespace: 6
 revision_id: 355594

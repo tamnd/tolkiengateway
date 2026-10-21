@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magnus Åberg"
 ---
 
-Redirect to [Magnus Åberg](/wiki/Magnus_Åberg).
+Redirect to [Magnus Åberg](Magnus_Åberg.md).

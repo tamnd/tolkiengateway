@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King (disambiguation)"
 ---
 
-Redirect to [High King (disambiguation)](/wiki/High_King_(disambiguation)).
+Redirect to [High King (disambiguation)](<High_King_(disambiguation).md>).

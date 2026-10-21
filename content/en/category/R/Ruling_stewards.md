@@ -1,6 +1,5 @@
 ---
 title: "Category:Ruling stewards"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ruling stewards</span>"
 page_id: 15281
 namespace: 14
 revision_id: 95248
@@ -17,4 +16,4 @@ sort_keys:
   "Stewards": " Ruling stewards"
 ---
 
-Those [Stewards of Gondor](/wiki/Stewards_of_Gondor) who were [Ruling Stewards](/wiki/Ruling_Stewards)—sovereign rulers of [Gondor](/wiki/Gondor) in the absence of the any rulers from the [House of Elendil](/wiki/House_of_Elendil). For those Stewards before and after the ruling Stewardship who served under a King and were not the rulers of Gondor in their own right, see [Category:Stewards](/wiki/Category:Stewards).
+Those [Stewards of Gondor](../../main/S/Stewards_of_Gondor.md) who were [Ruling Stewards](../../main/R/Ruling_Stewards.md)—sovereign rulers of [Gondor](../../main/G/Gondor.md) in the absence of the any rulers from the [House of Elendil](../../main/H/House_of_Elendil.md). For those Stewards before and after the ruling Stewardship who served under a King and were not the rulers of Gondor in their own right, see [Category:Stewards](../S/Stewards.md).

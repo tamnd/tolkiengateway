@@ -18,13 +18,13 @@ images:
   - "Robert_Burchfield_6_November_1954.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Robert_Burchfield_6_November_1954.jpg"><img src="/w/images/thumb/5/5b/Robert_Burchfield_6_November_1954.jpg/300px-Robert_Burchfield_6_November_1954.jpg" decoding="async" loading="lazy" width="300" height="229" class="mw-file-element" srcset="/w/images/thumb/5/5b/Robert_Burchfield_6_November_1954.jpg/450px-Robert_Burchfield_6_November_1954.jpg 1.5x, /w/images/5/5b/Robert_Burchfield_6_November_1954.jpg 2x" data-file-width="512" data-file-height="391"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Robert_Burchfield_6_November_1954.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5b/Robert_Burchfield_6_November_1954.jpg/300px-Robert_Burchfield_6_November_1954.jpg" decoding="async" loading="lazy" width="300" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5b/Robert_Burchfield_6_November_1954.jpg/450px-Robert_Burchfield_6_November_1954.jpg 1.5x, https://tolkiengateway.net/w/images/5/5b/Robert_Burchfield_6_November_1954.jpg 2x" data-file-width="512" data-file-height="391"/></a><figcaption></figcaption></figure>
 
-On [6 November](/wiki/6_November) [1954](/wiki/1954), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a class="mw-redirect" href="/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burchfield" title="wikipedia:Robert Burchfield">Robert Burchfield</a></b>.
+On [6 November](../_/6_November.md) [1954](../_/1954.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burchfield" title="wikipedia:Robert Burchfield">Robert Burchfield</a></b>.
 
-The letter concerns, among other things, the reception given to *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)* by Tolkien's philological colleagues.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The letter concerns, among other things, the reception given to *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* by Tolkien's philological colleagues.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Publication:** A photograph of the first page of the letter appeared in *[Christie's Valuable Manuscripts and Printed Books 7 June 2006](/wiki/Christie%27s_Valuable_Manuscripts_and_Printed_Books_7_June_2006)*.
+- **Publication:** A photograph of the first page of the letter appeared in *[Christie's Valuable Manuscripts and Printed Books 7 June 2006](../C/Christie's_Valuable_Manuscripts_and_Printed_Books_7_June_2006.md)*.
 
 <h2><span id="Lot_Description_.28Christie.27s.29"></span><span class="mw-headline" id="Lot_Description_(Christie&#39;s)">Lot Description (Christie&#39;s)</span></h2>
 
@@ -44,6 +44,6 @@ Hammond and Anderson note that The Fellowship of the Ring was published on 29 Ju
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 443-4</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 443-4</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Title-page of The Notion Club Papers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Title-page of The Notion Club Papers.jpg</span>"
 page_id: 60396
 namespace: 6
 revision_id: 338309
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Title-page of *[The Notion Club Papers](/wiki/The_Notion_Club_Papers)* by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), included in *[Sauron Defeated](/wiki/Sauron_Defeated)*, p. 154.
+Title-page of *[The Notion Club Papers](../../main/T/The_Notion_Club_Papers.md)* by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), included in *[Sauron Defeated](../../main/S/Sauron_Defeated.md)*, p. 154.
 
 ## Licensing {#Licensing}
 

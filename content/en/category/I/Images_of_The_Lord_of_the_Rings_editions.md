@@ -17,6 +17,6 @@ sort_keys:
   "The Lord of the Rings editions": "Lord of the Rings"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i> editions and translations</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> editions and translations</b>.</dd></dl>
 
-<dl><dd><dl><dd><i>See also:</i> <a href="/wiki/Category:Images_from_The_Lord_of_the_Rings" title="Category:Images from The Lord of the Rings"><i>Images from</i> The Lord of the Rings</a> <i>illustrated by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>.</i></dd></dl></dd></dl>
+<dl><dd><dl><dd><i>See also:</i> <a href="Images_from_The_Lord_of_the_Rings.md" title="Category:Images from The Lord of the Rings"><i>Images from</i> The Lord of the Rings</a> <i>illustrated by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>.</i></dd></dl></dd></dl>

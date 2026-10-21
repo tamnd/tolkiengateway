@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jay Johnstone"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jay Johnstone</span>"
 page_id: 67043
 namespace: 14
 revision_id: 389489
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Johnstone, Jay"
 ---
 
-This category lists all **images by [Jay Johnstone](/wiki/Jay_Johnstone)**.
+This category lists all **images by [Jay Johnstone](../../main/J/Jay_Johnstone.md)**.

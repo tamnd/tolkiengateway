@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snaga (disambiguation)"
 ---
 
-Redirect to [Snaga (disambiguation)](/wiki/Snaga_(disambiguation)).
+Redirect to [Snaga (disambiguation)](<Snaga_(disambiguation).md>).

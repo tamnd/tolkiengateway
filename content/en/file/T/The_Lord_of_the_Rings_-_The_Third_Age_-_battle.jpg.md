@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Third Age - battle.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Third Age - battle.jpg</span>"
 page_id: 6955
 namespace: 6
 revision_id: 247191
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Screenshot from [The Lord of the Rings: The Third Age](/wiki/The_Lord_of_the_Rings:_The_Third_Age) by [EA](/wiki/Electronic_Arts "Electronic Arts").
+Screenshot from [The Lord of the Rings: The Third Age](../../main/T/The_Lord_of_the_Rings%253A_The_Third_Age.md) by [EA](../../main/E/Electronic_Arts.md).
 
 ## Licensing {#Licensing}
 

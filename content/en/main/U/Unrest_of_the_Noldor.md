@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Silmarils and the Unrest of the Noldor"
 ---
 
-Redirect to [Of the Silmarils and the Unrest of the Noldor](/wiki/Of_the_Silmarils_and_the_Unrest_of_the_Noldor).
+Redirect to [Of the Silmarils and the Unrest of the Noldor](../O/Of_the_Silmarils_and_the_Unrest_of_the_Noldor.md).

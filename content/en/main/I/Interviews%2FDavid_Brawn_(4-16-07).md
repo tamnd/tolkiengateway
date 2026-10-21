@@ -1,6 +1,5 @@
 ---
 title: "Interviews/David Brawn (4-16-07)"
-display_title: "<span class=\"mw-page-title-main\">Interviews/David Brawn (4-16-07)</span>"
 page_id: 15204
 namespace: 0
 revision_id: 405969
@@ -13,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-<dl><dd>The below article is of a chat session with <a href="/wiki/David_Brawn" title="David Brawn">David Brawn</a> on April 16th, <a href="/wiki/2007" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
+<dl><dd>The below article is of a chat session with <a href="../D/David_Brawn.md" title="David Brawn">David Brawn</a> on April 16th, <a href="../_/2007.md" title="2007">2007</a>. The content should be preserved and not altered save for aesthetic reasons.</dd></dl>
 
 <div class="poem">
 <p><b>&lt;David_Brawn&gt;</b>	Hello everyone. Good grief, there are a lot of you!!!<br/>

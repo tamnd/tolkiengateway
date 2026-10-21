@@ -1,6 +1,5 @@
 ---
 title: "Doug Adams"
-display_title: "<span class=\"mw-page-title-main\">Doug Adams</span>"
 page_id: 27978
 namespace: 0
 revision_id: 405263
@@ -21,11 +20,11 @@ sort_keys:
 
 **Doug Adams** is a Chicago-based author and musicologist.
 
-Adams was invited in [2001](/wiki/2001) by [Howard Shore](/wiki/Howard_Shore) to observe and document his work on [Peter Jackson](/wiki/Peter_Jackson)'s [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). Adams attended recording sessions, examined the original scores, and was given complete access to the composer's archives. As an acknowledged authority on Howard Shore's music, Adams has become a regular fixture at concerts and events across the globe.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Adams was invited in [2001](../_/2001.md) by [Howard Shore](../H/Howard_Shore.md) to observe and document his work on [Peter Jackson](../P/Peter_Jackson.md)'s [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>). Adams attended recording sessions, examined the original scores, and was given complete access to the composer's archives. As an acknowledged authority on Howard Shore's music, Adams has become a regular fixture at concerts and events across the globe.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography {#Bibliography}
 
-- [2010](/wiki/2010): *[The Music of the Lord of the Rings Films](/wiki/The_Music_of_the_Lord_of_the_Rings_Films)*
+- [2010](../_/2010.md): *[The Music of the Lord of the Rings Films](../T/The_Music_of_the_Lord_of_the_Rings_Films.md)*
 
 ## External links {#External_links}
 

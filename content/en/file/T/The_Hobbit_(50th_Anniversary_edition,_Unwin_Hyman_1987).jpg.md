@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (50th Anniversary edition, Unwin Hyman 1987).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (50th Anniversary edition, Unwin Hyman 1987).jpg</span>"
 page_id: 41154
 namespace: 6
 revision_id: 350594

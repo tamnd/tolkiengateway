@@ -1,6 +1,5 @@
 ---
 title: "Soul's Ward"
-display_title: "<span class=\"mw-page-title-main\">Soul&#039;s Ward</span>"
 page_id: 74628
 namespace: 0
 revision_id: 439625
@@ -22,11 +21,11 @@ images:
   - "Soul's_Ward_Typescript.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Soul%27s_Ward_Typescript.png"><img src="/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/275px-Soul%27s_Ward_Typescript.png" decoding="async" loading="lazy" width="275" height="172" class="mw-file-element" srcset="/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/413px-Soul%27s_Ward_Typescript.png 1.5x, /w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/550px-Soul%27s_Ward_Typescript.png 2x" data-file-width="960" data-file-height="601"/></a><figcaption>The first and last pages of the typescript</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Soul&#39;s_Ward_Typescript.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/275px-Soul%27s_Ward_Typescript.png" decoding="async" loading="lazy" width="275" height="172" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/413px-Soul%27s_Ward_Typescript.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Soul%27s_Ward_Typescript.png/550px-Soul%27s_Ward_Typescript.png 2x" data-file-width="960" data-file-height="601"/></a><figcaption>The first and last pages of the typescript</figcaption></figure>
 
-<i><b>Soul&#39;s Ward</b></i> is the title given by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to his translation of an Early [Middle English](/wiki/Middle_English) text, <i><b>Sawles Warde</b></i>.
+<i><b>Soul&#39;s Ward</b></i> is the title given by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) to his translation of an Early [Middle English](../M/Middle_English.md) text, <i><b>Sawles Warde</b></i>.
 
-The existence of this translation has apparently never been discussed anywhere before, and it was only 'discovered' recently in the Bodleian Library in Oxford. A critical edition of this translation was published by *The Review of English Studies* on [June 8](/wiki/June_8), [2026](/wiki/2026). It is also freely available online.
+The existence of this translation has apparently never been discussed anywhere before, and it was only 'discovered' recently in the Bodleian Library in Oxford. A critical edition of this translation was published by *The Review of English Studies* on [June 8](../J/June_8.md), [2026](../_/2026.md). It is also freely available online.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of arrows"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of arrows</span>"
 page_id: 39858
 namespace: 14
 revision_id: 199901

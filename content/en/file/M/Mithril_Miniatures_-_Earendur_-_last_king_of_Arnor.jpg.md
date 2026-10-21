@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Earendur - last king of Arnor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Earendur - last king of Arnor.jpg</span>"
 page_id: 71207
 namespace: 6
 revision_id: 424905
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Eärendur](</wiki/E%C3%A4rendur_(King_of_Arnor)> "Eärendur (King of Arnor)"), last [King of Arnor](/wiki/King_of_Arnor) - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+[Eärendur](<../../main/E/Eärendur_(King_of_Arnor).md>), last [King of Arnor](../../main/K/King_of_Arnor.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>Eärendur was the tenth and last King of Arnor. After his death in 861, probably due to jealousy on the part of the two younger sons, his three sons split Arnor into three separate kingdoms: Arthedain, Cardolan and Rhudaur.<br/>
@@ -43,7 +42,7 @@ This is the 92nd release in the new Gold Status Fellowship club. This is March 2
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

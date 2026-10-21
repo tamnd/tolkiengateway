@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalf (fanzine).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalf (fanzine).jpg</span>"
 page_id: 29623
 namespace: 6
 revision_id: 224677
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of issue 5, 1974 of [*Gandalf*](</wiki/Gandalf_(fanzine)> "Gandalf (fanzine)").
+Cover of issue 5, 1974 of [*Gandalf*](<../../main/G/Gandalf_(fanzine).md>).
 
 ## Licensing {#Licensing}
 

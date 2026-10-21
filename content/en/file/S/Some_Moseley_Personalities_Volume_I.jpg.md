@@ -1,6 +1,5 @@
 ---
 title: "File:Some Moseley Personalities Volume I.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Some Moseley Personalities Volume I.jpg</span>"
 page_id: 28837
 namespace: 6
 revision_id: 214607

@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>morchant</b></i> is a [Sindarin](/wiki/Sindarin) word meaning *shadow*, as in the shadow of an object cast by light. It also means *dark shape*. It probably derives from *[morn](/wiki/Morn "Morn")* "dark" and <i><a class="new" href="/w/index.php?title=Cant&amp;action=edit&amp;redlink=1" title="Cant (page does not exist)">cant</a></i> "shape".
+<i><b>morchant</b></i> is a [Sindarin](../S/Sindarin.md) word meaning *shadow*, as in the shadow of an object cast by light. It also means *dark shape*. It probably derives from *[morn](Morn.md)* "dark" and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cant&amp;action=edit&amp;redlink=1" title="Cant (page does not exist)">cant</a></i> "shape".
 
 ## Synonyms {#Synonyms}
 
-- *[gwath](/wiki/Gwath "Gwath")*
-- *[dae](/wiki/Dae "Dae")*
-- *[dúath](/wiki/D%C3%BAath "Dúath")*
+- *[gwath](../G/Gwath.md)*
+- *[dae](../D/Dae.md)*
+- *[dúath](../D/Dúath.md)*
 
 ## References {#References}
 
-- *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary) (Edition 1.6, Lexicon 0.993)*
+- *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë's_Sindarin_dictionary~30928.md) (Edition 1.6, Lexicon 0.993)*

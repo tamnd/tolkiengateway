@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Thónnas - Naith Captain.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Thónnas - Naith Captain.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Thónnas_-_Naith_Captain.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Thónnas - Naith Captain.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Thónnas_-_Naith_Captain.jpg.md).

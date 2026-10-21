@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Gate"
 ---
 
-Redirect to [Black Gate](/wiki/Black_Gate).
+Redirect to [Black Gate](../B/Black_Gate.md).

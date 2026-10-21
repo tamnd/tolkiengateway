@@ -1,6 +1,5 @@
 ---
 title: "File:Ryszard Derdziński.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ryszard Derdziński.jpg</span>"
 page_id: 63077
 namespace: 6
 revision_id: 356866
@@ -29,4 +28,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ryszard Derdziński</li>
 <li><b>Website:</b> <a class="external free" href="http://tolkniety.blogspot.com" rel="noreferrer noopener" target="_blank">http://tolkniety.blogspot.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ryszard_Derdzi%C5%84ski" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRyszard_Derdziński.md" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>

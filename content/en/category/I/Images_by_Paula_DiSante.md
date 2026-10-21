@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Paula DiSante"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Paula DiSante</span>"
 page_id: 14008
 namespace: 14
 revision_id: 184047
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "DiSante, Paula"
 ---
 
-This category lists all **images by [Paula DiSante](/wiki/Paula_DiSante)** (user [Pdisante](/wiki/User:Pdisante "User:Pdisante")).
+This category lists all **images by [Paula DiSante](../../main/P/Paula_DiSante.md)** (user [Pdisante](https://tolkiengateway.net/wiki/User:Pdisante)).

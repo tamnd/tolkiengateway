@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sandyman"
 ---
 
-Redirect to [Sandyman](/wiki/Sandyman).
+Redirect to [Sandyman](../S/Sandyman.md).

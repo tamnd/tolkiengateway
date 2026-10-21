@@ -1,6 +1,5 @@
 ---
 title: "Letter to Baronne A. Baeyens"
-display_title: "<span class=\"mw-page-title-main\">Letter to Baronne A. Baeyens</span>"
 page_id: 23742
 namespace: 0
 revision_id: 404843
@@ -15,9 +14,9 @@ sort_keys:
   "Letters": "Baeyens, Baronne A."
 ---
 
-On [16 December](/wiki/16_December) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Baronne A. Baeyens**.<sup id="cite_ref-HS_1-0" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
+On [16 December](../_/16_December.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Baronne A. Baeyens**.<sup id="cite_ref-HS_1-0" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 
-- **Subject:** Reply to Baronne A. Baeyens's letter of [28 September](/wiki/28_September) [1963](/wiki/1963) (who had sent "a letter of appreciation of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, rejecting an allegorical interpretation").<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
+- **Subject:** Reply to Baronne A. Baeyens's letter of [28 September](../_/28_September.md) [1963](../_/1963.md) (who had sent "a letter of appreciation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, rejecting an allegorical interpretation").<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 - **Publication:** None.
 
 ## Excerpt {#Excerpt}
@@ -35,6 +34,6 @@ Autograph letter signed ('J.R.R. Tolkien') to Baronne A. Baeyens ('Dear Madame')
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-HS-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-HS_1-0">1.0</a></sup> <sup><a href="#cite_ref-HS_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 3 June 2012</span></cite></span>
+<li id="cite_note-HS-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-HS_1-0">1.0</a></sup> <sup><a href="#cite_ref-HS_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 3 June 2012</span></cite></span>
 </li>
 </ol></div>

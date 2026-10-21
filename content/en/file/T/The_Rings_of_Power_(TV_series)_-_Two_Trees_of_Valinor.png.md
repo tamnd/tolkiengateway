@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Two Trees of Valinor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Two Trees of Valinor.png</span>"
 page_id: 63571
 namespace: 6
 revision_id: 412296

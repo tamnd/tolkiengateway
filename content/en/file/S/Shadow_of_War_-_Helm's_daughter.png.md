@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Helm's daughter.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Helm&#039;s daughter.png</span>"
 page_id: 71271
 namespace: 6
 revision_id: 425252
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Helm's daughter](/wiki/Helm%27s_daughter) as depicted in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)
+[Helm's daughter](../../main/H/Helm's_daughter.md) as depicted in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valinorean Quenya"
 ---
 
-Redirect to [Valinorean Quenya](/wiki/Valinorean_Quenya).
+Redirect to [Valinorean Quenya](Valinorean_Quenya.md).

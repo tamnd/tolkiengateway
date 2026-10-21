@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Mumak Mahud.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Mumak Mahud.gif</span>"
 page_id: 11856
 namespace: 6
 revision_id: 204005

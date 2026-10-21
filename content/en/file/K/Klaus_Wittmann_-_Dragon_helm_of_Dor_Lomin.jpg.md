@@ -1,6 +1,5 @@
 ---
 title: "File:Klaus Wittmann - Dragon helm of Dor Lomin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Klaus Wittmann - Dragon helm of Dor Lomin.jpg</span>"
 page_id: 73311
 namespace: 6
 revision_id: 433628
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Klaus Wittmann</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/klauswittmann/" rel="noreferrer noopener" target="_blank">Klaus Wittmann&#39;s ArtStation profile</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Klaus_Wittmann" title="Tolkien Gateway:Copyrights/Klaus Wittmann">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKlaus_Wittmann.md" title="Tolkien Gateway:Copyrights/Klaus Wittmann">Permission for use on Tolkien Gateway</a></b></li></ul></div>

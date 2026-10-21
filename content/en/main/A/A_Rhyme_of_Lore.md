@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhymes of Lore"
 ---
 
-Redirect to [Rhymes of Lore](/wiki/Rhymes_of_Lore).
+Redirect to [Rhymes of Lore](../R/Rhymes_of_Lore.md).

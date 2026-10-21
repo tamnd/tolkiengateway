@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Seven Stars"
 ---
 
-Redirect to [Seven Stars](/wiki/Seven_Stars).
+Redirect to [Seven Stars](../S/Seven_Stars.md).

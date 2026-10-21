@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Facsimile Gift Edition.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Facsimile Gift Edition.webp</span>"
 page_id: 62734
 namespace: 6
 revision_id: 355170

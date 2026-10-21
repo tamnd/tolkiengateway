@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Fellowship Leaving Rivendell.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - The Fellowship Leaving Rivendell.jpg](/wiki/File:Ted_Nasmith_-_The_Fellowship_Leaving_Rivendell.jpg).
+Redirect to [File:Ted Nasmith - The Fellowship Leaving Rivendell.jpg](Ted_Nasmith_-_The_Fellowship_Leaving_Rivendell.jpg.md).

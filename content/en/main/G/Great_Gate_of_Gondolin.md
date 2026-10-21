@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gate of Steel"
 ---
 
-Redirect to [Gate of Steel](/wiki/Gate_of_Steel).
+Redirect to [Gate of Steel](Gate_of_Steel.md).

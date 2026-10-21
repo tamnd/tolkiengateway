@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - Adaptations.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - Adaptations.webp</span>"
 page_id: 67493
 namespace: 6
 revision_id: 391978

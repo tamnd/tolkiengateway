@@ -1,6 +1,5 @@
 ---
 title: "Veronika Megler"
-display_title: "<span class=\"mw-page-title-main\">Veronika Megler</span>"
 page_id: 25505
 namespace: 0
 revision_id: 250403
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Megler, Veronika"
 ---
 
-**Veronika M. Megler** was the author of the [1982](/wiki/1982) [video game adaptation of *The Hobbit*](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)"); she wrote the game engine, physics engine, and adapted the book to the game.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She worked part-time for [Melbourne House](/wiki/Melbourne_House).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Veronika M. Megler** was the author of the [1982](../_/1982.md) [video game adaptation of *The Hobbit*](<../T/The_Hobbit_(1982_video_game).md>); she wrote the game engine, physics engine, and adapted the book to the game.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She worked part-time for [Melbourne House](../M/Melbourne_House.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 

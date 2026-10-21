@@ -1,6 +1,5 @@
 ---
 title: "Ramdal"
-display_title: "<span class=\"mw-page-title-main\">Ramdal</span>"
 page_id: 4298
 namespace: 0
 revision_id: 265218
@@ -15,11 +14,11 @@ categories:
   - "Sindarin locations"
 ---
 
-**Ramdal** was a cluster of low hills in [East Beleriand](/wiki/East_Beleriand), some miles to the west of [Amon Ereb](/wiki/Amon_Ereb). They marked the eastern extent of the [Andram](/wiki/Andram), the Long Wall, that ran eastward for many leagues from the hills around [Nargothrond](/wiki/Nargothrond).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ramdal** was a cluster of low hills in [East Beleriand](../E/East_Beleriand.md), some miles to the west of [Amon Ereb](../A/Amon_Ereb.md). They marked the eastern extent of the [Andram](../A/Andram.md), the Long Wall, that ran eastward for many leagues from the hills around [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Ramdal* is [Sindarin](/wiki/Sindarin) meaning "Wall's End", consisting of *[ram](/wiki/Ram "Ram")* ("wall") + *[dal](/wiki/Tal "Tal")* ("end").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Ramdal* is [Sindarin](../S/Sindarin.md) meaning "Wall's End", consisting of *[ram](Ram.md)* ("wall") + *[dal](../T/Tal.md)* ("end").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 The name is also spelt *Rhamdal*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -28,14 +27,14 @@ The name is also spelt *Rhamdal*.<sup id="cite_ref-5" class="reference"><a href=
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_Beleriand_and_its_Realms" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names#r" rel="noreferrer noopener" target="_blank">Compound Sindarin Names in Middle-earth</a> at <a class="external text" href="http://www.tolkiendil.com/" rel="noreferrer noopener" target="_blank">Tolkiendil.com</a> (accessed 27 June 2011)</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_History_of_Middle-earth_Index" title="The History of Middle-earth Index">The History of Middle-earth Index</a></i>, pp. 366, 369</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">The History of Middle-earth Index</a></i>, pp. 366, 369</span>
 </li>
 </ol></div>

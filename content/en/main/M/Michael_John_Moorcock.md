@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael Moorcock"
 ---
 
-Redirect to [Michael Moorcock](/wiki/Michael_Moorcock).
+Redirect to [Michael Moorcock](Michael_Moorcock.md).

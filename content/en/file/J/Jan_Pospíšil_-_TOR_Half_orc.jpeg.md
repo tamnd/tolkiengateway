@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jan Pospíšil - Half Orc.jpeg"
 ---
 
-Redirect to [File:Jan Pospíšil - Half Orc.jpeg](/wiki/File:Jan_Pospíšil_-_Half_Orc.jpeg).
+Redirect to [File:Jan Pospíšil - Half Orc.jpeg](Jan_Pospíšil_-_Half_Orc.jpeg.md).

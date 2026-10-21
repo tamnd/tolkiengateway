@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mother! O Lady Throned beyond the Stars"
 ---
 
-Redirect to [Mother! O Lady Throned beyond the Stars](/wiki/Mother!_O_Lady_Throned_beyond_the_Stars).
+Redirect to [Mother! O Lady Throned beyond the Stars](../M/Mother!_O_Lady_Throned_beyond_the_Stars.md).

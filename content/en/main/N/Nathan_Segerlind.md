@@ -1,6 +1,5 @@
 ---
 title: "Nathan Segerlind"
-display_title: "<span class=\"mw-page-title-main\">Nathan Segerlind</span>"
 page_id: 27601
 namespace: 0
 revision_id: 356615
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Segerlind, Nathan"
 ---
 
-**Nathan L. Segerlind** ([December](/wiki/December), [1973](/wiki/1973)) is the author of the text adventure parody *[The Bridge of Catzad-Dum](/wiki/The_Bridge_of_Catzad-Dum)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and eight other adventures for the *[Eamon](</wiki/Eamon_(video_game)> "Eamon (video game)")* series.
+**Nathan L. Segerlind** ([December](../D/December.md), [1973](../_/1973.md)) is the author of the text adventure parody *[The Bridge of Catzad-Dum](../T/The_Bridge_of_Catzad-Dum.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and eight other adventures for the *[Eamon](<../E/Eamon_(video_game).md>)* series.
 
 ## External links {#External_links}
 

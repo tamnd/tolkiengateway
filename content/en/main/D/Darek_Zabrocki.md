@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Darek Zabrocki"
 ---
 
-Redirect to [Category:Images by Darek Zabrocki](/wiki/Category:Images_by_Darek_Zabrocki).
+Redirect to [Category:Images by Darek Zabrocki](../../category/I/Images_by_Darek_Zabrocki.md).

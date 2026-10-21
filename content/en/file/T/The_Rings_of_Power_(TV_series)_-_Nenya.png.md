@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Nenya.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Nenya.png</span>"
 page_id: 73729
 namespace: 6
 revision_id: 435520
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Rings of Power (TV series) - Nenya.png</span></th>
 <td class="description">
-<p><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> holding <a href="/wiki/Nenya" title="Nenya">Nenya</a>
+<p><a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a> holding <a href="../../main/N/Nenya.md" title="Nenya">Nenya</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/29_August" title="29 August">August 29</a> <a href="/wiki/2024" title="2024">2024</a></td>
+<td><a href="../../main/_/29_August.md" title="29 August">August 29</a> <a href="../../main/_/2024.md" title="2024">2024</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> <a class="new" href="/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">Season 2</a>, Episode 1: <i><a href="/wiki/Elven_Kings_Under_the_Sky" title="Elven Kings Under the Sky">Elven Kings Under the Sky</a></i></td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">Season 2</a>, Episode 1: <i><a href="../../main/E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">Elven Kings Under the Sky</a></i></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

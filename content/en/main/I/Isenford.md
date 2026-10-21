@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fords of Isen"
 ---
 
-Redirect to [Fords of Isen](/wiki/Fords_of_Isen).
+Redirect to [Fords of Isen](../F/Fords_of_Isen.md).

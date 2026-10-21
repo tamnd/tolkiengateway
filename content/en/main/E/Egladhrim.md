@@ -11,4 +11,4 @@ redirect_target: "Falathrim"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Falathrim](/wiki/Falathrim#Names).
+Redirect to [Falathrim](../F/Falathrim.md#Names).

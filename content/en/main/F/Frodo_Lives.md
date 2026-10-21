@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Lives!"
 ---
 
-Redirect to [Frodo Lives!](/wiki/Frodo_Lives!).
+Redirect to [Frodo Lives!](Frodo_Lives!.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perilous and Fair: Women in the Works and Life of J.R.R. Tolkien"
 ---
 
-Redirect to [Perilous and Fair: Women in the Works and Life of J.R.R. Tolkien](/wiki/Perilous_and_Fair:_Women_in_the_Works_and_Life_of_J.R.R._Tolkien).
+Redirect to [Perilous and Fair: Women in the Works and Life of J.R.R. Tolkien](Perilous_and_Fair%253A_Women_in_the_Works_and_Life_of_J.R.R._Tolkien.md).

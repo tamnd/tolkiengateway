@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Thomas Rouillard"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Thomas Rouillard</span>"
 page_id: 38999
 namespace: 4
 revision_id: 193190
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rouillard, Thomas"
 ---
 
-- Thomas Rouillard has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Thomas_Rouillard "Category:Images by Thomas Rouillard") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Thomas Rouillard has kindly granted his permission to use [his artwork](../../category/I/Images_by_Thomas_Rouillard.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 March 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

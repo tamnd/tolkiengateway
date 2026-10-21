@@ -17,13 +17,13 @@ images:
   - "1968_-_Ken_Jackson_29_January.JPG"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:1968_-_Ken_Jackson_29_January.JPG"><img src="/w/images/a/a6/1968_-_Ken_Jackson_29_January.JPG" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" data-file-width="300" data-file-height="400"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/1968_-_Ken_Jackson_29_January.JPG.md"><img src="https://tolkiengateway.net/w/images/a/a6/1968_-_Ken_Jackson_29_January.JPG" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" data-file-width="300" data-file-height="400"/></a><figcaption></figcaption></figure>
 
-On [29 January](/wiki/29_January) [1968](/wiki/1968), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Ken Jackson**.,<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> that was biology master at New College School.
+On [29 January](../_/29_January.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Ken Jackson**.,<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> that was biology master at New College School.
 
-- **Subject:** Reply to a reader, concerning permission to name his house "[Bag End](/wiki/Bag_End)". Tolkien comments that he did not invent the name; Bag End was the local name for the house of his Aunt [Jane Neave](/wiki/Jane_Neave).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Subject:** Reply to a reader, concerning permission to name his house "[Bag End](../B/Bag_End.md)". Tolkien comments that he did not invent the name; Bag End was the local name for the house of his Aunt [Jane Neave](../J/Jane_Neave.md).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Description:** One page, typed letter signed.<sup id="cite_ref-TL_2-1" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
-- **Publication:** A small excerpt was published by [Colin Duriez](/wiki/Colin_Duriez) in *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, p. 455.
+- **Publication:** A small excerpt was published by [Colin Duriez](../C/Colin_Duriez.md) in *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, p. 455.
 
 ## Transcription {#Transcription}
 
@@ -32,11 +32,9 @@ On [29 January](/wiki/29_January) [1968](/wiki/1968), [J.R.R. Tolkien](/wiki/J.R
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- [Letter to Ken Jackson (4 January 1968)](</wiki/Letter_to_Ken_Jackson_(4_January_1968)>)
+- [Letter to Ken Jackson (4 January 1968)](<Letter_to_Ken_Jackson_(4_January_1968).md>)
 
 <span></span>
 
@@ -44,8 +42,8 @@ On [29 January](/wiki/29_January) [1968](/wiki/1968), [J.R.R. Tolkien](/wiki/J.R
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-CG-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-CG_1-0">1.0</a></sup> <sup><a href="#cite_ref-CG_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 716</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 716</span>
 </li>
-<li id="cite_note-TL-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-TL_2-0">2.0</a></sup> <sup><a href="#cite_ref-TL_2-1">2.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Pieter_Collier" title="Pieter Collier">Pieter Collier</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/collecting/seenonebay/object17/description.htm" rel="noreferrer noopener" target="_blank">&#34;JRR Tolkien 2 signed letters 1968 Handwritten &amp; Typed&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Library" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 30 March 2014</span></cite></span>
+<li id="cite_note-TL-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-TL_2-0">2.0</a></sup> <sup><a href="#cite_ref-TL_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../P/Pieter_Collier.md" title="Pieter Collier">Pieter Collier</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/collecting/seenonebay/object17/description.htm" rel="noreferrer noopener" target="_blank">&#34;JRR Tolkien 2 signed letters 1968 Handwritten &amp; Typed&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Library.md" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 30 March 2014</span></cite></span>
 </li>
 </ol></div>

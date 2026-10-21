@@ -1,6 +1,5 @@
 ---
 title: "File:Esmeralda Took - The Lord of the Rings Roleplaying.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Esmeralda Took - The Lord of the Rings Roleplaying.jpg</span>"
 page_id: 74681
 namespace: 6
 revision_id: 442360
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Esmeralda Took - The Lord of the Rings Roleplaying.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Esmeralda_Took" title="Esmeralda Took">Esmeralda Took</a>
+<p><a href="../../main/E/Esmeralda_Took.md" title="Esmeralda Took">Esmeralda Took</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jan_Posp%C3%AD%C5%A1il" title="Jan Pospíšil">Jan Pospíšil</a></td>
+<td><a href="../../main/J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings_Roleplaying" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 92</td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings_Roleplaying.md" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i>, p. 92</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

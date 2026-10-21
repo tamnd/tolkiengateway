@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Wedding of the King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Wedding of the King.jpg</span>"
 page_id: 71564
 namespace: 6
 revision_id: 437861
@@ -34,7 +33,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Wedding of [the King](/wiki/Aragorn "Aragorn")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1977 J.R.R. Tolkien Calendar](/wiki/1977_J.R.R._Tolkien_Calendar)
+"The Wedding of [the King](../../main/A/Aragorn.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1977 J.R.R. Tolkien Calendar](../../main/_/1977_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

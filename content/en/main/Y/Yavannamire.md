@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yavannamírë"
 ---
 
-Redirect to [Yavannamírë](/wiki/Yavannamírë).
+Redirect to [Yavannamírë](Yavannamírë.md).

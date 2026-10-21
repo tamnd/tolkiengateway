@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gandalf the Grey.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gandalf the Grey.png</span>"
 page_id: 73076
 namespace: 6
 revision_id: 432615
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf the Grey](/wiki/Gandalf "Gandalf") - [LEGO](/wiki/Lego "Lego") minifigure
+[Gandalf the Grey](../../main/G/Gandalf.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

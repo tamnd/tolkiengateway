@@ -1,6 +1,5 @@
 ---
 title: "Matthew Locricchio"
-display_title: "<span class=\"mw-page-title-main\">Matthew Locricchio</span>"
 page_id: 22397
 namespace: 0
 revision_id: 221952
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Locricchio, Matthew"
 ---
 
-**Matthew J. Locricchio** ([June 3](/wiki/3_June "3 June"), [1947](/wiki/1947)) is an American actor. He played [Éomer](/wiki/%C3%89omer) in [*The Lord of the Rings* (1979 radio series)](</wiki/The_Lord_of_the_Rings_(1979_radio_series)> "The Lord of the Rings (1979 radio series)").
+**Matthew J. Locricchio** ([June 3](../_/3_June.md), [1947](../_/1947.md)) is an American actor. He played [Éomer](../_/Éomer.md) in [*The Lord of the Rings* (1979 radio series)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>).
 
 ## External links {#External_links}
 

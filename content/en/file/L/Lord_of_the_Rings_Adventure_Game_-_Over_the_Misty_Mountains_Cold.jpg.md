@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Over the Misty Mountains Cold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Over the Misty Mountains Cold.jpg</span>"
 page_id: 71259
 namespace: 6
 revision_id: 425070
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration accompanying the poem *[Far over the misty mountains cold](/wiki/Far_over_the_misty_mountains_cold)* - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)* - *[Over the Misty Mountains Cold](/wiki/Over_the_Misty_Mountains_Cold)*
+Illustration accompanying the poem *[Far over the misty mountains cold](../../main/F/Far_over_the_misty_mountains_cold.md)* - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)* - *[Over the Misty Mountains Cold](../../main/O/Over_the_Misty_Mountains_Cold.md)*
 
 ## Licensing {#Licensing}
 

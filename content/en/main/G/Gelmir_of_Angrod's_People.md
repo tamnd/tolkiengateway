@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir and Arminas"
 ---
 
-Redirect to [Gelmir and Arminas](/wiki/Gelmir_and_Arminas).
+Redirect to [Gelmir and Arminas](Gelmir_and_Arminas.md).

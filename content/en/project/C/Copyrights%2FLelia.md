@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Lelia"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Lelia</span>"
 page_id: 41503
 namespace: 4
 revision_id: 210773
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lelia"
 ---
 
-- Lelia has kindly granted his permission to use [her artwork](/wiki/Category:Images_by_Lelia "Category:Images by Lelia") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Lelia has kindly granted his permission to use [her artwork](../../category/I/Images_by_Lelia.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 September 2012
-- User who sought the permission via DeviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via DeviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

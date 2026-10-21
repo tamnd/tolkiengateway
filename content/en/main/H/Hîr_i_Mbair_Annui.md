@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King (Dúnedain)"
 ---
 
-Redirect to [High King (Dúnedain)](/wiki/High_King_(Dúnedain)).
+Redirect to [High King (Dúnedain)](<High_King_(Dúnedain).md>).

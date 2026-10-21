@@ -1,6 +1,5 @@
 ---
 title: "File:The-Lord-of-the-Rings-Roleplaying-Logo-White.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The-Lord-of-the-Rings-Roleplaying-Logo-White.png</span>"
 page_id: 70753
 namespace: 6
 revision_id: 442348

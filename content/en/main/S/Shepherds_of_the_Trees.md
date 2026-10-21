@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ents"
 ---
 
-Redirect to [Ents](/wiki/Ents).
+Redirect to [Ents](../E/Ents.md).

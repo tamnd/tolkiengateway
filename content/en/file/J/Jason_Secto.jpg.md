@@ -1,6 +1,5 @@
 ---
 title: "File:Jason Secto.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jason Secto.jpg</span>"
 page_id: 73869
 namespace: 6
 revision_id: 436223
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jason Secto.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Jason_Secto" title="Jason Secto">Jason Secto</a> in costume as a <a href="/wiki/Last_Alliance_of_Elves_and_Men" title="Last Alliance of Elves and Men">Last Alliance</a> <a href="/wiki/Elves" title="Elves">Elf</a> at the parade in Wellington for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> Premiere
+<p><a href="../../main/J/Jason_Secto.md" title="Jason Secto">Jason Secto</a> in costume as a <a href="../../main/L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Last Alliance</a> <a href="../../main/E/Elves.md" title="Elves">Elf</a> at the parade in Wellington for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> Premiere
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1_December" title="1 December">1 December</a> <a href="/wiki/2003" title="2003">2003</a></td>
+<td><a href="../../main/_/1_December.md" title="1 December">1 December</a> <a href="../../main/_/2003.md" title="2003">2003</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20070816080018/http://www.theargonath.cc/cast/secto/secto.html" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20070816080018/http://www.theargonath.cc/cast/secto/secto.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

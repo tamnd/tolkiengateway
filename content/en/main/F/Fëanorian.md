@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanorian (disambiguation)"
 ---
 
-Redirect to [Fëanorian (disambiguation)](/wiki/Fëanorian_(disambiguation)).
+Redirect to [Fëanorian (disambiguation)](<Fëanorian_(disambiguation).md>).

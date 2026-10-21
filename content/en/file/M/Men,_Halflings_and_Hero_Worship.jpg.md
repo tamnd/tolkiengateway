@@ -1,6 +1,5 @@
 ---
 title: "File:Men, Halflings and Hero Worship.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Men, Halflings and Hero Worship.jpg</span>"
 page_id: 26137
 namespace: 6
 revision_id: 214283

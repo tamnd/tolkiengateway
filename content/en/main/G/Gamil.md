@@ -19,7 +19,7 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/reliefs/monts_brumeux/zirak"
 ---
 
-<i><b>Gamil</b></i> is an unglossed [Khuzdul](/wiki/Khuzdul) word, appearing in *[Gamil Zirak](/wiki/Gamil_Zirak#Etymology)*. It is possible that *gamil* is related to "old" since Gamil Zirak is also called Zirak the Old, being a similar case to [Lëa](/wiki/L%C3%ABa).<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+<i><b>Gamil</b></i> is an unglossed [Khuzdul](../K/Khuzdul.md) word, appearing in *[Gamil Zirak](Gamil_Zirak.md#Etymology)*. It is possible that *gamil* is related to "old" since Gamil Zirak is also called Zirak the Old, being a similar case to [Lëa](../L/Lëa.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 <span></span>
 

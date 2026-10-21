@@ -1,6 +1,5 @@
 ---
 title: "File:Crispin Freeman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Crispin Freeman.jpg</span>"
 page_id: 19227
 namespace: 6
 revision_id: 249523

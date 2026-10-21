@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ausir (disambiguation)"
 ---
 
-Redirect to [Ausir (disambiguation)](/wiki/Ausir_(disambiguation)).
+Redirect to [Ausir (disambiguation)](<Ausir_(disambiguation).md>).

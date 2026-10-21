@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "David McDaniel"
 ---
 
-Redirect to [David McDaniel](/wiki/David_McDaniel).
+Redirect to [David McDaniel](../D/David_McDaniel.md).

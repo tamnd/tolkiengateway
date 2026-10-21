@@ -14,17 +14,17 @@ categories:
   - "Scholarly books"
 ---
 
-<i><b>Tolkien, le façonnement d&#39;un monde</b></i> ("Tolkien, the shaping of a world") is a 2-volume collection of scholarly essays in French on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). The collection focuses on botany, astronomy and geography (in a very broad sense), with essays from French authors as well as translations from English.
+<i><b>Tolkien, le façonnement d&#39;un monde</b></i> ("Tolkien, the shaping of a world") is a 2-volume collection of scholarly essays in French on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). The collection focuses on botany, astronomy and geography (in a very broad sense), with essays from French authors as well as translations from English.
 
 ## Contents {#Contents}
 
 - Vol. 1, *Botanique &amp; Astronomie* (Botany &amp; Astronomy), July 2011, 276 p.
-    - [Didier Willis](/wiki/Didier_Willis), "Avant-propos — Tolkien et le souci du détail" (Foreword – Tolkien: an attention to details)
+    - [Didier Willis](../D/Didier_Willis.md), "Avant-propos — Tolkien et le souci du détail" (Foreword – Tolkien: an attention to details)
     - Stéphanie Loubechine, "Le Saule et le Bouleau — Symbolique de l’arbre chez Tolkien" (The Willow and the Birch: Symbolic views on Tolkien’s tree)
     - Alain Lefèvre, "Asphodèles et amarantes — Champs élyséens de *mallos* et d’*alfirin*" (Asphodels and amaranths: Elysian fields of *mallos* and *alfirin*)
     - Didier Willis, "Derrière les feuilles du *lebethron* — Variations sur le thème de l’Arbre et la Feuille" (Behind the leaves of *lebethron*: Variations on the Tree and the Leaf)
     - Lionel Pras, "Tolkien parmi les arbres" (Tolkien among trees)
-    - [Kristine Larsen](/wiki/Kristine_Larsen), "Pour une identification définitive de Borgil — Une approche astronomique et littéraire" (A definitive identification of Tolkien’s Borgil: an astronomical and literary approach)
+    - [Kristine Larsen](../K/Kristine_Larsen.md), "Pour une identification définitive de Borgil — Une approche astronomique et littéraire" (A definitive identification of Tolkien’s Borgil: an astronomical and literary approach)
     - Didier Willis, "La Couronne de Durin à l’épreuve de l’archéoastronomie" (The Crown of Durin put to the test of archeoastronomy)
     - François Augereau &amp; Didier Willis, "Des lettres lunaires et du nouvel an des Nains — Les Nains et le cycle métonique" (Of moon-letters and Dwarvish new year: Dwarves and the metonic cycle)
     - Alain Lefèvre, "Le conte perdu de Mercure — Tuor et Idril élevés au rang d’astre" (The lost tale of Mercury: Tuor and Idril elevated to the stars)
@@ -34,8 +34,8 @@ categories:
     - Kristine Larsen, "Oiseaux marins et étoiles du matin — Céyx, Alcyone et les métamorphoses d’Eärendil et Elwing" (Sea Birds and Morning Stars: Ceyx, Alcyone, and the Many Metamorphoses of Eärendil and Elwing)
     - Alain Lefèvre, "L’astre rouge de la Lune du Chasseur" (The red star at the Hunter's Moon)
     - Bertrand Bellet, "Les mois et les saisons en Terre du Milieu" (Months and seasons in Middle-earth)
-    - [Jason Fisher](/wiki/Jason_Fisher), "Aux sources des Cercles du Monde de Tolkien — Spéculations sur la *Heimskringla*, la Vulgate et la *mappa mundi* de Hereford" (Sourcing Tolkien's Circles of the World: Speculations on the *Heimskringla*, the Latin Vulgate Bible, and the Hereford *Mappa Mundi*)
-    - <a class="new" href="/w/index.php?title=Gerard_Hynes&amp;action=edit&amp;redlink=1" title="Gerard Hynes (page does not exist)">Gerard Hynes</a>, "Sous la sombre quille de la Terre — Tolkien et la géologie" (Beneath the Earth's dark keel: Tolkien and Geology)
+    - [Jason Fisher](../J/Jason_Fisher.md), "Aux sources des Cercles du Monde de Tolkien — Spéculations sur la *Heimskringla*, la Vulgate et la *mappa mundi* de Hereford" (Sourcing Tolkien's Circles of the World: Speculations on the *Heimskringla*, the Latin Vulgate Bible, and the Hereford *Mappa Mundi*)
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gerard_Hynes&amp;action=edit&amp;redlink=1" title="Gerard Hynes (page does not exist)">Gerard Hynes</a>, "Sous la sombre quille de la Terre — Tolkien et la géologie" (Beneath the Earth's dark keel: Tolkien and Geology)
     - Didier Willis, "Númenor et la *Cottoniana* — Enquête sur une île en forme d’étoile à cinq branches" (Númenor and the *Cottoniana*: Enquiry on a five-pointed star-shaped island)
     - Priscille Henon, "Dédales en Terre du Milieu" (Labyrinths in Middle-earth)
     - William A. S. Sarjeant, "La géologie de la Terre du Milieu" (The geology of Middle-earth)

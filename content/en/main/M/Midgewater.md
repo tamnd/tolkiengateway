@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Midgewater Marshes"
 ---
 
-Redirect to [Midgewater Marshes](/wiki/Midgewater_Marshes).
+Redirect to [Midgewater Marshes](Midgewater_Marshes.md).

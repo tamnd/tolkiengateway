@@ -1,6 +1,5 @@
 ---
 title: "File:Tree and Leaf 1971 paperback.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tree and Leaf 1971 paperback.png</span>"
 page_id: 61857
 namespace: 6
 revision_id: 348822

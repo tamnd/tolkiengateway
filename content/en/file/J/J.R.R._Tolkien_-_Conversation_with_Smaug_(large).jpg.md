@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Conversation with Smaug (large).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Conversation with Smaug (large).jpg</span>"
 page_id: 34461
 namespace: 6
 revision_id: 433845
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-This image was not used in the original impression of *The Hobbit*, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year and in the first American edition, 1938. In the American edition the title and the J.R.R.T. monogram were obliterated; but both reproductions carried the printed caption 'O Smaug the Chiefest and Greatest of Calamities' (Bilbo's words to the Dragon, Chapter 12, "[Inside Information](/wiki/Inside_Information)"). The painting was reproduced in *[The J.R.R. Tolkien Calendar 1973](/wiki/The_J.R.R._Tolkien_Calendar_1973)* and *[1974](/wiki/The_J.R.R._Tolkien_Calendar_1974 "The J.R.R. Tolkien Calendar 1974")*, and in *[The Hobbit Calendar 1976](/wiki/The_Hobbit_Calendar_1976)*.
+This image was not used in the original impression of *The Hobbit*, 1937, which included no coloured illustrations, this painting appeared in the second English impression of the same year and in the first American edition, 1938. In the American edition the title and the J.R.R.T. monogram were obliterated; but both reproductions carried the printed caption 'O Smaug the Chiefest and Greatest of Calamities' (Bilbo's words to the Dragon, Chapter 12, "[Inside Information](../../main/I/Inside_Information.md)"). The painting was reproduced in *[The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md)* and *[1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)*, and in *[The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md)*.
 
 ## Licensing {#Licensing}
 

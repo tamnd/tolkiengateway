@@ -1,6 +1,5 @@
 ---
 title: "Category:Bodies of water"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bodies of water</span>"
 page_id: 39671
 namespace: 14
 revision_id: 195482

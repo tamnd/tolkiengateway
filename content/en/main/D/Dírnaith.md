@@ -1,6 +1,5 @@
 ---
 title: "Dírnaith"
-display_title: "<span class=\"mw-page-title-main\">Dírnaith</span>"
 page_id: 13587
 namespace: 0
 revision_id: 219864
@@ -22,17 +21,17 @@ langlinks:
     url: "https://kontu.wiki/D%C3%ADrnaith"
 ---
 
-The **Dírnaith**, also known by its [Quenya](/wiki/Quenya) name *[Nernehta](/wiki/Nernehta)*, means *man-spearhead*. It was a wedge formation launched over a short distance against an enemy massing but not yet arrayed, or against a defensive formation on open ground. It was designed by the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans) for rapid attack against an opposing force before it could properly array itself for battle and it relied on the great strength and Stature of the Númenóreans.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Dírnaith**, also known by its [Quenya](../Q/Quenya.md) name *[Nernehta](../N/Nernehta.md)*, means *man-spearhead*. It was a wedge formation launched over a short distance against an enemy massing but not yet arrayed, or against a defensive formation on open ground. It was designed by the [Númenóreans](../N/Númenóreans.md) for rapid attack against an opposing force before it could properly array itself for battle and it relied on the great strength and Stature of the Númenóreans.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Thangail](/wiki/Thangail)
+- [Thangail](../T/Thangail.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Disaster_of_the_Gladden_Fields" title="The Disaster of the Gladden Fields">The Disaster of the Gladden Fields</a>&#34;, note 16</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">The Disaster of the Gladden Fields</a>&#34;, note 16</span>
 </li>
 </ol></div>

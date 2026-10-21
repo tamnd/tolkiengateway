@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The War of the Jewels"
 ---
 
-Redirect to [The War of the Jewels](/wiki/The_War_of_the_Jewels).
+Redirect to [The War of the Jewels](../T/The_War_of_the_Jewels.md).

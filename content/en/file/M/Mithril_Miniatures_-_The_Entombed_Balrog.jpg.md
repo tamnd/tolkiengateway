@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - The Entombed Balrog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - The Entombed Balrog.jpg</span>"
 page_id: 74500
 namespace: 6
 revision_id: 438627
@@ -31,26 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mithril Miniatures - The Entombed Balrog.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniature</a> of &#34;<a href="/wiki/Durin%27s_Bane" title="Durin&#39;s Bane">The Entombed Balrog</a>&#34;
+<p><a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniature</a> of &#34;<a href="../../main/D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">The Entombed Balrog</a>&#34;
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/September" title="September">September</a>, <a href="/wiki/2010" title="2010">2010</a></td>
+<td><a href="../../main/S/September.md" title="September">September</a>, <a href="../../main/_/2010.md" title="2010">2010</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://mithril.ie/miniatures/archived-miniatures/archive-ms564-the-entombed-balrog-fellowship-figure/" rel="noreferrer noopener" target="_blank">https://mithril.ie/miniatures/archived-miniatures/archive-ms564-the-entombed-balrog-fellowship-figure/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

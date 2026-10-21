@@ -1,6 +1,5 @@
 ---
 title: "At the End of the Quest, Victory"
-display_title: "<span class=\"mw-page-title-main\">At the End of the Quest, Victory</span>"
 page_id: 27036
 namespace: 0
 revision_id: 344732
@@ -13,13 +12,13 @@ categories:
   - "Published articles"
 ---
 
-**At the End of the Quest, Victory** is a review by [W.H. Auden](/wiki/W.H._Auden) of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Return of the King](/wiki/The_Return_of_the_King)*, published in *The New York Times Book Review*, [January 22](/wiki/22_January "22 January"), [1956](/wiki/1956).
+**At the End of the Quest, Victory** is a review by [W.H. Auden](../W/W.H._Auden.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Return of the King](../T/The_Return_of_the_King.md)*, published in *The New York Times Book Review*, [January 22](../_/22_January.md), [1956](../_/1956.md).
 
-The article was reprinted in *[The Tolkien Scrapbook](/wiki/The_Tolkien_Scrapbook)* ([1978](/wiki/1978)). Tolkien wrote a commentary about this review which he never sent or showed to anyone else, which [Christopher Tolkien](/wiki/Christopher_Tolkien) included as [Letter 183](/wiki/Letter_183) in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*.
+The article was reprinted in *[The Tolkien Scrapbook](../T/The_Tolkien_Scrapbook.md)* ([1978](../_/1978.md)). Tolkien wrote a commentary about this review which he never sent or showed to anyone else, which [Christopher Tolkien](../C/Christopher_Tolkien.md) included as [Letter 183](../L/Letter_183.md) in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Summary {#Summary}
 
-Auden admitted that *The Lord of the Rings* was a highly polarizing work, concluding that one reason for the hostility of some readers stems from a general objection to "Heroic Quests and Imaginary Worlds". Auden added that a heroic quest is an appropriate image for a subjective, first-person view of life, where life is a series of choices made for a definite purpose, but in an objective, third-person view, people's choices are invisible, and indeed their actions are usually predictable. Tolkien, however, had synthesized the heroic quest with a realistic view of life more successfully than any previous writer. Auden stated that this had been achieved in two ways. First, Tolkien had invented an imaginary world with its own peoples, environment, and history, in greater detail than any previous writer. Second, Tolkien had imagined how evil could be defeated not by the exercise of sheer power, as in Milton's *Paradise Lost*, but because of its own inherent weakness: the failure to imagine how anyone could seek to destroy the [One Ring](/wiki/The_One_Ring "The One Ring") rather than use its power for themselves. Auden added that Tolkien had met the challenge of making *The Return of the King* even grander than the previous volumes, thus bringing *The Lord of the Rings* to a climax.
+Auden admitted that *The Lord of the Rings* was a highly polarizing work, concluding that one reason for the hostility of some readers stems from a general objection to "Heroic Quests and Imaginary Worlds". Auden added that a heroic quest is an appropriate image for a subjective, first-person view of life, where life is a series of choices made for a definite purpose, but in an objective, third-person view, people's choices are invisible, and indeed their actions are usually predictable. Tolkien, however, had synthesized the heroic quest with a realistic view of life more successfully than any previous writer. Auden stated that this had been achieved in two ways. First, Tolkien had invented an imaginary world with its own peoples, environment, and history, in greater detail than any previous writer. Second, Tolkien had imagined how evil could be defeated not by the exercise of sheer power, as in Milton's *Paradise Lost*, but because of its own inherent weakness: the failure to imagine how anyone could seek to destroy the [One Ring](../T/The_One_Ring.md) rather than use its power for themselves. Auden added that Tolkien had met the challenge of making *The Return of the King* even grander than the previous volumes, thus bringing *The Lord of the Rings* to a climax.
 
 ## Excerpts {#Excerpts}
 

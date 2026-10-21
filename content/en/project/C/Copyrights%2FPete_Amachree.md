@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Pete Amachree"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Pete Amachree</span>"
 page_id: 37927
 namespace: 4
 revision_id: 352514
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Amachree, Pete"
 ---
 
-- Pete Amachree has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Pete_Amachree "Category:Images by Pete Amachree") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Pete Amachree has kindly granted his permission to use [his artwork](../../category/I/Images_by_Pete_Amachree.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 5 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
-- Reconfirmed on 11 August 2022 by [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)
+- Reconfirmed on 11 August 2022 by [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

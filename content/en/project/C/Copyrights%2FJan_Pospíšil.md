@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jan Pospíšil"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jan Pospíšil</span>"
 page_id: 48468
 namespace: 4
 revision_id: 431594
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Pospíšil, Jan"
 ---
 
-- [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Jan_Posp%C3%AD%C5%A1il "Category:Images by Jan Pospíšil") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Jan Pospíšil](../../main/J/Jan_Pospíšil.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Jan_Pospíšil.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 November 2014
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

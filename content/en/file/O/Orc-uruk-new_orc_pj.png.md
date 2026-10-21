@@ -1,6 +1,5 @@
 ---
 title: "File:Orc-uruk-new orc pj.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orc-uruk-new orc pj.png</span>"
 page_id: 22713
 namespace: 6
 revision_id: 207827
@@ -24,7 +23,7 @@ file:
   user: "Ederchil"
 ---
 
-A size comparison of the "orc", "uruk-hai" and the "new orc" (or "Mordor Orc") in *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. Screenshot from the documentary "<a class="new" href="/w/index.php?title=Weta_Workshop_(documentary)&amp;action=edit&amp;redlink=1" title="Weta Workshop (documentary) (page does not exist)">Weta Workshop</a>" on [*The Lord of the Rings: The Return of the King* (extended edition)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)> "The Lord of the Rings: The Return of the King (extended edition)") disc 3.
+A size comparison of the "orc", "uruk-hai" and the "new orc" (or "Mordor Orc") in *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Screenshot from the documentary "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Weta_Workshop_(documentary)&amp;action=edit&amp;redlink=1" title="Weta Workshop (documentary) (page does not exist)">Weta Workshop</a>" on [*The Lord of the Rings: The Return of the King* (extended edition)](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) disc 3.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.newline.com/" rel="noreferrer noopener" target="_blank">New Line Cinema</a>, a subsidiary of <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros. Entertainment</a>. It is believed that the limited use of this file,

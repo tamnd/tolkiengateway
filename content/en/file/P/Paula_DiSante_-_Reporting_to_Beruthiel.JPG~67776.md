@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Paula DiSante - Reporting to Beruthiel.jpg"
 ---
 
-Redirect to [File:Paula DiSante - Reporting to Beruthiel.jpg](/wiki/File:Paula_DiSante_-_Reporting_to_Beruthiel.jpg).
+Redirect to [File:Paula DiSante - Reporting to Beruthiel.jpg](Paula_DiSante_-_Reporting_to_Beruthiel.jpg.md).

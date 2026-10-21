@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Súriquessë"
 ---
 
-Redirect to [Súriquessë](/wiki/Súriquessë).
+Redirect to [Súriquessë](Súriquessë.md).

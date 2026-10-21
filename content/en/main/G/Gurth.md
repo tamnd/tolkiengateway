@@ -13,26 +13,26 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gurth</b></i> or <i><b>guru</b></i> is a [Sindarin](/wiki/Sindarin) noun meaning "death".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>gurth</b></i> or <i><b>guru</b></i> is a [Sindarin](../S/Sindarin.md) noun meaning "death".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Morgoth#Other_names" title="Morgoth">Bele<b>gurth</b></a></i> = "Great Death"
-- <i><a href="/wiki/Gurthang#Etymology" title="Gurthang"><b>Gurth</b>ang</a></i> = "Iron of Death"
-- "<i><a href="/wiki/Gurth_an_Glamhoth!" title="Gurth an Glamhoth!"><b>gurth</b> an Glamhoth!</a></i>" = "Death to the din-horde"
+- <i><a href="../M/Morgoth.md#Other_names" title="Morgoth">Bele<b>gurth</b></a></i> = "Great Death"
+- <i><a href="Gurthang.md#Etymology" title="Gurthang"><b>Gurth</b>ang</a></i> = "Iron of Death"
+- "<i><a href="Gurth_an_Glamhoth!.md" title="Gurth an Glamhoth!"><b>gurth</b> an Glamhoth!</a></i>" = "Death to the din-horde"
 
 ## See also {#See_also}
 
-- [Noldorin](/wiki/Noldorin) <i><a class="new" href="/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr, guruth</a></i> ("death")
-- [Sea of Núrnen: Etymology](/wiki/Sea_of_N%C3%BArnen#Etymology "Sea of Núrnen")
+- [Noldorin](../N/Noldorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=G%C3%BBr&amp;action=edit&amp;redlink=1" title="Gûr (page does not exist)">gûr, guruth</a></i> ("death")
+- [Sea of Núrnen: Etymology](../S/Sea_of_Núrnen.md#Etymology)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>gurth</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>gurth</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 87</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 87</span>
 </li>
 </ol></div>

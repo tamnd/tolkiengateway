@@ -1,6 +1,5 @@
 ---
 title: "Interviews relating to J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-main\">Interviews relating to J.R.R. Tolkien</span>"
 page_id: 15176
 namespace: 0
 revision_id: 142437
@@ -13,46 +12,46 @@ categories:
   - "Interviews"
 ---
 
-This article contains a list of **Interviews** relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+This article contains a list of **Interviews** relating to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and his works.
 
-## [Nils Ivar Agøy](/wiki/Nils_Ivar_Ag%C3%B8y) {#Nils_Ivar_Agøy}
+## [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) {#Nils_Ivar_Agøy}
 
-## [Matt Blessing](/wiki/Matt_Blessing) {#Matt_Blessing}
+## [Matt Blessing](../M/Matt_Blessing.md) {#Matt_Blessing}
 
-## [David Brawn](/wiki/David_Brawn) {#David_Brawn}
+## [David Brawn](../D/David_Brawn.md) {#David_Brawn}
 
-- [4-16-07](</wiki/Interviews/David_Brawn_(4-16-07)> "Interviews/David Brawn (4-16-07)")
+- [4-16-07](<Interviews%252FDavid_Brawn_(4-16-07).md>)
 
-## [Marcel Bülles](/wiki/Marcel_B%C3%BClles) {#Marcel_Bülles}
+## [Marcel Bülles](../M/Marcel_Bülles.md) {#Marcel_Bülles}
 
-## [Pieter Collier](/wiki/Pieter_Collier) {#Pieter_Collier}
+## [Pieter Collier](../P/Pieter_Collier.md) {#Pieter_Collier}
 
-## [Michaël Devaux](/wiki/Micha%C3%ABl_Devaux) {#Michaël_Devaux}
+## [Michaël Devaux](../M/Michaël_Devaux.md) {#Michaël_Devaux}
 
-## [Michael D.C. Drout](/wiki/Michael_D.C._Drout) {#Michael_D.C._Drout}
+## [Michael D.C. Drout](../M/Michael_D.C._Drout.md) {#Michael_D.C._Drout}
 
-## [Verlyn Flieger](/wiki/Verlyn_Flieger) {#Verlyn_Flieger}
+## [Verlyn Flieger](../V/Verlyn_Flieger.md) {#Verlyn_Flieger}
 
-## [Roger Garland](/wiki/Roger_Garland) {#Roger_Garland}
+## [Roger Garland](../R/Roger_Garland.md) {#Roger_Garland}
 
-## [Diana Glyer](/wiki/Diana_Glyer) {#Diana_Glyer}
+## [Diana Glyer](../D/Diana_Glyer.md) {#Diana_Glyer}
 
-- [4-16-07](</wiki/Interviews/Diana_Glyer_(4-16-07)> "Interviews/Diana Glyer (4-16-07)") ([The Children of Húrin Release Party](/wiki/The_Children_of_H%C3%BArin_Release_Party))
+- [4-16-07](<Interviews%252FDiana_Glyer_(4-16-07).md>) ([The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md))
 - <a class="external text" href="http://www.tolkienlibrary.com/press/The_Company_They_Keep.php" rel="noreferrer noopener" target="_blank">4-1-07</a> (TolkienLibrary.com)
 
-## [Wayne G. Hammond](/wiki/Wayne_G._Hammond) {#Wayne_G._Hammond}
+## [Wayne G. Hammond](../W/Wayne_G._Hammond.md) {#Wayne_G._Hammond}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/Wayne_Hammond_Christina_Scull_Interview.php" rel="noreferrer noopener" target="_blank">4-16-07</a> (TolkienLibrary.com)
 
-## [Mark T. Hooker](/wiki/Mark_T._Hooker) {#Mark_T._Hooker}
+## [Mark T. Hooker](../M/Mark_T._Hooker.md) {#Mark_T._Hooker}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/mark-hooker-interview.htm" rel="noreferrer noopener" target="_blank">12-31-06</a> (TolkienLibrary.com)
 
-## [John Howe](/wiki/John_Howe) {#John_Howe}
+## [John Howe](../J/John_Howe.md) {#John_Howe}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/John_Howe_Interview.php" rel="noreferrer noopener" target="_blank">9-7-07</a> (TolkienLibrary.com)
 
-## [Alan Lee](/wiki/Alan_Lee) {#Alan_Lee}
+## [Alan Lee](../A/Alan_Lee.md) {#Alan_Lee}
 
 - <a class="external text" href="http://www.bordersstores.com/features/feature.jsp?file=leealan2" rel="noreferrer noopener" target="_blank">Five Questions with Alan Lee</a>
 - <a class="external text" href="http://www.bordersstores.com/features/feature.jsp?file=leealan" rel="noreferrer noopener" target="_blank">Tolkien&#39;s Vision: Artist Alan Lee on Bringing The Lord of the Rings to Film</a>
@@ -62,20 +61,20 @@ This article contains a list of **Interviews** relating to [J.R.R. Tolkien](/wik
 - <a class="external text" href="http://einsiders.com/features/interviews/alanlee.php" rel="noreferrer noopener" target="_blank">An Interview with Alan Lee (Entertainment Insiders)</a>
 - <a class="external text" href="http://www.aintitcool.com/display.cgi?id=18983" rel="noreferrer noopener" target="_blank">Interview with Alan Lee (AintItCoolNews.com)</a>
 
-## [Michael Martinez](/wiki/Michael_Martinez) {#Michael_Martinez}
+## [Michael Martinez](../M/Michael_Martinez.md) {#Michael_Martinez}
 
-## [Jef Murray](/wiki/Jef_Murray) {#Jef_Murray}
+## [Jef Murray](../J/Jef_Murray.md) {#Jef_Murray}
 
-## [John D. Rateliff](/wiki/John_D._Rateliff) {#John_D._Rateliff}
+## [John D. Rateliff](../J/John_D._Rateliff.md) {#John_D._Rateliff}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/history_of_the_hobbit.php" rel="noreferrer noopener" target="_blank">4-1-07</a> (TolkienLibrary.com)
-- [4-16-07](</wiki/Interviews/John_D._Rateliff_(4-16-07)> "Interviews/John D. Rateliff (4-16-07)")
+- [4-16-07](<Interviews%252FJohn_D._Rateliff_(4-16-07).md>)
 - <a class="external text" href="http://radio.nationalreview.com/betweenthecovers/post/?q=M2EyNjkyYjY4ODE1YzM2MTZhNjQxNTA3NzM1NmU5MmE=" rel="noreferrer noopener" target="_blank">1-24-07</a> (NationalReview.com)
 
-## [Christina Scull](/wiki/Christina_Scull) {#Christina_Scull}
+## [Christina Scull](../C/Christina_Scull.md) {#Christina_Scull}
 
 - <a class="external text" href="http://www.tolkienlibrary.com/press/Wayne_Hammond_Christina_Scull_Interview.php" rel="noreferrer noopener" target="_blank">4-16-07</a> (TolkienLibrary.com)
 
-## [Turbine](/wiki/Turbine) {#Turbine}
+## [Turbine](../T/Turbine.md) {#Turbine}
 
-## [Johan Vanhecke](/wiki/Johan_Vanhecke) {#Johan_Vanhecke}
+## [Johan Vanhecke](../J/Johan_Vanhecke.md) {#Johan_Vanhecke}

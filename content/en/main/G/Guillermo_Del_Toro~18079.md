@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guillermo del Toro"
 ---
 
-Redirect to [Guillermo del Toro](/wiki/Guillermo_del_Toro).
+Redirect to [Guillermo del Toro](Guillermo_del_Toro.md).

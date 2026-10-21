@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tengwar/Mode of Beleriand"
 ---
 
-Redirect to [Tengwar/Mode of Beleriand](/wiki/Tengwar/Mode_of_Beleriand).
+Redirect to [Tengwar/Mode of Beleriand](../T/Tengwar%252FMode_of_Beleriand.md).

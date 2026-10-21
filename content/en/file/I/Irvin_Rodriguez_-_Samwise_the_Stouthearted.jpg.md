@@ -1,6 +1,5 @@
 ---
 title: "File:Irvin Rodriguez - Samwise the Stouthearted.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Irvin Rodriguez - Samwise the Stouthearted.jpg</span>"
 page_id: 65057
 namespace: 6
 revision_id: 374579
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Irvin Rodriguez</li>
 <li><b>Website:</b> <a class="external text" href="http://irvinrodriguez.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Irvin_Rodriguez" title="Tolkien Gateway:Copyrights/Irvin Rodriguez">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIrvin_Rodriguez.md" title="Tolkien Gateway:Copyrights/Irvin Rodriguez">Permission for use on Tolkien Gateway</a></b></li></ul></div>

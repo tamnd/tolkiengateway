@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Great War"
 ---
 
-Redirect to [Tolkien's Great War](/wiki/Tolkien's_Great_War).
+Redirect to [Tolkien's Great War](Tolkien's_Great_War.md).

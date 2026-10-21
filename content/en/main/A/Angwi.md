@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ango"
 ---
 
-Redirect to [Ango](/wiki/Ango).
+Redirect to [Ango](Ango.md).

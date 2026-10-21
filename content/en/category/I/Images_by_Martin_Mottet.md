@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Martin Mottet"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Martin Mottet</span>"
 page_id: 68285
 namespace: 14
 revision_id: 401655

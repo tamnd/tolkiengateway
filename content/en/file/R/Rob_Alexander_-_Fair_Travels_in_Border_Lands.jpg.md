@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Fair Travels in Border-lands.jpg"
 ---
 
-Redirect to [File:Rob Alexander - Fair Travels in Border-lands.jpg](/wiki/File:Rob_Alexander_-_Fair_Travels_in_Border-lands.jpg).
+Redirect to [File:Rob Alexander - Fair Travels in Border-lands.jpg](Rob_Alexander_-_Fair_Travels_in_Border-lands.jpg.md).

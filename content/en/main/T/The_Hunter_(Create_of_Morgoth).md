@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hunter and Rider"
 ---
 
-Redirect to [Hunter and Rider](/wiki/Hunter_and_Rider).
+Redirect to [Hunter and Rider](../H/Hunter_and_Rider.md).

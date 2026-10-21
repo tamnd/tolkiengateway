@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brockhouse family"
 ---
 
-Redirect to [Brockhouse family](/wiki/Brockhouse_family).
+Redirect to [Brockhouse family](Brockhouse_family.md).

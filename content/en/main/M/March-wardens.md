@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marchwardens"
 ---
 
-Redirect to [Marchwardens](/wiki/Marchwardens).
+Redirect to [Marchwardens](Marchwardens.md).

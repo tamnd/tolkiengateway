@@ -1,6 +1,5 @@
 ---
 title: "File:The Horn Book Magazine 1938 March-April.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Horn Book Magazine 1938 March-April.jpg</span>"
 page_id: 26135
 namespace: 6
 revision_id: 213687

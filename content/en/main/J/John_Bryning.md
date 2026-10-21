@@ -1,6 +1,5 @@
 ---
 title: "John Bryning"
-display_title: "<span class=\"mw-page-title-main\">John Bryning</span>"
 page_id: 30696
 namespace: 0
 revision_id: 221919
@@ -19,11 +18,11 @@ sort_keys:
   "Actors and actresses": "Bryning, John"
 ---
 
-**John Bryning** ([October 11](/wiki/11_October "11 October"), [1913](/wiki/1913) - March [1998](/wiki/1998)) was a British actor.
+**John Bryning** ([October 11](../_/11_October.md), [1913](../_/1913.md) - March [1998](../_/1998.md)) was a British actor.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Master of Esgaroth](/wiki/Master_of_Lake-town "Master of Lake-town")
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Master of Esgaroth](../M/Master_of_Lake-town.md)
 
 ## External links {#External_links}
 

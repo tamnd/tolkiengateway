@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Minas Tirith in Beleriand"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Minas Tirith in Beleriand</span>"
 page_id: 8774
 namespace: 14
 revision_id: 19272

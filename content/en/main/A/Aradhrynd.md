@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elvenking's Halls"
 ---
 
-Redirect to [Elvenking's Halls](/wiki/Elvenking's_Halls).
+Redirect to [Elvenking's Halls](../E/Elvenking's_Halls.md).

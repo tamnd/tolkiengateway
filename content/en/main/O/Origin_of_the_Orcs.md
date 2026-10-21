@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs/Origin"
 ---
 
-Redirect to [Orcs/Origin](/wiki/Orcs/Origin).
+Redirect to [Orcs/Origin](Orcs%252FOrigin.md).

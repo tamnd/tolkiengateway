@@ -1,6 +1,5 @@
 ---
 title: "File:Pukirice - Berúthiel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pukirice - Berúthiel.png</span>"
 page_id: 73197
 namespace: 6
 revision_id: 433168
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Pukirice</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.tumblr.com/pukiirice/807315325939007489/ber%C3%BAthiel-the-12th-queen-of-gondor-commissioned" rel="noreferrer noopener" target="_blank">https://www.tumblr.com/pukiirice/807315325939007489/ber%C3%BAthiel-the-12th-queen-of-gondor-commissioned</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -57,4 +52,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Pukirice</li>
 <li><b>Website:</b> <a class="external autonumber" href="https://www.tumblr.com/pukiirice/" rel="noreferrer noopener" target="_blank">[1]</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Pukirice" title="Tolkien Gateway:Copyrights/Pukirice">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPukirice.md" title="Tolkien Gateway:Copyrights/Pukirice">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Lindenroot - Elder Shepherd.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Lindenroot - Elder Shepherd.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Lindenroot_-_Elder_Shepherd.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Lindenroot - Elder Shepherd.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Lindenroot_-_Elder_Shepherd.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Pippin talks with Faramir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Pippin talks with Faramir.jpg</span>"
 page_id: 64342
 namespace: 6
 revision_id: 368388
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*, [Peregrin of the Tower Guard](/wiki/Peregrin_of_the_Tower_Guard).
+A still from the scene *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, [Peregrin of the Tower Guard](../../main/P/Peregrin_of_the_Tower_Guard.md).
 
 ## Licensing {#Licensing}
 

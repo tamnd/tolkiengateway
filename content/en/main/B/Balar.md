@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isle of Balar"
 ---
 
-Redirect to [Isle of Balar](/wiki/Isle_of_Balar).
+Redirect to [Isle of Balar](../I/Isle_of_Balar.md).

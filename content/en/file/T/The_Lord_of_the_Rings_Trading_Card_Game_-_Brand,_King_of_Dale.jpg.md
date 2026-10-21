@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Trading Card Game - Brand, King of Dale.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game - Brand, King of Dale.jpg</span>"
 page_id: 50397
 namespace: 6
 revision_id: 427665

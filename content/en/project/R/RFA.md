@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Requests for adminship"
 ---
 
-Redirect to [Tolkien Gateway:Requests for adminship](/wiki/Tolkien_Gateway:Requests_for_adminship).
+Redirect to [Tolkien Gateway:Requests for adminship](Requests_for_adminship.md).

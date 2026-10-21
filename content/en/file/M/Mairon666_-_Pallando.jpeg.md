@@ -1,6 +1,5 @@
 ---
 title: "File:Mairon666 - Pallando.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mairon666 - Pallando.jpeg</span>"
 page_id: 73688
 namespace: 6
 revision_id: 439960
@@ -27,10 +26,6 @@ file:
 ## Description {#Description}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>mairon666</td>
@@ -39,7 +34,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/mairon666/art/Pallando-Romenstar-one-of-the-Ithryn-Luin-887316376" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - North Downs map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - North Downs map.jpg</span>"
 page_id: 38671
 namespace: 6
 revision_id: 270717
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [North Downs](/wiki/North_Downs) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [North Downs](../../main/N/North_Downs.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

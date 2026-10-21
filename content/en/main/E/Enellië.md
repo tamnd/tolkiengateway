@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nelyar"
 ---
 
-Redirect to [Nelyar](/wiki/Nelyar).
+Redirect to [Nelyar](../N/Nelyar.md).

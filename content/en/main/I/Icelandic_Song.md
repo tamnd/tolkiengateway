@@ -1,6 +1,5 @@
 ---
 title: "Icelandic Song"
-display_title: "<span class=\"mw-page-title-main\">Icelandic Song</span>"
 page_id: 63168
 namespace: 0
 revision_id: 357612
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Icelandic Song** \[Það liggur svo makalaust\] is a song written in Icelandic ("It's so incomparable"), by composer <a class="external text" href="https://is.wikipedia.org/wiki/Bjarni_%C3%9Eorsteinsson" rel="noreferrer noopener" target="_blank">Bjarni Þorsteinsson</a>, to be sung to the tune of *Are You the O'Reilly Who Keeps This Hotel?*. It is published as the 16th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Icelandic Song** \[Það liggur svo makalaust\] is a song written in Icelandic ("It's so incomparable"), by composer <a class="external text" href="https://is.wikipedia.org/wiki/Bjarni_%C3%9Eorsteinsson" rel="noreferrer noopener" target="_blank">Bjarni Þorsteinsson</a>, to be sung to the tune of *Are You the O'Reilly Who Keeps This Hotel?*. It is published as the 16th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

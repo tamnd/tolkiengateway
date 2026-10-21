@@ -1,6 +1,5 @@
 ---
 title: "Category:Academic institutions"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Academic institutions</span>"
 page_id: 21986
 namespace: 14
 revision_id: 335487
@@ -15,4 +14,4 @@ categories:
   - "Organizations (real-world)"
 ---
 
-Academic institions that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda)
+Academic institions that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md)

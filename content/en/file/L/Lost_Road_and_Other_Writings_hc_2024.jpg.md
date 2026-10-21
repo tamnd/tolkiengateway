@@ -1,6 +1,5 @@
 ---
 title: "File:Lost Road and Other Writings hc 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lost Road and Other Writings hc 2024.jpg</span>"
 page_id: 67998
 namespace: 6
 revision_id: 400675

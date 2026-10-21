@@ -1,6 +1,5 @@
 ---
 title: "-ings"
-display_title: "<span class=\"mw-page-title-main\">-ings</span>"
 page_id: 30919
 namespace: 0
 revision_id: 404397
@@ -15,19 +14,19 @@ sort_keys:
   "Suffixes": "ings"
 ---
 
-<i><b>-ings</b></i> (or *-ingas*) is a suffix, used in the [legendarium](/wiki/Legendarium "Legendarium") to denote such people. Often used for people belonged to a certain leader (or that were the descendants of a common fore-father) as Bard (Bardings), or to a certain land, as Dunland (Dunlendings).
+<i><b>-ings</b></i> (or *-ingas*) is a suffix, used in the [legendarium](../L/Legendarium.md) to denote such people. Often used for people belonged to a certain leader (or that were the descendants of a common fore-father) as Bard (Bardings), or to a certain land, as Dunland (Dunlendings).
 
 ## Examples {#Examples}
 
-- [Bardings](/wiki/Bardings)
-- [Beornings](/wiki/Beornings)
-- [Eorlingas](/wiki/Eorlingas)
-- [Helmingas](/wiki/Helmingas)
-- [Dunlendings](/wiki/Dunlendings)
+- [Bardings](../B/Bardings.md)
+- [Beornings](../B/Beornings.md)
+- [Eorlingas](../E/Eorlingas.md)
+- [Helmingas](../H/Helmingas.md)
+- [Dunlendings](../D/Dunlendings.md)
 
 ## Etymology {#Etymology}
 
-- [Old English](/wiki/Old_English) *-ing*, *-ung* (derived from <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">Proto-Germanic</a> \**unga*): Forming derivatives of masculine nouns with sense of "belonging to, son of".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Old English](../O/Old_English.md) *-ing*, *-ung* (derived from <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">Proto-Germanic</a> \**unga*): Forming derivatives of masculine nouns with sense of "belonging to, son of".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

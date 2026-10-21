@@ -1,6 +1,5 @@
 ---
 title: "Spirits of shadows"
-display_title: "<span class=\"mw-page-title-main\">Spirits of shadows</span>"
 page_id: 43146
 namespace: 0
 revision_id: 401938
@@ -19,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Varjonhenget"
 ---
 
-**Spirits of shadows** were servants of [Morgoth](/wiki/Morgoth), who he sent against [Tilion](/wiki/Tilion) and the vessel of the [Moon](/wiki/Moon). There was a strife in [Ilmen](/wiki/Ilmen), but Tilion was victorious against these evil [spirits](/wiki/Spirits "Spirits").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Spirits of shadows** were servants of [Morgoth](../M/Morgoth.md), who he sent against [Tilion](../T/Tilion.md) and the vessel of the [Moon](../M/Moon.md). There was a strife in [Ilmen](../I/Ilmen.md), but Tilion was victorious against these evil [spirits](Spirits.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon and the Hiding of Valinor</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor.md" title="Of the Sun and Moon and the Hiding of Valinor">Of the Sun and Moon and the Hiding of Valinor</a>&#34;</span>
 </li>
 </ol></div>

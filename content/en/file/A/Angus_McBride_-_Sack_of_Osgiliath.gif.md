@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Sack of Osgiliath.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Sack of Osgiliath.gif</span>"
 page_id: 15802
 namespace: 6
 revision_id: 423353

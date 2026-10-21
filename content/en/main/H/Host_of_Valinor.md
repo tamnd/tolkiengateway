@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Host of the Valar"
 ---
 
-Redirect to [Host of the Valar](/wiki/Host_of_the_Valar).
+Redirect to [Host of the Valar](Host_of_the_Valar.md).

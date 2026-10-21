@@ -16,11 +16,11 @@ images:
   - "The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg"><img src="/w/images/thumb/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg/300px-The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg" decoding="async" loading="lazy" width="300" height="292" class="mw-file-element" srcset="/w/images/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg 1.5x" data-file-width="359" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg/300px-The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg" decoding="async" loading="lazy" width="300" height="292" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cf/The_Tolkien_art_of_the_Brothers_Hildebrandt_2006_Calendar.jpg 1.5x" data-file-width="359" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien art of the Brothers Hildebrandt 2006 Calendar** was published by Ronnie Sellers and is the fourth of a series of four calendars that features original Tolkien artwork by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt). The sketches and photos featured were created from posing sessions during the 1970's.
+**The Tolkien art of the Brothers Hildebrandt 2006 Calendar** was published by Ronnie Sellers and is the fourth of a series of four calendars that features original Tolkien artwork by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md). The sketches and photos featured were created from posing sessions during the 1970's.
 
-<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1416210717">ISBN 1-4162-1071-7</a>
+<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1416210717">ISBN 1-4162-1071-7</a>
 
 - Dimensions: 12 x 12 inches
 - Stapled

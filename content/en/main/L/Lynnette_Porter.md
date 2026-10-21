@@ -1,6 +1,5 @@
 ---
 title: "Lynnette Porter"
-display_title: "<span class=\"mw-page-title-main\">Lynnette Porter</span>"
 page_id: 42959
 namespace: 0
 revision_id: 406389
@@ -25,12 +24,12 @@ Dr. **Lynnette Porter** is an American author and Professor in the Humanities &a
 
 ### Books {#Books}
 
-- [2005](/wiki/2005): *[Unsung Heroes of The Lord of the Rings: From the Page to the Screen](/wiki/Unsung_Heroes_of_The_Lord_of_the_Rings "Unsung Heroes of The Lord of the Rings")*
-- [2012](/wiki/2012): *[The Hobbits: The Many Lives of Bilbo, Frodo, Sam, Merry and Pippin](/wiki/The_Hobbits "The Hobbits")*
+- [2005](../_/2005.md): *[Unsung Heroes of The Lord of the Rings: From the Page to the Screen](../U/Unsung_Heroes_of_The_Lord_of_the_Rings.md)*
+- [2012](../_/2012.md): *[The Hobbits: The Many Lives of Bilbo, Frodo, Sam, Merry and Pippin](../T/The_Hobbits.md)*
 
 ### Articles, papers {#Articles,_papers}
 
-- [2008](/wiki/2008): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](/wiki/The_Ring_Goes_Ever_On:_Proceedings_of_the_Tolkien_2005_Conference)*
+- [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
     - "Courage and the Ability to Adapt"
 
 ## External links {#External_links}

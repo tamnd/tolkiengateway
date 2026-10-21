@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Ring hc 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Ring hc 2024.jpg</span>"
 page_id: 68678
 namespace: 6
 revision_id: 408664

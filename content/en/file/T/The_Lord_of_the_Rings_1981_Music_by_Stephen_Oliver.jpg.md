@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings 1981 Music by Stephen Oliver.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings 1981 Music by Stephen Oliver.jpg</span>"
 page_id: 63048
 namespace: 6
 revision_id: 356716
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the vinyl "Music from the [BBC Radio dramatization of J.R.R. Tolkien's The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)")". Composed and conducted by [Stephen Oliver](/wiki/Stephen_Oliver).
+Cover of the vinyl "Music from the [BBC Radio dramatization of J.R.R. Tolkien's The Lord of the Rings](<../../main/T/The_Lord_of_the_Rings_(1981_radio_series).md>)". Composed and conducted by [Stephen Oliver](../../main/S/Stephen_Oliver.md).
 
 <br>
 

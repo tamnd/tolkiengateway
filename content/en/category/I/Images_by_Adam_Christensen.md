@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Adam Christensen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Adam Christensen</span>"
 page_id: 62555
 namespace: 14
 revision_id: 389490

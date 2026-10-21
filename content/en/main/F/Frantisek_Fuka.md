@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "František Fuka"
 ---
 
-Redirect to [František Fuka](/wiki/František_Fuka).
+Redirect to [František Fuka](František_Fuka.md).

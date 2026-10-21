@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michele Mantoani"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michele Mantoani</span>"
 page_id: 68318
 namespace: 14
 revision_id: 401916

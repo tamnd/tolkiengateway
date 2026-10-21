@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Audrey Corman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Audrey Corman</span>"
 page_id: 7464
 namespace: 14
 revision_id: 181941
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Corman, Audrey"
 ---
 
-This category lists all **images by [Audrey Corman](/wiki/Audrey_Corman)**.
+This category lists all **images by [Audrey Corman](../../main/A/Audrey_Corman.md)**.

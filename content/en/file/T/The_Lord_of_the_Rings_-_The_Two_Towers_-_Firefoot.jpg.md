@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Firefoot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Firefoot.jpg</span>"
 page_id: 71692
 namespace: 6
 revision_id: 427722
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Éomer](/wiki/%C3%89omer) on [Firefoot](/wiki/Firefoot) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Éomer](../../main/_/Éomer.md) on [Firefoot](../../main/F/Firefoot.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

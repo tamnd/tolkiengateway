@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tram Nybol"
 ---
 
-Redirect to [Tram Nybol](/wiki/Tram_Nybol).
+Redirect to [Tram Nybol](../T/Tram_Nybol.md).

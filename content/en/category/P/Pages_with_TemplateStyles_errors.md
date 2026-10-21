@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with TemplateStyles errors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with TemplateStyles errors</span>"
 page_id: 69206
 namespace: 14
 revision_id: 413499

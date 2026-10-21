@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Vampire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Vampire.jpg</span>"
 page_id: 29323
 namespace: 6
 revision_id: 203342
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Vampire" by [Liz Danforth](/wiki/Liz_Danforth), appearing in *[Creatures of Middle-earth (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)>)*.
+"Vampire" by [Liz Danforth](../../main/L/Liz_Danforth.md), appearing in *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)*.
 
 ## Licensing {#Licensing}
 

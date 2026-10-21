@@ -1,6 +1,5 @@
 ---
 title: "Letter to Rod Jellema"
-display_title: "<span class=\"mw-page-title-main\">Letter to Rod Jellema</span>"
 page_id: 29779
 namespace: 0
 revision_id: 247024
@@ -15,10 +14,10 @@ sort_keys:
   "Letters": "Jellema, Rod"
 ---
 
-In the Spring of [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to Jod Jellema**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In the Spring of [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to Jod Jellema**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Contents:** A reply to a letter from Jellema, concerning the controversy of Tolkien's disapproval of [W.H. Auden](/wiki/W.H._Auden)'s intended book on Tolkien.
-- **Publication:** The letter is quoted in *[W.H. Auden: A Legacy](/wiki/W.H._Auden:_A_Legacy)*.
+- **Contents:** A reply to a letter from Jellema, concerning the controversy of Tolkien's disapproval of [W.H. Auden](../W/W.H._Auden.md)'s intended book on Tolkien.
+- **Publication:** The letter is quoted in *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)*.
 
 ## Excerpt {#Excerpt}
 
@@ -26,16 +25,16 @@ In the Spring of [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrot
 
 ## See also {#See_also}
 
-- [Letter to Roger Verhulst (9 March 1966)](</wiki/Letter_to_Roger_Verhulst_(9_March_1966)>)
-- [Letter to Roger Verhulst (8 April 1966)](</wiki/Letter_to_Roger_Verhulst_(8_April_1966)>)
-- [Letter to Roger Verhulst (3 May 1966)](</wiki/Letter_to_Roger_Verhulst_(3_May_1966)>)
-- [Letter to Roger Verhulst (4 December 1967)](</wiki/Letter_to_Roger_Verhulst_(4_December_1967)>)
+- [Letter to Roger Verhulst (9 March 1966)](<Letter_to_Roger_Verhulst_(9_March_1966).md>)
+- [Letter to Roger Verhulst (8 April 1966)](<Letter_to_Roger_Verhulst_(8_April_1966).md>)
+- [Letter to Roger Verhulst (3 May 1966)](<Letter_to_Roger_Verhulst_(3_May_1966).md>)
+- [Letter to Roger Verhulst (4 December 1967)](<Letter_to_Roger_Verhulst_(4_December_1967).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Rod Jellema, &#34;Auden on Tolkien: The Book that Isn&#39;t, and the House that Brought it Down&#34;, in <i><a href="/wiki/W.H._Auden:_A_Legacy" title="W.H. Auden: A Legacy">W.H. Auden: A Legacy</a></i>, p. 39</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Rod Jellema, &#34;Auden on Tolkien: The Book that Isn&#39;t, and the House that Brought it Down&#34;, in <i><a href="../W/W.H._Auden%253A_A_Legacy.md" title="W.H. Auden: A Legacy">W.H. Auden: A Legacy</a></i>, p. 39</span>
 </li>
 </ol></div>

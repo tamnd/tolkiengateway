@@ -1,6 +1,5 @@
 ---
 title: "File:Åke Ohlmarks (Aftonbladet).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Åke Ohlmarks (Aftonbladet).jpg</span>"
 page_id: 53873
 namespace: 6
 revision_id: 292362

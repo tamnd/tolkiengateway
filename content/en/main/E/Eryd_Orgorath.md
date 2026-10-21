@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Gorgoroth"
 ---
 
-Redirect to [Ered Gorgoroth](/wiki/Ered_Gorgoroth).
+Redirect to [Ered Gorgoroth](Ered_Gorgoroth.md).

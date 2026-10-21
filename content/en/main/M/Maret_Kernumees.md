@@ -1,6 +1,5 @@
 ---
 title: "Maret Kernumees"
-display_title: "<span class=\"mw-page-title-main\">Maret Kernumees</span>"
 page_id: 17717
 namespace: 0
 revision_id: 290685
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Kernumees, Maret"
 ---
 
-**Maret Kernumees** ([1934](/wiki/1934)-[1997](/wiki/1997)) was an Estonian artist who illustrated the 1977 and 1995 Estonian translations of *[The Hobbit](/wiki/The_Hobbit)*.
+**Maret Kernumees** ([1934](../_/1934.md)-[1997](../_/1997.md)) was an Estonian artist who illustrated the 1977 and 1995 Estonian translations of *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## See also {#See_also}
 
-- [Images by Maret Kernumees](/wiki/Category:Images_by_Maret_Kernumees "Category:Images by Maret Kernumees")
+- [Images by Maret Kernumees](../../category/I/Images_by_Maret_Kernumees.md)

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Battle for Middle-earth box.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Battle for Middle-earth box.jpg</span>"
 page_id: 20542
 namespace: 6
 revision_id: 425736

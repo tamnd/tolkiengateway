@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Two Towers-Arwen's Fate Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Two Towers-Arwen&#039;s Fate Scene.jpg</span>"
 page_id: 75185
 namespace: 6
 revision_id: 442700

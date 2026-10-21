@@ -1,6 +1,5 @@
 ---
 title: "File:Weta Digital - logo.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Weta Digital - logo.gif</span>"
 page_id: 12865
 namespace: 6
 revision_id: 247223

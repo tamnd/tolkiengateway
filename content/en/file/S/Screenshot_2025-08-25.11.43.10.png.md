@@ -1,6 +1,5 @@
 ---
 title: "File:Screenshot 2025-08-25.11.43.10.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Screenshot 2025-08-25.11.43.10.png</span>"
 page_id: 70949
 namespace: 6
 revision_id: 423649

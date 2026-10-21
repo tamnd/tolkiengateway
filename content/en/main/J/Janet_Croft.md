@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Janet Brennan Croft"
 ---
 
-Redirect to [Janet Brennan Croft](/wiki/Janet_Brennan_Croft).
+Redirect to [Janet Brennan Croft](Janet_Brennan_Croft.md).

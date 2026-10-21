@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien (film) - poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien (film) - poster.jpg</span>"
 page_id: 56416
 namespace: 6
 revision_id: 358109
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional poster for the film *[Tolkien](</wiki/Tolkien_(film)> "Tolkien (film)")*.
+Promotional poster for the film *[Tolkien](<../../main/T/Tolkien_(film).md>)*.
 
 ## Licensing {#Licensing}
 

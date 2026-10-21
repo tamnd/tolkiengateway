@@ -16,10 +16,10 @@ sort_keys:
   "Letters": "Sayer, George (1953-06-24)"
 ---
 
-On [24 June](/wiki/24_June) [1953](/wiki/1953), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [George Sayer](/wiki/George_Sayer)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [24 June](../_/24_June.md) [1953](../_/1953.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [George Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 - **Subject:** Tolkien begins his letter with an apology for it being typed, stating that he is having pain in his hand and typing bothers it less then writing. He then goes into a discussion of news and matters relative to being an important professor at University. The letter further delivers news of family matters typical between such close personal friends. Tolkien also asks of Sayer's advice in regard to his plans to purchase a tape recorder, expressing his hopes that whatever machine he buys will be compatible with Sayer's, so that he could send reels to George "*for your criticism, or your use*".<sup id="cite_ref-Abe_2-0" class="reference"><a href="#cite_note-Abe-2">[2]</a></sup>
-- **Publication:** A description of the letter was published in [*The J.R.R. Tolkien Companion and Guide: Chronology*](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide") (p. 401).
+- **Publication:** A description of the letter was published in [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (p. 401).
 
 ## From a sale {#From_a_sale}
 
@@ -29,11 +29,9 @@ On [24 June](/wiki/24_June) [1953](/wiki/1953), [J.R.R. Tolkien](/wiki/J.R.R._To
 <p class="tg-quote-footer"><cite>&#34;<sup id="cite_ref-Abe_2-1" class="reference"><a href="#cite_note-Abe-2">[2]</a></sup></cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- [Letter to Sue Parman](/wiki/Letter_to_Sue_Parman) (also dealing with a tape machine)
+- [Letter to Sue Parman](Letter_to_Sue_Parman.md) (also dealing with a tape machine)
 
 <span></span>
 
@@ -41,8 +39,8 @@ On [24 June](/wiki/24_June) [1953](/wiki/1953), [J.R.R. Tolkien](/wiki/J.R.R._To
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 401</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 401</span>
 </li>
-<li id="cite_note-Abe-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Abe_2-0">2.0</a></sup> <sup><a href="#cite_ref-Abe_2-1">2.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.abebooks.com/servlet/BookDetailsPL?bi=3740521999&amp;xbf=d28taHgtcnI_%2F85467940519567745806&amp;afn_sr=para&amp;para_l=0" rel="noreferrer noopener" target="_blank">&#34;Fine and personal typed letter, signed, by J.R.R. Tolkien to his close personal friend George Sayer (Bookseller: Buddenbrooks, Inc. ABAA (Boston, MA, U.S.A.))&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.abebooks.com/" rel="noreferrer noopener" target="_blank">AbeBooks.com</a></span>. <span class="cite-web-accessed">Retrieved 26 January 2014</span></cite></span>
+<li id="cite_note-Abe-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Abe_2-0">2.0</a></sup> <sup><a href="#cite_ref-Abe_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.abebooks.com/servlet/BookDetailsPL?bi=3740521999&amp;xbf=d28taHgtcnI_%2F85467940519567745806&amp;afn_sr=para&amp;para_l=0" rel="noreferrer noopener" target="_blank">&#34;Fine and personal typed letter, signed, by J.R.R. Tolkien to his close personal friend George Sayer (Bookseller: Buddenbrooks, Inc. ABAA (Boston, MA, U.S.A.))&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.abebooks.com/" rel="noreferrer noopener" target="_blank">AbeBooks.com</a></span>. <span class="cite-web-accessed">Retrieved 26 January 2014</span></cite></span>
 </li>
 </ol></div>

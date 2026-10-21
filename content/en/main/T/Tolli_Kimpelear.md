@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twilit Isles"
 ---
 
-Redirect to [Twilit Isles](/wiki/Twilit_Isles).
+Redirect to [Twilit Isles](Twilit_Isles.md).

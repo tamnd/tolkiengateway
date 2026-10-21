@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Niënor Níniel (film)"
 ---
 
-Redirect to [Niënor Níniel (film)](/wiki/Niënor_Níniel_(film)).
+Redirect to [Niënor Níniel (film)](<Niënor_Níniel_(film).md>).

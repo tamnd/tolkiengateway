@@ -1,6 +1,5 @@
 ---
 title: "Category:Calendars and events templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Calendars and events templates</span>"
 page_id: 20742
 namespace: 14
 revision_id: 72540

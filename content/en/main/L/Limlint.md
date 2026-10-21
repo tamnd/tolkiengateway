@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Limlight"
 ---
 
-Redirect to [Limlight](/wiki/Limlight).
+Redirect to [Limlight](Limlight.md).

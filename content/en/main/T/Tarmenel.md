@@ -1,6 +1,5 @@
 ---
 title: "Tarmenel"
-display_title: "<span class=\"mw-page-title-main\">Tarmenel</span>"
 page_id: 4621
 namespace: 0
 revision_id: 436936
@@ -16,15 +15,15 @@ categories:
 
 **Tarmenel**, or **Tar-menel** was a term that refers to the "true" or "upper" firmament.
 
-The term appears Bilbo's [Song of Eärendil](/wiki/Song_of_E%C3%A4rendil) which he recites in [Rivendell](/wiki/Rivendell).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The term appears Bilbo's [Song of Eärendil](../S/Song_of_Eärendil.md) which he recites in [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <div class="poem">
-<p>There flying <a href="/wiki/Elwing" title="Elwing">Elwing</a> came to him,<br/>
+<p>There flying <a href="../E/Elwing.md" title="Elwing">Elwing</a> came to him,<br/>
 and flame was in the darkness lit;<br/>
 more bright than light of diamond<br/>
 the fire upon her carcanet.<br/>
-The <a class="mw-redirect" href="/wiki/Silmaril" title="Silmaril">Silmaril</a> she bound on him<br/>
+The <a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silmaril</a> she bound on him<br/>
 and crowned him with the living light,<br/>
 and dauntless then with burning brow<br/>
 he turned his prow; and in the night<br/>
@@ -40,28 +39,26 @@ from east to west he passed away.
 </div>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+In [Myths Transformed](../M/Myths_Transformed.md) it is described as the "true firmament", of which *Nur-menel*, the [Dome of Varda](../D/Dome_of_Varda.md), was a simulacrum.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-In [Myths Transformed](/wiki/Myths_Transformed) it is described as the "true firmament", of which *Nur-menel*, the [Dome of Varda](/wiki/Dome_of_Varda), was a simulacrum.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-
-In the [unfinished index](/wiki/Unfinished_index "Unfinished index"), Tolkien defines the term as "high heaven, region of wind".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:216</sup>
+In the [unfinished index](../U/Unfinished_index.md), Tolkien defines the term as "high heaven, region of wind".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:216</sup>
 
 ## Etymology {#Etymology}
 
-*Tarmenel* is a [Quenya](/wiki/Quenya) name, described as signifying "true firmament",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> apparently consisting of *[tar](/wiki/Tar "Tar")* + *[menel](/wiki/Menel "Menel")*.
+*Tarmenel* is a [Quenya](../Q/Quenya.md) name, described as signifying "true firmament",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> apparently consisting of *[tar](Tar.md)* + *[menel](../M/Menel.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Many_Meetings" title="Many Meetings">Many Meetings</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Five. <a href="/wiki/Myths_Transformed" title="Myths Transformed">Myths Transformed</a>&#34;, &#34;[Text] IV&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Five. <a href="../M/Myths_Transformed.md" title="Myths Transformed">Myths Transformed</a>&#34;, &#34;[Text] IV&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 19, 22</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 19, 22</span>
 </li>
 </ol></div>

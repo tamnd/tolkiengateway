@@ -1,6 +1,5 @@
 ---
 title: "Brownlock family"
-display_title: "<span class=\"mw-page-title-main\">Brownlock family</span>"
 page_id: 1620
 namespace: 0
 revision_id: 382804
@@ -25,13 +24,13 @@ langlinks:
     url: "https://kontu.wiki/Ruskokutri"
 ---
 
-The **Brownlock family** was a [Hobbit](/wiki/Hobbits "Hobbits") family from [the Shire](/wiki/The_Shire "The Shire"). Only one of its members is known, [Gilly Brownlock](/wiki/Gilly_Brownlock).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Brownlock family** was a [Hobbit](../H/Hobbits.md) family from [the Shire](../T/The_Shire.md). Only one of its members is known, [Gilly Brownlock](../G/Gilly_Brownlock.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_C" title="Appendix C">Appendix C</a>, &#34;Baggins of Hobbiton&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_C.md" title="Appendix C">Appendix C</a>, &#34;Baggins of Hobbiton&#34;</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Movie websites"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Movie websites</span>"
 page_id: 11138
 namespace: 14
 revision_id: 28013

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quickbeam"
 ---
 
-Redirect to [Quickbeam](/wiki/Quickbeam).
+Redirect to [Quickbeam](../Q/Quickbeam.md).

@@ -1,6 +1,5 @@
 ---
 title: "Donald Swann"
-display_title: "<span class=\"mw-page-title-main\">Donald Swann</span>"
 page_id: 5827
 namespace: 0
 revision_id: 440121
@@ -32,9 +31,9 @@ images:
   - "Donald_Swann.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Donald_Swann.jpg"><img src="/w/images/b/b3/Donald_Swann.jpg" decoding="async" loading="lazy" width="259" height="319" class="mw-file-element" data-file-width="259" data-file-height="319"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donald_Swann.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/Donald_Swann.jpg" decoding="async" loading="lazy" width="259" height="319" class="mw-file-element" data-file-width="259" data-file-height="319"/></a><figcaption></figcaption></figure>
 
-**Donald Swann** ([30 September](/wiki/30_September) [1923](/wiki/1923) – [23 March](/wiki/23_March) [1994](/wiki/1994)) recorded various songs related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works in *[The Road Goes Ever On, A Song Cycle](/wiki/The_Road_Goes_Ever_On,_A_Song_Cycle)*.
+**Donald Swann** ([30 September](../_/30_September.md) [1923](../_/1923.md) – [23 March](../_/23_March.md) [1994](../_/1994.md)) recorded various songs related to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works in *[The Road Goes Ever On, A Song Cycle](../T/The_Road_Goes_Ever_On,_A_Song_Cycle.md)*.
 
 He was previously associated with wheelchair-bound Michael Flanders, and performed many times as "Flanders &amp; Swann", singing their humorous and witty songs, such as "The Hippopotamus" and "I'm a Gnu (spelt G-N-U)"
 

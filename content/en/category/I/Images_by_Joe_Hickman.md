@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Joe Hickman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Joe Hickman</span>"
 page_id: 68950
 namespace: 14
 revision_id: 411270

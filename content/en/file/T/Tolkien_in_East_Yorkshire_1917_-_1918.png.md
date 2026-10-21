@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien in East Yorkshire 1917 - 1918.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien in East Yorkshire 1917 - 1918.png</span>"
 page_id: 39160
 namespace: 6
 revision_id: 214743

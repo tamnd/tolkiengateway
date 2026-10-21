@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Empire of the Witch-king"
 ---
 
-Redirect to [Empire of the Witch-king](/wiki/Empire_of_the_Witch-king).
+Redirect to [Empire of the Witch-king](Empire_of_the_Witch-king.md).

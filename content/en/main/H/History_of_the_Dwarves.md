@@ -11,4 +11,4 @@ redirect_target: "Dwarves"
 redirect_fragment: "History"
 ---
 
-Redirect to [Dwarves](/wiki/Dwarves#History).
+Redirect to [Dwarves](../D/Dwarves.md#History).

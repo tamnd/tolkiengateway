@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bay of Eldamar"
 ---
 
-Redirect to [Bay of Eldamar](/wiki/Bay_of_Eldamar).
+Redirect to [Bay of Eldamar](Bay_of_Eldamar.md).

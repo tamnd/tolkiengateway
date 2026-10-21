@@ -1,6 +1,5 @@
 ---
 title: "Witnesses of Manwë"
-display_title: "<span class=\"mw-page-title-main\">Witnesses of Manwë</span>"
 page_id: 12777
 namespace: 0
 revision_id: 440303
@@ -24,14 +23,14 @@ langlinks:
     url: "https://kontu.wiki/Manw%C3%ABn_todistajat"
 ---
 
-The **Witnesses of [Manwë](/wiki/Manw%C3%AB)** were said by the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans) to be the three [Eagles](/wiki/Eagles) that flew over the [Meneltarma](/wiki/Meneltarma) during each of the [Three Prayers](/wiki/Three_Prayers).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Witnesses of [Manwë](../M/Manwë.md)** were said by the [Númenóreans](../N/Númenóreans.md) to be the three [Eagles](../E/Eagles.md) that flew over the [Meneltarma](../M/Meneltarma.md) during each of the [Three Prayers](../T/Three_Prayers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/A_Description_of_the_Island_of_N%C3%BAmenor" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;</span>
 </li>
 </ol></div>
 
@@ -39,8 +38,8 @@ The **Witnesses of [Manwë](/wiki/Manw%C3%AB)** were said by the [Númenóreans]
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="/wiki/Great_Eagles" title="Great Eagles">Great Eagles</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../G/Great_Eagles.md" title="Great Eagles">Great Eagles</a></b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/Great_Eagle" title="Great Eagle">Great Eagle</a> · <a href="/wiki/Gwaihir" title="Gwaihir">Gwaihir</a> · <a href="/wiki/Landroval" title="Landroval">Landroval</a> · <a href="/wiki/Meneldor" title="Meneldor">Meneldor</a> · <a href="/wiki/Thorondor" title="Thorondor">Thorondor</a> · <a class="mw-selflink selflink">Witnesses of Manwë</a>
+<td style="font-size: 90%;" align="center"><a href="../G/Great_Eagle.md" title="Great Eagle">Great Eagle</a> · <a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a> · <a href="../L/Landroval.md" title="Landroval">Landroval</a> · <a href="../M/Meneldor.md" title="Meneldor">Meneldor</a> · <a href="../T/Thorondor.md" title="Thorondor">Thorondor</a> · <a class="mw-selflink selflink">Witnesses of Manwë</a>
 </td></tr></tbody></table>

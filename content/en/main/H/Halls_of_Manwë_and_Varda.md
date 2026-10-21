@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilmarin"
 ---
 
-Redirect to [Ilmarin](/wiki/Ilmarin).
+Redirect to [Ilmarin](../I/Ilmarin.md).

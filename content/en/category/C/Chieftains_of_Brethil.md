@@ -1,6 +1,5 @@
 ---
 title: "Category:Chieftains of Brethil"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chieftains of Brethil</span>"
 page_id: 68567
 namespace: 14
 revision_id: 404283

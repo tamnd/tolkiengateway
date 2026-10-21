@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The world was young, the mountains green,.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The world was young, the mountains green,.mp3</span>"
 page_id: 71067
 namespace: 6
 revision_id: 424386
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads [The world was young, the mountains green,](/wiki/The_world_was_young,_the_mountains_green,)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads [The world was young, the mountains green,](../../main/T/The_world_was_young,_the_mountains_green,.md)
 
 ## Licensing {#Licensing}
 

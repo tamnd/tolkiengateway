@@ -1,6 +1,5 @@
 ---
 title: "File:Farmer Giles of Ham 60th.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Farmer Giles of Ham 60th.jpg</span>"
 page_id: 26208
 namespace: 6
 revision_id: 214198

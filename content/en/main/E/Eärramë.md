@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärrámë"
 ---
 
-Redirect to [Eärrámë](/wiki/Eärrámë).
+Redirect to [Eärrámë](Eärrámë.md).

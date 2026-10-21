@@ -1,6 +1,5 @@
 ---
 title: "John Haward"
-display_title: "<span class=\"mw-page-title-main\">John Haward</span>"
 page_id: 27650
 namespace: 0
 revision_id: 137738
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Haward, John"
 ---
 
-**John Haward** was the author of the video game *[Shadows of Mordor](/wiki/Shadows_of_Mordor)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [Crack of Doom Software Adventure](/wiki/Crack_of_Doom_Software_Adventure).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**John Haward** was the author of the video game *[Shadows of Mordor](../S/Shadows_of_Mordor.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

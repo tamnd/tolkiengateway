@@ -1,6 +1,5 @@
 ---
 title: "The Battle of Evermore"
-display_title: "<span class=\"mw-page-title-main\">The Battle of Evermore</span>"
 page_id: 1439
 namespace: 0
 revision_id: 407401
@@ -13,15 +12,15 @@ categories:
   - "Songs (real-world)"
 ---
 
-"**The Battle of Evermore**" is an acoustic guitar and mandolin track from [Led Zeppelin](/wiki/Led_Zeppelin)'s fourth album.
+"**The Battle of Evermore**" is an acoustic guitar and mandolin track from [Led Zeppelin](../L/Led_Zeppelin.md)'s fourth album.
 
 Folk singer Sandy Denny duets with Robert Plant. In live performances bassist John Paul Jones, who plays the mandolin on this track, sang along with Plant.
 
-It is commonly believed to be based on events in *[The Return of the King](/wiki/The_Return_of_the_King)*.
+It is commonly believed to be based on events in *[The Return of the King](The_Return_of_the_King.md)*.
 
-In the most common interpretation, the Prince of Peace, who "embraced the gloom" and "walked the night alone", refers to Frodo, who left the [Fellowship of the Ring](/wiki/Fellowship_of_the_Ring) and left for [Mordor](/wiki/Mordor) with only his servant and friend [Samwise Gamgee](/wiki/Samwise_Gamgee) for company. "The Queen of Light" who "took her bow" is taken to refer to [Galadriel](/wiki/Galadriel), a queen of the Elves, signifying that the [Third Age](/wiki/Third_Age) is ending and that the [Age of Men](/wiki/Fourth_Age "Fourth Age") will begin soon.
+In the most common interpretation, the Prince of Peace, who "embraced the gloom" and "walked the night alone", refers to Frodo, who left the [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) and left for [Mordor](../M/Mordor.md) with only his servant and friend [Samwise Gamgee](../S/Samwise_Gamgee.md) for company. "The Queen of Light" who "took her bow" is taken to refer to [Galadriel](../G/Galadriel.md), a queen of the Elves, signifying that the [Third Age](Third_Age.md) is ending and that the [Age of Men](../F/Fourth_Age.md) will begin soon.
 
-Other interpretations of how the lyrics relate to Tolkien exist: one example has the "Prince of Peace" referring to [Aragorn](/wiki/Aragorn). Probably the song's most compelling link to Tolkien is the reference to "Ringwraiths," a Tolkien invention.
+Other interpretations of how the lyrics relate to Tolkien exist: one example has the "Prince of Peace" referring to [Aragorn](../A/Aragorn.md). Probably the song's most compelling link to Tolkien is the reference to "Ringwraiths," a Tolkien invention.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Alarie - Easterling.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alarie - Easterling.jpg</span>"
 page_id: 72486
 namespace: 6
 revision_id: 430928
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Easterling](/wiki/Easterlings "Easterlings")" by [Alarie](/wiki/Category:Images_by_Alarie "Category:Images by Alarie")
+"[Easterling](../../main/E/Easterlings.md)" by [Alarie](../../category/I/Images_by_Alarie.md)
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Alarie</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/alarie-tano" rel="noreferrer noopener" target="_blank">Alarie&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alarie" title="Tolkien Gateway:Copyrights/Alarie">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlarie.md" title="Tolkien Gateway:Copyrights/Alarie">Permission for use on Tolkien Gateway</a></b></li></ul></div>

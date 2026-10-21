@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ryszard Derdziński - Minas Tirith.jpg"
 ---
 
-Redirect to [File:Ryszard Derdziński - Minas Tirith.jpg](/wiki/File:Ryszard_Derdziński_-_Minas_Tirith.jpg).
+Redirect to [File:Ryszard Derdziński - Minas Tirith.jpg](Ryszard_Derdziński_-_Minas_Tirith.jpg.md).

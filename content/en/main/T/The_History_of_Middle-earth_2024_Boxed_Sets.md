@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christopher Tolkien Centenary Boxed Sets"
 ---
 
-Redirect to [Christopher Tolkien Centenary Boxed Sets](/wiki/Christopher_Tolkien_Centenary_Boxed_Sets).
+Redirect to [Christopher Tolkien Centenary Boxed Sets](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md).

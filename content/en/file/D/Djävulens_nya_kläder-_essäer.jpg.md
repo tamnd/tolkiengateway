@@ -1,6 +1,5 @@
 ---
 title: "File:Djävulens nya kläder- essäer.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Djävulens nya kläder- essäer.jpg</span>"
 page_id: 27016
 namespace: 6
 revision_id: 214178

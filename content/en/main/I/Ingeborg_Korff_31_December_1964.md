@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ingeborg Korff"
 ---
 
-Redirect to [Letter to Ingeborg Korff](/wiki/Letter_to_Ingeborg_Korff).
+Redirect to [Letter to Ingeborg Korff](../L/Letter_to_Ingeborg_Korff.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cottage of Lost Play"
 ---
 
-Redirect to [Cottage of Lost Play](/wiki/Cottage_of_Lost_Play).
+Redirect to [Cottage of Lost Play](Cottage_of_Lost_Play.md).

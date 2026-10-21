@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Stefan Meisl"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Stefan Meisl</span>"
 page_id: 49474
 namespace: 4
 revision_id: 264647
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Meisl, Stefan"
 ---
 
-- Stefan Meisl has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Stefan_Meisl "Category:Images by Stefan Meisl") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Stefan Meisl has kindly granted his permission to use [his artwork](../../category/I/Images_by_Stefan_Meisl.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 March 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

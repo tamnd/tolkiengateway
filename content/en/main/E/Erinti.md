@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilmarë"
 ---
 
-Redirect to [Ilmarë](/wiki/Ilmarë).
+Redirect to [Ilmarë](../I/Ilmarë.md).

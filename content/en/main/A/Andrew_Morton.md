@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andrew H. Morton"
 ---
 
-Redirect to [Andrew H. Morton](/wiki/Andrew_H._Morton).
+Redirect to [Andrew H. Morton](Andrew_H._Morton.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Bovadium Fragments deluxe.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Bovadium Fragments deluxe.png</span>"
 page_id: 72401
 namespace: 6
 revision_id: 430248
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.tolkienguide.com/profile/965" rel="noreferrer noopener" target="_blank">Druss</a> (12 January 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=66923#forumpost66923" rel="noreferrer noopener" target="_blank">&#34;The Bovadium Fragments: Together with &#39;The Origin of Bovadium&#39;&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 12 January 2026</span></cite>
+<cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.tolkienguide.com/profile/965" rel="noreferrer noopener" target="_blank">Druss</a> (12 January 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=66923#forumpost66923" rel="noreferrer noopener" target="_blank">&#34;The Bovadium Fragments: Together with &#39;The Origin of Bovadium&#39;&#34;</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 12 January 2026</span></cite>
 
 ## Licensing {#Licensing}
 

@@ -17,15 +17,15 @@ sort_keys:
   "Birds": "Pane"
 ---
 
-<i><b>páne</b></i> is a [Telerin](/wiki/Telerin) word for "small [gull](/wiki/Gulls "Gulls"), petrel"
+<i><b>páne</b></i> is a [Telerin](../T/Telerin.md) word for "small [gull](../G/Gulls.md), petrel"
 
 ## Etymology {#Etymology}
 
-[Primitive Elvish](/wiki/Primitive_Elvish) <i><a class="new" href="/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+[Primitive Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwaene&amp;action=edit&amp;redlink=1" title="Kwaene (page does not exist)">kwaene</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KW%C4%80&amp;action=edit&amp;redlink=1" title="KWĀ (page does not exist)">KWĀ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 24</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 24</span>
 </li>
 </ol></div>

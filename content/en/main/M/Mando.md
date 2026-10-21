@@ -11,4 +11,4 @@ redirect_target: "Mandos"
 redirect_fragment: "Other versions of the Legendarium"
 ---
 
-Redirect to [Mandos](/wiki/Mandos#Other_versions_of_the_Legendarium).
+Redirect to [Mandos](Mandos.md#Other_versions_of_the_Legendarium).

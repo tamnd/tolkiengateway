@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospíšil - Song of the Rohirrim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospíšil - Song of the Rohirrim.jpg</span>"
 page_id: 73231
 namespace: 6
 revision_id: 436644
@@ -35,7 +34,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Song of the Rohirrim](/wiki/Lament_for_the_Rohirrim "Lament for the Rohirrim")" by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il)
+"[Song of the Rohirrim](../../main/L/Lament_for_the_Rohirrim.md)" by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md)
 
 ## Licensing {#Licensing}
 
@@ -44,4 +43,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

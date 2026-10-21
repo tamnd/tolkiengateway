@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Catherine Karina Chmiel"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Catherine Karina Chmiel</span>"
 page_id: 6388
 namespace: 14
 revision_id: 181955
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Chmiel, Catherine Karina"
 ---
 
-This category lists all **images by [Catherine Karina Chmiel](/wiki/Catherine_Karina_Chmiel)**.
+This category lists all **images by [Catherine Karina Chmiel](../../main/C/Catherine_Karina_Chmiel.md)**.

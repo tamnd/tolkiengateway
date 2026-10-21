@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The New Shadow"
 ---
 
-Redirect to [The New Shadow](/wiki/The_New_Shadow).
+Redirect to [The New Shadow](../T/The_New_Shadow.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golodh"
 ---
 
-Redirect to [Golodh](/wiki/Golodh).
+Redirect to [Golodh](Golodh.md).

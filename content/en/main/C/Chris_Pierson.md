@@ -1,6 +1,5 @@
 ---
 title: "Chris Pierson"
-display_title: "<span class=\"mw-page-title-main\">Chris Pierson</span>"
 page_id: 29406
 namespace: 0
 revision_id: 405081
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Pierson, Chris"
 ---
 
-**Chris Pierson** was the former senior game designer for *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)* from 2004 until June 7, 2010.
+**Chris Pierson** was the former senior game designer for *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* from 2004 until June 7, 2010.
 
 ## External links {#External_links}
 

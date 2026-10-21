@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helm's Deep"
 ---
 
-Redirect to [Helm's Deep](/wiki/Helm's_Deep).
+Redirect to [Helm's Deep](Helm's_Deep.md).

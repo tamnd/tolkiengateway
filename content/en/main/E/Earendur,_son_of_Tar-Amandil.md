@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (son of Tar-Amandil)"
 ---
 
-Redirect to [Eärendur (son of Tar-Amandil)](/wiki/Eärendur_(son_of_Tar-Amandil)).
+Redirect to [Eärendur (son of Tar-Amandil)](<Eärendur_(son_of_Tar-Amandil).md>).

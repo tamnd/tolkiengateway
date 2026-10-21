@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinya"
 ---
 
-Redirect to [Vinya](/wiki/Vinya).
+Redirect to [Vinya](../V/Vinya.md).

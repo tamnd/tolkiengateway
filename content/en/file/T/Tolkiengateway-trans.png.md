@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkiengateway-trans.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkiengateway-trans.png</span>"
 page_id: 30104
 namespace: 6
 revision_id: 248501
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Tolkien Gateway](/wiki/Tolkien_Gateway) logo on the "Gateway to Ithilien" skin.
+The [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) logo on the "Gateway to Ithilien" skin.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Midden-aarde MUD3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Midden-aarde MUD3.png</span>"
 page_id: 25556
 namespace: 6
 revision_id: 224977

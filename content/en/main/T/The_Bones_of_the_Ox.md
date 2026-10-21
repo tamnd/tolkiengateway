@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and the Study of His Sources"
 ---
 
-Redirect to [Tolkien and the Study of His Sources](/wiki/Tolkien_and_the_Study_of_His_Sources).
+Redirect to [Tolkien and the Study of His Sources](Tolkien_and_the_Study_of_His_Sources.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Maglor.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Maglor.jpeg</span>"
 page_id: 53207
 namespace: 6
 revision_id: 364711
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Winner of [the Tolkien Society Award](/wiki/The_Tolkien_Society_Award "The Tolkien Society Award") for Best Artwork in [2017](/wiki/2017).
+Winner of [the Tolkien Society Award](../../main/T/The_Tolkien_Society_Award.md) for Best Artwork in [2017](../../main/_/2017.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Winner of [the Tolkien Society Award](/wiki/The_Tolkien_Society_Award "The Tolki
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

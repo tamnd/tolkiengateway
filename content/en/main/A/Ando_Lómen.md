@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Door of Night"
 ---
 
-Redirect to [Door of Night](/wiki/Door_of_Night).
+Redirect to [Door of Night](../D/Door_of_Night.md).

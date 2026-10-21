@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The White Council"
 ---
 
-Redirect to [The Lord of the Rings: The White Council](/wiki/The_Lord_of_the_Rings:_The_White_Council).
+Redirect to [The Lord of the Rings: The White Council](../T/The_Lord_of_the_Rings%253A_The_White_Council.md).

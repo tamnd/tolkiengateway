@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Chris Trevas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Chris Trevas</span>"
 page_id: 72773
 namespace: 14
 revision_id: 431416
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Trevas, Chris"
 ---
 
-This category lists all **images by [Chris Trevas](/wiki/Chris_Trevas)**.
+This category lists all **images by [Chris Trevas](../../main/C/Chris_Trevas.md)**.

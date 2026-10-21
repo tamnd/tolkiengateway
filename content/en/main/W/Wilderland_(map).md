@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Map of Wilderland"
 ---
 
-Redirect to [Map of Wilderland](/wiki/Map_of_Wilderland).
+Redirect to [Map of Wilderland](../M/Map_of_Wilderland.md).

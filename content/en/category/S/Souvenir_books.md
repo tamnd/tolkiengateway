@@ -1,6 +1,5 @@
 ---
 title: "Category:Souvenir books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Souvenir books</span>"
 page_id: 28224
 namespace: 14
 revision_id: 121385

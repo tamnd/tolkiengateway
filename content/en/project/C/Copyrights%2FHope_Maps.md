@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Hope Maps"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Hope Maps</span>"
 page_id: 63414
 namespace: 4
 revision_id: 360758
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Hope Maps"
 ---
 
-- Hope Maps, aka Omri, has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Hope_Maps "Category:Images by Hope Maps") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Hope Maps, aka Omri, has kindly granted his permission to use [his artwork](../../category/I/Images_by_Hope_Maps.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 October 2022
-- User who sought the permission via <a class="external text" href="https://www.cartographersguild.com/showthread.php?t=51107&amp;page=2" rel="noreferrer noopener" target="_blank">Cartographers Guild</a>: [Hyarion](/wiki/User:Hyarion "User:Hyarion").
+- User who sought the permission via <a class="external text" href="https://www.cartographersguild.com/showthread.php?t=51107&amp;page=2" rel="noreferrer noopener" target="_blank">Cartographers Guild</a>: [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion).

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Rider of Rohan dismounted 6.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Rider of Rohan dismounted 6.gif</span>"
 page_id: 11998
 namespace: 6
 revision_id: 204048

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Green-elves"
 ---
 
-Redirect to [Green-elves](/wiki/Green-elves).
+Redirect to [Green-elves](Green-elves.md).

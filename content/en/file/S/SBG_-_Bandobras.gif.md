@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Bandobras.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Bandobras.gif</span>"
 page_id: 11863
 namespace: 6
 revision_id: 203790
@@ -25,7 +24,7 @@ file:
   user: "Narfil Palùrfalas"
 ---
 
-This [Lord of the Rings Strategy Battle Game](/wiki/Lord_of_the_Rings_Strategy_Battle_Game) miniature shows [Bandobras Took](/wiki/Bandobras_Took), "the Bullroarer", carrying the club with which he knocked the head off of [Golfimbul](/wiki/Golfimbul) (whose miniature *[Image:SBG - Golfimbul.gif](/wiki/File:SBG_-_Golfimbul.gif "File:SBG - Golfimbul.gif")* is also in this collection).
+This [Lord of the Rings Strategy Battle Game](../../main/L/Lord_of_the_Rings_Strategy_Battle_Game.md) miniature shows [Bandobras Took](../../main/B/Bandobras_Took.md), "the Bullroarer", carrying the club with which he knocked the head off of [Golfimbul](../../main/G/Golfimbul.md) (whose miniature *[Image:SBG - Golfimbul.gif](SBG_-_Golfimbul.gif.md)* is also in this collection).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.games-workshop.com/" rel="noreferrer noopener" target="_blank">Games Workshop</a>. It is believed that the limited use of this file,

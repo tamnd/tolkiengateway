@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Sigismond"
 ---
 
-Redirect to [User:Sigismond](/wiki/User:Sigismond).
+Redirect to [User:Sigismond](https://tolkiengateway.net/wiki/User:Sigismond).

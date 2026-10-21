@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silmarils"
 ---
 
-Redirect to [Silmarils](/wiki/Silmarils).
+Redirect to [Silmarils](Silmarils.md).

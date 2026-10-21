@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Elrond.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Elrond.png</span>"
 page_id: 71429
 namespace: 6
 revision_id: 426017
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elrond](/wiki/Elrond) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Elrond](../../main/E/Elrond.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

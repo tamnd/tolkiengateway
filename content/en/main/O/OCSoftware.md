@@ -1,6 +1,5 @@
 ---
 title: "OCSoftware"
-display_title: "<span class=\"mw-page-title-main\">OCSoftware</span>"
 page_id: 27668
 namespace: 0
 revision_id: 190098
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**OCSoftware** was the publisher of the <a class="extiw" href="http://en.wikipedia.org/wiki/NEXTSTEP" title="wikipedia:NEXTSTEP">NEXTSTEP</a>- and <a class="extiw" href="http://en.wikipedia.org/wiki/Psion" title="wikipedia:Psion">Psion 3/3a</a>-version of the video game [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**OCSoftware** was the publisher of the <a class="extiw" href="http://en.wikipedia.org/wiki/NEXTSTEP" title="wikipedia:NEXTSTEP">NEXTSTEP</a>- and <a class="extiw" href="http://en.wikipedia.org/wiki/Psion" title="wikipedia:Psion">Psion 3/3a</a>-version of the video game [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

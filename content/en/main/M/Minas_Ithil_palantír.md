@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ithil-stone"
 ---
 
-Redirect to [Ithil-stone](/wiki/Ithil-stone).
+Redirect to [Ithil-stone](../I/Ithil-stone.md).

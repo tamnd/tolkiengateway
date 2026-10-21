@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit Jigsaw Puzzle"
 ---
 
-Redirect to [The Hobbit Jigsaw Puzzle](/wiki/The_Hobbit_Jigsaw_Puzzle).
+Redirect to [The Hobbit Jigsaw Puzzle](The_Hobbit_Jigsaw_Puzzle.md).

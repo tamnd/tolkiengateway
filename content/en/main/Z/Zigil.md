@@ -13,6 +13,6 @@ categories:
   - "Khuzdul words"
 ---
 
-**zigil** is a word in [Khuzdul](/wiki/Khuzdul), occurring as an element in *Zirakzigil*, the [Dwarves](/wiki/Dwarves)' name for the mountain called *[Celebdil](/wiki/Celebdil)* or *Silvertine* by other races, and in *Zigil-nâd*, a rejected [Dwarvish](/wiki/Dwarvish) name for *[Kibil-nâla](/wiki/Kibil-n%C3%A2la)*, the river known to the [Elves](/wiki/Elves) as *[Celebrant](/wiki/Celebrant)* and to [Men](/wiki/Men) as the *Silverlode*.
+**zigil** is a word in [Khuzdul](../K/Khuzdul.md), occurring as an element in *Zirakzigil*, the [Dwarves](../D/Dwarves.md)' name for the mountain called *[Celebdil](../C/Celebdil.md)* or *Silvertine* by other races, and in *Zigil-nâd*, a rejected [Dwarvish](../D/Dwarvish.md) name for *[Kibil-nâla](../K/Kibil-nâla.md)*, the river known to the [Elves](../E/Elves.md) as *[Celebrant](../C/Celebrant.md)* and to [Men](../M/Men.md) as the *Silverlode*.
 
 <i><b>Zigil</b></i> therefore evidently means ‘silver’.

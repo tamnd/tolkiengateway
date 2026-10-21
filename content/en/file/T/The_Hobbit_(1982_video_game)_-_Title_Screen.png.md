@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1982 video game) - Title Screen.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1982 video game) - Title Screen.png</span>"
 page_id: 28976
 namespace: 6
 revision_id: 247518

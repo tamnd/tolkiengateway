@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Gentle Giant Collectibles"
 ---
 
-Redirect to [List of Gentle Giant Collectibles](/wiki/List_of_Gentle_Giant_Collectibles).
+Redirect to [List of Gentle Giant Collectibles](../L/List_of_Gentle_Giant_Collectibles.md).

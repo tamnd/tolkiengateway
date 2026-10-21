@@ -1,6 +1,5 @@
 ---
 title: "File:Radagast the Brown with Sebastian.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Radagast the Brown with Sebastian.png</span>"
 page_id: 42986
 namespace: 6
 revision_id: 226468

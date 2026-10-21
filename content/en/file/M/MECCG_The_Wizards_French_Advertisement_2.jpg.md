@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG The Wizards French Advertisement 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG The Wizards French Advertisement 2.jpg</span>"
 page_id: 72936
 namespace: 6
 revision_id: 432232
@@ -27,19 +26,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Uploaded by nico21000 on <a class="external text" href="https://councilofelrond.org/forum/viewtopic.php?p=29924#p29924" rel="noreferrer noopener" target="_blank">Council of Elrond forum</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

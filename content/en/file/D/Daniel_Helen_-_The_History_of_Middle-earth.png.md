@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Helen - The History of Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Helen - The History of Middle-earth.png</span>"
 page_id: 46151
 namespace: 6
 revision_id: 350790
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Daniel Helen</li>
 <li><b>Website:</b> N/A</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Daniel_Helen" title="Tolkien Gateway:Copyrights/Daniel Helen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDaniel_Helen.md" title="Tolkien Gateway:Copyrights/Daniel Helen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Epic Pooh"
-display_title: "<span class=\"mw-page-title-main\">Epic Pooh</span>"
 page_id: 9362
 namespace: 0
 revision_id: 405420
@@ -14,11 +13,11 @@ categories:
   - "Tolkien criticism"
 ---
 
-<i><b>Epic Pooh</b></i> is an article by the British science fiction writer [Michael John Moorcock](/wiki/Michael_John_Moorcock), originally written for the BSFA, and revised for inclusion in his 1987 book *Wizardry and Wild Romance*. In it, Moorcock reviews the field of epic fantasy, with a particular focus on epic fantasy written for children. The article has proven controversial because of its attack on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+<i><b>Epic Pooh</b></i> is an article by the British science fiction writer [Michael John Moorcock](../M/Michael_John_Moorcock.md), originally written for the BSFA, and revised for inclusion in his 1987 book *Wizardry and Wild Romance*. In it, Moorcock reviews the field of epic fantasy, with a particular focus on epic fantasy written for children. The article has proven controversial because of its attack on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Moorcock criticises a group of celebrated writers of epic fantasy for children, including Tolkien, [C. S. Lewis](/wiki/C._S._Lewis), and Richard Adams. His criticism is based on two principles: the poverty of their writing style, and a political criticism. Moorcock accuses these authors of espousing a form of "corrupted Romance", which he identifies with Anglican Toryism. The defining traits of this attitude are an anti-technological, anti-urban stance which is ultimately misanthropic, that glorifies a vanished or vanishing rural idyll, and is rooted in middle-class or bourgeois attitudes towards progress and political change.
+Moorcock criticises a group of celebrated writers of epic fantasy for children, including Tolkien, [C. S. Lewis](../C/C._S._Lewis.md), and Richard Adams. His criticism is based on two principles: the poverty of their writing style, and a political criticism. Moorcock accuses these authors of espousing a form of "corrupted Romance", which he identifies with Anglican Toryism. The defining traits of this attitude are an anti-technological, anti-urban stance which is ultimately misanthropic, that glorifies a vanished or vanishing rural idyll, and is rooted in middle-class or bourgeois attitudes towards progress and political change.
 
-Writers who Moorcock cites approvingly, in contrast to his treatment of Tolkien, Lewis and Adams, include [Terry Pratchett](/wiki/Terry_Pratchett), J. K. Rowling, [Ursula LeGuin](/wiki/Ursula_LeGuin), Philip Pullman and Alan Garner.
+Writers who Moorcock cites approvingly, in contrast to his treatment of Tolkien, Lewis and Adams, include [Terry Pratchett](../T/Terry_Pratchett.md), J. K. Rowling, [Ursula LeGuin](../U/Ursula_LeGuin.md), Philip Pullman and Alan Garner.
 
 The title arises from Moorcock's claim that the writing of Tolkien, Lewis, Adams and others has a similar purpose to the *Winnie-the-Pooh* writings of A. A. Milne, another author of whom he disapproves: it is intended to comfort rather than challenge.
 

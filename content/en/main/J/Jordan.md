@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Jordan"
 ---
 
-Redirect to [Category:Jordan](/wiki/Category:Jordan).
+Redirect to [Category:Jordan](../../category/J/Jordan.md).

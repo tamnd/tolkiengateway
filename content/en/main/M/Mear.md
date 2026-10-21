@@ -11,4 +11,4 @@ redirect_target: "Meássë"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Meássë](/wiki/Meássë#Etymology).
+Redirect to [Meássë](Meássë.md#Etymology).

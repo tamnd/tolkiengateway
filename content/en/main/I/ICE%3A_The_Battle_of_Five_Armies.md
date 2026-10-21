@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of Five Armies (1984 board game)"
 ---
 
-Redirect to [The Battle of Five Armies (1984 board game)](/wiki/The_Battle_of_Five_Armies_(1984_board_game)).
+Redirect to [The Battle of Five Armies (1984 board game)](<../T/The_Battle_of_Five_Armies_(1984_board_game).md>).

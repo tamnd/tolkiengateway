@@ -1,6 +1,5 @@
 ---
 title: "Category:Documentaries"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Documentaries</span>"
 page_id: 19305
 namespace: 14
 revision_id: 195936
@@ -13,4 +12,4 @@ categories:
   - "Films"
 ---
 
-This category lists all **Documentaries** concerning [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+This category lists all **Documentaries** concerning [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.

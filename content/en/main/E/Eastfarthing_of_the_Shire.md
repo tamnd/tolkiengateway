@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eastfarthing"
 ---
 
-Redirect to [Eastfarthing](/wiki/Eastfarthing).
+Redirect to [Eastfarthing](Eastfarthing.md).

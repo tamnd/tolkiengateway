@@ -1,6 +1,5 @@
 ---
 title: "File:The 1986 Tolkien Calendar (Canada).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The 1986 Tolkien Calendar (Canada).jpg</span>"
 page_id: 6580
 namespace: 6
 revision_id: 215505

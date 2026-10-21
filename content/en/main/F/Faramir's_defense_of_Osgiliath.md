@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir's defence of Osgiliath"
 ---
 
-Redirect to [Faramir's defence of Osgiliath](/wiki/Faramir's_defence_of_Osgiliath).
+Redirect to [Faramir's defence of Osgiliath](Faramir's_defence_of_Osgiliath.md).

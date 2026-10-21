@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stonefoots"
 ---
 
-Redirect to [Stonefoots](/wiki/Stonefoots).
+Redirect to [Stonefoots](Stonefoots.md).

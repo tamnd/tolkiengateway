@@ -11,4 +11,4 @@ redirect_target: "The Golden Key"
 redirect_fragment: "Tolkien's draft introduction"
 ---
 
-Redirect to [The Golden Key](/wiki/The_Golden_Key#Tolkien's_draft_introduction).
+Redirect to [The Golden Key](The_Golden_Key.md#Tolkien's_draft_introduction).

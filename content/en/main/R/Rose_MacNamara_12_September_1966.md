@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rose MacNamara"
 ---
 
-Redirect to [Letter to Rose MacNamara](/wiki/Letter_to_Rose_MacNamara).
+Redirect to [Letter to Rose MacNamara](../L/Letter_to_Rose_MacNamara.md).

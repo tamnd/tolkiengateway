@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Warner Bros. Games"
 ---
 
-Redirect to [Warner Bros. Games](/wiki/Warner_Bros._Games).
+Redirect to [Warner Bros. Games](Warner_Bros._Games.md).

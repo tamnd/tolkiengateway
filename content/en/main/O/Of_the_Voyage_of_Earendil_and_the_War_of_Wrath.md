@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Voyage of Eärendil and the War of Wrath"
 ---
 
-Redirect to [Of the Voyage of Eärendil and the War of Wrath](/wiki/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath).
+Redirect to [Of the Voyage of Eärendil and the War of Wrath](Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md).

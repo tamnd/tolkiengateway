@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twenty years have flowed away down the long river"
 ---
 
-Redirect to [Twenty years have flowed away down the long river](/wiki/Twenty_years_have_flowed_away_down_the_long_river).
+Redirect to [Twenty years have flowed away down the long river](Twenty_years_have_flowed_away_down_the_long_river.md).

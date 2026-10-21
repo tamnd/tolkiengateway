@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harlond (disambiguation)"
 ---
 
-Redirect to [Harlond (disambiguation)](/wiki/Harlond_(disambiguation)).
+Redirect to [Harlond (disambiguation)](<Harlond_(disambiguation).md>).

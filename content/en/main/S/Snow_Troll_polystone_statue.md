@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Sideshow Collectibles"
 ---
 
-Redirect to [List of Sideshow Collectibles](/wiki/List_of_Sideshow_Collectibles).
+Redirect to [List of Sideshow Collectibles](../L/List_of_Sideshow_Collectibles.md).

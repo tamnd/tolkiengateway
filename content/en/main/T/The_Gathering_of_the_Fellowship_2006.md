@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Gathering of the Fellowship"
 ---
 
-Redirect to [The Gathering of the Fellowship](/wiki/The_Gathering_of_the_Fellowship).
+Redirect to [The Gathering of the Fellowship](The_Gathering_of_the_Fellowship.md).

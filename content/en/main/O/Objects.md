@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Objects"
 ---
 
-Redirect to [Category:Objects](/wiki/Category:Objects).
+Redirect to [Category:Objects](../../category/O/Objects.md).

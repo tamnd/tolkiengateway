@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Polar Bear had fallen from top to bottom onto his nose.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Polar Bear had fallen from top to bottom onto his nose.jpg</span>"
 page_id: 5782
 namespace: 6
 revision_id: 388274
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and published in [The Father Christmas Letters](/wiki/The_Father_Christmas_Letters), 1976, and again (with the decorative borders removed) in [The J.R.R. Tolkien Calendar 1979](/wiki/The_J.R.R._Tolkien_Calendar_1979), this painting of the interior of Cliff House at the North Pole, together with a letter describing the event, was delivered to J. R. R. Tolkien's children at Christmas 1928, and thus belongs to the prolific period of painting from which derive the illustrations to [The Silmarillion](/wiki/The_Silmarillion) in this book.
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and published in [The Father Christmas Letters](../../main/T/The_Father_Christmas_Letters.md), 1976, and again (with the decorative borders removed) in [The J.R.R. Tolkien Calendar 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md), this painting of the interior of Cliff House at the North Pole, together with a letter describing the event, was delivered to J. R. R. Tolkien's children at Christmas 1928, and thus belongs to the prolific period of painting from which derive the illustrations to [The Silmarillion](../../main/T/The_Silmarillion.md) in this book.
 
 ## Licensing {#Licensing}
 

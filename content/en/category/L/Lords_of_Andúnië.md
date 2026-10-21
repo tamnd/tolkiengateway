@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:House of Valandil"
 ---
 
-Redirect to [Category:House of Valandil](/wiki/Category:House_of_Valandil).
+Redirect to [Category:House of Valandil](../H/House_of_Valandil.md).

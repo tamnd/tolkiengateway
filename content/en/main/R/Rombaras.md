@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valaróma"
 ---
 
-Redirect to [Valaróma](/wiki/Valaróma).
+Redirect to [Valaróma](../V/Valaróma.md).

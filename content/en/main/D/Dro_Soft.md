@@ -1,6 +1,5 @@
 ---
 title: "Dro Soft"
-display_title: "<span class=\"mw-page-title-main\">Dro Soft</span>"
 page_id: 30396
 namespace: 0
 revision_id: 236321
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Dro Soft** was a video game company. It published the Spanish translation of [War in Middle-Earth](/wiki/J.R.R._Tolkien%27s_War_in_Middle-Earth "J.R.R. Tolkien's War in Middle-Earth").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dro Soft** was a video game company. It published the Spanish translation of [War in Middle-Earth](../J/J.R.R._Tolkien's_War_in_Middle-Earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

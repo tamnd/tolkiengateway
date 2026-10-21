@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ainulindalë"
 ---
 
-Redirect to [Ainulindalë](/wiki/Ainulindalë).
+Redirect to [Ainulindalë](Ainulindalë.md).

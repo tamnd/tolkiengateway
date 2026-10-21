@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Islands"
 ---
 
-Redirect to [Category:Islands](/wiki/Category:Islands).
+Redirect to [Category:Islands](../../category/I/Islands.md).

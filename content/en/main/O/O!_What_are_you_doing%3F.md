@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "O! What are you doing,"
 ---
 
-Redirect to [O! What are you doing,](/wiki/O!_What_are_you_doing,).
+Redirect to [O! What are you doing,](O!_What_are_you_doing,.md).

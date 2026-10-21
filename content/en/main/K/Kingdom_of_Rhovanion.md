@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhovanion"
 ---
 
-Redirect to [Rhovanion](/wiki/Rhovanion).
+Redirect to [Rhovanion](../R/Rhovanion.md).

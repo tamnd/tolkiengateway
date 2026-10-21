@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Literature and Illustration 11-12 July 2002.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Literature and Illustration 11-12 July 2002.jpg</span>"
 page_id: 27722
 namespace: 6
 revision_id: 215430

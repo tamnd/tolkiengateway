@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien Centenary Set 4.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien Centenary Set 4.png</span>"
 page_id: 70060
 namespace: 6
 revision_id: 419458

@@ -1,6 +1,5 @@
 ---
 title: "Category:Middle-earth Role Playing characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing characters</span>"
 page_id: 70845
 namespace: 14
 revision_id: 423205

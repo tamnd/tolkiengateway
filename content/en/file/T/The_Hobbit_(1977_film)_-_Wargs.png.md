@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Wargs.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Wargs.png</span>"
 page_id: 71303
 namespace: 6
 revision_id: 425416
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary_2}
 
-[Wargs](/wiki/Wargs) as they appear in [The Hobbit (1977 film)](</wiki/The_Hobbit_(1977_film)>).
+[Wargs](../../main/W/Wargs.md) as they appear in [The Hobbit (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 ## Licensing {#Licensing}
 

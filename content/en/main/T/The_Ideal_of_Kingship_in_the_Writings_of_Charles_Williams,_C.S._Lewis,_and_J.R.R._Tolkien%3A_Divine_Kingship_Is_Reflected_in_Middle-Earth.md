@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ideal of Kingship in the Writings of Charles Williams, C.S. Lewis, and J.R.R. Tolkien"
 ---
 
-Redirect to [The Ideal of Kingship in the Writings of Charles Williams, C.S. Lewis, and J.R.R. Tolkien](/wiki/The_Ideal_of_Kingship_in_the_Writings_of_Charles_Williams,_C.S._Lewis,_and_J.R.R._Tolkien).
+Redirect to [The Ideal of Kingship in the Writings of Charles Williams, C.S. Lewis, and J.R.R. Tolkien](The_Ideal_of_Kingship_in_the_Writings_of_Charles_Williams,_C.S._Lewis,_and_J.R.R._Tolkien.md).

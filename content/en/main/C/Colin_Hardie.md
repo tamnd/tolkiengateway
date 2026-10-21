@@ -1,6 +1,5 @@
 ---
 title: "Colin Hardie"
-display_title: "<span class=\"mw-page-title-main\">Colin Hardie</span>"
 page_id: 18367
 namespace: 0
 revision_id: 256905
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Hardie, Colin"
 ---
 
-**Colin Graham Hardie** ([16 February](/wiki/16_February) [1906](/wiki/1906)– [17 October](/wiki/17_October) [1998](/wiki/1998)) was a fellow [Inkling](/wiki/Inklings "Inklings") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). He was a classical scholar, like his father William Ross Hardie.
+**Colin Graham Hardie** ([16 February](../_/16_February.md) [1906](../_/1906.md)– [17 October](../_/17_October.md) [1998](../_/1998.md)) was a fellow [Inkling](../I/Inklings.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). He was a classical scholar, like his father William Ross Hardie.
 
 ## External links {#External_links}
 
@@ -28,10 +27,9 @@ sort_keys:
 - <a class="external text" href="http://www.dailymail.co.uk/news/article-2173440/Rare-edition-Narnia-book-given-young-boy-C-S-Lewis-auction-12-000.html" rel="noreferrer noopener" target="_blank">Rare first-edition Narnia book given to young boy by C.S. Lewis up for auction at £12,000</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="/wiki/Inklings" title="Inklings">Inklings</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="../I/Inklings.md" title="Inklings">Inklings</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="/wiki/Owen_Barfield" title="Owen Barfield">Owen Barfield</a> · <a href="/wiki/J.A.W._Bennett" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="/wiki/Lord_David_Cecil" title="Lord David Cecil">Lord David Cecil</a> · <a href="/wiki/Nevill_Coghill" title="Nevill Coghill">Nevill Coghill</a> · <a href="/wiki/James_Dundas-Grant" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="/wiki/Hugo_Dyson" title="Hugo Dyson">Hugo Dyson</a> · <a href="/wiki/Adam_Fox" title="Adam Fox">Adam Fox</a> · <a class="mw-selflink selflink">Colin Hardie</a> · <a href="/wiki/Robert_Havard" title="Robert Havard">Robert Havard</a> · <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a> · <a href="/wiki/Warren_Lewis" title="Warren Lewis">Warren Lewis</a> · <a href="/wiki/Gervase_Mathew" title="Gervase Mathew">Gervase Mathew</a> · <a href="/wiki/R.B._McCallum" title="R.B. McCallum">R.B. McCallum</a> · <a href="/wiki/C.E._Stevens" title="C.E. Stevens">C.E. Stevens</a> · <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="/wiki/John_Wain" title="John Wain">John Wain</a> · <a href="/wiki/Charles_Williams" title="Charles Williams">Charles Williams</a> · <a href="/wiki/Charles_Leslie_Wrenn" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
+<td style="font-size: 90%;" align="center"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="../O/Owen_Barfield.md" title="Owen Barfield">Owen Barfield</a> · <a href="../J/J.A.W._Bennett.md" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="../L/Lord_David_Cecil.md" title="Lord David Cecil">Lord David Cecil</a> · <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a> · <a href="../J/James_Dundas-Grant.md" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="../H/Hugo_Dyson.md" title="Hugo Dyson">Hugo Dyson</a> · <a href="../A/Adam_Fox.md" title="Adam Fox">Adam Fox</a> · <a class="mw-selflink selflink">Colin Hardie</a> · <a href="../R/Robert_Havard.md" title="Robert Havard">Robert Havard</a> · <a href="C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> · <a href="../W/Warren_Lewis.md" title="Warren Lewis">Warren Lewis</a> · <a href="../G/Gervase_Mathew.md" title="Gervase Mathew">Gervase Mathew</a> · <a href="../R/R.B._McCallum.md" title="R.B. McCallum">R.B. McCallum</a> · <a href="C.E._Stevens.md" title="C.E. Stevens">C.E. Stevens</a> · <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="../J/John_Wain.md" title="John Wain">John Wain</a> · <a href="Charles_Williams.md" title="Charles Williams">Charles Williams</a> · <a href="Charles_Leslie_Wrenn.md" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
 </td></tr></tbody></table>

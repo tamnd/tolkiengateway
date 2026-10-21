@@ -1,6 +1,5 @@
 ---
 title: "File:Splintered Light (First edition).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Splintered Light (First edition).jpg</span>"
 page_id: 56921
 namespace: 6
 revision_id: 313905

@@ -1,6 +1,5 @@
 ---
 title: "File:The maps of the Silmarillion - Airyyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The maps of the Silmarillion - Airyyn.png</span>"
 page_id: 71325
 namespace: 6
 revision_id: 425533

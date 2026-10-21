@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Original Soundtrack.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Original Soundtrack.jpeg</span>"
 page_id: 67192
 namespace: 6
 revision_id: 390179
@@ -26,14 +25,14 @@ file:
 
 ## Summary {#Summary}
 
-The <a class="new" href="/w/index.php?title=The_Lord_of_the_Rings:_Gollum_(Original_Soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Gollum (Original Soundtrack) (page does not exist)">Original Soundtrack</a> album for the Precious Edition of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Gollum_(Original_Soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Gollum (Original Soundtrack) (page does not exist)">Original Soundtrack</a> album for the Precious Edition of *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">@GollumGame (23 May 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1661031204877942784" rel="noreferrer noopener" target="_blank">&#34;A 17-track album is available in the Precious Edition (or as an individual DLC) on all platforms through a dedicated application.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">@GollumGame (23 May 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1661031204877942784" rel="noreferrer noopener" target="_blank">&#34;A 17-track album is available in the Precious Edition (or as an individual DLC) on all platforms through a dedicated application.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>
 

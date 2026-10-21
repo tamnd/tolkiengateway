@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ryszard Derdziński - Feanor.jpg"
 ---
 
-Redirect to [File:Ryszard Derdziński - Feanor.jpg](/wiki/File:Ryszard_Derdziński_-_Feanor.jpg).
+Redirect to [File:Ryszard Derdziński - Feanor.jpg](Ryszard_Derdziński_-_Feanor.jpg.md).

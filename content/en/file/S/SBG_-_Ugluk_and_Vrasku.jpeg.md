@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Ugluk and Vrasku.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Ugluk and Vrasku.jpeg</span>"
 page_id: 12047
 namespace: 6
 revision_id: 204088

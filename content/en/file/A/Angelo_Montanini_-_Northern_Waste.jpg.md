@@ -1,6 +1,5 @@
 ---
 title: "File:Angelo Montanini - Northern Waste.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angelo Montanini - Northern Waste.jpg</span>"
 page_id: 29611
 namespace: 6
 revision_id: 356412
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by [Angelo Montanini](/wiki/Angelo_Montanini), cover art for *[The Northern Waste](/wiki/The_Northern_Waste)*.
+Illustration by [Angelo Montanini](../../main/A/Angelo_Montanini.md), cover art for *[The Northern Waste](../../main/T/The_Northern_Waste.md)*.
 
 ## Licensing {#Licensing}
 

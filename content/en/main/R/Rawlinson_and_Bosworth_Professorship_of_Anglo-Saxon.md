@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rawlinson and Bosworth Professor of Anglo-Saxon"
 ---
 
-Redirect to [Rawlinson and Bosworth Professor of Anglo-Saxon](/wiki/Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon).
+Redirect to [Rawlinson and Bosworth Professor of Anglo-Saxon](Rawlinson_and_Bosworth_Professor_of_Anglo-Saxon.md).

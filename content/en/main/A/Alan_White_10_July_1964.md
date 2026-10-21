@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Alan White"
 ---
 
-Redirect to [Letter to Alan White](/wiki/Letter_to_Alan_White).
+Redirect to [Letter to Alan White](../L/Letter_to_Alan_White.md).

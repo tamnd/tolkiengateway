@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bucklandish"
 ---
 
-Redirect to [Bucklandish](/wiki/Bucklandish).
+Redirect to [Bucklandish](../B/Bucklandish.md).

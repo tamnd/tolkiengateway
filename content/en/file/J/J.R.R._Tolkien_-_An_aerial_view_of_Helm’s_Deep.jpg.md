@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - An aerial view of Helm’s Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - An aerial view of Helm’s Deep.jpg</span>"
 page_id: 65547
 namespace: 6
 revision_id: 377385
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An aerial view of [Helm's Deep](/wiki/Helm%27s_Deep), c.[1942](/wiki/1942), sketched underneath a written description of the same, from Book 3, ch. 7 of [The Lord of the Rings](/wiki/The_Lord_of_the_Rings).
+An aerial view of [Helm's Deep](../../main/H/Helm's_Deep.md), c.[1942](../../main/_/1942.md), sketched underneath a written description of the same, from Book 3, ch. 7 of [The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Lloyd Owen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lloyd Owen.jpg</span>"
 page_id: 63744
 namespace: 6
 revision_id: 434539
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.facebook.com/photo/?fbid=176675984875468&amp;set=a.176675981542135" rel="noreferrer noopener" target="_blank">Actor&#39;s official FB page</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

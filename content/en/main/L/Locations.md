@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Locations"
 ---
 
-Redirect to [Portal:Locations](/wiki/Portal:Locations).
+Redirect to [Portal:Locations](../../portal/L/Locations.md).

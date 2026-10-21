@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>silivren</b></i> is a [Sindarin](/wiki/Sindarin) adjective that means *(white) glittering*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>silivren</b></i> is a [Sindarin](Sindarin.md) adjective that means *(white) glittering*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
@@ -21,8 +21,8 @@ categories:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, “<a href="/wiki/A_Elbereth_Gilthoniel" title="A Elbereth Gilthoniel">A Elbereth Gilthoniel</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, line 1</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../D/Donald_Swann.md" title="Donald Swann">Donald Swann</a>, “<a href="../A/A_Elbereth_Gilthoniel.md" title="A Elbereth Gilthoniel">A Elbereth Gilthoniel</a>,” in <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, line 1</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a class="mw-redirect" href="/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary" title="Hiswelókë&#39;s Sindarin dictionary">Hiswelókë&#39;s Sindarin dictionary</a> (Edition 1.6, Lexicon 0.993)</i></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a class="mw-redirect" href="../H/Hiswelókë&#39;s_Sindarin_dictionary~30928.md" title="Hiswelókë&#39;s Sindarin dictionary">Hiswelókë&#39;s Sindarin dictionary</a> (Edition 1.6, Lexicon 0.993)</i></span>
 </li>
 </ol></div>

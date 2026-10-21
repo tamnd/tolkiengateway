@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring (disambiguation)"
 ---
 
-Redirect to [Ring (disambiguation)](/wiki/Ring_(disambiguation)).
+Redirect to [Ring (disambiguation)](<Ring_(disambiguation).md>).

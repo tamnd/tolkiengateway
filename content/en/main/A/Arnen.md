@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ithilien"
 ---
 
-Redirect to [Ithilien](/wiki/Ithilien).
+Redirect to [Ithilien](../I/Ithilien.md).

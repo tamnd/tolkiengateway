@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Fountain"
 ---
 
-Redirect to [House of the Fountain](/wiki/House_of_the_Fountain).
+Redirect to [House of the Fountain](../H/House_of_the_Fountain.md).

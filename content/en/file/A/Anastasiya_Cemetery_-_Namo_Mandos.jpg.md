@@ -1,6 +1,5 @@
 ---
 title: "File:Anastasiya Cemetery - Namo Mandos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anastasiya Cemetery - Namo Mandos.jpg</span>"
 page_id: 58115
 namespace: 6
 revision_id: 322102
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Anastasiya Cemetery</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/anastasiyacemetery" rel="noreferrer noopener" target="_blank">Anastasiya Cemetery on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anastasiya_Cemetery" title="Tolkien Gateway:Copyrights/Anastasiya Cemetery">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnastasiya_Cemetery.md" title="Tolkien Gateway:Copyrights/Anastasiya Cemetery">Permission for use on Tolkien Gateway</a></b></li></ul></div>

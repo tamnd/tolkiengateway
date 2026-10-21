@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:South Africa"
 ---
 
-Redirect to [Category:South Africa](/wiki/Category:South_Africa).
+Redirect to [Category:South Africa](../../category/S/South_Africa.md).

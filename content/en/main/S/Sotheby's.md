@@ -1,6 +1,5 @@
 ---
 title: "Sotheby's"
-display_title: "<span class=\"mw-page-title-main\">Sotheby&#039;s</span>"
 page_id: 23656
 namespace: 0
 revision_id: 388532
@@ -15,13 +14,13 @@ images:
   - "Sotheby's.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Sotheby%27s.jpg"><img src="/w/images/thumb/c/ce/Sotheby%27s.jpg/225px-Sotheby%27s.jpg" decoding="async" loading="lazy" width="225" height="288" class="mw-file-element" srcset="/w/images/thumb/c/ce/Sotheby%27s.jpg/338px-Sotheby%27s.jpg 1.5x, /w/images/c/ce/Sotheby%27s.jpg 2x" data-file-width="387" data-file-height="496"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sotheby&#39;s.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ce/Sotheby%27s.jpg/225px-Sotheby%27s.jpg" decoding="async" loading="lazy" width="225" height="288" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ce/Sotheby%27s.jpg/338px-Sotheby%27s.jpg 1.5x, https://tolkiengateway.net/w/images/c/ce/Sotheby%27s.jpg 2x" data-file-width="387" data-file-height="496"/></a><figcaption></figcaption></figure>
 
-**Sotheby's** is an international auction house, that over the years has sold many rare and unique Tolkien items (which also are described and reprinted in their [auction catalogues](/wiki/Category:Sotheby%27s_catalogues "Category:Sotheby's catalogues")), perhaps most notably [letters not published in *The Letters of J.R.R. Tolkien*](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien").
+**Sotheby's** is an international auction house, that over the years has sold many rare and unique Tolkien items (which also are described and reprinted in their [auction catalogues](../../category/S/Sotheby's_catalogues.md)), perhaps most notably [letters not published in *The Letters of J.R.R. Tolkien*](../L/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).
 
 ## See also {#See_also}
 
-- [Category: Sotheby's catalogues](/wiki/Category:Sotheby%27s_catalogues "Category:Sotheby's catalogues")
+- [Category: Sotheby's catalogues](../../category/S/Sotheby's_catalogues.md)
 
 ## External links {#External_links}
 

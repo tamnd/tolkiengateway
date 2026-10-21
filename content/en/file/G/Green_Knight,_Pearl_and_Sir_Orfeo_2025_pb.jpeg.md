@@ -1,6 +1,5 @@
 ---
 title: "File:Green Knight, Pearl and Sir Orfeo 2025 pb.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Green Knight, Pearl and Sir Orfeo 2025 pb.jpeg</span>"
 page_id: 70601
 namespace: 6
 revision_id: 421117

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ahmet Can Kahraman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ahmet Can Kahraman</span>"
 page_id: 58039
 namespace: 14
 revision_id: 319541

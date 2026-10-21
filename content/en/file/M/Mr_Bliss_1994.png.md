@@ -1,6 +1,5 @@
 ---
 title: "File:Mr Bliss 1994.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr Bliss 1994.png</span>"
 page_id: 61939
 namespace: 6
 revision_id: 350486

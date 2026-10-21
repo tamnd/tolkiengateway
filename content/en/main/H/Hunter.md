@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hunter (disambiguation)"
 ---
 
-Redirect to [The Hunter (disambiguation)](/wiki/The_Hunter_(disambiguation)).
+Redirect to [The Hunter (disambiguation)](<../T/The_Hunter_(disambiguation).md>).

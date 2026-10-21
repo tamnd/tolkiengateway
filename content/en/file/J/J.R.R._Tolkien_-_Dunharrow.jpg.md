@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Dunharrow.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Dunharrow.jpg</span>"
 page_id: 5767
 namespace: 6
 revision_id: 424835
@@ -27,9 +26,9 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), the original of this picture in crayon bears a note on the back:
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), the original of this picture in crayon bears a note on the back:
 
-<dl><dd>&#39;No longer fits story&#39;. It was published in <a href="/wiki/The_Lord_of_the_Rings_1977_Calendar" title="The Lord of the Rings 1977 Calendar">The Lord of the Rings 1977 Calendar</a>, accompanied by the following note:</dd></dl>
+<dl><dd>&#39;No longer fits story&#39;. It was published in <a href="../../main/T/The_Lord_of_the_Rings_1977_Calendar.md" title="The Lord of the Rings 1977 Calendar">The Lord of the Rings 1977 Calendar</a>, accompanied by the following note:</dd></dl>
 
 This picture of the Firienfeld and the climbing road marked at each angle by the carved Pukel-men was done at a time when the conception of the Dark Door (leading to the Paths of the Dead) was somewhat different from the description in the published work. There it is said:
 

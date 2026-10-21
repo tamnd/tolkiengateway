@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Smith of Wootton Major"
 ---
 
-Redirect to [Smith of Wootton Major](/wiki/Smith_of_Wootton_Major).
+Redirect to [Smith of Wootton Major](../S/Smith_of_Wootton_Major.md).

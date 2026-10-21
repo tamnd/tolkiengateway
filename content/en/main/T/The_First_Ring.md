@@ -15,12 +15,11 @@ sort_keys:
   "Albums": "First Ring, The"
 ---
 
-<i><b>The First Ring</b></i> is [2009](/wiki/2009) collection of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired [music](/wiki/Music "Music"), compiled by the French fan Fabien Simonetti and the musician Alex Wieser. The CD was released as a limited edition of 1000 copies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The First Ring</b></i> is [2009](../_/2009.md) collection of [Tolkien](../J/J.R.R._Tolkien.md)-inspired [music](../M/Music.md), compiled by the French fan Fabien Simonetti and the musician Alex Wieser. The CD was released as a limited edition of 1000 copies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tracks {#Tracks}
 
 <table class="tracklist wikitable wikitable--stripe">
-<!-- -->
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
       <th class="tlheader" style="width: 60%;">Title</th><th style="width: 40%;">Writer(s)</th>
@@ -31,247 +30,61 @@ sort_keys:
   <td style="text-align: left;">&#34;Fangorn&#34;  </td><td>Alex Wieser</td>
   <td style="padding-right: 10px; text-align: right;">04:13</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">2.</td>
   <td style="text-align: left;">&#34;Cold Blue Skies&#34;  </td><td>Eithel Ivrin</td>
   <td style="padding-right: 10px; text-align: right;">06:38</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">3.</td>
-  <td style="text-align: left;">&#34;The Parting&#34;  </td><td><a href="/wiki/Ainulindale_(band)" title="Ainulindale (band)">Ainulindale</a></td>
+  <td style="text-align: left;">&#34;The Parting&#34;  </td><td><a href="../A/Ainulindale_(band).md" title="Ainulindale (band)">Ainulindale</a></td>
   <td style="padding-right: 10px; text-align: right;">05:40</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">4.</td>
   <td style="text-align: left;">&#34;Aragorn&#34;  </td><td>Yak</td>
   <td style="padding-right: 10px; text-align: right;">06:54</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">5.</td>
   <td style="text-align: left;">&#34;Mormegil&#34;  </td><td>Galadhrim</td>
   <td style="padding-right: 10px; text-align: right;">04:10</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">6.</td>
   <td style="text-align: left;">&#34;Grohnd&#34;  </td><td>Minhyriath</td>
   <td style="padding-right: 10px; text-align: right;">05:35</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">7.</td>
   <td style="text-align: left;">&#34;Laketown&#34;  </td><td>Herc</td>
   <td style="padding-right: 10px; text-align: right;">04:37</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">8.</td>
   <td style="text-align: left;">&#34;Once We Were Kings&#34;  </td><td>Númenor</td>
   <td style="padding-right: 10px; text-align: right;">04:59</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">9.</td>
   <td style="text-align: left;">&#34;Cuiviénen&#34;  </td><td>Fauns</td>
   <td style="padding-right: 10px; text-align: right;">10:54</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">10.</td>
   <td style="text-align: left;">&#34;Great Spirit&#34;  </td><td>Alex Weiser</td>
   <td style="padding-right: 10px; text-align: right;">03:46</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">11.</td>
   <td style="text-align: left;">&#34;Sauron Was Here&#34;  </td><td>Faangrull</td>
   <td style="padding-right: 10px; text-align: right;">03:16</td>
 </tr>
-<!-- -->
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">12.</td>
   <td style="text-align: left;">&#34;Cirith Ungol&#34;  </td><td>Jim Kirkwood</td>
   <td style="padding-right: 10px; text-align: right;">14:04</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## External links {#External_links}

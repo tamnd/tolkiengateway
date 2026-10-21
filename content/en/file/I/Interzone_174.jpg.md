@@ -1,6 +1,5 @@
 ---
 title: "File:Interzone 174.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Interzone 174.jpg</span>"
 page_id: 26383
 namespace: 6
 revision_id: 215399

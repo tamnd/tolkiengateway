@@ -1,6 +1,5 @@
 ---
 title: "Sí Qente Feanor"
-display_title: "<span class=\"mw-page-title-main\">Sí Qente Feanor</span>"
 page_id: 67120
 namespace: 0
 revision_id: 389636
@@ -13,7 +12,7 @@ categories:
   - "Quenya texts"
 ---
 
-**Sí Qente Feanor** is a section of [*Parma Eldalamberon* 15](/wiki/Parma_Eldalamberon_15 "Parma Eldalamberon 15"). This 13-line passage consists of two sentences uttered by the character [Fëanor](/wiki/F%C3%ABanor), in [Qenya](/wiki/Qenya) and a brief explanation of the circumstances.
+**Sí Qente Feanor** is a section of [*Parma Eldalamberon* 15](../P/Parma_Eldalamberon_15.md). This 13-line passage consists of two sentences uttered by the character [Fëanor](../F/Fëanor.md), in [Qenya](../Q/Qenya.md) and a brief explanation of the circumstances.
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;néri ur natsi nostalen máre
@@ -31,8 +30,6 @@ var limpilto var túkielto<br/>
 listanelto in otso qarda.&#39;
 </p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 The translation given is as follows:
 
@@ -52,5 +49,3 @@ they are bound to or have looked for<br/>
 they blessed the great evil.&#39;
 </p>
 </blockquote>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>

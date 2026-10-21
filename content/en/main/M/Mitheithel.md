@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hoarwell"
 ---
 
-Redirect to [Hoarwell](/wiki/Hoarwell).
+Redirect to [Hoarwell](../H/Hoarwell.md).

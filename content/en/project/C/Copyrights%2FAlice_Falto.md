@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Alice Falto"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Alice Falto</span>"
 page_id: 38911
 namespace: 4
 revision_id: 193143
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Falto, Alice"
 ---
 
-- Alice Falto has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Alice_Falto "Category:Images by Alice Falto") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Alice Falto has kindly granted her permission to use [her artwork](../../category/I/Images_by_Alice_Falto.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 March 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

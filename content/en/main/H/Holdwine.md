@@ -1,6 +1,5 @@
 ---
 title: "Holdwine"
-display_title: "<span class=\"mw-page-title-main\">Holdwine</span>"
 page_id: 3466
 namespace: 0
 revision_id: 405871
@@ -24,17 +23,17 @@ langlinks:
     url: "https://kontu.wiki/Holdwine"
 ---
 
-**Holdwine of the Shire** was the name given to [Meriadoc Brandybuck](/wiki/Meriadoc_Brandybuck) among the [Rohirrim](/wiki/Rohirrim) by King [Éomer](/wiki/%C3%89omer), and used by them to record his deeds in their annals.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Holdwine of the Shire** was the name given to [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) among the [Rohirrim](../R/Rohirrim.md) by King [Éomer](../_/Éomer.md), and used by them to record his deeds in their annals.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word is [Old English](/wiki/Old_English) but its meaning is never given explicitly; and there are several possible interpretations, of which one is "faithful friend". The name *Holdwine* is composed of the [Old English](/wiki/Old_English) elements *hold* ("faithful" or "loyal") and *wine* ("friend").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+The word is [Old English](../O/Old_English.md) but its meaning is never given explicitly; and there are several possible interpretations, of which one is "faithful friend". The name *Holdwine* is composed of the [Old English](../O/Old_English.md) elements *hold* ("faithful" or "loyal") and *wine* ("friend").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;, &#34;The Kings of the Mark&#34;, <i>Third Line</i>, Footnote to <i>Éomer Éadig</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;, &#34;The Kings of the Mark&#34;, <i>Third Line</i>, Footnote to <i>Éomer Éadig</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 644</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 644</span>
 </li>
 </ol></div>

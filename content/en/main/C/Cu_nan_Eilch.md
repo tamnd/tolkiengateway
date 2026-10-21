@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cú nan Eilch"
 ---
 
-Redirect to [Cú nan Eilch](/wiki/Cú_nan_Eilch).
+Redirect to [Cú nan Eilch](Cú_nan_Eilch.md).

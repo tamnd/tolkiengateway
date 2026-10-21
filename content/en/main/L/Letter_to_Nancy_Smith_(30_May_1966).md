@@ -15,11 +15,11 @@ sort_keys:
   "Letters": "Smith, Nancy (1966-05-30)"
 ---
 
-On [30 May](/wiki/30_May) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Nancy Smith](/wiki/Nancy_Smith)**.
+On [30 May](../_/30_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Nancy Smith](../N/Nancy_Smith.md)**.
 
 - **Contents:** In the letter Tolkien briefly discusses Ford Madox Ford and the article in *Diplomat* magazine.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Description:** Typed letter signed ("J.R.R. Tolkien"). One page, 4to, on embossed stationery.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** Reproduced in full in *[Christie's Fine Printed Books and Manuscripts 24 May 2002](/wiki/Christie%27s_Fine_Printed_Books_and_Manuscripts_24_May_2002)*.
+- **Publication:** Reproduced in full in *[Christie's Fine Printed Books and Manuscripts 24 May 2002](../C/Christie's_Fine_Printed_Books_and_Manuscripts_24_May_2002.md)*.
 
 ## Excerpts {#Excerpts}
 

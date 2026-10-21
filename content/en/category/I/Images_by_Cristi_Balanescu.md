@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Cristi Balanescu"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Cristi Balanescu</span>"
 page_id: 72819
 namespace: 14
 revision_id: 431463
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Balanescu, Cristi"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Cristi_Balanescu&amp;action=edit&amp;redlink=1" title="Cristi Balanescu (page does not exist)">Cristi Balanescu</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cristi_Balanescu&amp;action=edit&amp;redlink=1" title="Cristi Balanescu (page does not exist)">Cristi Balanescu</a></b>.

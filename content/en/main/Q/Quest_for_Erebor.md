@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest of Erebor"
 ---
 
-Redirect to [Quest of Erebor](/wiki/Quest_of_Erebor).
+Redirect to [Quest of Erebor](Quest_of_Erebor.md).

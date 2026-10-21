@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of letters by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of letters by J.R.R. Tolkien</span>"
 page_id: 16498
 namespace: 14
 revision_id: 356778
@@ -19,4 +18,4 @@ sort_keys:
   "Images by J.R.R. Tolkien": "letters by J.R.R. Tolkien"
 ---
 
-<dl><dd><i>Main articles:</i> <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> and <i><a class="mw-redirect" href="/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;</a></i></dd></dl>
+<dl><dd><i>Main articles:</i> <i><a href="../../main/T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> and <i><a class="mw-redirect" href="../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;</a></i></dd></dl>

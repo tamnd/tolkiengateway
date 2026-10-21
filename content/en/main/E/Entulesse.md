@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entulessë"
 ---
 
-Redirect to [Entulessë](/wiki/Entulessë).
+Redirect to [Entulessë](Entulessë.md).

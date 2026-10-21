@@ -1,6 +1,5 @@
 ---
 title: "Category:Bays"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bays</span>"
 page_id: 5140
 namespace: 14
 revision_id: 195476

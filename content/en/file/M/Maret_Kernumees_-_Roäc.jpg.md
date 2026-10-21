@@ -1,6 +1,5 @@
 ---
 title: "File:Maret Kernumees - Roäc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maret Kernumees - Roäc.jpg</span>"
 page_id: 17716
 namespace: 6
 revision_id: 208300
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Roac by artist [Maret Kernumees](/wiki/Maret_Kernumees).
+Roac by artist [Maret Kernumees](../../main/M/Maret_Kernumees.md).
 
 ## Licensing {#Licensing}
 

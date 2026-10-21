@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pipe-weed"
 ---
 
-Redirect to [Pipe-weed](/wiki/Pipe-weed).
+Redirect to [Pipe-weed](../P/Pipe-weed.md).

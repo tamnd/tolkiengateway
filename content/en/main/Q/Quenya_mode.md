@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tengwar/Quenya mode"
 ---
 
-Redirect to [Tengwar/Quenya mode](/wiki/Tengwar/Quenya_mode).
+Redirect to [Tengwar/Quenya mode](../T/Tengwar%252FQuenya_mode.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Mordor logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Mordor logo.jpg</span>"
 page_id: 62075
 namespace: 6
 revision_id: 390089
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Mordor](/wiki/The_Lord_of_the_Rings_Online:_Mordor)*.
+Logo for *[The Lord of the Rings Online: Mordor](../../main/T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinyar Tengwar"
 ---
 
-Redirect to [Vinyar Tengwar](/wiki/Vinyar_Tengwar).
+Redirect to [Vinyar Tengwar](Vinyar_Tengwar.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien had a cat called Grimalkin:"
 ---
 
-Redirect to [J.R.R. Tolkien had a cat called Grimalkin:](/wiki/J.R.R._Tolkien_had_a_cat_called_Grimalkin:).
+Redirect to [J.R.R. Tolkien had a cat called Grimalkin:](../J/J.R.R._Tolkien_had_a_cat_called_Grimalkin%253A.md).

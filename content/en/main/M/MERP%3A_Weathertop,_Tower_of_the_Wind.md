@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Weathertop: Tower of the Wind"
 ---
 
-Redirect to [Weathertop: Tower of the Wind](/wiki/Weathertop:_Tower_of_the_Wind).
+Redirect to [Weathertop: Tower of the Wind](../W/Weathertop%253A_Tower_of_the_Wind.md).

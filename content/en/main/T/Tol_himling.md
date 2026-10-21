@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Himring"
 ---
 
-Redirect to [Himring](/wiki/Himring).
+Redirect to [Himring](../H/Himring.md).

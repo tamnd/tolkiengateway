@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Matt Stewart"
 ---
 
-Redirect to [Matt Stewart](/wiki/Matt_Stewart).
+Redirect to [Matt Stewart](Matt_Stewart.md).

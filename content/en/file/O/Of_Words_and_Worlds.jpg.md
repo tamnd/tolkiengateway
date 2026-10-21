@@ -1,6 +1,5 @@
 ---
 title: "File:Of Words and Worlds.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Of Words and Worlds.jpg</span>"
 page_id: 17847
 namespace: 6
 revision_id: 214312

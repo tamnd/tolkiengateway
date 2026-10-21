@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Underhill (disambiguation)"
 ---
 
-Redirect to [Underhill (disambiguation)](/wiki/Underhill_(disambiguation)).
+Redirect to [Underhill (disambiguation)](<Underhill_(disambiguation).md>).

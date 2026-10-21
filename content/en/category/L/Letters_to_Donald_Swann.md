@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Donald Swann"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Donald Swann</span>"
 page_id: 68375
 namespace: 14
 revision_id: 402487
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Swann, Donald"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Donald Swann](/wiki/Donald_Swann).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Donald Swann](../../main/D/Donald_Swann.md).

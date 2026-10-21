@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nazgûl"
 ---
 
-Redirect to [Nazgûl](/wiki/Nazgûl).
+Redirect to [Nazgûl](../N/Nazgûl.md).

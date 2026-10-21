@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Fords"
 ---
 
-Redirect to [Category:Fords](/wiki/Category:Fords).
+Redirect to [Category:Fords](../../category/F/Fords.md).

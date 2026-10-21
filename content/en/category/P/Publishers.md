@@ -1,6 +1,5 @@
 ---
 title: "Category:Publishers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Publishers</span>"
 page_id: 8010
 namespace: 14
 revision_id: 190048
@@ -13,4 +12,4 @@ categories:
   - "Businesses"
 ---
 
-**Publishers** of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-related books.
+**Publishers** of [Tolkien](../../main/J/J.R.R._Tolkien.md)-related books.

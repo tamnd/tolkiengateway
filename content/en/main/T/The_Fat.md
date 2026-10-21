@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fat (disambiguation)"
 ---
 
-Redirect to [The Fat (disambiguation)](/wiki/The_Fat_(disambiguation)).
+Redirect to [The Fat (disambiguation)](<The_Fat_(disambiguation).md>).

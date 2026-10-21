@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Philip Brown"
 ---
 
-Redirect to [Letter to Philip Brown](/wiki/Letter_to_Philip_Brown).
+Redirect to [Letter to Philip Brown](../L/Letter_to_Philip_Brown.md).

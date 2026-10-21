@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Leila Keene and Pat Kirke"
 ---
 
-Redirect to [Letter to Leila Keene and Pat Kirke](/wiki/Letter_to_Leila_Keene_and_Pat_Kirke).
+Redirect to [Letter to Leila Keene and Pat Kirke](Letter_to_Leila_Keene_and_Pat_Kirke.md).

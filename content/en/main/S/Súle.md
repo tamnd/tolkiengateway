@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Súlë"
 ---
 
-Redirect to [Súlë](/wiki/Súlë).
+Redirect to [Súlë](Súlë.md).

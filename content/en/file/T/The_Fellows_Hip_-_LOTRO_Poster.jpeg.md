@@ -1,6 +1,5 @@
 ---
 title: "File:The Fellows Hip - LOTRO Poster.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fellows Hip - LOTRO Poster.jpeg</span>"
 page_id: 74846
 namespace: 6
 revision_id: 440411
@@ -30,16 +29,10 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Fellows Hip - LOTRO Poster.jpeg</span></th>
 <td class="description">
-<p>Still from <i><a href="/wiki/The_Fellows_Hip:_Rise_of_the_Gamers" title="The Fellows Hip: Rise of the Gamers">The Fellows Hip: Rise of the Gamers</a></i>, showing a <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> poster
+<p>Still from <i><a href="../../main/T/The_Fellows_Hip%253A_Rise_of_the_Gamers.md" title="The Fellows Hip: Rise of the Gamers">The Fellows Hip: Rise of the Gamers</a></i>, showing a <i><a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> poster
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

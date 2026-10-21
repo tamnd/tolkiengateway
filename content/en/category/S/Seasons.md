@@ -1,6 +1,5 @@
 ---
 title: "Category:Seasons"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Seasons</span>"
 page_id: 26998
 namespace: 14
 revision_id: 339380
@@ -13,4 +12,4 @@ categories:
   - "Calendars"
 ---
 
-This category lists all **seasons** in the different calendars in the [legendarium](/wiki/Legendarium "Legendarium").
+This category lists all **seasons** in the different calendars in the [legendarium](../../main/L/Legendarium.md).

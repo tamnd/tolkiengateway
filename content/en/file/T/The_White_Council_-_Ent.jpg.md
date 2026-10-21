@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Ent.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Ent.jpg</span>"
 page_id: 13420
 namespace: 6
 revision_id: 169741

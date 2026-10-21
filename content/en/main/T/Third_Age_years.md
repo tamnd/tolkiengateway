@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Third Age years"
 ---
 
-Redirect to [Category:Third Age years](/wiki/Category:Third_Age_years).
+Redirect to [Category:Third Age years](../../category/T/Third_Age_years.md).

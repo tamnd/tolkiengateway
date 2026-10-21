@@ -1,6 +1,5 @@
 ---
 title: "File:Aurelien Hubert - Hound of Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aurelien Hubert - Hound of Sauron.jpg</span>"
 page_id: 71772
 namespace: 6
 revision_id: 427756
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Hound of Sauron](/wiki/Hound_of_Sauron) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Road Darkens* illustration by Aurelien Hubert
+[Hound of Sauron](../../main/H/Hound_of_Sauron.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Road Darkens* illustration by Aurelien Hubert
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Macht der Ringe II - Kochbuch.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Macht der Ringe II - Kochbuch.png</span>"
 page_id: 74668
 namespace: 6
 revision_id: 439350
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Taken by myself</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

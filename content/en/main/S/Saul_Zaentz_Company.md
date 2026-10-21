@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Enterprises"
 ---
 
-Redirect to [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises).
+Redirect to [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md).

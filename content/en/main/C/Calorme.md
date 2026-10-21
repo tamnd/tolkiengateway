@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kalormë"
 ---
 
-Redirect to [Kalormë](/wiki/Kalormë).
+Redirect to [Kalormë](../K/Kalormë.md).

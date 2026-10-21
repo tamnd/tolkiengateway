@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nénimë"
 ---
 
-Redirect to [Nénimë](/wiki/Nénimë).
+Redirect to [Nénimë](Nénimë.md).

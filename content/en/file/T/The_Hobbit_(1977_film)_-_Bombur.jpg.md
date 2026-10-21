@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Bombur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Bombur.jpg</span>"
 page_id: 8952
 namespace: 6
 revision_id: 238123

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Enano Akd"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Enano Akd</span>"
 page_id: 49773
 namespace: 4
 revision_id: 267197
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Enano Akd"
 ---
 
-- Enano Akd has kindly granted his permission to use selected artwork on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Enano Akd has kindly granted his permission to use selected artwork on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 May 2015
-- User who sought the permission via a private message: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via a private message: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Fields, plains and deserts"
 ---
 
-Redirect to [Category:Fields, plains and deserts](/wiki/Category:Fields,_plains_and_deserts).
+Redirect to [Category:Fields, plains and deserts](../../category/F/Fields,_plains_and_deserts.md).

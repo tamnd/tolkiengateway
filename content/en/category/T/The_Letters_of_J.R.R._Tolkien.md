@@ -13,4 +13,4 @@ categories:
   - "Letters"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) published in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)* and numbered accordingly.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) published in *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)* and numbered accordingly.

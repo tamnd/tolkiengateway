@@ -11,4 +11,4 @@ redirect_target: "Ar-Pharazôn"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Ar-Pharazôn](/wiki/Ar-Pharazôn#Names).
+Redirect to [Ar-Pharazôn](../A/Ar-Pharazôn.md#Names).

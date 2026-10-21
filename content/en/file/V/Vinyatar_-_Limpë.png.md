@@ -1,6 +1,5 @@
 ---
 title: "File:Vinyatar - Limpë.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vinyatar - Limpë.png</span>"
 page_id: 58186
 namespace: 6
 revision_id: 322059
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Vinyatar</li>
 <li><b>Website:</b> <a class="external text" href="https://vinyatar.tumblr.com/" rel="noreferrer noopener" target="_blank">Vinyatar on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Vinyatar" title="Tolkien Gateway:Copyrights/Vinyatar">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FVinyatar.md" title="Tolkien Gateway:Copyrights/Vinyatar">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Plains"
 ---
 
-Redirect to [Great Plains](/wiki/Great_Plains).
+Redirect to [Great Plains](Great_Plains.md).

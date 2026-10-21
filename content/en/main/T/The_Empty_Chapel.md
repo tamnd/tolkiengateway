@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Empty Chapel"
 ---
 
-Redirect to [Empty Chapel](/wiki/Empty_Chapel).
+Redirect to [Empty Chapel](../E/Empty_Chapel.md).

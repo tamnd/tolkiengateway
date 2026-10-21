@@ -1,6 +1,5 @@
 ---
 title: "File:Aleksander Karcz - Déorwine.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aleksander Karcz - Déorwine.jpg</span>"
 page_id: 71046
 namespace: 6
 revision_id: 424788
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Déorwine](/wiki/D%C3%A9orwine) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Angmar Awakened*: *Flight of the Stormcaller* illustration by Aleksander Karcz
+[Déorwine](../../main/D/Déorwine.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Angmar Awakened*: *Flight of the Stormcaller* illustration by Aleksander Karcz
 
 ## Licensing {#Licensing}
 

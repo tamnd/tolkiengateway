@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anduin"
 ---
 
-Redirect to [Anduin](/wiki/Anduin).
+Redirect to [Anduin](Anduin.md).

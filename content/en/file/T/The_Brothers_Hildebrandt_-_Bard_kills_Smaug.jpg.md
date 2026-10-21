@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Bard kills Smaug.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Bard kills Smaug.jpg</span>"
 page_id: 71616
 namespace: 6
 revision_id: 429312
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Bard](/wiki/Bard) kills [Smaug](/wiki/Smaug)" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Based on photo shoots from the 1970s, it was created in [2000](/wiki/2000) for <i><a class="new" href="/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a></i>
+"[Bard](../../main/B/Bard.md) kills [Smaug](../../main/S/Smaug.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Based on photo shoots from the 1970s, it was created in [2000](../../main/_/2000.md) for <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a></i>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Artists"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artists</span>"
 page_id: 5518
 namespace: 14
 revision_id: 115560
@@ -13,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Below is a list of **Artists** who have contributed to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works with their illustrations.
+Below is a list of **Artists** who have contributed to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s works with their illustrations.

@@ -19,4 +19,4 @@ sort_keys:
   "The Silmarillion": "Silmarillion"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i> illustrated by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></b> (including the 2nd illustrated edition of <a href="/wiki/2004" title="2004">2004</a>).</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> illustrated by <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></b> (including the 2nd illustrated edition of <a href="../../main/_/2004.md" title="2004">2004</a>).</dd></dl>

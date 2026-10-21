@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Black (disambiguation)"
 ---
 
-Redirect to [The Black (disambiguation)](/wiki/The_Black_(disambiguation)).
+Redirect to [The Black (disambiguation)](<The_Black_(disambiguation).md>).

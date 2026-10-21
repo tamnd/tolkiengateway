@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fair (disambiguation)"
 ---
 
-Redirect to [The Fair (disambiguation)](/wiki/The_Fair_(disambiguation)).
+Redirect to [The Fair (disambiguation)](<The_Fair_(disambiguation).md>).

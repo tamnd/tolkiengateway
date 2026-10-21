@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Legolas mini figure.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Legolas mini figure.png</span>"
 page_id: 38159
 namespace: 6
 revision_id: 283309

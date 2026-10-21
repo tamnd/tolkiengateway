@@ -1,6 +1,5 @@
 ---
 title: "List of The Lord of the Rings Trading Card Game cards"
-display_title: "<span class=\"mw-page-title-main\">List of The Lord of the Rings Trading Card Game cards</span>"
 page_id: 38835
 namespace: 0
 revision_id: 211697
@@ -30,22 +29,17 @@ images:
   - "Decipher_-_Ghân-buri-Ghân.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="/wiki/The_Lord_of_the_Rings_Trading_Card_Game" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
 <p>We have a long way to go, and there is time ahead for thought.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Treebeard" title="Treebeard">Treebeard</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
+</blockquote></div></div>
 
 This page is a **list of The Lord of the Rings Trading Card Game cards**.
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
-<!-- -->
 <tbody><tr>
 <th style="width:50px;">Image
 </th>
@@ -72,7 +66,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <th>Rarity
 </th></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_TheOneRing-Isldur%27sBane.jpg"><img src="/w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/150px-Decipher_-_TheOneRing-Isldur%27sBane.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/225px-Decipher_-_TheOneRing-Isldur%27sBane.jpg 1.5x, /w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/300px-Decipher_-_TheOneRing-Isldur%27sBane.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_TheOneRing-Isldur&#39;sBane.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/150px-Decipher_-_TheOneRing-Isldur%27sBane.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/225px-Decipher_-_TheOneRing-Isldur%27sBane.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/Decipher_-_TheOneRing-Isldur%27sBane.jpg/300px-Decipher_-_TheOneRing-Isldur%27sBane.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>•The One Ring,<br/> Isildur&#39;s Bane
 </td>
@@ -99,7 +93,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>R
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_TheOneRing-Isldur%27sBane-T.jpg"><img src="/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/150px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/225px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 1.5x, /w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/300px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_TheOneRing-Isldur&#39;sBane-T.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/150px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/225px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/300px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>•The One Ring,<br/> Isildur&#39;s Bane<br/> (Tengwar version)
 </td>
@@ -126,7 +120,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>R
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_TheOneRing-TheRulingRing.jpg"><img src="/w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/150px-Decipher_-_TheOneRing-TheRulingRing.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/225px-Decipher_-_TheOneRing-TheRulingRing.jpg 1.5x, /w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/300px-Decipher_-_TheOneRing-TheRulingRing.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_TheOneRing-TheRulingRing.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/150px-Decipher_-_TheOneRing-TheRulingRing.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/225px-Decipher_-_TheOneRing-TheRulingRing.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/13/Decipher_-_TheOneRing-TheRulingRing.jpg/300px-Decipher_-_TheOneRing-TheRulingRing.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>The One Ring,<br/> The Ruling Ring
 </td>
@@ -153,7 +147,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>R
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Axe_Strike.jpg"><img src="/w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/150px-Decipher_-_Axe_Strike.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/225px-Decipher_-_Axe_Strike.jpg 1.5x, /w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/300px-Decipher_-_Axe_Strike.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Axe_Strike.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/150px-Decipher_-_Axe_Strike.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/225px-Decipher_-_Axe_Strike.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/77/Decipher_-_Axe_Strike.jpg/300px-Decipher_-_Axe_Strike.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Axe Strike
 </td>
@@ -178,7 +172,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_BattleFury.jpg"><img src="/w/images/thumb/3/30/Decipher_-_BattleFury.jpg/150px-Decipher_-_BattleFury.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/3/30/Decipher_-_BattleFury.jpg/225px-Decipher_-_BattleFury.jpg 1.5x, /w/images/thumb/3/30/Decipher_-_BattleFury.jpg/300px-Decipher_-_BattleFury.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_BattleFury.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/Decipher_-_BattleFury.jpg/150px-Decipher_-_BattleFury.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Decipher_-_BattleFury.jpg/225px-Decipher_-_BattleFury.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Decipher_-_BattleFury.jpg/300px-Decipher_-_BattleFury.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Battle Fury
 </td>
@@ -203,7 +197,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Cleaving_Blow.jpg"><img src="/w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/150px-Decipher_-_Cleaving_Blow.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/225px-Decipher_-_Cleaving_Blow.jpg 1.5x, /w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/300px-Decipher_-_Cleaving_Blow.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Cleaving_Blow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/150px-Decipher_-_Cleaving_Blow.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/225px-Decipher_-_Cleaving_Blow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/Decipher_-_Cleaving_Blow.jpg/300px-Decipher_-_Cleaving_Blow.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Cleaving Blow
 </td>
@@ -228,7 +222,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Delving.jpg"><img src="/w/images/thumb/5/54/Decipher_-_Delving.jpg/150px-Decipher_-_Delving.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/5/54/Decipher_-_Delving.jpg/225px-Decipher_-_Delving.jpg 1.5x, /w/images/thumb/5/54/Decipher_-_Delving.jpg/300px-Decipher_-_Delving.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Delving.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/Decipher_-_Delving.jpg/150px-Decipher_-_Delving.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/Decipher_-_Delving.jpg/225px-Decipher_-_Delving.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/Decipher_-_Delving.jpg/300px-Decipher_-_Delving.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Delving
 </td>
@@ -253,7 +247,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Dwarf_Guard.jpg"><img src="/w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/150px-Decipher_-_Dwarf_Guard.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/225px-Decipher_-_Dwarf_Guard.jpg 1.5x, /w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/300px-Decipher_-_Dwarf_Guard.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Dwarf_Guard.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/150px-Decipher_-_Dwarf_Guard.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/225px-Decipher_-_Dwarf_Guard.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/Decipher_-_Dwarf_Guard.jpg/300px-Decipher_-_Dwarf_Guard.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Dwarf Guard
 </td>
@@ -278,7 +272,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Dwarven_Armor.jpg"><img src="/w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/150px-Decipher_-_Dwarven_Armor.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/225px-Decipher_-_Dwarven_Armor.jpg 1.5x, /w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/300px-Decipher_-_Dwarven_Armor.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Dwarven_Armor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/150px-Decipher_-_Dwarven_Armor.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/225px-Decipher_-_Dwarven_Armor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/Decipher_-_Dwarven_Armor.jpg/300px-Decipher_-_Dwarven_Armor.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Dwarven Armor
 </td>
@@ -303,7 +297,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Dwarven_Axe.jpg"><img src="/w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/150px-Decipher_-_Dwarven_Axe.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/225px-Decipher_-_Dwarven_Axe.jpg 1.5x, /w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/300px-Decipher_-_Dwarven_Axe.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Dwarven_Axe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/150px-Decipher_-_Dwarven_Axe.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/225px-Decipher_-_Dwarven_Axe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/52/Decipher_-_Dwarven_Axe.jpg/300px-Decipher_-_Dwarven_Axe.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Dwarven Axe
 </td>
@@ -328,7 +322,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Dwarven_Heart.jpg"><img src="/w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/150px-Decipher_-_Dwarven_Heart.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/225px-Decipher_-_Dwarven_Heart.jpg 1.5x, /w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/300px-Decipher_-_Dwarven_Heart.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Dwarven_Heart.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/150px-Decipher_-_Dwarven_Heart.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/225px-Decipher_-_Dwarven_Heart.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ac/Decipher_-_Dwarven_Heart.jpg/300px-Decipher_-_Dwarven_Heart.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>Dwarven Hearth
 </td>
@@ -353,7 +347,7 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 <td>C
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg"><img src="/w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/150px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="/w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/225px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg 1.5x, /w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/300px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_Ghân-buri-Ghân.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/150px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/225px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg/300px-Decipher_-_Gh%C3%A2n-buri-Gh%C3%A2n.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
 <td>•Ghân-buri-Ghân,<br/> Chieftain of the Woses<br/><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </td>
@@ -382,11 +376,11 @@ This page is a **list of The Lord of the Rings Trading Card Game cards**.
 
 ## See also {#See_also}
 
-- [The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)
+- [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)
 
 ## Notes {#Notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Portrayed by <a href="/wiki/Wi_Kuki_Kaa" title="Wi Kuki Kaa">Wi Kuki Kaa</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Portrayed by <a href="../W/Wi_Kuki_Kaa.md" title="Wi Kuki Kaa">Wi Kuki Kaa</a>.</span>
 </li>
 </ol></div>

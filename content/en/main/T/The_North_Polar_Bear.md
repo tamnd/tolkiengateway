@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "North Polar Bear"
 ---
 
-Redirect to [North Polar Bear](/wiki/North_Polar_Bear).
+Redirect to [North Polar Bear](../N/North_Polar_Bear.md).

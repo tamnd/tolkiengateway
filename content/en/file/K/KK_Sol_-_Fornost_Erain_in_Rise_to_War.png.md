@@ -1,6 +1,5 @@
 ---
 title: "File:KK Sol - Fornost Erain in Rise to War.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">KK Sol - Fornost Erain in Rise to War.png</span>"
 page_id: 74658
 namespace: 6
 revision_id: 439297
@@ -31,13 +30,10 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">KK Sol - Fornost Erain in Rise to War.png</span></th>
 <td class="description">
-<p>Fornost Erain, as depicted in <a href="/wiki/The_Lord_of_the_Rings:_Rise_to_War" title="The Lord of the Rings: Rise to War">The Lord of the Rings: Rise to War</a>
+<p>Fornost Erain, as depicted in <a href="../../main/T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">The Lord of the Rings: Rise to War</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>KK_Sol</td>
@@ -46,7 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.artstation.com/artwork/14rJAK" rel="noreferrer noopener" target="_blank">Artstation</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "File:War of Wrath Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of Wrath Cover.jpg</span>"
 page_id: 65178
 namespace: 6
 revision_id: 378371

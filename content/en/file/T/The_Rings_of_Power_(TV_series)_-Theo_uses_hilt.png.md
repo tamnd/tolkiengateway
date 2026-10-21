@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) -Theo uses hilt.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) -Theo uses hilt.png</span>"
 page_id: 64241
 namespace: 6
 revision_id: 412228
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Theo](/wiki/Theo) uses the hilt in image from the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Theo](../../main/T/Theo.md) uses the hilt in image from the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

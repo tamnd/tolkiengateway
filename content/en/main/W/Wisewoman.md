@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wise-woman"
 ---
 
-Redirect to [Wise-woman](/wiki/Wise-woman).
+Redirect to [Wise-woman](Wise-woman.md).

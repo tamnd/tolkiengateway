@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forums:Council"
 ---
 
-Redirect to [Forums:Council](/wiki/Forums:Council).
+Redirect to [Forums:Council](https://tolkiengateway.net/wiki/Forums:Council).

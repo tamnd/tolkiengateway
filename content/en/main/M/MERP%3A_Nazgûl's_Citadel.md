@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nazgûl's Citadel"
 ---
 
-Redirect to [Nazgûl's Citadel](/wiki/Nazgûl's_Citadel).
+Redirect to [Nazgûl's Citadel](../N/Nazgûl's_Citadel.md).

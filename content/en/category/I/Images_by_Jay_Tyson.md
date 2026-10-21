@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jay Tyson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jay Tyson</span>"
 page_id: 13736
 namespace: 14
 revision_id: 182031

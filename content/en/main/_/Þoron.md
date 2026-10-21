@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Soron"
 ---
 
-Redirect to [Soron](/wiki/Soron).
+Redirect to [Soron](../S/Soron.md).

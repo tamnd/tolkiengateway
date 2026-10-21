@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Roger Lancelyn Green"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Roger Lancelyn Green</span>"
 page_id: 68486
 namespace: 14
 revision_id: 403587
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Lancelyn Green, Roger"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Roger Lancelyn Green](/wiki/Roger_Lancelyn_Green).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Roger Lancelyn Green](../../main/R/Roger_Lancelyn_Green.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ninwi"
 ---
 
-Redirect to [Ninwi](/wiki/Ninwi).
+Redirect to [Ninwi](Ninwi.md).

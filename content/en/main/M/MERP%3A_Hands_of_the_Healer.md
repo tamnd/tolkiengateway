@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hands of the Healer"
 ---
 
-Redirect to [Hands of the Healer](/wiki/Hands_of_the_Healer).
+Redirect to [Hands of the Healer](../H/Hands_of_the_Healer.md).

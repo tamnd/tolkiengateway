@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Dragonfly.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Dragonfly.png</span>"
 page_id: 63565
 namespace: 6
 revision_id: 412268

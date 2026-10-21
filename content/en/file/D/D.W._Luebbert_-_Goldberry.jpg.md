@@ -1,6 +1,5 @@
 ---
 title: "File:D.W. Luebbert - Goldberry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">D.W. Luebbert - Goldberry.jpg</span>"
 page_id: 40365
 namespace: 6
 revision_id: 434421
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-This image is a 3D digital rendering of [a painting by the Brothers Hildebrandt.](/wiki/File:The_Brothers_Hildebrandt_-_Goldberry.jpg "File:The Brothers Hildebrandt - Goldberry.jpg") It was created by D.W. Luebbert as an educational exercise and not for monetary gain.
+This image is a 3D digital rendering of [a painting by the Brothers Hildebrandt.](../T/The_Brothers_Hildebrandt_-_Goldberry.jpg.md) It was created by D.W. Luebbert as an educational exercise and not for monetary gain.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ This image is a 3D digital rendering of [a painting by the Brothers Hildebrandt.
 </p>
 <ul><li><b>Name:</b> D.W. Luebbert</li>
 <li><b>Website:</b> <a class="external text" href="http://lueb-art.pixels.com/featured/tolkien-daydreams-dave-luebbert.html" rel="noreferrer noopener" target="_blank">D.W. Luebbert&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/D.W._Luebbert" title="Tolkien Gateway:Copyrights/D.W. Luebbert">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FD.W._Luebbert.md" title="Tolkien Gateway:Copyrights/D.W. Luebbert">Permission for use on Tolkien Gateway</a></b></li></ul></div>

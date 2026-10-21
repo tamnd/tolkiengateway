@@ -1,6 +1,5 @@
 ---
 title: "Index:Games by publisher"
-display_title: "<span class=\"mw-page-title-namespace\">Index</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games by publisher</span>"
 page_id: 28931
 namespace: 102
 revision_id: 411823
@@ -21,224 +20,222 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Index:Games_by_publisher&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Index:Games_by_publisher&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
 <p>...It is a long tale...
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../../main/A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
+</blockquote></div></div>
 
-## [Addison-Wesley](/wiki/Addison-Wesley) {#Addison-Wesley}
+## [Addison-Wesley](../../main/A/Addison-Wesley.md) {#Addison-Wesley}
 
-- [Crack of Doom Software Adventure](/wiki/Crack_of_Doom_Software_Adventure)
-- [The Hobbit Software Adventure](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)")
-- [The Fellowship of the Ring Software Adventure](/wiki/Lord_of_the_Rings:_Game_One "Lord of the Rings: Game One")
-- [The Shadows of Mordor Software Adventure](/wiki/Shadows_of_Mordor "Shadows of Mordor")
-- [The Tolkien Software Adventure Trilogy](/wiki/The_Tolkien_Trilogy#The_Tolkien_Software_Adventure_Trilogy "The Tolkien Trilogy")
+- [Crack of Doom Software Adventure](../../main/C/Crack_of_Doom_Software_Adventure.md)
+- [The Hobbit Software Adventure](<../../main/T/The_Hobbit_(1982_video_game).md>)
+- [The Fellowship of the Ring Software Adventure](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
+- [The Shadows of Mordor Software Adventure](../../main/S/Shadows_of_Mordor.md)
+- [The Tolkien Software Adventure Trilogy](../../main/T/The_Tolkien_Trilogy.md#The_Tolkien_Software_Adventure_Trilogy)
 
-## [Allsorts PBM Games](/wiki/Allsorts_PBM_Games) {#Allsorts_PBM_Games}
+## [Allsorts PBM Games](../../main/A/Allsorts_PBM_Games.md) {#Allsorts_PBM_Games}
 
-- [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)
+- [Middle-earth Play-By-Mail](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [Beau-Jolly](/wiki/Beau-Jolly) {#Beau-Jolly}
+## [Beau-Jolly](../../main/B/Beau-Jolly.md) {#Beau-Jolly}
 
-- [The Tolkien Trilogy](/wiki/The_Tolkien_Trilogy)
+- [The Tolkien Trilogy](../../main/T/The_Tolkien_Trilogy.md)
 
-## [Bergsla](/wiki/Bergsla) {#Bergsla}
+## [Bergsla](../../main/B/Bergsla.md) {#Bergsla}
 
-- [Ring of Doom / Ödesringen](</wiki/Ring_of_Doom_(video_game)> "Ring of Doom (video game)")
+- [Ring of Doom / Ödesringen](<../../main/R/Ring_of_Doom_(video_game).md>)
 
-## [Blockdot Games](/wiki/Blockdot_Games) {#Blockdot_Games}
+## [Blockdot Games](../../main/B/Blockdot_Games.md) {#Blockdot_Games}
 
-- [King Under the Mountain](</wiki/King_Under_the_Mountain_(minigame)> "King Under the Mountain (minigame)")
+- [King Under the Mountain](<../../main/K/King_Under_the_Mountain_(minigame).md>)
 
-## [Central de JOCS S.L.](/wiki/Central_de_JOCS_S.L.) {#Central_de_JOCS_S.L.}
+## [Central de JOCS S.L.](../../main/C/Central_de_JOCS_S.L..md) {#Central_de_JOCS_S.L.}
 
-- [La Tierra Media JPC](/wiki/Middle-earth_Play-By-Mail "Middle-earth Play-By-Mail")
+- [La Tierra Media JPC](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [CHAOS Productions](/wiki/CHAOS_Productions) {#CHAOS_Productions}
+## [CHAOS Productions](../../main/C/CHAOS_Productions.md) {#CHAOS_Productions}
 
-- [Lord of the Rings vol. 1](/wiki/Lord_of_the_Rings_vol._1)
+- [Lord of the Rings vol. 1](../../main/L/Lord_of_the_Rings_vol._1.md)
 
-## [Colyseo](/wiki/Colyseo) {#Colyseo}
+## [Colyseo](../../main/C/Colyseo.md) {#Colyseo}
 
-- [La Terre Du Mileu](/wiki/Middle-earth_Play-By-Mail "Middle-earth Play-By-Mail")
+- [La Terre Du Mileu](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [CRL Group PLC](/wiki/CRL_Group_PLC) {#CRL_Group_PLC}
+## [CRL Group PLC](../../main/C/CRL_Group_PLC.md) {#CRL_Group_PLC}
 
-- [The Boggit](/wiki/The_Boggit)
+- [The Boggit](../../main/T/The_Boggit.md)
 
-## [Cybexlab Software](/wiki/Cybexlab_Software) {#Cybexlab_Software}
+## [Cybexlab Software](../../main/C/Cybexlab_Software.md) {#Cybexlab_Software}
 
-- [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)")
+- [Belegost](<../../main/B/Belegost_(video_game).md>)
 
-## [DaS Production s.r.l.](/wiki/DaS_Production_s.r.l.) {#DaS_Production_s.r.l.}
+## [DaS Production s.r.l.](../../main/D/DaS_Production_s.r.l..md) {#DaS_Production_s.r.l.}
 
-- [Gioco Postale della Terra di Mezzo](/wiki/Middle-earth_Play-By-Mail "Middle-earth Play-By-Mail")
+- [Gioco Postale della Terra di Mezzo](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [Delta 4 Software](/wiki/Delta_4_Software) {#Delta_4_Software}
+## [Delta 4 Software](../../main/D/Delta_4_Software.md) {#Delta_4_Software}
 
-- [Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")
+- [Bored of the Rings](<../../main/B/Bored_of_the_Rings_(video_game).md>)
 
-## [Drachenschmeide](/wiki/Drachenschmeide) {#Drachenschmeide}
+## [Drachenschmeide](../../main/D/Drachenschmeide.md) {#Drachenschmeide}
 
-- [MittelErde Postspiel](/wiki/Middle-earth_Play-By-Mail "Middle-earth Play-By-Mail")
+- [MittelErde Postspiel](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [Dro Soft](/wiki/Dro_Soft) {#Dro_Soft}
+## [Dro Soft](../../main/D/Dro_Soft.md) {#Dro_Soft}
 
-- [War in Middle Earth](/wiki/J.R.R._Tolkien%27s_War_in_Middle_Earth "J.R.R. Tolkien's War in Middle Earth")
+- [War in Middle Earth](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
-## [Eamon](</wiki/Eamon_(video_game)> "Eamon (video game)") {#Eamon}
+## [Eamon](<../../main/E/Eamon_(video_game).md>) {#Eamon}
 
-- [Assault on Dolni Keep](/wiki/Assault_on_Dolni_Keep)
-- [The Bridge of Catzad-Dum](/wiki/The_Bridge_of_Catzad-Dum)
-- [The Forest of Fear](/wiki/The_Forest_of_Fear)
-- [Haradwaith](</wiki/Haradwaith_(video_game)> "Haradwaith (video game)")
-- [The Hunt for the Ring](</wiki/The_Hunt_for_the_Ring_(video_game)> "The Hunt for the Ring (video game)")
-- [The Iron Prison](/wiki/The_Iron_Prison)
-- [The Mines of Moria](</wiki/The_Mines_of_Moria_(video_game)> "The Mines of Moria (video game)")
-- [Quest of Erebor](</wiki/Quest_of_Erebor_(video_game)> "Quest of Erebor (video game)")
-- [Return to Moria](/wiki/Return_to_Moria)
-- [The Ring of Doom](</wiki/The_Ring_of_Doom_(video_game)> "The Ring of Doom (video game)")
-- [Thror's Ring](/wiki/Thror%27s_Ring)
+- [Assault on Dolni Keep](../../main/A/Assault_on_Dolni_Keep.md)
+- [The Bridge of Catzad-Dum](../../main/T/The_Bridge_of_Catzad-Dum.md)
+- [The Forest of Fear](../../main/T/The_Forest_of_Fear.md)
+- [Haradwaith](<../../main/H/Haradwaith_(video_game).md>)
+- [The Hunt for the Ring](<../../main/T/The_Hunt_for_the_Ring_(video_game).md>)
+- [The Iron Prison](../../main/T/The_Iron_Prison.md)
+- [The Mines of Moria](<../../main/T/The_Mines_of_Moria_(video_game).md>)
+- [Quest of Erebor](<../../main/Q/Quest_of_Erebor_(video_game).md>)
+- [Return to Moria](../../main/R/Return_to_Moria.md)
+- [The Ring of Doom](<../../main/T/The_Ring_of_Doom_(video_game).md>)
+- [Thror's Ring](../../main/T/Thror's_Ring.md)
 
-## [Electronic Arts](/wiki/Electronic_Arts) {#Electronic_Arts}
+## [Electronic Arts](../../main/E/Electronic_Arts.md) {#Electronic_Arts}
 
-- [The Lord of the Rings, Vol. I (1990)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)")
-- [The Lord of the Rings, Vol. I (1994)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(SNES)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)")
+- [The Lord of the Rings, Vol. I (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
+- [The Lord of the Rings, Vol. I (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
 
 ## <a class="extiw" href="http://en.wikipedia.org/wiki/Telecomsoft" title="wikipedia:Telecomsoft">Firebird</a> {#Firebird}
 
-- [Adventure Quest](/wiki/Adventure_Quest)
-- [Colossal Adventure](/wiki/Colossal_Adventure)
-- [Dungeon Adventure](/wiki/Dungeon_Adventure)
-- [Jewels of Darkness](/wiki/Jewels_of_Darkness)
+- [Adventure Quest](../../main/A/Adventure_Quest.md)
+- [Colossal Adventure](../../main/C/Colossal_Adventure.md)
+- [Dungeon Adventure](../../main/D/Dungeon_Adventure.md)
+- [Jewels of Darkness](../../main/J/Jewels_of_Darkness.md)
 
-## [Gad Games](/wiki/Gad_Games) {#Gad_Games}
+## [Gad Games](../../main/G/Gad_Games.md) {#Gad_Games}
 
-- [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)
+- [Middle-earth Play-By-Mail](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [Game Systems Inc.](/wiki/Game_Systems_Inc.) {#Game_Systems_Inc.}
+## [Game Systems Inc.](../../main/G/Game_Systems_Inc..md) {#Game_Systems_Inc.}
 
-- [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)
+- [Middle-earth Play-By-Mail](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [GT Interactive Software Corp.](/wiki/GT_Interactive_Software_Corp.) {#GT_Interactive_Software_Corp.}
+## [GT Interactive Software Corp.](../../main/G/GT_Interactive_Software_Corp..md) {#GT_Interactive_Software_Corp.}
 
-- [Kingdom O' Magic](/wiki/Kingdom_O%27_Magic)
+- [Kingdom O' Magic](../../main/K/Kingdom_O'_Magic.md)
 
-## [Guild Publishing](/wiki/Guild_Publishing) {#Guild_Publishing}
+## [Guild Publishing](../../main/G/Guild_Publishing.md) {#Guild_Publishing}
 
-- [Lord of the Rings: Game One](/wiki/Lord_of_the_Rings:_Game_One)
+- [Lord of the Rings: Game One](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
 
-## [Interplay Productions](/wiki/Interplay_Productions) {#Interplay_Productions}
+## [Interplay Productions](../../main/I/Interplay_Productions.md) {#Interplay_Productions}
 
-- [The Lord of the Rings &amp; The Two Towers](/wiki/The_Lord_of_the_Rings_%26_The_Two_Towers)
-- [The Lord of the Rings, Vol. I (1990)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)")
-- [The Lord of the Rings, Vol. I (1994)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(SNES)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)")
-- [The Lord of the Rings, Vol. II: The Two Towers](/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers")
+- [The Lord of the Rings &amp; The Two Towers](../../main/T/The_Lord_of_the_Rings_&_The_Two_Towers.md)
+- [The Lord of the Rings, Vol. I (1990)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)
+- [The Lord of the Rings, Vol. I (1994)](<../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)
+- [The Lord of the Rings, Vol. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
 
-## [Level 9 Computing](/wiki/Level_9_Computing) {#Level_9_Computing}
+## [Level 9 Computing](../../main/L/Level_9_Computing.md) {#Level_9_Computing}
 
-- [Adventure Quest](/wiki/Adventure_Quest)
-- [Colossal Adventure](/wiki/Colossal_Adventure)
-- [Dungeon Adventure](/wiki/Dungeon_Adventure)
-- [The Middle-Earth Trilogy](/wiki/The_Middle-Earth_Trilogy) / [Colossal Trilogy](/wiki/Colossal_Trilogy)
+- [Adventure Quest](../../main/A/Adventure_Quest.md)
+- [Colossal Adventure](../../main/C/Colossal_Adventure.md)
+- [Dungeon Adventure](../../main/D/Dungeon_Adventure.md)
+- [The Middle-Earth Trilogy](../../main/T/The_Middle-Earth_Trilogy.md) / [Colossal Trilogy](../../main/C/Colossal_Trilogy.md)
 
-## [Ketchup Games](/wiki/Ketchup_Games) {#Ketchup_Games}
+## [Ketchup Games](../../main/K/Ketchup_Games.md) {#Ketchup_Games}
 
-- [Mines of Moria](</wiki/Mines_of_Moria_(video_game)> "Mines of Moria (video game)")
-- [Mines of Moria II: The Escape Out](/wiki/Mines_of_Moria_II:_The_Escape_Out)
-- [Mines of Moria 3](/wiki/Mines_of_Moria_3)
+- [Mines of Moria](<../../main/M/Mines_of_Moria_(video_game).md>)
+- [Mines of Moria II: The Escape Out](../../main/M/Mines_of_Moria_II%253A_The_Escape_Out.md)
+- [Mines of Moria 3](../../main/M/Mines_of_Moria_3.md)
 
-## [Konami](/wiki/Konami_Corporation "Konami Corporation") {#Konami}
+## [Konami](../../main/K/Konami_Corporation.md) {#Konami}
 
-- [J.R.R. Tolkien's Riders of Rohan](/wiki/J.R.R._Tolkien%27s_Riders_of_Rohan)
+- [J.R.R. Tolkien's Riders of Rohan](../../main/J/J.R.R._Tolkien's_Riders_of_Rohan.md)
 
-## [Melbourne House](/wiki/Melbourne_House) {#Melbourne_House}
+## [Melbourne House](../../main/M/Melbourne_House.md) {#Melbourne_House}
 
-- [The Hobbit](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)")
-- [Lord of the Rings: Game One](/wiki/Lord_of_the_Rings:_Game_One)
-- [Shadows of Mordor](/wiki/Shadows_of_Mordor)
-- [War in Middle Earth](/wiki/J.R.R._Tolkien%27s_War_in_Middle_Earth "J.R.R. Tolkien's War in Middle Earth")
+- [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
+- [Lord of the Rings: Game One](../../main/L/Lord_of_the_Rings%253A_Game_One.md)
+- [Shadows of Mordor](../../main/S/Shadows_of_Mordor.md)
+- [War in Middle Earth](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
-## [Milbus Software](/wiki/Milbus_Software) {#Milbus_Software}
+## [Milbus Software](../../main/M/Milbus_Software.md) {#Milbus_Software}
 
-- [Hobbit - The True Story](/wiki/Hobbit_-_The_True_Story)
+- [Hobbit - The True Story](../../main/H/Hobbit_-_The_True_Story.md)
 
-## [Mirrosoft Ltd.](/wiki/Mirrosoft_Ltd.) {#Mirrosoft_Ltd.}
+## [Mirrosoft Ltd.](../../main/M/Mirrosoft_Ltd..md) {#Mirrosoft_Ltd.}
 
-- [J.R.R. Tolkien's Riders of Rohan](/wiki/J.R.R._Tolkien%27s_Riders_of_Rohan)
+- [J.R.R. Tolkien's Riders of Rohan](../../main/J/J.R.R._Tolkien's_Riders_of_Rohan.md)
 
-## [Muermamick Softwarradas Productiones](/wiki/Muermamick_Softwarradas_Productiones) {#Muermamick_Softwarradas_Productiones}
+## [Muermamick Softwarradas Productiones](../../main/M/Muermamick_Softwarradas_Productiones.md) {#Muermamick_Softwarradas_Productiones}
 
-- [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](</wiki/El_Se%C3%B1or_de_los_Anillos,_Parte_I:_La_Communidad_del_Anillo_(Libro_1)>)
+- [El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](<../../main/E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>)
 
-## [OCSoftware](/wiki/OCSoftware) {#OCSoftware}
+## [OCSoftware](../../main/O/OCSoftware.md) {#OCSoftware}
 
-- [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)")
+- [Belegost](<../../main/B/Belegost_(video_game).md>)
 
-## [Postern](/wiki/Postern) {#Postern}
+## [Postern](../../main/P/Postern.md) {#Postern}
 
-- [Shadowfax](/wiki/Shadowfax)
+- [Shadowfax](../../main/S/Shadowfax.md)
 
 ## <a class="extiw" href="http://en.wikipedia.org/wiki/Telecomsoft" title="wikipedia:Telecomsoft">Rainbird Software</a> {#Rainbird_Software}
 
-- [Adventure Quest](/wiki/Adventure_Quest)
-- [Colossal Adventure](/wiki/Colossal_Adventure)
-- [Dungeon Adventure](/wiki/Dungeon_Adventure)
-- [Jewels of Darkness](/wiki/Jewels_of_Darkness)
+- [Adventure Quest](../../main/A/Adventure_Quest.md)
+- [Colossal Adventure](../../main/C/Colossal_Adventure.md)
+- [Dungeon Adventure](../../main/D/Dungeon_Adventure.md)
+- [Jewels of Darkness](../../main/J/Jewels_of_Darkness.md)
 
-## [Sarassota Collectibles](/wiki/Sarassota_Collectibles) {#Sarassota_Collectibles}
+## [Sarassota Collectibles](../../main/S/Sarassota_Collectibles.md) {#Sarassota_Collectibles}
 
-- [Middle-earth: The Riddles](/wiki/Middle-earth:_The_Riddles)
+- [Middle-earth: The Riddles](../../main/M/Middle-earth%253A_The_Riddles.md)
 
-## [SCi Games Ltd.](/wiki/SCi_Games_Ltd.) {#SCi_Games_Ltd.}
+## [SCi Games Ltd.](../../main/S/SCi_Games_Ltd..md) {#SCi_Games_Ltd.}
 
-- [Kingdom O' Magic](/wiki/Kingdom_O%27_Magic)
+- [Kingdom O' Magic](../../main/K/Kingdom_O'_Magic.md)
 
-## [Severn Software](/wiki/Severn_Software) {#Severn_Software}
+## [Severn Software](../../main/S/Severn_Software.md) {#Severn_Software}
 
-- [Moria](</wiki/Moria_(video_game)> "Moria (video game)")
+- [Moria](<../../main/M/Moria_(video_game).md>)
 
-## [Silicon &amp; Synapse](/wiki/Silicon_%26_Synapse) {#Silicon_&_Synapse}
+## [Silicon &amp; Synapse](../../main/S/Silicon_&_Synapse.md) {#Silicon_&_Synapse}
 
-- [The Lord of the Rings, Vol. II: The Two Towers](/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers")
+- [The Lord of the Rings, Vol. II: The Two Towers](../../main/J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)
 
-## [Slamsoft](/wiki/Slamsoft) {#Slamsoft}
+## [Slamsoft](../../main/S/Slamsoft.md) {#Slamsoft}
 
-- [Quest For Mordor](/wiki/Quest_For_Mordor)
+- [Quest For Mordor](../../main/Q/Quest_For_Mordor.md)
 
-## [Standing Stone Games](/wiki/Standing_Stone_Games) {#Standing_Stone_Games}
+## [Standing Stone Games](../../main/S/Standing_Stone_Games.md) {#Standing_Stone_Games}
 
-- [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online) (originally released under Codemasters and Turbine)
+- [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md) (originally released under Codemasters and Turbine)
 
-## [Strategic Fantasy Games of Australia](/wiki/Strategic_Fantasy_Games_of_Australia) {#Strategic_Fantasy_Games_of_Australia}
+## [Strategic Fantasy Games of Australia](../../main/S/Strategic_Fantasy_Games_of_Australia.md) {#Strategic_Fantasy_Games_of_Australia}
 
-- [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)
+- [Middle-earth Play-By-Mail](../../main/M/Middle-earth_Play-By-Mail.md)
 
-## [Sun Microsystems](/wiki/Sun_Microsystems) {#Sun_Microsystems}
+## [Sun Microsystems](../../main/S/Sun_Microsystems.md) {#Sun_Microsystems}
 
-- [Bilbo Slider Puzzle](/wiki/Bilbo_Slider_Puzzle)
-- [Tolkien WordSearch](/wiki/Tolkien_WordSearch)
+- [Bilbo Slider Puzzle](../../main/B/Bilbo_Slider_Puzzle.md)
+- [Tolkien WordSearch](../../main/T/Tolkien_WordSearch.md)
 
-## [Synergistic Software, inc.](/wiki/Synergistic_Software,_inc.) {#Synergistic_Software,_inc.}
+## [Synergistic Software, inc.](../../main/S/Synergistic_Software,_inc..md) {#Synergistic_Software,_inc.}
 
-- [War in Middle Earth](/wiki/J.R.R._Tolkien%27s_War_in_Middle_Earth "J.R.R. Tolkien's War in Middle Earth")
+- [War in Middle Earth](../../main/J/J.R.R._Tolkien's_War_in_Middle_Earth.md)
 
-## [Tansoft](/wiki/Tansoft) {#Tansoft}
+## [Tansoft](../../main/T/Tansoft.md) {#Tansoft}
 
-- [The Hobbit](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)")
+- [The Hobbit](<../../main/T/The_Hobbit_(1982_video_game).md>)
 
-## [Tatsusoft](/wiki/Tatsusoft) {#Tatsusoft}
+## [Tatsusoft](../../main/T/Tatsusoft.md) {#Tatsusoft}
 
-- [Lord of the Rings: The Duel](</wiki/Lord_of_the_Rings:_The_Duel_(video_game)> "Lord of the Rings: The Duel (video game)")
+- [Lord of the Rings: The Duel](<../../main/L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)
 
-## [Zenobi Software](/wiki/Zenobi_Software) {#Zenobi_Software}
+## [Zenobi Software](../../main/Z/Zenobi_Software.md) {#Zenobi_Software}
 
-- [The Balrogian Trilogy](/wiki/The_Balrogian_Trilogy)
-- [The Boggit](/wiki/The_Boggit)
-- [Bulbo and the Lizard King](/wiki/Bulbo_and_the_Lizard_King)
-- [An Everyday Tale of a Seeker of Gold](/wiki/An_Everyday_Tale_of_a_Seeker_of_Gold)
-- [Fuddo and Slam](/wiki/Fuddo_and_Slam)
-- [Retarded Creatures and Caverns](/wiki/Retarded_Creatures_and_Caverns)
+- [The Balrogian Trilogy](../../main/T/The_Balrogian_Trilogy.md)
+- [The Boggit](../../main/T/The_Boggit.md)
+- [Bulbo and the Lizard King](../../main/B/Bulbo_and_the_Lizard_King.md)
+- [An Everyday Tale of a Seeker of Gold](../../main/A/An_Everyday_Tale_of_a_Seeker_of_Gold.md)
+- [Fuddo and Slam](../../main/F/Fuddo_and_Slam.md)
+- [Retarded Creatures and Caverns](../../main/R/Retarded_Creatures_and_Caverns.md)

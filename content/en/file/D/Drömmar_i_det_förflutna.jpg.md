@@ -1,6 +1,5 @@
 ---
 title: "File:Drömmar i det förflutna.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Drömmar i det förflutna.jpg</span>"
 page_id: 27220
 namespace: 6
 revision_id: 214180

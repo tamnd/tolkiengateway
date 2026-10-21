@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Nazgûl of Minas Morgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Nazgûl of Minas Morgul.jpg</span>"
 page_id: 71639
 namespace: 6
 revision_id: 427011
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Nazgûl](/wiki/Nazg%C3%BBl) of [Minas Morgul](/wiki/Minas_Morgul)" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray")
+"[Nazgûl](../../main/N/Nazgûl.md) of [Minas Morgul](../../main/M/Minas_Morgul.md)" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Saruman.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Saruman.png</span>"
 page_id: 71446
 namespace: 6
 revision_id: 426041
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Saruman](/wiki/Saruman) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Saruman](../../main/S/Saruman.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

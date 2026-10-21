@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Project"
 ---
 
-Redirect to [The Lord of the Rings Project](/wiki/The_Lord_of_the_Rings_Project).
+Redirect to [The Lord of the Rings Project](../T/The_Lord_of_the_Rings_Project.md).

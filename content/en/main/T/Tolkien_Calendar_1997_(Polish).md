@@ -15,9 +15,9 @@ images:
   - "Tolkien_Calendar_1997_(Polish).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Tolkien_Calendar_1997_(Polish).jpg"><img src="/w/images/7/7b/Tolkien_Calendar_1997_%28Polish%29.jpg" decoding="async" loading="lazy" width="244" height="350" class="mw-file-element" data-file-width="244" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_1997_(Polish).jpg.md"><img src="https://tolkiengateway.net/w/images/7/7b/Tolkien_Calendar_1997_%28Polish%29.jpg" decoding="async" loading="lazy" width="244" height="350" class="mw-file-element" data-file-width="244" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-The **Tolkien Calendar 1997** was published by the [Polish Tolkien Society](/wiki/Polish_Tolkien_Society) and features pen and ink illustrations as well as dates by various reckonings.
+The **Tolkien Calendar 1997** was published by the [Polish Tolkien Society](../P/Polish_Tolkien_Society.md) and features pen and ink illustrations as well as dates by various reckonings.
 
 - Dimensions: 11 3/4 x 16 1/2 inches
 - Clear plastic sheet over half of cover

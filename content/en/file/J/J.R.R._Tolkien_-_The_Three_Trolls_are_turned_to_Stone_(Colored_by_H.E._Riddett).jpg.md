@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Three Trolls are turned to Stone (Colored by H.E. Riddett).jpg</span>"
 page_id: 5467
 namespace: 6
 revision_id: 430707
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-The original black and white version was created by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) for [The Hobbit](/wiki/The_Hobbit) and this version was coloured by H. E. Riddett for [The J.R.R. Tolkien Calendar 1979](/wiki/The_J.R.R._Tolkien_Calendar_1979)
+The original black and white version was created by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) for [The Hobbit](../../main/T/The_Hobbit.md) and this version was coloured by H. E. Riddett for [The J.R.R. Tolkien Calendar 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md)
 
 ## Licensing {#Licensing}
 

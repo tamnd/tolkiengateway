@@ -1,6 +1,5 @@
 ---
 title: "File:Wootton Major 1990 paperback.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wootton Major 1990 paperback.png</span>"
 page_id: 61902
 namespace: 6
 revision_id: 361709

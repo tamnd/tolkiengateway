@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Míriel"
 ---
 
-Redirect to [Tar-Míriel](/wiki/Tar-Míriel).
+Redirect to [Tar-Míriel](Tar-Míriel.md).

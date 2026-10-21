@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by John Alvin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by John Alvin</span>"
 page_id: 18155
 namespace: 14
 revision_id: 182040
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Alvin, John"
 ---
 
-This category lists all **images by [John Alvin](/wiki/John_Alvin)**.
+This category lists all **images by [John Alvin](../../main/J/John_Alvin.md)**.

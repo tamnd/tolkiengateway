@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angbor"
 ---
 
-Redirect to [Angbor](/wiki/Angbor).
+Redirect to [Angbor](Angbor.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Valleys"
 ---
 
-Redirect to [Category:Valleys](/wiki/Category:Valleys).
+Redirect to [Category:Valleys](../../category/V/Valleys.md).

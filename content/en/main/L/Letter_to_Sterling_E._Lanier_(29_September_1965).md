@@ -15,20 +15,20 @@ sort_keys:
   "Letters": "Sterling E. Lanier, John (1965-09-29)"
 ---
 
-On [29 September](/wiki/29_September) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to Sterling E. Lanier**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [29 September](../_/29_September.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to Sterling E. Lanier**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Contents:** Tolkien thanks Lanier for sending him a copy of <a class="extiw" href="http://en.wikipedia.org/wiki/Frank_Herbert" title="wikipedia:Frank Herbert">Frank Herbert</a>'s novel <a class="extiw" href="http://en.wikipedia.org/wiki/Dune_(novel)" title="wikipedia:Dune (novel)"><i>Dune</i></a>. Tolkien writes that he will not have time to read the novel until next time he gets a vacation.
 - **Publication:** A quotation from the letter was published in *Tolkien's Library: An Annotated Checklist*.
 
 ## See also {#See_also}
 
-- [Letter to John Bush (12 March 1966)](</wiki/Letter_to_John_Bush_(12_March_1966)>)
+- [Letter to John Bush (12 March 1966)](<Letter_to_John_Bush_(12_March_1966).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Oronzo Cilli, <i><a href="/wiki/Tolkien%27s_Library:_An_Annotated_Checklist" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library: An Annotated Checklist</a></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Oronzo Cilli, <i><a href="../T/Tolkien&#39;s_Library%253A_An_Annotated_Checklist.md" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library: An Annotated Checklist</a></i></span>
 </li>
 </ol></div>

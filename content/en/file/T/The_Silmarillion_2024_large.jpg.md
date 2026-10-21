@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Silmarillion 2025 large.jpg"
 ---
 
-Redirect to [File:The Silmarillion 2025 large.jpg](/wiki/File:The_Silmarillion_2025_large.jpg).
+Redirect to [File:The Silmarillion 2025 large.jpg](The_Silmarillion_2025_large.jpg.md).

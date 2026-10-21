@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hardang"
 ---
 
-Redirect to [Hardang](/wiki/Hardang).
+Redirect to [Hardang](Hardang.md).

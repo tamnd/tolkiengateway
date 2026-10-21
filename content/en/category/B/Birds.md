@@ -1,6 +1,5 @@
 ---
 title: "Category:Birds"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Birds</span>"
 page_id: 11459
 namespace: 14
 revision_id: 30073

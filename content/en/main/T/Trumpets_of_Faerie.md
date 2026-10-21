@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Trumpets of Faerie"
 ---
 
-Redirect to [The Trumpets of Faerie](/wiki/The_Trumpets_of_Faerie).
+Redirect to [The Trumpets of Faerie](The_Trumpets_of_Faerie.md).

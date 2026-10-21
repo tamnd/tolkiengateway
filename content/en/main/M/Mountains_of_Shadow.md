@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Shadow (disambiguation)"
 ---
 
-Redirect to [Mountains of Shadow (disambiguation)](/wiki/Mountains_of_Shadow_(disambiguation)).
+Redirect to [Mountains of Shadow (disambiguation)](<Mountains_of_Shadow_(disambiguation).md>).

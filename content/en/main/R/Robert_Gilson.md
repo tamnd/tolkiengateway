@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Robert Quilter Gilson"
 ---
 
-Redirect to [Robert Quilter Gilson](/wiki/Robert_Quilter_Gilson).
+Redirect to [Robert Quilter Gilson](Robert_Quilter_Gilson.md).

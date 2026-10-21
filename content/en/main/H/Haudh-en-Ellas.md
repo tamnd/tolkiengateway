@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haudh-en-Elleth"
 ---
 
-Redirect to [Haudh-en-Elleth](/wiki/Haudh-en-Elleth).
+Redirect to [Haudh-en-Elleth](Haudh-en-Elleth.md).

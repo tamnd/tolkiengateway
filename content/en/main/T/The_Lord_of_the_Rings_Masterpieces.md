@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings Masterpieces"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Masterpieces</span>"
 page_id: 12186
 namespace: 0
 revision_id: 191131
@@ -28,8 +27,8 @@ categories:
 - Renae De Liz (50)
 - Thomas Denmark (xxx)
 - Otto Dieffenbach (100)
-- [Ray Dillon](/wiki/Ray_Dillon) (50)
-- [Colleen Doran](/wiki/Colleen_Doran) (200)
+- [Ray Dillon](../R/Ray_Dillon.md) (50)
+- [Colleen Doran](../C/Colleen_Doran.md) (200)
 - Dave Dorman (xxx)
 - Michael Duron (206)
 - Brent Engstrom (xxx)
@@ -40,7 +39,7 @@ categories:
 - Otis Frampton (100)
 - Tess Fowler (xxx)
 - Matthew Goodmanson (400)
-- [Grant Gould](/wiki/Grant_Gould) (100)
+- [Grant Gould](../G/Grant_Gould.md) (100)
 - Kevin Graham (356)
 - Paul Gutierrez (200)
 - Patrick Hamill (206)

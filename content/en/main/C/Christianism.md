@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christianity"
 ---
 
-Redirect to [Christianity](/wiki/Christianity).
+Redirect to [Christianity](Christianity.md).

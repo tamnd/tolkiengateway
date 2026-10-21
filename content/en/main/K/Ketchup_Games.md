@@ -1,6 +1,5 @@
 ---
 title: "Ketchup Games"
-display_title: "<span class=\"mw-page-title-main\">Ketchup Games</span>"
 page_id: 28123
 namespace: 0
 revision_id: 150052
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Ketchup Games** was the company that published the trilogy [Mines of Moria](</wiki/Mines_of_Moria_(video_game_series)> "Mines of Moria (video game series)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ketchup Games** was the company that published the trilogy [Mines of Moria](<../M/Mines_of_Moria_(video_game_series).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

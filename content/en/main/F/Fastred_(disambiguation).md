@@ -1,6 +1,5 @@
 ---
 title: "Fastred (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Fastred (disambiguation)</span>"
 page_id: 18115
 namespace: 0
 revision_id: 330068
@@ -26,15 +25,15 @@ images:
 
 **Fastred** ("Firm counsel") can refer to the following characters:
 
-- [Fastred](</wiki/Fastred_(son_of_Folcwine)> "Fastred (son of Folcwine)") (died [T.A.](/wiki/Third_Age "Third Age") [2885](/wiki/Third_Age_2885 "Third Age 2885")), son of [King](/wiki/Kings_of_Rohan "Kings of Rohan") [Folcwine](/wiki/Folcwine) of [Rohan](/wiki/Rohan) who, with his twin-brother [Folcred](/wiki/Folcred), fell at the [Fords of Poros](/wiki/Crossings_of_Poros "Crossings of Poros").
-- [Fastred](</wiki/Fastred_(rider_of_Rohan)> "Fastred (rider of Rohan)") (died [T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019")), a knight of [Théoden](/wiki/Th%C3%A9oden)'s house who fell in the [Battle of Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields "Battle of the Pelennor Fields").
-- [Fastred of Greenholm](/wiki/Fastred_of_Greenholm) ([Fourth Age](/wiki/Fourth_Age)), the first [Warden of Westmarch](/wiki/Warden_of_Westmarch) and the husband of [Elanor Gardner](/wiki/Elanor_Gardner),with whom he was ancestor of the [Fairbairns](/wiki/Fairbairn_Family "Fairbairn Family").
+- [Fastred](<Fastred_(son_of_Folcwine).md>) (died [T.A.](../T/Third_Age.md) [2885](../T/Third_Age_2885.md)), son of [King](../K/Kings_of_Rohan.md) [Folcwine](Folcwine.md) of [Rohan](../R/Rohan.md) who, with his twin-brother [Folcred](Folcred.md), fell at the [Fords of Poros](../C/Crossings_of_Poros.md).
+- [Fastred](<Fastred_(rider_of_Rohan).md>) (died [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), a knight of [Théoden](../T/Théoden.md)'s house who fell in the [Battle of Pelennor Fields](../B/Battle_of_the_Pelennor_Fields.md).
+- [Fastred of Greenholm](Fastred_of_Greenholm.md) ([Fourth Age](Fourth_Age.md)), the first [Warden of Westmarch](../W/Warden_of_Westmarch.md) and the husband of [Elanor Gardner](../E/Elanor_Gardner.md),with whom he was ancestor of the [Fairbairns](Fairbairn_Family~66364.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Fastred_(disambiguation)" title="Special:WhatLinksHere/:Fastred (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Fastred_(disambiguation)" title="Special:WhatLinksHere/:Fastred (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

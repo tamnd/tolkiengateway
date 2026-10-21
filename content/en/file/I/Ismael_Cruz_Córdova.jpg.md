@@ -1,6 +1,5 @@
 ---
 title: "File:Ismael Cruz Córdova.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ismael Cruz Córdova.jpg</span>"
 page_id: 64373
 namespace: 6
 revision_id: 434522
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.alamy.com/stock-photo-ismael-cruz-cordova-at-arrivals-for-billy-lynns-long-halftime-walk-123292979.html" rel="noreferrer noopener" target="_blank">Alamy</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "File:Dimitri Bielak - Skinbark.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dimitri Bielak - Skinbark.jpg</span>"
 page_id: 74325
 namespace: 6
 revision_id: 437903
@@ -36,25 +35,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Dimitri Bielak - Skinbark.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Skinbark" title="Skinbark">Skinbark</a>. Created for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Land of Shadow</i>
+<p><a href="../../main/S/Skinbark.md" title="Skinbark">Skinbark</a>. Created for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Land of Shadow</i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/19_November" title="19 November">19 November</a> <a href="/wiki/2015" title="2015">2015</a></td>
+<td><a href="../../main/_/19_November.md" title="19 November">19 November</a> <a href="../../main/_/2015.md" title="2015">2015</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=Dimitri_Bielak&amp;action=edit&amp;redlink=1" title="Dimitri Bielak (page does not exist)">Dimitri Bielak</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dimitri_Bielak&amp;action=edit&amp;redlink=1" title="Dimitri Bielak (page does not exist)">Dimitri Bielak</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://bielakdimitri.canalblog.com/archives/2015/10/29/32848470.html" rel="noreferrer noopener" target="_blank">https://bielakdimitri.canalblog.com/archives/2015/10/29/32848470.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

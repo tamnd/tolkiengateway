@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: The Battle of the Five Armies"
 ---
 
-Redirect to [The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies).
+Redirect to [The Hobbit: The Battle of the Five Armies](The_Hobbit%253A_The_Battle_of_the_Five_Armies.md).

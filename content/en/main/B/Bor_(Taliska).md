@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bor (Halethian)"
 ---
 
-Redirect to [Bor (Halethian)](/wiki/Bor_(Halethian)).
+Redirect to [Bor (Halethian)](<Bor_(Halethian).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Felix Sotomayor - Noldo Guard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Felix Sotomayor - Noldo Guard.jpg</span>"
 page_id: 73507
 namespace: 6
 revision_id: 434488
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Noldo](/wiki/Noldor "Noldor") Warrior" by [Felix Sotomayor](/wiki/Felix_Sotomayor)
+"[Noldo](../../main/N/Noldor.md) Warrior" by [Felix Sotomayor](../../main/F/Felix_Sotomayor.md)
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Felix Sotomayor</li>
 <li><b>Website:</b> <a class="external text" href="http://www.sotomayorilustracion.blogspot.com/" rel="noreferrer noopener" target="_blank">Felix Sotomayor&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Felix_Sotomayor" title="Tolkien Gateway:Copyrights/Felix Sotomayor">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFelix_Sotomayor.md" title="Tolkien Gateway:Copyrights/Felix Sotomayor">Permission for use on Tolkien Gateway</a></b></li></ul></div>

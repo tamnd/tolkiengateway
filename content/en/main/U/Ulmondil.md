@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tuor"
 ---
 
-Redirect to [Tuor](/wiki/Tuor).
+Redirect to [Tuor](../T/Tuor.md).

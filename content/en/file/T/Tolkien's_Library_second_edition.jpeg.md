@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Tolkien's Library 2023.jpeg"
 ---
 
-Redirect to [File:Tolkien's Library 2023.jpeg](/wiki/File:Tolkien's_Library_2023.jpeg).
+Redirect to [File:Tolkien's Library 2023.jpeg](Tolkien's_Library_2023.jpeg.md).

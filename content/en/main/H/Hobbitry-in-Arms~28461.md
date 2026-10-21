@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbitry-in-arms"
 ---
 
-Redirect to [Hobbitry-in-arms](/wiki/Hobbitry-in-arms).
+Redirect to [Hobbitry-in-arms](Hobbitry-in-arms.md).

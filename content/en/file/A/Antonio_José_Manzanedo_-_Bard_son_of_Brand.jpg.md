@@ -1,6 +1,5 @@
 ---
 title: "File:Antonio José Manzanedo - Bard son of Brand.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Antonio José Manzanedo - Bard son of Brand.jpg</span>"
 page_id: 71081
 namespace: 6
 revision_id: 424442
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bard](/wiki/Bard_II "Bard II") son of [Brand](/wiki/Brand)- *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Wilds of Rhovanion* illustration by Antonio José Manzanedo
+[Bard](../../main/B/Bard_II.md) son of [Brand](../../main/B/Brand.md)- *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Wilds of Rhovanion* illustration by Antonio José Manzanedo
 
 ## Licensing {#Licensing}
 

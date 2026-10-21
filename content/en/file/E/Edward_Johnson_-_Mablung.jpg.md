@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Johnson - Mablung.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Johnson - Mablung.jpg</span>"
 page_id: 29866
 namespace: 6
 revision_id: 204564

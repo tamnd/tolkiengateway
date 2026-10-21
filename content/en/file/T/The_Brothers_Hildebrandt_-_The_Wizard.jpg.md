@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Wizard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Wizard.jpg</span>"
 page_id: 71586
 namespace: 6
 revision_id: 426861
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Wizard](/wiki/Gandalf "Gandalf")" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Created as a commission in July [2006](/wiki/2006)
+"[The Wizard](../../main/G/Gandalf.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created as a commission in July [2006](../../main/_/2006.md)
 
 ## Licensing {#Licensing}
 

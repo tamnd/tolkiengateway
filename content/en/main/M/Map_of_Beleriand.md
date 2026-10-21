@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Map of Beleriand and the Lands to the North"
 ---
 
-Redirect to [Map of Beleriand and the Lands to the North](/wiki/Map_of_Beleriand_and_the_Lands_to_the_North).
+Redirect to [Map of Beleriand and the Lands to the North](Map_of_Beleriand_and_the_Lands_to_the_North.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Variags"
 ---
 
-Redirect to [Variags](/wiki/Variags).
+Redirect to [Variags](Variags.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinice"
 ---
 
-Redirect to [Vinice](/wiki/Vinice).
+Redirect to [Vinice](Vinice.md).

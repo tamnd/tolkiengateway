@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolman Cotton (disambiguation)"
 ---
 
-Redirect to [Tolman Cotton (disambiguation)](/wiki/Tolman_Cotton_(disambiguation)).
+Redirect to [Tolman Cotton (disambiguation)](<Tolman_Cotton_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Passes"
 ---
 
-Redirect to [Category:Passes](/wiki/Category:Passes).
+Redirect to [Category:Passes](../../category/P/Passes.md).

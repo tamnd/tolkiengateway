@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Chechula Čupová"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Chechula Čupová</span>"
 page_id: 70472
 namespace: 14
 revision_id: 419998

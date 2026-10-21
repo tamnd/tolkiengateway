@@ -1,6 +1,5 @@
 ---
 title: "File:Mythmaker J.R.R. Tolkien (1998).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythmaker J.R.R. Tolkien (1998).jpg</span>"
 page_id: 28914
 namespace: 6
 revision_id: 214558

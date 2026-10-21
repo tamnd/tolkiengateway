@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelion"
 ---
 
-Redirect to [Gelion](/wiki/Gelion).
+Redirect to [Gelion](Gelion.md).

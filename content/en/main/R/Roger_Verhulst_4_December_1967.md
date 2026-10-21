@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Roger Verhulst (4 December 1967)"
 ---
 
-Redirect to [Letter to Roger Verhulst (4 December 1967)](/wiki/Letter_to_Roger_Verhulst_(4_December_1967)).
+Redirect to [Letter to Roger Verhulst (4 December 1967)](<../L/Letter_to_Roger_Verhulst_(4_December_1967).md>).

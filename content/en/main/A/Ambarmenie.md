@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ambarmenië"
 ---
 
-Redirect to [Ambarmenië](/wiki/Ambarmenië).
+Redirect to [Ambarmenië](Ambarmenië.md).

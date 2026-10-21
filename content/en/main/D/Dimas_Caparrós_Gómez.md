@@ -1,6 +1,5 @@
 ---
 title: "Dimas Caparrós Gómez"
-display_title: "<span class=\"mw-page-title-main\">Dimas Caparrós Gómez</span>"
 page_id: 27746
 namespace: 0
 revision_id: 405240
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Caparros Gomez, Dimas"
 ---
 
-**Dimas Caparrós Gómez** is a Spanish game designer and founder of the (now defunct) Dimassoft. He wrote and designed *[El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](</wiki/El_Se%C3%B1or_de_los_Anillos,_Parte_I:_La_Communidad_del_Anillo_(Libro_1)>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Dimas Caparrós Gómez** is a Spanish game designer and founder of the (now defunct) Dimassoft. He wrote and designed *[El Señor de los Anillos, Parte I: La Communidad del Anillo (Libro 1)](<../E/El_Señor_de_los_Anillos,_Parte_I%253A_La_Communidad_del_Anillo_(Libro_1).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

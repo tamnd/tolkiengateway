@@ -1,6 +1,5 @@
 ---
 title: "Letter to the War Office"
-display_title: "<span class=\"mw-page-title-main\">Letter to the War Office</span>"
 page_id: 40734
 namespace: 0
 revision_id: 416278
@@ -17,9 +16,9 @@ images:
   - "War_Office_2_January_1917.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:War_Office_2_January_1917.jpg"><img src="/w/images/thumb/2/23/War_Office_2_January_1917.jpg/300px-War_Office_2_January_1917.jpg" decoding="async" loading="lazy" width="300" height="336" class="mw-file-element" srcset="/w/images/2/23/War_Office_2_January_1917.jpg 1.5x" data-file-width="414" data-file-height="464"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_Office_2_January_1917.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/War_Office_2_January_1917.jpg/300px-War_Office_2_January_1917.jpg" decoding="async" loading="lazy" width="300" height="336" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/23/War_Office_2_January_1917.jpg 1.5x" data-file-width="414" data-file-height="464"/></a><figcaption></figcaption></figure>
 
-On [2 January](/wiki/2_January) [1917](/wiki/1917), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a class="mw-redirect" href="/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">a letter</a> to the <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">War Office</a></b>.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [2 January](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote <b><a class="mw-redirect" href="Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md" title="Letters not published in &#34;The Letters of J.R.R. Tolkien&#34;">a letter</a> to the <a class="extiw" href="http://en.wikipedia.org/wiki/War_Office" title="wikipedia:War Office">War Office</a></b>.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 - **Subject:** Tolkien declares himself fit to report for duty.
 
@@ -30,11 +29,9 @@ On [2 January](/wiki/2_January) [1917](/wiki/1917), [J.R.R. Tolkien](/wiki/J.R.R
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- [War Office form 22 November 1916](/wiki/War_Office_form_22_November_1916)
+- [War Office form 22 November 1916](../W/War_Office_form_22_November_1916.md)
 
 ## External links {#External_links}
 
@@ -46,6 +43,6 @@ On [2 January](/wiki/2_January) [1917](/wiki/1917), [J.R.R. Tolkien](/wiki/J.R.R
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 98</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 98</span>
 </li>
 </ol></div>

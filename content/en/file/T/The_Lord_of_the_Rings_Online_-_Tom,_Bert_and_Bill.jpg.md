@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Tom, Bert and Bill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Tom, Bert and Bill.jpg</span>"
 page_id: 39168
 namespace: 6
 revision_id: 296747
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="mw-redirect mw-disambig" href="/wiki/Tom" title="Tom">Tom</a>, [Bert](/wiki/Bert), [William Huggins](/wiki/William "William") as they appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+<a class="mw-redirect mw-disambig" href="../../main/T/Tom.md" title="Tom">Tom</a>, [Bert](../../main/B/Bert.md), [William Huggins](../../main/W/William.md) as they appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

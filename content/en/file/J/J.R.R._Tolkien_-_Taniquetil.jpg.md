@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg"
 ---
 
-Redirect to [File:J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg](/wiki/File:J.R.R._Tolkien_-_Halls_of_Manwe_on_the_Mountains_of_the_World_above_Faerie.jpg).
+Redirect to [File:J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg](J.R.R._Tolkien_-_Halls_of_Manwe_on_the_Mountains_of_the_World_above_Faerie.jpg.md).

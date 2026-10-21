@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Gollum's Treachery.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Gollum&#039;s Treachery.png</span>"
 page_id: 63318
 namespace: 6
 revision_id: 359293
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Sam discovers Gollum's treachery. A still taken from [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+Sam discovers Gollum's treachery. A still taken from [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

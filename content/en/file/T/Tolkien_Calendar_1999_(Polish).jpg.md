@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Calendar 1999 (Polish).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Calendar 1999 (Polish).jpg</span>"
 page_id: 6713
 namespace: 6
 revision_id: 215580

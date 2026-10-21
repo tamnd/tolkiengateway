@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prologue (disambiguation)"
 ---
 
-Redirect to [Prologue (disambiguation)](/wiki/Prologue_(disambiguation)).
+Redirect to [Prologue (disambiguation)](<Prologue_(disambiguation).md>).

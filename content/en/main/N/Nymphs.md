@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mermaids"
 ---
 
-Redirect to [Mermaids](/wiki/Mermaids).
+Redirect to [Mermaids](../M/Mermaids.md).

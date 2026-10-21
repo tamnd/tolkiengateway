@@ -1,6 +1,5 @@
 ---
 title: "Khazad-Dûm Pt.1 (Ages of Mithril)"
-display_title: "<span class=\"mw-page-title-main\">Khazad-Dûm Pt.1 (Ages of Mithril)</span>"
 page_id: 22321
 namespace: 0
 revision_id: 81394
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Khazad-Dûm Pt.1 (Ages of Mithril)</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their first full-lenght album, [...Where the Shadows Lie](/wiki/...Where_the_Shadows_Lie), released in [2002](/wiki/2002).
+<i><b>Khazad-Dûm Pt.1 (Ages of Mithril)</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their first full-lenght album, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), released in [2002](../_/2002.md).
 
 ## Lyrics {#Lyrics}
 

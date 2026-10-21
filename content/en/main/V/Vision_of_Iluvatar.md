@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vision of Ilúvatar"
 ---
 
-Redirect to [Vision of Ilúvatar](/wiki/Vision_of_Ilúvatar).
+Redirect to [Vision of Ilúvatar](Vision_of_Ilúvatar.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:A Middle English Reader and Vocabulary.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Middle English Reader and Vocabulary.jpeg</span>"
 page_id: 65836
 namespace: 6
 revision_id: 379462

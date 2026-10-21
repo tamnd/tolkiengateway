@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorhendad Oldbuck"
 ---
 
-Redirect to [Gorhendad Oldbuck](/wiki/Gorhendad_Oldbuck).
+Redirect to [Gorhendad Oldbuck](Gorhendad_Oldbuck.md).

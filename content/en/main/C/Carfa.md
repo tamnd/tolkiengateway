@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-**carfa** is a verb meaning "to talk" in [Sindarin](/wiki/Sindarin).
+**carfa** is a verb meaning "to talk" in [Sindarin](../S/Sindarin.md).
 
 ## Other forms {#Other_forms}
 
@@ -22,4 +22,4 @@ categories:
 
 ## References {#References}
 
-- [Parma Eldalamberon 17](/wiki/Parma_Eldalamberon_17)
+- [Parma Eldalamberon 17](../P/Parma_Eldalamberon_17.md)

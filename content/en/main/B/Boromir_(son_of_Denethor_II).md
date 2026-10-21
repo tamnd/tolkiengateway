@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boromir"
 ---
 
-Redirect to [Boromir](/wiki/Boromir).
+Redirect to [Boromir](Boromir.md).

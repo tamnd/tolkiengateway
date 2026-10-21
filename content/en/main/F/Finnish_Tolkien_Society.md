@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Suomen Tolkien-seura Kontu ry."
 ---
 
-Redirect to [Suomen Tolkien-seura Kontu ry.](/wiki/Suomen_Tolkien-seura_Kontu_ry.).
+Redirect to [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md).

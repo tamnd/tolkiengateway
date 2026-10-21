@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annals of Valinor"
 ---
 
-Redirect to [Annals of Valinor](/wiki/Annals_of_Valinor).
+Redirect to [Annals of Valinor](../A/Annals_of_Valinor.md).

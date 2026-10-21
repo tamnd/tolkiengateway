@@ -29,16 +29,14 @@ infobox:
     value: "978-2-3642400-63"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, trente ans après</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="/wiki/Vincent_Ferr%C3%A9" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Christian Bourgois éditeur</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="/wiki/Special:BookSources/978-2-3642400-63" title="Special:BookSources/978-2-3642400-63">978-2-3642400-63</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien, trente ans après</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Vincent_Ferré.md" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Christian Bourgois éditeur</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">393</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-2-3642400-63" title="Special:BookSources/978-2-3642400-63">978-2-3642400-63</a></td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**Tolkien, trente ans après** 1973-2003 ("Tolkien thirty years later") is a collection of scholarly essays in French on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), thirty years later after the death of the author.
+**Tolkien, trente ans après** 1973-2003 ("Tolkien thirty years later") is a collection of scholarly essays in French on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), thirty years later after the death of the author.
 
 ## Contents {#Contents}
 
 - Introduction
-- La réception de J.R.R. Tolkien en France, 1973-2003: quelques repères ([Vincent Ferré](/wiki/Vincent_Ferr%C3%A9))
+- La réception de J.R.R. Tolkien en France, 1973-2003: quelques repères ([Vincent Ferré](../V/Vincent_Ferré.md))
 - Entretien avec l'éditeur français de J.R.R. Tolkien (Christian Bourgois)
 
 **I. Confluences**
@@ -52,16 +50,16 @@ infobox:
 **II. L'arbre et ses branches**
 
 - &#8203;
-    - De l'occidentalien à l'anglais moderne: le traducteur et le réseau de langages tolkienien ([Thomas Honegger](/wiki/Thomas_Honegger))
-    - Rétablir le mythe: le statut des textes de l'Histoire de la Terre du Milieu ([Michaël Devaux](/wiki/Micha%C3%ABl_Devaux))
+    - De l'occidentalien à l'anglais moderne: le traducteur et le réseau de langages tolkienien ([Thomas Honegger](Thomas_Honegger.md))
+    - Rétablir le mythe: le statut des textes de l'Histoire de la Terre du Milieu ([Michaël Devaux](../M/Michaël_Devaux.md))
     - Feuille, de Niggle, image dans le tapis de la Faërie? (Jérôme Bouron)
 
 **III. «L'Ombre noire»**
 
 - &#8203;
-    - Orques, Spectres de l'Anneau et Êtres-des-Galgals: les représentations du Mal chez Tolkien ([Tom Shippey](/wiki/Tom_Shippey))
+    - Orques, Spectres de l'Anneau et Êtres-des-Galgals: les représentations du Mal chez Tolkien ([Tom Shippey](Tom_Shippey.md))
     - Les frontières du Mal dans le Seigneur des Anneaux (Fabienne Claire Caland)
-    - Frodo et Aragorn: le concept du héros ([Verlyn Flieger](/wiki/Verlyn_Flieger))
+    - Frodo et Aragorn: le concept du héros ([Verlyn Flieger](../V/Verlyn_Flieger.md))
     - Tolkien et le racisme (Guido Semprini)
 
 **IV. Tolkien et les arts**
@@ -70,7 +68,7 @@ infobox:
     - Puissances de la grisaille et enfance perdue. Allers et retours entre Tolkien et son adaptation par Peter Jackson (Hervé Aubron)
     - La Communauté de l'Anneau, de J.R.R. Tolkien à P. Jackson: Une exécution ratée? (Jean Cléder)
     - Entretien avec John Howe
-    - La Terre du Milieu et les royaumes voisins: de l'influence de Tolkien sur les cycles de Fantasy contemporains ([Anne Besson](/wiki/Anne_Besson))
+    - La Terre du Milieu et les royaumes voisins: de l'influence de Tolkien sur les cycles de Fantasy contemporains ([Anne Besson](../A/Anne_Besson.md))
 
 ## From the publisher {#From_the_publisher}
 

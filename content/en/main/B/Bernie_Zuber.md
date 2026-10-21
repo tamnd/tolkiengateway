@@ -1,6 +1,5 @@
 ---
 title: "Bernie Zuber"
-display_title: "<span class=\"mw-page-title-main\">Bernie Zuber</span>"
 page_id: 37637
 namespace: 0
 revision_id: 247482
@@ -21,12 +20,12 @@ sort_keys:
   "People by name": "Zuber, Bernie"
 ---
 
-**Bernie Zuber** ([1933](/wiki/1933)-[2005](/wiki/2005)) was an author, artist and [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") [fan](/wiki/Tolkien_fandom "Tolkien fandom"), involved in several Tolkien-related projects.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He founded The Tolkien Fellowships and was editor and publisher of its journal *The Westmarch Chronicle*. He also acted as co-director (with his wife Teny) of fan relations in order to promote [Ralph Bakshi](/wiki/Ralph_Bakshi)'s [*The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Bernie Zuber** ([1933](../_/1933.md)-[2005](../_/2005.md)) was an author, artist and [Tolkien](../J/J.R.R._Tolkien.md) [fan](../T/Tolkien_fandom.md), involved in several Tolkien-related projects.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He founded The Tolkien Fellowships and was editor and publisher of its journal *The Westmarch Chronicle*. He also acted as co-director (with his wife Teny) of fan relations in order to promote [Ralph Bakshi](../R/Ralph_Bakshi.md)'s [*The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bibliography {#Bibliography}
 
-- [1973](/wiki/1973): "Across the Brandywine", in [*Mythlore* 9](/wiki/Mythlore_9 "Mythlore 9")
-- [1979](/wiki/1979): *[The Tolkien Quiz Book](</wiki/The_Tolkien_Quiz_Book_(by_Bart_Andrews)> "The Tolkien Quiz Book (by Bart Andrews)")* (with Bart Andrews)
+- [1973](../_/1973.md): "Across the Brandywine", in [*Mythlore* 9](../M/Mythlore_9.md)
+- [1979](../_/1979.md): *[The Tolkien Quiz Book](<../T/The_Tolkien_Quiz_Book_(by_Bart_Andrews).md>)* (with Bart Andrews)
 
 ## External links {#External_links}
 
@@ -39,6 +38,6 @@ sort_keys:
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Victor Koman, <a class="external text" href="http://komansense.blogspot.com/2005/10/bernie-zuber-1933-2005.html" rel="noreferrer noopener" target="_blank">Bernie Zuber • 1933-2005</a> at <a class="external text" href="http://komansense.blogspot.com/" rel="noreferrer noopener" target="_blank">Komansense.blogspot.com</a> (accessed 30 December 2011)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Bart Andrews, &#34;Notes from Middle-Hollywood&#34;, in <i><a href="/wiki/The_Tolkien_Quiz_Book_(by_Bart_Andrews)" title="The Tolkien Quiz Book (by Bart Andrews)">The Tolkien Quiz Book</a></i></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Bart Andrews, &#34;Notes from Middle-Hollywood&#34;, in <i><a href="../T/The_Tolkien_Quiz_Book_(by_Bart_Andrews).md" title="The Tolkien Quiz Book (by Bart Andrews)">The Tolkien Quiz Book</a></i></span>
 </li>
 </ol></div>

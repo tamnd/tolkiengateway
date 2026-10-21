@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:David Rapoza - Isengard Destroyed.jpg"
 ---
 
-Redirect to [File:David Rapoza - Isengard Destroyed.jpg](/wiki/File:David_Rapoza_-_Isengard_Destroyed.jpg).
+Redirect to [File:David Rapoza - Isengard Destroyed.jpg](David_Rapoza_-_Isengard_Destroyed.jpg.md).

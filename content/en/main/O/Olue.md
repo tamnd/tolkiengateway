@@ -11,4 +11,4 @@ redirect_target: "Olwë"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Olwë](/wiki/Olwë#Other_names).
+Redirect to [Olwë](Olwë.md#Other_names).

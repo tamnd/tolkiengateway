@@ -1,6 +1,5 @@
 ---
 title: "File:Regional maps of MERP - Airyyn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Regional maps of MERP - Airyyn.png</span>"
 page_id: 70431
 namespace: 6
 revision_id: 438564

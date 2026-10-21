@@ -1,6 +1,5 @@
 ---
 title: "Holly Ordway"
-display_title: "<span class=\"mw-page-title-main\">Holly Ordway</span>"
 page_id: 58879
 namespace: 0
 revision_id: 405873
@@ -21,27 +20,27 @@ sort_keys:
   "People by name": "Ordway, Holly"
 ---
 
-**Holly Ordway** is a literature academic and [Christian](/wiki/Christianity "Christianity") apologist focused on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and other [Inklings](/wiki/Inklings).
+**Holly Ordway** is a literature academic and [Christian](../C/Christianity.md) apologist focused on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and other [Inklings](../I/Inklings.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [2014](/wiki/2014): *Not God's Type: An Atheist Academic Lays Down Her Arms*
-- [2017](/wiki/2017): *Apologetics and the Christian Imagination: An Integrated Approach to Defending the Faith*
-- [2021](/wiki/2021): *[Tolkien's Modern Reading: Middle-earth Beyond the Middle Ages](/wiki/Tolkien%27s_Modern_Reading "Tolkien's Modern Reading")*
-- [2023](/wiki/2023): *[Tolkien's Faith: A Spiritual Biography](/wiki/Tolkien%27s_Faith "Tolkien's Faith")*
+- [2014](../_/2014.md): *Not God's Type: An Atheist Academic Lays Down Her Arms*
+- [2017](../_/2017.md): *Apologetics and the Christian Imagination: An Integrated Approach to Defending the Faith*
+- [2021](../_/2021.md): *[Tolkien's Modern Reading: Middle-earth Beyond the Middle Ages](../T/Tolkien's_Modern_Reading.md)*
+- [2023](../_/2023.md): *[Tolkien's Faith: A Spiritual Biography](../T/Tolkien's_Faith.md)*
 
 ### Articles {#Articles}
 
-- [2018](/wiki/2018): *[The Inklings and King Arthur](/wiki/The_Inklings_and_King_Arthur): J.R.R. Tolkien, Charles Williams, C.S. Lewis, and Owen Barfield on the Matter of Britain*
+- [2018](../_/2018.md): *[The Inklings and King Arthur](../T/The_Inklings_and_King_Arthur.md): J.R.R. Tolkien, Charles Williams, C.S. Lewis, and Owen Barfield on the Matter of Britain*
     - "Medieval Arthurian Sources for the Inklings: An Overview"
-- [2019](/wiki/2019): *The Story of the Cosmos: How the Heavens Declare the Glory of God*
+- [2019](../_/2019.md): *The Story of the Cosmos: How the Heavens Declare the Glory of God*
     - "Recovering a Vision of the Cosmos: Tolkien's Creation Narrative"
 
 ### Reviews {#Reviews}
 
-- [2013](/wiki/2013): [*Mythlore* 123](/wiki/Mythlore_123 "Mythlore 123")
+- [2013](../_/2013.md): [*Mythlore* 123](../M/Mythlore_123.md)
     - *Plain to the Inward Eye: Selected Essays on C.S. Lewis by Don W. King*
 
 ## External links {#External_links}

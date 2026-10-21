@@ -15,13 +15,13 @@ sort_keys:
   "Quenya numbers": "015"
 ---
 
-**lepenquë** is the [Quenya](/wiki/Quenya) word for "fifteen".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**lepenquë** is the [Quenya](../Q/Quenya.md) word for "fifteen".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Two&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p. 21</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Two&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_48.md" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p. 21</span>
 </li>
 </ol></div>

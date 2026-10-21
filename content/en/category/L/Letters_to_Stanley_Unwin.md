@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Stanley Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Stanley Unwin</span>"
 page_id: 66624
 namespace: 14
 revision_id: 385959
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Unwin, Stanley"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Stanley Unwin](/wiki/Stanley_Unwin).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Stanley Unwin](../../main/S/Stanley_Unwin.md).

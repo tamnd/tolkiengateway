@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Plague"
 ---
 
-Redirect to [Great Plague](/wiki/Great_Plague).
+Redirect to [Great Plague](../G/Great_Plague.md).

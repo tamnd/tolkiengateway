@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/7 August 2011"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/7 August 2011</span>"
 page_id: 34659
 namespace: 4
 revision_id: 354449
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 7 August 2011</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 7 August 2011</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda and Outcome {#Agenda_and_Outcome}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -86,43 +82,43 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:Mith" title="User:Mith">Mith</a>, and <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present.
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, and <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>
 </td>
-<td>Continue the <a href="/wiki/Tolkien_Gateway:Meetings/1_May_2011/Transcript" title="Tolkien Gateway:Meetings/1 May 2011/Transcript">discussion about minor plant articles</a>
+<td>Continue the <a href="Meetings%252F1_May_2011%252FTranscript.md" title="Tolkien Gateway:Meetings/1 May 2011/Transcript">discussion about minor plant articles</a>
 </td>
 <td>As so few were present, and indeed the responsible member was himself absent, this discussion was postponed.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
 <td>Do we need to do redirecting secondary names again?
 </td>
-<td>With so few present it was agreed that this discussion should discuss this on the <a href="/wiki/Forums:Council" title="Forums:Council">forums</a>.
+<td>With so few present it was agreed that this discussion should discuss this on the <a href="https://tolkiengateway.net/wiki/Forums:Council" title="Forums:Council">forums</a>.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td>
 <td>I&#39;m not sure if this was discusses as part of the Quin/Vector discussion, but should we even have articles about non-licensed games, especially if it&#39;s just a copy of Tolkien Games?
 </td>
-<td>As <a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>, the Games Supervisor, was absent it was agreed that no decision should be made there and then. It was agreed that this discussion should take place on the forums.
+<td>As <a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>, the Games Supervisor, was absent it was agreed that no decision should be made there and then. It was agreed that this discussion should take place on the forums.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#5
 </td>
-<td><a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>
 </td>
 <td>Languages portal.
 </td>
@@ -131,25 +127,25 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td>
 <td>An update on the beta?
 </td>
-<td>Prior to the meeting <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a> had upgraded the software used by Tolkien Gateway to MediaWiki 1.17. The old Ithilien skin was completely rewritten by <a href="/wiki/User:Mith" title="User:Mith">Mith</a>, producing the Mithilien skin. All present thanked Hyarion and Mith for their hard work.
+<td>Prior to the meeting <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a> had upgraded the software used by Tolkien Gateway to MediaWiki 1.17. The old Ithilien skin was completely rewritten by <a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, producing the Mithilien skin. All present thanked Hyarion and Mith for their hard work.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#7
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
-<td>A discussion on <a href="/wiki/Tolkien_Gateway:File_licensing_templates" title="Tolkien Gateway:File licensing templates">file licensing templates</a>
+<td>A discussion on <a href="../F/File_licensing_templates.md" title="Tolkien Gateway:File licensing templates">file licensing templates</a>
 </td>
 <td>Those present noted their approval of the new file licensing templates.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#8
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td>
 <td>Removal of inactive project supervisors
 </td>
@@ -158,15 +154,15 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#9
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Adjournment discussions and meeting adjournment.
 </td>
-<td>It was agreed that <a href="/wiki/Category:Gatekeepers_by_nationality" title="Category:Gatekeepers by nationality">Category:Gatekeepers by nationality</a> should be worked into the <a href="/wiki/Tolkien_Gateway:Userboxes" title="Tolkien Gateway:Userboxes">userbox</a> system. It was also agreed that, as part of his work on <a href="/wiki/Tolkien_Gateway:File_licensing_templates" title="Tolkien Gateway:File licensing templates">file licensing templates</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a> should become the Images Supervisor.
+<td>It was agreed that <a href="../../category/G/Gatekeepers_by_nationality.md" title="Category:Gatekeepers by nationality">Category:Gatekeepers by nationality</a> should be worked into the <a href="../U/Userboxes.md" title="Tolkien Gateway:Userboxes">userbox</a> system. It was also agreed that, as part of his work on <a href="../F/File_licensing_templates.md" title="Tolkien Gateway:File licensing templates">file licensing templates</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a> should become the Images Supervisor.
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/7_August_2011 "Tolkien Gateway talk:Meetings/7 August 2011")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/7_August_2011/Transcript "Tolkien Gateway:Meetings/7 August 2011/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/7_August_2011)
+- [Transcript](Meetings%252F7_August_2011%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

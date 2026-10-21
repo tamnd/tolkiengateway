@@ -1,6 +1,5 @@
 ---
 title: "It's So Easy Not to Try"
-display_title: "<span class=\"mw-page-title-main\">It&#039;s So Easy Not to Try</span>"
 page_id: 46061
 namespace: 0
 revision_id: 311920
@@ -13,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**It's So Easy Not to Try** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) and performed by [Glenn Yarbrough](/wiki/Glenn_Yarbrough) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). It has the identical melody of "[Roads](</wiki/Roads_(song)> "Roads (song)")" (of which there is also a reprise in *The Return of the King*) from [Rankin/Bass](/wiki/Rankin/Bass)' [1977](/wiki/1977) adaptation of [*The Hobbit*](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)").
+**It's So Easy Not to Try** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) and performed by [Glenn Yarbrough](../G/Glenn_Yarbrough.md) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). It has the identical melody of "[Roads](<../R/Roads_(song).md>)" (of which there is also a reprise in *The Return of the King*) from [Rankin/Bass](../R/Rankin%252FBass.md)' [1977](../_/1977.md) adaptation of [*The Hobbit*](<../T/The_Hobbit_(1977_film).md>).
 
 ## Lyrics {#Lyrics}
 

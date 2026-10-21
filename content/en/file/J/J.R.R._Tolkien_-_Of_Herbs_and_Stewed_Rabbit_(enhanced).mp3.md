@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Of Herbs and Stewed Rabbit (enhanced).mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Of Herbs and Stewed Rabbit (enhanced).mp3</span>"
 page_id: 67762
 namespace: 6
 revision_id: 396805

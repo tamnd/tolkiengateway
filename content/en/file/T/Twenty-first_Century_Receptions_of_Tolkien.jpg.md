@@ -1,6 +1,5 @@
 ---
 title: "File:Twenty-first Century Receptions of Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Twenty-first Century Receptions of Tolkien.jpg</span>"
 page_id: 66289
 namespace: 6
 revision_id: 382310
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Twenty-first Century Receptions of Tolkien](/wiki/Twenty-first_Century_Receptions_of_Tolkien)*
+*[Twenty-first Century Receptions of Tolkien](../../main/T/Twenty-first_Century_Receptions_of_Tolkien.md)*
 
 ## Licensing {#Licensing}
 

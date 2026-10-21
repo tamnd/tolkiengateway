@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "RUSKĀ"
 ---
 
-Redirect to [RUSKĀ](/wiki/RUSKĀ).
+Redirect to [RUSKĀ](RUSKĀ.md).

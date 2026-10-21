@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Brad Williams"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Brad Williams</span>"
 page_id: 29878
 namespace: 14
 revision_id: 431276
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Williams, Brad"
 ---
 
-This category lists all **images by [Brad Williams](/wiki/Brad_Williams)**.
+This category lists all **images by [Brad Williams](../../main/B/Brad_Williams.md)**.

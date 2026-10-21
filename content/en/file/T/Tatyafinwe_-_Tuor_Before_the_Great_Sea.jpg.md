@@ -1,6 +1,5 @@
 ---
 title: "File:Tatyafinwe - Tuor Before the Great Sea.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tatyafinwe - Tuor Before the Great Sea.jpg</span>"
 page_id: 71284
 namespace: 6
 revision_id: 425271
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Tuor](/wiki/Tuor) Before the [Great Sea](/wiki/Belegaer "Belegaer")*", by <a class="external text" href="https://www.tumblr.com/tatyafinwe" rel="noreferrer noopener" target="_blank">Tatyafinwe</a>
+"*[Tuor](../../main/T/Tuor.md) Before the [Great Sea](../../main/B/Belegaer.md)*", by <a class="external text" href="https://www.tumblr.com/tatyafinwe" rel="noreferrer noopener" target="_blank">Tatyafinwe</a>
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tatyafinwe</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/tatyafinwe" rel="noreferrer noopener" target="_blank">Tatyafinwe&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tatyafinwe" title="Tolkien Gateway:Copyrights/Tatyafinwe">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTatyafinwe.md" title="Tolkien Gateway:Copyrights/Tatyafinwe">Permission for use on Tolkien Gateway</a></b></li></ul></div>

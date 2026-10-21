@@ -15,8 +15,8 @@ sort_keys:
   "Quenya nouns": "Ehtele"
 ---
 
-**Ehtelë** is [Quenya](/wiki/Quenya) for *issue of water*, *spring*.
+**Ehtelë** is [Quenya](../Q/Quenya.md) for *issue of water*, *spring*.
 
 ## References {#References}
 
-- [The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two), Appendix
+- [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md), Appendix

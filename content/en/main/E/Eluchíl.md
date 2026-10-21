@@ -11,4 +11,4 @@ redirect_target: "Dior"
 redirect_fragment: "Other names and titles"
 ---
 
-Redirect to [Dior](/wiki/Dior#Other_names_and_titles).
+Redirect to [Dior](../D/Dior.md#Other_names_and_titles).

@@ -1,6 +1,5 @@
 ---
 title: "File:Terry A. Ernest - Thorin Oakenshield.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Terry A. Ernest - Thorin Oakenshield.JPG</span>"
 page_id: 9475
 namespace: 6
 revision_id: 205085
@@ -33,4 +32,4 @@ No Derivative Works — You may not alter, transform, or build upon this work.
 <p>This work is copyrighted and owned by Terry A. Ernest. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Terry A. Ernest</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Terry_A._Ernest" title="Tolkien Gateway:Copyrights/Terry A. Ernest">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTerry_A._Ernest.md" title="Tolkien Gateway:Copyrights/Terry A. Ernest">Permission for use on Tolkien Gateway</a></b></li></ul></div>

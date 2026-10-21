@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harding of the Hill"
 ---
 
-Redirect to [Harding of the Hill](/wiki/Harding_of_the_Hill).
+Redirect to [Harding of the Hill](Harding_of_the_Hill.md).

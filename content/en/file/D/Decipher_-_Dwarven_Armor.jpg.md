@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Dwarven Armor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Dwarven Armor.jpg</span>"
 page_id: 22543
 namespace: 6
 revision_id: 211657

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Idril"
 ---
 
-Redirect to [Idril](/wiki/Idril).
+Redirect to [Idril](Idril.md).

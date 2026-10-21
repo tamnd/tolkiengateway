@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spirit (disambiguation)"
 ---
 
-Redirect to [Spirit (disambiguation)](/wiki/Spirit_(disambiguation)).
+Redirect to [Spirit (disambiguation)](<Spirit_(disambiguation).md>).

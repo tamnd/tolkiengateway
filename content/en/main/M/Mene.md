@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men-"
 ---
 
-Redirect to [Men-](/wiki/Men-).
+Redirect to [Men-](Men-.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - cover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - cover.png</span>"
 page_id: 6443
 namespace: 6
 revision_id: 424043
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover of [The Return of the King (1980 film)](</wiki/The_Return_of_the_King_(1980_film)>) DVD. It is notable for resembling almost none of the imagery in the film.
+The cover of [The Return of the King (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>) DVD. It is notable for resembling almost none of the imagery in the film.
 
 ## Licensing {#Licensing}
 

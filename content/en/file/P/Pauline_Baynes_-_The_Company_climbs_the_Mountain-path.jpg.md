@@ -1,6 +1,5 @@
 ---
 title: "File:Pauline Baynes - The Company climbs the Mountain-path.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pauline Baynes - The Company climbs the Mountain-path.jpg</span>"
 page_id: 75218
 namespace: 6
 revision_id: 442802
@@ -34,26 +33,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Pauline Baynes - The Company climbs the Mountain-path.jpg</span></th>
 <td class="description">
-<p>Artwork of <a href="/wiki/Thorin_and_Company" title="Thorin and Company">Thorin and Company</a> and <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> climbing <a href="/wiki/High_Pass" title="High Pass">the Mountain-path</a>
+<p>Artwork of <a href="../../main/T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> and <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a> climbing <a href="../../main/H/High_Pass.md" title="High Pass">the Mountain-path</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Pauline_Baynes" title="Pauline Baynes">Pauline Baynes</a></td>
+<td><a href="../../main/P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.amazon.ca/Tolkien-Calendar-2027-J-R/dp/0063494388" rel="noreferrer noopener" target="_blank">https://www.amazon.ca/Tolkien-Calendar-2027-J-R/dp/0063494388</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Pauline_Baynes" title="Pauline Baynes">Pauline Baynes</a>&#39;s estate. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>&#39;s estate. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

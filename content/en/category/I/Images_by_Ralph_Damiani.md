@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ralph Damiani"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ralph Damiani</span>"
 page_id: 48678
 namespace: 14
 revision_id: 377124
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Damiani, Ralph"
 ---
 
-This category lists all **images by [Ralph Damiani](/wiki/Ralph_Damiani)**.
+This category lists all **images by [Ralph Damiani](../../main/R/Ralph_Damiani.md)**.

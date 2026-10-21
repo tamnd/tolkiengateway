@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Calendar 2000 (Italian).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Calendar 2000 (Italian).jpg</span>"
 page_id: 6717
 namespace: 6
 revision_id: 215475

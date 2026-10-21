@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George Allen & Unwin Spring Announcements 1937"
 ---
 
-Redirect to [George Allen &amp; Unwin Spring Announcements 1937](/wiki/George_Allen_&_Unwin_Spring_Announcements_1937).
+Redirect to [George Allen &amp; Unwin Spring Announcements 1937](George_Allen_&_Unwin_Spring_Announcements_1937.md).

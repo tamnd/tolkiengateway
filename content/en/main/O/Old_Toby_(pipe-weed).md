@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Toby"
 ---
 
-Redirect to [Old Toby](/wiki/Old_Toby).
+Redirect to [Old Toby](Old_Toby.md).

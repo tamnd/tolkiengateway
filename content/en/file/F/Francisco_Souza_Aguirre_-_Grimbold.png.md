@@ -1,6 +1,5 @@
 ---
 title: "File:Francisco Souza Aguirre - Grimbold.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Francisco Souza Aguirre - Grimbold.png</span>"
 page_id: 64755
 namespace: 6
 revision_id: 429506
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Grimbold](/wiki/Grimbold) by [Francisco Souza Aguirre](/wiki/Category:Images_by_Francisco_Souza_Aguirre "Category:Images by Francisco Souza Aguirre")
+"[Grimbold](../../main/G/Grimbold.md) by [Francisco Souza Aguirre](../../category/I/Images_by_Francisco_Souza_Aguirre.md)
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Francisco Souza Aguirre</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/yoritomodaishogun" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/yoritomodaishogun</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Francisco_Souza_Aguirre" title="Tolkien Gateway:Copyrights/Francisco Souza Aguirre">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFrancisco_Souza_Aguirre.md" title="Tolkien Gateway:Copyrights/Francisco Souza Aguirre">Permission for use on Tolkien Gateway</a></b></li></ul></div>

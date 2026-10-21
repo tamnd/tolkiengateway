@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "G.K. Chesterton"
 ---
 
-Redirect to [G.K. Chesterton](/wiki/G.K._Chesterton).
+Redirect to [G.K. Chesterton](../G/G.K._Chesterton.md).

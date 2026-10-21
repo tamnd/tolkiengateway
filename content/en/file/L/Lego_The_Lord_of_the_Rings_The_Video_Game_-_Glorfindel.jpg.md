@@ -1,6 +1,5 @@
 ---
 title: "File:Lego The Lord of the Rings The Video Game - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego The Lord of the Rings The Video Game - Glorfindel.jpg</span>"
 page_id: 44546
 namespace: 6
 revision_id: 234767

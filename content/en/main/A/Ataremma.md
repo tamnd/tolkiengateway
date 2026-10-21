@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Átaremma"
 ---
 
-Redirect to [Átaremma](/wiki/Átaremma).
+Redirect to [Átaremma](../_/Átaremma.md).

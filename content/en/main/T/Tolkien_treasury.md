@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Treasury"
 ---
 
-Redirect to [The Tolkien Treasury](/wiki/The_Tolkien_Treasury).
+Redirect to [The Tolkien Treasury](The_Tolkien_Treasury.md).

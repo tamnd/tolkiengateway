@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yáviérë"
 ---
 
-Redirect to [Yáviérë](/wiki/Yáviérë).
+Redirect to [Yáviérë](Yáviérë.md).

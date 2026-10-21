@@ -1,6 +1,5 @@
 ---
 title: "Sandra Scholes"
-display_title: "<span class=\"mw-page-title-main\">Sandra Scholes</span>"
 page_id: 10816
 namespace: 0
 revision_id: 116639
@@ -19,6 +18,6 @@ sort_keys:
   "People by name": "Scholes, Sandra"
 ---
 
-**Sandra Scholes** is a British freelance artist who has illustrated for several fantasy magazines and book publishers since 1994. Lightspeed and Eclipse are but to name a few. Along the way she has illustrated a plaque for her local museum, caricatures for a gaming fanclub and a logo for skydiving enthusiasts' clothing, as well as providing artwork for the [Amon Hen journal](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)").
+**Sandra Scholes** is a British freelance artist who has illustrated for several fantasy magazines and book publishers since 1994. Lightspeed and Eclipse are but to name a few. Along the way she has illustrated a plaque for her local museum, caricatures for a gaming fanclub and a logo for skydiving enthusiasts' clothing, as well as providing artwork for the [Amon Hen journal](<../A/Amon_Hen_(journal).md>).
 
 She also has her work published on the internet, and is currently completing the mammoth task of a canvas painting of Tolkien-esque proportions.

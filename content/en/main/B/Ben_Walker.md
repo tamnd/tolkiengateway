@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Benjamin Walker"
 ---
 
-Redirect to [Benjamin Walker](/wiki/Benjamin_Walker).
+Redirect to [Benjamin Walker](Benjamin_Walker.md).

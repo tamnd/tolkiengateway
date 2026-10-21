@@ -1,6 +1,5 @@
 ---
 title: "Judith Child"
-display_title: "<span class=\"mw-page-title-main\">Judith Child</span>"
 page_id: 25617
 namespace: 0
 revision_id: 158309
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Child, Judith"
 ---
 
-**Judith Child** was one of the authors of *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and *[The Boggit](/wiki/The_Boggit)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Judith Child** was one of the authors of *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and *[The Boggit](../T/The_Boggit.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

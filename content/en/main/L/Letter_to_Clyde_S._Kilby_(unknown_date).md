@@ -16,9 +16,9 @@ sort_keys:
   "Letters": "Kilby, Clyde S. (unknown date)"
 ---
 
-At an unknown date, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Clyde S. Kilby](/wiki/Clyde_S._Kilby)**.
+At an unknown date, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Clyde S. Kilby](../C/Clyde_S._Kilby.md)**.
 
-- **Publication:** Generous extracts from this unpublished letter were published in *[Tolkien and The Silmarillion](/wiki/Tolkien_and_The_Silmarillion)*.
+- **Publication:** Generous extracts from this unpublished letter were published in *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*.
 
 ## Comment and Excerpt {#Comment_and_Excerpt}
 
@@ -29,6 +29,6 @@ In his notes on 'Athrabeth Finrod ah Andreth,' he claimed that his notions, base
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.speroforum.com/forum/topic.asp?whichpage=1&amp;TOPIC_ID=6436&amp;#122664" rel="noreferrer noopener" target="_blank">&#34;Mary and Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.speroforum.com/forum/default.asp" rel="noreferrer noopener" target="_blank">Spero Forum</a></span>. <span class="cite-web-accessed">Retrieved 31 December 2011</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.speroforum.com/forum/topic.asp?whichpage=1&amp;TOPIC_ID=6436&amp;#122664" rel="noreferrer noopener" target="_blank">&#34;Mary and Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.speroforum.com/forum/default.asp" rel="noreferrer noopener" target="_blank">Spero Forum</a></span>. <span class="cite-web-accessed">Retrieved 31 December 2011</span></cite></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dior (Steward of Gondor)"
 ---
 
-Redirect to [Dior (Steward of Gondor)](/wiki/Dior_(Steward_of_Gondor)).
+Redirect to [Dior (Steward of Gondor)](<Dior_(Steward_of_Gondor).md>).

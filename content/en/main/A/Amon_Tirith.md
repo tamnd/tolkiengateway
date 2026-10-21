@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hill of Guard"
 ---
 
-Redirect to [Hill of Guard](/wiki/Hill_of_Guard).
+Redirect to [Hill of Guard](../H/Hill_of_Guard.md).

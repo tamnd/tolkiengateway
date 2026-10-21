@@ -1,6 +1,5 @@
 ---
 title: "File:Der Indogermanische Ablaut - signature.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Der Indogermanische Ablaut - signature.jpg</span>"
 page_id: 49078
 namespace: 6
 revision_id: 263402

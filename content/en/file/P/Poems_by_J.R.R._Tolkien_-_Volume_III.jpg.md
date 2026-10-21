@@ -1,6 +1,5 @@
 ---
 title: "File:Poems by J.R.R. Tolkien - Volume III.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poems by J.R.R. Tolkien - Volume III.jpg</span>"
 page_id: 28783
 namespace: 6
 revision_id: 214575

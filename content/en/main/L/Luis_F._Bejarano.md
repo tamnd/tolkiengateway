@@ -1,6 +1,5 @@
 ---
 title: "Luis F. Bejarano"
-display_title: "<span class=\"mw-page-title-main\">Luis F. Bejarano</span>"
 page_id: 12721
 namespace: 0
 revision_id: 248260
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Bejarano, Luis"
 ---
 
-**Luis Fernando Bejarano** is an artist who has created [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related illustrations.
+**Luis Fernando Bejarano** is an artist who has created [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related illustrations.
 
 ## See also {#See_also}
 
-- [Images by Luis F. Bejarano](/wiki/Category:Images_by_Luis_F._Bejarano "Category:Images by Luis F. Bejarano")
+- [Images by Luis F. Bejarano](../../category/I/Images_by_Luis_F._Bejarano.md)

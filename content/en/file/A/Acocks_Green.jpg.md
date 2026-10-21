@@ -1,6 +1,5 @@
 ---
 title: "File:Acocks Green.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Acocks Green.jpg</span>"
 page_id: 32073
 namespace: 6
 revision_id: 248946
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Vineries Bridge, [Acocks Green](/wiki/Acocks_Green), 1910.
+Vineries Bridge, [Acocks Green](../../main/A/Acocks_Green.md), 1910.
 
 ## Licensing {#Licensing}
 

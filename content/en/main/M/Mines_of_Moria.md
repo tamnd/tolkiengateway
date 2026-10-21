@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria"
 ---
 
-Redirect to [Moria](/wiki/Moria).
+Redirect to [Moria](Moria.md).

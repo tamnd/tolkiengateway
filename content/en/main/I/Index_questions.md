@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unfinished index"
 ---
 
-Redirect to [Unfinished index](/wiki/Unfinished_index).
+Redirect to [Unfinished index](../U/Unfinished_index.md).

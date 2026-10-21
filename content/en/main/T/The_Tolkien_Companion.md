@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Complete Tolkien Companion"
 ---
 
-Redirect to [The Complete Tolkien Companion](/wiki/The_Complete_Tolkien_Companion).
+Redirect to [The Complete Tolkien Companion](The_Complete_Tolkien_Companion.md).

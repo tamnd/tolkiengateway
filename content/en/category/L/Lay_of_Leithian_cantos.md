@@ -1,6 +1,5 @@
 ---
 title: "Category:Lay of Leithian cantos"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lay of Leithian cantos</span>"
 page_id: 12224
 namespace: 14
 revision_id: 305589
@@ -13,4 +12,4 @@ categories:
   - "Chapters"
 ---
 
-*[Lay of Leithian](/wiki/Lay_of_Leithian)* cantos
+*[Lay of Leithian](../../main/L/Lay_of_Leithian.md)* cantos

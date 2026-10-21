@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hollin ridge"
 ---
 
-Redirect to [Hollin ridge](/wiki/Hollin_ridge).
+Redirect to [Hollin ridge](Hollin_ridge.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Old English Exodus"
 ---
 
-Redirect to [The Old English Exodus](/wiki/The_Old_English_Exodus).
+Redirect to [The Old English Exodus](../T/The_Old_English_Exodus.md).

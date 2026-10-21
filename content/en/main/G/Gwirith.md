@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Víressë"
 ---
 
-Redirect to [Víressë](/wiki/Víressë).
+Redirect to [Víressë](../V/Víressë.md).

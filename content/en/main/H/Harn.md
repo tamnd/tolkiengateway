@@ -13,11 +13,11 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>harn</b></i> is a [Sindarin](/wiki/Sindarin) adjective with two meanings:
+<i><b>harn</b></i> is a [Sindarin](../S/Sindarin.md) adjective with two meanings:
 
-1. *southern* ([OS](/wiki/OS) *k<sup>h</sup>arna*, [CE](/wiki/CE) *k<sup>hj</sup>arnâ*)
-2. *wounded* ([OS](/wiki/OS) *same as above*)
+1. *southern* ([OS](../O/OS.md) *k<sup>h</sup>arna*, [CE](../C/CE.md) *k<sup>hj</sup>arnâ*)
+2. *wounded* ([OS](../O/OS.md) *same as above*)
 
-It is also the soft mutation of *[sarn](/wiki/Sarn "Sarn")* "stone".
+It is also the soft mutation of *[sarn](../S/Sarn.md)* "stone".
 
-[Didier Willis](/wiki/Didier_Willis) (ed.), *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB "Hiswelókë")*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>
+[Didier Willis](../D/Didier_Willis.md) (ed.), *[Hiswelókë's Sindarin dictionary](Hiswelókë.md)*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>

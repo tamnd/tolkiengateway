@@ -1,6 +1,5 @@
 ---
 title: "Mac McCaddon"
-display_title: "<span class=\"mw-page-title-main\">Mac McCaddon</span>"
 page_id: 22388
 namespace: 0
 revision_id: 406432
@@ -19,11 +18,9 @@ sort_keys:
   "People by name": "McCaddon, Mac"
 ---
 
-**Wanda McCaddon**, credited as **Mac McCaddon**, is a British-born actress currently residing in California.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> She provided the voice of [Pippin](/wiki/Peregrin_Took "Peregrin Took") in [*The Lord of the Rings* (1979 radio series)](</wiki/The_Lord_of_the_Rings_(1979_radio_series)> "The Lord of the Rings (1979 radio series)").
+**Wanda McCaddon**, credited as **Mac McCaddon**, is a British-born actress currently residing in California.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> She provided the voice of [Pippin](../P/Peregrin_Took.md) in [*The Lord of the Rings* (1979 radio series)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>).
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

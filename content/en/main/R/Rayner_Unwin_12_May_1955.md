@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rayner Unwin (12 May 1955)"
 ---
 
-Redirect to [Letter to Rayner Unwin (12 May 1955)](/wiki/Letter_to_Rayner_Unwin_(12_May_1955)).
+Redirect to [Letter to Rayner Unwin (12 May 1955)](<../L/Letter_to_Rayner_Unwin_(12_May_1955).md>).

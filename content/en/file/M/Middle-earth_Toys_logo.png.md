@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Toys logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Toys logo.png</span>"
 page_id: 73236
 namespace: 6
 revision_id: 433596
@@ -28,16 +27,10 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20010124020400/http://middleearthtoys.com/index.html" rel="noreferrer noopener" target="_blank">Archived website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

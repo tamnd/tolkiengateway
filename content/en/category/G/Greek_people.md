@@ -1,6 +1,5 @@
 ---
 title: "Category:Greek people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Greek people</span>"
 page_id: 27827
 namespace: 14
 revision_id: 166053

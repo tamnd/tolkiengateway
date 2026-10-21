@@ -1,6 +1,5 @@
 ---
 title: "Guþ Let Vaxa"
-display_title: "<span class=\"mw-page-title-main\">Guþ Let Vaxa</span>"
 page_id: 63174
 namespace: 0
 revision_id: 357601
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Guþ Let Vaxa**, or **Guþ Let Vinper Vaxa**, is an Icelandic song by poet <a class="extiw" href="http://en.wikipedia.org/wiki/Hannes_Hafstein" title="wikipedia:Hannes Hafstein">Hannes Hafstein</a>, to be sung to the tune of *Laus Deo* (by <a class="extiw" href="http://en.wikipedia.org/wiki/Josef_Haydn" title="wikipedia:Josef Haydn">Josef Haydn</a>). It is published as the 24th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Guþ Let Vaxa**, or **Guþ Let Vinper Vaxa**, is an Icelandic song by poet <a class="extiw" href="http://en.wikipedia.org/wiki/Hannes_Hafstein" title="wikipedia:Hannes Hafstein">Hannes Hafstein</a>, to be sung to the tune of *Laus Deo* (by <a class="extiw" href="http://en.wikipedia.org/wiki/Josef_Haydn" title="wikipedia:Josef Haydn">Josef Haydn</a>). It is published as the 24th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

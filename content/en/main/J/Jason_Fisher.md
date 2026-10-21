@@ -1,6 +1,5 @@
 ---
 title: "Jason Fisher"
-display_title: "<span class=\"mw-page-title-main\">Jason Fisher</span>"
 page_id: 25322
 namespace: 0
 revision_id: 406035
@@ -25,19 +24,19 @@ sort_keys:
   "People by name": "Fisher, Jason"
 ---
 
-**Jason Fisher** is an American independent scholar specializing in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), the [Inklings](/wiki/Inklings), and Medieval Germanic philology. He runs the blog *Lingwë - Musings of a Fish*.
+**Jason Fisher** is an American independent scholar specializing in [J.R.R. Tolkien](J.R.R._Tolkien.md), the [Inklings](../I/Inklings.md), and Medieval Germanic philology. He runs the blog *Lingwë - Musings of a Fish*.
 
-Fisher was the editor of *[Mythprint](/wiki/Mythprint)*, the monthly bulletin of the [Mythopoeic Society](/wiki/Mythopoeic_Society), from [2010](/wiki/2010) through [2013](/wiki/2013).
+Fisher was the editor of *[Mythprint](../M/Mythprint.md)*, the monthly bulletin of the [Mythopoeic Society](../M/Mythopoeic_Society.md), from [2010](../_/2010.md) through [2013](../_/2013.md).
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2011](/wiki/2011): *[Tolkien and the Study of His Sources](/wiki/Tolkien_and_the_Study_of_His_Sources)* (editor)
+- [2011](../_/2011.md): *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)* (editor)
 
 ### Articles {#Articles}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Family Trees"
     - "Fëanor"
     - "Galadriel"
@@ -50,32 +49,32 @@ Fisher was the editor of *[Mythprint](/wiki/Mythprint)*, the monthly bulletin of
     - "Sauron Defeated"
     - "Silmarils"
     - "Taniquetil"
-- [2006](/wiki/2006): *[Tolkien and Modernity 1](/wiki/Tolkien_and_Modernity_1)*
+- [2006](../_/2006.md): *[Tolkien and Modernity 1](../T/Tolkien_and_Modernity_1.md)*
     - "'Man does as he is when he may do as he wishes': The Perennial Modernity of Free Will"
-- [2007](/wiki/2007): *[The Silmarillion: Thirty Years On](/wiki/The_Silmarillion:_Thirty_Years_On)*
+- [2007](../_/2007.md): *[The Silmarillion: Thirty Years On](../T/The_Silmarillion%253A_Thirty_Years_On.md)*
     - "From Mythopoeia to Mythography: Tolkien, Lönnrot, And Jerome."
-- [2008](/wiki/2008): [*Tolkien Studies*: Volume 5](/wiki/Tolkien_Studies:_Volume_5 "Tolkien Studies: Volume 5")
+- [2008](../_/2008.md): [*Tolkien Studies*: Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)
     - "Three Rings for — Whom Exactly? And Why? Justifying the Disposition of the Three Elven Rings"
-- [2010](/wiki/2010): <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Lord of the Rings Fanatics Plaza</a>
+- [2010](../_/2010.md): <a class="external text" href="http://www.lotrplaza.com/" rel="noreferrer noopener" target="_blank">Lord of the Rings Fanatics Plaza</a>
     - <a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=239540" rel="noreferrer noopener" target="_blank">Some Contributions to Middle-earth Lexicography: Hapax Legomena in <i>The Lord of the Rings</i></a>
-- [2010](/wiki/2010): *[Mythlore](/wiki/Mythlore)* 111/112
+- [2010](../_/2010.md): *[Mythlore](../M/Mythlore.md)* 111/112
     - "Dwarves, Spiders, and Murky Woods: J.R.R. Tolkien's Wonderful Web of Words."
-- [2010](/wiki/2010): *[Mythprint](/wiki/Mythprint)* (June issue, Vol. 47, No. 6, #335, on pp. 3–4)
+- [2010](../_/2010.md): *[Mythprint](../M/Mythprint.md)* (June issue, Vol. 47, No. 6, #335, on pp. 3–4)
     - "<a class="external text" href="https://www.mythsoc.org/reviews/interview-simon-tolkien.htm" rel="noreferrer noopener" target="_blank">Interview with Simon Tolkien</a>"
-- [2010](/wiki/2010): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](/wiki/Middle-earth_and_Beyond "Middle-earth and Beyond")*
+- [2010](../_/2010.md): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)*
     - "Sourcing Tolkien's 'Circles of the World': Speculations on the Heimskringla, the Latin Vulgate Bible, and the Hereford Mappa Mundi"
-- [2010](/wiki/2010): *[Middle-earth Minstrel](/wiki/Middle-earth_Minstrel)*
+- [2010](../_/2010.md): *[Middle-earth Minstrel](../M/Middle-earth_Minstrel.md)*
     - "Horns of Dawn: The Tradition of Alliterative Verse in Rohan"
-- [2014](/wiki/2014): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](/wiki/Tolkien_in_the_New_Century "Tolkien in the New Century")*
+- [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
     - "Tolkien's Wraiths, Rings and Dragons: An Exercise in Literary Linguistics"
 
 ### Reviews {#Reviews}
 
-- [2008](/wiki/2008): *Mythprint* April/May (45:4-5, #313-314)
+- [2008](../_/2008.md): *Mythprint* April/May (45:4-5, #313-314)
     - *The Hobbit* 70th Anniversary Edition by JRR Tolkien"
-- [2009](/wiki/2009): *Mythprint* March/April (Volume 46:3-4, #324-325)
+- [2009](../_/2009.md): *Mythprint* March/April (Volume 46:3-4, #324-325)
     - "*Tales Before Narnia* edited by Douglas A. Anderson"
-- [2018](/wiki/2018): [*Tolkien Studies*: Volume 15](/wiki/Tolkien_Studies:_Volume_15 "Tolkien Studies: Volume 15")
+- [2018](../_/2018.md): [*Tolkien Studies*: Volume 15](../T/Tolkien_Studies%253A_Volume_15.md)
     - "*The J.R.R. Tolkien Companion and Guide* ed. by Christina Scull and Wayne G. Hammond"
 
 ## External links {#External_links}

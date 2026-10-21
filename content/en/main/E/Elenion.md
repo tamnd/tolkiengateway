@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elen"
 ---
 
-Redirect to [Elen](/wiki/Elen).
+Redirect to [Elen](Elen.md).

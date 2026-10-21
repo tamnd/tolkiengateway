@@ -1,6 +1,5 @@
 ---
 title: "File:The Calendar of Imladris 1977.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Calendar of Imladris 1977.jpg</span>"
 page_id: 6514
 namespace: 6
 revision_id: 215517

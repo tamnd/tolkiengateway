@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Aurelius Pompen"
 ---
 
-Redirect to [Letter to Aurelius Pompen](/wiki/Letter_to_Aurelius_Pompen).
+Redirect to [Letter to Aurelius Pompen](../L/Letter_to_Aurelius_Pompen.md).

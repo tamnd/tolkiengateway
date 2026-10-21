@@ -1,6 +1,5 @@
 ---
 title: "File:Tales Before Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales Before Tolkien.jpg</span>"
 page_id: 5286
 namespace: 6
 revision_id: 214612

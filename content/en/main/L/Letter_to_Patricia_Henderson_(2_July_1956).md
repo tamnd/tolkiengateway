@@ -13,7 +13,7 @@ categories:
   - "Letters"
 ---
 
-On [2 July](/wiki/2_July) [1956](/wiki/1956), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien")** to **Patricia Henderson**.
+On [2 July](../_/2_July.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md)** to **Patricia Henderson**.
 
 - **Subject:** Tolkien rejects an invitation to speak at Cambridge with "*greatest regret*" because he is "*absolutely loaded up with work*". He says he has "*wasted \[his\] time for years*", ignoring "*long long overdue philological stuff*".
 - **Publication:** None.

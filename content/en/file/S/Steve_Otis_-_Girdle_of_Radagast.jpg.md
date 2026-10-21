@@ -1,6 +1,5 @@
 ---
 title: "File:Steve Otis - Girdle of Radagast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Steve Otis - Girdle of Radagast.jpg</span>"
 page_id: 63943
 namespace: 6
 revision_id: 441128
@@ -34,17 +33,15 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Steve Otis - Girdle of Radagast.jpg</span></th>
 <td class="description">
 <p><i>Girdle of Radagast</i>. 
-Created for <a href="/wiki/Middle-earth:_The_White_Hand" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_White_Hand.md" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Steve Otis</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>?</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

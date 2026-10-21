@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (musical)"
 ---
 
-Redirect to [The Lord of the Rings (musical)](/wiki/The_Lord_of_the_Rings_(musical)).
+Redirect to [The Lord of the Rings (musical)](<The_Lord_of_the_Rings_(musical).md>).

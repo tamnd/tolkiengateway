@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunlendish"
 ---
 
-Redirect to [Dunlendish](/wiki/Dunlendish).
+Redirect to [Dunlendish](Dunlendish.md).

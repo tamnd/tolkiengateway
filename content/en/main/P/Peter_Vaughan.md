@@ -1,6 +1,5 @@
 ---
 title: "Peter Vaughan"
-display_title: "<span class=\"mw-page-title-main\">Peter Vaughan</span>"
 page_id: 6899
 namespace: 0
 revision_id: 290579
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Vaughan, Peter"
 ---
 
-**Peter Vaughan** ([4 April](/wiki/4_April) [1923](/wiki/1923) - [6 December](/wiki/6_December) [2016](/wiki/2016)) voiced the part of [Denethor II](/wiki/Denethor "Denethor") in [*The Lord of the Rings* 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on the BBC 4.
+**Peter Vaughan** ([4 April](../_/4_April.md) [1923](../_/1923.md) - [6 December](../_/6_December.md) [2016](../_/2016.md)) voiced the part of [Denethor II](../D/Denethor.md) in [*The Lord of the Rings* 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on the BBC 4.
 
 ## External links {#External_links}
 

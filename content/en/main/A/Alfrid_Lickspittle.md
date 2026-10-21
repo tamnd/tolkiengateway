@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Councillors"
 ---
 
-Redirect to [Councillors](/wiki/Councillors).
+Redirect to [Councillors](../C/Councillors.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindanórië"
 ---
 
-Redirect to [Sindanórië](/wiki/Sindanórië).
+Redirect to [Sindanórië](Sindanórië.md).

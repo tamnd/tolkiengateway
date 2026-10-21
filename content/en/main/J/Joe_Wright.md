@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Joseph Wright"
 ---
 
-Redirect to [Joseph Wright](/wiki/Joseph_Wright).
+Redirect to [Joseph Wright](Joseph_Wright.md).

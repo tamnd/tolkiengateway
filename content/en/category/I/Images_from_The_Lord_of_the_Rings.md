@@ -19,4 +19,4 @@ sort_keys:
   "The Lord of the Rings": "Lord of the Rings"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i> illustrated by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></b>.</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> illustrated by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></b>.</dd></dl>

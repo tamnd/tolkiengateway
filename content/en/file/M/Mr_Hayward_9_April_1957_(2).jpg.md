@@ -1,6 +1,5 @@
 ---
 title: "File:Mr Hayward 9 April 1957 (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr Hayward 9 April 1957 (2).jpg</span>"
 page_id: 44298
 namespace: 6
 revision_id: 232879

@@ -1,6 +1,5 @@
 ---
 title: "File:The Screwtape Letters.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Screwtape Letters.jpg</span>"
 page_id: 28909
 namespace: 6
 revision_id: 351383

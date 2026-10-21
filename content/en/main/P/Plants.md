@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Plants"
 ---
 
-Redirect to [Category:Plants](/wiki/Category:Plants).
+Redirect to [Category:Plants](../../category/P/Plants.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Marcel Bülles"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Marcel Bülles</span>"
 page_id: 44232
 namespace: 4
 revision_id: 232614
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bulles, Marcel"
 ---
 
-- Permission granted by copyright holder [Marcel Bülles](/wiki/Marcel_B%C3%BClles) to use [Marcel Bülles.jpg](/wiki/File:Marcel_B%C3%BClles.jpg "File:Marcel Bülles.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Marcel Bülles](../../main/M/Marcel_Bülles.md) to use [Marcel Bülles.jpg](../../file/M/Marcel_Bülles.jpg.md) on Tolkien Gateway.
 - Date: 17 August 2013.
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

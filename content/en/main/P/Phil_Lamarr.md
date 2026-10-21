@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phillip LaMarr"
 ---
 
-Redirect to [Phillip LaMarr](/wiki/Phillip_LaMarr).
+Redirect to [Phillip LaMarr](Phillip_LaMarr.md).

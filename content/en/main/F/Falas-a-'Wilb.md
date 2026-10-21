@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falasquil"
 ---
 
-Redirect to [Falasquil](/wiki/Falasquil).
+Redirect to [Falasquil](Falasquil.md).

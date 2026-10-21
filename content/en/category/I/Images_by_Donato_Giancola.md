@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Donato Giancola"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Donato Giancola</span>"
 page_id: 7467
 namespace: 14
 revision_id: 181991
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Giancola, Donato"
 ---
 
-This category lists all **images by [Donato Giancola](/wiki/Donato_Giancola)**.
+This category lists all **images by [Donato Giancola](../../main/D/Donato_Giancola.md)**.

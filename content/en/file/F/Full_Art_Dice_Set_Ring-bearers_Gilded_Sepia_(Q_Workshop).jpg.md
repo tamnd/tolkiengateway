@@ -1,6 +1,5 @@
 ---
 title: "File:Full Art Dice Set Ring-bearers Gilded Sepia (Q Workshop).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Full Art Dice Set Ring-bearers Gilded Sepia (Q Workshop).jpg</span>"
 page_id: 75048
 namespace: 6
 revision_id: 441802
@@ -36,16 +35,12 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://q-workshop.com/en/282-the-lord-of-the-rings" rel="noreferrer noopener" target="_blank">Q Workshop</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

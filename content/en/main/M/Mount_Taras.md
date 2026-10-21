@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taras"
 ---
 
-Redirect to [Taras](/wiki/Taras).
+Redirect to [Taras](../T/Taras.md).

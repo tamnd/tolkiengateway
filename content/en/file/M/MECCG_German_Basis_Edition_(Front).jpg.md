@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG German Basis Edition (Front).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG German Basis Edition (Front).jpg</span>"
 page_id: 72920
 namespace: 6
 revision_id: 432197

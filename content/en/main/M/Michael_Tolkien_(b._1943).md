@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael George Tolkien"
 ---
 
-Redirect to [Michael George Tolkien](/wiki/Michael_George_Tolkien).
+Redirect to [Michael George Tolkien](Michael_George_Tolkien.md).

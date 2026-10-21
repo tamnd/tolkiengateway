@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Isildur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Isildur.jpg</span>"
 page_id: 63638
 namespace: 6
 revision_id: 412248
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Isildur](/wiki/Isildur) in [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Isildur](../../main/I/Isildur.md) in [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

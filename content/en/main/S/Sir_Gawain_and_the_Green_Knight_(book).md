@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sir Gawain and the Green Knight (edition)"
 ---
 
-Redirect to [Sir Gawain and the Green Knight (edition)](/wiki/Sir_Gawain_and_the_Green_Knight_(edition)).
+Redirect to [Sir Gawain and the Green Knight (edition)](<Sir_Gawain_and_the_Green_Knight_(edition).md>).

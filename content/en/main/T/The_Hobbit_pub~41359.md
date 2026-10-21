@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (public house)"
 ---
 
-Redirect to [The Hobbit (public house)](/wiki/The_Hobbit_(public_house)).
+Redirect to [The Hobbit (public house)](<The_Hobbit_(public_house).md>).

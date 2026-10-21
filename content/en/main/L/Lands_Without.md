@@ -11,4 +11,4 @@ redirect_target: "Middle-earth"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Middle-earth](/wiki/Middle-earth#Names).
+Redirect to [Middle-earth](../M/Middle-earth.md#Names).

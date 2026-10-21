@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ted Nasmith"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ted Nasmith</span>"
 page_id: 37204
 namespace: 4
 revision_id: 193192
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nasmith, Ted"
 ---
 
-- [Ted Nasmith](/wiki/Ted_Nasmith) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Ted_Nasmith "Category:Images by Ted Nasmith") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Ted Nasmith](../../main/T/Ted_Nasmith.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Ted_Nasmith.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 19 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

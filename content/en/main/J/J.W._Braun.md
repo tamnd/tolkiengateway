@@ -1,6 +1,5 @@
 ---
 title: "J.W. Braun"
-display_title: "<span class=\"mw-page-title-main\">J.W. Braun</span>"
 page_id: 35888
 namespace: 0
 revision_id: 291140
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Braun, J.W."
 ---
 
-**J.W. Braun** (born [1975](/wiki/1975)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is an American writer. He is the author of *[The Lord of the Films](/wiki/The_Lord_of_the_Films)* and has contributed to the *[The Lord of the Rings Fan Club](/wiki/The_Lord_of_the_Rings_Fan_Club)* magazines.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**J.W. Braun** (born [1975](../_/1975.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is an American writer. He is the author of *[The Lord of the Films](../T/The_Lord_of_the_Films.md)* and has contributed to the *[The Lord of the Rings Fan Club](../T/The_Lord_of_the_Rings_Fan_Club.md)* magazines.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 

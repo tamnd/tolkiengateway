@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gap of Rohan"
 ---
 
-Redirect to [Gap of Rohan](/wiki/Gap_of_Rohan).
+Redirect to [Gap of Rohan](Gap_of_Rohan.md).

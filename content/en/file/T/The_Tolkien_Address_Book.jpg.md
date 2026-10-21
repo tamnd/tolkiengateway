@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Address Book.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Address Book.jpg</span>"
 page_id: 52932
 namespace: 6
 revision_id: 288019

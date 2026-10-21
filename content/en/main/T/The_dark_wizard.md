@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Wizard"
 ---
 
-Redirect to [Dark Wizard](/wiki/Dark_Wizard).
+Redirect to [Dark Wizard](../D/Dark_Wizard.md).

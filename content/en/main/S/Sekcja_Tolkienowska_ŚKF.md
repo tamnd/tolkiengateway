@@ -1,6 +1,5 @@
 ---
 title: "Sekcja Tolkienowska ŚKF"
-display_title: "<span class=\"mw-page-title-main\">Sekcja Tolkienowska ŚKF</span>"
 page_id: 7305
 namespace: 0
 revision_id: 379411
@@ -16,13 +15,13 @@ images:
   - "Parmadili_logo.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Parmadili_logo.png"><img src="/w/images/3/3e/Parmadili_logo.png" decoding="async" loading="lazy" width="191" height="189" class="mw-file-element" data-file-width="191" data-file-height="189"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/P/Parmadili_logo.png.md"><img src="https://tolkiengateway.net/w/images/3/3e/Parmadili_logo.png" decoding="async" loading="lazy" width="191" height="189" class="mw-file-element" data-file-width="191" data-file-height="189"/></a><figcaption></figcaption></figure>
 
-<b><i>Parmadili</i>, Sekcja Tolkienowska Śląskiego Klubu Fantastyki</b> (Polish for "*Parmadili*, the Tolkien Section of the Silesian Fantasy Club") is a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") based in Poland. It was founded in [1984](/wiki/1984), and publishes *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* and *Buckland News*. As of 2011 this society appears to be semi-dormant as no activities after 2009 were listed. In 2023 semiannual larger activities and monthly Silesian activities are listed.
+<b><i>Parmadili</i>, Sekcja Tolkienowska Śląskiego Klubu Fantastyki</b> (Polish for "*Parmadili*, the Tolkien Section of the Silesian Fantasy Club") is a [Tolkien society](../T/Tolkien_Societies~67099.md) based in Poland. It was founded in [1984](../_/1984.md), and publishes *[Aiglos](<../A/Aiglos_(journal).md>)* and *Buckland News*. As of 2011 this society appears to be semi-dormant as no activities after 2009 were listed. In 2023 semiannual larger activities and monthly Silesian activities are listed.
 
 ## Magazine {#Magazine}
 
-The *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* magazine has been published in Polish bi-annually since 2004.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In 2011 the editorial board announced that *Aiglos* would change to being a larger annual publication.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The *[Aiglos](<../A/Aiglos_(journal).md>)* magazine has been published in Polish bi-annually since 2004.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In 2011 the editorial board announced that *Aiglos* would change to being a larger annual publication.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 The *Buckland News* publication is an ongoing fantasy tale involving Middle-earth that has been published quarterly in English and Polish through the present.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Armor"
 ---
 
-Redirect to [Category:Armor](/wiki/Category:Armor).
+Redirect to [Category:Armor](../../category/A/Armor.md).

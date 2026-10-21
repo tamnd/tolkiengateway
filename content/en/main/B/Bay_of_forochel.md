@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Icebay of Forochel"
 ---
 
-Redirect to [Icebay of Forochel](/wiki/Icebay_of_Forochel).
+Redirect to [Icebay of Forochel](../I/Icebay_of_Forochel.md).

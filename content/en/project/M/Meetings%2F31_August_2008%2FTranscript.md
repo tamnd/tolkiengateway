@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/31 August 2008/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/31 August 2008/Transcript</span>"
 page_id: 20292
 namespace: 4
 revision_id: 354893
@@ -642,6 +641,5 @@ sort_keys:
 &lt;Theoden1&gt;	don&#39;t give him a ring, please<br/>
 &lt;Mith&gt;	I already own one<br/>
 &lt;Hyarion&gt;	okay, meeting officially over, thanks for coming everyone, and we&#39;ll see you next week.<br/>
-<!-- -->
 </p>
 </div>

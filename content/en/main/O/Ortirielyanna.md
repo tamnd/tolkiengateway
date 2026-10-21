@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ortírielyanna"
 ---
 
-Redirect to [Ortírielyanna](/wiki/Ortírielyanna).
+Redirect to [Ortírielyanna](Ortírielyanna.md).

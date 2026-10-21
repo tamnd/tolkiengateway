@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Middle-earth Toys"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Middle-earth Toys</span>"
 page_id: 73242
 namespace: 14
 revision_id: 433403

@@ -1,6 +1,5 @@
 ---
 title: "Dragon Flame"
-display_title: "<span class=\"mw-page-title-main\">Dragon Flame</span>"
 page_id: 10273
 namespace: 0
 revision_id: 367995
@@ -18,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary"
 ---
 
-**Dragon Flame** is a freeware application based on [Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB "Hiswelókë"), developed by [Didier Willis](/wiki/Didier_Willis) and Benjamin Babut. It was first released in December [2002](/wiki/2002). The latest version, Dragon Flame 2.0 for Windows, was from December [2003](/wiki/2003), and Dragon Flame 2.0.1 for Linux from July [2004](/wiki/2004).
+**Dragon Flame** is a freeware application based on [Hiswelókë's Sindarin dictionary](../H/Hiswelókë.md), developed by [Didier Willis](Didier_Willis.md) and Benjamin Babut. It was first released in December [2002](../_/2002.md). The latest version, Dragon Flame 2.0 for Windows, was from December [2003](../_/2003.md), and Dragon Flame 2.0.1 for Linux from July [2004](../_/2004.md).
 
-Thomas Deniau contributed a complete rewrite for Mac OS systems in [2004](/wiki/2004), under the name **Hesperides**.
+Thomas Deniau contributed a complete rewrite for Mac OS systems in [2004](../_/2004.md), under the name **Hesperides**.
 
 Both software were distributed with their source code, under the terms of the <a class="external text" href="https://opensource.org/licenses/GPL-2.0" rel="noreferrer noopener" target="_blank">GNU General Public License</a>.
 

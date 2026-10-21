@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ambarkanta"
 ---
 
-Redirect to [The Ambarkanta](/wiki/The_Ambarkanta).
+Redirect to [The Ambarkanta](../T/The_Ambarkanta.md).

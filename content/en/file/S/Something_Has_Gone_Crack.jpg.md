@@ -1,6 +1,5 @@
 ---
 title: "File:Something Has Gone Crack.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Something Has Gone Crack.jpg</span>"
 page_id: 57245
 namespace: 6
 revision_id: 350915

@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by C.S. Lewis"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by C.S. Lewis</span>"
 page_id: 28658
 namespace: 14
 revision_id: 151589
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Lewis, Clive Staples"
 ---
 
-Books by [C.S. Lewis](/wiki/C.S._Lewis).
+Books by [C.S. Lewis](../../main/C/C.S._Lewis.md).

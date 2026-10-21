@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Elena Kukanova"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Elena Kukanova</span>"
 page_id: 48057
 namespace: 14
 revision_id: 356410
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kukanova, Elena"
 ---
 
-This category lists all **images by [Elena Kukanova](/wiki/Elena_Kukanova)**.
+This category lists all **images by [Elena Kukanova](../../main/E/Elena_Kukanova.md)**.

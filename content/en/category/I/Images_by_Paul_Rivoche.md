@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Paul Rivoche"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Paul Rivoche</span>"
 page_id: 14152
 namespace: 14
 revision_id: 182127
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Rivoche, Paul"
 ---
 
-This category lists all **images by [Paul Rivoche](/wiki/Paul_Rivoche)**.
+This category lists all **images by [Paul Rivoche](../../main/P/Paul_Rivoche.md)**.

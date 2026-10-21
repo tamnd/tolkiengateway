@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Creatures of Middle-earth"
 ---
 
-Redirect to [Creatures of Middle-earth](/wiki/Creatures_of_Middle-earth).
+Redirect to [Creatures of Middle-earth](../C/Creatures_of_Middle-earth.md).

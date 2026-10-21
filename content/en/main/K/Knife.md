@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Knives"
 ---
 
-Redirect to [Knives](/wiki/Knives).
+Redirect to [Knives](Knives.md).

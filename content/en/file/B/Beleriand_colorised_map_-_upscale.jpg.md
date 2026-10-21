@@ -1,6 +1,5 @@
 ---
 title: "File:Beleriand colorised map - upscale.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beleriand colorised map - upscale.jpg</span>"
 page_id: 70152
 namespace: 6
 revision_id: 417259

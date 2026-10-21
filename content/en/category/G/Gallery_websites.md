@@ -1,6 +1,5 @@
 ---
 title: "Category:Gallery websites"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gallery websites</span>"
 page_id: 15878
 namespace: 14
 revision_id: 46523

@@ -1,6 +1,5 @@
 ---
 title: "The Nauglafring"
-display_title: "<span class=\"mw-page-title-main\">The Nauglafring</span>"
 page_id: 28475
 namespace: 0
 revision_id: 417146
@@ -17,20 +16,20 @@ sort_keys:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_Two" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chapters
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="/wiki/The_Tale_of_Tin%C3%BAviel" title="The Tale of Tinúviel">The Tale of Tinúviel</a></li>
-<li><a href="/wiki/Turambar_and_the_Foal%C3%B3k%C3%AB" title="Turambar and the Foalókë">Turambar and the Foalókë</a></li>
-<li><a href="/wiki/The_Fall_of_Gondolin_(chapter)" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a></li>
+<ol><li><a href="The_Tale_of_Tinúviel.md" title="The Tale of Tinúviel">The Tale of Tinúviel</a></li>
+<li><a href="Turambar_and_the_Foalókë.md" title="Turambar and the Foalókë">Turambar and the Foalókë</a></li>
+<li><a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a></li>
 <li><a class="mw-selflink selflink">The Nauglafring</a></li>
-<li><a href="/wiki/The_Tale_of_E%C3%A4rendel" title="The Tale of Eärendel">The Tale of Eärendel</a></li>
-<li><a href="/wiki/The_History_of_Eriol_or_%C3%86lfwine_and_the_End_of_the_Tales" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
+<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">The Tale of Eärendel</a></li>
+<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
-**The Nauglafring** is the fourth chapter of *[The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two)*.
+**The Nauglafring** is the fourth chapter of *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.
 
-It narrates an early version of the [Silmarillion](/wiki/Silmarillion) chapter *[Of the Ruin of Doriath](/wiki/Of_the_Ruin_of_Doriath)*. [Nauglafring](/wiki/Nauglafring) is an early name ([Gnomish](/wiki/Gnomish)) of the item later known as [Nauglamír](/wiki/Nauglam%C3%ADr).
+It narrates an early version of the [Silmarillion](../S/Silmarillion.md) chapter *[Of the Ruin of Doriath](../O/Of_the_Ruin_of_Doriath.md)*. [Nauglafring](../N/Nauglafring.md) is an early name ([Gnomish](../G/Gnomish.md)) of the item later known as [Nauglamír](../N/Nauglamír.md).
 
 <br>

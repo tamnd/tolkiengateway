@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Irvin Rodriguez"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Irvin Rodriguez</span>"
 page_id: 65058
 namespace: 4
 revision_id: 374580
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rodriguez, Irvin"
 ---
 
-- Irvin Rodriguez has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Irvin_Rodriguez "Category:Images by Irvin Rodriguez") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [June 2nd](/wiki/June_2 "June 2"), [2023](/wiki/2023)
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- Irvin Rodriguez has kindly granted permission to use [their artwork](../../category/I/Images_by_Irvin_Rodriguez.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [June 2nd](../../main/J/June_2.md), [2023](../../main/_/2023.md)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jan Pospíšil"
 ---
 
-Redirect to [Jan Pospíšil](/wiki/Jan_Pospíšil).
+Redirect to [Jan Pospíšil](Jan_Pospíšil.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - Beren and Lúthien transformed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - Beren and Lúthien transformed.jpg</span>"
 page_id: 71971
 namespace: 6
 revision_id: 428388

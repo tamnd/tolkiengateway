@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Sergio Botero - Brodda concept.jpg"
 ---
 
-Redirect to [File:Sergio Botero - Brodda concept.jpg](/wiki/File:Sergio_Botero_-_Brodda_concept.jpg).
+Redirect to [File:Sergio Botero - Brodda concept.jpg](Sergio_Botero_-_Brodda_concept.jpg.md).

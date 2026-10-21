@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Galadriel.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Galadriel.JPG</span>"
 page_id: 20612
 namespace: 6
 revision_id: 298639
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) standing over her [Mirror](/wiki/Mirror_of_Galadriel "Mirror of Galadriel"). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Galadriel](../../main/G/Galadriel.md) standing over her [Mirror](../../main/M/Mirror_of_Galadriel.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

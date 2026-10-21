@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index (disambiguation)"
 ---
 
-Redirect to [Index (disambiguation)](/wiki/Index_(disambiguation)).
+Redirect to [Index (disambiguation)](<Index_(disambiguation).md>).

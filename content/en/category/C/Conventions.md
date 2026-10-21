@@ -1,6 +1,5 @@
 ---
 title: "Category:Conventions"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Conventions</span>"
 page_id: 5519
 namespace: 14
 revision_id: 191767
@@ -14,4 +13,4 @@ categories:
   - "Fandom"
 ---
 
-Below is a list of **conventions** related to the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Below is a list of **conventions** related to the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

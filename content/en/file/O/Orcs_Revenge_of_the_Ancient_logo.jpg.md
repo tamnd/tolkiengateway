@@ -1,6 +1,5 @@
 ---
 title: "File:Orcs Revenge of the Ancient logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orcs Revenge of the Ancient logo.jpg</span>"
 page_id: 73182
 namespace: 6
 revision_id: 433056
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1999</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20000901234700/http://sierrastudios.com/games/orcs/" rel="noreferrer noopener" target="_blank">Official website</a> (archived)</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2024, The Folio Society).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2024, The Folio Society).webp</span>"
 page_id: 69002
 namespace: 6
 revision_id: 411687

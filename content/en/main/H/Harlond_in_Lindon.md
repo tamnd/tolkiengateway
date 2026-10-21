@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harlond (Lindon)"
 ---
 
-Redirect to [Harlond (Lindon)](/wiki/Harlond_(Lindon)).
+Redirect to [Harlond (Lindon)](<Harlond_(Lindon).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Pass of Aglon"
 ---
 
-Redirect to [Battle of the Pass of Aglon](/wiki/Battle_of_the_Pass_of_Aglon).
+Redirect to [Battle of the Pass of Aglon](Battle_of_the_Pass_of_Aglon.md).

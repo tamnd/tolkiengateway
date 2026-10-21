@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "TheOneRing.net"
 ---
 
-Redirect to [TheOneRing.net](/wiki/TheOneRing.net).
+Redirect to [TheOneRing.net](TheOneRing.net.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mágol"
 ---
 
-Redirect to [Mágol](/wiki/Mágol).
+Redirect to [Mágol](Mágol.md).

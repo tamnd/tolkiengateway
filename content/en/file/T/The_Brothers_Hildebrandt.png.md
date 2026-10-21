@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt.png</span>"
 page_id: 71464
 namespace: 6
 revision_id: 426137
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Tim (left) and Greg (right): [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt) - <a class="new" href="/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Fellowship_of_the_Ring%27&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring&#39; (page does not exist)">Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring&#39;</a>
+Tim (left) and Greg (right): [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md) - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Secrets_of_Middle-Earth:_Inside_Tolkien%27s_%27The_Fellowship_of_the_Ring%27&amp;action=edit&amp;redlink=1" title="Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring&#39; (page does not exist)">Secrets of Middle-Earth: Inside Tolkien&#39;s &#39;The Fellowship of the Ring&#39;</a>
 
 ## Licensing {#Licensing}
 

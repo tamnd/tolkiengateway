@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth CCG and Toys Dutch advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth CCG and Toys Dutch advertisement.jpg</span>"
 page_id: 73286
 namespace: 6
 revision_id: 434807
@@ -31,7 +30,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Middle-earth CCG and Toys Dutch advertisement.jpg</span></th>
 <td class="description">
-<p>Dutch advertisement for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> and <a href="/wiki/Middle-earth_Toys" title="Middle-earth Toys">Middle-earth Toys</a>
+<p>Dutch advertisement for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> and <a href="../../main/M/Middle-earth_Toys.md" title="Middle-earth Toys">Middle-earth Toys</a>
 </p>
 </td>
 </tr>
@@ -39,14 +38,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1998</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Scan of advertisement in magazine <i>Spellenspektakel 7</i>, 1998</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

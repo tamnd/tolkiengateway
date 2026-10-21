@@ -1,6 +1,5 @@
 ---
 title: "Usvainen Rhûn"
-display_title: "<span class=\"mw-page-title-main\">Usvainen Rhûn</span>"
 page_id: 22658
 namespace: 0
 revision_id: 252857
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Usvainen <a href="/wiki/Rh%C3%BBn" title="Rhûn">Rhûn</a></b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their third full-length album, [Third Age of the Sun](/wiki/Third_Age_of_the_Sun).
+<i><b>Usvainen <a href="../R/Rhûn.md" title="Rhûn">Rhûn</a></b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their third full-length album, [Third Age of the Sun](../T/Third_Age_of_the_Sun.md).
 
 ## Lyrics {#Lyrics}
 

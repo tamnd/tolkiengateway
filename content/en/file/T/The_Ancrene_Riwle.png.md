@@ -1,6 +1,5 @@
 ---
 title: "File:The Ancrene Riwle.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ancrene Riwle.png</span>"
 page_id: 32722
 namespace: 6
 revision_id: 214615

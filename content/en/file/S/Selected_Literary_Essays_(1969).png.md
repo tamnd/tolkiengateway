@@ -1,6 +1,5 @@
 ---
 title: "File:Selected Literary Essays (1969).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Selected Literary Essays (1969).png</span>"
 page_id: 36644
 namespace: 6
 revision_id: 214601

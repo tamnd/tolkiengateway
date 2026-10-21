@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Firebeards"
 ---
 
-Redirect to [Firebeards](/wiki/Firebeards).
+Redirect to [Firebeards](Firebeards.md).

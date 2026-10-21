@@ -1,6 +1,5 @@
 ---
 title: "Denys Hawthorne"
-display_title: "<span class=\"mw-page-title-main\">Denys Hawthorne</span>"
 page_id: 19557
 namespace: 0
 revision_id: 405222
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Hawthorne, Denys"
 ---
 
-**Denys Vernon Hawthorne** ([9 August](/wiki/9_August), [1932](/wiki/1932)-[16 October](/wiki/16_October), [2009](/wiki/2009)) was a Northern Irish actor, who lent his voice to many of the [BBC](/wiki/BBC)'s radio plays. He voiced [Beorn](/wiki/Beorn) in the [1968](/wiki/1968) [radio series](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)") of *[The Hobbit](/wiki/The_Hobbit)*.
+**Denys Vernon Hawthorne** ([9 August](../_/9_August.md), [1932](../_/1932.md)-[16 October](../_/16_October.md), [2009](../_/2009.md)) was a Northern Irish actor, who lent his voice to many of the [BBC](../B/BBC.md)'s radio plays. He voiced [Beorn](../B/Beorn.md) in the [1968](../_/1968.md) [radio series](<../T/The_Hobbit_(1968_radio_series).md>) of *[The Hobbit](../T/The_Hobbit.md)*.
 
 ## External links {#External_links}
 

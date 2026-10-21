@@ -1,6 +1,5 @@
 ---
 title: "File:Lenny Henry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lenny Henry.jpg</span>"
 page_id: 63760
 namespace: 6
 revision_id: 434641
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://uk.movies.yahoo.com/lenny-henry-lord-of-the-rings-160934156.html" rel="noreferrer noopener" target="_blank">Yahoo Movies</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

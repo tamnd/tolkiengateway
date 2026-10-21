@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Nan Curunír.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Nan Curunír.jpg</span>"
 page_id: 71699
 namespace: 6
 revision_id: 427375
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Nan Curunír](/wiki/Nan_Curun%C3%ADr) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *The Two Towers* - *Battle of Helm's Deep*
+[Nan Curunír](../../main/N/Nan_Curunír.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *The Two Towers* - *Battle of Helm's Deep*
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Pictures by J.R.R. Tolkien 1992.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pictures by J.R.R. Tolkien 1992.png</span>"
 page_id: 61867
 namespace: 6
 revision_id: 348759

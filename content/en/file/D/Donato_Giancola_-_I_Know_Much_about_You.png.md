@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Donato Giancola - I know much about you.jpg"
 ---
 
-Redirect to [File:Donato Giancola - I know much about you.jpg](/wiki/File:Donato_Giancola_-_I_know_much_about_you.jpg).
+Redirect to [File:Donato Giancola - I know much about you.jpg](Donato_Giancola_-_I_know_much_about_you.jpg.md).

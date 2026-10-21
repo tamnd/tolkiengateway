@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black Pit (disambiguation)"
 ---
 
-Redirect to [Black Pit (disambiguation)](/wiki/Black_Pit_(disambiguation)).
+Redirect to [Black Pit (disambiguation)](<Black_Pit_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Fellowship The Literary Lives of the Inklings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fellowship The Literary Lives of the Inklings.jpg</span>"
 page_id: 49315
 namespace: 6
 revision_id: 264378

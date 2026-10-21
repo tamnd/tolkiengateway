@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-land"
 ---
 
-Redirect to [Bree-land](/wiki/Bree-land).
+Redirect to [Bree-land](Bree-land.md).

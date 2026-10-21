@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "English Studies (December 1947)"
 ---
 
-Redirect to [English Studies (December 1947)](/wiki/English_Studies_(December_1947)).
+Redirect to [English Studies (December 1947)](<../E/English_Studies_(December_1947).md>).

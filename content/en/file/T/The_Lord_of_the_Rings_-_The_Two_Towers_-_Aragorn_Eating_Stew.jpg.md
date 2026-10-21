@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Aragorn Eating Stew.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Aragorn Eating Stew.jpg</span>"
 page_id: 64201
 namespace: 6
 revision_id: 367155
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, [One of the Dúnedain](/wiki/One_of_the_D%C3%BAnedain).
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, [One of the Dúnedain](../../main/O/One_of_the_Dúnedain.md).
 
 ## Licensing {#Licensing}
 

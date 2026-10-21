@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouths of Sirion"
 ---
 
-Redirect to [Mouths of Sirion](/wiki/Mouths_of_Sirion).
+Redirect to [Mouths of Sirion](Mouths_of_Sirion.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Isildur"
 ---
 
-Redirect to [House of Isildur](/wiki/House_of_Isildur).
+Redirect to [House of Isildur](../H/House_of_Isildur.md).

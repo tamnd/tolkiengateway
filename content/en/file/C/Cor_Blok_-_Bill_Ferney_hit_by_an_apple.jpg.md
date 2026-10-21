@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Bill Ferney hit by an apple.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Bill Ferney hit by an apple.jpg</span>"
 page_id: 71508
 namespace: 6
 revision_id: 426427
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Bill Ferney](/wiki/Bill_Ferny "Bill Ferny") hit by an apple" by [Cor Blok](/wiki/Cor_Blok), created in [1960](/wiki/1960).
+"[Bill Ferney](../../main/B/Bill_Ferny.md) hit by an apple" by [Cor Blok](../../main/C/Cor_Blok.md), created in [1960](../../main/_/1960.md).
 
 ## Licensing {#Licensing}
 

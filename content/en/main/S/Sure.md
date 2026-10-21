@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Súrë"
 ---
 
-Redirect to [Súrë](/wiki/Súrë).
+Redirect to [Súrë](Súrë.md).

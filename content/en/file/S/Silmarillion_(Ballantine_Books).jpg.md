@@ -1,6 +1,5 @@
 ---
 title: "File:Silmarillion (Ballantine Books).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Silmarillion (Ballantine Books).jpg</span>"
 page_id: 57103
 namespace: 6
 revision_id: 374599
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover features [The Fall of Numenor](/wiki/File:Darrell_Sweet_-_The_Fall_of_Numenor.jpg "File:Darrell Sweet - The Fall of Numenor.jpg") by [Darrell Sweet](/wiki/Darrell_Sweet).
+The cover features [The Fall of Numenor](../D/Darrell_Sweet_-_The_Fall_of_Numenor.jpg.md) by [Darrell Sweet](../../main/D/Darrell_Sweet.md).
 
 ## Licensing {#Licensing}
 

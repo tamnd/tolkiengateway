@@ -1,6 +1,5 @@
 ---
 title: "Category:Lays and tales within the legendarium"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lays and tales within the legendarium</span>"
 page_id: 59111
 namespace: 14
 revision_id: 368056
@@ -13,6 +12,6 @@ categories:
   - "Eä"
 ---
 
-This category lists all **Lays and Tales within the [legendarium](/wiki/Legendarium "Legendarium")** (including poems and similar).
+This category lists all **Lays and Tales within the [legendarium](../../main/L/Legendarium.md)** (including poems and similar).
 
-<dl><dd><i>See also: <a href="/wiki/Category:Books_and_documents_within_the_legendarium" title="Category:Books and documents within the legendarium">Category:Books and documents within the legendarium</a></i></dd></dl>
+<dl><dd><i>See also: <a href="../B/Books_and_documents_within_the_legendarium.md" title="Category:Books and documents within the legendarium">Category:Books and documents within the legendarium</a></i></dd></dl>

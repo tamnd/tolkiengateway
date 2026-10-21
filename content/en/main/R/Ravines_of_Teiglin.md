@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ravines of Taeglin"
 ---
 
-Redirect to [Ravines of Taeglin](/wiki/Ravines_of_Taeglin).
+Redirect to [Ravines of Taeglin](Ravines_of_Taeglin.md).

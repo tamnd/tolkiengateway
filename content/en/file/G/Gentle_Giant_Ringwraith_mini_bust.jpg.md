@@ -1,6 +1,5 @@
 ---
 title: "File:Gentle Giant Ringwraith mini bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gentle Giant Ringwraith mini bust.jpg</span>"
 page_id: 10948
 namespace: 6
 revision_id: 191142

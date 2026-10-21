@@ -1,6 +1,5 @@
 ---
 title: "File:LotR TCG - 15-17.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotR TCG - 15-17.jpg</span>"
 page_id: 12478
 namespace: 6
 revision_id: 249486

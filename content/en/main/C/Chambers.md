@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Buildings"
 ---
 
-Redirect to [Category:Buildings](/wiki/Category:Buildings).
+Redirect to [Category:Buildings](../../category/B/Buildings.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Cave Troll.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Cave Troll.png</span>"
 page_id: 73117
 namespace: 6
 revision_id: 432869
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Cave Troll](/wiki/Cave-trolls "Cave-trolls") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor027/cave-troll" rel="noreferrer noopener" target="_blank">Bricklink</a>
+[Cave Troll](../../main/C/Cave-trolls.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor027/cave-troll" rel="noreferrer noopener" target="_blank">Bricklink</a>
 
 ## Licensing {#Licensing}
 

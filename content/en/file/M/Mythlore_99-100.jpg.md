@@ -1,6 +1,5 @@
 ---
 title: "File:Mythlore 99-100.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythlore 99-100.jpg</span>"
 page_id: 64575
 namespace: 6
 revision_id: 370925

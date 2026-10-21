@@ -15,10 +15,10 @@ sort_keys:
   "Letters": "Hill, Joy (1969-06)"
 ---
 
-In June [1969](/wiki/1969), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Joy Hill](/wiki/Joy_Hill)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In June [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Joy Hill](../J/Joy_Hill.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** Comments on an adaptation of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
-- **Publication:** Extracts from the letter first appeared in [*Carandaith* Vol.2, No.1](/wiki/Carandaith_Vol.2,_No.1 "Carandaith Vol.2, No.1").
+- **Subject:** Comments on an adaptation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+- **Publication:** Extracts from the letter first appeared in [*Carandaith* Vol.2, No.1](../C/Carandaith_Vol.2,_No.1.md).
 
 ## Excerpt {#Excerpt}
 
@@ -30,6 +30,6 @@ In June [1969](/wiki/1969), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a le
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 743</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 743</span>
 </li>
 </ol></div>

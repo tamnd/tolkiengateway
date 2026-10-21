@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lyë"
 ---
 
-Redirect to [Lyë](/wiki/Lyë).
+Redirect to [Lyë](Lyë.md).

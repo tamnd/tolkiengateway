@@ -11,4 +11,4 @@ redirect_target: "Vaiya"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Vaiya](/wiki/Vaiya#Other_versions_of_the_legendarium).
+Redirect to [Vaiya](Vaiya.md#Other_versions_of_the_legendarium).

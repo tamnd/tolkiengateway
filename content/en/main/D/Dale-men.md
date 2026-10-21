@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Dale"
 ---
 
-Redirect to [Men of Dale](/wiki/Men_of_Dale).
+Redirect to [Men of Dale](../M/Men_of_Dale.md).

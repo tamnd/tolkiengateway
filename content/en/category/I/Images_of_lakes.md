@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of lakes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of lakes</span>"
 page_id: 39877
 namespace: 14
 revision_id: 200278

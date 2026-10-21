@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters not published in The Letters of J.R.R. Tolkien"
 ---
 
-Redirect to [Letters not published in The Letters of J.R.R. Tolkien](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien).
+Redirect to [Letters not published in The Letters of J.R.R. Tolkien](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md).

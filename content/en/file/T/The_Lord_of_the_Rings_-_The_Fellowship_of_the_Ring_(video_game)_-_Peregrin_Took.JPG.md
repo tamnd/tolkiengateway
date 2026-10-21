@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Peregrin Took.JPG</span>"
 page_id: 20982
 namespace: 6
 revision_id: 298623
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Peregrin Took](/wiki/Peregrin_Took), on the streets of [Bree](/wiki/Bree). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Peregrin Took](../../main/P/Peregrin_Took.md), on the streets of [Bree](../../main/B/Bree.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

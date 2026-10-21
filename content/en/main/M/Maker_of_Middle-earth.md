@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien: Maker of Middle-earth"
 ---
 
-Redirect to [Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth).
+Redirect to [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md).

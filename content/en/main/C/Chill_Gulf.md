@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Qerkaringa"
 ---
 
-Redirect to [Qerkaringa](/wiki/Qerkaringa).
+Redirect to [Qerkaringa](../Q/Qerkaringa.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elenwë"
 ---
 
-Redirect to [Elenwë](/wiki/Elenwë).
+Redirect to [Elenwë](../E/Elenwë.md).

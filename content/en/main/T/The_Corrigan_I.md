@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of Aotrou and Itroun"
 ---
 
-Redirect to [The Lay of Aotrou and Itroun](/wiki/The_Lay_of_Aotrou_and_Itroun).
+Redirect to [The Lay of Aotrou and Itroun](The_Lay_of_Aotrou_and_Itroun.md).

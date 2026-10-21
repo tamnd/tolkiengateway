@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - The Witch King's Hour.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - The Witch King&#039;s Hour.png</span>"
 page_id: 63962
 namespace: 6
 revision_id: 364924

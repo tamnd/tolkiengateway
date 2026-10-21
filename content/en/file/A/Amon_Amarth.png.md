@@ -1,6 +1,5 @@
 ---
 title: "File:Amon Amarth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amon Amarth.png</span>"
 page_id: 59419
 namespace: 6
 revision_id: 330542
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of [Amon Amarth (band)](</wiki/Amon_Amarth_(band)>).
+Logo of [Amon Amarth (band)](<../../main/A/Amon_Amarth_(band).md>).
 
 ## Licensing {#Licensing}
 

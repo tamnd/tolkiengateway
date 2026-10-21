@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalfs Battle.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalfs Battle.png</span>"
 page_id: 36136
 namespace: 6
 revision_id: 214082

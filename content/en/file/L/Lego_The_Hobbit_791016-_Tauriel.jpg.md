@@ -1,6 +1,5 @@
 ---
 title: "File:Lego The Hobbit 791016- Tauriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego The Hobbit 791016- Tauriel.jpg</span>"
 page_id: 53350
 namespace: 6
 revision_id: 290381

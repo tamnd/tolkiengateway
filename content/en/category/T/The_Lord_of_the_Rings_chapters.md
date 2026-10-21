@@ -17,4 +17,4 @@ sort_keys:
   "The Lord of the Rings": "Lord of the Rings chapters"
 ---
 
-<dl><dd><i>Chapters, volumes and sections of</i> <b><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></b>.</dd></dl>
+<dl><dd><i>Chapters, volumes and sections of</i> <b><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b>.</dd></dl>

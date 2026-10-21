@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Streams"
 ---
 
-Redirect to [Category:Streams](/wiki/Category:Streams).
+Redirect to [Category:Streams](../../category/S/Streams.md).

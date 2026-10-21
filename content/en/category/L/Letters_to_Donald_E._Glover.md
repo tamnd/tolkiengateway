@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Donald E. Glover"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Donald E. Glover</span>"
 page_id: 68714
 namespace: 14
 revision_id: 408899
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Glover, Donald E."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Donald_E._Glover&amp;action=edit&amp;redlink=1" title="Donald E. Glover (page does not exist)">Donald E. Glover</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Donald_E._Glover&amp;action=edit&amp;redlink=1" title="Donald E. Glover (page does not exist)">Donald E. Glover</a>.

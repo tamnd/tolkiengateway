@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir"
 ---
 
-Redirect to [Barahir](/wiki/Barahir).
+Redirect to [Barahir](Barahir.md).

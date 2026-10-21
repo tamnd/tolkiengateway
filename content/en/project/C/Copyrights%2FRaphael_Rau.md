@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Raphael Rau"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Raphael Rau</span>"
 page_id: 40706
 namespace: 4
 revision_id: 206705
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rau, Raphael"
 ---
 
-- Raphael Rau has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Raphael_Rau "Category:Images by Raphael Rau") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Raphael Rau has kindly granted his permission to use [his artwork](../../category/I/Images_by_Raphael_Rau.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 28 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

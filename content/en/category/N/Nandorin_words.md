@@ -1,6 +1,5 @@
 ---
 title: "Category:Nandorin words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nandorin words</span>"
 page_id: 21481
 namespace: 14
 revision_id: 92865

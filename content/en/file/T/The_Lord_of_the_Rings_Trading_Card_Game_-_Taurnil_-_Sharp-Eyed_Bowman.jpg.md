@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Taurnil_-_Sharp-Eyed_Bowman.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Taurnil_-_Sharp-Eyed_Bowman.jpg.md).

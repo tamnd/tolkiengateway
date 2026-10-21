@@ -1,6 +1,5 @@
 ---
 title: "Brian Haines"
-display_title: "<span class=\"mw-page-title-main\">Brian Haines</span>"
 page_id: 19817
 namespace: 0
 revision_id: 221995
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Haines, Brian"
 ---
 
-**Brian Haines** ([May 9](/wiki/9_May "9 May"), [1921](/wiki/1921) - [July 25](/wiki/25_July "25 July"), [1991](/wiki/1991)) was a British actor.
+**Brian Haines** ([May 9](../_/9_May.md), [1921](../_/1921.md) - [July 25](../_/25_July.md), [1991](../_/1991.md)) was a British actor.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968) - [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)") - [Bifur](/wiki/Bifur), [Bert](/wiki/Bert), [Dáin Ironfoot](/wiki/D%C3%A1in_Ironfoot)
-- [1981](/wiki/1981) - [*The Lord of the Rings* (1981 radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") - [Uglúk](/wiki/Ugl%C3%BAk)
+- [1968](../_/1968.md) - [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>) - [Bifur](Bifur.md), [Bert](Bert.md), [Dáin Ironfoot](../D/Dáin_Ironfoot.md)
+- [1981](../_/1981.md) - [*The Lord of the Rings* (1981 radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) - [Uglúk](../U/Uglúk.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindarization"
 ---
 
-Redirect to [Sindarization](/wiki/Sindarization).
+Redirect to [Sindarization](Sindarization.md).

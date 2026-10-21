@@ -1,6 +1,5 @@
 ---
 title: "Category:Periodicals"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Periodicals</span>"
 page_id: 26513
 namespace: 14
 revision_id: 104738

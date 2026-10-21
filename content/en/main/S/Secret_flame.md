@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Secret Fire"
 ---
 
-Redirect to [Secret Fire](/wiki/Secret_Fire).
+Redirect to [Secret Fire](Secret_Fire.md).

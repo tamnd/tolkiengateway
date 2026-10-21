@@ -1,6 +1,5 @@
 ---
 title: "File:Stanley Unwin 30 April 1954.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stanley Unwin 30 April 1954.jpg</span>"
 page_id: 40499
 namespace: 6
 revision_id: 215123

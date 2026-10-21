@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's signature"
 ---
 
-Redirect to [J.R.R. Tolkien's signature](/wiki/J.R.R._Tolkien's_signature).
+Redirect to [J.R.R. Tolkien's signature](J.R.R._Tolkien's_signature.md).

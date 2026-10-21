@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Red Book of Westmarch"
 ---
 
-Redirect to [Red Book of Westmarch](/wiki/Red_Book_of_Westmarch).
+Redirect to [Red Book of Westmarch](../R/Red_Book_of_Westmarch.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The War of the Rohirrim Theatrical Poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The War of the Rohirrim Theatrical Poster.jpg</span>"
 page_id: 70342
 namespace: 6
 revision_id: 424037
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Theatrical poster for *[The Lord of the Rings: The War of the Rohirrim](/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim)*
+Theatrical poster for *[The Lord of the Rings: The War of the Rohirrim](../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md)*
 
 ## Licensing {#Licensing}
 

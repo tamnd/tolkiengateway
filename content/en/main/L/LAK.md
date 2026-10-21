@@ -1,6 +1,5 @@
 ---
 title: "LAK"
-display_title: "<span class=\"mw-page-title-main\">LAK</span>"
 page_id: 10097
 namespace: 0
 revision_id: 318344
@@ -15,8 +14,8 @@ categories:
 
 **Á-LAK-** is a stem that means *rushing*.
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): <i><a class="new" href="/w/index.php?title=Al%C3%A2k%C3%B4&amp;action=edit&amp;redlink=1" title="Alâkô (page does not exist)">alâkô</a>, <a class="new" href="/w/index.php?title=Alkw%C3%A2&amp;action=edit&amp;redlink=1" title="Alkwâ (page does not exist)">alkwâ</a></i>
-- [Quenya](/wiki/Quenya): *[alqua](/wiki/Alqua "Alqua"), [Alqualondë](/wiki/Alqualond%C3%AB)*
-- [Telerin](/wiki/Telerin): <i><a class="new" href="/w/index.php?title=Alpa&amp;action=edit&amp;redlink=1" title="Alpa (page does not exist)">alpa</a></i>
-- [Old Sindarin](/wiki/Old_Sindarin): <i><a class="new" href="/w/index.php?title=Alpha&amp;action=edit&amp;redlink=1" title="Alpha (page does not exist)">alpha</a></i>
-- [Sindarin](/wiki/Sindarin): *[alph](/wiki/Alph "Alph"), [Nîn-in-Eilph](/wiki/Swanfleet "Swanfleet"), [alag](/wiki/Alag "Alag")*, <i><a class="new" href="/w/index.php?title=Alagos&amp;action=edit&amp;redlink=1" title="Alagos (page does not exist)">alagos</a></i>, *[Ancalagon](/wiki/Ancalagon)*
+- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Al%C3%A2k%C3%B4&amp;action=edit&amp;redlink=1" title="Alâkô (page does not exist)">alâkô</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alkw%C3%A2&amp;action=edit&amp;redlink=1" title="Alkwâ (page does not exist)">alkwâ</a></i>
+- [Quenya](../Q/Quenya.md): *[alqua](../A/Alqua.md), [Alqualondë](../A/Alqualondë.md)*
+- [Telerin](../T/Telerin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alpa&amp;action=edit&amp;redlink=1" title="Alpa (page does not exist)">alpa</a></i>
+- [Old Sindarin](../O/Old_Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alpha&amp;action=edit&amp;redlink=1" title="Alpha (page does not exist)">alpha</a></i>
+- [Sindarin](../S/Sindarin.md): *[alph](../A/Alph.md), [Nîn-in-Eilph](../S/Swanfleet.md), [alag](../A/Alag.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alagos&amp;action=edit&amp;redlink=1" title="Alagos (page does not exist)">alagos</a></i>, *[Ancalagon](../A/Ancalagon.md)*

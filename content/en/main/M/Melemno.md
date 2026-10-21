@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ellu"
 ---
 
-Redirect to [Ellu](/wiki/Ellu).
+Redirect to [Ellu](../E/Ellu.md).

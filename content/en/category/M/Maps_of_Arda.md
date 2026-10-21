@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Arda"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Arda</span>"
 page_id: 24555
 namespace: 14
 revision_id: 199934
@@ -15,4 +14,4 @@ sort_keys:
   "Maps by location": "Arda"
 ---
 
-Maps of the whole or the majority of [Arda](/wiki/Arda).
+Maps of the whole or the majority of [Arda](../../main/A/Arda.md).

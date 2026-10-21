@@ -1,6 +1,5 @@
 ---
 title: "File:Roger Verhulst 9 March 1966 (4).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roger Verhulst 9 March 1966 (4).jpg</span>"
 page_id: 29634
 namespace: 6
 revision_id: 215109

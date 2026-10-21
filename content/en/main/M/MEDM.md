@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Dark Minions"
 ---
 
-Redirect to [Middle-earth: Dark Minions](/wiki/Middle-earth:_Dark_Minions).
+Redirect to [Middle-earth: Dark Minions](Middle-earth%253A_Dark_Minions.md).

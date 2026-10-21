@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sunday"
 ---
 
-Redirect to [Sunday](/wiki/Sunday).
+Redirect to [Sunday](Sunday.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Greater Harad"
 ---
 
-Redirect to [Greater Harad](/wiki/Greater_Harad).
+Redirect to [Greater Harad](../G/Greater_Harad.md).

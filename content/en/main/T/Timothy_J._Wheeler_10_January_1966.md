@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Timothy J. Wheeler (10 January 1966)"
 ---
 
-Redirect to [Letter to Timothy J. Wheeler (10 January 1966)](/wiki/Letter_to_Timothy_J._Wheeler_(10_January_1966)).
+Redirect to [Letter to Timothy J. Wheeler (10 January 1966)](<../L/Letter_to_Timothy_J._Wheeler_(10_January_1966).md>).

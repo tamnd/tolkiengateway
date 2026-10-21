@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Öshül-küllösh"
 ---
 
-Redirect to [Öshül-küllösh](/wiki/Öshül-küllösh).
+Redirect to [Öshül-küllösh](../_/Öshül-küllösh.md).

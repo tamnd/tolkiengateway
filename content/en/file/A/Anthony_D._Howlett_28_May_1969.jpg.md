@@ -1,6 +1,5 @@
 ---
 title: "File:Anthony D. Howlett 28 May 1969.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anthony D. Howlett 28 May 1969.jpg</span>"
 page_id: 29105
 namespace: 6
 revision_id: 215015

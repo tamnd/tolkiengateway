@@ -14,19 +14,19 @@ categories:
   - "Quenya verbs"
 ---
 
-## [Quenya](/wiki/Quenya) {#Quenya}
+## [Quenya](../Q/Quenya.md) {#Quenya}
 
 ### Noun {#Noun}
 
-1. <i><b>tengwa</b></i> "letter", one of the [tengwar](/wiki/Tengwar "Tengwar")
+1. <i><b>tengwa</b></i> "letter", one of the [tengwar](Tengwar.md)
 
 #### Etymology {#Etymology}
 
-- *teñmâ* &lt; [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") [TEÑ](/wiki/TE%C3%91)
+- *teñmâ* &lt; [Root](../S/Sundocarmë.md) [TEÑ](TEÑ.md)
 
 #### Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=T%C3%AAw&amp;action=edit&amp;redlink=1" title="Têw (page does not exist)">têw</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%AAw&amp;action=edit&amp;redlink=1" title="Têw (page does not exist)">têw</a></i>
 
 ### Verb {#Verb}
 
@@ -44,6 +44,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-VT49b-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT49b_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT49b_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Five Late Quenya Volitive Inscriptions&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, pp. 48, 54 note 13</span>
+<li id="cite_note-VT49b-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT49b_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT49b_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Five Late Quenya Volitive Inscriptions&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, pp. 48, 54 note 13</span>
 </li>
 </ol></div>

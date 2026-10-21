@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Students of J.R.R. Tolkien"
 ---
 
-Redirect to [Category:Students of J.R.R. Tolkien](/wiki/Category:Students_of_J.R.R._Tolkien).
+Redirect to [Category:Students of J.R.R. Tolkien](../../category/S/Students_of_J.R.R._Tolkien.md).

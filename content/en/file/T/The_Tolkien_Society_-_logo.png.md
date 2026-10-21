@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Society - logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Society - logo.png</span>"
 page_id: 42311
 namespace: 6
 revision_id: 224622
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Copyright © [The Tolkien Society](/wiki/The_Tolkien_Society)
+Copyright © [The Tolkien Society](../../main/T/The_Tolkien_Society.md)
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Copyright © [The Tolkien Society](/wiki/The_Tolkien_Society)
 </p>
 <ul><li><b>Name:</b> The Tolkien Society</li>
 <li><b>Website:</b> <a class="external text" href="http://www.tolkiensociety.org.uk" rel="noreferrer noopener" target="_blank">The Tolkien Society&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/The_Tolkien_Society" title="Tolkien Gateway:Copyrights/The Tolkien Society">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FThe_Tolkien_Society.md" title="Tolkien Gateway:Copyrights/The Tolkien Society">Permission for use on Tolkien Gateway</a></b></li></ul></div>

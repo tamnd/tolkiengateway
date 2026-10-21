@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enedwaith"
 ---
 
-Redirect to [Enedwaith](/wiki/Enedwaith).
+Redirect to [Enedwaith](Enedwaith.md).

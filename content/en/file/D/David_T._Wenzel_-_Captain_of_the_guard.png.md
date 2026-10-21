@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - Captain of the guard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - Captain of the guard.png</span>"
 page_id: 71654
 namespace: 6
 revision_id: 431962
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The [captain of the guard](/wiki/Captain_of_the_guard "Captain of the guard") - [*The Hobbit* (comic book)](</wiki/The_Hobbit_(comic_book)> "The Hobbit (comic book)") illustration by [David T. Wenzel](/wiki/David_T._Wenzel)
+The [captain of the guard](../../main/C/Captain_of_the_guard.md) - [*The Hobbit* (comic book)](<../../main/T/The_Hobbit_(comic_book).md>) illustration by [David T. Wenzel](../../main/D/David_T._Wenzel.md)
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ The [captain of the guard](/wiki/Captain_of_the_guard "Captain of the guard") - 
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

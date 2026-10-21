@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yavanna"
 ---
 
-Redirect to [Yavanna](/wiki/Yavanna).
+Redirect to [Yavanna](Yavanna.md).

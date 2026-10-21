@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Foalókë"
 ---
 
-Redirect to [Foalókë](/wiki/Foalókë).
+Redirect to [Foalókë](Foalókë.md).

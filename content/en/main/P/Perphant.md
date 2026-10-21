@@ -11,4 +11,4 @@ redirect_target: "List of minor The Lord of the Rings Online characters in the E
 redirect_fragment: "Perphant"
 ---
 
-Redirect to [List of minor The Lord of the Rings Online characters in the Ered Luin](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Perphant).
+Redirect to [List of minor The Lord of the Rings Online characters in the Ered Luin](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Perphant).

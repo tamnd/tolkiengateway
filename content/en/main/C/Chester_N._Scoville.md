@@ -1,6 +1,5 @@
 ---
 title: "Chester N. Scoville"
-display_title: "<span class=\"mw-page-title-main\">Chester N. Scoville</span>"
 page_id: 21510
 namespace: 0
 revision_id: 405075
@@ -21,13 +20,13 @@ sort_keys:
   "People by name": "Scoville, Chester N."
 ---
 
-**Chester N. Scoville**, Ph. D., is a lecturer at the Department of English of the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Toronto_Mississauga" title="wikipedia:University of Toronto Mississauga">University of Toronto Mississauga</a>, and a member of the [Mythopoeic Society](/wiki/Mythopoeic_Society).
+**Chester N. Scoville**, Ph. D., is a lecturer at the Department of English of the <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Toronto_Mississauga" title="wikipedia:University of Toronto Mississauga">University of Toronto Mississauga</a>, and a member of the [Mythopoeic Society](../M/Mythopoeic_Society.md).
 
 ## Bibliography {#Bibliography}
 
-- [2005](/wiki/2005): *[Tolkien's Modern Middle Ages](/wiki/Tolkien%27s_Modern_Middle_Ages)*
+- [2005](../_/2005.md): *[Tolkien's Modern Middle Ages](../T/Tolkien's_Modern_Middle_Ages.md)*
     - "Pastoralia and Perfectibility in William Morris and J.R.R. Tolkien"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entries
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entries
     - "Estate"
     - "Hobbit, The"
     - "Leeds"

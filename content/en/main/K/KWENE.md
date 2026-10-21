@@ -11,4 +11,4 @@ redirect_target: "KWE"
 redirect_fragment: "KWENE"
 ---
 
-Redirect to [KWE](/wiki/KWE#KWENE).
+Redirect to [KWE](KWE.md#KWENE).

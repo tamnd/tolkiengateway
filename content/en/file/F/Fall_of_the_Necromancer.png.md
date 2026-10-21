@@ -1,6 +1,5 @@
 ---
 title: "File:Fall of the Necromancer.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fall of the Necromancer.png</span>"
 page_id: 36143
 namespace: 6
 revision_id: 433576

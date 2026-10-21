@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Trinidad and Tobago"
 ---
 
-Redirect to [Category:Trinidad and Tobago](/wiki/Category:Trinidad_and_Tobago).
+Redirect to [Category:Trinidad and Tobago](../../category/T/Trinidad_and_Tobago.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Ring: Proceedings of the Tolkien Society Conference 2012"
 ---
 
-Redirect to [The Return of the Ring: Proceedings of the Tolkien Society Conference 2012](/wiki/The_Return_of_the_Ring:_Proceedings_of_the_Tolkien_Society_Conference_2012).
+Redirect to [The Return of the Ring: Proceedings of the Tolkien Society Conference 2012](The_Return_of_the_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012.md).

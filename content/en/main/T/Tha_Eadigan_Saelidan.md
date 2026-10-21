@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tha Eadigan Saelidan: The Happy Mariners"
 ---
 
-Redirect to [Tha Eadigan Saelidan: The Happy Mariners](/wiki/Tha_Eadigan_Saelidan:_The_Happy_Mariners).
+Redirect to [Tha Eadigan Saelidan: The Happy Mariners](Tha_Eadigan_Saelidan%253A_The_Happy_Mariners.md).

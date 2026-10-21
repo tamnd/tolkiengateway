@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Houses of Healing"
 ---
 
-Redirect to [Houses of Healing](/wiki/Houses_of_Healing).
+Redirect to [Houses of Healing](Houses_of_Healing.md).

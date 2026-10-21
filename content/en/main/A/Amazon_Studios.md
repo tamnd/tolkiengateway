@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amazon MGM Studios"
 ---
 
-Redirect to [Amazon MGM Studios](/wiki/Amazon_MGM_Studios).
+Redirect to [Amazon MGM Studios](Amazon_MGM_Studios.md).

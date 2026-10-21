@@ -1,6 +1,5 @@
 ---
 title: "Vale of Narog"
-display_title: "<span class=\"mw-page-title-main\">Vale of Narog</span>"
 page_id: 4057
 namespace: 0
 revision_id: 260769
@@ -13,9 +12,9 @@ categories:
   - "Valleys"
 ---
 
-The **Vale of Narog** was the valley of the swift-running River [Narog](/wiki/Narog) cut southwards through [West Beleriand](/wiki/West_Beleriand) from the river's sources beneath [Ered Wethrin](/wiki/Ered_Wethrin) in the north. For the first half of the river's journey, the Vale passed through the high moorlands west of [Doriath](/wiki/Doriath),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> through lands that were ruled from [Nargothrond](/wiki/Nargothrond), and past the field of [Tumhalad](/wiki/Tumhalad) where Nargothrond's last battle was fought.
+The **Vale of Narog** was the valley of the swift-running River [Narog](../N/Narog.md) cut southwards through [West Beleriand](../W/West_Beleriand.md) from the river's sources beneath [Ered Wethrin](../E/Ered_Wethrin.md) in the north. For the first half of the river's journey, the Vale passed through the high moorlands west of [Doriath](../D/Doriath.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> through lands that were ruled from [Nargothrond](../N/Nargothrond.md), and past the field of [Tumhalad](../T/Tumhalad.md) where Nargothrond's last battle was fought.
 
-As the river plunged into the rocky lands beneath [Taur-en-Faroth](/wiki/Taur-en-Faroth), its valley became much steeper and narrower, until the river emerged to flow across the lowlands of West Beleriand and ran on to meet [Sirion](/wiki/Sirion) at [Nan-tathren](/wiki/Nan-tathren).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+As the river plunged into the rocky lands beneath [Taur-en-Faroth](../T/Taur-en-Faroth.md), its valley became much steeper and narrower, until the river emerged to flow across the lowlands of West Beleriand and ran on to meet [Sirion](../S/Sirion.md) at [Nan-tathren](../N/Nan-tathren.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
@@ -23,8 +22,8 @@ As the river plunged into the rocky lands beneath [Taur-en-Faroth](/wiki/Taur-en
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="/wiki/T%C3%BArin_among_the_Outlaws" title="Túrin among the Outlaws">Túrin among the Outlaws</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/Túrin_among_the_Outlaws.md" title="Túrin among the Outlaws">Túrin among the Outlaws</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
 </ol></div>

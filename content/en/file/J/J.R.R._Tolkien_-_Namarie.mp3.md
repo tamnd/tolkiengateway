@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Namarie.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Namarie.mp3</span>"
 page_id: 65115
 namespace: 6
 revision_id: 424269
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out the [Namárië](/wiki/Nam%C3%A1ri%C3%AB) in [Galadriel](/wiki/Galadriel)'s voice.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out the [Namárië](../../main/N/Namárië.md) in [Galadriel](../../main/G/Galadriel.md)'s voice.
 
 ## Licensing {#Licensing}
 

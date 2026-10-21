@@ -1,6 +1,5 @@
 ---
 title: "File:Raine Kuusi - Old Forest.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Raine Kuusi - Old Forest.jpg</span>"
 page_id: 17160
 namespace: 6
 revision_id: 206821
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Raine Kuusi</li>
 <li><b>Website:</b> <a class="external text" href="http://r-k.cgsociety.org/gallery/" rel="noreferrer noopener" target="_blank">Raine Kuusi&#39;s CGPortfolio</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Raine_Kuusi" title="Tolkien Gateway:Copyrights/Raine Kuusi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRaine_Kuusi.md" title="Tolkien Gateway:Copyrights/Raine Kuusi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

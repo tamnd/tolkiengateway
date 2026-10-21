@@ -1,6 +1,5 @@
 ---
 title: "File:Nachrichten aus Mittelerde.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nachrichten aus Mittelerde.jpg</span>"
 page_id: 36525
 namespace: 6
 revision_id: 214559

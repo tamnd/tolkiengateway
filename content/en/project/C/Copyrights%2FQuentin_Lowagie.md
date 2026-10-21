@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Quentin Lowagie"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Quentin Lowagie</span>"
 page_id: 39196
 namespace: 4
 revision_id: 193265
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lowagie, Quentin"
 ---
 
-- [Quentin Lowagie](/wiki/User:Klow "User:Klow") has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Quentin_Lowagie "Category:Images by Quentin Lowagie") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Quentin Lowagie](https://tolkiengateway.net/wiki/User:Klow) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Quentin_Lowagie.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 May 2012
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

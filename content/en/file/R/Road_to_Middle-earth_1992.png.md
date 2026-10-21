@@ -1,6 +1,5 @@
 ---
 title: "File:Road to Middle-earth 1992.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Road to Middle-earth 1992.png</span>"
 page_id: 62391
 namespace: 6
 revision_id: 352477

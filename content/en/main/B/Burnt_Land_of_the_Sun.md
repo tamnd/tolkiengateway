@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Land of the Sun"
 ---
 
-Redirect to [Land of the Sun](/wiki/Land_of_the_Sun).
+Redirect to [Land of the Sun](../L/Land_of_the_Sun.md).

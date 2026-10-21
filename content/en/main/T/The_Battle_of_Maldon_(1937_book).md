@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Battle of Maldon (E.V. Gordon)"
 ---
 
-Redirect to [The Battle of Maldon (E.V. Gordon)](/wiki/The_Battle_of_Maldon_(E.V._Gordon)).
+Redirect to [The Battle of Maldon (E.V. Gordon)](<The_Battle_of_Maldon_(E.V._Gordon).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Stephen Walsh"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Stephen Walsh</span>"
 page_id: 47794
 namespace: 4
 revision_id: 254294
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Walsh, Stephen"
 ---
 
-- Stephen Walsh has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Stephen_Walsh "Category:Images by Stephen Walsh") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Stephen Walsh has kindly granted his permission to use [his artwork](../../category/I/Images_by_Stephen_Walsh.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 September 2014
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anthony Burdge"
 ---
 
-Redirect to [Anthony Burdge](/wiki/Anthony_Burdge).
+Redirect to [Anthony Burdge](Anthony_Burdge.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mabel Tolkien"
 ---
 
-Redirect to [Mabel Tolkien](/wiki/Mabel_Tolkien).
+Redirect to [Mabel Tolkien](Mabel_Tolkien.md).

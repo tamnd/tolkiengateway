@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bigatures"
 ---
 
-Redirect to [Bigatures](/wiki/Bigatures).
+Redirect to [Bigatures](Bigatures.md).

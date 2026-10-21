@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Mike Szabados"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Mike Szabados</span>"
 page_id: 73368
 namespace: 14
 revision_id: 433944

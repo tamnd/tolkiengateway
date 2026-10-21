@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belegaer"
 ---
 
-Redirect to [Belegaer](/wiki/Belegaer).
+Redirect to [Belegaer](../B/Belegaer.md).

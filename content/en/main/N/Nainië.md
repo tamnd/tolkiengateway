@@ -1,6 +1,5 @@
 ---
 title: "Nainië"
-display_title: "<span class=\"mw-page-title-main\">Nainië</span>"
 page_id: 49755
 namespace: 0
 revision_id: 267005
@@ -15,7 +14,7 @@ sort_keys:
   "Quenya nouns": "Nainie"
 ---
 
-**Nainië** is a [Quenya](/wiki/Quenya) word that means *lament*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nainië** is a [Quenya](../Q/Quenya.md) word that means *lament*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
@@ -23,6 +22,6 @@ sort_keys:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, “<a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, subtitle</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../D/Donald_Swann.md" title="Donald Swann">Donald Swann</a>, “<a href="Namárië.md" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, subtitle</span>
 </li>
 </ol></div>

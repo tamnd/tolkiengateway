@@ -1,6 +1,5 @@
 ---
 title: "Midway Games"
-display_title: "<span class=\"mw-page-title-main\">Midway Games</span>"
 page_id: 20510
 namespace: 0
 revision_id: 362562
@@ -15,11 +14,11 @@ categories:
   - "American businesses"
 ---
 
-**Midway Games** was an American video game publisher. They were the original North American publishers of [The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar).
+**Midway Games** was an American video game publisher. They were the original North American publishers of [The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md).
 
-**Inevitable Entertainment**, developers of the [2003](/wiki/2003) game *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*, were acquired by Midway in [2004](/wiki/2004) and renamed Midway Austin. **Surreal Software**, developers of the [2002](/wiki/2002) game *[The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)")*, was also acquired, but that company kept its original branding.
+**Inevitable Entertainment**, developers of the [2003](../_/2003.md) game *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*, were acquired by Midway in [2004](../_/2004.md) and renamed Midway Austin. **Surreal Software**, developers of the [2002](../_/2002.md) game *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)*, was also acquired, but that company kept its original branding.
 
-The company was disestablished in [June 9](/wiki/9_June "9 June") of [2010](/wiki/2010), because of bankruptcy. Μost of Midway's assets were purchased by [Warner Bros.](/wiki/Warner_Bros.).
+The company was disestablished in [June 9](../_/9_June.md) of [2010](../_/2010.md), because of bankruptcy. Μost of Midway's assets were purchased by [Warner Bros.](../W/Warner_Bros..md).
 
 ## External links {#External_links}
 

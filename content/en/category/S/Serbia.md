@@ -1,6 +1,5 @@
 ---
 title: "Category:Serbia"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Serbia</span>"
 page_id: 40103
 namespace: 14
 revision_id: 201687

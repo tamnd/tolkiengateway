@@ -1,6 +1,5 @@
 ---
 title: "File:Orange-Freecountry-Flag-.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orange-Freecountry-Flag-.png</span>"
 page_id: 29609
 namespace: 6
 revision_id: 248675
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The Flag of [Orange Free State](/wiki/Orange_Free_State).
+The Flag of [Orange Free State](../../main/O/Orange_Free_State.md).
 
 ## Licensing {#Licensing}
 

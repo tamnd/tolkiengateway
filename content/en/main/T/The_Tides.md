@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Horns of Ylmir"
 ---
 
-Redirect to [The Horns of Ylmir](/wiki/The_Horns_of_Ylmir).
+Redirect to [The Horns of Ylmir](The_Horns_of_Ylmir.md).

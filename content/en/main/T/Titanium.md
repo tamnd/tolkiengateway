@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mithril"
 ---
 
-Redirect to [Mithril](/wiki/Mithril).
+Redirect to [Mithril](../M/Mithril.md).

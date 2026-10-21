@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Stonefoots.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Stonefoots.jpg</span>"
 page_id: 59719
 namespace: 6
 revision_id: 333694
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

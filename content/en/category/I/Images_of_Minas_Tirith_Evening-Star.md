@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Minas Tirith Evening-Star"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Minas Tirith Evening-Star</span>"
 page_id: 44201
 namespace: 14
 revision_id: 232447
@@ -15,4 +14,4 @@ sort_keys:
   "Images of magazines": "Minas Tirith Evenin-Star"
 ---
 
-Images of *[Minas Tirith Evening-Star](/wiki/Minas_Tirith_Evening-Star)*.
+Images of *[Minas Tirith Evening-Star](../../main/M/Minas_Tirith_Evening-Star.md)*.

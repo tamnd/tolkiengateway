@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hazad"
 ---
 
-Redirect to [Hazad](/wiki/Hazad).
+Redirect to [Hazad](Hazad.md).

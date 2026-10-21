@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldalótë"
 ---
 
-Redirect to [Eldalótë](/wiki/Eldalótë).
+Redirect to [Eldalótë](Eldalótë.md).

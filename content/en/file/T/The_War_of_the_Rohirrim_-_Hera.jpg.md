@@ -1,6 +1,5 @@
 ---
 title: "File:The War of the Rohirrim - Hera.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The War of the Rohirrim - Hera.jpg</span>"
 page_id: 67454
 namespace: 6
 revision_id: 435401

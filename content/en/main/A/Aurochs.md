@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kine of Araw"
 ---
 
-Redirect to [Kine of Araw](/wiki/Kine_of_Araw).
+Redirect to [Kine of Araw](../K/Kine_of_Araw.md).

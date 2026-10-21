@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Erethón - Naith Lieutenant.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Erethón - Naith Lieutenant.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Erethón_-_Naith_Lieutenant.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Erethón - Naith Lieutenant.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Erethón_-_Naith_Lieutenant.jpg.md).

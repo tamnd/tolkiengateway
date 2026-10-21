@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Lord of the Eagles.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Lord of the Eagles.png</span>"
 page_id: 71556
 namespace: 6
 revision_id: 426749
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Lord of the Eagles](/wiki/Great_Eagles "Great Eagles") - [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")
+[The Lord of the Eagles](../../main/G/Great_Eagles.md) - [*The Hobbit* (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Licensing {#Licensing}
 

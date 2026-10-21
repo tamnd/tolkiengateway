@@ -1,6 +1,5 @@
 ---
 title: "Mindeb"
-display_title: "<span class=\"mw-page-title-main\">Mindeb</span>"
 page_id: 3952
 namespace: 0
 revision_id: 324800
@@ -28,15 +27,15 @@ langlinks:
     url: "https://kontu.wiki/Mindeb"
 ---
 
-The **Mindeb** was a river of [Beleriand](/wiki/Beleriand), a northern tributary to the river [Sirion](/wiki/Sirion).
+The **Mindeb** was a river of [Beleriand](../B/Beleriand.md), a northern tributary to the river [Sirion](../S/Sirion.md).
 
-The Mindeb began in the [Ered Gorgoroth](/wiki/Ered_Gorgoroth) near the [Pass of Anach](/wiki/Anach "Anach"), and was met by a tributary coming from the [Crissaegrim](/wiki/Crissaegrim). Upon its western bank was the land of [Dimbar](/wiki/Dimbar) while on the east were the valley of [Nan Dungortheb](/wiki/Nan_Dungortheb) and the [Forest of Neldoreth](/wiki/Forest_of_Neldoreth).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In its lower reaches it bordered [Doriath](/wiki/Doriath) and thus was part of the [Girdle of Melian](/wiki/Girdle_of_Melian).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+The Mindeb began in the [Ered Gorgoroth](../E/Ered_Gorgoroth.md) near the [Pass of Anach](../A/Anach.md), and was met by a tributary coming from the [Crissaegrim](../C/Crissaegrim.md). Upon its western bank was the land of [Dimbar](../D/Dimbar.md) while on the east were the valley of [Nan Dungortheb](../N/Nan_Dungortheb.md) and the [Forest of Neldoreth](../F/Forest_of_Neldoreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> In its lower reaches it bordered [Doriath](../D/Doriath.md) and thus was part of the [Girdle of Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_the_Sindar" title="Of the Sindar">Of the Sindar</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Sindar.md" title="Of the Sindar">Of the Sindar</a>&#34;</span>
 </li>
 </ol></div>

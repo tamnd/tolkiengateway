@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Shadow of the Past"
 ---
 
-Redirect to [A Shadow of the Past](/wiki/A_Shadow_of_the_Past).
+Redirect to [A Shadow of the Past](../A/A_Shadow_of_the_Past.md).

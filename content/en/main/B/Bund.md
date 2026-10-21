@@ -13,22 +13,22 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>Bund</b></i> means *head* in [Khuzdul](/wiki/Khuzdul).
+<i><b>Bund</b></i> means *head* in [Khuzdul](../K/Khuzdul.md).
 
 ## Etymology {#Etymology}
 
-From [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") B-N-D<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+From [Root](../S/Sundocarmë.md) B-N-D<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[Bundushathur](/wiki/Bundushathur)*
-- *[Sharbhund](/wiki/Sharbhund)*
+- *[Bundushathur](Bundushathur.md)*
+- *[Sharbhund](../S/Sharbhund.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Treason_of_Isengard" title="The Treason of Isengard">The Treason of Isengard</a></i> p.174</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> p.174</span>
 </li>
 </ol></div>

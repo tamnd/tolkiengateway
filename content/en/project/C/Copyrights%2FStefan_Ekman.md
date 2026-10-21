@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Stefan Ekman"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Stefan Ekman</span>"
 page_id: 38223
 namespace: 4
 revision_id: 193185
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ekman, Stefan"
 ---
 
-- Permission granted by copyright holder [Stefan Ekman](/wiki/Stefan_Ekman) to use [Stefan Ekman.png](/wiki/File:Stefan_Ekman.png "File:Stefan Ekman.png") on Tolkien Gateway.
+- Permission granted by copyright holder [Stefan Ekman](../../main/S/Stefan_Ekman.md) to use [Stefan Ekman.png](../../file/S/Stefan_Ekman.png.md) on Tolkien Gateway.
 - Date: 8 February 2012
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

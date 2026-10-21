@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Dameon Willich"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Dameon Willich</span>"
 page_id: 30461
 namespace: 14
 revision_id: 437094
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Willich, Dameon"
 ---
 
-This category lists all **images by [Dameon Willich](/wiki/Dameon_Willich)**.
+This category lists all **images by [Dameon Willich](../../main/D/Dameon_Willich.md)**.

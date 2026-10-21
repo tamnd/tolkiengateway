@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gléowine"
 ---
 
-Redirect to [Gléowine](/wiki/Gléowine).
+Redirect to [Gléowine](Gléowine.md).

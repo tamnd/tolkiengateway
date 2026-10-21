@@ -1,6 +1,5 @@
 ---
 title: "Karen Haber"
-display_title: "<span class=\"mw-page-title-main\">Karen Haber</span>"
 page_id: 29697
 namespace: 0
 revision_id: 131572
@@ -21,23 +20,23 @@ images:
   - "Karen_Haber.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Karen_Haber.jpg"><img src="/w/images/thumb/e/e5/Karen_Haber.jpg/300px-Karen_Haber.jpg" decoding="async" loading="lazy" width="300" height="185" class="mw-file-element" srcset="/w/images/thumb/e/e5/Karen_Haber.jpg/450px-Karen_Haber.jpg 1.5x, /w/images/e/e5/Karen_Haber.jpg 2x" data-file-width="500" data-file-height="308"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Karen_Haber.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Karen_Haber.jpg/300px-Karen_Haber.jpg" decoding="async" loading="lazy" width="300" height="185" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Karen_Haber.jpg/450px-Karen_Haber.jpg 1.5x, https://tolkiengateway.net/w/images/e/e5/Karen_Haber.jpg 2x" data-file-width="500" data-file-height="308"/></a><figcaption></figcaption></figure>
 
-**Karen Haber** (born [1955](/wiki/1955)) is an American author and editor, perhaps best known for her works of fantasy and science fiction.
+**Karen Haber** (born [1955](../_/1955.md)) is an American author and editor, perhaps best known for her works of fantasy and science fiction.
 
-In 2001 she edited a <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Hugo</a>-nominated essay collection celebrating [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In 2001 she edited a <a class="extiw" href="http://en.wikipedia.org/wiki/Hugo_Award" title="wikipedia:Hugo Award">Hugo</a>-nominated essay collection celebrating [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [2001](/wiki/2001): *[Meditations on Middle-earth: New Writing on the Worlds of J.R.R. Tolkien](/wiki/Meditations_on_Middle-earth "Meditations on Middle-earth")* (editor)
+- [2001](../_/2001.md): *[Meditations on Middle-earth: New Writing on the Worlds of J.R.R. Tolkien](../M/Meditations_on_Middle-earth.md)* (editor)
 
 ### Articles and short stories {#Articles_and_short_stories}
 
-- [1991](/wiki/1991): *[After the King: Stories In Honor of J.R.R. Tolkien](/wiki/After_the_King "After the King")*
+- [1991](../_/1991.md): *[After the King: Stories In Honor of J.R.R. Tolkien](../A/After_the_King.md)*
     - "Up the Side of the Air"
-- [2001](/wiki/2001): *[Meditations on Middle-earth: New Writing on the Worlds of J.R.R. Tolkien](/wiki/Meditations_on_Middle-earth "Meditations on Middle-earth")*
+- [2001](../_/2001.md): *[Meditations on Middle-earth: New Writing on the Worlds of J.R.R. Tolkien](../M/Meditations_on_Middle-earth.md)*
     - "Preface: The Beat Goes On"
 
 ## External links {#External_links}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dorlas"
 ---
 
-Redirect to [Dorlas](/wiki/Dorlas).
+Redirect to [Dorlas](Dorlas.md).

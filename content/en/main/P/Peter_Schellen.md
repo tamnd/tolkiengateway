@@ -1,6 +1,5 @@
 ---
 title: "Peter Schellen"
-display_title: "<span class=\"mw-page-title-main\">Peter Schellen</span>"
 page_id: 36563
 namespace: 0
 revision_id: 381896
@@ -23,11 +22,11 @@ sort_keys:
 
 ## History {#History}
 
-Schellen is a former treasurer and audit committee member of [Unquendor](/wiki/Unquendor),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> co-founder of the now defunct [South African Tolkien Society Haradrim](</wiki/Haradrim_(Tolkien_Society)> "Haradrim (Tolkien Society)"), publisher of Tolkien periodical *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> innkeeper of Unquendor smial [Gondolin](/wiki/Unquendor "Unquendor"), and incubator of [Tolkien societies](/wiki/Tolkien_Societies "Tolkien Societies") in [Slovenia](</wiki/Gil-Galad_(Tolkien_Society)> "Gil-Galad (Tolkien Society)") and [Israel](/wiki/Israeli_Tolkien_Society "Israeli Tolkien Society").
+Schellen is a former treasurer and audit committee member of [Unquendor](../U/Unquendor.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> co-founder of the now defunct [South African Tolkien Society Haradrim](<../H/Haradrim_(Tolkien_Society).md>), publisher of Tolkien periodical *Voronwë*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> innkeeper of Unquendor smial [Gondolin](../U/Unquendor.md), and incubator of [Tolkien societies](../T/Tolkien_Societies~67099.md) in [Slovenia](<../G/Gil-Galad_(Tolkien_Society).md>) and [Israel](../I/Israeli_Tolkien_Society.md).
 
-He is also a collector and a number of his articles have appeared in *[Amon Hen](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)")* and *[Lembas](</wiki/Lembas_(journal)> "Lembas (journal)")*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+He is also a collector and a number of his articles have appeared in *[Amon Hen](<../A/Amon_Hen_(journal).md>)* and *[Lembas](<../L/Lembas_(journal).md>)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-His research in South Africa was donated to Unquendor and later used by [Renee Vink](/wiki/Renee_Vink) in her article on Tolkien and South Africa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+His research in South Africa was donated to Unquendor and later used by [Renee Vink](../R/Renee_Vink.md) in her article on Tolkien and South Africa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 From 1994 to 1996 Schellen also published a periodical named Voronwë for his smial.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -43,10 +42,10 @@ More recently, Peter has supported the Afrikaans translations of the Lord of the
 
 - 1999: *Angerthas 49*
     - "Portrait of Bloemfontein"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
-- [1999](/wiki/1999): [*Amon Hen* 159](/wiki/Amon_Hen_159 "Amon Hen 159")
+- [1999](../_/1999.md): [*Amon Hen* 159](../A/Amon_Hen_159.md)
     - "Portrait of Bloemfontein"
-- [2001](/wiki/2001): [*Amon Hen* 167](/wiki/Amon_Hen_167 "Amon Hen 167")
-    - "Obituary: [Rayner Unwin](/wiki/Rayner_Unwin)"
+- [2001](../_/2001.md): [*Amon Hen* 167](../A/Amon_Hen_167.md)
+    - "Obituary: [Rayner Unwin](../R/Rayner_Unwin.md)"
 
 <span></span>
 

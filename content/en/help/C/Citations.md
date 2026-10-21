@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Help:References"
 ---
 
-Redirect to [Help:References](/wiki/Help:References).
+Redirect to [Help:References](../R/References.md).

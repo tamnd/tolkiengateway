@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sûza"
 ---
 
-Redirect to [Sûza](/wiki/Sûza).
+Redirect to [Sûza](Sûza.md).

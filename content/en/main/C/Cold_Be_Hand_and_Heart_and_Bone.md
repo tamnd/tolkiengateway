@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cold be hand and heart and bone,"
 ---
 
-Redirect to [Cold be hand and heart and bone,](/wiki/Cold_be_hand_and_heart_and_bone,).
+Redirect to [Cold be hand and heart and bone,](Cold_be_hand_and_heart_and_bone,.md).

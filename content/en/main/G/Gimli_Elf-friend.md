@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimli"
 ---
 
-Redirect to [Gimli](/wiki/Gimli).
+Redirect to [Gimli](Gimli.md).

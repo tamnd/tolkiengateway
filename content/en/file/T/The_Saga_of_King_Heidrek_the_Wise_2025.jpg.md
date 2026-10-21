@@ -1,6 +1,5 @@
 ---
 title: "File:The Saga of King Heidrek the Wise 2025.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Saga of King Heidrek the Wise 2025.jpg</span>"
 page_id: 70575
 namespace: 6
 revision_id: 420916

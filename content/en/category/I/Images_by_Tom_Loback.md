@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tom Loback"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tom Loback</span>"
 page_id: 58305
 namespace: 14
 revision_id: 322199
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Loback, Tom"
 ---
 
-This category lists all **images by [Tom Loback](/wiki/Tom_Loback)**.
+This category lists all **images by [Tom Loback](../../main/T/Tom_Loback.md)**.

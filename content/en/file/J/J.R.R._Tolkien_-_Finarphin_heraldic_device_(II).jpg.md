@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Finarphin heraldic device (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Finarphin heraldic device (II).jpg</span>"
 page_id: 64829
 namespace: 6
 revision_id: 373445
@@ -29,7 +28,7 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/548/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #548</a>. Published in:
 
-- *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)*, p. 238, #82
+- *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)*, p. 238, #82
 
 ## Licensing {#Licensing}
 

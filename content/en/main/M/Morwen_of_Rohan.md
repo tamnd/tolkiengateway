@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morwen (film character)"
 ---
 
-Redirect to [Morwen (film character)](/wiki/Morwen_(film_character)).
+Redirect to [Morwen (film character)](<Morwen_(film_character).md>).

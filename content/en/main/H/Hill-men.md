@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hillmen"
 ---
 
-Redirect to [Hillmen](/wiki/Hillmen).
+Redirect to [Hillmen](Hillmen.md).

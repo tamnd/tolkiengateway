@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleg"
 ---
 
-Redirect to [Beleg](/wiki/Beleg).
+Redirect to [Beleg](../B/Beleg.md).

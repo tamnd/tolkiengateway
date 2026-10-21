@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ringló"
 ---
 
-Redirect to [Ringló](/wiki/Ringló).
+Redirect to [Ringló](Ringló.md).

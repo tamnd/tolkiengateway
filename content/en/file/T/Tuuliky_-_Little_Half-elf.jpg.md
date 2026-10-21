@@ -1,6 +1,5 @@
 ---
 title: "File:Tuuliky - Little Half-elf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tuuliky - Little Half-elf.jpg</span>"
 page_id: 17642
 namespace: 6
 revision_id: 183904
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Maglor](/wiki/Maglor), second son of [Fëanor](/wiki/F%C3%ABanor), and [Elrond](/wiki/Elrond) [Half-elven](/wiki/Half-elven).
+[Maglor](../../main/M/Maglor.md), second son of [Fëanor](../../main/F/Fëanor.md), and [Elrond](../../main/E/Elrond.md) [Half-elven](../../main/H/Half-elven.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tuuliky</li>
 <li><b>Website:</b> <a class="external text" href="http://tuuliky.deviantart.com/" rel="noreferrer noopener" target="_blank">Tuuliky&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tuuliky" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTuuliky.md" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>

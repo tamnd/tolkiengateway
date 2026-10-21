@@ -1,6 +1,5 @@
 ---
 title: "Zaragamba Family"
-display_title: "<span class=\"mw-page-title-main\">Zaragamba Family</span>"
 page_id: 4883
 namespace: 0
 revision_id: 128592
@@ -13,17 +12,17 @@ categories:
   - "Westron words"
 ---
 
-**Zaragamba** is the actual name of the [Hobbitish](/wiki/Hobbitish) old family-name "[Oldbuck](/wiki/Oldbuck_Family "Oldbuck Family")".
+**Zaragamba** is the actual name of the [Hobbitish](../H/Hobbitish.md) old family-name "[Oldbuck](../O/Oldbuck_Family.md)".
 
-When [Gorhendad](/wiki/Gorhendad_Oldbuck "Gorhendad Oldbuck"), travelled east and founded [Buckland](/wiki/Buckland) on the Shire's borders, the family name changed to *[Brandagamba](/wiki/Brandagamba)*.
+When [Gorhendad](../G/Gorhendad_Oldbuck.md), travelled east and founded [Buckland](../B/Buckland.md) on the Shire's borders, the family name changed to *[Brandagamba](../B/Brandagamba.md)*.
 
 ## Etymology {#Etymology}
 
-The name contains the elements <i><a class="new" href="/w/index.php?title=Zara&amp;action=edit&amp;redlink=1" title="Zara (page does not exist)">zara</a></i>, "old" and <i><a class="new" href="/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">gamba</a></i>, "buck".<sup id="cite_ref-AppF_1-0" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup> <span></span>
+The name contains the elements <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zara&amp;action=edit&amp;redlink=1" title="Zara (page does not exist)">zara</a></i>, "old" and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamba&amp;action=edit&amp;redlink=1" title="Gamba (page does not exist)">gamba</a></i>, "buck".<sup id="cite_ref-AppF_1-0" class="reference"><a href="#cite_note-AppF-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-AppF-1"><span class="mw-cite-backlink"><a href="#cite_ref-AppF_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_F" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
+<li id="cite_note-AppF-1"><span class="mw-cite-backlink"><a href="#cite_ref-AppF_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_F.md" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
 </li>
 </ol></div>

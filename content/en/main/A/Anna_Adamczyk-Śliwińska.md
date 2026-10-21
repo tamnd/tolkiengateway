@@ -1,6 +1,5 @@
 ---
 title: "Anna Adamczyk-Śliwińska"
-display_title: "<span class=\"mw-page-title-main\">Anna Adamczyk-Śliwińska</span>"
 page_id: 53142
 namespace: 0
 revision_id: 440125
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Adamczyk-Sliwinska, Anna"
 ---
 
-**Anna Adamczyk-Śliwińska** 'Nifrodel' is editor-in-chief and one of the founders of the Polish Tolkienists Almanac *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)").* She has served as editor-in-chief from [November](/wiki/November) [2004](/wiki/2004) to the present.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](/wiki/Sekcja_Tolkienowska_%C5%9AKF "Sekcja Tolkienowska ŚKF").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Anna Adamczyk-Śliwińska** 'Nifrodel' is editor-in-chief and one of the founders of the Polish Tolkienists Almanac *[Aiglos](<Aiglos_(journal).md>).* She has served as editor-in-chief from [November](../N/November.md) [2004](../_/2004.md) to the present.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <br>
 
@@ -27,22 +26,22 @@ sort_keys:
 
 ### Articles {#Articles}
 
-- [2005](/wiki/2005): *[Aiglos Special Issue](/wiki/Aiglos_Special_Issue_I "Aiglos Special Issue I")*
+- [2005](../_/2005.md): *[Aiglos Special Issue](Aiglos_Special_Issue_I.md)*
     - "Tolkien and Nature"
     - Poetry
-- [2011](/wiki/2011): *[Aiglos 15](/wiki/Aiglos_15)*
+- [2011](../_/2011.md): *[Aiglos 15](Aiglos_15.md)*
     - Poetry
-- [2012](/wiki/2012): *[Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)*
+- [2012](../_/2012.md): *[Aiglos Special Issue II](Aiglos_Special_Issue_II.md)*
     - "Word, power and will – magic in the writings of J.R.R. Tolkien"
     - Poetry
 
 ### Reviews {#Reviews}
 
-- [2005](/wiki/2005): *[Aiglos Special Issue](/wiki/Aiglos_Special_Issue_I "Aiglos Special Issue I")*
+- [2005](../_/2005.md): *[Aiglos Special Issue](Aiglos_Special_Issue_I.md)*
     - *An Outline of the Theology of Middle-earth*
-- [2011](/wiki/2011): *[Aiglos 15](/wiki/Aiglos_15)*
+- [2011](../_/2011.md): *[Aiglos 15](Aiglos_15.md)*
     - L.E. Jones, *Myth and Middle-earth, Exploring the Legends Behind J.R.R. Tolkien’s The Hobbit and The Lord of the Rings* ("Second-rate Writing, or How to Make Money on Tolkien")
-- [2012](/wiki/2012): *[Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)*
+- [2012](../_/2012.md): *[Aiglos Special Issue II](Aiglos_Special_Issue_II.md)*
     - "*The Lord of the Rings*, the book and the film as seen by the students of the Adam Mickiewicz University"
     - "The History of an unusual Friendship? Colin Duriez, *Tolkien and C.S. Lewis: The Gift of Friendship*"
 

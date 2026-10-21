@@ -1,6 +1,5 @@
 ---
 title: "John Leigh"
-display_title: "<span class=\"mw-page-title-main\">John Leigh</span>"
 page_id: 5254
 namespace: 0
 revision_id: 406055
@@ -28,7 +27,7 @@ langlinks:
     url: "https://kontu.wiki/John_Leigh"
 ---
 
-New Zealand actor **John Leigh** (born 1965) played [Háma](/wiki/H%C3%A1ma) in [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers).
+New Zealand actor **John Leigh** (born 1965) played [Háma](../H/Háma.md) in [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth from Script to Screen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth from Script to Screen.jpg</span>"
 page_id: 70346
 namespace: 6
 revision_id: 418657

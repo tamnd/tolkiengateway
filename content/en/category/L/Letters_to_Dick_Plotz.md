@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Dick Plotz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Dick Plotz</span>"
 page_id: 66808
 namespace: 14
 revision_id: 391838
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Plotz, Dick"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Dick Plotz](/wiki/Dick_Plotz).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Dick Plotz](../../main/D/Dick_Plotz.md).

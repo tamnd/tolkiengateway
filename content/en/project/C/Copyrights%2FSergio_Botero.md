@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sergio Botero"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sergio Botero</span>"
 page_id: 68569
 namespace: 4
 revision_id: 407873
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Botero, Sergio"
 ---
 
-- <a class="new" href="/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Sergio_Botero "Category:Images by Sergio Botero") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergio_Botero&amp;action=edit&amp;redlink=1" title="Sergio Botero (page does not exist)">Sergio Botero</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Sergio_Botero.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 23 August 2024
-- User who sought the permission via email: [User:Oberiko](/wiki/User:Oberiko)
+- User who sought the permission via email: [User:Oberiko](https://tolkiengateway.net/wiki/User:Oberiko)

@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Gordon, E.V. (1926-01-02)"
 ---
 
-On [2 January](/wiki/2_January) [1929](/wiki/1929), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [E.V. Gordon](/wiki/E.V._Gordon)**.
+On [2 January](../_/2_January.md) [1929](../_/1929.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [E.V. Gordon](../E/E.V._Gordon.md)**.
 
 - **Publication:** None
 - **Description:** Tolkien writes to E.V. Gordon, referring to Gordon’s plan to start an Icelandic collection at the University of Leeds and enclosing songs.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -26,6 +26,6 @@ On [2 January](/wiki/2_January) [1929](/wiki/1929), [J.R.R. Tolkien](/wiki/J.R.R
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a> (accessed 30 May 2015)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a> (accessed 30 May 2015)</span>
 </li>
 </ol></div>

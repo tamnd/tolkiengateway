@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn-call of Buckland"
 ---
 
-Redirect to [Horn-call of Buckland](/wiki/Horn-call_of_Buckland).
+Redirect to [Horn-call of Buckland](Horn-call_of_Buckland.md).

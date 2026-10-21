@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phindē"
 ---
 
-Redirect to [Phindē](/wiki/Phindē).
+Redirect to [Phindē](Phindē.md).

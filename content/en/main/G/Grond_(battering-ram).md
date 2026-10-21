@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grond (battering ram)"
 ---
 
-Redirect to [Grond (battering ram)](/wiki/Grond_(battering_ram)).
+Redirect to [Grond (battering ram)](<Grond_(battering_ram).md>).

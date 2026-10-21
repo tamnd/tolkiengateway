@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Heather Hudson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Heather Hudson</span>"
 page_id: 29870
 namespace: 14
 revision_id: 182018

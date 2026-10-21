@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of the Ent and Entwife"
 ---
 
-Redirect to [Song of the Ent and Entwife](/wiki/Song_of_the_Ent_and_Entwife).
+Redirect to [Song of the Ent and Entwife](../S/Song_of_the_Ent_and_Entwife.md).

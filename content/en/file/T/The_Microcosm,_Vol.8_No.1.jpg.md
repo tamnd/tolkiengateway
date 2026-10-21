@@ -1,6 +1,5 @@
 ---
 title: "File:The Microcosm, Vol.8 No.1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Microcosm, Vol.8 No.1.jpg</span>"
 page_id: 26553
 namespace: 6
 revision_id: 224840

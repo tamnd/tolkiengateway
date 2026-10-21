@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Belgium"
 ---
 
-Redirect to [Category:Belgium](/wiki/Category:Belgium).
+Redirect to [Category:Belgium](../../category/B/Belgium.md).

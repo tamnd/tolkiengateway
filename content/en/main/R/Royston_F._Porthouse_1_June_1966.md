@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Royston F. Porthouse"
 ---
 
-Redirect to [Letter to Royston F. Porthouse](/wiki/Letter_to_Royston_F._Porthouse).
+Redirect to [Letter to Royston F. Porthouse](../L/Letter_to_Royston_F._Porthouse.md).

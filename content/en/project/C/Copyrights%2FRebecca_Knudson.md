@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Rebecca Knudson"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Rebecca Knudson</span>"
 page_id: 71375
 namespace: 4
 revision_id: 425855
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Knudson, Rebecca"
 ---
 
-- Rebecca Knudson has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Rebecca_Knudson "Category:Images by Rebecca Knudson") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Rebecca Knudson has kindly granted her permission to use [her artwork](../../category/I/Images_by_Rebecca_Knudson.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 October 2025
-- User who sought the permission via email: [BrandonEchols](/wiki/User:BrandonEchols "User:BrandonEchols")
+- User who sought the permission via email: [BrandonEchols](https://tolkiengateway.net/wiki/User:BrandonEchols)

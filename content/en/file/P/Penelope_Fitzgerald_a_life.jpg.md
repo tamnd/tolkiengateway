@@ -1,6 +1,5 @@
 ---
 title: "File:Penelope Fitzgerald a life.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Penelope Fitzgerald a life.jpg</span>"
 page_id: 48493
 namespace: 6
 revision_id: 259164

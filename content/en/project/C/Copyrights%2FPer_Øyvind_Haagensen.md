@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Per Øyvind Haagensen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Per Øyvind Haagensen</span>"
 page_id: 40702
 namespace: 4
 revision_id: 206675
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Haagensen, Per Øyvind"
 ---
 
-- Per Øyvind Haagensen has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Per_%C3%98yvind_Haagensen "Category:Images by Per Øyvind Haagensen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Haagensen painted the cover art for *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*; he does not own the copyright here.
+- Per Øyvind Haagensen has kindly granted his permission to use [his artwork](../../category/I/Images_by_Per_Øyvind_Haagensen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Haagensen painted the cover art for *[The Lord of the Rings: Conquest](../../main/T/The_Lord_of_the_Rings%253A_Conquest.md)*; he does not own the copyright here.
 - Date: 28 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

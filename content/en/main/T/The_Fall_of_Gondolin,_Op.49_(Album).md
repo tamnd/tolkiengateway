@@ -1,6 +1,5 @@
 ---
 title: "The Fall of Gondolin, Op.49 (Album)"
-display_title: "<span class=\"mw-page-title-main\">The Fall of Gondolin, Op.49 (Album)</span>"
 page_id: 65191
 namespace: 0
 revision_id: 426193
@@ -15,9 +14,9 @@ images:
   - "Gondolin_CD_Artwork.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Gondolin_CD_Artwork.png"><img src="/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, /w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release with permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondolin_CD_Artwork.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/300px-Gondolin_CD_Artwork.png" decoding="async" loading="lazy" width="300" height="297" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Gondolin_CD_Artwork.png/450px-Gondolin_CD_Artwork.png 1.5x, https://tolkiengateway.net/w/images/1/1c/Gondolin_CD_Artwork.png 2x" data-file-width="600" data-file-height="593"/></a><figcaption>Artwork from the CD release with permission of Ted Nasmith.</figcaption></figure>
 
-Complete Demo Recording of composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic work *[The Fall of Gondolin, Op.49 (Opera)](</wiki/The_Fall_of_Gondolin,_Op.49_(Opera)>)* from his cycle *Epic Scenes from The SIlmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2018.
+Complete Demo Recording of composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic work *[The Fall of Gondolin, Op.49 (Opera)](<The_Fall_of_Gondolin,_Op.49_(Opera).md>)* from his cycle *Epic Scenes from The SIlmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2018.
 
 <br> **Cast:**
 

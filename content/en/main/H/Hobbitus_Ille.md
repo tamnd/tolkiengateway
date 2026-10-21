@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit/Translations"
 ---
 
-Redirect to [The Hobbit/Translations](/wiki/The_Hobbit/Translations).
+Redirect to [The Hobbit/Translations](../T/The_Hobbit%252FTranslations.md).

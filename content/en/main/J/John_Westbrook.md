@@ -1,6 +1,5 @@
 ---
 title: "John Westbrook"
-display_title: "<span class=\"mw-page-title-main\">John Westbrook</span>"
 page_id: 18028
 namespace: 0
 revision_id: 185803
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Westbrook, John"
 ---
 
-**John Westbrook** ([November 1](/wiki/1_November "1 November"), [1922](/wiki/1922) - [June 16](/wiki/16_June "16 June"), [1989](/wiki/1989)) provided the voice of [Treebeard](/wiki/Treebeard) in [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+**John Westbrook** ([November 1](../_/1_November.md), [1922](../_/1922.md) - [June 16](../_/16_June.md), [1989](../_/1989.md)) provided the voice of [Treebeard](../T/Treebeard.md) in [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

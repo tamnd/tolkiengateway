@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Galadriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Galadriel.jpg</span>"
 page_id: 71601
 namespace: 6
 revision_id: 426888
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Galadriel](/wiki/Galadriel)" - Artwork by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"), commission completed in February [2020](/wiki/2020).
+"[Galadriel](../../main/G/Galadriel.md)" - Artwork by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), commission completed in February [2020](../../main/_/2020.md).
 
 ## Licensing {#Licensing}
 

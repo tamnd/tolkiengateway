@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wayne Che Yip"
 ---
 
-Redirect to [Wayne Che Yip](/wiki/Wayne_Che_Yip).
+Redirect to [Wayne Che Yip](Wayne_Che_Yip.md).

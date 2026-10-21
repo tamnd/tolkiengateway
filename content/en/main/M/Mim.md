@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mîm"
 ---
 
-Redirect to [Mîm](/wiki/Mîm).
+Redirect to [Mîm](Mîm.md).

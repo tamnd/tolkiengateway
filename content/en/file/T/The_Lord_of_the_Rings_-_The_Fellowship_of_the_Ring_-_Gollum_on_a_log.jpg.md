@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Gollum on a log.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Gollum on a log.jpg</span>"
 page_id: 72675
 namespace: 6
 revision_id: 431132
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gollum](/wiki/Gollum) following [the Fellowship of the Ring](/wiki/Fellowship_of_the_Ring "Fellowship of the Ring") down the [Great River Anduin](/wiki/Anduin "Anduin")
+[Gollum](../../main/G/Gollum.md) following [the Fellowship of the Ring](../../main/F/Fellowship_of_the_Ring.md) down the [Great River Anduin](../../main/A/Anduin.md)
 
 ## Licensing {#Licensing}
 

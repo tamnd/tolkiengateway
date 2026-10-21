@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Fataneh Howe"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Fataneh Howe</span>"
 page_id: 72815
 namespace: 14
 revision_id: 431459
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Howe, Fataneh"
 ---
 
-This category lists all **images by [Fataneh Howe](/wiki/Fataneh_Howe)**.
+This category lists all **images by [Fataneh Howe](../../main/F/Fataneh_Howe.md)**.

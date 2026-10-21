@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hither Shore"
 ---
 
-Redirect to [Hither Shore](/wiki/Hither_Shore).
+Redirect to [Hither Shore](Hither_Shore.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images from The Lord of the Rings Strategy Battle Game"
 ---
 
-Redirect to [Category:Images from The Lord of the Rings Strategy Battle Game](/wiki/Category:Images_from_The_Lord_of_the_Rings_Strategy_Battle_Game).
+Redirect to [Category:Images from The Lord of the Rings Strategy Battle Game](Images_from_The_Lord_of_the_Rings_Strategy_Battle_Game.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Maxim Baldry 2019.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maxim Baldry 2019.jpg</span>"
 page_id: 63314
 namespace: 6
 revision_id: 434521
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.comingsoon.net/tv/news/1105269-lord-of-the-ring-series-adds-maxim-baldry" rel="noreferrer noopener" target="_blank">News report</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

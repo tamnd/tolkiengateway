@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nauro"
 ---
 
-Redirect to [Nauro](/wiki/Nauro).
+Redirect to [Nauro](../N/Nauro.md).

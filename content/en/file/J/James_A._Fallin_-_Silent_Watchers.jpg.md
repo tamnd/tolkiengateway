@@ -1,6 +1,5 @@
 ---
 title: "File:James A. Fallin - Silent Watchers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">James A. Fallin - Silent Watchers.jpg</span>"
 page_id: 72020
 namespace: 6
 revision_id: 428601
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Silent Watchers](/wiki/Two_Watchers "Two Watchers")"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> by <a class="new" href="/w/index.php?title=James_A._Fallin&amp;action=edit&amp;redlink=1" title="James A. Fallin (page does not exist)">James A. Fallin</a> for [*Creatures of Middle-earth* (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)> "Creatures of Middle-earth (2nd edition)")
+"[Silent Watchers](../../main/T/Two_Watchers.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> by <a class="new" href="https://tolkiengateway.net/w/index.php?title=James_A._Fallin&amp;action=edit&amp;redlink=1" title="James A. Fallin (page does not exist)">James A. Fallin</a> for [*Creatures of Middle-earth* (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)
 
 ## Licensing {#Licensing}
 
@@ -45,7 +44,7 @@ file:
 ## Notes {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Depicts the <a href="/wiki/Two_Watchers" title="Two Watchers">Two Watchers</a>, not the <a href="/wiki/Silent_Watchers" title="Silent Watchers">Silent Watchers</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Depicts the <a href="../../main/T/Two_Watchers.md" title="Two Watchers">Two Watchers</a>, not the <a href="../../main/S/Silent_Watchers.md" title="Silent Watchers">Silent Watchers</a></span>
 </li>
 </ol></div></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - suddenly he saw the Goblins...in full armour....jpg"
 ---
 
-Redirect to [File:Alan Lee - suddenly he saw the Goblins...in full armour....jpg](/wiki/File:Alan_Lee_-_suddenly_he_saw_the_Goblins...in_full_armour....jpg).
+Redirect to [File:Alan Lee - suddenly he saw the Goblins...in full armour....jpg](Alan_Lee_-_suddenly_he_saw_the_Goblins...in_full_armour....jpg.md).

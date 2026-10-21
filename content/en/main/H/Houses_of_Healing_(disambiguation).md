@@ -1,6 +1,5 @@
 ---
 title: "Houses of Healing (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Houses of Healing (disambiguation)</span>"
 page_id: 73767
 namespace: 0
 revision_id: 435723
@@ -19,19 +18,19 @@ images:
 
 ## Middle-earth {#Middle-earth}
 
-- **[Houses of Healing](/wiki/Houses_of_Healing)**, the location in [Minas Tirith](/wiki/Minas_Tirith)
+- **[Houses of Healing](Houses_of_Healing.md)**, the location in [Minas Tirith](../M/Minas_Tirith.md)
 
 ## Real world {#Real_world}
 
-- *[The Houses of Healing](/wiki/The_Houses_of_Healing)*, the chapter in *[The Return of the King](/wiki/The_Return_of_the_King)*
-- [*The Houses of Healing* (soundtrack)](</wiki/The_Houses_of_Healing_(soundtrack)> "The Houses of Healing (soundtrack)"), the piece of music from *[The Lord of the Rings: The Return of the King - The Complete Recordings](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_The_Complete_Recordings)*
-- [*The Houses of Healing* (scene)](</wiki/The_Houses_of_Healing_(scene)> "The Houses of Healing (scene)"), the scene from *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)* ([extended edition](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)> "The Lord of the Rings: The Return of the King (extended edition)"))
+- *[The Houses of Healing](../T/The_Houses_of_Healing.md)*, the chapter in *[The Return of the King](../T/The_Return_of_the_King.md)*
+- [*The Houses of Healing* (soundtrack)](<../T/The_Houses_of_Healing_(soundtrack).md>), the piece of music from *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
+- [*The Houses of Healing* (scene)](<../T/The_Houses_of_Healing_(scene).md>), the scene from *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* ([extended edition](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>))
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Houses_of_Healing_(disambiguation)" title="Special:WhatLinksHere/:Houses of Healing (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Houses_of_Healing_(disambiguation)" title="Special:WhatLinksHere/:Houses of Healing (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

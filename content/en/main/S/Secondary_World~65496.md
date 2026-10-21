@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Secondary world"
 ---
 
-Redirect to [Secondary world](/wiki/Secondary_world).
+Redirect to [Secondary world](Secondary_world.md).

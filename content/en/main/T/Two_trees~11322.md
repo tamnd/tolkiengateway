@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Trees of Valinor"
 ---
 
-Redirect to [Two Trees of Valinor](/wiki/Two_Trees_of_Valinor).
+Redirect to [Two Trees of Valinor](Two_Trees_of_Valinor.md).

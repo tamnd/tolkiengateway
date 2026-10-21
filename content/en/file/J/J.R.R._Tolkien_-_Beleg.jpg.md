@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Beleg.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Beleg.jpg</span>"
 page_id: 57462
 namespace: 6
 revision_id: 316500
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawing of [Beleg](/wiki/Beleg) before finding [Gwindor](/wiki/Gwindor) at [Taur-nu-Fuin (Dorthonion)](</wiki/Taur-nu-Fuin_(Dorthonion)>). Extracted from [File:J.R.R. Tolkien - Fangorn Forest.jpg](/wiki/File:J.R.R._Tolkien_-_Fangorn_Forest.jpg).
+Drawing of [Beleg](../../main/B/Beleg.md) before finding [Gwindor](../../main/G/Gwindor.md) at [Taur-nu-Fuin (Dorthonion)](<../../main/T/Taur-nu-Fuin_(Dorthonion).md>). Extracted from [File:J.R.R. Tolkien - Fangorn Forest.jpg](J.R.R._Tolkien_-_Fangorn_Forest.jpg.md).
 
 ## Licensing {#Licensing}
 

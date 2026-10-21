@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Silent Pools"
 ---
 
-Redirect to [Battle of the Silent Pools](/wiki/Battle_of_the_Silent_Pools).
+Redirect to [Battle of the Silent Pools](Battle_of_the_Silent_Pools.md).

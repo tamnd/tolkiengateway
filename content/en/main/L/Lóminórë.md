@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor-lómin"
 ---
 
-Redirect to [Dor-lómin](/wiki/Dor-lómin).
+Redirect to [Dor-lómin](../D/Dor-lómin.md).

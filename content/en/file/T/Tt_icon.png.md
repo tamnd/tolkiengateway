@@ -1,6 +1,5 @@
 ---
 title: "File:Tt icon.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tt icon.png</span>"
 page_id: 28527
 namespace: 6
 revision_id: 168990

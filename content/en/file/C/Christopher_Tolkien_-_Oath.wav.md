@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Oath.wav"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Oath.wav</span>"
 page_id: 71262
 namespace: 6
 revision_id: 425099
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Tolkien](/wiki/Christopher_Tolkien) reads a quote from [Of the Flight of the Noldor](/wiki/Of_the_Flight_of_the_Noldor)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) reads a quote from [Of the Flight of the Noldor](../../main/O/Of_the_Flight_of_the_Noldor.md)
 
 ## Licensing {#Licensing}
 

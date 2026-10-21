@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Princess of Dol Amroth.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Princess of Dol Amroth.jpg](/wiki/File:Ted_Nasmith_-_Princess_of_Dol_Amroth.jpg).
+Redirect to [File:Ted Nasmith - Princess of Dol Amroth.jpg](Ted_Nasmith_-_Princess_of_Dol_Amroth.jpg.md).

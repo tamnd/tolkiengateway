@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Policy"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Policy</span>"
 page_id: 3535
 namespace: 4
 revision_id: 422618
@@ -15,7 +14,7 @@ sort_keys:
   "Tolkien Gateway": "Policy"
 ---
 
-Here are given some brief guidelines to [Tolkien Gateway](/wiki/Tolkien_Gateway)'s **policy**. Common sense is taken for granted. A [user](/wiki/Tolkien_Gateway:Gatekeepers "Tolkien Gateway:Gatekeepers") ignoring the policy will be faced with a temporary or an indefinite [block](/wiki/Tolkien_Gateway:Blocking_policy "Tolkien Gateway:Blocking policy").
+Here are given some brief guidelines to [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)'s **policy**. Common sense is taken for granted. A [user](../G/Gatekeepers.md) ignoring the policy will be faced with a temporary or an indefinite [block](../B/Blocking_policy.md).
 
 ## General guidelines {#General_guidelines}
 
@@ -23,12 +22,12 @@ Here are given some brief guidelines to [Tolkien Gateway](/wiki/Tolkien_Gateway)
 - Be bold in updating pages.
 - Make omissions explicit.
 - Provide an edit summary.
-- Respect the [admins](/wiki/Tolkien_Gateway:Administrators "Tolkien Gateway:Administrators")' decisions.
+- Respect the [admins](../A/Administrators.md)' decisions.
 - Avoid making micro-edits. Take your time to improve several things at once, or leave systematic work to bots or admins.
 
 ## Behavior guidelines {#Behavior_guidelines}
 
-- Don't get into edit fights. If someone undid your edit, solve the matter in the [Chat](/wiki/Chat) or the article's talkpage before making any other change.
+- Don't get into edit fights. If someone undid your edit, solve the matter in the [Chat](../../main/C/Chat.md) or the article's talkpage before making any other change.
 - Sign your posts on talk pages.
 - Avoid profanity.
 - No personal attacks (and move personal debates to private chat or email).
@@ -44,7 +43,7 @@ Here are given some brief guidelines to [Tolkien Gateway](/wiki/Tolkien_Gateway)
 - No AI generated content
 - Explain jargon.
 - State the obvious.
-- Cite sources: point the reader to authoritative references (and [list them properly](/wiki/Help:References "Help:References")).
+- Cite sources: point the reader to authoritative references (and [list them properly](../../help/R/References.md)).
 - Verifiability: ensure information cited is verifiable if needed (this does not mean it is "official", rather it refers to others' ability to confirm it exists and is as stated).
 - Avoid statements that will date quickly.
 - Stay on topic.
@@ -57,7 +56,7 @@ Here are given some brief guidelines to [Tolkien Gateway](/wiki/Tolkien_Gateway)
 
 ## Style guidelines {#Style_guidelines}
 
-- [Manual of style](/wiki/Tolkien_Gateway:Manual_of_Style "Tolkien Gateway:Manual of Style").
+- [Manual of style](../M/Manual_of_Style.md).
 - Don't include copies of primary sources.
 - Follow highlighting conventions.
 - Consider the context when making links.

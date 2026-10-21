@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arktik"
 ---
 
-Redirect to [Arktik](/wiki/Arktik).
+Redirect to [Arktik](Arktik.md).

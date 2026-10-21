@@ -1,6 +1,5 @@
 ---
 title: "Category:Mailing lists"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mailing lists</span>"
 page_id: 13110
 namespace: 14
 revision_id: 105610
@@ -14,4 +13,4 @@ categories:
   - "Internet"
 ---
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related mailing lists.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)-related mailing lists.

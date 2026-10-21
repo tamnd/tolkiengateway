@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Ithil (book)"
 ---
 
-Redirect to [Minas Ithil (book)](/wiki/Minas_Ithil_(book)).
+Redirect to [Minas Ithil (book)](<Minas_Ithil_(book).md>).

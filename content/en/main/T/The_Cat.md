@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cat (poem)"
 ---
 
-Redirect to [Cat (poem)](/wiki/Cat_(poem)).
+Redirect to [Cat (poem)](<../C/Cat_(poem).md>).

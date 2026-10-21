@@ -13,7 +13,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Menegroth</b></i> is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their sixth full-length album, [Oath Bound](/wiki/Oath_Bound), released in [2006](/wiki/2006). It revolves around [Thingol](/wiki/Thingol), King of [Doriath](/wiki/Doriath), and the city of [Menegroth](/wiki/Menegroth) where he lived.
+<i><b>Menegroth</b></i> is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their sixth full-length album, [Oath Bound](../O/Oath_Bound.md), released in [2006](../_/2006.md). It revolves around [Thingol](../T/Thingol.md), King of [Doriath](../D/Doriath.md), and the city of [Menegroth](Menegroth.md) where he lived.
 
 ## Lyrics {#Lyrics}
 
@@ -35,8 +35,8 @@ Where might and glory wealth untold <br/>
 </p>
 </div>
 
-[Fëanor](/wiki/F%C3%ABanor) is quoted at the end of the song: *"I say that we will go on, and this doom I add.."*
+[Fëanor](../F/Fëanor.md) is quoted at the end of the song: *"I say that we will go on, and this doom I add.."*
 
 ## Inspiration {#Inspiration}
 
-While the song references Thingol, the lyrics of the second verse are similar to *[The Fall of Gil-galad](/wiki/The_Fall_of_Gil-galad)*, a poem in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* about [Gil-galad](/wiki/Gil-galad).
+While the song references Thingol, the lyrics of the second verse are similar to *[The Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, a poem in *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* about [Gil-galad](../G/Gil-galad.md).

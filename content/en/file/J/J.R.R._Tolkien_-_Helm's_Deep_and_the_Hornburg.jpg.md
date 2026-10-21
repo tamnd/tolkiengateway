@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Helm's Deep and the Hornburg.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Helm&#039;s Deep and the Hornburg.jpg</span>"
 page_id: 5763
 namespace: 6
 revision_id: 283360
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This sketch was done by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on a page from an examination script, and partly over the handwriting itself; in the reproduction (published in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar)) the writing has been removed. A description is given in [The Two Towers](/wiki/The_Two_Towers), Book III, Chapter 7, of the Horn-burg on the Hornrock, the gorge of [Helm's Deep](/wiki/Helm%27s_Deep), and the Deeping Stream.
+This sketch was done by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) on a page from an examination script, and partly over the handwriting itself; in the reproduction (published in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md)) the writing has been removed. A description is given in [The Two Towers](../../main/T/The_Two_Towers.md), Book III, Chapter 7, of the Horn-burg on the Hornrock, the gorge of [Helm's Deep](../../main/H/Helm's_Deep.md), and the Deeping Stream.
 
 ## Licensing {#Licensing}
 

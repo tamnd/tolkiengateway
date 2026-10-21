@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Nargothrond"
 ---
 
-Redirect to [Fall of Nargothrond](/wiki/Fall_of_Nargothrond).
+Redirect to [Fall of Nargothrond](../F/Fall_of_Nargothrond.md).

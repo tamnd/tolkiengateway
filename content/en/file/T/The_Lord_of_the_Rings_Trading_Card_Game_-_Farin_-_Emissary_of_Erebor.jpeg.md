@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Farin - Emissary of Erebor.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Farin - Emissary of Erebor.jpeg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Farin_-_Emissary_of_Erebor.jpeg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Farin - Emissary of Erebor.jpeg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Farin_-_Emissary_of_Erebor.jpeg.md).

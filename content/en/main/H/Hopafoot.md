@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sador"
 ---
 
-Redirect to [Sador](/wiki/Sador).
+Redirect to [Sador](../S/Sador.md).

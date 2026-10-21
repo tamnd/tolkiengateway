@@ -1,6 +1,5 @@
 ---
 title: "Category:Objects"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Objects</span>"
 page_id: 9120
 namespace: 14
 revision_id: 125088

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael George Tolkien (16 September 1965)"
 ---
 
-Redirect to [Letter to Michael George Tolkien (16 September 1965)](/wiki/Letter_to_Michael_George_Tolkien_(16_September_1965)).
+Redirect to [Letter to Michael George Tolkien (16 September 1965)](<../L/Letter_to_Michael_George_Tolkien_(16_September_1965).md>).

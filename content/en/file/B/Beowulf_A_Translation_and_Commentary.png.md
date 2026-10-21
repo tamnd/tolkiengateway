@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf A Translation and Commentary.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf A Translation and Commentary.png</span>"
 page_id: 62535
 namespace: 6
 revision_id: 353268

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline"
 ---
 
-Redirect to [Timeline](/wiki/Timeline).
+Redirect to [Timeline](Timeline.md).

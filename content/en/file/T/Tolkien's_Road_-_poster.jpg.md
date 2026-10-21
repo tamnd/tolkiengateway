@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Road - poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Road - poster.jpg</span>"
 page_id: 48358
 namespace: 6
 revision_id: 358110
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Poster of *[Tolkien's Road](/wiki/Tolkien%27s_Road)*.
+Poster of *[Tolkien's Road](../../main/T/Tolkien's_Road.md)*.
 
 ## Licensing {#Licensing}
 

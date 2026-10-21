@@ -1,6 +1,5 @@
 ---
 title: "File:The Battle of Five Armies (1984 board game).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Battle of Five Armies (1984 board game).jpg</span>"
 page_id: 33030
 namespace: 6
 revision_id: 199452

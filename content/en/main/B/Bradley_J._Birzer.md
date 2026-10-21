@@ -1,6 +1,5 @@
 ---
 title: "Bradley J. Birzer"
-display_title: "<span class=\"mw-page-title-main\">Bradley J. Birzer</span>"
 page_id: 21382
 namespace: 0
 revision_id: 404957
@@ -23,21 +22,21 @@ sort_keys:
   "People by name": "Birzer, Bradley J."
 ---
 
-Dr. **Bradley J. Birzer** is an American scholar. He is the Amos Kirk Chair in history and director of American studies at <a class="extiw" href="http://en.wikipedia.org/wiki/Hillsdale_College" title="wikipedia:Hillsdale College">Hillsdale College, Michigan</a>. Though his main focus is American politics of the Jacksonian era, as well as the Civil War and the Indian Wars, he has published several articles and one book about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), mainly focusing on [Christianity](/wiki/Christianity).
+Dr. **Bradley J. Birzer** is an American scholar. He is the Amos Kirk Chair in history and director of American studies at <a class="extiw" href="http://en.wikipedia.org/wiki/Hillsdale_College" title="wikipedia:Hillsdale College">Hillsdale College, Michigan</a>. Though his main focus is American politics of the Jacksonian era, as well as the Civil War and the Indian Wars, he has published several articles and one book about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), mainly focusing on [Christianity](../C/Christianity.md).
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2002](/wiki/2002): *[J.R.R. Tolkien's Sanctifying Myth: Understanding Middle-earth](/wiki/J.R.R._Tolkien%27s_Sanctifying_Myth "J.R.R. Tolkien's Sanctifying Myth")*
+- [2002](../_/2002.md): *[J.R.R. Tolkien's Sanctifying Myth: Understanding Middle-earth](../J/J.R.R._Tolkien's_Sanctifying_Myth.md)*
 
 ### Articles {#Articles}
 
-- [2001](/wiki/2001): *New Oxford Review*
+- [2001](../_/2001.md): *New Oxford Review*
     - "<a class="external text" href="http://www.americanidea.org/articles/11010101.htm" rel="noreferrer noopener" target="_blank">&#39;The Only Just Literary Critic&#39;: The Christian Gifts of J.R.R. Tolkien</a>"
-- [2003](/wiki/2003): [*Christian History*, Issue 78](/wiki/Christian_History_78 "Christian History 78")
+- [2003](../_/2003.md): [*Christian History*, Issue 78](../C/Christian_History_78.md)
     - "Tolkien: Man Behind the Myth"
-- [2004](/wiki/2004): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entries
+- [2004](../_/2004.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entries
     - "Aquinas, Thomas"
     - "Catholicism, Roman"
     - "Christian Readings of Tolkien"
@@ -49,14 +48,14 @@ Dr. **Bradley J. Birzer** is an American scholar. He is the Amos Kirk Chair in h
 
 ### Lectures {#Lectures}
 
-- [2001](/wiki/2001): <i><a class="external text" href="http://74.125.77.132/search?q=cache:j7uT7eNd6coJ:www.isi.org/lectures/text/pdf/" rel="noreferrer noopener" target="_blank">&#34;Both rings were round, and there the resemblance eases&#34;: Tolkien, Wagner, Nationalism, and Modernity</a></i>
+- [2001](../_/2001.md): <i><a class="external text" href="http://74.125.77.132/search?q=cache:j7uT7eNd6coJ:www.isi.org/lectures/text/pdf/" rel="noreferrer noopener" target="_blank">&#34;Both rings were round, and there the resemblance eases&#34;: Tolkien, Wagner, Nationalism, and Modernity</a></i>
 - *Undated*: "Tolkien's Worlds: Judeo-Christian Faerie Tales"
-    - [Letters of J.R.R. Tolkien: Milton Waldman](/wiki/Letter_131 "Letter 131")
-    - [Letters of J.R.R. Tolkien: Robert Murray](/wiki/Letter_142 "Letter 142")
-    - [Letters of J.R.R. Tolkien: Robert Murray (draft)](/wiki/Letter_156 "Letter 156")
-    - [Letters of J.R.R. Tolkien: Michael Straight](/wiki/Letter_181 "Letter 181")
-    - [Letters of J.R.R. Tolkien: Eileen Elgar](/wiki/Letter_246 "Letter 246")
-    - [Letters of J.R.R. Tolkien: Charlotte and Denis Plimmer](/wiki/Letter_294 "Letter 294")
+    - [Letters of J.R.R. Tolkien: Milton Waldman](../L/Letter_131.md)
+    - [Letters of J.R.R. Tolkien: Robert Murray](../L/Letter_142.md)
+    - [Letters of J.R.R. Tolkien: Robert Murray (draft)](../L/Letter_156.md)
+    - [Letters of J.R.R. Tolkien: Michael Straight](../L/Letter_181.md)
+    - [Letters of J.R.R. Tolkien: Eileen Elgar](../L/Letter_246.md)
+    - [Letters of J.R.R. Tolkien: Charlotte and Denis Plimmer](../L/Letter_294.md)
 
 ## External links {#External_links}
 

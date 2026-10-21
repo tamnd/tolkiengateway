@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grimbeorn"
 ---
 
-Redirect to [Grimbeorn](/wiki/Grimbeorn).
+Redirect to [Grimbeorn](Grimbeorn.md).

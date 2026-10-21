@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fen Hollen"
 ---
 
-Redirect to [Fen Hollen](/wiki/Fen_Hollen).
+Redirect to [Fen Hollen](../F/Fen_Hollen.md).

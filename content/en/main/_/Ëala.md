@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ëalar"
 ---
 
-Redirect to [Ëalar](/wiki/Ëalar).
+Redirect to [Ëalar](Ëalar.md).

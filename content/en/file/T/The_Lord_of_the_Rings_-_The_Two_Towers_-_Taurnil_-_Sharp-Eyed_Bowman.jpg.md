@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg</span>"
 page_id: 74203
 namespace: 6
 revision_id: 437387
@@ -35,22 +34,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Two Towers - Taurnil - Sharp-Eyed Bowman.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Taurnil" title="Taurnil">Taurnil</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
+<p><a href="../../main/T/Taurnil.md" title="Taurnil">Taurnil</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/18_December" title="18 December">December 18</a>, <a href="/wiki/2002" title="2002">2002</a></td>
+<td><a href="../../main/_/18_December.md" title="18 December">December 18</a>, <a href="../../main/_/2002.md" title="2002">2002</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.ccgtrader.net/card/6632/taurnil-sharp-eyed-bowman" rel="noreferrer noopener" target="_blank">https://www.ccgtrader.net/card/6632/taurnil-sharp-eyed-bowman</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

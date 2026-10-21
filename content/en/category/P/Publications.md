@@ -1,6 +1,5 @@
 ---
 title: "Category:Publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Publications</span>"
 page_id: 14184
 namespace: 14
 revision_id: 105198
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-Articles on publications relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). See also [Category:Writings](/wiki/Category:Writings).
+Articles on publications relating to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). See also [Category:Writings](../W/Writings.md).

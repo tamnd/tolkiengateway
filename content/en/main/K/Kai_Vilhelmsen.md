@@ -1,6 +1,5 @@
 ---
 title: "Kai Vilhelmsen"
-display_title: "<span class=\"mw-page-title-main\">Kai Vilhelmsen</span>"
 page_id: 19484
 namespace: 0
 revision_id: 131838
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
 
 ## External links {#External_links}
 

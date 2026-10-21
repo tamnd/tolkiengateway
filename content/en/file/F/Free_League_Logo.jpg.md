@@ -1,6 +1,5 @@
 ---
 title: "File:Free League Logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Free League Logo.jpg</span>"
 page_id: 73241
 namespace: 6
 revision_id: 433404

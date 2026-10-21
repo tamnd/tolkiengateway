@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trollshaws"
 ---
 
-Redirect to [Trollshaws](/wiki/Trollshaws).
+Redirect to [Trollshaws](Trollshaws.md).

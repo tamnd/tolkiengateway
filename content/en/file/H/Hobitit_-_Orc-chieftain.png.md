@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - Orc-chieftain.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - Orc-chieftain.png</span>"
 page_id: 73220
 namespace: 6
 revision_id: 433302
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orc-chieftain](/wiki/Orc-chieftain) - *[Hobitit](/wiki/Hobitit)* episode 6, *Lórien*
+[Orc-chieftain](../../main/O/Orc-chieftain.md) - *[Hobitit](../../main/H/Hobitit.md)* episode 6, *Lórien*
 
 ## Licensing {#Licensing}
 

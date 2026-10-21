@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Strategy Battle Game - Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Strategy Battle Game - Helm&#039;s Deep.jpg</span>"
 page_id: 23879
 namespace: 6
 revision_id: 283354

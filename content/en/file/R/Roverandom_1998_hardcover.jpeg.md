@@ -1,6 +1,5 @@
 ---
 title: "File:Roverandom 1998 hardcover.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roverandom 1998 hardcover.jpeg</span>"
 page_id: 61932
 namespace: 6
 revision_id: 426537
@@ -24,7 +23,7 @@ file:
   user: "Luotiansha"
 ---
 
-This cover was based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s "[The Gardens of the Merking's palace from The tale of Roverandom](/wiki/File:J.R.R._Tolkien_-_The_Gardens_of_the_Merking%27s_palace_from_The_tale_of_Roverandom.jpg "File:J.R.R. Tolkien - The Gardens of the Merking's palace from The tale of Roverandom.jpg")".
+This cover was based on [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s "[The Gardens of the Merking's palace from The tale of Roverandom](../J/J.R.R._Tolkien_-_The_Gardens_of_the_Merking's_palace_from_The_tale_of_Roverandom.jpg.md)".
 
 ## Licensing {#Licensing}
 

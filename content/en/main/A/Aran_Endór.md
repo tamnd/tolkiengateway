@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of the World"
 ---
 
-Redirect to [King of the World](/wiki/King_of_the_World).
+Redirect to [King of the World](../K/King_of_the_World.md).

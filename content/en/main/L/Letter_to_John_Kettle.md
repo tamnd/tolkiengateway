@@ -1,6 +1,5 @@
 ---
 title: "Letter to John Kettle"
-display_title: "<span class=\"mw-page-title-main\">Letter to John Kettle</span>"
 page_id: 43747
 namespace: 0
 revision_id: 387983
@@ -17,11 +16,11 @@ images:
   - "John_Kettle_15_March_1942.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_Kettle_15_March_1942.jpg"><img src="/w/images/thumb/7/7a/John_Kettle_15_March_1942.jpg/300px-John_Kettle_15_March_1942.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="/w/images/thumb/7/7a/John_Kettle_15_March_1942.jpg/450px-John_Kettle_15_March_1942.jpg 1.5x, /w/images/7/7a/John_Kettle_15_March_1942.jpg 2x" data-file-width="574" data-file-height="565"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Kettle_15_March_1942.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7a/John_Kettle_15_March_1942.jpg/300px-John_Kettle_15_March_1942.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/John_Kettle_15_March_1942.jpg/450px-John_Kettle_15_March_1942.jpg 1.5x, https://tolkiengateway.net/w/images/7/7a/John_Kettle_15_March_1942.jpg 2x" data-file-width="574" data-file-height="565"/></a><figcaption></figcaption></figure>
 
-On [15 March](/wiki/15_March) [1942](/wiki/1942), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to John Kettle**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [15 March](../_/15_March.md) [1942](../_/1942.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to John Kettle**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** Tolkien discusses *[The Hobbit](/wiki/The_Hobbit)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, the latter then a work-in-progress.
+- **Subject:** Tolkien discusses *[The Hobbit](../T/The_Hobbit.md)* and *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, the latter then a work-in-progress.
 - **Description:** 3 pages, 4to, 20 Northmoor Road, Oxford (embossed stamp).<sup id="cite_ref-Sothebys_2-0" class="reference"><a href="#cite_note-Sothebys-2">[2]</a></sup>
 
 ## From the auction {#From_the_auction}
@@ -31,15 +30,13 @@ On [15 March](/wiki/15_March) [1942](/wiki/1942), [J.R.R. Tolkien](/wiki/J.R.R._
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (29 May 2013)</span>. <span class="cite-web-article"><a class="external text" href="http://wayneandchristina.wordpress.com/2013/05/29/tolkien-notes-7/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Notes 7&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://wayneandchristina.wordpress.com" rel="noreferrer noopener" target="_blank">Too Many Books and Never Enough</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (29 May 2013)</span>. <span class="cite-web-article"><a class="external text" href="http://wayneandchristina.wordpress.com/2013/05/29/tolkien-notes-7/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Notes 7&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://wayneandchristina.wordpress.com" rel="noreferrer noopener" target="_blank">Too Many Books and Never Enough</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2013</span></cite></span>
 </li>
-<li id="cite_note-Sothebys-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Sothebys_2-0">2.0</a></sup> <sup><a href="#cite_ref-Sothebys_2-1">2.1</a></sup></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.sothebys.com/en/auctions/ecatalogue/2012/english-literature-history-l12408/lot.186.html" rel="noreferrer noopener" target="_blank">&#34;Lot 186, English Literature, History, Children&#39;s Books &amp; Illustrations, London, 12 December 2012&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.sothebys.com/" rel="noreferrer noopener" target="_blank">Sotheby&#39;s</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2013</span></cite></span>
+<li id="cite_note-Sothebys-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Sothebys_2-0">2.0</a></sup> <sup><a href="#cite_ref-Sothebys_2-1">2.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.sothebys.com/en/auctions/ecatalogue/2012/english-literature-history-l12408/lot.186.html" rel="noreferrer noopener" target="_blank">&#34;Lot 186, English Literature, History, Children&#39;s Books &amp; Illustrations, London, 12 December 2012&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.sothebys.com/" rel="noreferrer noopener" target="_blank">Sotheby&#39;s</a></span>. <span class="cite-web-accessed">Retrieved 30 May 2013</span></cite></span>
 </li>
 </ol></div>

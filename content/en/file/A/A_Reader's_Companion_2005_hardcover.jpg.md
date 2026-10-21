@@ -1,6 +1,5 @@
 ---
 title: "File:A Reader's Companion 2005 hardcover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Reader&#039;s Companion 2005 hardcover.jpg</span>"
 page_id: 6930
 namespace: 6
 revision_id: 349482

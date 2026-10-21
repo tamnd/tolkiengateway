@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor Brandyfoot"
 ---
 
-Redirect to [Elanor Brandyfoot](/wiki/Elanor_Brandyfoot).
+Redirect to [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md).

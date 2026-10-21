@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Raoul Vitale"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Raoul Vitale</span>"
 page_id: 69092
 namespace: 14
 revision_id: 431088
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Vitale, Raoul"
 ---
 
-This category lists all **images by [Raoul Vitale](/wiki/Raoul_Vitale)**.
+This category lists all **images by [Raoul Vitale](../../main/R/Raoul_Vitale.md)**.

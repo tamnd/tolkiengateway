@@ -11,4 +11,4 @@ redirect_target: "Rhûn"
 redirect_fragment: "Other versions of the Legendarium"
 ---
 
-Redirect to [Rhûn](/wiki/Rhûn#Other_versions_of_the_Legendarium).
+Redirect to [Rhûn](Rhûn.md#Other_versions_of_the_Legendarium).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The War of the Rohirrim (Original Motion Picture Soundtrack) (Streaming).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The War of the Rohirrim (Original Motion Picture Soundtrack) (Streaming).png</span>"
 page_id: 73708
 namespace: 6
 revision_id: 435386
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Album cover on streaming for [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](</wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack)> "The Lord of the Rings: The War of the Rohirrim (Original Motion Picture Soundtrack)")
+Album cover on streaming for [*The Lord of the Rings: The War of the Rohirrim* (Original Motion Picture Soundtrack)](<../../main/T/The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim_(Original_Motion_Picture_Soundtrack).md>)
 
 ## Licensing {#Licensing}
 

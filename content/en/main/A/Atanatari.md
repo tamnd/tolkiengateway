@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atanatári"
 ---
 
-Redirect to [Atanatári](/wiki/Atanatári).
+Redirect to [Atanatári](Atanatári.md).

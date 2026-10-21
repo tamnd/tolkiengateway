@@ -1,6 +1,5 @@
 ---
 title: "Category:Races"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Races</span>"
 page_id: 2473
 namespace: 14
 revision_id: 144671
@@ -13,4 +12,4 @@ categories:
   - "Eä"
 ---
 
-Articles and categories on the various peoples and creatures of [Arda](/wiki/Arda).
+Articles and categories on the various peoples and creatures of [Arda](../../main/A/Arda.md).

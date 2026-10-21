@@ -11,4 +11,4 @@ redirect_target: "Gond"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Gond](/wiki/Gond#Etymology).
+Redirect to [Gond](Gond.md#Etymology).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Goldberry and the Hobbits.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Goldberry and the Hobbits.png</span>"
 page_id: 71612
 namespace: 6
 revision_id: 426938
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Goldberry](/wiki/Goldberry) and the [Hobbits](/wiki/Hobbits)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"[Goldberry](../../main/G/Goldberry.md) and the [Hobbits](../../main/H/Hobbits.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

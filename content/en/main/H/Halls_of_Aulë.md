@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mansions of Aulë"
 ---
 
-Redirect to [Mansions of Aulë](/wiki/Mansions_of_Aulë).
+Redirect to [Mansions of Aulë](../M/Mansions_of_Aulë.md).

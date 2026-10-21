@@ -1,6 +1,5 @@
 ---
 title: "Paul Raymond Gregory"
-display_title: "<span class=\"mw-page-title-main\">Paul Raymond Gregory</span>"
 page_id: 12983
 namespace: 0
 revision_id: 365390
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Gregory, Paul Raymond"
 ---
 
-**Paul Raymond Gregory** ([1949](/wiki/1949)) is an artist who has created [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-inspired illustrations. He produced the artwork for [Blind Guardian's](/wiki/Blind_Guardian "Blind Guardian") *A Night at the Opera*.
+**Paul Raymond Gregory** ([1949](../_/1949.md)) is an artist who has created [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-inspired illustrations. He produced the artwork for [Blind Guardian's](../B/Blind_Guardian.md) *A Night at the Opera*.
 
 ## See also {#See_also}
 
-- *[Paul Raymond Gregory: From the World of Tolkien](/wiki/Paul_Raymond_Gregory:_From_the_World_of_Tolkien)* (exhibition catalogue)
+- *[Paul Raymond Gregory: From the World of Tolkien](Paul_Raymond_Gregory%253A_From_the_World_of_Tolkien.md)* (exhibition catalogue)
 
 ## External links {#External_links}
 
 - <b><a class="external text" href="https://www.studio54.co.uk/" rel="noreferrer noopener" target="_blank">Official website</a></b>
-- <a class="external text" href="http://wayneandchristina.wordpress.com/2013/03/02/the-art-of-paul-raymond-gregory/" rel="noreferrer noopener" target="_blank">The Art of Paul Raymond Gregory</a> by [Christina Scull](/wiki/Christina_Scull)
+- <a class="external text" href="http://wayneandchristina.wordpress.com/2013/03/02/the-art-of-paul-raymond-gregory/" rel="noreferrer noopener" target="_blank">The Art of Paul Raymond Gregory</a> by [Christina Scull](../C/Christina_Scull.md)

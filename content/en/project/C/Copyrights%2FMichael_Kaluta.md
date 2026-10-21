@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Michael Kaluta"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Michael Kaluta</span>"
 page_id: 37987
 namespace: 4
 revision_id: 193170
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kaluta, Michael"
 ---
 
-- [Michael Kaluta](/wiki/Michael_Kaluta) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Michael_Kaluta "Category:Images by Michael Kaluta") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Michael Kaluta](../../main/M/Michael_Kaluta.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Michael_Kaluta.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 9 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Audoin Errol"
 ---
 
-Redirect to [Audoin Errol](/wiki/Audoin_Errol).
+Redirect to [Audoin Errol](Audoin_Errol.md).

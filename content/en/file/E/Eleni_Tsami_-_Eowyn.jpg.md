@@ -1,6 +1,5 @@
 ---
 title: "File:Eleni Tsami - Eowyn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eleni Tsami - Eowyn.jpg</span>"
 page_id: 62334
 namespace: 6
 revision_id: 351916

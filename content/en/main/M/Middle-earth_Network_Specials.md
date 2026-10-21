@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Middle-earth Network Specials"
 ---
 
-<i><b>Middle-earth Network Specials</b></i> is a podcast from the [Middle-earth Network](/wiki/Middle-earth_Network) with special guests. It is produced by [Middle-earth Network Radio](/wiki/Middle-earth_Network "Middle-earth Network").
+<i><b>Middle-earth Network Specials</b></i> is a podcast from the [Middle-earth Network](Middle-earth_Network.md) with special guests. It is produced by [Middle-earth Network Radio](Middle-earth_Network.md).
 
 ## External links {#External_links}
 

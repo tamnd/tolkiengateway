@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Eric Fraser"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Eric Fraser</span>"
 page_id: 26789
 namespace: 14
 revision_id: 182001
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Fraser, Eric"
 ---
 
-This category lists all **images by [Eric Fraser](/wiki/Eric_Fraser)**.
+This category lists all **images by [Eric Fraser](../../main/E/Eric_Fraser.md)**.

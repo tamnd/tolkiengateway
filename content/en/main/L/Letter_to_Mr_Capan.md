@@ -1,6 +1,5 @@
 ---
 title: "Letter to Mr Capan"
-display_title: "<span class=\"mw-page-title-main\">Letter to Mr Capan</span>"
 page_id: 45760
 namespace: 0
 revision_id: 406288
@@ -17,13 +16,13 @@ images:
   - "Mr_Capan_16_December_1955.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mr_Capan_16_December_1955.jpg"><img src="/w/images/thumb/b/bb/Mr_Capan_16_December_1955.jpg/300px-Mr_Capan_16_December_1955.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="/w/images/thumb/b/bb/Mr_Capan_16_December_1955.jpg/450px-Mr_Capan_16_December_1955.jpg 1.5x, /w/images/b/bb/Mr_Capan_16_December_1955.jpg 2x" data-file-width="500" data-file-height="638"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr_Capan_16_December_1955.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/Mr_Capan_16_December_1955.jpg/300px-Mr_Capan_16_December_1955.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/Mr_Capan_16_December_1955.jpg/450px-Mr_Capan_16_December_1955.jpg 1.5x, https://tolkiengateway.net/w/images/b/bb/Mr_Capan_16_December_1955.jpg 2x" data-file-width="500" data-file-height="638"/></a><figcaption></figcaption></figure>
 
-On [16 December](/wiki/16_December) [1955](/wiki/1955), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mr Capan**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [16 December](../_/16_December.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mr Capan**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject**: Tolkien declines an invitation to talk to the [Cambridge University](/wiki/Cambridge "Cambridge") English Club.
+- **Subject**: Tolkien declines an invitation to talk to the [Cambridge University](../C/Cambridge.md) English Club.
 - **Description:** One page, personal letterhead.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide): Chronology* (p. 482).
+- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Chronology* (p. 482).
 
 ## Transcription {#Transcription}
 
@@ -32,15 +31,13 @@ On [16 December](/wiki/16_December) [1955](/wiki/1955), [J.R.R. Tolkien](/wiki/J
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 482</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 482</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.robertedwardauctions.com/auction/2005/1373.html" rel="noreferrer noopener" target="_blank">Lot1373 (2005)</a> at <a class="external text" href="http://www.robertedwardauctions.com" rel="noreferrer noopener" target="_blank">Robertedwardauctions</a> (accessed 02 April 2014)</span>
 </li>

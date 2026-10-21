@@ -1,6 +1,5 @@
 ---
 title: "File:The Maps of Tolkien's Middle-earth box.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Maps of Tolkien&#039;s Middle-earth box.png</span>"
 page_id: 67221
 namespace: 6
 revision_id: 390441

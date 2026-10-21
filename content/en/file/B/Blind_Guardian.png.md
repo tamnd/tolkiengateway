@@ -1,6 +1,5 @@
 ---
 title: "File:Blind Guardian.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blind Guardian.png</span>"
 page_id: 56641
 namespace: 6
 revision_id: 308668
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of [Blind Guardian](/wiki/Blind_Guardian)
+Logo of [Blind Guardian](../../main/B/Blind_Guardian.md)
 
 ## Licensing {#Licensing}
 

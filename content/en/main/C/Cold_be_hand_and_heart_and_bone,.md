@@ -1,6 +1,5 @@
 ---
 title: "Cold be hand and heart and bone,"
-display_title: "<span class=\"mw-page-title-main\">Cold be hand and heart and bone,</span>"
 page_id: 45272
 namespace: 0
 revision_id: 418786
@@ -17,12 +16,10 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**Cold be hand and heart and bone,** was the first line of an [incantation](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings") sung by the [Barrow-wight](/wiki/Barrow-wights "Barrow-wights") that trapped [Frodo Baggins](/wiki/Frodo_Baggins), [Meriadoc Brandybuck](/wiki/Meriadoc_Brandybuck), [Peregrin Took](/wiki/Peregrin_Took), and [Samwise Gamgee](/wiki/Samwise_Gamgee) in its [barrow](/wiki/Barrow "Barrow") after they left [Tom Bombadil](/wiki/Tom_Bombadil)'s [house](</wiki/Underhill_(house)> "Underhill (house)"). When Frodo first heard it, it was no more than a murmur, but soon manifested as a stream of horrible sounds and cold words before changing into an incantation that chilled him to the bone.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cold be hand and heart and bone,** was the first line of an [incantation](../P/Poems_in_The_Lord_of_the_Rings.md) sung by the [Barrow-wight](../B/Barrow-wights.md) that trapped [Frodo Baggins](../F/Frodo_Baggins.md), [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), [Peregrin Took](../P/Peregrin_Took.md), and [Samwise Gamgee](../S/Samwise_Gamgee.md) in its [barrow](../B/Barrow.md) after they left [Tom Bombadil](../T/Tom_Bombadil.md)'s [house](<../U/Underhill_(house).md>). When Frodo first heard it, it was no more than a murmur, but soon manifested as a stream of horrible sounds and cold words before changing into an incantation that chilled him to the bone.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Poem {#Poem}
 
@@ -40,9 +37,9 @@ images:
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>2002: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd><a href="/wiki/Gollum" title="Gollum">Gollum</a> chants an altered version of the poem in the <a href="/wiki/Dead_Marshes" title="Dead Marshes">Dead Marshes</a> just before Frodo refers to him as Sméagol:</dd></dl>
+<dl><dd><a href="../G/Gollum.md" title="Gollum">Gollum</a> chants an altered version of the poem in the <a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a> just before Frodo refers to him as Sméagol:</dd></dl>
 
 <div class="poem">
 <p><i>Cold be heart and hand and bone,</i><br/>
@@ -52,23 +49,23 @@ images:
 </p>
 </div>
 
-<b>2002: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring (video game)</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Lord of the Rings: The Fellowship of the Ring (video game)</a></i>:</b>
 
 <dl><dd>A disembodied voice can be heard reciting the incantation in the background during Frodo&#39;s battle with the Barrow-wight.</dd></dl>
 
-<b>2024: <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd>In season two, the Barrow-wights are heard chanting this poem.</dd></dl>
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=Death_to_light,_to_law,_to_love!&amp;action=edit&amp;redlink=1" title="Death to light, to law, to love! (page does not exist)">Death to light, to law, to love!</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Death_to_light,_to_law,_to_love!&amp;action=edit&amp;redlink=1" title="Death to light, to law, to love! (page does not exist)">Death to light, to law, to love!</a>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Fog_on_the_Barrow-downs" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</span>
 </li>
 </ol></div>

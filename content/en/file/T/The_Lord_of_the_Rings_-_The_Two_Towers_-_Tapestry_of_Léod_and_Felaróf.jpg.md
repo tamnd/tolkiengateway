@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Tapestry of Léod and Felaróf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Tapestry of Léod and Felaróf.jpg</span>"
 page_id: 29822
 namespace: 6
 revision_id: 277985
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Felarof](/wiki/Felarof) throws [Leod](/wiki/Leod) off. Tapestry designed by [Alan Lee](/wiki/Alan_Lee).
+[Felarof](../../main/F/Felarof.md) throws [Leod](../../main/L/Leod.md) off. Tapestry designed by [Alan Lee](../../main/A/Alan_Lee.md).
 
 ## Licensing {#Licensing}
 

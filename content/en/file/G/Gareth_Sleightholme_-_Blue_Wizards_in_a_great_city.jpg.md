@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Blue Wizards in a great city.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Blue Wizards in a great city.jpg</span>"
 page_id: 74267
 namespace: 6
 revision_id: 437605
@@ -31,24 +30,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Blue Wizards in a great city.jpg</span></th>
 <td class="description">
-<blockquote><p>An imagined meeting between one of <a href="/wiki/Blue_Wizards" title="Blue Wizards">the blue wizards</a> and someone of influence in an unnamed great city somewhere in <a href="/wiki/Category:Southern_lands" title="Category:Southern lands">the South</a> or <a href="/wiki/Rh%C3%BBn" title="Rhûn">East</a> looking back towards the west) not detailed in the books, beyond it being a place where the blue wizards had tried to sway some of the population to push back against <a href="/wiki/Sauron" title="Sauron">Sauron</a>&#39;s pervading influence. The beginning of some small success on their part that might have reduced that final host.</p></blockquote>
+<blockquote><p>An imagined meeting between one of <a href="../../main/B/Blue_Wizards.md" title="Blue Wizards">the blue wizards</a> and someone of influence in an unnamed great city somewhere in <a href="../../category/S/Southern_lands.md" title="Category:Southern lands">the South</a> or <a href="../../main/R/Rhûn.md" title="Rhûn">East</a> looking back towards the west) not detailed in the books, beyond it being a place where the blue wizards had tried to sway some of the population to push back against <a href="../../main/S/Sauron.md" title="Sauron">Sauron</a>&#39;s pervading influence. The beginning of some small success on their part that might have reduced that final host.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1_October" title="1 October">October 1</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/1_October.md" title="1 October">October 1</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Gareth_Sleightholme" title="Category:Images by Gareth Sleightholme">Gareth Sleightholme</a></td>
+<td><a href="../../category/I/Images_by_Gareth_Sleightholme.md" title="Category:Images by Gareth Sleightholme">Gareth Sleightholme</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://twitter.com/hesir/status/1443724674853183490" rel="noreferrer noopener" target="_blank">https://twitter.com/hesir/status/1443724674853183490</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Gareth Sleightholme</span></span>
@@ -56,4 +52,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -11,4 +11,4 @@ redirect_target: "Rush"
 redirect_fragment: "The Necromancer"
 ---
 
-Redirect to [Rush](/wiki/Rush#The_Necromancer).
+Redirect to [Rush](../R/Rush.md#The_Necromancer).

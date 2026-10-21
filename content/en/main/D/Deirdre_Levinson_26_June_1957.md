@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Deirdre Levinson (26 June 1957)"
 ---
 
-Redirect to [Letter to Deirdre Levinson (26 June 1957)](/wiki/Letter_to_Deirdre_Levinson_(26_June_1957)).
+Redirect to [Letter to Deirdre Levinson (26 June 1957)](<../L/Letter_to_Deirdre_Levinson_(26_June_1957).md>).

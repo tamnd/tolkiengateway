@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Mary Fairburn (4 November 1968).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Mary Fairburn (4 November 1968).jpg</span>"
 page_id: 54369
 namespace: 6
 revision_id: 294503

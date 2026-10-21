@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Suppress"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Suppress</span>"
 page_id: 69229
 namespace: 4
 revision_id: 413593

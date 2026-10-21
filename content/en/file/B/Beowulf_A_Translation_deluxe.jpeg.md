@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf A Translation deluxe.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf A Translation deluxe.jpeg</span>"
 page_id: 61805
 namespace: 6
 revision_id: 348432

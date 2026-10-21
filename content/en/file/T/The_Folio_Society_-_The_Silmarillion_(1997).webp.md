@@ -1,6 +1,5 @@
 ---
 title: "File:The Folio Society - The Silmarillion (1997).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Folio Society - The Silmarillion (1997).webp</span>"
 page_id: 67238
 namespace: 6
 revision_id: 390573

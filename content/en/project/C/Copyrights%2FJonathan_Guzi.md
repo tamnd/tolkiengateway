@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jonathan Guzi"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jonathan Guzi</span>"
 page_id: 53761
 namespace: 4
 revision_id: 292160
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Guzi, Jonathan"
 ---
 
-- Jonathan Guzi has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Jonathan_Guzi "Category:Images by Jonathan Guzi") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Jonathan Guzi has kindly granted his permission to use [his artwork](../../category/I/Images_by_Jonathan_Guzi.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 February 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

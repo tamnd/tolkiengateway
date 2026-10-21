@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Northern Waste"
 ---
 
-Redirect to [The Northern Waste](/wiki/The_Northern_Waste).
+Redirect to [The Northern Waste](../T/The_Northern_Waste.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stuart D. Lee"
 ---
 
-Redirect to [Stuart D. Lee](/wiki/Stuart_D._Lee).
+Redirect to [Stuart D. Lee](Stuart_D._Lee.md).

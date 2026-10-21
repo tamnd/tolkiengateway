@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Falls"
 ---
 
-Redirect to [Category:Falls](/wiki/Category:Falls).
+Redirect to [Category:Falls](../../category/F/Falls.md).

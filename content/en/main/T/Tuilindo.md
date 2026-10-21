@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duilin (elf of Gondolin)"
 ---
 
-Redirect to [Duilin (elf of Gondolin)](/wiki/Duilin_(elf_of_Gondolin)).
+Redirect to [Duilin (elf of Gondolin)](<../D/Duilin_(elf_of_Gondolin).md>).

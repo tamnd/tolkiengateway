@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halfred (disambiguation)"
 ---
 
-Redirect to [Halfred (disambiguation)](/wiki/Halfred_(disambiguation)).
+Redirect to [Halfred (disambiguation)](<Halfred_(disambiguation).md>).

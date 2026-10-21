@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Swanfleet map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Swanfleet map.jpg</span>"
 page_id: 63673
 namespace: 6
 revision_id: 362781
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Swanfleet](/wiki/Swanfleet) region as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [Swanfleet](../../main/S/Swanfleet.md) region as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

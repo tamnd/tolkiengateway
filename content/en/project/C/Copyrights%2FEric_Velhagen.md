@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Eric Velhagen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Eric Velhagen</span>"
 page_id: 73477
 namespace: 4
 revision_id: 434337
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Velhagen, Eric"
 ---
 
-- [Eric Velhagen](/wiki/Eric_Velhagen) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Eric_Velhagen "Category:Images by Eric Velhagen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Eric Velhagen](../../main/E/Eric_Velhagen.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Eric_Velhagen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 February 2026
-- User who sought the permission via email: [User:PLord](/wiki/User:PLord)
+- User who sought the permission via email: [User:PLord](https://tolkiengateway.net/wiki/User:PLord)

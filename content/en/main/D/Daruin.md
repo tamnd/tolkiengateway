@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avranc"
 ---
 
-Redirect to [Avranc](/wiki/Avranc).
+Redirect to [Avranc](../A/Avranc.md).

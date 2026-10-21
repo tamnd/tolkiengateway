@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Mirkwood"
 ---
 
-Redirect to [Elves of Mirkwood](/wiki/Elves_of_Mirkwood).
+Redirect to [Elves of Mirkwood](Elves_of_Mirkwood.md).

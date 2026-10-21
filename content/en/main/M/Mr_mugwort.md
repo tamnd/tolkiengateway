@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mr. Mugwort"
 ---
 
-Redirect to [Mr. Mugwort](/wiki/Mr._Mugwort).
+Redirect to [Mr. Mugwort](Mr._Mugwort.md).

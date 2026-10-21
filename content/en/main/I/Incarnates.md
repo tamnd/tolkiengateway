@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Incarnate"
 ---
 
-Redirect to [Incarnate](/wiki/Incarnate).
+Redirect to [Incarnate](Incarnate.md).

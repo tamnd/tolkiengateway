@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mariano Merchante"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mariano Merchante</span>"
 page_id: 62158
 namespace: 4
 revision_id: 350313
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Merchante, Mariano"
 ---
 
-- <a class="new" href="/w/index.php?title=Mariano_Merchante&amp;action=edit&amp;redlink=1" title="Mariano Merchante (page does not exist)">Mariano Merchante</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Mariano_Merchante "Category:Images by Mariano Merchante") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariano_Merchante&amp;action=edit&amp;redlink=1" title="Mariano Merchante (page does not exist)">Mariano Merchante</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Mariano_Merchante.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 20 July 2022
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

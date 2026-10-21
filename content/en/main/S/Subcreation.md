@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sub-creation"
 ---
 
-Redirect to [Sub-creation](/wiki/Sub-creation).
+Redirect to [Sub-creation](Sub-creation.md).

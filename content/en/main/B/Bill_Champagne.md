@@ -1,6 +1,5 @@
 ---
 title: "Bill Champagne"
-display_title: "<span class=\"mw-page-title-main\">Bill Champagne</span>"
 page_id: 68861
 namespace: 0
 revision_id: 410670
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Champagne, Bill"
 ---
 
-**Bill Champagne** is a music composer who writes music for [Standing Stone Games](/wiki/Standing_Stone_Games), specifically [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online). He is the music composer for Battle of the Black Gate Soundtrack, Legacy of the Necromancer Soundtrack, Where Dragons Dwell Soundtrack, Vales of Anduin Soundtrack, Minas Morgul Official Soundtrack, Mists of Wilderland Soundtrack, War of Three Peaks Soundtrack, The Wildwood of Bree-land Soundtrack, Blood of Azog Soundtrack, 15th Anniversary Soundtrack, Before the Shadow Soundtrack, Rangers and Ruins Soundtrack, The Yondershire Soundtrack, The Further Adventures of Elladan and Elrohir Soundtrack, Return to Carn Dûm Soundtrack, Gondor Renewed Soundtrack, Corsairs of Umbar Soundtrack, and Arenas of Conflict Soundtrack.
+**Bill Champagne** is a music composer who writes music for [Standing Stone Games](../S/Standing_Stone_Games.md), specifically [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md). He is the music composer for Battle of the Black Gate Soundtrack, Legacy of the Necromancer Soundtrack, Where Dragons Dwell Soundtrack, Vales of Anduin Soundtrack, Minas Morgul Official Soundtrack, Mists of Wilderland Soundtrack, War of Three Peaks Soundtrack, The Wildwood of Bree-land Soundtrack, Blood of Azog Soundtrack, 15th Anniversary Soundtrack, Before the Shadow Soundtrack, Rangers and Ruins Soundtrack, The Yondershire Soundtrack, The Further Adventures of Elladan and Elrohir Soundtrack, Return to Carn Dûm Soundtrack, Gondor Renewed Soundtrack, Corsairs of Umbar Soundtrack, and Arenas of Conflict Soundtrack.
 
 ## External links {#External_links}
 

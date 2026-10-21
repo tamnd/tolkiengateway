@@ -1,6 +1,5 @@
 ---
 title: "File:Little Bilbo in 2894.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Little Bilbo in 2894.jpg</span>"
 page_id: 70606
 namespace: 6
 revision_id: 426764

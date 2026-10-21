@@ -1,6 +1,5 @@
 ---
 title: "Douglas Livingstone"
-display_title: "<span class=\"mw-page-title-main\">Douglas Livingstone</span>"
 page_id: 6885
 namespace: 0
 revision_id: 405267
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Livingstone, Douglas"
 ---
 
-**Douglas Livingstone** ([1934](/wiki/1934)) is an English actor. He voiced the part of [Gimli](/wiki/Gimli) in [*The Lord of the Rings* 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on [BBC 4](/wiki/BBC "BBC").
+**Douglas Livingstone** ([1934](../_/1934.md)) is an English actor. He voiced the part of [Gimli](../G/Gimli.md) in [*The Lord of the Rings* 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on [BBC 4](../B/BBC.md).
 
 ## External links {#External_links}
 

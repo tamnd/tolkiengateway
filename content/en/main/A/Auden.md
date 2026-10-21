@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "W.H. Auden"
 ---
 
-Redirect to [W.H. Auden](/wiki/W.H._Auden).
+Redirect to [W.H. Auden](../W/W.H._Auden.md).

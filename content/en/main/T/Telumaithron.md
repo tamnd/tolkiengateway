@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telimektar"
 ---
 
-Redirect to [Telimektar](/wiki/Telimektar).
+Redirect to [Telimektar](Telimektar.md).

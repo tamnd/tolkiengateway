@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adamanta Chubb"
 ---
 
-Redirect to [Adamanta Chubb](/wiki/Adamanta_Chubb).
+Redirect to [Adamanta Chubb](Adamanta_Chubb.md).

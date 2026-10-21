@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Wing"
 ---
 
-Redirect to [House of the Wing](/wiki/House_of_the_Wing).
+Redirect to [House of the Wing](House_of_the_Wing.md).

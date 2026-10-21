@@ -1,6 +1,5 @@
 ---
 title: "Category:Lettering"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lettering</span>"
 page_id: 16994
 namespace: 14
 revision_id: 92696

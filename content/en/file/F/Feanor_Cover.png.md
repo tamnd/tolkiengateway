@@ -1,6 +1,5 @@
 ---
 title: "File:Feanor Cover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Feanor Cover.png</span>"
 page_id: 65169
 namespace: 6
 revision_id: 378373

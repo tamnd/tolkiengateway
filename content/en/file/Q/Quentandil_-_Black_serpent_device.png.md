@@ -1,6 +1,5 @@
 ---
 title: "File:Quentandil - Black serpent device.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quentandil - Black serpent device.png</span>"
 page_id: 63230
 namespace: 6
 revision_id: 422106
@@ -27,11 +26,11 @@ file:
 
 ## Summary {#Summary}
 
-The [black serpent](/wiki/Black_serpent "Black serpent") device of the [Haradrim](/wiki/Haradrim)'s standard. Drawing of the serpent borrowed from <a class="external text" href="https://www.reddit.com/r/heraldry/comments/pr482g/the_coatofarms_of_jacques_le_gris_as_seen_in/" rel="noreferrer noopener" target="_blank">Obversa&#39;s Reddit post</a>.
+The [black serpent](../../main/B/Black_serpent.md) device of the [Haradrim](../../main/H/Haradrim.md)'s standard. Drawing of the serpent borrowed from <a class="external text" href="https://www.reddit.com/r/heraldry/comments/pr482g/the_coatofarms_of_jacques_le_gris_as_seen_in/" rel="noreferrer noopener" target="_blank">Obversa&#39;s Reddit post</a>.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>As a Tolkien Gateway contributor, <a href="/wiki/User:Quentandil" title="User:Quentandil">Quentandil</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+<p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Quentandil" title="User:Quentandil">Quentandil</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 </p>
 </div>

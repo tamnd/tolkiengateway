@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guy Gavriel Kay"
 ---
 
-Redirect to [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay).
+Redirect to [Guy Gavriel Kay](Guy_Gavriel_Kay.md).

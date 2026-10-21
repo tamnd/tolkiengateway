@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power opening title credits.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power opening title credits.jpg</span>"
 page_id: 63813
 namespace: 6
 revision_id: 363670
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The opening title crdits of the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series in each episode.
+The opening title crdits of the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series in each episode.
 
 ## Licensing {#Licensing}
 

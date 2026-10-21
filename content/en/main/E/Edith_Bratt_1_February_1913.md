@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Edith Bratt (1 February 1913)"
 ---
 
-Redirect to [Letter to Edith Bratt (1 February 1913)](/wiki/Letter_to_Edith_Bratt_(1_February_1913)).
+Redirect to [Letter to Edith Bratt (1 February 1913)](<../L/Letter_to_Edith_Bratt_(1_February_1913).md>).

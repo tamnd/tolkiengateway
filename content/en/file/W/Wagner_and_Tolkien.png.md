@@ -1,6 +1,5 @@
 ---
 title: "File:Wagner and Tolkien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wagner and Tolkien.png</span>"
 page_id: 40822
 namespace: 6
 revision_id: 350897

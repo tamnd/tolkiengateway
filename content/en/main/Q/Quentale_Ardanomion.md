@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quentalë Ardanómion"
 ---
 
-Redirect to [Quentalë Ardanómion](/wiki/Quentalë_Ardanómion).
+Redirect to [Quentalë Ardanómion](Quentalë_Ardanómion.md).

@@ -1,6 +1,5 @@
 ---
 title: "18 April"
-display_title: "<span class=\"mw-page-title-main\">18 April</span>"
 page_id: 18647
 namespace: 0
 revision_id: 441517
@@ -24,56 +23,54 @@ langlinks:
     url: "https://kontu.wiki/18._huhtikuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=18_April/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><style data-mw-deduplicate="TemplateStyles:r402745">.mw-parser-output .tg-button>a{border:1px solid transparent;border-radius:var(--tg-border-radius-small);height:36px;padding:0 1rem!important;color:var(--tg-color-emphasized)!important;display:flex;align-items:center;justify-content:center;gap:0.5rem;line-height:1;font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium);text-decoration:none}.mw-parser-output .tg-button>a:hover{background-color:var(--background-color-button-quiet--hover)!important}.mw-parser-output .tg-button>a:active{background-color:var(--background-color-button-quiet--active)!important}.mw-parser-output .tg-button.tg-button--framed>a{border-color:var(--tg-border-color-interactive)}.mw-parser-output .tg-button.tg-button--icon>a{padding-left:0.5rem!important;padding-right:0.5rem!important;font-size:0;gap:0}.mw-parser-output .tg-button.tg-button--primary>a{color:var(--tg-color-inverted-progressive)!important;background-color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--primary>a:hover{background-color:var(--tg-color-progressive--hover)!important}.mw-parser-output .tg-button.tg-button--primary>a:active{background-color:var(--tg-color-progressive--active)!important}.mw-parser-output .tg-button.tg-button--secondary>a{border-color:var(--tg-color-progressive)!important;color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:hover{border-color:var(--tg-color-progressive--hover)!important;background-color:var(--tg-color-progressive--hover)!important;color:var(--tg-color-inverted-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:active{border-color:var(--tg-color-progressive--active)!important;background-color:var(--tg-color-progressive--active)!important;color:var(--tg-color-inverted-progressive)!important}</style><div class="tg-section-divider"><span><a href="/wiki/April" title="April">April</a></span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=18_April/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../A/April.md" title="April">April</a></span></div>
 <div class="template-month__grid">
-<div class="template-month__day"><a href="/wiki/1_April" title="1 April">1</a></div>
-<div class="template-month__day"><a href="/wiki/2_April" title="2 April">2</a></div>
-<div class="template-month__day"><a href="/wiki/3_April" title="3 April">3</a></div>
-<div class="template-month__day"><a href="/wiki/4_April" title="4 April">4</a></div>
-<div class="template-month__day"><a href="/wiki/5_April" title="5 April">5</a></div>
-<div class="template-month__day"><a href="/wiki/6_April" title="6 April">6</a></div>
-<div class="template-month__day"><a href="/wiki/7_April" title="7 April">7</a></div>
-<div class="template-month__day"><a href="/wiki/8_April" title="8 April">8</a></div>
-<div class="template-month__day"><a href="/wiki/9_April" title="9 April">9</a></div>
-<div class="template-month__day"><a href="/wiki/10_April" title="10 April">10</a></div>
-<div class="template-month__day"><a href="/wiki/11_April" title="11 April">11</a></div>
-<div class="template-month__day"><a href="/wiki/12_April" title="12 April">12</a></div>
-<div class="template-month__day"><a href="/wiki/13_April" title="13 April">13</a></div>
-<div class="template-month__day"><a href="/wiki/14_April" title="14 April">14</a></div>
-<div class="template-month__day"><a href="/wiki/15_April" title="15 April">15</a></div>
-<div class="template-month__day"><a href="/wiki/16_April" title="16 April">16</a></div>
-<div class="template-month__day"><a href="/wiki/17_April" title="17 April">17</a></div>
+<div class="template-month__day"><a href="1_April.md" title="1 April">1</a></div>
+<div class="template-month__day"><a href="2_April.md" title="2 April">2</a></div>
+<div class="template-month__day"><a href="3_April.md" title="3 April">3</a></div>
+<div class="template-month__day"><a href="4_April.md" title="4 April">4</a></div>
+<div class="template-month__day"><a href="5_April.md" title="5 April">5</a></div>
+<div class="template-month__day"><a href="6_April.md" title="6 April">6</a></div>
+<div class="template-month__day"><a href="7_April.md" title="7 April">7</a></div>
+<div class="template-month__day"><a href="8_April.md" title="8 April">8</a></div>
+<div class="template-month__day"><a href="9_April.md" title="9 April">9</a></div>
+<div class="template-month__day"><a href="10_April.md" title="10 April">10</a></div>
+<div class="template-month__day"><a href="11_April.md" title="11 April">11</a></div>
+<div class="template-month__day"><a href="12_April.md" title="12 April">12</a></div>
+<div class="template-month__day"><a href="13_April.md" title="13 April">13</a></div>
+<div class="template-month__day"><a href="14_April.md" title="14 April">14</a></div>
+<div class="template-month__day"><a href="15_April.md" title="15 April">15</a></div>
+<div class="template-month__day"><a href="16_April.md" title="16 April">16</a></div>
+<div class="template-month__day"><a href="17_April.md" title="17 April">17</a></div>
 <div class="template-month__day"><a class="mw-selflink selflink">18</a></div>
-<div class="template-month__day"><a href="/wiki/19_April" title="19 April">19</a></div>
-<div class="template-month__day"><a href="/wiki/20_April" title="20 April">20</a></div>
-<div class="template-month__day"><a href="/wiki/21_April" title="21 April">21</a></div>
-<div class="template-month__day"><a href="/wiki/22_April" title="22 April">22</a></div>
-<div class="template-month__day"><a href="/wiki/23_April" title="23 April">23</a></div>
-<div class="template-month__day"><a href="/wiki/24_April" title="24 April">24</a></div>
-<div class="template-month__day"><a href="/wiki/25_April" title="25 April">25</a></div>
-<div class="template-month__day"><a href="/wiki/26_April" title="26 April">26</a></div>
-<div class="template-month__day"><a href="/wiki/27_April" title="27 April">27</a></div>
-<div class="template-month__day"><a href="/wiki/28_April" title="28 April">28</a></div>
-<div class="template-month__day"><a href="/wiki/29_April" title="29 April">29</a></div>
-<div class="template-month__day"><a href="/wiki/30_April" title="30 April">30</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="/wiki/January" title="January">Jan</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/February" title="February">Feb</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/March" title="March">Mar</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/April" title="April">Apr</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/May" title="May">May</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/June" title="June">Jun</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/July" title="July">Jul</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/August" title="August">Aug</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/September" title="September">Sep</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/October" title="October">Oct</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/November" title="November">Nov</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/December" title="December">Dec</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/></div>
+<div class="template-month__day"><a href="19_April.md" title="19 April">19</a></div>
+<div class="template-month__day"><a href="20_April.md" title="20 April">20</a></div>
+<div class="template-month__day"><a href="21_April.md" title="21 April">21</a></div>
+<div class="template-month__day"><a href="22_April.md" title="22 April">22</a></div>
+<div class="template-month__day"><a href="23_April.md" title="23 April">23</a></div>
+<div class="template-month__day"><a href="24_April.md" title="24 April">24</a></div>
+<div class="template-month__day"><a href="25_April.md" title="25 April">25</a></div>
+<div class="template-month__day"><a href="26_April.md" title="26 April">26</a></div>
+<div class="template-month__day"><a href="27_April.md" title="27 April">27</a></div>
+<div class="template-month__day"><a href="28_April.md" title="28 April">28</a></div>
+<div class="template-month__day"><a href="29_April.md" title="29 April">29</a></div>
+<div class="template-month__day"><a href="30_April.md" title="30 April">30</a></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
-
-<style data-mw-deduplicate="TemplateStyles:r417058">.mw-parser-output .template-month{width:300px;background:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-medium);font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium)}.mw-parser-output .template-month .tg-event-card{border-bottom-left-radius:0;border-bottom-right-radius:0}.mw-parser-output .tg-event-card-button{margin:1rem}.mw-parser-output .template-month .tg-section-divider{margin-top:0.5rem;margin-bottom:0}.mw-parser-output .template-month__grid{border-bottom:var(--tg-border-base);padding:0.5rem;display:grid;grid-template-columns:repeat(7,1fr);text-align:center;gap:0.25rem}.mw-parser-output .template-month__day>a{display:flex;color:var(--tg-color-emphasized);border-radius:var(--tg-border-radius-small);aspect-ratio:1;justify-content:center;align-items:center}.mw-parser-output .template-month__day--nextmonth>a{color:var(--tg-color-subtle)}.mw-parser-output .template-month__day>a.selflink{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__day>a:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-month__day>a:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__footer{padding:0.5rem;display:grid;grid-template-columns:repeat(6,1fr)}.mw-parser-output .template-month__footer .tg-button>a{padding-left:0.5rem!important;padding-right:0.5rem!important}</style>
 
 Events that occurred on 18 April.
 
 ## On Earth {#On_Earth}
 
-- **[1917](/wiki/1917)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and [Christopher Wiseman](/wiki/Christopher_Wiseman), the Great Twin Brethren, meet in Harrogate, and discuss the fate of the [Barrovians](/wiki/T.C.B.S. "T.C.B.S.") and the future of the Society.
-- **[1930](/wiki/1930)** - Voice actor [Clive Revill](/wiki/Clive_Revill) is born.
-- **[1944](/wiki/1944)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 61](/wiki/Letter_61).
-- **[1945](/wiki/1945)** - Amateur cartographer [Karen Wynn Fonstad](/wiki/Karen_Wynn_Fonstad) is born.
-- **[1955](/wiki/1955)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 162](/wiki/Letter_162).
-- **[1955](/wiki/1955)** - [Grant Major](/wiki/Grant_Major) is born.
-- **[1963](/wiki/1963)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) starts writing [a letter to Mr. and Mrs. Kloos](/wiki/Letter_to_Mr_and_Mrs_Kloos "Letter to Mr and Mrs Kloos").
-- **[1984](/wiki/1984)** - Voice actor [Francis de Wolff](/wiki/Francis_de_Wolff) dies.
-- **[2007](/wiki/2007)** - The fourth and final day of [The Children of Húrin Release Party](/wiki/The_Children_of_H%C3%BArin_Release_Party) is hosted by [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and [Christopher Wiseman](../C/Christopher_Wiseman.md), the Great Twin Brethren, meet in Harrogate, and discuss the fate of the [Barrovians](../T/T.C.B.S..md) and the future of the Society.
+- **[1930](1930.md)** - Voice actor [Clive Revill](../C/Clive_Revill.md) is born.
+- **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 61](../L/Letter_61.md).
+- **[1945](1945.md)** - Amateur cartographer [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) is born.
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 162](../L/Letter_162.md).
+- **[1955](1955.md)** - [Grant Major](../G/Grant_Major.md) is born.
+- **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) starts writing [a letter to Mr. and Mrs. Kloos](../L/Letter_to_Mr_and_Mrs_Kloos.md).
+- **[1984](1984.md)** - Voice actor [Francis de Wolff](../F/Francis_de_Wolff.md) dies.
+- **[2007](2007.md)** - The fourth and final day of [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md) is hosted by [Tolkien Gateway](../T/Tolkien_Gateway.md).
 
 ## In Arda {#In_Arda}
 

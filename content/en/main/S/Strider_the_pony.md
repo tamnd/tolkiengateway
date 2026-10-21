@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Strider (pony)"
 ---
 
-Redirect to [Strider (pony)](/wiki/Strider_(pony)).
+Redirect to [Strider (pony)](<Strider_(pony).md>).

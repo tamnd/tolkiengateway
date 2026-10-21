@@ -1,6 +1,5 @@
 ---
 title: "File:Unknown Dutchman 3 April 1958 (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unknown Dutchman 3 April 1958 (2).jpg</span>"
 page_id: 45725
 namespace: 6
 revision_id: 243547

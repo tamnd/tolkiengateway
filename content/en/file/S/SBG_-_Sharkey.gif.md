@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Sharkey.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Sharkey.gif</span>"
 page_id: 11880
 namespace: 6
 revision_id: 204073

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Potatoes"
 ---
 
-Redirect to [Potatoes](/wiki/Potatoes).
+Redirect to [Potatoes](../P/Potatoes.md).

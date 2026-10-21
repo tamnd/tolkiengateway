@@ -1,6 +1,5 @@
 ---
 title: "Nevill Coghill"
-display_title: "<span class=\"mw-page-title-main\">Nevill Coghill</span>"
 page_id: 9282
 namespace: 0
 revision_id: 406785
@@ -26,21 +25,21 @@ langlinks:
     url: "https://kontu.wiki/Nevill_Coghill"
 ---
 
-**Nevill Henry Kendal Aylmer Coghill** ([19 April](/wiki/19_April) [1899](/wiki/1899)-[6 November](/wiki/6_November) [1980](/wiki/1980)) was a fellow [Inkling](/wiki/Inklings "Inklings") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). He published a famous translation of the *Canterbury Tales*.
+**Nevill Henry Kendal Aylmer Coghill** ([19 April](../_/19_April.md) [1899](../_/1899.md)-[6 November](../_/6_November.md) [1980](../_/1980.md)) was a fellow [Inkling](../I/Inklings.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). He published a famous translation of the *Canterbury Tales*.
 
-Soon after the publication of the *[Fellowship of the Ring](/wiki/Fellowship_of_the_Ring)*, Coghill wrote to Tolkien asking some explanations about the story; Tolkien [replied in a letter](/wiki/Letter_to_Nevill_Coghill "Letter to Nevill Coghill") ([21 August](/wiki/21_August) [1954](/wiki/1954)) that some things should be left until the later volumes of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* appeared.
+Soon after the publication of the *[Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)*, Coghill wrote to Tolkien asking some explanations about the story; Tolkien [replied in a letter](../L/Letter_to_Nevill_Coghill.md) ([21 August](../_/21_August.md) [1954](../_/1954.md)) that some things should be left until the later volumes of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* appeared.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [1958](/wiki/1958): *The Pardoner's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1958. \[29 Oct 58\]
-- [1959](/wiki/1959): *The Nun's Priest's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1959. \[28 Feb 60\]
-- [1969](/wiki/1969): *The Man of Law's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1969. \[Jun 69\]
+- [1958](../_/1958.md): *The Pardoner's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1958. \[29 Oct 58\]
+- [1959](../_/1959.md): *The Nun's Priest's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1959. \[28 Feb 60\]
+- [1969](../_/1969.md): *The Man of Law's Tale*. Geoffrey Chaucer, ed. Nevill Coghill and Christopher Tolkien. London: George G. Harrap, 1969. \[Jun 69\]
 
 ### Articles {#Articles}
 
-- [1962](/wiki/1962): *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](/wiki/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday)*
+- [1962](../_/1962.md): *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)*
     - "God's Wenches and the Light that Spoke (a note on Langland's kind of poetry)"
 
 ## External links {#External_links}
@@ -48,10 +47,9 @@ Soon after the publication of the *[Fellowship of the Ring](/wiki/Fellowship_of_
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Nevill_Coghill" title="wikipedia:Nevill Coghill">Nevill Coghill</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="/wiki/Inklings" title="Inklings">Inklings</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="../I/Inklings.md" title="Inklings">Inklings</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="/wiki/Owen_Barfield" title="Owen Barfield">Owen Barfield</a> · <a href="/wiki/J.A.W._Bennett" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="/wiki/Lord_David_Cecil" title="Lord David Cecil">Lord David Cecil</a> · <a class="mw-selflink selflink">Nevill Coghill</a> · <a href="/wiki/James_Dundas-Grant" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="/wiki/Hugo_Dyson" title="Hugo Dyson">Hugo Dyson</a> · <a href="/wiki/Adam_Fox" title="Adam Fox">Adam Fox</a> · <a href="/wiki/Colin_Hardie" title="Colin Hardie">Colin Hardie</a> · <a href="/wiki/Robert_Havard" title="Robert Havard">Robert Havard</a> · <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a> · <a href="/wiki/Warren_Lewis" title="Warren Lewis">Warren Lewis</a> · <a href="/wiki/Gervase_Mathew" title="Gervase Mathew">Gervase Mathew</a> · <a href="/wiki/R.B._McCallum" title="R.B. McCallum">R.B. McCallum</a> · <a href="/wiki/C.E._Stevens" title="C.E. Stevens">C.E. Stevens</a> · <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="/wiki/John_Wain" title="John Wain">John Wain</a> · <a href="/wiki/Charles_Williams" title="Charles Williams">Charles Williams</a> · <a href="/wiki/Charles_Leslie_Wrenn" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
+<td style="font-size: 90%;" align="center"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="../O/Owen_Barfield.md" title="Owen Barfield">Owen Barfield</a> · <a href="../J/J.A.W._Bennett.md" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="../L/Lord_David_Cecil.md" title="Lord David Cecil">Lord David Cecil</a> · <a class="mw-selflink selflink">Nevill Coghill</a> · <a href="../J/James_Dundas-Grant.md" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="../H/Hugo_Dyson.md" title="Hugo Dyson">Hugo Dyson</a> · <a href="../A/Adam_Fox.md" title="Adam Fox">Adam Fox</a> · <a href="../C/Colin_Hardie.md" title="Colin Hardie">Colin Hardie</a> · <a href="../R/Robert_Havard.md" title="Robert Havard">Robert Havard</a> · <a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> · <a href="../W/Warren_Lewis.md" title="Warren Lewis">Warren Lewis</a> · <a href="../G/Gervase_Mathew.md" title="Gervase Mathew">Gervase Mathew</a> · <a href="../R/R.B._McCallum.md" title="R.B. McCallum">R.B. McCallum</a> · <a href="../C/C.E._Stevens.md" title="C.E. Stevens">C.E. Stevens</a> · <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="../J/John_Wain.md" title="John Wain">John Wain</a> · <a href="../C/Charles_Williams.md" title="Charles Williams">Charles Williams</a> · <a href="../C/Charles_Leslie_Wrenn.md" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
 </td></tr></tbody></table>

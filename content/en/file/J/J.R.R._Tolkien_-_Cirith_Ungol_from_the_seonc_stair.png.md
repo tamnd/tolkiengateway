@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Cirith Ungol from the seonc stair.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Cirith Ungol from the seonc stair.png</span>"
 page_id: 71491
 namespace: 6
 revision_id: 426265

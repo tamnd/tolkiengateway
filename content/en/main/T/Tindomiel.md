@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tindómiel"
 ---
 
-Redirect to [Tindómiel](/wiki/Tindómiel).
+Redirect to [Tindómiel](Tindómiel.md).

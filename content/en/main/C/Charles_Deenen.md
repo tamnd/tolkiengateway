@@ -1,6 +1,5 @@
 ---
 title: "Charles Deenen"
-display_title: "<span class=\"mw-page-title-main\">Charles Deenen</span>"
 page_id: 27710
 namespace: 0
 revision_id: 155478
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Deenen, Charles"
 ---
 
-**Charles Deenen** ([January 15](/wiki/15_January "15 January"), [1970](/wiki/1970)) is a Dutch musician who composed the music of [The Lord of the Rings, Vol. I (PC)](</wiki/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game)> "The Lord of the Rings, Vol. I (1990 computer game)")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [The Lord of the Rings, Vol. I (SNES)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(SNES)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)").
+**Charles Deenen** ([January 15](../_/15_January.md), [1970](../_/1970.md)) is a Dutch musician who composed the music of [The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>).
 
 ## External links {#External_links}
 

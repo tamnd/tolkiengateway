@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halls of the Elven-king"
 ---
 
-Redirect to [Halls of the Elven-king](/wiki/Halls_of_the_Elven-king).
+Redirect to [Halls of the Elven-king](../H/Halls_of_the_Elven-king.md).

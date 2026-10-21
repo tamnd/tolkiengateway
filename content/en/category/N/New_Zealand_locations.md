@@ -1,6 +1,5 @@
 ---
 title: "Category:New Zealand locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Zealand locations</span>"
 page_id: 34710
 namespace: 14
 revision_id: 166076

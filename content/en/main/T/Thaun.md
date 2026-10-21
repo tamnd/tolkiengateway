@@ -11,4 +11,4 @@ redirect_target: "Pines"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Pines](/wiki/Pines#Names).
+Redirect to [Pines](../P/Pines.md#Names).

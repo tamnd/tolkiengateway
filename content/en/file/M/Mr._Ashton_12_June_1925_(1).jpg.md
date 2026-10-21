@@ -1,6 +1,5 @@
 ---
 title: "File:Mr. Ashton 12 June 1925 (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr. Ashton 12 June 1925 (1).jpg</span>"
 page_id: 40492
 namespace: 6
 revision_id: 215074

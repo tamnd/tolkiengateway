@@ -1,6 +1,5 @@
 ---
 title: "File:Raya Yarbrough.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Raya Yarbrough.jpg</span>"
 page_id: 74017
 namespace: 6
 revision_id: 436760
@@ -30,16 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Raya Yarbrough.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Raya_Yarbrough" title="Raya Yarbrough">Raya Yarbrough</a>
+<p><a href="../../main/R/Raya_Yarbrough.md" title="Raya Yarbrough">Raya Yarbrough</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/24_March" title="24 March">March 24</a>, <a href="/wiki/2010" title="2010">2010</a></td>
+<td><a href="../../main/_/24_March.md" title="24 March">March 24</a>, <a href="../../main/_/2010.md" title="2010">2010</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="external text" href="https://www.flickr.com/photos/mwichary/" rel="noreferrer noopener" target="_blank">Marcin Wichar</a></td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.flickr.com/photos/mwichary/4460996466/" rel="noreferrer noopener" target="_blank">https://www.flickr.com/photos/mwichary/4460996466/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">

@@ -1,6 +1,5 @@
 ---
 title: "Allsorts PBM Games"
-display_title: "<span class=\"mw-page-title-main\">Allsorts PBM Games</span>"
 page_id: 27682
 namespace: 0
 revision_id: 190125
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Allsorts PBM Games** is the game master of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail), after [1995](/wiki/1995) when they succeeded [Gad Games](/wiki/Gad_Games).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Allsorts PBM Games** is the game master of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md), after [1995](../_/1995.md) when they succeeded [Gad Games](../G/Gad_Games.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

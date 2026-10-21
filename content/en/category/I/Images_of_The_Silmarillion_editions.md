@@ -17,5 +17,5 @@ sort_keys:
   "The Silmarillion": "Silmarillion, The"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i> editions</b>.
-<dl><dd><i>See also:</i> <a href="/wiki/Category:Images_from_The_Silmarillion" title="Category:Images from The Silmarillion"><i>Images from</i> The Silmarillion</a> <i>illustrated by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>.</i></dd></dl></dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> editions</b>.
+<dl><dd><i>See also:</i> <a href="Images_from_The_Silmarillion.md" title="Category:Images from The Silmarillion"><i>Images from</i> The Silmarillion</a> <i>illustrated by <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>.</i></dd></dl></dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jan Pospíšil"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jan Pospíšil</span>"
 page_id: 48469
 namespace: 14
 revision_id: 431585
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Pospisil, Jan"
 ---
 
-This category lists all **images by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il)**.
+This category lists all **images by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md)**.

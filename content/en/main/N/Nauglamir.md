@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nauglamír"
 ---
 
-Redirect to [Nauglamír](/wiki/Nauglamír).
+Redirect to [Nauglamír](Nauglamír.md).

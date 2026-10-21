@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Léod"
 ---
 
-Redirect to [Léod](/wiki/Léod).
+Redirect to [Léod](../L/Léod.md).

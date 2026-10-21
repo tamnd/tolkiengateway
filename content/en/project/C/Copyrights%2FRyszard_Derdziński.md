@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ryszard Derdziński"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ryszard Derdziński</span>"
 page_id: 63076
 namespace: 4
 revision_id: 356980
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Derdziński, Ryszard"
 ---
 
-- [Ryszard Derdziński](/wiki/Ryszard_Derdzi%C5%84ski) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Ryszard_Derdzi%C5%84ski "Category:Images by Ryszard Derdziński") and portrait on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Ryszard Derdziński](../../main/R/Ryszard_Derdziński.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Ryszard_Derdziński.md) and portrait on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 9 September 2022
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

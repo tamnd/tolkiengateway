@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - IGN preview.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - IGN preview.jpg</span>"
 page_id: 63361
 namespace: 6
 revision_id: 371419
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot by IGN of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+A screenshot by IGN of *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ A screenshot by IGN of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Ri
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">IGN</span>. <span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/IGN/status/1375206118805344258" rel="noreferrer noopener" target="_blank">&#34;Our latest look at The Lord of the Rings: Gollum makes it crystal clear this stealth game is playing to the sneaky character&#39;s strengths. Our preview: https://bit.ly/3lRZFyP&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">IGN</span>. <span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/IGN/status/1375206118805344258" rel="noreferrer noopener" target="_blank">&#34;Our latest look at The Lord of the Rings: Gollum makes it crystal clear this stealth game is playing to the sneaky character&#39;s strengths. Our preview: https://bit.ly/3lRZFyP&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

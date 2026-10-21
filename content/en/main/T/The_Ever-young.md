@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vána"
 ---
 
-Redirect to [Vána](/wiki/Vána).
+Redirect to [Vána](../V/Vána.md).

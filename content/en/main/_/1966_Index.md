@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Index"
 ---
 
-Redirect to [The Lord of the Rings Index](/wiki/The_Lord_of_the_Rings_Index).
+Redirect to [The Lord of the Rings Index](../T/The_Lord_of_the_Rings_Index.md).

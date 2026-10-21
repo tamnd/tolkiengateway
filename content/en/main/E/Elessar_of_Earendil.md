@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elfstone"
 ---
 
-Redirect to [Elfstone](/wiki/Elfstone).
+Redirect to [Elfstone](Elfstone.md).

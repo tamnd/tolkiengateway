@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thranduil"
 ---
 
-Redirect to [Thranduil](/wiki/Thranduil).
+Redirect to [Thranduil](Thranduil.md).

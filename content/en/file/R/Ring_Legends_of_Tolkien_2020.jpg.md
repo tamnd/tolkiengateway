@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Ring Legends of Tolkien 2020.jpg"
 ---
 
-Redirect to [File:The Ring Legends of Tolkien 2020.jpg](/wiki/File:The_Ring_Legends_of_Tolkien_2020.jpg).
+Redirect to [File:The Ring Legends of Tolkien 2020.jpg](../T/The_Ring_Legends_of_Tolkien_2020.jpg.md).

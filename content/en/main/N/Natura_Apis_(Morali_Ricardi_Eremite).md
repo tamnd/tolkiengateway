@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Natura Apis: Morali Ricardi Eremite"
 ---
 
-Redirect to [Natura Apis: Morali Ricardi Eremite](/wiki/Natura_Apis:_Morali_Ricardi_Eremite).
+Redirect to [Natura Apis: Morali Ricardi Eremite](Natura_Apis%253A_Morali_Ricardi_Eremite.md).

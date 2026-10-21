@@ -1,6 +1,5 @@
 ---
 title: "File:CCG Maps.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">CCG Maps.png</span>"
 page_id: 35636
 namespace: 6
 revision_id: 351091

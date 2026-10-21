@@ -1,6 +1,5 @@
 ---
 title: "Category:Eastern lands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eastern lands</span>"
 page_id: 39662
 namespace: 14
 revision_id: 195045

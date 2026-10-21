@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with ignored display titles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with ignored display titles</span>"
 page_id: 65035
 namespace: 14
 revision_id: 374478

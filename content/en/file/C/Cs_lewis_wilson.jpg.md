@@ -1,6 +1,5 @@
 ---
 title: "File:Cs lewis wilson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cs lewis wilson.jpg</span>"
 page_id: 26064
 namespace: 6
 revision_id: 214172

@@ -1,6 +1,5 @@
 ---
 title: "Evgenia Hatzithanasi-Kollia"
-display_title: "<span class=\"mw-page-title-main\">Evgenia Hatzithanasi-Kollia</span>"
 page_id: 22618
 namespace: 0
 revision_id: 404740
@@ -19,20 +18,20 @@ sort_keys:
   "People by name": "Hatzithanasi-Kollia, Evgenia"
 ---
 
-**Evgenia Hatzithanasi-Kollia** (Greek: **Ευγενία Χατζηθανάση-Κόλλια**) is the Greek translator of most [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s works.
+**Evgenia Hatzithanasi-Kollia** (Greek: **Ευγενία Χατζηθανάση-Κόλλια**) is the Greek translator of most [Tolkien](../J/J.R.R._Tolkien.md)'s works.
 
-Her work with Tolkien started when she found by chance an abandoned English copy of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, forgotten by a tourist. As she liked the book, she proposed to <a class="external text" href="http://www.kedros.gr/" rel="noreferrer noopener" target="_blank">Kedros</a> publishing house to make a translation and publish it in Greek. Thus the *Lord of the Rings* was the first fantasy book to be published in Greek.
+Her work with Tolkien started when she found by chance an abandoned English copy of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, forgotten by a tourist. As she liked the book, she proposed to <a class="external text" href="http://www.kedros.gr/" rel="noreferrer noopener" target="_blank">Kedros</a> publishing house to make a translation and publish it in Greek. Thus the *Lord of the Rings* was the first fantasy book to be published in Greek.
 
 ## Works {#Works}
 
-- [1978](/wiki/1978): "Ο Άρχοντας των Δαχτυλιδιών (*[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*)
-- [1996](/wiki/1996): "Το Σιλμαρίλλιον" (*[The Silmarillion](/wiki/The_Silmarillion)*)
-- [2000](/wiki/2000): "Ατέλειωτες Ιστορίες" (*[Unfinished Tales](/wiki/Unfinished_Tales)*)
-- Ροβεραντομ (*[Roverandom](/wiki/Roverandom)*)
-- "Ο Γεωργός Τζάιλς" (*[Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham)*)
-- "Ο Σιδεράς του Μεγάλου Γούτον" (*[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)*)
-- [2007](/wiki/2007): "Τα παιδιά του Χούριν" (*[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)*)
+- [1978](../_/1978.md): "Ο Άρχοντας των Δαχτυλιδιών (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*)
+- [1996](../_/1996.md): "Το Σιλμαρίλλιον" (*[The Silmarillion](../T/The_Silmarillion.md)*)
+- [2000](../_/2000.md): "Ατέλειωτες Ιστορίες" (*[Unfinished Tales](../U/Unfinished_Tales.md)*)
+- Ροβεραντομ (*[Roverandom](../R/Roverandom.md)*)
+- "Ο Γεωργός Τζάιλς" (*[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*)
+- "Ο Σιδεράς του Μεγάλου Γούτον" (*[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*)
+- [2007](../_/2007.md): "Τα παιδιά του Χούριν" (*[The Children of Húrin](../T/The_Children_of_Húrin.md)*)
 
 ## References {#References}
 
-- Interview to the [Ellinikós Sýllogos Philon Tólkin](/wiki/Ellinik%C3%B3s_S%C3%BDllogos_Philon_T%C3%B3lkin)
+- Interview to the [Ellinikós Sýllogos Philon Tólkin](Ellinikós_Sýllogos_Philon_Tólkin.md)

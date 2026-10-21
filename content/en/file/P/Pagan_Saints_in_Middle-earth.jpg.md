@@ -1,6 +1,5 @@
 ---
 title: "File:Pagan Saints in Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pagan Saints in Middle-earth.jpg</span>"
 page_id: 55276
 namespace: 6
 revision_id: 350903

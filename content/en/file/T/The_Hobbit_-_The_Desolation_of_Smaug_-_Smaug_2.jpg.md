@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Smaug 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Smaug 2.jpg</span>"
 page_id: 56402
 namespace: 6
 revision_id: 307579
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Smaug](/wiki/Smaug) from *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*.
+[Smaug](../../main/S/Smaug.md) from *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
 
 ## Licensing {#Licensing}
 

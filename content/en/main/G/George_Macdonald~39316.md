@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George MacDonald"
 ---
 
-Redirect to [George MacDonald](/wiki/George_MacDonald).
+Redirect to [George MacDonald](George_MacDonald.md).

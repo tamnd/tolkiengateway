@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Onnalúmë</b></i> is a [Quenya](/wiki/Quenya) word meaning "Time of the Children".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and expressed the duration (often expressed in *[löar](/wiki/L%C3%B6a "Löa")*) occupied by having children in the life of the mother-[elf](/wiki/Elves "Elves"), from the first conception to the last birth.
+<i><b>Onnalúmë</b></i> is a [Quenya](../Q/Quenya.md) word meaning "Time of the Children".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and expressed the duration (often expressed in *[löar](../L/Löa.md)*) occupied by having children in the life of the mother-[elf](../E/Elves.md), from the first conception to the last birth.
 
 ## Etymology {#Etymology}
 
-It is composed of *onna*="child" and *[lúmë](/wiki/L%C3%BAm%C3%AB "Lúmë")*="time, hour".
+It is composed of *onna*="child" and *[lúmë](../L/Lúmë.md)*="time, hour".
 
 It is also seen as *ontalúmë*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *onnarië*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -26,13 +26,13 @@ It is also seen as *ontalúmë*<sup id="cite_ref-2" class="reference"><a href="#
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Appendix II: Glossary and Index of Quenya Terms,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Appendix II: Glossary and Index of Quenya Terms,” in <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2021)
 , p. 414</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part One. Time and Ageing: IV. Time-scales,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part One. Time and Ageing: IV. Time-scales,” in <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2021)
 , p. 26</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part One. Time and Ageing: III. Of the Time in Arda,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part One. Time and Ageing: III. Of the Time in Arda,” in <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2021)
 , p. 16</span>
 </li>
 </ol></div>

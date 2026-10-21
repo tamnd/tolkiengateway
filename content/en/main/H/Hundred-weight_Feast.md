@@ -11,4 +11,4 @@ redirect_target: "Third Age 3002"
 redirect_fragment: "September"
 ---
 
-Redirect to [Third Age 3002](/wiki/Third_Age_3002#September).
+Redirect to [Third Age 3002](../T/Third_Age_3002.md#September).

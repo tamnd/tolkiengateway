@@ -1,6 +1,5 @@
 ---
 title: "File:Mary Jane Stow Tolkien Gravestone.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mary Jane Stow Tolkien Gravestone.png</span>"
 page_id: 75088
 namespace: 6
 revision_id: 442257
@@ -41,8 +40,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>9/10/2026</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>BillionGraves GPS Headstones</td>
@@ -51,11 +48,10 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://billiongraves.com/grave/Mary-Jane-Tolkien-Stow/4868070?referrer=myheritage" rel="noreferrer noopener" target="_blank">https://billiongraves.com/grave/Mary-Jane-Tolkien-Stow/4868070?referrer=myheritage</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
 
 ## Licensing {#Licensing}
 
-<a class="new" href="/w/index.php?title=Template:Cc-by-sa-4.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-sa-4.0 (page does not exist)">Template:Cc-by-sa-4.0</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Cc-by-sa-4.0&amp;action=edit&amp;redlink=1" title="Template:Cc-by-sa-4.0 (page does not exist)">Template:Cc-by-sa-4.0</a>

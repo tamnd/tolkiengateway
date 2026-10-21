@@ -1,6 +1,5 @@
 ---
 title: "Category:Articles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Articles</span>"
 page_id: 21925
 namespace: 14
 revision_id: 377793
@@ -15,6 +14,6 @@ categories:
 
 All articles in Tolkien Gateway are broken down into three main categories:
 
-- **Eä** is the name for the universe of Tolkien's creation (commonly, but incorrectly, referred to as the world of [Middle-earth](/wiki/Middle-earth)), therefore all articles under Eä pertain to this;
+- **Eä** is the name for the universe of Tolkien's creation (commonly, but incorrectly, referred to as the world of [Middle-earth](../../main/M/Middle-earth.md)), therefore all articles under Eä pertain to this;
 - **Other fictional worlds** pertains to fictional worlds created by Tolkien other than Eä;
 - all articles under **Real-world** pertain to the real-world.

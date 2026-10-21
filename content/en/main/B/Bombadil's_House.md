@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Underhill (house)"
 ---
 
-Redirect to [Underhill (house)](/wiki/Underhill_(house)).
+Redirect to [Underhill (house)](<../U/Underhill_(house).md>).

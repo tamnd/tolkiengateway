@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crossings of Taeglin"
 ---
 
-Redirect to [Crossings of Taeglin](/wiki/Crossings_of_Taeglin).
+Redirect to [Crossings of Taeglin](../C/Crossings_of_Taeglin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éothain"
 ---
 
-Redirect to [Éothain](/wiki/Éothain).
+Redirect to [Éothain](../_/Éothain.md).

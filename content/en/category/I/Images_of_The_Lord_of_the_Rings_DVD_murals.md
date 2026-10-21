@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of The Lord of the Rings DVD murals"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of The Lord of the Rings DVD murals</span>"
 page_id: 14423
 namespace: 14
 revision_id: 231735
@@ -15,6 +14,6 @@ sort_keys:
   "Images from The Lord of the Rings (film series)": "Lord of the Rings DVD murals"
 ---
 
-These images are from the Exclusive Content on [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") DVDs.
+These images are from the Exclusive Content on [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>) DVDs.
 
 Note: The images in this category should be re-uploaded.

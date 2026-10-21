@@ -1,6 +1,5 @@
 ---
 title: "Category:Roots"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roots</span>"
 page_id: 21487
 namespace: 14
 revision_id: 92721
@@ -14,4 +13,4 @@ categories:
   - "Words"
 ---
 
-This pages lists various linguistic [roots](/wiki/Sundocarm%C3%AB "Sundocarmë").
+This pages lists various linguistic [roots](../../main/S/Sundocarmë.md).

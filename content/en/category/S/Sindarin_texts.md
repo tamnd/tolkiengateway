@@ -1,6 +1,5 @@
 ---
 title: "Category:Sindarin texts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sindarin texts</span>"
 page_id: 59953
 namespace: 14
 revision_id: 335481
@@ -16,4 +15,4 @@ sort_keys:
   "Sindarin": "Texts"
 ---
 
-This category includes texts in [Sindarin](/wiki/Sindarin) written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+This category includes texts in [Sindarin](../../main/S/Sindarin.md) written by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

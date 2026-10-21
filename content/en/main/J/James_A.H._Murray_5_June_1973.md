@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to James A.H. Murray"
 ---
 
-Redirect to [Letter to James A.H. Murray](/wiki/Letter_to_James_A.H._Murray).
+Redirect to [Letter to James A.H. Murray](../L/Letter_to_James_A.H._Murray.md).

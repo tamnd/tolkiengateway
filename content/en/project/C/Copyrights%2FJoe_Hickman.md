@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Joe Hickman"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Joe Hickman</span>"
 page_id: 68949
 namespace: 4
 revision_id: 411269
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Hickman, Joe"
 ---
 
-- Joe Hickman has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Joe_Hickman "Category:Images by Joe Hickman") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Joe Hickman has kindly granted his permission to use [his artwork](../../category/I/Images_by_Joe_Hickman.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 October 2024
-- User who sought the permission via reddit: [User:MOONBOLT](/wiki/User:MOONBOLT)
+- User who sought the permission via reddit: [User:MOONBOLT](https://tolkiengateway.net/wiki/User:MOONBOLT)

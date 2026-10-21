@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caranthir"
 ---
 
-Redirect to [Caranthir](/wiki/Caranthir).
+Redirect to [Caranthir](../C/Caranthir.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celeb"
 ---
 
-Redirect to [Celeb](/wiki/Celeb).
+Redirect to [Celeb](Celeb.md).

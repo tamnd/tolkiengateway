@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Unpublished material"
 ---
 
-Redirect to [Index:Unpublished material](/wiki/Index:Unpublished_material).
+Redirect to [Index:Unpublished material](../../index/U/Unpublished_material.md).

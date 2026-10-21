@@ -1,6 +1,5 @@
 ---
 title: "File:Jukka Raak - Fingolfin crossing the Helcaraxë.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jukka Raak - Fingolfin crossing the Helcaraxë.jpg</span>"
 page_id: 57746
 namespace: 6
 revision_id: 318865
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jukka Raak</li>
 <li><b>Website:</b> <a class="external text" href="https://www.tumblr.com/blog/view/nevui-penim-miruvorrr" rel="noreferrer noopener" target="_blank">Jukka Raak on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jukka_Raak" title="Tolkien Gateway:Copyrights/Jukka Raak">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJukka_Raak.md" title="Tolkien Gateway:Copyrights/Jukka Raak">Permission for use on Tolkien Gateway</a></b></li></ul></div>

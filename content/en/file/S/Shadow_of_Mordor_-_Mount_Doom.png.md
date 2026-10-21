@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Mount Doom.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Mount Doom.png</span>"
 page_id: 56374
 namespace: 6
 revision_id: 307610
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mount Doom](/wiki/Mount_Doom) from *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*.
+[Mount Doom](../../main/M/Mount_Doom.md) from *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*.
 
 ## Licensing {#Licensing}
 

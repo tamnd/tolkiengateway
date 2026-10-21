@@ -1,6 +1,5 @@
 ---
 title: "File:Ringers Lord of the Fans DVD (cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ringers Lord of the Fans DVD (cover).jpg</span>"
 page_id: 5111
 namespace: 6
 revision_id: 205290
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The cover of [Ringers: Lord of the Fans](/wiki/Ringers:_Lord_of_the_Fans) DVD.
+The cover of [Ringers: Lord of the Fans](../../main/R/Ringers%253A_Lord_of_the_Fans.md) DVD.
 
 ## Licensing {#Licensing}
 

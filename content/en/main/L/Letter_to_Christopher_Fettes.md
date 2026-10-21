@@ -14,10 +14,10 @@ sort_keys:
   "Letters": "Fettes, Christopher (1961)"
 ---
 
-In [1961](/wiki/1961), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Christopher Fettes**.<sup id="cite_ref-HC_1-0" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
+In [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Christopher Fettes**.<sup id="cite_ref-HC_1-0" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
 
-- **Subject:** Tolkien writes an answer to Christopher Fettes's question about why Tolkien seemed to refer to both [Tom Bombadil](/wiki/Tom_Bombadil) and [Treebeard](/wiki/Treebeard) as the oldest of living creatures.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** A large excerpt from the letter was first published in [*Amon Hen* 173](/wiki/Amon_Hen_173 "Amon Hen 173"), later reprinted in *[The Lord of the Rings: A Reader's Companion](/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion)*.<sup id="cite_ref-HC_1-1" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
+- **Subject:** Tolkien writes an answer to Christopher Fettes's question about why Tolkien seemed to refer to both [Tom Bombadil](../T/Tom_Bombadil.md) and [Treebeard](../T/Treebeard.md) as the oldest of living creatures.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Publication:** A large excerpt from the letter was first published in [*Amon Hen* 173](../A/Amon_Hen_173.md), later reprinted in *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*.<sup id="cite_ref-HC_1-1" class="reference"><a href="#cite_note-HC-1">[1]</a></sup>
 
 ## Excerpt {#Excerpt}
 
@@ -26,15 +26,13 @@ In [1961](/wiki/1961), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter]
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-HC-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-HC_1-0">1.0</a></sup> <sup><a href="#cite_ref-HC_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, pp. 133-4</span>
+<li id="cite_note-HC-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-HC_1-0">1.0</a></sup> <sup><a href="#cite_ref-HC_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, pp. 133-4</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">(Various)</span>. <span class="cite-web-article"><a class="external text" href="http://www.lotrplaza.com/showthread.php?83" rel="noreferrer noopener" target="_blank">&#34;Tom B: Peeling the Onion (Collegium 1)&#34;</a></span>. <span class="cite-web-website">Plaza</span>. <span class="cite-web-accessed">Retrieved 7 September 2017</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">(Various)</span>. <span class="cite-web-article"><a class="external text" href="http://www.lotrplaza.com/showthread.php?83" rel="noreferrer noopener" target="_blank">&#34;Tom B: Peeling the Onion (Collegium 1)&#34;</a></span>. <span class="cite-web-website">Plaza</span>. <span class="cite-web-accessed">Retrieved 7 September 2017</span></cite></span>
 </li>
 </ol></div>

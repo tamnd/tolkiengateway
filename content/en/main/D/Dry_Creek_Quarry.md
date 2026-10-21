@@ -1,6 +1,5 @@
 ---
 title: "Dry Creek Quarry"
-display_title: "<span class=\"mw-page-title-main\">Dry Creek Quarry</span>"
 page_id: 19162
 namespace: 0
 revision_id: 221720
@@ -13,7 +12,7 @@ categories:
   - "The Lord of the Rings (film series) filming locations"
 ---
 
-**Dry Creek Quarry** is a quarry outside [Wellington](/wiki/Wellington), [New Zealand](/wiki/New_Zealand), owned by Allied Concrete. It formed the set of the [Hornburg](/wiki/Hornburg) in [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers). It was not destroyed; rather, it was rebuilt as a maze version of [Minas Tirith](/wiki/Minas_Tirith), to be used on [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+**Dry Creek Quarry** is a quarry outside [Wellington](../W/Wellington.md), [New Zealand](../N/New_Zealand.md), owned by Allied Concrete. It formed the set of the [Hornburg](../H/Hornburg.md) in [The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md). It was not destroyed; rather, it was rebuilt as a maze version of [Minas Tirith](../M/Minas_Tirith.md), to be used on [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## External links {#External_links}
 

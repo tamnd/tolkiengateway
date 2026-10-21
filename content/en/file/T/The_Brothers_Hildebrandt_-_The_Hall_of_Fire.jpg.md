@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Hall of Fire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Hall of Fire.jpg</span>"
 page_id: 71599
 namespace: 6
 revision_id: 426882
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Hall of Fire](/wiki/Hall_of_Fire "Hall of Fire")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"[The Hall of Fire](../../main/H/Hall_of_Fire.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

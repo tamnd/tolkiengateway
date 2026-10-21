@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perry-the-Winkle"
 ---
 
-Redirect to [Perry-the-Winkle](/wiki/Perry-the-Winkle).
+Redirect to [Perry-the-Winkle](../P/Perry-the-Winkle.md).

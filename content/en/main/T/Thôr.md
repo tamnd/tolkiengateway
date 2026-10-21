@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thoron"
 ---
 
-Redirect to [Thoron](/wiki/Thoron).
+Redirect to [Thoron](Thoron.md).

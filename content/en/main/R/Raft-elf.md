@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Raft-elves"
 ---
 
-Redirect to [Raft-elves](/wiki/Raft-elves).
+Redirect to [Raft-elves](Raft-elves.md).

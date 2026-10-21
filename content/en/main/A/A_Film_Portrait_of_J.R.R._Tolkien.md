@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R.T.: A Film Portrait of J.R.R. Tolkien"
 ---
 
-Redirect to [J.R.R.T.: A Film Portrait of J.R.R. Tolkien](/wiki/J.R.R.T.:_A_Film_Portrait_of_J.R.R._Tolkien).
+Redirect to [J.R.R.T.: A Film Portrait of J.R.R. Tolkien](../J/J.R.R.T.%253A_A_Film_Portrait_of_J.R.R._Tolkien.md).

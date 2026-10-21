@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Chinese users"
 ---
 
-Redirect to [Category:Chinese users](/wiki/Category:Chinese_users).
+Redirect to [Category:Chinese users](Chinese_users.md).

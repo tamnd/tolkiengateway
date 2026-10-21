@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Derufin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Derufin.jpg</span>"
 page_id: 50409
 namespace: 6
 revision_id: 438810
@@ -33,22 +32,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Return of the King - Derufin.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Derufin" title="Derufin">Derufin</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
+<p><a href="../../main/D/Derufin.md" title="Derufin">Derufin</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/17_December" title="17 December">December 17</a>, <a href="/wiki/2003" title="2003">2003</a></td>
+<td><a href="../../main/_/17_December.md" title="17 December">December 17</a>, <a href="../../main/_/2003.md" title="2003">2003</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.ccgtrader.net/card/6962/derufin" rel="noreferrer noopener" target="_blank">https://www.ccgtrader.net/card/6962/derufin</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

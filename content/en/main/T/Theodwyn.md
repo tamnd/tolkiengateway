@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Théodwyn"
 ---
 
-Redirect to [Théodwyn](/wiki/Théodwyn).
+Redirect to [Théodwyn](Théodwyn.md).

@@ -14,13 +14,13 @@ categories:
   - "Black metal"
 ---
 
-**Wormtongue** is a one-man [Black Metal](/wiki/Category:Black_metal "Category:Black metal") [band](/wiki/Bands "Bands") from <a class="extiw" href="http://en.wikipedia.org/wiki/Virginia" title="wikipedia:Virginia">Virginia, United States</a>. Its sole member is Nate "Hastoth" Adams. The band's name is derivered from [Wormtongue](/wiki/Gr%C3%ADma "Gríma"), the corrupted advisor of [Théoden](/wiki/Th%C3%A9oden).
+**Wormtongue** is a one-man [Black Metal](../../category/B/Black_metal.md) [band](../B/Bands.md) from <a class="extiw" href="http://en.wikipedia.org/wiki/Virginia" title="wikipedia:Virginia">Virginia, United States</a>. Its sole member is Nate "Hastoth" Adams. The band's name is derivered from [Wormtongue](../G/Gríma.md), the corrupted advisor of [Théoden](../T/Théoden.md).
 
 ## Discography {#Discography}
 
-- [2004](/wiki/2004): "Solitude" (Demo)
-- [2006](/wiki/2006): "Memorial to a Golden Age" (EP)
-- [2007](/wiki/2007): "The Solstice Funeral" (EP)
+- [2004](../_/2004.md): "Solitude" (Demo)
+- [2006](../_/2006.md): "Memorial to a Golden Age" (EP)
+- [2007](../_/2007.md): "The Solstice Funeral" (EP)
 
 ## External Links {#External_Links}
 

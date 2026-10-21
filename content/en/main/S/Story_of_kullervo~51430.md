@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Story of Kullervo"
 ---
 
-Redirect to [The Story of Kullervo](/wiki/The_Story_of_Kullervo).
+Redirect to [The Story of Kullervo](../T/The_Story_of_Kullervo.md).

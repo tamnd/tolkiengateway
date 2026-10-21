@@ -1,6 +1,5 @@
 ---
 title: "Polcon"
-display_title: "<span class=\"mw-page-title-main\">Polcon</span>"
 page_id: 53130
 namespace: 0
 revision_id: 406991
@@ -13,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-**Polcon** is the oldest [Polish](/wiki/Poland "Poland") science fiction convention, in a manner of [Worldcon](/wiki/Worldcon) and [Eurocon](/wiki/Eurocon) organized each year in a different place by a local science fiction club (since [1985](/wiki/1985) til present). It features lectures and papers dedicated to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Polcon** is the oldest [Polish](Poland.md) science fiction convention, in a manner of [Worldcon](../W/Worldcon.md) and [Eurocon](../E/Eurocon.md) organized each year in a different place by a local science fiction club (since [1985](../_/1985.md) til present). It features lectures and papers dedicated to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and his works.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## External links {#External_links}
 

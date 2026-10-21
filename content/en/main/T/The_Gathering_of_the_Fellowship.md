@@ -1,6 +1,5 @@
 ---
 title: "The Gathering of the Fellowship"
-display_title: "<span class=\"mw-page-title-main\">The Gathering of the Fellowship</span>"
 page_id: 5396
 namespace: 0
 revision_id: 191768
@@ -13,4 +12,4 @@ categories:
   - "Conventions"
 ---
 
-**The Gathering of the Fellowship** was a convention held from [July 1st](/wiki/1_July "1 July") through the [4th](/wiki/4_July "4 July") in [2006](/wiki/2006) in Toronto, Canada. Guests included [John Howe](/wiki/John_Howe), [Ted Nasmith](/wiki/Ted_Nasmith), [Bruce Hopkins](/wiki/Bruce_Hopkins), and numerous others.
+**The Gathering of the Fellowship** was a convention held from [July 1st](../_/1_July.md) through the [4th](../_/4_July.md) in [2006](../_/2006.md) in Toronto, Canada. Guests included [John Howe](../J/John_Howe.md), [Ted Nasmith](Ted_Nasmith.md), [Bruce Hopkins](../B/Bruce_Hopkins.md), and numerous others.

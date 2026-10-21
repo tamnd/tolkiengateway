@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Gandalf Arrives.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Gandalf Arrives.png</span>"
 page_id: 72942
 namespace: 6
 revision_id: 432286

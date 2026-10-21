@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gladden Fields"
 ---
 
-Redirect to [Gladden Fields](/wiki/Gladden_Fields).
+Redirect to [Gladden Fields](../G/Gladden_Fields.md).

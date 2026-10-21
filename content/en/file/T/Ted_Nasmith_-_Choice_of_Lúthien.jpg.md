@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Lúthien.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Lúthien.jpg](/wiki/File:Ted_Nasmith_-_Lúthien.jpg).
+Redirect to [File:Ted Nasmith - Lúthien.jpg](Ted_Nasmith_-_Lúthien.jpg.md).

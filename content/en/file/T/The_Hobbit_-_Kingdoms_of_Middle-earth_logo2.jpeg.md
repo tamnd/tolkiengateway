@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - Kingdoms of Middle-earth logo2.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - Kingdoms of Middle-earth logo2.jpeg</span>"
 page_id: 63700
 namespace: 6
 revision_id: 362954
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Another logo of the game [The Hobbit: Kingdoms of Middle-earth](/wiki/The_Hobbit:_Kingdoms_of_Middle-earth).
+Another logo of the game [The Hobbit: Kingdoms of Middle-earth](../../main/T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md).
 
 ## Licensing {#Licensing}
 

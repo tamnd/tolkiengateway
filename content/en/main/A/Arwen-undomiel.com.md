@@ -1,6 +1,5 @@
 ---
 title: "Arwen-undomiel.com"
-display_title: "<span class=\"mw-page-title-main\">Arwen-undomiel.com</span>"
 page_id: 14157
 namespace: 0
 revision_id: 334856
@@ -13,7 +12,7 @@ categories:
   - "Websites"
 ---
 
-**Arwen-Undomiel.com** is a Tolkien fan site started in 2003. It includes 15,000+ photos, complete screen captures from all three movies, banners, humor, cast and character bios, [Grelvish](/wiki/Grelvish), wallpaper, buddy icons, avatars, buttons, discussion forum, Tolkien section, etc.
+**Arwen-Undomiel.com** is a Tolkien fan site started in 2003. It includes 15,000+ photos, complete screen captures from all three movies, banners, humor, cast and character bios, [Grelvish](../G/Grelvish.md), wallpaper, buddy icons, avatars, buttons, discussion forum, Tolkien section, etc.
 
 ## History {#History}
 

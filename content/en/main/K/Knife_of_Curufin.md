@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angrist"
 ---
 
-Redirect to [Angrist](/wiki/Angrist).
+Redirect to [Angrist](../A/Angrist.md).

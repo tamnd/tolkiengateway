@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Light of Valinor"
 ---
 
-Redirect to [Light of Valinor](/wiki/Light_of_Valinor).
+Redirect to [Light of Valinor](Light_of_Valinor.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan Elmoth"
 ---
 
-Redirect to [Nan Elmoth](/wiki/Nan_Elmoth).
+Redirect to [Nan Elmoth](../N/Nan_Elmoth.md).

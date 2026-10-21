@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valedictory"
 ---
 
-Redirect to [Valedictory](/wiki/Valedictory).
+Redirect to [Valedictory](../V/Valedictory.md).

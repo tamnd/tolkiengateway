@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Puzzles - Gandalf's Mark.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Puzzles - Gandalf&#039;s Mark.jpg</span>"
 page_id: 25381
 namespace: 6
 revision_id: 423108

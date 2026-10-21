@@ -1,6 +1,5 @@
 ---
 title: "Category:Materials"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Materials</span>"
 page_id: 10259
 namespace: 14
 revision_id: 50669
@@ -13,4 +12,4 @@ categories:
   - "Objects"
 ---
 
-Materials unique to [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") [legendarium](/wiki/Legendarium "Legendarium").
+Materials unique to [Tolkien's](../../main/J/J.R.R._Tolkien.md) [legendarium](../../main/L/Legendarium.md).

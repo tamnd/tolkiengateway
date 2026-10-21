@@ -1,6 +1,5 @@
 ---
 title: "File:Christie's Valuable Manuscripts and Printed Books 7 June 2006.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christie&#039;s Valuable Manuscripts and Printed Books 7 June 2006.jpg</span>"
 page_id: 31331
 namespace: 6
 revision_id: 224721

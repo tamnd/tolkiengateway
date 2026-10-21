@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien Societies"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Societies</span>"
 page_id: 11309
 namespace: 14
 revision_id: 116101
@@ -16,4 +15,4 @@ categories:
 
 Tolkien Societies
 
-- <i>For a list of Tolkien Societies by geographic location, see <b><a class="mw-redirect" href="/wiki/Tolkien_Societies" title="Tolkien Societies">Tolkien Societies</a></b></i>
+- <i>For a list of Tolkien Societies by geographic location, see <b><a class="mw-redirect" href="../../main/T/Tolkien_Societies~67099.md" title="Tolkien Societies">Tolkien Societies</a></b></i>

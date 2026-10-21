@@ -1,6 +1,5 @@
 ---
 title: "File:Btn toolbar liste.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Btn toolbar liste.png</span>"
 page_id: 28511
 namespace: 6
 revision_id: 168975

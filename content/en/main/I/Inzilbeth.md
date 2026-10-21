@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inzilbêth"
 ---
 
-Redirect to [Inzilbêth](/wiki/Inzilbêth).
+Redirect to [Inzilbêth](Inzilbêth.md).

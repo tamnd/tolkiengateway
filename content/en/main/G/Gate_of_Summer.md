@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gates of Summer"
 ---
 
-Redirect to [Gates of Summer](/wiki/Gates_of_Summer).
+Redirect to [Gates of Summer](Gates_of_Summer.md).

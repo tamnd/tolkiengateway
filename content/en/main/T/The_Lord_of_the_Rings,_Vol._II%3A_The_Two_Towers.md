@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers"
 ---
 
-Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](/wiki/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers).
+Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers](../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md).

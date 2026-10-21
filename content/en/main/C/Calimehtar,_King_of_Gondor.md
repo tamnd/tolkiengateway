@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (King of Gondor)"
 ---
 
-Redirect to [Calimehtar (King of Gondor)](/wiki/Calimehtar_(King_of_Gondor)).
+Redirect to [Calimehtar (King of Gondor)](<Calimehtar_(King_of_Gondor).md>).

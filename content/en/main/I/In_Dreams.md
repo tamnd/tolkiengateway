@@ -1,6 +1,5 @@
 ---
 title: "In Dreams"
-display_title: "<span class=\"mw-page-title-main\">In Dreams</span>"
 page_id: 10871
 namespace: 0
 revision_id: 314734
@@ -13,7 +12,7 @@ categories:
   - "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"
 ---
 
-**In Dreams** is a song sung in [The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) during the track *[The Breaking Of The Fellowship](</wiki/The_Breaking_Of_The_Fellowship_(soundtrack)> "The Breaking Of The Fellowship (soundtrack)")* composed by [Howard Shore](/wiki/Howard_Shore) and [Fran Walsh](/wiki/Fran_Walsh), and sung by [Edward Ross](/wiki/Edward_Ross). The tune bears a remarkable resemblance to the traditional hymn "<i><a class="external text" href="https://hymnary.org/text/this_is_my_fathers_world_and_to_my" rel="noreferrer noopener" target="_blank">This is my Father&#39;s world</a></i>", and the opening musical phrase is identical. The tune is often played as a "[Hobbit](/wiki/Hobbits "Hobbits")" or "[Shire](/wiki/The_Shire "The Shire")" theme throughout the film.
+**In Dreams** is a song sung in [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) during the track *[The Breaking Of The Fellowship](<../T/The_Breaking_Of_The_Fellowship_(soundtrack).md>)* composed by [Howard Shore](../H/Howard_Shore.md) and [Fran Walsh](../F/Fran_Walsh.md), and sung by [Edward Ross](../E/Edward_Ross.md). The tune bears a remarkable resemblance to the traditional hymn "<i><a class="external text" href="https://hymnary.org/text/this_is_my_fathers_world_and_to_my" rel="noreferrer noopener" target="_blank">This is my Father&#39;s world</a></i>", and the opening musical phrase is identical. The tune is often played as a "[Hobbit](../H/Hobbits.md)" or "[Shire](../T/The_Shire.md)" theme throughout the film.
 
 The words are in English and follow here.
 

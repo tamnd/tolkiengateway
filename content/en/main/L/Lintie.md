@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-**lintie** in [Quenya](/wiki/Quenya) means "speed" or \*"swiftness"
+**lintie** in [Quenya](../Q/Quenya.md) means "speed" or \*"swiftness"
 
 ## Etymology {#Etymology}
 
-Stem \**lint* (probably adjective *[linta](/wiki/Linta "Linta")*) with noun ending <i><a class="new" href="/w/index.php?title=-ie&amp;action=edit&amp;redlink=1" title="-ie (page does not exist)">-ie</a></i>.
+Stem \**lint* (probably adjective *[linta](Linta.md)*) with noun ending <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ie&amp;action=edit&amp;redlink=1" title="-ie (page does not exist)">-ie</a></i>.
 
 ## Other forms {#Other_forms}
 
@@ -25,13 +25,13 @@ Stem \**lint* (probably adjective *[linta](/wiki/Linta "Linta")*) with noun endi
 
 ## See also {#See_also}
 
-- *[linta](/wiki/Linta "Linta")* "swift"
+- *[linta](Linta.md)* "swift"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a> p.58</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a> p.58</span>
 </li>
 </ol></div>

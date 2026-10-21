@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Simbelmynë"
 ---
 
-Redirect to [Simbelmynë](/wiki/Simbelmynë).
+Redirect to [Simbelmynë](Simbelmynë.md).

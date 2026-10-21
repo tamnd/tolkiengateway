@@ -1,6 +1,5 @@
 ---
 title: "Rob Inglis"
-display_title: "<span class=\"mw-page-title-main\">Rob Inglis</span>"
 page_id: 14046
 namespace: 0
 revision_id: 442757
@@ -19,21 +18,21 @@ sort_keys:
   "People by name": "Inglis, Rob"
 ---
 
-**Robert Inglis** is a journalist, actor, theater critic, and playwright who read the Recorded Books Inc. recording of both *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and *[The Hobbit](/wiki/The_Hobbit)*. He was praised by *AudioFile* that "*His rich sound and grave manner would make a grocery list sound like a collection of rare treasure*".
+**Robert Inglis** is a journalist, actor, theater critic, and playwright who read the Recorded Books Inc. recording of both *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and *[The Hobbit](../T/The_Hobbit.md)*. He was praised by *AudioFile* that "*His rich sound and grave manner would make a grocery list sound like a collection of rare treasure*".
 
 ## Roles {#Roles}
 
-- [1998](/wiki/1998): *[An Awfully Big Adventure: J.R.R. Tolkien](/wiki/An_Awfully_Big_Adventure:_J.R.R._Tolkien)* (TV Series documentary)
-- [2002](/wiki/2002): *[The Hobbit](/wiki/The_Hobbit)* (audiobook, unabridged): Narrator
-- [2002](/wiki/2002): *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)* (audiobook, unabridged): Narrator
-- [2002](/wiki/2002): *[The Two Towers](/wiki/The_Two_Towers)* (audiobook, unabridged): Narrator
-- [2002](/wiki/2002): *[The Return of the King](/wiki/The_Return_of_the_King)* (audiobook, unabridged): Narrator
+- [1998](../_/1998.md): *[An Awfully Big Adventure: J.R.R. Tolkien](../A/An_Awfully_Big_Adventure%253A_J.R.R._Tolkien.md)* (TV Series documentary)
+- [2002](../_/2002.md): *[The Hobbit](../T/The_Hobbit.md)* (audiobook, unabridged): Narrator
+- [2002](../_/2002.md): *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (audiobook, unabridged): Narrator
+- [2002](../_/2002.md): *[The Two Towers](../T/The_Two_Towers.md)* (audiobook, unabridged): Narrator
+- [2002](../_/2002.md): *[The Return of the King](../T/The_Return_of_the_King.md)* (audiobook, unabridged): Narrator
 
 ## See also {#See_also}
 
-- [Audiobooks](/wiki/Audiobooks)
-- [Derek Jacobi](/wiki/Derek_Jacobi)
-- [Martin Shaw](/wiki/Martin_Shaw)
+- [Audiobooks](../A/Audiobooks.md)
+- [Derek Jacobi](../D/Derek_Jacobi.md)
+- [Martin Shaw](../M/Martin_Shaw.md)
 
 ## External links {#External_links}
 

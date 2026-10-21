@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Green Dragon"
 ---
 
-Redirect to [The Green Dragon](/wiki/The_Green_Dragon).
+Redirect to [The Green Dragon](../T/The_Green_Dragon.md).

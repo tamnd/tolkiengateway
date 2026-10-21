@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Teleporno"
 ---
 
-Redirect to [Teleporno](/wiki/Teleporno).
+Redirect to [Teleporno](Teleporno.md).

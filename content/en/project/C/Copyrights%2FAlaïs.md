@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Alaïs"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Alaïs</span>"
 page_id: 42518
 namespace: 4
 revision_id: 224379
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alais"
 ---
 
-- Alaïs has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Ala%C3%AFs "Category:Images by Alaïs") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Alaïs has kindly granted her permission to use [her artwork](../../category/I/Images_by_Alaïs.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 26 December 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

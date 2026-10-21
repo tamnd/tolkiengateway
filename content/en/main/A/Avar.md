@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avari"
 ---
 
-Redirect to [Avari](/wiki/Avari).
+Redirect to [Avari](Avari.md).

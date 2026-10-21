@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Mordor Map.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Mordor Map.jpeg</span>"
 page_id: 71494
 namespace: 6
 revision_id: 426279
@@ -27,14 +26,12 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Mordor](/wiki/Mordor) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Map of [Mordor](../../main/M/Mordor.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Bird&#39;s eye view of Mordor and Mount Doom, 1940s. This was an early conception of the geography of Mordor. Tolkien altered the relative positions of Barad-dûr and Mount Doom as the story progressed.
 </p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote><div class="tg-section-divider"></div></div>
 
 ## Licensing {#Licensing}
 

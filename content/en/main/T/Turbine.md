@@ -1,6 +1,5 @@
 ---
 title: "Turbine"
-display_title: "<span class=\"mw-page-title-main\">Turbine</span>"
 page_id: 14915
 namespace: 0
 revision_id: 359865
@@ -15,17 +14,17 @@ categories:
   - "American businesses"
 ---
 
-**Turbine** is an American video game developer. It was the developer of [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online) after purchasing the rights from [Vivendi](/wiki/Vivendi) in March [2005](/wiki/2005). The company was bought by [Warner Bros.](/wiki/Warner_Bros.) on April 20, 2010, who also owns [New Line Cinema](/wiki/New_Line_Cinema). It remained the developer of the specific game until 2016, when [Daybreak Game Company](/wiki/Daybreak_Game_Company) become the new publisher.
+**Turbine** is an American video game developer. It was the developer of [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md) after purchasing the rights from [Vivendi](../V/Vivendi.md) in March [2005](../_/2005.md). The company was bought by [Warner Bros.](../W/Warner_Bros..md) on April 20, 2010, who also owns [New Line Cinema](../N/New_Line_Cinema.md). It remained the developer of the specific game until 2016, when [Daybreak Game Company](../D/Daybreak_Game_Company.md) become the new publisher.
 
 In 2018, it was renamed to **WB Games Boston**.
 
-- <i><b><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
-    - [2007](/wiki/2007): *[The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar)*
-    - [2008](/wiki/2008): *[The Lord of the Rings Online: Mines of Moria](/wiki/The_Lord_of_the_Rings_Online:_Mines_of_Moria)*
-    - [2009](/wiki/2009): *[The Lord of the Rings Online: Siege of Mirkwood](/wiki/The_Lord_of_the_Rings_Online:_Siege_of_Mirkwood)*
-    - [2011](/wiki/2011): *[The Lord of the Rings Online: Rise of Isengard](/wiki/The_Lord_of_the_Rings_Online:_Rise_of_Isengard)*
-    - [2012](/wiki/2012): *[The Lord of the Rings Online: Riders of Rohan](/wiki/The_Lord_of_the_Rings_Online:_Riders_of_Rohan)*
-    - [2013](/wiki/2013): *[The Lord of the Rings Online: Helm's Deep](/wiki/The_Lord_of_the_Rings_Online:_Helm%27s_Deep)*
+- <i><b><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
+    - [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*
+    - [2008](../_/2008.md): *[The Lord of the Rings Online: Mines of Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*
+    - [2009](../_/2009.md): *[The Lord of the Rings Online: Siege of Mirkwood](The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md)*
+    - [2011](../_/2011.md): *[The Lord of the Rings Online: Rise of Isengard](The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md)*
+    - [2012](../_/2012.md): *[The Lord of the Rings Online: Riders of Rohan](The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)*
+    - [2013](../_/2013.md): *[The Lord of the Rings Online: Helm's Deep](The_Lord_of_the_Rings_Online%253A_Helm's_Deep.md)*
 
 ## External links {#External_links}
 

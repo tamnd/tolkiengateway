@@ -1,6 +1,5 @@
 ---
 title: "Ring*Con 2006"
-display_title: "<span class=\"mw-page-title-main\">Ring*Con 2006</span>"
 page_id: 19264
 namespace: 0
 revision_id: 407098
@@ -13,33 +12,33 @@ categories:
   - "Conventions"
 ---
 
-<b>Ring*Con 2006</b> was a German convention held from November 10–12, [2006](/wiki/2006) at the Esperanto Hotel in Fulda, Germany.
+<b>Ring*Con 2006</b> was a German convention held from November 10–12, [2006](../_/2006.md) at the Esperanto Hotel in Fulda, Germany.
 
 ## Events {#Events}
 
-The convention featured a viewing of the [2004](/wiki/2004) short *[Mr. Bliss](</wiki/Mr._Bliss_(2004)> "Mr. Bliss (2004)")*.
+The convention featured a viewing of the [2004](../_/2004.md) short *[Mr. Bliss](<../M/Mr._Bliss_(2004).md>)*.
 
 ### Guests {#Guests}
 
-- [Miranda Otto](/wiki/Miranda_Otto)
-- [Sean Astin](/wiki/Sean_Astin)
-- [Craig Parker](/wiki/Craig_Parker)
-- [Mark Ferguson](/wiki/Mark_Ferguson)
-- [Bruce Hopkins](/wiki/Bruce_Hopkins)
-- [Sarah McLeod](/wiki/Sarah_McLeod)
-- [Bruce Spence](/wiki/Bruce_Spence)
-- [Jed Brophy](/wiki/Jed_Brophy)
-- [Lori Dungey](/wiki/Lori_Dungey)
-- [Shane Rangi](/wiki/Shane_Rangi)
+- [Miranda Otto](../M/Miranda_Otto.md)
+- [Sean Astin](../S/Sean_Astin.md)
+- [Craig Parker](../C/Craig_Parker.md)
+- [Mark Ferguson](../M/Mark_Ferguson.md)
+- [Bruce Hopkins](../B/Bruce_Hopkins.md)
+- [Sarah McLeod](../S/Sarah_McLeod.md)
+- [Bruce Spence](../B/Bruce_Spence.md)
+- [Jed Brophy](../J/Jed_Brophy.md)
+- [Lori Dungey](../L/Lori_Dungey.md)
+- [Shane Rangi](../S/Shane_Rangi.md)
 
 <br clear="all"/>
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="/wiki/Ring*Con" title="Ring*Con">Ring*Con</a> Events</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="Ring%252ACon.md" title="Ring*Con">Ring*Con</a> Events</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/Ring*Con_2002" title="Ring*Con 2002">2002</a> · <a class="new" href="/w/index.php?title=Ring*Con_2003&amp;action=edit&amp;redlink=1" title="Ring*Con 2003 (page does not exist)">2003</a> · <a class="new" href="/w/index.php?title=Ring*Con_2004&amp;action=edit&amp;redlink=1" title="Ring*Con 2004 (page does not exist)">2004</a> · <a class="new" href="/w/index.php?title=Ring*Con_2005&amp;action=edit&amp;redlink=1" title="Ring*Con 2005 (page does not exist)">2005</a> · <a class="mw-selflink selflink">2006</a> · <a href="/wiki/Ring*Con_2007" title="Ring*Con 2007">2007</a> · <a class="new" href="/w/index.php?title=Ring*Con_2008&amp;action=edit&amp;redlink=1" title="Ring*Con 2008 (page does not exist)">2008</a> · <a href="/wiki/Ring*Con_2009" title="Ring*Con 2009">2009</a>
+<td style="font-size: 90%;" align="center"><a href="Ring%252ACon_2002.md" title="Ring*Con 2002">2002</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ring*Con_2003&amp;action=edit&amp;redlink=1" title="Ring*Con 2003 (page does not exist)">2003</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ring*Con_2004&amp;action=edit&amp;redlink=1" title="Ring*Con 2004 (page does not exist)">2004</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ring*Con_2005&amp;action=edit&amp;redlink=1" title="Ring*Con 2005 (page does not exist)">2005</a> · <a class="mw-selflink selflink">2006</a> · <a href="Ring%252ACon_2007.md" title="Ring*Con 2007">2007</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ring*Con_2008&amp;action=edit&amp;redlink=1" title="Ring*Con 2008 (page does not exist)">2008</a> · <a href="Ring%252ACon_2009.md" title="Ring*Con 2009">2009</a>
 </td></tr></tbody></table>
 
 <br>

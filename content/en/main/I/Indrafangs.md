@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Belegost"
 ---
 
-Redirect to [Dwarves of Belegost](/wiki/Dwarves_of_Belegost).
+Redirect to [Dwarves of Belegost](../D/Dwarves_of_Belegost.md).

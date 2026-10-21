@@ -24,8 +24,8 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 14</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 14</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_43" title="Vinyar Tengwar 43"><i>Vinyar Tengwar</i>, Number 43</a>, January 2002. Cf. the poem <a href="/wiki/%C3%81taremma" title="Átaremma">Átaremma</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_43.md" title="Vinyar Tengwar 43"><i>Vinyar Tengwar</i>, Number 43</a>, January 2002. Cf. the poem <a href="../_/Átaremma.md" title="Átaremma">Átaremma</a></span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Netherlands.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Netherlands.png</span>"
 page_id: 35902
 namespace: 6
 revision_id: 170291

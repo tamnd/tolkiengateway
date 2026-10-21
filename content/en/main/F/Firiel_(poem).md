@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Last Ship"
 ---
 
-Redirect to [The Last Ship](/wiki/The_Last_Ship).
+Redirect to [The Last Ship](../T/The_Last_Ship.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Sock block.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sock block.svg</span>"
 page_id: 75111
 namespace: 6
 revision_id: 442436

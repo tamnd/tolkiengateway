@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/David Demaret"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/David Demaret</span>"
 page_id: 41504
 namespace: 4
 revision_id: 257261
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Demaret, David"
 ---
 
-- David Demaret has kindly granted his permission to use [File:David Demaret - SMAUG.jpg](/wiki/File:David_Demaret_-_SMAUG.jpg) and [File:David Demaret - Eowyn and the Nazgul.jpg](/wiki/File:David_Demaret_-_Eowyn_and_the_Nazgul.jpg) on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- David Demaret has kindly granted his permission to use [File:David Demaret - SMAUG.jpg](../../file/D/David_Demaret_-_SMAUG.jpg.md) and [File:David Demaret - Eowyn and the Nazgul.jpg](../../file/D/David_Demaret_-_Eowyn_and_the_Nazgul.jpg.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 September 2012 (Smaug), 30 October 2014 (Éowyn and the Nazgûl)
-- User who sought the permission via DeviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via DeviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

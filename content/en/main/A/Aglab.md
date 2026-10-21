@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aglâb"
 ---
 
-Redirect to [Aglâb](/wiki/Aglâb).
+Redirect to [Aglâb](Aglâb.md).

@@ -1,6 +1,5 @@
 ---
 title: "Asphodel"
-display_title: "<span class=\"mw-page-title-main\">Asphodel</span>"
 page_id: 1332
 namespace: 0
 revision_id: 212427
@@ -13,7 +12,7 @@ categories:
   - "Flowers"
 ---
 
-**Asphodel** were the yellow and white flowers found by [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee") in [Ithilien](/wiki/Ithilien).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Asphodel** were the yellow and white flowers found by [Frodo](../F/Frodo_Baggins.md) and [Sam](../S/Samwise_Gamgee.md) in [Ithilien](../I/Ithilien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 
@@ -24,6 +23,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/Of_Herbs_and_Stewed_Rabbit" title="Of Herbs and Stewed Rabbit">Of Herbs and Stewed Rabbit</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../O/Of_Herbs_and_Stewed_Rabbit.md" title="Of Herbs and Stewed Rabbit">Of Herbs and Stewed Rabbit</a>&#34;</span>
 </li>
 </ol></div>

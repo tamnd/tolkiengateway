@@ -1,6 +1,5 @@
 ---
 title: "File:The Music of the Lord of the Rings Films.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Music of the Lord of the Rings Films.png</span>"
 page_id: 28670
 namespace: 6
 revision_id: 214678

@@ -1,6 +1,5 @@
 ---
 title: "Thomas Newman"
-display_title: "<span class=\"mw-page-title-main\">Thomas Newman</span>"
 page_id: 57479
 namespace: 0
 revision_id: 316621
@@ -17,4 +16,4 @@ sort_keys:
   "People by name": "Newman, Thomas"
 ---
 
-**Thomas Montgomery Newman** ([October 20](/wiki/20_October "20 October"), [1955](/wiki/1955)) is an American composer who composed the score for *[Tolkien](</wiki/Tolkien_(film)> "Tolkien (film)")*.
+**Thomas Montgomery Newman** ([October 20](../_/20_October.md), [1955](../_/1955.md)) is an American composer who composed the score for *[Tolkien](<Tolkien_(film).md>)*.

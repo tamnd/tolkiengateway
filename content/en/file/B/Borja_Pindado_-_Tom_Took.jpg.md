@@ -1,6 +1,5 @@
 ---
 title: "File:Borja Pindado - Tom Took.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Borja Pindado - Tom Took.jpg</span>"
 page_id: 73061
 namespace: 6
 revision_id: 432597
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Tom Took - Art by <a class="new" href="/w/index.php?title=Borja_Pindado&amp;action=edit&amp;redlink=1" title="Borja Pindado (page does not exist)">Borja Pindado</a> for *[The Lord of the Rings: Adventure Card Game](/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game)*. Source: <a class="external autonumber" href="https://www.steamcardexchange.net/index.php?gamepage-appid-509580" rel="noreferrer noopener" target="_blank">[1]</a>
+Tom Took - Art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Borja_Pindado&amp;action=edit&amp;redlink=1" title="Borja Pindado (page does not exist)">Borja Pindado</a> for *[The Lord of the Rings: Adventure Card Game](../../main/T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md)*. Source: <a class="external autonumber" href="https://www.steamcardexchange.net/index.php?gamepage-appid-509580" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

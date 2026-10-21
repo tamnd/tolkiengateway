@@ -1,6 +1,5 @@
 ---
 title: "File:Citizen header image.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Citizen header image.webp</span>"
 page_id: 67402
 namespace: 6
 revision_id: 391658

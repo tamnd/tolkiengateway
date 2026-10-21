@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Bilbo in the Lonely Mountain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Bilbo in the Lonely Mountain.jpg</span>"
 page_id: 42297
 namespace: 6
 revision_id: 223264

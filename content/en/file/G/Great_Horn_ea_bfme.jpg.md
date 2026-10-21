@@ -1,6 +1,5 @@
 ---
 title: "File:Great Horn ea bfme.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Great Horn ea bfme.jpg</span>"
 page_id: 21936
 namespace: 6
 revision_id: 247081
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-[Boromir](/wiki/Boromir) winds the [Horn of Gondor](/wiki/Horn_of_Gondor) in [Moria](/wiki/Moria). Clockwise from 12: [Gimli](/wiki/Gimli), [Orc corpse](/wiki/Orcs "Orcs"), [Aragorn](/wiki/Aragorn), [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee"), [Gandalf](/wiki/Gandalf), [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") and another Orc corpse.
+[Boromir](../../main/B/Boromir.md) winds the [Horn of Gondor](../../main/H/Horn_of_Gondor.md) in [Moria](../../main/M/Moria.md). Clockwise from 12: [Gimli](../../main/G/Gimli.md), [Orc corpse](../../main/O/Orcs.md), [Aragorn](../../main/A/Aragorn.md), [Sam](../../main/S/Samwise_Gamgee.md), [Gandalf](../../main/G/Gandalf.md), [Frodo](../../main/F/Frodo_Baggins.md) and another Orc corpse.
 
-Screenshot from the PC port of *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*.
+Screenshot from the PC port of *[The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 

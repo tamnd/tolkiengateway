@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Dain and Azog.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Dain and Azog.png</span>"
 page_id: 30710
 namespace: 6
 revision_id: 203316
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dáin II Ironfoot](/wiki/D%C3%A1in_Ironfoot "Dáin Ironfoot") fights [Azog](/wiki/Azog). Art by [Liz Danforth](/wiki/Liz_Danforth), from [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Moria (2nd edition)](</wiki/Moria_(1994_book)> "Moria (1994 book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2011, 1994)
+[Dáin II Ironfoot](../../main/D/Dáin_Ironfoot.md) fights [Azog](../../main/A/Azog.md). Art by [Liz Danforth](../../main/L/Liz_Danforth.md), from [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Moria (2nd edition)](<../../main/M/Moria_(1994_book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2011, 1994)
 
 <br>
 

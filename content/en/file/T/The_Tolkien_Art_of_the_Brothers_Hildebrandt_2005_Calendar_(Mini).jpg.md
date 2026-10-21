@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Art of the Brothers Hildebrandt 2005 Calendar (Mini).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Art of the Brothers Hildebrandt 2005 Calendar (Mini).jpg</span>"
 page_id: 6802
 namespace: 6
 revision_id: 215549

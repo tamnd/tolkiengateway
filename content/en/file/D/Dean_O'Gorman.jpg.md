@@ -1,6 +1,5 @@
 ---
 title: "File:Dean O'Gorman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dean O&#039;Gorman.jpg</span>"
 page_id: 46904
 namespace: 6
 revision_id: 248797

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Artem Demura"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Artem Demura</span>"
 page_id: 67912
 namespace: 14
 revision_id: 398090

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Estate"
 ---
 
-Redirect to [Tolkien Estate](/wiki/Tolkien_Estate).
+Redirect to [Tolkien Estate](Tolkien_Estate.md).

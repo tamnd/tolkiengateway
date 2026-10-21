@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Baggins"
 ---
 
-Redirect to [Frodo Baggins](/wiki/Frodo_Baggins).
+Redirect to [Frodo Baggins](../F/Frodo_Baggins.md).

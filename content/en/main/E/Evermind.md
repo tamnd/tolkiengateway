@@ -1,6 +1,5 @@
 ---
 title: "Evermind"
-display_title: "<span class=\"mw-page-title-main\">Evermind</span>"
 page_id: 2290
 namespace: 0
 revision_id: 128997
@@ -13,7 +12,7 @@ categories:
   - "Flowers"
 ---
 
-**Evermind** was a translation of the name [simbelmynë](/wiki/Simbelmyn%C3%AB "Simbelmynë"), the name in [Rohan](/wiki/Rohan) for the small white flower that grew especially on the graves of [Men](/wiki/Men). This association with the dead was the source of the flower's name - 'everlasting memory'.
+**Evermind** was a translation of the name [simbelmynë](../S/Simbelmynë.md), the name in [Rohan](../R/Rohan.md) for the small white flower that grew especially on the graves of [Men](../M/Men.md). This association with the dead was the source of the flower's name - 'everlasting memory'.
 
 ## Etymology {#Etymology}
 
@@ -22,6 +21,6 @@ Tolkien noted that the element *-mind* has the sense "memory". Although the name
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Nomen-1"><span class="mw-cite-backlink"><a href="#cite_ref-Nomen_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Guide_to_the_Names_in_The_Lord_of_the_Rings" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 780</span>
+<li id="cite_note-Nomen-1"><span class="mw-cite-backlink"><a href="#cite_ref-Nomen_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Nomenclature of <i>The Lord of the Rings</i></a>&#34; in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 780</span>
 </li>
 </ol></div>

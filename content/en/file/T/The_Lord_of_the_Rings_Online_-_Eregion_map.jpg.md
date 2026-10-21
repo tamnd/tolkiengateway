@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Eregion map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Eregion map.jpg</span>"
 page_id: 63675
 namespace: 6
 revision_id: 362780
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of most of [Eregion](/wiki/Eregion) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of most of [Eregion](../../main/E/Eregion.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

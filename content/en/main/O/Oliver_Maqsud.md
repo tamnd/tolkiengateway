@@ -1,6 +1,5 @@
 ---
 title: "Oliver Maqsud"
-display_title: "<span class=\"mw-page-title-main\">Oliver Maqsud</span>"
 page_id: 22647
 namespace: 0
 revision_id: 411775
@@ -19,8 +18,8 @@ sort_keys:
   "People by name": "Maqsud, Oliver"
 ---
 
-**Oliver Maqsud** is an artist who has been inspired by the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) since his childhood. He has been working as a freelance concept artist and illustrator for about 18 years and is in early retirement since 2023.
+**Oliver Maqsud** is an artist who has been inspired by the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) since his childhood. He has been working as a freelance concept artist and illustrator for about 18 years and is in early retirement since 2023.
 
 ## See also {#See_also}
 
-- [Images by Oliver Maqsud](/wiki/Category:Images_by_Oliver_Maqsud "Category:Images by Oliver Maqsud")
+- [Images by Oliver Maqsud](../../category/I/Images_by_Oliver_Maqsud.md)

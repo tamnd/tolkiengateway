@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pêl"
 ---
 
-Redirect to [Pêl](/wiki/Pêl).
+Redirect to [Pêl](Pêl.md).

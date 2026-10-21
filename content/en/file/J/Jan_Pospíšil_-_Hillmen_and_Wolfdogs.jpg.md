@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospíšil - Hillmen and Wolfdogs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospíšil - Hillmen and Wolfdogs.jpg</span>"
 page_id: 49183
 namespace: 6
 revision_id: 433341
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Hillmen](/wiki/Hill-men "Hill-men") and Wolf[dogs](/wiki/Dogs "Dogs")" by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il) for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")*: *[Ruins of the North](/wiki/Ruins_of_the_North)*
+"[Hillmen](../../main/H/Hill-men.md) and Wolf[dogs](../../main/D/Dogs.md)" by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md) for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)*: *[Ruins of the North](../../main/R/Ruins_of_the_North.md)*
 
 ## Licensing {#Licensing}
 
@@ -41,4 +40,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

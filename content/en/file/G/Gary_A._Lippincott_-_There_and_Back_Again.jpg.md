@@ -1,6 +1,5 @@
 ---
 title: "File:Gary A. Lippincott - There and Back Again.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gary A. Lippincott - There and Back Again.jpg</span>"
 page_id: 14226
 namespace: 6
 revision_id: 282184
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gary A. Lippincott</li>
 <li><b>Website:</b> <a class="external text" href="http://www.garylippincott.com/" rel="noreferrer noopener" target="_blank">Gary A. Lippincott&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gary_A._Lippincott" title="Tolkien Gateway:Copyrights/Gary A. Lippincott">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGary_A._Lippincott.md" title="Tolkien Gateway:Copyrights/Gary A. Lippincott">Permission for use on Tolkien Gateway</a></b></li></ul></div>

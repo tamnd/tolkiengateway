@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Dangweth Pengoloð.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Dangweth Pengoloð.jpg</span>"
 page_id: 56679
 namespace: 6
 revision_id: 384685
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-First page of Tolkien's manuscript *[Dangweth Pengoloð](/wiki/Dangweth_Pengolo%C3%B0)*, appearing as frontispiece on *[The Peoples of Middle-earth](/wiki/The_Peoples_of_Middle-earth)*.
+First page of Tolkien's manuscript *[Dangweth Pengoloð](../../main/D/Dangweth_Pengoloð.md)*, appearing as frontispiece on *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 

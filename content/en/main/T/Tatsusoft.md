@@ -1,6 +1,5 @@
 ---
 title: "Tatsusoft"
-display_title: "<span class=\"mw-page-title-main\">Tatsusoft</span>"
 page_id: 28056
 namespace: 0
 revision_id: 407356
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Tatsusoft** was the company that developed and published *[Lord of the Rings: The Duel](</wiki/Lord_of_the_Rings:_The_Duel_(video_game)> "Lord of the Rings: The Duel (video game)")*, one of the first action games based on Tolkien's [legendarium](/wiki/Legendarium "Legendarium").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The company is currently known as **TwinSky Games**.<sup id="cite_ref-Twinsky_3-0" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup> It was founded by [Tim Winsky](/wiki/Tim_Winsky).<sup id="cite_ref-Twinsky_3-1" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup>
+**Tatsusoft** was the company that developed and published *[Lord of the Rings: The Duel](<../L/Lord_of_the_Rings%253A_The_Duel_(video_game).md>)*, one of the first action games based on Tolkien's [legendarium](../L/Legendarium.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The company is currently known as **TwinSky Games**.<sup id="cite_ref-Twinsky_3-0" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup> It was founded by [Tim Winsky](Tim_Winsky.md).<sup id="cite_ref-Twinsky_3-1" class="reference"><a href="#cite_note-Twinsky-3">[3]</a></sup>
 
 ## External links {#External_links}
 

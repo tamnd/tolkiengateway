@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Sindarin"
 ---
 
-Redirect to [Old Sindarin](/wiki/Old_Sindarin).
+Redirect to [Old Sindarin](Old_Sindarin.md).

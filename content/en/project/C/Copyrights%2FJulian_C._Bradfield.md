@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Julian C. Bradfield"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Julian C. Bradfield</span>"
 page_id: 36326
 namespace: 4
 revision_id: 193162
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bradfield, Julian C."
 ---
 
-- Permission granted through email by copyright holder Julian C. Bradfield to use [Julian C. Bradfield.png](/wiki/File:Julian_C._Bradfield.png "File:Julian C. Bradfield.png") on Tolkien Gateway.
+- Permission granted through email by copyright holder Julian C. Bradfield to use [Julian C. Bradfield.png](../../file/J/Julian_C._Bradfield.png.md) on Tolkien Gateway.
 - Date: 12 September 2011
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

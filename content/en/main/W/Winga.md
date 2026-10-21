@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinge"
 ---
 
-Redirect to [Vinge](/wiki/Vinge).
+Redirect to [Vinge](../V/Vinge.md).

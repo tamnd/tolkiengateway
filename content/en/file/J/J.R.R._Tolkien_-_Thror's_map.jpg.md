@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Thror's map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Thror&#039;s map.jpg</span>"
 page_id: 55167
 namespace: 6
 revision_id: 429914

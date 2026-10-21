@@ -1,6 +1,5 @@
 ---
 title: "File:NimwenHabareth - Hirgon.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">NimwenHabareth - Hirgon.png</span>"
 page_id: 67053
 namespace: 6
 revision_id: 389077
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> NimwenHabareth</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/nimwenhabareth" rel="noreferrer noopener" target="_blank">NimwenHabareth on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/NimwenHabareth" title="Tolkien Gateway:Copyrights/NimwenHabareth">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNimwenHabareth.md" title="Tolkien Gateway:Copyrights/NimwenHabareth">Permission for use on Tolkien Gateway</a></b></li></ul></div>

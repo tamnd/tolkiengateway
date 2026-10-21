@@ -1,6 +1,5 @@
 ---
 title: "File:Mike Grealish.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mike Grealish.jpg</span>"
 page_id: 74549
 namespace: 6
 revision_id: 438847
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mike Grealish.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Mike_Grealish" title="Mike Grealish">Mike Grealish</a>, in costume as <a href="/wiki/Erkenbrand" title="Erkenbrand">Erkenbrand</a> for <i><a href="/wiki/The_Lord_of_the_Rings_Trading_Card_Game" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>
+<p><a href="../../main/M/Mike_Grealish.md" title="Mike Grealish">Mike Grealish</a>, in costume as <a href="../../main/E/Erkenbrand.md" title="Erkenbrand">Erkenbrand</a> for <i><a href="../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/22_July" title="22 July">22 July</a> <a href="/wiki/2004" title="2004">2004</a></td>
+<td><a href="../../main/_/22_July.md" title="22 July">22 July</a> <a href="../../main/_/2004.md" title="2004">2004</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20080906171452/http://www.decipher.com/content/2004/07/072204lotrwetacasting.html" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20080906171452/http://www.decipher.com/content/2004/07/072204lotrwetacasting.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

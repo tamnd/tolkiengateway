@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grenadier Models Inc."
 ---
 
-Redirect to [Grenadier Models Inc.](/wiki/Grenadier_Models_Inc.).
+Redirect to [Grenadier Models Inc.](Grenadier_Models_Inc..md).

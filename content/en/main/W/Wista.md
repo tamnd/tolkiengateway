@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vista"
 ---
 
-Redirect to [Vista](/wiki/Vista).
+Redirect to [Vista](../V/Vista.md).

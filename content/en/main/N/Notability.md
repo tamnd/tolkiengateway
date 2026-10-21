@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Notability policy"
 ---
 
-Redirect to [Tolkien Gateway:Notability policy](/wiki/Tolkien_Gateway:Notability_policy).
+Redirect to [Tolkien Gateway:Notability policy](../../project/N/Notability_policy.md).

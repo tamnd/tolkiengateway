@@ -1,6 +1,5 @@
 ---
 title: "File:The Roots of the Mountains.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Roots of the Mountains.jpg</span>"
 page_id: 28554
 namespace: 6
 revision_id: 214698

@@ -1,6 +1,5 @@
 ---
 title: "File:TolkienandSmith WithWindinourEars.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TolkienandSmith WithWindinourEars.webp</span>"
 page_id: 74512
 namespace: 6
 revision_id: 438734
@@ -43,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026-05-15</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Palgrave Macmillan</td>
@@ -53,7 +50,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://link.springer.com/book/10.1007/978-3-032-00198-6" rel="noreferrer noopener" target="_blank">https://link.springer.com/book/10.1007/978-3-032-00198-6</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

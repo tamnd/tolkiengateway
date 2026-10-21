@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chetwood"
 ---
 
-Redirect to [Chetwood](/wiki/Chetwood).
+Redirect to [Chetwood](Chetwood.md).

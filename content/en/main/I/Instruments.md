@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Musical instruments"
 ---
 
-Redirect to [Musical instruments](/wiki/Musical_instruments).
+Redirect to [Musical instruments](../M/Musical_instruments.md).

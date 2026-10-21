@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carcharoth"
 ---
 
-Redirect to [Carcharoth](/wiki/Carcharoth).
+Redirect to [Carcharoth](Carcharoth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Calendars"
 ---
 
-Redirect to [Category:Calendars](/wiki/Category:Calendars).
+Redirect to [Category:Calendars](../../category/C/Calendars.md).

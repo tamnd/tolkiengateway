@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orfalch Echor"
 ---
 
-Redirect to [Orfalch Echor](/wiki/Orfalch_Echor).
+Redirect to [Orfalch Echor](../O/Orfalch_Echor.md).

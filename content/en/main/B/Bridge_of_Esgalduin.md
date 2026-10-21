@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iant Iaur"
 ---
 
-Redirect to [Iant Iaur](/wiki/Iant_Iaur).
+Redirect to [Iant Iaur](../I/Iant_Iaur.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "An Ode Inspired by Intimations of the Approach of Early Morning Tea"
 ---
 
-Redirect to [An Ode Inspired by Intimations of the Approach of Early Morning Tea](/wiki/An_Ode_Inspired_by_Intimations_of_the_Approach_of_Early_Morning_Tea).
+Redirect to [An Ode Inspired by Intimations of the Approach of Early Morning Tea](https://tolkiengateway.net/wiki/An_Ode_Inspired_by_Intimations_of_the_Approach_of_Early_Morning_Tea).

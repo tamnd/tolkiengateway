@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Khâradûne"
 ---
 
-Redirect to [Khâradûne](/wiki/Khâradûne).
+Redirect to [Khâradûne](../K/Khâradûne.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Mitchison 1949.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mitchison 1949.jpg</span>"
 page_id: 26193
 namespace: 6
 revision_id: 215071

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arveleg (disambiguation)"
 ---
 
-Redirect to [Arveleg (disambiguation)](/wiki/Arveleg_(disambiguation)).
+Redirect to [Arveleg (disambiguation)](<Arveleg_(disambiguation).md>).

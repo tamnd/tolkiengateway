@@ -1,6 +1,5 @@
 ---
 title: "Category:Taiwanese people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Taiwanese people</span>"
 page_id: 27829
 namespace: 14
 revision_id: 166107

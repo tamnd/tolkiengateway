@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fimbrethil"
 ---
 
-Redirect to [Fimbrethil](/wiki/Fimbrethil).
+Redirect to [Fimbrethil](../F/Fimbrethil.md).

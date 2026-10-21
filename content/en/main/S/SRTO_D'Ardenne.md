@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Simonne d'Ardenne"
 ---
 
-Redirect to [Simonne d'Ardenne](/wiki/Simonne_d'Ardenne).
+Redirect to [Simonne d'Ardenne](Simonne_d'Ardenne.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Heroes of Middle Earth - Bolg.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Heroes of Middle Earth - Bolg.webp</span>"
 page_id: 64895
 namespace: 6
 revision_id: 373789
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A character from the game [The Lord of the Rings: Heroes of Middle-earth](/wiki/The_Lord_of_the_Rings:_Heroes_of_Middle-earth).
+A character from the game [The Lord of the Rings: Heroes of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
 
 ## Licensing {#Licensing}
 

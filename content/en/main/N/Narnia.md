@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Chronicles of Narnia"
 ---
 
-Redirect to [The Chronicles of Narnia](/wiki/The_Chronicles_of_Narnia).
+Redirect to [The Chronicles of Narnia](../T/The_Chronicles_of_Narnia.md).

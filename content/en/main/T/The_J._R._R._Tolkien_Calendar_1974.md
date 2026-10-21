@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The J.R.R. Tolkien Calendar 1974"
 ---
 
-Redirect to [The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974).
+Redirect to [The J.R.R. Tolkien Calendar 1974](The_J.R.R._Tolkien_Calendar_1974.md).

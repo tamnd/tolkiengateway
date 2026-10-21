@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christian History 78"
 ---
 
-Redirect to [Christian History 78](/wiki/Christian_History_78).
+Redirect to [Christian History 78](Christian_History_78.md).

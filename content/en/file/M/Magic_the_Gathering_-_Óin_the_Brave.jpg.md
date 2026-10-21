@@ -1,6 +1,5 @@
 ---
 title: "File:Magic the Gathering - Óin the Brave.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Magic the Gathering - Óin the Brave.jpg</span>"
 page_id: 74956
 namespace: 6
 revision_id: 441258

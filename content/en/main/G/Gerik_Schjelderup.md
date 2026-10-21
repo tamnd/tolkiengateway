@@ -1,6 +1,5 @@
 ---
 title: "Gerik Schjelderup"
-display_title: "<span class=\"mw-page-title-main\">Gerik Schjelderup</span>"
 page_id: 23356
 namespace: 0
 revision_id: 157378
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Schjelderup, Gerik"
 ---
 
-**Gerik R. Schjelderup** ([November 27](/wiki/27_November "27 November"), [1899](/wiki/1899) - [1985](/wiki/1985)) was a Norwegian actor, painter, playwright and translator. In the [1956](/wiki/1956) adaptation of *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*, he played the part of [Gollum](/wiki/Gollum) and several [orcs](/wiki/Orcs "Orcs").
+**Gerik R. Schjelderup** ([November 27](../_/27_November.md), [1899](../_/1899.md) - [1985](../_/1985.md)) was a Norwegian actor, painter, playwright and translator. In the [1956](../_/1956.md) adaptation of *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, he played the part of [Gollum](Gollum.md) and several [orcs](../O/Orcs.md).
 
 ## External links {#External_links}
 

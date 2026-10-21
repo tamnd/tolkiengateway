@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annúminas"
 ---
 
-Redirect to [Annúminas](/wiki/Annúminas).
+Redirect to [Annúminas](Annúminas.md).

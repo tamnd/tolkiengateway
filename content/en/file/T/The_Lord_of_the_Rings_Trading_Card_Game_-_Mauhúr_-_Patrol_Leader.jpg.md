@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Mauhúr - Patrol Leader.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Mauhúr - Patrol Leader.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Mauhúr_-_Patrol_Leader.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Mauhúr - Patrol Leader.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Mauhúr_-_Patrol_Leader.jpg.md).

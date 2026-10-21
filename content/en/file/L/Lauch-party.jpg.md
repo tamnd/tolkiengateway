@@ -1,6 +1,5 @@
 ---
 title: "File:Lauch-party.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lauch-party.jpg</span>"
 page_id: 47120
 namespace: 6
 revision_id: 250841

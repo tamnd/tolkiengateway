@@ -1,6 +1,5 @@
 ---
 title: "File:Luis Bermejo - The Lord of the Rings.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Luis Bermejo - The Lord of the Rings.jpeg</span>"
 page_id: 74567
 namespace: 6
 revision_id: 438919
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1979</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Luis_Bermejo" title="Luis Bermejo">Luis Bermejo</a></td>
+<td><a href="../../main/L/Luis_Bermejo.md" title="Luis Bermejo">Luis Bermejo</a></td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

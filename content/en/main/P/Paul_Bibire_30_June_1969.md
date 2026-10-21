@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Paul Bibire"
 ---
 
-Redirect to [Letter to Paul Bibire](/wiki/Letter_to_Paul_Bibire).
+Redirect to [Letter to Paul Bibire](../L/Letter_to_Paul_Bibire.md).

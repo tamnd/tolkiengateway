@@ -15,26 +15,26 @@ sort_keys:
   "Sindarin nouns": "Luth"
 ---
 
-<i><b>lúth</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "blossom, inflorescence".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>lúth</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "blossom, inflorescence".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") LOT ("flower")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) LOT ("flower")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Lúthien](/wiki/L%C3%BAthien#Etymology)*
+- *[Lúthien](Lúthien.md#Etymology)*
 
 ## See also {#See_also}
 
-- [Sindarin](/wiki/Sindarin) *[lotheg](/wiki/Lotheg "Lotheg")* ("flower")
-- [Sindarin](/wiki/Sindarin) *[loth](/wiki/Loth "Loth")* ("flower")
+- [Sindarin](../S/Sindarin.md) *[lotheg](Lotheg.md)* ("flower")
+- [Sindarin](../S/Sindarin.md) *[loth](Loth.md)* ("flower")
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE17_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 15, 160-1</span>
+<li id="cite_note-PE17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE17_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 15, 160-1</span>
 </li>
 </ol></div>

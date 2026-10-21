@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dale"
 ---
 
-Redirect to [Dale](/wiki/Dale).
+Redirect to [Dale](../D/Dale.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erech and the Paths of the Dead"
 ---
 
-Redirect to [Erech and the Paths of the Dead](/wiki/Erech_and_the_Paths_of_the_Dead).
+Redirect to [Erech and the Paths of the Dead](../E/Erech_and_the_Paths_of_the_Dead.md).

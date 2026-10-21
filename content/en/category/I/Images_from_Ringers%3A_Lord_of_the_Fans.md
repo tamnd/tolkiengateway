@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Ringers: Lord of the Fans"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Ringers: Lord of the Fans</span>"
 page_id: 21317
 namespace: 14
 revision_id: 373550
@@ -15,4 +14,4 @@ sort_keys:
   "Images from films": "Ringers: Lord of the Fans"
 ---
 
-Images of *[Ringers: Lord of the Fans](/wiki/Ringers:_Lord_of_the_Fans)*
+Images of *[Ringers: Lord of the Fans](../../main/R/Ringers%253A_Lord_of_the_Fans.md)*

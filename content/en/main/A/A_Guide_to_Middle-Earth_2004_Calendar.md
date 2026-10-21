@@ -15,9 +15,9 @@ images:
   - "A_Guide_to_Middle-Earth_2004_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_Guide_to_Middle-Earth_2004_Calendar.jpg"><img src="/w/images/6/6a/A_Guide_to_Middle-Earth_2004_Calendar.jpg" decoding="async" loading="lazy" width="216" height="216" class="mw-file-element" data-file-width="216" data-file-height="216"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Guide_to_Middle-Earth_2004_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6a/A_Guide_to_Middle-Earth_2004_Calendar.jpg" decoding="async" loading="lazy" width="216" height="216" class="mw-file-element" data-file-width="216" data-file-height="216"/></a><figcaption></figcaption></figure>
 
-<i><b>A Guide to Middle-Earth 2004 Calendar</b></i> was produced by Andrews McMeel Publishing and was released in conjunction with the book by [Robert Foster](/wiki/Robert_Foster). The calendar contains information about the characters and events combined with daily entries that provide insight into the details of [Middle-earth](/wiki/Middle-earth).
+<i><b>A Guide to Middle-Earth 2004 Calendar</b></i> was produced by Andrews McMeel Publishing and was released in conjunction with the book by [Robert Foster](../R/Robert_Foster.md). The calendar contains information about the characters and events combined with daily entries that provide insight into the details of [Middle-earth](../M/Middle-earth.md).
 
 - Dimensions: 5.5 x 5.5 inches
 - Shrink-wrapped

@@ -1,6 +1,5 @@
 ---
 title: "File:Inklings Jahrbuch 29.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Inklings Jahrbuch 29.png</span>"
 page_id: 40064
 namespace: 6
 revision_id: 213691

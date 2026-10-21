@@ -1,6 +1,5 @@
 ---
 title: "The Microcosm, Vol.8 No.1"
-display_title: "<span class=\"mw-page-title-main\">The Microcosm, Vol.8 No.1</span>"
 page_id: 26552
 namespace: 0
 revision_id: 407526
@@ -19,6 +18,6 @@ images:
   - "The_Microcosm,_Vol.8_No.1.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Microcosm,_Vol.8_No.1.jpg"><img src="/w/images/thumb/0/0d/The_Microcosm%2C_Vol.8_No.1.jpg/300px-The_Microcosm%2C_Vol.8_No.1.jpg" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="/w/images/0/0d/The_Microcosm%2C_Vol.8_No.1.jpg 1.5x" data-file-width="343" data-file-height="452"/></a><figcaption><i>Magazine cover</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Microcosm,_Vol.8_No.1.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/The_Microcosm%2C_Vol.8_No.1.jpg/300px-The_Microcosm%2C_Vol.8_No.1.jpg" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0d/The_Microcosm%2C_Vol.8_No.1.jpg 1.5x" data-file-width="343" data-file-height="452"/></a><figcaption><i>Magazine cover</i></figcaption></figure>
 
-<i><b>The Microcosm, Vol.8 No.1</b></i> is an issue of the magazine *The Microcosm*, edited by Dorothy Una Ratcliffe and published in Spring [1923](/wiki/1923). It includes the poem *[The City of the Gods](/wiki/The_City_of_the_Gods)* (p. 8) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+<i><b>The Microcosm, Vol.8 No.1</b></i> is an issue of the magazine *The Microcosm*, edited by Dorothy Una Ratcliffe and published in Spring [1923](../_/1923.md). It includes the poem *[The City of the Gods](The_City_of_the_Gods.md)* (p. 8) by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

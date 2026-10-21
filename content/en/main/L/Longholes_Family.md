@@ -1,6 +1,5 @@
 ---
 title: "Longholes Family"
-display_title: "<span class=\"mw-page-title-main\">Longholes Family</span>"
 page_id: 3757
 namespace: 0
 revision_id: 435940
@@ -27,13 +26,13 @@ langlinks:
     url: "https://kontu.wiki/Isokolo"
 ---
 
-The **Longholes** were a family of [Hobbits](/wiki/Bree-hobbits "Bree-hobbits") living in [Bree](/wiki/Bree).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Longholes** were a family of [Hobbits](../B/Bree-hobbits.md) living in [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/At_the_Sign_of_the_Prancing_Pony" title="At the Sign of the Prancing Pony">At the Sign of the Prancing Pony</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/At_the_Sign_of_the_Prancing_Pony.md" title="At the Sign of the Prancing Pony">At the Sign of the Prancing Pony</a>&#34;</span>
 </li>
 </ol></div>

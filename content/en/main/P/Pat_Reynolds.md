@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Patricia Reynolds"
 ---
 
-Redirect to [Patricia Reynolds](/wiki/Patricia_Reynolds).
+Redirect to [Patricia Reynolds](Patricia_Reynolds.md).

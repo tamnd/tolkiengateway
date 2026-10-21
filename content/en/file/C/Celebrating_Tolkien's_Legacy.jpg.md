@@ -1,6 +1,5 @@
 ---
 title: "File:Celebrating Tolkien's Legacy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Celebrating Tolkien&#039;s Legacy.jpg</span>"
 page_id: 69790
 namespace: 6
 revision_id: 414955
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Celebrating Tolkien's Legacy](/wiki/Celebrating_Tolkien%27s_Legacy)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers).
+Cover of *[Celebrating Tolkien's Legacy](../../main/C/Celebrating_Tolkien's_Legacy.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

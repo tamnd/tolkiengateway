@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rivendell: The House of Elrond"
 ---
 
-Redirect to [Rivendell: The House of Elrond](/wiki/Rivendell:_The_House_of_Elrond).
+Redirect to [Rivendell: The House of Elrond](../R/Rivendell%253A_The_House_of_Elrond.md).

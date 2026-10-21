@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Gloin the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Gloin the Dwarf.png</span>"
 page_id: 73177
 namespace: 6
 revision_id: 433023
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gloin the Dwarf](/wiki/Gl%C3%B3in "Glóin") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor055/gloin-the-dwarf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Gloin the Dwarf](../../main/G/Glóin.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor055/gloin-the-dwarf" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Licensing {#Licensing}
 

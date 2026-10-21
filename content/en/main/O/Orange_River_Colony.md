@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orange Free State"
 ---
 
-Redirect to [Orange Free State](/wiki/Orange_Free_State).
+Redirect to [Orange Free State](Orange_Free_State.md).

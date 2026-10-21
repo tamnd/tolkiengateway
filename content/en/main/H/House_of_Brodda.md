@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brodda's hall"
 ---
 
-Redirect to [Brodda's hall](/wiki/Brodda's_hall).
+Redirect to [Brodda's hall](../B/Brodda's_hall.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entings"
 ---
 
-Redirect to [Entings](/wiki/Entings).
+Redirect to [Entings](Entings.md).

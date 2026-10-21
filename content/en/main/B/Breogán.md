@@ -1,6 +1,5 @@
 ---
 title: "Breogán"
-display_title: "<span class=\"mw-page-title-main\">Breogán</span>"
 page_id: 18972
 namespace: 0
 revision_id: 306127
@@ -15,7 +14,7 @@ categories:
   - "People by name"
 ---
 
-**Breogán** is a Galician artist. She provided illustrations for [Douglas C. Kane](/wiki/Douglas_C._Kane)'s *[Arda Reconstructed: The Creation of the Published Silmarillion](/wiki/Arda_Reconstructed:_The_Creation_of_the_Published_Silmarillion)*.
+**Breogán** is a Galician artist. She provided illustrations for [Douglas C. Kane](../D/Douglas_C._Kane.md)'s *[Arda Reconstructed: The Creation of the Published Silmarillion](../A/Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md)*.
 
 The name Breogán is a pseudonym, taken from the <a class="extiw" href="http://en.wikipedia.org/wiki/Breog%C3%A1n" title="wikipedia:Breogán">mythical Celtic king</a> of the same name.
 

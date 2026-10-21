@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Earissë"
 ---
 
-Redirect to [Earissë](/wiki/Earissë).
+Redirect to [Earissë](Earissë.md).

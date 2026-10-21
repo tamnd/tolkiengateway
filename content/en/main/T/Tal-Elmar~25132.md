@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tal-Elmar (disambiguation)"
 ---
 
-Redirect to [Tal-Elmar (disambiguation)](/wiki/Tal-Elmar_(disambiguation)).
+Redirect to [Tal-Elmar (disambiguation)](<Tal-Elmar_(disambiguation).md>).

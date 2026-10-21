@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haudh in Gwanûr"
 ---
 
-Redirect to [Haudh in Gwanûr](/wiki/Haudh_in_Gwanûr).
+Redirect to [Haudh in Gwanûr](Haudh_in_Gwanûr.md).

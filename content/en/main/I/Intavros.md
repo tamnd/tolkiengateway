@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inthavros"
 ---
 
-Redirect to [Inthavros](/wiki/Inthavros).
+Redirect to [Inthavros](Inthavros.md).

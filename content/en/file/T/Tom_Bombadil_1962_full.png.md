@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Bombadil 1962 full.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Bombadil 1962 full.png</span>"
 page_id: 62528
 namespace: 6
 revision_id: 353250

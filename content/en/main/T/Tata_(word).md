@@ -15,35 +15,33 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="/wiki/Elvish" title="Elvish">Elvish</a> word</b>. For the <a href="/wiki/Elves" title="Elves">Elf</a>, see <b><a href="/wiki/Tata" title="Tata">Tata</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../E/Elvish.md" title="Elvish">Elvish</a> word</b>. For the <a href="../E/Elves.md" title="Elves">Elf</a>, see <b><a href="Tata.md" title="Tata">Tata</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-<i><b>tata</b></i> is the [Telerin](/wiki/Telerin) number "two".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tata</b></i> is the [Telerin](Telerin.md) number "two".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The [Roots](/wiki/Sundocarme "Sundocarme") for "two" have been [AT](/wiki/AT)-AT, AT[TA](/wiki/TA) and other variants. The [Common Eldarin](/wiki/Common_Eldarin) ancestor was <i><a class="new" href="/w/index.php?title=At%C3%A1ta&amp;action=edit&amp;redlink=1" title="Atáta (page does not exist)">atáta</a></i>.
+The [Roots](../S/Sundocarme.md) for "two" have been [AT](../A/AT.md)-AT, AT[TA](TA.md) and other variants. The [Common Eldarin](../C/Common_Eldarin.md) ancestor was <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=At%C3%A1ta&amp;action=edit&amp;redlink=1" title="Atáta (page does not exist)">atáta</a></i>.
 
-According to the legend of *[Cuivienyarna](/wiki/Cuivienyarna)*, the word perhaps derives from the name [Tata](/wiki/Tata).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+According to the legend of *[Cuivienyarna](../C/Cuivienyarna.md)*, the word perhaps derives from the name [Tata](Tata.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[atta](/wiki/Atta "Atta")*
-- [Sindarin](/wiki/Sindarin) *[tâd](/wiki/T%C3%A2d "Tâd")*
+- [Quenya](../Q/Quenya.md) *[atta](../A/Atta.md)*
+- [Sindarin](../S/Sindarin.md) *[tâd](Tâd.md)*
 
 ## See also {#See_also}
 
-- *[tatya](/wiki/Tatya "Tatya")*
+- *[tatya](Tatya.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a> p.26-27</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a> p.26-27</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 421</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 421</span>
 </li>
 </ol></div>

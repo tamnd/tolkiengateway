@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline of Aragorn"
 ---
 
-Redirect to [Timeline of Aragorn](/wiki/Timeline_of_Aragorn).
+Redirect to [Timeline of Aragorn](Timeline_of_Aragorn.md).

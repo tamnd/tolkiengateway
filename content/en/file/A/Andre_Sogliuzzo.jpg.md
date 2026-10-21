@@ -1,6 +1,5 @@
 ---
 title: "File:Andre Sogliuzzo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andre Sogliuzzo.jpg</span>"
 page_id: 19407
 namespace: 6
 revision_id: 249456

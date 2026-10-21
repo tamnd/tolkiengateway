@@ -1,6 +1,5 @@
 ---
 title: "File:Not Lord of the Rings - Forest.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Not Lord of the Rings - Forest.png</span>"
 page_id: 26101
 namespace: 6
 revision_id: 316332

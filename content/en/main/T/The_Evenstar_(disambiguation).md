@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Evenstar (disambiguation)"
 ---
 
-Redirect to [Evenstar (disambiguation)](/wiki/Evenstar_(disambiguation)).
+Redirect to [Evenstar (disambiguation)](<../E/Evenstar_(disambiguation).md>).

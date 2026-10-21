@@ -13,4 +13,4 @@ categories:
   - "Poems by J.R.R. Tolkien"
 ---
 
-<dl><dd>All poems and songs in <i><b><a href="/wiki/Songs_for_the_Philologists" title="Songs for the Philologists">Songs for the Philologists</a></b></i></dd></dl>
+<dl><dd>All poems and songs in <i><b><a href="../../main/S/Songs_for_the_Philologists.md" title="Songs for the Philologists">Songs for the Philologists</a></b></i></dd></dl>

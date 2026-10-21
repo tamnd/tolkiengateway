@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-nna"
 ---
 
-Redirect to [-nna](/wiki/-nna).
+Redirect to [-nna](-nna.md).

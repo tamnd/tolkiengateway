@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórien and the Halls of the Elven Smiths"
 ---
 
-Redirect to [Lórien and the Halls of the Elven Smiths](/wiki/Lórien_and_the_Halls_of_the_Elven_Smiths).
+Redirect to [Lórien and the Halls of the Elven Smiths](../L/Lórien_and_the_Halls_of_the_Elven_Smiths.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Romana Kendelic"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Romana Kendelic</span>"
 page_id: 72822
 namespace: 14
 revision_id: 431466
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kendelic, Romana"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Romana_Kendelic&amp;action=edit&amp;redlink=1" title="Romana Kendelic (page does not exist)">Romana Kendelic</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Romana_Kendelic&amp;action=edit&amp;redlink=1" title="Romana Kendelic (page does not exist)">Romana Kendelic</a></b>.

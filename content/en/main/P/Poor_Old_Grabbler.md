@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Grabbler"
 ---
 
-Redirect to [Old Grabbler](/wiki/Old_Grabbler).
+Redirect to [Old Grabbler](../O/Old_Grabbler.md).

@@ -15,17 +15,17 @@ sort_keys:
   "Khuzdul words": "Aglab"
 ---
 
-<i><b>aglâb</b></i> in [Khuzdul](/wiki/Khuzdul) means "spoken language".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>aglâb</b></i> in [Khuzdul](../K/Khuzdul.md) means "spoken language".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word obviously comes from the radicals G-L, which also appear in the word <i><a href="/wiki/Iglishm%C3%AAk" title="Iglishmêk">i<b>gl</b>ishmêk</a></i>. *-âb* is possibly an ending.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+The word obviously comes from the radicals G-L, which also appear in the word <i><a href="../I/Iglishmêk.md" title="Iglishmêk">i<b>gl</b>ishmêk</a></i>. *-âb* is possibly an ending.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i> p. 395</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> p. 395</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Magnus_%C3%85berg" title="Magnus Åberg">Magnus Åberg</a>, <a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">An analysis of Dwarvish</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../M/Magnus_Åberg.md" title="Magnus Åberg">Magnus Åberg</a>, <a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">An analysis of Dwarvish</a></span>
 </li>
 </ol></div>

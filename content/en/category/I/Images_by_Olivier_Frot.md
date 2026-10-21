@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Olivier Frot"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Olivier Frot</span>"
 page_id: 74810
 namespace: 14
 revision_id: 439918
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Frot, Olivier"
 ---
 
-This category lists all **images by [Olivier Frot](/wiki/Olivier_Frot)**.
+This category lists all **images by [Olivier Frot](../../main/O/Olivier_Frot.md)**.

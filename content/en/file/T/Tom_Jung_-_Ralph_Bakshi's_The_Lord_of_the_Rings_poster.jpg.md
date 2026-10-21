@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Jung - Ralph Bakshi's The Lord of the Rings poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Jung - Ralph Bakshi&#039;s The Lord of the Rings poster.jpg</span>"
 page_id: 14724
 namespace: 6
 revision_id: 281898

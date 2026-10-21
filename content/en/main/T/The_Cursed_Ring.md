@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peter Kjærulff"
 ---
 
-Redirect to [Peter Kjærulff](/wiki/Peter_Kjærulff).
+Redirect to [Peter Kjærulff](../P/Peter_Kjærulff.md).

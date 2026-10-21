@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - The Lovers (The Hobbit).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - The Lovers (The Hobbit).jpg</span>"
 page_id: 71099
 namespace: 6
 revision_id: 433777
@@ -35,24 +34,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Peter Pracownik - The Lovers (The Hobbit).jpg</span></th>
 <td class="description">
-&#34;The Lovers&#34; from <i><a href="/wiki/The_Hobbit_Tarot" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="/wiki/Bungo_Baggins" title="Bungo Baggins">Bungo Baggins</a> and <a href="/wiki/Belladonna_Took" title="Belladonna Took">Belladonna Took</a> (<a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a>’s parents) appear to be deep in conversation, suggesting the power of attraction and love in all life. It was Bungo who built <a href="/wiki/Bag_End" title="Bag End">Bag-End</a>. Belladonna came from <a href="/wiki/Took_Family" title="Took Family">a very wealthy family</a>, and was also well known to the <a href="/wiki/Wizards" title="Wizards">wizard</a> <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a>. Bilbo was their only child together.</p></blockquote>
+&#34;The Lovers&#34; from <i><a href="../../main/T/The_Hobbit_Tarot.md" title="The Hobbit Tarot">The Hobbit Tarot</a></i><br/><blockquote><p><a href="../../main/B/Bungo_Baggins.md" title="Bungo Baggins">Bungo Baggins</a> and <a href="../../main/B/Belladonna_Took.md" title="Belladonna Took">Belladonna Took</a> (<a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>’s parents) appear to be deep in conversation, suggesting the power of attraction and love in all life. It was Bungo who built <a href="../../main/B/Bag_End.md" title="Bag End">Bag-End</a>. Belladonna came from <a href="../../main/T/Took_Family.md" title="Took Family">a very wealthy family</a>, and was also well known to the <a href="../../main/W/Wizards.md" title="Wizards">wizard</a> <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a>. Bilbo was their only child together.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2012</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Peter_Pracownik" title="Peter Pracownik">Peter Pracownik</a></td>
+<td><a href="../../main/P/Peter_Pracownik.md" title="Peter Pracownik">Peter Pracownik</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20131014212155/http://www.peterpracownik.com/pages/the-lovers.htm" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20131014212155/http://www.peterpracownik.com/pages/the-lovers.htm</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

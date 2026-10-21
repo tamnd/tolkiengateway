@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Monogram 1906.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Monogram 1906.png</span>"
 page_id: 69014
 namespace: 6
 revision_id: 412467

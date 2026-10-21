@@ -1,6 +1,5 @@
 ---
 title: "File:Austria.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Austria.png</span>"
 page_id: 36024
 namespace: 6
 revision_id: 170407

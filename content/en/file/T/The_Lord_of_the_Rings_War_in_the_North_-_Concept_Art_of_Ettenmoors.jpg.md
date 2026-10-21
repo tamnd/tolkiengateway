@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings War in the North - Concept Art of Ettenmoors.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings War in the North - Concept Art of Ettenmoors.jpg</span>"
 page_id: 35276
 namespace: 6
 revision_id: 185749
@@ -24,7 +23,7 @@ file:
   user: "Amroth"
 ---
 
-Concept Art of [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Concept Art of [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros</a>. It is believed that the limited use of this file,

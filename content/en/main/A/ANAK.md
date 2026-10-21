@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ÁNAK"
 ---
 
-Redirect to [ÁNAK](/wiki/ÁNAK).
+Redirect to [ÁNAK](../_/ÁNAK.md).

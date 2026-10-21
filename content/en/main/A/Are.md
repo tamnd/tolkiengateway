@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Áre"
 ---
 
-Redirect to [Áre](/wiki/Áre).
+Redirect to [Áre](../_/Áre.md).

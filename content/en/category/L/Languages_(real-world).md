@@ -1,6 +1,5 @@
 ---
 title: "Category:Languages (real-world)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Languages (real-world)</span>"
 page_id: 21996
 namespace: 14
 revision_id: 115565
@@ -13,6 +12,6 @@ categories:
   - "Real-world"
 ---
 
-<dl><dd><i>For languages found in Arda see <a href="/wiki/Category:Languages" title="Category:Languages">Category:Languages</a>.</i></dd></dl>
+<dl><dd><i>For languages found in Arda see <a href="Languages.md" title="Category:Languages">Category:Languages</a>.</i></dd></dl>
 
-Languages that are part of the real-world rather then the fictional world of [Arda](/wiki/Arda).
+Languages that are part of the real-world rather then the fictional world of [Arda](../../main/A/Arda.md).

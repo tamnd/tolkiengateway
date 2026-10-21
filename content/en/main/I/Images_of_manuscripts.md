@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of manuscripts"
 ---
 
-Redirect to [Category:Images of manuscripts](/wiki/Category:Images_of_manuscripts).
+Redirect to [Category:Images of manuscripts](../../category/I/Images_of_manuscripts.md).

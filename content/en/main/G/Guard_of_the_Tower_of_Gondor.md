@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guards of the Citadel"
 ---
 
-Redirect to [Guards of the Citadel](/wiki/Guards_of_the_Citadel).
+Redirect to [Guards of the Citadel](Guards_of_the_Citadel.md).

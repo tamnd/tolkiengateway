@@ -1,6 +1,5 @@
 ---
 title: "Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien (Complete)"
-display_title: "<span class=\"mw-page-title-main\">Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien (Complete)</span>"
 page_id: 65187
 namespace: 0
 revision_id: 426181
@@ -16,15 +15,15 @@ images:
   - "Complete_Silmarillion_Artwork.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Complete_Silmarillion_Artwork.jpg"><img src="/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/300px-Complete_Silmarillion_Artwork.jpg" decoding="async" loading="lazy" width="300" height="262" class="mw-file-element" srcset="/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/450px-Complete_Silmarillion_Artwork.jpg 1.5x, /w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/600px-Complete_Silmarillion_Artwork.jpg 2x" data-file-width="1159" data-file-height="1012"/></a><figcaption>Artwork from the box set. By permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Complete_Silmarillion_Artwork.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/300px-Complete_Silmarillion_Artwork.jpg" decoding="async" loading="lazy" width="300" height="262" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/450px-Complete_Silmarillion_Artwork.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/Complete_Silmarillion_Artwork.jpg/600px-Complete_Silmarillion_Artwork.jpg 2x" data-file-width="1159" data-file-height="1012"/></a><figcaption>Artwork from the box set. By permission of Ted Nasmith</figcaption></figure>
 
-Complete box set of demo recordings of composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic adaptation of *[The Silmarillion](/wiki/The_Silmarillion)* recorded by Volante Opera Productions between 2017 and 2023. In June 2023 this set was released as a ten disc box set with a 128 page booklet containing a full synopsis, complete texts, translations of the Elvish and a guide to this version of the legends.
+Complete box set of demo recordings of composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic adaptation of *[The Silmarillion](../T/The_Silmarillion.md)* recorded by Volante Opera Productions between 2017 and 2023. In June 2023 this set was released as a ten disc box set with a 128 page booklet containing a full synopsis, complete texts, translations of the Elvish and a guide to this version of the legends.
 
-It includes the works *[Op. 46 - Fëanor](</wiki/F%C3%ABanor,_Op._46_(Opera)> "Fëanor, Op. 46 (Opera)")*, *[Op. 47. Beren and Lúthien](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)> "Beren and Lúthien, Op. 47 (Opera)")*, *[Op. 48 - The Children of Húrin](</wiki/The_Children_of_H%C3%BArin,_Op._48_(Opera)> "The Children of Húrin, Op. 48 (Opera)"),* *[Op. 49 - The Fall of Gondolin](</wiki/The_Fall_of_Gondolin,_Op.49_(Opera)> "The Fall of Gondolin, Op.49 (Opera)")* and *[Op. 71. The War of Wrath](</wiki/The_War_of_Wrath,_Op._71_(Opera)> "The War of Wrath, Op. 71 (Opera)").*
+It includes the works *[Op. 46 - Fëanor](<../F/Fëanor,_Op._46_(Opera).md>)*, *[Op. 47. Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*, *[Op. 48 - The Children of Húrin](<../T/The_Children_of_Húrin,_Op._48_(Opera).md>),* *[Op. 49 - The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)* and *[Op. 71. The War of Wrath](<../T/The_War_of_Wrath,_Op._71_(Opera).md>).*
 
 ## Cast {#Cast}
 
-[**Op. 46 - Fëanor**](</wiki/F%C3%ABanor,_Op._46_(Opera)> "Fëanor, Op. 46 (Opera)")
+[**Op. 46 - Fëanor**](<../F/Fëanor,_Op._46_(Opera).md>)
 
 Melkor (later Morgoth) the Enemy (Bass): Laurence Cole
 
@@ -60,7 +59,7 @@ Paula Greenwood/Emma Mary Llewellyn/Sophie Yelland/Helen Greenaway
 
 Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 
-<br> **[Op. 47. Beren and Lúthien](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)> "Beren and Lúthien, Op. 47 (Opera)")**
+<br> **[Op. 47. Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)**
 
 Finrod Felagund, the King of Nargothrond (Tenor): Simon Crosby Buttle
 
@@ -84,7 +83,7 @@ Anitra Blaxhall/Emma Mary Llewellyn/Helen Jarmany/Helen Greenaway/
 
 Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 
-<br> **[Op. 48 - The Children of Húrin](</wiki/The_Children_of_H%C3%BArin,_Op._48_(Opera)> "The Children of Húrin, Op. 48 (Opera)")**
+<br> **[Op. 48 - The Children of Húrin](<../T/The_Children_of_Húrin,_Op._48_(Opera).md>)**
 
 Morgoth, the enemy (Bass): Laurence Cole
 
@@ -118,7 +117,7 @@ Angharad Morgan/Emma Mary Llewellyn/Louise Ratcliffe/Helen Greenaway/
 
 Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 
-<br> **[Op. 49 - The Fall of Gondolin](</wiki/The_Fall_of_Gondolin,_Op.49_(Opera)> "The Fall of Gondolin, Op.49 (Opera)")**
+<br> **[Op. 49 - The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)**
 
 Ulmo, Lord of the Waters (Bass):  Martin Lloyd
 
@@ -146,7 +145,7 @@ Anitra Blaxhall/Emma Mary Llewellyn/Louise Ratcliffe/Helen Greenaway/
 
 Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Laurence Cole
 
-<br> **[Op. 71. The War of Wrath](</wiki/The_War_of_Wrath,_Op._71_(Opera)> "The War of Wrath, Op. 71 (Opera)")**
+<br> **[Op. 71. The War of Wrath](<../T/The_War_of_Wrath,_Op._71_(Opera).md>)**
 
 Elbereth, Queen of Light (Soprano): Emma Mary Llewellyn
 

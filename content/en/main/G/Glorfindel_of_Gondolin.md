@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glorfindel"
 ---
 
-Redirect to [Glorfindel](/wiki/Glorfindel).
+Redirect to [Glorfindel](Glorfindel.md).

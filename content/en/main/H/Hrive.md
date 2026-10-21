@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hrívë"
 ---
 
-Redirect to [Hrívë](/wiki/Hrívë).
+Redirect to [Hrívë](Hrívë.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Amon Hen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Amon Hen.jpg</span>"
 page_id: 71755
 namespace: 6
 revision_id: 427645
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Amon Hen](/wiki/Amon_Hen) - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+[Amon Hen](../../main/A/Amon_Hen.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

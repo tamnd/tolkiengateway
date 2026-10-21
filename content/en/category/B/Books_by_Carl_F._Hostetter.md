@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Carl F. Hostetter"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Carl F. Hostetter</span>"
 page_id: 26378
 namespace: 14
 revision_id: 103990

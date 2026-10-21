@@ -1,6 +1,5 @@
 ---
 title: "Letter to George Allen & Unwin"
-display_title: "<span class=\"mw-page-title-main\">Letter to George Allen &amp; Unwin</span>"
 page_id: 27996
 namespace: 0
 revision_id: 387872
@@ -15,9 +14,9 @@ sort_keys:
   "Letters": "George Allen and Unwin"
 ---
 
-On [7 September](/wiki/7_September) [1937](/wiki/1937), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [George Allen &amp; Unwin](/wiki/George_Allen_and_Unwin "George Allen and Unwin")**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [7 September](../_/7_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Contents**: Tolkien writes to his publishers regarding the promotion of *[The Hobbit](/wiki/The_Hobbit)*. Notable is Tolkien's description of his friend [Wilfred Rowland Childe](/wiki/Wilfred_Rowland_Childe).
+- **Contents**: Tolkien writes to his publishers regarding the promotion of *[The Hobbit](../T/The_Hobbit.md)*. Notable is Tolkien's description of his friend [Wilfred Rowland Childe](../W/Wilfred_Rowland_Childe.md).
 - **Archive**: Tolkien-George Allen &amp; Unwin archive, HarperCollins.
 
 ## Excerpt {#Excerpt}
@@ -28,6 +27,6 @@ On [7 September](/wiki/7_September) [1937](/wiki/1937), [J.R.R. Tolkien](/wiki/J
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 160</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 160</span>
 </li>
 </ol></div>

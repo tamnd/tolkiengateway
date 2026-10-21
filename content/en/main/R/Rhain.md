@@ -13,15 +13,15 @@ categories:
   - "Noldorin adjectives"
 ---
 
-<i><b>rhain</b></i> (alternative form <i><b>rhein</b></i>) is a [Noldorin](/wiki/Noldorin) word meaning "free, \[?uncontrolling\]".<sup id="cite_ref-Corr_1-0" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
+<i><b>rhain</b></i> (alternative form <i><b>rhein</b></i>) is a [Noldorin](../N/Noldorin.md) word meaning "free, \[?uncontrolling\]".<sup id="cite_ref-Corr_1-0" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word is a descendant form of [Primitive Quendian](/wiki/Primitive_Quendian) *(a)raniā*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> deriving from [root](/wiki/Sundocarme "Sundocarme") [RAN](/wiki/RAN#Other_versions).<sup id="cite_ref-Corr_1-1" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
+The word is a descendant form of [Primitive Quendian](../P/Primitive_Quendian.md) *(a)raniā*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> deriving from [root](../S/Sundocarme.md) [RAN](RAN.md#Other_versions).<sup id="cite_ref-Corr_1-1" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya): *[(a)ranya](</wiki/(a)ranya>)*
+- [Quenya](../Q/Quenya.md): *[(a)ranya](<../_/(a)ranya.md>)*
 
 ## Notes {#Notes}
 
@@ -33,6 +33,6 @@ The word is a descendant form of [Primitive Quendian](/wiki/Primitive_Quendian) 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Corr-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Corr_1-0">1.0</a></sup> <sup><a href="#cite_ref-Corr_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_46" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 10</span>
+<li id="cite_note-Corr-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Corr_1-0">1.0</a></sup> <sup><a href="#cite_ref-Corr_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 10</span>
 </li>
 </ol></div>

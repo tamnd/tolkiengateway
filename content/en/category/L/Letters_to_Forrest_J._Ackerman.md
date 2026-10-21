@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Forrest J. Ackerman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Forrest J. Ackerman</span>"
 page_id: 68681
 namespace: 14
 revision_id: 408712
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Ackerman, Forrest J."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="external text" href="http://www.imdb.com/name/nm0009969/" rel="noreferrer noopener" target="_blank">Forrest J. Ackerman</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="external text" href="http://www.imdb.com/name/nm0009969/" rel="noreferrer noopener" target="_blank">Forrest J. Ackerman</a>.

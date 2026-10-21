@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vingilot"
 ---
 
-Redirect to [Vingilot](/wiki/Vingilot).
+Redirect to [Vingilot](../V/Vingilot.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Perilous Realm 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Perilous Realm 2024.jpg</span>"
 page_id: 67657
 namespace: 6
 revision_id: 394423

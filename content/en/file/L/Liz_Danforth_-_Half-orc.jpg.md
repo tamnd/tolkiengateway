@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Half-orc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Half-orc.jpg</span>"
 page_id: 30022
 namespace: 6
 revision_id: 203298
@@ -28,7 +27,7 @@ file:
 
 ## summary {#summary}
 
-Excerpt from image by [Liz Danforth](/wiki/Liz_Danforth), *Uruk-hai, Common Orc, and Half-orc*, appearing in [S. Coleman Charlton](/wiki/Coleman_Charlton "Coleman Charlton"), *[Middle-earth Role Playing (2nd edition, softcover)](</wiki/Middle-earth_Role_Playing_(2nd_edition)> "Middle-earth Role Playing (2nd edition)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2001, 1993) , p. 176.
+Excerpt from image by [Liz Danforth](../../main/L/Liz_Danforth.md), *Uruk-hai, Common Orc, and Half-orc*, appearing in [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, softcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2001, 1993) , p. 176.
 
 ## Licensing {#Licensing}
 

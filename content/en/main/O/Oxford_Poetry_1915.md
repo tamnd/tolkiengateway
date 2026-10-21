@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford Poetry"
 ---
 
-Redirect to [Oxford Poetry](/wiki/Oxford_Poetry).
+Redirect to [Oxford Poetry](Oxford_Poetry.md).

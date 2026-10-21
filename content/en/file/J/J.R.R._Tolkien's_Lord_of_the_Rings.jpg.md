@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien's Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien&#039;s Lord of the Rings.jpg</span>"
 page_id: 33027
 namespace: 6
 revision_id: 199444

@@ -1,6 +1,5 @@
 ---
 title: "Category:Princess issues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Princess issues</span>"
 page_id: 12427
 namespace: 14
 revision_id: 104717
@@ -13,4 +12,4 @@ categories:
   - "Magazines"
 ---
 
-Images from the [Princess](/wiki/Princess) magazines which featured a serialization of [The Hobbit](/wiki/The_Hobbit).
+Images from the [Princess](../../main/P/Princess.md) magazines which featured a serialization of [The Hobbit](../../main/T/The_Hobbit.md).

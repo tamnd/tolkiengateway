@@ -1,6 +1,5 @@
 ---
 title: "File:A Readers Guide to The Silmarillion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Readers Guide to The Silmarillion.jpg</span>"
 page_id: 26390
 namespace: 6
 revision_id: 214133

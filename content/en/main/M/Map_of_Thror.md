@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thrór's Map"
 ---
 
-Redirect to [Thrór's Map](/wiki/Thrór's_Map).
+Redirect to [Thrór's Map](../T/Thrór's_Map.md).

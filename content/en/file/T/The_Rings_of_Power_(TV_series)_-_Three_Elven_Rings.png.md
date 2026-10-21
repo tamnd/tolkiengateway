@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Three Elven Rings.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Three Elven Rings.png</span>"
 page_id: 66000
 namespace: 6
 revision_id: 433698
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Three Rings](/wiki/Three_Rings) in *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series.
+The [Three Rings](../../main/T/Three_Rings.md) in *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.
 
 ## Licensing {#Licensing}
 

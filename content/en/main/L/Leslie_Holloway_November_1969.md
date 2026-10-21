@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Leslie Holloway"
 ---
 
-Redirect to [Letter to Leslie Holloway](/wiki/Letter_to_Leslie_Holloway).
+Redirect to [Letter to Leslie Holloway](Letter_to_Leslie_Holloway.md).

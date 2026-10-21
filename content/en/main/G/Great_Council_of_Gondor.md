@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Council of Gondor"
 ---
 
-Redirect to [Council of Gondor](/wiki/Council_of_Gondor).
+Redirect to [Council of Gondor](../C/Council_of_Gondor.md).

@@ -1,6 +1,5 @@
 ---
 title: "Daybreak Game Company"
-display_title: "<span class=\"mw-page-title-main\">Daybreak Game Company</span>"
 page_id: 60809
 namespace: 0
 revision_id: 362492
@@ -15,14 +14,14 @@ categories:
   - "American businesses"
 ---
 
-**Daybreak Game Company** is a video game developer and based in San Diego. In [2016](/wiki/2016), it became the publisher of *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)* with the transference from [Warner Bros. Interactive Entertainment](/wiki/Warner_Bros._Interactive_Entertainment).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Daybreak Game Company** is a video game developer and based in San Diego. In [2016](../_/2016.md), it became the publisher of *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* with the transference from [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- <i><b><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
-    - [2017](/wiki/2017): *[The Lord of the Rings Online: Mordor](/wiki/The_Lord_of_the_Rings_Online:_Mordor)*
-    - [2019](/wiki/2019): *[The Lord of the Rings Online: Minas Morgul](/wiki/The_Lord_of_the_Rings_Online:_Minas_Morgul)*
-    - [2020](/wiki/2020): *[The Lord of the Rings Online: War of Three Peaks](/wiki/The_Lord_of_the_Rings_Online:_War_of_Three_Peaks)*
-    - [2021](/wiki/2021): *[The Lord of the Rings Online: Fate of Gundabad](/wiki/The_Lord_of_the_Rings_Online:_Fate_of_Gundabad)*
-    - [2022](/wiki/2022): *[The Lord of the Rings Online: Before the Shadow](/wiki/The_Lord_of_the_Rings_Online:_Before_the_Shadow)*
+- <i><b><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
+    - [2017](../_/2017.md): *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*
+    - [2019](../_/2019.md): *[The Lord of the Rings Online: Minas Morgul](../T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md)*
+    - [2020](../_/2020.md): *[The Lord of the Rings Online: War of Three Peaks](../T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md)*
+    - [2021](../_/2021.md): *[The Lord of the Rings Online: Fate of Gundabad](../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md)*
+    - [2022](../_/2022.md): *[The Lord of the Rings Online: Before the Shadow](../T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md)*
 
 ## External links {#External_links}
 
@@ -35,6 +34,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Bree Royce (20 December 2016)</span>. <span class="cite-web-article"><a class="external text" href="http://massivelyop.com/2016/12/19/turbine-spins-lotro-and-ddo-teams-out-to-new-studio-using-daybreak-as-publisher/" rel="noreferrer noopener" target="_blank">&#34;Turbine Spins <i>Lord of the Rings Online</i> and DDO Teams Out to New Studio, Using Daybreak As Publisher&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://massivelyop.com/" rel="noreferrer noopener" target="_blank">Massivelyop</a></span>. <span class="cite-web-accessed">Retrieved 25 January 2022</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Bree Royce (20 December 2016)</span>. <span class="cite-web-article"><a class="external text" href="http://massivelyop.com/2016/12/19/turbine-spins-lotro-and-ddo-teams-out-to-new-studio-using-daybreak-as-publisher/" rel="noreferrer noopener" target="_blank">&#34;Turbine Spins <i>Lord of the Rings Online</i> and DDO Teams Out to New Studio, Using Daybreak As Publisher&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://massivelyop.com/" rel="noreferrer noopener" target="_blank">Massivelyop</a></span>. <span class="cite-web-accessed">Retrieved 25 January 2022</span></cite></span>
 </li>
 </ol></div>

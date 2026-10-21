@@ -1,6 +1,5 @@
 ---
 title: "Beyond Bree (calendar)"
-display_title: "<span class=\"mw-page-title-main\">Beyond Bree (calendar)</span>"
 page_id: 66979
 namespace: 0
 revision_id: 440425
@@ -15,4 +14,4 @@ sort_keys:
   "Beyond Bree (calendar)": "*"
 ---
 
-**Beyond Bree** was a calendar produced by the [American Mensa Tolkien Special Interest Group](/wiki/American_Mensa_Tolkien_Special_Interest_Group) between [1985](/wiki/1985) and [1994](/wiki/1994), with only [1990](/wiki/1990) and [1993](/wiki/1993) being exceptions; printing resumed in [2010](/wiki/2010). Early issues were variously edited by [Carl F. Hostetter](/wiki/Carl_F._Hostetter), [Nancy Martsch](/wiki/Nancy_Martsch), and <a class="new" href="/w/index.php?title=Steve_Deyo&amp;action=edit&amp;redlink=1" title="Steve Deyo (page does not exist)">Steve Deyo</a>, while the issues stemming from the recent revival of the series has been edited exclusively by Daniel Smith.
+**Beyond Bree** was a calendar produced by the [American Mensa Tolkien Special Interest Group](../A/American_Mensa_Tolkien_Special_Interest_Group.md) between [1985](../_/1985.md) and [1994](../_/1994.md), with only [1990](../_/1990.md) and [1993](../_/1993.md) being exceptions; printing resumed in [2010](../_/2010.md). Early issues were variously edited by [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Nancy Martsch](../N/Nancy_Martsch.md), and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Steve_Deyo&amp;action=edit&amp;redlink=1" title="Steve Deyo (page does not exist)">Steve Deyo</a>, while the issues stemming from the recent revival of the series has been edited exclusively by Daniel Smith.

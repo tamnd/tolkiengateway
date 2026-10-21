@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Tolman Cotton Junior.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Tolman Cotton Junior.jpg</span>"
 page_id: 30490
 namespace: 6
 revision_id: 224959
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tom Cotton](/wiki/Tolman_Cotton_Junior "Tolman Cotton Junior"), deputy mayor.
+[Tom Cotton](../../main/T/Tolman_Cotton_Junior.md), deputy mayor.
 
 ## Licensing {#Licensing}
 

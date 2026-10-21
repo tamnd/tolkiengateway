@@ -1,6 +1,5 @@
 ---
 title: "The One Ring Celebration"
-display_title: "<span class=\"mw-page-title-main\">The One Ring Celebration</span>"
 page_id: 5525
 namespace: 0
 revision_id: 431049
@@ -18,7 +17,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/The_One_Ring_Celebration"
 ---
 
-**The One Ring Celebration** or **ORC** was an annual event hosted from 2005 to 2007 by <a class="external text" href="http://www.theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a> and <a class="external text" href="http://www.creationent.com/" rel="noreferrer noopener" target="_blank">Creation Entertainment</a>. The first convention was held on January 14–16, [2005](/wiki/2005), the second on January 20–22, [2006](/wiki/2006), and the third on March 9–11, [2007](/wiki/2007).
+**The One Ring Celebration** or **ORC** was an annual event hosted from 2005 to 2007 by <a class="external text" href="http://www.theonering.net" rel="noreferrer noopener" target="_blank">TheOneRing.net</a> and <a class="external text" href="http://www.creationent.com/" rel="noreferrer noopener" target="_blank">Creation Entertainment</a>. The first convention was held on January 14–16, [2005](../_/2005.md), the second on January 20–22, [2006](../_/2006.md), and the third on March 9–11, [2007](../_/2007.md).
 
 ## External links {#External_links}
 

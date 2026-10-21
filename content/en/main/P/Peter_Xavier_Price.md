@@ -1,6 +1,5 @@
 ---
 title: "Peter Xavier Price"
-display_title: "<span class=\"mw-page-title-main\">Peter Xavier Price</span>"
 page_id: 9189
 namespace: 0
 revision_id: 406975
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Price, Peter Xavier"
 ---
 
-**Peter Xavier Price** (born 1985) is a British artist and creator of artwork inspired by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [legendarium](/wiki/Legendarium "Legendarium"), particularly [The Silmarillion](/wiki/The_Silmarillion) and [The Lord of the Rings](/wiki/The_Lord_of_the_Rings). He also paints landscapes from the English countryside.
+**Peter Xavier Price** (born 1985) is a British artist and creator of artwork inspired by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s [legendarium](../L/Legendarium.md), particularly [The Silmarillion](../T/The_Silmarillion.md) and [The Lord of the Rings](../T/The_Lord_of_the_Rings.md). He also paints landscapes from the English countryside.
 
 Alongside illustration, Price is an academic historian who studied at the University of Sussex, UK, from where he holds a doctorate in Intellectual History. He specialises in the history of social, political, religious and economic thought.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Images by Peter Xavier Price](/wiki/Category:Images_by_Peter_Xavier_Price "Category:Images by Peter Xavier Price")
+- [Images by Peter Xavier Price](../../category/I/Images_by_Peter_Xavier_Price.md)
 
 ## External links {#External_links}
 
@@ -37,6 +36,6 @@ Alongside illustration, Price is an academic historian who studied at the Univer
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://en.wikipedia.org/wiki/Peter_Xavier_Price" rel="noreferrer noopener" target="_blank">&#34;Peter Xavier Price&#34;</a></span>. <span class="cite-web-website">Wikipedia</span>. <span class="cite-web-accessed">Retrieved 6 October 2022</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://en.wikipedia.org/wiki/Peter_Xavier_Price" rel="noreferrer noopener" target="_blank">&#34;Peter Xavier Price&#34;</a></span>. <span class="cite-web-website">Wikipedia</span>. <span class="cite-web-accessed">Retrieved 6 October 2022</span></cite></span>
 </li>
 </ol></div>

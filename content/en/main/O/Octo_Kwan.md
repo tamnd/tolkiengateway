@@ -1,6 +1,5 @@
 ---
 title: "Octo Kwan"
-display_title: "<span class=\"mw-page-title-main\">Octo Kwan</span>"
 page_id: 10741
 namespace: 0
 revision_id: 116606
@@ -21,4 +20,4 @@ sort_keys:
   "People by name": "Kwan, Octo"
 ---
 
-**Choi Tuk "Octo" Kwan** is an amateur artist and translator in Hong Kong, who has created several [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired artworks.
+**Choi Tuk "Octo" Kwan** is an amateur artist and translator in Hong Kong, who has created several [Tolkien](../J/J.R.R._Tolkien.md)-inspired artworks.

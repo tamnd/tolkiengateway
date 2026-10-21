@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hûr"
 ---
 
-Redirect to [Hûr](/wiki/Hûr).
+Redirect to [Hûr](Hûr.md).

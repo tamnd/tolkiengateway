@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lhammas"
 ---
 
-Redirect to [The Lhammas](/wiki/The_Lhammas).
+Redirect to [The Lhammas](../T/The_Lhammas.md).

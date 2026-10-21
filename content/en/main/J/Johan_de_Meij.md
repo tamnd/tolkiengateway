@@ -1,6 +1,5 @@
 ---
 title: "Johan de Meij"
-display_title: "<span class=\"mw-page-title-main\">Johan de Meij</span>"
 page_id: 18624
 namespace: 0
 revision_id: 439428
@@ -21,20 +20,20 @@ sort_keys:
   "Classical music": "Meij, Johan de"
 ---
 
-**Johan de Meij** is a Dutch conductor, composer, and trombonist well known within the [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") community for his "Symphony No. 1", "The Lord of the Rings". In 2018 he premiered his new Tolkien-related symphony "Symphony No. 5", commissioned by The Middle Earth Commissioning Project.
+**Johan de Meij** is a Dutch conductor, composer, and trombonist well known within the [Tolkien](J.R.R._Tolkien.md) community for his "Symphony No. 1", "The Lord of the Rings". In 2018 he premiered his new Tolkien-related symphony "Symphony No. 5", commissioned by The Middle Earth Commissioning Project.
 
 De Meij nowadays lives in the NYC metro area and regularly visits Amsterdam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> He is still active as a conductor, including his own work worldwide.
 
 ## Tolkien-related works {#Tolkien-related_works}
 
-- [1984](/wiki/1984)-[1988](/wiki/1988) [Symphony No. 1 "The Lord of the Rings"](/wiki/Symphony_No._1_%22The_Lord_of_the_Rings%22)
+- [1984](../_/1984.md)-[1988](../_/1988.md) [Symphony No. 1 "The Lord of the Rings"](../S/Symphony_No._1_%2522The_Lord_of_the_Rings%2522.md)
     1. Gandalf
     2. Lothlórien
     3. Gollum
     4. Journey in the Dark<br>a. The Mines of Moria<br>b. The Bridge of Khazad-Dûm
     5. Hobbits
 
-- [2018](/wiki/2018) <a class="new" href="/w/index.php?title=Symphony_No._5_%22Return_to_Middle-earth%22&amp;action=edit&amp;redlink=1" title="Symphony No. 5 &#34;Return to Middle-earth&#34; (page does not exist)">Symphony No. 5 &#34;Return to Middle-earth&#34;</a>
+- [2018](../_/2018.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Symphony_No._5_%22Return_to_Middle-earth%22&amp;action=edit&amp;redlink=1" title="Symphony No. 5 &#34;Return to Middle-earth&#34; (page does not exist)">Symphony No. 5 &#34;Return to Middle-earth&#34;</a>
     1. Miri na Fëanor (Jewels of Fëanor)
     2. Tinúviel (Nightingale)
     3. Ancalagon i-môr (Ancalagon, the Black)
@@ -43,8 +42,6 @@ De Meij nowadays lives in the NYC metro area and regularly visits Amsterdam.<sup
     6. Thuringwethil (Woman of Secret Shadow)
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

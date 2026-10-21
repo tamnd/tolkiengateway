@@ -1,6 +1,5 @@
 ---
 title: "File:The Starlit Jewel Songbook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Starlit Jewel Songbook.jpg</span>"
 page_id: 26147
 namespace: 6
 revision_id: 214443

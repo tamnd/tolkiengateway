@@ -1,6 +1,5 @@
 ---
 title: "Miniel"
-display_title: "<span class=\"mw-page-title-main\">Miniel</span>"
 page_id: 14197
 namespace: 0
 revision_id: 164339
@@ -16,14 +15,14 @@ sort_keys:
   "Vanyar": " "
 ---
 
-**Miniel** (pl. *Mínil*) ([S](/wiki/Sindarin "Sindarin"). 'First elf') is the name [Vanyar](/wiki/Vanyar) were called in [Beleriand](/wiki/Beleriand).
+**Miniel** (pl. *Mínil*) ([S](../S/Sindarin.md). 'First elf') is the name [Vanyar](../V/Vanyar.md) were called in [Beleriand](../B/Beleriand.md).
 
 ## Etymology {#Etymology}
 
-The word is composed of *[min](/wiki/Min "Min")* = "first" and *[el](/wiki/Edhel "Edhel")* = "elf"
+The word is composed of *[min](Min.md)* = "first" and *[el](../E/Edhel.md)* = "elf"
 
 ## References {#References}
 
 <ul><li class="mw-empty-elt"></li></ul>
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [Christopher Tolkien](/wiki/Christopher_Tolkien) (ed.), *[The War of the Jewels](/wiki/The_War_of_the_Jewels)*, "Part Four. [Quendi and Eldar](/wiki/Quendi_and_Eldar)", pgs. 363-364; 383.
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, "Part Four. [Quendi and Eldar](../Q/Quendi_and_Eldar.md)", pgs. 363-364; 383.

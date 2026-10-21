@@ -1,6 +1,5 @@
 ---
 title: "File:Kay Woollard - Valerie Sutton's It Always Rains on Washing Day.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kay Woollard - Valerie Sutton&#039;s It Always Rains on Washing Day.jpg</span>"
 page_id: 64010
 namespace: 6
 revision_id: 366072
@@ -25,13 +24,13 @@ file:
 
 ## Summary {#Summary}
 
-*It always rains on washing day - Smial in South Farthing* by [Kay Woollard](/wiki/Kay_Woollard). Property of Valerie Sutton.
+*It always rains on washing day - Smial in South Farthing* by [Kay Woollard](../../main/K/Kay_Woollard.md). Property of Valerie Sutton.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:#FFD8D7;border:2px solid #BFA9A8;padding:0px 10px 0px 10px;font-size:100%;text-align:left;">
-<p>This work is copyrighted by <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a> and owned by Valerie Sutton. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted by <a href="../../main/D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a> and owned by Valerie Sutton. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a></li>
+<ul><li><b>Name:</b> <a href="../../main/D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Denis_Bridoux" title="Tolkien Gateway:Copyrights/Denis Bridoux">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDenis_Bridoux.md" title="Tolkien Gateway:Copyrights/Denis Bridoux">Permission for use on Tolkien Gateway</a></b></li></ul></div>

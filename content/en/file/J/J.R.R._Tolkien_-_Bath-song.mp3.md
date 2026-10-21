@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bath-song.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bath-song.mp3</span>"
 page_id: 71039
 namespace: 6
 revision_id: 424289
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out the [Bath Song](/wiki/Bath-songs "Bath-songs")
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out the [Bath Song](../../main/B/Bath-songs.md)
 
 ## Licensing {#Licensing}
 

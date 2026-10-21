@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lighting of the Beacons (soundtrack)"
 ---
 
-Redirect to [The Lighting of the Beacons (soundtrack)](/wiki/The_Lighting_of_the_Beacons_(soundtrack)).
+Redirect to [The Lighting of the Beacons (soundtrack)](<The_Lighting_of_the_Beacons_(soundtrack).md>).

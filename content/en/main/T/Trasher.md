@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bofur"
 ---
 
-Redirect to [Bofur](/wiki/Bofur).
+Redirect to [Bofur](../B/Bofur.md).

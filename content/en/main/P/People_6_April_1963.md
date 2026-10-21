@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to \"My Dear People\""
 ---
 
-Redirect to [Letter to "My Dear People"](/wiki/Letter_to_"My_Dear_People").
+Redirect to [Letter to "My Dear People"](../L/Letter_to_%2522My_Dear_People%2522.md).

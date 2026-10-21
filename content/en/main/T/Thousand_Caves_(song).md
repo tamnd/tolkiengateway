@@ -13,7 +13,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Thousand Caves</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore) about [Menegroth](/wiki/Menegroth). It appears in their third full-length album, [Third Age of the Sun](/wiki/Third_Age_of_the_Sun).
+<i><b>Thousand Caves</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md) about [Menegroth](../M/Menegroth.md). It appears in their third full-length album, [Third Age of the Sun](Third_Age_of_the_Sun.md).
 
 ## Lyrics {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tree of Tales"
 ---
 
-Redirect to [Tree of Tales](/wiki/Tree_of_Tales).
+Redirect to [Tree of Tales](Tree_of_Tales.md).

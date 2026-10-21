@@ -1,6 +1,5 @@
 ---
 title: "Victor Raider-Wexler"
-display_title: "<span class=\"mw-page-title-main\">Victor Raider-Wexler</span>"
 page_id: 22828
 namespace: 0
 revision_id: 222223
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Raider-Wexler, Victor"
 ---
 
-**Victor Raider-Wexler** ([December 31](/wiki/31_December "31 December"), [1943](/wiki/1943)) is an American actor.
+**Victor Raider-Wexler** ([December 31](../_/31_December.md), [1943](../_/1943.md)) is an American actor.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
-- [2003](/wiki/2003): [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)"): Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
+- [2003](../_/2003.md): [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>): Additional voices
 
 ## External links {#External_links}
 

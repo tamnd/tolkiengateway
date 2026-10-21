@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - The Eaves of the Choil Borba (Angus McBride).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - The Eaves of the Choil Borba (Angus McBride).png</span>"
 page_id: 33739
 namespace: 6
 revision_id: 204800
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*The Eaves of the Choil Borba* by [Angus McBride](/wiki/Angus_McBride), appearing in Jeff McKeage, *[Woses of the Black Wood](/wiki/Woses_of_the_Black_Wood)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #8107, 1987) .
+*The Eaves of the Choil Borba* by [Angus McBride](../../main/A/Angus_McBride.md), appearing in Jeff McKeage, *[Woses of the Black Wood](../../main/W/Woses_of_the_Black_Wood.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8107, 1987) .
 
 ## Licensing {#Licensing}
 

@@ -15,7 +15,7 @@ sort_keys:
   "Silver Leaves": "02"
 ---
 
-<b><i>Silver Leaves</i> 2</b> ("[The Inklings](/wiki/The_Inklings)") is the second issue of *[Silver Leaves](/wiki/Silver_Leaves)*, the journal of [The White Tree Fund](/wiki/The_White_Tree_Fund), published [2008](/wiki/2008).
+<b><i>Silver Leaves</i> 2</b> ("[The Inklings](../T/The_Inklings.md)") is the second issue of *[Silver Leaves](Silver_Leaves.md)*, the journal of [The White Tree Fund](../T/The_White_Tree_Fund.md), published [2008](../_/2008.md).
 
 ## Contents {#Contents}
 
@@ -31,11 +31,11 @@ sort_keys:
 - Kathryn E. Darden: "The Fellowship of J.R.R. Tolkien"
 - N.C. Graham: "The Woods Still Whisper"
 - Laura Hwee and Charity Yang: "Wellinghall Smial Update"
-- [Brian Sibley](/wiki/Brian_Sibley): "More Than Just the Margins : An appreciation of Pauline Baynes (1922 - 2008)"
+- [Brian Sibley](../B/Brian_Sibley.md): "More Than Just the Margins : An appreciation of Pauline Baynes (1922 - 2008)"
 - P.R. Miller: "For the Inklings"
 - Kerri-Anne Cundill: "Stepping into J.R.R. Tolkien's World"
 - Alexa Chipman: "Lord David Cecil: The Forgotten Inkling"
-- [Colin Duriez](/wiki/Colin_Duriez): "Devilry and Images of Evil in Tolkien"
+- [Colin Duriez](../C/Colin_Duriez.md): "Devilry and Images of Evil in Tolkien"
 - Daniel Timmons: "The Virtues of Fellowship"
 - Stéphanie Bourquard: "The Role of Judicial Activism in the Development of Principles in International Law of Human Rights: the Case of Article 3 of the European Convention on Human Rights"
 - Martha Kosyfi: "Breeze"
@@ -51,13 +51,13 @@ sort_keys:
 - Kelsey Kline: "Bad Adaption, Good Movie - on the whole, and taking one thing with another"
 - N.C. Graham: "You Must Lay Aside Your Inner Purist"
 - Rachel Gamber: "Prince Caspian Review"
-- Art by Coralie Allan, Alexa Chipman, Gerda Marz and [Jef Murray](/wiki/Jef_Murray)
+- Art by Coralie Allan, Alexa Chipman, Gerda Marz and [Jef Murray](../J/Jef_Murray.md)
 
 ## See also {#See_also}
 
-- *[Silver Leaves](/wiki/Silver_Leaves)*
-- [List of *Silver Leaves* issues](/wiki/Category:Silver_Leaves "Category:Silver Leaves")
-- [The White Tree Fund](/wiki/The_White_Tree_Fund)
+- *[Silver Leaves](Silver_Leaves.md)*
+- [List of *Silver Leaves* issues](../../category/S/Silver_Leaves.md)
+- [The White Tree Fund](../T/The_White_Tree_Fund.md)
 
 ## External links {#External_links}
 

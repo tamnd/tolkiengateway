@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kes-"
 ---
 
-Redirect to [Kes-](/wiki/Kes-).
+Redirect to [Kes-](Kes-.md).

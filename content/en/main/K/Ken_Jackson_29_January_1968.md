@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ken Jackson (29 January 1968)"
 ---
 
-Redirect to [Letter to Ken Jackson (29 January 1968)](/wiki/Letter_to_Ken_Jackson_(29_January_1968)).
+Redirect to [Letter to Ken Jackson (29 January 1968)](<../L/Letter_to_Ken_Jackson_(29_January_1968).md>).

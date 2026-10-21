@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "I Vene Kemen"
 ---
 
-Redirect to [I Vene Kemen](/wiki/I_Vene_Kemen).
+Redirect to [I Vene Kemen](../I/I_Vene_Kemen.md).

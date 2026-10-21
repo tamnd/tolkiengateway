@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rupert Dolbear"
 ---
 
-Redirect to [Rupert Dolbear](/wiki/Rupert_Dolbear).
+Redirect to [Rupert Dolbear](Rupert_Dolbear.md).

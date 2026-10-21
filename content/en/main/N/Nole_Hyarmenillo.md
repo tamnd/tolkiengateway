@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nólë Hyarmenillo"
 ---
 
-Redirect to [Nólë Hyarmenillo](/wiki/Nólë_Hyarmenillo).
+Redirect to [Nólë Hyarmenillo](Nólë_Hyarmenillo.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peter S. Beagle"
 ---
 
-Redirect to [Peter S. Beagle](/wiki/Peter_S._Beagle).
+Redirect to [Peter S. Beagle](Peter_S._Beagle.md).

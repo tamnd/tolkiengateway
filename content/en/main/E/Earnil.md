@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärnil (disambiguation)"
 ---
 
-Redirect to [Eärnil (disambiguation)](/wiki/Eärnil_(disambiguation)).
+Redirect to [Eärnil (disambiguation)](<Eärnil_(disambiguation).md>).

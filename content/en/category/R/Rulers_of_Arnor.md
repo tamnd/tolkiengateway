@@ -1,6 +1,5 @@
 ---
 title: "Category:Rulers of Arnor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rulers of Arnor</span>"
 page_id: 1280
 namespace: 14
 revision_id: 337349
@@ -17,6 +16,6 @@ categories:
 
 This category contains articles on the Rulers of Arnor:
 
-1\. [Elendil](/wiki/Elendil)<br> 2. [Isildur](/wiki/Isildur)<br> 3. [Valandil](</wiki/Valandil_(King_of_Arnor)> "Valandil (King of Arnor)")<br> 4. [Eldacar](</wiki/Eldacar_(King_of_Arnor)> "Eldacar (King of Arnor)")<br> 5. [Arantar](/wiki/Arantar)<br> 6. [Tarcil](/wiki/Tarcil)<br> 7. [Tarondor](</wiki/Tarondor_(King_of_Arnor)> "Tarondor (King of Arnor)")<br> 8. [Valandur](/wiki/Valandur)<br> 9. [Elendur](</wiki/Elendur_(King_of_Arnor)> "Elendur (King of Arnor)")<br> 10. [Eärendur](</wiki/E%C3%A4rendur_(King_of_Arnor)> "Eärendur (King of Arnor)")<br>
+1\. [Elendil](../../main/E/Elendil.md)<br> 2. [Isildur](../../main/I/Isildur.md)<br> 3. [Valandil](<../../main/V/Valandil_(King_of_Arnor).md>)<br> 4. [Eldacar](<../../main/E/Eldacar_(King_of_Arnor).md>)<br> 5. [Arantar](../../main/A/Arantar.md)<br> 6. [Tarcil](../../main/T/Tarcil.md)<br> 7. [Tarondor](<../../main/T/Tarondor_(King_of_Arnor).md>)<br> 8. [Valandur](../../main/V/Valandur.md)<br> 9. [Elendur](<../../main/E/Elendur_(King_of_Arnor).md>)<br> 10. [Eärendur](<../../main/E/Eärendur_(King_of_Arnor).md>)<br>
 
-After Eärendur the [North-kingdom](/wiki/Arnor "Arnor") was divided in three parts, [Arthedain](/wiki/Arthedain), [Rhudaur](/wiki/Rhudaur) and [Cardolan](/wiki/Cardolan). Only the [Rulers of Arthedain](/wiki/Rulers_of_Arthedain) and later the [Chieftains of the Dúnedain](/wiki/Chieftains_of_the_D%C3%BAnedain) maintained the line of Isildur.
+After Eärendur the [North-kingdom](../../main/A/Arnor.md) was divided in three parts, [Arthedain](../../main/A/Arthedain.md), [Rhudaur](../../main/R/Rhudaur.md) and [Cardolan](../../main/C/Cardolan.md). Only the [Rulers of Arthedain](../../main/R/Rulers_of_Arthedain.md) and later the [Chieftains of the Dúnedain](../../main/C/Chieftains_of_the_Dúnedain.md) maintained the line of Isildur.

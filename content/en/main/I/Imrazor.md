@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imrazôr"
 ---
 
-Redirect to [Imrazôr](/wiki/Imrazôr).
+Redirect to [Imrazôr](Imrazôr.md).

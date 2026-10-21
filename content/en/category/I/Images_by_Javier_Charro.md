@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Javier Charro"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Javier Charro</span>"
 page_id: 72791
 namespace: 14
 revision_id: 431435
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Charro, Javier"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Javier_Charro&amp;action=edit&amp;redlink=1" title="Javier Charro (page does not exist)">Javier Charro</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Javier_Charro&amp;action=edit&amp;redlink=1" title="Javier Charro (page does not exist)">Javier Charro</a></b>.

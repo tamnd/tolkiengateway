@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Friends & Foes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Friends &amp; Foes.jpg</span>"
 page_id: 73214
 namespace: 6
 revision_id: 433272

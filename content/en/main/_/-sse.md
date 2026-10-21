@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ssë"
 ---
 
-Redirect to [-ssë](/wiki/-ssë).
+Redirect to [-ssë](-ssë.md).

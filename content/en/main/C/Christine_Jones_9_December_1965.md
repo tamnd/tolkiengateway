@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Christine Jones"
 ---
 
-Redirect to [Letter to Christine Jones](/wiki/Letter_to_Christine_Jones).
+Redirect to [Letter to Christine Jones](../L/Letter_to_Christine_Jones.md).

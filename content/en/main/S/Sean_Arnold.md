@@ -1,6 +1,5 @@
 ---
 title: "Sean Arnold"
-display_title: "<span class=\"mw-page-title-main\">Sean Arnold</span>"
 page_id: 22597
 namespace: 0
 revision_id: 389721
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Arnold, Sean"
 ---
 
-**Sean Arnold** ([April 30](/wiki/30_April "30 April"), [1941](/wiki/1941)- [April 15](/wiki/15_April "15 April"), [2020](/wiki/2020)) was an English actor. His best known role was that of Chief Inspector Barney Crozier in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Bergerac_(TV_series)" title="wikipedia:Bergerac (TV series)">Bergerac</a></i>. In [*The Lord of the Rings* (1981 radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"), he played the part of [Odo Proudfoot](/wiki/Odo_Proudfoot).
+**Sean Arnold** ([April 30](../_/30_April.md), [1941](../_/1941.md)- [April 15](../_/15_April.md), [2020](../_/2020.md)) was an English actor. His best known role was that of Chief Inspector Barney Crozier in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Bergerac_(TV_series)" title="wikipedia:Bergerac (TV series)">Bergerac</a></i>. In [*The Lord of the Rings* (1981 radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>), he played the part of [Odo Proudfoot](../O/Odo_Proudfoot.md).
 
 ## External links {#External_links}
 

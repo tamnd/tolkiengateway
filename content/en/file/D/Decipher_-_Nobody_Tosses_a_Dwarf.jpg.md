@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Nobody Tosses a Dwarf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Nobody Tosses a Dwarf.jpg</span>"
 page_id: 22574
 namespace: 6
 revision_id: 211682

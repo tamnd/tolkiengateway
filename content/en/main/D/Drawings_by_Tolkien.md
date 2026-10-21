@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drawings by Tolkien (disambiguation)"
 ---
 
-Redirect to [Drawings by Tolkien (disambiguation)](/wiki/Drawings_by_Tolkien_(disambiguation)).
+Redirect to [Drawings by Tolkien (disambiguation)](<Drawings_by_Tolkien_(disambiguation).md>).

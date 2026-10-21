@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Ballantine Books paperback 1965.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Ballantine Books paperback 1965.png</span>"
 page_id: 65064
 namespace: 6
 revision_id: 374602
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-First authored paperback edition by [Ballantine Books](/wiki/Ballantine_Books) published in [1965](/wiki/1965).
+First authored paperback edition by [Ballantine Books](../../main/B/Ballantine_Books.md) published in [1965](../../main/_/1965.md).
 
 ## Licensing {#Licensing}
 

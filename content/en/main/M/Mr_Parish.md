@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mr. Parish"
 ---
 
-Redirect to [Mr. Parish](/wiki/Mr._Parish).
+Redirect to [Mr. Parish](Mr._Parish.md).

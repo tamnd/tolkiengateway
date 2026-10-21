@@ -1,6 +1,5 @@
 ---
 title: "File:Joe Hickman - Durin's Bane.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joe Hickman - Durin&#039;s Bane.jpg</span>"
 page_id: 68954
 namespace: 6
 revision_id: 411279
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Joe Hickman</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/joehickman" rel="noreferrer noopener" target="_blank">Joe Hickman on ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joe_Hickman" title="Tolkien Gateway:Copyrights/Joe Hickman">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoe_Hickman.md" title="Tolkien Gateway:Copyrights/Joe Hickman">Permission for use on Tolkien Gateway</a></b></li></ul></div>

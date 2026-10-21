@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hillmen of the Trollshaws"
 ---
 
-Redirect to [Hillmen of the Trollshaws](/wiki/Hillmen_of_the_Trollshaws).
+Redirect to [Hillmen of the Trollshaws](../H/Hillmen_of_the_Trollshaws.md).

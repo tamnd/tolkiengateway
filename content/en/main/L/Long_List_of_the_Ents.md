@@ -1,6 +1,5 @@
 ---
 title: "Long List of the Ents"
-display_title: "<span class=\"mw-page-title-main\">Long List of the Ents</span>"
 page_id: 49777
 namespace: 0
 revision_id: 406193
@@ -15,13 +14,13 @@ images:
   - "Alan_Lee_-_Treebeard_2.jpg"
 ---
 
-The **Long List of the Ents**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> was a song of lore known to the [Ents](/wiki/Ents) that listed every living creature known to them. It is a poem-list spoken by [Treebeard](/wiki/Treebeard) on [29 February](/wiki/29_February) [T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019"),<sup id="cite_ref-Great_2-0" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> to [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") and [Pippin](/wiki/Peregrin_Took "Peregrin Took").
+The **Long List of the Ents**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> was a song of lore known to the [Ents](../E/Ents.md) that listed every living creature known to them. It is a poem-list spoken by [Treebeard](../T/Treebeard.md) on [29 February](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-Great_2-0" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> to [Merry](../M/Meriadoc_Brandybuck.md) and [Pippin](../P/Peregrin_Took.md).
 
 The list must be very ancient, as Treebeard stated that he had learned it whilst he was still young. It is potentially much longer than what is recited here.
 
 ## Poem {#Poem}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Alan_Lee_-_Treebeard_2.jpg"><img src="/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/200px-Alan_Lee_-_Treebeard_2.jpg" decoding="async" loading="lazy" width="200" height="273" class="mw-file-element" srcset="/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/300px-Alan_Lee_-_Treebeard_2.jpg 1.5x, /w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/400px-Alan_Lee_-_Treebeard_2.jpg 2x" data-file-width="1172" data-file-height="1600"/></a><figcaption>&#34;Treebeard&#34; by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Treebeard_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/200px-Alan_Lee_-_Treebeard_2.jpg" decoding="async" loading="lazy" width="200" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/300px-Alan_Lee_-_Treebeard_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Alan_Lee_-_Treebeard_2.jpg/400px-Alan_Lee_-_Treebeard_2.jpg 2x" data-file-width="1172" data-file-height="1600"/></a><figcaption>&#34;Treebeard&#34; by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Learn now the lore of Living Creatures!<br/>
@@ -41,7 +40,7 @@ Swan the whitest, serpent coldest...
 </p>
 </div>
 
-Pippin suggested adding Hobbits on a new line; *Half-grown hobbits, the hole-dwellers* and that it should go next to [Man](/wiki/Men "Men"), to which Treebeard thought the suggestion was *"Not bad, not bad"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> After the parley with [Saruman](/wiki/Saruman) at [Isengard](/wiki/Isengard) on [5 March](/wiki/5_March),<sup id="cite_ref-Great_2-1" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> Treebeard revealed that he had indeed added Hobbits to the Long List:
+Pippin suggested adding Hobbits on a new line; *Half-grown hobbits, the hole-dwellers* and that it should go next to [Man](../M/Men.md), to which Treebeard thought the suggestion was *"Not bad, not bad"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> After the parley with [Saruman](../S/Saruman.md) at [Isengard](../I/Isengard.md) on [5 March](../_/5_March.md),<sup id="cite_ref-Great_2-1" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> Treebeard revealed that he had indeed added Hobbits to the Long List:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Ents the earthborn, old as mountains,<br/>
@@ -53,19 +52,19 @@ the laughing-folk, the little people,<sup id="cite_ref-4" class="reference"><a h
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Lord_of_the_Rings_Index" title="The Lord of the Rings Index">Index: I. Poems and Songs</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Lord_of_the_Rings_Index.md" title="The Lord of the Rings Index">Index: I. Poems and Songs</a>&#34;</span>
 </li>
-<li id="cite_note-Great-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Great_2-0">2.0</a></sup> <sup><a href="#cite_ref-Great_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
+<li id="cite_note-Great-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Great_2-0">2.0</a></sup> <sup><a href="#cite_ref-Great_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/Treebeard_(chapter)" title="Treebeard (chapter)">Treebeard</a>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/Treebeard_(chapter).md" title="Treebeard (chapter)">Treebeard</a>&#34;</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/The_Voice_of_Saruman" title="The Voice of Saruman">The Voice of Saruman</a>&#34;</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Voice_of_Saruman.md" title="The Voice of Saruman">The Voice of Saruman</a>&#34;</span>
 </li>
 </ol></div>

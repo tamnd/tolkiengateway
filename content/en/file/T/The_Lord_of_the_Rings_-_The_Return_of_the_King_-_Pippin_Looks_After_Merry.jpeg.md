@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Pippin Looks After Merry.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Pippin Looks After Merry.jpeg</span>"
 page_id: 66471
 namespace: 6
 revision_id: 385028

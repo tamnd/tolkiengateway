@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Brothers Hildebrandt - The One Ring.jpg"
 ---
 
-Redirect to [File:The Brothers Hildebrandt - The One Ring.jpg](/wiki/File:The_Brothers_Hildebrandt_-_The_One_Ring.jpg).
+Redirect to [File:The Brothers Hildebrandt - The One Ring.jpg](The_Brothers_Hildebrandt_-_The_One_Ring.jpg.md).

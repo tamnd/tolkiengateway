@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Olórin (Gandalf) - in Valinor & in Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Olórin (Gandalf) - in Valinor &amp; in Middle-earth.png</span>"
 page_id: 52259
 namespace: 6
 revision_id: 284887
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Olórin](/wiki/Gandalf "Gandalf") as a [Maia](/wiki/Maiar "Maiar") of [Manwë](/wiki/Manw%C3%AB) in [Valinor](/wiki/Valinor) and as an [Istar](/wiki/Istar) in Middle-earth.
+[Olórin](../../main/G/Gandalf.md) as a [Maia](../../main/M/Maiar.md) of [Manwë](../../main/M/Manwë.md) in [Valinor](../../main/V/Valinor.md) and as an [Istar](../../main/I/Istar.md) in Middle-earth.
 
 In Phobs's art, the Maiar often share a trait with the nature of the Vala they serve, such as wings for Manwë's Maiar.
 
@@ -38,4 +37,4 @@ In Phobs's art, the Maiar often share a trait with the nature of the Vala they s
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

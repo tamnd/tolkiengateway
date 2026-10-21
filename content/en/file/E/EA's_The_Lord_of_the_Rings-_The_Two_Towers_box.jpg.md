@@ -1,6 +1,5 @@
 ---
 title: "File:EA's The Lord of the Rings- The Two Towers box.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">EA&#039;s The Lord of the Rings- The Two Towers box.jpg</span>"
 page_id: 20538
 namespace: 6
 revision_id: 248571
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-PS2 box art for [EA's The Two Towers](/wiki/EA%27s_The_Two_Towers) video game.
+PS2 box art for [EA's The Two Towers](../../main/E/EA's_The_Two_Towers.md) video game.
 
 ## Licensing {#Licensing}
 

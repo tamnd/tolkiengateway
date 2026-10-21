@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Susan Van Camp"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Susan Van Camp</span>"
 page_id: 31922
 namespace: 14
 revision_id: 431165
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Van Camp, Susan"
 ---
 
-This category lists all **images by [Susan Van Camp](/wiki/Susan_Van_Camp)**.
+This category lists all **images by [Susan Van Camp](../../main/S/Susan_Van_Camp.md)**.

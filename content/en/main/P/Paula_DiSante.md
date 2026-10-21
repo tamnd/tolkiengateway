@@ -1,6 +1,5 @@
 ---
 title: "Paula DiSante"
-display_title: "<span class=\"mw-page-title-main\">Paula DiSante</span>"
 page_id: 14927
 namespace: 0
 revision_id: 184024
@@ -19,10 +18,10 @@ sort_keys:
   "People by name": "DiSante, Paula"
 ---
 
-**Paula DiSante** is an American artist who has created numerous [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-inspired drawings.
+**Paula DiSante** is an American artist who has created numerous [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-inspired drawings.
 
-Under the pseudonym **Alex K. Aldridge** she was also the scriptwriter for the critically-acclaimed fan-film *[Born of Hope](/wiki/Born_of_Hope)*.
+Under the pseudonym **Alex K. Aldridge** she was also the scriptwriter for the critically-acclaimed fan-film *[Born of Hope](../B/Born_of_Hope.md)*.
 
 ## See also {#See_also}
 
-- [Images by Paula DiSante](/wiki/Category:Images_by_Paula_DiSante "Category:Images by Paula DiSante")
+- [Images by Paula DiSante](../../category/I/Images_by_Paula_DiSante.md)

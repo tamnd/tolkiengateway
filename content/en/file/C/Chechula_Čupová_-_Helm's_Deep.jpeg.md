@@ -1,6 +1,5 @@
 ---
 title: "File:Chechula Čupová - Helm's Deep.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chechula Čupová - Helm&#039;s Deep.jpeg</span>"
 page_id: 70469
 namespace: 6
 revision_id: 419996
@@ -38,4 +37,4 @@ Aragorn at the dawn, above the broken gate of the Helm's Deep, by Chechula Čupo
 </p>
 <ul><li><b>Name:</b> Chechula Čupová</li>
 <li><b>Website:</b> <a class="external free" href="https://www.patreon.com/chechula/about" rel="noreferrer noopener" target="_blank">https://www.patreon.com/chechula/about</a>?</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Chechula_%C4%8Cupov%C3%A1" title="Tolkien Gateway:Copyrights/Chechula Čupová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FChechula_Čupová.md" title="Tolkien Gateway:Copyrights/Chechula Čupová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

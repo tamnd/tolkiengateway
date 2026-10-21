@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lírë"
 ---
 
-Redirect to [Lírë](/wiki/Lírë).
+Redirect to [Lírë](Lírë.md).

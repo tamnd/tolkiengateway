@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karakse"
 ---
 
-Redirect to [Karakse](/wiki/Karakse).
+Redirect to [Karakse](../K/Karakse.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bridge of Khazad-dûm"
 ---
 
-Redirect to [Bridge of Khazad-dûm](/wiki/Bridge_of_Khazad-dûm).
+Redirect to [Bridge of Khazad-dûm](../B/Bridge_of_Khazad-dûm.md).

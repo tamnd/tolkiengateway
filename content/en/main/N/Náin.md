@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin (disambiguation)"
 ---
 
-Redirect to [Náin (disambiguation)](/wiki/Náin_(disambiguation)).
+Redirect to [Náin (disambiguation)](<Náin_(disambiguation).md>).

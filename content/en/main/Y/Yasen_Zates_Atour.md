@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yasen Atour"
 ---
 
-Redirect to [Yasen Atour](/wiki/Yasen_Atour).
+Redirect to [Yasen Atour](Yasen_Atour.md).

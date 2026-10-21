@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Farewell We Call to Hearth and Hall!.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Farewell We Call to Hearth and Hall!.mp3</span>"
 page_id: 71040
 namespace: 6
 revision_id: 424281
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out [Farewell We Call to Hearth and Hall!](/wiki/Farewell_We_Call_to_Hearth_and_Hall!)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out [Farewell We Call to Hearth and Hall!](../../main/F/Farewell_We_Call_to_Hearth_and_Hall!.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:NOLANOS - La Gracia de las Aguilas.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">NOLANOS - La Gracia de las Aguilas.jpg</span>"
 page_id: 51335
 namespace: 6
 revision_id: 277589
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> NOLANOS</li>
 <li><b>Website:</b> <a class="external text" href="http://nolanos.deviantart.com/" rel="noreferrer noopener" target="_blank">NOLANOS&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/NOLANOS" title="Tolkien Gateway:Copyrights/NOLANOS">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNOLANOS.md" title="Tolkien Gateway:Copyrights/NOLANOS">Permission for use on Tolkien Gateway</a></b></li></ul></div>

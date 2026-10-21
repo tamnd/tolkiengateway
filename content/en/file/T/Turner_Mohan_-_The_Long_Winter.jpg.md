@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Turner Mohan - Helm Hammerhand.jpg"
 ---
 
-Redirect to [File:Turner Mohan - Helm Hammerhand.jpg](/wiki/File:Turner_Mohan_-_Helm_Hammerhand.jpg).
+Redirect to [File:Turner Mohan - Helm Hammerhand.jpg](Turner_Mohan_-_Helm_Hammerhand.jpg.md).

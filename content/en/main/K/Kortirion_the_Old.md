@@ -11,4 +11,4 @@ redirect_target: "Kortirion"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Kortirion](/wiki/Kortirion#Other_versions_of_the_legendarium).
+Redirect to [Kortirion](Kortirion.md#Other_versions_of_the_legendarium).

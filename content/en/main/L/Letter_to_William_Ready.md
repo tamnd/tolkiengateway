@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to William Ready (5 March 1959)"
 ---
 
-Redirect to [Letter to William Ready (5 March 1959)](/wiki/Letter_to_William_Ready_(5_March_1959)).
+Redirect to [Letter to William Ready (5 March 1959)](<Letter_to_William_Ready_(5_March_1959).md>).

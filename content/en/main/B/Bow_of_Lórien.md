@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bow of the Galadhrim"
 ---
 
-Redirect to [Bow of the Galadhrim](/wiki/Bow_of_the_Galadhrim).
+Redirect to [Bow of the Galadhrim](Bow_of_the_Galadhrim.md).

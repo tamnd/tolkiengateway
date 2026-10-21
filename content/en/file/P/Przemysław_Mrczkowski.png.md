@@ -1,6 +1,5 @@
 ---
 title: "File:Przemysław Mrczkowski.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Przemysław Mrczkowski.png</span>"
 page_id: 68976
 namespace: 6
 revision_id: 420450
@@ -22,4 +21,4 @@ file:
   user: "MOONBOLT"
 ---
 
-A photograph of [Przemysław Mroczkowski](/wiki/Przemys%C5%82aw_Mroczkowski)
+A photograph of [Przemysław Mroczkowski](../../main/P/Przemysław_Mroczkowski.md)

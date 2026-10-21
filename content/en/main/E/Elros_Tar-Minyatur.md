@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elros"
 ---
 
-Redirect to [Elros](/wiki/Elros).
+Redirect to [Elros](Elros.md).

@@ -1,6 +1,5 @@
 ---
 title: "The Adventures of Frodo"
-display_title: "<span class=\"mw-page-title-main\">The Adventures of Frodo</span>"
 page_id: 61568
 namespace: 0
 revision_id: 347302
@@ -13,7 +12,7 @@ categories:
   - "Radio adaptations"
 ---
 
-**The Adventures of Frodo** is a selected reading by [Michael Hordern](/wiki/Michael_Hordern) from [The Lord of the Rings](/wiki/The_Lord_of_the_Rings) in two parts produced for [BBC School Radio](/wiki/BBC "BBC") and released on audio cassette in [1987](/wiki/1987).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Not much is known about the specifics of this audio recording other than the titles of the two parts.
+**The Adventures of Frodo** is a selected reading by [Michael Hordern](../M/Michael_Hordern.md) from [The Lord of the Rings](The_Lord_of_the_Rings.md) in two parts produced for [BBC School Radio](../B/BBC.md) and released on audio cassette in [1987](../_/1987.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Not much is known about the specifics of this audio recording other than the titles of the two parts.
 
 1. One Ring to Rule Them All
 2. An Enemy among the Friends
@@ -23,6 +22,6 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <i><a href="/wiki/J.R.R._Tolkien:_A_Descriptive_Bibliography" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a></i>, p. 138</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <i><a href="../J/J.R.R._Tolkien%253A_A_Descriptive_Bibliography.md" title="J.R.R. Tolkien: A Descriptive Bibliography">J.R.R. Tolkien: A Descriptive Bibliography</a></i>, p. 138</span>
 </li>
 </ol></div>

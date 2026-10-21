@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Nurn.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Nurn.JPG</span>"
 page_id: 73587
 namespace: 6
 revision_id: 439843
@@ -31,28 +30,26 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Shadow of Mordor - Nurn.JPG</span></th>
 <td class="description">
-<p>Appendices Lore image of <a href="/wiki/Nurn" title="Nurn">Nurn</a>
+<p>Appendices Lore image of <a href="../../main/N/Nurn.md" title="Nurn">Nurn</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2014" title="2014">2014</a></td>
+<td><a href="../../main/_/2014.md" title="2014">2014</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Video game art</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>George Rushing</td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/Middle-earth:_Shadow_of_Mordor" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i><br/><a class="external text" href="https://www.artstation.com/artwork/erA9D" rel="noreferrer noopener" target="_blank">ArtStation</a></td>
+<td><i><a href="../../main/M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Middle-earth: Shadow of Mordor</a></i><br/><a class="external text" href="https://www.artstation.com/artwork/erA9D" rel="noreferrer noopener" target="_blank">ArtStation</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

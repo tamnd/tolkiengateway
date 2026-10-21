@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings-The Return of the King-The Fall of Osgiliath Scene.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings-The Return of the King-The Fall of Osgiliath Scene.jpg</span>"
 page_id: 75011
 namespace: 6
 revision_id: 441694
@@ -44,8 +43,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>December 17, 2003</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Peter Jackson</td>
@@ -54,7 +51,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>The Lord of the Rings: The Return of the King</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

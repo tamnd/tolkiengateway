@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien- Romanticist and Poet.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien- Romanticist and Poet.jpg</span>"
 page_id: 54620
 namespace: 6
 revision_id: 388971
@@ -26,7 +25,7 @@ file:
   user: "Mith"
 ---
 
-Cover of *[J.R.R. Tolkien: Romanticist and Poet](/wiki/J.R.R._Tolkien:_Romanticist_and_Poet)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is "Tuor Looks Out Onto the Sea" by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[J.R.R. Tolkien: Romanticist and Poet](../../main/J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is "Tuor Looks Out Onto the Sea" by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

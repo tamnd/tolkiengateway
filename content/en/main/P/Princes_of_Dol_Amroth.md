@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prince of Dol Amroth"
 ---
 
-Redirect to [Prince of Dol Amroth](/wiki/Prince_of_Dol_Amroth).
+Redirect to [Prince of Dol Amroth](Prince_of_Dol_Amroth.md).

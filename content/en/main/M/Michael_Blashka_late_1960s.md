@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Michael Blashka"
 ---
 
-Redirect to [Letter to Michael Blashka](/wiki/Letter_to_Michael_Blashka).
+Redirect to [Letter to Michael Blashka](../L/Letter_to_Michael_Blashka.md).

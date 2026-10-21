@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg</span>"
 page_id: 5770
 namespace: 6
 revision_id: 434726
@@ -32,7 +31,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Halls of Manwe on the Mountains of the World above Faerie.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Taniquetil" title="Taniquetil">Taniquetil</a>, called also <a class="mw-redirect" href="/wiki/Oiolosse" title="Oiolosse">Oiolosse</a>:, <a href="/wiki/Amon_Uilos" title="Amon Uilos">Amon Uilos</a>, and <a class="mw-redirect" href="/wiki/Mount_Ever-white" title="Mount Ever-white">Mount Ever-white</a>, was the highest or the mountains that guarded <a href="/wiki/Valinor" title="Valinor">Valinor</a> and the highest mountain of <a href="/wiki/Arda" title="Arda">Arda</a>, &#34;upon whose summit Manwë set his throne&#34;. In the foreground is one of the white swan-ships of the <a href="/wiki/Telerin" title="Telerin">Telerin</a> <a href="/wiki/Elves" title="Elves">Elves</a> who dwelt on the coast of <a href="/wiki/Aman" title="Aman">Aman</a>. This illustration was published in <a href="/wiki/The_J.R.R._Tolkien_Calendar_1974_(UK)" title="The J.R.R. Tolkien Calendar 1974 (UK)">The J.R.R. Tolkien Calendar 1974 (UK)</a>, and again in <a href="/wiki/The_Silmarillion_Calendar_1978" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
+<p><a href="../../main/T/Taniquetil.md" title="Taniquetil">Taniquetil</a>, called also <a class="mw-redirect" href="../../main/O/Oiolosse.md" title="Oiolosse">Oiolosse</a>:, <a href="../../main/A/Amon_Uilos.md" title="Amon Uilos">Amon Uilos</a>, and <a class="mw-redirect" href="../../main/M/Mount_Ever-white.md" title="Mount Ever-white">Mount Ever-white</a>, was the highest or the mountains that guarded <a href="../../main/V/Valinor.md" title="Valinor">Valinor</a> and the highest mountain of <a href="../../main/A/Arda.md" title="Arda">Arda</a>, &#34;upon whose summit Manwë set his throne&#34;. In the foreground is one of the white swan-ships of the <a href="../../main/T/Telerin.md" title="Telerin">Telerin</a> <a href="../../main/E/Elves.md" title="Elves">Elves</a> who dwelt on the coast of <a href="../../main/A/Aman.md" title="Aman">Aman</a>. This illustration was published in <a href="../../main/T/The_J.R.R._Tolkien_Calendar_1974_(UK).md" title="The J.R.R. Tolkien Calendar 1974 (UK)">The J.R.R. Tolkien Calendar 1974 (UK)</a>, and again in <a href="../../main/T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
 </p>
 </td>
 </tr>
@@ -50,13 +49,12 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
+<td><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br> <span></span>
@@ -64,7 +62,7 @@ file:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/the-silmarillion" rel="noreferrer noopener" target="_blank">https://www.tolkienestate.com/painting/the-silmarillion</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 23 May 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/the-silmarillion" rel="noreferrer noopener" target="_blank">https://www.tolkienestate.com/painting/the-silmarillion</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 23 May 2024</span></cite></span>
 </li>
 </ol></div>
 

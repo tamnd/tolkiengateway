@@ -16,29 +16,29 @@ categories:
 
 ## Quenya {#Quenya}
 
-<i><b>calar</b></i> is a [Quenya](/wiki/Quenya) word meaning "lamp".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+<i><b>calar</b></i> is a [Quenya](../Q/Quenya.md) word meaning "lamp".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ### Etymology {#Etymology}
 
-- Root [KAL](/wiki/KAL)<sup id="cite_ref-VT47_1-1" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+- Root [KAL](../K/KAL.md)<sup id="cite_ref-VT47_1-1" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ### See also {#See_also}
 
-- Quenya *[calma](/wiki/Calma "Calma")*
+- Quenya *[calma](Calma.md)*
 
 ## Telerin {#Telerin}
 
-<i><b>calar</b></i> is a [Telerin](/wiki/Telerin) word meaning "lamp".<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+<i><b>calar</b></i> is a [Telerin](../T/Telerin.md) word meaning "lamp".<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ### Etymology {#Etymology_2}
 
-- Root [KAL](/wiki/KAL)<sup id="cite_ref-VT47_1-3" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+- Root [KAL](../K/KAL.md)<sup id="cite_ref-VT47_1-3" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-VT47-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT47_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT47_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT47_1-2">1.2</a></sup> <sup><a href="#cite_ref-VT47_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 13</span>
+<li id="cite_note-VT47-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT47_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT47_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT47_1-2">1.2</a></sup> <sup><a href="#cite_ref-VT47_1-3">1.3</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p. 13</span>
 </li>
 </ol></div>

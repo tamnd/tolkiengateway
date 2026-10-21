@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss J.L. Curry"
 ---
 
-Redirect to [Letter to Miss J.L. Curry](/wiki/Letter_to_Miss_J.L._Curry).
+Redirect to [Letter to Miss J.L. Curry](../L/Letter_to_Miss_J.L._Curry.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vidumavi"
 ---
 
-Redirect to [Vidumavi](/wiki/Vidumavi).
+Redirect to [Vidumavi](../V/Vidumavi.md).

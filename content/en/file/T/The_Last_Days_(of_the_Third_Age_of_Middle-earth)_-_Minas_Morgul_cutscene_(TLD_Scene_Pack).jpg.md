@@ -1,6 +1,5 @@
 ---
 title: "File:The Last Days (of the Third Age of Middle-earth) - Minas Morgul cutscene (TLD Scene Pack).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Last Days (of the Third Age of Middle-earth) - Minas Morgul cutscene (TLD Scene Pack).jpg</span>"
 page_id: 60181
 namespace: 6
 revision_id: 336993
@@ -27,9 +26,9 @@ file:
 
 ## Summary {#Summary}
 
-Screenshot of [Minas Morgul](/wiki/Minas_Morgul) from *[The Last Days (of the Third Age of Middle-earth)](</wiki/The_Last_Days_(of_the_Third_Age_of_Middle-earth)>)*, a <a class="extiw" href="http://en.wikipedia.org/wiki/Freeware" title="wikipedia:Freeware">freeware</a> [total-conversion mod](/wiki/Category:Modifications "Category:Modifications") for the games <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i>.
+Screenshot of [Minas Morgul](../../main/M/Minas_Morgul.md) from *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, a <a class="extiw" href="http://en.wikipedia.org/wiki/Freeware" title="wikipedia:Freeware">freeware</a> [total-conversion mod](../../category/M/Modifications.md) for the games <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a></i> and <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i>.
 
-This screenshot depicts the appearance of Minas Morgul in the current releases of the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i> version of the mod, if the player chooses to install the addon/submod *[In Vain's TLD Scene Pack](</wiki/The_Last_Days_(of_the_Third_Age_of_Middle-earth)#Sub-mods_and_further_addons> "The Last Days (of the Third Age of Middle-earth)")*.
+This screenshot depicts the appearance of Minas Morgul in the current releases of the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a></i> version of the mod, if the player chooses to install the addon/submod *[In Vain's TLD Scene Pack](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md#Sub-mods_and_further_addons>)*.
 
 ## Licensing {#Licensing}
 

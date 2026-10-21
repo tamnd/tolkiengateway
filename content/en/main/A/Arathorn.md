@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arathorn (disambiguation)"
 ---
 
-Redirect to [Arathorn (disambiguation)](/wiki/Arathorn_(disambiguation)).
+Redirect to [Arathorn (disambiguation)](<Arathorn_(disambiguation).md>).

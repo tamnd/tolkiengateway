@@ -1,6 +1,5 @@
 ---
 title: "Sierra Entertainment"
-display_title: "<span class=\"mw-page-title-main\">Sierra Entertainment</span>"
 page_id: 19229
 namespace: 0
 revision_id: 306518
@@ -14,9 +13,9 @@ categories:
   - "American businesses"
 ---
 
-**Sierra Entertainment** was a company that developed [computer games](/wiki/Category:Games "Category:Games"). It was a subsidiary of [Vivendi Games](/wiki/Vivendi "Vivendi").In 2008 it was shut down after it became part of Activision Blizzard.
+**Sierra Entertainment** was a company that developed [computer games](../../category/G/Games.md). It was a subsidiary of [Vivendi Games](../V/Vivendi.md).In 2008 it was shut down after it became part of Activision Blizzard.
 
-Sierra published *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)* and produced *[The Hobbit: Prelude to The Lord of the Rings](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*.
+Sierra published *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* and produced *[The Hobbit: Prelude to The Lord of the Rings](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## External links {#External_links}
 

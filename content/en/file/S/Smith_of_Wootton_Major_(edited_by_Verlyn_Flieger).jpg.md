@@ -1,6 +1,5 @@
 ---
 title: "File:Smith of Wootton Major (edited by Verlyn Flieger).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Smith of Wootton Major (edited by Verlyn Flieger).jpg</span>"
 page_id: 15090
 namespace: 6
 revision_id: 356722

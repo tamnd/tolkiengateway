@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alqualondë"
 ---
 
-Redirect to [Alqualondë](/wiki/Alqualondë).
+Redirect to [Alqualondë](Alqualondë.md).

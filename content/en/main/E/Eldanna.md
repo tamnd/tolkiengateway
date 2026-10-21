@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bay of Eldanna"
 ---
 
-Redirect to [Bay of Eldanna](/wiki/Bay_of_Eldanna).
+Redirect to [Bay of Eldanna](../B/Bay_of_Eldanna.md).

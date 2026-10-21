@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings The Third Age - Eye of Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings The Third Age - Eye of Sauron.png</span>"
 page_id: 37841
 namespace: 6
 revision_id: 362962

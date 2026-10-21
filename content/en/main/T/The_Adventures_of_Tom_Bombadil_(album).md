@@ -15,7 +15,7 @@ sort_keys:
   "Albums": "Adventures of Tom Bombadil"
 ---
 
-<i><b>The Adventures of Tom Bombadil</b></i> is a demo album by [Gene Hargrove](/wiki/Gene_Hargrove), released in 1999.
+<i><b>The Adventures of Tom Bombadil</b></i> is a demo album by [Gene Hargrove](../G/Gene_Hargrove.md), released in 1999.
 
 ## Track listing {#Track_listing}
 

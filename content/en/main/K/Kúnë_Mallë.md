@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Road of Arches"
 ---
 
-Redirect to [Road of Arches](/wiki/Road_of_Arches).
+Redirect to [Road of Arches](../R/Road_of_Arches.md).

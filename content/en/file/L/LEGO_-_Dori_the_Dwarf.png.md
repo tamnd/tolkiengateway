@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Dori the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Dori the Dwarf.png</span>"
 page_id: 73148
 namespace: 6
 revision_id: 432998
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bombur the Dwarf](/wiki/Dori "Dori") - [LEGO](/wiki/Lego "Lego") minifigure. Source <a class="external text" href="https://www.toypro.com/us/product/5394/dori-the-dwarf" rel="noreferrer noopener" target="_blank">ToyPro</a>
+[Bombur the Dwarf](../../main/D/Dori.md) - [LEGO](../../main/L/Lego.md) minifigure. Source <a class="external text" href="https://www.toypro.com/us/product/5394/dori-the-dwarf" rel="noreferrer noopener" target="_blank">ToyPro</a>
 
 ## Licensing {#Licensing}
 

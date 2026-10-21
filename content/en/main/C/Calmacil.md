@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calmacil (disambiguation)"
 ---
 
-Redirect to [Calmacil (disambiguation)](/wiki/Calmacil_(disambiguation)).
+Redirect to [Calmacil (disambiguation)](<Calmacil_(disambiguation).md>).

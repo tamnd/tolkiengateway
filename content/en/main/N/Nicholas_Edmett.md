@@ -1,6 +1,5 @@
 ---
 title: "Nicholas Edmett"
-display_title: "<span class=\"mw-page-title-main\">Nicholas Edmett</span>"
 page_id: 29768
 namespace: 0
 revision_id: 221917
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Edmett, Nicholas"
 ---
 
-**Nicholas Edmett** ([1942](/wiki/1942)) is a British actor of stage and screen.
+**Nicholas Edmett** ([1942](../_/1942.md)) is a British actor of stage and screen.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Kíli](/wiki/K%C3%ADli)
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Kíli](../K/Kíli.md)
 
 ## External links {#External_links}
 

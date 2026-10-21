@@ -11,4 +11,4 @@ redirect_target: "Teleri"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Teleri](/wiki/Teleri#Names).
+Redirect to [Teleri](../T/Teleri.md#Names).

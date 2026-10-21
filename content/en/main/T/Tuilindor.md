@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Swallow"
 ---
 
-Redirect to [House of the Swallow](/wiki/House_of_the_Swallow).
+Redirect to [House of the Swallow](../H/House_of_the_Swallow.md).

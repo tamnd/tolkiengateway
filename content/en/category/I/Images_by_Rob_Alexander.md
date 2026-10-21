@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rob Alexander"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rob Alexander</span>"
 page_id: 8217
 namespace: 14
 revision_id: 193849
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Alexander, Rob"
 ---
 
-This category lists all **images by [Rob Alexander](/wiki/Rob_Alexander)**.
+This category lists all **images by [Rob Alexander](../../main/R/Rob_Alexander.md)**.

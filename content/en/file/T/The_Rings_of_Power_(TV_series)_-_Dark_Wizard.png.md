@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Dark Wizard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Dark Wizard.png</span>"
 page_id: 68915
 namespace: 6
 revision_id: 412341

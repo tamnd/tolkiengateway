@@ -11,4 +11,4 @@ redirect_target: "Rivendell"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Rivendell](/wiki/Rivendell#Etymology).
+Redirect to [Rivendell](../R/Rivendell.md#Etymology).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel's messages"
 ---
 
-Redirect to [Galadriel's messages](/wiki/Galadriel's_messages).
+Redirect to [Galadriel's messages](Galadriel's_messages.md).

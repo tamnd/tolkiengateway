@@ -11,4 +11,4 @@ redirect_target: "Noldor"
 redirect_fragment: "Etymology and Names"
 ---
 
-Redirect to [Noldor](/wiki/Noldor#Etymology_and_Names).
+Redirect to [Noldor](../N/Noldor.md#Etymology_and_Names).

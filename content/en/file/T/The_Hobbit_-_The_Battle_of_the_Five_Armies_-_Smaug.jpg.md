@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Smaug.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Smaug.jpg</span>"
 page_id: 56403
 namespace: 6
 revision_id: 307568
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Smaug](/wiki/Smaug) from [The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies).
+[Smaug](../../main/S/Smaug.md) from [The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Modern English"
 ---
 
-Redirect to [Modern English](/wiki/Modern_English).
+Redirect to [Modern English](../M/Modern_English.md).

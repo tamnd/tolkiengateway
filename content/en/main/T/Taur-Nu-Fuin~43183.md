@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-nu-Fuin (disambiguation)"
 ---
 
-Redirect to [Taur-nu-Fuin (disambiguation)](/wiki/Taur-nu-Fuin_(disambiguation)).
+Redirect to [Taur-nu-Fuin (disambiguation)](<Taur-nu-Fuin_(disambiguation).md>).

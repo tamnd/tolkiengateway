@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of The Lord of the Rings"
 ---
 
-Redirect to [The History of The Lord of the Rings](/wiki/The_History_of_The_Lord_of_the_Rings).
+Redirect to [The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md).

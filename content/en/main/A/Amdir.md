@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amdír"
 ---
 
-Redirect to [Amdír](/wiki/Amdír).
+Redirect to [Amdír](Amdír.md).

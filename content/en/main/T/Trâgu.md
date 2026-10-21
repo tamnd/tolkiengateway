@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trāgu"
 ---
 
-Redirect to [Trāgu](/wiki/Trāgu).
+Redirect to [Trāgu](Trāgu.md).

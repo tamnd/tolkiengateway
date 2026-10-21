@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crown of the Hidden Kingdom"
 ---
 
-Redirect to [Crown of the Hidden Kingdom](/wiki/Crown_of_the_Hidden_Kingdom).
+Redirect to [Crown of the Hidden Kingdom](../C/Crown_of_the_Hidden_Kingdom.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pearl (disambiguation)"
 ---
 
-Redirect to [Pearl (disambiguation)](/wiki/Pearl_(disambiguation)).
+Redirect to [Pearl (disambiguation)](<Pearl_(disambiguation).md>).

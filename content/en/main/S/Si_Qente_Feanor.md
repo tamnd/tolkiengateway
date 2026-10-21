@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sí Qente Feanor"
 ---
 
-Redirect to [Sí Qente Feanor](/wiki/Sí_Qente_Feanor).
+Redirect to [Sí Qente Feanor](Sí_Qente_Feanor.md).

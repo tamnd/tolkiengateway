@@ -1,6 +1,5 @@
 ---
 title: "File:Abe Papakhian - Imrahil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Abe Papakhian - Imrahil.jpg</span>"
 page_id: 13839
 namespace: 6
 revision_id: 183700
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Abe Papakhian</li>
 <li><b>Website:</b> <a class="external text" href="http://abepapakhian.deviantart.com/" rel="noreferrer noopener" target="_blank">Abe Papakhian&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Abe_Papakhian" title="Tolkien Gateway:Copyrights/Abe Papakhian">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAbe_Papakhian.md" title="Tolkien Gateway:Copyrights/Abe Papakhian">Permission for use on Tolkien Gateway</a></b></li></ul></div>

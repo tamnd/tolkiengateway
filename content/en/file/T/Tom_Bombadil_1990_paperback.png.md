@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Bombadil 1990 paperback.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Bombadil 1990 paperback.png</span>"
 page_id: 61919
 namespace: 6
 revision_id: 351059

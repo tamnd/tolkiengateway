@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parma Nölé 13-14"
 ---
 
-Redirect to [Parma Nölé 13-14](/wiki/Parma_Nölé_13-14).
+Redirect to [Parma Nölé 13-14](Parma_Nölé_13-14.md).

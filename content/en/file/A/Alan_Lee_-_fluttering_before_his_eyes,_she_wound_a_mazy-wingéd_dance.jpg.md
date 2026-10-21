@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Song of Tinúviel.jpg"
 ---
 
-Redirect to [File:Alan Lee - The Song of Tinúviel.jpg](/wiki/File:Alan_Lee_-_The_Song_of_Tinúviel.jpg).
+Redirect to [File:Alan Lee - The Song of Tinúviel.jpg](Alan_Lee_-_The_Song_of_Tinúviel.jpg.md).

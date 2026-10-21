@@ -1,6 +1,5 @@
 ---
 title: "Dansk Tolkien Selskab"
-display_title: "<span class=\"mw-page-title-main\">Dansk Tolkien Selskab</span>"
 page_id: 27859
 namespace: 0
 revision_id: 116736
@@ -14,13 +13,13 @@ categories:
   - "Danish organizations"
 ---
 
-**Dansk Tolkien Selskab** was the first Danish Tolkien Society, which existed some years during the 1980s. The association was not long-lived, and had vanished by the time two other Societies in Denmark, [Tolkiens Følge](/wiki/Tolkiens_F%C3%B8lge) and [Danmarks Tolkienforening](/wiki/Imladris,_Danmarks_Tolkienforening "Imladris, Danmarks Tolkienforening"), appeared in the early 1990s.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dansk Tolkien Selskab** was the first Danish Tolkien Society, which existed some years during the 1980s. The association was not long-lived, and had vanished by the time two other Societies in Denmark, [Tolkiens Følge](../T/Tolkiens_Følge.md) and [Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md), appeared in the early 1990s.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Lars-Terje_Lysemose" title="Lars-Terje Lysemose">Lars-Terje Lysemose</a>, &#34;<a class="external text" href="http://www.imladris.dk/?id=16&amp;show=93" rel="noreferrer noopener" target="_blank">Historien om Imladris - Danmarks Tolkienforening (Den lange udgave) 11 September 2005</a>&#34; (&#34;The History of Imladris, the Tolkien Society of Denmark (The Long Story)&#34;, online article, as of July 22, 2010</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../L/Lars-Terje_Lysemose.md" title="Lars-Terje Lysemose">Lars-Terje Lysemose</a>, &#34;<a class="external text" href="http://www.imladris.dk/?id=16&amp;show=93" rel="noreferrer noopener" target="_blank">Historien om Imladris - Danmarks Tolkienforening (Den lange udgave) 11 September 2005</a>&#34; (&#34;The History of Imladris, the Tolkien Society of Denmark (The Long Story)&#34;, online article, as of July 22, 2010</span>
 </li>
 </ol></div>

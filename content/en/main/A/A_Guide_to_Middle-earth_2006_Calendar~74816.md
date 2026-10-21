@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Guide to Middle-Earth 2006 Calendar"
 ---
 
-Redirect to [A Guide to Middle-Earth 2006 Calendar](/wiki/A_Guide_to_Middle-Earth_2006_Calendar).
+Redirect to [A Guide to Middle-Earth 2006 Calendar](A_Guide_to_Middle-Earth_2006_Calendar.md).

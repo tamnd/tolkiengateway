@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Mystics2.png"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Mystics2.png](/wiki/File:The_Rings_of_Power_(TV_series)_-_Mystics2.png).
+Redirect to [File:The Rings of Power (TV series) - Mystics2.png](<../T/The_Rings_of_Power_(TV_series)_-_Mystics2.png.md>).

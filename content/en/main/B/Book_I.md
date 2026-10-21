@@ -11,4 +11,4 @@ redirect_target: "The Fellowship of the Ring"
 redirect_fragment: "Book I"
 ---
 
-Redirect to [The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring#Book_I).
+Redirect to [The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md#Book_I).

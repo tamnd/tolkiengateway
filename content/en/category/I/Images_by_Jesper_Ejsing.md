@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jesper Ejsing"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jesper Ejsing</span>"
 page_id: 72793
 namespace: 14
 revision_id: 431437
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Ejsing, Jesper"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Jesper_Ejsing&amp;action=edit&amp;redlink=1" title="Jesper Ejsing (page does not exist)">Jesper Ejsing</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jesper_Ejsing&amp;action=edit&amp;redlink=1" title="Jesper Ejsing (page does not exist)">Jesper Ejsing</a></b>.

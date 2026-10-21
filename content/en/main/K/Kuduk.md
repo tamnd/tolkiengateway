@@ -1,6 +1,5 @@
 ---
 title: "Kuduk"
-display_title: "<span class=\"mw-page-title-main\">Kuduk</span>"
 page_id: 3654
 namespace: 0
 revision_id: 201131
@@ -22,21 +21,21 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/peuples/hobbits/kuduk"
 ---
 
-**Kuduk** (pl. \***Kudugin**) was the actual [Westron](/wiki/Westron) word with which the [Hobbits](/wiki/Hobbits) called themselves. It is translated as "Hobbit."
+**Kuduk** (pl. \***Kudugin**) was the actual [Westron](../W/Westron.md) word with which the [Hobbits](../H/Hobbits.md) called themselves. It is translated as "Hobbit."
 
 ## Etymology {#Etymology}
 
-It is suggested that this developed from an older word, *[kûd-dûkan](/wiki/K%C3%BBd-d%C3%BBkan "Kûd-dûkan")*, meaning '[hole-builder](/wiki/Holbytlan "Holbytlan")'. Although the Hobbits called themselves *kuduk*, they had forgotten the meaning of the word.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+It is suggested that this developed from an older word, *[kûd-dûkan](Kûd-dûkan.md)*, meaning '[hole-builder](../H/Holbytlan.md)'. Although the Hobbits called themselves *kuduk*, they had forgotten the meaning of the word.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Other versions {#Other_versions}
 
-Before this published word, [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") considered the form *cûbuc* pl. *cûbugin* which was apparently dropped later.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Before this published word, [Tolkien](../J/J.R.R._Tolkien.md) considered the form *cûbuc* pl. *cûbugin* which was apparently dropped later.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-App-1"><span class="mw-cite-backlink"><a href="#cite_ref-App_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_F" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
+<li id="cite_note-App-1"><span class="mw-cite-backlink"><a href="#cite_ref-App_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_F.md" title="Appendix F">Appendix F</a>, &#34;On Translation&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, p. 49</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, p. 49</span>
 </li>
 </ol></div>

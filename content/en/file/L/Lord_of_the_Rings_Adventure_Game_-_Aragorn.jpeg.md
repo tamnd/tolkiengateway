@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Aragorn.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Aragorn.jpeg</span>"
 page_id: 71251
 namespace: 6
 revision_id: 425062
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Aragorn](../../main/A/Aragorn.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

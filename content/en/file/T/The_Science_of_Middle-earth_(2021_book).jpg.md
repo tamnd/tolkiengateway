@@ -1,6 +1,5 @@
 ---
 title: "File:The Science of Middle-earth (2021 book).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Science of Middle-earth (2021 book).jpg</span>"
 page_id: 60573
 namespace: 6
 revision_id: 339951

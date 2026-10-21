@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (Lord of Andúnië)"
 ---
 
-Redirect to [Eärendur (Lord of Andúnië)](/wiki/Eärendur_(Lord_of_Andúnië)).
+Redirect to [Eärendur (Lord of Andúnië)](<Eärendur_(Lord_of_Andúnië).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Eric Faure-Brac - Bag End 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eric Faure-Brac - Bag End 2.jpg</span>"
 page_id: 40260
 namespace: 6
 revision_id: 202489
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Eric Faure-Brac</li>
 <li><b>Website:</b> <a class="external text" href="http://eric.faurebrac.perso.neuf.fr/index.htm" rel="noreferrer noopener" target="_blank">Eric Faure-Brac&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Eric_Faure-Brac" title="Tolkien Gateway:Copyrights/Eric Faure-Brac">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEric_Faure-Brac.md" title="Tolkien Gateway:Copyrights/Eric Faure-Brac">Permission for use on Tolkien Gateway</a></b></li></ul></div>

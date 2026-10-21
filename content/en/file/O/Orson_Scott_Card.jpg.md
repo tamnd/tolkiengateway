@@ -1,6 +1,5 @@
 ---
 title: "File:Orson Scott Card.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orson Scott Card.jpg</span>"
 page_id: 29706
 namespace: 6
 revision_id: 248915

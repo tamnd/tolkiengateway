@@ -1,6 +1,5 @@
 ---
 title: "File:Riddle of the Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Riddle of the Ring.jpg</span>"
 page_id: 33042
 namespace: 6
 revision_id: 199448

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black arrow"
 ---
 
-Redirect to [Black arrow](/wiki/Black_arrow).
+Redirect to [Black arrow](Black_arrow.md).

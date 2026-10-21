@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit 1st edition"
 ---
 
-Redirect to [The Hobbit 1st edition](/wiki/The_Hobbit_1st_edition).
+Redirect to [The Hobbit 1st edition](../T/The_Hobbit_1st_edition.md).

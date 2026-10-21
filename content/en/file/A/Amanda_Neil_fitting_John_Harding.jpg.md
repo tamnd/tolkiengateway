@@ -1,6 +1,5 @@
 ---
 title: "File:Amanda Neil fitting John Harding.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amanda Neil fitting John Harding.jpg</span>"
 page_id: 74552
 namespace: 6
 revision_id: 438846
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Amanda Neil fitting John Harding.jpg</span></th>
 <td class="description">
-<p><a class="new" href="/w/index.php?title=Amanda_Neil&amp;action=edit&amp;redlink=1" title="Amanda Neil (page does not exist)">Amanda Neil</a> (left) fitting <a class="new" href="/w/index.php?title=John_Harding&amp;action=edit&amp;redlink=1" title="John Harding (page does not exist)">John Harding</a> in his <a href="/wiki/Radagast" title="Radagast">Radagast</a> costume] for <i><a href="/wiki/The_Lord_of_the_Rings_Trading_Card_Game" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>
+<p><a class="new" href="https://tolkiengateway.net/w/index.php?title=Amanda_Neil&amp;action=edit&amp;redlink=1" title="Amanda Neil (page does not exist)">Amanda Neil</a> (left) fitting <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Harding&amp;action=edit&amp;redlink=1" title="John Harding (page does not exist)">John Harding</a> in his <a href="../../main/R/Radagast.md" title="Radagast">Radagast</a> costume] for <i><a href="../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/22_July" title="22 July">22 July</a> <a href="/wiki/2004" title="2004">2004</a></td>
+<td><a href="../../main/_/22_July.md" title="22 July">22 July</a> <a href="../../main/_/2004.md" title="2004">2004</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://web.archive.org/web/20080305042306/http://www.decipher.com/content/2004/04/040504lotrwetafalconer.html" rel="noreferrer noopener" target="_blank">https://web.archive.org/web/20080305042306/http://www.decipher.com/content/2004/04/040504lotrwetafalconer.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

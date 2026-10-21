@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ñande"
 ---
 
-Redirect to [Ñande](/wiki/Ñande).
+Redirect to [Ñande](../_/Ñande.md).

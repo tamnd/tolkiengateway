@@ -1,6 +1,5 @@
 ---
 title: "File:Jonathan Gebel - Treebeard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jonathan Gebel - Treebeard.jpg</span>"
 page_id: 62442
 namespace: 6
 revision_id: 352517
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jonathan Gebel</li>
 <li><b>Website:</b> <a class="external free" href="https://jonathangebel.artstation.com/" rel="noreferrer noopener" target="_blank">https://jonathangebel.artstation.com/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jonathan_Gebel" title="Tolkien Gateway:Copyrights/Jonathan Gebel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJonathan_Gebel.md" title="Tolkien Gateway:Copyrights/Jonathan Gebel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

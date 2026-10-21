@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jemima Catlin"
 ---
 
-Redirect to [Jemima Catlin](/wiki/Jemima_Catlin).
+Redirect to [Jemima Catlin](Jemima_Catlin.md).

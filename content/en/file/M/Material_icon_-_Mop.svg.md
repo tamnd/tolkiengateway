@@ -1,6 +1,5 @@
 ---
 title: "File:Material icon - Mop.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Material icon - Mop.svg</span>"
 page_id: 67932
 namespace: 6
 revision_id: 431409
@@ -28,4 +27,4 @@ Used as asset for templates <a class="external free" href="https://fonts.google.
 
 ## Licensing {#Licensing}
 
-<a class="new" href="/w/index.php?title=Template:Apache-2.0&amp;action=edit&amp;redlink=1" title="Template:Apache-2.0 (page does not exist)">Template:Apache-2.0</a>
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Template:Apache-2.0&amp;action=edit&amp;redlink=1" title="Template:Apache-2.0 (page does not exist)">Template:Apache-2.0</a>

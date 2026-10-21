@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Weland - Smith of the Riddermark.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Weland - Smith of the Riddermark.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Weland_-_Smith_of_the_Riddermark.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Weland - Smith of the Riddermark.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Weland_-_Smith_of_the_Riddermark.jpg.md).

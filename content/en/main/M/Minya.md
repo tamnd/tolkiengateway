@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minyar"
 ---
 
-Redirect to [Minyar](/wiki/Minyar).
+Redirect to [Minyar](Minyar.md).

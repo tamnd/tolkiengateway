@@ -1,6 +1,5 @@
 ---
 title: "File:Lady Elleth - Reaching Valinor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lady Elleth - Reaching Valinor.png</span>"
 page_id: 52053
 namespace: 6
 revision_id: 283288
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lady Elleth</li>
 <li><b>Website:</b> <a class="external text" href="http://ladyelleth.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Lady_Elleth" title="Tolkien Gateway:Copyrights/Lady Elleth">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLady_Elleth.md" title="Tolkien Gateway:Copyrights/Lady Elleth">Permission for use on Tolkien Gateway</a></b></li></ul></div>

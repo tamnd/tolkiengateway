@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belba Baggins"
 ---
 
-Redirect to [Belba Baggins](/wiki/Belba_Baggins).
+Redirect to [Belba Baggins](Belba_Baggins.md).

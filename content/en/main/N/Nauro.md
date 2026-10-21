@@ -13,23 +13,23 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>nauro</b></i> (or *ñaurō*) is the [Quenya](/wiki/Quenya) word for "[werewolf](/wiki/Werewolves "Werewolves")".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>nauro</b></i> (or *ñaurō*) is the [Quenya](../Q/Quenya.md) word for "[werewolf](../W/Werewolves.md)".<sup id="cite_ref-PE19_1-0" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [NGWAW](/wiki/NGWAW)<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) [NGWAW](NGWAW.md)<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[gaur](/wiki/Gaur "Gaur")*
+- [Sindarin](../S/Sindarin.md) *[gaur](../G/Gaur.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE19-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE19_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE19_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="/wiki/Parma_Eldalamberon_19" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 106-107</span>
+<li id="cite_note-PE19-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE19_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE19_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="../P/Parma_Eldalamberon_19.md" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 106-107</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 377 (root ÑGAW-)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 377 (root ÑGAW-)</span>
 </li>
 </ol></div>

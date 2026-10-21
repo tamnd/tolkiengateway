@@ -1,6 +1,5 @@
 ---
 title: "File:Mr. Bliss (2004 film).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr. Bliss (2004 film).jpg</span>"
 page_id: 29666
 namespace: 6
 revision_id: 260563

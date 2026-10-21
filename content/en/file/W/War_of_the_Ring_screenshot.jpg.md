@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Ring screenshot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Ring screenshot.jpg</span>"
 page_id: 63705
 namespace: 6
 revision_id: 362976
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of the game [The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring).
+A screenshot of the game [The Lord of the Rings: War of the Ring](../../main/T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md).
 
 ## Licensing {#Licensing}
 

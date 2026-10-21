@@ -1,6 +1,5 @@
 ---
 title: "File:Soul's Ward Typescript.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Soul&#039;s Ward Typescript.png</span>"
 page_id: 74627
 namespace: 6
 revision_id: 439180

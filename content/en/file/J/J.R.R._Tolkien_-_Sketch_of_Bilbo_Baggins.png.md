@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Sketch of Bilbo Baggins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Sketch of Bilbo Baggins.png</span>"
 page_id: 71480
 namespace: 6
 revision_id: 426227
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Sketch of [Bilbo Baggins](/wiki/Bilbo_Baggins)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Sketch of [Bilbo Baggins](../../main/B/Bilbo_Baggins.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

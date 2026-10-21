@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Járnsmid - Merchant from Dale.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Járnsmid - Merchant from Dale.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Járnsmid_-_Merchant_from_Dale.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Járnsmid - Merchant from Dale.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Járnsmid_-_Merchant_from_Dale.jpg.md).

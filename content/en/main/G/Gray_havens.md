@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grey Havens"
 ---
 
-Redirect to [Grey Havens](/wiki/Grey_Havens).
+Redirect to [Grey Havens](Grey_Havens.md).

@@ -1,6 +1,5 @@
 ---
 title: "Duncan McIntyre"
-display_title: "<span class=\"mw-page-title-main\">Duncan McIntyre</span>"
 page_id: 28047
 namespace: 0
 revision_id: 428772
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "McIntyre, Duncan"
 ---
 
-**Duncan McIntyre** ([10 October](/wiki/10_October), [1907](/wiki/1907) - [8 November](/wiki/8_November), [1973](/wiki/1973)) was a British actor.
+**Duncan McIntyre** ([10 October](../_/10_October.md), [1907](../_/1907.md) - [8 November](../_/8_November.md), [1973](../_/1973.md)) was a British actor.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Bombur](/wiki/Bombur), Elves, Goblins
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Bombur](../B/Bombur.md), Elves, Goblins
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Marred"
 ---
 
-Redirect to [Arda Marred](/wiki/Arda_Marred).
+Redirect to [Arda Marred](../A/Arda_Marred.md).

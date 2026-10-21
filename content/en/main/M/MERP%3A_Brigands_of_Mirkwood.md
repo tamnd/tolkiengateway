@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brigands of Mirkwood"
 ---
 
-Redirect to [Brigands of Mirkwood](/wiki/Brigands_of_Mirkwood).
+Redirect to [Brigands of Mirkwood](../B/Brigands_of_Mirkwood.md).

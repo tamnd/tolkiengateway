@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Other fictional worlds"
 ---
 
-Redirect to [Category:Other fictional worlds](/wiki/Category:Other_fictional_worlds).
+Redirect to [Category:Other fictional worlds](../../category/O/Other_fictional_worlds.md).

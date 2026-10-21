@@ -1,6 +1,5 @@
 ---
 title: "-uva"
-display_title: "<span class=\"mw-page-title-main\">-uva</span>"
 page_id: 51378
 namespace: 0
 revision_id: 370556
@@ -15,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "uva"
 ---
 
-<i><b>-uva</b></i> is a [Quenya](/wiki/Quenya) future tense ending.
+<i><b>-uva</b></i> is a [Quenya](../Q/Quenya.md) future tense ending.
 
 A final -a drops out before the ending -uva is added; quanta- "fill", future tense quantuva "shall fill".
 
@@ -32,12 +31,12 @@ A final -a drops out before the ending -uva is added; quanta- "fill", future ten
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Field_of_Cormallen" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Monsters_and_the_Critics,_and_Other_Essays" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i>, &#34;<a href="/wiki/A_Secret_Vice" title="A Secret Vice">A Secret Vice</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Monsters_and_the_Critics,_and_Other_Essays.md" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i>, &#34;<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34;</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="/wiki/The_Battle_of_Unnumbered_Tears" title="The Battle of Unnumbered Tears">The Battle of Unnumbered Tears</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/The_Battle_of_Unnumbered_Tears.md" title="The Battle of Unnumbered Tears">The Battle of Unnumbered Tears</a>&#34;</span>
 </li>
 </ol></div>

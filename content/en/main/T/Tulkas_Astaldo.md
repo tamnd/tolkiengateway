@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tulkas"
 ---
 
-Redirect to [Tulkas](/wiki/Tulkas).
+Redirect to [Tulkas](Tulkas.md).

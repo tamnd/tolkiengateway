@@ -1,6 +1,5 @@
 ---
 title: "File:Exeter.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Exeter.gif</span>"
 page_id: 25268
 namespace: 6
 revision_id: 271045

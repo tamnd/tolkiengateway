@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "David Lodge"
 ---
 
-Redirect to [David Lodge](/wiki/David_Lodge).
+Redirect to [David Lodge](David_Lodge.md).

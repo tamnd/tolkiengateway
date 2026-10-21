@@ -21,45 +21,44 @@ sort_keys:
   "Publications with contribution by J.R.R. Tolkien": "Arc et le Heaume"
 ---
 
-<i><b>L&#39;Arc et le Heaume</b></i> (French: *The Bow and the Helm*) is a French fanzine published by [Tolkiendil](</wiki/Tolkiendil_(Tolkien_society)> "Tolkiendil (Tolkien society)"). Each issue covers a specific theme of Tolkien's world, with articles, poetry and interviews.
+<i><b>L&#39;Arc et le Heaume</b></i> (French: *The Bow and the Helm*) is a French fanzine published by [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>). Each issue covers a specific theme of Tolkien's world, with articles, poetry and interviews.
 
 - Normal issues :
-    - [2005](/wiki/2005) : *Les Hobbits* ([n°1](/wiki/L%27Arc_et_le_Heaume_1 "L'Arc et le Heaume 1"))
-    - [2010](/wiki/2010) : *Les Animaux de Tolkien* ([n°2](/wiki/L%27Arc_et_le_Heaume_2 "L'Arc et le Heaume 2"))
-    - [2012](/wiki/2012) : *[Númenor](/wiki/N%C3%BAmenor)* ([n°3](/wiki/L%27Arc_et_le_Heaume_3 "L'Arc et le Heaume 3"))
-    - [2014](/wiki/2014) : *Histoire d'un aller et retour* ([n°4](/wiki/L%27Arc_et_le_Heaume_4 "L'Arc et le Heaume 4"))
-    - [2017](/wiki/2017) : *Au-delà de la Terre du Milieu* ([n°5](/wiki/L%27Arc_et_le_Heaume_5 "L'Arc et le Heaume 5"))
-    - [2019](/wiki/2019) : *Ainulindalë et Valaquenta* ([n°6](/wiki/L%27Arc_et_le_Heaume_6 "L'Arc et le Heaume 6"))
-    - [2021](/wiki/2021) : *Tolkien au féminin* ([n°7](/wiki/L%27Arc_et_le_Heaume_7 "L'Arc et le Heaume 7"))
-    - [2025](/wiki/2025) : *Autour du Seigneur des Anneaux* ([n°8](/wiki/L%27Arc_et_le_Heaume_8 "L'Arc et le Heaume 8"))
+    - [2005](../_/2005.md) : *Les Hobbits* ([n°1](L'Arc_et_le_Heaume_1.md))
+    - [2010](../_/2010.md) : *Les Animaux de Tolkien* ([n°2](L'Arc_et_le_Heaume_2.md))
+    - [2012](../_/2012.md) : *[Númenor](../N/Númenor.md)* ([n°3](L'Arc_et_le_Heaume_3.md))
+    - [2014](../_/2014.md) : *Histoire d'un aller et retour* ([n°4](L'Arc_et_le_Heaume_4.md))
+    - [2017](../_/2017.md) : *Au-delà de la Terre du Milieu* ([n°5](L'Arc_et_le_Heaume_5.md))
+    - [2019](../_/2019.md) : *Ainulindalë et Valaquenta* ([n°6](L'Arc_et_le_Heaume_6.md))
+    - [2021](../_/2021.md) : *Tolkien au féminin* ([n°7](L'Arc_et_le_Heaume_7.md))
+    - [2025](../_/2025.md) : *Autour du Seigneur des Anneaux* ([n°8](L'Arc_et_le_Heaume_8.md))
 
 - Special issues :
-    - [2012](/wiki/2012) : *Tolkien 1892-2012* ([Hors-série n°1](</wiki/L%27Arc_et_le_Heaume_(Special_Issue)_1> "L'Arc et le Heaume (Special Issue) 1"))
-    - [2020](/wiki/2020) : *Conversations avec J.R.R. Tolkien* ([Hors-série n°2](</wiki/L%27Arc_et_le_Heaume_(Special_Issue)_2> "L'Arc et le Heaume (Special Issue) 2"))
-    - [2022](/wiki/2022) : *Prières &amp; Calligraphies elfiques* ([Hors-série n°3](</wiki/L%27Arc_et_le_Heaume_(Special_Issue)_3> "L'Arc et le Heaume (Special Issue) 3"))
-    - [2023](/wiki/2023) : *La Chronologie du Seigneur des Anneaux de J.R.R. Tolkien* ([Hors-série n°4](</wiki/L%27Arc_et_le_Heaume_(Special_Issue)_4> "L'Arc et le Heaume (Special Issue) 4"))
+    - [2012](../_/2012.md) : *Tolkien 1892-2012* ([Hors-série n°1](<L'Arc_et_le_Heaume_(Special_Issue)_1.md>))
+    - [2020](../_/2020.md) : *Conversations avec J.R.R. Tolkien* ([Hors-série n°2](<L'Arc_et_le_Heaume_(Special_Issue)_2.md>))
+    - [2022](../_/2022.md) : *Prières &amp; Calligraphies elfiques* ([Hors-série n°3](<L'Arc_et_le_Heaume_(Special_Issue)_3.md>))
+    - [2023](../_/2023.md) : *La Chronologie du Seigneur des Anneaux de J.R.R. Tolkien* ([Hors-série n°4](<L'Arc_et_le_Heaume_(Special_Issue)_4.md>))
 
 <br>
 
 <table style="margin:0 auto;" width="70%" align="center">
-<!-- -->
 <tbody><tr>
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">Fanzine <i><a class="mw-selflink selflink">L&#39;Arc et le Heaume</a></i> (French)
 </th></tr>
 <tr>
 <th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Normal issues
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="/wiki/L%27Arc_et_le_Heaume_1" title="L&#39;Arc et le Heaume 1">1</a> · <a href="/wiki/L%27Arc_et_le_Heaume_2" title="L&#39;Arc et le Heaume 2">2</a> · <a href="/wiki/L%27Arc_et_le_Heaume_3" title="L&#39;Arc et le Heaume 3">3</a> · <a href="/wiki/L%27Arc_et_le_Heaume_4" title="L&#39;Arc et le Heaume 4">4</a> · <a href="/wiki/L%27Arc_et_le_Heaume_5" title="L&#39;Arc et le Heaume 5">5</a> · <a href="/wiki/L%27Arc_et_le_Heaume_6" title="L&#39;Arc et le Heaume 6">6</a> · <a href="/wiki/L%27Arc_et_le_Heaume_7" title="L&#39;Arc et le Heaume 7">7</a> · <a href="/wiki/L%27Arc_et_le_Heaume_8" title="L&#39;Arc et le Heaume 8">8</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="L&#39;Arc_et_le_Heaume_1.md" title="L&#39;Arc et le Heaume 1">1</a> · <a href="L&#39;Arc_et_le_Heaume_2.md" title="L&#39;Arc et le Heaume 2">2</a> · <a href="L&#39;Arc_et_le_Heaume_3.md" title="L&#39;Arc et le Heaume 3">3</a> · <a href="L&#39;Arc_et_le_Heaume_4.md" title="L&#39;Arc et le Heaume 4">4</a> · <a href="L&#39;Arc_et_le_Heaume_5.md" title="L&#39;Arc et le Heaume 5">5</a> · <a href="L&#39;Arc_et_le_Heaume_6.md" title="L&#39;Arc et le Heaume 6">6</a> · <a href="L&#39;Arc_et_le_Heaume_7.md" title="L&#39;Arc et le Heaume 7">7</a> · <a href="L&#39;Arc_et_le_Heaume_8.md" title="L&#39;Arc et le Heaume 8">8</a>
 </td></tr>
 <tr>
 <th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Special issues
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="/wiki/L%27Arc_et_le_Heaume_(Special_Issue)_1" title="L&#39;Arc et le Heaume (Special Issue) 1">1</a> · <a href="/wiki/L%27Arc_et_le_Heaume_(Special_Issue)_2" title="L&#39;Arc et le Heaume (Special Issue) 2">2</a> · <a href="/wiki/L%27Arc_et_le_Heaume_(Special_Issue)_3" title="L&#39;Arc et le Heaume (Special Issue) 3">3</a> · <a href="/wiki/L%27Arc_et_le_Heaume_(Special_Issue)_4" title="L&#39;Arc et le Heaume (Special Issue) 4">4</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_1.md" title="L&#39;Arc et le Heaume (Special Issue) 1">1</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_2.md" title="L&#39;Arc et le Heaume (Special Issue) 2">2</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_3.md" title="L&#39;Arc et le Heaume (Special Issue) 3">3</a> · <a href="L&#39;Arc_et_le_Heaume_(Special_Issue)_4.md" title="L&#39;Arc et le Heaume (Special Issue) 4">4</a>
 </td></tr>
 <tr>
 <th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;" width="20%">Relatives
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="/wiki/Tolkiendil_(Tolkien_society)" title="Tolkiendil (Tolkien society)">Tolkiendil</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../T/Tolkiendil_(Tolkien_society).md" title="Tolkiendil (Tolkien society)">Tolkiendil</a>
 </td></tr></tbody></table>
 
 <br>

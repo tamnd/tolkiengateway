@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Daniel Govar"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Daniel Govar</span>"
 page_id: 41008
 namespace: 4
 revision_id: 208562
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Govar, Daniel"
 ---
 
-- Daniel Govar has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Daniel_Govar "Category:Images by Daniel Govar") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Daniel Govar has kindly granted his permission to use [his artwork](../../category/I/Images_by_Daniel_Govar.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 August 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

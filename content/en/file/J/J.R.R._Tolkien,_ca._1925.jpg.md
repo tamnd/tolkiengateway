@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien, ca. 1925.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien, ca. 1925.jpg</span>"
 page_id: 65329
 namespace: 6
 revision_id: 391618
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in the [1920s](/wiki/1920 "1920") on leaving [Leeds University](/wiki/Leeds_University). The exact date is unknown, but likely between [1925](/wiki/1925) and early [1926](/wiki/1926). On public display shortly after creation. First known print publication [8 October](/wiki/8_October) [1937](/wiki/1937) in *The Catholic Herald*. Unknown photo studio commissioned by Tolkien's students 1925/6 (private communication from Catherine McIlwaine, Tolkien Archivist, Bodleian Library)<a class="external autonumber" href="https://commons.wikimedia.org/wiki/File:J._R._R._Tolkien,_ca._1925.jpg" rel="noreferrer noopener" target="_blank">[1]</a>
+Photograph of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) in the [1920s](../../main/_/1920.md) on leaving [Leeds University](../../main/L/Leeds_University.md). The exact date is unknown, but likely between [1925](../../main/_/1925.md) and early [1926](../../main/_/1926.md). On public display shortly after creation. First known print publication [8 October](../../main/_/8_October.md) [1937](../../main/_/1937.md) in *The Catholic Herald*. Unknown photo studio commissioned by Tolkien's students 1925/6 (private communication from Catherine McIlwaine, Tolkien Archivist, Bodleian Library)<a class="external autonumber" href="https://commons.wikimedia.org/wiki/File:J._R._R._Tolkien,_ca._1925.jpg" rel="noreferrer noopener" target="_blank">[1]</a>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>The copyright for this file has expired according to the law of this work&#39;s nation/territory of origin; it is therefore in the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain"><span class="licensetpl_short">public domain</span></a></b>.

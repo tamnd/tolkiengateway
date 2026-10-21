@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Tuor and the Fall of Gondolin"
 ---
 
-Redirect to [Of Tuor and the Fall of Gondolin](/wiki/Of_Tuor_and_the_Fall_of_Gondolin).
+Redirect to [Of Tuor and the Fall of Gondolin](Of_Tuor_and_the_Fall_of_Gondolin.md).

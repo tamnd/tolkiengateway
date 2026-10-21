@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Doug Kovacs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Doug Kovacs</span>"
 page_id: 70945
 namespace: 14
 revision_id: 423629

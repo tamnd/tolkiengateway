@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimmacil"
 ---
 
-Redirect to [Calimmacil](/wiki/Calimmacil).
+Redirect to [Calimmacil](../C/Calimmacil.md).

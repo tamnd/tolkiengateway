@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of ephemera"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of ephemera</span>"
 page_id: 41593
 namespace: 14
 revision_id: 211161

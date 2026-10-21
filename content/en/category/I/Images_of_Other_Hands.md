@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Other Hands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Other Hands</span>"
 page_id: 41590
 namespace: 14
 revision_id: 211092

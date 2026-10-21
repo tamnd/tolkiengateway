@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nor (disambiguation)"
 ---
 
-Redirect to [Nor (disambiguation)](/wiki/Nor_(disambiguation)).
+Redirect to [Nor (disambiguation)](<Nor_(disambiguation).md>).

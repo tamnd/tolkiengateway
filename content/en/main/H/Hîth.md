@@ -15,23 +15,23 @@ sort_keys:
   "Sindarin nouns": "Hith"
 ---
 
-<i><b>hîth</b></i> is a noun meaning "mist" or "fog" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with *[hísië](/wiki/H%C3%ADsi%C3%AB "Hísië")* in [Quenya](/wiki/Quenya).
+<i><b>hîth</b></i> is a noun meaning "mist" or "fog" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with *[hísië](Hísië.md)* in [Quenya](../Q/Quenya.md).
 
 ## Examples {#Examples}
 
-- *[Hithaeglir](/wiki/Misty_Mountains "Misty Mountains")* = "Misty Mountains"
-- *[Nen Hithoel](/wiki/Nen_Hithoel)* = "Lake of Mist"
-- *[Hithlain](/wiki/Hithlain)* = "Mist Thread"
-- *[Hithlum](/wiki/Hithlum)* = "Land of Mist"
+- *[Hithaeglir](../M/Misty_Mountains.md)* = "Misty Mountains"
+- *[Nen Hithoel](../N/Nen_Hithoel.md)* = "Lake of Mist"
+- *[Hithlain](Hithlain.md)* = "Mist Thread"
+- *[Hithlum](Hithlum.md)* = "Land of Mist"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>hîth</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>hîth</i></span>
 </li>
 </ol></div>
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

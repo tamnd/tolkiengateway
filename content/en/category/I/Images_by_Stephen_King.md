@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stephen King"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stephen King</span>"
 page_id: 29920
 namespace: 14
 revision_id: 182174

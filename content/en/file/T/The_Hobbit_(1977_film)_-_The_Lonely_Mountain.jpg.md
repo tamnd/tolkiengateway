@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - The Lonely Mountain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - The Lonely Mountain.jpg</span>"
 page_id: 9294
 namespace: 6
 revision_id: 238118

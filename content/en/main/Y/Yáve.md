@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yávë"
 ---
 
-Redirect to [Yávë](/wiki/Yávë).
+Redirect to [Yávë](Yávë.md).

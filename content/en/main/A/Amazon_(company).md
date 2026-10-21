@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amazon.com Incorporated"
 ---
 
-Redirect to [Amazon.com Incorporated](/wiki/Amazon.com_Incorporated).
+Redirect to [Amazon.com Incorporated](Amazon.com_Incorporated.md).

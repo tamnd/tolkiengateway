@@ -1,6 +1,5 @@
 ---
 title: "File:Lady Chapel. The Oxford Oratory.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lady Chapel. The Oxford Oratory.jpg</span>"
 page_id: 57629
 namespace: 6
 revision_id: 317232
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Statue of Our Lady in the <a class="external text" href="http://www.oxfordoratory.org.uk/church-tour-lady-chapel.php" rel="noreferrer noopener" target="_blank">Lady Chapel</a> at the [Oxford](/wiki/Oxford) Oratory.
+Statue of Our Lady in the <a class="external text" href="http://www.oxfordoratory.org.uk/church-tour-lady-chapel.php" rel="noreferrer noopener" target="_blank">Lady Chapel</a> at the [Oxford](../../main/O/Oxford.md) Oratory.
 
 ## Licensing {#Licensing}
 

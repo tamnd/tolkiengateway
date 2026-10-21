@@ -1,6 +1,5 @@
 ---
 title: "File:Complete Silmarillion Artwork.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Complete Silmarillion Artwork.jpg</span>"
 page_id: 65180
 namespace: 6
 revision_id: 378374

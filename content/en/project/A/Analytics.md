@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Analytics"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Analytics</span>"
 page_id: 65291
 namespace: 4
 revision_id: 375712
@@ -13,7 +12,7 @@ images:
   - "Tg-analytics.png"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Tg-analytics.png"><img src="/w/images/thumb/9/9d/Tg-analytics.png/300px-Tg-analytics.png" decoding="async" loading="lazy" width="300" height="241" class="mw-file-element" srcset="/w/images/thumb/9/9d/Tg-analytics.png/450px-Tg-analytics.png 1.5x, /w/images/thumb/9/9d/Tg-analytics.png/600px-Tg-analytics.png 2x" data-file-width="1198" data-file-height="961"/></a><figcaption>Screenshot from one of Tolkien Gateway&#39;s analytic dashboards</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tg-analytics.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/Tg-analytics.png/300px-Tg-analytics.png" decoding="async" loading="lazy" width="300" height="241" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/Tg-analytics.png/450px-Tg-analytics.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/Tg-analytics.png/600px-Tg-analytics.png 2x" data-file-width="1198" data-file-height="961"/></a><figcaption>Screenshot from one of Tolkien Gateway&#39;s analytic dashboards</figcaption></figure>
 
 **Tolkien Gateway** is a community project which prides itself in being as transparent as possible. For those who are interested in the statistics of our website traffic, the below reports are at your disposal.
 
@@ -27,6 +26,6 @@ images:
 
 ## See also {#See_also}
 
-- [Membership Growth](/wiki/Tolkien_Gateway:Membership_Growth "Tolkien Gateway:Membership Growth")
+- [Membership Growth](../M/Membership_Growth.md)
 
 <br>

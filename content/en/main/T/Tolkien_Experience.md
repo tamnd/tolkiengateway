@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Experience"
 ---
 
-Redirect to [The Tolkien Experience](/wiki/The_Tolkien_Experience).
+Redirect to [The Tolkien Experience](The_Tolkien_Experience.md).

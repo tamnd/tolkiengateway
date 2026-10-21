@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tom Kidd"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tom Kidd</span>"
 page_id: 74923
 namespace: 14
 revision_id: 440959
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kidd, Tom"
 ---
 
-This category lists all **images by [Tom Kidd](/wiki/Tom_Kidd)**.
+This category lists all **images by [Tom Kidd](../../main/T/Tom_Kidd.md)**.

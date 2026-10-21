@@ -1,6 +1,5 @@
 ---
 title: "Bryce Fitzsimons"
-display_title: "<span class=\"mw-page-title-main\">Bryce Fitzsimons</span>"
 page_id: 28151
 namespace: 0
 revision_id: 388854
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "Fitzsimons, Bryce"
 ---
 
-**Bryce O. Fitzsimons** is the designer of the video game *[The Hobbit](</wiki/The_Hobbit_(action_game)> "The Hobbit (action game)")*.
+**Bryce O. Fitzsimons** is the designer of the video game *[The Hobbit](<../T/The_Hobbit_(action_game).md>)*.

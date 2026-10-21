@@ -1,6 +1,5 @@
 ---
 title: "File:Reddit - Simple Icons.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Reddit - Simple Icons.svg</span>"
 page_id: 67691
 namespace: 6
 revision_id: 394711

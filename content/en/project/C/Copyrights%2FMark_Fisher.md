@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mark Fisher"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mark Fisher</span>"
 page_id: 40460
 namespace: 4
 revision_id: 252714
@@ -15,4 +14,4 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fisher, Mark"
 ---
 
-Mark Fisher <a class="external text" href="http://www.glyphweb.com/arda/faq/use.html" rel="noreferrer noopener" target="_blank">grants permission</a> to reuse his graphics provided that a link to the [Encyclopedia of Arda](/wiki/Encyclopedia_of_Arda) is given.
+Mark Fisher <a class="external text" href="http://www.glyphweb.com/arda/faq/use.html" rel="noreferrer noopener" target="_blank">grants permission</a> to reuse his graphics provided that a link to the [Encyclopedia of Arda](../../main/E/Encyclopedia_of_Arda.md) is given.

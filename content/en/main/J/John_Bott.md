@@ -1,6 +1,5 @@
 ---
 title: "John Bott"
-display_title: "<span class=\"mw-page-title-main\">John Bott</span>"
 page_id: 6879
 namespace: 0
 revision_id: 115762
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "Bott, John"
 ---
 
-**John Bott** voiced the part of [Farmer Maggot](/wiki/Farmer_Maggot) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on [BBC 4](/wiki/BBC "BBC").
+**John Bott** voiced the part of [Farmer Maggot](../F/Farmer_Maggot.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on [BBC 4](../B/BBC.md).

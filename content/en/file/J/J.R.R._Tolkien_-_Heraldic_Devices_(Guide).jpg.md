@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Heraldic Devices (Guide).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Heraldic Devices (Guide).jpg</span>"
 page_id: 5795
 namespace: 6
 revision_id: 334253
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This is a guide for [Heraldic Devices](/wiki/File:J.R.R._Tolkien_-_Heraldic_Devices.jpg "File:J.R.R. Tolkien - Heraldic Devices.jpg") as reproduced in *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* and *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)*.
+This is a guide for [Heraldic Devices](J.R.R._Tolkien_-_Heraldic_Devices.jpg.md) as reproduced in *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* and *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)*.
 
 ## Licensing {#Licensing}
 

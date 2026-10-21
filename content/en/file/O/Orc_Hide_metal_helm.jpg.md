@@ -1,6 +1,5 @@
 ---
 title: "File:Orc Hide metal helm.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orc Hide metal helm.jpg</span>"
 page_id: 5402
 namespace: 6
 revision_id: 191452

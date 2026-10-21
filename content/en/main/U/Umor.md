@@ -11,4 +11,4 @@ redirect_target: "Ómar"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Ómar](/wiki/Ómar#Etymology).
+Redirect to [Ómar](../_/Ómar.md#Etymology).

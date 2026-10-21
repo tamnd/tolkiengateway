@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:India"
 ---
 
-Redirect to [Category:India](/wiki/Category:India).
+Redirect to [Category:India](../../category/I/India.md).

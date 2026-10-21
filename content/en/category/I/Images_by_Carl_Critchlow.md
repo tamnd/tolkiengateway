@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Carl Critchlow"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Carl Critchlow</span>"
 page_id: 74868
 namespace: 14
 revision_id: 440543
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Critchlow, Carl"
 ---
 
-This category lists all **images by [Carl Critchlow](/wiki/Carl_Critchlow)**.
+This category lists all **images by [Carl Critchlow](../../main/C/Carl_Critchlow.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:Kay Woollard - Pippin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kay Woollard - Pippin.jpg</span>"
 page_id: 63588
 namespace: 6
 revision_id: 363164
@@ -27,13 +26,13 @@ file:
 
 ## Summary {#Summary}
 
-This is how Pippin looks at the beginning of *The Lord of the Rings*. In Minas Tirith, Bergil mistakes him for a child, even though he is already 29 y.o. and has already started growing larger after absorbing Ent-draught. Note the photographic effect. ©[Kay Woollard](/wiki/Kay_Woollard) and property of Denis Bridoux.
+This is how Pippin looks at the beginning of *The Lord of the Rings*. In Minas Tirith, Bergil mistakes him for a child, even though he is already 29 y.o. and has already started growing larger after absorbing Ent-draught. Note the photographic effect. ©[Kay Woollard](../../main/K/Kay_Woollard.md) and property of Denis Bridoux.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Denis Bridoux</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Denis_Bridoux" title="Denis Bridoux">Denis Bridoux</a></li>
+<ul><li><b>Name:</b> <a href="../../main/D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Denis_Bridoux" title="Tolkien Gateway:Copyrights/Denis Bridoux">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDenis_Bridoux.md" title="Tolkien Gateway:Copyrights/Denis Bridoux">Permission for use on Tolkien Gateway</a></b></li></ul></div>

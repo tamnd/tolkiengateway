@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Secrets of Middle-earth"
 ---
 
-Redirect to [The Secrets of Middle-earth](/wiki/The_Secrets_of_Middle-earth).
+Redirect to [The Secrets of Middle-earth](The_Secrets_of_Middle-earth.md).

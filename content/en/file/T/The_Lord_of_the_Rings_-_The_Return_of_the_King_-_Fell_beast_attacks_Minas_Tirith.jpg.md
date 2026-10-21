@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Fell beast attacks Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Fell beast attacks Minas Tirith.jpg</span>"
 page_id: 7442
 namespace: 6
 revision_id: 247167

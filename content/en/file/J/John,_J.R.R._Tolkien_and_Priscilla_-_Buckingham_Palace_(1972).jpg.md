@@ -1,6 +1,5 @@
 ---
 title: "File:John, J.R.R. Tolkien and Priscilla - Buckingham Palace (1972).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John, J.R.R. Tolkien and Priscilla - Buckingham Palace (1972).jpg</span>"
 page_id: 63056
 namespace: 6
 revision_id: 356760
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary_2}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) holding his C.B.E. outside Buckingham Palace with his son, [John](/wiki/John_Tolkien "John Tolkien") and daughter, [Priscilla](/wiki/Priscilla_Tolkien "Priscilla Tolkien"), March [1972](/wiki/1972).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) holding his C.B.E. outside Buckingham Palace with his son, [John](../../main/J/John_Tolkien.md) and daughter, [Priscilla](../../main/P/Priscilla_Tolkien.md), March [1972](../../main/_/1972.md).
 
 ## Licensing {#Licensing}
 

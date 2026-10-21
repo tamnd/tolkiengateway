@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Svirina Vera"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Svirina Vera</span>"
 page_id: 56432
 namespace: 4
 revision_id: 307177
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vera, Svirina"
 ---
 
-- Svirina Vera has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Svirina_Vera "Category:Images by Svirina Vera") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Svirina Vera has kindly granted her permission to use [her artwork](../../category/I/Images_by_Svirina_Vera.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 September 2019
-- User who sought the permission via DeviantArt: [LorenzoCB](/wiki/User:LorenzoCB "User:LorenzoCB")
+- User who sought the permission via DeviantArt: [LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB)

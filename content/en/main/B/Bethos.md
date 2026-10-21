@@ -11,4 +11,4 @@ redirect_target: "Handir"
 redirect_fragment: "The Book of Lost Tales"
 ---
 
-Redirect to [Handir](/wiki/Handir#The_Book_of_Lost_Tales).
+Redirect to [Handir](../H/Handir.md#The_Book_of_Lost_Tales).

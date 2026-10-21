@@ -1,6 +1,5 @@
 ---
 title: "File:Third Age - Total War - Factions.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Third Age - Total War - Factions.jpg</span>"
 page_id: 22395
 namespace: 6
 revision_id: 253114

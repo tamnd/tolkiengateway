@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Watchers"
 ---
 
-Redirect to [Two Watchers](/wiki/Two_Watchers).
+Redirect to [Two Watchers](../T/Two_Watchers.md).

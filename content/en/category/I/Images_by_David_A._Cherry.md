@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by David A. Cherry"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by David A. Cherry</span>"
 page_id: 74093
 namespace: 14
 revision_id: 437128
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Cherry, David Alan"
 ---
 
-This category lists all **images by [David A. Cherry](/wiki/David_A._Cherry)**.
+This category lists all **images by [David A. Cherry](../../main/D/David_A._Cherry.md)**.

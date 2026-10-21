@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Money"
 ---
 
-Redirect to [Money](/wiki/Money).
+Redirect to [Money](../M/Money.md).

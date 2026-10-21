@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Tree"
 ---
 
-Redirect to [Dark Tree](/wiki/Dark_Tree).
+Redirect to [Dark Tree](../D/Dark_Tree.md).

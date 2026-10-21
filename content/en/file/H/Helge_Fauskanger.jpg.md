@@ -1,6 +1,5 @@
 ---
 title: "File:Helge Fauskanger.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Helge Fauskanger.jpg</span>"
 page_id: 41034
 namespace: 6
 revision_id: 208747
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Helge Fauskanger](/wiki/Helge_Fauskanger).
+Photograph of [Helge Fauskanger](../../main/H/Helge_Fauskanger.md).
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Photograph of [Helge Fauskanger](/wiki/Helge_Fauskanger).
 </p>
 <ul><li><b>Name:</b> Helge Fauskanger</li>
 <li><b>Website:</b> <a class="external text" href="http://helgefauskanger.com/" rel="noreferrer noopener" target="_blank">Helge Fauskanger&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Helge_Fauskanger" title="Tolkien Gateway:Copyrights/Helge Fauskanger">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FHelge_Fauskanger.md" title="Tolkien Gateway:Copyrights/Helge Fauskanger">Permission for use on Tolkien Gateway</a></b></li></ul></div>

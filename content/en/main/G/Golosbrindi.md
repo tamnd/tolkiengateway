@@ -11,4 +11,4 @@ redirect_target: "Hírilorn"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Hírilorn](/wiki/Hírilorn#Etymology).
+Redirect to [Hírilorn](../H/Hírilorn.md#Etymology).

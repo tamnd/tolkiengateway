@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bent World"
 ---
 
-Redirect to [Bent World](/wiki/Bent_World).
+Redirect to [Bent World](Bent_World.md).

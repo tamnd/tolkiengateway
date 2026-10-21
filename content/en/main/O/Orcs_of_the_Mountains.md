@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of the Misty Mountains"
 ---
 
-Redirect to [Orcs of the Misty Mountains](/wiki/Orcs_of_the_Misty_Mountains).
+Redirect to [Orcs of the Misty Mountains](Orcs_of_the_Misty_Mountains.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Mauhúr - Relentless Hunter.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Mauhúr - Relentless Hunter.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Mauhúr_-_Relentless_Hunter.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Mauhúr - Relentless Hunter.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Mauhúr_-_Relentless_Hunter.jpg.md).

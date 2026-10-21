@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Lord Halsbury"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Lord Halsbury</span>"
 page_id: 68559
 namespace: 14
 revision_id: 404216
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Halsbury, Lord"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/Tony_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:Tony Giffard, 3rd Earl of Halsbury">Lord Halsbury</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/Tony_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:Tony Giffard, 3rd Earl of Halsbury">Lord Halsbury</a>.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gate of Wood"
 ---
 
-Redirect to [Gate of Wood](/wiki/Gate_of_Wood).
+Redirect to [Gate of Wood](../G/Gate_of_Wood.md).

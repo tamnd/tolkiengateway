@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Precious Edition.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Precious Edition.jpeg</span>"
 page_id: 64645
 namespace: 6
 revision_id: 371754
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The contents of the **Precious Edition**, also known as the **Special Edition**, of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The contents of the **Precious Edition**, also known as the **Special Edition**, of *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ The contents of the **Precious Edition**, also known as the **Special Edition**,
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1646847013508505600" rel="noreferrer noopener" target="_blank">&#34;Yes Precious, we have a Special Edition! 💍 💿 The Full Game 🖼️ The Art Exhibition Application 📜 The Lore Compendium 🎼 A 45-min OST 📣 Sindarin Voice Acting Pre-order and get the Emotes Pack DLC, which includes 6 of Gollum’s iconic gestures and sayings.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1646847013508505600" rel="noreferrer noopener" target="_blank">&#34;Yes Precious, we have a Special Edition! 💍 💿 The Full Game 🖼️ The Art Exhibition Application 📜 The Lore Compendium 🎼 A 45-min OST 📣 Sindarin Voice Acting Pre-order and get the Emotes Pack DLC, which includes 6 of Gollum’s iconic gestures and sayings.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

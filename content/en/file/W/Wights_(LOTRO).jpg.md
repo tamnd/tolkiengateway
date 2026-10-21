@@ -1,6 +1,5 @@
 ---
 title: "File:Wights (LOTRO).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wights (LOTRO).jpg</span>"
 page_id: 30855
 namespace: 6
 revision_id: 198317

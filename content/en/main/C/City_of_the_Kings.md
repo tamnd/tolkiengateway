@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "City of the Kings (disambiguation)"
 ---
 
-Redirect to [City of the Kings (disambiguation)](/wiki/City_of_the_Kings_(disambiguation)).
+Redirect to [City of the Kings (disambiguation)](<City_of_the_Kings_(disambiguation).md>).

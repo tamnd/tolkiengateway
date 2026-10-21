@@ -14,16 +14,16 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>nelya</b></i> is a [Quenya](/wiki/Quenya) adjective which means "third". Its plural form is *nelyë*.
+<i><b>nelya</b></i> is a [Quenya](../Q/Quenya.md) adjective which means "third". Its plural form is *nelyë*.
 
-As a proper noun, it describes one of the [Nelyar](/wiki/Nelyar)—those original [Elves](/wiki/Elves) that later became the [Teleri](/wiki/Teleri) after they began the [Great March](/wiki/Great_March).
+As a proper noun, it describes one of the [Nelyar](Nelyar.md)—those original [Elves](../E/Elves.md) that later became the [Teleri](../T/Teleri.md) after they began the [Great March](../G/Great_March.md).
 
 ## Examples {#Examples}
 
-- [Nelyafinwë](/wiki/Nelyafinw%C3%AB) = Third Finwë
+- [Nelyafinwë](Nelyafinwë.md) = Third Finwë
 
 <span></span>
 
 ## References {#References}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> compiled by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> compiled by [Helge Fauskanger](../H/Helge_Fauskanger.md)

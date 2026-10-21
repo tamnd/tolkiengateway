@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Dora Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Dora Baggins.jpg</span>"
 page_id: 29922
 namespace: 6
 revision_id: 203318
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dora Baggins](/wiki/Dora_Baggins), by [Liz Danforth](/wiki/Liz_Danforth). From [Lords of Middle-earth: Vol. III](/wiki/Lords_of_Middle-earth:_Vol._III).
+[Dora Baggins](../../main/D/Dora_Baggins.md), by [Liz Danforth](../../main/L/Liz_Danforth.md). From [Lords of Middle-earth: Vol. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md).
 
 ## Licensing {#Licensing}
 

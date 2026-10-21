@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (comic book)"
 ---
 
-Redirect to [The Hobbit (comic book)](/wiki/The_Hobbit_(comic_book)).
+Redirect to [The Hobbit (comic book)](<The_Hobbit_(comic_book).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Robert Burchfield (6 November 1954)"
 ---
 
-Redirect to [Letter to Robert Burchfield (6 November 1954)](/wiki/Letter_to_Robert_Burchfield_(6_November_1954)).
+Redirect to [Letter to Robert Burchfield (6 November 1954)](<../L/Letter_to_Robert_Burchfield_(6_November_1954).md>).

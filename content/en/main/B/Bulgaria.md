@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Bulgaria"
 ---
 
-Redirect to [Category:Bulgaria](/wiki/Category:Bulgaria).
+Redirect to [Category:Bulgaria](../../category/B/Bulgaria.md).

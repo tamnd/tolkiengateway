@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The First 'Silmarillion' Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The First &#039;Silmarillion&#039; Map.jpg</span>"
 page_id: 56383
 namespace: 6
 revision_id: 384632
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-Central part of [The First 'Silmarillion' Map (map)](</wiki/The_First_%27Silmarillion%27_Map_(map)>).
+Central part of [The First 'Silmarillion' Map (map)](<../../main/T/The_First_'Silmarillion'_Map_(map).md>).
 
 ## Licensing {#Licensing}
 

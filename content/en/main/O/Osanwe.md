@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ósanwë"
 ---
 
-Redirect to [Ósanwë](/wiki/Ósanwë).
+Redirect to [Ósanwë](../_/Ósanwë.md).

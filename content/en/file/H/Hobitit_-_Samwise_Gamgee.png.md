@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - Samwise Gamgee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - Samwise Gamgee.png</span>"
 page_id: 56395
 namespace: 6
 revision_id: 307584
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) from *[Hobitit](/wiki/Hobitit)*.
+[Samwise Gamgee](../../main/S/Samwise_Gamgee.md) from *[Hobitit](../../main/H/Hobitit.md)*.
 
 ## Licensing {#Licensing}
 

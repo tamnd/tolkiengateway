@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Míriel (disambiguation)"
 ---
 
-Redirect to [Míriel (disambiguation)](/wiki/Míriel_(disambiguation)).
+Redirect to [Míriel (disambiguation)](<Míriel_(disambiguation).md>).

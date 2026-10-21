@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jenny Dolfen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jenny Dolfen</span>"
 page_id: 8076
 namespace: 14
 revision_id: 192298
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Dolfen, Jenny"
 ---
 
-This category lists all **images by [Jenny Dolfen](/wiki/Jenny_Dolfen)**.
+This category lists all **images by [Jenny Dolfen](../../main/J/Jenny_Dolfen.md)**.

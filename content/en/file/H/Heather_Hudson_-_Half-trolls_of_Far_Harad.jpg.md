@@ -1,6 +1,5 @@
 ---
 title: "File:Heather Hudson - Half-trolls of Far Harad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heather Hudson - Half-trolls of Far Harad.jpg</span>"
 page_id: 74994
 namespace: 6
 revision_id: 441621
@@ -36,17 +35,15 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Heather Hudson - Half-trolls of Far Harad.jpg</span></th>
 <td class="description">
 <p><i>Half-trolls of Far Harad</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Heather Hudson</td>
@@ -55,7 +52,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.comicartfans.com/gallerypiece.asp?piece=1883808" rel="noreferrer noopener" target="_blank">Comic Art Fans</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

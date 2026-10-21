@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Grange"
 ---
 
-Redirect to [Old Grange](/wiki/Old_Grange).
+Redirect to [Old Grange](../O/Old_Grange.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (film series)"
 ---
 
-Redirect to [The Lord of the Rings (film series)](/wiki/The_Lord_of_the_Rings_(film_series)).
+Redirect to [The Lord of the Rings (film series)](<The_Lord_of_the_Rings_(film_series).md>).

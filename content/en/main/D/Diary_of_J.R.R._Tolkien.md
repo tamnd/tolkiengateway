@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's diaries"
 ---
 
-Redirect to [J.R.R. Tolkien's diaries](/wiki/J.R.R._Tolkien's_diaries).
+Redirect to [J.R.R. Tolkien's diaries](../J/J.R.R._Tolkien's_diaries.md).

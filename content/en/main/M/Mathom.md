@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mathoms"
 ---
 
-Redirect to [Mathoms](/wiki/Mathoms).
+Redirect to [Mathoms](Mathoms.md).

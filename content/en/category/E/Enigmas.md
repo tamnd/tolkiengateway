@@ -1,6 +1,5 @@
 ---
 title: "Category:Enigmas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Enigmas</span>"
 page_id: 50632
 namespace: 14
 revision_id: 288640

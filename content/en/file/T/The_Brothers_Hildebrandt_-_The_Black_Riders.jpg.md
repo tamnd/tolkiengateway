@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Black Riders.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Black Riders.jpg</span>"
 page_id: 71582
 namespace: 6
 revision_id: 426802
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Black Riders](/wiki/Nazg%C3%BBl "Nazgûl")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the <a class="new" href="/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a>
+"[The Black Riders](../../main/N/Nazgûl.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a>
 
 ## Licensing {#Licensing}
 

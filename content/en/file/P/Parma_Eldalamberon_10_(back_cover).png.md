@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 10 (back cover).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 10 (back cover).png</span>"
 page_id: 62547
 namespace: 6
 revision_id: 376844
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Nuin](/wiki/Nuin), Father of Speech" by [Tom Loback](/wiki/Tom_Loback). Art for the back cover of *[Parma Eldalamberon 10](/wiki/Parma_Eldalamberon_10)*.
+"[Nuin](../../main/N/Nuin.md), Father of Speech" by [Tom Loback](../../main/T/Tom_Loback.md). Art for the back cover of *[Parma Eldalamberon 10](../../main/P/Parma_Eldalamberon_10.md)*.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Anar (dwarf)"
 ---
 
-Redirect to [Category:Images of Anar (dwarf)](/wiki/Category:Images_of_Anar_(dwarf)).
+Redirect to [Category:Images of Anar (dwarf)](<Images_of_Anar_(dwarf).md>).

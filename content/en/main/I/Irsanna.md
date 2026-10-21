@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Irsanna"
 ---
 
-Redirect to [Category:Images by Irsanna](/wiki/Category:Images_by_Irsanna).
+Redirect to [Category:Images by Irsanna](../../category/I/Images_by_Irsanna.md).

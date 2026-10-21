@@ -1,6 +1,5 @@
 ---
 title: "File:Father Christmas 2023.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Father Christmas 2023.jpeg</span>"
 page_id: 65365
 namespace: 6
 revision_id: 388908

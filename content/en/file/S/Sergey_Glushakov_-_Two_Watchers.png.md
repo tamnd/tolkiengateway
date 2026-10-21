@@ -1,6 +1,5 @@
 ---
 title: "File:Sergey Glushakov - Two Watchers.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sergey Glushakov - Two Watchers.png</span>"
 page_id: 72021
 namespace: 6
 revision_id: 428596
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Two Watchers](/wiki/Two_Watchers) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Tower of Cirith Ungol* illustration by Sergey Glushakov (dinodrawing)
+[Two Watchers](../../main/T/Two_Watchers.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Tower of Cirith Ungol* illustration by Sergey Glushakov (dinodrawing)
 
 ## Licensing {#Licensing}
 

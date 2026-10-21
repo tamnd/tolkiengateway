@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Adam McDaniel"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Adam McDaniel</span>"
 page_id: 14652
 namespace: 14
 revision_id: 181918

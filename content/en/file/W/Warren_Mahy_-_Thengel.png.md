@@ -1,6 +1,5 @@
 ---
 title: "File:Warren Mahy - Thengel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warren Mahy - Thengel.png</span>"
 page_id: 30031
 namespace: 6
 revision_id: 224369
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-[Thengel](/wiki/Thengel), by [Warren Mahy](/wiki/Warren_Mahy). From [Isengard (LOTRRPG)](</wiki/Isengard_(LOTRRPG)>).
+[Thengel](../../main/T/Thengel.md), by [Warren Mahy](../../main/W/Warren_Mahy.md). From [Isengard (LOTRRPG)](<../../main/I/Isengard_(LOTRRPG).md>).
 
-Note that the events in the scenario, and to some degree in the image, differ from the accounts in [Appendix A](/wiki/Appendix_A) and [B](/wiki/Appendix_B "Appendix B"). In the scenario, [Théoden](/wiki/Th%C3%A9oden) is born in [Rohan](/wiki/Rohan) during [Thengel](/wiki/Thengel)'s reign, and [Saruman](/wiki/Saruman) is (albeit uninvited) present at the "christening". In the books, Théoden was born in [Gondor](/wiki/Gondor), during [Fengel](/wiki/Fengel)'s reign, and no birth ritual similar to a christening has ever been documented.
+Note that the events in the scenario, and to some degree in the image, differ from the accounts in [Appendix A](../../main/A/Appendix_A.md) and [B](../../main/A/Appendix_B.md). In the scenario, [Théoden](../../main/T/Théoden.md) is born in [Rohan](../../main/R/Rohan.md) during [Thengel](../../main/T/Thengel.md)'s reign, and [Saruman](../../main/S/Saruman.md) is (albeit uninvited) present at the "christening". In the books, Théoden was born in [Gondor](../../main/G/Gondor.md), during [Fengel](../../main/F/Fengel.md)'s reign, and no birth ritual similar to a christening has ever been documented.
 
 ## Licensing {#Licensing}
 

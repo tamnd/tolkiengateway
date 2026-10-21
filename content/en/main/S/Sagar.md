@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christopher Anderson"
 ---
 
-Redirect to [Christopher Anderson](/wiki/Christopher_Anderson).
+Redirect to [Christopher Anderson](../C/Christopher_Anderson.md).

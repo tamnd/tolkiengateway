@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Dwarves Delve Too Deep.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - The Dwarves Delve Too Deep.jpg](/wiki/File:Ted_Nasmith_-_The_Dwarves_Delve_Too_Deep.jpg).
+Redirect to [File:Ted Nasmith - The Dwarves Delve Too Deep.jpg](Ted_Nasmith_-_The_Dwarves_Delve_Too_Deep.jpg.md).

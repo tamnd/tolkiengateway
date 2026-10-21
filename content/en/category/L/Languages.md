@@ -1,6 +1,5 @@
 ---
 title: "Category:Languages"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Languages</span>"
 page_id: 2612
 namespace: 14
 revision_id: 115564
@@ -13,6 +12,6 @@ categories:
   - "Linguistics"
 ---
 
-<dl><dd><i>For languages, and related topics, found in the real-world, see <a href="/wiki/Category:Languages_(real-world)" title="Category:Languages (real-world)">Category:Languages (real-world)</a>.</i></dd></dl>
+<dl><dd><i>For languages, and related topics, found in the real-world, see <a href="Languages_(real-world).md" title="Category:Languages (real-world)">Category:Languages (real-world)</a>.</i></dd></dl>
 
-Languages spoken in [Arda](/wiki/Arda).
+Languages spoken in [Arda](../../main/A/Arda.md).

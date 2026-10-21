@@ -1,6 +1,5 @@
 ---
 title: "Drúedain of Beleriand"
-display_title: "<span class=\"mw-page-title-main\">Drúedain of Beleriand</span>"
 page_id: 1462
 namespace: 0
 revision_id: 421242
@@ -26,17 +25,17 @@ langlinks:
     url: "https://kontu.wiki/Dr%C3%BAedain"
 ---
 
-The **Drúedain of Beleriand** were those [Drúedain](/wiki/Dr%C3%BAedain) who followed the ancestors of the [Haladin](/wiki/Haladin) from the [White Mountains](/wiki/White_Mountains) to the <a class="mw-redirect mw-disambig" href="/wiki/West" title="West">West</a> and reached [Beleriand](/wiki/Beleriand). There they lived and fought as allies of the [Edain](/wiki/Edain) during the late [First Age](/wiki/First_Age). Some, like [Aghan](/wiki/Aghan), lived in the region of the [Forest of Brethil](/wiki/Forest_of_Brethil).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Drúedain of Beleriand** were those [Drúedain](Drúedain.md) who followed the ancestors of the [Haladin](../H/Haladin.md) from the [White Mountains](../W/White_Mountains.md) to the <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">West</a> and reached [Beleriand](../B/Beleriand.md). There they lived and fought as allies of the [Edain](../E/Edain.md) during the late [First Age](../F/First_Age.md). Some, like [Aghan](../A/Aghan.md), lived in the region of the [Forest of Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Like the Edain, those who survived the [War of Wrath](/wiki/War_of_Wrath) removed to [Elenna](/wiki/Elenna).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Like the Edain, those who survived the [War of Wrath](../W/War_of_Wrath.md) removed to [Elenna](../E/Elenna.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Dr%C3%BAedain" title="The Drúedain">The Drúedain</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Drúedain.md" title="The Drúedain">The Drúedain</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Dr%C3%BAedain" title="The Drúedain">The Drúedain</a>&#34;, Note 7</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Drúedain.md" title="The Drúedain">The Drúedain</a>&#34;, Note 7</span>
 </li>
 </ol></div>

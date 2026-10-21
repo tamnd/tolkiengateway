@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nornorë"
 ---
 
-Redirect to [Nornorë](/wiki/Nornorë).
+Redirect to [Nornorë](../N/Nornorë.md).

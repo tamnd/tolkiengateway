@@ -1,6 +1,5 @@
 ---
 title: "Letter to Royston F. Porthouse"
-display_title: "<span class=\"mw-page-title-main\">Letter to Royston F. Porthouse</span>"
 page_id: 44571
 namespace: 0
 revision_id: 247768
@@ -17,11 +16,11 @@ images:
   - "Royston_F._Porthouse_1_June_1966.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Royston_F._Porthouse_1_June_1966.jpg"><img src="/w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/300px-Royston_F._Porthouse_1_June_1966.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="/w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/450px-Royston_F._Porthouse_1_June_1966.jpg 1.5x, /w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/600px-Royston_F._Porthouse_1_June_1966.jpg 2x" data-file-width="999" data-file-height="1275"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Royston_F._Porthouse_1_June_1966.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/300px-Royston_F._Porthouse_1_June_1966.jpg" decoding="async" loading="lazy" width="300" height="383" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/450px-Royston_F._Porthouse_1_June_1966.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Royston_F._Porthouse_1_June_1966.jpg/600px-Royston_F._Porthouse_1_June_1966.jpg 2x" data-file-width="999" data-file-height="1275"/></a><figcaption></figcaption></figure>
 
-On [1 June](/wiki/1_June) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to Royston F. Porthouse**, a reader in Australia.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [1 June](../_/1_June.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to Royston F. Porthouse**, a reader in Australia.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** Replying to a letter of appreciation, Tolkien says "I am always pleased to hear from people who have read and enjoyed my books", and adds in a postscript: "My next book will be called *[The Silmarillion](/wiki/The_Silmarillion)*. It is about the [First](/wiki/First_Age "First Age") and [Second](/wiki/Second_Age "Second Age") Ages."
+- **Subject:** Replying to a letter of appreciation, Tolkien says "I am always pleased to hear from people who have read and enjoyed my books", and adds in a postscript: "My next book will be called *[The Silmarillion](../T/The_Silmarillion.md)*. It is about the [First](../F/First_Age.md) and [Second](../S/Second_Age.md) Ages."
 - **Description:** Typed letter, signed. Size: 5.5" x 7".
 
 <span></span>
@@ -29,6 +28,6 @@ On [1 June](/wiki/1_June) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolk
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.manhattanrarebooks.com/pages/books/737/j-r-r-tolkien/typed-letter-signed" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien: Typed Letter Signed&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.manhattanrarebooks.com/" rel="noreferrer noopener" target="_blank">Manhattanrarebooks.com</a></span>. <span class="cite-web-accessed">Retrieved 18 October 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.manhattanrarebooks.com/pages/books/737/j-r-r-tolkien/typed-letter-signed" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien: Typed Letter Signed&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.manhattanrarebooks.com/" rel="noreferrer noopener" target="_blank">Manhattanrarebooks.com</a></span>. <span class="cite-web-accessed">Retrieved 18 October 2013</span></cite></span>
 </li>
 </ol></div>

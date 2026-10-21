@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anca"
 ---
 
-Redirect to [Anca](/wiki/Anca).
+Redirect to [Anca](Anca.md).

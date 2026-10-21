@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Romain - Fountain Guard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Romain - Fountain Guard.png</span>"
 page_id: 70249
 namespace: 6
 revision_id: 417853
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tom Romain</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/tomromain1" rel="noreferrer noopener" target="_blank">Tom Romain&#39;s ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tom_Romain" title="Tolkien Gateway:Copyrights/Tom Romain">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTom_Romain.md" title="Tolkien Gateway:Copyrights/Tom Romain">Permission for use on Tolkien Gateway</a></b></li></ul></div>

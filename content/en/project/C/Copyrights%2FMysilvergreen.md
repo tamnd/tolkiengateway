@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mysilvergreen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mysilvergreen</span>"
 page_id: 53749
 namespace: 4
 revision_id: 292537
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mysilvergreen"
 ---
 
-- Mysilvergreen has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Mysilvergreen "Category:Images by Mysilvergreen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Mysilvergreen has kindly granted her permission to use [her artwork](../../category/I/Images_by_Mysilvergreen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 February 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

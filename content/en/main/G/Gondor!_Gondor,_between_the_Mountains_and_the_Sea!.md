@@ -1,6 +1,5 @@
 ---
 title: "Gondor! Gondor, between the Mountains and the Sea!"
-display_title: "<span class=\"mw-page-title-main\">Gondor! Gondor, between the Mountains and the Sea!</span>"
 page_id: 52808
 namespace: 0
 revision_id: 405693
@@ -18,15 +17,15 @@ langlinks:
     url: "https://kontu.wiki/Gondor!_Gondor,_v%C3%A4lill%C3%A4_olet_meren,_vuorien!"
 ---
 
-"**Gondor! Gondor, between the Mountains and the Sea!**" is a poem spoken by [Aragorn](/wiki/Aragorn) to [Legolas](/wiki/Legolas) and [Gimli](/wiki/Gimli) during their pursuit of the [Uruk-hai](/wiki/Uruk-hai) in "[The Riders of Rohan](/wiki/The_Riders_of_Rohan)" upon seeing the [White Mountains](/wiki/White_Mountains) to the south.
+"**Gondor! Gondor, between the Mountains and the Sea!**" is a poem spoken by [Aragorn](../A/Aragorn.md) to [Legolas](../L/Legolas.md) and [Gimli](Gimli.md) during their pursuit of the [Uruk-hai](../U/Uruk-hai.md) in "[The Riders of Rohan](../T/The_Riders_of_Rohan.md)" upon seeing the [White Mountains](../W/White_Mountains.md) to the south.
 
 ## Text {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><a href="/wiki/Gondor" title="Gondor">Gondor</a>! Gondor, between the Mountains and the <a href="/wiki/Belegaer" title="Belegaer">Sea</a>!<br/>
-West Wind blew there; the light upon the <a href="/wiki/White_Tree_of_Gondor" title="White Tree of Gondor">Silver Tree</a><br/>
-Fell like bright rain in gardens of the <a class="mw-redirect" href="/wiki/Kings_of_Gondor" title="Kings of Gondor">Kings</a> of old.<br/>
-O proud walls! White towers! O <a href="/wiki/Crown_of_Gondor" title="Crown of Gondor">wingéd crown</a> and throne of gold!<br/>
+<p><a href="Gondor.md" title="Gondor">Gondor</a>! Gondor, between the Mountains and the <a href="../B/Belegaer.md" title="Belegaer">Sea</a>!<br/>
+West Wind blew there; the light upon the <a href="../W/White_Tree_of_Gondor.md" title="White Tree of Gondor">Silver Tree</a><br/>
+Fell like bright rain in gardens of the <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Kings</a> of old.<br/>
+O proud walls! White towers! O <a href="../C/Crown_of_Gondor.md" title="Crown of Gondor">wingéd crown</a> and throne of gold!<br/>
 O Gondor, Gondor! Shall Men behold the Silver Tree,<br/>
 Or West Wind blow again between the Mountains and the Sea?
 </p>
@@ -34,4 +33,4 @@ Or West Wind blow again between the Mountains and the Sea?
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)

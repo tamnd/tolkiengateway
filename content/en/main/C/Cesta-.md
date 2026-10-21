@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kesta"
 ---
 
-Redirect to [Kesta](/wiki/Kesta).
+Redirect to [Kesta](../K/Kesta.md).

@@ -1,6 +1,5 @@
 ---
 title: "Maelstrom Games Ltd."
-display_title: "<span class=\"mw-page-title-main\">Maelstrom Games Ltd.</span>"
 page_id: 27615
 namespace: 0
 revision_id: 190120
@@ -15,4 +14,4 @@ categories:
   - "Video Game publishers"
 ---
 
-**Maelstrom Games Ltd.** was one of the companies that developed [War in Middle Earth](/wiki/War_in_Middle_Earth).
+**Maelstrom Games Ltd.** was one of the companies that developed [War in Middle Earth](../W/War_in_Middle_Earth.md).

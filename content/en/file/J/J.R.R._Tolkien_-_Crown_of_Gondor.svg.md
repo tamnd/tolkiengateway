@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Crown of Gondor.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Crown of Gondor.svg</span>"
 page_id: 28457
 namespace: 6
 revision_id: 205191
@@ -27,16 +26,14 @@ file:
 
 ## Summary {#Summary}
 
-A sketch by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) of the [Crown of Gondor](/wiki/Crown_of_Gondor), accompanying a description in [Letter 211](/wiki/Letter_211):
+A sketch by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) of the [Crown of Gondor](../../main/C/Crown_of_Gondor.md), accompanying a description in [Letter 211](../../main/L/Letter_211.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think the crown of Gondor (the S. Kingdom) was very tall, like that of Egypt, but with wings attached, not set straight back but at an angle.
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
-Source: Vector reproduction of a sketch in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien); [Humphrey Carpenter](/wiki/Humphrey_Carpenter), [Christopher Tolkien](/wiki/Christopher_Tolkien) (eds.), *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*, [Letter 211](/wiki/Letter_211), (dated [14 October](/wiki/14_October) [1958](/wiki/1958)). Self-made.
+Source: Vector reproduction of a sketch in [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md); [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md), [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)*, [Letter 211](../../main/L/Letter_211.md), (dated [14 October](../../main/_/14_October.md) [1958](../../main/_/1958.md)). Self-made.
 
 ## Licensing {#Licensing}
 

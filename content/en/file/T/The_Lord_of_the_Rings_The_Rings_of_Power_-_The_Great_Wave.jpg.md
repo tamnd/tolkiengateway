@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power - The Great Wave.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power - The Great Wave.jpg</span>"
 page_id: 63804
 namespace: 6
 revision_id: 415353
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art for the soundtrack of the fourth episode of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series, "[The Great Wave](/wiki/The_Great_Wave)".
+Cover art for the soundtrack of the fourth episode of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series, "[The Great Wave](../../main/T/The_Great_Wave.md)".
 
 ## Licensing {#Licensing}
 

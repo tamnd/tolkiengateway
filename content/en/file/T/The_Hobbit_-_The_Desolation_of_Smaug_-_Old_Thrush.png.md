@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Old Thrush.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Old Thrush.png</span>"
 page_id: 72326
 namespace: 6
 revision_id: 429837
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Old Thrush](/wiki/Old_Thrush "Old Thrush") - *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*
+[The Old Thrush](../../main/O/Old_Thrush.md) - *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
 
 ## Licensing {#Licensing}
 

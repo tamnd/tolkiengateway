@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kíli"
 ---
 
-Redirect to [Kíli](/wiki/Kíli).
+Redirect to [Kíli](Kíli.md).

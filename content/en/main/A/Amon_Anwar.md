@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halifirien"
 ---
 
-Redirect to [Halifirien](/wiki/Halifirien).
+Redirect to [Halifirien](../H/Halifirien.md).

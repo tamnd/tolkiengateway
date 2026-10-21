@@ -1,6 +1,5 @@
 ---
 title: "Brandir (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Brandir (disambiguation)</span>"
 page_id: 1567
 namespace: 0
 revision_id: 427155
@@ -26,16 +25,16 @@ images:
 
 **Brandir** may refer to the following:
 
-- [Brandir (son of Arachon)](</wiki/Brandir_(son_of_Arachon)>) (born [F.A.](/wiki/First_Age "First Age") [409](/wiki/First_Age_409 "First Age 409")), son of [Arachon](/wiki/Arachon) and [Bregil](/wiki/Bregil), and uncle of Brandir the Lame.
-- **[Brandir the Lame](/wiki/Brandir "Brandir") ([F.A.](/wiki/First_Age "First Age") [465](/wiki/First_Age_465 "First Age 465") - [499](/wiki/First_Age_499 "First Age 499")), Lord of the [Haladin](/wiki/House_of_Haleth "House of Haleth") who was killed by [Túrin Turambar](/wiki/T%C3%BArin "Túrin").**
-    - [Ephel Brandir](/wiki/Ephel_Brandir), the settlement of Brandir the Lame upon [Amon Obel](/wiki/Amon_Obel).
-- [Tol Brandir](/wiki/Tol_Brandir), the pinnacle in the middle of the [Anduin](/wiki/Anduin) at the [Falls of Rauros](/wiki/Rauros "Rauros"), lying in between [Amon Hen](/wiki/Amon_Hen) and [Amon Lhaw](/wiki/Amon_Lhaw).
+- [Brandir (son of Arachon)](<Brandir_(son_of_Arachon).md>) (born [F.A.](../F/First_Age.md) [409](../F/First_Age_409.md)), son of [Arachon](../A/Arachon.md) and [Bregil](Bregil.md), and uncle of Brandir the Lame.
+- **[Brandir the Lame](Brandir.md) ([F.A.](../F/First_Age.md) [465](../F/First_Age_465.md) - [499](../F/First_Age_499.md)), Lord of the [Haladin](../H/House_of_Haleth.md) who was killed by [Túrin Turambar](../T/Túrin.md).**
+    - [Ephel Brandir](../E/Ephel_Brandir.md), the settlement of Brandir the Lame upon [Amon Obel](../A/Amon_Obel.md).
+- [Tol Brandir](../T/Tol_Brandir.md), the pinnacle in the middle of the [Anduin](../A/Anduin.md) at the [Falls of Rauros](../R/Rauros.md), lying in between [Amon Hen](../A/Amon_Hen.md) and [Amon Lhaw](../A/Amon_Lhaw.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Brandir_(disambiguation)" title="Special:WhatLinksHere/:Brandir (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Brandir_(disambiguation)" title="Special:WhatLinksHere/:Brandir (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

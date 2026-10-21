@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Serena Malyon"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Serena Malyon</span>"
 page_id: 74597
 namespace: 14
 revision_id: 439106
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Malyon, Serena"
 ---
 
-This category lists all **images by [Serena Malyon](/wiki/Serena_Malyon)**.
+This category lists all **images by [Serena Malyon](../../main/S/Serena_Malyon.md)**.

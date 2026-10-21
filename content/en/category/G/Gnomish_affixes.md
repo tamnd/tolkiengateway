@@ -1,6 +1,5 @@
 ---
 title: "Category:Gnomish affixes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gnomish affixes</span>"
 page_id: 34584
 namespace: 14
 revision_id: 220083

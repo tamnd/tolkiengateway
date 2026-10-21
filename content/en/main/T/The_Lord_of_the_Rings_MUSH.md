@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings MUSH (1993 video game)"
 ---
 
-Redirect to [The Lord of the Rings MUSH (1993 video game)](/wiki/The_Lord_of_the_Rings_MUSH_(1993_video_game)).
+Redirect to [The Lord of the Rings MUSH (1993 video game)](<The_Lord_of_the_Rings_MUSH_(1993_video_game).md>).

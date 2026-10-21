@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers of the North"
 ---
 
-Redirect to [Rangers of the North](/wiki/Rangers_of_the_North).
+Redirect to [Rangers of the North](Rangers_of_the_North.md).

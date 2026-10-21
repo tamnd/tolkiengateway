@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rían (disambiguation)"
 ---
 
-Redirect to [Rían (disambiguation)](/wiki/Rían_(disambiguation)).
+Redirect to [Rían (disambiguation)](<Rían_(disambiguation).md>).

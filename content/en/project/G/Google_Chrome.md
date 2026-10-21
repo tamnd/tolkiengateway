@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Google Chrome"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Google Chrome</span>"
 page_id: 65272
 namespace: 4
 revision_id: 377122
@@ -15,7 +14,7 @@ sort_keys:
   "Tolkien Gateway": "Google Chrome"
 ---
 
-This article contains **Google Chrome** extensions and settings that may be helpful for visitors of [Tolkien Gateway](/wiki/Tolkien_Gateway). Unfortunately these settings and extensions are not supported on mobile devices. If you have any technical questions, feel free to stop by our [chat](/wiki/Tolkien_Gateway:Chat "Tolkien Gateway:Chat") and someone can assist you.
+This article contains **Google Chrome** extensions and settings that may be helpful for visitors of [Tolkien Gateway](../../main/T/Tolkien_Gateway.md). Unfortunately these settings and extensions are not supported on mobile devices. If you have any technical questions, feel free to stop by our [chat](../C/Chat.md) and someone can assist you.
 
 ## Official Tolkien Gateway Extension {#Official_Tolkien_Gateway_Extension}
 
@@ -24,14 +23,14 @@ This article contains **Google Chrome** extensions and settings that may be help
 ### Features {#Features}
 
 - Highlight any keyword on any website, right click and select "Search in Tolkien Gateway" to immediately be taken to the respective article.
-- Curious what chapter and paragraph a particular quote comes from? Simply highlight any quote from Tolkien's works, right click, and select "Lookup Tolkien Reference" to be directed to the reference on the [Digital Tolkien Project](/wiki/Digital_Tolkien_Project).
+- Curious what chapter and paragraph a particular quote comes from? Simply highlight any quote from Tolkien's works, right click, and select "Lookup Tolkien Reference" to be directed to the reference on the [Digital Tolkien Project](../../main/D/Digital_Tolkien_Project.md).
 - Optionally, you can choose to hide LotR Fandom results from Google, or simply redirect LotR Fandom's articles to the relevant article on Tolkien Gateway.
 
 **Coming Soon**
 
 - The ability to type "Aule" or any Tolkien term which needs accents, and the extension will automatically convert it to "Aulë" to eliminate the need for Alt Codes.
 - Search Tolkien Gateway directly from the extension, or from the browser address bar.
-- Suggestions? Feel free to add them to this <a class="new" href="/w/index.php?title=Tolkien_Gateway_talk:Google_Chrome&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:Google Chrome (page does not exist)">talk page</a>.
+- Suggestions? Feel free to add them to this <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway_talk:Google_Chrome&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:Google Chrome (page does not exist)">talk page</a>.
 
 ## Add Tolkien Gateway as a Bookmark {#Add_Tolkien_Gateway_as_a_Bookmark}
 

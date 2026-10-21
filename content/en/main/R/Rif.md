@@ -11,4 +11,4 @@ redirect_target: "Skinbark"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Skinbark](/wiki/Skinbark#Etymology).
+Redirect to [Skinbark](../S/Skinbark.md#Etymology).

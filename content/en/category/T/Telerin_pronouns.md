@@ -1,6 +1,5 @@
 ---
 title: "Category:Telerin pronouns"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Telerin pronouns</span>"
 page_id: 35011
 namespace: 14
 revision_id: 219802

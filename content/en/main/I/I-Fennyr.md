@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanturi"
 ---
 
-Redirect to [Fëanturi](/wiki/Fëanturi).
+Redirect to [Fëanturi](../F/Fëanturi.md).

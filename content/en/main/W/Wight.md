@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wights"
 ---
 
-Redirect to [Wights](/wiki/Wights).
+Redirect to [Wights](Wights.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Gates"
 ---
 
-Redirect to [Great Gates](/wiki/Great_Gates).
+Redirect to [Great Gates](../G/Great_Gates.md).

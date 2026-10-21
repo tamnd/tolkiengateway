@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Christopher Tolkien Centenary Set 1.png"
 ---
 
-Redirect to [File:Christopher Tolkien Centenary Set 1.png](/wiki/File:Christopher_Tolkien_Centenary_Set_1.png).
+Redirect to [File:Christopher Tolkien Centenary Set 1.png](../C/Christopher_Tolkien_Centenary_Set_1.png.md).

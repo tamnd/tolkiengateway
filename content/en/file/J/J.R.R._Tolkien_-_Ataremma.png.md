@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Ataremma.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ataremma.png</span>"
 page_id: 56189
 namespace: 6
 revision_id: 310493
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's manuscript of the final Quenya translation of the [Pater Noster](/wiki/Ataremma "Ataremma").
+Tolkien's manuscript of the final Quenya translation of the [Pater Noster](../../main/A/Ataremma.md).
 
 ## Licensing {#Licensing}
 

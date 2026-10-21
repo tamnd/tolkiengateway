@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rosamunda Took"
 ---
 
-Redirect to [Rosamunda Took](/wiki/Rosamunda_Took).
+Redirect to [Rosamunda Took](Rosamunda_Took.md).

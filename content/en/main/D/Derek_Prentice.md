@@ -1,6 +1,5 @@
 ---
 title: "Derek Prentice"
-display_title: "<span class=\"mw-page-title-main\">Derek Prentice</span>"
 page_id: 30652
 namespace: 0
 revision_id: 272780
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [1955](/wiki/1955)-[6](/wiki/1956 "1956"): [*The Lord of the Rings* (1955 radio series)](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)"): [Boromir](/wiki/Boromir), [Faramir](/wiki/Faramir), [Beregond](/wiki/Beregond), [Orcs](/wiki/Orcs), Additional voices
+- [1955](../_/1955.md)-[6](../_/1956.md): [*The Lord of the Rings* (1955 radio series)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>): [Boromir](../B/Boromir.md), [Faramir](../F/Faramir.md), [Beregond](../B/Beregond.md), [Orcs](../O/Orcs.md), Additional voices
 
 ## External links {#External_links}
 

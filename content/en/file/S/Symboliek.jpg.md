@@ -1,6 +1,5 @@
 ---
 title: "File:Symboliek.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Symboliek.jpg</span>"
 page_id: 25632
 namespace: 6
 revision_id: 422495

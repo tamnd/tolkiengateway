@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Childhood of Túrin"
 ---
 
-Redirect to [The Childhood of Túrin](/wiki/The_Childhood_of_Túrin).
+Redirect to [The Childhood of Túrin](The_Childhood_of_Túrin.md).

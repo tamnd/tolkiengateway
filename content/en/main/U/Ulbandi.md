@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fluithuin"
 ---
 
-Redirect to [Fluithuin](/wiki/Fluithuin).
+Redirect to [Fluithuin](../F/Fluithuin.md).

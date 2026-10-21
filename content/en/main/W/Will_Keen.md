@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William Keen"
 ---
 
-Redirect to [William Keen](/wiki/William_Keen).
+Redirect to [William Keen](William_Keen.md).

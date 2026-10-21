@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Paul Raymond Gregory"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Paul Raymond Gregory</span>"
 page_id: 8717
 namespace: 14
 revision_id: 182126
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gregory, Paul Raymond"
 ---
 
-This category lists all **images by [Paul Raymond Gregory](/wiki/Paul_Raymond_Gregory)**.
+This category lists all **images by [Paul Raymond Gregory](../../main/P/Paul_Raymond_Gregory.md)**.

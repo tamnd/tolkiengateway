@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Seas and oceans"
 ---
 
-Redirect to [Category:Seas and oceans](/wiki/Category:Seas_and_oceans).
+Redirect to [Category:Seas and oceans](../../category/S/Seas_and_oceans.md).

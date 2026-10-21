@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michael Rasmussen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michael Rasmussen</span>"
 page_id: 37727
 namespace: 14
 revision_id: 182056

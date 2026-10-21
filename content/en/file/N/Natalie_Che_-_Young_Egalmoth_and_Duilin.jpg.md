@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Che - Young Egalmoth and Duilin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Che - Young Egalmoth and Duilin.jpg</span>"
 page_id: 56314
 namespace: 6
 revision_id: 318478
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of Young [Egalmoth](/wiki/Egalmoth) and <a class="mw-redirect mw-disambig" href="/wiki/Duilin" title="Duilin">Duilin</a>, by Natalie Chen.
+Image of Young [Egalmoth](../../main/E/Egalmoth.md) and <a class="mw-redirect mw-disambig" href="../../main/D/Duilin.md" title="Duilin">Duilin</a>, by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Image of Young [Egalmoth](/wiki/Egalmoth) and <a class="mw-redirect mw-disambig"
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

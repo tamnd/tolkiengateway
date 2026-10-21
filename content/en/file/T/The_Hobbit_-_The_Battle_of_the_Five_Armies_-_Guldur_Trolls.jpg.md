@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Guldur Trolls.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Guldur Trolls.jpg</span>"
 page_id: 54081
 namespace: 6
 revision_id: 293602

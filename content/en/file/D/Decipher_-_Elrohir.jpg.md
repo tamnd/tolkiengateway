@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Elrohir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Elrohir.jpg</span>"
 page_id: 24624
 namespace: 6
 revision_id: 427661

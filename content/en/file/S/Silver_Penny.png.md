@@ -1,6 +1,5 @@
 ---
 title: "File:Silver Penny.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Silver Penny.png</span>"
 page_id: 70777
 namespace: 6
 revision_id: 439363
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Silver Penny.png</span></th>
 <td class="description">
-<p>A <a href="/wiki/Silver_pennies" title="Silver pennies">silver penny</a>, interpreted as well-worn old coinage struck under <a href="/wiki/Araphant" title="Araphant">Araphant</a> of <a href="/wiki/Arthedain" title="Arthedain">Arthedain</a>. Modelled after old historic coinage.
+<p>A <a href="../../main/S/Silver_pennies.md" title="Silver pennies">silver penny</a>, interpreted as well-worn old coinage struck under <a href="../../main/A/Araphant.md" title="Araphant">Araphant</a> of <a href="../../main/A/Arthedain.md" title="Arthedain">Arthedain</a>. Modelled after old historic coinage.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/User:Grond" title="User:Grond">Grond</a></td>
+<td><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Own work, made with Inkscape and Blender</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -54,6 +49,6 @@ file:
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by/3.0/" rel="noreferrer noopener" target="_blank">Attribution 3.0</a> License.
-</p><p>Attribution: <span class="licensetpl_attr"><a href="/wiki/User:Grond" title="User:Grond">Grond</a></span><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by/3.0</span><span class="licensetpl_short" style="display:none;">CC BY 3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p><p>Attribution: <span class="licensetpl_attr"><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></span><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by/3.0</span><span class="licensetpl_short" style="display:none;">CC BY 3.0</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution 3.0</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
 </p>
 </div>

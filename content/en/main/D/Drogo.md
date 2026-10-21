@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drogo Baggins"
 ---
 
-Redirect to [Drogo Baggins](/wiki/Drogo_Baggins).
+Redirect to [Drogo Baggins](Drogo_Baggins.md).

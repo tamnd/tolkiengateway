@@ -1,6 +1,5 @@
 ---
 title: "Eric Lugg"
-display_title: "<span class=\"mw-page-title-main\">Eric Lugg</span>"
 page_id: 22391
 namespace: 0
 revision_id: 420211
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Lugg, Eric"
 ---
 
-**Eric Lugg** was an English actor. He provided the voice of [Gimli](/wiki/Gimli) in [*The Lord of the Rings* (1955 radio series)](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)").
+**Eric Lugg** was an English actor. He provided the voice of [Gimli](../G/Gimli.md) in [*The Lord of the Rings* (1955 radio series)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
 
 ## External links {#External_links}
 

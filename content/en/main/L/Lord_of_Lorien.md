@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord and Lady of Lórien"
 ---
 
-Redirect to [Lord and Lady of Lórien](/wiki/Lord_and_Lady_of_Lórien).
+Redirect to [Lord and Lady of Lórien](Lord_and_Lady_of_Lórien.md).

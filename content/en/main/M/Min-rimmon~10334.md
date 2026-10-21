@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Min-Rimmon"
 ---
 
-Redirect to [Min-Rimmon](/wiki/Min-Rimmon).
+Redirect to [Min-Rimmon](Min-Rimmon.md).

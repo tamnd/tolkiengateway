@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Border of Defences.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Border of Defences.jpg</span>"
 page_id: 22583
 namespace: 6
 revision_id: 211649

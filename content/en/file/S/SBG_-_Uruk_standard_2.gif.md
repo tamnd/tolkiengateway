@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Uruk standard 2.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Uruk standard 2.gif</span>"
 page_id: 12051
 namespace: 6
 revision_id: 204102

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telerin"
 ---
 
-Redirect to [Telerin](/wiki/Telerin).
+Redirect to [Telerin](../T/Telerin.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Curse their Foul Feet!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Curse their Foul Feet!.jpg</span>"
 page_id: 22586
 namespace: 6
 revision_id: 211653

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Beren Gamlost heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Beren Gamlost heraldic device.jpg</span>"
 page_id: 64778
 namespace: 6
 revision_id: 373651
@@ -31,12 +30,12 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/70/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #70</a>. Published in:
 
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), April
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), August
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Tolkien Diary 1992](/wiki/The_Tolkien_Diary_1992)* ([1991](/wiki/1991)), 1993-01-03
-- *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)* ([2018](/wiki/2018)), p. 238, #82
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), p. 93
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), April
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), August
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)* ([1991](../../main/_/1991.md)), 1993-01-03
+- *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../../main/_/2018.md)), p. 238, #82
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), p. 93
 
 ## Licensing {#Licensing}
 

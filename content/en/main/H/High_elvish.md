@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldarin"
 ---
 
-Redirect to [Eldarin](/wiki/Eldarin).
+Redirect to [Eldarin](../E/Eldarin.md).

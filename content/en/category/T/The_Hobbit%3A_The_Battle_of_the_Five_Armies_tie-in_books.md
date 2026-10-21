@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit: The Battle of the Five Armies tie-in books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit: The Battle of the Five Armies tie-in books</span>"
 page_id: 49977
 namespace: 14
 revision_id: 269279

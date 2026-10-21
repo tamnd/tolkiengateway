@@ -1,6 +1,5 @@
 ---
 title: "File:Button reflink.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button reflink.png</span>"
 page_id: 28517
 namespace: 6
 revision_id: 168980

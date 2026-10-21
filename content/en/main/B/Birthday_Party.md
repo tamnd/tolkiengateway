@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's Farewell Party"
 ---
 
-Redirect to [Bilbo's Farewell Party](/wiki/Bilbo's_Farewell_Party).
+Redirect to [Bilbo's Farewell Party](Bilbo's_Farewell_Party.md).

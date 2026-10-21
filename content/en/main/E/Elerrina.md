@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taniquetil"
 ---
 
-Redirect to [Taniquetil](/wiki/Taniquetil).
+Redirect to [Taniquetil](../T/Taniquetil.md).

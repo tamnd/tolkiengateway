@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ruth Lacon"
 ---
 
-Redirect to [Ruth Lacon](/wiki/Ruth_Lacon).
+Redirect to [Ruth Lacon](../R/Ruth_Lacon.md).

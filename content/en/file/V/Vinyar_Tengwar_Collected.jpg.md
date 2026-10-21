@@ -1,6 +1,5 @@
 ---
 title: "File:Vinyar Tengwar Collected.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vinyar Tengwar Collected.jpg</span>"
 page_id: 61733
 namespace: 6
 revision_id: 347841

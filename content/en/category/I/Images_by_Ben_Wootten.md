@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ben Wootten"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ben Wootten</span>"
 page_id: 22752
 namespace: 14
 revision_id: 202115

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Vanimeldë"
 ---
 
-Redirect to [Tar-Vanimeldë](/wiki/Tar-Vanimeldë).
+Redirect to [Tar-Vanimeldë](Tar-Vanimeldë.md).

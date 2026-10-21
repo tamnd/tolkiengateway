@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lego The Lord of the Rings: The Video Game"
 ---
 
-Redirect to [Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game).
+Redirect to [Lego The Lord of the Rings: The Video Game](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - Armies of the Third Age logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - Armies of the Third Age logo.png</span>"
 page_id: 58567
 namespace: 6
 revision_id: 325076

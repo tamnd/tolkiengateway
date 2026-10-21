@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Adventure Boardgame (German).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Adventure Boardgame (German).jpg</span>"
 page_id: 72843
 namespace: 6
 revision_id: 431672

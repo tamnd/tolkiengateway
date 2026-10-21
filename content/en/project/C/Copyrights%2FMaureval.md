@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Maureval"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Maureval</span>"
 page_id: 47384
 namespace: 4
 revision_id: 252717
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Maureval"
 ---
 
-- Maureval has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Maureval "Category:Images by Maureval") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Maureval has kindly granted her permission to use [her artwork](../../category/I/Images_by_Maureval.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 17 October 2013
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Keys of Middle-earth 2005.jpg"
 ---
 
-Redirect to [File:The Keys of Middle-earth 2005.jpg](/wiki/File:The_Keys_of_Middle-earth_2005.jpg).
+Redirect to [File:The Keys of Middle-earth 2005.jpg](The_Keys_of_Middle-earth_2005.jpg.md).

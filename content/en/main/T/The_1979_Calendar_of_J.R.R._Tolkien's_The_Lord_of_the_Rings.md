@@ -15,9 +15,9 @@ images:
   - "The_1979_Calendar_of_J.R.R._Tolkien's_The_Lord_of_the_Rings.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg"><img src="/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/300px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg" decoding="async" loading="lazy" width="300" height="278" class="mw-file-element" srcset="/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/450px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 1.5x, /w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/600px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 2x" data-file-width="1135" data-file-height="1050"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_1979_Calendar_of_J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/300px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg" decoding="async" loading="lazy" width="300" height="278" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/450px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg/600px-The_1979_Calendar_of_J.R.R._Tolkien%27s_The_Lord_of_the_Rings.jpg 2x" data-file-width="1135" data-file-height="1050"/></a><figcaption></figcaption></figure>
 
-**The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings** was produced by [Ballantine Books](/wiki/Ballantine_Books) with illustrations from [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+**The 1979 Calendar of J.R.R. Tolkien's The Lord of the Rings** was produced by [Ballantine Books](../B/Ballantine_Books.md) with illustrations from [The Lord of the Rings (1978 film)](<The_Lord_of_the_Rings_(1978_film).md>).
 
 - ISBN 345-27648-5-595
 - Dimensions: 13 x 12.25 inches

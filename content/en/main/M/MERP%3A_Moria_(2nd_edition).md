@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moria (1994 book)"
 ---
 
-Redirect to [Moria (1994 book)](/wiki/Moria_(1994_book)).
+Redirect to [Moria (1994 book)](<Moria_(1994_book).md>).

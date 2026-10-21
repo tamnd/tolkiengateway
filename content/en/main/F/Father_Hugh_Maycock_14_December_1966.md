@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Father Hugh Maycock"
 ---
 
-Redirect to [Letter to Father Hugh Maycock](/wiki/Letter_to_Father_Hugh_Maycock).
+Redirect to [Letter to Father Hugh Maycock](../L/Letter_to_Father_Hugh_Maycock.md).

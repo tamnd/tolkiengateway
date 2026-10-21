@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndur"
 ---
 
-Redirect to [-ndur](/wiki/-ndur).
+Redirect to [-ndur](../_/-ndur.md).

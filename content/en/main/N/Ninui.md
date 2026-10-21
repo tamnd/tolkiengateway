@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nínui"
 ---
 
-Redirect to [Nínui](/wiki/Nínui).
+Redirect to [Nínui](Nínui.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cuiviénen"
 ---
 
-Redirect to [Cuiviénen](/wiki/Cuiviénen).
+Redirect to [Cuiviénen](Cuiviénen.md).

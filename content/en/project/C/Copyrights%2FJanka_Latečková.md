@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Janka Latečková"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Janka Latečková</span>"
 page_id: 42550
 namespace: 4
 revision_id: 224532
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lateckova, Janka"
 ---
 
-- Janka Latečková has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Janka_Late%C4%8Dkov%C3%A1 "Category:Images by Janka Latečková") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Janka Latečková has kindly granted her permission to use [her artwork](../../category/I/Images_by_Janka_Latečková.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 27 December 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -1,6 +1,5 @@
 ---
 title: "A.R. Rahman"
-display_title: "<span class=\"mw-page-title-main\">A.R. Rahman</span>"
 page_id: 22677
 namespace: 0
 revision_id: 440039
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Rahman, A.R."
 ---
 
-**Allah Rakha Rahman** (born [January 6](/wiki/6_January "6 January"), [1966](/wiki/1966), as **A.S. Dileep Kumar**) is an Indian composer and musical producer. For his music for <i><a class="extiw" href="http://en.wikipedia.org/wiki/slumdog_Millionaire" title="wikipedia:slumdog Millionaire">Slumdog Millionaire</a></i>, he won two Academy Awards. He composed the music for *[The Lord of the Rings (musical)](</wiki/The_Lord_of_the_Rings_(musical)>)*, along with [Värttinä](/wiki/V%C3%A4rttin%C3%A4) and [Christopher Nightingale](/wiki/Christopher_Nightingale).
+**Allah Rakha Rahman** (born [January 6](../_/6_January.md), [1966](../_/1966.md), as **A.S. Dileep Kumar**) is an Indian composer and musical producer. For his music for <i><a class="extiw" href="http://en.wikipedia.org/wiki/slumdog_Millionaire" title="wikipedia:slumdog Millionaire">Slumdog Millionaire</a></i>, he won two Academy Awards. He composed the music for *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, along with [Värttinä](../V/Värttinä.md) and [Christopher Nightingale](../C/Christopher_Nightingale.md).
 
 ## External links {#External_links}
 

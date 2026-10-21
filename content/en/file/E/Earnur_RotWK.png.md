@@ -1,6 +1,5 @@
 ---
 title: "File:Earnur RotWK.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Earnur RotWK.png</span>"
 page_id: 30112
 namespace: 6
 revision_id: 248656
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Eärnur](/wiki/E%C3%A4rnur) in [Rivendell](/wiki/Rivendell). Screenshot from *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king")*.
+[Eärnur](../../main/E/Eärnur.md) in [Rivendell](../../main/R/Rivendell.md). Screenshot from *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
 
 ## Licensing {#Licensing}
 

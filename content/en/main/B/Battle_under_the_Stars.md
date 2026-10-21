@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagor-nuin-Giliath"
 ---
 
-Redirect to [Dagor-nuin-Giliath](/wiki/Dagor-nuin-Giliath).
+Redirect to [Dagor-nuin-Giliath](../D/Dagor-nuin-Giliath.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "José Manuel Ferrández Bru"
 ---
 
-Redirect to [José Manuel Ferrández Bru](/wiki/José_Manuel_Ferrández_Bru).
+Redirect to [José Manuel Ferrández Bru](../J/José_Manuel_Ferrández_Bru.md).

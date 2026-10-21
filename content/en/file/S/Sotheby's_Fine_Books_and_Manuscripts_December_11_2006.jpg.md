@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Fine Books and Manuscripts December 11 2006.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Fine Books and Manuscripts December 11 2006.jpg</span>"
 page_id: 26214
 namespace: 6
 revision_id: 215426

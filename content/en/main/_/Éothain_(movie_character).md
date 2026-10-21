@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éothain (film character)"
 ---
 
-Redirect to [Éothain (film character)](/wiki/Éothain_(film_character)).
+Redirect to [Éothain (film character)](<Éothain_(film_character).md>).

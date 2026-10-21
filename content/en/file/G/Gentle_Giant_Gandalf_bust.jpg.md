@@ -1,6 +1,5 @@
 ---
 title: "File:Gentle Giant Gandalf bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gentle Giant Gandalf bust.jpg</span>"
 page_id: 10945
 namespace: 6
 revision_id: 191141

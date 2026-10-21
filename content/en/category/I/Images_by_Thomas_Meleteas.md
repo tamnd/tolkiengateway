@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Thomas Meleteas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Thomas Meleteas</span>"
 page_id: 22376
 namespace: 14
 revision_id: 182190
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Meleteas, Thomas"
 ---
 
-This category lists all **images by [Thomas Meleteas](/wiki/Thomas_Meleteas)**.
+This category lists all **images by [Thomas Meleteas](../../main/T/Thomas_Meleteas.md)**.

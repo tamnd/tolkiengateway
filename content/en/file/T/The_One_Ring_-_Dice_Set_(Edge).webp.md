@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Dice Set (Edge).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Dice Set (Edge).webp</span>"
 page_id: 75036
 namespace: 6
 revision_id: 441778
@@ -32,15 +31,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://fr.edge-studio.net/games/lanneau-unique-des/" rel="noreferrer noopener" target="_blank">Edge Studio</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

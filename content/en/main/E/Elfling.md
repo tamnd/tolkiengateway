@@ -1,6 +1,5 @@
 ---
 title: "Elfling"
-display_title: "<span class=\"mw-page-title-main\">Elfling</span>"
 page_id: 13052
 namespace: 0
 revision_id: 369107
@@ -18,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Elfling"
 ---
 
-**Elfling** was a mailing list dedicated to the [languages](/wiki/Languages "Languages") created by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). It was founded on [7 September](/wiki/7_September) [1998](/wiki/1998) by Dorothea Salo, and was maintained by Brook Conner and moderated by [David Salo](/wiki/David_Salo).
+**Elfling** was a mailing list dedicated to the [languages](../L/Languages.md) created by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). It was founded on [7 September](../_/7_September.md) [1998](../_/1998.md) by Dorothea Salo, and was maintained by Brook Conner and moderated by [David Salo](../D/David_Salo.md).
 
-As of 12 Septemer 2013 Elfling was dissolved, but transformed into a forum maintained by [David Salo](/wiki/David_Salo).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+As of 12 Septemer 2013 Elfling was dissolved, but transformed into a forum maintained by [David Salo](../D/David_Salo.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 
@@ -32,6 +31,6 @@ As of 12 Septemer 2013 Elfling was dissolved, but transformed into a forum maint
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.lotrplaza.com/showthread.php?76295-Elfling-gone-with-the-wind" rel="noreferrer noopener" target="_blank">&#34;Elfling gone with the wind?&#34;</a></span>. <span class="cite-web-website">Plaza</span>. <span class="cite-web-accessed">Retrieved 6 October 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.lotrplaza.com/showthread.php?76295-Elfling-gone-with-the-wind" rel="noreferrer noopener" target="_blank">&#34;Elfling gone with the wind?&#34;</a></span>. <span class="cite-web-website">Plaza</span>. <span class="cite-web-accessed">Retrieved 6 October 2013</span></cite></span>
 </li>
 </ol></div>

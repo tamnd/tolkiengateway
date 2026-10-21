@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pengolodh"
 ---
 
-Redirect to [Pengolodh](/wiki/Pengolodh).
+Redirect to [Pengolodh](../P/Pengolodh.md).

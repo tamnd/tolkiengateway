@@ -11,4 +11,4 @@ redirect_target: "Squint-eyed southerner"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Squint-eyed southerner](/wiki/Squint-eyed_southerner#Portrayal_in_adaptations).
+Redirect to [Squint-eyed southerner](Squint-eyed_southerner.md#Portrayal_in_adaptations).

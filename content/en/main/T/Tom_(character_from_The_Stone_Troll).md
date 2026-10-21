@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom (The Stone Troll)"
 ---
 
-Redirect to [Tom (The Stone Troll)](/wiki/Tom_(The_Stone_Troll)).
+Redirect to [Tom (The Stone Troll)](<Tom_(The_Stone_Troll).md>).

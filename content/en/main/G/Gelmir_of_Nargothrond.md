@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir (son of Guilin)"
 ---
 
-Redirect to [Gelmir (son of Guilin)](/wiki/Gelmir_(son_of_Guilin)).
+Redirect to [Gelmir (son of Guilin)](<Gelmir_(son_of_Guilin).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Scouring of the Shire"
 ---
 
-Redirect to [The Scouring of the Shire](/wiki/The_Scouring_of_the_Shire).
+Redirect to [The Scouring of the Shire](The_Scouring_of_the_Shire.md).

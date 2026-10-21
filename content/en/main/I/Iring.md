@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Íring"
 ---
 
-Redirect to [Íring](/wiki/Íring).
+Redirect to [Íring](../_/Íring.md).

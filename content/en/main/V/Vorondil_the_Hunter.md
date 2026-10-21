@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vorondil"
 ---
 
-Redirect to [Vorondil](/wiki/Vorondil).
+Redirect to [Vorondil](Vorondil.md).

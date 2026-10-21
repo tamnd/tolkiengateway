@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Radagast/Failure"
 ---
 
-Redirect to [Radagast/Failure](/wiki/Radagast/Failure).
+Redirect to [Radagast/Failure](Radagast%252FFailure.md).

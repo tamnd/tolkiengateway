@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (disambiguation)"
 ---
 
-Redirect to [Valandil (disambiguation)](/wiki/Valandil_(disambiguation)).
+Redirect to [Valandil (disambiguation)](<Valandil_(disambiguation).md>).

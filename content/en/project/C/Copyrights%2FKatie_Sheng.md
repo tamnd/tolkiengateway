@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Katie Sheng"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Katie Sheng</span>"
 page_id: 49522
 namespace: 4
 revision_id: 264761
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sheng, Katie"
 ---
 
-- Katie Sheng has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Katie_Sheng "Category:Images by Katie Sheng") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Katie Sheng has kindly granted her permission to use [her artwork](../../category/I/Images_by_Katie_Sheng.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 April 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

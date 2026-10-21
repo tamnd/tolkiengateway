@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Thomas Arnaud"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Thomas Arnaud</span>"
 page_id: 65051
 namespace: 14
 revision_id: 374554

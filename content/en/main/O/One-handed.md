@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren"
 ---
 
-Redirect to [Beren](/wiki/Beren).
+Redirect to [Beren](../B/Beren.md).

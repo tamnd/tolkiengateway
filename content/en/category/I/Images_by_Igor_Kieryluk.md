@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Igor Kieryluk"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Igor Kieryluk</span>"
 page_id: 72788
 namespace: 14
 revision_id: 431432
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kieryluk, Igor"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Igor_Kieryluk&amp;action=edit&amp;redlink=1" title="Igor Kieryluk (page does not exist)">Igor Kieryluk</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Igor_Kieryluk&amp;action=edit&amp;redlink=1" title="Igor Kieryluk (page does not exist)">Igor Kieryluk</a></b>.

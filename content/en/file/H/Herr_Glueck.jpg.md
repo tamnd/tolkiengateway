@@ -1,6 +1,5 @@
 ---
 title: "File:Herr Glueck.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Herr Glueck.jpg</span>"
 page_id: 36267
 namespace: 6
 revision_id: 214105

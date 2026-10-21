@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Naomi Mitchison"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Naomi Mitchison</span>"
 page_id: 66651
 namespace: 14
 revision_id: 385845
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Mitchison, Naomi"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Naomi Mitchison](/wiki/Naomi_Mitchison).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Naomi Mitchison](../../main/N/Naomi_Mitchison.md).

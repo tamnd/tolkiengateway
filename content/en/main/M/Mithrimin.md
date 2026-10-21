@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "North Sindarin"
 ---
 
-Redirect to [North Sindarin](/wiki/North_Sindarin).
+Redirect to [North Sindarin](../N/North_Sindarin.md).

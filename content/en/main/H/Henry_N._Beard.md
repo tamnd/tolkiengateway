@@ -1,6 +1,5 @@
 ---
 title: "Henry N. Beard"
-display_title: "<span class=\"mw-page-title-main\">Henry N. Beard</span>"
 page_id: 15617
 namespace: 0
 revision_id: 313076
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Beard, Henry N."
 ---
 
-**Henry N. Beard** is an American humorist, one of the co-founders of the National Lampoon and the co-author of *[Bored of the Rings](</wiki/Bored_of_the_Rings_(book)> "Bored of the Rings (book)")*.
+**Henry N. Beard** is an American humorist, one of the co-founders of the National Lampoon and the co-author of *[Bored of the Rings](<../B/Bored_of_the_Rings_(book).md>)*.
 
 ## External links {#External_links}
 

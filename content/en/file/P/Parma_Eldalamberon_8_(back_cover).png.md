@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 8 (back cover).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 8 (back cover).png</span>"
 page_id: 62549
 namespace: 6
 revision_id: 353392
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Business as usual in Mordor" by [Patrick H. Wynne](/wiki/Patrick_H._Wynne). Art for the back cover of *[Parma Eldalamberon 8](/wiki/Parma_Eldalamberon_8)*.
+"Business as usual in Mordor" by [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md). Art for the back cover of *[Parma Eldalamberon 8](../../main/P/Parma_Eldalamberon_8.md)*.
 
 ## Licensing {#Licensing}
 

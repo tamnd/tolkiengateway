@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "LINI"
 ---
 
-Redirect to [LINI](/wiki/LINI).
+Redirect to [LINI](LINI.md).

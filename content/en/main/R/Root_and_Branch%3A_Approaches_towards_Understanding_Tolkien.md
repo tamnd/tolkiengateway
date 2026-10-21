@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Root and Branch - Approaches towards Understanding Tolkien"
 ---
 
-Redirect to [Root and Branch - Approaches towards Understanding Tolkien](/wiki/Root_and_Branch_-_Approaches_towards_Understanding_Tolkien).
+Redirect to [Root and Branch - Approaches towards Understanding Tolkien](Root_and_Branch_-_Approaches_towards_Understanding_Tolkien.md).

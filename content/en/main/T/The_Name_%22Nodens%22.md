@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Name 'Nodens'"
 ---
 
-Redirect to [The Name 'Nodens'](/wiki/The_Name_'Nodens').
+Redirect to [The Name 'Nodens'](The_Name_'Nodens'.md).

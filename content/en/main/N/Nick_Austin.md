@@ -1,6 +1,5 @@
 ---
 title: "Nick Austin"
-display_title: "<span class=\"mw-page-title-main\">Nick Austin</span>"
 page_id: 25574
 namespace: 0
 revision_id: 406791
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Austin, Nick"
 ---
 
-**Nick Austin** is together with [Pete](/wiki/Pete_Austin "Pete Austin") and [Mike Austin](/wiki/Mike_Austin) the author of [Colossal Adventure](/wiki/Colossal_Adventure), [Adventure Quest](/wiki/Adventure_Quest) and [Dungeon Adventure](/wiki/Dungeon_Adventure) which are part of [the Middle-Earth Trilogy](/wiki/The_Middle-Earth_Trilogy "The Middle-Earth Trilogy") (reproduced as *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Nick Austin** is together with [Pete](../P/Pete_Austin.md) and [Mike Austin](../M/Mike_Austin.md) the author of [Colossal Adventure](../C/Colossal_Adventure.md), [Adventure Quest](../A/Adventure_Quest.md) and [Dungeon Adventure](../D/Dungeon_Adventure.md) which are part of [the Middle-Earth Trilogy](../T/The_Middle-Earth_Trilogy.md) (reproduced as *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

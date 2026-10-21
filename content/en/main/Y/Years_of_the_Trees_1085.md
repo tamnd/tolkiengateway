@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Year of the Trees 1085"
 ---
 
-Redirect to [Year of the Trees 1085](/wiki/Year_of_the_Trees_1085).
+Redirect to [Year of the Trees 1085](Year_of_the_Trees_1085.md).

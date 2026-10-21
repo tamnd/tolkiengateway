@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jorge Quiñónez"
 ---
 
-Redirect to [Jorge Quiñónez](/wiki/Jorge_Quiñónez).
+Redirect to [Jorge Quiñónez](Jorge_Quiñónez.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Father Francis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Father Francis.jpg</span>"
 page_id: 57131
 namespace: 6
 revision_id: 313230

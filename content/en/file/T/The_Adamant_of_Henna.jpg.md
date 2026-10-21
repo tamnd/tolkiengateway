@@ -1,6 +1,5 @@
 ---
 title: "File:The Adamant of Henna.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Adamant of Henna.jpg</span>"
 page_id: 28954
 namespace: 6
 revision_id: 214614

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Randy Trimmer"
 ---
 
-Redirect to [Letter to Randy Trimmer](/wiki/Letter_to_Randy_Trimmer).
+Redirect to [Letter to Randy Trimmer](../L/Letter_to_Randy_Trimmer.md).

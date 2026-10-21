@@ -1,6 +1,5 @@
 ---
 title: "Trilogy Tuesday"
-display_title: "<span class=\"mw-page-title-main\">Trilogy Tuesday</span>"
 page_id: 11145
 namespace: 0
 revision_id: 407739
@@ -13,7 +12,7 @@ categories:
   - "Events"
 ---
 
-**Trilogy Tuesday** was an event on December 16, 2003 in which theaters around the world showed all three of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") films by Sir [Peter Jackson](/wiki/Peter_Jackson) consecutively, *[The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King "The Lord of the Rings: The Return of the King")* being played at midnight of the day it was released.
+**Trilogy Tuesday** was an event on December 16, 2003 in which theaters around the world showed all three of [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>) films by Sir [Peter Jackson](../P/Peter_Jackson.md) consecutively, *[The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* being played at midnight of the day it was released.
 
 ## External links {#External_links}
 

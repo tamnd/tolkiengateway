@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oromand"
 ---
 
-Redirect to [Oromand](/wiki/Oromand).
+Redirect to [Oromand](https://tolkiengateway.net/wiki/Oromand).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Trees"
 ---
 
-Redirect to [Category:Trees](/wiki/Category:Trees).
+Redirect to [Category:Trees](../../category/T/Trees.md).

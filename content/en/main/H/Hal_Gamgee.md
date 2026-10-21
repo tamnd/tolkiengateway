@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halfast Gamgee"
 ---
 
-Redirect to [Halfast Gamgee](/wiki/Halfast_Gamgee).
+Redirect to [Halfast Gamgee](Halfast_Gamgee.md).

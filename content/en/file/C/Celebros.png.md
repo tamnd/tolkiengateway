@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Mark Fisher - Celebros.png"
 ---
 
-Redirect to [File:Mark Fisher - Celebros.png](/wiki/File:Mark_Fisher_-_Celebros.png).
+Redirect to [File:Mark Fisher - Celebros.png](../M/Mark_Fisher_-_Celebros.png.md).

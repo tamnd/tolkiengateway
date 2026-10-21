@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Carn Dum.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Carn Dum.JPG</span>"
 page_id: 21850
 namespace: 6
 revision_id: 441088
@@ -35,22 +34,20 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Carn Dum.JPG</span></th>
 <td class="description">
 <p><i>Carn Dûm</i>. 
-Created for <a href="/wiki/Middle-earth:_Against_the_Shadow" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
  <blockquote class="tg-quote noexcerpt">
-<p>When I received the commission to paint the Witch King of Angmar for Iron Crown Enterprizes popular &#39;<a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle Earth the Collectable Card Game</a>&#39;, this old art school Goth was determined to express his dark side.
+<p>When I received the commission to paint the Witch King of Angmar for Iron Crown Enterprizes popular &#39;<a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth the Collectable Card Game</a>&#39;, this old art school Goth was determined to express his dark side.
 </p><p>The Witch King is portrayed in full plate armour as he surveys his Kingdom, a powerful figure in a mysterious and exotic landscape. His Fortress City of Carn Dum dominating the Northern peaks of the Misty Mountains
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Stephen Walsh</td>
@@ -59,7 +56,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.etsy.com/listing/206964807/carn-dum-a-giclee-print-inspired-by" rel="noreferrer noopener" target="_blank">Etsy</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -80,4 +76,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

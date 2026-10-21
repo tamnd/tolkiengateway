@@ -13,12 +13,12 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>taen</b></i> is a [Sindarin](/wiki/Sindarin) adjective meaning *long and thin*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>taen</b></i> is a [Sindarin](../S/Sindarin.md) adjective meaning *long and thin*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- *[and](/wiki/And "And")*
-- *[anann](/wiki/Anann "Anann")*
+- *[and](../A/And.md)*
+- *[anann](../A/Anann.md)*
 
 <span></span>
 

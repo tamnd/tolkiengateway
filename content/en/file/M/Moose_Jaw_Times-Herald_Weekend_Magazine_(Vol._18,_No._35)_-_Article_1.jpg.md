@@ -1,6 +1,5 @@
 ---
 title: "File:Moose Jaw Times-Herald Weekend Magazine (Vol. 18, No. 35) - Article 1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Moose Jaw Times-Herald Weekend Magazine (Vol. 18, No. 35) - Article 1.jpg</span>"
 page_id: 45672
 namespace: 6
 revision_id: 240948

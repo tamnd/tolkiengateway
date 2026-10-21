@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Terence Tiller"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Terence Tiller</span>"
 page_id: 68562
 namespace: 14
 revision_id: 404233
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Tiller, Terence"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Terence Tiller](/wiki/Terence_Tiller).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Terence Tiller](../../main/T/Terence_Tiller.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mythlore 9"
 ---
 
-Redirect to [Mythlore 9](/wiki/Mythlore_9).
+Redirect to [Mythlore 9](../M/Mythlore_9.md).

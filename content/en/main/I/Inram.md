@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duinhir"
 ---
 
-Redirect to [Duinhir](/wiki/Duinhir).
+Redirect to [Duinhir](../D/Duinhir.md).

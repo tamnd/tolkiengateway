@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shelob's Lair"
 ---
 
-Redirect to [Shelob's Lair](/wiki/Shelob's_Lair).
+Redirect to [Shelob's Lair](../S/Shelob's_Lair.md).

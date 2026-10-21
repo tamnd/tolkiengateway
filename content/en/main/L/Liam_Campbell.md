@@ -1,6 +1,5 @@
 ---
 title: "Liam Campbell"
-display_title: "<span class=\"mw-page-title-main\">Liam Campbell</span>"
 page_id: 36669
 namespace: 0
 revision_id: 406320
@@ -25,11 +24,11 @@ sort_keys:
 
 ### Books {#Books}
 
-- [2011](/wiki/2011): *[The Ecological Augury in the Works of JRR Tolkien](/wiki/The_Ecological_Augury_in_the_Works_of_JRR_Tolkien)*
+- [2011](../_/2011.md): *[The Ecological Augury in the Works of JRR Tolkien](../T/The_Ecological_Augury_in_the_Works_of_JRR_Tolkien.md)*
 
 ### Articles {#Articles}
 
-- [2010](/wiki/2010): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](/wiki/Middle-earth_and_Beyond "Middle-earth and Beyond")*
+- [2010](../_/2010.md): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)*
     - "The Enigmatic Mr. Bombadil: Tom Bombadil's Role as a Representation of Nature in *The Lord of the Rings*"
 
 <span></span>

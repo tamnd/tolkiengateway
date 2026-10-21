@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Interviews with J.R.R. Tolkien"
 ---
 
-Redirect to [Index:Interviews with J.R.R. Tolkien](/wiki/Index:Interviews_with_J.R.R._Tolkien).
+Redirect to [Index:Interviews with J.R.R. Tolkien](../../index/I/Interviews_with_J.R.R._Tolkien.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Théoden"
 ---
 
-Redirect to [Théoden](/wiki/Théoden).
+Redirect to [Théoden](../T/Théoden.md).

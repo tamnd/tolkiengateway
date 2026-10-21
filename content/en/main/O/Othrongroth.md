@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Barrow"
 ---
 
-Redirect to [Great Barrow](/wiki/Great_Barrow).
+Redirect to [Great Barrow](../G/Great_Barrow.md).

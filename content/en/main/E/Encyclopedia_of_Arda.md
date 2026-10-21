@@ -1,6 +1,5 @@
 ---
 title: "Encyclopedia of Arda"
-display_title: "<span class=\"mw-page-title-main\">Encyclopedia of Arda</span>"
 page_id: 11136
 namespace: 0
 revision_id: 405399
@@ -18,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Encyclopedia_of_Arda"
 ---
 
-The **Encyclopedia of Arda**, is an online encyclopedia, owned and moderated by Mark Fisher. It has become one of the more popular [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") websites. Its articles include timelines, genealogies, root words, and a basic layout of the history of the topic. Also featured is an interactive calendar that converts modern dates into dates from various calendars.
+The **Encyclopedia of Arda**, is an online encyclopedia, owned and moderated by Mark Fisher. It has become one of the more popular [Tolkien](../J/J.R.R._Tolkien.md) websites. Its articles include timelines, genealogies, root words, and a basic layout of the history of the topic. Also featured is an interactive calendar that converts modern dates into dates from various calendars.
 
 ## External links {#External_links}
 

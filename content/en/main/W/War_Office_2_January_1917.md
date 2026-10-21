@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to the War Office"
 ---
 
-Redirect to [Letter to the War Office](/wiki/Letter_to_the_War_Office).
+Redirect to [Letter to the War Office](../L/Letter_to_the_War_Office.md).

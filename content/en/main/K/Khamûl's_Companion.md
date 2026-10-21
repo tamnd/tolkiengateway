@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "F"
 ---
 
-Redirect to [F](/wiki/F).
+Redirect to [F](../F/F.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ndacil"
 ---
 
-Redirect to [-ndacil](/wiki/-ndacil).
+Redirect to [-ndacil](../_/-ndacil.md).

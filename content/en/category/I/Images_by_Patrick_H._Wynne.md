@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Patrick H. Wynne"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Patrick H. Wynne</span>"
 page_id: 40328
 namespace: 14
 revision_id: 202606
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Wynne, Patrick H."
 ---
 
-This category lists all **images by [Patrick Wynne](/wiki/Patrick_H._Wynne "Patrick H. Wynne")**.
+This category lists all **images by [Patrick Wynne](../../main/P/Patrick_H._Wynne.md)**.

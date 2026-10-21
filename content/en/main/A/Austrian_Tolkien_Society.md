@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Österreichische Tolkiengesellschaft"
 ---
 
-Redirect to [Österreichische Tolkiengesellschaft](/wiki/Österreichische_Tolkiengesellschaft).
+Redirect to [Österreichische Tolkiengesellschaft](../_/Österreichische_Tolkiengesellschaft.md).

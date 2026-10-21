@@ -1,6 +1,5 @@
 ---
 title: "File:Hompen (front).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hompen (front).jpg</span>"
 page_id: 28347
 namespace: 6
 revision_id: 214122

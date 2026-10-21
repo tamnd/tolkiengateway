@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Ered Luin map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Ered Luin map.jpg</span>"
 page_id: 63681
 namespace: 6
 revision_id: 362816
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Ered Luin](/wiki/Blue_Mountains "Blue Mountains") as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [Ered Luin](../../main/B/Blue_Mountains.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

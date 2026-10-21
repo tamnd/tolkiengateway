@@ -1,6 +1,5 @@
 ---
 title: "Kanerva Heikkinen"
-display_title: "<span class=\"mw-page-title-main\">Kanerva Heikkinen</span>"
 page_id: 23727
 namespace: 0
 revision_id: 116474
@@ -23,5 +22,5 @@ sort_keys:
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Finland: Reception of Tolkien"

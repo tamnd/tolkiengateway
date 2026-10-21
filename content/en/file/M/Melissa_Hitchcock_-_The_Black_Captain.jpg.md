@@ -1,6 +1,5 @@
 ---
 title: "File:Melissa Hitchcock - The Black Captain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Melissa Hitchcock - The Black Captain.jpg</span>"
 page_id: 13616
 namespace: 6
 revision_id: 202614
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Melissa Hitchcock</li>
 <li><b>Website:</b> <a class="external text" href="http://melihitchcock.com/" rel="noreferrer noopener" target="_blank">Melissa Hitchcock&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Melissa_Hitchcock" title="Tolkien Gateway:Copyrights/Melissa Hitchcock">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMelissa_Hitchcock.md" title="Tolkien Gateway:Copyrights/Melissa Hitchcock">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Southern lands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Southern lands</span>"
 page_id: 39664
 namespace: 14
 revision_id: 195089

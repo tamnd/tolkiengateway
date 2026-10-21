@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oron"
 ---
 
-Redirect to [Oron](/wiki/Oron).
+Redirect to [Oron](../O/Oron.md).

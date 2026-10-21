@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Retreat"
 ---
 
-Redirect to [Retreat](/wiki/Retreat).
+Redirect to [Retreat](../R/Retreat.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/21 September 2008"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/21 September 2008</span>"
 page_id: 20451
 namespace: 4
 revision_id: 201980
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 21 September 2008</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 21 September 2008</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -81,30 +78,30 @@ sort_keys:
 <tr>
 <td>Open meeting and check attendance.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr>
 <tr>
 <td>Finishing all of our Chapter articles.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td>Finishing up <a href="/wiki/User:Ederchil/Sandbox" title="User:Ederchil/Sandbox">Referencing</a>, discussing the use of <i>Quickcite templates</i>.
+<td>Finishing up <a href="https://tolkiengateway.net/wiki/User:Ederchil/Sandbox" title="User:Ederchil/Sandbox">Referencing</a>, discussing the use of <i>Quickcite templates</i>.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>In regards to the Meeting itself, when Daylight saving time ends should the meeting be at the same time (here 8pm) or should it follow the change in time (here it would become 7pm) if you see what I mean.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
 <td>End meeting.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/21_September_2008 "Tolkien Gateway talk:Meetings/21 September 2008")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/21_September_2008)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

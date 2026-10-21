@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sellamillion"
 ---
 
-Redirect to [The Sellamillion](/wiki/The_Sellamillion).
+Redirect to [The Sellamillion](../T/The_Sellamillion.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/George Sukhoff"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/George Sukhoff</span>"
 page_id: 57659
 namespace: 4
 revision_id: 318873
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sukhoff, George"
 ---
 
-- George Sukhoff has kindly given his permission to use [his artwork](/wiki/Category:Images_by_George_Sukhoff "Category:Images by George Sukhoff") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- George Sukhoff has kindly given his permission to use [his artwork](../../category/I/Images_by_George_Sukhoff.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 6 August 2020
-- User who sought the permission: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

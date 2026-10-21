@@ -1,6 +1,5 @@
 ---
 title: "Letter to Leila Keane and Pat Kirke (3 August 1943)"
-display_title: "<span class=\"mw-page-title-main\">Letter to Leila Keane and Pat Kirke (3 August 1943)</span>"
 page_id: 63046
 namespace: 0
 revision_id: 356697
@@ -25,7 +24,7 @@ images:
   - "Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_9_of_9.jpg"
 ---
 
-On **[3 August](/wiki/3_August) [1943](/wiki/1943)** [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote a letter to Leila Keane and Patricia "Pat" Kirke.
+On **[3 August](../_/3_August.md) [1943](../_/1943.md)** [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote a letter to Leila Keane and Patricia "Pat" Kirke.
 
 ## Details from Auction {#Details_from_Auction}
 
@@ -41,69 +40,67 @@ TOLKIEN, John Ronald Reuel (1892-1973). Autograph letter signed (â€œJRR Tolkienâ
 <p class="tg-quote-footer"><cite>Christie&#39;s</cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## Gallery {#Gallery}
 
 <ul class="gallery mw-gallery-packed-hover">
 		<li class="gallerybox" style="width: 152px">
-			<div class="thumb" style="width: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_1_of_9.jpg" title="1 of 9"><img alt="1 of 9" src="/w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/225px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg" decoding="async" loading="lazy" width="150" height="120" class="mw-file-element" srcset="/w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/338px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg 1.5x, /w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/450px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg 2x" data-file-width="3200" data-file-height="2560"/></a></span></div>
+			<div class="thumb" style="width: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_1_of_9.jpg.md" title="1 of 9"><img alt="1 of 9" src="https://tolkiengateway.net/w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/225px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg" decoding="async" loading="lazy" width="150" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/338px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg/450px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_1_of_9.jpg 2x" data-file-width="3200" data-file-height="2560"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 130px"><div class="gallerytext">
 <p>1 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_2_of_9.jpg" title="2 of 9"><img alt="2 of 9" src="/w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg 1.5x, /w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_2_of_9.jpg.md" title="2 of 9"><img alt="2 of 9" src="https://tolkiengateway.net/w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_2_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>2 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_3_of_9.jpg" title="3 of 9"><img alt="3 of 9" src="/w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg 1.5x, /w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_3_of_9.jpg.md" title="3 of 9"><img alt="3 of 9" src="https://tolkiengateway.net/w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_3_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>3 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_4_of_9.jpg" title="4 of 9"><img alt="4 of 9" src="/w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg 1.5x, /w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_4_of_9.jpg.md" title="4 of 9"><img alt="4 of 9" src="https://tolkiengateway.net/w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_4_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>4 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_5_of_9.jpg" title="5 of 9"><img alt="5 of 9" src="/w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg 1.5x, /w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_5_of_9.jpg.md" title="5 of 9"><img alt="5 of 9" src="https://tolkiengateway.net/w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_5_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>5 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_6_of_9.jpg" title="6 of 9"><img alt="6 of 9" src="/w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg 1.5x, /w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_6_of_9.jpg.md" title="6 of 9"><img alt="6 of 9" src="https://tolkiengateway.net/w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cd/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_6_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>6 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_7_of_9.jpg" title="7 of 9"><img alt="7 of 9" src="/w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg 1.5x, /w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_7_of_9.jpg.md" title="7 of 9"><img alt="7 of 9" src="https://tolkiengateway.net/w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_7_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>7 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_8_of_9.jpg" title="8 of 9"><img alt="8 of 9" src="/w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg 1.5x, /w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_8_of_9.jpg.md" title="8 of 9"><img alt="8 of 9" src="https://tolkiengateway.net/w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f6/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_8_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>8 of 9
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 98px">
-			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_9_of_9.jpg" title="9 of 9"><img alt="9 of 9" src="/w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="/w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg 1.5x, /w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 96px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Pat_Kirke_(3_August_1943)_9_of_9.jpg.md" title="9 of 9"><img alt="9 of 9" src="https://tolkiengateway.net/w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/144px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg" decoding="async" loading="lazy" width="96" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/216px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg/288px-Letter_to_Leila_Keane_and_Pat_Kirke_%283_August_1943%29_9_of_9.jpg 2x" data-file-width="2560" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 76px"><div class="gallerytext">
 <p>9 of 9
 </p>
@@ -113,9 +110,9 @@ TOLKIEN, John Ronald Reuel (1892-1973). Autograph letter signed (â€œJRR Tolkienâ
 
 ## See also {#See_also}
 
-- [Letter to Leila Keane and Patricia Kirke (9 January 1945)](</wiki/Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)>)
-- [Letter to Leila Keene and Pat Kirke](/wiki/Letter_to_Leila_Keene_and_Pat_Kirke)
-- [Letter to Patricia Kirke (28 March 1956)](</wiki/Letter_to_Patricia_Kirke_(28_March_1956)>)
+- [Letter to Leila Keane and Patricia Kirke (9 January 1945)](<Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945).md>)
+- [Letter to Leila Keene and Pat Kirke](Letter_to_Leila_Keene_and_Pat_Kirke.md)
+- [Letter to Patricia Kirke (28 March 1956)](<Letter_to_Patricia_Kirke_(28_March_1956).md>)
 
 ## External links {#External_links}
 

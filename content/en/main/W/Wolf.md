@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolf (disambiguation)"
 ---
 
-Redirect to [Wolf (disambiguation)](/wiki/Wolf_(disambiguation)).
+Redirect to [Wolf (disambiguation)](<Wolf_(disambiguation).md>).

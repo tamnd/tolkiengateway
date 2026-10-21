@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haerast"
 ---
 
-Redirect to [Haerast](/wiki/Haerast).
+Redirect to [Haerast](../H/Haerast.md).

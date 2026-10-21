@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Lord of the Rings (board game)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Lord of the Rings (board game)</span>"
 page_id: 74056
 namespace: 14
 revision_id: 436888
@@ -15,4 +14,4 @@ sort_keys:
   "Images of board games": "Lord of the Rings"
 ---
 
-Images from [*Lord of the Rings* (board game)](</wiki/Lord_of_the_Rings_(board_game)> "Lord of the Rings (board game)")
+Images from [*Lord of the Rings* (board game)](<../../main/L/Lord_of_the_Rings_(board_game).md>)

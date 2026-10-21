@@ -1,6 +1,5 @@
 ---
 title: "Angela Gardner"
-display_title: "<span class=\"mw-page-title-main\">Angela Gardner</span>"
 page_id: 25988
 namespace: 0
 revision_id: 404657
@@ -21,9 +20,9 @@ sort_keys:
   "People by name": "Gardner, Angela"
 ---
 
-**Angela Gardner** is a British member of [The Tolkien Society](/wiki/The_Tolkien_Society) and former book shop owner. She was chosen to edit [the private papers and letters](/wiki/Wheelbarrows_at_Dawn "Wheelbarrows at Dawn") of [Hilary Tolkien](/wiki/Hilary_Tolkien), as well as a collection of his tales, [Black &amp; White Ogre Country](/wiki/Black_%26_White_Ogre_Country).
+**Angela Gardner** is a British member of [The Tolkien Society](../T/The_Tolkien_Society.md) and former book shop owner. She was chosen to edit [the private papers and letters](../W/Wheelbarrows_at_Dawn.md) of [Hilary Tolkien](../H/Hilary_Tolkien.md), as well as a collection of his tales, [Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md).
 
 ## Bibliography {#Bibliography}
 
-- [2009](/wiki/2009): *[Black &amp; White Ogre Country](/wiki/Black_%26_White_Ogre_Country)*
-- (Cancelled): *[Wheelbarrows at Dawn: The Memories of Hilary Tolkien](/wiki/Wheelbarrows_at_Dawn "Wheelbarrows at Dawn")*
+- [2009](../_/2009.md): *[Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md)*
+- (Cancelled): *[Wheelbarrows at Dawn: The Memories of Hilary Tolkien](../W/Wheelbarrows_at_Dawn.md)*

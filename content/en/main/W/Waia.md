@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vaiya"
 ---
 
-Redirect to [Vaiya](/wiki/Vaiya).
+Redirect to [Vaiya](../V/Vaiya.md).

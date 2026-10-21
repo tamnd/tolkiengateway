@@ -1,6 +1,5 @@
 ---
 title: "Category:Festivals and feasts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Festivals and feasts</span>"
 page_id: 59491
 namespace: 14
 revision_id: 331301
@@ -13,4 +12,4 @@ categories:
   - "Events"
 ---
 
-Festivals, feasts and rituals celebrated throughout [Arda](/wiki/Arda).
+Festivals, feasts and rituals celebrated throughout [Arda](../../main/A/Arda.md).

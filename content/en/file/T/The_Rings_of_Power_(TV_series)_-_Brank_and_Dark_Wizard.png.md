@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Brank and Dark Wizard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Brank and Dark Wizard.png</span>"
 page_id: 68925
 namespace: 6
 revision_id: 412355

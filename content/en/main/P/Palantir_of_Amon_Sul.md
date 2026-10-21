@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Sûl-stone"
 ---
 
-Redirect to [Amon Sûl-stone](/wiki/Amon_Sûl-stone).
+Redirect to [Amon Sûl-stone](../A/Amon_Sûl-stone.md).

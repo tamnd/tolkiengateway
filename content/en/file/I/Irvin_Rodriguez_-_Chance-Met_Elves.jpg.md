@@ -1,6 +1,5 @@
 ---
 title: "File:Irvin Rodriguez - Chance-Met Elves.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Irvin Rodriguez - Chance-Met Elves.jpg</span>"
 page_id: 72088
 namespace: 6
 revision_id: 428860
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"Chance-Met [Elves](/wiki/Elves)" by [Irvin Rodriguez](/wiki/Category:Images_by_Irvin_Rodriguez "Category:Images by Irvin Rodriguez") for *[The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth)*
+"Chance-Met [Elves](../../main/E/Elves.md)" by [Irvin Rodriguez](../../category/I/Images_by_Irvin_Rodriguez.md) for *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Irvin Rodriguez</li>
 <li><b>Website:</b> <a class="external text" href="http://irvinrodriguez.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Irvin_Rodriguez" title="Tolkien Gateway:Copyrights/Irvin Rodriguez">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIrvin_Rodriguez.md" title="Tolkien Gateway:Copyrights/Irvin Rodriguez">Permission for use on Tolkien Gateway</a></b></li></ul></div>

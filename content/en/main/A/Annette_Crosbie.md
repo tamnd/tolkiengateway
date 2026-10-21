@@ -1,6 +1,5 @@
 ---
 title: "Annette Crosbie"
-display_title: "<span class=\"mw-page-title-main\">Annette Crosbie</span>"
 page_id: 18830
 namespace: 0
 revision_id: 434533
@@ -23,9 +22,9 @@ images:
   - "Annette_Crosbie.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Annette_Crosbie.jpg"><img src="/w/images/thumb/3/32/Annette_Crosbie.jpg/300px-Annette_Crosbie.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="/w/images/3/32/Annette_Crosbie.jpg 1.5x" data-file-width="320" data-file-height="240"/></a><figcaption>Annette Crosbie in <i><a class="extiw" href="http://en.wikipedia.org/wiki/One_Foot_in_the_Grave" title="wikipedia:One Foot in the Grave">One Foot in the Grave</a></i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Annette_Crosbie.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Annette_Crosbie.jpg/300px-Annette_Crosbie.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/32/Annette_Crosbie.jpg 1.5x" data-file-width="320" data-file-height="240"/></a><figcaption>Annette Crosbie in <i><a class="extiw" href="http://en.wikipedia.org/wiki/One_Foot_in_the_Grave" title="wikipedia:One Foot in the Grave">One Foot in the Grave</a></i></figcaption></figure>
 
-**Annette Crosbie**, [OBE](/wiki/Order_of_the_British_Empire "Order of the British Empire") ([February 12](/wiki/12_February "12 February"), [1934](/wiki/1934)) is a Scottish character actress. She provided the voice of [Galadriel](/wiki/Galadriel) in [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+**Annette Crosbie**, [OBE](../O/Order_of_the_British_Empire.md) ([February 12](../_/12_February.md), [1934](../_/1934.md)) is a Scottish character actress. She provided the voice of [Galadriel](../G/Galadriel.md) in [*The Lord of the Rings* (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

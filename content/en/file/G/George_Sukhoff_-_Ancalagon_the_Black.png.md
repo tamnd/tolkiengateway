@@ -1,6 +1,5 @@
 ---
 title: "File:George Sukhoff - Ancalagon the Black.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">George Sukhoff - Ancalagon the Black.png</span>"
 page_id: 57661
 namespace: 6
 revision_id: 318883
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> George Sukhoff</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/hoch-spannung" rel="noreferrer noopener" target="_blank">George Sukhoff on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/George_Sukhoff" title="Tolkien Gateway:Copyrights/George Sukhoff">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGeorge_Sukhoff.md" title="Tolkien Gateway:Copyrights/George Sukhoff">Permission for use on Tolkien Gateway</a></b></li></ul></div>

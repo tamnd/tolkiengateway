@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin's letter"
 ---
 
-Redirect to [Thorin's letter](/wiki/Thorin's_letter).
+Redirect to [Thorin's letter](Thorin's_letter.md).

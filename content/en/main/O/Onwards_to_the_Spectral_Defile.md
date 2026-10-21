@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Onwards to the Spectral Defile</b></i> was [Cirith Gorgor](</wiki/Cirith_Gorgor_(band)> "Cirith Gorgor (band)")'s first full length album. It was released in [1999](/wiki/1999) on Osmose Records, produced by Cirith Gorgor and E. Hermsen, and recorded at BBA.
+<i><b>Onwards to the Spectral Defile</b></i> was [Cirith Gorgor](<../C/Cirith_Gorgor_(band).md>)'s first full length album. It was released in [1999](../_/1999.md) on Osmose Records, produced by Cirith Gorgor and E. Hermsen, and recorded at BBA.
 
 ## Track listing {#Track_listing}
 

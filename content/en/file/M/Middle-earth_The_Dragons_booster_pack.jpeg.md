@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth The Dragons booster pack.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth The Dragons booster pack.jpeg</span>"
 page_id: 73450
 namespace: 6
 revision_id: 434236
@@ -27,16 +26,10 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Own scan of booster packs</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

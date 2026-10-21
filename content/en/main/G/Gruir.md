@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Afros and Gruir"
 ---
 
-Redirect to [Afros and Gruir](/wiki/Afros_and_Gruir).
+Redirect to [Afros and Gruir](../A/Afros_and_Gruir.md).

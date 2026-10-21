@@ -1,6 +1,5 @@
 ---
 title: "File:Bill Nighy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bill Nighy.jpg</span>"
 page_id: 9861
 namespace: 6
 revision_id: 247573

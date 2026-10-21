@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Cover.jpg</span>"
 page_id: 9848
 namespace: 6
 revision_id: 428542

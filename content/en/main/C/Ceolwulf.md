@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Céolwulf"
 ---
 
-Redirect to [Céolwulf](/wiki/Céolwulf).
+Redirect to [Céolwulf](Céolwulf.md).

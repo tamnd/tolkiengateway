@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Samwise Frodo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Samwise Frodo.png</span>"
 page_id: 22811
 namespace: 6
 revision_id: 224958
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) telling [his son Frodo](/wiki/Frodo_Gardner "Frodo Gardner") and several other (off-screen) Hobbit children the adventures of [Strider](/wiki/Aragorn "Aragorn"). From the E3 trailer, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
+[Samwise Gamgee](../../main/S/Samwise_Gamgee.md) telling [his son Frodo](../../main/F/Frodo_Gardner.md) and several other (off-screen) Hobbit children the adventures of [Strider](../../main/A/Aragorn.md). From the E3 trailer, <a class="external autonumber" href="http://www.youtube.com/watch?v=G6iNEuukLyo" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

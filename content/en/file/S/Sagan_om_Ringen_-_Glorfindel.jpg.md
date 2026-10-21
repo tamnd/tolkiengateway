@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen - Glorfindel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen - Glorfindel.jpg</span>"
 page_id: 71009
 namespace: 6
 revision_id: 434668
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Glorfindel](/wiki/Glorfindel) in [Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)")
+[Glorfindel](../../main/G/Glorfindel.md) in [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgoth's Ring"
 ---
 
-Redirect to [Morgoth's Ring](/wiki/Morgoth's_Ring).
+Redirect to [Morgoth's Ring](Morgoth's_Ring.md).

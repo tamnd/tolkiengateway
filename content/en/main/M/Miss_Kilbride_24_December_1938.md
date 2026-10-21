@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss Kilbride"
 ---
 
-Redirect to [Letter to Miss Kilbride](/wiki/Letter_to_Miss_Kilbride).
+Redirect to [Letter to Miss Kilbride](../L/Letter_to_Miss_Kilbride.md).

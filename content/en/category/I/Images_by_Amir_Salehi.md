@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Amir Salehi"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Amir Salehi</span>"
 page_id: 17629
 namespace: 14
 revision_id: 181927

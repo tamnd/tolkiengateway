@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andave"
 ---
 
-Redirect to [Andave](/wiki/Andave).
+Redirect to [Andave](Andave.md).

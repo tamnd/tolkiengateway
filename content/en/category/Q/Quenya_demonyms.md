@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya demonyms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya demonyms</span>"
 page_id: 58848
 namespace: 14
 revision_id: 326157
@@ -16,4 +15,4 @@ sort_keys:
   "Quenya nouns": "Demonyms"
 ---
 
-This category includes all [Quenya](/wiki/Quenya) names for groups of people.
+This category includes all [Quenya](../../main/Q/Quenya.md) names for groups of people.

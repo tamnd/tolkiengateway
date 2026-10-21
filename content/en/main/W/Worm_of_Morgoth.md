@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glaurung"
 ---
 
-Redirect to [Glaurung](/wiki/Glaurung).
+Redirect to [Glaurung](../G/Glaurung.md).

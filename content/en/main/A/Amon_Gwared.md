@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Gwareth"
 ---
 
-Redirect to [Amon Gwareth](/wiki/Amon_Gwareth).
+Redirect to [Amon Gwareth](Amon_Gwareth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Society Awards"
 ---
 
-Redirect to [The Tolkien Society Awards](/wiki/The_Tolkien_Society_Awards).
+Redirect to [The Tolkien Society Awards](The_Tolkien_Society_Awards.md).

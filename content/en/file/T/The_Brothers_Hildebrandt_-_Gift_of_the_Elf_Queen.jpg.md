@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Gift of the Elf Queen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Gift of the Elf Queen.jpg</span>"
 page_id: 71591
 namespace: 6
 revision_id: 435849
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"Gift of [the Elf Queen](/wiki/Galadriel "Galadriel")" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). 'In the early 1990's Greg Hildebrandt did numerous commissions for one of his collectors. \[This piece\] is based off the original work created by Greg and Tim Hildebrandt in 1976.'
+"Gift of [the Elf Queen](../../main/G/Galadriel.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). 'In the early 1990's Greg Hildebrandt did numerous commissions for one of his collectors. \[This piece\] is based off the original work created by Greg and Tim Hildebrandt in 1976.'
 
 ## Licensing {#Licensing}
 

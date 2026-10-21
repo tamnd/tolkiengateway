@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cabed-en-Aras"
 ---
 
-Redirect to [Cabed-en-Aras](/wiki/Cabed-en-Aras).
+Redirect to [Cabed-en-Aras](Cabed-en-Aras.md).

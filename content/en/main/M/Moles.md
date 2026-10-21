@@ -1,6 +1,5 @@
 ---
 title: "Moles"
-display_title: "<span class=\"mw-page-title-main\">Moles</span>"
 page_id: 8899
 namespace: 0
 revision_id: 325291
@@ -13,11 +12,11 @@ categories:
   - "Animals"
 ---
 
-**Moles** were small black animals, apparently well-known to the people of [Gondolin](/wiki/Gondolin). [Maeglin](/wiki/Maeglin) adopted it as the symbol of the [House of the Mole](/wiki/House_of_the_Mole).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Moles** were small black animals, apparently well-known to the people of [Gondolin](../G/Gondolin.md). [Maeglin](Maeglin.md) adopted it as the symbol of the [House of the Mole](../H/House_of_the_Mole.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Other names {#Other_names}
 
-As the word <i><a class="external text" href="http://en.wiktionary.org/wiki/mole" rel="noreferrer noopener" target="_blank">mole</a></i> has several meanings in English, it can be difficult to know if an Elvish word refers to the animal. In any case, some names are given: [Qenya](/wiki/Qenya) *noldare*, *nolpa* ("a mole"); [Gnomish](/wiki/Gnomish) *dolfa*, *dolmeg* ("a mole"), and *meg* ("any small animal, especially mole").<sup id="cite_ref-PE11_2-0" class="reference"><a href="#cite_note-PE11-2">[2]</a></sup>
+As the word <i><a class="external text" href="http://en.wiktionary.org/wiki/mole" rel="noreferrer noopener" target="_blank">mole</a></i> has several meanings in English, it can be difficult to know if an Elvish word refers to the animal. In any case, some names are given: [Qenya](../Q/Qenya.md) *noldare*, *nolpa* ("a mole"); [Gnomish](../G/Gnomish.md) *dolfa*, *dolmeg* ("a mole"), and *meg* ("any small animal, especially mole").<sup id="cite_ref-PE11_2-0" class="reference"><a href="#cite_note-PE11-2">[2]</a></sup>
 
 ## External links {#External_links}
 
@@ -28,8 +27,8 @@ As the word <i><a class="external text" href="http://en.wiktionary.org/wiki/mole
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_Two" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;III. <a href="/wiki/The_Fall_of_Gondolin_(chapter)" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;III. <a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</span>
 </li>
-<li id="cite_note-PE11-2"><span class="mw-cite-backlink"><a href="#cite_ref-PE11_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="/wiki/Parma_Eldalamberon_11" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), pp. 30, 57</span>
+<li id="cite_note-PE11-2"><span class="mw-cite-backlink"><a href="#cite_ref-PE11_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="../P/Parma_Eldalamberon_11.md" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), pp. 30, 57</span>
 </li>
 </ol></div>

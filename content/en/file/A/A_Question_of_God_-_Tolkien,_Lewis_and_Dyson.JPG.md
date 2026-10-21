@@ -1,6 +1,5 @@
 ---
 title: "File:A Question of God - Tolkien, Lewis and Dyson.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Question of God - Tolkien, Lewis and Dyson.JPG</span>"
 page_id: 20830
 namespace: 6
 revision_id: 260566
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="external text" href="http://www.castingcollective.co.uk/2008/productions/namesearch.php?s_fname=ian&amp;s_sname=bellman&amp;search.x=0&amp;search.y=0" rel="noreferrer noopener" target="_blank">Ian Bellman</a> as [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), Hugo Sims as [Hugo Dyson](/wiki/Hugo_Dyson) and Declan Conlan as [C.S. Lewis](/wiki/C.S._Lewis), walking along <a class="new" href="/w/index.php?title=Addison_Walk&amp;action=edit&amp;redlink=1" title="Addison Walk (page does not exist)">Addison Walk</a>. Screenshot from <i><a class="external text" href="http://www.imdb.com/title/tt0433436/" rel="noreferrer noopener" target="_blank">The Question of God: Sigmund Freud &amp; C.S. Lewis</a></i> (2004).
+<a class="external text" href="http://www.castingcollective.co.uk/2008/productions/namesearch.php?s_fname=ian&amp;s_sname=bellman&amp;search.x=0&amp;search.y=0" rel="noreferrer noopener" target="_blank">Ian Bellman</a> as [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), Hugo Sims as [Hugo Dyson](../../main/H/Hugo_Dyson.md) and Declan Conlan as [C.S. Lewis](../../main/C/C.S._Lewis.md), walking along <a class="new" href="https://tolkiengateway.net/w/index.php?title=Addison_Walk&amp;action=edit&amp;redlink=1" title="Addison Walk (page does not exist)">Addison Walk</a>. Screenshot from <i><a class="external text" href="http://www.imdb.com/title/tt0433436/" rel="noreferrer noopener" target="_blank">The Question of God: Sigmund Freud &amp; C.S. Lewis</a></i> (2004).
 
 ## Licensing {#Licensing}
 

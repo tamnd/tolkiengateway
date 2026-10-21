@@ -14,18 +14,18 @@ categories:
   - "Sindarin prefixes"
 ---
 
-<i><b>mal-</b></i> is an [Elvish](/wiki/Elvish) prefix meaning "[gold](/wiki/Gold "Gold")".<sup id="cite_ref-SApp_1-0" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
+<i><b>mal-</b></i> is an [Elvish](../E/Elvish.md) prefix meaning "[gold](../G/Gold.md)".<sup id="cite_ref-SApp_1-0" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i>
-- [Sindarin](/wiki/Sindarin) *[malt](/wiki/Malt "Malt")*
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i>
+- [Sindarin](../S/Sindarin.md) *[malt](Malt.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-SApp-1"><span class="mw-cite-backlink"><a href="#cite_ref-SApp_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
+<li id="cite_note-SApp-1"><span class="mw-cite-backlink"><a href="#cite_ref-SApp_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;</span>
 </li>
 </ol></div>

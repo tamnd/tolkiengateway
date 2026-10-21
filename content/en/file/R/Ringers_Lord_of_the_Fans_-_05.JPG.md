@@ -1,6 +1,5 @@
 ---
 title: "File:Ringers Lord of the Fans - 05.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ringers Lord of the Fans - 05.JPG</span>"
 page_id: 5117
 namespace: 6
 revision_id: 205285
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-An image from the [Ringers: Lord of the Fans](/wiki/Ringers:_Lord_of_the_Fans) DVD.
+An image from the [Ringers: Lord of the Fans](../../main/R/Ringers%253A_Lord_of_the_Fans.md) DVD.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peter Kľúčik"
 ---
 
-Redirect to [Peter Kľúčik](/wiki/Peter_Kľúčik).
+Redirect to [Peter Kľúčik](Peter_Kľúčik.md).

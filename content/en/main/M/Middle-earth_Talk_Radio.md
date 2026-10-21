@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Middle-earth Talk Radio"
 ---
 
-<i><b>Middle-earth Talk Radio</b></i> was a [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-podcast hosted by [Michael Martinez](/wiki/Michael_Martinez) and [Hawke Robinson](/wiki/Hawke_Robinson).
+<i><b>Middle-earth Talk Radio</b></i> was a [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-podcast hosted by [Michael Martinez](Michael_Martinez.md) and [Hawke Robinson](../H/Hawke_Robinson.md).
 
 ## External links {#External_links}
 

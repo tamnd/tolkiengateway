@@ -1,6 +1,5 @@
 ---
 title: "Category:Races in The Book of Lost Tales"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Races in The Book of Lost Tales</span>"
 page_id: 59073
 namespace: 14
 revision_id: 333079
@@ -14,4 +13,4 @@ categories:
   - "Other races"
 ---
 
-Races and creatures that appear only in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*. Note that some of those names refer to concepts that also appear in the later [legendarium](/wiki/Legendarium "Legendarium").
+Races and creatures that appear only in *[The Book of Lost Tales](../../main/T/The_Book_of_Lost_Tales.md)*. Note that some of those names refer to concepts that also appear in the later [legendarium](../../main/L/Legendarium.md).

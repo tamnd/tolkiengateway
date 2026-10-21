@@ -1,6 +1,5 @@
 ---
 title: "Category:Multi-User Dungeons"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Multi-User Dungeons</span>"
 page_id: 21767
 namespace: 14
 revision_id: 416684
@@ -16,4 +15,4 @@ sort_keys:
   "Fan-made mods and games": "Multi-user Dungeons (MUD)"
 ---
 
-This category lists all <b><a class="external text" href="https://en.wikipedia.org/wiki/Multi-user_dungeon" rel="noreferrer noopener" target="_blank">Multi-User Dungeons</a></b> related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all <b><a class="external text" href="https://en.wikipedia.org/wiki/Multi-user_dungeon" rel="noreferrer noopener" target="_blank">Multi-User Dungeons</a></b> related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

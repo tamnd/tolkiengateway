@@ -1,6 +1,5 @@
 ---
 title: "Orson Scott Card"
-display_title: "<span class=\"mw-page-title-main\">Orson Scott Card</span>"
 page_id: 29694
 namespace: 0
 revision_id: 252284
@@ -21,17 +20,17 @@ images:
   - "Orson_Scott_Card.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Orson_Scott_Card.jpg"><img src="/w/images/thumb/4/48/Orson_Scott_Card.jpg/300px-Orson_Scott_Card.jpg" decoding="async" loading="lazy" width="300" height="373" class="mw-file-element" srcset="/w/images/4/48/Orson_Scott_Card.jpg 1.5x" data-file-width="441" data-file-height="548"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Orson_Scott_Card.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/Orson_Scott_Card.jpg/300px-Orson_Scott_Card.jpg" decoding="async" loading="lazy" width="300" height="373" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/48/Orson_Scott_Card.jpg 1.5x" data-file-width="441" data-file-height="548"/></a><figcaption></figcaption></figure>
 
-**Orson Scott Card** (born [August 24](/wiki/24_August "24 August"), [1951](/wiki/1951)) is an American author who primarily writes science fiction.
+**Orson Scott Card** (born [August 24](../_/24_August.md), [1951](../_/1951.md)) is an American author who primarily writes science fiction.
 
-In 1997, he was Guest of Honour at [Mythcon 28](/wiki/Mythcon_28).
+In 1997, he was Guest of Honour at [Mythcon 28](../M/Mythcon_28.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [2001](/wiki/2001): *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*
+- [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
     - "How Tolkien Means"
 
 ## External links {#External_links}

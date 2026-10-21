@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anor-stone"
 ---
 
-Redirect to [Anor-stone](/wiki/Anor-stone).
+Redirect to [Anor-stone](../A/Anor-stone.md).

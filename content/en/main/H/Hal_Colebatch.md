@@ -1,6 +1,5 @@
 ---
 title: "Hal Colebatch"
-display_title: "<span class=\"mw-page-title-main\">Hal Colebatch</span>"
 page_id: 21703
 namespace: 0
 revision_id: 190942
@@ -21,27 +20,27 @@ sort_keys:
   "People by name": "Colebatch, Hal"
 ---
 
-**Hal Gibson Pateshall Colebatch**, Ph.D. (born [October 7](/wiki/7_October "7 October"), [1945](/wiki/1945)) is an Australian lawyer, poet and author. The son of the Australian politician <a class="extiw" href="http://en.wikipedia.org/wiki/Hal_Colebatch" title="wikipedia:Hal Colebatch">sir Hal Colebatch</a>, Colebatch has been writing poetry, nonfiction and political commentary, and also wrote several books in <a class="extiw" href="http://en.wikipedia.org/wiki/Larry_Niven" title="wikipedia:Larry Niven">Larry Niven</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/Man-Kzin_Wars" title="wikipedia:Man-Kzin Wars"><i>Man-Kzin Wars</i></a>.
+**Hal Gibson Pateshall Colebatch**, Ph.D. (born [October 7](../_/7_October.md), [1945](../_/1945.md)) is an Australian lawyer, poet and author. The son of the Australian politician <a class="extiw" href="http://en.wikipedia.org/wiki/Hal_Colebatch" title="wikipedia:Hal Colebatch">sir Hal Colebatch</a>, Colebatch has been writing poetry, nonfiction and political commentary, and also wrote several books in <a class="extiw" href="http://en.wikipedia.org/wiki/Larry_Niven" title="wikipedia:Larry Niven">Larry Niven</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/Man-Kzin_Wars" title="wikipedia:Man-Kzin Wars"><i>Man-Kzin Wars</i></a>.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1990](/wiki/1990): *[Return of the Heroes: The Lord of the Rings, Star Wars, Harry Potter, and Social Conflict](/wiki/Return_of_the_Heroes "Return of the Heroes")*
-- [2003](/wiki/2003): *Return of the Heroes: The Lord of the Rings, Star Wars, Harry Potter, and Social Conflict* (second edition)
+- [1990](../_/1990.md): *[Return of the Heroes: The Lord of the Rings, Star Wars, Harry Potter, and Social Conflict](../R/Return_of_the_Heroes.md)*
+- [2003](../_/2003.md): *Return of the Heroes: The Lord of the Rings, Star Wars, Harry Potter, and Social Conflict* (second edition)
 
 ### Articles {#Articles}
 
-- [1989](/wiki/1989): *Quadrant*
+- [1989](../_/1989.md): *Quadrant*
     - "Tolkien and His Critics"
-- [1989](/wiki/1989): *Antipodes : a North American journal of Australian literature*
-    - ([December](/wiki/December)): "Reading *The Lord of the Rings*"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [1989](../_/1989.md): *Antipodes : a North American journal of Australian literature*
+    - ([December](../D/December.md)): "Reading *The Lord of the Rings*"
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Capitalism"
     - "Communism"
     - "Politics"
-- [2007](/wiki/2007): *The American Spectator*
-    - ([August 23](/wiki/23_August "23 August")) "<a class="external text" href="http://spectator.org/archives/2007/08/23/the-christian-resonances-of-mo" rel="noreferrer noopener" target="_blank">The Christian Resonances of Modern Epic</a>"
+- [2007](../_/2007.md): *The American Spectator*
+    - ([August 23](../_/23_August.md)) "<a class="external text" href="http://spectator.org/archives/2007/08/23/the-christian-resonances-of-mo" rel="noreferrer noopener" target="_blank">The Christian Resonances of Modern Epic</a>"
 
 ## External links {#External_links}
 

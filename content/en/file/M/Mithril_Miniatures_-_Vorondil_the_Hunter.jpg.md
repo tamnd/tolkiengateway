@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Vorondil the Hunter.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Vorondil the Hunter.jpg</span>"
 page_id: 71203
 namespace: 6
 revision_id: 424896
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Vorondil](/wiki/Vorondil) - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br> Product description:
+[Vorondil](../../main/V/Vorondil.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br> Product description:
 
 <div class="poem">
 <p>The last steward of Gondor to serve under a king, Vorondil was renowned above all as a great hunter. His hunting prowess  was  legendary and  he led expeditions even as far as the plains of Rhun  in search of the wild kine of that land. His son Mardil became the first of the ruling stewards of Gondor. Vorondil bore a great hunting horn which, after him, was passed down from all the future ruling stewards to their eldest sons.<br/>
@@ -38,7 +37,7 @@ This is the 107th release in the Gold Status Fellowship club and was September 2
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

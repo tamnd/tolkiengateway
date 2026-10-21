@@ -1,6 +1,5 @@
 ---
 title: "File:Royal Mail - 2004 - 01 - Map from The Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Royal Mail - 2004 - 01 - Map from The Lord of the Rings.jpg</span>"
 page_id: 13321
 namespace: 6
 revision_id: 220549

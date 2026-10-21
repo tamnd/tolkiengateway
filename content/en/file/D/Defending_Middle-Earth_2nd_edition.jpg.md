@@ -1,6 +1,5 @@
 ---
 title: "File:Defending Middle-Earth 2nd edition.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Defending Middle-Earth 2nd edition.jpg</span>"
 page_id: 61352
 namespace: 6
 revision_id: 345347

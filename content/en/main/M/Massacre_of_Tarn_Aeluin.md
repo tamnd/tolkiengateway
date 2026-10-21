@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Massacre at Tarn Aeluin"
 ---
 
-Redirect to [Massacre at Tarn Aeluin](/wiki/Massacre_at_Tarn_Aeluin).
+Redirect to [Massacre at Tarn Aeluin](Massacre_at_Tarn_Aeluin.md).

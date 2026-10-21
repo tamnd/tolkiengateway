@@ -1,6 +1,5 @@
 ---
 title: "Lord of Isengard"
-display_title: "<span class=\"mw-page-title-main\">Lord of Isengard</span>"
 page_id: 56802
 namespace: 0
 revision_id: 434369
@@ -14,25 +13,25 @@ categories:
   - "Mannish titles"
 ---
 
-<span id="background" class="isengard"> <b>Lord of Isengard</b> was the title born by the master of <a href="/wiki/Isengard" title="Isengard">Isengard</a>, a <a class="mw-redirect" href="/wiki/Gondorian" title="Gondorian">Gondorian</a> chieftain in command of the local garrison. The guardians with time became secretive and mingled with the <a href="/wiki/Dunlendings" title="Dunlendings">Dunlendings</a> until the Gondorian line failed.<sup id="cite_ref-UTIsen_1-0" class="reference"><a href="#cite_note-UTIsen-1">[1]</a></sup> </span>
+<span id="background" class="isengard"> <b>Lord of Isengard</b> was the title born by the master of <a href="../I/Isengard.md" title="Isengard">Isengard</a>, a <a class="mw-redirect" href="../G/Gondorian.md" title="Gondorian">Gondorian</a> chieftain in command of the local garrison. The guardians with time became secretive and mingled with the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> until the Gondorian line failed.<sup id="cite_ref-UTIsen_1-0" class="reference"><a href="#cite_note-UTIsen-1">[1]</a></sup> </span>
 
-[Saruman](/wiki/Saruman) later declared himself as Lord of Isengard, when he was granted to settle in [Orthanc](/wiki/Orthanc).<sup id="cite_ref-AppMark_2-0" class="reference"><a href="#cite_note-AppMark-2">[2]</a></sup> Following the death [Steward](/wiki/Steward) [Turgon](</wiki/Turgon_(Steward_of_Gondor)> "Turgon (Steward of Gondor)"), the [Wizard](/wiki/Istari "Istari") no longer paid heed to [Gondor](/wiki/Gondor) and made Isengard into his fortress,<sup id="cite_ref-AppStewards_3-0" class="reference"><a href="#cite_note-AppStewards-3">[3]</a></sup> eventually abandoning his mission to fall into mimicry of the [Enemy](/wiki/Sauron "Sauron") as his duplicitous vassal, weaving plots to suit his own personal ambitions.<sup id="cite_ref-FRCouncil_4-0" class="reference"><a href="#cite_note-FRCouncil-4">[4]</a></sup>
+[Saruman](../S/Saruman.md) later declared himself as Lord of Isengard, when he was granted to settle in [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppMark_2-0" class="reference"><a href="#cite_note-AppMark-2">[2]</a></sup> Following the death [Steward](../S/Steward.md) [Turgon](<../T/Turgon_(Steward_of_Gondor).md>), the [Wizard](../I/Istari.md) no longer paid heed to [Gondor](../G/Gondor.md) and made Isengard into his fortress,<sup id="cite_ref-AppStewards_3-0" class="reference"><a href="#cite_note-AppStewards-3">[3]</a></sup> eventually abandoning his mission to fall into mimicry of the [Enemy](../S/Sauron.md) as his duplicitous vassal, weaving plots to suit his own personal ambitions.<sup id="cite_ref-FRCouncil_4-0" class="reference"><a href="#cite_note-FRCouncil-4">[4]</a></sup>
 
 ## See also {#See_also}
 
-- [Key of Orthanc](/wiki/Key_of_Orthanc)
+- [Key of Orthanc](../K/Key_of_Orthanc.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-UTIsen-1"><span class="mw-cite-backlink"><a href="#cite_ref-UTIsen_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Battles_of_the_Fords_of_Isen" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a>&#34;, Appendix (ii)</span>
+<li id="cite_note-UTIsen-1"><span class="mw-cite-backlink"><a href="#cite_ref-UTIsen_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a>&#34;, Appendix (ii)</span>
 </li>
-<li id="cite_note-AppMark-2"><span class="mw-cite-backlink"><a href="#cite_ref-AppMark_2-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;, &#34;The Kings of the Mark&#34;</span>
+<li id="cite_note-AppMark-2"><span class="mw-cite-backlink"><a href="#cite_ref-AppMark_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;, &#34;The Kings of the Mark&#34;</span>
 </li>
-<li id="cite_note-AppStewards-3"><span class="mw-cite-backlink"><a href="#cite_ref-AppStewards_3-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;, &#34;The Stewards&#34;</span>
+<li id="cite_note-AppStewards-3"><span class="mw-cite-backlink"><a href="#cite_ref-AppStewards_3-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;, &#34;The Stewards&#34;</span>
 </li>
-<li id="cite_note-FRCouncil-4"><span class="mw-cite-backlink"><a href="#cite_ref-FRCouncil_4-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Council_of_Elrond" title="The Council of Elrond">The Council of Elrond</a>&#34;</span>
+<li id="cite_note-FRCouncil-4"><span class="mw-cite-backlink"><a href="#cite_ref-FRCouncil_4-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</span>
 </li>
 </ol></div>

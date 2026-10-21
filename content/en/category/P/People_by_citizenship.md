@@ -1,6 +1,5 @@
 ---
 title: "Category:People by citizenship"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">People by citizenship</span>"
 page_id: 34224
 namespace: 14
 revision_id: 158109

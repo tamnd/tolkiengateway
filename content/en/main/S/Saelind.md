@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andreth"
 ---
 
-Redirect to [Andreth](/wiki/Andreth).
+Redirect to [Andreth](../A/Andreth.md).

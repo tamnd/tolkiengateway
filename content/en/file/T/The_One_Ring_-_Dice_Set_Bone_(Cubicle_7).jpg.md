@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Dice Set Bone (Cubicle 7).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Dice Set Bone (Cubicle 7).jpg</span>"
 page_id: 75028
 namespace: 6
 revision_id: 441769
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20180522000343/http://shop.cubicle7store.com/epages/es113347.sf/sec2b008d0708/?ObjectPath=/Shops/es113347_shop/Products/CB71002a" rel="noreferrer noopener" target="_blank">Cubicle 7 store</a> (archived)</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

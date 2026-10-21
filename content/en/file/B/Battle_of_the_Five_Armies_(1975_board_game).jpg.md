@@ -1,6 +1,5 @@
 ---
 title: "File:Battle of the Five Armies (1975 board game).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Battle of the Five Armies (1975 board game).jpg</span>"
 page_id: 33035
 namespace: 6
 revision_id: 199439
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Cover of the 1977(?) edition of *[Battle of the Five Armies](</wiki/Battle_of_the_Five_Armies_(board_game)> "Battle of the Five Armies (board game)")*.
+Cover of the 1977(?) edition of *[Battle of the Five Armies](<../../main/B/Battle_of_the_Five_Armies_(board_game).md>)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

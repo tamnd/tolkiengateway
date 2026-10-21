@@ -1,6 +1,5 @@
 ---
 title: "File:A Elbereth Gilthoniel (fanzine).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Elbereth Gilthoniel (fanzine).png</span>"
 page_id: 38496
 namespace: 6
 revision_id: 215396

@@ -1,6 +1,5 @@
 ---
 title: "File:Kiran Shah.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kiran Shah.png</span>"
 page_id: 73178
 namespace: 6
 revision_id: 433039
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Kiran Shah](/wiki/Kiran_Shah) - Source: <a class="external text" href="https://www.youtube.com/watch?v=pGGD80RPYOM&amp;list=PLgj9RWFvmk9UUB_-hN1PywWYAedFMIHMN&amp;index=13" rel="noreferrer noopener" target="_blank">11x02 - In the Dungeons of the Necromancer | Hobbit Behind the Scenes</a>
+[Kiran Shah](../../main/K/Kiran_Shah.md) - Source: <a class="external text" href="https://www.youtube.com/watch?v=pGGD80RPYOM&amp;list=PLgj9RWFvmk9UUB_-hN1PywWYAedFMIHMN&amp;index=13" rel="noreferrer noopener" target="_blank">11x02 - In the Dungeons of the Necromancer | Hobbit Behind the Scenes</a>
 
 ## Licensing {#Licensing}
 

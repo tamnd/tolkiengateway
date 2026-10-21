@@ -1,6 +1,5 @@
 ---
 title: "File:Humphrey Carpenter - A World of His Own.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Humphrey Carpenter - A World of His Own.jpg</span>"
 page_id: 44309
 namespace: 6
 revision_id: 238744
@@ -38,4 +37,4 @@ file:
 
 ## Description {#Description}
 
-The article "A World of His Own" by [Humphrey Carpenter](/wiki/Humphrey_Carpenter), published in an issue of the *Sunday Telegraph Magazine* (11/9/1977).
+The article "A World of His Own" by [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md), published in an issue of the *Sunday Telegraph Magazine* (11/9/1977).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Thrór"
 ---
 
-Redirect to [Ring of Thrór](/wiki/Ring_of_Thrór).
+Redirect to [Ring of Thrór](Ring_of_Thrór.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Articles to be merged"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Articles to be merged</span>"
 page_id: 12844
 namespace: 14
 revision_id: 63202

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Núneth"
 ---
 
-Redirect to [Núneth](/wiki/Núneth).
+Redirect to [Núneth](Núneth.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Ederchil"
 ---
 
-Redirect to [User:Ederchil](/wiki/User:Ederchil).
+Redirect to [User:Ederchil](https://tolkiengateway.net/wiki/User:Ederchil).

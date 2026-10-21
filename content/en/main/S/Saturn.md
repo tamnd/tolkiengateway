@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lumbar"
 ---
 
-Redirect to [Lumbar](/wiki/Lumbar).
+Redirect to [Lumbar](../L/Lumbar.md).

@@ -1,6 +1,5 @@
 ---
 title: "Ray Dillon"
-display_title: "<span class=\"mw-page-title-main\">Ray Dillon</span>"
 page_id: 5071
 namespace: 0
 revision_id: 407066
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Dillon, Ray"
 ---
 
-**Ray Dillon** ([June 28](/wiki/28_June "28 June"), [1982](/wiki/1982)) is an artist who is currently working on the <a class="new" href="/w/index.php?title=Lord_of_the_Rings:_Evolution_Sketch_Cards&amp;action=edit&amp;redlink=1" title="Lord of the Rings: Evolution Sketch Cards (page does not exist)">Lord of the Rings: Evolution Sketch Cards</a>.
+**Ray Dillon** ([June 28](../_/28_June.md), [1982](../_/1982.md)) is an artist who is currently working on the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lord_of_the_Rings:_Evolution_Sketch_Cards&amp;action=edit&amp;redlink=1" title="Lord of the Rings: Evolution Sketch Cards (page does not exist)">Lord of the Rings: Evolution Sketch Cards</a>.
 
 ## External links {#External_links}
 

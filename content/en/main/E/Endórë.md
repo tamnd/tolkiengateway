@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Endor"
 ---
 
-Redirect to [Endor](/wiki/Endor).
+Redirect to [Endor](Endor.md).

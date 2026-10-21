@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jeff Reitz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jeff Reitz</span>"
 page_id: 40968
 namespace: 14
 revision_id: 437158
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Reitz, Jeff"
 ---
 
-This category lists all **images by [Jeffrey Reitz](/wiki/Jeffrey_Reitz)**.
+This category lists all **images by [Jeffrey Reitz](../../main/J/Jeffrey_Reitz.md)**.

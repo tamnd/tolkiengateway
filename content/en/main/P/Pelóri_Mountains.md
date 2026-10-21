@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pelóri"
 ---
 
-Redirect to [Pelóri](/wiki/Pelóri).
+Redirect to [Pelóri](Pelóri.md).

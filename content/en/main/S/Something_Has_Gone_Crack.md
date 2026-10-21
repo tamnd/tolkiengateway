@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "\"Something Has Gone Crack\""
 ---
 
-Redirect to ["Something Has Gone Crack"](/wiki/"Something_Has_Gone_Crack").
+Redirect to ["Something Has Gone Crack"](../_/%2522Something_Has_Gone_Crack%2522.md).

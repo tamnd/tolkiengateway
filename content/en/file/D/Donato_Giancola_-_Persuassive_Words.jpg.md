@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Donato Giancola - Persuasive Words.jpg"
 ---
 
-Redirect to [File:Donato Giancola - Persuasive Words.jpg](/wiki/File:Donato_Giancola_-_Persuasive_Words.jpg).
+Redirect to [File:Donato Giancola - Persuasive Words.jpg](Donato_Giancola_-_Persuasive_Words.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "Mahûd"
-display_title: "<span class=\"mw-page-title-main\">Mahûd</span>"
 page_id: 11734
 namespace: 0
 revision_id: 410559
@@ -16,13 +15,11 @@ images:
   - "SBG_-_Mumak_Mahud.gif"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Mahûd&#34; is a concept which has only appeared in an  adaptation of the works of <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Mahûd&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/SBG_-_Mumak_Mahud.gif.md"><img src="https://tolkiengateway.net/w/images/0/06/SBG_-_Mumak_Mahud.gif" decoding="async" loading="lazy" width="99" height="177" class="mw-file-element" data-file-width="99" data-file-height="177"/></a><figcaption><b>Mûmak Mahûd</b> as visualized by the <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Strategy_Battle_Game.md" title="Lord of the Rings Strategy Battle Game">Lord of the Rings Strategy Battle Game</a></i></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:SBG_-_Mumak_Mahud.gif"><img src="/w/images/0/06/SBG_-_Mumak_Mahud.gif" decoding="async" loading="lazy" width="99" height="177" class="mw-file-element" data-file-width="99" data-file-height="177"/></a><figcaption><b>Mûmak Mahûd</b> as visualized by the <i><a class="mw-redirect" href="/wiki/Lord_of_the_Rings_Strategy_Battle_Game" title="Lord of the Rings Strategy Battle Game">Lord of the Rings Strategy Battle Game</a></i></figcaption></figure>
-
-The <i><b>Mahûd</b></i> are a Mannish people that appear in the *[Lord of the Rings Strategy Battle Game](/wiki/Lord_of_the_Rings_Strategy_Battle_Game)*. Their inspiration comes from the riders of the [Mûmakil](/wiki/M%C3%BBmakil) in [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+The <i><b>Mahûd</b></i> are a Mannish people that appear in the *[Lord of the Rings Strategy Battle Game](../L/Lord_of_the_Rings_Strategy_Battle_Game.md)*. Their inspiration comes from the riders of the [Mûmakil](Mûmakil.md) in [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Characteristics {#Characteristics}
 

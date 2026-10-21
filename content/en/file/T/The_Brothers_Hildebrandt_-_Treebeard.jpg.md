@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Treebeard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Treebeard.jpg</span>"
 page_id: 71575
 namespace: 6
 revision_id: 441282
@@ -34,28 +33,26 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Brothers Hildebrandt - Treebeard.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Treebeard" title="Treebeard">Treebeard</a>. Created for the <i><a href="/wiki/1976_J.R.R._Tolkien_Calendar" title="1976 J.R.R. Tolkien Calendar">1976 J.R.R. Tolkien Calendar</a></i>
+<p><a href="../../main/T/Treebeard.md" title="Treebeard">Treebeard</a>. Created for the <i><a href="../../main/_/1976_J.R.R._Tolkien_Calendar.md" title="1976 J.R.R. Tolkien Calendar">1976 J.R.R. Tolkien Calendar</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/August" title="August">August</a> <a href="/wiki/1976" title="1976">1976</a></td>
+<td><a href="../../main/A/August.md" title="August">August</a> <a href="../../main/_/1976.md" title="1976">1976</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Acrylic on board. 21 x 26-1/2 inches (53.3 x 67.3 cm).</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/The_Brothers_Hildebrandt" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
+<td><a href="../../main/T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://fineart.ha.com/itm/pulp-pulp-like-digests-and-paperback-art/greg-and-tim-hildebrandt-american-20th-century-treebeard-lord-of-the-rings-calendar-august-1976-acrylic-on/a/8224-71047.s?ic4=GalleryView-ShortDescription-071515" rel="noreferrer noopener" target="_blank">https://fineart.ha.com/itm/pulp-pulp-like-digests-and-paperback-art/greg-and-tim-hildebrandt-american-20th-century-treebeard-lord-of-the-rings-calendar-august-1976-acrylic-on/a/8224-71047.s?ic4=GalleryView-ShortDescription-071515</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

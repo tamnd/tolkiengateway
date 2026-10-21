@@ -1,6 +1,5 @@
 ---
 title: "Category:The Return of the King (1980 film) cast"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) cast</span>"
 page_id: 31596
 namespace: 14
 revision_id: 195972

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "NGOL"
 ---
 
-Redirect to [NGOL](/wiki/NGOL).
+Redirect to [NGOL](../N/NGOL.md).

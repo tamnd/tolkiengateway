@@ -1,6 +1,5 @@
 ---
 title: "File:Merp southern mirkwood.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merp southern mirkwood.jpg</span>"
 page_id: 25685
 namespace: 6
 revision_id: 350701

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Almaren"
 ---
 
-Redirect to [Almaren](/wiki/Almaren).
+Redirect to [Almaren](../A/Almaren.md).

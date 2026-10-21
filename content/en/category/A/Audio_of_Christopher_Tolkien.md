@@ -1,6 +1,5 @@
 ---
 title: "Category:Audio of Christopher Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio of Christopher Tolkien</span>"
 page_id: 71180
 namespace: 14
 revision_id: 424813

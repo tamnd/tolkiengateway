@@ -1,6 +1,5 @@
 ---
 title: "Category:Spears"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Spears</span>"
 page_id: 8126
 namespace: 14
 revision_id: 39620
@@ -13,4 +12,4 @@ categories:
   - "Weapons"
 ---
 
-Below is a list of spears found in [Arda](/wiki/Arda).
+Below is a list of spears found in [Arda](../../main/A/Arda.md).

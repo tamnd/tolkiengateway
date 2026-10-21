@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/David Greset"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/David Greset</span>"
 page_id: 65409
 namespace: 4
 revision_id: 376725
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Greset, David"
 ---
 
-- David Greset has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_David_Greset "Category:Images by David Greset") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- David Greset has kindly granted his permission to use [his artwork](../../category/I/Images_by_David_Greset.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 07 July 2023
-- User who sought the permission via email: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission via email: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

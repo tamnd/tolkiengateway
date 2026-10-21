@@ -13,7 +13,7 @@ categories:
   - "Pinball machines"
 ---
 
-**The Lord of the Rings** is a pinball machine by <a class="extiw" href="http://en.wikipedia.org/wiki/Stern_(gaming_company)" title="wikipedia:Stern (gaming company)">Stern Pinball</a>. It is licensed merchandise of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), released in [2003](/wiki/2003). The creation process of the machine was documented in <i><a class="extiw" href="http://en.wikipedia.org/wiki/How_It%27s_Made" title="wikipedia:How It&#39;s Made">How It&#39;s Made</a></i> episode 9.02.
+**The Lord of the Rings** is a pinball machine by <a class="extiw" href="http://en.wikipedia.org/wiki/Stern_(gaming_company)" title="wikipedia:Stern (gaming company)">Stern Pinball</a>. It is licensed merchandise of [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>), released in [2003](../_/2003.md). The creation process of the machine was documented in <i><a class="extiw" href="http://en.wikipedia.org/wiki/How_It%27s_Made" title="wikipedia:How It&#39;s Made">How It&#39;s Made</a></i> episode 9.02.
 
 A limited edition version of the game was released in 2009 with only 500 machines produced.
 
@@ -21,17 +21,17 @@ A limited edition version of the game was released in 2009 with only 500 machine
 
 The game has three <a class="extiw" href="http://en.wikipedia.org/wiki/Multiball" title="wikipedia:Multiball">multiballs</a>, named after the three films:
 
-<dl><dt><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i></dt></dl>
+<dl><dt><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i></dt></dl>
 
-- Collect all members of the [Fellowship](/wiki/Fellowship_of_the_Ring "Fellowship of the Ring") and shoot [Barad-dûr](/wiki/Barad-d%C3%BBr) to start. Defeat the cave troll and the [Balrog](/wiki/Durin%27s_Bane "Durin's Bane") to complete.
+- Collect all members of the [Fellowship](../F/Fellowship_of_the_Ring.md) and shoot [Barad-dûr](../B/Barad-dûr.md) to start. Defeat the cave troll and the [Balrog](../D/Durin's_Bane.md) to complete.
 
-<dl><dt><i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i></dt></dl>
+<dl><dt><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i></dt></dl>
 
 - Spell "K-E-E-P" and lock three balls to start. Hit all jackpots to complete.
 
-<dl><dt><i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i></dt></dl>
+<dl><dt><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i></dt></dl>
 
-- Collect 5000 souls on the "Path of the Dead" and shoot [Orthanc](/wiki/Orthanc), Barad-Dûr or Gollum Cave to start. Score all jackpots to complete.
+- Collect 5000 souls on the "Path of the Dead" and shoot [Orthanc](../O/Orthanc.md), Barad-Dûr or Gollum Cave to start. Score all jackpots to complete.
 
 <dl><dt>Other objectives</dt>
 <dd></dd></dl>

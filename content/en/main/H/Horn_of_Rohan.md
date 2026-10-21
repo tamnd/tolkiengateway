@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Horn (rider of Rohan)"
 ---
 
-Redirect to [Horn (rider of Rohan)](/wiki/Horn_(rider_of_Rohan)).
+Redirect to [Horn (rider of Rohan)](<Horn_(rider_of_Rohan).md>).

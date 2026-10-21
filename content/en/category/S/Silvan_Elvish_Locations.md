@@ -1,6 +1,5 @@
 ---
 title: "Category:Silvan Elvish Locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Silvan Elvish Locations</span>"
 page_id: 35117
 namespace: 14
 revision_id: 220087

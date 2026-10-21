@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of directors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of directors</span>"
 page_id: 39708
 namespace: 14
 revision_id: 197915

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Court of Ardor"
 ---
 
-Redirect to [The Court of Ardor](/wiki/The_Court_of_Ardor).
+Redirect to [The Court of Ardor](../T/The_Court_of_Ardor.md).

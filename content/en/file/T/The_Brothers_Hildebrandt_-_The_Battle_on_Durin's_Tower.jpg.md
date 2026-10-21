@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Battle on Durin's Tower.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Battle on Durin&#039;s Tower.jpg</span>"
 page_id: 71592
 namespace: 6
 revision_id: 437859
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Battle on Durin's Tower](/wiki/Battle_of_the_Peak "Battle of the Peak")" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Created in March [2022](/wiki/2022) as a commission for a Tolkien: Lord of the Rings Museum.
+"[The Battle on Durin's Tower](../../main/B/Battle_of_the_Peak.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created in March [2022](../../main/_/2022.md) as a commission for a Tolkien: Lord of the Rings Museum.
 
 ## Licensing {#Licensing}
 

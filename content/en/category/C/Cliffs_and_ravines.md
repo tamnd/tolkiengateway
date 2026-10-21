@@ -1,6 +1,5 @@
 ---
 title: "Category:Cliffs and ravines"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cliffs and ravines</span>"
 page_id: 39674
 namespace: 14
 revision_id: 195518

@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkiens legendarium.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkiens legendarium.jpg</span>"
 page_id: 26053
 namespace: 6
 revision_id: 214479

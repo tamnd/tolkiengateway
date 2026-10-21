@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tindómë"
 ---
 
-Redirect to [Tindómë](/wiki/Tindómë).
+Redirect to [Tindómë](Tindómë.md).

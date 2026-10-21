@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fankil"
 ---
 
-Redirect to [Fankil](/wiki/Fankil).
+Redirect to [Fankil](Fankil.md).

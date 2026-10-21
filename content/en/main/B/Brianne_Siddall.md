@@ -1,6 +1,5 @@
 ---
 title: "Brianne Siddall"
-display_title: "<span class=\"mw-page-title-main\">Brianne Siddall</span>"
 page_id: 19259
 namespace: 0
 revision_id: 157003
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Siddall, Brianne"
 ---
 
-**Brianne Chierighino Siddall** ([August 25](/wiki/25_August "25 August"), [1963](/wiki/1963)) is an American voice actress.
+**Brianne Chierighino Siddall** ([August 25](../_/25_August.md), [1963](../_/1963.md)) is an American voice actress.
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*: Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Additional voices
 
 ## External links {#External_links}
 

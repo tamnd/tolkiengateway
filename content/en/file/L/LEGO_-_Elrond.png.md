@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Elrond.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Elrond.png</span>"
 page_id: 73074
 namespace: 6
 revision_id: 432613
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elrond](/wiki/Elrond) - [LEGO](/wiki/Lego "Lego") minifigure
+[Elrond](../../main/E/Elrond.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

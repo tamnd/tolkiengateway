@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Túna"
 ---
 
-Redirect to [Túna](/wiki/Túna).
+Redirect to [Túna](Túna.md).

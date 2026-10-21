@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Galadriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Galadriel.png</span>"
 page_id: 73156
 namespace: 6
 revision_id: 432996
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) - [LEGO](/wiki/Lego "Lego") minifigure
+[Galadriel](../../main/G/Galadriel.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

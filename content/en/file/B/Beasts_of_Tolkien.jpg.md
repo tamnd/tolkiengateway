@@ -1,6 +1,5 @@
 ---
 title: "File:Beasts of Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beasts of Tolkien.jpg</span>"
 page_id: 52938
 namespace: 6
 revision_id: 288065

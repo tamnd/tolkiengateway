@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Tales of Middle-earth"
 ---
 
-Redirect to [The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth).
+Redirect to [The Lord of the Rings: Tales of Middle-earth](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md).

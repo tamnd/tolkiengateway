@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egnor (disambiguation)"
 ---
 
-Redirect to [Egnor (disambiguation)](/wiki/Egnor_(disambiguation)).
+Redirect to [Egnor (disambiguation)](<Egnor_(disambiguation).md>).

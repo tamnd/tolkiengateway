@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-hill"
 ---
 
-Redirect to [Bree-hill](/wiki/Bree-hill).
+Redirect to [Bree-hill](Bree-hill.md).

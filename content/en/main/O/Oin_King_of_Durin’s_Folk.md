@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óin (King of Durin's Folk)"
 ---
 
-Redirect to [Óin (King of Durin's Folk)](/wiki/Óin_(King_of_Durin's_Folk)).
+Redirect to [Óin (King of Durin's Folk)](<../_/Óin_(King_of_Durin's_Folk).md>).

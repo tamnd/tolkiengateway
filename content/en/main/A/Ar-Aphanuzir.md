@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Amandil"
 ---
 
-Redirect to [Tar-Amandil](/wiki/Tar-Amandil).
+Redirect to [Tar-Amandil](../T/Tar-Amandil.md).

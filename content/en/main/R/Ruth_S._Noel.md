@@ -1,6 +1,5 @@
 ---
 title: "Ruth S. Noel"
-display_title: "<span class=\"mw-page-title-main\">Ruth S. Noel</span>"
 page_id: 10200
 namespace: 0
 revision_id: 116387
@@ -19,7 +18,7 @@ sort_keys:
   "American people": "Noel, Ruth S."
 ---
 
-**Ruth Helen Swycaffer Noel** (born [1947](/wiki/1947)) has written two books relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works; *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* and *[The Mythology of Middle-earth](/wiki/The_Mythology_of_Middle-earth)*. She has also written science-fiction novels under the name **Atanielle Annyn Noël**.
+**Ruth Helen Swycaffer Noel** (born [1947](../_/1947.md)) has written two books relating to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works; *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* and *[The Mythology of Middle-earth](../T/The_Mythology_of_Middle-earth.md)*. She has also written science-fiction novels under the name **Atanielle Annyn Noël**.
 
 ## External links {#External_links}
 

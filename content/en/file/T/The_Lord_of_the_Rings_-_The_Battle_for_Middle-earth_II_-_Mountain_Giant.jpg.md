@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Battle for Middle-earth II - Mountain Giant.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Battle for Middle-earth II - Mountain Giant.jpg</span>"
 page_id: 43126
 namespace: 6
 revision_id: 226925

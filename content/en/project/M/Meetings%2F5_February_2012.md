@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/5 February 2012"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/5 February 2012</span>"
 page_id: 37950
 namespace: 4
 revision_id: 202013
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 5 February 2012</i>, 8pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 5 February 2012</i>, 8pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda and outcome {#Agenda_and_outcome}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -86,18 +82,18 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, and <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present.
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>, <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, and <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all present.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:Amroth" title="User:Amroth">Amroth</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Amroth" title="User:Amroth">Amroth</a>
 </td>
-<td>How should we structure our <a href="/wiki/Lego" title="Lego">Lego</a> articles? A few possibilities:
+<td>How should we structure our <a href="../../main/L/Lego.md" title="Lego">Lego</a> articles? A few possibilities:
 <ol><li>One article</li>
 <li>Articles about <i>Lego The Lord of the Ring</i> and <i>Lego The Hobbit: An Unexpected Journey</i> (and a general article?)</li>
 <li>Same as above, but with articles about individual sets</li></ol>
@@ -107,7 +103,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
 <td>What do we do about artists we can&#39;t get hold of?
 </td>
@@ -116,7 +112,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td>
 <td>Do we want to link in with <a class="external text" href="http://www.lotrproject.com" rel="noreferrer noopener" target="_blank">LOTR Project</a> somehow? (Not sure how, but every character on there links to a TG article, so might be nice to reciprocate).
 </td>
@@ -125,16 +121,16 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#5
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
-<td>Discussion of <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> rewrite.
+<td>Discussion of <i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> rewrite.
 </td>
 <td>The following section headers were agreed upon: Plot, Conception, Inspiration, Publications and editions, Adaptations.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Adjournment discussions and meeting adjournment.
 </td>
@@ -143,6 +139,6 @@ sort_keys:
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/5_February_2012 "Tolkien Gateway talk:Meetings/5 February 2012")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/5_February_2012/Transcript "Tolkien Gateway:Meetings/5 February 2012/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/5_February_2012)
+- [Transcript](Meetings%252F5_February_2012%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three-Farthing Stone"
 ---
 
-Redirect to [Three-Farthing Stone](/wiki/Three-Farthing_Stone).
+Redirect to [Three-Farthing Stone](Three-Farthing_Stone.md).

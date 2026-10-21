@@ -1,6 +1,5 @@
 ---
 title: "File:Modern Philology 96, no. 4.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Modern Philology 96, no. 4.png</span>"
 page_id: 39228
 namespace: 6
 revision_id: 214550

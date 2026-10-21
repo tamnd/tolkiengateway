@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guritz"
 ---
 
-Redirect to [Guritz](/wiki/Guritz).
+Redirect to [Guritz](../G/Guritz.md).

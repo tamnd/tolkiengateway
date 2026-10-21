@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úvë"
 ---
 
-Redirect to [Úvë](/wiki/Úvë).
+Redirect to [Úvë](../_/Úvë.md).

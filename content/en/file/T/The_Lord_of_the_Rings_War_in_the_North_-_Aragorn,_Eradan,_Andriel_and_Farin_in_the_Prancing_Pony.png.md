@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings War in the North - Aragorn, Eradan, Andriel and Farin in the Prancing Pony.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings War in the North - Aragorn, Eradan, Andriel and Farin in the Prancing Pony.png</span>"
 page_id: 34757
 namespace: 6
 revision_id: 438267
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn), [Eradan](</wiki/Eradan_(video_game_character)> "Eradan (video game character)"), [Andriel](/wiki/Andriel) and [Farin](</wiki/Farin_(video_game_character)> "Farin (video game character)") in [the Prancing Pony](/wiki/The_Prancing_Pony "The Prancing Pony") in [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+[Aragorn](../../main/A/Aragorn.md), [Eradan](<../../main/E/Eradan_(video_game_character).md>), [Andriel](../../main/A/Andriel.md) and [Farin](<../../main/F/Farin_(video_game_character).md>) in [the Prancing Pony](../../main/T/The_Prancing_Pony.md) in [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 ## Licensing {#Licensing}
 

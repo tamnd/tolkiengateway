@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amy H. Sturgis"
 ---
 
-Redirect to [Amy H. Sturgis](/wiki/Amy_H._Sturgis).
+Redirect to [Amy H. Sturgis](Amy_H._Sturgis.md).

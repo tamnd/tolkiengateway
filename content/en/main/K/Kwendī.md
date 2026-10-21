@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kwende"
 ---
 
-Redirect to [Kwende](/wiki/Kwende).
+Redirect to [Kwende](Kwende.md).

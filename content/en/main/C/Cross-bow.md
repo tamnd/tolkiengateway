@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cross-bows"
 ---
 
-Redirect to [Cross-bows](/wiki/Cross-bows).
+Redirect to [Cross-bows](Cross-bows.md).

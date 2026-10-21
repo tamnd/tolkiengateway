@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Thrarin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Thrarin.jpg</span>"
 page_id: 22578
 namespace: 6
 revision_id: 211693

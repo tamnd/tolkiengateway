@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Siege of Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Siege of Minas Tirith.jpg</span>"
 page_id: 71627
 namespace: 6
 revision_id: 430664
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Siege of Minas Tirith](/wiki/Siege_of_Gondor "Siege of Gondor")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1977 J.R.R. Tolkien Calendar](/wiki/1977_J.R.R._Tolkien_Calendar).
+"[Siege of Minas Tirith](../../main/S/Siege_of_Gondor.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1977 J.R.R. Tolkien Calendar](../../main/_/1977_J.R.R._Tolkien_Calendar.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Great War 2004.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Great War 2004.png</span>"
 page_id: 62407
 namespace: 6
 revision_id: 352487

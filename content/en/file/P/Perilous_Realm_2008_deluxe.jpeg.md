@@ -1,6 +1,5 @@
 ---
 title: "File:Perilous Realm 2008 deluxe.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Perilous Realm 2008 deluxe.jpeg</span>"
 page_id: 66846
 namespace: 6
 revision_id: 387221

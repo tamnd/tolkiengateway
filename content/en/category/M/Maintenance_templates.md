@@ -1,6 +1,5 @@
 ---
 title: "Category:Maintenance templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maintenance templates</span>"
 page_id: 8166
 namespace: 14
 revision_id: 163093

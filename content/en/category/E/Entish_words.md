@@ -1,6 +1,5 @@
 ---
 title: "Category:Entish words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Entish words</span>"
 page_id: 11701
 namespace: 14
 revision_id: 92686
@@ -16,4 +15,4 @@ sort_keys:
   "Entish": "Words"
 ---
 
-[Entish](/wiki/Entish) words.
+[Entish](../../main/E/Entish.md) words.

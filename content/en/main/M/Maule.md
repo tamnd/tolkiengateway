@@ -11,4 +11,4 @@ redirect_target: "Trolls"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Trolls](/wiki/Trolls#Other_versions_of_the_legendarium).
+Redirect to [Trolls](../T/Trolls.md#Other_versions_of_the_legendarium).

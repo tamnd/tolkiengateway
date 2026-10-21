@@ -1,6 +1,5 @@
 ---
 title: "File:Aldo Katayanagi - Beechbone.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aldo Katayanagi - Beechbone.jpeg</span>"
 page_id: 71045
 namespace: 6
 revision_id: 435781
@@ -35,7 +34,7 @@ file:
 
 ## Summary {#Summary}
 
-[Beechbone](/wiki/Beechbone) - Illustration by [Aldo Katayanagi](/wiki/Category:Images_by_Aldo_Katayanagi "Category:Images by Aldo Katayanagi") for *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Angmar Awakened* expansion.
+[Beechbone](../../main/B/Beechbone.md) - Illustration by [Aldo Katayanagi](../../category/I/Images_by_Aldo_Katayanagi.md) for *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Angmar Awakened* expansion.
 
 ## Licensing {#Licensing}
 
@@ -44,4 +43,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Aldo Katayanagi</li>
 <li><b>Website:</b> <a class="external text" href="https://aldo-art.com/" rel="noreferrer noopener" target="_blank">aldo-art</a><br/><a class="external text" href="https://www.artstation.com/aldokatayanagi" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Aldo_Katayanagi" title="Tolkien Gateway:Copyrights/Aldo Katayanagi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAldo_Katayanagi.md" title="Tolkien Gateway:Copyrights/Aldo Katayanagi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

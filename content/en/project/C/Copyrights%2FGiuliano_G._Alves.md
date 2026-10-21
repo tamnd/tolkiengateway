@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Giuliano G. Alves"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Giuliano G. Alves</span>"
 page_id: 51268
 namespace: 4
 revision_id: 277413
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alves, Giuliano G."
 ---
 
-- Giuliano G. Alves has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Giuliano_G._Alves "Category:Images by Giuliano G. Alves") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Giuliano G. Alves has kindly granted his permission to use [his artwork](../../category/I/Images_by_Giuliano_G._Alves.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 28 July 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

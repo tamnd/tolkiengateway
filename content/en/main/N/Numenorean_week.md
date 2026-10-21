@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Númenórean week"
 ---
 
-Redirect to [Category:Númenórean week](/wiki/Category:Númenórean_week).
+Redirect to [Category:Númenórean week](../../category/N/Númenórean_week.md).

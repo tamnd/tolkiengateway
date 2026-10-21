@@ -1,6 +1,5 @@
 ---
 title: "File:Sauron Defeated hc 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sauron Defeated hc 2024.jpg</span>"
 page_id: 68679
 namespace: 6
 revision_id: 408665

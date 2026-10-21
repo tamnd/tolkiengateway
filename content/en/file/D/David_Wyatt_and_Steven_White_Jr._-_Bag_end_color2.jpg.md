@@ -1,6 +1,5 @@
 ---
 title: "File:David Wyatt and Steven White Jr. - Bag end color2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David Wyatt and Steven White Jr. - Bag end color2.jpg</span>"
 page_id: 16618
 namespace: 6
 revision_id: 207647
@@ -37,4 +36,4 @@ Colorization of a drawing by David Wyatt (from whom I have got the permission fo
 </p>
 <ul><li><b>Name:</b> David Wyatt</li>
 <li><b>Website:</b> <a class="external text" href="http://www.david.wyatt.btinternet.co.uk/" rel="noreferrer noopener" target="_blank">David Wyatt&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_Wyatt" title="Tolkien Gateway:Copyrights/David Wyatt">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_Wyatt.md" title="Tolkien Gateway:Copyrights/David Wyatt">Permission for use on Tolkien Gateway</a></b></li></ul></div>

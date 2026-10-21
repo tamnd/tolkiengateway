@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Małgorzata Pudlik"
 ---
 
-Redirect to [Małgorzata Pudlik](/wiki/Małgorzata_Pudlik).
+Redirect to [Małgorzata Pudlik](Małgorzata_Pudlik.md).

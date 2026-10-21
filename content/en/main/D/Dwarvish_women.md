@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-women"
 ---
 
-Redirect to [Dwarf-women](/wiki/Dwarf-women).
+Redirect to [Dwarf-women](Dwarf-women.md).

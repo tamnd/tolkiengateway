@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:YouTube - Simple Icons.svg"
 ---
 
-Redirect to [File:YouTube - Simple Icons.svg](/wiki/File:YouTube_-_Simple_Icons.svg).
+Redirect to [File:YouTube - Simple Icons.svg](YouTube_-_Simple_Icons.svg.md).

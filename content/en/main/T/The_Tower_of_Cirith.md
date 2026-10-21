@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tower of Cirith Ungol (soundtrack)"
 ---
 
-Redirect to [The Tower of Cirith Ungol (soundtrack)](/wiki/The_Tower_of_Cirith_Ungol_(soundtrack)).
+Redirect to [The Tower of Cirith Ungol (soundtrack)](<The_Tower_of_Cirith_Ungol_(soundtrack).md>).

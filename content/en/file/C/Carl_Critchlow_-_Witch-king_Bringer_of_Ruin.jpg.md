@@ -1,6 +1,5 @@
 ---
 title: "File:Carl Critchlow - Witch-king Bringer of Ruin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Carl Critchlow - Witch-king Bringer of Ruin.jpg</span>"
 page_id: 74860
 namespace: 6
 revision_id: 440548
@@ -35,7 +34,7 @@ file:
 <blockquote class="tg-quote noexcerpt">
 <p>I was flattered to be offered such an iconic image.  As well as the film version I’m also very familiar with the way the character (and the following scene with Eowyn) has been depicted by some of my favourite artists such as Frazetta, Michael Kaluta, the Brothers Hildebrandt and Angus McBride, so I went back to the original text to try and ensure I had my own version.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
@@ -46,22 +45,20 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Watercolour and gouache on illustration board</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Carl_Critchlow" title="Carl Critchlow">Carl Critchlow</a></td>
+<td><a href="../../main/C/Carl_Critchlow.md" title="Carl Critchlow">Carl Critchlow</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.facebook.com/groups/mtgartmarket/posts/4659557127607803/" rel="noreferrer noopener" target="_blank">Facebook</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="/wiki/Middle-earth_Enterprises" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a class="external text" href="https://company.wizards.com/en" rel="noreferrer noopener" target="_blank">Wizards of the Coast</a> through <a href="../../main/M/Middle-earth_Enterprises.md" title="Middle-earth Enterprises">Middle-earth Enterprises</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

@@ -13,11 +13,11 @@ categories:
   - "Fanzines"
 ---
 
-**i-Palantir** was a fanzine published by the first organized Tolkien group, *[The Fellowship of the Ring](</wiki/The_Fellowship_of_the_Ring_(fangroup)> "The Fellowship of the Ring (fangroup)")*. They published four issues before the organization was disbanded. [Ted Johnstone](/wiki/Ted_Johnstone) was the founder.
+**i-Palantir** was a fanzine published by the first organized Tolkien group, *[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(fangroup).md>)*. They published four issues before the organization was disbanded. [Ted Johnstone](../T/Ted_Johnstone.md) was the founder.
 
 ## See also {#See_also}
 
-- [I, Palantir (August 1960)](</wiki/I,_Palantir_(August_1960)>)
-- [I, Palantir (August 1961)](</wiki/I,_Palantir_(August_1961)>)
-- [I, Palantir (April 1964)](</wiki/I,_Palantir_(April_1964)>)
-- [I, Palantir (August 1966)](</wiki/I,_Palantir_(August_1966)>)
+- [I, Palantir (August 1960)](<I,_Palantir_(August_1960).md>)
+- [I, Palantir (August 1961)](<I,_Palantir_(August_1961).md>)
+- [I, Palantir (April 1964)](<I,_Palantir_(April_1964).md>)
+- [I, Palantir (August 1966)](<I,_Palantir_(August_1966).md>)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorkil"
 ---
 
-Redirect to [Gorkil](/wiki/Gorkil).
+Redirect to [Gorkil](Gorkil.md).

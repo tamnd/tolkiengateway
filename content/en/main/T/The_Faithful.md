@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faithful"
 ---
 
-Redirect to [Faithful](/wiki/Faithful).
+Redirect to [Faithful](../F/Faithful.md).

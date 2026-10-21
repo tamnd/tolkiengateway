@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MCME Mountains.png"
 ---
 
-Redirect to [File:MCME Mountains.png](/wiki/File:MCME_Mountains.png).
+Redirect to [File:MCME Mountains.png](MCME_Mountains.png.md).

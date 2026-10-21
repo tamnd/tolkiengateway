@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Durin's Bane.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Durin&#039;s Bane.png</span>"
 page_id: 63812
 namespace: 6
 revision_id: 412234
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Durin's Bane](/wiki/Durin%27s_Bane) awakens in image from [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Durin's Bane](../../main/D/Durin's_Bane.md) awakens in image from [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

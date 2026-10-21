@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King's Men"
 ---
 
-Redirect to [King's Men](/wiki/King's_Men).
+Redirect to [King's Men](King's_Men.md).

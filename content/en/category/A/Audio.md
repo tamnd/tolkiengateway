@@ -1,6 +1,5 @@
 ---
 title: "Category:Audio"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio</span>"
 page_id: 38351
 namespace: 14
 revision_id: 186419

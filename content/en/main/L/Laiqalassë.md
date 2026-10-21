@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas (elf of Gondolin)"
 ---
 
-Redirect to [Legolas (elf of Gondolin)](/wiki/Legolas_(elf_of_Gondolin)).
+Redirect to [Legolas (elf of Gondolin)](<Legolas_(elf_of_Gondolin).md>).

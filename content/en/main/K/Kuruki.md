@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kurúki"
 ---
 
-Redirect to [Kurúki](/wiki/Kurúki).
+Redirect to [Kurúki](Kurúki.md).

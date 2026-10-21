@@ -1,6 +1,5 @@
 ---
 title: "The War of Wrath, Op. 71 (Opera)"
-display_title: "<span class=\"mw-page-title-main\">The War of Wrath, Op. 71 (Opera)</span>"
 page_id: 65179
 namespace: 0
 revision_id: 426188
@@ -16,11 +15,11 @@ images:
   - "War_of_Wrath_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:War_of_Wrath_Cover.jpg"><img src="/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, /w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
 
-Part five of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
+Part five of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
 
-This section of the *Epic Scenes* was composed between 2019 and 2020 with the permission of the Tolkien Estate. After successfully completing recordings of all of the previous works in the cycle Godfrey was persuaded to create a new work to finish off both the cycle and the story. The libretto was adapted by the composer and Simon Crosby Buttle. It utilises texts from *[The Silmarillion](/wiki/The_Silmarillion), [The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+This section of the *Epic Scenes* was composed between 2019 and 2020 with the permission of the Tolkien Estate. After successfully completing recordings of all of the previous works in the cycle Godfrey was persuaded to create a new work to finish off both the cycle and the story. The libretto was adapted by the composer and Simon Crosby Buttle. It utilises texts from *[The Silmarillion](The_Silmarillion.md), [The Book of Lost Tales](The_Book_of_Lost_Tales.md)* and *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 It has a total duration of 122 minutes and is scored for full orchestra, full chorus and solo voices.
 

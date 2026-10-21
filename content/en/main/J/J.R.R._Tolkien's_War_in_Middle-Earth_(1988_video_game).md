@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's War in Middle Earth"
 ---
 
-Redirect to [J.R.R. Tolkien's War in Middle Earth](/wiki/J.R.R._Tolkien's_War_in_Middle_Earth).
+Redirect to [J.R.R. Tolkien's War in Middle Earth](J.R.R._Tolkien's_War_in_Middle_Earth.md).

@@ -1,6 +1,5 @@
 ---
 title: "Elizabeth M. Stephen"
-display_title: "<span class=\"mw-page-title-main\">Elizabeth M. Stephen</span>"
 page_id: 41548
 namespace: 0
 revision_id: 223822
@@ -21,14 +20,14 @@ sort_keys:
   "Tolkien Society members": "Stephen, Elizabeth M."
 ---
 
-**Elizabeth M. Stephen** is a farmer and author of *[Hobbit to Hero](/wiki/Hobbit_to_Hero:_The_Making_of_Tolkien%27s_King "Hobbit to Hero: The Making of Tolkien's King")*.
+**Elizabeth M. Stephen** is a farmer and author of *[Hobbit to Hero](../H/Hobbit_to_Hero%253A_The_Making_of_Tolkien's_King.md)*.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2012](/wiki/2012): *[Hobbit to Hero: The Making of Tolkien's King](/wiki/Hobbit_to_Hero "Hobbit to Hero")*
+- [2012](../_/2012.md): *[Hobbit to Hero: The Making of Tolkien's King](../H/Hobbit_to_Hero.md)*
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1058-interview-elizabeth-m-stephen.php" rel="noreferrer noopener" target="_blank">Interview with Elizabeth M. Stephen</a> at [Tolkien Library](/wiki/Tolkien_Library)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1058-interview-elizabeth-m-stephen.php" rel="noreferrer noopener" target="_blank">Interview with Elizabeth M. Stephen</a> at [Tolkien Library](../T/Tolkien_Library.md)

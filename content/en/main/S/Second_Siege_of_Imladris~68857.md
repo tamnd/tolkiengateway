@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second siege of Imladris"
 ---
 
-Redirect to [Second siege of Imladris](/wiki/Second_siege_of_Imladris).
+Redirect to [Second siege of Imladris](Second_siege_of_Imladris.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Quotes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quotes</span>"
 page_id: 15873
 namespace: 14
 revision_id: 135749
@@ -13,4 +12,4 @@ categories:
   - "Tolkien Gateway research"
 ---
 
-A collection of quotations from [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") writings and from other Tolkien related sources.
+A collection of quotations from [Tolkien's](../../main/J/J.R.R._Tolkien.md) writings and from other Tolkien related sources.

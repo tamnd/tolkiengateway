@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Doors and gates"
 ---
 
-Redirect to [Category:Doors and gates](/wiki/Category:Doors_and_gates).
+Redirect to [Category:Doors and gates](../../category/D/Doors_and_gates.md).

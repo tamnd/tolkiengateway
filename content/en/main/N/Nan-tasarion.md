@@ -11,4 +11,4 @@ redirect_target: "Nan-tathren"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Nan-tathren](/wiki/Nan-tathren#Names).
+Redirect to [Nan-tathren](Nan-tathren.md#Names).

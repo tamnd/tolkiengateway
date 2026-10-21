@@ -14,29 +14,29 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gwaew</b></i> is the [Sindarin](/wiki/Sindarin) (and [Noldorin](/wiki/Noldorin)) word for "wind".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+<i><b>gwaew</b></i> is the [Sindarin](../S/Sindarin.md) (and [Noldorin](../N/Noldorin.md)) word for "wind".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-In *[The Etymologies](/wiki/The_Etymologies)*, Noldorin *gwaew* derives from the [root](/wiki/Sundocarme "Sundocarme") [WĀ](/wiki/W%C4%80).<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
+In *[The Etymologies](../T/The_Etymologies.md)*, Noldorin *gwaew* derives from the [root](../S/Sundocarme.md) [WĀ](../W/WĀ.md).<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
 
-In a later linguistic manuscript, [Sindarin](/wiki/Sindarin) *gwaew* derives from the root WAYA ("blow (as of wind)").<sup id="cite_ref-PE_2-1" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+In a later linguistic manuscript, [Sindarin](../S/Sindarin.md) *gwaew* derives from the root WAYA ("blow (as of wind)").<sup id="cite_ref-PE_2-1" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Gwaihir](/wiki/Gwaihir#Etymology)*
+- *[Gwaihir](Gwaihir.md#Etymology)*
 
 ## See also {#See_also}
 
-- *[gwaeren](/wiki/Gwaeren "Gwaeren")* ("windy")
+- *[gwaeren](Gwaeren.md)* ("windy")
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety397-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety397_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety397_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 397</span>
+<li id="cite_note-Ety397-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety397_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety397_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 397</span>
 </li>
-<li id="cite_note-PE-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 34, 189</span>
+<li id="cite_note-PE-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_2-0">2.0</a></sup> <sup><a href="#cite_ref-PE_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 34, 189</span>
 </li>
 </ol></div>

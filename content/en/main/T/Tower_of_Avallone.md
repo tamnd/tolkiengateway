@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower of Avallónë"
 ---
 
-Redirect to [Tower of Avallónë](/wiki/Tower_of_Avallónë).
+Redirect to [Tower of Avallónë](Tower_of_Avallónë.md).

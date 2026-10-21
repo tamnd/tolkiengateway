@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MBÍRIL"
 ---
 
-Redirect to [MBÍRIL](/wiki/MBÍRIL).
+Redirect to [MBÍRIL](MBÍRIL.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Darek Zabrocki - Army of Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Darek Zabrocki - Army of Mordor.jpg</span>"
 page_id: 48168
 namespace: 6
 revision_id: 256971
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Darek Zabrocki</li>
 <li><b>Website:</b> <a class="external text" href="http://www.darekzabrocki.com" rel="noreferrer noopener" target="_blank">Darek Zabrocki&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Darek_Zabrocki" title="Tolkien Gateway:Copyrights/Darek Zabrocki">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDarek_Zabrocki.md" title="Tolkien Gateway:Copyrights/Darek Zabrocki">Permission for use on Tolkien Gateway</a></b></li></ul></div>

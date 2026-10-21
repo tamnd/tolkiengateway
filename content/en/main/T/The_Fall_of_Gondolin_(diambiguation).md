@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Gondolin (disambiguation)"
 ---
 
-Redirect to [The Fall of Gondolin (disambiguation)](/wiki/The_Fall_of_Gondolin_(disambiguation)).
+Redirect to [The Fall of Gondolin (disambiguation)](<The_Fall_of_Gondolin_(disambiguation).md>).

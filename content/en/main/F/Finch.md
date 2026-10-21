@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finches"
 ---
 
-Redirect to [Finches](/wiki/Finches).
+Redirect to [Finches](Finches.md).

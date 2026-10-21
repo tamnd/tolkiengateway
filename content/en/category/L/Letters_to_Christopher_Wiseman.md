@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Christopher Wiseman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Christopher Wiseman</span>"
 page_id: 68710
 namespace: 14
 revision_id: 408895
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Wiseman,Christopher"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Christopher Wiseman](/wiki/Christopher_Wiseman).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Christopher Wiseman](../../main/C/Christopher_Wiseman.md).

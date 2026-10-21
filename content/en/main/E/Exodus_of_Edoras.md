@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exodus From Edoras"
 ---
 
-Redirect to [Exodus From Edoras](/wiki/Exodus_From_Edoras).
+Redirect to [Exodus From Edoras](Exodus_From_Edoras~45963.md).

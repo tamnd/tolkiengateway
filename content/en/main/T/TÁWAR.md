@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "TAW"
 ---
 
-Redirect to [TAW](/wiki/TAW).
+Redirect to [TAW](TAW.md).

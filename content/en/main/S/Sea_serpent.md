@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea-serpents"
 ---
 
-Redirect to [Sea-serpents](/wiki/Sea-serpents).
+Redirect to [Sea-serpents](Sea-serpents.md).

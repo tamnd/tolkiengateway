@@ -1,6 +1,5 @@
 ---
 title: "File:Gondolin CD Artwork.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gondolin CD Artwork.png</span>"
 page_id: 65176
 namespace: 6
 revision_id: 378370

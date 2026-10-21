@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aimênu"
 ---
 
-Redirect to [Aimênu](/wiki/Aimênu).
+Redirect to [Aimênu](Aimênu.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hîn"
 ---
 
-Redirect to [Hîn](/wiki/Hîn).
+Redirect to [Hîn](../H/Hîn.md).

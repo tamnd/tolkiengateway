@@ -1,6 +1,5 @@
 ---
 title: "File:Battles of the Third Age.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Battles of the Third Age.jpg</span>"
 page_id: 11519
 namespace: 6
 revision_id: 435908

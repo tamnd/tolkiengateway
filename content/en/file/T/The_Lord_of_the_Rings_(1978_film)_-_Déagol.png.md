@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Déagol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Déagol.png</span>"
 page_id: 71385
 namespace: 6
 revision_id: 425892
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Déagol](/wiki/D%C3%A9agol) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")
+[Déagol](../../main/D/Déagol.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)
 
 ## Licensing {#Licensing}
 

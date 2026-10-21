@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Underhill (Hobbiton)"
 ---
 
-Redirect to [Underhill (Hobbiton)](/wiki/Underhill_(Hobbiton)).
+Redirect to [Underhill (Hobbiton)](<Underhill_(Hobbiton).md>).

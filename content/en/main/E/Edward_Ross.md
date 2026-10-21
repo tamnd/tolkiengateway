@@ -1,6 +1,5 @@
 ---
 title: "Edward Ross"
-display_title: "<span class=\"mw-page-title-main\">Edward Ross</span>"
 page_id: 19437
 namespace: 0
 revision_id: 405343
@@ -20,7 +19,7 @@ sort_keys:
   "People by name": "Ross, Edward"
 ---
 
-**Edward Ross** is a musician who sang the track *[The Breaking Of The Fellowship](</wiki/The_Breaking_Of_The_Fellowship_(soundtrack)> "The Breaking Of The Fellowship (soundtrack)")* for [The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring).
+**Edward Ross** is a musician who sang the track *[The Breaking Of The Fellowship](<../T/The_Breaking_Of_The_Fellowship_(soundtrack).md>)* for [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
 
 ## External links {#External_links}
 

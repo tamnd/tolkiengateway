@@ -1,6 +1,5 @@
 ---
 title: "Category:Israeli people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Israeli people</span>"
 page_id: 27908
 namespace: 14
 revision_id: 166064

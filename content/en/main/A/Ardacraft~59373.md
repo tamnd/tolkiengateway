@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ArdaCraft"
 ---
 
-Redirect to [ArdaCraft](/wiki/ArdaCraft).
+Redirect to [ArdaCraft](ArdaCraft.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Book of Jonah"
 ---
 
-Redirect to [The Book of Jonah](/wiki/The_Book_of_Jonah).
+Redirect to [The Book of Jonah](../T/The_Book_of_Jonah.md).

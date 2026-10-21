@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Holy Mountain (disambiguation)"
 ---
 
-Redirect to [Holy Mountain (disambiguation)](/wiki/Holy_Mountain_(disambiguation)).
+Redirect to [Holy Mountain (disambiguation)](<Holy_Mountain_(disambiguation).md>).

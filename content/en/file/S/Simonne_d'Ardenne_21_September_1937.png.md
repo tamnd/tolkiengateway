@@ -1,6 +1,5 @@
 ---
 title: "File:Simonne d'Ardenne 21 September 1937.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Simonne d&#039;Ardenne 21 September 1937.png</span>"
 page_id: 39244
 namespace: 6
 revision_id: 215117

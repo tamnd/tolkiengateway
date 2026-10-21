@@ -11,4 +11,4 @@ redirect_target: "Uncommon words"
 redirect_fragment: "T"
 ---
 
-Redirect to [Uncommon words](/wiki/Uncommon_words#T).
+Redirect to [Uncommon words](../U/Uncommon_words.md#T).

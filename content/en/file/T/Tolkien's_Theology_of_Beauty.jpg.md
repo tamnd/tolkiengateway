@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Theology of Beauty.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Theology of Beauty.jpg</span>"
 page_id: 59214
 namespace: 6
 revision_id: 328436

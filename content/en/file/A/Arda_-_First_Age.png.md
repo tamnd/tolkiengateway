@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Sage - Arda in the First Age.png"
 ---
 
-Redirect to [File:Sage - Arda in the First Age.png](/wiki/File:Sage_-_Arda_in_the_First_Age.png).
+Redirect to [File:Sage - Arda in the First Age.png](../S/Sage_-_Arda_in_the_First_Age.png.md).

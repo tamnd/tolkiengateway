@@ -1,6 +1,5 @@
 ---
 title: "Category:Biography books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Biography books</span>"
 page_id: 26401
 namespace: 14
 revision_id: 404913

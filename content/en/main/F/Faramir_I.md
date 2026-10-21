@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir Took I"
 ---
 
-Redirect to [Faramir Took I](/wiki/Faramir_Took_I).
+Redirect to [Faramir Took I](Faramir_Took_I.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Later Ages"
 ---
 
-Redirect to [Later Ages](/wiki/Later_Ages).
+Redirect to [Later Ages](../L/Later_Ages.md).

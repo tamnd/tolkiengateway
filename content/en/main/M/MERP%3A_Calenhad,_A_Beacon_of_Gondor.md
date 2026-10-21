@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calenhad: A Beacon of Gondor"
 ---
 
-Redirect to [Calenhad: A Beacon of Gondor](/wiki/Calenhad:_A_Beacon_of_Gondor).
+Redirect to [Calenhad: A Beacon of Gondor](../C/Calenhad%253A_A_Beacon_of_Gondor.md).

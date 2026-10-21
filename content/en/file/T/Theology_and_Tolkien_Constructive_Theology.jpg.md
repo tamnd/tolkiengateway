@@ -1,6 +1,5 @@
 ---
 title: "File:Theology and Tolkien Constructive Theology.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Theology and Tolkien Constructive Theology.jpg</span>"
 page_id: 70464
 namespace: 6
 revision_id: 419953

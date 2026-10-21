@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gondolin and the Vale of Tumladen.jpg</span>"
 page_id: 5775
 namespace: 6
 revision_id: 313553
@@ -27,9 +26,9 @@ file:
 
 ## Summary {#Summary}
 
-This drawing is by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and is dated September 1928. The name [Cristhorn](/wiki/Cristhorn), seen in the pencilled title, means 'The Eagles' Cleft'; it was afterwards changed to [Cirith Thoronath](/wiki/Cirith_Thoronath), of the same meaning. Here [Glorfindel](/wiki/Glorfindel) fought with the [Balrog](/wiki/Balrogs "Balrogs") who ambushed those who fled from the sack of the city (*[The Silmarillion](/wiki/The_Silmarillion)* Chapter 23, "[Of Tuor and the Fall of Gondolin](/wiki/Of_Tuor_and_the_Fall_of_Gondolin)").
+This drawing is by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and is dated September 1928. The name [Cristhorn](../../main/C/Cristhorn.md), seen in the pencilled title, means 'The Eagles' Cleft'; it was afterwards changed to [Cirith Thoronath](../../main/C/Cirith_Thoronath.md), of the same meaning. Here [Glorfindel](../../main/G/Glorfindel.md) fought with the [Balrog](../../main/B/Balrogs.md) who ambushed those who fled from the sack of the city (*[The Silmarillion](../../main/T/The_Silmarillion.md)* Chapter 23, "[Of Tuor and the Fall of Gondolin](../../main/O/Of_Tuor_and_the_Fall_of_Gondolin.md)").
 
-The drawing was later [colored](</wiki/File:J.R.R._Tolkien_-_Gondolin_and_the_Vale_of_Tumladen_(Colored_by_H.E._Riddett).jpg> "File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen (Colored by H.E. Riddett).jpg") by [H.E. Riddett](/wiki/H.E._Riddett).
+The drawing was later [colored](<J.R.R._Tolkien_-_Gondolin_and_the_Vale_of_Tumladen_(Colored_by_H.E._Riddett).jpg.md>) by [H.E. Riddett](../../main/H/H.E._Riddett.md).
 
 ## Licensing {#Licensing}
 

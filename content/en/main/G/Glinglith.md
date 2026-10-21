@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ginglith"
 ---
 
-Redirect to [Ginglith](/wiki/Ginglith).
+Redirect to [Ginglith](Ginglith.md).

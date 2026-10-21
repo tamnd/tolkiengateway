@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Donald A. Wollheim"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Donald A. Wollheim</span>"
 page_id: 68691
 namespace: 14
 revision_id: 408758
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Wollheim, Donald A."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Donald A. Wollheim](/wiki/Donald_A._Wollheim).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Donald A. Wollheim](../../main/D/Donald_A._Wollheim.md).

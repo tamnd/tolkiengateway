@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Mordor.jpg</span>"
 page_id: 64143
 namespace: 6
 revision_id: 366543
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-The land of [Mordor](/wiki/Mordor) with [Barad-dûr](/wiki/Barad-d%C3%BBr) and [Mount Doom](/wiki/Mount_Doom) in a scene from [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+The land of [Mordor](../../main/M/Mordor.md) with [Barad-dûr](../../main/B/Barad-dûr.md) and [Mount Doom](../../main/M/Mount_Doom.md) in a scene from [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

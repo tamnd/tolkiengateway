@@ -1,6 +1,5 @@
 ---
 title: "Barahir (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Barahir (disambiguation)</span>"
 page_id: 4632
 namespace: 0
 revision_id: 409339
@@ -27,16 +26,16 @@ images:
 
 **Barahir** can refer to:
 
-- **[Barahir](/wiki/Barahir) ([F.A.](/wiki/First_Age "First Age") [402](/wiki/First_Age_402 "First Age 402") - [460](/wiki/First_Age_460 "First Age 460")), father of the hero [Beren](/wiki/Beren) and followed by a [band of outlaws](/wiki/XII_B%C3%ABorings "XII Bëorings").**
-    - The [Ring of Barahir](/wiki/Ring_of_Barahir), a gift from [Finrod Felagund](/wiki/Finrod "Finrod") and heirloom of the [Dúnedain](/wiki/D%C3%BAnedain).
-- [Barahir](</wiki/Barahir_(Steward_of_Gondor)> "Barahir (Steward of Gondor)") ([T.A.](/wiki/Third_Age "Third Age") [2290](/wiki/Third_Age_2290 "Third Age 2290") - [2412](/wiki/Third_Age_2412 "Third Age 2412")), eighth [Ruling Steward](/wiki/Ruling_Steward) of [Gondor](/wiki/Gondor) who ruled during the [Watchful Peace](/wiki/Watchful_Peace).
-- [Barahir](</wiki/Barahir_(grandson_of_Faramir)> "Barahir (grandson of Faramir)") ([Fourth Age](/wiki/Fourth_Age)), a descendant of [Faramir](/wiki/Faramir), [Prince of Ithilien](/wiki/Prince_of_Ithilien).
+- **[Barahir](Barahir.md) ([F.A.](../F/First_Age.md) [402](../F/First_Age_402.md) - [460](../F/First_Age_460.md)), father of the hero [Beren](Beren.md) and followed by a [band of outlaws](../X/XII_Bëorings.md).**
+    - The [Ring of Barahir](../R/Ring_of_Barahir.md), a gift from [Finrod Felagund](../F/Finrod.md) and heirloom of the [Dúnedain](../D/Dúnedain.md).
+- [Barahir](<Barahir_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2290](../T/Third_Age_2290.md) - [2412](../T/Third_Age_2412.md)), eighth [Ruling Steward](../R/Ruling_Steward.md) of [Gondor](../G/Gondor.md) who ruled during the [Watchful Peace](../W/Watchful_Peace.md).
+- [Barahir](<Barahir_(grandson_of_Faramir).md>) ([Fourth Age](../F/Fourth_Age.md)), a descendant of [Faramir](../F/Faramir.md), [Prince of Ithilien](../P/Prince_of_Ithilien.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Barahir_(disambiguation)" title="Special:WhatLinksHere/:Barahir (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Barahir_(disambiguation)" title="Special:WhatLinksHere/:Barahir (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

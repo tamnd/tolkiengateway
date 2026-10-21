@@ -1,6 +1,5 @@
 ---
 title: "File:Sociedad Tolkien Uruguaya - logo.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sociedad Tolkien Uruguaya - logo.jpeg</span>"
 page_id: 66716
 namespace: 6
 revision_id: 386402
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of the [Sociedad Tolkien Uruguaya](/wiki/Sociedad_Tolkien_Uruguaya) (Uruguayan Tolkien Society)
+Logo of the [Sociedad Tolkien Uruguaya](../../main/S/Sociedad_Tolkien_Uruguaya.md) (Uruguayan Tolkien Society)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="https://www.facebook.com/sociedadtolkienuruguaya/" rel="noreferrer noopener" target="_blank">Sociedad Tolkien Uruguaya</a>. It is believed that the limited use of this file,

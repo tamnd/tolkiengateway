@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last Bridge"
 ---
 
-Redirect to [Last Bridge](/wiki/Last_Bridge).
+Redirect to [Last Bridge](../L/Last_Bridge.md).

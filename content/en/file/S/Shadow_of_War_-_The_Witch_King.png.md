@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - The Witch King.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - The Witch King.png</span>"
 page_id: 56705
 namespace: 6
 revision_id: 309368
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Witch King](/wiki/Witch_King) as depicted in *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)*.
+The [Witch King](../../main/W/Witch_King.md) as depicted in *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
 
 ## Licensing {#Licensing}
 

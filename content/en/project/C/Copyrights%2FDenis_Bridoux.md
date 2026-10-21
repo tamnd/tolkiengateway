@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Denis Bridoux"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Denis Bridoux</span>"
 page_id: 63736
 namespace: 4
 revision_id: 363172
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bridoux, Denis"
 ---
 
-- [Denis Bridoux](/wiki/Denis_Bridoux) (<a class="new" href="/w/index.php?title=User:Vanyarin&amp;action=edit&amp;redlink=1" title="User:Vanyarin (page does not exist)">User:Vanyarin</a>) has kindly granted his permission to use [the works](/wiki/Category:Images_by_Kay_Woollard "Category:Images by Kay Woollard") by [Kay Woollard](/wiki/Kay_Woollard) and the covers of *[Weathertop](</wiki/Weathertop_(journal)> "Weathertop (journal)")* on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Denis Bridoux](../../main/D/Denis_Bridoux.md) (<a class="new" href="https://tolkiengateway.net/w/index.php?title=User:Vanyarin&amp;action=edit&amp;redlink=1" title="User:Vanyarin (page does not exist)">User:Vanyarin</a>) has kindly granted his permission to use [the works](../../category/I/Images_by_Kay_Woollard.md) by [Kay Woollard](../../main/K/Kay_Woollard.md) and the covers of *[Weathertop](<../../main/W/Weathertop_(journal).md>)* on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 november 2022.
-- User who sought the permission: [User:LorenzoCB](/wiki/User:LorenzoCB).
+- User who sought the permission: [User:LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB).

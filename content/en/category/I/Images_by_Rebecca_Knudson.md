@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rebecca Knudson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rebecca Knudson</span>"
 page_id: 71376
 namespace: 14
 revision_id: 425858

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tirin na Gilweth"
 ---
 
-Redirect to [Tirin na Gilweth](/wiki/Tirin_na_Gilweth).
+Redirect to [Tirin na Gilweth](Tirin_na_Gilweth.md).

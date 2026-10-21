@@ -1,6 +1,5 @@
 ---
 title: "File:Image-missing.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Image-missing.svg</span>"
 page_id: 34728
 namespace: 6
 revision_id: 343571

@@ -15,6 +15,6 @@ sort_keys:
   "Calendars (real-world)": "1986, Inklings"
 ---
 
-**Inklings Calendar 1986** was published by Cahill &amp; Co., Three Candle Press. It features illustrations by <a class="new" href="/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
+**Inklings Calendar 1986** was published by Cahill &amp; Co., Three Candle Press. It features illustrations by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
 
 - Dimensions: 11 x 8.5 inches

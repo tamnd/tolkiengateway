@@ -1,6 +1,5 @@
 ---
 title: "File:Fifty New Poems for Children 1st Edition 1922 HB.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fifty New Poems for Children 1st Edition 1922 HB.jpg</span>"
 page_id: 5056
 namespace: 6
 revision_id: 214049

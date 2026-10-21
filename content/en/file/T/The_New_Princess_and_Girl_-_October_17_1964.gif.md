@@ -1,6 +1,5 @@
 ---
 title: "File:The New Princess and Girl - October 17 1964.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The New Princess and Girl - October 17 1964.gif</span>"
 page_id: 10149
 namespace: 6
 revision_id: 224819
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The second installment of a serialization of [The Hobbit](/wiki/The_Hobbit).
+The second installment of a serialization of [The Hobbit](../../main/T/The_Hobbit.md).
 
 ## Licensing {#Licensing}
 

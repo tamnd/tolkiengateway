@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Glamdring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Glamdring.png</span>"
 page_id: 73025
 namespace: 6
 revision_id: 432456
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Glamdring](/wiki/Glamdring) - [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")
+[Glamdring](../../main/G/Glamdring.md) - [*The Hobbit* (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Licensing {#Licensing}
 

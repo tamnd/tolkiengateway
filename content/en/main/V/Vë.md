@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-va"
 ---
 
-Redirect to [-va](/wiki/-va).
+Redirect to [-va](../_/-va.md).

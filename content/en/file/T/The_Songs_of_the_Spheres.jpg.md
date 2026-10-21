@@ -1,6 +1,5 @@
 ---
 title: "File:The Songs of the Spheres.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Songs of the Spheres.jpg</span>"
 page_id: 67016
 namespace: 6
 revision_id: 388721

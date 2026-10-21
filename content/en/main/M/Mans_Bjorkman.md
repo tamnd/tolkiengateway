@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Måns Björkman"
 ---
 
-Redirect to [Måns Björkman](/wiki/Måns_Björkman).
+Redirect to [Måns Björkman](Måns_Björkman.md).

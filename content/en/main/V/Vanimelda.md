@@ -14,9 +14,9 @@ categories:
   - "Metaphysics"
 ---
 
-**Vanimelda** is the highest word for praise of beauty in [Quenya](/wiki/Quenya). It meant at once both "beautiful and beloved" and "Elven-fair".<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
+**Vanimelda** is the highest word for praise of beauty in [Quenya](../Q/Quenya.md). It meant at once both "beautiful and beloved" and "Elven-fair".<sup id="cite_ref-pe17_1-0" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
 
-It was used within the name of [Arwen](/wiki/Arwen) (*Arwen Vanimelda Elerondiel*).<sup id="cite_ref-pe17_1-1" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup> It was the basis for the name of [Vanimeldë](/wiki/Vanimeld%C3%AB).
+It was used within the name of [Arwen](../A/Arwen.md) (*Arwen Vanimelda Elerondiel*).<sup id="cite_ref-pe17_1-1" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup> It was the basis for the name of [Vanimeldë](Vanimeldë.md).
 
 ## Etymology {#Etymology}
 
@@ -24,13 +24,13 @@ It was used within the name of [Arwen](/wiki/Arwen) (*Arwen Vanimelda Elerondiel
 
 ## Cognates {#Cognates}
 
-The [Sindarin](/wiki/Sindarin) cognate was *edhelvein*.<sup id="cite_ref-pe17_1-2" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
+The [Sindarin](../S/Sindarin.md) cognate was *edhelvein*.<sup id="cite_ref-pe17_1-2" class="reference"><a href="#cite_note-pe17-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-pe17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-pe17_1-0">1.0</a></sup> <sup><a href="#cite_ref-pe17_1-1">1.1</a></sup> <sup><a href="#cite_ref-pe17_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 56</span>
+<li id="cite_note-pe17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-pe17_1-0">1.0</a></sup> <sup><a href="#cite_ref-pe17_1-1">1.1</a></sup> <sup><a href="#cite_ref-pe17_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 56</span>
 </li>
 </ol></div>

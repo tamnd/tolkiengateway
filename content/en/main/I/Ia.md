@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iâ"
 ---
 
-Redirect to [Iâ](/wiki/Iâ).
+Redirect to [Iâ](Iâ.md).

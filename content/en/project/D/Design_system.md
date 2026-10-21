@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Design system"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Design system</span>"
 page_id: 67671
 namespace: 4
 revision_id: 431570
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-CSS variables are implemented on [MediaWiki:Common.css](/wiki/MediaWiki:Common.css).
+CSS variables are implemented on [MediaWiki:Common.css](https://tolkiengateway.net/wiki/MediaWiki:Common.css).
 
 ## Usage example {#Usage_example}
 
@@ -26,7 +25,6 @@ CSS variables are implemented on [MediaWiki:Common.css](/wiki/MediaWiki:Common.c
 #### Shorthand {#Shorthand}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>CSS variable</th>
 <th>Value
@@ -39,7 +37,6 @@ CSS variables are implemented on [MediaWiki:Common.css](/wiki/MediaWiki:Common.c
 #### Border color {#Border_color}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>CSS variable</th>
 <th>Value</th>
@@ -64,7 +61,6 @@ CSS variables are implemented on [MediaWiki:Common.css](/wiki/MediaWiki:Common.c
 #### Border radius {#Border_radius}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>CSS variable</th>
 <th>Value</th>
@@ -106,34 +102,33 @@ CSS variables are implemented on [MediaWiki:Common.css](/wiki/MediaWiki:Common.c
 #### Surface {#Surface}
 
 <div style="margin:1rem 0; display: grid; gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-0);"><div class="tg-design-color-var">--tg-color-surface-0</div><div class="tg-design-color-oklch">oklch( 97% 0.01 78 )</div><div class="tg-design-color-hex">#f9f4ee</div></div><div class="tg-design-color-description">Base surface (e.g. site background)</div></div><style data-mw-deduplicate="TemplateStyles:r394577">.mw-parser-output .tg-design-color{padding:1rem;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);display:flex;flex-direction:column;gap:var(--space-xs);line-height:1}.mw-parser-output .tg-design-color-description{margin-top:0.25rem}.mw-parser-output .tg-design-color-var,.mw-parser-output .tg-design-color-description{color:var(--tg-color-subtle);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-design-color-oklch,.mw-parser-output .tg-design-color-hex{color:var(--tg-color-emphasized);font-size:var(--tg-font-weight-medium)}.mw-parser-output .tg-design-color--inverted .tg-design-color-var,.mw-parser-output .tg-design-color--inverted .tg-design-color-oklch,.mw-parser-output .tg-design-color--inverted .tg-design-color-hex{color:var(--tg-color-inverted-progressive)}.mw-parser-output .tg-design-color--inverted .tg-design-color-var{opacity:0.8}</style>
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-1);"><div class="tg-design-color-var">--tg-color-surface-1</div><div class="tg-design-color-oklch">oklch( 99% 0.01 78 )</div><div class="tg-design-color-hex">#fffbf6</div></div><div class="tg-design-color-description">Elevated surface (e.g. popup, modals)</div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-2);"><div class="tg-design-color-var">--tg-color-surface-2</div><div class="tg-design-color-oklch">oklch( 95% 0.02 78 )</div><div class="tg-design-color-hex">#f6ede0</div></div><div class="tg-design-color-description">Surface above base surface (e.g. cards, infobox)</div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-3);"><div class="tg-design-color-var">--tg-color-surface-3</div><div class="tg-design-color-oklch">oklch( 92% 0.03 78 )</div><div class="tg-design-color-hex">#f0e3cf</div></div><div class="tg-design-color-description">Surface above surface 2 (e.g. section background within cards)</div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-4);"><div class="tg-design-color-var">--tg-color-surface-4</div><div class="tg-design-color-oklch">oklch( 89% 0.03 78 )</div><div class="tg-design-color-hex">#e6d9c5</div></div><div class="tg-design-color-description">Surface above surface 3</div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-5);"><div class="tg-design-color-var">--tg-color-surface-5</div><div class="tg-design-color-oklch">oklch( 89% 0.03 78 )</div><div class="tg-design-color-hex">#e3d2b8</div></div><div class="tg-design-color-description">Surface above surface 4</div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-0);"><div class="tg-design-color-var">--tg-color-surface-0</div><div class="tg-design-color-oklch">oklch( 97% 0.01 78 )</div><div class="tg-design-color-hex">#f9f4ee</div></div><div class="tg-design-color-description">Base surface (e.g. site background)</div></div>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-1);"><div class="tg-design-color-var">--tg-color-surface-1</div><div class="tg-design-color-oklch">oklch( 99% 0.01 78 )</div><div class="tg-design-color-hex">#fffbf6</div></div><div class="tg-design-color-description">Elevated surface (e.g. popup, modals)</div></div>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-2);"><div class="tg-design-color-var">--tg-color-surface-2</div><div class="tg-design-color-oklch">oklch( 95% 0.02 78 )</div><div class="tg-design-color-hex">#f6ede0</div></div><div class="tg-design-color-description">Surface above base surface (e.g. cards, infobox)</div></div>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-3);"><div class="tg-design-color-var">--tg-color-surface-3</div><div class="tg-design-color-oklch">oklch( 92% 0.03 78 )</div><div class="tg-design-color-hex">#f0e3cf</div></div><div class="tg-design-color-description">Surface above surface 2 (e.g. section background within cards)</div></div>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-4);"><div class="tg-design-color-var">--tg-color-surface-4</div><div class="tg-design-color-oklch">oklch( 89% 0.03 78 )</div><div class="tg-design-color-hex">#e6d9c5</div></div><div class="tg-design-color-description">Surface above surface 3</div></div>
+<div class="tg-design-color-container"><div class="tg-design-color" style="background:var(--tg-color-surface-5);"><div class="tg-design-color-var">--tg-color-surface-5</div><div class="tg-design-color-oklch">oklch( 89% 0.03 78 )</div><div class="tg-design-color-hex">#e3d2b8</div></div><div class="tg-design-color-description">Surface above surface 4</div></div>
 </div>
 
 #### Text {#Text}
 
 <div style="margin:1rem 0; display: grid; gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-emphasized);"><div class="tg-design-color-var">--tg-color-emphasized</div><div class="tg-design-color-oklch">oklch( 23% 0.02 130 )</div><div class="tg-design-color-hex">#1a1f15</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-base);"><div class="tg-design-color-var">--tg-color-base</div><div class="tg-design-color-oklch">oklch( 30% 0.02 130 )</div><div class="tg-design-color-hex">#2a3025</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-subtle);"><div class="tg-design-color-var">--tg-color-subtle</div><div class="tg-design-color-oklch">oklch( 45% 0.04 130 )</div><div class="tg-design-color-hex">#4e5a42</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-emphasized);"><div class="tg-design-color-var">--tg-color-emphasized</div><div class="tg-design-color-oklch">oklch( 23% 0.02 130 )</div><div class="tg-design-color-hex">#1a1f15</div></div></div>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-base);"><div class="tg-design-color-var">--tg-color-base</div><div class="tg-design-color-oklch">oklch( 30% 0.02 130 )</div><div class="tg-design-color-hex">#2a3025</div></div></div>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-subtle);"><div class="tg-design-color-var">--tg-color-subtle</div><div class="tg-design-color-oklch">oklch( 45% 0.04 130 )</div><div class="tg-design-color-hex">#4e5a42</div></div></div>
 </div>
 
 #### Progressive {#Progressive}
 
 <div style="margin:1rem 0; display: grid; gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive);"><div class="tg-design-color-var">--tg-color-progressive</div><div class="tg-design-color-oklch">oklch( 53% 0.14 130 )</div><div class="tg-design-color-hex">#507b07</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive--hover);"><div class="tg-design-color-var">--tg-color-progressive--hover</div><div class="tg-design-color-oklch">oklch( 56% 0.14 130 )</div><div class="tg-design-color-hex">#588418</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
-<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive--active);"><div class="tg-design-color-var">--tg-color-progressive--active</div><div class="tg-design-color-oklch">oklch( 50% 0.13 130 )</div><div class="tg-design-color-hex">#4a710a</div></div></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r394577"/>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive);"><div class="tg-design-color-var">--tg-color-progressive</div><div class="tg-design-color-oklch">oklch( 53% 0.14 130 )</div><div class="tg-design-color-hex">#507b07</div></div></div>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive--hover);"><div class="tg-design-color-var">--tg-color-progressive--hover</div><div class="tg-design-color-oklch">oklch( 56% 0.14 130 )</div><div class="tg-design-color-hex">#588418</div></div></div>
+<div class="tg-design-color-container"><div class="tg-design-color tg-design-color--inverted" style="background:var(--tg-color-progressive--active);"><div class="tg-design-color-var">--tg-color-progressive--active</div><div class="tg-design-color-oklch">oklch( 50% 0.13 130 )</div><div class="tg-design-color-hex">#4a710a</div></div></div>
 </div>
 
 ### Typography {#Typography}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr>
 <th>Text type</th>
 <th>Font family</th>

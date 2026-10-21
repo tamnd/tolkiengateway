@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - The Movie Storybook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - The Movie Storybook.jpg</span>"
 page_id: 41168
 namespace: 6
 revision_id: 214883

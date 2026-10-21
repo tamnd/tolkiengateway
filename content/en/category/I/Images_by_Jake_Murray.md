@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jake Murray"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jake Murray</span>"
 page_id: 42431
 namespace: 14
 revision_id: 224203

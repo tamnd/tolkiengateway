@@ -1,6 +1,5 @@
 ---
 title: "Andrew H. Morton"
-display_title: "<span class=\"mw-page-title-main\">Andrew H. Morton</span>"
 page_id: 38092
 namespace: 0
 revision_id: 404643
@@ -19,18 +18,18 @@ sort_keys:
   "People by name": "Morton, Andrew H."
 ---
 
-**Andrew H. Morton** is an author, composer, and works as an English teacher. He has written two books about young [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s relationship to [Jane Neave](/wiki/Jane_Neave) and to locations in [Birmingham](/wiki/Birmingham).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Andrew H. Morton** is an author, composer, and works as an English teacher. He has written two books about young [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s relationship to [Jane Neave](../J/Jane_Neave.md) and to locations in [Birmingham](../B/Birmingham.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [2008](/wiki/2008): *[Tolkien's Gedling - 1914: The Birth Of A Legend](/wiki/Tolkien%27s_Gedling "Tolkien's Gedling")* (with John Hayes)
-- [2009](/wiki/2009): *[Tolkien's Bag End: Treshold to Adventure](/wiki/Tolkien%27s_Bag_End "Tolkien's Bag End")*
+- [2008](../_/2008.md): *[Tolkien's Gedling - 1914: The Birth Of A Legend](../T/Tolkien's_Gedling.md)* (with John Hayes)
+- [2009](../_/2009.md): *[Tolkien's Bag End: Treshold to Adventure](../T/Tolkien's_Bag_End.md)*
 
 ### Articles {#Articles}
 
-- [2008](/wiki/2008): [*Amon Hen* 210](/wiki/Amon_Hen_210 "Amon Hen 210")
+- [2008](../_/2008.md): [*Amon Hen* 210](Amon_Hen_210.md)
     - "In Search of Earendel, Jane Neave and Phoenix Farm"
 
 ## External links {#External_links}
@@ -42,6 +41,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/press/830-Interview_with_Andrew_H_Morton_on_Tolkien_Gedling.php" rel="noreferrer noopener" target="_blank">&#34;Interview with Andrew H. Morton on Tolkien&#39;s Gedling&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Library" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 23 January 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/press/830-Interview_with_Andrew_H_Morton_on_Tolkien_Gedling.php" rel="noreferrer noopener" target="_blank">&#34;Interview with Andrew H. Morton on Tolkien&#39;s Gedling&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Library.md" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 23 January 2012</span></cite></span>
 </li>
 </ol></div>

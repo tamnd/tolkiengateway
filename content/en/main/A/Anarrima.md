@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anarríma"
 ---
 
-Redirect to [Anarríma](/wiki/Anarríma).
+Redirect to [Anarríma](Anarríma.md).

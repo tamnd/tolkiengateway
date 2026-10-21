@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astulat"
 ---
 
-Redirect to [Astulat](/wiki/Astulat).
+Redirect to [Astulat](../A/Astulat.md).

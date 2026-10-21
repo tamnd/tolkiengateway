@@ -1,6 +1,5 @@
 ---
 title: "File:Discord - Simple Icons.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Discord - Simple Icons.svg</span>"
 page_id: 67693
 namespace: 6
 revision_id: 394713

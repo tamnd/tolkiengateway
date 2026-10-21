@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondolindrim"
 ---
 
-Redirect to [Gondolindrim](/wiki/Gondolindrim).
+Redirect to [Gondolindrim](Gondolindrim.md).

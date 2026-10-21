@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Coronal of Silver and Gold"
 ---
 
-Redirect to [A Coronal of Silver and Gold](/wiki/A_Coronal_of_Silver_and_Gold).
+Redirect to [A Coronal of Silver and Gold](A_Coronal_of_Silver_and_Gold.md).

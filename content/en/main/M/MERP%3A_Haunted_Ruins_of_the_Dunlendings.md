@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haunted Ruins of the Dunlendings"
 ---
 
-Redirect to [Haunted Ruins of the Dunlendings](/wiki/Haunted_Ruins_of_the_Dunlendings).
+Redirect to [Haunted Ruins of the Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md).

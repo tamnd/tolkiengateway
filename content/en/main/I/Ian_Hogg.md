@@ -1,6 +1,5 @@
 ---
 title: "Ian Hogg"
-display_title: "<span class=\"mw-page-title-main\">Ian Hogg</span>"
 page_id: 19622
 namespace: 0
 revision_id: 153631
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Hogg, Ian"
 ---
 
-**Ian Hogg** ([August 1](/wiki/1_August "1 August"), [1937](/wiki/1937)), formerly of the Royal Shakespeare Company, provided the voice of [Tom Bombadil](/wiki/Tom_Bombadil) in the episode "The Adventures of Tom Bombadil" of the [1992](/wiki/1992) [*Tales from the Perilous Realm* radio series](</wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)> "Tales from the Perilous Realm (1992 radio series)").
+**Ian Hogg** ([August 1](../_/1_August.md), [1937](../_/1937.md)), formerly of the Royal Shakespeare Company, provided the voice of [Tom Bombadil](../T/Tom_Bombadil.md) in the episode "The Adventures of Tom Bombadil" of the [1992](../_/1992.md) [*Tales from the Perilous Realm* radio series](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## External links {#External_links}
 

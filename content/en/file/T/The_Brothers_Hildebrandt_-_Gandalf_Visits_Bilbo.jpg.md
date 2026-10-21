@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Gandalf Visits Bilbo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Gandalf Visits Bilbo.jpg</span>"
 page_id: 71565
 namespace: 6
 revision_id: 426784
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gandalf](/wiki/Gandalf) visits [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1976 J.R.R. Tolkien Calendar](/wiki/1976_J.R.R._Tolkien_Calendar)
+"[Gandalf](../../main/G/Gandalf.md) visits [Bilbo](../../main/B/Bilbo_Baggins.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1976 J.R.R. Tolkien Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

@@ -11,4 +11,4 @@ redirect_target: "Middle-earth"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Middle-earth](/wiki/Middle-earth#Other_versions_of_the_legendarium).
+Redirect to [Middle-earth](../M/Middle-earth.md#Other_versions_of_the_legendarium).

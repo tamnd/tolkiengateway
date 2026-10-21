@@ -11,4 +11,4 @@ redirect_target: "Tulkas"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Tulkas](/wiki/Tulkas#Other_names).
+Redirect to [Tulkas](../T/Tulkas.md#Other_names).

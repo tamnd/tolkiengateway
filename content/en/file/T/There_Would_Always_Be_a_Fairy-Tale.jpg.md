@@ -1,6 +1,5 @@
 ---
 title: "File:There Would Always Be a Fairy-Tale.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">There Would Always Be a Fairy-Tale.jpg</span>"
 page_id: 56358
 namespace: 6
 revision_id: 369729
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Verlyn Flieger](/wiki/Verlyn_Flieger)'s [There Would Always Be a Fairy Tale](/wiki/There_Would_Always_Be_a_Fairy_Tale)
+Cover of [Verlyn Flieger](../../main/V/Verlyn_Flieger.md)'s [There Would Always Be a Fairy Tale](../../main/T/There_Would_Always_Be_a_Fairy_Tale.md)
 
 ## Licensing {#Licensing}
 

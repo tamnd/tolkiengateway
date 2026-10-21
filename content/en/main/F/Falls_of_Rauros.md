@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rauros"
 ---
 
-Redirect to [Rauros](/wiki/Rauros).
+Redirect to [Rauros](../R/Rauros.md).

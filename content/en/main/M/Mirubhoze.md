@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirubhōze"
 ---
 
-Redirect to [Mirubhōze](/wiki/Mirubhōze).
+Redirect to [Mirubhōze](Mirubhōze.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adûnaic"
 ---
 
-Redirect to [Adûnaic](/wiki/Adûnaic).
+Redirect to [Adûnaic](Adûnaic.md).

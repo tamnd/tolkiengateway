@@ -1,6 +1,5 @@
 ---
 title: "File:Fantasy, Myth and the Measure of Truth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fantasy, Myth and the Measure of Truth.jpg</span>"
 page_id: 28346
 namespace: 6
 revision_id: 214040

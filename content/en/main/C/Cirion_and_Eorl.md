@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirion and Eorl and the Friendship of Gondor and Rohan"
 ---
 
-Redirect to [Cirion and Eorl and the Friendship of Gondor and Rohan](/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan).
+Redirect to [Cirion and Eorl and the Friendship of Gondor and Rohan](Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MOR"
 ---
 
-Redirect to [MOR](/wiki/MOR).
+Redirect to [MOR](MOR~34024.md).

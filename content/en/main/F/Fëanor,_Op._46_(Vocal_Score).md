@@ -1,6 +1,5 @@
 ---
 title: "Fëanor, Op. 46 (Vocal Score)"
-display_title: "<span class=\"mw-page-title-main\">Fëanor, Op. 46 (Vocal Score)</span>"
 page_id: 65201
 namespace: 0
 revision_id: 375231
@@ -15,9 +14,9 @@ images:
   - "FEANOR_Vocal_Score_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:FEANOR_Vocal_Score_Cover.jpg"><img src="/w/images/b/b3/FEANOR_Vocal_Score_Cover.jpg" decoding="async" loading="lazy" width="249" height="333" class="mw-file-element" data-file-width="249" data-file-height="333"/></a><figcaption>Vocal Score cover by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/FEANOR_Vocal_Score_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b3/FEANOR_Vocal_Score_Cover.jpg" decoding="async" loading="lazy" width="249" height="333" class="mw-file-element" data-file-width="249" data-file-height="333"/></a><figcaption>Vocal Score cover by permission of Ted Nasmith</figcaption></figure>
 
-Published by Zarathustra Music in 2022, the complete Vocal Score of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s *[Fëanor, Op. 46 (Opera)](</wiki/F%C3%ABanor,_Op._46_(Opera)>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
+Published by Zarathustra Music in 2022, the complete Vocal Score of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s *[Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
 
 <br> This is a 103 page A4 sized book with full gloss covers.
 

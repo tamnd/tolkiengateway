@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to C.N. Manlove"
 ---
 
-Redirect to [Letter to C.N. Manlove](/wiki/Letter_to_C.N._Manlove).
+Redirect to [Letter to C.N. Manlove](../L/Letter_to_C.N._Manlove.md).

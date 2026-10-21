@@ -1,6 +1,5 @@
 ---
 title: "A World for Children"
-display_title: "<span class=\"mw-page-title-main\">A World for Children</span>"
 page_id: 37902
 namespace: 0
 revision_id: 404504
@@ -15,11 +14,11 @@ images:
   - "A_World_for_Children.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A_World_for_Children.png"><img src="/w/images/thumb/f/fb/A_World_for_Children.png/300px-A_World_for_Children.png" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="/w/images/thumb/f/fb/A_World_for_Children.png/450px-A_World_for_Children.png 1.5x, /w/images/thumb/f/fb/A_World_for_Children.png/600px-A_World_for_Children.png 2x" data-file-width="720" data-file-height="540"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_World_for_Children.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/A_World_for_Children.png/300px-A_World_for_Children.png" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/A_World_for_Children.png/450px-A_World_for_Children.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/A_World_for_Children.png/600px-A_World_for_Children.png 2x" data-file-width="720" data-file-height="540"/></a><figcaption></figcaption></figure>
 
-"**A World for Children**" is the title of the first literary review of *[The Hobbit](/wiki/The_Hobbit)*. It was written by [C.S. Lewis](/wiki/C.S._Lewis) and originally published (anonymously) in *The Times Literary Supplement* on [2 October](/wiki/2_October) [1937](/wiki/1937) (p. 714). In [1972](/wiki/1972) the review was reprinted as the chapter "The Hobbit" in the collection *Of This and Other Worlds*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"**A World for Children**" is the title of the first literary review of *[The Hobbit](../T/The_Hobbit.md)*. It was written by [C.S. Lewis](../C/C.S._Lewis.md) and originally published (anonymously) in *The Times Literary Supplement* on [2 October](../_/2_October.md) [1937](../_/1937.md) (p. 714). In [1972](../_/1972.md) the review was reprinted as the chapter "The Hobbit" in the collection *Of This and Other Worlds*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-In [2013](/wiki/2013) this review was published in <i><a class="new" href="/w/index.php?title=Image_and_Imagination&amp;action=edit&amp;redlink=1" title="Image and Imagination (page does not exist)">Image and Imagination: Essays and Reviews</a></i>.
+In [2013](../_/2013.md) this review was published in <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Image_and_Imagination&amp;action=edit&amp;redlink=1" title="Image and Imagination (page does not exist)">Image and Imagination: Essays and Reviews</a></i>.
 
 ## External links {#External_links}
 
@@ -30,9 +29,9 @@ In [2013](/wiki/2013) this review was published in <i><a class="new" href="/w/in
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/%C3%85ke_Bertenstam" title="Åke Bertenstam">Åke Bertenstam</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.forodrim.org/bibliography/tolklist.html" rel="noreferrer noopener" target="_blank">&#34;A Chronological Bibliography of Books About Tolkien&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Forodrim" title="Forodrim">Forodrim.org</a></span>. <span class="cite-web-accessed">Retrieved 7 January 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../_/Åke_Bertenstam.md" title="Åke Bertenstam">Åke Bertenstam</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.forodrim.org/bibliography/tolklist.html" rel="noreferrer noopener" target="_blank">&#34;A Chronological Bibliography of Books About Tolkien&#34;</a></span>. <span class="cite-web-website"><a href="../F/Forodrim.md" title="Forodrim">Forodrim.org</a></span>. <span class="cite-web-accessed">Retrieved 7 January 2012</span></cite></span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 202</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 202</span>
 </li>
 </ol></div>

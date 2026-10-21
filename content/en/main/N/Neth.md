@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nessa"
 ---
 
-Redirect to [Nessa](/wiki/Nessa).
+Redirect to [Nessa](Nessa.md).

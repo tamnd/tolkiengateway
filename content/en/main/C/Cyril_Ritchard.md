@@ -1,6 +1,5 @@
 ---
 title: "Cyril Ritchard"
-display_title: "<span class=\"mw-page-title-main\">Cyril Ritchard</span>"
 page_id: 9708
 namespace: 0
 revision_id: 405158
@@ -21,7 +20,7 @@ sort_keys:
   "The Hobbit (1977 film) cast": "Ritchard, Cyril"
 ---
 
-**Cyril Ritchard** (1898 – 1977) was a veteran actor and director. He was the voice of [Elrond](/wiki/Elrond) in the [Rankin/Bass](/wiki/Rankin/Bass) animated version of *[The Hobbit](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")*.
+**Cyril Ritchard** (1898 – 1977) was a veteran actor and director. He was the voice of [Elrond](../E/Elrond.md) in the [Rankin/Bass](../R/Rankin%252FBass.md) animated version of *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*.
 
 ## External links {#External_links}
 

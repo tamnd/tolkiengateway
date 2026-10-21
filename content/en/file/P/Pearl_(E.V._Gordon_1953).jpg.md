@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Pearl 1953.jpg"
 ---
 
-Redirect to [File:Pearl 1953.jpg](/wiki/File:Pearl_1953.jpg).
+Redirect to [File:Pearl 1953.jpg](Pearl_1953.jpg.md).

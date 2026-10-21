@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Axes"
 ---
 
-Redirect to [Axes](/wiki/Axes).
+Redirect to [Axes](Axes.md).

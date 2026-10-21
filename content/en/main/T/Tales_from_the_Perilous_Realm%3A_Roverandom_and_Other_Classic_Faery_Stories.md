@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales from the Perilous Realm"
 ---
 
-Redirect to [Tales from the Perilous Realm](/wiki/Tales_from_the_Perilous_Realm).
+Redirect to [Tales from the Perilous Realm](Tales_from_the_Perilous_Realm.md).

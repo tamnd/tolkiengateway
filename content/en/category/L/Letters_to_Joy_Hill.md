@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Joy Hill"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Joy Hill</span>"
 page_id: 68689
 namespace: 14
 revision_id: 408755
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Hill, Joy"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Joy Hill](/wiki/Joy_Hill).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Joy Hill](../../main/J/Joy_Hill.md).

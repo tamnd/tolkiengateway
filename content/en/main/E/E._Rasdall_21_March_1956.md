@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to E. Rasdall"
 ---
 
-Redirect to [Letter to E. Rasdall](/wiki/Letter_to_E._Rasdall).
+Redirect to [Letter to E. Rasdall](../L/Letter_to_E._Rasdall.md).

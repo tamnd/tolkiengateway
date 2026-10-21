@@ -1,6 +1,5 @@
 ---
 title: "File:The Art of The Lord of the Rings The War of the Rohirrim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Art of The Lord of the Rings The War of the Rohirrim.jpg</span>"
 page_id: 70344
 namespace: 6
 revision_id: 418655

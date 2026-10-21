@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Gollum at the Forbidden Pool.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Gollum at the Forbidden Pool.jpg](/wiki/File:Ted_Nasmith_-_Gollum_at_the_Forbidden_Pool.jpg).
+Redirect to [File:Ted Nasmith - Gollum at the Forbidden Pool.jpg](Ted_Nasmith_-_Gollum_at_the_Forbidden_Pool.jpg.md).

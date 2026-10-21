@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Emblems of Durin.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Emblems of Durin.png</span>"
 page_id: 70525
 namespace: 6
 revision_id: 420518
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"*There are the emblems of Durin!* cried Gimli". Image extracted from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [depiction of the Doors of Durin](/wiki/File:J.R.R._Tolkien_-_Doors_of_Durin.jpg "File:J.R.R. Tolkien - Doors of Durin.jpg") in *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*.
+"*There are the emblems of Durin!* cried Gimli". Image extracted from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s [depiction of the Doors of Durin](J.R.R._Tolkien_-_Doors_of_Durin.jpg.md) in *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*.
 
 ## Licensing {#Licensing}
 

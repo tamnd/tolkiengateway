@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Feast of Good Children"
 ---
 
-Redirect to [The Feast of Good Children](/wiki/The_Feast_of_Good_Children).
+Redirect to [The Feast of Good Children](../T/The_Feast_of_Good_Children.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Book II - Faere queene - at the Lily Library.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Book II - Faere queene - at the Lily Library.jpg</span>"
 page_id: 49878
 namespace: 6
 revision_id: 268761

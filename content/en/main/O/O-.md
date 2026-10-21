@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ó-"
 ---
 
-Redirect to [Ó-](/wiki/Ó-).
+Redirect to [Ó-](../_/Ó-.md).

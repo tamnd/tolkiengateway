@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lambengolmor"
 ---
 
-Redirect to [Lambengolmor](/wiki/Lambengolmor).
+Redirect to [Lambengolmor](../L/Lambengolmor.md).

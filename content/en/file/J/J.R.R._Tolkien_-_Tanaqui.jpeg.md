@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Tanaqui.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Tanaqui.jpeg</span>"
 page_id: 71469
 namespace: 6
 revision_id: 426153
@@ -27,23 +26,19 @@ file:
 
 ## Summary {#Summary}
 
-"Tanaqui": a painting by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) from 1915.
+"Tanaqui": a painting by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) from 1915.
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>This is evident also in Tanaqui, painted early in 1915, to judge by its position in the sketch-book. Its title appears to be an early form of Taniquetil, but the mountain depicted is surely not the one by that name in Tolkien&#39;s mythology, &#39;loftiest of all mountains, clad in purest snow&#39;. Probably Tanaqui should be associated with the poem Kor, written on 30 April 1915.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien: Artist and Illustrator</cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+</blockquote><div class="tg-section-divider"></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>&#34;Tanaqui&#39;, 1915. This painting of the city of the Elves in Valinor is from the Book of Ishness; a sketchbook started by Tolkien when he was at university. The vivid colours and surreal style were later used by Tolkien in illustrations of the north pole by &#39;Father Christmas&#39;.
 </p>
 <p class="tg-quote-footer"><cite>Tolkien Estate</cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
-
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
+</blockquote><div class="tg-section-divider"></div></div>
 
 ## Licensing {#Licensing}
 

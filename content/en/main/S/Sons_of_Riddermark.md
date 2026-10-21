@@ -1,6 +1,5 @@
 ---
 title: "Sons of Riddermark"
-display_title: "<span class=\"mw-page-title-main\">Sons of Riddermark</span>"
 page_id: 22328
 namespace: 0
 revision_id: 81430
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Sons of Riddermark</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their second full-length album, [Sword's Song](/wiki/Sword%27s_Song).
+<i><b>Sons of Riddermark</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their second full-length album, [Sword's Song](Sword's_Song.md).
 
 ## Lyrics {#Lyrics}
 

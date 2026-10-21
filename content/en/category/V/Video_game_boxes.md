@@ -1,6 +1,5 @@
 ---
 title: "Category:Video game boxes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Video game boxes</span>"
 page_id: 20509
 namespace: 14
 revision_id: 199415
@@ -15,4 +14,4 @@ sort_keys:
   "Images of merchandise": "Video game boxes"
 ---
 
-Box art of Tolkien-related video games, primarily for use in [Template:Video game infobox](/wiki/Template:Video_game_infobox)
+Box art of Tolkien-related video games, primarily for use in [Template:Video game infobox](https://tolkiengateway.net/wiki/Template:Video_game_infobox)

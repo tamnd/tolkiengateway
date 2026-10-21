@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gaffer Gamgee"
 ---
 
-Redirect to [Gaffer Gamgee](/wiki/Gaffer_Gamgee).
+Redirect to [Gaffer Gamgee](../G/Gaffer_Gamgee.md).

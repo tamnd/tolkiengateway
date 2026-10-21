@@ -11,4 +11,4 @@ redirect_target: "War of the Ring (2004 board game)"
 redirect_fragment: "Battles of the Third Age"
 ---
 
-Redirect to [War of the Ring (2004 board game)](/wiki/War_of_the_Ring_(2004_board_game)#Battles_of_the_Third_Age).
+Redirect to [War of the Ring (2004 board game)](<../W/War_of_the_Ring_(2004_board_game).md#Battles_of_the_Third_Age>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Mareishon - The Mirror of Galadriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mareishon - The Mirror of Galadriel.jpg</span>"
 page_id: 49340
 namespace: 6
 revision_id: 264483
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mareishon</li>
 <li><b>Website:</b> <a class="external text" href="http://mareishon.deviantart.com/" rel="noreferrer noopener" target="_blank">Mareishon&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mareishon" title="Tolkien Gateway:Copyrights/Mareishon">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMareishon.md" title="Tolkien Gateway:Copyrights/Mareishon">Permission for use on Tolkien Gateway</a></b></li></ul></div>

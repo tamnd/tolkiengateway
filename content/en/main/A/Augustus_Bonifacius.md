@@ -1,6 +1,5 @@
 ---
 title: "Augustus Bonifacius"
-display_title: "<span class=\"mw-page-title-main\">Augustus Bonifacius</span>"
 page_id: 36089
 namespace: 0
 revision_id: 428591
@@ -23,13 +22,13 @@ langlinks:
     url: "https://kontu.wiki/Augustus_Bonifacius"
 ---
 
-**Augustus Bonifacius**, or in full **Augustus Bonifacius Ambrosius Aurelianus Antoninus Pius et Magnificus**, was the king of the [Middle Kingdom](/wiki/Middle_Kingdom) when [Farmer Giles](/wiki/Farmer_Giles) lived in the village of [Ham](/wiki/Ham).
+**Augustus Bonifacius**, or in full **Augustus Bonifacius Ambrosius Aurelianus Antoninus Pius et Magnificus**, was the king of the [Middle Kingdom](../M/Middle_Kingdom.md) when [Farmer Giles](../F/Farmer_Giles.md) lived in the village of [Ham](../H/Ham.md).
 
 ## History {#History}
 
-When [Farmer Giles](/wiki/Farmer_Giles) became the Hero of the Countryside for chasing off the [giant](/wiki/The_Giant "The Giant") that had threatened the village of [Ham](/wiki/Ham), the news quickly spread to every village within twenty miles, and eventually to the capital twenty leagues away to the ears of Augustus Bonifacius. Such a deed seemed worthy of note so the king sent Giles a testimonial letter and a useless old sword.
+When [Farmer Giles](../F/Farmer_Giles.md) became the Hero of the Countryside for chasing off the [giant](../T/The_Giant.md) that had threatened the village of [Ham](../H/Ham.md), the news quickly spread to every village within twenty miles, and eventually to the capital twenty leagues away to the ears of Augustus Bonifacius. Such a deed seemed worthy of note so the king sent Giles a testimonial letter and a useless old sword.
 
-When Augustus Bonifacius heard about Giles' conquest of [Chrysophylax](/wiki/Chrysophylax) (and the treasure that the [dragon](/wiki/Dragons#Other_fiction "Dragons") had sworn to bring to Ham) he and an entourage of knights came to the village. With great care he explained to the good folk of Ham that the wealth of Chrysophylax all belonged to him, having come from his ancestors, but he would graciously reward the citizenry with a token of his esteem.
+When Augustus Bonifacius heard about Giles' conquest of [Chrysophylax](../C/Chrysophylax.md) (and the treasure that the [dragon](../D/Dragons.md#Other_fiction) had sworn to bring to Ham) he and an entourage of knights came to the village. With great care he explained to the good folk of Ham that the wealth of Chrysophylax all belonged to him, having come from his ancestors, but he would graciously reward the citizenry with a token of his esteem.
 
 However, although the king stayed in Ham awaiting the arrival of the dragon, the worm did not come. Two days after the deadline the king in a royal rage left the town (after cancelling half of the tallies on the Exchequer that had been promised to the villagers for the food he and his knights had eaten). He then summoned Farmer Giles to the capital and sent him with all his knights to bring back the promised hoard.
 
@@ -42,6 +41,6 @@ Augustus Bonifacius was, however, a brave man. Regaining control of his steed, h
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/Farmer_Giles_of_Ham" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></span>
 </li>
 </ol></div>

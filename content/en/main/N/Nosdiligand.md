@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northiligand"
 ---
 
-Redirect to [Northiligand](/wiki/Northiligand).
+Redirect to [Northiligand](Northiligand.md).

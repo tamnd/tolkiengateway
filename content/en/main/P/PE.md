@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parma Eldalamberon"
 ---
 
-Redirect to [Parma Eldalamberon](/wiki/Parma_Eldalamberon).
+Redirect to [Parma Eldalamberon](Parma_Eldalamberon.md).

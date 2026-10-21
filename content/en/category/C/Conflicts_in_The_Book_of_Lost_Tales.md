@@ -1,6 +1,5 @@
 ---
 title: "Category:Conflicts in The Book of Lost Tales"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Conflicts in The Book of Lost Tales</span>"
 page_id: 61372
 namespace: 14
 revision_id: 374340
@@ -14,4 +13,4 @@ categories:
   - "Wars and conflicts"
 ---
 
-Wars and battles that appear in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*. Note that some of those names refer to concepts as they appear in the later [legendarium](/wiki/Legendarium "Legendarium"), rather than in the actual Lost Tales.
+Wars and battles that appear in *[The Book of Lost Tales](../../main/T/The_Book_of_Lost_Tales.md)*. Note that some of those names refer to concepts as they appear in the later [legendarium](../../main/L/Legendarium.md), rather than in the actual Lost Tales.

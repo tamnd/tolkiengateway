@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-im-Duinath"
 ---
 
-Redirect to [Taur-im-Duinath](/wiki/Taur-im-Duinath).
+Redirect to [Taur-im-Duinath](Taur-im-Duinath.md).

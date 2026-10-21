@@ -1,6 +1,5 @@
 ---
 title: "File:A Philologist on Esperanto.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Philologist on Esperanto.png</span>"
 page_id: 28907
 namespace: 6
 revision_id: 253159

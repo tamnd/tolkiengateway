@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with non-existent image in template"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with non-existent image in template</span>"
 page_id: 68252
 namespace: 14
 revision_id: 401426
@@ -15,4 +14,4 @@ categories:
 
 Templates with non-existent images.
 
-This is powered by [Module:Paramvalidate](/wiki/Module:Paramvalidate).
+This is powered by [Module:Paramvalidate](https://tolkiengateway.net/wiki/Module:Paramvalidate).

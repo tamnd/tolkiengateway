@@ -1,6 +1,5 @@
 ---
 title: "Category:Poetry books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poetry books</span>"
 page_id: 26602
 namespace: 14
 revision_id: 189550
@@ -13,4 +12,4 @@ categories:
   - "Books"
 ---
 
-Books about or containing <a class="mw-disambig" href="/wiki/Poetry_(disambiguation)" title="Poetry (disambiguation)">poetry</a>.
+Books about or containing <a class="mw-disambig" href="../../main/P/Poetry_(disambiguation).md" title="Poetry (disambiguation)">poetry</a>.

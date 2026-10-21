@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fish"
 ---
 
-Redirect to [Fish](/wiki/Fish).
+Redirect to [Fish](Fish.md).

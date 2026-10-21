@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Súlimë"
 ---
 
-Redirect to [Súlimë](/wiki/Súlimë).
+Redirect to [Súlimë](Súlimë.md).

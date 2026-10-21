@@ -1,6 +1,5 @@
 ---
 title: "Hank Howie"
-display_title: "<span class=\"mw-page-title-main\">Hank Howie</span>"
 page_id: 27565
 namespace: 0
 revision_id: 138087
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Howie, Hank"
 ---
 
-**Henry G. Howie** ([June](/wiki/June) [1959](/wiki/1959)) was one of the designers of the video game [Riders of Rohan](</wiki/Riders_of_Rohan_(video_game)> "Riders of Rohan (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He is currently president of <a class="external text" href="http://www.bluefang.com/principals.html" rel="noreferrer noopener" target="_blank">Blue Fang Games</a>.
+**Henry G. Howie** ([June](../J/June.md) [1959](../_/1959.md)) was one of the designers of the video game [Riders of Rohan](<../R/Riders_of_Rohan_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He is currently president of <a class="external text" href="http://www.bluefang.com/principals.html" rel="noreferrer noopener" target="_blank">Blue Fang Games</a>.
 
 <span></span>
 

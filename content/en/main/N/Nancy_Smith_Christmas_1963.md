@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Nancy Smith (Christmas 1963)"
 ---
 
-Redirect to [Letter to Nancy Smith (Christmas 1963)](/wiki/Letter_to_Nancy_Smith_(Christmas_1963)).
+Redirect to [Letter to Nancy Smith (Christmas 1963)](<../L/Letter_to_Nancy_Smith_(Christmas_1963).md>).

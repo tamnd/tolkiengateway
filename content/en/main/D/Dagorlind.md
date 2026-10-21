@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magor"
 ---
 
-Redirect to [Magor](/wiki/Magor).
+Redirect to [Magor](../M/Magor.md).

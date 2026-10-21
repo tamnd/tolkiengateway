@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crebain"
 ---
 
-Redirect to [Crebain](/wiki/Crebain).
+Redirect to [Crebain](Crebain.md).

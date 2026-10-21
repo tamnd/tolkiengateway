@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by George Sukhoff"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by George Sukhoff</span>"
 page_id: 57897
 namespace: 14
 revision_id: 318887

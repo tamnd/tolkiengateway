@@ -1,6 +1,5 @@
 ---
 title: "File:Raynor Memorial Library.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Raynor Memorial Library.jpeg</span>"
 page_id: 61881
 namespace: 6
 revision_id: 348794

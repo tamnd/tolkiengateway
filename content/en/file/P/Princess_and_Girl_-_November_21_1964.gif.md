@@ -1,6 +1,5 @@
 ---
 title: "File:Princess and Girl - November 21 1964.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Princess and Girl - November 21 1964.gif</span>"
 page_id: 10154
 namespace: 6
 revision_id: 224824
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The seventh installment of a serialization of [The Hobbit](/wiki/The_Hobbit).
+The seventh installment of a serialization of [The Hobbit](../../main/T/The_Hobbit.md).
 
 ## Licensing {#Licensing}
 

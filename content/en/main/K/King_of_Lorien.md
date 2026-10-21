@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Lórien"
 ---
 
-Redirect to [King of Lórien](/wiki/King_of_Lórien).
+Redirect to [King of Lórien](King_of_Lórien.md).

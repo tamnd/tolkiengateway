@@ -1,6 +1,5 @@
 ---
 title: "File:Barad-dur BFMEII.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Barad-dur BFMEII.jpg</span>"
 page_id: 25293
 namespace: 6
 revision_id: 248666
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barad-dûr](/wiki/Barad-d%C3%BBr) as seen in the "War of the Ring"-mode map of [Mordor](/wiki/Mordor).
+[Barad-dûr](../../main/B/Barad-dûr.md) as seen in the "War of the Ring"-mode map of [Mordor](../../main/M/Mordor.md).
 
 ## Licensing {#Licensing}
 

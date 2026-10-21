@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya affixes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya affixes</span>"
 page_id: 24517
 namespace: 14
 revision_id: 219776

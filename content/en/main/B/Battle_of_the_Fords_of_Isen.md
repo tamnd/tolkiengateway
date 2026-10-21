@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battles of the Fords of Isen"
 ---
 
-Redirect to [Battles of the Fords of Isen](/wiki/Battles_of_the_Fords_of_Isen).
+Redirect to [Battles of the Fords of Isen](Battles_of_the_Fords_of_Isen.md).

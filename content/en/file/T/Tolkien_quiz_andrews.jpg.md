@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien quiz andrews.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien quiz andrews.jpg</span>"
 page_id: 26091
 namespace: 6
 revision_id: 214465

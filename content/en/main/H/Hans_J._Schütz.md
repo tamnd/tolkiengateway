@@ -1,6 +1,5 @@
 ---
 title: "Hans J. Schütz"
-display_title: "<span class=\"mw-page-title-main\">Hans J. Schütz</span>"
 page_id: 18848
 namespace: 0
 revision_id: 434186
@@ -31,33 +30,33 @@ images:
   - "Nachrichten_aus_Mittelerde.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Nachrichten_aus_Mittelerde.jpg"><img src="/w/images/1/11/Nachrichten_aus_Mittelerde.jpg" decoding="async" loading="lazy" width="224" height="350" class="mw-file-element" data-file-width="224" data-file-height="350"/></a><figcaption>Cover of Hans J. Schütz’s German translation of <i>Unfinished Tales of Númenor and Middle-earth</i>.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nachrichten_aus_Mittelerde.jpg.md"><img src="https://tolkiengateway.net/w/images/1/11/Nachrichten_aus_Mittelerde.jpg" decoding="async" loading="lazy" width="224" height="350" class="mw-file-element" data-file-width="224" data-file-height="350"/></a><figcaption>Cover of Hans J. Schütz’s German translation of <i>Unfinished Tales of Númenor and Middle-earth</i>.</figcaption></figure>
 
-**Hans Jürgen Schütz** ([4 September](/wiki/4_September) [1936](/wiki/1936)- [10 July](/wiki/10_July) [2004](/wiki/2004)) was a German freelance author, publicist and translator.
+**Hans Jürgen Schütz** ([4 September](../_/4_September.md) [1936](../_/1936.md)- [10 July](../_/10_July.md) [2004](../_/2004.md)) was a German freelance author, publicist and translator.
 
-Hans J. Schütz studied German philology and English studies. From 1968 to 1971 he made an apprenticeship as a bookseller. From 1972 to 1975 Hans J. Schütz worked as an editor. Since 1976 he worked as a freelance author and translator. His works as an author are for the most part about literary themes, for example unknown German poets of the 20th century, the history of censorship in literature and jewish authors. Hans J. Schütz was the translator of several books by authors like <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_Kerr" title="wikipedia:Philip Kerr">Philip Kerr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tad_Williams" title="wikipedia:Tad Williams">Tad Williams</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Patricia_A._McKillip" title="wikipedia:Patricia A. McKillip">Patricia A. McKillip</a> into German. For the German publisher [Klett-Cotta](/wiki/Klett-Cotta), he translated books by and about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) into German.
+Hans J. Schütz studied German philology and English studies. From 1968 to 1971 he made an apprenticeship as a bookseller. From 1972 to 1975 Hans J. Schütz worked as an editor. Since 1976 he worked as a freelance author and translator. His works as an author are for the most part about literary themes, for example unknown German poets of the 20th century, the history of censorship in literature and jewish authors. Hans J. Schütz was the translator of several books by authors like <a class="extiw" href="http://en.wikipedia.org/wiki/Philip_Kerr" title="wikipedia:Philip Kerr">Philip Kerr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tad_Williams" title="wikipedia:Tad Williams">Tad Williams</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Patricia_A._McKillip" title="wikipedia:Patricia A. McKillip">Patricia A. McKillip</a> into German. For the German publisher [Klett-Cotta](../K/Klett-Cotta.md), he translated books by and about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) into German.
 
 Hans J. Schütz lived in <a class="extiw" href="http://en.wikipedia.org/wiki/Bremen" title="wikipedia:Bremen">Bremen</a>.
 
 ## Translations {#Translations}
 
-- [1983](/wiki/1983): [Unfinished Tales of Númenor and Middle-earth](/wiki/Unfinished_Tales "Unfinished Tales") (*Nachrichten aus Mittelerde*)
-- [1986](/wiki/1986): [The Book of Lost Tales Part One](/wiki/The_Book_of_Lost_Tales_Part_One) (*Das Buch der Verschollenen Geschichten Teil 1*)
-- [1987](/wiki/1987): [The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two) (*Das Buch der Verschollenen Geschichten Teil 2*)
-- [1987](/wiki/1987): *[The Complaint of Mîm the Dwarf](/wiki/The_Complaint_of_M%C3%AEm_the_Dwarf)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (*Mîms Klage*)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [1994](/wiki/1994): [The Atlas of Middle-earth](/wiki/The_Atlas_of_Middle-earth) (*Historischer Atlas von Mittelerde*)
-- [1996](/wiki/1996): [J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator) (*J.R.R. Tolkien - Der Künstler*)
-- [1999](/wiki/1999): [Roverandom](/wiki/Roverandom)
-- The books about [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")
-- [2002](/wiki/2002): [The Road Goes Ever On and On: The Map of Tolkien's Middle-earth](/wiki/The_Road_Goes_Ever_On_and_On:_The_Map_of_Tolkien%27s_Middle-earth) (*Die Straße gleitet fort und fort: Die Karte von Tolkiens Mittelerde*)
-- [2004](/wiki/2004): <a class="mw-redirect mw-disambig" href="/wiki/Sir_Gawain_and_the_Green_Knight" title="Sir Gawain and the Green Knight">Sir Gawain and the Green Knight</a> (*Sir Gawain und der Grüne Ritter*) (co-translator [Wolfgang Krege](/wiki/Wolfgang_Krege))
+- [1983](../_/1983.md): [Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales.md) (*Nachrichten aus Mittelerde*)
+- [1986](../_/1986.md): [The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md) (*Das Buch der Verschollenen Geschichten Teil 1*)
+- [1987](../_/1987.md): [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md) (*Das Buch der Verschollenen Geschichten Teil 2*)
+- [1987](../_/1987.md): *[The Complaint of Mîm the Dwarf](../T/The_Complaint_of_Mîm_the_Dwarf.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (*Mîms Klage*)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [1994](../_/1994.md): [The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md) (*Historischer Atlas von Mittelerde*)
+- [1996](../_/1996.md): [J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md) (*J.R.R. Tolkien - Der Künstler*)
+- [1999](../_/1999.md): [Roverandom](../R/Roverandom.md)
+- The books about [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>)
+- [2002](../_/2002.md): [The Road Goes Ever On and On: The Map of Tolkien's Middle-earth](../T/The_Road_Goes_Ever_On_and_On%253A_The_Map_of_Tolkien's_Middle-earth.md) (*Die Straße gleitet fort und fort: Die Karte von Tolkiens Mittelerde*)
+- [2004](../_/2004.md): <a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain and the Green Knight</a> (*Sir Gawain und der Grüne Ritter*) (co-translator [Wolfgang Krege](../W/Wolfgang_Krege.md))
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide, Part I,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a> Second Edition)</i> (2017), p. 261 (entry &#34;<i>The Complaint of Mîm the Dwarf</i>&#34;)</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide, Part I,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a> Second Edition)</i> (2017), p. 261 (entry &#34;<i>The Complaint of Mîm the Dwarf</i>&#34;)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Klett-Cotta:_Das_erste_Jahrzehnt_1977-1987:_Ein_Almanach" title="Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach">Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach</a></i> (Herausgegeben von Thomas Weck), Stuttgart: <a href="/wiki/Klett-Cotta" title="Klett-Cotta">Klett-Cotta</a>, 1987 (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/360895502X">ISBN 3-608-95502-X</a>), pp. 302-5</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../K/Klett-Cotta%253A_Das_erste_Jahrzehnt_1977-1987%253A_Ein_Almanach.md" title="Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach">Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach</a></i> (Herausgegeben von Thomas Weck), Stuttgart: <a href="../K/Klett-Cotta.md" title="Klett-Cotta">Klett-Cotta</a>, 1987 (<a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/360895502X">ISBN 3-608-95502-X</a>), pp. 302-5</span>
 </li>
 </ol></div>

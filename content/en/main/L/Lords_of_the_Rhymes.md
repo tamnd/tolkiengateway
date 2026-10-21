@@ -1,6 +1,5 @@
 ---
 title: "Lords of the Rhymes"
-display_title: "<span class=\"mw-page-title-main\">Lords of the Rhymes</span>"
 page_id: 3782
 namespace: 0
 revision_id: 406368
@@ -13,7 +12,7 @@ categories:
   - "Bands"
 ---
 
-**Lords of the Rhymes** is a "<a class="extiw" href="http://en.wikipedia.org/wiki/nerdcore" title="wikipedia:nerdcore">nerdcore</a>" comical rap group based on the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Lords of the Rhymes** is a "<a class="extiw" href="http://en.wikipedia.org/wiki/nerdcore" title="wikipedia:nerdcore">nerdcore</a>" comical rap group based on the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 The group features the singers Bombadil (aka B-dil aka MC First and Fatherless) and Quickbeam (aka Q-beam). During the 2000's they produced several home-made video clips featuring props made out of cardboard.
 

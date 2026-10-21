@@ -13,14 +13,14 @@ categories:
   - "Fanzines"
 ---
 
-**Glamdring** was a fanzine edited by <a class="new" href="/w/index.php?title=Bruce_Pelz&amp;action=edit&amp;redlink=1" title="Bruce Pelz (page does not exist)">Bruce Pelz</a> and published during the 1960s.
+**Glamdring** was a fanzine edited by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bruce_Pelz&amp;action=edit&amp;redlink=1" title="Bruce Pelz (page does not exist)">Bruce Pelz</a> and published during the 1960s.
 
 # See Also {#See_Also}
 
-- <a class="new" href="/w/index.php?title=Glamdring_1&amp;action=edit&amp;redlink=1" title="Glamdring 1 (page does not exist)">Glamdring 1</a>
-- <a class="new" href="/w/index.php?title=Glamdring_2&amp;action=edit&amp;redlink=1" title="Glamdring 2 (page does not exist)">Glamdring 2</a>
-- <a class="new" href="/w/index.php?title=Glamdring_3&amp;action=edit&amp;redlink=1" title="Glamdring 3 (page does not exist)">Glamdring 3</a>
-- <a class="new" href="/w/index.php?title=Glamdring_4&amp;action=edit&amp;redlink=1" title="Glamdring 4 (page does not exist)">Glamdring 4</a>
-- <a class="new" href="/w/index.php?title=Glamdring_5&amp;action=edit&amp;redlink=1" title="Glamdring 5 (page does not exist)">Glamdring 5</a>
-- <a class="new" href="/w/index.php?title=Glamdring_6&amp;action=edit&amp;redlink=1" title="Glamdring 6 (page does not exist)">Glamdring 6</a>
-- <a class="new" href="/w/index.php?title=Glamdring_7&amp;action=edit&amp;redlink=1" title="Glamdring 7 (page does not exist)">Glamdring 7</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_1&amp;action=edit&amp;redlink=1" title="Glamdring 1 (page does not exist)">Glamdring 1</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_2&amp;action=edit&amp;redlink=1" title="Glamdring 2 (page does not exist)">Glamdring 2</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_3&amp;action=edit&amp;redlink=1" title="Glamdring 3 (page does not exist)">Glamdring 3</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_4&amp;action=edit&amp;redlink=1" title="Glamdring 4 (page does not exist)">Glamdring 4</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_5&amp;action=edit&amp;redlink=1" title="Glamdring 5 (page does not exist)">Glamdring 5</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_6&amp;action=edit&amp;redlink=1" title="Glamdring 6 (page does not exist)">Glamdring 6</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Glamdring_7&amp;action=edit&amp;redlink=1" title="Glamdring 7 (page does not exist)">Glamdring 7</a>

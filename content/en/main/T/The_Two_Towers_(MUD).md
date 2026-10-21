@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Two Towers MUD"
 ---
 
-Redirect to [The Two Towers MUD](/wiki/The_Two_Towers_MUD).
+Redirect to [The Two Towers MUD](The_Two_Towers_MUD.md).

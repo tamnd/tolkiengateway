@@ -1,6 +1,5 @@
 ---
 title: "James A. Owen"
-display_title: "<span class=\"mw-page-title-main\">James A. Owen</span>"
 page_id: 26978
 namespace: 0
 revision_id: 406025
@@ -23,17 +22,17 @@ sort_keys:
 
 **James A. Owen** is an American author, illustrator, and publisher. He works at the Coppervale Studio in Silvertown, Arizona, where he lives with his family.
 
-In 2006, Owen published his first novel in *[The Chronicles of the Imaginarium Geographica](/wiki/The_Chronicles_of_the_Imaginarium_Geographica)* series. The fantasy story centers around the fictional characters of John ([J.R.R. Tolkien](/wiki/J.R.R._Tolkien)), Charles ([Charles Williams](/wiki/Charles_Williams)), and Jack ([C.S. Lewis](/wiki/C.S._Lewis)).
+In 2006, Owen published his first novel in *[The Chronicles of the Imaginarium Geographica](../T/The_Chronicles_of_the_Imaginarium_Geographica.md)* series. The fantasy story centers around the fictional characters of John ([J.R.R. Tolkien](J.R.R._Tolkien.md)), Charles ([Charles Williams](../C/Charles_Williams.md)), and Jack ([C.S. Lewis](../C/C.S._Lewis.md)).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
-- [The Chronicles of the Imaginarium Geographica](/wiki/The_Chronicles_of_the_Imaginarium_Geographica)
-    - [2006](/wiki/2006): *[Here, There Be Dragons](/wiki/Here,_There_Be_Dragons)*
-    - [2008](/wiki/2008): *[The Search for the Red Dragon](/wiki/The_Search_for_the_Red_Dragon)*
-    - [2008](/wiki/2008): *[The Indigo King](/wiki/The_Indigo_King)*
-    - [2009](/wiki/2009): *[The Shadow Dragons](/wiki/The_Shadow_Dragons)*
-    - [2010](/wiki/2010): *[The Dragon's Apprentice](/wiki/The_Dragon%27s_Apprentice)*
-- [2016](/wiki/2016): *[The Inklings Coloring Book](/wiki/The_Inklings_Coloring_Book)*
+- [The Chronicles of the Imaginarium Geographica](../T/The_Chronicles_of_the_Imaginarium_Geographica.md)
+    - [2006](../_/2006.md): *[Here, There Be Dragons](../H/Here,_There_Be_Dragons.md)*
+    - [2008](../_/2008.md): *[The Search for the Red Dragon](../T/The_Search_for_the_Red_Dragon.md)*
+    - [2008](../_/2008.md): *[The Indigo King](../T/The_Indigo_King.md)*
+    - [2009](../_/2009.md): *[The Shadow Dragons](../T/The_Shadow_Dragons.md)*
+    - [2010](../_/2010.md): *[The Dragon's Apprentice](../T/The_Dragon's_Apprentice.md)*
+- [2016](../_/2016.md): *[The Inklings Coloring Book](../T/The_Inklings_Coloring_Book.md)*
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandir"
 ---
 
-Redirect to [Brandir](/wiki/Brandir).
+Redirect to [Brandir](Brandir.md).

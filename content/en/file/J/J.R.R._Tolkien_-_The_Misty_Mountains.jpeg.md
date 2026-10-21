@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Misty Mountains.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Misty Mountains.jpeg</span>"
 page_id: 71282
 namespace: 6
 revision_id: 426576
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-An undated painting of the mountain range that features so significantly in both *[The Hobbit](/wiki/The_Hobbit)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*
+An undated painting of the mountain range that features so significantly in both *[The Hobbit](../../main/T/The_Hobbit.md)* and *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*
 
 ## Licensing {#Licensing}
 

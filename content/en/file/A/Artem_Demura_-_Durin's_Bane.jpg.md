@@ -1,6 +1,5 @@
 ---
 title: "File:Artem Demura - Durin's Bane.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artem Demura - Durin&#039;s Bane.jpg</span>"
 page_id: 67911
 namespace: 6
 revision_id: 398088
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artem Demura</li>
 <li><b>Website:</b> <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura at ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artem_Demura" title="Tolkien Gateway:Copyrights/Artem Demura">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtem_Demura.md" title="Tolkien Gateway:Copyrights/Artem Demura">Permission for use on Tolkien Gateway</a></b></li></ul></div>

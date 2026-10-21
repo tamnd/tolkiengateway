@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/5 December 2010/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/5 December 2010/Transcript</span>"
 page_id: 30351
 namespace: 4
 revision_id: 202029
@@ -16,7 +15,7 @@ sort_keys:
 ---
 
 <div class="poem">
-<p>[20.48:20]	&lt;Mith&gt;		Meeting commenced at 20.47 GMT. Attendees, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a>, <a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="/wiki/User:Eldarion_Telcontar" title="User:Eldarion Telcontar">Eldarion</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>, <a href="/wiki/User:Sage" title="User:Sage">Sage</a> and <a href="/wiki/User:Tar-Telperien" title="User:Tar-Telperien">Tar-Telperien</a>.<br/>
+<p>[20.48:20]	&lt;Mith&gt;		Meeting commenced at 20.47 GMT. Attendees, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, <a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="https://tolkiengateway.net/wiki/User:Theoden1" title="User:Theoden1">Theoden1</a>, <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="https://tolkiengateway.net/wiki/User:Eldarion_Telcontar" title="User:Eldarion Telcontar">Eldarion</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>, <a href="https://tolkiengateway.net/wiki/User:Sage" title="User:Sage">Sage</a> and <a href="https://tolkiengateway.net/wiki/User:Tar-Telperien" title="User:Tar-Telperien">Tar-Telperien</a>.<br/>
 [20.48:21]	&lt;Ederchil&gt;	Mith has the floor: What is to be done about the Hobbit films?<br/>
 [20.48:29]	&lt;Ederchil&gt;	great.<br/>
 [20.48:55]	&lt;Mith&gt;	Agenda is located here: <a class="external free" href="http://tolkiengateway.net/wiki/Tolkien_Gateway:Meetings/5_December_2010" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net/wiki/Tolkien_Gateway:Meetings/5_December_2010</a><br/>
@@ -91,7 +90,7 @@ sort_keys:
 [21.13:30]	&lt;Ederchil&gt;	Maybe we could do this on a case-by case basis<br/>
 [21.13:34]	&lt;Sage&gt;	can there be a template for SR?<br/>
 [21.13:40]	&lt;Ederchil&gt;	there is<br/>
-[21.13:44]	&lt;Sage&gt;	for example <a class="mw-redirect" href="/wiki/Shire_Reckoning" title="Shire Reckoning">S.R.</a> <a href="/wiki/Third_Age_1601" title="Third Age 1601">1</a><br/>
+[21.13:44]	&lt;Sage&gt;	for example <a class="mw-redirect" href="../../main/S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../../main/T/Third_Age_1601.md" title="Third Age 1601">1</a><br/>
 [21.13:45]	&lt;Ederchil&gt;	a very good one, too<br/>
 [21.13:52]	&lt;Sage&gt;	and it creates Third Age 1601?<br/>
 [21.13:56]	&lt;Ederchil&gt;	yes<br/>

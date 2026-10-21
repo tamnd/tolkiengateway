@@ -1,6 +1,5 @@
 ---
 title: "Category:Farmers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Farmers</span>"
 page_id: 70157
 namespace: 14
 revision_id: 417277

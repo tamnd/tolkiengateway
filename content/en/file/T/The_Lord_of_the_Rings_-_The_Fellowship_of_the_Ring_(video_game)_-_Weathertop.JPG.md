@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Weathertop.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Weathertop.JPG</span>"
 page_id: 30124
 namespace: 6
 revision_id: 298605
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) approaches [Weathertop](/wiki/Weathertop). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Aragorn](../../main/A/Aragorn.md) approaches [Weathertop](../../main/W/Weathertop.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oiolossë"
 ---
 
-Redirect to [Oiolossë](/wiki/Oiolossë).
+Redirect to [Oiolossë](Oiolossë.md).

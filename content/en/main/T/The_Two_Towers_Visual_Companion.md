@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Two Towers Visual Companion"
 ---
 
-Redirect to [The Lord of the Rings: The Two Towers Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion).
+Redirect to [The Lord of the Rings: The Two Towers Visual Companion](The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md).

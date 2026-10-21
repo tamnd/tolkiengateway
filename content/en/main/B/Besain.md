@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Massánië"
 ---
 
-Redirect to [Massánië](/wiki/Massánië).
+Redirect to [Massánië](../M/Massánië.md).

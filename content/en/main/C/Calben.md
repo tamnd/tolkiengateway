@@ -1,6 +1,5 @@
 ---
 title: "Calben"
-display_title: "<span class=\"mw-page-title-main\">Calben</span>"
 page_id: 14203
 namespace: 0
 revision_id: 405014
@@ -19,19 +18,19 @@ langlinks:
     url: "https://kontu.wiki/Calben"
 ---
 
-**Calben** (pl. *Celbin*) was a term used amongst [Sindar](/wiki/Sindar) that lived in [Beleriand](/wiki/Beleriand). It was used of all [Elves](/wiki/Elves) other than [Avari](/wiki/Avari), and it included the Sindar themselves (who specifically called themselves *[Edhil](/wiki/Edhil)*). The term was thus equivalent to the [Quenya](/wiki/Quenya) word "*[Eldar](/wiki/Eldar)*". After the [Laegrim](/wiki/Laegrim) were recognized to be from [Lindarin](/wiki/Lindar "Lindar") origin, they were included in *Celbin*.
+**Calben** (pl. *Celbin*) was a term used amongst [Sindar](../S/Sindar.md) that lived in [Beleriand](../B/Beleriand.md). It was used of all [Elves](../E/Elves.md) other than [Avari](../A/Avari.md), and it included the Sindar themselves (who specifically called themselves *[Edhil](../E/Edhil.md)*). The term was thus equivalent to the [Quenya](../Q/Quenya.md) word "*[Eldar](../E/Eldar.md)*". After the [Laegrim](../L/Laegrim.md) were recognized to be from [Lindarin](../L/Lindar.md) origin, they were included in *Celbin*.
 
-Unlike the Quenya form *[Calaquende](/wiki/Calaquendi "Calaquendi")*, this word does not exclusively refer to Elves, but includes other forces in alliance against [Morgoth](/wiki/Morgoth), e. g. the [Edain](/wiki/Edain) were included in this category.
+Unlike the Quenya form *[Calaquende](Calaquendi.md)*, this word does not exclusively refer to Elves, but includes other forces in alliance against [Morgoth](../M/Morgoth.md), e. g. the [Edain](../E/Edain.md) were included in this category.
 
 ## Etymology {#Etymology}
 
-*Calben*, 'a light person' is composed from the [Sindarin](/wiki/Sindarin) words <i><a class="new" href="/w/index.php?title=Calad&amp;action=edit&amp;redlink=1" title="Calad (page does not exist)">cal</a></i> "light" and *[pen](/wiki/Pen "Pen")* "someone, somebody". It is connected to the terms derived from Kala-kwendē, but is itself derived from a variant form with *-kwen*, as it never shows a variant form *Calbend*.
+*Calben*, 'a light person' is composed from the [Sindarin](../S/Sindarin.md) words <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Calad&amp;action=edit&amp;redlink=1" title="Calad (page does not exist)">cal</a></i> "light" and *[pen](../P/Pen.md)* "someone, somebody". It is connected to the terms derived from Kala-kwendē, but is itself derived from a variant form with *-kwen*, as it never shows a variant form *Calbend*.
 
 ## Cognates {#Cognates}
 
-- [Telerin](/wiki/Telerin) <i><a class="new" href="/w/index.php?title=Calapendi&amp;action=edit&amp;redlink=1" title="Calapendi (page does not exist)">Calapendi</a></i>
-- [Quenya](/wiki/Quenya) *[Calaquendi](/wiki/Calaquendi)* but used in a different context.
+- [Telerin](../T/Telerin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Calapendi&amp;action=edit&amp;redlink=1" title="Calapendi (page does not exist)">Calapendi</a></i>
+- [Quenya](../Q/Quenya.md) *[Calaquendi](Calaquendi.md)* but used in a different context.
 
 ## Sources {#Sources}
 
-- [The War of the Jewels](/wiki/The_War_of_the_Jewels), p. 362; 376-377; 380; 408-409.
+- [The War of the Jewels](../T/The_War_of_the_Jewels.md), p. 362; 376-377; 380; 408-409.

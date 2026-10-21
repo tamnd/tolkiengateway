@@ -1,6 +1,5 @@
 ---
 title: "File:Hordern, LeMesurier, Holm 1981 lotr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hordern, LeMesurier, Holm 1981 lotr.jpg</span>"
 page_id: 19560
 namespace: 6
 revision_id: 375913
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-From left to right: [Michael Hordern](/wiki/Michael_Hordern), [John Le Mesurier](/wiki/John_Le_Mesurier) and [Ian Holm](/wiki/Ian_Holm), promotional picture for [the 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+From left to right: [Michael Hordern](../../main/M/Michael_Hordern.md), [John Le Mesurier](../../main/J/John_Le_Mesurier.md) and [Ian Holm](../../main/I/Ian_Holm.md), promotional picture for [the 1981 radio series](<../../main/T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 ## Licensing {#Licensing}
 

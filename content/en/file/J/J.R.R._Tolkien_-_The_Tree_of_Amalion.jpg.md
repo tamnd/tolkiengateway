@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Tree of Amalion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Tree of Amalion.jpg</span>"
 page_id: 5785
 namespace: 6
 revision_id: 409924
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*, nr. 62 (p. 64).
+This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*, nr. 62 (p. 64).
 
 ## Licensing {#Licensing}
 

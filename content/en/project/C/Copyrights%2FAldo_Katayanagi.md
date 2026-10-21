@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Aldo Katayanagi"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Aldo Katayanagi</span>"
 page_id: 71776
 namespace: 4
 revision_id: 427769
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Katayanagi, Aldo"
 ---
 
-- Aldo Katayanagi has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Aldo_Katayanagi "Category:Images by Aldo Katayanagi") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Aldo Katayanagi has kindly granted his permission to use [his artwork](../../category/I/Images_by_Aldo_Katayanagi.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 November 2025
-- User who sought the permission via email: [User:Paccyd33](/wiki/User:Paccyd33)
+- User who sought the permission via email: [User:Paccyd33](https://tolkiengateway.net/wiki/User:Paccyd33)

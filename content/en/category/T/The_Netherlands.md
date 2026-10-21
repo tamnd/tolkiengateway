@@ -1,6 +1,5 @@
 ---
 title: "Category:The Netherlands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Netherlands</span>"
 page_id: 35304
 namespace: 14
 revision_id: 185309

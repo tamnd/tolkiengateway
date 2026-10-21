@@ -1,6 +1,5 @@
 ---
 title: "American Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">American Tolkien Society</span>"
 page_id: 7048
 namespace: 0
 revision_id: 404596
@@ -14,11 +13,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-The **American Tolkien Society** is a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") society based across the United States.
+The **American Tolkien Society** is a [Tolkien](../J/J.R.R._Tolkien.md) society based across the United States.
 
 ## History {#History}
 
-The American Tolkien Society was founded in [1975](/wiki/1975) by Phil and Marci Helms, Paul Ritz and Dave Dettman. Its journal, *[Minas Tirith Evening Star](/wiki/Minas_Tirith_Evening_Star)*, was published quarterly since [1967](/wiki/1967) as it was initially an independent publication.
+The American Tolkien Society was founded in [1975](../_/1975.md) by Phil and Marci Helms, Paul Ritz and Dave Dettman. Its journal, *[Minas Tirith Evening Star](../M/Minas_Tirith_Evening_Star.md)*, was published quarterly since [1967](../_/1967.md) as it was initially an independent publication.
 
 ## External links {#External_links}
 

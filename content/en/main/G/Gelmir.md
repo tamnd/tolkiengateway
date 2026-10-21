@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir (disambiguation)"
 ---
 
-Redirect to [Gelmir (disambiguation)](/wiki/Gelmir_(disambiguation)).
+Redirect to [Gelmir (disambiguation)](<Gelmir_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Entish"
 ---
 
-Redirect to [Entish](/wiki/Entish).
+Redirect to [Entish](../E/Entish.md).

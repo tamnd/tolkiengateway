@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Bilbo Baggins.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Bilbo Baggins.png](/wiki/File:The_Hobbit_(1967_film)_-_Bilbo_Baggins.png).
+Redirect to [File:The Hobbit (1967 film) - Bilbo Baggins.png](<The_Hobbit_(1967_film)_-_Bilbo_Baggins.png.md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Finwë heraldic device (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Finwë heraldic device (II).jpg</span>"
 page_id: 9152
 namespace: 6
 revision_id: 431016
@@ -29,12 +28,12 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/63/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #63</a>. Published in:
 
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)*, April
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)*, May
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Tolkien Diary 1992](/wiki/The_Tolkien_Diary_1992)*, intro
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)*, April
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)*, May
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)*, intro
 
-Inscription in the manuscript says "Finwe' of the High / Kings of the Noldor / Lozenged form". See the [version of the House of Finwë in a square](</wiki/File:J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_(I).jpg> "File:J.R.R. Tolkien - Finwë heraldic device (I).jpg").
+Inscription in the manuscript says "Finwe' of the High / Kings of the Noldor / Lozenged form". See the [version of the House of Finwë in a square](<J.R.R._Tolkien_-_Finwë_heraldic_device_(I).jpg.md>).
 
 ## Licensing {#Licensing}
 

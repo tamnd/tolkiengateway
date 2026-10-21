@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl Cotton"
 ---
 
-Redirect to [Carl Cotton](/wiki/Carl_Cotton).
+Redirect to [Carl Cotton](../C/Carl_Cotton.md).

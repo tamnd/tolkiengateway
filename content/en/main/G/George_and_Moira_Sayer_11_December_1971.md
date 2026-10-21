@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to George and Moira Sayer (11 December 1971)"
 ---
 
-Redirect to [Letter to George and Moira Sayer (11 December 1971)](/wiki/Letter_to_George_and_Moira_Sayer_(11_December_1971)).
+Redirect to [Letter to George and Moira Sayer (11 December 1971)](<../L/Letter_to_George_and_Moira_Sayer_(11_December_1971).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ava-"
 ---
 
-Redirect to [Ava-](/wiki/Ava-).
+Redirect to [Ava-](Ava-.md).

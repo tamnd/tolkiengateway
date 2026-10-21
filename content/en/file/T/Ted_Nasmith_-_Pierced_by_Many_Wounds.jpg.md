@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Last Words of Boromir.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - The Last Words of Boromir.jpg](/wiki/File:Ted_Nasmith_-_The_Last_Words_of_Boromir.jpg).
+Redirect to [File:Ted Nasmith - The Last Words of Boromir.jpg](Ted_Nasmith_-_The_Last_Words_of_Boromir.jpg.md).

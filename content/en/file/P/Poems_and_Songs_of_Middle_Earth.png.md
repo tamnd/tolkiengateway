@@ -1,6 +1,5 @@
 ---
 title: "File:Poems and Songs of Middle Earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poems and Songs of Middle Earth.png</span>"
 page_id: 38357
 namespace: 6
 revision_id: 199428

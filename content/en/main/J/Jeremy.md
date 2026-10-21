@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wilfrid Trewin Jeremy"
 ---
 
-Redirect to [Wilfrid Trewin Jeremy](/wiki/Wilfrid_Trewin_Jeremy).
+Redirect to [Wilfrid Trewin Jeremy](../W/Wilfrid_Trewin_Jeremy.md).

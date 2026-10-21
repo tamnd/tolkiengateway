@@ -18,14 +18,14 @@ images:
   - "J.R.R._Tolkien_-_Bilbo's_Last_Song.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_to_Joy_Hill.jpg"><img src="/w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/300px-J.R.R._Tolkien_to_Joy_Hill.jpg" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="/w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/450px-J.R.R._Tolkien_to_Joy_Hill.jpg 1.5x, /w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/600px-J.R.R._Tolkien_to_Joy_Hill.jpg 2x" data-file-width="1233" data-file-height="840"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_to_Joy_Hill.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/300px-J.R.R._Tolkien_to_Joy_Hill.jpg" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/450px-J.R.R._Tolkien_to_Joy_Hill.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/J.R.R._Tolkien_to_Joy_Hill.jpg/600px-J.R.R._Tolkien_to_Joy_Hill.jpg 2x" data-file-width="1233" data-file-height="840"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg"><img src="/w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/300px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg" decoding="async" loading="lazy" width="300" height="374" class="mw-file-element" srcset="/w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/450px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg 1.5x, /w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/600px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg 2x" data-file-width="673" data-file-height="840"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo&#39;s_Last_Song.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/300px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg" decoding="async" loading="lazy" width="300" height="374" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/450px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg/600px-J.R.R._Tolkien_-_Bilbo%27s_Last_Song.jpg 2x" data-file-width="673" data-file-height="840"/></a><figcaption></figcaption></figure>
 
-On [28 October](/wiki/28_October) [1971](/wiki/1971), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Joy Hill](/wiki/Joy_Hill)** gifting her the poem "Bilbo's Last Song".<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [28 October](../_/28_October.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Joy Hill](../J/Joy_Hill.md)** gifting her the poem "Bilbo's Last Song".<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Subject:** Tolkien sent a gift to Joy Hill — a copy of *[Bilbo's Last Song](/wiki/Bilbo%27s_Last_Song)* with a note giving her the right to publish it or to dispose of the copyright.
-- **Publication:** A description of the letter was published in [*The J.R.R. Tolkien Companion and Guide: Chronology*](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide") (p. 757).
+- **Subject:** Tolkien sent a gift to Joy Hill — a copy of *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)* with a note giving her the right to publish it or to dispose of the copyright.
+- **Publication:** A description of the letter was published in [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (p. 757).
 
 ## Contents {#Contents}
 
@@ -34,11 +34,9 @@ On [28 October](/wiki/28_October) [1971](/wiki/1971), [J.R.R. Tolkien](/wiki/J.R
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- *[Bilbo's Last Song](/wiki/Bilbo%27s_Last_Song)*
+- *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*
 
 <span></span>
 
@@ -46,6 +44,6 @@ On [28 October](/wiki/28_October) [1971](/wiki/1971), [J.R.R. Tolkien](/wiki/J.R
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 757</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 757</span>
 </li>
 </ol></div>

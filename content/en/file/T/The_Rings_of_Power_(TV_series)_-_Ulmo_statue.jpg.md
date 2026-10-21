@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Ulmo statue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Ulmo statue.jpg</span>"
 page_id: 74376
 namespace: 6
 revision_id: 438492
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Rings of Power (TV series) - Ulmo statue.jpg</span></th>
 <td class="description">
-<p>A statue of <a href="/wiki/Ulmo" title="Ulmo">Ulmo</a> in <a href="/wiki/N%C3%BAmenor" title="Númenor">Númenor</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_1" title="The Lord of the Rings: The Rings of Power - Season 1">Season 1</a><i>, episode 3 </i><a href="/wiki/Adrift" title="Adrift">Adrift</a><i></i>
+<p>A statue of <a href="../../main/U/Ulmo.md" title="Ulmo">Ulmo</a> in <a href="../../main/N/Númenor.md" title="Númenor">Númenor</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_-_Season_1.md" title="The Lord of the Rings: The Rings of Power - Season 1">Season 1</a><i>, episode 3 </i><a href="../../main/A/Adrift.md" title="Adrift">Adrift</a><i></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/2022" title="2022">2022</a></td>
+<td><a href="../../main/_/2_September.md" title="2 September">2 September</a>, <a href="../../main/_/2022.md" title="2022">2022</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.cap-that.com/lord-of-the-rings/rings-of-power/103/2160/?page=5" rel="noreferrer noopener" target="_blank">https://www.cap-that.com/lord-of-the-rings/rings-of-power/103/2160/?page=5</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

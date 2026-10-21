@@ -1,6 +1,5 @@
 ---
 title: "TT Fusion"
-display_title: "<span class=\"mw-page-title-main\">TT Fusion</span>"
 page_id: 29001
 namespace: 0
 revision_id: 407339
@@ -14,7 +13,7 @@ categories:
   - "Video Game developers"
 ---
 
-**TT Fusion** is a video game developer based in <a class="extiw" href="http://en.wikipedia.org/wiki/Cheshire" title="wikipedia:Cheshire">Cheshire</a>, England. They developed the PlayStation 2, PlayStation 3, PlayStation Portable and Nintendo DS versions of *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*, the Playstation 2, Playstation 3, and Nintendo DS versions were released on [14 September](/wiki/14_September) [2010](/wiki/2010) in North America. While the Playstation Portable version was released on [15 September](/wiki/15_September) [2010](/wiki/2010) in North America. They also produced the Nintendo 3DS and Playstation Vita versions of *[Lego The Hobbit: The Video Game](/wiki/Lego_The_Hobbit:_The_Video_Game)* which released on [8 April](/wiki/8_April) [2014](/wiki/2014) in North America. As well as the Android, IOS, Nintendo DS, Nintendo 3DS, and Playstation Vita versions of *[Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game)* which released on [30 October](/wiki/30_October) [2012](/wiki/2012) in North America.
+**TT Fusion** is a video game developer based in <a class="extiw" href="http://en.wikipedia.org/wiki/Cheshire" title="wikipedia:Cheshire">Cheshire</a>, England. They developed the PlayStation 2, PlayStation 3, PlayStation Portable and Nintendo DS versions of *[The Lord of the Rings: Aragorn's Quest](The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*, the Playstation 2, Playstation 3, and Nintendo DS versions were released on [14 September](../_/14_September.md) [2010](../_/2010.md) in North America. While the Playstation Portable version was released on [15 September](../_/15_September.md) [2010](../_/2010.md) in North America. They also produced the Nintendo 3DS and Playstation Vita versions of *[Lego The Hobbit: The Video Game](../L/Lego_The_Hobbit%253A_The_Video_Game.md)* which released on [8 April](../_/8_April.md) [2014](../_/2014.md) in North America. As well as the Android, IOS, Nintendo DS, Nintendo 3DS, and Playstation Vita versions of *[Lego The Lord of the Rings: The Video Game](../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)* which released on [30 October](../_/30_October.md) [2012](../_/2012.md) in North America.
 
 ## External links {#External_links}
 

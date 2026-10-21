@@ -1,6 +1,5 @@
 ---
 title: "Sabaton"
-display_title: "<span class=\"mw-page-title-main\">Sabaton</span>"
 page_id: 68872
 namespace: 0
 revision_id: 423835
@@ -14,13 +13,13 @@ categories:
   - "Heavy metal"
 ---
 
-**Sabaton** is a Swedish heavy metal band. Their song "Shadows" is based on [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") writings.
+**Sabaton** is a Swedish heavy metal band. Their song "Shadows" is based on [Tolkien's](../J/J.R.R._Tolkien.md) writings.
 
 <br>
 
 ## Shadows {#Shadows}
 
-"Shadows" is the fourth track on Sabaton's 2007 <a class="new" href="/w/index.php?title=Metalizer&amp;action=edit&amp;redlink=1" title="Metalizer (page does not exist)">Metalizer</a> album. It is about the [Nazgûl](/wiki/Nazg%C3%BBl), the corrupted servants of [Sauron](/wiki/Sauron).
+"Shadows" is the fourth track on Sabaton's 2007 <a class="new" href="https://tolkiengateway.net/w/index.php?title=Metalizer&amp;action=edit&amp;redlink=1" title="Metalizer (page does not exist)">Metalizer</a> album. It is about the [Nazgûl](../N/Nazgûl.md), the corrupted servants of [Sauron](Sauron.md).
 
 ### Lyrics excerpt {#Lyrics_excerpt}
 
@@ -39,7 +38,7 @@ Unholy light, in the night <sup id="cite_ref-1" class="reference"><a href="#cite
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.sabaton.net/discography/metalizer/shadows/" rel="noreferrer noopener" target="_blank">https://www.sabaton.net/discography/metalizer/shadows/</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.sabaton.net/" rel="noreferrer noopener" target="_blank">Sabaton</a></span>. <span class="cite-web-accessed">Retrieved 31 August 2025</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.sabaton.net/discography/metalizer/shadows/" rel="noreferrer noopener" target="_blank">https://www.sabaton.net/discography/metalizer/shadows/</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.sabaton.net/" rel="noreferrer noopener" target="_blank">Sabaton</a></span>. <span class="cite-web-accessed">Retrieved 31 August 2025</span></cite></span>
 </li>
 </ol></div>
 

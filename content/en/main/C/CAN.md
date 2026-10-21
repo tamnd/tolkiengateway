@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "KAN"
 ---
 
-Redirect to [KAN](/wiki/KAN).
+Redirect to [KAN](../K/KAN.md).

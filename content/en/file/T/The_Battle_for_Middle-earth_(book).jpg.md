@@ -1,6 +1,5 @@
 ---
 title: "File:The Battle for Middle-earth (book).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Battle for Middle-earth (book).jpg</span>"
 page_id: 5352
 namespace: 6
 revision_id: 214387

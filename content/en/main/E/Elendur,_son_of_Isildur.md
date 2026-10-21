@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendur (son of Isildur)"
 ---
 
-Redirect to [Elendur (son of Isildur)](/wiki/Elendur_(son_of_Isildur)).
+Redirect to [Elendur (son of Isildur)](<Elendur_(son_of_Isildur).md>).

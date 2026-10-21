@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion Calendar 1978.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion Calendar 1978.jpg</span>"
 page_id: 6518
 namespace: 6
 revision_id: 428204

@@ -1,6 +1,5 @@
 ---
 title: "File:Númenórë (colorized).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Númenórë (colorized).jpeg</span>"
 page_id: 67843
 namespace: 6
 revision_id: 409918
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary_2}
 
-The [original map](</wiki/N%C3%BAmen%C3%B3r%C3%AB_(map)> "Númenórë (map)") was created by [Christopher Tolkien](/wiki/Christopher_Tolkien). This version was colorized by Nicolette Caven and can be found in *[The Fall of Númenor](/wiki/The_Fall_of_N%C3%BAmenor)*
+The [original map](<../../main/N/Númenórë_(map).md>) was created by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md). This version was colorized by Nicolette Caven and can be found in *[The Fall of Númenor](../../main/T/The_Fall_of_Númenor.md)*
 
 ## Licensing {#Licensing}
 

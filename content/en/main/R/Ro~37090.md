@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ro"
 ---
 
-Redirect to [-ro](/wiki/-ro).
+Redirect to [-ro](../_/-ro.md).

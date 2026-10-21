@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolfalas"
 ---
 
-Redirect to [Tolfalas](/wiki/Tolfalas).
+Redirect to [Tolfalas](Tolfalas.md).

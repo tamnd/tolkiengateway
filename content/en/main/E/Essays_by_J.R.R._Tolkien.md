@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Writings by J.R.R. Tolkien"
 ---
 
-Redirect to [Category:Writings by J.R.R. Tolkien](/wiki/Category:Writings_by_J.R.R._Tolkien).
+Redirect to [Category:Writings by J.R.R. Tolkien](../../category/W/Writings_by_J.R.R._Tolkien.md).

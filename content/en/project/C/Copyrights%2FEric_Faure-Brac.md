@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Eric Faure-Brac"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Eric Faure-Brac</span>"
 page_id: 40252
 namespace: 4
 revision_id: 202428
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Faure-Brac, Eric"
 ---
 
-- Eric Faure-Brac has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Eric_Faure-Brac "Category:Images by Eric Faure-Brac") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Eric Faure-Brac has kindly granted his permission to use [his artwork](../../category/I/Images_by_Eric_Faure-Brac.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

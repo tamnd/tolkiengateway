@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Egalmoth (Steward of Gondor)"
 ---
 
-Redirect to [Egalmoth (Steward of Gondor)](/wiki/Egalmoth_(Steward_of_Gondor)).
+Redirect to [Egalmoth (Steward of Gondor)](<Egalmoth_(Steward_of_Gondor).md>).

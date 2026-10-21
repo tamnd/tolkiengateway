@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Balrog of Moria.jpg"
 ---
 
-Redirect to [File:Rob Alexander - Balrog of Moria.jpg](/wiki/File:Rob_Alexander_-_Balrog_of_Moria.jpg).
+Redirect to [File:Rob Alexander - Balrog of Moria.jpg](Rob_Alexander_-_Balrog_of_Moria.jpg.md).

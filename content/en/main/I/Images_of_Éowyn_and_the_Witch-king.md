@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Éowyn and the Witch-king"
 ---
 
-Redirect to [Category:Images of Éowyn and the Witch-king](/wiki/Category:Images_of_Éowyn_and_the_Witch-king).
+Redirect to [Category:Images of Éowyn and the Witch-king](../../category/I/Images_of_Éowyn_and_the_Witch-king.md).

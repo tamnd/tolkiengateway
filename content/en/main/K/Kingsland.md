@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arandor"
 ---
 
-Redirect to [Arandor](/wiki/Arandor).
+Redirect to [Arandor](../A/Arandor.md).

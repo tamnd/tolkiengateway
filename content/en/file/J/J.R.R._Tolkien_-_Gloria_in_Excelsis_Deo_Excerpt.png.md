@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gloria in Excelsis Deo Excerpt.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gloria in Excelsis Deo Excerpt.png</span>"
 page_id: 58618
 namespace: 6
 revision_id: 324445
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's manuscript of the Gloria in Excelsis Deo transcribed with Tengwar "Large rounded" style. Taken from [Parma Eldalamberon 20](/wiki/Parma_Eldalamberon_20), p. 98.
+Tolkien's manuscript of the Gloria in Excelsis Deo transcribed with Tengwar "Large rounded" style. Taken from [Parma Eldalamberon 20](../../main/P/Parma_Eldalamberon_20.md), p. 98.
 
 ## Licensing {#Licensing}
 

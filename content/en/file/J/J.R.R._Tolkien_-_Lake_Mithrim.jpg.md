@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Lake Mithrim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Lake Mithrim.jpg</span>"
 page_id: 5771
 namespace: 6
 revision_id: 205216
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This watercolour by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), dated 1927, was published in [The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978), together with the heraldic devices of [Fëanor](/wiki/F%C3%ABanor), [Fingolfin](/wiki/Fingolfin), [Hador](/wiki/Hador), and [Eärendil](/wiki/E%C3%A4rendil), who were associated with the region (Earendil through his father [Tuor](/wiki/Tuor)). [Lake Mithrim](/wiki/Lake_Mithrim) lay in the east of [Hithlum](/wiki/Hithlum); about its shores the divided hosts of the [Noldorin](/wiki/Noldor "Noldor") [Elves](/wiki/Elves) made their encampments after their return to [Middle-earth](/wiki/Middle-earth) ([The Silmarillion](/wiki/The_Silmarillion) Chapter 13, [Of the Return of the Noldor](/wiki/Of_the_Return_of_the_Noldor)).
+This watercolour by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), dated 1927, was published in [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md), together with the heraldic devices of [Fëanor](../../main/F/Fëanor.md), [Fingolfin](../../main/F/Fingolfin.md), [Hador](../../main/H/Hador.md), and [Eärendil](../../main/E/Eärendil.md), who were associated with the region (Earendil through his father [Tuor](../../main/T/Tuor.md)). [Lake Mithrim](../../main/L/Lake_Mithrim.md) lay in the east of [Hithlum](../../main/H/Hithlum.md); about its shores the divided hosts of the [Noldorin](../../main/N/Noldor.md) [Elves](../../main/E/Elves.md) made their encampments after their return to [Middle-earth](../../main/M/Middle-earth.md) ([The Silmarillion](../../main/T/The_Silmarillion.md) Chapter 13, [Of the Return of the Noldor](../../main/O/Of_the_Return_of_the_Noldor.md)).
 
 ## Licensing {#Licensing}
 

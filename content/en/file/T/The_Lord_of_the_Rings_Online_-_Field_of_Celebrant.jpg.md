@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Field of Celebrant.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Field of Celebrant.jpg</span>"
 page_id: 69708
 namespace: 6
 revision_id: 414702

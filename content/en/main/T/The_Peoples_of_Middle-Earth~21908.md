@@ -1,6 +1,5 @@
 ---
 title: "The Peoples of Middle-Earth"
-display_title: "<span class=\"mw-page-title-main\">The Peoples of Middle-Earth</span>"
 page_id: 21908
 namespace: 0
 revision_id: 221667
@@ -15,13 +14,11 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the extra on the Extended Editions</b>. For the the book, see <i><b><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></b></i>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the extra on the Extended Editions</b>. For the the book, see <i><b><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></b></i>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+**The Peoples of Middle-Earth** is a series of galleries featured in the Lord of the Rings Extended edition trilogy, always placed in the third disc of every film. It contains branches with images of artists like [John Howe](../J/John_Howe.md) and [Alan Lee](../A/Alan_Lee.md), with audio commentary from the artist in the most important ones.
 
-**The Peoples of Middle-Earth** is a series of galleries featured in the Lord of the Rings Extended edition trilogy, always placed in the third disc of every film. It contains branches with images of artists like [John Howe](/wiki/John_Howe) and [Alan Lee](/wiki/Alan_Lee), with audio commentary from the artist in the most important ones.
-
-## [The Fellowship of the Ring Extended Edition](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)> "The Lord of the Rings: The Fellowship of the Ring (extended edition)") galleries {#The_Fellowship_of_the_Ring_Extended_Edition_galleries}
+## [The Fellowship of the Ring Extended Edition](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) galleries {#The_Fellowship_of_the_Ring_Extended_Edition_galleries}
 
 ### The Enemy {#The_Enemy}
 
@@ -70,7 +67,7 @@ images:
 - Galadriel
 - Celebron
 
-## [The Two Towers Extended Edition](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(extended_edition)> "The Lord of the Rings: The Two Towers (extended edition)") galleries {#The_Two_Towers_Extended_Edition_galleries}
+## [The Two Towers Extended Edition](<The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>) galleries {#The_Two_Towers_Extended_Edition_galleries}
 
 ### The Enemy {#The_Enemy_2}
 
@@ -105,7 +102,7 @@ images:
 
 - Ithilien Rangers
 
-## [The Return of the King Extended Edition](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)> "The Lord of the Rings: The Return of the King (extended edition)") galleries {#The_Return_of_the_King_Extended_Edition_galleries}
+## [The Return of the King Extended Edition](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>) galleries {#The_Return_of_the_King_Extended_Edition_galleries}
 
 ### The Enemy {#The_Enemy_3}
 

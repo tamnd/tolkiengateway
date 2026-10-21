@@ -1,6 +1,5 @@
 ---
 title: "Category:Gnomish locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gnomish locations</span>"
 page_id: 58226
 namespace: 14
 revision_id: 320088
@@ -16,4 +15,4 @@ sort_keys:
   "Gnomish nouns": "Locations"
 ---
 
-This category lists all locations with **[Gnomish](/wiki/Gnomish)** names.
+This category lists all locations with **[Gnomish](../../main/G/Gnomish.md)** names.

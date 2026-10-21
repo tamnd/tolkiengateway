@@ -1,6 +1,5 @@
 ---
 title: "File:Anna Lee - Flight to the Ford.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anna Lee - Flight to the Ford.jpg</span>"
 page_id: 44477
 namespace: 6
 revision_id: 234529
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-A picture of Idril by [Anna Lee](/wiki/Anna_Lee).
+A picture of Idril by [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ A picture of Idril by [Anna Lee](/wiki/Anna_Lee).
 </p>
 <ul><li><b>Name:</b> Anna Lee</li>
 <li><b>Website:</b> <a class="external text" href="http://ilxwing.deviantart.com/" rel="noreferrer noopener" target="_blank">Anna Lee&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anna_Lee" title="Tolkien Gateway:Copyrights/Anna Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnna_Lee.md" title="Tolkien Gateway:Copyrights/Anna Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf-friends"
 ---
 
-Redirect to [Elf-friends](/wiki/Elf-friends).
+Redirect to [Elf-friends](Elf-friends.md).

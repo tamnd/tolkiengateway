@@ -1,6 +1,5 @@
 ---
 title: "Category:Palantíri"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Palantíri</span>"
 page_id: 5142
 namespace: 14
 revision_id: 39587
@@ -13,4 +12,4 @@ categories:
   - "Objects"
 ---
 
-Below is an alphabetical list of the [Palantíri](/wiki/Palant%C3%ADri) found in [Middle-earth](/wiki/Middle-earth).
+Below is an alphabetical list of the [Palantíri](../../main/P/Palantíri.md) found in [Middle-earth](../../main/M/Middle-earth.md).

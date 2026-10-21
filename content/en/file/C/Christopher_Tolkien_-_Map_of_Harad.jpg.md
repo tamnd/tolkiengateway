@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Map of Harad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Map of Harad.jpg</span>"
 page_id: 58374
 namespace: 6
 revision_id: 321830
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-This map is cropped from the [Map of Middle-earth](/wiki/File:Christopher_Tolkien_-_General_Map_of_Middle-earth.png "File:Christopher Tolkien - General Map of Middle-earth.png") that was included in the first edition of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+This map is cropped from the [Map of Middle-earth](Christopher_Tolkien_-_General_Map_of_Middle-earth.png.md) that was included in the first edition of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*.
 
 <br>
 

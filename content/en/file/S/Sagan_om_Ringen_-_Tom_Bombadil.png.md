@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen - Tom Bombadil.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen - Tom Bombadil.png</span>"
 page_id: 71005
 namespace: 6
 revision_id: 424176
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tom Bombadil](/wiki/Tom_Bombadil) in [Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)")
+[Tom Bombadil](../../main/T/Tom_Bombadil.md) in [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - Beorn The Return Journey.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - Beorn The Return Journey.jpg</span>"
 page_id: 71656
 namespace: 6
 revision_id: 427120
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Beorn](/wiki/Beorn) reunites with [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Gandalf](/wiki/Gandalf) at [his home](/wiki/Beorn%27s_Hall "Beorn's Hall") following the [Battle of Five Armies](/wiki/Battle_of_Five_Armies) - [*The Hobbit* (comic book)](</wiki/The_Hobbit_(comic_book)> "The Hobbit (comic book)") illustration by [David T. Wenzel](/wiki/David_T._Wenzel)
+[Beorn](../../main/B/Beorn.md) reunites with [Bilbo](../../main/B/Bilbo_Baggins.md) and [Gandalf](../../main/G/Gandalf.md) at [his home](../../main/B/Beorn's_Hall.md) following the [Battle of Five Armies](../../main/B/Battle_of_Five_Armies.md) - [*The Hobbit* (comic book)](<../../main/T/The_Hobbit_(comic_book).md>) illustration by [David T. Wenzel](../../main/D/David_T._Wenzel.md)
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

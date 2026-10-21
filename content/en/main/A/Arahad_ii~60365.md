@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arahad II"
 ---
 
-Redirect to [Arahad II](/wiki/Arahad_II).
+Redirect to [Arahad II](Arahad_II.md).

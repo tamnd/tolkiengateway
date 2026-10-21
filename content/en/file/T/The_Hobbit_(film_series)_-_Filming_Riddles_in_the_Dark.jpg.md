@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Filming Riddles in the Dark.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Filming Riddles in the Dark.jpg</span>"
 page_id: 72645
 namespace: 6
 revision_id: 431046
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Filming the *Riddles in the Dark* sequence for *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*
+Filming the *Riddles in the Dark* sequence for *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
 
 ## Licensing {#Licensing}
 

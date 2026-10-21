@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ponórir"
 ---
 
-Redirect to [Ponórir](/wiki/Ponórir).
+Redirect to [Ponórir](Ponórir.md).

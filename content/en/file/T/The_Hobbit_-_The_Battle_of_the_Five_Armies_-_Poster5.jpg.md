@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Poster5.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Poster5.jpg</span>"
 page_id: 52404
 namespace: 6
 revision_id: 285371

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Glittering Caves of Aglarond.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - The Glittering Caves of Aglarond.jpg](/wiki/File:Ted_Nasmith_-_The_Glittering_Caves_of_Aglarond.jpg).
+Redirect to [File:Ted Nasmith - The Glittering Caves of Aglarond.jpg](Ted_Nasmith_-_The_Glittering_Caves_of_Aglarond.jpg.md).

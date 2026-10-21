@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured articles/Nominations"
 ---
 
-Redirect to [Tolkien Gateway:Featured articles/Nominations](/wiki/Tolkien_Gateway:Featured_articles/Nominations).
+Redirect to [Tolkien Gateway:Featured articles/Nominations](../../project/F/Featured_articles%252FNominations.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Simbelmyne Calendar 1998 (Polish).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Simbelmyne Calendar 1998 (Polish).jpg</span>"
 page_id: 6703
 namespace: 6
 revision_id: 215492

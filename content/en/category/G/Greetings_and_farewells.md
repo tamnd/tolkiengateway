@@ -1,6 +1,5 @@
 ---
 title: "Category:Greetings and farewells"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Greetings and farewells</span>"
 page_id: 70699
 namespace: 14
 revision_id: 421923
@@ -13,4 +12,4 @@ categories:
   - "Words"
 ---
 
-<dl><dd>Here are listed some <b>greetings</b> and <b>farewells</b> within the <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>.</dd></dl>
+<dl><dd>Here are listed some <b>greetings</b> and <b>farewells</b> within the <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>.</dd></dl>

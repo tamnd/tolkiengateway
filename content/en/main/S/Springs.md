@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Springs and wells"
 ---
 
-Redirect to [Category:Springs and wells](/wiki/Category:Springs_and_wells).
+Redirect to [Category:Springs and wells](../../category/S/Springs_and_wells.md).

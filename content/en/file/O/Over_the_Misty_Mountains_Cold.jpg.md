@@ -1,6 +1,5 @@
 ---
 title: "File:Over the Misty Mountains Cold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Over the Misty Mountains Cold.jpg</span>"
 page_id: 44877
 namespace: 6
 revision_id: 425078

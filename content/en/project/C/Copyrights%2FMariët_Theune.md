@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mariët Theune"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mariët Theune</span>"
 page_id: 37921
 namespace: 4
 revision_id: 193165
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Theune, Mariet"
 ---
 
-- Mariët Theune has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Mari%C3%ABt_Theune "Category:Images by Mariët Theune") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Mariët Theune has kindly granted her permission to use [her artwork](../../category/I/Images_by_Mariët_Theune.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 5 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

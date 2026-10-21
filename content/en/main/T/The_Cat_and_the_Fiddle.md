@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Man in the Moon Stayed Up Too Late"
 ---
 
-Redirect to [The Man in the Moon Stayed Up Too Late](/wiki/The_Man_in_the_Moon_Stayed_Up_Too_Late).
+Redirect to [The Man in the Moon Stayed Up Too Late](The_Man_in_the_Moon_Stayed_Up_Too_Late.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andrast"
 ---
 
-Redirect to [Andrast](/wiki/Andrast).
+Redirect to [Andrast](../A/Andrast.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV Series) - Lúthien and Huan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV Series) - Lúthien and Huan.jpg</span>"
 page_id: 74377
 namespace: 6
 revision_id: 438069
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Rings of Power (TV Series) - Lúthien and Huan.jpg</span></th>
 <td class="description">
-<p>A statue of <a href="/wiki/L%C3%BAthien" title="Lúthien">Lúthien</a> <a href="/wiki/Huan" title="Huan">Huan</a> in <a href="/wiki/Lindon" title="Lindon">Lindon</a> from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a href="/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_1" title="The Lord of the Rings: The Rings of Power - Season 1">Season 1</a><i>, episode 3 </i><a href="/wiki/A_Shadow_of_the_Past" title="A Shadow of the Past">A Shadow of the Past</a><i></i>
+<p>A statue of <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a> <a href="../../main/H/Huan.md" title="Huan">Huan</a> in <a href="../../main/L/Lindon.md" title="Lindon">Lindon</a> from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a href="../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_-_Season_1.md" title="The Lord of the Rings: The Rings of Power - Season 1">Season 1</a><i>, episode 3 </i><a href="../../main/A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a><i></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2_September" title="2 September">2 September</a>, <a href="/wiki/2022" title="2022">2022</a></td>
+<td><a href="../../main/_/2_September.md" title="2 September">2 September</a>, <a href="../../main/_/2022.md" title="2022">2022</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.cap-that.com/lord-of-the-rings/rings-of-power/101/2160/?page=24" rel="noreferrer noopener" target="_blank">https://www.cap-that.com/lord-of-the-rings/rings-of-power/101/2160/?page=24</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

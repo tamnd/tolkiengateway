@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Nine of Wands.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Nine of Wands.jpeg</span>"
 page_id: 71101
 namespace: 6
 revision_id: 429842
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Nine of Wands" - *[The Hobbit Tarot](/wiki/The_Hobbit_Tarot)* illustration by [Peter Pracownik](/wiki/Peter_Pracownik)
+"Nine of Wands" - *[The Hobbit Tarot](../../main/T/The_Hobbit_Tarot.md)* illustration by [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Licensing {#Licensing}
 

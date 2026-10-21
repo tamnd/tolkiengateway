@@ -1,6 +1,5 @@
 ---
 title: "Society"
-display_title: "<span class=\"mw-page-title-main\">Society</span>"
 page_id: 62729
 namespace: 0
 revision_id: 407259
@@ -13,11 +12,11 @@ categories:
   - "Leaf by Niggle"
 ---
 
-The **Society** was a loose general term for the country and the town were Niggle lived within [Leaf by Niggle](/wiki/Leaf_by_Niggle).
+The **Society** was a loose general term for the country and the town were Niggle lived within [Leaf by Niggle](../L/Leaf_by_Niggle.md).
 
 ## Politics {#Politics}
 
-The laws of this Society placed an emphasis on work over art, such as the "Houses come first" law, which allowed people such as the Inspector of Houses to confiscate artworks such as *[Niggle's Picture](/wiki/Niggle%27s_Picture)* in order to benefit the town. The people, such as Niggle, who violated the laws of this Society had their homes and possessions given away after they go on their journey. Niggle's home was taken by Councilor Tompkins.
+The laws of this Society placed an emphasis on work over art, such as the "Houses come first" law, which allowed people such as the Inspector of Houses to confiscate artworks such as *[Niggle's Picture](../N/Niggle's_Picture.md)* in order to benefit the town. The people, such as Niggle, who violated the laws of this Society had their homes and possessions given away after they go on their journey. Niggle's home was taken by Councilor Tompkins.
 
 ## History {#History}
 
@@ -25,7 +24,7 @@ The town that Niggle lived in had a Town Council and an Emergency Service.
 
 While Niggle went off through the Mountains, he never found out that his name in life was the subject of a debate among three different people within Society.
 
-One of them was Councillor Tompkins, who made the claim that Niggle had been no use to Society at all. He was refuted by a schoolmaster called [Atkins](/wiki/Atkins), who stated that it depended on what Tompkins meant by “use”.
+One of them was Councillor Tompkins, who made the claim that Niggle had been no use to Society at all. He was refuted by a schoolmaster called [Atkins](../A/Atkins.md), who stated that it depended on what Tompkins meant by “use”.
 
 In response, Tompkins clarified that he meant practical use and that if he ran the country, he would have forced Niggle into doing a job like washing dishes or “put him away”.
 
@@ -39,7 +38,7 @@ Tompkin considered some painting to be useful, such as posters, but that no one 
 
 Atkins voiced his pity of Niggle, and revealed that he had saved a piece of the painting: one that depicted “a mountain-peak and a spray of leaves.”
 
-Another person nearby named [Perkins](/wiki/Perkins), had attempted to join in on the conversation. Though at the same time, Tompkins tried to leave the conversation. However, Atkins condemned Tompkins for living in Niggle's house despite his beliefs.
+Another person nearby named [Perkins](../P/Perkins.md), had attempted to join in on the conversation. Though at the same time, Tompkins tried to leave the conversation. However, Atkins condemned Tompkins for living in Niggle's house despite his beliefs.
 
 Perkins revealed that he never knew that Niggle painted, yet sympathized with him.
 

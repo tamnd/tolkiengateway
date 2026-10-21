@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Bombur slept on with a smile on his fat face.jpg"
 ---
 
-Redirect to [File:Alan Lee - Bombur slept on with a smile on his fat face.jpg](/wiki/File:Alan_Lee_-_Bombur_slept_on_with_a_smile_on_his_fat_face.jpg).
+Redirect to [File:Alan Lee - Bombur slept on with a smile on his fat face.jpg](Alan_Lee_-_Bombur_slept_on_with_a_smile_on_his_fat_face.jpg.md).

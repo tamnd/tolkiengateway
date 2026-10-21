@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hendwine"
 ---
 
-Redirect to [Hendwine](/wiki/Hendwine).
+Redirect to [Hendwine](Hendwine.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jeff Murchie"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jeff Murchie</span>"
 page_id: 36198
 namespace: 14
 revision_id: 182033
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Murchie, Jeff"
 ---
 
-This category lists all **images by [Jeff Murchie](/wiki/Jeff_Murchie)**.
+This category lists all **images by [Jeff Murchie](../../main/J/Jeff_Murchie.md)**.

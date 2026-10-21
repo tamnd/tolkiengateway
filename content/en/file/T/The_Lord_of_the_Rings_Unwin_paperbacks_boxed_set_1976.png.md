@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Unwin paperbacks boxed set 1976.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Unwin paperbacks boxed set 1976.png</span>"
 page_id: 38065
 namespace: 6
 revision_id: 350788

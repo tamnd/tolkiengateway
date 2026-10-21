@@ -1,6 +1,5 @@
 ---
 title: "File:Elvish Linguistic Calendar Spring 2001 - Stirring 2002.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elvish Linguistic Calendar Spring 2001 - Stirring 2002.jpg</span>"
 page_id: 6719
 namespace: 6
 revision_id: 215459

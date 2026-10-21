@@ -13,13 +13,13 @@ categories:
   - "Sindarin verbs"
 ---
 
-**covad-** is a verb meaning "to collect" in [Sindarin](/wiki/Sindarin).
+**covad-** is a verb meaning "to collect" in [Sindarin](../S/Sindarin.md).
 
 ## Other forms {#Other_forms}
 
 - p.t. *covant* "collected"
-- p.part. *[covannen](/wiki/Govannen "Govannen")*
+- p.part. *[covannen](../G/Govannen.md)*
 
 ## References {#References}
 
-- [Parma Eldalamberon 17](/wiki/Parma_Eldalamberon_17)
+- [Parma Eldalamberon 17](../P/Parma_Eldalamberon_17.md)

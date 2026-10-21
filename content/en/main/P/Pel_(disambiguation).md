@@ -1,6 +1,5 @@
 ---
 title: "Pel (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Pel (disambiguation)</span>"
 page_id: 34940
 namespace: 0
 revision_id: 164546
@@ -17,16 +16,16 @@ images:
 
 **Pel** can refer to:
 
-- *[pel-](/wiki/Pel- "Pel-")*, a [Quenya](/wiki/Quenya) word
-- *[pêl](/wiki/P%C3%AAl "Pêl")*, a [Noldorin](/wiki/Noldorin) word
-- [PEL](/wiki/PEL), an [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") signifying "edge, bound, fence, limit"
-- [PEL-, PEL(ES)-](/wiki/PEL#Other_verions "PEL"), [Elvish](/wiki/Elvish) [roots](/wiki/Sundocarme "Sundocarme") from the *[Etymologies](/wiki/The_Etymologies "The Etymologies")*
+- *[pel-](Pel-.md)*, a [Quenya](../Q/Quenya.md) word
+- *[pêl](Pêl.md)*, a [Noldorin](../N/Noldorin.md) word
+- [PEL](PEL~34941.md), an [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) signifying "edge, bound, fence, limit"
+- [PEL-, PEL(ES)-](PEL~34941.md#Other_verions), [Elvish](../E/Elvish.md) [roots](../S/Sundocarme.md) from the *[Etymologies](../T/The_Etymologies.md)*
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Pel_(disambiguation)" title="Special:WhatLinksHere/:Pel (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Pel_(disambiguation)" title="Special:WhatLinksHere/:Pel (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

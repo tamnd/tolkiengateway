@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darrell Sweet"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darrell Sweet</span>"
 page_id: 9482
 namespace: 14
 revision_id: 181970
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Sweet, Darrell"
 ---
 
-This category lists all **images by [Darrell Sweet](/wiki/Darrell_Sweet)**.
+This category lists all **images by [Darrell Sweet](../../main/D/Darrell_Sweet.md)**.

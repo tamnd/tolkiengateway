@@ -18,27 +18,26 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/The_Homecoming_of_Beorhtnoth,_Beorhthelm%E2%80%99s_Son_(H%C3%B6rspiel)"
 ---
 
-On [December 3](/wiki/3_December "3 December"), [1954](/wiki/1954), the [BBC Third Programme](/wiki/BBC "BBC") aired a half-hour radio play of <i><b>The Homecoming of Beorhtnoth, Beorhthelm&#39;s Son</b></i>, after [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s poem of the [same name](/wiki/The_Homecoming_of_Beorhtnoth "The Homecoming of Beorhtnoth").
+On [December 3](../_/3_December.md), [1954](../_/1954.md), the [BBC Third Programme](../B/BBC.md) aired a half-hour radio play of <i><b>The Homecoming of Beorhtnoth, Beorhthelm&#39;s Son</b></i>, after [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s poem of the [same name](The_Homecoming_of_Beorhtnoth.md).
 
 ## Cast {#Cast}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Role</th>
 <th>Actor
 </th></tr>
 <tr>
 <td>Tidwald</td>
-<td><a href="/wiki/Felix_Felton" title="Felix Felton">Felix Felton</a>
+<td><a href="../F/Felix_Felton.md" title="Felix Felton">Felix Felton</a>
 </td></tr>
 <tr>
 <td>Torhthelm</td>
-<td><a href="/wiki/Frank_Duncan" title="Frank Duncan">Frank Duncan</a>
+<td><a href="../F/Frank_Duncan.md" title="Frank Duncan">Frank Duncan</a>
 </td></tr>
 <tr>
 <td>Unspecified</td>
-<td><a href="/wiki/Gareth_Jones" title="Gareth Jones">Gareth Jones</a>
+<td><a href="../G/Gareth_Jones.md" title="Gareth Jones">Gareth Jones</a>
 </td></tr></tbody></table>
 
 Produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Rayner_Heppenstall" title="wikipedia:Rayner Heppenstall">Rayner Heppenstall</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
@@ -46,7 +45,7 @@ Produced by <a class="extiw" href="http://en.wikipedia.org/wiki/Rayner_Heppensta
 ## Note {#Note}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Heppenstall wrote to Tolkien asking what &#34;dialect&#34; the speakers should adopt (see <a href="/wiki/Letter_152" title="Letter 152">Letter 152</a>).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Heppenstall wrote to Tolkien asking what &#34;dialect&#34; the speakers should adopt (see <a href="../L/Letter_152.md" title="Letter 152">Letter 152</a>).</span>
 </li>
 </ol></div>
 

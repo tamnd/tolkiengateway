@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Lee - Ring Poem Black Speech.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Lee - Ring Poem Black Speech.mp3</span>"
 page_id: 71044
 namespace: 6
 revision_id: 424879
@@ -26,12 +25,12 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Lee](/wiki/Christopher_Lee) reads the [Black Speech](/wiki/Black_Speech) of the [Ring-inscription](/wiki/Ring-inscription)
+[Christopher Lee](../../main/C/Christopher_Lee.md) reads the [Black Speech](../../main/B/Black_Speech.md) of the [Ring-inscription](../../main/R/Ring-inscription.md)
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by The <a href="/wiki/Tolkien_Ensemble" title="Tolkien Ensemble">Tolkien Ensemble</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by The <a href="../../main/T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

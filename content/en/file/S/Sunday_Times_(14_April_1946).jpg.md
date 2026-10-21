@@ -1,6 +1,5 @@
 ---
 title: "File:Sunday Times (14 April 1946).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sunday Times (14 April 1946).jpg</span>"
 page_id: 32942
 namespace: 6
 revision_id: 215407

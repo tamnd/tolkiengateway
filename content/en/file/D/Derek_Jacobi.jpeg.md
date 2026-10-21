@@ -1,6 +1,5 @@
 ---
 title: "File:Derek Jacobi.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Derek Jacobi.jpeg</span>"
 page_id: 66849
 namespace: 6
 revision_id: 387231

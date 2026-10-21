@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom (son of Nan)"
 ---
 
-Redirect to [Tom (son of Nan)](/wiki/Tom_(son_of_Nan)).
+Redirect to [Tom (son of Nan)](<Tom_(son_of_Nan).md>).

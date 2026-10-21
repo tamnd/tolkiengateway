@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien studies"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien studies</span>"
 page_id: 21997
 namespace: 14
 revision_id: 79810
@@ -13,6 +12,6 @@ categories:
   - "Real-world"
 ---
 
-<dl><dd><i>For the journal of the same name see <a href="/wiki/Category:Tolkien_Studies" title="Category:Tolkien Studies">Category:Tolkien Studies</a></i>.</dd></dl>
+<dl><dd><i>For the journal of the same name see <a href="Tolkien_Studies~21998.md" title="Category:Tolkien Studies">Category:Tolkien Studies</a></i>.</dd></dl>
 
-The academic field for the study of the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+The academic field for the study of the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Flight of the Noldor"
 ---
 
-Redirect to [Of the Flight of the Noldor](/wiki/Of_the_Flight_of_the_Noldor).
+Redirect to [Of the Flight of the Noldor](../O/Of_the_Flight_of_the_Noldor.md).

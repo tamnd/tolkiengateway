@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Visio de Doworst"
 ---
 
-Redirect to [Visio de Doworst](/wiki/Visio_de_Doworst).
+Redirect to [Visio de Doworst](../V/Visio_de_Doworst.md).

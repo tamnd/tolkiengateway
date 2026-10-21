@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Colin C. Throm"
 ---
 
-Redirect to [Colin C. Throm](/wiki/Colin_C._Throm).
+Redirect to [Colin C. Throm](Colin_C._Throm.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth The Wizards logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth The Wizards logo.png</span>"
 page_id: 73330
 namespace: 6
 revision_id: 440922

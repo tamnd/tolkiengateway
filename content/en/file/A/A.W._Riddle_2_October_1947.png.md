@@ -1,6 +1,5 @@
 ---
 title: "File:A.W. Riddle 2 October 1947.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A.W. Riddle 2 October 1947.png</span>"
 page_id: 38057
 namespace: 6
 revision_id: 215010

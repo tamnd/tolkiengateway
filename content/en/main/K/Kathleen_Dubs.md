@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kathleen E. Dubs"
 ---
 
-Redirect to [Kathleen E. Dubs](/wiki/Kathleen_E._Dubs).
+Redirect to [Kathleen E. Dubs](Kathleen_E._Dubs.md).

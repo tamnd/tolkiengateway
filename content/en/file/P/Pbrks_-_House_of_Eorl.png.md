@@ -1,6 +1,5 @@
 ---
 title: "File:Pbrks - House of Eorl.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pbrks - House of Eorl.png</span>"
 page_id: 59298
 namespace: 6
 revision_id: 423155
@@ -36,17 +35,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>17 november 2018</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/User:Pbroks13" rel="noreferrer noopener" target="_blank">Pbroks13</a>, field colour derivation by <a class="external text" href="https://commons.wikimedia.org/wiki/User:Chiswick_Chap" rel="noreferrer noopener" target="_blank">Chiswick Chap</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Sourced from <a class="external text" href="http://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Rohan.svg" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a>, which in turn is traced from the <a href="/wiki/File:The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>.</td>
+<td>Sourced from <a class="external text" href="http://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Rohan.svg" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a>, which in turn is traced from the <a href="../T/The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg.md" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

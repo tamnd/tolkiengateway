@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir"
 ---
 
-Redirect to [Faramir](/wiki/Faramir).
+Redirect to [Faramir](Faramir.md).

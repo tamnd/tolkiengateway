@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Riddle of the Ring"
 ---
 
-Redirect to [Riddle of the Ring](/wiki/Riddle_of_the_Ring).
+Redirect to [Riddle of the Ring](Riddle_of_the_Ring.md).

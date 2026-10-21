@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Seafarer 1996.jpg"
 ---
 
-Redirect to [File:The Seafarer 1996.jpg](/wiki/File:The_Seafarer_1996.jpg).
+Redirect to [File:The Seafarer 1996.jpg](The_Seafarer_1996.jpg.md).

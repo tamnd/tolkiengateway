@@ -1,6 +1,5 @@
 ---
 title: "James Arnold Taylor"
-display_title: "<span class=\"mw-page-title-main\">James Arnold Taylor</span>"
 page_id: 19194
 namespace: 0
 revision_id: 387152
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Taylor, James Arnold"
 ---
 
-**James Arnold Taylor** ([July 22](/wiki/22_July "22 July"), [1969](/wiki/1969)) is an American voice actor, widely recognized as the voice of Obi Wan-Kenobi in various *Star Wars* games and series, Johnny Test in the eponymous show, and Wooldoor Sockbat in *Drawn Together*. Taylor provided several voices for [Vivendi](/wiki/Vivendi) video games.
+**James Arnold Taylor** ([July 22](../_/22_July.md), [1969](../_/1969.md)) is an American voice actor, widely recognized as the voice of Obi Wan-Kenobi in various *Star Wars* games and series, Johnny Test in the eponymous show, and Wooldoor Sockbat in *Drawn Together*. Taylor provided several voices for [Vivendi](../V/Vivendi.md) video games.
 
 ## Roles {#Roles}
 
-- [2003](/wiki/2003) - [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)") - Elf Sentry, Additional voice talent
-- [2002](/wiki/2002) - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)") - [Pippin](/wiki/Peregrin_Took "Peregrin Took"), [Robin Smallburrow](/wiki/Robin_Smallburrow) (uncredited), [Sancho Proudfoot](/wiki/Sancho_Proudfoot) (uncredited)
+- [2003](../_/2003.md) - [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>) - Elf Sentry, Additional voice talent
+- [2002](../_/2002.md) - [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Pippin](../P/Peregrin_Took.md), [Robin Smallburrow](../R/Robin_Smallburrow.md) (uncredited), [Sancho Proudfoot](../S/Sancho_Proudfoot.md) (uncredited)
 
 ## External links {#External_links}
 

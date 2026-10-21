@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "John David Ruemmler"
 ---
 
-Redirect to [John David Ruemmler](/wiki/John_David_Ruemmler).
+Redirect to [John David Ruemmler](John_David_Ruemmler.md).

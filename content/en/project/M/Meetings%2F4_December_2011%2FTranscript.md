@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/4 December 2011/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/4 December 2011/Transcript</span>"
 page_id: 37612
 namespace: 4
 revision_id: 354936
@@ -141,7 +140,7 @@ sort_keys:
 [2011-12-04 21:01:10] &lt;Morgan&gt; Sort of asking everyone, as a finale, if they have some interesting news concerning TG<br/>
 [2011-12-04 21:01:13] &lt;Morgan&gt; ...well<br/>
 [2011-12-04 21:01:31] &lt;Mith&gt; OK.<br/>
-[2011-12-04 21:01:36] &lt;kriskowal&gt; Icarus, I am terrible at reading these but, the latest date is 1997. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0618002211">ISBN 0-618-002211</a>-9 And Houghton Mifflin<br/>
+[2011-12-04 21:01:36] &lt;kriskowal&gt; Icarus, I am terrible at reading these but, the latest date is 1997. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0618002211">ISBN 0-618-002211</a>-9 And Houghton Mifflin<br/>
 [2011-12-04 21:01:52] &lt;Mith&gt; Morgan, do you have any interesting news covering TG?<br/>
 [2011-12-04 21:02:17] &lt;kriskowal&gt; Well, one tidbit is I’m starting a new mapping project.<br/>
 [2011-12-04 21:02:36] &lt;Icarus&gt; Is it the 60th Anniversary Edition, perhaps?<br/>

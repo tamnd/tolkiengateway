@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Rivers"
 ---
 
-Redirect to [Index:Rivers](/wiki/Index:Rivers).
+Redirect to [Index:Rivers](../../index/R/Rivers.md).

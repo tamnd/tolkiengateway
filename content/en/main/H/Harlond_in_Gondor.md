@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harlond (Gondor)"
 ---
 
-Redirect to [Harlond (Gondor)](/wiki/Harlond_(Gondor)).
+Redirect to [Harlond (Gondor)](<Harlond_(Gondor).md>).

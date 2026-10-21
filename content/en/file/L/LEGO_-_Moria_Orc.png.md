@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Moria Orc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Moria Orc.png</span>"
 page_id: 73081
 namespace: 6
 revision_id: 432631
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Moria](/wiki/Moria) [Orc](/wiki/Orcs "Orcs") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor011/moria-orc-olive-green" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Moria](../../main/M/Moria.md) [Orc](../../main/O/Orcs.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor011/moria-orc-olive-green" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

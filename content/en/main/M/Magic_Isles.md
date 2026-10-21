@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enchanted Isles"
 ---
 
-Redirect to [Enchanted Isles](/wiki/Enchanted_Isles).
+Redirect to [Enchanted Isles](../E/Enchanted_Isles.md).

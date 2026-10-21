@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Galadriel and Sauron concept art.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Galadriel and Sauron concept art.jpg</span>"
 page_id: 56411
 namespace: 6
 revision_id: 307575
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Concept art of [Galadriel](/wiki/Galadriel) versus [Sauron](/wiki/Sauron).
+Concept art of [Galadriel](../../main/G/Galadriel.md) versus [Sauron](../../main/S/Sauron.md).
 
 ## Licensing {#Licensing}
 

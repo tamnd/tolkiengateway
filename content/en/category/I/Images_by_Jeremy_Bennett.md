@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jeremy Bennett"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jeremy Bennett</span>"
 page_id: 12338
 namespace: 14
 revision_id: 182038
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Bennett, Jeremy"
 ---
 
-This category lists all **images by [Jeremy Bennett](/wiki/Jeremy_Bennett)**.
+This category lists all **images by [Jeremy Bennett](../../main/J/Jeremy_Bennett.md)**.

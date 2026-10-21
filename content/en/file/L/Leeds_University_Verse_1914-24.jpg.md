@@ -1,6 +1,5 @@
 ---
 title: "File:Leeds University Verse 1914-24.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leeds University Verse 1914-24.jpg</span>"
 page_id: 28339
 namespace: 6
 revision_id: 214520

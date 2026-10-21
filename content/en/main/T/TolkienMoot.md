@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MerpCon"
 ---
 
-Redirect to [MerpCon](/wiki/MerpCon).
+Redirect to [MerpCon](../M/MerpCon.md).

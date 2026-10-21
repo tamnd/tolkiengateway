@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Words and Worlds"
 ---
 
-Redirect to [Of Words and Worlds](/wiki/Of_Words_and_Worlds).
+Redirect to [Of Words and Worlds](Of_Words_and_Worlds.md).

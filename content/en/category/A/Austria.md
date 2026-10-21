@@ -1,6 +1,5 @@
 ---
 title: "Category:Austria"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Austria</span>"
 page_id: 35307
 namespace: 14
 revision_id: 166521

@@ -1,6 +1,5 @@
 ---
 title: "Hill Road"
-display_title: "<span class=\"mw-page-title-main\">Hill Road</span>"
 page_id: 17747
 namespace: 0
 revision_id: 415184
@@ -25,29 +24,29 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Hill_Road.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Online_-_Hill_Road.jpg"><img src="/w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/300px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="/w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/450px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg 1.5x, /w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/600px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Hill Road in <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/300px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/450px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/The_Lord_of_the_Rings_Online_-_Hill_Road.jpg/600px-The_Lord_of_the_Rings_Online_-_Hill_Road.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Hill Road in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-The **Hill Road** was a road in [Hobbiton](/wiki/Hobbiton) of [The Shire](/wiki/The_Shire) which led to [Overhill](/wiki/Overhill), over [Hobbiton Hill](/wiki/Hobbiton_Hill) and [Bag End](/wiki/Bag_End).
+The **Hill Road** was a road in [Hobbiton](Hobbiton.md) of [The Shire](../T/The_Shire.md) which led to [Overhill](../O/Overhill.md), over [Hobbiton Hill](Hobbiton_Hill.md) and [Bag End](../B/Bag_End.md).
 
-On the evening of [23 September](/wiki/23_September) [T.A.](/wiki/Third_Age "Third Age") [3018](/wiki/Third_Age_3018 "Third Age 3018")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Frodo Baggins](/wiki/Frodo_Baggins) walked to the end of the path, past a gate, and partly down Hill Road in anxious expectation of [Gandalf](/wiki/Gandalf)'s arrival; just around the corner was [Bagshot Row](/wiki/Bagshot_Row) and the [smial](/wiki/Smial "Smial") of the [Gamgee Family](/wiki/Gamgee_Family). While there Frodo heard [Hamfast Gamgee](/wiki/Hamfast_Gamgee) talking to [some stranger](/wiki/Kham%C3%BBl "Khamûl") with an unpleasant voice.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+On the evening of [23 September](../_/23_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Frodo Baggins](../F/Frodo_Baggins.md) walked to the end of the path, past a gate, and partly down Hill Road in anxious expectation of [Gandalf](../G/Gandalf.md)'s arrival; just around the corner was [Bagshot Row](../B/Bagshot_Row.md) and the [smial](../S/Smial.md) of the [Gamgee Family](../G/Gamgee_Family~66365.md). While there Frodo heard [Hamfast Gamgee](Hamfast_Gamgee.md) talking to [some stranger](../K/Khamûl.md) with an unpleasant voice.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>2002: <a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (video game)</a>:</b>
 
-<dl><dd><a href="/wiki/Robin_Smallburrow" title="Robin Smallburrow">Robin Smallburrow</a> lives at 9, Hill Road, though all the other houses and holes in the street are said to be on <a href="/wiki/Bagshot_Row" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
+<dl><dd><a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a> lives at 9, Hill Road, though all the other houses and holes in the street are said to be on <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>The road leads from <a href="/wiki/Hobbiton" title="Hobbiton">Hobbiton</a> to <a href="/wiki/Overhill" title="Overhill">Overhill</a> and continues to <a class="mw-redirect" href="/wiki/Brockenborings" title="Brockenborings">Brockenborings</a>.</dd></dl>
+<dl><dd>The road leads from <a href="Hobbiton.md" title="Hobbiton">Hobbiton</a> to <a href="../O/Overhill.md" title="Overhill">Overhill</a> and continues to <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a>.</dd></dl>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Great Years&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/Three_is_Company" title="Three is Company">Three is Company</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/Three_is_Company.md" title="Three is Company">Three is Company</a>&#34;</span>
 </li>
 </ol></div>

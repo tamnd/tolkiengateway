@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Tinnudur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Tinnudur.jpg</span>"
 page_id: 65321
 namespace: 6
 revision_id: 428347
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Screenshot of [Tinnudir](/wiki/Tinnudir)
+Screenshot of [Tinnudir](../../main/T/Tinnudir.md)
 
 ## Licensing {#Licensing}
 

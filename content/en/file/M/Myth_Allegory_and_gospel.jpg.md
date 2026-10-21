@@ -1,6 +1,5 @@
 ---
 title: "File:Myth Allegory and gospel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Myth Allegory and gospel.jpg</span>"
 page_id: 50435
 namespace: 6
 revision_id: 271745

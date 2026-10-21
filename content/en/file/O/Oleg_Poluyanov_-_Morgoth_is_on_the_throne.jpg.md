@@ -1,6 +1,5 @@
 ---
 title: "File:Oleg Poluyanov - Morgoth is on the throne.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oleg Poluyanov - Morgoth is on the throne.jpg</span>"
 page_id: 72076
 namespace: 6
 revision_id: 428813
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Morgoth](/wiki/Morgoth) is on the throne" by [Oleg Poluyanov](/wiki/Category:Images_by_Oleg_Poluyanov "Category:Images by Oleg Poluyanov")
+"[Morgoth](../../main/M/Morgoth.md) is on the throne" by [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Oleg Poluyanov</li>
 <li><b>Website:</b> <a class="external text" href="https://oleg_poluyanov.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Oleg_Poluyanov" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOleg_Poluyanov.md" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>

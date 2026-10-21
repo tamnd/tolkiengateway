@@ -11,4 +11,4 @@ redirect_target: "University of Oxford"
 redirect_fragment: "Merton College"
 ---
 
-Redirect to [University of Oxford](/wiki/University_of_Oxford#Merton_College).
+Redirect to [University of Oxford](../U/University_of_Oxford.md#Merton_College).

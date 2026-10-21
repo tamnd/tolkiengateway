@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Phobs"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Phobs</span>"
 page_id: 52280
 namespace: 4
 revision_id: 284894
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Phobs"
 ---
 
-- Phobs has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Phobs "Category:Images by Phobs") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Phobs has kindly granted her permission to use [her artwork](../../category/I/Images_by_Phobs.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 26 December 2015
-- User who sought the permission via email: [User:Elf-esteem](/wiki/User:Elf-esteem)
+- User who sought the permission via email: [User:Elf-esteem](https://tolkiengateway.net/wiki/User:Elf-esteem)

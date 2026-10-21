@@ -1,6 +1,5 @@
 ---
 title: "David Brierly"
-display_title: "<span class=\"mw-page-title-main\">David Brierly</span>"
 page_id: 23145
 namespace: 0
 revision_id: 221913
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Brierly, David"
 ---
 
-**David Brierly** ([1935](/wiki/1935) – [June 10](/wiki/10_June "10 June"), [2008](/wiki/2008)) was a British actor. He was best known as robotic dog <a class="extiw" href="http://en.wikipedia.org/wiki/K-9_(Doctor_Who)" title="wikipedia:K-9 (Doctor Who)">K-9</a> in various incarnations of *Doctor Who*.
+**David Brierly** ([1935](../_/1935.md) – [June 10](../_/10_June.md), [2008](../_/2008.md)) was a British actor. He was best known as robotic dog <a class="extiw" href="http://en.wikipedia.org/wiki/K-9_(Doctor_Who)" title="wikipedia:K-9 (Doctor Who)">K-9</a> in various incarnations of *Doctor Who*.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): [Kíli](/wiki/K%C3%ADli), Elf guard
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): [Kíli](../K/Kíli.md), Elf guard
 
 ## External links {#External_links}
 

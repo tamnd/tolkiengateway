@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Mines"
 ---
 
-Redirect to [Category:Mines](/wiki/Category:Mines).
+Redirect to [Category:Mines](../../category/M/Mines.md).

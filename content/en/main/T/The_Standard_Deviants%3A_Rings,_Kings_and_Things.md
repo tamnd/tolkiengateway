@@ -13,7 +13,7 @@ categories:
   - "Documentaries"
 ---
 
-<i><b>The Standard Deviants: Rings, Kings &amp; Things</b></i> is an educational film released on [June 18](/wiki/18_June "18 June"), [2002](/wiki/2002), from a series called <i><a class="extiw" href="http://en.wikipedia.org/wiki/Standard_Deviants" title="wikipedia:Standard Deviants">Standard Deviants</a></i>. While not entirely devoted to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* it is used as the center piece and includes footage of Tolkien himself.
+<i><b>The Standard Deviants: Rings, Kings &amp; Things</b></i> is an educational film released on [June 18](../_/18_June.md), [2002](../_/2002.md), from a series called <i><a class="extiw" href="http://en.wikipedia.org/wiki/Standard_Deviants" title="wikipedia:Standard Deviants">Standard Deviants</a></i>. While not entirely devoted to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Lord of the Rings](The_Lord_of_the_Rings.md)* it is used as the center piece and includes footage of Tolkien himself.
 
 ## Product description {#Product_description}
 

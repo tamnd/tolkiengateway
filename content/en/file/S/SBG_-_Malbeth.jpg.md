@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Malbeth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Malbeth.jpg</span>"
 page_id: 29840
 namespace: 6
 revision_id: 204134

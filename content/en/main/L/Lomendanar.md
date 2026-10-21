@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lomendánar"
 ---
 
-Redirect to [Lomendánar](/wiki/Lomendánar).
+Redirect to [Lomendánar](Lomendánar.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Antti Autio - Legolas of Woodland Realm.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Antti Autio - Legolas of Woodland Realm.jpg</span>"
 page_id: 13458
 namespace: 6
 revision_id: 248305
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Antti Autio</li>
 <li><b>Website:</b> <a class="external text" href="http://aautio.deviantart.com/" rel="noreferrer noopener" target="_blank">Antti Autio on deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Antti_Autio" title="Tolkien Gateway:Copyrights/Antti Autio">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAntti_Autio.md" title="Tolkien Gateway:Copyrights/Antti Autio">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Rayner Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Rayner Unwin</span>"
 page_id: 66625
 namespace: 14
 revision_id: 385958
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Unwin, Rayner"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Rayner Unwin](/wiki/Rayner_Unwin).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Rayner Unwin](../../main/R/Rayner_Unwin.md).

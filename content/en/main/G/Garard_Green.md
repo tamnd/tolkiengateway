@@ -1,6 +1,5 @@
 ---
 title: "Garard Green"
-display_title: "<span class=\"mw-page-title-main\">Garard Green</span>"
 page_id: 24162
 namespace: 0
 revision_id: 157458
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Green, Garard"
 ---
 
-**Garard Green** ([July 31](/wiki/31_July "31 July"), [1924](/wiki/1924) - [December 26](/wiki/26_December "26 December"), [2004](/wiki/2004)) was a British actor. Though he occasionally appeared on stage or screen , he is best known as a voice actor, participating in numerous audio plays and narrating many audiobooks.
+**Garard Green** ([July 31](../_/31_July.md), [1924](../_/1924.md) - [December 26](../_/26_December.md), [2004](../_/2004.md)) was a British actor. Though he occasionally appeared on stage or screen , he is best known as a voice actor, participating in numerous audio plays and narrating many audiobooks.
 
 ## Filmography {#Filmography}
 
-- [1955](/wiki/1955)-[6](/wiki/1956 "1956"): *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*: [Elrond](/wiki/Elrond), [Celeborn](/wiki/Celeborn), Additional voices
+- [1955](../_/1955.md)-[6](../_/1956.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*: [Elrond](../E/Elrond.md), [Celeborn](../C/Celeborn.md), Additional voices
 
 ## External links {#External_links}
 

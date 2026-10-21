@@ -1,6 +1,5 @@
 ---
 title: "Category:Sindarin adverbs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sindarin adverbs</span>"
 page_id: 28310
 namespace: 14
 revision_id: 220056

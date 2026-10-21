@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mikko Kinnunen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mikko Kinnunen</span>"
 page_id: 40790
 namespace: 4
 revision_id: 207148
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kinnunen, Mikko"
 ---
 
-- Mikko Kinnunen has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Mikko_Kinnunen "Category:Images by Mikko Kinnunen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Mikko Kinnunen has kindly granted his permission to use [his artwork](../../category/I/Images_by_Mikko_Kinnunen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

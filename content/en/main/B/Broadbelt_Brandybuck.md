@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorbadoc Brandybuck"
 ---
 
-Redirect to [Gorbadoc Brandybuck](/wiki/Gorbadoc_Brandybuck).
+Redirect to [Gorbadoc Brandybuck](../G/Gorbadoc_Brandybuck.md).

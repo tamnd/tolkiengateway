@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan-tathren"
 ---
 
-Redirect to [Nan-tathren](/wiki/Nan-tathren).
+Redirect to [Nan-tathren](Nan-tathren.md).

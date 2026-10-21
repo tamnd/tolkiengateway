@@ -1,6 +1,5 @@
 ---
 title: "William Crowther"
-display_title: "<span class=\"mw-page-title-main\">William Crowther</span>"
 page_id: 25567
 namespace: 0
 revision_id: 384325
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Crowther, Willie"
 ---
 
-**William "Willie" Crowther** ([1936](/wiki/1936)) was the author of the strong [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") influeced Text-Adventure <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Colossal Cave Adventure</a>, on which [Colossal Adventure](/wiki/Colossal_Adventure) was based.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**William "Willie" Crowther** ([1936](../_/1936.md)) was the author of the strong [Tolkien](../J/J.R.R._Tolkien.md) influeced Text-Adventure <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Colossal Cave Adventure</a>, on which [Colossal Adventure](../C/Colossal_Adventure.md) was based.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 

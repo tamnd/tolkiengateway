@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - Water Drakes.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - Water Drakes.png</span>"
 page_id: 30086
 namespace: 6
 revision_id: 203179
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by Kent Burles portraying a Water Drake ([Sea-serpent](/wiki/Sea-serpent)), a *Rain-drake*, appearing in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Creatures of Middle-earth (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)>)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2012, 1994) .
+Image by Kent Burles portraying a Water Drake ([Sea-serpent](../../main/S/Sea-serpent.md)), a *Rain-drake*, appearing in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
 
 ## Licensing {#Licensing}
 

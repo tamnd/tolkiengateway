@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alph"
 ---
 
-Redirect to [Alph](/wiki/Alph).
+Redirect to [Alph](../A/Alph.md).

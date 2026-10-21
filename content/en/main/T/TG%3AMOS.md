@@ -10,4 +10,4 @@ redirect: true
 redirect_target: ""
 ---
 
-Redirect to [](/wiki/).
+Redirect to [](https://tolkiengateway.net/wiki/).

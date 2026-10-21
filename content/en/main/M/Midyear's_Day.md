@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mid-year's Day"
 ---
 
-Redirect to [Mid-year's Day](/wiki/Mid-year's_Day).
+Redirect to [Mid-year's Day](Mid-year's_Day.md).

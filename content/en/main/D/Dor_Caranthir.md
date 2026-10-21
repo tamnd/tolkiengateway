@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thargelion"
 ---
 
-Redirect to [Thargelion](/wiki/Thargelion).
+Redirect to [Thargelion](../T/Thargelion.md).

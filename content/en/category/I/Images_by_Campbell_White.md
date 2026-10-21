@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Campbell White"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Campbell White</span>"
 page_id: 65049
 namespace: 14
 revision_id: 374550

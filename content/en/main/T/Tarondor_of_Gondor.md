@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarondor (King of Gondor)"
 ---
 
-Redirect to [Tarondor (King of Gondor)](/wiki/Tarondor_(King_of_Gondor)).
+Redirect to [Tarondor (King of Gondor)](<Tarondor_(King_of_Gondor).md>).

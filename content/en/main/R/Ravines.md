@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Cliffs and ravines"
 ---
 
-Redirect to [Category:Cliffs and ravines](/wiki/Category:Cliffs_and_ravines).
+Redirect to [Category:Cliffs and ravines](../../category/C/Cliffs_and_ravines.md).

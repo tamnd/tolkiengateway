@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chubb-Baggins family"
 ---
 
-Redirect to [Chubb-Baggins family](/wiki/Chubb-Baggins_family).
+Redirect to [Chubb-Baggins family](Chubb-Baggins_family.md).

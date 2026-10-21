@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calben"
 ---
 
-Redirect to [Calben](/wiki/Calben).
+Redirect to [Calben](Calben.md).

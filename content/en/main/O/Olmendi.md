@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven life cycle"
 ---
 
-Redirect to [Elven life cycle](/wiki/Elven_life_cycle).
+Redirect to [Elven life cycle](../E/Elven_life_cycle.md).

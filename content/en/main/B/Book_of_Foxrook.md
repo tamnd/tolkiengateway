@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Book of the Foxrook"
 ---
 
-Redirect to [Book of the Foxrook](/wiki/Book_of_the_Foxrook).
+Redirect to [Book of the Foxrook](Book_of_the_Foxrook.md).

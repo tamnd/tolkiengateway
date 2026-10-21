@@ -1,6 +1,5 @@
 ---
 title: "Paul Nolan Hyde"
-display_title: "<span class=\"mw-page-title-main\">Paul Nolan Hyde</span>"
 page_id: 20355
 namespace: 0
 revision_id: 396174
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Hyde, Paul Nolan"
 ---
 
-**Paul Nolan Hyde** was a Professor of Linguistics at <a class="extiw" href="http://en.wikipedia.org/wiki/Brigham_Young_University" title="wikipedia:Brigham Young University">Brigham Young University</a>. Introduced to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works in 1966, Hyde produced many essays on both the [legendarium](/wiki/Legendarium "Legendarium") and the field of expertise of Tolkien, [Old](/wiki/Old_English "Old English") and [Middle English](/wiki/Middle_English). Hyde is probably best known for his collumn "Quenti Lambardillion" in *[Mythlore](/wiki/Mythlore)* and several contributions to *[Vinyar Tengwar](/wiki/Vinyar_Tengwar)*.
+**Paul Nolan Hyde** was a Professor of Linguistics at <a class="extiw" href="http://en.wikipedia.org/wiki/Brigham_Young_University" title="wikipedia:Brigham Young University">Brigham Young University</a>. Introduced to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works in 1966, Hyde produced many essays on both the [legendarium](../L/Legendarium.md) and the field of expertise of Tolkien, [Old](../O/Old_English.md) and [Middle English](../M/Middle_English.md). Hyde is probably best known for his collumn "Quenti Lambardillion" in *[Mythlore](../M/Mythlore.md)* and several contributions to *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*.
 
 ## External links {#External_links}
 

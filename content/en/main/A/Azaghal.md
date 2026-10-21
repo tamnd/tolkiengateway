@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Azaghâl"
 ---
 
-Redirect to [Azaghâl](/wiki/Azaghâl).
+Redirect to [Azaghâl](Azaghâl.md).

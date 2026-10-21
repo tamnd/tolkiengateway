@@ -1,6 +1,5 @@
 ---
 title: "File:Sir William Alexander Craigie.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sir William Alexander Craigie.jpeg</span>"
 page_id: 66721
 namespace: 6
 revision_id: 386444
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [William Craigie](/wiki/William_Craigie) taken by unknown photographer.
+Image of [William Craigie](../../main/W/William_Craigie.md) taken by unknown photographer.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>The copyright for this file has expired according to the law of this work&#39;s nation/territory of origin; it is therefore in the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Public_domain" title="wikipedia:Public domain"><span class="licensetpl_short">public domain</span></a></b>.

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Michael Hague"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Michael Hague</span>"
 page_id: 46872
 namespace: 4
 revision_id: 248635
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Hague, Michael"
 ---
 
-- [Michael Hague](/wiki/Michael_Hague) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Michael_Hague "Category:Images by Michael Hague") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Michael Hague](../../main/M/Michael_Hague.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Michael_Hague.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 June 2014
-- User who sought the permission via email: [KingAragorn](/wiki/User:KingAragorn "User:KingAragorn")
+- User who sought the permission via email: [KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -1,6 +1,5 @@
 ---
 title: "File:JRR Tolkien Mongoram 1937 2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JRR Tolkien Mongoram 1937 2.png</span>"
 page_id: 69067
 namespace: 6
 revision_id: 412477

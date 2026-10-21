@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Canon policy"
 ---
 
-Redirect to [Tolkien Gateway:Canon policy](/wiki/Tolkien_Gateway:Canon_policy).
+Redirect to [Tolkien Gateway:Canon policy](Canon_policy.md).

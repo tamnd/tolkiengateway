@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Biography (Greenwood Biographies).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Biography (Greenwood Biographies).jpg</span>"
 page_id: 56326
 namespace: 6
 revision_id: 306813
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [J.R.R. Tolkien: A Biography (Greenwood Biographies)](</wiki/J.R.R._Tolkien:_A_Biography_(Greenwood_Biographies)>) by [Leslie Ellen Jones](/wiki/Leslie_Ellen_Jones)
+Cover of [J.R.R. Tolkien: A Biography (Greenwood Biographies)](<../../main/J/J.R.R._Tolkien%253A_A_Biography_(Greenwood_Biographies).md>) by [Leslie Ellen Jones](../../main/L/Leslie_Ellen_Jones.md)
 
 ## Licensing {#Licensing}
 

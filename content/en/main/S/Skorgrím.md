@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Skorgrím Dourhand"
 ---
 
-Redirect to [Skorgrím Dourhand](/wiki/Skorgrím_Dourhand).
+Redirect to [Skorgrím Dourhand](Skorgrím_Dourhand.md).

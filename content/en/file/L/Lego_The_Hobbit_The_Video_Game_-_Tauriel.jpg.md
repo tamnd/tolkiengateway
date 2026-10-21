@@ -1,6 +1,5 @@
 ---
 title: "File:Lego The Hobbit The Video Game - Tauriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego The Hobbit The Video Game - Tauriel.jpg</span>"
 page_id: 53349
 namespace: 6
 revision_id: 290380

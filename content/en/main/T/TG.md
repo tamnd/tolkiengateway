@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway"
 ---
 
-Redirect to [Tolkien Gateway](/wiki/Tolkien_Gateway).
+Redirect to [Tolkien Gateway](Tolkien_Gateway.md).

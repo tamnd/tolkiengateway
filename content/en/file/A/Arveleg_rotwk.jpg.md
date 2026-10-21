@@ -1,6 +1,5 @@
 ---
 title: "File:Arveleg rotwk.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arveleg rotwk.jpg</span>"
 page_id: 19645
 namespace: 6
 revision_id: 396921
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Arveleg I](/wiki/Arveleg_I) wielding one of the [palantíri](/wiki/Palant%C3%ADri "Palantíri"). Screenshot from *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king")*.
+[Arveleg I](../../main/A/Arveleg_I.md) wielding one of the [palantíri](../../main/P/Palantíri.md). Screenshot from *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
 
 ## Licensing {#Licensing}
 

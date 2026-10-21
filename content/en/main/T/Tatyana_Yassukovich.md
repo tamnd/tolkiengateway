@@ -1,6 +1,5 @@
 ---
 title: "Tatyana Yassukovich"
-display_title: "<span class=\"mw-page-title-main\">Tatyana Yassukovich</span>"
 page_id: 27970
 namespace: 0
 revision_id: 407357
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Yassukovich, Tatyana"
 ---
 
-**Tatyana Alexandra Eugenie Yassukovich** ([April](/wiki/April), [1962](/wiki/1962)) is an actress. The daughter of businessman Stanislas Yassukovich, she spent her school days in Switzerland, and as such has become fluent in English, French, German and Italian. So far, her biggest role is that of the storyteller in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Chocolat_(2000_film)" title="wikipedia:Chocolat (2000 film)">Chocolat</a></i>.
+**Tatyana Alexandra Eugenie Yassukovich** ([April](../A/April.md), [1962](../_/1962.md)) is an actress. The daughter of businessman Stanislas Yassukovich, she spent her school days in Switzerland, and as such has become fluent in English, French, German and Italian. So far, her biggest role is that of the storyteller in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Chocolat_(2000_film)" title="wikipedia:Chocolat (2000 film)">Chocolat</a></i>.
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
 
 ## External links {#External_links}
 

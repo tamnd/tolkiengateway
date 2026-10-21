@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Esteldín"
 ---
 
-Redirect to [Esteldín](/wiki/Esteldín).
+Redirect to [Esteldín](Esteldín.md).

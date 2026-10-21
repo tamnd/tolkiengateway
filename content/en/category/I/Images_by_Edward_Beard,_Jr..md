@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Edward Beard, Jr."
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Edward Beard, Jr.</span>"
 page_id: 30502
 namespace: 14
 revision_id: 423102
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Beard, Edward, Jr."
 ---
 
-This category lists all **images by [Edward Beard, Jr.](/wiki/Edward_Beard,_Jr.)**.
+This category lists all **images by [Edward Beard, Jr.](../../main/E/Edward_Beard,_Jr..md)**.

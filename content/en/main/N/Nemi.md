@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lise Myhre"
 ---
 
-Redirect to [Lise Myhre](/wiki/Lise_Myhre).
+Redirect to [Lise Myhre](../L/Lise_Myhre.md).

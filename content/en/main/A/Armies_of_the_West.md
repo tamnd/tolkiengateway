@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Army of the West"
 ---
 
-Redirect to [Army of the West](/wiki/Army_of_the_West).
+Redirect to [Army of the West](Army_of_the_West.md).

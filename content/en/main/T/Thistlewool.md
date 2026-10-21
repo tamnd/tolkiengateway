@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thistlewool Family"
 ---
 
-Redirect to [Thistlewool Family](/wiki/Thistlewool_Family).
+Redirect to [Thistlewool Family](Thistlewool_Family.md).

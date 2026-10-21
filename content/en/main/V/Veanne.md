@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vëannë"
 ---
 
-Redirect to [Vëannë](/wiki/Vëannë).
+Redirect to [Vëannë](Vëannë.md).

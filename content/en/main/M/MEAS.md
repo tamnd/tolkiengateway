@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Against the Shadow"
 ---
 
-Redirect to [Middle-earth: Against the Shadow](/wiki/Middle-earth:_Against_the_Shadow).
+Redirect to [Middle-earth: Against the Shadow](Middle-earth%253A_Against_the_Shadow.md).

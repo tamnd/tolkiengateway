@@ -1,6 +1,5 @@
 ---
 title: "File:Lost Tales I 2024.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lost Tales I 2024.jpeg</span>"
 page_id: 66804
 namespace: 6
 revision_id: 386930

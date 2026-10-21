@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Kent Burles - Múar.jpg"
 ---
 
-Redirect to [File:Kent Burles - Múar.jpg](/wiki/File:Kent_Burles_-_Múar.jpg).
+Redirect to [File:Kent Burles - Múar.jpg](../K/Kent_Burles_-_Múar.jpg.md).

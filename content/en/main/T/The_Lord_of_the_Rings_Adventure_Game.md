@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings Adventure Game"
 ---
 
-Redirect to [Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game).
+Redirect to [Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md).

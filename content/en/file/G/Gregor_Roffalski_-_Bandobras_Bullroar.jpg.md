@@ -1,6 +1,5 @@
 ---
 title: "File:Gregor Roffalski - Bandobras Bullroar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gregor Roffalski - Bandobras Bullroar.jpg</span>"
 page_id: 18569
 namespace: 6
 revision_id: 247249

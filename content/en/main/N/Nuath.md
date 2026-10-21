@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Woods of Núath"
 ---
 
-Redirect to [Woods of Núath](/wiki/Woods_of_Núath).
+Redirect to [Woods of Núath](../W/Woods_of_Núath.md).

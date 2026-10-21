@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Radagast.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Radagast.png</span>"
 page_id: 73299
 namespace: 6
 revision_id: 433537
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Radagast](/wiki/Radagast) - [LEGO](/wiki/Lego "Lego") minifigure
+[Radagast](../../main/R/Radagast.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

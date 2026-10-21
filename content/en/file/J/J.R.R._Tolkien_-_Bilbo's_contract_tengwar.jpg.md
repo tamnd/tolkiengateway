@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bilbo's contract tengwar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bilbo&#039;s contract tengwar.jpg</span>"
 page_id: 43214
 namespace: 6
 revision_id: 227385

@@ -1,6 +1,5 @@
 ---
 title: "File:Lorraine Brevig - Frodo and Sam in Ithilien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lorraine Brevig - Frodo and Sam in Ithilien.jpg</span>"
 page_id: 40228
 namespace: 6
 revision_id: 202310
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lorraine Brevig</li>
 <li><b>Website:</b> <a class="external text" href="http://www.lorrainebrevig.com/" rel="noreferrer noopener" target="_blank">Lorraine Brevig&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Lorraine_Brevig" title="Tolkien Gateway:Copyrights/Lorraine Brevig">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLorraine_Brevig.md" title="Tolkien Gateway:Copyrights/Lorraine Brevig">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éomund"
 ---
 
-Redirect to [Éomund](/wiki/Éomund).
+Redirect to [Éomund](../_/Éomund.md).

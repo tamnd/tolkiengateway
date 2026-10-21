@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimilkhâd"
 ---
 
-Redirect to [Gimilkhâd](/wiki/Gimilkhâd).
+Redirect to [Gimilkhâd](Gimilkhâd.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Nia Kovalevski"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Nia Kovalevski</span>"
 page_id: 67341
 namespace: 4
 revision_id: 391382
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kovalevski, Nia"
 ---
 
-- <b><a class="external text" href="https://www.artstation.com/antkoart" rel="noreferrer noopener" target="_blank">Nia Kovalevski</a></b> has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Nia_Kovalevski "Category:Images by Nia Kovalevski") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <b><a class="external text" href="https://www.artstation.com/antkoart" rel="noreferrer noopener" target="_blank">Nia Kovalevski</a></b> has kindly granted permission to use [their artwork](../../category/I/Images_by_Nia_Kovalevski.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 June 2024
-- User who received the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who received the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

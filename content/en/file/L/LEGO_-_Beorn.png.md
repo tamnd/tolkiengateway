@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Beorn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Beorn.png</span>"
 page_id: 73112
 namespace: 6
 revision_id: 432859
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Beorn](/wiki/Beorn) - [LEGO](/wiki/Lego "Lego") minifigure
+[Beorn](../../main/B/Beorn.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

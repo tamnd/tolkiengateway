@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Guardians Allied .jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Guardians Allied .jpg</span>"
 page_id: 73070
 namespace: 6
 revision_id: 432606
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"Guardians Allied" - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)* (don't know who the guy to the right of Legolas is)
+"Guardians Allied" - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)* (don't know who the guy to the right of Legolas is)
 
 ## Licensing {#Licensing}
 

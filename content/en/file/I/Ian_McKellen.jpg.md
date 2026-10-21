@@ -1,6 +1,5 @@
 ---
 title: "File:Ian McKellen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ian McKellen.jpg</span>"
 page_id: 6472
 namespace: 6
 revision_id: 247092

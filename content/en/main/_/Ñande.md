@@ -15,21 +15,21 @@ sort_keys:
   "Quenya nouns": "Nande"
 ---
 
-<i><b>ñande</b></i> is a [Quenya](/wiki/Quenya) word meaning "a harp". A <i><b>ñandelle</b></i> is a "little harp".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>ñande</b></i> is a [Quenya](../Q/Quenya.md) word meaning "a harp". A <i><b>ñandelle</b></i> is a "little harp".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[Helge Fauskanger](/wiki/Helge_Fauskanger) has suggested that the forms *nandë* and *nandellë* (retaining the same meaning) could be valid [Neo-Quenya](/wiki/Neo-Quenya).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) has suggested that the forms *nandë* and *nandellë* (retaining the same meaning) could be valid [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-- Root <a class="new" href="/w/index.php?title=%C3%91GAN&amp;action=edit&amp;redlink=1" title="ÑGAN (page does not exist)">ÑGAN</a><sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- Root <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91GAN&amp;action=edit&amp;redlink=1" title="ÑGAN (page does not exist)">ÑGAN</a><sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 377</span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 377</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/eng-quen.rtf" rel="noreferrer noopener" target="_blank">English-Quenya Wordlist (Quettaparma Quenyanna)</a>&#34; at <a class="external text" href="http://folk.uib.no/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a> (accessed 25 June 2011)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/eng-quen.rtf" rel="noreferrer noopener" target="_blank">English-Quenya Wordlist (Quettaparma Quenyanna)</a>&#34; at <a class="external text" href="http://folk.uib.no/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a> (accessed 25 June 2011)</span>
 </li>
 </ol></div>

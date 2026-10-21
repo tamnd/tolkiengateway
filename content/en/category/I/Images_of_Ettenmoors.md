@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Ettenmoors"
 ---
 
-Redirect to [Category:Images of the Ettenmoors](/wiki/Category:Images_of_the_Ettenmoors).
+Redirect to [Category:Images of the Ettenmoors](Images_of_the_Ettenmoors.md).

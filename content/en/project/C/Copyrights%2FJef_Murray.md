@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jef Murray"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jef Murray</span>"
 page_id: 37155
 namespace: 4
 revision_id: 193157
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Murray, Jef"
 ---
 
-- [Jef Murray](/wiki/Jef_Murray) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Jef_Murray "Category:Images by Jef Murray") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Jef Murray](../../main/J/Jef_Murray.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Jef_Murray.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

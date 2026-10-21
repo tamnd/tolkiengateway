@@ -16,9 +16,9 @@ sort_keys:
   "Letters": "Tolkien, Michael George (1966-07-29)"
 ---
 
-On [29 July](/wiki/29_July) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Michael George Tolkien](/wiki/Michael_George_Tolkien)**.
+On [29 July](../_/29_July.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Michael George Tolkien](../M/Michael_George_Tolkien.md)**.
 
-- **Publication:** The letter was partly published in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)* as [Letter 289](/wiki/Letter_289). The bulk of the letter was published in *[The Lord of the Rings: A Reader's Companion](/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion)*: "Prologue, 3 (I: 12). Mirkwood".
+- **Publication:** The letter was partly published in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* as [Letter 289](Letter_289.md). The bulk of the letter was published in *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*: "Prologue, 3 (I: 12). Mirkwood".
 - **Note:** The letter is kept at the <a class="extiw" href="http://en.wikipedia.org/wiki/British_Library" title="wikipedia:British Library">British Library</a> (MS Add. 71657).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Excerpt {#Excerpt}
@@ -29,13 +29,13 @@ On [29 July](/wiki/29_July) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._To
 
 ## See also {#See_also}
 
-- [Letters to Michael George Tolkien](/wiki/Category:Letters_to_Michael_George_Tolkien "Category:Letters to Michael George Tolkien")
+- [Letters to Michael George Tolkien](../../category/L/Letters_to_Michael_George_Tolkien.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 13</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 13</span>
 </li>
 </ol></div>

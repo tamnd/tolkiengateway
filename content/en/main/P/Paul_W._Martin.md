@@ -1,6 +1,5 @@
 ---
 title: "Paul W. Martin"
-display_title: "<span class=\"mw-page-title-main\">Paul W. Martin</span>"
 page_id: 32357
 namespace: 0
 revision_id: 148637
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Martin, Paul W."
 ---
 
-**Paul W. Martin** is the designer of the trivial quiz game [Tolkien Trivia](</wiki/Tolkien_Trivia_(video_game)> "Tolkien Trivia (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Paul W. Martin** is the designer of the trivial quiz game [Tolkien Trivia](<../T/Tolkien_Trivia_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

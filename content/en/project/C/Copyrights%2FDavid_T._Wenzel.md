@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/David T. Wenzel"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/David T. Wenzel</span>"
 page_id: 40298
 namespace: 4
 revision_id: 202559
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Wenzel, David T."
 ---
 
-- David T. Wenzel has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_David_T._Wenzel "Category:Images by David T. Wenzel") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- David T. Wenzel has kindly granted his permission to use [his artwork](../../category/I/Images_by_David_T._Wenzel.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

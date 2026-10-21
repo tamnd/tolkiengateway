@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rings of Power (disambiguation)"
 ---
 
-Redirect to [Rings of Power (disambiguation)](/wiki/Rings_of_Power_(disambiguation)).
+Redirect to [Rings of Power (disambiguation)](<../R/Rings_of_Power_(disambiguation).md>).

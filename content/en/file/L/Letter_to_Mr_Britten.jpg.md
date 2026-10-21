@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Mr Britten.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Mr Britten.jpg</span>"
 page_id: 53939
 namespace: 6
 revision_id: 292624

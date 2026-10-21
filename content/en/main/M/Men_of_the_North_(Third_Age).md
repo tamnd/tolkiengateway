@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northmen"
 ---
 
-Redirect to [Northmen](/wiki/Northmen).
+Redirect to [Northmen](../N/Northmen.md).

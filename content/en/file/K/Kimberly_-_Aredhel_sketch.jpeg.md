@@ -1,6 +1,5 @@
 ---
 title: "File:Kimberly - Aredhel sketch.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kimberly - Aredhel sketch.jpeg</span>"
 page_id: 52696
 namespace: 6
 revision_id: 286581
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Kimberly</li>
 <li><b>Website:</b> <a class="external text" href="http://kimberly80.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Kimberly" title="Tolkien Gateway:Copyrights/Kimberly">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKimberly.md" title="Tolkien Gateway:Copyrights/Kimberly">Permission for use on Tolkien Gateway</a></b></li></ul></div>

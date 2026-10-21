@@ -1,6 +1,5 @@
 ---
 title: "Category:VIC-20 games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">VIC-20 games</span>"
 page_id: 48871
 namespace: 14
 revision_id: 261969

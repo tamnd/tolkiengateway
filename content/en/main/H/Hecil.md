@@ -13,4 +13,4 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>hecil</b></i> is a [Quenya](/wiki/Quenya) word meaning *abandoned one*, *outcast*. See prefixes *[hehta-](/wiki/Hehta- "Hehta-")* and *[avarta-](/wiki/Avarta- "Avarta-")*. Compare with [Sindarin](/wiki/Sindarin) *[awarth](/wiki/Awarth "Awarth")/[awartha-](/wiki/Awartha- "Awartha-")*.
+<i><b>hecil</b></i> is a [Quenya](../Q/Quenya.md) word meaning *abandoned one*, *outcast*. See prefixes *[hehta-](Hehta-.md)* and *[avarta-](../A/Avarta-.md)*. Compare with [Sindarin](../S/Sindarin.md) *[awarth](../A/Awarth.md)/[awartha-](../A/Awartha-.md)*.

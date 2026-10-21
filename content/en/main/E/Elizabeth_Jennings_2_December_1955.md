@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Elizabeth Jennings"
 ---
 
-Redirect to [Letter to Elizabeth Jennings](/wiki/Letter_to_Elizabeth_Jennings).
+Redirect to [Letter to Elizabeth Jennings](../L/Letter_to_Elizabeth_Jennings.md).

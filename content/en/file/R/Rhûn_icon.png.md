@@ -1,6 +1,5 @@
 ---
 title: "File:Rhûn icon.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rhûn icon.png</span>"
 page_id: 70201
 namespace: 6
 revision_id: 434550
@@ -25,7 +24,7 @@ file:
   user: "General Rizoto"
 ---
 
-## Emblem of the Kingdom of [Rhûn](/wiki/Rh%C3%BBn), one of the many lands of the [Easterlings](/wiki/Easterlings) east of the [Sea of Rhûn](/wiki/Sea_of_Rh%C3%BBn). {#Emblem_of_the_Kingdom_of_Rhûn,_one_of_the_many_lands_of_the_Easterlings_east_of_the_Sea_of_Rhûn.}
+## Emblem of the Kingdom of [Rhûn](../../main/R/Rhûn.md), one of the many lands of the [Easterlings](../../main/E/Easterlings.md) east of the [Sea of Rhûn](../../main/S/Sea_of_Rhûn.md). {#Emblem_of_the_Kingdom_of_Rhûn,_one_of_the_many_lands_of_the_Easterlings_east_of_the_Sea_of_Rhûn.}
 
 ## Summary {#Summary}
 
@@ -41,8 +40,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2022-05-30</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Aratan Isildurion</td>
@@ -51,7 +48,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/File:Rh%C3%BBn_znak.png" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

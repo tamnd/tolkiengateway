@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Warren Lewis"
 ---
 
-Redirect to [Warren Lewis](/wiki/Warren_Lewis).
+Redirect to [Warren Lewis](Warren_Lewis.md).

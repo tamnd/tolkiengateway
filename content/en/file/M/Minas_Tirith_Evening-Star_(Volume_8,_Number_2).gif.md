@@ -1,6 +1,5 @@
 ---
 title: "File:Minas Tirith Evening-Star (Volume 8, Number 2).gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Minas Tirith Evening-Star (Volume 8, Number 2).gif</span>"
 page_id: 25300
 namespace: 6
 revision_id: 232452

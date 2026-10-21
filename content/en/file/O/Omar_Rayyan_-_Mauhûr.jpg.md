@@ -1,6 +1,5 @@
 ---
 title: "File:Omar Rayyan - Mauhûr.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Omar Rayyan - Mauhûr.jpg</span>"
 page_id: 29813
 namespace: 6
 revision_id: 437300
@@ -36,27 +35,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Omar Rayyan - Mauhûr.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Mauh%C3%BAr" title="Mauhúr">Mauhûr</a> <small>[sic]</small></i>. 
-Created for <a href="/wiki/Middle-earth:_Against_the_Shadow" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/M/Mauhúr.md" title="Mauhúr">Mauhûr</a> <small>[sic]</small></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Omar_Rayyan" title="Omar Rayyan">Omar Rayyan</a></td>
+<td><a href="../../main/O/Omar_Rayyan.md" title="Omar Rayyan">Omar Rayyan</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

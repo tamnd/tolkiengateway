@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gandalf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gandalf.png</span>"
 page_id: 71479
 namespace: 6
 revision_id: 427031
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gandalf](/wiki/Gandalf)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[Gandalf](../../main/G/Gandalf.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

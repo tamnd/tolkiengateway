@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Przemysław Mroczkowski"
 ---
 
-Redirect to [Przemysław Mroczkowski](/wiki/Przemysław_Mroczkowski).
+Redirect to [Przemysław Mroczkowski](Przemysław_Mroczkowski.md).

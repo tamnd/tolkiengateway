@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atanatar II"
 ---
 
-Redirect to [Atanatar II](/wiki/Atanatar_II).
+Redirect to [Atanatar II](Atanatar_II.md).

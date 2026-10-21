@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tea"
 ---
 
-Redirect to [Tea](/wiki/Tea).
+Redirect to [Tea](Tea.md).

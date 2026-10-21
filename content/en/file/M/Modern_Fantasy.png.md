@@ -1,6 +1,5 @@
 ---
 title: "File:Modern Fantasy.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Modern Fantasy.png</span>"
 page_id: 38079
 namespace: 6
 revision_id: 214549

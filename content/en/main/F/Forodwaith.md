@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forodwaith (disambiguation)"
 ---
 
-Redirect to [Forodwaith (disambiguation)](/wiki/Forodwaith_(disambiguation)).
+Redirect to [Forodwaith (disambiguation)](<Forodwaith_(disambiguation).md>).

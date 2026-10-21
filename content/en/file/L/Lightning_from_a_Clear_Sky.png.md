@@ -1,6 +1,5 @@
 ---
 title: "File:Lightning from a Clear Sky.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lightning from a Clear Sky.png</span>"
 page_id: 40978
 namespace: 6
 revision_id: 214528

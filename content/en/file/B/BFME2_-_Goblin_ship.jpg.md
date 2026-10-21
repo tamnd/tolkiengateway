@@ -1,6 +1,5 @@
 ---
 title: "File:BFME2 - Goblin ship.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">BFME2 - Goblin ship.jpg</span>"
 page_id: 12946
 namespace: 6
 revision_id: 231608

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dawnless Day"
 ---
 
-Redirect to [Dawnless Day](/wiki/Dawnless_Day).
+Redirect to [Dawnless Day](Dawnless_Day.md).

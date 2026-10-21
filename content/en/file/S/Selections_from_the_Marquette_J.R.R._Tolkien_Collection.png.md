@@ -1,6 +1,5 @@
 ---
 title: "File:Selections from the Marquette J.R.R. Tolkien Collection.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Selections from the Marquette J.R.R. Tolkien Collection.png</span>"
 page_id: 36635
 namespace: 6
 revision_id: 214602

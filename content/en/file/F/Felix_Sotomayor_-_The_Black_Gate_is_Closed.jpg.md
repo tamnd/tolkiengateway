@@ -1,6 +1,5 @@
 ---
 title: "File:Felix Sotomayor - The Black Gate is Closed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Felix Sotomayor - The Black Gate is Closed.jpg</span>"
 page_id: 6416
 namespace: 6
 revision_id: 228020
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Felix Sotomayor</li>
 <li><b>Website:</b> <a class="external text" href="http://www.sotomayorilustracion.blogspot.com/" rel="noreferrer noopener" target="_blank">Felix Sotomayor&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Felix_Sotomayor" title="Tolkien Gateway:Copyrights/Felix Sotomayor">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFelix_Sotomayor.md" title="Tolkien Gateway:Copyrights/Felix Sotomayor">Permission for use on Tolkien Gateway</a></b></li></ul></div>

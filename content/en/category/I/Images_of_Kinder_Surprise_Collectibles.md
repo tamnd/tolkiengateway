@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Kinder Surprise Collectibles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Kinder Surprise Collectibles</span>"
 page_id: 67717
 namespace: 14
 revision_id: 415579

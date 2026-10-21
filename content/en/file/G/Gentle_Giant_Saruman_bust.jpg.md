@@ -1,6 +1,5 @@
 ---
 title: "File:Gentle Giant Saruman bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gentle Giant Saruman bust.jpg</span>"
 page_id: 10946
 namespace: 6
 revision_id: 191143

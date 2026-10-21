@@ -11,4 +11,4 @@ redirect_target: "Cotton family"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Cotton family](/wiki/Cotton_family#Etymology).
+Redirect to [Cotton family](../C/Cotton_family.md#Etymology).

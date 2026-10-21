@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Cotman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Cotman.jpg</span>"
 page_id: 30118
 namespace: 6
 revision_id: 203314
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Cotman](/wiki/Cotman). Art by [Liz Danforth](/wiki/Liz_Danforth) for R. Mark Colburn, [Peter C. Fenlon](/wiki/Pete_Fenlon "Pete Fenlon"), [John D. Ruemmler](/wiki/John_D._Ruemmler), [Terry K. Amthor](/wiki/Terry_Kevin_Amthor "Terry Kevin Amthor"), [Jessica M. Ney](/wiki/Jessica_M._Ney-Grimm "Jessica M. Ney-Grimm"), *[Lords of Middle-earth Vol III: Hobbits, Dwarves, Ents, Orcs &amp; Trolls](/wiki/Lords_of_Middle-earth:_Vol._III "Lords of Middle-earth: Vol. III")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #8004, 1989)
+[Cotman](../../main/C/Cotman.md). Art by [Liz Danforth](../../main/L/Liz_Danforth.md) for R. Mark Colburn, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), [John D. Ruemmler](../../main/J/John_D._Ruemmler.md), [Terry K. Amthor](../../main/T/Terry_Kevin_Amthor.md), [Jessica M. Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Lords of Middle-earth Vol III: Hobbits, Dwarves, Ents, Orcs &amp; Trolls](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #8004, 1989)
 
 <br>
 

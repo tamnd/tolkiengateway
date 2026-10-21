@@ -1,6 +1,5 @@
 ---
 title: "Middle-earth Enterprises/Copyrights"
-display_title: "<span class=\"mw-page-title-main\">Middle-earth Enterprises/Copyrights</span>"
 page_id: 10134
 namespace: 0
 revision_id: 429806
@@ -13,9 +12,9 @@ categories:
   - "Copyright"
 ---
 
-**Middle-earth Enterprises** (formerly **Tolkien Enterprises**) is a company which has the world-wide adaptation and merchandising rights to *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and *[The Hobbit](/wiki/The_Hobbit)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Middle-earth Enterprises** (formerly **Tolkien Enterprises**) is a company which has the world-wide adaptation and merchandising rights to *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-On the website was formerly listed the **names, characters, locations, events, and objects from Tolkien's over which Middle-earth Enterprises claimed copyright**. Below is the list from [2003](/wiki/2003).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+On the website was formerly listed the **names, characters, locations, events, and objects from Tolkien's over which Middle-earth Enterprises claimed copyright**. Below is the list from [2003](../_/2003.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Names/characters {#Names/characters}
 
@@ -366,20 +365,20 @@ On the website was formerly listed the **names, characters, locations, events, a
 
 ## See also {#See_also}
 
-- [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises)
-- [Licensing](/wiki/Licensing)
+- [Middle-earth Enterprises](Middle-earth_Enterprises.md)
+- [Licensing](../L/Licensing.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.middleearth.com/about.html" rel="noreferrer noopener" target="_blank">&#34;About&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.middleearth.com/about.html" rel="noreferrer noopener" target="_blank">Middle-earth Enterpises</a></span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.middleearth.com/about.html" rel="noreferrer noopener" target="_blank">&#34;About&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.middleearth.com/about.html" rel="noreferrer noopener" target="_blank">Middle-earth Enterpises</a></span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002233005/http://tolkien-ent.com/new/names.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Characters&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002233005/http://tolkien-ent.com/new/names.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Characters&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002233358/http://tolkien-ent.com/new/places.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Places&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002233358/http://tolkien-ent.com/new/places.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Places&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002025241/http://tolkien-ent.com/new/things.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Things &amp; Events&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://web.archive.org/web/20031002025241/http://tolkien-ent.com/new/things.html" rel="noreferrer noopener" target="_blank">&#34;Tolkien Fanciful Names - Things &amp; Events&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://web.archive.org/web/20031001223313/http://www.tolkien-ent.com/new/index.html" rel="noreferrer noopener" target="_blank">Tolkien Enterprises</a> (via <a class="external text" href="http://www.archive.org" rel="noreferrer noopener" target="_blank">Archive.org</a>)</span>. <span class="cite-web-accessed">Retrieved 21 June 2014</span></cite></span>
 </li>
 </ol></div>

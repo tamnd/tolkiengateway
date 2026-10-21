@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Sketch of cleft in the mountains.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Sketch of cleft in the mountains.jpeg</span>"
 page_id: 71495
 namespace: 6
 revision_id: 426284
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch of a cleft in the mountains by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Sketch of a cleft in the mountains by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

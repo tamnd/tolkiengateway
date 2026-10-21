@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik & Nicola-Claire Lydon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik &amp; Nicola-Claire Lydon.jpg</span>"
 page_id: 71116
 namespace: 6
 revision_id: 424655
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photo of [Peter Pracownik](/wiki/Peter_Pracownik) and Nicola-Claire Lydon - Source: <a class="external text" href="https://web.archive.org/web/20120912204954/http://www.peterpracownik.com/pages/news.htm" rel="noreferrer noopener" target="_blank">News &amp; Live Events for Peter Pracownik &amp; Another Green World</a>
+Photo of [Peter Pracownik](../../main/P/Peter_Pracownik.md) and Nicola-Claire Lydon - Source: <a class="external text" href="https://web.archive.org/web/20120912204954/http://www.peterpracownik.com/pages/news.htm" rel="noreferrer noopener" target="_blank">News &amp; Live Events for Peter Pracownik &amp; Another Green World</a>
 
 ## Licensing {#Licensing}
 

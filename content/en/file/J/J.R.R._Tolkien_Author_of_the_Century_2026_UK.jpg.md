@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien Author of the Century 2026 UK.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien Author of the Century 2026 UK.jpg</span>"
 page_id: 75066
 namespace: 6
 revision_id: 441898

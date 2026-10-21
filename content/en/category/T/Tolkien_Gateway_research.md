@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien Gateway research"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Gateway research</span>"
 page_id: 26413
 namespace: 14
 revision_id: 407704
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-**Tolkien Gateway research** is a category which collects pages and categories on research, compilation, etc., relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) conducted by the users of Tolkien Gateway.
+**Tolkien Gateway research** is a category which collects pages and categories on research, compilation, etc., relating to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) conducted by the users of Tolkien Gateway.

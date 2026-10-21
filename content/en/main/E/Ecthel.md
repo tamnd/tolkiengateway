@@ -13,13 +13,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ecthel</b></i> is a noun meaning "spear point" in [Sindarin](/wiki/Sindarin). Compare *[aeg](/wiki/Aeg "Aeg")*, "point"
+<i><b>ecthel</b></i> is a noun meaning "spear point" in [Sindarin](../S/Sindarin.md). Compare *[aeg](../A/Aeg.md)*, "point"
 
 Example:
 
-- [Ecthelion](/wiki/Ecthelion) = "Unwavering Spear"
+- [Ecthelion](Ecthelion.md) = "Unwavering Spear"
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

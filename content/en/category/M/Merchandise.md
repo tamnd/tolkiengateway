@@ -1,6 +1,5 @@
 ---
 title: "Category:Merchandise"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Merchandise</span>"
 page_id: 22745
 namespace: 14
 revision_id: 88784
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-**Merchandise** of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*
+**Merchandise** of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*

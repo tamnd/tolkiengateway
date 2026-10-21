@@ -1,6 +1,5 @@
 ---
 title: "Jill Thwaites"
-display_title: "<span class=\"mw-page-title-main\">Jill Thwaites</span>"
 page_id: 11626
 namespace: 0
 revision_id: 116663
@@ -21,4 +20,4 @@ sort_keys:
   "People by name": "Thwaites, Jill"
 ---
 
-**Jill Thwaites** is a British artist currently living in the United States. She has contributed artwork to [*Amon Hen*](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)") and [*Mallorn*](</wiki/Mallorn_(journal)> "Mallorn (journal)"), and had her work displayed at [Tolkien 2005](/wiki/Tolkien_2005) and [Oxonmoot](/wiki/Oxonmoot).
+**Jill Thwaites** is a British artist currently living in the United States. She has contributed artwork to [*Amon Hen*](<../A/Amon_Hen_(journal).md>) and [*Mallorn*](<../M/Mallorn_(journal).md>), and had her work displayed at [Tolkien 2005](../T/Tolkien_2005.md) and [Oxonmoot](../O/Oxonmoot.md).

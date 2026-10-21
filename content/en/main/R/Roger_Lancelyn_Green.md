@@ -1,6 +1,5 @@
 ---
 title: "Roger Lancelyn Green"
-display_title: "<span class=\"mw-page-title-main\">Roger Lancelyn Green</span>"
 page_id: 9284
 namespace: 0
 revision_id: 407124
@@ -26,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Roger_Lancelyn_Green"
 ---
 
-**Roger Lancelyn Green** ([2 November](/wiki/2_November) [1918](/wiki/1918) – [8 October](/wiki/8_October) [1987](/wiki/1987)) was a friend of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). He was also successful as a biographer, producing work on [C.S. Lewis](/wiki/C.S._Lewis) (his teacher at the [University of Oxford](/wiki/University_of_Oxford)), [Lewis Carroll](/wiki/Lewis_Carroll) and Hans Christian Andersen. He also wrote various children's stories himself; these were mainly retellings of Norse, Greek and Egyptian myths, and the Arthur and Robin Hood epics.
+**Roger Lancelyn Green** ([2 November](../_/2_November.md) [1918](../_/1918.md) – [8 October](../_/8_October.md) [1987](../_/1987.md)) was a friend of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). He was also successful as a biographer, producing work on [C.S. Lewis](../C/C.S._Lewis.md) (his teacher at the [University of Oxford](../U/University_of_Oxford.md)), [Lewis Carroll](../L/Lewis_Carroll.md) and Hans Christian Andersen. He also wrote various children's stories himself; these were mainly retellings of Norse, Greek and Egyptian myths, and the Arthur and Robin Hood epics.
 
 He was also an actor, founder of the Lewis Carroll Society, and Deputy Librarian at Oxford.
 
@@ -34,23 +33,23 @@ He was also an actor, founder of the Lewis Carroll Society, and Deputy Librarian
 
 ### Books {#Books}
 
-- [1974](/wiki/1974): *[C.S. Lewis: A Biography](</wiki/C.S._Lewis:_A_Biography_(1974_book)> "C.S. Lewis: A Biography (1974 book)")* (with Walter Hooper)
+- [1974](../_/1974.md): *[C.S. Lewis: A Biography](<../C/C.S._Lewis%253A_A_Biography_(1974_book).md>)* (with Walter Hooper)
 
 ### Articles {#Articles}
 
-- [1980](/wiki/1980): [*Amon Hen* 44](/wiki/Amon_Hen_44 "Amon Hen 44")
+- [1980](../_/1980.md): [*Amon Hen* 44](../A/Amon_Hen_44.md)
     - "Recollections of Tolkien"
 
 ## Awards {#Awards}
 
-- [1971](/wiki/1971) - **[Mythopoeic Award](/wiki/Mythopoeic_Society "Mythopoeic Society")**, Mythopoeic Scholarship Award for Inklings Studies, *[C.S. Lewis: A Biography](</wiki/C.S._Lewis:_A_Biography_(1974_book)> "C.S. Lewis: A Biography (1974 book)")*
+- [1971](../_/1971.md) - **[Mythopoeic Award](../M/Mythopoeic_Society.md)**, Mythopoeic Scholarship Award for Inklings Studies, *[C.S. Lewis: A Biography](<../C/C.S._Lewis%253A_A_Biography_(1974_book).md>)*
 
 ## See also {#See_also}
 
-- [Letter 299](/wiki/Letter_299)
-- [Letter 319](/wiki/Letter_319)
-- [Letter 319a](/wiki/Letter_319a)
-- [Letter 325](/wiki/Letter_325)
+- [Letter 299](../L/Letter_299.md)
+- [Letter 319](../L/Letter_319.md)
+- [Letter 319a](../L/Letter_319a.md)
+- [Letter 325](../L/Letter_325.md)
 
 ## External links {#External_links}
 

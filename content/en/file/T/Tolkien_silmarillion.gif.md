@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien silmarillion.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien silmarillion.gif</span>"
 page_id: 26082
 namespace: 6
 revision_id: 214470

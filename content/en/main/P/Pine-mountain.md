@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orod-na-Thôn"
 ---
 
-Redirect to [Orod-na-Thôn](/wiki/Orod-na-Thôn).
+Redirect to [Orod-na-Thôn](../O/Orod-na-Thôn.md).

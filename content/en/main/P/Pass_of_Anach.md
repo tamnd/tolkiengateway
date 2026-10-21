@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anach"
 ---
 
-Redirect to [Anach](/wiki/Anach).
+Redirect to [Anach](../A/Anach.md).

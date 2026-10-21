@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings SV 1999.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings SV 1999.jpeg</span>"
 page_id: 67083
 namespace: 6
 revision_id: 389277

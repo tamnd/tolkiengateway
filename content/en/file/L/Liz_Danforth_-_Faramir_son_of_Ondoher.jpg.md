@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Faramir son of Ondoher.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Faramir son of Ondoher.jpg</span>"
 page_id: 50946
 namespace: 6
 revision_id: 276551

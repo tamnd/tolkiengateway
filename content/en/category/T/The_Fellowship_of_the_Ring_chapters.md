@@ -15,4 +15,4 @@ sort_keys:
   "The Lord of the Rings chapters": "Fellowship of the Ring chapters"
 ---
 
-<dl><dd><i>Chapters of </i><b><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></b></dd></dl>
+<dl><dd><i>Chapters of </i><b><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></b></dd></dl>

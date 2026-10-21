@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven cloaks"
 ---
 
-Redirect to [Elven cloaks](/wiki/Elven_cloaks).
+Redirect to [Elven cloaks](Elven_cloaks.md).

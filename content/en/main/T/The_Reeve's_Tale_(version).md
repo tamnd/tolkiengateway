@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Reeve's Tale"
 ---
 
-Redirect to [The Reeve's Tale](/wiki/The_Reeve's_Tale).
+Redirect to [The Reeve's Tale](The_Reeve's_Tale.md).

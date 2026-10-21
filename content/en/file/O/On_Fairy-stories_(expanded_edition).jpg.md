@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Tolkien On Fairy-stories.jpg"
 ---
 
-Redirect to [File:Tolkien On Fairy-stories.jpg](/wiki/File:Tolkien_On_Fairy-stories.jpg).
+Redirect to [File:Tolkien On Fairy-stories.jpg](../T/Tolkien_On_Fairy-stories.jpg.md).

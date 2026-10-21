@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1967 film) - Title card.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1967 film) - Title card.png</span>"
 page_id: 38178
 namespace: 6
 revision_id: 389772

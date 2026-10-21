@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palantír Quest"
 ---
 
-Redirect to [Palantír Quest](/wiki/Palantír_Quest).
+Redirect to [Palantír Quest](../P/Palantír_Quest.md).

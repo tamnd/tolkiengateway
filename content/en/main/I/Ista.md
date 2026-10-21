@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ista-"
 ---
 
-Redirect to [Ista-](/wiki/Ista-).
+Redirect to [Ista-](Ista-.md).

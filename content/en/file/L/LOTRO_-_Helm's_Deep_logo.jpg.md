@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Helm's Deep logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Helm&#039;s Deep logo.jpg</span>"
 page_id: 62074
 namespace: 6
 revision_id: 362977
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Helm's Deep](/wiki/The_Lord_of_the_Rings_Online:_Helm%27s_Deep)*.
+Logo for *[The Lord of the Rings Online: Helm's Deep](../../main/T/The_Lord_of_the_Rings_Online%253A_Helm's_Deep.md)*.
 
 ## Licensing {#Licensing}
 

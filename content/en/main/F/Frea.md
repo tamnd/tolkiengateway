@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fréa"
 ---
 
-Redirect to [Fréa](/wiki/Fréa).
+Redirect to [Fréa](Fréa.md).

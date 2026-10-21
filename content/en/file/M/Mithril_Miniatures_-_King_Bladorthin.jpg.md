@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - King Bladorthin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - King Bladorthin.jpg</span>"
 page_id: 71202
 namespace: 6
 revision_id: 424900
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-King [Bladorthin](/wiki/Bladorthin) - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+King [Bladorthin](../../main/B/Bladorthin.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>Little is known of Bladorthin, except that he was a king in the region of Middle-earth somewhere between Erebor and the sea of Rhun. He lived before the coming of Smaug (2770TA) and his name suggests that he ruled in the open steppe lands, possibly at the confluence of the Celduin and Carnen rivers, a Northman outpost against the encroachments of the Easterlings.<br/>
@@ -39,7 +38,7 @@ This is the 114th release in the Gold Status Fellowship club and was February 20
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

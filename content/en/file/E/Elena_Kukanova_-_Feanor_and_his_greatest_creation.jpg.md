@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Feanor and his greatest creation.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Feanor and his greatest creation.jpg</span>"
 page_id: 64186
 namespace: 6
 revision_id: 366991
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

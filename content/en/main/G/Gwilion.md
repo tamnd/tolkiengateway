@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Velindo"
 ---
 
-Redirect to [Velindo](/wiki/Velindo).
+Redirect to [Velindo](../V/Velindo.md).

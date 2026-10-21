@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Olga Kalinichenko"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Olga Kalinichenko</span>"
 page_id: 61220
 namespace: 4
 revision_id: 344541
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kalinichenko, Olga"
 ---
 
-- Olga Kalinichenko has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Olga_Kalinichenko "Category:Images by Olga Kalinichenko") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Olga Kalinichenko has kindly granted her permission to use [her artwork](../../category/I/Images_by_Olga_Kalinichenko.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 January 2021
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

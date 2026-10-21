@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Heroes of Middle earth-Aragorn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Heroes of Middle earth-Aragorn.png</span>"
 page_id: 67159
 namespace: 6
 revision_id: 389954
@@ -25,7 +24,7 @@ file:
   user: "Γιάννης Ευαγγελίου"
 ---
 
-Aragorn as depicted in the videogame [The Lord of the Rings: Heroes of Middle-earth](/wiki/The_Lord_of_the_Rings:_Heroes_of_Middle-earth).
+Aragorn as depicted in the videogame [The Lord of the Rings: Heroes of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md).
 
 ## Licensing {#Licensing}
 

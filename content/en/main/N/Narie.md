@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nárië"
 ---
 
-Redirect to [Nárië](/wiki/Nárië).
+Redirect to [Nárië](Nárië.md).

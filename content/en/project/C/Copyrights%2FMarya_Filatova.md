@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Marya Filatova"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Marya Filatova</span>"
 page_id: 39098
 namespace: 4
 revision_id: 193166
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Filatova, Marya"
 ---
 
-- [Marya Filatova](/wiki/Marya_Filatova) has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Marya_Filatova "Category:Images by Marya Filatova") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Marya Filatova](../../main/M/Marya_Filatova.md) has kindly granted her permission to use [her artwork](../../category/I/Images_by_Marya_Filatova.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 April 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

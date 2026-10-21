@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle Days"
 ---
 
-Redirect to [Middle Days](/wiki/Middle_Days).
+Redirect to [Middle Days](Middle_Days.md).

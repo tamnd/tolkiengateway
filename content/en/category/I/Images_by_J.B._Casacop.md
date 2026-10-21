@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by J.B. Casacop"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by J.B. Casacop</span>"
 page_id: 74945
 namespace: 14
 revision_id: 441220
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Casacop, J.B."
 ---
 
-This category lists all **images by [J.B. Casacop](/wiki/J.B._Casacop)**.
+This category lists all **images by [J.B. Casacop](../../main/J/J.B._Casacop.md)**.

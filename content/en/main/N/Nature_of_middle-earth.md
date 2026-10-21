@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Nature of Middle-earth"
 ---
 
-Redirect to [The Nature of Middle-earth](/wiki/The_Nature_of_Middle-earth).
+Redirect to [The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md).

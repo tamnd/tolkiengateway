@@ -1,6 +1,5 @@
 ---
 title: "Category:Diaries"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Diaries</span>"
 page_id: 33597
 namespace: 14
 revision_id: 152129

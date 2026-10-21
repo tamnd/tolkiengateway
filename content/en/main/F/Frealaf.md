@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fréaláf"
 ---
 
-Redirect to [Fréaláf](/wiki/Fréaláf).
+Redirect to [Fréaláf](Fréaláf.md).

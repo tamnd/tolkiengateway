@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Maiden of Thranduil's Realm.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Maiden of Thranduil's Realm.jpg](/wiki/File:Ted_Nasmith_-_Maiden_of_Thranduil's_Realm.jpg).
+Redirect to [File:Ted Nasmith - Maiden of Thranduil's Realm.jpg](Ted_Nasmith_-_Maiden_of_Thranduil's_Realm.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guiðlin"
 ---
 
-Redirect to [Guiðlin](/wiki/Guiðlin).
+Redirect to [Guiðlin](Guiðlin.md).

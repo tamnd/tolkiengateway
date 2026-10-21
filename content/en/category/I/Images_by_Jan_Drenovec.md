@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jan Drenovec"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jan Drenovec</span>"
 page_id: 57012
 namespace: 14
 revision_id: 311973

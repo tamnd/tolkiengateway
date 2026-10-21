@@ -13,29 +13,29 @@ categories:
   - "Quenya nouns"
 ---
 
-**sundo** is a [Quenya](/wiki/Quenya) name meaning "base, root, root-word"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and refers to an [Elvish](/wiki/Elvish) consonantal "base".
+**sundo** is a [Quenya](../Q/Quenya.md) name meaning "base, root, root-word"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and refers to an [Elvish](../E/Elvish.md) consonantal "base".
 
 ## Etymology {#Etymology}
 
-From [PQ](/wiki/PQ) \**thundō*, [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=STUD&amp;action=edit&amp;redlink=1" title="STUD (page does not exist)">STUD</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+From [PQ](../P/PQ.md) \**thundō*, [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=STUD&amp;action=edit&amp;redlink=1" title="STUD (page does not exist)">STUD</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- [Sundocarme](/wiki/Sundocarme)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Sundocarme](Sundocarme.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## See also {#See_also}
 
-- [sunda](/wiki/Sunda "Sunda")
+- [sunda](Sunda.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry SUD (note that the root was changed to <a class="new" href="/w/index.php?title=STUD&amp;action=edit&amp;redlink=1" title="STUD (page does not exist)">STUD</a>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry SUD (note that the root was changed to <a class="new" href="https://tolkiengateway.net/w/index.php?title=STUD&amp;action=edit&amp;redlink=1" title="STUD (page does not exist)">STUD</a>)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_46" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004 p.16</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004 p.16</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Introduction to <a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Introduction to <a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a></span>
 </li>
 </ol></div>

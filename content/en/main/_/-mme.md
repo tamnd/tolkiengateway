@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-mmë"
 ---
 
-Redirect to [-mmë](/wiki/-mmë).
+Redirect to [-mmë](-mmë.md).

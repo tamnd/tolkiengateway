@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Jewels hc 2024.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Jewels hc 2024.jpg</span>"
 page_id: 68842
 namespace: 6
 revision_id: 410379

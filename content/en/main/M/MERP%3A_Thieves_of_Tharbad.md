@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thieves of Tharbad"
 ---
 
-Redirect to [Thieves of Tharbad](/wiki/Thieves_of_Tharbad).
+Redirect to [Thieves of Tharbad](../T/Thieves_of_Tharbad.md).

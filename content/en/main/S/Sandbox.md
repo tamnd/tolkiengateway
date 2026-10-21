@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Sandbox"
 ---
 
-Redirect to [Tolkien Gateway:Sandbox](/wiki/Tolkien_Gateway:Sandbox).
+Redirect to [Tolkien Gateway:Sandbox](../../project/S/Sandbox.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Anglo-Saxon Community in J.R.R. Tolkien's the Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anglo-Saxon Community in J.R.R. Tolkien&#039;s the Lord of the Rings.jpg</span>"
 page_id: 46476
 namespace: 6
 revision_id: 245394

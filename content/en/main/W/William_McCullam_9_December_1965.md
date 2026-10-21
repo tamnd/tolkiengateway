@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to William McCullam"
 ---
 
-Redirect to [Letter to William McCullam](/wiki/Letter_to_William_McCullam).
+Redirect to [Letter to William McCullam](../L/Letter_to_William_McCullam.md).

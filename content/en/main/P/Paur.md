@@ -16,46 +16,46 @@ categories:
 
 ## Sindarin {#Sindarin}
 
-<i><b>paur</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "fist", as in a hand clenched around a tool or implement. The [lenited](/wiki/Lenition "Lenition") form <i><b>baur</b></i> seems to be able to appear shortened to *-bor* (like in <i><a href="/wiki/Celebrimbor#Etymology" title="Celebrimbor">Celebrim<b>bor</b></a></i>).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+<i><b>paur</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "fist", as in a hand clenched around a tool or implement. The [lenited](../L/Lenition.md) form <i><b>baur</b></i> seems to be able to appear shortened to *-bor* (like in <i><a href="../C/Celebrimbor.md#Etymology" title="Celebrimbor">Celebrim<b>bor</b></a></i>).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ### Etymology {#Etymology}
 
-In a late manuscript, the word is a descendant form of [Primitive Quendian](/wiki/Primitive_Quendian) *[kwāră](/wiki/Kw%C4%81ra "Kwāra")*, deriving from [root](/wiki/Sundocarme "Sundocarme") [KWAR](/wiki/KWAR).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+In a late manuscript, the word is a descendant form of [Primitive Quendian](Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, deriving from [root](../S/Sundocarme.md) [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
-In an earlier manuscript, the word is a descendant form of [Primitive Quendian](/wiki/Primitive_Quendian) *[kwārē](/wiki/Kw%C4%81ra "Kwāra")* (deriving from the same root).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+In an earlier manuscript, the word is a descendant form of [Primitive Quendian](Primitive_Quendian.md) *[kwārē](../K/Kwāra.md)* (deriving from the same root).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ### Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[quár](/wiki/Qu%C3%A1r "Quár")*
-- [Telerin](/wiki/Telerin) *[pār](/wiki/P%C4%81r "Pār")*
+- [Quenya](../Q/Quenya.md) *[quár](../Q/Quár.md)*
+- [Telerin](../T/Telerin.md) *[pār](Pār.md)*
 
 ### See also {#See_also}
 
-- *[Celebrimbor](/wiki/Celebrimbor)*
-- <i><a class="new" href="/w/index.php?title=Tegilbor&amp;action=edit&amp;redlink=1" title="Tegilbor (page does not exist)">Tegilbor</a></i>
-- *[Ithilbor](/wiki/Ithilbor)*
+- *[Celebrimbor](../C/Celebrimbor.md)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tegilbor&amp;action=edit&amp;redlink=1" title="Tegilbor (page does not exist)">Tegilbor</a></i>
+- *[Ithilbor](../I/Ithilbor.md)*
 
 ## Noldorin {#Noldorin}
 
-<i><b>paur</b></i> (or *-bor*) is a [Noldorin](/wiki/Noldorin) word meaning "fist".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>paur</b></i> (or *-bor*) is a [Noldorin](../N/Noldorin.md) word meaning "fist".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Etymology {#Etymology_2}
 
-The word is a descendant form of [Old Noldorin](/wiki/Kornoldorin "Kornoldorin") *pōre*, deriving from [root](/wiki/Sundocarme "Sundocarme") [KWAR](/wiki/KWAR#Other_versions).<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+The word is a descendant form of [Old Noldorin](../K/Kornoldorin.md) *pōre*, deriving from [root](../S/Sundocarme.md) [KWAR](../K/KWAR.md#Other_versions).<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="/wiki/Of_Dwarves_and_Men" title="Of Dwarves and Men">Of Dwarves and Men</a>&#34;, p. 318 (note 7)</span>
+<li id="cite_note-PM-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PM_1-0">1.0</a></sup> <sup><a href="#cite_ref-PM_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a>&#34;, p. 318 (note 7)</span>
 </li>
-<li id="cite_note-VT-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_2-0">2.0</a></sup> <sup><a href="#cite_ref-VT_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp. 8, 22 (note 21)</span>
+<li id="cite_note-VT-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT_2-0">2.0</a></sup> <sup><a href="#cite_ref-VT_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part One&#34; (edited by <a href="Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, pp. 8, 22 (note 21)</span>
 </li>
-<li id="cite_note-PE17-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_3-0">3.0</a></sup> <sup><a href="#cite_ref-PE17_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 42, 158</span>
+<li id="cite_note-PE17-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_3-0">3.0</a></sup> <sup><a href="#cite_ref-PE17_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 42, 158</span>
 </li>
-<li id="cite_note-LR-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_4-0">4.0</a></sup> <sup><a href="#cite_ref-LR_4-1">4.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 366</span>
+<li id="cite_note-LR-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_4-0">4.0</a></sup> <sup><a href="#cite_ref-LR_4-1">4.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 366</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 24</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 24</span>
 </li>
 </ol></div>

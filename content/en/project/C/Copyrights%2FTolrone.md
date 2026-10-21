@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tolrone"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tolrone</span>"
 page_id: 57756
 namespace: 4
 revision_id: 317786
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolrone"
 ---
 
-- Tolrone has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Tolrone "Category:Images by Tolrone") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Tolrone has kindly granted their permission to use [their artwork](../../category/I/Images_by_Tolrone.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 12 August 2020
-- User who sought the permission via email: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via email: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

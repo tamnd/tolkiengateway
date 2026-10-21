@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Borimir's Sacrifice"
 ---
 
-Redirect to [Borimir's Sacrifice](/wiki/Borimir's_Sacrifice).
+Redirect to [Borimir's Sacrifice](Borimir's_Sacrifice.md).

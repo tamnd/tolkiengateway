@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Patricia Kirke (28 March 1956)"
 ---
 
-Redirect to [Letter to Patricia Kirke (28 March 1956)](/wiki/Letter_to_Patricia_Kirke_(28_March_1956)).
+Redirect to [Letter to Patricia Kirke (28 March 1956)](<Letter_to_Patricia_Kirke_(28_March_1956).md>).

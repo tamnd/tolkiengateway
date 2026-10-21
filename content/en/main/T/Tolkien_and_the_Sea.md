@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien, the Sea and Scandinavia"
 ---
 
-Redirect to [Tolkien, the Sea and Scandinavia](/wiki/Tolkien,_the_Sea_and_Scandinavia).
+Redirect to [Tolkien, the Sea and Scandinavia](Tolkien,_the_Sea_and_Scandinavia.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battles of Beleriand"
 ---
 
-Redirect to [Battles of Beleriand](/wiki/Battles_of_Beleriand).
+Redirect to [Battles of Beleriand](../B/Battles_of_Beleriand.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - poster.jpg</span>"
 page_id: 64574
 namespace: 6
 revision_id: 390180
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The Games Radar poster of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The Games Radar poster of *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ The Games Radar poster of *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1374824591319765006" rel="noreferrer noopener" target="_blank">&#34;Athletic and agile, sneaky and cunning. Gollum is driven by the desire to once again hold in his hands what he lost.<br/><br/>Get a new sneak peek at The Lord of the Rings™: Gollum™ tomorrow during @GamesRadar #FutureGamesShow!&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1374824591319765006" rel="noreferrer noopener" target="_blank">&#34;Athletic and agile, sneaky and cunning. Gollum is driven by the desire to once again hold in his hands what he lost.<br/><br/>Get a new sneak peek at The Lord of the Rings™: Gollum™ tomorrow during @GamesRadar #FutureGamesShow!&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

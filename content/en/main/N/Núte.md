@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nútë"
 ---
 
-Redirect to [Nútë](/wiki/Nútë).
+Redirect to [Nútë](Nútë.md).

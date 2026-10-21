@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Return of the King"
 ---
 
-Redirect to [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+Redirect to [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).

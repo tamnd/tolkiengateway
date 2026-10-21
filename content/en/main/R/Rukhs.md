@@ -11,4 +11,4 @@ redirect_target: "Orcs"
 redirect_fragment: "Orcs in Tolkien's languages"
 ---
 
-Redirect to [Orcs](/wiki/Orcs#Orcs_in_Tolkien's_languages).
+Redirect to [Orcs](../O/Orcs.md#Orcs_in_Tolkien's_languages).

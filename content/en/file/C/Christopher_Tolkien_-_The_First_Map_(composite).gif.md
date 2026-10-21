@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - The First Map (composite).gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - The First Map (composite).gif</span>"
 page_id: 16781
 namespace: 6
 revision_id: 270806
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Composite map of those included in "The First Map of The Lord of the Rings", *[The Treason of Isengard](/wiki/The_Treason_of_Isengard)*
+Composite map of those included in "The First Map of The Lord of the Rings", *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md)*
 
 ## Licensing {#Licensing}
 

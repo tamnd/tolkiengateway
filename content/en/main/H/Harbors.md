@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Harbours"
 ---
 
-Redirect to [Category:Harbours](/wiki/Category:Harbours).
+Redirect to [Category:Harbours](../../category/H/Harbours.md).

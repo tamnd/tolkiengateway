@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Guy Gavriel Kay"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Guy Gavriel Kay</span>"
 page_id: 43489
 namespace: 14
 revision_id: 229229
@@ -15,4 +14,4 @@ sort_keys:
   "Images of authors": "Kay, Guy Gavriel"
 ---
 
-Images of [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay).
+Images of [Guy Gavriel Kay](../../main/G/Guy_Gavriel_Kay.md).

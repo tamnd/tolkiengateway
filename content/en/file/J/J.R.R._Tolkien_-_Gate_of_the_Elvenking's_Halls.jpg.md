@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gate of the Elvenking's Halls.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gate of the Elvenking&#039;s Halls.jpg</span>"
 page_id: 71486
 namespace: 6
 revision_id: 430709
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Gate of the [Elvenking](/wiki/Thranduil "Thranduil")'s Halls" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Gate of the [Elvenking](../../main/T/Thranduil.md)'s Halls" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

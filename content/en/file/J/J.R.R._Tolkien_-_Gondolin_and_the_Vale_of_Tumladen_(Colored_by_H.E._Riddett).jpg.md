@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gondolin and the Vale of Tumladen (Colored by H.E. Riddett).jpg</span>"
 page_id: 5776
 namespace: 6
 revision_id: 434723
@@ -31,25 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Gondolin and the Vale of Tumladen (Colored by H.E. Riddett).jpg</span></th>
 <td class="description">
-<p>This coloured version originally by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in <a href="/wiki/File:J.R.R._Tolkien_-_Gondolin_and_the_Vale_of_Tumladen.jpg" title="File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen.jpg">black and white</a> is colored by <a href="/wiki/H.E._Riddett" title="H.E. Riddett">H.E. Riddett</a> and appeared in <a href="/wiki/The_Silmarillion_Calendar_1978" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
+<p>This coloured version originally by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in <a href="J.R.R._Tolkien_-_Gondolin_and_the_Vale_of_Tumladen.jpg.md" title="File:J.R.R. Tolkien - Gondolin and the Vale of Tumladen.jpg">black and white</a> is colored by <a href="../../main/H/H.E._Riddett.md" title="H.E. Riddett">H.E. Riddett</a> and appeared in <a href="../../main/T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
 </p>
 </td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Drawing</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
+<td><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

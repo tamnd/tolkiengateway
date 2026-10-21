@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leonid Korablev Calendar"
 ---
 
-Redirect to [Leonid Korablev Calendar](/wiki/Leonid_Korablev_Calendar).
+Redirect to [Leonid Korablev Calendar](Leonid_Korablev_Calendar.md).

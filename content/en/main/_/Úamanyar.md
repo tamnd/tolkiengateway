@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úmanyar"
 ---
 
-Redirect to [Úmanyar](/wiki/Úmanyar).
+Redirect to [Úmanyar](Úmanyar.md).

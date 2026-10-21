@@ -1,6 +1,5 @@
 ---
 title: "File:Companion and Guide ed2 v3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Companion and Guide ed2 v3.png</span>"
 page_id: 61744
 namespace: 6
 revision_id: 347945

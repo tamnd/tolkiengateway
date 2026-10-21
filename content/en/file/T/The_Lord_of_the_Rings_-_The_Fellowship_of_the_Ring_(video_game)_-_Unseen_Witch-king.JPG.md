@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Unseen Witch-king.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Unseen Witch-king.JPG</span>"
 page_id: 21621
 namespace: 6
 revision_id: 298607
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Witch-king](/wiki/Witch-king), as he is about to stab [Frodo Baggins](/wiki/Frodo_Baggins). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+The [Witch-king](../../main/W/Witch-king.md), as he is about to stab [Frodo Baggins](../../main/F/Frodo_Baggins.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Sméagol.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Sméagol.jpg</span>"
 page_id: 5736
 namespace: 6
 revision_id: 272604
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Andy Serkis](/wiki/Andy_Serkis) playing [Gollum](/wiki/Gollum) in *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. This scene is from the opening of the film when he takes [the One Ring](/wiki/The_One_Ring "The One Ring") for himself.
+[Andy Serkis](../../main/A/Andy_Serkis.md) playing [Gollum](../../main/G/Gollum.md) in *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. This scene is from the opening of the film when he takes [the One Ring](../../main/T/The_One_Ring.md) for himself.
 
 ## Licensing {#Licensing}
 

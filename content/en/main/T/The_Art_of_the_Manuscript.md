@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: The Art of the Manuscript"
 ---
 
-Redirect to [J.R.R. Tolkien: The Art of the Manuscript](/wiki/J.R.R._Tolkien:_The_Art_of_the_Manuscript).
+Redirect to [J.R.R. Tolkien: The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md).

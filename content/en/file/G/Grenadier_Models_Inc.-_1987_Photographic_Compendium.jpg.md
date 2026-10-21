@@ -1,6 +1,5 @@
 ---
 title: "File:Grenadier Models Inc.- 1987 Photographic Compendium.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grenadier Models Inc.- 1987 Photographic Compendium.jpg</span>"
 page_id: 26489
 namespace: 6
 revision_id: 248687

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin's hall"
 ---
 
-Redirect to [Thorin's hall](/wiki/Thorin's_hall).
+Redirect to [Thorin's hall](Thorin's_hall.md).

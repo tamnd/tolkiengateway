@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of locations by area"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of locations by area</span>"
 page_id: 39799
 namespace: 14
 revision_id: 198862

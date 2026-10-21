@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rigns War in the North - Farin&Eradan2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rigns War in the North - Farin&amp;Eradan2.jpg</span>"
 page_id: 37850
 namespace: 6
 revision_id: 182673

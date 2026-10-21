@@ -1,6 +1,5 @@
 ---
 title: "File:Ivan Ulicny - The Age of Númenor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ivan Ulicny - The Age of Númenor.jpg</span>"
 page_id: 17150
 namespace: 6
 revision_id: 207196
@@ -31,4 +30,4 @@ file:
 <p>This work is copyrighted and owned by Ivan Ulicny. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Ivan Ulicny</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ivan_Ulicny" title="Tolkien Gateway:Copyrights/Ivan Ulicny">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIvan_Ulicny.md" title="Tolkien Gateway:Copyrights/Ivan Ulicny">Permission for use on Tolkien Gateway</a></b></li></ul></div>

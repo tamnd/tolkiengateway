@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Catalogues"
 ---
 
-Redirect to [Category:Catalogues](/wiki/Category:Catalogues).
+Redirect to [Category:Catalogues](../../category/C/Catalogues.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Glen Michael Angus - Beorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Glen Michael Angus - Beorn.jpg</span>"
 page_id: 30880
 namespace: 6
 revision_id: 203149
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Beorn* by Glen Michael Angus, appearing in [John David Ruemmler](/wiki/John_David_Ruemmler), Susan Tyler Hitchcock, [Peter C. Fenlon](/wiki/Pete_Fenlon "Pete Fenlon"), *[Mirkwood (2nd edition)](</wiki/Mirkwood_(MERP)> "Mirkwood (MERP)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2019, 1995) .
+*Beorn* by Glen Michael Angus, appearing in [John David Ruemmler](../../main/J/John_David_Ruemmler.md), Susan Tyler Hitchcock, [Peter C. Fenlon](../../main/P/Pete_Fenlon.md), *[Mirkwood (2nd edition)](<../../main/M/Mirkwood_(MERP).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2019, 1995) .
 
 ## Licensing {#Licensing}
 

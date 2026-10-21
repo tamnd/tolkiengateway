@@ -1,6 +1,5 @@
 ---
 title: "File:Ted Nasmith - The Glittering Caves of Aglarond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ted Nasmith - The Glittering Caves of Aglarond.jpg</span>"
 page_id: 5934
 namespace: 6
 revision_id: 440983
@@ -36,18 +35,13 @@ file:
 <p>First appeared in the 1992 (Centenary) Tolkien Calendar, published by Grafton Books. (It was the painting for March.)
 </p><p>Also used on the cover of a new edition of The Tolkien Companion by J.E.A. Tyler.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>Also used for the card <i>Glittering Caves</i> of <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a>.
+</blockquote>Also used for the card <i>Glittering Caves</i> of <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a>.
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></td>
+<td><a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>
@@ -55,8 +49,8 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Ted Nasmith</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></li>
+<ul><li><b>Name:</b> <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.tednasmith.com/" rel="noreferrer noopener" target="_blank">Ted Nasmith&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ted_Nasmith" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTed_Nasmith.md" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>

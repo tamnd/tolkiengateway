@@ -1,6 +1,5 @@
 ---
 title: "File:Button sub link.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button sub link.png</span>"
 page_id: 28504
 namespace: 6
 revision_id: 168968

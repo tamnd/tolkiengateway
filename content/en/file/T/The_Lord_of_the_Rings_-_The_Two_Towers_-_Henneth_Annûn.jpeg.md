@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Henneth Annûn.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Henneth Annûn.jpeg</span>"
 page_id: 71691
 namespace: 6
 revision_id: 427344
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Henneth Annûn](/wiki/Henneth_Ann%C3%BBn) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *The Two Towers*
+[Henneth Annûn](../../main/H/Henneth_Annûn.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *The Two Towers*
 
 ## Licensing {#Licensing}
 

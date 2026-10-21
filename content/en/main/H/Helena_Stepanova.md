@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Helena Stepanova"
 ---
 
-Redirect to [Category:Images by Helena Stepanova](/wiki/Category:Images_by_Helena_Stepanova).
+Redirect to [Category:Images by Helena Stepanova](../../category/I/Images_by_Helena_Stepanova.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Easterlings (First Age)"
 ---
 
-Redirect to [Easterlings (First Age)](/wiki/Easterlings_(First_Age)).
+Redirect to [Easterlings (First Age)](<../E/Easterlings_(First_Age).md>).

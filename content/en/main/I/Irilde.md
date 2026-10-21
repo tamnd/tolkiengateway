@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Írildë"
 ---
 
-Redirect to [Írildë](/wiki/Írildë).
+Redirect to [Írildë](../_/Írildë.md).

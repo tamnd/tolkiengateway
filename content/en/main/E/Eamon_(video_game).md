@@ -19,25 +19,25 @@ categories:
 
 The following *Eamon* adventures are set in Middle-earth or are based largely on Tolkien works.
 
-By [Sam Ruby](/wiki/Sam_Ruby):
+By [Sam Ruby](../S/Sam_Ruby.md):
 
-- <i><b><a href="/wiki/The_Mines_of_Moria_(video_game)" title="The Mines of Moria (video game)">The Mines of Moria</a></b></i>, August [1985](/wiki/1985)
-- <i><b><a href="/wiki/The_Forest_of_Fear" title="The Forest of Fear">The Forest of Fear</a></b></i>, August [1985](/wiki/1985)
-- <i><b><a href="/wiki/The_Iron_Prison" title="The Iron Prison">The Iron Prison</a></b></i>, June [1986](/wiki/1986)
-- <i><b><a href="/wiki/The_Ring_of_Doom_(video_game)" title="The Ring of Doom (video game)">The Ring of Doom</a></b></i>, June [1986](/wiki/1986)
-- <i><b><a href="/wiki/Haradwaith_(video_game)" title="Haradwaith (video game)">Haradwaith</a></b></i>, January [1987](/wiki/1987)
-- <i><b><a href="/wiki/The_Hunt_for_the_Ring_(video_game)" title="The Hunt for the Ring (video game)">The Hunt for the Ring</a></b></i>, January [1987](/wiki/1987)
-- <i><b><a href="/wiki/Return_to_Moria" title="Return to Moria">Return to Moria</a></b></i>, January [1987](/wiki/1987)
-- <i><b><a href="/wiki/Quest_of_Erebor_(video_game)" title="Quest of Erebor (video game)">Quest of Erebor</a></b></i>, January [1987](/wiki/1987)
+- <i><b><a href="../T/The_Mines_of_Moria_(video_game).md" title="The Mines of Moria (video game)">The Mines of Moria</a></b></i>, August [1985](../_/1985.md)
+- <i><b><a href="../T/The_Forest_of_Fear.md" title="The Forest of Fear">The Forest of Fear</a></b></i>, August [1985](../_/1985.md)
+- <i><b><a href="../T/The_Iron_Prison.md" title="The Iron Prison">The Iron Prison</a></b></i>, June [1986](../_/1986.md)
+- <i><b><a href="../T/The_Ring_of_Doom_(video_game).md" title="The Ring of Doom (video game)">The Ring of Doom</a></b></i>, June [1986](../_/1986.md)
+- <i><b><a href="../H/Haradwaith_(video_game).md" title="Haradwaith (video game)">Haradwaith</a></b></i>, January [1987](../_/1987.md)
+- <i><b><a href="../T/The_Hunt_for_the_Ring_(video_game).md" title="The Hunt for the Ring (video game)">The Hunt for the Ring</a></b></i>, January [1987](../_/1987.md)
+- <i><b><a href="../R/Return_to_Moria.md" title="Return to Moria">Return to Moria</a></b></i>, January [1987](../_/1987.md)
+- <i><b><a href="../Q/Quest_of_Erebor_(video_game).md" title="Quest of Erebor (video game)">Quest of Erebor</a></b></i>, January [1987](../_/1987.md)
 
-By [Tom Zuchowski](/wiki/Tom_Zuchowski):
+By [Tom Zuchowski](../T/Tom_Zuchowski.md):
 
-- <i><b><a href="/wiki/Thror%27s_Ring" title="Thror&#39;s Ring">Thror&#39;s Ring</a></b></i>, October [1985](/wiki/1985)
-- <i><b><a href="/wiki/Assault_on_Dolni_Keep" title="Assault on Dolni Keep">Assault on Dolni Keep</a></b></i>, January [1987](/wiki/1987)
+- <i><b><a href="../T/Thror&#39;s_Ring.md" title="Thror&#39;s Ring">Thror&#39;s Ring</a></b></i>, October [1985](../_/1985.md)
+- <i><b><a href="../A/Assault_on_Dolni_Keep.md" title="Assault on Dolni Keep">Assault on Dolni Keep</a></b></i>, January [1987](../_/1987.md)
 
-By [Nathan Segerlind](/wiki/Nathan_Segerlind):
+By [Nathan Segerlind](../N/Nathan_Segerlind.md):
 
-- <i><b><a href="/wiki/The_Bridge_of_Catzad-Dum" title="The Bridge of Catzad-Dum">The Bridge of Catzad-Dum</a></b></i>, September [1988](/wiki/1988)
+- <i><b><a href="../T/The_Bridge_of_Catzad-Dum.md" title="The Bridge of Catzad-Dum">The Bridge of Catzad-Dum</a></b></i>, September [1988](../_/1988.md)
 
 ## External links {#External_links}
 

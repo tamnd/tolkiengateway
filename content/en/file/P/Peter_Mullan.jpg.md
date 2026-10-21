@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Mullan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Mullan.jpg</span>"
 page_id: 63723
 namespace: 6
 revision_id: 434546
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.alamy.com/london-uk-peter-mullan-at-the-uk-premiere-of-war-horse-at-the-odeon-leicester-square-london-8th-january-2012-keith-mayhewlandmark-media-reflmk73-32055-090112-no-website-without-prior-arrangement-image447291035.html?imageid=73B5EB01-68BF-4520-BCDA-2604966A1791&amp;pn=1&amp;searchId=0191903dd1feccbb18053181a6b1820e&amp;searchtype=0" rel="noreferrer noopener" target="_blank">Alamy</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

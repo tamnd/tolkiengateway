@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Steven White Jr. - Belfalas.png"
 ---
 
-Redirect to [File:Steven White Jr. - Belfalas.png](/wiki/File:Steven_White_Jr._-_Belfalas.png).
+Redirect to [File:Steven White Jr. - Belfalas.png](../S/Steven_White_Jr._-_Belfalas.png.md).

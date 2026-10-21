@@ -1,6 +1,5 @@
 ---
 title: "File:G.H. Cowling.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">G.H. Cowling.png</span>"
 page_id: 37014
 namespace: 6
 revision_id: 179844
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> University of Melbourne Archives</li>
 <li><b>Website:</b> <a class="external text" href="http://www.lib.unimelb.edu.au/collections/archives/" rel="noreferrer noopener" target="_blank">University of Melbourne Archives</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/University_of_Melbourne_Archives" title="Tolkien Gateway:Copyrights/University of Melbourne Archives">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FUniversity_of_Melbourne_Archives.md" title="Tolkien Gateway:Copyrights/University of Melbourne Archives">Permission for use on Tolkien Gateway</a></b></li></ul></div>

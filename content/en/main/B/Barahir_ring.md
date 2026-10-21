@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Barahir"
 ---
 
-Redirect to [Ring of Barahir](/wiki/Ring_of_Barahir).
+Redirect to [Ring of Barahir](../R/Ring_of_Barahir.md).

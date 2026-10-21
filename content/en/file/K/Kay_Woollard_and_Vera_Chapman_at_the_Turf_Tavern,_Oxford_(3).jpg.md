@@ -1,6 +1,5 @@
 ---
 title: "File:Kay Woollard and Vera Chapman at the Turf Tavern, Oxford (3).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kay Woollard and Vera Chapman at the Turf Tavern, Oxford (3).jpg</span>"
 page_id: 63523
 namespace: 6
 revision_id: 363979
@@ -25,4 +24,4 @@ file:
 
 ## Summary {#Summary}
 
-Kay is seen here with [Vera Chapman](/wiki/Vera_Chapman), the Founder of the [Tolkien Society](/wiki/Tolkien_Society). They were good friends and Kay illustrated some of Vera's stories for *[Weathertop](</wiki/Weathertop_(journal)> "Weathertop (journal)")*, Amon Sûl Smial's magazine. The photo was taken in the early 1980s at the beginning of the [Oxonmoot](/wiki/Oxonmoot) weekend at the Turf Tavern, the oldest drinking place in [Oxford](/wiki/Oxford) (founded 1381), where registrations were held at the time.
+Kay is seen here with [Vera Chapman](../../main/V/Vera_Chapman.md), the Founder of the [Tolkien Society](../../main/T/Tolkien_Society.md). They were good friends and Kay illustrated some of Vera's stories for *[Weathertop](<../../main/W/Weathertop_(journal).md>)*, Amon Sûl Smial's magazine. The photo was taken in the early 1980s at the beginning of the [Oxonmoot](../../main/O/Oxonmoot.md) weekend at the Turf Tavern, the oldest drinking place in [Oxford](../../main/O/Oxford.md) (founded 1381), where registrations were held at the time.

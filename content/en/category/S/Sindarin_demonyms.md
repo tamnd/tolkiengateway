@@ -1,6 +1,5 @@
 ---
 title: "Category:Sindarin demonyms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sindarin demonyms</span>"
 page_id: 25087
 namespace: 14
 revision_id: 326158
@@ -16,4 +15,4 @@ sort_keys:
   "Sindarin nouns": "Demonyms"
 ---
 
-This category includes all [Sindarin](/wiki/Sindarin) names for groups of people.
+This category includes all [Sindarin](../../main/S/Sindarin.md) names for groups of people.

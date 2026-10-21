@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from War of the Ring (2004 board game)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from War of the Ring (2004 board game)</span>"
 page_id: 73800
 namespace: 14
 revision_id: 435880
@@ -15,4 +14,4 @@ sort_keys:
   "Images of board games": "War of the Ring (2004 board game)"
 ---
 
-Images from *[War of the Ring](</wiki/War_of_the_Ring_(2004_board_game)> "War of the Ring (2004 board game)")* (2004 board game).
+Images from *[War of the Ring](<../../main/W/War_of_the_Ring_(2004_board_game).md>)* (2004 board game).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jon Hodgson - Barding.jpg"
 ---
 
-Redirect to [File:Jon Hodgson - Barding.jpg](/wiki/File:Jon_Hodgson_-_Barding.jpg).
+Redirect to [File:Jon Hodgson - Barding.jpg](../J/Jon_Hodgson_-_Barding.jpg.md).

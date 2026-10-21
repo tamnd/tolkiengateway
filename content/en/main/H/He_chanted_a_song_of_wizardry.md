@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "He chanted a song of wizardry,"
 ---
 
-Redirect to [He chanted a song of wizardry,](/wiki/He_chanted_a_song_of_wizardry,).
+Redirect to [He chanted a song of wizardry,](He_chanted_a_song_of_wizardry,.md).

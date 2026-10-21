@@ -1,6 +1,5 @@
 ---
 title: "File:Nólë Hyarmenillo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nólë Hyarmenillo.jpg</span>"
 page_id: 62095
 namespace: 6
 revision_id: 388965
@@ -25,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Cover of *[Nólë Hyarmenillo: An Anthology of Iberian Scholarship on Tolkien](/wiki/N%C3%B3l%C3%AB_Hyarmenillo "Nólë Hyarmenillo")*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The illustration is "Rivendel: el Refugio Élfico" by Fredy Jaramillo.
+Cover of *[Nólë Hyarmenillo: An Anthology of Iberian Scholarship on Tolkien](../../main/N/Nólë_Hyarmenillo.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The illustration is "Rivendel: el Refugio Élfico" by Fredy Jaramillo.
 
 ## Licensing {#Licensing}
 

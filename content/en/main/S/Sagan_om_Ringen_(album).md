@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Sagan om Ringen</b></i> (Swedish, "The Saga of the Rings", the title of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*) is a [1972](/wiki/1972) album by [Bo Hansson](/wiki/Bo_Hansson). It was the first [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") themed album to be published, by <a class="extiw" href="http://en.wikipedia.org/wiki/Silence_Records" title="wikipedia:Silence Records">Silence Records</a>. It quickly gained popularity in the UK, and it was published there as **Music Inspired by Lord of the Rings** in October 1972.
+<i><b>Sagan om Ringen</b></i> (Swedish, "The Saga of the Rings", the title of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) is a [1972](../_/1972.md) album by [Bo Hansson](../B/Bo_Hansson.md). It was the first [Tolkien](../J/J.R.R._Tolkien.md) themed album to be published, by <a class="extiw" href="http://en.wikipedia.org/wiki/Silence_Records" title="wikipedia:Silence Records">Silence Records</a>. It quickly gained popularity in the UK, and it was published there as **Music Inspired by Lord of the Rings** in October 1972.
 
 ## Track listing {#Track_listing}
 

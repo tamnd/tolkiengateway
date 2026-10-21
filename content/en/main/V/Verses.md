@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Poetry (disambiguation)"
 ---
 
-Redirect to [Poetry (disambiguation)](/wiki/Poetry_(disambiguation)).
+Redirect to [Poetry (disambiguation)](<../P/Poetry_(disambiguation).md>).

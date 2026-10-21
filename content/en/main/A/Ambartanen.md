@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>ambartanen</b></i> is [Quenya](/wiki/Quenya) for "by doomed", as an example from [The Silmarillion](/wiki/The_Silmarillion) is shown below:
+<i><b>ambartanen</b></i> is [Quenya](../Q/Quenya.md) for "by doomed", as an example from [The Silmarillion](../T/The_Silmarillion.md) is shown below:
 
 <dl><dd><i>A Túrin Turambar turún&#39; ambartanen</i></dd>
 <dd>Master of Doom by doom mastered<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd></dl>
@@ -24,6 +24,6 @@ categories:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="/wiki/The_Death_of_Glaurung" title="The Death of Glaurung">The Death of Glaurung</a>&#34;, pp. 243-244</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/The_Death_of_Glaurung.md" title="The Death of Glaurung">The Death of Glaurung</a>&#34;, pp. 243-244</span>
 </li>
 </ol></div>

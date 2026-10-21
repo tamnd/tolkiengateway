@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hallacar"
 ---
 
-Redirect to [Hallacar](/wiki/Hallacar).
+Redirect to [Hallacar](../H/Hallacar.md).

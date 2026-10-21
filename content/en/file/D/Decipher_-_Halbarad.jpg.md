@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Halbarad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Halbarad.jpg</span>"
 page_id: 23908
 namespace: 6
 revision_id: 224676

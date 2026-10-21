@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Goblin-gate.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Goblin-gate.jpg](/wiki/File:Ted_Nasmith_-_Goblin-gate.jpg).
+Redirect to [File:Ted Nasmith - Goblin-gate.jpg](Ted_Nasmith_-_Goblin-gate.jpg.md).

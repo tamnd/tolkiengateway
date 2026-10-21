@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Return of the King GBA - Gandalf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Return of the King GBA - Gandalf.png</span>"
 page_id: 37576
 namespace: 6
 revision_id: 180370
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) in the <a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance version</a> of [The Lord of the Rings: The Two Towers](</wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)> "The Lord of the Rings: The Two Towers (video game)").
+[Gandalf](../../main/G/Gandalf.md) in the <a class="extiw" href="http://en.wikipedia.org/wiki/Game_Boy_Advance" title="wikipedia:Game Boy Advance">Game Boy Advance version</a> of [The Lord of the Rings: The Two Towers](<../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md>).
 
 ## Licensing {#Licensing}
 

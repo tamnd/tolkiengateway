@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2003) - Bombur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2003) - Bombur.png</span>"
 page_id: 71558
 namespace: 6
 revision_id: 426730
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bombur](/wiki/Bombur) - [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")
+[Bombur](../../main/B/Bombur.md) - [*The Hobbit* (2003 video game)](<../../main/T/The_Hobbit_(2003_video_game).md>)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/u-yasuk"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/u-yasuk</span>"
 page_id: 50296
 namespace: 4
 revision_id: 271022
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "u-yasuk"
 ---
 
-- U-yasuk has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_U-yasuk "Category:Images by U-yasuk") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- U-yasuk has kindly granted their permission to use [their artwork](../../category/I/Images_by_U-yasuk.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 17 June 2015
-- User who sought the permission via DeviantArt: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via DeviantArt: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

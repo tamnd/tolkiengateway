@@ -1,6 +1,5 @@
 ---
 title: "File:Georg von Rosen - Oden som vandringsman, 1886 (Odin, the Wanderer).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Georg von Rosen - Oden som vandringsman, 1886 (Odin, the Wanderer).jpg</span>"
 page_id: 19879
 namespace: 6
 revision_id: 205131

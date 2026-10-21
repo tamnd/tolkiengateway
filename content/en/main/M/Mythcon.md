@@ -1,6 +1,5 @@
 ---
 title: "Mythcon"
-display_title: "<span class=\"mw-page-title-main\">Mythcon</span>"
 page_id: 16103
 namespace: 0
 revision_id: 210063
@@ -15,11 +14,11 @@ sort_keys:
   "Mythcon": " "
 ---
 
-**Mythcon** is the annual conference of the [Mythopoeic Society](/wiki/Mythopoeic_Society), typically held in July or August. Each conference has a theme, author guest of honor, scholar guest of honor, and may have additional special guests. Mythcon programming consists of papers, panel discussions, readings, entertainment, an art show, a dealers' room, banquet, awards, etc. which are planned out over a four-day event.
+**Mythcon** is the annual conference of the [Mythopoeic Society](Mythopoeic_Society.md), typically held in July or August. Each conference has a theme, author guest of honor, scholar guest of honor, and may have additional special guests. Mythcon programming consists of papers, panel discussions, readings, entertainment, an art show, a dealers' room, banquet, awards, etc. which are planned out over a four-day event.
 
 ## See also {#See_also}
 
-- [List of Mythcons](/wiki/Category:Mythcon "Category:Mythcon")
+- [List of Mythcons](../../category/M/Mythcon.md)
 
 ## External links {#External_links}
 

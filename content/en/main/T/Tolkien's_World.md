@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's World (disambiguation)"
 ---
 
-Redirect to [Tolkien's World (disambiguation)](/wiki/Tolkien's_World_(disambiguation)).
+Redirect to [Tolkien's World (disambiguation)](<Tolkien's_World_(disambiguation).md>).

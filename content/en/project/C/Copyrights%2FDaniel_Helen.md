@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Daniel Helen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Daniel Helen</span>"
 page_id: 46152
 namespace: 4
 revision_id: 290541
@@ -15,12 +14,12 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Helen, Daniel"
 ---
 
-- Daniel Helen has kindly granted his permission to use [his photograph of *The History of Middle-earth*](/wiki/File:Daniel_Helen_-_The_History_of_Middle-earth.png "File:Daniel Helen - The History of Middle-earth.png") at Tolkien Gateway.
+- Daniel Helen has kindly granted his permission to use [his photograph of *The History of Middle-earth*](../../file/D/Daniel_Helen_-_The_History_of_Middle-earth.png.md) at Tolkien Gateway.
 - Date: 21 May 2014.
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).
 
 <br>
 
-- Daniel Helen has kindly granted his permission to use [his photograph of a Tolkein plaque](/wiki/File:Saul_Zaentz_Tolkein_plaque,_Pembroke_College,_by_Daniel_Helen.jpg "File:Saul Zaentz Tolkein plaque, Pembroke College, by Daniel Helen.jpg") at Tolkien Gateway.
+- Daniel Helen has kindly granted his permission to use [his photograph of a Tolkein plaque](../../file/S/Saul_Zaentz_Tolkein_plaque,_Pembroke_College,_by_Daniel_Helen.jpg.md) at Tolkien Gateway.
 - Date: 30 November 2016.
-- User who sought the permission via Facebook message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via Facebook message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

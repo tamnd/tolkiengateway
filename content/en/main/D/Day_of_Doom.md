@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ambar-metta"
 ---
 
-Redirect to [Ambar-metta](/wiki/Ambar-metta).
+Redirect to [Ambar-metta](../A/Ambar-metta.md).

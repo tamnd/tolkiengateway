@@ -1,6 +1,5 @@
 ---
 title: "Jake Uys"
-display_title: "<span class=\"mw-page-title-main\">Jake Uys</span>"
 page_id: 63990
 namespace: 0
 revision_id: 397711
@@ -21,7 +20,7 @@ sort_keys:
 
 ## History {#History}
 
-Uys is a former chairman of the now defunct [South African Tolkien Society Haradrim](</wiki/Haradrim_(Tolkien_Society)> "Haradrim (Tolkien Society)") as well as former owner of The Hobbit guesthouse in Bloemfontein, South Africa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Uys is a former chairman of the now defunct [South African Tolkien Society Haradrim](<../H/Haradrim_(Tolkien_Society).md>) as well as former owner of The Hobbit guesthouse in Bloemfontein, South Africa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

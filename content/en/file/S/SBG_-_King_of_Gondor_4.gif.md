@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - King of Gondor 4.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - King of Gondor 4.gif</span>"
 page_id: 11818
 namespace: 6
 revision_id: 203941

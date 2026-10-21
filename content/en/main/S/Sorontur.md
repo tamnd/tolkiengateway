@@ -11,4 +11,4 @@ redirect_target: "Thorondor"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Thorondor](/wiki/Thorondor#Etymology).
+Redirect to [Thorondor](../T/Thorondor.md#Etymology).

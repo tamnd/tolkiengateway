@@ -1,6 +1,5 @@
 ---
 title: "File:Grond Troll polystone bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grond Troll polystone bust.jpg</span>"
 page_id: 5413
 namespace: 6
 revision_id: 191445

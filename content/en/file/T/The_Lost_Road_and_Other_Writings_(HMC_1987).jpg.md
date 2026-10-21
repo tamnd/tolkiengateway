@@ -1,6 +1,5 @@
 ---
 title: "File:The Lost Road and Other Writings (HMC 1987).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lost Road and Other Writings (HMC 1987).jpg</span>"
 page_id: 11533
 namespace: 6
 revision_id: 361707

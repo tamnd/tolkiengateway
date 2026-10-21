@@ -17,6 +17,6 @@ sort_keys:
   "The Children of Húrin editions": "Children of Húrin"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/The_Children_of_H%C3%BArin" title="The Children of Húrin">The Children of Húrin</a></i> editions</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> editions</b>.</dd></dl>
 
-<dl><dd><dl><dd><i>See also:</i> <a href="/wiki/Category:Images_from_The_Children_of_H%C3%BArin" title="Category:Images from The Children of Húrin"><i>Images from</i> The Children of Húrin</a></dd></dl></dd></dl>
+<dl><dd><dl><dd><i>See also:</i> <a href="Images_from_The_Children_of_Húrin.md" title="Category:Images from The Children of Húrin"><i>Images from</i> The Children of Húrin</a></dd></dl></dd></dl>

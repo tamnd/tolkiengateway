@@ -1,6 +1,5 @@
 ---
 title: "Michael Scholes"
-display_title: "<span class=\"mw-page-title-main\">Michael Scholes</span>"
 page_id: 10621
 namespace: 0
 revision_id: 148373
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Scholes, Michael"
 ---
 
-**Michael Scholes** was the voice of [Samwise Gamgee](/wiki/Samwise_Gamgee) in [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+**Michael Scholes** was the voice of [Samwise Gamgee](../S/Samwise_Gamgee.md) in [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

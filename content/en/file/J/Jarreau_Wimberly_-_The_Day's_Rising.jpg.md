@@ -1,6 +1,5 @@
 ---
 title: "File:Jarreau Wimberly - The Day's Rising.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jarreau Wimberly - The Day&#039;s Rising.jpg</span>"
 page_id: 73422
 namespace: 6
 revision_id: 434076
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Day's Rising](/wiki/Out_of_doubt,_out_of_dark_to_the_day%E2%80%99s_rising "Out of doubt, out of dark to the day’s rising")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Antlered Crown* illustration by <a class="new" href="/w/index.php?title=Jarreau_Wimberly&amp;action=edit&amp;redlink=1" title="Jarreau Wimberly (page does not exist)">Jarreau Wimberly</a>
+"[The Day's Rising](../../main/O/Out_of_doubt,_out_of_dark_to_the_day’s_rising.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Antlered Crown* illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jarreau_Wimberly&amp;action=edit&amp;redlink=1" title="Jarreau Wimberly (page does not exist)">Jarreau Wimberly</a>
 
 ## Licensing {#Licensing}
 

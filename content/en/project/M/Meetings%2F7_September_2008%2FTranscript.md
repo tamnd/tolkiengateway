@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/7 September 2008/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/7 September 2008/Transcript</span>"
 page_id: 20404
 namespace: 4
 revision_id: 202021
@@ -434,7 +433,7 @@ Theoden1 (Brian@TG-5CC562F1.hsd1.ct.comcast.net) has left #Wiki (I&#39;m battlin
 &lt;Hyarion&gt;	nor I, as well as The Lord of the Rings<br/>
 &lt;Ederchil&gt;	I&#39;ve currently got a proto-Help: References in my sandbox, I&#39;ll turn it in to a voting space for ideas<br/>
 &lt;Mith&gt;	Just like if referencing UT I&#39;d never add (of N and Me)<br/>
-&lt;Hyarion&gt;	J.R.R. Tolkien, Christopher Tolkien (editor), <i><a href="/wiki/The_Shaping_of_Middle-earth" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i><br/>
+&lt;Hyarion&gt;	J.R.R. Tolkien, Christopher Tolkien (editor), <i><a href="../../main/T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i><br/>
 &lt;Hyarion&gt;	+ the chapter<br/>
 &lt;Ederchil&gt;	me likes<br/>
 &lt;Hyarion&gt;	at least with  these will only be listed once at the bottom<br/>

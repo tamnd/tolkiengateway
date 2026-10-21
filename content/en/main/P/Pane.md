@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Páne"
 ---
 
-Redirect to [Páne](/wiki/Páne).
+Redirect to [Páne](Páne.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phini-"
 ---
 
-Redirect to [Phini-](/wiki/Phini-).
+Redirect to [Phini-](Phini-.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Udûn (disambiguation)"
 ---
 
-Redirect to [Udûn (disambiguation)](/wiki/Udûn_(disambiguation)).
+Redirect to [Udûn (disambiguation)](<Udûn_(disambiguation).md>).

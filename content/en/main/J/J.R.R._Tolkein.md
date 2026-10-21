@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkein"
 ---
 
-Redirect to [Tolkein](/wiki/Tolkein).
+Redirect to [Tolkein](../T/Tolkein.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pines"
 ---
 
-Redirect to [Pines](/wiki/Pines).
+Redirect to [Pines](Pines.md).

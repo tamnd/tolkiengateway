@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Barrow-Wight.jpg"
 ---
 
-Redirect to [File:John Howe - The Barrow-Wight.jpg](/wiki/File:John_Howe_-_The_Barrow-Wight.jpg).
+Redirect to [File:John Howe - The Barrow-Wight.jpg](John_Howe_-_The_Barrow-Wight.jpg.md).

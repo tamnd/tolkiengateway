@@ -1,6 +1,5 @@
 ---
 title: "File:Switzerland in Tolkien's Middle-Earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Switzerland in Tolkien&#039;s Middle-Earth.jpg</span>"
 page_id: 60580
 namespace: 6
 revision_id: 339996

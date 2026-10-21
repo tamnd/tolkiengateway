@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Medui"
 ---
 
-Redirect to [Medui](/wiki/Medui).
+Redirect to [Medui](../M/Medui.md).

@@ -1,6 +1,5 @@
 ---
 title: "Bardofarda"
-display_title: "<span class=\"mw-page-title-main\">Bardofarda</span>"
 page_id: 70934
 namespace: 0
 revision_id: 441360
@@ -13,9 +12,9 @@ categories:
   - "Singers"
 ---
 
-**BardOfArda** is a TikToker and content creator, that makes short skits and song parodies about *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and [Tolkien](/wiki/Tolkien)'s [Legendarium](/wiki/Legendarium). He is the editor of the Tolkien with Friends podcast.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**BardOfArda** is a TikToker and content creator, that makes short skits and song parodies about *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and [Tolkien](../T/Tolkien.md)'s [Legendarium](../L/Legendarium.md). He is the editor of the Tolkien with Friends podcast.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<br> On 2026 June 27, BardOfArda posted on YouTube a 25 minute ASMR video reading the [Tolkien Gateway's](/wiki/Tolkien_Gateway "Tolkien Gateway") [Rivendell](/wiki/Rivendell) page while checking references and related links.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<br> On 2026 June 27, BardOfArda posted on YouTube a 25 minute ASMR video reading the [Tolkien Gateway's](../T/Tolkien_Gateway.md) [Rivendell](../R/Rivendell.md) page while checking references and related links.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tolkien Related Songs and Parodies {#Tolkien_Related_Songs_and_Parodies}
 
@@ -64,6 +63,6 @@ categories:
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external free" href="https://tolkienwithfriends.com/2024/07/28/bard-of-arda-joins-tolkien-with-friends/" rel="noreferrer noopener" target="_blank">https://tolkienwithfriends.com/2024/07/28/bard-of-arda-joins-tolkien-with-friends/</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">BardOfArda (2026 June 27)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=sLY4xl0hITk" rel="noreferrer noopener" target="_blank">&#34;Lord of the Rings ASMR - ASMRda Episode 1 “Rivendell”&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span>. <span class="cite-web-accessed">Retrieved 2026 June 27</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">BardOfArda (2026 June 27)</span>. <span class="cite-web-article"><a class="external text" href="https://www.youtube.com/watch?v=sLY4xl0hITk" rel="noreferrer noopener" target="_blank">&#34;Lord of the Rings ASMR - ASMRda Episode 1 “Rivendell”&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.youtube.com" rel="noreferrer noopener" target="_blank">YouTube</a></span>. <span class="cite-web-accessed">Retrieved 2026 June 27</span></cite></span>
 </li>
 </ol></div>

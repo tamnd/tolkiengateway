@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alan B. Clark"
 ---
 
-Redirect to [Alan B. Clark](/wiki/Alan_B._Clark).
+Redirect to [Alan B. Clark](Alan_B._Clark.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Za Frûmi"
 ---
 
-Redirect to [Za Frûmi](/wiki/Za_Frûmi).
+Redirect to [Za Frûmi](Za_Frûmi.md).

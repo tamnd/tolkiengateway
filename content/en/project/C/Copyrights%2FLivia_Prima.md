@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Livia Prima"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Livia Prima</span>"
 page_id: 65054
 namespace: 4
 revision_id: 374563
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Prima, Livia"
 ---
 
-- Livia Prima has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Livia_Prima "Category:Images by Livia Prima") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [June 2nd](/wiki/June_2 "June 2"), [2023](/wiki/2023)
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- Livia Prima has kindly granted their permission to use [their artwork](../../category/I/Images_by_Livia_Prima.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [June 2nd](../../main/J/June_2.md), [2023](../../main/_/2023.md)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

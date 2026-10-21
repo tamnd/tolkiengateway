@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Holman (disambiguation)"
 ---
 
-Redirect to [Holman (disambiguation)](/wiki/Holman_(disambiguation)).
+Redirect to [Holman (disambiguation)](<Holman_(disambiguation).md>).

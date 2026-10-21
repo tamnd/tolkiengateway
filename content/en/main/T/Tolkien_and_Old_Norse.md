@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Tolkien and Old Norse"
 ---
 
-<i><b>Tolkien and Old Norse</b></i> is a podcast, hosted by Brent Landon, which explores Old Norse influences on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+<i><b>Tolkien and Old Norse</b></i> is a podcast, hosted by Brent Landon, which explores Old Norse influences on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## External links {#External_links}
 

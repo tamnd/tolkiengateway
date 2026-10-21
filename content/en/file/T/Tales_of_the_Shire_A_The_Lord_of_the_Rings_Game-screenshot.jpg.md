@@ -1,6 +1,5 @@
 ---
 title: "File:Tales of the Shire A The Lord of the Rings Game-screenshot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales of the Shire A The Lord of the Rings Game-screenshot.jpg</span>"
 page_id: 67158
 namespace: 6
 revision_id: 389930
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of a [Hobbit](/wiki/Hobbit) from the videogame [Tales of the Shire: A "The Lord of the Rings" Game](/wiki/Tales_of_the_Shire:_A_%22The_Lord_of_the_Rings%22_Game).
+A screenshot of a [Hobbit](../../main/H/Hobbit.md) from the videogame [Tales of the Shire: A "The Lord of the Rings" Game](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md).
 
 ## Licensing {#Licensing}
 

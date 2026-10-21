@@ -11,4 +11,4 @@ redirect_target: "Enchanted River"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Enchanted River](/wiki/Enchanted_River#Portrayal_in_adaptations).
+Redirect to [Enchanted River](../E/Enchanted_River.md#Portrayal_in_adaptations).

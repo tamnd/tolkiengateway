@@ -1,6 +1,5 @@
 ---
 title: "Andrew Seear"
-display_title: "<span class=\"mw-page-title-main\">Andrew Seear</span>"
 page_id: 6897
 namespace: 0
 revision_id: 404645
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Seear, Andrew"
 ---
 
-British actor **Andrew Seear** provided the voice of [Faramir](/wiki/Faramir) in the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on [BBC 4](/wiki/BBC "BBC").
+British actor **Andrew Seear** provided the voice of [Faramir](../F/Faramir.md) in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on [BBC 4](../B/BBC.md).
 
 ## External links {#External_links}
 

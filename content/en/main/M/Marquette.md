@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marquette University"
 ---
 
-Redirect to [Marquette University](/wiki/Marquette_University).
+Redirect to [Marquette University](Marquette_University.md).

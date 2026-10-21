@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ferrum et Sanguis: 1914"
 ---
 
-Redirect to [Ferrum et Sanguis: 1914](/wiki/Ferrum_et_Sanguis:_1914).
+Redirect to [Ferrum et Sanguis: 1914](Ferrum_et_Sanguis%253A_1914.md).

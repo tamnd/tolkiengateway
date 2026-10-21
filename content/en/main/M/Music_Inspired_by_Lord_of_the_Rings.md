@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sagan om Ringen (album)"
 ---
 
-Redirect to [Sagan om Ringen (album)](/wiki/Sagan_om_Ringen_(album)).
+Redirect to [Sagan om Ringen (album)](<../S/Sagan_om_Ringen_(album).md>).

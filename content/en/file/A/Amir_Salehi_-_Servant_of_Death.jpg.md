@@ -1,6 +1,5 @@
 ---
 title: "File:Amir Salehi - Servant of Death.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amir Salehi - Servant of Death.jpg</span>"
 page_id: 17628
 namespace: 6
 revision_id: 182725
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Amir Salehi</li>
 <li><b>Website:</b> <a class="external text" href="http://www.artofamir.com/" rel="noreferrer noopener" target="_blank">Amir Salehi</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Amir_Salehi" title="Tolkien Gateway:Copyrights/Amir Salehi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAmir_Salehi.md" title="Tolkien Gateway:Copyrights/Amir Salehi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

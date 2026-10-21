@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Evil"
 ---
 
-Redirect to [Category:Evil](/wiki/Category:Evil).
+Redirect to [Category:Evil](../../category/E/Evil.md).

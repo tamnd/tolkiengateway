@@ -1,6 +1,5 @@
 ---
 title: "Category:Linguists"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Linguists</span>"
 page_id: 18983
 namespace: 14
 revision_id: 231382
@@ -15,4 +14,4 @@ categories:
   - "People by occupation"
 ---
 
-A list of <a class="extiw" href="http://en.wikipedia.org/wiki/Linguistics" title="wikipedia:Linguistics">linguists</a> (including <a class="extiw" href="http://en.wikipedia.org/wiki/Philology" title="wikipedia:Philology">philologists</a>), somehow related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works. This often includes amateur linguists who study the [languages](/wiki/Category:Languages "Category:Languages") created by Tolkien.
+A list of <a class="extiw" href="http://en.wikipedia.org/wiki/Linguistics" title="wikipedia:Linguistics">linguists</a> (including <a class="extiw" href="http://en.wikipedia.org/wiki/Philology" title="wikipedia:Philology">philologists</a>), somehow related to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works. This often includes amateur linguists who study the [languages](Languages.md) created by Tolkien.

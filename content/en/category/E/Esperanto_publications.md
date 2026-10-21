@@ -1,6 +1,5 @@
 ---
 title: "Category:Esperanto publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Esperanto publications</span>"
 page_id: 27762
 namespace: 14
 revision_id: 436993
@@ -13,4 +12,4 @@ categories:
   - "Non-English publications"
 ---
 
-Publications in [Esperanto](/wiki/Esperanto).
+Publications in [Esperanto](../../main/E/Esperanto.md).

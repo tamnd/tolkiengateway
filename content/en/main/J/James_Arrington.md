@@ -1,6 +1,5 @@
 ---
 title: "James Arrington"
-display_title: "<span class=\"mw-page-title-main\">James Arrington</span>"
 page_id: 22381
 namespace: 0
 revision_id: 321388
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Arrington, James"
 ---
 
-**James Arrington** is an American actor. In <a class="new" href="/w/index.php?title=The_Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="The Mind&#39;s Eye (page does not exist)">The Mind&#39;s Eye</a>'s 1979 production of *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1979_radio_series)> "The Lord of the Rings (1979 radio series)")*, he played [Frodo Baggins](/wiki/Frodo_Baggins) and [Saruman](/wiki/Saruman).
+**James Arrington** is an American actor. In <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mind%27s_Eye&amp;action=edit&amp;redlink=1" title="The Mind&#39;s Eye (page does not exist)">The Mind&#39;s Eye</a>'s 1979 production of *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>)*, he played [Frodo Baggins](../F/Frodo_Baggins.md) and [Saruman](../S/Saruman.md).
 
 ## External links {#External_links}
 

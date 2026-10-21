@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Eärendil heraldic device (I).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Eärendil heraldic device (I).jpg</span>"
 page_id: 64767
 namespace: 6
 revision_id: 373647
@@ -29,12 +28,12 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/35/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #35</a>. Published in:
 
-- *[The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974)*, back cover
-- *[The Silmarillion](/wiki/The_Silmarillion)* ([1977](/wiki/1977)), dusk jacket (back)
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)*, February
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)* ([1992](/wiki/1992)), p. 66
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), p. 235
+- *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)*, back cover
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)* ([1977](../../main/_/1977.md)), dusk jacket (back)
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)*, February
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)* ([1992](../../main/_/1992.md)), p. 66
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), p. 235
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Per Øyvind Haagensen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Per Øyvind Haagensen</span>"
 page_id: 18965
 namespace: 14
 revision_id: 182130

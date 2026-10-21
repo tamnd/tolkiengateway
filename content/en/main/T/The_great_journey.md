@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Journey"
 ---
 
-Redirect to [Great Journey](/wiki/Great_Journey).
+Redirect to [Great Journey](../G/Great_Journey.md).

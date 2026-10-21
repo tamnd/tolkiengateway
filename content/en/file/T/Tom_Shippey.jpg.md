@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Shippey.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Shippey.jpg</span>"
 page_id: 6967
 namespace: 6
 revision_id: 186333
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Tom Shippey](/wiki/Tom_Shippey) by Catherine Shippey.
+Photograph of [Tom Shippey](../../main/T/Tom_Shippey.md) by Catherine Shippey.
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ Photograph of [Tom Shippey](/wiki/Tom_Shippey) by Catherine Shippey.
 <p>This work is copyrighted and owned by Tom Shippey. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Tom Shippey</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tom_Shippey" title="Tolkien Gateway:Copyrights/Tom Shippey">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTom_Shippey.md" title="Tolkien Gateway:Copyrights/Tom Shippey">Permission for use on Tolkien Gateway</a></b></li></ul></div>

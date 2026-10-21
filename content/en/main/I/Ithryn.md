@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ithron"
 ---
 
-Redirect to [Ithron](/wiki/Ithron).
+Redirect to [Ithron](Ithron.md).

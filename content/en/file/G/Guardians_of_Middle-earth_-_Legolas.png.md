@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Legolas.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Legolas.png</span>"
 page_id: 71438
 namespace: 6
 revision_id: 426028
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Legolas](/wiki/Legolas) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Legolas](../../main/L/Legolas.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

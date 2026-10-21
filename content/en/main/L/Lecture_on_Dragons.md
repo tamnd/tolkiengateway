@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragons (lecture)"
 ---
 
-Redirect to [Dragons (lecture)](/wiki/Dragons_(lecture)).
+Redirect to [Dragons (lecture)](<../D/Dragons_(lecture).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anadûnê"
 ---
 
-Redirect to [Anadûnê](/wiki/Anadûnê).
+Redirect to [Anadûnê](Anadûnê.md).

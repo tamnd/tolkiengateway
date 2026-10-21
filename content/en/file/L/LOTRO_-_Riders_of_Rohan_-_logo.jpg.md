@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Riders of Rohan - logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Riders of Rohan - logo.jpg</span>"
 page_id: 38150
 namespace: 6
 revision_id: 350504

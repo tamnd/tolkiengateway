@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Nienor Flees Into the Woods.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Nienor Flees Into the Woods.jpg](/wiki/File:Ted_Nasmith_-_Nienor_Flees_Into_the_Woods.jpg).
+Redirect to [File:Ted Nasmith - Nienor Flees Into the Woods.jpg](Ted_Nasmith_-_Nienor_Flees_Into_the_Woods.jpg.md).

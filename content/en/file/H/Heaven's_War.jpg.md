@@ -1,6 +1,5 @@
 ---
 title: "File:Heaven's War.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heaven&#039;s War.jpg</span>"
 page_id: 26938
 namespace: 6
 revision_id: 248688

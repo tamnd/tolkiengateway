@@ -1,6 +1,5 @@
 ---
 title: "Gorgoroth (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Gorgoroth (disambiguation)</span>"
 page_id: 29533
 namespace: 0
 revision_id: 405702
@@ -19,22 +18,22 @@ images:
 
 ## Middle-earth {#Middle-earth}
 
-- [Ered Gorgoroth](/wiki/Ered_Gorgoroth), a mountain chain in [Beleriand](/wiki/Beleriand)
-- **[Plateau of Gorgoroth](/wiki/Plateau_of_Gorgoroth)**, a place in [Mordor](/wiki/Mordor)
+- [Ered Gorgoroth](../E/Ered_Gorgoroth.md), a mountain chain in [Beleriand](../B/Beleriand.md)
+- **[Plateau of Gorgoroth](../P/Plateau_of_Gorgoroth.md)**, a place in [Mordor](../M/Mordor.md)
 
 ## Adaptations and books {#Adaptations_and_books}
 
-- *[Gorgoroth (book)](</wiki/Gorgoroth_(book)>)*, a game supplement for [Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing)
+- *[Gorgoroth (book)](<Gorgoroth_(book).md>)*, a game supplement for [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)
 
 ## Popular culture {#Popular_culture}
 
-- [Gorgoroth (band)](</wiki/Gorgoroth_(band)>), a Norwegian black metal band
+- [Gorgoroth (band)](<Gorgoroth_(band).md>), a Norwegian black metal band
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Gorgoroth_(disambiguation)" title="Special:WhatLinksHere/:Gorgoroth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Gorgoroth_(disambiguation)" title="Special:WhatLinksHere/:Gorgoroth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

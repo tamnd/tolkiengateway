@@ -1,6 +1,5 @@
 ---
 title: "File:Games Workshop - The Hobbit - Bert.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games Workshop - The Hobbit - Bert.png</span>"
 page_id: 45537
 namespace: 6
 revision_id: 387425
@@ -25,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-[Bert](/wiki/Bert) in [The Hobbit Strategy Battle Game](/wiki/The_Hobbit_Strategy_Battle_Game).
+[Bert](../../main/B/Bert.md) in [The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md).
 
 ## Licensing {#Licensing}
 

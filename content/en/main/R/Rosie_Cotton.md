@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rose Cotton"
 ---
 
-Redirect to [Rose Cotton](/wiki/Rose_Cotton).
+Redirect to [Rose Cotton](Rose_Cotton.md).

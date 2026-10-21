@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandir (son of Arachon)"
 ---
 
-Redirect to [Brandir (son of Arachon)](/wiki/Brandir_(son_of_Arachon)).
+Redirect to [Brandir (son of Arachon)](<Brandir_(son_of_Arachon).md>).

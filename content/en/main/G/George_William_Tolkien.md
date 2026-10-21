@@ -1,6 +1,5 @@
 ---
 title: "George William Tolkien"
-display_title: "<span class=\"mw-page-title-main\">George William Tolkien</span>"
 page_id: 47817
 namespace: 0
 revision_id: 442837
@@ -24,13 +23,13 @@ langlinks:
     url: "https://kontu.wiki/George_William_Tolkien"
 ---
 
-**George William Tolkien** (1805 – 1877) was the oldest of eleven children of [George Tolkien](/wiki/George_Tolkien) (1784 - 1840) and <a class="new" href="/w/index.php?title=Eliza_Lydia_Murrell&amp;action=edit&amp;redlink=1" title="Eliza Lydia Murrell (page does not exist)">Eliza Lydia Murrell</a> (1787 - 1863). His younger brother, [John Benjamin Tolkien](/wiki/John_Benjamin_Tolkien) (1807 – 1896), the second oldest of the siblings, was the grandfather of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). In many sources George William's father George is referred as "George William Tolkien", but according to the documents where his name appears, this is an error.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**George William Tolkien** (1805 – 1877) was the oldest of eleven children of [George Tolkien](George_Tolkien.md) (1784 - 1840) and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eliza_Lydia_Murrell&amp;action=edit&amp;redlink=1" title="Eliza Lydia Murrell (page does not exist)">Eliza Lydia Murrell</a> (1787 - 1863). His younger brother, [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md) (1807 – 1896), the second oldest of the siblings, was the grandfather of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). In many sources George William's father George is referred as "George William Tolkien", but according to the documents where his name appears, this is an error.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">galadhorn (7 January 2018)</span>. <span class="cite-web-article"><a class="external text" href="http://tolkniety.blogspot.com/2018/01/george-tolkien-178418-not-george-william.html" rel="noreferrer noopener" target="_blank">&#34;George Tolkien (1784–1840) – not George William!&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolknięty</a></span>. <span class="cite-web-accessed">Retrieved 20 November 2019</span></cite> – on George Tolkien&#39;s children, see galadhorn&#39;s comment (18.2.2018) to the article.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">galadhorn (7 January 2018)</span>. <span class="cite-web-article"><a class="external text" href="http://tolkniety.blogspot.com/2018/01/george-tolkien-178418-not-george-william.html" rel="noreferrer noopener" target="_blank">&#34;George Tolkien (1784–1840) – not George William!&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolknięty</a></span>. <span class="cite-web-accessed">Retrieved 20 November 2019</span></cite> – on George Tolkien&#39;s children, see galadhorn&#39;s comment (18.2.2018) to the article.</span>
 </li>
 </ol></div>

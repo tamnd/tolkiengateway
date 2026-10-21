@@ -1,6 +1,5 @@
 ---
 title: "Category:Titles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Titles</span>"
 page_id: 13923
 namespace: 14
 revision_id: 330117
@@ -13,4 +12,4 @@ categories:
   - "Names"
 ---
 
-This category contains all the titles held by characters in the [legendarium](/wiki/Legendarium "Legendarium").
+This category contains all the titles held by characters in the [legendarium](../../main/L/Legendarium.md).

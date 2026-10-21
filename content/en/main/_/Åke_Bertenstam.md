@@ -1,6 +1,5 @@
 ---
 title: "Åke Bertenstam"
-display_title: "<span class=\"mw-page-title-main\">Åke Bertenstam</span>"
 page_id: 26058
 namespace: 0
 revision_id: 404556
@@ -21,11 +20,11 @@ sort_keys:
   "People by name": "Bertenstam, Ake"
 ---
 
-**Åke Bertenstam** (formerly **Åke Jönsson**)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is a Swedish librarian at The Carolina Library of <a class="extiw" href="http://en.wikipedia.org/wiki/Uppsala_University" title="wikipedia:Uppsala University">Uppsala University</a>. He has compiled one of the largest bibliographies of works by and about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), originally published through various issues of [*Arda*](</wiki/Arda_(annual)> "Arda (annual)"), and also found on the web site of [Forodrim](/wiki/Forodrim).
+**Åke Bertenstam** (formerly **Åke Jönsson**)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is a Swedish librarian at The Carolina Library of <a class="extiw" href="http://en.wikipedia.org/wiki/Uppsala_University" title="wikipedia:Uppsala University">Uppsala University</a>. He has compiled one of the largest bibliographies of works by and about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), originally published through various issues of [*Arda*](<../A/Arda_(annual).md>), and also found on the web site of [Forodrim](../F/Forodrim.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
-- [1985](/wiki/1985): *[Beyond Bree](/wiki/Beyond_Bree)* (November 1985)
+- [1985](1985.md): *[Beyond Bree](../B/Beyond_Bree.md)* (November 1985)
     - "The King's Reckoning: Did Tolkien Reckon Correct?"
 
 ## Corrigendas {#Corrigendas}
@@ -59,6 +58,6 @@ Noted by the users of Tolkien Gateway.
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 728</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 728</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings: Tales of Middle-earth"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings: Tales of Middle-earth</span>"
 page_id: 69939
 namespace: 0
 revision_id: 434124
@@ -40,44 +39,40 @@ infobox:
     value: "LTR"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> expansion</b>. For the the video game, see <b><a href="/wiki/Tales_of_Middle_Earth" title="Tales of Middle Earth">Tales of Middle Earth</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <i><a href="../M/Magic%253A_The_Gathering.md" title="Magic: The Gathering">Magic: The Gathering</a></i> expansion</b>. For the the video game, see <b><a href="Tales_of_Middle_Earth.md" title="Tales of Middle Earth">Tales of Middle Earth</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_UBLotRToM_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/320px-Magic_the_Gathering_UBLotRToM_logo.png" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/480px-Magic_the_Gathering_UBLotRToM_logo.png 1.5x, https://tolkiengateway.net/w/images/b/b7/Magic_the_Gathering_UBLotRToM_logo.png 2x" data-file-width="566" data-file-height="381"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game expansion</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Tales of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Ben Hayes <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Glenn Jones <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Wizards_of_the_Coast.md" title="Wizards of the Coast">Wizards of the Coast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/20_June.md" title="20 June">20 June</a> <a href="../_/2023.md" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">281 + 552</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">LTR</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Set symbol</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><div class="center"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTR_symbol.webp.md" title="Official Set Symbol for Tales of Middle-earth"><img alt="Official Set Symbol for Tales of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/50px-Magic_the_Gathering_LTR_symbol.webp.png" decoding="async" loading="lazy" width="50" height="33" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/75px-Magic_the_Gathering_LTR_symbol.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/100px-Magic_the_Gathering_LTR_symbol.webp.png 2x" data-file-width="900" data-file-height="596"/></a></span><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTC_symbol.webp.md" title="Official Set Symbol for Tales of Middle-earth Commander"><img alt="Official Set Symbol for Tales of Middle-earth Commander" src="https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/50px-Magic_the_Gathering_LTC_symbol.webp.png" decoding="async" loading="lazy" width="50" height="50" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/75px-Magic_the_Gathering_LTC_symbol.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/100px-Magic_the_Gathering_LTC_symbol.webp.png 2x" data-file-width="900" data-file-height="900"/></a></span></div></td></tr></tbody></table>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Magic_the_Gathering_UBLotRToM_logo.png"><img src="/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/320px-Magic_the_Gathering_UBLotRToM_logo.png" decoding="async" loading="lazy" width="320" height="215" class="mw-file-element" srcset="/w/images/thumb/b/b7/Magic_the_Gathering_UBLotRToM_logo.png/480px-Magic_the_Gathering_UBLotRToM_logo.png 1.5x, /w/images/b/b7/Magic_the_Gathering_UBLotRToM_logo.png 2x" data-file-width="566" data-file-height="381"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Collectible card game expansion</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: Tales of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Ben Hayes <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Glenn Jones <small>(lead)</small></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Wizards_of_the_Coast" title="Wizards of the Coast">Wizards of the Coast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="/wiki/20_June" title="20 June">20 June</a> <a href="/wiki/2023" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cards</th><td class="tg-infobox-data">281 + 552</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">LTR</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Set symbol</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><div class="center"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Magic_the_Gathering_LTR_symbol.webp" title="Official Set Symbol for Tales of Middle-earth"><img alt="Official Set Symbol for Tales of Middle-earth" src="/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/50px-Magic_the_Gathering_LTR_symbol.webp.png" decoding="async" loading="lazy" width="50" height="33" class="mw-file-element" srcset="/w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/75px-Magic_the_Gathering_LTR_symbol.webp.png 1.5x, /w/images/thumb/f/fe/Magic_the_Gathering_LTR_symbol.webp/100px-Magic_the_Gathering_LTR_symbol.webp.png 2x" data-file-width="900" data-file-height="596"/></a></span><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Magic_the_Gathering_LTC_symbol.webp" title="Official Set Symbol for Tales of Middle-earth Commander"><img alt="Official Set Symbol for Tales of Middle-earth Commander" src="/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/50px-Magic_the_Gathering_LTC_symbol.webp.png" decoding="async" loading="lazy" width="50" height="50" class="mw-file-element" srcset="/w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/75px-Magic_the_Gathering_LTC_symbol.webp.png 1.5x, /w/images/thumb/5/56/Magic_the_Gathering_LTC_symbol.webp/100px-Magic_the_Gathering_LTC_symbol.webp.png 2x" data-file-width="900" data-file-height="900"/></a></span></div></td></tr></tbody></table>
+**The Lord of the Rings: Tales of Middle-earth** is an expansion for the [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) collectible card game, and was initially released on June 20, 2023. It introduced new cards that were unique renditions of various characters and events from the Lord of the Rings trilogy.
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
+*Tales of Middle-earth* was released under the **Magic: The Gathering Universes Beyond** sub-brand, and was the first Universes Beyond property to receive a full-sized Magic expansion. Around the same time, *[More Adventures in Middle-earth](../M/More_Adventures_in_Middle-earth.md)* was released, a separate small collector-oriented set reprinting several cards with alternative artwork.
 
-**The Lord of the Rings: Tales of Middle-earth** is an expansion for the [Magic: The Gathering](/wiki/Magic:_The_Gathering) collectible card game, and was initially released on June 20, 2023. It introduced new cards that were unique renditions of various characters and events from the Lord of the Rings trilogy.
-
-*Tales of Middle-earth* was released under the **Magic: The Gathering Universes Beyond** sub-brand, and was the first Universes Beyond property to receive a full-sized Magic expansion. Around the same time, *[More Adventures in Middle-earth](/wiki/More_Adventures_in_Middle-earth)* was released, a separate small collector-oriented set reprinting several cards with alternative artwork.
-
-In August 2026, a second Lord of the Rings-themed Magic expansion will be released, [Magic: The Gathering \| The Hobbit](/wiki/Magic:_The_Gathering_-_The_Hobbit "Magic: The Gathering - The Hobbit").
+In August 2026, a second Lord of the Rings-themed Magic expansion will be released, [Magic: The Gathering \| The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md).
 
 ## Overview {#Overview}
 
-Tales of Middle-earth was first announced February 21, 2023<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, and was developed by [Wizards of the Coast](/wiki/Wizards_of_the_Coast) in close cooperation with [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises). It featured 451 new cards referencing a vast amount of content from Tolkien's legendarium, with brand new art commissioned for each card. The art style for Tales of Middle-earth was developed specifically for the set and did not generally refer to other adaptations of the stories.
+Tales of Middle-earth was first announced February 21, 2023<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, and was developed by [Wizards of the Coast](../W/Wizards_of_the_Coast.md) in close cooperation with [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md). It featured 451 new cards referencing a vast amount of content from Tolkien's legendarium, with brand new art commissioned for each card. The art style for Tales of Middle-earth was developed specifically for the set and did not generally refer to other adaptations of the stories.
 
-In addition to the usual promotional card styles and printings, the set featured a series of very rare special versions of the "Sol Ring" card<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, a popular and commonly used card in the multi-player Commander format. For the set, Sol Ring was reprinted with new art, representing the [Rings of Power](/wiki/Rings_of_Power), complete with stylizing all of the text in the [Tengwar](/wiki/Tengwar) font. Three different limited-edition versions of this special Sol Ring were printed in this way, with the numbers printed to represent the respective number of Rings distributed to the various races: <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
+In addition to the usual promotional card styles and printings, the set featured a series of very rare special versions of the "Sol Ring" card<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, a popular and commonly used card in the multi-player Commander format. For the set, Sol Ring was reprinted with new art, representing the [Rings of Power](../R/Rings_of_Power.md), complete with stylizing all of the text in the [Tengwar](Tengwar.md) font. Three different limited-edition versions of this special Sol Ring were printed in this way, with the numbers printed to represent the respective number of Rings distributed to the various races: <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
 
-- 3,000 normal and 300 serialized foils with art featuring an Elven ring (representing the [Three Rings](/wiki/Three_Rings))
-- 7,000 normal and 700 serialized foils with art featuring a Dwarven ring (representing the [Seven Rings](/wiki/Seven_Rings))
-- 9,000 normal and 900 serialized foils with art featuring a ring of Men (representing the [Nine Rings](/wiki/Nine_Rings))
+- 3,000 normal and 300 serialized foils with art featuring an Elven ring (representing the [Three Rings](Three_Rings.md))
+- 7,000 normal and 700 serialized foils with art featuring a Dwarven ring (representing the [Seven Rings](../S/Seven_Rings.md))
+- 9,000 normal and 900 serialized foils with art featuring a ring of Men (representing the [Nine Rings](../N/Nine_Rings.md))
 
 ### The Hunt for the One Ring {#The_Hunt_for_the_One_Ring}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Magic_the_Gathering_LTR_OneRing.webp"><img src="/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/300px-Magic_the_Gathering_LTR_OneRing.webp.png" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/450px-Magic_the_Gathering_LTR_OneRing.webp.png 1.5x, /w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/516px-Magic_the_Gathering_LTR_OneRing.webp.png 2x" data-file-width="516" data-file-height="720"/></a><figcaption>The exceptionally rare One Ring, only one of which was printed.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Magic_the_Gathering_LTR_OneRing.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/300px-Magic_the_Gathering_LTR_OneRing.webp.png" decoding="async" loading="lazy" width="300" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/450px-Magic_the_Gathering_LTR_OneRing.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Magic_the_Gathering_LTR_OneRing.webp/516px-Magic_the_Gathering_LTR_OneRing.webp.png 2x" data-file-width="516" data-file-height="720"/></a><figcaption>The exceptionally rare One Ring, only one of which was printed.</figcaption></figure>
 
-Notably, a new card representing [The One Ring](/wiki/The_One_Ring) was introduced in the set, however Wizards of the Coast printed a special, serialized gold foil version of it, with only **one** to ever be printed. It was included in one English language Collector Booster pack, which kicked off a significant amount of excitement as fans began, much like Sauron, to hunt for the One Ring, causing after-market prices of Collector Boosters to increase dramatically. The "One of One" One Ring was found on June 30, 2023 by a customer at MAXimum Cards &amp; Collectibles in Whitby, Ontario <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. The finder of the ring was later identified as Brook Trafton, who would proceed to sell it to Post Malone, a celebrity musician and Magic enthusiast for $2,000,000.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Notably, a new card representing [The One Ring](The_One_Ring.md) was introduced in the set, however Wizards of the Coast printed a special, serialized gold foil version of it, with only **one** to ever be printed. It was included in one English language Collector Booster pack, which kicked off a significant amount of excitement as fans began, much like Sauron, to hunt for the One Ring, causing after-market prices of Collector Boosters to increase dramatically. The "One of One" One Ring was found on June 30, 2023 by a customer at MAXimum Cards &amp; Collectibles in Whitby, Ontario <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. The finder of the ring was later identified as Brook Trafton, who would proceed to sell it to Post Malone, a celebrity musician and Magic enthusiast for $2,000,000.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Gameplay {#Gameplay}
 
-Tales of Middle-earth introduced one brand new mechanic to Magic: "**The Ring Tempts You**", which was intended to model the power the One Ring could bestow on its bearer. When Tempted, players were forced to choose a [Ring-bearer](/wiki/Ring-bearers "Ring-bearers") and as they were tempted more and more, their power would increase. However, unlike the One Ring in other adaptations, there is no downside to choosing a ring-bearer. This resulted in some consternation from some players as they felt there was a disconnect in the flavor that the set had otherwise done well at recreating mechanically. Magic Lead Designer Mark Rosewater responded to these concerns, commenting that during testing they found that players would not engage with the mechanic if there were any downside whatsoever, regardless of the flavor implications.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Tales of Middle-earth introduced one brand new mechanic to Magic: "**The Ring Tempts You**", which was intended to model the power the One Ring could bestow on its bearer. When Tempted, players were forced to choose a [Ring-bearer](../R/Ring-bearers.md) and as they were tempted more and more, their power would increase. However, unlike the One Ring in other adaptations, there is no downside to choosing a ring-bearer. This resulted in some consternation from some players as they felt there was a disconnect in the flavor that the set had otherwise done well at recreating mechanically. Magic Lead Designer Mark Rosewater responded to these concerns, commenting that during testing they found that players would not engage with the mechanic if there were any downside whatsoever, regardless of the flavor implications.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Returning mechanics featured in the expansion include:
 
-- **Amass**, modified it to specify the creature type to "[Orc](/wiki/Orc)" allowing players to slowly build their own orcish army
-- **Food** tokens being utilized in many cards, especially those representing [Hobbits](/wiki/Hobbits)
+- **Amass**, modified it to specify the creature type to "[Orc](../O/Orc.md)" allowing players to slowly build their own orcish army
+- **Food** tokens being utilized in many cards, especially those representing [Hobbits](../H/Hobbits.md)
 - **Basic landcycling**, representing long adventures over terrain
 - **Historic**, referencing the ancient history behind many characters and locations
 
@@ -91,21 +86,21 @@ As with other Magic expansions, Tales of Middle-earth featured new set-specific 
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 231.33333333333px">
-			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Gandalf_0019.png" title="Standard Frame"><img alt="Standard Frame" src="/w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/344px-MTG_LTR_Gandalf_0019.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="/w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/516px-MTG_LTR_Gandalf_0019.png 1.5x, /w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/688px-MTG_LTR_Gandalf_0019.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Gandalf_0019.png.md" title="Standard Frame"><img alt="Standard Frame" src="https://tolkiengateway.net/w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/344px-MTG_LTR_Gandalf_0019.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/516px-MTG_LTR_Gandalf_0019.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/MTG_LTR_Gandalf_0019.png/688px-MTG_LTR_Gandalf_0019.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 <p>Standard Frame
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 231.33333333333px">
-			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Gandalf_0470.png" title="Scroll Showcase"><img alt="Scroll Showcase" src="/w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/344px-MTG_LTR_Gandalf_0470.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="/w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/516px-MTG_LTR_Gandalf_0470.png 1.5x, /w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/688px-MTG_LTR_Gandalf_0470.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Gandalf_0470.png.md" title="Scroll Showcase"><img alt="Scroll Showcase" src="https://tolkiengateway.net/w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/344px-MTG_LTR_Gandalf_0470.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/516px-MTG_LTR_Gandalf_0470.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/MTG_LTR_Gandalf_0470.png/688px-MTG_LTR_Gandalf_0470.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 <p>Scroll Showcase
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 231.33333333333px">
-			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Gandalf_0305.png" title="Ring Frame Showcase"><img alt="Ring Frame Showcase" src="/w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/344px-MTG_LTR_Gandalf_0305.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="/w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/516px-MTG_LTR_Gandalf_0305.png 1.5x, /w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/688px-MTG_LTR_Gandalf_0305.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 229.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Gandalf_0305.png.md" title="Ring Frame Showcase"><img alt="Ring Frame Showcase" src="https://tolkiengateway.net/w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/344px-MTG_LTR_Gandalf_0305.png" decoding="async" loading="lazy" width="230" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/516px-MTG_LTR_Gandalf_0305.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/18/MTG_LTR_Gandalf_0305.png/688px-MTG_LTR_Gandalf_0305.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 <p>Ring Frame Showcase
 </p>
@@ -119,12 +114,12 @@ There are special versions of many cards from the set that have art drawn from a
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 238px">
-			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Frodo_0448.png"><img src="/w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/354px-MTG_LTR_Frodo_0448.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="/w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/532px-MTG_LTR_Frodo_0448.png 1.5x, /w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/709px-MTG_LTR_Frodo_0448.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Frodo_0448.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/354px-MTG_LTR_Frodo_0448.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/532px-MTG_LTR_Frodo_0448.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ae/MTG_LTR_Frodo_0448.png/709px-MTG_LTR_Frodo_0448.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 238px">
-			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Samwise_0449.png"><img src="/w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/354px-MTG_LTR_Samwise_0449.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="/w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/532px-MTG_LTR_Samwise_0449.png 1.5x, /w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/709px-MTG_LTR_Samwise_0449.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Samwise_0449.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/354px-MTG_LTR_Samwise_0449.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/532px-MTG_LTR_Samwise_0449.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/MTG_LTR_Samwise_0449.png/709px-MTG_LTR_Samwise_0449.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
@@ -132,12 +127,12 @@ There are special versions of many cards from the set that have art drawn from a
 
 <ul class="gallery mw-gallery-packed">
 		<li class="gallerybox" style="width: 238px">
-			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_Gollum_0450.png"><img src="/w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/354px-MTG_LTR_Gollum_0450.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="/w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/532px-MTG_LTR_Gollum_0450.png 1.5x, /w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/709px-MTG_LTR_Gollum_0450.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_Gollum_0450.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/354px-MTG_LTR_Gollum_0450.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/532px-MTG_LTR_Gollum_0450.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/MTG_LTR_Gollum_0450.png/709px-MTG_LTR_Gollum_0450.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 238px">
-			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:MTG_LTR_OneRing_0451.png"><img src="/w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/354px-MTG_LTR_OneRing_0451.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="/w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/532px-MTG_LTR_OneRing_0451.png 1.5x, /w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/709px-MTG_LTR_OneRing_0451.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
+			<div class="thumb" style="width: 236px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MTG_LTR_OneRing_0451.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/354px-MTG_LTR_OneRing_0451.png" decoding="async" loading="lazy" width="236" height="330" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/532px-MTG_LTR_OneRing_0451.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a6/MTG_LTR_OneRing_0451.png/709px-MTG_LTR_OneRing_0451.png 2x" data-file-width="745" data-file-height="1040"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
@@ -145,16 +140,16 @@ There are special versions of many cards from the set that have art drawn from a
 
 The other ten scenes featured are:
 
-- [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields)
-- [Bilbo's Birthday Party](/wiki/Bilbo%27s_Farewell_Party "Bilbo's Farewell Party")
-- The Flight from [Khazad-dûm](/wiki/Khazad-d%C3%BBm)
-- [The Ent's Taking Isengard](/wiki/Battle_of_Isengard "Battle of Isengard")
-- [Scouring of The Shire](/wiki/Battle_of_Bywater "Battle of Bywater")
-- Departure to the [Grey Havens](/wiki/Grey_Havens)
-- [Battle of Helm's Deep](/wiki/Battle_of_the_Hornburg "Battle of the Hornburg")
-- The Might of [Galadriel](/wiki/Galadriel)
-- [Gandalf](/wiki/Gandalf) in the Pelennor Fields
-- Flight of the [Witch-king](/wiki/Witch-king)
+- [Battle of the Pelennor Fields](../B/Battle_of_the_Pelennor_Fields.md)
+- [Bilbo's Birthday Party](../B/Bilbo's_Farewell_Party.md)
+- The Flight from [Khazad-dûm](../K/Khazad-dûm.md)
+- [The Ent's Taking Isengard](../B/Battle_of_Isengard.md)
+- [Scouring of The Shire](../B/Battle_of_Bywater.md)
+- Departure to the [Grey Havens](../G/Grey_Havens.md)
+- [Battle of Helm's Deep](../B/Battle_of_the_Hornburg.md)
+- The Might of [Galadriel](../G/Galadriel.md)
+- [Gandalf](../G/Gandalf.md) in the Pelennor Fields
+- Flight of the [Witch-king](../W/Witch-king.md)
 
 ### Illustrators {#Illustrators}
 
@@ -165,198 +160,196 @@ Full list of every illustrator whose art appeared in either the main expansion o
 </caption>
 <tbody><tr>
 <th align="left" valign="top">
-<ul><li><a class="new" href="/w/index.php?title=Aaron_Miller&amp;action=edit&amp;redlink=1" title="Aaron Miller (page does not exist)">Aaron Miller</a></li>
-<li><a class="new" href="/w/index.php?title=Alayna_Danner&amp;action=edit&amp;redlink=1" title="Alayna Danner (page does not exist)">Alayna Danner</a></li>
-<li><a class="new" href="/w/index.php?title=Alex_Brock&amp;action=edit&amp;redlink=1" title="Alex Brock (page does not exist)">Alex Brock</a></li>
-<li><a class="new" href="/w/index.php?title=Alexander_Forssberg&amp;action=edit&amp;redlink=1" title="Alexander Forssberg (page does not exist)">Alexander Forssberg</a></li>
-<li><a class="new" href="/w/index.php?title=Alexander_Gering&amp;action=edit&amp;redlink=1" title="Alexander Gering (page does not exist)">Alexander Gering</a></li>
-<li><a class="new" href="/w/index.php?title=Alexander_Mokhov&amp;action=edit&amp;redlink=1" title="Alexander Mokhov (page does not exist)">Alexander Mokhov</a></li>
-<li><a class="new" href="/w/index.php?title=Alexander_Ostrowski&amp;action=edit&amp;redlink=1" title="Alexander Ostrowski (page does not exist)">Alexander Ostrowski</a></li>
-<li><a href="/wiki/Anastasia_Balakchina" title="Anastasia Balakchina">Anastasia Balakchina</a></li>
-<li><a class="new" href="/w/index.php?title=Anato_Finnstark&amp;action=edit&amp;redlink=1" title="Anato Finnstark (page does not exist)">Anato Finnstark</a></li>
-<li><a href="/wiki/Andrea_Piparo" title="Andrea Piparo">Andrea Piparo</a></li>
-<li><a class="new" href="/w/index.php?title=Andreas_Rocha&amp;action=edit&amp;redlink=1" title="Andreas Rocha (page does not exist)">Andreas Rocha</a></li>
-<li><a class="new" href="/w/index.php?title=Andrey_Kuzinskiy&amp;action=edit&amp;redlink=1" title="Andrey Kuzinskiy (page does not exist)">Andrey Kuzinskiy</a></li>
-<li><a class="new" href="/w/index.php?title=Anna_Pavleeva&amp;action=edit&amp;redlink=1" title="Anna Pavleeva (page does not exist)">Anna Pavleeva</a></li>
-<li><a href="/wiki/Anna_Podedworna" title="Anna Podedworna">Anna Podedworna</a></li>
-<li><a href="/wiki/Anna_Steinbauer" title="Anna Steinbauer">Anna Steinbauer</a></li>
-<li><a class="new" href="/w/index.php?title=Anthony_Devine&amp;action=edit&amp;redlink=1" title="Anthony Devine (page does not exist)">Anthony Devine</a></li>
-<li><a class="new" href="/w/index.php?title=Anton_Solovianchyk&amp;action=edit&amp;redlink=1" title="Anton Solovianchyk (page does not exist)">Anton Solovianchyk</a></li>
-<li><a class="new" href="/w/index.php?title=Antonio_Jos%C3%A9_Manzanedo&amp;action=edit&amp;redlink=1" title="Antonio José Manzanedo (page does not exist)">Antonio José Manzanedo</a></li>
-<li><a class="new" href="/w/index.php?title=Arthur_Yuan&amp;action=edit&amp;redlink=1" title="Arthur Yuan (page does not exist)">Arthur Yuan</a></li>
-<li><a class="new" href="/w/index.php?title=Artur_Treffner&amp;action=edit&amp;redlink=1" title="Artur Treffner (page does not exist)">Artur Treffner</a></li>
-<li><a class="new" href="/w/index.php?title=Audrey_Benjaminsen&amp;action=edit&amp;redlink=1" title="Audrey Benjaminsen (page does not exist)">Audrey Benjaminsen</a></li>
-<li><a class="new" href="/w/index.php?title=Aurore_Folny&amp;action=edit&amp;redlink=1" title="Aurore Folny (page does not exist)">Aurore Folny</a></li>
-<li><a class="new" href="/w/index.php?title=Axel_Sauerwald&amp;action=edit&amp;redlink=1" title="Axel Sauerwald (page does not exist)">Axel Sauerwald</a></li>
-<li><a class="new" href="/w/index.php?title=Bart%C5%82omiej_Gawe%C5%82&amp;action=edit&amp;redlink=1" title="Bartłomiej Gaweł (page does not exist)">Bartłomiej Gaweł</a></li>
-<li><a href="/wiki/Ben_Wootten" title="Ben Wootten">Ben Wootten</a></li>
-<li><a class="new" href="/w/index.php?title=Billy_Christian&amp;action=edit&amp;redlink=1" title="Billy Christian (page does not exist)">Billy Christian</a></li>
-<li><a class="new" href="/w/index.php?title=Brian_Valeza&amp;action=edit&amp;redlink=1" title="Brian Valeza (page does not exist)">Brian Valeza</a></li>
-<li><a class="new" href="/w/index.php?title=Bruno_Biazotto&amp;action=edit&amp;redlink=1" title="Bruno Biazotto (page does not exist)">Bruno Biazotto</a></li>
-<li><a class="new" href="/w/index.php?title=Calder_Moore&amp;action=edit&amp;redlink=1" title="Calder Moore (page does not exist)">Calder Moore</a></li>
-<li><a class="new" href="/w/index.php?title=Campbell_White&amp;action=edit&amp;redlink=1" title="Campbell White (page does not exist)">Campbell White</a></li>
-<li><a class="new" href="/w/index.php?title=Caroline_Gariba&amp;action=edit&amp;redlink=1" title="Caroline Gariba (page does not exist)">Caroline Gariba</a></li>
-<li><a class="new" href="/w/index.php?title=Chris_Cold&amp;action=edit&amp;redlink=1" title="Chris Cold (page does not exist)">Chris Cold</a></li>
-<li><a href="/wiki/Christina_Kraus" title="Christina Kraus">Christina Kraus</a></li>
-<li><a class="new" href="/w/index.php?title=Claudiu-Antoniu_Magherusan&amp;action=edit&amp;redlink=1" title="Claudiu-Antoniu Magherusan (page does not exist)">Claudiu-Antoniu Magherusan</a></li>
-<li><a class="new" href="/w/index.php?title=Colin_Boyer&amp;action=edit&amp;redlink=1" title="Colin Boyer (page does not exist)">Colin Boyer</a></li>
-<li><a class="new" href="/w/index.php?title=Constantin_Marin&amp;action=edit&amp;redlink=1" title="Constantin Marin (page does not exist)">Constantin Marin</a></li>
-<li><a class="new" href="/w/index.php?title=Craig_Elliott&amp;action=edit&amp;redlink=1" title="Craig Elliott (page does not exist)">Craig Elliott</a></li>
-<li><a class="new" href="/w/index.php?title=Craig_J._Spearing&amp;action=edit&amp;redlink=1" title="Craig J. Spearing (page does not exist)">Craig J. Spearing</a></li>
-<li><a class="new" href="/w/index.php?title=Daarken&amp;action=edit&amp;redlink=1" title="Daarken (page does not exist)">Daarken</a></li>
-<li><a class="new" href="/w/index.php?title=Dan_Murayama_Scott&amp;action=edit&amp;redlink=1" title="Dan Murayama Scott (page does not exist)">Dan Murayama Scott</a></li>
-<li><a class="new" href="/w/index.php?title=Daniel_Correia&amp;action=edit&amp;redlink=1" title="Daniel Correia (page does not exist)">Daniel Correia</a></li>
-<li><a class="new" href="/w/index.php?title=David_%C3%81lvarez&amp;action=edit&amp;redlink=1" title="David Álvarez (page does not exist)">David Álvarez</a></li>
-<li><a class="new" href="/w/index.php?title=David_Frasheski&amp;action=edit&amp;redlink=1" title="David Frasheski (page does not exist)">David Frasheski</a></li></ul>
+<ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aaron_Miller&amp;action=edit&amp;redlink=1" title="Aaron Miller (page does not exist)">Aaron Miller</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alayna_Danner&amp;action=edit&amp;redlink=1" title="Alayna Danner (page does not exist)">Alayna Danner</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alex_Brock&amp;action=edit&amp;redlink=1" title="Alex Brock (page does not exist)">Alex Brock</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Forssberg&amp;action=edit&amp;redlink=1" title="Alexander Forssberg (page does not exist)">Alexander Forssberg</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Gering&amp;action=edit&amp;redlink=1" title="Alexander Gering (page does not exist)">Alexander Gering</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Mokhov&amp;action=edit&amp;redlink=1" title="Alexander Mokhov (page does not exist)">Alexander Mokhov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Ostrowski&amp;action=edit&amp;redlink=1" title="Alexander Ostrowski (page does not exist)">Alexander Ostrowski</a></li>
+<li><a href="../A/Anastasia_Balakchina.md" title="Anastasia Balakchina">Anastasia Balakchina</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anato_Finnstark&amp;action=edit&amp;redlink=1" title="Anato Finnstark (page does not exist)">Anato Finnstark</a></li>
+<li><a href="../A/Andrea_Piparo.md" title="Andrea Piparo">Andrea Piparo</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Andreas_Rocha&amp;action=edit&amp;redlink=1" title="Andreas Rocha (page does not exist)">Andreas Rocha</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Andrey_Kuzinskiy&amp;action=edit&amp;redlink=1" title="Andrey Kuzinskiy (page does not exist)">Andrey Kuzinskiy</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Pavleeva&amp;action=edit&amp;redlink=1" title="Anna Pavleeva (page does not exist)">Anna Pavleeva</a></li>
+<li><a href="../A/Anna_Podedworna.md" title="Anna Podedworna">Anna Podedworna</a></li>
+<li><a href="../A/Anna_Steinbauer.md" title="Anna Steinbauer">Anna Steinbauer</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anthony_Devine&amp;action=edit&amp;redlink=1" title="Anthony Devine (page does not exist)">Anthony Devine</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anton_Solovianchyk&amp;action=edit&amp;redlink=1" title="Anton Solovianchyk (page does not exist)">Anton Solovianchyk</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Antonio_Jos%C3%A9_Manzanedo&amp;action=edit&amp;redlink=1" title="Antonio José Manzanedo (page does not exist)">Antonio José Manzanedo</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Arthur_Yuan&amp;action=edit&amp;redlink=1" title="Arthur Yuan (page does not exist)">Arthur Yuan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Artur_Treffner&amp;action=edit&amp;redlink=1" title="Artur Treffner (page does not exist)">Artur Treffner</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Audrey_Benjaminsen&amp;action=edit&amp;redlink=1" title="Audrey Benjaminsen (page does not exist)">Audrey Benjaminsen</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aurore_Folny&amp;action=edit&amp;redlink=1" title="Aurore Folny (page does not exist)">Aurore Folny</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Axel_Sauerwald&amp;action=edit&amp;redlink=1" title="Axel Sauerwald (page does not exist)">Axel Sauerwald</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bart%C5%82omiej_Gawe%C5%82&amp;action=edit&amp;redlink=1" title="Bartłomiej Gaweł (page does not exist)">Bartłomiej Gaweł</a></li>
+<li><a href="../B/Ben_Wootten.md" title="Ben Wootten">Ben Wootten</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Billy_Christian&amp;action=edit&amp;redlink=1" title="Billy Christian (page does not exist)">Billy Christian</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Brian_Valeza&amp;action=edit&amp;redlink=1" title="Brian Valeza (page does not exist)">Brian Valeza</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Bruno_Biazotto&amp;action=edit&amp;redlink=1" title="Bruno Biazotto (page does not exist)">Bruno Biazotto</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Calder_Moore&amp;action=edit&amp;redlink=1" title="Calder Moore (page does not exist)">Calder Moore</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Campbell_White&amp;action=edit&amp;redlink=1" title="Campbell White (page does not exist)">Campbell White</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Caroline_Gariba&amp;action=edit&amp;redlink=1" title="Caroline Gariba (page does not exist)">Caroline Gariba</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Chris_Cold&amp;action=edit&amp;redlink=1" title="Chris Cold (page does not exist)">Chris Cold</a></li>
+<li><a href="../C/Christina_Kraus.md" title="Christina Kraus">Christina Kraus</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Claudiu-Antoniu_Magherusan&amp;action=edit&amp;redlink=1" title="Claudiu-Antoniu Magherusan (page does not exist)">Claudiu-Antoniu Magherusan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Colin_Boyer&amp;action=edit&amp;redlink=1" title="Colin Boyer (page does not exist)">Colin Boyer</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Constantin_Marin&amp;action=edit&amp;redlink=1" title="Constantin Marin (page does not exist)">Constantin Marin</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Craig_Elliott&amp;action=edit&amp;redlink=1" title="Craig Elliott (page does not exist)">Craig Elliott</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Craig_J._Spearing&amp;action=edit&amp;redlink=1" title="Craig J. Spearing (page does not exist)">Craig J. Spearing</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Daarken&amp;action=edit&amp;redlink=1" title="Daarken (page does not exist)">Daarken</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dan_Murayama_Scott&amp;action=edit&amp;redlink=1" title="Dan Murayama Scott (page does not exist)">Dan Murayama Scott</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Daniel_Correia&amp;action=edit&amp;redlink=1" title="Daniel Correia (page does not exist)">Daniel Correia</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=David_%C3%81lvarez&amp;action=edit&amp;redlink=1" title="David Álvarez (page does not exist)">David Álvarez</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Frasheski&amp;action=edit&amp;redlink=1" title="David Frasheski (page does not exist)">David Frasheski</a></li></ul>
 </th>
 <th align="left" valign="top">
-<ul><li><a class="new" href="/w/index.php?title=David_Rapoza&amp;action=edit&amp;redlink=1" title="David Rapoza (page does not exist)">David Rapoza</a></li>
-<li><a class="new" href="/w/index.php?title=Davor_Gromilovi%C4%87&amp;action=edit&amp;redlink=1" title="Davor Gromilović (page does not exist)">Davor Gromilović</a></li>
-<li><a class="new" href="/w/index.php?title=Denman_Rooke&amp;action=edit&amp;redlink=1" title="Denman Rooke (page does not exist)">Denman Rooke</a></li>
-<li><a class="new" href="/w/index.php?title=Deven_Rue&amp;action=edit&amp;redlink=1" title="Deven Rue (page does not exist)">Deven Rue</a></li>
-<li><a class="new" href="/w/index.php?title=Dmitry_Burmak&amp;action=edit&amp;redlink=1" title="Dmitry Burmak (page does not exist)">Dmitry Burmak</a></li>
-<li><a class="new" href="/w/index.php?title=Dominik_Mayer&amp;action=edit&amp;redlink=1" title="Dominik Mayer (page does not exist)">Dominik Mayer</a></li>
-<li><a class="new" href="/w/index.php?title=Eelis_Kyttanen&amp;action=edit&amp;redlink=1" title="Eelis Kyttanen (page does not exist)">Eelis Kyttanen</a></li>
-<li><a class="new" href="/w/index.php?title=Ekaterina_Burmak&amp;action=edit&amp;redlink=1" title="Ekaterina Burmak (page does not exist)">Ekaterina Burmak</a></li>
-<li><a class="new" href="/w/index.php?title=Elizabeth_Peir%C3%B3&amp;action=edit&amp;redlink=1" title="Elizabeth Peiró (page does not exist)">Elizabeth Peiró</a></li>
-<li><a class="new" href="/w/index.php?title=Eric_Wilkerson&amp;action=edit&amp;redlink=1" title="Eric Wilkerson (page does not exist)">Eric Wilkerson</a></li>
-<li><a class="new" href="/w/index.php?title=Erikas_Perl&amp;action=edit&amp;redlink=1" title="Erikas Perl (page does not exist)">Erikas Perl</a></li>
-<li><a class="new" href="/w/index.php?title=Erion_Makuo&amp;action=edit&amp;redlink=1" title="Erion Makuo (page does not exist)">Erion Makuo</a></li>
-<li><a class="new" href="/w/index.php?title=Filipe_Pagliuso&amp;action=edit&amp;redlink=1" title="Filipe Pagliuso (page does not exist)">Filipe Pagliuso</a></li>
-<li><a class="new" href="/w/index.php?title=Francesca_Resta&amp;action=edit&amp;redlink=1" title="Francesca Resta (page does not exist)">Francesca Resta</a></li>
-<li><a class="mw-redirect" href="/wiki/Greg_Hildebrandt" title="Greg Hildebrandt">Greg Hildebrandt</a></li>
-<li><a class="new" href="/w/index.php?title=Henry_Peters&amp;action=edit&amp;redlink=1" title="Henry Peters (page does not exist)">Henry Peters</a></li>
-<li><a class="new" href="/w/index.php?title=Hristo_D._Chukov&amp;action=edit&amp;redlink=1" title="Hristo D. Chukov (page does not exist)">Hristo D. Chukov</a></li>
-<li><a class="new" href="/w/index.php?title=Ian_Jepson&amp;action=edit&amp;redlink=1" title="Ian Jepson (page does not exist)">Ian Jepson</a></li>
-<li><a class="new" href="/w/index.php?title=Iga_Oliwiak&amp;action=edit&amp;redlink=1" title="Iga Oliwiak (page does not exist)">Iga Oliwiak</a></li>
-<li><a class="new" href="/w/index.php?title=Ignis_Bruno&amp;action=edit&amp;redlink=1" title="Ignis Bruno (page does not exist)">Ignis Bruno</a></li>
-<li><a class="new" href="/w/index.php?title=Igor_Krstic&amp;action=edit&amp;redlink=1" title="Igor Krstic (page does not exist)">Igor Krstic</a></li>
-<li><a class="new" href="/w/index.php?title=Ilker_Yildiz&amp;action=edit&amp;redlink=1" title="Ilker Yildiz (page does not exist)">Ilker Yildiz</a></li>
-<li><a class="new" href="/w/index.php?title=Inka_Schulz&amp;action=edit&amp;redlink=1" title="Inka Schulz (page does not exist)">Inka Schulz</a></li>
-<li><a class="new" href="/w/index.php?title=Irina_Nordsol&amp;action=edit&amp;redlink=1" title="Irina Nordsol (page does not exist)">Irina Nordsol</a></li>
-<li><a class="new" href="/w/index.php?title=Irvin_Rodriguez&amp;action=edit&amp;redlink=1" title="Irvin Rodriguez (page does not exist)">Irvin Rodriguez</a></li>
-<li><a class="new" href="/w/index.php?title=Jarel_Threat&amp;action=edit&amp;redlink=1" title="Jarel Threat (page does not exist)">Jarel Threat</a></li>
-<li><a class="new" href="/w/index.php?title=Jason_Kang&amp;action=edit&amp;redlink=1" title="Jason Kang (page does not exist)">Jason Kang</a></li>
-<li><a class="new" href="/w/index.php?title=Jason_Rainville&amp;action=edit&amp;redlink=1" title="Jason Rainville (page does not exist)">Jason Rainville</a></li>
-<li><a class="new" href="/w/index.php?title=Javier_Charro&amp;action=edit&amp;redlink=1" title="Javier Charro (page does not exist)">Javier Charro</a></li>
-<li><a href="/wiki/J.B._Casacop" title="J.B. Casacop">J.B. Casacop</a></li>
-<li><a class="new" href="/w/index.php?title=Jeremy_Paillotin&amp;action=edit&amp;redlink=1" title="Jeremy Paillotin (page does not exist)">Jeremy Paillotin</a></li>
-<li><a class="new" href="/w/index.php?title=Jesper_Ejsing&amp;action=edit&amp;redlink=1" title="Jesper Ejsing (page does not exist)">Jesper Ejsing</a></li>
-<li><a class="new" href="/w/index.php?title=John_Di_Giovanni&amp;action=edit&amp;redlink=1" title="John Di Giovanni (page does not exist)">John Di Giovanni</a></li>
-<li><a class="new" href="/w/index.php?title=John_Tedrick&amp;action=edit&amp;redlink=1" title="John Tedrick (page does not exist)">John Tedrick</a></li>
-<li><a class="new" href="/w/index.php?title=Jokubas_Uogintas&amp;action=edit&amp;redlink=1" title="Jokubas Uogintas (page does not exist)">Jokubas Uogintas</a></li>
-<li><a class="new" href="/w/index.php?title=Jonas_De_Ro&amp;action=edit&amp;redlink=1" title="Jonas De Ro (page does not exist)">Jonas De Ro</a></li>
-<li><a class="new" href="/w/index.php?title=Joseph_Meehan&amp;action=edit&amp;redlink=1" title="Joseph Meehan (page does not exist)">Joseph Meehan</a></li>
-<li><a class="new" href="/w/index.php?title=Josh_Hass&amp;action=edit&amp;redlink=1" title="Josh Hass (page does not exist)">Josh Hass</a></li>
-<li><a class="new" href="/w/index.php?title=Joshua_Raphael&amp;action=edit&amp;redlink=1" title="Joshua Raphael (page does not exist)">Joshua Raphael</a></li>
-<li><a class="new" href="/w/index.php?title=Josu_Solano&amp;action=edit&amp;redlink=1" title="Josu Solano (page does not exist)">Josu Solano</a></li>
-<li><a class="new" href="/w/index.php?title=Justine_Cruz&amp;action=edit&amp;redlink=1" title="Justine Cruz (page does not exist)">Justine Cruz</a></li>
-<li><a class="new" href="/w/index.php?title=Justine_Jones&amp;action=edit&amp;redlink=1" title="Justine Jones (page does not exist)">Justine Jones</a></li>
-<li><a class="new" href="/w/index.php?title=Justyna_Dura&amp;action=edit&amp;redlink=1" title="Justyna Dura (page does not exist)">Justyna Dura</a></li></ul>
+<ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Rapoza&amp;action=edit&amp;redlink=1" title="David Rapoza (page does not exist)">David Rapoza</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Davor_Gromilovi%C4%87&amp;action=edit&amp;redlink=1" title="Davor Gromilović (page does not exist)">Davor Gromilović</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Denman_Rooke&amp;action=edit&amp;redlink=1" title="Denman Rooke (page does not exist)">Denman Rooke</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Deven_Rue&amp;action=edit&amp;redlink=1" title="Deven Rue (page does not exist)">Deven Rue</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dmitry_Burmak&amp;action=edit&amp;redlink=1" title="Dmitry Burmak (page does not exist)">Dmitry Burmak</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dominik_Mayer&amp;action=edit&amp;redlink=1" title="Dominik Mayer (page does not exist)">Dominik Mayer</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eelis_Kyttanen&amp;action=edit&amp;redlink=1" title="Eelis Kyttanen (page does not exist)">Eelis Kyttanen</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ekaterina_Burmak&amp;action=edit&amp;redlink=1" title="Ekaterina Burmak (page does not exist)">Ekaterina Burmak</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elizabeth_Peir%C3%B3&amp;action=edit&amp;redlink=1" title="Elizabeth Peiró (page does not exist)">Elizabeth Peiró</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Eric_Wilkerson&amp;action=edit&amp;redlink=1" title="Eric Wilkerson (page does not exist)">Eric Wilkerson</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Erikas_Perl&amp;action=edit&amp;redlink=1" title="Erikas Perl (page does not exist)">Erikas Perl</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Erion_Makuo&amp;action=edit&amp;redlink=1" title="Erion Makuo (page does not exist)">Erion Makuo</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Filipe_Pagliuso&amp;action=edit&amp;redlink=1" title="Filipe Pagliuso (page does not exist)">Filipe Pagliuso</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Francesca_Resta&amp;action=edit&amp;redlink=1" title="Francesca Resta (page does not exist)">Francesca Resta</a></li>
+<li><a class="mw-redirect" href="../G/Greg_Hildebrandt.md" title="Greg Hildebrandt">Greg Hildebrandt</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Henry_Peters&amp;action=edit&amp;redlink=1" title="Henry Peters (page does not exist)">Henry Peters</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hristo_D._Chukov&amp;action=edit&amp;redlink=1" title="Hristo D. Chukov (page does not exist)">Hristo D. Chukov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ian_Jepson&amp;action=edit&amp;redlink=1" title="Ian Jepson (page does not exist)">Ian Jepson</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Iga_Oliwiak&amp;action=edit&amp;redlink=1" title="Iga Oliwiak (page does not exist)">Iga Oliwiak</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ignis_Bruno&amp;action=edit&amp;redlink=1" title="Ignis Bruno (page does not exist)">Ignis Bruno</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Igor_Krstic&amp;action=edit&amp;redlink=1" title="Igor Krstic (page does not exist)">Igor Krstic</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ilker_Yildiz&amp;action=edit&amp;redlink=1" title="Ilker Yildiz (page does not exist)">Ilker Yildiz</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Inka_Schulz&amp;action=edit&amp;redlink=1" title="Inka Schulz (page does not exist)">Inka Schulz</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Irina_Nordsol&amp;action=edit&amp;redlink=1" title="Irina Nordsol (page does not exist)">Irina Nordsol</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Irvin_Rodriguez&amp;action=edit&amp;redlink=1" title="Irvin Rodriguez (page does not exist)">Irvin Rodriguez</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jarel_Threat&amp;action=edit&amp;redlink=1" title="Jarel Threat (page does not exist)">Jarel Threat</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Kang&amp;action=edit&amp;redlink=1" title="Jason Kang (page does not exist)">Jason Kang</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Rainville&amp;action=edit&amp;redlink=1" title="Jason Rainville (page does not exist)">Jason Rainville</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Javier_Charro&amp;action=edit&amp;redlink=1" title="Javier Charro (page does not exist)">Javier Charro</a></li>
+<li><a href="../J/J.B._Casacop.md" title="J.B. Casacop">J.B. Casacop</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jeremy_Paillotin&amp;action=edit&amp;redlink=1" title="Jeremy Paillotin (page does not exist)">Jeremy Paillotin</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jesper_Ejsing&amp;action=edit&amp;redlink=1" title="Jesper Ejsing (page does not exist)">Jesper Ejsing</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Di_Giovanni&amp;action=edit&amp;redlink=1" title="John Di Giovanni (page does not exist)">John Di Giovanni</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Tedrick&amp;action=edit&amp;redlink=1" title="John Tedrick (page does not exist)">John Tedrick</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jokubas_Uogintas&amp;action=edit&amp;redlink=1" title="Jokubas Uogintas (page does not exist)">Jokubas Uogintas</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jonas_De_Ro&amp;action=edit&amp;redlink=1" title="Jonas De Ro (page does not exist)">Jonas De Ro</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Joseph_Meehan&amp;action=edit&amp;redlink=1" title="Joseph Meehan (page does not exist)">Joseph Meehan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Josh_Hass&amp;action=edit&amp;redlink=1" title="Josh Hass (page does not exist)">Josh Hass</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Joshua_Raphael&amp;action=edit&amp;redlink=1" title="Joshua Raphael (page does not exist)">Joshua Raphael</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Josu_Solano&amp;action=edit&amp;redlink=1" title="Josu Solano (page does not exist)">Josu Solano</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justine_Cruz&amp;action=edit&amp;redlink=1" title="Justine Cruz (page does not exist)">Justine Cruz</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justine_Jones&amp;action=edit&amp;redlink=1" title="Justine Jones (page does not exist)">Justine Jones</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justyna_Dura&amp;action=edit&amp;redlink=1" title="Justyna Dura (page does not exist)">Justyna Dura</a></li></ul>
 </th>
 <th align="left" valign="top">
-<ul><li><a class="new" href="/w/index.php?title=Kasia_Zieli%C5%84ska&amp;action=edit&amp;redlink=1" title="Kasia Zielińska (page does not exist)">Kasia Zielińska</a></li>
-<li><a class="new" href="/w/index.php?title=Kekai_Kotaki&amp;action=edit&amp;redlink=1" title="Kekai Kotaki (page does not exist)">Kekai Kotaki</a></li>
-<li><a class="new" href="/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a></li>
-<li><a class="new" href="/w/index.php?title=Kim_Sokol&amp;action=edit&amp;redlink=1" title="Kim Sokol (page does not exist)">Kim Sokol</a></li>
-<li><a class="new" href="/w/index.php?title=L._J._Koh&amp;action=edit&amp;redlink=1" title="L. J. Koh (page does not exist)">L. J. Koh</a></li>
-<li><a class="new" href="/w/index.php?title=Leonardo_Borazio&amp;action=edit&amp;redlink=1" title="Leonardo Borazio (page does not exist)">Leonardo Borazio</a></li>
-<li><a class="new" href="/w/index.php?title=Lie_Setiawan&amp;action=edit&amp;redlink=1" title="Lie Setiawan (page does not exist)">Lie Setiawan</a></li>
-<li><a class="new" href="/w/index.php?title=Liiga_Smilshkalne&amp;action=edit&amp;redlink=1" title="Liiga Smilshkalne (page does not exist)">Liiga Smilshkalne</a></li>
-<li><a class="new" href="/w/index.php?title=Livia_Prima&amp;action=edit&amp;redlink=1" title="Livia Prima (page does not exist)">Livia Prima</a></li>
-<li><a class="new" href="/w/index.php?title=Lixin_Yin&amp;action=edit&amp;redlink=1" title="Lixin Yin (page does not exist)">Lixin Yin</a></li>
-<li><a class="new" href="/w/index.php?title=Logan_Feliciano&amp;action=edit&amp;redlink=1" title="Logan Feliciano (page does not exist)">Logan Feliciano</a></li>
-<li><a class="new" href="/w/index.php?title=Lo%C3%AFc_Canavaggia&amp;action=edit&amp;redlink=1" title="Loïc Canavaggia (page does not exist)">Loïc Canavaggia</a></li>
-<li><a class="new" href="/w/index.php?title=Lorenzo_Lanfranconi&amp;action=edit&amp;redlink=1" title="Lorenzo Lanfranconi (page does not exist)">Lorenzo Lanfranconi</a></li>
-<li><a class="new" href="/w/index.php?title=Lorenzo_Mastroianni&amp;action=edit&amp;redlink=1" title="Lorenzo Mastroianni (page does not exist)">Lorenzo Mastroianni</a></li>
-<li><a class="new" href="/w/index.php?title=Lucas_Terryn&amp;action=edit&amp;redlink=1" title="Lucas Terryn (page does not exist)">Lucas Terryn</a></li>
-<li><a href="/wiki/Magali_Villeneuve" title="Magali Villeneuve">Magali Villeneuve</a></li>
-<li><a class="new" href="/w/index.php?title=Manuel_Casta%C3%B1%C3%B3n&amp;action=edit&amp;redlink=1" title="Manuel Castañón (page does not exist)">Manuel Castañón</a></li>
-<li><a class="new" href="/w/index.php?title=Marc_Simonetti&amp;action=edit&amp;redlink=1" title="Marc Simonetti (page does not exist)">Marc Simonetti</a></li>
-<li><a class="new" href="/w/index.php?title=Marco_Gorlei&amp;action=edit&amp;redlink=1" title="Marco Gorlei (page does not exist)">Marco Gorlei</a></li>
-<li><a class="new" href="/w/index.php?title=Marie_Magny&amp;action=edit&amp;redlink=1" title="Marie Magny (page does not exist)">Marie Magny</a></li>
-<li><a class="new" href="/w/index.php?title=Marina_Ortega_Lorente&amp;action=edit&amp;redlink=1" title="Marina Ortega Lorente (page does not exist)">Marina Ortega Lorente</a></li>
-<li><a class="new" href="/w/index.php?title=Marko_Manev&amp;action=edit&amp;redlink=1" title="Marko Manev (page does not exist)">Marko Manev</a></li>
-<li><a class="new" href="/w/index.php?title=Marlene_Yui&amp;action=edit&amp;redlink=1" title="Marlene Yui (page does not exist)">Marlene Yui</a></li>
-<li><a href="/wiki/Marta_Nael" title="Marta Nael">Marta Nael</a></li>
-<li><a class="new" href="/w/index.php?title=Martina_Fa%C4%8Dkov%C3%A1&amp;action=edit&amp;redlink=1" title="Martina Fačková (page does not exist)">Martina Fačková</a></li>
-<li><a href="/wiki/Matt_Stewart" title="Matt Stewart">Matt Stewart</a></li>
-<li><a class="new" href="/w/index.php?title=Maxim_Kostin&amp;action=edit&amp;redlink=1" title="Maxim Kostin (page does not exist)">Maxim Kostin</a></li>
-<li><a class="new" href="/w/index.php?title=Micha_Huigen&amp;action=edit&amp;redlink=1" title="Micha Huigen (page does not exist)">Micha Huigen</a></li>
-<li><a class="new" href="/w/index.php?title=Miguel_Mercado&amp;action=edit&amp;redlink=1" title="Miguel Mercado (page does not exist)">Miguel Mercado</a></li>
-<li><a class="new" href="/w/index.php?title=Mikl%C3%B3s_Ligeti&amp;action=edit&amp;redlink=1" title="Miklós Ligeti (page does not exist)">Miklós Ligeti</a></li>
-<li><a class="new" href="/w/index.php?title=Miranda_Meeks&amp;action=edit&amp;redlink=1" title="Miranda Meeks (page does not exist)">Miranda Meeks</a></li>
-<li><a class="new" href="/w/index.php?title=Narendra_Bintara_Adi&amp;action=edit&amp;redlink=1" title="Narendra Bintara Adi (page does not exist)">Narendra Bintara Adi</a></li>
-<li><a class="new" href="/w/index.php?title=Nicholas_Gregory&amp;action=edit&amp;redlink=1" title="Nicholas Gregory (page does not exist)">Nicholas Gregory</a></li>
-<li><a class="new" href="/w/index.php?title=Nino_Is&amp;action=edit&amp;redlink=1" title="Nino Is (page does not exist)">Nino Is</a></li>
-<li><a class="new" href="/w/index.php?title=Oleg_Bulakh&amp;action=edit&amp;redlink=1" title="Oleg Bulakh (page does not exist)">Oleg Bulakh</a></li>
-<li><a class="new" href="/w/index.php?title=Oleg_Shekhovtsov&amp;action=edit&amp;redlink=1" title="Oleg Shekhovtsov (page does not exist)">Oleg Shekhovtsov</a></li>
-<li><a class="new" href="/w/index.php?title=Olivier_Bernard&amp;action=edit&amp;redlink=1" title="Olivier Bernard (page does not exist)">Olivier Bernard</a></li>
-<li><a class="new" href="/w/index.php?title=Pablo_Mendoza&amp;action=edit&amp;redlink=1" title="Pablo Mendoza (page does not exist)">Pablo Mendoza</a></li>
-<li><a class="new" href="/w/index.php?title=Pascal_Quidault&amp;action=edit&amp;redlink=1" title="Pascal Quidault (page does not exist)">Pascal Quidault</a></li>
-<li><a class="new" href="/w/index.php?title=Patrik_Hell&amp;action=edit&amp;redlink=1" title="Patrik Hell (page does not exist)">Patrik Hell</a></li>
-<li><a class="new" href="/w/index.php?title=Pavel_Kolomeyets&amp;action=edit&amp;redlink=1" title="Pavel Kolomeyets (page does not exist)">Pavel Kolomeyets</a></li>
-<li><a class="new" href="/w/index.php?title=Pedro_Correa&amp;action=edit&amp;redlink=1" title="Pedro Correa (page does not exist)">Pedro Correa</a></li>
-<li><a class="new" href="/w/index.php?title=Pierre_Raveneau&amp;action=edit&amp;redlink=1" title="Pierre Raveneau (page does not exist)">Pierre Raveneau</a></li></ul>
+<ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kasia_Zieli%C5%84ska&amp;action=edit&amp;redlink=1" title="Kasia Zielińska (page does not exist)">Kasia Zielińska</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kekai_Kotaki&amp;action=edit&amp;redlink=1" title="Kekai Kotaki (page does not exist)">Kekai Kotaki</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kieran_Yanner&amp;action=edit&amp;redlink=1" title="Kieran Yanner (page does not exist)">Kieran Yanner</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kim_Sokol&amp;action=edit&amp;redlink=1" title="Kim Sokol (page does not exist)">Kim Sokol</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=L._J._Koh&amp;action=edit&amp;redlink=1" title="L. J. Koh (page does not exist)">L. J. Koh</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Leonardo_Borazio&amp;action=edit&amp;redlink=1" title="Leonardo Borazio (page does not exist)">Leonardo Borazio</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lie_Setiawan&amp;action=edit&amp;redlink=1" title="Lie Setiawan (page does not exist)">Lie Setiawan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Liiga_Smilshkalne&amp;action=edit&amp;redlink=1" title="Liiga Smilshkalne (page does not exist)">Liiga Smilshkalne</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Livia_Prima&amp;action=edit&amp;redlink=1" title="Livia Prima (page does not exist)">Livia Prima</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lixin_Yin&amp;action=edit&amp;redlink=1" title="Lixin Yin (page does not exist)">Lixin Yin</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Logan_Feliciano&amp;action=edit&amp;redlink=1" title="Logan Feliciano (page does not exist)">Logan Feliciano</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lo%C3%AFc_Canavaggia&amp;action=edit&amp;redlink=1" title="Loïc Canavaggia (page does not exist)">Loïc Canavaggia</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lorenzo_Lanfranconi&amp;action=edit&amp;redlink=1" title="Lorenzo Lanfranconi (page does not exist)">Lorenzo Lanfranconi</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lorenzo_Mastroianni&amp;action=edit&amp;redlink=1" title="Lorenzo Mastroianni (page does not exist)">Lorenzo Mastroianni</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lucas_Terryn&amp;action=edit&amp;redlink=1" title="Lucas Terryn (page does not exist)">Lucas Terryn</a></li>
+<li><a href="../M/Magali_Villeneuve.md" title="Magali Villeneuve">Magali Villeneuve</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Manuel_Casta%C3%B1%C3%B3n&amp;action=edit&amp;redlink=1" title="Manuel Castañón (page does not exist)">Manuel Castañón</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marc_Simonetti&amp;action=edit&amp;redlink=1" title="Marc Simonetti (page does not exist)">Marc Simonetti</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marco_Gorlei&amp;action=edit&amp;redlink=1" title="Marco Gorlei (page does not exist)">Marco Gorlei</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marie_Magny&amp;action=edit&amp;redlink=1" title="Marie Magny (page does not exist)">Marie Magny</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marina_Ortega_Lorente&amp;action=edit&amp;redlink=1" title="Marina Ortega Lorente (page does not exist)">Marina Ortega Lorente</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marko_Manev&amp;action=edit&amp;redlink=1" title="Marko Manev (page does not exist)">Marko Manev</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Marlene_Yui&amp;action=edit&amp;redlink=1" title="Marlene Yui (page does not exist)">Marlene Yui</a></li>
+<li><a href="../M/Marta_Nael.md" title="Marta Nael">Marta Nael</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Martina_Fa%C4%8Dkov%C3%A1&amp;action=edit&amp;redlink=1" title="Martina Fačková (page does not exist)">Martina Fačková</a></li>
+<li><a href="../M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Maxim_Kostin&amp;action=edit&amp;redlink=1" title="Maxim Kostin (page does not exist)">Maxim Kostin</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Micha_Huigen&amp;action=edit&amp;redlink=1" title="Micha Huigen (page does not exist)">Micha Huigen</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Miguel_Mercado&amp;action=edit&amp;redlink=1" title="Miguel Mercado (page does not exist)">Miguel Mercado</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mikl%C3%B3s_Ligeti&amp;action=edit&amp;redlink=1" title="Miklós Ligeti (page does not exist)">Miklós Ligeti</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Miranda_Meeks&amp;action=edit&amp;redlink=1" title="Miranda Meeks (page does not exist)">Miranda Meeks</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Narendra_Bintara_Adi&amp;action=edit&amp;redlink=1" title="Narendra Bintara Adi (page does not exist)">Narendra Bintara Adi</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nicholas_Gregory&amp;action=edit&amp;redlink=1" title="Nicholas Gregory (page does not exist)">Nicholas Gregory</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nino_Is&amp;action=edit&amp;redlink=1" title="Nino Is (page does not exist)">Nino Is</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oleg_Bulakh&amp;action=edit&amp;redlink=1" title="Oleg Bulakh (page does not exist)">Oleg Bulakh</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Oleg_Shekhovtsov&amp;action=edit&amp;redlink=1" title="Oleg Shekhovtsov (page does not exist)">Oleg Shekhovtsov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Olivier_Bernard&amp;action=edit&amp;redlink=1" title="Olivier Bernard (page does not exist)">Olivier Bernard</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pablo_Mendoza&amp;action=edit&amp;redlink=1" title="Pablo Mendoza (page does not exist)">Pablo Mendoza</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pascal_Quidault&amp;action=edit&amp;redlink=1" title="Pascal Quidault (page does not exist)">Pascal Quidault</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Patrik_Hell&amp;action=edit&amp;redlink=1" title="Patrik Hell (page does not exist)">Patrik Hell</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pavel_Kolomeyets&amp;action=edit&amp;redlink=1" title="Pavel Kolomeyets (page does not exist)">Pavel Kolomeyets</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pedro_Correa&amp;action=edit&amp;redlink=1" title="Pedro Correa (page does not exist)">Pedro Correa</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pierre_Raveneau&amp;action=edit&amp;redlink=1" title="Pierre Raveneau (page does not exist)">Pierre Raveneau</a></li></ul>
 </th>
 <th align="left" valign="top">
-<ul><li><a class="new" href="/w/index.php?title=Ramazan_Kazaliev&amp;action=edit&amp;redlink=1" title="Ramazan Kazaliev (page does not exist)">Ramazan Kazaliev</a></li>
-<li><a href="/wiki/Randy_Gallegos" title="Randy Gallegos">Randy Gallegos</a></li>
-<li><a class="new" href="/w/index.php?title=Randy_Vargas&amp;action=edit&amp;redlink=1" title="Randy Vargas (page does not exist)">Randy Vargas</a></li>
-<li><a class="new" href="/w/index.php?title=Rudy_Siswanto&amp;action=edit&amp;redlink=1" title="Rudy Siswanto (page does not exist)">Rudy Siswanto</a></li>
-<li><a class="new" href="/w/index.php?title=Ryan_Yee&amp;action=edit&amp;redlink=1" title="Ryan Yee (page does not exist)">Ryan Yee</a></li>
-<li><a class="new" href="/w/index.php?title=Samuele_Bandini&amp;action=edit&amp;redlink=1" title="Samuele Bandini (page does not exist)">Samuele Bandini</a></li>
-<li><a class="new" href="/w/index.php?title=Scott_Balmer&amp;action=edit&amp;redlink=1" title="Scott Balmer (page does not exist)">Scott Balmer</a></li>
-<li><a class="new" href="/w/index.php?title=Sean_Vo&amp;action=edit&amp;redlink=1" title="Sean Vo (page does not exist)">Sean Vo</a></li>
-<li><a class="new" href="/w/index.php?title=Sergio_Cosmai&amp;action=edit&amp;redlink=1" title="Sergio Cosmai (page does not exist)">Sergio Cosmai</a></li>
-<li><a class="new" href="/w/index.php?title=Shahab_Alizadeh&amp;action=edit&amp;redlink=1" title="Shahab Alizadeh (page does not exist)">Shahab Alizadeh</a></li>
-<li><a class="new" href="/w/index.php?title=Sidharth_Chaturvedi&amp;action=edit&amp;redlink=1" title="Sidharth Chaturvedi (page does not exist)">Sidharth Chaturvedi</a></li>
-<li><a class="new" href="/w/index.php?title=Simon_Dominic&amp;action=edit&amp;redlink=1" title="Simon Dominic (page does not exist)">Simon Dominic</a></li>
-<li><a class="new" href="/w/index.php?title=Stanislav_Sherbakov&amp;action=edit&amp;redlink=1" title="Stanislav Sherbakov (page does not exist)">Stanislav Sherbakov</a></li>
-<li><a class="new" href="/w/index.php?title=Stephen_Stark&amp;action=edit&amp;redlink=1" title="Stephen Stark (page does not exist)">Stephen Stark</a></li>
-<li><a class="new" href="/w/index.php?title=Svetlin_Velinov&amp;action=edit&amp;redlink=1" title="Svetlin Velinov (page does not exist)">Svetlin Velinov</a></li>
-<li><a class="new" href="/w/index.php?title=Syd_Mills&amp;action=edit&amp;redlink=1" title="Syd Mills (page does not exist)">Syd Mills</a></li>
-<li><a class="new" href="/w/index.php?title=Tatiana_Kirgetova&amp;action=edit&amp;redlink=1" title="Tatiana Kirgetova (page does not exist)">Tatiana Kirgetova</a></li>
-<li><a class="new" href="/w/index.php?title=Tatiana_Veryayskaya&amp;action=edit&amp;redlink=1" title="Tatiana Veryayskaya (page does not exist)">Tatiana Veryayskaya</a></li>
-<li><a class="mw-redirect" href="/wiki/Tim_Hildebrandt" title="Tim Hildebrandt">Tim Hildebrandt</a></li>
-<li><a class="new" href="/w/index.php?title=Titus_Lunter&amp;action=edit&amp;redlink=1" title="Titus Lunter (page does not exist)">Titus Lunter</a></li>
-<li><a class="new" href="/w/index.php?title=Tomas_Duchek&amp;action=edit&amp;redlink=1" title="Tomas Duchek (page does not exist)">Tomas Duchek</a></li>
-<li><a class="new" href="/w/index.php?title=Tom%C3%A1%C5%A1_Honz&amp;action=edit&amp;redlink=1" title="Tomáš Honz (page does not exist)">Tomáš Honz</a></li>
-<li><a class="new" href="/w/index.php?title=Torgeir_Fjereide&amp;action=edit&amp;redlink=1" title="Torgeir Fjereide (page does not exist)">Torgeir Fjereide</a></li>
-<li><a href="/wiki/Tyler_Jacobson" title="Tyler Jacobson">Tyler Jacobson</a></li>
-<li><a class="new" href="/w/index.php?title=Tyukina_Tatiana&amp;action=edit&amp;redlink=1" title="Tyukina Tatiana (page does not exist)">Tyukina Tatiana</a></li>
-<li><a class="new" href="/w/index.php?title=Uriah_Voth&amp;action=edit&amp;redlink=1" title="Uriah Voth (page does not exist)">Uriah Voth</a></li>
-<li><a class="new" href="/w/index.php?title=Valera_Lutfullina&amp;action=edit&amp;redlink=1" title="Valera Lutfullina (page does not exist)">Valera Lutfullina</a></li>
-<li><a class="new" href="/w/index.php?title=Veli_Nystr%C3%B6m&amp;action=edit&amp;redlink=1" title="Veli Nyström (page does not exist)">Veli Nyström</a></li>
-<li><a class="new" href="/w/index.php?title=Victor_Harmatiuk&amp;action=edit&amp;redlink=1" title="Victor Harmatiuk (page does not exist)">Victor Harmatiuk</a></li>
-<li><a class="new" href="/w/index.php?title=Viko_Menezes&amp;action=edit&amp;redlink=1" title="Viko Menezes (page does not exist)">Viko Menezes</a></li>
-<li><a class="new" href="/w/index.php?title=Wangjie_Li&amp;action=edit&amp;redlink=1" title="Wangjie Li (page does not exist)">Wangjie Li</a></li>
-<li><a href="/wiki/Warren_Mahy" title="Warren Mahy">Warren Mahy</a></li>
-<li><a class="new" href="/w/index.php?title=Wei_Guan&amp;action=edit&amp;redlink=1" title="Wei Guan (page does not exist)">Wei Guan</a></li>
-<li><a class="new" href="/w/index.php?title=Wisnu_Tan&amp;action=edit&amp;redlink=1" title="Wisnu Tan (page does not exist)">Wisnu Tan</a></li>
-<li><a class="new" href="/w/index.php?title=Wonchun_Choi&amp;action=edit&amp;redlink=1" title="Wonchun Choi (page does not exist)">Wonchun Choi</a></li>
-<li><a class="new" href="/w/index.php?title=Yigit_Koroglu&amp;action=edit&amp;redlink=1" title="Yigit Koroglu (page does not exist)">Yigit Koroglu</a></li>
-<li><a class="new" href="/w/index.php?title=Yongjae_Choi&amp;action=edit&amp;redlink=1" title="Yongjae Choi (page does not exist)">Yongjae Choi</a></li>
-<li><a class="new" href="/w/index.php?title=Yuriy_Chemezov&amp;action=edit&amp;redlink=1" title="Yuriy Chemezov (page does not exist)">Yuriy Chemezov</a></li>
-<li><a class="new" href="/w/index.php?title=Y.W._Tang&amp;action=edit&amp;redlink=1" title="Y.W. Tang (page does not exist)">Y.W. Tang</a></li>
-<li><a class="new" href="/w/index.php?title=Zeb_Love&amp;action=edit&amp;redlink=1" title="Zeb Love (page does not exist)">Zeb Love</a></li>
-<li><a class="new" href="/w/index.php?title=Zoltan_Boros&amp;action=edit&amp;redlink=1" title="Zoltan Boros (page does not exist)">Zoltan Boros</a></li>
-<li><a class="new" href="/w/index.php?title=Zuzanna_Wu%C5%BCyk&amp;action=edit&amp;redlink=1" title="Zuzanna Wużyk (page does not exist)">Zuzanna Wużyk</a></li></ul>
+<ul><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ramazan_Kazaliev&amp;action=edit&amp;redlink=1" title="Ramazan Kazaliev (page does not exist)">Ramazan Kazaliev</a></li>
+<li><a href="../R/Randy_Gallegos.md" title="Randy Gallegos">Randy Gallegos</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Randy_Vargas&amp;action=edit&amp;redlink=1" title="Randy Vargas (page does not exist)">Randy Vargas</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rudy_Siswanto&amp;action=edit&amp;redlink=1" title="Rudy Siswanto (page does not exist)">Rudy Siswanto</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ryan_Yee&amp;action=edit&amp;redlink=1" title="Ryan Yee (page does not exist)">Ryan Yee</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Samuele_Bandini&amp;action=edit&amp;redlink=1" title="Samuele Bandini (page does not exist)">Samuele Bandini</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Scott_Balmer&amp;action=edit&amp;redlink=1" title="Scott Balmer (page does not exist)">Scott Balmer</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sean_Vo&amp;action=edit&amp;redlink=1" title="Sean Vo (page does not exist)">Sean Vo</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergio_Cosmai&amp;action=edit&amp;redlink=1" title="Sergio Cosmai (page does not exist)">Sergio Cosmai</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Shahab_Alizadeh&amp;action=edit&amp;redlink=1" title="Shahab Alizadeh (page does not exist)">Shahab Alizadeh</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sidharth_Chaturvedi&amp;action=edit&amp;redlink=1" title="Sidharth Chaturvedi (page does not exist)">Sidharth Chaturvedi</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Simon_Dominic&amp;action=edit&amp;redlink=1" title="Simon Dominic (page does not exist)">Simon Dominic</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stanislav_Sherbakov&amp;action=edit&amp;redlink=1" title="Stanislav Sherbakov (page does not exist)">Stanislav Sherbakov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephen_Stark&amp;action=edit&amp;redlink=1" title="Stephen Stark (page does not exist)">Stephen Stark</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Svetlin_Velinov&amp;action=edit&amp;redlink=1" title="Svetlin Velinov (page does not exist)">Svetlin Velinov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Syd_Mills&amp;action=edit&amp;redlink=1" title="Syd Mills (page does not exist)">Syd Mills</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tatiana_Kirgetova&amp;action=edit&amp;redlink=1" title="Tatiana Kirgetova (page does not exist)">Tatiana Kirgetova</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tatiana_Veryayskaya&amp;action=edit&amp;redlink=1" title="Tatiana Veryayskaya (page does not exist)">Tatiana Veryayskaya</a></li>
+<li><a class="mw-redirect" href="Tim_Hildebrandt.md" title="Tim Hildebrandt">Tim Hildebrandt</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Titus_Lunter&amp;action=edit&amp;redlink=1" title="Titus Lunter (page does not exist)">Titus Lunter</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tomas_Duchek&amp;action=edit&amp;redlink=1" title="Tomas Duchek (page does not exist)">Tomas Duchek</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tom%C3%A1%C5%A1_Honz&amp;action=edit&amp;redlink=1" title="Tomáš Honz (page does not exist)">Tomáš Honz</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Torgeir_Fjereide&amp;action=edit&amp;redlink=1" title="Torgeir Fjereide (page does not exist)">Torgeir Fjereide</a></li>
+<li><a href="Tyler_Jacobson.md" title="Tyler Jacobson">Tyler Jacobson</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tyukina_Tatiana&amp;action=edit&amp;redlink=1" title="Tyukina Tatiana (page does not exist)">Tyukina Tatiana</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Uriah_Voth&amp;action=edit&amp;redlink=1" title="Uriah Voth (page does not exist)">Uriah Voth</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Valera_Lutfullina&amp;action=edit&amp;redlink=1" title="Valera Lutfullina (page does not exist)">Valera Lutfullina</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Veli_Nystr%C3%B6m&amp;action=edit&amp;redlink=1" title="Veli Nyström (page does not exist)">Veli Nyström</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Victor_Harmatiuk&amp;action=edit&amp;redlink=1" title="Victor Harmatiuk (page does not exist)">Victor Harmatiuk</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Viko_Menezes&amp;action=edit&amp;redlink=1" title="Viko Menezes (page does not exist)">Viko Menezes</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wangjie_Li&amp;action=edit&amp;redlink=1" title="Wangjie Li (page does not exist)">Wangjie Li</a></li>
+<li><a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wei_Guan&amp;action=edit&amp;redlink=1" title="Wei Guan (page does not exist)">Wei Guan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wisnu_Tan&amp;action=edit&amp;redlink=1" title="Wisnu Tan (page does not exist)">Wisnu Tan</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wonchun_Choi&amp;action=edit&amp;redlink=1" title="Wonchun Choi (page does not exist)">Wonchun Choi</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yigit_Koroglu&amp;action=edit&amp;redlink=1" title="Yigit Koroglu (page does not exist)">Yigit Koroglu</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yongjae_Choi&amp;action=edit&amp;redlink=1" title="Yongjae Choi (page does not exist)">Yongjae Choi</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yuriy_Chemezov&amp;action=edit&amp;redlink=1" title="Yuriy Chemezov (page does not exist)">Yuriy Chemezov</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Y.W._Tang&amp;action=edit&amp;redlink=1" title="Y.W. Tang (page does not exist)">Y.W. Tang</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zeb_Love&amp;action=edit&amp;redlink=1" title="Zeb Love (page does not exist)">Zeb Love</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zoltan_Boros&amp;action=edit&amp;redlink=1" title="Zoltan Boros (page does not exist)">Zoltan Boros</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zuzanna_Wu%C5%BCyk&amp;action=edit&amp;redlink=1" title="Zuzanna Wużyk (page does not exist)">Zuzanna Wużyk</a></li></ul>
 </th></tr></tbody></table>
 
 ## Portrayals {#Portrayals}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth/Portrayals" title="The Lord of the Rings: Tales of Middle-earth/Portrayals">The Lord of the Rings: Tales of Middle-earth/Portrayals</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth%252FPortrayals.md" title="The Lord of the Rings: Tales of Middle-earth/Portrayals">The Lord of the Rings: Tales of Middle-earth/Portrayals</a></b></div></div>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r398211"/>
-
-Every major character and event has at least one card portraying it in the set, with the more critcial elements receiving upwards of five or more cards, showing that character or event at different stages of the story. For a complete index of which cards represent which characters, objects and events, see the [accompanying article](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth/Portrayals "The Lord of the Rings: Tales of Middle-earth/Portrayals").
+Every major character and event has at least one card portraying it in the set, with the more critcial elements receiving upwards of five or more cards, showing that character or event at different stages of the story. For a complete index of which cards represent which characters, objects and events, see the [accompanying article](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth%252FPortrayals.md).
 
 ## Products {#Products}
 
 Preconstructed decks:
 
-- <a class="new" href="/w/index.php?title=The_Lord_of_the_Rings:_Tales_of_Middle-earth_Starter_Kit&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Tales of Middle-earth Starter Kit (page does not exist)">Starter Kit</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_Tales_of_Middle-earth_Starter_Kit&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: Tales of Middle-earth Starter Kit (page does not exist)">Starter Kit</a>
 - Commander decks
 
 Booster packs:
@@ -381,7 +374,7 @@ Other products:
 
 ## See also {#See_also}
 
-- [Magic: The Gathering - The Hobbit](/wiki/Magic:_The_Gathering_-_The_Hobbit)
+- [Magic: The Gathering - The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)
 
 ## External links {#External_links}
 
@@ -394,56 +387,56 @@ Other products:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://magic.wizards.com/en/news/announcements/on-june-23-experience-middle-earth-like-never-before" rel="noreferrer noopener" target="_blank">&#34;On June 23, Experience Middle-earth Like Never Before&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://magic.wizards.com" rel="noreferrer noopener" target="_blank">Magic: The Gathering</a></span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://magic.wizards.com/en/news/announcements/on-june-23-experience-middle-earth-like-never-before" rel="noreferrer noopener" target="_blank">&#34;On June 23, Experience Middle-earth Like Never Before&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://magic.wizards.com" rel="noreferrer noopener" target="_blank">Magic: The Gathering</a></span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://gatherer.wizards.com/pages/card/details.aspx?name=Sol%20Ring" rel="noreferrer noopener" target="_blank">&#34;Sol Ring&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://gatherer.wizards.com" rel="noreferrer noopener" target="_blank">Official Magic Card Database</a></span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://gatherer.wizards.com/pages/card/details.aspx?name=Sol%20Ring" rel="noreferrer noopener" target="_blank">&#34;Sol Ring&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://gatherer.wizards.com" rel="noreferrer noopener" target="_blank">Official Magic Card Database</a></span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://wpn.wizards.com/en/news/first-look-for-retailers-the-lord-of-the-rings-tales-of-middle-earth" rel="noreferrer noopener" target="_blank">&#34;First Look for Retailers – The Lord of the Rings: Tales of Middle-earth™&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://wpn.wizards.com" rel="noreferrer noopener" target="_blank">Wizards Play Network</a></span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://wpn.wizards.com/en/news/first-look-for-retailers-the-lord-of-the-rings-tales-of-middle-earth" rel="noreferrer noopener" target="_blank">&#34;First Look for Retailers – The Lord of the Rings: Tales of Middle-earth™&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://wpn.wizards.com" rel="noreferrer noopener" target="_blank">Wizards Play Network</a></span></cite></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">MAXimum Cards &amp; Collectibles (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://x.com/maximumcards/status/1674800807605342208" rel="noreferrer noopener" target="_blank">&#34;THE ONE RING HAS BEEN PULLED!&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://x.com" rel="noreferrer noopener" target="_blank">X (formerly known as Twitter)</a></span></cite></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">MAXimum Cards &amp; Collectibles (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://x.com/maximumcards/status/1674800807605342208" rel="noreferrer noopener" target="_blank">&#34;THE ONE RING HAS BEEN PULLED!&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://x.com" rel="noreferrer noopener" target="_blank">X (formerly known as Twitter)</a></span></cite></span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Charlie Hall (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain/" rel="noreferrer noopener" target="_blank">&#34;The One Ring card, Magic: The Gathering’s coveted collectible, has been found&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Charlie Hall (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain/" rel="noreferrer noopener" target="_blank">&#34;The One Ring card, Magic: The Gathering’s coveted collectible, has been found&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
 </li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Oli Welsh (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23817181/mtg-one-ring-card-post-malone" rel="noreferrer noopener" target="_blank">&#34;Post Malone has bought Magic’s $2M One Ring card&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Oli Welsh (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23817181/mtg-one-ring-card-post-malone" rel="noreferrer noopener" target="_blank">&#34;Post Malone has bought Magic’s $2M One Ring card&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Mark Rosewater</span>. <span class="cite-web-article"><a class="external text" href="https://www.tumblr.com/markrosewater/716589001506701312/why-isnt-the-ring-at-least-partially-a-downside" rel="noreferrer noopener" target="_blank">&#34;Reply&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.tumblr.com" rel="noreferrer noopener" target="_blank">Tumblr</a></span></cite></span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Mark Rosewater</span>. <span class="cite-web-article"><a class="external text" href="https://www.tumblr.com/markrosewater/716589001506701312/why-isnt-the-ring-at-least-partially-a-downside" rel="noreferrer noopener" target="_blank">&#34;Reply&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.tumblr.com" rel="noreferrer noopener" target="_blank">Tumblr</a></span></cite></span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Ana Diaz (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23738683/mtg-lord-of-the-rings-tales-of-middle-earth-lotr-art" rel="noreferrer noopener" target="_blank">&#34;Magic: The Gathering’s new set is trying to capture the hope of The Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Ana Diaz (2023)</span>. <span class="cite-web-article"><a class="external text" href="https://www.polygon.com/23738683/mtg-lord-of-the-rings-tales-of-middle-earth-lotr-art" rel="noreferrer noopener" target="_blank">&#34;Magic: The Gathering’s new set is trying to capture the hope of The Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.polygon.com" rel="noreferrer noopener" target="_blank">Polygon</a></span></cite></span>
 </li>
 </ol></div>
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="/wiki/1995" title="1995">1995</a>-<a href="/wiki/1998" title="1998">1998</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings_Trading_Card_Game" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="/wiki/2001" title="2001">2001</a>-<a href="/wiki/2007" title="2007">2007</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="../M/Magic%253A_The_Gathering.md" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">Tales of Middle Earth</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>) • <i><b><a href="/wiki/Magic:_The_Gathering_-_The_Hobbit" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="/wiki/2011" title="2011">2011</a>-<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="/wiki/2022" title="2022">2022</a> digital)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings_Tarot" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="/wiki/1997" title="1997">1997</a>) • <i><b><a href="/wiki/The_Hobbit_Card_Game" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>) • <i><b><a href="/wiki/War_of_the_Ring:_The_Card_Game" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="/wiki/2022" title="2022">2022</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Duel_for_Middle-earth" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)
 </td></tr>
 </tbody></table>

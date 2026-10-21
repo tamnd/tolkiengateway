@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Renée Fleming"
 ---
 
-Redirect to [Renée Fleming](/wiki/Renée_Fleming).
+Redirect to [Renée Fleming](Renée_Fleming.md).

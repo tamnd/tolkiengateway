@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Legend of Sigurd and Gudrún"
 ---
 
-Redirect to [The Legend of Sigurd and Gudrún](/wiki/The_Legend_of_Sigurd_and_Gudrún).
+Redirect to [The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md).

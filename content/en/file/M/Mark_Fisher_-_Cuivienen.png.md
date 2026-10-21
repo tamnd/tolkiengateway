@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Fisher - Cuivienen.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Fisher - Cuivienen.png</span>"
 page_id: 54900
 namespace: 6
 revision_id: 297540
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A map of the area surrounding [Cuiviénen](/wiki/Cuivi%C3%A9nen) showing the first part of the route taken by the [Eldar](/wiki/Eldar) on the [Great Journey](/wiki/Great_Journey).
+A map of the area surrounding [Cuiviénen](../../main/C/Cuiviénen.md) showing the first part of the route taken by the [Eldar](../../main/E/Eldar.md) on the [Great Journey](../../main/G/Great_Journey.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ A map of the area surrounding [Cuiviénen](/wiki/Cuivi%C3%A9nen) showing the fir
 </p>
 <ul><li><b>Name:</b> Mark Fisher</li>
 <li><b>Website:</b> <a class="external text" href="http://www.glyphweb.com/arda" rel="noreferrer noopener" target="_blank">Encylopedia of Arda</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mark_Fisher" title="Tolkien Gateway:Copyrights/Mark Fisher">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMark_Fisher.md" title="Tolkien Gateway:Copyrights/Mark Fisher">Permission for use on Tolkien Gateway</a></b></li></ul></div>

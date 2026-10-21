@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glamdring"
 ---
 
-Redirect to [Glamdring](/wiki/Glamdring).
+Redirect to [Glamdring](../G/Glamdring.md).

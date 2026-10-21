@@ -1,6 +1,5 @@
 ---
 title: "File:Fall of Gondolin 2018 deluxe.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fall of Gondolin 2018 deluxe.png</span>"
 page_id: 61985
 namespace: 6
 revision_id: 351078

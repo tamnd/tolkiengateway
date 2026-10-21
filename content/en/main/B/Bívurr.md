@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bifur"
 ---
 
-Redirect to [Bifur](/wiki/Bifur).
+Redirect to [Bifur](Bifur.md).

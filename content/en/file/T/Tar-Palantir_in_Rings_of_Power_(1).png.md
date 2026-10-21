@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Tar-Palantir.png"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Tar-Palantir.png](/wiki/File:The_Rings_of_Power_(TV_series)_-_Tar-Palantir.png).
+Redirect to [File:The Rings of Power (TV series) - Tar-Palantir.png](<The_Rings_of_Power_(TV_series)_-_Tar-Palantir.png.md>).

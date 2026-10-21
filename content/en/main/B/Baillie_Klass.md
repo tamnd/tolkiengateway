@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baillie Tolkien"
 ---
 
-Redirect to [Baillie Tolkien](/wiki/Baillie_Tolkien).
+Redirect to [Baillie Tolkien](Baillie_Tolkien.md).

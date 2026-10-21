@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guide to the Names in The Lord of the Rings"
 ---
 
-Redirect to [Guide to the Names in The Lord of the Rings](/wiki/Guide_to_the_Names_in_The_Lord_of_the_Rings).
+Redirect to [Guide to the Names in The Lord of the Rings](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md).

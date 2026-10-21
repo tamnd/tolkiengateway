@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wargs"
 ---
 
-Redirect to [Wargs](/wiki/Wargs).
+Redirect to [Wargs](Wargs.md).

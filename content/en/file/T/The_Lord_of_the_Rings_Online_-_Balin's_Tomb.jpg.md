@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Balin's Tomb.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Balin&#039;s Tomb.jpg</span>"
 page_id: 65283
 namespace: 6
 revision_id: 378221
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Balin's Tomb](/wiki/Balin%27s_Tomb) in *The Lord of the Rings Online*.
+[Balin's Tomb](../../main/B/Balin's_Tomb.md) in *The Lord of the Rings Online*.
 
 ## Summary {#Summary_2}
 

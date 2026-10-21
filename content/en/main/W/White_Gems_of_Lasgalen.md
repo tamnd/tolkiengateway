@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Necklace of Girion"
 ---
 
-Redirect to [Necklace of Girion](/wiki/Necklace_of_Girion).
+Redirect to [Necklace of Girion](../N/Necklace_of_Girion.md).

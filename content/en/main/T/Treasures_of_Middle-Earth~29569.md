@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures of Middle-earth"
 ---
 
-Redirect to [Treasures of Middle-earth](/wiki/Treasures_of_Middle-earth).
+Redirect to [Treasures of Middle-earth](Treasures_of_Middle-earth.md).

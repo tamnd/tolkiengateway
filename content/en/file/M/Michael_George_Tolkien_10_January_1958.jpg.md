@@ -1,6 +1,5 @@
 ---
 title: "File:Michael George Tolkien 10 January 1958.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Michael George Tolkien 10 January 1958.jpg</span>"
 page_id: 45709
 namespace: 6
 revision_id: 243546

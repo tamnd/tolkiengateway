@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Studies 16.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Studies 16.jpeg</span>"
 page_id: 61694
 namespace: 6
 revision_id: 376354

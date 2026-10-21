@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Younger Children of Ilúvatar"
 ---
 
-Redirect to [Younger Children of Ilúvatar](/wiki/Younger_Children_of_Ilúvatar).
+Redirect to [Younger Children of Ilúvatar](Younger_Children_of_Ilúvatar.md).

@@ -1,6 +1,5 @@
 ---
 title: "Elvellon"
-display_title: "<span class=\"mw-page-title-main\">Elvellon</span>"
 page_id: 23382
 namespace: 0
 revision_id: 405384
@@ -13,20 +12,20 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Elvellon** (pl. *Elvellyn*) is the [Sindarin](/wiki/Sindarin) term for "[Elf-friend](/wiki/Elf-friend)"
+**Elvellon** (pl. *Elvellyn*) is the [Sindarin](../S/Sindarin.md) term for "[Elf-friend](Elf-friend.md)"
 
 ## Etymology {#Etymology}
 
-From the elements *[el](/wiki/El "El")* "star-elf" and *[mellon](/wiki/Mellon "Mellon")* "friend".
+From the elements *[el](El.md)* "star-elf" and *[mellon](../M/Mellon.md)* "friend".
 
-[OS](/wiki/OS) could have been \**elmeldondo*
+[OS](../O/OS.md) could have been \**elmeldondo*
 
 ## Cognates {#Cognates}
 
-It corresponds with [Quenya](/wiki/Quenya) <i><a href="/wiki/Elendil" title="Elendil">Elendil</a>/<a class="new" href="/w/index.php?title=Elesser&amp;action=edit&amp;redlink=1" title="Elesser (page does not exist)">Elesser</a></i> and [Adûnaic](/wiki/Ad%C3%BBnaic) <i><a class="new" href="/w/index.php?title=Nimruz%C3%AEr&amp;action=edit&amp;redlink=1" title="Nimruzîr (page does not exist)">Nimruzîr</a></i>.
+It corresponds with [Quenya](../Q/Quenya.md) <i><a href="Elendil.md" title="Elendil">Elendil</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Elesser&amp;action=edit&amp;redlink=1" title="Elesser (page does not exist)">Elesser</a></i> and [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nimruz%C3%AEr&amp;action=edit&amp;redlink=1" title="Nimruzîr (page does not exist)">Nimruzîr</a></i>.
 
 <span></span>
 
 ## References {#References}
 
-- [Didier Willis](/wiki/Didier_Willis) (ed.), *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB "Hiswelókë")*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>
+- [Didier Willis](../D/Didier_Willis.md) (ed.), *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë.md)*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>

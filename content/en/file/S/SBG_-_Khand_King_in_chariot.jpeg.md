@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Khand King in chariot.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Khand King in chariot.jpeg</span>"
 page_id: 11886
 namespace: 6
 revision_id: 203936

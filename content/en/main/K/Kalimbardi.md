@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kalimban"
 ---
 
-Redirect to [Kalimban](/wiki/Kalimban).
+Redirect to [Kalimban](Kalimban.md).

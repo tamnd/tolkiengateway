@@ -1,6 +1,5 @@
 ---
 title: "Category:Music by genre"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Music by genre</span>"
 page_id: 31837
 namespace: 14
 revision_id: 195955
@@ -13,4 +12,4 @@ categories:
   - "Music"
 ---
 
-This category and its subcategories list **music by genre** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category and its subcategories list **music by genre** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Outsiders"
 ---
 
-Redirect to [Outsiders](/wiki/Outsiders).
+Redirect to [Outsiders](../O/Outsiders.md).

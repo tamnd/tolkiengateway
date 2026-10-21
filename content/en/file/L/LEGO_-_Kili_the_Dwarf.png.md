@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Kili the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Kili the Dwarf.png</span>"
 page_id: 73167
 namespace: 6
 revision_id: 433012
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Kili the Dwarf](/wiki/K%C3%ADli "Kíli") - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor037/kili-the-dwarf" rel="noreferrer noopener" target="_blank">Brickset</a>
+[Kili the Dwarf](../../main/K/Kíli.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://brickset.com/minifigs/lor037/kili-the-dwarf" rel="noreferrer noopener" target="_blank">Brickset</a>
 
 ## Licensing {#Licensing}
 

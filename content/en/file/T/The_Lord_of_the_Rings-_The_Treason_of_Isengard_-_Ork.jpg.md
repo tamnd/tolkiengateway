@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings- The Treason of Isengard - Ork.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings- The Treason of Isengard - Ork.jpg</span>"
 page_id: 47655
 namespace: 6
 revision_id: 253731
@@ -25,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-Concept art of an [orc](/wiki/Orcs "Orcs") for [The Lord of the Rings: The Treason of Isengard](/wiki/The_Lord_of_the_Rings:_The_Treason_of_Isengard).
+Concept art of an [orc](../../main/O/Orcs.md) for [The Lord of the Rings: The Treason of Isengard](../../main/T/The_Lord_of_the_Rings%253A_The_Treason_of_Isengard.md).
 
 \== Licensing ==
 

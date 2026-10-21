@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calacirian"
 ---
 
-Redirect to [Calacirian](/wiki/Calacirian).
+Redirect to [Calacirian](../C/Calacirian.md).

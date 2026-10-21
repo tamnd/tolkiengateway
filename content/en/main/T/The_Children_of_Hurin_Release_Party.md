@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin Release Party"
 ---
 
-Redirect to [The Children of Húrin Release Party](/wiki/The_Children_of_Húrin_Release_Party).
+Redirect to [The Children of Húrin Release Party](The_Children_of_Húrin_Release_Party.md).

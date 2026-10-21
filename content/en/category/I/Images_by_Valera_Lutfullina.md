@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Valera Lutfullina"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Valera Lutfullina</span>"
 page_id: 72813
 namespace: 14
 revision_id: 431457
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Lutfullina, Valera"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Valera_Lutfullina&amp;action=edit&amp;redlink=1" title="Valera Lutfullina (page does not exist)">Valera Lutfullina</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Valera_Lutfullina&amp;action=edit&amp;redlink=1" title="Valera Lutfullina (page does not exist)">Valera Lutfullina</a></b>.

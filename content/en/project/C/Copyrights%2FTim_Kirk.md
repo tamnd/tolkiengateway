@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tim Kirk"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tim Kirk</span>"
 page_id: 40643
 namespace: 4
 revision_id: 206313
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kirk, Tim"
 ---
 
-- [Tim Kirk](/wiki/Tim_Kirk) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Tim_Kirk "Category:Images by Tim Kirk") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Tim Kirk](../../main/T/Tim_Kirk.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Tim_Kirk.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

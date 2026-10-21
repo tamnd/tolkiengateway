@@ -1,6 +1,5 @@
 ---
 title: "Category:Academics"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Academics</span>"
 page_id: 27803
 namespace: 14
 revision_id: 115574

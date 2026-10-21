@@ -1,6 +1,5 @@
 ---
 title: "File:Miranda Otto.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miranda Otto.jpg</span>"
 page_id: 6449
 namespace: 6
 revision_id: 426634
@@ -26,7 +25,7 @@ file:
 
 ## Description {#Description}
 
-Image of [Miranda Otto](/wiki/Miranda_Otto).
+Image of [Miranda Otto](../../main/M/Miranda_Otto.md).
 
 ## Summary {#Summary}
 

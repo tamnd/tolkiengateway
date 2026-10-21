@@ -1,6 +1,5 @@
 ---
 title: "Fleming Rutledge"
-display_title: "<span class=\"mw-page-title-main\">Fleming Rutledge</span>"
 page_id: 15616
 namespace: 0
 revision_id: 388837
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Rutledge, Fleming"
 ---
 
-**Reverend Fleming Rutledge** is an American theologician. She has published various religious works, one of which is *[The Battle for Middle-earth: Tolkien's Divine Design in The Lord of the Rings](</wiki/The_Battle_for_Middle-earth_(book)> "The Battle for Middle-earth (book)")* ([2004](/wiki/2004)).
+**Reverend Fleming Rutledge** is an American theologician. She has published various religious works, one of which is *[The Battle for Middle-earth: Tolkien's Divine Design in The Lord of the Rings](<../T/The_Battle_for_Middle-earth_(book).md>)* ([2004](../_/2004.md)).
 
 ## See also {#See_also}
 

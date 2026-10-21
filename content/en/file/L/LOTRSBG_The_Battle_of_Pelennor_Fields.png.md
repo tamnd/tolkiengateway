@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRSBG The Battle of Pelennor Fields.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRSBG The Battle of Pelennor Fields.png</span>"
 page_id: 36174
 namespace: 6
 revision_id: 433582

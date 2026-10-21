@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fire (disambiguation)"
 ---
 
-Redirect to [Fire (disambiguation)](/wiki/Fire_(disambiguation)).
+Redirect to [Fire (disambiguation)](<../F/Fire_(disambiguation).md>).

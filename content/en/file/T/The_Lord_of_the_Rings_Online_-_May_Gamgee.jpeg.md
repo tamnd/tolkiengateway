@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - May Gamgee.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - May Gamgee.jpeg</span>"
 page_id: 65254
 namespace: 6
 revision_id: 429054
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[May Gamgee](/wiki/May_Gamgee) in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*
+[May Gamgee](../../main/M/May_Gamgee.md) in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*
 
 ## Licensing {#Licensing}
 

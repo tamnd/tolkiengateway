@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Billy Callahan"
 ---
 
-Redirect to [Letter to Billy Callahan](/wiki/Letter_to_Billy_Callahan).
+Redirect to [Letter to Billy Callahan](../L/Letter_to_Billy_Callahan.md).

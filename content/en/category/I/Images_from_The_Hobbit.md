@@ -19,4 +19,4 @@ sort_keys:
   "The Hobbit": "Hobbit"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> illustrated by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></b>.</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> illustrated by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> and <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></b>.</dd></dl>

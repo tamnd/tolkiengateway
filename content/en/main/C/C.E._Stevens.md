@@ -1,6 +1,5 @@
 ---
 title: "C.E. Stevens"
-display_title: "<span class=\"mw-page-title-main\">C.E. Stevens</span>"
 page_id: 9288
 namespace: 0
 revision_id: 116873
@@ -19,13 +18,12 @@ sort_keys:
   "People by name": "Stevens, C.E."
 ---
 
-**Courtenay Edward Stevens** ([1905](/wiki/1905)-[1976](/wiki/1976)) was a fellow [Inkling](/wiki/Inklings "Inklings") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). He lectured ancient history at the [University of Oxford](/wiki/University_of_Oxford).
+**Courtenay Edward Stevens** ([1905](../_/1905.md)-[1976](../_/1976.md)) was a fellow [Inkling](../I/Inklings.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). He lectured ancient history at the [University of Oxford](../U/University_of_Oxford.md).
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="/wiki/Inklings" title="Inklings">Inklings</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>The <a href="../I/Inklings.md" title="Inklings">Inklings</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="/wiki/Owen_Barfield" title="Owen Barfield">Owen Barfield</a> · <a href="/wiki/J.A.W._Bennett" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="/wiki/Lord_David_Cecil" title="Lord David Cecil">Lord David Cecil</a> · <a href="/wiki/Nevill_Coghill" title="Nevill Coghill">Nevill Coghill</a> · <a href="/wiki/James_Dundas-Grant" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="/wiki/Hugo_Dyson" title="Hugo Dyson">Hugo Dyson</a> · <a href="/wiki/Adam_Fox" title="Adam Fox">Adam Fox</a> · <a href="/wiki/Colin_Hardie" title="Colin Hardie">Colin Hardie</a> · <a href="/wiki/Robert_Havard" title="Robert Havard">Robert Havard</a> · <a href="/wiki/C.S._Lewis" title="C.S. Lewis">C.S. Lewis</a> · <a href="/wiki/Warren_Lewis" title="Warren Lewis">Warren Lewis</a> · <a href="/wiki/Gervase_Mathew" title="Gervase Mathew">Gervase Mathew</a> · <a href="/wiki/R.B._McCallum" title="R.B. McCallum">R.B. McCallum</a> · <a class="mw-selflink selflink">C.E. Stevens</a> · <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="/wiki/John_Wain" title="John Wain">John Wain</a> · <a href="/wiki/Charles_Williams" title="Charles Williams">Charles Williams</a> · <a href="/wiki/Charles_Leslie_Wrenn" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
+<td style="font-size: 90%;" align="center"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> · <a href="../O/Owen_Barfield.md" title="Owen Barfield">Owen Barfield</a> · <a href="../J/J.A.W._Bennett.md" title="J.A.W. Bennett">J.A.W. Bennett</a> · <a href="../L/Lord_David_Cecil.md" title="Lord David Cecil">Lord David Cecil</a> · <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a> · <a href="../J/James_Dundas-Grant.md" title="James Dundas-Grant">James Dundas-Grant</a> · <a href="../H/Hugo_Dyson.md" title="Hugo Dyson">Hugo Dyson</a> · <a href="../A/Adam_Fox.md" title="Adam Fox">Adam Fox</a> · <a href="Colin_Hardie.md" title="Colin Hardie">Colin Hardie</a> · <a href="../R/Robert_Havard.md" title="Robert Havard">Robert Havard</a> · <a href="C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a> · <a href="../W/Warren_Lewis.md" title="Warren Lewis">Warren Lewis</a> · <a href="../G/Gervase_Mathew.md" title="Gervase Mathew">Gervase Mathew</a> · <a href="../R/R.B._McCallum.md" title="R.B. McCallum">R.B. McCallum</a> · <a class="mw-selflink selflink">C.E. Stevens</a> · <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> · <a href="../J/John_Wain.md" title="John Wain">John Wain</a> · <a href="Charles_Williams.md" title="Charles Williams">Charles Williams</a> · <a href="Charles_Leslie_Wrenn.md" title="Charles Leslie Wrenn">Charles Leslie Wrenn</a>
 </td></tr></tbody></table>

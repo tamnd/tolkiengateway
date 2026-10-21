@@ -1,6 +1,5 @@
 ---
 title: "File:The Philosophy of Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Philosophy of Tolkien.jpg</span>"
 page_id: 5288
 namespace: 6
 revision_id: 214686

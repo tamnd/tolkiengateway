@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of natural features"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of natural features</span>"
 page_id: 39797
 namespace: 14
 revision_id: 198860

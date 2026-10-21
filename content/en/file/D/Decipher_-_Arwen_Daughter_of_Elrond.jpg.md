@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Arwen Daughter of Elrond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Arwen Daughter of Elrond.jpg</span>"
 page_id: 22582
 namespace: 6
 revision_id: 211644

@@ -1,6 +1,5 @@
 ---
 title: "North East Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">North East Tolkien Society</span>"
 page_id: 6917
 namespace: 0
 revision_id: 406815
@@ -14,13 +13,13 @@ categories:
   - "Smials"
 ---
 
-The **North East Tolkien Society**, formerly known as the New York Tolkien Society, and also known as Heren Istarion, was the largest American [Smial](/wiki/Smials "Smials") of [The Tolkien Society](/wiki/The_Tolkien_Society).
+The **North East Tolkien Society**, formerly known as the New York Tolkien Society, and also known as Heren Istarion, was the largest American [Smial](../S/Smials.md) of [The Tolkien Society](../T/The_Tolkien_Society.md).
 
 ## History {#History}
 
 The smial was located on Staten Island, New York. Heren Istarion published its own calendars in 2008,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> 2009,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 2010<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and 2011.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> No 2012 calendar was printed and sold.
 
-The main force behind Heren Istarion were co-chairs [Anthony Burdge](/wiki/Anthony_Burdge) and his wife Jessica Burke. It is defunct since 2009 due to hardship encountered by the co-chairs due to the recession. The last activity of Heren Istarion website was March 2011. The Heren Istarion Facebook page also no longer exists.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Consequently it's website<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> was downgraded to a blog<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> as well as a Facebook page.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+The main force behind Heren Istarion were co-chairs [Anthony Burdge](../A/Anthony_Burdge.md) and his wife Jessica Burke. It is defunct since 2009 due to hardship encountered by the co-chairs due to the recession. The last activity of Heren Istarion website was March 2011. The Heren Istarion Facebook page also no longer exists.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Consequently it's website<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> was downgraded to a blog<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> as well as a Facebook page.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 As at 2012 Anthony Burdge launched a blog covering fantasy and science fiction in general with some J.R.R. Tolkien related content.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In 2013 Anthony Burdge and Jessica Burke founded Myth Ink Books: a fantasy publisher.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
@@ -28,7 +27,7 @@ Aside from Heren Istarion New York City has a Meetup.com group: NYC Area Friends
 
 ## Magazine {#Magazine}
 
-Heren Istarion also published a magazine through 2008, *[Parma Nölé](/wiki/Parma_N%C3%B6l%C3%A9)*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> No issues were released in 2009, 2010 or 2011.
+Heren Istarion also published a magazine through 2008, *[Parma Nölé](../P/Parma_Nölé.md)*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> No issues were released in 2009, 2010 or 2011.
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Estirin"
 ---
 
-Redirect to [Estirin](/wiki/Estirin).
+Redirect to [Estirin](Estirin.md).

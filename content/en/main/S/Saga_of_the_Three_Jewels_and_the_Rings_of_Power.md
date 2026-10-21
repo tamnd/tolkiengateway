@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legendarium"
 ---
 
-Redirect to [Legendarium](/wiki/Legendarium).
+Redirect to [Legendarium](../L/Legendarium.md).

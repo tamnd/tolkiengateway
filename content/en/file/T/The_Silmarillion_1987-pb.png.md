@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 1987-pb.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 1987-pb.png</span>"
 page_id: 62594
 namespace: 6
 revision_id: 353606

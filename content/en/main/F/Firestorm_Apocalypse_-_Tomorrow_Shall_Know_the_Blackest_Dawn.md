@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Gorgor (band)"
 ---
 
-Redirect to [Cirith Gorgor (band)](/wiki/Cirith_Gorgor_(band)).
+Redirect to [Cirith Gorgor (band)](<../C/Cirith_Gorgor_(band).md>).

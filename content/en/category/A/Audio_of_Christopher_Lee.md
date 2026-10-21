@@ -1,6 +1,5 @@
 ---
 title: "Category:Audio of Christopher Lee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio of Christopher Lee</span>"
 page_id: 71198
 namespace: 14
 revision_id: 424880

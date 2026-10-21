@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Joy Hill (28 October 1971)"
 ---
 
-Redirect to [Letter to Joy Hill (28 October 1971)](/wiki/Letter_to_Joy_Hill_(28_October_1971)).
+Redirect to [Letter to Joy Hill (28 October 1971)](<../L/Letter_to_Joy_Hill_(28_October_1971).md>).

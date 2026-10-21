@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Valuable Printed Books and Manuscripts 13 December 2001.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Valuable Printed Books and Manuscripts 13 December 2001.jpg</span>"
 page_id: 26206
 namespace: 6
 revision_id: 215433

@@ -1,6 +1,5 @@
 ---
 title: "File:Denis Gordeev.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Denis Gordeev.jpg</span>"
 page_id: 70953
 namespace: 6
 revision_id: 423911

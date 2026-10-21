@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/5 September 2010"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/5 September 2010</span>"
 page_id: 28415
 namespace: 4
 revision_id: 201993
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 5 September 2010</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 5 September 2010</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -79,33 +76,33 @@ sort_keys:
 <th><font size="3">Responsible</font>
 </th></tr>
 <tr>
-<td>Ask <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a> when each technical problem identified on <a href="/wiki/Tolkien_Gateway:Technical_To-do" title="Tolkien Gateway:Technical To-do">Tolkien Gateway:Technical To-do</a> will be addressed.
+<td>Ask <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a> when each technical problem identified on <a href="../T/Technical_To-do.md" title="Tolkien Gateway:Technical To-do">Tolkien Gateway:Technical To-do</a> will be addressed.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
 <td>Nag Hyarion about the Show/Hide extension.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>Discussion of Tolkien Gateway Portals. Should they be moved to the &#39;Portal&#39; namespace (need we then make Portal an &#39;proper&#39; namespace). Redesigning portals.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Special:WantedPages" title="Special:WantedPages">Redlinks</a> (currently 7,177 of them)
+<td><a href="https://tolkiengateway.net/wiki/Special:WantedPages" title="Special:WantedPages">Redlinks</a> (currently 7,177 of them)
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>Which style to use when creating article and category titles? I&#39;m specifically thinking about capitals versus lower-case - &#34;Category:Images of Authors&#34; or &#34;Category:Images of authors&#34;?
 </td>
-<td><a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/5_September_2010 "Tolkien Gateway talk:Meetings/5 September 2010")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/5_September_2010/Transcript "Tolkien Gateway:Meetings/5 September 2010/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/5_September_2010)
+- [Transcript](Meetings%252F5_September_2010%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

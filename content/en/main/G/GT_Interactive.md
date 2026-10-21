@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "GT Interactive Software Corp."
 ---
 
-Redirect to [GT Interactive Software Corp.](/wiki/GT_Interactive_Software_Corp.).
+Redirect to [GT Interactive Software Corp.](GT_Interactive_Software_Corp..md).

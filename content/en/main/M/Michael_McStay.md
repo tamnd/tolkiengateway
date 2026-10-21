@@ -1,6 +1,5 @@
 ---
 title: "Michael McStay"
-display_title: "<span class=\"mw-page-title-main\">Michael McStay</span>"
 page_id: 6902
 namespace: 0
 revision_id: 406529
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "McStay, Michael"
 ---
 
-**Michael McStay**, born in Essex, England in [1933](/wiki/1933), voiced the part of [Ceorl](/wiki/Ceorl) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on the BBC 4.
+**Michael McStay**, born in Essex, England in [1933](../_/1933.md), voiced the part of [Ceorl](../C/Ceorl.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on the BBC 4.
 
 ## External links {#External_links}
 

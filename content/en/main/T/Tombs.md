@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Graves and tombs"
 ---
 
-Redirect to [Category:Graves and tombs](/wiki/Category:Graves_and_tombs).
+Redirect to [Category:Graves and tombs](../../category/G/Graves_and_tombs.md).

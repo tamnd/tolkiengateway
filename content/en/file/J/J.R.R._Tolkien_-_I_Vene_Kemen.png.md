@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - I Vene Kemen.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - I Vene Kemen.png</span>"
 page_id: 43556
 namespace: 6
 revision_id: 430774
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The drawing *[I Vene Kemen](/wiki/I_Vene_Kemen)*, by J.R.R. Tolkien.
+The drawing *[I Vene Kemen](../../main/I/I_Vene_Kemen.md)*, by J.R.R. Tolkien.
 
 ## Licensing {#Licensing}
 

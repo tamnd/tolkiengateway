@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Front Gate.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Front Gate.png</span>"
 page_id: 62462
 namespace: 6
 revision_id: 429909
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Front Gate](/wiki/Front_Gate "Front Gate")" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+"[The Front Gate](../../main/F/Front_Gate.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Servants of Saruman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Servants of Saruman</span>"
 page_id: 24768
 namespace: 14
 revision_id: 124513
@@ -13,4 +12,4 @@ categories:
   - "Evil"
 ---
 
-Servants and slaves of [Saruman](/wiki/Saruman).
+Servants and slaves of [Saruman](../../main/S/Saruman.md).

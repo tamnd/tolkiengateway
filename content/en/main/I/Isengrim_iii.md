@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengrim Took III"
 ---
 
-Redirect to [Isengrim Took III](/wiki/Isengrim_Took_III).
+Redirect to [Isengrim Took III](Isengrim_Took_III.md).

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Hilary Tolkien"
-display_title: "<span class=\"mw-page-title-main\">Letter to Hilary Tolkien</span>"
 page_id: 25476
 namespace: 0
 revision_id: 405843
@@ -15,16 +14,16 @@ sort_keys:
   "Letters": "Tolkien, Hilary"
 ---
 
-In [1971](/wiki/1971), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Hilary Tolkien](/wiki/Hilary_Tolkien)**.
+In [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Hilary Tolkien](../H/Hilary_Tolkien.md)**.
 
 - **Contents:** Tolkien refers to the celebration of <a class="extiw" href="http://en.wikipedia.org/wiki/Guy_Fawkes_Night" title="wikipedia:Guy Fawkes Night">Guy Fawkes Night</a>, and "one will notice the conspicuous use of some distinctly Tolkienian vernacular".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- **Publication:** An excerpt from the letter was published in *[Black &amp; White Ogre Country](/wiki/Black_%26_White_Ogre_Country)*.
+- **Publication:** An excerpt from the letter was published in *[Black &amp; White Ogre Country](../B/Black_&_White_Ogre_Country.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Jason_Fisher" title="Jason Fisher">Jason Fisher</a>, &#34;<a class="external text" href="http://lingwe.blogspot.com/2010/04/another-of-my-reviews-goes-online.html" rel="noreferrer noopener" target="_blank">Another of my reviews goes online</a>&#34; (Blog entry, retrieved July 17, 2010)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/Jason_Fisher.md" title="Jason Fisher">Jason Fisher</a>, &#34;<a class="external text" href="http://lingwe.blogspot.com/2010/04/another-of-my-reviews-goes-online.html" rel="noreferrer noopener" target="_blank">Another of my reviews goes online</a>&#34; (Blog entry, retrieved July 17, 2010)</span>
 </li>
 </ol></div>

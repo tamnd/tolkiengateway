@@ -1,6 +1,5 @@
 ---
 title: "Journey to Undying Lands"
-display_title: "<span class=\"mw-page-title-main\">Journey to Undying Lands</span>"
 page_id: 22319
 namespace: 0
 revision_id: 81392
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Journey to Undying Lands</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore) about [Valinor](/wiki/Valinor). It appears in their first full-lenght album, [...Where the Shadows Lie](/wiki/...Where_the_Shadows_Lie), released in [2002](/wiki/2002).
+<i><b>Journey to Undying Lands</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md) about [Valinor](../V/Valinor.md). It appears in their first full-lenght album, [...Where the Shadows Lie](../_/%252E..Where_the_Shadows_Lie.md), released in [2002](../_/2002.md).
 
 ## Lyrics {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Incomers"
 ---
 
-Redirect to [Incomers](/wiki/Incomers).
+Redirect to [Incomers](Incomers.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "C.S. Lewis: A Biography (1990 book)"
 ---
 
-Redirect to [C.S. Lewis: A Biography (1990 book)](/wiki/C.S._Lewis:_A_Biography_(1990_book)).
+Redirect to [C.S. Lewis: A Biography (1990 book)](<C.S._Lewis%253A_A_Biography_(1990_book).md>).

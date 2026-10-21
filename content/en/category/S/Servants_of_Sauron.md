@@ -1,6 +1,5 @@
 ---
 title: "Category:Servants of Sauron"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Servants of Sauron</span>"
 page_id: 24767
 namespace: 14
 revision_id: 124508
@@ -13,4 +12,4 @@ categories:
   - "Evil"
 ---
 
-Servants and slaves of [Sauron](/wiki/Sauron).
+Servants and slaves of [Sauron](../../main/S/Sauron.md).

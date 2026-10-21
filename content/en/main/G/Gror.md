@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grór"
 ---
 
-Redirect to [Grór](/wiki/Grór).
+Redirect to [Grór](Grór.md).

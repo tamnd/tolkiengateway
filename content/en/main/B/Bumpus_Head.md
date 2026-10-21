@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faraway"
 ---
 
-Redirect to [Faraway](/wiki/Faraway).
+Redirect to [Faraway](https://tolkiengateway.net/wiki/Faraway).

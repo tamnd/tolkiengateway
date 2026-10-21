@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nivrim"
 ---
 
-Redirect to [Nivrim](/wiki/Nivrim).
+Redirect to [Nivrim](../N/Nivrim.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Randy Gallegos and Quinton Hoover - Gallegos.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Randy Gallegos and Quinton Hoover - Gallegos.jpg</span>"
 page_id: 70929
 namespace: 6
 revision_id: 428874

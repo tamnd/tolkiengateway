@@ -1,6 +1,5 @@
 ---
 title: "Alexei Kondratiev"
-display_title: "<span class=\"mw-page-title-main\">Alexei Kondratiev</span>"
 page_id: 28099
 namespace: 0
 revision_id: 404575
@@ -23,19 +22,19 @@ images:
   - "Alexei_Kondratiev.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Alexei_Kondratiev.jpg"><img src="/w/images/1/15/Alexei_Kondratiev.jpg" decoding="async" loading="lazy" width="286" height="212" class="mw-file-element" data-file-width="286" data-file-height="212"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/A/Alexei_Kondratiev.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Alexei_Kondratiev.jpg" decoding="async" loading="lazy" width="286" height="212" class="mw-file-element" data-file-width="286" data-file-height="212"/></a><figcaption></figcaption></figure>
 
-**Alexei Kondratiev** ([15 February](/wiki/15_February) [1949](/wiki/1949) - [28 May](/wiki/28_May) [2010](/wiki/2010)) was a Celtic scholar, linguist, author and long-time member of the [Mythopoeic Society](/wiki/Mythopoeic_Society).
+**Alexei Kondratiev** ([15 February](../_/15_February.md) [1949](../_/1949.md) - [28 May](../_/28_May.md) [2010](../_/2010.md)) was a Celtic scholar, linguist, author and long-time member of the [Mythopoeic Society](../M/Mythopoeic_Society.md).
 
 Kondratiev was born in New York to a French mother and a Russian father. Raised in rural France near the site of ancient Celtic remains, he was inspired to learn the Irish language, first from books he found in libraries, then by living four years in the Aran Islands among native speakers.
 
-For 25 years he taught Irish language at the Irish Arts Centre in New York as well as courses on [Celtic](/wiki/Celtic) mythology, early Celtic [Christianity](/wiki/Christianity), and the history of Celtic traditional music. He was scholar guest of honor at the [2002 Mythcon in Boulder](/wiki/Mythcon_33 "Mythcon 33").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+For 25 years he taught Irish language at the Irish Arts Centre in New York as well as courses on [Celtic](../C/Celtic.md) mythology, early Celtic [Christianity](../C/Christianity.md), and the history of Celtic traditional music. He was scholar guest of honor at the [2002 Mythcon in Boulder](../M/Mythcon_33.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [1990](/wiki/1990): *[Vinyar Tengwar 13](/wiki/Vinyar_Tengwar_13)*
+- [1990](../_/1990.md): *[Vinyar Tengwar 13](../V/Vinyar_Tengwar_13.md)*
     - "The Way to 'Revived' Elvish: A Cornish Model?"
 
 <span></span>

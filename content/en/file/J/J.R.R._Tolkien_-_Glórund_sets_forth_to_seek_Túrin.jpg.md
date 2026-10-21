@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Glórund sets forth to seek Túrin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Glórund sets forth to seek Túrin.jpg</span>"
 page_id: 5781
 namespace: 6
 revision_id: 411786
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-This painting by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), dated 1927, was published in *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)*. The title is in Old English letters, which J. R. R. Tolkien frequently used when writing in a formal style. At the time of the painting the name of the [Father of Dragons](/wiki/Father_of_Dragons) was *Glórund*, not *Glaurung*, and for the reproduction in the *Calendar* [Christopher Tolkien](/wiki/Christopher_Tolkien) rewrote the Old English lettering in precisely similar form in order to introduce the name by which the Dragon is known in the published work. The entrance to [Nargothrond](/wiki/Nargothrond) is here seen as a single arch, unlike the triple doors seen in other drawings.
+This painting by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), dated 1927, was published in *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)*. The title is in Old English letters, which J. R. R. Tolkien frequently used when writing in a formal style. At the time of the painting the name of the [Father of Dragons](../../main/F/Father_of_Dragons.md) was *Glórund*, not *Glaurung*, and for the reproduction in the *Calendar* [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) rewrote the Old English lettering in precisely similar form in order to introduce the name by which the Dragon is known in the published work. The entrance to [Nargothrond](../../main/N/Nargothrond.md) is here seen as a single arch, unlike the triple doors seen in other drawings.
 
 ## Licensing {#Licensing}
 

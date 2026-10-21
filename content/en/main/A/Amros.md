@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amrod and Amras"
 ---
 
-Redirect to [Amrod and Amras](/wiki/Amrod_and_Amras).
+Redirect to [Amrod and Amras](Amrod_and_Amras.md).

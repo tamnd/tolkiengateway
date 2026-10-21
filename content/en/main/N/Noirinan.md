@@ -1,6 +1,5 @@
 ---
 title: "Noirinan"
-display_title: "<span class=\"mw-page-title-main\">Noirinan</span>"
 page_id: 4123
 namespace: 0
 revision_id: 417218
@@ -31,17 +30,17 @@ images:
   - "Matěj_Čadil_-_Noirinan.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg"><img src="/w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg" decoding="async" loading="lazy" width="300" height="423" class="mw-file-element" srcset="/w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg 1.5x, /w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg 2x" data-file-width="710" data-file-height="1000"/></a><figcaption><a href="/wiki/Mat%C4%9Bj_%C4%8Cadil" title="Matěj Čadil">Matěj Čadil</a> - <i>Noirinan</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Noirinan.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg" decoding="async" loading="lazy" width="300" height="423" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Noirinan.jpg 2x" data-file-width="710" data-file-height="1000"/></a><figcaption><a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a> - <i>Noirinan</i></figcaption></figure>
 
-**Noirinan**, or the **Valley of the Tombs**, was located between the southwest and southeast ridges of the Mountain [Meneltarma](/wiki/Meneltarma) on the island of [Númenor](/wiki/N%C3%BAmenor).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The shallow valley held the tombs of the [Kings of Númenor](/wiki/Kings_of_N%C3%BAmenor), cut into the rock of the mountain. In Noirinan was also the spring of the river [Siril](/wiki/Siril), the main course of water which flowed across the island of Númenor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Noirinan**, or the **Valley of the Tombs**, was located between the southwest and southeast ridges of the Mountain [Meneltarma](../M/Meneltarma.md) on the island of [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The shallow valley held the tombs of the [Kings of Númenor](../K/Kings_of_Númenor.md), cut into the rock of the mountain. In Noirinan was also the spring of the river [Siril](../S/Siril.md), the main course of water which flowed across the island of Númenor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/N%C3%BAmen%C3%B3r%C3%AB_(map)" title="Númenórë (map)">[Map of] Númenórë</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="Númenórë_(map).md" title="Númenórë (map)">[Map of] Númenórë</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/A_Description_of_the_Island_of_N%C3%BAmenor" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;</span>
 </li>
 </ol></div>

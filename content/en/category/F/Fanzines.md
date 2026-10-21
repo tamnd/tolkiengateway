@@ -1,6 +1,5 @@
 ---
 title: "Category:Fanzines"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fanzines</span>"
 page_id: 15523
 namespace: 14
 revision_id: 183267

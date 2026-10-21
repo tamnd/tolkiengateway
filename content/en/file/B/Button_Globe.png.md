@@ -1,6 +1,5 @@
 ---
 title: "File:Button Globe.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Button Globe.png</span>"
 page_id: 28539
 namespace: 6
 revision_id: 169000

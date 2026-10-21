@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elenarda (disambiguation)"
 ---
 
-Redirect to [Elenarda (disambiguation)](/wiki/Elenarda_(disambiguation)).
+Redirect to [Elenarda (disambiguation)](<Elenarda_(disambiguation).md>).

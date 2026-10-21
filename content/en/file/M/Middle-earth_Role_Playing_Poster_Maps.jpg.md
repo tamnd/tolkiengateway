@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Role Playing Poster Maps.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing Poster Maps.jpg</span>"
 page_id: 29617
 namespace: 6
 revision_id: 350712

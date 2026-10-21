@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ron Spencer"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ron Spencer</span>"
 page_id: 30666
 namespace: 14
 revision_id: 431176
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Spencer, Ron"
 ---
 
-This category lists all **images by [Ron Spencer](/wiki/Ron_Spencer)**.
+This category lists all **images by [Ron Spencer](../../main/R/Ron_Spencer.md)**.

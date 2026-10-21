@@ -1,6 +1,5 @@
 ---
 title: "Eärendil (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Eärendil (disambiguation)</span>"
 page_id: 5013
 namespace: 0
 revision_id: 409071
@@ -28,25 +27,25 @@ images:
   - "Disambig.png"
 ---
 
-**Eärendil** ([Quenya](/wiki/Quenya): "sea-friend", pron. <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendil]</span>) can refer to the following:
+**Eärendil** ([Quenya](../Q/Quenya.md): "sea-friend", pron. <span title="Pronunciation in IPA" class="IPA">[ˌe.aˈrendil]</span>) can refer to the following:
 
-- **[Eärendil](/wiki/E%C3%A4rendil) (born [F.A.](/wiki/First_Age "First Age") [503](/wiki/First_Age_503 "First Age 503")), the great hero of the [First Age](/wiki/First_Age) who sailed to [Valinor](/wiki/Valinor) with a [Silmaril](/wiki/Silmaril).**
-    - [Star of Eärendil](/wiki/Star_of_E%C3%A4rendil), the [Silmaril](/wiki/Silmaril) that shines as a star in the night sky.
-    - *[Eärendillinwë](/wiki/E%C3%A4rendillinw%C3%AB)*, a poem in *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)* about [Eärendil](/wiki/E%C3%A4rendil) written by [Bilbo Baggins](/wiki/Bilbo_Baggins).
-- [Eärendil](</wiki/E%C3%A4rendil_(King_of_Gondor)> "Eärendil (King of Gondor)") ([T.A.](/wiki/Third_Age "Third Age") [238](/wiki/Third_Age_238 "Third Age 238") - [324](/wiki/Third_Age_324 "Third Age 324")), the fifth [King](/wiki/Kings_of_Gondor "Kings of Gondor") of [Gondor](/wiki/Gondor).
+- **[Eärendil](Eärendil.md) (born [F.A.](../F/First_Age.md) [503](../F/First_Age_503.md)), the great hero of the [First Age](../F/First_Age.md) who sailed to [Valinor](../V/Valinor.md) with a [Silmaril](../S/Silmaril.md).**
+    - [Star of Eärendil](../S/Star_of_Eärendil.md), the [Silmaril](../S/Silmaril.md) that shines as a star in the night sky.
+    - *[Eärendillinwë](Eärendillinwë.md)*, a poem in *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* about [Eärendil](Eärendil.md) written by [Bilbo Baggins](../B/Bilbo_Baggins.md).
+- [Eärendil](<Eärendil_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [238](../T/Third_Age_238.md) - [324](../T/Third_Age_324.md)), the fifth [King](../K/Kings_of_Gondor.md) of [Gondor](../G/Gondor.md).
 
-- The [Elessar of Eärendil](/wiki/Elessar_of_E%C3%A4rendil), a fabulous gem of the [First](/wiki/First_Age "First Age") and [Third](/wiki/Third_Age "Third Age") Ages.
-- *[Aiya Eärendil elenion ancalima!](/wiki/Aiya_E%C3%A4rendil_elenion_ancalima!)*, a cry in [Quenya](/wiki/Quenya).
+- The [Elessar of Eärendil](Elessar_of_Eärendil.md), a fabulous gem of the [First](../F/First_Age.md) and [Third](../T/Third_Age.md) Ages.
+- *[Aiya Eärendil elenion ancalima!](../A/Aiya_Eärendil_elenion_ancalima!.md)*, a cry in [Quenya](../Q/Quenya.md).
 
 ## See also {#See_also}
 
-- <a class="mw-disambig" href="/wiki/E%C3%A4rnil_(disambiguation)" title="Eärnil (disambiguation)">Eärnil (disambiguation)</a>, a contracted form of Eärendil.
+- <a class="mw-disambig" href="Eärnil_(disambiguation).md" title="Eärnil (disambiguation)">Eärnil (disambiguation)</a>, a contracted form of Eärendil.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:E%C3%A4rendil_(disambiguation)" title="Special:WhatLinksHere/:Eärendil (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:E%C3%A4rendil_(disambiguation)" title="Special:WhatLinksHere/:Eärendil (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

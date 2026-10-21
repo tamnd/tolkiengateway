@@ -1,6 +1,5 @@
 ---
 title: "Letter to John Higgins"
-display_title: "<span class=\"mw-page-title-main\">Letter to John Higgins</span>"
 page_id: 41362
 namespace: 0
 revision_id: 387866
@@ -17,9 +16,9 @@ images:
   - "John_Higgins_20_April_1973.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_Higgins_20_April_1973.png"><img src="/w/images/thumb/a/af/John_Higgins_20_April_1973.png/300px-John_Higgins_20_April_1973.png" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="/w/images/a/af/John_Higgins_20_April_1973.png 1.5x" data-file-width="357" data-file-height="443"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Higgins_20_April_1973.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/John_Higgins_20_April_1973.png/300px-John_Higgins_20_April_1973.png" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/af/John_Higgins_20_April_1973.png 1.5x" data-file-width="357" data-file-height="443"/></a><figcaption></figcaption></figure>
 
-On [20 April](/wiki/20_April) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to John Higgins** (then Arts Editor of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Times" title="wikipedia:The Times">The Times</a></i>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [20 April](../_/20_April.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to John Higgins** (then Arts Editor of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Times" title="wikipedia:The Times">The Times</a></i>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Subject:** A reply to a request for Tolkien to take part in a literary jury.
 
@@ -30,13 +29,11 @@ On [20 April](/wiki/20_April) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://groups.yahoo.com/group/mythsoc/message/23244" rel="noreferrer noopener" target="_blank">&#34;A Rare Tolkienian Treasure (#23244 and related messages)&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Mythopoeic_Society" title="Mythopoeic Society">Mailing list for the Mythopoeic Society</a></span>. <span class="cite-web-accessed">Retrieved 8 September 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://groups.yahoo.com/group/mythsoc/message/23244" rel="noreferrer noopener" target="_blank">&#34;A Rare Tolkienian Treasure (#23244 and related messages)&#34;</a></span>. <span class="cite-web-website"><a href="../M/Mythopoeic_Society.md" title="Mythopoeic Society">Mailing list for the Mythopoeic Society</a></span>. <span class="cite-web-accessed">Retrieved 8 September 2012</span></cite></span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Germanic Heroes, Courage, and Fate.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Germanic Heroes, Courage, and Fate.jpg</span>"
 page_id: 67020
 namespace: 6
 revision_id: 388778
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Front cover of *[Germanic Heroes, Courage, and Fate: Northern Narratives of J.R.R. Tolkien’s Legendarium](/wiki/Germanic_Heroes,_Courage,_and_Fate "Germanic Heroes, Courage, and Fate")*. Cover illustration by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann), "The Oath of [Finrod Felagund](/wiki/Finrod_Felagund)" (2022).
+Front cover of *[Germanic Heroes, Courage, and Fate: Northern Narratives of J.R.R. Tolkien’s Legendarium](../../main/G/Germanic_Heroes,_Courage,_and_Fate.md)*. Cover illustration by [Anke Eißmann](../../main/A/Anke_Eißmann.md), "The Oath of [Finrod Felagund](../../main/F/Finrod_Felagund.md)" (2022).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Temperance (The Hobbit).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Temperance (The Hobbit).jpeg</span>"
 page_id: 73022
 namespace: 6
 revision_id: 432451
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Temperance" - *[The Hobbit Tarot](/wiki/The_Hobbit_Tarot)* illustration by [Peter Pracownik](/wiki/Peter_Pracownik)
+"Temperance" - *[The Hobbit Tarot](../../main/T/The_Hobbit_Tarot.md)* illustration by [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Licensing {#Licensing}
 

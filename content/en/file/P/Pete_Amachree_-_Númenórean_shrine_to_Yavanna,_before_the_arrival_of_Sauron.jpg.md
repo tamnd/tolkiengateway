@@ -1,6 +1,5 @@
 ---
 title: "File:Pete Amachree - Númenórean shrine to Yavanna, before the arrival of Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pete Amachree - Númenórean shrine to Yavanna, before the arrival of Sauron.jpg</span>"
 page_id: 62469
 namespace: 6
 revision_id: 352711
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Pete Amachree</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/summerpudding" rel="noreferrer noopener" target="_blank">Pete Amachree&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Pete_Amachree" title="Tolkien Gateway:Copyrights/Pete Amachree">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPete_Amachree.md" title="Tolkien Gateway:Copyrights/Pete Amachree">Permission for use on Tolkien Gateway</a></b></li></ul></div>

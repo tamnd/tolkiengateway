@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mírë"
 ---
 
-Redirect to [Mírë](/wiki/Mírë).
+Redirect to [Mírë](Mírë.md).

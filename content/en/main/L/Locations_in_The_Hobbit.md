@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Locations in The Hobbit"
 ---
 
-Redirect to [Index:Locations in The Hobbit](/wiki/Index:Locations_in_The_Hobbit).
+Redirect to [Index:Locations in The Hobbit](../../index/L/Locations_in_The_Hobbit.md).

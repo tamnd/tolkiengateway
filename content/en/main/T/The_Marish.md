@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marish"
 ---
 
-Redirect to [Marish](/wiki/Marish).
+Redirect to [Marish](../M/Marish.md).

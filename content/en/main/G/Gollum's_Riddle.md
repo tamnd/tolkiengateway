@@ -1,6 +1,5 @@
 ---
 title: "Gollum's Riddle"
-display_title: "<span class=\"mw-page-title-main\">Gollum&#039;s Riddle</span>"
 page_id: 38734
 namespace: 0
 revision_id: 243442
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Gollum's Riddle** is a song whose score was written by [Maury Laws](/wiki/Maury_Laws) for the [1977](/wiki/1977) [film adaptation](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)") of the *[The Hobbit](/wiki/The_Hobbit)*. It follows the riddle [Gollum](/wiki/Gollum) proposes to [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") until the ending line.
+**Gollum's Riddle** is a song whose score was written by [Maury Laws](../M/Maury_Laws.md) for the [1977](../_/1977.md) [film adaptation](<../T/The_Hobbit_(1977_film).md>) of the *[The Hobbit](../T/The_Hobbit.md)*. It follows the riddle [Gollum](Gollum.md) proposes to [Bilbo](../B/Bilbo_Baggins.md) until the ending line.
 
 ## Lyrics {#Lyrics}
 

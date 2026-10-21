@@ -1,6 +1,5 @@
 ---
 title: "Herblore of the Shire"
-display_title: "<span class=\"mw-page-title-main\">Herblore of the Shire</span>"
 page_id: 2978
 namespace: 0
 revision_id: 405826
@@ -26,17 +25,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/arts/livres/herbier_de_la_comte"
 ---
 
-<i><b>Herblore of the Shire</b></i> was a book written by [Merry Brandybuck](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck"), one of several treatises he authored after his return from the [War of the Ring](/wiki/War_of_the_Ring), but before he became [Master of Buckland](/wiki/Master_of_Buckland).
+<i><b>Herblore of the Shire</b></i> was a book written by [Merry Brandybuck](../M/Meriadoc_Brandybuck.md), one of several treatises he authored after his return from the [War of the Ring](../W/War_of_the_Ring.md), but before he became [Master of Buckland](../M/Master_of_Buckland.md).
 
-The book discussed the origins and history of the [Hobbits](/wiki/Hobbits)' 'art' of [smoking](/wiki/Smoking "Smoking") [Pipe-weed](/wiki/Pipe-weed), tracing it back through [Tobold Hornblower](/wiki/Tobold_Hornblower) (who introduced it to [the Shire](/wiki/The_Shire "The Shire")) to its ultimate origins in [Middle-earth](/wiki/Middle-earth), in the [lands along](/wiki/Vales_of_Anduin "Vales of Anduin") the southern banks of the [Anduin](/wiki/Anduin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The book discussed the origins and history of the [Hobbits](Hobbits.md)' 'art' of [smoking](../S/Smoking.md) [Pipe-weed](../P/Pipe-weed.md), tracing it back through [Tobold Hornblower](../T/Tobold_Hornblower.md) (who introduced it to [the Shire](../T/The_Shire.md)) to its ultimate origins in [Middle-earth](../M/Middle-earth.md), in the [lands along](../V/Vales_of_Anduin.md) the southern banks of the [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-This book was one of the important tomes kept in the library of [Bucklebury](/wiki/Bucklebury), perhaps one of those important works that weren't copied into the [Red Book](/wiki/Red_Book).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+This book was one of the important tomes kept in the library of [Bucklebury](../B/Bucklebury.md), perhaps one of those important works that weren't copied into the [Red Book](../R/Red_Book.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="/wiki/Prologue_(The_Lord_of_the_Rings)" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="/wiki/Concerning_Pipe-weed" title="Concerning Pipe-weed">Concerning Pipe-weed</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="../C/Concerning_Pipe-weed.md" title="Concerning Pipe-weed">Concerning Pipe-weed</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="/wiki/Prologue_(The_Lord_of_the_Rings)" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="/wiki/Note_on_the_Shire_Records" title="Note on the Shire Records">Note on the Shire Records</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="../N/Note_on_the_Shire_Records.md" title="Note on the Shire Records">Note on the Shire Records</a>&#34;</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Kíli, Fíli, Dori, Nori.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Kíli, Fíli, Dori, Nori.jpg</span>"
 page_id: 40559
 namespace: 6
 revision_id: 222525

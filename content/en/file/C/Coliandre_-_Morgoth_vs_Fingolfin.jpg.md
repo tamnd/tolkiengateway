@@ -1,6 +1,5 @@
 ---
 title: "File:Coliandre - Morgoth vs Fingolfin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Coliandre - Morgoth vs Fingolfin.jpg</span>"
 page_id: 74335
 namespace: 6
 revision_id: 437945
@@ -40,24 +39,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Coliandre - Morgoth vs Fingolfin.jpg</span></th>
 <td class="description">
-<blockquote><p>Here is one I wanted to make for so long and it’s also a duel (like I did with my first set of illustrations): <a href="/wiki/Morgoth" title="Morgoth">Morgoth</a> vs <a href="/wiki/Fingolfin" title="Fingolfin">Fingolfin</a>! Because before <a href="/wiki/Sauron" title="Sauron">Sauron</a>, there was the first dark lord of <a href="/wiki/Middle-earth" title="Middle-earth">Middle Earth</a>, thief of <a href="/wiki/Silmarils" title="Silmarils">the silmarils</a>, in his <a href="/wiki/Angband" title="Angband">Angband fortress</a>.</p></blockquote>
+<blockquote><p>Here is one I wanted to make for so long and it’s also a duel (like I did with my first set of illustrations): <a href="../../main/M/Morgoth.md" title="Morgoth">Morgoth</a> vs <a href="../../main/F/Fingolfin.md" title="Fingolfin">Fingolfin</a>! Because before <a href="../../main/S/Sauron.md" title="Sauron">Sauron</a>, there was the first dark lord of <a href="../../main/M/Middle-earth.md" title="Middle-earth">Middle Earth</a>, thief of <a href="../../main/S/Silmarils.md" title="Silmarils">the silmarils</a>, in his <a href="../../main/A/Angband.md" title="Angband">Angband fortress</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/29_August" title="29 August">August 29</a>, <a href="/wiki/2024" title="2024">2024</a> - 8:11 PM</td>
+<td><a href="../../main/_/29_August.md" title="29 August">August 29</a>, <a href="../../main/_/2024.md" title="2024">2024</a> - 8:11 PM</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Coliandre" title="Category:Images by Coliandre">Coliandre</a></td>
+<td><a href="../../category/I/Images_by_Coliandre.md" title="Category:Images by Coliandre">Coliandre</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://coliandre.artstation.com/projects/EzL5Xn" rel="noreferrer noopener" target="_blank">https://coliandre.artstation.com/projects/EzL5Xn</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Coliandre</span></span>
@@ -65,4 +61,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Coliandre</li>
 <li><b>Website:</b> <a class="external text" href="http://www.xaviercollette.art" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Coliandre" title="Tolkien Gateway:Copyrights/Coliandre">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FColiandre.md" title="Tolkien Gateway:Copyrights/Coliandre">Permission for use on Tolkien Gateway</a></b></li></ul></div>

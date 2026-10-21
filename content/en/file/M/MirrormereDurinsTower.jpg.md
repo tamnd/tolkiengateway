@@ -1,6 +1,5 @@
 ---
 title: "File:MirrormereDurinsTower.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MirrormereDurinsTower.jpg</span>"
 page_id: 31075
 namespace: 6
 revision_id: 174065
@@ -25,7 +24,7 @@ file:
   user: "Chrisofduke"
 ---
 
-[Mirrormere](/wiki/Mirrormere) and [Durin's Stone](/wiki/Durin%27s_Stone) as depicted in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+[Mirrormere](../../main/M/Mirrormere.md) and [Durin's Stone](../../main/D/Durin's_Stone.md) as depicted in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.turbine.com/" rel="noreferrer noopener" target="_blank">Turbine</a>. It is believed that the limited use of this file,

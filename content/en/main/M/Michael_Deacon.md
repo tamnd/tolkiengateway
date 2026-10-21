@@ -1,6 +1,5 @@
 ---
 title: "Michael Deacon"
-display_title: "<span class=\"mw-page-title-main\">Michael Deacon</span>"
 page_id: 10617
 namespace: 0
 revision_id: 406524
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Deacon, Michael"
 ---
 
-**Michael Deacon** ([March 6](/wiki/6_March "6 March"), [1937](/wiki/1937) - [December 26](/wiki/26_December "26 December"), [2000](/wiki/2000)) was a British actor. He was the voice of [Gríma Wormtongue](/wiki/Gr%C3%ADma "Gríma") in [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+**Michael Deacon** ([March 6](../_/6_March.md), [1937](../_/1937.md) - [December 26](../_/26_December.md), [2000](../_/2000.md)) was a British actor. He was the voice of [Gríma Wormtongue](../G/Gríma.md) in [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

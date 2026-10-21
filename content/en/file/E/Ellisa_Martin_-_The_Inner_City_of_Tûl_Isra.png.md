@@ -1,6 +1,5 @@
 ---
 title: "File:Ellisa Martin - The Inner City of Tûl Isra.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ellisa Martin - The Inner City of Tûl Isra.png</span>"
 page_id: 71994
 namespace: 6
 revision_id: 428512

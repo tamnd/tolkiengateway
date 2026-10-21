@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - That's what Bilbo Baggins hates!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - That&#039;s what Bilbo Baggins hates!.jpg</span>"
 page_id: 42239
 namespace: 6
 revision_id: 314321

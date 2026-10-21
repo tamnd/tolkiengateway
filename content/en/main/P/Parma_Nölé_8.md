@@ -15,16 +15,16 @@ sort_keys:
   "Parma Nölé": "Parma Nole 08"
 ---
 
-<b><i>Parma Nölé</i> 8</b> is the eighth issue of the [North East Tolkien Society](/wiki/North_East_Tolkien_Society) journal *[Parma Nölé](/wiki/Parma_N%C3%B6l%C3%A9)*.
+<b><i>Parma Nölé</i> 8</b> is the eighth issue of the [North East Tolkien Society](../N/North_East_Tolkien_Society.md) journal *[Parma Nölé](Parma_Nölé.md)*.
 
 ## Contents {#Contents}
 
 - Letters from the Chairman and Co-chair of the Heren Istarion
 - "Pippin Skywalker": "The Bilbo and Frodo Birthday Celebration September 2003"
 - Amy Hitotsubashi: "The Eleventy-first Birthday Cake"
-- <a class="new" href="/w/index.php?title=Emily_Newhouse&amp;action=edit&amp;redlink=1" title="Emily Newhouse (page does not exist)">Emily Newhouse</a> and Constance Shuchardt: "Poetry and Art Corner"
-- <a class="new" href="/w/index.php?title=Sabrina_Jackson&amp;action=edit&amp;redlink=1" title="Sabrina Jackson (page does not exist)">Sabrina Jackson</a>: "Unsung Heroes"
-- [Amy H. Sturgis](/wiki/Amy_H._Sturgis): "An Interview with [Glass Hammer](/wiki/Glass_Hammer)
-- "An Interview with [Jane Chance](/wiki/Jane_Chance)"
-- [Anthony S. Burdge](/wiki/Anthony_S._Burdge): "Games Workshop Product Spotlight: A Review of the Return of the King set"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emily_Newhouse&amp;action=edit&amp;redlink=1" title="Emily Newhouse (page does not exist)">Emily Newhouse</a> and Constance Shuchardt: "Poetry and Art Corner"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sabrina_Jackson&amp;action=edit&amp;redlink=1" title="Sabrina Jackson (page does not exist)">Sabrina Jackson</a>: "Unsung Heroes"
+- [Amy H. Sturgis](../A/Amy_H._Sturgis.md): "An Interview with [Glass Hammer](../G/Glass_Hammer.md)
+- "An Interview with [Jane Chance](../J/Jane_Chance.md)"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Games Workshop Product Spotlight: A Review of the Return of the King set"
 - Catherine Sparsidis: "Pellenor Fields" (art)

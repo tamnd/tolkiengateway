@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Sketches of Dwarves Marching, and Smaug.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Sketches of Dwarves Marching, and Smaug.png</span>"
 page_id: 71640
 namespace: 6
 revision_id: 427024
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Sketches of [Dwarves](/wiki/Dwarves) Marching, and [Smaug](/wiki/Smaug)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+"Sketches of [Dwarves](../../main/D/Dwarves.md) Marching, and [Smaug](../../main/S/Smaug.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord's Prayer (disambiguation)"
 ---
 
-Redirect to [Lord's Prayer (disambiguation)](/wiki/Lord's_Prayer_(disambiguation)).
+Redirect to [Lord's Prayer (disambiguation)](<../L/Lord's_Prayer_(disambiguation).md>).

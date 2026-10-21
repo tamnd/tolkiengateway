@@ -1,6 +1,5 @@
 ---
 title: "Jared Lobdell"
-display_title: "<span class=\"mw-page-title-main\">Jared Lobdell</span>"
 page_id: 10223
 namespace: 0
 revision_id: 428701
@@ -21,31 +20,31 @@ sort_keys:
   "People by name": "Lobdell, Jared"
 ---
 
-Dr. **Jared Charles Lobdell** (born [29 November](/wiki/29_November) [1937](/wiki/1937) - [22 March](/wiki/22_March) [2019](/wiki/2019)) was an American writer and teacher of Literary Criticism (and many other fields). He published several articles about various fantasy and science-fiction writers, like [C.S. Lewis](/wiki/C.S._Lewis) and George Orwell.
+Dr. **Jared Charles Lobdell** (born [29 November](../_/29_November.md) [1937](../_/1937.md) - [22 March](../_/22_March.md) [2019](../_/2019.md)) was an American writer and teacher of Literary Criticism (and many other fields). He published several articles about various fantasy and science-fiction writers, like [C.S. Lewis](../C/C.S._Lewis.md) and George Orwell.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [1975](/wiki/1975): *[A Tolkien Compass](/wiki/A_Tolkien_Compass)* (editor)
-- [1981](/wiki/1981): <i><a class="new" href="/w/index.php?title=England_and_Always:_Tolkien%27s_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="England and Always: Tolkien&#39;s World of the Rings (page does not exist)">England and Always: Tolkien&#39;s World of the Rings</a></i>
-- [2004](/wiki/2004): <i><a class="new" href="/w/index.php?title=The_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="The World of the Rings (page does not exist)">The World of the Rings</a></i>
-- [2005](/wiki/2005): *[The Rise of Tolkienian Fantasy](/wiki/The_Rise_of_Tolkienian_Fantasy)*
+- [1975](../_/1975.md): *[A Tolkien Compass](../A/A_Tolkien_Compass.md)* (editor)
+- [1981](../_/1981.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=England_and_Always:_Tolkien%27s_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="England and Always: Tolkien&#39;s World of the Rings (page does not exist)">England and Always: Tolkien&#39;s World of the Rings</a></i>
+- [2004](../_/2004.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_World_of_the_Rings&amp;action=edit&amp;redlink=1" title="The World of the Rings (page does not exist)">The World of the Rings</a></i>
+- [2005](../_/2005.md): *[The Rise of Tolkienian Fantasy](../T/The_Rise_of_Tolkienian_Fantasy.md)*
 
 ### Articles {#Articles}
 
-- [1966](/wiki/1966): *[Rally - August, 1966](/wiki/Rally_-_August,_1966)*
+- [1966](../_/1966.md): *[Rally - August, 1966](../R/Rally_-_August,_1966.md)*
     - "Words That Sound like Castles"
-- [1975](/wiki/1975): *[A Tolkien Compass](/wiki/A_Tolkien_Compass)* (editor)
+- [1975](../_/1975.md): *[A Tolkien Compass](../A/A_Tolkien_Compass.md)* (editor)
     - Introduction
     - Postscript (2nd edition)
-- [1978](/wiki/1978): *American Notes and Queries Supplement I*
+- [1978](../_/1978.md): *American Notes and Queries Supplement I*
     - "A Medieval Proverb in *The Lord of the Rings*"
-- [1987](/wiki/1987): *[Selections from the Marquette J.R.R. Tolkien Collection](/wiki/Selections_from_the_Marquette_J.R.R._Tolkien_Collection)*
+- [1987](../_/1987.md): *[Selections from the Marquette J.R.R. Tolkien Collection](../S/Selections_from_the_Marquette_J.R.R._Tolkien_Collection.md)*
     - "Mr. Bliss: Notes on the Manuscript and Story"
-- [1991](/wiki/1991): *[Word and Story in C.S. Lewis](/wiki/Word_and_Story_in_C.S._Lewis)*
+- [1991](../_/1991.md): *[Word and Story in C.S. Lewis](../W/Word_and_Story_in_C.S._Lewis.md)*
     - "C.S. Lewis’s Ransom Stories and Their Eighteenth-Century Ancestry"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - Nomenclature of The Lord of the Rings
     - Angels
     - Carolingians
@@ -69,19 +68,19 @@ Dr. **Jared Charles Lobdell** (born [29 November](/wiki/29_November) [1937](/wik
     - Sin
     - Welsh Language
     - World War II
-- [2011](/wiki/2011): *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](/wiki/Light_Beyond_All_Shadow "Light Beyond All Shadow")*
+- [2011](../_/2011.md): *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*
     - "Ymagynatyf and J.R.R. Tolkien's Roman Catholicism, Catholic Theology, Religion in *The Lord of the Rings*"
-- [2016](/wiki/2016): *[Laughter in Middle-earth](/wiki/Laughter_in_Middle-earth)*
+- [2016](../_/2016.md): *[Laughter in Middle-earth](../L/Laughter_in_Middle-earth.md)*
     - "Humour, Comedy, the Comic, Comicality, Puns, Wordplay, 'Fantastication', and 'English Humour' in and around Tolkien and His Work, and among the Inklings"
 
 ### Reviews {#Reviews}
 
-- [2008](/wiki/2008): *[Tolkien Studies: Volume 5](/wiki/Tolkien_Studies:_Volume_5)*
-    - Review of *[Tolkien and Shakespeare: Essays on Shared Themes and Language](/wiki/Tolkien_and_Shakespeare:_Essays_on_Shared_Themes_and_Language)*
+- [2008](../_/2008.md): *[Tolkien Studies: Volume 5](../T/Tolkien_Studies%253A_Volume_5.md)*
+    - Review of *[Tolkien and Shakespeare: Essays on Shared Themes and Language](../T/Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md)*
 
 ### See also {#See_also}
 
-- *[Letter to Jared C. Lobdell](/wiki/Letter_to_Jared_C._Lobdell)*
+- *[Letter to Jared C. Lobdell](../L/Letter_to_Jared_C._Lobdell.md)*
 
 ## External links {#External_links}
 

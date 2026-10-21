@@ -1,6 +1,5 @@
 ---
 title: "File:Joona Kujanen - Dain chases Azog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joona Kujanen - Dain chases Azog.jpg</span>"
 page_id: 41461
 namespace: 6
 revision_id: 335432
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Joona Kujanen</li>
 <li><b>Website:</b> <a class="external free" href="http://tulikoura.deviantart.com/" rel="noreferrer noopener" target="_blank">http://tulikoura.deviantart.com/</a> Joona Kujanen&#39;s DeviantArt]</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joona_Kujanen" title="Tolkien Gateway:Copyrights/Joona Kujanen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoona_Kujanen.md" title="Tolkien Gateway:Copyrights/Joona Kujanen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

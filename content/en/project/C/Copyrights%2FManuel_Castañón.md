@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Manuel Castañón"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Manuel Castañón</span>"
 page_id: 60294
 namespace: 4
 revision_id: 433630
@@ -15,8 +14,8 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Castanon, Manuel"
 ---
 
-- Manuel Castañón has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Manuel_Casta%C3%B1%C3%B3n "Category:Images by Manuel Castañón") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Manuel Castañón has kindly granted his permission to use [his artwork](../../category/I/Images_by_Manuel_Castañón.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 25 October 2021
-- User who sought the permission via ArtStation: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via ArtStation: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)
 - Screenshot evidence of author permission: <a class="external free" href="https://imgur.com/a/atkegKl" rel="noreferrer noopener" target="_blank">https://imgur.com/a/atkegKl</a>
-- Re-confirmed by [User:PLord](/wiki/User:PLord) via email on 4 February 2026
+- Re-confirmed by [User:PLord](https://tolkiengateway.net/wiki/User:PLord) via email on 4 February 2026

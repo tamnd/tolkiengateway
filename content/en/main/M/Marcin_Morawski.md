@@ -1,6 +1,5 @@
 ---
 title: "Marcin Morawski"
-display_title: "<span class=\"mw-page-title-main\">Marcin Morawski</span>"
 page_id: 21497
 namespace: 0
 revision_id: 406463
@@ -23,19 +22,19 @@ sort_keys:
   "Tolkien Society members": "Morawski, Marcin"
 ---
 
-**Marcin Morawski**, operating online by the handle **Lómendil**, is a member of the [Polish Tolkien Society](/wiki/Polish_Tolkien_Society), and a frequent contributor to their journal, *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")*.
+**Marcin Morawski**, operating online by the handle **Lómendil**, is a member of the [Polish Tolkien Society](../P/Polish_Tolkien_Society.md), and a frequent contributor to their journal, *[Aiglos](<../A/Aiglos_(journal).md>)*.
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* #5
+- [2006](../_/2006.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #5
     - "Perverts with Pointed Ears?"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entry
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entry
     - "Poland: Reception of Tolkien"
-- [2006](/wiki/2006): *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* #6
+- [2006](../_/2006.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #6
     - "To Beowulf's Rescue"
-- [2007](/wiki/2007): *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* #7
-    - "Ponies, Celts and Psychoanalysis, or Perilous Realms Indeed" (review of *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](/wiki/Perilous_Realms:_Celtic_and_Norse_in_Tolkien%27s_Middle-earth)* by [Marjorie Burns](/wiki/Marjorie_Burns))
-- [2007](/wiki/2007): *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)")* #8
+- [2007](../_/2007.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #7
+    - "Ponies, Celts and Psychoanalysis, or Perilous Realms Indeed" (review of *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)* by [Marjorie Burns](Marjorie_Burns.md))
+- [2007](../_/2007.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #8
     - "Antiphons In Rivendell And Dark Mattins – Or Tolkien, Elves, And the Roman Liturgy "
     - "*J.R.R Tolkien Encyclopedia. Scholarschip and Critical Assessment* ed. by Michael D.C. Drout" (review)
 

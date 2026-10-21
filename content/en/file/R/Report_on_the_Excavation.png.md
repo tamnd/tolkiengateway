@@ -1,6 +1,5 @@
 ---
 title: "File:Report on the Excavation.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Report on the Excavation.png</span>"
 page_id: 40374
 namespace: 6
 revision_id: 214584

@@ -1,6 +1,5 @@
 ---
 title: "File:Peter S. Beagle.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter S. Beagle.jpg</span>"
 page_id: 66555
 namespace: 6
 revision_id: 384975

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranor (disambiguation)"
 ---
 
-Redirect to [Baranor (disambiguation)](/wiki/Baranor_(disambiguation)).
+Redirect to [Baranor (disambiguation)](<Baranor_(disambiguation).md>).

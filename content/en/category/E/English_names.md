@@ -1,6 +1,5 @@
 ---
 title: "Category:English names"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">English names</span>"
 page_id: 25085
 namespace: 14
 revision_id: 366427
@@ -13,4 +12,4 @@ categories:
   - "Germanic names"
 ---
 
-[English](/wiki/Modern_English "Modern English") names in the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). Since English wasn't spoken in [Middle-earth](/wiki/Middle-earth), all these names are used in a "translative" sense. Please limit this category's use to names that occur in Tolkien's [legendarium](/wiki/Legendarium "Legendarium")—not every article on [Tolkien Gateway](/wiki/Tolkien_Gateway) with an English name is relevant to the internal narrative.
+[English](../../main/M/Modern_English.md) names in the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). Since English wasn't spoken in [Middle-earth](../../main/M/Middle-earth.md), all these names are used in a "translative" sense. Please limit this category's use to names that occur in Tolkien's [legendarium](../../main/L/Legendarium.md)—not every article on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) with an English name is relevant to the internal narrative.

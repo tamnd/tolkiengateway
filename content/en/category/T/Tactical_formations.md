@@ -1,6 +1,5 @@
 ---
 title: "Category:Tactical formations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tactical formations</span>"
 page_id: 28459
 namespace: 14
 revision_id: 123892
@@ -13,4 +12,4 @@ categories:
   - "Military"
 ---
 
-Named tactical formations from the [legendarium](/wiki/Legendarium "Legendarium").
+Named tactical formations from the [legendarium](../../main/L/Legendarium.md).

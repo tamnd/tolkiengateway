@@ -1,6 +1,5 @@
 ---
 title: "File:Kelvaquenta.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kelvaquenta.jpg</span>"
 page_id: 48150
 namespace: 6
 revision_id: 256829
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Kelvaquenta](/wiki/Kelvaquenta)* cover.
+*[Kelvaquenta](../../main/K/Kelvaquenta.md)* cover.
 
 ## Licensing {#Licensing}
 

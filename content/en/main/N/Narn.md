@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Hîn Húrin"
 ---
 
-Redirect to [Narn i Hîn Húrin](/wiki/Narn_i_Hîn_Húrin).
+Redirect to [Narn i Hîn Húrin](Narn_i_Hîn_Húrin.md).

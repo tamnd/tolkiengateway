@@ -13,26 +13,26 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>iach</b></i> is a word only appearing in compound names (cf. Examples). The word is commonly understood to be a [Sindarin](/wiki/Sindarin) noun meaning meaning "ford" or "crossing".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>iach</b></i> is a word only appearing in compound names (cf. Examples). The word is commonly understood to be a [Sindarin](../S/Sindarin.md) noun meaning meaning "ford" or "crossing".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Arossiach](/wiki/Arossiach#Etymology)*
-- *[Brithiach](/wiki/Ford_of_Brithiach "Ford of Brithiach")*
-- *[Cirith Ninniach](/wiki/Cirith_Ninniach)*
+- *[Arossiach](../A/Arossiach.md#Etymology)*
+- *[Brithiach](../F/Ford_of_Brithiach.md)*
+- *[Cirith Ninniach](../C/Cirith_Ninniach.md)*
 
 ## See also {#See_also}
 
-- [Sindarin](/wiki/Sindarin) *[athrad](/wiki/Athrad "Athrad")*
-- [Quenya](/wiki/Quenya) *[yatta](/wiki/Yatta "Yatta")*
+- [Sindarin](../S/Sindarin.md) *[athrad](../A/Athrad.md)*
+- [Quenya](../Q/Quenya.md) *[yatta](../Y/Yatta.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/David_Salo" title="David Salo">David Salo</a> (<a href="/wiki/2004" title="2004">2004</a>), <i><a href="/wiki/A_Gateway_to_Sindarin" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, pp. 319, 323</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../D/David_Salo.md" title="David Salo">David Salo</a> (<a href="../_/2004.md" title="2004">2004</a>), <i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, pp. 319, 323</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Didier_Willis" title="Didier Willis">Didier Willis</a>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/english.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> at <a class="external text" href="http://www.jrrvf.com/haut.shtml" rel="noreferrer noopener" target="_blank">Jrrvf.com</a> (accessed 20 July 2011)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../D/Didier_Willis.md" title="Didier Willis">Didier Willis</a>, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/english.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> at <a class="external text" href="http://www.jrrvf.com/haut.shtml" rel="noreferrer noopener" target="_blank">Jrrvf.com</a> (accessed 20 July 2011)</span>
 </li>
 </ol></div>

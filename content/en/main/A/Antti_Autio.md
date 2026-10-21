@@ -1,6 +1,5 @@
 ---
 title: "Antti Autio"
-display_title: "<span class=\"mw-page-title-main\">Antti Autio</span>"
 page_id: 14103
 namespace: 0
 revision_id: 404690
@@ -21,13 +20,13 @@ images:
   - "Antti_Autio_-_Morgoth_and_Fingolfin.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Antti_Autio_-_Morgoth_and_Fingolfin.jpg"><img src="/w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/300px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="/w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/450px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg 1.5x, /w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/600px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg 2x" data-file-width="768" data-file-height="1024"/></a><figcaption>Antti Autio - <i>Morgoth and Fingolfin</i></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Antti_Autio_-_Morgoth_and_Fingolfin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/300px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg" decoding="async" loading="lazy" width="300" height="400" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/450px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b0/Antti_Autio_-_Morgoth_and_Fingolfin.jpg/600px-Antti_Autio_-_Morgoth_and_Fingolfin.jpg 2x" data-file-width="768" data-file-height="1024"/></a><figcaption>Antti Autio - <i>Morgoth and Fingolfin</i></figcaption></figure>
 
-**Antti Autio** is an artist from Helsinki, Finland who has created many [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired pictures.
+**Antti Autio** is an artist from Helsinki, Finland who has created many [Tolkien](../J/J.R.R._Tolkien.md)-inspired pictures.
 
 ## See also {#See_also}
 
-[Images by Antti Autio](/wiki/Category:Images_by_Antti_Autio "Category:Images by Antti Autio")
+[Images by Antti Autio](../../category/I/Images_by_Antti_Autio.md)
 
 ## External links {#External_links}
 

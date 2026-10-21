@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Armored Merry and Pippin.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Armored Merry and Pippin.gif</span>"
 page_id: 11862
 namespace: 6
 revision_id: 203787

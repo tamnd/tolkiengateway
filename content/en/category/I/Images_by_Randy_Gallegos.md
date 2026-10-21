@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Randy Gallegos"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Randy Gallegos</span>"
 page_id: 25949
 namespace: 14
 revision_id: 182143

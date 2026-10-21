@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Ram.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Ram.gif</span>"
 page_id: 12030
 namespace: 6
 revision_id: 204033

@@ -1,6 +1,5 @@
 ---
 title: "Lewis MacLeod"
-display_title: "<span class=\"mw-page-title-main\">Lewis MacLeod</span>"
 page_id: 22892
 namespace: 0
 revision_id: 360055
@@ -23,8 +22,8 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Hadhod, Dwarf Sage, Additional voices
-- [2004](/wiki/2004): *[The Lord of the Rings: The Third Age](/wiki/The_Lord_of_the_Rings:_The_Third_Age)*: Hadhod, [Sharku](/wiki/Sharku)
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Hadhod, Dwarf Sage, Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)*: Hadhod, [Sharku](../S/Sharku.md)
 
 ## External links {#External_links}
 

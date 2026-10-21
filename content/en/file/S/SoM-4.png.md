@@ -1,6 +1,5 @@
 ---
 title: "File:SoM-4.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SoM-4.png</span>"
 page_id: 30300
 namespace: 6
 revision_id: 249108

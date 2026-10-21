@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halls of Mandos"
 ---
 
-Redirect to [Halls of Mandos](/wiki/Halls_of_Mandos).
+Redirect to [Halls of Mandos](Halls_of_Mandos.md).

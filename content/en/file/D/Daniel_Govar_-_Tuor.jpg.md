@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Govar - Tuor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Govar - Tuor.jpg</span>"
 page_id: 8771
 namespace: 6
 revision_id: 208557
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Daniel Govar</li>
 <li><b>Website:</b> <a class="external text" href="http://thereandbackagain.net/" rel="noreferrer noopener" target="_blank">Daniel Govar&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Daniel_Govar" title="Tolkien Gateway:Copyrights/Daniel Govar">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDaniel_Govar.md" title="Tolkien Gateway:Copyrights/Daniel Govar">Permission for use on Tolkien Gateway</a></b></li></ul></div>

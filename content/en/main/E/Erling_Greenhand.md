@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erling"
 ---
 
-Redirect to [Erling](/wiki/Erling).
+Redirect to [Erling](Erling.md).

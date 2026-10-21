@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Good orcs 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Good orcs 2.jpg</span>"
 page_id: 24378
 namespace: 6
 revision_id: 260538
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A scene from [The Return of the King (1980 film)](</wiki/The_Return_of_the_King_(1980_film)>). This is a scene from [Frodo](/wiki/Frodo_Baggins "Frodo Baggins")'s dream, as he imagines a more peaceful life where [Orcs](/wiki/Orcs) are his friends and neighbors instead of his enemies.
+A scene from [The Return of the King (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>). This is a scene from [Frodo](../../main/F/Frodo_Baggins.md)'s dream, as he imagines a more peaceful life where [Orcs](../../main/O/Orcs.md) are his friends and neighbors instead of his enemies.
 
 ## Licensing {#Licensing}
 

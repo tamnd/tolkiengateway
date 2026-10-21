@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ered Wethrin"
 ---
 
-Redirect to [Ered Wethrin](/wiki/Ered_Wethrin).
+Redirect to [Ered Wethrin](../E/Ered_Wethrin.md).

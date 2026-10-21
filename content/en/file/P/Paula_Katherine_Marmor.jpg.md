@@ -1,6 +1,5 @@
 ---
 title: "File:Paula Katherine Marmor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paula Katherine Marmor.jpg</span>"
 page_id: 28395
 namespace: 6
 revision_id: 181834
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photo of [Paula Marmor](/wiki/Paula_Marmor), by Glen Blankenship (copyright 2004).
+Photo of [Paula Marmor](../../main/P/Paula_Marmor.md), by Glen Blankenship (copyright 2004).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photo of [Paula Marmor](/wiki/Paula_Marmor), by Glen Blankenship (copyright 2004
 </p>
 <ul><li><b>Name:</b> Paula Marmor and Glen Blankenship</li>
 <li><b>Website:</b> <a class="external text" href="http://www.elizabethan.org/paulakate/index.html" rel="noreferrer noopener" target="_blank">Paula Marmor</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Paula_Marmor_and_Glen_Blankenship" title="Tolkien Gateway:Copyrights/Paula Marmor and Glen Blankenship">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPaula_Marmor_and_Glen_Blankenship.md" title="Tolkien Gateway:Copyrights/Paula Marmor and Glen Blankenship">Permission for use on Tolkien Gateway</a></b></li></ul></div>

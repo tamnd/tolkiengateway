@@ -11,4 +11,4 @@ redirect_target: "Canon"
 redirect_fragment: "Determining a priority"
 ---
 
-Redirect to [Canon](/wiki/Canon#Determining_a_priority).
+Redirect to [Canon](../C/Canon.md#Determining_a_priority).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arveleg II"
 ---
 
-Redirect to [Arveleg II](/wiki/Arveleg_II).
+Redirect to [Arveleg II](Arveleg_II.md).

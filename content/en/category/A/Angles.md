@@ -1,6 +1,5 @@
 ---
 title: "Category:Angles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angles</span>"
 page_id: 61645
 namespace: 14
 revision_id: 347915

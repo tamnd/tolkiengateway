@@ -1,6 +1,5 @@
 ---
 title: "File:C.N. Manlove 8 February 1967.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">C.N. Manlove 8 February 1967.png</span>"
 page_id: 38965
 namespace: 6
 revision_id: 215021

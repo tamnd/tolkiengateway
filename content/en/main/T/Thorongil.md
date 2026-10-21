@@ -1,6 +1,5 @@
 ---
 title: "Thorongil"
-display_title: "<span class=\"mw-page-title-main\">Thorongil</span>"
 page_id: 4702
 namespace: 0
 revision_id: 407644
@@ -29,21 +28,19 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></b></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**Thorongil** was an alias taken by [Aragorn](/wiki/Aragorn) in his youth ([T.A.](/wiki/Third_Age "Third Age") [2957](/wiki/Third_Age_2957 "Third Age 2957")-[2980](/wiki/Third_Age_2980 "Third Age 2980")<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), when he journeyed to [Rohan](/wiki/Rohan) and [Gondor](/wiki/Gondor) and performed services to their lords.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thorongil** was an alias taken by [Aragorn](../A/Aragorn.md) in his youth ([T.A.](Third_Age.md) [2957](Third_Age_2957.md)-[2980](Third_Age_2980.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>), when he journeyed to [Rohan](../R/Rohan.md) and [Gondor](../G/Gondor.md) and performed services to their lords.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-Thorongil is [Sindarin](/wiki/Sindarin) for *Eagle of the Star*. [thoron](/wiki/Thoron "Thoron") = eagle, [gil](/wiki/Gil "Gil") = star. <span></span>
+Thorongil is [Sindarin](../S/Sindarin.md) for *Eagle of the Star*. [thoron](Thoron.md) = eagle, [gil](../G/Gil.md) = star. <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;, &#34;The Stewards&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;, &#34;The Stewards&#34;</span>
 </li>
 </ol></div>

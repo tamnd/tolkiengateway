@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion Read by Martin Shaw.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion Read by Martin Shaw.jpg</span>"
 page_id: 64839
 namespace: 6
 revision_id: 373813

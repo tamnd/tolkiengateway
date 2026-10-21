@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of collectibles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of collectibles</span>"
 page_id: 5367
 namespace: 14
 revision_id: 199407
@@ -15,4 +14,4 @@ sort_keys:
   "Images of merchandise": "collectibles"
 ---
 
-Below is a gallery of images of collectibles relating to related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+Below is a gallery of images of collectibles relating to related to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.

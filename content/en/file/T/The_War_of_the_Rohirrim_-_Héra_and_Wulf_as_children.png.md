@@ -1,6 +1,5 @@
 ---
 title: "File:The War of the Rohirrim - Héra and Wulf as children.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The War of the Rohirrim - Héra and Wulf as children.png</span>"
 page_id: 70558
 namespace: 6
 revision_id: 435403

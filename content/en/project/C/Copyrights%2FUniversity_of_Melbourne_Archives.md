@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/University of Melbourne Archives"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/University of Melbourne Archives</span>"
 page_id: 37016
 namespace: 4
 revision_id: 193187
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "University of Melbourne Archives"
 ---
 
-- Permission granted by copyright holder University of Melbourne Archives to use [G.H. Cowling.png](/wiki/File:G.H._Cowling.png "File:G.H. Cowling.png") on Tolkien Gateway.
+- Permission granted by copyright holder University of Melbourne Archives to use [G.H. Cowling.png](../../file/G/G.H._Cowling.png.md) on Tolkien Gateway.
 - Date: 5 December 2011
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
-- Note: Contact the University of Melbourne Archives or [User:Morgan](/wiki/User:Morgan) to enquire about details of the Permission to Publish form.
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)
+- Note: Contact the University of Melbourne Archives or [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan) to enquire about details of the Permission to Publish form.

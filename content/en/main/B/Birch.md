@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Birches"
 ---
 
-Redirect to [Birches](/wiki/Birches).
+Redirect to [Birches](Birches.md).

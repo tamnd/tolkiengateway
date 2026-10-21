@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Legolas Greenleaf.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Legolas Greenleaf.jpeg</span>"
 page_id: 73673
 namespace: 6
 revision_id: 435335
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orlando Bloom](/wiki/Orlando_Bloom) as [Legolas](/wiki/Legolas) - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+[Orlando Bloom](../../main/O/Orlando_Bloom.md) as [Legolas](../../main/L/Legolas.md) - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

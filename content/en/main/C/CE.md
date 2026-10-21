@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Common Eldarin"
 ---
 
-Redirect to [Common Eldarin](/wiki/Common_Eldarin).
+Redirect to [Common Eldarin](Common_Eldarin.md).

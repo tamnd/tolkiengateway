@@ -1,6 +1,5 @@
 ---
 title: "Ed Sheeran"
-display_title: "<span class=\"mw-page-title-main\">Ed Sheeran</span>"
 page_id: 44990
 namespace: 0
 revision_id: 359528
@@ -26,9 +25,9 @@ images:
   - "Ed_Sheeran.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Ed_Sheeran.jpg"><img src="/w/images/thumb/4/4d/Ed_Sheeran.jpg/250px-Ed_Sheeran.jpg" decoding="async" loading="lazy" width="250" height="140" class="mw-file-element" srcset="/w/images/thumb/4/4d/Ed_Sheeran.jpg/375px-Ed_Sheeran.jpg 1.5x, /w/images/thumb/4/4d/Ed_Sheeran.jpg/500px-Ed_Sheeran.jpg 2x" data-file-width="600" data-file-height="337"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Ed_Sheeran.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/250px-Ed_Sheeran.jpg" decoding="async" loading="lazy" width="250" height="140" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/375px-Ed_Sheeran.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Ed_Sheeran.jpg/500px-Ed_Sheeran.jpg 2x" data-file-width="600" data-file-height="337"/></a><figcaption></figcaption></figure>
 
-**Ed Sheeran** ([17 February](/wiki/17_February) [1991](/wiki/1991)) is an English singer and songwriter. He wrote and performed "[I See Fire](/wiki/I_See_Fire)", the credit song of *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*.
+**Ed Sheeran** ([17 February](../_/17_February.md) [1991](../_/1991.md)) is an English singer and songwriter. He wrote and performed "[I See Fire](../I/I_See_Fire.md)", the credit song of *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
 
 ## External links {#External_links}
 

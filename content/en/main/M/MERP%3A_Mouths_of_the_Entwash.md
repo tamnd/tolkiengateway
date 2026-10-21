@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouths of the Entwash"
 ---
 
-Redirect to [Mouths of the Entwash](/wiki/Mouths_of_the_Entwash).
+Redirect to [Mouths of the Entwash](Mouths_of_the_Entwash.md).

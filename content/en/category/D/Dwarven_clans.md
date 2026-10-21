@@ -1,6 +1,5 @@
 ---
 title: "Category:Dwarven clans"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dwarven clans</span>"
 page_id: 10993
 namespace: 14
 revision_id: 39445

@@ -1,6 +1,5 @@
 ---
 title: "Strategic Fantasy Games of Australia"
-display_title: "<span class=\"mw-page-title-main\">Strategic Fantasy Games of Australia</span>"
 page_id: 27685
 namespace: 0
 revision_id: 407300
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Strategic Fantasy Games of Australia** is the publisher and game master of the [Australian](/wiki/Australia "Australia") [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Strategic Fantasy Games of Australia** is the publisher and game master of the [Australian](../A/Australia.md) [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Luca Bonatti - Farewell to Fangorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Luca Bonatti - Farewell to Fangorn.jpg</span>"
 page_id: 6450
 namespace: 6
 revision_id: 266183
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Luca Bonatti</li>
 <li><b>Website:</b> <a class="external text" href="http://www.lucabonatti.com/" rel="noreferrer noopener" target="_blank">Luca Bonatti&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Luca_Bonatti" title="Tolkien Gateway:Copyrights/Luca Bonatti">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLuca_Bonatti.md" title="Tolkien Gateway:Copyrights/Luca Bonatti">Permission for use on Tolkien Gateway</a></b></li></ul></div>

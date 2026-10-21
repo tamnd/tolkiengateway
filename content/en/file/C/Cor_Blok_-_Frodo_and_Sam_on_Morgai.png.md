@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Frodo and Sam on Morgai.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Frodo and Sam on Morgai.png</span>"
 page_id: 71739
 namespace: 6
 revision_id: 427544
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Frodo](/wiki/Frodo_Baggins "Frodo Baggins") and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee") on [Morgai](/wiki/Morgai)" by [Cor Blok](/wiki/Cor_Blok). Created on [12 December](/wiki/12_December) [1959](/wiki/1959).
+"[Frodo](../../main/F/Frodo_Baggins.md) and [Sam](../../main/S/Samwise_Gamgee.md) on [Morgai](../../main/M/Morgai.md)" by [Cor Blok](../../main/C/Cor_Blok.md). Created on [12 December](../../main/_/12_December.md) [1959](../../main/_/1959.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Shippey"
 ---
 
-Redirect to [Tom Shippey](/wiki/Tom_Shippey).
+Redirect to [Tom Shippey](Tom_Shippey.md).

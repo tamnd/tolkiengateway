@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Turner Mohan - Two Kings.jpg"
 ---
 
-Redirect to [File:Turner Mohan - Two Kings.jpg](/wiki/File:Turner_Mohan_-_Two_Kings.jpg).
+Redirect to [File:Turner Mohan - Two Kings.jpg](Turner_Mohan_-_Two_Kings.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's works in popular media"
 ---
 
-Redirect to [Tolkien's works in popular media](/wiki/Tolkien's_works_in_popular_media).
+Redirect to [Tolkien's works in popular media](Tolkien's_works_in_popular_media.md).

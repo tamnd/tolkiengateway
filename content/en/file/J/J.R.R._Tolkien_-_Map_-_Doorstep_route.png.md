@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Map - Doorstep route.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Map - Doorstep route.png</span>"
 page_id: 41991
 namespace: 6
 revision_id: 384623
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Part of a map drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) showing the route to [Erebor](/wiki/Erebor).
+Part of a map drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) showing the route to [Erebor](../../main/E/Erebor.md).
 
 ## Licensing {#Licensing}
 

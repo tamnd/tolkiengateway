@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Gandalf the White.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Gandalf the White.gif</span>"
 page_id: 11983
 namespace: 6
 revision_id: 437849

@@ -1,6 +1,5 @@
 ---
 title: "File:The Story of Kullervo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Story of Kullervo.png</span>"
 page_id: 62531
 namespace: 6
 revision_id: 353256

@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Mirkwood Elf Guard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Mirkwood Elf Guard.png</span>"
 page_id: 73176
 namespace: 6
 revision_id: 433022
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mirkwood Elf](/wiki/Elves_of_Mirkwood "Elves of Mirkwood") Guard - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor053/mirkwood-elf-guard" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
+[Mirkwood Elf](../../main/E/Elves_of_Mirkwood.md) Guard - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://www.brickeconomy.com/minifig/lor053/mirkwood-elf-guard" rel="noreferrer noopener" target="_blank">BrickEconomy</a>
 
 ## Licensing {#Licensing}
 

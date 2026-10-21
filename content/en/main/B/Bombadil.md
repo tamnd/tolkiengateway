@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Bombadil"
 ---
 
-Redirect to [Tom Bombadil](/wiki/Tom_Bombadil).
+Redirect to [Tom Bombadil](../T/Tom_Bombadil.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Rog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Rog.jpg</span>"
 page_id: 56311
 namespace: 6
 revision_id: 306461
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Rog](/wiki/Rog), lord of the House of the [Hammer of Wrath](/wiki/Hammer_of_Wrath), by Natalie Chen.
+Image of [Rog](../../main/R/Rog.md), lord of the House of the [Hammer of Wrath](../../main/H/Hammer_of_Wrath.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Image of [Rog](/wiki/Rog), lord of the House of the [Hammer of Wrath](/wiki/Hamm
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Frédéric Bennett - Morgoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frédéric Bennett - Morgoth.jpg</span>"
 page_id: 70224
 namespace: 6
 revision_id: 417695
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Frédéric Bennett</li>
 <li><b>Website:</b> <a class="external text" href="http://frederic_bennett.artstation.com/" rel="noreferrer noopener" target="_blank">Frédéric Bennett&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Fr%C3%A9d%C3%A9ric_Bennett" title="Tolkien Gateway:Copyrights/Frédéric Bennett">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFrédéric_Bennett.md" title="Tolkien Gateway:Copyrights/Frédéric Bennett">Permission for use on Tolkien Gateway</a></b></li></ul></div>

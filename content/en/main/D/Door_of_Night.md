@@ -1,6 +1,5 @@
 ---
 title: "Door of Night"
-display_title: "<span class=\"mw-page-title-main\">Door of Night</span>"
 page_id: 1917
 namespace: 0
 revision_id: 422786
@@ -25,37 +24,37 @@ images:
   - "Mariano_Merchante_-_Door_of_Night.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mariano_Merchante_-_Door_of_Night.jpg"><img src="/w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/300px-Mariano_Merchante_-_Door_of_Night.jpg" decoding="async" loading="lazy" width="300" height="472" class="mw-file-element" srcset="/w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/450px-Mariano_Merchante_-_Door_of_Night.jpg 1.5x, /w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/600px-Mariano_Merchante_-_Door_of_Night.jpg 2x" data-file-width="2048" data-file-height="3224"/></a><figcaption><i>The Door of Night</i> by Mariano Merchante</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mariano_Merchante_-_Door_of_Night.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/300px-Mariano_Merchante_-_Door_of_Night.jpg" decoding="async" loading="lazy" width="300" height="472" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/450px-Mariano_Merchante_-_Door_of_Night.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/Mariano_Merchante_-_Door_of_Night.jpg/600px-Mariano_Merchante_-_Door_of_Night.jpg 2x" data-file-width="2048" data-file-height="3224"/></a><figcaption><i>The Door of Night</i> by Mariano Merchante</figcaption></figure>
 
-The **Door of Night** was a portal in the distant [Uttermost West](/wiki/Uttermost_West) that leads to [heaven](/wiki/Heaven "Heaven"), and/or the [Void](/wiki/Void).
+The **Door of Night** was a portal in the distant [Uttermost West](../U/Uttermost_West.md) that leads to [heaven](../H/Heaven.md), and/or the [Void](../V/Void.md).
 
-[Eärendil](/wiki/E%C3%A4rendil)'s ship [Vingilot](/wiki/Vingilot) was taken by the [Valar](/wiki/Valar) from the rim of the world, passed through the Door and was lifted into the "oceans of heaven".
+[Eärendil](../E/Eärendil.md)'s ship [Vingilot](../V/Vingilot.md) was taken by the [Valar](../V/Valar.md) from the rim of the world, passed through the Door and was lifted into the "oceans of heaven".
 
-Later, [Morgoth](/wiki/Morgoth) was cast through it after his defeat in the [War of Wrath](/wiki/War_of_Wrath), but he ended up beyond the [Walls of the World](/wiki/Walls_of_the_World) into the Timeless Void.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Later, [Morgoth](../M/Morgoth.md) was cast through it after his defeat in the [War of Wrath](../W/War_of_Wrath.md), but he ended up beyond the [Walls of the World](../W/Walls_of_the_World.md) into the Timeless Void.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Other versions of the legendarium {#Other_versions_of_the_legendarium}
 
-In [The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales) the door is mentioned to have been made by the [Valar](/wiki/Valar) as a passage for the [Sun](/wiki/Sun), which would return into the World through the [Gates of Morning](/wiki/Gates_of_Morning) in the east.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In [The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md) the door is mentioned to have been made by the [Valar](../V/Valar.md) as a passage for the [Sun](../S/Sun.md), which would return into the World through the [Gates of Morning](../G/Gates_of_Morning.md) in the east.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-In the *[Ambarkanta](/wiki/Ambarkanta)*, it was made expressly as a gateway through which to expel Morgoth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+In the *[Ambarkanta](../A/Ambarkanta.md)*, it was made expressly as a gateway through which to expel Morgoth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## See also {#See_also}
 
-- [Walls of the Night](/wiki/Walls_of_the_Night)
-- [Walls of the World](/wiki/Walls_of_the_World)
-- [Gates of Morning](/wiki/Gates_of_Morning)
-- [Images of the Door of Night](/wiki/Category:Images_of_the_Door_of_Night "Category:Images of the Door of Night")
+- [Walls of the Night](../W/Walls_of_the_Night.md)
+- [Walls of the World](../W/Walls_of_the_World.md)
+- [Gates of Morning](../G/Gates_of_Morning.md)
+- [Images of the Door of Night](../../category/I/Images_of_the_Door_of_Night.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_the_Voyage_of_E%C3%A4rendil_and_the_War_of_Wrath" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;VIII. <a href="/wiki/The_Tale_of_the_Sun_and_Moon" title="The Tale of the Sun and Moon">The Tale of the Sun and Moon</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;VIII. <a href="../T/The_Tale_of_the_Sun_and_Moon.md" title="The Tale of the Sun and Moon">The Tale of the Sun and Moon</a>&#34;</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Shaping_of_Middle-earth" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, &#34;V. <a href="/wiki/The_Ambarkanta" title="The Ambarkanta">The <i>Ambarkanta</i></a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i>, &#34;V. <a href="../T/The_Ambarkanta.md" title="The Ambarkanta">The <i>Ambarkanta</i></a>&#34;</span>
 </li>
 </ol></div>

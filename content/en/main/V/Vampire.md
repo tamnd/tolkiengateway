@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vampires"
 ---
 
-Redirect to [Vampires](/wiki/Vampires).
+Redirect to [Vampires](Vampires.md).

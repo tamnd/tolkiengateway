@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Allen & Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Allen &amp; Unwin</span>"
 page_id: 66654
 namespace: 14
 revision_id: 404192
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Allen & Unwin"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Allen &amp; Unwin](/wiki/Allen_and_Unwin "Allen and Unwin").
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Allen &amp; Unwin](../../main/A/Allen_and_Unwin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebrant"
 ---
 
-Redirect to [Celebrant](/wiki/Celebrant).
+Redirect to [Celebrant](../C/Celebrant.md).

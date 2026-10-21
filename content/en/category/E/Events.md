@@ -1,6 +1,5 @@
 ---
 title: "Category:Events"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Events</span>"
 page_id: 10844
 namespace: 14
 revision_id: 252436
@@ -14,4 +13,4 @@ categories:
   - "Time"
 ---
 
-Major events in the history of [Arda](/wiki/Arda).
+Major events in the history of [Arda](../../main/A/Arda.md).

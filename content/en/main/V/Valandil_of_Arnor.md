@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valandil (King of Arnor)"
 ---
 
-Redirect to [Valandil (King of Arnor)](/wiki/Valandil_(King_of_Arnor)).
+Redirect to [Valandil (King of Arnor)](<Valandil_(King_of_Arnor).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Frodo Rankin Bass.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frodo Rankin Bass.png</span>"
 page_id: 20133
 namespace: 6
 revision_id: 169003

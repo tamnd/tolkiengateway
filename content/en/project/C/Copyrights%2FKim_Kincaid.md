@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Kim Kincaid"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Kim Kincaid</span>"
 page_id: 40876
 namespace: 4
 revision_id: 207442
@@ -15,8 +14,8 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kincaid, Kim"
 ---
 
-- Kim Kincaid has kindly granted her permission to use [selected artwork](/wiki/Category:Images_by_Kyle_Anderson "Category:Images by Kyle Anderson") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-    - [File:Kim Kincaid - Thorin Oakenshield.jpg](/wiki/File:Kim_Kincaid_-_Thorin_Oakenshield.jpg)
-    - [File:Kim Kincaid - Destiny's Call.jpg](/wiki/File:Kim_Kincaid_-_Destiny%27s_Call.jpg)
+- Kim Kincaid has kindly granted her permission to use [selected artwork](../../category/I/Images_by_Kyle_Anderson.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+    - [File:Kim Kincaid - Thorin Oakenshield.jpg](../../file/K/Kim_Kincaid_-_Thorin_Oakenshield.jpg.md)
+    - [File:Kim Kincaid - Destiny's Call.jpg](../../file/K/Kim_Kincaid_-_Destiny's_Call.jpg.md)
 - Date: 3 August 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

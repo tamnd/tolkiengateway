@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lynnette Porter"
 ---
 
-Redirect to [Lynnette Porter](/wiki/Lynnette_Porter).
+Redirect to [Lynnette Porter](Lynnette_Porter.md).

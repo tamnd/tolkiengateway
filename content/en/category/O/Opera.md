@@ -1,6 +1,5 @@
 ---
 title: "Category:Opera"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Opera</span>"
 page_id: 70998
 namespace: 14
 revision_id: 424117
@@ -13,4 +12,4 @@ categories:
   - "Stage adaptations"
 ---
 
-This category lists all **Operas** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") work.
+This category lists all **Operas** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) work.

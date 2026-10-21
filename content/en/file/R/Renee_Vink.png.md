@@ -1,6 +1,5 @@
 ---
 title: "File:Renee Vink.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Renee Vink.png</span>"
 page_id: 43769
 namespace: 6
 revision_id: 230578
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Renée Vink](/wiki/Ren%C3%A9e_Vink).
+Photograph of [Renée Vink](../../main/R/Renée_Vink.md).
 
 ## Licensing {#Licensing}
 
@@ -32,4 +31,4 @@ Photograph of [Renée Vink](/wiki/Ren%C3%A9e_Vink).
 <p>This work is copyrighted and owned by Renée Vink. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Renée Vink</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ren%C3%A9e_Vink" title="Tolkien Gateway:Copyrights/Renée Vink">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRenée_Vink.md" title="Tolkien Gateway:Copyrights/Renée Vink">Permission for use on Tolkien Gateway</a></b></li></ul></div>

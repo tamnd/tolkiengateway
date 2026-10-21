@@ -1,6 +1,5 @@
 ---
 title: "File:Lembas Extra 2022.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lembas Extra 2022.jpg</span>"
 page_id: 64392
 namespace: 6
 revision_id: 369060

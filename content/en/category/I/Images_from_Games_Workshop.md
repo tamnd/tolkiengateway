@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Games Workshop"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Games Workshop</span>"
 page_id: 73307
 namespace: 14
 revision_id: 433551

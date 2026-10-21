@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Law of Succession in Númenor"
 ---
 
-Redirect to [Law of Succession in Númenor](/wiki/Law_of_Succession_in_Númenor).
+Redirect to [Law of Succession in Númenor](../L/Law_of_Succession_in_Númenor.md).

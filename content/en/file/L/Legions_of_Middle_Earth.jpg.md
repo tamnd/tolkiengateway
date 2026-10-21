@@ -1,6 +1,5 @@
 ---
 title: "File:Legions of Middle Earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Legions of Middle Earth.jpg</span>"
 page_id: 26500
 namespace: 6
 revision_id: 433578

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Galadriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Galadriel.png</span>"
 page_id: 71434
 namespace: 6
 revision_id: 436317
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Galadriel](../../main/G/Galadriel.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

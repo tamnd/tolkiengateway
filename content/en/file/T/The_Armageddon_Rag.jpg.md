@@ -1,6 +1,5 @@
 ---
 title: "File:The Armageddon Rag.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Armageddon Rag.jpg</span>"
 page_id: 29720
 namespace: 6
 revision_id: 214616

@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Mewlips.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Mewlips.jpg</span>"
 page_id: 29279
 namespace: 6
 revision_id: 204785
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by [Angus McBride](/wiki/Angus_McBride), appearing in *[Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)*.
+Image by [Angus McBride](../../main/A/Angus_McBride.md), appearing in *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 

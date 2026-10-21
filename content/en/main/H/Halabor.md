@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angbor (stone)"
 ---
 
-Redirect to [Angbor (stone)](/wiki/Angbor_(stone)).
+Redirect to [Angbor (stone)](<../A/Angbor_(stone).md>).

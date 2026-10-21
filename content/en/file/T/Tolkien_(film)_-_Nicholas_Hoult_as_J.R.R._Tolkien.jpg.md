@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien (film) - Nicholas Hoult as J.R.R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien (film) - Nicholas Hoult as J.R.R. Tolkien.jpg</span>"
 page_id: 63408
 namespace: 6
 revision_id: 368792
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of J.R.R. Tolkien from [Tolkien (film)](</wiki/Tolkien_(film)>).
+Image of J.R.R. Tolkien from [Tolkien (film)](<../../main/T/Tolkien_(film).md>).
 
 ## Licensing {#Licensing}
 

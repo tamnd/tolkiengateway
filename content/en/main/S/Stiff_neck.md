@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarlang"
 ---
 
-Redirect to [Tarlang](/wiki/Tarlang).
+Redirect to [Tarlang](../T/Tarlang.md).

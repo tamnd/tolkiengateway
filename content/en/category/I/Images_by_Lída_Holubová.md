@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Lída Holubová"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Lída Holubová</span>"
 page_id: 53675
 namespace: 14
 revision_id: 334017
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Holubová, Lída"
 ---
 
-This category lists all **images by [Lída Holubová](/wiki/L%C3%ADda_Holubov%C3%A1)**.
+This category lists all **images by [Lída Holubová](../../main/L/Lída_Holubová.md)**.

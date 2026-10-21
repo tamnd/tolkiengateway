@@ -1,6 +1,5 @@
 ---
 title: "File:Elanor Gardner - The Lord of the Rings Aragorn's Quest.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elanor Gardner - The Lord of the Rings Aragorn&#039;s Quest.png</span>"
 page_id: 69905
 namespace: 6
 revision_id: 415376
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elanor Gardner](/wiki/Elanor_Gardner) as she appears in *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*.
+[Elanor Gardner](../../main/E/Elanor_Gardner.md) as she appears in *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
 ## Licensing {#Licensing}
 

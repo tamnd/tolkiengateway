@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "René van Rossenberg"
 ---
 
-Redirect to [René van Rossenberg](/wiki/René_van_Rossenberg).
+Redirect to [René van Rossenberg](René_van_Rossenberg.md).

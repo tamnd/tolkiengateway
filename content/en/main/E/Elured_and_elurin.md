@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eluréd and Elurín"
 ---
 
-Redirect to [Eluréd and Elurín](/wiki/Eluréd_and_Elurín).
+Redirect to [Eluréd and Elurín](Eluréd_and_Elurín.md).

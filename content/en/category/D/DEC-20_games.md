@@ -1,6 +1,5 @@
 ---
 title: "Category:DEC-20 games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">DEC-20 games</span>"
 page_id: 48868
 namespace: 14
 revision_id: 261955

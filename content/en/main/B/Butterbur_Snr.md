@@ -11,4 +11,4 @@ redirect_target: "Barliman Butterbur"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Barliman Butterbur](/wiki/Barliman_Butterbur#Portrayal_in_adaptations).
+Redirect to [Barliman Butterbur](Barliman_Butterbur.md#Portrayal_in_adaptations).

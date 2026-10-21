@@ -1,6 +1,5 @@
 ---
 title: "Fraser Kerr"
-display_title: "<span class=\"mw-page-title-main\">Fraser Kerr</span>"
 page_id: 19116
 namespace: 0
 revision_id: 339210
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Kerr, Fraser"
 ---
 
-**Fraser Kerr** ([February 25](/wiki/25_February "25 February"), [1931](/wiki/1931)-[March 19](/wiki/19_March "19 March"), [2000](/wiki/2000)) was a Scottish actor. He provided the voice for [Saruman the White](/wiki/Saruman "Saruman") in [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+**Fraser Kerr** ([February 25](../_/25_February.md), [1931](../_/1931.md)-[March 19](../_/19_March.md), [2000](../_/2000.md)) was a Scottish actor. He provided the voice for [Saruman the White](../S/Saruman.md) in [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

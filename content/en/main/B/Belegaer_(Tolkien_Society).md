@@ -1,6 +1,5 @@
 ---
 title: "Belegaer (Tolkien Society)"
-display_title: "<span class=\"mw-page-title-main\">Belegaer (Tolkien Society)</span>"
 page_id: 36947
 namespace: 0
 revision_id: 423178
@@ -14,11 +13,11 @@ categories:
   - "Belgian organizations"
 ---
 
-**Belegaer - Cercle d'etudes de Tolkien en Belgique**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> was the [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") of <a class="extiw" href="http://en.wikipedia.org/wiki/French_Community_of_Belgium" title="wikipedia:French Community of Belgium">French-speaking Community</a> of [Belgium](/wiki/Belgium), which encompasses Brussels and Wallonia.
+**Belegaer - Cercle d'etudes de Tolkien en Belgique**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> was the [Tolkien society](../T/Tolkien_Societies~67099.md) of <a class="extiw" href="http://en.wikipedia.org/wiki/French_Community_of_Belgium" title="wikipedia:French Community of Belgium">French-speaking Community</a> of [Belgium](Belgium.md), which encompasses Brussels and Wallonia.
 
 ## History {#History}
 
-Belegaer was active in the 1980s and 1990s and published *Cirth De Gandalf*. This society was likely dissolved after the death of its driving force, [Nathalie Kotowski](/wiki/Nathalie_Kotowski), in 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Belegaer was active in the 1980s and 1990s and published *Cirth De Gandalf*. This society was likely dissolved after the death of its driving force, [Nathalie Kotowski](../N/Nathalie_Kotowski.md), in 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Notes {#Notes}
 
@@ -30,6 +29,6 @@ Belegaer was active in the 1980s and 1990s and published *Cirth De Gandalf*. Thi
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Eruvike (2001)</span>. <span class="cite-web-article"><a class="external text" href="https://www.jrrvf.com/fluxbb/viewtopic.php?id=4973" rel="noreferrer noopener" target="_blank">&#34;Décès de Nathalie Kotowski&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.jrrvf.com/fluxbb/index.php" rel="noreferrer noopener" target="_blank">Tolkien en Version Française - Forum</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2024</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Eruvike (2001)</span>. <span class="cite-web-article"><a class="external text" href="https://www.jrrvf.com/fluxbb/viewtopic.php?id=4973" rel="noreferrer noopener" target="_blank">&#34;Décès de Nathalie Kotowski&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.jrrvf.com/fluxbb/index.php" rel="noreferrer noopener" target="_blank">Tolkien en Version Française - Forum</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2024</span></cite></span>
 </li>
 </ol></div>

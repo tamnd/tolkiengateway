@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Naming policy"
 ---
 
-Redirect to [Tolkien Gateway:Naming policy](/wiki/Tolkien_Gateway:Naming_policy).
+Redirect to [Tolkien Gateway:Naming policy](Naming_policy.md).

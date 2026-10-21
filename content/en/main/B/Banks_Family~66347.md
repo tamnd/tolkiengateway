@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Banks family"
 ---
 
-Redirect to [Banks family](/wiki/Banks_family).
+Redirect to [Banks family](Banks_family.md).

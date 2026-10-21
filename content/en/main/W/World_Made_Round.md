@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Changing of the World"
 ---
 
-Redirect to [Changing of the World](/wiki/Changing_of_the_World).
+Redirect to [Changing of the World](../C/Changing_of_the_World.md).

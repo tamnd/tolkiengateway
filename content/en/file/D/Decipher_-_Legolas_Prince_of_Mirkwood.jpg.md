@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Legolas Prince of Mirkwood.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Legolas Prince of Mirkwood.jpg</span>"
 page_id: 22624
 namespace: 6
 revision_id: 211676

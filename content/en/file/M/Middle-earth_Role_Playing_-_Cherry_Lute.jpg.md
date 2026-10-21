@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Role Playing - Cherry Lute.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Role Playing - Cherry Lute.jpg</span>"
 page_id: 53903
 namespace: 6
 revision_id: 292451
@@ -25,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-A "Cherry Flute" appearing in Wolfgang Baur, *[Treasures of Middle-earth (2nd edition)](</wiki/Treasures_of_Middle-earth_(2nd_edition)>)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2010, 1994) . Artist unknown, possibly Kent Burles or Kamran Sedaghatkish.
+A "Cherry Flute" appearing in Wolfgang Baur, *[Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2010, 1994) . Artist unknown, possibly Kent Burles or Kamran Sedaghatkish.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ironcrown.com/" rel="noreferrer noopener" target="_blank">Iron Crown Enterprises</a>. It is believed that the limited use of this file,

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Gatekeepers"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gatekeepers</span>"
 page_id: 30154
 namespace: 4
 revision_id: 133680
@@ -13,4 +12,4 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Gatekeepers** are the editors of [Tolkien Gateway](/wiki/Tolkien_Gateway) who are tasked with creating, maintaining and improving the wiki.
+**Gatekeepers** are the editors of [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) who are tasked with creating, maintaining and improving the wiki.

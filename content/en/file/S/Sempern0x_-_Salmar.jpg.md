@@ -1,6 +1,5 @@
 ---
 title: "File:Sempern0x - Salmar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sempern0x - Salmar.jpg</span>"
 page_id: 58043
 namespace: 6
 revision_id: 322169
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Sempern0x</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/sempern0x" rel="noreferrer noopener" target="_blank">Sempern0x on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Sempern0x" title="Tolkien Gateway:Copyrights/Sempern0x">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSempern0x.md" title="Tolkien Gateway:Copyrights/Sempern0x">Permission for use on Tolkien Gateway</a></b></li></ul></div>

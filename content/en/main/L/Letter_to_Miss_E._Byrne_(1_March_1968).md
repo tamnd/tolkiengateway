@@ -15,11 +15,11 @@ sort_keys:
   "Letters": "Byrne, Miss E."
 ---
 
-On [1 March](/wiki/1_March) [1968](/wiki/1968), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Miss E. Byrne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [1 March](../_/1_March.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Miss E. Byrne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Contents:** [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reflects on his youth, admitting his disintrest in literature during his adolescence.
+- **Contents:** [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) reflects on his youth, admitting his disintrest in literature during his adolescence.
 - **Description:** Typewritten letter, 1 page
-- **Publication:** The letter was published in *[Attacks of Taste](/wiki/Attacks_of_Taste)*. A shorter excerpt was published in *[Sotheby's The James S. Copley Library 17 June 2010](/wiki/Sotheby%27s_The_James_S._Copley_Library_17_June_2010)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Publication:** The letter was published in *[Attacks of Taste](../A/Attacks_of_Taste.md)*. A shorter excerpt was published in *[Sotheby's The James S. Copley Library 17 June 2010](../S/Sotheby's_The_James_S._Copley_Library_17_June_2010.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## From Auction {#From_Auction}
 
@@ -32,14 +32,12 @@ With famed works such as Lord of the Rings and The Hobbit, Tolkien’s letter ca
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Paul Tankard</span>. <span class="cite-web-article"><a class="external text" href="http://www.liveauctioneers.com/item/32447028_tolkien-john-ronald-reuel" rel="noreferrer noopener" target="_blank">&#34;Auction Letter&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.liveauctioneers.com/" rel="noreferrer noopener" target="_blank">Live Auctioneers</a></span>. <span class="cite-web-accessed">Retrieved 3 December 2014</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Paul Tankard</span>. <span class="cite-web-article"><a class="external text" href="http://www.liveauctioneers.com/item/32447028_tolkien-john-ronald-reuel" rel="noreferrer noopener" target="_blank">&#34;Auction Letter&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.liveauctioneers.com/" rel="noreferrer noopener" target="_blank">Live Auctioneers</a></span>. <span class="cite-web-accessed">Retrieved 3 December 2014</span></cite></span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.sothebys.com/app/ecatalogue/fhtml/index.jsp?event_id=30210#/r=index-fhtml.jsp?event_id=30210%7Cr.main=lot.jsp?event_id=30210&amp;id=269%7Cr.overlay=catalogue_notes.jsp?event_id=30210&amp;id=269/" rel="noreferrer noopener" target="_blank">Sothebys.com</a>, as of June 25, 2010</span>
 </li>

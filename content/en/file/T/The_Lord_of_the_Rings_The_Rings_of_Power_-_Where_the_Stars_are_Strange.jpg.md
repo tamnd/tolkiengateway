@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power - Where the Stars are Strange.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power - Where the Stars are Strange.jpg</span>"
 page_id: 72450
 namespace: 6
 revision_id: 430534
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art for the soundtrack of the second episode of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* season 2, "[Where the Stars are Strange](/wiki/Where_the_Stars_are_Strange)".
+Cover art for the soundtrack of the second episode of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* season 2, "[Where the Stars are Strange](../../main/W/Where_the_Stars_are_Strange.md)".
 
 ## Licensing {#Licensing}
 

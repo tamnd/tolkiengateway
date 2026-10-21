@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Meetings"
 ---
 
-Redirect to [Tolkien Gateway:Meetings](/wiki/Tolkien_Gateway:Meetings).
+Redirect to [Tolkien Gateway:Meetings](Meetings.md).

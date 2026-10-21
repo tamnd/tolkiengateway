@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Mariët Theune"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Mariët Theune</span>"
 page_id: 37389
 namespace: 14
 revision_id: 183378
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Theune, Mariet"
 ---
 
-This category lists all **images by [Mariët Theune](/wiki/Mari%C3%ABt_Theune)**.
+This category lists all **images by [Mariët Theune](../../main/M/Mariët_Theune.md)**.

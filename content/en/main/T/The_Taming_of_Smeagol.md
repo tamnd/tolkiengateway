@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Taming of Sméagol"
 ---
 
-Redirect to [The Taming of Sméagol](/wiki/The_Taming_of_Sméagol).
+Redirect to [The Taming of Sméagol](The_Taming_of_Sméagol.md).

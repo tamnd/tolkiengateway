@@ -1,6 +1,5 @@
 ---
 title: "Category:Heirlooms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heirlooms</span>"
 page_id: 52854
 namespace: 14
 revision_id: 287577

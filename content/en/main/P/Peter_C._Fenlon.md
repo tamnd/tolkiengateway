@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pete Fenlon"
 ---
 
-Redirect to [Pete Fenlon](/wiki/Pete_Fenlon).
+Redirect to [Pete Fenlon](Pete_Fenlon.md).

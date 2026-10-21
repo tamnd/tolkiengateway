@@ -1,6 +1,5 @@
 ---
 title: "File:Preview spell.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Preview spell.png</span>"
 page_id: 19890
 namespace: 6
 revision_id: 169002

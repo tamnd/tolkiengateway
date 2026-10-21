@@ -1,6 +1,5 @@
 ---
 title: "File:2006 An Elvish Battle Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">2006 An Elvish Battle Calendar.jpg</span>"
 page_id: 6816
 namespace: 6
 revision_id: 215442

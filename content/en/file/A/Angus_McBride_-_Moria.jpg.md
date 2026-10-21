@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Moria.jpg</span>"
 page_id: 7291
 namespace: 6
 revision_id: 327546

@@ -1,6 +1,5 @@
 ---
 title: "File:Matěj Čadil - Westmoot 2026 design.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matěj Čadil - Westmoot 2026 design.jpg</span>"
 page_id: 74115
 namespace: 6
 revision_id: 437181
@@ -44,8 +43,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026-03-06 21:15:37</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Matěj Čadil</td>
@@ -54,7 +51,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.patreon.com/posts/westmoot-2026-t-154482684" rel="noreferrer noopener" target="_blank">https://www.patreon.com/posts/westmoot-2026-t-154482684</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

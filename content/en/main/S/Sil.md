@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sil-"
 ---
 
-Redirect to [Sil-](/wiki/Sil-).
+Redirect to [Sil-](Sil-.md).

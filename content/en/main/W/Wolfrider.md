@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolf-riders"
 ---
 
-Redirect to [Wolf-riders](/wiki/Wolf-riders).
+Redirect to [Wolf-riders](Wolf-riders.md).

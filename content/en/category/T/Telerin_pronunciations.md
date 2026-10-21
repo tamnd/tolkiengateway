@@ -1,6 +1,5 @@
 ---
 title: "Category:Telerin pronunciations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Telerin pronunciations</span>"
 page_id: 24253
 namespace: 14
 revision_id: 92735

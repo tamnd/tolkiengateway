@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silent Watchers"
 ---
 
-Redirect to [Silent Watchers](/wiki/Silent_Watchers).
+Redirect to [Silent Watchers](../S/Silent_Watchers.md).

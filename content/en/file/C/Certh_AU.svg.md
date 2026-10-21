@@ -1,6 +1,5 @@
 ---
 title: "File:Certh AU.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Certh AU.svg</span>"
 page_id: 69644
 namespace: 6
 revision_id: 414308
@@ -44,8 +43,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2016-08-15</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Offnfopt, Tasnu Arakun</td>
@@ -54,7 +51,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Derivation by Wikimeida user Offnfopt (<a class="external free" href="https://commons.wikimedia.org/wiki/User:Offnfopt" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/User:Offnfopt</a>) of an extract from Dan Smith&#39;s Cirth Erebor font and released into Public Domain by Wikimedia user Tasnu Arakun (<a class="external free" href="https://commons.wikimedia.org/wiki/User:Tasnu_Arakun" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/User:Tasnu_Arakun</a>) in 2009. Available on Wikimedia (<a class="external free" href="https://commons.wikimedia.org/wiki/Category:Single_certh_in_SVG" rel="noreferrer noopener" target="_blank">https://commons.wikimedia.org/wiki/Category:Single_certh_in_SVG</a>).</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

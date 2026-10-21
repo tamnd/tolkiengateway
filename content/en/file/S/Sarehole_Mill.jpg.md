@@ -1,6 +1,5 @@
 ---
 title: "File:Sarehole Mill.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sarehole Mill.jpg</span>"
 page_id: 15357
 namespace: 6
 revision_id: 252063

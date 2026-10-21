@@ -19,17 +19,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/reliefs/monts_brumeux/zirak"
 ---
 
-<i><b>zirak</b></i> is a [Khuzdul](/wiki/Khuzdul) word, appearing in *[Zirakzigil](/wiki/Celebdil#Etymology "Celebdil")* ("tine of silver"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and [Gamil Zirak](/wiki/Gamil_Zirak) ("Old Tine").
+<i><b>zirak</b></i> is a [Khuzdul](../K/Khuzdul.md) word, appearing in *[Zirakzigil](../C/Celebdil.md#Etymology)* ("tine of silver"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and [Gamil Zirak](../G/Gamil_Zirak.md) ("Old Tine").
 
-The word also appears as a short form of *Zirakzigil*, the [Dwarves](/wiki/Dwarves)' name for the mountain called *[Celebdil](/wiki/Celebdil)* or *Silvertine* by other races. [Gimli](/wiki/Gimli) referred to the [Mountains of Moria](/wiki/Mountains_of_Moria) as [Baraz](/wiki/Baraz), Zirak, and [Shathûr](/wiki/Shath%C3%BBr) when he first saw them.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The word also appears as a short form of *Zirakzigil*, the [Dwarves](../D/Dwarves.md)' name for the mountain called *[Celebdil](../C/Celebdil.md)* or *Silvertine* by other races. [Gimli](../G/Gimli.md) referred to the [Mountains of Moria](../M/Mountains_of_Moria.md) as [Baraz](../B/Baraz.md), Zirak, and [Shathûr](../S/Shathûr.md) when he first saw them.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-As *[zigil](/wiki/Zigil "Zigil")* apparently means "silver", *Zirak* presumably means "tine" in [Khuzdul](/wiki/Khuzdul). <span></span>
+As *[zigil](Zigil.md)* apparently means "silver", *Zirak* presumably means "tine" in [Khuzdul](../K/Khuzdul.md). <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 35</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 35</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Journey_in_the_Dark" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
 </li>
 </ol></div>

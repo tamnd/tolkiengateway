@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Estë"
 ---
 
-Redirect to [Estë](/wiki/Estë).
+Redirect to [Estë](Estë.md).

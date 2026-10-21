@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The Motion Picture Trilogy The Complete Recordings"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The Motion Picture Trilogy The Complete Recordings</span>"
 page_id: 31763
 namespace: 14
 revision_id: 221726

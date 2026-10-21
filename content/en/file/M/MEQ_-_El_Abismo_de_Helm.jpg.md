@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MEQ - Treason at Helm's Deep (Spanish Cover).jpg"
 ---
 
-Redirect to [File:MEQ - Treason at Helm's Deep (Spanish Cover).jpg](/wiki/File:MEQ_-_Treason_at_Helm's_Deep_(Spanish_Cover).jpg).
+Redirect to [File:MEQ - Treason at Helm's Deep (Spanish Cover).jpg](<MEQ_-_Treason_at_Helm's_Deep_(Spanish_Cover).jpg.md>).

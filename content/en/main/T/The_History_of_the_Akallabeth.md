@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of the Akallabêth"
 ---
 
-Redirect to [The History of the Akallabêth](/wiki/The_History_of_the_Akallabêth).
+Redirect to [The History of the Akallabêth](The_History_of_the_Akallabêth.md).

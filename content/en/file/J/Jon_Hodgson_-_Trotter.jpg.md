@@ -1,6 +1,5 @@
 ---
 title: "File:Jon Hodgson - Trotter.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jon Hodgson - Trotter.jpg</span>"
 page_id: 74592
 namespace: 6
 revision_id: 439097
@@ -36,18 +35,14 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jon_Hodgson" title="Jon Hodgson">Jon Hodgson</a></td>
+<td><a href="../../main/J/Jon_Hodgson.md" title="Jon Hodgson">Jon Hodgson</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://jonhodgsondesign.com/portfolio/the-one-ring-roleplaying-game/" rel="noreferrer noopener" target="_blank">Artist&#39;s website</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

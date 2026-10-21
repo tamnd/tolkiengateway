@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golden Book"
 ---
 
-Redirect to [Golden Book](/wiki/Golden_Book).
+Redirect to [Golden Book](../G/Golden_Book.md).

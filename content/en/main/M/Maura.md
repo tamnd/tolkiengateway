@@ -1,6 +1,5 @@
 ---
 title: "Maura"
-display_title: "<span class=\"mw-page-title-main\">Maura</span>"
 page_id: 23433
 namespace: 0
 revision_id: 406492
@@ -13,25 +12,25 @@ categories:
   - "Hobbitish names"
 ---
 
-**Maura** is a [Hobbitish](/wiki/Hobbitish) name probably meaning "experience, wise".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Maura** is a [Hobbitish](../H/Hobbitish.md) name probably meaning "experience, wise".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-It was the first name of [Maura Labingi](/wiki/Frodo_Baggins "Frodo Baggins").
+It was the first name of [Maura Labingi](../F/Frodo_Baggins.md).
 
 ## Etymology {#Etymology}
 
-The word has similarities to archaic [Rohanese](/wiki/Rohanese) *maur* meaning "experienced". It probably comes from a [Mannish](/wiki/Mannish) root \*MUR
+The word has similarities to archaic [Rohanese](../R/Rohanese.md) *maur* meaning "experienced". It probably comes from a [Mannish](Mannish.md) root \*MUR
 
 ## Translations {#Translations}
 
-- [Sindarin](/wiki/Sindarin) *[Iorhael](/wiki/Iorhael)*
+- [Sindarin](../S/Sindarin.md) *[Iorhael](../I/Iorhael.md)*
 
 ## Inspiration {#Inspiration}
 
-The English translation "[Frodo](/wiki/Frodo_Baggins "Frodo Baggins")" comes from [Old English](/wiki/Old_English) *fród* meaning "wise by experience" <span></span>
+The English translation "[Frodo](../F/Frodo_Baggins.md)" comes from [Old English](../O/Old_English.md) *fród* meaning "wise by experience" <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p. 50</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p. 50</span>
 </li>
 </ol></div>

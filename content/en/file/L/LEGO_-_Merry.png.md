@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Merry.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Merry.png</span>"
 page_id: 73079
 namespace: 6
 revision_id: 432618
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") - [LEGO](/wiki/Lego "Lego") minifigure
+[Merry](../../main/M/Meriadoc_Brandybuck.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

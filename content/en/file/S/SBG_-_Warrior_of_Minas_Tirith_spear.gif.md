@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Warrior of Minas Tirith spear.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Warrior of Minas Tirith spear.gif</span>"
 page_id: 11844
 namespace: 6
 revision_id: 204112

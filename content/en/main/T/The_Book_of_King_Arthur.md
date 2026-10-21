@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Book of Kyng Arthur"
 ---
 
-Redirect to [The Book of Kyng Arthur](/wiki/The_Book_of_Kyng_Arthur).
+Redirect to [The Book of Kyng Arthur](The_Book_of_Kyng_Arthur.md).

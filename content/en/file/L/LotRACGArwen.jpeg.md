@@ -1,6 +1,5 @@
 ---
 title: "File:LotRACGArwen.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotRACGArwen.jpeg</span>"
 page_id: 70099
 namespace: 6
 revision_id: 425740

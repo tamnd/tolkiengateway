@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Maria Awsejkowa"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Maria Awsejkowa</span>"
 page_id: 53771
 namespace: 14
 revision_id: 292173

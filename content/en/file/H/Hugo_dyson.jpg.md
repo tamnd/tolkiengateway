@@ -1,6 +1,5 @@
 ---
 title: "File:Hugo dyson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hugo dyson.jpg</span>"
 page_id: 19861
 namespace: 6
 revision_id: 248851

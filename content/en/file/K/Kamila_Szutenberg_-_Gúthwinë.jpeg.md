@@ -1,6 +1,5 @@
 ---
 title: "File:Kamila Szutenberg - Gúthwinë.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kamila Szutenberg - Gúthwinë.jpeg</span>"
 page_id: 71057
 namespace: 6
 revision_id: 424794
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gúthwinë](/wiki/G%C3%BAthwin%C3%AB) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Lord of the Rings*: *The Mountain of Fire* illustration by Kamila Tzutenberg
+[Gúthwinë](../../main/G/Gúthwinë.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Lord of the Rings*: *The Mountain of Fire* illustration by Kamila Tzutenberg
 
 ## Licensing {#Licensing}
 

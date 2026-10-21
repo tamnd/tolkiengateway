@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildenbrandt - Éowyn & The Nazgûl.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildenbrandt - Éowyn &amp; The Nazgûl.jpg</span>"
 page_id: 71417
 namespace: 6
 revision_id: 430600
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Éowyn](/wiki/%C3%89owyn) &amp; [The Nazgûl](/wiki/Witch-king "Witch-king")" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the [1976 J.R.R. Tolkien Calendar](/wiki/1976_J.R.R._Tolkien_Calendar)
+"[Éowyn](../../main/_/Éowyn.md) &amp; [The Nazgûl](../../main/W/Witch-king.md)" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the [1976 J.R.R. Tolkien Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md)
 
 ## Licensing {#Licensing}
 

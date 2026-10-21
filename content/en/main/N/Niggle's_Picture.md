@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Niggle's Parish"
 ---
 
-Redirect to [Niggle's Parish](/wiki/Niggle's_Parish).
+Redirect to [Niggle's Parish](Niggle's_Parish.md).

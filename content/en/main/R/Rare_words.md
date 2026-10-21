@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uncommon words"
 ---
 
-Redirect to [Uncommon words](/wiki/Uncommon_words).
+Redirect to [Uncommon words](../U/Uncommon_words.md).

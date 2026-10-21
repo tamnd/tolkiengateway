@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Fingolfin heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Fingolfin heraldic device.jpg</span>"
 page_id: 64788
 namespace: 6
 revision_id: 431023
@@ -29,16 +28,16 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/31/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #31</a>. Published in:
 
-- *[The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974)* ([1973](/wiki/1973)), back cover
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), February
-- *[The Silmarillion](/wiki/The_Silmarillion)* ([1977](/wiki/1977)), dust jacket (back)
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), November
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Tolkien Diary 1992](/wiki/The_Tolkien_Diary_1992)* ([1991](/wiki/1991)), 1992-03-06
-- *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)* ([1992](/wiki/1992)), p. 67
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 195, #192
-- *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)*, p. 81, #39
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), pp. 141, 227
+- *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)* ([1973](../../main/_/1973.md)), back cover
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), February
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)* ([1977](../../main/_/1977.md)), dust jacket (back)
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), November
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)* ([1991](../../main/_/1991.md)), 1992-03-06
+- *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)* ([1992](../../main/_/1992.md)), p. 67
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 195, #192
+- *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)*, p. 81, #39
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), pp. 141, 227
 
 Inscription in the manuscript says: "Fingolfin &amp; / his house"
 

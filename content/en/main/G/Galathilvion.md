@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galathilion"
 ---
 
-Redirect to [Galathilion](/wiki/Galathilion).
+Redirect to [Galathilion](Galathilion.md).

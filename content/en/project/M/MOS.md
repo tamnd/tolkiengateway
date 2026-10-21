@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Manual of Style"
 ---
 
-Redirect to [Tolkien Gateway:Manual of Style](/wiki/Tolkien_Gateway:Manual_of_Style).
+Redirect to [Tolkien Gateway:Manual of Style](Manual_of_Style.md).

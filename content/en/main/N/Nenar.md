@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nénar"
 ---
 
-Redirect to [Nénar](/wiki/Nénar).
+Redirect to [Nénar](Nénar.md).

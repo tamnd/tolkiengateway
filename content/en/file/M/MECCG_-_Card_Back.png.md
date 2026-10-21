@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG - Card Back.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG - Card Back.png</span>"
 page_id: 73547
 namespace: 6
 revision_id: 434745
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">MECCG - Card Back.png</span></th>
 <td class="description">
-<p>Regular card back of <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
+<p>Regular card back of <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Derek Carbonneau</td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Scanned by <a href="/wiki/User:Grond" title="User:Grond">Grond</a>, cleaned up by <a href="/wiki/User:PLord" title="User:PLord">PLord</a></td>
+<td>Scanned by <a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a>, cleaned up by <a href="https://tolkiengateway.net/wiki/User:PLord" title="User:PLord">PLord</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

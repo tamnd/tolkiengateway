@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from MERP"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from MERP</span>"
 page_id: 30220
 namespace: 14
 revision_id: 197684
@@ -15,4 +14,4 @@ sort_keys:
   "Images from Iron Crown Enterprises": "MERP"
 ---
 
-Images appearing in *[Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing)*.
+Images appearing in *[Middle-earth Role Playing](../../main/M/Middle-earth_Role_Playing.md)*.

@@ -1,6 +1,5 @@
 ---
 title: "File:Klett-Cotta - Das erste Jahrzehnt 1977-1987 - Ein Almanach.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Klett-Cotta - Das erste Jahrzehnt 1977-1987 - Ein Almanach.jpg</span>"
 page_id: 73445
 namespace: 6
 revision_id: 434210
@@ -30,23 +29,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Klett-Cotta - Das erste Jahrzehnt 1977-1987 - Ein Almanach.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Klett-Cotta:_Das_erste_Jahrzehnt_1977-1987:_Ein_Almanach" title="Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach">Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach</a></i> book cover.
+<p><i><a href="../../main/K/Klett-Cotta%253A_Das_erste_Jahrzehnt_1977-1987%253A_Ein_Almanach.md" title="Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach">Klett-Cotta: Das erste Jahrzehnt 1977-1987: Ein Almanach</a></i> book cover.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/9_October" title="9 October">9 October</a>, <a href="/wiki/2019" title="2019">2019</a></td>
+<td><a href="../../main/_/9_October.md" title="9 October">9 October</a>, <a href="../../main/_/2019.md" title="2019">2019</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Klett-Cotta" title="Klett-Cotta">Klett-Cotta</a></td>
+<td><a href="../../main/K/Klett-Cotta.md" title="Klett-Cotta">Klett-Cotta</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.tolkienguide.com/profile/4779" rel="noreferrer noopener" target="_blank">Manfred</a> (9 October 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=23053#forumpost23053" rel="noreferrer noopener" target="_blank">&#34;Mîms Klage [The Complaint of Mîm the Dwarf</a>&#34;]</span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2026</span></cite> (<a class="external text" href="https://www.tolkienguide.com/uploads/newbb/4779_5d9dfe2d42322.jpg" rel="noreferrer noopener" target="_blank">raw file</a>)</td>
+<td><cite class="citation cite-web"><span class="cite-web-author"><a class="external text" href="https://www.tolkienguide.com/profile/4779" rel="noreferrer noopener" target="_blank">Manfred</a> (9 October 2026)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=23053#forumpost23053" rel="noreferrer noopener" target="_blank">&#34;Mîms Klage [The Complaint of Mîm the Dwarf</a>&#34;]</span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 8 February 2026</span></cite> (<a class="external text" href="https://www.tolkienguide.com/uploads/newbb/4779_5d9dfe2d42322.jpg" rel="noreferrer noopener" target="_blank">raw file</a>)</td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">License</th>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Findë"
 ---
 
-Redirect to [Findë](/wiki/Findë).
+Redirect to [Findë](Findë.md).

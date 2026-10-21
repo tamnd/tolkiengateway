@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - People.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - People.webp</span>"
 page_id: 67894
 namespace: 6
 revision_id: 398034

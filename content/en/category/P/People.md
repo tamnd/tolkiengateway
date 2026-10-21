@@ -1,6 +1,5 @@
 ---
 title: "Category:People"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">People</span>"
 page_id: 2635
 namespace: 14
 revision_id: 115651
@@ -15,4 +14,4 @@ categories:
 
 People of the real-world.
 
-- *For people of [Arda](/wiki/Arda), see [CATEGORY:Characters](/wiki/Category:Characters "Category:Characters")*
+- *For people of [Arda](../../main/A/Arda.md), see [CATEGORY:Characters](../C/Characters.md)*

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Licensing"
 ---
 
-Redirect to [Licensing](/wiki/Licensing).
+Redirect to [Licensing](Licensing.md).

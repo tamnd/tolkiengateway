@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarnost"
 ---
 
-Redirect to [Tarnost](/wiki/Tarnost).
+Redirect to [Tarnost](../T/Tarnost.md).

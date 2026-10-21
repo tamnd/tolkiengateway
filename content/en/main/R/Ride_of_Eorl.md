@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Field of Celebrant"
 ---
 
-Redirect to [Battle of the Field of Celebrant](/wiki/Battle_of_the_Field_of_Celebrant).
+Redirect to [Battle of the Field of Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).

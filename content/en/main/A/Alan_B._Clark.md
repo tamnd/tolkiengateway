@@ -1,6 +1,5 @@
 ---
 title: "Alan B. Clark"
-display_title: "<span class=\"mw-page-title-main\">Alan B. Clark</span>"
 page_id: 27611
 namespace: 0
 revision_id: 135177
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Clark, Alan B."
 ---
 
-**Alan B. Clark** was one of the designers of *[War in Middle Earth](/wiki/War_in_Middle_Earth)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Alan B. Clark** was one of the designers of *[War in Middle Earth](../W/War_in_Middle_Earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

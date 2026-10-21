@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nár"
 ---
 
-Redirect to [Nár](/wiki/Nár).
+Redirect to [Nár](Nár.md).

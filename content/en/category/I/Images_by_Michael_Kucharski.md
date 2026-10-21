@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michael Kucharski"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michael Kucharski</span>"
 page_id: 70944
 namespace: 14
 revision_id: 423628

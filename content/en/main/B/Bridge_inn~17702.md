@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bridge Inn"
 ---
 
-Redirect to [Bridge Inn](/wiki/Bridge_Inn).
+Redirect to [Bridge Inn](Bridge_Inn.md).

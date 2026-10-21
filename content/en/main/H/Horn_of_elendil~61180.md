@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Windbeam"
 ---
 
-Redirect to [Windbeam](/wiki/Windbeam).
+Redirect to [Windbeam](../W/Windbeam.md).

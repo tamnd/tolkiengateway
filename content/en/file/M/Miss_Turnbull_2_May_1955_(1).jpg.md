@@ -1,6 +1,5 @@
 ---
 title: "File:Miss Turnbull 2 May 1955 (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miss Turnbull 2 May 1955 (1).jpg</span>"
 page_id: 40053
 namespace: 6
 revision_id: 215068

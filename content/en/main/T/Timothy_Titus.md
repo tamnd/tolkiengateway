@@ -11,4 +11,4 @@ redirect_target: "Barliman Butterbur"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Barliman Butterbur](/wiki/Barliman_Butterbur#Other_versions_of_the_legendarium).
+Redirect to [Barliman Butterbur](../B/Barliman_Butterbur.md#Other_versions_of_the_legendarium).

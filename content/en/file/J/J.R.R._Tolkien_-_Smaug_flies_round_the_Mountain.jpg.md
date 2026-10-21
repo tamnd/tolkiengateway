@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Smaug flies round the Mountain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Smaug flies round the Mountain.jpg</span>"
 page_id: 5754
 namespace: 6
 revision_id: 430708
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-This painting of the [Lonely Mountain](/wiki/Lonely_Mountain), which shows the ruins of the town of [Dale](/wiki/Dale) in the bend of the [Running](/wiki/River_Running "River Running") River, was published in The [J.R.R. Tolkien Calendar 1979](/wiki/J.R.R._Tolkien_Calendar_1979).
+This painting of the [Lonely Mountain](../../main/L/Lonely_Mountain.md), which shows the ruins of the town of [Dale](../../main/D/Dale.md) in the bend of the [Running](../../main/R/River_Running.md) River, was published in The [J.R.R. Tolkien Calendar 1979](../../main/J/J.R.R._Tolkien_Calendar_1979.md).
 
 ## Licensing {#Licensing}
 

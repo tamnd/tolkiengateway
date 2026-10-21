@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-en-Faroth"
 ---
 
-Redirect to [Taur-en-Faroth](/wiki/Taur-en-Faroth).
+Redirect to [Taur-en-Faroth](../T/Taur-en-Faroth.md).

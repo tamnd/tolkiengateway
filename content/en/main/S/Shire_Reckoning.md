@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shire-reckoning"
 ---
 
-Redirect to [Shire-reckoning](/wiki/Shire-reckoning).
+Redirect to [Shire-reckoning](Shire-reckoning.md).

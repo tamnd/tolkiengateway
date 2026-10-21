@@ -1,6 +1,5 @@
 ---
 title: "File:The Ways of Creative Mythologies.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ways of Creative Mythologies.jpg</span>"
 page_id: 46957
 namespace: 6
 revision_id: 249368

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of objects"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of objects</span>"
 page_id: 39725
 namespace: 14
 revision_id: 198094

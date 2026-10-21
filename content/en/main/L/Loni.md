@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lóni"
 ---
 
-Redirect to [Lóni](/wiki/Lóni).
+Redirect to [Lóni](Lóni.md).

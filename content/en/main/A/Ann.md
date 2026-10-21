@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "And"
 ---
 
-Redirect to [And](/wiki/And).
+Redirect to [And](And.md).

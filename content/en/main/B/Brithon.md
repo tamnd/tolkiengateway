@@ -1,6 +1,5 @@
 ---
 title: "Brithon"
-display_title: "<span class=\"mw-page-title-main\">Brithon</span>"
 page_id: 1052
 namespace: 0
 revision_id: 382465
@@ -29,17 +28,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo:geographie:eaux:beleriand:brithon"
 ---
 
-**Brithon** was a river of [Beleriand](/wiki/Beleriand) that had its wells in the hills lying north-west in [West Beleriand](/wiki/West_Beleriand) south of the [Ered Wethrin](/wiki/Ered_Wethrin). It ran south through the [Falas](/wiki/Falas) to the bay of [Brithombar](/wiki/Brithombar) where it met the sea [Belegaer](/wiki/Belegaer).
+**Brithon** was a river of [Beleriand](Beleriand.md) that had its wells in the hills lying north-west in [West Beleriand](../W/West_Beleriand.md) south of the [Ered Wethrin](../E/Ered_Wethrin.md). It ran south through the [Falas](../F/Falas.md) to the bay of [Brithombar](Brithombar.md) where it met the sea [Belegaer](Belegaer.md).
 
 ## Etymology {#Etymology}
 
-*Brithon* is [Ilkorin](/wiki/Ilkorin) for "pebbly".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Brithon* is [Ilkorin](../I/Ilkorin.md) for "pebbly".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 353, entry &#34;BIRÍT&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 353, entry &#34;BIRÍT&#34;</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ban(a)"
 ---
 
-Redirect to [Ban(a)](/wiki/Ban(a)).
+Redirect to [Ban(a)](<Ban(a).md>).

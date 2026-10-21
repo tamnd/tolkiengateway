@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fana"
 ---
 
-Redirect to [Fana](/wiki/Fana).
+Redirect to [Fana](Fana.md).

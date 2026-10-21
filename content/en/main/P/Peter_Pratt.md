@@ -1,6 +1,5 @@
 ---
 title: "Peter Pratt"
-display_title: "<span class=\"mw-page-title-main\">Peter Pratt</span>"
 page_id: 22373
 namespace: 0
 revision_id: 221910
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Pratt, Peter"
 ---
 
-**Peter Pratt** ([March 21](/wiki/21_March "21 March"), [1923](/wiki/1923) – [January 11](/wiki/11_January "11 January"), [1995](/wiki/1995)) was an English actor and singer. He played [Balin](/wiki/Balin) in [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)").
+**Peter Pratt** ([March 21](../_/21_March.md), [1923](../_/1923.md) – [January 11](../_/11_January.md), [1995](../_/1995.md)) was an English actor and singer. He played [Balin](../B/Balin.md) in [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>).
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - The Dragon-helm of Dor-lómin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - The Dragon-helm of Dor-lómin.jpg</span>"
 page_id: 59762
 namespace: 6
 revision_id: 360630
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-The Dragon-helm of Dor-lómin, depicted as a [dwarf-mask](/wiki/Dwarf-masks "Dwarf-masks"), by Artigas.
+The Dragon-helm of Dor-lómin, depicted as a [dwarf-mask](../../main/D/Dwarf-masks.md), by Artigas.
 
-See also *[Túrin Turambar and the Dragon-helm](/wiki/File:Artigas_-_Turin_Turambar_and_the_Dragon_Helm.jpg "File:Artigas - Turin Turambar and the Dragon Helm.jpg")* by the same author, for a depiction of Túrin wearing the Dragon-helm.
+See also *[Túrin Turambar and the Dragon-helm](Artigas_-_Turin_Turambar_and_the_Dragon_Helm.jpg.md)* by the same author, for a depiction of Túrin wearing the Dragon-helm.
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ See also *[Túrin Turambar and the Dragon-helm](/wiki/File:Artigas_-_Turin_Turam
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

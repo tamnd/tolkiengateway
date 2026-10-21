@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Balrog"
 ---
 
-Redirect to [Middle-earth: The Balrog](/wiki/Middle-earth:_The_Balrog).
+Redirect to [Middle-earth: The Balrog](Middle-earth%253A_The_Balrog.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fangorn (disambiguation)"
 ---
 
-Redirect to [Fangorn (disambiguation)](/wiki/Fangorn_(disambiguation)).
+Redirect to [Fangorn (disambiguation)](<Fangorn_(disambiguation).md>).

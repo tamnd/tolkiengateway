@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fangros"
 ---
 
-Redirect to [Fangros](/wiki/Fangros).
+Redirect to [Fangros](Fangros.md).

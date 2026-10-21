@@ -1,6 +1,5 @@
 ---
 title: "Sociedad Tolkien Uruguaya"
-display_title: "<span class=\"mw-page-title-main\">Sociedad Tolkien Uruguaya</span>"
 page_id: 65829
 namespace: 0
 revision_id: 386403
@@ -15,9 +14,9 @@ images:
   - "Sociedad_Tolkien_Uruguaya_-_logo.jpeg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Sociedad_Tolkien_Uruguaya_-_logo.jpeg"><img src="/w/images/thumb/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg/100px-Sociedad_Tolkien_Uruguaya_-_logo.jpeg" decoding="async" loading="lazy" width="100" height="210" class="mw-file-element" srcset="/w/images/thumb/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg/150px-Sociedad_Tolkien_Uruguaya_-_logo.jpeg 1.5x, /w/images/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg 2x" data-file-width="155" data-file-height="326"/></a><figcaption>Sociedad Tolkien Uruguaya logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sociedad_Tolkien_Uruguaya_-_logo.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg/100px-Sociedad_Tolkien_Uruguaya_-_logo.jpeg" decoding="async" loading="lazy" width="100" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg/150px-Sociedad_Tolkien_Uruguaya_-_logo.jpeg 1.5x, https://tolkiengateway.net/w/images/1/1d/Sociedad_Tolkien_Uruguaya_-_logo.jpeg 2x" data-file-width="155" data-file-height="326"/></a><figcaption>Sociedad Tolkien Uruguaya logo</figcaption></figure>
 
-**Sociedad Tolkien Uruguaya** (Spanish:**Uruguayan Tolkien Society**) is a Tolkien society based in Uruguay. Their goal is "sharing and disseminating the work of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and fantasy literature in general."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> As of 2024 they are active on social media.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**Sociedad Tolkien Uruguaya** (Spanish:**Uruguayan Tolkien Society**) is a Tolkien society based in Uruguay. Their goal is "sharing and disseminating the work of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and fantasy literature in general."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> As of 2024 they are active on social media.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## External links {#External_links}
 

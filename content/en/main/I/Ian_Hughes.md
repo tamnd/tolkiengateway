@@ -1,6 +1,5 @@
 ---
 title: "Ian Hughes"
-display_title: "<span class=\"mw-page-title-main\">Ian Hughes</span>"
 page_id: 30068
 namespace: 0
 revision_id: 389350
@@ -30,14 +29,14 @@ images:
   - "The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg"><img src="/w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/250px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="/w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/375px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg 1.5x, /w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/500px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg 2x" data-file-width="511" data-file-height="212"/></a><figcaption>Ian Hughes as <a href="/wiki/Irolas" title="Irolas">Irolas</a>.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/250px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/375px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg/500px-The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Irolas.jpg 2x" data-file-width="511" data-file-height="212"/></a><figcaption>Ian Hughes as <a href="Irolas.md" title="Irolas">Irolas</a>.</figcaption></figure>
 
-**Ian Hughes** ([April 8](/wiki/8_April "8 April"), [1969](/wiki/1969)) is a Canadian actor.
+**Ian Hughes** ([April 8](../_/8_April.md), [1969](../_/1969.md)) is a Canadian actor.
 
 ## Filmography {#Filmography}
 
-- [2003](/wiki/2003): *[Bogans](/wiki/Bogans)*: Ray
-- [2003](/wiki/2003): *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*: [Irolas](/wiki/Irolas)
+- [2003](../_/2003.md): *[Bogans](../B/Bogans.md)*: Ray
+- [2003](../_/2003.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*: [Irolas](Irolas.md)
 
 ## External links {#External_links}
 

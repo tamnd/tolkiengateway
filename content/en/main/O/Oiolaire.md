@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oiolairë"
 ---
 
-Redirect to [Oiolairë](/wiki/Oiolairë).
+Redirect to [Oiolairë](Oiolairë.md).

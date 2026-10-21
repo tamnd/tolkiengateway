@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Thondir.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Thondir.png</span>"
 page_id: 63570
 namespace: 6
 revision_id: 412221

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Umbar"
 ---
 
-Redirect to [Umbar](/wiki/Umbar).
+Redirect to [Umbar](../U/Umbar.md).

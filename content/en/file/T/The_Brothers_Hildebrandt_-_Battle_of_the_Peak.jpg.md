@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Battle of the Peak.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Battle of the Peak.jpg</span>"
 page_id: 71617
 namespace: 6
 revision_id: 437857
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Battle of the Peak](/wiki/Battle_of_the_Peak)" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Created in May [2017](/wiki/2017).
+"[Battle of the Peak](../../main/B/Battle_of_the_Peak.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created in May [2017](../../main/_/2017.md).
 
 ## Licensing {#Licensing}
 

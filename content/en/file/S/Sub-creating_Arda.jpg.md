@@ -1,6 +1,5 @@
 ---
 title: "File:Sub-creating Arda.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sub-creating Arda.jpg</span>"
 page_id: 57143
 namespace: 6
 revision_id: 388969
@@ -25,7 +24,7 @@ file:
   user: "Pachyderminator"
 ---
 
-Cover of *[Sub-creating Arda: World-building in J.R.R. Tolkien's Works, its Precursors, and Legacies](/wiki/Sub-creating_Arda "Sub-creating Arda")*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). Cover illustration by [Jay Johnstone](/wiki/Jay_Johnstone).
+Cover of *[Sub-creating Arda: World-building in J.R.R. Tolkien's Works, its Precursors, and Legacies](../../main/S/Sub-creating_Arda.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). Cover illustration by [Jay Johnstone](../../main/J/Jay_Johnstone.md).
 
 ## Licensing {#Licensing}
 

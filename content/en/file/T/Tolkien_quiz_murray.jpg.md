@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien quiz murray.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien quiz murray.jpg</span>"
 page_id: 26098
 namespace: 6
 revision_id: 214466

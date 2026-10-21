@@ -1,6 +1,5 @@
 ---
 title: "Niënor Níniel (film)"
-display_title: "<span class=\"mw-page-title-main\">Niënor Níniel (film)</span>"
 page_id: 70544
 namespace: 0
 revision_id: 420696
@@ -13,7 +12,7 @@ categories:
   - "Fan films"
 ---
 
-<br> <i><b>Niënor Níniel</b></i> is a [2012](/wiki/2012) amateur Czech adaption of events from [The Children of Húrin.](/wiki/The_Children_of_H%C3%BArin "The Children of Húrin") This short drama accompanied by an original musical composition tells the story of [Túrin](/wiki/T%C3%BArin), [Nienor](/wiki/Nienor) and the defeat of [Glaurung](/wiki/Glaurung) from the perspective of Nienor.
+<br> <i><b>Niënor Níniel</b></i> is a [2012](../_/2012.md) amateur Czech adaption of events from [The Children of Húrin.](../T/The_Children_of_Húrin.md) This short drama accompanied by an original musical composition tells the story of [Túrin](../T/Túrin.md), [Nienor](Nienor.md) and the defeat of [Glaurung](../G/Glaurung.md) from the perspective of Nienor.
 
 ## External Links {#External_Links}
 

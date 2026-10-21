@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burning of Osgiliath"
 ---
 
-Redirect to [Burning of Osgiliath](/wiki/Burning_of_Osgiliath).
+Redirect to [Burning of Osgiliath](../B/Burning_of_Osgiliath.md).

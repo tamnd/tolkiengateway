@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tyalië Tyelelliéva"
 ---
 
-Redirect to [Tyalië Tyelelliéva](/wiki/Tyalië_Tyelelliéva).
+Redirect to [Tyalië Tyelelliéva](Tyalië_Tyelelliéva.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Warlords of the Desert"
 ---
 
-Redirect to [Warlords of the Desert](/wiki/Warlords_of_the_Desert).
+Redirect to [Warlords of the Desert](../W/Warlords_of_the_Desert.md).

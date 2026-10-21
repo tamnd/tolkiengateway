@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The White Hand"
 ---
 
-Redirect to [Middle-earth: The White Hand](/wiki/Middle-earth:_The_White_Hand).
+Redirect to [Middle-earth: The White Hand](Middle-earth%253A_The_White_Hand.md).

@@ -1,6 +1,5 @@
 ---
 title: "David Giraudeau"
-display_title: "<span class=\"mw-page-title-main\">David Giraudeau</span>"
 page_id: 35127
 namespace: 0
 revision_id: 405199
@@ -21,7 +20,7 @@ sort_keys:
   "Webmasters": "Giraudeau, David"
 ---
 
-**David Giraudeau** (born [3 February](/wiki/3_February) [1980](/wiki/1980)) is a French hydrographer and amateur philologist fascinated by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s invented languages. In [2006](/wiki/2006) he was granted permission by the [Tolkien Estate](/wiki/Tolkien_Estate) to translate articles having appeared in *[Vinyar Tengwar](/wiki/Vinyar_Tengwar)*. Giraudeau also runs the website Lambenórë.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**David Giraudeau** (born [3 February](../_/3_February.md) [1980](../_/1980.md)) is a French hydrographer and amateur philologist fascinated by [Tolkien](../J/J.R.R._Tolkien.md)'s invented languages. In [2006](../_/2006.md) he was granted permission by the [Tolkien Estate](../T/Tolkien_Estate.md) to translate articles having appeared in *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*. Giraudeau also runs the website Lambenórë.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 

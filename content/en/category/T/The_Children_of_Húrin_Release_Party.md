@@ -1,6 +1,5 @@
 ---
 title: "Category:The Children of Húrin Release Party"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Children of Húrin Release Party</span>"
 page_id: 34299
 namespace: 14
 revision_id: 241053

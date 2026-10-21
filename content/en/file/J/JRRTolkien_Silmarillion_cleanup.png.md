@@ -1,6 +1,5 @@
 ---
 title: "File:JRRTolkien Silmarillion cleanup.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JRRTolkien Silmarillion cleanup.png</span>"
 page_id: 71296
 namespace: 6
 revision_id: 425342

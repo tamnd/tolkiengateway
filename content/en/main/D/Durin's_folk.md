@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin's Folk"
 ---
 
-Redirect to [Durin's Folk](/wiki/Durin's_Folk).
+Redirect to [Durin's Folk](Durin's_Folk~15256.md).

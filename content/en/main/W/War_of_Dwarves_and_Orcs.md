@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Dwarves and Orcs"
 ---
 
-Redirect to [War of the Dwarves and Orcs](/wiki/War_of_the_Dwarves_and_Orcs).
+Redirect to [War of the Dwarves and Orcs](War_of_the_Dwarves_and_Orcs.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Ultimate Critical Review.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Ultimate Critical Review.jpg</span>"
 page_id: 17804
 namespace: 6
 revision_id: 214656

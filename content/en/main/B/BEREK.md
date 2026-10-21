@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "BERÉK"
 ---
 
-Redirect to [BERÉK](/wiki/BERÉK).
+Redirect to [BERÉK](BERÉK.md).

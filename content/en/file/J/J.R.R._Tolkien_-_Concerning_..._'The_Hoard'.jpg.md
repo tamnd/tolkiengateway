@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Concerning ... 'The Hoard'.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Concerning ... &#039;The Hoard&#039;.jpg</span>"
 page_id: 62272
 namespace: 6
 revision_id: 351596

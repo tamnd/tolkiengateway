@@ -1,6 +1,5 @@
 ---
 title: "Category:Scholarly books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Scholarly books</span>"
 page_id: 26344
 namespace: 14
 revision_id: 104851

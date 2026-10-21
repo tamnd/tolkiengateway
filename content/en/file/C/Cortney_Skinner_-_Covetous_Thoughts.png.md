@@ -1,6 +1,5 @@
 ---
 title: "File:Cortney Skinner - Covetous Thoughts.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cortney Skinner - Covetous Thoughts.png</span>"
 page_id: 73702
 namespace: 6
 revision_id: 435355
@@ -37,26 +36,23 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Cortney Skinner - Covetous Thoughts.png</span></th>
 <td class="description">
 <p><i>Covetous Thoughts</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Cortney_Skinner" title="Cortney Skinner">Cortney Skinner</a></td>
+<td><a href="../../main/C/Cortney_Skinner.md" title="Cortney Skinner">Cortney Skinner</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/tree/master/resources/Card%20Art%20Images" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/tree/master/resources/Card%20Art%20Images</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -75,4 +71,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Cortney Skinner</li>
 <li><b>Website:</b> <a class="external text" href="http://www.cortneyskinner.com/" rel="noreferrer noopener" target="_blank">Cortney Skinner&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Cortney_Skinner" title="Tolkien Gateway:Copyrights/Cortney Skinner">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCortney_Skinner.md" title="Tolkien Gateway:Copyrights/Cortney Skinner">Permission for use on Tolkien Gateway</a></b></li></ul></div>

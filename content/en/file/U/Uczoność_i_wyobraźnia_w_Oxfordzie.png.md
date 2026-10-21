@@ -1,6 +1,5 @@
 ---
 title: "File:Uczoność i wyobraźnia w Oxfordzie.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Uczoność i wyobraźnia w Oxfordzie.png</span>"
 page_id: 57036
 namespace: 6
 revision_id: 388544
@@ -28,7 +27,7 @@ Notes:
 
 Actual title is "Uczoność a wyobraźnia w Oxfordzie" ("\[the relationship between\] Lernedness and imagination in Oxford"), apparently there is a typo in transcription on <a class="external text" href="https://tolkniety.blogspot.com/2020/04/j-r-r-tolkiens-letter-to-miss-maria.html" rel="noreferrer noopener" target="_blank">tolkniety.blogspot.com</a>. In Polish, both "a" and "i" mean "and", here "a" suggests "the relationship between".
 
-Marked words: "Tolkien", "historio-mit" ("historio-myth"), "Pana Pierścieni" (genitive of "Pan Pierścieni", a more literal translation of the title "[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)", because the published "Władca Pierścieni" could be translated as "\[The\] Ruler of \[the\] Rings").
+Marked words: "Tolkien", "historio-mit" ("historio-myth"), "Pana Pierścieni" (genitive of "Pan Pierścieni", a more literal translation of the title "[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)", because the published "Władca Pierścieni" could be translated as "\[The\] Ruler of \[the\] Rings").
 
 ## Licensing {#Licensing}
 

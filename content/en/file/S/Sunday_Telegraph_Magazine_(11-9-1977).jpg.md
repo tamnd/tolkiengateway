@@ -1,6 +1,5 @@
 ---
 title: "File:Sunday Telegraph Magazine (11-9-1977).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sunday Telegraph Magazine (11-9-1977).jpg</span>"
 page_id: 44310
 namespace: 6
 revision_id: 238743
@@ -26,7 +25,7 @@ file:
 
 ## Description {#Description}
 
-An issue of the *Sunday Telegraph Magazine* (11/9/1977), including an article by [Humphrey Carpenter](/wiki/Humphrey_Carpenter).
+An issue of the *Sunday Telegraph Magazine* (11/9/1977), including an article by [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md).
 
 ## Licensing {#Licensing}
 

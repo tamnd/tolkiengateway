@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gladden River"
 ---
 
-Redirect to [Gladden River](/wiki/Gladden_River).
+Redirect to [Gladden River](../G/Gladden_River.md).

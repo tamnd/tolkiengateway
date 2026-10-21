@@ -14,21 +14,21 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>curu</b></i> is a word in [Quenya](/wiki/Quenya) and [Sindarin](/wiki/Sindarin), meaning "skill".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>curu</b></i> is a word in [Quenya](../Q/Quenya.md) and [Sindarin](../S/Sindarin.md), meaning "skill".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- [Curufin](/wiki/Curufin)
-- [Curufinwë](/wiki/Curufinw%C3%AB)
-- [Curumo](/wiki/Curumo)
-- [Curunír](/wiki/Curun%C3%ADr)
-    - [Nan Curunír](/wiki/Nan_Curun%C3%ADr)
+- [Curufin](Curufin.md)
+- [Curufinwë](Curufinwë.md)
+- [Curumo](Curumo.md)
+- [Curunír](Curunír.md)
+    - [Nan Curunír](../N/Nan_Curunír.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>curu</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>curu</i></span>
 </li>
 </ol></div>

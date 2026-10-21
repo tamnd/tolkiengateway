@@ -1,6 +1,5 @@
 ---
 title: "File:Mayor Pott Whitfoot.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mayor Pott Whitfoot.png</span>"
 page_id: 71229
 namespace: 6
 revision_id: 442355
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mayor Pott Whitfoot.png</span></th>
 <td class="description">
-<p><a href="/wiki/Mayor_of_Michel_Delving" title="Mayor of Michel Delving">Mayor</a> <a href="/wiki/Pott_the_Mayor" title="Pott the Mayor">Pott Whitfoot</a>
+<p><a href="../../main/M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor</a> <a href="../../main/P/Pott_the_Mayor.md" title="Pott the Mayor">Pott Whitfoot</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jan_Posp%C3%AD%C5%A1il" title="Jan Pospíšil">Jan Pospíšil</a></td>
+<td><a href="../../main/J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings_Roleplaying" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i></td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings_Roleplaying.md" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

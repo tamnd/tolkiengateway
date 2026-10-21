@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bëor heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bëor heraldic device.jpg</span>"
 page_id: 64785
 namespace: 6
 revision_id: 432778
@@ -29,10 +28,10 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/68/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #68</a>. Published in:
 
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), April
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), January
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), pp. 131, 216
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), April
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), January
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), pp. 131, 216
 
 ## Licensing {#Licensing}
 

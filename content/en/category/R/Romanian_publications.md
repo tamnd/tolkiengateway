@@ -1,6 +1,5 @@
 ---
 title: "Category:Romanian publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Romanian publications</span>"
 page_id: 35341
 namespace: 14
 revision_id: 166128

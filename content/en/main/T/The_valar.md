@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valar"
 ---
 
-Redirect to [Valar](/wiki/Valar).
+Redirect to [Valar](../V/Valar.md).

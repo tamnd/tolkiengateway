@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok.png</span>"
 page_id: 71507
 namespace: 6
 revision_id: 426413
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Cor Blok](/wiki/Cor_Blok) introducing [A Tolkien Tapestry](/wiki/A_Tolkien_Tapestry). Source: <a class="external text" href="https://www.youtube.com/watch?v=Gu8MCgpMmdo" rel="noreferrer noopener" target="_blank">Cor Blok - Une tapisserie pour Tolkien, illustrations pour Le seigneur des anneaux</a>
+Image of [Cor Blok](../../main/C/Cor_Blok.md) introducing [A Tolkien Tapestry](../../main/A/A_Tolkien_Tapestry.md). Source: <a class="external text" href="https://www.youtube.com/watch?v=Gu8MCgpMmdo" rel="noreferrer noopener" target="_blank">Cor Blok - Une tapisserie pour Tolkien, illustrations pour Le seigneur des anneaux</a>
 
 ## Licensing {#Licensing}
 

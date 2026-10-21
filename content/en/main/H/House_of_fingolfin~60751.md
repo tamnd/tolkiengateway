@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Fingolfin"
 ---
 
-Redirect to [House of Fingolfin](/wiki/House_of_Fingolfin).
+Redirect to [House of Fingolfin](House_of_Fingolfin.md).

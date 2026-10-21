@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Poole - Silent Watcher.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Poole - Silent Watcher.png</span>"
 page_id: 72024
 namespace: 6
 revision_id: 440886
@@ -33,28 +32,25 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mark Poole - Silent Watcher.png</span></th>
 <td class="description">
-<p><i><a href="/wiki/Two_Watchers" title="Two Watchers">Silent Watcher</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
- Actually depicts the <a href="/wiki/Two_Watchers" title="Two Watchers">Two Watchers</a>, not the <a href="/wiki/Silent_Watchers" title="Silent Watchers">Silent Watchers</a>
+<p><i><a href="../../main/T/Two_Watchers.md" title="Two Watchers">Silent Watcher</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+ Actually depicts the <a href="../../main/T/Two_Watchers.md" title="Two Watchers">Two Watchers</a>, not the <a href="../../main/S/Silent_Watchers.md" title="Silent Watchers">Silent Watchers</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Mark_Poole" title="Mark Poole">Mark Poole</a></td>
+<td><a href="../../main/M/Mark_Poole.md" title="Mark Poole">Mark Poole</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Extracted from a card scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

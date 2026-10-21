@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vales of Sirion"
 ---
 
-Redirect to [Vales of Sirion](/wiki/Vales_of_Sirion).
+Redirect to [Vales of Sirion](Vales_of_Sirion.md).

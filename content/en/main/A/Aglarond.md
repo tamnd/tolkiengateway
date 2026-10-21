@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glittering Caves"
 ---
 
-Redirect to [Glittering Caves](/wiki/Glittering_Caves).
+Redirect to [Glittering Caves](../G/Glittering_Caves.md).

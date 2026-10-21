@@ -1,6 +1,5 @@
 ---
 title: "Elvenhome"
-display_title: "<span class=\"mw-page-title-main\">Elvenhome</span>"
 page_id: 2139
 namespace: 0
 revision_id: 435685
@@ -28,28 +27,28 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/regions/aman/eldamar"
 ---
 
-**Elvenhome** almost always refers to [Eldamar](/wiki/Eldamar) (which is "Elvenhome" in the Elves' own tongue), the homeland of the Elves in [Aman](/wiki/Aman), which is its translation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Elvenhome** almost always refers to [Eldamar](Eldamar.md) (which is "Elvenhome" in the Elves' own tongue), the homeland of the Elves in [Aman](../A/Aman.md), which is its translation.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-The word also was a general term for a land inhabited by [Elves](/wiki/Elves). For example, an "Elvenhome" in the song about [Beren](/wiki/Beren) and [Lúthien](/wiki/L%C3%BAthien) referred to [Doriath](/wiki/Doriath),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and an Elvenhome is mentioned in the [Hobbit](/wiki/Hobbit)-poem *[The Hoard](/wiki/The_Hoard)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which referred to [Nargothrond](/wiki/Nargothrond).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+The word also was a general term for a land inhabited by [Elves](Elves.md). For example, an "Elvenhome" in the song about [Beren](../B/Beren.md) and [Lúthien](../L/Lúthien.md) referred to [Doriath](../D/Doriath.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and an Elvenhome is mentioned in the [Hobbit](../H/Hobbit.md)-poem *[The Hoard](../T/The_Hoard.md)*,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which referred to [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## See also {#See_also}
 
-- [Elvenesse](/wiki/Elvenesse)
+- [Elvenesse](Elvenesse.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 20</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 20</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Knife_in_the_Dark" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Knife_in_the_Dark.md" title="A Knife in the Dark">A Knife in the Dark</a>&#34;</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Adventures_of_Tom_Bombadil" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="/wiki/The_Hoard" title="The Hoard">The Hoard</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="../T/The_Hoard.md" title="The Hoard">The Hoard</a>&#34;</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/Robert_Foster" title="Robert Foster">Robert Foster</a>, <i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> p.116, entry &#34;Elvenhome&#34;</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> p.116, entry &#34;Elvenhome&#34;</span>
 </li>
 </ol></div>

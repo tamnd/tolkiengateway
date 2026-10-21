@@ -1,6 +1,5 @@
 ---
 title: "Andrew Broad"
-display_title: "<span class=\"mw-page-title-main\">Andrew Broad</span>"
 page_id: 28145
 namespace: 0
 revision_id: 415929
@@ -22,7 +21,7 @@ sort_keys:
   "People by name": "Broad, Andrew"
 ---
 
-**Dr. Andrew Philip Broad** is a software programmer and designer from the greater Manchester area. He designed *[Manic Miner: The Hobbit](/wiki/Manic_Miner:_The_Hobbit)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[Jet Set Willy: The Lord of the Rings](/wiki/Jet_Set_Willy:_The_Lord_of_the_Rings)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> two Tolkien-themed expansions of original games.
+**Dr. Andrew Philip Broad** is a software programmer and designer from the greater Manchester area. He designed *[Manic Miner: The Hobbit](../M/Manic_Miner%253A_The_Hobbit.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[Jet Set Willy: The Lord of the Rings](../J/Jet_Set_Willy%253A_The_Lord_of_the_Rings.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> two Tolkien-themed expansions of original games.
 
 ## External links {#External_links}
 

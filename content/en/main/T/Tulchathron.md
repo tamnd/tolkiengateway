@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tulkastor"
 ---
 
-Redirect to [Tulkastor](/wiki/Tulkastor).
+Redirect to [Tulkastor](Tulkastor.md).

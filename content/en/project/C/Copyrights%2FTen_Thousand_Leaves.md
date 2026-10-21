@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ten Thousand Leaves"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ten Thousand Leaves</span>"
 page_id: 51348
 namespace: 4
 revision_id: 277606
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Ten Thousand Leaves"
 ---
 
-- Ten Thousand Leaves has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Ten_Thousand_Leaves "Category:Images by Ten Thousand Leaves") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Ten Thousand Leaves has kindly granted her permission to use [her artwork](../../category/I/Images_by_Ten_Thousand_Leaves.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 23 July 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

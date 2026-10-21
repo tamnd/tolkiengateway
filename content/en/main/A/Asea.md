@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Asëa"
 ---
 
-Redirect to [Asëa](/wiki/Asëa).
+Redirect to [Asëa](Asëa.md).

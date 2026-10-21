@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haleth (son of Helm)"
 ---
 
-Redirect to [Haleth (son of Helm)](/wiki/Haleth_(son_of_Helm)).
+Redirect to [Haleth (son of Helm)](<Haleth_(son_of_Helm).md>).

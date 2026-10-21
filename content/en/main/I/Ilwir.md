@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ingil"
 ---
 
-Redirect to [Ingil](/wiki/Ingil).
+Redirect to [Ingil](Ingil.md).

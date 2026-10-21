@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Merlock Mountains"
 ---
 
-Redirect to [Merlock Mountains](/wiki/Merlock_Mountains).
+Redirect to [Merlock Mountains](Merlock_Mountains.md).

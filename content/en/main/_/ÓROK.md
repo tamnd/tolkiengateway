@@ -11,4 +11,4 @@ redirect_target: "RUKU"
 redirect_fragment: "Other versions"
 ---
 
-Redirect to [RUKU](/wiki/RUKU#Other_versions).
+Redirect to [RUKU](../R/RUKU.md#Other_versions).

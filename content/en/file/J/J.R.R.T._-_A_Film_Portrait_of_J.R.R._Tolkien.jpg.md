@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R.T. - A Film Portrait of J.R.R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R.T. - A Film Portrait of J.R.R. Tolkien.jpg</span>"
 page_id: 26391
 namespace: 6
 revision_id: 248700

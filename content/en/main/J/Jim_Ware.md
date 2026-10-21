@@ -1,6 +1,5 @@
 ---
 title: "Jim Ware"
-display_title: "<span class=\"mw-page-title-main\">Jim Ware</span>"
 page_id: 15620
 namespace: 0
 revision_id: 324425
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Ware, Jim"
 ---
 
-**Jim Ware** is the author of various [Christian](/wiki/Christianity "Christianity") books about fantasy. Often assisted by Kurt Bruner, he produced the "*Finding God...*" series, reporting on religious readings of fantastic literature.
+**Jim Ware** is the author of various [Christian](../C/Christianity.md) books about fantasy. Often assisted by Kurt Bruner, he produced the "*Finding God...*" series, reporting on religious readings of fantastic literature.
 
 ## Bibliography {#Bibliography}
 
-- [2001](/wiki/2001): *[Finding God in The Lord of the Rings](/wiki/Finding_God_in_The_Lord_of_the_Rings)* (with Kurt Bruner)
-- [2006](/wiki/2006): *[Finding God in The Hobbit](/wiki/Finding_God_in_The_Hobbit)*
+- [2001](../_/2001.md): *[Finding God in The Lord of the Rings](../F/Finding_God_in_The_Lord_of_the_Rings.md)* (with Kurt Bruner)
+- [2006](../_/2006.md): *[Finding God in The Hobbit](../F/Finding_God_in_The_Hobbit.md)*
 
 ## External links {#External_links}
 

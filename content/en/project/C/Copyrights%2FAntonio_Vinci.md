@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Antonio Vinci"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Antonio Vinci</span>"
 page_id: 50036
 namespace: 4
 revision_id: 271030
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vinci, Antonio"
 ---
 
-- Antonio Vinci has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Antonio_Vinci "Category:Images by Antonio Vinci") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Antonio Vinci has kindly granted his permission to use [his artwork](../../category/I/Images_by_Antonio_Vinci.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 1 June 2015
-- User who sought the permission via DeviantArt: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via DeviantArt: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

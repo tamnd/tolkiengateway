@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - End of the World.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - End of the World.jpg</span>"
 page_id: 53363
 namespace: 6
 revision_id: 381138
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). See article **[End of the World](/wiki/End_of_the_World)**.
+Illustration by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). See article **[End of the World](../../main/E/End_of_the_World.md)**.
 
 ## Licensing {#Licensing}
 

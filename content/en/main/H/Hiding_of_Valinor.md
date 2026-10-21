@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nurtalë Valinóreva"
 ---
 
-Redirect to [Nurtalë Valinóreva](/wiki/Nurtalë_Valinóreva).
+Redirect to [Nurtalë Valinóreva](../N/Nurtalë_Valinóreva.md).

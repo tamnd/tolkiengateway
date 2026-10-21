@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hröangolmë"
 ---
 
-Redirect to [Hröangolmë](/wiki/Hröangolmë).
+Redirect to [Hröangolmë](Hröangolmë.md).

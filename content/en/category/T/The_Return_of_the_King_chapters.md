@@ -15,4 +15,4 @@ sort_keys:
   "The Lord of the Rings chapters": "Return of the King"
 ---
 
-<dl><dd><i>Chapters of </i><b><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></b></dd></dl>
+<dl><dd><i>Chapters of </i><b><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></b></dd></dl>

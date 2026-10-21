@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Minttu Hynninen"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Minttu Hynninen</span>"
 page_id: 42627
 namespace: 14
 revision_id: 224610

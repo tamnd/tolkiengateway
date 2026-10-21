@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cemendur (son of Axantur)"
 ---
 
-Redirect to [Cemendur (son of Axantur)](/wiki/Cemendur_(son_of_Axantur)).
+Redirect to [Cemendur (son of Axantur)](<Cemendur_(son_of_Axantur).md>).

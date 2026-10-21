@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golfimbul"
 ---
 
-Redirect to [Golfimbul](/wiki/Golfimbul).
+Redirect to [Golfimbul](Golfimbul.md).

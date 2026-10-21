@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Geoffrey Bache Smith"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Geoffrey Bache Smith</span>"
 page_id: 68502
 namespace: 14
 revision_id: 403656
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Bache Smith, Geoffrey"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Geoffrey Bache Smith](/wiki/Geoffrey_Bache_Smith).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Geoffrey Bache Smith](../../main/G/Geoffrey_Bache_Smith.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Salgant"
 ---
 
-Redirect to [Salgant](/wiki/Salgant).
+Redirect to [Salgant](../S/Salgant.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Dale"
 ---
 
-Redirect to [King of Dale](/wiki/King_of_Dale).
+Redirect to [King of Dale](King_of_Dale.md).

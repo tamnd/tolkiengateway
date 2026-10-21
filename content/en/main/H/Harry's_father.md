@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grip (Bill Butcher's dog)"
 ---
 
-Redirect to [Grip (Bill Butcher's dog)](/wiki/Grip_(Bill_Butcher's_dog)).
+Redirect to [Grip (Bill Butcher's dog)](<../G/Grip_(Bill_Butcher's_dog).md>).

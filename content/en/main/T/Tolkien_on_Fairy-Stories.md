@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien On Fairy-stories"
 ---
 
-Redirect to [Tolkien On Fairy-stories](/wiki/Tolkien_On_Fairy-stories).
+Redirect to [Tolkien On Fairy-stories](Tolkien_On_Fairy-stories~23734.md).

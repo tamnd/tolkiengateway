@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mauhúr"
 ---
 
-Redirect to [Mauhúr](/wiki/Mauhúr).
+Redirect to [Mauhúr](Mauhúr.md).

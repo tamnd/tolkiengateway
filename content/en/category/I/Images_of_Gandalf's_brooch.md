@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Gandalf's brooch"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Gandalf&#039;s brooch</span>"
 page_id: 14350
 namespace: 14
 revision_id: 322509

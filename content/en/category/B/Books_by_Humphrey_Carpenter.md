@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Humphrey Carpenter"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Humphrey Carpenter</span>"
 page_id: 26407
 namespace: 14
 revision_id: 105541
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Carpenter, Humphrey"
 ---
 
-Books by [Humphrey Carpenter](/wiki/Humphrey_Carpenter).
+Books by [Humphrey Carpenter](../../main/H/Humphrey_Carpenter.md).

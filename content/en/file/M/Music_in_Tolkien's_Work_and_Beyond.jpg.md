@@ -1,6 +1,5 @@
 ---
 title: "File:Music in Tolkien's Work and Beyond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Music in Tolkien&#039;s Work and Beyond.jpg</span>"
 page_id: 57144
 namespace: 6
 revision_id: 388781
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Music in Tolkien's Work and Beyond](/wiki/Music_in_Tolkien%27s_Work_and_Beyond), published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is "Gunnar in the Snakepit" by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of [Music in Tolkien's Work and Beyond](../../main/M/Music_in_Tolkien's_Work_and_Beyond.md), published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is "Gunnar in the Snakepit" by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

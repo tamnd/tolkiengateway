@@ -1,6 +1,5 @@
 ---
 title: "File:Wayne Che Yip.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wayne Che Yip.jpg</span>"
 page_id: 63733
 namespace: 6
 revision_id: 434541
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.instagram.com/p/CM0B-Wvjyd0/?img_index=2" rel="noreferrer noopener" target="_blank">Instagram</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

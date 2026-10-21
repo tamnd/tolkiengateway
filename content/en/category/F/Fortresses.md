@@ -1,6 +1,5 @@
 ---
 title: "Category:Fortresses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fortresses</span>"
 page_id: 12542
 namespace: 14
 revision_id: 195571

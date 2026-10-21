@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Brothers Hildebrandt"
 ---
 
-Redirect to [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+Redirect to [The Brothers Hildebrandt](The_Brothers_Hildebrandt.md).

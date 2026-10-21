@@ -11,4 +11,4 @@ redirect_target: "Ælfheah"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Ælfheah](/wiki/Ælfheah#Other_versions_of_the_legendarium).
+Redirect to [Ælfheah](../_/Ælfheah.md#Other_versions_of_the_legendarium).

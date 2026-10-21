@@ -1,6 +1,5 @@
 ---
 title: "File:Julian C. Bradfield.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Julian C. Bradfield.png</span>"
 page_id: 36080
 namespace: 6
 revision_id: 185602
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Julian C. Bradfield](/wiki/Julian_C._Bradfield).
+Photograph of [Julian C. Bradfield](../../main/J/Julian_C._Bradfield.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Julian C. Bradfield](/wiki/Julian_C._Bradfield).
 </p>
 <ul><li><b>Name:</b> Julian C. Bradfield</li>
 <li><b>Website:</b> <a class="external text" href="http://homepages.inf.ed.ac.uk/jcb/" rel="noreferrer noopener" target="_blank">Julian Bradfield</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Julian_C._Bradfield" title="Tolkien Gateway:Copyrights/Julian C. Bradfield">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJulian_C._Bradfield.md" title="Tolkien Gateway:Copyrights/Julian C. Bradfield">Permission for use on Tolkien Gateway</a></b></li></ul></div>

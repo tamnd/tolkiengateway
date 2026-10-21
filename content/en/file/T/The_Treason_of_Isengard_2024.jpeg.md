@@ -1,6 +1,5 @@
 ---
 title: "File:The Treason of Isengard 2024.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Treason of Isengard 2024.jpeg</span>"
 page_id: 66696
 namespace: 6
 revision_id: 386266

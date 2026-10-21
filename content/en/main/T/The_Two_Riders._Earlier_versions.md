@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Two Riders"
 ---
 
-Redirect to [The Two Riders](/wiki/The_Two_Riders).
+Redirect to [The Two Riders](https://tolkiengateway.net/wiki/The_Two_Riders).

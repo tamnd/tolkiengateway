@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Armenelos"
 ---
 
-Redirect to [Armenelos](/wiki/Armenelos).
+Redirect to [Armenelos](../A/Armenelos.md).

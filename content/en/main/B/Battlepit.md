@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle Pit"
 ---
 
-Redirect to [Battle Pit](/wiki/Battle_Pit).
+Redirect to [Battle Pit](Battle_Pit.md).

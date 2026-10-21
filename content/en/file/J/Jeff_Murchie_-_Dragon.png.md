@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Murchie - Dragon.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Murchie - Dragon.png</span>"
 page_id: 36197
 namespace: 6
 revision_id: 437432
@@ -32,19 +31,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jeff Murchie - Dragon.png</span></th>
 <td class="description">
-<p>Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
+<p>Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jeff_Murchie" title="Jeff Murchie">Jeff Murchie</a></td>
+<td><a href="../../main/J/Jeff_Murchie.md" title="Jeff Murchie">Jeff Murchie</a></td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

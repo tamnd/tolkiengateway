@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wings Over Arda: The First Age"
 ---
 
-Redirect to [Wings Over Arda: The First Age](/wiki/Wings_Over_Arda:_The_First_Age).
+Redirect to [Wings Over Arda: The First Age](Wings_Over_Arda%253A_The_First_Age.md).

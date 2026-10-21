@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Dragon (first option).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Dragon (first option).png</span>"
 page_id: 74495
 namespace: 6
 revision_id: 438592
@@ -31,24 +30,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Dragon (first option).png</span></th>
 <td class="description">
-<blockquote><p>One of two options for tier six of my forthcoming Patreon page. <a href="/wiki/Smaug" title="Smaug">#Smaug</a> <a href="/wiki/Dragons" title="Dragons">#dragon</a> <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">#Tolkien</a> <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">#Tolkienfan</a> <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">#Tolkienart</a> <a href="/wiki/The_Hobbit" title="The Hobbit">#TheHobbit</a> #art #artwork #illustration #artofinstagram #artistsofinstagram #artstagram #instagramart #instaart #sketch</p></blockquote>
+<blockquote><p>One of two options for tier six of my forthcoming Patreon page. <a href="../../main/S/Smaug.md" title="Smaug">#Smaug</a> <a href="../../main/D/Dragons.md" title="Dragons">#dragon</a> <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">#Tolkien</a> <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">#Tolkienfan</a> <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">#Tolkienart</a> <a href="../../main/T/The_Hobbit.md" title="The Hobbit">#TheHobbit</a> #art #artwork #illustration #artofinstagram #artistsofinstagram #artstagram #instagramart #instaart #sketch</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/9_July" title="9 July">July 9</a> <a href="/wiki/2018" title="2018">2018</a></td>
+<td><a href="../../main/_/9_July.md" title="9 July">July 9</a> <a href="../../main/_/2018.md" title="2018">2018</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.instagram.com/stephenwalshart/p/Bk-mVk5hQq4/" rel="noreferrer noopener" target="_blank">https://www.instagram.com/stephenwalshart/p/Bk-mVk5hQq4/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -56,4 +52,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

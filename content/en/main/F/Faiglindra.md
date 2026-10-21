@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aerin"
 ---
 
-Redirect to [Aerin](/wiki/Aerin).
+Redirect to [Aerin](../A/Aerin.md).

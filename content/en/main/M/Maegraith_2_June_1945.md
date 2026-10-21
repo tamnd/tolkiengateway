@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Maegraith"
 ---
 
-Redirect to [Letter to Maegraith](/wiki/Letter_to_Maegraith).
+Redirect to [Letter to Maegraith](../L/Letter_to_Maegraith.md).

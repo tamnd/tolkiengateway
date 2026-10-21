@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Tactics Aragorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Tactics Aragorn.jpg</span>"
 page_id: 63703
 namespace: 6
 revision_id: 362961
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) from the game [The Lord of the Rings: Tactics](/wiki/The_Lord_of_the_Rings:_Tactics).
+[Aragorn](../../main/A/Aragorn.md) from the game [The Lord of the Rings: Tactics](../../main/T/The_Lord_of_the_Rings%253A_Tactics.md).
 
 ## Licensing {#Licensing}
 

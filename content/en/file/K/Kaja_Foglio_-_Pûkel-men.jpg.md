@@ -1,6 +1,5 @@
 ---
 title: "File:Kaja Foglio - Pûkel-men.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kaja Foglio - Pûkel-men.jpg</span>"
 page_id: 74893
 namespace: 6
 revision_id: 440885
@@ -34,26 +33,23 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Kaja Foglio - Pûkel-men.jpg</span></th>
 <td class="description">
 <p><i>Pûkel-men</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Wizards" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1995" title="1995">1995</a></td>
+<td><a href="../../main/_/1995.md" title="1995">1995</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Kaja_Foglio" title="Kaja Foglio">Kaja Foglio</a></td>
+<td><a href="../../main/K/Kaja_Foglio.md" title="Kaja Foglio">Kaja Foglio</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/wizards_art/Pukelmen.png" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

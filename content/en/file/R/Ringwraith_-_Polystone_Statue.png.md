@@ -1,6 +1,5 @@
 ---
 title: "File:Ringwraith - Polystone Statue.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ringwraith - Polystone Statue.png</span>"
 page_id: 38828
 namespace: 6
 revision_id: 191457

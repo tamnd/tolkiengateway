@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit (film series) cast"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) cast</span>"
 page_id: 57163
 namespace: 14
 revision_id: 368441

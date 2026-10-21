@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of Wrath"
 ---
 
-Redirect to [War of Wrath](/wiki/War_of_Wrath).
+Redirect to [War of Wrath](../W/War_of_Wrath.md).

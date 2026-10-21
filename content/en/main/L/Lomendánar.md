@@ -1,6 +1,5 @@
 ---
 title: "Lomendánar"
-display_title: "<span class=\"mw-page-title-main\">Lomendánar</span>"
 page_id: 43791
 namespace: 0
 revision_id: 230663
@@ -15,11 +14,11 @@ sort_keys:
   "Periods": "Lomendanar"
 ---
 
-**Lomendánar** (also **Lome Danar**), "The Days of Gloaming", was a name in early versions of the [legendarium](/wiki/Legendarium "Legendarium") for the period before the making of the [Lamps](/wiki/Two_Lamps "Two Lamps").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Lomendánar** (also **Lome Danar**), "The Days of Gloaming", was a name in early versions of the [legendarium](Legendarium.md) for the period before the making of the [Lamps](../T/Two_Lamps.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, pp. 69, 79</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, pp. 69, 79</span>
 </li>
 </ol></div>

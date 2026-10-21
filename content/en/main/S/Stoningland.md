@@ -11,4 +11,4 @@ redirect_target: "Gondor"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Gondor](/wiki/Gondor#Etymology).
+Redirect to [Gondor](../G/Gondor.md#Etymology).

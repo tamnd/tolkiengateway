@@ -11,4 +11,4 @@ redirect_target: "Sauron"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Sauron](/wiki/Sauron#Names).
+Redirect to [Sauron](../S/Sauron.md#Names).

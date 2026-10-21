@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Stone Troll.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Stone Troll.mp3</span>"
 page_id: 71065
 namespace: 6
 revision_id: 424381
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads an earlier version of [The Stone Troll](/wiki/The_Stone_Troll)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads an earlier version of [The Stone Troll](../../main/T/The_Stone_Troll.md)
 
 ## Licensing {#Licensing}
 

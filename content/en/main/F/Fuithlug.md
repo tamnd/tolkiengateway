@@ -11,4 +11,4 @@ redirect_target: "Glaurung"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Glaurung](/wiki/Glaurung#Other_versions_of_the_legendarium).
+Redirect to [Glaurung](../G/Glaurung.md#Other_versions_of_the_legendarium).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tûl Acharn"
 ---
 
-Redirect to [Tûl Acharn](/wiki/Tûl_Acharn).
+Redirect to [Tûl Acharn](Tûl_Acharn.md).

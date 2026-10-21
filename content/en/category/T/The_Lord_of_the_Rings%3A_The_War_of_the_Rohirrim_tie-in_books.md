@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The War of the Rohirrim tie-in books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The War of the Rohirrim tie-in books</span>"
 page_id: 71770
 namespace: 14
 revision_id: 427747

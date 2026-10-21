@@ -1,6 +1,5 @@
 ---
 title: "File:The Children's Treasury of Literature in Colour (1975).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Children&#039;s Treasury of Literature in Colour (1975).png</span>"
 page_id: 40805
 namespace: 6
 revision_id: 214625

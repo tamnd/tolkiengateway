@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ephel Dúath"
 ---
 
-Redirect to [Ephel Dúath](/wiki/Ephel_Dúath).
+Redirect to [Ephel Dúath](Ephel_Dúath.md).

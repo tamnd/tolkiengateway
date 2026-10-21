@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulfang"
 ---
 
-Redirect to [Ulfang](/wiki/Ulfang).
+Redirect to [Ulfang](Ulfang.md).

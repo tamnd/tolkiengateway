@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Butterflies Above Mirkwood.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Butterflies Above Mirkwood.jpg](/wiki/File:Ted_Nasmith_-_Butterflies_Above_Mirkwood.jpg).
+Redirect to [File:Ted Nasmith - Butterflies Above Mirkwood.jpg](Ted_Nasmith_-_Butterflies_Above_Mirkwood.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lhûn"
 ---
 
-Redirect to [Lhûn](/wiki/Lhûn).
+Redirect to [Lhûn](Lhûn.md).

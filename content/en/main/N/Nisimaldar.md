@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nísimaldar"
 ---
 
-Redirect to [Nísimaldar](/wiki/Nísimaldar).
+Redirect to [Nísimaldar](Nísimaldar.md).

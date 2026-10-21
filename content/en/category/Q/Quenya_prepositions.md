@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya prepositions"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya prepositions</span>"
 page_id: 34233
 namespace: 14
 revision_id: 220059

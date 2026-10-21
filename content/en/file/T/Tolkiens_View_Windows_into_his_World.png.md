@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkiens View Windows into his World.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkiens View Windows into his World.png</span>"
 page_id: 38545
 namespace: 6
 revision_id: 350893

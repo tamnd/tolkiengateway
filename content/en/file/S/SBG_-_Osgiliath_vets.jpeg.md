@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Osgiliath vets.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Osgiliath vets.jpeg</span>"
 page_id: 11838
 namespace: 6
 revision_id: 204029

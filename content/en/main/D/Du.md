@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dû"
 ---
 
-Redirect to [Dû](/wiki/Dû).
+Redirect to [Dû](Dû.md).

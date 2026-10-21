@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Life and Legend"
 ---
 
-Redirect to [J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend).
+Redirect to [J.R.R. Tolkien: Life and Legend](../J/J.R.R._Tolkien%253A_Life_and_Legend.md).

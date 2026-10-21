@@ -1,6 +1,5 @@
 ---
 title: "File:Ryszard Derdziński - Feanor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ryszard Derdziński - Feanor.jpg</span>"
 page_id: 22730
 namespace: 6
 revision_id: 361101
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Fëanor](/wiki/F%C3%ABanor) designing the first [Tengwar](/wiki/Tengwar). This illustration, by [Ryszard Derdziński](/wiki/Ryszard_Derdzi%C5%84ski), was used on the cover of the *[Elvish Linguistic Calendar Spring 2001 - Stirring 2002](/wiki/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002)*.
+[Fëanor](../../main/F/Fëanor.md) designing the first [Tengwar](../../main/T/Tengwar.md). This illustration, by [Ryszard Derdziński](../../main/R/Ryszard_Derdziński.md), was used on the cover of the *[Elvish Linguistic Calendar Spring 2001 - Stirring 2002](../../main/E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md)*.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 <p>This work is copyrighted and owned by Ryszard Derdziński. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Ryszard Derdziński</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ryszard_Derdzi%C5%84ski" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRyszard_Derdziński.md" title="Tolkien Gateway:Copyrights/Ryszard Derdziński">Permission for use on Tolkien Gateway</a></b></li></ul></div>

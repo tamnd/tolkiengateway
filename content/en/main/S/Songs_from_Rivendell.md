@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Starlit Jewel"
 ---
 
-Redirect to [The Starlit Jewel](/wiki/The_Starlit_Jewel).
+Redirect to [The Starlit Jewel](../T/The_Starlit_Jewel.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Lego The Lord of the Rings - The Video Game - Herugrim.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego The Lord of the Rings - The Video Game - Herugrim.png</span>"
 page_id: 72193
 namespace: 6
 revision_id: 429246
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Herugrim](/wiki/Herugrim) - *[Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game)*
+[Herugrim](../../main/H/Herugrim.md) - *[Lego The Lord of the Rings: The Video Game](../../main/L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)*
 
 ## Licensing {#Licensing}
 

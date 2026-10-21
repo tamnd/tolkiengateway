@@ -15,13 +15,13 @@ sort_keys:
   "Orkish words": "ghash"
 ---
 
-<i><b>ghâsh</b></i> is an [Orkish](/wiki/Orkish) word for "fire".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The [Orcs](/wiki/Orcs) of [Moria](/wiki/Moria) used the word in reference to the [Balrog](/wiki/Balrogs "Balrogs"), when it entered the [Chamber of Mazarbul](/wiki/Chamber_of_Mazarbul) and tried to force its way through a door which was blocked by [Gandalf](/wiki/Gandalf).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+<i><b>ghâsh</b></i> is an [Orkish](../O/Orkish.md) word for "fire".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The [Orcs](../O/Orcs.md) of [Moria](../M/Moria.md) used the word in reference to the [Balrog](../B/Balrogs.md), when it entered the [Chamber of Mazarbul](../C/Chamber_of_Mazarbul.md) and tried to force its way through a door which was blocked by [Gandalf](Gandalf.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 48</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 48</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Bridge_of_Khazad-d%C3%BBm" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">The Bridge of Khazad-dûm</a>&#34;</span>
 </li>
 </ol></div>

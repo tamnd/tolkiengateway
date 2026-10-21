@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Oratory School"
 ---
 
-Redirect to [The Oratory School](/wiki/The_Oratory_School).
+Redirect to [The Oratory School](../T/The_Oratory_School.md).

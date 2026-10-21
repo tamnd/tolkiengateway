@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Telpë"
 ---
 
-Redirect to [Telpë](/wiki/Telpë).
+Redirect to [Telpë](Telpë.md).

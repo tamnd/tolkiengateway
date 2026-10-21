@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Far Harad.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Far Harad.png</span>"
 page_id: 33291
 namespace: 6
 revision_id: 441190
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art by [Angus McBride](/wiki/Angus_McBride) for *[Far Harad: The Scorched Land](/wiki/Far_Harad:_The_Scorched_Land)*. The illustration was also reprinted in *[Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)* (p. 19), and was also used as card art for the *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)*.
+Cover art by [Angus McBride](../../main/A/Angus_McBride.md) for *[Far Harad: The Scorched Land](../../main/F/Far_Harad%253A_The_Scorched_Land.md)*. The illustration was also reprinted in *[Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)* (p. 19), and was also used as card art for the *[Middle-earth Collectible Card Game](../../main/M/Middle-earth_Collectible_Card_Game.md)*.
 
 ## Licensing {#Licensing}
 

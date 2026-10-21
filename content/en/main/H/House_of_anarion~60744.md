@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Anárion"
 ---
 
-Redirect to [House of Anárion](/wiki/House_of_Anárion).
+Redirect to [House of Anárion](House_of_Anárion.md).

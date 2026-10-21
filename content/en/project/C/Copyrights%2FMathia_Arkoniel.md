@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Mathia Arkoniel"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Mathia Arkoniel</span>"
 page_id: 37856
 namespace: 4
 revision_id: 193167
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Arkoniel, Mathia"
 ---
 
-- Mathia Arkoniel has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Mathia_Arkoniel "Category:Images by Mathia Arkoniel") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Mathia Arkoniel has kindly granted her permission to use [her artwork](../../category/I/Images_by_Mathia_Arkoniel.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 5 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

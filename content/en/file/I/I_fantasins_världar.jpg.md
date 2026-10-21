@@ -1,6 +1,5 @@
 ---
 title: "File:I fantasins världar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">I fantasins världar.jpg</span>"
 page_id: 27140
 namespace: 6
 revision_id: 214221

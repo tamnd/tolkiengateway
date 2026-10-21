@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sociedad Tolkien Española"
 ---
 
-Redirect to [Sociedad Tolkien Española](/wiki/Sociedad_Tolkien_Española).
+Redirect to [Sociedad Tolkien Española](Sociedad_Tolkien_Española.md).

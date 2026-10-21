@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éadwine"
 ---
 
-Redirect to [Éadwine](/wiki/Éadwine).
+Redirect to [Éadwine](Éadwine.md).

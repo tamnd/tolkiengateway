@@ -1,6 +1,5 @@
 ---
 title: "File:The Saga of Hrolf Kraki (2012).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Saga of Hrolf Kraki (2012).jpg</span>"
 page_id: 40843
 namespace: 6
 revision_id: 214700

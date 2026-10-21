@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Trolls' lair"
 ---
 
-Redirect to [Trolls' lair](/wiki/Trolls'_lair).
+Redirect to [Trolls' lair](Trolls'_lair.md).

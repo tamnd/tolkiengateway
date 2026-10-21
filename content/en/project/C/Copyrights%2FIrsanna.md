@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Irsanna"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Irsanna</span>"
 page_id: 57809
 namespace: 4
 revision_id: 322198
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Irsanna"
 ---
 
-- Irsanna has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Irsanna "Category:Images by Irsanna") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Irsanna has kindly granted her permission to use [her artwork](../../category/I/Images_by_Irsanna.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 August 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

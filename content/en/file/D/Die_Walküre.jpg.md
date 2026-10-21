@@ -1,6 +1,5 @@
 ---
 title: "File:Die Walküre.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Die Walküre.jpg</span>"
 page_id: 28400
 namespace: 6
 revision_id: 248659
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Title page art of [Die Walküre](/wiki/Die_Walk%C3%BCre) from 1899.
+Title page art of [Die Walküre](../../main/D/Die_Walküre.md) from 1899.
 
 ## Licensing {#Licensing}
 

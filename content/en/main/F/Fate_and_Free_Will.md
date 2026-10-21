@@ -1,6 +1,5 @@
 ---
 title: "Fate and Free Will"
-display_title: "<span class=\"mw-page-title-main\">Fate and Free Will</span>"
 page_id: 26524
 namespace: 0
 revision_id: 405500
@@ -14,9 +13,9 @@ categories:
   - "The Nature of Middle-earth chapters"
 ---
 
-**Fate and Free Will** is the title given to a text written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) sometime after January [1968](/wiki/1968). The fragment was edited by [Carl F. Hostetter](/wiki/Carl_F._Hostetter) and published in *[Tolkien Studies: Volume 6](/wiki/Tolkien_Studies:_Volume_6)* ([2009](/wiki/2009), pp. 183–8), and later in *[The Nature of Middle-earth](/wiki/The_Nature_of_Middle-earth)* ([2021](/wiki/2021), Part 2, chapter XI).
+**Fate and Free Will** is the title given to a text written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sometime after January [1968](../_/1968.md). The fragment was edited by [Carl F. Hostetter](../C/Carl_F._Hostetter.md) and published in *[Tolkien Studies: Volume 6](../T/Tolkien_Studies%253A_Volume_6.md)* ([2009](../_/2009.md), pp. 183–8), and later in *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)* ([2021](../_/2021.md), Part 2, chapter XI).
 
-The essay (or rather, notes) consists of a philosophical discussion of [Eldarin](/wiki/Eldar "Eldar") thoughts on the nature and relations of fate, free will and the created world. These were presented in the context of a linguistic discussion of Elvish phonology (of the two [Quenya](/wiki/Quenya) words *[ambar](/wiki/Ambar "Ambar")* 'world' and *[umbar](</wiki/Umbar_(word)> "Umbar (word)")* 'fate').
+The essay (or rather, notes) consists of a philosophical discussion of [Eldarin](../E/Eldar.md) thoughts on the nature and relations of fate, free will and the created world. These were presented in the context of a linguistic discussion of Elvish phonology (of the two [Quenya](../Q/Quenya.md) words *[ambar](../A/Ambar.md)* 'world' and *[umbar](<../U/Umbar_(word).md>)* 'fate').
 
 ## External links {#External_links}
 

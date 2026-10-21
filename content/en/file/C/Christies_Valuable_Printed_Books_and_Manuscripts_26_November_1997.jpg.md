@@ -1,6 +1,5 @@
 ---
 title: "File:Christies Valuable Printed Books and Manuscripts 26 November 1997.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christies Valuable Printed Books and Manuscripts 26 November 1997.jpg</span>"
 page_id: 43751
 namespace: 6
 revision_id: 230501

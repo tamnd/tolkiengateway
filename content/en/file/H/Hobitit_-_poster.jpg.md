@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - poster.jpg</span>"
 page_id: 56392
 namespace: 6
 revision_id: 307597
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Poster for [Hobitit](/wiki/Hobitit).
+Poster for [Hobitit](../../main/H/Hobitit.md).
 
 ## Licensing {#Licensing}
 

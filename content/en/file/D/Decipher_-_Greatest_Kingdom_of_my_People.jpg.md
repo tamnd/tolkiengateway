@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Greatest Kingdom of my People.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Greatest Kingdom of my People.jpg</span>"
 page_id: 22548
 namespace: 6
 revision_id: 211669

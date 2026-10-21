@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "27 January"
 ---
 
-Redirect to [27 January](/wiki/27_January).
+Redirect to [27 January](../_/27_January.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Jenny Dolfen - Catch me if you can.jpg"
 ---
 
-Redirect to [File:Jenny Dolfen - Catch me if you can.jpg](/wiki/File:Jenny_Dolfen_-_Catch_me_if_you_can.jpg).
+Redirect to [File:Jenny Dolfen - Catch me if you can.jpg](Jenny_Dolfen_-_Catch_me_if_you_can.jpg.md).

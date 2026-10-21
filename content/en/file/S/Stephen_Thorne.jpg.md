@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Thorne.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Thorne.jpg</span>"
 page_id: 59900
 namespace: 6
 revision_id: 367702
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Actor [Stephen Thorne](/wiki/Stephen_Thorne), photographed by son Crispian Thorne.
+Actor [Stephen Thorne](../../main/S/Stephen_Thorne.md), photographed by son Crispian Thorne.
 
 ## Licensing {#Licensing}
 

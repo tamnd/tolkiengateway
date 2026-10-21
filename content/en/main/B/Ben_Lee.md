@@ -1,6 +1,5 @@
 ---
 title: "Ben Lee"
-display_title: "<span class=\"mw-page-title-main\">Ben Lee</span>"
 page_id: 11434
 namespace: 0
 revision_id: 153952
@@ -21,6 +20,6 @@ sort_keys:
   "People by name": "Lee, Ben"
 ---
 
-**Benjamin James Lee** ([1981](/wiki/1981) - [May 4](/wiki/4_May "4 May") [2003](/wiki/2003)) was an American artist.
+**Benjamin James Lee** ([1981](../_/1981.md) - [May 4](../_/4_May.md) [2003](../_/2003.md)) was an American artist.
 
-Lee suffered from <a class="extiw" href="http://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy" title="wikipedia:Duchenne muscular dystrophy">Duchenne muscular dystrophy</a> since he was 6, and died at age 22. In his short life, he was an active member of [The Tolkien Society](/wiki/The_Tolkien_Society), and contributed artwork and poetry to the Society's publications.
+Lee suffered from <a class="extiw" href="http://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy" title="wikipedia:Duchenne muscular dystrophy">Duchenne muscular dystrophy</a> since he was 6, and died at age 22. In his short life, he was an active member of [The Tolkien Society](../T/The_Tolkien_Society.md), and contributed artwork and poetry to the Society's publications.

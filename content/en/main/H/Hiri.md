@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Híri"
 ---
 
-Redirect to [Híri](/wiki/Híri).
+Redirect to [Híri](Híri.md).

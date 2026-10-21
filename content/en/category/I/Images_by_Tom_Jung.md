@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tom Jung"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tom Jung</span>"
 page_id: 14725
 namespace: 14
 revision_id: 182198

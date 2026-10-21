@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Promotional Poster.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Promotional Poster.jpeg</span>"
 page_id: 64605
 namespace: 6
 revision_id: 425738
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A promotional poster for *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+A promotional poster for *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ A promotional poster for *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1529100043726295040" rel="noreferrer noopener" target="_blank">&#34;Gollum&#39;s quest for his precious will begin on September 1, 2022! Coming on PC &amp; consoles and at a later date on Nintendo Switch. #GollumGame💍&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1529100043726295040" rel="noreferrer noopener" target="_blank">&#34;Gollum&#39;s quest for his precious will begin on September 1, 2022! Coming on PC &amp; consoles and at a later date on Nintendo Switch. #GollumGame💍&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

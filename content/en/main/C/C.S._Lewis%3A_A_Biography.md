@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "C.S. Lewis: A Biography (disambiguation)"
 ---
 
-Redirect to [C.S. Lewis: A Biography (disambiguation)](/wiki/C.S._Lewis:_A_Biography_(disambiguation)).
+Redirect to [C.S. Lewis: A Biography (disambiguation)](<C.S._Lewis%253A_A_Biography_(disambiguation).md>).

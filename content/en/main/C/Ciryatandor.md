@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ciryatanor"
 ---
 
-Redirect to [Ciryatanor](/wiki/Ciryatanor).
+Redirect to [Ciryatanor](Ciryatanor.md).

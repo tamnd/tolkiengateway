@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laer Cú Beleg"
 ---
 
-Redirect to [Laer Cú Beleg](/wiki/Laer_Cú_Beleg).
+Redirect to [Laer Cú Beleg](../L/Laer_Cú_Beleg.md).

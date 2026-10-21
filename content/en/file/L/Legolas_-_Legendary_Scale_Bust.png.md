@@ -1,6 +1,5 @@
 ---
 title: "File:Legolas - Legendary Scale Bust.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Legolas - Legendary Scale Bust.png</span>"
 page_id: 38854
 namespace: 6
 revision_id: 191509

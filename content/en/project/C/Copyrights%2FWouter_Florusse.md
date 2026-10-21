@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Wouter Florusse"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Wouter Florusse</span>"
 page_id: 44682
 namespace: 4
 revision_id: 235236
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Florusse, Wouter"
 ---
 
-- Wouter Florusse has kindly granted his permission to use [his Tolkien-related artwork](/wiki/Category:Images_by_Wouter_Florusse "Category:Images by Wouter Florusse") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Wouter Florusse has kindly granted his permission to use [his Tolkien-related artwork](../../category/I/Images_by_Wouter_Florusse.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 7 November 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

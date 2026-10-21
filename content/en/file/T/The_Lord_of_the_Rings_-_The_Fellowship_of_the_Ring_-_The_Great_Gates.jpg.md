@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - The Great Gates.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - The Great Gates.jpg</span>"
 page_id: 71759
 namespace: 6
 revision_id: 427657
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Great Gates](/wiki/Great_Gates) in *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *Bloodlines*
+The [Great Gates](../../main/G/Great_Gates.md) in *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *Bloodlines*
 
 ## Licensing {#Licensing}
 

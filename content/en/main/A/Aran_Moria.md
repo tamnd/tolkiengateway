@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kings of Khazad-dûm"
 ---
 
-Redirect to [Kings of Khazad-dûm](/wiki/Kings_of_Khazad-dûm).
+Redirect to [Kings of Khazad-dûm](../K/Kings_of_Khazad-dûm.md).

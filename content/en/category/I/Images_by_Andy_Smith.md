@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Andy Smith"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Andy Smith</span>"
 page_id: 42714
 namespace: 14
 revision_id: 225216

@@ -1,6 +1,5 @@
 ---
 title: "File:Dmitry Prosvirnin - Neekerbreekers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dmitry Prosvirnin - Neekerbreekers.jpg</span>"
 page_id: 70999
 namespace: 6
 revision_id: 434056
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Neekerbreekers](/wiki/Neekerbreekers)" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Nîn-in-Eilph* illustration by Dmitry Prosvirnin
+"[Neekerbreekers](../../main/N/Neekerbreekers.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Nîn-in-Eilph* illustration by Dmitry Prosvirnin
 
 ## Licensing {#Licensing}
 

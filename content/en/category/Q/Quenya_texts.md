@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya texts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya texts</span>"
 page_id: 56259
 namespace: 14
 revision_id: 335465
@@ -16,4 +15,4 @@ sort_keys:
   "Quenya": "Texts"
 ---
 
-This category includes texts in [Quenya](/wiki/Quenya) or [Qenya](/wiki/Qenya) written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+This category includes texts in [Quenya](../../main/Q/Quenya.md) or [Qenya](../../main/Q/Qenya.md) written by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

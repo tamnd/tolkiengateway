@@ -1,6 +1,5 @@
 ---
 title: "Patrick Barr"
-display_title: "<span class=\"mw-page-title-main\">Patrick Barr</span>"
 page_id: 6901
 namespace: 0
 revision_id: 406943
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Barr, Patrick"
 ---
 
-**Patrick David Barr** ([February 13](/wiki/13_February "13 February"), [1908](/wiki/1908) - [August 29](/wiki/29_August "29 August"), [1985](/wiki/1985)) voiced the part of [Gamling](/wiki/Gamling) in [1981 radio adaptation](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+**Patrick David Barr** ([February 13](../_/13_February.md), [1908](../_/1908.md) - [August 29](../_/29_August.md), [1985](../_/1985.md)) voiced the part of [Gamling](../G/Gamling.md) in [1981 radio adaptation](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## External links {#External_links}
 

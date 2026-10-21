@@ -1,6 +1,5 @@
 ---
 title: "Headstrong Games"
-display_title: "<span class=\"mw-page-title-main\">Headstrong Games</span>"
 page_id: 22816
 namespace: 0
 revision_id: 312783
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Headstrong Games** is the London-based studio of <a class="extiw" href="http://en.wikipedia.org/wiki/Kuju_Entertainment" title="wikipedia:Kuju Entertainment">Kuju Entertainment</a>, specialized in <a class="extiw" href="http://en.wikipedia.org/wiki/Wii" title="wikipedia:Wii">Wii</a>-games. As such, they produced the Wii version of *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*.
+**Headstrong Games** is the London-based studio of <a class="extiw" href="http://en.wikipedia.org/wiki/Kuju_Entertainment" title="wikipedia:Kuju Entertainment">Kuju Entertainment</a>, specialized in <a class="extiw" href="http://en.wikipedia.org/wiki/Wii" title="wikipedia:Wii">Wii</a>-games. As such, they produced the Wii version of *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
 ## External links {#External_links}
 

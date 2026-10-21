@@ -1,6 +1,5 @@
 ---
 title: "Category:Aliases"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aliases</span>"
 page_id: 44015
 namespace: 14
 revision_id: 231432
@@ -13,4 +12,4 @@ categories:
   - "Names"
 ---
 
-This category contains all the aliases of characters in the [Legendarium](/wiki/Legendarium).
+This category contains all the aliases of characters in the [Legendarium](../../main/L/Legendarium.md).

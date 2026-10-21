@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Outriders.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Outriders.jpeg</span>"
 page_id: 11995
 namespace: 6
 revision_id: 204030

@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Hickman - Wandering Eldar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Hickman - Wandering Eldar.jpg</span>"
 page_id: 29990
 namespace: 6
 revision_id: 436631
@@ -35,27 +34,24 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Hickman - Wandering Eldar.jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Wandering_Companies" title="Wandering Companies">Wandering</a> <a href="/wiki/Eldar" title="Eldar">Eldar</a></i>. 
-Created for <a href="/wiki/Middle-earth:_The_Lidless_Eye" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+<p><i><a href="../../main/W/Wandering_Companies.md" title="Wandering Companies">Wandering</a> <a href="../../main/E/Eldar.md" title="Eldar">Eldar</a></i>. 
+Created for <a href="../../main/M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Hickman" title="Stephen Hickman">Stephen Hickman</a></td>
+<td><a href="../../main/S/Stephen_Hickman.md" title="Stephen Hickman">Stephen Hickman</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -70,8 +66,8 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Hickman</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Stephen_Hickman" title="Stephen Hickman">Stephen Hickman</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/S/Stephen_Hickman.md" title="Stephen Hickman">Stephen Hickman</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Stephen_Hickman" title="Stephen Hickman">Stephen Hickman</a></li>
+<ul><li><b>Name:</b> <a href="../../main/S/Stephen_Hickman.md" title="Stephen Hickman">Stephen Hickman</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.stephenhickman.com/" rel="noreferrer noopener" target="_blank">www.stephenhickman.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Hickman" title="Tolkien Gateway:Copyrights/Stephen Hickman">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Hickman.md" title="Tolkien Gateway:Copyrights/Stephen Hickman">Permission for use on Tolkien Gateway</a></b></li></ul></div>

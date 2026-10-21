@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Sancho Proudfoot.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Sancho Proudfoot.png</span>"
 page_id: 30431
 namespace: 6
 revision_id: 298616
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sancho Proudfoot](/wiki/Sancho_Proudfoot), running along [Bagshot Row](/wiki/Bagshot_Row) causing mischief. Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Sancho Proudfoot](../../main/S/Sancho_Proudfoot.md), running along [Bagshot Row](../../main/B/Bagshot_Row.md) causing mischief. Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

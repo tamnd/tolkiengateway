@@ -1,6 +1,5 @@
 ---
 title: "Letter to Peyton Moss"
-display_title: "<span class=\"mw-page-title-main\">Letter to Peyton Moss</span>"
 page_id: 43481
 namespace: 0
 revision_id: 406299
@@ -17,9 +16,9 @@ images:
   - "Peyton_Moss_2_January_1967.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Peyton_Moss_2_January_1967.jpg"><img src="/w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/300px-Peyton_Moss_2_January_1967.jpg" decoding="async" loading="lazy" width="300" height="408" class="mw-file-element" srcset="/w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/450px-Peyton_Moss_2_January_1967.jpg 1.5x, /w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/600px-Peyton_Moss_2_January_1967.jpg 2x" data-file-width="769" data-file-height="1046"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peyton_Moss_2_January_1967.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/300px-Peyton_Moss_2_January_1967.jpg" decoding="async" loading="lazy" width="300" height="408" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/450px-Peyton_Moss_2_January_1967.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9b/Peyton_Moss_2_January_1967.jpg/600px-Peyton_Moss_2_January_1967.jpg 2x" data-file-width="769" data-file-height="1046"/></a><figcaption></figcaption></figure>
 
-On [2 January](/wiki/2_January) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Peyton Moss**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [2 January](../_/2_January.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Peyton Moss**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Subject:** Tolkien encloses three autographs for Mr. Moss's son.
 
@@ -34,8 +33,8 @@ The letter present here, on one sheet of Tolkien's stationery, is dated 2 Januar
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/wordpress/archives/336" rel="noreferrer noopener" target="_blank">&#34;Tolkien signature/books for auction from Doyle New York, April 23&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 18 April 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/wordpress/archives/336" rel="noreferrer noopener" target="_blank">&#34;Tolkien signature/books for auction from Doyle New York, April 23&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 18 April 2013</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.doylenewyork.com/asp/fullCatalogue.asp?salelot=13BP01+++238+&amp;refno=++936956#" rel="noreferrer noopener" target="_blank">&#34;Rare Books &amp; Autographs - Sale 13BP01 - Lot 238&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.doylenewyork.com" rel="noreferrer noopener" target="_blank">DoyleNewYork.com</a></span>. <span class="cite-web-accessed">Retrieved 18 April 2013</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.doylenewyork.com/asp/fullCatalogue.asp?salelot=13BP01+++238+&amp;refno=++936956#" rel="noreferrer noopener" target="_blank">&#34;Rare Books &amp; Autographs - Sale 13BP01 - Lot 238&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.doylenewyork.com" rel="noreferrer noopener" target="_blank">DoyleNewYork.com</a></span>. <span class="cite-web-accessed">Retrieved 18 April 2013</span></cite></span>
 </li>
 </ol></div>

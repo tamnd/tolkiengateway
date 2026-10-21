@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Bovadium Fragments: together with The Origin of Bovadium"
 ---
 
-Redirect to [The Bovadium Fragments: together with The Origin of Bovadium](/wiki/The_Bovadium_Fragments:_together_with_The_Origin_of_Bovadium).
+Redirect to [The Bovadium Fragments: together with The Origin of Bovadium](The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md).

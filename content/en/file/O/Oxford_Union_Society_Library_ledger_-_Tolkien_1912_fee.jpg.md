@@ -1,6 +1,5 @@
 ---
 title: "File:Oxford Union Society Library ledger - Tolkien 1912 fee.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oxford Union Society Library ledger - Tolkien 1912 fee.jpg</span>"
 page_id: 43269
 namespace: 6
 revision_id: 227695
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) paid his <a class="external text" href="http://www.facebook.com/photo.php?fbid=10151354485056964&amp;set=a.310316096963.148723.7756921963&amp;type=1&amp;permPage=1" rel="noreferrer noopener" target="_blank">Union Library fines</a> (likely also including other Union dues and fees) on [18 May](/wiki/18_May) [1912](/wiki/1912).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) paid his <a class="external text" href="http://www.facebook.com/photo.php?fbid=10151354485056964&amp;set=a.310316096963.148723.7756921963&amp;type=1&amp;permPage=1" rel="noreferrer noopener" target="_blank">Union Library fines</a> (likely also including other Union dues and fees) on [18 May](../../main/_/18_May.md) [1912](../../main/_/1912.md).
 
 ## Licensing {#Licensing}
 

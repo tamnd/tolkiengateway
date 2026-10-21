@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Flame Imperishable: Tolkien, St. Thomas, and the Metaphysics of Faerie"
 ---
 
-Redirect to [The Flame Imperishable: Tolkien, St. Thomas, and the Metaphysics of Faerie](/wiki/The_Flame_Imperishable:_Tolkien,_St._Thomas,_and_the_Metaphysics_of_Faerie).
+Redirect to [The Flame Imperishable: Tolkien, St. Thomas, and the Metaphysics of Faerie](The_Flame_Imperishable%253A_Tolkien,_St._Thomas,_and_the_Metaphysics_of_Faerie.md).

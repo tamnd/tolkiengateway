@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snow-trolls"
 ---
 
-Redirect to [Snow-trolls](/wiki/Snow-trolls).
+Redirect to [Snow-trolls](Snow-trolls.md).

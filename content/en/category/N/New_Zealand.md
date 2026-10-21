@@ -1,6 +1,5 @@
 ---
 title: "Category:New Zealand"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Zealand</span>"
 page_id: 35329
 namespace: 14
 revision_id: 167082
@@ -13,4 +12,4 @@ categories:
   - "Countries"
 ---
 
-This category contains articles about [New Zealand](/wiki/New_Zealand).
+This category contains articles about [New Zealand](../../main/N/New_Zealand.md).

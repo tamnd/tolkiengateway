@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/The Tolkien Society"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/The Tolkien Society</span>"
 page_id: 41948
 namespace: 4
 revision_id: 217778
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolkien Society"
 ---
 
-- [The Tolkien Society](/wiki/The_Tolkien_Society) has kindly granted its permission to allow covers of *[Amon Hen](</wiki/Category:Images_of_Amon_Hen_(journal)> "Category:Images of Amon Hen (journal)")* and *[Mallorn](</wiki/Category:Images_of_Mallorn_(journal)> "Category:Images of Mallorn (journal)")* on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [The Tolkien Society](../../main/T/The_Tolkien_Society.md) has kindly granted its permission to allow covers of *[Amon Hen](<../../category/I/Images_of_Amon_Hen_(journal).md>)* and *[Mallorn](<../../category/I/Images_of_Mallorn_(journal).md>)* on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 25 February 2012
-- Published: May 2012, in [Amon Hen 235](/wiki/Amon_Hen_235)
-- User who sought the permission: [User:Mith](/wiki/User:Mith)
+- Published: May 2012, in [Amon Hen 235](../../main/A/Amon_Hen_235.md)
+- User who sought the permission: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

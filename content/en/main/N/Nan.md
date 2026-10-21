@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan (disambiguation)"
 ---
 
-Redirect to [Nan (disambiguation)](/wiki/Nan_(disambiguation)).
+Redirect to [Nan (disambiguation)](<Nan_(disambiguation).md>).

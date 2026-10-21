@@ -1,6 +1,5 @@
 ---
 title: "File:Konstantin Grigorjev - Earwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Konstantin Grigorjev - Earwen.jpg</span>"
 page_id: 66189
 namespace: 6
 revision_id: 381508
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Konstantin Grigorjev</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/konstantingrigorjev" rel="noreferrer noopener" target="_blank">Konstantin Grigorjev on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Konstantin_Grigorjev" title="Tolkien Gateway:Copyrights/Konstantin Grigorjev">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKonstantin_Grigorjev.md" title="Tolkien Gateway:Copyrights/Konstantin Grigorjev">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Sumner Gary Hunnewell"
-display_title: "<span class=\"mw-page-title-main\">Sumner Gary Hunnewell</span>"
 page_id: 36994
 namespace: 0
 revision_id: 407309
@@ -23,11 +22,11 @@ sort_keys:
 
 ## Biography {#Biography}
 
-Sumner Gary Hunnewell, who lives in Missouri, USA, is a an American Tolkien fandom scholar. He has collected and published on Tolkien fandom in recent decades. He has also worked with [Marquette University](/wiki/Marquette_University) on enlarging their J.R.R. Tolkien archive.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sumner Gary Hunnewell is also working with Marquette University to store his collection on microfilm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sumner Gary Hunnewell, who lives in Missouri, USA, is a an American Tolkien fandom scholar. He has collected and published on Tolkien fandom in recent decades. He has also worked with [Marquette University](../M/Marquette_University.md) on enlarging their J.R.R. Tolkien archive.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Sumner Gary Hunnewell is also working with Marquette University to store his collection on microfilm.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## New England Tolkien Society / Beyond Bree {#New_England_Tolkien_Society_/_Beyond_Bree}
 
-Sumner Gary Hunnewell is/was the driving force behind the [New England Tolkien Society](/wiki/New_England_Tolkien_Society). In 2002 Sumner Gary Hunnewell received the [Beyond Bree](/wiki/Beyond_Bree) Award. Sumner Gary Hunnewell also co-hosted Beyond [Bree Moots](/wiki/Bree_Moot "Bree Moot") in the 1990s.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Sumner Gary Hunnewell is/was the driving force behind the [New England Tolkien Society](../N/New_England_Tolkien_Society.md). In 2002 Sumner Gary Hunnewell received the [Beyond Bree](../B/Beyond_Bree.md) Award. Sumner Gary Hunnewell also co-hosted Beyond [Bree Moots](../B/Bree_Moot.md) in the 1990s.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Bibliography {#Bibliography}
 
@@ -35,14 +34,14 @@ Sumner Gary Hunnewell has published multiple articles and publications in recent
 
 ### Articles {#Articles}
 
-- Amon Hen: [140](/wiki/Amon_Hen_140 "Amon Hen 140"), [143](/wiki/Amon_Hen_143 "Amon Hen 143"), [144](/wiki/Amon_Hen_144 "Amon Hen 144"), [145](/wiki/Amon_Hen_145 "Amon Hen 145"), [146](/wiki/Amon_Hen_146 "Amon Hen 146"), [148](/wiki/Amon_Hen_148 "Amon Hen 148"), [149](/wiki/Amon_Hen_149 "Amon Hen 149"), [150](/wiki/Amon_Hen_150 "Amon Hen 150"), [151](/wiki/Amon_Hen_151 "Amon Hen 151"), [153](/wiki/Amon_Hen_153 "Amon Hen 153"), [154](/wiki/Amon_Hen_154 "Amon Hen 154"), [157](/wiki/Amon_Hen_157 "Amon Hen 157"), [159](/wiki/Amon_Hen_159 "Amon Hen 159"), [160](/wiki/Amon_Hen_160 "Amon Hen 160"), [163](/wiki/Amon_Hen_163 "Amon Hen 163"), [169](/wiki/Amon_Hen_169 "Amon Hen 169"), [173](/wiki/Amon_Hen_173 "Amon Hen 173") : *Hildifons's Half of Amon Hen*
-- Amon Hen: [156](/wiki/Amon_Hen_156 "Amon Hen 156"): *Eclipses in Tolkien's Life and Works*
-- [The Lord of the Rings 1954-2004](/wiki/The_Lord_of_the_Rings_1954-2004): *Naysayers in the Works of Tolkien*
-- [Tyalië Tyelelliéva 10](/wiki/Tyali%C3%AB_Tyelelli%C3%A9va_10): *Encyclopedie de la Terre du Milieu; Volume I: Quenya, book by Edward Kloczko, review by Gary Hunnewell*
-- [Tolkien Centenary Conference 1992](/wiki/Tolkien_Centenary_Conference_1992): *Tolkien Fandom*
-- [2014](/wiki/2014): [The Hobbit *and Tolkien's Mythology*](/wiki/The_Hobbit_and_Tolkien%27s_Mythology "The Hobbit and Tolkien's Mythology")
+- Amon Hen: [140](../A/Amon_Hen_140.md), [143](../A/Amon_Hen_143.md), [144](../A/Amon_Hen_144.md), [145](../A/Amon_Hen_145.md), [146](../A/Amon_Hen_146.md), [148](../A/Amon_Hen_148.md), [149](../A/Amon_Hen_149.md), [150](../A/Amon_Hen_150.md), [151](../A/Amon_Hen_151.md), [153](../A/Amon_Hen_153.md), [154](../A/Amon_Hen_154.md), [157](../A/Amon_Hen_157.md), [159](../A/Amon_Hen_159.md), [160](../A/Amon_Hen_160.md), [163](../A/Amon_Hen_163.md), [169](../A/Amon_Hen_169.md), [173](../A/Amon_Hen_173.md) : *Hildifons's Half of Amon Hen*
+- Amon Hen: [156](../A/Amon_Hen_156.md): *Eclipses in Tolkien's Life and Works*
+- [The Lord of the Rings 1954-2004](../T/The_Lord_of_the_Rings_1954-2004.md): *Naysayers in the Works of Tolkien*
+- [Tyalië Tyelelliéva 10](../T/Tyalië_Tyelelliéva_10.md): *Encyclopedie de la Terre du Milieu; Volume I: Quenya, book by Edward Kloczko, review by Gary Hunnewell*
+- [Tolkien Centenary Conference 1992](../T/Tolkien_Centenary_Conference_1992.md): *Tolkien Fandom*
+- [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md)
     - "A Scientific Examination of Durin's Day"
-- [2020](/wiki/2020): [*Amon Hen* 284](/wiki/Amon_Hen_284 "Amon Hen 284"):
+- [2020](../_/2020.md): [*Amon Hen* 284](../A/Amon_Hen_284.md):
     - Review: *Finding Myself in Borneo: sojourns in Sabah*
 
 ### Publications {#Publications}
@@ -55,7 +54,7 @@ Sumner Gary Hunnewell has published multiple articles and publications in recent
 
 ### Trivia {#Trivia}
 
-Sumner Gary Hunnewell is a baron Reunited Kingdoms of Gondor and Arnor (a Tolkien network from the late 1990s through 2001) and negotiated the Keble College Compact with [Tolkien Society Forodrim](/wiki/Forodrim "Forodrim") in 1992.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Marquette University maintains a collection of Tolkien fandom publications in his honor.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+Sumner Gary Hunnewell is a baron Reunited Kingdoms of Gondor and Arnor (a Tolkien network from the late 1990s through 2001) and negotiated the Keble College Compact with [Tolkien Society Forodrim](../F/Forodrim.md) in 1992.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Marquette University maintains a collection of Tolkien fandom publications in his honor.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "Mithril Armoury"
-display_title: "<span class=\"mw-page-title-main\">Mithril Armoury</span>"
 page_id: 14164
 namespace: 0
 revision_id: 315182
@@ -13,11 +12,11 @@ categories:
   - "Stores"
 ---
 
-The **Mithril Armoury** was a website selling *[Lord of the Rings](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")* film merchandise. In particular, they sold the [officially licensed](/wiki/Middle-earth_Enterprises "Middle-earth Enterprises") swords, helmets, staves and shields produced by <a class="external text" href="http://www.unitedcutlery.com" rel="noreferrer noopener" target="_blank">United Cutlery</a>, as well as some non-official [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired material.
+The **Mithril Armoury** was a website selling *[Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)* film merchandise. In particular, they sold the [officially licensed](Middle-earth_Enterprises.md) swords, helmets, staves and shields produced by <a class="external text" href="http://www.unitedcutlery.com" rel="noreferrer noopener" target="_blank">United Cutlery</a>, as well as some non-official [Tolkien](../J/J.R.R._Tolkien.md)-inspired material.
 
-The Mithril Armoury was well-known to collectors and has a solid reputation (albeit slightly mysterious) as a dealer of Tolkien-related products. It was a regular advertiser in [The Tolkien Society](/wiki/The_Tolkien_Society)'s bi-monthly bulletin, [Amon Hen](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)").
+The Mithril Armoury was well-known to collectors and has a solid reputation (albeit slightly mysterious) as a dealer of Tolkien-related products. It was a regular advertiser in [The Tolkien Society](../T/The_Tolkien_Society.md)'s bi-monthly bulletin, [Amon Hen](<../A/Amon_Hen_(journal).md>).
 
-In January [2004](/wiki/2004), Mithril Armoury was "temporarily closed", and re-opening was planned on [July 1](/wiki/1_July "1 July"), 2004. It never re-opened, and a <a class="external text" href="http://en.wikipedia.org/wiki/Chapter_7%2C_Title_11%2C_United_States_Code" rel="noreferrer noopener" target="_blank">Chapter 7</a> bankruptcy was filed in October.
+In January [2004](../_/2004.md), Mithril Armoury was "temporarily closed", and re-opening was planned on [July 1](../_/1_July.md), 2004. It never re-opened, and a <a class="external text" href="http://en.wikipedia.org/wiki/Chapter_7%2C_Title_11%2C_United_States_Code" rel="noreferrer noopener" target="_blank">Chapter 7</a> bankruptcy was filed in October.
 
 ## See also {#See_also}
 

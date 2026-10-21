@@ -1,6 +1,5 @@
 ---
 title: "Harding (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Harding (disambiguation)</span>"
 page_id: 18129
 namespace: 0
 revision_id: 187737
@@ -22,14 +21,14 @@ images:
 
 **Harding** can refer to:
 
-- [Harding](</wiki/Harding_(rider_of_Rohan)> "Harding (rider of Rohan)") (died [T.A.](/wiki/Third_Age "Third Age") [3019](/wiki/Third_Age_3019 "Third Age 3019")), a rider of [Rohan](/wiki/Rohan) killed in the [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields).
-- [Harding of the Hill](/wiki/Harding_of_the_Hill) (born [Fo.A.](/wiki/Fourth_Age "Fourth Age") [80](/wiki/Fourth_Age_80 "Fourth Age 80")), great-grandson of [Samwise Gamgee](/wiki/Samwise_Gamgee).
+- [Harding](<Harding_(rider_of_Rohan).md>) (died [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), a rider of [Rohan](../R/Rohan.md) killed in the [Battle of the Pelennor Fields](../B/Battle_of_the_Pelennor_Fields.md).
+- [Harding of the Hill](Harding_of_the_Hill.md) (born [Fo.A.](../F/Fourth_Age.md) [80](../F/Fourth_Age_80.md)), great-grandson of [Samwise Gamgee](../S/Samwise_Gamgee.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Harding_(disambiguation)" title="Special:WhatLinksHere/:Harding (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Harding_(disambiguation)" title="Special:WhatLinksHere/:Harding (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Concerning ... 'The Hoard'"
 ---
 
-Redirect to [Concerning ... 'The Hoard'](/wiki/Concerning_..._'The_Hoard').
+Redirect to [Concerning ... 'The Hoard'](Concerning_..._'The_Hoard'.md).

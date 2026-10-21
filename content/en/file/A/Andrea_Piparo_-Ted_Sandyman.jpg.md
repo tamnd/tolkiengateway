@@ -1,6 +1,5 @@
 ---
 title: "File:Andrea Piparo -Ted Sandyman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andrea Piparo -Ted Sandyman.jpg</span>"
 page_id: 71476
 namespace: 6
 revision_id: 426202

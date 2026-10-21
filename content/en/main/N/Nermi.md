@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nermir"
 ---
 
-Redirect to [Nermir](/wiki/Nermir).
+Redirect to [Nermir](Nermir.md).

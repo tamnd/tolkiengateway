@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Orc-chieftain.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Orc-chieftain.png</span>"
 page_id: 73219
 namespace: 6
 revision_id: 433297
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orc-chieftain](/wiki/Orc-chieftain) - *[The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>)*
+[Orc-chieftain](../../main/O/Orc-chieftain.md) - *[The Lord of the Rings (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)*
 
 ## Licensing {#Licensing}
 

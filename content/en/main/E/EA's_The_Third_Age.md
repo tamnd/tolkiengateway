@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Third Age"
 ---
 
-Redirect to [The Lord of the Rings: The Third Age](/wiki/The_Lord_of_the_Rings:_The_Third_Age).
+Redirect to [The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md).

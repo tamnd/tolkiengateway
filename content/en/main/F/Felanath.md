@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fengel"
 ---
 
-Redirect to [Fengel](/wiki/Fengel).
+Redirect to [Fengel](Fengel.md).

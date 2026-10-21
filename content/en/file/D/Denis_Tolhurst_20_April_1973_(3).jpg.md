@@ -1,6 +1,5 @@
 ---
 title: "File:Denis Tolhurst 20 April 1973 (3).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Denis Tolhurst 20 April 1973 (3).jpg</span>"
 page_id: 42040
 namespace: 6
 revision_id: 220154

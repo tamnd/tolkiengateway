@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Sagan om Ringen - Gwaihir.png"
 ---
 
-Redirect to [File:Sagan om Ringen - Gwaihir.png](/wiki/File:Sagan_om_Ringen_-_Gwaihir.png).
+Redirect to [File:Sagan om Ringen - Gwaihir.png](Sagan_om_Ringen_-_Gwaihir.png.md).

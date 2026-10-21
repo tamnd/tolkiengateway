@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Athrad"
 ---
 
-Redirect to [Athrad](/wiki/Athrad).
+Redirect to [Athrad](../A/Athrad.md).

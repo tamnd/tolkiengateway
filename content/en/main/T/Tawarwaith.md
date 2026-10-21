@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silvan Elves"
 ---
 
-Redirect to [Silvan Elves](/wiki/Silvan_Elves).
+Redirect to [Silvan Elves](../S/Silvan_Elves.md).

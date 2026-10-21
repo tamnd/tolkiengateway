@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Angus McBride"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Angus McBride</span>"
 page_id: 11000
 namespace: 14
 revision_id: 313550
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "McBride, Angus"
 ---
 
-This category lists all **images by [Angus McBride](/wiki/Angus_McBride)**.
+This category lists all **images by [Angus McBride](../../main/A/Angus_McBride.md)**.

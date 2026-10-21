@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of magazines"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of magazines</span>"
 page_id: 28661
 namespace: 14
 revision_id: 197589

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Associazione Italiana Studi Tolkieniani"
 ---
 
-Redirect to [Associazione Italiana Studi Tolkieniani](/wiki/Associazione_Italiana_Studi_Tolkieniani).
+Redirect to [Associazione Italiana Studi Tolkieniani](Associazione_Italiana_Studi_Tolkieniani.md).

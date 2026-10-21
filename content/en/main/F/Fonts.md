@@ -1,6 +1,5 @@
 ---
 title: "Fonts"
-display_title: "<span class=\"mw-page-title-main\">Fonts</span>"
 page_id: 965
 namespace: 0
 revision_id: 431562
@@ -15,16 +14,15 @@ images:
   - "Daniel_Reeve_-_Lettering.gif"
 ---
 
-There exist many **typefaces** or **font families** based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s work or its adaptations.
+There exist many **typefaces** or **font families** based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s work or its adaptations.
 
 ## Tengwar {#Tengwar}
 
 ### Smith layout {#Smith_layout}
 
-These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 encoding, or use encodings derived from it (such as adding OpenType features). This means they replace Latin letters with Tengwar glyphs.
+These are typefaces that use [Dan Smith’s](../D/Dan_Smith.md) 1998 encoding, or use encodings derived from it (such as adding OpenType features). This means they replace Latin letters with Tengwar glyphs.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -35,7 +33,7 @@ These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 e
 <td><a class="external text" href="https://web.archive.org/web/20100412084312/http:/home.student.uu.se/jowi4905/fonts/annatar.html" rel="noreferrer noopener" target="_blank">Tengwar Annatar</a></td>
 <td>Johan Winge</td>
 <td>2004</td>
-<td>Tengwar Annatar comes in several styles, with the italic being modelled after the <a href="/wiki/Ring-inscription" title="Ring-inscription">Ring-inscription</a>.
+<td>Tengwar Annatar comes in several styles, with the italic being modelled after the <a href="../R/Ring-inscription.md" title="Ring-inscription">Ring-inscription</a>.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://web.archive.org/web/20140208105654/http:/www.acondia.com/fonts/tengwar/index.html" rel="noreferrer noopener" target="_blank">Tengwar Noldor</a></td>
@@ -78,7 +76,7 @@ These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 e
 <td><a class="external text" href="https://at.boktypografen.se/parmaite.htm" rel="noreferrer noopener" target="_blank">Tengwar Parmaite</a></td>
 <td>Måns Björkman</td>
 <td>2001</td>
-<td>Artist&#39;s interpretation of the book-hand style named after <a href="/wiki/Parmait%C3%AB" title="Parmaitë">Parmaitë</a>. Mildly deviates from Smith&#39;s encoding.
+<td>Artist&#39;s interpretation of the book-hand style named after <a href="../P/Parmaitë.md" title="Parmaitë">Parmaitë</a>. Mildly deviates from Smith&#39;s encoding.
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.peter-wiegel.de/ElbicCaslon.html" rel="noreferrer noopener" target="_blank">Elbic Caslon</a></td>
@@ -120,7 +118,7 @@ These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 e
 <td><a class="external text" href="https://web.archive.org/web/20240205111930/https://www.ib.usp.br/~otto/fonts.htm" rel="noreferrer noopener" target="_blank">Tengwar Hereno</a></td>
 <td>Paulo Otto</td>
 <td>1994</td>
-<td>Vintage typeface later converted to Smith encoding by <a href="/wiki/Ronald_Kyrmse" title="Ronald Kyrmse">Ronald Kyrmse</a>.
+<td>Vintage typeface later converted to Smith encoding by <a href="../R/Ronald_Kyrmse.md" title="Ronald Kyrmse">Ronald Kyrmse</a>.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://web.archive.org/web/20221222042807/http:/www.saunalahti.fi/alboin/tengwar.htm" rel="noreferrer noopener" target="_blank">Tengwar Cursive</a></td>
@@ -154,7 +152,7 @@ These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 e
 </td></tr>
 <tr>
 <td><a class="external text" href="http://www.helmutwpesch.de/page-14/index.html" rel="noreferrer noopener" target="_blank">Tengwar Ingolme</a></td>
-<td><a href="/wiki/Helmut_W._Pesch" title="Helmut W. Pesch">Helmut W. Pesch</a></td>
+<td><a href="../H/Helmut_W._Pesch.md" title="Helmut W. Pesch">Helmut W. Pesch</a></td>
 <td>2021</td>
 <td>Sans-serif typeface inspired by VAG Rounded, intended for keyboard stickers.
 </td></tr>
@@ -188,7 +186,6 @@ These are typefaces that use [Dan Smith’s](/wiki/Dan_Smith "Dan Smith") 1998 e
 These typefaces follow the code points assigned in the <a class="extiw" href="http://en.wikipedia.org/wiki/ConScript_Unicode_Registry" title="wikipedia:ConScript Unicode Registry">ConScript Unicode Registry</a>, as championed by the Tengwar Free Font Project. This allows them to also support other scripts.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -309,7 +306,6 @@ These typefaces follow the code points assigned in the <a class="extiw" href="ht
 <a class="external text" href="https://ctan.org/pkg/tengtex" rel="noreferrer noopener" target="_blank">TengTeX</a> is a package for typesetting Tengwar using <a class="extiw" href="http://en.wikipedia.org/wiki/LaTeX" title="wikipedia:LaTeX">LaTeX</a>. These fonts are designed to be used with it.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -318,7 +314,7 @@ These typefaces follow the code points assigned in the <a class="extiw" href="ht
 </th></tr>
 <tr>
 <td><a class="external text" href="https://web.archive.org/web/20081121081606/http:/mayatecnologie.com/~vice/elvishtc/tiadfonts.html" rel="noreferrer noopener" target="_blank">Computer Modern Tengwar</a></td>
-<td><a class="mw-redirect" href="/wiki/Ivan_A._Derzhanski" title="Ivan A. Derzhanski">Ivan A. Derzhanski</a></td>
+<td><a class="mw-redirect" href="../I/Ivan_A._Derzhanski.md" title="Ivan A. Derzhanski">Ivan A. Derzhanski</a></td>
 <td>2002</td>
 <td>
 </td></tr>
@@ -330,7 +326,7 @@ These typefaces follow the code points assigned in the <a class="extiw" href="ht
 </td></tr>
 <tr>
 <td><a class="external text" href="http://tolklang.quettar.org/fonts/" rel="noreferrer noopener" target="_blank">Teng10</a></td>
-<td><a class="mw-redirect" href="/wiki/Julian_Bradfield" title="Julian Bradfield">Julian Bradfield</a></td>
+<td><a class="mw-redirect" href="../J/Julian_Bradfield.md" title="Julian Bradfield">Julian Bradfield</a></td>
 <td>1991</td>
 <td>
 </td></tr>
@@ -346,7 +342,6 @@ These typefaces follow the code points assigned in the <a class="extiw" href="ht
 The encoding of these fonts is unknown. They may use Dan Smith's encoding, or unique encodings that predate it.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -401,7 +396,6 @@ The encoding of these fonts is unknown. They may use Dan Smith's encoding, or un
 These are typefaces that use Latin script, but are designed to look like Tengwar.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -456,7 +450,6 @@ These are typefaces that use Latin script, but are designed to look like Tengwar
 Various runic scripts. See also the Tengwar Unicode section above, for some of them cover Cirth.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -492,7 +485,6 @@ Various runic scripts. See also the Tengwar Unicode section above, for some of t
 Other typefaces related to Tolkien.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -503,7 +495,7 @@ Other typefaces related to Tolkien.
 <td><a class="external text" href="https://www.mytolkienbooks.com/tolkien-fonts/" rel="noreferrer noopener" target="_blank">Tolkienesque</a></td>
 <td>Mike Afford</td>
 <td></td>
-<td>Inspired by Tolkien&#39;s calligraphy. Used in <a href="/wiki/Cubicle_7_Entertainment" title="Cubicle 7 Entertainment">Cubicle 7</a>&#39;s <i>The One Ring Roleplaying Game</i>.
+<td>Inspired by Tolkien&#39;s calligraphy. Used in <a href="../C/Cubicle_7_Entertainment.md" title="Cubicle 7 Entertainment">Cubicle 7</a>&#39;s <i>The One Ring Roleplaying Game</i>.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://www.behance.net/gallery/32472021/Legendarium-a-JRR-Tolkien-Script-Font" rel="noreferrer noopener" target="_blank">Legendarium</a></td>
@@ -515,23 +507,22 @@ Other typefaces related to Tolkien.
 <td><a class="external text" href="https://www.mytolkienbooks.com/tolkien-fonts/" rel="noreferrer noopener" target="_blank">Christmas Letters</a></td>
 <td>Mike Afford</td>
 <td></td>
-<td>Inspired by <a href="/wiki/Letters_from_Father_Christmas" title="Letters from Father Christmas">Letters from Father Christmas</a>.
+<td>Inspired by <a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a>.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://www.mytolkienbooks.com/tolkien-fonts/" rel="noreferrer noopener" target="_blank">Baynes</a></td>
 <td>Mike Afford</td>
 <td></td>
-<td>Inspired by <a href="/wiki/Pauline_Baynes" title="Pauline Baynes">Pauline Baynes</a>&#39;s maps.
+<td>Inspired by <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>&#39;s maps.
 </td></tr></tbody></table>
 
 ## Adaptational typefaces {#Adaptational_typefaces}
 
 ### Peter Jackson trilogy {#Peter_Jackson_trilogy}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Daniel_Reeve_-_Lettering.gif"><img src="/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/250px-Daniel_Reeve_-_Lettering.gif" decoding="async" loading="lazy" width="250" height="356" class="mw-file-element" srcset="/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/375px-Daniel_Reeve_-_Lettering.gif 1.5x, /w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/500px-Daniel_Reeve_-_Lettering.gif 2x" data-file-width="591" data-file-height="842"/></a><figcaption>An assortment of letterings done by <a href="/wiki/Daniel_Reeve" title="Daniel Reeve">Daniel Reeve</a>.</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Daniel_Reeve_-_Lettering.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/250px-Daniel_Reeve_-_Lettering.gif" decoding="async" loading="lazy" width="250" height="356" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/375px-Daniel_Reeve_-_Lettering.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/88/Daniel_Reeve_-_Lettering.gif/500px-Daniel_Reeve_-_Lettering.gif 2x" data-file-width="591" data-file-height="842"/></a><figcaption>An assortment of letterings done by <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a>.</figcaption></figure>
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -548,7 +539,7 @@ Other typefaces related to Tolkien.
 <td><a class="external text" href="https://www.thehutt.de/tolkien/fonts.html" rel="noreferrer noopener" target="_blank">Aniron</a></td>
 <td>Pete Klassen</td>
 <td>2004</td>
-<td>Designed to match the end credits of the trilogy. Also used by <a href="/wiki/Free_League_Publishing" title="Free League Publishing">Free League</a>&#39;s <i><a href="/wiki/The_One_Ring_(role-playing_game)" title="The One Ring (role-playing game)">The One Ring Roleplaying Game</a></i> for headings.
+<td>Designed to match the end credits of the trilogy. Also used by <a href="Free_League_Publishing.md" title="Free League Publishing">Free League</a>&#39;s <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">The One Ring Roleplaying Game</a></i> for headings.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://www.fontspace.com/middleearth-font-f28347" rel="noreferrer noopener" target="_blank">MiddleEarth</a></td>
@@ -558,13 +549,13 @@ Other typefaces related to Tolkien.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://www.danielreeve.co.nz/Fonts/" rel="noreferrer noopener" target="_blank">Kereru</a></td>
-<td><a href="/wiki/Daniel_Reeve" title="Daniel Reeve">Daniel Reeve</a></td>
+<td><a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a></td>
 <td></td>
 <td>The italic font of this family is Frodo&#39;s handwriting, previously available as &#34;Shire Regular&#34;. The family is also used by Free League&#39;s <i>The One Ring Roleplaying Game</i>, for Gandalf&#39;s introductory letter.
 </td></tr>
 <tr>
 <td><a class="external text" href="https://www.danielreeve.co.nz/Fonts/" rel="noreferrer noopener" target="_blank">Shire Spidery</a></td>
-<td><a href="/wiki/Daniel_Reeve" title="Daniel Reeve">Daniel Reeve</a></td>
+<td><a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a></td>
 <td></td>
 <td>Bilbo&#39;s uneven handwriting.
 </td></tr>
@@ -596,7 +587,6 @@ Other typefaces related to Tolkien.
 ### Other adaptations {#Other_adaptations}
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -615,7 +605,6 @@ Other typefaces related to Tolkien.
 Sometimes pre-existing typefaces are used in Tolkien-related media.
 
 <table class="wikitable sortable">
-<!-- -->
 <tbody><tr>
 <th>Font</th>
 <th>Author</th>
@@ -672,6 +661,6 @@ Sometimes pre-existing typefaces are used in Tolkien-related media.
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-reddit-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-reddit_1-0">1.0</a></sup> <sup><a href="#cite_ref-reddit_1-1">1.1</a></sup> <sup><a href="#cite_ref-reddit_1-2">1.2</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.reddit.com/r/Tengwar/comments/1aubbx2/complete_tengwar_fonts_guide/" rel="noreferrer noopener" target="_blank">&#34;Complete Tengwar Fonts Guide&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.reddit.com" rel="noreferrer noopener" target="_blank">Reddit</a></span></cite></span>
+<li id="cite_note-reddit-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-reddit_1-0">1.0</a></sup> <sup><a href="#cite_ref-reddit_1-1">1.1</a></sup> <sup><a href="#cite_ref-reddit_1-2">1.2</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.reddit.com/r/Tengwar/comments/1aubbx2/complete_tengwar_fonts_guide/" rel="noreferrer noopener" target="_blank">&#34;Complete Tengwar Fonts Guide&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.reddit.com" rel="noreferrer noopener" target="_blank">Reddit</a></span></cite></span>
 </li>
 </ol></div>

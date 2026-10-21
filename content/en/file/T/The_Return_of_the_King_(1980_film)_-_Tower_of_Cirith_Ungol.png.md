@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Tower of Cirith Ungol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Tower of Cirith Ungol.png</span>"
 page_id: 71829
 namespace: 6
 revision_id: 427959
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Tower of Cirith Ungol](/wiki/Tower_of_Cirith_Ungol "Tower of Cirith Ungol") - [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")
+[The Tower of Cirith Ungol](../../main/T/Tower_of_Cirith_Ungol.md) - [*The Return of the King* (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Licensing {#Licensing}
 

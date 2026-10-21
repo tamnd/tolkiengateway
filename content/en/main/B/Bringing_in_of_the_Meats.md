@@ -1,6 +1,5 @@
 ---
 title: "Bringing in of the Meats"
-display_title: "<span class=\"mw-page-title-main\">Bringing in of the Meats</span>"
 page_id: 66861
 namespace: 0
 revision_id: 404983
@@ -13,7 +12,7 @@ categories:
   - "Songs"
 ---
 
-The **Bringing in of the Meats** was a song sung by the children in the [Cottage of Lost Play](/wiki/Cottage_of_Lost_Play) during dinner upon the mariner [Eriol](/wiki/Eriol)'s visit. After the song was sung, the lord of the dwelling, [Lindo](/wiki/Lindo), blessed the meal and the company.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Bringing in of the Meats** was a song sung by the children in the [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md) during dinner upon the mariner [Eriol](../E/Eriol.md)'s visit. After the song was sung, the lord of the dwelling, [Lindo](../L/Lindo.md), blessed the meal and the company.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lyrics {#Lyrics}
 
@@ -22,6 +21,6 @@ The song does not have any noted lyrics.
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="/wiki/The_Cottage_of_Lost_Play" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34; p.16</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, &#34;I. <a href="../T/The_Cottage_of_Lost_Play.md" title="The Cottage of Lost Play">The Cottage of Lost Play</a>&#34; p.16</span>
 </li>
 </ol></div>

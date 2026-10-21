@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorlim"
 ---
 
-Redirect to [Gorlim](/wiki/Gorlim).
+Redirect to [Gorlim](Gorlim.md).

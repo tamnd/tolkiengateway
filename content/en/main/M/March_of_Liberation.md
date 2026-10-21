@@ -11,4 +11,4 @@ redirect_target: "War of Wrath"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [War of Wrath](/wiki/War_of_Wrath#Other_versions_of_the_legendarium).
+Redirect to [War of Wrath](../W/War_of_Wrath.md#Other_versions_of_the_legendarium).

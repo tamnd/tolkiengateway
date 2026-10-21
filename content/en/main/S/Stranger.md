@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Stranger"
 ---
 
-Redirect to [The Stranger](/wiki/The_Stranger).
+Redirect to [The Stranger](../T/The_Stranger.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:JLazarusEB artworks permission for Tolkien Gateway July 2021 (AHG).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JLazarusEB artworks permission for Tolkien Gateway July 2021 (AHG).png</span>"
 page_id: 59812
 namespace: 6
 revision_id: 334535
@@ -26,4 +25,4 @@ file:
 
 Screenshot of JLazarusEB' permission (DeviantArt chat) to use his Tolkien artworks non-commercially on Tolkien Gateway. Screenshot of his message in chat, compiled as a large .png image.
 
-Please see [Copyrights - JLazarusEB](/wiki/Tolkien_Gateway:Copyrights/JLazarusEB "Tolkien Gateway:Copyrights/JLazarusEB") for more information.
+Please see [Copyrights - JLazarusEB](../../project/C/Copyrights%252FJLazarusEB.md) for more information.

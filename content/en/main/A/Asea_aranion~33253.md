@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Athelas"
 ---
 
-Redirect to [Athelas](/wiki/Athelas).
+Redirect to [Athelas](Athelas.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:James Nesbitt.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">James Nesbitt.jpg</span>"
 page_id: 46902
 namespace: 6
 revision_id: 248792

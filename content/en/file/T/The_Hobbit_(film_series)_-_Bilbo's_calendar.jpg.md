@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Bilbo's calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Bilbo&#039;s calendar.jpg</span>"
 page_id: 72646
 namespace: 6
 revision_id: 431068
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins)' [T.A. 2941](/wiki/Third_Age_2941 "Third Age 2941") Calendar open to the [April](/wiki/April) page - Prop for [*The Hobbit* film trilogy](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)")
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md)' [T.A. 2941](../../main/T/Third_Age_2941.md) Calendar open to the [April](../../main/A/April.md) page - Prop for [*The Hobbit* film trilogy](<../../main/T/The_Hobbit_(film_series).md>)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Mushroom Gatherer.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Mushroom Gatherer.jpg](/wiki/File:Ted_Nasmith_-_Mushroom_Gatherer.jpg).
+Redirect to [File:Ted Nasmith - Mushroom Gatherer.jpg](Ted_Nasmith_-_Mushroom_Gatherer.jpg.md).

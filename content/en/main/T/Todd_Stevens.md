@@ -1,6 +1,5 @@
 ---
 title: "Todd Stevens"
-display_title: "<span class=\"mw-page-title-main\">Todd Stevens</span>"
 page_id: 27960
 namespace: 0
 revision_id: 173509
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Stevens, Todd"
 ---
 
-**Todd Stevens** is the designer of [Middle-earth: The Riddles](/wiki/Middle-earth:_The_Riddles).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Todd Stevens** is the designer of [Middle-earth: The Riddles](../M/Middle-earth%253A_The_Riddles.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 

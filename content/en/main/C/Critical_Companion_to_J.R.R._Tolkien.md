@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Critical Companion to J.R.R. Tolkien"
 ---
 
-Redirect to [A Critical Companion to J.R.R. Tolkien](/wiki/A_Critical_Companion_to_J.R.R._Tolkien).
+Redirect to [A Critical Companion to J.R.R. Tolkien](../A/A_Critical_Companion_to_J.R.R._Tolkien.md).

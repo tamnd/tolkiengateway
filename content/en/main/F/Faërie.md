@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faerie"
 ---
 
-Redirect to [Faerie](/wiki/Faerie).
+Redirect to [Faerie](Faerie.md).

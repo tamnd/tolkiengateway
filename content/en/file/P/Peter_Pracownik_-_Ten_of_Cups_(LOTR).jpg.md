@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Pracownik - Ten of Cups (LOTR).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Pracownik - Ten of Cups (LOTR).jpg</span>"
 page_id: 71678
 namespace: 6
 revision_id: 427310
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Ten of Cups" ([Círdan](/wiki/C%C3%ADrdan)) - *[The Lord of the Rings Tarot](/wiki/The_Lord_of_the_Rings_Tarot)* illustration by [Peter Pracownik](/wiki/Peter_Pracownik)
+"Ten of Cups" ([Círdan](../../main/C/Círdan.md)) - *[The Lord of the Rings Tarot](../../main/T/The_Lord_of_the_Rings_Tarot.md)* illustration by [Peter Pracownik](../../main/P/Peter_Pracownik.md)
 
 ## Licensing {#Licensing}
 

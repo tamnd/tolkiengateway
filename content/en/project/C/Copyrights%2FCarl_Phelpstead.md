@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Carl Phelpstead"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Carl Phelpstead</span>"
 page_id: 38216
 namespace: 4
 revision_id: 193149
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Phelpstead, Carl"
 ---
 
-- Permission granted by copyright holder [Carl Phelpstead](/wiki/Carl_Phelpstead) to use [Carl Phelpstead.png](/wiki/File:Carl_Phelpstead.png "File:Carl Phelpstead.png") on Tolkien Gateway.
+- Permission granted by copyright holder [Carl Phelpstead](../../main/C/Carl_Phelpstead.md) to use [Carl Phelpstead.png](../../file/C/Carl_Phelpstead.png.md) on Tolkien Gateway.
 - Date: 7 February 2012
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

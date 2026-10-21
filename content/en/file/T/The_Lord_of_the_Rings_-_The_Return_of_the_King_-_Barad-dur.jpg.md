@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Barad-dur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Barad-dur.jpg</span>"
 page_id: 64145
 namespace: 6
 revision_id: 366547
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The tower of [Barad-dûr](/wiki/Barad-d%C3%BBr) with [The Eye of Sauron](/wiki/Eye_of_Sauron "Eye of Sauron") at it's top in a scene from of [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+The tower of [Barad-dûr](../../main/B/Barad-dûr.md) with [The Eye of Sauron](../../main/E/Eye_of_Sauron.md) at it's top in a scene from of [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

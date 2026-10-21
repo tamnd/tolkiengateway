@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rim"
 ---
 
-Redirect to [Rim](/wiki/Rim).
+Redirect to [Rim](../R/Rim.md).

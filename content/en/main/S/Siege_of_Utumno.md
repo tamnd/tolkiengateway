@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Powers"
 ---
 
-Redirect to [Battle of the Powers](/wiki/Battle_of_the_Powers).
+Redirect to [Battle of the Powers](../B/Battle_of_the_Powers.md).

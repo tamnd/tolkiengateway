@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alan Lee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alan Lee</span>"
 page_id: 8152
 namespace: 14
 revision_id: 181920
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Lee, Alan"
 ---
 
-This category lists all **images by [Alan Lee](/wiki/Alan_Lee)**.
+This category lists all **images by [Alan Lee](../../main/A/Alan_Lee.md)**.

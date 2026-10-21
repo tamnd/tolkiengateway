@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Belecthor (disambiguation)"
 ---
 
-Redirect to [Belecthor (disambiguation)](/wiki/Belecthor_(disambiguation)).
+Redirect to [Belecthor (disambiguation)](<Belecthor_(disambiguation).md>).

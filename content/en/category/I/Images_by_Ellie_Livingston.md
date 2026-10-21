@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ellie Livingston"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ellie Livingston</span>"
 page_id: 74869
 namespace: 14
 revision_id: 440544
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Livingston, Ellie"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Ellie_Livingston&amp;action=edit&amp;redlink=1" title="Ellie Livingston (page does not exist)">Ellie Livingston</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ellie_Livingston&amp;action=edit&amp;redlink=1" title="Ellie Livingston (page does not exist)">Ellie Livingston</a></b>.

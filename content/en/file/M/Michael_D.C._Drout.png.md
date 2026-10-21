@@ -1,6 +1,5 @@
 ---
 title: "File:Michael D.C. Drout.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Michael D.C. Drout.png</span>"
 page_id: 48570
 namespace: 6
 revision_id: 259887
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Michael D.C. Drout](/wiki/Michael_D.C._Drout).
+Photograph of [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Michael D.C. Drout](/wiki/Michael_D.C._Drout).
 </p>
 <ul><li><b>Name:</b> Michael D.C. Drout</li>
 <li><b>Website:</b> <a class="external text" href="http://michaeldrout.com/" rel="noreferrer noopener" target="_blank">Michael D.C. Drout</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Michael_D.C._Drout" title="Tolkien Gateway:Copyrights/Michael D.C. Drout">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMichael_D.C._Drout.md" title="Tolkien Gateway:Copyrights/Michael D.C. Drout">Permission for use on Tolkien Gateway</a></b></li></ul></div>

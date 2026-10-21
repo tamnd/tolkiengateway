@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Dark Tower (Sketch).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Dark Tower (Sketch).jpg</span>"
 page_id: 71606
 namespace: 6
 revision_id: 429947
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch for "[The Dark Tower](/wiki/Barad-d%C3%BBr "Barad-dûr")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), the final artwork of which was published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+Sketch for "[The Dark Tower](../../main/B/Barad-dûr.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), the final artwork of which was published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

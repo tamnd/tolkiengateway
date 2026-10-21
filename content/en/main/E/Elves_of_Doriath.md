@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iathrim"
 ---
 
-Redirect to [Iathrim](/wiki/Iathrim).
+Redirect to [Iathrim](../I/Iathrim.md).

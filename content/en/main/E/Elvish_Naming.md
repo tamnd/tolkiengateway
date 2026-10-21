@@ -11,4 +11,4 @@ redirect_target: "Elven customs"
 redirect_fragment: "Naming conventions"
 ---
 
-Redirect to [Elven customs](/wiki/Elven_customs#Naming_conventions).
+Redirect to [Elven customs](Elven_customs.md#Naming_conventions).

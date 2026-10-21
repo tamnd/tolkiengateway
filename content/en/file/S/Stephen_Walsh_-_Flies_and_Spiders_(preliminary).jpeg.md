@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Flies and Spiders (preliminary).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Flies and Spiders (preliminary).jpeg</span>"
 page_id: 74422
 namespace: 6
 revision_id: 438207
@@ -33,25 +32,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Flies and Spiders (preliminary).jpeg</span></th>
 <td class="description">
-<blockquote><p><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">I</a> produced this preliminary sketch for <a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> for the card illustratiing the chapter <a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">Flies and Spiders</a> for <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">the Middle Earth Collectable Card Game</a>. It shows <a href="/wiki/Flies_and_Spiders" title="Flies and Spiders">the scene</a> in <a href="/wiki/The_Hobbit" title="The Hobbit">the Hobbit</a> where <a href="/wiki/Thorin_and_Company" title="Thorin and Company">the Dwarves</a> have been captured by giant <a href="/wiki/Spiders" title="Spiders">spiders</a>.</p><blockquote>
+<blockquote><p><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">I</a> produced this preliminary sketch for <a href="../../main/I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> for the card illustratiing the chapter <a href="../../main/F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a> for <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">the Middle Earth Collectable Card Game</a>. It shows <a href="../../main/F/Flies_and_Spiders.md" title="Flies and Spiders">the scene</a> in <a href="../../main/T/The_Hobbit.md" title="The Hobbit">the Hobbit</a> where <a href="../../main/T/Thorin_and_Company.md" title="Thorin and Company">the Dwarves</a> have been captured by giant <a href="../../main/S/Spiders.md" title="Spiders">spiders</a>.</p><blockquote>
 </blockquote>
 </blockquote></td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Drawn on an A4 cartridge paper</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.etsy.com/au/listing/92513000/tolkien-dwarves-captured-by-spiders?show_sold_out_detail=1&amp;ref=nla_listing_details" rel="noreferrer noopener" target="_blank">https://www.etsy.com/au/listing/92513000/tolkien-dwarves-captured-by-spiders?show_sold_out_detail=1&amp;ref=nla_listing_details</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -59,4 +55,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

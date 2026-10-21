@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Master of Middle Earth Calendar 1990.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Master of Middle Earth Calendar 1990.jpg</span>"
 page_id: 6607
 namespace: 6
 revision_id: 215461

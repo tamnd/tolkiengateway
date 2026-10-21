@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Prince Durin IV 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Prince Durin IV 2.jpg</span>"
 page_id: 64097
 namespace: 6
 revision_id: 412283
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Prince [Durin IV](/wiki/Durin_IV) of [Khazad-dûm](/wiki/Moria "Moria") appears in order to speak with [Elrond](/wiki/Elrond), in the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* series.
+Prince [Durin IV](../../main/D/Durin_IV.md) of [Khazad-dûm](../../main/M/Moria.md) appears in order to speak with [Elrond](../../main/E/Elrond.md), in the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* series.
 
 ## Licensing {#Licensing}
 

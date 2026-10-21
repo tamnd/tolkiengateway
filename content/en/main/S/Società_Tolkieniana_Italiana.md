@@ -1,6 +1,5 @@
 ---
 title: "Società Tolkieniana Italiana"
-display_title: "<span class=\"mw-page-title-main\">Società Tolkieniana Italiana</span>"
 page_id: 7304
 namespace: 0
 revision_id: 417289
@@ -19,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Societ%C3%A0_Tolkieniana_Italiana"
 ---
 
-The **Società Tolkieniana Italiana** (Italian: "Italian Tolkien Society") was founded in [1994](/wiki/1994) as a non-profit, non-political association. They publish two journals, <a class="external text" href="https://www.tolkien.it/categoria-prodotto/pubblicazioni-sti/terra-di-mezzo/" rel="noreferrer noopener" target="_blank">Terra di Mezzo</a> (Middle-earth) and <a class="external text" href="https://www.tolkien.it/categoria-prodotto/pubblicazioni-sti/minas-tirith/" rel="noreferrer noopener" target="_blank">Minas Tirith</a>. Their annual three day national convention is called "Hobbiton", and is usually held in the first week of September. The society organises meetings, lectures, seminars, and art exhibitions around [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s works.
+The **Società Tolkieniana Italiana** (Italian: "Italian Tolkien Society") was founded in [1994](../_/1994.md) as a non-profit, non-political association. They publish two journals, <a class="external text" href="https://www.tolkien.it/categoria-prodotto/pubblicazioni-sti/terra-di-mezzo/" rel="noreferrer noopener" target="_blank">Terra di Mezzo</a> (Middle-earth) and <a class="external text" href="https://www.tolkien.it/categoria-prodotto/pubblicazioni-sti/minas-tirith/" rel="noreferrer noopener" target="_blank">Minas Tirith</a>. Their annual three day national convention is called "Hobbiton", and is usually held in the first week of September. The society organises meetings, lectures, seminars, and art exhibitions around [Tolkien](../J/J.R.R._Tolkien.md)'s works.
 
 ## External links {#External_links}
 

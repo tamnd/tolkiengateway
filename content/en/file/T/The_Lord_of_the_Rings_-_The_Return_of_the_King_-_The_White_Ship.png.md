@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - The White Ship.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - The White Ship.png</span>"
 page_id: 71833
 namespace: 6
 revision_id: 435667
@@ -37,7 +36,7 @@ file:
 
 ## Summary {#Summary}
 
-[The White Ship](/wiki/White_Ship "White Ship") - *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*
+[The White Ship](../../main/W/White_Ship.md) - *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
 
 ## Licensing {#Licensing}
 

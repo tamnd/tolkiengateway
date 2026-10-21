@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ondonóre Nómesseron Minaþurie"
 ---
 
-Redirect to [Ondonóre Nómesseron Minaþurie](/wiki/Ondonóre_Nómesseron_Minaþurie).
+Redirect to [Ondonóre Nómesseron Minaþurie](Ondonóre_Nómesseron_Minaþurie.md).

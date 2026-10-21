@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Rauros Falls & the Tindrock.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Rauros Falls &amp; the Tindrock.jpg</span>"
 page_id: 71483
 namespace: 6
 revision_id: 427554
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Rauros](/wiki/Rauros) Falls &amp; the [Tindrock](/wiki/Tindrock)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[Rauros](../../main/R/Rauros.md) Falls &amp; the [Tindrock](../../main/T/Tindrock.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

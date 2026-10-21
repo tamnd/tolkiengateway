@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imladris, Danmarks Tolkienforening"
 ---
 
-Redirect to [Imladris, Danmarks Tolkienforening](/wiki/Imladris,_Danmarks_Tolkienforening).
+Redirect to [Imladris, Danmarks Tolkienforening](Imladris,_Danmarks_Tolkienforening.md).

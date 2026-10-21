@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tom Zuchowski"
 ---
 
-Redirect to [Tom Zuchowski](/wiki/Tom_Zuchowski).
+Redirect to [Tom Zuchowski](../T/Tom_Zuchowski.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sangahyando"
 ---
 
-Redirect to [Sangahyando](/wiki/Sangahyando).
+Redirect to [Sangahyando](../S/Sangahyando.md).

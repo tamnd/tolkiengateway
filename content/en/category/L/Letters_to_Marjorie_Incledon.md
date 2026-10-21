@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Marjorie Incledon"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Marjorie Incledon</span>"
 page_id: 68682
 namespace: 14
 revision_id: 408713
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Incledon, Marjorie"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Marjorie_Incledon&amp;action=edit&amp;redlink=1" title="Marjorie Incledon (page does not exist)">Marjorie Incledon</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Marjorie_Incledon&amp;action=edit&amp;redlink=1" title="Marjorie Incledon (page does not exist)">Marjorie Incledon</a>.

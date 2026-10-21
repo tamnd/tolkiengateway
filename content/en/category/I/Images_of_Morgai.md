@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Morgai"
 ---
 
-Redirect to [Category:Images of the Morgai](/wiki/Category:Images_of_the_Morgai).
+Redirect to [Category:Images of the Morgai](Images_of_the_Morgai.md).

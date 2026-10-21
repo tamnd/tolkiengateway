@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Games by language"
 ---
 
-Redirect to [Index:Games by language](/wiki/Index:Games_by_language).
+Redirect to [Index:Games by language](../../index/G/Games_by_language.md).

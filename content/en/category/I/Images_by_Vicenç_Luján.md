@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Vicenç Luján"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Vicenç Luján</span>"
 page_id: 74082
 namespace: 14
 revision_id: 437080
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Luján, Vicenç"
 ---
 
-This category lists all **images by [Vicenç Luján](/wiki/Vicen%C3%A7_Luj%C3%A1n)**.
+This category lists all **images by [Vicenç Luján](../../main/V/Vicenç_Luján.md)**.

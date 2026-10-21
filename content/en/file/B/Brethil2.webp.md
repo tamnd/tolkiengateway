@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MERP - Brethil.webp"
 ---
 
-Redirect to [File:MERP - Brethil.webp](/wiki/File:MERP_-_Brethil.webp).
+Redirect to [File:MERP - Brethil.webp](../M/MERP_-_Brethil.webp.md).

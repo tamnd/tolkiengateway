@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Emerië"
 ---
 
-Redirect to [Emerië](/wiki/Emerië).
+Redirect to [Emerië](Emerië.md).

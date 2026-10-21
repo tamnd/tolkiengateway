@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snow-white! Snow-white! O Lady clear!"
 ---
 
-Redirect to [Snow-white! Snow-white! O Lady clear!](/wiki/Snow-white!_Snow-white!_O_Lady_clear!).
+Redirect to [Snow-white! Snow-white! O Lady clear!](../S/Snow-white!_Snow-white!_O_Lady_clear!.md).

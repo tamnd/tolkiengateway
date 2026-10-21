@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Andrea Piparo"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Andrea Piparo</span>"
 page_id: 68007
 namespace: 4
 revision_id: 400811
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Piparo, Andrea"
 ---
 
-- Andrea Piparo has kindly granted permission to their [artwork](/wiki/Category:Images_by_Andrea_Piparo "Category:Images by Andrea Piparo") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
-- Date: [June 9th](/wiki/June_9 "June 9"), [2024](/wiki/2024)
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- Andrea Piparo has kindly granted permission to their [artwork](../../category/I/Images_by_Andrea_Piparo.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Date: [June 9th](../../main/J/June_9.md), [2024](../../main/_/2024.md)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Arondir poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Arondir poster.jpg</span>"
 page_id: 60837
 namespace: 6
 revision_id: 353956
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Official image of [Arondir](/wiki/Arondir) from [Amazon](/wiki/Amazon_Studios "Amazon Studios")'s series *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+Official image of [Arondir](../../main/A/Arondir.md) from [Amazon](../../main/A/Amazon_Studios.md)'s series *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

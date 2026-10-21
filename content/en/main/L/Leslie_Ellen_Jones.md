@@ -1,6 +1,5 @@
 ---
 title: "Leslie Ellen Jones"
-display_title: "<span class=\"mw-page-title-main\">Leslie Ellen Jones</span>"
 page_id: 21832
 namespace: 0
 revision_id: 321371
@@ -23,8 +22,8 @@ sort_keys:
 
 ## Bibliography {#Bibliography}
 
-- [2002](/wiki/2002): <i><a class="new" href="/w/index.php?title=Myth_and_Middle-Earth&amp;action=edit&amp;redlink=1" title="Myth and Middle-Earth (page does not exist)">Myth and Middle-Earth</a></i>
-- [2003](/wiki/2003): *[J.R.R. Tolkien: A Biography (Greenwood Biographies)](</wiki/J.R.R._Tolkien:_A_Biography_(Greenwood_Biographies)>)*
+- [2002](../_/2002.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Myth_and_Middle-Earth&amp;action=edit&amp;redlink=1" title="Myth and Middle-Earth (page does not exist)">Myth and Middle-Earth</a></i>
+- [2003](../_/2003.md): *[J.R.R. Tolkien: A Biography (Greenwood Biographies)](<../J/J.R.R._Tolkien%253A_A_Biography_(Greenwood_Biographies).md>)*
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Giuliano G. Alves - A batalha do pico.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Giuliano G. Alves - A batalha do pico.jpg</span>"
 page_id: 52009
 namespace: 6
 revision_id: 377283
@@ -31,6 +30,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Giuliano G. Alves‎</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/giulianogeraldoalves" rel="noreferrer noopener" target="_blank">Giuliano G. Alves‎ on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Giuliano_G._Alves" title="Tolkien Gateway:Copyrights/Giuliano G. Alves">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGiuliano_G._Alves.md" title="Tolkien Gateway:Copyrights/Giuliano G. Alves">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 <br> \[\[Category:Images by Giuliano G. Alves \]\]

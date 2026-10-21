@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Orthanc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Orthanc.jpg</span>"
 page_id: 5764
 namespace: 6
 revision_id: 180034
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This sketch by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) was published in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar). The illustration of Orthanc, the tower of Isengard, is one of several different conceptions sketched by J.R.R. Tolkien, but this agrees best with the description in [The Two Towers](/wiki/The_Two_Towers), Book III, Chapter 8, [The Road to Isengard](/wiki/The_Road_to_Isengard):
+This sketch by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) was published in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). The illustration of Orthanc, the tower of Isengard, is one of several different conceptions sketched by J.R.R. Tolkien, but this agrees best with the description in [The Two Towers](../../main/T/The_Two_Towers.md), Book III, Chapter 8, [The Road to Isengard](../../main/T/The_Road_to_Isengard.md):
 
 <dl><dd>&#39;A peak and isle of rock it was, black and gleaming hard: four mighty piers of many-sided stone were welded into one, but near the summit they opened into gaping horns, their pinnacles sharp as the points of spears, keen-edged as knives.&#39;</dd></dl>
 

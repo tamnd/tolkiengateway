@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien signature.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien signature.svg</span>"
 page_id: 16129
 namespace: 6
 revision_id: 253170

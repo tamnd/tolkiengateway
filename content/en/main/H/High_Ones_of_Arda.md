@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aratar"
 ---
 
-Redirect to [Aratar](/wiki/Aratar).
+Redirect to [Aratar](../A/Aratar.md).

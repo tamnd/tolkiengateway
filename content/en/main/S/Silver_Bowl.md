@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimrost"
 ---
 
-Redirect to [Dimrost](/wiki/Dimrost).
+Redirect to [Dimrost](../D/Dimrost.md).

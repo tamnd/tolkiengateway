@@ -1,6 +1,5 @@
 ---
 title: "Letter to Maegraith"
-display_title: "<span class=\"mw-page-title-main\">Letter to Maegraith</span>"
 page_id: 40754
 namespace: 0
 revision_id: 398862
@@ -20,7 +19,7 @@ images:
   - "Maegraith_2_June_1945_(4).jpg"
 ---
 
-On [2 June](/wiki/2_June) [1945](/wiki/1945), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Maegraith**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+On [2 June](../_/2_June.md) [1945](../_/1945.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Maegraith**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 - **Description:** Handwritten letter.
 - **Publication:** None.
@@ -30,22 +29,22 @@ On [2 June](/wiki/2_June) [1945](/wiki/1945), [J.R.R. Tolkien](/wiki/J.R.R._Tolk
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
-			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(1).jpg"><img src="/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/85px-Maegraith_2_June_1945_%281%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/127px-Maegraith_2_June_1945_%281%29.jpg 1.5x, /w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/169px-Maegraith_2_June_1945_%281%29.jpg 2x" data-file-width="1129" data-file-height="1600"/></a></span></div>
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Maegraith_2_June_1945_(1).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/85px-Maegraith_2_June_1945_%281%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/127px-Maegraith_2_June_1945_%281%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/ff/Maegraith_2_June_1945_%281%29.jpg/169px-Maegraith_2_June_1945_%281%29.jpg 2x" data-file-width="1129" data-file-height="1600"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
-			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(2).jpg"><img src="/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/84px-Maegraith_2_June_1945_%282%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/126px-Maegraith_2_June_1945_%282%29.jpg 1.5x, /w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/168px-Maegraith_2_June_1945_%282%29.jpg 2x" data-file-width="1123" data-file-height="1599"/></a></span></div>
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Maegraith_2_June_1945_(2).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/84px-Maegraith_2_June_1945_%282%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/126px-Maegraith_2_June_1945_%282%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Maegraith_2_June_1945_%282%29.jpg/168px-Maegraith_2_June_1945_%282%29.jpg 2x" data-file-width="1123" data-file-height="1599"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
-			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(3).jpg"><img src="/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/84px-Maegraith_2_June_1945_%283%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/126px-Maegraith_2_June_1945_%283%29.jpg 1.5x, /w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/168px-Maegraith_2_June_1945_%283%29.jpg 2x" data-file-width="1124" data-file-height="1600"/></a></span></div>
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Maegraith_2_June_1945_(3).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/84px-Maegraith_2_June_1945_%283%29.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/126px-Maegraith_2_June_1945_%283%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/Maegraith_2_June_1945_%283%29.jpg/168px-Maegraith_2_June_1945_%283%29.jpg 2x" data-file-width="1124" data-file-height="1600"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
-			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Maegraith_2_June_1945_(4).jpg"><img src="/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/85px-Maegraith_2_June_1945_%284%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/128px-Maegraith_2_June_1945_%284%29.jpg 1.5x, /w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/170px-Maegraith_2_June_1945_%284%29.jpg 2x" data-file-width="1134" data-file-height="1599"/></a></span></div>
+			<div class="thumb" style="width: 230px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Maegraith_2_June_1945_(4).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/85px-Maegraith_2_June_1945_%284%29.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/128px-Maegraith_2_June_1945_%284%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/Maegraith_2_June_1945_%284%29.jpg/170px-Maegraith_2_June_1945_%284%29.jpg 2x" data-file-width="1134" data-file-height="1599"/></a></span></div>
 			<div class="gallerytext">
 			</div>
 		</li>
@@ -53,7 +52,7 @@ On [2 June](/wiki/2_June) [1945](/wiki/1945), [J.R.R. Tolkien](/wiki/J.R.R._Tolk
 
 ## Transcription {#Transcription}
 
-I ought to have acknowledged your packet at once; but I thought you'd like to have it back soon, with some comment. However, things have been pretty sticky all through May, with an endless series of small extra jobs, exam work and also death. Especially the sudden death of my very dear friend [Charles Williams](/wiki/Charles_Williams), the author, which has thrown all our little circle into deep mourning\[.\] Professors, too, seem dying or retiring everywhere, and as I am now (as a survivor) an elector or advisor in half a dozen places, I have had a hell of a lot of letters to write.
+I ought to have acknowledged your packet at once; but I thought you'd like to have it back soon, with some comment. However, things have been pretty sticky all through May, with an endless series of small extra jobs, exam work and also death. Especially the sudden death of my very dear friend [Charles Williams](../C/Charles_Williams.md), the author, which has thrown all our little circle into deep mourning\[.\] Professors, too, seem dying or retiring everywhere, and as I am now (as a survivor) an elector or advisor in half a dozen places, I have had a hell of a lot of letters to write.
 
 I don't know that I can do or say a lot that would be helpful, as I am not a professional critic, merely an occasional writer — and that sort of man is apt simply to feel what he (with his own mode and habits) would have done in such and such a place: not always a good thing in some \[sic\] one else's work. And in any case, you say you don't want to publish merely to amuse yourself (and friends). Well, in order to say anything, I have to imagine these things as offered for publication and anonymous. On those conditions: I should say that the ideas, general and particular, are good: I mean the general idea of a series of incredible tales told by the old sot major is an excellent link; and the central idea of each of the three stories is good for such a series. (???? the BBC ?type ?which a????? "setting" to bring it into line)
 
@@ -83,6 +82,6 @@ I am afraid little of this will be legible—but I've had to scribble at great s
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-C-1"><span class="mw-cite-backlink"><a href="#cite_ref-C_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 292</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 292</span>
 </li>
 </ol></div>

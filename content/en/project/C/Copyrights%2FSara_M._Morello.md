@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sara M. Morello"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sara M. Morello</span>"
 page_id: 53832
 namespace: 4
 revision_id: 292302
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Morello, Sara M."
 ---
 
-- Sara M. Morello has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Sara_M._Morello "Category:Images by Sara M. Morello") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Sara M. Morello has kindly granted her permission to use [her artwork](../../category/I/Images_by_Sara_M._Morello.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 28 February 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -1,6 +1,5 @@
 ---
 title: "Sakura Internet"
-display_title: "<span class=\"mw-page-title-main\">Sakura Internet</span>"
 page_id: 38595
 namespace: 0
 revision_id: 431633
@@ -15,13 +14,13 @@ categories:
   - "Video Game publishers"
 ---
 
-**Sakura Internet** (Japanese: さくらインターネット株式会社) is a Japanese company, which published and operated [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online) in Japan.<sup id="cite_ref-LOTRO_Japan_1-0" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Although the game's beta was popular,<sup id="cite_ref-LOTRO_Japan_1-1" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Sakura Internet eventually shut down the Japanese servers on [30 September](/wiki/30_September) [2009](/wiki/2009).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Sakura Internet** (Japanese: さくらインターネット株式会社) is a Japanese company, which published and operated [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md) in Japan.<sup id="cite_ref-LOTRO_Japan_1-0" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Although the game's beta was popular,<sup id="cite_ref-LOTRO_Japan_1-1" class="reference"><a href="#cite_note-LOTRO_Japan-1">[1]</a></sup> Sakura Internet eventually shut down the Japanese servers on [30 September](../_/30_September.md) [2009](../_/2009.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)
-- [NHN Corporation](/wiki/NHN_Corporation)
-- [CDC Games](/wiki/CDC_Games)
+- [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)
+- [NHN Corporation](../N/NHN_Corporation.md)
+- [CDC Games](../C/CDC_Games.md)
 
 ## External links {#External_links}
 
@@ -32,8 +31,8 @@ categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LOTRO_Japan-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LOTRO_Japan_1-0">1.0</a></sup> <sup><a href="#cite_ref-LOTRO_Japan_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Karl B. (22 September 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://www.qj.net/mmorpg/news/turbine-eyes-japanese-market-for-lotro-distribution.html" rel="noreferrer noopener" target="_blank">&#34;Turbine eyes Japanese market for LotRO distribution&#34;</a></span>. <span class="cite-web-website">qj.net</span>. <span class="cite-web-accessed">Retrieved 17 March 2012</span></cite></span>
+<li id="cite_note-LOTRO_Japan-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LOTRO_Japan_1-0">1.0</a></sup> <sup><a href="#cite_ref-LOTRO_Japan_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Karl B. (22 September 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://www.qj.net/mmorpg/news/turbine-eyes-japanese-market-for-lotro-distribution.html" rel="noreferrer noopener" target="_blank">&#34;Turbine eyes Japanese market for LotRO distribution&#34;</a></span>. <span class="cite-web-website">qj.net</span>. <span class="cite-web-accessed">Retrieved 17 March 2012</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20091003114220/http://www.casualstrolltomordor.com/2009/09/japan-server-shut-down" rel="noreferrer noopener" target="_blank">&#34;Japan Server Shut Down&#34;</a></span>. <span class="cite-web-website">Casual Strolls to Mordor</span>. <span class="cite-web-accessed">Retrieved 17 March 2012</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20091003114220/http://www.casualstrolltomordor.com/2009/09/japan-server-shut-down" rel="noreferrer noopener" target="_blank">&#34;Japan Server Shut Down&#34;</a></span>. <span class="cite-web-website">Casual Strolls to Mordor</span>. <span class="cite-web-accessed">Retrieved 17 March 2012</span></cite></span>
 </li>
 </ol></div>

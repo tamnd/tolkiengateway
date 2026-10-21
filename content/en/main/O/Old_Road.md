@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Road"
 ---
 
-Redirect to [East Road](/wiki/East_Road).
+Redirect to [East Road](../E/East_Road.md).

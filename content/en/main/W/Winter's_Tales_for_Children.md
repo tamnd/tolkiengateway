@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Winter's Tales for Children 1"
 ---
 
-Redirect to [Winter's Tales for Children 1](/wiki/Winter's_Tales_for_Children_1).
+Redirect to [Winter's Tales for Children 1](Winter's_Tales_for_Children_1.md).

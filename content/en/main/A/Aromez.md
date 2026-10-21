@@ -11,4 +11,4 @@ redirect_target: "Oromë"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Oromë](/wiki/Oromë#Etymology).
+Redirect to [Oromë](../O/Oromë.md#Etymology).

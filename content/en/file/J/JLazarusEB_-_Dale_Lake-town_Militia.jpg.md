@@ -1,6 +1,5 @@
 ---
 title: "File:JLazarusEB - Dale Lake-town Militia.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JLazarusEB - Dale Lake-town Militia.jpg</span>"
 page_id: 59833
 namespace: 6
 revision_id: 337580
@@ -31,9 +30,9 @@ file:
 
 "Dale Lake-town Militia", by JLazarusEB.
 
-Presumably the type of militia common in both the city of [Dale](/wiki/Dale) and in [Lake-town](/wiki/Lake-town) after the defeat of Smaug and the establishment of the [Kingdom of Dale](/wiki/Kingdom_of_Dale) following the events of *[The Hobbit](/wiki/The_Hobbit)*.
+Presumably the type of militia common in both the city of [Dale](../../main/D/Dale.md) and in [Lake-town](../../main/L/Lake-town.md) after the defeat of Smaug and the establishment of the [Kingdom of Dale](../../main/K/Kingdom_of_Dale.md) following the events of *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
-Please note that the [crossbow](/wiki/Cross-bows "Cross-bows") seen in their armament is not known to have been used except by [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans).
+Please note that the [crossbow](../../main/C/Cross-bows.md) seen in their armament is not known to have been used except by [Númenóreans](../../main/N/Númenóreans.md).
 
 ## Licensing {#Licensing}
 
@@ -42,4 +41,4 @@ Please note that the [crossbow](/wiki/Cross-bows "Cross-bows") seen in their arm
 </p>
 <ul><li><b>Name:</b> JLazarusEB</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/jlazaruseb" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/jlazaruseb</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/JLazarusEB" title="Tolkien Gateway:Copyrights/JLazarusEB">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJLazarusEB.md" title="Tolkien Gateway:Copyrights/JLazarusEB">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Pool of Forgetfulness"
 ---
 
-Redirect to [The Pool of Forgetfulness](/wiki/The_Pool_of_Forgetfulness).
+Redirect to [The Pool of Forgetfulness](https://tolkiengateway.net/wiki/The_Pool_of_Forgetfulness).

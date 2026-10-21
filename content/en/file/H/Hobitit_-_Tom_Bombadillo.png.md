@@ -1,6 +1,5 @@
 ---
 title: "File:Hobitit - Tom Bombadillo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobitit - Tom Bombadillo.png</span>"
 page_id: 65427
 namespace: 6
 revision_id: 376822
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tom Bombadil](/wiki/Tom_Bombadil) from *[Hobitit](/wiki/Hobitit)*.
+[Tom Bombadil](../../main/T/Tom_Bombadil.md) from *[Hobitit](../../main/H/Hobitit.md)*.
 
 ## Licensing {#Licensing}
 

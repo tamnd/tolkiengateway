@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doom of Mandos"
 ---
 
-Redirect to [Doom of Mandos](/wiki/Doom_of_Mandos).
+Redirect to [Doom of Mandos](Doom_of_Mandos.md).

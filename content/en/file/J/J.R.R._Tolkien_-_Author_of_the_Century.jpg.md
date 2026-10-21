@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien Author of the Century 2000 UK.jpg"
 ---
 
-Redirect to [File:J.R.R. Tolkien Author of the Century 2000 UK.jpg](/wiki/File:J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg).
+Redirect to [File:J.R.R. Tolkien Author of the Century 2000 UK.jpg](J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg.md).

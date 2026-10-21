@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tekel-Mirim"
 ---
 
-Redirect to [Tekel-Mirim](/wiki/Tekel-Mirim).
+Redirect to [Tekel-Mirim](Tekel-Mirim.md).

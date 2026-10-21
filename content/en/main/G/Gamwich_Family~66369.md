@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gamwich family"
 ---
 
-Redirect to [Gamwich family](/wiki/Gamwich_family).
+Redirect to [Gamwich family](Gamwich_family.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Francis Xavier Morgan"
 ---
 
-Redirect to [Francis Xavier Morgan](/wiki/Francis_Xavier_Morgan).
+Redirect to [Francis Xavier Morgan](Francis_Xavier_Morgan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Linnod"
 ---
 
-Redirect to [Linnod](/wiki/Linnod).
+Redirect to [Linnod](../L/Linnod.md).

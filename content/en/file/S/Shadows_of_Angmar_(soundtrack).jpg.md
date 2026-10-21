@@ -1,6 +1,5 @@
 ---
 title: "File:Shadows of Angmar (soundtrack).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadows of Angmar (soundtrack).jpg</span>"
 page_id: 62078
 namespace: 6
 revision_id: 369687
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Album cover for *[The Lord of the Rings Online: Shadows of Angmar](</wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar_(soundtrack)> "The Lord of the Rings Online: Shadows of Angmar (soundtrack)")*
+Album cover for *[The Lord of the Rings Online: Shadows of Angmar](<../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md>)*
 
 ## Licensing {#Licensing}
 

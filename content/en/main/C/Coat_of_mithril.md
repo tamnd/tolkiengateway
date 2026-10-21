@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mithril-coat"
 ---
 
-Redirect to [Mithril-coat](/wiki/Mithril-coat).
+Redirect to [Mithril-coat](../M/Mithril-coat.md).

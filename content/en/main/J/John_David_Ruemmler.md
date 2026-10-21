@@ -1,6 +1,5 @@
 ---
 title: "John David Ruemmler"
-display_title: "<span class=\"mw-page-title-main\">John David Ruemmler</span>"
 page_id: 26294
 namespace: 0
 revision_id: 282647
@@ -21,15 +20,15 @@ sort_keys:
   "People by name": "Ruemmler, John David"
 ---
 
-**John David Ruemmler** is an American author of role-playing games. In the 1980s, Ruemmler worked as Production Manager for [Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises), contributing as author and editor to many products relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**John David Ruemmler** is an American author of role-playing games. In the 1980s, Ruemmler worked as Production Manager for [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md), contributing as author and editor to many products relating to [J.R.R. Tolkien](J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
-- [1983](/wiki/1983): *[MERP: Northern Mirkwood](</wiki/Northern_Mirkwood_(1983)> "Northern Mirkwood (1983)")*
-- [1984](/wiki/1984): *[Rangers of the North (book)](</wiki/Rangers_of_the_North_(book)>)*
-- [1985](/wiki/1985): *[Night of the Nazgûl](/wiki/Night_of_the_Nazg%C3%BBl)*
-- [1988](/wiki/1988): *[Far Harad: The Scorched Land](/wiki/Far_Harad:_The_Scorched_Land)* (editor)
-- [1988](/wiki/1988): *[Mines of Moria](</wiki/Mines_of_Moria_(Middle-earth_Quest_book)> "Mines of Moria (Middle-earth Quest book)")* (with Susan Mathews)
+- [1983](../_/1983.md): *[MERP: Northern Mirkwood](<../N/Northern_Mirkwood_(1983).md>)*
+- [1984](../_/1984.md): *[Rangers of the North (book)](<../R/Rangers_of_the_North_(book).md>)*
+- [1985](../_/1985.md): *[Night of the Nazgûl](../N/Night_of_the_Nazgûl.md)*
+- [1988](../_/1988.md): *[Far Harad: The Scorched Land](../F/Far_Harad%253A_The_Scorched_Land.md)* (editor)
+- [1988](../_/1988.md): *[Mines of Moria](<../M/Mines_of_Moria_(Middle-earth_Quest_book).md>)* (with Susan Mathews)
 
 <span></span>
 

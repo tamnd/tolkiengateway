@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Days before days"
 ---
 
-Redirect to [Days before days](/wiki/Days_before_days).
+Redirect to [Days before days](../D/Days_before_days.md).

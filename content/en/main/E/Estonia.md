@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Estonia"
 ---
 
-Redirect to [Category:Estonia](/wiki/Category:Estonia).
+Redirect to [Category:Estonia](../../category/E/Estonia.md).

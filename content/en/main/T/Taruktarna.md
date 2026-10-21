@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taruithorn"
 ---
 
-Redirect to [Taruithorn](/wiki/Taruithorn).
+Redirect to [Taruithorn](Taruithorn.md).

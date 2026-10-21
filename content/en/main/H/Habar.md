@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sabar"
 ---
 
-Redirect to [Sabar](/wiki/Sabar).
+Redirect to [Sabar](../S/Sabar.md).

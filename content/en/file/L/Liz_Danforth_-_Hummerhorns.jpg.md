@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Hummerhorns.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Hummerhorns.jpg</span>"
 page_id: 29281
 namespace: 6
 revision_id: 275054
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by [Liz Danforth](/wiki/Liz_Danforth) of [hummerhorns](/wiki/Hummerhorns "Hummerhorns"), appearing in *[Creatures of Middle-earth (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)>)*.<i></i>
+Illustration by [Liz Danforth](../../main/L/Liz_Danforth.md) of [hummerhorns](../../main/H/Hummerhorns.md), appearing in *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)*.<i></i>
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Craig Parker.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Craig Parker.jpg</span>"
 page_id: 9591
 namespace: 6
 revision_id: 247177

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Undergate"
 ---
 
-Redirect to [Undergate](/wiki/Undergate).
+Redirect to [Undergate](Undergate.md).

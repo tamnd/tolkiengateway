@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Minas Tirith at Dawn.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Minas Tirith at Dawn.jpg](/wiki/File:Ted_Nasmith_-_Minas_Tirith_at_Dawn.jpg).
+Redirect to [File:Ted Nasmith - Minas Tirith at Dawn.jpg](Ted_Nasmith_-_Minas_Tirith_at_Dawn.jpg.md).

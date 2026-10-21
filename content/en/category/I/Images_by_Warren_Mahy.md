@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Warren Mahy"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Warren Mahy</span>"
 page_id: 22750
 namespace: 14
 revision_id: 182203
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Mahy, Warren"
 ---
 
-This category lists all **images by [Warren Mahy](/wiki/Warren_Mahy)**.
+This category lists all **images by [Warren Mahy](../../main/W/Warren_Mahy.md)**.

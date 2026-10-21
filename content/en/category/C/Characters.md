@@ -1,6 +1,5 @@
 ---
 title: "Category:Characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Characters</span>"
 page_id: 5553
 namespace: 14
 revision_id: 125330

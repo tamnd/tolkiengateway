@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lefnui"
 ---
 
-Redirect to [Lefnui](/wiki/Lefnui).
+Redirect to [Lefnui](Lefnui.md).

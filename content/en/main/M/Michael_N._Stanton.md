@@ -1,6 +1,5 @@
 ---
 title: "Michael N. Stanton"
-display_title: "<span class=\"mw-page-title-main\">Michael N. Stanton</span>"
 page_id: 14556
 namespace: 0
 revision_id: 321368
@@ -21,14 +20,14 @@ sort_keys:
   "People by name": "Stanton, Michael N."
 ---
 
-**Michael N. Stanton** ([25 July](/wiki/25_July) [1938](/wiki/1938) - [15 December](/wiki/15_December) [2011](/wiki/2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was Professor Emeritus of English at the University of Vermont. He was the author of *[Hobbits, Elves, and Wizards](/wiki/Hobbits,_Elves,_and_Wizards)* and contributed numerous articles to the *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*. Stanton also contributed to <i><a class="new" href="/w/index.php?title=Tolkien_in_New_Zealand&amp;action=edit&amp;redlink=1" title="Tolkien in New Zealand (page does not exist)">Tolkien in New Zealand</a></i> and <i><a class="new" href="/w/index.php?title=Tolkien_and_the_Modern_Middle_Ages&amp;action=edit&amp;redlink=1" title="Tolkien and the Modern Middle Ages (page does not exist)">Tolkien and the Modern Middle Ages</a></i> among various other papers and lectures.
+**Michael N. Stanton** ([25 July](../_/25_July.md) [1938](../_/1938.md) - [15 December](../_/15_December.md) [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was Professor Emeritus of English at the University of Vermont. He was the author of *[Hobbits, Elves, and Wizards](../H/Hobbits,_Elves,_and_Wizards.md)* and contributed numerous articles to the *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*. Stanton also contributed to <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_in_New_Zealand&amp;action=edit&amp;redlink=1" title="Tolkien in New Zealand (page does not exist)">Tolkien in New Zealand</a></i> and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_and_the_Modern_Middle_Ages&amp;action=edit&amp;redlink=1" title="Tolkien and the Modern Middle Ages (page does not exist)">Tolkien and the Modern Middle Ages</a></i> among various other papers and lectures.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://awrichfuneralhome.frontrunnerpro.com/runtime/18870/runtime.php?SiteId=18870&amp;NavigatorId=117646&amp;op=tributeObituary&amp;viewOpt=dpaneOnly&amp;ItemId=1057907&amp;LinkId=221" rel="noreferrer noopener" target="_blank">&#34;Obituary for Michael Stanton&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.awrichfuneralhomes.com/" rel="noreferrer noopener" target="_blank">W Rich Funeral Home</a></span>. <span class="cite-web-accessed">Retrieved 19 December 2011</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://awrichfuneralhome.frontrunnerpro.com/runtime/18870/runtime.php?SiteId=18870&amp;NavigatorId=117646&amp;op=tributeObituary&amp;viewOpt=dpaneOnly&amp;ItemId=1057907&amp;LinkId=221" rel="noreferrer noopener" target="_blank">&#34;Obituary for Michael Stanton&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.awrichfuneralhomes.com/" rel="noreferrer noopener" target="_blank">W Rich Funeral Home</a></span>. <span class="cite-web-accessed">Retrieved 19 December 2011</span></cite></span>
 </li>
 </ol></div>
 

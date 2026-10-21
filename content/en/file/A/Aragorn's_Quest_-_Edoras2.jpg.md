@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Edoras2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Edoras2.jpg</span>"
 page_id: 29025
 namespace: 6
 revision_id: 169312
@@ -30,7 +29,7 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn), [Gandalf](/wiki/Gandalf), [Gimli](/wiki/Gimli), [Legolas](/wiki/Legolas) and [Théoden](/wiki/Th%C3%A9oden) fighting [Dunlendings](/wiki/Dunlendings) at [Edoras](/wiki/Edoras).
+[Aragorn](../../main/A/Aragorn.md), [Gandalf](../../main/G/Gandalf.md), [Gimli](../../main/G/Gimli.md), [Legolas](../../main/L/Legolas.md) and [Théoden](../../main/T/Théoden.md) fighting [Dunlendings](../../main/D/Dunlendings.md) at [Edoras](../../main/E/Edoras.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

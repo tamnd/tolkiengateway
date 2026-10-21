@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lumbi"
 ---
 
-Redirect to [Lumbi](/wiki/Lumbi).
+Redirect to [Lumbi](Lumbi.md).

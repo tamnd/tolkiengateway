@@ -1,6 +1,5 @@
 ---
 title: "File:The Book of Fairy Poetry 1st Edition 1920 HB.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Book of Fairy Poetry 1st Edition 1920 HB.jpg</span>"
 page_id: 5055
 namespace: 6
 revision_id: 214620

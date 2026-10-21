@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to R.W. Chambers"
 ---
 
-Redirect to [Letter to R.W. Chambers](/wiki/Letter_to_R.W._Chambers).
+Redirect to [Letter to R.W. Chambers](../L/Letter_to_R.W._Chambers.md).

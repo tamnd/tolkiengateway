@@ -1,6 +1,5 @@
 ---
 title: "File:Teodort92 artworks permission for Tolkien Gateway September 2021 (AHG).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Teodort92 artworks permission for Tolkien Gateway September 2021 (AHG).png</span>"
 page_id: 60041
 namespace: 6
 revision_id: 336129
@@ -26,4 +25,4 @@ file:
 
 Screenshot of Teodort92's permission (DeviantArt chat) to use his Tolkien artworks non-commercially on Tolkien Gateway. Screenshot of his message in chat, compiled as a large .png image.
 
-Please see [Copyrights - Teodort92](/wiki/Tolkien_Gateway:Copyrights/Teodort92 "Tolkien Gateway:Copyrights/Teodort92") for more information.
+Please see [Copyrights - Teodort92](../../project/C/Copyrights%252FTeodort92.md) for more information.

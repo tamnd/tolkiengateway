@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (1977 film)"
 ---
 
-Redirect to [The Hobbit (1977 film)](/wiki/The_Hobbit_(1977_film)).
+Redirect to [The Hobbit (1977 film)](<../T/The_Hobbit_(1977_film).md>).

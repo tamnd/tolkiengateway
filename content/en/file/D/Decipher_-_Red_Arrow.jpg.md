@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Red Arrow.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Red Arrow.jpg</span>"
 page_id: 15817
 namespace: 6
 revision_id: 224651

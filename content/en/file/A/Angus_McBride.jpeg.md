@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride.jpeg</span>"
 page_id: 70882
 namespace: 6
 revision_id: 431402
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Picture in [Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)
+Picture in [Angus McBride's Characters of Middle-earth](../../main/A/Angus_McBride's_Characters_of_Middle-earth.md)
 
 ## Licensing {#Licensing}
 

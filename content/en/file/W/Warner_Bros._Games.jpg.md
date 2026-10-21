@@ -1,6 +1,5 @@
 ---
 title: "File:Warner Bros. Games.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warner Bros. Games.jpg</span>"
 page_id: 64335
 namespace: 6
 revision_id: 368308
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The current logo of [Warner Bros. Games](/wiki/Warner_Bros._Games).
+The current logo of [Warner Bros. Games](../../main/W/Warner_Bros._Games.md).
 
 ## Licensing {#Licensing}
 

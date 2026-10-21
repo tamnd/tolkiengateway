@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Snow-white! Snow-white! O Lady clear!.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Snow-white! Snow-white! O Lady clear!.mp3</span>"
 page_id: 71038
 namespace: 6
 revision_id: 424283
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out [Snow-white! Snow-white! O Lady clear!](/wiki/Snow-white!_Snow-white!_O_Lady_clear!).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out [Snow-white! Snow-white! O Lady clear!](../../main/S/Snow-white!_Snow-white!_O_Lady_clear!.md).
 
 ## Licensing {#Licensing}
 

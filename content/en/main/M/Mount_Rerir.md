@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rerir"
 ---
 
-Redirect to [Rerir](/wiki/Rerir).
+Redirect to [Rerir](../R/Rerir.md).

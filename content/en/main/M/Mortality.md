@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mortals"
 ---
 
-Redirect to [Mortals](/wiki/Mortals).
+Redirect to [Mortals](Mortals.md).

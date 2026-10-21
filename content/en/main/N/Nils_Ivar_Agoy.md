@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nils Ivar Agøy"
 ---
 
-Redirect to [Nils Ivar Agøy](/wiki/Nils_Ivar_Agøy).
+Redirect to [Nils Ivar Agøy](Nils_Ivar_Agøy.md).

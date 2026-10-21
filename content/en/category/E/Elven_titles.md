@@ -1,6 +1,5 @@
 ---
 title: "Category:Elven titles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elven titles</span>"
 page_id: 59167
 namespace: 14
 revision_id: 327937

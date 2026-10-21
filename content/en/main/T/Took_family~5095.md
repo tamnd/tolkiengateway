@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Took Family"
 ---
 
-Redirect to [Took Family](/wiki/Took_Family).
+Redirect to [Took Family](Took_Family.md).

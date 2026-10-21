@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dick Plotz"
 ---
 
-Redirect to [Dick Plotz](/wiki/Dick_Plotz).
+Redirect to [Dick Plotz](../D/Dick_Plotz.md).

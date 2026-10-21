@@ -21,9 +21,9 @@ sort_keys:
   "Published articles": "Meeting in the Hyades, A"
 ---
 
-**A Meeting in the Hyades** is the title of a fanfiction story by [Marion Zimmer Bradley](/wiki/Marion_Zimmer_Bradley). It was first published as a separate work (<a class="extiw" href="http://en.wikipedia.org/wiki/Chapbook" title="wikipedia:Chapbook">chapbook</a>) in 1961, and then again in [*Anduril*](</wiki/Anduril_(USA)> "Anduril (USA)") and *Astra's Tower Special Leaflet* (pp. 14–29<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) in 1962, and then again in *Starstone* #1 in 1978.
+**A Meeting in the Hyades** is the title of a fanfiction story by [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md). It was first published as a separate work (<a class="extiw" href="http://en.wikipedia.org/wiki/Chapbook" title="wikipedia:Chapbook">chapbook</a>) in 1961, and then again in [*Anduril*](<Anduril_(USA).md>) and *Astra's Tower Special Leaflet* (pp. 14–29<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) in 1962, and then again in *Starstone* #1 in 1978.
 
-"A Meeting in the Hyades" is a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")/<a class="extiw" href="http://en.wikipedia.org/wiki/Darkover" title="wikipedia:Darkover">Darkover</a> crossover (a fanfiction story in which two or more fandoms are combined in some way). It is a story where Regis Hastur, or a character that later developed into Regis, meets a character from *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* somewhere in the Darkovan mountains.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"A Meeting in the Hyades" is a [Tolkien](../J/J.R.R._Tolkien.md)/<a class="extiw" href="http://en.wikipedia.org/wiki/Darkover" title="wikipedia:Darkover">Darkover</a> crossover (a fanfiction story in which two or more fandoms are combined in some way). It is a story where Regis Hastur, or a character that later developed into Regis, meets a character from *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* somewhere in the Darkovan mountains.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

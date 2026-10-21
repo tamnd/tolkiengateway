@@ -1,6 +1,5 @@
 ---
 title: "File:Michael Rasmussen - Morgulduin.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Michael Rasmussen - Morgulduin.png</span>"
 page_id: 37726
 namespace: 6
 revision_id: 433512

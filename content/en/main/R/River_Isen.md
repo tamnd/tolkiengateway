@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isen"
 ---
 
-Redirect to [Isen](/wiki/Isen).
+Redirect to [Isen](../I/Isen.md).

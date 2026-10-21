@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghân-buri-Ghân"
 ---
 
-Redirect to [Ghân-buri-Ghân](/wiki/Ghân-buri-Ghân).
+Redirect to [Ghân-buri-Ghân](Ghân-buri-Ghân.md).

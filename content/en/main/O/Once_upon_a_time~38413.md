@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Once upon a Time"
 ---
 
-Redirect to [Once upon a Time](/wiki/Once_upon_a_Time).
+Redirect to [Once upon a Time](Once_upon_a_Time.md).

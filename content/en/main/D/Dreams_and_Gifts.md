@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dreams & Gifts: The Art of Angelo Montanini"
 ---
 
-Redirect to [Dreams &amp; Gifts: The Art of Angelo Montanini](/wiki/Dreams_&_Gifts:_The_Art_of_Angelo_Montanini).
+Redirect to [Dreams &amp; Gifts: The Art of Angelo Montanini](Dreams_&_Gifts%253A_The_Art_of_Angelo_Montanini.md).

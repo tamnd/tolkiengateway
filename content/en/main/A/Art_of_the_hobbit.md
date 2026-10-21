@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Art of The Hobbit"
 ---
 
-Redirect to [The Art of The Hobbit](/wiki/The_Art_of_The_Hobbit).
+Redirect to [The Art of The Hobbit](../T/The_Art_of_The_Hobbit.md).

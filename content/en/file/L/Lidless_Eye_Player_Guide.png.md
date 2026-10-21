@@ -1,6 +1,5 @@
 ---
 title: "File:Lidless Eye Player Guide.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lidless Eye Player Guide.png</span>"
 page_id: 35640
 namespace: 6
 revision_id: 351061

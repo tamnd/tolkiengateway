@@ -1,6 +1,5 @@
 ---
 title: "File:There and Back Again - J.R.R. Tolkien and the Origins of The Hobbit.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">There and Back Again - J.R.R. Tolkien and the Origins of The Hobbit.jpg</span>"
 page_id: 41407
 namespace: 6
 revision_id: 214723

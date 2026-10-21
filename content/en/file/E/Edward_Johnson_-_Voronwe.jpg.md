@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Johnson - Voronwe.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Johnson - Voronwe.jpg</span>"
 page_id: 29910
 namespace: 6
 revision_id: 217351
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Voronwë of Gondolin](/wiki/Voronw%C3%AB "Voronwë"), by Edward Johnson. From the [MERP](/wiki/Middle-earth_Role_Playing "Middle-earth Role Playing") book *[Elves](</wiki/Elves_(book)> "Elves (book)")*
+[Voronwë of Gondolin](../../main/V/Voronwë.md), by Edward Johnson. From the [MERP](../../main/M/Middle-earth_Role_Playing.md) book *[Elves](<../../main/E/Elves_(book).md>)*
 
 ## Licensing {#Licensing}
 

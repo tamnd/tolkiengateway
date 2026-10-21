@@ -1,6 +1,5 @@
 ---
 title: "File:Ossendrijver 5 January 1961 (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ossendrijver 5 January 1961 (1).jpg</span>"
 page_id: 44583
 namespace: 6
 revision_id: 234907

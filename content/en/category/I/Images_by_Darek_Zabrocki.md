@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darek Zabrocki"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darek Zabrocki</span>"
 page_id: 48166
 namespace: 14
 revision_id: 257256

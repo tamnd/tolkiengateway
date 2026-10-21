@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar"
 ---
 
-Redirect to [Ar](/wiki/Ar).
+Redirect to [Ar](Ar.md).

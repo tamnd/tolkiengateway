@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Strategy Battle Game"
 ---
 
-Redirect to [Middle-earth Strategy Battle Game](/wiki/Middle-earth_Strategy_Battle_Game).
+Redirect to [Middle-earth Strategy Battle Game](Middle-earth_Strategy_Battle_Game.md).

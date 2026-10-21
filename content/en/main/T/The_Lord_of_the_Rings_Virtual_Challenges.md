@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings Virtual Challenges"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Virtual Challenges</span>"
 page_id: 73290
 namespace: 0
 revision_id: 433503
@@ -18,27 +17,24 @@ images:
   - "LotR_Virtual_Challenge_Medals_with_Hangar.webp"
 ---
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>One does not simply walk into Mordor
 </p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+</blockquote><div class="tg-section-divider"></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_Virtual_Challenge_Medals_with_Hangar.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/300px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png" decoding="async" loading="lazy" width="300" height="273" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/450px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/600px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 2x" data-file-width="762" data-file-height="694"/></a><figcaption>All <i>Lord of the Rings</i> Virtual Challenge Medals (with optional hangar)</figcaption></figure>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:LotR_Virtual_Challenge_Medals_with_Hangar.webp"><img src="/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/300px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png" decoding="async" loading="lazy" width="300" height="273" class="mw-file-element" srcset="/w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/450px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 1.5x, /w/images/thumb/e/ef/LotR_Virtual_Challenge_Medals_with_Hangar.webp/600px-LotR_Virtual_Challenge_Medals_with_Hangar.webp.png 2x" data-file-width="762" data-file-height="694"/></a><figcaption>All <i>Lord of the Rings</i> Virtual Challenge Medals (with optional hangar)</figcaption></figure>
+<b><i>The Lord of the Rings</i> Virtual Challenges</b> are a series of branded fitness programs offered by <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Conqueror_-_Virtual_Challenges_and_Medals&amp;action=edit&amp;redlink=1" title="The Conqueror - Virtual Challenges and Medals (page does not exist)">The Conqueror - Virtual Challenges and Medals</a>. Participants sign up for a bundle or individual challenge and, upon completing the target mileage exercised receive a personalized collectible medal.
 
-<b><i>The Lord of the Rings</i> Virtual Challenges</b> are a series of branded fitness programs offered by <a class="new" href="/w/index.php?title=The_Conqueror_-_Virtual_Challenges_and_Medals&amp;action=edit&amp;redlink=1" title="The Conqueror - Virtual Challenges and Medals (page does not exist)">The Conqueror - Virtual Challenges and Medals</a>. Participants sign up for a bundle or individual challenge and, upon completing the target mileage exercised receive a personalized collectible medal.
-
-The two related challenge series are *The Lord of the Rings* and *The Return of the King*, each of which has the participant simulating walking across [Middle-earth](/wiki/Middle-earth) travelling the same distances as described in the stories. A mobile application assists with this, showing the participant where they currently are on the journey. Within each series, each challenge must be completed sequentially before the next challenge can be attempted. During a participant's progress, they will be mailed postcards and stories with imagery from the [Peter Jackson](/wiki/Peter_Jackson) [*Lord of the Rings* film series](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+The two related challenge series are *The Lord of the Rings* and *The Return of the King*, each of which has the participant simulating walking across [Middle-earth](../M/Middle-earth.md) travelling the same distances as described in the stories. A mobile application assists with this, showing the participant where they currently are on the journey. Within each series, each challenge must be completed sequentially before the next challenge can be attempted. During a participant's progress, they will be mailed postcards and stories with imagery from the [Peter Jackson](../P/Peter_Jackson.md) [*Lord of the Rings* film series](<The_Lord_of_the_Rings_(film_series).md>).
 
 In addition, The Conqueror pledges to either plant a of tree or prevent ten plastic bottles from entering the oceans for every 20% of every Challenge a participant completes.
 
 ## *The Lord of the Rings* {#The_Lord_of_the_Rings}
 
-These five challenges in total task participants with walking from the [Shire](/wiki/Shire) to [Mordor](/wiki/Mordor), emulating travel required during the events of the titular story. The Medal sent to those who complete the first Challenge (The Shire) will include a replica [One Ring](/wiki/One_Ring), which can then be displayed in the final Medal (Mordor), symbolically placing it in an image of Mount Doom.
+These five challenges in total task participants with walking from the [Shire](../S/Shire.md) to [Mordor](../M/Mordor.md), emulating travel required during the events of the titular story. The Medal sent to those who complete the first Challenge (The Shire) will include a replica [One Ring](../O/One_Ring.md), which can then be displayed in the final Medal (Mordor), symbolically placing it in an image of Mount Doom.
 
 <table class="wikitable" style="padding: 2px;">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Name</th>
 <th>Distance</th>
@@ -72,10 +68,9 @@ These five challenges in total task participants with walking from the [Shire](/
 
 ## *The Return of the King* {#The_Return_of_the_King}
 
-These three challenges in total task participants with simulating the travels of [Aragorn](/wiki/Aragorn) throughout *The Lord of the Rings*.
+These three challenges in total task participants with simulating the travels of [Aragorn](../A/Aragorn.md) throughout *The Lord of the Rings*.
 
 <table class="wikitable" style="padding: 2px;">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Name</th>
 <th>Distance</th>
@@ -84,17 +79,17 @@ These three challenges in total task participants with simulating the travels of
 <tr>
 <td>Rohan</td>
 <td>80mi/128km (running and walking)<br/>450mi/724km (cycling)</td>
-<td>Takes you on Aragorn’s travels into the Kingdom of <a href="/wiki/Rohan" title="Rohan">Rohan</a> and towards <a href="/wiki/Helm%27s_Deep" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, where <a href="/wiki/Saruman" title="Saruman">Saruman</a> is sending his Orc hordes.
+<td>Takes you on Aragorn’s travels into the Kingdom of <a href="../R/Rohan.md" title="Rohan">Rohan</a> and towards <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, where <a href="../S/Saruman.md" title="Saruman">Saruman</a> is sending his Orc hordes.
 </td></tr>
 <tr>
 <td>Helm&#39;s Deep</td>
 <td>100mi/160km (running and walking)<br/>370km/595km (cycling)</td>
-<td>Takes on Aragorn’s journey from <a href="/wiki/Hornburg" title="Hornburg">Hornburg</a>, where he proves himself a worthy leader of Men, towards the ghastly <a href="/wiki/Paths_of_the_Dead" title="Paths of the Dead">Paths of the Dead</a>.
+<td>Takes on Aragorn’s journey from <a href="../H/Hornburg.md" title="Hornburg">Hornburg</a>, where he proves himself a worthy leader of Men, towards the ghastly <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>.
 </td></tr>
 <tr>
 <td>Gondor</td>
 <td>70mi/112km (running and walking)<br/>662mi/1065km (cycling)</td>
-<td>Takes you on Aragorn&#39;s journey through the heart of the battle of <a href="/wiki/Minas_Tirith" title="Minas Tirith">Minas Tirith</a> and towards the <a href="/wiki/Black_Gate" title="Black Gate">Black Gate</a> for <a class="mw-redirect" href="/wiki/Man" title="Man">Man</a>’s last stand against <a href="/wiki/Sauron" title="Sauron">Sauron</a>.
+<td>Takes you on Aragorn&#39;s journey through the heart of the battle of <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> and towards the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a> for <a class="mw-redirect" href="../M/Man.md" title="Man">Man</a>’s last stand against <a href="../S/Sauron.md" title="Sauron">Sauron</a>.
 </td></tr>
 </tbody></table>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Castar"
 ---
 
-Redirect to [Castar](/wiki/Castar).
+Redirect to [Castar](../C/Castar.md).

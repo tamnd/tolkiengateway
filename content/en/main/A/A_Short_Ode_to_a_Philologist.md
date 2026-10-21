@@ -1,6 +1,5 @@
 ---
 title: "A Short Ode to a Philologist"
-display_title: "<span class=\"mw-page-title-main\">A Short Ode to a Philologist</span>"
 page_id: 56999
 namespace: 0
 revision_id: 397399
@@ -15,7 +14,7 @@ sort_keys:
   "Poems": "Short Ode to Philologist, A"
 ---
 
-**A Short Ode to a Philologist** is a poem written by [W.H. Auden](/wiki/W.H._Auden) and published in *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](/wiki/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday)* ([1962](/wiki/1962)). The poem was mirrored by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") in the poem "[For W.H.A.](/wiki/For_W.H.A.)", published as an answer.
+**A Short Ode to a Philologist** is a poem written by [W.H. Auden](../W/W.H._Auden.md) and published in *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)* ([1962](../_/1962.md)). The poem was mirrored by [Tolkien](../J/J.R.R._Tolkien.md) in the poem "[For W.H.A.](../F/For_W.H.A..md)", published as an answer.
 
 ## The poem {#The_poem}
 

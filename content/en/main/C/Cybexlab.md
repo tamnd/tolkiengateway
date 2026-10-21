@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cybexlab Software"
 ---
 
-Redirect to [Cybexlab Software](/wiki/Cybexlab_Software).
+Redirect to [Cybexlab Software](Cybexlab_Software.md).

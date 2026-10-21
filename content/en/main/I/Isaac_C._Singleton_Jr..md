@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isaac C. Singleton, Jr."
 ---
 
-Redirect to [Isaac C. Singleton, Jr.](/wiki/Isaac_C._Singleton,_Jr.).
+Redirect to [Isaac C. Singleton, Jr.](Isaac_C._Singleton,_Jr..md).

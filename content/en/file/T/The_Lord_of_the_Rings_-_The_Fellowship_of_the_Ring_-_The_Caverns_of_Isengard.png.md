@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - The Caverns of Isengard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - The Caverns of Isengard.png</span>"
 page_id: 64174
 namespace: 6
 revision_id: 367012
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring "The Lord of the Rings: The Fellowship of the Ring")*, "[The Caverns of Isengard](</wiki/The_Caverns_of_Isengard_(scene)> "The Caverns of Isengard (scene)")".
+A still from the scene *[The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, "[The Caverns of Isengard](<../../main/T/The_Caverns_of_Isengard_(scene).md>)".
 
 ## Licensing {#Licensing}
 

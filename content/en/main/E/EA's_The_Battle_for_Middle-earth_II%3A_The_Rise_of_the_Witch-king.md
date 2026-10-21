@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king"
 ---
 
-Redirect to [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king).
+Redirect to [The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md).

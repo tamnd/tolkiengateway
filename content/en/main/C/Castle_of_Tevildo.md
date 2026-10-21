@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith (Beleriand)"
 ---
 
-Redirect to [Minas Tirith (Beleriand)](/wiki/Minas_Tirith_(Beleriand)).
+Redirect to [Minas Tirith (Beleriand)](<../M/Minas_Tirith_(Beleriand).md>).

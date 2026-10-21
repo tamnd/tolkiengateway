@@ -1,6 +1,5 @@
 ---
 title: "Tuilérë"
-display_title: "<span class=\"mw-page-title-main\">Tuilérë</span>"
 page_id: 4764
 namespace: 0
 revision_id: 305466
@@ -22,13 +21,13 @@ langlinks:
     url: "https://kontu.wiki/Tuil%C3%A9r%C3%AB"
 ---
 
-**Tuilérë** was one of several feast-days that appeared in the calendars of [Gondor](/wiki/Gondor). It lay between the months of [Súlimë](/wiki/S%C3%BAlim%C3%AB) and [Víressë](/wiki/V%C3%ADress%C3%AB), and marked the beginning of spring. On a modern calendar, it fell on 23 March.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tuilérë** was one of several feast-days that appeared in the calendars of [Gondor](../G/Gondor.md). It lay between the months of [Súlimë](../S/Súlimë.md) and [Víressë](../V/Víressë.md), and marked the beginning of spring. On a modern calendar, it fell on 23 March.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Realms of the Three Rings.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Realms of the Three Rings.jpeg</span>"
 page_id: 74695
 namespace: 6
 revision_id: 441762
@@ -35,15 +34,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://freeleaguepublishing.com/press/" rel="noreferrer noopener" target="_blank">Free League Press Materials</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

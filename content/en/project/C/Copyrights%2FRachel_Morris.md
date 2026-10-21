@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Rachel Morris"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Rachel Morris</span>"
 page_id: 37967
 namespace: 4
 revision_id: 193181
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Morris, Rachel"
 ---
 
-- Rachel Morris has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Rachel_Morris "Category:Images by Rachel Morris") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Rachel Morris has kindly granted her permission to use [her artwork](../../category/I/Images_by_Rachel_Morris.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

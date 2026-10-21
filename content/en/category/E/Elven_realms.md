@@ -1,6 +1,5 @@
 ---
 title: "Category:Elven realms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elven realms</span>"
 page_id: 39685
 namespace: 14
 revision_id: 278125

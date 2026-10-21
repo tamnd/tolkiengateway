@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Trading Card Game - Frór, Gimli's Kinsman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game - Frór, Gimli&#039;s Kinsman.jpg</span>"
 page_id: 50383
 namespace: 6
 revision_id: 436159
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings Trading Card Game - Frór, Gimli&#39;s Kinsman.jpg</span></th>
 <td class="description">
-<p>&#34;Frór - Gimli&#39;s Kinsman&#34; from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+<p>&#34;Frór - Gimli&#39;s Kinsman&#34; from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/November" title="November">November</a> <a href="/wiki/2001" title="2001">2001</a></td>
+<td><a href="../../main/N/November.md" title="November">November</a> <a href="../../main/_/2001.md" title="2001">2001</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://lotrtcgwiki.com/wiki/lotr02006" rel="noreferrer noopener" target="_blank">https://lotrtcgwiki.com/wiki/lotr02006</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
@@ -71,6 +66,6 @@ file:
 ## Notes {#Notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Decipher" title="Decipher">Decipher</a> gave names to many of the unnamed characters in <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, including those at the council. One card is named &#34;Frór, Gimli&#39;s Kinsman&#34;, however the Dwarf depicted is not a character in the film. Decipher used a photo of Gimli&#39;s scale double <a class="new" href="/w/index.php?title=Brett_Beattie&amp;action=edit&amp;redlink=1" title="Brett Beattie (page does not exist)">Brett Beattie</a> during the <a href="/wiki/Council_of_Elrond" title="Council of Elrond">Council of Elrond</a> and presented him as though he was another character. This is incompatible with the film, as only four Dwarves are seen during the Council and &#34;Frór&#34; is sitting in Gimli&#39;s spot.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../../main/D/Decipher.md" title="Decipher">Decipher</a> gave names to many of the unnamed characters in <i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, including those at the council. One card is named &#34;Frór, Gimli&#39;s Kinsman&#34;, however the Dwarf depicted is not a character in the film. Decipher used a photo of Gimli&#39;s scale double <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brett_Beattie&amp;action=edit&amp;redlink=1" title="Brett Beattie (page does not exist)">Brett Beattie</a> during the <a href="../../main/C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a> and presented him as though he was another character. This is incompatible with the film, as only four Dwarves are seen during the Council and &#34;Frór&#34; is sitting in Gimli&#39;s spot.</span>
 </li>
 </ol></div>

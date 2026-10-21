@@ -1,6 +1,5 @@
 ---
 title: "File:Andi-Scribbles - Eowyn in the Houses of Healing.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andi-Scribbles - Eowyn in the Houses of Healing.png</span>"
 page_id: 47842
 namespace: 6
 revision_id: 254952
@@ -32,6 +31,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Andi-Scribbles</li>
 <li><b>Website:</b> <a class="external text" href="http://andi-scribbles.deviantart.com" rel="noreferrer noopener" target="_blank">Andi-Scribbles on deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andi-Scribbles" title="Tolkien Gateway:Copyrights/Andi-Scribbles">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndi-Scribbles.md" title="Tolkien Gateway:Copyrights/Andi-Scribbles">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

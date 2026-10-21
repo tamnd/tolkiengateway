@@ -1,6 +1,5 @@
 ---
 title: "File:Hithbar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hithbar.png</span>"
 page_id: 35759
 namespace: 6
 revision_id: 168422

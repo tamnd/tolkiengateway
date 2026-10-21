@@ -1,6 +1,5 @@
 ---
 title: "Dominic Armato"
-display_title: "<span class=\"mw-page-title-main\">Dominic Armato</span>"
 page_id: 27974
 namespace: 0
 revision_id: 405253
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Armato, Dominic"
 ---
 
-**Dominic M. Armato** ([November 18](/wiki/18_November "18 November"), [1976](/wiki/1976)) is an American voice actor. He is best known as the voice of protagonist Guybrush Threepwood in LucasArts' <i><a class="extiw" href="http://en.wikipedia.org/wiki/Monkey_Island_(series)" title="wikipedia:Monkey Island (series)">Monkey Island</a></i> games.
+**Dominic M. Armato** ([November 18](../_/18_November.md), [1976](../_/1976.md)) is an American voice actor. He is best known as the voice of protagonist Guybrush Threepwood in LucasArts' <i><a class="extiw" href="http://en.wikipedia.org/wiki/Monkey_Island_(series)" title="wikipedia:Monkey Island (series)">Monkey Island</a></i> games.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
 
 ## External links {#External_links}
 

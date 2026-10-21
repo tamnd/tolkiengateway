@@ -1,6 +1,5 @@
 ---
 title: "9 October"
-display_title: "<span class=\"mw-page-title-main\">9 October</span>"
 page_id: 18636
 namespace: 0
 revision_id: 402960
@@ -24,66 +23,64 @@ langlinks:
     url: "https://kontu.wiki/9._lokakuuta"
 ---
 
-<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=9_October/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><style data-mw-deduplicate="TemplateStyles:r402745">.mw-parser-output .tg-button>a{border:1px solid transparent;border-radius:var(--tg-border-radius-small);height:36px;padding:0 1rem!important;color:var(--tg-color-emphasized)!important;display:flex;align-items:center;justify-content:center;gap:0.5rem;line-height:1;font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium);text-decoration:none}.mw-parser-output .tg-button>a:hover{background-color:var(--background-color-button-quiet--hover)!important}.mw-parser-output .tg-button>a:active{background-color:var(--background-color-button-quiet--active)!important}.mw-parser-output .tg-button.tg-button--framed>a{border-color:var(--tg-border-color-interactive)}.mw-parser-output .tg-button.tg-button--icon>a{padding-left:0.5rem!important;padding-right:0.5rem!important;font-size:0;gap:0}.mw-parser-output .tg-button.tg-button--primary>a{color:var(--tg-color-inverted-progressive)!important;background-color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--primary>a:hover{background-color:var(--tg-color-progressive--hover)!important}.mw-parser-output .tg-button.tg-button--primary>a:active{background-color:var(--tg-color-progressive--active)!important}.mw-parser-output .tg-button.tg-button--secondary>a{border-color:var(--tg-color-progressive)!important;color:var(--tg-color-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:hover{border-color:var(--tg-color-progressive--hover)!important;background-color:var(--tg-color-progressive--hover)!important;color:var(--tg-color-inverted-progressive)!important}.mw-parser-output .tg-button.tg-button--secondary>a:active{border-color:var(--tg-color-progressive--active)!important;background-color:var(--tg-color-progressive--active)!important;color:var(--tg-color-inverted-progressive)!important}</style><div class="tg-section-divider"><span><a href="/wiki/October" title="October">October</a></span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style>
+<div class="template-month floatright"><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=9_October/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Add curated event</a></div><div class="tg-section-divider"><span><a href="../O/October.md" title="October">October</a></span></div>
 <div class="template-month__grid">
-<div class="template-month__day"><a href="/wiki/1_October" title="1 October">1</a></div>
-<div class="template-month__day"><a href="/wiki/2_October" title="2 October">2</a></div>
-<div class="template-month__day"><a href="/wiki/3_October" title="3 October">3</a></div>
-<div class="template-month__day"><a href="/wiki/4_October" title="4 October">4</a></div>
-<div class="template-month__day"><a href="/wiki/5_October" title="5 October">5</a></div>
-<div class="template-month__day"><a href="/wiki/6_October" title="6 October">6</a></div>
-<div class="template-month__day"><a href="/wiki/7_October" title="7 October">7</a></div>
-<div class="template-month__day"><a href="/wiki/8_October" title="8 October">8</a></div>
+<div class="template-month__day"><a href="1_October.md" title="1 October">1</a></div>
+<div class="template-month__day"><a href="2_October.md" title="2 October">2</a></div>
+<div class="template-month__day"><a href="3_October.md" title="3 October">3</a></div>
+<div class="template-month__day"><a href="4_October.md" title="4 October">4</a></div>
+<div class="template-month__day"><a href="5_October.md" title="5 October">5</a></div>
+<div class="template-month__day"><a href="6_October.md" title="6 October">6</a></div>
+<div class="template-month__day"><a href="7_October.md" title="7 October">7</a></div>
+<div class="template-month__day"><a href="8_October.md" title="8 October">8</a></div>
 <div class="template-month__day"><a class="mw-selflink selflink">9</a></div>
-<div class="template-month__day"><a href="/wiki/10_October" title="10 October">10</a></div>
-<div class="template-month__day"><a href="/wiki/11_October" title="11 October">11</a></div>
-<div class="template-month__day"><a href="/wiki/12_October" title="12 October">12</a></div>
-<div class="template-month__day"><a href="/wiki/13_October" title="13 October">13</a></div>
-<div class="template-month__day"><a href="/wiki/14_October" title="14 October">14</a></div>
-<div class="template-month__day"><a href="/wiki/15_October" title="15 October">15</a></div>
-<div class="template-month__day"><a href="/wiki/16_October" title="16 October">16</a></div>
-<div class="template-month__day"><a href="/wiki/17_October" title="17 October">17</a></div>
-<div class="template-month__day"><a href="/wiki/18_October" title="18 October">18</a></div>
-<div class="template-month__day"><a href="/wiki/19_October" title="19 October">19</a></div>
-<div class="template-month__day"><a href="/wiki/20_October" title="20 October">20</a></div>
-<div class="template-month__day"><a href="/wiki/21_October" title="21 October">21</a></div>
-<div class="template-month__day"><a href="/wiki/22_October" title="22 October">22</a></div>
-<div class="template-month__day"><a href="/wiki/23_October" title="23 October">23</a></div>
-<div class="template-month__day"><a href="/wiki/24_October" title="24 October">24</a></div>
-<div class="template-month__day"><a href="/wiki/25_October" title="25 October">25</a></div>
-<div class="template-month__day"><a href="/wiki/26_October" title="26 October">26</a></div>
-<div class="template-month__day"><a href="/wiki/27_October" title="27 October">27</a></div>
-<div class="template-month__day"><a href="/wiki/28_October" title="28 October">28</a></div>
-<div class="template-month__day"><a href="/wiki/29_October" title="29 October">29</a></div>
-<div class="template-month__day"><a href="/wiki/30_October" title="30 October">30</a></div>
-<div class="template-month__day"><a href="/wiki/31_October" title="31 October">31</a></div>
-</div><div class="template-month__footer"><div class="tg-button"><a href="/wiki/January" title="January">Jan</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/February" title="February">Feb</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/March" title="March">Mar</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/April" title="April">Apr</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/May" title="May">May</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/June" title="June">Jun</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/July" title="July">Jul</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/August" title="August">Aug</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/September" title="September">Sep</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/October" title="October">Oct</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/November" title="November">Nov</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/><div class="tg-button"><a href="/wiki/December" title="December">Dec</a></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r402745"/></div>
+<div class="template-month__day"><a href="10_October.md" title="10 October">10</a></div>
+<div class="template-month__day"><a href="11_October.md" title="11 October">11</a></div>
+<div class="template-month__day"><a href="12_October.md" title="12 October">12</a></div>
+<div class="template-month__day"><a href="13_October.md" title="13 October">13</a></div>
+<div class="template-month__day"><a href="14_October.md" title="14 October">14</a></div>
+<div class="template-month__day"><a href="15_October.md" title="15 October">15</a></div>
+<div class="template-month__day"><a href="16_October.md" title="16 October">16</a></div>
+<div class="template-month__day"><a href="17_October.md" title="17 October">17</a></div>
+<div class="template-month__day"><a href="18_October.md" title="18 October">18</a></div>
+<div class="template-month__day"><a href="19_October.md" title="19 October">19</a></div>
+<div class="template-month__day"><a href="20_October.md" title="20 October">20</a></div>
+<div class="template-month__day"><a href="21_October.md" title="21 October">21</a></div>
+<div class="template-month__day"><a href="22_October.md" title="22 October">22</a></div>
+<div class="template-month__day"><a href="23_October.md" title="23 October">23</a></div>
+<div class="template-month__day"><a href="24_October.md" title="24 October">24</a></div>
+<div class="template-month__day"><a href="25_October.md" title="25 October">25</a></div>
+<div class="template-month__day"><a href="26_October.md" title="26 October">26</a></div>
+<div class="template-month__day"><a href="27_October.md" title="27 October">27</a></div>
+<div class="template-month__day"><a href="28_October.md" title="28 October">28</a></div>
+<div class="template-month__day"><a href="29_October.md" title="29 October">29</a></div>
+<div class="template-month__day"><a href="30_October.md" title="30 October">30</a></div>
+<div class="template-month__day"><a href="31_October.md" title="31 October">31</a></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
-
-<style data-mw-deduplicate="TemplateStyles:r417058">.mw-parser-output .template-month{width:300px;background:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-medium);font-size:var(--tg-font-size-small);font-weight:var(--tg-font-weight-medium)}.mw-parser-output .template-month .tg-event-card{border-bottom-left-radius:0;border-bottom-right-radius:0}.mw-parser-output .tg-event-card-button{margin:1rem}.mw-parser-output .template-month .tg-section-divider{margin-top:0.5rem;margin-bottom:0}.mw-parser-output .template-month__grid{border-bottom:var(--tg-border-base);padding:0.5rem;display:grid;grid-template-columns:repeat(7,1fr);text-align:center;gap:0.25rem}.mw-parser-output .template-month__day>a{display:flex;color:var(--tg-color-emphasized);border-radius:var(--tg-border-radius-small);aspect-ratio:1;justify-content:center;align-items:center}.mw-parser-output .template-month__day--nextmonth>a{color:var(--tg-color-subtle)}.mw-parser-output .template-month__day>a.selflink{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__day>a:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-month__day>a:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-month__footer{padding:0.5rem;display:grid;grid-template-columns:repeat(6,1fr)}.mw-parser-output .template-month__footer .tg-button>a{padding-left:0.5rem!important;padding-right:0.5rem!important}</style>
 
 Events that occurred on 9 October.
 
 ## On Earth {#On_Earth}
 
-- **[1937](/wiki/1937)** - Actor [Brian Blessed](/wiki/Brian_Blessed) is born.
-- **[1945](/wiki/1945)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 102a](/wiki/Letter_102a).
-- **[1950](/wiki/1950)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 130a](/wiki/Letter_130a).
-- **[1953](/wiki/1953)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 141](/wiki/Letter_141).
-- **[1959](/wiki/1959)** - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) writes [Letter 218](/wiki/Letter_218).
-- **[1964](/wiki/1964)** - Film director [Guillermo del Toro](/wiki/Guillermo_del_Toro) is born.
-- **[1968](/wiki/1968)** - Video-game writer [František Fuka](/wiki/Franti%C5%A1ek_Fuka) is born.
-- **[1979](/wiki/1979)** - The *[Jackanory](/wiki/Jackanory)* episode "Inside Information" is aired on the [BBC](/wiki/BBC).
-- **[1982](/wiki/1982)** - The thirteenth - and final - episode of the new version of the [1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* is aired on [BBC Radio 4](/wiki/BBC "BBC").
-- **[2004](/wiki/2004)** - [The Lord of the Rings Symphony](/wiki/The_Lord_of_the_Rings_Symphony) at the Auditorium Theatre in <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
-- **[2010](/wiki/2010)** - Chilean Tolkien Society's Mereth Oronnad.
-- **[2014](/wiki/2014)** - [*The Adventures of Tom Bombadil* (expanded edition)](/wiki/The_Adventures_of_Tom_Bombadil#Expanded_edition "The Adventures of Tom Bombadil") is published.
-- **[2017](/wiki/2017)** - Filming began on [*Tolkien* (film)](</wiki/Tolkien_(film)> "Tolkien (film)"), directed by [Dome Karukoski](/wiki/Dome_Karukoski) and written by [David Gleeson](/wiki/David_Gleeson).
+- **[1937](1937.md)** - Actor [Brian Blessed](../B/Brian_Blessed.md) is born.
+- **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 102a](../L/Letter_102a.md).
+- **[1950](1950.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 130a](../L/Letter_130a.md).
+- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 141](../L/Letter_141.md).
+- **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) writes [Letter 218](../L/Letter_218.md).
+- **[1964](1964.md)** - Film director [Guillermo del Toro](../G/Guillermo_del_Toro.md) is born.
+- **[1968](1968.md)** - Video-game writer [František Fuka](../F/František_Fuka.md) is born.
+- **[1979](1979.md)** - The *[Jackanory](../J/Jackanory.md)* episode "Inside Information" is aired on the [BBC](../B/BBC.md).
+- **[1982](1982.md)** - The thirteenth - and final - episode of the new version of the [1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* is aired on [BBC Radio 4](../B/BBC.md).
+- **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) at the Auditorium Theatre in <a class="extiw" href="http://en.wikipedia.org/wiki/Chicago" title="wikipedia:Chicago">Chicago</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
+- **[2010](2010.md)** - Chilean Tolkien Society's Mereth Oronnad.
+- **[2014](2014.md)** - [*The Adventures of Tom Bombadil* (expanded edition)](../T/The_Adventures_of_Tom_Bombadil.md#Expanded_edition) is published.
+- **[2017](2017.md)** - Filming began on [*Tolkien* (film)](<../T/Tolkien_(film).md>), directed by [Dome Karukoski](../D/Dome_Karukoski.md) and written by [David Gleeson](../D/David_Gleeson.md).
 
 ## In Arda {#In_Arda}
 
-- [T.A.](/wiki/Third_Age "Third Age") [3018](/wiki/Third_Age_3018 "Third Age 3018"):
-    - With [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") severely wounded, [Strider](/wiki/Aragorn "Aragorn") and the [four hobbits](/wiki/Travellers "Travellers") travel slowly towards [Rivendell](/wiki/Rivendell).
-    - [Glorfindel](/wiki/Glorfindel) and other High Elves leave [Rivendell](/wiki/Rivendell) in search of the [Ring-bearer](/wiki/Frodo_Baggins "Frodo Baggins").
-    - [Gandalf](/wiki/Gandalf) hurries towards [Rivendell](/wiki/Rivendell) after the [Black Riders](/wiki/Nazg%C3%BBl "Nazgûl") attacked him on [Weathertop](/wiki/Weathertop).
-    - [Boromir](/wiki/Boromir) travels towards [Rivendell](/wiki/Rivendell) to ask for counsel.
+- [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
+    - With [Frodo](../F/Frodo_Baggins.md) severely wounded, [Strider](../A/Aragorn.md) and the [four hobbits](../T/Travellers.md) travel slowly towards [Rivendell](../R/Rivendell.md).
+    - [Glorfindel](../G/Glorfindel.md) and other High Elves leave [Rivendell](../R/Rivendell.md) in search of the [Ring-bearer](../F/Frodo_Baggins.md).
+    - [Gandalf](../G/Gandalf.md) hurries towards [Rivendell](../R/Rivendell.md) after the [Black Riders](../N/Nazgûl.md) attacked him on [Weathertop](../W/Weathertop.md).
+    - [Boromir](../B/Boromir.md) travels towards [Rivendell](../R/Rivendell.md) to ask for counsel.

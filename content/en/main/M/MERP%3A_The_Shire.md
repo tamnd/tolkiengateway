@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shire (book)"
 ---
 
-Redirect to [The Shire (book)](/wiki/The_Shire_(book)).
+Redirect to [The Shire (book)](<../T/The_Shire_(book).md>).

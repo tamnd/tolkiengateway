@@ -1,6 +1,5 @@
 ---
 title: "File:Summoning Minas Morgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Summoning Minas Morgul.jpg</span>"
 page_id: 22184
 namespace: 6
 revision_id: 403373

@@ -1,6 +1,5 @@
 ---
 title: "File:Rebecca M. Beit-Aharon - Lothíriel, queen of Rohan, and her son, Elfwine.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rebecca M. Beit-Aharon - Lothíriel, queen of Rohan, and her son, Elfwine.jpg</span>"
 page_id: 57954
 namespace: 6
 revision_id: 319084
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Rebecca M. Beit-Aharon</li>
 <li><b>Website:</b> <a class="external text" href="https://heckofabecca.tumblr.com/" rel="noreferrer noopener" target="_blank">Rebecca M. Beit-Aharon on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Rebecca_M._Beit-Aharon" title="Tolkien Gateway:Copyrights/Rebecca M. Beit-Aharon">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRebecca_M._Beit-Aharon.md" title="Tolkien Gateway:Copyrights/Rebecca M. Beit-Aharon">Permission for use on Tolkien Gateway</a></b></li></ul></div>

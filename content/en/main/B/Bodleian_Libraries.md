@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bodleian Library"
 ---
 
-Redirect to [Bodleian Library](/wiki/Bodleian_Library).
+Redirect to [Bodleian Library](Bodleian_Library.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Zina Saunders - Radagast the Tamer.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Zina Saunders - Radagast the Tamer.jpg</span>"
 page_id: 73222
 namespace: 6
 revision_id: 433315
@@ -36,8 +35,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Zina Saunders - Radagast the Tamer.jpg</span></th>
 <td class="description">
 <p><i>Radagast the Tamer</i>. 
-Created for <a href="/wiki/Middle-earth:_Against_the_Shadow" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Against_the_Shadow.md" title="Middle-earth: Against the Shadow">Middle-earth: Against the Shadow</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -45,8 +44,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1997</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Zina Saunders</td>
@@ -55,7 +52,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.facebook.com/photo.php?fbid=10159021689711501&amp;set=p.10159021689711501&amp;type=3" rel="noreferrer noopener" target="_blank">Facebook</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

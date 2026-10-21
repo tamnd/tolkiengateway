@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Society for the Study of Mediæval Languages and Literature"
 ---
 
-Redirect to [The Society for the Study of Mediæval Languages and Literature](/wiki/The_Society_for_the_Study_of_Mediæval_Languages_and_Literature).
+Redirect to [The Society for the Study of Mediæval Languages and Literature](../T/The_Society_for_the_Study_of_Mediæval_Languages_and_Literature.md).

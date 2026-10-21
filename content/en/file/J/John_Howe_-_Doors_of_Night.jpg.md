@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Door of Night.jpg"
 ---
 
-Redirect to [File:John Howe - The Door of Night.jpg](/wiki/File:John_Howe_-_The_Door_of_Night.jpg).
+Redirect to [File:John Howe - The Door of Night.jpg](John_Howe_-_The_Door_of_Night.jpg.md).

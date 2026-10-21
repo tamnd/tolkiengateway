@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Felaróf"
 ---
 
-Redirect to [Felaróf](/wiki/Felaróf).
+Redirect to [Felaróf](Felaróf.md).

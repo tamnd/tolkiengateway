@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old English"
 ---
 
-Redirect to [Old English](/wiki/Old_English).
+Redirect to [Old English](Old_English.md).

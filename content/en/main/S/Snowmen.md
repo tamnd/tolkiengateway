@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lossoth"
 ---
 
-Redirect to [Lossoth](/wiki/Lossoth).
+Redirect to [Lossoth](../L/Lossoth.md).

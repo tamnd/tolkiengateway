@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Wudu wyrtum fæst (II).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Wudu wyrtum fæst (II).png</span>"
 page_id: 71910
 namespace: 6
 revision_id: 428244
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Wudu wyrtum fæst" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). A drawing of Grendel’s mere from *[Beowulf](</wiki/Beowulf_(poem)> "Beowulf (poem)")*, created in July [1928](/wiki/1928).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Translated in *[Beowulf: A Translation and Commentary](/wiki/Beowulf:_A_Translation_and_Commentary)* as "It is not far hence... that that mere lies, over which there hang rimy thickets, and a wood clinging by its roots overshadows the water." Tolkien's prose translation describes the scene as Beowulf emerges triumphant from the lake, 'The waters of the lake lay dark and still beneath the clouds stained with deadly gore.'
+"Wudu wyrtum fæst" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). A drawing of Grendel’s mere from *[Beowulf](<../../main/B/Beowulf_(poem).md>)*, created in July [1928](../../main/_/1928.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Translated in *[Beowulf: A Translation and Commentary](../../main/B/Beowulf%253A_A_Translation_and_Commentary.md)* as "It is not far hence... that that mere lies, over which there hang rimy thickets, and a wood clinging by its roots overshadows the water." Tolkien's prose translation describes the scene as Beowulf emerges triumphant from the lake, 'The waters of the lake lay dark and still beneath the clouds stained with deadly gore.'
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Biography books"
 ---
 
-Redirect to [Category:Biography books](/wiki/Category:Biography_books).
+Redirect to [Category:Biography books](../../category/B/Biography_books.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lókë"
 ---
 
-Redirect to [Lókë](/wiki/Lókë).
+Redirect to [Lókë](Lókë.md).

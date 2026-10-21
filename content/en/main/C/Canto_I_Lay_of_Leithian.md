@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lay of Leithian Canto I"
 ---
 
-Redirect to [Lay of Leithian Canto I](/wiki/Lay_of_Leithian_Canto_I).
+Redirect to [Lay of Leithian Canto I](../L/Lay_of_Leithian_Canto_I.md).

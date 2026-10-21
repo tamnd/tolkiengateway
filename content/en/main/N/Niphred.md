@@ -13,14 +13,14 @@ categories:
   - "Noldorin nouns"
 ---
 
-**niphred** is a [Noldorin](/wiki/Noldorin) word meaning "fear, pallor".
+**niphred** is a [Noldorin](Noldorin.md) word meaning "fear, pallor".
 
 ## Etymology {#Etymology}
 
-The word contains the element *[nim](/wiki/Nim "Nim")* "white".
+The word contains the element *[nim](Nim.md)* "white".
 
-[OS](/wiki/OS) \**nimphrita*, [CT](/wiki/Common_Telerin "Common Telerin") \**nimprita*, [PQ](/wiki/PQ) \**ninkwiritâ* ([root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=NIKW&amp;action=edit&amp;redlink=1" title="NIKW (page does not exist)">NIKW</a>)
+[OS](../O/OS.md) \**nimphrita*, [CT](../C/Common_Telerin.md) \**nimprita*, [PQ](../P/PQ.md) \**ninkwiritâ* ([root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NIKW&amp;action=edit&amp;redlink=1" title="NIKW (page does not exist)">NIKW</a>)
 
 ## Examples {#Examples}
 
-- *[Niphredil](/wiki/Niphredil)* "little pallor"
+- *[Niphredil](Niphredil.md)* "little pallor"

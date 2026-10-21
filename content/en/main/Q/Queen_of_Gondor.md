@@ -1,6 +1,5 @@
 ---
 title: "Queen of Gondor"
-display_title: "<span class=\"mw-page-title-main\">Queen of Gondor</span>"
 page_id: 2736
 namespace: 0
 revision_id: 328020
@@ -14,4 +13,4 @@ categories:
   - "Mannish titles"
 ---
 
-**Queen of Gondor** was the title given to the spouse of the ruling [King of Gondor](/wiki/King_of_Gondor) (no Queen ruled [Gondor](/wiki/Gondor) in her own name at any time during its recorded history). The most famous Queens were [Berúthiel](/wiki/Ber%C3%BAthiel) (Queen to King [Tarannon Falastur](/wiki/Tarannon_Falastur)) and [Arwen Evenstar](/wiki/Arwen "Arwen"), the consort of [Aragorn Elessar](/wiki/Aragorn "Aragorn").
+**Queen of Gondor** was the title given to the spouse of the ruling [King of Gondor](../K/King_of_Gondor.md) (no Queen ruled [Gondor](../G/Gondor.md) in her own name at any time during its recorded history). The most famous Queens were [Berúthiel](../B/Berúthiel.md) (Queen to King [Tarannon Falastur](../T/Tarannon_Falastur.md)) and [Arwen Evenstar](../A/Arwen.md), the consort of [Aragorn Elessar](../A/Aragorn.md).

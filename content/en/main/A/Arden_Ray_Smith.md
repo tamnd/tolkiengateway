@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arden R. Smith"
 ---
 
-Redirect to [Arden R. Smith](/wiki/Arden_R._Smith).
+Redirect to [Arden R. Smith](Arden_R._Smith.md).

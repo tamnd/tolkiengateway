@@ -1,6 +1,5 @@
 ---
 title: "Pickthorn Family"
-display_title: "<span class=\"mw-page-title-main\">Pickthorn Family</span>"
 page_id: 29186
 namespace: 0
 revision_id: 321435
@@ -19,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/Piikki%C3%A4inen"
 ---
 
-**Pickthorn** was the surname of a family of [Bree-men](/wiki/Men_of_Bree "Men of Bree").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Little Tom Pickthorn from over the Hill" was one of the three Men of Bree killed fighting ruffians during the winter of 1418-1419.
+**Pickthorn** was the surname of a family of [Bree-men](../M/Men_of_Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Little Tom Pickthorn from over the Hill" was one of the three Men of Bree killed fighting ruffians during the winter of 1418-1419.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/Homeward_Bound" title="Homeward Bound">Homeward Bound</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../H/Homeward_Bound.md" title="Homeward Bound">Homeward Bound</a>&#34;</span>
 </li>
 </ol></div>

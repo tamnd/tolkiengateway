@@ -1,6 +1,5 @@
 ---
 title: "File:Ray Minn - The Valley of Imladris.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ray Minn - The Valley of Imladris.jpg</span>"
 page_id: 68365
 namespace: 6
 revision_id: 402464
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ray Minn</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/nicatorshields" rel="noreferrer noopener" target="_blank">Official ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ray_Minn" title="Tolkien Gateway:Copyrights/Ray Minn">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRay_Minn.md" title="Tolkien Gateway:Copyrights/Ray Minn">Permission for use on Tolkien Gateway</a></b></li></ul></div>

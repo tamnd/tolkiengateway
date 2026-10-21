@@ -1,6 +1,5 @@
 ---
 title: "CRL Group PLC"
-display_title: "<span class=\"mw-page-title-main\">CRL Group PLC</span>"
 page_id: 25614
 namespace: 0
 revision_id: 405007
@@ -14,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**CRL Group PLC** was the company that developed *[Bored of the Rings](</wiki/Bored_of_the_Rings_(video_game)> "Bored of the Rings (video game)")*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[The Boggit](/wiki/The_Boggit)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which together constitute the <i><a class="new" href="/w/index.php?title=Hairy_Toes&amp;action=edit&amp;redlink=1" title="Hairy Toes (page does not exist)">Hairy Toes</a></i> series. <span></span>
+**CRL Group PLC** was the company that developed *[Bored of the Rings](<../B/Bored_of_the_Rings_(video_game).md>)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[The Boggit](../T/The_Boggit.md)*,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> which together constitute the <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hairy_Toes&amp;action=edit&amp;redlink=1" title="Hairy Toes (page does not exist)">Hairy Toes</a></i> series. <span></span>
 
 ## References {#References}
 

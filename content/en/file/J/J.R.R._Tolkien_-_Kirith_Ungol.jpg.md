@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Kirith Ungol.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Kirith Ungol.jpg</span>"
 page_id: 71642
 namespace: 6
 revision_id: 427018
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Kirith Ungol](/wiki/Cirith_Ungol "Cirith Ungol")" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+"[Kirith Ungol](../../main/C/Cirith_Ungol.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

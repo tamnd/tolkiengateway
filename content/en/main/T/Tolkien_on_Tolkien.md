@@ -1,6 +1,5 @@
 ---
 title: "Tolkien on Tolkien"
-display_title: "<span class=\"mw-page-title-main\">Tolkien on Tolkien</span>"
 page_id: 26586
 namespace: 0
 revision_id: 246521
@@ -14,14 +13,14 @@ categories:
   - "Published articles by J.R.R. Tolkien"
 ---
 
-**Tolkien on Tolkien** is the title of a newspaper article published in [*Diplomat*, New York, vol. 18, no. 197](/wiki/Diplomat,_October_1966 "Diplomat, October 1966") (October [1966](/wiki/1966)). The article is a text composed from elements contained in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s autobiographical statement prepared for [Houghton Mifflin](/wiki/Houghton_Mifflin)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> and three paragraphs from [a 1963 letter to Nancy Smith](</wiki/Letter_to_Nancy_Smith_(Christmas_1963)> "Letter to Nancy Smith (Christmas 1963)").
+**Tolkien on Tolkien** is the title of a newspaper article published in [*Diplomat*, New York, vol. 18, no. 197](../D/Diplomat,_October_1966.md) (October [1966](../_/1966.md)). The article is a text composed from elements contained in [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s autobiographical statement prepared for [Houghton Mifflin](../H/Houghton_Mifflin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> and three paragraphs from [a 1963 letter to Nancy Smith](<../L/Letter_to_Nancy_Smith_(Christmas_1963).md>).
 
-"Tolkien on Tolkien" is analyzed in *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide):* *[The J.R.R. Tolkien Companion and Guide: Reader's Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")* (by [Wayne G. Hammond](/wiki/Wayne_G._Hammond) and [Christina Scull](/wiki/Christina_Scull)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+"Tolkien on Tolkien" is analyzed in *[The J.R.R. Tolkien Companion and Guide](The_J.R.R._Tolkien_Companion_and_Guide.md):* *[The J.R.R. Tolkien Companion and Guide: Reader's Guide](The_J.R.R._Tolkien_Companion_and_Guide.md)* (by [Wayne G. Hammond](../W/Wayne_G._Hammond.md) and [Christina Scull](../C/Christina_Scull.md)).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Notes {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Printed in <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="/wiki/Letter_165" title="Letter 165">Letter 165</a>, (undated, written <a href="/wiki/June" title="June">June</a> <a href="/wiki/1955" title="1955">1955</a>).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Printed in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="../L/Letter_165.md" title="Letter 165">Letter 165</a>, (undated, written <a href="../J/June.md" title="June">June</a> <a href="../_/1955.md" title="1955">1955</a>).</span>
 </li>
 </ol></div></span>
 

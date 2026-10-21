@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Frédéric Bennett - Morgoth.jpg"
 ---
 
-Redirect to [File:Frédéric Bennett - Morgoth.jpg](/wiki/File:Frédéric_Bennett_-_Morgoth.jpg).
+Redirect to [File:Frédéric Bennett - Morgoth.jpg](Frédéric_Bennett_-_Morgoth.jpg.md).

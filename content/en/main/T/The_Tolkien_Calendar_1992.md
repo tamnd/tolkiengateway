@@ -15,6 +15,6 @@ images:
   - "The_Tolkien_Calendar_1992.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Calendar_1992.jpg"><img src="/w/images/3/30/The_Tolkien_Calendar_1992.jpg" decoding="async" loading="lazy" width="234" height="350" class="mw-file-element" data-file-width="234" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1992.jpg.md"><img src="https://tolkiengateway.net/w/images/3/30/The_Tolkien_Calendar_1992.jpg" decoding="async" loading="lazy" width="234" height="350" class="mw-file-element" data-file-width="234" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Calendar 1992** was published by Seckja Tolkienowska, Poland (Polish Tolkien Society) and was edited by Andrzej Kowalski. The calendar features black and white illustrations by [Małgorzata Pudlik](/wiki/Ma%C5%82gorzata_Pudlik) and <a class="new" href="/w/index.php?title=Aleksandra_Kosciuszuk&amp;action=edit&amp;redlink=1" title="Aleksandra Kosciuszuk (page does not exist)">Aleksandra Kosciuszuk</a>. Two versions were created, an A3 size and an unbound A4 size.
+**The Tolkien Calendar 1992** was published by Seckja Tolkienowska, Poland (Polish Tolkien Society) and was edited by Andrzej Kowalski. The calendar features black and white illustrations by [Małgorzata Pudlik](../M/Małgorzata_Pudlik.md) and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Aleksandra_Kosciuszuk&amp;action=edit&amp;redlink=1" title="Aleksandra Kosciuszuk (page does not exist)">Aleksandra Kosciuszuk</a>. Two versions were created, an A3 size and an unbound A4 size.

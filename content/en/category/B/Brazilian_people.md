@@ -1,6 +1,5 @@
 ---
 title: "Category:Brazilian people"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brazilian people</span>"
 page_id: 44800
 namespace: 14
 revision_id: 235643

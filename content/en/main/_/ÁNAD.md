@@ -1,6 +1,5 @@
 ---
 title: "ÁNAD"
-display_title: "<span class=\"mw-page-title-main\">ÁNAD</span>"
 page_id: 30231
 namespace: 0
 revision_id: 134143
@@ -15,17 +14,17 @@ sort_keys:
   "Roots": "ANAD"
 ---
 
-**ÁNAD** and **ANDA** are [Elvish](/wiki/Elvish) [roots](/wiki/Sundocarme "Sundocarme") related to longness.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ÁNAD** and **ANDA** are [Elvish](../E/Elvish.md) [roots](../S/Sundocarme.md) related to longness.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *andā* ("long")
-    - [Quenya](/wiki/Quenya): *[anda](/wiki/Anda "Anda")*; *[andave](/wiki/Andave "Andave")*
-    - [Noldorin](/wiki/Noldorin) ([Sindarin](/wiki/Sindarin)): *[and](/wiki/And "And")*
+- [Primitive Quendian](../P/Primitive_Quendian.md): *andā* ("long")
+    - [Quenya](../Q/Quenya.md): *[anda](../A/Anda.md)*; *[andave](../A/Andave.md)*
+    - [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): *[and](../A/And.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
 </ol></div>

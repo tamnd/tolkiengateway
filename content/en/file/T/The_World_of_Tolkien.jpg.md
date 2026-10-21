@@ -1,6 +1,5 @@
 ---
 title: "File:The World of Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The World of Tolkien.jpg</span>"
 page_id: 26377
 namespace: 6
 revision_id: 214453

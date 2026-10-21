@@ -1,6 +1,5 @@
 ---
 title: "File:Oxford Oratory.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oxford Oratory.jpg</span>"
 page_id: 58619
 namespace: 6
 revision_id: 324450

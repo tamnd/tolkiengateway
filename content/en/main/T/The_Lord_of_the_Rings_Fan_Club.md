@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings Fan Club"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings Fan Club</span>"
 page_id: 6731
 namespace: 0
 revision_id: 351806
@@ -14,11 +13,11 @@ categories:
   - "Organizations (real-world)"
 ---
 
-**The Lord of the Rings Fan Club** was an official club of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). [Decipher](/wiki/Decipher) ran the club which consisted of 6 magazine issues a year for 3 years, forums, and a store.
+**The Lord of the Rings Fan Club** was an official club of [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>). [Decipher](../D/Decipher.md) ran the club which consisted of 6 magazine issues a year for 3 years, forums, and a store.
 
 ## See also {#See_also}
 
-- [The Lord of the Rings Fan Club Official Movie Magazine](/wiki/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine)
+- [The Lord of the Rings Fan Club Official Movie Magazine](The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
 
 ## External links {#External_links}
 

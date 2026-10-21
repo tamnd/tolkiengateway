@@ -1,6 +1,5 @@
 ---
 title: "File:Maria Awsejkowa - The Morning Star and the Evening Star.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maria Awsejkowa - The Morning Star and the Evening Star.jpg</span>"
 page_id: 67728
 namespace: 6
 revision_id: 395141
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Maria Awsejkowa‎</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/ephaistien" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/ephaistien</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Maria_Awsejkowa" title="Tolkien Gateway:Copyrights/Maria Awsejkowa">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMaria_Awsejkowa.md" title="Tolkien Gateway:Copyrights/Maria Awsejkowa">Permission for use on Tolkien Gateway</a></b></li></ul></div>

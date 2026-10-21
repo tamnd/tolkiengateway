@@ -1,6 +1,5 @@
 ---
 title: "Letter to Anthony D. Howlett"
-display_title: "<span class=\"mw-page-title-main\">Letter to Anthony D. Howlett</span>"
 page_id: 23746
 namespace: 0
 revision_id: 387835
@@ -17,17 +16,17 @@ images:
   - "Anthony_D._Howlett_28_May_1969.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Anthony_D._Howlett_28_May_1969.jpg"><img src="/w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/300px-Anthony_D._Howlett_28_May_1969.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/450px-Anthony_D._Howlett_28_May_1969.jpg 1.5x, /w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/600px-Anthony_D._Howlett_28_May_1969.jpg 2x" data-file-width="650" data-file-height="650"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anthony_D._Howlett_28_May_1969.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/300px-Anthony_D._Howlett_28_May_1969.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/450px-Anthony_D._Howlett_28_May_1969.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/52/Anthony_D._Howlett_28_May_1969.jpg/600px-Anthony_D._Howlett_28_May_1969.jpg 2x" data-file-width="650" data-file-height="650"/></a><figcaption></figcaption></figure>
 
-On [28 May](/wiki/28_May) [1969](/wiki/1969), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Anthony D. Howlett**.
+On [28 May](../_/28_May.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Anthony D. Howlett**.
 
-- **Subject:** Discussion of the name "[Rivendell](/wiki/Rivendell)"
+- **Subject:** Discussion of the name "[Rivendell](../R/Rivendell.md)"
 - **Description:** 2 pages, 8vo, c/o George Allen and Unwin \[Bournemouth\]
-- **Publication:** Excerpts were published in *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](/wiki/Sotheby%27s_Valuable_Printed_Books_and_Manuscripts_13_December_2001)*.
+- **Publication:** Excerpts were published in *[Sotheby's Valuable Printed Books and Manuscripts 13 December 2001](../S/Sotheby's_Valuable_Printed_Books_and_Manuscripts_13_December_2001.md)*.
 
 ## Contents {#Contents}
 
-"Among Sotheby's 14 actual Tolkien items to be auctioned by on December 13 there are letters from J.R.R. Tolkien, and there are detailed pictures of them too. Two of these letters contain a very interesting linguistic material. One of them (to Anthony D. Howlett, from May 28, 1969) shows a discussion of the name Rivendell, with examples of tengwa renderings of Imladrist and Rivendell. The accompanying text is also of great interest. It explains that Sindarin imlad means 'flat-floored valley' and that rist is 'cleft'. Best English rendering of this name is, according to Tolkien, Corfedale or even Corfebottom. Another letter (to [Peter Alford, from the years 1956-58](</wiki/Letter_to_Peter_Alford_(1956-58)> "Letter to Peter Alford (1956-58)")) provides a lengthy discussion of the Elvish greeting: Elen síla lúmenn' ómentielmo. One thing attracts our attention: Tolkien explains the pronominal possessive suffix -lma as a variety of -lme 'we' which in fact means: 'you and I/we'. The Quenya verb sil- 'shine white' is derived - according to this letter - from the stem ÞIL-."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"Among Sotheby's 14 actual Tolkien items to be auctioned by on December 13 there are letters from J.R.R. Tolkien, and there are detailed pictures of them too. Two of these letters contain a very interesting linguistic material. One of them (to Anthony D. Howlett, from May 28, 1969) shows a discussion of the name Rivendell, with examples of tengwa renderings of Imladrist and Rivendell. The accompanying text is also of great interest. It explains that Sindarin imlad means 'flat-floored valley' and that rist is 'cleft'. Best English rendering of this name is, according to Tolkien, Corfedale or even Corfebottom. Another letter (to [Peter Alford, from the years 1956-58](<Letter_to_Peter_Alford_(1956-58).md>)) provides a lengthy discussion of the Elvish greeting: Elen síla lúmenn' ómentielmo. One thing attracts our attention: Tolkien explains the pronominal possessive suffix -lma as a variety of -lme 'we' which in fact means: 'you and I/we'. The Quenya verb sil- 'shine white' is derived - according to this letter - from the stem ÞIL-."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Excerpts {#Excerpts}
 
@@ -46,7 +45,7 @@ Noting that the name "*...is not an exact translation of Imladrist...*", Tolkien
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Elfling" title="Elfling">Elfling</a>, message from <a href="/wiki/Anders_Stenstr%C3%B6m" title="Anders Stenström">Anders Stenström</a>. R.D.)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../E/Elfling.md" title="Elfling">Elfling</a>, message from <a href="../A/Anders_Stenström.md" title="Anders Stenström">Anders Stenström</a>. R.D.)</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.sothebys.com/app/live/lot/LotDetail.jsp?lot_id=34NDT" rel="noreferrer noopener" target="_blank">Sothebys.com, Lot 557</a>, accessed 1 October 2010</span>
 </li>

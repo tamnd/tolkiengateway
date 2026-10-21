@@ -15,8 +15,8 @@ images:
   - "American_Tolkien_Society_Calendar_1991.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:American_Tolkien_Society_Calendar_1991.jpg"><img src="/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/300px-American_Tolkien_Society_Calendar_1991.jpg" decoding="async" loading="lazy" width="300" height="405" class="mw-file-element" srcset="/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/450px-American_Tolkien_Society_Calendar_1991.jpg 1.5x, /w/images/b/b9/American_Tolkien_Society_Calendar_1991.jpg 2x" data-file-width="512" data-file-height="691"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/American_Tolkien_Society_Calendar_1991.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/300px-American_Tolkien_Society_Calendar_1991.jpg" decoding="async" loading="lazy" width="300" height="405" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/American_Tolkien_Society_Calendar_1991.jpg/450px-American_Tolkien_Society_Calendar_1991.jpg 1.5x, https://tolkiengateway.net/w/images/b/b9/American_Tolkien_Society_Calendar_1991.jpg 2x" data-file-width="512" data-file-height="691"/></a><figcaption></figcaption></figure>
 
-The **American Tolkien Society Calendar 1991** is a small self-adhesive calendar published by the [American Tolkien Society](/wiki/American_Tolkien_Society).
+The **American Tolkien Society Calendar 1991** is a small self-adhesive calendar published by the [American Tolkien Society](American_Tolkien_Society.md).
 
 - Dimensions: 3 x 4 inches

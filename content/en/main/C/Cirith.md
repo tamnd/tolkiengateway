@@ -13,21 +13,21 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>cirith</b></i> is a noun meaning "pass" or "cleft" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with the [Quenya](/wiki/Quenya) term *[cilya](/wiki/Cilya "Cilya")*.
+<i><b>cirith</b></i> is a noun meaning "pass" or "cleft" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with the [Quenya](../Q/Quenya.md) term *[cilya](Cilya.md)*.
 
 ## Examples {#Examples}
 
-- *[Cirith Gorgor](/wiki/Cirith_Gorgor)* = "Pass of Horror"
-- *[Cirith Ninniach](/wiki/Cirith_Ninniach)* = "Pass of the Slender Crossing"
-- *[Cirith Ungol](/wiki/Cirith_Ungol)* = "Cleft of the Spider"
+- *[Cirith Gorgor](Cirith_Gorgor.md)* = "Pass of Horror"
+- *[Cirith Ninniach](Cirith_Ninniach.md)* = "Pass of the Slender Crossing"
+- *[Cirith Ungol](Cirith_Ungol.md)* = "Cleft of the Spider"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>kir</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, entry <i>kir</i></span>
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Anke Eißmann"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Anke Eißmann</span>"
 page_id: 8266
 namespace: 14
 revision_id: 181934
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Eißmann, Anke"
 ---
 
-This category lists all **images by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann)**.
+This category lists all **images by [Anke Eißmann](../../main/A/Anke_Eißmann.md)**.

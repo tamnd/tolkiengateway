@@ -1,6 +1,5 @@
 ---
 title: "File:The Roadkill of Middle Earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Roadkill of Middle Earth.jpg</span>"
 page_id: 26630
 namespace: 6
 revision_id: 214436

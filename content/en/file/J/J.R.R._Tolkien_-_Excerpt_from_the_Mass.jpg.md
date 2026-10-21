@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Excerpt from the Mass.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Excerpt from the Mass.jpg</span>"
 page_id: 66539
 namespace: 6
 revision_id: 386310
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's excerpt from the canon of the Mass with [Tengwar](/wiki/Tengwar) transcription. Taken from [*Parma Eldalamberon* 20](/wiki/Parma_Eldalamberon_20 "Parma Eldalamberon 20"), p. 106: "*vere dignum aequum / et salutare nos tibi*".
+Tolkien's excerpt from the canon of the Mass with [Tengwar](../../main/T/Tengwar.md) transcription. Taken from [*Parma Eldalamberon* 20](../../main/P/Parma_Eldalamberon_20.md), p. 106: "*vere dignum aequum / et salutare nos tibi*".
 
 ## Licensing {#Licensing}
 

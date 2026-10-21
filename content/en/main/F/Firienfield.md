@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Firienfeld"
 ---
 
-Redirect to [Firienfeld](/wiki/Firienfeld).
+Redirect to [Firienfeld](Firienfeld.md).

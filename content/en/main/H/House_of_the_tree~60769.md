@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Tree"
 ---
 
-Redirect to [House of the Tree](/wiki/House_of_the_Tree).
+Redirect to [House of the Tree](House_of_the_Tree.md).

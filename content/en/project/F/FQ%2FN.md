@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured quotes/Nominations"
 ---
 
-Redirect to [Tolkien Gateway:Featured quotes/Nominations](/wiki/Tolkien_Gateway:Featured_quotes/Nominations).
+Redirect to [Tolkien Gateway:Featured quotes/Nominations](Featured_quotes%252FNominations.md).

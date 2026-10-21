@@ -1,6 +1,5 @@
 ---
 title: "File:Olivier Frot - French MERP Cover Design.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Olivier Frot - French MERP Cover Design.jpg</span>"
 page_id: 74811
 namespace: 6
 revision_id: 439922
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Olivier Frot - French MERP Cover Design.jpg</span></th>
 <td class="description">
-<p>Logo design for the cover of the French edition of <a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">Middle-earth Role Playing</a>. The initial <i>L</i> for <i>Le Jeu de Rôle des Terres du Milieu</i>.
+<p>Logo design for the cover of the French edition of <a href="../../main/M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>. The initial <i>L</i> for <i>Le Jeu de Rôle des Terres du Milieu</i>.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Olivier_Frot" title="Olivier Frot">Olivier Frot</a></td>
+<td><a href="../../main/O/Olivier_Frot.md" title="Olivier Frot">Olivier Frot</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/krukof2/art/Lord-of-The-Ring-RPG-185890485" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

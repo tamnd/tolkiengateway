@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noldor"
 ---
 
-Redirect to [Noldor](/wiki/Noldor).
+Redirect to [Noldor](../N/Noldor.md).

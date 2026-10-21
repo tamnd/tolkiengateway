@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wídfara"
 ---
 
-Redirect to [Wídfara](/wiki/Wídfara).
+Redirect to [Wídfara](Wídfara.md).

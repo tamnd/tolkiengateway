@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Black Speech.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Black Speech.jpg</span>"
 page_id: 70454
 namespace: 6
 revision_id: 419774
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-First instance of the [Ring-inscription](/wiki/Ring-inscription) written by [Tolkien](/wiki/Tolkien). It is written not in the "mode of Eregion", but in the "Phonetic form".
+First instance of the [Ring-inscription](../../main/R/Ring-inscription.md) written by [Tolkien](../../main/T/Tolkien.md). It is written not in the "mode of Eregion", but in the "Phonetic form".
 
 ## Licensing {#Licensing}
 

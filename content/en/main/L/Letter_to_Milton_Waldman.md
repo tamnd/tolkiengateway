@@ -1,6 +1,5 @@
 ---
 title: "Letter to Milton Waldman"
-display_title: "<span class=\"mw-page-title-main\">Letter to Milton Waldman</span>"
 page_id: 23741
 namespace: 0
 revision_id: 387998
@@ -16,18 +15,18 @@ sort_keys:
   "Letters": "Waldman, Milton"
 ---
 
-In [1951](/wiki/1951), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Milton Waldman](/wiki/Milton_Waldman)**.
+In [1951](../_/1951.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Milton Waldman](../M/Milton_Waldman.md)**.
 
 - **Content:**
-    - A part of this letter, summarizing *The Silmarillion*, was first published as [Letter 131](/wiki/Letter_131) in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*. It has also been included as an introduction to *[The Silmarillion](/wiki/The_Silmarillion)*, since the 30th Anniversary edition of the book.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - A part of this letter, summarizing *The Silmarillion*, was first published as [Letter 131](Letter_131.md) in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. It has also been included as an introduction to *[The Silmarillion](../T/The_Silmarillion.md)*, since the 30th Anniversary edition of the book.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Content:**
-    - The other part of the letter, summarizing *The Lord of the Rings*, was included and commented upon in *[The Lord of the Rings: A Reader's Companion](/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion)*. It was also published independently, together with the complete letter to Waldman, in a French translation *[La Feuille de la Compagnie 2](/wiki/La_Feuille_de_la_Compagnie_2)*.
+    - The other part of the letter, summarizing *The Lord of the Rings*, was included and commented upon in *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*. It was also published independently, together with the complete letter to Waldman, in a French translation *[La Feuille de la Compagnie 2](La_Feuille_de_la_Compagnie_2.md)*.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=85400" rel="noreferrer noopener" target="_blank">&#34;The Silmarillion. 2007&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 21 December 2011</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=85400" rel="noreferrer noopener" target="_blank">&#34;The Silmarillion. 2007&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 21 December 2011</span></cite></span>
 </li>
 </ol></div>

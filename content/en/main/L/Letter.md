@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters (disambiguation)"
 ---
 
-Redirect to [Letters (disambiguation)](/wiki/Letters_(disambiguation)).
+Redirect to [Letters (disambiguation)](<Letters_(disambiguation).md>).

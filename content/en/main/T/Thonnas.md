@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thónnas"
 ---
 
-Redirect to [Thónnas](/wiki/Thónnas).
+Redirect to [Thónnas](Thónnas.md).

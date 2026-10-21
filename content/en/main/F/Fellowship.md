@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fellowship of the Ring"
 ---
 
-Redirect to [Fellowship of the Ring](/wiki/Fellowship_of_the_Ring).
+Redirect to [Fellowship of the Ring](Fellowship_of_the_Ring.md).

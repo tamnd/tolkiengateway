@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phial of Galadriel"
 ---
 
-Redirect to [Phial of Galadriel](/wiki/Phial_of_Galadriel).
+Redirect to [Phial of Galadriel](../P/Phial_of_Galadriel.md).

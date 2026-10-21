@@ -1,6 +1,5 @@
 ---
 title: "Category:JRRTE contributors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">JRRTE contributors</span>"
 page_id: 21342
 namespace: 14
 revision_id: 178016
@@ -13,4 +12,4 @@ categories:
   - "Authors"
 ---
 
-Authors who have contributed to *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*.
+Authors who have contributed to *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../../main/J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*.

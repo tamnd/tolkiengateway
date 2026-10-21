@@ -1,6 +1,5 @@
 ---
 title: "Help:Signatures"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Signatures</span>"
 page_id: 20190
 namespace: 12
 revision_id: 271690
@@ -22,7 +21,7 @@ This page contains information on how to create a custom **signature** to sign y
     - Save the changes that you have made to the page.
 - Create a subpage in your userspace named <b>User:<i>your username</i>/autosig</b> (i.e. **User:Joe Bloggs/autosig**).
     - Edit this new page and type in the following (exactly as you see it but with your name; do not use full code this time):<br> **{{User:your username/sig}}**
-- In [Special:Preferences](/wiki/Special:Preferences), make the following changes:
+- In [Special:Preferences](https://tolkiengateway.net/wiki/Special:Preferences), make the following changes:
     - In the nickname section type <b>{{User:<i>your username</i>/autosig}}</b>
     - Ensure that the name in the nickname section is between double curly brackets, i.e. {{ and }}.
     - Tick the **raw signatures** check-box (this is **vital** as it ensures that when you sign only the signature will be shown, and not all the color codes etc that you've used to make it).
@@ -42,7 +41,7 @@ This page contains information on how to create a custom **signature** to sign y
     - \[\[User:Joe Bloggs\|Joe\]\]\[\[User talk:Joe Bloggs\|Bloggs\]\]
         - This links to the **User page** of a user named **Joe Bloggs** via the \[\[User:Joe Bloggs\|Joe\]\] element.
         - And to the **User talk** page from the \[\[User talk:Joe Bloggs\|Bloggs\]\] element.
-        - This sig is rendered as [Joe](/wiki/User:Joe_Bloggs "User:Joe Bloggs")[Bloggs](/wiki/User_talk:Joe_Bloggs "User talk:Joe Bloggs").
+        - This sig is rendered as [Joe](https://tolkiengateway.net/wiki/User:Joe_Bloggs)[Bloggs](https://tolkiengateway.net/wiki/User_talk:Joe_Bloggs).
 
 ### Using colours {#Using_colours}
 
@@ -51,7 +50,7 @@ This page contains information on how to create a custom **signature** to sign y
     - \[\[User:Joe Bloggs\|&lt;span style="color:#FF0000"&gt;Joe&lt;/span&gt;\]\]\[\[User talk:Joe Bloggs\|&lt;span style="color:#0000FF"&gt;Bloggs&lt;/span&gt;\]\]
         - This links to the **User page**, in <b><span style="color:#FF0000">red</span></b>, via the \[\[User:Joe Bloggs\|&lt;span style="color:#FF0000"&gt;Joe&lt;/span&gt;\]\] element.
         - And to the **User talk** page, in <b><span style="color:#0000FF">blue</span></b>, via the \[\[User talk:Joe Bloggs\|&lt;span style="color:#0000FF"&gt;Bloggs&lt;/span&gt;\]\] element.
-        - This signature is rendered as <a href="/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a> .
+        - This signature is rendered as <a href="https://tolkiengateway.net/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="https://tolkiengateway.net/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a> .
 - You can use this <a class="external text" href="http://www.w3schools.com/html/html_colors.asp" rel="noreferrer noopener" target="_blank">colour palette</a> to help you.
 
 ### Using fonts {#Using_fonts}
@@ -61,7 +60,7 @@ This page contains information on how to create a custom **signature** to sign y
     - As a result, it's good practice to select a common font, which is supported by as many browsers/operating systems as is possible, if a signature is to render properly for other LOTR wiki.
 - For example, to use the common 'Impact' font in the **Joe Bloggs** signature discussed above, use:
     - &lt;font face="Impact"&gt;\[\[User:Joe Bloggs\|&lt;span style="color:#FF0000"&gt;Joe&lt;/span&gt;\]\]\[\[User talk:Joe Bloggs\|&lt;span style="color:#0000FF"&gt;Bloggs&lt;/span&gt;\]\]&lt;/font&gt;
-    - This signature is rendered as <font face="Impact"><a href="/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a></font> .
+    - This signature is rendered as <font face="Impact"><a href="https://tolkiengateway.net/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="https://tolkiengateway.net/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a></font> .
 
 #### Font Sizes {#Font_Sizes}
 
@@ -75,15 +74,15 @@ This page contains information on how to create a custom **signature** to sign y
 <pre>&lt;font size=&#34;5&#34; face=&#34;Impact&#34;&gt;[[User:Joe Bloggs|&lt;span style=&#34;color:#FF0000&#34;&gt;Joe&lt;/span&gt;]]
 [[User talk:Joe Bloggs|&lt;span style=&#34;color:#0000FF&#34;&gt;Bloggs&lt;/span&gt;]]&lt;/font&gt;</pre>
 
-- This signature is rendered as <font face="Impact" size="5"><a href="/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a></font>.
+- This signature is rendered as <font face="Impact" size="5"><a href="https://tolkiengateway.net/wiki/User:Joe_Bloggs" title="User:Joe Bloggs"><span style="color:#FF0000">Joe</span></a><a href="https://tolkiengateway.net/wiki/User_talk:Joe_Bloggs" title="User talk:Joe Bloggs"><span style="color:#0000FF">Bloggs</span></a></font>.
 
 ## Examples {#Examples}
 
-- [User:Aule the Smith/sig](/wiki/User:Aule_the_Smith/sig)
-- [User:Breragor/sig](/wiki/User:Breragor/sig)
-- [User:Dúnadan/sig](/wiki/User:D%C3%BAnadan/sig)
-- [User:Ederchil/sig](/wiki/User:Ederchil/sig)
-- [User:Gamma Metroid/sig](/wiki/User:Gamma_Metroid/sig)
-- [User:KingAragorn/sig](/wiki/User:KingAragorn/sig)
-- [User:Mith/sig](/wiki/User:Mith/sig)
-- [User:Theoden1/sig](/wiki/User:Theoden1/sig)
+- [User:Aule the Smith/sig](https://tolkiengateway.net/wiki/User:Aule_the_Smith/sig)
+- [User:Breragor/sig](https://tolkiengateway.net/wiki/User:Breragor/sig)
+- [User:Dúnadan/sig](https://tolkiengateway.net/wiki/User:D%C3%BAnadan/sig)
+- [User:Ederchil/sig](https://tolkiengateway.net/wiki/User:Ederchil/sig)
+- [User:Gamma Metroid/sig](https://tolkiengateway.net/wiki/User:Gamma_Metroid/sig)
+- [User:KingAragorn/sig](https://tolkiengateway.net/wiki/User:KingAragorn/sig)
+- [User:Mith/sig](https://tolkiengateway.net/wiki/User:Mith/sig)
+- [User:Theoden1/sig](https://tolkiengateway.net/wiki/User:Theoden1/sig)

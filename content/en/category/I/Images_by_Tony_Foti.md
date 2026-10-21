@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tony Foti"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tony Foti</span>"
 page_id: 51643
 namespace: 14
 revision_id: 279755

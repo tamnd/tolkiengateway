@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - The Yondershire map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - The Yondershire map.jpg</span>"
 page_id: 61963
 namespace: 6
 revision_id: 349133
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the "Yondershire", a part of [the Shire](/wiki/The_Shire "The Shire") in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the "Yondershire", a part of [the Shire](../../main/T/The_Shire.md) in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

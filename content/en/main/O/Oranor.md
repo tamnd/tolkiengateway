@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anarya"
 ---
 
-Redirect to [Anarya](/wiki/Anarya).
+Redirect to [Anarya](../A/Anarya.md).

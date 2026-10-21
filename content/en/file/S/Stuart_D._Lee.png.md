@@ -1,6 +1,5 @@
 ---
 title: "File:Stuart D. Lee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stuart D. Lee.png</span>"
 page_id: 38276
 namespace: 6
 revision_id: 185887
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Stuart D. Lee](/wiki/Stuart_D._Lee).
+Photograph of [Stuart D. Lee](../../main/S/Stuart_D._Lee.md).
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Photograph of [Stuart D. Lee](/wiki/Stuart_D._Lee).
 </p>
 <ul><li><b>Name:</b> Stuart D. Lee</li>
 <li><b>Website:</b> <a class="external text" href="http://users.ox.ac.uk/~stuart/Site/About_Me.html" rel="noreferrer noopener" target="_blank">Stuart D. Lee</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stuart_D._Lee" title="Tolkien Gateway:Copyrights/Stuart D. Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStuart_D._Lee.md" title="Tolkien Gateway:Copyrights/Stuart D. Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

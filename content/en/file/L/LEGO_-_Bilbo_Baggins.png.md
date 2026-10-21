@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Bilbo Baggins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Bilbo Baggins.png</span>"
 page_id: 73114
 namespace: 6
 revision_id: 432862
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bilbo Baggins](/wiki/Bilbo_Baggins) - [LEGO](/wiki/Lego "Lego") minifigure
+[Bilbo Baggins](../../main/B/Bilbo_Baggins.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

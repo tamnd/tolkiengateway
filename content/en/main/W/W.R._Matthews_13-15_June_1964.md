@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to W.R. Matthews"
 ---
 
-Redirect to [Letter to W.R. Matthews](/wiki/Letter_to_W.R._Matthews).
+Redirect to [Letter to W.R. Matthews](../L/Letter_to_W.R._Matthews.md).

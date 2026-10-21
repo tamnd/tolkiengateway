@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Silmarillion: Thirty Years On"
 ---
 
-Redirect to [The Silmarillion: Thirty Years On](/wiki/The_Silmarillion:_Thirty_Years_On).
+Redirect to [The Silmarillion: Thirty Years On](The_Silmarillion%253A_Thirty_Years_On.md).

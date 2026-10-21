@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ballantine Books"
 ---
 
-Redirect to [Ballantine Books](/wiki/Ballantine_Books).
+Redirect to [Ballantine Books](Ballantine_Books.md).

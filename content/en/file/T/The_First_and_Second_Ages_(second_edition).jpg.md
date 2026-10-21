@@ -1,6 +1,5 @@
 ---
 title: "File:The First and Second Ages (second edition).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The First and Second Ages (second edition).jpg</span>"
 page_id: 59043
 namespace: 6
 revision_id: 327209

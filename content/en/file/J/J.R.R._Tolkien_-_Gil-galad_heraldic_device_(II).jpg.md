@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gil-galad heraldic device (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gil-galad heraldic device (II).jpg</span>"
 page_id: 64792
 namespace: 6
 revision_id: 432928
@@ -29,7 +28,7 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/309/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #309</a>. Published in:
 
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 193, #190
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 193, #190
 
 ## Licensing {#Licensing}
 

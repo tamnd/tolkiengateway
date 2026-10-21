@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beorn (son of Heden)"
 ---
 
-Redirect to [Beorn (son of Heden)](/wiki/Beorn_(son_of_Heden)).
+Redirect to [Beorn (son of Heden)](<Beorn_(son_of_Heden).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sørina Higgins"
 ---
 
-Redirect to [Sørina Higgins](/wiki/Sørina_Higgins).
+Redirect to [Sørina Higgins](Sørina_Higgins.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Black Orc of Mordor - Premium Format Figure.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Black Orc of Mordor - Premium Format Figure.png</span>"
 page_id: 38848
 namespace: 6
 revision_id: 191423

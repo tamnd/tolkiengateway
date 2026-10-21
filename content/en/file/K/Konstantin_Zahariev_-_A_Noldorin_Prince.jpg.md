@@ -1,6 +1,5 @@
 ---
 title: "File:Konstantin Zahariev - A Noldorin Prince.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Konstantin Zahariev - A Noldorin Prince.jpg</span>"
 page_id: 59427
 namespace: 6
 revision_id: 330683
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Konstantin Zahariev</li>
 <li><b>Website:</b> <a class="external text" href="http://konstantinzahariev.artstation.com/" rel="noreferrer noopener" target="_blank">Zahariev&#39;s ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Konstantin_Zahariev" title="Tolkien Gateway:Copyrights/Konstantin Zahariev">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKonstantin_Zahariev.md" title="Tolkien Gateway:Copyrights/Konstantin Zahariev">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Family tree templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Family tree templates</span>"
 page_id: 34849
 namespace: 14
 revision_id: 162530

@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - War of Three Peaks.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - War of Three Peaks.png</span>"
 page_id: 62076
 namespace: 6
 revision_id: 350521
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: War of Three Peaks](/wiki/The_Lord_of_the_Rings_Online:_War_of_Three_Peaks)*.
+Logo for *[The Lord of the Rings Online: War of Three Peaks](../../main/T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md)*.
 
 ## Licensing {#Licensing}
 

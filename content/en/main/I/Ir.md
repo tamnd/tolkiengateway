@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ír"
 ---
 
-Redirect to [Ír](/wiki/Ír).
+Redirect to [Ír](../_/Ír.md).

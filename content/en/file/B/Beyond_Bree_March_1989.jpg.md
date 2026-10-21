@@ -1,6 +1,5 @@
 ---
 title: "File:Beyond Bree March 1989.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beyond Bree March 1989.jpg</span>"
 page_id: 26745
 namespace: 6
 revision_id: 235313

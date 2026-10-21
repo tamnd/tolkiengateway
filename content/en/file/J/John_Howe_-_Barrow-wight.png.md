@@ -1,6 +1,5 @@
 ---
 title: "File:John Howe - Barrow-wight.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Howe - Barrow-wight.png</span>"
 page_id: 71817
 namespace: 6
 revision_id: 427922

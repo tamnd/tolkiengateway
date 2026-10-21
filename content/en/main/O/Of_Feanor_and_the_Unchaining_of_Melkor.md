@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Fëanor and the Unchaining of Melkor"
 ---
 
-Redirect to [Of Fëanor and the Unchaining of Melkor](/wiki/Of_Fëanor_and_the_Unchaining_of_Melkor).
+Redirect to [Of Fëanor and the Unchaining of Melkor](Of_Fëanor_and_the_Unchaining_of_Melkor.md).

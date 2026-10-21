@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "RIG"
 ---
 
-Redirect to [RIG](/wiki/RIG).
+Redirect to [RIG](RIG.md).

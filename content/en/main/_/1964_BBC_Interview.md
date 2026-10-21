@@ -1,6 +1,5 @@
 ---
 title: "1964 BBC Interview"
-display_title: "<span class=\"mw-page-title-main\">1964 BBC Interview</span>"
 page_id: 25312
 namespace: 0
 revision_id: 437783
@@ -13,11 +12,11 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**1964 BBC Interview** is a [recorded interview](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien "Index:Audio recordings of J.R.R. Tolkien") in two parts with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) on [November 26](/wiki/26_November "26 November"), [1964](/wiki/1964). The first part of the interview was made by Irene Slade for the [BBC](/wiki/BBC) radio programme *Reluctant Olympians*. The other part of the interview was more informal, and was made by [Denys Gueroult](/wiki/Denys_Gueroult) as a trial for an official interview that would later take place in 1965 (see *[1965 BBC Interview](/wiki/1965_BBC_Interview)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**1964 BBC Interview** is a [recorded interview](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) in two parts with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) on [November 26](26_November.md), [1964](1964.md). The first part of the interview was made by Irene Slade for the [BBC](../B/BBC.md) radio programme *Reluctant Olympians*. The other part of the interview was more informal, and was made by [Denys Gueroult](../D/Denys_Gueroult.md) as a trial for an official interview that would later take place in 1965 (see *[1965 BBC Interview](1965_BBC_Interview.md)*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Extract {#Extract}
 
-<i>The following transcription was made by <a href="/wiki/Pieter_Collier" title="Pieter Collier">Pieter Collier</a>:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
+<i>The following transcription was made by <a href="../P/Pieter_Collier.md" title="Pieter Collier">Pieter Collier</a>:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
 
 J.R.R. Tolkien: Long before I wrote The Hobbit and long before I wrote this I had constructed this world mythology.
 
@@ -134,7 +133,7 @@ J.R.R. Tolkien: I shouldn't have thought there was much choice in the matter - i
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.625. <a href="/wiki/Pieter_Collier" title="Pieter Collier">Pieter Collier</a> gives a slightly different account: he says that Denys Gueroult broadcast this interview in 1971 on the <a href="/wiki/BBC" title="BBC">BBC</a> Radio 4 program &#39;Now Read On&#39; (see <a class="external text" href="http://www.tolkienlibrary.com/press/804-Tolkien_1971_BBC_Interview.php" rel="noreferrer noopener" target="_blank">Tolkien Library (external link)</a>).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p.625. <a href="../P/Pieter_Collier.md" title="Pieter Collier">Pieter Collier</a> gives a slightly different account: he says that Denys Gueroult broadcast this interview in 1971 on the <a href="../B/BBC.md" title="BBC">BBC</a> Radio 4 program &#39;Now Read On&#39; (see <a class="external text" href="http://www.tolkienlibrary.com/press/804-Tolkien_1971_BBC_Interview.php" rel="noreferrer noopener" target="_blank">Tolkien Library (external link)</a>).</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienlibrary.com/press/804-Tolkien_1971_BBC_Interview.php" rel="noreferrer noopener" target="_blank">Tolkien Library (external link)</a></span>
 </li>

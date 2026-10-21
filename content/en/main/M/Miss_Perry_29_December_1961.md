@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss Perry"
 ---
 
-Redirect to [Letter to Miss Perry](/wiki/Letter_to_Miss_Perry).
+Redirect to [Letter to Miss Perry](../L/Letter_to_Miss_Perry.md).

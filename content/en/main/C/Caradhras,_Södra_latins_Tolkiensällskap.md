@@ -1,6 +1,5 @@
 ---
 title: "Caradhras, Södra latins Tolkiensällskap"
-display_title: "<span class=\"mw-page-title-main\">Caradhras, Södra latins Tolkiensällskap</span>"
 page_id: 27871
 namespace: 0
 revision_id: 146316
@@ -16,9 +15,9 @@ images:
   - "Caradhras,_Södra_latins_Tolkiensällskap.png"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Caradhras,_S%C3%B6dra_latins_Tolkiens%C3%A4llskap.png"><img src="/w/images/9/96/Caradhras%2C_S%C3%B6dra_latins_Tolkiens%C3%A4llskap.png" decoding="async" loading="lazy" width="268" height="261" class="mw-file-element" data-file-width="268" data-file-height="261"/></a><figcaption>Heraldic device</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Caradhras,_Södra_latins_Tolkiensällskap.png.md"><img src="https://tolkiengateway.net/w/images/9/96/Caradhras%2C_S%C3%B6dra_latins_Tolkiens%C3%A4llskap.png" decoding="async" loading="lazy" width="268" height="261" class="mw-file-element" data-file-width="268" data-file-height="261"/></a><figcaption>Heraldic device</figcaption></figure>
 
-**Caradhras, Södra latins Tolkiensällskap** is the [Tolkien Society](/wiki/Tolkien_Society) of Södra latin, a prominent <a class="extiw" href="http://en.wikipedia.org/wiki/Gymnasium_(school)" title="wikipedia:Gymnasium (school)">gymnasium</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>.
+**Caradhras, Södra latins Tolkiensällskap** is the [Tolkien Society](../T/Tolkien_Society.md) of Södra latin, a prominent <a class="extiw" href="http://en.wikipedia.org/wiki/Gymnasium_(school)" title="wikipedia:Gymnasium (school)">gymnasium</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>.
 
 ## External links {#External_links}
 

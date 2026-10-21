@@ -1,6 +1,5 @@
 ---
 title: "Teiji Seta"
-display_title: "<span class=\"mw-page-title-main\">Teiji Seta</span>"
 page_id: 20452
 namespace: 0
 revision_id: 422595
@@ -24,7 +23,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Teiji_Seta"
 ---
 
-**Teiji Seta** (**瀬田貞二**, sometimes called **Seta Teiji** in the West) (1916-1979) was a Japanese Haiku poet and an expert in Japanese literature. He translated several of "[J.R.R. Tōrukin](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")"'s works into Japanese, incuding *[The Hobbit](/wiki/The_Hobbit)*, *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* (together with <a class="new" href="/w/index.php?title=Akiko_Tanaka&amp;action=edit&amp;redlink=1" title="Akiko Tanaka (page does not exist)">Akiko Tanaka</a>), *[Letters from Father Christmas](/wiki/Letters_from_Father_Christmas)* and *[Bilbo's Last Song](/wiki/Bilbo%27s_Last_Song)*. He also translated several of [C.S. Lewis](/wiki/C.S._Lewis)' works.
+**Teiji Seta** (**瀬田貞二**, sometimes called **Seta Teiji** in the West) (1916-1979) was a Japanese Haiku poet and an expert in Japanese literature. He translated several of "[J.R.R. Tōrukin](../J/J.R.R._Tolkien.md)"'s works into Japanese, incuding *[The Hobbit](The_Hobbit.md)*, *[The Lord of the Rings](The_Lord_of_the_Rings.md)* (together with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Akiko_Tanaka&amp;action=edit&amp;redlink=1" title="Akiko Tanaka (page does not exist)">Akiko Tanaka</a>), *[Letters from Father Christmas](../L/Letters_from_Father_Christmas.md)* and *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)*. He also translated several of [C.S. Lewis](../C/C.S._Lewis.md)' works.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 9 (back cover).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 9 (back cover).png</span>"
 page_id: 62548
 namespace: 6
 revision_id: 353453
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Alqalindele" by <a class="new" href="/w/index.php?title=Adam_Christensen&amp;action=edit&amp;redlink=1" title="Adam Christensen (page does not exist)">Adam Christensen</a>. Art for the back cover of *[Parma Eldalamberon 9](/wiki/Parma_Eldalamberon_9)*.
+"Alqalindele" by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Adam_Christensen&amp;action=edit&amp;redlink=1" title="Adam Christensen (page does not exist)">Adam Christensen</a>. Art for the back cover of *[Parma Eldalamberon 9](../../main/P/Parma_Eldalamberon_9.md)*.
 
 ## Licensing {#Licensing}
 

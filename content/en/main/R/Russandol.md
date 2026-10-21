@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maedhros"
 ---
 
-Redirect to [Maedhros](/wiki/Maedhros).
+Redirect to [Maedhros](../M/Maedhros.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of translators"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of translators</span>"
 page_id: 39715
 namespace: 14
 revision_id: 197959

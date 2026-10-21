@@ -11,4 +11,4 @@ redirect_target: "Toward the Gleam"
 redirect_fragment: "The Lucifer Ego"
 ---
 
-Redirect to [Toward the Gleam](/wiki/Toward_the_Gleam#The_Lucifer_Ego).
+Redirect to [Toward the Gleam](Toward_the_Gleam.md#The_Lucifer_Ego).

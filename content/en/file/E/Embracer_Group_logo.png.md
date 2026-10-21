@@ -1,6 +1,5 @@
 ---
 title: "File:Embracer Group logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Embracer Group logo.png</span>"
 page_id: 62782
 namespace: 6
 revision_id: 355497

@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Toys Shadow Balrog advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Toys Shadow Balrog advertisement.jpg</span>"
 page_id: 73237
 namespace: 6
 revision_id: 433598
@@ -28,19 +27,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1999</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.benl.ebay.be/itm/175785163889" rel="noreferrer noopener" target="_blank">Ebay listing</a>, taken from unspecified 1999 magazine</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

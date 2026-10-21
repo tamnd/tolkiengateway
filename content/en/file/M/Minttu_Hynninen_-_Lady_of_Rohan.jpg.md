@@ -1,6 +1,5 @@
 ---
 title: "File:Minttu Hynninen - Lady of Rohan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Minttu Hynninen - Lady of Rohan.jpg</span>"
 page_id: 18921
 namespace: 6
 revision_id: 260211
@@ -32,6 +31,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Minttu Hynninen</li>
 <li><b>Website:</b> <a class="external text" href="http://theminttu.deviantart.com/" rel="noreferrer noopener" target="_blank">Minttu Hynninen&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Minttu_Hynninen" title="Tolkien Gateway:Copyrights/Minttu Hynninen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMinttu_Hynninen.md" title="Tolkien Gateway:Copyrights/Minttu Hynninen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

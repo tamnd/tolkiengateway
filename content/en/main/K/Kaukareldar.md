@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gongs"
 ---
 
-Redirect to [Gongs](/wiki/Gongs).
+Redirect to [Gongs](../G/Gongs.md).

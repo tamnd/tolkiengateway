@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Palantir"
 ---
 
-Redirect to [Tar-Palantir](/wiki/Tar-Palantir).
+Redirect to [Tar-Palantir](../T/Tar-Palantir.md).

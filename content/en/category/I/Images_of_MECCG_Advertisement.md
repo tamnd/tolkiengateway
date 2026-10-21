@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of MECCG advertisements"
 ---
 
-Redirect to [Category:Images of MECCG advertisements](/wiki/Category:Images_of_MECCG_advertisements).
+Redirect to [Category:Images of MECCG advertisements](Images_of_MECCG_advertisements.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grafton"
 ---
 
-Redirect to [Grafton](/wiki/Grafton).
+Redirect to [Grafton](Grafton.md).

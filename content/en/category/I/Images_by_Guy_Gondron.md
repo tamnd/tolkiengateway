@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Guy Gondron"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Guy Gondron</span>"
 page_id: 7469
 namespace: 14
 revision_id: 182017
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gondron, Guy"
 ---
 
-This category lists all **images by [Guy Gondron](/wiki/Guy_Gondron)**.
+This category lists all **images by [Guy Gondron](../../main/G/Guy_Gondron.md)**.

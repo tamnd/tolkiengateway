@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Nils-Lennart Johannesson"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Nils-Lennart Johannesson</span>"
 page_id: 37665
 namespace: 4
 revision_id: 193173
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Johannesson, Nils-Lennart"
 ---
 
-- Permission granted through email by copyright holder Nils-Lennart Johannesson to use [Nils-Lennart Johannesson.png](/wiki/File:Nils-Lennart_Johannesson.png "File:Nils-Lennart Johannesson.png") on Tolkien Gateway.
+- Permission granted through email by copyright holder Nils-Lennart Johannesson to use [Nils-Lennart Johannesson.png](../../file/N/Nils-Lennart_Johannesson.png.md) on Tolkien Gateway.
 - Date: 31 December 2011
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

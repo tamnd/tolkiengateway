@@ -1,6 +1,5 @@
 ---
 title: "File:Das Geheimnis der Ringe cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Das Geheimnis der Ringe cover.jpg</span>"
 page_id: 74676
 namespace: 6
 revision_id: 439756

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Black & White Ogre Country"
 ---
 
-Redirect to [Black &amp; White Ogre Country](/wiki/Black_&_White_Ogre_Country).
+Redirect to [Black &amp; White Ogre Country](Black_&_White_Ogre_Country.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark"
 ---
 
-Redirect to [Dark](/wiki/Dark).
+Redirect to [Dark](../D/Dark.md).

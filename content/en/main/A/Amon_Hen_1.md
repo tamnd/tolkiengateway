@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Henneth Annûn 1"
 ---
 
-Redirect to [Henneth Annûn 1](/wiki/Henneth_Annûn_1).
+Redirect to [Henneth Annûn 1](../H/Henneth_Annûn_1.md).

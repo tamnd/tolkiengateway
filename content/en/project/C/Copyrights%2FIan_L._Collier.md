@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ian L. Collier"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ian L. Collier</span>"
 page_id: 47851
 namespace: 4
 revision_id: 254979
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Collier, Ian L"
 ---
 
-- Ian L. Collier has kindly granted his permission to use the photo "[The grave of charles williams, Holywell, Oxford](/wiki/File:The_grave_of_charles_williams,_Holywell,_Oxford_by_Ian_Collier.jpg "File:The grave of charles williams, Holywell, Oxford by Ian Collier.jpg")" on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Ian L. Collier has kindly granted his permission to use the photo "[The grave of charles williams, Holywell, Oxford](../../file/T/The_grave_of_charles_williams,_Holywell,_Oxford_by_Ian_Collier.jpg.md)" on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 15 September 2014
-- User who sought the permission via Facebook: [User:Sigurd](/wiki/User:Sigurd)
+- User who sought the permission via Facebook: [User:Sigurd](https://tolkiengateway.net/wiki/User:Sigurd)

@@ -1,6 +1,5 @@
 ---
 title: "File:Lída Holubová - Vingilot (2).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lída Holubová - Vingilot (2).jpg</span>"
 page_id: 59704
 namespace: 6
 revision_id: 357404
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lída Holubová‎</li>
 <li><b>Website:</b> <a class="external free" href="http://aegeri.deviantart.com/" rel="noreferrer noopener" target="_blank">http://aegeri.deviantart.com/</a> · <a class="external free" href="https://www.facebook.com/aegeri.illustration/" rel="noreferrer noopener" target="_blank">https://www.facebook.com/aegeri.illustration/</a> · <a class="external free" href="http://aegeribelegore.blog.cz/" rel="noreferrer noopener" target="_blank">http://aegeribelegore.blog.cz/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C3%ADda_Holubov%C3%A1" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLída_Holubová.md" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

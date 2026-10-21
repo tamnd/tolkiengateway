@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 2003-hb 2014-pb.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 2003-hb 2014-pb.png</span>"
 page_id: 62683
 namespace: 6
 revision_id: 354039

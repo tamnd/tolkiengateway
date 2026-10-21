@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandagamba"
 ---
 
-Redirect to [Brandagamba](/wiki/Brandagamba).
+Redirect to [Brandagamba](Brandagamba.md).

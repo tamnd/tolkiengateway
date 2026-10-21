@@ -1,6 +1,5 @@
 ---
 title: "File:Tales of the Shire - Gandalf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales of the Shire - Gandalf.png</span>"
 page_id: 72179
 namespace: 6
 revision_id: 429150
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) - *[Tales of the Shire: A "The Lord of the Rings" Game](/wiki/Tales_of_the_Shire:_A_%22The_Lord_of_the_Rings%22_Game)*
+[Gandalf](../../main/G/Gandalf.md) - *[Tales of the Shire: A "The Lord of the Rings" Game](../../main/T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md)*
 
 ## Licensing {#Licensing}
 

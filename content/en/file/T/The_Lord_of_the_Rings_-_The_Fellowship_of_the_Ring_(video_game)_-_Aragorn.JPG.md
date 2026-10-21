@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Aragorn.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Aragorn.JPG</span>"
 page_id: 21060
 namespace: 6
 revision_id: 298601
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) wielding [Andúril](/wiki/And%C3%BAril) on [Amon Hen](/wiki/Amon_Hen). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Aragorn](../../main/A/Aragorn.md) wielding [Andúril](../../main/A/Andúril.md) on [Amon Hen](../../main/A/Amon_Hen.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

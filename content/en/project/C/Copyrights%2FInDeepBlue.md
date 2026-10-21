@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/InDeepBlue"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/InDeepBlue</span>"
 page_id: 65610
 namespace: 4
 revision_id: 377904
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "InDeepBlue"
 ---
 
-- InDeepBlue has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_InDeepBlue "Category:Images by InDeepBlue") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- InDeepBlue has kindly granted his permission to use [his artwork](../../category/I/Images_by_InDeepBlue.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 01 August 2023
-- User who sought the permission via DeviantArt: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission via DeviantArt: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

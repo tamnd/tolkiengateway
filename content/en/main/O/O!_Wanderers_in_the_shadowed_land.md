@@ -1,6 +1,5 @@
 ---
 title: "O! Wanderers in the shadowed land"
-display_title: "<span class=\"mw-page-title-main\">O! Wanderers in the shadowed land</span>"
 page_id: 44027
 namespace: 0
 revision_id: 406833
@@ -14,7 +13,7 @@ categories:
   - "Songs"
 ---
 
-**O! Wanderers in the shadowed land** is a song sung by [Frodo Baggins](/wiki/Frodo_Baggins) when walking through the [Old Forest](/wiki/Old_Forest). Its purpose was to encourage the other hobbits to continue on. The trees of the Old Forest did not seem to like the song.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**O! Wanderers in the shadowed land** is a song sung by [Frodo Baggins](../F/Frodo_Baggins.md) when walking through the [Old Forest](Old_Forest.md). Its purpose was to encourage the other hobbits to continue on. The trees of the Old Forest did not seem to like the song.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## The poem {#The_poem}
 
@@ -33,19 +32,19 @@ categories:
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>2004: <i><a href="/wiki/A_Night_in_Rivendell" title="A Night in Rivendell">A Night in Rivendell</a></i>:</b>
+<b>2004: <i><a href="../A/A_Night_in_Rivendell.md" title="A Night in Rivendell">A Night in Rivendell</a></i>:</b>
 
-<dl><dd>The poem is set to music on the <a href="/wiki/Tolkien_Ensemble" title="Tolkien Ensemble">Tolkien Ensemble</a>&#39;s album <i>A Night in Rivendell</i>, called <b>Song in the Woods</b>.</dd></dl>
+<dl><dd>The poem is set to music on the <a href="../T/Tolkien_Ensemble.md" title="Tolkien Ensemble">Tolkien Ensemble</a>&#39;s album <i>A Night in Rivendell</i>, called <b>Song in the Woods</b>.</dd></dl>
 
 ## See also {#See_also}
 
-- [Poems in *The Lord of the Rings*](/wiki/Poems_in_The_Lord_of_the_Rings "Poems in The Lord of the Rings")
+- [Poems in *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/The_Old_Forest" title="The Old Forest">The Old Forest</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Old_Forest.md" title="The Old Forest">The Old Forest</a>&#34;</span>
 </li>
 </ol></div>

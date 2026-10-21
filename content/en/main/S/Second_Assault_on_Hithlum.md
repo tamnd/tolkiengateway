@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Assaults on Hithlum"
 ---
 
-Redirect to [Assaults on Hithlum](/wiki/Assaults_on_Hithlum).
+Redirect to [Assaults on Hithlum](../A/Assaults_on_Hithlum.md).

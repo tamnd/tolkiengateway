@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kirinki"
 ---
 
-Redirect to [Kirinki](/wiki/Kirinki).
+Redirect to [Kirinki](Kirinki.md).

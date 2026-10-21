@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Technical To-do"
 ---
 
-Redirect to [Tolkien Gateway:Technical To-do](/wiki/Tolkien_Gateway:Technical_To-do).
+Redirect to [Tolkien Gateway:Technical To-do](Technical_To-do.md).

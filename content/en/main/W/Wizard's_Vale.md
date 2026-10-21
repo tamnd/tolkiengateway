@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan Curunír"
 ---
 
-Redirect to [Nan Curunír](/wiki/Nan_Curunír).
+Redirect to [Nan Curunír](../N/Nan_Curunír.md).

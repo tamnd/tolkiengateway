@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Minas Tirith.jpg</span>"
 page_id: 5765
 namespace: 6
 revision_id: 233997
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This sketch by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) was published in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar). The piece is titled 'Stanburg' in [Fëanorian](/wiki/Tengwar "Tengwar") ([Elvish](/wiki/Elvish)) letters, and Stanburg and Steinborg in Roman letters (only the latter visible in the reproduction). Stanburg is Old English (and Steinborg Old Norse), meaning 'Stone-fortress, Stone-city';
+This sketch by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) was published in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md). The piece is titled 'Stanburg' in [Fëanorian](../../main/T/Tengwar.md) ([Elvish](../../main/E/Elvish.md)) letters, and Stanburg and Steinborg in Roman letters (only the latter visible in the reproduction). Stanburg is Old English (and Steinborg Old Norse), meaning 'Stone-fortress, Stone-city';
 
 ## Licensing {#Licensing}
 

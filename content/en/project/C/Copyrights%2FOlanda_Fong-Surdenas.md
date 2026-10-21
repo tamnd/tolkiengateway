@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Olanda Fong-Surdenas"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Olanda Fong-Surdenas</span>"
 page_id: 38076
 namespace: 4
 revision_id: 193174
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fong-Surdenas, Olanda"
 ---
 
-- [Olanda Fong-Surdenas](/wiki/Olanda_Fong-Surdenas) has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Olanda_Fong-Surdenas "Category:Images by Olanda Fong-Surdenas") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Olanda Fong-Surdenas](../../main/O/Olanda_Fong-Surdenas.md) has kindly granted her permission to use [her artwork](../../category/I/Images_by_Olanda_Fong-Surdenas.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 20 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

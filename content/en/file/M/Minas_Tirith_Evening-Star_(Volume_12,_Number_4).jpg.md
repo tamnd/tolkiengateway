@@ -1,6 +1,5 @@
 ---
 title: "File:Minas Tirith Evening-Star (Volume 12, Number 4).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Minas Tirith Evening-Star (Volume 12, Number 4).jpg</span>"
 page_id: 44203
 namespace: 6
 revision_id: 232449

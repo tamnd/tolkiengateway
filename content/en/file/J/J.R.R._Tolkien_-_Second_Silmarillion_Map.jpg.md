@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Second Silmarillion Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Second Silmarillion Map.jpg</span>"
 page_id: 68801
 namespace: 6
 revision_id: 410041
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Small scale map drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) depicting [Beleriand](/wiki/Beleriand) for the Quenta Silmarillion in the 1930's.
+Small scale map drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) depicting [Beleriand](../../main/B/Beleriand.md) for the Quenta Silmarillion in the 1930's.
 
 ## Licensing {#Licensing}
 

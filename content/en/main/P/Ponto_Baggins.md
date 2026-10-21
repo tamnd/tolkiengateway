@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ponto Baggins (disambiguation)"
 ---
 
-Redirect to [Ponto Baggins (disambiguation)](/wiki/Ponto_Baggins_(disambiguation)).
+Redirect to [Ponto Baggins (disambiguation)](<Ponto_Baggins_(disambiguation).md>).

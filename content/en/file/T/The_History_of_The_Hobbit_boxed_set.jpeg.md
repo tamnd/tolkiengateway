@@ -1,6 +1,5 @@
 ---
 title: "File:The History of The Hobbit boxed set.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The History of The Hobbit boxed set.jpeg</span>"
 page_id: 61763
 namespace: 6
 revision_id: 348153

@@ -1,6 +1,5 @@
 ---
 title: "File:Arda Reconstructed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arda Reconstructed.jpg</span>"
 page_id: 35201
 namespace: 6
 revision_id: 213967

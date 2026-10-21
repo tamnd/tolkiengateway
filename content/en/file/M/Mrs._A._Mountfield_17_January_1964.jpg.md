@@ -1,6 +1,5 @@
 ---
 title: "File:Mrs. A. Mountfield 17 January 1964.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mrs. A. Mountfield 17 January 1964.jpg</span>"
 page_id: 46135
 namespace: 6
 revision_id: 244014

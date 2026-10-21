@@ -1,6 +1,5 @@
 ---
 title: "File:John Howe - The White Towers.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Howe - The White Towers.png</span>"
 page_id: 73646
 namespace: 6
 revision_id: 435148
@@ -37,26 +36,23 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">John Howe - The White Towers.png</span></th>
 <td class="description">
 <p><i>The White Towers</i>. 
-Created for <a href="/wiki/Middle-earth:_The_White_Hand" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_White_Hand.md" title="Middle-earth: The White Hand">Middle-earth: The White Hand</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1997" title="1997">1997</a></td>
+<td><a href="../../main/_/1997.md" title="1997">1997</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/John_Howe" title="John Howe">John Howe</a></td>
+<td><a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/" rel="noreferrer noopener" target="_blank">https://github.com/usmcgeek/mer/blob/master/resources/Card%20Art%20Images/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -71,8 +67,8 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/John Howe</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/John_Howe" title="John Howe">John Howe</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/John_Howe" title="John Howe">John Howe</a></li>
+<ul><li><b>Name:</b> <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.john-howe.com" rel="noreferrer noopener" target="_blank">John Howe&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/John_Howe" title="Tolkien Gateway:Copyrights/John Howe">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJohn_Howe.md" title="Tolkien Gateway:Copyrights/John Howe">Permission for use on Tolkien Gateway</a></b></li></ul></div>

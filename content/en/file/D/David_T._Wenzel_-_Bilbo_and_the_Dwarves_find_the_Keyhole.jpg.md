@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - Bilbo and the Dwarves find the Keyhole.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - Bilbo and the Dwarves find the Keyhole.jpg</span>"
 page_id: 73900
 namespace: 6
 revision_id: 436304
@@ -36,22 +35,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">David T. Wenzel - Bilbo and the Dwarves find the Keyhole.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a> and <a href="/wiki/Thorin_and_Company" title="Thorin and Company">the Dwarves</a> find the Keyhole - Original art from <a href="/wiki/The_Hobbit_(comic_book)" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
+<p><a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../../main/T/Thorin_and_Company.md" title="Thorin and Company">the Dwarves</a> find the Keyhole - Original art from <a href="../../main/T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/David_T._Wenzel" title="David T. Wenzel">David T. Wenzel</a></td>
+<td><a href="../../main/D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.hobbit.ca/Artwork.html" rel="noreferrer noopener" target="_blank">https://www.hobbit.ca/Artwork.html</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>
@@ -63,4 +58,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

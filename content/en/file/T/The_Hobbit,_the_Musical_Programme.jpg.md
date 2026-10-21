@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit, the Musical Programme.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit, the Musical Programme.jpg</span>"
 page_id: 41366
 namespace: 6
 revision_id: 210207
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Ashley Goodall's copy of the programme from [*The Hobbit* (1967 stage adaptation)](</wiki/The_Hobbit_(1967_stage_adaptation)> "The Hobbit (1967 stage adaptation)"), signed by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Ashley Goodall's copy of the programme from [*The Hobbit* (1967 stage adaptation)](<../../main/T/The_Hobbit_(1967_stage_adaptation).md>), signed by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

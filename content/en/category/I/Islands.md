@@ -1,6 +1,5 @@
 ---
 title: "Category:Islands"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Islands</span>"
 page_id: 2622
 namespace: 14
 revision_id: 195471

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Mr Ashton"
-display_title: "<span class=\"mw-page-title-main\">Letter to Mr Ashton</span>"
 page_id: 36605
 namespace: 0
 revision_id: 406287
@@ -18,13 +17,13 @@ images:
   - "Mr._Ashton_12_June_1925_(2).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mr._Ashton_12_June_1925_(1).jpg"><img src="/w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/300px-Mr._Ashton_12_June_1925_%281%29.jpg" decoding="async" loading="lazy" width="300" height="459" class="mw-file-element" srcset="/w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/450px-Mr._Ashton_12_June_1925_%281%29.jpg 1.5x, /w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/600px-Mr._Ashton_12_June_1925_%281%29.jpg 2x" data-file-width="1000" data-file-height="1530"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr._Ashton_12_June_1925_(1).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/300px-Mr._Ashton_12_June_1925_%281%29.jpg" decoding="async" loading="lazy" width="300" height="459" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/450px-Mr._Ashton_12_June_1925_%281%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Mr._Ashton_12_June_1925_%281%29.jpg/600px-Mr._Ashton_12_June_1925_%281%29.jpg 2x" data-file-width="1000" data-file-height="1530"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Mr._Ashton_12_June_1925_(2).jpg"><img src="/w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/300px-Mr._Ashton_12_June_1925_%282%29.jpg" decoding="async" loading="lazy" width="300" height="460" class="mw-file-element" srcset="/w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/450px-Mr._Ashton_12_June_1925_%282%29.jpg 1.5x, /w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/600px-Mr._Ashton_12_June_1925_%282%29.jpg 2x" data-file-width="999" data-file-height="1533"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mr._Ashton_12_June_1925_(2).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/300px-Mr._Ashton_12_June_1925_%282%29.jpg" decoding="async" loading="lazy" width="300" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/450px-Mr._Ashton_12_June_1925_%282%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/db/Mr._Ashton_12_June_1925_%282%29.jpg/600px-Mr._Ashton_12_June_1925_%282%29.jpg 2x" data-file-width="999" data-file-height="1533"/></a><figcaption></figcaption></figure>
 
-On [12 June](/wiki/12_June) [1925](/wiki/1925), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mr Ashton**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [12 June](../_/12_June.md) [1925](../_/1925.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mr Ashton**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject**: Examination of Mr. Ashton's son, a student at the [University of Leeds](/wiki/University_of_Leeds).
+- **Subject**: Examination of Mr. Ashton's son, a student at the [University of Leeds](../U/University_of_Leeds.md).
 - **Publication:** None.
 - **Description:** One page both sides, 4.5 x 7, blind-stamped personal letterhead.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -44,35 +43,25 @@ June 12<br/>
 <p align="right">Your note of the<br/>
 7th only reached me<br/>
 on Thursday.
-<!-- -->
-<!-- -->
-<!-- -->
 Dear Mr. Ashton,
-<!-- -->
 The Vice-Chancellor had not told me — but Prof. Gough, who has an equal share of interest in your son like me, did so at once, &amp; we discussed what we could do about it.
-<!-- -->
 You may be sure that we shall both do our best — I think we both have an equally high opinion of your son, in every way, &amp; appreciate both your sacrifice and the good use he has made of it.
-<!-- -->
 But you must not be too down-cast. If even at the worst there remains nothing for it but for your son to take an &#39;aegrotat&#39; degree [an honors degree conferred upon a student who, unable to take exams because of illness, would have by every expectation passed] without class, his work will not be wasted on him, he himself will have profited by it; and as for advantages in getting a job, the recommendation of Prof. Gough &amp; myself will be worth nearly as much to him conceivably as a first class without such strong recommendations.
-<!-- -->
 I hope personally very much that somehow it may be possible for your son to come up for examination against next year .... If this happens, I will do my best to help him along next session — &amp; I should expect him to do very well indeed by next June 1926. However we will let him know the result of our efforts at end of the month. Remember me please &amp; your boy. I hope he is better. If only he could have realized what mild and gentle folk we ferocious examiners actually are, &amp; how well disposed to him perhaps he would not have worried so much. But he is unusually distinguished among students in working too hard! This note, though it contains very little, is purely confidential &amp; personal, &amp; is really chiefly intended to convey my sympathy, which I hope you will accept.
-<!-- -->
 Yours truly
-<!-- -->
 J.R.R. Tolkien
-<!-- -->
 </p>
 
 ## See also {#See_also}
 
-- [Letter to Ronald Ashton](/wiki/Letter_to_Ronald_Ashton)
+- [Letter to Ronald Ashton](Letter_to_Ronald_Ashton.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 20 May 2012)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology</a>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 20 May 2012)</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://rrauction.com/past_auction_item.cfm?ID=3195327" rel="noreferrer noopener" target="_blank">Item 549 - J.R.R. Tolkien Catalog 350 (Oct 2009)</a> at <a class="external text" href="http://rrauction.com" rel="noreferrer noopener" target="_blank">RR Auction</a> (accessed 22 October 2011)</span>
 </li>

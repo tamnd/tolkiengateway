@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Erland - Dale Counselor.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Erland - Dale Counselor.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Erland_-_Dale_Counselor.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Erland - Dale Counselor.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Erland_-_Dale_Counselor.jpg.md).

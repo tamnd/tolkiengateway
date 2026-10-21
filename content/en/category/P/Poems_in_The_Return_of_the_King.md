@@ -13,6 +13,6 @@ categories:
   - "Poems in The Lord of the Rings"
 ---
 
-<dl><dd><i>All poems in </i><b><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></b></dd></dl>
+<dl><dd><i>All poems in </i><b><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></b></dd></dl>
 
-<dl><dd><i>See also:</i> <a href="/wiki/Poems_in_The_Lord_of_the_Rings" title="Poems in The Lord of the Rings">Poems in <i>The Lord of the Rings</i></a></dd></dl>
+<dl><dd><i>See also:</i> <a href="../../main/P/Poems_in_The_Lord_of_the_Rings.md" title="Poems in The Lord of the Rings">Poems in <i>The Lord of the Rings</i></a></dd></dl>

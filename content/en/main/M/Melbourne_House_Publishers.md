@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Melbourne House"
 ---
 
-Redirect to [Melbourne House](/wiki/Melbourne_House).
+Redirect to [Melbourne House](Melbourne_House.md).

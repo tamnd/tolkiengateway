@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring Celebration"
 ---
 
-Redirect to [The One Ring Celebration](/wiki/The_One_Ring_Celebration).
+Redirect to [The One Ring Celebration](The_One_Ring_Celebration.md).

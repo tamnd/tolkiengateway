@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Arwen.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Arwen.png</span>"
 page_id: 73106
 namespace: 6
 revision_id: 432875
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Arwen](/wiki/Arwen) - [LEGO](/wiki/Lego "Lego") minifigure
+[Arwen](../../main/A/Arwen.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

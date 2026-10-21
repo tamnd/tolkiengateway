@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amanyar"
 ---
 
-Redirect to [Amanyar](/wiki/Amanyar).
+Redirect to [Amanyar](Amanyar.md).

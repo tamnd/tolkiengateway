@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Journal (Vol.3, No.3).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Journal (Vol.3, No.3).png</span>"
 page_id: 36638
 namespace: 6
 revision_id: 213708

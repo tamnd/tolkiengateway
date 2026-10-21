@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jim Allan"
 ---
 
-Redirect to [Jim Allan](/wiki/Jim_Allan).
+Redirect to [Jim Allan](Jim_Allan.md).

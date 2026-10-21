@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narvinyë"
 ---
 
-Redirect to [Narvinyë](/wiki/Narvinyë).
+Redirect to [Narvinyë](Narvinyë.md).

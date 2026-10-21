@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1977 film) - Thorin and Company.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) - Thorin and Company.png</span>"
 page_id: 71808
 namespace: 6
 revision_id: 427894
@@ -43,7 +42,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thorin and Company](/wiki/Thorin_and_Company) - [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)")
+[Thorin and Company](../../main/T/Thorin_and_Company.md) - [*The Hobbit* (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Merry.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Merry.gif</span>"
 page_id: 11871
 namespace: 6
 revision_id: 203975

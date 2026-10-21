@@ -1,6 +1,5 @@
 ---
 title: "The Brazilian Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">The Brazilian Tolkien Society</span>"
 page_id: 27875
 namespace: 0
 revision_id: 406354
@@ -19,16 +18,16 @@ images:
   - "Logo_STB_Wiki.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Logo_STB_Wiki.png"><img src="/w/images/1/16/Logo_STB_Wiki.png" decoding="async" loading="lazy" width="212" height="174" class="mw-file-element" data-file-width="212" data-file-height="174"/></a><figcaption>STB logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Logo_STB_Wiki.png.md"><img src="https://tolkiengateway.net/w/images/1/16/Logo_STB_Wiki.png" decoding="async" loading="lazy" width="212" height="174" class="mw-file-element" data-file-width="212" data-file-height="174"/></a><figcaption>STB logo</figcaption></figure>
 
-**Sociedade de Tolkien Brasileira** (Brazilian: **Brazilian Tolkien Society**), abbreviated STB or BTS, is a Tolkien Society in Brazil. It was founded on [1999](/wiki/1999) by Daniel Cossi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sociedade de Tolkien Brasileira** (Brazilian: **Brazilian Tolkien Society**), abbreviated STB or BTS, is a Tolkien Society in Brazil. It was founded on [1999](../_/1999.md) by Daniel Cossi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Daniel Cossi in 2001 "Annexed the Society to the company of which he is a partner, investing $ 275,000" . Since then, the Brazilian Tolkien Society has been acting as a consultant for products related to Peter Jackson movies.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Conselho Branco, Sociedade Tolkien](/wiki/Conselho_Branco,_Sociedade_Tolkien), another Brazilian [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies").
-- [Heren Hyarmen](/wiki/Heren_Hyarmen)
+- [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md), another Brazilian [Tolkien Society](Tolkien_Societies~67099.md).
+- [Heren Hyarmen](../H/Heren_Hyarmen.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Owls"
 ---
 
-Redirect to [Owls](/wiki/Owls).
+Redirect to [Owls](Owls.md).

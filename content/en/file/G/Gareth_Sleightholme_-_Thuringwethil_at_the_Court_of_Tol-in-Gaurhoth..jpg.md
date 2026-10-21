@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Thuringwethil at the Court of Tol-in-Gaurhoth..jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Thuringwethil at the Court of Tol-in-Gaurhoth..jpg</span>"
 page_id: 73618
 namespace: 6
 revision_id: 441838
@@ -38,15 +37,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Thuringwethil at the Court of Tol-in-Gaurhoth..jpg</span></th>
 <td class="description">
-<blockquote><p>I’ve done a few “fan art” pieces now from <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">Tolkien’s</a> works. This was always a section of the lore that fascinated me. <a href="/wiki/Tol-in-Gaurhoth" title="Tol-in-Gaurhoth">The Isle of Werewolves, Tol-in-Gaurhoth</a>. <a href="/wiki/Sauron" title="Sauron">Sauron as</a> a shapeshifter, and his dark mirror of <a href="/wiki/L%C3%BAthien" title="Lúthien">Lúthien</a>, or even <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a>, the <a href="/wiki/Vampires" title="Vampires">vampire</a>/shapeshifter and messenger, <a href="/wiki/Thuringwethil" title="Thuringwethil">Thuringwethil</a>.</p></blockquote>
+<blockquote><p>I’ve done a few “fan art” pieces now from <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien’s</a> works. This was always a section of the lore that fascinated me. <a href="../../main/T/Tol-in-Gaurhoth.md" title="Tol-in-Gaurhoth">The Isle of Werewolves, Tol-in-Gaurhoth</a>. <a href="../../main/S/Sauron.md" title="Sauron">Sauron as</a> a shapeshifter, and his dark mirror of <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a>, or even <a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a>, the <a href="../../main/V/Vampires.md" title="Vampires">vampire</a>/shapeshifter and messenger, <a href="../../main/T/Thuringwethil.md" title="Thuringwethil">Thuringwethil</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/11_August" title="11 August">August 11</a> <a href="/wiki/2024" title="2024">2024</a></td>
+<td><a href="../../main/_/11_August.md" title="11 August">August 11</a> <a href="../../main/_/2024.md" title="2024">2024</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -55,7 +52,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/dyOx0A" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/dyOx0A</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -65,4 +61,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

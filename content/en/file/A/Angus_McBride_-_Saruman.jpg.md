@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Saruman.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Saruman.jpg</span>"
 page_id: 72525
 namespace: 6
 revision_id: 430692

@@ -1,6 +1,5 @@
 ---
 title: "Emilíana Torrini"
-display_title: "<span class=\"mw-page-title-main\">Emilíana Torrini</span>"
 page_id: 3781
 namespace: 0
 revision_id: 405395
@@ -19,11 +18,11 @@ sort_keys:
   "Singers": "Torrini, Emiliana"
 ---
 
-**Emilíana Torrini** ([May 16](/wiki/16_May "16 May"), [1977](/wiki/1977)) performed "[Gollum's Song](/wiki/Gollum%27s_Song)" for *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. [Fran Walsh](/wiki/Fran_Walsh) wrote the lyrics while [Howard Shore](/wiki/Howard_Shore) directed the music.
+**Emilíana Torrini** ([May 16](../_/16_May.md), [1977](../_/1977.md)) performed "[Gollum's Song](../G/Gollum's_Song.md)" for *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. [Fran Walsh](../F/Fran_Walsh.md) wrote the lyrics while [Howard Shore](../H/Howard_Shore.md) directed the music.
 
 ## Awards {#Awards}
 
-- [2003](/wiki/2003) - <b><a class="external text" href="http://cinemaclips.com/PFCS" rel="noreferrer noopener" target="_blank">PFCS Award</a></b>, Best Original Song, "Gollum's Song"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+- [2003](../_/2003.md) - <b><a class="external text" href="http://cinemaclips.com/PFCS" rel="noreferrer noopener" target="_blank">PFCS Award</a></b>, Best Original Song, "Gollum's Song"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Notes {#Notes}
 

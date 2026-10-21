@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Ulfang.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Ulfang.png</span>"
 page_id: 40113
 namespace: 6
 revision_id: 267111
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ulfang](/wiki/Ulfang). Art by [Liz Danforth](/wiki/Liz_Danforth), from [Jessica M Ney](/wiki/Jessica_M._Ney-Grimm "Jessica M. Ney-Grimm"), *[Middle-earth Adventure Guidebook II](/wiki/Middle-earth_Adventure_Guidebook_II)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2210, 1989)
+[Ulfang](../../main/U/Ulfang.md). Art by [Liz Danforth](../../main/L/Liz_Danforth.md), from [Jessica M Ney](../../main/J/Jessica_M._Ney-Grimm.md), *[Middle-earth Adventure Guidebook II](../../main/M/Middle-earth_Adventure_Guidebook_II.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2210, 1989)
 
 <br>
 

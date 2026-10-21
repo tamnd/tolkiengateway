@@ -1,6 +1,5 @@
 ---
 title: "File:Devon Cady-Lee - Morroval Variants.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Devon Cady-Lee - Morroval Variants.jpg</span>"
 page_id: 75207
 namespace: 6
 revision_id: 442770
@@ -30,16 +29,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Devon Cady-Lee - Morroval Variants.jpg</span></th>
 <td class="description">
-Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
+Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
 <p>Sometimes I need to make new versions of characters that are already in the game. These two are variants of the Morroval, which is a succubus. Instead of a screenshot paintover- Which usually turns out hideous- I decided to just paint them from scratch.
 </p><p>I believe the original concept was by Jeff Murchie.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Devon Cady-Lee</td>
@@ -48,7 +44,6 @@ Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of 
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/gorrem/art/LOTRO%3A-Morroval-Variants-76202509" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

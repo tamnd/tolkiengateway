@@ -1,6 +1,5 @@
 ---
 title: "File:Rehabilitations and Other Essays.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rehabilitations and Other Essays.jpg</span>"
 page_id: 33264
 namespace: 6
 revision_id: 214582

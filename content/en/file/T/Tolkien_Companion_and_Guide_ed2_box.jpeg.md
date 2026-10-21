@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Companion and Guide ed2 box.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Companion and Guide ed2 box.jpeg</span>"
 page_id: 61728
 namespace: 6
 revision_id: 380257

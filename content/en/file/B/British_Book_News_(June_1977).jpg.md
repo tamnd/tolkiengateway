@@ -1,6 +1,5 @@
 ---
 title: "File:British Book News (June 1977).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">British Book News (June 1977).jpg</span>"
 page_id: 45757
 namespace: 6
 revision_id: 241550

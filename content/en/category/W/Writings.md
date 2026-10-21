@@ -1,6 +1,5 @@
 ---
 title: "Category:Writings"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Writings</span>"
 page_id: 10518
 namespace: 14
 revision_id: 105219
@@ -13,4 +12,4 @@ categories:
   - "Real-world"
 ---
 
-This category contains writings, by or relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), which generally have appeared within [published works](/wiki/Category:Publications "Category:Publications") of a different title.
+This category contains writings, by or relating to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), which generally have appeared within [published works](../P/Publications.md) of a different title.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Deloth"
 ---
 
-Redirect to [Deloth](/wiki/Deloth).
+Redirect to [Deloth](Deloth.md).

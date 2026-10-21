@@ -1,6 +1,5 @@
 ---
 title: "File:Harskarringen 1967 paperback edition.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Harskarringen 1967 paperback edition.jpg</span>"
 page_id: 43860
 namespace: 6
 revision_id: 350768
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The first paperback edition of *[Härskarringen](/wiki/H%C3%A4rskarringen)*, a translation into Swedish of *The Lord of the Rings*.
+The first paperback edition of *[Härskarringen](../../main/H/Härskarringen.md)*, a translation into Swedish of *The Lord of the Rings*.
 
 ## Licensing {#Licensing}
 

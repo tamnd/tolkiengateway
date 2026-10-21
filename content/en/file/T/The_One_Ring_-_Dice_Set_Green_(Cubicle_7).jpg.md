@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Dice Set Green (Cubicle 7).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Dice Set Green (Cubicle 7).jpg</span>"
 page_id: 75029
 namespace: 6
 revision_id: 441770
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://web.archive.org/web/20150516221026/http://www.cubicle7.co.uk/in-stores-today-green-dice-for-the-one-ring" rel="noreferrer noopener" target="_blank">Cubicle 7</a> (archived)</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

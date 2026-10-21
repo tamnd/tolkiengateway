@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Almáriel"
 ---
 
-Redirect to [Almáriel](/wiki/Almáriel).
+Redirect to [Almáriel](Almáriel.md).

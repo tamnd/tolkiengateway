@@ -1,6 +1,5 @@
 ---
 title: "File:Mythprint (Vol.8, No.3).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythprint (Vol.8, No.3).jpg</span>"
 page_id: 28389
 namespace: 6
 revision_id: 213694

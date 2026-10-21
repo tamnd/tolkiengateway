@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin (disambiguation)"
 ---
 
-Redirect to [Dáin (disambiguation)](/wiki/Dáin_(disambiguation)).
+Redirect to [Dáin (disambiguation)](<Dáin_(disambiguation).md>).

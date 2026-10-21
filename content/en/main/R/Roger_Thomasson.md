@@ -1,6 +1,5 @@
 ---
 title: "Roger Thomasson"
-display_title: "<span class=\"mw-page-title-main\">Roger Thomasson</span>"
 page_id: 8284
 namespace: 0
 revision_id: 386694
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Thomasson, Roger"
 ---
 
-**Roger Thomasson** is a Swedish artist who has created numerous illustrations based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works.
+**Roger Thomasson** is a Swedish artist who has created numerous illustrations based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works.
 
 ## See also {#See_also}
 
-- [Images by Roger Thomasson](/wiki/Category:Images_by_Roger_Thomasson "Category:Images by Roger Thomasson")
+- [Images by Roger Thomasson](../../category/I/Images_by_Roger_Thomasson.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórinand"
 ---
 
-Redirect to [Lórinand](/wiki/Lórinand).
+Redirect to [Lórinand](Lórinand.md).

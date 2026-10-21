@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peter Roe Memorial Fund"
 ---
 
-Redirect to [Peter Roe Memorial Fund](/wiki/Peter_Roe_Memorial_Fund).
+Redirect to [Peter Roe Memorial Fund](Peter_Roe_Memorial_Fund.md).

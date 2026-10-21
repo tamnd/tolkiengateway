@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Prologue: A Ring's Tale"
 ---
 
-Redirect to [Prologue: A Ring's Tale](/wiki/Prologue:_A_Ring's_Tale).
+Redirect to [Prologue: A Ring's Tale](Prologue%253A_A_Ring's_Tale.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG logo.png</span>"
 page_id: 72903
 namespace: 6
 revision_id: 441065
@@ -33,19 +32,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">MECCG logo.png</span></th>
 <td class="description">
-<p>The logo of the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
+<p>The logo of the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>David Martin &amp; Derek Carbonneau</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "File:Warner Bros. Interactive Entertainment.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warner Bros. Interactive Entertainment.png</span>"
 page_id: 60726
 namespace: 6
 revision_id: 340638

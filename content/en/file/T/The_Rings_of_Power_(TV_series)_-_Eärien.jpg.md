@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Eärien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Eärien.jpg</span>"
 page_id: 63645
 namespace: 6
 revision_id: 412282
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Eärien](/wiki/E%C3%A4rien) in [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Eärien](../../main/E/Eärien.md) in [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

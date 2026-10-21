@@ -1,6 +1,5 @@
 ---
 title: "File:The War of the Rohirrim - Lord Thorne.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The War of the Rohirrim - Lord Thorne.png</span>"
 page_id: 70554
 namespace: 6
 revision_id: 420796

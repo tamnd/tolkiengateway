@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of catapults"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of catapults</span>"
 page_id: 40417
 namespace: 14
 revision_id: 205031

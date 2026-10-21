@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mary Fairburn (4 September 1968)"
 ---
 
-Redirect to [Letter to Mary Fairburn (4 September 1968)](/wiki/Letter_to_Mary_Fairburn_(4_September_1968)).
+Redirect to [Letter to Mary Fairburn (4 September 1968)](<../L/Letter_to_Mary_Fairburn_(4_September_1968).md>).

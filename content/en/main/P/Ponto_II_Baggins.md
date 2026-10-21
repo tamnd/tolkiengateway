@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ponto Baggins II"
 ---
 
-Redirect to [Ponto Baggins II](/wiki/Ponto_Baggins_II).
+Redirect to [Ponto Baggins II](Ponto_Baggins_II.md).

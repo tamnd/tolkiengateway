@@ -1,6 +1,5 @@
 ---
 title: "File:Przemyslaw Mroczkowski 17 November 1957.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Przemyslaw Mroczkowski 17 November 1957.png</span>"
 page_id: 35142
 namespace: 6
 revision_id: 230621

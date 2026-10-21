@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dol"
 ---
 
-Redirect to [Dol](/wiki/Dol).
+Redirect to [Dol](Dol.md).

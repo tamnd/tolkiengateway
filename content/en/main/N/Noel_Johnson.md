@@ -1,6 +1,5 @@
 ---
 title: "Noel Johnson"
-display_title: "<span class=\"mw-page-title-main\">Noel Johnson</span>"
 page_id: 22593
 namespace: 0
 revision_id: 221888
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Johnson, Noel"
 ---
 
-**Noel Johnson** ([December 28](/wiki/28_December "28 December"), [1916](/wiki/1916) - [October 1](/wiki/1_October "1 October"), [1999](/wiki/1999)) was an English actor. He played [Éomer](/wiki/%C3%89omer) in [*The Lord of the Rings* (1955 radio series)](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)").
+**Noel Johnson** ([December 28](../_/28_December.md), [1916](../_/1916.md) - [October 1](../_/1_October.md), [1999](../_/1999.md)) was an English actor. He played [Éomer](../_/Éomer.md) in [*The Lord of the Rings* (1955 radio series)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
 
 ## External links {#External_links}
 

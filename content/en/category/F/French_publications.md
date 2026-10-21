@@ -1,6 +1,5 @@
 ---
 title: "Category:French publications"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">French publications</span>"
 page_id: 27024
 namespace: 14
 revision_id: 166117

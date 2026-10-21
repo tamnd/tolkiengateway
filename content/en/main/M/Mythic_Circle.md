@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Mythic Circle"
 ---
 
-Redirect to [The Mythic Circle](/wiki/The_Mythic_Circle).
+Redirect to [The Mythic Circle](../T/The_Mythic_Circle.md).

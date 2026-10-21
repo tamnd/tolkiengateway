@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mogru"
 ---
 
-Redirect to [Mogru](/wiki/Mogru).
+Redirect to [Mogru](Mogru.md).

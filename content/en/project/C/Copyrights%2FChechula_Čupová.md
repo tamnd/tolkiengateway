@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Chechula Čupová"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Chechula Čupová</span>"
 page_id: 70470
 namespace: 4
 revision_id: 419993
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Čupová, Chechula"
 ---
 
-- Chechula Čupová has kindly granted her permission to her artwork on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Chechula Čupová has kindly granted her permission to her artwork on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 9 April 2025
-- User who sought the permission via private message: [User:Grace18](/wiki/User:Grace18)
+- User who sought the permission via private message: [User:Grace18](https://tolkiengateway.net/wiki/User:Grace18)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Deutsche Tolkien Gesellschaft e.V."
 ---
 
-Redirect to [Deutsche Tolkien Gesellschaft e.V.](/wiki/Deutsche_Tolkien_Gesellschaft_e.V.).
+Redirect to [Deutsche Tolkien Gesellschaft e.V.](Deutsche_Tolkien_Gesellschaft_e.V..md).

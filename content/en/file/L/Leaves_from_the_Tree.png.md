@@ -1,6 +1,5 @@
 ---
 title: "File:Leaves from the Tree.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leaves from the Tree.png</span>"
 page_id: 46974
 namespace: 6
 revision_id: 249429

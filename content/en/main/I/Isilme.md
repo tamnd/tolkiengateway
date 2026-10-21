@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isilmë"
 ---
 
-Redirect to [Isilmë](/wiki/Isilmë).
+Redirect to [Isilmë](Isilmë.md).

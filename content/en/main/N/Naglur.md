@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Naglur-Danlo"
 ---
 
-Redirect to [Naglur-Danlo](/wiki/Naglur-Danlo).
+Redirect to [Naglur-Danlo](Naglur-Danlo.md).

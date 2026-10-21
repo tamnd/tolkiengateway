@@ -1,6 +1,5 @@
 ---
 title: "File:From Elvish to Klingon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">From Elvish to Klingon.jpg</span>"
 page_id: 33667
 namespace: 6
 revision_id: 214070

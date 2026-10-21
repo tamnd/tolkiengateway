@@ -43,72 +43,68 @@ infobox:
     value: "Amon Hen 195"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Amon_Hen_194.jpg"><img src="/w/images/thumb/9/93/Amon_Hen_194.jpg/320px-Amon_Hen_194.jpg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="/w/images/9/93/Amon_Hen_194.jpg 1.5x" data-file-width="430" data-file-height="618"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 194</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="/wiki/Andrew_Butler" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Steve McKibben/Gene Fields</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/The_Tolkien_Society" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/July" title="July">July</a> <a href="/wiki/2005" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="/wiki/Amon_Hen_193" title="Amon Hen 193">Amon Hen 193</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="/wiki/Amon_Hen_195" title="Amon Hen 195">Amon Hen 195</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Amon_Hen_194.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/93/Amon_Hen_194.jpg/320px-Amon_Hen_194.jpg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/93/Amon_Hen_194.jpg 1.5x" data-file-width="430" data-file-height="618"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 194</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Steve McKibben/Gene Fields</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/July.md" title="July">July</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_193.md" title="Amon Hen 193">Amon Hen 193</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_195.md" title="Amon Hen 195">Amon Hen 195</a></td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-<b><i>Amon Hen</i> 194</b> is the one-hundred-and-ninety-fourth issue of the [The Tolkien Society](/wiki/The_Tolkien_Society)'s bimonthly journal *[Amon Hen](</wiki/Amon_Hen_(journal)> "Amon Hen (journal)")*, published in [July](/wiki/July) [2005](/wiki/2005).
+<b><i>Amon Hen</i> 194</b> is the one-hundred-and-ninety-fourth issue of the [The Tolkien Society](../T/The_Tolkien_Society.md)'s bimonthly journal *[Amon Hen](<Amon_Hen_(journal).md>)*, published in [July](../J/July.md) [2005](../_/2005.md).
 
 ## Contents {#Contents}
 
-- Cover: *Rockin' [the Shire](/wiki/The_Shire "The Shire")*
+- Cover: *Rockin' [the Shire](../T/The_Shire.md)*
     - By: Steve McKibben/Gene Fields
 - Cover lettering
     - By: Susanne Stopfel
 - Editorial
-    - By: [Andrew Butler](/wiki/Andrew_Butler)
+    - By: [Andrew Butler](Andrew_Butler.md)
 - Contents
-- [Bywater](/wiki/Bywater) Announcements
+- [Bywater](../B/Bywater.md) Announcements
     - By: Malcolm Lindley
 - Announcements
-- [Tolkien 2005](/wiki/Tolkien_2005) Announcement
-- Advertisement: [Mithril Armoury](/wiki/Mithril_Armoury)
+- [Tolkien 2005](../T/Tolkien_2005.md) Announcement
+- Advertisement: [Mithril Armoury](../M/Mithril_Armoury.md)
 - Tolkien 2005 Products
     - By: Malcolm Lindley
 - The Fellowship Festival Announcement
-- [Oxonmoot](/wiki/Oxonmoot) Announcement
-- The [Hall of Fire](/wiki/Hall_of_Fire)
+- [Oxonmoot](../O/Oxonmoot.md) Announcement
+- The [Hall of Fire](../H/Hall_of_Fire.md)
     - By: Lynn Forest-Hill
 - On 'Mistress', Political Correctness and Orcs
-    - By: *[Beruthiel](/wiki/Ber%C3%BAthiel "Berúthiel")'s Pet*
-- Poem: *[The Passing of the Grey Company](/wiki/The_Passing_of_the_Grey_Company)*
+    - By: *[Beruthiel](../B/Berúthiel.md)'s Pet*
+- Poem: *[The Passing of the Grey Company](../T/The_Passing_of_the_Grey_Company.md)*
     - By: Julia Fenton
 - Report: The Tolkien Weekend 2005
-    - By: [Bob Blackham](/wiki/Robert_S._Blackham "Robert S. Blackham")
-- Artwork: *[Old Toby](/wiki/Old_Toby)*
+    - By: [Bob Blackham](../R/Robert_S._Blackham.md)
+- Artwork: *[Old Toby](../O/Old_Toby.md)*
     - By: Glen Tomney
 - The Gardens of Middle-earth - Part Six: Rivendell
     - By: Suzanna Nemeth
-- The Moon Writing of [Middle Earth](/wiki/Middle-earth "Middle-earth")
+- The Moon Writing of [Middle Earth](../M/Middle-earth.md)
     - By: Tony Shell
-- The Modern [Rohirrim](/wiki/Rohirrim)
+- The Modern [Rohirrim](../R/Rohirrim.md)
     - By: Jason Finch
 - Behind Glass Doors
-    - By: [Sally Kennett](/wiki/Sally_Kennett)
-- Review: *[Tolkien Studies Volume 2](/wiki/Tolkien_Studies:_Volume_2 "Tolkien Studies: Volume 2")*
-    - By: [Helen Armstrong](/wiki/Helen_Armstrong)
-- Review: <i><a class="new" href="/w/index.php?title=Defending_Middle-earth&amp;action=edit&amp;redlink=1" title="Defending Middle-earth (page does not exist)">Defending Middle-earth</a></i>
+    - By: [Sally Kennett](../S/Sally_Kennett.md)
+- Review: *[Tolkien Studies Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)*
+    - By: [Helen Armstrong](../H/Helen_Armstrong.md)
+- Review: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Defending_Middle-earth&amp;action=edit&amp;redlink=1" title="Defending Middle-earth (page does not exist)">Defending Middle-earth</a></i>
     - By: Tony Shell
-- Review: [Hobbit](</wiki/Hobbit_(band)> "Hobbit (band)") *All for the One* (CD)
+- Review: [Hobbit](<../H/Hobbit_(band).md>) *All for the One* (CD)
     - By: Michael Cunningham
 - Interview: Hobbit (rock band)
     - By: Michael Cunningham
 - Competition: Win Hobbit's *All for the One*
     - By: Michael Cunningham
 - Letters
-- [Mathom](/wiki/Mathom)
+- [Mathom](../M/Mathom.md)
     - By: Anne Forbes
-- News From [Fangorn](/wiki/Fangorn_Forest "Fangorn Forest")
+- News From [Fangorn](../F/Fangorn_Forest.md)
     - By: Kim Mantas
 - Review: *The Eagles of Manwe Issue 1. No: 1*
     - By: Andrew Butler
 - Sally's Snippets
-    - By: [Sally Kennett](/wiki/Sally_Kennett)
+    - By: [Sally Kennett](../S/Sally_Kennett.md)
 - New Members
 - Member Profile
     - By: Andrew Arliss Turner
 - Dates for your Diary/Committee
 
-<style data-mw-deduplicate="TemplateStyles:r414667">.mw-parser-output .template-prevnext{margin:var(--space-md)0;padding:var(--space-xxs);background-color:var(--color-surface-2);border-radius:var(--border-radius-medium);font-size:var(--font-size-small);line-height:var(--line-height-sm);display:grid;align-items:center;grid-template-areas:"prev current next";grid-template-columns:minmax(max-content,1fr)minmax(max-content,1fr)minmax(max-content,1fr)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__next{position:relative;border-radius:var(--border-radius-base);display:flex;align-items:center;gap:var(--space-sm)}.mw-parser-output .template-prevnext__prev,.mw-parser-output .template-prevnext__current,.mw-parser-output .template-prevnext__next{padding:var(--space-xs)}.mw-parser-output .template-prevnext__prev{grid-area:prev}.mw-parser-output .template-prevnext__current{grid-area:current;text-align:center}.mw-parser-output .template-prevnext__next{grid-area:next;justify-content:flex-end;text-align:end}.mw-parser-output .template-prevnext__link:hover{background-color:var(--background-color-button-quiet--hover)}.mw-parser-output .template-prevnext__link:hover>.template-prevnext__icon{opacity:var(--opacity-icon-base--hover)}.mw-parser-output .template-prevnext__prev:hover>.template-prevnext__icon{transform:translateX(-2px)}.mw-parser-output .template-prevnext__next:hover>.template-prevnext__icon{transform:translateX(2px)}.mw-parser-output .template-prevnext__link:active{background-color:var(--background-color-button-quiet--active)}.mw-parser-output .template-prevnext__link:active>.template-prevnext__icon{opacity:var(--opacity-icon-base--selected)}.mw-parser-output .template-prevnext__icon{opacity:var(--opacity-icon-base);transition:transform 250ms ease}.mw-parser-output .template-prevnext__icon img{filter:var(--filter-invert)}.mw-parser-output .template-prevnext__title{color:var(--color-emphasized);font-weight:500}.mw-parser-output .template-prevnext__link .template-prevnext__title{color:var(--color-progressive)}.mw-parser-output .template-prevnext__link--new .template-prevnext__title{color:var(--color-link-new)}.mw-parser-output .template-prevnext__desc{color:var(--color-subtle);font-size:var(--font-size-x-small)}.mw-parser-output .template-prevnext__linkoverlay{position:absolute;top:0;left:0;right:0;bottom:0}.mw-parser-output .template-prevnext__linkoverlay>a{display:block;font-size:0;height:100%}@media screen and (max-width:639px){.mw-parser-output .template-prevnext{grid-template-areas:"current current""prev next";grid-template-columns:auto}.mw-parser-output .template-prevnext__current{border-bottom:1px solid var(--border-color-base)}}</style>
-
-<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 193</div></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Amon_Hen_193" title="Amon Hen 193">Amon Hen 193</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 194</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 195</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="/wiki/Amon_Hen_195" title="Amon Hen 195">Amon Hen 195</a></div></div></div>
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 193</div></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_193.md" title="Amon Hen 193">Amon Hen 193</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 194</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Amon Hen 195</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Amon_Hen_195.md" title="Amon Hen 195">Amon Hen 195</a></div></div></div>

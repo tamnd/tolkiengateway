@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Christopher Gilson"
 ---
 
-Redirect to [Christopher Gilson](/wiki/Christopher_Gilson).
+Redirect to [Christopher Gilson](Christopher_Gilson.md).

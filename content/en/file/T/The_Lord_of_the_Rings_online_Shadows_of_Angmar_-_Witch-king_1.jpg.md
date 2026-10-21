@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings online Shadows of Angmar - Witch-king 1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings online Shadows of Angmar - Witch-king 1.jpg</span>"
 page_id: 17911
 namespace: 6
 revision_id: 169522
@@ -24,7 +23,7 @@ file:
   user: "Narfil Palùrfalas"
 ---
 
-The [Witch-king](/wiki/Witch-king).
+The [Witch-king](../../main/W/Witch-king.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.turbine.com/" rel="noreferrer noopener" target="_blank">Turbine</a>. It is believed that the limited use of this file,

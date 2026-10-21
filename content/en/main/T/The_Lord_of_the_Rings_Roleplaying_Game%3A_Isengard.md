@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengard (LOTRRPG)"
 ---
 
-Redirect to [Isengard (LOTRRPG)](/wiki/Isengard_(LOTRRPG)).
+Redirect to [Isengard (LOTRRPG)](<../I/Isengard_(LOTRRPG).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Fellowship extended.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fellowship extended.jpg</span>"
 page_id: 21901
 namespace: 6
 revision_id: 368719

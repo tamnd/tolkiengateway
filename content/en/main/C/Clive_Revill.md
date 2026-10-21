@@ -1,6 +1,5 @@
 ---
 title: "Clive Revill"
-display_title: "<span class=\"mw-page-title-main\">Clive Revill</span>"
 page_id: 19206
 namespace: 0
 revision_id: 223048
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Revill, Clive"
 ---
 
-**Clive Selsby Revill** ([April 18](/wiki/18_April "18 April"), [1930](/wiki/1930)) is a [Wellington](/wiki/Wellington) born voice actor, best known as the *original* voice of <a class="external text" href="http://starwars.wikia.com/wiki/Clive_Revill" rel="noreferrer noopener" target="_blank">Emperor Palpatine</a> in *The Empire Strikes Back*. Revill, who now mixes screen acting with voice-over work, provided the voice of [Thorin](/wiki/Thorin) in [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)"), and did several unspecified additional voices.
+**Clive Selsby Revill** ([April 18](../_/18_April.md), [1930](../_/1930.md)) is a [Wellington](../W/Wellington.md) born voice actor, best known as the *original* voice of <a class="external text" href="http://starwars.wikia.com/wiki/Clive_Revill" rel="noreferrer noopener" target="_blank">Emperor Palpatine</a> in *The Empire Strikes Back*. Revill, who now mixes screen acting with voice-over work, provided the voice of [Thorin](../T/Thorin.md) in [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>), and did several unspecified additional voices.
 
 ## External links {#External_links}
 

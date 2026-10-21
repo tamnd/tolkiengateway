@@ -1,6 +1,5 @@
 ---
 title: "File:Beren and Lúthien 2017 large.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beren and Lúthien 2017 large.png</span>"
 page_id: 61980
 namespace: 6
 revision_id: 349219

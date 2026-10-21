@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harding (rider of Rohan)"
 ---
 
-Redirect to [Harding (rider of Rohan)](/wiki/Harding_(rider_of_Rohan)).
+Redirect to [Harding (rider of Rohan)](<Harding_(rider_of_Rohan).md>).

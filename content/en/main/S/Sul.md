@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sûl"
 ---
 
-Redirect to [Sûl](/wiki/Sûl).
+Redirect to [Sûl](Sûl.md).

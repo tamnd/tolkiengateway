@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - The Lord of the Rings - The Video Game.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - The Lord of the Rings - The Video Game.jpg</span>"
 page_id: 57136
 namespace: 6
 revision_id: 313821
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional Image of [Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game).
+Promotional Image of [Lego The Lord of the Rings: The Video Game](../../main/L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md).
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Christmas House and the Cliff House.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Christmas House and the Cliff House.png</span>"
 page_id: 66713
 namespace: 6
 revision_id: 386927
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawing by [Father Christmas](/wiki/Father_Christmas) of the [Christmas House](/wiki/Christmas_House) and his new house the [Cliff House](/wiki/Cliff_House) sent in [1925](/wiki/1925).
+Drawing by [Father Christmas](../../main/F/Father_Christmas.md) of the [Christmas House](../../main/C/Christmas_House.md) and his new house the [Cliff House](../../main/C/Cliff_House.md) sent in [1925](../../main/_/1925.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A to Z of Tolkien"
 ---
 
-Redirect to [A to Z of Tolkien](/wiki/A_to_Z_of_Tolkien).
+Redirect to [A to Z of Tolkien](../A/A_to_Z_of_Tolkien.md).

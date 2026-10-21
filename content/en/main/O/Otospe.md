@@ -1,6 +1,5 @@
 ---
 title: "Otospe"
-display_title: "<span class=\"mw-page-title-main\">Otospe</span>"
 page_id: 21603
 namespace: 0
 revision_id: 181221
@@ -13,21 +12,21 @@ categories:
   - "Telerin numbers"
 ---
 
-**otospe** is the [Telerin](/wiki/Telerin) number "eventeen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**otospe** is the [Telerin](../T/Telerin.md) number "eventeen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*[otos](/wiki/Otos "Otos")* and we see the suffix <i><a class="new" href="/w/index.php?title=-pe&amp;action=edit&amp;redlink=1" title="-pe (page does not exist)">-pe</a></i> "-teen".
+*[otos](Otos.md)* and we see the suffix <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-pe&amp;action=edit&amp;redlink=1" title="-pe (page does not exist)">-pe</a></i> "-teen".
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Otoque&amp;action=edit&amp;redlink=1" title="Otoque (page does not exist)">otoque</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Otoque&amp;action=edit&amp;redlink=1" title="Otoque (page does not exist)">otoque</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_48.md" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005</span>
 </li>
 </ol></div>

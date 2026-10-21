@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Fell Cat.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Fell Cat.jpg</span>"
 page_id: 13411
 namespace: 6
 revision_id: 198374

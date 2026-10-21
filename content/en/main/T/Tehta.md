@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tehtar"
 ---
 
-Redirect to [Tehtar](/wiki/Tehtar).
+Redirect to [Tehtar](Tehtar.md).

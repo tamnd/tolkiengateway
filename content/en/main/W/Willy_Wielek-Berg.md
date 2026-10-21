@@ -1,6 +1,5 @@
 ---
 title: "Willy Wielek-Berg"
-display_title: "<span class=\"mw-page-title-main\">Willy Wielek-Berg</span>"
 page_id: 19500
 namespace: 0
 revision_id: 154939
@@ -24,18 +23,18 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Willy_Wielek-Berg"
 ---
 
-**Willy Wielek-Berg** ([June 14](/wiki/14_June "14 June"), [1919](/wiki/1919) - [January 7](/wiki/7_January "7 January"), [2004](/wiki/2004)) was a Dutch translator. She translated some of [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s non-[Middle-earth](/wiki/Middle-earth) stories into Dutch and was the first to translate *[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)* and *[Leaf by Niggle](/wiki/Leaf_by_Niggle)*. Among her other translations is the work of [Vera Chapman](/wiki/Vera_Chapman).
+**Willy Wielek-Berg** ([June 14](../_/14_June.md), [1919](../_/1919.md) - [January 7](../_/7_January.md), [2004](../_/2004.md)) was a Dutch translator. She translated some of [Tolkien](../J/J.R.R._Tolkien.md)'s non-[Middle-earth](../M/Middle-earth.md) stories into Dutch and was the first to translate *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* and *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Among her other translations is the work of [Vera Chapman](../V/Vera_Chapman.md).
 
 ## Translations {#Translations}
 
-- [1968](/wiki/1968): *De Smid van Groot-Wolding* (*[Smith of Wootton Major](/wiki/Smith_of_Wootton_Major)*)
-- [1971](/wiki/1971): *Sprookjes van Tolkien* (1)
+- [1968](../_/1968.md): *De Smid van Groot-Wolding* (*[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*)
+- [1971](../_/1971.md): *Sprookjes van Tolkien* (1)
     - *De Smid van Groot-Wolding*
-    - *Boer Gilles van Ham* (*[Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham)*)
-    - *Blad van Klein* (*[Leaf by Niggle](/wiki/Leaf_by_Niggle)*)
-- [1977](/wiki/1977): *Sprookjes van Tolkien* (2) (with [Max Schuchart](/wiki/Max_Schuchart))
-    - *Boom en blad* (*[Tree and Leaf](/wiki/Tree_and_Leaf)*)
-        - *Over Sprookjesverhalen* (*[On Fairy-Stories](/wiki/On_Fairy-Stories)*) \[translated by Max Schuchart\]
+    - *Boer Gilles van Ham* (*[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*)
+    - *Blad van Klein* (*[Leaf by Niggle](../L/Leaf_by_Niggle.md)*)
+- [1977](../_/1977.md): *Sprookjes van Tolkien* (2) (with [Max Schuchart](../M/Max_Schuchart.md))
+    - *Boom en blad* (*[Tree and Leaf](../T/Tree_and_Leaf.md)*)
+        - *Over Sprookjesverhalen* (*[On Fairy-Stories](../O/On_Fairy-Stories.md)*) \[translated by Max Schuchart\]
         - *Blad van Klein* \[translated by Willy Wielek-Berg\]
     - *De Smid van Groot-Wolding* \[translated by Willy Wielek-Berg\]
     - *Boer Gilles van Ham* \[translated by Willy Wielek-Berg\]

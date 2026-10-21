@@ -1,6 +1,5 @@
 ---
 title: "File:Brackenbrook in the Madge Badger Inn-LOTRO-1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brackenbrook in the Madge Badger Inn-LOTRO-1.jpg</span>"
 page_id: 28744
 namespace: 6
 revision_id: 369310
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Captain Brackenbrook](/wiki/Captain_Brackenbrook) in the Mad Badger Inn.
+[Captain Brackenbrook](../../main/C/Captain_Brackenbrook.md) in the Mad Badger Inn.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "SIL"
 ---
 
-Redirect to [SIL](/wiki/SIL).
+Redirect to [SIL](SIL~59984.md).

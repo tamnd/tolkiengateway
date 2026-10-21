@@ -1,6 +1,5 @@
 ---
 title: "File:The Essential J.R.R. Tolkien Sourcebook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Essential J.R.R. Tolkien Sourcebook.jpg</span>"
 page_id: 26373
 namespace: 6
 revision_id: 214405

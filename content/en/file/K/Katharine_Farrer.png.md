@@ -1,6 +1,5 @@
 ---
 title: "File:Katharine Farrer.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Katharine Farrer.png</span>"
 page_id: 66981
 namespace: 6
 revision_id: 389523
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Katharine Farrer](/wiki/Katharine_Farrer), likely taken c. 1957 (publication year of her book Gownsman's Gallows)
+Image of [Katharine Farrer](../../main/K/Katharine_Farrer.md), likely taken c. 1957 (publication year of her book Gownsman's Gallows)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

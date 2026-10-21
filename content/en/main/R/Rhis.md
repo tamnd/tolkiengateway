@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rhîs"
 ---
 
-Redirect to [Rhîs](/wiki/Rhîs).
+Redirect to [Rhîs](Rhîs.md).

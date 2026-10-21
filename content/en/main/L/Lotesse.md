@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lótessë"
 ---
 
-Redirect to [Lótessë](/wiki/Lótessë).
+Redirect to [Lótessë](Lótessë.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vinyalondë"
 ---
 
-Redirect to [Vinyalondë](/wiki/Vinyalondë).
+Redirect to [Vinyalondë](Vinyalondë.md).

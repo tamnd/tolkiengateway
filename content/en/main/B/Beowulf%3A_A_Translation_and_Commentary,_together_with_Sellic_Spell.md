@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf: A Translation and Commentary"
 ---
 
-Redirect to [Beowulf: A Translation and Commentary](/wiki/Beowulf:_A_Translation_and_Commentary).
+Redirect to [Beowulf: A Translation and Commentary](Beowulf%253A_A_Translation_and_Commentary.md).

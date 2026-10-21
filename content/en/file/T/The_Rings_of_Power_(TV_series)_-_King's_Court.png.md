@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - King's Court.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - King&#039;s Court.png</span>"
 page_id: 64037
 namespace: 6
 revision_id: 412249
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [King's Court](/wiki/King%27s_Court) of [Armenelos](/wiki/Armenelos) as depicted in the first season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+The [King's Court](../../main/K/King's_Court.md) of [Armenelos](../../main/A/Armenelos.md) as depicted in the first season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calam Lynch"
 ---
 
-Redirect to [Calam Lynch](/wiki/Calam_Lynch).
+Redirect to [Calam Lynch](Calam_Lynch.md).

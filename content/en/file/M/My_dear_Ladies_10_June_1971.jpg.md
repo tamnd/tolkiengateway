@@ -1,6 +1,5 @@
 ---
 title: "File:My dear Ladies 10 June 1971.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">My dear Ladies 10 June 1971.jpg</span>"
 page_id: 43273
 namespace: 6
 revision_id: 227706

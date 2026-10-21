@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Menelmacar"
 ---
 
-Redirect to [Menelmacar](/wiki/Menelmacar).
+Redirect to [Menelmacar](../M/Menelmacar.md).

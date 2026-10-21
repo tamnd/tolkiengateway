@@ -1,6 +1,5 @@
 ---
 title: "File:Rohan Region Guide.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rohan Region Guide.jpeg</span>"
 page_id: 74752
 namespace: 6
 revision_id: 439680

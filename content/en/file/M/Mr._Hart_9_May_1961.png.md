@@ -1,6 +1,5 @@
 ---
 title: "File:Mr. Hart 9 May 1961.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr. Hart 9 May 1961.png</span>"
 page_id: 38713
 namespace: 6
 revision_id: 215076

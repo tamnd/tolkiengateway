@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ciryandil (disambiguation)"
 ---
 
-Redirect to [Ciryandil (disambiguation)](/wiki/Ciryandil_(disambiguation)).
+Redirect to [Ciryandil (disambiguation)](<../C/Ciryandil_(disambiguation).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fen of Serech"
 ---
 
-Redirect to [Fen of Serech](/wiki/Fen_of_Serech).
+Redirect to [Fen of Serech](../F/Fen_of_Serech.md).

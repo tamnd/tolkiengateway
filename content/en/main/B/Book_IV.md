@@ -11,4 +11,4 @@ redirect_target: "The Two Towers"
 redirect_fragment: "Book IV"
 ---
 
-Redirect to [The Two Towers](/wiki/The_Two_Towers#Book_IV).
+Redirect to [The Two Towers](../T/The_Two_Towers.md#Book_IV).

@@ -1,6 +1,5 @@
 ---
 title: "The Magnificent"
-display_title: "<span class=\"mw-page-title-main\">The Magnificent</span>"
 page_id: 3842
 namespace: 0
 revision_id: 407525
@@ -15,19 +14,19 @@ sort_keys:
   "Epithets": "Magnificent, The"
 ---
 
-The **Magnificent** was a title used of [Meriadoc Brandybuck](/wiki/Meriadoc_Brandybuck) after his return from the [War of the Ring](/wiki/War_of_the_Ring).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The **Magnificent** was a title used of [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) after his return from the [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-The [Elvenking](/wiki/Thranduil "Thranduil") called [Bilbo Baggins](/wiki/Bilbo_Baggins) "Bilbo the Magnificent" when Bilbo before departing gave him a present as a return for his "hospitality".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+The [Elvenking](Thranduil.md) called [Bilbo Baggins](../B/Bilbo_Baggins.md) "Bilbo the Magnificent" when Bilbo before departing gave him a present as a return for his "hospitality".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;Later Events Concerning the Members of the Fellowship of the Ring&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;Later Events Concerning the Members of the Fellowship of the Ring&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_C" title="Appendix C">Appendix C</a>, &#34;Brandybuck of Buckland&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_C.md" title="Appendix C">Appendix C</a>, &#34;Brandybuck of Buckland&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/The_Return_Journey" title="The Return Journey">The Return Journey</a>&#34;.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="The_Return_Journey.md" title="The Return Journey">The Return Journey</a>&#34;.</span>
 </li>
 </ol></div>

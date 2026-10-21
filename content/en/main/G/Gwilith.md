@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Gwilith** is the [Sindarin](/wiki/Sindarin) word for "sky" or "air".
+**Gwilith** is the [Sindarin](../S/Sindarin.md) word for "sky" or "air".

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Parma Eldalamberon 14.png"
 ---
 
-Redirect to [File:Parma Eldalamberon 14.png](/wiki/File:Parma_Eldalamberon_14.png).
+Redirect to [File:Parma Eldalamberon 14.png](Parma_Eldalamberon_14.png.md).

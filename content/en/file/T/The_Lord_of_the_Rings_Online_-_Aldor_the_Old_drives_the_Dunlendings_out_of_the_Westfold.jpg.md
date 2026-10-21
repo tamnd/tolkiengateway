@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Aldor the Old drives the Dunlendings out of the Westfold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Aldor the Old drives the Dunlendings out of the Westfold.jpg</span>"
 page_id: 59618
 namespace: 6
 revision_id: 364654

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Martin M. Snapp"
-display_title: "<span class=\"mw-page-title-main\">Letter to Martin M. Snapp</span>"
 page_id: 25977
 namespace: 0
 revision_id: 387864
@@ -17,9 +16,9 @@ images:
   - "Snapp_1966.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Snapp_1966.jpg"><img src="/w/images/thumb/7/7b/Snapp_1966.jpg/300px-Snapp_1966.jpg" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="/w/images/thumb/7/7b/Snapp_1966.jpg/450px-Snapp_1966.jpg 1.5x, /w/images/7/7b/Snapp_1966.jpg 2x" data-file-width="533" data-file-height="671"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Snapp_1966.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Snapp_1966.jpg/300px-Snapp_1966.jpg" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Snapp_1966.jpg/450px-Snapp_1966.jpg 1.5x, https://tolkiengateway.net/w/images/7/7b/Snapp_1966.jpg 2x" data-file-width="533" data-file-height="671"/></a><figcaption></figcaption></figure>
 
-On [6 May](/wiki/6_May) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Martin M. Snapp** of <a class="extiw" href="http://en.wikipedia.org/wiki/Yale_University" title="wikipedia:Yale University">Yale University</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [6 May](../_/6_May.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Martin M. Snapp** of <a class="extiw" href="http://en.wikipedia.org/wiki/Yale_University" title="wikipedia:Yale University">Yale University</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Description:** Autographed, one-page typewritten letter.
 - **Publication:** None.
@@ -35,6 +34,6 @@ With regard to your proposition: I do not deal with matters of that kind myself.
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 17 April 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a></span>. <span class="cite-web-article"><a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">&#34;Addenda and Corrigenda to <i>The J.R.R. Tolkien Companion and Guide</i> (2006) Vol. 1: Chronology&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.hammondandscull.com" rel="noreferrer noopener" target="_blank">Hammond&amp;Scull.com</a></span>. <span class="cite-web-accessed">Retrieved 17 April 2012</span></cite></span>
 </li>
 </ol></div>

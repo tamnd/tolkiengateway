@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glowworms"
 ---
 
-Redirect to [Glowworms](/wiki/Glowworms).
+Redirect to [Glowworms](Glowworms.md).

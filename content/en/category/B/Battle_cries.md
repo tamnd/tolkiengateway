@@ -1,6 +1,5 @@
 ---
 title: "Category:Battle cries"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Battle cries</span>"
 page_id: 56719
 namespace: 14
 revision_id: 372841
@@ -13,4 +12,4 @@ categories:
   - "Words"
 ---
 
-<dl><dd>Here are listed some battle cries within the <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>.</dd></dl>
+<dl><dd>Here are listed some battle cries within the <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>.</dd></dl>

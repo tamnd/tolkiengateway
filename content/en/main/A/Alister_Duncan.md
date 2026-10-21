@@ -1,6 +1,5 @@
 ---
 title: "Alister Duncan"
-display_title: "<span class=\"mw-page-title-main\">Alister Duncan</span>"
 page_id: 22767
 namespace: 0
 revision_id: 359939
@@ -19,17 +18,17 @@ sort_keys:
   "People by name": "Duncan, Alister"
 ---
 
-**Alastair Neil Duncan** (born [January 29](/wiki/29_January "29 January"), [1958](/wiki/1958)) is a Scottish voice actor.
+**Alastair Neil Duncan** (born [January 29](../_/29_January.md), [1958](../_/1958.md)) is a Scottish voice actor.
 
 ## Roles {#Roles}
 
-- [2017](/wiki/2017): *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)* - [Wraith](/wiki/Celebrimbor "Celebrimbor")
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - [Wraith](/wiki/Celebrimbor "Celebrimbor")
-- [2003](/wiki/2003): *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")* - [Kíli](/wiki/K%C3%ADli), Additional voices
+- [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Wraith](../C/Celebrimbor.md)
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - [Wraith](../C/Celebrimbor.md)
+- [2003](../_/2003.md): *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)* - [Kíli](../K/Kíli.md), Additional voices
 
 ## Awards {#Awards}
 
-- [2015](/wiki/2015) - <b><a class="external text" href="https://www.behindthevoiceactors.com/" rel="noreferrer noopener" target="_blank">BTVA Award</a></b>, Best Male Vocal Performance in a Video Game in a Supporting Role, *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*
+- [2015](../_/2015.md) - <b><a class="external text" href="https://www.behindthevoiceactors.com/" rel="noreferrer noopener" target="_blank">BTVA Award</a></b>, Best Male Vocal Performance in a Video Game in a Supporting Role, *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*
 
 ## External links {#External_links}
 

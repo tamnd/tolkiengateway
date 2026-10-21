@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Bounder.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Bounder.png</span>"
 page_id: 72397
 namespace: 6
 revision_id: 430222
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A [Bounder](/wiki/Bounders "Bounders"), portrayed by [Ian Mune](/wiki/Ian_Mune) in *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*
+A [Bounder](../../main/B/Bounders.md), portrayed by [Ian Mune](../../main/I/Ian_Mune.md) in *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*
 
 ## Licensing {#Licensing}
 

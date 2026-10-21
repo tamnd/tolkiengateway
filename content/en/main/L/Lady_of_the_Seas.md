@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uinen"
 ---
 
-Redirect to [Uinen](/wiki/Uinen).
+Redirect to [Uinen](../U/Uinen.md).

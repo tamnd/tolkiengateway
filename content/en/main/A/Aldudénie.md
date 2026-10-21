@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldudénië"
 ---
 
-Redirect to [Aldudénië](/wiki/Aldudénië).
+Redirect to [Aldudénië](Aldudénië.md).

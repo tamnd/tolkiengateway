@@ -1,6 +1,5 @@
 ---
 title: "Lynn Maudlin"
-display_title: "<span class=\"mw-page-title-main\">Lynn Maudlin</span>"
 page_id: 14281
 namespace: 0
 revision_id: 116616
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Maudlin, Lynn"
 ---
 
-**Lynn Maudlin**, singer-songwriter and artist, created [The 1990 NOT Tolkien Calendar](/wiki/The_1990_NOT_Tolkien_Calendar) for [The Mythopoeic Society](/wiki/The_Mythopoeic_Society) in 1989. Lynn was the North American Booking Officer for [The Tolkien Society](/wiki/The_Tolkien_Society)'s 1992 [Tolkien Centenary Conference](/wiki/Tolkien_Centenary_Conference) and acted as conference committee liaison to the [Mythopoeic Society](/wiki/Mythopoeic_Society).
+**Lynn Maudlin**, singer-songwriter and artist, created [The 1990 NOT Tolkien Calendar](../T/The_1990_NOT_Tolkien_Calendar.md) for [The Mythopoeic Society](../T/The_Mythopoeic_Society.md) in 1989. Lynn was the North American Booking Officer for [The Tolkien Society](../T/The_Tolkien_Society.md)'s 1992 [Tolkien Centenary Conference](../T/Tolkien_Centenary_Conference.md) and acted as conference committee liaison to the [Mythopoeic Society](../M/Mythopoeic_Society.md).
 
 ## External links {#External_links}
 

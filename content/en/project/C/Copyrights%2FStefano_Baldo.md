@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Stefano Baldo"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Stefano Baldo</span>"
 page_id: 45748
 namespace: 4
 revision_id: 241512
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Baldo, Stefano"
 ---
 
-- <a class="external text" href="http://www.ideacrylic.com/" rel="noreferrer noopener" target="_blank">Stefano Baldo</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Stefano_Baldo "Category:Images by Stefano Baldo") inspired by Tolkien's Middle-earth on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="http://www.ideacrylic.com/" rel="noreferrer noopener" target="_blank">Stefano Baldo</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Stefano_Baldo.md) inspired by Tolkien's Middle-earth on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 March 2014.
-- User who sought the permission via private communication: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private communication: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

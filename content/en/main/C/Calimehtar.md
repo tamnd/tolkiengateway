@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calimehtar (disambiguation)"
 ---
 
-Redirect to [Calimehtar (disambiguation)](/wiki/Calimehtar_(disambiguation)).
+Redirect to [Calimehtar (disambiguation)](<Calimehtar_(disambiguation).md>).

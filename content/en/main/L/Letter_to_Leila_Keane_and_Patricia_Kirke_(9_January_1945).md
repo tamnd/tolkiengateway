@@ -1,6 +1,5 @@
 ---
 title: "Letter to Leila Keane and Patricia Kirke (9 January 1945)"
-display_title: "<span class=\"mw-page-title-main\">Letter to Leila Keane and Patricia Kirke (9 January 1945)</span>"
 page_id: 63029
 namespace: 0
 revision_id: 356640
@@ -19,7 +18,7 @@ images:
   - "Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_3_of_3.jpg"
 ---
 
-On **[9 January](/wiki/9_January) [1945](/wiki/1945)** [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote a letter to Leila Keane and Patricia Kirke.
+On **[9 January](../_/9_January.md) [1945](../_/1945.md)** [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote a letter to Leila Keane and Patricia Kirke.
 
 ## Details from Auction {#Details_from_Auction}
 
@@ -33,27 +32,25 @@ TOLKIEN, John Ronald Reuel (1892-1973). Autograph letter signed (&#34;Ye olde Pr
 <p class="tg-quote-footer"><cite>Christie&#39;s</cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## Gallery {#Gallery}
 
 <ul class="gallery mw-gallery-packed-hover">
 		<li class="gallerybox" style="width: 82.666666666667px">
-			<div class="thumb" style="width: 80.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_1_of_3.jpg" title="Page 1"><img alt="Page 1" src="/w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/121px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg" decoding="async" loading="lazy" width="81" height="120" class="mw-file-element" srcset="/w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/182px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg 1.5x, /w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/243px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg 2x" data-file-width="2158" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 80.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_1_of_3.jpg.md" title="Page 1"><img alt="Page 1" src="https://tolkiengateway.net/w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/121px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg" decoding="async" loading="lazy" width="81" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/182px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg/243px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_1_of_3.jpg 2x" data-file-width="2158" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 61px"><div class="gallerytext">
 <p>Page 1
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 83.333333333333px">
-			<div class="thumb" style="width: 81.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_2_of_3.jpg" title="Page 2"><img alt="Page 2" src="/w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/122px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="/w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/183px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg 1.5x, /w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/245px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg 2x" data-file-width="2176" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 81.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_2_of_3.jpg.md" title="Page 2"><img alt="Page 2" src="https://tolkiengateway.net/w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/122px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/183px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7a/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg/245px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_2_of_3.jpg 2x" data-file-width="2176" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
 <p>Page 2
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 82.666666666667px">
-			<div class="thumb" style="width: 80.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_3_of_3.jpg" title="Page 3"><img alt="Page 3" src="/w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/121px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg" decoding="async" loading="lazy" width="81" height="120" class="mw-file-element" srcset="/w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/182px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg 1.5x, /w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/243px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg 2x" data-file-width="2158" data-file-height="3200"/></a></span></div>
+			<div class="thumb" style="width: 80.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Letter_to_Leila_Keane_and_Patricia_Kirke_(9_January_1945)_3_of_3.jpg.md" title="Page 3"><img alt="Page 3" src="https://tolkiengateway.net/w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/121px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg" decoding="async" loading="lazy" width="81" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/182px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg/243px-Letter_to_Leila_Keane_and_Patricia_Kirke_%289_January_1945%29_3_of_3.jpg 2x" data-file-width="2158" data-file-height="3200"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 61px"><div class="gallerytext">
 <p>Page 3
 </p>
@@ -63,9 +60,9 @@ TOLKIEN, John Ronald Reuel (1892-1973). Autograph letter signed (&#34;Ye olde Pr
 
 ## See also {#See_also}
 
-- [Letter to Patricia Kirke (24 December 1956)](</wiki/Letter_to_Patricia_Kirke_(24_December_1956)>)
-- [Letter to Leila Keene and Pat Kirke](/wiki/Letter_to_Leila_Keene_and_Pat_Kirke)
-- [Letter to Patricia Kirke (28 March 1956)](</wiki/Letter_to_Patricia_Kirke_(28_March_1956)>)
+- [Letter to Patricia Kirke (24 December 1956)](<Letter_to_Patricia_Kirke_(24_December_1956).md>)
+- [Letter to Leila Keene and Pat Kirke](Letter_to_Leila_Keene_and_Pat_Kirke.md)
+- [Letter to Patricia Kirke (28 March 1956)](<Letter_to_Patricia_Kirke_(28_March_1956).md>)
 
 ## External links {#External_links}
 

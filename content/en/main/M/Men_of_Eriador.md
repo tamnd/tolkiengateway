@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle Men"
 ---
 
-Redirect to [Middle Men](/wiki/Middle_Men).
+Redirect to [Middle Men](Middle_Men.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ælfwine"
 ---
 
-Redirect to [Ælfwine](/wiki/Ælfwine).
+Redirect to [Ælfwine](Ælfwine.md).

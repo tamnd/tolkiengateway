@@ -1,6 +1,5 @@
 ---
 title: "Category:Forest-folk"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Forest-folk</span>"
 page_id: 68680
 namespace: 14
 revision_id: 408686
@@ -13,4 +12,4 @@ categories:
   - "Characters in The Adventures of Tom Bombadil"
 ---
 
-This page is for the inhabitants of the [Old Forest](/wiki/Old_Forest) whom [Hobbits](/wiki/Hobbits) call <a class="new" href="/w/index.php?title=Forest-folk&amp;action=edit&amp;redlink=1" title="Forest-folk (page does not exist)">Forest-folk</a>.
+This page is for the inhabitants of the [Old Forest](../../main/O/Old_Forest.md) whom [Hobbits](../../main/H/Hobbits.md) call <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forest-folk&amp;action=edit&amp;redlink=1" title="Forest-folk (page does not exist)">Forest-folk</a>.

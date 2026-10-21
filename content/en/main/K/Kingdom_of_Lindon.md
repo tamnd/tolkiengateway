@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lindon"
 ---
 
-Redirect to [Lindon](/wiki/Lindon).
+Redirect to [Lindon](../L/Lindon.md).

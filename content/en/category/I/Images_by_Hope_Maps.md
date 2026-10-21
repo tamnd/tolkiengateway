@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Hope Maps"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Hope Maps</span>"
 page_id: 63417
 namespace: 14
 revision_id: 360761

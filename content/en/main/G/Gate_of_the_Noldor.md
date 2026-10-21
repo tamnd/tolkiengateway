@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annon-in-Gelydh"
 ---
 
-Redirect to [Annon-in-Gelydh](/wiki/Annon-in-Gelydh).
+Redirect to [Annon-in-Gelydh](../A/Annon-in-Gelydh.md).

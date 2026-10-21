@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burrows family"
 ---
 
-Redirect to [Burrows family](/wiki/Burrows_family).
+Redirect to [Burrows family](Burrows_family.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Gerald Brom - Nazgul from Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gerald Brom - Nazgul from Lord of the Rings.jpg</span>"
 page_id: 72754
 namespace: 6
 revision_id: 431309
@@ -39,17 +38,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2004</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Gerald_Brom" title="Gerald Brom">Gerald Brom</a></td>
+<td><a href="../../main/G/Gerald_Brom.md" title="Gerald Brom">Gerald Brom</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://comics.ha.com/itm/original-comic-art/paintings/gerald-brom-nazgul-from-lord-of-the-rings-painting-original-art-2004-/a/7341-95064.s#" rel="noreferrer noopener" target="_blank">Heritage Auctions</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

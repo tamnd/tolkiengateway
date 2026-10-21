@@ -1,6 +1,5 @@
 ---
 title: "File:Morgoth's Ring (HC1994).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Morgoth&#039;s Ring (HC1994).png</span>"
 page_id: 35864
 namespace: 6
 revision_id: 350792

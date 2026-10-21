@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Rose Cotton"
 ---
 
-Redirect to [Category:Images of Rose Cotton](/wiki/Category:Images_of_Rose_Cotton).
+Redirect to [Category:Images of Rose Cotton](Images_of_Rose_Cotton.md).

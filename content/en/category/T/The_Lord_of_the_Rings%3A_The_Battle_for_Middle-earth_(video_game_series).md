@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The Battle for Middle-earth (video game series)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The Battle for Middle-earth (video game series)</span>"
 page_id: 63695
 namespace: 14
 revision_id: 362929

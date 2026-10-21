@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Golden"
 ---
 
-Redirect to [The Golden](/wiki/The_Golden).
+Redirect to [The Golden](../T/The_Golden.md).

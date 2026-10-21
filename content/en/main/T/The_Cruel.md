@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caradhras"
 ---
 
-Redirect to [Caradhras](/wiki/Caradhras).
+Redirect to [Caradhras](../C/Caradhras.md).

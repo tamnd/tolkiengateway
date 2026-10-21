@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Lidless Eye Player Guide"
 ---
 
-Redirect to [Middle-earth: The Lidless Eye Player Guide](/wiki/Middle-earth:_The_Lidless_Eye_Player_Guide).
+Redirect to [Middle-earth: The Lidless Eye Player Guide](../M/Middle-earth%253A_The_Lidless_Eye_Player_Guide.md).

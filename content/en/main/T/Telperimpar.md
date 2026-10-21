@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebrimbor"
 ---
 
-Redirect to [Celebrimbor](/wiki/Celebrimbor).
+Redirect to [Celebrimbor](../C/Celebrimbor.md).

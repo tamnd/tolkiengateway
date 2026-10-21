@@ -1,6 +1,5 @@
 ---
 title: "File:Darina Nossova - The Nandor - Denethor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Darina Nossova - The Nandor - Denethor.jpg</span>"
 page_id: 58208
 namespace: 6
 revision_id: 322048
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Darina Nossova</li>
 <li><b>Website:</b> <a class="external text" href="https://darinster.tumblr.com/" rel="noreferrer noopener" target="_blank">Darina Nossova on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Darina_Nossova" title="Tolkien Gateway:Copyrights/Darina Nossova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDarina_Nossova.md" title="Tolkien Gateway:Copyrights/Darina Nossova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

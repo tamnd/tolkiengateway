@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Xavier (disambiguation)"
 ---
 
-Redirect to [Xavier (disambiguation)](/wiki/Xavier_(disambiguation)).
+Redirect to [Xavier (disambiguation)](<Xavier_(disambiguation).md>).

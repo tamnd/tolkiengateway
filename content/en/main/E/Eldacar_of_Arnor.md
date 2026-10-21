@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldacar (King of Arnor)"
 ---
 
-Redirect to [Eldacar (King of Arnor)](/wiki/Eldacar_(King_of_Arnor)).
+Redirect to [Eldacar (King of Arnor)](<Eldacar_(King_of_Arnor).md>).

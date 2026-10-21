@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien Family"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Family</span>"
 page_id: 2625
 namespace: 14
 revision_id: 107821
@@ -13,4 +12,4 @@ categories:
   - "People"
 ---
 
-Members of the [Tolkien Family](/wiki/Tolkien_Family) in relation to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Members of the [Tolkien Family](../../main/T/Tolkien_Family.md) in relation to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

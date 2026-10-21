@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Roger Shaw"
 ---
 
-Redirect to [Letter to Roger Shaw](/wiki/Letter_to_Roger_Shaw).
+Redirect to [Letter to Roger Shaw](../L/Letter_to_Roger_Shaw.md).

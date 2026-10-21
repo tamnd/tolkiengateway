@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ungoliant"
 ---
 
-Redirect to [Ungoliant](/wiki/Ungoliant).
+Redirect to [Ungoliant](../U/Ungoliant.md).

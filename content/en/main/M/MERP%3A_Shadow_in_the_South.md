@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow in the South"
 ---
 
-Redirect to [Shadow in the South](/wiki/Shadow_in_the_South).
+Redirect to [Shadow in the South](../S/Shadow_in_the_South.md).

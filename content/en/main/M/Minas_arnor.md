@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith"
 ---
 
-Redirect to [Minas Tirith](/wiki/Minas_Tirith).
+Redirect to [Minas Tirith](Minas_Tirith.md).

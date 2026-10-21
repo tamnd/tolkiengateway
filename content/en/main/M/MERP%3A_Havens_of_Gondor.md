@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Havens of Gondor"
 ---
 
-Redirect to [Havens of Gondor](/wiki/Havens_of_Gondor).
+Redirect to [Havens of Gondor](../H/Havens_of_Gondor.md).

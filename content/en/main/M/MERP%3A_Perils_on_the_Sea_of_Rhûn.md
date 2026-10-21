@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perils on the Sea of Rhûn"
 ---
 
-Redirect to [Perils on the Sea of Rhûn](/wiki/Perils_on_the_Sea_of_Rhûn).
+Redirect to [Perils on the Sea of Rhûn](../P/Perils_on_the_Sea_of_Rhûn.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elvish words"
 ---
 
-Redirect to [Category:Elvish words](/wiki/Category:Elvish_words).
+Redirect to [Category:Elvish words](../../category/E/Elvish_words.md).

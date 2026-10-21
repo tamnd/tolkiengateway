@@ -1,6 +1,5 @@
 ---
 title: "Andrew Chaikin"
-display_title: "<span class=\"mw-page-title-main\">Andrew Chaikin</span>"
 page_id: 19193
 namespace: 0
 revision_id: 222160
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2003](/wiki/2003): [*The Lord of the Rings: The Return of the King* (video game)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)> "The Lord of the Rings: The Return of the King (video game)"): Additional voices
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): Additional voices
 
 ## External links {#External_links}
 

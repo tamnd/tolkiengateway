@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow and Flame"
 ---
 
-Redirect to [Shadow and Flame](/wiki/Shadow_and_Flame).
+Redirect to [Shadow and Flame](../S/Shadow_and_Flame.md).

@@ -1,6 +1,5 @@
 ---
 title: "Anke Eißmann"
-display_title: "<span class=\"mw-page-title-main\">Anke Eißmann</span>"
 page_id: 8261
 namespace: 0
 revision_id: 420290
@@ -41,72 +40,70 @@ infobox:
     value: "anke.edoras-art.de"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Anke_Ei%C3%9Fmann.jpg"><img src="/w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/320px-Anke_Ei%C3%9Fmann.jpg" decoding="async" loading="lazy" width="320" height="287" class="mw-file-element" srcset="/w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/480px-Anke_Ei%C3%9Fmann.jpg 1.5x, /w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/640px-Anke_Ei%C3%9Fmann.jpg 2x" data-file-width="2000" data-file-height="1794"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Anke Katrin Eißmann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/1977" title="1977">1977</a> in Dillenburg, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="/wiki/Category:Images_by_Anke_Ei%C3%9Fmann" title="Category:Images by Anke Eißmann">Images by Anke Eißmann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Weimar, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data">anke.edoras-art.de</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/320px-Anke_Ei%C3%9Fmann.jpg" decoding="async" loading="lazy" width="320" height="287" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/480px-Anke_Ei%C3%9Fmann.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Anke_Ei%C3%9Fmann.jpg/640px-Anke_Ei%C3%9Fmann.jpg 2x" data-file-width="2000" data-file-height="1794"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Anke Katrin Eißmann</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1977.md" title="1977">1977</a> in Dillenburg, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_Anke_Eißmann.md" title="Category:Images by Anke Eißmann">Images by Anke Eißmann</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Weimar, Germany</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data">anke.edoras-art.de</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**Anke Katrin Eißmann** (born [1977](/wiki/1977)) is a German artist and teacher.
+**Anke Katrin Eißmann** (born [1977](../_/1977.md)) is a German artist and teacher.
 
 ## History {#History}
 
-Eißmann was introduced to the world of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in [1991](/wiki/1991), after watching [the Ralph Bakshi animated film](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)"). She studied Visual Communication at the <a class="extiw" href="http://en.wikipedia.org/wiki/Bauhaus_University" title="wikipedia:Bauhaus University">Bauhaus University</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Weimar" title="wikipedia:Weimar">Weimar</a> and Art &amp; Design at <a class="extiw" href="http://en.wikipedia.org/wiki/Colchester_Institute" title="wikipedia:Colchester Institute">Colchester Institute</a>.<sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup> Her work had been popular on the Internet for some time when she was asked to attend [Tolkien 2005](/wiki/Tolkien_2005),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> filling an artists' panel with [Alan Lee](/wiki/Alan_Lee) and [Ted Nasmith](/wiki/Ted_Nasmith). That same year, her art was used in *[Ringers: Lord of the Fans](/wiki/Ringers:_Lord_of_the_Fans)*. She has since sat on the artists' panel at [The Return of the Ring](/wiki/The_Return_of_the_Ring) and [Tolkien 2019](/wiki/Tolkien_2019).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Currently, she works as an art teacher for Gymnasien (german secondary schools)<sup id="cite_ref-about_1-1" class="reference"><a href="#cite_note-about-1">[1]</a></sup> and is on the editorial team of *Der Flammifer von Westernis*, the [German Tolkien Society](/wiki/German_Tolkien_Society)'s bi-yearly magazine.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Eißmann was introduced to the world of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) in [1991](../_/1991.md), after watching [the Ralph Bakshi animated film](<../T/The_Lord_of_the_Rings_(1978_film).md>). She studied Visual Communication at the <a class="extiw" href="http://en.wikipedia.org/wiki/Bauhaus_University" title="wikipedia:Bauhaus University">Bauhaus University</a> in <a class="extiw" href="http://en.wikipedia.org/wiki/Weimar" title="wikipedia:Weimar">Weimar</a> and Art &amp; Design at <a class="extiw" href="http://en.wikipedia.org/wiki/Colchester_Institute" title="wikipedia:Colchester Institute">Colchester Institute</a>.<sup id="cite_ref-about_1-0" class="reference"><a href="#cite_note-about-1">[1]</a></sup> Her work had been popular on the Internet for some time when she was asked to attend [Tolkien 2005](../T/Tolkien_2005.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> filling an artists' panel with [Alan Lee](Alan_Lee.md) and [Ted Nasmith](../T/Ted_Nasmith.md). That same year, her art was used in *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)*. She has since sat on the artists' panel at [The Return of the Ring](../T/The_Return_of_the_Ring.md) and [Tolkien 2019](../T/Tolkien_2019.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Currently, she works as an art teacher for Gymnasien (german secondary schools)<sup id="cite_ref-about_1-1" class="reference"><a href="#cite_note-about-1">[1]</a></sup> and is on the editorial team of *Der Flammifer von Westernis*, the [German Tolkien Society](../G/German_Tolkien_Society.md)'s bi-yearly magazine.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Bibliography {#Bibliography}
 
-- [2009](/wiki/2009): *[Beowulf and the Dragon](/wiki/Beowulf_and_the_Dragon)*
+- [2009](../_/2009.md): *[Beowulf and the Dragon](../B/Beowulf_and_the_Dragon.md)*
 
 ## Published artwork {#Published_artwork}
 
 ### Cover art {#Cover_art}
 
-- [2004](/wiki/2004): *[Hither Shore 1](/wiki/Hither_Shore_1)*
-- [2005](/wiki/2005): *[Hither Shore 2](/wiki/Hither_Shore_2)*
-- [2006](/wiki/2006): *[Hither Shore 3](/wiki/Hither_Shore_3)*
-- [2006](/wiki/2006): *[Tolkien's The Lord of the Rings – Sources of Inspiration](/wiki/Tolkien%27s_The_Lord_of_the_Rings_%E2%80%93_Sources_of_Inspiration)*
-- [2007](/wiki/2007): *[Hither Shore 4](/wiki/Hither_Shore_4)*
-- [2008](/wiki/2008): <i><a class="new" href="/w/index.php?title=Hither_Shore_5&amp;action=edit&amp;redlink=1" title="Hither Shore 5 (page does not exist)">Hither Shore 5</a></i>
-- [2009](/wiki/2009): *[Beowulf and the Dragon](/wiki/Beowulf_and_the_Dragon)*
-- [2009](/wiki/2009): *[Hither Shore 6](/wiki/Hither_Shore_6)*
-- [2010](/wiki/2010): *[Music in Middle-earth](/wiki/Music_in_Middle-earth)*
-- [2010](/wiki/2010): *[Music in Tolkien's Work and Beyond](/wiki/Music_in_Tolkien%27s_Work_and_Beyond)*
-- [2010](/wiki/2010): <i><a class="new" href="/w/index.php?title=Hither_Shore_7&amp;action=edit&amp;redlink=1" title="Hither Shore 7 (page does not exist)">Hither Shore 7</a></i>
-- [2011](/wiki/2011): <i><a class="new" href="/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)">Hither Shore 8</a></i>
-- [2012](/wiki/2012): *[Sub-creating Middle-earth](/wiki/Sub-creating_Middle-earth)*
-- [2012](/wiki/2012): *[Hither Shore 9](/wiki/Hither_Shore_9)*
-- [2013](/wiki/2013): *[O What a Tangled Web](/wiki/O_What_a_Tangled_Web)*
-- [2013](/wiki/2013): <i><a class="new" href="/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)">Hither Shore 10</a></i>
-- [2014](/wiki/2014): *[From Peterborough to Faëry](/wiki/From_Peterborough_to_Fa%C3%ABry)*
-- [2014](/wiki/2014): <i><a class="new" href="/w/index.php?title=Hither_Shore_11&amp;action=edit&amp;redlink=1" title="Hither Shore 11 (page does not exist)">Hither Shore 11</a></i>
-- [2014](/wiki/2014): *[Tolkien and Philosophy](/wiki/Tolkien_and_Philosophy)*
-- [2015](/wiki/2015): <i><a class="new" href="/w/index.php?title=Hither_Shore_12&amp;action=edit&amp;redlink=1" title="Hither Shore 12 (page does not exist)">Hither Shore 12</a></i>
-- [2016](/wiki/2016): *[Hither Shore 13](/wiki/Hither_Shore_13)*
-- [2017](/wiki/2017): <i><a class="new" href="/w/index.php?title=Hither_Shore_14&amp;action=edit&amp;redlink=1" title="Hither Shore 14 (page does not exist)">Hither Shore 14</a></i>
-- [2018](/wiki/2018): <i><a class="new" href="/w/index.php?title=Hither_Shore_15&amp;action=edit&amp;redlink=1" title="Hither Shore 15 (page does not exist)">Hither Shore 15</a></i>
-- [2019](/wiki/2019): <i><a class="new" href="/w/index.php?title=Hither_Shore_16&amp;action=edit&amp;redlink=1" title="Hither Shore 16 (page does not exist)">Hither Shore 16</a></i>
-- [2020](/wiki/2020): <i><a class="new" href="/w/index.php?title=Hither_Shore_17&amp;action=edit&amp;redlink=1" title="Hither Shore 17 (page does not exist)">Hither Shore 17</a></i>
-- [2021](/wiki/2021): <i><a class="new" href="/w/index.php?title=Hither_Shore_18&amp;action=edit&amp;redlink=1" title="Hither Shore 18 (page does not exist)">Hither Shore 18</a></i>
-- [2022](/wiki/2022): <i><a class="new" href="/w/index.php?title=Drag%C3%B3n_Verde_13&amp;action=edit&amp;redlink=1" title="Dragón Verde 13 (page does not exist)">Dragón Verde 13</a></i>
-- [2024](/wiki/2024): *[Germanic Heroes, Courage, and Fate](/wiki/Germanic_Heroes,_Courage,_and_Fate)*
+- [2004](../_/2004.md): *[Hither Shore 1](../H/Hither_Shore_1.md)*
+- [2005](../_/2005.md): *[Hither Shore 2](../H/Hither_Shore_2.md)*
+- [2006](../_/2006.md): *[Hither Shore 3](../H/Hither_Shore_3.md)*
+- [2006](../_/2006.md): *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)*
+- [2007](../_/2007.md): *[Hither Shore 4](../H/Hither_Shore_4.md)*
+- [2008](../_/2008.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_5&amp;action=edit&amp;redlink=1" title="Hither Shore 5 (page does not exist)">Hither Shore 5</a></i>
+- [2009](../_/2009.md): *[Beowulf and the Dragon](../B/Beowulf_and_the_Dragon.md)*
+- [2009](../_/2009.md): *[Hither Shore 6](../H/Hither_Shore_6.md)*
+- [2010](../_/2010.md): *[Music in Middle-earth](../M/Music_in_Middle-earth.md)*
+- [2010](../_/2010.md): *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*
+- [2010](../_/2010.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_7&amp;action=edit&amp;redlink=1" title="Hither Shore 7 (page does not exist)">Hither Shore 7</a></i>
+- [2011](../_/2011.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)">Hither Shore 8</a></i>
+- [2012](../_/2012.md): *[Sub-creating Middle-earth](../S/Sub-creating_Middle-earth.md)*
+- [2012](../_/2012.md): *[Hither Shore 9](../H/Hither_Shore_9.md)*
+- [2013](../_/2013.md): *[O What a Tangled Web](../O/O_What_a_Tangled_Web.md)*
+- [2013](../_/2013.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)">Hither Shore 10</a></i>
+- [2014](../_/2014.md): *[From Peterborough to Faëry](../F/From_Peterborough_to_Faëry.md)*
+- [2014](../_/2014.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_11&amp;action=edit&amp;redlink=1" title="Hither Shore 11 (page does not exist)">Hither Shore 11</a></i>
+- [2014](../_/2014.md): *[Tolkien and Philosophy](../T/Tolkien_and_Philosophy.md)*
+- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_12&amp;action=edit&amp;redlink=1" title="Hither Shore 12 (page does not exist)">Hither Shore 12</a></i>
+- [2016](../_/2016.md): *[Hither Shore 13](../H/Hither_Shore_13.md)*
+- [2017](../_/2017.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_14&amp;action=edit&amp;redlink=1" title="Hither Shore 14 (page does not exist)">Hither Shore 14</a></i>
+- [2018](../_/2018.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_15&amp;action=edit&amp;redlink=1" title="Hither Shore 15 (page does not exist)">Hither Shore 15</a></i>
+- [2019](../_/2019.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_16&amp;action=edit&amp;redlink=1" title="Hither Shore 16 (page does not exist)">Hither Shore 16</a></i>
+- [2020](../_/2020.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_17&amp;action=edit&amp;redlink=1" title="Hither Shore 17 (page does not exist)">Hither Shore 17</a></i>
+- [2021](../_/2021.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_18&amp;action=edit&amp;redlink=1" title="Hither Shore 18 (page does not exist)">Hither Shore 18</a></i>
+- [2022](../_/2022.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Drag%C3%B3n_Verde_13&amp;action=edit&amp;redlink=1" title="Dragón Verde 13 (page does not exist)">Dragón Verde 13</a></i>
+- [2024](../_/2024.md): *[Germanic Heroes, Courage, and Fate](../G/Germanic_Heroes,_Courage,_and_Fate.md)*
 
 ### Featured {#Featured}
 
-- [2010](/wiki/2010): *[Silver Leaves 3](/wiki/Silver_Leaves_3)*
-- [2014](/wiki/2014): *[Mallorn 55](/wiki/Mallorn_55)*
-- [2014](/wiki/2014): *[Other Minds 14](/wiki/Other_Minds_14)*
-- [2015](/wiki/2015): *[Mallorn 56](/wiki/Mallorn_56)*
-- [2015](/wiki/2015): *[Other Minds 15](/wiki/Other_Minds_15)*
-- [2016](/wiki/2016): *[Mallorn 57](/wiki/Mallorn_57)*
-- [2016](/wiki/2016): *[Other Minds 16](/wiki/Other_Minds_16)*
-- [2017](/wiki/2017): *[Other Minds 17](/wiki/Other_Minds_17)*
-- [2018](/wiki/2018): *[Other Minds 19](/wiki/Other_Minds_19)*
-- [2019](/wiki/2019): *[Other Minds 20](/wiki/Other_Minds_20)*
-- [2019](/wiki/2019): *[Mallorn 61](/wiki/Mallorn_61)*
-- [2019](/wiki/2019): *[Other Minds 21](/wiki/Other_Minds_21)*
-- [2020](/wiki/2020): *[Other Minds 22](/wiki/Other_Minds_22)*
-- [2020](/wiki/2020): *[Other Minds 23](/wiki/Other_Minds_23)*
-- [2021](/wiki/2021): *[Other Minds 24](/wiki/Other_Minds_24)*
-- [2022](/wiki/2022): *[Beyond Bree](/wiki/Beyond_Bree) Calendar*
-- [2023](/wiki/2023): *[Beyond Bree](/wiki/Beyond_Bree) Calendar*
+- [2010](../_/2010.md): *[Silver Leaves 3](../S/Silver_Leaves_3.md)*
+- [2014](../_/2014.md): *[Mallorn 55](../M/Mallorn_55.md)*
+- [2014](../_/2014.md): *[Other Minds 14](../O/Other_Minds_14.md)*
+- [2015](../_/2015.md): *[Mallorn 56](../M/Mallorn_56.md)*
+- [2015](../_/2015.md): *[Other Minds 15](../O/Other_Minds_15.md)*
+- [2016](../_/2016.md): *[Mallorn 57](../M/Mallorn_57.md)*
+- [2016](../_/2016.md): *[Other Minds 16](../O/Other_Minds_16.md)*
+- [2017](../_/2017.md): *[Other Minds 17](../O/Other_Minds_17.md)*
+- [2018](../_/2018.md): *[Other Minds 19](../O/Other_Minds_19.md)*
+- [2019](../_/2019.md): *[Other Minds 20](../O/Other_Minds_20.md)*
+- [2019](../_/2019.md): *[Mallorn 61](../M/Mallorn_61.md)*
+- [2019](../_/2019.md): *[Other Minds 21](../O/Other_Minds_21.md)*
+- [2020](../_/2020.md): *[Other Minds 22](../O/Other_Minds_22.md)*
+- [2020](../_/2020.md): *[Other Minds 23](../O/Other_Minds_23.md)*
+- [2021](../_/2021.md): *[Other Minds 24](../O/Other_Minds_24.md)*
+- [2022](../_/2022.md): *[Beyond Bree](../B/Beyond_Bree.md) Calendar*
+- [2023](../_/2023.md): *[Beyond Bree](../B/Beyond_Bree.md) Calendar*
 
 ## External links {#External_links}
 
@@ -118,7 +115,7 @@ Eißmann was introduced to the world of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) i
 
 - <a class="external text" href="https://tolkienlibrary.com/press/932-interview-with-anke-eissmann.php" rel="noreferrer noopener" target="_blank">Interview by André Gand</a> at TolkienLibrary.com, also available at the <a class="external text" href="https://web.archive.org/web/20100314221855/http://www.tolkien-buecher.de/en/anke-eissmann.html" rel="noreferrer noopener" target="_blank">Internet Archive</a> (November 2010)
 - <a class="external text" href="https://www.tolkienguide.com/modules/wiwimod/index.php?page=Anke+Interview" rel="noreferrer noopener" target="_blank">Interview with TolkienGuide</a> (2020?)
-- <a class="external text" href="https://luke-shelton.com/2020/10/09/tep-21-anke-eissmann/" rel="noreferrer noopener" target="_blank">Episode 21</a> of [The Tolkien Experience Podcast](/wiki/The_Tolkien_Experience "The Tolkien Experience") (October 2020)
+- <a class="external text" href="https://luke-shelton.com/2020/10/09/tep-21-anke-eissmann/" rel="noreferrer noopener" target="_blank">Episode 21</a> of [The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md) (October 2020)
 - <a class="external text" href="https://issuu.com/sociedadtolkiencolombiaorodruin/docs/drag_n_verde_13_edici_n_septiembre_2022" rel="noreferrer noopener" target="_blank">La acuarela que todo lo ve: Entrevista con Anke Eismann</a> in *Dragón Verde 13* p. 8-10 (September 2022)
 
 <span></span>
@@ -130,7 +127,7 @@ Eißmann was introduced to the world of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) i
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20100314221855/http://www.tolkien-buecher.de/en/anke-eissmann.html" rel="noreferrer noopener" target="_blank">Interview with Anke Eißmann from November 2009</a>, available at the <i>Internet Archive</i> (accessed 29 May 2023)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=XwczPh9pUM4&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Illustrating Tolkien Panel</a> on <a href="/wiki/The_Tolkien_Society" title="The Tolkien Society">The Tolkien Society</a>&#39;s YouTube channel</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=XwczPh9pUM4&amp;ab_channel=TheTolkienSociety" rel="noreferrer noopener" target="_blank">Illustrating Tolkien Panel</a> on <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a>&#39;s YouTube channel</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.tolkiengesellschaft.de/der-verein/vereinspublikationen/flammifer-von-westernis/" rel="noreferrer noopener" target="_blank">Der Flammifer von Westernis</a> on TolkienGesellschaft.de (accessed 20 June 2023)</span>
 </li>

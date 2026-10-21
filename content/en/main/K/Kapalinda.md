@@ -1,6 +1,5 @@
 ---
 title: "Kapalinda"
-display_title: "<span class=\"mw-page-title-main\">Kapalinda</span>"
 page_id: 61608
 namespace: 0
 revision_id: 347170
@@ -16,17 +15,17 @@ categories:
   - "Valinor"
 ---
 
-**Kapalinda** was the source of the river [Kelusindi](/wiki/Kelusindi) in [Valinor](/wiki/Valinor), according to the early version of the [legendarium](/wiki/Legendarium "Legendarium") in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*.<sup id="cite_ref-Kap_1-0" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
+**Kapalinda** was the source of the river [Kelusindi](Kelusindi.md) in [Valinor](../V/Valinor.md), according to the early version of the [legendarium](../L/Legendarium.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Kap_1-0" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The name *Kapalinda* is in [Qenya](/wiki/Qenya), most likely being the word *kapalinda* ("spring of water") used as a proper name; *kapalinda* being derived from the root <a class="new" href="/w/index.php?title=KAPA&amp;action=edit&amp;redlink=1" title="KAPA (page does not exist)">KAPA</a> ("leap, spring").<sup id="cite_ref-Kap_1-1" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
+The name *Kapalinda* is in [Qenya](../Q/Qenya.md), most likely being the word *kapalinda* ("spring of water") used as a proper name; *kapalinda* being derived from the root <a class="new" href="https://tolkiengateway.net/w/index.php?title=KAPA&amp;action=edit&amp;redlink=1" title="KAPA (page does not exist)">KAPA</a> ("leap, spring").<sup id="cite_ref-Kap_1-1" class="reference"><a href="#cite_note-Kap-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Kap-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kap_1-0">1.0</a></sup> <sup><a href="#cite_ref-Kap_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, p. 257</span>
+<li id="cite_note-Kap-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kap_1-0">1.0</a></sup> <sup><a href="#cite_ref-Kap_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, p. 257</span>
 </li>
 </ol></div>

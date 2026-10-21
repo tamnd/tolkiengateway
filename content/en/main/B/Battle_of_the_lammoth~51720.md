@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Lammoth"
 ---
 
-Redirect to [Battle of the Lammoth](/wiki/Battle_of_the_Lammoth).
+Redirect to [Battle of the Lammoth](Battle_of_the_Lammoth.md).

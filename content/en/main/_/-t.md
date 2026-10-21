@@ -1,6 +1,5 @@
 ---
 title: "-t"
-display_title: "<span class=\"mw-page-title-main\">-t</span>"
 page_id: 51379
 namespace: 0
 revision_id: 404408
@@ -15,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "t"
 ---
 
-<i><b>-t</b></i> is a [Quenya](/wiki/Quenya) suffix that has three meanings.
+<i><b>-t</b></i> is a [Quenya](../Q/Quenya.md) suffix that has three meanings.
 
 ## -t<sup>1</sup> {#-t1}
 
@@ -34,11 +33,11 @@ Used as a reduced pronominal affix of the 2nd person, "you" (singular). Found in
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 75, 76</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 75, 76</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="/wiki/Letter_230" title="Letter 230">Letter 230</a>, (dated <a href="/wiki/8_June" title="8 June">8 June</a> <a href="/wiki/1961" title="1961">1961</a>), p. 308 (Tolkien translates the <i><a href="/wiki/Long_live_the_Halflings!_Praise_them_with_great_praise!" title="Long live the Halflings! Praise them with great praise!">Praises of Cormallen</a></i>)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="../L/Letter_230.md" title="Letter 230">Letter 230</a>, (dated <a href="8_June.md" title="8 June">8 June</a> <a href="1961.md" title="1961">1961</a>), p. 308 (Tolkien translates the <i><a href="../L/Long_live_the_Halflings!_Praise_them_with_great_praise!.md" title="Long live the Halflings! Praise them with great praise!">Praises of Cormallen</a></i>)</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: A. The principal linguistic elements concerned&#34;, p. 364</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: A. The principal linguistic elements concerned&#34;, p. 364</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White House of Erendis"
 ---
 
-Redirect to [White House of Erendis](/wiki/White_House_of_Erendis).
+Redirect to [White House of Erendis](White_House_of_Erendis.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:LotRRealmsInExileMap.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotRRealmsInExileMap.png</span>"
 page_id: 70074
 namespace: 6
 revision_id: 421696

@@ -1,6 +1,5 @@
 ---
 title: "Category:Brazilian books"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brazilian books</span>"
 page_id: 45576
 namespace: 14
 revision_id: 240383

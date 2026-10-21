@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - First Edition Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - First Edition Logo.png</span>"
 page_id: 74735
 namespace: 6
 revision_id: 439642

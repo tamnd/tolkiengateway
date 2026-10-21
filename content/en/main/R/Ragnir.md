@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ragnir (disambiguation)"
 ---
 
-Redirect to [Ragnir (disambiguation)](/wiki/Ragnir_(disambiguation)).
+Redirect to [Ragnir (disambiguation)](<Ragnir_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Ethir Anduin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Ethir Anduin.jpg</span>"
 page_id: 20947
 namespace: 6
 revision_id: 272551
@@ -27,18 +26,18 @@ file:
 
 ## Summary {#Summary}
 
-A map of southern [Gondor](/wiki/Gondor), as seen in [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"), which in turn reproduced it from *[The Return of the King](/wiki/The_Return_of_the_King)*. Clock-wise, from the right top, (semi-)visible are:
+A map of southern [Gondor](../../main/G/Gondor.md), as seen in [*The Return of the King* (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>), which in turn reproduced it from *[The Return of the King](../../main/T/The_Return_of_the_King.md)*. Clock-wise, from the right top, (semi-)visible are:
 
-- River [Sirith](/wiki/Sirith)
-- [Pelargir](/wiki/Pelargir)
-- [Anduin](/wiki/Anduin) ("A")
-- [South Ithilien](/wiki/Ithilien "Ithilien") ("S. It")
-- River [Poros](/wiki/Poros) ("R.")
-- [Mouth of Anduin/Ethir Anduin](/wiki/Ethir_Anduin "Ethir Anduin")
-- [Dor-en-Ernil](/wiki/Dor-en-Ernil) ("Ernil")
-- [Linhir](/wiki/Linhir)
-- R. [Serni](/wiki/Serni)
-- [Lebennin](/wiki/Lebennin)
+- River [Sirith](../../main/S/Sirith.md)
+- [Pelargir](../../main/P/Pelargir.md)
+- [Anduin](../../main/A/Anduin.md) ("A")
+- [South Ithilien](../../main/I/Ithilien.md) ("S. It")
+- River [Poros](../../main/P/Poros.md) ("R.")
+- [Mouth of Anduin/Ethir Anduin](../../main/E/Ethir_Anduin.md)
+- [Dor-en-Ernil](../../main/D/Dor-en-Ernil.md) ("Ernil")
+- [Linhir](../../main/L/Linhir.md)
+- R. [Serni](../../main/S/Serni.md)
+- [Lebennin](../../main/L/Lebennin.md)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ras Mewrim"
 ---
 
-Redirect to [Ras Mewrim](/wiki/Ras_Mewrim).
+Redirect to [Ras Mewrim](../R/Ras_Mewrim.md).

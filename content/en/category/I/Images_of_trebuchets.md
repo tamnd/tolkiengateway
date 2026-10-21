@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of trebuchets"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of trebuchets</span>"
 page_id: 39644
 namespace: 14
 revision_id: 199888

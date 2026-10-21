@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Realms in Exile"
 ---
 
-Redirect to [Realms in Exile](/wiki/Realms_in_Exile).
+Redirect to [Realms in Exile](../R/Realms_in_Exile.md).

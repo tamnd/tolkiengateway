@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Flowering Tree with Friezes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Flowering Tree with Friezes.jpg</span>"
 page_id: 5789
 namespace: 6
 revision_id: 205207
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and published in [The J.R.R. Tolkien Calendar 1979](/wiki/The_J.R.R._Tolkien_Calendar_1979), is made up of much earlier compositions (late 1920s) than the designs reproduced in other drawings.
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and published in [The J.R.R. Tolkien Calendar 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md), is made up of much earlier compositions (late 1920s) than the designs reproduced in other drawings.
 
 ## Licensing {#Licensing}
 

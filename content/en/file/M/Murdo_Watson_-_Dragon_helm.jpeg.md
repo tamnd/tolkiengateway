@@ -1,6 +1,5 @@
 ---
 title: "File:Murdo Watson - Dragon helm.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Murdo Watson - Dragon helm.jpeg</span>"
 page_id: 70990
 namespace: 6
 revision_id: 423996
@@ -33,4 +32,4 @@ Digital 3D render of the Alan Lee design of The Dragon-helm of Dor-lómin.
 </p>
 <ul><li><b>Name:</b> Murdo Watson</li>
 <li><b>Website:</b> <a class="external free" href="https://wurdow.artstation.com/" rel="noreferrer noopener" target="_blank">https://wurdow.artstation.com/</a></li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/WurdoW&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/WurdoW (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/WurdoW&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/WurdoW (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>

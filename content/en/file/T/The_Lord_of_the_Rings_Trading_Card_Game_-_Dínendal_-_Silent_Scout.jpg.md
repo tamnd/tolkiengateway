@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Silent Scout.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Silent Scout.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Dínendal_-_Silent_Scout.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Dínendal - Silent Scout.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Dínendal_-_Silent_Scout.jpg.md).

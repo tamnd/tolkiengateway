@@ -1,6 +1,5 @@
 ---
 title: "Category:Media templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Media templates</span>"
 page_id: 7588
 namespace: 14
 revision_id: 63197

@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Beren Silmaril.wav"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Beren Silmaril.wav</span>"
 page_id: 71263
 namespace: 6
 revision_id: 425101
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Christopher Tolkien](/wiki/Christopher_Tolkien) reads a quote from [Of Beren and Lúthien](/wiki/Of_Beren_and_L%C3%BAthien)
+[Christopher Tolkien](../../main/C/Christopher_Tolkien.md) reads a quote from [Of Beren and Lúthien](../../main/O/Of_Beren_and_Lúthien.md)
 
 ## Licensing {#Licensing}
 

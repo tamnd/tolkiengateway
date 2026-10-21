@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Reginald Frampton - The Voyage of St. Brandan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Reginald Frampton - The Voyage of St. Brandan.jpg</span>"
 page_id: 57086
 namespace: 6
 revision_id: 312743

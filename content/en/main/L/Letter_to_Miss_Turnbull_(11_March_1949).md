@@ -17,12 +17,12 @@ images:
   - "Miss_Turnbull_11_March_1949.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Miss_Turnbull_11_March_1949.jpg"><img src="/w/images/thumb/1/1b/Miss_Turnbull_11_March_1949.jpg/300px-Miss_Turnbull_11_March_1949.jpg" decoding="async" loading="lazy" width="300" height="398" class="mw-file-element" srcset="/w/images/thumb/1/1b/Miss_Turnbull_11_March_1949.jpg/450px-Miss_Turnbull_11_March_1949.jpg 1.5x, /w/images/1/1b/Miss_Turnbull_11_March_1949.jpg 2x" data-file-width="566" data-file-height="750"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miss_Turnbull_11_March_1949.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Miss_Turnbull_11_March_1949.jpg/300px-Miss_Turnbull_11_March_1949.jpg" decoding="async" loading="lazy" width="300" height="398" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Miss_Turnbull_11_March_1949.jpg/450px-Miss_Turnbull_11_March_1949.jpg 1.5x, https://tolkiengateway.net/w/images/1/1b/Miss_Turnbull_11_March_1949.jpg 2x" data-file-width="566" data-file-height="750"/></a><figcaption></figcaption></figure>
 
-On [11 March](/wiki/11_March) [1949](/wiki/1949), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Miss Turnbull**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [11 March](../_/11_March.md) [1949](../_/1949.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Miss Turnbull**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Description:** 4 pages, 8vo, printed stationery and autograph envelope ("Merton College, Oxford"), 3 Manor Road, Holywell, Oxford.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** One page of the letter was reproduced in *[Sotheby's English Literature and History 18 July 1991](/wiki/Sotheby%27s_English_Literature_and_History_18_July_1991)*. A brief excerpt was published in 1992 in *Catalogue 16* of R.A. Gekoski, London. Two and a half of the 3-1/2 pages of the letter, and longer excerpts, were published in 1995 in *Catalogue Three* of Gerard A.J. Stodolski, Manchester, New Hampshire.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **Publication:** One page of the letter was reproduced in *[Sotheby's English Literature and History 18 July 1991](../S/Sotheby's_English_Literature_and_History_18_July_1991.md)*. A brief excerpt was published in 1992 in *Catalogue 16* of R.A. Gekoski, London. Two and a half of the 3-1/2 pages of the letter, and longer excerpts, were published in 1995 in *Catalogue Three* of Gerard A.J. Stodolski, Manchester, New Hampshire.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Contents {#Contents}
 
@@ -38,8 +38,8 @@ On [11 March](/wiki/11_March) [1949](/wiki/1949), [J.R.R. Tolkien](/wiki/J.R.R._
 
 ## See also {#See_also}
 
-- [Letter to Miss Turnbull (2 May 1955)](</wiki/Letter_to_Miss_Turnbull_(2_May_1955)>)
-- [Letter to Miss Turnbull (19 May 1955)](</wiki/Letter_to_Miss_Turnbull_(19_May_1955)>)
+- [Letter to Miss Turnbull (2 May 1955)](<Letter_to_Miss_Turnbull_(2_May_1955).md>)
+- [Letter to Miss Turnbull (19 May 1955)](<Letter_to_Miss_Turnbull_(19_May_1955).md>)
 
 <span></span>
 
@@ -47,9 +47,9 @@ On [11 March](/wiki/11_March) [1949](/wiki/1949), [J.R.R. Tolkien](/wiki/J.R.R._
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 346</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 346</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/Sotheby%27s_English_Literature_and_History_18_July_1991" title="Sotheby&#39;s English Literature and History 18 July 1991">Sotheby&#39;s English Literature and History 18 July 1991</a></i></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../S/Sotheby&#39;s_English_Literature_and_History_18_July_1991.md" title="Sotheby&#39;s English Literature and History 18 July 1991">Sotheby&#39;s English Literature and History 18 July 1991</a></i></span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=1310" rel="noreferrer noopener" target="_blank">Sotheby&#39;s catalogue 1991 with Tolkien letter</a> at <a class="external text" href="http://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">Tolkien Collector&#39;s Guide</a> (accessed 1 November 2010)</span>
 </li>

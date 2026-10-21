@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jane Dixon"
 ---
 
-Redirect to [Letter to Jane Dixon](/wiki/Letter_to_Jane_Dixon).
+Redirect to [Letter to Jane Dixon](../L/Letter_to_Jane_Dixon.md).

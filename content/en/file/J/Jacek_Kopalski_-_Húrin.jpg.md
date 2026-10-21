@@ -1,6 +1,5 @@
 ---
 title: "File:Jacek Kopalski - Húrin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jacek Kopalski - Húrin.jpg</span>"
 page_id: 74265
 namespace: 6
 revision_id: 437590
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Jacek Kopalski - Húrin.jpg</span></th>
 <td class="description">
-<p><i>Húrin</i> by <a href="/wiki/Category:Images_by_Jacek_Kopalski" title="Category:Images by Jacek Kopalski">Jacek Kopalski</a>.
+<p><i>Húrin</i> by <a href="../../category/I/Images_by_Jacek_Kopalski.md" title="Category:Images by Jacek Kopalski">Jacek Kopalski</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1994" title="1994">1994</a></td>
+<td><a href="../../main/_/1994.md" title="1994">1994</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Jacek_Kopalski" title="Category:Images by Jacek Kopalski">Jacek Kopalski</a></td>
+<td><a href="../../category/I/Images_by_Jacek_Kopalski.md" title="Category:Images by Jacek Kopalski">Jacek Kopalski</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.theonering.com/hurin-jacek-kopalski/" rel="noreferrer noopener" target="_blank">https://www.theonering.com/hurin-jacek-kopalski/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

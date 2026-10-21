@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Company of Archers.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Company of Archers.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Company_of_Archers.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Company of Archers.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Company_of_Archers.jpg.md).

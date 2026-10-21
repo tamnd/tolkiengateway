@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Smaug (Head).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Smaug (Head).jpg</span>"
 page_id: 73440
 namespace: 6
 revision_id: 434154
@@ -31,19 +30,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Lego - Smaug (Head).jpg</span></th>
 <td class="description">
-<p>Lego <a href="/wiki/Smaug" title="Smaug">Smaug</a> brick built figure.
+<p>Lego <a href="../../main/S/Smaug.md" title="Smaug">Smaug</a> brick built figure.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/79018-1/The-Lonely-Mountain" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/79018-1/The-Lonely-Mountain</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

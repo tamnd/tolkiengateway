@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Pilinehtar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Pilinehtar.jpg</span>"
 page_id: 58985
 namespace: 6
 revision_id: 434731
@@ -31,25 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Pilinehtar.jpg</span></th>
 <td class="description">
-<p>Image of <i><a href="/wiki/Pilinehtar" title="Pilinehtar">pilinehtar</a></i> plant drawn by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> included in <i><a href="/wiki/Pictures_by_J.R.R._Tolkien" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i>, illustration #45 and the 2022 <a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a>.
+<p>Image of <i><a href="../../main/P/Pilinehtar.md" title="Pilinehtar">pilinehtar</a></i> plant drawn by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> included in <i><a href="../../main/P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i>, illustration #45 and the 2022 <a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" style="background:var(--tg-color-surface-5)">Tolkien Art Index</th>
 <td><a class="external text" href="https://tai.tolkienists.org/tai/107/" rel="noreferrer noopener" target="_blank">TAI #107</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
+<td><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

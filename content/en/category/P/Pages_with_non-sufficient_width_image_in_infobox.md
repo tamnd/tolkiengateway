@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with non-sufficient width image in infobox"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with non-sufficient width image in infobox</span>"
 page_id: 68253
 namespace: 14
 revision_id: 403423
@@ -16,4 +15,4 @@ categories:
 
 Templates with non-sufficient width image (&lt;640px) in infobox.
 
-This is powered by [Module:Paramvalidate](/wiki/Module:Paramvalidate).
+This is powered by [Module:Paramvalidate](https://tolkiengateway.net/wiki/Module:Paramvalidate).

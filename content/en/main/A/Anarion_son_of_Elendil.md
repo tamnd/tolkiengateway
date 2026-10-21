@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anárion"
 ---
 
-Redirect to [Anárion](/wiki/Anárion).
+Redirect to [Anárion](Anárion.md).

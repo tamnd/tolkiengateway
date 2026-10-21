@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tobold Hornblower"
 ---
 
-Redirect to [Tobold Hornblower](/wiki/Tobold_Hornblower).
+Redirect to [Tobold Hornblower](Tobold_Hornblower.md).

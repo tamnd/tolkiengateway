@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/6 February 2011/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/6 February 2011/Transcript</span>"
 page_id: 31274
 namespace: 4
 revision_id: 202031
@@ -182,10 +181,10 @@ sort_keys:
 &lt;mithrennaith&gt; Don’t we already have ‘Categories’ for that?<br/>
 &lt;&amp;Mith&gt; Yes, however, categories are way too subdivided<br/>
 &lt;mithrennaith&gt; True - but we can always maintain a second category tree EncyclArda style.<br/>
-&lt;Hyarion&gt; Why not an article called <a class="new" href="/w/index.php?title=List_of_Men&amp;action=edit&amp;redlink=1" title="List of Men (page does not exist)">List of Men</a>?<br/>
+&lt;Hyarion&gt; Why not an article called <a class="new" href="https://tolkiengateway.net/w/index.php?title=List_of_Men&amp;action=edit&amp;redlink=1" title="List of Men (page does not exist)">List of Men</a>?<br/>
 &lt;mithrennaith&gt; But I can understand there would be an advantage in having a separate namespace for the second category tree.<br/>
 &lt;&amp;Mith&gt; Because it&#39;s not really an article<br/>
-&lt;mithrennaith&gt; <a class="new" href="/w/index.php?title=List&amp;action=edit&amp;redlink=1" title="List (page does not exist)">Lists</a> have a habit of cluttering up main namespace with what doesn’t really belong there.<br/>
+&lt;mithrennaith&gt; <a class="new" href="https://tolkiengateway.net/w/index.php?title=List&amp;action=edit&amp;redlink=1" title="List (page does not exist)">Lists</a> have a habit of cluttering up main namespace with what doesn’t really belong there.<br/>
 &lt;&amp;Mith&gt; It&#39;s not really a main space page, that&#39;s my thinking<br/>
 &lt;mithrennaith&gt; i.e., what Mith says.<br/>
 &lt;Eldarion&gt; i like the idea, mith<br/>
@@ -242,7 +241,7 @@ sort_keys:
 &lt;mithrennaith&gt; And without these for the second tree, I have the same question as Morgan.<br/>
 &lt;mithrennaith&gt; Exactly.<br/>
 &lt;mithrennaith&gt; And that takes a lot of maintenance.<br/>
-&lt;Morgan&gt; So you add something like <a class="new" href="/w/index.php?title=Contents:Elves&amp;action=edit&amp;redlink=1" title="Contents:Elves (page does not exist)">Contents:Elves</a> at the bottom of an article on Elves?<br/>
+&lt;Morgan&gt; So you add something like <a class="new" href="https://tolkiengateway.net/w/index.php?title=Contents:Elves&amp;action=edit&amp;redlink=1" title="Contents:Elves (page does not exist)">Contents:Elves</a> at the bottom of an article on Elves?<br/>
 &lt;&amp;Mith&gt; No, you have to edit the article Contents:Elves<br/>
 &lt;mithrennaith&gt; Exactly ;)<br/>
 &lt;Hyarion&gt; I&#39;d rather see the articles just get added to all the necessary categories, so Arwen would show up in Category:Elves,<br/>
@@ -287,7 +286,7 @@ sort_keys:
 &lt;mithrennaith&gt; on top of every page.<br/>
 &lt;Eldarion&gt; would it be possible to implement the Contents structure into a skin<br/>
 &lt;Eldarion&gt; ?<br/>
-&lt;Hyarion&gt; if you were on Aragorn, the top of the page might have links that look like <a class="mw-redirect" href="/wiki/Races" title="Races">Races</a> &gt; <a href="/wiki/Men" title="Men">Men</a> &gt; <a class="mw-redirect" href="/wiki/Dunedain" title="Dunedain">Dunedain</a> &gt; Aragorn<br/>
+&lt;Hyarion&gt; if you were on Aragorn, the top of the page might have links that look like <a class="mw-redirect" href="../../main/R/Races.md" title="Races">Races</a> &gt; <a href="../../main/M/Men.md" title="Men">Men</a> &gt; <a class="mw-redirect" href="../../main/D/Dunedain.md" title="Dunedain">Dunedain</a> &gt; Aragorn<br/>
 &lt;&amp;Mith&gt; Eldarion: yes it could be done.<br/>
 &lt;Morgan&gt; I see, thanks<br/>
 &lt;Hyarion&gt; Morgan, the drop down links on EoA you&#39;re referring to, those are the main Races, Places, etc. menu links right?<br/>
@@ -316,7 +315,7 @@ sort_keys:
 &lt;Hyarion&gt; I&#39;m still unsure about the Contents namespace.<br/>
 &lt;Mith&gt; Portals are much more than just lists of articles, aren&#39;t they?<br/>
 &lt;Morgan&gt; True<br/>
-&lt;Hyarion&gt; that&#39;s another point, for example the Races portal I&#39;d imagine would be more beneficial if it said perhaps <a href="/wiki/Elves" title="Elves">Elves</a> (<a href="/wiki/Category:Elves" title="Category:Elves">List of Elves</a>)<br/>
+&lt;Hyarion&gt; that&#39;s another point, for example the Races portal I&#39;d imagine would be more beneficial if it said perhaps <a href="../../main/E/Elves.md" title="Elves">Elves</a> (<a href="../../category/E/Elves.md" title="Category:Elves">List of Elves</a>)<br/>
 &lt;Mith&gt; OK, where do we go from here?<br/>
 &lt;Morgan&gt; Next point? ;-)<br/>
 &lt;Mith&gt; What&#39;s the point in having portals to lists. You might as well go staright to the list (be it in a category or contents or whatever)<br/>
@@ -405,7 +404,7 @@ sort_keys:
 &lt;Hyarion&gt; Mith, interesting, that&#39;s too bad.<br/>
 &lt;Mith&gt; Also<br/>
 &lt;Mith&gt; I think it&#39;s a bit much that&#39;s he&#39;s making money on the back of us, effectively<br/>
-&lt;Hyarion&gt; oh one other thing we could start doing, maybe on our <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a> article is list popular websites that have linked/referenced us<br/>
+&lt;Hyarion&gt; oh one other thing we could start doing, maybe on our <a href="../../main/T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a> article is list popular websites that have linked/referenced us<br/>
 &lt;Eldarion&gt; agree<br/>
 &lt;Eldarion&gt; with both of you<br/>
 &lt;mithrennaith&gt; agree also with both ;)<br/>

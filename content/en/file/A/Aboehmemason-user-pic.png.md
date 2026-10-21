@@ -1,6 +1,5 @@
 ---
 title: "File:Aboehmemason-user-pic.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aboehmemason-user-pic.png</span>"
 page_id: 66957
 namespace: 6
 revision_id: 388175
@@ -37,4 +36,4 @@ Permission granted by the photographer Alexander Boehme-Mason for his own user p
 </p>
 <ul><li><b>Name:</b> Evelondar Studios</li>
 <li><b>Website:</b> evelondarstudios.com</li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/INSERT_TG_LINK&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/INSERT TG LINK (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/INSERT_TG_LINK&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/INSERT TG LINK (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>

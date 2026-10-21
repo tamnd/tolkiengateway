@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Durin I.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Durin I.jpg</span>"
 page_id: 29906
 namespace: 6
 revision_id: 374290
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="mw-redirect mw-disambig" href="/wiki/Durin" title="Durin">Durin I</a>, by [Liz Danforth](/wiki/Liz_Danforth). Image from [Lords of Middle-earth: Vol. III](/wiki/Lords_of_Middle-earth:_Vol._III)
+<a class="mw-redirect mw-disambig" href="../../main/D/Durin.md" title="Durin">Durin I</a>, by [Liz Danforth](../../main/L/Liz_Danforth.md). Image from [Lords of Middle-earth: Vol. III](../../main/L/Lords_of_Middle-earth%253A_Vol._III.md)
 
 ## Licensing {#Licensing}
 

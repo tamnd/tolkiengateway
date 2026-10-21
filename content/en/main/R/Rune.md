@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Runes"
 ---
 
-Redirect to [Runes](/wiki/Runes).
+Redirect to [Runes](Runes.md).

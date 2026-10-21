@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arvedui"
 ---
 
-Redirect to [Arvedui](/wiki/Arvedui).
+Redirect to [Arvedui](Arvedui.md).

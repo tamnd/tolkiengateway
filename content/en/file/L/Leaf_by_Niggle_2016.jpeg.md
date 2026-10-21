@@ -1,6 +1,5 @@
 ---
 title: "File:Leaf by Niggle 2016.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leaf by Niggle 2016.jpeg</span>"
 page_id: 61885
 namespace: 6
 revision_id: 349179

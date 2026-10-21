@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southern Fiefs"
 ---
 
-Redirect to [Southern Fiefs](/wiki/Southern_Fiefs).
+Redirect to [Southern Fiefs](../S/Southern_Fiefs.md).

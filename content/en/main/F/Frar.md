@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frár"
 ---
 
-Redirect to [Frár](/wiki/Frár).
+Redirect to [Frár](Frár.md).

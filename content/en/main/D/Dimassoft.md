@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimas Caparrós Gómez"
 ---
 
-Redirect to [Dimas Caparrós Gómez](/wiki/Dimas_Caparrós_Gómez).
+Redirect to [Dimas Caparrós Gómez](Dimas_Caparrós_Gómez.md).

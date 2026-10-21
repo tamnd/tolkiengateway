@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Goblin 2.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Goblin 2.gif</span>"
 page_id: 11956
 namespace: 6
 revision_id: 203882

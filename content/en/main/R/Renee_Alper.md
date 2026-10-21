@@ -1,6 +1,5 @@
 ---
 title: "Renee Alper"
-display_title: "<span class=\"mw-page-title-main\">Renee Alper</span>"
 page_id: 14162
 namespace: 0
 revision_id: 320758
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Alper, Renee"
 ---
 
-**Renee Alper** founded The American Hobbit Association in [1977](/wiki/1977), which she ran until 1989. She is also a "filk" (fantasy-folk music) artist.
+**Renee Alper** founded The American Hobbit Association in [1977](../_/1977.md), which she ran until 1989. She is also a "filk" (fantasy-folk music) artist.
 
 ## External links {#External_links}
 

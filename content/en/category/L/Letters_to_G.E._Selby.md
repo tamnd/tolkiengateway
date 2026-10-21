@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to G.E. Selby"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to G.E. Selby</span>"
 page_id: 68551
 namespace: 14
 revision_id: 404176
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Selby, G.E."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to G.E. Selby.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to G.E. Selby.

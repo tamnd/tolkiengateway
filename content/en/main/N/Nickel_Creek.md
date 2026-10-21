@@ -1,6 +1,5 @@
 ---
 title: "Nickel Creek"
-display_title: "<span class=\"mw-page-title-main\">Nickel Creek</span>"
 page_id: 6975
 namespace: 0
 revision_id: 406792
@@ -13,7 +12,7 @@ categories:
   - "Bands"
 ---
 
-**Nickel Creek** is an American acoustic bluegrass trio, formed in 1989 in California and disbanded in 2007. They have recorded the song *House of Tom Bombadil* which was inspired by [Tom Bombadil](/wiki/Tom_Bombadil), appearing in their third album, called Nickel Creek.
+**Nickel Creek** is an American acoustic bluegrass trio, formed in 1989 in California and disbanded in 2007. They have recorded the song *House of Tom Bombadil* which was inspired by [Tom Bombadil](../T/Tom_Bombadil.md), appearing in their third album, called Nickel Creek.
 
 ## External links {#External_links}
 

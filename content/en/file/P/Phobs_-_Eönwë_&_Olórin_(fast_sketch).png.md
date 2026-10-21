@@ -1,6 +1,5 @@
 ---
 title: "File:Phobs - Eönwë & Olórin (fast sketch).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Phobs - Eönwë &amp; Olórin (fast sketch).png</span>"
 page_id: 52266
 namespace: 6
 revision_id: 284875
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A fast sketch of two of [Manwë](/wiki/Manw%C3%AB)'s [Maiar](/wiki/Maiar), [Eönwë](/wiki/E%C3%B6nw%C3%AB) &amp; [Olórin](/wiki/Gandalf "Gandalf").
+A fast sketch of two of [Manwë](../../main/M/Manwë.md)'s [Maiar](../../main/M/Maiar.md), [Eönwë](../../main/E/Eönwë.md) &amp; [Olórin](../../main/G/Gandalf.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ A fast sketch of two of [Manwë](/wiki/Manw%C3%AB)'s [Maiar](/wiki/Maiar), [Eön
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

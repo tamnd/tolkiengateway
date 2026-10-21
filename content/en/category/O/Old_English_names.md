@@ -1,6 +1,5 @@
 ---
 title: "Category:Old English names"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Old English names</span>"
 page_id: 25080
 namespace: 14
 revision_id: 409061
@@ -13,4 +12,4 @@ categories:
   - "Germanic names"
 ---
 
-Largely used in reference to the [Rohirrim](/wiki/Rohirrim). Note that these names are not [Rohanese](/wiki/Rohanese)—they are "translated" to [Old English](/wiki/Old_English) from Rohanese.
+Largely used in reference to the [Rohirrim](../../main/R/Rohirrim.md). Note that these names are not [Rohanese](../../main/R/Rohanese.md)—they are "translated" to [Old English](../../main/O/Old_English.md) from Rohanese.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mythcon 18"
 ---
 
-Redirect to [Mythcon 18](/wiki/Mythcon_18).
+Redirect to [Mythcon 18](Mythcon_18.md).

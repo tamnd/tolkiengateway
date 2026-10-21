@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Únat"
 ---
 
-Redirect to [Únat](/wiki/Únat).
+Redirect to [Únat](Únat.md).

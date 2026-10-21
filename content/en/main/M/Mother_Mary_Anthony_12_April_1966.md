@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mother Mary Anthony"
 ---
 
-Redirect to [Letter to Mother Mary Anthony](/wiki/Letter_to_Mother_Mary_Anthony).
+Redirect to [Letter to Mother Mary Anthony](../L/Letter_to_Mother_Mary_Anthony.md).

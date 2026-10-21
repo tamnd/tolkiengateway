@@ -1,6 +1,5 @@
 ---
 title: "Category:Fiction writers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fiction writers</span>"
 page_id: 29691
 namespace: 14
 revision_id: 131521

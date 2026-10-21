@@ -1,6 +1,5 @@
 ---
 title: "Sunlands"
-display_title: "<span class=\"mw-page-title-main\">Sunlands</span>"
 page_id: 17480
 namespace: 0
 revision_id: 365907
@@ -19,17 +18,17 @@ langlinks:
     url: "https://kontu.wiki/Aurinkomaat"
 ---
 
-<dl><dd><i>Not to be confused with: <b><a href="/wiki/Sunlending" title="Sunlending">Sunlending</a></b>, the <a href="/wiki/Rohanese" title="Rohanese">Rohanese</a> name of <a href="/wiki/An%C3%B3rien" title="Anórien">Anórien</a></i></dd></dl>
+<dl><dd><i>Not to be confused with: <b><a href="Sunlending.md" title="Sunlending">Sunlending</a></b>, the <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> name of <a href="../A/Anórien.md" title="Anórien">Anórien</a></i></dd></dl>
 
-**Sunlands** was a name in the [Shire](/wiki/Shire) that referred to the far southern lands of [Middle-earth](/wiki/Middle-earth), roughly the same region as [Harad](/wiki/Harad).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sunlands** was a name in the [Shire](Shire.md) that referred to the far southern lands of [Middle-earth](../M/Middle-earth.md), roughly the same region as [Harad](../H/Harad.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) heard tales of the [Swertings](/wiki/Swertings), [Big Folk](/wiki/Big_Folk) of the Sunlands who rode on [oliphaunts](/wiki/Oliphaunts "Oliphaunts") when they fight.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+[Samwise Gamgee](Samwise_Gamgee.md) heard tales of the [Swertings](Swertings.md), [Big Folk](../B/Big_Folk.md) of the Sunlands who rode on [oliphaunts](../O/Oliphaunts.md) when they fight.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Robert_Foster" title="Robert Foster">Robert Foster</a> (1978), <i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, p. 368</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a> (1978), <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, p. 368</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="/wiki/The_Black_Gate_is_Closed" title="The Black Gate is Closed">The Black Gate is Closed</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Black_Gate_is_Closed.md" title="The Black Gate is Closed">The Black Gate is Closed</a>&#34;</span>
 </li>
 </ol></div>

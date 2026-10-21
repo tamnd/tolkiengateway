@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-inbar"
 ---
 
-Redirect to [-inbar](/wiki/-inbar).
+Redirect to [-inbar](../_/-inbar.md).

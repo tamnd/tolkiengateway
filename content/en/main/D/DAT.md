@@ -1,6 +1,5 @@
 ---
 title: "DAT"
-display_title: "<span class=\"mw-page-title-main\">DAT</span>"
 page_id: 33013
 namespace: 0
 revision_id: 405162
@@ -13,32 +12,32 @@ categories:
   - "Roots"
 ---
 
-**DAT**, or **DANT**, is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") signifying "fall down".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**DAT**, or **DANT**, is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) signifying "fall down".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Derivatives {#Derivatives}
 
-- [Exilic Noldorin](/wiki/Noldorin "Noldorin"): *dad* ("down"); *dath* ("hole, pit")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
-- [Quenya](/wiki/Quenya): *latta* ("hole, pit"); *lanta* ("a fall"); *lanta-* ("to fall")<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
-- [Noldorin](/wiki/Noldorin): *dant-* ("to fall"); *dannen* ("fallen")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Exilic Noldorin](../N/Noldorin.md): *dad* ("down"); *dath* ("hole, pit")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md): *latta* ("hole, pit"); *lanta* ("a fall"); *lanta-* ("to fall")<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Noldorin](../N/Noldorin.md): *dant-* ("to fall"); *dannen* ("fallen")<sup id="cite_ref-LR_1-3" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Other versions {#Other_versions}
 
-The ink version of the entry differs slightly from the published version in the *[Etymologies](/wiki/The_Etymologies "The Etymologies")*. DAT was given the signification "fall, down".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The ink version of the entry differs slightly from the published version in the *[Etymologies](../T/The_Etymologies.md)*. DAT was given the signification "fall, down".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=DEN&amp;action=edit&amp;redlink=1" title="DEN (page does not exist)">DEN</a>
-- [PED](/wiki/PED)
-- <a class="new" href="/w/index.php?title=TAL%C3%81T&amp;action=edit&amp;redlink=1" title="TALÁT (page does not exist)">TALÁT</a>
-- *[Rhimdath](/wiki/Rhimdath)*
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=DEN&amp;action=edit&amp;redlink=1" title="DEN (page does not exist)">DEN</a>
+- [PED](../P/PED.md)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=TAL%C3%81T&amp;action=edit&amp;redlink=1" title="TALÁT (page does not exist)">TALÁT</a>
+- *[Rhimdath](../R/Rhimdath.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR_1-2">1.2</a></sup> <sup><a href="#cite_ref-LR_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 354 (roots appearing as &#34;DAT-, DANT-&#34;)</span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup> <sup><a href="#cite_ref-LR_1-2">1.2</a></sup> <sup><a href="#cite_ref-LR_1-3">1.3</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 354 (roots appearing as &#34;DAT-, DANT-&#34;)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 8 (root appearing as &#34;DAT-&#34;)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 8 (root appearing as &#34;DAT-&#34;)</span>
 </li>
 </ol></div>

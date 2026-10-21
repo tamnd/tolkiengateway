@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Doors of Durin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Doors of Durin.jpg</span>"
 page_id: 5759
 namespace: 6
 revision_id: 205193
@@ -27,15 +26,13 @@ file:
 
 ## Summary {#Summary}
 
-This drawing of the Doors of Durin is by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and is reproduced from the same chapter of [The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring), where the words on the arch were thus translated by Gandalf:
+This drawing of the Doors of Durin is by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and is reproduced from the same chapter of [The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md), where the words on the arch were thus translated by Gandalf:
 
 <blockquote class="tg-quote noexcerpt">
 <p>The Doors of Durin, Lord of Moria. Speak, friend, and enter. I, Narvi, made them. Celebrimbor of Hollin drew these signs.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 It was only when Gandalf perceived that pedo mellon a minno should be translated 'Say "Friend" and enter', and uttered the word Mellon, that the Doors opened.
 
@@ -44,7 +41,7 @@ It was only when Gandalf perceived that pedo mellon a minno should be translated
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Fellowship_of_the_Ring" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="/wiki/A_Journey_in_the_Dark" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../../main/T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../../main/A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</span>
 </li>
 </ol></div>
 

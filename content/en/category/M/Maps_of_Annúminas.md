@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps of Annúminas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps of Annúminas</span>"
 page_id: 29416
 namespace: 14
 revision_id: 200090
@@ -15,4 +14,4 @@ sort_keys:
   "Maps of Eriador": "Annúminas"
 ---
 
-Maps of [Annúminas](/wiki/Ann%C3%BAminas).
+Maps of [Annúminas](../../main/A/Annúminas.md).

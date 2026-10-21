@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Åke Ohlmarks"
 ---
 
-Redirect to [Åke Ohlmarks](/wiki/Åke_Ohlmarks).
+Redirect to [Åke Ohlmarks](../_/Åke_Ohlmarks.md).

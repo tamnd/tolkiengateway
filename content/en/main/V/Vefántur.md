@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mandos"
 ---
 
-Redirect to [Mandos](/wiki/Mandos).
+Redirect to [Mandos](../M/Mandos.md).

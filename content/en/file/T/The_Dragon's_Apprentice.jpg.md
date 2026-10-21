@@ -1,6 +1,5 @@
 ---
 title: "File:The Dragon's Apprentice.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Dragon&#039;s Apprentice.jpg</span>"
 page_id: 29468
 namespace: 6
 revision_id: 214628

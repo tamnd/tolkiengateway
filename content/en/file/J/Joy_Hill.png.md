@@ -1,6 +1,5 @@
 ---
 title: "File:Joy Hill.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joy Hill.png</span>"
 page_id: 31608
 namespace: 6
 revision_id: 272499
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Joy Hill](/wiki/Joy_Hill) and [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), photograph from *[The Tolkien Family Album](/wiki/The_Tolkien_Family_Album)*, p. 83.
+[Joy Hill](../../main/J/Joy_Hill.md) and [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), photograph from *[The Tolkien Family Album](../../main/T/The_Tolkien_Family_Album.md)*, p. 83.
 
 ## Licensing {#Licensing}
 

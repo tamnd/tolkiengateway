@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Gollum seeing Mount Doom.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Gollum seeing Mount Doom.png</span>"
 page_id: 67151
 namespace: 6
 revision_id: 389881
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gollum](/wiki/Gollum) seeing [Mount Doom](/wiki/Mount_Doom) from afar in a screenshot from the game [The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum).
+[Gollum](../../main/G/Gollum.md) seeing [Mount Doom](../../main/M/Mount_Doom.md) from afar in a screenshot from the game [The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md).
 
 ## Licensing {#Licensing}
 

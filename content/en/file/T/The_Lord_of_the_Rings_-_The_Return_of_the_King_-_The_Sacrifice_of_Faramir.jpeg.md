@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - The Sacrifice of Faramir.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - The Sacrifice of Faramir.jpeg</span>"
 page_id: 66476
 namespace: 6
 revision_id: 383979

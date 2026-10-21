@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Denethor (king of the Laiquendi)"
 ---
 
-Redirect to [Denethor (king of the Laiquendi)](/wiki/Denethor_(king_of_the_Laiquendi)).
+Redirect to [Denethor (king of the Laiquendi)](<Denethor_(king_of_the_Laiquendi).md>).

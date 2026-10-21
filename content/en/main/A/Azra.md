@@ -16,19 +16,19 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**azra** is [Adûnaic](/wiki/Ad%C3%BBnaic) for "[Sea](/wiki/Sea)". Plurals subj. *azrîya*, coll. *azar*
+**azra** is [Adûnaic](Adûnaic.md) for "[Sea](../S/Sea.md)". Plurals subj. *azrîya*, coll. *azar*
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") AZRA, perhaps from an ancient radical \*Z'R, ultimately related to [Khuzdul](/wiki/Khuzdul) \*Z-R (cf. *[zâram](/wiki/Z%C3%A2ram "Zâram")*)
+[Root](../S/Sundocarmë.md) AZRA, perhaps from an ancient radical \*Z'R, ultimately related to [Khuzdul](../K/Khuzdul.md) \*Z-R (cf. *[zâram](../Z/Zâram.md)*)
 
 ## Cognates {#Cognates}
 
-- [Khuzdul](/wiki/Khuzdul): *[zâram](/wiki/Z%C3%A2ram "Zâram")* (lake, mere)
+- [Khuzdul](../K/Khuzdul.md): *[zâram](../Z/Zâram.md)* (lake, mere)
 
 ## See also {#See_also}
 
-- [Azrubêl](/wiki/Azrub%C3%AAl) ([Eärendil](/wiki/E%C3%A4rendil))
+- [Azrubêl](Azrubêl.md) ([Eärendil](../E/Eärendil.md))
 
 ## Other versions {#Other_versions}
 
@@ -37,6 +37,6 @@ hidden_categories:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, <a href="/wiki/The_Problem_of_Ros" title="The Problem of Ros">The Problem of Ros</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, <a href="../T/The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of Ros</a></span>
 </li>
 </ol></div>

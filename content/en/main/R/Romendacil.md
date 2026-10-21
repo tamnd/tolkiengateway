@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rómendacil (disambiguation)"
 ---
 
-Redirect to [Rómendacil (disambiguation)](/wiki/Rómendacil_(disambiguation)).
+Redirect to [Rómendacil (disambiguation)](<Rómendacil_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Taur-nu-Fuin (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Taur-nu-Fuin (disambiguation)</span>"
 page_id: 5192
 namespace: 0
 revision_id: 409584
@@ -20,16 +19,16 @@ images:
   - "Disambig.png"
 ---
 
-**Taur-nu-Fuin** means "Forest of Darkness" in [Sindarin](/wiki/Sindarin) (*[taur](/wiki/Taur "Taur")*, "forest"; *[nu](/wiki/Nu "Nu")*, "under"; *[fuin](/wiki/Fuin "Fuin")*, "night, darkness"); in the *[Lay of Leithian](/wiki/Lay_of_Leithian)*, it is translated as "Forest of Nightshade". It can refer to:
+**Taur-nu-Fuin** means "Forest of Darkness" in [Sindarin](../S/Sindarin.md) (*[taur](Taur.md)*, "forest"; *[nu](../N/Nu.md)*, "under"; *[fuin](../F/Fuin.md)*, "night, darkness"); in the *[Lay of Leithian](../L/Lay_of_Leithian.md)*, it is translated as "Forest of Nightshade". It can refer to:
 
-- **[Taur-nu-Fuin](</wiki/Taur-nu-Fuin_(Dorthonion)> "Taur-nu-Fuin (Dorthonion)"), the Forest of [Dorthonion](/wiki/Dorthonion) in [Beleriand](/wiki/Beleriand) which existed in the [First Age](/wiki/First_Age).**
-- [Taur-nu-Fuin](/wiki/Mirkwood "Mirkwood"), the name for the Forest of [Mirkwood](/wiki/Mirkwood) in [Rhovanion](/wiki/Rhovanion) in the [Third Age](/wiki/Third_Age), before it was renamed *[Eryn Lasgalen](/wiki/Eryn_Lasgalen)*.
+- **[Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>), the Forest of [Dorthonion](../D/Dorthonion.md) in [Beleriand](../B/Beleriand.md) which existed in the [First Age](../F/First_Age.md).**
+- [Taur-nu-Fuin](../M/Mirkwood.md), the name for the Forest of [Mirkwood](../M/Mirkwood.md) in [Rhovanion](../R/Rhovanion.md) in the [Third Age](Third_Age.md), before it was renamed *[Eryn Lasgalen](../E/Eryn_Lasgalen.md)*.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Taur-nu-Fuin_(disambiguation)" title="Special:WhatLinksHere/:Taur-nu-Fuin (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Taur-nu-Fuin_(disambiguation)" title="Special:WhatLinksHere/:Taur-nu-Fuin (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

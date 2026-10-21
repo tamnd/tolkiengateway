@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Clap! Snap! the black crack!"
 ---
 
-Redirect to [Clap! Snap! the black crack!](/wiki/Clap!_Snap!_the_black_crack!).
+Redirect to [Clap! Snap! the black crack!](Clap!_Snap!_the_black_crack!.md).

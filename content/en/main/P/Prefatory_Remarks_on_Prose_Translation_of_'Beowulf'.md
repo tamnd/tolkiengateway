@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "On Translating Beowulf"
 ---
 
-Redirect to [On Translating Beowulf](/wiki/On_Translating_Beowulf).
+Redirect to [On Translating Beowulf](../O/On_Translating_Beowulf.md).

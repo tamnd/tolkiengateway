@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwend"
 ---
 
-Redirect to [Gwend](/wiki/Gwend).
+Redirect to [Gwend](Gwend.md).

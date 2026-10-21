@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númen"
 ---
 
-Redirect to [Númen](/wiki/Númen).
+Redirect to [Númen](Númen.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendil's Stone"
 ---
 
-Redirect to [Elendil's Stone](/wiki/Elendil's_Stone).
+Redirect to [Elendil's Stone](Elendil's_Stone.md).

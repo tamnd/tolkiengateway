@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gates of Mordor (book)"
 ---
 
-Redirect to [Gates of Mordor (book)](/wiki/Gates_of_Mordor_(book)).
+Redirect to [Gates of Mordor (book)](<../G/Gates_of_Mordor_(book).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elephants"
 ---
 
-Redirect to [Elephants](/wiki/Elephants).
+Redirect to [Elephants](Elephants.md).

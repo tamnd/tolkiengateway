@@ -13,26 +13,26 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>luin</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "blue".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>luin</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "blue".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a href="/wiki/Tarn_Aeluin" title="Tarn Aeluin">Ae<b>luin</b></a></i> = "Blue Lake"
-- <i><a class="mw-redirect" href="/wiki/Ered_Luin" title="Ered Luin">Ered <b>Luin</b></a></i> = "Blue Mountains"
-- <i><a href="/wiki/Blue_Wizards" title="Blue Wizards">Ithryn <b>Luin</b></a></i> = "Blue Wizards"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- <i><a href="/wiki/Mindolluin" title="Mindolluin">Mindol<b>luin</b></a></i> = "Towering-head-blue"
+- <i><a href="../T/Tarn_Aeluin.md" title="Tarn Aeluin">Ae<b>luin</b></a></i> = "Blue Lake"
+- <i><a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered <b>Luin</b></a></i> = "Blue Mountains"
+- <i><a href="../B/Blue_Wizards.md" title="Blue Wizards">Ithryn <b>Luin</b></a></i> = "Blue Wizards"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a href="../M/Mindolluin.md" title="Mindolluin">Mindol<b>luin</b></a></i> = "Towering-head-blue"
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[luine](/wiki/Luine "Luine")*
+- [Quenya](../Q/Quenya.md) *[luine](Luine.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 66</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 66</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
 </li>
 </ol></div>

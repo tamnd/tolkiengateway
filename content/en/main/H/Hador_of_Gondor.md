@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hador (Steward of Gondor)"
 ---
 
-Redirect to [Hador (Steward of Gondor)](/wiki/Hador_(Steward_of_Gondor)).
+Redirect to [Hador (Steward of Gondor)](<Hador_(Steward_of_Gondor).md>).

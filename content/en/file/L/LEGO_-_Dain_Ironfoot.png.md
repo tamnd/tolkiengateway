@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Dain Ironfoot.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Dain Ironfoot.png</span>"
 page_id: 73118
 namespace: 6
 revision_id: 432870
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dain Ironfoot](/wiki/D%C3%A1in_Ironfoot "Dáin Ironfoot") - [LEGO](/wiki/Lego "Lego") minifigure
+[Dain Ironfoot](../../main/D/Dáin_Ironfoot.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

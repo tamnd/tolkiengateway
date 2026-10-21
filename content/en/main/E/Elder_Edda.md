@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Poetic Edda"
 ---
 
-Redirect to [Poetic Edda](/wiki/Poetic_Edda).
+Redirect to [Poetic Edda](../P/Poetic_Edda.md).

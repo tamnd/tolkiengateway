@@ -1,6 +1,5 @@
 ---
 title: "File:Wheelbarrows at Dawn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wheelbarrows at Dawn.jpg</span>"
 page_id: 27595
 namespace: 6
 revision_id: 214492

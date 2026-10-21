@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Philip Frankley"
 ---
 
-Redirect to [Philip Frankley](/wiki/Philip_Frankley).
+Redirect to [Philip Frankley](../P/Philip_Frankley.md).

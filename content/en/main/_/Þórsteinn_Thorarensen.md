@@ -1,6 +1,5 @@
 ---
 title: "Þórsteinn Thorarensen"
-display_title: "<span class=\"mw-page-title-main\">Þórsteinn Thorarensen</span>"
 page_id: 19136
 namespace: 0
 revision_id: 386549
@@ -24,11 +23,11 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/%C3%9Eorsteinn_Thorarensen"
 ---
 
-**Þorsteinn Thorarensen** (1927-2006) was an Icelandic journalist, book publisher and translator who translated and published [The Hobbit](/wiki/The_Hobbit), *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings) and [The Silmarillion](/wiki/The_Silmarillion)* as "Hobbitinn eða út og heim aftur" ([1997](/wiki/1997)), "Hringadróttinssaga" ([1993](/wiki/1993)-[1995](/wiki/1995)) and “Silmerillinn” (1999) respectively. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Þorsteinn Thorarensen** (1927-2006) was an Icelandic journalist, book publisher and translator who translated and published [The Hobbit](../T/The_Hobbit.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md) and [The Silmarillion](../T/The_Silmarillion.md)* as "Hobbitinn eða út og heim aftur" ([1997](1997.md)), "Hringadróttinssaga" ([1993](1993.md)-[1995](1995.md)) and “Silmerillinn” (1999) respectively. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-A curious aspect of his translations is that he translated all names into Icelandic. In [Vinyar Tengwar 42](/wiki/Vinyar_Tengwar_42), [Arden R. Smith](/wiki/Arden_R._Smith) gives an impressive list of many names that can be found in Thorarensen's translation. These include the Norse names ("[Gandalfur](/wiki/Gandalf "Gandalf")", "[Þorinn Eikinskjaldi](/wiki/Thorin "Thorin")") and the Old English ("[Hjálmur](/wiki/Helm "Helm")", "[Jómar](/wiki/%C3%89omer "Éomer")", "[Þjóðan](/wiki/Th%C3%A9oden "Théoden")"), but also the [Elvish](/wiki/Elvish) names. One finds such names as "[Bréglaður](/wiki/Bregalad "Bregalad")", "[Dyrþanki](/wiki/Durthang "Durthang")", "[Hýrlúnn](/wiki/Hirluin "Hirluin")" and "[Hallbarður](/wiki/Halbarad "Halbarad")". Appendices [E](/wiki/Appendix_E "Appendix E") and [F](/wiki/Appendix_F "Appendix F") are not translated, so it is unknown what Thorarensen would have made of that.
+A curious aspect of his translations is that he translated all names into Icelandic. In [Vinyar Tengwar 42](../V/Vinyar_Tengwar_42.md), [Arden R. Smith](../A/Arden_R._Smith.md) gives an impressive list of many names that can be found in Thorarensen's translation. These include the Norse names ("[Gandalfur](../G/Gandalf.md)", "[Þorinn Eikinskjaldi](../T/Thorin.md)") and the Old English ("[Hjálmur](../H/Helm.md)", "[Jómar](Éomer.md)", "[Þjóðan](../T/Théoden.md)"), but also the [Elvish](../E/Elvish.md) names. One finds such names as "[Bréglaður](../B/Bregalad.md)", "[Dyrþanki](../D/Durthang.md)", "[Hýrlúnn](../H/Hirluin.md)" and "[Hallbarður](../H/Halbarad.md)". Appendices [E](../A/Appendix_E.md) and [F](../A/Appendix_F.md) are not translated, so it is unknown what Thorarensen would have made of that.
 
-In [1978](/wiki/1978), <a class="new" href="/w/index.php?title=%C3%9Alfur_Ragnarsson&amp;action=edit&amp;redlink=1" title="Úlfur Ragnarsson (page does not exist)">Úlfur Ragnarsson</a> and <a class="new" href="/w/index.php?title=Karl_%C3%81g%C3%BAst_%C3%9Alfsson&amp;action=edit&amp;redlink=1" title="Karl Ágúst Úlfsson (page does not exist)">Karl Ágúst Úlfsson</a> published a translation of *The Hobbit*. There are no other Icelandic translations of *The Lord of the Rings*. <span></span>
+In [1978](1978.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Alfur_Ragnarsson&amp;action=edit&amp;redlink=1" title="Úlfur Ragnarsson (page does not exist)">Úlfur Ragnarsson</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karl_%C3%81g%C3%BAst_%C3%9Alfsson&amp;action=edit&amp;redlink=1" title="Karl Ágúst Úlfsson (page does not exist)">Karl Ágúst Úlfsson</a> published a translation of *The Hobbit*. There are no other Icelandic translations of *The Lord of the Rings*. <span></span>
 
 ## References {#References}
 

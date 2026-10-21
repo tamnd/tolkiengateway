@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rúmil (disambiguation)"
 ---
 
-Redirect to [Rúmil (disambiguation)](/wiki/Rúmil_(disambiguation)).
+Redirect to [Rúmil (disambiguation)](<Rúmil_(disambiguation).md>).

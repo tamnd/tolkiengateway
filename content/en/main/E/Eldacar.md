@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldacar (disambiguation)"
 ---
 
-Redirect to [Eldacar (disambiguation)](/wiki/Eldacar_(disambiguation)).
+Redirect to [Eldacar (disambiguation)](<Eldacar_(disambiguation).md>).

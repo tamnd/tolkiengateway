@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Sean Vo"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Sean Vo</span>"
 page_id: 72809
 namespace: 14
 revision_id: 431453
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Vo, Sean"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Sean_Vo&amp;action=edit&amp;redlink=1" title="Sean Vo (page does not exist)">Sean Vo</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sean_Vo&amp;action=edit&amp;redlink=1" title="Sean Vo (page does not exist)">Sean Vo</a></b>.

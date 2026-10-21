@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Foxes"
 ---
 
-Redirect to [Foxes](/wiki/Foxes).
+Redirect to [Foxes](Foxes.md).

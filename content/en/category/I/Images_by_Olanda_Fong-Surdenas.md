@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Olanda Fong-Surdenas"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Olanda Fong-Surdenas</span>"
 page_id: 13305
 namespace: 14
 revision_id: 182117
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Fong-Surdenas, Olanda"
 ---
 
-This category lists all **images by [Olanda Fong-Surdenas](/wiki/Olanda_Fong-Surdenas)**.
+This category lists all **images by [Olanda Fong-Surdenas](../../main/O/Olanda_Fong-Surdenas.md)**.

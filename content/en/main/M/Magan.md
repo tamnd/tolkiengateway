@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magân"
 ---
 
-Redirect to [Magân](/wiki/Magân).
+Redirect to [Magân](Magân.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings 2011 Mariner v3.jpeg"
 ---
 
-Redirect to [File:The Lord of the Rings 2011 Mariner v3.jpeg](/wiki/File:The_Lord_of_the_Rings_2011_Mariner_v3.jpeg).
+Redirect to [File:The Lord of the Rings 2011 Mariner v3.jpeg](The_Lord_of_the_Rings_2011_Mariner_v3.jpeg.md).

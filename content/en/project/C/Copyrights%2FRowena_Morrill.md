@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Rowena Morrill"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Rowena Morrill</span>"
 page_id: 40712
 namespace: 4
 revision_id: 206726
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Morrill, Rowena"
 ---
 
-- Rowena Morrill has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Rowena_Morrill "Category:Images by Rowena Morrill") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Rowena Morrill has kindly granted her permission to use [her artwork](../../category/I/Images_by_Rowena_Morrill.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 28 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

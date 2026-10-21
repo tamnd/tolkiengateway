@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Dimitra Fimi"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Dimitra Fimi</span>"
 page_id: 44224
 namespace: 4
 revision_id: 232596
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fimi, Dimitra"
 ---
 
-- Permission granted by copyright holder [Dimitra Fimi](/wiki/Dimitra_Fimi) to use [Dimitra Fimi.jpg](/wiki/File:Dimitra_Fimi.jpg "File:Dimitra Fimi.jpg") and [Dimitra Fimi (2).jpg](</wiki/File:Dimitra_Fimi_(2).jpg> "File:Dimitra Fimi (2).jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Dimitra Fimi](../../main/D/Dimitra_Fimi.md) to use [Dimitra Fimi.jpg](../../file/D/Dimitra_Fimi.jpg.md) and [Dimitra Fimi (2).jpg](<../../file/D/Dimitra_Fimi_(2).jpg.md>) on Tolkien Gateway.
 - Date: 16 August 2013.
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Miniel"
 ---
 
-Redirect to [Miniel](/wiki/Miniel).
+Redirect to [Miniel](Miniel.md).

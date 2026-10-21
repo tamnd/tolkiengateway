@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ósanwe-kenta"
 ---
 
-Redirect to [Ósanwe-kenta](/wiki/Ósanwe-kenta).
+Redirect to [Ósanwe-kenta](../_/Ósanwe-kenta.md).

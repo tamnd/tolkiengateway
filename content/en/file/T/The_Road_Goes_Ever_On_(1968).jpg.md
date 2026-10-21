@@ -1,6 +1,5 @@
 ---
 title: "File:The Road Goes Ever On (1968).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Road Goes Ever On (1968).jpg</span>"
 page_id: 63213
 namespace: 6
 revision_id: 384681
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[The Road Goes Ever On: A Song Cycle](/wiki/The_Road_Goes_Ever_On:_A_Song_Cycle)*, including the [Quenya](/wiki/Quenya) poem *[Namárië](/wiki/Nam%C3%A1ri%C3%AB)*, transcribed with [Tengwar](/wiki/Tengwar) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Cover of *[The Road Goes Ever On: A Song Cycle](../../main/T/The_Road_Goes_Ever_On%253A_A_Song_Cycle.md)*, including the [Quenya](../../main/Q/Quenya.md) poem *[Namárië](../../main/N/Namárië.md)*, transcribed with [Tengwar](../../main/T/Tengwar.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

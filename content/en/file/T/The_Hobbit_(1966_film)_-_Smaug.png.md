@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Smaug.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Smaug.png](/wiki/File:The_Hobbit_(1967_film)_-_Smaug.png).
+Redirect to [File:The Hobbit (1967 film) - Smaug.png](<The_Hobbit_(1967_film)_-_Smaug.png.md>).

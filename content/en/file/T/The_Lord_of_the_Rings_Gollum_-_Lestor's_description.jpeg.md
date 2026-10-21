@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Lestor's description.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Lestor&#039;s description.jpeg</span>"
 page_id: 67193
 namespace: 6
 revision_id: 390187
@@ -27,14 +26,14 @@ file:
 
 ## Summary {#Summary}
 
-The description of <a class="new" href="/w/index.php?title=Lestor&amp;action=edit&amp;redlink=1" title="Lestor (page does not exist)">Lestor</a> in *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The description of <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lestor&amp;action=edit&amp;redlink=1" title="Lestor (page does not exist)">Lestor</a> in *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">@GollumGame (3 May 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1653776522740678659" rel="noreferrer noopener" target="_blank">&#34;What they say, what they eat, what they dream…I want to know. Show no qualm or pity.<br/><br/>You are My monster now. And monsters don&#39;t make friends.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">@GollumGame (3 May 2023)</span>. <span class="cite-web-article"><a class="external text" href="https://twitter.com/GollumGame/status/1653776522740678659" rel="noreferrer noopener" target="_blank">&#34;What they say, what they eat, what they dream…I want to know. Show no qualm or pity.<br/><br/>You are My monster now. And monsters don&#39;t make friends.&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>
 

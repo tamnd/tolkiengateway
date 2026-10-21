@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Bays"
 ---
 
-Redirect to [Category:Bays](/wiki/Category:Bays).
+Redirect to [Category:Bays](../../category/B/Bays.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Sergey Glushakov"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Sergey Glushakov</span>"
 page_id: 72810
 namespace: 14
 revision_id: 431454
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Glushakov, Sergey"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Sergey_Glushakov&amp;action=edit&amp;redlink=1" title="Sergey Glushakov (page does not exist)">Sergey Glushakov</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sergey_Glushakov&amp;action=edit&amp;redlink=1" title="Sergey Glushakov (page does not exist)">Sergey Glushakov</a></b>.

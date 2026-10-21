@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baggins family"
 ---
 
-Redirect to [Baggins family](/wiki/Baggins_family).
+Redirect to [Baggins family](../B/Baggins_family.md).

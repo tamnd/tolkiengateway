@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings (1978 film) scenes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) scenes</span>"
 page_id: 22150
 namespace: 14
 revision_id: 195963

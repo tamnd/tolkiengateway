@@ -15,9 +15,9 @@ images:
   - "2005_An_Elvish_Travel_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:2005_An_Elvish_Travel_Calendar.jpg"><img src="/w/images/thumb/b/b8/2005_An_Elvish_Travel_Calendar.jpg/300px-2005_An_Elvish_Travel_Calendar.jpg" decoding="async" loading="lazy" width="300" height="275" class="mw-file-element" srcset="/w/images/b/b8/2005_An_Elvish_Travel_Calendar.jpg 1.5x" data-file-width="382" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/2005_An_Elvish_Travel_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/2005_An_Elvish_Travel_Calendar.jpg/300px-2005_An_Elvish_Travel_Calendar.jpg" decoding="async" loading="lazy" width="300" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b8/2005_An_Elvish_Travel_Calendar.jpg 1.5x" data-file-width="382" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**[2005](/wiki/2005) An Elvish Travel Calendar** was published by [Hollin](/wiki/Hollin) Designs. It was designed by "Alia" and features calligraphy by "Laithaine".
+**[2005](2005.md) An Elvish Travel Calendar** was published by [Hollin](../H/Hollin.md) Designs. It was designed by "Alia" and features calligraphy by "Laithaine".
 
 - Dimensions: 5 1/2 x 4 1/4 inches
 - Hand-twisted wire binding and closure

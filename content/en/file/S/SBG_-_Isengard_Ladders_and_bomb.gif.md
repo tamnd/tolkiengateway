@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Isengard Ladders and bomb.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Isengard Ladders and bomb.gif</span>"
 page_id: 12028
 namespace: 6
 revision_id: 204133

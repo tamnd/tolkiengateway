@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Last stand of Balin's folk"
 ---
 
-Redirect to [Last stand of Balin's folk](/wiki/Last_stand_of_Balin's_folk).
+Redirect to [Last stand of Balin's folk](Last_stand_of_Balin's_folk.md).

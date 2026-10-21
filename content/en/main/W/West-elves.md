@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldar"
 ---
 
-Redirect to [Eldar](/wiki/Eldar).
+Redirect to [Eldar](../E/Eldar.md).

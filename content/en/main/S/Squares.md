@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Squares"
 ---
 
-Redirect to [Category:Squares](/wiki/Category:Squares).
+Redirect to [Category:Squares](../../category/S/Squares.md).

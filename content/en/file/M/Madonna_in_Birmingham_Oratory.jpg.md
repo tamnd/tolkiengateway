@@ -1,6 +1,5 @@
 ---
 title: "File:Madonna in Birmingham Oratory.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Madonna in Birmingham Oratory.jpg</span>"
 page_id: 59537
 namespace: 6
 revision_id: 331641
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Statue of Madonna and Child in the altar of Our Lady at the [Birmingham Oratory](/wiki/Birmingham_Oratory).
+Statue of Madonna and Child in the altar of Our Lady at the [Birmingham Oratory](../../main/B/Birmingham_Oratory.md).
 
 ## License {#License}
 

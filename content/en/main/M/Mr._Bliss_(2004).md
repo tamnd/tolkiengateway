@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mr. Bliss (2004 film)"
 ---
 
-Redirect to [Mr. Bliss (2004 film)](/wiki/Mr._Bliss_(2004_film)).
+Redirect to [Mr. Bliss (2004 film)](<Mr._Bliss_(2004_film).md>).

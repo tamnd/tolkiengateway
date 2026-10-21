@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wolf-language"
 ---
 
-Redirect to [Wolf-language](/wiki/Wolf-language).
+Redirect to [Wolf-language](Wolf-language.md).

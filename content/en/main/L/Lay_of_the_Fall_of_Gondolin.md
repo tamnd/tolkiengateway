@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of the Fall of Gondolin"
 ---
 
-Redirect to [The Lay of the Fall of Gondolin](/wiki/The_Lay_of_the_Fall_of_Gondolin).
+Redirect to [The Lay of the Fall of Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md).

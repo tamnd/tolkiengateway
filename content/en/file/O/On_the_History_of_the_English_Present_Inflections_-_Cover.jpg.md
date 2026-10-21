@@ -1,6 +1,5 @@
 ---
 title: "File:On the History of the English Present Inflections - Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">On the History of the English Present Inflections - Cover.jpg</span>"
 page_id: 44349
 namespace: 6
 revision_id: 233095

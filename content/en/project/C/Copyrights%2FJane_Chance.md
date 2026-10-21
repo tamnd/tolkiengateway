@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jane Chance"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jane Chance</span>"
 page_id: 44382
 namespace: 4
 revision_id: 233268
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Chance, Jane"
 ---
 
-- Permission granted by copyright holder [Jane Chance](/wiki/Jane_Chance) to use the file [Jane Chance.jpg](/wiki/File:Jane_Chance.jpg "File:Jane Chance.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Jane Chance](../../main/J/Jane_Chance.md) to use the file [Jane Chance.jpg](../../file/J/Jane_Chance.jpg.md) on Tolkien Gateway.
 - Date: 16 September 2013.
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

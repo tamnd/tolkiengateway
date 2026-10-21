@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Shelob as a woman.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Shelob as a woman.png</span>"
 page_id: 56352
 namespace: 6
 revision_id: 306767
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Shelob as a woman from [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War).
+Shelob as a woman from [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Licensing {#Licensing}
 

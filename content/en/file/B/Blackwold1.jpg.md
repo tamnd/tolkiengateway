@@ -1,6 +1,5 @@
 ---
 title: "File:Blackwold1.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blackwold1.jpg</span>"
 page_id: 35722
 namespace: 6
 revision_id: 168213
@@ -24,7 +23,7 @@ file:
   user: "Amroth"
 ---
 
-A [Blackwold](/wiki/Blackwolds "Blackwolds") in [Archet](/wiki/Archet) in [The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar).
+A [Blackwold](../../main/B/Blackwolds.md) in [Archet](../../main/A/Archet.md) in [The Lord of the Rings Online: Shadows of Angmar](../../main/T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.turbine.com/" rel="noreferrer noopener" target="_blank">Turbine, Inc</a>. It is believed that the limited use of this file,

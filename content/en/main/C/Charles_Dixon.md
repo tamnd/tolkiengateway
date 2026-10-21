@@ -1,6 +1,5 @@
 ---
 title: "Charles Dixon"
-display_title: "<span class=\"mw-page-title-main\">Charles Dixon</span>"
 page_id: 27532
 namespace: 0
 revision_id: 357915
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Dixon, Charles"
 ---
 
-**Charles "Chuck" Dixon** ([April 14](/wiki/14_April "14 April"), [1954](/wiki/1954)) is an American comics writer. Though he worked for both <a class="extiw" href="http://en.wikipedia.org/wiki/Marvel_Comics" title="wikipedia:Marvel Comics">Marvel</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/DC_Comics" title="wikipedia:DC Comics">DC</a>, he is best known for his work on the latter, especially on several *Batman*-related titles, as well as on Conan stories.
+**Charles "Chuck" Dixon** ([April 14](../_/14_April.md), [1954](../_/1954.md)) is an American comics writer. Though he worked for both <a class="extiw" href="http://en.wikipedia.org/wiki/Marvel_Comics" title="wikipedia:Marvel Comics">Marvel</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/DC_Comics" title="wikipedia:DC Comics">DC</a>, he is best known for his work on the latter, especially on several *Batman*-related titles, as well as on Conan stories.
 
 ## Selected Bibliography {#Selected_Bibliography}
 
-- [1989](/wiki/1989)-[90](/wiki/1990 "1990"): *[The Hobbit (comic book)](</wiki/The_Hobbit_(comic_book)>)* (adaptation of [the original](/wiki/The_Hobbit "The Hobbit"))
+- [1989](../_/1989.md)-[90](../_/1990.md): *[The Hobbit (comic book)](<../T/The_Hobbit_(comic_book).md>)* (adaptation of [the original](../T/The_Hobbit.md))
 
 ## External links {#External_links}
 

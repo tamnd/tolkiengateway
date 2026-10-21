@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Galadriel.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Galadriel.jpeg</span>"
 page_id: 71253
 namespace: 6
 revision_id: 425064
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Galadriel](../../main/G/Galadriel.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

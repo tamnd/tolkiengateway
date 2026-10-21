@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Battle for Middle-earth II"
 ---
 
-Redirect to [The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II).
+Redirect to [The Lord of the Rings: The Battle for Middle-earth II](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).

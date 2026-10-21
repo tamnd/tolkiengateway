@@ -17,10 +17,10 @@ sort_keys:
   "Publications by title": "Lord of the Rings Fan Club Official Movie Magazine, the"
 ---
 
-<i><b>The Lord of the Rings Fan Club Official Movie Magazine</b></i> was a publication by [The Lord of the Rings Fan Club](/wiki/The_Lord_of_the_Rings_Fan_Club) which lasted only 18 issues.
+<i><b>The Lord of the Rings Fan Club Official Movie Magazine</b></i> was a publication by [The Lord of the Rings Fan Club](The_Lord_of_the_Rings_Fan_Club.md) which lasted only 18 issues.
 
 ## See also {#See_also}
 
-- [The Lord of the Rings Fan Club](/wiki/The_Lord_of_the_Rings_Fan_Club)
-- [The Lord of the Rings Fan Club Official Movie Magazine issues](/wiki/Category:The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine "Category:The Lord of the Rings Fan Club Official Movie Magazine")
-- [Images of The Lord of the Rings Fan Club Official Movie Magazine issues](/wiki/Category:Images_of_The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine "Category:Images of The Lord of the Rings Fan Club Official Movie Magazine")
+- [The Lord of the Rings Fan Club](The_Lord_of_the_Rings_Fan_Club.md)
+- [The Lord of the Rings Fan Club Official Movie Magazine issues](../../category/T/The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)
+- [Images of The Lord of the Rings Fan Club Official Movie Magazine issues](../../category/I/Images_of_The_Lord_of_the_Rings_Fan_Club_Official_Movie_Magazine.md)

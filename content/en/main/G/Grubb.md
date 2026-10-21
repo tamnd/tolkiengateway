@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grubb family"
 ---
 
-Redirect to [Grubb family](/wiki/Grubb_family).
+Redirect to [Grubb family](Grubb_family.md).

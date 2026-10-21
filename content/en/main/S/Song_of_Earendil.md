@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Eärendil"
 ---
 
-Redirect to [Song of Eärendil](/wiki/Song_of_Eärendil).
+Redirect to [Song of Eärendil](Song_of_Eärendil.md).

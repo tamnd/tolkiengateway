@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages including data maps failing validation"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages including data maps failing validation</span>"
 page_id: 69216
 namespace: 14
 revision_id: 413576

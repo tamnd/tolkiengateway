@@ -1,6 +1,5 @@
 ---
 title: "File:Rowena Morrill - The Battle of Sudden Flame.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rowena Morrill - The Battle of Sudden Flame.jpg</span>"
 page_id: 13875
 namespace: 6
 revision_id: 435762
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Rowena Morrill</li>
 <li><b>Website:</b> <a class="external text" href="https://www.grex.com/rowena/" rel="noreferrer noopener" target="_blank">Rowena Morrill&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Rowena_Morrill" title="Tolkien Gateway:Copyrights/Rowena Morrill">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRowena_Morrill.md" title="Tolkien Gateway:Copyrights/Rowena Morrill">Permission for use on Tolkien Gateway</a></b></li></ul></div>

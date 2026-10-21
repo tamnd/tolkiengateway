@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sacking of Mount Gundabad"
 ---
 
-Redirect to [Sacking of Mount Gundabad](/wiki/Sacking_of_Mount_Gundabad).
+Redirect to [Sacking of Mount Gundabad](Sacking_of_Mount_Gundabad.md).

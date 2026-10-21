@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R. Titmass"
 ---
 
-Redirect to [J.R. Titmass](/wiki/J.R._Titmass).
+Redirect to [J.R. Titmass](J.R._Titmass.md).

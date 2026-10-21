@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Hobbits by family"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Hobbits by family</span>"
 page_id: 39906
 namespace: 14
 revision_id: 217403

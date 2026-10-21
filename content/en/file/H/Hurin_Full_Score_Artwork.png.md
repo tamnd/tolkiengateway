@@ -1,6 +1,5 @@
 ---
 title: "File:Hurin Full Score Artwork.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hurin Full Score Artwork.png</span>"
 page_id: 65210
 namespace: 6
 revision_id: 378821

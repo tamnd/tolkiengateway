@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sandrine Gestin"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sandrine Gestin</span>"
 page_id: 57963
 namespace: 4
 revision_id: 322192
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gestin, Sandrine"
 ---
 
-- Sandrine Gestin has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Sandrine_Gestin "Category:Images by Sandrine Gestin") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Sandrine Gestin has kindly granted her permission to use [her artwork](../../category/I/Images_by_Sandrine_Gestin.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 14 August 2020
-- User who sought the permission via Instagram: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via Instagram: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

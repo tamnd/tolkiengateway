@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Haldir with bow.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Haldir with bow.gif</span>"
 page_id: 12079
 namespace: 6
 revision_id: 203898

@@ -1,6 +1,5 @@
 ---
 title: "File:Jrrt 1972 tree.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jrrt 1972 tree.jpg</span>"
 page_id: 5750
 namespace: 6
 revision_id: 253173

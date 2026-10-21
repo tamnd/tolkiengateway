@@ -1,6 +1,5 @@
 ---
 title: "File:Farmer Giles 1990 hardcover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Farmer Giles 1990 hardcover.png</span>"
 page_id: 61892
 namespace: 6
 revision_id: 349185

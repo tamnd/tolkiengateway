@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rovina Cai"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rovina Cai</span>"
 page_id: 74984
 namespace: 14
 revision_id: 441357
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Cai, Rovina"
 ---
 
-This category lists all **images by [Rovina Cai](/wiki/Rovina_Cai)**.
+This category lists all **images by [Rovina Cai](../../main/R/Rovina_Cai.md)**.

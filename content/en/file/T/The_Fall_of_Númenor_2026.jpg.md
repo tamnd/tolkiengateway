@@ -1,6 +1,5 @@
 ---
 title: "File:The Fall of Númenor 2026.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fall of Númenor 2026.jpg</span>"
 page_id: 74686
 namespace: 6
 revision_id: 439411

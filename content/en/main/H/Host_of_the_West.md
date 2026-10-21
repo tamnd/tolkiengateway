@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Host of the West (disambiguation)"
 ---
 
-Redirect to [Host of the West (disambiguation)](/wiki/Host_of_the_West_(disambiguation)).
+Redirect to [Host of the West (disambiguation)](<Host_of_the_West_(disambiguation).md>).

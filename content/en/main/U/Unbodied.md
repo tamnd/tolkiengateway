@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Undead"
 ---
 
-Redirect to [Undead](/wiki/Undead).
+Redirect to [Undead](Undead.md).

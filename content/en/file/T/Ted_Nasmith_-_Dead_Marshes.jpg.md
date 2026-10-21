@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Through the Marshes.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Through the Marshes.jpg](/wiki/File:Ted_Nasmith_-_Through_the_Marshes.jpg).
+Redirect to [File:Ted Nasmith - Through the Marshes.jpg](Ted_Nasmith_-_Through_the_Marshes.jpg.md).

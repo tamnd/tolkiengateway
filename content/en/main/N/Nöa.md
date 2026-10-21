@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noa"
 ---
 
-Redirect to [Noa](/wiki/Noa).
+Redirect to [Noa](Noa.md).

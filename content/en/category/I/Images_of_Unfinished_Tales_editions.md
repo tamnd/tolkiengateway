@@ -15,5 +15,5 @@ sort_keys:
   "Images of books": "Unfinished Tales"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i> editions</b>.
-<dl><dd><i>See also:</i> <a href="/wiki/Category:Images_from_Unfinished_Tales" title="Category:Images from Unfinished Tales"><i>Images from</i> Unfinished Tales</a> <i>illustrated by <a href="/wiki/John_Howe" title="John Howe">John Howe</a>, <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a> and <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>.</i></dd></dl></dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> editions</b>.
+<dl><dd><i>See also:</i> <a href="Images_from_Unfinished_Tales.md" title="Category:Images from Unfinished Tales"><i>Images from</i> Unfinished Tales</a> <i>illustrated by <a href="../../main/J/John_Howe.md" title="John Howe">John Howe</a>, <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> and <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>.</i></dd></dl></dd></dl>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Anglo-Saxon pronunciations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anglo-Saxon pronunciations</span>"
 page_id: 24254
 namespace: 14
 revision_id: 125468

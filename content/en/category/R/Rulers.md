@@ -1,6 +1,5 @@
 ---
 title: "Category:Rulers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rulers</span>"
 page_id: 2641
 namespace: 14
 revision_id: 337371

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brown Lands"
 ---
 
-Redirect to [Brown Lands](/wiki/Brown_Lands).
+Redirect to [Brown Lands](Brown_Lands.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar-Sakalthôr"
 ---
 
-Redirect to [Ar-Sakalthôr](/wiki/Ar-Sakalthôr).
+Redirect to [Ar-Sakalthôr](../A/Ar-Sakalthôr.md).

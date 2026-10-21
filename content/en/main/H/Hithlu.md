@@ -11,4 +11,4 @@ redirect_target: "Hithlum"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Hithlum](/wiki/Hithlum#Etymology).
+Redirect to [Hithlum](Hithlum.md#Etymology).

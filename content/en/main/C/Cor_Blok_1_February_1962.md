@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Cor Blok"
 ---
 
-Redirect to [Letter to Cor Blok](/wiki/Letter_to_Cor_Blok).
+Redirect to [Letter to Cor Blok](../L/Letter_to_Cor_Blok.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dori"
 ---
 
-Redirect to [Dori](/wiki/Dori).
+Redirect to [Dori](../D/Dori.md).

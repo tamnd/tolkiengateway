@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (film series) - Peter Jackson Filming.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) - Peter Jackson Filming.jpg</span>"
 page_id: 40246
 namespace: 6
 revision_id: 222598

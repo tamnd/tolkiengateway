@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bôr"
 ---
 
-Redirect to [Bôr](/wiki/Bôr).
+Redirect to [Bôr](Bôr.md).

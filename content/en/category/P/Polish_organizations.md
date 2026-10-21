@@ -1,6 +1,5 @@
 ---
 title: "Category:Polish organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Polish organizations</span>"
 page_id: 35409
 namespace: 14
 revision_id: 166496

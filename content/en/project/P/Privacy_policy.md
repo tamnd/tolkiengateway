@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Privacy policy"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Privacy policy</span>"
 page_id: 64869
 namespace: 4
 revision_id: 391474
@@ -49,7 +48,7 @@ We will disclose any information we collect, use or receive if required or permi
 
 ## Changes and amendments {#Changes_and_amendments}
 
-We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do, an entry will be recorded in [Recent changes](/wiki/Special:RecentChanges "Special:RecentChanges"), and the list of changes along with the dates will be recorded on the history section of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do, an entry will be recorded in [Recent changes](https://tolkiengateway.net/wiki/Special:RecentChanges), and the list of changes along with the dates will be recorded on the history section of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
 
 ## Acceptance of this policy {#Acceptance_of_this_policy}
 

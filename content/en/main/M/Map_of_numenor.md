@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenórë (map)"
 ---
 
-Redirect to [Númenórë (map)](/wiki/Númenórë_(map)).
+Redirect to [Númenórë (map)](<../N/Númenórë_(map).md>).

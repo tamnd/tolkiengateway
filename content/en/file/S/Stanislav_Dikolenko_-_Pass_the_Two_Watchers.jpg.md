@@ -1,6 +1,5 @@
 ---
 title: "File:Stanislav Dikolenko - Pass the Two Watchers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stanislav Dikolenko - Pass the Two Watchers.jpg</span>"
 page_id: 72022
 namespace: 6
 revision_id: 428598
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Pass the [Two Watchers](/wiki/Two_Watchers)" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Mountain of Fire* illustration by Stanislav Dikolenko
+"Pass the [Two Watchers](../../main/T/Two_Watchers.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Mountain of Fire* illustration by Stanislav Dikolenko
 
 ## Licensing {#Licensing}
 

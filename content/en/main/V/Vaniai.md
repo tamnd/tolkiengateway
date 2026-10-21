@@ -1,6 +1,5 @@
 ---
 title: "Vaniai"
-display_title: "<span class=\"mw-page-title-main\">Vaniai</span>"
 page_id: 21545
 namespace: 0
 revision_id: 181214
@@ -18,17 +17,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/peuples/elfes/vaniai"
 ---
 
-**Vaniai** is the [Telerin](/wiki/Telerin) word for the [Vanyar](/wiki/Vanyar).
+**Vaniai** is the [Telerin](../T/Telerin.md) word for the [Vanyar](Vanyar.md).
 
 ## Etymology {#Etymology}
 
 The word was borrowed directly from Quenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") is either <a class="new" href="/w/index.php?title=WAN&amp;action=edit&amp;redlink=1" title="WAN (page does not exist)">WAN</a> or [BAN](/wiki/BAN) (see [Vanyar](/wiki/Vanyar)) <span></span>
+The [Root](../S/Sundocarmë.md) is either <a class="new" href="https://tolkiengateway.net/w/index.php?title=WAN&amp;action=edit&amp;redlink=1" title="WAN (page does not exist)">WAN</a> or [BAN](../B/BAN.md) (see [Vanyar](Vanyar.md)) <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a> p.383</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a> p.383</span>
 </li>
 </ol></div>

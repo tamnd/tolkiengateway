@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Paladin Took II"
 ---
 
-Redirect to [Paladin Took II](/wiki/Paladin_Took_II).
+Redirect to [Paladin Took II](Paladin_Took_II.md).

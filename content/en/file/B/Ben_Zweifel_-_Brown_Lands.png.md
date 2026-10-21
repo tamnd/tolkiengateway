@@ -1,6 +1,5 @@
 ---
 title: "File:Ben Zweifel - Brown Lands.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ben Zweifel - Brown Lands.png</span>"
 page_id: 34400
 namespace: 6
 revision_id: 433312

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Meetings/8 January 2012"
 ---
 
-Redirect to [Tolkien Gateway:Meetings/8 January 2012](/wiki/Tolkien_Gateway:Meetings/8_January_2012).
+Redirect to [Tolkien Gateway:Meetings/8 January 2012](Meetings%252F8_January_2012.md).

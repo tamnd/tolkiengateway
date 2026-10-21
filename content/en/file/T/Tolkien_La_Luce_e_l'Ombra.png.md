@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien La Luce e l'Ombra.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien La Luce e l&#039;Ombra.png</span>"
 page_id: 36681
 namespace: 6
 revision_id: 214745

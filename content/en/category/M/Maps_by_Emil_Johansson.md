@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps by Emil Johansson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps by Emil Johansson</span>"
 page_id: 65095
 namespace: 14
 revision_id: 374785
@@ -15,4 +14,4 @@ sort_keys:
   "Maps by cartographer": "Johansson, Emil"
 ---
 
-This category lists all **maps by [Emil Johansson](/wiki/Emil_Johansson)**.
+This category lists all **maps by [Emil Johansson](../../main/E/Emil_Johansson.md)**.

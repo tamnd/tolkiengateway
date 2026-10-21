@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nicholas Guildford"
 ---
 
-Redirect to [Nicholas Guildford](/wiki/Nicholas_Guildford).
+Redirect to [Nicholas Guildford](../N/Nicholas_Guildford.md).

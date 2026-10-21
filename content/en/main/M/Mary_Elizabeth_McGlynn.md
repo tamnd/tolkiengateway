@@ -1,6 +1,5 @@
 ---
 title: "Mary Elizabeth McGlynn"
-display_title: "<span class=\"mw-page-title-main\">Mary Elizabeth McGlynn</span>"
 page_id: 22844
 namespace: 0
 revision_id: 339993
@@ -21,11 +20,11 @@ sort_keys:
   "People by name": "McGlynn, Mary Elizabeth"
 ---
 
-**Mary Elizaebeth McGlynn** ([October 16](/wiki/16_October "16 October"), [1966](/wiki/1966)) is an American voice actress.
+**Mary Elizaebeth McGlynn** ([October 16](../_/16_October.md), [1966](../_/1966.md)) is an American voice actress.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Saleme, Good Narrator
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Saleme, Good Narrator
 
 ## External links {#External_links}
 

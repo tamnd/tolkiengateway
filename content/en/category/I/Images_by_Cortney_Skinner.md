@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Cortney Skinner"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Cortney Skinner</span>"
 page_id: 29898
 namespace: 14
 revision_id: 423530
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Skinner, Cortney"
 ---
 
-This category lists all **images by [Cortney Skinner](/wiki/Cortney_Skinner)**.
+This category lists all **images by [Cortney Skinner](../../main/C/Cortney_Skinner.md)**.

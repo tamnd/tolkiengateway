@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gnomes"
 ---
 
-Redirect to [Gnomes](/wiki/Gnomes).
+Redirect to [Gnomes](Gnomes.md).

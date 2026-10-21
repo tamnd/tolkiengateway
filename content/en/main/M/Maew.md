@@ -13,21 +13,21 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>maew</b></i> is a [Sindarin](/wiki/Sindarin) word meaning *[gull](/wiki/Gull "Gull")*.<sup id="cite_ref-miw_1-0" class="reference"><a href="#cite_note-miw-1">[1]</a></sup> Compare with [Quenya](/wiki/Quenya) *[maiwë](/wiki/Maiw%C3%AB "Maiwë")*.
+<i><b>maew</b></i> is a [Sindarin](../S/Sindarin.md) word meaning *[gull](../G/Gull.md)*.<sup id="cite_ref-miw_1-0" class="reference"><a href="#cite_note-miw-1">[1]</a></sup> Compare with [Quenya](../Q/Quenya.md) *[maiwë](Maiwë.md)*.
 
 ## Etymology {#Etymology}
 
-From [root](/wiki/Sundocarme "Sundocarme") MIW.<sup id="cite_ref-miw_1-1" class="reference"><a href="#cite_note-miw-1">[1]</a></sup>
+From [root](../S/Sundocarme.md) MIW.<sup id="cite_ref-miw_1-1" class="reference"><a href="#cite_note-miw-1">[1]</a></sup>
 
 ## Synonyms {#Synonyms}
 
-- *[mŷl](/wiki/M%C5%B7l "Mŷl")*
+- *[mŷl](Mŷl.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-miw-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-miw_1-0">1.0</a></sup> <sup><a href="#cite_ref-miw_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;MIW&#34;</span>
+<li id="cite_note-miw-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-miw_1-0">1.0</a></sup> <sup><a href="#cite_ref-miw_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;MIW&#34;</span>
 </li>
 </ol></div>

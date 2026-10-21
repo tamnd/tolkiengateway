@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen - Gimli.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen - Gimli.png</span>"
 page_id: 71012
 namespace: 6
 revision_id: 424184
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gimli](/wiki/Gimli) in [Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)")
+[Gimli](../../main/G/Gimli.md) in [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Licensing {#Licensing}
 

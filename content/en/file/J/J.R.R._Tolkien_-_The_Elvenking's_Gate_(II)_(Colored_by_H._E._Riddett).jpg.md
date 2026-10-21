@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Elvenking's Gate (II) (Colored by H. E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Elvenking&#039;s Gate (II) (Colored by H. E. Riddett).jpg</span>"
 page_id: 5486
 namespace: 6
 revision_id: 441321
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Colored version by [H.E. Riddett](/wiki/H.E._Riddett) of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s "[The Elvenking's Gate](</wiki/File:J.R.R._Tolkien_-_The_Elvenking%27s_Gate_(II).jpg> "File:J.R.R. Tolkien - The Elvenking's Gate (II).jpg")" drawing. This version was made for [The Hobbit Calendar 1976](/wiki/The_Hobbit_Calendar_1976), and has been used in some illustrated editions of *[The Hobbit](/wiki/The_Hobbit)*.
+Colored version by [H.E. Riddett](../../main/H/H.E._Riddett.md) of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s "[The Elvenking's Gate](<J.R.R._Tolkien_-_The_Elvenking's_Gate_(II).jpg.md>)" drawing. This version was made for [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md), and has been used in some illustrated editions of *[The Hobbit](../../main/T/The_Hobbit.md)*.
 
 ## Licensing {#Licensing}
 

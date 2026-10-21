@@ -1,6 +1,5 @@
 ---
 title: "File:Gerda Boffin - The Lord of the Rings Roleplaying.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gerda Boffin - The Lord of the Rings Roleplaying.jpg</span>"
 page_id: 71228
 namespace: 6
 revision_id: 442359
@@ -32,22 +31,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gerda Boffin - The Lord of the Rings Roleplaying.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Gerda_Boffin" title="Gerda Boffin">Gerda Boffin</a>
+<p><a href="../../main/G/Gerda_Boffin.md" title="Gerda Boffin">Gerda Boffin</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Jan_Posp%C3%AD%C5%A1il" title="Jan Pospíšil">Jan Pospíšil</a></td>
+<td><a href="../../main/J/Jan_Pospíšil.md" title="Jan Pospíšil">Jan Pospíšil</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><i><a href="/wiki/The_Lord_of_the_Rings_Roleplaying" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i></td>
+<td><i><a href="../../main/T/The_Lord_of_the_Rings_Roleplaying.md" title="The Lord of the Rings Roleplaying">The Lord of the Rings Roleplaying</a></i> - <i>Shire Adventures</i></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

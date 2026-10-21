@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúmë"
 ---
 
-Redirect to [Lúmë](/wiki/Lúmë).
+Redirect to [Lúmë](Lúmë.md).

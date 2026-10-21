@@ -1,6 +1,5 @@
 ---
 title: "File:The Middle-earth Quiz Book.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Middle-earth Quiz Book.jpg</span>"
 page_id: 28849
 namespace: 6
 revision_id: 214677

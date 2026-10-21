@@ -1,6 +1,5 @@
 ---
 title: "File:The King Edward's School Chronicle Vol. 25 No. 184 1910.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The King Edward&#039;s School Chronicle Vol. 25 No. 184 1910.jpg</span>"
 page_id: 5045
 namespace: 6
 revision_id: 214646

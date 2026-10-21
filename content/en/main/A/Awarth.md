@@ -13,6 +13,6 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>awarth</b></i> is a [Sindarin](/wiki/Sindarin) noun meaning *abandonment*. See also verb form *[awartha-](/wiki/Awartha- "Awartha-")*.
+<i><b>awarth</b></i> is a [Sindarin](../S/Sindarin.md) noun meaning *abandonment*. See also verb form *[awartha-](Awartha-.md)*.
 
-[Didier Willis](/wiki/Didier_Willis) (ed.), *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB "Hiswelókë")*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>
+[Didier Willis](../D/Didier_Willis.md) (ed.), *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë.md)*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Edition 1.9.1 (Lexicon 0.9952)</a>

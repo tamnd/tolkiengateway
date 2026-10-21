@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wilcome Cotton I"
 ---
 
-Redirect to [Wilcome Cotton I](/wiki/Wilcome_Cotton_I).
+Redirect to [Wilcome Cotton I](Wilcome_Cotton_I.md).

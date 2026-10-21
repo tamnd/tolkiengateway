@@ -1,6 +1,5 @@
 ---
 title: "File:DexMat Galvorn material.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">DexMat Galvorn material.png</span>"
 page_id: 69848
 namespace: 6
 revision_id: 415143

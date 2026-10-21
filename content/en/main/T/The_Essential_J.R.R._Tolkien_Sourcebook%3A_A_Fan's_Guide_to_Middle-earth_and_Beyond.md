@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Essential J.R.R. Tolkien Sourcebook"
 ---
 
-Redirect to [The Essential J.R.R. Tolkien Sourcebook](/wiki/The_Essential_J.R.R._Tolkien_Sourcebook).
+Redirect to [The Essential J.R.R. Tolkien Sourcebook](The_Essential_J.R.R._Tolkien_Sourcebook.md).

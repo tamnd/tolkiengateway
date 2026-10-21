@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eldalondë"
 ---
 
-Redirect to [Eldalondë](/wiki/Eldalondë).
+Redirect to [Eldalondë](Eldalondë.md).

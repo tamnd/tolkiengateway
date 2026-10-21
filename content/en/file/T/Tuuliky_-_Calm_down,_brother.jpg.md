@@ -1,6 +1,5 @@
 ---
 title: "File:Tuuliky - Calm down, brother.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tuuliky - Calm down, brother.jpg</span>"
 page_id: 37994
 namespace: 6
 revision_id: 183928
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Turukáno](/wiki/Turgon "Turgon") lost his wife [Elenwë](/wiki/Elenw%C3%AB) in the crossing of the dangerous [Helcaraxë](/wiki/Helcarax%C3%AB) and couldn't forgive her death to [Fëanor's sons](/wiki/Sons_of_F%C3%ABanor "Sons of Fëanor"). It is a scene of quarrel between [Turukáno](/wiki/Turgon "Turgon") and [Maitimo](/wiki/Maedhros "Maedhros") at the moment of delegation of power to [Ñolofinwë](/wiki/Fingolfin "Fingolfin"). [Findekáno](/wiki/Fingon "Fingon") plays a role of the peacemaker between best friend and brother.
+[Turukáno](../../main/T/Turgon.md) lost his wife [Elenwë](../../main/E/Elenwë.md) in the crossing of the dangerous [Helcaraxë](../../main/H/Helcaraxë.md) and couldn't forgive her death to [Fëanor's sons](../../main/S/Sons_of_Fëanor.md). It is a scene of quarrel between [Turukáno](../../main/T/Turgon.md) and [Maitimo](../../main/M/Maedhros.md) at the moment of delegation of power to [Ñolofinwë](../../main/F/Fingolfin.md). [Findekáno](../../main/F/Fingon.md) plays a role of the peacemaker between best friend and brother.
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tuuliky</li>
 <li><b>Website:</b> <a class="external text" href="http://tuuliky.deviantart.com/" rel="noreferrer noopener" target="_blank">Tuuliky&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tuuliky" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTuuliky.md" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>

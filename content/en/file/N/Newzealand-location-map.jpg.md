@@ -1,6 +1,5 @@
 ---
 title: "File:Newzealand-location-map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Newzealand-location-map.jpg</span>"
 page_id: 71120
 namespace: 6
 revision_id: 424667

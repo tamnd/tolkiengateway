@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - You were born to the rolling hills and little rivers of The Shire.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - You were born to the rolling hills and little rivers of The Shire.jpeg</span>"
 page_id: 72545
 namespace: 6
 revision_id: 430744
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thorin and Company](/wiki/Thorin_and_Company) set out on the [Quest of Erebor](/wiki/Quest_of_Erebor) - *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*
+[Thorin and Company](../../main/T/Thorin_and_Company.md) set out on the [Quest of Erebor](../../main/Q/Quest_of_Erebor.md) - *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
 
 ## Licensing {#Licensing}
 

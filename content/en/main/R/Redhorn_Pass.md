@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Redhorn Gate"
 ---
 
-Redirect to [Redhorn Gate](/wiki/Redhorn_Gate).
+Redirect to [Redhorn Gate](Redhorn_Gate.md).

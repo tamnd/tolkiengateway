@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: Official Movie Guide"
 ---
 
-Redirect to [The Lord of the Rings: Official Movie Guide](/wiki/The_Lord_of_the_Rings:_Official_Movie_Guide).
+Redirect to [The Lord of the Rings: Official Movie Guide](The_Lord_of_the_Rings%253A_Official_Movie_Guide.md).

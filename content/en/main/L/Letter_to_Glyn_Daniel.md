@@ -14,10 +14,10 @@ sort_keys:
   "Letters": "Daniel,Glyn"
 ---
 
-On [25 August](/wiki/25_August) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a href="/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Glyn_Daniel" title="wikipedia:Glyn Daniel">Glyn Daniel</a></b>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [25 August](../_/25_August.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="extiw" href="http://en.wikipedia.org/wiki/Glyn_Daniel" title="wikipedia:Glyn Daniel">Glyn Daniel</a></b>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject:** A letter of thanks to <a class="extiw" href="http://en.wikipedia.org/wiki/Glyn_Daniel" title="wikipedia:Glyn Daniel">Glyn Daniel</a> for dinner in [Cambridge](/wiki/Cambridge).
-- **Publication:** The letter was printed in full in *[J.R.R. Tolkien: A Biography](/wiki/J.R.R._Tolkien:_A_Biography)*, pp. 256–7.
+- **Subject:** A letter of thanks to <a class="extiw" href="http://en.wikipedia.org/wiki/Glyn_Daniel" title="wikipedia:Glyn Daniel">Glyn Daniel</a> for dinner in [Cambridge](../C/Cambridge.md).
+- **Publication:** The letter was printed in full in *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)*, pp. 256–7.
 
 ## Transcription {#Transcription}
 
@@ -26,14 +26,12 @@ On [25 August](/wiki/25_August) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 774</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 774</span>
 </li>
 </ol></div>

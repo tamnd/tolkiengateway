@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Help:Contents"
 ---
 
-Redirect to [Help:Contents](/wiki/Help:Contents).
+Redirect to [Help:Contents](../../help/C/Contents.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of posters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of posters</span>"
 page_id: 63218
 namespace: 14
 revision_id: 358100

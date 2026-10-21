@@ -1,6 +1,5 @@
 ---
 title: "Eilenaer"
-display_title: "<span class=\"mw-page-title-main\">Eilenaer</span>"
 page_id: 2063
 namespace: 0
 revision_id: 438705
@@ -14,17 +13,17 @@ categories:
   - "Rohan"
 ---
 
-**Eilenaer** was a tall hill or mountain with its feet shrouded by woodland, Eilenaer was in many ways similar to [Eilenach](/wiki/Eilenach), which stood far to the east in the [Drúadan Forest](/wiki/Dr%C3%BAadan_Forest), and indeed these two ancient names appear to be related in meaning. While Eilenach kept its old name, Eilenaer was renamed when it became the site of [Elendil](/wiki/Elendil)'s Tomb. In [Gondor](/wiki/Gondor) after that time it was known by the [Elvish](/wiki/Elvish) title [Amon Anwar](/wiki/Halifirien "Halifirien"), 'Hill of Awe'. When the [Rohirrim](/wiki/Rohirrim) came to settle in [Rohan](/wiki/Rohan), long afterwards, they gave it another name in their own tongue - *[Halifirien](/wiki/Halifirien)*, the 'Holy Mountain' on the borders of their realm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eilenaer** was a tall hill or mountain with its feet shrouded by woodland, Eilenaer was in many ways similar to [Eilenach](Eilenach.md), which stood far to the east in the [Drúadan Forest](../D/Drúadan_Forest.md), and indeed these two ancient names appear to be related in meaning. While Eilenach kept its old name, Eilenaer was renamed when it became the site of [Elendil](Elendil.md)'s Tomb. In [Gondor](../G/Gondor.md) after that time it was known by the [Elvish](Elvish.md) title [Amon Anwar](../H/Halifirien.md), 'Hill of Awe'. When the [Rohirrim](../R/Rohirrim.md) came to settle in [Rohan](../R/Rohan.md), long afterwards, they gave it another name in their own tongue - *[Halifirien](../H/Halifirien.md)*, the 'Holy Mountain' on the borders of their realm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Eilenaer* was a name of [pre-Númenórean](/wiki/Pre-N%C3%BAmen%C3%B3rean "Pre-Númenórean") origin, evidently related to [Eilenach](/wiki/Eilenach).
+*Eilenaer* was a name of [pre-Númenórean](../P/Pre-Númenórean.md) origin, evidently related to [Eilenach](Eilenach.md).
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, &#34;(iv) The Tradition of Isildur&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, &#34;(iv) The Tradition of Isildur&#34;</span>
 </li>
 </ol></div>

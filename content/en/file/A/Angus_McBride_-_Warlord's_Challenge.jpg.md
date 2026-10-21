@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Warlord's Challenge.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Warlord&#039;s Challenge.jpg</span>"
 page_id: 72014
 namespace: 6
 revision_id: 437134

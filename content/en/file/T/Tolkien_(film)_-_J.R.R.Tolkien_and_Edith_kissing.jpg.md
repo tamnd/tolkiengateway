@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien (film) - J.R.R.Tolkien and Edith kissing.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien (film) - J.R.R.Tolkien and Edith kissing.jpg</span>"
 page_id: 63410
 namespace: 6
 revision_id: 368793
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-J.R.R.Tolkien and Edith Bratt kissing from [Tolkien (film)](</wiki/Tolkien_(film)>).
+J.R.R.Tolkien and Edith Bratt kissing from [Tolkien (film)](<../../main/T/Tolkien_(film).md>).
 
 ## Licensing {#Licensing}
 

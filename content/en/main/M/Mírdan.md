@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mírdain"
 ---
 
-Redirect to [Mírdain](/wiki/Mírdain).
+Redirect to [Mírdain](Mírdain.md).

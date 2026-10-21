@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bar-erib"
 ---
 
-Redirect to [Bar-erib](/wiki/Bar-erib).
+Redirect to [Bar-erib](Bar-erib.md).

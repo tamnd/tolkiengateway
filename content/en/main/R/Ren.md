@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eighth of the Nazgûl"
 ---
 
-Redirect to [Eighth of the Nazgûl](/wiki/Eighth_of_the_Nazgûl).
+Redirect to [Eighth of the Nazgûl](../E/Eighth_of_the_Nazgûl.md).

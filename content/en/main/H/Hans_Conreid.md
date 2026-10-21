@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hans Conried"
 ---
 
-Redirect to [Hans Conried](/wiki/Hans_Conried).
+Redirect to [Hans Conried](Hans_Conried.md).

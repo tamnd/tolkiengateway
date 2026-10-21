@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Fifth Battle: Nirnaeth Arnoediad"
 ---
 
-Redirect to [Of the Fifth Battle: Nirnaeth Arnoediad](/wiki/Of_the_Fifth_Battle:_Nirnaeth_Arnoediad).
+Redirect to [Of the Fifth Battle: Nirnaeth Arnoediad](Of_the_Fifth_Battle%253A_Nirnaeth_Arnoediad.md).

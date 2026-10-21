@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Renée Vink"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Renée Vink</span>"
 page_id: 43771
 namespace: 14
 revision_id: 230583
@@ -15,4 +14,4 @@ sort_keys:
   "Images of authors": "Vink, Renee"
 ---
 
-- Images of **[Renée Vink](/wiki/Ren%C3%A9e_Vink)**.
+- Images of **[Renée Vink](../../main/R/Renée_Vink.md)**.

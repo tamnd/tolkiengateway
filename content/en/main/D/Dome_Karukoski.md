@@ -1,6 +1,5 @@
 ---
 title: "Dome Karukoski"
-display_title: "<span class=\"mw-page-title-main\">Dome Karukoski</span>"
 page_id: 57476
 namespace: 0
 revision_id: 405252
@@ -24,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Dome_Karukoski"
 ---
 
-**Thomas "Dome" August George Karukoski** ([29 December](/wiki/29_December), [1976](/wiki/1976)) is a Finnish film director who directed *[Tolkien](</wiki/Tolkien_(film)> "Tolkien (film)")* (2019).
+**Thomas "Dome" August George Karukoski** ([29 December](../_/29_December.md), [1976](../_/1976.md)) is a Finnish film director who directed *[Tolkien](<../T/Tolkien_(film).md>)* (2019).
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Artist and Illustrator"
 ---
 
-Redirect to [J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator).
+Redirect to [J.R.R. Tolkien: Artist and Illustrator](../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md).

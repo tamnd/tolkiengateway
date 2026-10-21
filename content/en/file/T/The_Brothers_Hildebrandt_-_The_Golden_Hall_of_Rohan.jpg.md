@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Golden Hall of Rohan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Golden Hall of Rohan.jpg</span>"
 page_id: 72364
 namespace: 6
 revision_id: 429940
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Golden Hall of Rohan](/wiki/Meduseld "Meduseld")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"[The Golden Hall of Rohan](../../main/M/Meduseld.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

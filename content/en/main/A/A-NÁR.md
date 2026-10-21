@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ANÁR"
 ---
 
-Redirect to [ANÁR](/wiki/ANÁR).
+Redirect to [ANÁR](ANÁR.md).

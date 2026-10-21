@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Kay Woollard"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Kay Woollard</span>"
 page_id: 63591
 namespace: 14
 revision_id: 363271
@@ -15,6 +14,6 @@ sort_keys:
   "Images by artist": "Woollard, Kay"
 ---
 
-This category lists all **images by [Kay Woollard](/wiki/Kay_Woollard)**.
+This category lists all **images by [Kay Woollard](../../main/K/Kay_Woollard.md)**.
 
-<dl><dd><i>See also <a href="/wiki/Kay_Woollard/Gallery" title="Kay Woollard/Gallery">Kay Woollard/Gallery</a>.</i></dd></dl>
+<dl><dd><i>See also <a href="../../main/K/Kay_Woollard%252FGallery.md" title="Kay Woollard/Gallery">Kay Woollard/Gallery</a>.</i></dd></dl>

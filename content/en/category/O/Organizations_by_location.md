@@ -1,6 +1,5 @@
 ---
 title: "Category:Organizations by location"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Organizations by location</span>"
 page_id: 27864
 namespace: 14
 revision_id: 116139

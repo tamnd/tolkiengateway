@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobgoblins"
 ---
 
-Redirect to [Hobgoblins](/wiki/Hobgoblins).
+Redirect to [Hobgoblins](Hobgoblins.md).

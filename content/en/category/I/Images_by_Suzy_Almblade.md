@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Suzy Almblade"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Suzy Almblade</span>"
 page_id: 42681
 namespace: 14
 revision_id: 225102

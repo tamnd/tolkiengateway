@@ -1,6 +1,5 @@
 ---
 title: "Christopher MacLachlan"
-display_title: "<span class=\"mw-page-title-main\">Christopher MacLachlan</span>"
 page_id: 40104
 namespace: 0
 revision_id: 421097
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "MacLachlan, Christopher"
 ---
 
-**Christopher John Morriss MacLachlan** is an author who has explored influences of [Richard Wagner](/wiki/Richard_Wagner)'s [Ring Cycle](/wiki/Der_Ring_des_Nibelungen "Der Ring des Nibelungen") on [Tolkien](/wiki/Tolkien)'s writing. He is a lecturer at the English department of the University of St. Andrews.
+**Christopher John Morriss MacLachlan** is an author who has explored influences of [Richard Wagner](../R/Richard_Wagner.md)'s [Ring Cycle](../D/Der_Ring_des_Nibelungen.md) on [Tolkien](../T/Tolkien.md)'s writing. He is a lecturer at the English department of the University of St. Andrews.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2012](/wiki/2012): <i><a href="/wiki/Tolkien_and_Wagner" title="Tolkien and Wagner">Tolkien and Wagner: The Ring and <i>Der Ring</i></a></i>
+- [2012](../_/2012.md): <i><a href="../T/Tolkien_and_Wagner.md" title="Tolkien and Wagner">Tolkien and Wagner: The Ring and <i>Der Ring</i></a></i>
 
 ## External links {#External_links}
 

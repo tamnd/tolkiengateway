@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gálmód"
 ---
 
-Redirect to [Gálmód](/wiki/Gálmód).
+Redirect to [Gálmód](Gálmód.md).

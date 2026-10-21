@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thingol"
 ---
 
-Redirect to [Thingol](/wiki/Thingol).
+Redirect to [Thingol](../T/Thingol.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Fellowship of the Ring (extended edition)"
 ---
 
-Redirect to [The Lord of the Rings: The Fellowship of the Ring (extended edition)](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)).
+Redirect to [The Lord of the Rings: The Fellowship of the Ring (extended edition)](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>).

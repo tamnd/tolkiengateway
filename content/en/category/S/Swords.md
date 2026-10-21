@@ -1,6 +1,5 @@
 ---
 title: "Category:Swords"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Swords</span>"
 page_id: 5099
 namespace: 14
 revision_id: 12593
@@ -13,4 +12,4 @@ categories:
   - "Weapons"
 ---
 
-Below is a list of swords found in [Arda](/wiki/Arda).
+Below is a list of swords found in [Arda](../../main/A/Arda.md).

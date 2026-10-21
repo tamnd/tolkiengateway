@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Patrick Hunt"
 ---
 
-Redirect to [Letter to Patrick Hunt](/wiki/Letter_to_Patrick_Hunt).
+Redirect to [Letter to Patrick Hunt](../L/Letter_to_Patrick_Hunt.md).

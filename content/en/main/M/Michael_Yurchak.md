@@ -1,6 +1,5 @@
 ---
 title: "Michael Yurchak"
-display_title: "<span class=\"mw-page-title-main\">Michael Yurchak</span>"
 page_id: 27916
 namespace: 0
 revision_id: 156188
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Yurchak, Michael"
 ---
 
-**P. Michael Yurchak** ([December 20](/wiki/20_December "20 December"), [1971](/wiki/1971)) is an American actor.
+**P. Michael Yurchak** ([December 20](../_/20_December.md), [1971](../_/1971.md)) is an American actor.
 
 ## Roles {#Roles}
 
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)* - Elven Officer #1
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)* - Elven Officer #1
 
 ## External links {#External_links}
 

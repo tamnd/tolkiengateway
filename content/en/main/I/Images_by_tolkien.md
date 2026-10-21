@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by J.R.R. Tolkien"
 ---
 
-Redirect to [Category:Images by J.R.R. Tolkien](/wiki/Category:Images_by_J.R.R._Tolkien).
+Redirect to [Category:Images by J.R.R. Tolkien](../../category/I/Images_by_J.R.R._Tolkien.md).

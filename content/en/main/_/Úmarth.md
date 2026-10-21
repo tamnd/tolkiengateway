@@ -24,28 +24,28 @@ langlinks:
     url: "https://kontu.wiki/%C3%9Amarth"
 ---
 
-<i><b>úmarth</b></i> means "ill-fate" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
+<i><b>úmarth</b></i> means "ill-fate" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-SI_1-0" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
 
-[Túrin Turambar](/wiki/T%C3%BArin "Túrin") in [Nargothrond](/wiki/Nargothrond), wished to hide his identity and introduced himself as [Agarwaen](/wiki/Agarwaen).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He used the name Úmarth to refer to his father [Húrin](/wiki/H%C3%BArin).<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
+[Túrin Turambar](../T/Túrin.md) in [Nargothrond](../N/Nargothrond.md), wished to hide his identity and introduced himself as [Agarwaen](../A/Agarwaen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He used the name Úmarth to refer to his father [Húrin](../H/Húrin.md).<sup id="cite_ref-SI_1-1" class="reference"><a href="#cite_note-SI-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Úmarth* apparently contains the negative prefix *ū*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> + *[amarth](/wiki/Amarth "Amarth")* "fate".
+*Úmarth* apparently contains the negative prefix *ū*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> + *[amarth](../A/Amarth.md)* "fate".
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[umbar](</wiki/Umbar_(word)> "Umbar (word)")*
+- [Quenya](../Q/Quenya.md) *[umbar](<../U/Umbar_(word).md>)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-SI-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SI_1-0">1.0</a></sup> <sup><a href="#cite_ref-SI_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;, <i>amarth</i></span>
+<li id="cite_note-SI-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SI_1-0">1.0</a></sup> <sup><a href="#cite_ref-SI_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Index of Names&#34;, <i>amarth</i></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_T%C3%BArin_Turambar" title="Of Túrin Turambar">Of Túrin Turambar</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Túrin_Turambar.md" title="Of Túrin Turambar">Of Túrin Turambar</a>&#34;</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 369</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 369</span>
 </li>
 </ol></div>

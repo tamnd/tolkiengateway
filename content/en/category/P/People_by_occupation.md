@@ -1,6 +1,5 @@
 ---
 title: "Category:People by occupation"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">People by occupation</span>"
 page_id: 27802
 namespace: 14
 revision_id: 115558

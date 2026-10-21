@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maiar"
 ---
 
-Redirect to [Maiar](/wiki/Maiar).
+Redirect to [Maiar](Maiar.md).

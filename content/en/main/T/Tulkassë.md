@@ -11,4 +11,4 @@ redirect_target: "Tulkastor"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Tulkastor](/wiki/Tulkastor#Other_versions_of_the_legendarium).
+Redirect to [Tulkastor](Tulkastor.md#Other_versions_of_the_legendarium).

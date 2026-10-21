@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Magali Villeneuve"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Magali Villeneuve</span>"
 page_id: 74603
 namespace: 14
 revision_id: 439120
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Villeneuve, Magali"
 ---
 
-This category lists all **images by [Magali Villeneuve](/wiki/Magali_Villeneuve)**.
+This category lists all **images by [Magali Villeneuve](../../main/M/Magali_Villeneuve.md)**.

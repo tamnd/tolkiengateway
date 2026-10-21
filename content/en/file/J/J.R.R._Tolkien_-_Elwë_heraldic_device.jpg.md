@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Elwë heraldic device.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Elwë heraldic device.jpg</span>"
 page_id: 64771
 namespace: 6
 revision_id: 432773
@@ -29,13 +28,13 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/38/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #38</a>. Published in:
 
-- *[The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974)*, back cover
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)*, April
-- *[The Silmarillion](/wiki/The_Silmarillion)* ([1977](/wiki/1977)), dusk jacket (back)
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)*, May
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 194, #191
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), pp. 47, 122
+- *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)*, back cover
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)*, April
+- *[The Silmarillion](../../main/T/The_Silmarillion.md)* ([1977](../../main/_/1977.md)), dusk jacket (back)
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)*, May
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 194, #191
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), pp. 47, 122
 
 ## Licensing {#Licensing}
 

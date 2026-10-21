@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Éothéod"
 ---
 
-Redirect to [Lord of the Éothéod](/wiki/Lord_of_the_Éothéod).
+Redirect to [Lord of the Éothéod](Lord_of_the_Éothéod.md).

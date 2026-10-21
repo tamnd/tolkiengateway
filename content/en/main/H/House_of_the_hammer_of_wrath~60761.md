@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Hammer of Wrath"
 ---
 
-Redirect to [House of the Hammer of Wrath](/wiki/House_of_the_Hammer_of_Wrath).
+Redirect to [House of the Hammer of Wrath](House_of_the_Hammer_of_Wrath.md).

@@ -11,4 +11,4 @@ redirect_target: "Gondolin"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Gondolin](/wiki/Gondolin#Etymology).
+Redirect to [Gondolin](../G/Gondolin.md#Etymology).

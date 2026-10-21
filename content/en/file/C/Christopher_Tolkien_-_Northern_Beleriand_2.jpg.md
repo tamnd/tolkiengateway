@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Northern Beleriand 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Northern Beleriand 2.jpg</span>"
 page_id: 52851
 namespace: 6
 revision_id: 287532
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Christopher Tolkien's second sketch of the northernmost lands of Beleriand, appearing in *[The Lost Road](/wiki/The_Lost_Road)*.
+Christopher Tolkien's second sketch of the northernmost lands of Beleriand, appearing in *[The Lost Road](../../main/T/The_Lost_Road.md)*.
 
 ## Licensing {#Licensing}
 

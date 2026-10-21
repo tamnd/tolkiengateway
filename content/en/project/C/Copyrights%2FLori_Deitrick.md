@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Lori Deitrick"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Lori Deitrick</span>"
 page_id: 48907
 namespace: 4
 revision_id: 262172
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Deitrick, Lori"
 ---
 
-- Lori Deitrick has kindly granted her permission to use [her Tolkien-related artwork](/wiki/Category:Images_by_Lori_Deitrick "Category:Images by Lori Deitrick") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Lori Deitrick has kindly granted her permission to use [her Tolkien-related artwork](../../category/I/Images_by_Lori_Deitrick.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 December 2014
-- User who sought the permission via email: [Morgan](/wiki/User:Morgan "User:Morgan")
+- User who sought the permission via email: [Morgan](https://tolkiengateway.net/wiki/User:Morgan)

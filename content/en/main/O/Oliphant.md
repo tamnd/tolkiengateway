@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oliphaunts"
 ---
 
-Redirect to [Oliphaunts](/wiki/Oliphaunts).
+Redirect to [Oliphaunts](Oliphaunts.md).

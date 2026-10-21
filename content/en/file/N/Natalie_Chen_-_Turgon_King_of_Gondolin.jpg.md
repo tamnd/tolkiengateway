@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Turgon King of Gondolin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Turgon King of Gondolin.jpg</span>"
 page_id: 56318
 namespace: 6
 revision_id: 306482
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Turgon](/wiki/Turgon), [King of Gondolin](/wiki/King_of_Gondolin), by Natalie Chen.
+Image of [Turgon](../../main/T/Turgon.md), [King of Gondolin](../../main/K/King_of_Gondolin.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Image of [Turgon](/wiki/Turgon), [King of Gondolin](/wiki/King_of_Gondolin), by 
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

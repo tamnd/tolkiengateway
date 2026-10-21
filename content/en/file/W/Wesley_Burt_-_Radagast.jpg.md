@@ -1,6 +1,5 @@
 ---
 title: "File:Wesley Burt - Radagast.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wesley Burt - Radagast.jpg</span>"
 page_id: 75211
 namespace: 6
 revision_id: 442776
@@ -28,10 +27,6 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Wesley Burt</td>
@@ -40,7 +35,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="http://translate.lotros.ru/photos/842-radagast-karii.html" rel="noreferrer noopener" target="_blank">LOTROS</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

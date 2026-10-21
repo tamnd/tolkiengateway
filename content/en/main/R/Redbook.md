@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Redbook (23 November 1967)"
 ---
 
-Redirect to [Redbook (23 November 1967)](/wiki/Redbook_(23_November_1967)).
+Redirect to [Redbook (23 November 1967)](<Redbook_(23_November_1967).md>).

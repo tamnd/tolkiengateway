@@ -1,6 +1,5 @@
 ---
 title: "File:Pbroks13 - Flag of the Kingdom of Rohan No Border.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pbroks13 - Flag of the Kingdom of Rohan No Border.svg</span>"
 page_id: 66832
 namespace: 6
 revision_id: 423154
@@ -30,7 +29,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Pbroks13 - Flag of the Kingdom of Rohan No Border.svg</span></th>
 <td class="description">
-<p>A simplified rendition of the <a href="/wiki/File:The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>, reducing the complexity of the background.
+<p>A simplified rendition of the <a href="../T/The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg.md" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>, reducing the complexity of the background.
 </p>
 </td>
 </tr>
@@ -38,17 +37,14 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>14 November 2018</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="external text" href="https://commons.wikimedia.org/wiki/User:Pbroks13" rel="noreferrer noopener" target="_blank">Pbroks13</a>, field colour derivation by <a class="external text" href="https://commons.wikimedia.org/wiki/User:Chiswick_Chap" rel="noreferrer noopener" target="_blank">Chiswick Chap</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Sourced from <a class="external text" href="https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Rohan_No_Border.svg" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a>, which in turn is traced from the <a href="/wiki/File:The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>.</td>
+<td>Sourced from <a class="external text" href="https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Rohan_No_Border.svg" rel="noreferrer noopener" target="_blank">Wikimedia Commons</a>, which in turn is traced from the <a href="../T/The_Lord_of_the_Rings_(film_series)_-_Rohan_flag.jpg.md" title="File:The Lord of the Rings (film series) - Rohan flag.jpg">film series flag</a>.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

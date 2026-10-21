@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Matěj Čadil"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Matěj Čadil</span>"
 page_id: 30226
 namespace: 14
 revision_id: 192576
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Cadil, Matej"
 ---
 
-This category lists all **images by [Matěj Čadil](/wiki/Mat%C4%9Bj_%C4%8Cadil)** ([User:Neral](/wiki/Special:Contributions/Neral "Special:Contributions/Neral") on [Tolkien Gateway](/wiki/Tolkien_Gateway)).
+This category lists all **images by [Matěj Čadil](../../main/M/Matěj_Čadil.md)** ([User:Neral](https://tolkiengateway.net/wiki/Special:Contributions/Neral) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md)).

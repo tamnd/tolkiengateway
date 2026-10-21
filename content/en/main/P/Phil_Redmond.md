@@ -1,6 +1,5 @@
 ---
 title: "Phil Redmond"
-display_title: "<span class=\"mw-page-title-main\">Phil Redmond</span>"
 page_id: 27566
 namespace: 0
 revision_id: 138088
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Redmond, Phil"
 ---
 
-**Phil Redmond** was the writer and designer of the video game *[Riders of Rohan](</wiki/Riders_of_Rohan_(video_game)> "Riders of Rohan (video game)")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Phil Redmond** was the writer and designer of the video game *[Riders of Rohan](<../R/Riders_of_Rohan_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

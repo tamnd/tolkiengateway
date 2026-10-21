@@ -1,6 +1,5 @@
 ---
 title: "File:Warren Mahy - Longbeard king.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warren Mahy - Longbeard king.jpg</span>"
 page_id: 32092
 namespace: 6
 revision_id: 333279
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A king of the Longbeards, portrayed by Warren Mahy. Appearing in Mike Mearls and Chris Seeman, *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game): [Moria](/wiki/The_Lord_of_the_Rings_Roleplaying_Game:_Moria "The Lord of the Rings Roleplaying Game: Moria")* (Decipher, 2003).
+A king of the Longbeards, portrayed by Warren Mahy. Appearing in Mike Mearls and Chris Seeman, *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Moria](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game%253A_Moria.md)* (Decipher, 2003).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to James Ridolfo"
 ---
 
-Redirect to [Letter to James Ridolfo](/wiki/Letter_to_James_Ridolfo).
+Redirect to [Letter to James Ridolfo](../L/Letter_to_James_Ridolfo.md).

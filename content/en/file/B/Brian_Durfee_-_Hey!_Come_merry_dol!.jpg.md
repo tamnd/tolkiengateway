@@ -1,6 +1,5 @@
 ---
 title: "File:Brian Durfee - Hey! Come merry dol!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Brian Durfee - Hey! Come merry dol!.jpg</span>"
 page_id: 44036
 namespace: 6
 revision_id: 441057
@@ -34,17 +33,15 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Brian Durfee - Hey! Come merry dol!.jpg</span></th>
 <td class="description">
 <p><i>Hey! come merry dol!</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Dragons" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1996" title="1996">1996</a></td>
+<td><a href="../../main/_/1996.md" title="1996">1996</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Brian Durfee</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Extracted from a card scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 
@@ -72,4 +68,4 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 </p>
 <ul><li><b>Name:</b> Brian Lee Durfee</li>
 <li><b>Website:</b> <a class="external text" href="http://brianleedurfee.weebly.com/" rel="noreferrer noopener" target="_blank">Brian Durfee&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Brian_Lee_Durfee" title="Tolkien Gateway:Copyrights/Brian Lee Durfee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FBrian_Lee_Durfee.md" title="Tolkien Gateway:Copyrights/Brian Lee Durfee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

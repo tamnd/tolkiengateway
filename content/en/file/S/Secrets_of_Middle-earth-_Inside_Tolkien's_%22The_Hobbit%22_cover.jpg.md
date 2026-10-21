@@ -1,6 +1,5 @@
 ---
 title: "File:Secrets of Middle-earth- Inside Tolkien's \"The Hobbit\" cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Secrets of Middle-earth- Inside Tolkien&#039;s &quot;The Hobbit&quot; cover.jpg</span>"
 page_id: 67095
 namespace: 6
 revision_id: 389424
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Secrets of Middle-earth: Inside Tolkien's "The Hobbit"](/wiki/Secrets_of_Middle-earth:_Inside_Tolkien%27s_%22The_Hobbit%22)
+Cover of [Secrets of Middle-earth: Inside Tolkien's "The Hobbit"](../../main/S/Secrets_of_Middle-earth%253A_Inside_Tolkien's_%2522The_Hobbit%2522.md)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

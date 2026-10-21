@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Eorl mounted.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Eorl mounted.jpeg</span>"
 page_id: 11988
 namespace: 6
 revision_id: 203851

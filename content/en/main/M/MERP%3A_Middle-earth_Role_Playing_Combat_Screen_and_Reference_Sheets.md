@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing Combat Screen and Reference Sheets"
 ---
 
-Redirect to [Middle-earth Role Playing Combat Screen and Reference Sheets](/wiki/Middle-earth_Role_Playing_Combat_Screen_and_Reference_Sheets).
+Redirect to [Middle-earth Role Playing Combat Screen and Reference Sheets](Middle-earth_Role_Playing_Combat_Screen_and_Reference_Sheets.md).

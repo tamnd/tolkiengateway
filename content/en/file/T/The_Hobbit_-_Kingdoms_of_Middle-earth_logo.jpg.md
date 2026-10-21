@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - Kingdoms of Middle-earth logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - Kingdoms of Middle-earth logo.jpg</span>"
 page_id: 58565
 namespace: 6
 revision_id: 325079

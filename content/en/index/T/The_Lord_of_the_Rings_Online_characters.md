@@ -1,6 +1,5 @@
 ---
 title: "Index:The Lord of the Rings Online characters"
-display_title: "<span class=\"mw-page-title-namespace\">Index</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online characters</span>"
 page_id: 35682
 namespace: 102
 revision_id: 186260
@@ -13,145 +12,145 @@ categories:
   - "Index"
 ---
 
-This list contains all characters which were specifically created for [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online). This list only includes characters with articles, or for those who have a section in lists of minor characters.
+This list contains all characters which were specifically created for [The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md). This list only includes characters with articles, or for those who have a section in lists of minor characters.
 
 ## A {#A}
 
-- [Aldred Cartwright](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Aldred_Cartwright "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Amarthiel](/wiki/Amarthiel)
-- [Amdir](</wiki/Amdir_(Shadows_of_Angmar)> "Amdir (Shadows of Angmar)")
-- [Andraste](/wiki/Andraste)
-- [Anglor](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Anglor "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Ann Granger](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Ann_Granger "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Aren Greyfeather](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Aren_Greyfeather "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Aranhir](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim#Aranhir "List of minor The Lord of the Rings Online characters in Evendim")
-- [Argirion](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Argirion "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Atli Spider-bane](/wiki/Atli_Spider-bane)
+- [Aldred Cartwright](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Aldred_Cartwright)
+- [Amarthiel](../../main/A/Amarthiel.md)
+- [Amdir](<../../main/A/Amdir_(Shadows_of_Angmar).md>)
+- [Andraste](../../main/A/Andraste.md)
+- [Anglor](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Anglor)
+- [Ann Granger](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Ann_Granger)
+- [Aren Greyfeather](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Aren_Greyfeather)
+- [Aranhir](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir)
+- [Argirion](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Argirion)
+- [Atli Spider-bane](../../main/A/Atli_Spider-bane.md)
 
 ## B {#B}
 
-- [Bolli](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Bolli "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Captain Brackenbrook](/wiki/Captain_Brackenbrook)
+- [Bolli](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Bolli)
+- [Captain Brackenbrook](../../main/C/Captain_Brackenbrook.md)
 
 ## C {#C}
 
-- [Cal Sprigley](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Cal_Sprigley "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Calder Cob](/wiki/Calder_Cob)
-- [Calthendin](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Calthendin "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Constable Thistlewool](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Constable_Thistlewool "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Cuthbert Rook](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Cuthbert_Rook "List of minor The Lord of the Rings Online characters in Bree-land")
+- [Cal Sprigley](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Cal_Sprigley)
+- [Calder Cob](../../main/C/Calder_Cob.md)
+- [Calthendin](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Calthendin)
+- [Constable Thistlewool](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Constable_Thistlewool)
+- [Cuthbert Rook](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Cuthbert_Rook)
 
 ## D {#D}
 
-- [Daren Mills](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Daren_Mills "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Dirk Mudbrick](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Dirk_Mudbrick "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Dorongúr Whitethorn](/wiki/Dorong%C3%BAr_Whitethorn)
-- [Dorollas](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Dorollas "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Dúri Bold-Hammer](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Dúri_Bold-Hammer "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Daren Mills](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Daren_Mills)
+- [Dirk Mudbrick](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Dirk_Mudbrick)
+- [Dorongúr Whitethorn](../../main/D/Dorongúr_Whitethorn.md)
+- [Dorollas](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Dorollas)
+- [Dúri Bold-Hammer](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Dúri_Bold-Hammer)
 
 ## E {#E}
 
-- [Edenithil](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Edenithil "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Edgar Standish](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Edgar_Standish "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Edhelben](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Edhelben "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Éogan](/wiki/%C3%89ogan)
-- [Erynwen](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Erynwen "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Edenithil](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Edenithil)
+- [Edgar Standish](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Edgar_Standish)
+- [Edhelben](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Edhelben)
+- [Éogan](../../main/_/Éogan.md)
+- [Erynwen](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Erynwen)
 
 ## F {#F}
 
-- [Fanhir](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Fanhir "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Fastred Burrows](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Fastred_Burrows "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Fenton Marshly](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Fenton_Marshly "List of minor The Lord of the Rings Online characters in Bree-land")
+- [Fanhir](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Fanhir)
+- [Fastred Burrows](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Fastred_Burrows)
+- [Fenton Marshly](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Fenton_Marshly)
 
 ## G {#G}
 
-- [Gaden of Lindon](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Gaden_of_Lindon "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Gailthin](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Gailthin "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Glanwen](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Glanwen "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Godwig the Lazy](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Godwig_the_Lazy "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Gormr Doursmith](/wiki/Gormr_Doursmith)
-- [Grímr](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Grímr "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Grithur](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Grithur "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Gaden of Lindon](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Gaden_of_Lindon)
+- [Gailthin](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Gailthin)
+- [Glanwen](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Glanwen)
+- [Godwig the Lazy](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Godwig_the_Lazy)
+- [Gormr Doursmith](../../main/G/Gormr_Doursmith.md)
+- [Grímr](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Grímr)
+- [Grithur](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Grithur)
 
 ## H {#H}
 
-- [Haerendir](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Haerendir "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Hithbar](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Hithbar "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Hodor Thornberry](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Hodor_Thornberry "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Holey Sprigley](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Holey_Sprigley "List of minor The Lord of the Rings Online characters in Bree-land")
+- [Haerendir](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Haerendir)
+- [Hithbar](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Hithbar)
+- [Hodor Thornberry](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Hodor_Thornberry)
+- [Holey Sprigley](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Holey_Sprigley)
 
 ## J {#J}
 
-- [Jasper Greensmith](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Jasper_Greensmith "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Jon Brackenbrook](/wiki/Jon_Brackenbrook)
+- [Jasper Greensmith](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Jasper_Greensmith)
+- [Jon Brackenbrook](../../main/J/Jon_Brackenbrook.md)
 
 ## K {#K}
 
-- [Kate Henseed](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Kate_Henseed "List of minor The Lord of the Rings Online characters in Bree-land")
+- [Kate Henseed](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Kate_Henseed)
 
 ## L {#L}
 
-- [Laergil](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Laergil "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Lenglinn](/wiki/Lenglinn)
-- [Lennasthrieln](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Lennasthrieln "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Laergil](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Laergil)
+- [Lenglinn](../../main/L/Lenglinn.md)
+- [Lennasthrieln](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Lennasthrieln)
 
 ## M {#M}
 
-- [Malthendring](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Malthendring "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Mathi Stouthand](/wiki/Mathi_Stouthand)
-- [Merethen](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Merethen "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Methgil](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Methgil "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Mildred Catchfly](/wiki/Mildred_Catchfly)
-- [Mindambeth](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Mindambeth "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Mordirith](/wiki/Mordirith)
-- [Mundo Sackville-Baggins](/wiki/Mundo_Sackville-Baggins)
+- [Malthendring](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Malthendring)
+- [Mathi Stouthand](../../main/M/Mathi_Stouthand.md)
+- [Merethen](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Merethen)
+- [Methgil](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Methgil)
+- [Mildred Catchfly](../../main/M/Mildred_Catchfly.md)
+- [Mindambeth](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Mindambeth)
+- [Mordirith](../../main/M/Mordirith.md)
+- [Mundo Sackville-Baggins](../../main/M/Mundo_Sackville-Baggins.md)
 
 ## N {#N}
 
-- [Narl](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Narl "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Nial](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Nial "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Nate Whisperwood](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Nate_Whisperwood "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Ned Pruner](/wiki/Ned_Pruner)
-- [Nos Grimsong](/wiki/Nos_Grimsong)
+- [Narl](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Narl)
+- [Nial](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Nial)
+- [Nate Whisperwood](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Nate_Whisperwood)
+- [Ned Pruner](../../main/N/Ned_Pruner.md)
+- [Nos Grimsong](../../main/N/Nos_Grimsong.md)
 
 ## O {#O}
 
-- [Old Bloodtusk](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Old_Bloodtusk "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Olin](/wiki/Olin)
-- [Orodlin](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Orodlin "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Otto the Brigand](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Otto_the_Brigand "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Otur](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Otur "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Ovi Redforge](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Ovi_Redforge "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Old Bloodtusk](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Old_Bloodtusk)
+- [Olin](../../main/O/Olin.md)
+- [Orodlin](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Orodlin)
+- [Otto the Brigand](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Otto_the_Brigand)
+- [Otur](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Otur)
+- [Ovi Redforge](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Ovi_Redforge)
 
 ## P {#P}
 
-- [Peg Pruner](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Peg_Pruner "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Pennastan](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Pennastan "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Perphant](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Perphant "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Peg Pruner](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Peg_Pruner)
+- [Pennastan](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Pennastan)
+- [Perphant](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Perphant)
 
 ## R {#R}
 
-- [Reklar](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Reklar "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Reklar](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Reklar)
 
 ## S {#S}
 
-- [Sambrog](/wiki/Sambrog)
-- [Selur](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Selur "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Sergeant Redroot](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Sergeant_Redroot "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Snorri](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Snorri "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Skorgrím Dourhand](/wiki/Skorgr%C3%ADm_Dourhand)
+- [Sambrog](../../main/S/Sambrog.md)
+- [Selur](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Selur)
+- [Sergeant Redroot](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Sergeant_Redroot)
+- [Snorri](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Snorri)
+- [Skorgrím Dourhand](../../main/S/Skorgrím_Dourhand.md)
 
 ## T {#T}
 
-- [Talagan Silvertongue](/wiki/Talagan_Silvertongue)
-- [Teal Saddler](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Teal_Saddler "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Thalchyl](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Thalchyl "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Tolman Gardner](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land#Tolman_Gardner "List of minor The Lord of the Rings Online characters in Bree-land")
-- [Tombes](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Tombes "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Torri](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Torri "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Tryggwiki](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Tryggwi "List of minor The Lord of the Rings Online characters in the Ered Luin")
-- [Tvistur](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Tvistur "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Talagan Silvertongue](../../main/T/Talagan_Silvertongue.md)
+- [Teal Saddler](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Teal_Saddler)
+- [Thalchyl](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Thalchyl)
+- [Tolman Gardner](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Bree-land.md#Tolman_Gardner)
+- [Tombes](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Tombes)
+- [Torri](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Torri)
+- [Tryggwiki](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Tryggwi)
+- [Tvistur](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Tvistur)
 
 ## U {#U}
 
-- [Unnarr](/wiki/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin#Unnarr "List of minor The Lord of the Rings Online characters in the Ered Luin")
+- [Unnarr](../../main/L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_the_Ered_Luin.md#Unnarr)

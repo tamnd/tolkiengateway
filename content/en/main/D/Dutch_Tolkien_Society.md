@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Unquendor"
 ---
 
-Redirect to [Unquendor](/wiki/Unquendor).
+Redirect to [Unquendor](../U/Unquendor.md).

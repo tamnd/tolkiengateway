@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oiomúrë"
 ---
 
-Redirect to [Oiomúrë](/wiki/Oiomúrë).
+Redirect to [Oiomúrë](Oiomúrë.md).

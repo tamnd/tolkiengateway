@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King - The Story of the Hobbits.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King - The Story of the Hobbits.jpg</span>"
 page_id: 71857
 namespace: 6
 revision_id: 428047

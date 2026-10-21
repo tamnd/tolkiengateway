@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spirits of shadows"
 ---
 
-Redirect to [Spirits of shadows](/wiki/Spirits_of_shadows).
+Redirect to [Spirits of shadows](Spirits_of_shadows.md).

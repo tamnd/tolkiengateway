@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Return of the King - Orcs marching at Minas Tirith.png"
 ---
 
-Redirect to [File:The Lord of the Rings - The Return of the King - Orcs marching at Minas Tirith.png](/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Orcs_marching_at_Minas_Tirith.png).
+Redirect to [File:The Lord of the Rings - The Return of the King - Orcs marching at Minas Tirith.png](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Orcs_marching_at_Minas_Tirith.png.md).

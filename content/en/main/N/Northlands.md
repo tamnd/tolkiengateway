@@ -1,6 +1,5 @@
 ---
 title: "Northlands"
-display_title: "<span class=\"mw-page-title-main\">Northlands</span>"
 page_id: 4139
 namespace: 0
 revision_id: 382452
@@ -18,19 +17,17 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>Northern parts of Middle-earth</b>. For the the Northlands of <a href="/wiki/N%C3%BAmenor" title="Númenor">Númenor</a>, see <b><a href="/wiki/Forostar" title="Forostar">Forostar</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>Northern parts of Middle-earth</b>. For the the Northlands of <a href="Númenor.md" title="Númenor">Númenor</a>, see <b><a href="../F/Forostar.md" title="Forostar">Forostar</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+**Northlands** was a vague term for the lands north of [Beleriand](../B/Beleriand.md), including [Ard-galen](../A/Ard-galen.md)/[Anfauglith](../A/Anfauglith.md), the [Ered Engrin](../I/Iron_Mountains.md), and probably [Hithlum](../H/Hithlum.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-**Northlands** was a vague term for the lands north of [Beleriand](/wiki/Beleriand), including [Ard-galen](/wiki/Ard-galen)/[Anfauglith](/wiki/Anfauglith), the [Ered Engrin](/wiki/Iron_Mountains "Iron Mountains"), and probably [Hithlum](/wiki/Hithlum).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-
-After Beleriand sank beneath the [Sea](/wiki/Belegaer "Belegaer"), "Northlands" became used more broadly for the northern regions of [Middle-earth](/wiki/Middle-earth), such as [Forodwaith](/wiki/Northern_Waste "Northern Waste").<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+After Beleriand sank beneath the [Sea](../B/Belegaer.md), "Northlands" became used more broadly for the northern regions of [Middle-earth](../M/Middle-earth.md), such as [Forodwaith](Northern_Waste.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Robert_Foster" title="Robert Foster">Robert Foster</a>, <i><a href="/wiki/The_Complete_Guide_to_Middle-earth" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, entry &#34;Northlands&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a>, <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i>, entry &#34;Northlands&#34;</span>
 </li>
 </ol></div>

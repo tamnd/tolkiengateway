@@ -1,6 +1,5 @@
 ---
 title: "File:The Sunday Times Magazine 19 September 1982.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Sunday Times Magazine 19 September 1982.png</span>"
 page_id: 37729
 namespace: 6
 revision_id: 215411

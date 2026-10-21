@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pott the Mayor"
 ---
 
-Redirect to [Pott the Mayor](/wiki/Pott_the_Mayor).
+Redirect to [Pott the Mayor](Pott_the_Mayor.md).

@@ -11,4 +11,4 @@ redirect_target: "Dunharrow"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Dunharrow](/wiki/Dunharrow#Etymology).
+Redirect to [Dunharrow](Dunharrow.md#Etymology).

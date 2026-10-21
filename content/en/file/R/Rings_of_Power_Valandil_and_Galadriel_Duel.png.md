@@ -1,6 +1,5 @@
 ---
 title: "File:Rings of Power Valandil and Galadriel Duel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rings of Power Valandil and Galadriel Duel.png</span>"
 page_id: 68873
 namespace: 6
 revision_id: 415413
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Screenshot from *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*: [Valandil](</wiki/Valandil_(The_Rings_of_Power)> "Valandil (The Rings of Power)")'s sparring session with [Galadriel](/wiki/Galadriel).
+Screenshot from *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*: [Valandil](<../../main/V/Valandil_(The_Rings_of_Power).md>)'s sparring session with [Galadriel](../../main/G/Galadriel.md).
 
 ## Licensing {#Licensing}
 

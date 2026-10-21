@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Bruce Charlton"
 ---
 
-Redirect to [Letter to Bruce Charlton](/wiki/Letter_to_Bruce_Charlton).
+Redirect to [Letter to Bruce Charlton](../L/Letter_to_Bruce_Charlton.md).

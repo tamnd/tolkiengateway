@@ -1,6 +1,5 @@
 ---
 title: "File:Mythlore 48.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythlore 48.png</span>"
 page_id: 37140
 namespace: 6
 revision_id: 215376

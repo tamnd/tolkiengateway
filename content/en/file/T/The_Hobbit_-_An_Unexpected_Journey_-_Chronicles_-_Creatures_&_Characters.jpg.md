@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Chronicles - Creatures & Characters.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Chronicles - Creatures &amp; Characters.jpg</span>"
 page_id: 42260
 namespace: 6
 revision_id: 222812

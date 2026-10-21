@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finn and Hengest: The Fragment and the Episode"
 ---
 
-Redirect to [Finn and Hengest: The Fragment and the Episode](/wiki/Finn_and_Hengest:_The_Fragment_and_the_Episode).
+Redirect to [Finn and Hengest: The Fragment and the Episode](Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md).

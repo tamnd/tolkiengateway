@@ -1,6 +1,5 @@
 ---
 title: "File:METW - Anduril.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">METW - Anduril.jpg</span>"
 page_id: 70086
 namespace: 6
 revision_id: 423301

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Diary 1999"
 ---
 
-Redirect to [Tolkien Diary 1999](/wiki/Tolkien_Diary_1999).
+Redirect to [Tolkien Diary 1999](Tolkien_Diary_1999.md).

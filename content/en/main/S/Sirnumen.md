@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sirnúmen"
 ---
 
-Redirect to [Sirnúmen](/wiki/Sirnúmen).
+Redirect to [Sirnúmen](Sirnúmen.md).

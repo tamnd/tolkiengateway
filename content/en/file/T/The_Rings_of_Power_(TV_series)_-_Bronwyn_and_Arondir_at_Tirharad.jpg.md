@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Bronwyn and Arondir at Tirharad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Bronwyn and Arondir at Tirharad.jpg</span>"
 page_id: 63880
 namespace: 6
 revision_id: 412263
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The characters [Bronwyn](/wiki/Bronwyn) and [Arondir](/wiki/Arondir) at [Tirharad](/wiki/Tirharad) in scene from the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+The characters [Bronwyn](../../main/B/Bronwyn.md) and [Arondir](../../main/A/Arondir.md) at [Tirharad](../../main/T/Tirharad.md) in scene from the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

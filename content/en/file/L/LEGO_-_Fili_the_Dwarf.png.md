@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Fili the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Fili the Dwarf.png</span>"
 page_id: 73155
 namespace: 6
 revision_id: 432995
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Fili the Dwarf](/wiki/F%C3%ADli "Fíli") - [LEGO](/wiki/Lego "Lego") minifigure
+[Fili the Dwarf](../../main/F/Fíli.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

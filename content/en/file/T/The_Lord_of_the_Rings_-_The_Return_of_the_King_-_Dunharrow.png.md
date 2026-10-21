@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Dunharrow.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Dunharrow.png</span>"
 page_id: 71743
 namespace: 6
 revision_id: 427604
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Théoden](/wiki/Th%C3%A9oden) and [Aragorn](/wiki/Aragorn) at [Dunharrow](/wiki/Dunharrow) - *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*.
+[Théoden](../../main/T/Théoden.md) and [Aragorn](../../main/A/Aragorn.md) at [Dunharrow](../../main/D/Dunharrow.md) - *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Licensing {#Licensing}
 

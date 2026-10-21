@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Mines of Moria.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Mines of Moria.jpg</span>"
 page_id: 71597
 namespace: 6
 revision_id: 437860
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Mines of Moria](/wiki/Moria "Moria")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"[The Mines of Moria](../../main/M/Moria.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

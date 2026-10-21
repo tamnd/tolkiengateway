@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Sting.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Sting.jpg</span>"
 page_id: 27004
 namespace: 6
 revision_id: 224861
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Sting](/wiki/Sting) as it appears in [The Return of the King (1980 film)](</wiki/The_Return_of_the_King_(1980_film)>).
+[Sting](../../main/S/Sting.md) as it appears in [The Return of the King (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>).
 
 ## Licensing {#Licensing}
 

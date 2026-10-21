@@ -1,6 +1,5 @@
 ---
 title: "Bill Amend"
-display_title: "<span class=\"mw-page-title-main\">Bill Amend</span>"
 page_id: 22250
 namespace: 0
 revision_id: 320759
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Amend, Bill"
 ---
 
-**William "Bill" J. C. Amend III** ([September 20](/wiki/20_September "20 September"), [1962](/wiki/1962)) is an American cartoonist with a major in physics at <a class="extiw" href="http://en.wikipedia.org/wiki/Amherst_College" title="wikipedia:Amherst College">Amherst College</a>. He is famed for *FoxTrot*, which appeared in papers daily until [2006](/wiki/2006) (and weekly after that). Along with influences from *Star Wars* and *Star Trek*, many references to Tolkien's works are made.
+**William "Bill" J. C. Amend III** ([September 20](../_/20_September.md), [1962](../_/1962.md)) is an American cartoonist with a major in physics at <a class="extiw" href="http://en.wikipedia.org/wiki/Amherst_College" title="wikipedia:Amherst College">Amherst College</a>. He is famed for *FoxTrot*, which appeared in papers daily until [2006](../_/2006.md) (and weekly after that). Along with influences from *Star Wars* and *Star Trek*, many references to Tolkien's works are made.
 
 ## External links {#External_links}
 

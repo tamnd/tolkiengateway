@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Tolkien-related podcasts"
 ---
 
-Redirect to [List of Tolkien-related podcasts](/wiki/List_of_Tolkien-related_podcasts).
+Redirect to [List of Tolkien-related podcasts](List_of_Tolkien-related_podcasts.md).

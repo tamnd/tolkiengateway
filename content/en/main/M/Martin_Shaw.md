@@ -1,6 +1,5 @@
 ---
 title: "Martin Shaw"
-display_title: "<span class=\"mw-page-title-main\">Martin Shaw</span>"
 page_id: 46508
 namespace: 0
 revision_id: 406480
@@ -19,18 +18,18 @@ sort_keys:
   "People by name": "Shaw, Martin"
 ---
 
-**Martin Shaw** (born [21 January](/wiki/21_January) [1945](/wiki/1945)) is a British actor known for his roles in *Judge John Deed* and *Inspector George Gently*. He also works as a narrator and voiceover artist and has narrated the unabridged audiobooks of both *[The Hobbit](/wiki/The_Hobbit)* and *[The Silmarillion](/wiki/The_Silmarillion)*.
+**Martin Shaw** (born [21 January](../_/21_January.md) [1945](../_/1945.md)) is a British actor known for his roles in *Judge John Deed* and *Inspector George Gently*. He also works as a narrator and voiceover artist and has narrated the unabridged audiobooks of both *[The Hobbit](../T/The_Hobbit.md)* and *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Roles {#Roles}
 
-- [2000](/wiki/2000): *[The Hobbit](/wiki/The_Hobbit)* (audiobook, unabridged) - Narrator
-- [2002](/wiki/2002): *[The Silmarillion](/wiki/The_Silmarillion)* (audiobook, unabridged) - Narrator
+- [2000](../_/2000.md): *[The Hobbit](../T/The_Hobbit.md)* (audiobook, unabridged) - Narrator
+- [2002](../_/2002.md): *[The Silmarillion](../T/The_Silmarillion.md)* (audiobook, unabridged) - Narrator
 
 ## See also {#See_also}
 
-- [Audiobooks](/wiki/Audiobooks)
-- [Rob Inglis](/wiki/Rob_Inglis)
-- [Derek Jacobi](/wiki/Derek_Jacobi)
+- [Audiobooks](../A/Audiobooks.md)
+- [Rob Inglis](../R/Rob_Inglis.md)
+- [Derek Jacobi](../D/Derek_Jacobi.md)
 
 ## External links {#External_links}
 

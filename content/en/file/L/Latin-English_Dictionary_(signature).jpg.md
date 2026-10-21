@@ -1,6 +1,5 @@
 ---
 title: "File:Latin-English Dictionary (signature).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Latin-English Dictionary (signature).jpg</span>"
 page_id: 52710
 namespace: 6
 revision_id: 286636

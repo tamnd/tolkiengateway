@@ -1,6 +1,5 @@
 ---
 title: "Rollin' Down the Hole"
-display_title: "<span class=\"mw-page-title-main\">Rollin&#039; Down the Hole</span>"
 page_id: 38737
 namespace: 0
 revision_id: 408274
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Rollin' Down the Hole** is the ninth track of *[The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack)*. The song is played when Bilbo and company are seen floating in barrels down the river that leads to [Lake-town](/wiki/Lake-town) in the [1977](/wiki/1977) [film adaptation](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)"). The music was composed by [Maury Laws](/wiki/Maury_Laws) and the lyric was adapted by [Jules Bass](/wiki/Jules_Bass) from the poem "[Roll-roll-roll-roll,](/wiki/Roll-roll-roll-roll,)".
+**Rollin' Down the Hole** is the ninth track of *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*. The song is played when Bilbo and company are seen floating in barrels down the river that leads to [Lake-town](../L/Lake-town.md) in the [1977](../_/1977.md) [film adaptation](<../T/The_Hobbit_(1977_film).md>). The music was composed by [Maury Laws](../M/Maury_Laws.md) and the lyric was adapted by [Jules Bass](../J/Jules_Bass.md) from the poem "[Roll-roll-roll-roll,](Roll-roll-roll-roll,.md)".
 
 ## Lyrics {#Lyrics}
 

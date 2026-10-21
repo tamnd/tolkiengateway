@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Cover concept of Sauron in Mordor.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Cover concept of Sauron in Mordor.jpeg</span>"
 page_id: 72485
 namespace: 6
 revision_id: 430592
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover concept for the cancelled <a class="new" href="/w/index.php?title=1979_J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979 J.R.R. Tolkien Calendar (page does not exist)">1979 J.R.R. Tolkien Calendar</a>, depicting [Sauron](/wiki/Sauron) in [Mordor](/wiki/Mordor) by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+Cover concept for the cancelled <a class="new" href="https://tolkiengateway.net/w/index.php?title=1979_J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979 J.R.R. Tolkien Calendar (page does not exist)">1979 J.R.R. Tolkien Calendar</a>, depicting [Sauron](../../main/S/Sauron.md) in [Mordor](../../main/M/Mordor.md) by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

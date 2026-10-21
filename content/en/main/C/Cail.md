@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Cail** is a noun in the [Sindarin](/wiki/Sindarin) language, meaning '(pointed) fence'.
+**Cail** is a noun in the [Sindarin](../S/Sindarin.md) language, meaning '(pointed) fence'.

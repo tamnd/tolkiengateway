@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Mill"
 ---
 
-Redirect to [Old Mill](/wiki/Old_Mill).
+Redirect to [Old Mill](../O/Old_Mill.md).

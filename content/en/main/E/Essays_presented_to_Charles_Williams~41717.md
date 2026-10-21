@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Essays Presented to Charles Williams"
 ---
 
-Redirect to [Essays Presented to Charles Williams](/wiki/Essays_Presented_to_Charles_Williams).
+Redirect to [Essays Presented to Charles Williams](Essays_Presented_to_Charles_Williams.md).

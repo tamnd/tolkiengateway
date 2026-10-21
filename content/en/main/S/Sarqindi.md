@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ogres"
 ---
 
-Redirect to [Ogres](/wiki/Ogres).
+Redirect to [Ogres](../O/Ogres.md).

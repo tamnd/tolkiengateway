@@ -1,6 +1,5 @@
 ---
 title: "Category:Armor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Armor</span>"
 page_id: 10487
 namespace: 14
 revision_id: 425865
@@ -16,4 +15,4 @@ sort_keys:
   "Military": "Armour"
 ---
 
-Famed [armour](/wiki/Armour "Armour") from [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s [legendarium](/wiki/Legendarium "Legendarium").
+Famed [armour](../../main/A/Armour.md) from [Tolkien](../../main/J/J.R.R._Tolkien.md)'s [legendarium](../../main/L/Legendarium.md).

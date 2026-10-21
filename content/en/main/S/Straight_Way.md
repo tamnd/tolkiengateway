@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Straight Road"
 ---
 
-Redirect to [Straight Road](/wiki/Straight_Road).
+Redirect to [Straight Road](Straight_Road.md).

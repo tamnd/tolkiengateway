@@ -13,6 +13,6 @@ categories:
   - "Quenya nouns"
 ---
 
-**Yatta** is the [Quenya](/wiki/Quenya) word for *ford* or *crossing*. <span></span>
+**Yatta** is the [Quenya](../Q/Quenya.md) word for *ford* or *crossing*. <span></span>
 
 ## References {#References}

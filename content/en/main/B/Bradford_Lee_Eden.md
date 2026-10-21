@@ -1,6 +1,5 @@
 ---
 title: "Bradford Lee Eden"
-display_title: "<span class=\"mw-page-title-main\">Bradford Lee Eden</span>"
 page_id: 22247
 namespace: 0
 revision_id: 404956
@@ -21,44 +20,44 @@ sort_keys:
   "People by name": "Eden, Bradford Lee"
 ---
 
-**Bradford Lee Eden** (born [1960](/wiki/1960)) has a Ph.D. in Medieval Musicology, and currently serves as Dean of Library Services at <a class="extiw" href="http://en.wikipedia.org/wiki/Valparaiso_University" title="wikipedia:Valparaiso University">Valparaiso University, Indiana</a>. He has written several works on librarianship. He is the editor of the *[Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research)*, an open access scientific electronic journal.
+**Bradford Lee Eden** (born [1960](../_/1960.md)) has a Ph.D. in Medieval Musicology, and currently serves as Dean of Library Services at <a class="extiw" href="http://en.wikipedia.org/wiki/Valparaiso_University" title="wikipedia:Valparaiso University">Valparaiso University, Indiana</a>. He has written several works on librarianship. He is the editor of the *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)*, an open access scientific electronic journal.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2010](/wiki/2010): *[Middle-earth Minstrel](/wiki/Middle-earth_Minstrel)* (editor)
-- [2014](/wiki/2014): [The Hobbit *and Tolkien's Mythology: Essays on Revisions and Influences*](/wiki/The_Hobbit_and_Tolkien%27s_Mythology "The Hobbit and Tolkien's Mythology") (editor)
+- [2010](../_/2010.md): *[Middle-earth Minstrel](../M/Middle-earth_Minstrel.md)* (editor)
+- [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology: Essays on Revisions and Influences*](../T/The_Hobbit_and_Tolkien's_Mythology.md) (editor)
 
 ### Articles {#Articles}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*, entries
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia.md)*, entries
     - Augustine of Canterbury, Saint, First Archbishop of Canterbury (d. c. 604)
     - Elves
     - Gregory the Great (c. 540-604)
     - Missions from Anglo-Saxon England
     - Music in Middle-earth
     - Wyke-Smith, A.E. and The Marvelous Land of Snergs
-- [2010](/wiki/2010): *[Music in Middle-earth](/wiki/Music_in_Middle-earth)*
+- [2010](../_/2010.md): *[Music in Middle-earth](../M/Music_in_Middle-earth.md)*
     - "Strains of Elvish Song and Voices: Victorian Medievalism, Music, and Tolkien"
-- [2015](/wiki/2015): *[Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research)*, Vol. 2.1.
+- [2015](../_/2015.md): *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)*, Vol. 2.1.
     - <a class="external text" href="http://scholar.valpo.edu/journaloftolkienresearch/vol2/iss1/7/" rel="noreferrer noopener" target="_blank">Michael H.R. Tolkien (1920-84): a research travelogue</a>
-- [2019](/wiki/2019): *[Music in Tolkien's Work and Beyond](/wiki/Music_in_Tolkien%27s_Work_and_Beyond)*
+- [2019](../_/2019.md): *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*
     - "'The Scholar as Minstrel': Word-music and Sound-words in Tolkien's 'New Works'"
-- [2019](/wiki/2019): *[Sub-creating Arda](/wiki/Sub-creating_Arda)*
+- [2019](../_/2019.md): *[Sub-creating Arda](../S/Sub-creating_Arda.md)*
     - "Sub-creation by any Other Name: The Artist and God in the Early Twentieth Century"
 
 ### Reviews {#Reviews}
 
-- [2005](/wiki/2005): *[Tolkien Studies: Volume 2](/wiki/Tolkien_Studies:_Volume_2)*
+- [2005](../_/2005.md): *[Tolkien Studies: Volume 2](../T/Tolkien_Studies%253A_Volume_2.md)*
     - "The Real Middle-earth: Exploring the Magic and Mystery of the Middle Ages, J.R.R. Tolkien, and *The Lord of the Rings*"
-- [2010](/wiki/2010): *[Middle-earth Minstrel](/wiki/Middle-earth_Minstrel)*
+- [2010](../_/2010.md): *[Middle-earth Minstrel](../M/Middle-earth_Minstrel.md)*
     - "Introduction"
     - "Strains of Elvish Song and Voices: Victorian Medievalism, Music, and Tolkien"
 
 ## Awards {#Awards}
 
-- [2016](/wiki/2016): **[Tolkien Society Award](/wiki/Tolkien_Society_Awards "Tolkien Society Awards"): Best Online Content**, [Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research)
+- [2016](../_/2016.md): **[Tolkien Society Award](../T/Tolkien_Society_Awards.md): Best Online Content**, [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)
 
 ## External links {#External_links}
 

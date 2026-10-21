@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospisil - Bilbo and Lindir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospisil - Bilbo and Lindir.jpg</span>"
 page_id: 49182
 namespace: 6
 revision_id: 433328
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Lindir](/wiki/Lindir)" by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il) for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")*: *[Ruins of the North](/wiki/Ruins_of_the_North)*
+"[Bilbo](../../main/B/Bilbo_Baggins.md) and [Lindir](../../main/L/Lindir.md)" by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md) for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)*: *[Ruins of the North](../../main/R/Ruins_of_the_North.md)*
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

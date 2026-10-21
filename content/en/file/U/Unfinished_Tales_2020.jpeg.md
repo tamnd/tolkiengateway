@@ -1,6 +1,5 @@
 ---
 title: "File:Unfinished Tales 2020.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unfinished Tales 2020.jpeg</span>"
 page_id: 62582
 namespace: 6
 revision_id: 353554

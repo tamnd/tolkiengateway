@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lego"
 ---
 
-Redirect to [Lego](/wiki/Lego).
+Redirect to [Lego](../L/Lego.md).

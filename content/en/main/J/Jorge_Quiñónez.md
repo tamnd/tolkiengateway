@@ -1,6 +1,5 @@
 ---
 title: "Jorge Quiñónez"
-display_title: "<span class=\"mw-page-title-main\">Jorge Quiñónez</span>"
 page_id: 18982
 namespace: 0
 revision_id: 406065
@@ -21,57 +20,57 @@ sort_keys:
   "People by name": "Quinonez, Jorge"
 ---
 
-**Jorge Quiñónez**, a resident of <a class="extiw" href="http://en.wikipedia.org/wiki/San_Diego" title="wikipedia:San Diego">San Diego</a>, was the first editor of *[Vinyar Tengwar](/wiki/Vinyar_Tengwar)*, up until [issue 8](/wiki/Vinyar_Tengwar_8 "Vinyar Tengwar 8"). He has also written a number of articles related to role-playing games set in [Middle-earth](/wiki/Middle-earth).
+**Jorge Quiñónez**, a resident of <a class="extiw" href="http://en.wikipedia.org/wiki/San_Diego" title="wikipedia:San Diego">San Diego</a>, was the first editor of *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*, up until [issue 8](../V/Vinyar_Tengwar_8.md). He has also written a number of articles related to role-playing games set in [Middle-earth](../M/Middle-earth.md).
 
 ## Bibliography {#Bibliography}
 
 ### Articles {#Articles}
 
-- [1988](/wiki/1988): *[Vinyar Tengwar 1](/wiki/Vinyar_Tengwar_1)* (editor)
+- [1988](../_/1988.md): *[Vinyar Tengwar 1](../V/Vinyar_Tengwar_1.md)* (editor)
     - "The Purposes, Goals and Plans of the Elvish Linguistic Fellowship"
     - "A Report from Mythcon 19"
     - "Basic Elvish: The Names of the Numbers in Elvish"
-    - "Elvish Poetry: The Ring Poem in Quenya" (with [Christopher Gilson](/wiki/Christopher_Gilson))
+    - "Elvish Poetry: The Ring Poem in Quenya" (with [Christopher Gilson](../C/Christopher_Gilson.md))
     - "The Letters of J.R.R. Tolkien, Volume II: A Hoax?"
     - "Editorial Afterword"
-- [1988](/wiki/1988): *[Parma Eldalamberon 7](/wiki/Parma_Eldalamberon_7)*
+- [1988](../_/1988.md): *[Parma Eldalamberon 7](../P/Parma_Eldalamberon_7.md)*
     - "Corma Laire Quenyasse"
     - "A Working English Lexicon"
-- [1988](/wiki/1988): *[Vinyar Tengwar 2](/wiki/Vinyar_Tengwar_2)* (editor)
+- [1988](../_/1988.md): *[Vinyar Tengwar 2](../V/Vinyar_Tengwar_2.md)* (editor)
     - "*Halls of the Elven-king* by Tom Loback" (review)
     - "An Elvish Astronomical Catalog"
     - "A Linguistic Review of J.R.R. Tolkien's *The Return of the Shadow*"
     - "Brief review of *The Annotated Hobbit* by J.R.R. Tolkien, notes by Douglas A. Anderson"
     - "The Next Issue and Editorial Afterword"
-- [1989](/wiki/1989): *[Vinyar Tengwar 3](/wiki/Vinyar_Tengwar_3)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 3](../V/Vinyar_Tengwar_3.md)* (editor)
     - "The Next Issue and Editorial Afterword"
-- [1989](/wiki/1989): *[Vinyar Tengwar 4](/wiki/Vinyar_Tengwar_4)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 4](../V/Vinyar_Tengwar_4.md)* (editor)
     - "Editorial Afterword and Next Issue"
-- [1989](/wiki/1989): *[Vinyar Tengwar 5](/wiki/Vinyar_Tengwar_5)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 5](../V/Vinyar_Tengwar_5.md)* (editor)
     - "Editorial Afterword Ramblings and Next Issue"
-- [1989](/wiki/1989): *[Vinyar Tengwar 6](/wiki/Vinyar_Tengwar_6)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 6](../V/Vinyar_Tengwar_6.md)* (editor)
     - "Editorial Afterword Ramblings and Next Issue"
     - "A Brief Note on the Background of the Letter from J.R.R. Tolkien to Dick Plotz Concerning the Declension of the High-elvish Noun"
-- [1989](/wiki/1989): *[Vinyar Tengwar 7](/wiki/Vinyar_Tengwar_7)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 7](../V/Vinyar_Tengwar_7.md)* (editor)
     - "A Report of the First Official E.L.F. Meeting"
     - "Editorial Afterword Ramblings and Next Issue"
-- [1989](/wiki/1989): *[Vinyar Tengwar 8](/wiki/Vinyar_Tengwar_8)* (editor)
+- [1989](../_/1989.md): *[Vinyar Tengwar 8](../V/Vinyar_Tengwar_8.md)* (editor)
     - "A Brief Report of the Second E.L.F. Meeting at Mythcon 20"
     - "A Note from Jorge"
-- [1990](/wiki/1990): *[Vinyar Tengwar 9](/wiki/Vinyar_Tengwar_9)*
+- [1990](../_/1990.md): *[Vinyar Tengwar 9](../V/Vinyar_Tengwar_9.md)*
     - "Linguistic Review of *The Treason of Isengard*"
-- [1990](/wiki/1990): *[Vinyar Tengwar 10](/wiki/Vinyar_Tengwar_10)*
-    - "Elenaltalante: The Fall of Gil-galad" (with <a class="new" href="/w/index.php?title=Jean-Marc_Rulier&amp;action=edit&amp;redlink=1" title="Jean-Marc Rulier (page does not exist)">Jean-Marc Rulier</a>)
-- [1990](/wiki/1990): *[Vinyar Tengwar 11](/wiki/Vinyar_Tengwar_11)*
+- [1990](../_/1990.md): *[Vinyar Tengwar 10](../V/Vinyar_Tengwar_10.md)*
+    - "Elenaltalante: The Fall of Gil-galad" (with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jean-Marc_Rulier&amp;action=edit&amp;redlink=1" title="Jean-Marc Rulier (page does not exist)">Jean-Marc Rulier</a>)
+- [1990](../_/1990.md): *[Vinyar Tengwar 11](../V/Vinyar_Tengwar_11.md)*
     - "Two Problematic Quenya Noun Cases"
-- [1990](/wiki/1990): *[Vinyar Tengwar 12](/wiki/Vinyar_Tengwar_12)*
-    - "Nole i Meneldilo: Lore of the Astronomer" (with <a class="new" href="/w/index.php?title=Ned_Raggett&amp;action=edit&amp;redlink=1" title="Ned Raggett (page does not exist)">Ned Raggett</a>)
+- [1990](../_/1990.md): *[Vinyar Tengwar 12](../V/Vinyar_Tengwar_12.md)*
+    - "Nole i Meneldilo: Lore of the Astronomer" (with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ned_Raggett&amp;action=edit&amp;redlink=1" title="Ned Raggett (page does not exist)">Ned Raggett</a>)
     - "Narqelion: A Translation by Paul Nolan Hyde"
-- [1990](/wiki/1990): *[Vinyar Tengwar 13](/wiki/Vinyar_Tengwar_13)*
+- [1990](../_/1990.md): *[Vinyar Tengwar 13](../V/Vinyar_Tengwar_13.md)*
     - "A Survey of Ring Poem Translations"
-- [1990](/wiki/1990): *[Parma Eldalamberon](/wiki/Parma_Eldalamberon)* 9
+- [1990](../_/1990.md): *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* 9
     - "I Tyel Ehteliono ar Cosmoco"
-- [1993](/wiki/1993): [*Other Hands* 2](/wiki/Other_Hands_2 "Other Hands 2")
+- [1993](../_/1993.md): [*Other Hands* 2](../O/Other_Hands_2.md)
     - "No Elves in the Fourth Age?!"
-- [1995](/wiki/1995): <i><a class="new" href="/w/index.php?title=Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Terra di Mezzo (page does not exist)">Terra di Mezzo</a></i> #2
-    - "Niente Elfi nella Quarta Era?!" (translated by <a class="new" href="/w/index.php?title=Nicola_Zanetti&amp;action=edit&amp;redlink=1" title="Nicola Zanetti (page does not exist)">Nicola Zanetti</a>)
+- [1995](../_/1995.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Terra_di_Mezzo&amp;action=edit&amp;redlink=1" title="Terra di Mezzo (page does not exist)">Terra di Mezzo</a></i> #2
+    - "Niente Elfi nella Quarta Era?!" (translated by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nicola_Zanetti&amp;action=edit&amp;redlink=1" title="Nicola Zanetti (page does not exist)">Nicola Zanetti</a>)

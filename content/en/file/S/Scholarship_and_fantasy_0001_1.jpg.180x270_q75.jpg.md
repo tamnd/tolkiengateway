@@ -1,6 +1,5 @@
 ---
 title: "File:Scholarship and fantasy 0001 1.jpg.180x270 q75.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Scholarship and fantasy 0001 1.jpg.180x270 q75.jpg</span>"
 page_id: 64894
 namespace: 6
 revision_id: 373781
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Scholarship and Fantasy](/wiki/Scholarship_and_Fantasy), cover
+[Scholarship and Fantasy](../../main/S/Scholarship_and_Fantasy.md), cover
 
 ## Licensing {#Licensing}
 

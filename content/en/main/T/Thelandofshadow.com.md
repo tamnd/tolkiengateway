@@ -1,6 +1,5 @@
 ---
 title: "Thelandofshadow.com"
-display_title: "<span class=\"mw-page-title-main\">Thelandofshadow.com</span>"
 page_id: 22794
 namespace: 0
 revision_id: 407604
@@ -13,7 +12,7 @@ categories:
   - "Websites"
 ---
 
-**The Land of Shadow** also known as **Mordor \~ The Land of Shadow** is a [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-themed website devoted to fans of [Orcs](/wiki/Orcs) and [Mordor](/wiki/Mordor). It included a news section, articles about [Black Speech](/wiki/Black_Speech), an [Orc](/wiki/Orcs "Orcs") Name Generator, a history of [Orcs](/wiki/Orcs), wallpapers and external links to other Tolkien websites. It also included an interactive map of [Mordor](/wiki/Mordor), displaying information about several (non-canon) regions within it. The website was shut down in March 2019, but three years later, in October 2022 the website restarted for a brief period of time.
+**The Land of Shadow** also known as **Mordor \~ The Land of Shadow** is a [Tolkien](../J/J.R.R._Tolkien.md)-themed website devoted to fans of [Orcs](../O/Orcs.md) and [Mordor](../M/Mordor.md). It included a news section, articles about [Black Speech](../B/Black_Speech.md), an [Orc](../O/Orcs.md) Name Generator, a history of [Orcs](../O/Orcs.md), wallpapers and external links to other Tolkien websites. It also included an interactive map of [Mordor](../M/Mordor.md), displaying information about several (non-canon) regions within it. The website was shut down in March 2019, but three years later, in October 2022 the website restarted for a brief period of time.
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shaping of Middle-earth"
 ---
 
-Redirect to [The Shaping of Middle-earth](/wiki/The_Shaping_of_Middle-earth).
+Redirect to [The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md).

@@ -1,6 +1,5 @@
 ---
 title: "Frank Duncan"
-display_title: "<span class=\"mw-page-title-main\">Frank Duncan</span>"
 page_id: 22603
 namespace: 0
 revision_id: 432957
@@ -24,13 +23,13 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Frank_Duncan"
 ---
 
-**Frank Duncan** ([February 1](/wiki/1_February "1 February"), [1923](/wiki/1923) - [February 6](/wiki/6_February "6 February"), [1995](/wiki/1995)) was an English actor.
+**Frank Duncan** ([February 1](../_/1_February.md), [1923](../_/1923.md) - [February 6](../_/6_February.md), [1995](../_/1995.md)) was an English actor.
 
 ## Roles {#Roles}
 
-- [1954](/wiki/1954): *[The Homecoming of Beorhtnoth, Beorhthelm's Son](</wiki/The_Homecoming_of_Beorhtnoth,_Beorhthelm%27s_Son_(radio_play)> "The Homecoming of Beorhtnoth, Beorhthelm's Son (radio play)")* - Torhthelm
-- [1955](/wiki/1955): *[The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")* - [Legolas](/wiki/Legolas), Additional voices
-- [1956](/wiki/1956): *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")* - Legolas, [Halbarad](/wiki/Halbarad)
+- [1954](../_/1954.md): *[The Homecoming of Beorhtnoth, Beorhthelm's Son](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)* - Torhthelm
+- [1955](../_/1955.md): *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)* - [Legolas](../L/Legolas.md), Additional voices
+- [1956](../_/1956.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)* - Legolas, [Halbarad](../H/Halbarad.md)
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Writing Magazine.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Writing Magazine.jpg</span>"
 page_id: 47081
 namespace: 6
 revision_id: 250587

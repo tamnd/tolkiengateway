@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren (Steward of Gondor)"
 ---
 
-Redirect to [Beren (Steward of Gondor)](/wiki/Beren_(Steward_of_Gondor)).
+Redirect to [Beren (Steward of Gondor)](<Beren_(Steward_of_Gondor).md>).

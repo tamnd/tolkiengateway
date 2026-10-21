@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stephen A. Daniele"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stephen A. Daniele</span>"
 page_id: 72686
 namespace: 14
 revision_id: 431174
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Daniele, Stephen A."
 ---
 
-This category lists all **images by [Stephen A. Daniele](/wiki/Stephen_A._Daniele)**.
+This category lists all **images by [Stephen A. Daniele](../../main/S/Stephen_A._Daniele.md)**.

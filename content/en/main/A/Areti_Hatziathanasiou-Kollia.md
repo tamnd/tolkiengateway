@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Evgenia Hatzithanasi-Kollia"
 ---
 
-Redirect to [Evgenia Hatzithanasi-Kollia](/wiki/Evgenia_Hatzithanasi-Kollia).
+Redirect to [Evgenia Hatzithanasi-Kollia](../E/Evgenia_Hatzithanasi-Kollia.md).

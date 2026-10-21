@@ -1,6 +1,5 @@
 ---
 title: "Category:Public houses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Public houses</span>"
 page_id: 38688
 namespace: 14
 revision_id: 190047

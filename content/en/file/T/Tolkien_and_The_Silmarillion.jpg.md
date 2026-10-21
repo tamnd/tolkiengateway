@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and The Silmarillion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and The Silmarillion.jpg</span>"
 page_id: 56926
 namespace: 6
 revision_id: 311219
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the first US edition of *[Tolkien and The Silmarillion](/wiki/Tolkien_and_The_Silmarillion)* by [Clyde S. Kilby](/wiki/Clyde_S._Kilby).
+Cover of the first US edition of *[Tolkien and The Silmarillion](../../main/T/Tolkien_and_The_Silmarillion.md)* by [Clyde S. Kilby](../../main/C/Clyde_S._Kilby.md).
 
 ## Licensing {#Licensing}
 

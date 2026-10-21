@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wizards"
 ---
 
-Redirect to [Wizards](/wiki/Wizards).
+Redirect to [Wizards](Wizards.md).

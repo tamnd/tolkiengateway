@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarn Aeluin"
 ---
 
-Redirect to [Tarn Aeluin](/wiki/Tarn_Aeluin).
+Redirect to [Tarn Aeluin](../T/Tarn_Aeluin.md).

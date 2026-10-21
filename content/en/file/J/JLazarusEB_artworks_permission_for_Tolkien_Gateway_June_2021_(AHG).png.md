@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:JLazarusEB artworks permission for Tolkien Gateway July 2021 (AHG).png"
 ---
 
-Redirect to [File:JLazarusEB artworks permission for Tolkien Gateway July 2021 (AHG).png](/wiki/File:JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png).
+Redirect to [File:JLazarusEB artworks permission for Tolkien Gateway July 2021 (AHG).png](<JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png.md>).

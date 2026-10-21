@@ -1,6 +1,5 @@
 ---
 title: "Philip Stone"
-display_title: "<span class=\"mw-page-title-main\">Philip Stone</span>"
 page_id: 19117
 namespace: 0
 revision_id: 406979
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Stone, Philip"
 ---
 
-Veteran actor **Philip Stone** (born **Philip Stones**) ([April 14](/wiki/14_April "14 April"), [1924](/wiki/1924) - [June 15](/wiki/15_June "15 June"), [2003](/wiki/2003)) provided the voice of [Théoden](/wiki/Th%C3%A9oden) in [The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>).
+Veteran actor **Philip Stone** (born **Philip Stones**) ([April 14](../_/14_April.md), [1924](../_/1924.md) - [June 15](../_/15_June.md), [2003](../_/2003.md)) provided the voice of [Théoden](../T/Théoden.md) in [The Lord of the Rings (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Gipsy Green.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Gipsy Green.jpg</span>"
 page_id: 59451
 namespace: 6
 revision_id: 330986
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [1918](/wiki/1918) drawing of the Gipsy Green house nearby <a class="extiw" href="http://en.wikipedia.org/wiki/Penkridge" title="wikipedia:Penkridge">Penkridge</a>.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s [1918](../../main/_/1918.md) drawing of the Gipsy Green house nearby <a class="extiw" href="http://en.wikipedia.org/wiki/Penkridge" title="wikipedia:Penkridge">Penkridge</a>.
 
 ## Licensing {#Licensing}
 

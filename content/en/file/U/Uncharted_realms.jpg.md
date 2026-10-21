@@ -1,6 +1,5 @@
 ---
 title: "File:Uncharted realms.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Uncharted realms.jpg</span>"
 page_id: 26001
 namespace: 6
 revision_id: 214486

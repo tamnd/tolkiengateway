@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fumellar"
 ---
 
-Redirect to [Fumellar](/wiki/Fumellar).
+Redirect to [Fumellar](Fumellar.md).

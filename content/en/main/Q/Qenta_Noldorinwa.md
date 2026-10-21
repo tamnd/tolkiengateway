@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Quenta"
 ---
 
-Redirect to [The Quenta](/wiki/The_Quenta).
+Redirect to [The Quenta](../T/The_Quenta.md).

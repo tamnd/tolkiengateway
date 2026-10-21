@@ -1,6 +1,5 @@
 ---
 title: "File:Orange-Freecountry-2-.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Orange-Freecountry-2-.png</span>"
 page_id: 29607
 namespace: 6
 revision_id: 248677
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orange Free State](/wiki/Orange_Free_State) in 1899.
+[Orange Free State](../../main/O/Orange_Free_State.md) in 1899.
 
 ## Licensing {#Licensing}
 

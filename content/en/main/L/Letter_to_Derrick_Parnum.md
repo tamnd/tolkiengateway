@@ -1,6 +1,5 @@
 ---
 title: "Letter to Derrick Parnum"
-display_title: "<span class=\"mw-page-title-main\">Letter to Derrick Parnum</span>"
 page_id: 26185
 namespace: 0
 revision_id: 388046
@@ -17,14 +16,14 @@ images:
   - "Parnum_1955.jpg"
 ---
 
-On [2 March](/wiki/2_March) [1955](/wiki/1955), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote <b><a href="/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="new" href="/w/index.php?title=Derrick_Parnum&amp;action=edit&amp;redlink=1" title="Derrick Parnum (page does not exist)">Derrick Parnum</a></b>.
+On [2 March](../_/2_March.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote <b><a href="Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md" title="Letters not published in The Letters of J.R.R. Tolkien">a letter</a> to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Derrick_Parnum&amp;action=edit&amp;redlink=1" title="Derrick Parnum (page does not exist)">Derrick Parnum</a></b>.
 
-- **Publication:** Extracts from the letter were published in *[English Literature, History, Private Press, Children's Books and Illustrations](/wiki/Sotheby%27s_English_Literature,_History,_Private_Press,_Children%27s_Books_and_Illustrations_13_December_2007 "Sotheby's English Literature, History, Private Press, Children's Books and Illustrations 13 December 2007")*, an auction catalogue from Sotheby's. A description of the letter is also found on the website of Sotheby's.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- **Description:** The autographed, 4 pages letter was sold through [Sotheby's](/wiki/Sotheby%27s) on 13 December 2007.
+- **Publication:** Extracts from the letter were published in *[English Literature, History, Private Press, Children's Books and Illustrations](../S/Sotheby's_English_Literature,_History,_Private_Press,_Children's_Books_and_Illustrations_13_December_2007.md)*, an auction catalogue from Sotheby's. A description of the letter is also found on the website of Sotheby's.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Description:** The autographed, 4 pages letter was sold through [Sotheby's](../S/Sotheby's.md) on 13 December 2007.
 
 ## Description and excerpt {#Description_and_excerpt}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Parnum_1955.jpg"><img src="/w/images/thumb/8/8f/Parnum_1955.jpg/300px-Parnum_1955.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/8/8f/Parnum_1955.jpg/450px-Parnum_1955.jpg 1.5x, /w/images/thumb/8/8f/Parnum_1955.jpg/600px-Parnum_1955.jpg 2x" data-file-width="650" data-file-height="650"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parnum_1955.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8f/Parnum_1955.jpg/300px-Parnum_1955.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/Parnum_1955.jpg/450px-Parnum_1955.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/Parnum_1955.jpg/600px-Parnum_1955.jpg 2x" data-file-width="650" data-file-height="650"/></a><figcaption></figcaption></figure>
 
 Noting ill-health, apologising for not having written earlier and presumably responding to the correspondent's omission of his title *("I have now been a 'professor' so long (since 1924 in fact) that it no longer seems at all important. It never has been regarded as important in Oxford, anyway...")*
 

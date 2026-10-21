@@ -1,6 +1,5 @@
 ---
 title: "File:Christian History 78.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christian History 78.png</span>"
 page_id: 37660
 namespace: 6
 revision_id: 213677

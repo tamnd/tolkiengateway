@@ -1,6 +1,5 @@
 ---
 title: "File:Arvedui lotro fragment.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arvedui lotro fragment.JPG</span>"
 page_id: 19868
 namespace: 6
 revision_id: 169524
@@ -24,7 +23,7 @@ file:
   user: "Ederchil"
 ---
 
-[Arvedui](/wiki/Arvedui), as he appeared in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*, Book 13.
+[Arvedui](../../main/A/Arvedui.md), as he appeared in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*, Book 13.
 
 This image is a fragment of the original artwork <a class="external autonumber" href="http://www.lotro.com/index.php?page_id=161" rel="noreferrer noopener" target="_blank">[1]</a>.
 

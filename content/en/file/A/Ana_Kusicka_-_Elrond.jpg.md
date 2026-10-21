@@ -1,6 +1,5 @@
 ---
 title: "File:Ana Kusicka - Elrond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ana Kusicka - Elrond.jpg</span>"
 page_id: 13614
 namespace: 6
 revision_id: 199041
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Ana Kusicka</li>
 <li><b>Website:</b> <a class="external text" href="http://mindofka.deviantart.com" rel="noreferrer noopener" target="_blank">Ana Kusicka&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ana_Kusicka" title="Tolkien Gateway:Copyrights/Ana Kusicka">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAna_Kusicka.md" title="Tolkien Gateway:Copyrights/Ana Kusicka">Permission for use on Tolkien Gateway</a></b></li></ul></div>

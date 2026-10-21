@@ -1,6 +1,5 @@
 ---
 title: "File:LOTR-WITN-Human mage and Elven Ranger-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTR-WITN-Human mage and Elven Ranger-1-.jpg</span>"
 page_id: 34773
 namespace: 6
 revision_id: 169699
@@ -27,7 +26,7 @@ file:
   user: "Amroth"
 ---
 
-[Eradan](</wiki/Eradan_(video_game_character)> "Eradan (video game character)"), [Andriel](/wiki/Andriel) and [Farin](</wiki/Farin_(video_game_character)> "Farin (video game character)") in [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+[Eradan](<../../main/E/Eradan_(video_game_character).md>), [Andriel](../../main/A/Andriel.md) and [Farin](<../../main/F/Farin_(video_game_character).md>) in [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 **Note:** Unlike the final game, Eradan is a mage in this screenshot will Andriel is a ranger.
 

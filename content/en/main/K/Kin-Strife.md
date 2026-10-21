@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kin-strife"
 ---
 
-Redirect to [Kin-strife](/wiki/Kin-strife).
+Redirect to [Kin-strife](Kin-strife~3650.md).

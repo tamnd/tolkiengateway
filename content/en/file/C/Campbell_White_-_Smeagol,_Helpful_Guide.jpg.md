@@ -1,6 +1,5 @@
 ---
 title: "File:Campbell White - Smeagol, Helpful Guide.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Campbell White - Smeagol, Helpful Guide.jpg</span>"
 page_id: 65114
 namespace: 6
 revision_id: 374863
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Campbell White</li>
 <li><b>Website:</b> <a class="external text" href="https://www.campbellwhitedesign.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Campbell_White" title="Tolkien Gateway:Copyrights/Campbell White">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCampbell_White.md" title="Tolkien Gateway:Copyrights/Campbell White">Permission for use on Tolkien Gateway</a></b></li></ul></div>

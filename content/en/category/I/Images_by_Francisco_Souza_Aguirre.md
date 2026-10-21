@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Francisco Souza Aguirre"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Francisco Souza Aguirre</span>"
 page_id: 72786
 namespace: 14
 revision_id: 431430
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Aguirre, Francisco Souza"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Francisco_Souza_Aguirre&amp;action=edit&amp;redlink=1" title="Francisco Souza Aguirre (page does not exist)">Francisco Souza Aguirre</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Francisco_Souza_Aguirre&amp;action=edit&amp;redlink=1" title="Francisco Souza Aguirre (page does not exist)">Francisco Souza Aguirre</a></b>.

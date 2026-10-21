@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eucatastrophe"
 ---
 
-Redirect to [Eucatastrophe](/wiki/Eucatastrophe).
+Redirect to [Eucatastrophe](Eucatastrophe.md).

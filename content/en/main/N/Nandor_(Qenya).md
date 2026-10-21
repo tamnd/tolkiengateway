@@ -11,4 +11,4 @@ redirect_target: "Nandor"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Nandor](/wiki/Nandor#Etymology).
+Redirect to [Nandor](Nandor.md#Etymology).

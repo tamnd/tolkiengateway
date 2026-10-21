@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: The Lidless Eye"
 ---
 
-Redirect to [Middle-earth: The Lidless Eye](/wiki/Middle-earth:_The_Lidless_Eye).
+Redirect to [Middle-earth: The Lidless Eye](Middle-earth%253A_The_Lidless_Eye.md).

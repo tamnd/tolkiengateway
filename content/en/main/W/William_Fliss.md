@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William M. Fliss"
 ---
 
-Redirect to [William M. Fliss](/wiki/William_M._Fliss).
+Redirect to [William M. Fliss](William_M._Fliss.md).

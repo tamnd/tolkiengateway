@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pwyll Prince of Dyved"
 ---
 
-Redirect to [Pwyll Prince of Dyved](/wiki/Pwyll_Prince_of_Dyved).
+Redirect to [Pwyll Prince of Dyved](../P/Pwyll_Prince_of_Dyved.md).

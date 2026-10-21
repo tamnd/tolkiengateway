@@ -1,6 +1,5 @@
 ---
 title: "File:Ettenmoors map LOTRO.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ettenmoors map LOTRO.jpg</span>"
 page_id: 26279
 namespace: 6
 revision_id: 427298

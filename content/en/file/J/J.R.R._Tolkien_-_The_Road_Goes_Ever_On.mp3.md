@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Road Goes Ever On.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Road Goes Ever On.mp3</span>"
 page_id: 71036
 namespace: 6
 revision_id: 424278
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out [The Road Goes Ever On](</wiki/The_Road_Goes_Ever_On_(song)> "The Road Goes Ever On (song)") in [Bilbo Baggins](/wiki/Bilbo_Baggins)' voice.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out [The Road Goes Ever On](<../../main/T/The_Road_Goes_Ever_On_(song).md>) in [Bilbo Baggins](../../main/B/Bilbo_Baggins.md)' voice.
 
 ## Licensing {#Licensing}
 

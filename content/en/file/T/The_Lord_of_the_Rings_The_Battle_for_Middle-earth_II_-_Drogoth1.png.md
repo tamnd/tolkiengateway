@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Battle for Middle-earth II - Drogoth1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Battle for Middle-earth II - Drogoth1.png</span>"
 page_id: 38236
 namespace: 6
 revision_id: 185714
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Drogoth](/wiki/Drogoth) in [The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II).
+[Drogoth](../../main/D/Drogoth.md) in [The Lord of the Rings: The Battle for Middle-earth II](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md).
 
 ## Licensing {#Licensing}
 

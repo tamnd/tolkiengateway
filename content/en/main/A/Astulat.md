@@ -1,6 +1,5 @@
 ---
 title: "Astulat"
-display_title: "<span class=\"mw-page-title-main\">Astulat</span>"
 page_id: 44418
 namespace: 0
 revision_id: 335714
@@ -14,11 +13,11 @@ categories:
   - "Qenya locations"
 ---
 
-**Astulat**, the **Bony ridge**, was the name of a hill only mentioned in a manuscript about [Elvish](/wiki/Elvish) grammar.<sup id="cite_ref-PE21_1-0" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup> Nothing else is known about this place.
+**Astulat**, the **Bony ridge**, was the name of a hill only mentioned in a manuscript about [Elvish](../E/Elvish.md) grammar.<sup id="cite_ref-PE21_1-0" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup> Nothing else is known about this place.
 
 ## Etymology {#Etymology}
 
-The name *Astulat* is [Qenya](/wiki/Qenya) for "Bony ridge", composed of *astula* ("bony") + *hat* ("ridge (comb, crest)").<sup id="cite_ref-PE21_1-1" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup>
+The name *Astulat* is [Qenya](../Q/Qenya.md) for "Bony ridge", composed of *astula* ("bony") + *hat* ("ridge (comb, crest)").<sup id="cite_ref-PE21_1-1" class="reference"><a href="#cite_note-PE21-1">[1]</a></sup>
 
 It seems to share the name with the legendary <a class="extiw" href="http://en.wikipedia.org/wiki/Astolat" title="wikipedia:Astolat">Astolat</a>, the place connected with the <a class="extiw" href="http://en.wikipedia.org/wiki/Lady_of_Shalott" title="wikipedia:Lady of Shalott">Lady of Shalott</a>.
 
@@ -27,7 +26,7 @@ It seems to share the name with the legendary <a class="extiw" href="http://en.w
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE21-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE21_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE21_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenya Noun Structure&#34;, in <a href="/wiki/Parma_Eldalamberon_21" title="Parma Eldalamberon 21"><i>Parma Eldalamberon</i> XXI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a> and <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>), pp. 27, 37</span>
+<li id="cite_note-PE21-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE21_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE21_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenya Noun Structure&#34;, in <a href="../P/Parma_Eldalamberon_21.md" title="Parma Eldalamberon 21"><i>Parma Eldalamberon</i> XXI</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> and <a href="Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>), pp. 27, 37</span>
 </li>
 </ol></div>
 
@@ -35,32 +34,31 @@ It seems to share the name with the legendary <a class="extiw" href="http://en.w
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="/wiki/Category:Locations" title="Category:Locations">locations</a> in <a href="/wiki/Arda" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="../../category/L/Locations.md" title="Category:Locations">locations</a> in <a href="Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Islands" title="Category:Islands">Islands</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/I/Islands.md" title="Category:Islands">Islands</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Hallow_of_Eru" title="Hallow of Eru">Isle of Meneltarma</a>
+<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Isle of Meneltarma</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Mountains" title="Category:Mountains">Mountains</a> and <a href="/wiki/Category:Hills" title="Category:Hills">Hills</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Mountains.md" title="Category:Mountains">Mountains</a> and <a href="../../category/H/Hills.md" title="Category:Hills">Hills</a>:
 </th>
-<td style="font-size: 90%;"> <a class="mw-selflink selflink">Astulat</a> · <a class="new" href="/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> · <a class="mw-redirect" href="/wiki/Mountains_of_the_Moon" title="Mountains of the Moon">Mountains of the Moon</a> · <a href="/wiki/Merlock_Mountains" title="Merlock Mountains">Merlock Mountains</a>
+<td style="font-size: 90%;"> <a class="mw-selflink selflink">Astulat</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Faraway&amp;action=edit&amp;redlink=1" title="Faraway (page does not exist)">Faraway</a> · <a class="mw-redirect" href="../M/Mountains_of_the_Moon.md" title="Mountains of the Moon">Mountains of the Moon</a> · <a href="../M/Merlock_Mountains.md" title="Merlock Mountains">Merlock Mountains</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="/wiki/Category:Regions" title="Category:Regions">Regions</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/R/Regions.md" title="Category:Regions">Regions</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Aerie" title="Aerie">Aerie</a> · <a href="/wiki/Delving" title="Delving">Delving</a> · <a href="/wiki/Belmarie" title="Belmarie">Belmarie</a> · <a href="/wiki/Fantasie" title="Fantasie">Fantasie</a> · <a href="/wiki/Last_Desert" title="Last Desert">Last Desert</a> · <a class="mw-redirect" href="/wiki/Sindan%C3%B3rie" title="Sindanórie">Sindanórie</a> · <a href="/wiki/Thellamie" title="Thellamie">Thellamie</a> · <a href="/wiki/Tode" title="Tode">Tode</a>
+<td style="font-size: 90%;"> <a href="Aerie.md" title="Aerie">Aerie</a> · <a href="../D/Delving.md" title="Delving">Delving</a> · <a href="../B/Belmarie.md" title="Belmarie">Belmarie</a> · <a href="../F/Fantasie.md" title="Fantasie">Fantasie</a> · <a href="../L/Last_Desert.md" title="Last Desert">Last Desert</a> · <a class="mw-redirect" href="../S/Sindanórie.md" title="Sindanórie">Sindanórie</a> · <a href="../T/Thellamie.md" title="Thellamie">Thellamie</a> · <a href="../T/Tode.md" title="Tode">Tode</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Rivers" title="Category:Rivers">Rivers</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/R/Rivers.md" title="Category:Rivers">Rivers</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Derrilyn" title="Derrilyn">Derrilyn</a>
+<td style="font-size: 90%;"> <a href="../D/Derrilyn.md" title="Derrilyn">Derrilyn</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right">Other:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Caves_of_the_Forgotten" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="/wiki/Gorbelgod" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
+<td style="font-size: 90%;"> <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="../G/Gorbelgod.md" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
 </td></tr>
-<!-- -->
 </tbody></table>

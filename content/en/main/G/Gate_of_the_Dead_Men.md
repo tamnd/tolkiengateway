@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Door"
 ---
 
-Redirect to [Dark Door](/wiki/Dark_Door).
+Redirect to [Dark Door](../D/Dark_Door.md).

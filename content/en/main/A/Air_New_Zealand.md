@@ -1,6 +1,5 @@
 ---
 title: "Air New Zealand"
-display_title: "<span class=\"mw-page-title-main\">Air New Zealand</span>"
 page_id: 48153
 namespace: 0
 revision_id: 256875
@@ -13,11 +12,11 @@ categories:
   - "New Zealand organizations"
 ---
 
-**Air New Zealand** is the national airline and flag carrier of [New Zealand](/wiki/New_Zealand) based in Auckland.
+**Air New Zealand** is the national airline and flag carrier of [New Zealand](../N/New_Zealand.md) based in Auckland.
 
-It has promoted the films by Sir [Peter Jackson](/wiki/Peter_Jackson), such as the "Hobbit Jet", and also, with cooperation with Jackson and [Weta Workshop](/wiki/Weta_Workshop), released several cross-promotion Middle-earth inspired videos.
+It has promoted the films by Sir [Peter Jackson](../P/Peter_Jackson.md), such as the "Hobbit Jet", and also, with cooperation with Jackson and [Weta Workshop](../W/Weta_Workshop.md), released several cross-promotion Middle-earth inspired videos.
 
-The videos feature [Tolkien](/wiki/Tolkien) characters such as [Gandalf](/wiki/Gandalf) and [Gwaihir](/wiki/Gwaihir), [Orcs](/wiki/Orcs), [Hobbits](/wiki/Hobbits) and [Elves](/wiki/Elves) or the [One Ring](/wiki/One_Ring). Jackson, [Dean O'Gorman](/wiki/Dean_O%27Gorman), [Sylvester McCoy](/wiki/Sylvester_McCoy) and [Elijah Wood](/wiki/Elijah_Wood) make cameos.
+The videos feature [Tolkien](../T/Tolkien.md) characters such as [Gandalf](../G/Gandalf.md) and [Gwaihir](../G/Gwaihir.md), [Orcs](../O/Orcs.md), [Hobbits](../H/Hobbits.md) and [Elves](../E/Elves.md) or the [One Ring](../O/One_Ring.md). Jackson, [Dean O'Gorman](../D/Dean_O'Gorman.md), [Sylvester McCoy](../S/Sylvester_McCoy.md) and [Elijah Wood](../E/Elijah_Wood.md) make cameos.
 
 ## External links {#External_links}
 

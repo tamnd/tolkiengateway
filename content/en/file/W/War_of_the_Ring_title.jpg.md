@@ -1,6 +1,5 @@
 ---
 title: "File:War of the Ring title.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">War of the Ring title.jpg</span>"
 page_id: 64621
 namespace: 6
 revision_id: 371440

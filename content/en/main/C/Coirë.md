@@ -1,6 +1,5 @@
 ---
 title: "Coirë"
-display_title: "<span class=\"mw-page-title-main\">Coirë</span>"
 page_id: 1757
 namespace: 0
 revision_id: 390225
@@ -24,24 +23,22 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Coirë** translates to 'stirring' and is the [Quenya](/wiki/Quenya) name for the [Elvish](/wiki/Elvish) season between winter and spring. In the [Reckoning of Rivendell](/wiki/Reckoning_of_Rivendell) it was the last season of the year, and corresponded more or less to the 54 days between [11 February](/wiki/11_February) and [4 April](/wiki/4_April) in the [Shire Calendar](/wiki/Shire_Calendar).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Coirë** translates to 'stirring' and is the [Quenya](../Q/Quenya.md) name for the [Elvish](../E/Elvish.md) season between winter and spring. In the [Reckoning of Rivendell](../R/Reckoning_of_Rivendell.md) it was the last season of the year, and corresponded more or less to the 54 days between [11 February](../_/11_February.md) and [4 April](../_/4_April.md) in the [Shire Calendar](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="/wiki/Echuir" title="Echuir">Echuir</a></div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../E/Echuir.md" title="Echuir">Echuir</a></div></div>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="/wiki/Calendar_of_Imladris" title="Calendar of Imladris">Calendar of Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);">Meaning:
@@ -57,28 +54,28 @@ images:
 <td>&#39;Last Day&#39;
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);"><a href="/wiki/Quenya" title="Quenya">Quenya</a>:
+<th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:
 </th>
-<td><a href="/wiki/Yestar%C3%AB" title="Yestarë">Yestarë</a></td>
-<td><a href="/wiki/Tuil%C3%AB" title="Tuilë">Tuilë</a></td>
-<td><a href="/wiki/Lair%C3%AB" title="Lairë">Lairë</a></td>
-<td><a href="/wiki/Y%C3%A1vi%C3%AB" title="Yávië">Yávië</a></td>
-<td><a href="/wiki/Enderi" title="Enderi">Enderi</a></td>
-<td><a href="/wiki/Quell%C3%AB" title="Quellë">Quellë</a></td>
-<td><a href="/wiki/Hr%C3%ADv%C3%AB" title="Hrívë">Hrívë</a></td>
+<td><a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></td>
+<td><a href="../T/Tuilë.md" title="Tuilë">Tuilë</a></td>
+<td><a href="../L/Lairë.md" title="Lairë">Lairë</a></td>
+<td><a href="../Y/Yávië.md" title="Yávië">Yávië</a></td>
+<td><a href="../E/Enderi.md" title="Enderi">Enderi</a></td>
+<td><a href="../Q/Quellë.md" title="Quellë">Quellë</a></td>
+<td><a href="../H/Hrívë.md" title="Hrívë">Hrívë</a></td>
 <td><a class="mw-selflink selflink">Coirë</a></td>
-<td><a href="/wiki/Mettar%C3%AB" title="Mettarë">Mettarë</a>
+<td><a href="../M/Mettarë.md" title="Mettarë">Mettarë</a>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);"><a href="/wiki/Sindarin" title="Sindarin">Sindarin</a>:
+<th align="center" style="background: var(--tg-color-surface-3);"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>:
 </th>
 <td></td>
-<td><a href="/wiki/Ethuil" title="Ethuil">Ethuil</a></td>
-<td><a href="/wiki/Laer" title="Laer">Laer</a></td>
-<td><a href="/wiki/Iavas" title="Iavas">Iavas</a></td>
+<td><a href="../E/Ethuil.md" title="Ethuil">Ethuil</a></td>
+<td><a href="../L/Laer.md" title="Laer">Laer</a></td>
+<td><a href="../I/Iavas.md" title="Iavas">Iavas</a></td>
 <td></td>
-<td><a href="/wiki/Firith" title="Firith">Firith</a></td>
-<td><a href="/wiki/Rh%C3%AEw" title="Rhîw">Rhîw</a></td>
-<td><a href="/wiki/Echuir" title="Echuir">Echuir</a></td>
+<td><a href="../F/Firith.md" title="Firith">Firith</a></td>
+<td><a href="../R/Rhîw.md" title="Rhîw">Rhîw</a></td>
+<td><a href="../E/Echuir.md" title="Echuir">Echuir</a></td>
 <td>
 </td></tr></tbody></table>

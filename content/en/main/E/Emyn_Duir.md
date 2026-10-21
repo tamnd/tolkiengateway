@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mountains of Mirkwood"
 ---
 
-Redirect to [Mountains of Mirkwood](/wiki/Mountains_of_Mirkwood).
+Redirect to [Mountains of Mirkwood](../M/Mountains_of_Mirkwood.md).

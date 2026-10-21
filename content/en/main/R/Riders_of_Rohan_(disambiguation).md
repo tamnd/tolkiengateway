@@ -1,6 +1,5 @@
 ---
 title: "Riders of Rohan (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Riders of Rohan (disambiguation)</span>"
 page_id: 4342
 namespace: 0
 revision_id: 256999
@@ -17,21 +16,21 @@ images:
 
 **Riders of Rohan** can refer to:
 
-- a common name for the [Rohirrim](/wiki/Rohirrim), the horsemen from the north who dwelt in the land of [Rohan](/wiki/Rohan) after its foundation by [Eorl the Young](/wiki/Eorl_the_Young).
-- *[The Riders of Rohan](/wiki/The_Riders_of_Rohan)*, a chapter of *[The Two Towers](/wiki/The_Two_Towers)*
+- a common name for the [Rohirrim](Rohirrim.md), the horsemen from the north who dwelt in the land of [Rohan](Rohan.md) after its foundation by [Eorl the Young](../E/Eorl_the_Young.md).
+- *[The Riders of Rohan](../T/The_Riders_of_Rohan.md)*, a chapter of *[The Two Towers](../T/The_Two_Towers.md)*
 
-- *[Riders of Rohan](</wiki/Riders_of_Rohan_(1985_book)> "Riders of Rohan (1985 book)")*, a game supplement for [Middle-earth Role Playing](/wiki/Middle-earth_Role_Playing).
-- *[Riders of Rohan](/wiki/J.R.R._Tolkien%27s_Riders_of_Rohan "J.R.R. Tolkien's Riders of Rohan")*, a [1990](/wiki/1990) video game.
-- *[The Lord of the Rings Online: Riders of Rohan](/wiki/The_Lord_of_the_Rings_Online:_Riders_of_Rohan)*, the fourth expansion for *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+- *[Riders of Rohan](<Riders_of_Rohan_(1985_book).md>)*, a game supplement for [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).
+- *[Riders of Rohan](../J/J.R.R._Tolkien's_Riders_of_Rohan.md)*, a [1990](../_/1990.md) video game.
+- *[The Lord of the Rings Online: Riders of Rohan](../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md)*, the fourth expansion for *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*.
 
-- *[The Riders of Rohan](</wiki/The_Riders_of_Rohan_(scene)> "The Riders of Rohan (scene)")*, the eleventh scene of *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
-- *[The Riders of Rohan](</wiki/The_Riders_of_Rohan_(soundtrack)> "The Riders of Rohan (soundtrack)")*, track #3 on *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_Original_Motion_Picture_Soundtrack)*.
+- *[The Riders of Rohan](<../T/The_Riders_of_Rohan_(scene).md>)*, the eleventh scene of *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
+- *[The Riders of Rohan](<../T/The_Riders_of_Rohan_(soundtrack).md>)*, track #3 on *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)*.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Riders_of_Rohan_(disambiguation)" title="Special:WhatLinksHere/:Riders of Rohan (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Riders_of_Rohan_(disambiguation)" title="Special:WhatLinksHere/:Riders of Rohan (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

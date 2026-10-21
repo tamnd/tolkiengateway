@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Lorien Elf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Lorien Elf.jpg</span>"
 page_id: 22626
 namespace: 6
 revision_id: 211680

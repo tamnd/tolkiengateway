@@ -1,6 +1,5 @@
 ---
 title: "Category:Publications with contribution by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Publications with contribution by J.R.R. Tolkien</span>"
 page_id: 26594
 namespace: 14
 revision_id: 328336
@@ -13,4 +12,4 @@ categories:
   - "Publications by J.R.R. Tolkien"
 ---
 
-**Publications with contribution by J.R.R. Tolkien** refers to printed matter which includes partial literary contribution, written or edited by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Publications with contribution by J.R.R. Tolkien** refers to printed matter which includes partial literary contribution, written or edited by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

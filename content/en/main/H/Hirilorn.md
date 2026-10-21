@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hírilorn"
 ---
 
-Redirect to [Hírilorn](/wiki/Hírilorn).
+Redirect to [Hírilorn](Hírilorn.md).

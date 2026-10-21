@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Steven White Jr. - Drowned Beleriand.png"
 ---
 
-Redirect to [File:Steven White Jr. - Drowned Beleriand.png](/wiki/File:Steven_White_Jr._-_Drowned_Beleriand.png).
+Redirect to [File:Steven White Jr. - Drowned Beleriand.png](Steven_White_Jr._-_Drowned_Beleriand.png.md).

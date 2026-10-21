@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Prancing Pony.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Prancing Pony.jpg</span>"
 page_id: 71567
 namespace: 6
 revision_id: 438264
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch of the [Prancing Pony](/wiki/Prancing_Pony) by [Tim Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt").
+Sketch of the [Prancing Pony](../../main/P/Prancing_Pony.md) by [Tim Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
 ## Licensing {#Licensing}
 

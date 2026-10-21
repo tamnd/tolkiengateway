@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Saruman at Dol Guldur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Saruman at Dol Guldur.jpg</span>"
 page_id: 56413
 namespace: 6
 revision_id: 307572
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Saruman](/wiki/Saruman) during the [Attack on Dol Guldur](/wiki/Attack_on_Dol_Guldur) from [The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies).
+[Saruman](../../main/S/Saruman.md) during the [Attack on Dol Guldur](../../main/A/Attack_on_Dol_Guldur.md) from [The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md).
 
 ## Licensing {#Licensing}
 

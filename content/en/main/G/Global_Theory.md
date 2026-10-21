@@ -1,6 +1,5 @@
 ---
 title: "Global Theory"
-display_title: "<span class=\"mw-page-title-main\">Global Theory</span>"
 page_id: 24054
 namespace: 0
 revision_id: 405672
@@ -15,13 +14,13 @@ categories:
   - "Tolkien studies"
 ---
 
-**Global Theory** is an alternative way of understanding Tolkien's [legendarium](/wiki/Legendarium "Legendarium") suggested by [David Giraudeau](/wiki/David_Giraudeau) after a concept by [Edouard Kloczko](/wiki/Edouard_Kloczko).
+**Global Theory** is an alternative way of understanding Tolkien's [legendarium](../L/Legendarium.md) suggested by [David Giraudeau](../D/David_Giraudeau.md) after a concept by [Edouard Kloczko](../E/Edouard_Kloczko.md).
 
-According to this theory, all of Tolkien's work can be understood as a single continuity, no matter the inconsistencies or alterations, having in mind both his early mythological works (eg. *[The Book of Lost Tales Part One](/wiki/The_Book_of_Lost_Tales_Part_One)*) and the later (*[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*).
+According to this theory, all of Tolkien's work can be understood as a single continuity, no matter the inconsistencies or alterations, having in mind both his early mythological works (eg. *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*) and the later (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*).
 
-For example the theory suggests that the *Book of Lost Tales* should be understood to have happened in the Middle Ages, long after the prehistorical happenings of the books; the [Qenya](/wiki/Qenya) and [Goldogrin](/wiki/Gnomish "Gnomish") words and names are medieval evolution of the "earlier" [Quenya](/wiki/Quenya) and [Sindarin](/wiki/Sindarin) of the [Elder Days](/wiki/Elder_Days).
+For example the theory suggests that the *Book of Lost Tales* should be understood to have happened in the Middle Ages, long after the prehistorical happenings of the books; the [Qenya](../Q/Qenya.md) and [Goldogrin](Gnomish.md) words and names are medieval evolution of the "earlier" [Quenya](../Q/Quenya.md) and [Sindarin](../S/Sindarin.md) of the [Elder Days](../E/Elder_Days.md).
 
-All inconsistencies can be dismissed by crediting them to errors or misunderstandings of the copyists, including [Eriol](/wiki/Eriol).
+All inconsistencies can be dismissed by crediting them to errors or misunderstandings of the copyists, including [Eriol](../E/Eriol.md).
 
 ## External links {#External_links}
 

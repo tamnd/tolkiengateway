@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghost Warriors"
 ---
 
-Redirect to [Ghost Warriors](/wiki/Ghost_Warriors).
+Redirect to [Ghost Warriors](../G/Ghost_Warriors.md).

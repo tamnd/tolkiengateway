@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Butterbur, Sam, Frodo & Strider.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Butterbur, Sam, Frodo &amp; Strider.png</span>"
 page_id: 72612
 namespace: 6
 revision_id: 438265
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barliman Butterbur](/wiki/Barliman_Butterbur), [Samwise Gamgee](/wiki/Samwise_Gamgee), [Frodo Baggins](/wiki/Frodo_Baggins) and [Strider](/wiki/Strider) in *[The Prancing Pony](/wiki/The_Prancing_Pony)* - *[The Lord of the Rings (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)>)*
+[Barliman Butterbur](../../main/B/Barliman_Butterbur.md), [Samwise Gamgee](../../main/S/Samwise_Gamgee.md), [Frodo Baggins](../../main/F/Frodo_Baggins.md) and [Strider](../../main/S/Strider.md) in *[The Prancing Pony](../../main/T/The_Prancing_Pony.md)* - *[The Lord of the Rings (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)*
 
 ## Licensing {#Licensing}
 

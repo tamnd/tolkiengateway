@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/14 September 2008"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/14 September 2008</span>"
 page_id: 20356
 namespace: 4
 revision_id: 201979
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 14 September 2008</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 14 September 2008</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -81,45 +78,45 @@ sort_keys:
 <tr>
 <td>Open meeting and check attendance.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr>
 <tr>
 <td>I&#39;m not intending to sound anti-American (because I&#39;m not at all), but a discussion on the americentrism in some articles regarding book information.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
-<td>Having a Poll on the <a href="/wiki/Main_Page" title="Main Page">Main Page</a>.
+<td>Having a Poll on the <a href="../../main/M/Main_Page.md" title="Main Page">Main Page</a>.
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td></tr>
 <tr>
-<td>Making clear how <a href="/wiki/Canon" title="Canon">Canon</a> should look, what it should have, what not. Discuss examples, comparisons to other fictions(?), et cetera.
+<td>Making clear how <a href="../../main/C/Canon.md" title="Canon">Canon</a> should look, what it should have, what not. Discuss examples, comparisons to other fictions(?), et cetera.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
-<td>Revisit the proposed <a href="/wiki/User:Ederchil/Sandbox" title="User:Ederchil/Sandbox">References system</a>.
+<td>Revisit the proposed <a href="https://tolkiengateway.net/wiki/User:Ederchil/Sandbox" title="User:Ederchil/Sandbox">References system</a>.
 </td>
-<td><a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>
 </td></tr>
 <tr>
 <td>Infobox standardisation. Sometimes it seems as if there isn&#39;t much uniformity between what&#39;s included on various infoxboxes.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
-<td>A discussion on dates and calendars. For example, we don&#39;t list in-world events on the 31st of a month, yet we don&#39;t compensate with having Lithe and Yule on the calendars. As a result, the wedding of Aragorn and Arwen does not (and currently cannot) appear on our <a href="/wiki/Calendar" title="Calendar">calendar</a> as it happened on <a class="mw-redirect" href="/wiki/Midyear%27s_Day" title="Midyear&#39;s Day">Midyear&#39;s Day</a>, a non-existent date on the Gregorian Calendar.
+<td>A discussion on dates and calendars. For example, we don&#39;t list in-world events on the 31st of a month, yet we don&#39;t compensate with having Lithe and Yule on the calendars. As a result, the wedding of Aragorn and Arwen does not (and currently cannot) appear on our <a href="../../main/C/Calendar.md" title="Calendar">calendar</a> as it happened on <a class="mw-redirect" href="../../main/M/Midyear&#39;s_Day.md" title="Midyear&#39;s Day">Midyear&#39;s Day</a>, a non-existent date on the Gregorian Calendar.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>End meeting.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/14_September_2008 "Tolkien Gateway talk:Meetings/14 September 2008")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/14_September_2008)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

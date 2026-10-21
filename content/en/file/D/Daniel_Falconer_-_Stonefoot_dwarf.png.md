@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Falconer - Stonefoot dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Falconer - Stonefoot dwarf.png</span>"
 page_id: 32087
 namespace: 6
 revision_id: 333285
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A Stonefoot dwarf by Daniel Falconer, appearing in Mike Mearls and Chris Seeman, *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game): [Moria](/wiki/The_Lord_of_the_Rings_Roleplaying_Game:_Moria "The Lord of the Rings Roleplaying Game: Moria")* (Decipher, 2003).
+A Stonefoot dwarf by Daniel Falconer, appearing in Mike Mearls and Chris Seeman, *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Moria](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game%253A_Moria.md)* (Decipher, 2003).
 
 ## Licensing {#Licensing}
 

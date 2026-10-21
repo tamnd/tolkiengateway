@@ -1,6 +1,5 @@
 ---
 title: "File:The Soddit.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Soddit.jpg</span>"
 page_id: 7915
 namespace: 6
 revision_id: 439375

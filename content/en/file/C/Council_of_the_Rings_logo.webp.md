@@ -1,6 +1,5 @@
 ---
 title: "File:Council of the Rings logo.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Council of the Rings logo.webp</span>"
 page_id: 65062
 namespace: 6
 revision_id: 374600
@@ -32,5 +31,5 @@ file:
 <p>This work is copyrighted and owned by Council of the Rings. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Council of the Rings</li>
-<li><b>Website:</b> <a href="/wiki/Council_of_the_Rings" title="Council of the Rings">Council of the Rings</a>]</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Council_of_the_Rings" title="Tolkien Gateway:Copyrights/Council of the Rings">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b>Website:</b> <a href="../../main/C/Council_of_the_Rings.md" title="Council of the Rings">Council of the Rings</a>]</li>
+<li><b><a href="../../project/C/Copyrights%252FCouncil_of_the_Rings.md" title="Tolkien Gateway:Copyrights/Council of the Rings">Permission for use on Tolkien Gateway</a></b></li></ul></div>

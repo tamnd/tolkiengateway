@@ -15,17 +15,17 @@ sort_keys:
   "Quenya nouns": "Cane"
 ---
 
-**cánë** in [Quenya](/wiki/Quenya) means "valour".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**cánë** in [Quenya](../Q/Quenya.md) means "valour".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Related to the [Sindarin](/wiki/Sindarin) word *[caun](/wiki/Caun "Caun")*. <span></span>
+Related to the [Sindarin](../S/Sindarin.md) word *[caun](Caun.md)*. <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_45" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003</span>
 </li>
 </ol></div>
 
 ## See also {#See_also}
 
-- [KAN](/wiki/KAN)
+- [KAN](../K/KAN.md)

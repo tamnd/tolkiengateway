@@ -1,6 +1,5 @@
 ---
 title: "File:Bunhill Fields, London 26.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bunhill Fields, London 26.JPG</span>"
 page_id: 47829
 namespace: 6
 revision_id: 254875

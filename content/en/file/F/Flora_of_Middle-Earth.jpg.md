@@ -1,6 +1,5 @@
 ---
 title: "File:Flora of Middle-Earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Flora of Middle-Earth.jpg</span>"
 page_id: 61363
 namespace: 6
 revision_id: 345419

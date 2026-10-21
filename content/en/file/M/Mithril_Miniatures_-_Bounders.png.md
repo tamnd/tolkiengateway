@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Bounders.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Bounders.png</span>"
 page_id: 71209
 namespace: 6
 revision_id: 424916
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Bounders](/wiki/Bounders) - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+[Bounders](../../main/B/Bounders.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>The Bounders were responsible for policing the borders of the Shire and ensuring that outsiders behaved themselves. This was known as &#39;beating the bounds&#39;. The Bounders was the larger of the two branches of the Watch (the other being the twelve Shirriffs).
@@ -37,7 +36,7 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

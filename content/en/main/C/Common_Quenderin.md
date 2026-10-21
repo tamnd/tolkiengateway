@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Primitive Quendian"
 ---
 
-Redirect to [Primitive Quendian](/wiki/Primitive_Quendian).
+Redirect to [Primitive Quendian](../P/Primitive_Quendian.md).

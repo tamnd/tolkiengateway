@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Peter McKenzie"
 ---
 
-Redirect to [Peter McKenzie](/wiki/Peter_McKenzie).
+Redirect to [Peter McKenzie](Peter_McKenzie.md).

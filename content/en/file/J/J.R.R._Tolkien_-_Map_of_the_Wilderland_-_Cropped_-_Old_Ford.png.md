@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Map of the Wilderland - Cropped - Old Ford.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Map of the Wilderland - Cropped - Old Ford.png</span>"
 page_id: 69173
 namespace: 6
 revision_id: 434551
@@ -39,8 +38,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1937-01-01</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>J.R.R. Tolkien</td>
@@ -49,7 +46,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>J.R.R. Tolkien: Artist &amp; Illustrator</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

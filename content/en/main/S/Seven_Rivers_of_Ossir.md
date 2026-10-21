@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ossiriand"
 ---
 
-Redirect to [Ossiriand](/wiki/Ossiriand).
+Redirect to [Ossiriand](../O/Ossiriand.md).

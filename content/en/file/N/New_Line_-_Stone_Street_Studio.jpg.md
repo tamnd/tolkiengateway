@@ -1,6 +1,5 @@
 ---
 title: "File:New Line - Stone Street Studio.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Line - Stone Street Studio.jpg</span>"
 page_id: 39333
 namespace: 6
 revision_id: 199178

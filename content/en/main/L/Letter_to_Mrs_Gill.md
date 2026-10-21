@@ -1,6 +1,5 @@
 ---
 title: "Letter to Mrs Gill"
-display_title: "<span class=\"mw-page-title-main\">Letter to Mrs Gill</span>"
 page_id: 45762
 namespace: 0
 revision_id: 406291
@@ -17,14 +16,14 @@ images:
   - "1963_-_Mrs_Gill.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:1963_-_Mrs_Gill.jpg"><img src="/w/images/thumb/9/96/1963_-_Mrs_Gill.jpg/300px-1963_-_Mrs_Gill.jpg" decoding="async" loading="lazy" width="300" height="380" class="mw-file-element" srcset="/w/images/thumb/9/96/1963_-_Mrs_Gill.jpg/450px-1963_-_Mrs_Gill.jpg 1.5x, /w/images/9/96/1963_-_Mrs_Gill.jpg 2x" data-file-width="500" data-file-height="633"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/1963_-_Mrs_Gill.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/96/1963_-_Mrs_Gill.jpg/300px-1963_-_Mrs_Gill.jpg" decoding="async" loading="lazy" width="300" height="380" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/96/1963_-_Mrs_Gill.jpg/450px-1963_-_Mrs_Gill.jpg 1.5x, https://tolkiengateway.net/w/images/9/96/1963_-_Mrs_Gill.jpg 2x" data-file-width="500" data-file-height="633"/></a><figcaption></figcaption></figure>
 
-On [21 February](/wiki/21_February) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Mrs Gill**.
+On [21 February](../_/21_February.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Mrs Gill**.
 
-**Mrs Gill 21 February 1963** is a [letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to Mrs. Gill, composed on [21 February](/wiki/21_February) [1963](/wiki/1963).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mrs Gill 21 February 1963** is a [letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) from [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) to Mrs. Gill, composed on [21 February](../_/21_February.md) [1963](../_/1963.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject**: Tolkien replies to a letter of appreciation of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* from Mrs Gill.
-- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide): Chronology* (p. 604).
+- **Subject**: Tolkien replies to a letter of appreciation of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* from Mrs Gill.
+- **Publication:** A description of the letter was included in *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Chronology* (p. 604).
 - **Description:** One page, typerscript, signed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Transcription {#Transcription}
@@ -34,15 +33,13 @@ On [21 February](/wiki/21_February) [1963](/wiki/1963), [J.R.R. Tolkien](/wiki/J
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 604</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 604</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.robertedwardauctions.com/auction/2005/1374.html" rel="noreferrer noopener" target="_blank">Lot1374 (2005)</a> at <a class="external text" href="http://www.robertedwardauctions.com" rel="noreferrer noopener" target="_blank">Robertedwardauctions</a> (accessedd 02 April 2014)</span>
 </li>

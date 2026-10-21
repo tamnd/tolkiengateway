@@ -1,6 +1,5 @@
 ---
 title: "File:Luis Bermejo - El Señor de los Anillos - Primera Parte (page 8).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Luis Bermejo - El Señor de los Anillos - Primera Parte (page 8).jpg</span>"
 page_id: 53729
 namespace: 6
 revision_id: 439021
@@ -39,14 +38,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1979</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Luis_Bermejo" title="Luis Bermejo">Luis Bermejo</a></td>
+<td><a href="../../main/L/Luis_Bermejo.md" title="Luis Bermejo">Luis Bermejo</a></td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

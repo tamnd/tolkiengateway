@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andrew Higgins"
 ---
 
-Redirect to [Andrew Higgins](/wiki/Andrew_Higgins).
+Redirect to [Andrew Higgins](../A/Andrew_Higgins.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Andy Smith"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Andy Smith</span>"
 page_id: 42713
 namespace: 4
 revision_id: 225215
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Smith, Andy"
 ---
 
-- Andy Smith has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Andy_Smith "Category:Images by Andy Smith") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Andy Smith has kindly granted his permission to use [his artwork](../../category/I/Images_by_Andy_Smith.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4th January 2013
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

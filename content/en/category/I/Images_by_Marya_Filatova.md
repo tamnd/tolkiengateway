@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Marya Filatova"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Marya Filatova</span>"
 page_id: 17268
 namespace: 14
 revision_id: 182094
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Filatova, Marya"
 ---
 
-This category lists all **images by [Marya Filatova](/wiki/Marya_Filatova)**.
+This category lists all **images by [Marya Filatova](../../main/M/Marya_Filatova.md)**.

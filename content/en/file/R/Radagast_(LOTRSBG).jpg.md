@@ -1,6 +1,5 @@
 ---
 title: "File:Radagast (LOTRSBG).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Radagast (LOTRSBG).jpg</span>"
 page_id: 32167
 namespace: 6
 revision_id: 433565
@@ -25,7 +24,7 @@ file:
   user: "Morgan"
 ---
 
-Concept art of [Radagast](/wiki/Radagast) for *[The Lord of the Rings Strategy Battle Game](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game)*.
+Concept art of [Radagast](../../main/R/Radagast.md) for *[The Lord of the Rings Strategy Battle Game](../../main/T/The_Lord_of_the_Rings_Strategy_Battle_Game.md)*.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.games-workshop.com/" rel="noreferrer noopener" target="_blank">Games Workshop</a>. It is believed that the limited use of this file,

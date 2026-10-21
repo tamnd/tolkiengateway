@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of the Noldor"
 ---
 
-Redirect to [Fall of the Noldor](/wiki/Fall_of_the_Noldor).
+Redirect to [Fall of the Noldor](../F/Fall_of_the_Noldor.md).

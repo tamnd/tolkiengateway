@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Unwilling (disambiguation)"
 ---
 
-Redirect to [The Unwilling (disambiguation)](/wiki/The_Unwilling_(disambiguation)).
+Redirect to [The Unwilling (disambiguation)](<The_Unwilling_(disambiguation).md>).

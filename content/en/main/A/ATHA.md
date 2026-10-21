@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ATH"
 ---
 
-Redirect to [ATH](/wiki/ATH).
+Redirect to [ATH](ATH~33243.md).

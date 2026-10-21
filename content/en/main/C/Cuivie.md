@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cuivië"
 ---
 
-Redirect to [Cuivië](/wiki/Cuivië).
+Redirect to [Cuivië](Cuivië.md).

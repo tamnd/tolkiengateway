@@ -1,6 +1,5 @@
 ---
 title: "File:W.H. Auden, A Legacy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">W.H. Auden, A Legacy.jpg</span>"
 page_id: 29644
 namespace: 6
 revision_id: 214768

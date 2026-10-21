@@ -19,4 +19,4 @@ sort_keys:
   "Letters from Father Christmas": "Letters from Father Christmas, Images from"
 ---
 
-This category lists all images by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) from <i><b><a href="/wiki/Letters_from_Father_Christmas" title="Letters from Father Christmas">Letters from Father Christmas</a></b></i>.
+This category lists all images by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) from <i><b><a href="../../main/L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></b></i>.

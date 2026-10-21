@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Finarfin"
 ---
 
-Redirect to [House of Finarfin](/wiki/House_of_Finarfin).
+Redirect to [House of Finarfin](../H/House_of_Finarfin.md).

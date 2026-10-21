@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marion E. Wade Center"
 ---
 
-Redirect to [Marion E. Wade Center](/wiki/Marion_E._Wade_Center).
+Redirect to [Marion E. Wade Center](../M/Marion_E._Wade_Center.md).

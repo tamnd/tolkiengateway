@@ -1,6 +1,5 @@
 ---
 title: "Letter to Patrick Hunt"
-display_title: "<span class=\"mw-page-title-main\">Letter to Patrick Hunt</span>"
 page_id: 38630
 namespace: 0
 revision_id: 387827
@@ -17,12 +16,12 @@ images:
   - "Patrick_Hunt_25_January_1973.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Patrick_Hunt_25_January_1973.png"><img src="/w/images/thumb/4/4e/Patrick_Hunt_25_January_1973.png/300px-Patrick_Hunt_25_January_1973.png" decoding="async" loading="lazy" width="300" height="392" class="mw-file-element" srcset="/w/images/4/4e/Patrick_Hunt_25_January_1973.png 1.5x" data-file-width="341" data-file-height="446"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Patrick_Hunt_25_January_1973.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Patrick_Hunt_25_January_1973.png/300px-Patrick_Hunt_25_January_1973.png" decoding="async" loading="lazy" width="300" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4e/Patrick_Hunt_25_January_1973.png 1.5x" data-file-width="341" data-file-height="446"/></a><figcaption></figcaption></figure>
 
-On [25 January](/wiki/25_January) [1973](/wiki/1973), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Patrick Hunt**.<sup id="cite_ref-TL_1-0" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
+On [25 January](../_/25_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Patrick Hunt**.<sup id="cite_ref-TL_1-0" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
 
 - **Subject:** Personal greetings.
-- **Comments:** Mr. Hunt, who had written to Tolkien, was at this time in prison. The daughter of Mr. Hunt recalls that this letter and photograph were Mr. Hunt's prized possessions and that he later was to read *[The Hobbit](/wiki/The_Hobbit)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* to his daughter (and her siblings).<sup id="cite_ref-TL_1-1" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
+- **Comments:** Mr. Hunt, who had written to Tolkien, was at this time in prison. The daughter of Mr. Hunt recalls that this letter and photograph were Mr. Hunt's prized possessions and that he later was to read *[The Hobbit](../T/The_Hobbit.md)* and *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* to his daughter (and her siblings).<sup id="cite_ref-TL_1-1" class="reference"><a href="#cite_note-TL-1">[1]</a></sup>
 - **Publication:** None.
 - **Description:** A handwritten letter (one page) and signed photograph.
 
@@ -39,13 +38,11 @@ JRR Tolkien.
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-TL-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-TL_1-0">1.0</a></sup> <sup><a href="#cite_ref-TL_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/dmiller/CLP0159.htm" rel="noreferrer noopener" target="_blank">&#34;#CLP0159 - Original photograph of J.R.R. Tolkien signed and dedicated to Patrick Hunt, plus signed letter&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Library" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 19 March 2012</span></cite></span>
+<li id="cite_note-TL-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-TL_1-0">1.0</a></sup> <sup><a href="#cite_ref-TL_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienlibrary.com/dmiller/CLP0159.htm" rel="noreferrer noopener" target="_blank">&#34;#CLP0159 - Original photograph of J.R.R. Tolkien signed and dedicated to Patrick Hunt, plus signed letter&#34;</a></span>. <span class="cite-web-website"><a href="../T/Tolkien_Library.md" title="Tolkien Library">Tolkien Library</a></span>. <span class="cite-web-accessed">Retrieved 19 March 2012</span></cite></span>
 </li>
 </ol></div>

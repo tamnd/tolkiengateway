@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Clyde S. Kilby"
 ---
 
-Redirect to [Clyde S. Kilby](/wiki/Clyde_S._Kilby).
+Redirect to [Clyde S. Kilby](Clyde_S._Kilby.md).

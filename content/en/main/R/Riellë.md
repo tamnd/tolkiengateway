@@ -17,27 +17,27 @@ sort_keys:
   "Telerin nouns": "Rielle"
 ---
 
-<i><b>riellë</b></i> or <i><b>riel</b></i> is a noun in [Quenya](/wiki/Quenya) and [Telerin](/wiki/Telerin) meaning "a maiden crowned with a festival garland",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> or more simply "garlanded maiden". Compare with *[rî](/wiki/R%C3%AE "Rî")* in [Sindarin](/wiki/Sindarin).
+<i><b>riellë</b></i> or <i><b>riel</b></i> is a noun in [Quenya](../Q/Quenya.md) and [Telerin](../T/Telerin.md) meaning "a maiden crowned with a festival garland",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> or more simply "garlanded maiden". Compare with *[rî](Rî.md)* in [Sindarin](../S/Sindarin.md).
 
 Examples:
 
-- [Altáriel](/wiki/Alt%C3%A1riel) = "Maiden of the Radiant Garland"
-- [Míriel](/wiki/M%C3%ADriel) = "Maiden of the Jewelled Garland"
+- [Altáriel](../A/Altáriel.md) = "Maiden of the Radiant Garland"
+- [Míriel](../M/Míriel.md) = "Maiden of the Jewelled Garland"
 
 ## Etymology {#Etymology}
 
-Possible [Primitive Elvish](/wiki/Primitive_Elvish) form \**rîgellê* from the [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") [RIG](/wiki/RIG).
+Possible [Primitive Elvish](../P/Primitive_Elvish.md) form \**rîgellê* from the [Root](../S/Sundocarmë.md) [RIG](RIG.md).
 
-From *[ría](/wiki/R%C3%ADa "Ría")/[rie](/wiki/Rie "Rie")* "garland" and <i><a class="new" href="/w/index.php?title=Elle&amp;action=edit&amp;redlink=1" title="Elle (page does not exist)">elle</a></i>.
+From *[ría](Ría.md)/[rie](Rie.md)* "garland" and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elle&amp;action=edit&amp;redlink=1" title="Elle (page does not exist)">elle</a></i>.
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.347</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> p.347</span>
 </li>
 </ol></div>
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](Ruth_S._Noel.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](../H/Helge_Fauskanger.md)

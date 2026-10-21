@@ -1,6 +1,5 @@
 ---
 title: "File:The Monsters and the Critics 2025.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Monsters and the Critics 2025.jpeg</span>"
 page_id: 70981
 namespace: 6
 revision_id: 423841

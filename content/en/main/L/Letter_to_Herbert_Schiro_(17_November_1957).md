@@ -21,9 +21,9 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Brief_an_Herbert_Schiro_(17._November_1957)"
 ---
 
-On [17 November](/wiki/17_November) [1957](/wiki/1957), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Herbert Schiro**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [17 November](../_/17_November.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Herbert Schiro**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Publication:** *[Mythlore 10](/wiki/Mythlore_10)* (1975). Most of the letter was published in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)* as [letter 203](/wiki/Letter_203 "Letter 203").
+- **Publication:** *[Mythlore 10](../M/Mythlore_10.md)* (1975). Most of the letter was published in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* as [letter 203](Letter_203.md).
 
 <span></span>
 
@@ -31,6 +31,6 @@ On [17 November](/wiki/17_November) [1957](/wiki/1957), [J.R.R. Tolkien](/wiki/J
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 514</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 514</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Grond - Banner of the House of Eorl.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grond - Banner of the House of Eorl.png</span>"
 page_id: 70815
 namespace: 6
 revision_id: 439853
@@ -27,19 +26,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/User:Grond" title="User:Grond">Grond</a></td>
+<td><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Own work, adapting a public domain design</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

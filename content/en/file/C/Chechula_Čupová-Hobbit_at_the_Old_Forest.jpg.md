@@ -1,6 +1,5 @@
 ---
 title: "File:Chechula Čupová-Hobbit at the Old Forest.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chechula Čupová-Hobbit at the Old Forest.jpg</span>"
 page_id: 70474
 namespace: 6
 revision_id: 420073
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Chechula Čupová</li>
 <li><b>Website:</b> <a class="external text" href="https://www.patreon.com/chechula" rel="noreferrer noopener" target="_blank">Patreon</a> · <a class="external text" href="https://www.instagram.com/chechulacupova" rel="noreferrer noopener" target="_blank">Instagram</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Chechula_%C4%8Cupov%C3%A1" title="Tolkien Gateway:Copyrights/Chechula Čupová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FChechula_Čupová.md" title="Tolkien Gateway:Copyrights/Chechula Čupová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

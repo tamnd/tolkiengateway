@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Uglúk Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Uglúk Icon.jpg</span>"
 page_id: 71356
 namespace: 6
 revision_id: 425773
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Uglúk - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+Uglúk - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Colin C. Throm"
-display_title: "<span class=\"mw-page-title-main\">Colin C. Throm</span>"
 page_id: 9204
 namespace: 0
 revision_id: 405117
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Throm, Colin"
 ---
 
-**Colin C. Throm** has created numerous [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired illustrations.
+**Colin C. Throm** has created numerous [Tolkien](../J/J.R.R._Tolkien.md)-inspired illustrations.
 
 ## See also {#See_also}
 
-- [Images by Colin Throm](/wiki/Category:Images_by_Colin_C._Throm "Category:Images by Colin C. Throm")
+- [Images by Colin Throm](../../category/I/Images_by_Colin_C._Throm.md)
 
 ## External links {#External_links}
 

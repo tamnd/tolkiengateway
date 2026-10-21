@@ -13,33 +13,33 @@ categories:
   - "Quenya nouns"
 ---
 
-**quenta** is a [Quenya](/wiki/Quenya) word translated as "account, narrative, story".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**quenta** is a [Quenya](Quenya.md) word translated as "account, narrative, story".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The word derives from the [PQ](/wiki/PQ) noun \*<i><a class="new" href="/w/index.php?title=Kwent%C3%A2&amp;action=edit&amp;redlink=1" title="Kwentâ (page does not exist)">kwentâ</a></i> &lt; [root](/wiki/Root "Root") [KWET](/wiki/KWET).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+The word derives from the [PQ](../P/PQ.md) noun \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kwent%C3%A2&amp;action=edit&amp;redlink=1" title="Kwentâ (page does not exist)">kwentâ</a></i> &lt; [root](../R/Root.md) [KWET](../K/KWET.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- <a class="new" href="/w/index.php?title=Quentale&amp;action=edit&amp;redlink=1" title="Quentale (page does not exist)">quentale</a>
-- <a class="new" href="/w/index.php?title=Quentaro&amp;action=edit&amp;redlink=1" title="Quentaro (page does not exist)">quentaro</a>
-- <a class="new" href="/w/index.php?title=Quentasta&amp;action=edit&amp;redlink=1" title="Quentasta (page does not exist)">quentasta</a>
-- <a class="new" href="/w/index.php?title=L%C3%BAmequenta&amp;action=edit&amp;redlink=1" title="Lúmequenta (page does not exist)">lúmequenta</a>
-- [Valaquenta](/wiki/Valaquenta)
-- [Quenta Silmarillion](/wiki/Quenta_Silmarillion)
-- [Quenta Noldorinwa](/wiki/Quenta_Noldorinwa)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Quentale&amp;action=edit&amp;redlink=1" title="Quentale (page does not exist)">quentale</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Quentaro&amp;action=edit&amp;redlink=1" title="Quentaro (page does not exist)">quentaro</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Quentasta&amp;action=edit&amp;redlink=1" title="Quentasta (page does not exist)">quentasta</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%BAmequenta&amp;action=edit&amp;redlink=1" title="Lúmequenta (page does not exist)">lúmequenta</a>
+- [Valaquenta](../V/Valaquenta.md)
+- [Quenta Silmarillion](Quenta_Silmarillion.md)
+- [Quenta Noldorinwa](Quenta_Noldorinwa.md)
 
 ### Note {#Note}
 
-*Quenta* is also the past participle of the verb <i><a class="new" href="/w/index.php?title=Quet-&amp;action=edit&amp;redlink=1" title="Quet- (page does not exist)">quet-</a></i> "speak", meaning "said". It is seen in several compounds.
+*Quenta* is also the past participle of the verb <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quet-&amp;action=edit&amp;redlink=1" title="Quet- (page does not exist)">quet-</a></i> "speak", meaning "said". It is seen in several compounds.
 
-- <i><a class="new" href="/w/index.php?title=Alaquenta&amp;action=edit&amp;redlink=1" title="Alaquenta (page does not exist)">alaquenta</a></i> "well (happily) said"<sup id="cite_ref-PE_3-0" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
-- <i><a class="new" href="/w/index.php?title=Hanquenta&amp;action=edit&amp;redlink=1" title="Hanquenta (page does not exist)">hanquenta</a></i> "answer"<sup id="cite_ref-PE_3-1" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
-- <i><a class="new" href="/w/index.php?title=Manaquenta&amp;action=edit&amp;redlink=1" title="Manaquenta (page does not exist)">manaquenta</a></i> "blessed"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Alaquenta&amp;action=edit&amp;redlink=1" title="Alaquenta (page does not exist)">alaquenta</a></i> "well (happily) said"<sup id="cite_ref-PE_3-0" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hanquenta&amp;action=edit&amp;redlink=1" title="Hanquenta (page does not exist)">hanquenta</a></i> "answer"<sup id="cite_ref-PE_3-1" class="reference"><a href="#cite_note-PE-3">[3]</a></sup>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Manaquenta&amp;action=edit&amp;redlink=1" title="Manaquenta (page does not exist)">manaquenta</a></i> "blessed"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Pent&amp;action=edit&amp;redlink=1" title="Pent (page does not exist)">pent</a>, <a class="new" href="/w/index.php?title=Pennas&amp;action=edit&amp;redlink=1" title="Pennas (page does not exist)">pennas</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pent&amp;action=edit&amp;redlink=1" title="Pent (page does not exist)">pent</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pennas&amp;action=edit&amp;redlink=1" title="Pennas (page does not exist)">pennas</a></i>
 
 ## Inspiration {#Inspiration}
 
@@ -48,12 +48,12 @@ In Spanish *cuento* means "story". <span></span>
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D: <i>Appendix</i>: Noldorin words for Language</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_39" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 16</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="Quendi_and_Eldar.md" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D: <i>Appendix</i>: Noldorin words for Language</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_39.md" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 16</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;</span>
 </li>
-<li id="cite_note-PE-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_3-0">3.0</a></sup> <sup><a href="#cite_ref-PE_3-1">3.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>)</span>
+<li id="cite_note-PE-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE_3-0">3.0</a></sup> <sup><a href="#cite_ref-PE_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>)</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;&#39;Words of Joy&#39;: Five Catholic Prayers in Quenya — Part Two&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_44" title="Vinyar Tengwar 44"><i>Vinyar Tengwar</i>, Number 44</a>, June 2002, pp. 5, 10-11</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;&#39;Words of Joy&#39;: Five Catholic Prayers in Quenya — Part Two&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_44.md" title="Vinyar Tengwar 44"><i>Vinyar Tengwar</i>, Number 44</a>, June 2002, pp. 5, 10-11</span>
 </li>
 </ol></div>

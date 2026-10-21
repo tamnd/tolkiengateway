@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lambë"
 ---
 
-Redirect to [Lambë](/wiki/Lambë).
+Redirect to [Lambë](Lambë.md).

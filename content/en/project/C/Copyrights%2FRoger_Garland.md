@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Roger Garland"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Roger Garland</span>"
 page_id: 37390
 namespace: 4
 revision_id: 193183
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Garland, Roger"
 ---
 
-- [Roger Garland](/wiki/Roger_Garland) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Roger_Garland "Category:Images by Roger Garland") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Roger Garland](../../main/R/Roger_Garland.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Roger_Garland.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 December 2011
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

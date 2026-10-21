@@ -1,6 +1,5 @@
 ---
 title: "Category:Journals"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Journals</span>"
 page_id: 8171
 namespace: 14
 revision_id: 104743
@@ -13,4 +12,4 @@ categories:
   - "Periodicals"
 ---
 
-Scholarly publications generally published on a regular schedule, containing a variety of articles. See also *[Magazines](/wiki/Category:Magazines "Category:Magazines")*.
+Scholarly publications generally published on a regular schedule, containing a variety of articles. See also *[Magazines](../M/Magazines.md)*.

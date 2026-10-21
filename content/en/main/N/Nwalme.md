@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nwalmë"
 ---
 
-Redirect to [Nwalmë](/wiki/Nwalmë).
+Redirect to [Nwalmë](Nwalmë.md).

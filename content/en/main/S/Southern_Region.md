@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "England"
 ---
 
-Redirect to [England](/wiki/England).
+Redirect to [England](https://tolkiengateway.net/wiki/England).

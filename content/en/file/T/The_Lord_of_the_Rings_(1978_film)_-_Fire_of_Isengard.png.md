@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Fire of Isengard.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Fire of Isengard.png</span>"
 page_id: 71550
 namespace: 6
 revision_id: 436195
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Fire of Isengard](/wiki/Fire_of_Orthanc "Fire of Orthanc") - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)")
+The [Fire of Isengard](../../main/F/Fire_of_Orthanc.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>)
 
 ## Licensing {#Licensing}
 

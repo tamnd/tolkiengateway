@@ -1,6 +1,5 @@
 ---
 title: "Radhrim"
-display_title: "<span class=\"mw-page-title-main\">Radhrim</span>"
 page_id: 36047
 namespace: 0
 revision_id: 310884
@@ -20,15 +19,15 @@ langlinks:
     url: "https://kontu.wiki/Radhrim"
 ---
 
-**Radhrim** (Raðrim) was a forested region in eastern [Doriath](/wiki/Doriath), located between the rivers [Aros](/wiki/Aros) and [Celon](/wiki/Celon).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Although what appears to be the same region is also called [Arthórien](/wiki/Arth%C3%B3rien),<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> it is unknown if these two regions were the same (or if one was situated within the other).
+**Radhrim** (Raðrim) was a forested region in eastern [Doriath](../D/Doriath.md), located between the rivers [Aros](../A/Aros.md) and [Celon](../C/Celon.md).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Although what appears to be the same region is also called [Arthórien](../A/Arthórien.md),<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> it is unknown if these two regions were the same (or if one was situated within the other).
 
 ## Etymology {#Etymology}
 
-In the [*Etymologies*](/wiki/The_Etymologies "The Etymologies"), the [Doriathrin](/wiki/Doriathrin) name *Radhrim* is glossed as "East-march".<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+In the [*Etymologies*](../T/The_Etymologies.md), the [Doriathrin](../D/Doriathrin.md) name *Radhrim* is glossed as "East-march".<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Arthórien](/wiki/Arth%C3%B3rien)
+- [Arthórien](../A/Arthórien.md)
 
 <span></span>
 
@@ -36,8 +35,8 @@ In the [*Etymologies*](/wiki/The_Etymologies "The Etymologies"), the [Doriathrin
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-WJBeleriand-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WJBeleriand_1-0">1.0</a></sup> <sup><a href="#cite_ref-WJBeleriand_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Two. The Later <i>Quenta Silmarillion</i>: Of Beleriand its Realms (Chapter 11)&#34;, pp. 183, 189</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Two. The Later <i>Quenta Silmarillion</i>: Of Beleriand its Realms (Chapter 11)&#34;, pp. 183, 189</span>
 </li>
-<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, pp. 382-3 (entries RAD- and RĪ-)</span>
+<li id="cite_note-LR-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_2-0">2.0</a></sup> <sup><a href="#cite_ref-LR_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, pp. 382-3 (entries RAD- and RĪ-)</span>
 </li>
 </ol></div>

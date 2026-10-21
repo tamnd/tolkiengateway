@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angerthas Daeron"
 ---
 
-Redirect to [Angerthas Daeron](/wiki/Angerthas_Daeron).
+Redirect to [Angerthas Daeron](../A/Angerthas_Daeron.md).

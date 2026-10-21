@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valimar"
 ---
 
-Redirect to [Valimar](/wiki/Valimar).
+Redirect to [Valimar](Valimar.md).

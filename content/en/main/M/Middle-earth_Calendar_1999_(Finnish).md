@@ -15,9 +15,9 @@ images:
   - "Middle-earth_Calendar_1999_(Finnish).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Middle-earth_Calendar_1999_(Finnish).jpg"><img src="/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/300px-Middle-earth_Calendar_1999_%28Finnish%29.jpg" decoding="async" loading="lazy" width="300" height="220" class="mw-file-element" srcset="/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/450px-Middle-earth_Calendar_1999_%28Finnish%29.jpg 1.5x, /w/images/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg 2x" data-file-width="478" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_1999_(Finnish).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/300px-Middle-earth_Calendar_1999_%28Finnish%29.jpg" decoding="async" loading="lazy" width="300" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/450px-Middle-earth_Calendar_1999_%28Finnish%29.jpg 1.5x, https://tolkiengateway.net/w/images/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg 2x" data-file-width="478" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Middle-earth Calendar 1999** was produced by the [Finnish Tolkien Society](/wiki/Finnish_Tolkien_Society) and includes pen and ink illustrations by various artists.
+**Middle-earth Calendar 1999** was produced by the [Finnish Tolkien Society](../F/Finnish_Tolkien_Society.md) and includes pen and ink illustrations by various artists.
 
 - Dimensions: 11 5/8 x 8.25 inches
 - Stapled

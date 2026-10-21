@@ -12,23 +12,23 @@ categories:
   - "Quenya suffixes"
 ---
 
-<i><b>-(n)dacil</b></i> means "victor" in [Quenya](/wiki/Quenya).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-(n)dacil</b></i> means "victor" in [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a class="mw-redirect mw-disambig" href="/wiki/Hyarmendacil" title="Hyarmendacil">Hyarmen<b>dacil</b></a></i> = "[South](/wiki/Hyarmen "Hyarmen")-victor"
-- <i><a class="mw-redirect mw-disambig" href="/wiki/R%C3%B3mendacil" title="Rómendacil">Rómen<b>dacil</b></a></i> = "[East](/wiki/R%C3%B3men "Rómen")-victor"
-- <i><a class="mw-redirect" href="/wiki/Umbardacil" title="Umbardacil">Umbar<b>dacil</b></a></i> = "Conqueror of [Umbar](/wiki/Umbar)"
+- <i><a class="mw-redirect mw-disambig" href="../H/Hyarmendacil.md" title="Hyarmendacil">Hyarmen<b>dacil</b></a></i> = "[South](../H/Hyarmen.md)-victor"
+- <i><a class="mw-redirect mw-disambig" href="../R/Rómendacil.md" title="Rómendacil">Rómen<b>dacil</b></a></i> = "[East](../R/Rómen.md)-victor"
+- <i><a class="mw-redirect" href="../U/Umbardacil.md" title="Umbardacil">Umbar<b>dacil</b></a></i> = "Conqueror of [Umbar](../U/Umbar.md)"
 
 ## Cognate {#Cognate}
 
-- [Sindarin](/wiki/Sindarin) *[dagnir](/wiki/Dagnir "Dagnir")*
+- [Sindarin](../S/Sindarin.md) *[dagnir](../D/Dagnir.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;VII. <a href="/wiki/The_Heirs_of_Elendil" title="The Heirs of Elendil">The Heirs of Elendil</a>&#34;, pp. 197-198</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;VII. <a href="../T/The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a>&#34;, pp. 197-198</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Letter to Michael Blashka"
-display_title: "<span class=\"mw-page-title-main\">Letter to Michael Blashka</span>"
 page_id: 27635
 namespace: 0
 revision_id: 406275
@@ -17,13 +16,13 @@ images:
   - "Michael_Blashka_late_1960s.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Michael_Blashka_late_1960s.jpg"><img src="/w/images/thumb/4/44/Michael_Blashka_late_1960s.jpg/300px-Michael_Blashka_late_1960s.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="/w/images/4/44/Michael_Blashka_late_1960s.jpg 1.5x" data-file-width="363" data-file-height="489"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Michael_Blashka_late_1960s.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/44/Michael_Blashka_late_1960s.jpg/300px-Michael_Blashka_late_1960s.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/44/Michael_Blashka_late_1960s.jpg 1.5x" data-file-width="363" data-file-height="489"/></a><figcaption></figcaption></figure>
 
-In the late 1960s, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") for Michael Blashka**.
+In the late 1960s, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) for Michael Blashka**.
 
-- **Description:** A 2pp. holograph letter, written in the third person and sent to his assistant [Joy Hill](/wiki/Joy_Hill), presumably for her to type and send on, being a response to a letter received from a devoted fan, with a 1p. note of commentary for Ms Hill. Headington, Oxford, \[no date but probably late 1960s\]. Together, 3pp. on 2ll. with a printed letterhead, small 8vo (sheet size: 7 x 5 1/2 inches; 178 x136 mm.)
+- **Description:** A 2pp. holograph letter, written in the third person and sent to his assistant [Joy Hill](../J/Joy_Hill.md), presumably for her to type and send on, being a response to a letter received from a devoted fan, with a 1p. note of commentary for Ms Hill. Headington, Oxford, \[no date but probably late 1960s\]. Together, 3pp. on 2ll. with a printed letterhead, small 8vo (sheet size: 7 x 5 1/2 inches; 178 x136 mm.)
 - **In reply to:** Letter sent from the fan, Michael Blashka, to Tolkien. East Northport, Long Island, New York, \[no date but probably late 1960s\]. 4pp. on 4ll, 4to (sheet size roughly: 11 x 8 1/2 inches; 277 x 217 mm.)
-- **Publication:** Excerpts, description, and photograph of the letter was included in *[Bloomsbury Manuscripts and Autograph Letters, Continental and English Literature and History, and Modern First Editions 15 June 2006](/wiki/Bloomsbury_Manuscripts_and_Autograph_Letters,_Continental_and_English_Literature_and_History,_and_Modern_First_Editions_15_June_2006)*.
+- **Publication:** Excerpts, description, and photograph of the letter was included in *[Bloomsbury Manuscripts and Autograph Letters, Continental and English Literature and History, and Modern First Editions 15 June 2006](../B/Bloomsbury_Manuscripts_and_Autograph_Letters,_Continental_and_English_Literature_and_History,_and_Modern_First_Editions_15_June_2006.md)*.
 
 ## Contents and excerpts {#Contents_and_excerpts}
 

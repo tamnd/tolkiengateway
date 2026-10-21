@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Společnost Přátel Díla Pana JRRTolkiena"
 ---
 
-Redirect to [Společnost Přátel Díla Pana JRRTolkiena](/wiki/Společnost_Přátel_Díla_Pana_JRRTolkiena).
+Redirect to [Společnost Přátel Díla Pana JRRTolkiena](../S/Společnost_Přátel_Díla_Pana_JRRTolkiena.md).

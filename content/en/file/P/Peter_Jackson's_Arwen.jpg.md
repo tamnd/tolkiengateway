@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Jackson's Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Jackson&#039;s Arwen.jpg</span>"
 page_id: 21617
 namespace: 6
 revision_id: 205141

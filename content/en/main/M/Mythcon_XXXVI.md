@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien 2005"
 ---
 
-Redirect to [Tolkien 2005](/wiki/Tolkien_2005).
+Redirect to [Tolkien 2005](../T/Tolkien_2005.md).

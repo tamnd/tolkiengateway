@@ -1,6 +1,5 @@
 ---
 title: "File:Raphael Rau - The One Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Raphael Rau - The One Ring.jpg</span>"
 page_id: 40707
 namespace: 6
 revision_id: 206706
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Raphael Rau</li>
 <li><b>Website:</b> <a class="external text" href="http://www.silverwing-vfx.de/" rel="noreferrer noopener" target="_blank">Raphael Rau&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Raphael_Rau" title="Tolkien Gateway:Copyrights/Raphael Rau">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRaphael_Rau.md" title="Tolkien Gateway:Copyrights/Raphael Rau">Permission for use on Tolkien Gateway</a></b></li></ul></div>

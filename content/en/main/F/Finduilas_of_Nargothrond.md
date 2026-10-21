@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finduilas"
 ---
 
-Redirect to [Finduilas](/wiki/Finduilas).
+Redirect to [Finduilas](Finduilas.md).

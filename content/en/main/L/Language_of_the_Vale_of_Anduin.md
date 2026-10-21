@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Northern Mannish"
 ---
 
-Redirect to [Northern Mannish](/wiki/Northern_Mannish).
+Redirect to [Northern Mannish](../N/Northern_Mannish.md).

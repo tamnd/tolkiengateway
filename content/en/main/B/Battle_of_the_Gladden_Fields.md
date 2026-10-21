@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Disaster of the Gladden Fields"
 ---
 
-Redirect to [Disaster of the Gladden Fields](/wiki/Disaster_of_the_Gladden_Fields).
+Redirect to [Disaster of the Gladden Fields](../D/Disaster_of_the_Gladden_Fields.md).

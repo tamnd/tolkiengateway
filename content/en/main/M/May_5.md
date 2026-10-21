@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "5 May"
 ---
 
-Redirect to [5 May](/wiki/5_May).
+Redirect to [5 May](../_/5_May.md).

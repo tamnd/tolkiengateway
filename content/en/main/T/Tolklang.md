@@ -1,6 +1,5 @@
 ---
 title: "Tolklang"
-display_title: "<span class=\"mw-page-title-main\">Tolklang</span>"
 page_id: 13051
 namespace: 0
 revision_id: 415123
@@ -18,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/TolkLang"
 ---
 
-**Tolklang** was a mailing list dedicated to the languages of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). It was started on November 1, [1990](/wiki/1990), and was moderated by [Julian C. Bradfield](/wiki/Julian_C._Bradfield). The last message in the archive is from [2013](/wiki/2013).
+**Tolklang** was a mailing list dedicated to the languages of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). It was started on November 1, [1990](../_/1990.md), and was moderated by [Julian C. Bradfield](../J/Julian_C._Bradfield.md). The last message in the archive is from [2013](../_/2013.md).
 
 ## External links {#External_links}
 

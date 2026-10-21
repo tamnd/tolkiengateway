@@ -1,6 +1,5 @@
 ---
 title: "File:O poveste cu un hobbit (1975 spine).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">O poveste cu un hobbit (1975 spine).jpg</span>"
 page_id: 26821
 namespace: 6
 revision_id: 350800

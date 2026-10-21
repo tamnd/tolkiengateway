@@ -1,6 +1,5 @@
 ---
 title: "Anna Lee"
-display_title: "<span class=\"mw-page-title-main\">Anna Lee</span>"
 page_id: 24437
 namespace: 0
 revision_id: 178956
@@ -23,7 +22,7 @@ sort_keys:
 
 ## See also {#See_also}
 
-- [Images by Anna Lee](/wiki/Category:Images_by_Anna_Lee "Category:Images by Anna Lee")
+- [Images by Anna Lee](../../category/I/Images_by_Anna_Lee.md)
 
 ## External links {#External_links}
 

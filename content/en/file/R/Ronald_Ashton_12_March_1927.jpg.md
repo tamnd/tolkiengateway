@@ -1,6 +1,5 @@
 ---
 title: "File:Ronald Ashton 12 March 1927.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ronald Ashton 12 March 1927.jpg</span>"
 page_id: 40494
 namespace: 6
 revision_id: 215110

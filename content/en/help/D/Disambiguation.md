@@ -11,4 +11,4 @@ redirect_target: "Tolkien Gateway:Naming policy"
 redirect_fragment: "Disambiguation"
 ---
 
-Redirect to [Tolkien Gateway:Naming policy](/wiki/Tolkien_Gateway:Naming_policy#Disambiguation).
+Redirect to [Tolkien Gateway:Naming policy](../../project/N/Naming_policy.md#Disambiguation).

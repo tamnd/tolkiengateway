@@ -15,16 +15,16 @@ sort_keys:
   "Quenya nouns": "Nute"
 ---
 
-**núte** in [Quenya](/wiki/Quenya) means "bond, knot"
+**núte** in [Quenya](../Q/Quenya.md) means "bond, knot"
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) \**nûtê* or \**nutê* from [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
+[PQ](../P/PQ.md) \**nûtê* or \**nutê* from [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NUT&amp;action=edit&amp;redlink=1" title="NUT (page does not exist)">NUT</a>.
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) ([Noldorin](/wiki/Noldorin)) <i><a class="new" href="/w/index.php?title=N%C3%BBd&amp;action=edit&amp;redlink=1" title="Nûd (page does not exist)">nûd</a></i>
+- [Sindarin](../S/Sindarin.md) ([Noldorin](Noldorin.md)) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%BBd&amp;action=edit&amp;redlink=1" title="Nûd (page does not exist)">nûd</a></i>
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=Nauta&amp;action=edit&amp;redlink=1" title="Nauta (page does not exist)">nauta</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nauta&amp;action=edit&amp;redlink=1" title="Nauta (page does not exist)">nauta</a>

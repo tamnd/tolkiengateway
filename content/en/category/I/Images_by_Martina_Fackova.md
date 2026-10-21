@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Martina Fackova"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Martina Fackova</span>"
 page_id: 72802
 namespace: 14
 revision_id: 431446
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Fackova, Martina"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Martina_Fackova&amp;action=edit&amp;redlink=1" title="Martina Fackova (page does not exist)">Martina Fackova</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Martina_Fackova&amp;action=edit&amp;redlink=1" title="Martina Fackova (page does not exist)">Martina Fackova</a></b>.

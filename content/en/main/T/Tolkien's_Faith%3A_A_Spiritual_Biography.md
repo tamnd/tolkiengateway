@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Faith"
 ---
 
-Redirect to [Tolkien's Faith](/wiki/Tolkien's_Faith).
+Redirect to [Tolkien's Faith](Tolkien's_Faith.md).

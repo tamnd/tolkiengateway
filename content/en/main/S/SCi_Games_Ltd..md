@@ -1,6 +1,5 @@
 ---
 title: "SCi Games Ltd."
-display_title: "<span class=\"mw-page-title-main\">SCi Games Ltd.</span>"
 page_id: 28011
 namespace: 0
 revision_id: 190122
@@ -15,7 +14,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**SCi Games Ltd.** is the publisher and developer of [Kingdom O' Magic](/wiki/Kingdom_O%27_Magic).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**SCi Games Ltd.** is the publisher and developer of [Kingdom O' Magic](../K/Kingdom_O'_Magic.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

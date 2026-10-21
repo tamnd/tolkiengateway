@@ -1,6 +1,5 @@
 ---
 title: "File:Poetry and Song in the works of J.R.R. Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poetry and Song in the works of J.R.R. Tolkien.jpg</span>"
 page_id: 55280
 namespace: 6
 revision_id: 300446

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Regent (disambiguation)"
 ---
 
-Redirect to [Regent (disambiguation)](/wiki/Regent_(disambiguation)).
+Redirect to [Regent (disambiguation)](<Regent_(disambiguation).md>).

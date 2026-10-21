@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Larry Forcella"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Larry Forcella</span>"
 page_id: 28857
 namespace: 14
 revision_id: 182061

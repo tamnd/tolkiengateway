@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Swans"
 ---
 
-Redirect to [Swans](/wiki/Swans).
+Redirect to [Swans](Swans.md).

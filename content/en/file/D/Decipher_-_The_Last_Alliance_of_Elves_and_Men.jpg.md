@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - The Last Alliance of Elves and Men.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - The Last Alliance of Elves and Men.jpg</span>"
 page_id: 22622
 namespace: 6
 revision_id: 211686

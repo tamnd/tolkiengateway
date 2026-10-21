@@ -1,6 +1,5 @@
 ---
 title: "File:Matt Stewart - The Black Rider.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matt Stewart - The Black Rider.jpg</span>"
 page_id: 37819
 namespace: 6
 revision_id: 182526
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Matt Stewart</li>
 <li><b>Website:</b> <a class="external text" href="http://www.matthew-stewart.com/" rel="noreferrer noopener" target="_blank">Matt Stewart&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Matt_Stewart" title="Tolkien Gateway:Copyrights/Matt Stewart">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMatt_Stewart.md" title="Tolkien Gateway:Copyrights/Matt Stewart">Permission for use on Tolkien Gateway</a></b></li></ul></div>

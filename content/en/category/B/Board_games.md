@@ -1,6 +1,5 @@
 ---
 title: "Category:Board games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Board games</span>"
 page_id: 11580
 namespace: 14
 revision_id: 195942
@@ -13,4 +12,4 @@ categories:
   - "Games"
 ---
 
-This category lists all **board games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **board games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

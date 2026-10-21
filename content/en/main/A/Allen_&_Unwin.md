@@ -1,6 +1,5 @@
 ---
 title: "Allen & Unwin"
-display_title: "<span class=\"mw-page-title-main\">Allen &amp; Unwin</span>"
 page_id: 5862
 namespace: 0
 revision_id: 423367
@@ -26,16 +25,16 @@ langlinks:
     url: "https://kontu.wiki/Allen_and_Unwin"
 ---
 
-**Allen &amp; Unwin** is a book publisher. It was the first publishing company that published *[The Hobbit](/wiki/The_Hobbit)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+**Allen &amp; Unwin** is a book publisher. It was the first publishing company that published *[The Hobbit](../T/The_Hobbit.md)* and *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-The initial firm of *George Allen &amp; Sons* was established in 1871, but became *George Allen &amp; Unwin* on [4 August](/wiki/4_August) [1914](/wiki/1914) when [Stanley Unwin](/wiki/Stanley_Unwin) purchased a controlling interest. In [1936](/wiki/1936), [Rayner Unwin](/wiki/Rayner_Unwin) was given the manuscript of *The Hobbit* and was paid a sixpence to report back on it to his father. His report was favourable, and the company published the book. Rayner Unwin would later lead the company himself, until his retirement in [1985](/wiki/1985).
+The initial firm of *George Allen &amp; Sons* was established in 1871, but became *George Allen &amp; Unwin* on [4 August](../_/4_August.md) [1914](../_/1914.md) when [Stanley Unwin](../S/Stanley_Unwin.md) purchased a controlling interest. In [1936](../_/1936.md), [Rayner Unwin](../R/Rayner_Unwin.md) was given the manuscript of *The Hobbit* and was paid a sixpence to report back on it to his father. His report was favourable, and the company published the book. Rayner Unwin would later lead the company himself, until his retirement in [1985](../_/1985.md).
 
-In [10 July](/wiki/10_July) [1990](/wiki/1990) the company was bought by [HarperCollins](/wiki/HarperCollins) and ceased to exist as a company in the United Kingdom, but continued separately in [Australia](/wiki/Australia) and [New Zealand](/wiki/New_Zealand).
+In [10 July](../_/10_July.md) [1990](../_/1990.md) the company was bought by [HarperCollins](../H/HarperCollins.md) and ceased to exist as a company in the United Kingdom, but continued separately in [Australia](Australia.md) and [New Zealand](../N/New_Zealand.md).
 
 ## See also {#See_also}
 
-- [Rayner Unwin](/wiki/Rayner_Unwin)
-- [Stanley Unwin](/wiki/Stanley_Unwin)
+- [Rayner Unwin](../R/Rayner_Unwin.md)
+- [Stanley Unwin](../S/Stanley_Unwin.md)
 
 ## External links {#External_links}
 

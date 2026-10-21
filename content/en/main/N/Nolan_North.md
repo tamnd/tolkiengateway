@@ -1,6 +1,5 @@
 ---
 title: "Nolan North"
-display_title: "<span class=\"mw-page-title-main\">Nolan North</span>"
 page_id: 27917
 namespace: 0
 revision_id: 320737
@@ -19,16 +18,16 @@ sort_keys:
   "People by name": "North, Nolan"
 ---
 
-**Nolan Ramsay North** ([October 31](/wiki/31_October "31 October"), [1970](/wiki/1970)) is an accomplished actor and voice actor, with many video-game and television credits.
+**Nolan Ramsay North** ([October 31](../_/31_October.md), [1970](../_/1970.md)) is an accomplished actor and voice actor, with many video-game and television credits.
 
 ## Roles {#Roles}
 
-- [2017](/wiki/2017): *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)* - [Isildur](/wiki/Isildur), Tarandor, Zog, Nemesis Orcs, Humans
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - Black Hand
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - [Eradan](</wiki/Eradan_(video_game_character)> "Eradan (video game character)")
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: Evil Human Officer #2 / Gondorian Officer #2
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)*: Additional voices
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
+- [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Isildur](../I/Isildur.md), Tarandor, Zog, Nemesis Orcs, Humans
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - Black Hand
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Eradan](<../E/Eradan_(video_game_character).md>)
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: Evil Human Officer #2 / Gondorian Officer #2
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finrod"
 ---
 
-Redirect to [Finrod](/wiki/Finrod).
+Redirect to [Finrod](Finrod.md).

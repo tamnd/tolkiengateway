@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dunharrow"
 ---
 
-Redirect to [Dunharrow](/wiki/Dunharrow).
+Redirect to [Dunharrow](Dunharrow.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Hurin CD Cover.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hurin CD Cover.png</span>"
 page_id: 65174
 namespace: 6
 revision_id: 378369

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Certhas Daeron"
 ---
 
-Redirect to [Certhas Daeron](/wiki/Certhas_Daeron).
+Redirect to [Certhas Daeron](Certhas_Daeron.md).

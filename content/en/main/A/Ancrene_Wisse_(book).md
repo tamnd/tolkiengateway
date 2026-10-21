@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ancrene Wisse"
 ---
 
-Redirect to [Ancrene Wisse](/wiki/Ancrene_Wisse).
+Redirect to [Ancrene Wisse](Ancrene_Wisse.md).

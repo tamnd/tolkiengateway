@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "William, Tom, and Bert"
 ---
 
-Redirect to [William, Tom, and Bert](/wiki/William,_Tom,_and_Bert).
+Redirect to [William, Tom, and Bert](William,_Tom,_and_Bert.md).

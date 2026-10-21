@@ -1,6 +1,5 @@
 ---
 title: "File:1968 - Ken Jackson 29 January.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">1968 - Ken Jackson 29 January.JPG</span>"
 page_id: 45742
 namespace: 6
 revision_id: 243534

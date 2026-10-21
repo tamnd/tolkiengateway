@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pinnath Gelin"
 ---
 
-Redirect to [Pinnath Gelin](/wiki/Pinnath_Gelin).
+Redirect to [Pinnath Gelin](../P/Pinnath_Gelin.md).

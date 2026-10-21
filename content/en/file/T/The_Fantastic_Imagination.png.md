@@ -1,6 +1,5 @@
 ---
 title: "File:The Fantastic Imagination.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fantastic Imagination.png</span>"
 page_id: 38091
 namespace: 6
 revision_id: 214630

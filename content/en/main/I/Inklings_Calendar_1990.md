@@ -15,6 +15,6 @@ sort_keys:
   "Calendars (real-world)": "1990, Inklings"
 ---
 
-**Inklings Calendar 1990** was published by Three Candle Press and features calligraphy by <a class="new" href="/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
+**Inklings Calendar 1990** was published by Three Candle Press and features calligraphy by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joanne_E._Klein&amp;action=edit&amp;redlink=1" title="Joanne E. Klein (page does not exist)">Joanne E. Klein</a>.
 
 - Dimensions: 11 x 8.5 inches

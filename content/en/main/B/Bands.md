@@ -1,6 +1,5 @@
 ---
 title: "Bands"
-display_title: "<span class=\"mw-page-title-main\">Bands</span>"
 page_id: 5068
 namespace: 0
 revision_id: 442427
@@ -17,38 +16,36 @@ sort_keys:
   "Musicians": " Musicians"
 ---
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Every damn black metal band out there sounds like it was taken from Middle Earth and it seems like there is a band for every character in the writings of JRR Tolkien.
 </p>
 <p class="tg-quote-footer"><cite>Jason Fisher<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
+</blockquote><div class="tg-section-divider"></div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
-There are various **bands** who make music inspired by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") and his works. For the complete list of bands with more than an eponymous connection, see the **[Bands Category](/wiki/Category:Bands "Category:Bands")**.
+There are various **bands** who make music inspired by [Tolkien](../J/J.R.R._Tolkien.md) and his works. For the complete list of bands with more than an eponymous connection, see the **[Bands Category](../../category/B/Bands.md)**.
 
 ## Major Tolkien-themed bands by Genre {#Major_Tolkien-themed_bands_by_Genre}
 
 ### Classical and Early Music {#Classical_and_Early_Music}
 
-- [Clamavi De Profundis](/wiki/Clamavi_De_Profundis)
-- [Tolkien Ensemble](/wiki/Tolkien_Ensemble)
+- [Clamavi De Profundis](../C/Clamavi_De_Profundis.md)
+- [Tolkien Ensemble](../T/Tolkien_Ensemble.md)
 
 ### Folk, Filk and World Music {#Folk,_Filk_and_World_Music}
 
-- [Brobdingnagian Bards](/wiki/Brobdingnagian_Bards)
-- [The Fellowship](</wiki/The_Fellowship_(band)> "The Fellowship (band)")
+- [Brobdingnagian Bards](Brobdingnagian_Bards.md)
+- [The Fellowship](<../T/The_Fellowship_(band).md>)
 
 ### Metal {#Metal}
 
-- [Summoning](/wiki/Summoning)
-- [Blind Guardian](/wiki/Blind_Guardian)
-- [Battlelore](/wiki/Battlelore)
-- [Rivendell](</wiki/Rivendell_(band)> "Rivendell (band)")
+- [Summoning](../S/Summoning.md)
+- [Blind Guardian](Blind_Guardian.md)
+- [Battlelore](Battlelore.md)
+- [Rivendell](<../R/Rivendell_(band).md>)
 
 ### Rock {#Rock}
 
-- [Soundestiny](/wiki/Soundestiny)
+- [Soundestiny](../S/Soundestiny.md)
 
 ## Bands that only have a eponymous connection to Tolkien {#Bands_that_only_have_a_eponymous_connection_to_Tolkien}
 
@@ -80,17 +77,17 @@ There are various **bands** who make music inspired by [Tolkien](/wiki/J.R.R._To
 
 ## See also {#See_also}
 
-- [A list of Bands](/wiki/Category:Bands "Category:Bands")
-- [Music](/wiki/Music)
+- [A list of Bands](../../category/B/Bands.md)
+- [Music](../M/Music.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Jason Fisher, &#34;<a class="external text" href="http://www.thegauntlet.com/article/1225/15327/Top-10-Metal-Bands-With-Names-Taken-From-JRR-Tolkien-Characters.html" rel="noreferrer noopener" target="_blank">Top 10 Metal Bands With Names Taken From JRR Tolkien Characters</a>&#34;, at <i><a class="external text" href="http://www.thegauntlet.com/" rel="noreferrer noopener" target="_blank">The Gauntlet</a></i> (<a href="/wiki/24_February" title="24 February">February 24</a>, <a href="/wiki/2009" title="2009">2009</a>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Jason Fisher, &#34;<a class="external text" href="http://www.thegauntlet.com/article/1225/15327/Top-10-Metal-Bands-With-Names-Taken-From-JRR-Tolkien-Characters.html" rel="noreferrer noopener" target="_blank">Top 10 Metal Bands With Names Taken From JRR Tolkien Characters</a>&#34;, at <i><a class="external text" href="http://www.thegauntlet.com/" rel="noreferrer noopener" target="_blank">The Gauntlet</a></i> (<a href="../_/24_February.md" title="24 February">February 24</a>, <a href="../_/2009.md" title="2009">2009</a>)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://urashima.bandcamp.com/album/death-time" rel="noreferrer noopener" target="_blank">https://urashima.bandcamp.com/album/death-time</a></span>. <span class="cite-web-website"><a class="external text" href="https://urashima.bandcamp.com" rel="noreferrer noopener" target="_blank">urashima.bandcamp.com</a></span>. <span class="cite-web-accessed">Retrieved 3 December 2025</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://urashima.bandcamp.com/album/death-time" rel="noreferrer noopener" target="_blank">https://urashima.bandcamp.com/album/death-time</a></span>. <span class="cite-web-website"><a class="external text" href="https://urashima.bandcamp.com" rel="noreferrer noopener" target="_blank">urashima.bandcamp.com</a></span>. <span class="cite-web-accessed">Retrieved 3 December 2025</span></cite></span>
 </li>
 </ol></div>
 

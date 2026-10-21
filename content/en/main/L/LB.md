@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lays of Beleriand"
 ---
 
-Redirect to [The Lays of Beleriand](/wiki/The_Lays_of_Beleriand).
+Redirect to [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md).

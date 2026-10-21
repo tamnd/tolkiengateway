@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tyelpetéma"
 ---
 
-Redirect to [Tyelpetéma](/wiki/Tyelpetéma).
+Redirect to [Tyelpetéma](Tyelpetéma.md).

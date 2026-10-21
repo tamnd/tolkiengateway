@@ -1,6 +1,5 @@
 ---
 title: "The Tolkien Experience"
-display_title: "<span class=\"mw-page-title-main\">The Tolkien Experience</span>"
 page_id: 64828
 namespace: 0
 revision_id: 407587
@@ -21,7 +20,7 @@ images:
   - "The_Tolkien_Experience_Podcast.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Experience_Podcast.jpg"><img src="/w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/250px-The_Tolkien_Experience_Podcast.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="/w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/375px-The_Tolkien_Experience_Podcast.jpg 1.5x, /w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/500px-The_Tolkien_Experience_Podcast.jpg 2x" data-file-width="3000" data-file-height="3000"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Tolkien_Experience_Podcast.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/250px-The_Tolkien_Experience_Podcast.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/375px-The_Tolkien_Experience_Podcast.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/The_Tolkien_Experience_Podcast.jpg/500px-The_Tolkien_Experience_Podcast.jpg 2x" data-file-width="3000" data-file-height="3000"/></a><figcaption></figcaption></figure>
 
 **The Tolkien Experience** is a two-fold project by Luke Shelton, that encompases the **Tolkien Experience Project** and **Podcast**, both focused on collecting the experiences by fans and scholars.
 
@@ -45,64 +44,64 @@ The guests are asked the same five questions from the Project, with an added six
 
 <dl><dd>6. What Tolkien work, project, or community are you currently working on that we should know about?</dd></dl>
 
-In [2021](/wiki/2021), the podcast received [the Tolkien Society Award](/wiki/The_Tolkien_Society_Award "The Tolkien Society Award") for best online content.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+In [2021](../_/2021.md), the podcast received [the Tolkien Society Award](The_Tolkien_Society_Award.md) for best online content.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ### Episode list {#Episode_list}
 
 <div style="-moz-column-width: 400px; -webkit-column-width: 400px; column-width: 400px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
-<ol><li><a href="/wiki/Dimitra_Fimi" title="Dimitra Fimi">Dimitra Fimi</a></li>
-<li><a href="/wiki/Janet_Brennan_Croft" title="Janet Brennan Croft">Janet Brennan Croft</a></li>
-<li><a href="/wiki/Andrew_Higgins" title="Andrew Higgins">Andrew Higgins</a></li>
-<li><a href="/wiki/James_Tauber" title="James Tauber">James Tauber</a></li>
-<li><a href="/wiki/Shaun_Gunner" title="Shaun Gunner">Shaun Gunner</a></li>
-<li><a href="/wiki/Corey_Olsen" title="Corey Olsen">Corey Olsen</a> (part 1)</li>
+<ol><li><a href="../D/Dimitra_Fimi.md" title="Dimitra Fimi">Dimitra Fimi</a></li>
+<li><a href="../J/Janet_Brennan_Croft.md" title="Janet Brennan Croft">Janet Brennan Croft</a></li>
+<li><a href="../A/Andrew_Higgins.md" title="Andrew Higgins">Andrew Higgins</a></li>
+<li><a href="../J/James_Tauber.md" title="James Tauber">James Tauber</a></li>
+<li><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></li>
+<li><a href="../C/Corey_Olsen.md" title="Corey Olsen">Corey Olsen</a> (part 1)</li>
 <li>Corey Olsen (part 2)</li>
 <li>Mina Lukic</li>
 <li>Dawn Walls-Thuma</li>
 <li>Margaret Killjoy</li>
 <li>Una McCormack</li>
-<li><a href="/wiki/John_Garth" title="John Garth">John Garth</a></li>
-<li><a href="/wiki/Cliff_Broadway" title="Cliff Broadway">Cliff Broadway</a></li>
-<li><a class="new" href="/w/index.php?title=Jeremy_Edmonds&amp;action=edit&amp;redlink=1" title="Jeremy Edmonds (page does not exist)">Jeremy Edmonds</a></li>
+<li><a href="../J/John_Garth.md" title="John Garth">John Garth</a></li>
+<li><a href="../C/Cliff_Broadway.md" title="Cliff Broadway">Cliff Broadway</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jeremy_Edmonds&amp;action=edit&amp;redlink=1" title="Jeremy Edmonds (page does not exist)">Jeremy Edmonds</a></li>
 <li>Mary Clay Watt</li>
-<li><a class="mw-redirect" href="/wiki/William_Fliss" title="William Fliss">William Fliss</a></li>
+<li><a class="mw-redirect" href="../W/William_Fliss.md" title="William Fliss">William Fliss</a></li>
 <li>Myla Malinalda</li>
 <li>Maria Alberto</li>
 <li>Elvella</li>
-<li><a href="/wiki/Amy_H._Sturgis" title="Amy H. Sturgis">Amy H. Sturgis</a></li>
-<li><a href="/wiki/Anke_Ei%C3%9Fmann" title="Anke Eißmann">Anke Eißmann</a></li>
+<li><a href="../A/Amy_H._Sturgis.md" title="Amy H. Sturgis">Amy H. Sturgis</a></li>
+<li><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></li>
 <li>Megan Fontenot</li>
 <li>Season 1 Finale</li>
-<li><a href="/wiki/Marcel_B%C3%BClles" title="Marcel Bülles">Marcel Bülles</a></li>
+<li><a href="../M/Marcel_Bülles.md" title="Marcel Bülles">Marcel Bülles</a></li>
 <li>Diverse Tolkien</li>
-<li><a href="/wiki/Bruce_Hopkins" title="Bruce Hopkins">Bruce Hopkins</a></li>
+<li><a href="../B/Bruce_Hopkins.md" title="Bruce Hopkins">Bruce Hopkins</a></li>
 <li>Molly Ostertag</li>
 <li>Chris Vaccaro</li>
 <li>Willie &#39;Knewbettadobetta&#39; Jenkins</li>
-<li><a href="/wiki/Jenny_Dolfen" title="Jenny Dolfen">Jenny Dolfen</a></li>
-<li><a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a></li>
-<li><a href="/wiki/Ralph_Bakshi" title="Ralph Bakshi">Ralph Bakshi</a></li>
+<li><a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></li>
+<li><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></li>
+<li><a href="../R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></li>
 <li>Putri Prihatini</li>
-<li><a href="/wiki/Kristine_Larsen" title="Kristine Larsen">Kristine Larsen</a></li>
+<li><a href="../K/Kristine_Larsen.md" title="Kristine Larsen">Kristine Larsen</a></li>
 <li>Erik Mueller-Harder</li>
 <li>Joel Merriner</li>
 <li>Mariana Rios Maldonado</li>
-<li><a class="new" href="/w/index.php?title=Anna_Smol&amp;action=edit&amp;redlink=1" title="Anna Smol (page does not exist)">Anna Smol</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Smol&amp;action=edit&amp;redlink=1" title="Anna Smol (page does not exist)">Anna Smol</a></li>
 <li>Elizabeth King</li>
 <li>Aurélie Brémont</li>
-<li><a href="/wiki/Nerd_of_the_Rings" title="Nerd of the Rings">Matt from &#34;The Nerd of the Rings&#34;</a></li>
+<li><a href="../N/Nerd_of_the_Rings.md" title="Nerd of the Rings">Matt from &#34;The Nerd of the Rings&#34;</a></li>
 <li>Season 2 Finale</li>
 <li>Season 2 Bonus Episode</li>
-<li><a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></li>
+<li><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></li>
 <li>Brian D. Egede-Pedersen</li>
 <li>Sonali Chunodkar</li>
 <li>Alicia Fox-Lenz</li>
 <li>Panel on the Music of <i>The Rings of Power</i></li>
 <li><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup></li>
-<li>Panel on Tolkien, Adaptation, and <i><a class="mw-redirect mw-disambig" href="/wiki/The_Rings_of_Power" title="The Rings of Power">The Rings of Power</a></i></li>
-<li><a href="/wiki/Brian_Sibley" title="Brian Sibley">Brian Sibley</a></li>
-<li><a class="new" href="/w/index.php?title=Laura_Martin-Gomez&amp;action=edit&amp;redlink=1" title="Laura Martin-Gomez (page does not exist)">Laura Martin-Gomez</a></li>
-<li><a href="/wiki/Donato_Giancola" title="Donato Giancola">Donato Giancola</a></li></ol>
+<li>Panel on Tolkien, Adaptation, and <i><a class="mw-redirect mw-disambig" href="The_Rings_of_Power.md" title="The Rings of Power">The Rings of Power</a></i></li>
+<li><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laura_Martin-Gomez&amp;action=edit&amp;redlink=1" title="Laura Martin-Gomez (page does not exist)">Laura Martin-Gomez</a></li>
+<li><a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></li></ol>
 </div>
 
 ## Note {#Note}
@@ -122,10 +121,10 @@ In [2021](/wiki/2021), the podcast received [the Tolkien Society Award](/wiki/Th
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Luke Shelton</span>. <span class="cite-web-article"><a class="external text" href="https://luke-shelton.com/tolkien-experience-project/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Experience Project&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://luke-shelton.com/" rel="noreferrer noopener" target="_blank">luke-shelton.com</a></span>. <span class="cite-web-accessed">Retrieved 18 May 2023</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Luke Shelton</span>. <span class="cite-web-article"><a class="external text" href="https://luke-shelton.com/tolkien-experience-project/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Experience Project&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://luke-shelton.com/" rel="noreferrer noopener" target="_blank">luke-shelton.com</a></span>. <span class="cite-web-accessed">Retrieved 18 May 2023</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Luke Shelton</span>. <span class="cite-web-article"><a class="external text" href="https://luke-shelton.com/tolkienexperiencepodcast/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Experience Podcast&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://luke-shelton.com/" rel="noreferrer noopener" target="_blank">luke-shelton.com</a></span>. <span class="cite-web-accessed">Retrieved 18 May 2023</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Luke Shelton</span>. <span class="cite-web-article"><a class="external text" href="https://luke-shelton.com/tolkienexperiencepodcast/" rel="noreferrer noopener" target="_blank">&#34;Tolkien Experience Podcast&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://luke-shelton.com/" rel="noreferrer noopener" target="_blank">luke-shelton.com</a></span>. <span class="cite-web-accessed">Retrieved 18 May 2023</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Shaun_Gunner" title="Shaun Gunner">Shaun Gunner</a></span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkiensociety.org/2021/04/winners-of-the-tolkien-society-awards-2021-announced/" rel="noreferrer noopener" target="_blank">&#34;Winners of The Tolkien Society Awards 2021 announced&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/The_Tolkien_Society" title="The Tolkien Society">The Tolkien Society</a></span>. <span class="cite-web-accessed">Retrieved 11 July 2023</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkiensociety.org/2021/04/winners-of-the-tolkien-society-awards-2021-announced/" rel="noreferrer noopener" target="_blank">&#34;Winners of The Tolkien Society Awards 2021 announced&#34;</a></span>. <span class="cite-web-website"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></span>. <span class="cite-web-accessed">Retrieved 11 July 2023</span></cite></span>
 </li>
 </ol></div>

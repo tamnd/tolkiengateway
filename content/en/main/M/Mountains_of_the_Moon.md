@@ -11,4 +11,4 @@ redirect_target: "The Man in the Moon Came Down Too Soon"
 redirect_fragment: "List of terms"
 ---
 
-Redirect to [The Man in the Moon Came Down Too Soon](/wiki/The_Man_in_the_Moon_Came_Down_Too_Soon#List_of_terms).
+Redirect to [The Man in the Moon Came Down Too Soon](../T/The_Man_in_the_Moon_Came_Down_Too_Soon.md#List_of_terms).

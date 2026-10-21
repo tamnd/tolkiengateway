@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Der Kleine Hobbit"
 ---
 
-Redirect to [Der Kleine Hobbit](/wiki/Der_Kleine_Hobbit).
+Redirect to [Der Kleine Hobbit](Der_Kleine_Hobbit.md).

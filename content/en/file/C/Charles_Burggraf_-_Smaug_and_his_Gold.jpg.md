@@ -1,6 +1,5 @@
 ---
 title: "File:Charles Burggraf - Smaug and his Gold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Charles Burggraf - Smaug and his Gold.jpg</span>"
 page_id: 39038
 namespace: 6
 revision_id: 192183
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Charles Burggraf</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/charles.burggraf" rel="noreferrer noopener" target="_blank">Charles Burggraf on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Charles_Burggraf" title="Tolkien Gateway:Copyrights/Charles Burggraf">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCharles_Burggraf.md" title="Tolkien Gateway:Copyrights/Charles Burggraf">Permission for use on Tolkien Gateway</a></b></li></ul></div>

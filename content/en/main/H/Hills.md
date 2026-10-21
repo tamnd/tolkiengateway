@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Hills"
 ---
 
-Redirect to [Category:Hills](/wiki/Category:Hills).
+Redirect to [Category:Hills](../../category/H/Hills.md).

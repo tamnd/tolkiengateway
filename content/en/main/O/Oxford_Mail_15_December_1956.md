@@ -11,4 +11,4 @@ redirect_target: "Oxford Mail"
 redirect_fragment: "1956"
 ---
 
-Redirect to [Oxford Mail](/wiki/Oxford_Mail#1956).
+Redirect to [Oxford Mail](Oxford_Mail.md#1956).

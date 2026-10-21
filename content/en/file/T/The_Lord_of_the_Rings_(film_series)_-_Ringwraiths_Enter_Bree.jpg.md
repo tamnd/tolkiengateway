@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (film series) - Ringwraiths Enter Bree.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) - Ringwraiths Enter Bree.jpg</span>"
 page_id: 62742
 namespace: 6
 revision_id: 358052

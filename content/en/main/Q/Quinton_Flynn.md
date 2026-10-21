@@ -1,6 +1,5 @@
 ---
 title: "Quinton Flynn"
-display_title: "<span class=\"mw-page-title-main\">Quinton Flynn</span>"
 page_id: 19219
 namespace: 0
 revision_id: 222074
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Flynn, Quinton"
 ---
 
-**Quinton Joseph Flynn** ([October 10](/wiki/10_October "10 October"), [1964](/wiki/1964)) is an American voice actor. Apart from playing in several anime series, he also forms a comedic duo with Jeff Nimoy, the second cousin once removed of [Leonard Nimoy](/wiki/Leonard_Nimoy).
+**Quinton Joseph Flynn** ([October 10](../_/10_October.md), [1964](../_/1964.md)) is an American voice actor. Apart from playing in several anime series, he also forms a comedic duo with Jeff Nimoy, the second cousin once removed of [Leonard Nimoy](../L/Leonard_Nimoy.md).
 
 ## Roles {#Roles}
 
-- [2002](/wiki/2002): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)"): [Gollum](/wiki/Gollum), [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck")
+- [2002](../_/2002.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>): [Gollum](../G/Gollum.md), [Merry](../M/Meriadoc_Brandybuck.md)
 
 ## External links {#External_links}
 

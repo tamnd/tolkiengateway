@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dimrill Dale"
 ---
 
-Redirect to [Dimrill Dale](/wiki/Dimrill_Dale).
+Redirect to [Dimrill Dale](../D/Dimrill_Dale.md).

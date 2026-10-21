@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Racism"
 ---
 
-Redirect to [Racism](/wiki/Racism).
+Redirect to [Racism](Racism.md).

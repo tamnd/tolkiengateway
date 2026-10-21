@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Nan Curunir map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Nan Curunir map.jpg</span>"
 page_id: 38672
 namespace: 6
 revision_id: 270720
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Nan Curunir](/wiki/Nan_Curunir) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [Nan Curunir](../../main/N/Nan_Curunir.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

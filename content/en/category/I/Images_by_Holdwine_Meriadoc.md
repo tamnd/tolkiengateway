@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Holdwine Meriadoc"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Holdwine Meriadoc</span>"
 page_id: 57628
 namespace: 14
 revision_id: 317218

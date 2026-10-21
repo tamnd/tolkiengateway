@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Primrose Boffin"
 ---
 
-Redirect to [Primrose Boffin](/wiki/Primrose_Boffin).
+Redirect to [Primrose Boffin](Primrose_Boffin.md).

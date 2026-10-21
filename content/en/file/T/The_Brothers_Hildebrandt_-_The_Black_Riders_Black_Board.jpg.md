@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Black Riders Black Board.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Black Riders Black Board.jpg</span>"
 page_id: 71463
 namespace: 6
 revision_id: 426801
@@ -27,14 +26,12 @@ file:
 
 ## Summary {#Summary}
 
-"[The Black Riders](/wiki/Nazg%C3%BBl "Nazgûl")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), blackboard sketch of a piece first published in the <a class="new" href="/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a>
+"[The Black Riders](../../main/N/Nazgûl.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), blackboard sketch of a piece first published in the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Greg_and_Tim_Hildebrandt:_The_Tolkien_Years&amp;action=edit&amp;redlink=1" title="Greg and Tim Hildebrandt: The Tolkien Years (page does not exist)">Greg and Tim Hildebrandt: The Tolkien Years</a>
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p> A stunning piece based on the original sketch by Greg and Tim Hildebrandt created for their 1979 Tolkien Calendar, which was not produced. The Brothers eventually created the painting in 2001 for their 2002 book Greg and Tim Hildebrandt, The Tolkien Years, which also was produced as a limited edition giclée. Pastel on black board with an image area of 29.5&#34; x 19.5&#34;
 </p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote><div class="tg-section-divider"></div></div>
 
 ## Licensing {#Licensing}
 

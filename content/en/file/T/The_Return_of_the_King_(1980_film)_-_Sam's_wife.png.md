@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Sam's wife.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Sam&#039;s wife.png</span>"
 page_id: 71832
 namespace: 6
 revision_id: 427978
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee's wife](/wiki/Rose_Cotton "Rose Cotton") - [*The Return of the King* (1980 film)](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")
+[Samwise Gamgee's wife](../../main/R/Rose_Cotton.md) - [*The Return of the King* (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>)
 
 ## Licensing {#Licensing}
 

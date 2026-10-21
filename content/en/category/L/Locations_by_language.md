@@ -1,6 +1,5 @@
 ---
 title: "Category:Locations by language"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Locations by language</span>"
 page_id: 37116
 namespace: 14
 revision_id: 177683

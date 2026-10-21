@@ -1,6 +1,5 @@
 ---
 title: "File:Kine of Araw.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kine of Araw.png</span>"
 page_id: 31917
 namespace: 6
 revision_id: 145925

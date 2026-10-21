@@ -22,17 +22,17 @@ langlinks:
     url: "https://kontu.wiki/Nahald"
 ---
 
-<i><b>nahald</b></i> means "secret" in [Northern Mannish](/wiki/Northern_Mannish). It was also the name of the [Hobbit](/wiki/Hobbits "Hobbits") [Déagol](/wiki/D%C3%A9agol)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>nahald</b></i> means "secret" in [Northern Mannish](Northern_Mannish.md). It was also the name of the [Hobbit](../H/Hobbits.md) [Déagol](../D/Déagol.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-A possible [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") \*NAH<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+A possible [Root](../S/Sundocarmë.md) \*NAH<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/Appendix_F" title="Appendix F">Appendix F</a></i>, On Translation</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../A/Appendix_F.md" title="Appendix F">Appendix F</a></i>, On Translation</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Andreas_M%C3%B6hn" title="Andreas Möhn">Andreas Moehn</a>, <a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Etymologies of the Atani Languages</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../A/Andreas_Möhn.md" title="Andreas Möhn">Andreas Moehn</a>, <a class="external text" href="http://lalaith.vpsurf.de/Tolkien/Fr_Atani.html" rel="noreferrer noopener" target="_blank">Etymologies of the Atani Languages</a></span>
 </li>
 </ol></div>

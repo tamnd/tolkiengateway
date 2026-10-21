@@ -15,4 +15,4 @@ sort_keys:
   "Quenya verbs": "Avarta"
 ---
 
-<i><b>avarta-</b></i> is a [Quenya](/wiki/Quenya) word meaning *abandon*. See also *[hehta-](/wiki/Hehta- "Hehta-")*.
+<i><b>avarta-</b></i> is a [Quenya](../Q/Quenya.md) word meaning *abandon*. See also *[hehta-](../H/Hehta-.md)*.

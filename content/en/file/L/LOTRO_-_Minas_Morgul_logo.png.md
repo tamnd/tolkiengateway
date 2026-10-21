@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Minas Morgul logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Minas Morgul logo.png</span>"
 page_id: 62073
 namespace: 6
 revision_id: 390090
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Minas Morgul](/wiki/The_Lord_of_the_Rings_Online:_Minas_Morgul)*.
+Logo for *[The Lord of the Rings Online: Minas Morgul](../../main/T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md)*.
 
 ## Licensing {#Licensing}
 

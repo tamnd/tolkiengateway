@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ellor Eshúrizel"
 ---
 
-Redirect to [Ellor Eshúrizel](/wiki/Ellor_Eshúrizel).
+Redirect to [Ellor Eshúrizel](Ellor_Eshúrizel.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - Gandalf Falls with the Balrog.jpg"
 ---
 
-Redirect to [File:John Howe - Gandalf Falls with the Balrog.jpg](/wiki/File:John_Howe_-_Gandalf_Falls_with_the_Balrog.jpg).
+Redirect to [File:John Howe - Gandalf Falls with the Balrog.jpg](John_Howe_-_Gandalf_Falls_with_the_Balrog.jpg.md).

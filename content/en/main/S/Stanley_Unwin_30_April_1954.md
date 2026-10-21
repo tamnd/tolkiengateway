@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Stanley Unwin"
 ---
 
-Redirect to [Letter to Stanley Unwin](/wiki/Letter_to_Stanley_Unwin).
+Redirect to [Letter to Stanley Unwin](../L/Letter_to_Stanley_Unwin.md).

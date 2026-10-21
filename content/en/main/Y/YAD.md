@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "YAN"
 ---
 
-Redirect to [YAN](/wiki/YAN).
+Redirect to [YAN](YAN.md).

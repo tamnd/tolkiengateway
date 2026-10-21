@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Spark-dragons"
 ---
 
-Redirect to [Spark-dragons](/wiki/Spark-dragons).
+Redirect to [Spark-dragons](Spark-dragons.md).

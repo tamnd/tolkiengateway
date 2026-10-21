@@ -1,6 +1,5 @@
 ---
 title: "File:The Devil's Coach-Horses pamphlet.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Devil&#039;s Coach-Horses pamphlet.jpg</span>"
 page_id: 44932
 namespace: 6
 revision_id: 236373

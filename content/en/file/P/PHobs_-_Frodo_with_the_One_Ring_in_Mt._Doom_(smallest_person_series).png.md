@@ -1,6 +1,5 @@
 ---
 title: "File:PHobs - Frodo with the One Ring in Mt. Doom (smallest person series).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">PHobs - Frodo with the One Ring in Mt. Doom (smallest person series).png</span>"
 page_id: 52252
 namespace: 6
 revision_id: 284879
@@ -29,9 +28,9 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo](/wiki/Frodo_Baggins "Frodo Baggins") brought the [One Ring](/wiki/One_Ring) to [Mount Doom](/wiki/Mount_Doom).
+[Frodo](../../main/F/Frodo_Baggins.md) brought the [One Ring](../../main/O/One_Ring.md) to [Mount Doom](../../main/M/Mount_Doom.md).
 
-Phobs's comment: "'Even the smallest person can change the course of the future.'" - [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Phobs's comment: "'Even the smallest person can change the course of the future.'" - [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ Phobs's comment: "'Even the smallest person can change the course of the future.
 </p>
 <ul><li><b>Name:</b> Phobs</li>
 <li><b>Website:</b> <a class="external text" href="http://phobso.tumblr.com/" rel="noreferrer noopener" target="_blank">Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Phobs" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPhobs.md" title="Tolkien Gateway:Copyrights/Phobs">Permission for use on Tolkien Gateway</a></b></li></ul></div>

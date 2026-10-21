@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Republic of China"
 ---
 
-Redirect to [Category:Republic of China](/wiki/Category:Republic_of_China).
+Redirect to [Category:Republic of China](../../category/R/Republic_of_China.md).

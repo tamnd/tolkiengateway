@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Morgoth Confronts Fingolfin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Morgoth Confronts Fingolfin.jpg</span>"
 page_id: 73617
 namespace: 6
 revision_id: 435043
@@ -40,15 +39,13 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Morgoth Confronts Fingolfin.jpg</span></th>
 <td class="description">
-<blockquote><p>This piece started with the design for <a href="/wiki/Iron_Crown" title="Iron Crown">the helm of Morgoth</a>, here with vertically placed <a href="/wiki/Silmarils" title="Silmarils">Silmarils</a>, as I’d not seen that before. Then I upscaled the whole scene first to show <a href="/wiki/Morgoth" title="Morgoth">Morgoth</a> in full, then to depict the moment Morgoth strides out to meet <a href="/wiki/Fingolfin" title="Fingolfin">Fingolfin</a>.</p></blockquote>
+<blockquote><p>This piece started with the design for <a href="../../main/I/Iron_Crown.md" title="Iron Crown">the helm of Morgoth</a>, here with vertically placed <a href="../../main/S/Silmarils.md" title="Silmarils">Silmarils</a>, as I’d not seen that before. Then I upscaled the whole scene first to show <a href="../../main/M/Morgoth.md" title="Morgoth">Morgoth</a> in full, then to depict the moment Morgoth strides out to meet <a href="../../main/F/Fingolfin.md" title="Fingolfin">Fingolfin</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/18_February" title="18 February">February 18</a> <a href="/wiki/2020" title="2020">2020</a></td>
+<td><a href="../../main/_/18_February.md" title="18 February">February 18</a> <a href="../../main/_/2020.md" title="2020">2020</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Gareth Sleightholme</td>
@@ -57,7 +54,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hesir.artstation.com/projects/Qz4vn8" rel="noreferrer noopener" target="_blank">https://hesir.artstation.com/projects/Qz4vn8</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
@@ -67,4 +63,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

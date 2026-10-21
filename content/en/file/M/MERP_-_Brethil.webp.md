@@ -1,6 +1,5 @@
 ---
 title: "File:MERP - Brethil.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MERP - Brethil.webp</span>"
 page_id: 70950
 namespace: 6
 revision_id: 428144
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Brethil](/wiki/Brethil)
+Map of [Brethil](../../main/B/Brethil.md)
 
 ## Licensing {#Licensing}
 

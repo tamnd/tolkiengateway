@@ -1,6 +1,5 @@
 ---
 title: "File:9 Manor Road.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">9 Manor Road.jpg</span>"
 page_id: 42764
 namespace: 6
 revision_id: 225382
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [3 Manor Road](/wiki/3_Manor_Road) (the red door), taken in August 2007.
+Photograph of [3 Manor Road](../../main/_/3_Manor_Road.md) (the red door), taken in August 2007.
 
 ## Licensing {#Licensing}
 

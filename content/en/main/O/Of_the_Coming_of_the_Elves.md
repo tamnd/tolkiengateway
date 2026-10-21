@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Coming of the Elves and the Captivity of Melkor"
 ---
 
-Redirect to [Of the Coming of the Elves and the Captivity of Melkor](/wiki/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor).
+Redirect to [Of the Coming of the Elves and the Captivity of Melkor](Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md).

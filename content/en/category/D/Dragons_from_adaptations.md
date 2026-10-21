@@ -1,6 +1,5 @@
 ---
 title: "Category:Dragons from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dragons from adaptations</span>"
 page_id: 50587
 namespace: 14
 revision_id: 273272

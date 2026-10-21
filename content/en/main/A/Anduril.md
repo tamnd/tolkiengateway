@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúril"
 ---
 
-Redirect to [Andúril](/wiki/Andúril).
+Redirect to [Andúril](Andúril.md).

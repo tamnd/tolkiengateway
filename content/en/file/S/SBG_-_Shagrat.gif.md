@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Shagrat.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Shagrat.gif</span>"
 page_id: 11946
 namespace: 6
 revision_id: 204072

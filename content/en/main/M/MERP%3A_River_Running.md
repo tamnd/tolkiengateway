@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "River Running (book)"
 ---
 
-Redirect to [River Running (book)](/wiki/River_Running_(book)).
+Redirect to [River Running (book)](<../R/River_Running_(book).md>).

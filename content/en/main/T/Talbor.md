@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone of the Hapless"
 ---
 
-Redirect to [Stone of the Hapless](/wiki/Stone_of_the_Hapless).
+Redirect to [Stone of the Hapless](../S/Stone_of_the_Hapless.md).

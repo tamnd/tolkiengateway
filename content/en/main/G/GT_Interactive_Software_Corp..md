@@ -1,6 +1,5 @@
 ---
 title: "GT Interactive Software Corp."
-display_title: "<span class=\"mw-page-title-main\">GT Interactive Software Corp.</span>"
 page_id: 28012
 namespace: 0
 revision_id: 190071
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**GT Interactive Software Corp.** is the publisher of the parody video game [Kingdom O' Magic](/wiki/Kingdom_O%27_Magic), together with [SCi](/wiki/SCi).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**GT Interactive Software Corp.** is the publisher of the parody video game [Kingdom O' Magic](../K/Kingdom_O'_Magic.md), together with [SCi](../S/SCi.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

@@ -11,4 +11,4 @@ redirect_target: "Vairë"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Vairë](/wiki/Vairë#Names).
+Redirect to [Vairë](../V/Vairë.md#Names).

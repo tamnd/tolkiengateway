@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hrólfs saga kraka"
 ---
 
-Redirect to [Hrólfs saga kraka](/wiki/Hrólfs_saga_kraka).
+Redirect to [Hrólfs saga kraka](../H/Hrólfs_saga_kraka.md).

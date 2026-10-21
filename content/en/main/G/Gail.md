@@ -13,4 +13,4 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**Gail** is an adjective in the [Sindarin](/wiki/Sindarin) language, meaning 'light' or 'bright'.
+**Gail** is an adjective in the [Sindarin](../S/Sindarin.md) language, meaning 'light' or 'bright'.

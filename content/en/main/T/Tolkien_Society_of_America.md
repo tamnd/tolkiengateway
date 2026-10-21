@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Society of America"
-display_title: "<span class=\"mw-page-title-main\">Tolkien Society of America</span>"
 page_id: 21728
 namespace: 0
 revision_id: 407707
@@ -14,13 +13,13 @@ categories:
   - "Tolkien Societies"
 ---
 
-The **Tolkien Society of America** was the first American [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies").
+The **Tolkien Society of America** was the first American [Tolkien Society](Tolkien_Societies~67099.md).
 
 ## History {#History}
 
-The Society was founded by [Dick Plotz](/wiki/Dick_Plotz) and several others at Columbia University in February [1965](/wiki/1965). Two years later, <a class="new" href="/w/index.php?title=Edward_Meskys&amp;action=edit&amp;redlink=1" title="Edward Meskys (page does not exist)">Edward Meskys</a> took over. In [1972](/wiki/1972), it was merged with the [Mythopoeic Society](/wiki/Mythopoeic_Society).
+The Society was founded by [Dick Plotz](../D/Dick_Plotz.md) and several others at Columbia University in February [1965](../_/1965.md). Two years later, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edward_Meskys&amp;action=edit&amp;redlink=1" title="Edward Meskys (page does not exist)">Edward Meskys</a> took over. In [1972](../_/1972.md), it was merged with the [Mythopoeic Society](../M/Mythopoeic_Society.md).
 
-The society published two journals, <i><a class="new" href="/w/index.php?title=Green_Dragon_(journal)&amp;action=edit&amp;redlink=1" title="Green Dragon (journal) (page does not exist)">Green Dragon</a></i> and the *[Tolkien Journal](/wiki/Tolkien_Journal)*.
+The society published two journals, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Green_Dragon_(journal)&amp;action=edit&amp;redlink=1" title="Green Dragon (journal) (page does not exist)">Green Dragon</a></i> and the *[Tolkien Journal](Tolkien_Journal.md)*.
 
 ## See also {#See_also}
 

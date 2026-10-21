@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Loëndë"
 ---
 
-Redirect to [Loëndë](/wiki/Loëndë).
+Redirect to [Loëndë](Loëndë.md).

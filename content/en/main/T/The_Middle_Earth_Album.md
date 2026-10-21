@@ -17,9 +17,9 @@ images:
   - "Glass_Hammer_The_Middle-earth_album.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Glass_Hammer_The_Middle-earth_album.jpg"><img src="/w/images/thumb/d/d2/Glass_Hammer_The_Middle-earth_album.jpg/200px-Glass_Hammer_The_Middle-earth_album.jpg" decoding="async" loading="lazy" width="200" height="201" class="mw-file-element" srcset="/w/images/d/d2/Glass_Hammer_The_Middle-earth_album.jpg 1.5x" data-file-width="298" data-file-height="300"/></a><figcaption>Cover of the album</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Glass_Hammer_The_Middle-earth_album.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/Glass_Hammer_The_Middle-earth_album.jpg/200px-Glass_Hammer_The_Middle-earth_album.jpg" decoding="async" loading="lazy" width="200" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d2/Glass_Hammer_The_Middle-earth_album.jpg 1.5x" data-file-width="298" data-file-height="300"/></a><figcaption>Cover of the album</figcaption></figure>
 
-<i><b>The Middle Earth Album</b></i> is an album by [Glass Hammer](/wiki/Glass_Hammer), released in 2001.
+<i><b>The Middle Earth Album</b></i> is an album by [Glass Hammer](../G/Glass_Hammer.md), released in 2001.
 
 ## Track listing {#Track_listing}
 

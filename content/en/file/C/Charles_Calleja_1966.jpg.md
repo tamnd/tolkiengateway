@@ -1,6 +1,5 @@
 ---
 title: "File:Charles Calleja 1966.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Charles Calleja 1966.jpg</span>"
 page_id: 45605
 namespace: 6
 revision_id: 243544

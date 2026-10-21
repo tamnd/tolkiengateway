@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sagan om ringen (disambiguation)"
 ---
 
-Redirect to [Sagan om ringen (disambiguation)](/wiki/Sagan_om_ringen_(disambiguation)).
+Redirect to [Sagan om ringen (disambiguation)](<Sagan_om_ringen_(disambiguation).md>).

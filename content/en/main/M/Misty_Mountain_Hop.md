@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Led Zeppelin"
 ---
 
-Redirect to [Led Zeppelin](/wiki/Led_Zeppelin).
+Redirect to [Led Zeppelin](../L/Led_Zeppelin.md).

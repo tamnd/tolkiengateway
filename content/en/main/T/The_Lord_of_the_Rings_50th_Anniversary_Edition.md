@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings (50th Anniversary Edition)"
 ---
 
-Redirect to [The Lord of the Rings (50th Anniversary Edition)](/wiki/The_Lord_of_the_Rings_(50th_Anniversary_Edition)).
+Redirect to [The Lord of the Rings (50th Anniversary Edition)](<The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>).

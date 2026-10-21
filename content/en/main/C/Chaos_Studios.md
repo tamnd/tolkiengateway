@@ -1,6 +1,5 @@
 ---
 title: "Chaos Studios"
-display_title: "<span class=\"mw-page-title-main\">Chaos Studios</span>"
 page_id: 27707
 namespace: 0
 revision_id: 190012
@@ -13,7 +12,7 @@ categories:
   - "Businesses"
 ---
 
-**Chaos Studios** developed [The Lord of the Rings, Vol. I](</wiki/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game)> "The Lord of the Rings, Vol. I (1990 computer game)") for the <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chaos Studios** developed [The Lord of the Rings, Vol. I](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>) for the <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

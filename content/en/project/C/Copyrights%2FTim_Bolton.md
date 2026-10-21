@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tim Bolton"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tim Bolton</span>"
 page_id: 62628
 namespace: 4
 revision_id: 353774
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Bolton, Tim"
 ---
 
-- Tim Bolton has kindly granted his permission to use <a class="new" href="/w/index.php?title=Category:Images_by_Tim_Bolton&amp;action=edit&amp;redlink=1" title="Category:Images by Tim Bolton (page does not exist)">his artwork</a> on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Tim Bolton has kindly granted his permission to use <a class="new" href="https://tolkiengateway.net/w/index.php?title=Category:Images_by_Tim_Bolton&amp;action=edit&amp;redlink=1" title="Category:Images by Tim Bolton (page does not exist)">his artwork</a> on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 19 August 2022
-- User who sought the permission via Twitter messaging: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via Twitter messaging: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -17,17 +17,17 @@ categories:
 
 ## Etymology {#Etymology}
 
-The noun *[adar](/wiki/Adar "Adar")* and prefix *[pen-](/wiki/Pen- "Pen-")* translated as "-less".
+The noun *[adar](../A/Adar.md)* and prefix *[pen-](Pen-.md)* translated as "-less".
 
 ## Other forms {#Other_forms}
 
-- *Ben-adar* (lenited form) part of the name of [Tom Bombadil](/wiki/Tom_Bombadil)
+- *Ben-adar* (lenited form) part of the name of [Tom Bombadil](../T/Tom_Bombadil.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17">Parma Eldalamberon 17</a></span>
 </li>
 </ol></div>

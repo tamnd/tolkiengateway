@@ -11,4 +11,4 @@ redirect_target: "Araman"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Araman](/wiki/Araman#Other_versions_of_the_legendarium).
+Redirect to [Araman](../A/Araman.md#Other_versions_of_the_legendarium).

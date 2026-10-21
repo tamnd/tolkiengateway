@@ -1,6 +1,5 @@
 ---
 title: "File:The One Ring - Dice Set Green (Imago).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring - Dice Set Green (Imago).jpeg</span>"
 page_id: 75037
 namespace: 6
 revision_id: 441782
@@ -32,15 +31,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.imago.cz/sada-kostek-jeden-prsten-rpg-prsten-moci" rel="noreferrer noopener" target="_blank">Imago</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## License {#License}

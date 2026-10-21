@@ -1,6 +1,5 @@
 ---
 title: "File:Flag of Spain.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Flag of Spain.svg</span>"
 page_id: 18761
 namespace: 6
 revision_id: 249207

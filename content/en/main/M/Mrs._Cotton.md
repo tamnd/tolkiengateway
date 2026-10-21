@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lily Brown"
 ---
 
-Redirect to [Lily Brown](/wiki/Lily_Brown).
+Redirect to [Lily Brown](../L/Lily_Brown.md).

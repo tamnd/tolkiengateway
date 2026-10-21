@@ -15,31 +15,31 @@ sort_keys:
   "Quenya adjectives": "Yara"
 ---
 
-**Yára** is the [Quenya](/wiki/Quenya) word for *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> or *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Yára** is the [Quenya](../Q/Quenya.md) word for *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> or *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) \**jârâ* &lt; [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (and probably influence from <a class="new" href="/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
+[PQ](../P/PQ.md) \**jârâ* &lt; [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YA&amp;action=edit&amp;redlink=1" title="YA (page does not exist)">YA</a> (and probably influence from <a class="new" href="https://tolkiengateway.net/w/index.php?title=GYER&amp;action=edit&amp;redlink=1" title="GYER (page does not exist)">GYER</a>)
 
 ## Other forms {#Other_forms}
 
-- <i><a class="new" href="/w/index.php?title=Any%C3%A1ra&amp;action=edit&amp;redlink=1" title="Anyára (page does not exist)">anyára</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Any%C3%A1ra&amp;action=edit&amp;redlink=1" title="Anyára (page does not exist)">anyára</a></i>
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin): *[iaur](/wiki/Iaur "Iaur")*
+- [Sindarin](../S/Sindarin.md): *[iaur](../I/Iaur.md)*
 
 ## See also {#See_also}
 
-- <i><b>Yára</b> <a href="/wiki/T%C3%BAro" title="Túro">Túro</a></i>
+- <i><b>Yára</b> <a href="../T/Túro.md" title="Túro">Túro</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Verb Structure&#34;, in <a href="/wiki/Parma_Eldalamberon_22" title="Parma Eldalamberon 22"><i>Parma Eldalamberon</i> XXII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), pp. 118-119</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Verb Structure&#34;, in <a href="../P/Parma_Eldalamberon_22.md" title="Parma Eldalamberon 22"><i>Parma Eldalamberon</i> XXII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), pp. 118-119</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>, pp. 358, 399</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, <a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>, pp. 358, 399</span>
 </li>
 </ol></div>

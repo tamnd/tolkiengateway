@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isildur"
 ---
 
-Redirect to [Isildur](/wiki/Isildur).
+Redirect to [Isildur](Isildur.md).

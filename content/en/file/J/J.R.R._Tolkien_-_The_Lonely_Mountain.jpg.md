@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Lonely Mountain.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Lonely Mountain.jpg</span>"
 page_id: 16767
 namespace: 6
 revision_id: 426256
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Sketch of the [Lonely Mountain](/wiki/Lonely_Mountain) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Sketch of the [Lonely Mountain](../../main/L/Lonely_Mountain.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

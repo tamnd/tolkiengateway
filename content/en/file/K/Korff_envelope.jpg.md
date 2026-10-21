@@ -1,6 +1,5 @@
 ---
 title: "File:Korff envelope.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Korff envelope.jpg</span>"
 page_id: 26038
 namespace: 6
 revision_id: 215050

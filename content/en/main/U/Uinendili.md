@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guild of Venturers"
 ---
 
-Redirect to [Guild of Venturers](/wiki/Guild_of_Venturers).
+Redirect to [Guild of Venturers](../G/Guild_of_Venturers.md).

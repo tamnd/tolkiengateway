@@ -1,6 +1,5 @@
 ---
 title: "File:Easterling.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Easterling.jpg</span>"
 page_id: 15423
 namespace: 6
 revision_id: 211921

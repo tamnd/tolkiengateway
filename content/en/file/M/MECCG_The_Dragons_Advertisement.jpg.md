@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG The Dragons Advertisement.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG The Dragons Advertisement.jpg</span>"
 page_id: 73100
 namespace: 6
 revision_id: 432797
@@ -38,14 +37,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1996</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Inquest #15, also appeared in #14</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

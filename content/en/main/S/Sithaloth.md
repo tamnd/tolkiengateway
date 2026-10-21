@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Remmirath"
 ---
 
-Redirect to [Remmirath](/wiki/Remmirath).
+Redirect to [Remmirath](../R/Remmirath.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ereb"
 ---
 
-Redirect to [Ereb](/wiki/Ereb).
+Redirect to [Ereb](Ereb.md).

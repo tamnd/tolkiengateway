@@ -1,6 +1,5 @@
 ---
 title: "File:Arvedui ROTWK.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arvedui ROTWK.png</span>"
 page_id: 30698
 namespace: 6
 revision_id: 248652
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Arvedui](/wiki/Arvedui) in *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)*. Left: the *palantir* image; right: Arvedui himself.
+[Arvedui](../../main/A/Arvedui.md) in *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*. Left: the *palantir* image; right: Arvedui himself.
 
 ## Licensing {#Licensing}
 

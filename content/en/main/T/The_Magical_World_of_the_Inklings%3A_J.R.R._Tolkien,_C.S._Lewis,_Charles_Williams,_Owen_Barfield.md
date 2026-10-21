@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Magical World of the Inklings"
 ---
 
-Redirect to [The Magical World of the Inklings](/wiki/The_Magical_World_of_the_Inklings).
+Redirect to [The Magical World of the Inklings](The_Magical_World_of_the_Inklings.md).

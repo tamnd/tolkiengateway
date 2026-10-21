@@ -1,6 +1,5 @@
 ---
 title: "Category:Citation templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Citation templates</span>"
 page_id: 19333
 namespace: 14
 revision_id: 162309
@@ -15,6 +14,6 @@ sort_keys:
   "Templates": "Citation templates"
 ---
 
-<dl><dd><i>See also <a href="/wiki/Help:References#Shortcuts" title="Help:References">Help:References#Shortcuts</a></i></dd></dl>
+<dl><dd><i>See also <a href="../../help/R/References.md#Shortcuts" title="Help:References">Help:References#Shortcuts</a></i></dd></dl>
 
 Citation templates

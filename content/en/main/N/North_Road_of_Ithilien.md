@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Southward Road"
 ---
 
-Redirect to [Southward Road](/wiki/Southward_Road).
+Redirect to [Southward Road](../S/Southward_Road.md).

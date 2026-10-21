@@ -1,6 +1,5 @@
 ---
 title: "Papyrus Design Group"
-display_title: "<span class=\"mw-page-title-main\">Papyrus Design Group</span>"
 page_id: 30896
 namespace: 0
 revision_id: 190081
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Papyrus Design Group** is a video game company that developed [J.R.R. Tolkien's Riders of Rohan](/wiki/J.R.R._Tolkien%27s_Riders_of_Rohan) together with [Beam Software](/wiki/Melbourne_House "Melbourne House").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Papyrus Design Group** is a video game company that developed [J.R.R. Tolkien's Riders of Rohan](../J/J.R.R._Tolkien's_Riders_of_Rohan.md) together with [Beam Software](../M/Melbourne_House.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

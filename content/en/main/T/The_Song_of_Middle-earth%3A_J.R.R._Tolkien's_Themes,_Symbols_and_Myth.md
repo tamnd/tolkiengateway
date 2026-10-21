@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Song of Middle-earth"
 ---
 
-Redirect to [The Song of Middle-earth](/wiki/The_Song_of_Middle-earth).
+Redirect to [The Song of Middle-earth](The_Song_of_Middle-earth.md).

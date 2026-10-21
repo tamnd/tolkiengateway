@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Five Armies"
 ---
 
-Redirect to [Battle of Five Armies](/wiki/Battle_of_Five_Armies).
+Redirect to [Battle of Five Armies](../B/Battle_of_Five_Armies.md).

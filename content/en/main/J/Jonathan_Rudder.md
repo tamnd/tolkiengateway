@@ -1,6 +1,5 @@
 ---
 title: "Jonathan Rudder"
-display_title: "<span class=\"mw-page-title-main\">Jonathan Rudder</span>"
 page_id: 29534
 namespace: 0
 revision_id: 406064
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Rudder, Jonathan"
 ---
 
-**Jonathan Rudder** is an American author who is a writer for [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online).
+**Jonathan Rudder** is an American author who is a writer for [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
 ## External links {#External_links}
 

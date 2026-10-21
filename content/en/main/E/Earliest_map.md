@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The earliest map"
 ---
 
-Redirect to [The earliest map](/wiki/The_earliest_map).
+Redirect to [The earliest map](../T/The_earliest_map.md).

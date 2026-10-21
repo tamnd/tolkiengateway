@@ -1,6 +1,5 @@
 ---
 title: "File:The Welsh Review (Vol.IV, No.4).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Welsh Review (Vol.IV, No.4).jpg</span>"
 page_id: 28839
 namespace: 6
 revision_id: 213704

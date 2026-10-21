@@ -1,6 +1,5 @@
 ---
 title: "David Arkenstone"
-display_title: "<span class=\"mw-page-title-main\">David Arkenstone</span>"
 page_id: 13590
 namespace: 0
 revision_id: 405194
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Arkenstone, David"
 ---
 
-**David Arkenstone** ([July 1](/wiki/1_July "1 July"), [1952](/wiki/1952)) is a musician known for his fantasy themed music. He released an album titled [Music Inspired by Middle Earth](/wiki/Music_Inspired_by_Middle_Earth) in [2001](/wiki/2001) which was filled with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)-related songs.
+**David Arkenstone** ([July 1](../_/1_July.md), [1952](../_/1952.md)) is a musician known for his fantasy themed music. He released an album titled [Music Inspired by Middle Earth](../M/Music_Inspired_by_Middle_Earth.md) in [2001](../_/2001.md) which was filled with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)-related songs.
 
 ## External links {#External_links}
 

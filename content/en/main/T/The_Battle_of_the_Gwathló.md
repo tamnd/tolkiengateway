@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Gwathló"
 ---
 
-Redirect to [Battle of the Gwathló](/wiki/Battle_of_the_Gwathló).
+Redirect to [Battle of the Gwathló](../B/Battle_of_the_Gwathló.md).

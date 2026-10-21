@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Studies 19 Supplement.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Studies 19 Supplement.jpeg</span>"
 page_id: 62347
 namespace: 6
 revision_id: 351973

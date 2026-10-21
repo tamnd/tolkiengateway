@@ -1,6 +1,5 @@
 ---
 title: "SMAL"
-display_title: "<span class=\"mw-page-title-main\">SMAL</span>"
 page_id: 32126
 namespace: 0
 revision_id: 407165
@@ -13,49 +12,49 @@ categories:
   - "Roots"
 ---
 
-**SMAL**, is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") signifying "yellow".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**SMAL**, is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](Sundocarme.md) signifying "yellow".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Derivatives<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup> {#Derivatives[1]}
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *smalinā* ("yellow")
-    - [Quenya](/wiki/Quenya): *malina* ("yellow")
-    - [Old Noldorin](/wiki/Kornoldorin "Kornoldorin"): *malina* ("yellow")
-        - [Noldorin](/wiki/Noldorin): *malen* ("yellow")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *smalinā* ("yellow")
+    - [Quenya](../Q/Quenya.md): *malina* ("yellow")
+    - [Old Noldorin](../K/Kornoldorin.md): *malina* ("yellow")
+        - [Noldorin](../N/Noldorin.md): *malen* ("yellow")
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *smaldā* ("[gold](/wiki/Gold "Gold") (as metal)")
-    - [Quenya](/wiki/Quenya): <i><a class="new" href="/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i> ("gold (as metal)")
-    - [Old Noldorin](/wiki/Kornoldorin "Kornoldorin"): *malda* ("gold (as metal)")
-        - [Noldorin](/wiki/Noldorin): *[malt](/wiki/Malt "Malt")* ("gold (as metal)"); *malthen*, <i><a class="new" href="/w/index.php?title=Mallen&amp;action=edit&amp;redlink=1" title="Mallen (page does not exist)">mallen</a></i> ("of gold")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *smaldā* ("[gold](../G/Gold.md) (as metal)")
+    - [Quenya](../Q/Quenya.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Malda&amp;action=edit&amp;redlink=1" title="Malda (page does not exist)">malda</a></i> ("gold (as metal)")
+    - [Old Noldorin](../K/Kornoldorin.md): *malda* ("gold (as metal)")
+        - [Noldorin](../N/Noldorin.md): *[malt](../M/Malt.md)* ("gold (as metal)"); *malthen*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mallen&amp;action=edit&amp;redlink=1" title="Mallen (page does not exist)">mallen</a></i> ("of gold")
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *smalu* ("pollen, yellow powder")
-    - [Quenya](/wiki/Quenya): *malo* ("pollen, yellow powder")
-    - [Old Noldorin](/wiki/Kornoldorin "Kornoldorin"): *malo* ("pollen, yellow powder")
-        - [Noldorin](/wiki/Noldorin): *mâl* ("pollen, yellow powder")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *smalu* ("pollen, yellow powder")
+    - [Quenya](../Q/Quenya.md): *malo* ("pollen, yellow powder")
+    - [Old Noldorin](../K/Kornoldorin.md): *malo* ("pollen, yellow powder")
+        - [Noldorin](../N/Noldorin.md): *mâl* ("pollen, yellow powder")
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *smalwā* ("fallow, pale")
-    - [Quenya](/wiki/Quenya): *malwa* ("fallow, pale")
-    - [Noldorin](/wiki/Noldorin): *malw* ("fallow, pale")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *smalwā* ("fallow, pale")
+    - [Quenya](../Q/Quenya.md): *malwa* ("fallow, pale")
+    - [Noldorin](../N/Noldorin.md): *malw* ("fallow, pale")
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): *asmalē*, *asmalindē* ("yellow bird, 'yellow hammer'")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
-    - [Quenya](/wiki/Quenya): *ammale*, *ambale* ("yellow bird, 'yellow hammer'")
-    - [Old Noldorin](/wiki/Kornoldorin "Kornoldorin"): *ammale*, *ammalinde* ("yellow bird, 'yellow hammer'")
-        - [Noldorin](/wiki/Noldorin): *e(m)melin*, *emlin* ("yellow bird, 'yellow hammer'")
+- [Primitive Quendian](../P/Primitive_Quendian.md): *asmalē*, *asmalindē* ("yellow bird, 'yellow hammer'")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+    - [Quenya](../Q/Quenya.md): *ammale*, *ambale* ("yellow bird, 'yellow hammer'")
+    - [Old Noldorin](../K/Kornoldorin.md): *ammale*, *ammalinde* ("yellow bird, 'yellow hammer'")
+        - [Noldorin](../N/Noldorin.md): *e(m)melin*, *emlin* ("yellow bird, 'yellow hammer'")
 
 ## See also {#See_also}
 
-- [LAW](/wiki/LAW)
-- [MALAT](/wiki/MALAT)
+- [LAW](../L/LAW.md)
+- [MALAT](../M/MALAT.md)
 
 ## Notes {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">The &#34;ē&#34; in <i>asmalindē</i> also carries the  diacritical mark <a class="extiw" href="http://en.wikipedia.org/wiki/Breve" title="wikipedia:Breve">breve</a>, as in &#34;ĕ&#34;. Cf. <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_46" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 14</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">The &#34;ē&#34; in <i>asmalindē</i> also carries the  diacritical mark <a class="extiw" href="http://en.wikipedia.org/wiki/Breve" title="wikipedia:Breve">breve</a>, as in &#34;ĕ&#34;. Cf. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part Two</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_46.md" title="Vinyar Tengwar 46"><i>Vinyar Tengwar</i>, Number 46</a>, July 2004, p. 14</span>
 </li>
 </ol></div></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, pp. 386-7 (root appearing as &#34;SMAL-&#34;)</span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, pp. 386-7 (root appearing as &#34;SMAL-&#34;)</span>
 </li>
 </ol></div>

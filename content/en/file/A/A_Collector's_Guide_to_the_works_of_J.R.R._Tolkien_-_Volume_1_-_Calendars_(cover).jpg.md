@@ -1,6 +1,5 @@
 ---
 title: "File:A Collector's Guide to the works of J.R.R. Tolkien - Volume 1 - Calendars (cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Collector&#039;s Guide to the works of J.R.R. Tolkien - Volume 1 - Calendars (cover).jpg</span>"
 page_id: 6996
 namespace: 6
 revision_id: 360984

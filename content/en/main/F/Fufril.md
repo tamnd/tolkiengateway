@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moths"
 ---
 
-Redirect to [Moths](/wiki/Moths).
+Redirect to [Moths](../M/Moths.md).

@@ -1,6 +1,5 @@
 ---
 title: "Theargonath.cc"
-display_title: "<span class=\"mw-page-title-main\">Theargonath.cc</span>"
 page_id: 11134
 namespace: 0
 revision_id: 221538
@@ -14,4 +13,4 @@ categories:
   - "Movie websites"
 ---
 
-**The Argonath**, or <a class="external text" href="http://www.theargonath.cc" rel="noreferrer noopener" target="_blank">www.theargonath.cc</a>, is a website featuring primarily pictures from [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") of the various characters.
+**The Argonath**, or <a class="external text" href="http://www.theargonath.cc" rel="noreferrer noopener" target="_blank">www.theargonath.cc</a>, is a website featuring primarily pictures from [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>) of the various characters.

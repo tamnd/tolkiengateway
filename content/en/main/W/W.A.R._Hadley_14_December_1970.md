@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to W.A.R. Hadley"
 ---
 
-Redirect to [Letter to W.A.R. Hadley](/wiki/Letter_to_W.A.R._Hadley).
+Redirect to [Letter to W.A.R. Hadley](../L/Letter_to_W.A.R._Hadley.md).

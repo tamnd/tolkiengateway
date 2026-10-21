@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ard-galen"
 ---
 
-Redirect to [Ard-galen](/wiki/Ard-galen).
+Redirect to [Ard-galen](Ard-galen.md).

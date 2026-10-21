@@ -1,6 +1,5 @@
 ---
 title: "File:Eight books from Tolkien's library.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eight books from Tolkien&#039;s library.jpg</span>"
 page_id: 40540
 namespace: 6
 revision_id: 214019

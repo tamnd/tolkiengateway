@@ -1,6 +1,5 @@
 ---
 title: "File:Here, There Be Dragons.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Here, There Be Dragons.jpg</span>"
 page_id: 26976
 namespace: 6
 revision_id: 214212

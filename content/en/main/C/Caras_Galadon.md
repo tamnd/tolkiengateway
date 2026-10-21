@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caras Galadhon"
 ---
 
-Redirect to [Caras Galadhon](/wiki/Caras_Galadhon).
+Redirect to [Caras Galadhon](Caras_Galadhon.md).

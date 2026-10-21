@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Misty Mountains looking West from the Eyrie towards Goblin Gate.jpg</span>"
 page_id: 5473
 namespace: 6
 revision_id: 429916
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and originally published in the first impression of [The Hobbit](/wiki/The_Hobbit), in Chapter 6, [Out of the Frying-Pan into the Fire](/wiki/Out_of_the_Frying-Pan_into_the_Fire)).
+Drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and originally published in the first impression of [The Hobbit](../../main/T/The_Hobbit.md), in Chapter 6, [Out of the Frying-Pan into the Fire](../../main/O/Out_of_the_Frying-Pan_into_the_Fire.md)).
 
 ## Licensing {#Licensing}
 

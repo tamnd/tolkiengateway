@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings RPG - Bridge of Khazad-dûm.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings RPG - Bridge of Khazad-dûm.png</span>"
 page_id: 74247
 namespace: 6
 revision_id: 437522
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="external text" href="https://rpgmaker.net/users/BongHenry/" rel="noreferrer noopener" target="_blank">BongHenry</a></td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://rpgmaker.net/games/12592/images/" rel="noreferrer noopener" target="_blank">Rpgmaker.net</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

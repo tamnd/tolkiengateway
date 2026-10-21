@@ -1,6 +1,5 @@
 ---
 title: "Bellomarius"
-display_title: "<span class=\"mw-page-title-main\">Bellomarius</span>"
 page_id: 36095
 namespace: 0
 revision_id: 257166
@@ -18,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Bellomarius"
 ---
 
-**Bellomarius** was the greatest dragon-slayer that the realm of the [Middle Kingdom](/wiki/Middle_Kingdom) had ever known. He was said to be the maternal great-great-grandfather of [Augustus Bonifacius](/wiki/Augustus_Bonifacius), who was the king of the [Middle Kingdom](/wiki/Middle_Kingdom) when [Farmer Giles](/wiki/Farmer_Giles) lived in the realm. He had also owned a famous sword called [Caudimordax](/wiki/Caudimordax) which had languished in the king's armoury. When Farmer Giles chased off a [giant](/wiki/The_Giant "The Giant") that had come to the village of [Ham](/wiki/Ham), the king made a present of the sword to the rustic. Thus, in a sense, Giles was the heir of Bellomarius.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Bellomarius** was the greatest dragon-slayer that the realm of the [Middle Kingdom](../M/Middle_Kingdom.md) had ever known. He was said to be the maternal great-great-grandfather of [Augustus Bonifacius](../A/Augustus_Bonifacius.md), who was the king of the [Middle Kingdom](../M/Middle_Kingdom.md) when [Farmer Giles](../F/Farmer_Giles.md) lived in the realm. He had also owned a famous sword called [Caudimordax](../C/Caudimordax.md) which had languished in the king's armoury. When Farmer Giles chased off a [giant](../T/The_Giant.md) that had come to the village of [Ham](../H/Ham.md), the king made a present of the sword to the rustic. Thus, in a sense, Giles was the heir of Bellomarius.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/Farmer_Giles_of_Ham" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i></span>
 </li>
 </ol></div>

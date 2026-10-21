@@ -1,6 +1,5 @@
 ---
 title: "File:Eric David Anderson - Michel Delving.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eric David Anderson - Michel Delving.jpg</span>"
 page_id: 30018
 namespace: 6
 revision_id: 281333
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Michel Delving* by Eric David Anderson, card art for *[Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game)* (*[A Long-Expected Party: MECCG Sites and Scenarios](/wiki/A_Long-Expected_Party:_MECCG_Sites_and_Scenarios)*).
+*Michel Delving* by Eric David Anderson, card art for *[Middle-earth Collectible Card Game](../../main/M/Middle-earth_Collectible_Card_Game.md)* (*[A Long-Expected Party: MECCG Sites and Scenarios](../../main/A/A_Long-Expected_Party%253A_MECCG_Sites_and_Scenarios.md)*).
 
 ## Licensing {#Licensing}
 

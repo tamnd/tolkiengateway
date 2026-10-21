@@ -1,6 +1,5 @@
 ---
 title: "File:Janka Latečková - Sons of Elrond.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Janka Latečková - Sons of Elrond.jpg</span>"
 page_id: 42573
 namespace: 6
 revision_id: 386818
@@ -32,6 +31,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Janka Latečková</li>
 <li><b>Website:</b> <a class="external text" href="http://jankolas.deviantart.com/" rel="noreferrer noopener" target="_blank">Janka Latečková&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Janka_Late%C4%8Dkov%C3%A1" title="Tolkien Gateway:Copyrights/Janka Latečková">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJanka_Latečková.md" title="Tolkien Gateway:Copyrights/Janka Latečková">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

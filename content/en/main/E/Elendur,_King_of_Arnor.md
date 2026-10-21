@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elendur (King of Arnor)"
 ---
 
-Redirect to [Elendur (King of Arnor)](/wiki/Elendur_(King_of_Arnor)).
+Redirect to [Elendur (King of Arnor)](<Elendur_(King_of_Arnor).md>).

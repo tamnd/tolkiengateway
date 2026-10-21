@@ -1,6 +1,5 @@
 ---
 title: "File:Robert Burchfield 6 November 1954.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Robert Burchfield 6 November 1954.jpg</span>"
 page_id: 31329
 namespace: 6
 revision_id: 215101

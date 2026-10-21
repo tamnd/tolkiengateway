@@ -1,6 +1,5 @@
 ---
 title: "File:Andrea Piparo - Rise of the Witch-King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andrea Piparo - Rise of the Witch-King.jpg</span>"
 page_id: 71665
 namespace: 6
 revision_id: 427242
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"Rise of the [Witch-King](/wiki/Witch-king "Witch-king")" - Artwork by [Andrea Piparo](/wiki/Category:Images_by_Andrea_Piparo "Category:Images by Andrea Piparo") for *[The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth)*
+"Rise of the [Witch-King](../../main/W/Witch-king.md)" - Artwork by [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) for *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Andrea Piparo and Ares Games for the War of the Ring - the card game</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/AndreaPiparoArt" rel="noreferrer noopener" target="_blank">Andrea Piparo</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrea_Piparo" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrea_Piparo.md" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

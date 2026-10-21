@@ -1,6 +1,5 @@
 ---
 title: "Chieftain of the Haladin"
-display_title: "<span class=\"mw-page-title-main\">Chieftain of the Haladin</span>"
 page_id: 10237
 namespace: 0
 revision_id: 345516
@@ -15,19 +14,19 @@ categories:
   - "Rulers in Beleriand"
 ---
 
-The **Chieftain of the Haladin**, later **Chieftain of the House of Haleth** was an elected title given to the leader of the [Haladin](/wiki/Haladin) during the early [First Age](/wiki/First_Age), the second group of the [Edain](/wiki/Edain) to cross the [Blue Mountains](/wiki/Blue_Mountains) and enter [Beleriand](/wiki/Beleriand) and become allies of the [Elves](/wiki/Elves). Shortly after arriving the Haladin were attacked by [Orcs](/wiki/Orcs) and [Haleth](/wiki/Haleth), daughter of the recently slain Chieftain, was responsible for the survival of her people. Thereafter, the Chieftain of the Haladin became a hereditary title.
+The **Chieftain of the Haladin**, later **Chieftain of the House of Haleth** was an elected title given to the leader of the [Haladin](../H/Haladin.md) during the early [First Age](../F/First_Age.md), the second group of the [Edain](../E/Edain.md) to cross the [Blue Mountains](../B/Blue_Mountains.md) and enter [Beleriand](../B/Beleriand.md) and become allies of the [Elves](../E/Elves.md). Shortly after arriving the Haladin were attacked by [Orcs](../O/Orcs.md) and [Haleth](../H/Haleth.md), daughter of the recently slain Chieftain, was responsible for the survival of her people. Thereafter, the Chieftain of the Haladin became a hereditary title.
 
-Not only did Haleth save her people, she led them to a safer [land](/wiki/Forest_of_Brethil "Forest of Brethil") and bargained for their home. In exchange for defending a river crossing their would remain freemen, never swearing eternal allegiance to any lord. In honor of her memory, the Haladin would rename themselves the [House of Haleth](/wiki/House_of_Haleth), and Chieftain of the Haladin would become the Chieftain of the House of Haleth and Warden ([Halad](/wiki/Halad)) of Brethil.
+Not only did Haleth save her people, she led them to a safer [land](../F/Forest_of_Brethil.md) and bargained for their home. In exchange for defending a river crossing their would remain freemen, never swearing eternal allegiance to any lord. In honor of her memory, the Haladin would rename themselves the [House of Haleth](../H/House_of_Haleth.md), and Chieftain of the Haladin would become the Chieftain of the House of Haleth and Warden ([Halad](../H/Halad.md)) of Brethil.
 
 ## List of Chieftains {#List_of_Chieftains}
 
-1. **[Haldad](/wiki/Haldad)**, [F.A.](/wiki/First_Age "First Age")??? –[375](/wiki/First_Age_375 "First Age 375")
-2. **[Haldar](/wiki/Haldar)**, [F.A.](/wiki/First_Age "First Age") [375](/wiki/First_Age_375 "First Age 375")–[375](/wiki/First_Age_375 "First Age 375")
-3. **[Haleth](/wiki/Haleth)**, [F.A.](/wiki/First_Age "First Age") [375](/wiki/First_Age_375 "First Age 375")–[420](/wiki/First_Age_420 "First Age 420")
-4. **[Haldan](/wiki/Haldan)**, [F.A.](/wiki/First_Age "First Age") [420](/wiki/First_Age_420 "First Age 420")–[451](/wiki/First_Age_451 "First Age 451")
-5. **[Halmir](/wiki/Halmir)**, [F.A.](/wiki/First_Age "First Age") [451](/wiki/First_Age_451 "First Age 451")–[471](/wiki/First_Age_471 "First Age 471")
-6. **[Haldir](</wiki/Haldir_(Chieftain_of_the_Haladin)> "Haldir (Chieftain of the Haladin)")**, [F.A.](/wiki/First_Age "First Age") [471](/wiki/First_Age_471 "First Age 471")–[472](/wiki/First_Age_472 "First Age 472")
-7. **[Handir](/wiki/Handir)**, [F.A.](/wiki/First_Age "First Age") [472](/wiki/First_Age_472 "First Age 472")–[495](/wiki/First_Age_495 "First Age 495")
-8. **[Brandir the Lame](/wiki/Brandir_the_Lame)**, [F.A.](/wiki/First_Age "First Age") [495](/wiki/First_Age_495 "First Age 495")–[499](/wiki/First_Age_499 "First Age 499")
-9. **[Hardang](/wiki/Hardang)**, [F.A.](/wiki/First_Age "First Age") [499](/wiki/First_Age_499 "First Age 499")–[501](/wiki/First_Age_501 "First Age 501")
-10. **[Avranc](/wiki/Avranc)**, [F.A.](/wiki/First_Age "First Age") [501](/wiki/First_Age_501 "First Age 501")–[F.A.](/wiki/First_Age "First Age")???
+1. **[Haldad](../H/Haldad.md)**, [F.A.](../F/First_Age.md)??? –[375](../F/First_Age_375.md)
+2. **[Haldar](../H/Haldar.md)**, [F.A.](../F/First_Age.md) [375](../F/First_Age_375.md)–[375](../F/First_Age_375.md)
+3. **[Haleth](../H/Haleth.md)**, [F.A.](../F/First_Age.md) [375](../F/First_Age_375.md)–[420](../F/First_Age_420.md)
+4. **[Haldan](../H/Haldan.md)**, [F.A.](../F/First_Age.md) [420](../F/First_Age_420.md)–[451](../F/First_Age_451.md)
+5. **[Halmir](../H/Halmir.md)**, [F.A.](../F/First_Age.md) [451](../F/First_Age_451.md)–[471](../F/First_Age_471.md)
+6. **[Haldir](<../H/Haldir_(Chieftain_of_the_Haladin).md>)**, [F.A.](../F/First_Age.md) [471](../F/First_Age_471.md)–[472](../F/First_Age_472.md)
+7. **[Handir](../H/Handir.md)**, [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md)–[495](../F/First_Age_495.md)
+8. **[Brandir the Lame](../B/Brandir_the_Lame.md)**, [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)–[499](../F/First_Age_499.md)
+9. **[Hardang](../H/Hardang.md)**, [F.A.](../F/First_Age.md) [499](../F/First_Age_499.md)–[501](../F/First_Age_501.md)
+10. **[Avranc](../A/Avranc.md)**, [F.A.](../F/First_Age.md) [501](../F/First_Age_501.md)–[F.A.](../F/First_Age.md)???

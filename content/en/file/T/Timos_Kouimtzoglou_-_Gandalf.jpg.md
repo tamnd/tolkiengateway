@@ -1,6 +1,5 @@
 ---
 title: "File:Timos Kouimtzoglou - Gandalf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Timos Kouimtzoglou - Gandalf.jpg</span>"
 page_id: 14673
 namespace: 6
 revision_id: 206807
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Timos Kouimtzoglou</li>
 <li><b>Website:</b> <a class="external text" href="http://homepages.pathfinder.gr/eleasar/" rel="noreferrer noopener" target="_blank">Timos Kouimtzoglou&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Timos_Kouimtzoglou" title="Tolkien Gateway:Copyrights/Timos Kouimtzoglou">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTimos_Kouimtzoglou.md" title="Tolkien Gateway:Copyrights/Timos Kouimtzoglou">Permission for use on Tolkien Gateway</a></b></li></ul></div>

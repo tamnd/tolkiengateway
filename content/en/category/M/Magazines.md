@@ -1,6 +1,5 @@
 ---
 title: "Category:Magazines"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Magazines</span>"
 page_id: 26514
 namespace: 14
 revision_id: 183265
@@ -13,4 +12,4 @@ categories:
   - "Periodicals"
 ---
 
-Non-scholarly publications generally published on a regular schedule, containing a variety of articles. See also *[Journals](/wiki/Category:Journals "Category:Journals")* and *[Fanzines](/wiki/Category:Fanzines "Category:Fanzines")*.
+Non-scholarly publications generally published on a regular schedule, containing a variety of articles. See also *[Journals](../J/Journals.md)* and *[Fanzines](../F/Fanzines.md)*.

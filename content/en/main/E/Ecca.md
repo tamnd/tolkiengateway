@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ekka"
 ---
 
-Redirect to [Ekka](/wiki/Ekka).
+Redirect to [Ekka](Ekka.md).

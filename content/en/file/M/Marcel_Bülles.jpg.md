@@ -1,6 +1,5 @@
 ---
 title: "File:Marcel Bülles.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Marcel Bülles.jpg</span>"
 page_id: 44230
 namespace: 6
 revision_id: 232612
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Marcel Bülles](/wiki/Marcel_B%C3%BClles), taken by Peter Becher (<a class="external text" href="http://www.starcontinuum.net/" rel="noreferrer noopener" target="_blank">Starcontinuum.net</a>) at [Ring\*Con](/wiki/Ring*Con) 2012.
+Photograph of [Marcel Bülles](../../main/M/Marcel_Bülles.md), taken by Peter Becher (<a class="external text" href="http://www.starcontinuum.net/" rel="noreferrer noopener" target="_blank">Starcontinuum.net</a>) at [Ring\*Con](../../main/R/Ring%252ACon.md) 2012.
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Marcel Bülles](/wiki/Marcel_B%C3%BClles), taken by Peter Becher 
 </p>
 <ul><li><b>Name:</b> Marcel Bülles</li>
 <li><b>Website:</b> Marcel Bülles</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Marcel_B%C3%BClles" title="Tolkien Gateway:Copyrights/Marcel Bülles">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMarcel_Bülles.md" title="Tolkien Gateway:Copyrights/Marcel Bülles">Permission for use on Tolkien Gateway</a></b></li></ul></div>

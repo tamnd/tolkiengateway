@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda (annual)"
 ---
 
-Redirect to [Arda (annual)](/wiki/Arda_(annual)).
+Redirect to [Arda (annual)](<Arda_(annual).md>).

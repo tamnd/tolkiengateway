@@ -1,6 +1,5 @@
 ---
 title: "File:Finn and Hengest 2026.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Finn and Hengest 2026.jpg</span>"
 page_id: 74641
 namespace: 6
 revision_id: 439235

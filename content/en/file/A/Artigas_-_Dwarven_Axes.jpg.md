@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Dwarven Axes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Dwarven Axes.jpg</span>"
 page_id: 59763
 namespace: 6
 revision_id: 333685
@@ -31,7 +30,7 @@ file:
 
 Excerpt from the author's notes: "Here you see a collection of one-handed axes, the first two of the battleaxe-type and the others rather sidearms."
 
-See also *[The Seven Houses of the Khazad](/wiki/File:Artigas_-_The_Seven_Houses_of_the_Khazad.jpg "File:Artigas - The Seven Houses of the Khazad.jpg")* and *[Swords of the Various Dwarven Cultures](/wiki/File:Artigas_-_Swords_of_the_Various_Dwarven_Cultures.jpg "File:Artigas - Swords of the Various Dwarven Cultures.jpg")* by the same author, for depictions of the Seven Houses of the Dwarves and dwarven one-handed swords.
+See also *[The Seven Houses of the Khazad](Artigas_-_The_Seven_Houses_of_the_Khazad.jpg.md)* and *[Swords of the Various Dwarven Cultures](Artigas_-_Swords_of_the_Various_Dwarven_Cultures.jpg.md)* by the same author, for depictions of the Seven Houses of the Dwarves and dwarven one-handed swords.
 
 ## Licensing {#Licensing}
 
@@ -40,4 +39,4 @@ See also *[The Seven Houses of the Khazad](/wiki/File:Artigas_-_The_Seven_Houses
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

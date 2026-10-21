@@ -1,6 +1,5 @@
 ---
 title: "File:C.A. Furth 4 February 1938.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">C.A. Furth 4 February 1938.png</span>"
 page_id: 38813
 namespace: 6
 revision_id: 215020

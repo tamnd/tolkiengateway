@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to L. Sprague de Camp"
 ---
 
-Redirect to [Letter to L. Sprague de Camp](/wiki/Letter_to_L._Sprague_de_Camp).
+Redirect to [Letter to L. Sprague de Camp](Letter_to_L._Sprague_de_Camp.md).

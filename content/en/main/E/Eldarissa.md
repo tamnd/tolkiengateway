@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Qenya"
 ---
 
-Redirect to [Qenya](/wiki/Qenya).
+Redirect to [Qenya](../Q/Qenya.md).

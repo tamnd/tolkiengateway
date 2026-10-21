@@ -11,4 +11,4 @@ redirect_target: "Blue Wizards"
 redirect_fragment: "Later writings"
 ---
 
-Redirect to [Blue Wizards](/wiki/Blue_Wizards#Later_writings).
+Redirect to [Blue Wizards](../B/Blue_Wizards.md#Later_writings).

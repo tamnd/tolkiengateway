@@ -1,6 +1,5 @@
 ---
 title: "File:Helmet of Anárion.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Helmet of Anárion.png</span>"
 page_id: 72017
 namespace: 6
 revision_id: 437132
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-From [Treasures of Middle-earth (2nd edition)](</wiki/Treasures_of_Middle-earth_(2nd_edition)>)
+From [Treasures of Middle-earth (2nd edition)](<../../main/T/Treasures_of_Middle-earth_(2nd_edition).md>)
 
 Artist not signed. Could be Kent Burles, Storn Cook, Liz Danforth (unlikely since she always signs), James A. Fallin, or Karnran Sedaghatkish
 

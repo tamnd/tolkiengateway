@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haldir"
 ---
 
-Redirect to [Haldir](/wiki/Haldir).
+Redirect to [Haldir](Haldir.md).

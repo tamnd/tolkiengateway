@@ -1,6 +1,5 @@
 ---
 title: "L'association La Compagnie de la Comté"
-display_title: "<span class=\"mw-page-title-main\">L&#039;association La Compagnie de la Comté</span>"
 page_id: 36972
 namespace: 0
 revision_id: 243461
@@ -14,11 +13,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-**L'association La Compagnie de la Comté**, was a [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") in France founded in 1996.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The last recorded activity was in 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**L'association La Compagnie de la Comté**, was a [Tolkien Society](../T/Tolkien_Societies~67099.md) in France founded in 1996.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The last recorded activity was in 2001.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Members of Note {#Members_of_Note}
 
-- [Michaël Devaux](/wiki/Micha%C3%ABl_Devaux)
+- [Michaël Devaux](../M/Michaël_Devaux.md)
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Elizabeth Mary Wright"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Elizabeth Mary Wright</span>"
 page_id: 68503
 namespace: 14
 revision_id: 403658
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Wright, Elizabeth Mary"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Elizabeth Mary Wright](/wiki/Elizabeth_Mary_Wright).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Elizabeth Mary Wright](../../main/E/Elizabeth_Mary_Wright.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Banbury Advertiser 19 December 1956.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Banbury Advertiser 19 December 1956.png</span>"
 page_id: 39149
 namespace: 6
 revision_id: 192536

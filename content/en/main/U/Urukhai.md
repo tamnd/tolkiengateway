@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uruk-hai"
 ---
 
-Redirect to [Uruk-hai](/wiki/Uruk-hai).
+Redirect to [Uruk-hai](Uruk-hai.md).

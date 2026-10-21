@@ -1,6 +1,5 @@
 ---
 title: "Category:Middle-earth: Shadow (video game series)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth: Shadow (video game series)</span>"
 page_id: 60729
 namespace: 14
 revision_id: 340707

@@ -11,4 +11,4 @@ redirect_target: "TEÑ"
 redirect_fragment: "Other versions"
 ---
 
-Redirect to [TEÑ](/wiki/TEÑ#Other_versions).
+Redirect to [TEÑ](TEÑ.md#Other_versions).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "In the Willow-meads of Tasarinan"
 ---
 
-Redirect to [In the Willow-meads of Tasarinan](/wiki/In_the_Willow-meads_of_Tasarinan).
+Redirect to [In the Willow-meads of Tasarinan](In_the_Willow-meads_of_Tasarinan.md).

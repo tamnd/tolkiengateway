@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Venlian"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Venlian</span>"
 page_id: 47480
 namespace: 14
 revision_id: 252876

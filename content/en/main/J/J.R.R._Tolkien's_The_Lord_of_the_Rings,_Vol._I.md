@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's The Lord of the Rings, Vol. I (disambiguation)"
 ---
 
-Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. I (disambiguation)](/wiki/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(disambiguation)).
+Redirect to [J.R.R. Tolkien's The Lord of the Rings, Vol. I (disambiguation)](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(disambiguation).md>).

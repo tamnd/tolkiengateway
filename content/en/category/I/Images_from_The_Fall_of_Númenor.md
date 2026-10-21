@@ -17,4 +17,4 @@ sort_keys:
   "Images by publication": "Fall of Numenor"
 ---
 
-<dl><dd>Images from <b><i><a href="/wiki/The_Fall_of_N%C3%BAmenor" title="The Fall of Númenor">The Fall of Númenor</a></i> illustrated by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></b>.</dd></dl>
+<dl><dd>Images from <b><i><a href="../../main/T/The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a></i> illustrated by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></b>.</dd></dl>

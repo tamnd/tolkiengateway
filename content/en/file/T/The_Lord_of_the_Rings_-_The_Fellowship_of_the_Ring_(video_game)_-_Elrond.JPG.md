@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Elrond.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Elrond.JPG</span>"
 page_id: 20973
 namespace: 6
 revision_id: 298646
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elrond](/wiki/Elrond) at the [Council of Elrond](/wiki/Council_of_Elrond). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Elrond](../../main/E/Elrond.md) at the [Council of Elrond](../../main/C/Council_of_Elrond.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

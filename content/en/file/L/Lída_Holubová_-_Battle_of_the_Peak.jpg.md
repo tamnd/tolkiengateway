@@ -1,6 +1,5 @@
 ---
 title: "File:Lída Holubová - Battle of the Peak.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lída Holubová - Battle of the Peak.jpg</span>"
 page_id: 72299
 namespace: 6
 revision_id: 429705
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Battle of the Peak](/wiki/Battle_of_the_Peak)" by [Lída Holubová](/wiki/L%C3%ADda_Holubov%C3%A1)
+"[Battle of the Peak](../../main/B/Battle_of_the_Peak.md)" by [Lída Holubová](../../main/L/Lída_Holubová.md)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lída Holubová</li>
 <li><b>Website:</b> <a class="external text" href="https://aegeri.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a> · <a class="external text" href="https://www.instagram.com/gnome.the.artist/" rel="noreferrer noopener" target="_blank">Instagram</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/L%C3%ADda_Holubov%C3%A1" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLída_Holubová.md" title="Tolkien Gateway:Copyrights/Lída Holubová">Permission for use on Tolkien Gateway</a></b></li></ul></div>

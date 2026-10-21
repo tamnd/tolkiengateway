@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silmë"
 ---
 
-Redirect to [Silmë](/wiki/Silmë).
+Redirect to [Silmë](Silmë.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Party Tree"
 ---
 
-Redirect to [The Party Tree](/wiki/The_Party_Tree).
+Redirect to [The Party Tree](../T/The_Party_Tree.md).

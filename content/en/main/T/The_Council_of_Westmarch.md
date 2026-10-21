@@ -15,7 +15,7 @@ sort_keys:
   "Smials": "The Council of Westmarch"
 ---
 
-<i><b>The Council of Westmarch</b></i> (abbreviated as "CofW") is a Montana-based (USA) smial of [The Tolkien Society](/wiki/The_Tolkien_Society). The CofW meets regularly for active and engaging discussion of Tolkien's works. Meetings usually involve Council business, book discussion, and trivia for which there are prizes. The group also has annual celebratory events, fundraisers, and annual public lectures on Tolkien-related topics. The Council of Westmarch is the only smial in Montana and the surrounding states.
+<i><b>The Council of Westmarch</b></i> (abbreviated as "CofW") is a Montana-based (USA) smial of [The Tolkien Society](The_Tolkien_Society.md). The CofW meets regularly for active and engaging discussion of Tolkien's works. Meetings usually involve Council business, book discussion, and trivia for which there are prizes. The group also has annual celebratory events, fundraisers, and annual public lectures on Tolkien-related topics. The Council of Westmarch is the only smial in Montana and the surrounding states.
 
 ## History {#History}
 

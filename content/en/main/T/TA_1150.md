@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 1150"
 ---
 
-Redirect to [Third Age 1150](/wiki/Third_Age_1150).
+Redirect to [Third Age 1150](Third_Age_1150.md).

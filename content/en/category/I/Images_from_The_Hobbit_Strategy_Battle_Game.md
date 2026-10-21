@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from The Hobbit Strategy Battle Game"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from The Hobbit Strategy Battle Game</span>"
 page_id: 42987
 namespace: 14
 revision_id: 433556
@@ -13,4 +12,4 @@ categories:
   - "Images from Games Workshop"
 ---
 
-Images from **[The Hobbit Strategy Battle Game](/wiki/The_Hobbit_Strategy_Battle_Game)**.
+Images from **[The Hobbit Strategy Battle Game](../../main/T/The_Hobbit_Strategy_Battle_Game.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:Games.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games.png</span>"
 page_id: 37051
 namespace: 6
 revision_id: 178605

@@ -1,6 +1,5 @@
 ---
 title: "Philippine Tolkien Society"
-display_title: "<span class=\"mw-page-title-main\">Philippine Tolkien Society</span>"
 page_id: 36977
 namespace: 0
 revision_id: 388160
@@ -13,7 +12,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**The Philippine Tolkien Society**, PTS, was the [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in the Philippines.
+**The Philippine Tolkien Society**, PTS, was the [Tolkien society](../T/Tolkien_Societies~67099.md) in the Philippines.
 
 ## History {#History}
 

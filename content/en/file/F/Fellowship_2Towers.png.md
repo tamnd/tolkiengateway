@@ -1,6 +1,5 @@
 ---
 title: "File:Fellowship 2Towers.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fellowship 2Towers.png</span>"
 page_id: 37107
 namespace: 6
 revision_id: 177586

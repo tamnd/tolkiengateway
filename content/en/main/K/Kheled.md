@@ -13,12 +13,12 @@ categories:
   - "Khuzdul words"
 ---
 
-**kheled** means "glass" in [Khuzdul](/wiki/Khuzdul).
+**kheled** means "glass" in [Khuzdul](Khuzdul.md).
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") Kh-L-D
+[Root](../S/Sundocarmë.md) Kh-L-D
 
 ## Derivatives {#Derivatives}
 
-- [Sindarin](/wiki/Sindarin): <i><a class="new" href="/w/index.php?title=Heledh&amp;action=edit&amp;redlink=1" title="Heledh (page does not exist)">heledh</a></i>
+- [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Heledh&amp;action=edit&amp;redlink=1" title="Heledh (page does not exist)">heledh</a></i>

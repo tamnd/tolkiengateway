@@ -1,6 +1,5 @@
 ---
 title: "Category:Meetings templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings templates</span>"
 page_id: 28580
 namespace: 14
 revision_id: 162306

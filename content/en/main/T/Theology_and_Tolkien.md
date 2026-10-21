@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Theology and Tolkien: Practical Theology"
 ---
 
-Redirect to [Theology and Tolkien: Practical Theology](/wiki/Theology_and_Tolkien:_Practical_Theology).
+Redirect to [Theology and Tolkien: Practical Theology](Theology_and_Tolkien%253A_Practical_Theology.md).

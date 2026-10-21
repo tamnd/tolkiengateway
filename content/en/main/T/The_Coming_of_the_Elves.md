@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Coming of the Elves and the Making of Kôr"
 ---
 
-Redirect to [The Coming of the Elves and the Making of Kôr](/wiki/The_Coming_of_the_Elves_and_the_Making_of_Kôr).
+Redirect to [The Coming of the Elves and the Making of Kôr](The_Coming_of_the_Elves_and_the_Making_of_Kôr.md).

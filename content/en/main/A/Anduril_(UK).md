@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúril (UK)"
 ---
 
-Redirect to [Andúril (UK)](/wiki/Andúril_(UK)).
+Redirect to [Andúril (UK)](<Andúril_(UK).md>).

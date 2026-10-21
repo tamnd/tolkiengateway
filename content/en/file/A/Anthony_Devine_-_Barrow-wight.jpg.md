@@ -1,6 +1,5 @@
 ---
 title: "File:Anthony Devine - Barrow-wight.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anthony Devine - Barrow-wight.jpg</span>"
 page_id: 73734
 namespace: 6
 revision_id: 435531
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Barrow-wight](/wiki/Barrow-wights "Barrow-wights")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Fog on the Barrow-downs* illustration by Anthony Devine
+"[Barrow-wight](../../main/B/Barrow-wights.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Fog on the Barrow-downs* illustration by Anthony Devine
 
 ## Licensing {#Licensing}
 

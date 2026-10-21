@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Trust"
 ---
 
-Redirect to [The Tolkien Trust](/wiki/The_Tolkien_Trust).
+Redirect to [The Tolkien Trust](The_Tolkien_Trust.md).

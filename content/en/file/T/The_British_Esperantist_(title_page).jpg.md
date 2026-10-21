@@ -1,6 +1,5 @@
 ---
 title: "File:The British Esperantist (title page).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The British Esperantist (title page).jpg</span>"
 page_id: 45551
 namespace: 6
 revision_id: 240171
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Photo by Andrew Wells of the cover of the title page of [*The British Esperantist*, Vol.28, May 1932](/wiki/The_British_Esperantist,_Vol.28,_May_1932 "The British Esperantist, Vol.28, May 1932").
+Photo by Andrew Wells of the cover of the title page of [*The British Esperantist*, Vol.28, May 1932](../../main/T/The_British_Esperantist,_Vol.28,_May_1932.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ Photo by Andrew Wells of the cover of the title page of [*The British Esperantis
 <p>This work is copyrighted and owned by Andrew Wells. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Andrew Wells</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrew_Wells" title="Tolkien Gateway:Copyrights/Andrew Wells">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrew_Wells.md" title="Tolkien Gateway:Copyrights/Andrew Wells">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Battle of the Five Armies - Lake-town burning.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Battle of the Five Armies - Lake-town burning.png</span>"
 page_id: 56406
 namespace: 6
 revision_id: 307569
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Lake-town during [Smaug](/wiki/Smaug)'s attack from *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)*.
+Lake-town during [Smaug](../../main/S/Smaug.md)'s attack from *[The Hobbit: The Battle of the Five Armies](../../main/T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
 
 ## Licensing {#Licensing}
 

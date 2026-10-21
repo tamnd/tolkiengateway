@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Dol Amrothians"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Dol Amrothians</span>"
 page_id: 12287
 namespace: 14
 revision_id: 197251

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enyalië"
 ---
 
-Redirect to [Enyalië](/wiki/Enyalië).
+Redirect to [Enyalië](Enyalië.md).

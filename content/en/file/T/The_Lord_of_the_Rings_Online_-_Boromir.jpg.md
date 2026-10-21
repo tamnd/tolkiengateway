@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Boromir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Boromir.jpg</span>"
 page_id: 43832
 namespace: 6
 revision_id: 314281

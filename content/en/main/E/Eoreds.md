@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éored"
 ---
 
-Redirect to [Éored](/wiki/Éored).
+Redirect to [Éored](../_/Éored.md).

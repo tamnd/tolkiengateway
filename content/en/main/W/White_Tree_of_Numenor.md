@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimloth (tree)"
 ---
 
-Redirect to [Nimloth (tree)](/wiki/Nimloth_(tree)).
+Redirect to [Nimloth (tree)](<../N/Nimloth_(tree).md>).

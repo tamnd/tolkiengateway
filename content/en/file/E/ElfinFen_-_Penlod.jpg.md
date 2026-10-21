@@ -1,6 +1,5 @@
 ---
 title: "File:ElfinFen - Penlod.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">ElfinFen - Penlod.jpg</span>"
 page_id: 61097
 namespace: 6
 revision_id: 343676
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> ElfinFen</li>
 <li><b>Website:</b> <a class="external text" href="https://elfinfen.tumblr.com/" rel="noreferrer noopener" target="_blank">ElfinFen on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/ElfinFen" title="Tolkien Gateway:Copyrights/ElfinFen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElfinFen.md" title="Tolkien Gateway:Copyrights/ElfinFen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Suzy Almblade - Left Comfort Behind.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Suzy Almblade - Left Comfort Behind.jpg</span>"
 page_id: 42684
 namespace: 6
 revision_id: 225105
@@ -34,6 +33,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Suzy Almblade</li>
 <li><b>Website:</b> <a class="external text" href="http://www.suzyalmblade.com/" rel="noreferrer noopener" target="_blank">Suzy Almblade&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Suzy_Almblade" title="Tolkien Gateway:Copyrights/Suzy Almblade">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSuzy_Almblade.md" title="Tolkien Gateway:Copyrights/Suzy Almblade">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

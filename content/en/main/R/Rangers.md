@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rangers (disambiguation)"
 ---
 
-Redirect to [Rangers (disambiguation)](/wiki/Rangers_(disambiguation)).
+Redirect to [Rangers (disambiguation)](<Rangers_(disambiguation).md>).

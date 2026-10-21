@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Yvan Strelzyk"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Yvan Strelzyk</span>"
 page_id: 40622
 namespace: 14
 revision_id: 217532

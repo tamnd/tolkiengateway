@@ -1,6 +1,5 @@
 ---
 title: "East Beleriand"
-display_title: "<span class=\"mw-page-title-main\">East Beleriand</span>"
 page_id: 2025
 namespace: 0
 revision_id: 405326
@@ -21,37 +20,37 @@ images:
   - "John_Howe_-_Beleriand_and_the_North.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_Howe_-_Beleriand_and_the_North.jpg"><img src="/w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/300px-John_Howe_-_Beleriand_and_the_North.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="/w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/450px-John_Howe_-_Beleriand_and_the_North.jpg 1.5x, /w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/600px-John_Howe_-_Beleriand_and_the_North.jpg 2x" data-file-width="1423" data-file-height="1091"/></a><figcaption>East Beleriand marked in <i>Beleriand and the North</i> by <a href="/wiki/John_Howe" title="John Howe">John Howe</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Beleriand_and_the_North.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/300px-John_Howe_-_Beleriand_and_the_North.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/450px-John_Howe_-_Beleriand_and_the_North.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/John_Howe_-_Beleriand_and_the_North.jpg/600px-John_Howe_-_Beleriand_and_the_North.jpg 2x" data-file-width="1423" data-file-height="1091"/></a><figcaption>East Beleriand marked in <i>Beleriand and the North</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
-**East Beleriand** was the part of [Beleriand](/wiki/Beleriand) that lay east of the River [Sirion](/wiki/Sirion) and west of the [Gelion](/wiki/Gelion), and stretched a hundred leagues across at its widest.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This region was ruled by [Thingol](/wiki/Thingol) from [Doriath](/wiki/Doriath) and (east of [Aros](/wiki/Aros)) largely under the control of the [Sons of Fëanor](/wiki/Sons_of_F%C3%ABanor) during the late [First Age](/wiki/First_Age).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**East Beleriand** was the part of [Beleriand](../B/Beleriand.md) that lay east of the River [Sirion](../S/Sirion.md) and west of the [Gelion](../G/Gelion.md), and stretched a hundred leagues across at its widest.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This region was ruled by [Thingol](../T/Thingol.md) from [Doriath](../D/Doriath.md) and (east of [Aros](../A/Aros.md)) largely under the control of the [Sons of Fëanor](../S/Sons_of_Fëanor.md) during the late [First Age](../F/First_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Geography {#Geography}
 
-Sirion descended from the north to the south. With its tributaries [Mindeb](/wiki/Mindeb), [Esgalduin](/wiki/Esgalduin), [Aros](/wiki/Aros) and its tributary [Celon](/wiki/Celon), they formed [Neldoreth](/wiki/Forest_of_Neldoreth "Forest of Neldoreth") and [Region](/wiki/Forest_of_Region "Forest of Region"), the forests of [Doriath](/wiki/Doriath). North of Doriath, the rivers separated the lands of [Dimbar](/wiki/Dimbar), [Nan Dungortheb](/wiki/Nan_Dungortheb), [Dor Dínen](/wiki/Dor_D%C3%ADnen) and [Himlad](/wiki/Himlad), just south from the northern highlands.
+Sirion descended from the north to the south. With its tributaries [Mindeb](../M/Mindeb.md), [Esgalduin](Esgalduin.md), [Aros](../A/Aros.md) and its tributary [Celon](../C/Celon.md), they formed [Neldoreth](../F/Forest_of_Neldoreth.md) and [Region](../F/Forest_of_Region.md), the forests of [Doriath](../D/Doriath.md). North of Doriath, the rivers separated the lands of [Dimbar](../D/Dimbar.md), [Nan Dungortheb](../N/Nan_Dungortheb.md), [Dor Dínen](../D/Dor_Dínen.md) and [Himlad](../H/Himlad.md), just south from the northern highlands.
 
-Separated from Doriath, next to the eastern banks of [Celon](/wiki/Celon) was the small wood of [Nan Elmoth](/wiki/Nan_Elmoth).
+Separated from Doriath, next to the eastern banks of [Celon](../C/Celon.md) was the small wood of [Nan Elmoth](../N/Nan_Elmoth.md).
 
-The [Pass of Aglon](/wiki/Pass_of_Aglon) and the [March of Maedhros](/wiki/March_of_Maedhros) were two passes among a couple of small mountain ranges, which led to [Lothlann](/wiki/Lothlann).
+The [Pass of Aglon](../P/Pass_of_Aglon.md) and the [March of Maedhros](../M/March_of_Maedhros.md) were two passes among a couple of small mountain ranges, which led to [Lothlann](../L/Lothlann.md).
 
-To the south was [Estolad](/wiki/Estolad) and more open, vast empty lands, until the eastern part of the ridge of [Andram](/wiki/Andram), ending to the [Amon Ereb](/wiki/Amon_Ereb).
+To the south was [Estolad](Estolad.md) and more open, vast empty lands, until the eastern part of the ridge of [Andram](../A/Andram.md), ending to the [Amon Ereb](../A/Amon_Ereb.md).
 
-The eastern part of Beleriand was dominated by the river [Gelion](/wiki/Gelion), which separated the main lands from [Thargelion](/wiki/Thargelion) and the land of [Ossiriand](/wiki/Ossiriand), marked by the river's tributaries ([Ascar](/wiki/Ascar), [Thalos](/wiki/Thalos), [Legolin](/wiki/Legolin), [Brilthor](/wiki/Brilthor), [Duilwen](/wiki/Duilwen) and [Adurant](/wiki/Adurant)). Further to the east, the [Blue Mountains](/wiki/Blue_Mountains) separated Beleriand from [Eriador](/wiki/Eriador).
+The eastern part of Beleriand was dominated by the river [Gelion](../G/Gelion.md), which separated the main lands from [Thargelion](../T/Thargelion.md) and the land of [Ossiriand](../O/Ossiriand.md), marked by the river's tributaries ([Ascar](../A/Ascar.md), [Thalos](../T/Thalos.md), [Legolin](../L/Legolin.md), [Brilthor](../B/Brilthor.md), [Duilwen](../D/Duilwen.md) and [Adurant](../A/Adurant.md)). Further to the east, the [Blue Mountains](../B/Blue_Mountains.md) separated Beleriand from [Eriador](Eriador.md).
 
-Between the great rivers Sirion and Gelion, to the south of Beleriand was the great forest [Taur-im-Duinath](/wiki/Taur-im-Duinath).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Between the great rivers Sirion and Gelion, to the south of Beleriand was the great forest [Taur-im-Duinath](../T/Taur-im-Duinath.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## See also {#See_also}
 
-- [West Beleriand](/wiki/West_Beleriand)
+- [West Beleriand](../W/West_Beleriand.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;Part Two: Valinor and Middle-earth before <i>The Lord of the Rings</i>, VI. <a href="/wiki/Quenta_Silmarillion_(Lost_Road)" title="Quenta Silmarillion (Lost Road)"><i>Quenta Silmarillion</i></a>&#34;, p. 261</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, &#34;Part Two: Valinor and Middle-earth before <i>The Lord of the Rings</i>, VI. <a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)"><i>Quenta Silmarillion</i></a>&#34;, p. 261</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_Beleriand_and_its_Realms" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Map_of_Beleriand_and_the_Lands_to_the_North" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../M/Map_of_Beleriand_and_the_Lands_to_the_North.md" title="Map of Beleriand and the Lands to the North">Map of Beleriand and the Lands to the North</a>&#34;</span>
 </li>
 </ol></div>

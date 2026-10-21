@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit (1977 film) soundtrack"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1977 film) soundtrack</span>"
 page_id: 31455
 namespace: 14
 revision_id: 440555
@@ -17,4 +16,4 @@ sort_keys:
   "The Hobbit (1977 film)": "Hobbit"
 ---
 
-This category lists songs from **[The Hobbit (1977 film) soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack "The Hobbit: The Complete Original Soundtrack")**.
+This category lists songs from **[The Hobbit (1977 film) soundtrack](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)**.

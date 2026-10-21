@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parma Nölé"
 ---
 
-Redirect to [Parma Nölé](/wiki/Parma_Nölé).
+Redirect to [Parma Nölé](Parma_Nölé.md).

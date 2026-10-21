@@ -1,6 +1,5 @@
 ---
 title: "File:Pompeo Batoni - Aeneas fleeing from Troy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pompeo Batoni - Aeneas fleeing from Troy.jpg</span>"
 page_id: 59312
 namespace: 6
 revision_id: 329439

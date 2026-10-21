@@ -1,6 +1,5 @@
 ---
 title: "File:Battlelore3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Battlelore3.jpg</span>"
 page_id: 22289
 namespace: 6
 revision_id: 218076

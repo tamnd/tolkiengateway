@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King under the Mountain"
 ---
 
-Redirect to [King under the Mountain](/wiki/King_under_the_Mountain).
+Redirect to [King under the Mountain](King_under_the_Mountain.md).

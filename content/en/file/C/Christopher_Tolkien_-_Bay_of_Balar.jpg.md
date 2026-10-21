@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Bay of Balar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Bay of Balar.jpg</span>"
 page_id: 21953
 namespace: 6
 revision_id: 306049
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Bay of Balar](/wiki/Bay_of_Balar), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg>).
+Map of the [Bay of Balar](../../main/B/Bay_of_Balar.md), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>).
 
 ## Licensing {#Licensing}
 

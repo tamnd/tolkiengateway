@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ithildin"
 ---
 
-Redirect to [Ithildin](/wiki/Ithildin).
+Redirect to [Ithildin](../I/Ithildin.md).

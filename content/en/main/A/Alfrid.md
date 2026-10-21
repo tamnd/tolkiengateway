@@ -11,4 +11,4 @@ redirect_target: "Councillors"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Councillors](/wiki/Councillors#Portrayal_in_adaptations).
+Redirect to [Councillors](../C/Councillors.md#Portrayal_in_adaptations).

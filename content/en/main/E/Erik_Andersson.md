@@ -1,6 +1,5 @@
 ---
 title: "Erik Andersson"
-display_title: "<span class=\"mw-page-title-main\">Erik Andersson</span>"
 page_id: 25324
 namespace: 0
 revision_id: 405434
@@ -28,15 +27,15 @@ langlinks:
     url: "https://kontu.wiki/Erik_Andersson"
 ---
 
-**Erik Andersson** (born [1962](/wiki/1962)) is a Swedish author and translator. He is most known for a new translation, <i><a class="new" href="/w/index.php?title=Ringarnas_herre&amp;action=edit&amp;redlink=1" title="Ringarnas herre (page does not exist)">Ringarnas herre</a></i>, of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* (the earlier translation, *[Härskarringen](/wiki/H%C3%A4rskarringen)*, had been translated by [Åke Ohlmarks](/wiki/%C3%85ke_Ohlmarks)). The first part of the trilogy was released on [15 September](/wiki/15_September) [2004](/wiki/2004) and the two other parts were published during [2005](/wiki/2005). Erik Andersson translated the prose while the poems were translated by <a class="new" href="/w/index.php?title=Lotta_Olsson&amp;action=edit&amp;redlink=1" title="Lotta Olsson (page does not exist)">Lotta Olsson</a>. In [2007](/wiki/2007), Andersson published a diary from the work with *The Lord of the Rings*, called *[Översättarens anmärkningar](/wiki/%C3%96vers%C3%A4ttarens_anm%C3%A4rkningar)*.
+**Erik Andersson** (born [1962](../_/1962.md)) is a Swedish author and translator. He is most known for a new translation, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ringarnas_herre&amp;action=edit&amp;redlink=1" title="Ringarnas herre (page does not exist)">Ringarnas herre</a></i>, of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (the earlier translation, *[Härskarringen](../H/Härskarringen.md)*, had been translated by [Åke Ohlmarks](../_/Åke_Ohlmarks.md)). The first part of the trilogy was released on [15 September](../_/15_September.md) [2004](../_/2004.md) and the two other parts were published during [2005](../_/2005.md). Erik Andersson translated the prose while the poems were translated by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lotta_Olsson&amp;action=edit&amp;redlink=1" title="Lotta Olsson (page does not exist)">Lotta Olsson</a>. In [2007](../_/2007.md), Andersson published a diary from the work with *The Lord of the Rings*, called *[Översättarens anmärkningar](../_/Översättarens_anmärkningar.md)*.
 
 Andersson has also worked together with John Swedenmark on a new Swedish translation of *The Hobbit*, which was released in 2007 (*Hobbiten*).
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="/wiki/Index:Writings_by_J.R.R._Tolkien" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="/wiki/Roland_Adlerberth" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a class="mw-selflink selflink">Erik Andersson</a></b> · <b><a href="/wiki/Britt_G._Hallqvist" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a href="/wiki/%C3%96jevind_L%C3%A5ng" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="/wiki/%C3%85ke_Ohlmarks" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="/wiki/Tore_Zetterholm" title="Tore Zetterholm">Tore Zetterholm</a></b>
+<td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a class="mw-selflink selflink">Erik Andersson</a></b> · <b><a href="../B/Britt_G._Hallqvist.md" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a href="../_/Öjevind_Lång.md" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></b>
 </td></tr>
 </tbody></table>

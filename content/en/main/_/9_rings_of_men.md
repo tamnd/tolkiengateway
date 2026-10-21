@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nine Rings"
 ---
 
-Redirect to [Nine Rings](/wiki/Nine_Rings).
+Redirect to [Nine Rings](../N/Nine_Rings.md).

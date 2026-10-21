@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Squirrels"
 ---
 
-Redirect to [Squirrels](/wiki/Squirrels).
+Redirect to [Squirrels](Squirrels.md).

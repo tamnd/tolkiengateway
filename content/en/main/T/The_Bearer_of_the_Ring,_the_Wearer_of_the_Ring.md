@@ -1,6 +1,5 @@
 ---
 title: "The Bearer of the Ring, the Wearer of the Ring"
-display_title: "<span class=\"mw-page-title-main\">The Bearer of the Ring, the Wearer of the Ring</span>"
 page_id: 46065
 namespace: 0
 revision_id: 343450
@@ -13,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**The Bearer of the Ring, the Wearer of the Ring** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). Excerpts of the song recurs throughout the film, indicating the psychological weight of [the One Ring](/wiki/The_One_Ring "The One Ring") bearing down on both [Frodo](/wiki/Frodo_Baggins "Frodo Baggins") and [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee") in their quest to destroy it.
+**The Bearer of the Ring, the Wearer of the Ring** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). Excerpts of the song recurs throughout the film, indicating the psychological weight of [the One Ring](The_One_Ring.md) bearing down on both [Frodo](../F/Frodo_Baggins.md) and [Sam](../S/Samwise_Gamgee.md) in their quest to destroy it.
 
 ## Lyrics {#Lyrics}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Westemnet Village.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Westemnet Village.jpg</span>"
 page_id: 71752
 namespace: 6
 revision_id: 427633
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Westemnet](/wiki/Westemnet) Village in *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *Shadows*
+[Westemnet](../../main/W/Westemnet.md) Village in *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *Shadows*
 
 ## Licensing {#Licensing}
 

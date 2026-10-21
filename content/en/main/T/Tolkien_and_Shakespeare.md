@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and Shakespeare: Essays on Shared Themes and Language"
 ---
 
-Redirect to [Tolkien and Shakespeare: Essays on Shared Themes and Language](/wiki/Tolkien_and_Shakespeare:_Essays_on_Shared_Themes_and_Language).
+Redirect to [Tolkien and Shakespeare: Essays on Shared Themes and Language](Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md).

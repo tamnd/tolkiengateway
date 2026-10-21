@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "G.B.S."
 ---
 
-Redirect to [G.B.S.](/wiki/G.B.S.).
+Redirect to [G.B.S.](https://tolkiengateway.net/wiki/G.B.S.).

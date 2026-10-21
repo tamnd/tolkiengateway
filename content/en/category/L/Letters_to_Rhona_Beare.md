@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Rhona Beare"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Rhona Beare</span>"
 page_id: 66650
 namespace: 14
 revision_id: 385838
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Beare, Rhona"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Rhona Beare](/wiki/Rhona_Beare).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Rhona Beare](../../main/R/Rhona_Beare.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of eagles from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of eagles from adaptations</span>"
 page_id: 50574
 namespace: 14
 revision_id: 440265

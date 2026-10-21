@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Luis Bermejo"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Luis Bermejo</span>"
 page_id: 74570
 namespace: 14
 revision_id: 438920
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Bermejo, Luis"
 ---
 
-This category lists all **images by [Luis Bermejo](/wiki/Luis_Bermejo)**.
+This category lists all **images by [Luis Bermejo](../../main/L/Luis_Bermejo.md)**.

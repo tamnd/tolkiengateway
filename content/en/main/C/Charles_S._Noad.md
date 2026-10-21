@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Charles Noad"
 ---
 
-Redirect to [Charles Noad](/wiki/Charles_Noad).
+Redirect to [Charles Noad](Charles_Noad.md).

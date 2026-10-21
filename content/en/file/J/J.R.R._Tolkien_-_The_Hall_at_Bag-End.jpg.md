@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hall at Bag-End.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hall at Bag-End.jpg</span>"
 page_id: 62463
 namespace: 6
 revision_id: 429919
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and originally published in the first impression of [The Hobbit](/wiki/The_Hobbit), 1937 (in Chapter 11, [On the Doorstep](/wiki/On_the_Doorstep)).
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and originally published in the first impression of [The Hobbit](../../main/T/The_Hobbit.md), 1937 (in Chapter 11, [On the Doorstep](../../main/O/On_the_Doorstep.md)).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: The Desolation of Smaug"
 ---
 
-Redirect to [The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug).
+Redirect to [The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md).

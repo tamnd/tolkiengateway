@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minas Tirith (1988 book)"
 ---
 
-Redirect to [Minas Tirith (1988 book)](/wiki/Minas_Tirith_(1988_book)).
+Redirect to [Minas Tirith (1988 book)](<Minas_Tirith_(1988_book).md>).

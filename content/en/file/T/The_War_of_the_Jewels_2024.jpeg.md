@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:War of the Jewels 2024.jpeg"
 ---
 
-Redirect to [File:War of the Jewels 2024.jpeg](/wiki/File:War_of_the_Jewels_2024.jpeg).
+Redirect to [File:War of the Jewels 2024.jpeg](../W/War_of_the_Jewels_2024.jpeg.md).

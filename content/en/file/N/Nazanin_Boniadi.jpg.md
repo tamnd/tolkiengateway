@@ -1,6 +1,5 @@
 ---
 title: "File:Nazanin Boniadi.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nazanin Boniadi.jpg</span>"
 page_id: 63789
 namespace: 6
 revision_id: 434526
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.facebook.com/photo/?fbid=302699501222494&amp;set=a.302699464555831" rel="noreferrer noopener" target="_blank">Actor&#39;s Facebook</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

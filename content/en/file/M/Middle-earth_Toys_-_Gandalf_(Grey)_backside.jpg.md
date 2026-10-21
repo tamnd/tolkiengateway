@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Toys - Gandalf (Grey) backside.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Toys - Gandalf (Grey) backside.jpg</span>"
 page_id: 73285
 namespace: 6
 revision_id: 433469
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Middle-earth Toys - Gandalf (Grey) backside.jpg</span></th>
 <td class="description">
-<p>Action figure from <a href="/wiki/Middle-earth_Toys" title="Middle-earth Toys">Middle-earth Toys</a>
+<p>Action figure from <a href="../../main/M/Middle-earth_Toys.md" title="Middle-earth Toys">Middle-earth Toys</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Taken from <a class="external text" href="https://www.ebay.com/itm/185296842743" rel="noreferrer noopener" target="_blank">an eBay auction</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

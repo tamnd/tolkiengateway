@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Nargothrond"
 ---
 
-Redirect to [Elves of Nargothrond](/wiki/Elves_of_Nargothrond).
+Redirect to [Elves of Nargothrond](../E/Elves_of_Nargothrond.md).

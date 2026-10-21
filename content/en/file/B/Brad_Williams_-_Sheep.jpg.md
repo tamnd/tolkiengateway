@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Brad Williams - People Diminished.jpg"
 ---
 
-Redirect to [File:Brad Williams - People Diminished.jpg](/wiki/File:Brad_Williams_-_People_Diminished.jpg).
+Redirect to [File:Brad Williams - People Diminished.jpg](Brad_Williams_-_People_Diminished.jpg.md).

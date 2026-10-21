@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bëor"
 ---
 
-Redirect to [Bëor](/wiki/Bëor).
+Redirect to [Bëor](Bëor.md).

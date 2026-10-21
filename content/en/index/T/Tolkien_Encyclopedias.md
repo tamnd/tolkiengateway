@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of Tolkien Encyclopedias"
 ---
 
-Redirect to [List of Tolkien Encyclopedias](/wiki/List_of_Tolkien_Encyclopedias).
+Redirect to [List of Tolkien Encyclopedias](../../main/L/List_of_Tolkien_Encyclopedias.md).

@@ -1,6 +1,5 @@
 ---
 title: "Christopher Nightingale"
-display_title: "<span class=\"mw-page-title-main\">Christopher Nightingale</span>"
 page_id: 64125
 namespace: 0
 revision_id: 405088
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "Nightingale, Christopher"
 ---
 
-**Christopher Nightingale** is a Tony Award winner for the "Best Original Score written for Theatre" for <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Christmas_Carol_(2017_play)" title="wikipedia:A Christmas Carol (2017 play)">A Christmas Carol</a></i>, a Tony nominee for <i><a class="extiw" href="http://en.wikipedia.org/wiki/Matilda_the_Musical" title="wikipedia:Matilda the Musical">Matilda, The Musical</a></i>, a Grammy nominee for the Matilda US Album and NY Outer Critic Circle Honouree for *A Christmas Carol*. He composed the music for *[The Lord of the Rings (musical)](</wiki/The_Lord_of_the_Rings_(musical)>)*, along with [Värttinä](/wiki/V%C3%A4rttin%C3%A4) and [A.R. Rahman](/wiki/A.R._Rahman).
+**Christopher Nightingale** is a Tony Award winner for the "Best Original Score written for Theatre" for <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Christmas_Carol_(2017_play)" title="wikipedia:A Christmas Carol (2017 play)">A Christmas Carol</a></i>, a Tony nominee for <i><a class="extiw" href="http://en.wikipedia.org/wiki/Matilda_the_Musical" title="wikipedia:Matilda the Musical">Matilda, The Musical</a></i>, a Grammy nominee for the Matilda US Album and NY Outer Critic Circle Honouree for *A Christmas Carol*. He composed the music for *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)*, along with [Värttinä](../V/Värttinä.md) and [A.R. Rahman](../A/A.R._Rahman.md).
 
 ## External links {#External_links}
 

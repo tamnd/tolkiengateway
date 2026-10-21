@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hornblower Family"
 ---
 
-Redirect to [Hornblower Family](/wiki/Hornblower_Family).
+Redirect to [Hornblower Family](Hornblower_Family.md).

@@ -11,4 +11,4 @@ redirect_target: "Ambar"
 redirect_fragment: "Ambar"
 ---
 
-Redirect to [Ambar](/wiki/Ambar#Ambar).
+Redirect to [Ambar](../A/Ambar.md#Ambar).

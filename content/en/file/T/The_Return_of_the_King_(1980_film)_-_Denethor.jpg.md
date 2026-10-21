@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Denethor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Denethor.jpg</span>"
 page_id: 9758
 namespace: 6
 revision_id: 424799

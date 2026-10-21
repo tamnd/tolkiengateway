@@ -1,6 +1,5 @@
 ---
 title: "File:Eric Faure-Brac - Map of the Shire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eric Faure-Brac - Map of the Shire.jpg</span>"
 page_id: 40269
 namespace: 6
 revision_id: 202499
@@ -28,7 +27,7 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -40,4 +39,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Eric Faure-Brac</li>
 <li><b>Website:</b> <a class="external text" href="http://eric.faurebrac.perso.neuf.fr/index.htm" rel="noreferrer noopener" target="_blank">Eric Faure-Brac&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Eric_Faure-Brac" title="Tolkien Gateway:Copyrights/Eric Faure-Brac">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEric_Faure-Brac.md" title="Tolkien Gateway:Copyrights/Eric Faure-Brac">Permission for use on Tolkien Gateway</a></b></li></ul></div>

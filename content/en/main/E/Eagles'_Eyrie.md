@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eagle's Eyrie"
 ---
 
-Redirect to [Eagle's Eyrie](/wiki/Eagle's_Eyrie).
+Redirect to [Eagle's Eyrie](Eagle's_Eyrie.md).

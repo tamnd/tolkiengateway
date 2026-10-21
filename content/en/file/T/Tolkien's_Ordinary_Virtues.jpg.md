@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Ordinary Virtues.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Ordinary Virtues.jpg</span>"
 page_id: 5302
 namespace: 6
 revision_id: 307156

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Théoden and Gamling.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Théoden and Gamling.png</span>"
 page_id: 64163
 namespace: 6
 revision_id: 366739
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene ["Where is the Horse and the Rider?"](/wiki/%22Where_is_the_Horse_and_the_Rider%3F%22), in [The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers).
+A still from the scene ["Where is the Horse and the Rider?"](../../main/_/%2522Where_is_the_Horse_and_the_Rider%253F%2522.md), in [The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md).
 
 ## Licensing {#Licensing}
 

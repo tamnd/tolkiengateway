@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bell Goodchild"
 ---
 
-Redirect to [Bell Goodchild](/wiki/Bell_Goodchild).
+Redirect to [Bell Goodchild](Bell_Goodchild.md).

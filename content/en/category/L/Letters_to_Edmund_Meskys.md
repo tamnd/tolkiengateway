@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Edmund Meskys"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Edmund Meskys</span>"
 page_id: 68715
 namespace: 14
 revision_id: 408900
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Meskys, Edmund"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Edmund_Meskys&amp;action=edit&amp;redlink=1" title="Edmund Meskys (page does not exist)">Edmund Meskys</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Edmund_Meskys&amp;action=edit&amp;redlink=1" title="Edmund Meskys (page does not exist)">Edmund Meskys</a>.

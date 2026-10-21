@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Monolith Productions"
 ---
 
-Redirect to [Monolith Productions](/wiki/Monolith_Productions).
+Redirect to [Monolith Productions](../M/Monolith_Productions.md).

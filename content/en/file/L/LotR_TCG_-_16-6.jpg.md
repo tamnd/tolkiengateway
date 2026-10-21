@@ -1,6 +1,5 @@
 ---
 title: "File:LotR TCG - 16-6.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotR TCG - 16-6.jpg</span>"
 page_id: 12245
 namespace: 6
 revision_id: 249510

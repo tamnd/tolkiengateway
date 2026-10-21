@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meril-i-Turinqi"
 ---
 
-Redirect to [Meril-i-Turinqi](/wiki/Meril-i-Turinqi).
+Redirect to [Meril-i-Turinqi](../M/Meril-i-Turinqi.md).

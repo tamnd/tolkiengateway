@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Má"
 ---
 
-Redirect to [Má](/wiki/Má).
+Redirect to [Má](Má.md).

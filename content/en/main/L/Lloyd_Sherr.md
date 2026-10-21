@@ -1,6 +1,5 @@
 ---
 title: "Lloyd Sherr"
-display_title: "<span class=\"mw-page-title-main\">Lloyd Sherr</span>"
 page_id: 22819
 namespace: 0
 revision_id: 138763
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Sherr, Lloyd"
 ---
 
-**Lloyd Michael Sherr** (born [1956](/wiki/1956)) is an American voice actor.
+**Lloyd Michael Sherr** (born [1956](../_/1956.md)) is an American voice actor.
 
 ## Roles {#Roles}
 
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: [Saruman](/wiki/Saruman)
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)*: [Hwaldar](/wiki/Hwaldar)
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: [Saruman](../S/Saruman.md)
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: [Hwaldar](../H/Hwaldar.md)
 
 ## External links {#External_links}
 

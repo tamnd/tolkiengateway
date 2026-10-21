@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Ring of Artifice.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Ring of Artifice.jpg</span>"
 page_id: 71090
 namespace: 6
 revision_id: 433693
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Ring of Artifice](/wiki/Seven_Rings#The_Seven_Rings_in_adaptations "Seven Rings")
+The [Ring of Artifice](../../main/S/Seven_Rings.md#The_Seven_Rings_in_adaptations)
 
 ## Licensing {#Licensing}
 

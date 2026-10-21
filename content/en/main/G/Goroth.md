@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorth"
 ---
 
-Redirect to [Gorth](/wiki/Gorth).
+Redirect to [Gorth](Gorth.md).

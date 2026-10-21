@@ -1,6 +1,5 @@
 ---
 title: "Bring Us In Good Ale"
-display_title: "<span class=\"mw-page-title-main\">Bring Us In Good Ale</span>"
 page_id: 63163
 namespace: 0
 revision_id: 438510
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Bring Us In Good Ale** is a 15th century carol.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is published as the fourth song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Bring Us In Good Ale** is a 15th century carol.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is published as the fourth song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Kent Burles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Kent Burles</span>"
 page_id: 30070
 namespace: 14
 revision_id: 182050

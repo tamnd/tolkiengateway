@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Weta (disambiguation)"
 ---
 
-Redirect to [Weta (disambiguation)](/wiki/Weta_(disambiguation)).
+Redirect to [Weta (disambiguation)](<Weta_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Gondolin Full Score Artwork.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gondolin Full Score Artwork.png</span>"
 page_id: 65214
 namespace: 6
 revision_id: 378819

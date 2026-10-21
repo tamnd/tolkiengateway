@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Ae Adar Nin 2.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Ae Adar Nin 2.png</span>"
 page_id: 56191
 namespace: 6
 revision_id: 309334
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's handwritten notes about "[Ae Adar Nín](/wiki/Ae_Adar_N%C3%ADn)", appearing as cover illustration on [*Tolkien Studies*: Volume 4](/wiki/Tolkien_Studies:_Volume_4 "Tolkien Studies: Volume 4"), but cleansed and with better quality.
+Tolkien's handwritten notes about "[Ae Adar Nín](../../main/A/Ae_Adar_Nín.md)", appearing as cover illustration on [*Tolkien Studies*: Volume 4](../../main/T/Tolkien_Studies%253A_Volume_4.md), but cleansed and with better quality.
 
 ## Licensing {#Licensing}
 

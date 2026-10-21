@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to W.B. Crouch"
 ---
 
-Redirect to [Letter to W.B. Crouch](/wiki/Letter_to_W.B._Crouch).
+Redirect to [Letter to W.B. Crouch](../L/Letter_to_W.B._Crouch.md).

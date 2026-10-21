@@ -11,4 +11,4 @@ redirect_target: "Turgon"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Turgon](/wiki/Turgon#Etymology).
+Redirect to [Turgon](Turgon.md#Etymology).

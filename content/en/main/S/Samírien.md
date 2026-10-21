@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High feast"
 ---
 
-Redirect to [High feast](/wiki/High_feast).
+Redirect to [High feast](../H/High_feast.md).

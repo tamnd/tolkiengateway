@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas"
 ---
 
-Redirect to [Legolas](/wiki/Legolas).
+Redirect to [Legolas](../L/Legolas.md).

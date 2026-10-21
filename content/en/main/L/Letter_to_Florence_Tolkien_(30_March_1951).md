@@ -1,6 +1,5 @@
 ---
 title: "Letter to Florence Tolkien (30 March 1951)"
-display_title: "<span class=\"mw-page-title-main\">Letter to Florence Tolkien (30 March 1951)</span>"
 page_id: 64553
 namespace: 0
 revision_id: 406270
@@ -15,14 +14,14 @@ sort_keys:
   "Letters": "Tolkien, Florence"
 ---
 
-On [30 March](/wiki/30_March) [1951](/wiki/1951), Tolkien wrote a letter to <a class="new" href="/w/index.php?title=Florence_Tolkien&amp;action=edit&amp;redlink=1" title="Florence Tolkien (page does not exist)">Florence Tolkien</a>.
+On [30 March](../_/30_March.md) [1951](../_/1951.md), Tolkien wrote a letter to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Florence_Tolkien&amp;action=edit&amp;redlink=1" title="Florence Tolkien (page does not exist)">Florence Tolkien</a>.
 
 - **Subject:** Tolkien says they are probably third cousins and tells her about the family history.
-- **Publication:** The letter has not been published in print. It appears in its entirety in an entry made on [17 April](/wiki/17_April) [2019](/wiki/2019) on [Ryszard Derdziński](/wiki/Ryszard_Derdzi%C5%84ski)'s blog <a class="external text" href="https://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkniety</a>.
+- **Publication:** The letter has not been published in print. It appears in its entirety in an entry made on [17 April](../_/17_April.md) [2019](../_/2019.md) on [Ryszard Derdziński](../R/Ryszard_Derdziński.md)'s blog <a class="external text" href="https://tolkniety.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkniety</a>.
 
 ## History {#History}
 
-Derdziński tells that he became aware of the letter's existence through corresponding with the receiver's granddaughter, <a class="new" href="/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, who contacted him via ancestry.com. The original seems to be lost but a transcript, hand-written by Florence, was preserved.
+Derdziński tells that he became aware of the letter's existence through corresponding with the receiver's granddaughter, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, who contacted him via ancestry.com. The original seems to be lost but a transcript, hand-written by Florence, was preserved.
 
 ## External links {#External_links}
 

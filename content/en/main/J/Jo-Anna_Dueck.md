@@ -1,6 +1,5 @@
 ---
 title: "Jo-Anna Dueck"
-display_title: "<span class=\"mw-page-title-main\">Jo-Anna Dueck</span>"
 page_id: 22236
 namespace: 0
 revision_id: 285658
@@ -21,11 +20,11 @@ sort_keys:
   "People of unknown nationality": "Dueck, Jo-Anna"
 ---
 
-**Jo-Anna Dueck** was the administrator of *[Silver Leaves](/wiki/Silver_Leaves)*, the journal of [the White Tree Fund](/wiki/The_White_Tree_Fund "The White Tree Fund").
+**Jo-Anna Dueck** was the administrator of *[Silver Leaves](../S/Silver_Leaves.md)*, the journal of [the White Tree Fund](../T/The_White_Tree_Fund.md).
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia](/wiki/J.R.R._Tolkien_Encyclopedia)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia](J.R.R._Tolkien_Encyclopedia.md)*
     - "Thorin Oakenshield"
-- [2007](/wiki/2007): *[Silver Leaves](/wiki/Silver_Leaves)* 1
+- [2007](../_/2007.md): *[Silver Leaves](../S/Silver_Leaves.md)* 1
     - "Tolkien Lecture Series 2007"

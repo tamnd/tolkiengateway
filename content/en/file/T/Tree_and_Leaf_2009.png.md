@@ -1,6 +1,5 @@
 ---
 title: "File:Tree and Leaf 2009.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tree and Leaf 2009.png</span>"
 page_id: 61861
 namespace: 6
 revision_id: 348826

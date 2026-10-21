@@ -15,9 +15,9 @@ sort_keys:
   "Fanzines": "Ivy Bush"
 ---
 
-<i><b>The Ivy Bush: A Tolkien Magazine</b></i> is a [Tolkien fan](/wiki/Tolkien_fandom "Tolkien fandom") magazine founded by Benita Prins and Rachel VanderWoude. It was published online from 2012 to 2018.
+<i><b>The Ivy Bush: A Tolkien Magazine</b></i> is a [Tolkien fan](Tolkien_fandom.md) magazine founded by Benita Prins and Rachel VanderWoude. It was published online from 2012 to 2018.
 
-The magazine featured two articles per issue covering all aspects of Tolkien's work, including but not limited to [Middle-earth](/wiki/Middle-earth). Each issue also contained features such as a language corner, original poetry, short stories, and trivia about the books and the films. The magazine tended towards a book purist bias.
+The magazine featured two articles per issue covering all aspects of Tolkien's work, including but not limited to [Middle-earth](../M/Middle-earth.md). Each issue also contained features such as a language corner, original poetry, short stories, and trivia about the books and the films. The magazine tended towards a book purist bias.
 
 <br>
 

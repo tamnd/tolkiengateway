@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aulendil (disambiguation)"
 ---
 
-Redirect to [Aulendil (disambiguation)](/wiki/Aulendil_(disambiguation)).
+Redirect to [Aulendil (disambiguation)](<Aulendil_(disambiguation).md>).

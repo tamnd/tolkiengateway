@@ -1,6 +1,5 @@
 ---
 title: "Bo Hansson"
-display_title: "<span class=\"mw-page-title-main\">Bo Hansson</span>"
 page_id: 31778
 namespace: 0
 revision_id: 437363
@@ -21,15 +20,15 @@ images:
   - "Bo_Hansson.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Bo_Hansson.jpg"><img src="/w/images/thumb/8/8a/Bo_Hansson.jpg/300px-Bo_Hansson.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="/w/images/thumb/8/8a/Bo_Hansson.jpg/450px-Bo_Hansson.jpg 1.5x, /w/images/thumb/8/8a/Bo_Hansson.jpg/600px-Bo_Hansson.jpg 2x" data-file-width="869" data-file-height="666"/></a><figcaption>Bo Hansson performing live in 2007</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bo_Hansson.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/300px-Bo_Hansson.jpg" decoding="async" loading="lazy" width="300" height="230" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/450px-Bo_Hansson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Bo_Hansson.jpg/600px-Bo_Hansson.jpg 2x" data-file-width="869" data-file-height="666"/></a><figcaption>Bo Hansson performing live in 2007</figcaption></figure>
 
-**Bo Hansson** ([April 10](/wiki/10_April "10 April"), [1943](/wiki/1943) – [April 23](/wiki/23_April "23 April"), [2010](/wiki/2010)) was a Swedish musician and composer. He became internationally famous for releasing albums with music inspired by *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* in the 1970s.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Bo Hansson** ([April 10](../_/10_April.md), [1943](../_/1943.md) – [April 23](../_/23_April.md), [2010](../_/2010.md)) was a Swedish musician and composer. He became internationally famous for releasing albums with music inspired by *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* in the 1970s.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Discography, selected {#Discography,_selected}
 
-- [1970](/wiki/1970): *[Sagan om Ringen](</wiki/Sagan_om_Ringen_(album)> "Sagan om Ringen (album)")* (English release: *The Lord of the Rings*, 1972)
-- [1972](/wiki/1972): *Ur Trollkarlens hatt* (English release: *Magician's Hat*, 1974; includes the track "Fylke" (English: "The Shire") which was recorded for but not released on *Sagan om Ringen*)<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
-- [1975](/wiki/1975): *Mellanväsen* (English release: *Attic Thoughts*, 1975; this album was the last to include references to *The Lord of the Rings*)<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
+- [1970](../_/1970.md): *[Sagan om Ringen](<../S/Sagan_om_Ringen_(album).md>)* (English release: *The Lord of the Rings*, 1972)
+- [1972](../_/1972.md): *Ur Trollkarlens hatt* (English release: *Magician's Hat*, 1974; includes the track "Fylke" (English: "The Shire") which was recorded for but not released on *Sagan om Ringen*)<sup id="cite_ref-Bio_2-0" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
+- [1975](../_/1975.md): *Mellanväsen* (English release: *Attic Thoughts*, 1975; this album was the last to include references to *The Lord of the Rings*)<sup id="cite_ref-Bio_2-1" class="reference"><a href="#cite_note-Bio-2">[2]</a></sup>
 
 ## External links {#External_links}
 

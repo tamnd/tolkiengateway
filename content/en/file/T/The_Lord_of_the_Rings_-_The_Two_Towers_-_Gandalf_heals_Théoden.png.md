@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Gandalf heals Théoden.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Gandalf heals Théoden.png</span>"
 page_id: 72508
 namespace: 6
 revision_id: 430653
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf the White](/wiki/Gandalf "Gandalf") healing [Théoden](/wiki/Th%C3%A9oden) [King](/wiki/King_of_Rohan "King of Rohan") - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Gandalf the White](../../main/G/Gandalf.md) healing [Théoden](../../main/T/Théoden.md) [King](../../main/K/King_of_Rohan.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Kim Kincaid - Thorin Oakenshield.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kim Kincaid - Thorin Oakenshield.jpg</span>"
 page_id: 9478
 namespace: 6
 revision_id: 207440
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A sketch of [Thorin II Oakenshield](/wiki/Thorin "Thorin") based on the actor Sean Connery.
+A sketch of [Thorin II Oakenshield](../../main/T/Thorin.md) based on the actor Sean Connery.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ A sketch of [Thorin II Oakenshield](/wiki/Thorin "Thorin") based on the actor Se
 </p>
 <ul><li><b>Name:</b> Kim Kincaid</li>
 <li><b>Website:</b> <a class="external text" href="http://www.artbykimkincaid.com/" rel="noreferrer noopener" target="_blank">Kim Kincaid&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Kim_Kincaid" title="Tolkien Gateway:Copyrights/Kim Kincaid">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKim_Kincaid.md" title="Tolkien Gateway:Copyrights/Kim Kincaid">Permission for use on Tolkien Gateway</a></b></li></ul></div>

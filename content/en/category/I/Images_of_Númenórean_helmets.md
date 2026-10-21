@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Númenórean helmets"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Númenórean helmets</span>"
 page_id: 74095
 namespace: 14
 revision_id: 437448

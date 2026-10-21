@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Ronald Eames"
 ---
 
-Redirect to [Letter to Ronald Eames](/wiki/Letter_to_Ronald_Eames).
+Redirect to [Letter to Ronald Eames](../L/Letter_to_Ronald_Eames.md).

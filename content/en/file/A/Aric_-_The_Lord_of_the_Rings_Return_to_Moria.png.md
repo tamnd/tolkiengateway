@@ -1,6 +1,5 @@
 ---
 title: "File:Aric - The Lord of the Rings Return to Moria.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aric - The Lord of the Rings Return to Moria.png</span>"
 page_id: 69902
 namespace: 6
 revision_id: 415377
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aric](/wiki/Aric) from *[The Lord of the Rings: Return to Moria](/wiki/The_Lord_of_the_Rings:_Return_to_Moria)*.
+[Aric](../../main/A/Aric.md) from *[The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md)*.
 
 ## Licensing {#Licensing}
 

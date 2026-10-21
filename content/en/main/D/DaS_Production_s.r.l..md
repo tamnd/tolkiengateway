@@ -1,6 +1,5 @@
 ---
 title: "DaS Production s.r.l."
-display_title: "<span class=\"mw-page-title-main\">DaS Production s.r.l.</span>"
 page_id: 27684
 namespace: 0
 revision_id: 190109
@@ -14,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**DaS Production s.r.l.** was in Italy the publisher and game master of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**DaS Production s.r.l.** was in Italy the publisher and game master of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Völsungakviða en nýja eða Sigurðarkviða en mesta"
 ---
 
-Redirect to [Völsungakviða en nýja eða Sigurðarkviða en mesta](/wiki/Völsungakviða_en_nýja_eða_Sigurðarkviða_en_mesta).
+Redirect to [Völsungakviða en nýja eða Sigurðarkviða en mesta](../V/Völsungakviða_en_nýja_eða_Sigurðarkviða_en_mesta.md).

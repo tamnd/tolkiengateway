@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Marina Muscan"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Marina Muscan</span>"
 page_id: 61226
 namespace: 4
 revision_id: 344552
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Muscan, Marina"
 ---
 
-- Marina Muscan has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Marina_Muscan "Category:Images by Marina Muscan") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Marina Muscan has kindly granted her permission to use [her artwork](../../category/I/Images_by_Marina_Muscan.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 10 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

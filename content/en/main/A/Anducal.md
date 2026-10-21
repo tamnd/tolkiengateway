@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Anducal"
 ---
 
-Redirect to [Tar-Anducal](/wiki/Tar-Anducal).
+Redirect to [Tar-Anducal](../T/Tar-Anducal.md).

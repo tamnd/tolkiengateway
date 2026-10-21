@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pre-Númenóreans"
 ---
 
-Redirect to [Pre-Númenóreans](/wiki/Pre-Númenóreans).
+Redirect to [Pre-Númenóreans](Pre-Númenóreans.md).

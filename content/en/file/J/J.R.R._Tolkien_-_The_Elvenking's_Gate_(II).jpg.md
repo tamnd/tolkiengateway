@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Elvenking's Gate (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Elvenking&#039;s Gate (II).jpg</span>"
 page_id: 5483
 namespace: 6
 revision_id: 429908
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Originally was published in the first impression of *[The Hobbit](/wiki/The_Hobbit)*, in Chapter 9, "[Barrels Out of Bond](/wiki/Barrels_Out_of_Bond)".
+Originally was published in the first impression of *[The Hobbit](../../main/T/The_Hobbit.md)*, in Chapter 9, "[Barrels Out of Bond](../../main/B/Barrels_Out_of_Bond.md)".
 
 This is the <a class="external text" href="https://tai.tolkienists.org/tai/10/" rel="noreferrer noopener" target="_blank">item #10 in the Tolkien Art Index</a>.
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Tim Kirk"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Tim Kirk</span>"
 page_id: 6386
 namespace: 14
 revision_id: 182193
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kirk, Tim"
 ---
 
-This category lists all **images by [Tim Kirk](/wiki/Tim_Kirk)**.
+This category lists all **images by [Tim Kirk](../../main/T/Tim_Kirk.md)**.

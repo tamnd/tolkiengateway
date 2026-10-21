@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orthanc"
 ---
 
-Redirect to [Orthanc](/wiki/Orthanc).
+Redirect to [Orthanc](../O/Orthanc.md).

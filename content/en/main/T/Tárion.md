@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valanya"
 ---
 
-Redirect to [Valanya](/wiki/Valanya).
+Redirect to [Valanya](../V/Valanya.md).

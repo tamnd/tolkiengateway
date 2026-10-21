@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mike Grealish"
 ---
 
-Redirect to [Mike Grealish](/wiki/Mike_Grealish).
+Redirect to [Mike Grealish](Mike_Grealish.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doom (Nightfall in Middle-Earth)"
 ---
 
-Redirect to [Doom (Nightfall in Middle-Earth)](/wiki/Doom_(Nightfall_in_Middle-Earth)).
+Redirect to [Doom (Nightfall in Middle-Earth)](<Doom_(Nightfall_in_Middle-Earth).md>).

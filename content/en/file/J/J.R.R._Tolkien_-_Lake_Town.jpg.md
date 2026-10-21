@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Lake Town.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Lake Town.jpg</span>"
 page_id: 5489
 namespace: 6
 revision_id: 429918
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) this piece was published in Chapter 10 ([A Warm Welcome](/wiki/A_Warm_Welcome)) of [The Hobbit](/wiki/The_Hobbit) in 1937.
+Drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) this piece was published in Chapter 10 ([A Warm Welcome](../../main/A/A_Warm_Welcome.md)) of [The Hobbit](../../main/T/The_Hobbit.md) in 1937.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ÁLAT"
 ---
 
-Redirect to [ÁLAT](/wiki/ÁLAT).
+Redirect to [ÁLAT](ÁLAT.md).

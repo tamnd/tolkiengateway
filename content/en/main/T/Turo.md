@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Túro"
 ---
 
-Redirect to [Túro](/wiki/Túro).
+Redirect to [Túro](Túro.md).

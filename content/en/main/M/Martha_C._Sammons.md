@@ -1,6 +1,5 @@
 ---
 title: "Martha C. Sammons"
-display_title: "<span class=\"mw-page-title-main\">Martha C. Sammons</span>"
 page_id: 25936
 namespace: 0
 revision_id: 320771
@@ -19,16 +18,16 @@ sort_keys:
   "People by name": "Sammons, Martha C."
 ---
 
-**Martha C. Sammons**, PhD, is professor of English at Wright State University, Dayton, OH, where she has taught since 1975. She has written books concerned with [C.S. Lewis](/wiki/C.S._Lewis) and [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Martha C. Sammons**, PhD, is professor of English at Wright State University, Dayton, OH, where she has taught since 1975. She has written books concerned with [C.S. Lewis](../C/C.S._Lewis.md) and [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books {#Books}
 
-- [1988](/wiki/1988): *"A Better Country": The Worlds of Religious Fantasy and Science Fiction*
-- [2009](/wiki/2009): *[War of the Fantasy Worlds: C.S. Lewis and J.R.R. Tolkien on Art and Imagination](/wiki/War_of_the_Fantasy_Worlds "War of the Fantasy Worlds")*
+- [1988](../_/1988.md): *"A Better Country": The Worlds of Religious Fantasy and Science Fiction*
+- [2009](../_/2009.md): *[War of the Fantasy Worlds: C.S. Lewis and J.R.R. Tolkien on Art and Imagination](../W/War_of_the_Fantasy_Worlds.md)*
 
 ### Articles {#Articles}
 
-- [1985](/wiki/1985): [*Mythlore* 43](/wiki/Mythlore_43 "Mythlore 43")
+- [1985](../_/1985.md): [*Mythlore* 43](Mythlore_43.md)
     - "Tolkien on Fantasy in Smith of Wootton Major"

@@ -1,6 +1,5 @@
 ---
 title: "File:The King Edward's School Chronicle Vol. 26 No. 187 1911.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The King Edward&#039;s School Chronicle Vol. 26 No. 187 1911.jpg</span>"
 page_id: 5048
 namespace: 6
 revision_id: 214649

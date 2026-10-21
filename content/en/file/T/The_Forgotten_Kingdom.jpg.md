@@ -1,6 +1,5 @@
 ---
 title: "File:The Forgotten Kingdom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Forgotten Kingdom.jpg</span>"
 page_id: 28862
 namespace: 6
 revision_id: 214635

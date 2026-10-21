@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Árpád Göncz"
 ---
 
-Redirect to [Árpád Göncz](/wiki/Árpád_Göncz).
+Redirect to [Árpád Göncz](../_/Árpád_Göncz.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Craig Maher - Elevenses.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Craig Maher - Elevenses.jpg</span>"
 page_id: 73055
 namespace: 6
 revision_id: 432553
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Elevenses](/wiki/Elevenses)" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Thing in the Depths* illustration by Craig Maher
+"[Elevenses](../../main/E/Elevenses.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Thing in the Depths* illustration by Craig Maher
 
 ## Licensing {#Licensing}
 

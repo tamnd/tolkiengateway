@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óma"
 ---
 
-Redirect to [Óma](/wiki/Óma).
+Redirect to [Óma](../_/Óma.md).

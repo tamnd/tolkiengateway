@@ -1,6 +1,5 @@
 ---
 title: "File:Víga-Glúms Saga.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Víga-Glúms Saga.png</span>"
 page_id: 32547
 namespace: 6
 revision_id: 214767

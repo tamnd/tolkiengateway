@@ -1,6 +1,5 @@
 ---
 title: "Mount Sunday"
-display_title: "<span class=\"mw-page-title-main\">Mount Sunday</span>"
 page_id: 11512
 namespace: 0
 revision_id: 360677
@@ -14,4 +13,4 @@ categories:
   - "The Lord of the Rings (film series) filming locations"
 ---
 
-**Mount Sunday**, [New Zealand](/wiki/New_Zealand), was used in *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)* and in [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King) as the hill on which [Edoras](/wiki/Edoras), the capital of [Rohan](/wiki/Rohan), sat.
+**Mount Sunday**, [New Zealand](../N/New_Zealand.md), was used in *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* and in [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) as the hill on which [Edoras](../E/Edoras.md), the capital of [Rohan](../R/Rohan.md), sat.

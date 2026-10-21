@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sacrifice of Faramir (soundtrack)"
 ---
 
-Redirect to [The Sacrifice of Faramir (soundtrack)](/wiki/The_Sacrifice_of_Faramir_(soundtrack)).
+Redirect to [The Sacrifice of Faramir (soundtrack)](<The_Sacrifice_of_Faramir_(soundtrack).md>).

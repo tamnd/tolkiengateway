@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Teeth of Mordor (book)"
 ---
 
-Redirect to [Teeth of Mordor (book)](/wiki/Teeth_of_Mordor_(book)).
+Redirect to [Teeth of Mordor (book)](<../T/Teeth_of_Mordor_(book).md>).

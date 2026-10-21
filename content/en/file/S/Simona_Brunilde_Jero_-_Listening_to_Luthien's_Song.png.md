@@ -1,6 +1,5 @@
 ---
 title: "File:Simona Brunilde Jero - Listening to Luthien's Song.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Simona Brunilde Jero - Listening to Luthien&#039;s Song.png</span>"
 page_id: 52184
 namespace: 6
 revision_id: 284187
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Simona Brunilde Jero</li>
 <li><b>Website:</b> <a class="external text" href="http://brunild.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Simona_Brunilde_Jero" title="Tolkien Gateway:Copyrights/Simona Brunilde Jero">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSimona_Brunilde_Jero.md" title="Tolkien Gateway:Copyrights/Simona Brunilde Jero">Permission for use on Tolkien Gateway</a></b></li></ul></div>

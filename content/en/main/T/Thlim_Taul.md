@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Pillar"
 ---
 
-Redirect to [House of the Pillar](/wiki/House_of_the_Pillar).
+Redirect to [House of the Pillar](../H/House_of_the_Pillar.md).

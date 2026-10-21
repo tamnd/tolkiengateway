@@ -1,6 +1,5 @@
 ---
 title: "File:Gondor in Flames.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gondor in Flames.png</span>"
 page_id: 36149
 namespace: 6
 revision_id: 433572

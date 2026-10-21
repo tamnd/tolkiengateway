@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "In Dwimordene, in Lórien"
 ---
 
-Redirect to [In Dwimordene, in Lórien](/wiki/In_Dwimordene,_in_Lórien).
+Redirect to [In Dwimordene, in Lórien](../I/In_Dwimordene,_in_Lórien.md).

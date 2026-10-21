@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faith Faulconbridge"
 ---
 
-Redirect to [Faith Faulconbridge](/wiki/Faith_Faulconbridge).
+Redirect to [Faith Faulconbridge](Faith_Faulconbridge.md).

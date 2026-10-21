@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cemendur (disambiguation)"
 ---
 
-Redirect to [Cemendur (disambiguation)](/wiki/Cemendur_(disambiguation)).
+Redirect to [Cemendur (disambiguation)](<Cemendur_(disambiguation).md>).

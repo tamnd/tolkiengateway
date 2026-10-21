@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fall of Númenor (disambiguation)"
 ---
 
-Redirect to [Fall of Númenor (disambiguation)](/wiki/Fall_of_Númenor_(disambiguation)).
+Redirect to [Fall of Númenor (disambiguation)](<Fall_of_Númenor_(disambiguation).md>).

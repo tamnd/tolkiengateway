@@ -1,6 +1,5 @@
 ---
 title: "File:Anonymous - Rúmil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anonymous - Rúmil.jpg</span>"
 page_id: 19874
 namespace: 6
 revision_id: 272906

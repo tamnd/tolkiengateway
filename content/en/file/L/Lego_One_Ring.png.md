@@ -1,6 +1,5 @@
 ---
 title: "File:Lego One Ring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego One Ring.png</span>"
 page_id: 37100
 namespace: 6
 revision_id: 283324

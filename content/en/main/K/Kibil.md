@@ -13,21 +13,21 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>kibil</b></i> is a [Khuzdul](/wiki/Khuzdul) word for [silver](/wiki/Silver "Silver").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>kibil</b></i> is a [Khuzdul](Khuzdul.md) word for [silver](../S/Silver.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-It is possible that it is related to [Sindarin](/wiki/Sindarin) *[celeb](/wiki/Celeb "Celeb")*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+It is possible that it is related to [Sindarin](../S/Sindarin.md) *[celeb](../C/Celeb.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- [Kibil-nâla](/wiki/Kibil-n%C3%A2la)
+- [Kibil-nâla](Kibil-nâla.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Nancy_Smith" title="Nancy Smith">Nancy Smith</a>, &#34;<a class="mw-redirect" href="/wiki/Index_questions" title="Index questions">Index questions</a>&#34; (quoted in <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 269)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../N/Nancy_Smith.md" title="Nancy Smith">Nancy Smith</a>, &#34;<a class="mw-redirect" href="../I/Index_questions.md" title="Index questions">Index questions</a>&#34; (quoted in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 269)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/khuzdul.htm" rel="noreferrer noopener" target="_blank">&#34;Khuzdul - the secret tongue of the Dwarves&#34;</a></span>. <span class="cite-web-website">Arda</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/khuzdul.htm" rel="noreferrer noopener" target="_blank">&#34;Khuzdul - the secret tongue of the Dwarves&#34;</a></span>. <span class="cite-web-website">Arda</span></cite></span>
 </li>
 </ol></div>

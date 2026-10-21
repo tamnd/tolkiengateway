@@ -1,6 +1,5 @@
 ---
 title: "Dominic Guard"
-display_title: "<span class=\"mw-page-title-main\">Dominic Guard</span>"
 page_id: 18956
 namespace: 0
 revision_id: 221849
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Guard, Dominic"
 ---
 
-**Dominic Guard** ([June 18](/wiki/18_June "18 June"), [1956](/wiki/1956)) is a British actor. He voiced [Peregrin Took](/wiki/Peregrin_Took) in [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)"). He is the younger brother of [Christopher Guard](/wiki/Christopher_Guard), who voiced [Frodo Baggins](/wiki/Frodo_Baggins).
+**Dominic Guard** ([June 18](../_/18_June.md), [1956](../_/1956.md)) is a British actor. He voiced [Peregrin Took](../P/Peregrin_Took.md) in [*The Lord of the Rings* (1978 film)](<../T/The_Lord_of_the_Rings_(1978_film).md>). He is the younger brother of [Christopher Guard](../C/Christopher_Guard.md), who voiced [Frodo Baggins](../F/Frodo_Baggins.md).
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jacek Kopalski"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jacek Kopalski</span>"
 page_id: 35269
 namespace: 14
 revision_id: 181897

@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - Gandalf Rides to Minas Tirith.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - Gandalf Rides to Minas Tirith.jpg</span>"
 page_id: 74354
 namespace: 6
 revision_id: 437999
@@ -35,33 +34,31 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Alan Lee - Gandalf Rides to Minas Tirith.jpg</span></th>
 <td class="description">
-<p>Artwork of <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> and <a href="/wiki/Peregrin_Took" title="Peregrin Took">Peregrin Took</a> riding on <a href="/wiki/Shadowfax" title="Shadowfax">Shadowfax</a> to <a href="/wiki/Minas_Tirith" title="Minas Tirith">Minas Tirith</a>. Created for the Blu-ray release <i><a href="/wiki/Middle-earth_(New_Line_Cinema_series)" title="Middle-earth (New Line Cinema series)">Middle-earth</a> 6 film collection</i>, it later featured in <i><a href="/wiki/The_Worlds_of_J.R.R._Tolkien" title="The Worlds of J.R.R. Tolkien">The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth</a></i>
+<p>Artwork of <a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf</a> and <a href="../../main/P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> riding on <a href="../../main/S/Shadowfax.md" title="Shadowfax">Shadowfax</a> to <a href="../../main/M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Created for the Blu-ray release <i><a href="../../main/M/Middle-earth_(New_Line_Cinema_series).md" title="Middle-earth (New Line Cinema series)">Middle-earth</a> 6 film collection</i>, it later featured in <i><a href="../../main/T/The_Worlds_of_J.R.R._Tolkien.md" title="The Worlds of J.R.R. Tolkien">The Worlds of J.R.R. Tolkien: The Places that Inspired Middle-earth</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1_November" title="1 November">November 1</a>, <a href="/wiki/2016" title="2016">2016</a></td>
+<td><a href="../../main/_/1_November.md" title="1 November">November 1</a>, <a href="../../main/_/2016.md" title="2016">2016</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Watercolour</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></td>
+<td><a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.amazon.com.au/Gandalf-Posters-Vintage-Aesthetics-Picture/dp/B0CP242GCX" rel="noreferrer noopener" target="_blank">https://www.amazon.com.au/Gandalf-Posters-Vintage-Aesthetics-Picture/dp/B0CP242GCX</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carnen"
 ---
 
-Redirect to [Carnen](/wiki/Carnen).
+Redirect to [Carnen](../C/Carnen.md).

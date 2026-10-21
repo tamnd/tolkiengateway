@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Rhosgobel Rabbits.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Rhosgobel Rabbits.jpg</span>"
 page_id: 43246
 namespace: 6
 revision_id: 427415
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Radagast the Brown](/wiki/Radagast "Radagast") is pulled by [Rhosgobel Rabbits](/wiki/Rabbits "Rabbits") - *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*
+[Radagast the Brown](../../main/R/Radagast.md) is pulled by [Rhosgobel Rabbits](../../main/R/Rabbits.md) - *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
 
 ## Licensing {#Licensing}
 

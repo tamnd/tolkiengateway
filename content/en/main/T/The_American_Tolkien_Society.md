@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "American Tolkien Society"
 ---
 
-Redirect to [American Tolkien Society](/wiki/American_Tolkien_Society).
+Redirect to [American Tolkien Society](../A/American_Tolkien_Society.md).

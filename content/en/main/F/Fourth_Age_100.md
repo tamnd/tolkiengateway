@@ -11,4 +11,4 @@ redirect_target: "Fourth Age 217"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Fourth Age 217](/wiki/Fourth_Age_217#Other_versions_of_the_legendarium).
+Redirect to [Fourth Age 217](Fourth_Age_217.md#Other_versions_of_the_legendarium).

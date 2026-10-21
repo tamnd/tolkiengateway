@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG The Wizards - Unlimited Starter Deck (back).jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG The Wizards - Unlimited Starter Deck (back).jpeg</span>"
 page_id: 73408
 namespace: 6
 revision_id: 433998
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Scanned from my own copy. Unfortunately is was pretty beat up.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

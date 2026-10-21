@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Anna Kulisz"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Anna Kulisz</span>"
 page_id: 47699
 namespace: 4
 revision_id: 253966
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kulisz, Anna"
 ---
 
-- Anna Kulisz has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Anna_Kulisz "Category:Images by Anna Kulisz") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Anna Kulisz has kindly granted her permission to use [her artwork](../../category/I/Images_by_Anna_Kulisz.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 August 2014
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

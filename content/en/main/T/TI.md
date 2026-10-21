@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Treason of Isengard"
 ---
 
-Redirect to [The Treason of Isengard](/wiki/The_Treason_of_Isengard).
+Redirect to [The Treason of Isengard](The_Treason_of_Isengard.md).

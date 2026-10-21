@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien e italia.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien e italia.jpg</span>"
 page_id: 53604
 namespace: 6
 revision_id: 291766

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Azanulbizar"
 ---
 
-Redirect to [Battle of Azanulbizar](/wiki/Battle_of_Azanulbizar).
+Redirect to [Battle of Azanulbizar](Battle_of_Azanulbizar.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Canada"
 ---
 
-Redirect to [Category:Canada](/wiki/Category:Canada).
+Redirect to [Category:Canada](../../category/C/Canada.md).

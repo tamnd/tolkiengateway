@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Douglas Carrel"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Douglas Carrel</span>"
 page_id: 74680
 namespace: 14
 revision_id: 439374
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Carrel, Douglas"
 ---
 
-This category lists all **images by [Douglas Carrel](/wiki/Douglas_Carrel)**.
+This category lists all **images by [Douglas Carrel](../../main/D/Douglas_Carrel.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King (video game) - Gorbag.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King (video game) - Gorbag.png</span>"
 page_id: 71411
 namespace: 6
 revision_id: 425963
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gorbag](/wiki/Gorbag) - [*The Lord of the Rings: The Return of the King* (video game)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)> "The Lord of the Rings: The Return of the King (video game)")
+[Gorbag](../../main/G/Gorbag.md) - [*The Lord of the Rings: The Return of the King* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.ea.com/" rel="noreferrer noopener" target="_blank">Electronic Arts</a>. It is believed that the limited use of this file,

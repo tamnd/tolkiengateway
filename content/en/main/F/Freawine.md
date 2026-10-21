@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fréawine"
 ---
 
-Redirect to [Fréawine](/wiki/Fréawine).
+Redirect to [Fréawine](Fréawine.md).

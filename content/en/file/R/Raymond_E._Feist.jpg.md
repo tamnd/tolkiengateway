@@ -1,6 +1,5 @@
 ---
 title: "File:Raymond E. Feist.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Raymond E. Feist.jpg</span>"
 page_id: 29700
 namespace: 6
 revision_id: 248921

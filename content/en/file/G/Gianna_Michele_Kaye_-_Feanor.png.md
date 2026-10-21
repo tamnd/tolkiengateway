@@ -1,6 +1,5 @@
 ---
 title: "File:Gianna Michele Kaye - Feanor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gianna Michele Kaye - Feanor.png</span>"
 page_id: 49533
 namespace: 6
 revision_id: 264905
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gianna Michele Kaye</li>
 <li><b>Website:</b> <a class="external text" href="http://g-m-kaye.tumblr.com" rel="noreferrer noopener" target="_blank">Gianna Michele Kaye on Tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gianna_Michele_Kaye" title="Tolkien Gateway:Copyrights/Gianna Michele Kaye">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGianna_Michele_Kaye.md" title="Tolkien Gateway:Copyrights/Gianna Michele Kaye">Permission for use on Tolkien Gateway</a></b></li></ul></div>

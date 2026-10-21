@@ -13,7 +13,7 @@ categories:
   - "Silvan Elvish words"
 ---
 
-**alm** (<a class="new" href="/w/index.php?title=%C3%81LAM&amp;action=edit&amp;redlink=1" title="ÁLAM (page does not exist)">ÁLAM</a>) means "elm-tree".
+**alm** (<a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%81LAM&amp;action=edit&amp;redlink=1" title="ÁLAM (page does not exist)">ÁLAM</a>) means "elm-tree".
 
 ## Etymology {#Etymology}
 
@@ -21,5 +21,5 @@ The word derives from *al(al)mâ*.
 
 ## See also {#See_also}
 
-- <a class="new" href="/w/index.php?title=Alalm%C3%AB&amp;action=edit&amp;redlink=1" title="Alalmë (page does not exist)">alalmë</a>
-- <a class="new" href="/w/index.php?title=Lalf&amp;action=edit&amp;redlink=1" title="Lalf (page does not exist)">lalf</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alalm%C3%AB&amp;action=edit&amp;redlink=1" title="Alalmë (page does not exist)">alalmë</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lalf&amp;action=edit&amp;redlink=1" title="Lalf (page does not exist)">lalf</a>

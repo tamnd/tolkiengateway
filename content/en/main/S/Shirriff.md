@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shirriffs"
 ---
 
-Redirect to [Shirriffs](/wiki/Shirriffs).
+Redirect to [Shirriffs](Shirriffs.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chaining of Melkor"
 ---
 
-Redirect to [Chaining of Melkor](/wiki/Chaining_of_Melkor).
+Redirect to [Chaining of Melkor](Chaining_of_Melkor.md).

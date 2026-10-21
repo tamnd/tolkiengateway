@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Crown Enterprises"
 ---
 
-Redirect to [Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises).
+Redirect to [Iron Crown Enterprises](Iron_Crown_Enterprises.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old Man Willow"
 ---
 
-Redirect to [Old Man Willow](/wiki/Old_Man_Willow).
+Redirect to [Old Man Willow](../O/Old_Man_Willow.md).

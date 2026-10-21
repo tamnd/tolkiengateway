@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andreas Möhn"
 ---
 
-Redirect to [Andreas Möhn](/wiki/Andreas_Möhn).
+Redirect to [Andreas Möhn](Andreas_Möhn.md).

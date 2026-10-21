@@ -1,6 +1,5 @@
 ---
 title: "Éarendel at the Helm"
-display_title: "<span class=\"mw-page-title-main\">Éarendel at the Helm</span>"
 page_id: 68821
 namespace: 0
 revision_id: 410105
@@ -13,7 +12,7 @@ categories:
   - "Poems by J.R.R. Tolkien"
 ---
 
-<i><b>Éarendel at the Helm</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> is a poem that was written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in the autumn of 1931 to be part of his lecture *[A Secret Vice](/wiki/A_Secret_Vice)*.<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
+<i><b>Éarendel at the Helm</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> is a poem that was written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) in the autumn of 1931 to be part of his lecture *[A Secret Vice](../A/A_Secret_Vice.md)*.<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 
 ## Poem {#Poem}
 
@@ -43,18 +42,16 @@ categories:
 
 Tolkien originally wrote the poem in Qenya in the autumn of 1931, entitling it simply as <i><b>Earendel</b></i> and used it in a lecture on language as an early example of language invention. Tolkien later revised and expanded the poem in English, giving it the new title of **Earendel at the Helm** and *Éarendel at the Helm*<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>.<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 
-The print poem was published posthumously on pages 216-7 of *[The Monsters and the Critics and Other Essays](/wiki/The_Monsters_and_the_Critics_and_Other_Essays)* in 1983.<sup id="cite_ref-RG_2-2" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
+The print poem was published posthumously on pages 216-7 of *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)* in 1983.<sup id="cite_ref-RG_2-2" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 
 ## References {#References}
 
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
-
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-collectedpoems-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-collectedpoems_1-0">1.0</a></sup> <sup><a href="#cite_ref-collectedpoems_1-1">1.1</a></sup> <sup><a href="#cite_ref-collectedpoems_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> (eds.), “124. <i><a class="mw-selflink selflink">Earendel · Earendel at the Helm</a></i> (?1931),” in <i><a href="/wiki/The_Collected_Poems_of_J.R.R._Tolkien" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2024)
+<li id="cite_note-collectedpoems-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-collectedpoems_1-0">1.0</a></sup> <sup><a href="#cite_ref-collectedpoems_1-1">1.1</a></sup> <sup><a href="#cite_ref-collectedpoems_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> (eds.), “124. <i><a class="mw-selflink selflink">Earendel · Earendel at the Helm</a></i> (?1931),” in <i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2024)
 </span>
 </li>
 <li id="cite_note-RG-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-RG_2-0">2.0</a></sup> <sup><a href="#cite_ref-RG_2-1">2.1</a></sup> <sup><a href="#cite_ref-RG_2-2">2.2</a></sup></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 234 (entry &#34;Earendel at the Helm&#34;)</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 234 (entry &#34;Earendel at the Helm&#34;)</span>
 </li>
 </ol></div></div>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of evidence of permission granted by copyright holders"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of evidence of permission granted by copyright holders</span>"
 page_id: 59753
 namespace: 14
 revision_id: 333621
@@ -17,6 +16,6 @@ sort_keys:
   "Images for Tolkien Gateway": "E"
 ---
 
-This is an image subcategory for the category [Evidence of permission granted by copyright holders](/wiki/Category:Evidence_of_permission_granted_by_copyright_holders "Category:Evidence of permission granted by copyright holders").
+This is an image subcategory for the category [Evidence of permission granted by copyright holders](../E/Evidence_of_permission_granted_by_copyright_holders.md).
 
 This image subcategory should only hold images that include screenshots depicting evidence of permission by copyright holders to use their artworks and other visual media on Tolkien Gateway.

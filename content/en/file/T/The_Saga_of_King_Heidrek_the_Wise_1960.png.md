@@ -1,6 +1,5 @@
 ---
 title: "File:The Saga of King Heidrek the Wise 1960.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Saga of King Heidrek the Wise 1960.png</span>"
 page_id: 70574
 namespace: 6
 revision_id: 420915

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alf"
 ---
 
-Redirect to [Alf](/wiki/Alf).
+Redirect to [Alf](../A/Alf.md).

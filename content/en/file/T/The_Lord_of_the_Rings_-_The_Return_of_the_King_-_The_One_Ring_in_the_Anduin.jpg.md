@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - The One Ring in the Anduin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - The One Ring in the Anduin.jpg</span>"
 page_id: 11637
 namespace: 6
 revision_id: 433645
@@ -39,14 +38,10 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2003</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></td>
+<td><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Viko Menezes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Viko Menezes</span>"
 page_id: 72814
 namespace: 14
 revision_id: 431458
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Menezes, Viko"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Viko_Menezes&amp;action=edit&amp;redlink=1" title="Viko Menezes (page does not exist)">Viko Menezes</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Viko_Menezes&amp;action=edit&amp;redlink=1" title="Viko Menezes (page does not exist)">Viko Menezes</a></b>.

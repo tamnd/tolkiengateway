@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stella M. Mills"
 ---
 
-Redirect to [Stella M. Mills](/wiki/Stella_M._Mills).
+Redirect to [Stella M. Mills](Stella_M._Mills.md).

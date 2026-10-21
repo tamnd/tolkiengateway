@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Nargothrond (II) (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Nargothrond (II) (Colored by H.E. Riddett).jpg</span>"
 page_id: 5774
 namespace: 6
 revision_id: 312871
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Originally by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and in [black and white](</wiki/File:J.R.R._Tolkien_-_Nargothrond_(II).jpg> "File:J.R.R. Tolkien - Nargothrond (II).jpg"), this version is coloured by [H.E. Riddett](/wiki/H.E._Riddett).
+Originally by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and in [black and white](<J.R.R._Tolkien_-_Nargothrond_(II).jpg.md>), this version is coloured by [H.E. Riddett](../../main/H/H.E._Riddett.md).
 
 ## Licensing {#Licensing}
 

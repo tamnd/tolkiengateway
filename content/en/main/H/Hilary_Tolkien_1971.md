@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Hilary Tolkien"
 ---
 
-Redirect to [Letter to Hilary Tolkien](/wiki/Letter_to_Hilary_Tolkien).
+Redirect to [Letter to Hilary Tolkien](../L/Letter_to_Hilary_Tolkien.md).

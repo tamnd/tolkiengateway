@@ -1,6 +1,5 @@
 ---
 title: "File:Barbie Arwen Aragorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Barbie Arwen Aragorn.jpg</span>"
 page_id: 30720
 namespace: 6
 revision_id: 249255
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a> as [Aragorn](/wiki/Aragorn) and <a class="extiw" href="http://en.wikipedia.org/wiki/Barbie" title="wikipedia:Barbie">Barbie</a> as [Arwen](/wiki/Arwen). Stock photo by [Mattel](/wiki/Barbie "Barbie").
+<a class="extiw" href="http://en.wikipedia.org/wiki/Ken_(doll)" title="wikipedia:Ken (doll)">Ken</a> as [Aragorn](../../main/A/Aragorn.md) and <a class="extiw" href="http://en.wikipedia.org/wiki/Barbie" title="wikipedia:Barbie">Barbie</a> as [Arwen](../../main/A/Arwen.md). Stock photo by [Mattel](../../main/B/Barbie.md).
 
 ## Licensing {#Licensing}
 

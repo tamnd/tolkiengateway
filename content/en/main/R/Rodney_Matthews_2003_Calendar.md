@@ -17,9 +17,9 @@ images:
   - "Rodney_Matthews_2003_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Rodney_Matthews_2003_Calendar.jpg"><img src="/w/images/thumb/6/6d/Rodney_Matthews_2003_Calendar.jpg/300px-Rodney_Matthews_2003_Calendar.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="/w/images/thumb/6/6d/Rodney_Matthews_2003_Calendar.jpg/450px-Rodney_Matthews_2003_Calendar.jpg 1.5x, /w/images/6/6d/Rodney_Matthews_2003_Calendar.jpg 2x" data-file-width="499" data-file-height="500"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rodney_Matthews_2003_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Rodney_Matthews_2003_Calendar.jpg/300px-Rodney_Matthews_2003_Calendar.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/Rodney_Matthews_2003_Calendar.jpg/450px-Rodney_Matthews_2003_Calendar.jpg 1.5x, https://tolkiengateway.net/w/images/6/6d/Rodney_Matthews_2003_Calendar.jpg 2x" data-file-width="499" data-file-height="500"/></a><figcaption></figcaption></figure>
 
-**Rodney Matthews 2003 Calendar** features illustrations by [Rodney Matthews](/wiki/Rodney_Matthews), five of which are related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Rodney Matthews 2003 Calendar** features illustrations by [Rodney Matthews](Rodney_Matthews.md), five of which are related to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 - Dimensions: 12 x 12 inches
 - Stapled

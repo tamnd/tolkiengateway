@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings (film series) - Lurtz the orc.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings (film series) - Lurtz the orc.jpg](/wiki/File:The_Lord_of_the_Rings_(film_series)_-_Lurtz_the_orc.jpg).
+Redirect to [File:The Lord of the Rings (film series) - Lurtz the orc.jpg](<../T/The_Lord_of_the_Rings_(film_series)_-_Lurtz_the_orc.jpg.md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narmacil (disambiguation)"
 ---
 
-Redirect to [Narmacil (disambiguation)](/wiki/Narmacil_(disambiguation)).
+Redirect to [Narmacil (disambiguation)](<Narmacil_(disambiguation).md>).

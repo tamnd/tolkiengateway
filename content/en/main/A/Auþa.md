@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ausa"
 ---
 
-Redirect to [Ausa](/wiki/Ausa).
+Redirect to [Ausa](Ausa.md).

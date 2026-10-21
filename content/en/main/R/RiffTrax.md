@@ -15,11 +15,11 @@ categories:
 
 **RiffTrax** are downloadable audio commentaries in which writer <a class="extiw" href="http://en.wikipedia.org/wiki/Michael_J._Nelson" title="wikipedia:Michael J. Nelson">Mike Nelson</a> and occasional guests heckle (or "riff") blockbuster movies. The concept was taken from Nelson's earlier sohw, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mystery_Science_Theater_3000" title="wikipedia:Mystery Science Theater 3000">Mystery Science Theater 3000</a></i>, in which old or bad B-movies were heckled. Due to copyright reasons, Nelson's new idea is sold online as a sound file which can be played over the DVD.
 
-Riffs were made of all three theatrical releases of *[the movie trilogy](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")*:
+Riffs were made of all three theatrical releases of *[the movie trilogy](<../T/The_Lord_of_the_Rings_(film_series).md>)*:
 
-- [November 21](/wiki/21_November "21 November"), [2006](/wiki/2006): *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*, commentary by Nelson and <a class="extiw" href="http://en.wikipedia.org/wiki/Kevin_Murphy_(actor)" title="wikipedia:Kevin Murphy (actor)">Kevin Murphy</a>
-- [May 23](/wiki/23_May "23 May"), [2008](/wiki/2008): *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, commentary by Nelson, Murphy and <a class="extiw" href="http://en.wikipedia.org/wiki/Bill_Corbett" title="wikipedia:Bill Corbett">Bill Corbett</a>
-- [June 22](/wiki/22_June "22 June"), [2010](/wiki/2010): *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*, commentary by Nelson, Murphy and Corbett.
+- [November 21](../_/21_November.md), [2006](../_/2006.md): *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*, commentary by Nelson and <a class="extiw" href="http://en.wikipedia.org/wiki/Kevin_Murphy_(actor)" title="wikipedia:Kevin Murphy (actor)">Kevin Murphy</a>
+- [May 23](../_/23_May.md), [2008](../_/2008.md): *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, commentary by Nelson, Murphy and <a class="extiw" href="http://en.wikipedia.org/wiki/Bill_Corbett" title="wikipedia:Bill Corbett">Bill Corbett</a>
+- [June 22](../_/22_June.md), [2010](../_/2010.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, commentary by Nelson, Murphy and Corbett.
 
 ## External links {#External_links}
 

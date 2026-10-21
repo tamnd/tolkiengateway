@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Chîn Húrin (disambiguation)"
 ---
 
-Redirect to [Narn i Chîn Húrin (disambiguation)](/wiki/Narn_i_Chîn_Húrin_(disambiguation)).
+Redirect to [Narn i Chîn Húrin (disambiguation)](<../N/Narn_i_Chîn_Húrin_(disambiguation).md>).

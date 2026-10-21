@@ -1,6 +1,5 @@
 ---
 title: "File:E.-M. von Freymann.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">E.-M. von Freymann.jpg</span>"
 page_id: 30957
 namespace: 6
 revision_id: 249441

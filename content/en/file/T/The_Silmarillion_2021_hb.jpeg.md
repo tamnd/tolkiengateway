@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion 2021 hb.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion 2021 hb.jpeg</span>"
 page_id: 62615
 namespace: 6
 revision_id: 433120
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.collinsbooks.com.au/p/fantasy-sci-fi-the-silmarillion-illustrated-edition" rel="noreferrer noopener" target="_blank">https://www.collinsbooks.com.au/p/fantasy-sci-fi-the-silmarillion-illustrated-edition</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

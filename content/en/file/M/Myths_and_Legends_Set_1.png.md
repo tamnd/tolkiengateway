@@ -1,6 +1,5 @@
 ---
 title: "File:Myths and Legends Set 1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Myths and Legends Set 1.png</span>"
 page_id: 70061
 namespace: 6
 revision_id: 429551

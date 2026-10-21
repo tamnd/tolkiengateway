@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Riddles in the Dark.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Riddles in the Dark.mp3</span>"
 page_id: 71041
 namespace: 6
 revision_id: 424285
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Audio of J.R.R. Tolkien reading from Chapter 5 of [The Hobbit](/wiki/The_Hobbit), [Riddles in the Dark](/wiki/Riddles_in_the_Dark). <a class="external text" href="https://www.tolkienestate.com/audio-visual/audio/" rel="noreferrer noopener" target="_blank">Original source</a>
+Audio of J.R.R. Tolkien reading from Chapter 5 of [The Hobbit](../../main/T/The_Hobbit.md), [Riddles in the Dark](../../main/R/Riddles_in_the_Dark.md). <a class="external text" href="https://www.tolkienestate.com/audio-visual/audio/" rel="noreferrer noopener" target="_blank">Original source</a>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

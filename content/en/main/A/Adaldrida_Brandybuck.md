@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adaldrida Bolger"
 ---
 
-Redirect to [Adaldrida Bolger](/wiki/Adaldrida_Bolger).
+Redirect to [Adaldrida Bolger](Adaldrida_Bolger.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Henning Janssen - Leaving of Laketown.jpg"
 ---
 
-Redirect to [File:Henning Janssen - Leaving of Laketown.jpg](/wiki/File:Henning_Janssen_-_Leaving_of_Laketown.jpg).
+Redirect to [File:Henning Janssen - Leaving of Laketown.jpg](Henning_Janssen_-_Leaving_of_Laketown.jpg.md).

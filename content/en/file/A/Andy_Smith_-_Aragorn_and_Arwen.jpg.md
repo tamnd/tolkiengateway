@@ -1,6 +1,5 @@
 ---
 title: "File:Andy Smith - Aragorn and Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andy Smith - Aragorn and Arwen.jpg</span>"
 page_id: 42717
 namespace: 6
 revision_id: 225219
@@ -33,6 +32,6 @@ file:
 </p>
 <ul><li><b>Name:</b> Andy Smith</li>
 <li><b>Website:</b> <a class="external text" href="http://www.andyillustrations.com" rel="noreferrer noopener" target="_blank">Andy Smith&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andy_Smith" title="Tolkien Gateway:Copyrights/Andy Smith">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndy_Smith.md" title="Tolkien Gateway:Copyrights/Andy Smith">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 .

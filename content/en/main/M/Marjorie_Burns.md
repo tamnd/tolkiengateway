@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marjorie J. Burns"
 ---
 
-Redirect to [Marjorie J. Burns](/wiki/Marjorie_J._Burns).
+Redirect to [Marjorie J. Burns](Marjorie_J._Burns.md).

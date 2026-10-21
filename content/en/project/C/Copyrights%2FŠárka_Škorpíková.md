@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Šárka Škorpíková"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Šárka Škorpíková</span>"
 page_id: 49404
 namespace: 4
 revision_id: 264554
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Skorpikova, Sarka"
 ---
 
-- Šárka Škorpíková has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1 "Category:Images by Šárka Škorpíková") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Šárka Škorpíková has kindly granted her permission to use [her artwork](../../category/I/Images_by_Šárka_Škorpíková.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 March 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

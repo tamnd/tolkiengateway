@@ -1,6 +1,5 @@
 ---
 title: "Grant George"
-display_title: "<span class=\"mw-page-title-main\">Grant George</span>"
 page_id: 22898
 namespace: 0
 revision_id: 414926
@@ -22,11 +21,11 @@ sort_keys:
   "People by name": "George, Grant"
 ---
 
-**Grant Raymond George** ([May 19](/wiki/19_May "19 May"), [1971](/wiki/1971)) is an American voice actor. He played [Legolas Greenleaf](/wiki/Legolas "Legolas") and Troll Stonehurler in *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*.
+**Grant Raymond George** ([May 19](../_/19_May.md), [1971](../_/1971.md)) is an American voice actor. He played [Legolas Greenleaf](../L/Legolas.md) and Troll Stonehurler in *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: [Legolas Greenleaf](/wiki/Legolas "Legolas"), Troll Stonehurler
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Legolas Greenleaf](../L/Legolas.md), Troll Stonehurler
 
 ## External links {#External_links}
 

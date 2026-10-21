@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Liège University (18 October 1954)"
 ---
 
-Redirect to [Letter to Liège University (18 October 1954)](/wiki/Letter_to_Liège_University_(18_October_1954)).
+Redirect to [Letter to Liège University (18 October 1954)](<Letter_to_Liège_University_(18_October_1954).md>).

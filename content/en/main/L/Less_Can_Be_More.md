@@ -1,6 +1,5 @@
 ---
 title: "Less Can Be More"
-display_title: "<span class=\"mw-page-title-main\">Less Can Be More</span>"
 page_id: 46063
 namespace: 0
 revision_id: 372846
@@ -13,7 +12,7 @@ categories:
   - "The Return of the King (1980 film) soundtrack"
 ---
 
-**Less Can Be More** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) and performed by [Glenn Yarbrough](/wiki/Glenn_Yarbrough) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). The song plays after [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee") refuses to claim the [One Ring](/wiki/One_Ring), over a montage of him fantasising about a simple life with his family in the Shire after the Ring's destruction.
+**Less Can Be More** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) and performed by [Glenn Yarbrough](../G/Glenn_Yarbrough.md) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<../T/The_Return_of_the_King_(1980_film).md>). The song plays after [Sam](../S/Samwise_Gamgee.md) refuses to claim the [One Ring](../O/One_Ring.md), over a montage of him fantasising about a simple life with his family in the Shire after the Ring's destruction.
 
 ## Lyrics {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mornië"
 ---
 
-Redirect to [Mornië](/wiki/Mornië).
+Redirect to [Mornië](Mornië.md).

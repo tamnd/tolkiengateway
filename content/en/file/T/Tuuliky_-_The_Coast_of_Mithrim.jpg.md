@@ -1,6 +1,5 @@
 ---
 title: "File:Tuuliky - The Coast of Mithrim.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tuuliky - The Coast of Mithrim.jpg</span>"
 page_id: 17634
 namespace: 6
 revision_id: 438377
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Finrod](/wiki/Finrod) and [Maedhros](/wiki/Maedhros) in [Mithrim](/wiki/Mithrim) after the rescue of Maedhros.
+[Finrod](../../main/F/Finrod.md) and [Maedhros](../../main/M/Maedhros.md) in [Mithrim](../../main/M/Mithrim.md) after the rescue of Maedhros.
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tuuliky</li>
 <li><b>Website:</b> <a class="external text" href="http://tuuliky.deviantart.com/" rel="noreferrer noopener" target="_blank">Tuuliky&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tuuliky" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTuuliky.md" title="Tolkien Gateway:Copyrights/Tuuliky">Permission for use on Tolkien Gateway</a></b></li></ul></div>

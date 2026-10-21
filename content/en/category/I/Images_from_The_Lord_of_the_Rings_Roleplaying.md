@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images from The One Ring Second Edition"
 ---
 
-Redirect to [Category:Images from The One Ring Second Edition](/wiki/Category:Images_from_The_One_Ring_Second_Edition).
+Redirect to [Category:Images from The One Ring Second Edition](Images_from_The_One_Ring_Second_Edition.md).

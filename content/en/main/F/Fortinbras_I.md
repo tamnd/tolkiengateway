@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fortinbras Took I"
 ---
 
-Redirect to [Fortinbras Took I](/wiki/Fortinbras_Took_I).
+Redirect to [Fortinbras Took I](Fortinbras_Took_I.md).

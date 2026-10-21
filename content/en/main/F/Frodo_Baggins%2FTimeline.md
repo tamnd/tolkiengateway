@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline of Frodo Baggins"
 ---
 
-Redirect to [Timeline of Frodo Baggins](/wiki/Timeline_of_Frodo_Baggins).
+Redirect to [Timeline of Frodo Baggins](../T/Timeline_of_Frodo_Baggins.md).

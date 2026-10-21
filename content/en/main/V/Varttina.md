@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Värttinä"
 ---
 
-Redirect to [Värttinä](/wiki/Värttinä).
+Redirect to [Värttinä](Värttinä.md).

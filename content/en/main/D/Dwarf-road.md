@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-road (disambiguation)"
 ---
 
-Redirect to [Dwarf-road (disambiguation)](/wiki/Dwarf-road_(disambiguation)).
+Redirect to [Dwarf-road (disambiguation)](<Dwarf-road_(disambiguation).md>).

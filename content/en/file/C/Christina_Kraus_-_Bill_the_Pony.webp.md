@@ -1,6 +1,5 @@
 ---
 title: "File:Christina Kraus - Bill the Pony.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christina Kraus - Bill the Pony.webp</span>"
 page_id: 64990
 namespace: 6
 revision_id: 426567
@@ -35,4 +34,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Christina Kraus</li>
 <li><b>Website:</b> <a class="external text" href="https://www.christinakraus-art.com/" rel="noreferrer noopener" target="_blank">Christina Kraus&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Christina_Kraus" title="Tolkien Gateway:Copyrights/Christina Kraus">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FChristina_Kraus.md" title="Tolkien Gateway:Copyrights/Christina Kraus">Permission for use on Tolkien Gateway</a></b></li></ul></div>

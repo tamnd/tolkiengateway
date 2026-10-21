@@ -1,6 +1,5 @@
 ---
 title: "Category:Concept art for The Last Days"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Concept art for The Last Days</span>"
 page_id: 60082
 namespace: 14
 revision_id: 336595
@@ -15,4 +14,4 @@ sort_keys:
   "Images from The Last Days (of the Third Age of Middle-earth)": "Concept art"
 ---
 
-<dl><dd><i>Images of concept art created for the </i><a href="/wiki/The_Last_Days_(of_the_Third_Age_of_Middle-earth)" title="The Last Days (of the Third Age of Middle-earth)">The Last Days (of the Third Age of Middle-earth)</a><i>, a modification of </i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a><i> and </i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a><i>.</i></dd></dl>
+<dl><dd><i>Images of concept art created for the </i><a href="../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md" title="The Last Days (of the Third Age of Middle-earth)">The Last Days (of the Third Age of Middle-earth)</a><i>, a modification of </i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount &amp; Blade</a><i> and </i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount &amp; Blade: Warband</a><i>.</i></dd></dl>

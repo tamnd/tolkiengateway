@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kings' Reckoning"
 ---
 
-Redirect to [Kings' Reckoning](/wiki/Kings'_Reckoning).
+Redirect to [Kings' Reckoning](Kings'_Reckoning.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aïlior"
 ---
 
-Redirect to [Aïlior](/wiki/Aïlior).
+Redirect to [Aïlior](Aïlior.md).

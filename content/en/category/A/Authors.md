@@ -1,6 +1,5 @@
 ---
 title: "Category:Authors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Authors</span>"
 page_id: 5149
 namespace: 14
 revision_id: 115561
@@ -13,4 +12,4 @@ categories:
   - "People by occupation"
 ---
 
-Below is an alphabetical list of people who published works relating to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+Below is an alphabetical list of people who published works relating to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elbereth (disambiguation)"
 ---
 
-Redirect to [Elbereth (disambiguation)](/wiki/Elbereth_(disambiguation)).
+Redirect to [Elbereth (disambiguation)](<Elbereth_(disambiguation).md>).

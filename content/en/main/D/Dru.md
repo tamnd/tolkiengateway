@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drû"
 ---
 
-Redirect to [Drû](/wiki/Drû).
+Redirect to [Drû](Drû.md).

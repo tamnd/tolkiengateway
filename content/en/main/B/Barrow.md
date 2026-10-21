@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barrows"
 ---
 
-Redirect to [Barrows](/wiki/Barrows).
+Redirect to [Barrows](Barrows.md).

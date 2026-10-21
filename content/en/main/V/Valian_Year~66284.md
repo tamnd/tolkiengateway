@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valian Years"
 ---
 
-Redirect to [Valian Years](/wiki/Valian_Years).
+Redirect to [Valian Years](Valian_Years.md).

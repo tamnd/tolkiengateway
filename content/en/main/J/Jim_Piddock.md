@@ -1,6 +1,5 @@
 ---
 title: "Jim Piddock"
-display_title: "<span class=\"mw-page-title-main\">Jim Piddock</span>"
 page_id: 19221
 namespace: 0
 revision_id: 302919
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Piddock, Jim"
 ---
 
-**James Anthony Piddock** ([April 8](/wiki/8_April "8 April"), [1956](/wiki/1956)) is a British voice actor.
+**James Anthony Piddock** ([April 8](../_/8_April.md), [1956](../_/1956.md)) is a British voice actor.
 
 ## Roles {#Roles}
 
-- [2001](/wiki/2001): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)") - [Elrond](/wiki/Elrond), [Bilbo Baggins](/wiki/Bilbo_Baggins), [the Gaffer](/wiki/Hamfast_Gamgee "Hamfast Gamgee")
-- [2010](/wiki/2010): *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)* - [Elrond](/wiki/Elrond), [Bilbo Baggins](/wiki/Bilbo_Baggins)
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - [Elrond](/wiki/Elrond), [Bilbo Baggins](/wiki/Bilbo_Baggins)
+- [2001](../_/2001.md): [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>) - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md), [the Gaffer](../H/Hamfast_Gamgee.md)
+- [2010](../_/2010.md): *[The Lord of the Rings: Aragorn's Quest](../T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)* - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - [Elrond](../E/Elrond.md), [Bilbo Baggins](../B/Bilbo_Baggins.md)
 
 ## External links {#External_links}
 

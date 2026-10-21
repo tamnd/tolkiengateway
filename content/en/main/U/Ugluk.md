@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Uglúk"
 ---
 
-Redirect to [Uglúk](/wiki/Uglúk).
+Redirect to [Uglúk](Uglúk.md).

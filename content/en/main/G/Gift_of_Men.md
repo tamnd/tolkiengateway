@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gift of Ilúvatar"
 ---
 
-Redirect to [Gift of Ilúvatar](/wiki/Gift_of_Ilúvatar).
+Redirect to [Gift of Ilúvatar](Gift_of_Ilúvatar.md).

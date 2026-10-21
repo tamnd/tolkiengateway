@@ -1,6 +1,5 @@
 ---
 title: "Tony Oliver"
-display_title: "<span class=\"mw-page-title-main\">Tony Oliver</span>"
 page_id: 19448
 namespace: 0
 revision_id: 154789
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Oliver, Tony"
 ---
 
-**Rafael Antonio Olivier** ([April 12](/wiki/12_April "12 April"), [1958](/wiki/1958)) is a Puerto Rico-born actor and voice actor.
+**Rafael Antonio Olivier** ([April 12](../_/12_April.md), [1958](../_/1958.md)) is a Puerto Rico-born actor and voice actor.
 
 ## Roles {#Roles}
 
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Additional voices
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Pamela Shanteau"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Pamela Shanteau</span>"
 page_id: 29326
 namespace: 14
 revision_id: 182121

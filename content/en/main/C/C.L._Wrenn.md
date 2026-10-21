@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Charles Leslie Wrenn"
 ---
 
-Redirect to [Charles Leslie Wrenn](/wiki/Charles_Leslie_Wrenn).
+Redirect to [Charles Leslie Wrenn](Charles_Leslie_Wrenn.md).

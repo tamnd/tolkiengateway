@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Goblin Man.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Goblin Man.jpg</span>"
 page_id: 71669
 namespace: 6
 revision_id: 427268
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Goblin Man](/wiki/Goblin-men "Goblin-men") - *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)*
+[Goblin Man](../../main/G/Goblin-men.md) - *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)*
 
 ## Licensing {#Licensing}
 

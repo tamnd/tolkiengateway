@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Elsie Honeybourne (21 December 1967)"
 ---
 
-Redirect to [Letter to Elsie Honeybourne (21 December 1967)](/wiki/Letter_to_Elsie_Honeybourne_(21_December_1967)).
+Redirect to [Letter to Elsie Honeybourne (21 December 1967)](<../L/Letter_to_Elsie_Honeybourne_(21_December_1967).md>).

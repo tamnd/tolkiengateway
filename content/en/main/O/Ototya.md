@@ -14,23 +14,23 @@ categories:
   - "Telerin adjectives"
 ---
 
-**ototya** is [Telerin](/wiki/Telerin) for "seventh"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**ototya** is [Telerin](../T/Telerin.md) for "seventh"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-Possibly from the root <a class="new" href="/w/index.php?title=OT&amp;action=edit&amp;redlink=1" title="OT (page does not exist)">OT</a>-OS with analogical substitution of -tya instead of -sya
+Possibly from the root <a class="new" href="https://tolkiengateway.net/w/index.php?title=OT&amp;action=edit&amp;redlink=1" title="OT (page does not exist)">OT</a>-OS with analogical substitution of -tya instead of -sya
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Otorya&amp;action=edit&amp;redlink=1" title="Otorya (page does not exist)">otorya</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Otorya&amp;action=edit&amp;redlink=1" title="Otorya (page does not exist)">otorya</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005</span>
 </li>
 </ol></div>

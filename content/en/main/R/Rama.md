@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ráma"
 ---
 
-Redirect to [Ráma](/wiki/Ráma).
+Redirect to [Ráma](Ráma.md).

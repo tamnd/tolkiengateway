@@ -1,6 +1,5 @@
 ---
 title: "AK"
-display_title: "<span class=\"mw-page-title-main\">AK</span>"
 page_id: 30206
 namespace: 0
 revision_id: 439963
@@ -13,22 +12,22 @@ categories:
   - "Roots"
 ---
 
-**AK** is an [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") signifying "narrow, confined".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**AK** is an [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) signifying "narrow, confined".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- [Primitive Quendian](/wiki/Primitive_Quendian): <i><a class="new" href="/w/index.php?title=Akr%C4%81&amp;action=edit&amp;redlink=1" title="Akrā (page does not exist)">akrā</a></i>
-    - [Quenya](/wiki/Quenya): *[arka](/wiki/Arca "Arca")* ("narrow")
-    - [Sindarin](/wiki/Sindarin): <i><a class="new" href="/w/index.php?title=Agor&amp;action=edit&amp;redlink=1" title="Agor (page does not exist)">agor</a></i> (&lt; [Noldorin](/wiki/Noldorin) *agr*)
+- [Primitive Quendian](../P/Primitive_Quendian.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Akr%C4%81&amp;action=edit&amp;redlink=1" title="Akrā (page does not exist)">akrā</a></i>
+    - [Quenya](../Q/Quenya.md): *[arka](Arca.md)* ("narrow")
+    - [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Agor&amp;action=edit&amp;redlink=1" title="Agor (page does not exist)">agor</a></i> (&lt; [Noldorin](../N/Noldorin.md) *agr*)
 
 ## Examples {#Examples}
 
-- [Quenya](/wiki/Quenya) *[aksa](/wiki/Aksa "Aksa")* ("narrow path, ravine")
-- [Noldorin](/wiki/Noldorin) ([Sindarin](/wiki/Sindarin)): <i><a class="new" href="/w/index.php?title=Aglond&amp;action=edit&amp;redlink=1" title="Aglond (page does not exist)">Aglond</a></i> &gt; *Aglon* ("defile, pass between high walls"; also as a proper name)
+- [Quenya](../Q/Quenya.md) *[aksa](Aksa.md)* ("narrow path, ravine")
+- [Noldorin](../N/Noldorin.md) ([Sindarin](../S/Sindarin.md)): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aglond&amp;action=edit&amp;redlink=1" title="Aglond (page does not exist)">Aglond</a></i> &gt; *Aglon* ("defile, pass between high walls"; also as a proper name)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 348</span>
 </li>
 </ol></div>

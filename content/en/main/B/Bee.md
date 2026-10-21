@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bees"
 ---
 
-Redirect to [Bees](/wiki/Bees).
+Redirect to [Bees](Bees.md).

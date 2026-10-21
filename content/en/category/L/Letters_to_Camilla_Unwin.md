@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Camilla Unwin"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Camilla Unwin</span>"
 page_id: 68707
 namespace: 14
 revision_id: 408877
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Unwin, Camilla"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to Camilla Unwin.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to Camilla Unwin.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Penn"
 ---
 
-Redirect to [Penn](/wiki/Penn).
+Redirect to [Penn](Penn.md).

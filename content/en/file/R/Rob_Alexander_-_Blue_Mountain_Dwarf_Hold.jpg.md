@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Rob Alexander - Blue Mountain Dwarf-hold.jpg"
 ---
 
-Redirect to [File:Rob Alexander - Blue Mountain Dwarf-hold.jpg](/wiki/File:Rob_Alexander_-_Blue_Mountain_Dwarf-hold.jpg).
+Redirect to [File:Rob Alexander - Blue Mountain Dwarf-hold.jpg](Rob_Alexander_-_Blue_Mountain_Dwarf-hold.jpg.md).

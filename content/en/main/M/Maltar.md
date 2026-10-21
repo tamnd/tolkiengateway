@@ -1,6 +1,5 @@
 ---
 title: "Maltar"
-display_title: "<span class=\"mw-page-title-main\">Maltar</span>"
 page_id: 60261
 namespace: 0
 revision_id: 439780
@@ -17,26 +16,26 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**Maltar** was the name of [Aulë](/wiki/Aul%C3%AB)'s hammer, according to the early version of the [legendarium](/wiki/Legendarium "Legendarium") in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*.<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup> Nothing else is known about it.
+**Maltar** was the name of [Aulë](../A/Aulë.md)'s hammer, according to the early version of the [legendarium](../L/Legendarium.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup> Nothing else is known about it.
 
 ## Etymology {#Etymology}
 
-The name <i><b>Maltar</b></i> is in [Qenya](/wiki/Qenya). It is probably derived from the roots [MALA](/wiki/MALA)- ("crush, squeeze, pulp"), and [TARA](/wiki/TARA)- ("to batter, thud, beat").<sup id="cite_ref-Malt_1-1" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
+The name <i><b>Maltar</b></i> is in [Qenya](../Q/Qenya.md). It is probably derived from the roots [MALA](MALA~61132.md)- ("crush, squeeze, pulp"), and [TARA](../T/TARA.md)- ("to batter, thud, beat").<sup id="cite_ref-Malt_1-1" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
 
 ## Portrayal in adaptations {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="/wiki/Middle-earth_Role_Playing" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Aulë&#39;s hammer was called <i>Echerun</i> (<a href="/wiki/Sindarin" title="Sindarin">S.</a> “Lord Maker”), and it is described as being made of gold and inlaid with black <a href="/wiki/Metals_in_Middle-earth_Role_Playing#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
+<dl><dd>Aulë&#39;s hammer was called <i>Echerun</i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “Lord Maker”), and it is described as being made of gold and inlaid with black <a href="Metals_in_Middle-earth_Role_Playing.md#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Malt-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Malt_1-0">1.0</a></sup> <sup><a href="#cite_ref-Malt_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="/wiki/Parma_Eldalamberon_15" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="/wiki/Bill_Welden" title="Bill Welden">Bill Welden</a>), Appendix, <i>Text V</i>, p. 15</span>
+<li id="cite_note-Malt-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Malt_1-0">1.0</a></sup> <sup><a href="#cite_ref-Malt_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Sí Qente Feanor and Other Elvish Writings&#34;, in <a href="../P/Parma_Eldalamberon_15.md" title="Parma Eldalamberon 15"><i>Parma Eldalamberon</i> XV</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>, and <a href="../B/Bill_Welden.md" title="Bill Welden">Bill Welden</a>), Appendix, <i>Text V</i>, p. 15</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Pete_Fenlon" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a href="/wiki/Valar_and_Maiar" title="Valar and Maiar">Valar and Maiar</a></i> (<a href="/wiki/Iron_Crown_Enterprises" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993), p. 28
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon, Jr.</a>, <i><a href="../V/Valar_and_Maiar.md" title="Valar and Maiar">Valar and Maiar</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2006, 1993), p. 28
 </span>
 </li>
 </ol></div>

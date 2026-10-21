@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elves"
 ---
 
-Redirect to [Category:Elves](/wiki/Category:Elves).
+Redirect to [Category:Elves](../../category/E/Elves.md).

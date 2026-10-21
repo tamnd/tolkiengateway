@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves"
 ---
 
-Redirect to [Elves](/wiki/Elves).
+Redirect to [Elves](../E/Elves.md).

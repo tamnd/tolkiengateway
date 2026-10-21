@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps failing data validation"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps failing data validation</span>"
 page_id: 69217
 namespace: 14
 revision_id: 413577

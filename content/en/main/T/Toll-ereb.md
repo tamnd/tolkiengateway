@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Eressëa"
 ---
 
-Redirect to [Tol Eressëa](/wiki/Tol_Eressëa).
+Redirect to [Tol Eressëa](Tol_Eressëa.md).

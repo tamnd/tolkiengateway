@@ -1,6 +1,5 @@
 ---
 title: "File:Film trilogy - Principal Photography begins.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Film trilogy - Principal Photography begins.png</span>"
 page_id: 72621
 namespace: 6
 revision_id: 430916
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Principal photography begins for [*The Lord of the Rings* film trilogy](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") with the shooting of the [A Short Cut to Mushrooms scene](</wiki/A_Short_Cut_to_Mushrooms_(scene)> "A Short Cut to Mushrooms (scene)")
+Principal photography begins for [*The Lord of the Rings* film trilogy](<../../main/T/The_Lord_of_the_Rings_(film_series).md>) with the shooting of the [A Short Cut to Mushrooms scene](<../../main/A/A_Short_Cut_to_Mushrooms_(scene).md>)
 
 ## Licensing {#Licensing}
 

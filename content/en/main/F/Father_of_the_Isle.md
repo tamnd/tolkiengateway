@@ -1,6 +1,5 @@
 ---
 title: "Father of the Isle"
-display_title: "<span class=\"mw-page-title-main\">Father of the Isle</span>"
 page_id: 2334
 namespace: 0
 revision_id: 171771
@@ -18,11 +17,11 @@ langlinks:
     url: "https://kontu.wiki/Saaren_is%C3%A4"
 ---
 
-**"Father of the Isle"** was a title applied to the ruling King of [Númenor](/wiki/N%C3%BAmenor). In particular, it is used by [Tar-Meneldur](/wiki/Tar-Meneldur) in the tale of [Aldarion](/wiki/Tar-Aldarion "Tar-Aldarion") and [Erendis](/wiki/Erendis).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**"Father of the Isle"** was a title applied to the ruling King of [Númenor](../N/Númenor.md). In particular, it is used by [Tar-Meneldur](../T/Tar-Meneldur.md) in the tale of [Aldarion](../T/Tar-Aldarion.md) and [Erendis](../E/Erendis.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="/wiki/Aldarion_and_Erendis:_The_Mariner%27s_Wife" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34;</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Scott Bennie"
-display_title: "<span class=\"mw-page-title-main\">Scott Bennie</span>"
 page_id: 27708
 namespace: 0
 revision_id: 142545
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Bennie, Scott"
 ---
 
-**Scott Bennie** is the author and game designer of *[The Lord of the Rings, Vol. I (PC)](</wiki/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game)> "The Lord of the Rings, Vol. I (1990 computer game)")*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Lord of the Rings, Vol. II: The Two Towers](/wiki/The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[The Lord of the Rings, Vol. I (SNES)](</wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(SNES)> "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)")*. He also worked for [Decipher](/wiki/Decipher) on *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game)*.
+**Scott Bennie** is the author and game designer of *[The Lord of the Rings, Vol. I (PC)](<../T/The_Lord_of_the_Rings,_Vol._I_(1990_computer_game).md>)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and *[The Lord of the Rings, Vol. I (SNES)](<../J/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES).md>)*. He also worked for [Decipher](../D/Decipher.md) on *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
 ## External links {#External_links}
 

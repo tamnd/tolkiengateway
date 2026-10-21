@@ -15,9 +15,9 @@ images:
   - "The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg"><img src="/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/300px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg" decoding="async" loading="lazy" width="300" height="249" class="mw-file-element" srcset="/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/450px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 1.5x, /w/images/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 2x" data-file-width="500" data-file-height="415"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/300px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg" decoding="async" loading="lazy" width="300" height="249" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg/450px-The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 1.5x, https://tolkiengateway.net/w/images/6/6d/The_Lord_of_the_Rings_Trilogy_-_2005_Daily_Boxed_Calendar.jpg 2x" data-file-width="500" data-file-height="415"/></a><figcaption></figcaption></figure>
 
-**The Lord of the Rings Trilogy: 2005 Daily Boxed Calendar** contains images from [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+**The Lord of the Rings Trilogy: 2005 Daily Boxed Calendar** contains images from [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>).
 
 - **Issued by:** Cedco
 - **Issue Price:** $12.99

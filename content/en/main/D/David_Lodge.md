@@ -1,6 +1,5 @@
 ---
 title: "David Lodge"
-display_title: "<span class=\"mw-page-title-main\">David Lodge</span>"
 page_id: 22804
 namespace: 0
 revision_id: 138762
@@ -23,9 +22,9 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)*: Rider of Rohan
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*: Rohan General, Battalion Leader, villagers
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: [Grishnakh](/wiki/Grishnakh), Rohan Captain, Monster Warrior
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*: Rider of Rohan
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: Rohan General, Battalion Leader, villagers
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: [Grishnakh](../G/Grishnakh.md), Rohan Captain, Monster Warrior
 
 ## External links {#External_links}
 

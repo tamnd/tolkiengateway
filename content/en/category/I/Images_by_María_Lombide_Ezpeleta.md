@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by María Lombide Ezpeleta"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by María Lombide Ezpeleta</span>"
 page_id: 8427
 namespace: 14
 revision_id: 282095
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Lombide Ezpeleta, María"
 ---
 
-This category lists all **images by [María Lombide Ezpeleta](/wiki/Mar%C3%ADa_Lombide_Ezpeleta)**.
+This category lists all **images by [María Lombide Ezpeleta](../../main/M/María_Lombide_Ezpeleta.md)**.

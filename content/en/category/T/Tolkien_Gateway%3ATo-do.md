@@ -1,6 +1,5 @@
 ---
 title: "Category:Tolkien Gateway:To-do"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Gateway:To-do</span>"
 page_id: 19131
 namespace: 14
 revision_id: 63200

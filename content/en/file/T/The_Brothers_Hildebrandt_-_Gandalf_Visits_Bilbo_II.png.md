@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Gandalf Visits Bilbo II.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Gandalf Visits Bilbo II.png</span>"
 page_id: 71596
 namespace: 6
 revision_id: 426876
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gandalf](/wiki/Gandalf) visits [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), commissioned in [2018](/wiki/2018).
+"[Gandalf](../../main/G/Gandalf.md) visits [Bilbo](../../main/B/Bilbo_Baggins.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), commissioned in [2018](../../main/_/2018.md).
 
 ## Licensing {#Licensing}
 

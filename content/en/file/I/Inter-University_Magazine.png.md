@@ -1,6 +1,5 @@
 ---
 title: "File:Inter-University Magazine.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Inter-University Magazine.png</span>"
 page_id: 40035
 namespace: 6
 revision_id: 213692
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the November 1926 issue of the *[Inter-University Magazine](/wiki/Inter-University_Magazine)*.
+Cover of the November 1926 issue of the *[Inter-University Magazine](../../main/I/Inter-University_Magazine.md)*.
 
 ## Licensing {#Licensing}
 

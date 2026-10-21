@@ -17,21 +17,21 @@ images:
   - "A.F._Colborn_1932_and_1938.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:A.F._Colborn_1932_and_1938.jpg"><img src="/w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/300px-A.F._Colborn_1932_and_1938.jpg" decoding="async" loading="lazy" width="300" height="246" class="mw-file-element" srcset="/w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/450px-A.F._Colborn_1932_and_1938.jpg 1.5x, /w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/600px-A.F._Colborn_1932_and_1938.jpg 2x" data-file-width="640" data-file-height="525"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A.F._Colborn_1932_and_1938.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/300px-A.F._Colborn_1932_and_1938.jpg" decoding="async" loading="lazy" width="300" height="246" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/450px-A.F._Colborn_1932_and_1938.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/07/A.F._Colborn_1932_and_1938.jpg/600px-A.F._Colborn_1932_and_1938.jpg 2x" data-file-width="640" data-file-height="525"/></a><figcaption></figcaption></figure>
 
-On [21 July](/wiki/21_July) [1938](/wiki/1938), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [A.F. Colborn](/wiki/A.F._Colborn)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [21 July](../_/21_July.md) [1938](../_/1938.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [A.F. Colborn](../A/A.F._Colborn.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - Subject: letter of recommendation for Colborn.
 
 ## See also {#See_also}
 
-- [Letter to A.F. Colborn (27 May 1932)](</wiki/Letter_to_A.F._Colborn_(27_May_1932)>)
+- [Letter to A.F. Colborn (27 May 1932)](<Letter_to_A.F._Colborn_(27_May_1932).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.catalogue-host.co.uk/mallams/oxford/2013-03-27/lot_600?prev_page=search+results&amp;prev_url=%2Fmallams%2Foxford%2F2013-03-27%2Fsearch_results%3Fpage%3D1%26text%3Dtolkien" rel="noreferrer noopener" target="_blank">&#34;Lot 600 (The Gentleman&#39;s Library Sale, 27 March 2013)&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.catalogue-host.co.uk/mallams/current" rel="noreferrer noopener" target="_blank">Mallams</a></span>. <span class="cite-web-accessed">Retrieved 14 June 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.catalogue-host.co.uk/mallams/oxford/2013-03-27/lot_600?prev_page=search+results&amp;prev_url=%2Fmallams%2Foxford%2F2013-03-27%2Fsearch_results%3Fpage%3D1%26text%3Dtolkien" rel="noreferrer noopener" target="_blank">&#34;Lot 600 (The Gentleman&#39;s Library Sale, 27 March 2013)&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.catalogue-host.co.uk/mallams/current" rel="noreferrer noopener" target="_blank">Mallams</a></span>. <span class="cite-web-accessed">Retrieved 14 June 2013</span></cite></span>
 </li>
 </ol></div>

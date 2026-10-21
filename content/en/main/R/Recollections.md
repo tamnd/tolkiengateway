@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Reminiscences of J.R.R. Tolkien"
 ---
 
-Redirect to [Index:Reminiscences of J.R.R. Tolkien](/wiki/Index:Reminiscences_of_J.R.R._Tolkien).
+Redirect to [Index:Reminiscences of J.R.R. Tolkien](../../index/R/Reminiscences_of_J.R.R._Tolkien.md).

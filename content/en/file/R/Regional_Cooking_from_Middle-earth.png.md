@@ -1,6 +1,5 @@
 ---
 title: "File:Regional Cooking from Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Regional Cooking from Middle-earth.png</span>"
 page_id: 37582
 namespace: 6
 revision_id: 214581

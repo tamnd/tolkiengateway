@@ -1,6 +1,5 @@
 ---
 title: "File:The Two Towers-(1994 MUD)-1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Two Towers-(1994 MUD)-1.png</span>"
 page_id: 32095
 namespace: 6
 revision_id: 249088

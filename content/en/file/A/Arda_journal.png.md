@@ -1,6 +1,5 @@
 ---
 title: "File:Arda journal.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Arda journal.png</span>"
 page_id: 27695
 namespace: 6
 revision_id: 247679

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "LAW"
 ---
 
-Redirect to [LAW](/wiki/LAW).
+Redirect to [LAW](LAW.md).

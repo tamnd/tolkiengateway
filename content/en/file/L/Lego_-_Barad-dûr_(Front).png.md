@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Barad-dûr (Front).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Barad-dûr (Front).png</span>"
 page_id: 73435
 namespace: 6
 revision_id: 434145
@@ -35,15 +34,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/product/the-lord-of-the-rings-barad-dur-10333" rel="noreferrer noopener" target="_blank">https://www.lego.com/product/the-lord-of-the-rings-barad-dur-10333</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

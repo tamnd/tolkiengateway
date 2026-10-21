@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bill Nighy"
 ---
 
-Redirect to [Bill Nighy](/wiki/Bill_Nighy).
+Redirect to [Bill Nighy](../B/Bill_Nighy.md).

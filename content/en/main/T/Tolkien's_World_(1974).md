@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's World (by Randel Helms)"
 ---
 
-Redirect to [Tolkien's World (by Randel Helms)](/wiki/Tolkien's_World_(by_Randel_Helms)).
+Redirect to [Tolkien's World (by Randel Helms)](<Tolkien's_World_(by_Randel_Helms).md>).

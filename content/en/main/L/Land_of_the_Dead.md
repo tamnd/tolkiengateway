@@ -12,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Land of the Dead</b></i> is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their sixth full-length album, [*Oath Bound*](/wiki/Oath_Bound "Oath Bound"), released in 2006. The lyrics are drawn from the *[Lay of Leithian](/wiki/Lay_of_Leithian)*.
+<i><b>Land of the Dead</b></i> is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their sixth full-length album, [*Oath Bound*](../O/Oath_Bound.md), released in 2006. The lyrics are drawn from the *[Lay of Leithian](Lay_of_Leithian.md)*.
 
 ## Lyrics {#Lyrics}
 

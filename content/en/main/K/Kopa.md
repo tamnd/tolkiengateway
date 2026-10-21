@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kópa"
 ---
 
-Redirect to [Kópa](/wiki/Kópa).
+Redirect to [Kópa](Kópa.md).

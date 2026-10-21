@@ -1,6 +1,5 @@
 ---
 title: "File:Complete Guide us 2001 new.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Complete Guide us 2001 new.jpeg</span>"
 page_id: 63976
 namespace: 6
 revision_id: 391026

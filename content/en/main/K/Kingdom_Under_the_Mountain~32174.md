@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kingdom under the Mountain"
 ---
 
-Redirect to [Kingdom under the Mountain](/wiki/Kingdom_under_the_Mountain).
+Redirect to [Kingdom under the Mountain](Kingdom_under_the_Mountain.md).

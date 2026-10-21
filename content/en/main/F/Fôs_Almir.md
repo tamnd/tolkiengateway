@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fôs' Almir"
 ---
 
-Redirect to [Fôs' Almir](/wiki/Fôs'_Almir).
+Redirect to [Fôs' Almir](Fôs'_Almir.md).

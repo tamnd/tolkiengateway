@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atalantë"
 ---
 
-Redirect to [Atalantë](/wiki/Atalantë).
+Redirect to [Atalantë](Atalantë.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Dutch businesses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dutch businesses</span>"
 page_id: 38697
 namespace: 14
 revision_id: 190167

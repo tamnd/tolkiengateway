@@ -11,4 +11,4 @@ redirect_target: "Gandalf"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Gandalf](/wiki/Gandalf#Names).
+Redirect to [Gandalf](../G/Gandalf.md#Names).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Foa"
 ---
 
-Redirect to [Foa](/wiki/Foa).
+Redirect to [Foa](../F/Foa~46839.md).

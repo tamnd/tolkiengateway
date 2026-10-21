@@ -1,6 +1,5 @@
 ---
 title: "Category:Republic of China"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Republic of China</span>"
 page_id: 35337
 namespace: 14
 revision_id: 166583

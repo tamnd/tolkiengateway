@@ -1,6 +1,5 @@
 ---
 title: "Category:Poems"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Poems</span>"
 page_id: 2629
 namespace: 14
 revision_id: 119937
@@ -13,4 +12,4 @@ categories:
   - "Writings"
 ---
 
-Poems by or related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+Poems by or related to [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.

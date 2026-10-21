@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sotheby's English Literature, History, Private Press, Children's Books and Illustrations 13 December 2007"
 ---
 
-Redirect to [Sotheby's English Literature, History, Private Press, Children's Books and Illustrations 13 December 2007](/wiki/Sotheby's_English_Literature,_History,_Private_Press,_Children's_Books_and_Illustrations_13_December_2007).
+Redirect to [Sotheby's English Literature, History, Private Press, Children's Books and Illustrations 13 December 2007](../S/Sotheby's_English_Literature,_History,_Private_Press,_Children's_Books_and_Illustrations_13_December_2007.md).

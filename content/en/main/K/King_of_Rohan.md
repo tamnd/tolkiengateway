@@ -1,6 +1,5 @@
 ---
 title: "King of Rohan"
-display_title: "<span class=\"mw-page-title-main\">King of Rohan</span>"
 page_id: 3641
 namespace: 0
 revision_id: 432948
@@ -31,11 +30,11 @@ langlinks:
     url: "https://kontu.wiki/Rohanin_kuninkaat"
 ---
 
-The **King of the Mark**, more commonly known to outsiders as the **King of Rohan**, was the hereditary title of the monarchs of the realm of [Rohan](/wiki/Rohan), descendants of the [Northmen](/wiki/Northmen).
+The **King of the Mark**, more commonly known to outsiders as the **King of Rohan**, was the hereditary title of the monarchs of the realm of [Rohan](../R/Rohan.md), descendants of the [Northmen](../N/Northmen.md).
 
 ## History {#History}
 
-All of the Kings were of the same dynasty, the [House of Eorl](/wiki/House_of_Eorl), divided into separate Lines when a king was not succeeded by his direct male descendant (in both cases the sister-son of the king ascended the throne).
+All of the Kings were of the same dynasty, the [House of Eorl](../H/House_of_Eorl.md), divided into separate Lines when a king was not succeeded by his direct male descendant (in both cases the sister-son of the king ascended the throne).
 
 ### First Line {#First_Line}
 
@@ -43,70 +42,70 @@ All of the Kings were of the same dynasty, the [House of Eorl](/wiki/House_of_Eo
 <tbody><tr>
 <td align="right">1.
 </td>
-<td><a href="/wiki/Eorl" title="Eorl">Eorl</a> <i>the Young</i>, son of <a href="/wiki/L%C3%A9od" title="Léod">Léod</a>
+<td><a href="../E/Eorl.md" title="Eorl">Eorl</a> <i>the Young</i>, son of <a href="../L/Léod.md" title="Léod">Léod</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2510" title="Third Age 2510">2510</a> – <a href="/wiki/Third_Age_2545" title="Third Age 2545">2545</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2510.md" title="Third Age 2510">2510</a> – <a href="../T/Third_Age_2545.md" title="Third Age 2545">2545</a>
 </td></tr>
 <tr>
 <td align="right">2.
 </td>
-<td><a href="/wiki/Brego" title="Brego">Brego</a>
+<td><a href="../B/Brego.md" title="Brego">Brego</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2545" title="Third Age 2545">2545</a> – <a href="/wiki/Third_Age_2570" title="Third Age 2570">2570</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2545.md" title="Third Age 2545">2545</a> – <a href="../T/Third_Age_2570.md" title="Third Age 2570">2570</a>
 </td></tr>
 <tr>
 <td align="right">3.
 </td>
-<td><a href="/wiki/Aldor" title="Aldor">Aldor</a> <i>the Old</i>
+<td><a href="../A/Aldor.md" title="Aldor">Aldor</a> <i>the Old</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2570" title="Third Age 2570">2570</a> – <a href="/wiki/Third_Age_2645" title="Third Age 2645">2645</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2570.md" title="Third Age 2570">2570</a> – <a href="../T/Third_Age_2645.md" title="Third Age 2645">2645</a>
 </td></tr>
 <tr>
 <td align="right">4.
 </td>
-<td><a href="/wiki/Fr%C3%A9a" title="Fréa">Fréa</a>
+<td><a href="../F/Fréa.md" title="Fréa">Fréa</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2645" title="Third Age 2645">2645</a> – <a href="/wiki/Third_Age_2659" title="Third Age 2659">2659</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2645.md" title="Third Age 2645">2645</a> – <a href="../T/Third_Age_2659.md" title="Third Age 2659">2659</a>
 </td></tr>
 <tr>
 <td align="right">5.
 </td>
-<td><a href="/wiki/Fr%C3%A9awine" title="Fréawine">Fréawine</a>
+<td><a href="../F/Fréawine.md" title="Fréawine">Fréawine</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2659" title="Third Age 2659">2659</a> – <a href="/wiki/Third_Age_2680" title="Third Age 2680">2680</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2659.md" title="Third Age 2659">2659</a> – <a href="../T/Third_Age_2680.md" title="Third Age 2680">2680</a>
 </td></tr>
 <tr>
 <td align="right">6.
 </td>
-<td><a href="/wiki/Goldwine" title="Goldwine">Goldwine</a>
+<td><a href="../G/Goldwine.md" title="Goldwine">Goldwine</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2680" title="Third Age 2680">2680</a> – <a href="/wiki/Third_Age_2699" title="Third Age 2699">2699</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2680.md" title="Third Age 2680">2680</a> – <a href="../T/Third_Age_2699.md" title="Third Age 2699">2699</a>
 </td></tr>
 <tr>
 <td align="right">7.
 </td>
-<td><a href="/wiki/D%C3%A9or" title="Déor">Déor</a>
+<td><a href="../D/Déor.md" title="Déor">Déor</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2699" title="Third Age 2699">2699</a> – <a href="/wiki/Third_Age_2718" title="Third Age 2718">2718</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2699.md" title="Third Age 2699">2699</a> – <a href="../T/Third_Age_2718.md" title="Third Age 2718">2718</a>
 </td></tr>
 <tr>
 <td align="right">8.
 </td>
-<td><a href="/wiki/Gram" title="Gram">Gram</a>
+<td><a href="../G/Gram.md" title="Gram">Gram</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2718" title="Third Age 2718">2718</a> – <a href="/wiki/Third_Age_2741" title="Third Age 2741">2741</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2718.md" title="Third Age 2718">2718</a> – <a href="../T/Third_Age_2741.md" title="Third Age 2741">2741</a>
 </td></tr>
 <tr>
 <td align="right">9.
 </td>
-<td><a href="/wiki/Helm" title="Helm">Helm</a> <i>Hammerhand</i>
+<td><a href="../H/Helm.md" title="Helm">Helm</a> <i>Hammerhand</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2741" title="Third Age 2741">2741</a> – <a href="/wiki/Third_Age_2759" title="Third Age 2759">2759</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2741.md" title="Third Age 2741">2741</a> – <a href="../T/Third_Age_2759.md" title="Third Age 2759">2759</a>
 </td></tr>
 <tr>
 <td>
 </td>
-<td colspan="2"><i>Helm&#39;s two sons were killed by the <a href="/wiki/Dunlendings" title="Dunlendings">Dunlendings</a> during the <a href="/wiki/Long_Winter" title="Long Winter">Long Winter</a>.  <br/>His sister-son, <a href="/wiki/Fr%C3%A9al%C3%A1f" title="Fréaláf">Fréaláf Hildeson</a>, became the first king of the second line.</i>
+<td colspan="2"><i>Helm&#39;s two sons were killed by the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> during the <a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a>.  <br/>His sister-son, <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf Hildeson</a>, became the first king of the second line.</i>
 </td></tr></tbody></table>
 
 ### Second Line {#Second_Line}
@@ -115,63 +114,63 @@ All of the Kings were of the same dynasty, the [House of Eorl](/wiki/House_of_Eo
 <tbody><tr>
 <td align="right">10.
 </td>
-<td><a href="/wiki/Fr%C3%A9al%C3%A1f" title="Fréaláf">Fréaláf</a> <i>Hildeson</i>
+<td><a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf</a> <i>Hildeson</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2759" title="Third Age 2759">2759</a> – <a href="/wiki/Third_Age_2798" title="Third Age 2798">2798</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2759.md" title="Third Age 2759">2759</a> – <a href="../T/Third_Age_2798.md" title="Third Age 2798">2798</a>
 </td></tr>
 <tr>
 <td align="right">11.
 </td>
-<td><a href="/wiki/Brytta" title="Brytta">Brytta</a> <i>Léofa</i>
+<td><a href="../B/Brytta.md" title="Brytta">Brytta</a> <i>Léofa</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2798" title="Third Age 2798">2798</a> – <a href="/wiki/Third_Age_2842" title="Third Age 2842">2842</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2798.md" title="Third Age 2798">2798</a> – <a href="../T/Third_Age_2842.md" title="Third Age 2842">2842</a>
 </td></tr>
 <tr>
 <td align="right">12.
 </td>
-<td><a href="/wiki/Walda" title="Walda">Walda</a>
+<td><a href="../W/Walda.md" title="Walda">Walda</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2842" title="Third Age 2842">2842</a> – <a href="/wiki/Third_Age_2851" title="Third Age 2851">2851</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2842.md" title="Third Age 2842">2842</a> – <a href="../T/Third_Age_2851.md" title="Third Age 2851">2851</a>
 </td></tr>
 <tr>
 <td align="right">13.
 </td>
-<td><a href="/wiki/Folca" title="Folca">Folca</a> <i>the Hunter</i>
+<td><a href="../F/Folca.md" title="Folca">Folca</a> <i>the Hunter</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2851" title="Third Age 2851">2851</a> – <a href="/wiki/Third_Age_2864" title="Third Age 2864">2864</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2851.md" title="Third Age 2851">2851</a> – <a href="../T/Third_Age_2864.md" title="Third Age 2864">2864</a>
 </td></tr>
 <tr>
 <td align="right">14.
 </td>
-<td><a href="/wiki/Folcwine" title="Folcwine">Folcwine</a>
+<td><a href="../F/Folcwine.md" title="Folcwine">Folcwine</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2864" title="Third Age 2864">2864</a> – <a href="/wiki/Third_Age_2903" title="Third Age 2903">2903</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2864.md" title="Third Age 2864">2864</a> – <a href="../T/Third_Age_2903.md" title="Third Age 2903">2903</a>
 </td></tr>
 <tr>
 <td align="right">15.
 </td>
-<td><a href="/wiki/Fengel" title="Fengel">Fengel</a>
+<td><a href="../F/Fengel.md" title="Fengel">Fengel</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2903" title="Third Age 2903">2903</a> – <a href="/wiki/Third_Age_2953" title="Third Age 2953">2953</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2903.md" title="Third Age 2903">2903</a> – <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a>
 </td></tr>
 <tr>
 <td align="right">16.
 </td>
-<td><a href="/wiki/Thengel" title="Thengel">Thengel</a>
+<td><a href="../T/Thengel.md" title="Thengel">Thengel</a>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2953" title="Third Age 2953">2953</a> – <a href="/wiki/Third_Age_2980" title="Third Age 2980">2980</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a> – <a href="../T/Third_Age_2980.md" title="Third Age 2980">2980</a>
 </td></tr>
 <tr>
 <td align="right">17.
 </td>
-<td><a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a> <i>Ednew</i>
+<td><a href="../T/Théoden.md" title="Théoden">Théoden</a> <i>Ednew</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_2980" title="Third Age 2980">2980</a> – <a href="/wiki/Third_Age_3019" title="Third Age 3019">3019</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2980.md" title="Third Age 2980">2980</a> – <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>
 </td></tr>
 <tr>
 <td>
 </td>
-<td colspan="2"><i>Théoden&#39;s only son, <a href="/wiki/Th%C3%A9odred" title="Théodred">Théodred</a>, was slain at <a href="/wiki/First_Battle_of_the_Fords_of_Isen" title="First Battle of the Fords of Isen">First Battle of the Fords of Isen</a>.  <br/>His sister-son, <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a>, became the first King of the third line.</i>
+<td colspan="2"><i>Théoden&#39;s only son, <a href="../T/Théodred.md" title="Théodred">Théodred</a>, was slain at <a href="../F/First_Battle_of_the_Fords_of_Isen.md" title="First Battle of the Fords of Isen">First Battle of the Fords of Isen</a>.  <br/>His sister-son, <a href="../_/Éomer.md" title="Éomer">Éomer</a>, became the first King of the third line.</i>
 </td></tr></tbody></table>
 
 ### Third Line {#Third_Line}
@@ -180,18 +179,18 @@ All of the Kings were of the same dynasty, the [House of Eorl](/wiki/House_of_Eo
 <tbody><tr>
 <td align="right">18.
 </td>
-<td><a href="/wiki/%C3%89omer" title="Éomer">Éomer</a> <i>Éadig</i>
+<td><a href="../_/Éomer.md" title="Éomer">Éomer</a> <i>Éadig</i>
 </td>
-<td align="right"><a href="/wiki/Third_Age" title="Third Age">T.A.</a> <a href="/wiki/Third_Age_3019" title="Third Age 3019">3019</a> – <a href="/wiki/Fourth_Age" title="Fourth Age">Fo.A.</a> <a href="/wiki/Fourth_Age_63" title="Fourth Age 63">63</a>
+<td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a> – <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a>
 </td></tr>
 <tr>
 <td align="right">19.
 </td>
-<td><a href="/wiki/Elfwine" title="Elfwine">Elfwine</a> <i>the Fair</i>
+<td><a href="../E/Elfwine.md" title="Elfwine">Elfwine</a> <i>the Fair</i>
 </td>
-<td align="right"><a href="/wiki/Fourth_Age" title="Fourth Age">Fo.A.</a> <a href="/wiki/Fourth_Age_63" title="Fourth Age 63">63</a> – <i>unknown</i>
+<td align="right"><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a> – <i>unknown</i>
 </td></tr></tbody></table>
 
 ## See also {#See_also}
 
-- [House of Eorl](/wiki/House_of_Eorl)
+- [House of Eorl](../H/House_of_Eorl.md)

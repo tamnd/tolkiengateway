@@ -14,23 +14,23 @@ categories:
   - "Linguistic terms"
 ---
 
-<i><b>prestanneth</b></i> is a [Noldorin](/wiki/Noldorin) word meaning "'affection' of vowels".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>prestanneth</b></i> is a [Noldorin](../N/Noldorin.md) word meaning "'affection' of vowels".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-The word *prestanneth* is often used as a [Neo-Sindarin](/wiki/Neo-Elvish "Neo-Elvish") linguistic term in discussions on the phenomenon [vowel-affection](/wiki/Sindarin#Pluralization "Sindarin").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+The word *prestanneth* is often used as a [Neo-Sindarin](../N/Neo-Elvish.md) linguistic term in discussions on the phenomenon [vowel-affection](../S/Sindarin.md#Pluralization).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") <a class="new" href="/w/index.php?title=PERES&amp;action=edit&amp;redlink=1" title="PERES (page does not exist)">PERES</a> ("affect, disturb, alter")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PERES&amp;action=edit&amp;redlink=1" title="PERES (page does not exist)">PERES</a> ("affect, disturb, alter")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 380</span>
+<li id="cite_note-LR-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-LR_1-0">1.0</a></sup> <sup><a href="#cite_ref-LR_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 380</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Helge_Fauskanger" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/sindarin.htm#nasal" rel="noreferrer noopener" target="_blank">Nasal mutation</a>&#34; at <a href="/wiki/Ardalambion" title="Ardalambion">Ardalambion</a> (accessed 13 July 2011)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/sindarin.htm#nasal" rel="noreferrer noopener" target="_blank">Nasal mutation</a>&#34; at <a href="../A/Ardalambion.md" title="Ardalambion">Ardalambion</a> (accessed 13 July 2011)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/David_Salo" title="David Salo">David Salo</a> (<a href="/wiki/2004" title="2004">2004</a>), <i><a href="/wiki/A_Gateway_to_Sindarin" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, p. 317</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../D/David_Salo.md" title="David Salo">David Salo</a> (<a href="../_/2004.md" title="2004">2004</a>), <i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i>, p. 317</span>
 </li>
 </ol></div>

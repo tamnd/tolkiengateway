@@ -1,6 +1,5 @@
 ---
 title: "File:Philippe de Champaign - Saint Augustin (Detail).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Philippe de Champaign - Saint Augustin (Detail).jpg</span>"
 page_id: 64321
 namespace: 6
 revision_id: 368209

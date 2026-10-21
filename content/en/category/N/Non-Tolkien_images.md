@@ -1,6 +1,5 @@
 ---
 title: "Category:Non-Tolkien images"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Non-Tolkien images</span>"
 page_id: 10489
 namespace: 14
 revision_id: 196493

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ring Goes South"
 ---
 
-Redirect to [The Ring Goes South](/wiki/The_Ring_Goes_South).
+Redirect to [The Ring Goes South](The_Ring_Goes_South.md).

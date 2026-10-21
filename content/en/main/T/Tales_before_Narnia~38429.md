@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales Before Narnia"
 ---
 
-Redirect to [Tales Before Narnia](/wiki/Tales_Before_Narnia).
+Redirect to [Tales Before Narnia](Tales_Before_Narnia.md).

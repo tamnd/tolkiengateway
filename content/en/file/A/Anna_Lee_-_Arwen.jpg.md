@@ -1,6 +1,5 @@
 ---
 title: "File:Anna Lee - Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anna Lee - Arwen.jpg</span>"
 page_id: 37934
 namespace: 6
 revision_id: 183431
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Arwen](/wiki/Arwen) in Rivendell* by [Anna Lee](/wiki/Anna_Lee).
+*[Arwen](../../main/A/Arwen.md) in Rivendell* by [Anna Lee](../../main/A/Anna_Lee.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Anna Lee</li>
 <li><b>Website:</b> <a class="external text" href="http://ilxwing.deviantart.com/" rel="noreferrer noopener" target="_blank">Anna Lee&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anna_Lee" title="Tolkien Gateway:Copyrights/Anna Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnna_Lee.md" title="Tolkien Gateway:Copyrights/Anna Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

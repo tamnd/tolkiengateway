@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hazards of the Harad Wood"
 ---
 
-Redirect to [Hazards of the Harad Wood](/wiki/Hazards_of_the_Harad_Wood).
+Redirect to [Hazards of the Harad Wood](../H/Hazards_of_the_Harad_Wood.md).

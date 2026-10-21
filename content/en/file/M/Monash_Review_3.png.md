@@ -1,6 +1,5 @@
 ---
 title: "File:Monash Review 3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Monash Review 3.png</span>"
 page_id: 38420
 namespace: 6
 revision_id: 186862

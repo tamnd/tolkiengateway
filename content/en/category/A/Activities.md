@@ -1,6 +1,5 @@
 ---
 title: "Category:Activities"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Activities</span>"
 page_id: 40067
 namespace: 14
 revision_id: 368055
@@ -13,4 +12,4 @@ categories:
   - "Eä"
 ---
 
-This category lists **activities** (games and pastimes etc.) mentioned in the *[legendarium](/wiki/Legendarium "Legendarium")*.
+This category lists **activities** (games and pastimes etc.) mentioned in the *[legendarium](../../main/L/Legendarium.md)*.

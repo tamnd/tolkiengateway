@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Rosie Cotton.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Rosie Cotton.JPG</span>"
 page_id: 20953
 namespace: 6
 revision_id: 389511
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rose Cotton](/wiki/Rose_Cotton), in the *[Green Dragon](/wiki/Green_Dragon)*, saying her good-byes to [Frodo Baggins](/wiki/Frodo_Baggins). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+[Rose Cotton](../../main/R/Rose_Cotton.md), in the *[Green Dragon](../../main/G/Green_Dragon~72852.md)*, saying her good-byes to [Frodo Baggins](../../main/F/Frodo_Baggins.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

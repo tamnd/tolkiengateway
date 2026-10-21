@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Trading Card Game - Gildor Inglorion, of the House of Finrod.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game - Gildor Inglorion, of the House of Finrod.jpg</span>"
 page_id: 50398
 namespace: 6
 revision_id: 427664

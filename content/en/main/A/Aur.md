@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>aur</b></i> is a [Sindarin](/wiki/Sindarin) word meaning *sunlight* or *day*.
+<i><b>aur</b></i> is a [Sindarin](../S/Sindarin.md) word meaning *sunlight* or *day*.

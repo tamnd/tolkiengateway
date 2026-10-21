@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darcival"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darcival</span>"
 page_id: 42534
 namespace: 14
 revision_id: 224483

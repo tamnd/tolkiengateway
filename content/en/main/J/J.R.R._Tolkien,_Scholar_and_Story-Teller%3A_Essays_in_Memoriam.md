@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Scholar and Storyteller"
 ---
 
-Redirect to [J.R.R. Tolkien: Scholar and Storyteller](/wiki/J.R.R._Tolkien:_Scholar_and_Storyteller).
+Redirect to [J.R.R. Tolkien: Scholar and Storyteller](J.R.R._Tolkien%253A_Scholar_and_Storyteller.md).

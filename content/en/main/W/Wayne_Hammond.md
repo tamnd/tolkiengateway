@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wayne G. Hammond"
 ---
 
-Redirect to [Wayne G. Hammond](/wiki/Wayne_G._Hammond).
+Redirect to [Wayne G. Hammond](Wayne_G._Hammond.md).

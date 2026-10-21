@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vëantur"
 ---
 
-Redirect to [Vëantur](/wiki/Vëantur).
+Redirect to [Vëantur](Vëantur.md).

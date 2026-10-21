@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Kenneth Sisam (16 March 1933)"
 ---
 
-Redirect to [Letter to Kenneth Sisam (16 March 1933)](/wiki/Letter_to_Kenneth_Sisam_(16_March_1933)).
+Redirect to [Letter to Kenneth Sisam (16 March 1933)](<../L/Letter_to_Kenneth_Sisam_(16_March_1933).md>).

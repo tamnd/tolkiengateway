@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey.png</span>"
 page_id: 67266
 namespace: 6
 revision_id: 390664

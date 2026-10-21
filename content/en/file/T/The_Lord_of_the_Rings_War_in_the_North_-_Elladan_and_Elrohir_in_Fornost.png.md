@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings War in the North - Elladan and Elrohir in Fornost.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings War in the North - Elladan and Elrohir in Fornost.png</span>"
 page_id: 34431
 namespace: 6
 revision_id: 386821
@@ -25,7 +24,7 @@ file:
   user: "Amroth"
 ---
 
-[Elladan](/wiki/Elladan) and [Elrohir](/wiki/Elrohir) in [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+[Elladan](../../main/E/Elladan.md) and [Elrohir](../../main/E/Elrohir.md) in [The Lord of the Rings: War in the North](../../main/T/The_Lord_of_the_Rings%253A_War_in_the_North.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros</a>. It is believed that the limited use of this file,

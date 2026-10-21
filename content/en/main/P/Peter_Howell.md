@@ -1,6 +1,5 @@
 ---
 title: "Peter Howell"
-display_title: "<span class=\"mw-page-title-main\">Peter Howell</span>"
 page_id: 6889
 namespace: 0
 revision_id: 440087
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Howell, Peter"
 ---
 
-**Peter Howell** ([1919](/wiki/1919) - [20 April](/wiki/20_April) [2015](/wiki/2015)) voiced the part of [Saruman](/wiki/Saruman) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on BBC 4.
+**Peter Howell** ([1919](../_/1919.md) - [20 April](../_/20_April.md) [2015](../_/2015.md)) voiced the part of [Saruman](../S/Saruman.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on BBC 4.
 
 ## External links {#External_links}
 

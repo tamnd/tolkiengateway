@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jane Neave"
 ---
 
-Redirect to [Jane Neave](/wiki/Jane_Neave).
+Redirect to [Jane Neave](Jane_Neave.md).

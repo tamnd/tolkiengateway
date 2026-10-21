@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oldbuck Family"
 ---
 
-Redirect to [Oldbuck Family](/wiki/Oldbuck_Family).
+Redirect to [Oldbuck Family](Oldbuck_Family.md).

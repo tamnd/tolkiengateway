@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Credo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Credo.png</span>"
 page_id: 57129
 namespace: 6
 revision_id: 385187
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien's manuscript of the [Latin](/wiki/Latin) Creed transcribed with Tengwar. Taken from [Parma Eldalamberon 20](/wiki/Parma_Eldalamberon_20), p. 43.
+Tolkien's manuscript of the [Latin](../../main/L/Latin.md) Creed transcribed with Tengwar. Taken from [Parma Eldalamberon 20](../../main/P/Parma_Eldalamberon_20.md), p. 43.
 
 ## Licensing {#Licensing}
 

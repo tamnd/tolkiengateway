@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laurinquë"
 ---
 
-Redirect to [Laurinquë](/wiki/Laurinquë).
+Redirect to [Laurinquë](Laurinquë.md).

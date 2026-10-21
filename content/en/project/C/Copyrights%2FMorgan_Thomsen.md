@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Morgan Thomsen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Morgan Thomsen</span>"
 page_id: 40060
 namespace: 4
 revision_id: 201359
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Thomsen, Morgan"
 ---
 
-- [Morgan Thomsen](/wiki/Morgan_Thomsen) has kindly granted his permission to use [File:TolkienIndex.png](/wiki/File:TolkienIndex.png) on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Morgan Thomsen](../../main/M/Morgan_Thomsen.md) has kindly granted his permission to use [File:TolkienIndex.png](../../file/T/TolkienIndex.png.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 25 June 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

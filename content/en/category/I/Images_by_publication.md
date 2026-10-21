@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by publication"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by publication</span>"
 page_id: 40292
 namespace: 14
 revision_id: 312983

@@ -1,6 +1,5 @@
 ---
 title: "Category:Demonyms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Demonyms</span>"
 page_id: 25086
 namespace: 14
 revision_id: 328859
@@ -15,4 +14,4 @@ categories:
   - "Races"
 ---
 
-Names of peoples by [races](/wiki/Races "Races") or ethnicity, such as *[Eldar](/wiki/Eldar)* or *[Dúnedain](/wiki/D%C3%BAnedain)*. This category is specifically about the nouns—for the topics, see [Category:Races](/wiki/Category:Races).
+Names of peoples by [races](../../main/R/Races.md) or ethnicity, such as *[Eldar](../../main/E/Eldar.md)* or *[Dúnedain](../../main/D/Dúnedain.md)*. This category is specifically about the nouns—for the topics, see [Category:Races](../R/Races.md).

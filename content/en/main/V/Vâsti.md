@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "University of Oxford"
 ---
 
-Redirect to [University of Oxford](/wiki/University_of_Oxford).
+Redirect to [University of Oxford](../U/University_of_Oxford.md).

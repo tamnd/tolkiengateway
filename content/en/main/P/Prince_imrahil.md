@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imrahil"
 ---
 
-Redirect to [Imrahil](/wiki/Imrahil).
+Redirect to [Imrahil](../I/Imrahil.md).

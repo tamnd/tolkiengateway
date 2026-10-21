@@ -1,6 +1,5 @@
 ---
 title: "Jack May"
-display_title: "<span class=\"mw-page-title-main\">Jack May</span>"
 page_id: 6893
 namespace: 0
 revision_id: 406019
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "May, Jack"
 ---
 
-**Jack May** voiced the part of [Theoden](/wiki/Th%C3%A9oden "Théoden") in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on the BBC 4.
+**Jack May** voiced the part of [Theoden](../T/Théoden.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on the BBC 4.

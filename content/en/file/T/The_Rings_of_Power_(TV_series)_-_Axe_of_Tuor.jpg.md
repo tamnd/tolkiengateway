@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Axe of Tuor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Axe of Tuor.jpg</span>"
 page_id: 64626
 namespace: 6
 revision_id: 429431
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-In an interview hosted by the [Fellowship of Fans](/wiki/Fellowship_of_Fans), [Wayne Che Yip](/wiki/Wayne_Che_Yip), an episode director on *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*, elaborated on some easter egg references to [Tuor](/wiki/Tuor) and [Gondolin](/wiki/Gondolin) in [Celebrimbor's](/wiki/Celebrimbor "Celebrimbor") workshop in the [City of the Elven-smiths](/wiki/Ost-in-Edhil "Ost-in-Edhil") and the <a class="new" href="/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">King&#39;s Tower</a> in [Armenelos](/wiki/Armenelos).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+In an interview hosted by the [Fellowship of Fans](../../main/F/Fellowship_of_Fans.md), [Wayne Che Yip](../../main/W/Wayne_Che_Yip.md), an episode director on *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, elaborated on some easter egg references to [Tuor](../../main/T/Tuor.md) and [Gondolin](../../main/G/Gondolin.md) in [Celebrimbor's](../../main/C/Celebrimbor.md) workshop in the [City of the Elven-smiths](../../main/O/Ost-in-Edhil.md) and the <a class="new" href="https://tolkiengateway.net/w/index.php?title=King%27s_house&amp;action=edit&amp;redlink=1" title="King&#39;s house (page does not exist)">King&#39;s Tower</a> in [Armenelos](../../main/A/Armenelos.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -40,6 +39,6 @@ In an interview hosted by the [Fellowship of Fans](/wiki/Fellowship_of_Fans), [W
 </div>
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Fellowship_of_Fans" title="Fellowship of Fans">Fellowship of Fans</a> (21 November 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/FellowshipFans/status/1594710816766533635" rel="noreferrer noopener" target="_blank">&#34;Interview with The Rings of Power Director Wayne Yip&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../../main/F/Fellowship_of_Fans.md" title="Fellowship of Fans">Fellowship of Fans</a> (21 November 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/FellowshipFans/status/1594710816766533635" rel="noreferrer noopener" target="_blank">&#34;Interview with The Rings of Power Director Wayne Yip&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Chronology of The Lord of the Rings page 13.jpeg"
 ---
 
-Redirect to [File:Chronology of The Lord of the Rings page 13.jpeg](/wiki/File:Chronology_of_The_Lord_of_the_Rings_page_13.jpeg).
+Redirect to [File:Chronology of The Lord of the Rings page 13.jpeg](../C/Chronology_of_The_Lord_of_the_Rings_page_13.jpeg.md).

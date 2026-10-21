@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mallorn (journal)"
 ---
 
-Redirect to [Mallorn (journal)](/wiki/Mallorn_(journal)).
+Redirect to [Mallorn (journal)](<Mallorn_(journal).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Andrea Piparo - Phial of Galadriel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andrea Piparo - Phial of Galadriel.jpg</span>"
 page_id: 71663
 namespace: 6
 revision_id: 427460
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Phial of Galadriel](/wiki/Phial_of_Galadriel)" - Artwork by [Andrea Piparo](/wiki/Category:Images_by_Andrea_Piparo "Category:Images by Andrea Piparo") for *[The Lord of the Rings: Tales of Middle-earth](/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth)*
+"[Phial of Galadriel](../../main/P/Phial_of_Galadriel.md)" - Artwork by [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) for *[The Lord of the Rings: Tales of Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Andrea Piparo and Ares Games for the War of the Ring - the card game</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/AndreaPiparoArt" rel="noreferrer noopener" target="_blank">Andrea Piparo</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrea_Piparo" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrea_Piparo.md" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

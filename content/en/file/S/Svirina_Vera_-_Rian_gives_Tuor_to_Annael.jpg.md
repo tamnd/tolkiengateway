@@ -1,6 +1,5 @@
 ---
 title: "File:Svirina Vera - Rian gives Tuor to Annael.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Svirina Vera - Rian gives Tuor to Annael.jpg</span>"
 page_id: 56437
 namespace: 6
 revision_id: 307200
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Rian](/wiki/Rian) giving [Tuor](/wiki/Tuor) to [Annael](/wiki/Annael), as described in [Of Tuor and his Coming to Gondolin](/wiki/Of_Tuor_and_his_Coming_to_Gondolin)
+Image of [Rian](../../main/R/Rian.md) giving [Tuor](../../main/T/Tuor.md) to [Annael](../../main/A/Annael.md), as described in [Of Tuor and his Coming to Gondolin](../../main/O/Of_Tuor_and_his_Coming_to_Gondolin.md)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ Image of [Rian](/wiki/Rian) giving [Tuor](/wiki/Tuor) to [Annael](/wiki/Annael),
 </p>
 <ul><li><b>Name:</b> Svirina Vera</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/periannart" rel="noreferrer noopener" target="_blank">Periannart in DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Svirina_Vera" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSvirina_Vera.md" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>

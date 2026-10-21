@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Morwë and Nurwë"
 ---
 
-Redirect to [Category:Images of Morwë and Nurwë](/wiki/Category:Images_of_Morwë_and_Nurwë).
+Redirect to [Category:Images of Morwë and Nurwë](Images_of_Morwë_and_Nurwë.md).

@@ -1,6 +1,5 @@
 ---
 title: "Kathleen E. Dubs"
-display_title: "<span class=\"mw-page-title-main\">Kathleen E. Dubs</span>"
 page_id: 21494
 namespace: 0
 revision_id: 406103
@@ -23,19 +22,19 @@ sort_keys:
   "People by name": "Dubs, Kathleen E."
 ---
 
-**Kathleen E. Dubs** ([1944](/wiki/1944) - [2011](/wiki/2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a member of the humanities faculty at <a class="extiw" href="http://en.wikipedia.org/wiki/P%C3%A1zm%C3%A1ny_P%C3%A9ter_Catholic_University" title="wikipedia:Pázmány Péter Catholic University">Pázmány Péter Catholic University</a>, and a member of the [Hungarian Tolkien Society](/wiki/Hungarian_Tolkien_Society). Her courses included [Old](/wiki/Old_English "Old English") and [Middle English](/wiki/Middle_English), medieval literature, and her lectures on [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") revived interest in him in academic circles.
+**Kathleen E. Dubs** ([1944](../_/1944.md) - [2011](../_/2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a member of the humanities faculty at <a class="extiw" href="http://en.wikipedia.org/wiki/P%C3%A1zm%C3%A1ny_P%C3%A9ter_Catholic_University" title="wikipedia:Pázmány Péter Catholic University">Pázmány Péter Catholic University</a>, and a member of the [Hungarian Tolkien Society](../H/Hungarian_Tolkien_Society.md). Her courses included [Old](../O/Old_English.md) and [Middle English](../M/Middle_English.md), medieval literature, and her lectures on [Tolkien](../J/J.R.R._Tolkien.md) revived interest in him in academic circles.
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [2010](/wiki/2010): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](/wiki/Middle-earth_and_Beyond "Middle-earth and Beyond")* (edited with Janka Kaščáková)
+- [2010](../_/2010.md): *[Middle-earth and Beyond: Essays on the World of J.R.R. Tolkien](../M/Middle-earth_and_Beyond.md)* (edited with Janka Kaščáková)
 
 ### Articles {#Articles}
 
-- [2004](/wiki/2004): *[Tolkien and the Invention of Myth](/wiki/Tolkien_and_the_Invention_of_Myth)*
+- [2004](../_/2004.md): *[Tolkien and the Invention of Myth](../T/Tolkien_and_the_Invention_of_Myth.md)*
     - "Providence, fate, and chance: Boethian philosophy in the Lord of the Rings"
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
     - "Fortune and Fate"
 
 ## External links {#External_links}
@@ -47,6 +46,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Jason_Fisher" title="Jason Fisher">Jason Fisher</a>, &#34;<a class="external text" href="http://lingwe.blogspot.com/2011/12/new-reviews-of-past-work.html" rel="noreferrer noopener" target="_blank">New reviews of past work</a>&#34; at <a class="external text" href="http://lingwe.blogspot.com/" rel="noreferrer noopener" target="_blank">Lingwë</a> (accessed 17 December 2011)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/Jason_Fisher.md" title="Jason Fisher">Jason Fisher</a>, &#34;<a class="external text" href="http://lingwe.blogspot.com/2011/12/new-reviews-of-past-work.html" rel="noreferrer noopener" target="_blank">New reviews of past work</a>&#34; at <a class="external text" href="http://lingwe.blogspot.com/" rel="noreferrer noopener" target="_blank">Lingwë</a> (accessed 17 December 2011)</span>
 </li>
 </ol></div>

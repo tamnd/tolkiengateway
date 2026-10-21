@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helm"
 ---
 
-Redirect to [Helm](/wiki/Helm).
+Redirect to [Helm](Helm.md).

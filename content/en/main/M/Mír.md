@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mîr"
 ---
 
-Redirect to [Mîr](/wiki/Mîr).
+Redirect to [Mîr](Mîr.md).

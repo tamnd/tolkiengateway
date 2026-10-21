@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Przemyslaw Mroczkowski (2 August 1946)"
 ---
 
-Redirect to [Letter to Przemyslaw Mroczkowski (2 August 1946)](/wiki/Letter_to_Przemyslaw_Mroczkowski_(2_August_1946)).
+Redirect to [Letter to Przemyslaw Mroczkowski (2 August 1946)](<../L/Letter_to_Przemyslaw_Mroczkowski_(2_August_1946).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Ruin of Beleriand and the Fall of Fingolfin"
 ---
 
-Redirect to [Of the Ruin of Beleriand and the Fall of Fingolfin](/wiki/Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin).
+Redirect to [Of the Ruin of Beleriand and the Fall of Fingolfin](Of_the_Ruin_of_Beleriand_and_the_Fall_of_Fingolfin.md).

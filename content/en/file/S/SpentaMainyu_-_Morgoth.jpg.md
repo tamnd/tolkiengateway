@@ -1,6 +1,5 @@
 ---
 title: "File:SpentaMainyu - Morgoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SpentaMainyu - Morgoth.jpg</span>"
 page_id: 73049
 namespace: 6
 revision_id: 432518
@@ -38,8 +37,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2009</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td><a class="external text" href="https://www.deviantart.com/spentamainyu" rel="noreferrer noopener" target="_blank">SpentaMainyu</a></td>
@@ -48,7 +45,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.deviantart.com/spentamainyu/art/Morgoth-WIP-2-129324402" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/spentamainyu/art/Morgoth-WIP-2-129324402</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

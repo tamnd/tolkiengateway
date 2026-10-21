@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Déagol.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Déagol.png</span>"
 page_id: 73146
 namespace: 6
 revision_id: 432981
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Déagol](/wiki/D%C3%A9agol) - [LEGO](/wiki/Lego "Lego") minifigure. Source: <a class="external text" href="https://jaysbrickblog.com/wp-content/uploads/2025/04/40761-Smeagol-and-Deagol-Minifigures-2048x1467.jpg" rel="noreferrer noopener" target="_blank">Jay&#39;s Brick Blog</a>
+[Déagol](../../main/D/Déagol.md) - [LEGO](../../main/L/Lego.md) minifigure. Source: <a class="external text" href="https://jaysbrickblog.com/wp-content/uploads/2025/04/40761-Smeagol-and-Deagol-Minifigures-2048x1467.jpg" rel="noreferrer noopener" target="_blank">Jay&#39;s Brick Blog</a>
 
 ## Licensing {#Licensing}
 

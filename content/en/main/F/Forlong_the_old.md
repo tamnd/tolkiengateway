@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forlong"
 ---
 
-Redirect to [Forlong](/wiki/Forlong).
+Redirect to [Forlong](Forlong.md).

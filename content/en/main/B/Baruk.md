@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bark"
 ---
 
-Redirect to [Bark](/wiki/Bark).
+Redirect to [Bark](Bark.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien, Race and Cultural History.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien, Race and Cultural History.jpg</span>"
 page_id: 44227
 namespace: 6
 revision_id: 232601

@@ -1,6 +1,5 @@
 ---
 title: "File:John Boorman.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Boorman.jpeg</span>"
 page_id: 67030
 namespace: 6
 revision_id: 388856
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [John Boorman](/wiki/John_Boorman) taken in 2006.
+Image of [John Boorman](../../main/J/John_Boorman.md) taken in 2006.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);" class="licensetpl">
 <p>This work is licensed under the <a class="external text" href="http://creativecommons.org/" rel="noreferrer noopener" target="_blank">Creative Commons</a> <a class="external text" href="http://creativecommons.org/licenses/by-sa/2.0/" rel="noreferrer noopener" target="_blank">Attribution-ShareAlike 2.0</a> License.

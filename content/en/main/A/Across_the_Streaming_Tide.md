@@ -1,6 +1,5 @@
 ---
 title: "Across the Streaming Tide"
-display_title: "<span class=\"mw-page-title-main\">Across the Streaming Tide</span>"
 page_id: 22252
 namespace: 0
 revision_id: 424135
@@ -16,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-*Across the Streaming Tide* is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their sixth full-length album, [Oath Bound](/wiki/Oath_Bound), released in 2006. The song is about the passing of the [Noldor](/wiki/Noldor) into [Beleriand](/wiki/Beleriand).
+*Across the Streaming Tide* is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their sixth full-length album, [Oath Bound](../O/Oath_Bound.md), released in 2006. The song is about the passing of the [Noldor](../N/Noldor.md) into [Beleriand](../B/Beleriand.md).
 
 ## Lyrics {#Lyrics}
 

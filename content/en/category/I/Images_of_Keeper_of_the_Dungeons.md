@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of the Keeper of the Dungeons"
 ---
 
-Redirect to [Category:Images of the Keeper of the Dungeons](/wiki/Category:Images_of_the_Keeper_of_the_Dungeons).
+Redirect to [Category:Images of the Keeper of the Dungeons](Images_of_the_Keeper_of_the_Dungeons.md).

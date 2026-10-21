@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angrod"
 ---
 
-Redirect to [Angrod](/wiki/Angrod).
+Redirect to [Angrod](Angrod.md).

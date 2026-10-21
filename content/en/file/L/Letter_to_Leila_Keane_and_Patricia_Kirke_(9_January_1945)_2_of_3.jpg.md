@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Leila Keane and Patricia Kirke (9 January 1945) 2 of 3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Leila Keane and Patricia Kirke (9 January 1945) 2 of 3.jpg</span>"
 page_id: 63027
 namespace: 6
 revision_id: 356637

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit The Complete Original Soundtrack - cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit The Complete Original Soundtrack - cover.jpg</span>"
 page_id: 21515
 namespace: 6
 revision_id: 272523
@@ -25,7 +24,7 @@ file:
   user: "Ederchil"
 ---
 
-The cover of *[The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack)*, the soundtrack to [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)").
+The cover of *[The Hobbit: The Complete Original Soundtrack](../../main/T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*, the soundtrack to [*The Hobbit* (1977 film)](<../../main/T/The_Hobbit_(1977_film).md>).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,

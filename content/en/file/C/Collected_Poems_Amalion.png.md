@@ -1,6 +1,5 @@
 ---
 title: "File:Collected Poems Amalion.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Collected Poems Amalion.png</span>"
 page_id: 67231
 namespace: 6
 revision_id: 390515

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jukka Raak"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jukka Raak</span>"
 page_id: 57740
 namespace: 4
 revision_id: 318864
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Raak, Jukka"
 ---
 
-- Jukka Raak has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Jukka_Raak "Category:Images by Jukka Raak") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Jukka Raak has kindly granted her permission to use [her artwork](../../category/I/Images_by_Jukka_Raak.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 August 2020
-- User who sought the permission: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

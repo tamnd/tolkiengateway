@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Old Man Willow.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Old Man Willow.png</span>"
 page_id: 71342
 namespace: 6
 revision_id: 425673
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Old Man Willow](/wiki/Old_Man_Willow) - *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*
+[Old Man Willow](../../main/O/Old_Man_Willow.md) - *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*
 
 ## Licensing {#Licensing}
 

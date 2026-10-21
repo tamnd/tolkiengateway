@@ -13,18 +13,18 @@ categories:
   - "Sindarin verbs"
 ---
 
-**Ril** is an [Elvish](/wiki/Eldarin "Eldarin") word, meaning "glitter".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It occurs both in [Sindarin](/wiki/Sindarin) and [Quenya](/wiki/Quenya), where it is a shortened form of *rillë*.
+**Ril** is an [Elvish](../E/Eldarin.md) word, meaning "glitter".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It occurs both in [Sindarin](../S/Sindarin.md) and [Quenya](../Q/Quenya.md), where it is a shortened form of *rillë*.
 
 ## Examples {#Examples}
 
-- Quenya: <i><a class="mw-redirect" href="/wiki/Silmaril" title="Silmaril">Silma<b>ril</b></a></i>, <i><a href="/wiki/And%C3%BAril" title="Andúril">Andú<b>ril</b></a></i>
-- Sindarin: <i><a href="/wiki/Mithril" title="Mithril">Mith<b>ril</b></a>, <a href="/wiki/Idril" title="Idril">Id<b>ril</b></a></i>
+- Quenya: <i><a class="mw-redirect" href="../S/Silmaril.md" title="Silmaril">Silma<b>ril</b></a></i>, <i><a href="../A/Andúril.md" title="Andúril">Andú<b>ril</b></a></i>
+- Sindarin: <i><a href="../M/Mithril.md" title="Mithril">Mith<b>ril</b></a>, <a href="../I/Idril.md" title="Idril">Id<b>ril</b></a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>ril</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>ril</i></span>
 </li>
 </ol></div>

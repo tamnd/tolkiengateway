@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ae Adar Nín"
 ---
 
-Redirect to [Ae Adar Nín](/wiki/Ae_Adar_Nín).
+Redirect to [Ae Adar Nín](Ae_Adar_Nín.md).

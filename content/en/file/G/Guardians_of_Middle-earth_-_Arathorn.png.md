@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Arathorn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Arathorn.png</span>"
 page_id: 71352
 namespace: 6
 revision_id: 425751
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Arathorn](/wiki/Arathorn_II "Arathorn II") - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Arathorn](../../main/A/Arathorn_II.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

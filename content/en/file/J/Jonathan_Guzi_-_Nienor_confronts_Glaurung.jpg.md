@@ -1,6 +1,5 @@
 ---
 title: "File:Jonathan Guzi - Nienor confronts Glaurung.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jonathan Guzi - Nienor confronts Glaurung.jpg</span>"
 page_id: 54639
 namespace: 6
 revision_id: 295791
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jonathan Guzi‎</li>
 <li><b>Website:</b> <a class="external free" href="http://jonathanguzi.deviantart.com" rel="noreferrer noopener" target="_blank">http://jonathanguzi.deviantart.com</a> · <a class="external free" href="http://www.jonathanguzi.com" rel="noreferrer noopener" target="_blank">http://www.jonathanguzi.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jonathan_Guzi" title="Tolkien Gateway:Copyrights/Jonathan Guzi">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJonathan_Guzi.md" title="Tolkien Gateway:Copyrights/Jonathan Guzi">Permission for use on Tolkien Gateway</a></b></li></ul></div>

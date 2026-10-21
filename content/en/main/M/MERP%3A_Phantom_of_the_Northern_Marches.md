@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Phantom of the Northern Marches"
 ---
 
-Redirect to [Phantom of the Northern Marches](/wiki/Phantom_of_the_Northern_Marches).
+Redirect to [Phantom of the Northern Marches](../P/Phantom_of_the_Northern_Marches.md).

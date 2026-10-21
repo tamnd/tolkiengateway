@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Ungol"
 ---
 
-Redirect to [Cirith Ungol](/wiki/Cirith_Ungol).
+Redirect to [Cirith Ungol](Cirith_Ungol.md).

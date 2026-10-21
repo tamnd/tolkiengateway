@@ -1,6 +1,5 @@
 ---
 title: "File:The Book of Jonah.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Book of Jonah.jpg</span>"
 page_id: 30383
 namespace: 6
 revision_id: 214621

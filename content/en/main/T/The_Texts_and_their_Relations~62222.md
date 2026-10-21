@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Texts and Their Relations"
 ---
 
-Redirect to [The Texts and Their Relations](/wiki/The_Texts_and_Their_Relations).
+Redirect to [The Texts and Their Relations](The_Texts_and_Their_Relations.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eriol"
 ---
 
-Redirect to [Eriol](/wiki/Eriol).
+Redirect to [Eriol](Eriol.md).

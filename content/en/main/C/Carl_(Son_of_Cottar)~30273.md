@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl (son of Cottar)"
 ---
 
-Redirect to [Carl (son of Cottar)](/wiki/Carl_(son_of_Cottar)).
+Redirect to [Carl (son of Cottar)](<Carl_(son_of_Cottar).md>).

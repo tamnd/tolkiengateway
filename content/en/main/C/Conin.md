@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caun"
 ---
 
-Redirect to [Caun](/wiki/Caun).
+Redirect to [Caun](Caun.md).

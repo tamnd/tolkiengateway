@@ -1,6 +1,5 @@
 ---
 title: "Mostly Autumn"
-display_title: "<span class=\"mw-page-title-main\">Mostly Autumn</span>"
 page_id: 68871
 namespace: 0
 revision_id: 410711
@@ -14,7 +13,7 @@ categories:
   - "Rock music"
 ---
 
-**Mostly Autumn** is a British prog-rock band, with many songs based on [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works. In 2001 they released a concept album based on the [Lord of the Rings](/wiki/The_Lord_of_the_Rings "The Lord of the Rings") trilogy, titled <a class="new" href="/w/index.php?title=Music_Inspired_by_the_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="Music Inspired by the Lord of the Rings (page does not exist)">Music Inspired by the Lord of the Rings</a>.
+**Mostly Autumn** is a British prog-rock band, with many songs based on [Tolkien's](../J/J.R.R._Tolkien.md) works. In 2001 they released a concept album based on the [Lord of the Rings](../T/The_Lord_of_the_Rings.md) trilogy, titled <a class="new" href="https://tolkiengateway.net/w/index.php?title=Music_Inspired_by_the_Lord_of_the_Rings&amp;action=edit&amp;redlink=1" title="Music Inspired by the Lord of the Rings (page does not exist)">Music Inspired by the Lord of the Rings</a>.
 
 ## External links {#External_links}
 

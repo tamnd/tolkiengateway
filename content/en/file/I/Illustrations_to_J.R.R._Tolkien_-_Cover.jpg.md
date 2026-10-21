@@ -1,6 +1,5 @@
 ---
 title: "File:Illustrations to J.R.R. Tolkien - Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Illustrations to J.R.R. Tolkien - Cover.jpg</span>"
 page_id: 65499
 namespace: 6
 revision_id: 377080

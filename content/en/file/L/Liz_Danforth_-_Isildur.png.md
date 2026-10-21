@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Isildur.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Isildur.png</span>"
 page_id: 34729
 namespace: 6
 revision_id: 263069
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Isildur* by [Liz Danforth](/wiki/Liz_Danforth), appearing in Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](/wiki/Chris_Seeman), Magnus Seter, *[Southern Gondor: The People](/wiki/Southern_Gondor:_The_People)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2020, 1996) .
+*Isildur* by [Liz Danforth](../../main/L/Liz_Danforth.md), appearing in Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The People](../../main/S/Southern_Gondor%253A_The_People.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2020, 1996) .
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Names"
 ---
 
-Redirect to [Category:Names](/wiki/Category:Names).
+Redirect to [Category:Names](../../category/N/Names.md).

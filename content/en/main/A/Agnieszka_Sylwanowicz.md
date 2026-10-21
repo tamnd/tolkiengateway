@@ -1,6 +1,5 @@
 ---
 title: "Agnieszka Sylwanowicz"
-display_title: "<span class=\"mw-page-title-main\">Agnieszka Sylwanowicz</span>"
 page_id: 53144
 namespace: 0
 revision_id: 440126
@@ -19,24 +18,24 @@ sort_keys:
   "People by name": "Sylwanowicz, Agnieszka"
 ---
 
-**Agnieszka Sylwanowicz** 'Evermind HS Took' is an editor and one of the founders of the Polish Tolkienists Almanac *[Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)").* She has served as editor of the publication from [November](/wiki/November) [2004](/wiki/2004) to the present.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](/wiki/Sekcja_Tolkienowska_%C5%9AKF "Sekcja Tolkienowska ŚKF").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Agnieszka Sylwanowicz** 'Evermind HS Took' is an editor and one of the founders of the Polish Tolkienists Almanac *[Aiglos](<Aiglos_(journal).md>).* She has served as editor of the publication from [November](../N/November.md) [2004](../_/2004.md) to the present.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She is also a member of the *Parmadili*, [The Tolkien Section of the Silesian Fantasy Club](../S/Sekcja_Tolkienowska_ŚKF.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Articles {#Articles}
 
-- [2012](/wiki/2012): *[Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)*
+- [2012](../_/2012.md): *[Aiglos Special Issue II](Aiglos_Special_Issue_II.md)*
     - "Believe neither editors nor translators, or how I almost rubbed shoulders with a celebrity"
 
 ### Reviews {#Reviews}
 
-- [2015](/wiki/2015): *[Aiglos 20](/wiki/Aiglos_20)*
-    - *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)* review
-    - “A new trend in blockbusters?” - review of the extended DVD edition of *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*
-- [2016](/wiki/2016): *[Aiglos 21](/wiki/Aiglos_21)*
-    - "A long-expected end" – a review of the extended DVD edition of *[The Hobbit: The Battle of the Five Armies](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies)*"
-    - "Tolkien in the context of his times a review of Dimitra Fimi’s book *[Tolkien, Race and Cultural History](/wiki/Tolkien,_Race_and_Cultural_History)*"
-    - "*[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* for the eye, a review of Wayne G. Hammond and Christina Scull’s *[The Art of The Lord of the Rings](/wiki/The_Art_of_The_Lord_of_the_Rings)*
+- [2015](../_/2015.md): *[Aiglos 20](Aiglos_20.md)*
+    - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* review
+    - “A new trend in blockbusters?” - review of the extended DVD edition of *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*
+- [2016](../_/2016.md): *[Aiglos 21](Aiglos_21.md)*
+    - "A long-expected end" – a review of the extended DVD edition of *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*"
+    - "Tolkien in the context of his times a review of Dimitra Fimi’s book *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)*"
+    - "*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* for the eye, a review of Wayne G. Hammond and Christina Scull’s *[The Art of The Lord of the Rings](../T/The_Art_of_The_Lord_of_the_Rings.md)*
 
 ## External links {#External_links}
 

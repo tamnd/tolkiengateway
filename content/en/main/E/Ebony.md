@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ebonies"
 ---
 
-Redirect to [Ebonies](/wiki/Ebonies).
+Redirect to [Ebonies](Ebonies.md).

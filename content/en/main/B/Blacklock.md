@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Blacklocks"
 ---
 
-Redirect to [Blacklocks](/wiki/Blacklocks).
+Redirect to [Blacklocks](Blacklocks.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Poems by J.R.R. Tolkien"
 ---
 
-Redirect to [Index:Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien).
+Redirect to [Index:Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md).

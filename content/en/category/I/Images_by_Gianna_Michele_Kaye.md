@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Gianna Michele Kaye"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Gianna Michele Kaye</span>"
 page_id: 49450
 namespace: 14
 revision_id: 264606

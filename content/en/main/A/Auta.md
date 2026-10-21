@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Auta-"
 ---
 
-Redirect to [Auta-](/wiki/Auta-).
+Redirect to [Auta-](Auta-.md).

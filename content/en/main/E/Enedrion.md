@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edrahil"
 ---
 
-Redirect to [Edrahil](/wiki/Edrahil).
+Redirect to [Edrahil](Edrahil.md).

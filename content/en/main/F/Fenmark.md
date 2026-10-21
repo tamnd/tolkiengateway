@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fenmarch"
 ---
 
-Redirect to [Fenmarch](/wiki/Fenmarch).
+Redirect to [Fenmarch](Fenmarch.md).

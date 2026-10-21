@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rod Jellema"
 ---
 
-Redirect to [Letter to Rod Jellema](/wiki/Letter_to_Rod_Jellema).
+Redirect to [Letter to Rod Jellema](../L/Letter_to_Rod_Jellema.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hills of Evendim"
 ---
 
-Redirect to [Hills of Evendim](/wiki/Hills_of_Evendim).
+Redirect to [Hills of Evendim](../H/Hills_of_Evendim.md).

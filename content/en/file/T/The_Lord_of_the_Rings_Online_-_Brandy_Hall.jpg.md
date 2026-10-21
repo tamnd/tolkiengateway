@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Brandy Hall.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Brandy Hall.jpg</span>"
 page_id: 69801
 namespace: 6
 revision_id: 430892

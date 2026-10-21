@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Holman Cotton"
 ---
 
-Redirect to [Holman Cotton](/wiki/Holman_Cotton).
+Redirect to [Holman Cotton](../H/Holman_Cotton.md).

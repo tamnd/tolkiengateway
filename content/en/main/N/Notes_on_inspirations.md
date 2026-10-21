@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien's inspirations/notes"
 ---
 
-Redirect to [J.R.R. Tolkien's inspirations/notes](/wiki/J.R.R._Tolkien's_inspirations/notes).
+Redirect to [J.R.R. Tolkien's inspirations/notes](../J/J.R.R._Tolkien's_inspirations%252Fnotes.md).

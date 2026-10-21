@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings (film series) soundtracks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) soundtracks</span>"
 page_id: 42177
 namespace: 14
 revision_id: 440566

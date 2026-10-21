@@ -1,6 +1,5 @@
 ---
 title: "Addison-Wesley"
-display_title: "<span class=\"mw-page-title-main\">Addison-Wesley</span>"
 page_id: 25509
 namespace: 0
 revision_id: 404518
@@ -14,7 +13,7 @@ categories:
   - "American businesses"
 ---
 
-**Addison-Weslay** was the company that distributed the text-adventure video games *[The Hobbit Software Adventure](/wiki/The_Hobbit_Software_Adventure)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Fellowship of the Ring Software Adventure](/wiki/The_Fellowship_of_the_Ring_Software_Adventure)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *[The Shadows of Mordor Software Adventure](/wiki/Shadows_of_Mordor "Shadows of Mordor")*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and [Crack of Doom Software Adventure](/wiki/Crack_of_Doom_Software_Adventure)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> in North America and Australlia.
+**Addison-Weslay** was the company that distributed the text-adventure video games *[The Hobbit Software Adventure](../T/The_Hobbit_Software_Adventure.md)*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[The Fellowship of the Ring Software Adventure](../T/The_Fellowship_of_the_Ring_Software_Adventure.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> *[The Shadows of Mordor Software Adventure](../S/Shadows_of_Mordor.md)*<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and [Crack of Doom Software Adventure](../C/Crack_of_Doom_Software_Adventure.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> in North America and Australlia.
 
 <span></span>
 

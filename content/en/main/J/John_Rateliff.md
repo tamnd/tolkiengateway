@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "John D. Rateliff"
 ---
 
-Redirect to [John D. Rateliff](/wiki/John_D._Rateliff).
+Redirect to [John D. Rateliff](John_D._Rateliff.md).

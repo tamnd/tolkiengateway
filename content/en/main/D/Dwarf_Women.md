@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf Women (scene)"
 ---
 
-Redirect to [Dwarf Women (scene)](/wiki/Dwarf_Women_(scene)).
+Redirect to [Dwarf Women (scene)](<Dwarf_Women_(scene).md>).

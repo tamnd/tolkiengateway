@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Tolkien Compass"
 ---
 
-Redirect to [A Tolkien Compass](/wiki/A_Tolkien_Compass).
+Redirect to [A Tolkien Compass](../A/A_Tolkien_Compass.md).

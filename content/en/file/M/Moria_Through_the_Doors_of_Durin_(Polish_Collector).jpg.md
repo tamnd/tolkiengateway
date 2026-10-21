@@ -1,6 +1,5 @@
 ---
 title: "File:Moria Through the Doors of Durin (Polish Collector).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Moria Through the Doors of Durin (Polish Collector).jpg</span>"
 page_id: 75027
 namespace: 6
 revision_id: 441753

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Storn Cook"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Storn Cook</span>"
 page_id: 30221
 namespace: 14
 revision_id: 431270
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Cook, Storn"
 ---
 
-This category lists all **images by [Storn Cook](/wiki/Storn_Cook)**.
+This category lists all **images by [Storn Cook](../../main/S/Storn_Cook.md)**.

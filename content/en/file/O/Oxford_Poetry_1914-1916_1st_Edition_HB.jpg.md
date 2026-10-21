@@ -1,6 +1,5 @@
 ---
 title: "File:Oxford Poetry 1914-1916 1st Edition HB.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oxford Poetry 1914-1916 1st Edition HB.jpg</span>"
 page_id: 5054
 namespace: 6
 revision_id: 214565

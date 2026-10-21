@@ -1,6 +1,5 @@
 ---
 title: "Rick Porras"
-display_title: "<span class=\"mw-page-title-main\">Rick Porras</span>"
 page_id: 20158
 namespace: 0
 revision_id: 416125
@@ -29,17 +28,17 @@ images:
   - "Rick_Porras.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Rick_Porras.jpg"><img src="/w/images/8/8d/Rick_Porras.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" data-file-width="300" data-file-height="169"/></a><figcaption>Rick Porras</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rick_Porras.jpg.md"><img src="https://tolkiengateway.net/w/images/8/8d/Rick_Porras.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" data-file-width="300" data-file-height="169"/></a><figcaption>Rick Porras</figcaption></figure>
 
-**Richard Porras** (born [May 7th](/wiki/7_May "7 May"), [1969](/wiki/1969)) is an American producer who co-produced [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+**Richard Porras** (born [May 7th](../_/7_May.md), [1969](../_/1969.md)) is an American producer who co-produced [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Life {#Life}
 
-He grew up in the San Francisco Bay Area and attended Stanford University, graduating in 1988 with a degree in History. Porras then became a Personal Assistant for <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Zemeckis" title="wikipedia:Robert Zemeckis">Robert Zemeckis</a>, and first worked with [Peter Jackson](/wiki/Peter_Jackson) on *The Frighteners*. Porras gradually rose in the film world, and in May [1998](/wiki/1998), he went to [New Zealand](/wiki/New_Zealand) to co-produce [Peter Jackson](/wiki/Peter_Jackson)'s effort <a class="external autonumber" href="http://www.kristinthompson.net/blog/?p=146" rel="noreferrer noopener" target="_blank">[1]</a>.
+He grew up in the San Francisco Bay Area and attended Stanford University, graduating in 1988 with a degree in History. Porras then became a Personal Assistant for <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Zemeckis" title="wikipedia:Robert Zemeckis">Robert Zemeckis</a>, and first worked with [Peter Jackson](../P/Peter_Jackson.md) on *The Frighteners*. Porras gradually rose in the film world, and in May [1998](../_/1998.md), he went to [New Zealand](../N/New_Zealand.md) to co-produce [Peter Jackson](../P/Peter_Jackson.md)'s effort <a class="external autonumber" href="http://www.kristinthompson.net/blog/?p=146" rel="noreferrer noopener" target="_blank">[1]</a>.
 
 ## Roles {#Roles}
 
-He was [Andy Serkis](/wiki/Andy_Serkis)'s stand-in in *[The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring "The Lord of the Rings: The Fellowship of the Ring")* and played a [Corsair of Umbar](/wiki/Corsairs_of_Umbar "Corsairs of Umbar") in *[The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King "The Lord of the Rings: The Return of the King")*. Porras was also an uncredited second-unit director in *The Fellowship of the Ring*.
+He was [Andy Serkis](../A/Andy_Serkis.md)'s stand-in in *[The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* and played a [Corsair of Umbar](../C/Corsairs_of_Umbar.md) in *[The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Porras was also an uncredited second-unit director in *The Fellowship of the Ring*.
 
 ## External links {#External_links}
 

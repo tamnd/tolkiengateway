@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tales from the Perilous Realm (1992 radio series)"
 ---
 
-Redirect to [Tales from the Perilous Realm (1992 radio series)](/wiki/Tales_from_the_Perilous_Realm_(1992_radio_series)).
+Redirect to [Tales from the Perilous Realm (1992 radio series)](<Tales_from_the_Perilous_Realm_(1992_radio_series).md>).

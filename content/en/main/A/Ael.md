@@ -13,14 +13,14 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ael</b></i> ([Noldorin](/wiki/Noldorin) <i><b>oel</b></i>) is a noun meaning "lake, pool, mere" in [Sindarin](/wiki/Sindarin). The plural is <i><b>aelin</b></i> ([Noldorin](/wiki/Noldorin) <i><b>oelin</b></i>).
+<i><b>ael</b></i> ([Noldorin](../N/Noldorin.md) <i><b>oel</b></i>) is a noun meaning "lake, pool, mere" in [Sindarin](../S/Sindarin.md). The plural is <i><b>aelin</b></i> ([Noldorin](../N/Noldorin.md) <i><b>oelin</b></i>).
 
 Examples:
 
-- [Aelin-uial](/wiki/Aelin-uial) = "Meres of Twilight"
-- [Aeluin](/wiki/Aeluin) = "Blue Lake"
+- [Aelin-uial](Aelin-uial.md) = "Meres of Twilight"
+- [Aeluin](Aeluin.md) = "Blue Lake"
 
 ## References {#References}
 
-- *[The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)* by [Ruth S. Noel](/wiki/Ruth_S._Noel)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](/wiki/Didier_Willis)
+- *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* by [Ruth S. Noel](../R/Ruth_S._Noel.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Hiswelókë&#39;s Sindarin Dictionary</a> compiled by [Didier Willis](../D/Didier_Willis.md)

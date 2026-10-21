@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien (film) - T.C.B.S.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien (film) - T.C.B.S.jpg</span>"
 page_id: 64366
 namespace: 6
 revision_id: 368791
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The [T.C.B.S.](/wiki/T.C.B.S.) as seen in the trailer for [Tolkien (film)](</wiki/Tolkien_(film)>).
+The [T.C.B.S.](../../main/T/T.C.B.S..md) as seen in the trailer for [Tolkien (film)](<../../main/T/Tolkien_(film).md>).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lairë"
 ---
 
-Redirect to [Lairë](/wiki/Lairë).
+Redirect to [Lairë](Lairë.md).

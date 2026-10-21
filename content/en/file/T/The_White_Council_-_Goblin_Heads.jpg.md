@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Goblin Heads.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Goblin Heads.jpg</span>"
 page_id: 13393
 namespace: 6
 revision_id: 169714

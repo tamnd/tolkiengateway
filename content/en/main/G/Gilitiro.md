@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilitīro"
 ---
 
-Redirect to [Gilitīro](/wiki/Gilitīro).
+Redirect to [Gilitīro](Gilitīro.md).

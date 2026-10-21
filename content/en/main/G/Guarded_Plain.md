@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Talath Dirnen"
 ---
 
-Redirect to [Talath Dirnen](/wiki/Talath_Dirnen).
+Redirect to [Talath Dirnen](../T/Talath_Dirnen.md).

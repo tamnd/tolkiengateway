@@ -1,6 +1,5 @@
 ---
 title: "File:Hans-Jörg Modlmayr 7 December 1967 poscript.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hans-Jörg Modlmayr 7 December 1967 poscript.png</span>"
 page_id: 39310
 namespace: 6
 revision_id: 215031

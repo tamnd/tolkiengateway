@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf and the Finnsburg Fragment"
 ---
 
-Redirect to [Beowulf and the Finnsburg Fragment](/wiki/Beowulf_and_the_Finnsburg_Fragment).
+Redirect to [Beowulf and the Finnsburg Fragment](Beowulf_and_the_Finnsburg_Fragment.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éalá Éarendel Engla Beorhtast"
 ---
 
-Redirect to [Éalá Éarendel Engla Beorhtast](/wiki/Éalá_Éarendel_Engla_Beorhtast).
+Redirect to [Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md).

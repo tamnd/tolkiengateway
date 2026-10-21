@@ -1,6 +1,5 @@
 ---
 title: "File:William Kircher 2.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">William Kircher 2.jpeg</span>"
 page_id: 68898
 namespace: 6
 revision_id: 412491

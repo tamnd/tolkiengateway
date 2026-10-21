@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Year's Work in English Studies"
 ---
 
-Redirect to [The Year's Work in English Studies](/wiki/The_Year's_Work_in_English_Studies).
+Redirect to [The Year's Work in English Studies](../T/The_Year's_Work_in_English_Studies.md).

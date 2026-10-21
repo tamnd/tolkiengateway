@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien"
 ---
 
-Redirect to [Lúthien](/wiki/Lúthien).
+Redirect to [Lúthien](Lúthien.md).

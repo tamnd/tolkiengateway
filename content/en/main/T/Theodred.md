@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Théodred"
 ---
 
-Redirect to [Théodred](/wiki/Théodred).
+Redirect to [Théodred](Théodred.md).

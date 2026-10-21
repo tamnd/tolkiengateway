@@ -1,6 +1,5 @@
 ---
 title: "Norman Shelley"
-display_title: "<span class=\"mw-page-title-main\">Norman Shelley</span>"
 page_id: 19318
 namespace: 0
 revision_id: 156962
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Shelley, Norman"
 ---
 
-**Norman Shelley** ([February 16](/wiki/16_February "16 February"), [1903](/wiki/1903) – [August 22](/wiki/22_August "22 August"), [1980](/wiki/1980)) voiced the parts of [Gandalf](/wiki/Gandalf) and [Tom Bombadil](/wiki/Tom_Bombadil) in [a 1956 radio adaptation](</wiki/The_Lord_of_the_Rings_(1956_radio_series)> "The Lord of the Rings (1956 radio series)") of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*. In [Letter 175](/wiki/Letter_175), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) called the latter part "dreadful".
+**Norman Shelley** ([February 16](../_/16_February.md), [1903](../_/1903.md) – [August 22](../_/22_August.md), [1980](../_/1980.md)) voiced the parts of [Gandalf](../G/Gandalf.md) and [Tom Bombadil](../T/Tom_Bombadil.md) in [a 1956 radio adaptation](<../T/The_Lord_of_the_Rings_(1956_radio_series).md>) of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. In [Letter 175](../L/Letter_175.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) called the latter part "dreadful".
 
 ## External links {#External_links}
 

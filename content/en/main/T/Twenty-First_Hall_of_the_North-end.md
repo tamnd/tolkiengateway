@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twenty-first Hall"
 ---
 
-Redirect to [Twenty-first Hall](/wiki/Twenty-first_Hall).
+Redirect to [Twenty-first Hall](Twenty-first_Hall.md).

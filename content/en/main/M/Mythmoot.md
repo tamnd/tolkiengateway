@@ -1,6 +1,5 @@
 ---
 title: "Mythmoot"
-display_title: "<span class=\"mw-page-title-main\">Mythmoot</span>"
 page_id: 41959
 namespace: 0
 revision_id: 310003
@@ -13,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-**Mythmoot** is an annual conference held by the [Mythgard Institute](/wiki/Mythgard_Institute). The first Mythmoot, A Long-Anticipated Journey, was held on [15](/wiki/15_December "15 December")-[16 December](/wiki/16_December) [2012](/wiki/2012) in <a class="extiw" href="http://en.wikipedia.org/wiki/Hanover" title="wikipedia:Hanover">Hanover</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Maryland" title="wikipedia:Maryland">Maryland</a>. It consisted of a viewing of *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)* followed by a discussion of the film and a banquet.
+**Mythmoot** is an annual conference held by the [Mythgard Institute](Mythgard_Institute.md). The first Mythmoot, A Long-Anticipated Journey, was held on [15](../_/15_December.md)-[16 December](../_/16_December.md) [2012](../_/2012.md) in <a class="extiw" href="http://en.wikipedia.org/wiki/Hanover" title="wikipedia:Hanover">Hanover</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Maryland" title="wikipedia:Maryland">Maryland</a>. It consisted of a viewing of *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* followed by a discussion of the film and a banquet.
 
 ## External links {#External_links}
 

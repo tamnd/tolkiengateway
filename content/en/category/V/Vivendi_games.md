@@ -1,6 +1,5 @@
 ---
 title: "Category:Vivendi games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vivendi games</span>"
 page_id: 21781
 namespace: 14
 revision_id: 196052
@@ -13,4 +12,4 @@ categories:
   - "Video games by publisher"
 ---
 
-This category lists all **Vivendi games** related to [J.R.R. Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+This category lists all **Vivendi games** related to [J.R.R. Tolkien's](../../main/J/J.R.R._Tolkien.md) works.

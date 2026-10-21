@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Conquest - Sauron1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Conquest - Sauron1.png</span>"
 page_id: 38187
 namespace: 6
 revision_id: 185414

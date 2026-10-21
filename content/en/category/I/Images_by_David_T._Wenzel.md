@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by David T. Wenzel"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by David T. Wenzel</span>"
 page_id: 28644
 namespace: 14
 revision_id: 318072
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Wenzel, David T."
 ---
 
-This category lists all **images by [David T. Wenzel](/wiki/David_T._Wenzel)**.
+This category lists all **images by [David T. Wenzel](../../main/D/David_T._Wenzel.md)**.

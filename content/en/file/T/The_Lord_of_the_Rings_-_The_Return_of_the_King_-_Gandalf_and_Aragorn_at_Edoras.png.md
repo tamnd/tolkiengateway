@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Gandalf and Aragorn at Edoras.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Gandalf and Aragorn at Edoras.png</span>"
 page_id: 63330
 namespace: 6
 revision_id: 359425
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A still of [Aragorn](/wiki/Aragorn) and [Gandalf](/wiki/Gandalf) at [Edoras](/wiki/Edoras) in [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King).
+A still of [Aragorn](../../main/A/Aragorn.md) and [Gandalf](../../main/G/Gandalf.md) at [Edoras](../../main/E/Edoras.md) in [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md).
 
 ## Licensing {#Licensing}
 

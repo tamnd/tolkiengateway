@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Dwarven realms"
 ---
 
-Redirect to [Category:Dwarven realms](/wiki/Category:Dwarven_realms).
+Redirect to [Category:Dwarven realms](../../category/D/Dwarven_realms.md).

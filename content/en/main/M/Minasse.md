@@ -13,23 +13,23 @@ categories:
   - "Quenya nouns"
 ---
 
-**minasse** is a [Quenya](/wiki/Quenya) noun meaning "fort, city, with a citadel and central watch-tower"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**minasse** is a [Quenya](../Q/Quenya.md) noun meaning "fort, city, with a citadel and central watch-tower"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-It derives from [root](/wiki/Root "Root") <a class="new" href="/w/index.php?title=MIN&amp;action=edit&amp;redlink=1" title="MIN (page does not exist)">MIN</a> "one"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and contains the common ending <i><a class="new" href="/w/index.php?title=-asse&amp;action=edit&amp;redlink=1" title="-asse (page does not exist)">-asse</a></i>.
+It derives from [root](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MIN&amp;action=edit&amp;redlink=1" title="MIN (page does not exist)">MIN</a> "one"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and contains the common ending <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-asse&amp;action=edit&amp;redlink=1" title="-asse (page does not exist)">-asse</a></i>.
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *[minas](/wiki/Minas "Minas")*
+- [Sindarin](../S/Sindarin.md) *[minas](Minas.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001 p.24</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42"><i>Vinyar Tengwar</i>, Number 42</a>, July 2001 p.24</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34; p. 373</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34; p. 373</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yunquë"
 ---
 
-Redirect to [Yunquë](/wiki/Yunquë).
+Redirect to [Yunquë](Yunquë.md).

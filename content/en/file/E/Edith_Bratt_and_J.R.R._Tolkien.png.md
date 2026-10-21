@@ -1,6 +1,5 @@
 ---
 title: "File:Edith Bratt and J.R.R. Tolkien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edith Bratt and J.R.R. Tolkien.png</span>"
 page_id: 64421
 namespace: 6
 revision_id: 417245
@@ -26,11 +25,11 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) with [Edith Bratt](/wiki/Edith_Bratt) in a picture.
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) with [Edith Bratt](../../main/E/Edith_Bratt.md) in a picture.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color: var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>The copyright status of this file is <b>unknown</b>. This file will be deleted unless it is assigned a proper <a href="/wiki/Tolkien_Gateway:File_licensing_templates" title="Tolkien Gateway:File licensing templates">file licensing template</a>.
+<p>The copyright status of this file is <b>unknown</b>. This file will be deleted unless it is assigned a proper <a href="../../project/F/File_licensing_templates.md" title="Tolkien Gateway:File licensing templates">file licensing template</a>.
 </p>
 </div>

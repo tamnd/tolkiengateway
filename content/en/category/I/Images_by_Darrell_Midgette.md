@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Darrell Midgette"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Darrell Midgette</span>"
 page_id: 30701
 namespace: 14
 revision_id: 181969

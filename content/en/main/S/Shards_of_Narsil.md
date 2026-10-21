@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narsil"
 ---
 
-Redirect to [Narsil](/wiki/Narsil).
+Redirect to [Narsil](../N/Narsil.md).

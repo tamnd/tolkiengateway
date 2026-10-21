@@ -1,6 +1,5 @@
 ---
 title: "Foreyule"
-display_title: "<span class=\"mw-page-title-main\">Foreyule</span>"
 page_id: 2427
 namespace: 0
 revision_id: 429208
@@ -28,31 +27,31 @@ langlinks:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;">Months in the <a href="/wiki/Shire_Calendar" title="Shire Calendar">Shire Calendar</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;">Months in the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a>
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="/wiki/Afteryule" title="Afteryule">Afteryule</a> (January)</li>
-<li><a href="/wiki/Solmath" title="Solmath">Solmath</a> (February)</li>
-<li><a href="/wiki/Rethe" title="Rethe">Rethe</a> (March)</li>
-<li><a href="/wiki/Astron" title="Astron">Astron</a> (April)</li>
-<li><a href="/wiki/Thrimidge" title="Thrimidge">Thrimidge</a> (May)</li>
-<li><a href="/wiki/Forelithe" title="Forelithe">Forelithe</a> (June)</li>
-<li><a href="/wiki/Afterlithe" title="Afterlithe">Afterlithe</a> (July)</li>
-<li><a href="/wiki/Wedmath" title="Wedmath">Wedmath</a> (August)</li>
-<li><a href="/wiki/Halimath" title="Halimath">Halimath</a> (September)</li>
-<li><a href="/wiki/Winterfilth" title="Winterfilth">Winterfilth</a> (October)</li>
-<li><a href="/wiki/Blotmath" title="Blotmath">Blotmath</a> (November)</li>
+<ol><li><a href="../A/Afteryule.md" title="Afteryule">Afteryule</a> (January)</li>
+<li><a href="../S/Solmath.md" title="Solmath">Solmath</a> (February)</li>
+<li><a href="../R/Rethe.md" title="Rethe">Rethe</a> (March)</li>
+<li><a href="../A/Astron.md" title="Astron">Astron</a> (April)</li>
+<li><a href="../T/Thrimidge.md" title="Thrimidge">Thrimidge</a> (May)</li>
+<li><a href="Forelithe.md" title="Forelithe">Forelithe</a> (June)</li>
+<li><a href="../A/Afterlithe.md" title="Afterlithe">Afterlithe</a> (July)</li>
+<li><a href="../W/Wedmath.md" title="Wedmath">Wedmath</a> (August)</li>
+<li><a href="../H/Halimath.md" title="Halimath">Halimath</a> (September)</li>
+<li><a href="../W/Winterfilth.md" title="Winterfilth">Winterfilth</a> (October)</li>
+<li><a href="../B/Blotmath.md" title="Blotmath">Blotmath</a> (November)</li>
 <li><a class="mw-selflink selflink">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Foreyule** was the last month of the [Shire Calendar](/wiki/Shire_Calendar), thirty days immediately preceding the holiday of [Yule](/wiki/Yule), and approximately corresponding to modern [21 November](/wiki/21_November) through [20 December](/wiki/20_December). It was called [Yulemath](/wiki/Yulemath) in [Bree](/wiki/Bree) and the [Eastfarthing](/wiki/Eastfarthing).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Foreyule** was the last month of the [Shire Calendar](../S/Shire_Calendar.md), thirty days immediately preceding the holiday of [Yule](../Y/Yule.md), and approximately corresponding to modern [21 November](../_/21_November.md) through [20 December](../_/20_December.md). It was called [Yulemath](../Y/Yulemath.md) in [Bree](../B/Bree.md) and the [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;</span>
 </li>
 </ol></div>

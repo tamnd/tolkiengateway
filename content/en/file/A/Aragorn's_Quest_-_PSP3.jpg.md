@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - PSP3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - PSP3.jpg</span>"
 page_id: 29086
 namespace: 6
 revision_id: 282014
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) in [Minas Tirith](/wiki/Minas_Tirith) at the [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields). (PlayStation Portable screenshot.)
+[Aragorn](../../main/A/Aragorn.md) in [Minas Tirith](../../main/M/Minas_Tirith.md) at the [Battle of the Pelennor Fields](../../main/B/Battle_of_the_Pelennor_Fields.md). (PlayStation Portable screenshot.)
 
 ## Licensing {#Licensing}
 

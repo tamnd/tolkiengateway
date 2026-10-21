@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Girdley Island"
 ---
 
-Redirect to [Girdley Island](/wiki/Girdley_Island).
+Redirect to [Girdley Island](Girdley_Island.md).

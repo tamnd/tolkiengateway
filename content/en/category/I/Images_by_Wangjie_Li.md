@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Wangjie Li"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Wangjie Li</span>"
 page_id: 70841
 namespace: 14
 revision_id: 423170
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Li, Wangjie"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Wangjie_Li&amp;action=edit&amp;redlink=1" title="Wangjie Li (page does not exist)">Wangjie Li</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Wangjie_Li&amp;action=edit&amp;redlink=1" title="Wangjie Li (page does not exist)">Wangjie Li</a></b>.

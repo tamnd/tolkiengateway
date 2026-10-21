@@ -1,6 +1,5 @@
 ---
 title: "Olanda Fong-Surdenas"
-display_title: "<span class=\"mw-page-title-main\">Olanda Fong-Surdenas</span>"
 page_id: 13499
 namespace: 0
 revision_id: 384805
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Fong-Surdenas, Olanda"
 ---
 
-**Olanda Fong-Surdenas** is an artist who produces illustrations of scenes from [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")'s works.
+**Olanda Fong-Surdenas** is an artist who produces illustrations of scenes from [Tolkien](../J/J.R.R._Tolkien.md)'s works.
 
 ## See also {#See_also}
 
-- [Images by Olanda Fong-Surdenas](/wiki/Category:Images_by_Olanda_Fong-Surdenas "Category:Images by Olanda Fong-Surdenas")
+- [Images by Olanda Fong-Surdenas](../../category/I/Images_by_Olanda_Fong-Surdenas.md)
 
 ## Website {#Website}
 

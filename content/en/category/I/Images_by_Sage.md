@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Sage"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Sage</span>"
 page_id: 50291
 namespace: 14
 revision_id: 361003
@@ -19,4 +18,4 @@ sort_keys:
   "Maps by Gatekeepers": "Sage"
 ---
 
-This category lists all **images by [Sage](/wiki/User:Sage "User:Sage")**.
+This category lists all **images by [Sage](https://tolkiengateway.net/wiki/User:Sage)**.

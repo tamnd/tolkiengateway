@@ -11,4 +11,4 @@ redirect_target: "Ulmo"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Ulmo](/wiki/Ulmo#Etymology).
+Redirect to [Ulmo](../U/Ulmo.md#Etymology).

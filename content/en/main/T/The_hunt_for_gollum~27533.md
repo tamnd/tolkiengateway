@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hunt for Gollum"
 ---
 
-Redirect to [The Hunt for Gollum](/wiki/The_Hunt_for_Gollum).
+Redirect to [The Hunt for Gollum](The_Hunt_for_Gollum.md).

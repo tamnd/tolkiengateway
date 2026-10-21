@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Axel Sauerwald"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Axel Sauerwald</span>"
 page_id: 72818
 namespace: 14
 revision_id: 431462
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Sauerwald, Axel"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Axel_Sauerwald&amp;action=edit&amp;redlink=1" title="Axel Sauerwald (page does not exist)">Axel Sauerwald</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Axel_Sauerwald&amp;action=edit&amp;redlink=1" title="Axel Sauerwald (page does not exist)">Axel Sauerwald</a></b>.

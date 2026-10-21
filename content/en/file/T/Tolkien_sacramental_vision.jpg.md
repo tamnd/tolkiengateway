@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien sacramental vision.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien sacramental vision.jpg</span>"
 page_id: 50445
 namespace: 6
 revision_id: 271853

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Îbal"
 ---
 
-Redirect to [Îbal](/wiki/Îbal).
+Redirect to [Îbal](../_/Îbal.md).

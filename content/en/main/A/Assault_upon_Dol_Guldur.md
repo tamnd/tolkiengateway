@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Attack on Dol Guldur"
 ---
 
-Redirect to [Attack on Dol Guldur](/wiki/Attack_on_Dol_Guldur).
+Redirect to [Attack on Dol Guldur](Attack_on_Dol_Guldur.md).

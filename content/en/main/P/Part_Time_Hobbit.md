@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jess of the Shire"
 ---
 
-Redirect to [Jess of the Shire](/wiki/Jess_of_the_Shire).
+Redirect to [Jess of the Shire](../J/Jess_of_the_Shire.md).

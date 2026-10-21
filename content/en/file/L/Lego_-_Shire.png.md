@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Shire.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Shire.png</span>"
 page_id: 73136
 namespace: 6
 revision_id: 432950
@@ -31,19 +30,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Lego - Shire.png</span></th>
 <td class="description">
-<p>Lego <a class="mw-redirect" href="/wiki/Shire" title="Shire">Shire</a> set.
+<p>Lego <a class="mw-redirect" href="../../main/S/Shire.md" title="Shire">Shire</a> set.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/product/the-lord-of-the-rings-the-shire-10354" rel="noreferrer noopener" target="_blank">https://www.lego.com/product/the-lord-of-the-rings-the-shire-10354</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

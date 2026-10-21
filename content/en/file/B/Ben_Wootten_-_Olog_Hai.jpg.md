@@ -1,6 +1,5 @@
 ---
 title: "File:Ben Wootten - Olog Hai.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ben Wootten - Olog Hai.jpg</span>"
 page_id: 22751
 namespace: 6
 revision_id: 206840

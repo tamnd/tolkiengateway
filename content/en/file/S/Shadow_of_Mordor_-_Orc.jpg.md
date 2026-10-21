@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Orc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Orc.jpg</span>"
 page_id: 56373
 namespace: 6
 revision_id: 307615

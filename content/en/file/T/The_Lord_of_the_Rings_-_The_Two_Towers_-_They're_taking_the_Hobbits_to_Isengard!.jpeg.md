@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - They're taking the Hobbits to Isengard!.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - They&#039;re taking the Hobbits to Isengard!.jpeg</span>"
 page_id: 71455
 namespace: 6
 revision_id: 427528
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Legolas](/wiki/Legolas) spots [Uruk-hai](/wiki/Uruk-hai) taking [Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") and [Pippin](/wiki/Peregrin_Took "Peregrin Took") to [Isengard](/wiki/Isengard) - *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*
+[Legolas](../../main/L/Legolas.md) spots [Uruk-hai](../../main/U/Uruk-hai.md) taking [Merry](../../main/M/Meriadoc_Brandybuck.md) and [Pippin](../../main/P/Peregrin_Took.md) to [Isengard](../../main/I/Isengard.md) - *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 
 ## Licensing {#Licensing}
 

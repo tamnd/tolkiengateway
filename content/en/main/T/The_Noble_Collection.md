@@ -1,6 +1,5 @@
 ---
 title: "The Noble Collection"
-display_title: "<span class=\"mw-page-title-main\">The Noble Collection</span>"
 page_id: 12499
 namespace: 0
 revision_id: 248329
@@ -14,11 +13,11 @@ categories:
   - "American businesses"
 ---
 
-**The Noble Collection** has produced numerous high-quality *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* related collectibles.
+**The Noble Collection** has produced numerous high-quality *[The Lord of the Rings](The_Lord_of_the_Rings.md)* related collectibles.
 
 ## See also {#See_also}
 
-- [The Noble Collection collectibles](/wiki/Category:Images_of_Noble_Collection_collectibles "Category:Images of Noble Collection collectibles")
+- [The Noble Collection collectibles](../../category/I/Images_of_Noble_Collection_collectibles.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bindbole Wood"
 ---
 
-Redirect to [Bindbole Wood](/wiki/Bindbole_Wood).
+Redirect to [Bindbole Wood](Bindbole_Wood.md).

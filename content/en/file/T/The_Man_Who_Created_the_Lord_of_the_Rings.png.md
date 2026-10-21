@@ -1,6 +1,5 @@
 ---
 title: "File:The Man Who Created the Lord of the Rings.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Man Who Created the Lord of the Rings.png</span>"
 page_id: 36316
 namespace: 6
 revision_id: 214671

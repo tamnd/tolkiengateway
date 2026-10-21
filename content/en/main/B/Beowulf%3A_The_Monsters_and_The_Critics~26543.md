@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beowulf: The Monsters and the Critics"
 ---
 
-Redirect to [Beowulf: The Monsters and the Critics](/wiki/Beowulf:_The_Monsters_and_the_Critics).
+Redirect to [Beowulf: The Monsters and the Critics](Beowulf%253A_The_Monsters_and_the_Critics.md).

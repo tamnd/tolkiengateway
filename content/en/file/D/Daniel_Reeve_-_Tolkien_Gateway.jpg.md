@@ -1,6 +1,5 @@
 ---
 title: "File:Daniel Reeve - Tolkien Gateway.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daniel Reeve - Tolkien Gateway.jpg</span>"
 page_id: 69077
 namespace: 6
 revision_id: 412507
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Calligraphy of "Tolkien Gateway" by [Daniel Reeve](/wiki/Daniel_Reeve) on [November 9](/wiki/November_9), [2024](/wiki/2024) in [Wellington](/wiki/Wellington), [New Zealand](/wiki/New_Zealand).
+Calligraphy of "Tolkien Gateway" by [Daniel Reeve](../../main/D/Daniel_Reeve.md) on [November 9](../../main/N/November_9.md), [2024](../../main/_/2024.md) in [Wellington](../../main/W/Wellington.md), [New Zealand](../../main/N/New_Zealand.md).
 
 ## Licensing {#Licensing}
 

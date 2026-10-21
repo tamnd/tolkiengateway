@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fifteen birds in five fir-trees"
 ---
 
-Redirect to [Fifteen birds in five fir-trees](/wiki/Fifteen_birds_in_five_fir-trees).
+Redirect to [Fifteen birds in five fir-trees](Fifteen_birds_in_five_fir-trees.md).

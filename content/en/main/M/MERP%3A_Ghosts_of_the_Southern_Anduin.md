@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghosts of the Southern Anduin"
 ---
 
-Redirect to [Ghosts of the Southern Anduin](/wiki/Ghosts_of_the_Southern_Anduin).
+Redirect to [Ghosts of the Southern Anduin](../G/Ghosts_of_the_Southern_Anduin.md).

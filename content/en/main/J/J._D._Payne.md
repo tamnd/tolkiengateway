@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "John D. Payne"
 ---
 
-Redirect to [John D. Payne](/wiki/John_D._Payne).
+Redirect to [John D. Payne](John_D._Payne.md).

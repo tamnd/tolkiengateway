@@ -1,6 +1,5 @@
 ---
 title: "Peter Emshwiller"
-display_title: "<span class=\"mw-page-title-main\">Peter Emshwiller</span>"
 page_id: 19250
 namespace: 0
 revision_id: 115811
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Emshwiller, Peter"
 ---
 
-**Peter "Stoney" Emshwiller** ([1959](/wiki/1959)) is an American actor.
+**Peter "Stoney" Emshwiller** ([1959](../_/1959.md)) is an American actor.
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: [Thranduil](/wiki/Thranduil), Axe Thrower Dwarf, Demolisher Dwarf
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Thranduil](../T/Thranduil.md), Axe Thrower Dwarf, Demolisher Dwarf
 
 ## External links {#External_links}
 

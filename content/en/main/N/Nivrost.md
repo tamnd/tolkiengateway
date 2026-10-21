@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nevrast"
 ---
 
-Redirect to [Nevrast](/wiki/Nevrast).
+Redirect to [Nevrast](Nevrast.md).

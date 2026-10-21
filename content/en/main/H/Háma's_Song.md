@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hama's Song"
 ---
 
-Redirect to [Hama's Song](/wiki/Hama's_Song).
+Redirect to [Hama's Song](Hama's_Song.md).

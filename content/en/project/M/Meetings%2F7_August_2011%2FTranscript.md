@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/7 August 2011/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/7 August 2011/Transcript</span>"
 page_id: 35647
 namespace: 4
 revision_id: 202039

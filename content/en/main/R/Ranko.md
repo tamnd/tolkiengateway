@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "RAK"
 ---
 
-Redirect to [RAK](/wiki/RAK).
+Redirect to [RAK](RAK.md).

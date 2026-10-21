@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Mailing lists"
 ---
 
-Redirect to [Category:Mailing lists](/wiki/Category:Mailing_lists).
+Redirect to [Category:Mailing lists](../../category/M/Mailing_lists.md).

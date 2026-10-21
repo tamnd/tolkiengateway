@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRSBG The Scouring of the Shire.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRSBG The Scouring of the Shire.png</span>"
 page_id: 36134
 namespace: 6
 revision_id: 433581

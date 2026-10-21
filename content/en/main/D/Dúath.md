@@ -15,8 +15,8 @@ sort_keys:
   "Sindarin nouns": "Duath"
 ---
 
-**dúath**, sometimes written **dúwath**, is a [Sindarin](/wiki/Sindarin) word meaning *darkness*, *shadow*, or *nightshade*. It is either the collective plural of *[dû](/wiki/D%C3%BB "Dû")* or a compound of *dû* and *[gwath](/wiki/Gwath "Gwath")* (hence *dúwath*).
+**dúath**, sometimes written **dúwath**, is a [Sindarin](../S/Sindarin.md) word meaning *darkness*, *shadow*, or *nightshade*. It is either the collective plural of *[dû](Dû.md)* or a compound of *dû* and *[gwath](../G/Gwath.md)* (hence *dúwath*).
 
 ## Examples and Instances {#Examples_and_Instances}
 
-- *[Ephel Dúath](/wiki/Ephel_D%C3%BAath)*
+- *[Ephel Dúath](../E/Ephel_Dúath.md)*

@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Before the Shadow logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Before the Shadow logo.png</span>"
 page_id: 63624
 namespace: 6
 revision_id: 362487
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Before the Shadow](/wiki/The_Lord_of_the_Rings_Online:_Before_the_Shadow)*.
+Logo for *[The Lord of the Rings Online: Before the Shadow](../../main/T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md)*.
 
 ## Licensing {#Licensing}
 

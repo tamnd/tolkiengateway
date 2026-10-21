@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fredegar Bolger"
 ---
 
-Redirect to [Fredegar Bolger](/wiki/Fredegar_Bolger).
+Redirect to [Fredegar Bolger](Fredegar_Bolger.md).

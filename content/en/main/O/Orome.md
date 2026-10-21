@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oromë"
 ---
 
-Redirect to [Oromë](/wiki/Oromë).
+Redirect to [Oromë](Oromë.md).

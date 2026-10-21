@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MIR"
 ---
 
-Redirect to [MIR](/wiki/MIR).
+Redirect to [MIR](MIR~30959.md).

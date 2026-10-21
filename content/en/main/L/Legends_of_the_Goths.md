@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Goths"
 ---
 
-Redirect to [The Goths](/wiki/The_Goths).
+Redirect to [The Goths](../T/The_Goths.md).

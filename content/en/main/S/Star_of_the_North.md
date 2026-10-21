@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Star of Elendil"
 ---
 
-Redirect to [Star of Elendil](/wiki/Star_of_Elendil).
+Redirect to [Star of Elendil](Star_of_Elendil.md).

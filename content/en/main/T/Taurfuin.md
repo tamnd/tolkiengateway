@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-nu-Fuin (Dorthonion)"
 ---
 
-Redirect to [Taur-nu-Fuin (Dorthonion)](/wiki/Taur-nu-Fuin_(Dorthonion)).
+Redirect to [Taur-nu-Fuin (Dorthonion)](<Taur-nu-Fuin_(Dorthonion).md>).

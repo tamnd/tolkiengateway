@@ -14,15 +14,15 @@ categories:
   - "Publications by title"
 ---
 
-**Parma Nölé** is the journal of the [North East Tolkien Society](/wiki/North_East_Tolkien_Society). The publication is released in four to six issues per year. The journal is included with a membership to the Society, which costs $30.00 USD a year.
+**Parma Nölé** is the journal of the [North East Tolkien Society](../N/North_East_Tolkien_Society.md). The publication is released in four to six issues per year. The journal is included with a membership to the Society, which costs $30.00 USD a year.
 
 ## Etymology {#Etymology}
 
-The name seems to be composed of the [Quenya](/wiki/Quenya) words *[parma](/wiki/Parma "Parma")* ("book, writing, composition, written document of some size") and <i><a class="external text" href="https://eldamo.org/content/words/word-615208449.html" rel="noreferrer noopener" target="_blank">nólë</a></i> ("lore, knowledge, long study"), although the latter with its diacritics reversed.
+The name seems to be composed of the [Quenya](../Q/Quenya.md) words *[parma](Parma.md)* ("book, writing, composition, written document of some size") and <i><a class="external text" href="https://eldamo.org/content/words/word-615208449.html" rel="noreferrer noopener" target="_blank">nólë</a></i> ("lore, knowledge, long study"), although the latter with its diacritics reversed.
 
 ## See also {#See_also}
 
-- [Parma Nölé issues](/wiki/Category:Parma_N%C3%B6l%C3%A9 "Category:Parma Nölé")
+- [Parma Nölé issues](../../category/P/Parma_Nölé.md)
 
 ## External links {#External_links}
 

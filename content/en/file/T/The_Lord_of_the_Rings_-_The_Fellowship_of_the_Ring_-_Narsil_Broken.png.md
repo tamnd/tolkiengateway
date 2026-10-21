@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Narsil Broken.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Narsil Broken.png</span>"
 page_id: 64173
 namespace: 6
 revision_id: 367004
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)> "The Lord of the Rings: The Fellowship of the Ring (extended edition)")*, "[The Sword that Was Broken](/wiki/The_Sword_that_Was_Broken)".
+A still from the scene *[The Fellowship of the Ring](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>)*, "[The Sword that Was Broken](../../main/T/The_Sword_that_Was_Broken.md)".
 
 ## Licensing {#Licensing}
 

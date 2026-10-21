@@ -1,6 +1,5 @@
 ---
 title: "File:Ex philologia lux.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ex philologia lux.jpg</span>"
 page_id: 48226
 namespace: 6
 revision_id: 257357

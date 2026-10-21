@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Berelach"
 ---
 
-Redirect to [Berelach](/wiki/Berelach).
+Redirect to [Berelach](Berelach.md).

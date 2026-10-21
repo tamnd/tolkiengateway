@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exiles of Gondolin"
 ---
 
-Redirect to [Exiles of Gondolin](/wiki/Exiles_of_Gondolin).
+Redirect to [Exiles of Gondolin](../E/Exiles_of_Gondolin.md).

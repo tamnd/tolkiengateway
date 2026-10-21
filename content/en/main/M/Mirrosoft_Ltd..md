@@ -1,6 +1,5 @@
 ---
 title: "Mirrosoft Ltd."
-display_title: "<span class=\"mw-page-title-main\">Mirrosoft Ltd.</span>"
 page_id: 27570
 namespace: 0
 revision_id: 190121
@@ -14,7 +13,7 @@ categories:
   - "Video Game developers"
 ---
 
-**Mirrosoft Ltd.** was a software and video games company responsible for developing *[Riders of Rohan](</wiki/Riders_of_Rohan_(video_game)> "Riders of Rohan (video game)")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> They were bought by <a class="extiw" href="http://en.wikipedia.org/wiki/Acclaim_Entertainment" title="wikipedia:Acclaim Entertainment">Acclaim Entertainment</a> in [1992](/wiki/1992).
+**Mirrosoft Ltd.** was a software and video games company responsible for developing *[Riders of Rohan](<../R/Riders_of_Rohan_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> They were bought by <a class="extiw" href="http://en.wikipedia.org/wiki/Acclaim_Entertainment" title="wikipedia:Acclaim Entertainment">Acclaim Entertainment</a> in [1992](../_/1992.md).
 
 <span></span>
 

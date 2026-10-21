@@ -1,6 +1,5 @@
 ---
 title: "File:Mythlore 34.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythlore 34.jpg</span>"
 page_id: 56710
 namespace: 6
 revision_id: 309416
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Mythlore 34](/wiki/Mythlore_34)*.
+Cover of *[Mythlore 34](../../main/M/Mythlore_34.md)*.
 
 ## Licensing {#Licensing}
 

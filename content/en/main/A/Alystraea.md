@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Alystraea"
 ---
 
-Redirect to [Category:Images by Alystraea](/wiki/Category:Images_by_Alystraea).
+Redirect to [Category:Images by Alystraea](../../category/I/Images_by_Alystraea.md).

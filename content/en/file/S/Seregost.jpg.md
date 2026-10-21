@@ -1,6 +1,5 @@
 ---
 title: "File:Seregost.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Seregost.jpg</span>"
 page_id: 22799
 namespace: 6
 revision_id: 432690
@@ -26,25 +25,20 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Seregost.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Seregost" title="Seregost">Seregost</a> as depicted on <a href="/wiki/Thelandofshadow.com" title="Thelandofshadow.com">Thelandofshadow.com</a>.
+<p><a href="../../main/S/Seregost.md" title="Seregost">Seregost</a> as depicted on <a href="../../main/T/Thelandofshadow.com.md" title="Thelandofshadow.com">Thelandofshadow.com</a>.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20170719170553/http://www.thelandofshadow.com/4mordorswf/seregost.swf" rel="noreferrer noopener" target="_blank">&#34;Seregost&#34;</a>, archived from the <a class="external text" href="http://www.thelandofshadow.com/4mordorswf/seregost.swf" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website"><a href="/wiki/Thelandofshadow.com" title="Thelandofshadow.com">Thelandofshadow.com</a></span></cite></td>
+<td><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20170719170553/http://www.thelandofshadow.com/4mordorswf/seregost.swf" rel="noreferrer noopener" target="_blank">&#34;Seregost&#34;</a>, archived from the <a class="external text" href="http://www.thelandofshadow.com/4mordorswf/seregost.swf" rel="noreferrer noopener" target="_blank">original</a></span>. <span class="cite-web-website"><a href="../../main/T/Thelandofshadow.com.md" title="Thelandofshadow.com">Thelandofshadow.com</a></span></cite></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Thelandofshadow.com" title="Thelandofshadow.com">Thelandofshadow.com</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/T/Thelandofshadow.com.md" title="Thelandofshadow.com">Thelandofshadow.com</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

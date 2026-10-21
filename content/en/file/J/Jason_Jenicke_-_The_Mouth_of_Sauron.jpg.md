@@ -1,6 +1,5 @@
 ---
 title: "File:Jason Jenicke - The Mouth of Sauron.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jason Jenicke - The Mouth of Sauron.jpg</span>"
 page_id: 72173
 namespace: 6
 revision_id: 429136
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Mouth of Sauron](/wiki/Mouth_of_Sauron "Mouth of Sauron")" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *Mountain of Fire* illustration by Jason Jenicke
+"[The Mouth of Sauron](../../main/M/Mouth_of_Sauron.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *Mountain of Fire* illustration by Jason Jenicke
 
 ## Licensing {#Licensing}
 

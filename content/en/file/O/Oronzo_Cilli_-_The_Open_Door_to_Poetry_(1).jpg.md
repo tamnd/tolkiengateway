@@ -1,6 +1,5 @@
 ---
 title: "File:Oronzo Cilli - The Open Door to Poetry (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oronzo Cilli - The Open Door to Poetry (1).jpg</span>"
 page_id: 43026
 namespace: 6
 revision_id: 260302
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Oronzo Cilli</li>
 <li><b>Website:</b> <a class="external text" href="http://tolkieniano.blogspot.it/2013/01/goblin-feet-di-tolkien-in-open-door-to.html" rel="noreferrer noopener" target="_blank">Source</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Oronzo_Cilli" title="Tolkien Gateway:Copyrights/Oronzo Cilli">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOronzo_Cilli.md" title="Tolkien Gateway:Copyrights/Oronzo Cilli">Permission for use on Tolkien Gateway</a></b></li></ul></div>

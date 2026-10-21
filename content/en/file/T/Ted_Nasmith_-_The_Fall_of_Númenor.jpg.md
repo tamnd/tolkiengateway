@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - The Ships of the Faithful II.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - The Ships of the Faithful II.jpg](/wiki/File:Ted_Nasmith_-_The_Ships_of_the_Faithful_II.jpg).
+Redirect to [File:Ted Nasmith - The Ships of the Faithful II.jpg](Ted_Nasmith_-_The_Ships_of_the_Faithful_II.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Arwen's Choice.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Arwen's Choice.jpg](/wiki/File:Ted_Nasmith_-_Arwen's_Choice.jpg).
+Redirect to [File:Ted Nasmith - Arwen's Choice.jpg](Ted_Nasmith_-_Arwen's_Choice.jpg.md).

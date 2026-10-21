@@ -1,6 +1,5 @@
 ---
 title: "Ruth Lacon"
-display_title: "<span class=\"mw-page-title-main\">Ruth Lacon</span>"
 page_id: 14833
 namespace: 0
 revision_id: 418798
@@ -23,75 +22,75 @@ images:
   - "Ruth_Lacon.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Ruth_Lacon.jpg"><img src="/w/images/thumb/e/e8/Ruth_Lacon.jpg/300px-Ruth_Lacon.jpg" decoding="async" loading="lazy" width="300" height="386" class="mw-file-element" srcset="/w/images/thumb/e/e8/Ruth_Lacon.jpg/450px-Ruth_Lacon.jpg 1.5x, /w/images/thumb/e/e8/Ruth_Lacon.jpg/600px-Ruth_Lacon.jpg 2x" data-file-width="733" data-file-height="943"/></a><figcaption>Ruth Lacon at <a href="/wiki/Oxonmoot_2002" title="Oxonmoot 2002">Oxonmoot 2002</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ruth_Lacon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/300px-Ruth_Lacon.jpg" decoding="async" loading="lazy" width="300" height="386" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/450px-Ruth_Lacon.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/Ruth_Lacon.jpg/600px-Ruth_Lacon.jpg 2x" data-file-width="733" data-file-height="943"/></a><figcaption>Ruth Lacon at <a href="../O/Oxonmoot_2002.md" title="Oxonmoot 2002">Oxonmoot 2002</a></figcaption></figure>
 
-**Ruth Lacon** ([1967](/wiki/1967)), who also uses the pseudonym **Elizabeth Currie**, has created numerous [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-inspired illustrations and, together with [Alex Lewis](/wiki/Alex_Lewis), has published several books and articles on Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She has been a member of [The Tolkien Society](/wiki/The_Tolkien_Society) since the mid-1980s.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ruth Lacon** ([1967](../_/1967.md)), who also uses the pseudonym **Elizabeth Currie**, has created numerous [Tolkien](../J/J.R.R._Tolkien.md)-inspired illustrations and, together with [Alex Lewis](../A/Alex_Lewis.md), has published several books and articles on Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> She has been a member of [The Tolkien Society](../T/The_Tolkien_Society.md) since the mid-1980s.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1987](/wiki/1987): *[The Tale of Gondolin](/wiki/The_Tale_of_Gondolin)* (as illustrator)
-- [2002](/wiki/2002): *[The Uncharted Realms of Tolkien](/wiki/The_Uncharted_Realms_of_Tolkien)* (author as Elizabeth Currie, illustrator as Ruth Lacon, with [Alex Lewis](/wiki/Alex_Lewis))
-- [2005](/wiki/2005): *[The Ruins of Osgiliath](/wiki/The_Ruins_of_Osgiliath)* (as illustrator)
-- [2005](/wiki/2005): *[The Forsaken Realm of Tolkien](/wiki/The_Forsaken_Realm_of_Tolkien)* (as Elizabeth Currie, illustrator as Ruth Lacon, with [Alex Lewis](/wiki/Alex_Lewis))
-- [2005](/wiki/2005): *[The Art of Ruth Lacon: Illustrations inspired by the works of J.R.R. Tolkien](/wiki/The_Art_of_Ruth_Lacon "The Art of Ruth Lacon")* (as author and illustrator)
-- [2009](/wiki/2009): *[The Epic Realm of Tolkien, Part One - Beren and Lúthien](/wiki/The_Epic_Realm_of_Tolkien "The Epic Realm of Tolkien")* (as Elizabeth Currie, with [Alex Lewis](/wiki/Alex_Lewis))
-- [2015](/wiki/2015): *[J.R.R. Tolkien: Codemaker, Spy-Master, Hero](/wiki/J.R.R._Tolkien:_Codemaker,_Spy-Master,_Hero)* (consultant editor with [Alex Lewis](/wiki/Alex_Lewis))
-- [2019](/wiki/2019): *[Tolkien's Switzerland: A Biography of One Special Summer](/wiki/Tolkien%27s_Switzerland:_A_Biography_of_One_Special_Summer)* (with [Alexander Lewis](/wiki/Alex_Lewis "Alex Lewis"))
+- [1987](../_/1987.md): *[The Tale of Gondolin](../T/The_Tale_of_Gondolin.md)* (as illustrator)
+- [2002](../_/2002.md): *[The Uncharted Realms of Tolkien](../T/The_Uncharted_Realms_of_Tolkien.md)* (author as Elizabeth Currie, illustrator as Ruth Lacon, with [Alex Lewis](../A/Alex_Lewis.md))
+- [2005](../_/2005.md): *[The Ruins of Osgiliath](../T/The_Ruins_of_Osgiliath.md)* (as illustrator)
+- [2005](../_/2005.md): *[The Forsaken Realm of Tolkien](../T/The_Forsaken_Realm_of_Tolkien.md)* (as Elizabeth Currie, illustrator as Ruth Lacon, with [Alex Lewis](../A/Alex_Lewis.md))
+- [2005](../_/2005.md): *[The Art of Ruth Lacon: Illustrations inspired by the works of J.R.R. Tolkien](../T/The_Art_of_Ruth_Lacon.md)* (as author and illustrator)
+- [2009](../_/2009.md): *[The Epic Realm of Tolkien, Part One - Beren and Lúthien](../T/The_Epic_Realm_of_Tolkien.md)* (as Elizabeth Currie, with [Alex Lewis](../A/Alex_Lewis.md))
+- [2015](../_/2015.md): *[J.R.R. Tolkien: Codemaker, Spy-Master, Hero](../J/J.R.R._Tolkien%253A_Codemaker,_Spy-Master,_Hero.md)* (consultant editor with [Alex Lewis](../A/Alex_Lewis.md))
+- [2019](../_/2019.md): *[Tolkien's Switzerland: A Biography of One Special Summer](../T/Tolkien's_Switzerland%253A_A_Biography_of_One_Special_Summer.md)* (with [Alexander Lewis](../A/Alex_Lewis.md))
 
 ### Articles {#Articles}
 
-- [1990](/wiki/1990): [*Amon Hen* 105](/wiki/Amon_Hen_105 "Amon Hen 105")
+- [1990](../_/1990.md): [*Amon Hen* 105](../A/Amon_Hen_105.md)
     - "Of Mallorn &amp; Mithril"
-- [1992](/wiki/1992): [*Amon Hen* 118](/wiki/Amon_Hen_118 "Amon Hen 118")
+- [1992](../_/1992.md): [*Amon Hen* 118](../A/Amon_Hen_118.md)
     - "Overlooked Empires"
-- [1993](/wiki/1993): [*Mallorn* 30](/wiki/Mallorn_30 "Mallorn 30")
+- [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
     - "The Earliest Days of Gondor"
-- [1994](/wiki/1994): [*Mallorn* 31](/wiki/Mallorn_31 "Mallorn 31")
+- [1994](../_/1994.md): [*Mallorn* 31](../M/Mallorn_31.md)
     - "The Economy and Economic History of Gondor"
-- [1995](/wiki/1995): [*Amon Hen* 134](/wiki/Amon_Hen_134 "Amon Hen 134")
+- [1995](../_/1995.md): [*Amon Hen* 134](../A/Amon_Hen_134.md)
     - "In Response to Mr Webster"
-- [1995](/wiki/1995): [*Amon Hen* 135](/wiki/Amon_Hen_135 "Amon Hen 135")
+- [1995](../_/1995.md): [*Amon Hen* 135](../A/Amon_Hen_135.md)
     - "Tolkien's Star &amp; Tolkien's Heirs"
-- [1995](/wiki/1995): [*Mallorn* 32](/wiki/Mallorn_32 "Mallorn 32")
+- [1995](../_/1995.md): [*Mallorn* 32](../M/Mallorn_32.md)
     - "Notes Toward a History of the Easterlings"
-- [1996](/wiki/1996): *[Travel and Communication in Tolkien's Worlds](/wiki/Travel_and_Communication_in_Tolkien%27s_Worlds)*
+- [1996](../_/1996.md): *[Travel and Communication in Tolkien's Worlds](../T/Travel_and_Communication_in_Tolkien's_Worlds.md)*
     - "First Catch Your Oliphaunt: A rambling look at the natural and unnatural history of elephants"
-- [1997](/wiki/1997): [*Amon Hen* 144](/wiki/Amon_Hen_144 "Amon Hen 144")
+- [1997](../_/1997.md): [*Amon Hen* 144](../A/Amon_Hen_144.md)
     - "Armenelos and Nineveh"
-- [1998](/wiki/1998): [*Amon Hen* 149](/wiki/Amon_Hen_149 "Amon Hen 149")
+- [1998](../_/1998.md): [*Amon Hen* 149](../A/Amon_Hen_149.md)
     - "Of Cauldrons and Calderas"
-- [1998](/wiki/1998): [*Amon Hen* 153](/wiki/Amon_Hen_153 "Amon Hen 153")
+- [1998](../_/1998.md): [*Amon Hen* 153](../A/Amon_Hen_153.md)
     - "Tolkien's Ravens"
-- [1998](/wiki/1998): [*Mallorn* 36](/wiki/Mallorn_36 "Mallorn 36")
+- [1998](../_/1998.md): [*Mallorn* 36](../M/Mallorn_36.md)
     - "There Are Two People In This Marriage"
-- [1999](/wiki/1999): [*Mallorn* 37](/wiki/Mallorn_37 "Mallorn 37")
+- [1999](../_/1999.md): [*Mallorn* 37](../M/Mallorn_37.md)
     - "The Invisible Shire"
-- [2011](/wiki/2011): [*Amon Hen* 228](/wiki/Amon_Hen_228 "Amon Hen 228")
+- [2011](../_/2011.md): [*Amon Hen* 228](../A/Amon_Hen_228.md)
     - "Review: *The 2011 Tolkien Calendar*"
-- [2011](/wiki/2011): *[Lembas Extra](</wiki/Lembas_(journal)> "Lembas (journal)")*
+- [2011](../_/2011.md): *[Lembas Extra](<../L/Lembas_(journal).md>)*
     - "The Art of Ruth Lacon"
-- [2012](/wiki/2012): [*Amon Hen* 234](/wiki/Amon_Hen_234 "Amon Hen 234")
+- [2012](../_/2012.md): [*Amon Hen* 234](../A/Amon_Hen_234.md)
     - "Review: *The 2012 Tolkien Calendar*"
-- [2013](/wiki/2013): [*Mallorn* 54](/wiki/Mallorn_54 "Mallorn 54")
-    - "A journey to the cinema" (review of *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*)
-- [2014](/wiki/2014): [*Amon Hen* 248](/wiki/Amon_Hen_248 "Amon Hen 248")
+- [2013](../_/2013.md): [*Mallorn* 54](../M/Mallorn_54.md)
+    - "A journey to the cinema" (review of *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*)
+- [2014](../_/2014.md): [*Amon Hen* 248](../A/Amon_Hen_248.md)
     - "Review: *The Hobbit - An Art Book by Octo*"
-- [2020](/wiki/2020): [*Mallorn* 61](/wiki/Mallorn_61 "Mallorn 61")
+- [2020](../_/2020.md): [*Mallorn* 61](../M/Mallorn_61.md)
     - "Tolkien's *Fantasy Landscape*" (as Elizabeth Currie, with Nancy Bunting)
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/1026_To_Illustrate_or_Not_to_Illustrate.php" rel="noreferrer noopener" target="_blank">To Illustrate or Not to Illustrate? That is the Question... - an essay by Ruth Lacon</a> at [Tolkien Library](/wiki/Tolkien_Library)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/1026_To_Illustrate_or_Not_to_Illustrate.php" rel="noreferrer noopener" target="_blank">To Illustrate or Not to Illustrate? That is the Question... - an essay by Ruth Lacon</a> at [Tolkien Library](../T/Tolkien_Library.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">See &#34;Letters&#34; [to, and with response from, Len Sanford]&#34; in <a href="/wiki/Mallorn_44" title="Mallorn 44"><i>Mallorn</i> 44</a>, and &#34;Editorial&#34; in <a href="/wiki/Amon_Hen_198" title="Amon Hen 198"><i>Amon Hen</i> 198</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">See &#34;Letters&#34; [to, and with response from, Len Sanford]&#34; in <a href="../M/Mallorn_44.md" title="Mallorn 44"><i>Mallorn</i> 44</a>, and &#34;Editorial&#34; in <a href="../A/Amon_Hen_198.md" title="Amon Hen 198"><i>Amon Hen</i> 198</a>.</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_Uncharted_Realms_of_Tolkien" title="The Uncharted Realms of Tolkien">The Uncharted Realms of Tolkien</a></i>, p. 3</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../T/The_Uncharted_Realms_of_Tolkien.md" title="The Uncharted Realms of Tolkien">The Uncharted Realms of Tolkien</a></i>, p. 3</span>
 </li>
 </ol></div>

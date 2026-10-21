@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pán prsteňov"
 ---
 
-Redirect to [Pán prsteňov](/wiki/Pán_prsteňov).
+Redirect to [Pán prsteňov](../P/Pán_prsteňov.md).

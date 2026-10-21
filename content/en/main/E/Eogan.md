@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éogan"
 ---
 
-Redirect to [Éogan](/wiki/Éogan).
+Redirect to [Éogan](../_/Éogan.md).

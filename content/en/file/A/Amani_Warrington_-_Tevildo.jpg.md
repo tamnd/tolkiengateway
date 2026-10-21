@@ -1,6 +1,5 @@
 ---
 title: "File:Amani Warrington - Tevildo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amani Warrington - Tevildo.jpg</span>"
 page_id: 57598
 namespace: 6
 revision_id: 318921
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Amani Warrington</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/amaniwarrington" rel="noreferrer noopener" target="_blank">Amani Warrington on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Amani_Warrington" title="Tolkien Gateway:Copyrights/Amani Warrington">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAmani_Warrington.md" title="Tolkien Gateway:Copyrights/Amani Warrington">Permission for use on Tolkien Gateway</a></b></li></ul></div>

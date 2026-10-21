@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to C.A. Furth"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to C.A. Furth</span>"
 page_id: 66659
 namespace: 14
 revision_id: 430156
@@ -15,4 +14,4 @@ sort_keys:
   "Letters to Allen & Unwin": "Furth, CA"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Charles_A._Furth&amp;action=edit&amp;redlink=1" title="Charles A. Furth (page does not exist)">Charles A. Furth</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charles_A._Furth&amp;action=edit&amp;redlink=1" title="Charles A. Furth (page does not exist)">Charles A. Furth</a>.

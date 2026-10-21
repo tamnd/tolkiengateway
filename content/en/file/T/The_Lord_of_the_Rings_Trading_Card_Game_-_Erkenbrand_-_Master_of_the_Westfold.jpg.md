@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Trading Card Game - Erkenbrand - Master of the Westfold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game - Erkenbrand - Master of the Westfold.jpg</span>"
 page_id: 9579
 namespace: 6
 revision_id: 438839
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Weta Workshop](/wiki/Weta_Workshop)'s Mike Grealish as [Erkenbrand](/wiki/Erkenbrand), art from a [Decipher Card](/wiki/Decipher_Card). Copyrights [Decipher](/wiki/Decipher), [New Line Cinema](/wiki/New_Line_Cinema).
+[Weta Workshop](../../main/W/Weta_Workshop.md)'s Mike Grealish as [Erkenbrand](../../main/E/Erkenbrand.md), art from a [Decipher Card](../../main/D/Decipher_Card.md). Copyrights [Decipher](../../main/D/Decipher.md), [New Line Cinema](../../main/N/New_Line_Cinema.md).
 
 ## Licensing {#Licensing}
 

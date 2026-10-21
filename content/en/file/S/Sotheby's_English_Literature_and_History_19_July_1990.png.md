@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's English Literature and History 19 July 1990.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s English Literature and History 19 July 1990.png</span>"
 page_id: 36836
 namespace: 6
 revision_id: 215420

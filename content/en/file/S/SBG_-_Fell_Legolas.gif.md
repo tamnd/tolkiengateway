@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Fell Legolas.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Fell Legolas.gif</span>"
 page_id: 12073
 namespace: 6
 revision_id: 203863

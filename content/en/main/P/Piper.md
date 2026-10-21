@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Minstrels"
 ---
 
-Redirect to [Minstrels](/wiki/Minstrels).
+Redirect to [Minstrels](../M/Minstrels.md).

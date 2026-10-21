@@ -1,6 +1,5 @@
 ---
 title: "File:Roverandom 1998 large.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roverandom 1998 large.jpeg</span>"
 page_id: 61934
 namespace: 6
 revision_id: 349254

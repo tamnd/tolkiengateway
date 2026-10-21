@@ -1,6 +1,5 @@
 ---
 title: "Category:Articles to be rewritten"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Articles to be rewritten</span>"
 page_id: 19973
 namespace: 14
 revision_id: 139181
@@ -13,4 +12,4 @@ categories:
   - "Tolkien Gateway:To-do"
 ---
 
-Articles which need to be rewritten to comply with the [standards](/wiki/Tolkien_Gateway:Manual_of_Style "Tolkien Gateway:Manual of Style").
+Articles which need to be rewritten to comply with the [standards](../../project/M/Manual_of_Style.md).

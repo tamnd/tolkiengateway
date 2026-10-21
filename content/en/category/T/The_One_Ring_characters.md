@@ -1,6 +1,5 @@
 ---
 title: "Category:The One Ring characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring characters</span>"
 page_id: 75234
 namespace: 14
 revision_id: 442862
@@ -17,4 +16,4 @@ sort_keys:
   "The One Ring (role-playing game)": "Characters"
 ---
 
-Characters created specifically for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")* role-playing game.
+Characters created specifically for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)* role-playing game.

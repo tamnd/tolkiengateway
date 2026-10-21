@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boromir (Steward of Gondor)"
 ---
 
-Redirect to [Boromir (Steward of Gondor)](/wiki/Boromir_(Steward_of_Gondor)).
+Redirect to [Boromir (Steward of Gondor)](<Boromir_(Steward_of_Gondor).md>).

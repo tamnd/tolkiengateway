@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Eastemnet Downs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Eastemnet Downs.jpg</span>"
 page_id: 71693
 namespace: 6
 revision_id: 427353
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Eastemnet Downs](/wiki/Eastemnet_Downs) - <i><a class="new" href="/w/index.php?title=The_Lord_of_the_Rings_-_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rings - The Two Towers (page does not exist)">The Lord of the Rings - The Two Towers</a></i>. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *The Two Towers*
+The [Eastemnet Downs](../../main/E/Eastemnet_Downs.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_-_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rings - The Two Towers (page does not exist)">The Lord of the Rings - The Two Towers</a></i>. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *The Two Towers*
 
 ## Licensing {#Licensing}
 

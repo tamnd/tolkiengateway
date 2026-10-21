@@ -13,22 +13,22 @@ categories:
   - "Quenya conjunctions"
 ---
 
-**etta** is a [Quenya](/wiki/Quenya) conjunction meaning "therefore".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**etta** is a [Quenya](../Q/Quenya.md) conjunction meaning "therefore".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Perhaps from *[et](/wiki/Et "Et")* and *[ta](/wiki/Ta "Ta")*. In this case, the possible literal meaning is \*"out of which".
+Perhaps from *[et](Et.md)* and *[ta](../T/Ta~22500.md)*. In this case, the possible literal meaning is \*"out of which".
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Potai&amp;action=edit&amp;redlink=1" title="Potai (page does not exist)">potai</a></i>
-- *[epetai](/wiki/Epetai "Epetai")*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Potai&amp;action=edit&amp;redlink=1" title="Potai (page does not exist)">potai</a></i>
+- *[epetai](Epetai.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 12</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<i>Eldarin Hands, Fingers &amp; Numerals</i> and Related Writings — Part Three&#34; (edited by <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 12</span>
 </li>
 </ol></div>

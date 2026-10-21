@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Butterbur Family"
 ---
 
-Redirect to [Butterbur Family](/wiki/Butterbur_Family).
+Redirect to [Butterbur Family](Butterbur_Family.md).

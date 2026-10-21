@@ -1,6 +1,5 @@
 ---
 title: "File:MEQ - A Spy in Isengard (Spanish Cover).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MEQ - A Spy in Isengard (Spanish Cover).jpg</span>"
 page_id: 72425
 namespace: 6
 revision_id: 430474
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-*Un Espía en Isengard* - Spanish cover of *[A Spy In Isengard](/wiki/A_Spy_In_Isengard)*.
+*Un Espía en Isengard* - Spanish cover of *[A Spy In Isengard](../../main/A/A_Spy_In_Isengard.md)*.
 
 ## Source {#Source}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three Rings"
 ---
 
-Redirect to [Three Rings](/wiki/Three_Rings).
+Redirect to [Three Rings](../T/Three_Rings.md).

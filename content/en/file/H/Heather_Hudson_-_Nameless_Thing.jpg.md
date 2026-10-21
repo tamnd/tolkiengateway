@@ -1,6 +1,5 @@
 ---
 title: "File:Heather Hudson - Nameless Thing.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heather Hudson - Nameless Thing.jpg</span>"
 page_id: 29869
 namespace: 6
 revision_id: 441131
@@ -34,17 +33,15 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Heather Hudson - Nameless Thing.jpg</span></th>
 <td class="description">
 <p><i>Nameless Thing</i>. 
-Created for <a href="/wiki/Middle-earth:_Dark_Minions" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_Dark_Minions.md" title="Middle-earth: Dark Minions">Middle-earth: Dark Minions</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1996" title="1996">1996</a></td>
+<td><a href="../../main/_/1996.md" title="1996">1996</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Heather Hudson</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Extracted from a card scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

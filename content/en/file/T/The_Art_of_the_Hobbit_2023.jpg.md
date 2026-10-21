@@ -1,6 +1,5 @@
 ---
 title: "File:The Art of the Hobbit 2023.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Art of the Hobbit 2023.jpg</span>"
 page_id: 66800
 namespace: 6
 revision_id: 386882

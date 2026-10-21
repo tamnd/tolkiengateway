@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum Screenshot 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum Screenshot 2.jpg</span>"
 page_id: 64573
 namespace: 6
 revision_id: 390181
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of the <a class="new" href="/w/index.php?title=Lestor&amp;action=edit&amp;redlink=1" title="Lestor (page does not exist)">Candle Man</a> capturing [Gollum](/wiki/Gollum) in *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.
+A screenshot of the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lestor&amp;action=edit&amp;redlink=1" title="Lestor (page does not exist)">Candle Man</a> capturing [Gollum](../../main/G/Gollum.md) in *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.
 
 ## Licensing {#Licensing}
 

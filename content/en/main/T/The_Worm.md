@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Scatha"
 ---
 
-Redirect to [Scatha](/wiki/Scatha).
+Redirect to [Scatha](../S/Scatha.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Flói"
 ---
 
-Redirect to [Flói](/wiki/Flói).
+Redirect to [Flói](Flói.md).

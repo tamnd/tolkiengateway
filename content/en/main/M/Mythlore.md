@@ -16,140 +16,140 @@ sort_keys:
   "Mythlore": " "
 ---
 
-**Mythlore**, published by the [Mythopoeic Society](/wiki/Mythopoeic_Society), is a peer-reviewed journal that focuses on the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), [C.S. Lewis](/wiki/C.S._Lewis), [Charles Williams](/wiki/Charles_Williams), and the genres of myth and fantasy. Beginning in fall [2013](/wiki/2013), **Mythlore** is published twice a year in the spring and fall. The *Mythlore Index Plus*, which indexes **Mythlore**, [Tolkien Journal](/wiki/Tolkien_Journal), published conference proceedings, and other publications of the Mythopoeic Society, can be downloaded at the link below.
+**Mythlore**, published by the [Mythopoeic Society](Mythopoeic_Society.md), is a peer-reviewed journal that focuses on the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md), [Charles Williams](../C/Charles_Williams.md), and the genres of myth and fantasy. Beginning in fall [2013](../_/2013.md), **Mythlore** is published twice a year in the spring and fall. The *Mythlore Index Plus*, which indexes **Mythlore**, [Tolkien Journal](../T/Tolkien_Journal.md), published conference proceedings, and other publications of the Mythopoeic Society, can be downloaded at the link below.
 
 ## Issues {#Issues}
 
-- [1969](/wiki/1969): *[Mythlore 1](/wiki/Mythlore_1)* Glen GoodKnight, editor
-- [1969](/wiki/1969): *[Mythlore 2](/wiki/Mythlore_2)*
-- [1969](/wiki/1969): *[Mythlore 3](/wiki/Mythlore_3)*
-- [1969](/wiki/1969): *[Mythlore 4](/wiki/Mythlore_4)*
-- [1970](/wiki/1970): *[Mythlore 5](/wiki/Mythlore_5)* (same as *[Tolkien Journal](/wiki/Tolkien_Journal)* #12)
-- [1970](/wiki/1970): *[Mythlore 6](/wiki/Mythlore_6)*
-- [1971](/wiki/1971): *[Mythlore 7](/wiki/Mythlore_7)*
-- [1972](/wiki/1972): *[Mythlore 8](/wiki/Mythlore_8)*
-- [1973](/wiki/1973): *[Mythlore 9](/wiki/Mythlore_9)* (same as *[Tolkien Journal](/wiki/Tolkien_Journal)* #16)
-- [1975](/wiki/1975): *[Mythlore 10](/wiki/Mythlore_10)* (same as *[Tolkien Journal](/wiki/Tolkien_Journal)* #17; Tolkien Memorial issue)
-- [1976](/wiki/1976): *[Mythlore 11](/wiki/Mythlore_11)* (same as <a class="new" href="/w/index.php?title=Tolkien_Journal_18&amp;action=edit&amp;redlink=1" title="Tolkien Journal 18 (page does not exist)"><i>Tolkien Journal</i> #18</a>)
-- [1976](/wiki/1976): *[Mythlore 12](/wiki/Mythlore_12)*
-- [1976](/wiki/1976): *[Mythlore 13](/wiki/Mythlore_13)*
-- [1976](/wiki/1976): *[Mythlore 14](/wiki/Mythlore_14)*
-- [1977](/wiki/1977): *[Mythlore 15](/wiki/Mythlore_15)* Includes <a class="new" href="/w/index.php?title=Mythprint_15.3&amp;action=edit&amp;redlink=1" title="Mythprint 15.3 (page does not exist)">Mythprint 15.3</a> (March 1977)
-- [1977](/wiki/1977): *[Mythlore 16](/wiki/Mythlore_16)* Includes <a class="new" href="/w/index.php?title=Mythprint_15.5&amp;action=edit&amp;redlink=1" title="Mythprint 15.5 (page does not exist)">Mythprint 15.5</a> (June 1977)
-- [1978](/wiki/1978): *[Mythlore 17](/wiki/Mythlore_17)* Includes <a class="new" href="/w/index.php?title=Mythprint_16.3&amp;action=edit&amp;redlink=1" title="Mythprint 16.3 (page does not exist)">Mythprint 16.3</a> (May 1978)
-- [1978](/wiki/1978): *[Mythlore 18](/wiki/Mythlore_18)* Guest editor, Gracia Fay Ellwood
-- [1979](/wiki/1979): *[Mythlore 19](/wiki/Mythlore_19)* Guest editor, Gracia Fay Ellwood
-- [1979](/wiki/1979): *[Mythlore 20](/wiki/Mythlore_20)* Guest editor, Gracia Fay Ellwood
-- [1979](/wiki/1979): *[Mythlore 21](/wiki/Mythlore_21)* Guest editor, Gracia Fay Ellwood
-- [1979](/wiki/1979): *[Mythlore 22](/wiki/Mythlore_22)* Guest editor, Gracia Fay Ellwood
-- [1980](/wiki/1980): *[Mythlore 23](/wiki/Mythlore_23)* Guest editor, Gracia Fay Ellwood
-- [1980](/wiki/1980): *[Mythlore 24](/wiki/Mythlore_24)* Glen GoodKnight resumes editorship
-- [1980](/wiki/1980): *[Mythlore 25](/wiki/Mythlore_25)*
-- [1981](/wiki/1981): *[Mythlore 26](/wiki/Mythlore_26)*
-- [1981](/wiki/1981): *[Mythlore 27](/wiki/Mythlore_27)*
-- [1981](/wiki/1981): *[Mythlore 28](/wiki/Mythlore_28)*
-- [1981](/wiki/1981): *[Mythlore 29](/wiki/Mythlore_29)*
-- [1982](/wiki/1982): *[Mythlore 30](/wiki/Mythlore_30)*
-- [1982](/wiki/1982): *[Mythlore 31](/wiki/Mythlore_31)*
-- [1982](/wiki/1982): *[Mythlore 32](/wiki/Mythlore_32)*
-- [1982](/wiki/1982): *[Mythlore 33](/wiki/Mythlore_33)*
-- [1983](/wiki/1983): *[Mythlore 34](/wiki/Mythlore_34)*
-- [1983](/wiki/1983): *[Mythlore 35](/wiki/Mythlore_35)*
-- [1983](/wiki/1983): *[Mythlore 36](/wiki/Mythlore_36)*
-- [1984](/wiki/1984): *[Mythlore 37](/wiki/Mythlore_37)*
-- [1984](/wiki/1984): *[Mythlore 38](/wiki/Mythlore_38)*
-- [1984](/wiki/1984): *[Mythlore 39](/wiki/Mythlore_39)*
-- [1984](/wiki/1984): *[Mythlore 40](/wiki/Mythlore_40)* (subject guide to Mythlore 31-39)
-- [1985](/wiki/1985): *[Mythlore 41](/wiki/Mythlore_41)*
-- [1985](/wiki/1985): *[Mythlore 42](/wiki/Mythlore_42)* (short supplemental issue to meet postal regulations)
-- [1985](/wiki/1985): *[Mythlore 43](/wiki/Mythlore_43)*
-- [1985](/wiki/1985): *[Mythlore 44](/wiki/Mythlore_44)* (short supplemental issue to meet postal regulations)
-- [1986](/wiki/1986): *[Mythlore 45](/wiki/Mythlore_45)*
-- [1986](/wiki/1986): *[Mythlore 46](/wiki/Mythlore_46)*
-- [1986](/wiki/1986): *[Mythlore 47](/wiki/Mythlore_47)* (includes subject index to the *[Tolkien Journal](/wiki/Tolkien_Journal)*)
-- [1986](/wiki/1986): *[Mythlore 48](/wiki/Mythlore_48)*
-- [1987](/wiki/1987): *[Mythlore 49](/wiki/Mythlore_49)*
-- [1987](/wiki/1987): *[Mythlore 50](/wiki/Mythlore_50)* (color covers)
-- [1987](/wiki/1987): *[Mythlore 51](/wiki/Mythlore_51)* Index to Mythlore 1-50
-- [1987](/wiki/1987): *[Mythlore 52](/wiki/Mythlore_52)*
-- [1988](/wiki/1988): *[Mythlore 53](/wiki/Mythlore_53)*
-- [1988](/wiki/1988): *[Mythlore 54](/wiki/Mythlore_54)*
-- [1988](/wiki/1988): *[Mythlore 55](/wiki/Mythlore_55)*
-- [1988](/wiki/1988): *[Mythlore 56](/wiki/Mythlore_56)*
-- [1989](/wiki/1989): *[Mythlore 57](/wiki/Mythlore_57)*
-- [1989](/wiki/1989): *[Mythlore 58](/wiki/Mythlore_58)*
-- [1989](/wiki/1989): *[Mythlore 59](/wiki/Mythlore_59)*
-- [1989](/wiki/1989): *[Mythlore 60](/wiki/Mythlore_60)*
-- [1990](/wiki/1990): *[Mythlore 61](/wiki/Mythlore_61)* (includes index to Mythlore 51-60)
-- [1990](/wiki/1990): *[Mythlore 62](/wiki/Mythlore_62)*
-- [1990](/wiki/1990): *[Mythlore 63](/wiki/Mythlore_63)*
-- [1990](/wiki/1990): *[Mythlore 64](/wiki/Mythlore_64)*
-- [1991](/wiki/1991): *[Mythlore 65](/wiki/Mythlore_65)*
-- [1991](/wiki/1991): *[Mythlore 66](/wiki/Mythlore_66)*
-- [1991](/wiki/1991): *[Mythlore 67](/wiki/Mythlore_67)*
-- [1992](/wiki/1992): *[Mythlore 68](/wiki/Mythlore_68)*
-- [1992](/wiki/1992): *[Mythlore 69](/wiki/Mythlore_69)* (color covers; Tolkien Centenary issue; index to Tolkien articles in Mythlore)
-- [1992](/wiki/1992): *[Mythlore 70](/wiki/Mythlore_70)*
-- [1993](/wiki/1993): *[Mythlore 71](/wiki/Mythlore_71)*
-- [1993](/wiki/1993): *[Mythlore 72](/wiki/Mythlore_72)*
-- [1993](/wiki/1993): *[Mythlore 73](/wiki/Mythlore_73)* (<a class="new" href="/w/index.php?title=Dorothy_Sayers&amp;action=edit&amp;redlink=1" title="Dorothy Sayers (page does not exist)">Dorothy Sayers</a> Centenary issue)
-- [1993](/wiki/1993): *[Mythlore 74](/wiki/Mythlore_74)*
-- [1994](/wiki/1994): *[Mythlore 75](/wiki/Mythlore_75)*
-- [1994](/wiki/1994): *[Mythlore 76](/wiki/Mythlore_76)*
-- [1994](/wiki/1994): *[Mythlore 77](/wiki/Mythlore_77)* (short supplemental issue)
-- [1995](/wiki/1995): *[Mythlore 78](/wiki/Mythlore_78)*
-- [1995](/wiki/1995): *[Mythlore 79](/wiki/Mythlore_79)*
-- [1996](/wiki/1996): *[Mythlore 80](/wiki/Mythlore_80)* Proceedings of the 1992 Tolkien Centenary Conference; also *[Mallorn 33](/wiki/Mallorn_33)*
-- [1995](/wiki/1995): *[Mythlore 81](/wiki/Mythlore_81)*
-- [1997](/wiki/1997): *[Mythlore 82](/wiki/Mythlore_82)*
-- [1997](/wiki/1997): *[Mythlore 83](/wiki/Mythlore_83)*
-- [1998](/wiki/1998): *[Mythlore 84](/wiki/Mythlore_84)* C.S. Lewis Centenary issue
-- [1999](/wiki/1999): *[Mythlore 85](/wiki/Mythlore_85)* New editor, <a class="new" href="/w/index.php?title=Ted_Sherman&amp;action=edit&amp;redlink=1" title="Ted Sherman (page does not exist)">Ted Sherman</a>; new format
-- [2000](/wiki/2000): *[Mythlore 86](/wiki/Mythlore_86)*
-- [2000](/wiki/2000): *[Mythlore 87](/wiki/Mythlore_87)*
-- [2001](/wiki/2001): *[Mythlore 88](/wiki/Mythlore_88)* (special Narnia Issue)
-- [2001](/wiki/2001): *[Mythlore 89](/wiki/Mythlore_89)*
-- [2002](/wiki/2002): *[Mythlore 90](/wiki/Mythlore_90)*
-- [2003](/wiki/2003): *[Mythlore 91](/wiki/Mythlore_91)*
-- [2004](/wiki/2004): *[Mythlore 92](/wiki/Mythlore_92)*
-- [2006](/wiki/2006): *[Mythlore 93/94](/wiki/Mythlore_93/94)* New editor, [Janet Croft](/wiki/Janet_Croft)
-- [2006](/wiki/2006): *[Mythlore 95/96](/wiki/Mythlore_95/96)*
-- [2007](/wiki/2007): *[Mythlore 97/98](/wiki/Mythlore_97/98)*
-- [2007](/wiki/2007): *[Mythlore 99/100](/wiki/Mythlore_99/100)*
-- [2008](/wiki/2008): *[Mythlore 101/102](/wiki/Mythlore_101/102)*
-- [2008](/wiki/2008): *[Mythlore 103/104](/wiki/Mythlore_103/104)*
-- [2009](/wiki/2009): *[Mythlore 105/106](/wiki/Mythlore_105/106)*
-- [2009](/wiki/2009): *[Mythlore 107/108](/wiki/Mythlore_107/108)*
-- [2010](/wiki/2010): *[Mythlore 109/110](/wiki/Mythlore_109/110)*
-- [2010](/wiki/2010): *[Mythlore 111/112](/wiki/Mythlore_111/112)*
-- [2011](/wiki/2011): *[Mythlore 113/114](/wiki/Mythlore_113/114)*
-- [2011](/wiki/2011): *[Mythlore 115/116](/wiki/Mythlore_115/116)*
-- [2012](/wiki/2012): *[Mythlore 117/118](/wiki/Mythlore_117/118)*
-- [2012](/wiki/2012): *[Mythlore 119/120](/wiki/Mythlore_119/120)*
-- [2013](/wiki/2013): *[Mythlore 121/122](/wiki/Mythlore_121/122)*
-- [2013](/wiki/2013): *[Mythlore 123](/wiki/Mythlore_123)*
-- [2014](/wiki/2014): *[Mythlore 124](/wiki/Mythlore_124)*
-- [2014](/wiki/2014): *[Mythlore 125](/wiki/Mythlore_125)*
-- [2015](/wiki/2015): *[Mythlore 126](/wiki/Mythlore_126)*
-- [2015](/wiki/2015): *[Mythlore 127](/wiki/Mythlore_127)*
-- [2016](/wiki/2016): *[Mythlore 128](/wiki/Mythlore_128)*
-- [2016](/wiki/2016): *[Mythlore 129](/wiki/Mythlore_129)*
-- [2017](/wiki/2017): *[Mythlore 130](/wiki/Mythlore_130)*
-- [2017](/wiki/2017): *[Mythlore 131](/wiki/Mythlore_131)*
-- [2018](/wiki/2018): *[Mythlore 132](/wiki/Mythlore_132)* Special Section on Divination in Fantasy
-- [2018](/wiki/2018): *[Mythlore 133](/wiki/Mythlore_133)*
-- [2019](/wiki/2019): *[Mythlore 134](/wiki/Mythlore_134)*
-- [2019](/wiki/2019): *[Mythlore 135](/wiki/Mythlore_135)* Special Issue: Mythopoeic Children's Literature
-- [2020](/wiki/2020): *[Mythlore 136](/wiki/Mythlore_136)*
-- [2020](/wiki/2020): *[Mythlore 137](/wiki/Mythlore_137)*
-- [2021](/wiki/2021): *[Mythlore 138](/wiki/Mythlore_138)* Special Issue: honoring [Ursula K. Le Guin](/wiki/Ursula_K._Le_Guin)
-- [2021](/wiki/2021): *[Mythlore 139](/wiki/Mythlore_139)*
-- [2022](/wiki/2022): *[Mythlore 140](/wiki/Mythlore_140)*
-- [2022](/wiki/2022): *[Mythlore 141](/wiki/Mythlore_141)*
-- [2023](/wiki/2023): *[Mythlore 142](/wiki/Mythlore_142)*
-- [2023](/wiki/2023): *[Mythlore 143](/wiki/Mythlore_143)*
-- [2024](/wiki/2024): *[Mythlore 144](/wiki/Mythlore_144)*
-- [2024](/wiki/2024): *[Mythlore 145](/wiki/Mythlore_145)*
+- [1969](../_/1969.md): *[Mythlore 1](Mythlore_1.md)* Glen GoodKnight, editor
+- [1969](../_/1969.md): *[Mythlore 2](Mythlore_2.md)*
+- [1969](../_/1969.md): *[Mythlore 3](Mythlore_3.md)*
+- [1969](../_/1969.md): *[Mythlore 4](Mythlore_4.md)*
+- [1970](../_/1970.md): *[Mythlore 5](Mythlore_5.md)* (same as *[Tolkien Journal](../T/Tolkien_Journal.md)* #12)
+- [1970](../_/1970.md): *[Mythlore 6](Mythlore_6.md)*
+- [1971](../_/1971.md): *[Mythlore 7](Mythlore_7.md)*
+- [1972](../_/1972.md): *[Mythlore 8](Mythlore_8.md)*
+- [1973](../_/1973.md): *[Mythlore 9](Mythlore_9.md)* (same as *[Tolkien Journal](../T/Tolkien_Journal.md)* #16)
+- [1975](../_/1975.md): *[Mythlore 10](Mythlore_10.md)* (same as *[Tolkien Journal](../T/Tolkien_Journal.md)* #17; Tolkien Memorial issue)
+- [1976](../_/1976.md): *[Mythlore 11](Mythlore_11.md)* (same as <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Journal_18&amp;action=edit&amp;redlink=1" title="Tolkien Journal 18 (page does not exist)"><i>Tolkien Journal</i> #18</a>)
+- [1976](../_/1976.md): *[Mythlore 12](Mythlore_12.md)*
+- [1976](../_/1976.md): *[Mythlore 13](Mythlore_13.md)*
+- [1976](../_/1976.md): *[Mythlore 14](Mythlore_14.md)*
+- [1977](../_/1977.md): *[Mythlore 15](Mythlore_15.md)* Includes <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mythprint_15.3&amp;action=edit&amp;redlink=1" title="Mythprint 15.3 (page does not exist)">Mythprint 15.3</a> (March 1977)
+- [1977](../_/1977.md): *[Mythlore 16](Mythlore_16.md)* Includes <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mythprint_15.5&amp;action=edit&amp;redlink=1" title="Mythprint 15.5 (page does not exist)">Mythprint 15.5</a> (June 1977)
+- [1978](../_/1978.md): *[Mythlore 17](Mythlore_17.md)* Includes <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mythprint_16.3&amp;action=edit&amp;redlink=1" title="Mythprint 16.3 (page does not exist)">Mythprint 16.3</a> (May 1978)
+- [1978](../_/1978.md): *[Mythlore 18](Mythlore_18.md)* Guest editor, Gracia Fay Ellwood
+- [1979](../_/1979.md): *[Mythlore 19](Mythlore_19.md)* Guest editor, Gracia Fay Ellwood
+- [1979](../_/1979.md): *[Mythlore 20](Mythlore_20.md)* Guest editor, Gracia Fay Ellwood
+- [1979](../_/1979.md): *[Mythlore 21](Mythlore_21.md)* Guest editor, Gracia Fay Ellwood
+- [1979](../_/1979.md): *[Mythlore 22](Mythlore_22.md)* Guest editor, Gracia Fay Ellwood
+- [1980](../_/1980.md): *[Mythlore 23](Mythlore_23.md)* Guest editor, Gracia Fay Ellwood
+- [1980](../_/1980.md): *[Mythlore 24](Mythlore_24.md)* Glen GoodKnight resumes editorship
+- [1980](../_/1980.md): *[Mythlore 25](Mythlore_25.md)*
+- [1981](../_/1981.md): *[Mythlore 26](Mythlore_26.md)*
+- [1981](../_/1981.md): *[Mythlore 27](Mythlore_27.md)*
+- [1981](../_/1981.md): *[Mythlore 28](Mythlore_28.md)*
+- [1981](../_/1981.md): *[Mythlore 29](Mythlore_29.md)*
+- [1982](../_/1982.md): *[Mythlore 30](Mythlore_30.md)*
+- [1982](../_/1982.md): *[Mythlore 31](Mythlore_31.md)*
+- [1982](../_/1982.md): *[Mythlore 32](Mythlore_32.md)*
+- [1982](../_/1982.md): *[Mythlore 33](Mythlore_33.md)*
+- [1983](../_/1983.md): *[Mythlore 34](Mythlore_34.md)*
+- [1983](../_/1983.md): *[Mythlore 35](Mythlore_35.md)*
+- [1983](../_/1983.md): *[Mythlore 36](Mythlore_36.md)*
+- [1984](../_/1984.md): *[Mythlore 37](Mythlore_37.md)*
+- [1984](../_/1984.md): *[Mythlore 38](Mythlore_38.md)*
+- [1984](../_/1984.md): *[Mythlore 39](Mythlore_39.md)*
+- [1984](../_/1984.md): *[Mythlore 40](Mythlore_40.md)* (subject guide to Mythlore 31-39)
+- [1985](../_/1985.md): *[Mythlore 41](Mythlore_41.md)*
+- [1985](../_/1985.md): *[Mythlore 42](Mythlore_42.md)* (short supplemental issue to meet postal regulations)
+- [1985](../_/1985.md): *[Mythlore 43](Mythlore_43.md)*
+- [1985](../_/1985.md): *[Mythlore 44](Mythlore_44.md)* (short supplemental issue to meet postal regulations)
+- [1986](../_/1986.md): *[Mythlore 45](Mythlore_45.md)*
+- [1986](../_/1986.md): *[Mythlore 46](Mythlore_46.md)*
+- [1986](../_/1986.md): *[Mythlore 47](Mythlore_47.md)* (includes subject index to the *[Tolkien Journal](../T/Tolkien_Journal.md)*)
+- [1986](../_/1986.md): *[Mythlore 48](Mythlore_48.md)*
+- [1987](../_/1987.md): *[Mythlore 49](Mythlore_49.md)*
+- [1987](../_/1987.md): *[Mythlore 50](Mythlore_50.md)* (color covers)
+- [1987](../_/1987.md): *[Mythlore 51](Mythlore_51.md)* Index to Mythlore 1-50
+- [1987](../_/1987.md): *[Mythlore 52](Mythlore_52.md)*
+- [1988](../_/1988.md): *[Mythlore 53](Mythlore_53.md)*
+- [1988](../_/1988.md): *[Mythlore 54](Mythlore_54.md)*
+- [1988](../_/1988.md): *[Mythlore 55](Mythlore_55.md)*
+- [1988](../_/1988.md): *[Mythlore 56](Mythlore_56.md)*
+- [1989](../_/1989.md): *[Mythlore 57](Mythlore_57.md)*
+- [1989](../_/1989.md): *[Mythlore 58](Mythlore_58.md)*
+- [1989](../_/1989.md): *[Mythlore 59](Mythlore_59.md)*
+- [1989](../_/1989.md): *[Mythlore 60](Mythlore_60.md)*
+- [1990](../_/1990.md): *[Mythlore 61](Mythlore_61.md)* (includes index to Mythlore 51-60)
+- [1990](../_/1990.md): *[Mythlore 62](Mythlore_62.md)*
+- [1990](../_/1990.md): *[Mythlore 63](Mythlore_63.md)*
+- [1990](../_/1990.md): *[Mythlore 64](Mythlore_64.md)*
+- [1991](../_/1991.md): *[Mythlore 65](Mythlore_65.md)*
+- [1991](../_/1991.md): *[Mythlore 66](Mythlore_66.md)*
+- [1991](../_/1991.md): *[Mythlore 67](Mythlore_67.md)*
+- [1992](../_/1992.md): *[Mythlore 68](Mythlore_68.md)*
+- [1992](../_/1992.md): *[Mythlore 69](Mythlore_69.md)* (color covers; Tolkien Centenary issue; index to Tolkien articles in Mythlore)
+- [1992](../_/1992.md): *[Mythlore 70](Mythlore_70.md)*
+- [1993](../_/1993.md): *[Mythlore 71](Mythlore_71.md)*
+- [1993](../_/1993.md): *[Mythlore 72](Mythlore_72.md)*
+- [1993](../_/1993.md): *[Mythlore 73](Mythlore_73.md)* (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Dorothy_Sayers&amp;action=edit&amp;redlink=1" title="Dorothy Sayers (page does not exist)">Dorothy Sayers</a> Centenary issue)
+- [1993](../_/1993.md): *[Mythlore 74](Mythlore_74.md)*
+- [1994](../_/1994.md): *[Mythlore 75](Mythlore_75.md)*
+- [1994](../_/1994.md): *[Mythlore 76](Mythlore_76.md)*
+- [1994](../_/1994.md): *[Mythlore 77](Mythlore_77.md)* (short supplemental issue)
+- [1995](../_/1995.md): *[Mythlore 78](Mythlore_78.md)*
+- [1995](../_/1995.md): *[Mythlore 79](Mythlore_79.md)*
+- [1996](../_/1996.md): *[Mythlore 80](Mythlore_80.md)* Proceedings of the 1992 Tolkien Centenary Conference; also *[Mallorn 33](Mallorn_33.md)*
+- [1995](../_/1995.md): *[Mythlore 81](Mythlore_81.md)*
+- [1997](../_/1997.md): *[Mythlore 82](Mythlore_82.md)*
+- [1997](../_/1997.md): *[Mythlore 83](Mythlore_83.md)*
+- [1998](../_/1998.md): *[Mythlore 84](Mythlore_84.md)* C.S. Lewis Centenary issue
+- [1999](../_/1999.md): *[Mythlore 85](Mythlore_85.md)* New editor, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ted_Sherman&amp;action=edit&amp;redlink=1" title="Ted Sherman (page does not exist)">Ted Sherman</a>; new format
+- [2000](../_/2000.md): *[Mythlore 86](Mythlore_86.md)*
+- [2000](../_/2000.md): *[Mythlore 87](Mythlore_87.md)*
+- [2001](../_/2001.md): *[Mythlore 88](Mythlore_88.md)* (special Narnia Issue)
+- [2001](../_/2001.md): *[Mythlore 89](Mythlore_89.md)*
+- [2002](../_/2002.md): *[Mythlore 90](Mythlore_90.md)*
+- [2003](../_/2003.md): *[Mythlore 91](Mythlore_91.md)*
+- [2004](../_/2004.md): *[Mythlore 92](Mythlore_92.md)*
+- [2006](../_/2006.md): *[Mythlore 93/94](Mythlore_93%252F94.md)* New editor, [Janet Croft](../J/Janet_Croft.md)
+- [2006](../_/2006.md): *[Mythlore 95/96](Mythlore_95%252F96.md)*
+- [2007](../_/2007.md): *[Mythlore 97/98](Mythlore_97%252F98.md)*
+- [2007](../_/2007.md): *[Mythlore 99/100](Mythlore_99%252F100.md)*
+- [2008](../_/2008.md): *[Mythlore 101/102](Mythlore_101%252F102.md)*
+- [2008](../_/2008.md): *[Mythlore 103/104](Mythlore_103%252F104.md)*
+- [2009](../_/2009.md): *[Mythlore 105/106](Mythlore_105%252F106.md)*
+- [2009](../_/2009.md): *[Mythlore 107/108](Mythlore_107%252F108.md)*
+- [2010](../_/2010.md): *[Mythlore 109/110](Mythlore_109%252F110.md)*
+- [2010](../_/2010.md): *[Mythlore 111/112](Mythlore_111%252F112.md)*
+- [2011](../_/2011.md): *[Mythlore 113/114](Mythlore_113%252F114.md)*
+- [2011](../_/2011.md): *[Mythlore 115/116](Mythlore_115%252F116.md)*
+- [2012](../_/2012.md): *[Mythlore 117/118](Mythlore_117%252F118.md)*
+- [2012](../_/2012.md): *[Mythlore 119/120](Mythlore_119%252F120.md)*
+- [2013](../_/2013.md): *[Mythlore 121/122](Mythlore_121%252F122.md)*
+- [2013](../_/2013.md): *[Mythlore 123](Mythlore_123.md)*
+- [2014](../_/2014.md): *[Mythlore 124](Mythlore_124.md)*
+- [2014](../_/2014.md): *[Mythlore 125](Mythlore_125.md)*
+- [2015](../_/2015.md): *[Mythlore 126](Mythlore_126.md)*
+- [2015](../_/2015.md): *[Mythlore 127](Mythlore_127.md)*
+- [2016](../_/2016.md): *[Mythlore 128](Mythlore_128.md)*
+- [2016](../_/2016.md): *[Mythlore 129](Mythlore_129.md)*
+- [2017](../_/2017.md): *[Mythlore 130](Mythlore_130.md)*
+- [2017](../_/2017.md): *[Mythlore 131](Mythlore_131.md)*
+- [2018](../_/2018.md): *[Mythlore 132](Mythlore_132.md)* Special Section on Divination in Fantasy
+- [2018](../_/2018.md): *[Mythlore 133](Mythlore_133.md)*
+- [2019](../_/2019.md): *[Mythlore 134](Mythlore_134.md)*
+- [2019](../_/2019.md): *[Mythlore 135](Mythlore_135.md)* Special Issue: Mythopoeic Children's Literature
+- [2020](../_/2020.md): *[Mythlore 136](Mythlore_136.md)*
+- [2020](../_/2020.md): *[Mythlore 137](Mythlore_137.md)*
+- [2021](../_/2021.md): *[Mythlore 138](Mythlore_138.md)* Special Issue: honoring [Ursula K. Le Guin](../U/Ursula_K._Le_Guin.md)
+- [2021](../_/2021.md): *[Mythlore 139](Mythlore_139.md)*
+- [2022](../_/2022.md): *[Mythlore 140](Mythlore_140.md)*
+- [2022](../_/2022.md): *[Mythlore 141](Mythlore_141.md)*
+- [2023](../_/2023.md): *[Mythlore 142](Mythlore_142.md)*
+- [2023](../_/2023.md): *[Mythlore 143](Mythlore_143.md)*
+- [2024](../_/2024.md): *[Mythlore 144](Mythlore_144.md)*
+- [2024](../_/2024.md): *[Mythlore 145](Mythlore_145.md)*
 
 ## External links {#External_links}
 

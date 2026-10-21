@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arch of Inwë"
 ---
 
-Redirect to [Arch of Inwë](/wiki/Arch_of_Inwë).
+Redirect to [Arch of Inwë](Arch_of_Inwë.md).

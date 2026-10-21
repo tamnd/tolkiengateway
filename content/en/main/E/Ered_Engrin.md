@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iron Mountains"
 ---
 
-Redirect to [Iron Mountains](/wiki/Iron_Mountains).
+Redirect to [Iron Mountains](../I/Iron_Mountains.md).

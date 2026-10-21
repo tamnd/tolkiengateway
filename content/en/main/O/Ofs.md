@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "On Fairy-Stories"
 ---
 
-Redirect to [On Fairy-Stories](/wiki/On_Fairy-Stories).
+Redirect to [On Fairy-Stories](On_Fairy-Stories.md).

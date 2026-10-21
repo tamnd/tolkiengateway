@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Coleman Charlton"
 ---
 
-Redirect to [Coleman Charlton](/wiki/Coleman_Charlton).
+Redirect to [Coleman Charlton](../C/Coleman_Charlton.md).

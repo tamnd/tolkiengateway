@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Eagle and Child"
 ---
 
-Redirect to [The Eagle and Child](/wiki/The_Eagle_and_Child).
+Redirect to [The Eagle and Child](../T/The_Eagle_and_Child.md).

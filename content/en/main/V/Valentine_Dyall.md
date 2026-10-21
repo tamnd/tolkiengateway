@@ -1,6 +1,5 @@
 ---
 title: "Valentine Dyall"
-display_title: "<span class=\"mw-page-title-main\">Valentine Dyall</span>"
 page_id: 22387
 namespace: 0
 revision_id: 156798
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Dyall, Valentine"
 ---
 
-**Valentine Dyall** ([May 7](/wiki/7_May "7 May"), [1908](/wiki/1908) – [June 24](/wiki/24_June "24 June"), [1985](/wiki/1985)) was an English actor. Because of his sonorous voice, he often lent his voice to [BBC](/wiki/BBC) radio plays. In the [first radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*, he played [Théoden](/wiki/Th%C3%A9oden) and [Treebeard](/wiki/Treebeard).*
+**Valentine Dyall** ([May 7](../_/7_May.md), [1908](../_/1908.md) – [June 24](../_/24_June.md), [1985](../_/1985.md)) was an English actor. Because of his sonorous voice, he often lent his voice to [BBC](../B/BBC.md) radio plays. In the [first radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, he played [Théoden](../T/Théoden.md) and [Treebeard](../T/Treebeard.md).*
 
 ## External links {#External_links}
 

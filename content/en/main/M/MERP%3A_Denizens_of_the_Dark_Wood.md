@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Denizens of the Dark Wood"
 ---
 
-Redirect to [Denizens of the Dark Wood](/wiki/Denizens_of_the_Dark_Wood).
+Redirect to [Denizens of the Dark Wood](../D/Denizens_of_the_Dark_Wood.md).

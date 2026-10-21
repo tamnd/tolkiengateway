@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Kukanova - Arwen Evenstar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Kukanova - Arwen Evenstar.jpg</span>"
 page_id: 74048
 namespace: 6
 revision_id: 436845
@@ -27,16 +26,14 @@ file:
 
 ## Summary {#Summary}
 
-"*[Arwen Evenstar](/wiki/Arwen "Arwen")*", by [Elena Kukanova](/wiki/Elena_Kukanova)
+"*[Arwen Evenstar](../../main/A/Arwen.md)*", by [Elena Kukanova](../../main/E/Elena_Kukanova.md)
 
 <blockquote class="tg-quote noexcerpt">
 <p>The braids of her dark hair were touched by no frost; her white arms and clear face were flawless and smooth, and the light of stars was in her bright eyes, grey as a cloudless night; yet queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring. Above her brow her head was covered with a cap of silver lace netted with small gems, glittering white; but her soft grey raiment had no ornament save a girdle of leaves wrought in silver.
-</p><p>So it was that <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> saw her whom few mortals had yet seen; Arwen, daughter of <a href="/wiki/Elrond" title="Elrond">Elrond</a>, in whom it was said that the likeness of <a href="/wiki/L%C3%BAthien" title="Lúthien">Lúthien</a> had come on earth again; and she was called Undómiel, for she was the Evenstar of her people.
+</p><p>So it was that <a href="../../main/F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> saw her whom few mortals had yet seen; Arwen, daughter of <a href="../../main/E/Elrond.md" title="Elrond">Elrond</a>, in whom it was said that the likeness of <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a> had come on earth again; and she was called Undómiel, for she was the Evenstar of her people.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/Many_Meetings" title="Many Meetings">Many Meetings</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../../main/M/Many_Meetings.md" title="Many Meetings">Many Meetings</a>&#34;</cite></p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## Licensing {#Licensing}
 
@@ -45,4 +42,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Elena Kukanova</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/ekukanova" rel="noreferrer noopener" target="_blank">Elena Kukanova&#39;s DeviantArt page</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elena_Kukanova" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElena_Kukanova.md" title="Tolkien Gateway:Copyrights/Elena Kukanova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

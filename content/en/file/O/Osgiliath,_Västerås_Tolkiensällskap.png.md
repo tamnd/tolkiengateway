@@ -1,6 +1,5 @@
 ---
 title: "File:Osgiliath, Västerås Tolkiensällskap.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Osgiliath, Västerås Tolkiensällskap.png</span>"
 page_id: 28392
 namespace: 6
 revision_id: 247669
@@ -27,7 +26,7 @@ file:
 ## Liccensing {#Liccensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Osgiliath,_V%C3%A4ster%C3%A5s_Tolkiens%C3%A4llskap" title="Osgiliath, Västerås Tolkiensällskap">Osgiliath, Västerås Tolkiensällskap</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/O/Osgiliath,_Västerås_Tolkiensällskap.md" title="Osgiliath, Västerås Tolkiensällskap">Osgiliath, Västerås Tolkiensällskap</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

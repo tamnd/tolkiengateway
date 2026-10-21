@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kortirion"
 ---
 
-Redirect to [Kortirion](/wiki/Kortirion).
+Redirect to [Kortirion](Kortirion.md).

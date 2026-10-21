@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúedain"
 ---
 
-Redirect to [Drúedain](/wiki/Drúedain).
+Redirect to [Drúedain](Drúedain.md).

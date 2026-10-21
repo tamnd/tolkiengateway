@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "MGM"
 ---
 
-Redirect to [MGM](/wiki/MGM).
+Redirect to [MGM](MGM.md).

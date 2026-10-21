@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien 1916.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien 1916.jpg</span>"
 page_id: 5752
 namespace: 6
 revision_id: 389618
@@ -24,7 +23,7 @@ file:
   user: "KingAragorn"
 ---
 
-Tolkien in [1916](/wiki/1916) in his WWI uniform. A colourized version of this photo can be found [here](</wiki/File:Tolkien_(1915%E2%80%939)_Colorized.png> "File:Tolkien (1915–9) Colorized.png").
+Tolkien in [1916](../../main/_/1916.md) in his WWI uniform. A colourized version of this photo can be found [here](<Tolkien_(1915–9)_Colorized.png.md>).
 
 ## Licensing {#Licensing}
 

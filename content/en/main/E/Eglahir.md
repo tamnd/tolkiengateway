@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nenning"
 ---
 
-Redirect to [Nenning](/wiki/Nenning).
+Redirect to [Nenning](../N/Nenning.md).

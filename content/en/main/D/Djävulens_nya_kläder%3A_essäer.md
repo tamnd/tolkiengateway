@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Djävulens nya kläder"
 ---
 
-Redirect to [Djävulens nya kläder](/wiki/Djävulens_nya_kläder).
+Redirect to [Djävulens nya kläder](Djävulens_nya_kläder.md).

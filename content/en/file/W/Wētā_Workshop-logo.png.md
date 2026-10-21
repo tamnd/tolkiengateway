@@ -1,6 +1,5 @@
 ---
 title: "File:Wētā Workshop-logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Wētā Workshop-logo.png</span>"
 page_id: 63346
 namespace: 6
 revision_id: 359756

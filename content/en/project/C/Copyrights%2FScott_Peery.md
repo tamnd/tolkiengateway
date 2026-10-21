@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Scott Peery"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Scott Peery</span>"
 page_id: 40776
 namespace: 4
 revision_id: 207073
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Peery, Scott"
 ---
 
-- Scott Peery has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Scott_Peery "Category:Images by Scott Peery") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Scott Peery has kindly granted his permission to use [his artwork](../../category/I/Images_by_Scott_Peery.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

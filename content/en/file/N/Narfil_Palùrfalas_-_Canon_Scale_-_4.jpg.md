@@ -1,6 +1,5 @@
 ---
 title: "File:Narfil Palùrfalas - Canon Scale - 4.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Narfil Palùrfalas - Canon Scale - 4.jpg</span>"
 page_id: 16026
 namespace: 6
 revision_id: 203479
@@ -27,11 +26,11 @@ file:
 
 ## Summary {#Summary}
 
-- **4** – This rating means that it is generally considered Canon, and is taken as such by most. Articles in this category are not contradicted in a later writing. Subjects rating “4” will be written as fact in the articles, and any objections written on the main page for that article. This includes *[The Hobbit](/wiki/The_Hobbit)*, as well as later writings such as *[The Shibboleth of Fëanor](/wiki/The_Shibboleth_of_F%C3%ABanor)* and others found in *[The Peoples of Middle-earth](/wiki/The_Peoples_of_Middle-earth)*.
+- **4** – This rating means that it is generally considered Canon, and is taken as such by most. Articles in this category are not contradicted in a later writing. Subjects rating “4” will be written as fact in the articles, and any objections written on the main page for that article. This includes *[The Hobbit](../../main/T/The_Hobbit.md)*, as well as later writings such as *[The Shibboleth of Fëanor](../../main/T/The_Shibboleth_of_Fëanor.md)* and others found in *[The Peoples of Middle-earth](../../main/T/The_Peoples_of_Middle-earth.md)*.
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>As a Tolkien Gateway contributor, <a href="/wiki/User:Narfil_Pal%C3%B9rfalas" title="User:Narfil Palùrfalas">Narfil Palùrfalas</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+<p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Narfil_Pal%C3%B9rfalas" title="User:Narfil Palùrfalas">Narfil Palùrfalas</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 </p>
 </div>

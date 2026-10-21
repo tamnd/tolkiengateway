@@ -11,4 +11,4 @@ redirect_target: "Spirits"
 redirect_fragment: "Evil spirits"
 ---
 
-Redirect to [Spirits](/wiki/Spirits#Evil_spirits).
+Redirect to [Spirits](../S/Spirits.md#Evil_spirits).

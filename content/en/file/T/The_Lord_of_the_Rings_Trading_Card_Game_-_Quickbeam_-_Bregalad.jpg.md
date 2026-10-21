@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Quickbeam - Bregalad.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Quickbeam - Bregalad.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Quickbeam_-_Bregalad.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Quickbeam - Bregalad.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Quickbeam_-_Bregalad.jpg.md).

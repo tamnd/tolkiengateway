@@ -1,6 +1,5 @@
 ---
 title: "File:La mastro de l' ringoj.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">La mastro de l&#039; ringoj.jpg</span>"
 page_id: 28358
 namespace: 6
 revision_id: 214518

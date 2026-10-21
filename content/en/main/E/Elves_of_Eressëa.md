@@ -1,6 +1,5 @@
 ---
 title: "Elves of Eressëa"
-display_title: "<span class=\"mw-page-title-main\">Elves of Eressëa</span>"
 page_id: 2156
 namespace: 0
 revision_id: 274573
@@ -17,9 +16,9 @@ sort_keys:
   "Elven peoples": "Elves of Eressea"
 ---
 
-The **Elves of Eressëa** were the [Elves](/wiki/Elves) who dwelt on the island of [Tol Eressëa](/wiki/Tol_Eress%C3%ABa) in the [Bay of Eldamar](/wiki/Bay_of_Eldamar). The [Vanyar](/wiki/Vanyar) and the [Noldor](/wiki/Noldor) were taken to [Aman](/wiki/Aman) on that island, but the first Elves to remain there for any time were the [Teleri](/wiki/Teleri), who lived on the island long after it was anchored off the coasts of [Aman](/wiki/Aman). After a while, though, the Teleri left, to dwell on the strands of the [Blessed Realm](/wiki/Blessed_Realm) itself, and especially at the haven of [Alqualondë](/wiki/Alqualond%C3%AB).
+The **Elves of Eressëa** were the [Elves](Elves.md) who dwelt on the island of [Tol Eressëa](../T/Tol_Eressëa.md) in the [Bay of Eldamar](../B/Bay_of_Eldamar.md). The [Vanyar](../V/Vanyar.md) and the [Noldor](../N/Noldor.md) were taken to [Aman](../A/Aman.md) on that island, but the first Elves to remain there for any time were the [Teleri](../T/Teleri.md), who lived on the island long after it was anchored off the coasts of [Aman](../A/Aman.md). After a while, though, the Teleri left, to dwell on the strands of the [Blessed Realm](../B/Blessed_Realm.md) itself, and especially at the haven of [Alqualondë](../A/Alqualondë.md).
 
-After the [War of Wrath](/wiki/War_of_Wrath) at the end of the [First Age](/wiki/First_Age), [Tol Eressëa](/wiki/Tol_Eress%C3%ABa) was again peopled with Elves, by the exiles returning from [Middle-earth](/wiki/Middle-earth) who settled there. Their shoreland city was at [Avallónë](/wiki/Avall%C3%B3n%C3%AB), and they built up a great friendship with the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans), at least during the early part of the [Second Age](/wiki/Second_Age).
+After the [War of Wrath](../W/War_of_Wrath.md) at the end of the [First Age](../F/First_Age.md), [Tol Eressëa](../T/Tol_Eressëa.md) was again peopled with Elves, by the exiles returning from [Middle-earth](../M/Middle-earth.md) who settled there. Their shoreland city was at [Avallónë](../A/Avallónë.md), and they built up a great friendship with the [Númenóreans](../N/Númenóreans.md), at least during the early part of the [Second Age](../S/Second_Age.md).
 
 <span></span>
 

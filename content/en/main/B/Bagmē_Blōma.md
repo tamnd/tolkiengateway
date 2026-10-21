@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bagme Bloma"
 ---
 
-Redirect to [Bagme Bloma](/wiki/Bagme_Bloma).
+Redirect to [Bagme Bloma](Bagme_Bloma.md).

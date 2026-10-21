@@ -1,6 +1,5 @@
 ---
 title: "File:Frank Rivolli - Hiding the Ring.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frank Rivolli - Hiding the Ring.jpg</span>"
 page_id: 48409
 namespace: 6
 revision_id: 365370
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Frank Rivolli</li>
 <li><b>Website:</b> <a class="external text" href="http://frankvenice.deviantart.com/" rel="noreferrer noopener" target="_blank">Frank Rivolli&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Frank_Rivolli" title="Tolkien Gateway:Copyrights/Frank Rivolli">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFrank_Rivolli.md" title="Tolkien Gateway:Copyrights/Frank Rivolli">Permission for use on Tolkien Gateway</a></b></li></ul></div>

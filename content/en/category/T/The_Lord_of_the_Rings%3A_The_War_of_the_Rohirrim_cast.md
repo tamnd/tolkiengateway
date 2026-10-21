@@ -1,6 +1,5 @@
 ---
 title: "Category:The Lord of the Rings: The War of the Rohirrim cast"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings: The War of the Rohirrim cast</span>"
 page_id: 71769
 namespace: 14
 revision_id: 427892

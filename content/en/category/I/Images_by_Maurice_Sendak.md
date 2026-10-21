@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Maurice Sendak"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Maurice Sendak</span>"
 page_id: 75213
 namespace: 14
 revision_id: 442781
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Sendak, Maurice"
 ---
 
-This category lists all **images by [Maurice Sendak](/wiki/Maurice_Sendak)**.
+This category lists all **images by [Maurice Sendak](../../main/M/Maurice_Sendak.md)**.

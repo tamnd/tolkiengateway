@@ -11,4 +11,4 @@ redirect_target: "Ered Gorgoroth"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Ered Gorgoroth](/wiki/Ered_Gorgoroth#Other_versions_of_the_legendarium).
+Redirect to [Ered Gorgoroth](../E/Ered_Gorgoroth.md#Other_versions_of_the_legendarium).

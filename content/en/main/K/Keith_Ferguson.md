@@ -1,6 +1,5 @@
 ---
 title: "Keith Ferguson"
-display_title: "<span class=\"mw-page-title-main\">Keith Ferguson</span>"
 page_id: 22803
 namespace: 0
 revision_id: 384324
@@ -17,9 +16,9 @@ sort_keys:
   "American people": "Ferguson, Keith"
 ---
 
-**Keith James Ferguson** ([February 26](/wiki/26_February "26 February"), [1972](/wiki/1972)) is an American voice actor, best known as the voice of Bloo in *[Foster's Home for Imaginary Friends](/wiki/References_to_The_Lord_of_the_Rings#Foster's_Home_for_Imaginary_Friends "References to The Lord of the Rings")*.
+**Keith James Ferguson** ([February 26](../_/26_February.md), [1972](../_/1972.md)) is an American voice actor, best known as the voice of Bloo in *[Foster's Home for Imaginary Friends](../R/References_to_The_Lord_of_the_Rings.md#Foster's_Home_for_Imaginary_Friends)*.
 
-He provided the voice of Morgomir in *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king)*.
+He provided the voice of Morgomir in *[The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*.
 
 ## External links {#External_links}
 

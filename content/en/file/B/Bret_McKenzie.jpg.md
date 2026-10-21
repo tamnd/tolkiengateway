@@ -1,6 +1,5 @@
 ---
 title: "File:Bret McKenzie.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bret McKenzie.jpg</span>"
 page_id: 46898
 namespace: 6
 revision_id: 248784

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Over Hill and Under Hill"
 ---
 
-Redirect to [Over Hill and Under Hill](/wiki/Over_Hill_and_Under_Hill).
+Redirect to [Over Hill and Under Hill](Over_Hill_and_Under_Hill.md).

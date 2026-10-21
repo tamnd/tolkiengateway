@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maeglin"
 ---
 
-Redirect to [Maeglin](/wiki/Maeglin).
+Redirect to [Maeglin](../M/Maeglin.md).

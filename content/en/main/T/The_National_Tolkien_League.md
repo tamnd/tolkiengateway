@@ -1,6 +1,5 @@
 ---
 title: "The National Tolkien League"
-display_title: "<span class=\"mw-page-title-main\">The National Tolkien League</span>"
 page_id: 30593
 namespace: 0
 revision_id: 202522
@@ -17,6 +16,6 @@ sort_keys:
   "Tolkien Societies": "National Tolkien League"
 ---
 
-**The National Tolkien League** was an [American Tolkien Society](/wiki/American_Tolkien_Society), founded in [1973](/wiki/1973). They have had a continuous publication since at least [1977](/wiki/1977), going under the name *Preliminary Journal of the National Tolkien League*, *Frodo Fortnightly* and *Ardalindë*.
+**The National Tolkien League** was an [American Tolkien Society](../A/American_Tolkien_Society.md), founded in [1973](../_/1973.md). They have had a continuous publication since at least [1977](../_/1977.md), going under the name *Preliminary Journal of the National Tolkien League*, *Frodo Fortnightly* and *Ardalindë*.
 
 As off December 2011, the National Tolkien League has no web presence nor is any information known.

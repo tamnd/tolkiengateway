@@ -1,6 +1,5 @@
 ---
 title: "Khazad-Dûm Pt.2 (Silent Caverns)"
-display_title: "<span class=\"mw-page-title-main\">Khazad-Dûm Pt.2 (Silent Caverns)</span>"
 page_id: 22352
 namespace: 0
 revision_id: 81614
@@ -13,7 +12,7 @@ categories:
   - "Songs by Battlelore"
 ---
 
-<i><b>Khazad-Dûm Pt.2 (Silent Caverns)</b></i> is a song by the epic metal band [Battlelore](/wiki/Battlelore). It appears in their second full-length album, [Sword's Song](/wiki/Sword%27s_Song), released in [2003](/wiki/2003).
+<i><b>Khazad-Dûm Pt.2 (Silent Caverns)</b></i> is a song by the epic metal band [Battlelore](../B/Battlelore.md). It appears in their second full-length album, [Sword's Song](../S/Sword's_Song.md), released in [2003](../_/2003.md).
 
 ## Lyrics {#Lyrics}
 

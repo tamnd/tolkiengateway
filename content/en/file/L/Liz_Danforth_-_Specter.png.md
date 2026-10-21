@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Specter.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Specter.png</span>"
 page_id: 30636
 namespace: 6
 revision_id: 275068
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Specter* by [Liz Danforth](/wiki/Liz_Danforth), appearing in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](/wiki/Pete_Fenlon "Pete Fenlon"), *[Creatures of Middle-earth (2nd edition)](</wiki/Creatures_of_Middle-earth_(2nd_edition)>)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2012, 1994) .
+*Specter* by [Liz Danforth](../../main/L/Liz_Danforth.md), appearing in Ruth Sochard Pitt, Jeff O'Hare, [Peter C. Fenlon, Jr.](../../main/P/Pete_Fenlon.md), *[Creatures of Middle-earth (2nd edition)](<../../main/C/Creatures_of_Middle-earth_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2012, 1994) .
 
 ## Licensing {#Licensing}
 

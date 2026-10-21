@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Journal of Tolkien Research"
 ---
 
-Redirect to [Journal of Tolkien Research](/wiki/Journal_of_Tolkien_Research).
+Redirect to [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md).

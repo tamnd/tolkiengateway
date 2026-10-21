@@ -13,17 +13,17 @@ categories:
   - "Telerin nouns"
 ---
 
-**tassa** is the [Telerin](/wiki/Telerin) name for the "index finger".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**tassa** is the [Telerin](Telerin.md) name for the "index finger".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=TAS&amp;action=edit&amp;redlink=1" title="TAS (page does not exist)">TAS</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=TAS&amp;action=edit&amp;redlink=1" title="TAS (page does not exist)">TAS</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p.5</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_48.md" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p.5</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_47" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.11</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_47.md" title="Vinyar Tengwar 47"><i>Vinyar Tengwar</i>, Number 47</a>, February 2005, p.11</span>
 </li>
 </ol></div>

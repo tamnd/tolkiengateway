@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hanna Goldworthy"
 ---
 
-Redirect to [Hanna Goldworthy](/wiki/Hanna_Goldworthy).
+Redirect to [Hanna Goldworthy](Hanna_Goldworthy.md).

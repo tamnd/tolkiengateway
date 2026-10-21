@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Taurobel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Taurobel.png</span>"
 page_id: 57327
 namespace: 6
 revision_id: 345962
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Heraldic device of Taurobel, i.e. [Tavrobel](/wiki/Tavrobel), extracted from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), "The Alphabet of Rúmil &amp; Early Noldorin Fragments", in [*Parma Eldalamberon* XIII](/wiki/Parma_Eldalamberon_13 "Parma Eldalamberon 13") (edited by [Carl F. Hostetter](/wiki/Carl_F._Hostetter), [Christopher Gilson](/wiki/Christopher_Gilson), [Arden R. Smith](/wiki/Arden_R._Smith), [Patrick H. Wynne](/wiki/Patrick_H._Wynne), and [Bill Welden](/wiki/Bill_Welden)), p. 94.
+Heraldic device of Taurobel, i.e. [Tavrobel](../../main/T/Tavrobel.md), extracted from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), "The Alphabet of Rúmil &amp; Early Noldorin Fragments", in [*Parma Eldalamberon* XIII](../../main/P/Parma_Eldalamberon_13.md) (edited by [Carl F. Hostetter](../../main/C/Carl_F._Hostetter.md), [Christopher Gilson](../../main/C/Christopher_Gilson.md), [Arden R. Smith](../../main/A/Arden_R._Smith.md), [Patrick H. Wynne](../../main/P/Patrick_H._Wynne.md), and [Bill Welden](../../main/B/Bill_Welden.md)), p. 94.
 
 ## Licensing {#Licensing}
 

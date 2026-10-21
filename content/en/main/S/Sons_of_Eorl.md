@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eorlingas"
 ---
 
-Redirect to [Eorlingas](/wiki/Eorlingas).
+Redirect to [Eorlingas](../E/Eorlingas.md).

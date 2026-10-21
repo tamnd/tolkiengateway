@@ -1,6 +1,5 @@
 ---
 title: "File:Masterpieces of Terror and the Supernatural.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Masterpieces of Terror and the Supernatural.jpg</span>"
 page_id: 28386
 namespace: 6
 revision_id: 214533

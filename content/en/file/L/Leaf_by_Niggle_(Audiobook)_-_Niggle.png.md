@@ -1,6 +1,5 @@
 ---
 title: "File:Leaf by Niggle (Audiobook) - Niggle.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leaf by Niggle (Audiobook) - Niggle.png</span>"
 page_id: 68937
 namespace: 6
 revision_id: 412362
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Niggle](/wiki/Niggle) as depicted on the cover of the [HarperCollins](/wiki/HarperCollins) [audiobook](/wiki/Audiobooks "Audiobooks") recording of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[Leaf by Niggle](/wiki/Leaf_by_Niggle)*.
+[Niggle](../../main/N/Niggle.md) as depicted on the cover of the [HarperCollins](../../main/H/HarperCollins.md) [audiobook](../../main/A/Audiobooks.md) recording of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s *[Leaf by Niggle](../../main/L/Leaf_by_Niggle.md)*.
 
 ## Licensing {#Licensing}
 

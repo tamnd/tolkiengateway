@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärenya"
 ---
 
-Redirect to [Eärenya](/wiki/Eärenya).
+Redirect to [Eärenya](Eärenya.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Return of the King - Vorondil.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Return of the King - Vorondil.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Vorondil.jpg).
+Redirect to [File:The Lord of the Rings - The Return of the King - Vorondil.jpg](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Vorondil.jpg.md).

@@ -1,6 +1,5 @@
 ---
 title: "The Music of the Lord of the Rings Films (composition)"
-display_title: "<span class=\"mw-page-title-main\">The Music of the Lord of the Rings Films (composition)</span>"
 page_id: 71354
 namespace: 0
 revision_id: 440558
@@ -19,26 +18,22 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
 <p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
+</blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the music composition for the Lord of the Rings films</b>. For the book about the composition for The Lord of the Rings trilogy, see <b><a href="/wiki/The_Music_of_the_Lord_of_the_Rings_Films" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></b>.</div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the music composition for the Lord of the Rings films</b>. For the book about the composition for The Lord of the Rings trilogy, see <b><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></b>.</div></div>
 
 Howard Shore's compositions for *The Lord of the Rings* and *The Hobbit*, together with work by Howard, Plan 9, David Long and Stephen Gallagher for *The War of the Rohirrim*, *The Rings of Power* Season One and other projects represent a musico-dramatic oeuvre covering about 24 hours of music. This music is based on folk-like melodies, often stepwise; triadic harmony (though not generally stable in terms of key) and massed orchestrations, often ornamented by worldly instruments outside the orchestral replete.
 
 The compositions include:
 
-1. [The Rings of Power season one](</wiki/Category:The_Lord_of_the_Rings:_The_Rings_of_Power_(Season_One:_Amazon_Original_Series_Soundtrack)> "Category:The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)"): Only the opening titles ([Howard Shore](/wiki/Howard_Shore)) and source songs (Plan 9 and David Long).
-2. [The War of the Rohirrim](/wiki/The_Lord_of_the_Rings:_The_War_of_the_Rohirrim "The Lord of the Rings: The War of the Rohirrim") ([Stephen Gallagher](/wiki/Stephen_Gallagher), David Long using themes by Howard Shore and Plan 9)
-3. [The Hobbit film trilogy (soundtracks)](</wiki/Category:The_Hobbit_(film_series)_soundtracks> "Category:The Hobbit (film series) soundtracks"), including the announcement trailer (Shore, Plan 9, Long, Gallagher *et al*)
-4. [The Lord of the Rings film trilogy (soundtracks)](</wiki/Category:The_Lord_of_the_Rings_(film_series)_soundtracks> "Category:The Lord of the Rings (film series) soundtracks"), including the second Return of the King trailer (Shore, Plan 9, Long *et al*)
+1. [The Rings of Power season one](<../../category/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>): Only the opening titles ([Howard Shore](../H/Howard_Shore.md)) and source songs (Plan 9 and David Long).
+2. [The War of the Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) ([Stephen Gallagher](../S/Stephen_Gallagher.md), David Long using themes by Howard Shore and Plan 9)
+3. [The Hobbit film trilogy (soundtracks)](<../../category/T/The_Hobbit_(film_series)_soundtracks.md>), including the announcement trailer (Shore, Plan 9, Long, Gallagher *et al*)
+4. [The Lord of the Rings film trilogy (soundtracks)](<../../category/T/The_Lord_of_the_Rings_(film_series)_soundtracks.md>), including the second Return of the King trailer (Shore, Plan 9, Long *et al*)
 5. Additional pieces for the concert stage (Howard Shore) or *in situ* for the Hobbiton set (Plan 9 and David Long).
 
 ## Orchestration {#Orchestration}
@@ -1021,6 +1016,6 @@ The score relies on a large number of recurring associative themes (also known a
 </td></tr></tbody></table>
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Eric Rawlins (17 July 2006)</span>. <span class="cite-web-article"><a class="external text" href="https://www.woodzie.org/lotr/expansive.htm" rel="noreferrer noopener" target="_blank">&#34;Musical Themes in &#34;The Lord of the Rings&#34;&#34;</a></span>. <span class="cite-web-website">Woodzie</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Eric Rawlins (17 July 2006)</span>. <span class="cite-web-article"><a class="external text" href="https://www.woodzie.org/lotr/expansive.htm" rel="noreferrer noopener" target="_blank">&#34;Musical Themes in &#34;The Lord of the Rings&#34;&#34;</a></span>. <span class="cite-web-website">Woodzie</span></cite></span>
 </li>
 </ol></div>

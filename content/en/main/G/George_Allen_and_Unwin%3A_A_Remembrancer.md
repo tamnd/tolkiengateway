@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George Allen & Unwin: A Remembrancer"
 ---
 
-Redirect to [George Allen &amp; Unwin: A Remembrancer](/wiki/George_Allen_&_Unwin:_A_Remembrancer).
+Redirect to [George Allen &amp; Unwin: A Remembrancer](George_Allen_&_Unwin%253A_A_Remembrancer.md).

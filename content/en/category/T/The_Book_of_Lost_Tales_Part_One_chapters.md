@@ -17,4 +17,4 @@ sort_keys:
   "The Book of Lost Tales": "Book of Lost Tales 1"
 ---
 
-This category lists <b><i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i> chapters</b>.
+This category lists <b><i><a class="mw-redirect" href="../../main/T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i> chapters</b>.

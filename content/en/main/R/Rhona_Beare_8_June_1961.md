@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rhona Beare (8 June 1961)"
 ---
 
-Redirect to [Letter to Rhona Beare (8 June 1961)](/wiki/Letter_to_Rhona_Beare_(8_June_1961)).
+Redirect to [Letter to Rhona Beare (8 June 1961)](<../L/Letter_to_Rhona_Beare_(8_June_1961).md>).

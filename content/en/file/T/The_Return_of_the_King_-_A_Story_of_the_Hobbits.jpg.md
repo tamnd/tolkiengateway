@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King - A Story of the Hobbits.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King - A Story of the Hobbits.jpg</span>"
 page_id: 71855
 namespace: 6
 revision_id: 428044
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Return of the King: The Story of the Hobbits](/wiki/The_Return_of_the_King:_The_Story_of_the_Hobbits) cover
+[The Return of the King: The Story of the Hobbits](../../main/T/The_Return_of_the_King%253A_The_Story_of_the_Hobbits.md) cover
 
 ## Licensing {#Licensing}
 

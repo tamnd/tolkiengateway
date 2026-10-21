@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Conventions"
 ---
 
-Redirect to [Category:Conventions](/wiki/Category:Conventions).
+Redirect to [Category:Conventions](../../category/C/Conventions.md).

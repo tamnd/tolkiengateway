@@ -13,11 +13,11 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-<i><b>An Interview with J.R.R.T.</b></i> is a [recorded interview](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien "Index:Audio recordings of J.R.R. Tolkien") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) by [Denys Gueroult](/wiki/Denys_Gueroult) in January [1965](/wiki/1965).
+<i><b>An Interview with J.R.R.T.</b></i> is a [recorded interview](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) by [Denys Gueroult](../D/Denys_Gueroult.md) in January [1965](../_/1965.md).
 
-The title 'An Interview with J.R.R.T.' comes from a transcription of the interview published in [*Minas Tirith Evening-Star* (Volume 8, Number 2)](</wiki/Minas_Tirith_Evening-Star_(Volume_8,_Number_2)> "Minas Tirith Evening-Star (Volume 8, Number 2)"). The edited interview was first broadcast in January [1971](/wiki/1971) as part of the [BBC](/wiki/BBC) Radio 4 book review programme *Now Read On*.
+The title 'An Interview with J.R.R.T.' comes from a transcription of the interview published in [*Minas Tirith Evening-Star* (Volume 8, Number 2)](<../M/Minas_Tirith_Evening-Star_(Volume_8,_Number_2).md>). The edited interview was first broadcast in January [1971](../_/1971.md) as part of the [BBC](../B/BBC.md) Radio 4 book review programme *Now Read On*.
 
-Parts of the interview that were edited out from the broadcast were published in Zak Cramer's article "Jewish Influences in Middle-earth" (*[Mallorn 44](/wiki/Mallorn_44)*).
+Parts of the interview that were edited out from the broadcast were published in Zak Cramer's article "Jewish Influences in Middle-earth" (*[Mallorn 44](../M/Mallorn_44.md)*).
 
 ## External links {#External_links}
 

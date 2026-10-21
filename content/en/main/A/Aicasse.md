@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aikasse"
 ---
 
-Redirect to [Aikasse](/wiki/Aikasse).
+Redirect to [Aikasse](Aikasse.md).

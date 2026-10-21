@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Zimrahin"
 ---
 
-Redirect to [Zimrahin](/wiki/Zimrahin).
+Redirect to [Zimrahin](../Z/Zimrahin.md).

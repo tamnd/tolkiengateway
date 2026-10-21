@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bandobras Took"
 ---
 
-Redirect to [Bandobras Took](/wiki/Bandobras_Took).
+Redirect to [Bandobras Took](../B/Bandobras_Took.md).

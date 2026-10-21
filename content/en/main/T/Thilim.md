@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silmo"
 ---
 
-Redirect to [Silmo](/wiki/Silmo).
+Redirect to [Silmo](../S/Silmo.md).

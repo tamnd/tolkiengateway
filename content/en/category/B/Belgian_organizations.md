@@ -1,6 +1,5 @@
 ---
 title: "Category:Belgian organizations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Belgian organizations</span>"
 page_id: 35405
 namespace: 14
 revision_id: 166486

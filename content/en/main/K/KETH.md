@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "KEÞ"
 ---
 
-Redirect to [KEÞ](/wiki/KEÞ).
+Redirect to [KEÞ](KEÞ.md).

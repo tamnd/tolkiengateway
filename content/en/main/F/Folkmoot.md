@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Folkmoot for Judgement"
 ---
 
-Redirect to [Folkmoot for Judgement](/wiki/Folkmoot_for_Judgement).
+Redirect to [Folkmoot for Judgement](Folkmoot_for_Judgement.md).

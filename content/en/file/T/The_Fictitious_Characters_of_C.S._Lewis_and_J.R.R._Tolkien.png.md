@@ -1,6 +1,5 @@
 ---
 title: "File:The Fictitious Characters of C.S. Lewis and J.R.R. Tolkien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fictitious Characters of C.S. Lewis and J.R.R. Tolkien.png</span>"
 page_id: 37739
 namespace: 6
 revision_id: 214633

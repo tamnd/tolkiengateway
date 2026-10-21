@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Ahmet Can Kahraman"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Ahmet Can Kahraman</span>"
 page_id: 58038
 namespace: 4
 revision_id: 322185
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kahraman, Ahmet Can"
 ---
 
-- Ahmet Can Kahraman has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Ahmet_Can_Kahraman "Category:Images by Ahmet Can Kahraman") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Ahmet Can Kahraman has kindly granted his permission to use [his artwork](../../category/I/Images_by_Ahmet_Can_Kahraman.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 23 August 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

@@ -15,16 +15,16 @@ sort_keys:
   "Parma Nölé": "Parma Nole 05"
 ---
 
-<b><i>Parma Nölé</i> 5</b> is the fifth issue of the [North East Tolkien Society](/wiki/North_East_Tolkien_Society) journal *[Parma Nölé](/wiki/Parma_N%C3%B6l%C3%A9)*, for Winter [2002](/wiki/2002)-[2003](/wiki/2003).
+<b><i>Parma Nölé</i> 5</b> is the fifth issue of the [North East Tolkien Society](../N/North_East_Tolkien_Society.md) journal *[Parma Nölé](Parma_Nölé.md)*, for Winter [2002](../_/2002.md)-[2003](../_/2003.md).
 
 ## Contents {#Contents}
 
 - "Letters from the Fellowship"
-- Cynthia Duprey: "[Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") in the Classroom"
-- <a class="new" href="/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Musings on Myth"
-- <a class="new" href="/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "The New York City Screening of:" *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)* ([Extended Edition](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)> "The Lord of the Rings: The Fellowship of the Ring (extended edition)"))
+- Cynthia Duprey: "[Tolkien](../J/J.R.R._Tolkien.md) in the Classroom"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Musings on Myth"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stephanie_Kushner&amp;action=edit&amp;redlink=1" title="Stephanie Kushner (page does not exist)">Stephanie Kushner</a>: "The New York City Screening of:" *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([Extended Edition](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>))
 
-- <a class="new" href="/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>:"[Jude Fisher](/wiki/Jude_Fisher)'s *[The Lord of the Rings: The Two Towers Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion)* (review)
-- Donald Barr: "[May 1](/wiki/1_May "1 May"), [1955](/wiki/1955) Book Review *[The Two Towers](/wiki/The_Two_Towers)*: Shadowy World of Men and Hobbits
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>:"[Jude Fisher](../J/Jude_Fisher.md)'s *[The Lord of the Rings: The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)* (review)
+- Donald Barr: "[May 1](../_/1_May.md), [1955](../_/1955.md) Book Review *[The Two Towers](../T/The_Two_Towers.md)*: Shadowy World of Men and Hobbits
 - Sean Gates: "In Defense of the Screenwriters"
-- "[Brian Sibley](/wiki/Brian_Sibley)'s *[The Lord of the Rings: The Making of the Movie Trilogy](/wiki/The_Lord_of_the_Rings:_The_Making_of_the_Movie_Trilogy)*" (review)
+- "[Brian Sibley](../B/Brian_Sibley.md)'s *[The Lord of the Rings: The Making of the Movie Trilogy](../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md)*" (review)

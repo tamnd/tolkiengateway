@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Joel Kilpatrick"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Joel Kilpatrick</span>"
 page_id: 50330
 namespace: 14
 revision_id: 373743

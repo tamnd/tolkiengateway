@@ -1,6 +1,5 @@
 ---
 title: "File:Root and Branch — Approaches towards Understanding Tolkien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Root and Branch — Approaches towards Understanding Tolkien.jpg</span>"
 page_id: 53619
 namespace: 6
 revision_id: 350870

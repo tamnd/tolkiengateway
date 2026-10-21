@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline/First Age"
 ---
 
-Redirect to [Timeline/First Age](/wiki/Timeline/First_Age).
+Redirect to [Timeline/First Age](Timeline%252FFirst_Age.md).

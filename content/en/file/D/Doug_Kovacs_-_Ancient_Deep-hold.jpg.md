@@ -1,6 +1,5 @@
 ---
 title: "File:Doug Kovacs - Ancient Deep-hold.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Doug Kovacs - Ancient Deep-hold.jpg</span>"
 page_id: 73230
 namespace: 6
 revision_id: 433348
@@ -36,8 +35,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Doug Kovacs - Ancient Deep-hold.jpg</span></th>
 <td class="description">
 <p><i>Ancient Deep-hold</i>. 
-Created for <a href="/wiki/Middle-earth:_The_Balrog" title="Middle-earth: The Balrog">Middle-earth: The Balrog</a> of
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Created for <a href="../../main/M/Middle-earth%253A_The_Balrog.md" title="Middle-earth: The Balrog">Middle-earth: The Balrog</a> of
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
 </p>
 </td>
 </tr>
@@ -45,8 +44,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1998</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Doug Kovacs</td>
@@ -55,7 +52,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.comicartfans.com/gallerypiece.asp?piece=1294972" rel="noreferrer noopener" target="_blank">Comic Art Fan</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

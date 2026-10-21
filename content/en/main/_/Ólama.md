@@ -17,11 +17,11 @@ sort_keys:
   "Linguistic terms": "Olama"
 ---
 
-**Ólama** means "consonant" in [Quenya](/wiki/Quenya).
+**Ólama** means "consonant" in [Quenya](../Q/Quenya.md).
 
 ## Etymology {#Etymology}
 
-The word seems to derive from the [PQ](/wiki/PQ) [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=LAM&amp;action=edit&amp;redlink=1" title="LAM (page does not exist)">LAM</a> (q.v.)
+The word seems to derive from the [PQ](../P/PQ.md) [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=LAM&amp;action=edit&amp;redlink=1" title="LAM (page does not exist)">LAM</a> (q.v.)
 
 ## Examples {#Examples}
 

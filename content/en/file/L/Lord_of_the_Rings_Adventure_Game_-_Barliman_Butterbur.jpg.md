@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Barliman Butterbur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Barliman Butterbur.jpg</span>"
 page_id: 71245
 namespace: 6
 revision_id: 425057
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Barliman Butterbur](/wiki/Barliman_Butterbur) - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Barliman Butterbur](../../main/B/Barliman_Butterbur.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Gilminuial-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gilminuial-1-.jpg</span>"
 page_id: 35694
 namespace: 6
 revision_id: 318795
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The ship Gilminuial in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+The ship Gilminuial in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

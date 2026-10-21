@@ -1,6 +1,5 @@
 ---
 title: "Dior (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Dior (disambiguation)</span>"
 page_id: 5201
 namespace: 0
 revision_id: 284147
@@ -28,16 +27,16 @@ images:
   - "Disambig.png"
 ---
 
-**Dior** translates as "Successor" in [Sindarin](/wiki/Sindarin) and can refer to:
+**Dior** translates as "Successor" in [Sindarin](../S/Sindarin.md) and can refer to:
 
-- **[Dior Eluchíl](/wiki/Dior "Dior") ([F.A.](/wiki/First_Age "First Age") [470](/wiki/First_Age_470 "First Age 470") - [506](/wiki/First_Age_506 "First Age 506")), son of [Beren](/wiki/Beren) and [Lúthien](/wiki/L%C3%BAthien), and [King of Doriath](/wiki/King_of_Doriath), who was killed in the [Second Kinslaying](/wiki/Second_Kinslaying).**
-- [Dior](</wiki/Dior_(Steward_of_Gondor)> "Dior (Steward of Gondor)") ([T.A.](/wiki/Third_Age "Third Age") [2328](/wiki/Third_Age_2328 "Third Age 2328") - [2435](/wiki/Third_Age_2435 "Third Age 2435")), ninth [Ruling Steward](/wiki/Ruling_Steward) of [Gondor](/wiki/Gondor).
+- **[Dior Eluchíl](Dior.md) ([F.A.](../F/First_Age.md) [470](../F/First_Age_470.md) - [506](../F/First_Age_506.md)), son of [Beren](../B/Beren.md) and [Lúthien](../L/Lúthien.md), and [King of Doriath](../K/King_of_Doriath.md), who was killed in the [Second Kinslaying](../S/Second_Kinslaying.md).**
+- [Dior](<Dior_(Steward_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [2328](../T/Third_Age_2328.md) - [2435](../T/Third_Age_2435.md)), ninth [Ruling Steward](../R/Ruling_Steward.md) of [Gondor](../G/Gondor.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Dior_(disambiguation)" title="Special:WhatLinksHere/:Dior (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Dior_(disambiguation)" title="Special:WhatLinksHere/:Dior (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

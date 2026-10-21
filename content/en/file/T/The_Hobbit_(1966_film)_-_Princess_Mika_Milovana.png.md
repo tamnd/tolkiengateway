@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Princess Mika Milovana.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Princess Mika Milovana.png](/wiki/File:The_Hobbit_(1967_film)_-_Princess_Mika_Milovana.png).
+Redirect to [File:The Hobbit (1967 film) - Princess Mika Milovana.png](<The_Hobbit_(1967_film)_-_Princess_Mika_Milovana.png.md>).

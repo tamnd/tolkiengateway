@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "HarperCollins"
 ---
 
-Redirect to [HarperCollins](/wiki/HarperCollins).
+Redirect to [HarperCollins](HarperCollins.md).

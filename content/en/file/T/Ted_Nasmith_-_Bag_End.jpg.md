@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - An Unexpected Morning Visit.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - An Unexpected Morning Visit.jpg](/wiki/File:Ted_Nasmith_-_An_Unexpected_Morning_Visit.jpg).
+Redirect to [File:Ted Nasmith - An Unexpected Morning Visit.jpg](Ted_Nasmith_-_An_Unexpected_Morning_Visit.jpg.md).

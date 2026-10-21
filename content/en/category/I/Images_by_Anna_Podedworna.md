@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Anna Podedworna"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Anna Podedworna</span>"
 page_id: 74892
 namespace: 14
 revision_id: 440664
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Podedworna, Anna"
 ---
 
-This category lists all **images by [Anna Podedworna](/wiki/Anna_Podedworna)**.
+This category lists all **images by [Anna Podedworna](../../main/A/Anna_Podedworna.md)**.

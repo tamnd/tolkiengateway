@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings OV 2005-pb.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings OV 2005-pb.gif</span>"
 page_id: 62835
 namespace: 6
 revision_id: 355580

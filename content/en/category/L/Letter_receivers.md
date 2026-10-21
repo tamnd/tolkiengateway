@@ -1,6 +1,5 @@
 ---
 title: "Category:Letter receivers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter receivers</span>"
 page_id: 20748
 namespace: 14
 revision_id: 159586
@@ -14,4 +13,4 @@ categories:
   - "Letters"
 ---
 
-This category lists people, companies and institutions who have been sent letters by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), either published in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)* or [elsewhere](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"").
+This category lists people, companies and institutions who have been sent letters by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), either published in *[The Letters of J.R.R. Tolkien](../../main/T/The_Letters_of_J.R.R._Tolkien.md)* or [elsewhere](../../main/L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md).

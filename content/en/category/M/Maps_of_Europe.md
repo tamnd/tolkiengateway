@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Maps (real-world)"
 ---
 
-Redirect to [Category:Maps (real-world)](/wiki/Category:Maps_(real-world)).
+Redirect to [Category:Maps (real-world)](<Maps_(real-world).md>).

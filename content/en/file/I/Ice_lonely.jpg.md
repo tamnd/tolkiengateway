@@ -1,6 +1,5 @@
 ---
 title: "File:Ice lonely.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ice lonely.jpg</span>"
 page_id: 25754
 namespace: 6
 revision_id: 249172

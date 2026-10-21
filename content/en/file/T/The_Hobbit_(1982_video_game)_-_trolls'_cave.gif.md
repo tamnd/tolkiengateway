@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (1982 video game) - trolls' cave.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (1982 video game) - trolls&#039; cave.gif</span>"
 page_id: 25519
 namespace: 6
 revision_id: 247514

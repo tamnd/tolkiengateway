@@ -11,4 +11,4 @@ redirect_target: "The Return of the King"
 redirect_fragment: "Book VI"
 ---
 
-Redirect to [The Return of the King](/wiki/The_Return_of_the_King#Book_VI).
+Redirect to [The Return of the King](../T/The_Return_of_the_King.md#Book_VI).

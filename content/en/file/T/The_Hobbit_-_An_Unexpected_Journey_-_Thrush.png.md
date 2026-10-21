@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Thrush.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Thrush.png</span>"
 page_id: 72324
 namespace: 6
 revision_id: 429835
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thrush](/wiki/Thrushes "Thrushes") - *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)*
+[Thrush](../../main/T/Thrushes.md) - *[The Hobbit: An Unexpected Journey](../../main/T/The_Hobbit%253A_An_Unexpected_Journey.md)*
 
 ## Licensing {#Licensing}
 

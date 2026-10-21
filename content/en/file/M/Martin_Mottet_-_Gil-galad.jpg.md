@@ -1,6 +1,5 @@
 ---
 title: "File:Martin Mottet - Gil-galad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Martin Mottet - Gil-galad.jpg</span>"
 page_id: 68288
 namespace: 6
 revision_id: 433837
@@ -34,4 +33,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Martin Mottet</li>
 <li><b>Website:</b> <a class="external text" href="https://martinmottet.com/" rel="noreferrer noopener" target="_blank">Martin Mottet&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Martin_Mottet" title="Tolkien Gateway:Copyrights/Martin Mottet">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMartin_Mottet.md" title="Tolkien Gateway:Copyrights/Martin Mottet">Permission for use on Tolkien Gateway</a></b></li></ul></div>

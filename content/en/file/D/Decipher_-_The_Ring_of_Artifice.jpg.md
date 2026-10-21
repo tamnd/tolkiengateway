@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - The Ring of Artifice.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - The Ring of Artifice.jpg</span>"
 page_id: 71091
 namespace: 6
 revision_id: 424484

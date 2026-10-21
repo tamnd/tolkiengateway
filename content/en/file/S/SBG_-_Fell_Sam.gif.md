@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Fell Sam.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Fell Sam.gif</span>"
 page_id: 11867
 namespace: 6
 revision_id: 203866

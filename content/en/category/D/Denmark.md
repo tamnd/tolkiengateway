@@ -1,6 +1,5 @@
 ---
 title: "Category:Denmark"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Denmark</span>"
 page_id: 35315
 namespace: 14
 revision_id: 166589

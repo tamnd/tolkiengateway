@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor (Tolkien Society)"
 ---
 
-Redirect to [Elanor (Tolkien Society)](/wiki/Elanor_(Tolkien_Society)).
+Redirect to [Elanor (Tolkien Society)](<Elanor_(Tolkien_Society).md>).

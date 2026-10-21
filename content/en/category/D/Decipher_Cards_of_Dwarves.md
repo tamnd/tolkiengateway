@@ -1,6 +1,5 @@
 ---
 title: "Category:Decipher Cards of Dwarves"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher Cards of Dwarves</span>"
 page_id: 22538
 namespace: 14
 revision_id: 436181

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (2003 video game)"
 ---
 
-Redirect to [The Hobbit (2003 video game)](/wiki/The_Hobbit_(2003_video_game)).
+Redirect to [The Hobbit (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>).

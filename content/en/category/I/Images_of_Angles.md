@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Angles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Angles</span>"
 page_id: 65398
 namespace: 14
 revision_id: 376601

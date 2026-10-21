@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Modern Reading.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Modern Reading.jpg</span>"
 page_id: 60571
 namespace: 6
 revision_id: 339948

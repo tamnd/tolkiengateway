@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Minas Morgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Minas Morgul.jpg</span>"
 page_id: 56433
 namespace: 6
 revision_id: 307543
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Minas Morgul](/wiki/Minas_Morgul) in [Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War).
+[Minas Morgul](../../main/M/Minas_Morgul.md) in [Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md).
 
 ## Licensing {#Licensing}
 

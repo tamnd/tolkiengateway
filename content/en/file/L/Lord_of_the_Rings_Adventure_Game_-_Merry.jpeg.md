@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Merry.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Merry.jpeg</span>"
 page_id: 71247
 namespace: 6
 revision_id: 425058
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Merry](/wiki/Meriadoc_Brandybuck "Meriadoc Brandybuck") - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)*
+[Merry](../../main/M/Meriadoc_Brandybuck.md) - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)*
 
 ## Licensing {#Licensing}
 

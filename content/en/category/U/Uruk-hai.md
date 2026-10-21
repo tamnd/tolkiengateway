@@ -1,6 +1,5 @@
 ---
 title: "Category:Uruk-hai"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Uruk-hai</span>"
 page_id: 31738
 namespace: 14
 revision_id: 175344
@@ -13,4 +12,4 @@ categories:
   - "Orcs"
 ---
 
-This category includes articles and categories relating to the [Uruk-hai](/wiki/Uruk-hai).
+This category includes articles and categories relating to the [Uruk-hai](../../main/U/Uruk-hai.md).

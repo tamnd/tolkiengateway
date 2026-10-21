@@ -1,6 +1,5 @@
 ---
 title: "File:The White Council - Bear.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The White Council - Bear.jpg</span>"
 page_id: 13407
 namespace: 6
 revision_id: 361062

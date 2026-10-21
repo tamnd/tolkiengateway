@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Roleplaying Adventure Game - welcome.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Roleplaying Adventure Game - welcome.jpg</span>"
 page_id: 70790
 namespace: 6
 revision_id: 422861

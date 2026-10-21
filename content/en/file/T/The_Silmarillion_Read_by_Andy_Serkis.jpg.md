@@ -1,6 +1,5 @@
 ---
 title: "File:The Silmarillion Read by Andy Serkis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Silmarillion Read by Andy Serkis.jpg</span>"
 page_id: 64838
 namespace: 6
 revision_id: 373812

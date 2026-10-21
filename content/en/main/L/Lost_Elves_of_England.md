@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ilkorindi"
 ---
 
-Redirect to [Ilkorindi](/wiki/Ilkorindi).
+Redirect to [Ilkorindi](../I/Ilkorindi.md).

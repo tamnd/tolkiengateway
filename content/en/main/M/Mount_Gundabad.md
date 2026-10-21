@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gundabad"
 ---
 
-Redirect to [Gundabad](/wiki/Gundabad).
+Redirect to [Gundabad](../G/Gundabad.md).

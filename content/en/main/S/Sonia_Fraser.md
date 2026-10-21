@@ -1,6 +1,5 @@
 ---
 title: "Sonia Fraser"
-display_title: "<span class=\"mw-page-title-main\">Sonia Fraser</span>"
 page_id: 6884
 namespace: 0
 revision_id: 407265
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Fraser, Sonia"
 ---
 
-**Sonia Fraser** is an English radio actress and stage director. During the 1980s, she was part of the [National Radio Company](/wiki/BBC "BBC")'s core cast. As such, she voiced the part of [Arwen](/wiki/Arwen) in [*The Lord of the Rings* 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcasted on BBC 4.
+**Sonia Fraser** is an English radio actress and stage director. During the 1980s, she was part of the [National Radio Company](../B/BBC.md)'s core cast. As such, she voiced the part of [Arwen](../A/Arwen.md) in [*The Lord of the Rings* 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcasted on BBC 4.
 
 ## External links {#External_links}
 

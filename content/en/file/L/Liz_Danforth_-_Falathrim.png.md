@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Falathrim.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Falathrim.png</span>"
 page_id: 33080
 namespace: 6
 revision_id: 274628
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by [Liz Danforth](/wiki/Liz_Danforth) appearing in Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Åke Rosenius, Martin Rundkvist, Erik, Rågvik, [Chris Seeman](/wiki/Chris_Seeman), Magnus Seter, *[Southern Gondor: The Land](/wiki/Southern_Gondor:_The_Land)* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2021, 1996) .
+Illustration by [Liz Danforth](../../main/L/Liz_Danforth.md) appearing in Jason Beresford, Anders Blixt, Mats Blomqvist, Gunnar Brolin, Jeff Hatch, Tim Innes, Åke Rosenius, Martin Rundkvist, Erik, Rågvik, [Chris Seeman](../../main/C/Chris_Seeman.md), Magnus Seter, *[Southern Gondor: The Land](../../main/S/Southern_Gondor%253A_The_Land.md)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2021, 1996) .
 
 ## Licensing {#Licensing}
 

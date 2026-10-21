@@ -1,6 +1,5 @@
 ---
 title: "Mirdautas Vras"
-display_title: "<span class=\"mw-page-title-main\">Mirdautas Vras</span>"
 page_id: 22253
 namespace: 0
 revision_id: 419724
@@ -13,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-**Mirdautas Vras** is a song by [Summoning](/wiki/Summoning). It is written in [Neo-Black Speech](/wiki/Neo-Black_Speech). It appears in their sixth full-lenght album, *[Oath Bound](/wiki/Oath_Bound)*, released in [2006](/wiki/2006). Mirdautas Vras means *It is a good day to kill* in this version of Black Speech.
+**Mirdautas Vras** is a song by [Summoning](../S/Summoning.md). It is written in [Neo-Black Speech](../N/Neo-Black_Speech.md). It appears in their sixth full-lenght album, *[Oath Bound](../O/Oath_Bound.md)*, released in [2006](../_/2006.md). Mirdautas Vras means *It is a good day to kill* in this version of Black Speech.
 
 ## Lyrics {#Lyrics}
 
@@ -48,9 +47,9 @@ On wolves with giant bloody fangs <br/>
 They take the storm and power <br/>
 Of Mordor through the world <br/>
 <br/>
-Fire and Ice, the <a href="/wiki/Nazg%C3%BBl" title="Nazgûl">Nazgûl</a> fly <br/>
+Fire and Ice, the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> fly <br/>
 It is a good day to kill! <br/>
 (Painted) red is Earth and sky <br/>
-Even <a href="/wiki/Manw%C3%AB" title="Manwë">Manwë</a> will bow down<br/>
+Even <a href="Manwë.md" title="Manwë">Manwë</a> will bow down<br/>
 </p>
 </div>

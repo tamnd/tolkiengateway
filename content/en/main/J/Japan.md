@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Japan"
 ---
 
-Redirect to [Category:Japan](/wiki/Category:Japan).
+Redirect to [Category:Japan](../../category/J/Japan.md).

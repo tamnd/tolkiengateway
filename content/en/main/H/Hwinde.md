@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hwindë"
 ---
 
-Redirect to [Hwindë](/wiki/Hwindë).
+Redirect to [Hwindë](Hwindë.md).

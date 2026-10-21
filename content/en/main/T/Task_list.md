@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Task list"
 ---
 
-Redirect to [Tolkien Gateway:Task list](/wiki/Tolkien_Gateway:Task_list).
+Redirect to [Tolkien Gateway:Task list](../../project/T/Task_list.md).

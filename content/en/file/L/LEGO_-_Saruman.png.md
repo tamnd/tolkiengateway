@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Saruman.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Saruman.png</span>"
 page_id: 73304
 namespace: 6
 revision_id: 433546
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Saruman](/wiki/Saruman) - [LEGO](/wiki/Lego "Lego") minifigure
+[Saruman](../../main/S/Saruman.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Magoun - Moral Geography of Middle-earth.png"
 ---
 
-Redirect to [File:John Magoun - Moral Geography of Middle-earth.png](/wiki/File:John_Magoun_-_Moral_Geography_of_Middle-earth.png).
+Redirect to [File:John Magoun - Moral Geography of Middle-earth.png](John_Magoun_-_Moral_Geography_of_Middle-earth.png.md).

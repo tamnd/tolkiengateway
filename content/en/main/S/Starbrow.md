@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Smith Smithson"
 ---
 
-Redirect to [Smith Smithson](/wiki/Smith_Smithson).
+Redirect to [Smith Smithson](Smith_Smithson.md).

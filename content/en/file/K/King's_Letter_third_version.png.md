@@ -1,6 +1,5 @@
 ---
 title: "File:King's Letter third version.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">King&#039;s Letter third version.png</span>"
 page_id: 64477
 namespace: 6
 revision_id: 370035

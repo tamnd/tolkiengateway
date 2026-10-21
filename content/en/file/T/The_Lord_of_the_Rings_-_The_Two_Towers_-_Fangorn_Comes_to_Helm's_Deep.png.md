@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Fangorn Comes to Helm's Deep.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Fangorn Comes to Helm&#039;s Deep.png</span>"
 page_id: 64021
 namespace: 6
 revision_id: 430816

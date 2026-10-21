@@ -1,6 +1,5 @@
 ---
 title: "Stanislava Pošustová"
-display_title: "<span class=\"mw-page-title-main\">Stanislava Pošustová</span>"
 page_id: 67169
 namespace: 0
 revision_id: 390043
@@ -27,8 +26,8 @@ She is the main translator of J. R. R. Tolkien's books into Czech. Her best know
 
 Tolkien's books (selected):
 
-- *Pán prstenů ([The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*)
-- *Silmarillion ([The Silmarillion](/wiki/The_Silmarillion))*
-- *Nedokončené příběhy* ([Unfinished Tales](/wiki/Unfinished_Tales))
-- *Příběhy z čarovné říše ([Tales from the Perilous Realm](/wiki/Tales_from_the_Perilous_Realm))*
-- *Tulák Rover ([Roverandom](/wiki/Roverandom))*
+- *Pán prstenů ([The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*)
+- *Silmarillion ([The Silmarillion](../T/The_Silmarillion.md))*
+- *Nedokončené příběhy* ([Unfinished Tales](../U/Unfinished_Tales.md))
+- *Příběhy z čarovné říše ([Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md))*
+- *Tulák Rover ([Roverandom](../R/Roverandom.md))*

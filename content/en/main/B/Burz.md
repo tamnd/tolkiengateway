@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Búrz"
 ---
 
-Redirect to [Búrz](/wiki/Búrz).
+Redirect to [Búrz](Búrz.md).

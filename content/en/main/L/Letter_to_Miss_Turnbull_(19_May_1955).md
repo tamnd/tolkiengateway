@@ -19,22 +19,22 @@ images:
   - "Miss_Turnbull_19_May_1955_(3).png"
 ---
 
-On [19 May](/wiki/19_May) [1955](/wiki/1955), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Miss Turnbull** of Whitby, Yorkshire.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [19 May](../_/19_May.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Miss Turnbull** of Whitby, Yorkshire.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Description:** Octavo, two pages, on one leaf with printed letterhead (76 Sandfield Road, Headington, Oxford). With the original envelope addressed in his hand; folded once across the centre to fit the envelope.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- **Publication:** The letter was quoted in *[Sotheby's English Literature and History 18 July 1991](/wiki/Sotheby%27s_English_Literature_and_History_18_July_1991)*.
+- **Publication:** The letter was quoted in *[Sotheby's English Literature and History 18 July 1991](../S/Sotheby's_English_Literature_and_History_18_July_1991.md)*.
 
 ## Contents (from the bookseller) {#Contents_(from_the_bookseller)}
 
 <center><ul class="gallery mw-gallery-packed-hover">
 		<li class="gallerybox" style="width: 95.333333333333px">
-			<div class="thumb" style="width: 93.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Miss_Turnbull_19_May_1955_(1).png"><img src="/w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/140px-Miss_Turnbull_19_May_1955_%281%29.png" decoding="async" loading="lazy" width="94" height="120" class="mw-file-element" srcset="/w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/211px-Miss_Turnbull_19_May_1955_%281%29.png 1.5x, /w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/281px-Miss_Turnbull_19_May_1955_%281%29.png 2x" data-file-width="471" data-file-height="603"/></a></span></div>
+			<div class="thumb" style="width: 93.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Miss_Turnbull_19_May_1955_(1).png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/140px-Miss_Turnbull_19_May_1955_%281%29.png" decoding="async" loading="lazy" width="94" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/211px-Miss_Turnbull_19_May_1955_%281%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b0/Miss_Turnbull_19_May_1955_%281%29.png/281px-Miss_Turnbull_19_May_1955_%281%29.png 2x" data-file-width="471" data-file-height="603"/></a></span></div>
 		</li>
 		<li class="gallerybox" style="width: 94px">
-			<div class="thumb" style="width: 92px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Miss_Turnbull_19_May_1955_(2).png"><img src="/w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/138px-Miss_Turnbull_19_May_1955_%282%29.png" decoding="async" loading="lazy" width="92" height="120" class="mw-file-element" srcset="/w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/208px-Miss_Turnbull_19_May_1955_%282%29.png 1.5x, /w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/277px-Miss_Turnbull_19_May_1955_%282%29.png 2x" data-file-width="460" data-file-height="598"/></a></span></div>
+			<div class="thumb" style="width: 92px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Miss_Turnbull_19_May_1955_(2).png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/138px-Miss_Turnbull_19_May_1955_%282%29.png" decoding="async" loading="lazy" width="92" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/208px-Miss_Turnbull_19_May_1955_%282%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Miss_Turnbull_19_May_1955_%282%29.png/277px-Miss_Turnbull_19_May_1955_%282%29.png 2x" data-file-width="460" data-file-height="598"/></a></span></div>
 		</li>
 		<li class="gallerybox" style="width: 178.66666666667px">
-			<div class="thumb" style="width: 176.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Miss_Turnbull_19_May_1955_(3).png"><img src="/w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/265px-Miss_Turnbull_19_May_1955_%283%29.png" decoding="async" loading="lazy" width="177" height="120" class="mw-file-element" srcset="/w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/397px-Miss_Turnbull_19_May_1955_%283%29.png 1.5x, /w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/529px-Miss_Turnbull_19_May_1955_%283%29.png 2x" data-file-width="814" data-file-height="554"/></a></span></div>
+			<div class="thumb" style="width: 176.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Miss_Turnbull_19_May_1955_(3).png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/265px-Miss_Turnbull_19_May_1955_%283%29.png" decoding="async" loading="lazy" width="177" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/397px-Miss_Turnbull_19_May_1955_%283%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/Miss_Turnbull_19_May_1955_%283%29.png/529px-Miss_Turnbull_19_May_1955_%283%29.png 2x" data-file-width="814" data-file-height="554"/></a></span></div>
 		</li>
 </ul></center>
 
@@ -42,8 +42,8 @@ Tolkien thanks Miss Turnbull for her 'munificent and magnificent gift' (apparent
 
 ## See also {#See_also}
 
-- [Letter to Miss Turnbull (11 March 1949)](</wiki/Letter_to_Miss_Turnbull_(11_March_1949)>)
-- [Letter to Miss Turnbull (2 May 1955)](</wiki/Letter_to_Miss_Turnbull_(2_May_1955)>)
+- [Letter to Miss Turnbull (11 March 1949)](<Letter_to_Miss_Turnbull_(11_March_1949).md>)
+- [Letter to Miss Turnbull (2 May 1955)](<Letter_to_Miss_Turnbull_(2_May_1955).md>)
 
 ## Notes {#Notes}
 
@@ -56,7 +56,7 @@ Tolkien thanks Miss Turnbull for her 'munificent and magnificent gift' (apparent
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 456</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 456</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.treloars.com/" rel="noreferrer noopener" target="_blank">Michael Treloar Antiquarian (Adelaide, SA, Australia)</a> (accessed 25 June 2010)</span>
 </li>

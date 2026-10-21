@@ -1,6 +1,5 @@
 ---
 title: "File:Niall Hoskin 16 October 1968 (1).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Niall Hoskin 16 October 1968 (1).jpg</span>"
 page_id: 33070
 namespace: 6
 revision_id: 215081

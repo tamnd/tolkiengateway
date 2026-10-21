@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helkar"
 ---
 
-Redirect to [Helkar](/wiki/Helkar).
+Redirect to [Helkar](Helkar.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Eruption of Orodruin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Eruption of Orodruin.jpg</span>"
 page_id: 63823
 namespace: 6
 revision_id: 412217
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Orodruin](/wiki/Mount_Doom "Mount Doom") erupts in episode [Udûn](</wiki/Ud%C3%BBn_(episode)> "Udûn (episode)") of the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Orodruin](../../main/M/Mount_Doom.md) erupts in episode [Udûn](<../../main/U/Udûn_(episode).md>) of the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

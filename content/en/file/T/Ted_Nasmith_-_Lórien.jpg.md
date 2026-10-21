@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ted Nasmith - Farewell to Lórien.jpg"
 ---
 
-Redirect to [File:Ted Nasmith - Farewell to Lórien.jpg](/wiki/File:Ted_Nasmith_-_Farewell_to_Lórien.jpg).
+Redirect to [File:Ted Nasmith - Farewell to Lórien.jpg](Ted_Nasmith_-_Farewell_to_Lórien.jpg.md).

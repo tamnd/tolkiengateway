@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lindórië"
 ---
 
-Redirect to [Lindórië](/wiki/Lindórië).
+Redirect to [Lindórië](Lindórië.md).

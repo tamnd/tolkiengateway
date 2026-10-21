@@ -1,6 +1,5 @@
 ---
 title: "File:Riccardo Federici - Sauron and Isildur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Riccardo Federici - Sauron and Isildur.jpg</span>"
 page_id: 74021
 namespace: 6
 revision_id: 436772
@@ -47,16 +46,14 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Oil painting</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Riccardo_Federici" title="Riccardo Federici">Riccardo Federici</a></td>
+<td><a href="../../main/R/Riccardo_Federici.md" title="Riccardo Federici">Riccardo Federici</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://x.com/RicFederici/status/2000127280031703551" rel="noreferrer noopener" target="_blank">https://x.com/RicFederici/status/2000127280031703551</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

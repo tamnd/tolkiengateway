@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dem"
 ---
 
-Redirect to [Dem](/wiki/Dem).
+Redirect to [Dem](Dem.md).

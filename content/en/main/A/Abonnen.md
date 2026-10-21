@@ -13,13 +13,13 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>abonnen</b></i> (*pl. ebœnnin*) is a [Sindarin](/wiki/Sindarin) word meaning:
+<i><b>abonnen</b></i> (*pl. ebœnnin*) is a [Sindarin](../S/Sindarin.md) word meaning:
 
 1. *adj.* Born later, born after
 2. *n.* Man, one born later than the elves, a human being
 
-Derived from *[ab-](/wiki/Ab- "Ab-")* + *[onnen](/wiki/Onnen "Onnen")* "after-born".
+Derived from *[ab-](Ab-.md)* + *[onnen](../O/Onnen.md)* "after-born".
 
 ## References {#References}
 
-- *[Hiswelókë's Sindarin dictionary](/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary) (Edition 1.6, Lexicon 0.993)*
+- *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë's_Sindarin_dictionary~30928.md) (Edition 1.6, Lexicon 0.993)*

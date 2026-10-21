@@ -1,6 +1,5 @@
 ---
 title: "Category:Quenya pronouns"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Quenya pronouns</span>"
 page_id: 22509
 namespace: 14
 revision_id: 219796
@@ -16,4 +15,4 @@ sort_keys:
   "Quenya words": "Pronouns"
 ---
 
-[Quenya](/wiki/Quenya) pronouns.
+[Quenya](../../main/Q/Quenya.md) pronouns.

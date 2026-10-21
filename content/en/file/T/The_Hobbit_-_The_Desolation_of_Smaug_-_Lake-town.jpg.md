@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - The Desolation of Smaug - Lake-town.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - The Desolation of Smaug - Lake-town.jpg</span>"
 page_id: 56405
 namespace: 6
 revision_id: 307567
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Lake-town from *[The Hobbit: The Desolation of Smaug](/wiki/The_Hobbit:_The_Desolation_of_Smaug)*.
+Lake-town from *[The Hobbit: The Desolation of Smaug](../../main/T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.
 
 ## Licensing {#Licensing}
 

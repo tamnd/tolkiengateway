@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Soundtracks"
 ---
 
-Redirect to [Category:Soundtracks](/wiki/Category:Soundtracks).
+Redirect to [Category:Soundtracks](../../category/S/Soundtracks.md).

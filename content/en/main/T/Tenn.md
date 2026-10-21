@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tenna"
 ---
 
-Redirect to [Tenna](/wiki/Tenna).
+Redirect to [Tenna](Tenna.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Robert Clardy"
 ---
 
-Redirect to [Robert Clardy](/wiki/Robert_Clardy).
+Redirect to [Robert Clardy](Robert_Clardy.md).

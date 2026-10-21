@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Società Tolkieniana Italiana"
 ---
 
-Redirect to [Società Tolkieniana Italiana](/wiki/Società_Tolkieniana_Italiana).
+Redirect to [Società Tolkieniana Italiana](../S/Società_Tolkieniana_Italiana.md).

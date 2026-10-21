@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caer"
 ---
 
-Redirect to [Caer](/wiki/Caer).
+Redirect to [Caer](../C/Caer.md).

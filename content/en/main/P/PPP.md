@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Prancing Pony Podcast"
 ---
 
-Redirect to [The Prancing Pony Podcast](/wiki/The_Prancing_Pony_Podcast).
+Redirect to [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md).

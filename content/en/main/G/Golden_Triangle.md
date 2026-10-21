@@ -1,6 +1,5 @@
 ---
 title: "Golden Triangle"
-display_title: "<span class=\"mw-page-title-main\">Golden Triangle</span>"
 page_id: 27666
 namespace: 0
 revision_id: 190100
@@ -14,7 +13,7 @@ categories:
   - "Video Game developers"
 ---
 
-**Golden Triangle** was the developer of the [1989](/wiki/1989) video game *[Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Golden Triangle** was the developer of the [1989](../_/1989.md) video game *[Belegost](<../B/Belegost_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

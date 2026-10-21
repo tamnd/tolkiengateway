@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Healed"
 ---
 
-Redirect to [Arda Healed](/wiki/Arda_Healed).
+Redirect to [Arda Healed](Arda_Healed.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tumladen (Gondor)"
 ---
 
-Redirect to [Tumladen (Gondor)](/wiki/Tumladen_(Gondor)).
+Redirect to [Tumladen (Gondor)](<Tumladen_(Gondor).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Shaun G. McClure"
-display_title: "<span class=\"mw-page-title-main\">Shaun G. McClure</span>"
 page_id: 30297
 namespace: 0
 revision_id: 134768
@@ -17,7 +16,7 @@ sort_keys:
   "People by name": "McClure, Shaun G."
 ---
 
-**Shaun G. McClure** is a game designer who - with [John Wilson](/wiki/John_Wilson) - designed the video game parody *[Fuddo and Slam](/wiki/Fuddo_and_Slam)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Shaun G. McClure** is a game designer who - with [John Wilson](../J/John_Wilson.md) - designed the video game parody *[Fuddo and Slam](../F/Fuddo_and_Slam.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

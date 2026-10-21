@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - King Theoden and Wormtongue.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - King Theoden and Wormtongue.jpg</span>"
 page_id: 72365
 namespace: 6
 revision_id: 429942
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[King](/wiki/King_of_Rohan "King of Rohan") [Theoden](/wiki/Th%C3%A9oden "Théoden") and [Wormtongue](/wiki/Gr%C3%ADma "Gríma")" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published in the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"[King](../../main/K/King_of_Rohan.md) [Theoden](../../main/T/Théoden.md) and [Wormtongue](../../main/G/Gríma.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published in the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

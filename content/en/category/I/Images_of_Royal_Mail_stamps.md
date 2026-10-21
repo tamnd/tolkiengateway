@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Royal Mail stamps"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Royal Mail stamps</span>"
 page_id: 13331
 namespace: 14
 revision_id: 197727

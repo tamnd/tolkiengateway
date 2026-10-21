@@ -1,6 +1,5 @@
 ---
 title: "File:The Languages of Tolkien's Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Languages of Tolkien&#039;s Middle-earth.jpg</span>"
 page_id: 5172
 namespace: 6
 revision_id: 214651

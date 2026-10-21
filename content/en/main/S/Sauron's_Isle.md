@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol Sirion"
 ---
 
-Redirect to [Tol Sirion](/wiki/Tol_Sirion).
+Redirect to [Tol Sirion](../T/Tol_Sirion.md).

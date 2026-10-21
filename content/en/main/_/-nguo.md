@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vomentienguo"
 ---
 
-Redirect to [Vomentienguo](/wiki/Vomentienguo).
+Redirect to [Vomentienguo](../V/Vomentienguo.md).

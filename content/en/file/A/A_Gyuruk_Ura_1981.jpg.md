@@ -1,6 +1,5 @@
 ---
 title: "File:A Gyuruk Ura 1981.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Gyuruk Ura 1981.jpg</span>"
 page_id: 43666
 namespace: 6
 revision_id: 350750

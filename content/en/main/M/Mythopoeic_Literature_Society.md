@@ -1,6 +1,5 @@
 ---
 title: "Mythopoeic Literature Society"
-display_title: "<span class=\"mw-page-title-main\">Mythopoeic Literature Society</span>"
 page_id: 36979
 namespace: 0
 revision_id: 406728
@@ -13,19 +12,19 @@ categories:
   - "Tolkien Societies"
 ---
 
-**The Mythopoeic Literature Society of Australia**, was a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") and mythical literature society in Australia. This society was presumably an Australian counterpart of the US based [Mythopoeic Society](/wiki/Mythopoeic_Society).
+**The Mythopoeic Literature Society of Australia**, was a [Tolkien society](../T/Tolkien_Societies~67099.md) and mythical literature society in Australia. This society was presumably an Australian counterpart of the US based [Mythopoeic Society](Mythopoeic_Society.md).
 
 ## History {#History}
 
-As of [2024](/wiki/2024), only scattered references to this society can be found.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is therefore assumed that this society is now defunct. This society appears to have been active from the mid 1980s through the early 1990s.
+As of [2024](../_/2024.md), only scattered references to this society can be found.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It is therefore assumed that this society is now defunct. This society appears to have been active from the mid 1980s through the early 1990s.
 
 ## Publications {#Publications}
 
 This society published:
 
-- [1986](/wiki/1986): *The Nameless Wood: Victorian Fantasists, their Achievement, their Influence*: Proceedings of the Second Annual Conference of the Inner Ring, the Mythopoeic Literature Society of Australia, \[July\] 1986, University of New England, Armidale, N.S.W.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [1992](/wiki/1992): *Imaginings: the Eighth Annual Conference of the Inner Ring*: The Mythopoeic Literature Society of Australia, the University of Queensland, July 5–9, 1992<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- [1994](/wiki/1994): *The Journal of Myth, Fantasy &amp; Romanticism*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [1986](../_/1986.md): *The Nameless Wood: Victorian Fantasists, their Achievement, their Influence*: Proceedings of the Second Annual Conference of the Inner Ring, the Mythopoeic Literature Society of Australia, \[July\] 1986, University of New England, Armidale, N.S.W.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [1992](../_/1992.md): *Imaginings: the Eighth Annual Conference of the Inner Ring*: The Mythopoeic Literature Society of Australia, the University of Queensland, July 5–9, 1992<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [1994](../_/1994.md): *The Journal of Myth, Fantasy &amp; Romanticism*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

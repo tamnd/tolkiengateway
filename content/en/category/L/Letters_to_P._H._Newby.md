@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to P. H. Newby"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to P. H. Newby</span>"
 page_id: 67724
 namespace: 14
 revision_id: 395097
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Newby, P. H."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="extiw" href="http://en.wikipedia.org/wiki/P._H._Newby" title="wikipedia:P. H. Newby">P. H. Newby</a>.

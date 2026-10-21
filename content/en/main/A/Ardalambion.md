@@ -1,6 +1,5 @@
 ---
 title: "Ardalambion"
-display_title: "<span class=\"mw-page-title-main\">Ardalambion</span>"
 page_id: 11142
 namespace: 0
 revision_id: 367377
@@ -22,8 +21,8 @@ langlinks:
     url: "https://kontu.wiki/Ardalambion"
 ---
 
-**Ardalambion**, or <b><a class="external text" href="http://ardalambion.net" rel="noreferrer noopener" target="_blank">ardalambion.net</a></b>, is a linguistic website launched in [1997](/wiki/1997), concentrating on the languages of Tolkien in general. The website is maintained by [Helge Fauskanger](/wiki/Helge_Fauskanger).
+**Ardalambion**, or <b><a class="external text" href="http://ardalambion.net" rel="noreferrer noopener" target="_blank">ardalambion.net</a></b>, is a linguistic website launched in [1997](../_/1997.md), concentrating on the languages of Tolkien in general. The website is maintained by [Helge Fauskanger](../H/Helge_Fauskanger.md).
 
-It has articles on both the better-known languages, such as [Quenya](/wiki/Quenya) and [Sindarin](/wiki/Sindarin), and the lesser-known, such as [Telerin](/wiki/Telerin) and [Valarin](/wiki/Valarin). It also includes language courses and wordlists, word-by-word analyses of the corpus and other miscellaneous articles.
+It has articles on both the better-known languages, such as [Quenya](../Q/Quenya.md) and [Sindarin](../S/Sindarin.md), and the lesser-known, such as [Telerin](../T/Telerin.md) and [Valarin](../V/Valarin.md). It also includes language courses and wordlists, word-by-word analyses of the corpus and other miscellaneous articles.
 
 The name translates as "Of the languages of Arda".

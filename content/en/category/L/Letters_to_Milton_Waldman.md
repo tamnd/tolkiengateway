@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Milton Waldman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Milton Waldman</span>"
 page_id: 66660
 namespace: 14
 revision_id: 385973
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Waldman Milton"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Milton Waldman](/wiki/Milton_Waldman).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Milton Waldman](../../main/M/Milton_Waldman.md).

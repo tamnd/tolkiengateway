@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matěj Čadil - In western lands.jpg"
 ---
 
-Redirect to [File:Matěj Čadil - In western lands.jpg](/wiki/File:Matěj_Čadil_-_In_western_lands.jpg).
+Redirect to [File:Matěj Čadil - In western lands.jpg](../M/Matěj_Čadil_-_In_western_lands.jpg.md).

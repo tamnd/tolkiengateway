@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Clerkes Compleinte"
 ---
 
-Redirect to [The Clerkes Compleinte](/wiki/The_Clerkes_Compleinte).
+Redirect to [The Clerkes Compleinte](The_Clerkes_Compleinte.md).

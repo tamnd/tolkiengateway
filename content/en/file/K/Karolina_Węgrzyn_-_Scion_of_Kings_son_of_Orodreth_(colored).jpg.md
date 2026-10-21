@@ -1,6 +1,5 @@
 ---
 title: "File:Karolina Węgrzyn - Scion of Kings son of Orodreth (colored).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Karolina Węgrzyn - Scion of Kings son of Orodreth (colored).jpg</span>"
 page_id: 58600
 namespace: 6
 revision_id: 366086
@@ -29,19 +28,19 @@ file:
 
 ## Summary {#Summary}
 
-Ereinion [Gil-galad](/wiki/Gil-galad).
+Ereinion [Gil-galad](../../main/G/Gil-galad.md).
 
-<br> While in the published *[Silmarillion](/wiki/Silmarillion)* he is son of [Fingon](/wiki/Fingon), JRRT's final idea was to make him the son of [Orodreth](/wiki/Orodreth) (who himself got a generation younger and became son of [Angrod](/wiki/Angrod), instead of being his brother). This is colored version of the original b&amp;w illustration (visible below) to a polemics on his parentage in the jubilee 20th issue of the almanac [Aiglos](</wiki/Aiglos_(journal)> "Aiglos (journal)") (a Polish language issue). Done in Painter &amp; Photoshop 2015, colored in 2019.
+<br> While in the published *[Silmarillion](../../main/S/Silmarillion.md)* he is son of [Fingon](../../main/F/Fingon.md), JRRT's final idea was to make him the son of [Orodreth](../../main/O/Orodreth.md) (who himself got a generation younger and became son of [Angrod](../../main/A/Angrod.md), instead of being his brother). This is colored version of the original b&amp;w illustration (visible below) to a polemics on his parentage in the jubilee 20th issue of the almanac [Aiglos](<../../main/A/Aiglos_(journal).md>) (a Polish language issue). Done in Painter &amp; Photoshop 2015, colored in 2019.
 
 The son of Fingon variant:
 
-<span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_(colored).jpg"><img src="/w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/250px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg" decoding="async" loading="lazy" width="250" height="334" class="mw-file-element" srcset="/w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/375px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg 1.5x, /w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/500px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg 2x" data-file-width="800" data-file-height="1068"/></a></span>
+<span typeof="mw:File"><a class="mw-file-description" href="Karolina_Węgrzyn_-_Scion_of_Kings_son_of_Fingon_(colored).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/250px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg" decoding="async" loading="lazy" width="250" height="334" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/375px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c2/Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg/500px-Karolina_W%C4%99grzyn_-_Scion_of_Kings_son_of_Fingon_%28colored%29.jpg 2x" data-file-width="800" data-file-height="1068"/></a></span>
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Karolina Węgrzyn</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a></li>
+<ul><li><b>Name:</b> <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">Karolina Węgrzyn&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Karolina_W%C4%99grzyn" title="Tolkien Gateway:Copyrights/Karolina Węgrzyn">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKarolina_Węgrzyn.md" title="Tolkien Gateway:Copyrights/Karolina Węgrzyn">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Edward Johnson - Dior Eluchíl.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Edward Johnson - Dior Eluchíl.png</span>"
 page_id: 50963
 namespace: 6
 revision_id: 276588

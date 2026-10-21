@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "There Would Always Be a Fairy Tale"
 ---
 
-Redirect to [There Would Always Be a Fairy Tale](/wiki/There_Would_Always_Be_a_Fairy_Tale).
+Redirect to [There Would Always Be a Fairy Tale](There_Would_Always_Be_a_Fairy_Tale.md).

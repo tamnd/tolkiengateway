@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of devices and symbols"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of devices and symbols</span>"
 page_id: 59237
 namespace: 14
 revision_id: 328866

@@ -1,6 +1,5 @@
 ---
 title: "John Livesey"
-display_title: "<span class=\"mw-page-title-main\">John Livesey</span>"
 page_id: 19812
 namespace: 0
 revision_id: 349415
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Livesey, John"
 ---
 
-**John Livesey** (died [2022](/wiki/2022)) was an actor of the [BBC Repository Company](/wiki/BBC "BBC")'s core cast. He voiced several roles in the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)")*: [Otho Sackville-Baggins](/wiki/Otho_Sackville-Baggins), [Éothain](/wiki/%C3%89othain), a [Ruffian](/wiki/Ruffians "Ruffians") and an unspecified bit part.*
+**John Livesey** (died [2022](../_/2022.md)) was an actor of the [BBC Repository Company](../B/BBC.md)'s core cast. He voiced several roles in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*: [Otho Sackville-Baggins](../O/Otho_Sackville-Baggins.md), [Éothain](../_/Éothain.md), a [Ruffian](../R/Ruffians.md) and an unspecified bit part.*
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - Durin I the Deathless.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - Durin I the Deathless.jpg</span>"
 page_id: 69166
 namespace: 6
 revision_id: 413099
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"*[Durin I, the Deathless](/wiki/Durin_I "Durin I")*", by <a class="external text" href="https://www.deviantart.com/artigas/art/Durin-I-the-Deathless-1124523611" rel="noreferrer noopener" target="_blank">Artigas</a>
+"*[Durin I, the Deathless](../../main/D/Durin_I.md)*", by <a class="external text" href="https://www.deviantart.com/artigas/art/Durin-I-the-Deathless-1124523611" rel="noreferrer noopener" target="_blank">Artigas</a>
 
 <blockquote class="tg-quote noexcerpt">
 <p>Durin I the Deathless, the eldest and mightiest of the Dwarven kings, stands unmatched in the annals of Middle-earth. His name, whispered in reverence and awe, needs no lengthy recounting, for he is the father of his people, the first of the Longbeards, and the ancestor of nearly all Dwarves whose deeds grace the histories. A figure almost shrouded in legend, Durin is remembered by his folk with titles both grand and affectionate: The Grandfather of all Mountains, a name that speaks to his enduring stature and the reverence in which he is held.
@@ -40,8 +39,6 @@ file:
 <p class="tg-quote-footer"><cite>Artist&#39;s note</cite></p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Artigas</span></span>
@@ -49,4 +46,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">Artigas&#39;s DeviantArt account</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

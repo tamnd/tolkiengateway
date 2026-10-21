@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Númenóreans.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Númenóreans.jpg</span>"
 page_id: 64837
 namespace: 6
 revision_id: 438493
@@ -34,7 +33,7 @@ file:
 
 ## Summary {#Summary}
 
-[Númenóreans](/wiki/N%C3%BAmen%C3%B3reans) from the first season of [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Númenóreans](../../main/N/Númenóreans.md) from the first season of [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

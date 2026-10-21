@@ -1,6 +1,5 @@
 ---
 title: "File:John Noble.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John Noble.jpg</span>"
 page_id: 9760
 namespace: 6
 revision_id: 426651

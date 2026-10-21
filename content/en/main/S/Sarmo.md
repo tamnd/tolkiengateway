@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mahtan"
 ---
 
-Redirect to [Mahtan](/wiki/Mahtan).
+Redirect to [Mahtan](../M/Mahtan.md).

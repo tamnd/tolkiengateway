@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Silvan Elvish names"
 ---
 
-Redirect to [Category:Silvan Elvish names](/wiki/Category:Silvan_Elvish_names).
+Redirect to [Category:Silvan Elvish names](../S/Silvan_Elvish_names.md).

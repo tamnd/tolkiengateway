@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Hildifons Icon.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Hildifons Icon.png</span>"
 page_id: 71349
 namespace: 6
 revision_id: 425745
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Hildifons Took](/wiki/Hildifons_Took) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Hildifons Took](../../main/H/Hildifons_Took.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

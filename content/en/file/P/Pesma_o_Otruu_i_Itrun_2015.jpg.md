@@ -1,6 +1,5 @@
 ---
 title: "File:Pesma o Otruu i Itrun 2015.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pesma o Otruu i Itrun 2015.jpg</span>"
 page_id: 61833
 namespace: 6
 revision_id: 348532

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendil"
 ---
 
-Redirect to [Eärendil](/wiki/Eärendil).
+Redirect to [Eärendil](../E/Eärendil.md).

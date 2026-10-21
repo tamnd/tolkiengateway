@@ -18,23 +18,23 @@ langlinks:
     url: "https://kontu.wiki/Minuial"
 ---
 
-**minuial** was the [Sindarin](/wiki/Sindarin) name for the twilight of dawn, when the stars faded; an important time for the [Elves](/wiki/Elves). The twilight of dusk they named *[aduial](/wiki/Aduial "Aduial")*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**minuial** was the [Sindarin](../S/Sindarin.md) name for the twilight of dawn, when the stars faded; an important time for the [Elves](../E/Elves.md). The twilight of dusk they named *[aduial](../A/Aduial.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-As [Paul Strack](/wiki/Paul_Strack) explains, *minuial* is composed of *[min](/wiki/Min "Min")* ("one") + *[uial](/wiki/Uial "Uial")* ("twilight, evendim").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+As [Paul Strack](../P/Paul_Strack.md) explains, *minuial* is composed of *[min](Min.md)* ("one") + *[uial](../U/Uial.md)* ("twilight, evendim").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- *[tindómë](/wiki/Tind%C3%B3m%C3%AB "Tindómë")*
+- *[tindómë](../T/Tindómë.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_D" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;, p. 1111</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_D.md" title="Appendix D">Appendix D</a>, &#34;The Calendars&#34;, p. 1111</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Paul Strack</span>. <span class="cite-web-article"><a class="external text" href="https://eldamo.org/content/words/word-2850476043.html" rel="noreferrer noopener" target="_blank">&#34;S. <i>minuial</i> n.&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Eldamo" title="Eldamo">Eldamo - An Elvish Lexicon</a></span>. <span class="cite-web-accessed">Retrieved 31 December 2023</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Paul Strack</span>. <span class="cite-web-article"><a class="external text" href="https://eldamo.org/content/words/word-2850476043.html" rel="noreferrer noopener" target="_blank">&#34;S. <i>minuial</i> n.&#34;</a></span>. <span class="cite-web-website"><a href="../E/Eldamo.md" title="Eldamo">Eldamo - An Elvish Lexicon</a></span>. <span class="cite-web-accessed">Retrieved 31 December 2023</span></cite></span>
 </li>
 </ol></div>

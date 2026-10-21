@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**peng** is a [Sindarin](/wiki/Sindarin) word for *bow* (as in shooting; "bow and arrows"). Note its similarity to the sound of the twang of a bowstring.
+**peng** is a [Sindarin](../S/Sindarin.md) word for *bow* (as in shooting; "bow and arrows"). Note its similarity to the sound of the twang of a bowstring.

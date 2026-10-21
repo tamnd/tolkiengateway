@@ -13,19 +13,19 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>fuin</b></i> is the [Sindarin](/wiki/Sindarin) word for *night* or *darkness*. The [Quenya](/wiki/Quenya) equivalent is <i><a class="new" href="/w/index.php?title=Huin%C3%AB&amp;action=edit&amp;redlink=1" title="Huinë (page does not exist)">huinë</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>fuin</b></i> is the [Sindarin](../S/Sindarin.md) word for *night* or *darkness*. The [Quenya](../Q/Quenya.md) equivalent is <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Huin%C3%AB&amp;action=edit&amp;redlink=1" title="Huinë (page does not exist)">huinë</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Fuinur](/wiki/Fuinur)*
-- <i><a class="mw-redirect mw-disambig" href="/wiki/Taur-nu-Fuin" title="Taur-nu-Fuin">Taur-nu-Fuin</a></i>
-- *[Emyn-nu-Fuin](/wiki/Emyn-nu-Fuin)*
+- *[Fuinur](Fuinur.md)*
+- <i><a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a></i>
+- *[Emyn-nu-Fuin](../E/Emyn-nu-Fuin.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>fuin</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>fuin</i></span>
 </li>
 </ol></div>

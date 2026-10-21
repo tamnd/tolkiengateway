@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Kamila Szutenberg - Gúthwinë.jpeg"
 ---
 
-Redirect to [File:Kamila Szutenberg - Gúthwinë.jpeg](/wiki/File:Kamila_Szutenberg_-_Gúthwinë.jpeg).
+Redirect to [File:Kamila Szutenberg - Gúthwinë.jpeg](Kamila_Szutenberg_-_Gúthwinë.jpeg.md).

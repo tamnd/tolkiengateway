@@ -1,6 +1,5 @@
 ---
 title: "File:Tatyafinwe - Fingon the Valiant.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tatyafinwe - Fingon the Valiant.jpg</span>"
 page_id: 64999
 namespace: 6
 revision_id: 374421
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tatyafinwe</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/tatyafinwe" rel="noreferrer noopener" target="_blank">Tatyafinwe&#39;s DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tatyafinwe" title="Tolkien Gateway:Copyrights/Tatyafinwe">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTatyafinwe.md" title="Tolkien Gateway:Copyrights/Tatyafinwe">Permission for use on Tolkien Gateway</a></b></li></ul></div>

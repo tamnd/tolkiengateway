@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tunnelly Family"
 ---
 
-Redirect to [Tunnelly Family](/wiki/Tunnelly_Family).
+Redirect to [Tunnelly Family](Tunnelly_Family.md).

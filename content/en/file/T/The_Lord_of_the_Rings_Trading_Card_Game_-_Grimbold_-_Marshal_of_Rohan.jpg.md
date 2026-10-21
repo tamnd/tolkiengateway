@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Return of the King - Grimbold - Marshal of Rohan.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Return of the King - Grimbold - Marshal of Rohan.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Grimbold_-_Marshal_of_Rohan.jpg).
+Redirect to [File:The Lord of the Rings - The Return of the King - Grimbold - Marshal of Rohan.jpg](The_Lord_of_the_Rings_-_The_Return_of_the_King_-_Grimbold_-_Marshal_of_Rohan.jpg.md).

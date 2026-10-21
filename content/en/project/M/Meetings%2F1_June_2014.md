@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/1 June 2014"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/1 June 2014</span>"
 page_id: 46142
 namespace: 4
 revision_id: 244070
@@ -11,4 +10,4 @@ license: CC BY-SA 4.0
 source: Tolkien Gateway
 ---
 
-I plan to attend I think we should discuss changing and setting up a period of time that we think a featured article or quote should stay up for also a plan to reach out to new members that sign up to show them the ropes like an apprenticeship for a certain amount of grazing period [Throrin Longbeard](/wiki/User:Neumanjames_2010 "User:Neumanjames 2010") 04:21, 20 May 2014 (UTC)
+I plan to attend I think we should discuss changing and setting up a period of time that we think a featured article or quote should stay up for also a plan to reach out to new members that sign up to show them the ropes like an apprenticeship for a certain amount of grazing period [Throrin Longbeard](https://tolkiengateway.net/wiki/User:Neumanjames_2010) 04:21, 20 May 2014 (UTC)

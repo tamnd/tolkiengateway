@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Renée Vink"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Renée Vink</span>"
 page_id: 43770
 namespace: 4
 revision_id: 230581
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vink, Renee"
 ---
 
-- Permission kindly granted by copyright holder [Renée Vink](/wiki/Ren%C3%A9e_Vink) to use [Renee Vink.png](/wiki/File:Renee_Vink.png "File:Renee Vink.png") on Tolkien Gateway.
+- Permission kindly granted by copyright holder [Renée Vink](../../main/R/Renée_Vink.md) to use [Renee Vink.png](../../file/R/Renee_Vink.png.md) on Tolkien Gateway.
 - Date: 5 June 2013
-- User who sought the permission via private correspondence: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via private correspondence: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tengwar"
 ---
 
-Redirect to [Tengwar](/wiki/Tengwar).
+Redirect to [Tengwar](Tengwar.md).

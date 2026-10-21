@@ -1,6 +1,5 @@
 ---
 title: "File:John A. Neris.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">John A. Neris.jpeg</span>"
 page_id: 71389
 namespace: 6
 revision_id: 425913
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Promotional photograph of [John A. Neris](/wiki/John_A._Neris) for [*The Lord of the Rings (1978 film)*](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)") - Source <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm1138325504/?ref_=ttmi_mi_22_2" rel="noreferrer noopener" target="_blank">[1]</a>
+Promotional photograph of [John A. Neris](../../main/J/John_A._Neris.md) for [*The Lord of the Rings (1978 film)*](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>) - Source <a class="external autonumber" href="https://www.imdb.com/title/tt0077869/mediaviewer/rm1138325504/?ref_=ttmi_mi_22_2" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

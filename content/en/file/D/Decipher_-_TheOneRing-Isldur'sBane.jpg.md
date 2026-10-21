@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - TheOneRing-Isldur'sBane.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - TheOneRing-Isldur&#039;sBane.jpg</span>"
 page_id: 22535
 namespace: 6
 revision_id: 211690

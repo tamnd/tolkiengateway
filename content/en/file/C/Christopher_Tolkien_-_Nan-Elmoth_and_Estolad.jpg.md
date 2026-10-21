@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Tolkien - Nan-Elmoth and Estolad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Tolkien - Nan-Elmoth and Estolad.jpg</span>"
 page_id: 56247
 namespace: 6
 revision_id: 306352
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Estolad](/wiki/Estolad), [Nan Elmoth](/wiki/Nan_Elmoth) and [Celon](/wiki/Celon), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](</wiki/File:Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg>).
+Map of [Estolad](../../main/E/Estolad.md), [Nan Elmoth](../../main/N/Nan_Elmoth.md) and [Celon](../../main/C/Celon.md), derived from [File:Christopher Tolkien - Map of Beleriand (colored by H.E. Riddett).jpg](<Christopher_Tolkien_-_Map_of_Beleriand_(colored_by_H.E._Riddett).jpg.md>).
 
 ## Licensing {#Licensing}
 

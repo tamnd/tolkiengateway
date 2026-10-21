@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turgon (Steward of Gondor)"
 ---
 
-Redirect to [Turgon (Steward of Gondor)](/wiki/Turgon_(Steward_of_Gondor)).
+Redirect to [Turgon (Steward of Gondor)](<Turgon_(Steward_of_Gondor).md>).

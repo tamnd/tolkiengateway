@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farmer Maggot"
 ---
 
-Redirect to [Farmer Maggot](/wiki/Farmer_Maggot).
+Redirect to [Farmer Maggot](../F/Farmer_Maggot.md).

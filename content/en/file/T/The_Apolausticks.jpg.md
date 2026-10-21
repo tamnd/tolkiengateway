@@ -1,6 +1,5 @@
 ---
 title: "File:The Apolausticks.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Apolausticks.jpg</span>"
 page_id: 48556
 namespace: 6
 revision_id: 259868

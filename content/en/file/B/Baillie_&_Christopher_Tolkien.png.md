@@ -1,6 +1,5 @@
 ---
 title: "File:Baillie & Christopher Tolkien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Baillie &amp; Christopher Tolkien.png</span>"
 page_id: 71114
 namespace: 6
 revision_id: 424648
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Baillie](/wiki/Baillie_Tolkien "Baillie Tolkien") and [Christopher Tolkien](/wiki/Christopher_Tolkien) - Source: <a class="external text" href="https://www.youtube.com/watch?v=j1sF3jHwBk0" rel="noreferrer noopener" target="_blank">AU 2024 Baillie Tolkien - &#34;Christopher Tolkien at 100&#34; celebration (Oxford Bodleian)</a>
+[Baillie](../../main/B/Baillie_Tolkien.md) and [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) - Source: <a class="external text" href="https://www.youtube.com/watch?v=j1sF3jHwBk0" rel="noreferrer noopener" target="_blank">AU 2024 Baillie Tolkien - &#34;Christopher Tolkien at 100&#34; celebration (Oxford Bodleian)</a>
 
 ## Licensing {#Licensing}
 

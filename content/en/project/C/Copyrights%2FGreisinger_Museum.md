@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Greisinger Museum"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Greisinger Museum</span>"
 page_id: 43071
 namespace: 4
 revision_id: 252716
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Greisinger Museum"
 ---
 
-- Permission granted by the [Greisinger Museum](/wiki/Greisinger_Museum) through copyright holder Bernd Greisinger to use a selection of images appearing the website <a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Gmec.ch</a> on Tolkien Gateway.
+- Permission granted by the [Greisinger Museum](../../main/G/Greisinger_Museum.md) through copyright holder Bernd Greisinger to use a selection of images appearing the website <a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Gmec.ch</a> on Tolkien Gateway.
 - Date: 24 February 2014
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

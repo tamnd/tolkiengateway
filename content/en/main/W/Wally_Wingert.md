@@ -1,6 +1,5 @@
 ---
 title: "Wally Wingert"
-display_title: "<span class=\"mw-page-title-main\">Wally Wingert</span>"
 page_id: 22802
 namespace: 0
 revision_id: 222222
@@ -21,12 +20,12 @@ sort_keys:
   "People by name": "Wingert, Wally"
 ---
 
-**Wallace Eugene Wingert** ([May 6](/wiki/6_May "6 May"), [1961](/wiki/1961)) is an American actor, voice actor and comedian.
+**Wallace Eugene Wingert** ([May 6](../_/6_May.md), [1961](../_/1961.md)) is an American actor, voice actor and comedian.
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Dwarf Narrator, Rohan Warrior, Goblin, Elf Builder
-- [2003](/wiki/2003): [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)"): [Balfor](/wiki/Balfor), Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Dwarf Narrator, Rohan Warrior, Goblin, Elf Builder
+- [2003](../_/2003.md): [*The Hobbit* (2003 video game)](<../T/The_Hobbit_(2003_video_game).md>): [Balfor](../B/Balfor.md), Additional voices
 
 ## External links {#External_links}
 

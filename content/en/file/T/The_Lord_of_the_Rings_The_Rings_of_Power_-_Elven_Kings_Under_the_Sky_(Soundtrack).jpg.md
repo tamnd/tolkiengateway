@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings The Rings of Power - Elven Kings Under the Sky (Soundtrack).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings The Rings of Power - Elven Kings Under the Sky (Soundtrack).jpg</span>"
 page_id: 72449
 namespace: 6
 revision_id: 430532
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover art for the soundtrack of the first episode of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* season 2, "\[\[Elven Kings Under the Sky \]\]".
+Cover art for the soundtrack of the first episode of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* season 2, "\[\[Elven Kings Under the Sky \]\]".
 
 ## Licensing {#Licensing}
 

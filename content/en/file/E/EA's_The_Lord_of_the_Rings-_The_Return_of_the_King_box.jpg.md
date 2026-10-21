@@ -1,6 +1,5 @@
 ---
 title: "File:EA's The Lord of the Rings- The Return of the King box.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">EA&#039;s The Lord of the Rings- The Return of the King box.jpg</span>"
 page_id: 20537
 namespace: 6
 revision_id: 329298
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-PS2 box art for [EA's The Return of the King](/wiki/EA%27s_The_Return_of_the_King) video game.
+PS2 box art for [EA's The Return of the King](../../main/E/EA's_The_Return_of_the_King.md) video game.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Logo STB Wiki.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Logo STB Wiki.png</span>"
 page_id: 38322
 namespace: 6
 revision_id: 186140
@@ -24,7 +23,7 @@ file:
   user: "Stbtolkien"
 ---
 
-Official trademark of **[Logomarca Sociedade de Tolkien Brasileira](/wiki/The_Brazilian_Tolkien_Society "The Brazilian Tolkien Society")**.
+Official trademark of **[Logomarca Sociedade de Tolkien Brasileira](../../main/T/The_Brazilian_Tolkien_Society.md)**.
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Official trademark of **[Logomarca Sociedade de Tolkien Brasileira](/wiki/The_Br
 </p>
 <ul><li><b>Name:</b> The Brazilian Tolkien Society</li>
 <li><b>Website:</b> <a class="external free" href="http://jrrtolkien.com.br/site/" rel="noreferrer noopener" target="_blank">http://jrrtolkien.com.br/site/</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/The_Brazilian_Tolkien_Society" title="Tolkien Gateway:Copyrights/The Brazilian Tolkien Society">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FThe_Brazilian_Tolkien_Society.md" title="Tolkien Gateway:Copyrights/The Brazilian Tolkien Society">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Rings of Power Adar Infobox 3.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rings of Power Adar Infobox 3.png</span>"
 page_id: 68929
 namespace: 6
 revision_id: 415404
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Adar](</wiki/Adar_(The_Rings_of_Power)> "Adar (The Rings of Power)") in the second season of *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+[Adar](<../../main/A/Adar_(The_Rings_of_Power).md>) in the second season of *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

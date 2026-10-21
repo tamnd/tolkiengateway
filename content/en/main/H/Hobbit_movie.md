@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit (film series)"
 ---
 
-Redirect to [The Hobbit (film series)](/wiki/The_Hobbit_(film_series)).
+Redirect to [The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>).

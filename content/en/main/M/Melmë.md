@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Melme"
 ---
 
-Redirect to [Melme](/wiki/Melme).
+Redirect to [Melme](Melme.md).

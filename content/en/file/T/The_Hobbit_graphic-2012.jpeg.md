@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit graphic-2012.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit graphic-2012.jpeg</span>"
 page_id: 62713
 namespace: 6
 revision_id: 353944

@@ -1,6 +1,5 @@
 ---
 title: "File:Andrea Piparo - The Black Easterling (detail).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Andrea Piparo - The Black Easterling (detail).jpg</span>"
 page_id: 71710
 namespace: 6
 revision_id: 427952
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[The Black Easterling](/wiki/Kham%C3%BBl "Khamûl")" by [Andrea Piparo](/wiki/Category:Images_by_Andrea_Piparo "Category:Images by Andrea Piparo") for *[War of the Ring: The Card Game](/wiki/War_of_the_Ring:_The_Card_Game)*. Piparo's website names him 'Shargul' whilst the official card uses "The Black Easterling", a name for [Khamûl](/wiki/Kham%C3%BBl).
+"[The Black Easterling](../../main/K/Khamûl.md)" by [Andrea Piparo](../../category/I/Images_by_Andrea_Piparo.md) for *[War of the Ring: The Card Game](../../main/W/War_of_the_Ring%253A_The_Card_Game.md)*. Piparo's website names him 'Shargul' whilst the official card uses "The Black Easterling", a name for [Khamûl](../../main/K/Khamûl.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Andrea Piparo and Ares Games for the War of the Ring - the card game</li>
 <li><b>Website:</b> <a class="external text" href="https://www.facebook.com/AndreaPiparoArt" rel="noreferrer noopener" target="_blank">Andrea Piparo</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Andrea_Piparo" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAndrea_Piparo.md" title="Tolkien Gateway:Copyrights/Andrea Piparo">Permission for use on Tolkien Gateway</a></b></li></ul></div>

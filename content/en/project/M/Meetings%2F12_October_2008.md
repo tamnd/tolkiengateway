@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/12 October 2008"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/12 October 2008</span>"
 page_id: 20622
 namespace: 4
 revision_id: 201982
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 12 October 2008</i>, 7pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 12 October 2008</i>, 7pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -81,21 +78,21 @@ sort_keys:
 <tr>
 <td>Open meeting and check attendance.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr>
 <tr>
-<td>&#34;Book vs. Movie&#34; and &#34;Tolkien vs. Jackson&#34; articles. - On the above agenda suggestion I think those articles are not impartial (in my opinion): there is a clear pro-Tolkien bias with value judgements (<a class="new" href="/w/index.php?title=Tolkien_vs._Jackson:_Major_Differences_Between_Story_and_Screenplay&amp;action=edit&amp;redlink=1" title="Tolkien vs. Jackson: Major Differences Between Story and Screenplay (page does not exist)">this page</a> in particular) and I think they should be re-written; Sometimes it&#39;s not overly blatant, but in many areas there is an implicit snobbery against alterations the films made; even the titles of the articles seem to suggest that battle between the two and that one is incompatible with the other. At the very least I think all these articles need to be tidied up.
+<td>&#34;Book vs. Movie&#34; and &#34;Tolkien vs. Jackson&#34; articles. - On the above agenda suggestion I think those articles are not impartial (in my opinion): there is a clear pro-Tolkien bias with value judgements (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_vs._Jackson:_Major_Differences_Between_Story_and_Screenplay&amp;action=edit&amp;redlink=1" title="Tolkien vs. Jackson: Major Differences Between Story and Screenplay (page does not exist)">this page</a> in particular) and I think they should be re-written; Sometimes it&#39;s not overly blatant, but in many areas there is an implicit snobbery against alterations the films made; even the titles of the articles seem to suggest that battle between the two and that one is incompatible with the other. At the very least I think all these articles need to be tidied up.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>
 </td></tr>
 <tr>
 <td>End meeting.
 </td>
-<td><a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>
 </td></tr></tbody></table>
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/12_October_2008 "Tolkien Gateway talk:Meetings/12 October 2008")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/12_October_2008/Transcript "Tolkien Gateway:Meetings/12 October 2008/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/12_October_2008)
+- [Transcript](Meetings%252F12_October_2008%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

@@ -1,6 +1,5 @@
 ---
 title: "File:Elizabeth Solopova.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elizabeth Solopova.jpg</span>"
 page_id: 36262
 namespace: 6
 revision_id: 171901
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photography of [Elizabeth Solopova](/wiki/Elizabeth_Solopova).
+Photography of [Elizabeth Solopova](../../main/E/Elizabeth_Solopova.md).
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Photography of [Elizabeth Solopova](/wiki/Elizabeth_Solopova).
 </p>
 <ul><li><b>Name:</b> Elizabeth Solopova</li>
 <li><b>Website:</b> N/A</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Elizabeth_Solopova" title="Tolkien Gateway:Copyrights/Elizabeth Solopova">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FElizabeth_Solopova.md" title="Tolkien Gateway:Copyrights/Elizabeth Solopova">Permission for use on Tolkien Gateway</a></b></li></ul></div>

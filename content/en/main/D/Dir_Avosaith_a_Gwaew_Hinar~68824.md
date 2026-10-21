@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dir avosaith a gwaew hinar"
 ---
 
-Redirect to [Dir avosaith a gwaew hinar](/wiki/Dir_avosaith_a_gwaew_hinar).
+Redirect to [Dir avosaith a gwaew hinar](Dir_avosaith_a_gwaew_hinar.md).

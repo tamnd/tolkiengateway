@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Motion Picture Trilogy (Blu-ray)"
 ---
 
-Redirect to [The Lord of the Rings: The Motion Picture Trilogy (Blu-ray)](/wiki/The_Lord_of_the_Rings:_The_Motion_Picture_Trilogy_(Blu-ray)).
+Redirect to [The Lord of the Rings: The Motion Picture Trilogy (Blu-ray)](<The_Lord_of_the_Rings%253A_The_Motion_Picture_Trilogy_(Blu-ray).md>).

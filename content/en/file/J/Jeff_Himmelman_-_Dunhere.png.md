@@ -1,6 +1,5 @@
 ---
 title: "File:Jeff Himmelman - Dunhere.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jeff Himmelman - Dunhere.png</span>"
 page_id: 34732
 namespace: 6
 revision_id: 427706

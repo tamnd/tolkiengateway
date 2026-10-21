@@ -14,9 +14,9 @@ categories:
   - "Dutch books"
 ---
 
-<i><b>DirkJan 16</b></i> is a Dutch comic book featuring several strips dedicated to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). It is the 16th book of <a class="extiw" href="http://en.wikipedia.org/wiki/Mark_Retera" title="wikipedia:Mark Retera">Mark Retera</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/DirkJan" title="wikipedia:DirkJan">DirkJan</a></i> comic book series, and was first published in [October](/wiki/2010#October "2010") [2010](/wiki/2010).
+<i><b>DirkJan 16</b></i> is a Dutch comic book featuring several strips dedicated to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). It is the 16th book of <a class="extiw" href="http://en.wikipedia.org/wiki/Mark_Retera" title="wikipedia:Mark Retera">Mark Retera</a>'s <i><a class="extiw" href="http://en.wikipedia.org/wiki/DirkJan" title="wikipedia:DirkJan">DirkJan</a></i> comic book series, and was first published in [October](../_/2010.md#October) [2010](../_/2010.md).
 
-Retera often sets his strip in either historical or fictional settings, and chose [Middle-earth](/wiki/Middle-earth) for 5 three-panel strips (pages 30–31). In it, the characters take such long time to prepare that there is no room left for the actual quest, which is summarized only in the last panel as "they succeeded".
+Retera often sets his strip in either historical or fictional settings, and chose [Middle-earth](../M/Middle-earth.md) for 5 three-panel strips (pages 30–31). In it, the characters take such long time to prepare that there is no room left for the actual quest, which is summarized only in the last panel as "they succeeded".
 
 ## External links {#External_links}
 

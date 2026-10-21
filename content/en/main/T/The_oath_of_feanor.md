@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oath of Fëanor"
 ---
 
-Redirect to [Oath of Fëanor](/wiki/Oath_of_Fëanor).
+Redirect to [Oath of Fëanor](../O/Oath_of_Fëanor.md).

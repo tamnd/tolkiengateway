@@ -1,6 +1,5 @@
 ---
 title: "File:Letters to an American Lady.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to an American Lady.jpg</span>"
 page_id: 29653
 namespace: 6
 revision_id: 214523

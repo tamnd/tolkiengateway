@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring of Doom (video game)"
 ---
 
-Redirect to [Ring of Doom (video game)](/wiki/Ring_of_Doom_(video_game)).
+Redirect to [Ring of Doom (video game)](<../R/Ring_of_Doom_(video_game).md>).

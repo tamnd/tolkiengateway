@@ -1,6 +1,5 @@
 ---
 title: "Quenya lapseparma"
-display_title: "<span class=\"mw-page-title-main\">Quenya lapseparma</span>"
 page_id: 11143
 namespace: 0
 revision_id: 229234
@@ -18,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Quenya_lapseparma"
 ---
 
-**Quenya lapseparma** is a "*[Quenya](/wiki/Quenya) baby-book*": a translation of common Christian names into Quenya.
+**Quenya lapseparma** is a "*[Quenya](Quenya.md) baby-book*": a translation of common Christian names into Quenya.
 
 ## External links {#External_links}
 

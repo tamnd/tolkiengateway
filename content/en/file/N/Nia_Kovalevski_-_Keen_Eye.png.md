@@ -1,6 +1,5 @@
 ---
 title: "File:Nia Kovalevski - Keen Eye.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nia Kovalevski - Keen Eye.png</span>"
 page_id: 71828
 namespace: 6
 revision_id: 427958
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"Keen Eye" by [Nia Kovalevski](/wiki/Category:Images_by_Nia_Kovalevski "Category:Images by Nia Kovalevski")
+"Keen Eye" by [Nia Kovalevski](../../category/I/Images_by_Nia_Kovalevski.md)
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Nia Kovalevski</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/niakov" rel="noreferrer noopener" target="_blank">Nia Kovalevski&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Nia_Kovalevski" title="Tolkien Gateway:Copyrights/Nia Kovalevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNia_Kovalevski.md" title="Tolkien Gateway:Copyrights/Nia Kovalevski">Permission for use on Tolkien Gateway</a></b></li></ul></div>

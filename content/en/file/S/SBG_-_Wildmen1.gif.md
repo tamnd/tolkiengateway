@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Wildmen1.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Wildmen1.gif</span>"
 page_id: 11747
 namespace: 6
 revision_id: 204115

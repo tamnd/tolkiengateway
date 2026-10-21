@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Giants"
 ---
 
-Redirect to [Giants](/wiki/Giants).
+Redirect to [Giants](Giants.md).

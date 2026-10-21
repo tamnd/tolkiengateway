@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Erkenbrand"
 ---
 
-Redirect to [Erkenbrand](/wiki/Erkenbrand).
+Redirect to [Erkenbrand](../E/Erkenbrand.md).

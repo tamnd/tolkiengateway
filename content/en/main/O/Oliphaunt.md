@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oliphaunt (disambiguation)"
 ---
 
-Redirect to [Oliphaunt (disambiguation)](/wiki/Oliphaunt_(disambiguation)).
+Redirect to [Oliphaunt (disambiguation)](<Oliphaunt_(disambiguation).md>).

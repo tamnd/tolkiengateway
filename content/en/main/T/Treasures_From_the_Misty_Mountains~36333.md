@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures from the Misty Mountains"
 ---
 
-Redirect to [Treasures from the Misty Mountains](/wiki/Treasures_from_the_Misty_Mountains).
+Redirect to [Treasures from the Misty Mountains](Treasures_from_the_Misty_Mountains.md).

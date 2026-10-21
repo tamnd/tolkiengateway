@@ -1,6 +1,5 @@
 ---
 title: "File:Christopher Lee.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christopher Lee.jpg</span>"
 page_id: 9819
 namespace: 6
 revision_id: 247565

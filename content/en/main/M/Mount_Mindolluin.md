@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mindolluin"
 ---
 
-Redirect to [Mindolluin](/wiki/Mindolluin).
+Redirect to [Mindolluin](Mindolluin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ossë"
 ---
 
-Redirect to [Ossë](/wiki/Ossë).
+Redirect to [Ossë](Ossë.md).

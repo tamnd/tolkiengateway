@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Carl F. Hostetter"
 ---
 
-Redirect to [Carl F. Hostetter](/wiki/Carl_F._Hostetter).
+Redirect to [Carl F. Hostetter](Carl_F._Hostetter.md).

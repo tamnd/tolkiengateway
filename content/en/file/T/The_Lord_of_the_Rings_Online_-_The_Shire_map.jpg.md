@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - The Shire map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - The Shire map.jpg</span>"
 page_id: 38667
 namespace: 6
 revision_id: 349109
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [the Shire](/wiki/The_Shire "The Shire") as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [the Shire](../../main/T/The_Shire.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

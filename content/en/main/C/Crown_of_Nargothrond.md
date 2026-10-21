@@ -1,6 +1,5 @@
 ---
 title: "Crown of Nargothrond"
-display_title: "<span class=\"mw-page-title-main\">Crown of Nargothrond</span>"
 page_id: 73634
 namespace: 0
 revision_id: 435377
@@ -19,15 +18,15 @@ langlinks:
     url: "https://kontu.wiki/Nargothrondin_kruunu"
 ---
 
-The **Crown of Nargothrond** was a silver crown worn by [Finrod](/wiki/Finrod) and later [Orodreth](/wiki/Orodreth) in their roles as [king](/wiki/King_of_Nargothrond "King of Nargothrond") of [Nargothrond](/wiki/Nargothrond).
+The **Crown of Nargothrond** was a silver crown worn by [Finrod](../F/Finrod.md) and later [Orodreth](../O/Orodreth.md) in their roles as [king](../K/King_of_Nargothrond.md) of [Nargothrond](../N/Nargothrond.md).
 
-When his people were daunted by the words of [Celegorm](/wiki/Celegorm) and [Curufin](/wiki/Curufin), Finrod removed the crown and threw it to the ground. It was lifted up by [Edrahil](/wiki/Edrahil), and at his bidding Finrod bestowed it upon Orodreth.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+When his people were daunted by the words of [Celegorm](Celegorm.md) and [Curufin](Curufin.md), Finrod removed the crown and threw it to the ground. It was lifted up by [Edrahil](../E/Edrahil.md), and at his bidding Finrod bestowed it upon Orodreth.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Beren-1"><span class="mw-cite-backlink"><a href="#cite_ref-Beren_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="/wiki/Quenta_Silmarillion" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="/wiki/Of_Beren_and_L%C3%BAthien" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</span>
+<li id="cite_note-Beren-1"><span class="mw-cite-backlink"><a href="#cite_ref-Beren_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a>&#34;</span>
 </li>
 </ol></div>

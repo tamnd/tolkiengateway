@@ -1,6 +1,5 @@
 ---
 title: "Category:Mac OS X games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mac OS X games</span>"
 page_id: 48883
 namespace: 14
 revision_id: 262062

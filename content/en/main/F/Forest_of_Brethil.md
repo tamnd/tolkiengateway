@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brethil"
 ---
 
-Redirect to [Brethil](/wiki/Brethil).
+Redirect to [Brethil](../B/Brethil.md).

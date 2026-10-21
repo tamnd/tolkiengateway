@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien in the New Century.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien in the New Century.jpg</span>"
 page_id: 47030
 namespace: 6
 revision_id: 250322

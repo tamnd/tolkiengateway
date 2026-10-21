@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Osgiliath Invaded.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Osgiliath Invaded.png</span>"
 page_id: 64184
 namespace: 6
 revision_id: 366999
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*, "[Osgiliath Invaded](/wiki/Osgiliath_Invaded)".
+A still from the scene *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*, "[Osgiliath Invaded](../../main/O/Osgiliath_Invaded.md)".
 
 ## Licensing {#Licensing}
 

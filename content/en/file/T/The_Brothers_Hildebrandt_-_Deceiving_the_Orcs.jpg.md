@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Deceiving the Orcs.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Deceiving the Orcs.jpg</span>"
 page_id: 71588
 namespace: 6
 revision_id: 426863
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"Deceiving the [Orcs](/wiki/Orcs)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). Created in 2002, based off of sketches done in 1978, originally intended for the 1979 calendar.
+"Deceiving the [Orcs](../../main/O/Orcs.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created in 2002, based off of sketches done in 1978, originally intended for the 1979 calendar.
 
 ## Licensing {#Licensing}
 

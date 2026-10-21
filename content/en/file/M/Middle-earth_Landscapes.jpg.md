@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Landscapes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Landscapes.jpg</span>"
 page_id: 70352
 namespace: 6
 revision_id: 418667

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pass of Aglon"
 ---
 
-Redirect to [Pass of Aglon](/wiki/Pass_of_Aglon).
+Redirect to [Pass of Aglon](../P/Pass_of_Aglon.md).

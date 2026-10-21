@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ings"
 ---
 
-Redirect to [-ings](/wiki/-ings).
+Redirect to [-ings](-ings.md).

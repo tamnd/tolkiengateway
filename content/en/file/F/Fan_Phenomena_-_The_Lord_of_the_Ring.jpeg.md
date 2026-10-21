@@ -1,6 +1,5 @@
 ---
 title: "File:Fan Phenomena - The Lord of the Ring.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fan Phenomena - The Lord of the Ring.jpeg</span>"
 page_id: 52382
 namespace: 6
 revision_id: 285281

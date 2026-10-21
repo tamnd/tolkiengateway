@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters to Przemyslaw Mroczkowski (unknown date)"
 ---
 
-Redirect to [Letters to Przemyslaw Mroczkowski (unknown date)](/wiki/Letters_to_Przemyslaw_Mroczkowski_(unknown_date)).
+Redirect to [Letters to Przemyslaw Mroczkowski (unknown date)](<../L/Letters_to_Przemyslaw_Mroczkowski_(unknown_date).md>).

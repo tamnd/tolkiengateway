@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tarannon Falastur"
 ---
 
-Redirect to [Tarannon Falastur](/wiki/Tarannon_Falastur).
+Redirect to [Tarannon Falastur](../T/Tarannon_Falastur.md).

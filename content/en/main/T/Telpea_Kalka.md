@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valacirca"
 ---
 
-Redirect to [Valacirca](/wiki/Valacirca).
+Redirect to [Valacirca](../V/Valacirca.md).

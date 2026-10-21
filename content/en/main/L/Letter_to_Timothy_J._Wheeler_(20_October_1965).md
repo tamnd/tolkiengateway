@@ -17,11 +17,11 @@ images:
   - "Wheeler_1965_letter.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Wheeler_1965_letter.jpg"><img src="/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/300px-Wheeler_1965_letter.jpg" decoding="async" loading="lazy" width="300" height="231" class="mw-file-element" srcset="/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/450px-Wheeler_1965_letter.jpg 1.5x, /w/images/thumb/4/4b/Wheeler_1965_letter.jpg/600px-Wheeler_1965_letter.jpg 2x" data-file-width="800" data-file-height="616"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wheeler_1965_letter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/300px-Wheeler_1965_letter.jpg" decoding="async" loading="lazy" width="300" height="231" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/450px-Wheeler_1965_letter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/Wheeler_1965_letter.jpg/600px-Wheeler_1965_letter.jpg 2x" data-file-width="800" data-file-height="616"/></a><figcaption></figcaption></figure>
 
-On [20 October](/wiki/20_October) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to [Timothy J. Wheeler](/wiki/Timothy_J._Wheeler)**.
+On [20 October](../_/20_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md)**.
 
-- **Publication:** None. A photo and transcription of the letter was posted on the web site *[Tolkien Library](/wiki/Tolkien_Library)*, maintained by [Pieter Collier](/wiki/Pieter_Collier).
+- **Publication:** None. A photo and transcription of the letter was posted on the web site *[Tolkien Library](../T/Tolkien_Library.md)*, maintained by [Pieter Collier](../P/Pieter_Collier.md).
 
 ## Transcript {#Transcript}
 
@@ -29,8 +29,6 @@ On [20 October](/wiki/20_October) [1965](/wiki/1965), [J.R.R. Tolkien](/wiki/J.R
 <p>Dear Mr. Wheeler,<br/><br/>Thank you for your interest and support. Ballantine Books is about to bring out a paper-back edition revised by myself. This should make it worth the few cents difference in price, of which I shall receive about one third.<br/><br/>With kind regards,<br/>Yours sincerely,<br/>JRR Tolkien<br/><br/>P.S. It must be noted that Ace Books are acting legally, whether morally or not, and purchasers of their edition have no claim in law to a return of money.
 </p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## External links {#External_links}
 

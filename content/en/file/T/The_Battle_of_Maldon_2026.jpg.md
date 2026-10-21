@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Battle of Maldon 2026 pb.jpg"
 ---
 
-Redirect to [File:The Battle of Maldon 2026 pb.jpg](/wiki/File:The_Battle_of_Maldon_2026_pb.jpg).
+Redirect to [File:The Battle of Maldon 2026 pb.jpg](The_Battle_of_Maldon_2026_pb.jpg.md).

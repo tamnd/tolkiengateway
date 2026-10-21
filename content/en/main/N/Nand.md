@@ -11,4 +11,4 @@ redirect_target: "Nan (Sindarin noun)"
 redirect_fragment: "Noldorin/Doriathrin"
 ---
 
-Redirect to [Nan (Sindarin noun)](/wiki/Nan_(Sindarin_noun)#Noldorin/Doriathrin).
+Redirect to [Nan (Sindarin noun)](<Nan_(Sindarin_noun).md#Noldorin/Doriathrin>).

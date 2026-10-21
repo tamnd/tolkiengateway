@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fornost Erain"
 ---
 
-Redirect to [Fornost Erain](/wiki/Fornost_Erain).
+Redirect to [Fornost Erain](Fornost_Erain.md).

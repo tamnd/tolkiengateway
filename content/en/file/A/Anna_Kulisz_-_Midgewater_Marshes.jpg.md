@@ -1,6 +1,5 @@
 ---
 title: "File:Anna Kulisz - Midgewater Marshes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Anna Kulisz - Midgewater Marshes.jpg</span>"
 page_id: 47739
 namespace: 6
 revision_id: 254008
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Anna Kulisz</li>
 <li><b>Website:</b> <a class="external text" href="http://alasseaearello.deviantart.com/" rel="noreferrer noopener" target="_blank">Anna Kulisz&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Anna_Kulisz" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAnna_Kulisz.md" title="Tolkien Gateway:Copyrights/Anna Kulisz">Permission for use on Tolkien Gateway</a></b></li></ul></div>

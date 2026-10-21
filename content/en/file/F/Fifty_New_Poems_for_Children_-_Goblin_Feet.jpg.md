@@ -1,6 +1,5 @@
 ---
 title: "File:Fifty New Poems for Children - Goblin Feet.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fifty New Poems for Children - Goblin Feet.jpg</span>"
 page_id: 26371
 namespace: 6
 revision_id: 223230

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aiya"
 ---
 
-Redirect to [Aiya](/wiki/Aiya).
+Redirect to [Aiya](Aiya.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Weta Fx logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Weta Fx logo.jpg</span>"
 page_id: 63347
 namespace: 6
 revision_id: 359762

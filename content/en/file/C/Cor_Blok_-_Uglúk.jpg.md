@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Uglúk.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Uglúk.jpg</span>"
 page_id: 71510
 namespace: 6
 revision_id: 427500
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Uglúk](/wiki/Ugl%C3%BAk)" by [Cor Blok](/wiki/Cor_Blok).
+"[Uglúk](../../main/U/Uglúk.md)" by [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Licensing {#Licensing}
 

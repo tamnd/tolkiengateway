@@ -1,6 +1,5 @@
 ---
 title: "File:Daedalic Entertainment-Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Daedalic Entertainment-Logo.png</span>"
 page_id: 64578
 namespace: 6
 revision_id: 370979

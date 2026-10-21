@@ -1,6 +1,5 @@
 ---
 title: "Category:Interviews"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Interviews</span>"
 page_id: 17827
 namespace: 14
 revision_id: 107952
@@ -13,4 +12,4 @@ categories:
   - "Tolkien Gateway research"
 ---
 
-Interviews with, or relating to, [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and his works.
+Interviews with, or relating to, [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and his works.

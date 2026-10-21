@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kibil-nâla"
 ---
 
-Redirect to [Kibil-nâla](/wiki/Kibil-nâla).
+Redirect to [Kibil-nâla](../K/Kibil-nâla.md).

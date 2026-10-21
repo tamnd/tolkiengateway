@@ -1,6 +1,5 @@
 ---
 title: "Pain"
-display_title: "<span class=\"mw-page-title-main\">Pain</span>"
 page_id: 21595
 namespace: 0
 revision_id: 181222
@@ -13,19 +12,19 @@ categories:
   - "Telerin numbers"
 ---
 
-**pai** or **pain** is the [Telerin](/wiki/Telerin) for number "ten"
+**pai** or **pain** is the [Telerin](../T/Telerin.md) for number "ten"
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=KWA&amp;action=edit&amp;redlink=1" title="KWA (page does not exist)">KWA</a>
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KWA&amp;action=edit&amp;redlink=1" title="KWA (page does not exist)">KWA</a>
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Quain&amp;action=edit&amp;redlink=1" title="Quain (page does not exist)">quain</a>/quean</i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Quain&amp;action=edit&amp;redlink=1" title="Quain (page does not exist)">quain</a>/quean</i>
 
 ## See also {#See_also}
 
-- *[paianya](/wiki/Paianya "Paianya")*
+- *[paianya](Paianya.md)*
 
 ## Other versions {#Other_versions}
 

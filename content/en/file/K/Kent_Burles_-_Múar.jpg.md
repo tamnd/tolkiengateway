@@ -1,6 +1,5 @@
 ---
 title: "File:Kent Burles - Múar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kent Burles - Múar.jpg</span>"
 page_id: 70743
 namespace: 6
 revision_id: 422561
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*[Múar](/wiki/M%C3%BAar)* by [Kent Burles](/wiki/Category:Images_by_Kent_Burles "Category:Images by Kent Burles"). Interior art for [Valar and Maiar](/wiki/Valar_and_Maiar).
+*[Múar](../../main/M/Múar.md)* by [Kent Burles](../../category/I/Images_by_Kent_Burles.md). Interior art for [Valar and Maiar](../../main/V/Valar_and_Maiar.md).
 
 ## Licensing {#Licensing}
 

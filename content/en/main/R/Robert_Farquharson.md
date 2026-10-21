@@ -1,6 +1,5 @@
 ---
 title: "Robert Farquharson"
-display_title: "<span class=\"mw-page-title-main\">Robert Farquharson</span>"
 page_id: 22379
 namespace: 0
 revision_id: 367030
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Farquharson, Robert"
 ---
 
-**Robert Farquharson** ([November 6](/wiki/6_November "6 November"), [1877](/wiki/1877) - [January 11](/wiki/11_January "11 January"), [1966](/wiki/1966)) was an English stage and radio actor. In the [1955](/wiki/1955) radio series *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*, he played [Saruman](/wiki/Saruman) and [Denethor](/wiki/Denethor).
+**Robert Farquharson** ([November 6](../_/6_November.md), [1877](../_/1877.md) - [January 11](../_/11_January.md), [1966](../_/1966.md)) was an English stage and radio actor. In the [1955](../_/1955.md) radio series *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*, he played [Saruman](../S/Saruman.md) and [Denethor](../D/Denethor.md).
 
-He is the oldest at age actor who played in any adaptation of [Tolkien's](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") works.
+He is the oldest at age actor who played in any adaptation of [Tolkien's](../J/J.R.R._Tolkien.md) works.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Mary Fairburn.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mary Fairburn.png</span>"
 page_id: 68989
 namespace: 6
 revision_id: 421703

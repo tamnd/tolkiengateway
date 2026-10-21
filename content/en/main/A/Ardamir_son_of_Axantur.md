@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ardamir (son of Axantur)"
 ---
 
-Redirect to [Ardamir (son of Axantur)](/wiki/Ardamir_(son_of_Axantur)).
+Redirect to [Ardamir (son of Axantur)](<Ardamir_(son_of_Axantur).md>).

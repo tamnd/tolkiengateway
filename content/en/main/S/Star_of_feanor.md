@@ -11,4 +11,4 @@ redirect_target: "Stars"
 redirect_fragment: "in culture"
 ---
 
-Redirect to [Stars](/wiki/Stars#in_culture).
+Redirect to [Stars](Stars.md#in_culture).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: War in the North"
 ---
 
-Redirect to [The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North).
+Redirect to [The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md).

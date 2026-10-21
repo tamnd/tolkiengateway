@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers - Wulf - Dunlending Chieftain.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers - Wulf - Dunlending Chieftain.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_-_Wulf_-_Dunlending_Chieftain.jpg).
+Redirect to [File:The Lord of the Rings - The Two Towers - Wulf - Dunlending Chieftain.jpg](The_Lord_of_the_Rings_-_The_Two_Towers_-_Wulf_-_Dunlending_Chieftain.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ethlon"
 ---
 
-Redirect to [Ethlon](/wiki/Ethlon).
+Redirect to [Ethlon](../E/Ethlon.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Battle of Maldon together with the Homecoming of Beorhtnoth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Battle of Maldon together with the Homecoming of Beorhtnoth.jpg</span>"
 page_id: 63780
 namespace: 6
 revision_id: 363520

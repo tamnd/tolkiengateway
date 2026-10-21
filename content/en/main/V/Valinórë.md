@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Valinor"
 ---
 
-Redirect to [Valinor](/wiki/Valinor).
+Redirect to [Valinor](Valinor.md).

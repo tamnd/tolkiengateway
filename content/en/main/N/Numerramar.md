@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númerrámar"
 ---
 
-Redirect to [Númerrámar](/wiki/Númerrámar).
+Redirect to [Númerrámar](Númerrámar.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Three Rings.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Three Rings.png</span>"
 page_id: 73659
 namespace: 6
 revision_id: 435545
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Composite of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s illustrations of the Three Rings from his *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)* [dustcover design](/wiki/File:J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg "File:J.R.R. Tolkien - The Fellowship of the Ring 2.jpg")
+Composite of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s illustrations of the Three Rings from his *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)* [dustcover design](J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg.md)
 
 ## Licensing {#Licensing}
 

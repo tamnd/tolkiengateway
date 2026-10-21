@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "A Casual Stroll to Mordor"
 ---
 
-<i><b>A Casual Stroll to Mordor</b></i> was a podcast about *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*. It was produced by [Middle-earth Network Radio](/wiki/Middle-earth_Network "Middle-earth Network").
+<i><b>A Casual Stroll to Mordor</b></i> was a podcast about *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*. It was produced by [Middle-earth Network Radio](../M/Middle-earth_Network.md).
 
 ## External links {#External_links}
 

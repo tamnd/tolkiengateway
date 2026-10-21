@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkienwinkel"
 ---
 
-Redirect to [Tolkienwinkel](/wiki/Tolkienwinkel).
+Redirect to [Tolkienwinkel](Tolkienwinkel.md).

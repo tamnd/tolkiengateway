@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arossiach"
 ---
 
-Redirect to [Arossiach](/wiki/Arossiach).
+Redirect to [Arossiach](../A/Arossiach.md).

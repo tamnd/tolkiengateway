@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bows"
 ---
 
-Redirect to [Bows](/wiki/Bows).
+Redirect to [Bows](Bows.md).

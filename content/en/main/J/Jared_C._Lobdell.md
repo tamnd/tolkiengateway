@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Jared Lobdell"
 ---
 
-Redirect to [Jared Lobdell](/wiki/Jared_Lobdell).
+Redirect to [Jared Lobdell](Jared_Lobdell.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:MEQ - A Spy in Isengard Full Cover.jpg"
 ---
 
-Redirect to [File:MEQ - A Spy in Isengard Full Cover.jpg](/wiki/File:MEQ_-_A_Spy_in_Isengard_Full_Cover.jpg).
+Redirect to [File:MEQ - A Spy in Isengard Full Cover.jpg](../M/MEQ_-_A_Spy_in_Isengard_Full_Cover.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Artaxerxes"
 ---
 
-Redirect to [Artaxerxes](/wiki/Artaxerxes).
+Redirect to [Artaxerxes](../A/Artaxerxes.md).

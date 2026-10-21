@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edain"
 ---
 
-Redirect to [Edain](/wiki/Edain).
+Redirect to [Edain](../E/Edain.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - The dwarves delved too greedily and too deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - The dwarves delved too greedily and too deep.jpg</span>"
 page_id: 73806
 namespace: 6
 revision_id: 435922
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings - The Fellowship of the Ring - The dwarves delved too greedily and too deep.jpg</span></th>
 <td class="description">
-<p>Drawing of <a href="/wiki/Durin%27s_Bane" title="Durin&#39;s Bane">Durin&#39;s Bane</a> in <a href="/wiki/Saruman" title="Saruman">Saruman</a>&#39;s book from <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
+<p>Drawing of <a href="../../main/D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Durin&#39;s Bane</a> in <a href="../../main/S/Saruman.md" title="Saruman">Saruman</a>&#39;s book from <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/19_December" title="19 December">December 19</a> <a href="/wiki/2001" title="2001">2001</a></td>
+<td><a href="../../main/_/19_December.md" title="19 December">December 19</a> <a href="../../main/_/2001.md" title="2001">2001</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+<td><a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.reddit.com/r/lotr/comments/7ewb52/which_artist_drew_this_balrog_alan_lee/" rel="noreferrer noopener" target="_blank">https://www.reddit.com/r/lotr/comments/7ewb52/which_artist_drew_this_balrog_alan_lee/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

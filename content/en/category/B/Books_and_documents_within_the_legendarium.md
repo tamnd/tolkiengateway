@@ -1,6 +1,5 @@
 ---
 title: "Category:Books and documents within the legendarium"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books and documents within the legendarium</span>"
 page_id: 36670
 namespace: 14
 revision_id: 360136
@@ -13,6 +12,6 @@ categories:
   - "Objects"
 ---
 
-This category lists all **books and documents within the [legendarium](/wiki/Legendarium "Legendarium")**.
+This category lists all **books and documents within the [legendarium](../../main/L/Legendarium.md)**.
 
-<dl><dd><i>See also: <a href="/wiki/Category:Lays_and_tales_within_the_legendarium" title="Category:Lays and tales within the legendarium">Category:Lays and tales within the legendarium</a></i></dd></dl>
+<dl><dd><i>See also: <a href="../L/Lays_and_tales_within_the_legendarium.md" title="Category:Lays and tales within the legendarium">Category:Lays and tales within the legendarium</a></i></dd></dl>

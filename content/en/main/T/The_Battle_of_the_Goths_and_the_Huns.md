@@ -11,4 +11,4 @@ redirect_target: "Christopher Tolkien"
 redirect_fragment: "Articles"
 ---
 
-Redirect to [Christopher Tolkien](/wiki/Christopher_Tolkien#Articles).
+Redirect to [Christopher Tolkien](../C/Christopher_Tolkien.md#Articles).

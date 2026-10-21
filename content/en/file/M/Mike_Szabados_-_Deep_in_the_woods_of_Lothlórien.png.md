@@ -1,6 +1,5 @@
 ---
 title: "File:Mike Szabados - Deep in the woods of Lothlórien.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mike Szabados - Deep in the woods of Lothlórien.png</span>"
 page_id: 74797
 namespace: 6
 revision_id: 441333
@@ -33,24 +32,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mike Szabados - Deep in the woods of Lothlórien.png</span></th>
 <td class="description">
-<i>Deep in the woods of <a href="/wiki/Lothl%C3%B3rien" title="Lothlórien">Lothlórien</a></i> by <a href="/wiki/Category:Images_by_Mike_Szabados" title="Category:Images by Mike Szabados">Mike Szabados</a>. Description:<blockquote><p><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> of <a href="/wiki/Lothl%C3%B3rien" title="Lothlórien">Lothlórien</a>. Personal fantasy illustration inspired by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">Tolkien</a>’s <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>.</p></blockquote>
+<i>Deep in the woods of <a href="../../main/L/Lothlórien.md" title="Lothlórien">Lothlórien</a></i> by <a href="../../category/I/Images_by_Mike_Szabados.md" title="Category:Images by Mike Szabados">Mike Szabados</a>. Description:<blockquote><p><a href="../../main/G/Galadriel.md" title="Galadriel">Galadriel</a> of <a href="../../main/L/Lothlórien.md" title="Lothlórien">Lothlórien</a>. Personal fantasy illustration inspired by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a>’s <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a class="mw-redirect" href="/wiki/June_16" title="June 16">June 16</a>, <a href="/wiki/2026" title="2026">2026</a> - 12:00 AM</td>
+<td><a class="mw-redirect" href="../../main/J/June_16.md" title="June 16">June 16</a>, <a href="../../main/_/2026.md" title="2026">2026</a> - 12:00 AM</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Mike_Szabados" title="Category:Images by Mike Szabados">Mike Szabados</a></td>
+<td><a href="../../category/I/Images_by_Mike_Szabados.md" title="Category:Images by Mike Szabados">Mike Szabados</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://mikeszabados.artstation.com/projects/6LK9G6" rel="noreferrer noopener" target="_blank">https://mikeszabados.artstation.com/projects/6LK9G6</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Mike Szabados</span></span>
@@ -58,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mike Szabados</li>
 <li><b>Website:</b> <a class="external text" href="https://mikeszabados.artstation.com/" rel="noreferrer noopener" target="_blank">Official ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mike_Szabados" title="Tolkien Gateway:Copyrights/Mike Szabados">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMike_Szabados.md" title="Tolkien Gateway:Copyrights/Mike Szabados">Permission for use on Tolkien Gateway</a></b></li></ul></div>

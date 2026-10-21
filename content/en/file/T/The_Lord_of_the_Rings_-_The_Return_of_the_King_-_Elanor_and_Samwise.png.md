@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Elanor and Samwise.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Elanor and Samwise.png</span>"
 page_id: 69906
 namespace: 6
 revision_id: 415386
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elanor Gardner](/wiki/Elanor_Gardner) and [Samwise Gamgee](/wiki/Samwise_Gamgee) as they appear in [The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)
+[Elanor Gardner](../../main/E/Elanor_Gardner.md) and [Samwise Gamgee](../../main/S/Samwise_Gamgee.md) as they appear in [The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)
 
 ## Licensing {#Licensing}
 

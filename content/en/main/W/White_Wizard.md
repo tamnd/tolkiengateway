@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The White"
 ---
 
-Redirect to [The White](/wiki/The_White).
+Redirect to [The White](../T/The_White.md).

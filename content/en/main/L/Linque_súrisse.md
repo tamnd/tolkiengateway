@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Linquë súrisse"
 ---
 
-Redirect to [Linquë súrisse](/wiki/Linquë_súrisse).
+Redirect to [Linquë súrisse](Linquë_súrisse.md).

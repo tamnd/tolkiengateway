@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fingon"
 ---
 
-Redirect to [Fingon](/wiki/Fingon).
+Redirect to [Fingon](Fingon.md).

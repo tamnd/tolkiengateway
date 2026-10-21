@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Chîn Húrin (tale)"
 ---
 
-Redirect to [Narn i Chîn Húrin (tale)](/wiki/Narn_i_Chîn_Húrin_(tale)).
+Redirect to [Narn i Chîn Húrin (tale)](<../N/Narn_i_Chîn_Húrin_(tale).md>).

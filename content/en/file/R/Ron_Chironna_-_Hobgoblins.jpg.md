@@ -1,6 +1,5 @@
 ---
 title: "File:Ron Chironna - Hobgoblins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ron Chironna - Hobgoblins.jpg</span>"
 page_id: 28676
 namespace: 6
 revision_id: 203208

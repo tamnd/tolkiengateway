@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jo Hartwig"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jo Hartwig</span>"
 page_id: 72844
 namespace: 14
 revision_id: 431677
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hartwig, Jo"
 ---
 
-This category lists all **images by [Jo Hartwig](/wiki/Jo_Hartwig)**.
+This category lists all **images by [Jo Hartwig](../../main/J/Jo_Hartwig.md)**.

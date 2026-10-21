@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Water Wind & Sand.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Water Wind &amp; Sand.jpg</span>"
 page_id: 73203
 namespace: 6
 revision_id: 433256
@@ -41,14 +40,13 @@ Watercolour illustration by J.R.R. Tolkien, 1915. MS. Tolkien Drawings 87, fol. 
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>1915</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" style="background:var(--tg-color-surface-5)">Tolkien Art Index</th>
 <td><a class="external text" href="https://tai.tolkienists.org/tai/209/" rel="noreferrer noopener" target="_blank">TAI #209</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
@@ -71,6 +69,6 @@ Watercolour illustration by J.R.R. Tolkien, 1915. MS. Tolkien Drawings 87, fol. 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"> <style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/imagination/" rel="noreferrer noopener" target="_blank">&#34;Imagination&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Estate" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 2 February 2026</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/167jpg.jpg" rel="noreferrer noopener" target="_blank">raw file</a>&#34;)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"> <cite class="citation cite-web"><span class="cite-web-author"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">Tolkien Estate</a> (1 April 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://www.tolkienestate.com/painting/imagination/" rel="noreferrer noopener" target="_blank">&#34;Imagination&#34;</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Estate.md" title="Tolkien Estate">The Tolkien Estate</a></span>. <span class="cite-web-accessed">Retrieved 2 February 2026</span></cite> (&#34;<a class="external text" href="https://jrrtestate.wpenginepowered.com/wp-content/uploads/2021/04/167jpg.jpg" rel="noreferrer noopener" target="_blank">raw file</a>&#34;)</span>
 </li>
 </ol></div>

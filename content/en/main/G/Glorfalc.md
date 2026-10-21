@@ -11,4 +11,4 @@ redirect_target: "Cirith Ninniach"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Cirith Ninniach](/wiki/Cirith_Ninniach#Etymology).
+Redirect to [Cirith Ninniach](../C/Cirith_Ninniach.md#Etymology).

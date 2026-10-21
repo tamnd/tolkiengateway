@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Wainrider/Balchoth War"
 ---
 
-Redirect to [Wainrider/Balchoth War](/wiki/Wainrider/Balchoth_War).
+Redirect to [Wainrider/Balchoth War](../W/Wainrider%252FBalchoth_War.md).

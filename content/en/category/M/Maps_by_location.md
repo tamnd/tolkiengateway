@@ -1,6 +1,5 @@
 ---
 title: "Category:Maps by location"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Maps by location</span>"
 page_id: 39862
 namespace: 14
 revision_id: 217509

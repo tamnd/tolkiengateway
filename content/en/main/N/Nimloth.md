@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimloth (disambiguation)"
 ---
 
-Redirect to [Nimloth (disambiguation)](/wiki/Nimloth_(disambiguation)).
+Redirect to [Nimloth (disambiguation)](<Nimloth_(disambiguation).md>).

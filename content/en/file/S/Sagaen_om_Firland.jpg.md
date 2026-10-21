@@ -1,6 +1,5 @@
 ---
 title: "File:Sagaen om Firland.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagaen om Firland.jpg</span>"
 page_id: 28865
 namespace: 6
 revision_id: 214592

@@ -1,6 +1,5 @@
 ---
 title: "File:History of The Lord of the Rings 2002.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">History of The Lord of the Rings 2002.jpg</span>"
 page_id: 56492
 namespace: 6
 revision_id: 350858
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [The History of The Lord of the Rings](/wiki/The_History_of_The_Lord_of_the_Rings) by [HarperCollins](/wiki/HarperCollins)
+Cover of [The History of The Lord of the Rings](../../main/T/The_History_of_The_Lord_of_the_Rings.md) by [HarperCollins](../../main/H/HarperCollins.md)
 
 ## Licensing {#Licensing}
 

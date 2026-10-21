@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Elena Jeronimides"
 ---
 
-Redirect to [Letter to Elena Jeronimides](/wiki/Letter_to_Elena_Jeronimides).
+Redirect to [Letter to Elena Jeronimides](../L/Letter_to_Elena_Jeronimides.md).

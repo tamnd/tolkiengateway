@@ -1,6 +1,5 @@
 ---
 title: "File:The Fellowship of The Ring by Pauline Baynes.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fellowship of The Ring by Pauline Baynes.jpeg</span>"
 page_id: 74824
 namespace: 6
 revision_id: 440159

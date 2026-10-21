@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "An Encyclopedia of Tolkien"
 ---
 
-Redirect to [An Encyclopedia of Tolkien](/wiki/An_Encyclopedia_of_Tolkien).
+Redirect to [An Encyclopedia of Tolkien](An_Encyclopedia_of_Tolkien.md).

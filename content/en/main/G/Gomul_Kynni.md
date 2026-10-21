@@ -1,6 +1,5 @@
 ---
 title: "Gomul Kynni"
-display_title: "<span class=\"mw-page-title-main\">Gomul Kynni</span>"
 page_id: 63176
 namespace: 0
 revision_id: 357604
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Gomul Kynni** is an Icelandic song by Árni Pálsson (imitating Scottish poet <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burns" title="wikipedia:Robert Burns">Robert Burns</a>). It is published as the 30th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Gomul Kynni** is an Icelandic song by Árni Pálsson (imitating Scottish poet <a class="extiw" href="http://en.wikipedia.org/wiki/Robert_Burns" title="wikipedia:Robert Burns">Robert Burns</a>). It is published as the 30th song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

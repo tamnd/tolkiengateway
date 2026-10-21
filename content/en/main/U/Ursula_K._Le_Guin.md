@@ -1,6 +1,5 @@
 ---
 title: "Ursula K. Le Guin"
-display_title: "<span class=\"mw-page-title-main\">Ursula K. Le Guin</span>"
 page_id: 29696
 namespace: 0
 revision_id: 407785
@@ -21,21 +20,21 @@ images:
   - "Ursula_K._Le_Guin.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Ursula_K._Le_Guin.jpg"><img src="/w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/300px-Ursula_K._Le_Guin.jpg" decoding="async" loading="lazy" width="300" height="201" class="mw-file-element" srcset="/w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/450px-Ursula_K._Le_Guin.jpg 1.5x, /w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/600px-Ursula_K._Le_Guin.jpg 2x" data-file-width="1024" data-file-height="685"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/Ursula_K._Le_Guin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/300px-Ursula_K._Le_Guin.jpg" decoding="async" loading="lazy" width="300" height="201" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/450px-Ursula_K._Le_Guin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/Ursula_K._Le_Guin.jpg/600px-Ursula_K._Le_Guin.jpg 2x" data-file-width="1024" data-file-height="685"/></a><figcaption></figcaption></figure>
 
-**Ursula Kroeber Le Guin** ([October 21](/wiki/21_October "21 October"), [1929](/wiki/1929) - [January 24](/wiki/24_January "24 January"), [2018](/wiki/2018)) was an American author who primarily wrote fantasy and science fiction.
+**Ursula Kroeber Le Guin** ([October 21](../_/21_October.md), [1929](../_/1929.md) - [January 24](../_/24_January.md), [2018](../_/2018.md)) was an American author who primarily wrote fantasy and science fiction.
 
-In 1988, she was Guest of Honour at [Mythcon 19](/wiki/Mythcon_19).
+In 1988, she was Guest of Honour at [Mythcon 19](../M/Mythcon_19.md).
 
-It has been noted that *Kingsfoil*, the (translated) name of *[Athelas](/wiki/Athelas)*, appears in Le Guin's <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Wizard_of_Earthsea" title="wikipedia:A Wizard of Earthsea">A Wizard of Earthsea</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+It has been noted that *Kingsfoil*, the (translated) name of *[Athelas](../A/Athelas.md)*, appears in Le Guin's <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Wizard_of_Earthsea" title="wikipedia:A Wizard of Earthsea">A Wizard of Earthsea</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles and Short Stories {#Articles_and_Short_Stories}
 
-- [1989](/wiki/1989): *Dancing at the Edge of the World*
+- [1989](../_/1989.md): *Dancing at the Edge of the World*
     - "*The Dark Tower*, by C.S. Lewis" (review, 1977)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
-- [2001](/wiki/2001): *[Meditations on Middle-earth](/wiki/Meditations_on_Middle-earth)*
+- [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
     - "Rythmic Pattern in *The Lord of the Rings*"
 
 ## External links {#External_links}

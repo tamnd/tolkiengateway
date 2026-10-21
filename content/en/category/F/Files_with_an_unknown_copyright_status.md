@@ -1,6 +1,5 @@
 ---
 title: "Category:Files with an unknown copyright status"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Files with an unknown copyright status</span>"
 page_id: 40334
 namespace: 14
 revision_id: 202919

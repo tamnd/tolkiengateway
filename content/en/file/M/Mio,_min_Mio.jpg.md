@@ -1,6 +1,5 @@
 ---
 title: "File:Mio, min Mio.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mio, min Mio.jpg</span>"
 page_id: 28379
 namespace: 6
 revision_id: 214545

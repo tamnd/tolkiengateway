@@ -1,6 +1,5 @@
 ---
 title: "Category:Dragons"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dragons</span>"
 page_id: 5139
 namespace: 14
 revision_id: 332277
@@ -16,4 +15,4 @@ categories:
   - "Servants of Melkor"
 ---
 
-Below is an alphabetical list of the [Dragons](/wiki/Dragons) found in [Middle-earth](/wiki/Middle-earth).
+Below is an alphabetical list of the [Dragons](../../main/D/Dragons.md) found in [Middle-earth](../../main/M/Middle-earth.md).

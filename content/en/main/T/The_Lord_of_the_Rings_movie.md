@@ -11,4 +11,4 @@ redirect_target: "The Lord of the Rings (disambiguation)"
 redirect_fragment: "Films"
 ---
 
-Redirect to [The Lord of the Rings (disambiguation)](/wiki/The_Lord_of_the_Rings_(disambiguation)#Films).
+Redirect to [The Lord of the Rings (disambiguation)](<The_Lord_of_the_Rings_(disambiguation).md#Films>).

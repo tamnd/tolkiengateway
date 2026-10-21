@@ -1,6 +1,5 @@
 ---
 title: "Darryl Kurylo"
-display_title: "<span class=\"mw-page-title-main\">Darryl Kurylo</span>"
 page_id: 19262
 namespace: 0
 revision_id: 115890
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Kurylo, Darryl"
 ---
 
-**Darryl Kurylo** is an American actor. He provided additional voices to in *[EA's The Battle for Middle-earth II](/wiki/EA%27s_The_Battle_for_Middle-earth_II)*.
+**Darryl Kurylo** is an American actor. He provided additional voices to in *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## External links {#External_links}
 

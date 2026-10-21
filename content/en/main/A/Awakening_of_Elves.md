@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Awakening of the Elves"
 ---
 
-Redirect to [Awakening of the Elves](/wiki/Awakening_of_the_Elves).
+Redirect to [Awakening of the Elves](Awakening_of_the_Elves.md).

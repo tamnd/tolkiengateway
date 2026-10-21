@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Heraldry"
 ---
 
-Redirect to [Heraldry](/wiki/Heraldry).
+Redirect to [Heraldry](Heraldry.md).

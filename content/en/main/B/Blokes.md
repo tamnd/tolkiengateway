@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbits"
 ---
 
-Redirect to [Hobbits](/wiki/Hobbits).
+Redirect to [Hobbits](../H/Hobbits.md).

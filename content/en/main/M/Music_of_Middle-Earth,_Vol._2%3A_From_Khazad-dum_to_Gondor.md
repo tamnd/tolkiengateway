@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Music of Middle-Earth, Vol. 2: From Khazad-dum to Gondor</b></i> is the second full-length album by [Gene Hargrove](/wiki/Gene_Hargrove), released in 2002.
+<i><b>Music of Middle-Earth, Vol. 2: From Khazad-dum to Gondor</b></i> is the second full-length album by [Gene Hargrove](../G/Gene_Hargrove.md), released in 2002.
 
 ## Track listing {#Track_listing}
 

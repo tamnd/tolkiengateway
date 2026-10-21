@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Helm's Dike.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Helm&#039;s Dike.jpg</span>"
 page_id: 29928
 namespace: 6
 revision_id: 283359

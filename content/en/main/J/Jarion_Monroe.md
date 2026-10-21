@@ -1,6 +1,5 @@
 ---
 title: "Jarion Monroe"
-display_title: "<span class=\"mw-page-title-main\">Jarion Monroe</span>"
 page_id: 19189
 namespace: 0
 revision_id: 222159
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Monroe, Jarion"
 ---
 
-**Jarion Monroe** ([January 7](/wiki/7_January "7 January"), [1948](/wiki/1948)) is an American voice actor.
+**Jarion Monroe** ([January 7](../_/7_January.md), [1948](../_/1948.md)) is an American voice actor.
 
 ## Roles {#Roles}
 
-- [2003](/wiki/2003): [*The Lord of the Rings: The Return of the King* (video game)](</wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)> "The Lord of the Rings: The Return of the King (video game)"): Additional voices
+- [2003](../_/2003.md): [*The Lord of the Rings: The Return of the King* (video game)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>): Additional voices
 
 ## External links {#External_links}
 

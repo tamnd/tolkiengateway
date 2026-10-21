@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Disambiguation"
 ---
 
-Redirect to [Category:Disambiguation](/wiki/Category:Disambiguation).
+Redirect to [Category:Disambiguation](../../category/D/Disambiguation.md).

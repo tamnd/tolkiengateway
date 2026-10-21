@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Palantíri"
 ---
 
-Redirect to [Palantíri](/wiki/Palantíri).
+Redirect to [Palantíri](../P/Palantíri.md).

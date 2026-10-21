@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bolger family"
 ---
 
-Redirect to [Bolger family](/wiki/Bolger_family).
+Redirect to [Bolger family](Bolger_family.md).

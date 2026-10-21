@@ -1,6 +1,5 @@
 ---
 title: "File:Unu Ringo Ilin Regas.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unu Ringo Ilin Regas.jpg</span>"
 page_id: 48362
 namespace: 6
 revision_id: 258489
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Unu Ringo Illin Regas](/wiki/Unu_Ringo_Ilin_Regas:_J.R.R.Tolkien_en_Esperanto "Unu Ringo Ilin Regas: J.R.R.Tolkien en Esperanto")*.
+Cover of *[Unu Ringo Illin Regas](../../main/U/Unu_Ringo_Ilin_Regas%253A_J.R.R.Tolkien_en_Esperanto.md)*.
 
 ## Licensing {#Licensing}
 

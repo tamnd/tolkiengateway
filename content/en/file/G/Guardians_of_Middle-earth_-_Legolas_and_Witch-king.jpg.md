@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Legolas and Witch-king.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Legolas and Witch-king.jpg</span>"
 page_id: 73069
 namespace: 6
 revision_id: 432604
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Legolas](/wiki/Legolas) and [Witch-king](/wiki/Witch-king) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Legolas](../../main/L/Legolas.md) and [Witch-king](../../main/W/Witch-king.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Martin Mottet"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Martin Mottet</span>"
 page_id: 68284
 namespace: 4
 revision_id: 401638
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mottet, Martin"
 ---
 
-- Martin Mottet has kindly granted permission to use [their artwork](/wiki/Category:Images_by_Martin_Mottet "Category:Images by Martin Mottet") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Martin Mottet has kindly granted permission to use [their artwork](../../category/I/Images_by_Martin_Mottet.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: July 8th, 2024
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

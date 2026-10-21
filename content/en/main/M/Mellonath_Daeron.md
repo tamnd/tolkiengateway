@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forodrim"
 ---
 
-Redirect to [Forodrim](/wiki/Forodrim).
+Redirect to [Forodrim](../F/Forodrim.md).

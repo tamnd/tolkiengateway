@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - Gandalf the Grey 02.jpg"
 ---
 
-Redirect to [File:John Howe - Gandalf the Grey 02.jpg](/wiki/File:John_Howe_-_Gandalf_the_Grey_02.jpg).
+Redirect to [File:John Howe - Gandalf the Grey 02.jpg](John_Howe_-_Gandalf_the_Grey_02.jpg.md).

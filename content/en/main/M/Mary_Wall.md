@@ -1,6 +1,5 @@
 ---
 title: "Mary Wall"
-display_title: "<span class=\"mw-page-title-main\">Mary Wall</span>"
 page_id: 71109
 namespace: 0
 revision_id: 428404
@@ -20,4 +19,4 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Mary_Wall"
 ---
 
-**Mary Wall** ([1746](/wiki/1746) - [16 March](/wiki/16_March), 1837) was the great-great grandmother of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Mary Wall** ([1746](../_/1746.md) - [16 March](../_/16_March.md), 1837) was the great-great grandmother of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hithlum"
 ---
 
-Redirect to [Hithlum](/wiki/Hithlum).
+Redirect to [Hithlum](../H/Hithlum.md).

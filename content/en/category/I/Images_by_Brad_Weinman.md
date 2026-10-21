@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Brad Weinman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Brad Weinman</span>"
 page_id: 28917
 namespace: 14
 revision_id: 181947

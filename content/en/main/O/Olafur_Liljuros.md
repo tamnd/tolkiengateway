@@ -1,6 +1,5 @@
 ---
 title: "Olafur Liljuros"
-display_title: "<span class=\"mw-page-title-main\">Olafur Liljuros</span>"
 page_id: 63166
 namespace: 0
 revision_id: 357582
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Olafur Liljuros** is an Icelandic folk song. It is published as the seventh song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936). The song tells of a man who meets an Elvish maiden.
+**Olafur Liljuros** is an Icelandic folk song. It is published as the seventh song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md). The song tells of a man who meets an Elvish maiden.
 
 ## The song {#The_song}
 

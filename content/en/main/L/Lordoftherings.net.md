@@ -1,6 +1,5 @@
 ---
 title: "Lordoftherings.net"
-display_title: "<span class=\"mw-page-title-main\">Lordoftherings.net</span>"
 page_id: 11137
 namespace: 0
 revision_id: 419943
@@ -13,4 +12,4 @@ categories:
   - "Movie websites"
 ---
 
-The **Lord of the Rings movie site**, or <a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">www.lordoftherings.net</a> is the official site for [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). Included on this site are interviews, news, basic weapon/character information, and other media based on the movie trilogy.
+The **Lord of the Rings movie site**, or <a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">www.lordoftherings.net</a> is the official site for [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>). Included on this site are interviews, news, basic weapon/character information, and other media based on the movie trilogy.

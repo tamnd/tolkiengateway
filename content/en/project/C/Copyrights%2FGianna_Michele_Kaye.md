@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Gianna Michele Kaye"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Gianna Michele Kaye</span>"
 page_id: 49449
 namespace: 4
 revision_id: 264605
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kaye, Gianna Michele"
 ---
 
-- Gianna Michele Kaye has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Gianna_Michele_Kaye "Category:Images by Gianna Michele Kaye") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Gianna Michele Kaye has kindly granted her permission to use [her artwork](../../category/I/Images_by_Gianna_Michele_Kaye.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 31 March 2015
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

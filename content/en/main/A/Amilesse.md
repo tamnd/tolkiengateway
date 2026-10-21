@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amilessë"
 ---
 
-Redirect to [Amilessë](/wiki/Amilessë).
+Redirect to [Amilessë](Amilessë.md).

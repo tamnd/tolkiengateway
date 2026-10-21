@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's English Literature and English History 6-7 December 1984.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s English Literature and English History 6-7 December 1984.jpg</span>"
 page_id: 28401
 namespace: 6
 revision_id: 215418

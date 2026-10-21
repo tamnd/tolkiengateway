@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Éomer finds Éowyn.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Éomer finds Éowyn.jpeg</span>"
 page_id: 66470
 namespace: 6
 revision_id: 383960

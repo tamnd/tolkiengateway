@@ -1,6 +1,5 @@
 ---
 title: "Harlequin Games"
-display_title: "<span class=\"mw-page-title-main\">Harlequin Games</span>"
 page_id: 36467
 namespace: 0
 revision_id: 190134
@@ -15,11 +14,11 @@ images:
   - "Legends_One_Ring.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Legends_One_Ring.png"><img src="/w/images/thumb/b/b2/Legends_One_Ring.png/300px-Legends_One_Ring.png" decoding="async" loading="lazy" width="300" height="428" class="mw-file-element" srcset="/w/images/b/b2/Legends_One_Ring.png 1.5x" data-file-width="414" data-file-height="591"/></a><figcaption><i>Legends: The One Ring</i> module</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Legends_One_Ring.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/Legends_One_Ring.png/300px-Legends_One_Ring.png" decoding="async" loading="lazy" width="300" height="428" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b2/Legends_One_Ring.png 1.5x" data-file-width="414" data-file-height="591"/></a><figcaption><i>Legends: The One Ring</i> module</figcaption></figure>
 
-**Harlequin Games** is a British firm established in 1984.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The company maintains <a class="external text" href="http://middleearthgames.com/" rel="noreferrer noopener" target="_blank">Middle-earth Strategic Gaming</a> (related to the [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail)),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and also produces a game module called *Legends: The One Ring*, under license from the [Middle-earth Enterprises](/wiki/Middle-earth_Enterprises) through [Game Systems Inc.](/wiki/Game_Systems_Inc.).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Harlequin Games** is a British firm established in 1984.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The company maintains <a class="external text" href="http://middleearthgames.com/" rel="noreferrer noopener" target="_blank">Middle-earth Strategic Gaming</a> (related to the [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md)),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and also produces a game module called *Legends: The One Ring*, under license from the [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md) through [Game Systems Inc.](../G/Game_Systems_Inc..md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-During the 1990s, Harlequin Games produced the [Harlequin Miniatures](/wiki/Harlequin_Miniatures) *Lord of the Rings* figures.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+During the 1990s, Harlequin Games produced the [Harlequin Miniatures](Harlequin_Miniatures.md) *Lord of the Rings* figures.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## External links {#External_links}
 

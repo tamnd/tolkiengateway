@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Peter Xavier Price"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Peter Xavier Price</span>"
 page_id: 8281
 namespace: 14
 revision_id: 330511
@@ -20,4 +19,4 @@ langlinks:
     url: "https://kontu.wiki/Peter_Xavier_Price"
 ---
 
-This category lists all **images by [Peter Xavier Price](/wiki/Peter_Xavier_Price)**.
+This category lists all **images by [Peter Xavier Price](../../main/P/Peter_Xavier_Price.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "File:El hobito.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">El hobito.jpg</span>"
 page_id: 44283
 namespace: 6
 revision_id: 350802

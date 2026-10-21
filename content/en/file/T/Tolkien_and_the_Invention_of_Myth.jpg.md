@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and the Invention of Myth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and the Invention of Myth.jpg</span>"
 page_id: 56750
 namespace: 6
 revision_id: 310335
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the book [Tolkien and the Invention of Myth](/wiki/Tolkien_and_the_Invention_of_Myth)
+Cover of the book [Tolkien and the Invention of Myth](../../main/T/Tolkien_and_the_Invention_of_Myth.md)
 
 ## Licensing {#Licensing}
 

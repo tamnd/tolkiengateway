@@ -1,6 +1,5 @@
 ---
 title: "File:Where and back.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Where and back.png</span>"
 page_id: 36169
 namespace: 6
 revision_id: 433594
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Article from *[White Dwarf](/wiki/White_Dwarf)* (illustration by <a class="new" href="/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a> of the Fellowship of the Ring, also used for [a box set](/wiki/Citadel_Miniatures#BME1_-_The_Fellowship_of_the_Ring "Citadel Miniatures")).
+Article from *[White Dwarf](../../main/W/White_Dwarf.md)* (illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Blanche&amp;action=edit&amp;redlink=1" title="John Blanche (page does not exist)">John Blanche</a> of the Fellowship of the Ring, also used for [a box set](../../main/C/Citadel_Miniatures.md#BME1_-_The_Fellowship_of_the_Ring)).
 
 ## Licensing {#Licensing}
 

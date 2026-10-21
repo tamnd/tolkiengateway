@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Mountains"
 ---
 
-Redirect to [White Mountains](/wiki/White_Mountains).
+Redirect to [White Mountains](../W/White_Mountains.md).

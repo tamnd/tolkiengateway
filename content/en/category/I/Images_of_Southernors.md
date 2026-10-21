@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Southernors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Southernors</span>"
 page_id: 37507
 namespace: 14
 revision_id: 196859

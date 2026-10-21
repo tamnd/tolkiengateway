@@ -1,6 +1,5 @@
 ---
 title: "Richard Doyle"
-display_title: "<span class=\"mw-page-title-main\">Richard Doyle</span>"
 page_id: 19488
 namespace: 0
 revision_id: 234290
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Doyle, Richard"
 ---
 
-**Richard Doyle** is an American actor. He voiced [Haldir](/wiki/Haldir) in the [EA](/wiki/Electronic_Arts "Electronic Arts") video game *[EA's The Battle for Middle-earth II](/wiki/EA%27s_The_Battle_for_Middle-earth_II)*.
+**Richard Doyle** is an American actor. He voiced [Haldir](../H/Haldir.md) in the [EA](../E/Electronic_Arts.md) video game *[EA's The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)*.
 
 ## External links {#External_links}
 

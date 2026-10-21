@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings- The Return of the King - Denethor - Houses of the Dead - Pyre.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings- The Return of the King - Denethor - Houses of the Dead - Pyre.png</span>"
 page_id: 69777
 namespace: 6
 revision_id: 414920

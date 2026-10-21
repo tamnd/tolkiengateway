@@ -1,6 +1,5 @@
 ---
 title: "File:Tim Bolton - A quick visual guide to the books Part I.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tim Bolton - A quick visual guide to the books Part I.jpg</span>"
 page_id: 70309
 namespace: 6
 revision_id: 418457
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tim Bolton</li>
 <li><b>Website:</b> <a class="external text" href="https://twitter.com/timboltonuk" rel="noreferrer noopener" target="_blank">Twitter Profile</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tim_Bolton" title="Tolkien Gateway:Copyrights/Tim Bolton">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTim_Bolton.md" title="Tolkien Gateway:Copyrights/Tim Bolton">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Araman"
 ---
 
-Redirect to [Araman](/wiki/Araman).
+Redirect to [Araman](../A/Araman.md).

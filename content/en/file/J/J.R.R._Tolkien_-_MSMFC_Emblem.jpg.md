@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - MSMFC Emblem.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - MSMFC Emblem.jpg</span>"
 page_id: 59772
 namespace: 6
 revision_id: 430991
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Mordor Special Mission Flying Corps emblem (MSMFC), by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Mordor Special Mission Flying Corps emblem (MSMFC), by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nightingales"
 ---
 
-Redirect to [Nightingales](/wiki/Nightingales).
+Redirect to [Nightingales](Nightingales.md).

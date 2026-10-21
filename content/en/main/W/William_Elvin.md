@@ -1,6 +1,5 @@
 ---
 title: "William Elvin"
-display_title: "<span class=\"mw-page-title-main\">William Elvin</span>"
 page_id: 17823
 namespace: 0
 revision_id: 398199
@@ -20,4 +19,4 @@ sort_keys:
   "People by name": "Elvin, William"
 ---
 
-**William Elvin** is a Scottish opera singer (bass-baritone) born in Turrif in [1945](/wiki/1945). He trained at the Royal Academy of Music and sang as a soloist with Scottish Opera and frequently appeared in the productions of the Royal Opera. He sang the first eight songs of *[The Road Goes Ever On](</wiki/The_Road_Goes_Ever_On_(book)> "The Road Goes Ever On (book)")*, accompanied by [Donald Swann](/wiki/Donald_Swann) on piano.
+**William Elvin** is a Scottish opera singer (bass-baritone) born in Turrif in [1945](../_/1945.md). He trained at the Royal Academy of Music and sang as a soloist with Scottish Opera and frequently appeared in the productions of the Royal Opera. He sang the first eight songs of *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*, accompanied by [Donald Swann](../D/Donald_Swann.md) on piano.

@@ -1,6 +1,5 @@
 ---
 title: "File:Angelo Montanini - Self Portrait.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angelo Montanini - Self Portrait.jpg</span>"
 page_id: 23329
 namespace: 6
 revision_id: 204842
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image by [Angelo Montanini](/wiki/Angelo_Montanini), "Self Portrait", 2001.
+Image by [Angelo Montanini](../../main/A/Angelo_Montanini.md), "Self Portrait", 2001.
 
 ## Licensing {#Licensing}
 

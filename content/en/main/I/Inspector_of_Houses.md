@@ -11,4 +11,4 @@ redirect_target: "Leaf by Niggle"
 redirect_fragment: "Characters"
 ---
 
-Redirect to [Leaf by Niggle](/wiki/Leaf_by_Niggle#Characters).
+Redirect to [Leaf by Niggle](../L/Leaf_by_Niggle.md#Characters).

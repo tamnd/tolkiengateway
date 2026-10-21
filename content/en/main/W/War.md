@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Wars"
 ---
 
-Redirect to [Category:Wars](/wiki/Category:Wars).
+Redirect to [Category:Wars](../../category/W/Wars.md).

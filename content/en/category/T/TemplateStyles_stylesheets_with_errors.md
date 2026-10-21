@@ -1,6 +1,5 @@
 ---
 title: "Category:TemplateStyles stylesheets with errors"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">TemplateStyles stylesheets with errors</span>"
 page_id: 69215
 namespace: 14
 revision_id: 413575

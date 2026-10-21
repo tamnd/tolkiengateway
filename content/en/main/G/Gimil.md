@@ -16,16 +16,16 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**gimli**, **igmil** means "star-shaped figure" in [Adûnaic](/wiki/Ad%C3%BBnaic). Coll. pl. **gimil** "starry sky".
+**gimli**, **igmil** means "star-shaped figure" in [Adûnaic](../A/Adûnaic.md). Coll. pl. **gimil** "starry sky".
 
 ## Etymology {#Etymology}
 
-Perhaps related to [Khuzdul](/wiki/Khuzdul) *[kibil](/wiki/Kibil "Kibil")* "silver"
+Perhaps related to [Khuzdul](../K/Khuzdul.md) *[kibil](../K/Kibil.md)* "silver"
 
 ## Examples {#Examples}
 
-- [Gimilzôr](/wiki/Ar-Gimilz%C3%B4r "Ar-Gimilzôr")
-- [Gimilkhâd](/wiki/Gimilkh%C3%A2d)
-- [Gimlad](/wiki/Gimlad)
-- [Gimilnitîr](/wiki/Gimilnit%C3%AEr)
-- [Gimilzagar](/wiki/Gimilzagar)
+- [Gimilzôr](../A/Ar-Gimilzôr.md)
+- [Gimilkhâd](Gimilkhâd.md)
+- [Gimlad](Gimlad.md)
+- [Gimilnitîr](Gimilnitîr.md)
+- [Gimilzagar](Gimilzagar.md)

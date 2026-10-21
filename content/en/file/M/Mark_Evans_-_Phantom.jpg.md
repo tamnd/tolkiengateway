@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Evans - Phantom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Evans - Phantom.jpg</span>"
 page_id: 30752
 namespace: 6
 revision_id: 204479
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration by Mark Evans, depicting a [phantom](/wiki/Phantoms "Phantoms"). Appearing in Scott Bennie, Mike Mearls, Steve Miller, Aaron Rosenberg, Chris Seeman, Owen Seyler, and George Strayton, *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game): [Fell Beasts and Wondrous Magic](/wiki/Fell_Beasts_and_Wondrous_Magic)* (Decipher, 2003).
+Illustration by Mark Evans, depicting a [phantom](../../main/P/Phantoms.md). Appearing in Scott Bennie, Mike Mearls, Steve Miller, Aaron Rosenberg, Chris Seeman, Owen Seyler, and George Strayton, *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md): [Fell Beasts and Wondrous Magic](../../main/F/Fell_Beasts_and_Wondrous_Magic.md)* (Decipher, 2003).
 
 ## Licensing {#Licensing}
 

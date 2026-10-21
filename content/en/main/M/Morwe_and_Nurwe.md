@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morwë and Nurwë"
 ---
 
-Redirect to [Morwë and Nurwë](/wiki/Morwë_and_Nurwë).
+Redirect to [Morwë and Nurwë](Morwë_and_Nurwë.md).

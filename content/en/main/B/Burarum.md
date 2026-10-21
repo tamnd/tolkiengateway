@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Burárum"
 ---
 
-Redirect to [Burárum](/wiki/Burárum).
+Redirect to [Burárum](Burárum.md).

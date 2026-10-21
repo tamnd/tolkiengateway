@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lanc"
 ---
 
-Redirect to [Lanc](/wiki/Lanc).
+Redirect to [Lanc](Lanc.md).

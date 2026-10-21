@@ -1,6 +1,5 @@
 ---
 title: "File:The Oxford Inklings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Oxford Inklings.jpg</span>"
 page_id: 48299
 namespace: 6
 revision_id: 258058

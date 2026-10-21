@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Durin"
 ---
 
-Redirect to [House of Durin](/wiki/House_of_Durin).
+Redirect to [House of Durin](House_of_Durin.md).

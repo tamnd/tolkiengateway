@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel (The Lost Road)"
 ---
 
-Redirect to [Fíriel (The Lost Road)](/wiki/Fíriel_(The_Lost_Road)).
+Redirect to [Fíriel (The Lost Road)](<Fíriel_(The_Lost_Road).md>).

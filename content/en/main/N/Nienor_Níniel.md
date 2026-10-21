@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nienor"
 ---
 
-Redirect to [Nienor](/wiki/Nienor).
+Redirect to [Nienor](Nienor.md).

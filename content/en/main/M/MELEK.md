@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "BEL"
 ---
 
-Redirect to [BEL](/wiki/BEL).
+Redirect to [BEL](../B/BEL~31614.md).

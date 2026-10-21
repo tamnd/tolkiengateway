@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Father Christmas"
 ---
 
-Redirect to [Father Christmas](/wiki/Father_Christmas).
+Redirect to [Father Christmas](../F/Father_Christmas.md).

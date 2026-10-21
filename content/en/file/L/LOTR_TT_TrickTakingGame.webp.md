@@ -1,6 +1,5 @@
 ---
 title: "File:LOTR TT TrickTakingGame.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTR TT TrickTakingGame.webp</span>"
 page_id: 72892
 namespace: 6
 revision_id: 432020

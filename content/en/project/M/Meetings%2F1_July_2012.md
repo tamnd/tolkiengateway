@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/1 July 2012"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/1 July 2012</span>"
 page_id: 39324
 namespace: 4
 revision_id: 202050
@@ -16,18 +15,16 @@ sort_keys:
 ---
 
 <table width="100%">
-<!-- -->
 <tbody><tr>
-<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="/wiki/Tolkien_Gateway:Meetings" title="Tolkien Gateway:Meetings">Meetings</a></b>
+<td style="text-align:center;font-size:140%;"><b>Tolkien Gateway <a href="Meetings.md" title="Tolkien Gateway:Meetings">Meetings</a></b>
 </td></tr>
 <tr>
-<td style="text-align:center;font-size:100%;"><i>Sunday 1 July 2012</i>, 8pm UTC, <a href="/wiki/Tolkien_Gateway:Chat" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
+<td style="text-align:center;font-size:100%;"><i>Sunday 1 July 2012</i>, 8pm UTC, <a href="../C/Chat.md" title="Tolkien Gateway:Chat">#Wiki IRC Channel</a>
 </td></tr>
 <tr>
 <td align="center">
 <center>
 <table width="100%">
-<!-- -->
 <tbody><tr>
 <td width="57%">
 <table width="100%" style="font-size:10px;">
@@ -73,7 +70,6 @@ sort_keys:
 ## Agenda {#Agenda}
 
 <table align="center" width="100%">
-<!-- -->
 <tbody><tr style="text-align: center;vertical-align:top; background-color:#CCCCCC; font-size:100%; font-style:normal">
 <th style="width:70px">Item
 </th>
@@ -86,16 +82,16 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#1
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Meeting opening.
 </td>
-<td><a href="/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="/wiki/User:Gamling" title="User:Gamling">Gamling</a>, <a href="/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, and <a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all in attendance.
+<td><a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith">Mith</a>, <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil">Ederchil</a>, <a href="https://tolkiengateway.net/wiki/User:Gamling" title="User:Gamling">Gamling</a>, <a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a>, <a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>, and <a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> were all in attendance.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#2
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Do we need to have an article for every track from soundtrack albums and every scene of films?
 </td>
@@ -104,7 +100,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#3
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Establish a course of action for images. How should we handle images taken from role-playing games?
 </td>
@@ -113,25 +109,25 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#4
 </td>
-<td><a href="/wiki/User:Morgan" title="User:Morgan">Morgan</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a>
 </td>
-<td>Continue discussion from earlier meeting: how to do with the issue of canon? Should we stop using <i>Template:Disputedcanon</i><sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Tolkien_Gateway:Manual_of_Style#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup> and <i>Template:Disputedcanon</i><sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Tolkien_Gateway:Manual_of_Style#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup> [<i>sic</i>!]? Should it be up to the reader to decide the canonical status, based on given references (and the text of the article)?
+<td>Continue discussion from earlier meeting: how to do with the issue of canon? Should we stop using <i>Template:Disputedcanon</i><sup class="noprint" style="line-height: 0.4em;">[<a href="Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup> and <i>Template:Disputedcanon</i><sup class="noprint" style="line-height: 0.4em;">[<a href="Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup> [<i>sic</i>!]? Should it be up to the reader to decide the canonical status, based on given references (and the text of the article)?
 </td>
 <td>It was agreed that all canoncity templates should be scrapped (apart from adaptations). We, as Tolkien Gateway contributors, can not make the judgement about whether or not something is canon. A canonicity section should be added to allow the reader to make up their own mind.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#5
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>How can we get more traffic to TG? How can we get more editors on TG? We need a long strategy and one which will address the likely increase in traffic following the release of the films.
 </td>
-<td>It was agreed that we should work on our SEO - get more websites linking to us. Mith indicated that he would design a skin which will be much more user-friendly. The positive relationship with the <a href="/wiki/Middle-earth_Network" title="Middle-earth Network">Middle-earth Network</a> was praised. The idea of renaming TG was mooted, but rejected. It was agreed that we needed our own logo to help our branding - it would need to be incorporated into the new skin and could potentially be drawn by Tolkien artists. To help new editors it was agreed that we should redesign our help pages. The idea of setting up a TG donation fund to finance advertising was suggested - it is something to consider in the future.
+<td>It was agreed that we should work on our SEO - get more websites linking to us. Mith indicated that he would design a skin which will be much more user-friendly. The positive relationship with the <a href="../../main/M/Middle-earth_Network.md" title="Middle-earth Network">Middle-earth Network</a> was praised. The idea of renaming TG was mooted, but rejected. It was agreed that we needed our own logo to help our branding - it would need to be incorporated into the new skin and could potentially be drawn by Tolkien artists. To help new editors it was agreed that we should redesign our help pages. The idea of setting up a TG donation fund to finance advertising was suggested - it is something to consider in the future.
 </td></tr>
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#6
 </td>
-<td><a href="/wiki/User:Sage" title="User:Sage">Sage</a>
+<td><a href="https://tolkiengateway.net/wiki/User:Sage" title="User:Sage">Sage</a>
 </td>
 <td>Have we determined how to date the First Age years? Robert Foster had made some work to assemble a FA &#34;Tale of Years&#34; based on the published Silmarillion. Tolkien had made more detailed dating in his Grey/Annals/of Valinor, but at times they contradict the published Silmarillion.
 </td>
@@ -140,7 +136,7 @@ sort_keys:
 <tr style="font-size:100%; text-align: center; background-color:#E4F2D9;">
 <td>#7
 </td>
-<td><a href="/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
+<td><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn">KingAragorn</a>
 </td>
 <td>Adjournment discussions and meeting adjournment.
 </td>
@@ -149,6 +145,6 @@ sort_keys:
 
 ## Links {#Links}
 
-- [Talk page](/wiki/Tolkien_Gateway_talk:Meetings/1_July_2012 "Tolkien Gateway talk:Meetings/1 July 2012")
-- [Transcript](/wiki/Tolkien_Gateway:Meetings/1_July_2012/Transcript "Tolkien Gateway:Meetings/1 July 2012/Transcript")
+- [Talk page](https://tolkiengateway.net/wiki/Tolkien_Gateway_talk:Meetings/1_July_2012)
+- [Transcript](Meetings%252F1_July_2012%252FTranscript.md)
 - <a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway%2C%23Wiki" rel="noreferrer noopener" target="_blank">Mibbit IRC</a>

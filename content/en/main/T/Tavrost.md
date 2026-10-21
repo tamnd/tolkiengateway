@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tavrobel"
 ---
 
-Redirect to [Tavrobel](/wiki/Tavrobel).
+Redirect to [Tavrobel](Tavrobel.md).

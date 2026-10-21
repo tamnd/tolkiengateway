@@ -1,6 +1,5 @@
 ---
 title: "File:Lukasz Jaskolski - Fastred.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lukasz Jaskolski - Fastred.jpg</span>"
 page_id: 71048
 namespace: 6
 revision_id: 424318
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="mw-redirect mw-disambig" href="/wiki/Fastred" title="Fastred">Fastred</a> - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Haradrim*: *The Black Serpent* illustration by Lukasz Jaskolski
+<a class="mw-redirect mw-disambig" href="../../main/F/Fastred.md" title="Fastred">Fastred</a> - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Haradrim*: *The Black Serpent* illustration by Lukasz Jaskolski
 
 ## Licensing {#Licensing}
 

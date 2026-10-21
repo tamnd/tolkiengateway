@@ -1,6 +1,5 @@
 ---
 title: "The Fellowship of the Ring (Decipher)"
-display_title: "<span class=\"mw-page-title-main\">The Fellowship of the Ring (Decipher)</span>"
 page_id: 23913
 namespace: 0
 revision_id: 407438
@@ -13,7 +12,7 @@ categories:
   - "The Lord of the Rings Trading Card Game cards"
 ---
 
-**The Fellowship of the Ring** was the first set of [The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game).
+**The Fellowship of the Ring** was the first set of [The Lord of the Rings Trading Card Game](The_Lord_of_the_Rings_Trading_Card_Game.md).
 
 ## Card List {#Card_List}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Roverandom 1998 paperback.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Roverandom 1998 paperback.jpeg</span>"
 page_id: 61933
 namespace: 6
 revision_id: 349255

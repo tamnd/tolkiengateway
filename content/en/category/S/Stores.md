@@ -1,6 +1,5 @@
 ---
 title: "Category:Stores"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stores</span>"
 page_id: 5163
 namespace: 14
 revision_id: 190050
@@ -13,4 +12,4 @@ categories:
   - "Businesses"
 ---
 
-Below is an alphabetical list of stores that sell [The Lord of the Rings](/wiki/The_Lord_of_the_Rings) and other [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") related products.
+Below is an alphabetical list of stores that sell [The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md) and other [Tolkien](../../main/J/J.R.R._Tolkien.md) related products.

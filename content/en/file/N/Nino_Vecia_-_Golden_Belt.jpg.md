@@ -1,6 +1,5 @@
 ---
 title: "File:Nino Vecia - Golden Belt.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nino Vecia - Golden Belt.jpg</span>"
 page_id: 73768
 namespace: 6
 revision_id: 435820
@@ -35,16 +34,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Nino Vecia - Golden Belt.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Boromir%27s_belt" title="Boromir&#39;s belt">Golden Belt</a>. Created for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>Challenge of the Wainriders</i>
+<p><a href="../../main/B/Boromir&#39;s_belt.md" title="Boromir&#39;s belt">Golden Belt</a>. Created for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>Challenge of the Wainriders</i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/2020" title="2020">2020</a></td>
+<td><a href="../../main/_/2020.md" title="2020">2020</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Nino Vecia</td>
@@ -53,7 +50,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://hallofbeorn.com/LotR/Details/Golden-Belt-CotW-PRM?Lang=EN" rel="noreferrer noopener" target="_blank">https://hallofbeorn.com/LotR/Details/Golden-Belt-CotW-PRM?Lang=EN</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

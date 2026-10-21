@@ -1,6 +1,5 @@
 ---
 title: "Category:Insects"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Insects</span>"
 page_id: 2617
 namespace: 14
 revision_id: 22779

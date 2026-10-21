@@ -1,6 +1,5 @@
 ---
 title: "File:There and Back Again - In the Footsteps of J.R.R. Tolkien's England.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">There and Back Again - In the Footsteps of J.R.R. Tolkien&#039;s England.jpg</span>"
 page_id: 30261
 namespace: 6
 revision_id: 214722

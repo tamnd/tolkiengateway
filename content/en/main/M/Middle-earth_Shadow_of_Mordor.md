@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth: Shadow of Mordor"
 ---
 
-Redirect to [Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor).
+Redirect to [Middle-earth: Shadow of Mordor](Middle-earth%253A_Shadow_of_Mordor.md).

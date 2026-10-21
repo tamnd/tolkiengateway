@@ -1,6 +1,5 @@
 ---
 title: "File:Mark Fisher - Arthorien.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mark Fisher - Arthorien.jpg</span>"
 page_id: 56377
 namespace: 6
 revision_id: 306856
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Arthórien](/wiki/Arth%C3%B3rien), by Mark Fisher.
+Map of [Arthórien](../../main/A/Arthórien.md), by Mark Fisher.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Map of [Arthórien](/wiki/Arth%C3%B3rien), by Mark Fisher.
 </p>
 <ul><li><b>Name:</b> Mark Fisher</li>
 <li><b>Website:</b> <a class="external text" href="http://www.glyphweb.com/arda" rel="noreferrer noopener" target="_blank">Encylopedia of Arda</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mark_Fisher" title="Tolkien Gateway:Copyrights/Mark Fisher">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMark_Fisher.md" title="Tolkien Gateway:Copyrights/Mark Fisher">Permission for use on Tolkien Gateway</a></b></li></ul></div>

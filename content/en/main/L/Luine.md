@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Luinë"
 ---
 
-Redirect to [Luinë](/wiki/Luinë).
+Redirect to [Luinë](Luinë.md).

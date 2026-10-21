@@ -11,4 +11,4 @@ redirect_target: "Gorhendad Oldbuck"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Gorhendad Oldbuck](/wiki/Gorhendad_Oldbuck#Etymology).
+Redirect to [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md#Etymology).

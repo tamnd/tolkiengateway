@@ -1,6 +1,5 @@
 ---
 title: "File:Artigas - The Seven Houses of the Khazad.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Artigas - The Seven Houses of the Khazad.jpg</span>"
 page_id: 59754
 namespace: 6
 revision_id: 333654
@@ -34,21 +33,21 @@ file:
 
 ## Description {#Description}
 
-"The Seven Houses of the [Khazad](/wiki/Dwarves "Dwarves")", by Artigas.
+"The Seven Houses of the [Khazad](../../main/D/Dwarves.md)", by Artigas.
 
 Related artworks by the same author:
 
-- *[Stiffbeards](/wiki/File:Artigas_-_Stiffbeards.jpg "File:Artigas - Stiffbeards.jpg")*
-- *[Stonefoots](/wiki/File:Artigas_-_Stonefoots.jpg "File:Artigas - Stonefoots.jpg")*
-- *[Broadbeams](/wiki/File:Artigas_-_Broadbeams.jpg "File:Artigas - Broadbeams.jpg")*
-- *[Longbeards](/wiki/File:Artigas_-_Longbeards.jpg "File:Artigas - Longbeards.jpg")*
-- *[Firebeards](/wiki/File:Artigas_-_Firebeards.jpg "File:Artigas - Firebeards.jpg")*
-- *[Ironfists](/wiki/File:Artigas_-_Ironfists.jpg "File:Artigas - Ironfists.jpg")*
-- *[Blacklocks](/wiki/File:Artigas_-_Blacklocks.jpg "File:Artigas - Blacklocks.jpg")*
-- *[Swords of the Various Dwarven Cultures](/wiki/File:Artigas_-_Swords_of_the_Various_Dwarven_Cultures.jpg "File:Artigas - Swords of the Various Dwarven Cultures.jpg")*
-- *[Dwarven Axes](/wiki/File:Artigas_-_Dwarven_Axes.jpg "File:Artigas - Dwarven Axes.jpg")*
-- *[Weapons of the Seven Houses](/wiki/File:Artigas_-_Weapons_of_the_Seven_Houses.jpg "File:Artigas - Weapons of the Seven Houses.jpg")*
-- *[Dwarven Weaponry](/wiki/File:Artigas_-_Dwarven_Weaponry.jpg "File:Artigas - Dwarven Weaponry.jpg")*
+- *[Stiffbeards](Artigas_-_Stiffbeards.jpg.md)*
+- *[Stonefoots](Artigas_-_Stonefoots.jpg.md)*
+- *[Broadbeams](Artigas_-_Broadbeams.jpg.md)*
+- *[Longbeards](Artigas_-_Longbeards.jpg.md)*
+- *[Firebeards](Artigas_-_Firebeards.jpg.md)*
+- *[Ironfists](Artigas_-_Ironfists.jpg.md)*
+- *[Blacklocks](Artigas_-_Blacklocks.jpg.md)*
+- *[Swords of the Various Dwarven Cultures](Artigas_-_Swords_of_the_Various_Dwarven_Cultures.jpg.md)*
+- *[Dwarven Axes](Artigas_-_Dwarven_Axes.jpg.md)*
+- *[Weapons of the Seven Houses](Artigas_-_Weapons_of_the_Seven_Houses.jpg.md)*
+- *[Dwarven Weaponry](Artigas_-_Dwarven_Weaponry.jpg.md)*
 
 ## Licensing {#Licensing}
 
@@ -57,4 +56,4 @@ Related artworks by the same author:
 </p>
 <ul><li><b>Name:</b> Artigas</li>
 <li><b>Website:</b> <a class="external free" href="https://www.deviantart.com/artigas" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/artigas</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Artigas" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FArtigas.md" title="Tolkien Gateway:Copyrights/Artigas">Permission for use on Tolkien Gateway</a></b></li></ul></div>

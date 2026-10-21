@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "May (hobbit)"
 ---
 
-Redirect to [May (hobbit)](/wiki/May_(hobbit)).
+Redirect to [May (hobbit)](<May_(hobbit).md>).

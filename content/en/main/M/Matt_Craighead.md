@@ -1,6 +1,5 @@
 ---
 title: "Matt Craighead"
-display_title: "<span class=\"mw-page-title-main\">Matt Craighead</span>"
 page_id: 28181
 namespace: 0
 revision_id: 120965
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Craighead, Matt"
 ---
 
-**Matt Craighead** was the founder, and originally the main designer, of the video game *[Utumno](</wiki/Utumno_(video_game)> "Utumno (video game)")*. Matt stopped working on *Utumno* in [1998](/wiki/1998) and the game was cancelled; after eleven years the game was revived in [2009](/wiki/2009).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Matt Craighead** was the founder, and originally the main designer, of the video game *[Utumno](<../U/Utumno_(video_game).md>)*. Matt stopped working on *Utumno* in [1998](../_/1998.md) and the game was cancelled; after eleven years the game was revived in [2009](../_/2009.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

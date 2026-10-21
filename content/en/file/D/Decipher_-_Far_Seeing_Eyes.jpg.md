@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Far Seeing Eyes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Far Seeing Eyes.jpg</span>"
 page_id: 22614
 namespace: 6
 revision_id: 211664

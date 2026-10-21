@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Slag-hills"
 ---
 
-Redirect to [Slag-hills](/wiki/Slag-hills).
+Redirect to [Slag-hills](Slag-hills.md).

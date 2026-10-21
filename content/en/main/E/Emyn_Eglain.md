@@ -1,6 +1,5 @@
 ---
 title: "Emyn Eglain"
-display_title: "<span class=\"mw-page-title-main\">Emyn Eglain</span>"
 page_id: 36053
 namespace: 0
 revision_id: 405397
@@ -25,11 +24,11 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/reliefs/beleriand/collines_d_eglamar"
 ---
 
-**Emyn Eglain**, or the **Hills of Eglamar**, was a range of hills located in the land of the [Falas](/wiki/Falas) in southwestern [Beleriand](/wiki/Beleriand). The hills only appear on a map and are never mentioned in any narrative.<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
+**Emyn Eglain**, or the **Hills of Eglamar**, was a range of hills located in the land of the [Falas](../F/Falas.md) in southwestern [Beleriand](../B/Beleriand.md). The hills only appear on a map and are never mentioned in any narrative.<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-The name *Emyn Eglain* means "Hills of the Forsaken (Elves)" in [Sindarin](/wiki/Sindarin), from *[emyn](/wiki/Amon "Amon")* ("hill") and *[Eglain](/wiki/Falathrim#Names "Falathrim")* ("the Forsaken"). The name *Eglamar* is, as noted by [Christopher Tolkien](/wiki/Christopher_Tolkien), "one of the oldest names in \[[J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s\] *[legendarium](/wiki/Legendarium "Legendarium")*" (for other applications, cf. <a class="mw-disambig" href="/wiki/Eglamar_(disambiguation)" title="Eglamar (disambiguation)">Eglamar (disambiguation)</a>).<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
+The name *Emyn Eglain* means "Hills of the Forsaken (Elves)" in [Sindarin](../S/Sindarin.md), from *[emyn](../A/Amon.md)* ("hill") and *[Eglain](../F/Falathrim.md#Names)* ("the Forsaken"). The name *Eglamar* is, as noted by [Christopher Tolkien](../C/Christopher_Tolkien.md), "one of the oldest names in \[[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s\] *[legendarium](../L/Legendarium.md)*" (for other applications, cf. <a class="mw-disambig" href="Eglamar_(disambiguation).md" title="Eglamar (disambiguation)">Eglamar (disambiguation)</a>).<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
 
 <span></span>
 
@@ -37,6 +36,6 @@ The name *Emyn Eglain* means "Hills of the Forsaken (Elves)" in [Sindarin](/wiki
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-WJBeleriand-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WJBeleriand_1-0">1.0</a></sup> <sup><a href="#cite_ref-WJBeleriand_1-1">1.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Two. The Later <i>Quenta Silmarillion</i>: Of Beleriand its Realms (Chapter 11)&#34;, pp. 184, 189</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Two. The Later <i>Quenta Silmarillion</i>: Of Beleriand its Realms (Chapter 11)&#34;, pp. 184, 189</span>
 </li>
 </ol></div>

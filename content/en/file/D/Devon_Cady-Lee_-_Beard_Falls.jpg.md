@@ -1,6 +1,5 @@
 ---
 title: "File:Devon Cady-Lee - Beard Falls.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Devon Cady-Lee - Beard Falls.jpg</span>"
 page_id: 75203
 namespace: 6
 revision_id: 442766
@@ -31,18 +30,15 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Devon Cady-Lee - Beard Falls.jpg</span></th>
 <td class="description">
-Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
+Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
 <p>Description
 This was one of the first concepts I made getting Mines of Moria off the ground.
 </p><p>I don&#39;t have as much experience doing environments as I do characters so I learned a lot from doing these early projections of key areas. I actually intended this doorway and the bridge inside this natural cave to be a unique POI, like a special place devoted to all the past Dwarven kings with all their portraits carved into stone. Dwarves had a huge respect for the natural formation of stonework, so art like buddhist relief sculptures were a big influence on this idea.
 </p><p>They liked the motif so much they just spammed it everywhere so all the doors in Moria have a dwarf head above it. It&#39;s kinda creepy, but I guess that&#39;s the point.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Devon Cady-Lee</td>
@@ -51,7 +47,6 @@ This was one of the first concepts I made getting Mines of Moria off the ground.
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/gorrem/art/LoTRO%3A-Beard-Falls-115052683" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master of Buckland"
 ---
 
-Redirect to [Master of Buckland](/wiki/Master_of_Buckland).
+Redirect to [Master of Buckland](Master_of_Buckland.md).

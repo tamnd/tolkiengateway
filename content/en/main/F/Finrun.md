@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finrún"
 ---
 
-Redirect to [Finrún](/wiki/Finrún).
+Redirect to [Finrún](Finrún.md).

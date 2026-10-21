@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Debbie Hughes"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Debbie Hughes</span>"
 page_id: 74102
 namespace: 14
 revision_id: 437145
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hughes, Debbie"
 ---
 
-This category lists all **images by [Debbie Hughes](/wiki/Debbie_Hughes)**.
+This category lists all **images by [Debbie Hughes](../../main/D/Debbie_Hughes.md)**.

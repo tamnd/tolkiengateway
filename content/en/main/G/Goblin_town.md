@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goblin-town"
 ---
 
-Redirect to [Goblin-town](/wiki/Goblin-town).
+Redirect to [Goblin-town](Goblin-town.md).

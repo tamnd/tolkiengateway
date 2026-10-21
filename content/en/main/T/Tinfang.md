@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tinfang Warble"
 ---
 
-Redirect to [Tinfang Warble](/wiki/Tinfang_Warble).
+Redirect to [Tinfang Warble](Tinfang_Warble.md).

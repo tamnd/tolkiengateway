@@ -11,4 +11,4 @@ redirect_target: "Uinen"
 redirect_fragment: "Other Versions of the legendarium"
 ---
 
-Redirect to [Uinen](/wiki/Uinen#Other_Versions_of_the_legendarium).
+Redirect to [Uinen](../U/Uinen.md#Other_Versions_of_the_legendarium).

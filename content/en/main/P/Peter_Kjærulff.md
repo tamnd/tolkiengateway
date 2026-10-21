@@ -1,6 +1,5 @@
 ---
 title: "Peter Kjærulff"
-display_title: "<span class=\"mw-page-title-main\">Peter Kjærulff</span>"
 page_id: 6406
 namespace: 0
 revision_id: 406972
@@ -19,9 +18,9 @@ sort_keys:
   "People by name": "Kjaerulff, Peter"
 ---
 
-**Peter Kjærulff** (born [1947](/wiki/1947)) is a Danish <a class="extiw" href="http://en.wikipedia.org/wiki/New_Age" title="wikipedia:New Age">New Age</a> writer.
+**Peter Kjærulff** (born [1947](../_/1947.md)) is a Danish <a class="extiw" href="http://en.wikipedia.org/wiki/New_Age" title="wikipedia:New Age">New Age</a> writer.
 
-His [1985](/wiki/1985) book *The Ringbearer's Diary* supposedly describes a 'historical' truth behind the literary motif of cursed [rings](/wiki/Rings_of_Power "Rings of Power"), found for example in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, Richard Wagner's *[Der Ring des Nibelungen](/wiki/Der_Ring_des_Nibelungen)* and Plato's <a class="extiw" href="http://en.wikipedia.org/wiki/Ring_of_Gyges" title="wikipedia:Ring of Gyges">Ring of Gyges</a>.
+His [1985](../_/1985.md) book *The Ringbearer's Diary* supposedly describes a 'historical' truth behind the literary motif of cursed [rings](../R/Rings_of_Power.md), found for example in [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Richard Wagner's *[Der Ring des Nibelungen](../D/Der_Ring_des_Nibelungen.md)* and Plato's <a class="extiw" href="http://en.wikipedia.org/wiki/Ring_of_Gyges" title="wikipedia:Ring of Gyges">Ring of Gyges</a>.
 
 ## External links {#External_links}
 

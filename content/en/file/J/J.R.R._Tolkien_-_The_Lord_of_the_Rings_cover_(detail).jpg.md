@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Lord of the Rings cover (detail).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Lord of the Rings cover (detail).jpg</span>"
 page_id: 61642
 namespace: 6
 revision_id: 358525
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Detail of the first edition covers of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, depicting [the One Ring](/wiki/The_One_Ring "The One Ring"), and the [Eye of Sauron](/wiki/Eye_of_Sauron) surrounded by the [Ring-inscription](/wiki/Ring-inscription) in [Black Speech](/wiki/Black_Speech).
+Detail of the first edition covers of *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, depicting [the One Ring](../../main/T/The_One_Ring.md), and the [Eye of Sauron](../../main/E/Eye_of_Sauron.md) surrounded by the [Ring-inscription](../../main/R/Ring-inscription.md) in [Black Speech](../../main/B/Black_Speech.md).
 
 ## Licensing {#Licensing}
 

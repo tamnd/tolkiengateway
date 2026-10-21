@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Luthany"
 ---
 
-Redirect to [Luthany](/wiki/Luthany).
+Redirect to [Luthany](Luthany.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Jennifer Hale.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jennifer Hale.JPG</span>"
 page_id: 22421
 namespace: 6
 revision_id: 248858

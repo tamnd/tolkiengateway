@@ -1,6 +1,5 @@
 ---
 title: "Guild Publishing"
-display_title: "<span class=\"mw-page-title-main\">Guild Publishing</span>"
 page_id: 28969
 namespace: 0
 revision_id: 127478
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Guild Publishing** was the company that re-released the game *[Lord of the Rings: Game One](/wiki/Lord_of_the_Rings:_Game_One)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Guild Publishing** was the company that re-released the game *[Lord of the Rings: Game One](../L/Lord_of_the_Rings%253A_Game_One.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

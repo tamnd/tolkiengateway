@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "O! Wanderers in the shadowed land"
 ---
 
-Redirect to [O! Wanderers in the shadowed land](/wiki/O!_Wanderers_in_the_shadowed_land).
+Redirect to [O! Wanderers in the shadowed land](O!_Wanderers_in_the_shadowed_land.md).

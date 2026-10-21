@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Foreword (disambiguation)"
 ---
 
-Redirect to [Foreword (disambiguation)](/wiki/Foreword_(disambiguation)).
+Redirect to [Foreword (disambiguation)](<Foreword_(disambiguation).md>).

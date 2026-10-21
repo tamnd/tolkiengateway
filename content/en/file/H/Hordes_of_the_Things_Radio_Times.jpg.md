@@ -1,6 +1,5 @@
 ---
 title: "File:Hordes of the Things Radio Times.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hordes of the Things Radio Times.jpg</span>"
 page_id: 26271
 namespace: 6
 revision_id: 248730

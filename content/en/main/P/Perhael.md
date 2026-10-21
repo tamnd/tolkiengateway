@@ -1,6 +1,5 @@
 ---
 title: "Perhael"
-display_title: "<span class=\"mw-page-title-main\">Perhael</span>"
 page_id: 12515
 namespace: 0
 revision_id: 404890
@@ -23,35 +22,35 @@ langlinks:
     url: "https://kontu.wiki/Perhael"
 ---
 
-**Perhael** was a [Sindarin](/wiki/Sindarin) name, meaning "half-wise",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> that [Aragorn II](/wiki/Aragorn "Aragorn") used for [Samwise Gamgee](/wiki/Samwise_Gamgee).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The name was a translation of the [Westron](/wiki/Westron) name *[Banazîr](/wiki/Banaz%C3%AEr)*.<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+**Perhael** was a [Sindarin](../S/Sindarin.md) name, meaning "half-wise",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> that [Aragorn II](../A/Aragorn.md) used for [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The name was a translation of the [Westron](../W/Westron.md) name *[Banazîr](../B/Banazîr.md)*.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Etymology {#Etymology}
 
-From the [Sindarin](/wiki/Sindarin) root <i><a class="new" href="/w/index.php?title=Per-&amp;action=edit&amp;redlink=1" title="Per- (page does not exist)">per-</a></i> "half" and <i><a class="new" href="/w/index.php?title=Sael&amp;action=edit&amp;redlink=1" title="Sael (page does not exist)">sael</a></i> meaning "wise".<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+From the [Sindarin](../S/Sindarin.md) root <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Per-&amp;action=edit&amp;redlink=1" title="Per- (page does not exist)">per-</a></i> "half" and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sael&amp;action=edit&amp;redlink=1" title="Sael (page does not exist)">sael</a></i> meaning "wise".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Other forms {#Other_forms}
 
-- *Berhael* = [lenited](/wiki/Lenition "Lenition") form in the phrase *[Daur a Berhael, Conin en Annûn! Eglerio!](/wiki/Long_live_the_Halflings!_Praise_them_with_great_praise! "Long live the Halflings! Praise them with great praise!")*
+- *Berhael* = [lenited](../L/Lenition.md) form in the phrase *[Daur a Berhael, Conin en Annûn! Eglerio!](../L/Long_live_the_Halflings!_Praise_them_with_great_praise!.md)*
 
 ## Cognates {#Cognates}
 
-- [Westron](/wiki/Westron) *[Banazîr](/wiki/Banaz%C3%AEr)*
+- [Westron](../W/Westron.md) *[Banazîr](../B/Banazîr.md)*
 
 ## See also {#See_also}
 
-- [Iorhael](/wiki/Iorhael)
+- [Iorhael](../I/Iorhael.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 102</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 102</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/The_Field_of_Cormallen" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Sauron_Defeated" title="Sauron Defeated">Sauron Defeated</a></i>, p. 129</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i>, p. 129</span>
 </li>
 </ol></div>
 
-- [J.R.R. Tolkien](/wiki/J.R.R._Tolkien); [Humphrey Carpenter](/wiki/Humphrey_Carpenter), [Christopher Tolkien](/wiki/Christopher_Tolkien) (eds.), *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*, [Letter 230](/wiki/Letter_230), (dated [8 June](/wiki/8_June) [1961](/wiki/1961))
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); [Humphrey Carpenter](../H/Humphrey_Carpenter.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (eds.), *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*, [Letter 230](../L/Letter_230.md), (dated [8 June](../_/8_June.md) [1961](../_/1961.md))

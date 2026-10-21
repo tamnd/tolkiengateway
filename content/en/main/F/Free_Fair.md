@@ -1,6 +1,5 @@
 ---
 title: "Free Fair"
-display_title: "<span class=\"mw-page-title-main\">Free Fair</span>"
 page_id: 16512
 namespace: 0
 revision_id: 331296
@@ -22,19 +21,19 @@ langlinks:
     url: "https://kontu.wiki/Valkovaarojen_vapaamarkkinat"
 ---
 
-The **Free Fair** was a festival that the [Hobbits](/wiki/Hobbits) held during the three days of [Lithe](/wiki/Lithedays "Lithedays"). It took place in the [White Downs](/wiki/White_Downs) near [Michel Delving](/wiki/Michel_Delving) and among the attractions was the election of the [Mayor of Michel Delving](/wiki/Mayor_of_Michel_Delving) held every seven years. It was called 'Free' because anyone could set up a stall without charge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Free Fair** was a festival that the [Hobbits](../H/Hobbits.md) held during the three days of [Lithe](../L/Lithedays.md). It took place in the [White Downs](../W/White_Downs.md) near [Michel Delving](../M/Michel_Delving.md) and among the attractions was the election of the [Mayor of Michel Delving](../M/Mayor_of_Michel_Delving.md) held every seven years. It was called 'Free' because anyone could set up a stall without charge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-At the Free Fair of [S.R.](/wiki/Shire_Reckoning "Shire Reckoning") [1420](/wiki/Third_Age_3020 "Third Age 3020") [Frodo Baggins](/wiki/Frodo_Baggins) resigned as Deputy Mayor and [Will Whitfoot](/wiki/Will_Whitfoot) returned to office for seven years.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In [1427](/wiki/Fourth_Age_6 "Fourth Age 6") Will Whitfoot resigned and [Samwise Gamgee](/wiki/Samwise_Gamgee) was elected Mayor, beginning the first of seven terms in office.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+At the Free Fair of [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md) [Frodo Baggins](Frodo_Baggins.md) resigned as Deputy Mayor and [Will Whitfoot](../W/Will_Whitfoot.md) returned to office for seven years.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In [1427](Fourth_Age_6.md) Will Whitfoot resigned and [Samwise Gamgee](../S/Samwise_Gamgee.md) was elected Mayor, beginning the first of seven terms in office.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="/wiki/Prologue_(The_Lord_of_the_Rings)" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="/wiki/Of_the_Ordering_of_the_Shire" title="Of the Ordering of the Shire">Of the Ordering of the Shire</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, &#34;<a href="../P/Prologue_(The_Lord_of_the_Rings).md" title="Prologue (The Lord of the Rings)">Prologue</a>&#34;, &#34;<a class="mw-redirect" href="../O/Of_the_Ordering_of_the_Shire.md" title="Of the Ordering of the Shire">Of the Ordering of the Shire</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="/wiki/The_Grey_Havens" title="The Grey Havens">The Grey Havens</a>&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_B" title="Appendix B">Appendix B</a>, &#34;Later Events Concerning the Members of the Fellowship of the Ring&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;Later Events Concerning the Members of the Fellowship of the Ring&#34;</span>
 </li>
 </ol></div>

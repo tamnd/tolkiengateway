@@ -1,6 +1,5 @@
 ---
 title: "File:The Ballad of Bilbo Baggins screenshot.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ballad of Bilbo Baggins screenshot.jpg</span>"
 page_id: 65545
 namespace: 6
 revision_id: 377378

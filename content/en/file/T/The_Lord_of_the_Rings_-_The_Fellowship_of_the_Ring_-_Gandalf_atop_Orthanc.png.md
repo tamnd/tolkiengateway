@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Gandalf atop Orthanc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Gandalf atop Orthanc.png</span>"
 page_id: 73658
 namespace: 6
 revision_id: 435159
@@ -29,19 +28,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/19_December" title="19 December">December 19th</a> <a href="/wiki/2001" title="2001">2001</a></td>
+<td><a href="../../main/_/19_December.md" title="19 December">December 19th</a> <a href="../../main/_/2001.md" title="2001">2001</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://movie-screencaps.com/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-4k/page/60" rel="noreferrer noopener" target="_blank">https://movie-screencaps.com/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-4k/page/60</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

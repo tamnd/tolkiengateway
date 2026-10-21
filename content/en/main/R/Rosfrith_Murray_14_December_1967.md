@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Rosfrith Murray"
 ---
 
-Redirect to [Letter to Rosfrith Murray](/wiki/Letter_to_Rosfrith_Murray).
+Redirect to [Letter to Rosfrith Murray](../L/Letter_to_Rosfrith_Murray.md).

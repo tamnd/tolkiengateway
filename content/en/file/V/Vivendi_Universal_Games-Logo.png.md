@@ -1,6 +1,5 @@
 ---
 title: "File:Vivendi Universal Games-Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vivendi Universal Games-Logo.png</span>"
 page_id: 64581
 namespace: 6
 revision_id: 370985

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stoors"
 ---
 
-Redirect to [Stoors](/wiki/Stoors).
+Redirect to [Stoors](../S/Stoors.md).

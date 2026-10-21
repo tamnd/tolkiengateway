@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea of Rhûn"
 ---
 
-Redirect to [Sea of Rhûn](/wiki/Sea_of_Rhûn).
+Redirect to [Sea of Rhûn](Sea_of_Rhûn.md).

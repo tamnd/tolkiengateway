@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from Mines of Moria II: The Escape Out"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from Mines of Moria II: The Escape Out</span>"
 page_id: 32835
 namespace: 14
 revision_id: 196664

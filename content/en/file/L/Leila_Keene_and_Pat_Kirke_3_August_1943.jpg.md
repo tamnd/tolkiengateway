@@ -1,6 +1,5 @@
 ---
 title: "File:Leila Keene and Pat Kirke 3 August 1943.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Leila Keene and Pat Kirke 3 August 1943.jpg</span>"
 page_id: 41036
 namespace: 6
 revision_id: 215052

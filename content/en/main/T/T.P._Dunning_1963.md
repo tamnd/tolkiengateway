@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to T.P. Dunning"
 ---
 
-Redirect to [Letter to T.P. Dunning](/wiki/Letter_to_T.P._Dunning).
+Redirect to [Letter to T.P. Dunning](../L/Letter_to_T.P._Dunning.md).

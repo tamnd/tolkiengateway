@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Helio Figueiredo"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Helio Figueiredo</span>"
 page_id: 40349
 namespace: 4
 revision_id: 203067
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Figueiredo, Helio"
 ---
 
-- Helio Figueiredo has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Helio_Figueiredo "Category:Images by Helio Figueiredo") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Helio Figueiredo has kindly granted his permission to use [his artwork](../../category/I/Images_by_Helio_Figueiredo.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 9 July 2012
-- User who sought the permission via email: [User:KingAragorn](/wiki/User:KingAragorn)
+- User who sought the permission via email: [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Théodred.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Théodred.png</span>"
 page_id: 38360
 namespace: 6
 revision_id: 330950
@@ -25,7 +24,7 @@ file:
   user: "Malachi"
 ---
 
-[Théodred](/wiki/Th%C3%A9odred) in *[The Lord of the Rings Online: Rise of Isengard](/wiki/The_Lord_of_the_Rings_Online:_Rise_of_Isengard).*
+[Théodred](../../main/T/Théodred.md) in *[The Lord of the Rings Online: Rise of Isengard](../../main/T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md).*
 
 ## Licensing {#Licensing}
 

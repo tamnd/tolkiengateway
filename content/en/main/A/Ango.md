@@ -13,25 +13,25 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>ango</b></i> (plural *angwi*) is a noun meaning "[snake](/wiki/Snakes "Snakes")" in [Quenya](/wiki/Quenya).<sup id="cite_ref-Ety349_1-0" class="reference"><a href="#cite_note-Ety349-1">[1]</a></sup>
+<i><b>ango</b></i> (plural *angwi*) is a noun meaning "[snake](../S/Snakes.md)" in [Quenya](../Q/Quenya.md).<sup id="cite_ref-Ety349_1-0" class="reference"><a href="#cite_note-Ety349-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-It is derived from the [Elvish](/wiki/Elvish) [root](/wiki/Sundocarme "Sundocarme") [ANGWA/ANGU](/wiki/ANGWA "ANGWA").<sup id="cite_ref-Ety349_1-1" class="reference"><a href="#cite_note-Ety349-1">[1]</a></sup>
+It is derived from the [Elvish](../E/Elvish.md) [root](../S/Sundocarme.md) [ANGWA/ANGU](ANGWA.md).<sup id="cite_ref-Ety349_1-1" class="reference"><a href="#cite_note-Ety349-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Quenya](/wiki/Quenya) *[lókë](/wiki/L%C3%B3k%C3%AB "Lókë")*
+- [Quenya](../Q/Quenya.md) *[lókë](../L/Lókë.md)*
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin) *am-* (as in *[amlug](/wiki/Amlug "Amlug")*)
+- [Sindarin](../S/Sindarin.md) *am-* (as in *[amlug](Amlug.md)*)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety349-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety349_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety349_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 349</span>
+<li id="cite_note-Ety349-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety349_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety349_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 349</span>
 </li>
 </ol></div>

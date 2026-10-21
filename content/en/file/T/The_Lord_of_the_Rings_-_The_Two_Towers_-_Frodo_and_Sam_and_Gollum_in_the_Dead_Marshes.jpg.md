@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Frodo and Sam and Gollum in the Dead Marshes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Frodo and Sam and Gollum in the Dead Marshes.jpg</span>"
 page_id: 64187
 namespace: 6
 revision_id: 430416
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, "[The Passage of the Marshes](</wiki/The_Passage_of_the_Marshes_(scene)> "The Passage of the Marshes (scene)")".
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, "[The Passage of the Marshes](<../../main/T/The_Passage_of_the_Marshes_(scene).md>)".
 
 ## Licensing {#Licensing}
 

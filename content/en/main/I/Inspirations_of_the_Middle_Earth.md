@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Inspirations of the Middle Earth</b></i> is an album by [Nobody's Fools](/wiki/Nobody%27s_Fools) released in 2001.
+<i><b>Inspirations of the Middle Earth</b></i> is an album by [Nobody's Fools](../N/Nobody's_Fools.md) released in 2001.
 
 ## Track listing {#Track_listing}
 

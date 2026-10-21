@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves (book)"
 ---
 
-Redirect to [Elves (book)](/wiki/Elves_(book)).
+Redirect to [Elves (book)](<Elves_(book).md>).

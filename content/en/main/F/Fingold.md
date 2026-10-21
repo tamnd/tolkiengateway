@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fingolfin"
 ---
 
-Redirect to [Fingolfin](/wiki/Fingolfin).
+Redirect to [Fingolfin](Fingolfin.md).

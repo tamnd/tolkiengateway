@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lōgrad"
 ---
 
-Redirect to [Lōgrad](/wiki/Lōgrad).
+Redirect to [Lōgrad](Lōgrad.md).

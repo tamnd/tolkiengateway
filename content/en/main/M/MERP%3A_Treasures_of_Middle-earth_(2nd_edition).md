@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures of Middle-earth (2nd edition)"
 ---
 
-Redirect to [Treasures of Middle-earth (2nd edition)](/wiki/Treasures_of_Middle-earth_(2nd_edition)).
+Redirect to [Treasures of Middle-earth (2nd edition)](<../T/Treasures_of_Middle-earth_(2nd_edition).md>).

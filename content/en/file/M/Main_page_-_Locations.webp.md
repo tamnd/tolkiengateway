@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - Locations.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - Locations.webp</span>"
 page_id: 67490
 namespace: 6
 revision_id: 391975

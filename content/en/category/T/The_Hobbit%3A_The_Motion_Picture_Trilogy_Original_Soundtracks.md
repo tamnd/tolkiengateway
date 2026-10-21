@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit: The Motion Picture Trilogy Original Soundtracks"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit: The Motion Picture Trilogy Original Soundtracks</span>"
 page_id: 47253
 namespace: 14
 revision_id: 251852

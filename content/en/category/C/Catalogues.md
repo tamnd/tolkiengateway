@@ -1,6 +1,5 @@
 ---
 title: "Category:Catalogues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Catalogues</span>"
 page_id: 26486
 namespace: 14
 revision_id: 405045

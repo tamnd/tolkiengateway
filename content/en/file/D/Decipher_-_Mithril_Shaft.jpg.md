@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Mithril Shaft.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Mithril Shaft.jpg</span>"
 page_id: 22573
 namespace: 6
 revision_id: 211681

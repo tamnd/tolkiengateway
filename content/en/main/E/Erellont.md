@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falathar, Erellont, and Aerandir"
 ---
 
-Redirect to [Falathar, Erellont, and Aerandir](/wiki/Falathar,_Erellont,_and_Aerandir).
+Redirect to [Falathar, Erellont, and Aerandir](../F/Falathar,_Erellont,_and_Aerandir.md).

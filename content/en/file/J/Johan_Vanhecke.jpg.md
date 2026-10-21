@@ -1,6 +1,5 @@
 ---
 title: "File:Johan Vanhecke.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Johan Vanhecke.jpg</span>"
 page_id: 44384
 namespace: 6
 revision_id: 233286
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Johan Vanhecke](/wiki/Johan_Vanhecke).
+Photograph of [Johan Vanhecke](../../main/J/Johan_Vanhecke.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Johan Vanhecke](/wiki/Johan_Vanhecke).
 </p>
 <ul><li><b>Name:</b> Johan Vanhecke</li>
 <li><b>Website:</b> Johan Vanhecke</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Johan_Vanhecke" title="Tolkien Gateway:Copyrights/Johan Vanhecke">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJohan_Vanhecke.md" title="Tolkien Gateway:Copyrights/Johan Vanhecke">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Smith of Wootton Major Leaf by Niggle (HarperCollins Audiobook).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Smith of Wootton Major Leaf by Niggle (HarperCollins Audiobook).jpg</span>"
 page_id: 32947
 namespace: 6
 revision_id: 275691
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *Smith of Wootton Major, Leaf by Niggle*, HarperCollins Audiobooks. Cover art by [Pauline Baynes](/wiki/Pauline_Baynes).
+Cover of *Smith of Wootton Major, Leaf by Niggle*, HarperCollins Audiobooks. Cover art by [Pauline Baynes](../../main/P/Pauline_Baynes.md).
 
 ## Licensing {#Licensing}
 

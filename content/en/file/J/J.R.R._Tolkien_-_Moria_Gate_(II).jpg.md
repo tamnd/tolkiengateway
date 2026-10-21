@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Moria Gate (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Moria Gate (II).jpg</span>"
 page_id: 5761
 namespace: 6
 revision_id: 360707
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Crayon drawing by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) of the steps leading up to the [West-gate](/wiki/West-gate) of [Moria](/wiki/Moria). This picture was first published in *[The J.R.R. Tolkien Calendar 1973](/wiki/The_J.R.R._Tolkien_Calendar_1973)* with a mistaken description and title, as [Christopher Tolkien](/wiki/Christopher_Tolkien) thought this was a depiction of the stairs that led to the [eastern Gates](/wiki/Great_Gates "Great Gates"). Instead, this was a fragment from [File:J.R.R. Tolkien - West Gate of Moria.jpg](/wiki/File:J.R.R._Tolkien_-_West_Gate_of_Moria.jpg), which was cut off because it did not match the description in the published book, as it was probably drawn before.
+Crayon drawing by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) of the steps leading up to the [West-gate](../../main/W/West-gate.md) of [Moria](../../main/M/Moria.md). This picture was first published in *[The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md)* with a mistaken description and title, as [Christopher Tolkien](../../main/C/Christopher_Tolkien.md) thought this was a depiction of the stairs that led to the [eastern Gates](../../main/G/Great_Gates.md). Instead, this was a fragment from [File:J.R.R. Tolkien - West Gate of Moria.jpg](J.R.R._Tolkien_-_West_Gate_of_Moria.jpg.md), which was cut off because it did not match the description in the published book, as it was probably drawn before.
 
 ## Licensing {#Licensing}
 

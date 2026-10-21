@@ -1,6 +1,5 @@
 ---
 title: "File:New Line Cinema 2011 WarnerMedia Byline.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Line Cinema 2011 WarnerMedia Byline.png</span>"
 page_id: 63345
 namespace: 6
 revision_id: 359748
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The current logo of [New Line Cinema](/wiki/New_Line_Cinema), which is now owned by Warner Bros. Discovery.
+The current logo of [New Line Cinema](../../main/N/New_Line_Cinema.md), which is now owned by Warner Bros. Discovery.
 
 ## Licensing {#Licensing}
 

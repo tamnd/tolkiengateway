@@ -15,4 +15,4 @@ sort_keys:
   "The Lord of the Rings chapters": "Two Towers"
 ---
 
-<dl><dd><i>Chapters of </i><b><a href="/wiki/The_Two_Towers" title="The Two Towers">The Two Towers</a></b><i></i></dd></dl>
+<dl><dd><i>Chapters of </i><b><a href="../../main/T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></b><i></i></dd></dl>

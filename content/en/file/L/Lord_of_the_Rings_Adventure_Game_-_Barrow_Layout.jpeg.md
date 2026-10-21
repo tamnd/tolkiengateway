@@ -1,6 +1,5 @@
 ---
 title: "File:Lord of the Rings Adventure Game - Barrow Layout.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lord of the Rings Adventure Game - Barrow Layout.jpeg</span>"
 page_id: 71256
 namespace: 6
 revision_id: 425067
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Barrow](/wiki/Barrows "Barrows") layout - *[Lord of the Rings Adventure Game](/wiki/Lord_of_the_Rings_Adventure_Game)* - *[Darker than the Darkness](/wiki/Darker_than_the_Darkness)*
+[The Barrow](../../main/B/Barrows.md) layout - *[Lord of the Rings Adventure Game](../../main/L/Lord_of_the_Rings_Adventure_Game.md)* - *[Darker than the Darkness](../../main/D/Darker_than_the_Darkness.md)*
 
 ## Licensing {#Licensing}
 

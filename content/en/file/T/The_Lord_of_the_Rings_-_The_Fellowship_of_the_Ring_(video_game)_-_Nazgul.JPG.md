@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring (video game) - Nazgul.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring (video game) - Nazgul.JPG</span>"
 page_id: 21049
 namespace: 6
 revision_id: 298589
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A [Black Rider](/wiki/Nazg%C3%BBl "Nazgûl") in [the Shire](/wiki/The_Shire "The Shire"). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)").
+A [Black Rider](../../main/N/Nazgûl.md) in [the Shire](../../main/T/The_Shire.md). Screenshot from [*The Lord of the Rings: The Fellowship of the Ring* (video game)](<../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>).
 
 ## Licensing {#Licensing}
 

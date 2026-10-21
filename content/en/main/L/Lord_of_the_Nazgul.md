@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Witch-king"
 ---
 
-Redirect to [Witch-king](/wiki/Witch-king).
+Redirect to [Witch-king](../W/Witch-king.md).

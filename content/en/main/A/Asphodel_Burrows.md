@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Asphodel Brandybuck"
 ---
 
-Redirect to [Asphodel Brandybuck](/wiki/Asphodel_Brandybuck).
+Redirect to [Asphodel Brandybuck](Asphodel_Brandybuck.md).

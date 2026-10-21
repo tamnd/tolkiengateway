@@ -1,6 +1,5 @@
 ---
 title: "File:Carl Phelpstead.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Carl Phelpstead.png</span>"
 page_id: 38215
 namespace: 6
 revision_id: 185601
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Carl Phelpstead](/wiki/Carl_Phelpstead).
+Photograph of [Carl Phelpstead](../../main/C/Carl_Phelpstead.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Carl Phelpstead](/wiki/Carl_Phelpstead).
 </p>
 <ul><li><b>Name:</b> Carl Phelpstead</li>
 <li><b>Website:</b> <a class="external text" href="http://www.carlphelpstead.info/" rel="noreferrer noopener" target="_blank">Carl Phelpstead</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Carl_Phelpstead" title="Tolkien Gateway:Copyrights/Carl Phelpstead">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FCarl_Phelpstead.md" title="Tolkien Gateway:Copyrights/Carl Phelpstead">Permission for use on Tolkien Gateway</a></b></li></ul></div>

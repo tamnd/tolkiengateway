@@ -15,17 +15,17 @@ sort_keys:
   "Quenya nouns": "Ehtar"
 ---
 
-<i><b>Ehtar</b></i> is [Quenya](/wiki/Quenya) for "spearman".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
+<i><b>Ehtar</b></i> is [Quenya](../Q/Quenya.md) for "spearman".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") EK-, EKTE- ("spear").<sup id="cite_ref-EK_1-1" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) EK-, EKTE- ("spear").<sup id="cite_ref-EK_1-1" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-EK-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-EK_1-0">1.0</a></sup> <sup><a href="#cite_ref-EK_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, <b>EK-, EKTE-</b></span>
+<li id="cite_note-EK-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-EK_1-0">1.0</a></sup> <sup><a href="#cite_ref-EK_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, <b>EK-, EKTE-</b></span>
 </li>
 </ol></div>

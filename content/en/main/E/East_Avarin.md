@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Avarin"
 ---
 
-Redirect to [Avarin](/wiki/Avarin).
+Redirect to [Avarin](../A/Avarin.md).

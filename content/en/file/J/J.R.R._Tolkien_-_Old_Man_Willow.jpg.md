@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Old Man Willow.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Old Man Willow.jpg</span>"
 page_id: 5758
 namespace: 6
 revision_id: 430036
@@ -28,11 +27,11 @@ file:
 
 ## Summary {#Summary}
 
-Drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) this crayon drawing illustrates the description of the great willow-tree in [The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring), Book I, Chapter 6, [The Old Forest](/wiki/The_Old_Forest):
+Drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) this crayon drawing illustrates the description of the great willow-tree in [The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md), Book I, Chapter 6, [The Old Forest](../../main/T/The_Old_Forest.md):
 
 <dl><dd>&#39;Enormous it looked, its sprawling branches going up like reaching arms with many long-fingered hands, its knotted and twisted trunk gaping in wide fissures that creaked faintly as the boughs moved.&#39;</dd></dl>
 
-It was published in [The J.R.R. Tolkien Calendar 1973](/wiki/The_J.R.R._Tolkien_Calendar_1973) and 1974; a somewhat enlarged reproduction with a part of the picture excluded appeared in [The Lord of the Rings 1977 Calendar](/wiki/The_Lord_of_the_Rings_1977_Calendar).
+It was published in [The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) and 1974; a somewhat enlarged reproduction with a part of the picture excluded appeared in [The Lord of the Rings 1977 Calendar](../../main/T/The_Lord_of_the_Rings_1977_Calendar.md).
 
 ## Licensing {#Licensing}
 

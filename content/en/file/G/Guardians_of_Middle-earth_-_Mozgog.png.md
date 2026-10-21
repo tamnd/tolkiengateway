@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Mozgog.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Mozgog.png</span>"
 page_id: 71441
 namespace: 6
 revision_id: 426031
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="new" href="/w/index.php?title=Mozgog&amp;action=edit&amp;redlink=1" title="Mozgog (page does not exist)">Mozgog</a> - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Mozgog&amp;action=edit&amp;redlink=1" title="Mozgog (page does not exist)">Mozgog</a> - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sheep"
 ---
 
-Redirect to [Sheep](/wiki/Sheep).
+Redirect to [Sheep](../S/Sheep.md).

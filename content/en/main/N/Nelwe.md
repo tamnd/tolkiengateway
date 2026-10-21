@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elmo"
 ---
 
-Redirect to [Elmo](/wiki/Elmo).
+Redirect to [Elmo](../E/Elmo.md).

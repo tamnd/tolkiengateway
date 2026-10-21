@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Cover art.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Cover art.jpg</span>"
 page_id: 56266
 namespace: 6
 revision_id: 306252
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of the game [Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)
+Cover of the game [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "King's Tree"
-display_title: "<span class=\"mw-page-title-main\">King&#039;s Tree</span>"
 page_id: 35922
 namespace: 0
 revision_id: 430283
@@ -14,13 +13,13 @@ categories:
   - "Trees"
 ---
 
-The **King’s Tree** was a great tree that [Smith Smithson](/wiki/Smith_Smithson) saw only once in the land of [Faery](/wiki/Faery). Smith had gotten lost one time in a grey mist. When the fog rolled away he was in a wide plain. Far away he espied a hill of shadow, yet out of the shadow rose the King's Tree. High it towered with a light like the sun at noon. It was laden with leaves, flowers, and fruits uncountable and was the only one of its kind.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **King’s Tree** was a great tree that [Smith Smithson](../S/Smith_Smithson.md) saw only once in the land of [Faery](../F/Faery.md). Smith had gotten lost one time in a grey mist. When the fog rolled away he was in a wide plain. Far away he espied a hill of shadow, yet out of the shadow rose the King's Tree. High it towered with a light like the sun at noon. It was laden with leaves, flowers, and fruits uncountable and was the only one of its kind.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/Smith_of_Wootton_Major" title="Smith of Wootton Major">Smith of Wootton Major</a></i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i></span>
 </li>
 </ol></div>

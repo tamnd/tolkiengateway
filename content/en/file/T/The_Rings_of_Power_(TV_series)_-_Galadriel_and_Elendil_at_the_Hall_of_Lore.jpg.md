@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Galadriel and Elendil at the Hall of Lore.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Galadriel and Elendil at the Hall of Lore.jpg</span>"
 page_id: 63827
 namespace: 6
 revision_id: 412260
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Galadriel](/wiki/Galadriel) and [Elendil](/wiki/Elendil) at the [Hall of Lore](/wiki/Hall_of_Lore) as seen in [The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power) series.
+[Galadriel](../../main/G/Galadriel.md) and [Elendil](../../main/E/Elendil.md) at the [Hall of Lore](../../main/H/Hall_of_Lore.md) as seen in [The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) series.
 
 ## Licensing {#Licensing}
 

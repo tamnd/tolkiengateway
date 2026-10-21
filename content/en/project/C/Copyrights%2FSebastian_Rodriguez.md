@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sebastian Rodriguez"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sebastian Rodriguez</span>"
 page_id: 54646
 namespace: 4
 revision_id: 295856
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rodriguez, Sebastian"
 ---
 
-- Sebastian Rodriguez has kindly granted his permission to use [his non-commissioned artwork](/wiki/Category:Images_by_Sebastian_Rodriguez "Category:Images by Sebastian Rodriguez") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Sebastian Rodriguez has kindly granted his permission to use [his non-commissioned artwork](../../category/I/Images_by_Sebastian_Rodriguez.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 December 2017
-- User who sought the permission via email: [User:Ebakunin](/wiki/User:Ebakunin)
+- User who sought the permission via email: [User:Ebakunin](https://tolkiengateway.net/wiki/User:Ebakunin)

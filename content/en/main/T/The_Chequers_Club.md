@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Chequers Clubbe"
 ---
 
-Redirect to [Chequers Clubbe](/wiki/Chequers_Clubbe).
+Redirect to [Chequers Clubbe](../C/Chequers_Clubbe.md).

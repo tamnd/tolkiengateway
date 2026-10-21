@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Cirith Ungol from the second stair.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Cirith Ungol from the second stair.png</span>"
 page_id: 71490
 namespace: 6
 revision_id: 436571
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Cirith Ungol](/wiki/Cirith_Ungol) from the second [stair](/wiki/Stairs_of_Cirith_Ungol "Stairs of Cirith Ungol")" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"[Cirith Ungol](../../main/C/Cirith_Ungol.md) from the second [stair](../../main/S/Stairs_of_Cirith_Ungol.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

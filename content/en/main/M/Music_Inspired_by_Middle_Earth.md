@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Music Inspired by Middle Earth</b></i> is an album featuring [David Arkenstone](/wiki/David_Arkenstone), released in [2001](/wiki/2001). The music is based on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s epic fantasy novel *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+<i><b>Music Inspired by Middle Earth</b></i> is an album featuring [David Arkenstone](../D/David_Arkenstone.md), released in [2001](../_/2001.md). The music is based on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s epic fantasy novel *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Track listing {#Track_listing}
 
@@ -35,7 +35,7 @@ categories:
 
 ## Personnel {#Personnel}
 
-- [David Arkenstone](/wiki/David_Arkenstone) - keyboards, guitars, whistle, flute, melodica, mandolin, bouzouki, percussion
+- [David Arkenstone](../D/David_Arkenstone.md) - keyboards, guitars, whistle, flute, melodica, mandolin, bouzouki, percussion
 - Diane Arkenstone - keyboards, dulcimer, vocals, bells
 - Don Markese - bawu, duduk, bansuri, ocarina
 - John Wakefield - percussion

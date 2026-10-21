@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Airë"
 ---
 
-Redirect to [Airë](/wiki/Airë).
+Redirect to [Airë](Airë.md).

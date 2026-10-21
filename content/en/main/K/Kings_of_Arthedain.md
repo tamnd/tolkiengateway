@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of Arthedain"
 ---
 
-Redirect to [King of Arthedain](/wiki/King_of_Arthedain).
+Redirect to [King of Arthedain](King_of_Arthedain.md).

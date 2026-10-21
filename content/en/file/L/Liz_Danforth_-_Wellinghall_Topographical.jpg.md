@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Wellinghall Topographical.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Wellinghall Topographical.jpg</span>"
 page_id: 71518
 namespace: 6
 revision_id: 426443

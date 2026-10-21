@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Family Trees"
 ---
 
-Redirect to [The Family Trees](/wiki/The_Family_Trees).
+Redirect to [The Family Trees](../T/The_Family_Trees.md).

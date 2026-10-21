@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Xabi Gaztelua"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Xabi Gaztelua</span>"
 page_id: 74902
 namespace: 14
 revision_id: 440693
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gaztelua, Xabi"
 ---
 
-This category lists all **images by [Xabi Gaztelua](/wiki/Xabi_Gaztelua)**.
+This category lists all **images by [Xabi Gaztelua](../../main/X/Xabi_Gaztelua.md)**.

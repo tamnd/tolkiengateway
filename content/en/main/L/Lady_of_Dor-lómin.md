@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morwen"
 ---
 
-Redirect to [Morwen](/wiki/Morwen).
+Redirect to [Morwen](../M/Morwen.md).

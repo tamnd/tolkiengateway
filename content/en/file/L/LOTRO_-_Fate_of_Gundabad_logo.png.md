@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Fate of Gundabad logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Fate of Gundabad logo.png</span>"
 page_id: 62077
 namespace: 6
 revision_id: 390091
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo for *[The Lord of the Rings Online: Fate of Gundabad](/wiki/The_Lord_of_the_Rings_Online:_Fate_of_Gundabad)*.
+Logo for *[The Lord of the Rings Online: Fate of Gundabad](../../main/T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md)*.
 
 ## Licensing {#Licensing}
 

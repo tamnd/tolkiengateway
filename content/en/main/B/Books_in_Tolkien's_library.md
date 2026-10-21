@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "List of books in Tolkien's library"
 ---
 
-Redirect to [List of books in Tolkien's library](/wiki/List_of_books_in_Tolkien's_library).
+Redirect to [List of books in Tolkien's library](../L/List_of_books_in_Tolkien's_library.md).

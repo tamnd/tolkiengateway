@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - One Morning Early in the Quiet of the World.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - One Morning Early in the Quiet of the World.png</span>"
 page_id: 71478
 namespace: 6
 revision_id: 427029
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"One Morning Early in the Quiet of the World" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"One Morning Early in the Quiet of the World" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

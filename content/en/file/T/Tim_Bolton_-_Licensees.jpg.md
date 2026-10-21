@@ -1,6 +1,5 @@
 ---
 title: "File:Tim Bolton - Licensees.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tim Bolton - Licensees.jpg</span>"
 page_id: 62629
 namespace: 6
 revision_id: 368105
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Tim Bolton</li>
 <li><b>Website:</b> <a class="external text" href="https://twitter.com/timboltonuk" rel="noreferrer noopener" target="_blank">Twitter Profile</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Tim_Bolton" title="Tolkien Gateway:Copyrights/Tim Bolton">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTim_Bolton.md" title="Tolkien Gateway:Copyrights/Tim Bolton">Permission for use on Tolkien Gateway</a></b></li></ul></div>

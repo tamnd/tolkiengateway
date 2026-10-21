@@ -1,6 +1,5 @@
 ---
 title: "Glenn Yarbrough"
-display_title: "<span class=\"mw-page-title-main\">Glenn Yarbrough</span>"
 page_id: 18822
 namespace: 0
 revision_id: 428051
@@ -27,25 +26,25 @@ sort_keys:
   "Singers": "Yarbrough, Glenn"
 ---
 
-**Glenn Yarbrough** ([12 January](/wiki/12_January), [1930](/wiki/1930) - [11 August](/wiki/11_August), [2016](/wiki/2016)) was the composer and performer of the music of [*The Hobbit* (1977 film)](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)") and *[The Return of the King](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)")*. His songs include "[The Greatest Adventure](/wiki/The_Greatest_Adventure)", "[Frodo of the Nine Fingers](/wiki/Frodo_of_the_Nine_Fingers)" and "[Where There's a Whip, There's a Way](/wiki/Where_There%27s_a_Whip,_There%27s_a_Way)". In *The Return of the King*, he is also the voice of the "[Minstrel of Gondor](/wiki/Minstrel_of_Gondor)", a character that sings the story of the movie to [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Elrond](/wiki/Elrond) in [Rivendell](/wiki/Rivendell).
+**Glenn Yarbrough** ([12 January](../_/12_January.md), [1930](../_/1930.md) - [11 August](../_/11_August.md), [2016](../_/2016.md)) was the composer and performer of the music of [*The Hobbit* (1977 film)](<../T/The_Hobbit_(1977_film).md>) and *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. His songs include "[The Greatest Adventure](../T/The_Greatest_Adventure.md)", "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)" and "[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)". In *The Return of the King*, he is also the voice of the "[Minstrel of Gondor](../M/Minstrel_of_Gondor.md)", a character that sings the story of the movie to [Bilbo](../B/Bilbo_Baggins.md) and [Elrond](../E/Elrond.md) in [Rivendell](../R/Rivendell.md).
 
 ## Discography {#Discography}
 
-- [1977](/wiki/1977): *[The Hobbit: Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack "The Hobbit: The Complete Original Soundtrack")*
-    - "[In the Valley, Ha! Ha!](/wiki/In_the_Valley,_Ha!_Ha!)"
-    - "[Old Fat Spider](/wiki/Old_Fat_Spider)"
-    - "[The Greatest Adventure](/wiki/The_Greatest_Adventure)" (also writer)
-    - "[Roads](</wiki/Roads_(song)> "Roads (song)")"
-- "[Old Fat Spider](/wiki/Old_Fat_Spider)"
-- [1980](/wiki/1980): *[The Return of the King: Soundtrack](/wiki/The_Return_of_the_King:_A_Story_of_the_Hobbits "The Return of the King: A Story of the Hobbits")*
-    - "[Frodo of the Nine Fingers](/wiki/Frodo_of_the_Nine_Fingers)"
-    - "[It's So Easy Not to Try](/wiki/It%27s_So_Easy_Not_to_Try)"
-    - "[Leave Tomorrow Till It Comes](/wiki/Leave_Tomorrow_Till_It_Comes)"
-    - "[Less Can Be More](/wiki/Less_Can_Be_More)"
-    - "[Where There's a Whip, There's a Way](/wiki/Where_There%27s_a_Whip,_There%27s_a_Way)"
-    - "[The Bearer of the Ring, the Wearer of the Ring](/wiki/The_Bearer_of_the_Ring,_the_Wearer_of_the_Ring)"
-    - "[The End of the Ring, the Return of the King](/wiki/The_End_of_the_Ring,_the_Return_of_the_King)"
-    - "[Roads Go Ever, Ever On](/wiki/Roads_Go_Ever,_Ever_On)"
+- [1977](../_/1977.md): *[The Hobbit: Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)*
+    - "[In the Valley, Ha! Ha!](../I/In_the_Valley,_Ha!_Ha!.md)"
+    - "[Old Fat Spider](../O/Old_Fat_Spider.md)"
+    - "[The Greatest Adventure](../T/The_Greatest_Adventure.md)" (also writer)
+    - "[Roads](<../R/Roads_(song).md>)"
+- "[Old Fat Spider](../O/Old_Fat_Spider.md)"
+- [1980](../_/1980.md): *[The Return of the King: Soundtrack](../T/The_Return_of_the_King%253A_A_Story_of_the_Hobbits.md)*
+    - "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)"
+    - "[It's So Easy Not to Try](../I/It's_So_Easy_Not_to_Try.md)"
+    - "[Leave Tomorrow Till It Comes](../L/Leave_Tomorrow_Till_It_Comes.md)"
+    - "[Less Can Be More](../L/Less_Can_Be_More.md)"
+    - "[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)"
+    - "[The Bearer of the Ring, the Wearer of the Ring](../T/The_Bearer_of_the_Ring,_the_Wearer_of_the_Ring.md)"
+    - "[The End of the Ring, the Return of the King](../T/The_End_of_the_Ring,_the_Return_of_the_King.md)"
+    - "[Roads Go Ever, Ever On](../R/Roads_Go_Ever,_Ever_On~44338.md)"
 
 ## External links {#External_links}
 

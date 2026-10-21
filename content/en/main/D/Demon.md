@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Demons"
 ---
 
-Redirect to [Demons](/wiki/Demons).
+Redirect to [Demons](Demons.md).

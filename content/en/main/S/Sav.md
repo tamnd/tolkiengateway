@@ -13,11 +13,11 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>savin</b></i> is [Quenya](/wiki/Quenya) for "I believe" (referring to the existence or actuality of something).
+<i><b>savin</b></i> is [Quenya](../Q/Quenya.md) for "I believe" (referring to the existence or actuality of something).
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=SAB&amp;action=edit&amp;redlink=1" title="SAB (page does not exist)">SAB</a><sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+- [Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAB&amp;action=edit&amp;redlink=1" title="SAB (page does not exist)">SAB</a><sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
 
 ## Forms {#Forms}
 
@@ -25,13 +25,13 @@ categories:
 
 ## Examples {#Examples}
 
-- *Savin Elessar - ar i náne aran Ondóreo* "I believe that [Elessar](/wiki/Aragorn "Aragorn") really existed - and that he was a [king of Gondor](/wiki/King_of_Gondor "King of Gondor")"<sup id="cite_ref-VT49_1-2" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+- *Savin Elessar - ar i náne aran Ondóreo* "I believe that [Elessar](../A/Aragorn.md) really existed - and that he was a [king of Gondor](../K/King_of_Gondor.md)"<sup id="cite_ref-VT49_1-2" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-VT49-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT49_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT49_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT49_1-2">1.2</a></sup></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 27</span>
+<li id="cite_note-VT49-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-VT49_1-0">1.0</a></sup> <sup><a href="#cite_ref-VT49_1-1">1.1</a></sup> <sup><a href="#cite_ref-VT49_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007, p. 27</span>
 </li>
 </ol></div>

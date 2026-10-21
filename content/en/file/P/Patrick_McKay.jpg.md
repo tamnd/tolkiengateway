@@ -1,6 +1,5 @@
 ---
 title: "File:Patrick McKay.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Patrick McKay.jpg</span>"
 page_id: 63729
 namespace: 6
 revision_id: 434543
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.allocine.fr/personne/fichepersonne-502689/photos/detail/?cmediafile=21940209" rel="noreferrer noopener" target="_blank">AlloCiné</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

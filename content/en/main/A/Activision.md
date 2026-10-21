@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vivendi"
 ---
 
-Redirect to [Vivendi](/wiki/Vivendi).
+Redirect to [Vivendi](../V/Vivendi.md).

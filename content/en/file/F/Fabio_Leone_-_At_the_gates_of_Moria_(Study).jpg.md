@@ -1,6 +1,5 @@
 ---
 title: "File:Fabio Leone - At the gates of Moria (Study).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fabio Leone - At the gates of Moria (Study).jpg</span>"
 page_id: 74260
 namespace: 6
 revision_id: 439051
@@ -32,23 +31,20 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Fabio Leone - At the gates of Moria (Study).jpg</span></th>
 <td class="description">
-<p><i>At <a href="/wiki/Doors_of_Durin" title="Doors of Durin">the gates</a> of <a href="/wiki/Moria" title="Moria">Moria</a></i> by <a href="/wiki/Category:Images_by_Fabio_Leone" title="Category:Images by Fabio Leone">Fabio Leone</a>
+<p><i>At <a href="../../main/D/Doors_of_Durin.md" title="Doors of Durin">the gates</a> of <a href="../../main/M/Moria.md" title="Moria">Moria</a></i> by <a href="../../category/I/Images_by_Fabio_Leone.md" title="Category:Images by Fabio Leone">Fabio Leone</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/29_October" title="29 October">October 29</a>, <a href="/wiki/2019" title="2019">2019</a> - 4:46 PM</td>
+<td><a href="../../main/_/29_October.md" title="29 October">October 29</a>, <a href="../../main/_/2019.md" title="2019">2019</a> - 4:46 PM</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Fabio_Leone" title="Category:Images by Fabio Leone">Fabio Leone</a></td>
+<td><a href="../../category/I/Images_by_Fabio_Leone.md" title="Category:Images by Fabio Leone">Fabio Leone</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://fabioleone.artstation.com/projects/k48eVK" rel="noreferrer noopener" target="_blank">https://fabioleone.artstation.com/projects/k48eVK</a></td>
 </tr>
-<!-- -->
 </tbody></table>

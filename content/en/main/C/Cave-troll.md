@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cave-trolls"
 ---
 
-Redirect to [Cave-trolls](/wiki/Cave-trolls).
+Redirect to [Cave-trolls](Cave-trolls.md).

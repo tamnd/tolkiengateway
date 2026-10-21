@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "La, Huru"
 ---
 
-Redirect to [La, Huru](/wiki/La,_Huru).
+Redirect to [La, Huru](La,_Huru.md).

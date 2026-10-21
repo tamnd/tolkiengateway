@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adrahil (Captain of the Left Wing)"
 ---
 
-Redirect to [Adrahil (Captain of the Left Wing)](/wiki/Adrahil_(Captain_of_the_Left_Wing)).
+Redirect to [Adrahil (Captain of the Left Wing)](<Adrahil_(Captain_of_the_Left_Wing).md>).

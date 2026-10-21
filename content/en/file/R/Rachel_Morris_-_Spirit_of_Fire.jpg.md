@@ -1,6 +1,5 @@
 ---
 title: "File:Rachel Morris - Spirit of Fire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rachel Morris - Spirit of Fire.jpg</span>"
 page_id: 13332
 namespace: 6
 revision_id: 183679
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Fëanor](/wiki/F%C3%ABanor) about to be banished by his threat to [Fingolfin](/wiki/Fingolfin).
+[Fëanor](../../main/F/Fëanor.md) about to be banished by his threat to [Fingolfin](../../main/F/Fingolfin.md).
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Rachel Morris</li>
 <li><b>Website:</b> <a class="external text" href="http://www.rachelelm.net/" rel="noreferrer noopener" target="_blank">Rachel Morris&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Rachel_Morris" title="Tolkien Gateway:Copyrights/Rachel Morris">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRachel_Morris.md" title="Tolkien Gateway:Copyrights/Rachel Morris">Permission for use on Tolkien Gateway</a></b></li></ul></div>

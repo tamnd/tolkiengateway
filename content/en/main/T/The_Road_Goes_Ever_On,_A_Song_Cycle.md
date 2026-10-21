@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (book)"
 ---
 
-Redirect to [The Road Goes Ever On (book)](/wiki/The_Road_Goes_Ever_On_(book)).
+Redirect to [The Road Goes Ever On (book)](<The_Road_Goes_Ever_On_(book).md>).

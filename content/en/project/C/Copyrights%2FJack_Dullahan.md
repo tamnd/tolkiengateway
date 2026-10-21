@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Jack Dullahan"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Jack Dullahan</span>"
 page_id: 58049
 namespace: 4
 revision_id: 322183
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Dullahan, Jack"
 ---
 
-- Jack Dullahan has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Jack_Dullahan "Category:Images by Jack Dullahan") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Jack Dullahan has kindly granted his permission to use [his artwork](../../category/I/Images_by_Jack_Dullahan.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 3 September 2020
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

@@ -11,4 +11,4 @@ redirect_target: "Barahir"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Barahir](/wiki/Barahir#Other_versions_of_the_legendarium).
+Redirect to [Barahir](../B/Barahir.md#Other_versions_of_the_legendarium).

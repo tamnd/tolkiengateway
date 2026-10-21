@@ -1,6 +1,5 @@
 ---
 title: "File:Finding God in the Lord of the Rings.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Finding God in the Lord of the Rings.jpg</span>"
 page_id: 11360
 namespace: 6
 revision_id: 214054

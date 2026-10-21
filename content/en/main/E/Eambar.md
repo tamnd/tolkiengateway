@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eämbar"
 ---
 
-Redirect to [Eämbar](/wiki/Eämbar).
+Redirect to [Eämbar](Eämbar.md).

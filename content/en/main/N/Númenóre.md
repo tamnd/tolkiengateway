@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númenor"
 ---
 
-Redirect to [Númenor](/wiki/Númenor).
+Redirect to [Númenor](Númenor.md).

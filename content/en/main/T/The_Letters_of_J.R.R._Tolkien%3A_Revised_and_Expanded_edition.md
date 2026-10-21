@@ -11,4 +11,4 @@ redirect_target: "The Letters of J.R.R. Tolkien"
 redirect_fragment: "Revised and Expanded edition"
 ---
 
-Redirect to [The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien#Revised_and_Expanded_edition).
+Redirect to [The Letters of J.R.R. Tolkien](The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition).

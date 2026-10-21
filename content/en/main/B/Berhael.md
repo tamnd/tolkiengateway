@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Perhael"
 ---
 
-Redirect to [Perhael](/wiki/Perhael).
+Redirect to [Perhael](../P/Perhael.md).

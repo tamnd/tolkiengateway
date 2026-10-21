@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Darkness"
 ---
 
-Redirect to [Men of Darkness](/wiki/Men_of_Darkness).
+Redirect to [Men of Darkness](../M/Men_of_Darkness.md).

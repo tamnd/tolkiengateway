@@ -16,25 +16,25 @@ categories:
   - "Telerin adjectives"
 ---
 
-**tatya** is a [Telerin](/wiki/Telerin)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and archaic [Quenya](/wiki/Quenya) word meaning "second".
+**tatya** is a [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and archaic [Quenya](../Q/Quenya.md) word meaning "second".
 
 ## Etymology {#Etymology}
 
-The word comes from cardinal number *[tata](</wiki/Tata_(Elvish)> "Tata (Elvish)")* [Roots](/wiki/Sundocarme "Sundocarme") [AT](/wiki/AT)-[TA](/wiki/TA).
+The word comes from cardinal number *[tata](<Tata_(Elvish).md>)* [Roots](../S/Sundocarme.md) [AT](../A/AT.md)-[TA](TA.md).
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=Attea&amp;action=edit&amp;redlink=1" title="Attea (page does not exist)">attea</a></i> (a newer form)
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Attea&amp;action=edit&amp;redlink=1" title="Attea (page does not exist)">attea</a></i> (a newer form)
 
 ## See also {#See_also}
 
-- [Tatyar](/wiki/Tatyar)
+- [Tatyar](Tatyar.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oxford English Dictionary"
 ---
 
-Redirect to [Oxford English Dictionary](/wiki/Oxford_English_Dictionary).
+Redirect to [Oxford English Dictionary](Oxford_English_Dictionary.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orkish"
 ---
 
-Redirect to [Orkish](/wiki/Orkish).
+Redirect to [Orkish](Orkish.md).

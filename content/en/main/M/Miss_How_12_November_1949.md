@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Miss How"
 ---
 
-Redirect to [Letter to Miss How](/wiki/Letter_to_Miss_How).
+Redirect to [Letter to Miss How](../L/Letter_to_Miss_How.md).

@@ -1,6 +1,5 @@
 ---
 title: "Quotations"
-display_title: "<span class=\"mw-page-title-main\">Quotations</span>"
 page_id: 969
 namespace: 0
 revision_id: 407033
@@ -15,11 +14,11 @@ sort_keys:
   "Quotes": " "
 ---
 
-- **[J.R.R. Tolkien](/wiki/J.R.R._Tolkien/Quotations "J.R.R. Tolkien/Quotations")**
-    - *[The Hobbit](/wiki/The_Hobbit/Quotations "The Hobbit/Quotations")*
-    - *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings/Quotations "The Lord of the Rings/Quotations")*
-        - *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring/Quotations "The Fellowship of the Ring/Quotations")*
-        - *[The Two Towers](/wiki/The_Two_Towers/Quotations "The Two Towers/Quotations")*
-        - *[The Return of the King](/wiki/The_Return_of_the_King/Quotations "The Return of the King/Quotations")*
-        - [Appendices](/wiki/The_Lord_of_the_Rings_Appendices/Quotations "The Lord of the Rings Appendices/Quotations")
-    - *[The Silmarillion](/wiki/The_Silmarillion/Quotations "The Silmarillion/Quotations")*
+- **[J.R.R. Tolkien](../J/J.R.R._Tolkien%252FQuotations.md)**
+    - *[The Hobbit](../T/The_Hobbit%252FQuotations.md)*
+    - *[The Lord of the Rings](../T/The_Lord_of_the_Rings%252FQuotations.md)*
+        - *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring%252FQuotations.md)*
+        - *[The Two Towers](../T/The_Two_Towers%252FQuotations.md)*
+        - *[The Return of the King](../T/The_Return_of_the_King%252FQuotations.md)*
+        - [Appendices](../T/The_Lord_of_the_Rings_Appendices%252FQuotations.md)
+    - *[The Silmarillion](../T/The_Silmarillion%252FQuotations.md)*

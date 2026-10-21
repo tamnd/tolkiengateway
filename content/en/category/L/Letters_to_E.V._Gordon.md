@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to E.V. Gordon"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to E.V. Gordon</span>"
 page_id: 66740
 namespace: 14
 revision_id: 386587
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Gordon, E.V."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [E.V. Gordon](/wiki/E.V._Gordon).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [E.V. Gordon](../../main/E/E.V._Gordon.md).

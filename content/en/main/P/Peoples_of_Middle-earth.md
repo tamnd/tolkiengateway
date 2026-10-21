@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Peoples of Middle-earth"
 ---
 
-Redirect to [The Peoples of Middle-earth](/wiki/The_Peoples_of_Middle-earth).
+Redirect to [The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Remembering C.S. Lewis.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Remembering C.S. Lewis.jpg</span>"
 page_id: 28885
 namespace: 6
 revision_id: 214583

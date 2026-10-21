@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mount Gundabad (book)"
 ---
 
-Redirect to [Mount Gundabad (book)](/wiki/Mount_Gundabad_(book)).
+Redirect to [Mount Gundabad (book)](<Mount_Gundabad_(book).md>).

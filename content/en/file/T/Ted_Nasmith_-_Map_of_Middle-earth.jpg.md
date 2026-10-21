@@ -1,6 +1,5 @@
 ---
 title: "File:Ted Nasmith - Map of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ted Nasmith - Map of Middle-earth.jpg</span>"
 page_id: 39370
 namespace: 6
 revision_id: 270838
@@ -28,14 +27,14 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Ted Nasmith</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Ted_Nasmith" title="Ted Nasmith">Ted Nasmith</a></li>
+<ul><li><b>Name:</b> <a href="../../main/T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.tednasmith.com/" rel="noreferrer noopener" target="_blank">Ted Nasmith&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ted_Nasmith" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTed_Nasmith.md" title="Tolkien Gateway:Copyrights/Ted Nasmith">Permission for use on Tolkien Gateway</a></b></li></ul></div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

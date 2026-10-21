@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Map of Rohan, Gondor, and Mordor"
 ---
 
-Redirect to [Map of Rohan, Gondor, and Mordor](/wiki/Map_of_Rohan,_Gondor,_and_Mordor).
+Redirect to [Map of Rohan, Gondor, and Mordor](Map_of_Rohan,_Gondor,_and_Mordor.md).

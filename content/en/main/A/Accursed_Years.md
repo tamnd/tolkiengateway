@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Years"
 ---
 
-Redirect to [Dark Years](/wiki/Dark_Years).
+Redirect to [Dark Years](../D/Dark_Years.md).

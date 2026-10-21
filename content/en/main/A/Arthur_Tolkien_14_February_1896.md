@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Arthur Tolkien"
 ---
 
-Redirect to [Letter to Arthur Tolkien](/wiki/Letter_to_Arthur_Tolkien).
+Redirect to [Letter to Arthur Tolkien](../L/Letter_to_Arthur_Tolkien.md).

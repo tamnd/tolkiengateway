@@ -1,6 +1,5 @@
 ---
 title: "Dancing with Hobbits"
-display_title: "<span class=\"mw-page-title-main\">Dancing with Hobbits</span>"
 page_id: 68869
 namespace: 0
 revision_id: 410709
@@ -14,7 +13,7 @@ categories:
   - "Folk music"
 ---
 
-**Dancing with Hobbits** is a folk music band comprised of musician [Marc Gunn](/wiki/Marc_Gunn) and fiddler Sam Gillogly. They make [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-themed folk dance music. Their first album, released in 2024, was called <a class="new" href="/w/index.php?title=Dancing_with_Hobbits_(album)&amp;action=edit&amp;redlink=1" title="Dancing with Hobbits (album) (page does not exist)">Dancing with Hobbits</a>.
+**Dancing with Hobbits** is a folk music band comprised of musician [Marc Gunn](../M/Marc_Gunn.md) and fiddler Sam Gillogly. They make [Tolkien](../J/J.R.R._Tolkien.md)-themed folk dance music. Their first album, released in 2024, was called <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dancing_with_Hobbits_(album)&amp;action=edit&amp;redlink=1" title="Dancing with Hobbits (album) (page does not exist)">Dancing with Hobbits</a>.
 
 ## External links {#External_links}
 

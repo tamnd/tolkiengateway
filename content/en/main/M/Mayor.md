@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mayor of Michel Delving"
 ---
 
-Redirect to [Mayor of Michel Delving](/wiki/Mayor_of_Michel_Delving).
+Redirect to [Mayor of Michel Delving](Mayor_of_Michel_Delving.md).

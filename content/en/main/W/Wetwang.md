@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nindalf"
 ---
 
-Redirect to [Nindalf](/wiki/Nindalf).
+Redirect to [Nindalf](../N/Nindalf.md).

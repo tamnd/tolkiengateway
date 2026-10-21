@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iâth"
 ---
 
-Redirect to [Iâth](/wiki/Iâth).
+Redirect to [Iâth](Iâth.md).

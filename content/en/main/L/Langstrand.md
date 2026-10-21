@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Anfalas"
 ---
 
-Redirect to [Anfalas](/wiki/Anfalas).
+Redirect to [Anfalas](../A/Anfalas.md).

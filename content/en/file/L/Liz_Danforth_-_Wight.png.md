@@ -1,6 +1,5 @@
 ---
 title: "File:Liz Danforth - Wight.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Liz Danforth - Wight.png</span>"
 page_id: 30835
 namespace: 6
 revision_id: 203344
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Wight* by [Liz Danforth](/wiki/Liz_Danforth), appearing in [S. Coleman Charlton](/wiki/Coleman_Charlton "Coleman Charlton"), *[Middle-earth Role Playing (2nd edition, hardcover)](</wiki/Middle-earth_Role_Playing_(2nd_edition)> "Middle-earth Role Playing (2nd edition)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2000, 1993) .
+*Wight* by [Liz Danforth](../../main/L/Liz_Danforth.md), appearing in [S. Coleman Charlton](../../main/C/Coleman_Charlton.md), *[Middle-earth Role Playing (2nd edition, hardcover)](<../../main/M/Middle-earth_Role_Playing_(2nd_edition).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2000, 1993) .
 
 ## Licensing {#Licensing}
 

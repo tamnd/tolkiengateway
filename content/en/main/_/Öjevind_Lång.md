@@ -1,6 +1,5 @@
 ---
 title: "Öjevind Lång"
-display_title: "<span class=\"mw-page-title-main\">Öjevind Lång</span>"
 page_id: 32966
 namespace: 0
 revision_id: 168249
@@ -21,11 +20,11 @@ images:
   - "Hurins_barn.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Hurins_barn.jpg"><img src="/w/images/thumb/6/6a/Hurins_barn.jpg/300px-Hurins_barn.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="/w/images/6/6a/Hurins_barn.jpg 1.5x" data-file-width="301" data-file-height="440"/></a><figcaption>The Swedish edition of <i>The Children of Húrin</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurins_barn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Hurins_barn.jpg/300px-Hurins_barn.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Hurins_barn.jpg 1.5x" data-file-width="301" data-file-height="440"/></a><figcaption>The Swedish edition of <i>The Children of Húrin</i></figcaption></figure>
 
-**Öjevind Lång** ([1948](/wiki/1948) - [8 August](/wiki/8_August) [2011](/wiki/2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a Swedish translator of more than 80 books.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Öjevind Lång** ([1948](1948.md) - [8 August](8_August.md) [2011](2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) was a Swedish translator of more than 80 books.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-*Húrins barn*, Lång's translation of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Children of Húrin](/wiki/The_Children_of_H%C3%BArin)* was published in September 2007 by Norstedts. It was generally received as a good translation among Swedish Tolkien fans, although not without faults: the most prominent mistake was perhaps the conceptual separation between *Ered Lindon* and *Ered Luin*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+*Húrins barn*, Lång's translation of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Children of Húrin](../T/The_Children_of_Húrin.md)* was published in September 2007 by Norstedts. It was generally received as a good translation among Swedish Tolkien fans, although not without faults: the most prominent mistake was perhaps the conceptual separation between *Ered Lindon* and *Ered Luin*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Notes {#Notes}
 
@@ -47,9 +46,9 @@ images:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="/wiki/Index:Writings_by_J.R.R._Tolkien" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="/wiki/Roland_Adlerberth" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="/wiki/Erik_Andersson" title="Erik Andersson">Erik Andersson</a></b> · <b><a href="/wiki/Britt_G._Hallqvist" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a class="mw-selflink selflink">Öjevind Lång</a></b> · <b><a href="/wiki/%C3%85ke_Ohlmarks" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="/wiki/Tore_Zetterholm" title="Tore Zetterholm">Tore Zetterholm</a></b>
+<td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="../E/Erik_Andersson.md" title="Erik Andersson">Erik Andersson</a></b> · <b><a href="../B/Britt_G._Hallqvist.md" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a class="mw-selflink selflink">Öjevind Lång</a></b> · <b><a href="Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></b>
 </td></tr>
 </tbody></table>

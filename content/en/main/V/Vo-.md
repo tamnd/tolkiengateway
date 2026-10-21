@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vó"
 ---
 
-Redirect to [Vó](/wiki/Vó).
+Redirect to [Vó](Vó.md).

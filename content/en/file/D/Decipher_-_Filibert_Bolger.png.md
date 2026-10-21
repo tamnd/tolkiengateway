@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Filibert Bolger.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Filibert Bolger.png</span>"
 page_id: 30323
 namespace: 6
 revision_id: 224668
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Filibert Bolger](/wiki/Filibert_Bolger) at [Bilbo's Farewell Party](/wiki/Bilbo%27s_Farewell_Party).
+[Filibert Bolger](../../main/F/Filibert_Bolger.md) at [Bilbo's Farewell Party](../../main/B/Bilbo's_Farewell_Party.md).
 
 ## Licensing {#Licensing}
 

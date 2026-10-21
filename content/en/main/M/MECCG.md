@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Collectible Card Game"
 ---
 
-Redirect to [Middle-earth Collectible Card Game](/wiki/Middle-earth_Collectible_Card_Game).
+Redirect to [Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir (son of Golfinweg)"
 ---
 
-Redirect to [Gelmir (son of Golfinweg)](/wiki/Gelmir_(son_of_Golfinweg)).
+Redirect to [Gelmir (son of Golfinweg)](<../G/Gelmir_(son_of_Golfinweg).md>).

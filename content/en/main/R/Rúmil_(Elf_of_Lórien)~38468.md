@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rúmil (elf of Lórien)"
 ---
 
-Redirect to [Rúmil (elf of Lórien)](/wiki/Rúmil_(elf_of_Lórien)).
+Redirect to [Rúmil (elf of Lórien)](<Rúmil_(elf_of_Lórien).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Martin M. Snapp"
 ---
 
-Redirect to [Letter to Martin M. Snapp](/wiki/Letter_to_Martin_M._Snapp).
+Redirect to [Letter to Martin M. Snapp](../L/Letter_to_Martin_M._Snapp.md).

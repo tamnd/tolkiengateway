@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Loa"
 ---
 
-Redirect to [Loa](/wiki/Loa).
+Redirect to [Loa](Loa.md).

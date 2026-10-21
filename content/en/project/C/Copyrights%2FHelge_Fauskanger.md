@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Helge Fauskanger"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Helge Fauskanger</span>"
 page_id: 41033
 namespace: 4
 revision_id: 208745
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fauskanger, Helge"
 ---
 
-- [Helge Fauskanger](/wiki/Helge_Fauskanger) has kindly granted his permission to use two photographs of himself ([1](/wiki/File:Helge_K%C3%A5re_Fauskanger.gif "File:Helge Kåre Fauskanger.gif") and [2](/wiki/File:Helge_Fauskanger.jpg "File:Helge Fauskanger.jpg")) on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Helge Fauskanger](../../main/H/Helge_Fauskanger.md) has kindly granted his permission to use two photographs of himself ([1](../../file/H/Helge_Kåre_Fauskanger.gif.md) and [2](../../file/H/Helge_Fauskanger.jpg.md)) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 20 August 2012
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

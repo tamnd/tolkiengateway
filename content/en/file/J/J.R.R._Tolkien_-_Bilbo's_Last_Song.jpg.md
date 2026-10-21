@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bilbo's Last Song.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bilbo&#039;s Last Song.jpg</span>"
 page_id: 13922
 namespace: 6
 revision_id: 271046

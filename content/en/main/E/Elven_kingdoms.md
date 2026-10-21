@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elven realms"
 ---
 
-Redirect to [Category:Elven realms](/wiki/Category:Elven_realms).
+Redirect to [Category:Elven realms](../../category/E/Elven_realms.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien-family-1940.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien-family-1940.png</span>"
 page_id: 64133
 namespace: 6
 revision_id: 396866
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-Tolkien family on holiday in Weston-super-Mare, April 1940: [Christopher](/wiki/Christopher_Tolkien "Christopher Tolkien"), [Priscilla](/wiki/Priscilla_Tolkien "Priscilla Tolkien"), [Michael](/wiki/Michael_Tolkien "Michael Tolkien"), [Edith Bratt](/wiki/Edith_Tolkien "Edith Tolkien") and [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+Tolkien family on holiday in Weston-super-Mare, April 1940: [Christopher](../../main/C/Christopher_Tolkien.md), [Priscilla](../../main/P/Priscilla_Tolkien.md), [Michael](../../main/M/Michael_Tolkien.md), [Edith Bratt](../../main/E/Edith_Tolkien.md) and [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

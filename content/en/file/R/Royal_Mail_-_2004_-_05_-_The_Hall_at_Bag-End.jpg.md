@@ -1,6 +1,5 @@
 ---
 title: "File:Royal Mail - 2004 - 05 - The Hall at Bag-End.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Royal Mail - 2004 - 05 - The Hall at Bag-End.jpg</span>"
 page_id: 13325
 namespace: 6
 revision_id: 220552

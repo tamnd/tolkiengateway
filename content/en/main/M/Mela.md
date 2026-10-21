@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Méla"
 ---
 
-Redirect to [Méla](/wiki/Méla).
+Redirect to [Méla](Méla.md).

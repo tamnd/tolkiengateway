@@ -1,6 +1,5 @@
 ---
 title: "File:Nils-Lennart Johannesson.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nils-Lennart Johannesson.png</span>"
 page_id: 37663
 namespace: 6
 revision_id: 181520
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photography of [Nils-Lennart Johannesson](/wiki/Nils-Lennart_Johannesson).
+Photography of [Nils-Lennart Johannesson](../../main/N/Nils-Lennart_Johannesson.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photography of [Nils-Lennart Johannesson](/wiki/Nils-Lennart_Johannesson).
 </p>
 <ul><li><b>Name:</b> Nils-Lennart Johannesson</li>
 <li><b>Website:</b> <a class="external text" href="http://www.english.su.se/about-us/contact/academic-staff/nils-lennart-johannesson-1.31847" rel="noreferrer noopener" target="_blank">Nils-Lennart Johannesson</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Nils-Lennart_Johannesson" title="Tolkien Gateway:Copyrights/Nils-Lennart Johannesson">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNils-Lennart_Johannesson.md" title="Tolkien Gateway:Copyrights/Nils-Lennart Johannesson">Permission for use on Tolkien Gateway</a></b></li></ul></div>

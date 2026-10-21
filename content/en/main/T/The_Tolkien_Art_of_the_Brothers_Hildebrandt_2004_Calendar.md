@@ -16,11 +16,11 @@ images:
   - "The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg"><img src="/w/images/thumb/8/83/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/8/83/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg/300px-The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/83/The_Tolkien_Art_of_the_Brothers_Hildebrandt_2004_Calendar.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Tolkien Art of the Brothers Hildebrandt 2004 Calendar** was produced by Ronnie Sellers Productions, Inc. and contains illustrations by the [Brothers Hildebrandt](/wiki/Brothers_Hildebrandt).
+**The Tolkien Art of the Brothers Hildebrandt 2004 Calendar** was produced by Ronnie Sellers Productions, Inc. and contains illustrations by the [Brothers Hildebrandt](../B/Brothers_Hildebrandt.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1569066833">ISBN 1-56906-683-3</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/1569066833">ISBN 1-56906-683-3</a>
 - Dimensions: 12 x 12 inches
 - Stapled
 - Punched hanging hole

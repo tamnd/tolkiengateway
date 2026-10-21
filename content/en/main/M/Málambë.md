@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mátengwië"
 ---
 
-Redirect to [Mátengwië](/wiki/Mátengwië).
+Redirect to [Mátengwië](Mátengwië.md).

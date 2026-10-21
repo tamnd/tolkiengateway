@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "West-march"
 ---
 
-Redirect to [West-march](/wiki/West-march).
+Redirect to [West-march](West-march.md).

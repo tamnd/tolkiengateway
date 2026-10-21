@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elrond"
 ---
 
-Redirect to [Elrond](/wiki/Elrond).
+Redirect to [Elrond](Elrond.md).

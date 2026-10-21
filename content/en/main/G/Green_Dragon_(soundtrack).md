@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Green Dragon (soundtrack)"
 ---
 
-Redirect to [The Green Dragon (soundtrack)](/wiki/The_Green_Dragon_(soundtrack)).
+Redirect to [The Green Dragon (soundtrack)](<../T/The_Green_Dragon_(soundtrack).md>).

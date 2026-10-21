@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eoh"
 ---
 
-Redirect to [Eoh](/wiki/Eoh).
+Redirect to [Eoh](Eoh.md).

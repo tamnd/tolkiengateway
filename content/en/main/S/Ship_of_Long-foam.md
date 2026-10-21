@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cair Andros"
 ---
 
-Redirect to [Cair Andros](/wiki/Cair_Andros).
+Redirect to [Cair Andros](../C/Cair_Andros.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Urulókë"
 ---
 
-Redirect to [Urulókë](/wiki/Urulókë).
+Redirect to [Urulókë](Urulókë.md).

@@ -15,25 +15,25 @@ sort_keys:
   "Sindarin adjectives": "Nin"
 ---
 
-<i><b>nîn</b></i> means "wet" in [Sindarin](/wiki/Sindarin).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>nîn</b></i> means "wet" in [Sindarin](../S/Sindarin.md).<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [NEN](/wiki/NEN)
+- [Root](../S/Sundocarme.md) [NEN](NEN~31118.md)
 
 ## Compounds {#Compounds}
 
-- *[Nindalf](/wiki/Nindalf)*
+- *[Nindalf](Nindalf.md)*
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *[nenya](/wiki/Nenya "Nenya")*
+- [Quenya](../Q/Quenya.md) *[nenya](Nenya.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE17-1"><span class="mw-cite-backlink"><a href="#cite_ref-PE17_1-0">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 52</span>
+<li id="cite_note-PE17-1"><span class="mw-cite-backlink"><a href="#cite_ref-PE17_1-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 52</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Afalstein"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Afalstein</span>"
 page_id: 50974
 namespace: 4
 revision_id: 276642
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Afalstein"
 ---
 
-- Afalstein has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Afalstein "Category:Images by Afalstein") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Afalstein has kindly granted his permission to use [his artwork](../../category/I/Images_by_Afalstein.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 6 August 2015
-- User who sought the permission via DeviantArt: [User:Harry S. Plinkett](/wiki/User:Harry_S._Plinkett)
+- User who sought the permission via DeviantArt: [User:Harry S. Plinkett](https://tolkiengateway.net/wiki/User:Harry_S._Plinkett)

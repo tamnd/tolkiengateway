@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noirinan"
 ---
 
-Redirect to [Noirinan](/wiki/Noirinan).
+Redirect to [Noirinan](../N/Noirinan.md).

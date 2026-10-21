@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Android App"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Android App</span>"
 page_id: 67375
 namespace: 4
 revision_id: 391485
@@ -19,4 +18,4 @@ The app is currently in the beta test phase, which anyone can join by filling ou
 
 ## See also {#See_also}
 
-- [Google Chrome](/wiki/Tolkien_Gateway:Google_Chrome "Tolkien Gateway:Google Chrome")
+- [Google Chrome](../G/Google_Chrome.md)

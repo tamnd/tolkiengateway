@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/NOLANOS"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/NOLANOS</span>"
 page_id: 48705
 namespace: 4
 revision_id: 260802
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Nolanos"
 ---
 
-- NOLANOS has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_NOLANOS "Category:Images by NOLANOS") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- NOLANOS has kindly granted her permission to use [her artwork](../../category/I/Images_by_NOLANOS.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 16 December 2014
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

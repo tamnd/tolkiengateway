@@ -1,6 +1,5 @@
 ---
 title: "Category:Sotheby's catalogues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s catalogues</span>"
 page_id: 40346
 namespace: 14
 revision_id: 203051
@@ -13,4 +12,4 @@ categories:
   - "Auction catalogues"
 ---
 
-- Articles about catalogues from [Sotheby's](/wiki/Sotheby%27s)
+- Articles about catalogues from [Sotheby's](../../main/S/Sotheby's.md)

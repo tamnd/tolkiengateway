@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbiton Hill"
 ---
 
-Redirect to [Hobbiton Hill](/wiki/Hobbiton_Hill).
+Redirect to [Hobbiton Hill](../H/Hobbiton_Hill.md).

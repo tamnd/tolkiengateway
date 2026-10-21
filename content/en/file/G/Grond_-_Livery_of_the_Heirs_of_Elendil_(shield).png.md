@@ -1,6 +1,5 @@
 ---
 title: "File:Grond - Livery of the Heirs of Elendil (shield).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grond - Livery of the Heirs of Elendil (shield).png</span>"
 page_id: 70832
 namespace: 6
 revision_id: 439850
@@ -30,22 +29,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Grond - Livery of the Heirs of Elendil (shield).png</span></th>
 <td class="description">
-<p>Shield-shaped alternative to <a href="/wiki/File:Grond_-_Livery_of_the_Heirs_of_Elendil.png" title="File:Grond - Livery of the Heirs of Elendil.png">File:Grond - Livery of the Heirs of Elendil.png</a>
+<p>Shield-shaped alternative to <a href="Grond_-_Livery_of_the_Heirs_of_Elendil.png.md" title="File:Grond - Livery of the Heirs of Elendil.png">File:Grond - Livery of the Heirs of Elendil.png</a>
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/User:Grond" title="User:Grond">Grond</a></td>
+<td><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Based on <a href="/wiki/File:J.R.R._Tolkien_-_The_Return_of_the_King.jpg" title="File:J.R.R. Tolkien - The Return of the King.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
+<td>Based on <a href="../J/J.R.R._Tolkien_-_The_Return_of_the_King.jpg.md" title="File:J.R.R. Tolkien - The Return of the King.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

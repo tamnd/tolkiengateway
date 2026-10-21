@@ -1,6 +1,5 @@
 ---
 title: "File:New Worlds Vol. 50, No. 168.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">New Worlds Vol. 50, No. 168.jpg</span>"
 page_id: 40238
 namespace: 6
 revision_id: 215403

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Caras Gaer"
 ---
 
-Redirect to [Caras Gaer](/wiki/Caras_Gaer).
+Redirect to [Caras Gaer](Caras_Gaer.md).

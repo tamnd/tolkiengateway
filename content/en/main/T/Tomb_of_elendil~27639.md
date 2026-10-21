@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tomb of Elendil"
 ---
 
-Redirect to [Tomb of Elendil](/wiki/Tomb_of_Elendil).
+Redirect to [Tomb of Elendil](Tomb_of_Elendil.md).

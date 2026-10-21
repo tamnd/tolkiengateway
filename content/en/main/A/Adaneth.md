@@ -13,9 +13,9 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>adaneth</b></i> is [Sindarin](/wiki/Sindarin) for a "mortal woman".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Properly, this word refers only to those women who are descended from the [Three Houses of Elf-friends](/wiki/Edain "Edain").
+<i><b>adaneth</b></i> is [Sindarin](../S/Sindarin.md) for a "mortal woman".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Properly, this word refers only to those women who are descended from the [Three Houses of Elf-friends](../E/Edain.md).
 
-In the *[Athrabeth Finrod ah Andreth](/wiki/Athrabeth_Finrod_ah_Andreth)* King [Finrod](/wiki/Finrod) addresses [Andreth](/wiki/Andreth) as *adaneth*, stressing the fact that she is a mortal, because their debate centers on "the gulf that divides our kindreds".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+In the *[Athrabeth Finrod ah Andreth](Athrabeth_Finrod_ah_Andreth.md)* King [Finrod](../F/Finrod.md) addresses [Andreth](Andreth.md) as *adaneth*, stressing the fact that she is a mortal, because their debate centers on "the gulf that divides our kindreds".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
@@ -23,9 +23,9 @@ In the *[Athrabeth Finrod ah Andreth](/wiki/Athrabeth_Finrod_ah_Andreth)* King [
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="/wiki/Athrabeth_Finrod_ah_Andreth" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: <i>Glossary</i>&#34;, p. 349</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: <i>Glossary</i>&#34;, p. 349</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="/wiki/Athrabeth_Finrod_ah_Andreth" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: &#39;The Debate of Finrod and Andreth&#39;&#34;, p. 323</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Four. <i><a href="Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i>: &#39;The Debate of Finrod and Andreth&#39;&#34;, p. 323</span>
 </li>
 </ol></div>

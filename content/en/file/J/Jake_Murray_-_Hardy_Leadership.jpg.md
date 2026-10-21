@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Hardy Leadership.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Hardy Leadership.jpg</span>"
 page_id: 71637
 namespace: 6
 revision_id: 427009
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"Hardy Leadership" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray")
+"Hardy Leadership" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md)
 
 ## Licensing {#Licensing}
 

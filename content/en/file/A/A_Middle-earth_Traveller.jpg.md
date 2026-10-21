@@ -1,6 +1,5 @@
 ---
 title: "File:A Middle-earth Traveller.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Middle-earth Traveller.jpg</span>"
 page_id: 55408
 namespace: 6
 revision_id: 352074

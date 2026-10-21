@@ -15,17 +15,17 @@ sort_keys:
   "Quenya nouns": "Cuivie"
 ---
 
-<i><b>cuivië</b></i> is the [Quenya](/wiki/Quenya) word for "awakening", from the verb <b><a class="new" href="/w/index.php?title=Cuiva&amp;action=edit&amp;redlink=1" title="Cuiva (page does not exist)">cuiva</a>-</b>, "to awaken".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>cuivië</b></i> is the [Quenya](../Q/Quenya.md) word for "awakening", from the verb <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Cuiva&amp;action=edit&amp;redlink=1" title="Cuiva (page does not exist)">cuiva</a>-</b>, "to awaken".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Cuiviénen](/wiki/Cuivi%C3%A9nen)*
+- *[Cuiviénen](Cuiviénen.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>cuivië</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>cuivië</i></span>
 </li>
 </ol></div>

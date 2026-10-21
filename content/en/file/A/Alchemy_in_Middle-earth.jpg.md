@@ -1,6 +1,5 @@
 ---
 title: "File:Alchemy in Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alchemy in Middle-earth.jpg</span>"
 page_id: 44235
 namespace: 6
 revision_id: 232625

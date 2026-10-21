@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Pirate Ship Ambush.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Pirate Ship Ambush.jpg</span>"
 page_id: 73138
 namespace: 6
 revision_id: 432953
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://brickset.com/sets/79008-1/Pirate-Ship-Ambush" rel="noreferrer noopener" target="_blank">https://brickset.com/sets/79008-1/Pirate-Ship-Ambush</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

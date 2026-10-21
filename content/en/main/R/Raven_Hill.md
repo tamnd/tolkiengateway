@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ravenhill"
 ---
 
-Redirect to [Ravenhill](/wiki/Ravenhill).
+Redirect to [Ravenhill](Ravenhill.md).

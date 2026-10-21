@@ -1,6 +1,5 @@
 ---
 title: "File:The Beacons (fan film) - Poster.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Beacons (fan film) - Poster.png</span>"
 page_id: 71345
 namespace: 6
 revision_id: 425693
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary_2}
 
-Promotional poster for *[The Beacons](/wiki/The_Beacons)*. Source: <a class="external autonumber" href="https://www.youtube.com/post/UgkxtaM1BENBGr2n4qJ_qwjBlfIPNAxsA-2-" rel="noreferrer noopener" target="_blank">[1]</a>
+Promotional poster for *[The Beacons](../../main/T/The_Beacons.md)*. Source: <a class="external autonumber" href="https://www.youtube.com/post/UgkxtaM1BENBGr2n4qJ_qwjBlfIPNAxsA-2-" rel="noreferrer noopener" target="_blank">[1]</a>
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo Baggins"
 ---
 
-Redirect to [Bilbo Baggins](/wiki/Bilbo_Baggins).
+Redirect to [Bilbo Baggins](Bilbo_Baggins.md).

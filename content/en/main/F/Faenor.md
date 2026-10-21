@@ -11,4 +11,4 @@ redirect_target: "Fëanor"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Fëanor](/wiki/Fëanor#Etymology).
+Redirect to [Fëanor](Fëanor.md#Etymology).

@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Barad-dur Minifigures.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Barad-dur Minifigures.png</span>"
 page_id: 73137
 namespace: 6
 revision_id: 432951
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Lego - Barad-dur Minifigures.png</span></th>
 <td class="description">
-<p><a class="mw-redirect" href="/wiki/Barad-dur" title="Barad-dur">Barad-dur</a> set minifigures
+<p><a class="mw-redirect" href="../../main/B/Barad-dur.md" title="Barad-dur">Barad-dur</a> set minifigures
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/product/the-lord-of-the-rings-barad-dur-10333" rel="noreferrer noopener" target="_blank">https://www.lego.com/product/the-lord-of-the-rings-barad-dur-10333</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

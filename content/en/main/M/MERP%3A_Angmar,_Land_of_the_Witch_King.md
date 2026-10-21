@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar: Land of the Witch King"
 ---
 
-Redirect to [Angmar: Land of the Witch King](/wiki/Angmar:_Land_of_the_Witch_King).
+Redirect to [Angmar: Land of the Witch King](../A/Angmar%253A_Land_of_the_Witch_King.md).

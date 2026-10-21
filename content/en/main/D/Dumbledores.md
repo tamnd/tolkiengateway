@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dumbledors"
 ---
 
-Redirect to [Dumbledors](/wiki/Dumbledors).
+Redirect to [Dumbledors](Dumbledors.md).

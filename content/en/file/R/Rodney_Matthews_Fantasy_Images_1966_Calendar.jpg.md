@@ -1,6 +1,5 @@
 ---
 title: "File:Rodney Matthews Fantasy Images 1966 Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rodney Matthews Fantasy Images 1966 Calendar.jpg</span>"
 page_id: 6675
 namespace: 6
 revision_id: 215489

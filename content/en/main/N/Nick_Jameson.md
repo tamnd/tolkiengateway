@@ -1,6 +1,5 @@
 ---
 title: "Nick Jameson"
-display_title: "<span class=\"mw-page-title-main\">Nick Jameson</span>"
 page_id: 19311
 namespace: 0
 revision_id: 115867
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: Additional voices
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Additional voices
 
 ## External links {#External_links}
 

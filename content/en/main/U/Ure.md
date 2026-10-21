@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Úrë"
 ---
 
-Redirect to [Úrë](/wiki/Úrë).
+Redirect to [Úrë](../_/Úrë.md).

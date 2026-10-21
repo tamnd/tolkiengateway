@@ -1,6 +1,5 @@
 ---
 title: "Category:Doriathrin words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Doriathrin words</span>"
 page_id: 34872
 namespace: 14
 revision_id: 162775
@@ -13,4 +12,4 @@ categories:
   - "Elvish words"
 ---
 
-[Doriathrin](/wiki/Doriathrin) words.
+[Doriathrin](../../main/D/Doriathrin.md) words.

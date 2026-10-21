@@ -1,6 +1,5 @@
 ---
 title: "File:One Ring Inscription single line.svg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">One Ring Inscription single line.svg</span>"
 page_id: 67400
 namespace: 6
 revision_id: 391643

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Richard Svensson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Richard Svensson</span>"
 page_id: 17515
 namespace: 14
 revision_id: 182149

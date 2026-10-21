@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elenna"
 ---
 
-Redirect to [Elenna](/wiki/Elenna).
+Redirect to [Elenna](../E/Elenna.md).

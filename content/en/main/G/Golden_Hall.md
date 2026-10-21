@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meduseld"
 ---
 
-Redirect to [Meduseld](/wiki/Meduseld).
+Redirect to [Meduseld](../M/Meduseld.md).

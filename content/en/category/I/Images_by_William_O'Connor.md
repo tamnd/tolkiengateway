@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by William O'Connor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by William O&#039;Connor</span>"
 page_id: 69789
 namespace: 14
 revision_id: 423098
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "O'Connor, William"
 ---
 
-Images by [William O'Connor](/wiki/William_O%27Connor).
+Images by [William O'Connor](../../main/W/William_O'Connor.md).

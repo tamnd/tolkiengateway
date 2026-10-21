@@ -1,6 +1,5 @@
 ---
 title: "File:Verlyn Flieger.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Verlyn Flieger.jpg</span>"
 page_id: 17547
 namespace: 6
 revision_id: 211780
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Emil Johansson</li>
 <li><b>Website:</b> <a class="external text" href="http://ejoh.se/" rel="noreferrer noopener" target="_blank">Emil Johansson&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Emil_Johansson" title="Tolkien Gateway:Copyrights/Emil Johansson">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEmil_Johansson.md" title="Tolkien Gateway:Copyrights/Emil Johansson">Permission for use on Tolkien Gateway</a></b></li></ul></div>

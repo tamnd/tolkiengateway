@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celtic"
 ---
 
-Redirect to [Celtic](/wiki/Celtic).
+Redirect to [Celtic](../C/Celtic.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "George R. R. Martin"
 ---
 
-Redirect to [George R. R. Martin](/wiki/George_R._R._Martin).
+Redirect to [George R. R. Martin](George_R._R._Martin.md).

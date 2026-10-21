@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle in the Thousand Caves"
 ---
 
-Redirect to [Battle in the Thousand Caves](/wiki/Battle_in_the_Thousand_Caves).
+Redirect to [Battle in the Thousand Caves](Battle_in_the_Thousand_Caves.md).

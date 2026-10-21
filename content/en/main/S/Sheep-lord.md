@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hallatan"
 ---
 
-Redirect to [Hallatan](/wiki/Hallatan).
+Redirect to [Hallatan](../H/Hallatan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Empty Lands"
 ---
 
-Redirect to [Empty Lands](/wiki/Empty_Lands).
+Redirect to [Empty Lands](Empty_Lands.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Decipher"
 ---
 
-Redirect to [Decipher](/wiki/Decipher).
+Redirect to [Decipher](Decipher.md).

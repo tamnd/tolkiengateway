@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Far Downs"
 ---
 
-Redirect to [Far Downs](/wiki/Far_Downs).
+Redirect to [Far Downs](Far_Downs.md).

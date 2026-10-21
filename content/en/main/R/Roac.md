@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Roäc"
 ---
 
-Redirect to [Roäc](/wiki/Roäc).
+Redirect to [Roäc](Roäc.md).

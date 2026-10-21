@@ -1,6 +1,5 @@
 ---
 title: "Eurocon"
-display_title: "<span class=\"mw-page-title-main\">Eurocon</span>"
 page_id: 53131
 namespace: 0
 revision_id: 289220
@@ -13,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-**Eurocon** is an annual science fictionconvention held in Europe. The organising committee of each Eurocon is selected by vote of the participants of the previous event (since 1972 till present). The procedure is coordinated by the European Science Fiction Society. Unlike [Worldcons](/wiki/Worldcon "Worldcon"), Eurocon is usually a title attached to an existing convention. The European SF Awards are given in most of the conventions giving recognition to the best works and achievements in science fiction.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Eurocon** is an annual science fictionconvention held in Europe. The organising committee of each Eurocon is selected by vote of the participants of the previous event (since 1972 till present). The procedure is coordinated by the European Science Fiction Society. Unlike [Worldcons](../W/Worldcon.md), Eurocon is usually a title attached to an existing convention. The European SF Awards are given in most of the conventions giving recognition to the best works and achievements in science fiction.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 
@@ -21,7 +20,7 @@ categories:
 
 ## See also {#See_also}
 
-- [Worldcon](/wiki/Worldcon)
+- [Worldcon](../W/Worldcon.md)
 
 <span></span>
 

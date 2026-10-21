@@ -1,6 +1,5 @@
 ---
 title: "Haradrim (Tolkien Society)"
-display_title: "<span class=\"mw-page-title-main\">Haradrim (Tolkien Society)</span>"
 page_id: 35413
 namespace: 0
 revision_id: 379086
@@ -14,20 +13,20 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Haradrim** is a defunct [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") for speakers of <a class="extiw" href="http://en.wikipedia.org/wiki/Afrikaans" title="wikipedia:Afrikaans">Afrikaans</a> in [South Africa](/wiki/South_Africa). The society was founded in 2000, and it was dissolved approximately in 2010.
+**Haradrim** is a defunct [Tolkien Society](../T/Tolkien_Societies~67099.md) for speakers of <a class="extiw" href="http://en.wikipedia.org/wiki/Afrikaans" title="wikipedia:Afrikaans">Afrikaans</a> in [South Africa](../S/South_Africa.md). The society was founded in 2000, and it was dissolved approximately in 2010.
 
 ## History {#History}
 
-[Haradrim](/wiki/Haradrim) was instrumental in locating the former location of the Bank of Africa ([Arthur Tolkien](/wiki/Arthur_Tolkien)'s offices), Arthur Tolkien's grave site (where a new tombstone as well as a tree were planted/placed)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> as well as finding Arthur Tolkien's last will and other documents. Haradrim also hosted members of the Tolkien family on occasion. In the 1990s and early 2000s Haradrim organized radio shows and lectures as well as exhibitions around J.R.R. Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Haradrim](Haradrim.md) was instrumental in locating the former location of the Bank of Africa ([Arthur Tolkien](../A/Arthur_Tolkien.md)'s offices), Arthur Tolkien's grave site (where a new tombstone as well as a tree were planted/placed)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> as well as finding Arthur Tolkien's last will and other documents. Haradrim also hosted members of the Tolkien family on occasion. In the 1990s and early 2000s Haradrim organized radio shows and lectures as well as exhibitions around J.R.R. Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 In 1982 a later member of Haradrim located the Bank of Africa building in Bloemfontein where Arthur Tolkien was the director as the Bradlow furniture store building at the time.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-The vast distances in South Africa between its large cities (Johannesburg/Pretoria - Bloemfontein - Cape Town - Durban), emigration due to <a class="external text" href="https://en.wikipedia.org/wiki/Afrikaners#Afrikaner_diaspora" rel="noreferrer noopener" target="_blank">crime and affirmative action</a> as well as cultural and language barriers and the limited interest in [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) by the general public all contributed to the demise of this society.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+The vast distances in South Africa between its large cities (Johannesburg/Pretoria - Bloemfontein - Cape Town - Durban), emigration due to <a class="external text" href="https://en.wikipedia.org/wiki/Afrikaners#Afrikaner_diaspora" rel="noreferrer noopener" target="_blank">crime and affirmative action</a> as well as cultural and language barriers and the limited interest in [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) by the general public all contributed to the demise of this society.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Members of Note {#Members_of_Note}
 
-- [Peter-Willem Schellen (a.k.a. Fëanor)](/wiki/Peter_Schellen "Peter Schellen")<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- [Jake Uys](/wiki/Jake_Uys)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- [Peter-Willem Schellen (a.k.a. Fëanor)](../P/Peter_Schellen.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- [Jake Uys](../J/Jake_Uys.md)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

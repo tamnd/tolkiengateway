@@ -1,6 +1,5 @@
 ---
 title: "File:Angus McBride - Dol Guldur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angus McBride - Dol Guldur.jpg</span>"
 page_id: 32171
 namespace: 6
 revision_id: 307000
@@ -33,7 +32,7 @@ file:
 
 ## Summary {#Summary}
 
-*Dol Guldur* by [Angus McBride](/wiki/Angus_McBride), cover art for David Woolpy, *[Dol Guldur](</wiki/Dol_Guldur_(book)> "Dol Guldur (book)")* ([Iron Crown Enterprises](/wiki/Iron_Crown_Enterprises) #2014, 1995) .
+*Dol Guldur* by [Angus McBride](../../main/A/Angus_McBride.md), cover art for David Woolpy, *[Dol Guldur](<../../main/D/Dol_Guldur_(book).md>)* ([Iron Crown Enterprises](../../main/I/Iron_Crown_Enterprises.md) #2014, 1995) .
 
 ## Licensing {#Licensing}
 

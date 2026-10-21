@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ñalta"
 ---
 
-Redirect to [Ñalta](/wiki/Ñalta).
+Redirect to [Ñalta](../_/Ñalta.md).

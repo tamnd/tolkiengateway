@@ -1,6 +1,5 @@
 ---
 title: "Fiona Jallings"
-display_title: "<span class=\"mw-page-title-main\">Fiona Jallings</span>"
 page_id: 54230
 namespace: 0
 revision_id: 405522
@@ -21,7 +20,7 @@ sort_keys:
   "People by name": "Jallings, Fiona"
 ---
 
-**Fiona Jallings** is an American Tolkien linguist. She is the creator of the "Realelvish.net" website, and the author of *[A Fan's Guide to Neo-Sindarin](/wiki/A_Fan%27s_Guide_to_Neo-Sindarin)*.
+**Fiona Jallings** is an American Tolkien linguist. She is the creator of the "Realelvish.net" website, and the author of *[A Fan's Guide to Neo-Sindarin](../A/A_Fan's_Guide_to_Neo-Sindarin.md)*.
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ray Henwood"
 ---
 
-Redirect to [Ray Henwood](/wiki/Ray_Henwood).
+Redirect to [Ray Henwood](../R/Ray_Henwood.md).

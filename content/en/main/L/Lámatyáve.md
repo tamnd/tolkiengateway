@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lámatyávë"
 ---
 
-Redirect to [Lámatyávë](/wiki/Lámatyávë).
+Redirect to [Lámatyávë](Lámatyávë.md).

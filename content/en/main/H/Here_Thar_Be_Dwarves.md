@@ -1,6 +1,5 @@
 ---
 title: "Here Thar Be Dwarves"
-display_title: "<span class=\"mw-page-title-main\">Here Thar Be Dwarves</span>"
 page_id: 22401
 namespace: 0
 revision_id: 442256
@@ -13,7 +12,7 @@ categories:
   - "Parodies"
 ---
 
-**Here Thar Be Dwarves** is the 23rd episode overall (the seventh of the third season) of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy" title="wikipedia:The Grim Adventures of Billy &amp; Mandy">The Grim Adventures of Billy &amp; Mandy</a></i>. It was first aired on [July 23](/wiki/23_July "23 July"), [2004](/wiki/2004), along with *Bully Boogie*. The episode incorporates several elements from *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, as well as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Star_Wars" title="wikipedia:Star Wars">Star Wars</a></i>.
+**Here Thar Be Dwarves** is the 23rd episode overall (the seventh of the third season) of <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Grim_Adventures_of_Billy_%26_Mandy" title="wikipedia:The Grim Adventures of Billy &amp; Mandy">The Grim Adventures of Billy &amp; Mandy</a></i>. It was first aired on [July 23](../_/23_July.md), [2004](../_/2004.md), along with *Bully Boogie*. The episode incorporates several elements from *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, as well as <i><a class="extiw" href="http://en.wikipedia.org/wiki/Star_Wars" title="wikipedia:Star Wars">Star Wars</a></i>.
 
 ## Plot {#Plot}
 
@@ -34,13 +33,12 @@ The episode ends with a mock advertisement for "Mushookies", starring a girl dec
 ## Cast {#Cast}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr bgcolor="#CCCCCC">
 <th>Actor</th>
 <th>Role
 </th></tr>
 <tr>
-<td><a href="/wiki/Grey_DeLisle" title="Grey DeLisle">Grey DeLisle</a></td>
+<td><a href="../G/Grey_DeLisle.md" title="Grey DeLisle">Grey DeLisle</a></td>
 <td>Mandy, Halfling
 </td></tr>
 <tr>
@@ -48,15 +46,15 @@ The episode ends with a mock advertisement for "Mushookies", starring a girl dec
 <td>Grim
 </td></tr>
 <tr>
-<td><a class="new" href="/w/index.php?title=Richard_Horvitz&amp;action=edit&amp;redlink=1" title="Richard Horvitz (page does not exist)">Richard Steven Horvitz</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Horvitz&amp;action=edit&amp;redlink=1" title="Richard Horvitz (page does not exist)">Richard Steven Horvitz</a></td>
 <td>Billy, Billy&#39;s Dad, Bigfoot
 </td></tr>
 <tr>
-<td><a href="/wiki/Dee_Bradley_Baker" title="Dee Bradley Baker">Dee Bradley Baker</a></td>
+<td><a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Dee Bradley Baker</a></td>
 <td>Snail Creature
 </td></tr>
 <tr>
-<td><a class="new" href="/w/index.php?title=Gregg_Berger&amp;action=edit&amp;redlink=1" title="Gregg Berger (page does not exist)">Gregg Berger</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gregg_Berger&amp;action=edit&amp;redlink=1" title="Gregg Berger (page does not exist)">Gregg Berger</a></td>
 <td>Rootrot, Lawyer
 </td></tr>
 <tr>
@@ -64,7 +62,7 @@ The episode ends with a mock advertisement for "Mushookies", starring a girl dec
 <td>King Beardbottom, Dwarf #2
 </td></tr>
 <tr>
-<td><a href="/wiki/Greg_Ellis" title="Greg Ellis">Greg Ellis</a></td>
+<td><a href="../G/Greg_Ellis.md" title="Greg Ellis">Greg Ellis</a></td>
 <td>Daddy Elf, Druid #1
 </td></tr>
 <tr>
@@ -72,11 +70,11 @@ The episode ends with a mock advertisement for "Mushookies", starring a girl dec
 <td><a class="extiw" href="http://en.wikipedia.org/wiki/Yogi_Bear" title="wikipedia:Yogi Bear">Yogi</a>
 </td></tr>
 <tr>
-<td><a href="/wiki/Jennifer_Hale" title="Jennifer Hale">Jennifer Hale</a></td>
+<td><a href="../J/Jennifer_Hale.md" title="Jennifer Hale">Jennifer Hale</a></td>
 <td>Billy&#39;s Mom, Halfling
 </td></tr>
 <tr>
-<td><a href="/wiki/Bob_Joles" title="Bob Joles">Bob Joles</a></td>
+<td><a href="../B/Bob_Joles.md" title="Bob Joles">Bob Joles</a></td>
 <td>Druid #2, Dwarf #1
 </td></tr>
 <tr>

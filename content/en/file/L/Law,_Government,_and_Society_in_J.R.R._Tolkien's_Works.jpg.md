@@ -1,6 +1,5 @@
 ---
 title: "File:Law, Government, and Society in J.R.R. Tolkien's Works.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Law, Government, and Society in J.R.R. Tolkien&#039;s Works.jpg</span>"
 page_id: 62738
 namespace: 6
 revision_id: 377456

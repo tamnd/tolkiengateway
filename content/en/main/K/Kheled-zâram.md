@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirrormere"
 ---
 
-Redirect to [Mirrormere](/wiki/Mirrormere).
+Redirect to [Mirrormere](../M/Mirrormere.md).

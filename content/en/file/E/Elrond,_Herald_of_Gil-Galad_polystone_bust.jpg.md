@@ -1,6 +1,5 @@
 ---
 title: "File:Elrond, Herald of Gil-Galad polystone bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elrond, Herald of Gil-Galad polystone bust.jpg</span>"
 page_id: 5179
 namespace: 6
 revision_id: 191432

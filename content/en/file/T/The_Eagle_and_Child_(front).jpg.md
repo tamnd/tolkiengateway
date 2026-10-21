@@ -1,6 +1,5 @@
 ---
 title: "File:The Eagle and Child (front).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Eagle and Child (front).jpg</span>"
 page_id: 9355
 namespace: 6
 revision_id: 363691

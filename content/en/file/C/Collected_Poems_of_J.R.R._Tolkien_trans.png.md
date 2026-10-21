@@ -1,6 +1,5 @@
 ---
 title: "File:Collected Poems of J.R.R. Tolkien trans.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Collected Poems of J.R.R. Tolkien trans.png</span>"
 page_id: 67697
 namespace: 6
 revision_id: 394745

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Whitfoot Family"
 ---
 
-Redirect to [Whitfoot Family](/wiki/Whitfoot_Family).
+Redirect to [Whitfoot Family](Whitfoot_Family.md).

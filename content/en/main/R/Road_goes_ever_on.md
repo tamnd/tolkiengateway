@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (disambiguation)"
 ---
 
-Redirect to [The Road Goes Ever On (disambiguation)](/wiki/The_Road_Goes_Ever_On_(disambiguation)).
+Redirect to [The Road Goes Ever On (disambiguation)](<../T/The_Road_Goes_Ever_On_(disambiguation).md>).

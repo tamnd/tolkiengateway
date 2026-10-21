@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Houghton Mifflin Company"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Houghton Mifflin Company</span>"
 page_id: 68548
 namespace: 14
 revision_id: 404156
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Houghton Mifflin Company"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to the [Houghton Mifflin Company](/wiki/Houghton_Mifflin_Company).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to the [Houghton Mifflin Company](../../main/H/Houghton_Mifflin_Company.md).

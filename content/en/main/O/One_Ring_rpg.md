@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring (role-playing game)"
 ---
 
-Redirect to [The One Ring (role-playing game)](/wiki/The_One_Ring_(role-playing_game)).
+Redirect to [The One Ring (role-playing game)](<../T/The_One_Ring_(role-playing_game).md>).

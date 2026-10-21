@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mortal (disambiguation)"
 ---
 
-Redirect to [Mortal (disambiguation)](/wiki/Mortal_(disambiguation)).
+Redirect to [Mortal (disambiguation)](<Mortal_(disambiguation).md>).

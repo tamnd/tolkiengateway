@@ -1,6 +1,5 @@
 ---
 title: "Bow of Bregor"
-display_title: "<span class=\"mw-page-title-main\">Bow of Bregor</span>"
 page_id: 47632
 namespace: 0
 revision_id: 404955
@@ -28,57 +27,56 @@ langlinks:
     url: "https://kontu.wiki/Bregorin_jousi"
 ---
 
-The **Bow of Bregor** belonged to [Bregor](/wiki/Bregor), the [Lord of Ladros](/wiki/Lord_of_Ladros), and remained an heirloom of the [House of Bëor](/wiki/House_of_B%C3%ABor).
+The **Bow of Bregor** belonged to [Bregor](Bregor.md), the [Lord of Ladros](../L/Lord_of_Ladros.md), and remained an heirloom of the [House of Bëor](../H/House_of_Bëor.md).
 
-The House was decimated, but the Bow somehow survived into the [Second Age](/wiki/Second_Age) and the [Edain](/wiki/Edain) brought it to [Númenor](/wiki/N%C3%BAmenor). It was kept as an heirloom of the [Kings of Númenor](/wiki/Kings_of_N%C3%BAmenor), until its [downfall](/wiki/Downfall_of_N%C3%BAmenor "Downfall of Númenor"), when it was lost during the deluge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The House was decimated, but the Bow somehow survived into the [Second Age](../S/Second_Age.md) and the [Edain](../E/Edain.md) brought it to [Númenor](../N/Númenor.md). It was kept as an heirloom of the [Kings of Númenor](../K/Kings_of_Númenor.md), until its [downfall](../D/Downfall_of_Númenor.md), when it was lost during the deluge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/A_Description_of_the_Island_of_N%C3%BAmenor" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;, &#34;Notes&#34;, Note 2</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>&#34;, &#34;Notes&#34;, Note 2</span>
 </li>
 </ol></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="/wiki/Category:Weapons" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="/wiki/Tolkien" title="Tolkien">Tolkien</a>&#39;s <a href="/wiki/Legendarium" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="/wiki/Category:Arrows" title="Category:Arrows">Arrows</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Black_arrow" title="Black arrow">Black arrow</a> · <a href="/wiki/Dailir" title="Dailir">Dailir</a> · <a href="/wiki/Red_Arrow" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Axes" title="Category:Axes">Axes</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Dramborleg" title="Dramborleg">Dramborleg</a> · <a href="/wiki/Durin%27s_Axe" title="Durin&#39;s Axe">Durin&#39;s Axe</a>
+<td style="font-size: 90%;"> <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a href="../D/Durin&#39;s_Axe.md" title="Durin&#39;s Axe">Durin&#39;s Axe</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Bows" title="Category:Bows">Bows</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/B/Bows.md" title="Category:Bows">Bows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Belthronding" title="Belthronding">Belthronding</a> · <a class="mw-selflink selflink">Bow of Bregor</a> · <a href="/wiki/Bow_of_the_Galadhrim" title="Bow of the Galadhrim">Bow of the Galadhrim</a>
+<td style="font-size: 90%;"> <a href="Belthronding.md" title="Belthronding">Belthronding</a> · <a class="mw-selflink selflink">Bow of Bregor</a> · <a href="Bow_of_the_Galadhrim.md" title="Bow of the Galadhrim">Bow of the Galadhrim</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Knives" title="Category:Knives">Knives</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/K/Knives.md" title="Category:Knives">Knives</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Angrist" title="Angrist">Angrist</a> · <a href="/wiki/Barrow-blades" title="Barrow-blades">Barrow-blades</a> · <a href="/wiki/Morgul-knife" title="Morgul-knife">Morgul-knife</a> · <a href="/wiki/Sting" title="Sting">Sting</a>
+<td style="font-size: 90%;"> <a href="../A/Angrist.md" title="Angrist">Angrist</a> · <a href="Barrow-blades.md" title="Barrow-blades">Barrow-blades</a> · <a href="../M/Morgul-knife.md" title="Morgul-knife">Morgul-knife</a> · <a href="../S/Sting.md" title="Sting">Sting</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Maces" title="Category:Maces">Maces</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Maces.md" title="Category:Maces">Maces</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Grond_(Hammer_of_the_Underworld)" title="Grond (Hammer of the Underworld)">Grond</a>
+<td style="font-size: 90%;"> <a href="../G/Grond_(Hammer_of_the_Underworld).md" title="Grond (Hammer of the Underworld)">Grond</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Spears" title="Category:Spears">Spears</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/S/Spears.md" title="Category:Spears">Spears</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Aeglos_(spear)" title="Aeglos (spear)">Aeglos</a>
+<td style="font-size: 90%;"> <a href="../A/Aeglos_(spear).md" title="Aeglos (spear)">Aeglos</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="/wiki/Category:Swords" title="Category:Swords">Swords</a>:
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/S/Swords.md" title="Category:Swords">Swords</a>:
 </th>
-<td style="font-size: 90%;"> <a href="/wiki/Anglachel" title="Anglachel">Anglachel</a>/<a href="/wiki/Gurthang" title="Gurthang">Gurthang</a> · <a href="/wiki/Anguirel" title="Anguirel">Anguirel</a> · <a href="/wiki/Aranr%C3%BAth" title="Aranrúth">Aranrúth</a> · <a href="/wiki/Dagmor" title="Dagmor">Dagmor</a> · <a href="/wiki/Glamdring" title="Glamdring">Glamdring</a> · <a href="/wiki/Glend" title="Glend">Glend</a> · <a href="/wiki/G%C3%BAthwin%C3%AB" title="Gúthwinë">Gúthwinë</a> · <a href="/wiki/Herugrim" title="Herugrim">Herugrim</a> · <a href="/wiki/Narsil" title="Narsil">Narsil</a>/<a href="/wiki/And%C3%BAril" title="Andúril">Andúril</a> ·  <a href="/wiki/Orcrist" title="Orcrist">Orcrist</a> · <a href="/wiki/Ringil" title="Ringil">Ringil</a> · <a href="/wiki/Sword_of_Manw%C3%AB" title="Sword of Manwë">Sword of Manwë</a>
+<td style="font-size: 90%;"> <a href="../A/Anglachel.md" title="Anglachel">Anglachel</a>/<a href="../G/Gurthang.md" title="Gurthang">Gurthang</a> · <a href="../A/Anguirel.md" title="Anguirel">Anguirel</a> · <a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../D/Dagmor.md" title="Dagmor">Dagmor</a> · <a href="../G/Glamdring.md" title="Glamdring">Glamdring</a> · <a href="../G/Glend.md" title="Glend">Glend</a> · <a href="../G/Gúthwinë.md" title="Gúthwinë">Gúthwinë</a> · <a href="../H/Herugrim.md" title="Herugrim">Herugrim</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a>/<a href="../A/Andúril.md" title="Andúril">Andúril</a> ·  <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a> · <a href="../R/Ringil.md" title="Ringil">Ringil</a> · <a href="../S/Sword_of_Manwë.md" title="Sword of Manwë">Sword of Manwë</a>
 </td></tr>
 </tbody></table>

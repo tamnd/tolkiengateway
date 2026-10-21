@@ -1,6 +1,5 @@
 ---
 title: "File:Philip Brown 30 May 1973.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Philip Brown 30 May 1973.png</span>"
 page_id: 38967
 namespace: 6
 revision_id: 215092

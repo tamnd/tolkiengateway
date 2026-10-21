@@ -1,6 +1,5 @@
 ---
 title: "Category:T.C.B.S."
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">T.C.B.S.</span>"
 page_id: 18969
 namespace: 14
 revision_id: 115644
@@ -13,4 +12,4 @@ categories:
   - "People by association"
 ---
 
-Members of the [Tea Club, Barrovian Society](/wiki/T.C.B.S. "T.C.B.S.").
+Members of the [Tea Club, Barrovian Society](../../main/T/T.C.B.S..md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of Leithian"
 ---
 
-Redirect to [The Lay of Leithian](/wiki/The_Lay_of_Leithian).
+Redirect to [The Lay of Leithian](The_Lay_of_Leithian.md).

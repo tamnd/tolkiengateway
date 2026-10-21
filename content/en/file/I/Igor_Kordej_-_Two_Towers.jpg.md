@@ -1,6 +1,5 @@
 ---
 title: "File:Igor Kordej - Two Towers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Igor Kordej - Two Towers.jpg</span>"
 page_id: 14699
 namespace: 6
 revision_id: 350770

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tale-fire"
 ---
 
-Redirect to [Tale-fire](/wiki/Tale-fire).
+Redirect to [Tale-fire](Tale-fire.md).

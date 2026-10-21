@@ -1,6 +1,5 @@
 ---
 title: "Terence Tiller"
-display_title: "<span class=\"mw-page-title-main\">Terence Tiller</span>"
 page_id: 19323
 namespace: 0
 revision_id: 428729
@@ -26,13 +25,13 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Terence_Tiller"
 ---
 
-**Terence Rogers Tiller** ([September 19](/wiki/19_September "19 September"), [1916](/wiki/1916) - [December 24](/wiki/24_December "24 December"), [1987](/wiki/1987)) was an English poet and radio producer. He adapted *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* for a [radio series](</wiki/The_Lord_of_the_Rings_(1956_radio_series)> "The Lord of the Rings (1956 radio series)") in [1955](/wiki/1955), which [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) did not like very much, as read in [Letters](/wiki/The_Letters_of_J.R.R._Tolkien "The Letters of J.R.R. Tolkien") [175](/wiki/Letter_175 "Letter 175"), [176](/wiki/Letter_176 "Letter 176"), [177](/wiki/Letter_177 "Letter 177"), [194](/wiki/Letter_194 "Letter 194") and [198](/wiki/Letter_198 "Letter 198").
+**Terence Rogers Tiller** ([September 19](../_/19_September.md), [1916](../_/1916.md) - [December 24](../_/24_December.md), [1987](../_/1987.md)) was an English poet and radio producer. He adapted *[The Lord of the Rings](The_Lord_of_the_Rings.md)* for a [radio series](<The_Lord_of_the_Rings_(1956_radio_series).md>) in [1955](../_/1955.md), which [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) did not like very much, as read in [Letters](The_Letters_of_J.R.R._Tolkien.md) [175](../L/Letter_175.md), [176](../L/Letter_176.md), [177](../L/Letter_177.md), [194](../L/Letter_194.md) and [198](../L/Letter_198.md).
 
 ## See also {#See_also}
 
-- [Letter 193](/wiki/Letter_193)
-- [Letter 194](/wiki/Letter_194)
-- [Letter to Terence Tiller (19 September 1956)](</wiki/Letter_to_Terence_Tiller_(19_September_1956)>)
+- [Letter 193](../L/Letter_193.md)
+- [Letter 194](../L/Letter_194.md)
+- [Letter to Terence Tiller (19 September 1956)](<../L/Letter_to_Terence_Tiller_(19_September_1956).md>)
 
 ## External links {#External_links}
 

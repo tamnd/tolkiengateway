@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Bree-landers.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Bree-landers.jpg</span>"
 page_id: 74585
 namespace: 6
 revision_id: 438986
@@ -33,22 +32,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Lord of the Rings (1978 film) - Bree-landers.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Bree-landers" title="Bree-landers">Bree-landers</a> in <a href="/wiki/The_Prancing_Pony" title="The Prancing Pony">The Prancing Pony</a>
+<p><a href="../../main/B/Bree-landers.md" title="Bree-landers">Bree-landers</a> in <a href="../../main/T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/16_November" title="16 November">November 15</a> <a href="/wiki/1978" title="1978">1978</a></td>
+<td><a href="../../main/_/16_November.md" title="16 November">November 15</a> <a href="../../main/_/1978.md" title="1978">1978</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.facebook.com/photo.php?fbid=1037370094411711" rel="noreferrer noopener" target="_blank">https://www.facebook.com/photo.php?fbid=1037370094411711</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

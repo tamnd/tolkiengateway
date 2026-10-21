@@ -1,6 +1,5 @@
 ---
 title: "Anadûnê"
-display_title: "<span class=\"mw-page-title-main\">Anadûnê</span>"
 page_id: 10122
 namespace: 0
 revision_id: 319966
@@ -28,12 +27,12 @@ langlinks:
     url: "https://kontu.wiki/Anad%C3%BBn%C3%AA"
 ---
 
-**Anadûnê** is [Adûnaic](/wiki/Ad%C3%BBnaic) for 'Westernesse *(Númenor)*
+**Anadûnê** is [Adûnaic](Adûnaic.md) for 'Westernesse *(Númenor)*
 
 ## Etymology {#Etymology}
 
-From <i><a class="new" href="/w/index.php?title=Anad%C3%BBni&amp;action=edit&amp;redlink=1" title="Anadûni (page does not exist)">anadûni</a></i> which means "Western" (*[an](/wiki/An "An")-[Adûn](/wiki/Ad%C3%BBn)* "of the West")
+From <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Anad%C3%BBni&amp;action=edit&amp;redlink=1" title="Anadûni (page does not exist)">anadûni</a></i> which means "Western" (*[an](An.md)-[Adûn](Adûn.md)* "of the West")
 
 ## References {#References}
 
-- [The Languages of Tolkien's Middle-earth](/wiki/The_Languages_of_Tolkien%27s_Middle-earth)
+- [The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)

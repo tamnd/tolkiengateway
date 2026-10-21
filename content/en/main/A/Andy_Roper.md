@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andwise Roper"
 ---
 
-Redirect to [Andwise Roper](/wiki/Andwise_Roper).
+Redirect to [Andwise Roper](Andwise_Roper.md).

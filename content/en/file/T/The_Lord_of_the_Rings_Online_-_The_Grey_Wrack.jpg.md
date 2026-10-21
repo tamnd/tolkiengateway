@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - The Grey Wrack.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - The Grey Wrack.jpg</span>"
 page_id: 57093
 namespace: 6
 revision_id: 313799
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Grey Wrack", the frozen ruins of "Grárik", [Dáin's Halls](/wiki/D%C3%A1in%27s_Halls) as depicted in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+"The Grey Wrack", the frozen ruins of "Grárik", [Dáin's Halls](../../main/D/Dáin's_Halls~64102.md) as depicted in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

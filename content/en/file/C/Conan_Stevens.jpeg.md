@@ -1,6 +1,5 @@
 ---
 title: "File:Conan Stevens.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Conan Stevens.jpeg</span>"
 page_id: 66722
 namespace: 6
 revision_id: 386454

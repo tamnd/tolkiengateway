@@ -1,6 +1,5 @@
 ---
 title: "File:Tree and Leaf anthology 1975.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tree and Leaf anthology 1975.png</span>"
 page_id: 61862
 namespace: 6
 revision_id: 348827

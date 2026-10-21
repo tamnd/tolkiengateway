@@ -1,6 +1,5 @@
 ---
 title: "File:Michele Mantoani - Bilbo Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Michele Mantoani - Bilbo Baggins.jpg</span>"
 page_id: 69098
 namespace: 6
 revision_id: 412674
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Michele Mantoani</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/michele_mantoani" rel="noreferrer noopener" target="_blank">Official ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Michele_Mantoani" title="Tolkien Gateway:Copyrights/Michele Mantoani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMichele_Mantoani.md" title="Tolkien Gateway:Copyrights/Michele Mantoani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moriquendi"
 ---
 
-Redirect to [Moriquendi](/wiki/Moriquendi).
+Redirect to [Moriquendi](../M/Moriquendi.md).

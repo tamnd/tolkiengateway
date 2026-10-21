@@ -11,4 +11,4 @@ redirect_target: "Salmar"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Salmar](/wiki/Salmar#Other_versions_of_the_legendarium).
+Redirect to [Salmar](../S/Salmar.md#Other_versions_of_the_legendarium).

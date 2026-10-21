@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Rivendell Elf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Rivendell Elf.png</span>"
 page_id: 73300
 namespace: 6
 revision_id: 433540
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rivendell](/wiki/Rivendell) [Elf](/wiki/Elves "Elves") - [LEGO](/wiki/Lego "Lego") minifigure
+[Rivendell](../../main/R/Rivendell.md) [Elf](../../main/E/Elves.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

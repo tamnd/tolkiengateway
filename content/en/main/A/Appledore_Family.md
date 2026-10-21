@@ -1,6 +1,5 @@
 ---
 title: "Appledore Family"
-display_title: "<span class=\"mw-page-title-main\">Appledore Family</span>"
 page_id: 1228
 namespace: 0
 revision_id: 404697
@@ -23,17 +22,17 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/personnages/hommes/3a/hommes_de_bree/aballon"
 ---
 
-The **Appledore Family** were a family of [Big Folk](/wiki/Big_Folk) who lived in [Bree](/wiki/Bree). Only one member of the family is known, [Rowlie Appledore](/wiki/Rowlie_Appledore), who was killed in fighting at [Bree](/wiki/Bree) during the [War of the Ring](/wiki/War_of_the_Ring).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Appledore Family** were a family of [Big Folk](../B/Big_Folk.md) who lived in [Bree](../B/Bree.md). Only one member of the family is known, [Rowlie Appledore](../R/Rowlie_Appledore.md), who was killed in fighting at [Bree](../B/Bree.md) during the [War of the Ring](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-Appledore is an old word for "[apple-tree](/wiki/Apples "Apples")" and survives in English place-names. It represents a dialectal or archaic word of the same meaning in [Westron](/wiki/Westron).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Appledore is an old word for "[apple-tree](Apples.md)" and survives in English place-names. It represents a dialectal or archaic word of the same meaning in [Westron](../W/Westron.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="/wiki/Homeward_Bound" title="Homeward Bound">Homeward Bound</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../H/Homeward_Bound.md" title="Homeward Bound">Homeward Bound</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), &#34;Guide to the Names in <i>The Lord of the Rings</i>&#34;, published in <i><a href="/wiki/A_Tolkien_Compass" title="A Tolkien Compass">A Tolkien Compass</a></i> (edited by <a href="/wiki/Jared_Lobdell" title="Jared Lobdell">Jared Lobdell</a>), entry <i>Appledore</i></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), &#34;Guide to the Names in <i>The Lord of the Rings</i>&#34;, published in <i><a href="A_Tolkien_Compass.md" title="A Tolkien Compass">A Tolkien Compass</a></i> (edited by <a href="../J/Jared_Lobdell.md" title="Jared Lobdell">Jared Lobdell</a>), entry <i>Appledore</i></span>
 </li>
 </ol></div>

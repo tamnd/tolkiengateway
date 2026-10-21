@@ -1,6 +1,5 @@
 ---
 title: "File:Sam Kelly Autograph.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sam Kelly Autograph.jpg</span>"
 page_id: 73830
 namespace: 6
 revision_id: 436433
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Sam Kelly Autograph.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Sam_Kelly" title="Sam Kelly">Sam Kelly</a> autograph card
+<p><a href="../../main/S/Sam_Kelly.md" title="Sam Kelly">Sam Kelly</a> autograph card
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external autonumber" href="https://starwarsautographcollecting.com/Autographs/LordoftheRings/LordofTheRingsTemplate.htm" rel="noreferrer noopener" target="_blank">[1]</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

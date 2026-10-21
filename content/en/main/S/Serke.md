@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Serkë"
 ---
 
-Redirect to [Serkë](/wiki/Serkë).
+Redirect to [Serkë](Serkë.md).

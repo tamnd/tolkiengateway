@@ -1,6 +1,5 @@
 ---
 title: "Teleporno"
-display_title: "<span class=\"mw-page-title-main\">Teleporno</span>"
 page_id: 4670
 namespace: 0
 revision_id: 407370
@@ -36,42 +35,42 @@ images:
 <td style="text-align:center; padding-bottom:3px" colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="/wiki/File:Telerin_-_Teleporno.mp3" title="File:Telerin - Teleporno.mp3"><img src="/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, /w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="/wiki/File:Telerin_-_Teleporno.mp3" title="File:Telerin - Teleporno.mp3">File:Telerin - Teleporno.mp3</a></b></td>
+<td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/T/Telerin_-_Teleporno.mp3.md" title="File:Telerin - Teleporno.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
+<td style="text-align:center"><b><a href="../../file/T/Telerin_-_Teleporno.mp3.md" title="File:Telerin - Teleporno.mp3">File:Telerin - Teleporno.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
 </tr>
 </tbody></table>
 </div>
 
-<i><b>Teleporno</b></i> is a [Telerin](/wiki/Telerin)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> name meaning "Silver-tall".
+<i><b>Teleporno</b></i> is a [Telerin](Telerin.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> name meaning "Silver-tall".
 
 ## Etymology {#Etymology}
 
-The name is composed of *[telepi](/wiki/Telepi "Telepi")* and <i><a class="new" href="/w/index.php?title=Orno&amp;action=edit&amp;redlink=1" title="Orno (page does not exist)">orno</a></i> ([Primitive Elvish](/wiki/Primitive_Elvish) <i><a class="new" href="/w/index.php?title=Orn%C3%A2&amp;action=edit&amp;redlink=1" title="Ornâ (page does not exist)">ornâ</a></i> "uprising, tall").
+The name is composed of *[telepi](Telepi.md)* and <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orno&amp;action=edit&amp;redlink=1" title="Orno (page does not exist)">orno</a></i> ([Primitive Elvish](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Orn%C3%A2&amp;action=edit&amp;redlink=1" title="Ornâ (page does not exist)">ornâ</a></i> "uprising, tall").
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) *Telporno*
-- [Sindarin](/wiki/Sindarin) *[Celeborn](/wiki/Celeborn)*
+- [Quenya](../Q/Quenya.md) *Telporno*
+- [Sindarin](../S/Sindarin.md) *[Celeborn](../C/Celeborn.md)*
 
 ## Other versions of the legendarium {#Other_versions_of_the_legendarium}
 
 Originally, Tolkien intended Sindarin Celeborn to mean "Silver-tree", but the etymology "Silver-tall" appears in Tolkien's latest philological writings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Celeborn](/wiki/Celeborn), was said in some of the last writings to be a [Teler](/wiki/Falmari "Falmari") of [Valinor](/wiki/Valinor) named **Teleporno**, meaning *silver-tree* [instead of a](/wiki/Celeborn#Controversy "Celeborn") [Sinda](/wiki/Sindar "Sindar"). It exists also the Telerin form *Telepornë*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Celeborn](../C/Celeborn.md), was said in some of the last writings to be a [Teler](../F/Falmari.md) of [Valinor](../V/Valinor.md) named **Teleporno**, meaning *silver-tree* [instead of a](../C/Celeborn.md#Controversy) [Sinda](../S/Sindar.md). It exists also the Telerin form *Telepornë*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XI. <a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>&#34;, &#34;The names of Finwë&#39;s descendants&#34; p. 347</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XI. <a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>&#34;, &#34;The names of Finwë&#39;s descendants&#34; p. 347</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_History_of_Galadriel_and_Celeborn" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;, &#34;Appendix E: The Names of Celeborn and Galadriel&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">The History of Galadriel and Celeborn</a>&#34;, &#34;Appendix E: The Names of Celeborn and Galadriel&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part Three. The World, its Lands, and its Inhabitants: XVI. Galadriel and Celeborn,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part Three. The World, its Lands, and its Inhabitants: XVI. Galadriel and Celeborn,” in <i><a href="The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2021)
 , p. 349.</span>
 </li>
 </ol></div>

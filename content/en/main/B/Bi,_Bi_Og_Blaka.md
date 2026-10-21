@@ -1,6 +1,5 @@
 ---
 title: "Bi, Bi Og Blaka"
-display_title: "<span class=\"mw-page-title-main\">Bi, Bi Og Blaka</span>"
 page_id: 63172
 namespace: 0
 revision_id: 357598
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Bi, Bi Og Blaka** is an Icelandic lullaby written by 19th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/Sveinbj%C3%B6rn_Egilsson" title="wikipedia:Sveinbjörn Egilsson">Sveinbjörn Egilsson</a>. It is published as the 23rd song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Bi, Bi Og Blaka** is an Icelandic lullaby written by 19th century poet <a class="extiw" href="http://en.wikipedia.org/wiki/Sveinbj%C3%B6rn_Egilsson" title="wikipedia:Sveinbjörn Egilsson">Sveinbjörn Egilsson</a>. It is published as the 23rd song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

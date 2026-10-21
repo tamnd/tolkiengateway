@@ -1,6 +1,5 @@
 ---
 title: "Quenya/Grammar"
-display_title: "<span class=\"mw-page-title-main\">Quenya/Grammar</span>"
 page_id: 36575
 namespace: 0
 revision_id: 407028
@@ -28,25 +27,21 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
 <p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Master_of_Lake-town" title="Master of Lake-town">Master of Lake-town</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+</blockquote></div></div>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413279"/>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="/wiki/Help:References" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
 <p>Who told you, and who sent you?
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a></cite></p>
-</blockquote><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/></div></div>
+<p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
+</blockquote></div></div>
 
 <i>Note: these rules apply only to Ñoldorin Quenya, being the only dialect spoken in Middle-earth. Also this document will not teach you Neo-Quenya, but summarizes basic grammar. The symbol * marks an unattested form – one that fits the logic of Quenya, but Tolkien never wrote.</i>
 
-[Quenya](/wiki/Quenya) was an agglutinative SVO language. It had a relatively free word order since most information was expressed morphologically rather than syntactically. The different word classes of Quenya are explained below.
+[Quenya](Quenya.md) was an agglutinative SVO language. It had a relatively free word order since most information was expressed morphologically rather than syntactically. The different word classes of Quenya are explained below.
 
 ## Phonology {#Phonology}
 
@@ -250,7 +245,7 @@ This table shows the plural for nouns ending in vowels, -e, and consonants, and 
 </td>
 <td bgcolor="lightgrey"><b>C Plural</b>
 </td>
-<td bgcolor="lightgrey"><b><a class="mw-redirect" href="/wiki/Quenya_Grammar#Dual_Form" title="Quenya Grammar">Dual</a></b>
+<td bgcolor="lightgrey"><b><a class="mw-redirect" href="Quenya_Grammar.md#Dual_Form" title="Quenya Grammar">Dual</a></b>
 </td>
 <td bgcolor="lightgrey"><b>Partitive Plural</b>
 </td></tr>
@@ -331,7 +326,7 @@ The partitive plural is used to express some of the things in question. It is fo
 
 #### Dual Form {#Dual_Form}
 
-The dual form is used to mark two specific things. One type of dual form is called the "u-form". The "u-form" is originally used with nouns which describe things that form natural pairs; or put it simply, it is used on two things or people that naturally belonging together as a logical couple.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> For example, the word for "lip", *pé*, has the dual form *peu*, which refers to one person’s pair of lips.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The noun for "tree", *alda*, occurs in dual form with reference to the [Two Trees of Valinor](/wiki/Two_Trees_of_Valinor): *Aldu*. When the ending *-u* is added to a noun ending in a vowel, the vowel will be displaced, as can be seen with *Aldu*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+The dual form is used to mark two specific things. One type of dual form is called the "u-form". The "u-form" is originally used with nouns which describe things that form natural pairs; or put it simply, it is used on two things or people that naturally belonging together as a logical couple.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> For example, the word for "lip", *pé*, has the dual form *peu*, which refers to one person’s pair of lips.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The noun for "tree", *alda*, occurs in dual form with reference to the [Two Trees of Valinor](../T/Two_Trees_of_Valinor.md): *Aldu*. When the ending *-u* is added to a noun ending in a vowel, the vowel will be displaced, as can be seen with *Aldu*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 Another type of dual form is called the "t-form". This form was originally used to only denote two things that are only casually related to each other, yet it soon it became to only reference natural or logical pairs, which means that the functions of both the "u-form" and the "t-form" had merged. The choice of form is decided by euphony, or put it simply, by what sounded better; for example, the "u-form" is preferred to the "t-form" when the word that is to receive a dual ending already contains a *t* or the similarly sounding *d*.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
@@ -340,7 +335,6 @@ Another type of dual form is called the "t-form". This form was originally used 
 There are two main types of verbs: basic verbs, those which are formed from the basic verbal base, such as *tirë* (*tiri*-) "watch" from \*TIR, and derivative verbs, which are formed either by putting verbal suffixes to a base like *tulta*- "summon", from \*TUL "come", or derived from non-verbal bases like *cúna*- "bend", originally an adjective "bent".
 
 <table rules="all" style="text-align: left; border: 1px solid darkgray;" cellpadding="3">
-<!-- -->
 <tbody><tr>
 <td rowspan="2"></td>
 <td colspan="2"><b>Derivative verbs</b></td>
@@ -411,7 +405,6 @@ There are two main types of verbs: basic verbs, those which are formed from the 
 Pronouns are seen as both independent words and enclitics; however the rules for this are not completely understood, although evidence sugests that independent forms are more emphatic in nature, while enclitics are the forms in use normally. What is known is that for intransitive verbs, the pronoun can appear as either an independent word or an enclitic. The enclitics often come in two different forms, long and short. The following table outlines the different forms attested. Hypothetical or reconstructed forms are indicated by either question marks or asterisks. Those forms that cannot be determined are not included and their absence is indicated by an emdash.
 
 <table rules="all" style="text-align: left; border: 1px solid darkgray;" cellpadding="3">
-<!-- -->
 <tbody><tr>
 <td rowspan="2" colspan="2"></td>
 <td colspan="2"><b>Independent</b></td>
@@ -478,34 +471,34 @@ Aside from inclusive and exclusive modes in the first person plural, there is al
 ## References {#References}
 
 <div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="/wiki/Parma_Eldalamberon_19" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>) (<i>þ</i> &gt; <i>s</i>)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Quenya Phonology&#34;, in <a href="../P/Parma_Eldalamberon_19.md" title="Parma Eldalamberon 19"><i>Parma Eldalamberon</i> XIX</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>) (<i>þ</i> &gt; <i>s</i>)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_E" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Consonants&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_E.md" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Consonants&#34;</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_E" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Vowels&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_E.md" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Vowels&#34;</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_E" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Stress&#34;</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_E.md" title="Appendix E">Appendix E</a>, &#34;Pronunciation of Words and Names&#34;, &#34;Stress&#34;</span>
 </li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Vinyar Tengwar, Number 6, June 1989</span>
 </li>
 <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
 </li>
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;</span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_49" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007</span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_49.md" title="Vinyar Tengwar 49"><i>Vinyar Tengwar</i>, Number 49</a>, June 2007</span>
 </li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="/wiki/Letter_297" title="Letter 297">Letter 297</a>, (dated <a href="/wiki/August" title="August">August</a> <a href="/wiki/1967" title="1967">1967</a>)</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="../L/Letter_297.md" title="Letter 297">Letter 297</a>, (dated <a href="../A/August.md" title="August">August</a> <a href="../_/1967.md" title="1967">1967</a>)</span>
 </li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_39" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998</span>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_39.md" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998</span>
 </li>
 <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Morgoth%27s_Ring" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Two. <a href="/wiki/The_Annals_of_Aman" title="The Annals of Aman">The Annals of Aman</a>&#34;</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;Part Two. <a href="../T/The_Annals_of_Aman.md" title="The Annals of Aman">The Annals of Aman</a>&#34;</span>
 </li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="/wiki/Humphrey_Carpenter" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="/wiki/The_Letters_of_J.R.R._Tolkien" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="/wiki/Letter_347" title="Letter 347">Letter 347</a>, (dated <a href="/wiki/17_December" title="17 December">17 December</a> <a href="/wiki/1972" title="1972">1972</a>), footnote 140</span>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>), footnote 140</span>
 </li>
 </ol></div>

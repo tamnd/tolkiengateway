@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jeremiah Humphries"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jeremiah Humphries</span>"
 page_id: 50333
 namespace: 14
 revision_id: 271088

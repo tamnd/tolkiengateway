@@ -1,6 +1,5 @@
 ---
 title: "Guy Gondron"
-display_title: "<span class=\"mw-page-title-main\">Guy Gondron</span>"
 page_id: 8233
 namespace: 0
 revision_id: 405742
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Gondron, Guy"
 ---
 
-**Guy Gondron** has illustrated numerous scenes from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s works.
+**Guy Gondron** has illustrated numerous scenes from [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s works.
 
 ## See also {#See_also}
 
-- [Images by Guy Gondron](/wiki/Category:Images_by_Guy_Gondron "Category:Images by Guy Gondron")
+- [Images by Guy Gondron](../../category/I/Images_by_Guy_Gondron.md)
 
 ## External links {#External_links}
 

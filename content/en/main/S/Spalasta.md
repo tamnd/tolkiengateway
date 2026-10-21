@@ -13,17 +13,17 @@ categories:
   - "Telerin verbs"
 ---
 
-**spalasta-** in [Telerin](/wiki/Telerin) mans "to foam, to froth".
+**spalasta-** in [Telerin](../T/Telerin.md) mans "to foam, to froth".
 
 ## Etymology {#Etymology}
 
-It comes from the [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=SPAL&amp;action=edit&amp;redlink=1" title="SPAL (page does not exist)">SPAL</a>-AS<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/<a class="new" href="/w/index.php?title=PHAL&amp;action=edit&amp;redlink=1" title="PHAL (page does not exist)">PHAL</a>-AS.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+It comes from the [Root](Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=SPAL&amp;action=edit&amp;redlink=1" title="SPAL (page does not exist)">SPAL</a>-AS<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=PHAL&amp;action=edit&amp;redlink=1" title="PHAL (page does not exist)">PHAL</a>-AS.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> p.387</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> p.387</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> p.381</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> p.381</span>
 </li>
 </ol></div>

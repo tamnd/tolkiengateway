@@ -13,20 +13,20 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>tir-</b></i> is a [Quenya](/wiki/Quenya) verb meaning "watch, guard, heed".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with the [Sindarin](/wiki/Sindarin) noun *[tirith](/wiki/Tirith "Tirith")*.
+<i><b>tir-</b></i> is a [Quenya](../Q/Quenya.md) verb meaning "watch, guard, heed".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Compare with the [Sindarin](../S/Sindarin.md) noun *[tirith](Tirith.md)*.
 
 ## Examples {#Examples}
 
-- *[palantíri](/wiki/Palant%C3%ADri "Palantíri")* = "Watch Far and Wide" (colloquially translated as "Seeing-stones")
-- *[Tirion](/wiki/Tirion)* = "watchtower"
+- *[palantíri](../P/Palantíri.md)* = "Watch Far and Wide" (colloquially translated as "Seeing-stones")
+- *[Tirion](Tirion.md)* = "watchtower"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>tir</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;Appendix: Elements in Quenya and Sindarin Names&#34;, <i>tir</i></span>
 </li>
 </ol></div>
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](/wiki/Helge_Fauskanger)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Corpus Wordlist</a> edited by [Helge Fauskanger](../H/Helge_Fauskanger.md)

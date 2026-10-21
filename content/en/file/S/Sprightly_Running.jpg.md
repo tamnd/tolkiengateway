@@ -1,6 +1,5 @@
 ---
 title: "File:Sprightly Running.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sprightly Running.jpg</span>"
 page_id: 48377
 namespace: 6
 revision_id: 258502
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Sprightly Running](/wiki/Sprightly_Running)* by John Wain.
+Cover of *[Sprightly Running](../../main/S/Sprightly_Running.md)* by John Wain.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Centenary sets portal.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Centenary sets portal.png</span>"
 page_id: 70062
 namespace: 6
 revision_id: 416626

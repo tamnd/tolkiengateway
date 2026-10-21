@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/JLazarusEB"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/JLazarusEB</span>"
 page_id: 59814
 namespace: 4
 revision_id: 334537
@@ -17,14 +16,14 @@ images:
   - "JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png"
 ---
 
-- JLazarusEB has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_JLazarusEB "Category:Images by JLazarusEB") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- JLazarusEB has kindly granted his permission to use [his artwork](../../category/I/Images_by_JLazarusEB.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 8 July 2021
-- User who sought the permission via DeviantArt: [A Hobbit Gentleman](/wiki/User:A_Hobbit_Gentleman "User:A Hobbit Gentleman")
+- User who sought the permission via DeviantArt: [A Hobbit Gentleman](https://tolkiengateway.net/wiki/User:A_Hobbit_Gentleman)
 - Screenshot evidence of author permission:
 
 <ul class="gallery mw-gallery-packed-hover">
 		<li class="gallerybox" style="width: 170px">
-			<div class="thumb" style="width: 168px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png" title="JLazarusEB&#39;s artworks permission (July 2021)"><img alt="JLazarusEB&#39;s artworks permission (July 2021)" src="/w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/252px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png" decoding="async" loading="lazy" width="168" height="120" class="mw-file-element" srcset="/w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/378px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png 1.5x, /w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/504px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png 2x" data-file-width="1021" data-file-height="730"/></a></span></div>
+			<div class="thumb" style="width: 168px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_(AHG).png.md" title="JLazarusEB&#39;s artworks permission (July 2021)"><img alt="JLazarusEB&#39;s artworks permission (July 2021)" src="https://tolkiengateway.net/w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/252px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png" decoding="async" loading="lazy" width="168" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/378px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png/504px-JLazarusEB_artworks_permission_for_Tolkien_Gateway_July_2021_%28AHG%29.png 2x" data-file-width="1021" data-file-height="730"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 148px"><div class="gallerytext">
 <p>JLazarusEB&#39;s artworks permission (July 2021)
 </p>

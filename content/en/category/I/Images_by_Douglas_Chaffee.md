@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Douglas Chaffee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Douglas Chaffee</span>"
 page_id: 28643
 namespace: 14
 revision_id: 423051
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Chaffee, Douglas"
 ---
 
-This category lists all **images by [Douglas Chaffee](/wiki/Douglas_Chaffee)**.
+This category lists all **images by [Douglas Chaffee](../../main/D/Douglas_Chaffee.md)**.

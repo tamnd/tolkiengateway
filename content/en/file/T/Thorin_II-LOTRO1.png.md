@@ -1,6 +1,5 @@
 ---
 title: "File:Thorin II-LOTRO1.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Thorin II-LOTRO1.png</span>"
 page_id: 32422
 namespace: 6
 revision_id: 248483

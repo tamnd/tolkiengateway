@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hirluin"
 ---
 
-Redirect to [Hirluin](/wiki/Hirluin).
+Redirect to [Hirluin](Hirluin.md).

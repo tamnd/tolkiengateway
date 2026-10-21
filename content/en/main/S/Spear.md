@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aeglos (spear)"
 ---
 
-Redirect to [Aeglos (spear)](/wiki/Aeglos_(spear)).
+Redirect to [Aeglos (spear)](<../A/Aeglos_(spear).md>).

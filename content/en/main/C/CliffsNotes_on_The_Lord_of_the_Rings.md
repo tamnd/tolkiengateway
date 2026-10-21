@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit"
 ---
 
-Redirect to [Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit](/wiki/Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit).
+Redirect to [Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit](Cliffs_Notes_on_Tolkien's_The_Lord_of_the_Rings_and_The_Hobbit.md).

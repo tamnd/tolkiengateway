@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Update 1 Journey to Winter-Home.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Update 1 Journey to Winter-Home.png</span>"
 page_id: 38371
 namespace: 6
 revision_id: 186526

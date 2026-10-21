@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Christopher Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Christopher Tolkien</span>"
 page_id: 14631
 namespace: 14
 revision_id: 104011
@@ -15,4 +14,4 @@ sort_keys:
   "Books by author": "Tolkien, Christopher"
 ---
 
-Books by [Christopher Tolkien](/wiki/Christopher_Tolkien)
+Books by [Christopher Tolkien](../../main/C/Christopher_Tolkien.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Desolation of the Dragon"
 ---
 
-Redirect to [Desolation of the Dragon](/wiki/Desolation_of_the_Dragon).
+Redirect to [Desolation of the Dragon](Desolation_of_the_Dragon.md).

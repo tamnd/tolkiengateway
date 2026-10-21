@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Karen Wynn Fonstad"
 ---
 
-Redirect to [Karen Wynn Fonstad](/wiki/Karen_Wynn_Fonstad).
+Redirect to [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md).

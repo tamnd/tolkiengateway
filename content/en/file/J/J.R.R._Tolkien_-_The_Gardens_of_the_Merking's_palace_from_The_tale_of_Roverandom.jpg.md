@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Gardens of the Merking's palace from The tale of Roverandom.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Gardens of the Merking&#039;s palace from The tale of Roverandom.jpg</span>"
 page_id: 46498
 namespace: 6
 revision_id: 426538
@@ -27,9 +26,9 @@ file:
 
 ## Summary {#Summary}
 
-This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* and on the <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">website</a> of the [Tolkien Estate](/wiki/Tolkien_Estate), where it is entitled <i><b>The Gardens of the Merking&#39;s palace from The tale of <a href="/wiki/Roverandom" title="Roverandom">Roverandom</a></b></i>.
+This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* and on the <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">website</a> of the [Tolkien Estate](../../main/T/Tolkien_Estate.md), where it is entitled <i><b>The Gardens of the Merking&#39;s palace from The tale of <a href="../../main/R/Roverandom.md" title="Roverandom">Roverandom</a></b></i>.
 
-The [front cover](/wiki/File:Roverandom_1998_hardcover.jpeg "File:Roverandom 1998 hardcover.jpeg") of *[Roverandom](/wiki/Roverandom)* was based on *The Gardens of the Merking's palace from The tale of Roverandom*.
+The [front cover](../R/Roverandom_1998_hardcover.jpeg.md) of *[Roverandom](../../main/R/Roverandom.md)* was based on *The Gardens of the Merking's palace from The tale of Roverandom*.
 
 ## Licensing {#Licensing}
 

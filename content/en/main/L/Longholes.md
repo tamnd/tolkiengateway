@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Longholes Family"
 ---
 
-Redirect to [Longholes Family](/wiki/Longholes_Family).
+Redirect to [Longholes Family](Longholes_Family.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien (2014 book)"
 ---
 
-Redirect to [Tolkien (2014 book)](/wiki/Tolkien_(2014_book)).
+Redirect to [Tolkien (2014 book)](<Tolkien_(2014_book).md>).

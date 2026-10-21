@@ -1,6 +1,5 @@
 ---
 title: "File:Frodo's Restaurant.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frodo&#039;s Restaurant.jpg</span>"
 page_id: 6333
 namespace: 6
 revision_id: 253177
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The official logo for [Frodo's Restaurant](/wiki/Frodo%27s_Restaurant).
+The official logo for [Frodo's Restaurant](../../main/F/Frodo's_Restaurant.md).
 
 ## Licensing {#Licensing}
 

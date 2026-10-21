@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Númendil"
 ---
 
-Redirect to [Númendil](/wiki/Númendil).
+Redirect to [Númendil](Númendil.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rohirrim"
 ---
 
-Redirect to [Rohirrim](/wiki/Rohirrim).
+Redirect to [Rohirrim](../R/Rohirrim.md).

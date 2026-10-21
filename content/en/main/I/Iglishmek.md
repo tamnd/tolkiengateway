@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Iglishmêk"
 ---
 
-Redirect to [Iglishmêk](/wiki/Iglishmêk).
+Redirect to [Iglishmêk](Iglishmêk.md).

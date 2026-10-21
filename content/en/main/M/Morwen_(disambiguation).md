@@ -1,6 +1,5 @@
 ---
 title: "Morwen (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Morwen (disambiguation)</span>"
 page_id: 4006
 namespace: 0
 revision_id: 356754
@@ -24,32 +23,32 @@ images:
   - "Disambig.png"
 ---
 
-**Morwen** means "Dark Maiden" in [Sindarin](/wiki/Sindarin) (from *[môr](/wiki/M%C3%B4r "Môr")*, "darkness, dark, night" and *[gwenn](/wiki/Gwenn "Gwenn")*, "maiden"), and can refer to:
+**Morwen** means "Dark Maiden" in [Sindarin](../S/Sindarin.md) (from *[môr](Môr.md)*, "darkness, dark, night" and *[gwenn](../G/Gwenn.md)*, "maiden"), and can refer to:
 
 ## Middle-earth {#Middle-earth}
 
-- **[Morwen Eledhwen](/wiki/Morwen "Morwen") ([F.A.](/wiki/First_Age "First Age") [443](/wiki/First_Age_443 "First Age 443") - c. [500](/wiki/First_Age_500 "First Age 500")), wife of [Húrin](/wiki/H%C3%BArin) and mother of [Túrin](/wiki/T%C3%BArin), [Urwen](/wiki/Urwen), and [Nienor](/wiki/Nienor)**
-    - [Tol Morwen](/wiki/Tol_Morwen), an island in the sea after the drowning of [Beleriand](/wiki/Beleriand) on which stood the [Stone of the Hapless](/wiki/Stone_of_the_Hapless) and the grave of **Morwen Eledhwen**
-- [Morwen](</wiki/Morwen_(daughter_of_Belecthor)> "Morwen (daughter of Belecthor)") (fl. c. [T.A.](/wiki/Third_Age "Third Age") [2600](/wiki/Third_Age_2600 "Third Age 2600")), daughter of [Steward](/wiki/Ruling_Steward "Ruling Steward") [Belecthor I](/wiki/Belecthor_I) of [Gondor](/wiki/Gondor) and grandmother of [Egalmoth](</wiki/Egalmoth_(Steward_of_Gondor)> "Egalmoth (Steward of Gondor)")
-- [Morwen Steelsheen](/wiki/Morwen_Steelsheen) (born [T.A.](/wiki/Third_Age "Third Age") [2922](/wiki/Third_Age_2922 "Third Age 2922")), wife of [King](/wiki/Kings_of_Rohan "Kings of Rohan") [Thengel](/wiki/Thengel) of [Rohan](/wiki/Rohan) and mother of [Théoden](/wiki/Th%C3%A9oden).
-- [Morwen, daughter of Húrin of the Keys](</wiki/Morwen_(daughter_of_H%C3%BArin)> "Morwen (daughter of Húrin)"), an discarded character in the drafts of the [Appendices](/wiki/Appendices)
+- **[Morwen Eledhwen](Morwen.md) ([F.A.](../F/First_Age.md) [443](../F/First_Age_443.md) - c. [500](../F/First_Age_500.md)), wife of [Húrin](../H/Húrin.md) and mother of [Túrin](../T/Túrin.md), [Urwen](../U/Urwen.md), and [Nienor](../N/Nienor.md)**
+    - [Tol Morwen](../T/Tol_Morwen.md), an island in the sea after the drowning of [Beleriand](../B/Beleriand.md) on which stood the [Stone of the Hapless](../S/Stone_of_the_Hapless.md) and the grave of **Morwen Eledhwen**
+- [Morwen](<Morwen_(daughter_of_Belecthor).md>) (fl. c. [T.A.](../T/Third_Age.md) [2600](../T/Third_Age_2600.md)), daughter of [Steward](../R/Ruling_Steward.md) [Belecthor I](../B/Belecthor_I.md) of [Gondor](../G/Gondor.md) and grandmother of [Egalmoth](<../E/Egalmoth_(Steward_of_Gondor).md>)
+- [Morwen Steelsheen](Morwen_Steelsheen.md) (born [T.A.](../T/Third_Age.md) [2922](../T/Third_Age_2922.md)), wife of [King](../K/Kings_of_Rohan.md) [Thengel](../T/Thengel.md) of [Rohan](../R/Rohan.md) and mother of [Théoden](../T/Théoden.md).
+- [Morwen, daughter of Húrin of the Keys](<Morwen_(daughter_of_Húrin).md>), an discarded character in the drafts of the [Appendices](../A/Appendices.md)
 
 ## Adaptations {#Adaptations}
 
-- [Morwen (film character)](</wiki/Morwen_(film_character)>), a character invented for *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*.
-- <a class="new" href="/w/index.php?title=Morwen_(Electronic_Arts_character)&amp;action=edit&amp;redlink=1" title="Morwen (Electronic Arts character) (page does not exist)">Morwen (Electronic Arts character)</a>, a character invented for *[The Lord of the Rings: The Third Age](/wiki/The_Lord_of_the_Rings:_The_Third_Age)*.
+- [Morwen (film character)](<Morwen_(film_character).md>), a character invented for *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*.
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morwen_(Electronic_Arts_character)&amp;action=edit&amp;redlink=1" title="Morwen (Electronic Arts character) (page does not exist)">Morwen (Electronic Arts character)</a>, a character invented for *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)*.
 
 ## Other {#Other}
 
-- "Morwen" was also the name of [Moria](/wiki/Moria) in the closed-captioning of bootlegged Chinese copies of *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
-- "Morwen Nerdbane" was a name used in [American Dad!](/wiki/Tolkien%27s_works_in_popular_media#American_Dad! "Tolkien's works in popular media") in parody of fantasy in general.
-- "Morwen" is an alias sometimes used by [Thomas Morwinsky](/wiki/Thomas_Morwinsky)
+- "Morwen" was also the name of [Moria](Moria.md) in the closed-captioning of bootlegged Chinese copies of *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- "Morwen Nerdbane" was a name used in [American Dad!](../T/Tolkien's_works_in_popular_media.md#American_Dad!) in parody of fantasy in general.
+- "Morwen" is an alias sometimes used by [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Morwen_(disambiguation)" title="Special:WhatLinksHere/:Morwen (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Morwen_(disambiguation)" title="Special:WhatLinksHere/:Morwen (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

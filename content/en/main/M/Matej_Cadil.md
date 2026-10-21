@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Matěj Čadil"
 ---
 
-Redirect to [Matěj Čadil](/wiki/Matěj_Čadil).
+Redirect to [Matěj Čadil](Matěj_Čadil.md).

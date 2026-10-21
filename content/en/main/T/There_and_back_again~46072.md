@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "There and Back Again"
 ---
 
-Redirect to [There and Back Again](/wiki/There_and_Back_Again).
+Redirect to [There and Back Again](There_and_Back_Again.md).

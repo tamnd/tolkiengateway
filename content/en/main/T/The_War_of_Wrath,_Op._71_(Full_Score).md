@@ -1,6 +1,5 @@
 ---
 title: "The War of Wrath, Op. 71 (Full Score)"
-display_title: "<span class=\"mw-page-title-main\">The War of Wrath, Op. 71 (Full Score)</span>"
 page_id: 65219
 namespace: 0
 revision_id: 375249
@@ -15,9 +14,9 @@ images:
   - "WOW_Full_Score_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:WOW_Full_Score_Cover.png"><img src="/w/images/thumb/c/c5/WOW_Full_Score_Cover.png/300px-WOW_Full_Score_Cover.png" decoding="async" loading="lazy" width="300" height="412" class="mw-file-element" srcset="/w/images/thumb/c/c5/WOW_Full_Score_Cover.png/450px-WOW_Full_Score_Cover.png 1.5x, /w/images/thumb/c/c5/WOW_Full_Score_Cover.png/600px-WOW_Full_Score_Cover.png 2x" data-file-width="2543" data-file-height="3492"/></a><figcaption>Artwork from the Full Score by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WOW_Full_Score_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/WOW_Full_Score_Cover.png/300px-WOW_Full_Score_Cover.png" decoding="async" loading="lazy" width="300" height="412" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/WOW_Full_Score_Cover.png/450px-WOW_Full_Score_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/WOW_Full_Score_Cover.png/600px-WOW_Full_Score_Cover.png 2x" data-file-width="2543" data-file-height="3492"/></a><figcaption>Artwork from the Full Score by permission of Ted Nasmith.</figcaption></figure>
 
-Published by Zarathustra Music in 2023, the complete Full Score of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s *[The War of Wrath, Op. 71 (Opera)](</wiki/The_War_of_Wrath,_Op._71_(Opera)>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
+Published by Zarathustra Music in 2023, the complete Full Score of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s *[The War of Wrath, Op. 71 (Opera)](<The_War_of_Wrath,_Op._71_(Opera).md>)* updated to reflect amendments made during the production of Volante Opera Production's Demo Recording of the work.
 
 This is a 356 page A4 sized book with full gloss covers.
 

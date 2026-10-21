@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óswine (Prince of Gwar)"
 ---
 
-Redirect to [Óswine (Prince of Gwar)](/wiki/Óswine_(Prince_of_Gwar)).
+Redirect to [Óswine (Prince of Gwar)](<Óswine_(Prince_of_Gwar)~61512.md>).

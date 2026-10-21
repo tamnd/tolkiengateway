@@ -1,6 +1,5 @@
 ---
 title: "File:David T. Wenzel - The Great Goblin.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">David T. Wenzel - The Great Goblin.jpeg</span>"
 page_id: 73011
 namespace: 6
 revision_id: 439558
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Great Goblin](/wiki/Great_Goblin) - Art by [David T. Wenzel](/wiki/David_T._Wenzel) for [*The Hobbit* (comic book)](</wiki/The_Hobbit_(comic_book)> "The Hobbit (comic book)")
+[Great Goblin](../../main/G/Great_Goblin.md) - Art by [David T. Wenzel](../../main/D/David_T._Wenzel.md) for [*The Hobbit* (comic book)](<../../main/T/The_Hobbit_(comic_book).md>)
 
 ## Licensing {#Licensing}
 
@@ -38,4 +37,4 @@ file:
 </p>
 <ul><li><b>Name:</b> David T. Wenzel</li>
 <li><b>Website:</b> <a class="external text" href="http://www.davidwenzel.com/" rel="noreferrer noopener" target="_blank">David T. Wenzel&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/David_T._Wenzel" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDavid_T._Wenzel.md" title="Tolkien Gateway:Copyrights/David T. Wenzel">Permission for use on Tolkien Gateway</a></b></li></ul></div>

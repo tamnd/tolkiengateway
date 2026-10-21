@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - High Life at Gipsy Green.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - High Life at Gipsy Green.jpg</span>"
 page_id: 45519
 namespace: 6
 revision_id: 239842
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Dated early summer of 1918, and reproduced within *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)*.
+Dated early summer of 1918, and reproduced within *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)*.
 
 ## Licensing {#Licensing}
 

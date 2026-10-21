@@ -11,4 +11,4 @@ redirect_target: "Gothmog (balrog)"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Gothmog (balrog)](/wiki/Gothmog_(balrog)#Other_versions_of_the_legendarium).
+Redirect to [Gothmog (balrog)](<../G/Gothmog_(balrog).md#Other_versions_of_the_legendarium>).

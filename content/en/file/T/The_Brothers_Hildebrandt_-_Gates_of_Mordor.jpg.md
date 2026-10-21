@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Gates of Mordor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Gates of Mordor.jpg</span>"
 page_id: 71587
 namespace: 6
 revision_id: 430596
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gates of Mordor](/wiki/Black_Gate "Black Gate")" by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"). Created for their cancelled <a class="new" href="/w/index.php?title=1979J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979J.R.R. Tolkien Calendar (page does not exist)">1979J.R.R. Tolkien Calendar</a>
+"[Gates of Mordor](../../main/B/Black_Gate.md)" by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). Created for their cancelled <a class="new" href="https://tolkiengateway.net/w/index.php?title=1979J.R.R._Tolkien_Calendar&amp;action=edit&amp;redlink=1" title="1979J.R.R. Tolkien Calendar (page does not exist)">1979J.R.R. Tolkien Calendar</a>
 
 ## Licensing {#Licensing}
 

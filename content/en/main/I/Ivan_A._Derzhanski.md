@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ivan Derzhanski"
 ---
 
-Redirect to [Ivan Derzhanski](/wiki/Ivan_Derzhanski).
+Redirect to [Ivan Derzhanski](Ivan_Derzhanski.md).

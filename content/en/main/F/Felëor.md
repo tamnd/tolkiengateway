@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bruithwir"
 ---
 
-Redirect to [Bruithwir](/wiki/Bruithwir).
+Redirect to [Bruithwir](../B/Bruithwir.md).

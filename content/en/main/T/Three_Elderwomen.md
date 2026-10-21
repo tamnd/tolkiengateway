@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Three Elderwomen of the Elves"
 ---
 
-Redirect to [Three Elderwomen of the Elves](/wiki/Three_Elderwomen_of_the_Elves).
+Redirect to [Three Elderwomen of the Elves](Three_Elderwomen_of_the_Elves.md).

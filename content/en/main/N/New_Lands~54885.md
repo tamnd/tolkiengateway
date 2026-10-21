@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "New lands"
 ---
 
-Redirect to [New lands](/wiki/New_lands).
+Redirect to [New lands](New_lands.md).

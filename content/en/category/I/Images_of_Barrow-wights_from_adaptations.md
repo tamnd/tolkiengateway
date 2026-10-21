@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Barrow-wights from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Barrow-wights from adaptations</span>"
 page_id: 72678
 namespace: 14
 revision_id: 431137

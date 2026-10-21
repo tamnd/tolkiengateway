@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Years (disambiguation)"
 ---
 
-Redirect to [Years (disambiguation)](/wiki/Years_(disambiguation)).
+Redirect to [Years (disambiguation)](<Years_(disambiguation).md>).

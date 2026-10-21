@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cotton family"
 ---
 
-Redirect to [Cotton family](/wiki/Cotton_family).
+Redirect to [Cotton family](Cotton_family.md).

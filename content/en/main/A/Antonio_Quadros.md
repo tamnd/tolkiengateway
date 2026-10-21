@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "António Quadros"
 ---
 
-Redirect to [António Quadros](/wiki/António_Quadros).
+Redirect to [António Quadros](António_Quadros.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Bureaucrats"
 ---
 
-Redirect to [Tolkien Gateway:Bureaucrats](/wiki/Tolkien_Gateway:Bureaucrats).
+Redirect to [Tolkien Gateway:Bureaucrats](Bureaucrats.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Rondador - House of Telcontar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rondador - House of Telcontar.png</span>"
 page_id: 58256
 namespace: 6
 revision_id: 430982

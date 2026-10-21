@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dior"
 ---
 
-Redirect to [Dior](/wiki/Dior).
+Redirect to [Dior](Dior.md).

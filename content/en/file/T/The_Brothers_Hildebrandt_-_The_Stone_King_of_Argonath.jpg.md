@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - The Stone King of Argonath.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - The Stone King of Argonath.jpg</span>"
 page_id: 71602
 namespace: 6
 revision_id: 426890
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"The Stone King of Argonath" - Artwork by [Greg Hildebrandt](/wiki/The_Brothers_Hildebrandt "The Brothers Hildebrandt"), commission completed in August [2022](/wiki/2022).
+"The Stone King of Argonath" - Artwork by [Greg Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), commission completed in August [2022](../../main/_/2022.md).
 
 ## Licensing {#Licensing}
 

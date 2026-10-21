@@ -1,6 +1,5 @@
 ---
 title: "Category:The One Ring locations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The One Ring locations</span>"
 page_id: 75098
 namespace: 14
 revision_id: 442384
@@ -17,4 +16,4 @@ sort_keys:
   "The One Ring (role-playing game)": "Locations"
 ---
 
-Locations created specifically for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")* role-playing game.
+Locations created specifically for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)* role-playing game.

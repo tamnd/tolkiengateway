@@ -11,4 +11,4 @@ redirect_target: "Uncommon words"
 redirect_fragment: "carcanet"
 ---
 
-Redirect to [Uncommon words](/wiki/Uncommon_words#carcanet).
+Redirect to [Uncommon words](../U/Uncommon_words.md#carcanet).

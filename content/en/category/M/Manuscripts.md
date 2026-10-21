@@ -1,6 +1,5 @@
 ---
 title: "Category:Manuscripts"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Manuscripts</span>"
 page_id: 26565
 namespace: 14
 revision_id: 406456
@@ -13,4 +12,4 @@ categories:
   - "Writings"
 ---
 
-Writings (generally non-[poems](/wiki/Category:Poems "Category:Poems") and non-[songs](/wiki/Category:Songs "Category:Songs")) which have been published within or as [book chapters](/wiki/Category:Chapters "Category:Chapters"), published in [periodicals](/wiki/Category:Periodicals "Category:Periodicals") and similar, or which only exist in unpublished form in various archives.
+Writings (generally non-[poems](../P/Poems.md) and non-[songs](../S/Songs.md)) which have been published within or as [book chapters](../C/Chapters.md), published in [periodicals](../P/Periodicals.md) and similar, or which only exist in unpublished form in various archives.

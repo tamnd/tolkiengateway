@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "North Germanic languages"
 ---
 
-Redirect to [North Germanic languages](/wiki/North_Germanic_languages).
+Redirect to [North Germanic languages](North_Germanic_languages.md).

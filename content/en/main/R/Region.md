@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forest of Region"
 ---
 
-Redirect to [Forest of Region](/wiki/Forest_of_Region).
+Redirect to [Forest of Region](../F/Forest_of_Region.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stefano Baldo"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stefano Baldo</span>"
 page_id: 28651
 namespace: 14
 revision_id: 423547
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Baldo, Stefano"
 ---
 
-This category lists all **images by [Stefano Baldo](/wiki/Stefano_Baldo)**.
+This category lists all **images by [Stefano Baldo](../../main/S/Stefano_Baldo.md)**.

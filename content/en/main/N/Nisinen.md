@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nísinen"
 ---
 
-Redirect to [Nísinen](/wiki/Nísinen).
+Redirect to [Nísinen](Nísinen.md).

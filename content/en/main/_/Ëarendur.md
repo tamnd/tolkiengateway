@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (disambiguation)"
 ---
 
-Redirect to [Eärendur (disambiguation)](/wiki/Eärendur_(disambiguation)).
+Redirect to [Eärendur (disambiguation)](<../E/Eärendur_(disambiguation).md>).

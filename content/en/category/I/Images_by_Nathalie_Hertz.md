@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Nathalie Hertz"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Nathalie Hertz</span>"
 page_id: 74932
 namespace: 14
 revision_id: 441200
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hertz, Nathalie"
 ---
 
-This category lists all **images by [Nathalie Hertz](/wiki/Nathalie_Hertz)**.
+This category lists all **images by [Nathalie Hertz](../../main/N/Nathalie_Hertz.md)**.

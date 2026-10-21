@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Rabbits.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Rabbits.jpg</span>"
 page_id: 71696
 namespace: 6
 revision_id: 427416
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Rabbits](/wiki/Rabbits) - <i><a class="new" href="/w/index.php?title=The_Lord_of_the_Rings_-_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rings - The Two Towers (page does not exist)">The Lord of the Rings - The Two Towers</a></i>. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *The Two Towers* - *Battle of Helm's Deep* 'Rare Good Ballast' card
+[Rabbits](../../main/R/Rabbits.md) - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_-_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rings - The Two Towers (page does not exist)">The Lord of the Rings - The Two Towers</a></i>. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *The Two Towers* - *Battle of Helm's Deep* 'Rare Good Ballast' card
 
 ## Licensing {#Licensing}
 

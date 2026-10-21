@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Lightfooteness.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Lightfooteness.jpg</span>"
 page_id: 22625
 namespace: 6
 revision_id: 211678

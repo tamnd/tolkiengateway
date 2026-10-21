@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Madam Ossendrijver (6 December 1963)"
 ---
 
-Redirect to [Letter to Madam Ossendrijver (6 December 1963)](/wiki/Letter_to_Madam_Ossendrijver_(6_December_1963)).
+Redirect to [Letter to Madam Ossendrijver (6 December 1963)](<../L/Letter_to_Madam_Ossendrijver_(6_December_1963).md>).

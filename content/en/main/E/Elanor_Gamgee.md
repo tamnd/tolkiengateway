@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor Gardner"
 ---
 
-Redirect to [Elanor Gardner](/wiki/Elanor_Gardner).
+Redirect to [Elanor Gardner](Elanor_Gardner.md).

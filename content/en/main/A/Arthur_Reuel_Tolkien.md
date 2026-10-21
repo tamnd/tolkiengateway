@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arthur Tolkien"
 ---
 
-Redirect to [Arthur Tolkien](/wiki/Arthur_Tolkien).
+Redirect to [Arthur Tolkien](Arthur_Tolkien.md).

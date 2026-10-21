@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2003 video game) - Roäc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2003 video game) - Roäc.png</span>"
 page_id: 46164
 namespace: 6
 revision_id: 244219

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Meril (disambiguation)"
 ---
 
-Redirect to [Meril (disambiguation)](/wiki/Meril_(disambiguation)).
+Redirect to [Meril (disambiguation)](<Meril_(disambiguation).md>).

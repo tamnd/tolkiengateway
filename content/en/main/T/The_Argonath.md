@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Argonath"
 ---
 
-Redirect to [Argonath](/wiki/Argonath).
+Redirect to [Argonath](../A/Argonath.md).

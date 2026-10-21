@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Balin's Tomb B.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Balin&#039;s Tomb B.jpg</span>"
 page_id: 71613
 namespace: 6
 revision_id: 426933
@@ -32,7 +31,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Balin's Tomb](/wiki/Balin%27s_Tomb) B" - Artwork by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), created in March of [2002](/wiki/2002) for a commission.
+"[Balin's Tomb](../../main/B/Balin's_Tomb.md) B" - Artwork by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), created in March of [2002](../../main/_/2002.md) for a commission.
 
 ## Licensing {#Licensing}
 

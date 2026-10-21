@@ -1,6 +1,5 @@
 ---
 title: "File:HenryGee.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">HenryGee.jpg</span>"
 page_id: 21101
 namespace: 6
 revision_id: 248852

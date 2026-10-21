@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helge Fauskanger"
 ---
 
-Redirect to [Helge Fauskanger](/wiki/Helge_Fauskanger).
+Redirect to [Helge Fauskanger](Helge_Fauskanger.md).

@@ -11,4 +11,4 @@ redirect_target: "Ilmen"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Ilmen](/wiki/Ilmen#Other_versions_of_the_legendarium).
+Redirect to [Ilmen](Ilmen.md#Other_versions_of_the_legendarium).

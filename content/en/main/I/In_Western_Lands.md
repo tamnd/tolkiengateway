@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "In Western Lands beneath the Sun"
 ---
 
-Redirect to [In Western Lands beneath the Sun](/wiki/In_Western_Lands_beneath_the_Sun).
+Redirect to [In Western Lands beneath the Sun](In_Western_Lands_beneath_the_Sun.md).

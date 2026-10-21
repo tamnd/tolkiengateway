@@ -1,6 +1,5 @@
 ---
 title: "File:Paolo Puggioni - The Old Thrush.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paolo Puggioni - The Old Thrush.jpg</span>"
 page_id: 72327
 namespace: 6
 revision_id: 429839
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[The Old Thrush](/wiki/Thrush "Thrush") - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Battle of Lake-town* illustration by Paolo Puggioni
+[The Old Thrush](../../main/T/Thrush.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Battle of Lake-town* illustration by Paolo Puggioni
 
 ## Licensing {#Licensing}
 

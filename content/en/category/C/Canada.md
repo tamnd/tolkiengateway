@@ -1,6 +1,5 @@
 ---
 title: "Category:Canada"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Canada</span>"
 page_id: 35311
 namespace: 14
 revision_id: 166574

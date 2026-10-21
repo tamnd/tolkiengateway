@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yén"
 ---
 
-Redirect to [Yén](/wiki/Yén).
+Redirect to [Yén](Yén.md).

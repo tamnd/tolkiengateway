@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Woses of the Black Wood"
 ---
 
-Redirect to [Woses of the Black Wood](/wiki/Woses_of_the_Black_Wood).
+Redirect to [Woses of the Black Wood](../W/Woses_of_the_Black_Wood.md).

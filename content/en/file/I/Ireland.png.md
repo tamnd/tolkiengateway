@@ -1,6 +1,5 @@
 ---
 title: "File:Ireland.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ireland.png</span>"
 page_id: 35982
 namespace: 6
 revision_id: 170318

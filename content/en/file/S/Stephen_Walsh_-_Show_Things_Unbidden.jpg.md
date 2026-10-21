@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Stephen Walsh - The Mirror of Galadriel.jpg"
 ---
 
-Redirect to [File:Stephen Walsh - The Mirror of Galadriel.jpg](/wiki/File:Stephen_Walsh_-_The_Mirror_of_Galadriel.jpg).
+Redirect to [File:Stephen Walsh - The Mirror of Galadriel.jpg](Stephen_Walsh_-_The_Mirror_of_Galadriel.jpg.md).

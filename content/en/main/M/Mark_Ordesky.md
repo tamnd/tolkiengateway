@@ -1,6 +1,5 @@
 ---
 title: "Mark Ordesky"
-display_title: "<span class=\"mw-page-title-main\">Mark Ordesky</span>"
 page_id: 42195
 namespace: 0
 revision_id: 222396
@@ -19,7 +18,7 @@ sort_keys:
   "Producers": "Ordesky, Mark"
 ---
 
-**Mark Ordesky** served as the executive producer of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+**Mark Ordesky** served as the executive producer of [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## External links {#External_links}
 

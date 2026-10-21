@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Mewlips"
 ---
 
-Redirect to [The Mewlips](/wiki/The_Mewlips).
+Redirect to [The Mewlips](../T/The_Mewlips.md).

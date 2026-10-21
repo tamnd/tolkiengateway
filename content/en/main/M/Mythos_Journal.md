@@ -14,7 +14,7 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>Mythos Journal</b></i> includes the article “Pitfalls in Faërie” by [Verlyn Flieger](/wiki/Verlyn_Flieger). This quotes extensively from an unpublished essay by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") concerning [Smith of Wootton Major](/wiki/Smith_of_Wootton_Major). (pp. 3–10)
+<i><b>Mythos Journal</b></i> includes the article “Pitfalls in Faërie” by [Verlyn Flieger](../V/Verlyn_Flieger.md). This quotes extensively from an unpublished essay by [Tolkien](../J/J.R.R._Tolkien.md) concerning [Smith of Wootton Major](../S/Smith_of_Wootton_Major.md). (pp. 3–10)
 
 <br>
 

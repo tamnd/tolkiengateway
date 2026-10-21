@@ -1,6 +1,5 @@
 ---
 title: "Gisbert Kranz"
-display_title: "<span class=\"mw-page-title-main\">Gisbert Kranz</span>"
 page_id: 26933
 namespace: 0
 revision_id: 427716
@@ -24,26 +23,26 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Gisbert_Kranz"
 ---
 
-**Gisbert Kranz** ([February 9](/wiki/9_February "9 February"), [1921](/wiki/1921) - [October 3](/wiki/3_October "3 October"), [2009](/wiki/2009)) was a German Anglicist and Catholic writer. He was known primarily for his anthologies and review papers on Christian-oriented fiction. In [1983](/wiki/1983), he founded 'die Inklings-Gesellschaft' (the Inklings Society), dedicated to the scientific study of the [Inklings](/wiki/Inklings). 'Die Inklings-Gesellschaft' publishes the yearbook *[Jahrbuch für Literatur und Ästhetik](/wiki/Inklings:_Jahrbuch_f%C3%BCr_Literatur_und_%C3%84sthetik "Inklings: Jahrbuch für Literatur und Ästhetik")* ("Annual Review of Literature and Aesthetics").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gisbert Kranz** ([February 9](../_/9_February.md), [1921](../_/1921.md) - [October 3](../_/3_October.md), [2009](../_/2009.md)) was a German Anglicist and Catholic writer. He was known primarily for his anthologies and review papers on Christian-oriented fiction. In [1983](../_/1983.md), he founded 'die Inklings-Gesellschaft' (the Inklings Society), dedicated to the scientific study of the [Inklings](../I/Inklings.md). 'Die Inklings-Gesellschaft' publishes the yearbook *[Jahrbuch für Literatur und Ästhetik](../I/Inklings%253A_Jahrbuch_für_Literatur_und_Ästhetik.md)* ("Annual Review of Literature and Aesthetics").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Books and other publications {#Books_and_other_publications}
 
-- [1983](/wiki/1983): *Studien zu C.S. Lewis*
-- [1983](/wiki/1983): *[Tolkien: Leben - Werk - Wirkung](/wiki/Tolkien:_Leben_-_Werk_-_Wirkung)*
-- [1984](/wiki/1984): *Tolkien: Leben-Werk-Wirkung: Ausstellung*
-- [1984](/wiki/1984): *Tolkien: Leben, Werk, Wirkung: Ausstellungskatalog*
-- [1987](/wiki/1987): *Systematischer Katalog der Inklings Bibliothek*
-- [1991](/wiki/1991): *The Lord of the Rings, by J.R.R. Tolkien*
-- [1991](/wiki/1991): <i><a class="new" href="/w/index.php?title=Kafkas_Lachen_und_andere_Schriften_zur_Literatur_1950-1990&amp;action=edit&amp;redlink=1" title="Kafkas Lachen und andere Schriften zur Literatur 1950-1990 (page does not exist)">Kafkas Lachen und andere Schriften zur Literatur 1950-1990 mit einer Kranz-Bibliographie</a></i>
-- [1992](/wiki/1992): *Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Symposions in Aachen*
+- [1983](../_/1983.md): *Studien zu C.S. Lewis*
+- [1983](../_/1983.md): *[Tolkien: Leben - Werk - Wirkung](../T/Tolkien%253A_Leben_-_Werk_-_Wirkung.md)*
+- [1984](../_/1984.md): *Tolkien: Leben-Werk-Wirkung: Ausstellung*
+- [1984](../_/1984.md): *Tolkien: Leben, Werk, Wirkung: Ausstellungskatalog*
+- [1987](../_/1987.md): *Systematischer Katalog der Inklings Bibliothek*
+- [1991](../_/1991.md): *The Lord of the Rings, by J.R.R. Tolkien*
+- [1991](../_/1991.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kafkas_Lachen_und_andere_Schriften_zur_Literatur_1950-1990&amp;action=edit&amp;redlink=1" title="Kafkas Lachen und andere Schriften zur Literatur 1950-1990 (page does not exist)">Kafkas Lachen und andere Schriften zur Literatur 1950-1990 mit einer Kranz-Bibliographie</a></i>
+- [1992](../_/1992.md): *Tolkien in aller Welt: Eine Ausstellung der Inklings-Gesellschaft anläßlich des 100. Geburtstags von J. R. R. Tolkien und des Internationalen Tolkien-Symposions in Aachen*
 
 ### Articles {#Articles}
 
-- [1986](/wiki/1986): <i><a class="new" href="/w/index.php?title=Christlicher_Glaube_und_Literatur&amp;action=edit&amp;redlink=1" title="Christlicher Glaube und Literatur (page does not exist)">Christlicher Glaube und Literatur</a></i>
+- [1986](../_/1986.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Christlicher_Glaube_und_Literatur&amp;action=edit&amp;redlink=1" title="Christlicher Glaube und Literatur (page does not exist)">Christlicher Glaube und Literatur</a></i>
     - "Möglichkeiten christlicher Dichtung: Das Beispiel der Hauptwerke von C.S. Lewis, Charles Williams und J.R.R. Tolkien"
-- [1994](/wiki/1994): <i><a class="new" href="/w/index.php?title=Phantastische_Welten:_M%C3%A4rchen,_Mythen,_Fantasy&amp;action=edit&amp;redlink=1" title="Phantastische Welten: Märchen, Mythen, Fantasy (page does not exist)">Phantastische Welten: Märchen, Mythen, Fantasy</a></i>
+- [1994](../_/1994.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Phantastische_Welten:_M%C3%A4rchen,_Mythen,_Fantasy&amp;action=edit&amp;redlink=1" title="Phantastische Welten: Märchen, Mythen, Fantasy (page does not exist)">Phantastische Welten: Märchen, Mythen, Fantasy</a></i>
     - "Tintenkleckser aus Oxford: Die Anfänge der britischen Fantasy"
 
 ## External links {#External_links}

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Brian Durfee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Brian Durfee</span>"
 page_id: 29751
 namespace: 14
 revision_id: 437451
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Durfee, Brian"
 ---
 
-This category lists all **images by [Brian Durfee](/wiki/Brian_Durfee)**.
+This category lists all **images by [Brian Durfee](../../main/B/Brian_Durfee.md)**.

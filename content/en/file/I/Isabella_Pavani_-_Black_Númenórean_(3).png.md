@@ -1,6 +1,5 @@
 ---
 title: "File:Isabella Pavani - Black Númenórean (3).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Isabella Pavani - Black Númenórean (3).png</span>"
 page_id: 74127
 namespace: 6
 revision_id: 437214
@@ -31,25 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Isabella Pavani - Black Númenórean (3).png</span></th>
 <td class="description">
-<p><i><a href="/wiki/Black_N%C3%BAmen%C3%B3reans" title="Black Númenóreans">Black Númenórean</a></i> by <a href="/wiki/Category:Images_by_Isabella_Pavani" title="Category:Images by Isabella Pavani">Isabella Pavani</a>
+<p><i><a href="../../main/B/Black_Númenóreans.md" title="Black Númenóreans">Black Númenórean</a></i> by <a href="../../category/I/Images_by_Isabella_Pavani.md" title="Category:Images by Isabella Pavani">Isabella Pavani</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/24_September" title="24 September">24 September</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/24_September.md" title="24 September">24 September</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Isabella_Pavani" title="Category:Images by Isabella Pavani">Isabella Pavani</a></td>
+<td><a href="../../category/I/Images_by_Isabella_Pavani.md" title="Category:Images by Isabella Pavani">Isabella Pavani</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.deviantart.com/yzah/art/black-numenorean-3-892793037" rel="noreferrer noopener" target="_blank">https://www.deviantart.com/yzah/art/black-numenorean-3-892793037</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Isabella Pavani</span></span>
@@ -57,4 +53,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Isabella Pavani</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/yzah" rel="noreferrer noopener" target="_blank">Isabella Pavani on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Isabella_Pavani" title="Tolkien Gateway:Copyrights/Isabella Pavani">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FIsabella_Pavani.md" title="Tolkien Gateway:Copyrights/Isabella Pavani">Permission for use on Tolkien Gateway</a></b></li></ul></div>

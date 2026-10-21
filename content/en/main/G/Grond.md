@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grond (disambiguation)"
 ---
 
-Redirect to [Grond (disambiguation)](/wiki/Grond_(disambiguation)).
+Redirect to [Grond (disambiguation)](<Grond_(disambiguation).md>).

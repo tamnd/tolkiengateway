@@ -13,4 +13,4 @@ categories:
   - "Khuzdul words"
 ---
 
-**felak** is a [Khuzdul](/wiki/Khuzdul) word meaning *Hewer*.
+**felak** is a [Khuzdul](../K/Khuzdul.md) word meaning *Hewer*.

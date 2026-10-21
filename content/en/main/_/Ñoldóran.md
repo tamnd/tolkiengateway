@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finwë"
 ---
 
-Redirect to [Finwë](/wiki/Finwë).
+Redirect to [Finwë](../F/Finwë.md).

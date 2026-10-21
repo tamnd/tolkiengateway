@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ranga"
 ---
 
-Redirect to [Ranga](/wiki/Ranga).
+Redirect to [Ranga](../R/Ranga.md).

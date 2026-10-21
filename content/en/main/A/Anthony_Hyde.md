@@ -1,6 +1,5 @@
 ---
 title: "Anthony Hyde"
-display_title: "<span class=\"mw-page-title-main\">Anthony Hyde</span>"
 page_id: 6896
 namespace: 0
 revision_id: 404687
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Hyde, Anthony"
 ---
 
-**Anthony Hyde** is an English actor. Among his film work is *Sharpe's Rifles*, which stars [Sean Bean](/wiki/Sean_Bean). Hyde voiced the part of [Éomer](/wiki/%C3%89omer) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcast on the [BBC 4](/wiki/BBC "BBC").
+**Anthony Hyde** is an English actor. Among his film work is *Sharpe's Rifles*, which stars [Sean Bean](../S/Sean_Bean.md). Hyde voiced the part of [Éomer](../_/Éomer.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcast on the [BBC 4](../B/BBC.md).
 
 ## External links {#External_links}
 

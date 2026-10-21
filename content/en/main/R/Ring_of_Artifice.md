@@ -11,4 +11,4 @@ redirect_target: "Seven Rings"
 redirect_fragment: "The Seven Rings in adaptations"
 ---
 
-Redirect to [Seven Rings](/wiki/Seven_Rings#The_Seven_Rings_in_adaptations).
+Redirect to [Seven Rings](../S/Seven_Rings.md#The_Seven_Rings_in_adaptations).

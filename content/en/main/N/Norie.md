@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nórië"
 ---
 
-Redirect to [Nórië](/wiki/Nórië).
+Redirect to [Nórië](Nórië.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Mural of Annatar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mural of Annatar.jpg</span>"
 page_id: 29689
 namespace: 6
 revision_id: 439866
@@ -31,19 +30,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Mural of Annatar.jpg</span></th>
 <td class="description">
-<p>A mural of Antheron (LOTRO&#39;s license-friendly name for <a class="mw-redirect" href="/wiki/Annatar" title="Annatar">Annatar</a>) in Eregion.
+<p>A mural of Antheron (LOTRO&#39;s license-friendly name for <a class="mw-redirect" href="../../main/A/Annatar.md" title="Annatar">Annatar</a>) in Eregion.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Screenshot</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

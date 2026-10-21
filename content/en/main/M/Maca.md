@@ -13,23 +13,23 @@ categories:
   - "Quenya verbs"
 ---
 
-**maca** is [Quenya](/wiki/Quenya) verb "to forge metal" (which rang at the stokes of hammers).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**maca** is [Quenya](../Q/Quenya.md) verb "to forge metal" (which rang at the stokes of hammers).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
+[Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAK&amp;action=edit&amp;redlink=1" title="MAK (page does not exist)">MAK</a>
 
 ## See also {#See_also}
 
-- *[macil](/wiki/Macil "Macil")*
-- <i><a class="new" href="/w/index.php?title=Mac&amp;action=edit&amp;redlink=1" title="Mac (page does not exist)">mac</a></i>
-- <i><a class="new" href="/w/index.php?title=Macar&amp;action=edit&amp;redlink=1" title="Macar (page does not exist)">macar</a></i>
+- *[macil](Macil.md)*
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mac&amp;action=edit&amp;redlink=1" title="Mac (page does not exist)">mac</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Macar&amp;action=edit&amp;redlink=1" title="Macar (page does not exist)">macar</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">From <i>The Shibboleth of Fëanor</i></a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_41" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.10</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">From <i>The Shibboleth of Fëanor</i></a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_41.md" title="Vinyar Tengwar 41"><i>Vinyar Tengwar</i>, Number 41</a>, July 2000, p.10</span>
 </li>
 </ol></div>

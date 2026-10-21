@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Snād"
 ---
 
-Redirect to [Snād](/wiki/Snād).
+Redirect to [Snād](Snād.md).

@@ -1,6 +1,5 @@
 ---
 title: "Synergistic Software, inc."
-display_title: "<span class=\"mw-page-title-main\">Synergistic Software, inc.</span>"
 page_id: 27613
 namespace: 0
 revision_id: 416410
@@ -17,7 +16,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<br> **Synergistic Software, inc.** was the company that developed [War in Middle Earth](/wiki/War_in_Middle_Earth)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> in the United States.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It was founded in [1978](/wiki/1978) by [Robert Clardy](/wiki/Robert_Clardy) and *Ann Dickens Clardy*.
+<br> **Synergistic Software, inc.** was the company that developed [War in Middle Earth](../W/War_in_Middle_Earth.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> in the United States.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> It was founded in [1978](../_/1978.md) by [Robert Clardy](../R/Robert_Clardy.md) and *Ann Dickens Clardy*.
 
 <span></span>
 

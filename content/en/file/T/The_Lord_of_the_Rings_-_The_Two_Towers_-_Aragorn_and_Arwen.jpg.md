@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Aragorn and Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Aragorn and Arwen.jpg</span>"
 page_id: 64200
 namespace: 6
 revision_id: 367152
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, [The Evenstar](</wiki/The_Evenstar_(The_Lord_of_the_Rings:_The_Two_Towers_scene)> "The Evenstar (The Lord of the Rings: The Two Towers scene)").
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, [The Evenstar](<../../main/T/The_Evenstar_(The_Lord_of_the_Rings%253A_The_Two_Towers_scene).md>).
 
 ## Licensing {#Licensing}
 

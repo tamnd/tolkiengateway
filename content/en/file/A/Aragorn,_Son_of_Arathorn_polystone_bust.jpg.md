@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn, Son of Arathorn polystone bust.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn, Son of Arathorn polystone bust.jpg</span>"
 page_id: 5375
 namespace: 6
 revision_id: 191428

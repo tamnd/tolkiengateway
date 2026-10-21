@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Book of Mazarbul"
 ---
 
-Redirect to [Book of Mazarbul](/wiki/Book_of_Mazarbul).
+Redirect to [Book of Mazarbul](../B/Book_of_Mazarbul.md).

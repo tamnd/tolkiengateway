@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Letters 1981.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Letters 1981.jpg</span>"
 page_id: 15598
 namespace: 6
 revision_id: 352129

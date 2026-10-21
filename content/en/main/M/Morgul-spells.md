@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magic"
 ---
 
-Redirect to [Magic](/wiki/Magic).
+Redirect to [Magic](Magic.md).

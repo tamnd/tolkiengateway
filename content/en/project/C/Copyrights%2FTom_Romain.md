@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Tom Romain"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Tom Romain</span>"
 page_id: 70245
 namespace: 4
 revision_id: 417849
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Romain, Tom"
 ---
 
-- Tom Romain has kindly granted us permission to use [their artwork](/wiki/Category:Images_by_Tom_Romain "Category:Images by Tom Romain") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Tom Romain has kindly granted us permission to use [their artwork](../../category/I/Images_by_Tom_Romain.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 29 January 2025
-- User who sought the permission via Reddit: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via Reddit: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

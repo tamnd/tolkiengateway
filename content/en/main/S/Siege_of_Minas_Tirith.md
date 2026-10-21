@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siege of Gondor"
 ---
 
-Redirect to [Siege of Gondor](/wiki/Siege_of_Gondor).
+Redirect to [Siege of Gondor](Siege_of_Gondor.md).

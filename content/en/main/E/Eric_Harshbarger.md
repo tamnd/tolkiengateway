@@ -1,6 +1,5 @@
 ---
 title: "Eric Harshbarger"
-display_title: "<span class=\"mw-page-title-main\">Eric Harshbarger</span>"
 page_id: 28032
 namespace: 0
 revision_id: 405433
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Harschbarger, Eric"
 ---
 
-**Eric C. Harshbarger** was the game designer of the [Bilbo Slider Puzzle](/wiki/Bilbo_Slider_Puzzle)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> and [Tolkien WordSearch](/wiki/Tolkien_WordSearch).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Eric C. Harshbarger** was the game designer of the [Bilbo Slider Puzzle](../B/Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> and [Tolkien WordSearch](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## External links {#External_links}
 

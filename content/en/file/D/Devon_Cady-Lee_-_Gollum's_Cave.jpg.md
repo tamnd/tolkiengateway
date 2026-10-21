@@ -1,6 +1,5 @@
 ---
 title: "File:Devon Cady-Lee - Gollum's Cave.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Devon Cady-Lee - Gollum&#039;s Cave.jpg</span>"
 page_id: 74220
 namespace: 6
 revision_id: 442762
@@ -31,18 +30,16 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Devon Cady-Lee - Gollum&#39;s Cave.jpg</span></th>
 <td class="description">
-Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
+Concept art for <a href="../../main/T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><blockquote class="tg-quote noexcerpt">
 <p>An environment concept. Ironically, Gollum&#39;s cave is pitch black beside&#39;s Gollum&#39;s eyes as described in the book, but there has to be SOMEthing for players to see... Otherwise I could have done this concept with the fill-bucket tool.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+</blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2005</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Devon Cady-Lee</td>
@@ -51,7 +48,6 @@ Concept art for <a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of 
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/gorrem/art/LOTRO-Gollum-s-Cave-73033448" rel="noreferrer noopener" target="_blank">DeviantArt</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

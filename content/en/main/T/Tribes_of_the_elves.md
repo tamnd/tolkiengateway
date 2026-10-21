@@ -11,4 +11,4 @@ redirect_target: "Elves"
 redirect_fragment: "major divisions"
 ---
 
-Redirect to [Elves](/wiki/Elves#major_divisions).
+Redirect to [Elves](../E/Elves.md#major_divisions).

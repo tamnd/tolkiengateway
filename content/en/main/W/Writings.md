@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Books"
 ---
 
-Redirect to [Portal:Books](/wiki/Portal:Books).
+Redirect to [Portal:Books](../../portal/B/Books.md).

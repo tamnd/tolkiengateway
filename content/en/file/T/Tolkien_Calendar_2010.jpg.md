@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Calendar 2010.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Calendar 2010.jpg</span>"
 page_id: 35213
 namespace: 6
 revision_id: 424673

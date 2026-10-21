@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and the Peril of War.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and the Peril of War.png</span>"
 page_id: 36248
 namespace: 6
 revision_id: 214734

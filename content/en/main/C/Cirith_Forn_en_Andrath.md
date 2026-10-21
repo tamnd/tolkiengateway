@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High Pass"
 ---
 
-Redirect to [High Pass](/wiki/High_Pass).
+Redirect to [High Pass](../H/High_Pass.md).

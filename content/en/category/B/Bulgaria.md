@@ -1,6 +1,5 @@
 ---
 title: "Category:Bulgaria"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bulgaria</span>"
 page_id: 35310
 namespace: 14
 revision_id: 166532

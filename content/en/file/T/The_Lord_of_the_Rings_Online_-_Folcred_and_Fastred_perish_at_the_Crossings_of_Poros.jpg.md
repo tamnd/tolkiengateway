@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Folcred and Fastred perish at the Crossings of Poros.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Folcred and Fastred perish at the Crossings of Poros.jpg</span>"
 page_id: 59620
 namespace: 6
 revision_id: 436712

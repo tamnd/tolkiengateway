@@ -1,6 +1,5 @@
 ---
 title: "File:Lourdes Velez - Beleg Cuthalion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lourdes Velez - Beleg Cuthalion.jpg</span>"
 page_id: 51778
 namespace: 6
 revision_id: 281962
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Lourdes Velez</li>
 <li><b>Website:</b> <a class="external text" href="http://belegilgalad.deviantart.com" rel="noreferrer noopener" target="_blank">Lourdes Velez&#39;s deviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Lourdes_Velez" title="Tolkien Gateway:Copyrights/Lourdes Velez">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FLourdes_Velez.md" title="Tolkien Gateway:Copyrights/Lourdes Velez">Permission for use on Tolkien Gateway</a></b></li></ul></div>

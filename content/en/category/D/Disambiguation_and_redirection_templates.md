@@ -1,6 +1,5 @@
 ---
 title: "Category:Disambiguation and redirection templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Disambiguation and redirection templates</span>"
 page_id: 8164
 namespace: 14
 revision_id: 17251

@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin Release Party/Schedule"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin Release Party/Schedule</span>"
 page_id: 14735
 namespace: 0
 revision_id: 168766
@@ -64,7 +63,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/Michael_D.C._Drout" title="Michael D.C. Drout">Michael D.C. Drout</a>
+<td><a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>
 </td>
 <td>
 </td></tr>
@@ -90,7 +89,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/Diana_Glyer" title="Diana Glyer">Diana Glyer</a>
+<td><a href="../D/Diana_Glyer.md" title="Diana Glyer">Diana Glyer</a>
 </td>
 <td>
 </td></tr>
@@ -205,7 +204,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/Marcel_B%C3%BClles" title="Marcel Bülles">Marcel Bülles</a>
+<td><a href="../M/Marcel_Bülles.md" title="Marcel Bülles">Marcel Bülles</a>
 </td>
 <td>
 </td>
@@ -216,11 +215,11 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>10:00am
 </td>
-<td><a href="/wiki/Micha%C3%ABl_Devaux" title="Michaël Devaux">Michaël Devaux</a>
+<td><a href="../M/Michaël_Devaux.md" title="Michaël Devaux">Michaël Devaux</a>
 </td>
 <td>
 </td>
-<td><a href="/wiki/Pieter_Collier" title="Pieter Collier">Pieter Collier</a>
+<td><a href="../P/Pieter_Collier.md" title="Pieter Collier">Pieter Collier</a>
 </td>
 <td>
 </td></tr>
@@ -231,7 +230,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/Nils_Ivar_Ag%C3%B8y" title="Nils Ivar Agøy">Nils Ivar Agøy</a>
+<td><a href="../N/Nils_Ivar_Agøy.md" title="Nils Ivar Agøy">Nils Ivar Agøy</a>
 </td>
 <td>
 </td>
@@ -242,11 +241,11 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>12:00pm
 </td>
-<td><a href="/wiki/Mark_T._Hooker" title="Mark T. Hooker">Mark T. Hooker</a>
+<td><a href="../M/Mark_T._Hooker.md" title="Mark T. Hooker">Mark T. Hooker</a>
 </td>
 <td>
 </td>
-<td><a href="/wiki/Turbine" title="Turbine">Turbine</a>
+<td><a href="Turbine.md" title="Turbine">Turbine</a>
 </td>
 <td>
 </td></tr>
@@ -257,7 +256,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/John_Garth" title="John Garth">John Garth</a>
+<td><a href="../J/John_Garth.md" title="John Garth">John Garth</a>
 </td>
 <td>
 </td>
@@ -268,11 +267,11 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>2:00pm
 </td>
-<td><a href="/wiki/Verlyn_Flieger" title="Verlyn Flieger">Verlyn Flieger</a>
+<td><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>
 </td>
 <td>
 </td>
-<td><a href="/wiki/James_Dunning" title="James Dunning">James Dunning</a>
+<td><a href="../J/James_Dunning.md" title="James Dunning">James Dunning</a>
 </td>
 <td>
 </td></tr>
@@ -283,7 +282,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/David_Brawn" title="David Brawn">David Brawn</a>
+<td><a href="../D/David_Brawn.md" title="David Brawn">David Brawn</a>
 </td>
 <td>
 </td>
@@ -294,11 +293,11 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>4:00pm
 </td>
-<td><a href="/wiki/Johan_Vanhecke" title="Johan Vanhecke">Johan Vanhecke</a>
+<td><a href="../J/Johan_Vanhecke.md" title="Johan Vanhecke">Johan Vanhecke</a>
 </td>
 <td>
 </td>
-<td><a href="/wiki/Roger_Garland" title="Roger Garland">Roger Garland</a>
+<td><a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a>
 </td>
 <td>
 </td></tr>
@@ -309,7 +308,7 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>
 </td>
-<td><a href="/wiki/Jef_Murray" title="Jef Murray">Jef Murray</a>
+<td><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a>
 </td>
 <td>
 </td>
@@ -320,11 +319,11 @@ The below schedule currently only includes the guests, we will be giving away al
 </td>
 <td>6:00pm
 </td>
-<td><a href="/wiki/Michael_Martinez" title="Michael Martinez">Michael Martinez</a>
+<td><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a>
 </td>
 <td>
 </td>
-<td><a href="/wiki/Matt_Blessing" title="Matt Blessing">Matt Blessing</a>
+<td><a href="../M/Matt_Blessing.md" title="Matt Blessing">Matt Blessing</a>
 </td>
 <td>
 </td></tr>

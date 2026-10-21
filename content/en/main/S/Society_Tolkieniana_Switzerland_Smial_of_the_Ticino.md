@@ -1,6 +1,5 @@
 ---
 title: "Society Tolkieniana Switzerland Smial of the Ticino"
-display_title: "<span class=\"mw-page-title-main\">Society Tolkieniana Switzerland Smial of the Ticino</span>"
 page_id: 65827
 namespace: 0
 revision_id: 407260
@@ -13,11 +12,9 @@ categories:
   - "Tolkien Societies"
 ---
 
-As of 2023 this smial of the Italian [Tolkien Society](/wiki/Tolkien_Societies "Tolkien Societies") appears to be defunct as the website only displays a tree of Gondor and citation from The Lord of the Rings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+As of 2023 this smial of the Italian [Tolkien Society](../T/Tolkien_Societies~67099.md) appears to be defunct as the website only displays a tree of Gondor and citation from The Lord of the Rings.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">

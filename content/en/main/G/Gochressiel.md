@@ -11,4 +11,4 @@ redirect_target: "Crissaegrim"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Crissaegrim](/wiki/Crissaegrim#Other_versions_of_the_legendarium).
+Redirect to [Crissaegrim](../C/Crissaegrim.md#Other_versions_of_the_legendarium).

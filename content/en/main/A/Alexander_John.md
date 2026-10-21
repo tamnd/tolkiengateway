@@ -1,6 +1,5 @@
 ---
 title: "Alexander John"
-display_title: "<span class=\"mw-page-title-main\">Alexander John</span>"
 page_id: 23173
 namespace: 0
 revision_id: 222004
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "John, Alexander"
 ---
 
-**Alexander John** ([1932](/wiki/1932) - [July 22](/wiki/22_July "22 July"), [2002](/wiki/2002)) was a British actor.
+**Alexander John** ([1932](../_/1932.md) - [July 22](../_/22_July.md), [2002](../_/2002.md)) was a British actor.
 
 ## Roles {#Roles}
 
-- [1981](/wiki/1981): [*The Lord of the Rings* (1981 radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)"): [Gwaihir](/wiki/Gwaihir)
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)") - [Dori](/wiki/Dori), Elves, Dwarves
+- [1981](../_/1981.md): [*The Lord of the Rings* (1981 radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>): [Gwaihir](../G/Gwaihir.md)
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>) - [Dori](../D/Dori.md), Elves, Dwarves
 
 ## External links {#External_links}
 

@@ -13,23 +13,23 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>arata</b></i> or <i><b>arta</b></i> is [Quenya](/wiki/Quenya) for "high, lofty, noble".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The plural form is used for the **[Aratar](/wiki/Aratar)**, the chief of the [Valar](/wiki/Valar).
+<i><b>arata</b></i> or <i><b>arta</b></i> is [Quenya](../Q/Quenya.md) for "high, lofty, noble".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The plural form is used for the **[Aratar](Aratar.md)**, the chief of the [Valar](../V/Valar.md).
 
 ## Examples {#Examples}
 
-- <i><a class="mw-redirect" href="/wiki/Artaher" title="Artaher"><b>Arta</b>her</a></i> = "Noble Lord"
-- <i><a class="mw-redirect" href="/wiki/Artanis" title="Artanis"><b>Arta</b>nis</a></i> = "Noble Woman"
-- <i><a href="/wiki/Varda" title="Varda">Varda <b>Arata</b>rya</a></i> = "Varda in her sublimity"
+- <i><a class="mw-redirect" href="Artaher.md" title="Artaher"><b>Arta</b>her</a></i> = "Noble Lord"
+- <i><a class="mw-redirect" href="Artanis.md" title="Artanis"><b>Arta</b>nis</a></i> = "Noble Woman"
+- <i><a href="../V/Varda.md" title="Varda">Varda <b>Arata</b>rya</a></i> = "Varda in her sublimity"
 
 ## See also {#See_also}
 
-- [aráto](/wiki/Ar%C3%A1to "Aráto")
+- [aráto](Aráto.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 49</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>: Eldarin Roots and Stems&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 49</span>
 </li>
 </ol></div>

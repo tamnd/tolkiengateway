@@ -1,6 +1,5 @@
 ---
 title: "File:Elena Jeronimides 14 June 1973.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elena Jeronimides 14 June 1973.png</span>"
 page_id: 40005
 namespace: 6
 revision_id: 215024

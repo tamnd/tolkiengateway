@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Milton Waldman"
 ---
 
-Redirect to [Letter to Milton Waldman](/wiki/Letter_to_Milton_Waldman).
+Redirect to [Letter to Milton Waldman](../L/Letter_to_Milton_Waldman.md).

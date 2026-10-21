@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Aliases"
 ---
 
-Redirect to [Category:Aliases](/wiki/Category:Aliases).
+Redirect to [Category:Aliases](../../category/A/Aliases.md).

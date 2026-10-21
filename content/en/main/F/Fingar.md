@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fingár"
 ---
 
-Redirect to [Fingár](/wiki/Fingár).
+Redirect to [Fingár](Fingár.md).

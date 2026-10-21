@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Oliver Maqsud"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Oliver Maqsud</span>"
 page_id: 22646
 namespace: 14
 revision_id: 182119
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Maqsud, Oliver"
 ---
 
-This category lists all **images by [Oliver Maqsud](/wiki/Oliver_Maqsud)**.
+This category lists all **images by [Oliver Maqsud](../../main/O/Oliver_Maqsud.md)**.

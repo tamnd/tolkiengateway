@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aurë"
 ---
 
-Redirect to [Aurë](/wiki/Aurë).
+Redirect to [Aurë](Aurë.md).

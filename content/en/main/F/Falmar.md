@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Falmari"
 ---
 
-Redirect to [Falmari](/wiki/Falmari).
+Redirect to [Falmari](Falmari.md).

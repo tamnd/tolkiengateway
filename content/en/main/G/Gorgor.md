@@ -13,26 +13,26 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gorgor</b></i> is a [Sindarin](/wiki/Sindarin) word meaning "terror, haunting fear",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "extreme horror".<sup id="cite_ref-AC_2-0" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
+<i><b>gorgor</b></i> is a [Sindarin](../S/Sindarin.md) word meaning "terror, haunting fear",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "extreme horror".<sup id="cite_ref-AC_2-0" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") [NGUR](/wiki/NGUR)<sup id="cite_ref-AC_2-1" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
+- [Root](../S/Sundocarme.md) [NGUR](../N/NGUR.md)<sup id="cite_ref-AC_2-1" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- [Cirith Gorgor](/wiki/Cirith_Gorgor)
-- [Ered Gorgoroth](/wiki/Ered_Gorgoroth)
-- [Plateau of Gorgoroth](/wiki/Plateau_of_Gorgoroth)
+- [Cirith Gorgor](../C/Cirith_Gorgor.md)
+- [Ered Gorgoroth](../E/Ered_Gorgoroth.md)
+- [Plateau of Gorgoroth](../P/Plateau_of_Gorgoroth.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (eds), <i><a href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 233</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 233</span>
 </li>
 <li id="cite_note-AC-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AC_2-0">2.0</a></sup> <sup><a href="#cite_ref-AC_2-1">2.1</a></sup></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix C. Elvish names for the Orcs&#34;, p. 415 (Author&#39;s note 28)</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: Appendix C. Elvish names for the Orcs&#34;, p. 415 (Author&#39;s note 28)</span>
 </li>
 </ol></div>

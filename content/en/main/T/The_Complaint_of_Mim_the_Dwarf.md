@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Complaint of Mîm the Dwarf"
 ---
 
-Redirect to [The Complaint of Mîm the Dwarf](/wiki/The_Complaint_of_Mîm_the_Dwarf).
+Redirect to [The Complaint of Mîm the Dwarf](The_Complaint_of_Mîm_the_Dwarf.md).

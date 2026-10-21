@@ -18,13 +18,13 @@ images:
   - "J.R.R._Tolkien_to_Elise_Honeybourne_(back).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_to_Elise_Honeybourne.jpg"><img src="/w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/300px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg" decoding="async" loading="lazy" width="300" height="390" class="mw-file-element" srcset="/w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/450px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg 1.5x, /w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/600px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg 2x" data-file-width="800" data-file-height="1040"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_to_Elise_Honeybourne.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/300px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg" decoding="async" loading="lazy" width="300" height="390" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/450px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6a/J.R.R._Tolkien_to_Elise_Honeybourne.jpg/600px-J.R.R._Tolkien_to_Elise_Honeybourne.jpg 2x" data-file-width="800" data-file-height="1040"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_to_Elise_Honeybourne_(back).jpg"><img src="/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/300px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg" decoding="async" loading="lazy" width="300" height="393" class="mw-file-element" srcset="/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/450px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 1.5x, /w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/600px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 2x" data-file-width="800" data-file-height="1047"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_to_Elise_Honeybourne_(back).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/300px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg" decoding="async" loading="lazy" width="300" height="393" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/450px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/600px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 2x" data-file-width="800" data-file-height="1047"/></a><figcaption></figcaption></figure>
 
-On [18 September](/wiki/18_September) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Elsie Honeybourne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+On [18 September](../_/18_September.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Elsie Honeybourne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Publication:** A description and photograph of the letter was included in *[Bloomsbury Modern First Editions, Manuscripts and Autograph Letters, English and Continental Literature and History 24 May 2007](/wiki/Bloomsbury_Modern_First_Editions,_Manuscripts_and_Autograph_Letters,_English_and_Continental_Literature_and_History_24_May_2007)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Publication:** A description and photograph of the letter was included in *[Bloomsbury Modern First Editions, Manuscripts and Autograph Letters, English and Continental Literature and History 24 May 2007](../B/Bloomsbury_Modern_First_Editions,_Manuscripts_and_Autograph_Letters,_English_and_Continental_Literature_and_History_24_May_2007.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Description:** One page both sides (hand-written), 5.5 x 7, personal letterhead.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Transcription {#Transcription}
@@ -34,11 +34,9 @@ On [18 September](/wiki/18_September) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- [Letter to Elsie Honeybourne (21 December 1967)](</wiki/Letter_to_Elsie_Honeybourne_(21_December_1967)>)
+- [Letter to Elsie Honeybourne (21 December 1967)](<Letter_to_Elsie_Honeybourne_(21_December_1967).md>)
 
 ## External links {#External_links}
 
@@ -49,7 +47,7 @@ On [18 September](/wiki/18_September) [1967](/wiki/1967), [J.R.R. Tolkien](/wiki
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to The J.R.R. Tolkien Companion and Guide (2006) Vol. 1: Chronology</a>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 22 October 2011)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, &#34;<a class="external text" href="http://www.hammondandscull.com/addenda/chronology.html" rel="noreferrer noopener" target="_blank">Addenda and Corrigenda to The J.R.R. Tolkien Companion and Guide (2006) Vol. 1: Chronology</a>&#34; at <a class="external text" href="http://www.hammondandscull.com/index.html" rel="noreferrer noopener" target="_blank">HammondandScull.com</a> (accessed 22 October 2011)</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=74200" rel="noreferrer noopener" target="_blank">Modern First Editions. 2007</a> at <a class="external text" href="http://www.tolkienbooks.net/" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a> (accessed 29 November 2011)</span>
 </li>

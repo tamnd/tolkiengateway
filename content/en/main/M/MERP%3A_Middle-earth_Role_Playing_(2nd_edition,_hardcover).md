@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing (2nd edition)"
 ---
 
-Redirect to [Middle-earth Role Playing (2nd edition)](/wiki/Middle-earth_Role_Playing_(2nd_edition)).
+Redirect to [Middle-earth Role Playing (2nd edition)](<Middle-earth_Role_Playing_(2nd_edition).md>).

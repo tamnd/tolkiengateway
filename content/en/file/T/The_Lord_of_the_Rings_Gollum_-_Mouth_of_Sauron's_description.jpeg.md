@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Gollum - Mouth of Sauron's description.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Gollum - Mouth of Sauron&#039;s description.jpeg</span>"
 page_id: 64638
 namespace: 6
 revision_id: 371706
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A description of the [Mouth of Sauron](/wiki/Mouth_of_Sauron) in *[The Lord of the Rings: Gollum](/wiki/The_Lord_of_the_Rings:_Gollum)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+A description of the [Mouth of Sauron](../../main/M/Mouth_of_Sauron.md) in *[The Lord of the Rings: Gollum](../../main/T/The_Lord_of_the_Rings%253A_Gollum.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ A description of the [Mouth of Sauron](/wiki/Mouth_of_Sauron) in *[The Lord of t
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1646528807124316160" rel="noreferrer noopener" target="_blank">&#34;The Lieutenant of the Tower of Barad-dûr he was, and his name is remembered in no tale; for he himself had forgotten it, and he said: ‘I am the Mouth of Sauron.’&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://mobile.twitter.com/GollumGame/status/1646528807124316160" rel="noreferrer noopener" target="_blank">&#34;The Lieutenant of the Tower of Barad-dûr he was, and his name is remembered in no tale; for he himself had forgotten it, and he said: ‘I am the Mouth of Sauron.’&#34;</a></span>. <span class="cite-web-website">Twitter</span></cite></span>
 </li>
 </ol></div>

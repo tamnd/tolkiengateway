@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Öjevind Lång"
 ---
 
-Redirect to [Öjevind Lång](/wiki/Öjevind_Lång).
+Redirect to [Öjevind Lång](../_/Öjevind_Lång.md).

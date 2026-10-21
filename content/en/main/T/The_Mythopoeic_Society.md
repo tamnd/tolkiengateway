@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mythopoeic Society"
 ---
 
-Redirect to [Mythopoeic Society](/wiki/Mythopoeic_Society).
+Redirect to [Mythopoeic Society](../M/Mythopoeic_Society.md).

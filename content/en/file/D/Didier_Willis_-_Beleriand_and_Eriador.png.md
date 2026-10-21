@@ -1,6 +1,5 @@
 ---
 title: "File:Didier Willis - Beleriand and Eriador.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Didier Willis - Beleriand and Eriador.png</span>"
 page_id: 45695
 namespace: 6
 revision_id: 260287
@@ -28,16 +27,16 @@ file:
 
 ## Summary {#Summary}
 
-Reconstructed location of [Beleriand](/wiki/Beleriand) at the appropriate scale and position. The reconstructed map is based on a "collage" of several maps by J.R.R. Tolkien and Christopher Tolkien, basically:
+Reconstructed location of [Beleriand](../../main/B/Beleriand.md) at the appropriate scale and position. The reconstructed map is based on a "collage" of several maps by J.R.R. Tolkien and Christopher Tolkien, basically:
 
-- Second Map of Beleriand (with scale grid) from *[The War of the Jewels](/wiki/The_War_of_the_Jewels)*
-- Draft Map of the lands of east of the Ered Luin (with scale grid) from *[The Treason of Isengard](/wiki/The_Treason_of_Isengard)*
-- Map from *[Unfinished Tales](/wiki/Unfinished_Tales)*
+- Second Map of Beleriand (with scale grid) from *[The War of the Jewels](../../main/T/The_War_of_the_Jewels.md)*
+- Draft Map of the lands of east of the Ered Luin (with scale grid) from *[The Treason of Isengard](../../main/T/The_Treason_of_Isengard.md)*
+- Map from *[Unfinished Tales](../../main/U/Unfinished_Tales.md)*
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
-<p>It is believed that the use of this map which relates to <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="/wiki/Legendarium" title="Legendarium">legendarium</a>,
+<p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/title17/92chap1.html#107" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -45,6 +44,6 @@ Reconstructed location of [Beleriand](/wiki/Beleriand) at the appropriate scale 
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:center;border-radius:var(--tg-border-radius-large);">
-<p>As a Tolkien Gateway contributor, <a href="/wiki/User:Drakon" title="User:Drakon">Drakon</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+<p>As a Tolkien Gateway contributor, <a href="https://tolkiengateway.net/wiki/User:Drakon" title="User:Drakon">Drakon</a> has granted permission to copy, distribute and/or modify this document under the terms of the <b><a class="extiw" href="http://en.wikipedia.org/wiki/Text_of_the_GNU_Free_Documentation_License" title="wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 </p>
 </div>

@@ -11,4 +11,4 @@ redirect_target: "Laurelin"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Laurelin](/wiki/Laurelin#Names).
+Redirect to [Laurelin](../L/Laurelin.md#Names).

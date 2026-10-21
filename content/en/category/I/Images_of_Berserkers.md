@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Berserkers"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Berserkers</span>"
 page_id: 12261
 namespace: 14
 revision_id: 197307

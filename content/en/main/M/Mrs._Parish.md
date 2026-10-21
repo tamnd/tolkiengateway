@@ -1,6 +1,5 @@
 ---
 title: "Mrs. Parish"
-display_title: "<span class=\"mw-page-title-main\">Mrs. Parish</span>"
 page_id: 61114
 namespace: 0
 revision_id: 411187
@@ -15,7 +14,7 @@ sort_keys:
   "Leaf by Niggle": "Parish, Mrs."
 ---
 
-**Mrs. Parish** is a character in *[Leaf by Niggle](/wiki/Leaf_by_Niggle)*. She is the neighbour of [Niggle](/wiki/Niggle), and the wife of [Mr. Parish](/wiki/Mr._Parish). She has a cold that she unknowingly spreads to Niggle when he is enlisted by Mr. Parish to got out into the rain to get the [Doctor](/wiki/Doctor), who arrives two days late, in time to deal with both Mrs. Parish and Niggle.
+**Mrs. Parish** is a character in *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. She is the neighbour of [Niggle](../N/Niggle.md), and the wife of [Mr. Parish](Mr._Parish.md). She has a cold that she unknowingly spreads to Niggle when he is enlisted by Mr. Parish to got out into the rain to get the [Doctor](../D/Doctor.md), who arrives two days late, in time to deal with both Mrs. Parish and Niggle.
 
 <span></span>
 

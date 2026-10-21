@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leaves from the Tree"
 ---
 
-Redirect to [Leaves from the Tree](/wiki/Leaves_from_the_Tree).
+Redirect to [Leaves from the Tree](Leaves_from_the_Tree.md).

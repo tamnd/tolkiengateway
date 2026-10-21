@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ursula K. Le Guin"
 ---
 
-Redirect to [Ursula K. Le Guin](/wiki/Ursula_K._Le_Guin).
+Redirect to [Ursula K. Le Guin](Ursula_K._Le_Guin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hob Gammidge"
 ---
 
-Redirect to [Hob Gammidge](/wiki/Hob_Gammidge).
+Redirect to [Hob Gammidge](../H/Hob_Gammidge.md).

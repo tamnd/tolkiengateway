@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brambles of Mordor"
 ---
 
-Redirect to [Brambles of Mordor](/wiki/Brambles_of_Mordor).
+Redirect to [Brambles of Mordor](../B/Brambles_of_Mordor.md).

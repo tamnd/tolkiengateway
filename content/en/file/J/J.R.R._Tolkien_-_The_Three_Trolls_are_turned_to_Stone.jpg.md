@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Three Trolls are turned to Stone.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Three Trolls are turned to Stone.jpg</span>"
 page_id: 5466
 namespace: 6
 revision_id: 428173
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-Created by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to illustrate Chapter 2 of [The Hobbit](/wiki/The_Hobbit).
+Created by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to illustrate Chapter 2 of [The Hobbit](../../main/T/The_Hobbit.md).
 
 ## Licensing {#Licensing}
 

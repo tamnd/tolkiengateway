@@ -16,12 +16,12 @@ images:
   - "The_Hobbit_Calendar_2003.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Hobbit_Calendar_2003.jpg"><img src="/w/images/thumb/a/a5/The_Hobbit_Calendar_2003.jpg/300px-The_Hobbit_Calendar_2003.jpg" decoding="async" loading="lazy" width="300" height="328" class="mw-file-element" srcset="/w/images/a/a5/The_Hobbit_Calendar_2003.jpg 1.5x" data-file-width="320" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Calendar_2003.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/The_Hobbit_Calendar_2003.jpg/300px-The_Hobbit_Calendar_2003.jpg" decoding="async" loading="lazy" width="300" height="328" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a5/The_Hobbit_Calendar_2003.jpg 1.5x" data-file-width="320" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**The Hobbit Calendar 2003** features illustrations by <a class="new" href="/w/index.php?title=Lydia_Postma&amp;action=edit&amp;redlink=1" title="Lydia Postma (page does not exist)">Lydia Postma</a>.
+**The Hobbit Calendar 2003** features illustrations by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lydia_Postma&amp;action=edit&amp;redlink=1" title="Lydia Postma (page does not exist)">Lydia Postma</a>.
 
-- Dorset Press (US) <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0760733821">ISBN 0-7607-3382-1</a>
-- Pavilion (The Shire) (UK) <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/186205553X">ISBN 1-86205-553-X</a>
+- Dorset Press (US) <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0760733821">ISBN 0-7607-3382-1</a>
+- Pavilion (The Shire) (UK) <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/186205553X">ISBN 1-86205-553-X</a>
 - Dimensions: 12 x 13 1/4 inches
 - Stapled
 - Punched hanging hole

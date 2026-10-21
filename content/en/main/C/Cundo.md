@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kundo"
 ---
 
-Redirect to [Kundo](/wiki/Kundo).
+Redirect to [Kundo](../K/Kundo.md).

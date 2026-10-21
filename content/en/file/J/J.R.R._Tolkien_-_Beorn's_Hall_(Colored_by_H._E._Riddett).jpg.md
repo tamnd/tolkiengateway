@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Beorn's Hall (Colored by H. E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Beorn&#039;s Hall (Colored by H. E. Riddett).jpg</span>"
 page_id: 5477
 namespace: 6
 revision_id: 425983
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Originally drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) this colored version by [H.E. Riddett](/wiki/H.E._Riddett) was made for [The Hobbit Calendar 1976](/wiki/The_Hobbit_Calendar_1976), and has been used in some illustrated editions of the book.
+Originally drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) this colored version by [H.E. Riddett](../../main/H/H.E._Riddett.md) was made for [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md), and has been used in some illustrated editions of the book.
 
 ## Licensing {#Licensing}
 

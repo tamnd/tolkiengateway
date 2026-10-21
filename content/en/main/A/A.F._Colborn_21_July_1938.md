@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to A.F. Colborn (21 July 1938)"
 ---
 
-Redirect to [Letter to A.F. Colborn (21 July 1938)](/wiki/Letter_to_A.F._Colborn_(21_July_1938)).
+Redirect to [Letter to A.F. Colborn (21 July 1938)](<../L/Letter_to_A.F._Colborn_(21_July_1938).md>).

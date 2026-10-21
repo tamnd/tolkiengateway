@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Eressëa"
 ---
 
-Redirect to [Elves of Eressëa](/wiki/Elves_of_Eressëa).
+Redirect to [Elves of Eressëa](Elves_of_Eressëa.md).

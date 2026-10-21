@@ -1,6 +1,5 @@
 ---
 title: "Ceola"
-display_title: "<span class=\"mw-page-title-main\">Ceola</span>"
 page_id: 49864
 namespace: 0
 revision_id: 382697
@@ -17,13 +16,13 @@ categories:
   - "Old English names"
 ---
 
-**Ceola** of <a class="extiw" href="http://en.wikipedia.org/wiki/Somerset" title="wikipedia:Somerset">Somerset</a> was one of the companions of [Ælfwine](/wiki/%C3%86lfwine) on his journey to [Tol Eressëa](/wiki/Tol_Eress%C3%ABa).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ceola** of <a class="extiw" href="http://en.wikipedia.org/wiki/Somerset" title="wikipedia:Somerset">Somerset</a> was one of the companions of [Ælfwine](../_/Ælfwine.md) on his journey to [Tol Eressëa](../T/Tol_Eressëa.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Sauron_Defeated" title="Sauron Defeated">Sauron Defeated</a></i>, &#34;Part Two: <a href="/wiki/The_Notion_Club_Papers_Part_Two" title="The Notion Club Papers Part Two"><i>The Notion Club Papers</i> Part Two</a>: Night 70&#34;, p. 279</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i>, &#34;Part Two: <a href="../T/The_Notion_Club_Papers_Part_Two.md" title="The Notion Club Papers Part Two"><i>The Notion Club Papers</i> Part Two</a>: Night 70&#34;, p. 279</span>
 </li>
 </ol></div>

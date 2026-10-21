@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Tauriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Tauriel.png</span>"
 page_id: 73168
 namespace: 6
 revision_id: 433013
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Tauriel](/wiki/Tauriel) - [LEGO](/wiki/Lego "Lego") minifigure
+[Tauriel](../../main/T/Tauriel.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

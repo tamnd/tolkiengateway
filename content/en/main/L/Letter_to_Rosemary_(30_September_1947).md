@@ -15,12 +15,12 @@ sort_keys:
   "Letters": "Rosemary (1947-09-30)"
 ---
 
-On [30 September](/wiki/30_September) [1947](/wiki/1947), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to Rosemary**.
+On [30 September](../_/30_September.md) [1947](../_/1947.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to Rosemary**.
 
-**Letter to Rosemary (30 September 1947)** is a [letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to Rosemary, composed on [30 September](/wiki/30_September) [1947](/wiki/1947).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Letter to Rosemary (30 September 1947)** is a [letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) from [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) to Rosemary, composed on [30 September](../_/30_September.md) [1947](../_/1947.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Subject**: Tolkien replies to a letter of appreciation of *[The Hobbit](/wiki/The_Hobbit)* from Rosemary.
-- **Publication:** A facsimile was published in [*Mallorn* 36](/wiki/Mallorn_36 "Mallorn 36").
+- **Subject**: Tolkien replies to a letter of appreciation of *[The Hobbit](../T/The_Hobbit.md)* from Rosemary.
+- **Publication:** A facsimile was published in [*Mallorn* 36](../M/Mallorn_36.md).
 - **Description:** Two pages, handwritten, signed.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Transcription {#Transcription}
@@ -32,11 +32,9 @@ Oxford September 30th 1947
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 ## See also {#See_also}
 
-- [Letter to Rosemary (18 January 1948)](</wiki/Letter_to_Rosemary_(18_January_1948)>)
+- [Letter to Rosemary (18 January 1948)](<Letter_to_Rosemary_(18_January_1948).md>)
 
 <span></span>
 
@@ -44,8 +42,8 @@ Oxford September 30th 1947
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 322</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 322</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Mallorn_36" title="Mallorn 36"><i>Mallorn</i> 36</a> (1998)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../M/Mallorn_36.md" title="Mallorn 36"><i>Mallorn</i> 36</a> (1998)</span>
 </li>
 </ol></div>

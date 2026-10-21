@@ -1,6 +1,5 @@
 ---
 title: "File:Ronald Kyrmse.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ronald Kyrmse.jpg</span>"
 page_id: 44849
 namespace: 6
 revision_id: 235974
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photo of [Ronald Kyrmse](/wiki/Ronald_Kyrmse).
+Photo of [Ronald Kyrmse](../../main/R/Ronald_Kyrmse.md).
 
 ## Licensing {#Licensing}
 
@@ -35,4 +34,4 @@ Photo of [Ronald Kyrmse](/wiki/Ronald_Kyrmse).
 </p>
 <ul><li><b>Name:</b> Ronald Kyrmse</li>
 <li><b>Website:</b> Ronald Kyrmse</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Ronald_Kyrmse" title="Tolkien Gateway:Copyrights/Ronald Kyrmse">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRonald_Kyrmse.md" title="Tolkien Gateway:Copyrights/Ronald Kyrmse">Permission for use on Tolkien Gateway</a></b></li></ul></div>

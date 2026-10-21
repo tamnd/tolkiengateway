@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - An aerial view of Helm’s Deep (detail).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - An aerial view of Helm’s Deep (detail).jpg</span>"
 page_id: 65548
 namespace: 6
 revision_id: 377387
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A detailed view of [File:J.R.R. Tolkien - An aerial view of Helm’s Deep.jpg](/wiki/File:J.R.R._Tolkien_-_An_aerial_view_of_Helm%E2%80%99s_Deep.jpg)
+A detailed view of [File:J.R.R. Tolkien - An aerial view of Helm’s Deep.jpg](J.R.R._Tolkien_-_An_aerial_view_of_Helm’s_Deep.jpg.md)
 
 ## Licensing {#Licensing}
 

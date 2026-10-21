@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Rise to War - Sharku.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Rise to War - Sharku.webp</span>"
 page_id: 64675
 namespace: 6
 revision_id: 373913

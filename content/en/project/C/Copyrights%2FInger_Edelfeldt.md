@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Inger Edelfeldt"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Inger Edelfeldt</span>"
 page_id: 44293
 namespace: 4
 revision_id: 232868
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Edelfeldt, Inger"
 ---
 
-- [Inger Edelfeldt](/wiki/Inger_Edelfeldt) has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Inger_Edelfeldt "Category:Images by Inger Edelfeldt") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Inger Edelfeldt](../../main/I/Inger_Edelfeldt.md) has kindly granted her permission to use [her artwork](../../category/I/Images_by_Inger_Edelfeldt.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 27 August 2013
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

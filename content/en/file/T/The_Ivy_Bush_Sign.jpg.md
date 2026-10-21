@@ -1,6 +1,5 @@
 ---
 title: "File:The Ivy Bush Sign.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Ivy Bush Sign.jpg</span>"
 page_id: 23933
 namespace: 6
 revision_id: 417831

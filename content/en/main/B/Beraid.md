@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barad"
 ---
 
-Redirect to [Barad](/wiki/Barad).
+Redirect to [Barad](Barad.md).

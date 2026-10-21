@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Leaving Bree.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Leaving Bree.jpg</span>"
 page_id: 71589
 namespace: 6
 revision_id: 426865
@@ -28,9 +27,9 @@ file:
 
 ## Summary {#Summary}
 
-"Leaving [Bree](/wiki/Bree)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt).
+"Leaving [Bree](../../main/B/Bree.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md).
 
-Painted in 2002, based off of preliminary sketches done in 1975 before [the first 1976 Calendar](/wiki/1976_J.R.R._Tolkien_Calendar "1976 J.R.R. Tolkien Calendar").
+Painted in 2002, based off of preliminary sketches done in 1975 before [the first 1976 Calendar](../../main/_/1976_J.R.R._Tolkien_Calendar.md).
 
 ## Licensing {#Licensing}
 

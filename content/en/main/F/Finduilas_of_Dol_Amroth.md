@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finduilas (wife of Denethor)"
 ---
 
-Redirect to [Finduilas (wife of Denethor)](/wiki/Finduilas_(wife_of_Denethor)).
+Redirect to [Finduilas (wife of Denethor)](<Finduilas_(wife_of_Denethor).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Lego - Fell Beast.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lego - Fell Beast.png</span>"
 page_id: 73437
 namespace: 6
 revision_id: 434147
@@ -36,15 +35,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.lego.com/product/the-lord-of-the-rings-fell-beast-40693" rel="noreferrer noopener" target="_blank">https://www.lego.com/product/the-lord-of-the-rings-fell-beast-40693</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

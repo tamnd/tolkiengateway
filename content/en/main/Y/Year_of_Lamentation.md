@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Age 472"
 ---
 
-Redirect to [First Age 472](/wiki/First_Age_472).
+Redirect to [First Age 472](../F/First_Age_472.md).

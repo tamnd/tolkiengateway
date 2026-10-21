@@ -1,6 +1,5 @@
 ---
 title: "Beau-Jolly"
-display_title: "<span class=\"mw-page-title-main\">Beau-Jolly</span>"
 page_id: 30840
 namespace: 0
 revision_id: 386688
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Beau-Jolly** was a European company founded in [1984](/wiki/1984).<sup id="cite_ref-CPC_1-0" class="reference"><a href="#cite_note-CPC-1">[1]</a></sup> They re-distributed [the Tolkien Trilogy](/wiki/The_Tolkien_Trilogy "The Tolkien Trilogy") in Europe.<sup id="cite_ref-CPC_1-1" class="reference"><a href="#cite_note-CPC-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Beau-Jolly** was a European company founded in [1984](../_/1984.md).<sup id="cite_ref-CPC_1-0" class="reference"><a href="#cite_note-CPC-1">[1]</a></sup> They re-distributed [the Tolkien Trilogy](../T/The_Tolkien_Trilogy.md) in Europe.<sup id="cite_ref-CPC_1-1" class="reference"><a href="#cite_note-CPC-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

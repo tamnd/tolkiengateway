@@ -13,21 +13,21 @@ categories:
   - "Quenya verbs"
 ---
 
-**remba'** means "net, entrap" in [Quenya](/wiki/Quenya)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**remba'** means "net, entrap" in [Quenya](../Q/Quenya.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) \**rembâ* [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=REM&amp;action=edit&amp;redlink=1" title="REM (page does not exist)">REM</a>
+[PQ](../P/PQ.md) \**rembâ* [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=REM&amp;action=edit&amp;redlink=1" title="REM (page does not exist)">REM</a>
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Rembina&amp;action=edit&amp;redlink=1" title="Rembina (page does not exist)">rembina</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rembina&amp;action=edit&amp;redlink=1" title="Rembina (page does not exist)">rembina</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_42" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_42.md" title="Vinyar Tengwar 42">Vinyar Tengwar 42</a></span>
 </li>
 </ol></div>

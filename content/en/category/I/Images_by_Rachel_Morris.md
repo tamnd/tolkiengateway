@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rachel Morris"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rachel Morris</span>"
 page_id: 13337
 namespace: 14
 revision_id: 182140

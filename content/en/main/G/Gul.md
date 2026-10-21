@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gûl"
 ---
 
-Redirect to [Gûl](/wiki/Gûl).
+Redirect to [Gûl](Gûl.md).

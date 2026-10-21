@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Green Bough of Return"
 ---
 
-Redirect to [Green Bough of Return](/wiki/Green_Bough_of_Return).
+Redirect to [Green Bough of Return](../G/Green_Bough_of_Return.md).

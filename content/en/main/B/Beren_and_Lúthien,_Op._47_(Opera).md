@@ -1,6 +1,5 @@
 ---
 title: "Beren and Lúthien, Op. 47 (Opera)"
-display_title: "<span class=\"mw-page-title-main\">Beren and Lúthien, Op. 47 (Opera)</span>"
 page_id: 65173
 namespace: 0
 revision_id: 426172
@@ -16,11 +15,11 @@ images:
   - "Artwork_from_the_CD_Release.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Artwork_from_the_CD_Release.jpg"><img src="/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, /w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release. Used with permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Artwork_from_the_CD_Release.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/300px-Artwork_from_the_CD_Release.jpg" decoding="async" loading="lazy" width="300" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/450px-Artwork_from_the_CD_Release.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artwork_from_the_CD_Release.jpg/600px-Artwork_from_the_CD_Release.jpg 2x" data-file-width="1410" data-file-height="1489"/></a><figcaption>Artwork from the CD release. Used with permission of Ted Nasmith.</figcaption></figure>
 
-Part two of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
+Part two of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien.*
 
-This section of the *Epic Scenes* was composed between 1994 and 1996 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto, including the use of various texts that were unpublished at the time. It utilises texts from *[The Silmarillion](/wiki/The_Silmarillion), [The Lays of Beleriand](/wiki/The_Lays_of_Beleriand)* and *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.
+This section of the *Epic Scenes* was composed between 1994 and 1996 with the permission of the Tolkien Estate and with the assistance of Christopher Tolkien in assembling the various texts to create a singable libretto, including the use of various texts that were unpublished at the time. It utilises texts from *[The Silmarillion](../T/The_Silmarillion.md), [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)* and *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 It has a total duration of 141 minutes and is scored for full orchestra, full chorus and solo voices.
 

@@ -13,4 +13,4 @@ categories:
   - "Sindarin prefixes"
 ---
 
-<i><b>ab-</b></i> is a [Sindarin](/wiki/Sindarin) prefix meaning *after, later*.
+<i><b>ab-</b></i> is a [Sindarin](../S/Sindarin.md) prefix meaning *after, later*.

@@ -14,20 +14,20 @@ categories:
   - "Sindarin pronouns"
 ---
 
-**hen** is a [Sindarin](/wiki/Sindarin) word with multiple meanings:
+**hen** is a [Sindarin](../S/Sindarin.md) word with multiple meanings:
 
-1. A derivative of <i><a class="new" href="/w/index.php?title=He&amp;action=edit&amp;redlink=1" title="He (page does not exist)">he</a></i>
-2. "eye", as in *[Amon Hen](/wiki/Amon_Hen)*
+1. A derivative of <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=He&amp;action=edit&amp;redlink=1" title="He (page does not exist)">he</a></i>
+2. "eye", as in *[Amon Hen](../A/Amon_Hen.md)*
 
 ## Etymology {#Etymology}
 
-- [KHEN](/wiki/KHEN)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [KHEN](../K/KHEN.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Presumed derivation (unattested); cf. <a href="/wiki/KHEN-D-E" title="KHEN-D-E">KHEN-D-E</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Presumed derivation (unattested); cf. <a href="../K/KHEN-D-E.md" title="KHEN-D-E">KHEN-D-E</a></span>
 </li>
 </ol></div>

@@ -30,21 +30,19 @@ infobox:
     value: "1732-2375"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Aiglos_Special_Issue_I_cover.jpg"><img src="/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/320px-Aiglos_Special_Issue_I_cover.jpg" decoding="async" loading="lazy" width="320" height="420" class="mw-file-element" srcset="/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/480px-Aiglos_Special_Issue_I_cover.jpg 1.5x, /w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/640px-Aiglos_Special_Issue_I_cover.jpg 2x" data-file-width="801" data-file-height="1051"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aiglos Special Issue I</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="/wiki/Anna_Adamczyk-%C5%9Aliwi%C5%84ska" title="Anna Adamczyk-Śliwińska">Anna Adamczyk-Śliwińska</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Sekcja_Tolkienowska_%C5%9AKF" title="Sekcja Tolkienowska ŚKF">Sekcja Tolkienowska ŚKF</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="/wiki/August" title="August">August</a> <a href="/wiki/2005" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 glossy paperback, black and white</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">202</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1732-2375</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Aiglos_Special_Issue_I_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/320px-Aiglos_Special_Issue_I_cover.jpg" decoding="async" loading="lazy" width="320" height="420" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/480px-Aiglos_Special_Issue_I_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Aiglos_Special_Issue_I_cover.jpg/640px-Aiglos_Special_Issue_I_cover.jpg 2x" data-file-width="801" data-file-height="1051"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aiglos Special Issue I</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Anna_Adamczyk-Śliwińska.md" title="Anna Adamczyk-Śliwińska">Anna Adamczyk-Śliwińska</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../S/Sekcja_Tolkienowska_ŚKF.md" title="Sekcja Tolkienowska ŚKF">Sekcja Tolkienowska ŚKF</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="August.md" title="August">August</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 glossy paperback, black and white</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">202</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1732-2375</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-<i><b>Aiglos Special Issue I</b></i> is a special English-language issue of <i><b><a href="/wiki/Aiglos_(journal)" title="Aiglos (journal)">Aiglos</a></b></i>, prepared for the [Tolkien 2005](/wiki/Tolkien_2005) conference celebrating the fiftieth anniversary of the complete publication of *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* by J.R.R. Tolkien. Members of the *Aiglos* editorial staff participated in the event by preparing papers and lectures, and presenting the works of Polish Tolkien artists.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Aiglos Special Issue I</b></i> is a special English-language issue of <i><b><a href="Aiglos_(journal).md" title="Aiglos (journal)">Aiglos</a></b></i>, prepared for the [Tolkien 2005](../T/Tolkien_2005.md) conference celebrating the fiftieth anniversary of the complete publication of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* by J.R.R. Tolkien. Members of the *Aiglos* editorial staff participated in the event by preparing papers and lectures, and presenting the works of Polish Tolkien artists.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Contents {#Contents}
 
 - **Cover Art**
     - "And the Orcs fled before his face"
-        - By: ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel")
+        - By: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
 
 - **Articles and essays**
 
-Translation into English: Bożena Mitko 'Nellelórë', [Agnieszka Sylwanowicz 'Evermind HS Took'](/wiki/Agnieszka_Sylwanowicz "Agnieszka Sylwanowicz") and Patrycja Keily<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Translation into English: Bożena Mitko 'Nellelórë', [Agnieszka Sylwanowicz 'Evermind HS Took'](Agnieszka_Sylwanowicz.md) and Patrycja Keily<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - &#8203;
     - "The Polish Story of *The Lord of the Rings*: Three Translations, Many Editions"
@@ -52,13 +50,13 @@ Translation into English: Bożena Mitko 'Nellelórë', [Agnieszka Sylwanowicz 'E
     - "Polish Tolkien Fandom"
         - By: Anna Dąbkowska 'Nilcamiel'
     - "The Kalevala and Tolkien, Tolkien and The Kalevala"
-        - By: [Karolina Stopa-Olszańska 'Melinir'](/wiki/Karolina_Stopa-Olsza%C5%84ska "Karolina Stopa-Olszańska")
+        - By: [Karolina Stopa-Olszańska 'Melinir'](../K/Karolina_Stopa-Olszańska.md)
     - "Tolkien and Nature"
-        - By: [Anna Adamczyk-Śliwińska 'Nifrodel'](/wiki/Anna_Adamczyk-%C5%9Aliwi%C5%84ska "Anna Adamczyk-Śliwińska")
+        - By: [Anna Adamczyk-Śliwińska 'Nifrodel'](Anna_Adamczyk-Śliwińska.md)
     - "Reflections on Good in Tolkien' Tolkiens Legendarium"
-        - By: ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel")
+        - By: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
     - "The Question of the "Round Arda" Arda : An Abandoned Idea, or Another Perspective on Tolkien's Legendarium"
-        - By: [Michał Leśniewski 'M.L.'](/wiki/Micha%C5%82_Le%C5%9Bniewski "Michał Leśniewski")
+        - By: [Michał Leśniewski 'M.L.'](../M/Michał_Leśniewski.md)
     - "Are Tolkien's Characters Two-Dimensional?"
         - By: Tadeusz A. Olszański 'Halbarad Dúnadan'
     - "Please Read to Me, Mom… The Child in the Land of *The Lord of the Rings*"
@@ -70,7 +68,7 @@ Translation: Bożena Mitko 'Nellelórë' and Agnieszka Sylwanowicz 'Evermind HS 
 
 - &#8203;
     - *The Dispossessed*
-        - By: ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel")
+        - By: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
     - *Minas Ithil*
         - By: Tekla Cichocka 'Tici', Anna Dąbrowska 'Nilcamiel'
     - *A Glimmer of Pearly Light*
@@ -94,78 +92,78 @@ Translation: Bożena Mitko 'Nellelórë' and Agnieszka Sylwanowicz 'Evermind HS 
     - "Andrzej Zgorzelski and His Research in J.R.R Tolkien"
         - By: Jakub Z. Lichański
     - "The Culture of Middle-earth"
-        - By: [Karolina Stopa-Olszańska 'Melinir'](/wiki/Karolina_Stopa-Olsza%C5%84ska "Karolina Stopa-Olszańska")
+        - By: [Karolina Stopa-Olszańska 'Melinir'](../K/Karolina_Stopa-Olszańska.md)
     - "J.R.R Tolkien : Polish Reception"
         - By: Bożena Mitko 'Nellelórë'
     - "An Introduction to a Biography Or Something More? Michał Błażejewski, *J.R.R Tolkien, The Laybearer*
         - By: Michał Leśniewski 'M.L.'
 
 - **Illustrations**
-    - By: ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel")
+    - By: ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
         - *Aiglos* logo
         - cover image *And the Orcs Fled Before His Face*
-        - *[Lúthien](/wiki/L%C3%BAthien) and [Huan](/wiki/Huan)*
-        - *[Parth Galen](/wiki/Parth_Galen)*
-        - *This Is My Son [Maeglin](/wiki/Maeglin)*
-        - *[Boromir](/wiki/Boromir) and [Faramir](/wiki/Faramir)*
-        - *[Maedhros](/wiki/Maedhros). The Dispossessed*
+        - *[Lúthien](../L/Lúthien.md) and [Huan](../H/Huan.md)*
+        - *[Parth Galen](../P/Parth_Galen.md)*
+        - *This Is My Son [Maeglin](../M/Maeglin.md)*
+        - *[Boromir](../B/Boromir.md) and [Faramir](../F/Faramir.md)*
+        - *[Maedhros](../M/Maedhros.md). The Dispossessed*
         - *Dances with Wolves*
-        - *[Boromir](/wiki/Boromir) Portrait*
-        - *[Caradhras](/wiki/Caradhras)*
-        - *And [Maglor](/wiki/Maglor) Took Pity Upon Them*
-        - *[Faramir](/wiki/Faramir) and [Eowyn](/wiki/Eowyn)*
-        - *[Maeglin](/wiki/Maeglin) Was Taken Prisoner by [Orcs](/wiki/Orcs)*
+        - *[Boromir](../B/Boromir.md) Portrait*
+        - *[Caradhras](../C/Caradhras.md)*
+        - *And [Maglor](../M/Maglor.md) Took Pity Upon Them*
+        - *[Faramir](../F/Faramir.md) and [Eowyn](../E/Eowyn.md)*
+        - *[Maeglin](../M/Maeglin.md) Was Taken Prisoner by [Orcs](../O/Orcs.md)*
     - By Andrzej Grzechnik
-        - *The <a class="mw-redirect mw-disambig" href="/wiki/Rangers" title="Rangers">Rangers</a> of [Ithilien](/wiki/Ithilien)* (fragment)
-        - *King [Théoden](/wiki/Th%C3%A9oden)* (fragment)
-        - *[Tuor](/wiki/Tuor), [Voronwë](/wiki/Voronw%C3%AB) and [Túrin](/wiki/T%C3%BArin)*
-        - *[Orcs](/wiki/Orcs)*
-    - By [Karolina Stopa-Olszańska 'Melinir'](/wiki/Karolina_Stopa-Olsza%C5%84ska "Karolina Stopa-Olszańska")
-        - *[Túrin Turambar](/wiki/T%C3%BArin "Túrin")*
-        - *[Maitimo](/wiki/Maitimo)*
-        - *[Eärendil](/wiki/E%C3%A4rendil)*
-        - *[Finwë](/wiki/Finw%C3%AB) and [Míriel](/wiki/M%C3%ADriel)*
-        - *Over the Wounded [Maedhros](/wiki/Maedhros)*
-        - *[Lúthien](/wiki/L%C3%BAthien)*
+        - *The <a class="mw-redirect mw-disambig" href="../R/Rangers.md" title="Rangers">Rangers</a> of [Ithilien](../I/Ithilien.md)* (fragment)
+        - *King [Théoden](../T/Théoden.md)* (fragment)
+        - *[Tuor](../T/Tuor.md), [Voronwë](../V/Voronwë.md) and [Túrin](../T/Túrin.md)*
+        - *[Orcs](../O/Orcs.md)*
+    - By [Karolina Stopa-Olszańska 'Melinir'](../K/Karolina_Stopa-Olszańska.md)
+        - *[Túrin Turambar](../T/Túrin.md)*
+        - *[Maitimo](../M/Maitimo.md)*
+        - *[Eärendil](../E/Eärendil.md)*
+        - *[Finwë](../F/Finwë.md) and [Míriel](../M/Míriel.md)*
+        - *Over the Wounded [Maedhros](../M/Maedhros.md)*
+        - *[Lúthien](../L/Lúthien.md)*
     - By Kacper Leśniewski
-        - *Map of [Mordor](/wiki/Mordor)*
+        - *Map of [Mordor](../M/Mordor.md)*
     - By Tadzio Stanecki
-        - *[Boromir](/wiki/Boromir)*
-        - *[Galadriel](/wiki/Galadriel)*
+        - *[Boromir](../B/Boromir.md)*
+        - *[Galadriel](../G/Galadriel.md)*
     - By Katarzyna Wojdak 'Avari'
         - back cover, ornaments and borders
     - By Matylda Tomaszewska 'Maniaiel'
-        - *[Eowyn](/wiki/Eowyn)*
+        - *[Eowyn](../E/Eowyn.md)*
     - By Barbara Śliwińska 'Vilva'
-        - *[Bilbo](/wiki/Bilbo) and [Troll](/wiki/Trolls "Trolls")*
-        - *[Beorn](/wiki/Beorn)*
-        - *[Thranduil](/wiki/Thranduil)’s Wardens*
+        - *[Bilbo](../B/Bilbo.md) and [Troll](../T/Trolls.md)*
+        - *[Beorn](../B/Beorn.md)*
+        - *[Thranduil](../T/Thranduil.md)’s Wardens*
         - *In Search of the Treasure*
-        - *[Smaug](/wiki/Smaug)*
+        - *[Smaug](../S/Smaug.md)*
     - By Jarek Nocoń
-        - *[Balrog](/wiki/Balrog)*
+        - *[Balrog](../B/Balrog.md)*
     - By Maciek Wygnański 'Isilion'
-        - *[Lonely Mountain](/wiki/Lonely_Mountain)*
-        - *[Thorin](/wiki/Thorin) and [Roäc](/wiki/Ro%C3%A4c)*
-        - *[Eöl](/wiki/E%C3%B6l)*
+        - *[Lonely Mountain](../L/Lonely_Mountain.md)*
+        - *[Thorin](../T/Thorin.md) and [Roäc](../R/Roäc.md)*
+        - *[Eöl](../E/Eöl.md)*
 
 ## List of *Aiglos Special Issue I* editors {#List_of_Aiglos_Special_Issue_I_editors}
 
-- Editor-in-chief - [Anna Adamczyk-Śliwińska 'Nifrodel'](/wiki/Anna_Adamczyk-%C5%9Aliwi%C5%84ska "Anna Adamczyk-Śliwińska")
-- Articles and essays - [Michał Leśniewski 'M.L.'](/wiki/Micha%C5%82_Le%C5%9Bniewski "Michał Leśniewski"), Tadeusz A. Olszański 'Halbarad Dúnadan'
-- Fan prose - ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel")
-- Translation editor - [Agnieszka Sylwanowicz 'Evermind HS Took'](/wiki/Agnieszka_Sylwanowicz "Agnieszka Sylwanowicz"), Bożena Mitko 'Nellelórë'
-- Graphics - ['Kasiopea'](/wiki/Catherine_Karina_Chmiel "Catherine Karina Chmiel"), [Karolina Stopa-Olszańska 'Melinir'](/wiki/Karolina_Stopa-Olsza%C5%84ska "Karolina Stopa-Olszańska"), Katarzyna Wojdak 'Avari'
-- Proof-reading - [Agnieszka Sylwanowicz](/wiki/Agnieszka_Sylwanowicz) 'Evermind HS Took', Bożena Mitko 'Nellelórë'
+- Editor-in-chief - [Anna Adamczyk-Śliwińska 'Nifrodel'](Anna_Adamczyk-Śliwińska.md)
+- Articles and essays - [Michał Leśniewski 'M.L.'](../M/Michał_Leśniewski.md), Tadeusz A. Olszański 'Halbarad Dúnadan'
+- Fan prose - ['Kasiopea'](../C/Catherine_Karina_Chmiel.md)
+- Translation editor - [Agnieszka Sylwanowicz 'Evermind HS Took'](Agnieszka_Sylwanowicz.md), Bożena Mitko 'Nellelórë'
+- Graphics - ['Kasiopea'](../C/Catherine_Karina_Chmiel.md), [Karolina Stopa-Olszańska 'Melinir'](../K/Karolina_Stopa-Olszańska.md), Katarzyna Wojdak 'Avari'
+- Proof-reading - [Agnieszka Sylwanowicz](Agnieszka_Sylwanowicz.md) 'Evermind HS Took', Bożena Mitko 'Nellelórë'
 - Typesetting - Tomasz Fruń 'Laisar'
 - Technical assistance - Marek Sliwiński 'elfy'
 - Occasional assistance - Stephen P. Keily<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## See also {#See_also}
 
-- [Aiglos Special Issue II](/wiki/Aiglos_Special_Issue_II)
-- [Issues of *Aiglos*](</wiki/Category:Aiglos_(journal)> "Category:Aiglos (journal)")
-- [Images of *Aiglos* issues](</wiki/Category:Images_of_Aiglos_(journal)> "Category:Images of Aiglos (journal)")
+- [Aiglos Special Issue II](Aiglos_Special_Issue_II.md)
+- [Issues of *Aiglos*](<../../category/A/Aiglos_(journal).md>)
+- [Images of *Aiglos* issues](<../../category/I/Images_of_Aiglos_(journal).md>)
 
 ## External links {#External_links}
 

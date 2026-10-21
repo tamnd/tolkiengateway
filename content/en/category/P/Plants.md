@@ -1,6 +1,5 @@
 ---
 title: "Category:Plants"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Plants</span>"
 page_id: 2615
 namespace: 14
 revision_id: 368057

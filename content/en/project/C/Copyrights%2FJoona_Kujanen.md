@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Joona Kujanen"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Joona Kujanen</span>"
 page_id: 41438
 namespace: 4
 revision_id: 210584
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kujanen, Joona"
 ---
 
-- Joona Kujanen has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Joona_Kujanen "Category:Images by Joona Kujanen") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Joona Kujanen has kindly granted his permission to use [his artwork](../../category/I/Images_by_Joona_Kujanen.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 14 September 2012
-- User who sought the permission via DeviantArt: [User:Amroth](/wiki/User:Amroth)
+- User who sought the permission via DeviantArt: [User:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

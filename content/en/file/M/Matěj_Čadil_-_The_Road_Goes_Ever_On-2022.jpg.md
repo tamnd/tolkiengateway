@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matěj Čadil - The Road Goes Ever On-2023.jpg"
 ---
 
-Redirect to [File:Matěj Čadil - The Road Goes Ever On-2023.jpg](/wiki/File:Matěj_Čadil_-_The_Road_Goes_Ever_On-2023.jpg).
+Redirect to [File:Matěj Čadil - The Road Goes Ever On-2023.jpg](Matěj_Čadil_-_The_Road_Goes_Ever_On-2023.jpg.md).

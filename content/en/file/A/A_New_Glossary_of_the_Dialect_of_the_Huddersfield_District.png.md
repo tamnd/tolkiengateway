@@ -1,6 +1,5 @@
 ---
 title: "File:A New Glossary of the Dialect of the Huddersfield District.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A New Glossary of the Dialect of the Huddersfield District.png</span>"
 page_id: 37679
 namespace: 6
 revision_id: 369843

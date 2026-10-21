@@ -1,6 +1,5 @@
 ---
 title: "File:Svirina Vera - Nerdanel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Svirina Vera - Nerdanel.jpg</span>"
 page_id: 56434
 namespace: 6
 revision_id: 307187
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Nerdanel](/wiki/Nerdanel), by Svirina Vera.
+Image of [Nerdanel](../../main/N/Nerdanel.md), by Svirina Vera.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Image of [Nerdanel](/wiki/Nerdanel), by Svirina Vera.
 </p>
 <ul><li><b>Name:</b> Svirina Vera</li>
 <li><b>Website:</b> <a class="external text" href="http://www.deviantart.com/periannart" rel="noreferrer noopener" target="_blank">Periannart in DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Svirina_Vera" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSvirina_Vera.md" title="Tolkien Gateway:Copyrights/Svirina Vera">Permission for use on Tolkien Gateway</a></b></li></ul></div>

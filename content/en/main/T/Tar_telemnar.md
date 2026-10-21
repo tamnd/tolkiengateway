@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ar-Gimilzôr"
 ---
 
-Redirect to [Ar-Gimilzôr](/wiki/Ar-Gimilzôr).
+Redirect to [Ar-Gimilzôr](../A/Ar-Gimilzôr.md).

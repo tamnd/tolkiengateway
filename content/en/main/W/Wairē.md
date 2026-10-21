@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vairë"
 ---
 
-Redirect to [Vairë](/wiki/Vairë).
+Redirect to [Vairë](../V/Vairë.md).

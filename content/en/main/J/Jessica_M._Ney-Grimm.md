@@ -1,6 +1,5 @@
 ---
 title: "Jessica M. Ney-Grimm"
-display_title: "<span class=\"mw-page-title-main\">Jessica M. Ney-Grimm</span>"
 page_id: 25788
 namespace: 0
 revision_id: 406045
@@ -19,22 +18,22 @@ sort_keys:
   "People by name": "Ney-Grimm, Jessica M."
 ---
 
-**Jessica M. Ney-Grimm** is an American role-playing game editor and author. In the 1980s and 1990s, she worked extensively with [ICE](/wiki/Iron_Crown_Enterprises "Iron Crown Enterprises")'s product lines related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s legendarium.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jessica M. Ney-Grimm** is an American role-playing game editor and author. In the 1980s and 1990s, she worked extensively with [ICE](../I/Iron_Crown_Enterprises.md)'s product lines related to [J.R.R. Tolkien](J.R.R._Tolkien.md)'s legendarium.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography {#Bibliography}
 
-Selected bibliography of works concerned with the legendarium of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Selected bibliography of works concerned with the legendarium of [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
-- [1985](/wiki/1985): *[Riddle of the Ring](/wiki/Riddle_of_the_Ring)*
-- [1985](/wiki/1985): *[Haunted Ruins of the Dunlendings](/wiki/Haunted_Ruins_of_the_Dunlendings)*
-- [1986](/wiki/1986): <i><a class="new" href="/w/index.php?title=Iffg%C3%BBld%27s_Keep_(Adventurers_Club_Magazine&amp;action=edit&amp;redlink=1" title="Iffgûld&#39;s Keep (Adventurers Club Magazine (page does not exist)">Iffgûld&#39;s Keep (Adventurers Club Magazine#08)</a></i>
-- [1988](/wiki/1988): *[A Spy In Isengard](/wiki/A_Spy_In_Isengard)*
-- [1989](/wiki/1989): *[Lords of Middle-earth: Vol. III](/wiki/Lords_of_Middle-earth:_Vol._III)*
-- [1990](/wiki/1990): *[Angus McBride's Characters of Middle-earth](/wiki/Angus_McBride%27s_Characters_of_Middle-earth)*
-- [1991](/wiki/1991): *[Lord of the Rings Adventure Game (Boxed Set)](</wiki/Lord_of_the_Rings_Adventure_Game_(Boxed_Set)>)*
-- [1993](/wiki/1993): *[Middle-earth Campaign Guide](/wiki/Middle-earth_Campaign_Guide)*
-- [1993](/wiki/1993): *[Over the Misty Mountains Cold](/wiki/Over_the_Misty_Mountains_Cold)*
-- [1997](/wiki/1997): *[Middle-earth: The Lidless Eye Companion](/wiki/Middle-earth:_The_Lidless_Eye_Companion)*
+- [1985](../_/1985.md): *[Riddle of the Ring](../R/Riddle_of_the_Ring.md)*
+- [1985](../_/1985.md): *[Haunted Ruins of the Dunlendings](../H/Haunted_Ruins_of_the_Dunlendings.md)*
+- [1986](../_/1986.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Iffg%C3%BBld%27s_Keep_(Adventurers_Club_Magazine&amp;action=edit&amp;redlink=1" title="Iffgûld&#39;s Keep (Adventurers Club Magazine (page does not exist)">Iffgûld&#39;s Keep (Adventurers Club Magazine#08)</a></i>
+- [1988](../_/1988.md): *[A Spy In Isengard](../A/A_Spy_In_Isengard.md)*
+- [1989](../_/1989.md): *[Lords of Middle-earth: Vol. III](../L/Lords_of_Middle-earth%253A_Vol._III.md)*
+- [1990](../_/1990.md): *[Angus McBride's Characters of Middle-earth](../A/Angus_McBride's_Characters_of_Middle-earth.md)*
+- [1991](../_/1991.md): *[Lord of the Rings Adventure Game (Boxed Set)](<../L/Lord_of_the_Rings_Adventure_Game_(Boxed_Set).md>)*
+- [1993](../_/1993.md): *[Middle-earth Campaign Guide](../M/Middle-earth_Campaign_Guide.md)*
+- [1993](../_/1993.md): *[Over the Misty Mountains Cold](../O/Over_the_Misty_Mountains_Cold.md)*
+- [1997](../_/1997.md): *[Middle-earth: The Lidless Eye Companion](../M/Middle-earth%253A_The_Lidless_Eye_Companion.md)*
 
 <span></span>
 

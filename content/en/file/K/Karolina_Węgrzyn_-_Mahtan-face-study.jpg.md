@@ -1,6 +1,5 @@
 ---
 title: "File:Karolina Węgrzyn - Mahtan-face-study.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Karolina Węgrzyn - Mahtan-face-study.jpg</span>"
 page_id: 23194
 namespace: 6
 revision_id: 203563
@@ -29,15 +28,13 @@ file:
 
 <i><b>Mahtan (face study)</b></i>
 
-[Mahtan](/wiki/Mahtan), a great smith among the [Eldar](/wiki/Eldar).
+[Mahtan](../../main/M/Mahtan.md), a great smith among the [Eldar](../../main/E/Eldar.md).
 
-<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><style data-mw-deduplicate="TemplateStyles:r395753">.mw-parser-output .tg-section-divider{margin-top:1rem;margin-bottom:0.5rem;color:var(--tg-color-subtle);display:flex;align-items:center;justify-content:space-between}.mw-parser-output .tg-section-divider:not(:empty){gap:1rem;white-space:nowrap}.mw-parser-output .tg-section-divider::before,.mw-parser-output .tg-section-divider::after{content:"";height:1px;width:100%;background-color:var(--tg-border-color-base)}</style><blockquote class="tg-quote noexcerpt">
-<p><a href="/wiki/Nerdanel" title="Nerdanel">Nerdanel</a>&#39;s father was an &#39;Aulendil&#39; [&gt; &#39;<a href="/wiki/Aulendur" title="Aulendur">Aulendur</a>&#39;], and became a great smith. He loved copper, and set it above gold. (...) he was most widely  known as  <a class="mw-redirect" href="/wiki/Urundil" title="Urundil">Urundil</a> &#39;copper-lover&#39;. He usually wore a band of copper about  his head. His hair was not as dark or black as was that of most of the <a href="/wiki/Noldor" title="Noldor">Noldor</a>, but brown, and had glints of coppery-red in it. Of Nerdanel&#39;s seven  children the oldest, and the twins (a very rare thing among the Eldar) had hair of this kind. The eldest also wore a copper circlet.
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
+<p><a href="../../main/N/Nerdanel.md" title="Nerdanel">Nerdanel</a>&#39;s father was an &#39;Aulendil&#39; [&gt; &#39;<a href="../../main/A/Aulendur.md" title="Aulendur">Aulendur</a>&#39;], and became a great smith. He loved copper, and set it above gold. (...) he was most widely  known as  <a class="mw-redirect" href="../../main/U/Urundil.md" title="Urundil">Urundil</a> &#39;copper-lover&#39;. He usually wore a band of copper about  his head. His hair was not as dark or black as was that of most of the <a href="../../main/N/Noldor.md" title="Noldor">Noldor</a>, but brown, and had glints of coppery-red in it. Of Nerdanel&#39;s seven  children the oldest, and the twins (a very rare thing among the Eldar) had hair of this kind. The eldest also wore a copper circlet.
 </p>
-<p class="tg-quote-footer"><cite> <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="/wiki/The_Shibboleth_of_F%C3%ABanor" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>, p. 366</cite></p>
-</blockquote><div class="tg-section-divider"></div><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395753"/></div>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
+<p class="tg-quote-footer"><cite> <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../../main/C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../../main/T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../../main/T/The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a>, p. 366</cite></p>
+</blockquote><div class="tg-section-divider"></div></div>
 
 <b>Art © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a></b>
 
@@ -46,8 +43,8 @@ Uploaded by the artist. Do not use it outside of Tolkien Gateway without artist'
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Karolina Węgrzyn</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a></li>
+<ul><li><b>Name:</b> <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a></li>
 <li><b>Website:</b> <a class="external text" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">Karolina Węgrzyn&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Karolina_W%C4%99grzyn" title="Tolkien Gateway:Copyrights/Karolina Węgrzyn">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKarolina_Węgrzyn.md" title="Tolkien Gateway:Copyrights/Karolina Węgrzyn">Permission for use on Tolkien Gateway</a></b></li></ul></div>

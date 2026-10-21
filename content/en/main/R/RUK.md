@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "RUKU"
 ---
 
-Redirect to [RUKU](/wiki/RUKU).
+Redirect to [RUKU](RUKU.md).

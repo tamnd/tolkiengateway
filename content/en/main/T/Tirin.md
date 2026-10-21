@@ -14,7 +14,7 @@ categories:
   - "Qenya nouns"
 ---
 
-<i><b>tirin</b></i> is both a [Qenya](/wiki/Qenya) and [Gnomish](/wiki/Gnomish) noun applied to towers.<sup id="cite_ref-Kortirion_1-0" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+<i><b>tirin</b></i> is both a [Qenya](../Q/Qenya.md) and [Gnomish](../G/Gnomish.md) noun applied to towers.<sup id="cite_ref-Kortirion_1-0" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
 
 ## Qenya {#Qenya}
 
@@ -22,27 +22,27 @@ categories:
 
 ### Examples {#Examples}
 
-- <i><a href="/wiki/Estirin" title="Estirin">Es<b>tirin</b></a></i> = "Outer Tower"
-- <i><a class="mw-redirect" href="/wiki/Ingil%27s_Tirin" title="Ingil&#39;s Tirin">Ingil&#39;s <b>Tirin</b></a></i> = "Tower of Ingil"
+- <i><a href="../E/Estirin.md" title="Estirin">Es<b>tirin</b></a></i> = "Outer Tower"
+- <i><a class="mw-redirect" href="../I/Ingil&#39;s_Tirin.md" title="Ingil&#39;s Tirin">Ingil&#39;s <b>Tirin</b></a></i> = "Tower of Ingil"
 
 ## Gnomish {#Gnomish}
 
-*tirin* in Gnomish means "watch-tower, turret, tower".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The Qenya cognate was *[tirion](/wiki/Tirion "Tirion")*.<sup id="cite_ref-Kortirion_1-1" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
+*tirin* in Gnomish means "watch-tower, turret, tower".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> The Qenya cognate was *[tirion](Tirion.md)*.<sup id="cite_ref-Kortirion_1-1" class="reference"><a href="#cite_note-Kortirion-1">[1]</a></sup>
 
 ### Examples {#Examples_2}
 
-- <i><a class="mw-redirect" href="/wiki/Tirimbrithla" title="Tirimbrithla"><b>Tirim</b>brithla</a></i> = "Tower of Pearl"
-- <i><a href="/wiki/Tirin_na_Gilweth" title="Tirin na Gilweth"><b>Tirin</b> na Gilweth</a></i> = "Tower of Gilweth"
+- <i><a class="mw-redirect" href="Tirimbrithla.md" title="Tirimbrithla"><b>Tirim</b>brithla</a></i> = "Tower of Pearl"
+- <i><a href="Tirin_na_Gilweth.md" title="Tirin na Gilweth"><b>Tirin</b> na Gilweth</a></i> = "Tower of Gilweth"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Kortirion-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kortirion_1-0">1.0</a></sup> <sup><a href="#cite_ref-Kortirion_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;<a href="/wiki/Kortirion" title="Kortirion">Kortirion</a>&#34;</span>
+<li id="cite_note-Kortirion-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Kortirion_1-0">1.0</a></sup> <sup><a href="#cite_ref-Kortirion_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;<a href="../K/Kortirion.md" title="Kortirion">Kortirion</a>&#34;</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="/wiki/Parma_Eldalamberon_12" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 93</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Qenyaqetsa: The Qenya Phonology and Lexicon&#34;, in <a href="../P/Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> XII</a> (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>, <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 93</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="/wiki/Parma_Eldalamberon_11" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 71</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="../P/Parma_Eldalamberon_11.md" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), p. 71</span>
 </li>
 </ol></div>

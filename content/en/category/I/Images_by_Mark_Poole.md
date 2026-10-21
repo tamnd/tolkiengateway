@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Mark Poole"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Mark Poole</span>"
 page_id: 28652
 namespace: 14
 revision_id: 423114
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Poole, Mark"
 ---
 
-This category lists all **images by [Mark Poole](/wiki/Mark_Poole)**.
+This category lists all **images by [Mark Poole](../../main/M/Mark_Poole.md)**.

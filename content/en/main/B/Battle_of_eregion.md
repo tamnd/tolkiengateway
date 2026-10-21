@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sack of Eregion"
 ---
 
-Redirect to [Sack of Eregion](/wiki/Sack_of_Eregion).
+Redirect to [Sack of Eregion](../S/Sack_of_Eregion.md).

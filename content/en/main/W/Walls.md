@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Walls"
 ---
 
-Redirect to [Category:Walls](/wiki/Category:Walls).
+Redirect to [Category:Walls](../../category/W/Walls.md).

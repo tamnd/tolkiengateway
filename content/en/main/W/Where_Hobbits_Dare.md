@@ -13,4 +13,4 @@ categories:
   - "Cancelled video games"
 ---
 
-**Where Hobbits Dare** is a cancelled video game. It was to be the planned successor of [The Hobbit](</wiki/The_Hobbit_(1982_video_game)> "The Hobbit (1982 video game)") from [Beam Software](/wiki/Melbourne_House "Melbourne House"). It was, however, never published.
+**Where Hobbits Dare** is a cancelled video game. It was to be the planned successor of [The Hobbit](<../T/The_Hobbit_(1982_video_game).md>) from [Beam Software](../M/Melbourne_House.md). It was, however, never published.

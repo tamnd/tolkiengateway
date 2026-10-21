@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pirates of Pelargir"
 ---
 
-Redirect to [Pirates of Pelargir](/wiki/Pirates_of_Pelargir).
+Redirect to [Pirates of Pelargir](../P/Pirates_of_Pelargir.md).

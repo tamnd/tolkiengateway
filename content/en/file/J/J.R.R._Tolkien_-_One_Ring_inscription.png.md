@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - One Ring inscription.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - One Ring inscription.png</span>"
 page_id: 63871
 namespace: 6
 revision_id: 364107
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Ring-inscription](/wiki/Ring-inscription) as seen in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, "[The Shadow of the Past](/wiki/The_Shadow_of_the_Past)", drawn with [Tengwar](/wiki/Tengwar) by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+The [Ring-inscription](../../main/R/Ring-inscription.md) as seen in *[The Lord of the Rings](../../main/T/The_Lord_of_the_Rings.md)*, "[The Shadow of the Past](../../main/T/The_Shadow_of_the_Past.md)", drawn with [Tengwar](../../main/T/Tengwar.md) by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).
 
 ## Licensing {#Licensing}
 

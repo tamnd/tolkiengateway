@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Cortney Skinner"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Cortney Skinner</span>"
 page_id: 45723
 namespace: 4
 revision_id: 241293
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Skinner, Cortney"
 ---
 
-- <a class="external text" href="http://www.cortneyskinner.com/" rel="noreferrer noopener" target="_blank">Cortney Skinner</a> has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Cortney_Skinner "Category:Images by Cortney Skinner") produced for the [MECCG](/wiki/Middle-earth_Collectible_Card_Game "Middle-earth Collectible Card Game") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- <a class="external text" href="http://www.cortneyskinner.com/" rel="noreferrer noopener" target="_blank">Cortney Skinner</a> has kindly granted his permission to use [his artwork](../../category/I/Images_by_Cortney_Skinner.md) produced for the [MECCG](../../main/M/Middle-earth_Collectible_Card_Game.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 27 March 2014.
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

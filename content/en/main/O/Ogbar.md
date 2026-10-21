@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Whetting spell"
 ---
 
-Redirect to [Whetting spell](/wiki/Whetting_spell).
+Redirect to [Whetting spell](../W/Whetting_spell.md).

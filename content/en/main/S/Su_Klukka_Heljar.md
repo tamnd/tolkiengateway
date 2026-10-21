@@ -1,6 +1,5 @@
 ---
 title: "Su Klukka Heljar"
-display_title: "<span class=\"mw-page-title-main\">Su Klukka Heljar</span>"
 page_id: 63169
 namespace: 0
 revision_id: 357589
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Su Klukka Heljar** ("That Bell of Hell") is an Icelandic song by [E.V. Gordon](/wiki/E.V._Gordon), to be sung to the tune of *The Bells of Hell*. It is published as the 18th song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Su Klukka Heljar** ("That Bell of Hell") is an Icelandic song by [E.V. Gordon](../E/E.V._Gordon.md), to be sung to the tune of *The Bells of Hell*. It is published as the 18th song in *[Songs for the Philologists](Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

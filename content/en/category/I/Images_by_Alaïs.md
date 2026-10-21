@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alaïs"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alaïs</span>"
 page_id: 42519
 namespace: 14
 revision_id: 224380

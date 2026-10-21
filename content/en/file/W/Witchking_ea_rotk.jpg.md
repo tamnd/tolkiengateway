@@ -1,6 +1,5 @@
 ---
 title: "File:Witchking ea rotk.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Witchking ea rotk.jpg</span>"
 page_id: 20037
 namespace: 6
 revision_id: 437889
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Witch-king](/wiki/Witch-king) of [Angmar](/wiki/Angmar), from *[EA's The Return of the King](/wiki/EA%27s_The_Return_of_the_King)*. The game uses an early helmet design.
+The [Witch-king](../../main/W/Witch-king.md) of [Angmar](../../main/A/Angmar.md), from *[EA's The Return of the King](../../main/E/EA's_The_Return_of_the_King.md)*. The game uses an early helmet design.
 
 ## Licensing {#Licensing}
 

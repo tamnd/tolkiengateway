@@ -1,6 +1,5 @@
 ---
 title: "Looney"
-display_title: "<span class=\"mw-page-title-main\">Looney</span>"
 page_id: 14386
 namespace: 0
 revision_id: 424984
@@ -13,8 +12,8 @@ categories:
   - "Poems in The Adventures of Tom Bombadil"
 ---
 
-**Looney** is a poem written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) in 1934 and published on [18 January](/wiki/18_January) [1934](/wiki/1934) within *The Oxford Magazine* Vol 52, No. 9, on page 340.
+**Looney** is a poem written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) in 1934 and published on [18 January](../_/18_January.md) [1934](../_/1934.md) within *The Oxford Magazine* Vol 52, No. 9, on page 340.
 
 ## See also {#See_also}
 
-- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+- [Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lost Road and Other Writings"
 ---
 
-Redirect to [The Lost Road and Other Writings](/wiki/The_Lost_Road_and_Other_Writings).
+Redirect to [The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md).

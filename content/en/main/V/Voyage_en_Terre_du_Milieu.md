@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien: Voyage en Terre du Milieu"
 ---
 
-Redirect to [Tolkien: Voyage en Terre du Milieu](/wiki/Tolkien:_Voyage_en_Terre_du_Milieu).
+Redirect to [Tolkien: Voyage en Terre du Milieu](../T/Tolkien%253A_Voyage_en_Terre_du_Milieu.md).

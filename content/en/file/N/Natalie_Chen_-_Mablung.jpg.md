@@ -1,6 +1,5 @@
 ---
 title: "File:Natalie Chen - Mablung.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Natalie Chen - Mablung.jpg</span>"
 page_id: 58583
 namespace: 6
 revision_id: 327107
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Image of [Mablung](/wiki/Mablung), by Natalie Chen.
+Image of [Mablung](../../main/M/Mablung.md), by Natalie Chen.
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Image of [Mablung](/wiki/Mablung), by Natalie Chen.
 </p>
 <ul><li><b>Name:</b> Natalie Chen</li>
 <li><b>Website:</b> <a class="external text" href="http://www.facebook.com/Egalmothofheavenlyarch" rel="noreferrer noopener" target="_blank">Memories of Gondolin on Facebook</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Natalie_Chen" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FNatalie_Chen.md" title="Tolkien Gateway:Copyrights/Natalie Chen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

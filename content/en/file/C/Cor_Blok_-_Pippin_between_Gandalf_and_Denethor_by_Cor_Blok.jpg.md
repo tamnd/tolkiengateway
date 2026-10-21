@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Pippin between Gandalf and Denethor by Cor Blok.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Pippin between Gandalf and Denethor by Cor Blok.jpg</span>"
 page_id: 71521
 namespace: 6
 revision_id: 426460

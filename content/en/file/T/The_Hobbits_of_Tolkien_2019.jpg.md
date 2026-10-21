@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbits of Tolkien 2019.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbits of Tolkien 2019.jpg</span>"
 page_id: 67521
 namespace: 6
 revision_id: 392220

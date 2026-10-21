@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Luis F. Bejarano"
 ---
 
-Redirect to [Luis F. Bejarano](/wiki/Luis_F._Bejarano).
+Redirect to [Luis F. Bejarano](Luis_F._Bejarano.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Gondor Avenger bolt thrower.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Gondor Avenger bolt thrower.gif</span>"
 page_id: 11797
 namespace: 6
 revision_id: 204131

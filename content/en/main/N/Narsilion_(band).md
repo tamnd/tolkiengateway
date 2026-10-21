@@ -16,14 +16,14 @@ categories:
   - "Spanish people"
 ---
 
-<i><b>Narsilion</b></i> is a [Spanish](/wiki/Spain "Spain") folk/darkwave/ethereal music group. Their music contains references to the [legendarium](/wiki/Legendarium "Legendarium") of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). The name refers to *[Narsilion](/wiki/Narsilion)*, the lay whose title is mentioned fleetingly in *[The Silmarillion](/wiki/The_Silmarillion)*.
+<i><b>Narsilion</b></i> is a [Spanish](../S/Spain.md) folk/darkwave/ethereal music group. Their music contains references to the [legendarium](../L/Legendarium.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). The name refers to *[Narsilion](Narsilion.md)*, the lay whose title is mentioned fleetingly in *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Discography {#Discography}
 
 - *Nerbeleth* (2004)
 - *Return to the Silver Forest* (2004)
 - *Arcadia* (2006)
-- *Namárië* (2008) (Contains the track *El Llanto de [Galadriel](/wiki/Galadriel)*)
+- *Namárië* (2008) (Contains the track *El Llanto de [Galadriel](../G/Galadriel.md)*)
 - *Elenna Nórë* (2011)
 
 ## External links {#External_links}

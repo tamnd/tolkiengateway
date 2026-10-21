@@ -1,6 +1,5 @@
 ---
 title: "File:Angelo Montanini - Eärcaraxë Ahunt.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Angelo Montanini - Eärcaraxë Ahunt.jpg</span>"
 page_id: 30094
 namespace: 6
 revision_id: 436951
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-*Eärcaraxë Ahunt* by [Angelo Montanini](/wiki/Angelo_Montanini).
+*Eärcaraxë Ahunt* by [Angelo Montanini](../../main/A/Angelo_Montanini.md).
 
 ## Licensing {#Licensing}
 

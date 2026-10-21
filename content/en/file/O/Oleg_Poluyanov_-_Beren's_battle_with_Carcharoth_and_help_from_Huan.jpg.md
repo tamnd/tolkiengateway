@@ -1,6 +1,5 @@
 ---
 title: "File:Oleg Poluyanov - Beren's battle with Carcharoth and help from Huan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Oleg Poluyanov - Beren&#039;s battle with Carcharoth and help from Huan.jpg</span>"
 page_id: 72072
 namespace: 6
 revision_id: 428809
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Beren](/wiki/Beren)'s [battle](/wiki/Hunting_of_the_Wolf "Hunting of the Wolf") with [Carcharoth](/wiki/Carcharoth) and help from [Huan](/wiki/Huan)" by [Oleg Poluyanov](/wiki/Category:Images_by_Oleg_Poluyanov "Category:Images by Oleg Poluyanov")
+"[Beren](../../main/B/Beren.md)'s [battle](../../main/H/Hunting_of_the_Wolf.md) with [Carcharoth](../../main/C/Carcharoth.md) and help from [Huan](../../main/H/Huan.md)" by [Oleg Poluyanov](../../category/I/Images_by_Oleg_Poluyanov.md)
 
 ## Licensing {#Licensing}
 
@@ -39,4 +38,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Oleg Poluyanov</li>
 <li><b>Website:</b> <a class="external text" href="https://oleg_poluyanov.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Oleg_Poluyanov" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOleg_Poluyanov.md" title="Tolkien Gateway:Copyrights/Oleg Poluyanov">Permission for use on Tolkien Gateway</a></b></li></ul></div>

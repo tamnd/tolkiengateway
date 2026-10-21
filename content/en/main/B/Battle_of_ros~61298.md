@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Rôs"
 ---
 
-Redirect to [Battle of Rôs](/wiki/Battle_of_Rôs).
+Redirect to [Battle of Rôs](Battle_of_Rôs.md).

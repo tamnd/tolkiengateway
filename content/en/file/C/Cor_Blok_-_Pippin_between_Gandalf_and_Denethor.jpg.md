@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Pippin between Gandalf and Denethor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Pippin between Gandalf and Denethor.jpg</span>"
 page_id: 71520
 namespace: 6
 revision_id: 426458
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Pippin](/wiki/Peregrin_Took "Peregrin Took") between [Gandalf](/wiki/Gandalf) and [Denethor](/wiki/Denethor)" by [Cor Blok](/wiki/Cor_Blok), created in [1959](/wiki/1959).
+"[Pippin](../../main/P/Peregrin_Took.md) between [Gandalf](../../main/G/Gandalf.md) and [Denethor](../../main/D/Denethor.md)" by [Cor Blok](../../main/C/Cor_Blok.md), created in [1959](../../main/_/1959.md).
 
 ## Licensing {#Licensing}
 

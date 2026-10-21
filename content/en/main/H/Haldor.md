@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haldir (disambiguation)"
 ---
 
-Redirect to [Haldir (disambiguation)](/wiki/Haldir_(disambiguation)).
+Redirect to [Haldir (disambiguation)](<Haldir_(disambiguation).md>).

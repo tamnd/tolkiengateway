@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: Origins of Middle-Earth"
 ---
 
-Redirect to [J.R.R. Tolkien: Origins of Middle-Earth](/wiki/J.R.R._Tolkien:_Origins_of_Middle-Earth).
+Redirect to [J.R.R. Tolkien: Origins of Middle-Earth](J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md).

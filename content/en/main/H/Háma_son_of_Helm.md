@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Háma (son of Helm)"
 ---
 
-Redirect to [Háma (son of Helm)](/wiki/Háma_(son_of_Helm)).
+Redirect to [Háma (son of Helm)](<Háma_(son_of_Helm).md>).

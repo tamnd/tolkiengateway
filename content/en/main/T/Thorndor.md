@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorondor"
 ---
 
-Redirect to [Thorondor](/wiki/Thorondor).
+Redirect to [Thorondor](Thorondor.md).

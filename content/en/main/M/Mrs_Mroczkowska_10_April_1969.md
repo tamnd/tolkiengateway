@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mrs Mroczkowska (10 April 1969)"
 ---
 
-Redirect to [Letter to Mrs Mroczkowska (10 April 1969)](/wiki/Letter_to_Mrs_Mroczkowska_(10_April_1969)).
+Redirect to [Letter to Mrs Mroczkowska (10 April 1969)](<../L/Letter_to_Mrs_Mroczkowska_(10_April_1969).md>).

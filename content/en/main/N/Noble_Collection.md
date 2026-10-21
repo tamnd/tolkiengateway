@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Noble Collection"
 ---
 
-Redirect to [The Noble Collection](/wiki/The_Noble_Collection).
+Redirect to [The Noble Collection](../T/The_Noble_Collection.md).

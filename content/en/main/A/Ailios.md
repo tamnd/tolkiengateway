@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gilfanon"
 ---
 
-Redirect to [Gilfanon](/wiki/Gilfanon).
+Redirect to [Gilfanon](../G/Gilfanon.md).

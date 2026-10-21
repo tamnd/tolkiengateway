@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Soronúmë"
 ---
 
-Redirect to [Soronúmë](/wiki/Soronúmë).
+Redirect to [Soronúmë](Soronúmë.md).

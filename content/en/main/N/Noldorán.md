@@ -11,4 +11,4 @@ redirect_target: "Finwë"
 redirect_fragment: "Other names and titles"
 ---
 
-Redirect to [Finwë](/wiki/Finwë#Other_names_and_titles).
+Redirect to [Finwë](../F/Finwë.md#Other_names_and_titles).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Túrin"
 ---
 
-Redirect to [Túrin](/wiki/Túrin).
+Redirect to [Túrin](Túrin.md).

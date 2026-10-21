@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haradrim"
 ---
 
-Redirect to [Haradrim](/wiki/Haradrim).
+Redirect to [Haradrim](../H/Haradrim.md).

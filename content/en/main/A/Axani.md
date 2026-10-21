@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Axan"
 ---
 
-Redirect to [Axan](/wiki/Axan).
+Redirect to [Axan](Axan.md).

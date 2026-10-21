@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Eärnur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Eärnur.jpg</span>"
 page_id: 57069
 namespace: 6
 revision_id: 324574

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hans-Jörg Modlmayr"
 ---
 
-Redirect to [Hans-Jörg Modlmayr](/wiki/Hans-Jörg_Modlmayr).
+Redirect to [Hans-Jörg Modlmayr](Hans-Jörg_Modlmayr.md).

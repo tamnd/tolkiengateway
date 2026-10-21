@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG - The Wizards Companion.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG - The Wizards Companion.jpeg</span>"
 page_id: 73548
 namespace: 6
 revision_id: 434767
@@ -34,15 +33,10 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Own scan</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

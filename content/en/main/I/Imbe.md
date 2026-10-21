@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Imbë"
 ---
 
-Redirect to [Imbë](/wiki/Imbë).
+Redirect to [Imbë](Imbë.md).

@@ -20,24 +20,24 @@ langlinks:
     url: "https://lotr.su/wiki/hl%C3%B3n"
 ---
 
-**hlón** or **hlóna** (pl. **hloni**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) means "sound", "a noise" in [Quenya](/wiki/Quenya)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**hlón** or **hlóna** (pl. **hloni**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) means "sound", "a noise" in [Quenya](../Q/Quenya.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-[PQ](/wiki/PQ) \**slonâ*, [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") \*S-LON
+[PQ](../P/PQ.md) \**slonâ*, [Root](../S/Sundocarmë.md) \*S-LON
 
 ## See also {#See_also}
 
-- <i><a class="new" href="/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a></i>
-- <i><a class="new" href="/w/index.php?title=Hlon%C3%ADta&amp;action=edit&amp;redlink=1" title="Hloníta (page does not exist)">hloníta</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ohlon&amp;action=edit&amp;redlink=1" title="Ohlon (page does not exist)">ohlon</a></i>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hlon%C3%ADta&amp;action=edit&amp;redlink=1" title="Hloníta (page does not exist)">hloníta</a></i>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, p.394</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, p.394</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_48" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p.29</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_48.md" title="Vinyar Tengwar 48"><i>Vinyar Tengwar</i>, Number 48</a>, December 2005, p.29</span>
 </li>
 </ol></div>

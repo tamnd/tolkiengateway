@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Rebecca Guay"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Rebecca Guay</span>"
 page_id: 35140
 namespace: 14
 revision_id: 182145

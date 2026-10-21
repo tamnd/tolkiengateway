@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "R.W. Chambers"
 ---
 
-Redirect to [R.W. Chambers](/wiki/R.W._Chambers).
+Redirect to [R.W. Chambers](R.W._Chambers.md).

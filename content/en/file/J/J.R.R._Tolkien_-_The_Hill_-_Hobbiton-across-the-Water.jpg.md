@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water.jpg</span>"
 page_id: 5799
 namespace: 6
 revision_id: 425987
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Wayne G. Hammond](/wiki/Wayne_G._Hammond) and [Christina Scull](/wiki/Christina_Scull) have noted that this drawing "has been published only in the first edition of *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* \[...\] a tracing Tolkien had made of the ink frontispiece \[of the first printing of *[The Hobbit](/wiki/The_Hobbit)*\] to transfer its outlines to a fresh sheet, on which he made the [watercolour version](</wiki/File:J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg> "File:J.R.R. Tolkien - The Hill - Hobbiton-across-the-Water (Colored).jpg")".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Wayne G. Hammond](../../main/W/Wayne_G._Hammond.md) and [Christina Scull](../../main/C/Christina_Scull.md) have noted that this drawing "has been published only in the first edition of *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* \[...\] a tracing Tolkien had made of the ink frontispiece \[of the first printing of *[The Hobbit](../../main/T/The_Hobbit.md)*\] to transfer its outlines to a fresh sheet, on which he made the [watercolour version](<J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Licensing {#Licensing}
 
@@ -44,6 +43,6 @@ file:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> (25 July 2017)</span>. <span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=2537&amp;viewmode=flat&amp;order=ASC&amp;type=&amp;mode=0&amp;start=5" rel="noreferrer noopener" target="_blank">&#34;Re: The Hill sketch&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Tolkien_Collector%27s_Guide" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 25 April 2017</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../../main/W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../../main/C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (25 July 2017)</span>. <span class="cite-web-article"><a class="external text" href="http://www.tolkienguide.com/modules/newbb/viewtopic.php?topic_id=2537&amp;viewmode=flat&amp;order=ASC&amp;type=&amp;mode=0&amp;start=5" rel="noreferrer noopener" target="_blank">&#34;Re: The Hill sketch&#34;</a></span>. <span class="cite-web-website"><a href="../../main/T/Tolkien_Collector&#39;s_Guide.md" title="Tolkien Collector&#39;s Guide">Tolkien Collector&#39;s Guide</a></span>. <span class="cite-web-accessed">Retrieved 25 April 2017</span></cite></span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Little House of Lost Play: Mar Vanwa Tyaliéva"
 ---
 
-Redirect to [The Little House of Lost Play: Mar Vanwa Tyaliéva](/wiki/The_Little_House_of_Lost_Play:_Mar_Vanwa_Tyaliéva).
+Redirect to [The Little House of Lost Play: Mar Vanwa Tyaliéva](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md).

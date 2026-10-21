@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Administrators"
 ---
 
-Redirect to [Tolkien Gateway:Administrators](/wiki/Tolkien_Gateway:Administrators).
+Redirect to [Tolkien Gateway:Administrators](Administrators.md).

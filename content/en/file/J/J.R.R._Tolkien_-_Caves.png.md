@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Caves.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Caves.png</span>"
 page_id: 66748
 namespace: 6
 revision_id: 386661
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Image from the [Letters from Father Christmas](/wiki/Letters_from_Father_Christmas), December 23rd 1932. Drawn by J.R.R. Tolkien ([Father Christmas](/wiki/Father_Christmas)) of the caves and [Mr Cave Bear](/wiki/Mr_Cave_Bear) (left), Father Christmas (middle) and the [North Polar Bear](/wiki/North_Polar_Bear) (right) exploring it.
+Image from the [Letters from Father Christmas](../../main/L/Letters_from_Father_Christmas.md), December 23rd 1932. Drawn by J.R.R. Tolkien ([Father Christmas](../../main/F/Father_Christmas.md)) of the caves and [Mr Cave Bear](../../main/M/Mr_Cave_Bear.md) (left), Father Christmas (middle) and the [North Polar Bear](../../main/N/North_Polar_Bear.md) (right) exploring it.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

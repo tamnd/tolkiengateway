@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ring-bearers"
 ---
 
-Redirect to [Ring-bearers](/wiki/Ring-bearers).
+Redirect to [Ring-bearers](Ring-bearers.md).

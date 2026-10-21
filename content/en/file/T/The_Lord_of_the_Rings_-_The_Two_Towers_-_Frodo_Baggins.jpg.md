@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Frodo Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Frodo Baggins.jpg</span>"
 page_id: 6337
 namespace: 6
 revision_id: 431902
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Elijah Wood](/wiki/Elijah_Wood) in <a class="new" href="/w/index.php?title=The_Lord_of_the_Rinsg:_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rinsg: The Two Towers (page does not exist)">The Lord of the Rinsg: The Two Towers</a>
+[Elijah Wood](../../main/E/Elijah_Wood.md) in <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rinsg:_The_Two_Towers&amp;action=edit&amp;redlink=1" title="The Lord of the Rinsg: The Two Towers (page does not exist)">The Lord of the Rinsg: The Two Towers</a>
 
 ## Licensing {#Licensing}
 

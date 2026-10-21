@@ -1,6 +1,5 @@
 ---
 title: "Wuthering Heights"
-display_title: "<span class=\"mw-page-title-main\">Wuthering Heights</span>"
 page_id: 21823
 namespace: 0
 revision_id: 416997
@@ -14,11 +13,11 @@ categories:
   - "Heavy metal"
 ---
 
-**Wuthering Heights** is a Danish heavy metal band, with a somewhat eclectic musical style which falls in somewhere between progressive, folk, and power metal. Their lyrics are inspired by the work of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Wuthering Heights** is a Danish heavy metal band, with a somewhat eclectic musical style which falls in somewhere between progressive, folk, and power metal. Their lyrics are inspired by the work of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## History {#History}
 
-The group formed in [1989](/wiki/1989) under the name Angelica. They changed their name to "Minas Tirith" for the release of a demo cassette, entitled *Tales From the Woods* in late [1992](/wiki/1992). By the release of their second demo in 1995 the band had again changed their name, to "Vergelmir". They were inactive in the studio for a few more years until, as "Wuthering Heights", they released the album *Within* in [1999](/wiki/1999). They followed this up with *To Travel For Evermore* in [2002](/wiki/2002) and *Far From the Madding Crowd* in [2004](/wiki/2004), which has received some critical acclaim amid the underground power metal and folk metal communities. In the summer of [2004](/wiki/2004) the band played outside Europe for the first time. The gig took place at the ProgPower festival in Atlanta, GA. The band's fourth release was *The Shadow Cabinet* from [2006](/wiki/2006).
+The group formed in [1989](../_/1989.md) under the name Angelica. They changed their name to "Minas Tirith" for the release of a demo cassette, entitled *Tales From the Woods* in late [1992](../_/1992.md). By the release of their second demo in 1995 the band had again changed their name, to "Vergelmir". They were inactive in the studio for a few more years until, as "Wuthering Heights", they released the album *Within* in [1999](../_/1999.md). They followed this up with *To Travel For Evermore* in [2002](../_/2002.md) and *Far From the Madding Crowd* in [2004](../_/2004.md), which has received some critical acclaim amid the underground power metal and folk metal communities. In the summer of [2004](../_/2004.md) the band played outside Europe for the first time. The gig took place at the ProgPower festival in Atlanta, GA. The band's fourth release was *The Shadow Cabinet* from [2006](../_/2006.md).
 
 ## Current line-up {#Current_line-up}
 
@@ -31,10 +30,10 @@ The group formed in [1989](/wiki/1989) under the name Angelica. They changed the
 
 ## Discography {#Discography}
 
-- [1999](/wiki/1999) - *Within*
-- [2002](/wiki/2002) - *To Travel for Evermore*
-- [2004](/wiki/2004) - *Far From the Madding Crowd*
-- [2006](/wiki/2006) - *The Shadow Cabinet*
+- [1999](../_/1999.md) - *Within*
+- [2002](../_/2002.md) - *To Travel for Evermore*
+- [2004](../_/2004.md) - *Far From the Madding Crowd*
+- [2006](../_/2006.md) - *The Shadow Cabinet*
 
 ## External links {#External_links}
 

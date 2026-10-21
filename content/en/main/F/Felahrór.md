@@ -11,4 +11,4 @@ redirect_target: "Finrod"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Finrod](/wiki/Finrod#Other_names).
+Redirect to [Finrod](Finrod.md#Other_names).

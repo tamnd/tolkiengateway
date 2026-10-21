@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Otto B. Lindhardt"
 ---
 
-Redirect to [Letter to Otto B. Lindhardt](/wiki/Letter_to_Otto_B._Lindhardt).
+Redirect to [Letter to Otto B. Lindhardt](../L/Letter_to_Otto_B._Lindhardt.md).

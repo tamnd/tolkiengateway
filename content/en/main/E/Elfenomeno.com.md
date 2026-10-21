@@ -1,6 +1,5 @@
 ---
 title: "Elfenomeno.com"
-display_title: "<span class=\"mw-page-title-main\">Elfenomeno.com</span>"
 page_id: 70028
 namespace: 0
 revision_id: 426004
@@ -22,11 +21,11 @@ langlinks:
     url: "https://kontu.wiki/Elfenomeno.com"
 ---
 
-**Elfenomeno.com** is a leading Spanish-language website dedicated to the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). Launched in 1999, it has become a significant resource for fans, researchers, and students of Tolkien’s legendarium. The site offers a wide range of content, including news, articles, an extensive online encyclopedia called the Fenopaedia, an interactive Map of Middle-Earth and a section of FAQs that has inspired published works.
+**Elfenomeno.com** is a leading Spanish-language website dedicated to the works of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Launched in 1999, it has become a significant resource for fans, researchers, and students of Tolkien’s legendarium. The site offers a wide range of content, including news, articles, an extensive online encyclopedia called the Fenopaedia, an interactive Map of Middle-Earth and a section of FAQs that has inspired published works.
 
 ## History {#History}
 
-Elfenomeno.com was established in 1999 by founder <a class="new" href="/w/index.php?title=Leandro_Pascual&amp;action=edit&amp;redlink=1" title="Leandro Pascual (page does not exist)">Leandro Pascual</a>, joined later by a group of Tolkien enthusiasts who aimed to create a comprehensive Spanish resource for exploring Tolkien’s world. Over the years, it has grown to become a key reference point for Spanish-speaking fans, even becoming part of the renowned TheOneRing.net community<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. The **Fenopaedia**, an ambitious online encyclopedia project, was launched in June 2004, pre-dating the creation of [Tolkien Gateway](/wiki/Tolkien_Gateway). Another notable achievement is the publication of the book *Tolkien: Preguntas frecuentes (y no tan frecuentes)*, which originated from the site’s FAQ section and was published by <a class="new" href="/w/index.php?title=Editorial_Minotauro&amp;action=edit&amp;redlink=1" title="Editorial Minotauro (page does not exist)">Editorial Minotauro</a>, the official publisher of Tolkien’s works in [Spain](/wiki/Spain).
+Elfenomeno.com was established in 1999 by founder <a class="new" href="https://tolkiengateway.net/w/index.php?title=Leandro_Pascual&amp;action=edit&amp;redlink=1" title="Leandro Pascual (page does not exist)">Leandro Pascual</a>, joined later by a group of Tolkien enthusiasts who aimed to create a comprehensive Spanish resource for exploring Tolkien’s world. Over the years, it has grown to become a key reference point for Spanish-speaking fans, even becoming part of the renowned TheOneRing.net community<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. The **Fenopaedia**, an ambitious online encyclopedia project, was launched in June 2004, pre-dating the creation of [Tolkien Gateway](../T/Tolkien_Gateway.md). Another notable achievement is the publication of the book *Tolkien: Preguntas frecuentes (y no tan frecuentes)*, which originated from the site’s FAQ section and was published by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Editorial_Minotauro&amp;action=edit&amp;redlink=1" title="Editorial Minotauro (page does not exist)">Editorial Minotauro</a>, the official publisher of Tolkien’s works in [Spain](../S/Spain.md).
 
 Elfenomeno.com celebrated its 25th anniversary in 2024 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> with a complete redesign of the website, incorporating modern frameworks, improved mobile compatibility, and enhanced user experience features. The site’s relaunch included updated functionalities, such as genealogical trees for all the characters in the encyclopedia<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, Chronicles of the Middle-earth<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and expanded social media presence.
 
@@ -34,11 +33,11 @@ In October 2026 most of the contents of the website were translated to English, 
 
 ## Publications {#Publications}
 
-- [Tolkien: Preguntas frecuentes (y no tan frecuentes)](</wiki/Tolkien:_Preguntas_frecuentes_(y_no_tan_frecuentes)>), Editorial Minotauro, 2004: This book had its origins in the FAQs section of Elfenomeno.com and provides insights and answers to common and uncommon questions about Tolkien’s works.
+- [Tolkien: Preguntas frecuentes (y no tan frecuentes)](<../T/Tolkien%253A_Preguntas_frecuentes_(y_no_tan_frecuentes).md>), Editorial Minotauro, 2004: This book had its origins in the FAQs section of Elfenomeno.com and provides insights and answers to common and uncommon questions about Tolkien’s works.
 
 - <a class="external text" href="https://www.elfenomeno.com/menu/top/fenopaedia" rel="noreferrer noopener" target="_blank">Fenopaedia</a>: The largest Spanish online encyclopedia with detailed entries about the geography, characters, languages, and history of Middle-earth.
 
-- <a class="new" href="/w/index.php?title=El_Hobbit:_Gu%C3%ADa_de_Lectura&amp;action=edit&amp;redlink=1" title="El Hobbit: Guía de Lectura (page does not exist)">El Hobbit: Guía de Lectura</a>, Espasa Calpe, 2006: This Spanish edition of The Hobbit includes the full text of the novel alongside an introduction and a reading guide written by [Paola Castagno](/wiki/Paola_Castagno), a Tolkien specialist from Elfenomeno.com.
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=El_Hobbit:_Gu%C3%ADa_de_Lectura&amp;action=edit&amp;redlink=1" title="El Hobbit: Guía de Lectura (page does not exist)">El Hobbit: Guía de Lectura</a>, Espasa Calpe, 2006: This Spanish edition of The Hobbit includes the full text of the novel alongside an introduction and a reading guide written by [Paola Castagno](../P/Paola_Castagno.md), a Tolkien specialist from Elfenomeno.com.
 
 ## External links {#External_links}
 

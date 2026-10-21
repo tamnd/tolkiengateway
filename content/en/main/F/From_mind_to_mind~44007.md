@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "From Mind to Mind"
 ---
 
-Redirect to [From Mind to Mind](/wiki/From_Mind_to_Mind).
+Redirect to [From Mind to Mind](From_Mind_to_Mind.md).

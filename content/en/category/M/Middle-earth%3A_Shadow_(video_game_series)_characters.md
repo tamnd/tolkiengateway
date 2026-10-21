@@ -1,6 +1,5 @@
 ---
 title: "Category:Middle-earth: Shadow (video game series) characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth: Shadow (video game series) characters</span>"
 page_id: 60730
 namespace: 14
 revision_id: 340713

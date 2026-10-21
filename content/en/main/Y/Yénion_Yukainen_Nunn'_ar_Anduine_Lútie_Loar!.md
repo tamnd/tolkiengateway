@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Loä Yukainen avar Anduinë Sí Valútier"
 ---
 
-Redirect to [Loä Yukainen avar Anduinë Sí Valútier](/wiki/Loä_Yukainen_avar_Anduinë_Sí_Valútier).
+Redirect to [Loä Yukainen avar Anduinë Sí Valútier](https://tolkiengateway.net/wiki/Loä_Yukainen_avar_Anduinë_Sí_Valútier).

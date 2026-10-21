@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Tower of Snow"
 ---
 
-Redirect to [House of the Tower of Snow](/wiki/House_of_the_Tower_of_Snow).
+Redirect to [House of the Tower of Snow](../H/House_of_the_Tower_of_Snow.md).

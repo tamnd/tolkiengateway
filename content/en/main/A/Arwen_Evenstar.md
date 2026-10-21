@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arwen"
 ---
 
-Redirect to [Arwen](/wiki/Arwen).
+Redirect to [Arwen](Arwen.md).

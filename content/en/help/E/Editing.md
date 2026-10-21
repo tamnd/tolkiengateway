@@ -1,6 +1,5 @@
 ---
 title: "Help:Editing"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Editing</span>"
 page_id: 976
 namespace: 12
 revision_id: 439037
@@ -20,7 +19,7 @@ images:
 
 For those users not familiar with **editing** a Wiki, this page lists some basic syntax. For a full list, see: <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:Cheatsheet" title="wikipedia:Wikipedia:Cheatsheet">Wikipedia&#39;s Cheatsheet</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Help:Wiki_markup" title="wikipedia:Help:Wiki markup">Markup reference</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page" title="wikipedia:Wikipedia:How to edit a page">&#34;How to edit a Wiki page&#34;</a>
 
-[Tolkien Gateway](/wiki/Tolkien_Gateway) has set standards for the use of syntax. Please read *[Tolkien Gateway:Manual of Style](/wiki/Tolkien_Gateway:Manual_of_Style)* before contributing. You can try out at our [Sandbox](/wiki/Tolkien_Gateway:Sandbox "Tolkien Gateway:Sandbox").
+[Tolkien Gateway](../../main/T/Tolkien_Gateway.md) has set standards for the use of syntax. Please read *[Tolkien Gateway:Manual of Style](../../project/M/Manual_of_Style.md)* before contributing. You can try out at our [Sandbox](../../project/S/Sandbox.md).
 
 <div align="center" style="overflow-x:auto;">
 <table align="center" style="width:100%; border:2px var(--tg-color-surface-5) solid; text-align:left;">
@@ -87,8 +86,8 @@ For those users not familiar with **editing** a Wiki, this page lists some basic
 </p>
 </td>
 <td style="background:var(--tg-color-surface-1);">
-<p><a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a><br/>
-<a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a>
+<p><a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a><br/>
+<a href="../../main/B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>
 </p>
 </td></tr>
 <tr>
@@ -120,7 +119,7 @@ For those users not familiar with **editing** a Wiki, this page lists some basic
 </tt><p><tt>Source used more than once:&lt;ref name=&#34;tralala&#34;&gt;Source 2&lt;/ref&gt;<br/>
 Reusing such a note: &lt;ref name=&#34;tralala&#34;/&gt;</tt>
 </p>
-<div style="padding: 0em .5em; font-size:0.9em;"><i>(at the end of the article, type {{<a href="/wiki/Template:References" title="Template:References">references</a>}}</i>
+<div style="padding: 0em .5em; font-size:0.9em;"><i>(at the end of the article, type {{<a href="https://tolkiengateway.net/wiki/Template:References" title="Template:References">references</a>}}</i>
 </div></td>
 <td style="background:var(--tg-color-surface-1);">Simple: Fact<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><br/>
 <p>Source used more than once:<sup id="cite_ref-tralala_2-0" class="reference"><a href="#cite_note-tralala-2">[2]</a></sup><br/>
@@ -196,14 +195,14 @@ Reusing such a note: <sup id="cite_ref-tralala_2-1" class="reference"><a href="#
 </td></tr>
 <tr>
 <td style="background:var(--tg-color-surface-1);">Thumbnail image<br/>
-<div style="padding: 0em .5em; font-size:0.9em;"><i>See also <a href="/wiki/Help:Images" title="Help:Images">Help: Images</a>.</i></div>
+<div style="padding: 0em .5em; font-size:0.9em;"><i>See also <a href="../I/Images.md" title="Help:Images">Help: Images</a>.</i></div>
 </td>
 <td style="background:var(--tg-color-surface-1);">
 <p><tt>[[File:J.R.R. Tolkien - G for Gandalf.png|thumb|Gandalf&#39;s signature, the rune &#34;G&#34;.]]</tt>
 </p>
 </td>
 <td style="background:var(--tg-color-surface-1);">
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_G_for_Gandalf.png"><img src="/w/images/8/84/J.R.R._Tolkien_-_G_for_Gandalf.png" decoding="async" loading="lazy" width="90" height="129" class="mw-file-element" data-file-width="90" data-file-height="129"/></a><figcaption>Gandalf&#39;s signature, the rune &#34;G&#34;.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_G_for_Gandalf.png.md"><img src="https://tolkiengateway.net/w/images/8/84/J.R.R._Tolkien_-_G_for_Gandalf.png" decoding="async" loading="lazy" width="90" height="129" class="mw-file-element" data-file-width="90" data-file-height="129"/></a><figcaption>Gandalf&#39;s signature, the rune &#34;G&#34;.</figcaption></figure>
 </td></tr>
 <tr>
 <td colspan="3" style="border-top:1px solid var(--tg-color-surface-5);">
@@ -228,4 +227,4 @@ Goes here
 
 ## Useful pages {#Useful_pages}
 
-[Tolkien Gateway:Design system](/wiki/Tolkien_Gateway:Design_system)<br> [Category:Linguistic templates](/wiki/Category:Linguistic_templates)<br> [Category:Infobox templates](/wiki/Category:Infobox_templates)<br>
+[Tolkien Gateway:Design system](../../project/D/Design_system.md)<br> [Category:Linguistic templates](../../category/L/Linguistic_templates.md)<br> [Category:Infobox templates](../../category/I/Infobox_templates.md)<br>

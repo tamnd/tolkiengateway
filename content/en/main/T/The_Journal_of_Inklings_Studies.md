@@ -27,7 +27,7 @@ In this way, it seeks to contribute to the reception of these thinkers in theolo
 
 ## See also {#See_also}
 
-- [Journal of Inklings Studies, vol.4 no.2](/wiki/Journal_of_Inklings_Studies,_vol.4_no.2)
+- [Journal of Inklings Studies, vol.4 no.2](../J/Journal_of_Inklings_Studies,_vol.4_no.2.md)
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Witch King on a Fell beast.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Witch King on a Fell beast.gif</span>"
 page_id: 11951
 namespace: 6
 revision_id: 204136

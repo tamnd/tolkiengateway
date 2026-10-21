@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mae"
 ---
 
-Redirect to [Mae](/wiki/Mae).
+Redirect to [Mae](../M/Mae.md).

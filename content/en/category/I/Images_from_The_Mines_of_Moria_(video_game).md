@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from The Mines of Moria (video game)"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from The Mines of Moria (video game)</span>"
 page_id: 25652
 namespace: 14
 revision_id: 261048

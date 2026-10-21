@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Andrea Piparo - The Black Easterling.jpg"
 ---
 
-Redirect to [File:Andrea Piparo - The Black Easterling.jpg](/wiki/File:Andrea_Piparo_-_The_Black_Easterling.jpg).
+Redirect to [File:Andrea Piparo - The Black Easterling.jpg](Andrea_Piparo_-_The_Black_Easterling.jpg.md).

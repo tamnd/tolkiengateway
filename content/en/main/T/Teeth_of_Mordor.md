@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Towers of the Teeth"
 ---
 
-Redirect to [Towers of the Teeth](/wiki/Towers_of_the_Teeth).
+Redirect to [Towers of the Teeth](Towers_of_the_Teeth.md).

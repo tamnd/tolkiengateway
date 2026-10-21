@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Finwë"
 ---
 
-Redirect to [House of Finwë](/wiki/House_of_Finwë).
+Redirect to [House of Finwë](House_of_Finwë.md).

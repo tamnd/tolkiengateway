@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Winyamo"
 ---
 
-Redirect to [Winyamo](/wiki/Winyamo).
+Redirect to [Winyamo](../W/Winyamo.md).

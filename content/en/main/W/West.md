@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "West (disambiguation)"
 ---
 
-Redirect to [West (disambiguation)](/wiki/West_(disambiguation)).
+Redirect to [West (disambiguation)](<West_(disambiguation).md>).

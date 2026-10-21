@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadows of Mordor"
 ---
 
-Redirect to [Shadows of Mordor](/wiki/Shadows_of_Mordor).
+Redirect to [Shadows of Mordor](Shadows_of_Mordor.md).

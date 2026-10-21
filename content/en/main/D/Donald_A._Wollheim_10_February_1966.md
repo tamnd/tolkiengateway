@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Donald A. Wollheim"
 ---
 
-Redirect to [Letter to Donald A. Wollheim](/wiki/Letter_to_Donald_A._Wollheim).
+Redirect to [Letter to Donald A. Wollheim](../L/Letter_to_Donald_A._Wollheim.md).

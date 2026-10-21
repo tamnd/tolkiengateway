@@ -1,6 +1,5 @@
 ---
 title: "File:Katie Sheng - Helcaraxe.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Katie Sheng - Helcaraxe.jpg</span>"
 page_id: 49526
 namespace: 6
 revision_id: 264766
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Katie Sheng</li>
 <li><b>Website:</b> <a class="external text" href="http://forged-in-fire.deviantart.com" rel="noreferrer noopener" target="_blank">Katie Sheng on deviantArt</a> · <a class="external text" href="http://rocket-fin-ears.tumblr.com/" rel="noreferrer noopener" target="_blank">Katie Sheng on tumblr</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Katie_Sheng" title="Tolkien Gateway:Copyrights/Katie Sheng">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FKatie_Sheng.md" title="Tolkien Gateway:Copyrights/Katie Sheng">Permission for use on Tolkien Gateway</a></b></li></ul></div>

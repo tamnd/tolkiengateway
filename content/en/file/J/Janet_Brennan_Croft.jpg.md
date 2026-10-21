@@ -1,6 +1,5 @@
 ---
 title: "File:Janet Brennan Croft.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Janet Brennan Croft.jpg</span>"
 page_id: 56007
 namespace: 6
 revision_id: 304773
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Photograph of [Janet Brennan Croft](/wiki/Janet_Brennan_Croft).
+Photograph of [Janet Brennan Croft](../../main/J/Janet_Brennan_Croft.md).
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ Photograph of [Janet Brennan Croft](/wiki/Janet_Brennan_Croft).
 <p>This work is copyrighted and owned by Janet Brennan Croft. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Janet Brennan Croft</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Janet_Brennan_Croft" title="Tolkien Gateway:Copyrights/Janet Brennan Croft">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJanet_Brennan_Croft.md" title="Tolkien Gateway:Copyrights/Janet Brennan Croft">Permission for use on Tolkien Gateway</a></b></li></ul></div>

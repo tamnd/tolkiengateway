@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Bifur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Bifur.jpg</span>"
 page_id: 43809
 namespace: 6
 revision_id: 379395

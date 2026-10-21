@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Lorien Sentinels.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Lorien Sentinels.jpeg</span>"
 page_id: 12089
 namespace: 6
 revision_id: 274746

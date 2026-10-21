@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Draugluin"
 ---
 
-Redirect to [Draugluin](/wiki/Draugluin).
+Redirect to [Draugluin](Draugluin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Conflicts"
 ---
 
-Redirect to [Index:Conflicts](/wiki/Index:Conflicts).
+Redirect to [Index:Conflicts](../../index/C/Conflicts.md).

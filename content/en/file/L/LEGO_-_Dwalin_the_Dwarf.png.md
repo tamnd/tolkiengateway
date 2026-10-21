@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Dwalin the Dwarf.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Dwalin the Dwarf.png</span>"
 page_id: 73149
 namespace: 6
 revision_id: 432986
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Dwalin the Dwarf](/wiki/Dwalin "Dwalin") - [LEGO](/wiki/Lego "Lego") minifigure
+[Dwalin the Dwarf](../../main/D/Dwalin.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

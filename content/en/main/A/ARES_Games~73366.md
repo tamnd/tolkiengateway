@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ares Games"
 ---
 
-Redirect to [Ares Games](/wiki/Ares_Games).
+Redirect to [Ares Games](Ares_Games.md).

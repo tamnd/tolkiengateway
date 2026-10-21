@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stanislav Dikolenko"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stanislav Dikolenko</span>"
 page_id: 72823
 namespace: 14
 revision_id: 431467
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Dikolenko, Stanislav"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Stanislav_Dikolenko&amp;action=edit&amp;redlink=1" title="Stanislav Dikolenko (page does not exist)">Stanislav Dikolenko</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stanislav_Dikolenko&amp;action=edit&amp;redlink=1" title="Stanislav Dikolenko (page does not exist)">Stanislav Dikolenko</a></b>.

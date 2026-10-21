@@ -1,6 +1,5 @@
 ---
 title: "The Dethronement of Power"
-display_title: "<span class=\"mw-page-title-main\">The Dethronement of Power</span>"
 page_id: 48372
 namespace: 0
 revision_id: 407424
@@ -13,4 +12,4 @@ categories:
   - "Published articles"
 ---
 
-"**The Dethronement of Power**" is the title of the literary review of *[The Two Towers](/wiki/The_Two_Towers)* and *[The Return of the King](/wiki/The_Return_of_the_King)*. It was written by [C.S. Lewis](/wiki/C.S._Lewis) and originally published in *Time and Tide* on [22 October](/wiki/22_October) [1955](/wiki/1955) (p. 1373). It has since been reprinted in *[Tolkien and the Critics](/wiki/Tolkien_and_the_Critics)*.
+"**The Dethronement of Power**" is the title of the literary review of *[The Two Towers](The_Two_Towers.md)* and *[The Return of the King](The_Return_of_the_King.md)*. It was written by [C.S. Lewis](../C/C.S._Lewis.md) and originally published in *Time and Tide* on [22 October](../_/22_October.md) [1955](../_/1955.md) (p. 1373). It has since been reprinted in *[Tolkien and the Critics](Tolkien_and_the_Critics.md)*.

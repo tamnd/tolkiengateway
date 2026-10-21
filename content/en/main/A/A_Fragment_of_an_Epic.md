@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech"
 ---
 
-Redirect to [A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech](/wiki/A_Fragment_of_an_Epic:_Before_Jerusalem_Richard_Makes_an_End_of_Speech).
+Redirect to [A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech](A_Fragment_of_an_Epic%253A_Before_Jerusalem_Richard_Makes_an_End_of_Speech.md).

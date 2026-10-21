@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - The Eagles are Coming!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - The Eagles are Coming!.jpg</span>"
 page_id: 71638
 namespace: 6
 revision_id: 440314
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"The [Eagles](/wiki/Eagles) are Coming!" by [Jake Murray](/wiki/Category:Images_by_Jake_Murray "Category:Images by Jake Murray")
+"The [Eagles](../../main/E/Eagles.md) are Coming!" by [Jake Murray](../../category/I/Images_by_Jake_Murray.md)
 
 ## Licensing {#Licensing}
 

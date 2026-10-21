@@ -1,6 +1,5 @@
 ---
 title: "Certhas"
-display_title: "<span class=\"mw-page-title-main\">Certhas</span>"
 page_id: 10316
 namespace: 0
 revision_id: 219855
@@ -13,13 +12,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Certhas** is the [Sindarin](/wiki/Sindarin) word for a *runic alphabet*.
+**Certhas** is the [Sindarin](../S/Sindarin.md) word for a *runic alphabet*.
 
 ## Etymology {#Etymology}
 
-From *[Certh](/wiki/Certh)* with the collective ending <i><a class="new" href="/w/index.php?title=-as&amp;action=edit&amp;redlink=1" title="-as (page does not exist)">-as</a></i>
+From *[Certh](Certh.md)* with the collective ending <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-as&amp;action=edit&amp;redlink=1" title="-as (page does not exist)">-as</a></i>
 
 ## Cognates {#Cognates}
 
-- [Taliska](/wiki/Taliska)?: <i><a class="new" href="/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">skirditaila</a></i>
-- [Westron](/wiki/Westron): <i><a class="new" href="/w/index.php?title=Iskirtt%C3%AAl&amp;action=edit&amp;redlink=1" title="Iskirttêl (page does not exist)">iskirttêl</a></i>
+- [Taliska](../T/Taliska.md)?: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">skirditaila</a></i>
+- [Westron](../W/Westron.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Iskirtt%C3%AAl&amp;action=edit&amp;redlink=1" title="Iskirttêl (page does not exist)">iskirttêl</a></i>

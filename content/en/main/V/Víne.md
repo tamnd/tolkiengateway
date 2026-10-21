@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Vínë"
 ---
 
-Redirect to [Vínë](/wiki/Vínë).
+Redirect to [Vínë](Vínë.md).

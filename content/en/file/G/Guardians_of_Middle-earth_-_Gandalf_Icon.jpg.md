@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Gandalf Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Gandalf Icon.jpg</span>"
 page_id: 71395
 namespace: 6
 revision_id: 437807
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Gandalf](../../main/G/Gandalf.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

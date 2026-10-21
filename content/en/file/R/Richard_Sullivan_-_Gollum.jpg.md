@@ -1,6 +1,5 @@
 ---
 title: "File:Richard Sullivan - Gollum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Richard Sullivan - Gollum.jpg</span>"
 page_id: 40724
 namespace: 6
 revision_id: 206845
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Richard Sullivan</li>
 <li><b>Website:</b> <a class="external text" href="http://sulldoggy.com/" rel="noreferrer noopener" target="_blank">Richard Sullivan&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Richard_Sullivan" title="Tolkien Gateway:Copyrights/Richard Sullivan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FRichard_Sullivan.md" title="Tolkien Gateway:Copyrights/Richard Sullivan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

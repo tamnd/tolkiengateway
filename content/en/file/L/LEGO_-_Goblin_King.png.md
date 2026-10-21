@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Goblin King.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Goblin King.png</span>"
 page_id: 73157
 namespace: 6
 revision_id: 432997
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Goblin King](/wiki/Great_Goblin "Great Goblin") - [LEGO](/wiki/Lego "Lego") minifigure
+[Goblin King](../../main/G/Great_Goblin.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

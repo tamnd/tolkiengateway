@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (film series) - Elrond 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (film series) - Elrond 2.jpg</span>"
 page_id: 36855
 namespace: 6
 revision_id: 231753
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Hugo Weaving](/wiki/Hugo_Weaving) as [Elrond](/wiki/Elrond) in [Peter Jackson's](/wiki/Peter_Jackson "Peter Jackson") [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)").
+[Hugo Weaving](../../main/H/Hugo_Weaving.md) as [Elrond](../../main/E/Elrond.md) in [Peter Jackson's](../../main/P/Peter_Jackson.md) [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Licensing {#Licensing}
 

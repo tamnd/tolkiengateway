@@ -1,6 +1,5 @@
 ---
 title: "File:Matěj Čadil - Elanor.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matěj Čadil - Elanor.jpg</span>"
 page_id: 73652
 namespace: 6
 revision_id: 438280
@@ -38,16 +37,12 @@ Last week, when I was drawing this picture, I was away from home on a holiday, s
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/26_August" title="26 August">August 26</a> <a href="/wiki/2025" title="2025">2025</a></td>
+<td><a href="../../main/_/26_August.md" title="26 August">August 26</a> <a href="../../main/_/2025.md" title="2025">2025</a></td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.patreon.com/posts/elanor-amon-hen-137341183" rel="noreferrer noopener" target="_blank">https://www.patreon.com/posts/elanor-amon-hen-137341183</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

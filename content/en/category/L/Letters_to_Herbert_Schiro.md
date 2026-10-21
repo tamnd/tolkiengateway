@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Herbert Schiro"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Herbert Schiro</span>"
 page_id: 68578
 namespace: 14
 revision_id: 407968
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Schiro, Herbert"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Herbert_Schiro&amp;action=edit&amp;redlink=1" title="Herbert Schiro (page does not exist)">Herbert Schiro</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Herbert_Schiro&amp;action=edit&amp;redlink=1" title="Herbert Schiro (page does not exist)">Herbert Schiro</a>.

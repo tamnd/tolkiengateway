@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Josu Solano"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Josu Solano</span>"
 page_id: 74938
 namespace: 14
 revision_id: 441211
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Solano, Josu"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Josu_Solano&amp;action=edit&amp;redlink=1" title="Josu Solano (page does not exist)">Josu Solano</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Josu_Solano&amp;action=edit&amp;redlink=1" title="Josu Solano (page does not exist)">Josu Solano</a></b>.

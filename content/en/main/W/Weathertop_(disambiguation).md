@@ -1,6 +1,5 @@
 ---
 title: "Weathertop (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Weathertop (disambiguation)</span>"
 page_id: 63686
 namespace: 0
 revision_id: 362886
@@ -17,17 +16,17 @@ images:
 
 **Weathertop** refers to more than one concept:
 
-- **[Weathertop](/wiki/Weathertop)**, a location in [Eriador](/wiki/Eriador).
+- **[Weathertop](Weathertop.md)**, a location in [Eriador](../E/Eriador.md).
 
-- *[Weathertop](</wiki/Weathertop_(journal)> "Weathertop (journal)")*, the journal of the Amon Sûl Smial of [the Tolkien Society](/wiki/The_Tolkien_Society "The Tolkien Society") between [1984](/wiki/1984)-[87](/wiki/1987 "1987").
-- *[Weathertop: Tower of the Wind](/wiki/Weathertop:_Tower_of_the_Wind)*, a [MERP](/wiki/MERP) supplement.
-- [Weathertop (soundtrack)](</wiki/Weathertop_(soundtrack)>), a track of [*The Fellowship of the Ring* soundtrack](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_The_Complete_Recordings "The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings") by [Howard Shore](/wiki/Howard_Shore).
+- *[Weathertop](<Weathertop_(journal).md>)*, the journal of the Amon Sûl Smial of [the Tolkien Society](../T/The_Tolkien_Society.md) between [1984](../_/1984.md)-[87](../_/1987.md).
+- *[Weathertop: Tower of the Wind](Weathertop%253A_Tower_of_the_Wind.md)*, a [MERP](../M/MERP.md) supplement.
+- [Weathertop (soundtrack)](<Weathertop_(soundtrack).md>), a track of [*The Fellowship of the Ring* soundtrack](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md) by [Howard Shore](../H/Howard_Shore.md).
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Weathertop_(disambiguation)" title="Special:WhatLinksHere/:Weathertop (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Weathertop_(disambiguation)" title="Special:WhatLinksHere/:Weathertop (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Robert S. Blackham"
 ---
 
-Redirect to [Robert S. Blackham](/wiki/Robert_S._Blackham).
+Redirect to [Robert S. Blackham](../R/Robert_S._Blackham.md).

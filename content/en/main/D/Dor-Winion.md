@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dorwinion"
 ---
 
-Redirect to [Dorwinion](/wiki/Dorwinion).
+Redirect to [Dorwinion](Dorwinion.md).

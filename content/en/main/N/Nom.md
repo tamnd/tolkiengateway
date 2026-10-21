@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nóm"
 ---
 
-Redirect to [Nóm](/wiki/Nóm).
+Redirect to [Nóm](Nóm.md).

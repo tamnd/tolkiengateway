@@ -1,6 +1,5 @@
 ---
 title: "-inqua"
-display_title: "<span class=\"mw-page-title-main\">-inqua</span>"
 page_id: 51383
 namespace: 0
 revision_id: 277819
@@ -15,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "inqua"
 ---
 
-<i><b>-inqua</b></i> is a [Quenya](/wiki/Quenya) adjectival ending, seen in **alcarinqua** "glorious"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> from **alcar** "glory". Etymologically, **-inqua** means "-full", like "glory-full" in this case.
+<i><b>-inqua</b></i> is a [Quenya](../Q/Quenya.md) adjectival ending, seen in **alcarinqua** "glorious"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> from **alcar** "glory". Etymologically, **-inqua** means "-full", like "glory-full" in this case.
 
 <span></span>
 
@@ -23,6 +22,6 @@ sort_keys:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Jewels" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 412</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>&#34;, p. 412</span>
 </li>
 </ol></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien Centenary Conference 1992.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien Centenary Conference 1992.jpg</span>"
 page_id: 28921
 namespace: 6
 revision_id: 202603
@@ -28,7 +27,7 @@ file:
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by the <a href="/wiki/Mythopoeic_Society" title="Mythopoeic Society">Mythopoeic Society</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by the <a href="../../main/M/Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -36,7 +35,7 @@ file:
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by the <a class="mw-redirect" href="/wiki/Tolkien_Society" title="Tolkien Society">Tolkien Society</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by the <a class="mw-redirect" href="../../main/T/Tolkien_Society.md" title="Tolkien Society">Tolkien Society</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
@@ -44,7 +43,7 @@ file:
 </div>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Patrick H. Wynne</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Patrick_H._Wynne" title="Tolkien Gateway:Copyrights/Patrick H. Wynne">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<ul><li><b>Name:</b> <a href="../../main/P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a></li>
+<li><b><a href="../../project/C/Copyrights%252FPatrick_H._Wynne.md" title="Tolkien Gateway:Copyrights/Patrick H. Wynne">Permission for use on Tolkien Gateway</a></b></li></ul></div>

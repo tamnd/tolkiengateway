@@ -1,6 +1,5 @@
 ---
 title: "Norman Davis"
-display_title: "<span class=\"mw-page-title-main\">Norman Davis</span>"
 page_id: 51790
 namespace: 0
 revision_id: 393849
@@ -21,16 +20,16 @@ sort_keys:
   "People by name": "Davis, Norman"
 ---
 
-**Norman Davis** ([16 May](/wiki/16_May) [1913](/wiki/1913) – [2 December](/wiki/2_December) [1989](/wiki/1989)) was a New Zealand-born scholar. He succeeded [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") as Professor of English Language and Literature at [Merton College](/wiki/Merton_College), [Oxford](/wiki/University_of_Oxford "University of Oxford"), a post he held until his retirement in 1980.
+**Norman Davis** ([16 May](../_/16_May.md) [1913](../_/1913.md) – [2 December](../_/2_December.md) [1989](../_/1989.md)) was a New Zealand-born scholar. He succeeded [Tolkien](../J/J.R.R._Tolkien.md) as Professor of English Language and Literature at [Merton College](../M/Merton_College.md), [Oxford](../U/University_of_Oxford.md), a post he held until his retirement in 1980.
 
 ## Bibliography {#Bibliography}
 
-- [1962](/wiki/1962): *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](/wiki/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday)* (editor)
-- [1967](/wiki/1967): [*Sir Gawain and the Green Knight*](</wiki/Sir_Gawain_and_the_Green_Knight_(edition)> "Sir Gawain and the Green Knight (edition)") (editor of the second edition)
+- [1962](../_/1962.md): *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)* (editor)
+- [1967](../_/1967.md): [*Sir Gawain and the Green Knight*](<../S/Sir_Gawain_and_the_Green_Knight_(edition).md>) (editor of the second edition)
 
 ## See also {#See_also}
 
-- [Letter 135b](/wiki/Letter_135b)
-- [Letter 135d](/wiki/Letter_135d)
-- [Letter 137a](/wiki/Letter_137a)
-- [Letter 288](/wiki/Letter_288)
+- [Letter 135b](../L/Letter_135b.md)
+- [Letter 135d](../L/Letter_135d.md)
+- [Letter 137a](../L/Letter_137a.md)
+- [Letter 288](../L/Letter_288.md)

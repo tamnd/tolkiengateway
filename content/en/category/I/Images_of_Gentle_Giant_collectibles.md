@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Gentle Giant collectibles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Gentle Giant collectibles</span>"
 page_id: 13354
 namespace: 14
 revision_id: 197686
@@ -15,4 +14,4 @@ sort_keys:
   "Images of collectibles": "Gentle Giant collectibles"
 ---
 
-Images of [Gentle Giant](/wiki/Gentle_Giant) collectibles.
+Images of [Gentle Giant](../../main/G/Gentle_Giant.md) collectibles.

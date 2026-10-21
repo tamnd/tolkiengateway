@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Valandil and Elendil and Blind Miriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Valandil and Elendil and Blind Miriel.png</span>"
 page_id: 68874
 namespace: 6
 revision_id: 415427
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot from *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)* when [Valandil](</wiki/Valandil_(The_Rings_of_Power)> "Valandil (The Rings of Power)") and [Elendil](/wiki/Elendil) realize that Queen Regent [Míriel](/wiki/Tar-M%C3%ADriel "Tar-Míriel") has been blinded by the ashes of [Orodruin](/wiki/Mount_Doom "Mount Doom").
+A screenshot from *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* when [Valandil](<../../main/V/Valandil_(The_Rings_of_Power).md>) and [Elendil](../../main/E/Elendil.md) realize that Queen Regent [Míriel](../../main/T/Tar-Míriel.md) has been blinded by the ashes of [Orodruin](../../main/M/Mount_Doom.md).
 
 ## Licensing {#Licensing}
 

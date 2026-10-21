@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëa"
 ---
 
-Redirect to [Fëa](/wiki/Fëa).
+Redirect to [Fëa](Fëa.md).

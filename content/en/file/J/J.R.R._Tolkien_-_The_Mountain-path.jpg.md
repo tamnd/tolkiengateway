@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Mountain-path.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Mountain-path.jpg</span>"
 page_id: 5471
 namespace: 6
 revision_id: 429915
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and published in the first impression of [The Hobbit](/wiki/The_Hobbit), in Chapter 4 ([Over Hill and Under Hill](/wiki/Over_Hill_and_Under_Hill)).
+Drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and published in the first impression of [The Hobbit](../../main/T/The_Hobbit.md), in Chapter 4 ([Over Hill and Under Hill](../../main/O/Over_Hill_and_Under_Hill.md)).
 
 ## Licensing {#Licensing}
 

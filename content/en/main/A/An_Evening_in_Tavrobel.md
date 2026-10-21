@@ -1,6 +1,5 @@
 ---
 title: "An Evening in Tavrobel"
-display_title: "<span class=\"mw-page-title-main\">An Evening in Tavrobel</span>"
 page_id: 14383
 namespace: 0
 revision_id: 424981
@@ -18,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/An_Evening_in_Tavrobel"
 ---
 
-**An Evening in Tavrobel** is a poem written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and published in [1924](/wiki/1924) within the *[Leeds University Verse 1914-24](/wiki/Leeds_University_Verse_1914-24)* on page 56.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was probably written a few years earlier, in [1916](/wiki/1916) or [1917](/wiki/1917). The poem recounts an evening in [Tavrobel](/wiki/Tavrobel), a place beyond the rivers [Gruir](/wiki/Gruir) and [Afros](/wiki/Afros), where lived the elf [Gilfanon](/wiki/Gilfanon).<sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
+**An Evening in Tavrobel** is a poem written by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and published in [1924](../_/1924.md) within the *[Leeds University Verse 1914-24](../L/Leeds_University_Verse_1914-24.md)* on page 56.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It was probably written a few years earlier, in [1916](../_/1916.md) or [1917](../_/1917.md). The poem recounts an evening in [Tavrobel](../T/Tavrobel.md), a place beyond the rivers [Gruir](../G/Gruir.md) and [Afros](Afros.md), where lived the elf [Gilfanon](../G/Gilfanon.md).<sup id="cite_ref-AH_2-0" class="reference"><a href="#cite_note-AH-2">[2]</a></sup>
 
-The poem has been reprinted in *[Three Early Poems](/wiki/Three_Early_Poems)* (1991),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and in [*Amon Hen* 242](/wiki/Amon_Hen_242 "Amon Hen 242") (2013), together with commentary by Fernando Cid Lucas and Bernardo Santano Moreno.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup> It is included in the extended edition of *[The Adventures of Tom Bombadil](/wiki/The_Adventures_of_Tom_Bombadil)* (2014).
+The poem has been reprinted in *[Three Early Poems](../T/Three_Early_Poems.md)* (1991),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and in [*Amon Hen* 242](Amon_Hen_242.md) (2013), together with commentary by Fernando Cid Lucas and Bernardo Santano Moreno.<sup id="cite_ref-AH_2-1" class="reference"><a href="#cite_note-AH-2">[2]</a></sup> It is included in the extended edition of *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (2014).
 
 ## Poem {#Poem}
 
@@ -51,17 +50,17 @@ thirsty, perchance, from dancing all noon.
 
 ## See also {#See_also}
 
-- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+- [Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11880" rel="noreferrer noopener" target="_blank">&#34;Leeds University Verse 1916-1924&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2013</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11880" rel="noreferrer noopener" target="_blank">&#34;Leeds University Verse 1916-1924&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2013</span></cite></span>
 </li>
-<li id="cite_note-AH-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AH_2-0">2.0</a></sup> <sup><a href="#cite_ref-AH_2-1">2.1</a></sup></span> <span class="reference-text">Fernando Cid Lucas and Bernardo Santano Moreno, &#34;El Poema <i>An Evening in Tavrobel</i> de J.R.R. Tolkien&#34;, in <a href="/wiki/Amon_Hen_242" title="Amon Hen 242"><i>Amon Hen</i> 242</a> (July 2013), pp. 16-17</span>
+<li id="cite_note-AH-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-AH_2-0">2.0</a></sup> <sup><a href="#cite_ref-AH_2-1">2.1</a></sup></span> <span class="reference-text">Fernando Cid Lucas and Bernardo Santano Moreno, &#34;El Poema <i>An Evening in Tavrobel</i> de J.R.R. Tolkien&#34;, in <a href="Amon_Hen_242.md" title="Amon Hen 242"><i>Amon Hen</i> 242</a> (July 2013), pp. 16-17</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11890" rel="noreferrer noopener" target="_blank">&#34;Three Early Poems. 1991&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2013</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienbooks.net/php/details.php?reference=11890" rel="noreferrer noopener" target="_blank">&#34;Three Early Poems. 1991&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2013</span></cite></span>
 </li>
 </ol></div>

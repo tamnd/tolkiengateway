@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Heraldic device (of Man).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Heraldic device (of Man).jpg</span>"
 page_id: 64796
 namespace: 6
 revision_id: 373332
@@ -29,9 +28,9 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/118/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #118</a>. Published in:
 
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), June
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), June
 
-No context is given to this heraldic device. It could be a [Númenórean](/wiki/N%C3%BAmen%C3%B3rean) design. Notice that this has only been published in a calendar.
+No context is given to this heraldic device. It could be a [Númenórean](../../main/N/Númenórean.md) design. Notice that this has only been published in a calendar.
 
 ## Licensing {#Licensing}
 

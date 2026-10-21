@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit- An Unexpected Journey - Poster - Title only.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit- An Unexpected Journey - Poster - Title only.png</span>"
 page_id: 67630
 namespace: 6
 revision_id: 394069

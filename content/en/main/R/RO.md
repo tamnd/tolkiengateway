@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "OR"
 ---
 
-Redirect to [OR](/wiki/OR).
+Redirect to [OR](../O/OR~34968.md).

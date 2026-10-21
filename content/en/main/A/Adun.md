@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Adûn"
 ---
 
-Redirect to [Adûn](/wiki/Adûn).
+Redirect to [Adûn](Adûn.md).

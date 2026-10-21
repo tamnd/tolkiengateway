@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atanatárion"
 ---
 
-Redirect to [Atanatárion](/wiki/Atanatárion).
+Redirect to [Atanatárion](../A/Atanatárion.md).

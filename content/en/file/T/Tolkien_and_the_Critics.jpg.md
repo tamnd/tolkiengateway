@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien and the Critics.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien and the Critics.jpg</span>"
 page_id: 31730
 namespace: 6
 revision_id: 214730

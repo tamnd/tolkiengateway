@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lossarnach"
 ---
 
-Redirect to [Lossarnach](/wiki/Lossarnach).
+Redirect to [Lossarnach](../L/Lossarnach.md).

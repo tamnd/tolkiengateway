@@ -1,6 +1,5 @@
 ---
 title: "Nils Eng"
-display_title: "<span class=\"mw-page-title-main\">Nils Eng</span>"
 page_id: 27655
 namespace: 0
 revision_id: 137820
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Eng, Nils"
 ---
 
-**Nils Eng** is a Swedish designer and author of games. He made the video game [Bilbo](</wiki/Bilbo_(video_game)> "Bilbo (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Nils Eng** is a Swedish designer and author of games. He made the video game [Bilbo](<../B/Bilbo_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Olga Kalinichenko - Brodda and Aerin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Olga Kalinichenko - Brodda and Aerin.jpg</span>"
 page_id: 61224
 namespace: 6
 revision_id: 344548
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Olga Kalinichenko</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/madshuttlecock" rel="noreferrer noopener" target="_blank">Olga Kalinichenko on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Olga_Kalinichenko" title="Tolkien Gateway:Copyrights/Olga Kalinichenko">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FOlga_Kalinichenko.md" title="Tolkien Gateway:Copyrights/Olga Kalinichenko">Permission for use on Tolkien Gateway</a></b></li></ul></div>

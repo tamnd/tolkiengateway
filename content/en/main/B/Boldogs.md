@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boldog"
 ---
 
-Redirect to [Boldog](/wiki/Boldog).
+Redirect to [Boldog](Boldog.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Swords & Sorcery"
 ---
 
-Redirect to [Swords &amp; Sorcery](/wiki/Swords_&_Sorcery).
+Redirect to [Swords &amp; Sorcery](Swords_&_Sorcery.md).

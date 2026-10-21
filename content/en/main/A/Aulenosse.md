@@ -11,4 +11,4 @@ redirect_target: "Gnomes"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Gnomes](/wiki/Gnomes#Etymology).
+Redirect to [Gnomes](../G/Gnomes.md#Etymology).

@@ -1,6 +1,5 @@
 ---
 title: "Category:The Hobbit (film series) characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (film series) characters</span>"
 page_id: 64319
 namespace: 14
 revision_id: 368423
@@ -16,4 +15,4 @@ sort_keys:
   "The Hobbit (film series)": "characters"
 ---
 
-<dl><dd><i>This category contains all original characters from</i> <b><a href="/wiki/The_Hobbit_(film_series)" title="The Hobbit (film series)">The Hobbit <i>(film series)</i></a></b>.</dd></dl>
+<dl><dd><i>This category contains all original characters from</i> <b><a href="../../main/T/The_Hobbit_(film_series).md" title="The Hobbit (film series)">The Hobbit <i>(film series)</i></a></b>.</dd></dl>

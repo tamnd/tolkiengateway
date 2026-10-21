@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of the Harp"
 ---
 
-Redirect to [House of the Harp](/wiki/House_of_the_Harp).
+Redirect to [House of the Harp](House_of_the_Harp.md).

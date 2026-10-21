@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagor Dagorath"
 ---
 
-Redirect to [Dagor Dagorath](/wiki/Dagor_Dagorath).
+Redirect to [Dagor Dagorath](Dagor_Dagorath.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Eagle and Child (sign).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Eagle and Child (sign).jpg</span>"
 page_id: 9357
 namespace: 6
 revision_id: 248646

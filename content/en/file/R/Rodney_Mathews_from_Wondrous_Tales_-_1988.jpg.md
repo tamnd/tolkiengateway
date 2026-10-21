@@ -1,6 +1,5 @@
 ---
 title: "File:Rodney Mathews from Wondrous Tales - 1988.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rodney Mathews from Wondrous Tales - 1988.jpg</span>"
 page_id: 6595
 namespace: 6
 revision_id: 215487

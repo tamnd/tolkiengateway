@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mount Doom"
 ---
 
-Redirect to [Mount Doom](/wiki/Mount_Doom).
+Redirect to [Mount Doom](../M/Mount_Doom.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ambalotsë"
 ---
 
-Redirect to [Ambalotsë](/wiki/Ambalotsë).
+Redirect to [Ambalotsë](Ambalotsë.md).

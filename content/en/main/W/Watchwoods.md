@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treegarth of Orthanc"
 ---
 
-Redirect to [Treegarth of Orthanc](/wiki/Treegarth_of_Orthanc).
+Redirect to [Treegarth of Orthanc](../T/Treegarth_of_Orthanc.md).

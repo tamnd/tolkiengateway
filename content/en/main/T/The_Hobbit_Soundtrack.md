@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hobbit: The Complete Original Soundtrack"
 ---
 
-Redirect to [The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack).
+Redirect to [The Hobbit: The Complete Original Soundtrack](The_Hobbit%253A_The_Complete_Original_Soundtrack.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to George and Moira Sayer (7 August 1952)"
 ---
 
-Redirect to [Letter to George and Moira Sayer (7 August 1952)](/wiki/Letter_to_George_and_Moira_Sayer_(7_August_1952)).
+Redirect to [Letter to George and Moira Sayer (7 August 1952)](<../L/Letter_to_George_and_Moira_Sayer_(7_August_1952).md>).

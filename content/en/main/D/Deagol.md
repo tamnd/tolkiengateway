@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déagol"
 ---
 
-Redirect to [Déagol](/wiki/Déagol).
+Redirect to [Déagol](Déagol.md).

@@ -11,4 +11,4 @@ redirect_target: "David Day"
 redirect_fragment: "Bibliography"
 ---
 
-Redirect to [David Day](/wiki/David_Day#Bibliography).
+Redirect to [David Day](../D/David_Day.md#Bibliography).

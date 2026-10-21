@@ -13,11 +13,11 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>nimp</b></i> is a [Sindarin](/wiki/Sindarin) word meaning *pale* or *white*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>nimp</b></i> is a [Sindarin](../S/Sindarin.md) word meaning *pale* or *white*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="mw-redirect" href="/wiki/Hiswel%C3%B3k%C3%AB%27s_Sindarin_dictionary" title="Hiswelókë&#39;s Sindarin dictionary">Hiswelókë&#39;s Sindarin dictionary</a> (Edition 1.6, Lexicon 0.993)</i></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i><a class="mw-redirect" href="../H/Hiswelókë&#39;s_Sindarin_dictionary~30928.md" title="Hiswelókë&#39;s Sindarin dictionary">Hiswelókë&#39;s Sindarin dictionary</a> (Edition 1.6, Lexicon 0.993)</i></span>
 </li>
 </ol></div>

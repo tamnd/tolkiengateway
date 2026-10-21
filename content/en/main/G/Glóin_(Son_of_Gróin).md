@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glóin"
 ---
 
-Redirect to [Glóin](/wiki/Glóin).
+Redirect to [Glóin](Glóin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stone Street Studios"
 ---
 
-Redirect to [Stone Street Studios](/wiki/Stone_Street_Studios).
+Redirect to [Stone Street Studios](Stone_Street_Studios.md).

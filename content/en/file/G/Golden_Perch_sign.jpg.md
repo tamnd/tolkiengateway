@@ -1,6 +1,5 @@
 ---
 title: "File:Golden Perch sign.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Golden Perch sign.jpg</span>"
 page_id: 23926
 namespace: 6
 revision_id: 417819

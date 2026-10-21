@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Aragorn 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Aragorn 2.jpg</span>"
 page_id: 11313
 namespace: 6
 revision_id: 431890
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn II](/wiki/Aragorn "Aragorn") rides into battle on [Brego](</wiki/Brego_(horse)> "Brego (horse)") against the armies of [Sauron](/wiki/Sauron)
+[Aragorn II](../../main/A/Aragorn.md) rides into battle on [Brego](<../../main/B/Brego_(horse).md>) against the armies of [Sauron](../../main/S/Sauron.md)
 
 ## Licensing {#Licensing}
 

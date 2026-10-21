@@ -14,7 +14,7 @@ categories:
   - "Publications by title"
 ---
 
-<i><b>Hobit</b></i> is a [1977](/wiki/1977) Hebrew edition of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Hobbit](/wiki/The_Hobbit),* embarked upon in [1970](/wiki/1970) by four captured Israeli fighter pilots - Rami Harpaz, Menachem Eini, Yitzhak Pir, and Avi Kaldas - "and their fellow inmates" in Egyptian captivity.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+<i><b>Hobit</b></i> is a [1977](../_/1977.md) Hebrew edition of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Hobbit](../T/The_Hobbit.md),* embarked upon in [1970](../_/1970.md) by four captured Israeli fighter pilots - Rami Harpaz, Menachem Eini, Yitzhak Pir, and Avi Kaldas - "and their fellow inmates" in Egyptian captivity.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 A copy of the book had been passed from the US via the Red Cross to Pir (by his brother) who found great delight in the story of a "queer and lovable creature, lover of peace and good life, who is thrust into hair-raising adventures in a war for a more peaceful, greener world." However, Pir found that many of his fellow inmates did not have a sufficient grasp of English to share his enjoyment, even after they translated some of the more difficult passages.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 

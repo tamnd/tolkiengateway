@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Súrion"
 ---
 
-Redirect to [Tar-Súrion](/wiki/Tar-Súrion).
+Redirect to [Tar-Súrion](Tar-Súrion.md).

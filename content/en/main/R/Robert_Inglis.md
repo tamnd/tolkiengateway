@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rob Inglis"
 ---
 
-Redirect to [Rob Inglis](/wiki/Rob_Inglis).
+Redirect to [Rob Inglis](Rob_Inglis.md).

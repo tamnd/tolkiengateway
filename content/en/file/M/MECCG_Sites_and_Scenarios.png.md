@@ -1,6 +1,5 @@
 ---
 title: "File:MECCG Sites and Scenarios.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MECCG Sites and Scenarios.png</span>"
 page_id: 35641
 namespace: 6
 revision_id: 214534

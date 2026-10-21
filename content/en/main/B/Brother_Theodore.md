@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Theodore Isidore Gottlieb"
 ---
 
-Redirect to [Theodore Isidore Gottlieb](/wiki/Theodore_Isidore_Gottlieb).
+Redirect to [Theodore Isidore Gottlieb](../T/Theodore_Isidore_Gottlieb.md).

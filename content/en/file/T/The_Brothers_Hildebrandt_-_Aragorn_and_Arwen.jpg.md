@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Aragorn and Arwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Aragorn and Arwen.jpg</span>"
 page_id: 71614
 namespace: 6
 revision_id: 426935
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Aragorn](/wiki/Aragorn) and [Arwen](/wiki/Arwen)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt). A concept sketch done in February [2002](/wiki/2002) for a commission piece.
+"[Aragorn](../../main/A/Aragorn.md) and [Arwen](../../main/A/Arwen.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md). A concept sketch done in February [2002](../../main/_/2002.md) for a commission piece.
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Ambarkanta Map V upscale.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ambarkanta Map V upscale.png</span>"
 page_id: 70134
 namespace: 6
 revision_id: 421998

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit - An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit - An Unexpected Journey - Original Motion Picture Soundtrack - Special Edition.jpg</span>"
 page_id: 41969
 namespace: 6
 revision_id: 218035

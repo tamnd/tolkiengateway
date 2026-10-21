@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ótr"
 ---
 
-Redirect to [Ótr](/wiki/Ótr).
+Redirect to [Ótr](../_/Ótr.md).

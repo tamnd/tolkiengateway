@@ -1,6 +1,5 @@
 ---
 title: "Jacksonville"
-display_title: "<span class=\"mw-page-title-main\">Jacksonville</span>"
 page_id: 66037
 namespace: 0
 revision_id: 411941
@@ -13,7 +12,7 @@ categories:
   - "American locations"
 ---
 
-**Jacksonville**, Florida is a city in the United States. The city contains the neighbourhood of Grogans Bluff, which has street names that are mostly based on [*The Hobbit*](/wiki/The_Hobbit "The Hobbit") and somewhat on *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings).*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jacksonville**, Florida is a city in the United States. The city contains the neighbourhood of Grogans Bluff, which has street names that are mostly based on [*The Hobbit*](../T/The_Hobbit.md) and somewhat on *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md).*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Street names {#Street_names}
 
@@ -42,6 +41,6 @@ categories:
 - N Windy Willows Dr
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Ten Jax neighborhoods with thematic street names (30 March 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://www.thejaxsonmag.com/article/ten-jax-neighborhoods-with-thematic-street-names/#:~:text=Grogans%20Bluff%20and%20Lord%20of%20the%20Rings&amp;text=A%20few%20names%20you%20find,King%20Lane%20and%20Wilderland%20Drive." rel="noreferrer noopener" target="_blank">&#34;Ten Jax neighborhoods with thematic street names&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.thejaxsonmag.com" rel="noreferrer noopener" target="_blank">www.thejaxsonmag.com</a></span>. <span class="cite-web-accessed">Retrieved 31 October 2024</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Ten Jax neighborhoods with thematic street names (30 March 2022)</span>. <span class="cite-web-article"><a class="external text" href="https://www.thejaxsonmag.com/article/ten-jax-neighborhoods-with-thematic-street-names/#:~:text=Grogans%20Bluff%20and%20Lord%20of%20the%20Rings&amp;text=A%20few%20names%20you%20find,King%20Lane%20and%20Wilderland%20Drive." rel="noreferrer noopener" target="_blank">&#34;Ten Jax neighborhoods with thematic street names&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://www.thejaxsonmag.com" rel="noreferrer noopener" target="_blank">www.thejaxsonmag.com</a></span>. <span class="cite-web-accessed">Retrieved 31 October 2024</span></cite></span>
 </li>
 </ol></div>

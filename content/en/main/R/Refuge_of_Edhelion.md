@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edhelion"
 ---
 
-Redirect to [Edhelion](/wiki/Edhelion).
+Redirect to [Edhelion](../E/Edhelion.md).

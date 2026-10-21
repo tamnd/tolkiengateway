@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalf - Annon edhellen, edro hi ammen.ogg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalf - Annon edhellen, edro hi ammen.ogg</span>"
 page_id: 7658
 namespace: 6
 revision_id: 328281
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Gandalf](/wiki/Gandalf): "Annon edhellen, edro hi ammen."
+[Gandalf](../../main/G/Gandalf.md): "Annon edhellen, edro hi ammen."
 
 "Gate of the Elves, open now for me."
 

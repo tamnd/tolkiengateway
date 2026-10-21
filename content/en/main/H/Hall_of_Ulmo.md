@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ulmonan"
 ---
 
-Redirect to [Ulmonan](/wiki/Ulmonan).
+Redirect to [Ulmonan](../U/Ulmonan.md).

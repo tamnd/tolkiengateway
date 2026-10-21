@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Shelly Shapiro"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Shelly Shapiro</span>"
 page_id: 48132
 namespace: 14
 revision_id: 257269

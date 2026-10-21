@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Campaign Guide"
 ---
 
-Redirect to [Middle-earth Campaign Guide](/wiki/Middle-earth_Campaign_Guide).
+Redirect to [Middle-earth Campaign Guide](Middle-earth_Campaign_Guide.md).

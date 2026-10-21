@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mindon Eldaliéva"
 ---
 
-Redirect to [Mindon Eldaliéva](/wiki/Mindon_Eldaliéva).
+Redirect to [Mindon Eldaliéva](Mindon_Eldaliéva.md).

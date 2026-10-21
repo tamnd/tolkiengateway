@@ -1,6 +1,5 @@
 ---
 title: "Wellington"
-display_title: "<span class=\"mw-page-title-main\">Wellington</span>"
 page_id: 5184
 namespace: 0
 revision_id: 362938
@@ -16,7 +15,7 @@ categories:
   - "The Hobbit (film series)"
 ---
 
-**Wellington** is the capital of [New Zealand](/wiki/New_Zealand) where many scenes of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") were filmed. It was also the location of *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)* première. Later, many scenes of [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)") were filmed there too, and it was the location première of *[The Hobbit: An Unexpected Journey](/wiki/The_Hobbit:_An_Unexpected_Journey)* as and in *The Return of the King*.
+**Wellington** is the capital of [New Zealand](../N/New_Zealand.md) where many scenes of [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>) were filmed. It was also the location of *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* première. Later, many scenes of [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>) were filmed there too, and it was the location première of *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* as and in *The Return of the King*.
 
 ## External links {#External_links}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Rondador - Stewards of Gondor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rondador - Stewards of Gondor.png</span>"
 page_id: 72764
 namespace: 6
 revision_id: 431329

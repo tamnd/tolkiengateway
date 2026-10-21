@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Later Quenta Silmarillion"
 ---
 
-Redirect to [The Later Quenta Silmarillion](/wiki/The_Later_Quenta_Silmarillion).
+Redirect to [The Later Quenta Silmarillion](../T/The_Later_Quenta_Silmarillion.md).

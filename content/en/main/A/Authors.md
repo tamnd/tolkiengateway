@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Authors"
 ---
 
-Redirect to [Category:Authors](/wiki/Category:Authors).
+Redirect to [Category:Authors](../../category/A/Authors.md).

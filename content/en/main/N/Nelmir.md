@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Naimi"
 ---
 
-Redirect to [Naimi](/wiki/Naimi).
+Redirect to [Naimi](Naimi.md).

@@ -1,6 +1,5 @@
 ---
 title: "Golf"
-display_title: "<span class=\"mw-page-title-main\">Golf</span>"
 page_id: 16990
 namespace: 0
 revision_id: 385865
@@ -22,13 +21,13 @@ langlinks:
     url: "https://kontu.wiki/Golf"
 ---
 
-**Golf** was a game played by [Hobbits](/wiki/Hobbits). It was invented during the [Battle of Greenfields](/wiki/Battle_of_Greenfields) when [Bandobras Took](/wiki/Bandobras_Took) charged at the [goblins](/wiki/Goblins "Goblins") and knocked off the head of king [Golfimbul](/wiki/Golfimbul). The head flew through the air for 100 yards and went down a rabbit hole.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Golf** was a game played by [Hobbits](../H/Hobbits.md). It was invented during the [Battle of Greenfields](../B/Battle_of_Greenfields.md) when [Bandobras Took](../B/Bandobras_Took.md) charged at the [goblins](Goblins.md) and knocked off the head of king [Golfimbul](Golfimbul.md). The head flew through the air for 100 yards and went down a rabbit hole.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="/wiki/An_Unexpected_Party" title="An Unexpected Party">An Unexpected Party</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">An Unexpected Party</a>&#34;</span>
 </li>
 </ol></div>

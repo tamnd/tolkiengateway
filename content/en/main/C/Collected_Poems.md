@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Collected Poems of J.R.R. Tolkien"
 ---
 
-Redirect to [The Collected Poems of J.R.R. Tolkien](/wiki/The_Collected_Poems_of_J.R.R._Tolkien).
+Redirect to [The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md).

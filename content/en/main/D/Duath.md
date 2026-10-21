@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dúath"
 ---
 
-Redirect to [Dúath](/wiki/Dúath).
+Redirect to [Dúath](Dúath.md).

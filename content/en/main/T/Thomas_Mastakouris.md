@@ -1,6 +1,5 @@
 ---
 title: "Thomas Mastakouris"
-display_title: "<span class=\"mw-page-title-main\">Thomas Mastakouris</span>"
 page_id: 27903
 namespace: 0
 revision_id: 360850
@@ -21,11 +20,11 @@ sort_keys:
   "Translators": "Mastakouris, Thomas"
 ---
 
-**Thomas Mastakouris** (Greek: Θωμάς Μαστακούρης) is a Greek author, writer and translator. His field of expertise have been fantasy, horror and science fiction. Outside of the field of literature, he has written (occasionally as a collaborator) on topics such as conspiracy theories, Nazi occultism, cryptozoology, crystalomancy and [runes](/wiki/Runes "Runes").
+**Thomas Mastakouris** (Greek: Θωμάς Μαστακούρης) is a Greek author, writer and translator. His field of expertise have been fantasy, horror and science fiction. Outside of the field of literature, he has written (occasionally as a collaborator) on topics such as conspiracy theories, Nazi occultism, cryptozoology, crystalomancy and [runes](../R/Runes.md).
 
-He has translated several books by [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") as well as books related to him or [Middle-earth](/wiki/Middle-earth). He has also authored at least one book concerning Tolkien's [legendarium](/wiki/Legendarium "Legendarium").
+He has translated several books by [Tolkien](../J/J.R.R._Tolkien.md) as well as books related to him or [Middle-earth](../M/Middle-earth.md). He has also authored at least one book concerning Tolkien's [legendarium](../L/Legendarium.md).
 
-He is a member of [Greek Tolkien Society](/wiki/Greek_Tolkien_Society).
+He is a member of [Greek Tolkien Society](../G/Greek_Tolkien_Society.md).
 
 ## Bibliography {#Bibliography}
 
@@ -35,16 +34,16 @@ He is a member of [Greek Tolkien Society](/wiki/Greek_Tolkien_Society).
 
 Works by J.R.R. Tolkien:
 
-- *[Leaf by Niggle](/wiki/Leaf_by_Niggle)*/*[On Fairy-Stories](/wiki/On_Fairy-Stories)* (Το φύλλο και το δέντρο)
-- *[Farmer Giles of Ham](/wiki/Farmer_Giles_of_Ham)* (Ο Αγρότης Τζάιλς απο το Χαμ)
-- *[The Smith of Wootton Major](/wiki/Smith_of_Wootton_Major "Smith of Wootton Major")* (Ο Σιδεράς του Μεγάλου Δασοχωριού)
-- *[Unfinished Tales](/wiki/Unfinished_Tales)* (Ατελείωτες Ιστορίες)
-- *[The Legend of Sigurd and Gudrún](/wiki/The_Legend_of_Sigurd_and_Gudr%C3%BAn)* (Ο Θρύλος του Σίγκουρντ και της Γκούντρουν)
+- *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*/*[On Fairy-Stories](../O/On_Fairy-Stories.md)* (Το φύλλο και το δέντρο)
+- *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* (Ο Αγρότης Τζάιλς απο το Χαμ)
+- *[The Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* (Ο Σιδεράς του Μεγάλου Δασοχωριού)
+- *[Unfinished Tales](../U/Unfinished_Tales.md)* (Ατελείωτες Ιστορίες)
+- *[The Legend of Sigurd and Gudrún](The_Legend_of_Sigurd_and_Gudrún.md)* (Ο Θρύλος του Σίγκουρντ και της Γκούντρουν)
 
 Works about Tolkien and Middle-earth:
 
-- <a class="new" href="/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Coren</a>, *[J.R.R. Tolkien: The Man Who Created the Lord of the Rings](/wiki/J.R.R._Tolkien:_The_Man_Who_Created_the_Lord_of_the_Rings)*
-- [Jude Fisher](/wiki/Jude_Fisher), *[The Fellowship of the Ring Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Visual_Companion "The Lord of the Rings: The Fellowship of the Ring Visual Companion")*
-- [Jude Fisher](/wiki/Jude_Fisher), *[The Two Towers Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion "The Lord of the Rings: The Two Towers Visual Companion")*
-- [Jude Fisher](/wiki/Jude_Fisher), *[The Return of the King Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Visual_Companion "The Lord of the Rings: The Return of the King Visual Companion")*
-- [Chris Smith](/wiki/Chris_Smith), *[The Lord of the Rings: Weapons and Warfare](/wiki/The_Lord_of_the_Rings:_Weapons_and_Warfare)*
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Coren</a>, *[J.R.R. Tolkien: The Man Who Created the Lord of the Rings](../J/J.R.R._Tolkien%253A_The_Man_Who_Created_the_Lord_of_the_Rings.md)*
+- [Jude Fisher](../J/Jude_Fisher.md), *[The Fellowship of the Ring Visual Companion](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md)*
+- [Jude Fisher](../J/Jude_Fisher.md), *[The Two Towers Visual Companion](The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)*
+- [Jude Fisher](../J/Jude_Fisher.md), *[The Return of the King Visual Companion](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*
+- [Chris Smith](../C/Chris_Smith.md), *[The Lord of the Rings: Weapons and Warfare](The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md)*

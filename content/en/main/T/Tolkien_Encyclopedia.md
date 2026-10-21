@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment"
 ---
 
-Redirect to [J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment).
+Redirect to [J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md).

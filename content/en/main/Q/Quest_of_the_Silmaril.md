@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quest for the Silmaril"
 ---
 
-Redirect to [Quest for the Silmaril](/wiki/Quest_for_the_Silmaril).
+Redirect to [Quest for the Silmaril](Quest_for_the_Silmaril.md).

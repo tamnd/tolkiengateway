@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crossings of Poros"
 ---
 
-Redirect to [Crossings of Poros](/wiki/Crossings_of_Poros).
+Redirect to [Crossings of Poros](../C/Crossings_of_Poros.md).

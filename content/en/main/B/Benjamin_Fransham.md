@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ben Fransham"
 ---
 
-Redirect to [Ben Fransham](/wiki/Ben_Fransham).
+Redirect to [Ben Fransham](Ben_Fransham.md).

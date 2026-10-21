@@ -1,6 +1,5 @@
 ---
 title: "Kings of Men"
-display_title: "<span class=\"mw-page-title-main\">Kings of Men</span>"
 page_id: 3646
 namespace: 0
 revision_id: 328003
@@ -14,13 +13,13 @@ categories:
   - "Númenóreans"
 ---
 
-**Kings of Men** was a title given to the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans) by the [Men](/wiki/Men) of [Middle-earth](/wiki/Middle-earth) when they returned there in the [Second Age](/wiki/Second_Age).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kings of Men** was a title given to the [Númenóreans](../N/Númenóreans.md) by the [Men](../M/Men.md) of [Middle-earth](../M/Middle-earth.md) when they returned there in the [Second Age](../S/Second_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="/wiki/Of_the_Rings_of_Power_and_the_Third_Age" title="Of the Rings of Power and the Third Age">Of the Rings of Power and the Third Age</a>&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power and the Third Age</a>&#34;</span>
 </li>
 </ol></div>

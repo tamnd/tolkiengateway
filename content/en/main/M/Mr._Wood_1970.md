@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Mr Wood"
 ---
 
-Redirect to [Letter to Mr Wood](/wiki/Letter_to_Mr_Wood).
+Redirect to [Letter to Mr Wood](../L/Letter_to_Mr_Wood.md).

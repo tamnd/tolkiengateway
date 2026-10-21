@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages with template loops"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages with template loops</span>"
 page_id: 69222
 namespace: 14
 revision_id: 413582

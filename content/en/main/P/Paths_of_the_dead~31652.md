@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Paths of the Dead"
 ---
 
-Redirect to [Paths of the Dead](/wiki/Paths_of_the_Dead).
+Redirect to [Paths of the Dead](Paths_of_the_Dead.md).

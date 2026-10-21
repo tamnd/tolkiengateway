@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King Edward's School Chronicle"
 ---
 
-Redirect to [King Edward's School Chronicle](/wiki/King_Edward's_School_Chronicle).
+Redirect to [King Edward's School Chronicle](../K/King_Edward's_School_Chronicle.md).

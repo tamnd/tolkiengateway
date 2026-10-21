@@ -1,6 +1,5 @@
 ---
 title: "Tolkien societies"
-display_title: "<span class=\"mw-page-title-main\">Tolkien societies</span>"
 page_id: 6978
 namespace: 0
 revision_id: 423782
@@ -18,109 +17,107 @@ Below is a list of **Tolkien Societies**.
 ## Active as of 2023 {#Active_as_of_2023}
 
 - *North America*
-    - [Inland Northwest Tolkien Society (a.k.a. Spokane Tolkien Society / Inland Empire Tolkien Society](/wiki/Inland_Northwest_Tolkien_Society "Inland Northwest Tolkien Society") (active)
-    - [Mythopoeic Society](/wiki/Mythopoeic_Society) (active)
-    - [Tolkien Special Interest Group of Mensa](/wiki/American_Mensa_Tolkien_Special_Interest_Group "American Mensa Tolkien Special Interest Group") (active)
-    - [University of Wisconsin Tolkien and Fantasy Society](/wiki/University_of_Wisconsin_Tolkien_and_Fantasy_Society) (active)
-    - Mexico: [Mexican Tolkien Society](/wiki/Mexican_Tolkien_Society) (active)
+    - [Inland Northwest Tolkien Society (a.k.a. Spokane Tolkien Society / Inland Empire Tolkien Society](../I/Inland_Northwest_Tolkien_Society.md) (active)
+    - [Mythopoeic Society](../M/Mythopoeic_Society.md) (active)
+    - [Tolkien Special Interest Group of Mensa](../A/American_Mensa_Tolkien_Special_Interest_Group.md) (active)
+    - [University of Wisconsin Tolkien and Fantasy Society](../U/University_of_Wisconsin_Tolkien_and_Fantasy_Society.md) (active)
+    - Mexico: [Mexican Tolkien Society](../M/Mexican_Tolkien_Society.md) (active)
     - NYC Area Friends of JRR Tolkien (active)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - *South America*
-    - Argentina: [Argentine Tolkien Association](/wiki/Argentine_Tolkien_Association) (active)
+    - Argentina: [Argentine Tolkien Association](../A/Argentine_Tolkien_Association.md) (active)
     - Brazil:
-        - [Conselho Branco, Sociedade Tolkien](/wiki/Conselho_Branco,_Sociedade_Tolkien) (active)
-        - [The Brazilian Tolkien Society](/wiki/The_Brazilian_Tolkien_Society) (active)
-    - Chile: [Sociedad Tolkien Chilena](/wiki/Sociedad_Tolkien_Chilena) (semi dormant: last activity from 2020)
-    - Colombia: [Sociedad Tolkien Colombia Orodruin](/wiki/Sociedad_Tolkien_Colombia_Orodruin) (active)
-    - Peru: [Sociedad Tolkien Peruana](/wiki/Sociedad_Tolkien_Peruana) (active)
-    - Uruguay: [Sociedad Tolkien Uruguaya](/wiki/Sociedad_Tolkien_Uruguaya) (active)
+        - [Conselho Branco, Sociedade Tolkien](../C/Conselho_Branco,_Sociedade_Tolkien.md) (active)
+        - [The Brazilian Tolkien Society](The_Brazilian_Tolkien_Society.md) (active)
+    - Chile: [Sociedad Tolkien Chilena](../S/Sociedad_Tolkien_Chilena.md) (semi dormant: last activity from 2020)
+    - Colombia: [Sociedad Tolkien Colombia Orodruin](../S/Sociedad_Tolkien_Colombia_Orodruin.md) (active)
+    - Peru: [Sociedad Tolkien Peruana](../S/Sociedad_Tolkien_Peruana.md) (active)
+    - Uruguay: [Sociedad Tolkien Uruguaya](../S/Sociedad_Tolkien_Uruguaya.md) (active)
 
 - *Europe*
-    - Austria: [Austrian Tolkien Society](/wiki/Austrian_Tolkien_Society) (active)
-    - Czech Republic: [Czech Tolkien Society](/wiki/Czech_Tolkien_Society) (active)
+    - Austria: [Austrian Tolkien Society](../A/Austrian_Tolkien_Society.md) (active)
+    - Czech Republic: [Czech Tolkien Society](../C/Czech_Tolkien_Society.md) (active)
     - Denmark:
-        - [Bri, Tolkienselskabet i København](/wiki/Bri,_Tolkienselskabet_i_K%C3%B8benhavn) (active)
-        - [Imladris, Danmarks Tolkienforening](/wiki/Imladris,_Danmarks_Tolkienforening) (semi dormant)
-    - Finland: [Suomen Tolkien-seura Kontu ry.](/wiki/Suomen_Tolkien-seura_Kontu_ry.) (active)
-    - France: [Tolkiendil](</wiki/Tolkiendil_(Tolkien_society)> "Tolkiendil (Tolkien society)") (active)
-    - Belgium: [Flemish Tolkien &amp; Fantasy Society Elanor](</wiki/Elanor_(Tolkien_Society)> "Elanor (Tolkien Society)") (active)
-    - Germany: [Deutsche Tolkien Gesellschaft e.V.](/wiki/Deutsche_Tolkien_Gesellschaft_e.V.) (active)
-    - Greece: [Ellinikós Sýllogos Philon Tólkin](/wiki/Ellinik%C3%B3s_S%C3%BDllogos_Philon_T%C3%B3lkin) (active)
-    - Hungary: [Hungarian Tolkien Society](/wiki/Hungarian_Tolkien_Society) (active)
+        - [Bri, Tolkienselskabet i København](../B/Bri,_Tolkienselskabet_i_København.md) (active)
+        - [Imladris, Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md) (semi dormant)
+    - Finland: [Suomen Tolkien-seura Kontu ry.](../S/Suomen_Tolkien-seura_Kontu_ry..md) (active)
+    - France: [Tolkiendil](<Tolkiendil_(Tolkien_society).md>) (active)
+    - Belgium: [Flemish Tolkien &amp; Fantasy Society Elanor](<../E/Elanor_(Tolkien_Society).md>) (active)
+    - Germany: [Deutsche Tolkien Gesellschaft e.V.](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (active)
+    - Greece: [Ellinikós Sýllogos Philon Tólkin](../E/Ellinikós_Sýllogos_Philon_Tólkin.md) (active)
+    - Hungary: [Hungarian Tolkien Society](../H/Hungarian_Tolkien_Society.md) (active)
     - Italy:
-        - [Italian Tolkien Association](/wiki/Societ%C3%A0_Tolkieniana_Italiana "Società Tolkieniana Italiana") (active)
-        - [Italian Association of Tolkien Studies](/wiki/Associazione_italiana_studi_Tolkieniani "Associazione italiana studi Tolkieniani") (active)
-    - Lithuania: [Tolkien Lietuva](/wiki/Tolkien_Lietuva) (active)
+        - [Italian Tolkien Association](../S/Società_Tolkieniana_Italiana.md) (active)
+        - [Italian Association of Tolkien Studies](../A/Associazione_italiana_studi_Tolkieniani~65383.md) (active)
+    - Lithuania: [Tolkien Lietuva](Tolkien_Lietuva.md) (active)
     - Netherlands:
-        - [Tolkien Society Unquendor](/wiki/Unquendor "Unquendor") (active)
-        - [Ennorandirrim](/wiki/Ennorandirrim) (active)
-    - Norway: [Norges Tolkien Forening Arthedain](</wiki/Arthedain_(Tolkien_Society)> "Arthedain (Tolkien Society)") (active)
-    - Poland: [Parmadili*, Sekcja Tolkienowska Śląskiego Klubu Fantastyki*](/wiki/Sekcja_Tolkienowska_%C5%9AKF "Sekcja Tolkienowska ŚKF") (active)
-    - Russia: [St Petersburg Tolkien Society](/wiki/St_Petersburg_Tolkien_Society) (active)
-    - Slovenia: [Gil-galad](</wiki/Gil-Galad_(Tolkien_Society)> "Gil-Galad (Tolkien Society)") (active)
-    - Spain: [Spanish Tolkien Society](/wiki/Spanish_Tolkien_Society) (active)
+        - [Tolkien Society Unquendor](../U/Unquendor.md) (active)
+        - [Ennorandirrim](../E/Ennorandirrim.md) (active)
+    - Norway: [Norges Tolkien Forening Arthedain](<../A/Arthedain_(Tolkien_Society).md>) (active)
+    - Poland: [Parmadili*, Sekcja Tolkienowska Śląskiego Klubu Fantastyki*](../S/Sekcja_Tolkienowska_ŚKF.md) (active)
+    - Russia: [St Petersburg Tolkien Society](../S/St_Petersburg_Tolkien_Society.md) (active)
+    - Slovenia: [Gil-galad](<../G/Gil-Galad_(Tolkien_Society).md>) (active)
+    - Spain: [Spanish Tolkien Society](../S/Spanish_Tolkien_Society.md) (active)
     - Sweden:
-        - [Angmar, Malmö Tolkiensällskap](/wiki/Angmar,_Malm%C3%B6_Tolkiens%C3%A4llskap) (active)
-        - [Forodrim, Stockholms Tolkiensällskap](/wiki/Forodrim "Forodrim") (active)
-        - [Mithlond, Göteborgs Tolkiensällskap](/wiki/Mithlond,_G%C3%B6teborgs_Tolkiens%C3%A4llskap) (active)
-        - [Uppsala Tolkiensällskap](/wiki/Uppsala_Tolkiens%C3%A4llskap) (active)
+        - [Angmar, Malmö Tolkiensällskap](../A/Angmar,_Malmö_Tolkiensällskap.md) (active)
+        - [Forodrim, Stockholms Tolkiensällskap](../F/Forodrim.md) (active)
+        - [Mithlond, Göteborgs Tolkiensällskap](../M/Mithlond,_Göteborgs_Tolkiensällskap.md) (active)
+        - [Uppsala Tolkiensällskap](../U/Uppsala_Tolkiensällskap.md) (active)
     - United Kingdom:
-        - [Cambridge Tolkien Society](/wiki/Cambridge_Tolkien_Society) (active)
-        - [Taruithorn - The Oxford Tolkien Society](</wiki/Taruithorn_(Tolkien_Society)> "Taruithorn (Tolkien Society)") (active)
-        - **[The Tolkien Society](/wiki/The_Tolkien_Society)** (active)
+        - [Cambridge Tolkien Society](../C/Cambridge_Tolkien_Society.md) (active)
+        - [Taruithorn - The Oxford Tolkien Society](<Taruithorn_(Tolkien_Society).md>) (active)
+        - **[The Tolkien Society](The_Tolkien_Society.md)** (active)
 
 - *Asia Pacific*
-    - Japan: [Shiro no Norite](/wiki/Shiro_no_Norite) (unclear)
-    - Israel: [Israeli Tolkien Society](/wiki/Israeli_Tolkien_Society) (active)
-    - Australia: [Hern Ennorath](/wiki/Hern_Ennorath) (active)
+    - Japan: [Shiro no Norite](../S/Shiro_no_Norite.md) (unclear)
+    - Israel: [Israeli Tolkien Society](../I/Israeli_Tolkien_Society.md) (active)
+    - Australia: [Hern Ennorath](../H/Hern_Ennorath.md) (active)
 
 ## Defunct as of 2023 {#Defunct_as_of_2023}
 
 - *North America*
-    - [Idaho and Montana Tolkien Society](/wiki/Idaho_and_Montana_Tolkien_Society)
-    - [American Tolkien Society](/wiki/American_Tolkien_Society)
-    - [New England Tolkien Society](/wiki/New_England_Tolkien_Society)
-    - [North East Tolkien Society](/wiki/North_East_Tolkien_Society)
-    - [The National Tolkien League](/wiki/The_National_Tolkien_League)
-    - [Tolkien Society of America](/wiki/Tolkien_Society_of_America) (merged with [Mythopoeic Society](/wiki/Mythopoeic_Society))
+    - [Idaho and Montana Tolkien Society](../I/Idaho_and_Montana_Tolkien_Society.md)
+    - [American Tolkien Society](../A/American_Tolkien_Society.md)
+    - [New England Tolkien Society](../N/New_England_Tolkien_Society.md)
+    - [North East Tolkien Society](../N/North_East_Tolkien_Society.md)
+    - [The National Tolkien League](The_National_Tolkien_League.md)
+    - [Tolkien Society of America](Tolkien_Society_of_America.md) (merged with [Mythopoeic Society](../M/Mythopoeic_Society.md))
 
 - Latin America
-    - Brazil: [Heren Hyarmen](/wiki/Heren_Hyarmen)
+    - Brazil: [Heren Hyarmen](../H/Heren_Hyarmen.md)
 - *Europe*
-    - Belgium: [Belegaer - Cercle d'etudes de Tolkien en Belgique](</wiki/Belegaer_(Tolkien_Society)> "Belegaer (Tolkien Society)")
+    - Belgium: [Belegaer - Cercle d'etudes de Tolkien en Belgique](<../B/Belegaer_(Tolkien_Society).md>)
     - Denmark:
-        - [Dansk Tolkien Selskab](/wiki/Dansk_Tolkien_Selskab) (merged to become Imladris)
-        - [Tolkiens Følge](/wiki/Tolkiens_F%C3%B8lge) (merged to become Imladris)
-    - Estonia: [Estonian Tolkien Society](/wiki/Estonian_Tolkien_Society)
+        - [Dansk Tolkien Selskab](../D/Dansk_Tolkien_Selskab.md) (merged to become Imladris)
+        - [Tolkiens Følge](Tolkiens_Følge.md) (merged to become Imladris)
+    - Estonia: [Estonian Tolkien Society](../E/Estonian_Tolkien_Society.md)
     - France:
-        - [Tolkien &amp; Co](/wiki/French_Tolkien_Association "French Tolkien Association")
-        - [FEE](/wiki/L%27association_La_Facult%C3%A9_des_%C3%A9tudes_elfiques "L'association La Faculté des études elfiques")
-        - [L'association La Compagnie de la Comté](/wiki/L%27association_La_Compagnie_de_la_Comt%C3%A9)
-    - Netherlands: [The Fellowship](/wiki/The_Fellowship)
+        - [Tolkien &amp; Co](../F/French_Tolkien_Association.md)
+        - [FEE](../L/L'association_La_Faculté_des_études_elfiques.md)
+        - [L'association La Compagnie de la Comté](../L/L'association_La_Compagnie_de_la_Comté.md)
+    - Netherlands: [The Fellowship](The_Fellowship.md)
     - Poland:
         - Loza Tolkienowska Krakow
-        - [Sekcja Tolkienowska ŚKF](/wiki/Sekcja_Tolkienowska_%C5%9AKF)
+        - [Sekcja Tolkienowska ŚKF](../S/Sekcja_Tolkienowska_ŚKF.md)
     - Sweden:
-        - [Arda-sällskapet](</wiki/Arda_(annual)> "Arda (annual)") (defunct: last activity: 2021)
-        - [Caradhras, Södra latins Tolkiensällskap](/wiki/Caradhras,_S%C3%B6dra_latins_Tolkiens%C3%A4llskap) (defunct: last activity: 2017)
-        - [The Tolkien Society of Sweden](/wiki/The_Tolkien_Society_of_Sweden)
-        - [Osgiliath, Västerås Tolkiensällskap](/wiki/Osgiliath,_V%C3%A4ster%C3%A5s_Tolkiens%C3%A4llskap)
-        - [Galadhon, Lunds Tolkiensällskap](/wiki/Galadhon,_Lunds_Tolkiens%C3%A4llskap)
+        - [Arda-sällskapet](<../A/Arda_(annual).md>) (defunct: last activity: 2021)
+        - [Caradhras, Södra latins Tolkiensällskap](../C/Caradhras,_Södra_latins_Tolkiensällskap.md) (defunct: last activity: 2017)
+        - [The Tolkien Society of Sweden](The_Tolkien_Society_of_Sweden.md)
+        - [Osgiliath, Västerås Tolkiensällskap](../O/Osgiliath,_Västerås_Tolkiensällskap.md)
+        - [Galadhon, Lunds Tolkiensällskap](../G/Galadhon,_Lunds_Tolkiensällskap.md)
     - Switzerland:
-        - [Swiss Tolkien Society](/wiki/Eredain "Eredain")
-        - Switzerland: [Society Tolkieniana Switzerland Smial of the Ticino](/wiki/Society_Tolkieniana_Switzerland_Smial_of_the_Ticino)
+        - [Swiss Tolkien Society](../E/Eredain.md)
+        - Switzerland: [Society Tolkieniana Switzerland Smial of the Ticino](../S/Society_Tolkieniana_Switzerland_Smial_of_the_Ticino.md)
 
 - *Asia Pacific*
-    - Australia: [Mythopoeic Literature Society](/wiki/Mythopoeic_Literature_Society)
-    - Malaysia: [North Borneo Frodo Society](/wiki/North_Borneo_Frodo_Society)
-    - Philippines: [Philippine Tolkien Society](/wiki/Philippine_Tolkien_Society)
+    - Australia: [Mythopoeic Literature Society](../M/Mythopoeic_Literature_Society.md)
+    - Malaysia: [North Borneo Frodo Society](../N/North_Borneo_Frodo_Society.md)
+    - Philippines: [Philippine Tolkien Society](../P/Philippine_Tolkien_Society.md)
 
 - *Africa*
-    - South Africa: [Haradrim](</wiki/Haradrim_(Tolkien_Society)> "Haradrim (Tolkien Society)")
+    - South Africa: [Haradrim](<../H/Haradrim_(Tolkien_Society).md>)
 
 ## References {#References}
-
-<style data-mw-deduplicate="TemplateStyles:r403282">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
 
 <div class="reflist">
 <div class="mw-references-wrap"><ol class="references">
@@ -130,4 +127,4 @@ Below is a list of **Tolkien Societies**.
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://www.mindmeister.com/183530034/tolkien-societies-all-over-the-world" rel="noreferrer noopener" target="_blank">Index of Tolkien Societies</a> assembled by [Marcel Bülles](/wiki/Marcel_B%C3%BClles).
+- <a class="external text" href="http://www.mindmeister.com/183530034/tolkien-societies-all-over-the-world" rel="noreferrer noopener" target="_blank">Index of Tolkien Societies</a> assembled by [Marcel Bülles](../M/Marcel_Bülles.md).

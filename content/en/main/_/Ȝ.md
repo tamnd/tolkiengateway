@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yogh"
 ---
 
-Redirect to [Yogh](/wiki/Yogh).
+Redirect to [Yogh](../Y/Yogh.md).

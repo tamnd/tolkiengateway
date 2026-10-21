@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rose (disambiguation)"
 ---
 
-Redirect to [Rose (disambiguation)](/wiki/Rose_(disambiguation)).
+Redirect to [Rose (disambiguation)](<Rose_(disambiguation).md>).

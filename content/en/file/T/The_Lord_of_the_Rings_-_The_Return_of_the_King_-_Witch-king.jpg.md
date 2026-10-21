@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Witch-king.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Witch-king.jpg</span>"
 page_id: 21151
 namespace: 6
 revision_id: 306347
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Witch-king](/wiki/Witch-king) of [Angmar](/wiki/Angmar) at the [Battle of Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields "Battle of the Pelennor Fields"). Screenshot from *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*.
+The [Witch-king](../../main/W/Witch-king.md) of [Angmar](../../main/A/Angmar.md) at the [Battle of Pelennor Fields](../../main/B/Battle_of_the_Pelennor_Fields.md). Screenshot from *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.
 
 ## Licensing {#Licensing}
 

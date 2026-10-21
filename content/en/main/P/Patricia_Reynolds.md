@@ -1,6 +1,5 @@
 ---
 title: "Patricia Reynolds"
-display_title: "<span class=\"mw-page-title-main\">Patricia Reynolds</span>"
 page_id: 40529
 namespace: 0
 revision_id: 406942
@@ -23,85 +22,85 @@ sort_keys:
   "Tolkien Society members": "Reynolds, Patricia"
 ---
 
-**Patricia Reynolds** has written and edited books and articles related to [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). She is also the Archivist of [the Tolkien Society](/wiki/The_Tolkien_Society "The Tolkien Society").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Patricia Reynolds** has written and edited books and articles related to [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). She is also the Archivist of [the Tolkien Society](../T/The_Tolkien_Society.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1992](/wiki/1992): <i><a class="new" href="/w/index.php?title=Tolkien%27s_Birmingham&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Birmingham (page does not exist)">Tolkien&#39;s Birmingham</a></i>
-- [1995](/wiki/1995): *[Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference)* (editor, with [Glen GoodKnight](/wiki/Glen_GoodKnight))
+- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_Birmingham&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Birmingham (page does not exist)">Tolkien&#39;s Birmingham</a></i>
+- [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)* (editor, with [Glen GoodKnight](../G/Glen_GoodKnight.md))
 
 ### Journals (editor) {#Journals_(editor)}
 
-- [1993](/wiki/1993): [*Mallorn* 30](/wiki/Mallorn_30 "Mallorn 30") (with [John Ellison](/wiki/John_Ellison))
-- [1994](/wiki/1994): [*Mallorn* 31](/wiki/Mallorn_31 "Mallorn 31") (with [John Ellison](/wiki/John_Ellison))
-- [1995](/wiki/1995): [*Mallorn* 32](/wiki/Mallorn_32 "Mallorn 32") (with [John Ellison](/wiki/John_Ellison))
-- [1996](/wiki/1996): [*Mallorn* 34](/wiki/Mallorn_34 "Mallorn 34") (with [John Ellison](/wiki/John_Ellison))
-- [1997](/wiki/1997): [*Mallorn* 35](/wiki/Mallorn_35 "Mallorn 35") (with [John Ellison](/wiki/John_Ellison))
-- [1998](/wiki/1998): [*Mallorn* 36](/wiki/Mallorn_36 "Mallorn 36") (with [John Ellison](/wiki/John_Ellison))
+- [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md) (with [John Ellison](../J/John_Ellison.md))
+- [1994](../_/1994.md): [*Mallorn* 31](../M/Mallorn_31.md) (with [John Ellison](../J/John_Ellison.md))
+- [1995](../_/1995.md): [*Mallorn* 32](../M/Mallorn_32.md) (with [John Ellison](../J/John_Ellison.md))
+- [1996](../_/1996.md): [*Mallorn* 34](../M/Mallorn_34.md) (with [John Ellison](../J/John_Ellison.md))
+- [1997](../_/1997.md): [*Mallorn* 35](../M/Mallorn_35.md) (with [John Ellison](../J/John_Ellison.md))
+- [1998](../_/1998.md): [*Mallorn* 36](../M/Mallorn_36.md) (with [John Ellison](../J/John_Ellison.md))
 
 ### Articles {#Articles}
 
-- [1990](/wiki/1990): [*Mallorn* 27](/wiki/Mallorn_27 "Mallorn 27")
+- [1990](../_/1990.md): [*Mallorn* 27](../M/Mallorn_27.md)
     - "Green Rocks: White Ship *Oilima Markirya* (The Last Ark)"
-- [1991](/wiki/1991): *[Leaves from the Tree](/wiki/Leaves_from_the_Tree)*
+- [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
     - "The Real Tom Bombadil"
-- [1991](/wiki/1991): [*Mallorn* 28](/wiki/Mallorn_28 "Mallorn 28")
+- [1991](../_/1991.md): [*Mallorn* 28](../M/Mallorn_28.md)
     - "Frithuwold and the Farmer: *Farmer Giles of Ham* and his place in History "
-- 199?: *[The Tolkien Collector](/wiki/The_Tolkien_Collector)*, issue 2
+- 199?: *[The Tolkien Collector](../T/The_Tolkien_Collector.md)*, issue 2
     - "Italian Tolkien Criticism"
-- [1996](/wiki/1996): [*Amon Hen* 137](/wiki/Amon_Hen_137 "Amon Hen 137")
+- [1996](../_/1996.md): [*Amon Hen* 137](../A/Amon_Hen_137.md)
     - "The Italian Job"
-- [1996](/wiki/1996): [*Amon Hen* 141](/wiki/Amon_Hen_141 "Amon Hen 141")
+- [1996](../_/1996.md): [*Amon Hen* 141](../A/Amon_Hen_141.md)
     - "Food and Drink, an Unfinished Tale"
-- [1996](/wiki/1996): [*Amon Hen* 142](/wiki/Amon_Hen_142 "Amon Hen 142")
+- [1996](../_/1996.md): [*Amon Hen* 142](../A/Amon_Hen_142.md)
     - "Report: Hobbiton"
-- [1997](/wiki/1997): [*Amon Hen* 145](/wiki/Amon_Hen_145 "Amon Hen 145")
+- [1997](../_/1997.md): [*Amon Hen* 145](../A/Amon_Hen_145.md)
     - "AGM Report"
-- [1997](/wiki/1997): [*Mallorn* 35](/wiki/Mallorn_35 "Mallorn 35")
+- [1997](../_/1997.md): [*Mallorn* 35](../M/Mallorn_35.md)
     - "The Hill at Hobbiton' Vernacular Architecture in the Shire"
-- [1998](/wiki/1998): [*Amon Hen* 154](/wiki/Amon_Hen_154 "Amon Hen 154")
+- [1998](../_/1998.md): [*Amon Hen* 154](../A/Amon_Hen_154.md)
     - "Report on Hobbiton &amp; Oxonmoot"
-- [1999](/wiki/1999): *[Tolkien, the Sea and Scandinavia](/wiki/Tolkien,_the_Sea_and_Scandinavia)*
+- [1999](../_/1999.md): *[Tolkien, the Sea and Scandinavia](../T/Tolkien,_the_Sea_and_Scandinavia.md)*
     - "The Great Wave and Other Dreams in The Lord of the Rings"
-- [2002](/wiki/2002): [*Amon Hen* 174](/wiki/Amon_Hen_174 "Amon Hen 174")
+- [2002](../_/2002.md): [*Amon Hen* 174](../A/Amon_Hen_174.md)
     - "Are the pictures better in your head?"
     - "Report: Lustrum &amp; Estelcon"
-- [2004](/wiki/2004): [*Amon Hen* 189](/wiki/Amon_Hen_189 "Amon Hen 189")
-    - "Report: [Mythcon 35](/wiki/Mythcon_35)"
-- [2007](/wiki/2007): [*Amon Hen* 203](/wiki/Amon_Hen_203 "Amon Hen 203")
+- [2004](../_/2004.md): [*Amon Hen* 189](../A/Amon_Hen_189.md)
+    - "Report: [Mythcon 35](../M/Mythcon_35.md)"
+- [2007](../_/2007.md): [*Amon Hen* 203](../A/Amon_Hen_203.md)
     - "Report: The Fifth Lustrum of Unquendor"
-- [2011](/wiki/2011): [*Amon Hen* 230](/wiki/Amon_Hen_230 "Amon Hen 230")
-    - "Further along the road... - [2012 news](/wiki/The_Return_of_the_Ring "The Return of the Ring")"
-- [2014](/wiki/2014): [*Amon Hen* 246](/wiki/Amon_Hen_246 "Amon Hen 246")
+- [2011](../_/2011.md): [*Amon Hen* 230](../A/Amon_Hen_230.md)
+    - "Further along the road... - [2012 news](../T/The_Return_of_the_Ring.md)"
+- [2014](../_/2014.md): [*Amon Hen* 246](../A/Amon_Hen_246.md)
     - Seminar Announcement
-- [2014](/wiki/2014): [*Amon Hen* 247](/wiki/Amon_Hen_247 "Amon Hen 247")
+- [2014](../_/2014.md): [*Amon Hen* 247](../A/Amon_Hen_247.md)
     - Seminar Announcement
-- [2015](/wiki/2015): *[Journeys &amp; Destinations](/wiki/Journeys_%26_Destinations)*
+- [2015](../_/2015.md): *[Journeys &amp; Destinations](../J/Journeys_&_Destinations.md)*
     - "Rings and other Things - Possession and the Possessed"
 
 ### Reviews {#Reviews}
 
-- [1998](/wiki/1998): [*Amon Hen* 153](/wiki/Amon_Hen_153 "Amon Hen 153")
+- [1998](../_/1998.md): [*Amon Hen* 153](../A/Amon_Hen_153.md)
     - *The 1999 Italian Calendar* (with Trevor Reynolds)
     - *The Italian Middle-earth Diary* (with Trevor Reynolds)
-- [1998](/wiki/1998): [*Mallorn* 36](/wiki/Mallorn_36 "Mallorn 36")
+- [1998](../_/1998.md): [*Mallorn* 36](../M/Mallorn_36.md)
     - "Fantasy Fiction and Welsh Myth: Tales of Belonging"
-- [1999](/wiki/1999): [*Amon Hen* 158](/wiki/Amon_Hen_158 "Amon Hen 158")
-    - "US paperback *[Roverandom](/wiki/Roverandom)*"
-- [1999](/wiki/1999): [*Amon Hen* 159](/wiki/Amon_Hen_159 "Amon Hen 159")
+- [1999](../_/1999.md): [*Amon Hen* 158](../A/Amon_Hen_158.md)
+    - "US paperback *[Roverandom](../R/Roverandom.md)*"
+- [1999](../_/1999.md): [*Amon Hen* 159](../A/Amon_Hen_159.md)
     - *Italian Calendar 2000* (with Trevor Reynolds)
-- [2000](/wiki/2000): [*Amon Hen* 165](/wiki/Amon_Hen_165 "Amon Hen 165")
+- [2000](../_/2000.md): [*Amon Hen* 165](../A/Amon_Hen_165.md)
     - "Lord of the Rings Clock"
-- [2004](/wiki/2004): [*Amon Hen* 188](/wiki/Amon_Hen_188 "Amon Hen 188")
+- [2004](../_/2004.md): [*Amon Hen* 188](../A/Amon_Hen_188.md)
     - "Tolkien's Beowulf - a new prose translation"
-- [2008](/wiki/2008): [*Mallorn* 45](/wiki/Mallorn_45 "Mallorn 45")
+- [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
     - "Journeys into Faërie" (review of *Explore Fairy Traditions*)
     - "Northern Venture" (review of <a class="extiw" href="http://en.wikipedia.org/wiki/The_Golden_Compass_(film)" title="wikipedia:The Golden Compass (film)"><i>The Golden Compass</i> film</a>)
-- [2009](/wiki/2009): [*Mallorn* 48](/wiki/Mallorn_48 "Mallorn 48")
-    - "What's in a name?" (reviews of *[The Tolkien Name in History](/wiki/The_Tolkien_Name_in_History)*, <i><a class="new" href="/w/index.php?title=The_Suffield_Name_in_History&amp;action=edit&amp;redlink=1" title="The Suffield Name in History (page does not exist)">The Suffield Name in History</a></i> and *The Origins of [JRR Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") in [Bloemfontein](/wiki/Bloemfontein)*)
-- [2011](/wiki/2011): [*Mallorn* 52](/wiki/Mallorn_52 "Mallorn 52")
+- [2009](../_/2009.md): [*Mallorn* 48](../M/Mallorn_48.md)
+    - "What's in a name?" (reviews of *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Suffield_Name_in_History&amp;action=edit&amp;redlink=1" title="The Suffield Name in History (page does not exist)">The Suffield Name in History</a></i> and *The Origins of [JRR Tolkien](../J/J.R.R._Tolkien.md) in [Bloemfontein](../B/Bloemfontein.md)*)
+- [2011](../_/2011.md): [*Mallorn* 52](../M/Mallorn_52.md)
     - "A trip to Iceland" (review of *Where the Shadows Lie*)
 
 <span></span>
@@ -109,6 +108,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.nationalarchives.gov.uk/archon/searches/locresult_details.asp?LR=2129" rel="noreferrer noopener" target="_blank">&#34;Tolkien Society Archives&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.nationalarchives.gov.uk/" rel="noreferrer noopener" target="_blank">NationalArchives.gov.uk</a></span>. <span class="cite-web-accessed">Retrieved 16 July 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.nationalarchives.gov.uk/archon/searches/locresult_details.asp?LR=2129" rel="noreferrer noopener" target="_blank">&#34;Tolkien Society Archives&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.nationalarchives.gov.uk/" rel="noreferrer noopener" target="_blank">NationalArchives.gov.uk</a></span>. <span class="cite-web-accessed">Retrieved 16 July 2012</span></cite></span>
 </li>
 </ol></div>

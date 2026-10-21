@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Fellowship of the Ring - Silverlode Banks.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Fellowship of the Ring - Silverlode Banks.jpg</span>"
 page_id: 71705
 namespace: 6
 revision_id: 427401
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Silverlode](/wiki/Celebrant "Celebrant") Banks - *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* - *Fellowship of the Ring*
+[Silverlode](../../main/C/Celebrant.md) Banks - *[The Lord of the Rings: The Fellowship of the Ring](../../main/T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* - *Fellowship of the Ring*
 
 ## Licensing {#Licensing}
 

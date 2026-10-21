@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thorin and Company"
 ---
 
-Redirect to [Thorin and Company](/wiki/Thorin_and_Company).
+Redirect to [Thorin and Company](Thorin_and_Company.md).

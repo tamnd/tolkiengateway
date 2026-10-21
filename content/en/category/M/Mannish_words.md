@@ -1,6 +1,5 @@
 ---
 title: "Category:Mannish words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mannish words</span>"
 page_id: 23030
 namespace: 14
 revision_id: 92699
@@ -16,4 +15,4 @@ sort_keys:
   "Mannish": "Words"
 ---
 
-Names and other words from minor [Mannish](/wiki/Mannish) languages
+Names and other words from minor [Mannish](../../main/M/Mannish.md) languages

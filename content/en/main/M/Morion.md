@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-ion"
 ---
 
-Redirect to [-ion](/wiki/-ion).
+Redirect to [-ion](../_/-ion.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Groan.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Groan.png](/wiki/File:The_Hobbit_(1967_film)_-_Groan.png).
+Redirect to [File:The Hobbit (1967 film) - Groan.png](<The_Hobbit_(1967_film)_-_Groan.png.md>).

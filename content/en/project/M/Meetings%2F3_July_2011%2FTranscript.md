@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Meetings/3 July 2011/Transcript"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Meetings/3 July 2011/Transcript</span>"
 page_id: 34663
 namespace: 4
 revision_id: 367942
@@ -46,8 +45,8 @@ Jul 03 12:12:12 &lt;KingAragorn&gt;	Now up is Mith with &#34;Singular/plural art
 Jul 03 12:12:32 &lt;Mith&gt;	Exactly what it says on the tin<br/>
 Jul 03 12:12:43 &lt;Morgan&gt;	Maybe you could expand why you prefer singular<br/>
 Jul 03 12:13:01 &lt;Mith&gt;	The reason I prefer singular is simply for linking. And I&#39;ll use the example Hobbits<br/>
-Jul 03 12:13:36 &lt;Mith&gt;	If we have the article &#34;Hobbits&#34;, to link to Hobbit I have to type <a href="/wiki/Hobbits" title="Hobbits">Hobbit</a> and to link Hobbits I do <a href="/wiki/Hobbits" title="Hobbits">Hobbits</a><br/>
-Jul 03 12:13:55 &lt;Mith&gt;	Whereas, if the article is &#34;Hobbit&#34;, I can do <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbit</a> and <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbits</a>. Simples!<br/>
+Jul 03 12:13:36 &lt;Mith&gt;	If we have the article &#34;Hobbits&#34;, to link to Hobbit I have to type <a href="../../main/H/Hobbits.md" title="Hobbits">Hobbit</a> and to link Hobbits I do <a href="../../main/H/Hobbits.md" title="Hobbits">Hobbits</a><br/>
+Jul 03 12:13:55 &lt;Mith&gt;	Whereas, if the article is &#34;Hobbit&#34;, I can do <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">Hobbit</a> and <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">Hobbits</a>. Simples!<br/>
 Jul 03 12:14:19 &lt;Mith&gt;	Furthermore<br/>
 Jul 03 12:14:20 &lt;Amroth&gt;	I personally like plural.<br/>
 Jul 03 12:14:23 &lt;Morgan&gt;	Is that why WP has singular article names?<br/>
@@ -55,7 +54,7 @@ Jul 03 12:14:32 &lt;Mith&gt;	Morgan: I believe so<br/>
 Jul 03 12:14:36 &lt;Mith&gt;	Furthemore!<br/>
 Jul 03 12:15:00 &lt;Mith&gt;	With lists, e.g. &#34;Kings of Rohan&#34;, the VAST MAJORITY of links are referring to a &#34;King of Rohan&#34;<br/>
 Jul 03 12:15:18 &lt;Mith&gt;	But we inconveniently have the article in the plural<br/>
-Jul 03 12:15:40 &lt;Ainaldo&gt;	as opposed to <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbits</a>. And having a convention will make it easier to guess an article name.<br/>
+Jul 03 12:15:40 &lt;Ainaldo&gt;	as opposed to <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">Hobbits</a>. And having a convention will make it easier to guess an article name.<br/>
 Jul 03 12:16:57 &lt;Morgan&gt;	Amroth, is it only a personal preference, or do you have some argument? Hyarion, what do you think?<br/>
 Jul 03 12:17:27 &lt;Morgan&gt;	<a class="external free" href="http://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)</a><br/>
 Jul 03 12:17:38 &lt;Morgan&gt;	just to see what the arguments are<br/>
@@ -131,7 +130,7 @@ Jul 03 12:33:49 &lt;Ainaldo&gt;	a.) with a convention, it is easier to guess the
 Jul 03 12:33:50 &lt;Mith&gt;	The reason I prefer singular is simply for linking. And I&#39;ll use the example Hobbits.<br/>
 Jul 03 12:33:57 &lt;KingAragorn&gt;	hehe<br/>
 Jul 03 12:34:00 &lt;Morgan&gt;	(or someone else, I can&#39;t copy+paste in Bersirc)<br/>
-Jul 03 12:34:04 &lt;Mith&gt;	If we have the article &#34;Hobbits&#34;, to link to Hobbit I have to type <a href="/wiki/Hobbits" title="Hobbits">Hobbit</a> and to link Hobbits I do <a href="/wiki/Hobbits" title="Hobbits">Hobbits</a>.  	Whereas, if the article is &#34;Hobbit&#34;, I can do <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbit</a> and <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbits</a>. Simples!<br/>
+Jul 03 12:34:04 &lt;Mith&gt;	If we have the article &#34;Hobbits&#34;, to link to Hobbit I have to type <a href="../../main/H/Hobbits.md" title="Hobbits">Hobbit</a> and to link Hobbits I do <a href="../../main/H/Hobbits.md" title="Hobbits">Hobbits</a>.  	Whereas, if the article is &#34;Hobbit&#34;, I can do <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">Hobbit</a> and <a class="mw-redirect" href="../../main/H/Hobbit.md" title="Hobbit">Hobbits</a>. Simples!<br/>
 Jul 03 12:34:08 &lt;mithrennaith&gt;	Apologies - just home from a meeting of Unquendor.<br/>
 Jul 03 12:34:21 &lt;Mith&gt;	With lists, e.g. &#34;Kings of Rohan&#34;, the VAST MAJORITY of links are referring to a &#34;King of Rohan&#34;, but we inconveniently have the article in the plural<br/>
 Jul 03 12:34:26 &lt;Mith&gt;	<a class="external free" href="http://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)</a><br/>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Írensaga"
 ---
 
-Redirect to [Írensaga](/wiki/Írensaga).
+Redirect to [Írensaga](../_/Írensaga.md).

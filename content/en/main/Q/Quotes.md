@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quotations"
 ---
 
-Redirect to [Quotations](/wiki/Quotations).
+Redirect to [Quotations](Quotations.md).

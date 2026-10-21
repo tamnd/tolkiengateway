@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of fords"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of fords</span>"
 page_id: 39815
 namespace: 14
 revision_id: 198959

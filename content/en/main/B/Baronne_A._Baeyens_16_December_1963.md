@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Baronne A. Baeyens"
 ---
 
-Redirect to [Letter to Baronne A. Baeyens](/wiki/Letter_to_Baronne_A._Baeyens).
+Redirect to [Letter to Baronne A. Baeyens](../L/Letter_to_Baronne_A._Baeyens.md).

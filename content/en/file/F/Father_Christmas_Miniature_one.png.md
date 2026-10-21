@@ -1,6 +1,5 @@
 ---
 title: "File:Father Christmas Miniature one.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Father Christmas Miniature one.png</span>"
 page_id: 61955
 namespace: 6
 revision_id: 388912

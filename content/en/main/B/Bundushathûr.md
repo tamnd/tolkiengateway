@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fanuidhol"
 ---
 
-Redirect to [Fanuidhol](/wiki/Fanuidhol).
+Redirect to [Fanuidhol](../F/Fanuidhol.md).

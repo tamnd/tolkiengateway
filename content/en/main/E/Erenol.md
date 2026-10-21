@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Evadrien"
 ---
 
-Redirect to [Evadrien](/wiki/Evadrien).
+Redirect to [Evadrien](Evadrien.md).

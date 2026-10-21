@@ -1,6 +1,5 @@
 ---
 title: "File:The Peril to the Shire.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Peril to the Shire.jpg</span>"
 page_id: 24108
 namespace: 6
 revision_id: 260562

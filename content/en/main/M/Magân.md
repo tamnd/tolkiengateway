@@ -18,19 +18,19 @@ sort_keys:
   "Adûnaic words": "Magan"
 ---
 
-**Magân** is an [Adûnaic](/wiki/Ad%C3%BBnaic) word, meaning *wright, builder*.
+**Magân** is an [Adûnaic](../A/Adûnaic.md) word, meaning *wright, builder*.
 
 ## Etymology {#Etymology}
 
-It derives from a possible verb \**mag* ("to build") and the agentive ending <i><a class="new" href="/w/index.php?title=-%C3%A2n&amp;action=edit&amp;redlink=1" title="-ân (page does not exist)">-ân</a></i>
+It derives from a possible verb \**mag* ("to build") and the agentive ending <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-%C3%A2n&amp;action=edit&amp;redlink=1" title="-ân (page does not exist)">-ân</a></i>
 
-Ultimately the stem must be related to [Elvish](/wiki/Elvish) [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=MA%C6%B7&amp;action=edit&amp;redlink=1" title="MAƷ (page does not exist)">MAƷ</a>/<a class="new" href="/w/index.php?title=MAG&amp;action=edit&amp;redlink=1" title="MAG (page does not exist)">MAG</a> "to handle, use"
+Ultimately the stem must be related to [Elvish](../E/Elvish.md) [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MA%C6%B7&amp;action=edit&amp;redlink=1" title="MAƷ (page does not exist)">MAƷ</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=MAG&amp;action=edit&amp;redlink=1" title="MAG (page does not exist)">MAG</a> "to handle, use"
 
 ## Examples {#Examples}
 
-- [Balkumagân](/wiki/Balkumag%C3%A2n)
+- [Balkumagân](../B/Balkumagân.md)
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a href="/wiki/Mahtan" title="Mahtan">Mahtan</a>, <a class="new" href="/w/index.php?title=Tano&amp;action=edit&amp;redlink=1" title="Tano (page does not exist)">tano</a></i>
-- [Sindarin](/wiki/Sindarin) <i><a class="new" href="/w/index.php?title=Tan&amp;action=edit&amp;redlink=1" title="Tan (page does not exist)">tan</a></i>
+- [Quenya](../Q/Quenya.md) <i><a href="Mahtan.md" title="Mahtan">Mahtan</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tano&amp;action=edit&amp;redlink=1" title="Tano (page does not exist)">tano</a></i>
+- [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tan&amp;action=edit&amp;redlink=1" title="Tan (page does not exist)">tan</a></i>

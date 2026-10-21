@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Black Númenórean.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Black Númenórean.jpg</span>"
 page_id: 71749
 namespace: 6
 revision_id: 427622
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Black Númenórean](/wiki/Black_N%C3%BAmen%C3%B3reans "Black Númenóreans") in *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*. Image from *[The Lord of the Rings Trading Card Game](/wiki/The_Lord_of_the_Rings_Trading_Card_Game)* expansion *Mount Doom*
+[Black Númenórean](../../main/B/Black_Númenóreans.md) in *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Image from *[The Lord of the Rings Trading Card Game](../../main/T/The_Lord_of_the_Rings_Trading_Card_Game.md)* expansion *Mount Doom*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Sindarin names"
 ---
 
-Redirect to [Category:Sindarin names](/wiki/Category:Sindarin_names).
+Redirect to [Category:Sindarin names](../../category/S/Sindarin_names.md).

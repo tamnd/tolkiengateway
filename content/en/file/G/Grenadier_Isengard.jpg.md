@@ -1,6 +1,5 @@
 ---
 title: "File:Grenadier Isengard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grenadier Isengard.jpg</span>"
 page_id: 26483
 namespace: 6
 revision_id: 248715
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Grenadier Models](/wiki/Grenadier_Models)'s *Isengard* box for MERP.
+[Grenadier Models](../../main/G/Grenadier_Models.md)'s *Isengard* box for MERP.
 
 ## Licensing {#Licensing}
 

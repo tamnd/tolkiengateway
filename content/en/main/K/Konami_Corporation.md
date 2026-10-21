@@ -1,6 +1,5 @@
 ---
 title: "Konami Corporation"
-display_title: "<span class=\"mw-page-title-main\">Konami Corporation</span>"
 page_id: 27569
 namespace: 0
 revision_id: 190110
@@ -14,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**Konami Corporation** is a well-known Japanese company with has made famous video game series like <a class="extiw" href="http://en.wikipedia.org/wiki/Castlevania" title="wikipedia:Castlevania">Castlevania</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Silent_Hill" title="wikipedia:Silent Hill">Silent Hill</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Metal_Gear_(series)" title="wikipedia:Metal Gear (series)">Metal Gear Solid</a>. They were the company that developed [Riders of Rohan](</wiki/Riders_of_Rohan_(video_game)> "Riders of Rohan (video game)").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Konami Corporation** is a well-known Japanese company with has made famous video game series like <a class="extiw" href="http://en.wikipedia.org/wiki/Castlevania" title="wikipedia:Castlevania">Castlevania</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Silent_Hill" title="wikipedia:Silent Hill">Silent Hill</a> and <a class="extiw" href="http://en.wikipedia.org/wiki/Metal_Gear_(series)" title="wikipedia:Metal Gear (series)">Metal Gear Solid</a>. They were the company that developed [Riders of Rohan](<../R/Riders_of_Rohan_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

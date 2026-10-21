@@ -1,6 +1,5 @@
 ---
 title: "Tolkien & Co"
-display_title: "<span class=\"mw-page-title-main\">Tolkien &amp; Co</span>"
 page_id: 36965
 namespace: 0
 revision_id: 177322
@@ -14,7 +13,7 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Tolkien &amp; Co** was a [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in France.
+**Tolkien &amp; Co** was a [Tolkien society](Tolkien_Societies~67099.md) in France.
 
 ## History {#History}
 

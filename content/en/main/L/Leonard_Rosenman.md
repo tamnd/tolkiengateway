@@ -1,6 +1,5 @@
 ---
 title: "Leonard Rosenman"
-display_title: "<span class=\"mw-page-title-main\">Leonard Rosenman</span>"
 page_id: 59873
 namespace: 0
 revision_id: 410672
@@ -18,13 +17,13 @@ images:
   - "Leonard_Rosenman.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Leonard_Rosenman.jpg"><img src="/w/images/thumb/1/17/Leonard_Rosenman.jpg/200px-Leonard_Rosenman.jpg" decoding="async" loading="lazy" width="200" height="250" class="mw-file-element" srcset="/w/images/1/17/Leonard_Rosenman.jpg 1.5x" data-file-width="250" data-file-height="313"/></a><figcaption>Leonard Rosenman</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Leonard_Rosenman.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Leonard_Rosenman.jpg/200px-Leonard_Rosenman.jpg" decoding="async" loading="lazy" width="200" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/17/Leonard_Rosenman.jpg 1.5x" data-file-width="250" data-file-height="313"/></a><figcaption>Leonard Rosenman</figcaption></figure>
 
-**Leonard Rosenman** ([September 7](/wiki/7_September "7 September"), [1924](/wiki/1924) - [March 4](/wiki/4_March "4 March"), [2008](/wiki/2008)), was a prize-winning composer. Along with Paul Kont, he composed the soundtrack for [*The Lord of the Rings* film 1978](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+**Leonard Rosenman** ([September 7](../_/7_September.md), [1924](../_/1924.md) - [March 4](../_/4_March.md), [2008](../_/2008.md)), was a prize-winning composer. Along with Paul Kont, he composed the soundtrack for [*The Lord of the Rings* film 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## See also {#See_also}
 
-- *[Paul Kont](/wiki/Paul_Kont)*
+- *[Paul Kont](../P/Paul_Kont.md)*
 
 ## External links {#External_links}
 

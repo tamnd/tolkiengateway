@@ -11,4 +11,4 @@ redirect_target: "Willows"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Willows](/wiki/Willows#Names).
+Redirect to [Willows](../W/Willows.md#Names).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Theft of Melko and the Darkening of Valinor"
 ---
 
-Redirect to [The Theft of Melko and the Darkening of Valinor](/wiki/The_Theft_of_Melko_and_the_Darkening_of_Valinor).
+Redirect to [The Theft of Melko and the Darkening of Valinor](The_Theft_of_Melko_and_the_Darkening_of_Valinor.md).

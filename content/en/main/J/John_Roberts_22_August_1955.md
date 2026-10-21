@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Roberts"
 ---
 
-Redirect to [Letter to John Roberts](/wiki/Letter_to_John_Roberts).
+Redirect to [Letter to John Roberts](../L/Letter_to_John_Roberts.md).

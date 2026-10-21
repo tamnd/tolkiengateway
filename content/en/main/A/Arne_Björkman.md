@@ -1,6 +1,5 @@
 ---
 title: "Arne Björkman"
-display_title: "<span class=\"mw-page-title-main\">Arne Björkman</span>"
 page_id: 27948
 namespace: 0
 revision_id: 404748
@@ -23,28 +22,24 @@ sort_keys:
 
 **Arne Björkman** was a Swedish Christian writer and member of <a class="extiw" href="http://en.wikipedia.org/wiki/Aage_Samuelsen" title="wikipedia:Aage Samuelsen">Maranata</a> (a Swedish pentecostal movement).
 
-In 1983, Swedish magazine *Hemmets vän* published "En doktrineringskampanj från helvetet" ("A Campaign of Indoctrination from Hell") written by Björkman. In the article, Björkman critized what he found to be <a class="extiw" href="http://en.wikipedia.org/wiki/occultism" title="wikipedia:occultism">occult</a> elements in *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*, using arguments from [Åke Ohlmarks](/wiki/%C3%85ke_Ohlmarks)' book *[Tolkien och den svarta magin](/wiki/Tolkien_och_den_svarta_magin)*. A member of the committee of the [Forodrim](/wiki/Forodrim), Hanna Bergstrand, replied to Björkman in a letter, saying that she also was a Christian and arguing that Ohlmark's book was full of factual errors, inconsistencies and absurdities. However, Björkman remained a critic of Tolkien's works and in the mid 2000s he again, writing for the magazine *Maranata!*, stated what he finds to be anti-Christian elements:
+In 1983, Swedish magazine *Hemmets vän* published "En doktrineringskampanj från helvetet" ("A Campaign of Indoctrination from Hell") written by Björkman. In the article, Björkman critized what he found to be <a class="extiw" href="http://en.wikipedia.org/wiki/occultism" title="wikipedia:occultism">occult</a> elements in *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, using arguments from [Åke Ohlmarks](../_/Åke_Ohlmarks.md)' book *[Tolkien och den svarta magin](../T/Tolkien_och_den_svarta_magin.md)*. A member of the committee of the [Forodrim](../F/Forodrim.md), Hanna Bergstrand, replied to Björkman in a letter, saying that she also was a Christian and arguing that Ohlmark's book was full of factual errors, inconsistencies and absurdities. However, Björkman remained a critic of Tolkien's works and in the mid 2000s he again, writing for the magazine *Maranata!*, stated what he finds to be anti-Christian elements:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tolkien, who was a <a class="mw-redirect" href="/wiki/Catholicism" title="Catholicism">Catholic</a>, mixes darkness and light in his books [...] Occult beings of nature and a wizard are fighting for power against another wizard and subterranean creatures. And this is exactly what makes The Lord of the Rings so dangerous, since Tolkien turns black to white and darkness to light. A wizard [Swedish: &#34;trollkarl&#34;, magician, wizard, sorcerer] is an occultist, who uses prohibited magic to reach his goals. And magic is a sin of sorcery, and therefore a wizard cannot be used by God. [...] This is why The Lord of the Rings is a book which seduces its readers to accept sins of sorcery.
+<p>Tolkien, who was a <a class="mw-redirect" href="../C/Catholicism.md" title="Catholicism">Catholic</a>, mixes darkness and light in his books [...] Occult beings of nature and a wizard are fighting for power against another wizard and subterranean creatures. And this is exactly what makes The Lord of the Rings so dangerous, since Tolkien turns black to white and darkness to light. A wizard [Swedish: &#34;trollkarl&#34;, magician, wizard, sorcerer] is an occultist, who uses prohibited magic to reach his goals. And magic is a sin of sorcery, and therefore a wizard cannot be used by God. [...] This is why The Lord of the Rings is a book which seduces its readers to accept sins of sorcery.
 </p>
 <p class="tg-quote-footer"><cite>Arne Björkman<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 <blockquote class="tg-quote noexcerpt">
 <p><small>[Swedish: &#34;<b>Boken om magi</b> / Då den här artikeln skrivs går den populära filmen Sagan om ringen för fullsatta hus på biograferna. Filmen bygger på J.R.R. Tolkiens bok med samma namn. Bokens svenske översättare, Åke Ohlmark, har i sin bok &#39;Tolkien och den svarta magin&#39; beskrivit den som en berättelse med direkt ockult handling. Alla vill inte hålla med om detta. Då jag skrev artikeln &#39;En doktrineringskampanj från helvetet&#39; i Hemmets vän den 9/6 -83 och då nämnde om de ockulta inslagen i Tolkiens böcker, kom en ilsken svarsartikel från Hanna Bergstrand. Hon påpekade att hon var ledamot av styrelsen för Tolkien-sällskapet Forodrim och att hon var kristen. Hon angrep Åke Ohlmarks bok, som hon menade var full av sakfel, feltolkningar och absurda påståenden. Men i samma artikel påpekade hon att de trollkarlar, som finns i handlingen, har sin makt därför att de är änglar i köttslig gestalt, utsända för att verka för världens räddning. Det är här problemet ligger. / Tolkien som var katolik, blandar i sina böcker mörker och ljus i en enda osalig röra. Ockulta naturväsen och en trollkarl kämpar med en annan trollkarl och underjordiska varelser om makten. Och det är just detta som är det farliga i Sagan om ringen, för Tolkien gör svart till vitt och mörker till ljus. En trollkarl är en ockultist, som använder förbjuden magi för att nå sina syften. Och magi är trolldomssynd, och därför kan inte en trollkarl verka för Gud. Det bör också påpekas, att man inte kan skilja mellan &#39;vit magi&#39; och &#39;svart magi&#39;. All magi är trolldomssynd, och det är något som Gud förbjuder människan att syssla med. Därför är Sagan om ringen en bok, som förför läsarna till att acceptera trolldomssynder.&#34;]</small>
 </p>
 </blockquote>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/>
-
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Articles {#Articles}
 
-- [1983](/wiki/1983): *Hemmets vän* June 6, 1983
+- [1983](../_/1983.md): *Hemmets vän* June 6, 1983
     - "En doktrineringskampanj från helvetet" ("A Campaign of Indoctrination from Hell")
 - 200?: *Maranata!*
     - "Sagor som förför: Antikristliga influenser i dagens litteratur" ("Seductive Fairy-tales: Anti-Christian Influences in Contemporary Literature")

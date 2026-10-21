@@ -1,6 +1,5 @@
 ---
 title: "William Auld"
-display_title: "<span class=\"mw-page-title-main\">William Auld</span>"
 page_id: 27765
 namespace: 0
 revision_id: 155216
@@ -19,17 +18,17 @@ sort_keys:
   "People by name": "Auld, William"
 ---
 
-**William Auld** ([6 November](/wiki/6_November) [1924](/wiki/1924) – [11 September](/wiki/11_September) [2006](/wiki/2006)) was a Scottish poet, author, translator and magazine editor who wrote chiefly in [Esperanto](/wiki/Esperanto). Auld translated *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and contributed to the translation of *[The Hobbit](/wiki/The_Hobbit)* into Esperanto.
+**William Auld** ([6 November](../_/6_November.md) [1924](../_/1924.md) – [11 September](../_/11_September.md) [2006](../_/2006.md)) was a Scottish poet, author, translator and magazine editor who wrote chiefly in [Esperanto](../E/Esperanto.md). Auld translated *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and contributed to the translation of *[The Hobbit](../T/The_Hobbit.md)* into Esperanto.
 
 ## Bibliography, selected {#Bibliography,_selected}
 
 ### Translations {#Translations}
 
-- *[La mastro de l' ringoj](/wiki/La_mastro_de_l%27_ringoj)* (*[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*)
-    - [1995](/wiki/1995): *La kunularo de l' ringo* (*[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*)
-    - [1995](/wiki/1995): *La du turegoj* (*[The Two Towers](/wiki/The_Two_Towers)*)
-    - [1997](/wiki/1997): *La reveno de la reĝo* ([The Return of the King](/wiki/The_Return_of_the_King)*)*
-- [2000](/wiki/2000): *[La hobito](/wiki/La_hobito)* (*[The Hobbit](/wiki/The_Hobbit)*; with <a class="new" href="/w/index.php?title=Christopher_Gledhill&amp;action=edit&amp;redlink=1" title="Christopher Gledhill (page does not exist)">Christopher Gledhill</a>; Auld translated the poems and songs)
+- *[La mastro de l' ringoj](../L/La_mastro_de_l'_ringoj.md)* (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*)
+    - [1995](../_/1995.md): *La kunularo de l' ringo* (*[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*)
+    - [1995](../_/1995.md): *La du turegoj* (*[The Two Towers](../T/The_Two_Towers.md)*)
+    - [1997](../_/1997.md): *La reveno de la reĝo* ([The Return of the King](../T/The_Return_of_the_King.md)*)*
+- [2000](../_/2000.md): *[La hobito](../L/La_hobito.md)* (*[The Hobbit](../T/The_Hobbit.md)*; with <a class="new" href="https://tolkiengateway.net/w/index.php?title=Christopher_Gledhill&amp;action=edit&amp;redlink=1" title="Christopher Gledhill (page does not exist)">Christopher Gledhill</a>; Auld translated the poems and songs)
 
 ## External links {#External_links}
 

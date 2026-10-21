@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Eric David Anderson"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Eric David Anderson</span>"
 page_id: 29620
 namespace: 14
 revision_id: 181999

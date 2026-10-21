@@ -1,6 +1,5 @@
 ---
 title: "File:Parma Eldalamberon 11 (back cover).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Parma Eldalamberon 11 (back cover).png</span>"
 page_id: 62550
 namespace: 6
 revision_id: 412650
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-Art by <a class="new" href="/w/index.php?title=Adam_Christensen&amp;action=edit&amp;redlink=1" title="Adam Christensen (page does not exist)">Adam Christensen</a>. Art for the back cover of *[Parma Eldalamberon 11](/wiki/Parma_Eldalamberon_11)*.
+Art by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Adam_Christensen&amp;action=edit&amp;redlink=1" title="Adam Christensen (page does not exist)">Adam Christensen</a>. Art for the back cover of *[Parma Eldalamberon 11](../../main/P/Parma_Eldalamberon_11.md)*.
 
 ## Licensing {#Licensing}
 

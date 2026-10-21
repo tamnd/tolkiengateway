@@ -1,6 +1,5 @@
 ---
 title: "File:The Rings of Power (TV series) - Eärien poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Rings of Power (TV series) - Eärien poster.jpg</span>"
 page_id: 60852
 namespace: 6
 revision_id: 353971
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Official image of [Eärien](/wiki/E%C3%A4rien) from [Amazon](/wiki/Amazon_Studios "Amazon Studios")'s series *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+Official image of [Eärien](../../main/E/Eärien.md) from [Amazon](../../main/A/Amazon_Studios.md)'s series *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

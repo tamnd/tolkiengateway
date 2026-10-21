@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Octo Kwan"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Octo Kwan</span>"
 page_id: 66540
 namespace: 14
 revision_id: 384778
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kwan, Octo"
 ---
 
-This category lists all **images by [Octo Kwan](/wiki/Octo_Kwan)**.
+This category lists all **images by [Octo Kwan](../../main/O/Octo_Kwan.md)**.

@@ -1,6 +1,5 @@
 ---
 title: "Category:Video game templates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Video game templates</span>"
 page_id: 60074
 namespace: 14
 revision_id: 336546

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Portal:Characters"
 ---
 
-Redirect to [Portal:Characters](/wiki/Portal:Characters).
+Redirect to [Portal:Characters](../C/Characters.md).

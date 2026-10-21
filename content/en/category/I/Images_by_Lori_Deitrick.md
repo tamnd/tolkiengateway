@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Lori Deitrick"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Lori Deitrick</span>"
 page_id: 30042
 namespace: 14
 revision_id: 440588
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Deitrick, Lori"
 ---
 
-This category lists all **images by [Lori Deitrick](/wiki/Lori_Deitrick)**.
+This category lists all **images by [Lori Deitrick](../../main/L/Lori_Deitrick.md)**.

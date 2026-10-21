@@ -1,6 +1,5 @@
 ---
 title: "File:Ben Wootten - Disturber of the Peace.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ben Wootten - Disturber of the Peace.jpg</span>"
 page_id: 74563
 namespace: 6
 revision_id: 441226
@@ -37,21 +36,17 @@ file:
 <blockquote class="tg-quote noexcerpt">
 <p>The first Weta Collectable print I did. Fun painting something cheerful and beautiful. To think it all started here.
 </p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>&#34;<a href="/wiki/Gandalf" title="Gandalf">Disturber of the Peace</a>&#34;, an art print created by <a href="/wiki/Ben_Wootten" title="Ben Wootten">Ben Wootten</a> for <a href="/wiki/W%C4%93t%C4%81_Workshop" title="Wētā Workshop">Wētā Workshop</a>
+</blockquote>&#34;<a href="../../main/G/Gandalf.md" title="Gandalf">Disturber of the Peace</a>&#34;, an art print created by <a href="../../main/B/Ben_Wootten.md" title="Ben Wootten">Ben Wootten</a> for <a href="../../main/W/Wētā_Workshop.md" title="Wētā Workshop">Wētā Workshop</a>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2011</td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://cara.app/post/a24e4cc8-482f-42f2-b46f-b8a49fd1f5dd" rel="noreferrer noopener" target="_blank">Cara</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

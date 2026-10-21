@@ -1,6 +1,5 @@
 ---
 title: "File:Mr Bliss 1983.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mr Bliss 1983.jpg</span>"
 page_id: 15609
 namespace: 6
 revision_id: 349025

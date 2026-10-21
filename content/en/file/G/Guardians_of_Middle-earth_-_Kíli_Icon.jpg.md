@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Kíli Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Kíli Icon.jpg</span>"
 page_id: 71397
 namespace: 6
 revision_id: 425936
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Kíli](/wiki/K%C3%ADli) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Kíli](../../main/K/Kíli.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

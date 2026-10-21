@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Fabio Leone"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Fabio Leone</span>"
 page_id: 47896
 namespace: 4
 revision_id: 255123
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Fabio Leone"
 ---
 
-- Fabio Leone has kindly granted his permission to [his artwork](/wiki/Category:Images_by_Fabio_Leone "Category:Images by Fabio Leone") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Fabio Leone has kindly granted his permission to [his artwork](../../category/I/Images_by_Fabio_Leone.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 18 September 2014
-- User who sought the permission via a deviantArt: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via a deviantArt: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

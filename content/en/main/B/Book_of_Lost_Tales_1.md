@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Book of Lost Tales: Part One"
 ---
 
-Redirect to [The Book of Lost Tales: Part One](/wiki/The_Book_of_Lost_Tales:_Part_One).
+Redirect to [The Book of Lost Tales: Part One](../T/The_Book_of_Lost_Tales%253A_Part_One.md).

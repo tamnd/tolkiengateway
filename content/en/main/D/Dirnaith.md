@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dírnaith"
 ---
 
-Redirect to [Dírnaith](/wiki/Dírnaith).
+Redirect to [Dírnaith](Dírnaith.md).

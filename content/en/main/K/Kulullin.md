@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kulullin and Silindrin"
 ---
 
-Redirect to [Kulullin and Silindrin](/wiki/Kulullin_and_Silindrin).
+Redirect to [Kulullin and Silindrin](Kulullin_and_Silindrin.md).

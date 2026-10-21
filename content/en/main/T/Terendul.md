@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Herendil"
 ---
 
-Redirect to [Herendil](/wiki/Herendil).
+Redirect to [Herendil](../H/Herendil.md).

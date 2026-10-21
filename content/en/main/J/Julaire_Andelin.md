@@ -1,6 +1,5 @@
 ---
 title: "Julaire Andelin"
-display_title: "<span class=\"mw-page-title-main\">Julaire Andelin</span>"
 page_id: 21496
 namespace: 0
 revision_id: 116469
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Andelin, Julaire"
 ---
 
-**Julaire "Julie" Andelin** is a native of <a class="extiw" href="http://en.wikipedia.org/wiki/Salt_Lake_City" title="wikipedia:Salt Lake City">Salt Lake City, Utah</a>, and the current co-chair of <a class="external text" href="http://www.mountaincon.org/about.html" rel="noreferrer noopener" target="_blank">Mountain-Con</a>, an annual science fiction and fantasy fandom celebration in Utah. She contributed some entries to the *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*.
+**Julaire "Julie" Andelin** is a native of <a class="extiw" href="http://en.wikipedia.org/wiki/Salt_Lake_City" title="wikipedia:Salt Lake City">Salt Lake City, Utah</a>, and the current co-chair of <a class="external text" href="http://www.mountaincon.org/about.html" rel="noreferrer noopener" target="_blank">Mountain-Con</a>, an annual science fiction and fantasy fandom celebration in Utah. She contributed some entries to the *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*.
 
 ## Bibliography {#Bibliography}
 
-- [2006](/wiki/2006): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](/wiki/J.R.R._Tolkien_Encyclopedia:_Scholarship_and_Critical_Assessment)*, entries
+- [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, entries
     - Epic Poetry
     - Prophecy
     - Spenser, Edmund

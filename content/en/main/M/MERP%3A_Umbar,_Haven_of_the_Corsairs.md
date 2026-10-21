@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Umbar: Haven of the Corsairs"
 ---
 
-Redirect to [Umbar: Haven of the Corsairs](/wiki/Umbar:_Haven_of_the_Corsairs).
+Redirect to [Umbar: Haven of the Corsairs](../U/Umbar%253A_Haven_of_the_Corsairs.md).

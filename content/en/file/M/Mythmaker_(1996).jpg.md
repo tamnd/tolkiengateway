@@ -1,6 +1,5 @@
 ---
 title: "File:Mythmaker (1996).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mythmaker (1996).jpg</span>"
 page_id: 28916
 namespace: 6
 revision_id: 252810

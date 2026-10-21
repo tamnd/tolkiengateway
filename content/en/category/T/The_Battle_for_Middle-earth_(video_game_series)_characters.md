@@ -1,6 +1,5 @@
 ---
 title: "Category:The Battle for Middle-earth (video game series) characters"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Battle for Middle-earth (video game series) characters</span>"
 page_id: 64426
 namespace: 14
 revision_id: 369433

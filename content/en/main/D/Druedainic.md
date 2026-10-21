@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúadan language"
 ---
 
-Redirect to [Drúadan language](/wiki/Drúadan_language).
+Redirect to [Drúadan language](Drúadan_language.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Raiders of Cardolan"
 ---
 
-Redirect to [Raiders of Cardolan](/wiki/Raiders_of_Cardolan).
+Redirect to [Raiders of Cardolan](../R/Raiders_of_Cardolan.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alcar"
 ---
 
-Redirect to [Alcar](/wiki/Alcar).
+Redirect to [Alcar](Alcar.md).

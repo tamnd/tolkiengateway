@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - The Funeral of Théodred.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - The Funeral of Théodred.png</span>"
 page_id: 64025
 namespace: 6
 revision_id: 365510

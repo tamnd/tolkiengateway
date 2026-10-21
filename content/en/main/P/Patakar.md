@@ -14,17 +14,17 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>patakar</b></i> is a [Quenya](/wiki/Quenya) word meaning "consonants".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>patakar</b></i> is a [Quenya](../Q/Quenya.md) word meaning "consonants".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-The word *patakar* is a '[Quenyarized](/wiki/Quenya "Quenya")' word composed by the sounds <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/k/</span>and refers to voiceless stops.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> These are the basic glyphs of the [Tengwar](/wiki/Tengwar) ([Parma](/wiki/Parma), [Tinco](/wiki/Tinco) along with [Tyelpë](/wiki/Tyelp%C3%AB), [Calma](/wiki/Calma) along with [Quessë](/wiki/Quess%C3%AB)) and are the heads of each 'series'.
+The word *patakar* is a '[Quenyarized](../Q/Quenya.md)' word composed by the sounds <span title="Pronunciation in IPA" class="IPA">/p/</span>, <span title="Pronunciation in IPA" class="IPA">/t/</span>, <span title="Pronunciation in IPA" class="IPA">/k/</span>and refers to voiceless stops.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> These are the basic glyphs of the [Tengwar](../T/Tengwar.md) ([Parma](Parma.md), [Tinco](../T/Tinco.md) along with [Tyelpë](../T/Tyelpë.md), [Calma](../C/Calma.md) along with [Quessë](../Q/Quessë.md)) and are the heads of each 'series'.
 
-The series are named *[tincotéma](/wiki/Tincot%C3%A9ma "Tincotéma")*, *[parmatéma](/wiki/Parmat%C3%A9ma "Parmatéma")*, *[calmatéma](/wiki/Calmat%C3%A9ma "Calmatéma")* respectively (*[téma](/wiki/T%C3%A9ma "Téma")* means "series" in Quenya). <span></span>
+The series are named *[tincotéma](../T/Tincotéma.md)*, *[parmatéma](Parmatéma.md)*, *[calmatéma](../C/Calmatéma.md)* respectively (*[téma](../T/Téma.md)* means "series" in Quenya). <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D: Editorial glossary to the extract from <i>Quendi and Eldar</i>, App. D</a>&#34; (by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_39" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 13</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D: Editorial glossary to the extract from <i>Quendi and Eldar</i>, App. D</a>&#34; (by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_39.md" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 13</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="/wiki/Quendi_and_Eldar" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D</a>&#34; (edited by <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="/wiki/Vinyar_Tengwar_39" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 8</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">From <i>Quendi and Eldar</i>, Appendix D</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a>), in <a href="../V/Vinyar_Tengwar_39.md" title="Vinyar Tengwar 39"><i>Vinyar Tengwar</i>, Number 39</a>, July 1998, p. 8</span>
 </li>
 </ol></div>

@@ -13,21 +13,21 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>toll</b></i> (pl. *tyll*) is a [Noldorin](/wiki/Noldorin) word meaning "island".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>toll</b></i> (pl. *tyll*) is a [Noldorin](../N/Noldorin.md) word meaning "island".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
-- Root <a href="/wiki/TOL#Other_versions" title="TOL">TOL<sup>2</sup></a><sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- Root <a href="TOL~34330.md#Other_versions" title="TOL">TOL<sup>2</sup></a><sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Quenya](/wiki/Quenya)/[Sindarin](/wiki/Sindarin): *[tol](/wiki/Tol "Tol")*
+- [Quenya](../Q/Quenya.md)/[Sindarin](../S/Sindarin.md): *[tol](Tol.md)*
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 394</span>
+<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 394</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Aldarion"
 ---
 
-Redirect to [Tar-Aldarion](/wiki/Tar-Aldarion).
+Redirect to [Tar-Aldarion](Tar-Aldarion.md).

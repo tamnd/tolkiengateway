@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven-rope"
 ---
 
-Redirect to [Elven-rope](/wiki/Elven-rope).
+Redirect to [Elven-rope](Elven-rope.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Analytics"
 ---
 
-Redirect to [Tolkien Gateway:Analytics](/wiki/Tolkien_Gateway:Analytics).
+Redirect to [Tolkien Gateway:Analytics](../A/Analytics.md).

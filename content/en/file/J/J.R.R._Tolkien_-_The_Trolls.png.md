@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Trolls.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Trolls.png</span>"
 page_id: 62464
 namespace: 6
 revision_id: 429913
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-Drawn by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) this piece was published in the first edition of [The Hobbit](/wiki/The_Hobbit) for Chapter 2, [Roast Mutton](/wiki/Roast_Mutton). Colour was also added to it in a [later version](</wiki/File:J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg> "File:J.R.R. Tolkien - The Trolls (Colored by H.E. Riddett).jpg").
+Drawn by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) this piece was published in the first edition of [The Hobbit](../../main/T/The_Hobbit.md) for Chapter 2, [Roast Mutton](../../main/R/Roast_Mutton.md). Colour was also added to it in a [later version](<J.R.R._Tolkien_-_The_Trolls_(Colored_by_H.E._Riddett).jpg.md>).
 
 ## Licensing {#Licensing}
 

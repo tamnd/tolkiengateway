@@ -1,6 +1,5 @@
 ---
 title: "File:W.B. Crouch 28 December 1971.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">W.B. Crouch 28 December 1971.png</span>"
 page_id: 38633
 namespace: 6
 revision_id: 215127

@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Runsig.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Runsig.png</span>"
 page_id: 71444
 namespace: 6
 revision_id: 426038
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-<a class="new" href="/w/index.php?title=Runsig&amp;action=edit&amp;redlink=1" title="Runsig (page does not exist)">Runsig</a> - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+<a class="new" href="https://tolkiengateway.net/w/index.php?title=Runsig&amp;action=edit&amp;redlink=1" title="Runsig (page does not exist)">Runsig</a> - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

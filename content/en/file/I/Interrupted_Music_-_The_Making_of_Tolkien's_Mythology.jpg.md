@@ -1,6 +1,5 @@
 ---
 title: "File:Interrupted Music - The Making of Tolkien's Mythology.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Interrupted Music - The Making of Tolkien&#039;s Mythology.jpg</span>"
 page_id: 14611
 namespace: 6
 revision_id: 214496

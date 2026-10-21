@@ -1,6 +1,5 @@
 ---
 title: "File:Claudio Pozas - Grishnákh.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Claudio Pozas - Grishnákh.jpg</span>"
 page_id: 73973
 namespace: 6
 revision_id: 436565
@@ -35,25 +34,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Claudio Pozas - Grishnákh.jpg</span></th>
 <td class="description">
-<p><a href="/wiki/Grishn%C3%A1kh" title="Grishnákh">Grishnákh</a>. Created for <i><a href="/wiki/The_Lord_of_the_Rings:_The_Card_Game" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Treason of Saruman</i>
+<p><a href="../../main/G/Grishnákh.md" title="Grishnákh">Grishnákh</a>. Created for <i><a href="../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: The Card Game</a></i>: <i>The Treason of Saruman</i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/23_April" title="23 April">23rd of April</a> <a href="/wiki/2015" title="2015">2015</a></td>
+<td><a href="../../main/_/23_April.md" title="23 April">23rd of April</a> <a href="../../main/_/2015.md" title="2015">2015</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a class="new" href="/w/index.php?title=Claudio_Pozas&amp;action=edit&amp;redlink=1" title="Claudio Pozas (page does not exist)">Claudio Pozas</a></td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Claudio_Pozas&amp;action=edit&amp;redlink=1" title="Claudio Pozas (page does not exist)">Claudio Pozas</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://elanillounico.com/noticias/mundo-tolkien/hoy-en-la-tierra-media-28-29-y-30-de-febrero-3/" rel="noreferrer noopener" target="_blank">https://elanillounico.com/noticias/mundo-tolkien/hoy-en-la-tierra-media-28-29-y-30-de-febrero-3/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>

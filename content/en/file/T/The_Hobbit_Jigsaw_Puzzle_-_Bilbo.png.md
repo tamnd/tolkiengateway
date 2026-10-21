@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Jigsaw Puzzle - Bilbo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Jigsaw Puzzle - Bilbo.png</span>"
 page_id: 43784
 namespace: 6
 revision_id: 230639

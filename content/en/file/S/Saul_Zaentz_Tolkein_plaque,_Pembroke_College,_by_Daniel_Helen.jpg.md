@@ -1,6 +1,5 @@
 ---
 title: "File:Saul Zaentz Tolkein plaque, Pembroke College, by Daniel Helen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Saul Zaentz Tolkein plaque, Pembroke College, by Daniel Helen.jpg</span>"
 page_id: 53397
 namespace: 6
 revision_id: 290540
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Saul Zaentz [Tolkein](/wiki/Tolkein) plaque, Pembroke College.
+Saul Zaentz [Tolkein](../../main/T/Tolkein.md) plaque, Pembroke College.
 
 ## Licensing {#Licensing}
 
@@ -34,4 +33,4 @@ Saul Zaentz [Tolkein](/wiki/Tolkein) plaque, Pembroke College.
 <p>This work is copyrighted and owned by Daniel Helen. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Daniel Helen</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Daniel_Helen" title="Tolkien Gateway:Copyrights/Daniel Helen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FDaniel_Helen.md" title="Tolkien Gateway:Copyrights/Daniel Helen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Beowulf and the Critics 2002.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beowulf and the Critics 2002.gif</span>"
 page_id: 6935
 namespace: 6
 revision_id: 379738

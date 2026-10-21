@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mugwort Family"
 ---
 
-Redirect to [Mugwort Family](/wiki/Mugwort_Family).
+Redirect to [Mugwort Family](Mugwort_Family.md).

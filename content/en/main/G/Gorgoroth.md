@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Plateau of Gorgoroth"
 ---
 
-Redirect to [Plateau of Gorgoroth](/wiki/Plateau_of_Gorgoroth).
+Redirect to [Plateau of Gorgoroth](../P/Plateau_of_Gorgoroth.md).

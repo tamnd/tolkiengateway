@@ -1,6 +1,5 @@
 ---
 title: "File:METW - Akhôrahil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">METW - Akhôrahil.jpg</span>"
 page_id: 25891
 namespace: 6
 revision_id: 204634

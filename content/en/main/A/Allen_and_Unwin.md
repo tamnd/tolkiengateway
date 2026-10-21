@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Allen & Unwin"
 ---
 
-Redirect to [Allen &amp; Unwin](/wiki/Allen_&_Unwin).
+Redirect to [Allen &amp; Unwin](Allen_&_Unwin.md).

@@ -1,6 +1,5 @@
 ---
 title: "Mike Vaughn"
-display_title: "<span class=\"mw-page-title-main\">Mike Vaughn</span>"
 page_id: 27992
 namespace: 0
 revision_id: 117234
@@ -23,7 +22,7 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar)*: Sandar, Chef Vrarz, Warg<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [2006](../_/2006.md): *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*: Sandar, Chef Vrarz, Warg<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <br>
 
@@ -37,6 +36,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Vaughns resumé on his website erroneously lists these characters under <i><a href="/wiki/The_Lord_of_the_Rings:_The_White_Council" title="The Lord of the Rings: The White Council">The Lord of the Rings: The White Council</a></i>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Vaughns resumé on his website erroneously lists these characters under <i><a href="../T/The_Lord_of_the_Rings%253A_The_White_Council.md" title="The Lord of the Rings: The White Council">The Lord of the Rings: The White Council</a></i>.</span>
 </li>
 </ol></div>

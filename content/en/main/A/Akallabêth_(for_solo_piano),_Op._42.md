@@ -1,6 +1,5 @@
 ---
 title: "Akallabêth (for solo piano), Op. 42"
-display_title: "<span class=\"mw-page-title-main\">Akallabêth (for solo piano), Op. 42</span>"
 page_id: 65184
 namespace: 0
 revision_id: 426177
@@ -13,13 +12,13 @@ categories:
   - "Classical music"
 ---
 
-Piano Rondo by composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey).
+Piano Rondo by composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md).
 
 Although the *Akallabêth* uses a number of musical themes already composed for the other works in Godfrey's *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien*, it was always designed as a totally independent and original work.
 
-It was commissioned in 1982 by James Meaker both as a display piece and as a symphonic poem in rondo form based on one of the concluding chapters in J R R Tolkien’s *[The Silmarillion](/wiki/The_Silmarillion)*. As such some of the material later found its way into other parts of the cycle.
+It was commissioned in 1982 by James Meaker both as a display piece and as a symphonic poem in rondo form based on one of the concluding chapters in J R R Tolkien’s *[The Silmarillion](../T/The_Silmarillion.md)*. As such some of the material later found its way into other parts of the cycle.
 
-It was subsequently orchestrated and modified as *Akallabêth (for orchestra), Op. 42a* and sections of it were used in the score for *[The War of Wrath, Op. 71 (Opera)](</wiki/The_War_of_Wrath,_Op._71_(Opera)>).*
+It was subsequently orchestrated and modified as *Akallabêth (for orchestra), Op. 42a* and sections of it were used in the score for *[The War of Wrath, Op. 71 (Opera)](<../T/The_War_of_Wrath,_Op._71_(Opera).md>).*
 
 ## Recordings {#Recordings}
 

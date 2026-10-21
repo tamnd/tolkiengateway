@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gerontius Took"
 ---
 
-Redirect to [Gerontius Took](/wiki/Gerontius_Took).
+Redirect to [Gerontius Took](../G/Gerontius_Took.md).

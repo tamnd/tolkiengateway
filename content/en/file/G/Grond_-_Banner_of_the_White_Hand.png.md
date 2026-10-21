@@ -1,6 +1,5 @@
 ---
 title: "File:Grond - Banner of the White Hand.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Grond - Banner of the White Hand.png</span>"
 page_id: 70819
 namespace: 6
 revision_id: 439855
@@ -27,19 +26,14 @@ file:
 ## Summary {#Summary}
 
 <table class="wikitable" style="width: 100%; direction: ltr;" cellpadding="4">
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/User:Grond" title="User:Grond">Grond</a></td>
+<td><a href="https://tolkiengateway.net/wiki/User:Grond" title="User:Grond">Grond</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td>Based on <a href="/wiki/File:J.R.R._Tolkien_-_The_Two_Towers.jpg" title="File:J.R.R. Tolkien - The Two Towers.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
+<td>Based on <a href="../J/J.R.R._Tolkien_-_The_Two_Towers.jpg.md" title="File:J.R.R. Tolkien - The Two Towers.jpg">Tolkien&#39;s dusk-jacket design</a>.</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

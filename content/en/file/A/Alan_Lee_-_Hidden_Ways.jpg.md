@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Gorbag and Shagrat.jpg"
 ---
 
-Redirect to [File:Alan Lee - Gorbag and Shagrat.jpg](/wiki/File:Alan_Lee_-_Gorbag_and_Shagrat.jpg).
+Redirect to [File:Alan Lee - Gorbag and Shagrat.jpg](Alan_Lee_-_Gorbag_and_Shagrat.jpg.md).

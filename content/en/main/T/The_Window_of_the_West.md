@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Window on the West"
 ---
 
-Redirect to [The Window on the West](/wiki/The_Window_on_the_West).
+Redirect to [The Window on the West](The_Window_on_the_West.md).

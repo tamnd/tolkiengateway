@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Withy-weir"
 ---
 
-Redirect to [Withy-weir](/wiki/Withy-weir).
+Redirect to [Withy-weir](Withy-weir.md).

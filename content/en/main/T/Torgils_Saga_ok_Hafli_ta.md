@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Þorgils Saga ok Hafliða"
 ---
 
-Redirect to [Þorgils Saga ok Hafliða](/wiki/Þorgils_Saga_ok_Hafliða).
+Redirect to [Þorgils Saga ok Hafliða](../_/Þorgils_Saga_ok_Hafliða.md).

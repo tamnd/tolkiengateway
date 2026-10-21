@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cormarë Series"
 ---
 
-Redirect to [Cormarë Series](/wiki/Cormarë_Series).
+Redirect to [Cormarë Series](Cormarë_Series.md).

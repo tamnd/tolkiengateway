@@ -1,6 +1,5 @@
 ---
 title: "The Mountain King's Return"
-display_title: "<span class=\"mw-page-title-main\">The Mountain King&#039;s Return</span>"
 page_id: 46074
 namespace: 0
 revision_id: 243572
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**The Mountain King's Return** is a song from the [1977 adaptation](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)") of *[The Hobbit](/wiki/The_Hobbit)*. Its lyric is based on the poem "[The King beneath the mountains](/wiki/The_King_beneath_the_mountains)" and was adapted by [Jules Bass](/wiki/Jules_Bass) with music by [Maury Laws](/wiki/Maury_Laws). The song serves mostly as background music to [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Thorin and Company](/wiki/Thorin_and_Company)'s brief interlude in [Lake-town](/wiki/Lake-town) in the film. Unlike the other songs in the film, this one was not included on the accompanying [soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack "The Hobbit: The Complete Original Soundtrack").
+**The Mountain King's Return** is a song from the [1977 adaptation](<The_Hobbit_(1977_film).md>) of *[The Hobbit](The_Hobbit.md)*. Its lyric is based on the poem "[The King beneath the mountains](The_King_beneath_the_mountains.md)" and was adapted by [Jules Bass](../J/Jules_Bass.md) with music by [Maury Laws](../M/Maury_Laws.md). The song serves mostly as background music to [Bilbo](../B/Bilbo_Baggins.md) and [Thorin and Company](Thorin_and_Company.md)'s brief interlude in [Lake-town](../L/Lake-town.md) in the film. Unlike the other songs in the film, this one was not included on the accompanying [soundtrack](The_Hobbit%253A_The_Complete_Original_Soundtrack.md).
 
 ## Lyrics {#Lyrics}
 

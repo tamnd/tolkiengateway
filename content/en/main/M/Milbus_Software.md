@@ -1,6 +1,5 @@
 ---
 title: "Milbus Software"
-display_title: "<span class=\"mw-page-title-main\">Milbus Software</span>"
 page_id: 27942
 namespace: 0
 revision_id: 146270
@@ -14,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Milbus Software** is the company that developed and published the parody [Hobbit - The True Story](/wiki/Hobbit_-_The_True_Story).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Milbus Software** is the company that developed and published the parody [Hobbit - The True Story](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

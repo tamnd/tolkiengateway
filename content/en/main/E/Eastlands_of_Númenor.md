@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orrostar"
 ---
 
-Redirect to [Orrostar](/wiki/Orrostar).
+Redirect to [Orrostar](../O/Orrostar.md).

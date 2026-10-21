@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Riccardo Federici"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Riccardo Federici</span>"
 page_id: 74020
 namespace: 14
 revision_id: 436771
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Federici, Riccardo"
 ---
 
-This category lists all **images by [Riccardo Federici](/wiki/Riccardo_Federici)**.
+This category lists all **images by [Riccardo Federici](../../main/R/Riccardo_Federici.md)**.

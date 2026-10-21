@@ -1,6 +1,5 @@
 ---
 title: "Index:Albums by year"
-display_title: "<span class=\"mw-page-title-namespace\">Index</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Albums by year</span>"
 page_id: 22239
 namespace: 102
 revision_id: 422537
@@ -17,16 +16,16 @@ sort_keys:
   "Index": "Albums by year"
 ---
 
-<center>Below is a list of <b>Albums</b> by <a class="mw-redirect" href="/wiki/Music" title="Music">bands and artists</a>, listed by year.</center>
+<center>Below is a list of <b>Albums</b> by <a class="mw-redirect" href="../../main/M/Music.md" title="Music">bands and artists</a>, listed by year.</center>
 
 ## 1967 {#1967}
 
-- *[Poems and Songs of Middle Earth](/wiki/Poems_and_Songs_of_Middle_Earth)*
+- *[Poems and Songs of Middle Earth](../../main/P/Poems_and_Songs_of_Middle_Earth.md)*
 
 ## 1972 {#1972}
 
-- [Sagan om Ringen](</wiki/Sagan_om_Ringen_(album)> "Sagan om Ringen (album)")
-- [Mountain Live: The Road Goes Ever On](/wiki/Mountain_Live:_The_Road_Goes_Ever_On)
+- [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(album).md>)
+- [Mountain Live: The Road Goes Ever On](../../main/M/Mountain_Live%253A_The_Road_Goes_Ever_On.md)
 
 ## 1990 {#1990}
 
@@ -36,85 +35,85 @@ sort_keys:
 
 ## 1993 {#1993}
 
-- [Journey of the Dunadan](/wiki/Journey_of_the_Dunadan)
+- [Journey of the Dunadan](../../main/J/Journey_of_the_Dunadan.md)
 
 ## 1994 {#1994}
 
 ## 1995 {#1995}
 
-- [Lugburz (album)](</wiki/Lugburz_(album)>)
-- [Minas Morgul (album)](</wiki/Minas_Morgul_(album)>)
+- [Lugburz (album)](<../../main/L/Lugburz_(album).md>)
+- [Minas Morgul (album)](<../../main/M/Minas_Morgul_(album).md>)
 
 ## 1996 {#1996}
 
-- [Dol Guldur (album)](</wiki/Dol_Guldur_(album)>)
+- [Dol Guldur (album)](<../../main/D/Dol_Guldur_(album).md>)
 
 ## 1997 {#1997}
 
-- [An Evening in Rivendell](/wiki/An_Evening_in_Rivendell)
-- [Mystic Legends...](/wiki/Mystic_Legends...)
-- [Nightshade Forests (album)](</wiki/Nightshade_Forests_(album)>)
+- [An Evening in Rivendell](../../main/A/An_Evening_in_Rivendell.md)
+- [Mystic Legends...](../../main/M/Mystic_Legends....md)
+- [Nightshade Forests (album)](<../../main/N/Nightshade_Forests_(album).md>)
 
 ## 1998 {#1998}
 
-- [Nightfall in Middle-Earth](/wiki/Nightfall_in_Middle-Earth)
+- [Nightfall in Middle-Earth](../../main/N/Nightfall_in_Middle-Earth.md)
 
 ## 1999 {#1999}
 
-- [Stronghold](/wiki/Stronghold)
-- [Onwards to the Spectral Defile](/wiki/Onwards_to_the_Spectral_Defile)
-- [The Adventures of Tom Bombadil (album)](</wiki/The_Adventures_of_Tom_Bombadil_(album)>)
+- [Stronghold](../../main/S/Stronghold.md)
+- [Onwards to the Spectral Defile](../../main/O/Onwards_to_the_Spectral_Defile.md)
+- [The Adventures of Tom Bombadil (album)](<../../main/T/The_Adventures_of_Tom_Bombadil_(album).md>)
 
 ## 2000 {#2000}
 
-- [A Night in Rivendell](/wiki/A_Night_in_Rivendell)
+- [A Night in Rivendell](../../main/A/A_Night_in_Rivendell.md)
 
 ## 2001 {#2001}
 
-- [Let Mortal Heroes Sing Your Fame](/wiki/Let_Mortal_Heroes_Sing_Your_Fame)
-- [Music Inspired by Middle Earth](/wiki/Music_Inspired_by_Middle_Earth)
-- [The Middle Earth Album](/wiki/The_Middle_Earth_Album)
-- [Landscapes of Middle-earth](/wiki/Landscapes_of_Middle-earth)
-- [Inspirations of the Middle Earth](/wiki/Inspirations_of_the_Middle_Earth)
-- [Music of Middle-Earth, Vol. 1: From the Shire to Rivendell](/wiki/Music_of_Middle-Earth,_Vol._1:_From_the_Shire_to_Rivendell)
+- [Let Mortal Heroes Sing Your Fame](../../main/L/Let_Mortal_Heroes_Sing_Your_Fame.md)
+- [Music Inspired by Middle Earth](../../main/M/Music_Inspired_by_Middle_Earth.md)
+- [The Middle Earth Album](../../main/T/The_Middle_Earth_Album.md)
+- [Landscapes of Middle-earth](../../main/L/Landscapes_of_Middle-earth.md)
+- [Inspirations of the Middle Earth](../../main/I/Inspirations_of_the_Middle_Earth.md)
+- [Music of Middle-Earth, Vol. 1: From the Shire to Rivendell](../../main/M/Music_of_Middle-Earth,_Vol._1%253A_From_the_Shire_to_Rivendell.md)
 
 ## 2002 {#2002}
 
-- [...Where the Shadows Lie](/wiki/...Where_the_Shadows_Lie)
-- [Music of Middle-Earth, Vol. 2: From Khazad-dum to Gondor](/wiki/Music_of_Middle-Earth,_Vol._2:_From_Khazad-dum_to_Gondor)
+- [...Where the Shadows Lie](../../main/_/%252E..Where_the_Shadows_Lie.md)
+- [Music of Middle-Earth, Vol. 2: From Khazad-dum to Gondor](../../main/M/Music_of_Middle-Earth,_Vol._2%253A_From_Khazad-dum_to_Gondor.md)
 
 ## 2003 {#2003}
 
-- [At Dawn in Rivendell](/wiki/At_Dawn_in_Rivendell)
-- [Lost Tales (album)](</wiki/Lost_Tales_(album)>)
-- [Sword's Song](/wiki/Sword%27s_Song)
-- [Forest of Edoras](/wiki/Forest_of_Edoras)
+- [At Dawn in Rivendell](../../main/A/At_Dawn_in_Rivendell.md)
+- [Lost Tales (album)](<../../main/L/Lost_Tales_(album).md>)
+- [Sword's Song](../../main/S/Sword's_Song.md)
+- [Forest of Edoras](../../main/F/Forest_of_Edoras.md)
 
 ## 2004 {#2004}
 
-- [The Lay Of Leithian (album)](</wiki/The_Lay_Of_Leithian_(album)>)
+- [The Lay Of Leithian (album)](<../../main/T/The_Lay_Of_Leithian_(album).md>)
 
 ## 2005 {#2005}
 
-- [Leaving Rivendell](/wiki/Leaving_Rivendell)
-- [Third Age of the Sun](/wiki/Third_Age_of_the_Sun)
-- [...Of Forest And Fire...](/wiki/...Of_Forest_And_Fire...)
+- [Leaving Rivendell](../../main/L/Leaving_Rivendell.md)
+- [Third Age of the Sun](../../main/T/Third_Age_of_the_Sun.md)
+- [...Of Forest And Fire...](../../main/_/%252E..Of_Forest_And_Fire....md)
 
 ## 2006 {#2006}
 
-- [Complete Songs and Poems](/wiki/Complete_Songs_and_Poems)
-- [Oath Bound](/wiki/Oath_Bound)
+- [Complete Songs and Poems](../../main/C/Complete_Songs_and_Poems.md)
+- [Oath Bound](../../main/O/Oath_Bound.md)
 
 ## 2007 {#2007}
 
-- [Evernight (album)](</wiki/Evernight_(album)>)
+- [Evernight (album)](<../../main/E/Evernight_(album).md>)
 
 ## 2008 {#2008}
 
-- [The Last Alliance (album)](</wiki/The_Last_Alliance_(album)>)
+- [The Last Alliance (album)](<../../main/T/The_Last_Alliance_(album).md>)
 
 ## 2009 {#2009}
 
 ## 2010 {#2010}
 
-- [Beyond the Western Seas](/wiki/Beyond_the_Western_Seas)
+- [Beyond the Western Seas](../../main/B/Beyond_the_Western_Seas.md)

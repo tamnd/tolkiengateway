@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Temple"
 ---
 
-Redirect to [Temple](/wiki/Temple).
+Redirect to [Temple](Temple.md).

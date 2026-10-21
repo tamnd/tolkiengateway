@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Stevce Lazarevski"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Stevce Lazarevski</span>"
 page_id: 64877
 namespace: 4
 revision_id: 373723
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lazarevski, Stevce"
 ---
 
-- Stevce Lazarevski has kindly granted their permission to use [their artwork](/wiki/Category:Images_by_Stevce_Lazarevski "Category:Images by Stevce Lazarevski") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Stevce Lazarevski has kindly granted their permission to use [their artwork](../../category/I/Images_by_Stevce_Lazarevski.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 22 May 2023
-- User who sought the permission via email: [User:Hyarion](/wiki/User:Hyarion)
+- User who sought the permission via email: [User:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

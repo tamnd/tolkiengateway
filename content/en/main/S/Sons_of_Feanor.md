@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sons of Fëanor"
 ---
 
-Redirect to [Sons of Fëanor](/wiki/Sons_of_Fëanor).
+Redirect to [Sons of Fëanor](Sons_of_Fëanor.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:St Petersburg Tolkien Society logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">St Petersburg Tolkien Society logo.png</span>"
 page_id: 70969
 namespace: 6
 revision_id: 423785
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Current logo of the **[St Petersburg Tolkien Society](/wiki/St_Petersburg_Tolkien_Society)**
+Current logo of the **[St Petersburg Tolkien Society](../../main/S/St_Petersburg_Tolkien_Society.md)**
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Juliana Pinho - Idril and Tuor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Juliana Pinho - Idril and Tuor.png</span>"
 page_id: 52785
 namespace: 6
 revision_id: 287123
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Juliana Pinho</li>
 <li><b>Website:</b> <a class="external text" href="http://jubah.deviantart.com" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Juliana_Pinho" title="Tolkien Gateway:Copyrights/Juliana Pinho">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJuliana_Pinho.md" title="Tolkien Gateway:Copyrights/Juliana Pinho">Permission for use on Tolkien Gateway</a></b></li></ul></div>

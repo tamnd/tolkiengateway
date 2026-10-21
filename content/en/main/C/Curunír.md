@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Saruman"
 ---
 
-Redirect to [Saruman](/wiki/Saruman).
+Redirect to [Saruman](../S/Saruman.md).

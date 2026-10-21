@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to the editor of Triode"
 ---
 
-Redirect to [Letter to the editor of Triode](/wiki/Letter_to_the_editor_of_Triode).
+Redirect to [Letter to the editor of Triode](../L/Letter_to_the_editor_of_Triode.md).

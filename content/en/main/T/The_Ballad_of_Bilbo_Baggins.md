@@ -1,6 +1,5 @@
 ---
 title: "The Ballad of Bilbo Baggins"
-display_title: "<span class=\"mw-page-title-main\">The Ballad of Bilbo Baggins</span>"
 page_id: 18809
 namespace: 0
 revision_id: 432692
@@ -15,18 +14,18 @@ images:
   - "The_Ballad_of_Bilbo_Baggins_screenshot.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Ballad_of_Bilbo_Baggins_screenshot.jpg"><img src="/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/300px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg" decoding="async" loading="lazy" width="300" height="127" class="mw-file-element" srcset="/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/450px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 1.5x, /w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/600px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 2x" data-file-width="679" data-file-height="287"/></a><figcaption>Screenshot from the video</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ballad_of_Bilbo_Baggins_screenshot.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/300px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg" decoding="async" loading="lazy" width="300" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/450px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/The_Ballad_of_Bilbo_Baggins_screenshot.jpg/600px-The_Ballad_of_Bilbo_Baggins_screenshot.jpg 2x" data-file-width="679" data-file-height="287"/></a><figcaption>Screenshot from the video</figcaption></figure>
 
-**The Ballad of [Bilbo Baggins](/wiki/Bilbo_Baggins)** is a cult-status song, written by Charles Randolph Grean, and performed by [Leonard Nimoy](/wiki/Leonard_Nimoy). It tells the story of *[The Hobbit](/wiki/The_Hobbit)* to some detail. It premiered in an episode of <a class="external text" href="http://en.wikipedia.org/wiki/Malibu_U" rel="noreferrer noopener" target="_blank">Malibu U</a> on [July 28](/wiki/28_July "28 July"), [1967](/wiki/1967). It became an internet meme when [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") came out, and is used in [Ringers: Lord of the Fans](/wiki/Ringers:_Lord_of_the_Fans).
+**The Ballad of [Bilbo Baggins](../B/Bilbo_Baggins.md)** is a cult-status song, written by Charles Randolph Grean, and performed by [Leonard Nimoy](../L/Leonard_Nimoy.md). It tells the story of *[The Hobbit](The_Hobbit.md)* to some detail. It premiered in an episode of <a class="external text" href="http://en.wikipedia.org/wiki/Malibu_U" rel="noreferrer noopener" target="_blank">Malibu U</a> on [July 28](../_/28_July.md), [1967](../_/1967.md). It became an internet meme when [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>) came out, and is used in [Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md).
 
 ## Lyrics {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>In the middle of the earth in the land of <a href="/wiki/The_Shire" title="The Shire">the Shire</a><br/>
-lives a brave little <a href="/wiki/Hobbits" title="Hobbits">hobbit</a> whom we all admire.<br/>
-With his long wooden <a href="/wiki/Pipe-weed" title="Pipe-weed">pipe</a>,<br/>
+<p>In the middle of the earth in the land of <a href="The_Shire.md" title="The Shire">the Shire</a><br/>
+lives a brave little <a href="../H/Hobbits.md" title="Hobbits">hobbit</a> whom we all admire.<br/>
+With his long wooden <a href="../P/Pipe-weed.md" title="Pipe-weed">pipe</a>,<br/>
 fuzzy, woolly toes,<br/>
-he lives in a <a href="/wiki/Smials" title="Smials">hobbit-hole</a> and everybody knows him.<br/>
+he lives in a <a href="../S/Smials.md" title="Smials">hobbit-hole</a> and everybody knows him.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
@@ -41,8 +40,8 @@ They don&#39;t like to travel away from home<br/>
 They just like to eat and be left alone<br/>
 But one day Bilbo was asked to go<br/>
 on a big adventure to the caves below,<br/>
-to help <a href="/wiki/Thorin_and_Company" title="Thorin and Company">some dwarves</a> get back their gold<br/>
-that was stolen by a <a href="/wiki/Smaug" title="Smaug">dragon</a> in the days of old.<br/>
+to help <a href="Thorin_and_Company.md" title="Thorin and Company">some dwarves</a> get back their gold<br/>
+that was stolen by a <a href="../S/Smaug.md" title="Smaug">dragon</a> in the days of old.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
@@ -51,19 +50,19 @@ Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
 The bravest little hobbit of them all.<br/>
 <br/>
-Well, he fought the <a href="/wiki/Orcs" title="Orcs">goblins</a><br/>
-He battled a <a href="/wiki/Trolls" title="Trolls">troll</a>!<br/>
-He riddled with <a href="/wiki/Gollum" title="Gollum">Gollum</a>!<br/>
-A <a href="/wiki/The_One_Ring" title="The One Ring">magic ring</a> he stole!<br/>
-He was chased by <a href="/wiki/Wargs" title="Wargs">wolves</a>,<br/>
-Lost in the <a href="/wiki/Mirkwood" title="Mirkwood">forest</a>,<br/>
-Escaped in a barrel from the <a href="/wiki/Thranduil" title="Thranduil">elf-king</a>&#39;s halls.<br/>
+Well, he fought the <a href="../O/Orcs.md" title="Orcs">goblins</a><br/>
+He battled a <a href="Trolls.md" title="Trolls">troll</a>!<br/>
+He riddled with <a href="../G/Gollum.md" title="Gollum">Gollum</a>!<br/>
+A <a href="The_One_Ring.md" title="The One Ring">magic ring</a> he stole!<br/>
+He was chased by <a href="../W/Wargs.md" title="Wargs">wolves</a>,<br/>
+Lost in the <a href="../M/Mirkwood.md" title="Mirkwood">forest</a>,<br/>
+Escaped in a barrel from the <a href="Thranduil.md" title="Thranduil">elf-king</a>&#39;s halls.<br/>
 <br/>
 Bilbo (Bilbo)<br/>
 Bilbo Baggins<br/>
 The bravest little hobbit of them all.<br/>
 <br/>
-Now he&#39;s back in <a href="/wiki/Bag_End" title="Bag End">his home</a> in the land of the Shire,<br/>
+Now he&#39;s back in <a href="../B/Bag_End.md" title="Bag End">his home</a> in the land of the Shire,<br/>
 that brave little hobbit whom we all admire,<br/>
 just sittin&#39; on a treasure of silver and gold,<br/>
 puffin&#39; on his pipe in his hobbit-hole.<br/>

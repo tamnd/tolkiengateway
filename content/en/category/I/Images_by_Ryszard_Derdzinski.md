@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Ryszard Derdziński"
 ---
 
-Redirect to [Category:Images by Ryszard Derdziński](/wiki/Category:Images_by_Ryszard_Derdziński).
+Redirect to [Category:Images by Ryszard Derdziński](Images_by_Ryszard_Derdziński.md).

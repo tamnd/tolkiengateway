@@ -1,6 +1,5 @@
 ---
 title: "File:Tolkien's Favorite Tree, Oxford Botanical Garden.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tolkien&#039;s Favorite Tree, Oxford Botanical Garden.jpg</span>"
 page_id: 47224
 namespace: 6
 revision_id: 251649

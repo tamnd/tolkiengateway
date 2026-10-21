@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "ROK"
 ---
 
-Redirect to [ROK](/wiki/ROK).
+Redirect to [ROK](ROK.md).

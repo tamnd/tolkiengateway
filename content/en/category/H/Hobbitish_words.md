@@ -1,6 +1,5 @@
 ---
 title: "Category:Hobbitish words"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobbitish words</span>"
 page_id: 12522
 namespace: 14
 revision_id: 98316
@@ -18,4 +17,4 @@ sort_keys:
   "Hobbitish": "Words"
 ---
 
-[Hobbitish](/wiki/Hobbitish) words
+[Hobbitish](../../main/H/Hobbitish.md) words

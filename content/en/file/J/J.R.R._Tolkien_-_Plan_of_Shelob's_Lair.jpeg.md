@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Plan of Shelob's Lair.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Plan of Shelob&#039;s Lair.jpeg</span>"
 page_id: 71493
 namespace: 6
 revision_id: 426275
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"Plan of [Shelob's Lair](/wiki/Shelob%27s_Lair)" by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)
+"Plan of [Shelob's Lair](../../main/S/Shelob's_Lair.md)" by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)
 
 ## Licensing {#Licensing}
 

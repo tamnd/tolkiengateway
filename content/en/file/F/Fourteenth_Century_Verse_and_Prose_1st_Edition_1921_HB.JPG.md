@@ -1,6 +1,5 @@
 ---
 title: "File:Fourteenth Century Verse and Prose 1st Edition 1921 HB.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fourteenth Century Verse and Prose 1st Edition 1921 HB.JPG</span>"
 page_id: 21331
 namespace: 6
 revision_id: 379562

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First Marshal of the Riddermark"
 ---
 
-Redirect to [First Marshal of the Riddermark](/wiki/First_Marshal_of_the_Riddermark).
+Redirect to [First Marshal of the Riddermark](../F/First_Marshal_of_the_Riddermark.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:From Hobbit to Hero - The Making of Tolkien's King.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">From Hobbit to Hero - The Making of Tolkien&#039;s King.jpg</span>"
 page_id: 41403
 namespace: 6
 revision_id: 214073

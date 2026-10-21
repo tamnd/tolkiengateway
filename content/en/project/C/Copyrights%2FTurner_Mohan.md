@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Turner Mohan"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Turner Mohan</span>"
 page_id: 47406
 namespace: 4
 revision_id: 252740
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mohan, Turner"
 ---
 
-- Turner Mohan has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Turner_Mohan "Category:Images by Turner Mohan") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Turner Mohan has kindly granted his permission to use [his artwork](../../category/I/Images_by_Turner_Mohan.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 9 February 2013
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -1,6 +1,5 @@
 ---
 title: "Henning Janssen"
-display_title: "<span class=\"mw-page-title-main\">Henning Janssen</span>"
 page_id: 17918
 namespace: 0
 revision_id: 429740
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Janssen, Henning"
 ---
 
-**Henning Janssen** is a Dutch fantasy artist and freelance illustrator who made some [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") related work, such as the [HenJ GrafX Calendar 2006](/wiki/HenJ_GrafX_Calendar_2006). He was also a concept artist on the fan film *[Born of Hope](/wiki/Born_of_Hope)*.
+**Henning Janssen** is a Dutch fantasy artist and freelance illustrator who made some [Tolkien](../J/J.R.R._Tolkien.md) related work, such as the [HenJ GrafX Calendar 2006](HenJ_GrafX_Calendar_2006.md). He was also a concept artist on the fan film *[Born of Hope](../B/Born_of_Hope.md)*.
 
 ## See also {#See_also}
 
-- [Images by Henning Janssen](/wiki/Category:Images_by_Henning_Janssen "Category:Images by Henning Janssen")
+- [Images by Henning Janssen](../../category/I/Images_by_Henning_Janssen.md)
 
 ## External links {#External_links}
 

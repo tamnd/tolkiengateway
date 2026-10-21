@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Niall Hoskin"
 ---
 
-Redirect to [Letter to Niall Hoskin](/wiki/Letter_to_Niall_Hoskin).
+Redirect to [Letter to Niall Hoskin](../L/Letter_to_Niall_Hoskin.md).

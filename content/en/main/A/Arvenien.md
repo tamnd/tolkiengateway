@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arvernien"
 ---
 
-Redirect to [Arvernien](/wiki/Arvernien).
+Redirect to [Arvernien](Arvernien.md).

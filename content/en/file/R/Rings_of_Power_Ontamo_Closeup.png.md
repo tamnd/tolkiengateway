@@ -1,6 +1,5 @@
 ---
 title: "File:Rings of Power Ontamo Closeup.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rings of Power Ontamo Closeup.png</span>"
 page_id: 68880
 namespace: 6
 revision_id: 415409
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-A closeup of [Ontamo](/wiki/Ontamo) from *[The Lord of the Rings: The Rings of Power](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)*.
+A closeup of [Ontamo](../../main/O/Ontamo.md) from *[The Lord of the Rings: The Rings of Power](../../main/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.
 
 ## Licensing {#Licensing}
 

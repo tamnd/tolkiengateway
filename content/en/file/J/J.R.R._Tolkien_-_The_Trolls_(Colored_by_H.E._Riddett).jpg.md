@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Trolls (Colored by H.E. Riddett).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Trolls (Colored by H.E. Riddett).jpg</span>"
 page_id: 5465
 namespace: 6
 revision_id: 430710
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-This coloured version is by [H.E. Riddett](/wiki/H.E._Riddett) and was created for [The Hobbit Calendar 1976](/wiki/The_Hobbit_Calendar_1976) and has also been used in later illustrated editions of the book.
+This coloured version is by [H.E. Riddett](../../main/H/H.E._Riddett.md) and was created for [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md) and has also been used in later illustrated editions of the book.
 
 ## Licensing {#Licensing}
 

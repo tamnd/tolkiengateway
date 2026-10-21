@@ -1,6 +1,5 @@
 ---
 title: "File:1973 - 02-26 - Stefan Petterson.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">1973 - 02-26 - Stefan Petterson.jpg</span>"
 page_id: 49643
 namespace: 6
 revision_id: 265305

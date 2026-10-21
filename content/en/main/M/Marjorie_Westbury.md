@@ -1,6 +1,5 @@
 ---
 title: "Marjorie Westbury"
-display_title: "<span class=\"mw-page-title-main\">Marjorie Westbury</span>"
 page_id: 30697
 namespace: 0
 revision_id: 221920
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Westbury, Marjorie"
 ---
 
-**Marjorie Westbury** ([June 18](/wiki/18_June "18 June"), [1905](/wiki/1905) - [December 16](/wiki/16_December "16 December"), [1989](/wiki/1989)) was an English stage and radio actress.
+**Marjorie Westbury** ([June 18](../_/18_June.md), [1905](../_/1905.md) - [December 16](../_/16_December.md), [1989](../_/1989.md)) was an English stage and radio actress.
 
 ## Roles {#Roles}
 
-- [1968](/wiki/1968): [*The Hobbit* (1968 radio series)](</wiki/The_Hobbit_(1968_radio_series)> "The Hobbit (1968 radio series)"): Spider, Thrush
+- [1968](../_/1968.md): [*The Hobbit* (1968 radio series)](<../T/The_Hobbit_(1968_radio_series).md>): Spider, Thrush
 
 ## External links {#External_links}
 

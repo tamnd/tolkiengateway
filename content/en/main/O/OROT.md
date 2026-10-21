@@ -11,4 +11,4 @@ redirect_target: "OR"
 redirect_fragment: "Other versions"
 ---
 
-Redirect to [OR](/wiki/OR#Other_versions).
+Redirect to [OR](OR~34968.md#Other_versions).

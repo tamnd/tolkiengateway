@@ -15,29 +15,29 @@ sort_keys:
   "Quenya nouns": "Andune"
 ---
 
-<i><b>andúnë</b></i> is the poetic word for "sunset", "west",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> or "evening" in [Quenya](/wiki/Quenya). The more common word for "west" is <i><b><a href="/wiki/N%C3%BAmen" title="Númen">númen</a></b></i>. The capitalized form *Andúnië* is applied to the [Uttermost West](/wiki/Aman "Aman") in the *[Namárië](/wiki/Nam%C3%A1ri%C3%AB)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>andúnë</b></i> is the poetic word for "sunset", "west",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> or "evening" in [Quenya](../Q/Quenya.md). The more common word for "west" is <i><b><a href="../N/Númen.md" title="Númen">númen</a></b></i>. The capitalized form *Andúnië* is applied to the [Uttermost West](Aman.md) in the *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Etymology {#Etymology}
 
-*Andúnë* derives from the [root](/wiki/Sundocarme "Sundocarme") NDŪ ("sink, go down").<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+*Andúnë* derives from the [root](../S/Sundocarme.md) NDŪ ("sink, go down").<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Cognates {#Cognates}
 
-- [Sindarin](/wiki/Sindarin), *[annûn](/wiki/Ann%C3%BBn "Annûn")*
-- [Adûnaic](/wiki/Ad%C3%BBnaic), *[adûn](/wiki/Ad%C3%BBn "Adûn")*
+- [Sindarin](../S/Sindarin.md), *[annûn](Annûn.md)*
+- [Adûnaic](Adûnaic.md), *[adûn](Adûn.md)*
 
 ## See also {#See_also}
 
-- [Andúril](/wiki/And%C3%BAril) = "Flame of the West"
+- [Andúril](Andúril.md) = "Flame of the West"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-PE17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE17_1-1">1.1</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 64</span>
+<li id="cite_note-PE17-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PE17_1-0">1.0</a></sup> <sup><a href="#cite_ref-PE17_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 64</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Donald_Swann" title="Donald Swann">Donald Swann</a>, “<a href="/wiki/Nam%C3%A1ri%C3%AB" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="/wiki/The_Road_Goes_Ever_On_(book)" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, p. 58</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../D/Donald_Swann.md" title="Donald Swann">Donald Swann</a>, “<a href="../N/Namárië.md" title="Namárië">Namárië (Farewell)</a>,” in <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i>, p. 58</span>
 </li>
 </ol></div>

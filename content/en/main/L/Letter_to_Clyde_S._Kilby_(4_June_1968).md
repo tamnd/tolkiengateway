@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Kilby, Clyde S. (1968-06-04)"
 ---
 
-On [4 June](/wiki/4_June) [1968](/wiki/1968), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Clyde S. Kilby](/wiki/Clyde_S._Kilby)**.
+On [4 June](../_/4_June.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Clyde S. Kilby](../C/Clyde_S._Kilby.md)**.
 
 - **Subject:** Tolkien is moving to the South Coast of England.
-- **Publication:** A part of the letter was published as [letter 304](/wiki/Letter_304 "Letter 304") in *[The Letters of J.R.R. Tolkien](/wiki/The_Letters_of_J.R.R._Tolkien)*. Other excerpts from the letter have been published in [*SEVEN*, Volume 27](/wiki/SEVEN_27 "SEVEN 27") (p. 49) and *[Tolkien and the Silmarillion](/wiki/Tolkien_and_the_Silmarillion)* (p. 40). A longer part of the letter was published in *[The J.R.R. Tolkien Companion and Guide: Chronology](/wiki/The_J.R.R._Tolkien_Companion_and_Guide "The J.R.R. Tolkien Companion and Guide")* (p. 726).
+- **Publication:** A part of the letter was published as [letter 304](Letter_304.md) in *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. Other excerpts from the letter have been published in [*SEVEN*, Volume 27](../S/SEVEN_27.md) (p. 49) and *[Tolkien and the Silmarillion](../T/Tolkien_and_the_Silmarillion~28293.md)* (p. 40). A longer part of the letter was published in *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* (p. 726).

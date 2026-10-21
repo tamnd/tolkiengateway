@@ -1,6 +1,5 @@
 ---
 title: "File:Decipher - Ring of Savagery.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Decipher - Ring of Savagery.jpg</span>"
 page_id: 71093
 namespace: 6
 revision_id: 433700
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Ring of Savagery](/wiki/Nine_Rings#Portrayals_in_adaptations "Nine Rings")
+The [Ring of Savagery](../../main/N/Nine_Rings.md#Portrayals_in_adaptations)
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gurthang"
 ---
 
-Redirect to [Gurthang](/wiki/Gurthang).
+Redirect to [Gurthang](Gurthang.md).

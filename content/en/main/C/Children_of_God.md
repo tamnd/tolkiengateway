@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Children of Ilúvatar"
 ---
 
-Redirect to [Children of Ilúvatar](/wiki/Children_of_Ilúvatar).
+Redirect to [Children of Ilúvatar](Children_of_Ilúvatar.md).

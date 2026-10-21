@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Dunlendings.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Dunlendings.jpeg</span>"
 page_id: 11744
 namespace: 6
 revision_id: 203816

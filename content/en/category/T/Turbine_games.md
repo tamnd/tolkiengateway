@@ -1,6 +1,5 @@
 ---
 title: "Category:Turbine games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Turbine games</span>"
 page_id: 32333
 namespace: 14
 revision_id: 148571

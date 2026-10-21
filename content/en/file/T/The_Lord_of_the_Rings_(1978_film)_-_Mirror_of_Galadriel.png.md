@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Mirror of Galadriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Mirror of Galadriel.png</span>"
 page_id: 71539
 namespace: 6
 revision_id: 426663
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Mirror of Galadriel](/wiki/Mirror_of_Galadriel) - [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+The [Mirror of Galadriel](../../main/M/Mirror_of_Galadriel.md) - [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

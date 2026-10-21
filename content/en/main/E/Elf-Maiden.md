@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elf-maidens"
 ---
 
-Redirect to [Elf-maidens](/wiki/Elf-maidens).
+Redirect to [Elf-maidens](Elf-maidens.md).

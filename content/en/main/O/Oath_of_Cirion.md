@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oath of Eorl"
 ---
 
-Redirect to [Oath of Eorl](/wiki/Oath_of_Eorl).
+Redirect to [Oath of Eorl](Oath_of_Eorl.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Tolkien Gateway research"
 ---
 
-Redirect to [Category:Tolkien Gateway research](/wiki/Category:Tolkien_Gateway_research).
+Redirect to [Category:Tolkien Gateway research](../../category/T/Tolkien_Gateway_research.md).

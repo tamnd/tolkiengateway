@@ -1,6 +1,5 @@
 ---
 title: "-ya"
-display_title: "<span class=\"mw-page-title-main\">-ya</span>"
 page_id: 51023
 namespace: 0
 revision_id: 369813
@@ -15,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "ya"
 ---
 
-<i><b>-ya</b></i> is a [Quenya](/wiki/Quenya) suffix of endearment.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This may be the same as the possessive suffix [-nya](/wiki/-nya) "my" as found in [onya](/wiki/Onya "Onya") "my child" (from *on-nya*), *atya* "my father", and *amya* "mother<i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
+<i><b>-ya</b></i> is a [Quenya](../Q/Quenya.md) suffix of endearment.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> This may be the same as the possessive suffix [-nya](-nya.md) "my" as found in [onya](../O/Onya.md) "my child" (from *on-nya*), *atya* "my father", and *amya* "mother<i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
 
 ## Examples {#Examples}
 
@@ -26,10 +25,10 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, Index</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 170</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 170</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="/wiki/Aldarion_and_Erendis:_The_Mariner%27s_Wife" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34;</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>,  &#34;<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>&#34;</span>
 </li>
 </ol></div>

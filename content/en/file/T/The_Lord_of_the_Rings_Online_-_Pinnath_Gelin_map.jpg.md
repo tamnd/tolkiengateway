@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Pinnath Gelin map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Pinnath Gelin map.jpg</span>"
 page_id: 67445
 namespace: 6
 revision_id: 391771

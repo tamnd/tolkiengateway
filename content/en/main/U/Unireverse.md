@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "User:Unireverse"
 ---
 
-Redirect to [User:Unireverse](/wiki/User:Unireverse).
+Redirect to [User:Unireverse](https://tolkiengateway.net/wiki/User:Unireverse).

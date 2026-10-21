@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Flowers"
 ---
 
-Redirect to [Category:Flowers](/wiki/Category:Flowers).
+Redirect to [Category:Flowers](../../category/F/Flowers.md).

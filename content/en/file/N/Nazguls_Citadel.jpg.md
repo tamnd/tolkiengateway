@@ -1,6 +1,5 @@
 ---
 title: "File:Nazguls Citadel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Nazguls Citadel.jpg</span>"
 page_id: 29542
 namespace: 6
 revision_id: 428431

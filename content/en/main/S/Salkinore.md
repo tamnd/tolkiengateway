@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Salkinórë"
 ---
 
-Redirect to [Salkinórë](/wiki/Salkinórë).
+Redirect to [Salkinórë](Salkinórë.md).

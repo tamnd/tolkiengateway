@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit 2003-little.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit 2003-little.png</span>"
 page_id: 62684
 namespace: 6
 revision_id: 353910

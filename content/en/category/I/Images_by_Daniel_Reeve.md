@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Daniel Reeve"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Daniel Reeve</span>"
 page_id: 28573
 namespace: 14
 revision_id: 341186
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Reeve, Daniel"
 ---
 
-This category lists all **images by [Daniel Reeve](/wiki/Daniel_Reeve)**.
+This category lists all **images by [Daniel Reeve](../../main/D/Daniel_Reeve.md)**.

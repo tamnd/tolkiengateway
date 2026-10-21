@@ -1,6 +1,5 @@
 ---
 title: "File:Agatha Carew Hunt 4 October 1965.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Agatha Carew Hunt 4 October 1965.jpg</span>"
 page_id: 40544
 namespace: 6
 revision_id: 215011

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Rings of Power (TV series) - Forodwaith Sauron.webp"
 ---
 
-Redirect to [File:The Rings of Power (TV series) - Forodwaith Sauron.webp](/wiki/File:The_Rings_of_Power_(TV_series)_-_Forodwaith_Sauron.webp).
+Redirect to [File:The Rings of Power (TV series) - Forodwaith Sauron.webp](<../T/The_Rings_of_Power_(TV_series)_-_Forodwaith_Sauron.webp.md>).

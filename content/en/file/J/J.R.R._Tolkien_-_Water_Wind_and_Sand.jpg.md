@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:J.R.R. Tolkien - Water Wind & Sand.jpg"
 ---
 
-Redirect to [File:J.R.R. Tolkien - Water Wind &amp; Sand.jpg](/wiki/File:J.R.R._Tolkien_-_Water_Wind_&_Sand.jpg).
+Redirect to [File:J.R.R. Tolkien - Water Wind &amp; Sand.jpg](J.R.R._Tolkien_-_Water_Wind_&_Sand.jpg.md).

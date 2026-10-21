@@ -1,6 +1,5 @@
 ---
 title: "File:Blake Henriksen - Grip, Grab! Pinch, Nab!.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Blake Henriksen - Grip, Grab! Pinch, Nab!.jpg</span>"
 page_id: 71779
 namespace: 6
 revision_id: 427801
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Grip, Grab! Pinch, Nab!](/wiki/Clap!_Snap!_the_black_crack! "Clap! Snap! the black crack!")" - Illustration by [Blake Henriksen](/wiki/Category:Images_by_Blake_Henriksen "Category:Images by Blake Henriksen") for *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Hobbit*: *Over Hill and Under Hill* expansion.
+"[Grip, Grab! Pinch, Nab!](../../main/C/Clap!_Snap!_the_black_crack!.md)" - Illustration by [Blake Henriksen](../../category/I/Images_by_Blake_Henriksen.md) for *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Hobbit*: *Over Hill and Under Hill* expansion.
 
 ## Licensing {#Licensing}
 

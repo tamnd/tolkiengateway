@@ -1,6 +1,5 @@
 ---
 title: "Category:Books by Christina Scull"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Books by Christina Scull</span>"
 page_id: 26355
 namespace: 14
 revision_id: 104005

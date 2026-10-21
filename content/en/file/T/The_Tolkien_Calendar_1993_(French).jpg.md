@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Calendar 1993 (French).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Calendar 1993 (French).jpg</span>"
 page_id: 51986
 namespace: 6
 revision_id: 282884

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The One Ring"
 ---
 
-Redirect to [The One Ring](/wiki/The_One_Ring).
+Redirect to [The One Ring](../T/The_One_Ring.md).

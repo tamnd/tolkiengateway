@@ -16,11 +16,11 @@ images:
   - "J.R.R._Tolkien_Calendar_2000_(Italian).jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_Calendar_2000_(Italian).jpg"><img src="/w/images/thumb/d/d9/J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg/300px-J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg" decoding="async" loading="lazy" width="300" height="306" class="mw-file-element" srcset="/w/images/d/d9/J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg 1.5x" data-file-width="343" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_2000_(Italian).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg/300px-J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg" decoding="async" loading="lazy" width="300" height="306" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/d9/J.R.R._Tolkien_Calendar_2000_%28Italian%29.jpg 1.5x" data-file-width="343" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**J.R.R. Tolkien Calendar 2000** is an Italian calendar featuring illustrations by [Angelo Montanini](/wiki/Angelo_Montanini).
+**J.R.R. Tolkien Calendar 2000** is an Italian calendar featuring illustrations by [Angelo Montanini](../A/Angelo_Montanini.md).
 
-- <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/8818121995">ISBN 88-18-12199-5</a>
+- <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/8818121995">ISBN 88-18-12199-5</a>
 - Dimensions: 15.75 x 15.75 inches
 - Wire bound/hanger
 - Plastic wrapped

@@ -1,6 +1,5 @@
 ---
 title: "Robley Evans"
-display_title: "<span class=\"mw-page-title-main\">Robley Evans</span>"
 page_id: 21820
 namespace: 0
 revision_id: 321372
@@ -25,9 +24,9 @@ Professor Emeritus of English **Robley Evans** was connected to <a class="extiw"
 
 ### Books {#Books}
 
-- [1972](/wiki/1972): *[J.R.R. Tolkien (Writers for the 70's)](</wiki/J.R.R._Tolkien_(Writers_for_the_70%27s)>)*
+- [1972](../_/1972.md): *[J.R.R. Tolkien (Writers for the 70's)](<../J/J.R.R._Tolkien_(Writers_for_the_70's).md>)*
 
 ### Articles {#Articles}
 
-- [1987](/wiki/1987): *[Mythlore 51](/wiki/Mythlore_51)* ([Mythlore](/wiki/Mythlore))
+- [1987](../_/1987.md): *[Mythlore 51](../M/Mythlore_51.md)* ([Mythlore](../M/Mythlore.md))
     - "Tolkien's World-Creation: Degenerative Recurrence"

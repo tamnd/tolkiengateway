@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "-wen"
 ---
 
-Redirect to [-wen](/wiki/-wen).
+Redirect to [-wen](../_/-wen.md).

@@ -17,9 +17,9 @@ images:
   - "Unquendor's_Third_Lustrum_Calendar_1997.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Unquendor%27s_Third_Lustrum_Calendar_1997.jpg"><img src="/w/images/thumb/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg/300px-Unquendor%27s_Third_Lustrum_Calendar_1997.jpg" decoding="async" loading="lazy" width="300" height="207" class="mw-file-element" srcset="/w/images/thumb/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg/450px-Unquendor%27s_Third_Lustrum_Calendar_1997.jpg 1.5x, /w/images/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg 2x" data-file-width="508" data-file-height="350"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/Unquendor&#39;s_Third_Lustrum_Calendar_1997.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg/300px-Unquendor%27s_Third_Lustrum_Calendar_1997.jpg" decoding="async" loading="lazy" width="300" height="207" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg/450px-Unquendor%27s_Third_Lustrum_Calendar_1997.jpg 1.5x, https://tolkiengateway.net/w/images/3/31/Unquendor%27s_Third_Lustrum_Calendar_1997.jpg 2x" data-file-width="508" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Unquendor's Third Lustrum Calendar 1997** was produced by the [Dutch Tolkien Society](/wiki/Dutch_Tolkien_Society) ([Unquendor](/wiki/Unquendor)). The calendar features pen and ink illustrations by various artists.
+**Unquendor's Third Lustrum Calendar 1997** was produced by the [Dutch Tolkien Society](../D/Dutch_Tolkien_Society.md) ([Unquendor](Unquendor.md)). The calendar features pen and ink illustrations by various artists.
 
 - Dimensions: 11 5/8 x 8.25 inches
 - Stapled

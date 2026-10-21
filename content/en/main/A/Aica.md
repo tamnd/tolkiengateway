@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aika"
 ---
 
-Redirect to [Aika](/wiki/Aika).
+Redirect to [Aika](Aika.md).

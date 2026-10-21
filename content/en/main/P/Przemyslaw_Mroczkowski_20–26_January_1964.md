@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Przemyslaw Mroczkowski (20–26 January 1964)"
 ---
 
-Redirect to [Letter to Przemyslaw Mroczkowski (20–26 January 1964)](/wiki/Letter_to_Przemyslaw_Mroczkowski_(20–26_January_1964)).
+Redirect to [Letter to Przemyslaw Mroczkowski (20–26 January 1964)](<../L/Letter_to_Przemyslaw_Mroczkowski_(20–26_January_1964).md>).

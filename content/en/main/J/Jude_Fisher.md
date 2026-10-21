@@ -1,6 +1,5 @@
 ---
 title: "Jude Fisher"
-display_title: "<span class=\"mw-page-title-main\">Jude Fisher</span>"
 page_id: 16200
 namespace: 0
 revision_id: 265159
@@ -25,19 +24,19 @@ sort_keys:
 
 ## Life {#Life}
 
-From [1984](/wiki/1984) to [1992](/wiki/1992), Johnson was the Publisher of the [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") list at [Allen and Unwin](/wiki/Allen_and_Unwin), [Unwin Hyman](/wiki/Unwin_Hyman) and [HarperCollins](/wiki/HarperCollins). Her main task was commissioning artists like [Alan Lee](/wiki/Alan_Lee), [John Howe](/wiki/John_Howe) and [Ted Nasmith](/wiki/Ted_Nasmith) for calendars and book art. During the production of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), she spent much time in [New Zealand](/wiki/New_Zealand) with the cast and crew, and produced several books about the films.
+From [1984](../_/1984.md) to [1992](../_/1992.md), Johnson was the Publisher of the [Tolkien](J.R.R._Tolkien.md) list at [Allen and Unwin](../A/Allen_and_Unwin.md), [Unwin Hyman](../U/Unwin_Hyman.md) and [HarperCollins](../H/HarperCollins.md). Her main task was commissioning artists like [Alan Lee](../A/Alan_Lee.md), [John Howe](John_Howe.md) and [Ted Nasmith](../T/Ted_Nasmith.md) for calendars and book art. During the production of [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>), she spent much time in [New Zealand](../N/New_Zealand.md) with the cast and crew, and produced several books about the films.
 
-After a near-fatal accident, she went to live in Morocco, but she still serves as [HarperCollins](/wiki/HarperCollins)' Fiction Publishing Director.
+After a near-fatal accident, she went to live in Morocco, but she still serves as [HarperCollins](../H/HarperCollins.md)' Fiction Publishing Director.
 
 ## Bibliography {#Bibliography}
 
-- [2001](/wiki/2001): *[The Fellowship of the Ring Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Visual_Companion "The Lord of the Rings: The Fellowship of the Ring Visual Companion")*
-- [2002](/wiki/2002): *[The Two Towers Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion "The Lord of the Rings: The Two Towers Visual Companion")*
-- [2003](/wiki/2003): *[The Return of the King Visual Companion](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Visual_Companion "The Lord of the Rings: The Return of the King Visual Companion")*
-- [2003](/wiki/2003): *[The Lord of the Rings Complete Visual Companion](/wiki/The_Lord_of_the_Rings_Complete_Visual_Companion)*
-- [2012](/wiki/2012): *[The Hobbit: An Unexpected Journey: Visual Companion](/wiki/The_Hobbit:_An_Unexpected_Journey:_Visual_Companion)*
-- [2013](/wiki/2013): *[The Hobbit: The Desolation of Smaug: Visual Companion](/wiki/The_Hobbit:_The_Desolation_of_Smaug:_Visual_Companion)*
-- [2014](/wiki/2014): *[The Hobbit: The Battle of the Five Armies: Visual Companion](/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies:_Visual_Companion)*
+- [2001](../_/2001.md): *[The Fellowship of the Ring Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md)*
+- [2002](../_/2002.md): *[The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)*
+- [2003](../_/2003.md): *[The Return of the King Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*
+- [2003](../_/2003.md): *[The Lord of the Rings Complete Visual Companion](../T/The_Lord_of_the_Rings_Complete_Visual_Companion.md)*
+- [2012](../_/2012.md): *[The Hobbit: An Unexpected Journey: Visual Companion](../T/The_Hobbit%253A_An_Unexpected_Journey%253A_Visual_Companion.md)*
+- [2013](../_/2013.md): *[The Hobbit: The Desolation of Smaug: Visual Companion](../T/The_Hobbit%253A_The_Desolation_of_Smaug%253A_Visual_Companion.md)*
+- [2014](../_/2014.md): *[The Hobbit: The Battle of the Five Armies: Visual Companion](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies%253A_Visual_Companion.md)*
 
 ## External links {#External_links}
 

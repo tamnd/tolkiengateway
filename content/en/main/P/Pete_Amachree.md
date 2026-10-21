@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images by Pete Amachree"
 ---
 
-Redirect to [Category:Images by Pete Amachree](/wiki/Category:Images_by_Pete_Amachree).
+Redirect to [Category:Images by Pete Amachree](../../category/I/Images_by_Pete_Amachree.md).

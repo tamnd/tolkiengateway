@@ -1,6 +1,5 @@
 ---
 title: "File:Music in Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Music in Middle-earth.jpg</span>"
 page_id: 67022
 namespace: 6
 revision_id: 388776
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Music in Middle-earth](/wiki/Music_in_Middle-earth), published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The cover illustration is "Daeron and Lúthien" by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of [Music in Middle-earth](../../main/M/Music_in_Middle-earth.md), published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The cover illustration is "Daeron and Lúthien" by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

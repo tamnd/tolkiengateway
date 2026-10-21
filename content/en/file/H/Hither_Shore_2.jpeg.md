@@ -1,6 +1,5 @@
 ---
 title: "File:Hither Shore 2.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hither Shore 2.jpeg</span>"
 page_id: 66828
 namespace: 6
 revision_id: 387093
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of [Hither Shore 2](/wiki/Hither_Shore_2)
+Cover of [Hither Shore 2](../../main/H/Hither_Shore_2.md)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.scriptorium-oxoniae.de/" rel="noreferrer noopener" target="_blank">Scriptorium Oxoniae</a>. It is believed that the limited use of this file,

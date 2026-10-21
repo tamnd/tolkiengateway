@@ -19,13 +19,13 @@ images:
   - "The_Horn_Book_Magazine_1938_March-April.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Horn_Book_Magazine_1938_March-April.jpg"><img src="/w/images/thumb/3/39/The_Horn_Book_Magazine_1938_March-April.jpg/300px-The_Horn_Book_Magazine_1938_March-April.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="/w/images/3/39/The_Horn_Book_Magazine_1938_March-April.jpg 1.5x" data-file-width="336" data-file-height="465"/></a><figcaption>1938 March–April issue</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Horn_Book_Magazine_1938_March-April.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/The_Horn_Book_Magazine_1938_March-April.jpg/300px-The_Horn_Book_Magazine_1938_March-April.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/39/The_Horn_Book_Magazine_1938_March-April.jpg 1.5x" data-file-width="336" data-file-height="465"/></a><figcaption>1938 March–April issue</figcaption></figure>
 
 <i><b>The Horn Book Magazine</b></i>, founded in Boston, Massachusetts, in 1924, is a bimonthly periodical about literature for children and young adults. In each issue, The Horn Book Magazine includes articles about issues and trends in children's literature, essays by artists and authors, and reviews of new books for children.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Issues {#Issues}
 
-Issues with content on [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Issues with content on [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### 1938 {#1938}
 

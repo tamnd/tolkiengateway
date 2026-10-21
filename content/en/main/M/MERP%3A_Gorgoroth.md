@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorgoroth (book)"
 ---
 
-Redirect to [Gorgoroth (book)](/wiki/Gorgoroth_(book)).
+Redirect to [Gorgoroth (book)](<../G/Gorgoroth_(book).md>).

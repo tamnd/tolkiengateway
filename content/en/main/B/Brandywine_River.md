@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baranduin"
 ---
 
-Redirect to [Baranduin](/wiki/Baranduin).
+Redirect to [Baranduin](Baranduin.md).

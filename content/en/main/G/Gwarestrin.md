@@ -11,4 +11,4 @@ redirect_target: "Gondolin"
 redirect_fragment: "The Seven Names"
 ---
 
-Redirect to [Gondolin](/wiki/Gondolin#The_Seven_Names).
+Redirect to [Gondolin](Gondolin.md#The_Seven_Names).

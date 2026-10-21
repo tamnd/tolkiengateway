@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Australia"
 ---
 
-Redirect to [Category:Australia](/wiki/Category:Australia).
+Redirect to [Category:Australia](../../category/A/Australia.md).

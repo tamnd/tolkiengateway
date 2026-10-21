@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haudh-en-Arwen"
 ---
 
-Redirect to [Haudh-en-Arwen](/wiki/Haudh-en-Arwen).
+Redirect to [Haudh-en-Arwen](../H/Haudh-en-Arwen.md).

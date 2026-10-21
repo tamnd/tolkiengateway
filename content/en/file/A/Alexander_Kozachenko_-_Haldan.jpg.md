@@ -1,6 +1,5 @@
 ---
 title: "File:Alexander Kozachenko - Haldan.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alexander Kozachenko - Haldan.jpg</span>"
 page_id: 73427
 namespace: 6
 revision_id: 434094
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Haldan](/wiki/Haldan)" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: 'Roam Across Rhovanion' illustration by <a class="new" href="/w/index.php?title=Alexander_Kozachenko&amp;action=edit&amp;redlink=1" title="Alexander Kozachenko (page does not exist)">Alexander Kozachenko</a>
+"[Haldan](../../main/H/Haldan.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: 'Roam Across Rhovanion' illustration by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Alexander_Kozachenko&amp;action=edit&amp;redlink=1" title="Alexander Kozachenko (page does not exist)">Alexander Kozachenko</a>
 
 ## Licensing {#Licensing}
 

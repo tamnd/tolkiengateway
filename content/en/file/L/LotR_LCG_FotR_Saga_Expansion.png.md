@@ -1,6 +1,5 @@
 ---
 title: "File:LotR LCG FotR Saga Expansion.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotR LCG FotR Saga Expansion.png</span>"
 page_id: 72888
 namespace: 6
 revision_id: 431959

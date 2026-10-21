@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - Lúthien and Beren transformed.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - Lúthien and Beren transformed.jpg</span>"
 page_id: 71970
 namespace: 6
 revision_id: 428389
@@ -31,13 +30,13 @@ file:
 
 ## Summary {#Summary}
 
-[Lúthien](/wiki/L%C3%BAthien) and [Beren](/wiki/Beren) disguised as [Thuringwethil](/wiki/Thuringwethil) and [Draugluin](/wiki/Draugluin) respectively - Illustration by [Alan Lee](/wiki/Alan_Lee) for *[Beren and Lúthien](/wiki/Beren_and_L%C3%BAthien)*
+[Lúthien](../../main/L/Lúthien.md) and [Beren](../../main/B/Beren.md) disguised as [Thuringwethil](../../main/T/Thuringwethil.md) and [Draugluin](../../main/D/Draugluin.md) respectively - Illustration by [Alan Lee](../../main/A/Alan_Lee.md) for *[Beren and Lúthien](../../main/B/Beren_and_Lúthien.md)*
 
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

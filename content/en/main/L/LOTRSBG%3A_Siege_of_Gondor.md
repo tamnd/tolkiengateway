@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siege of Gondor (book)"
 ---
 
-Redirect to [Siege of Gondor (book)](/wiki/Siege_of_Gondor_(book)).
+Redirect to [Siege of Gondor (book)](<../S/Siege_of_Gondor_(book).md>).

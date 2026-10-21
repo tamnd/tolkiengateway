@@ -1,6 +1,5 @@
 ---
 title: "Lord of the Glittering Caves"
-display_title: "<span class=\"mw-page-title-main\">Lord of the Glittering Caves</span>"
 page_id: 2690
 namespace: 0
 revision_id: 327933
@@ -18,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Kimaltavien_luolien_valtias"
 ---
 
-**Lord of the Glittering Caves** was a title created by the [dwarf](/wiki/Dwarves "Dwarves") [Gimli](/wiki/Gimli) son of [Glóin](/wiki/Gl%C3%B3in) for the overlordship of [Aglarond](/wiki/Glittering_Caves "Glittering Caves"). It is not known who succeeded him, if anyone.
+**Lord of the Glittering Caves** was a title created by the [dwarf](../D/Dwarves.md) [Gimli](../G/Gimli.md) son of [Glóin](../G/Glóin.md) for the overlordship of [Aglarond](../G/Glittering_Caves.md). It is not known who succeeded him, if anyone.
 
-After the downfall of [Sauron](/wiki/Sauron), [Gimli](/wiki/Gimli) led a party of the [Dwarves](/wiki/Dwarves) of [Erebor](/wiki/Lonely_Mountain "Lonely Mountain") to Aglarond, the [Glittering Caves](/wiki/Glittering_Caves) of the [White Mountains](/wiki/White_Mountains) within the realm of [Rohan](/wiki/Rohan), of which there was an entrance in [Helm's Deep](/wiki/Helm%27s_Deep). There they founded a colony, and Gimli became known as the Lord of the Glittering Caves. His Dwarves performed great services for the [Rohirrim](/wiki/Rohirrim) and the [Men](/wiki/Men) of [Gondor](/wiki/Gondor), of which the most famous was the making of new gates for [Minas Tirith](/wiki/Minas_Tirith), forged out of *[mithril](/wiki/Mithril "Mithril")* and steel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+After the downfall of [Sauron](../S/Sauron.md), [Gimli](../G/Gimli.md) led a party of the [Dwarves](../D/Dwarves.md) of [Erebor](Lonely_Mountain.md) to Aglarond, the [Glittering Caves](../G/Glittering_Caves.md) of the [White Mountains](../W/White_Mountains.md) within the realm of [Rohan](../R/Rohan.md), of which there was an entrance in [Helm's Deep](../H/Helm's_Deep.md). There they founded a colony, and Gimli became known as the Lord of the Glittering Caves. His Dwarves performed great services for the [Rohirrim](../R/Rohirrim.md) and the [Men](../M/Men.md) of [Gondor](../G/Gondor.md), of which the most famous was the making of new gates for [Minas Tirith](../M/Minas_Tirith.md), forged out of *[mithril](../M/Mithril.md)* and steel.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;Durin&#39;s Folk&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;Durin&#39;s Folk&#34;</span>
 </li>
 </ol></div>

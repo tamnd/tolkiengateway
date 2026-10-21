@@ -1,6 +1,5 @@
 ---
 title: "Word-extraction"
-display_title: "<span class=\"mw-page-title-main\">Word-extraction</span>"
 page_id: 56725
 namespace: 0
 revision_id: 309593
@@ -16,13 +15,13 @@ images:
   - "J.R.R._Tolkien_-_Word-extraction.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:J.R.R._Tolkien_-_Word-extraction.jpg"><img src="/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/250px-J.R.R._Tolkien_-_Word-extraction.jpg" decoding="async" loading="lazy" width="250" height="317" class="mw-file-element" srcset="/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/375px-J.R.R._Tolkien_-_Word-extraction.jpg 1.5x, /w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/500px-J.R.R._Tolkien_-_Word-extraction.jpg 2x" data-file-width="758" data-file-height="960"/></a><figcaption>Tolkien&#39;s manuscript</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Word-extraction.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/250px-J.R.R._Tolkien_-_Word-extraction.jpg" decoding="async" loading="lazy" width="250" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/375px-J.R.R._Tolkien_-_Word-extraction.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/500px-J.R.R._Tolkien_-_Word-extraction.jpg 2x" data-file-width="758" data-file-height="960"/></a><figcaption>Tolkien&#39;s manuscript</figcaption></figure>
 
-**Word-extraction** is a word-game created by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and described in a manuscript written c. [1968](/wiki/1968).
+**Word-extraction** is a word-game created by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and described in a manuscript written c. [1968](../_/1968.md).
 
 ## History {#History}
 
-As a good philologist, Tolkien enjoyed word-games, and he played many times with his family while he stayed in [Bournemouth](/wiki/Bournemouth).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> One of the games he invented there was written on the reverse of a cyclostyled list of out-of-print books dated [3 May](/wiki/3_May) 1968, which Tolkien gave at some point to Dr. Denis Tolhurst (Tolkien's doctor at Bournemouth) and his wife. The manuscript was sold at Bonhams in [2019](/wiki/2019),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and is currently on sale at Lucius Books.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+As a good philologist, Tolkien enjoyed word-games, and he played many times with his family while he stayed in [Bournemouth](../B/Bournemouth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> One of the games he invented there was written on the reverse of a cyclostyled list of out-of-print books dated [3 May](../_/3_May.md) 1968, which Tolkien gave at some point to Dr. Denis Tolhurst (Tolkien's doctor at Bournemouth) and his wife. The manuscript was sold at Bonhams in [2019](../_/2019.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and is currently on sale at Lucius Books.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Text {#Text}
 
@@ -38,17 +37,15 @@ As a good philologist, Tolkien enjoyed word-games, and he played many times with
 </p>
 </blockquote>
 
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
-
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Simon_Tolkien" title="Simon Tolkien">Simon Tolkien</a> (2003)</span>. <span class="cite-web-article"><a class="external text" href="http://www.simontolkien.com/mygrandfather" rel="noreferrer noopener" target="_blank">&#34;My Grandfather&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.simontolkien.com/" rel="noreferrer noopener" target="_blank">simontolkien.com</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../S/Simon_Tolkien.md" title="Simon Tolkien">Simon Tolkien</a> (2003)</span>. <span class="cite-web-article"><a class="external text" href="http://www.simontolkien.com/mygrandfather" rel="noreferrer noopener" target="_blank">&#34;My Grandfather&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.simontolkien.com/" rel="noreferrer noopener" target="_blank">simontolkien.com</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.bonhams.com/auctions/25355/lot/253/" rel="noreferrer noopener" target="_blank">&#34;Auction 25355, Lot 253&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.bonhams.com/" rel="noreferrer noopener" target="_blank">Bonhams</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.bonhams.com/auctions/25355/lot/253/" rel="noreferrer noopener" target="_blank">&#34;Auction 25355, Lot 253&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.bonhams.com/" rel="noreferrer noopener" target="_blank">Bonhams</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.luciusbooks.com/shop/signed-inscribed/autograph-manuscript-word-extraction/" rel="noreferrer noopener" target="_blank">&#34;Autograph manuscript &#34;Word extraction&#34;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.luciusbooks.com/" rel="noreferrer noopener" target="_blank">Lucius Books</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.luciusbooks.com/shop/signed-inscribed/autograph-manuscript-word-extraction/" rel="noreferrer noopener" target="_blank">&#34;Autograph manuscript &#34;Word extraction&#34;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.luciusbooks.com/" rel="noreferrer noopener" target="_blank">Lucius Books</a></span>. <span class="cite-web-accessed">Retrieved 15 January 2020</span></cite></span>
 </li>
 </ol></div>

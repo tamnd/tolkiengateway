@@ -1,6 +1,5 @@
 ---
 title: "File:Christina Kraus - Elrond, Moon-Reader.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christina Kraus - Elrond, Moon-Reader.jpeg</span>"
 page_id: 74936
 namespace: 6
 revision_id: 441209
@@ -33,25 +32,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Christina Kraus - Elrond, Moon-Reader.jpeg</span></th>
 <td class="description">
-<p><a href="/wiki/Elrond" title="Elrond">Elrond</a>, <a href="/wiki/Moon" title="Moon">Moon</a>-Reader. Created for <i><a href="/wiki/Magic:_The_Gathering_-_The_Hobbit" title="Magic: The Gathering - The Hobbit">Magic: The Gathering - The Hobbit</a></i>
+<p><a href="../../main/E/Elrond.md" title="Elrond">Elrond</a>, <a href="../../main/M/Moon.md" title="Moon">Moon</a>-Reader. Created for <i><a href="../../main/M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">Magic: The Gathering - The Hobbit</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/August" title="August">August</a>, <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/A/August.md" title="August">August</a>, <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Christina_Kraus" title="Christina Kraus">Christina Kraus</a></td>
+<td><a href="../../main/C/Christina_Kraus.md" title="Christina Kraus">Christina Kraus</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.christinakraus-art.com/i5os3yax1cv2gh4jyc4jvz5y7b5xwq" rel="noreferrer noopener" target="_blank">https://www.christinakraus-art.com/i5os3yax1cv2gh4jyc4jvz5y7b5xwq</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Christina Kraus</span></span>
@@ -59,4 +55,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Christina Kraus</li>
 <li><b>Website:</b> <a class="external text" href="https://www.christinakraus-art.com/" rel="noreferrer noopener" target="_blank">Christina Kraus&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Christina_Kraus" title="Tolkien Gateway:Copyrights/Christina Kraus">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FChristina_Kraus.md" title="Tolkien Gateway:Copyrights/Christina Kraus">Permission for use on Tolkien Gateway</a></b></li></ul></div>

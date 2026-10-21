@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Völuspá"
 ---
 
-Redirect to [Völuspá](/wiki/Völuspá).
+Redirect to [Völuspá](Völuspá.md).

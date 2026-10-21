@@ -1,6 +1,5 @@
 ---
 title: "Category:Hills"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hills</span>"
 page_id: 5136
 namespace: 14
 revision_id: 195470

@@ -1,6 +1,5 @@
 ---
 title: "File:Heroes of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heroes of Middle-earth.jpg</span>"
 page_id: 63000
 namespace: 6
 revision_id: 363984

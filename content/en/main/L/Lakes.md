@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Lakes"
 ---
 
-Redirect to [Category:Lakes](/wiki/Category:Lakes).
+Redirect to [Category:Lakes](../../category/L/Lakes.md).

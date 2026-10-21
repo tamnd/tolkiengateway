@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cirith Thoronath"
 ---
 
-Redirect to [Cirith Thoronath](/wiki/Cirith_Thoronath).
+Redirect to [Cirith Thoronath](../C/Cirith_Thoronath.md).

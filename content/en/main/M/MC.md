@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Monsters and the Critics, and Other Essays"
 ---
 
-Redirect to [The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays).
+Redirect to [The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md).

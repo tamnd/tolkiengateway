@@ -1,6 +1,5 @@
 ---
 title: "File:José Manuel Ferrández Bru.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">José Manuel Ferrández Bru.jpg</span>"
 page_id: 43008
 namespace: 6
 revision_id: 226306
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [José Manuel Ferrández Bru‎](/wiki/Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru "José Manuel Ferrández Bru").
+Photograph of [José Manuel Ferrández Bru‎](../../main/J/José_Manuel_Ferrández_Bru.md).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [José Manuel Ferrández Bru‎](/wiki/Jos%C3%A9_Manuel_Ferr%C3%A1
 </p>
 <ul><li><b>Name:</b> José Manuel Ferrández Bru‎</li>
 <li><b>Website:</b> <a class="external text" href="http://www.josemanuelferrandez.com/ENindex.html" rel="noreferrer noopener" target="_blank">José Manuel Ferrández Bru‎</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jos%C3%A9_Manuel_Ferr%C3%A1ndez_Bru" title="Tolkien Gateway:Copyrights/José Manuel Ferrández Bru">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJosé_Manuel_Ferrández_Bru.md" title="Tolkien Gateway:Copyrights/José Manuel Ferrández Bru">Permission for use on Tolkien Gateway</a></b></li></ul></div>

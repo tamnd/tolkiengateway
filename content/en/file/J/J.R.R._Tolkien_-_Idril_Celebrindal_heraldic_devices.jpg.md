@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Idril Celebrindal heraldic devices.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Idril Celebrindal heraldic devices.jpg</span>"
 page_id: 64784
 namespace: 6
 revision_id: 430998
@@ -29,9 +28,9 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/119/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #119</a>, <a class="external text" href="https://tai.tolkienists.org/tai/305/" rel="noreferrer noopener" target="_blank">#305</a>, <a class="external text" href="https://tai.tolkienists.org/tai/306/" rel="noreferrer noopener" target="_blank">#306</a>, <a class="external text" href="https://tai.tolkienists.org/tai/307/" rel="noreferrer noopener" target="_blank">#307</a> and <a class="external text" href="https://tai.tolkienists.org/tai/305/" rel="noreferrer noopener" target="_blank">#308</a>. Published in:
 
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), October (only the finished device, the one top right)
-- *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)* ([1992](/wiki/1992)), p. 75 (only the finished device, the one top right)
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 192, #188
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), October (only the finished device, the one top right)
+- *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)* ([1992](../../main/_/1992.md)), p. 75 (only the finished device, the one top right)
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 192, #188
 
 ## Licensing {#Licensing}
 

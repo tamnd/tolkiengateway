@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Matěj Čadil"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Matěj Čadil</span>"
 page_id: 38751
 namespace: 4
 revision_id: 203645
@@ -16,5 +15,5 @@ sort_keys:
 ---
 
 - All images were uploaded by the copyright holder.
-- Use of the images outside of Tolkien Gateway is prohibited without permission from [Matěj Čadil](/wiki/User:Neral "User:Neral").
-- Confirmation of permission given via email to [User:KingAragorn](/wiki/User:KingAragorn) on 9 July 2012.
+- Use of the images outside of Tolkien Gateway is prohibited without permission from [Matěj Čadil](https://tolkiengateway.net/wiki/User:Neral).
+- Confirmation of permission given via email to [User:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn) on 9 July 2012.

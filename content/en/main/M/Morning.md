@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morning Song"
 ---
 
-Redirect to [Morning Song](/wiki/Morning_Song).
+Redirect to [Morning Song](Morning_Song.md).

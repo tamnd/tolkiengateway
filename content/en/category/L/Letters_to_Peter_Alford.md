@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Peter Alford"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Peter Alford</span>"
 page_id: 68566
 namespace: 14
 revision_id: 404261
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Alford, Peter"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Peter_Alford&amp;action=edit&amp;redlink=1" title="Peter Alford (page does not exist)">Peter Alford</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Alford&amp;action=edit&amp;redlink=1" title="Peter Alford (page does not exist)">Peter Alford</a>.

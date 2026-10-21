@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stiffbeards"
 ---
 
-Redirect to [Stiffbeards](/wiki/Stiffbeards).
+Redirect to [Stiffbeards](Stiffbeards.md).

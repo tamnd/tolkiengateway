@@ -1,6 +1,5 @@
 ---
 title: "Category:Pages using duplicate arguments in template calls"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pages using duplicate arguments in template calls</span>"
 page_id: 63508
 namespace: 14
 revision_id: 361683

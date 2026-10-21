@@ -11,4 +11,4 @@ redirect_target: "Númenor"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Númenor](/wiki/Númenor#Other_names).
+Redirect to [Númenor](../N/Númenor.md#Other_names).

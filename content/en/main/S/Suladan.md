@@ -11,4 +11,4 @@ redirect_target: "Black serpent"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Black serpent](/wiki/Black_serpent#Portrayal_in_adaptations).
+Redirect to [Black serpent](../B/Black_serpent.md#Portrayal_in_adaptations).

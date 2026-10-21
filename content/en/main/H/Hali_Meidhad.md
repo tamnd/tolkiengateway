@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ancrene Wisse and Hali Meiðhad"
 ---
 
-Redirect to [Ancrene Wisse and Hali Meiðhad](/wiki/Ancrene_Wisse_and_Hali_Meiðhad).
+Redirect to [Ancrene Wisse and Hali Meiðhad](../A/Ancrene_Wisse_and_Hali_Meiðhad.md).

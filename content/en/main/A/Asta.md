@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astar"
 ---
 
-Redirect to [Astar](/wiki/Astar).
+Redirect to [Astar](Astar.md).

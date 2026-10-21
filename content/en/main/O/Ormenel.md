@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Menelya"
 ---
 
-Redirect to [Menelya](/wiki/Menelya).
+Redirect to [Menelya](../M/Menelya.md).

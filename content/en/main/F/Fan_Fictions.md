@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fanfiction"
 ---
 
-Redirect to [Fanfiction](/wiki/Fanfiction).
+Redirect to [Fanfiction](Fanfiction.md).

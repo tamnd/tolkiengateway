@@ -1,6 +1,5 @@
 ---
 title: "File:Double Worlds and Creative Process.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Double Worlds and Creative Process.jpg</span>"
 page_id: 30514
 namespace: 6
 revision_id: 214007

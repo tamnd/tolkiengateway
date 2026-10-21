@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Yondershire"
 ---
 
-Redirect to [The Yondershire](/wiki/The_Yondershire).
+Redirect to [The Yondershire](../T/The_Yondershire.md).

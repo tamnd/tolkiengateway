@@ -1,6 +1,5 @@
 ---
 title: "File:Chronology of The Lord of the Rings page 13.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Chronology of The Lord of the Rings page 13.jpeg</span>"
 page_id: 64466
 namespace: 6
 revision_id: 370036

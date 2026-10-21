@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Nancy Smith (30 May 1966)"
 ---
 
-Redirect to [Letter to Nancy Smith (30 May 1966)](/wiki/Letter_to_Nancy_Smith_(30_May_1966)).
+Redirect to [Letter to Nancy Smith (30 May 1966)](<../L/Letter_to_Nancy_Smith_(30_May_1966).md>).

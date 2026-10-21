@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Quellë"
 ---
 
-Redirect to [Quellë](/wiki/Quellë).
+Redirect to [Quellë](Quellë.md).

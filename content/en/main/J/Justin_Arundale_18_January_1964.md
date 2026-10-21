@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Justin Arundale"
 ---
 
-Redirect to [Letter to Justin Arundale](/wiki/Letter_to_Justin_Arundale).
+Redirect to [Letter to Justin Arundale](../L/Letter_to_Justin_Arundale.md).

@@ -1,6 +1,5 @@
 ---
 title: "Bob Joles"
-display_title: "<span class=\"mw-page-title-main\">Bob Joles</span>"
 page_id: 19232
 namespace: 0
 revision_id: 185983
@@ -19,16 +18,16 @@ sort_keys:
   "People by name": "Joles, Bob"
 ---
 
-**Bob Joles** ([July 16](/wiki/16_July "16 July"), [1959](/wiki/1959)) is an American voice actor.
+**Bob Joles** ([July 16](../_/16_July.md), [1959](../_/1959.md)) is an American voice actor.
 
-Though successful with several other roles, Bob Joles is a proficient (and profitable) [John Rhys-Davies](/wiki/John_Rhys-Davies)-impersonator. Apart from playing all Rhys-Davies' roles on [Electronic Arts](/wiki/Electronic_Arts)' video games, Joles also took over his roles of <a class="extiw" href="http://en.wikipedia.org/wiki/Hades_(DC_Comics)" title="wikipedia:Hades (DC Comics)">Hades</a> in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Justice_League_Unlimited" title="wikipedia:Justice League Unlimited">Justice League Unlimited</a></i> and <a class="extiw" href="http://en.wikipedia.org/wiki/List_of_characters_in_SpongeBob_SquarePants#Minor_characters" title="wikipedia:List of characters in SpongeBob SquarePants">ManRay</a> in <i><a class="extiw" href="http://en.wikipedia.org/wiki/SpongeBob_SquarePants" title="wikipedia:SpongeBob SquarePants">SpongeBob SquarePants</a></i>.
+Though successful with several other roles, Bob Joles is a proficient (and profitable) [John Rhys-Davies](../J/John_Rhys-Davies.md)-impersonator. Apart from playing all Rhys-Davies' roles on [Electronic Arts](../E/Electronic_Arts.md)' video games, Joles also took over his roles of <a class="extiw" href="http://en.wikipedia.org/wiki/Hades_(DC_Comics)" title="wikipedia:Hades (DC Comics)">Hades</a> in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Justice_League_Unlimited" title="wikipedia:Justice League Unlimited">Justice League Unlimited</a></i> and <a class="extiw" href="http://en.wikipedia.org/wiki/List_of_characters_in_SpongeBob_SquarePants#Minor_characters" title="wikipedia:List of characters in SpongeBob SquarePants">ManRay</a> in <i><a class="extiw" href="http://en.wikipedia.org/wiki/SpongeBob_SquarePants" title="wikipedia:SpongeBob SquarePants">SpongeBob SquarePants</a></i>.
 
 ## Roles {#Roles}
 
-- [2011](/wiki/2011): *[The Lord of the Rings: War in the North](/wiki/The_Lord_of_the_Rings:_War_in_the_North)* - Unspecified
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: [Gimli](/wiki/Gimli), [Treebeard](/wiki/Treebeard), Uruk-Hai
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: [Gimli](/wiki/Gimli), [Dáin Ironfoot](/wiki/D%C3%A1in_Ironfoot), Additional voices
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*: [Gimli](/wiki/Gimli), [Treebeard](/wiki/Treebeard), Additional voices
+- [2011](../_/2011.md): *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* - Unspecified
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: [Gimli](../G/Gimli.md), [Treebeard](../T/Treebeard.md), Uruk-Hai
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Gimli](../G/Gimli.md), [Dáin Ironfoot](../D/Dáin_Ironfoot.md), Additional voices
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: [Gimli](../G/Gimli.md), [Treebeard](../T/Treebeard.md), Additional voices
 
 ## External links {#External_links}
 

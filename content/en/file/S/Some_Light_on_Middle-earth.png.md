@@ -1,6 +1,5 @@
 ---
 title: "File:Some Light on Middle-earth.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Some Light on Middle-earth.png</span>"
 page_id: 39152
 namespace: 6
 revision_id: 249352

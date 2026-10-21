@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ael"
 ---
 
-Redirect to [Ael](/wiki/Ael).
+Redirect to [Ael](../A/Ael.md).

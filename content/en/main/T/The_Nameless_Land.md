@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Song of Ælfwine"
 ---
 
-Redirect to [The Song of Ælfwine](/wiki/The_Song_of_Ælfwine).
+Redirect to [The Song of Ælfwine](The_Song_of_Ælfwine.md).

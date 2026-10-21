@@ -1,6 +1,5 @@
 ---
 title: "File:Stanislav Dikolenko - Halfast Gamgee.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stanislav Dikolenko - Halfast Gamgee.jpg</span>"
 page_id: 71074
 namespace: 6
 revision_id: 424415
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Halfast Gamgee](/wiki/Halfast_Gamgee) - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Haradrim*: *The Crossings of Poros* illustration by Stanislav Dikolenko
+[Halfast Gamgee](../../main/H/Halfast_Gamgee.md) - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Haradrim*: *The Crossings of Poros* illustration by Stanislav Dikolenko
 
 ## Licensing {#Licensing}
 

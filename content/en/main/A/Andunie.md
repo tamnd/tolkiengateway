@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andúnië"
 ---
 
-Redirect to [Andúnië](/wiki/Andúnië).
+Redirect to [Andúnië](Andúnië.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Sean Astin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sean Astin.jpg</span>"
 page_id: 10613
 namespace: 6
 revision_id: 247174

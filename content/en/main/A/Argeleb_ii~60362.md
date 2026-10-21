@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Argeleb II"
 ---
 
-Redirect to [Argeleb II](/wiki/Argeleb_II).
+Redirect to [Argeleb II](Argeleb_II.md).

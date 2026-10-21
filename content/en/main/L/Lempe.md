@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lempë"
 ---
 
-Redirect to [Lempë](/wiki/Lempë).
+Redirect to [Lempë](Lempë.md).

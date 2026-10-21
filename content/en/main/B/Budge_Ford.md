@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Budgeford"
 ---
 
-Redirect to [Budgeford](/wiki/Budgeford).
+Redirect to [Budgeford](Budgeford.md).

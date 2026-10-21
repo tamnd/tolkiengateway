@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Death of Smaug.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Death of Smaug.jpg</span>"
 page_id: 5755
 namespace: 6
 revision_id: 424826
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-This is a sketch of the arrow shot by [Bard the Bowman](/wiki/Bard "Bard") finding its mark in [Smaug](/wiki/Smaug)'s belly above burning [Lake-town](/wiki/Lake-town). From [The Hobbit](/wiki/The_Hobbit) Chapter 14, [Fire and Water](/wiki/Fire_and_Water) which was also published in The J.R.R. Tolkien Calendars 1973 and 1974. The writing on the left side of the picture reads: 'The moon should be a crescent: it was only a few nights after the New Moon on Durin's Day'; in the left-hand bottom corner: 'Dragon should have a white naked spot where the arrow enters'; and at the bottom: 'Bard the Bowman should be standing after release of arrow at extreme left point of the piles.'
+This is a sketch of the arrow shot by [Bard the Bowman](../../main/B/Bard.md) finding its mark in [Smaug](../../main/S/Smaug.md)'s belly above burning [Lake-town](../../main/L/Lake-town.md). From [The Hobbit](../../main/T/The_Hobbit.md) Chapter 14, [Fire and Water](../../main/F/Fire_and_Water.md) which was also published in The J.R.R. Tolkien Calendars 1973 and 1974. The writing on the left side of the picture reads: 'The moon should be a crescent: it was only a few nights after the New Moon on Durin's Day'; in the left-hand bottom corner: 'Dragon should have a white naked spot where the arrow enters'; and at the bottom: 'Bard the Bowman should be standing after release of arrow at extreme left point of the piles.'
 
 ## Licensing {#Licensing}
 

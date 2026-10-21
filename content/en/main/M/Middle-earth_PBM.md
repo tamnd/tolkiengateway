@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Play-By-Mail"
 ---
 
-Redirect to [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail).
+Redirect to [Middle-earth Play-By-Mail](Middle-earth_Play-By-Mail.md).

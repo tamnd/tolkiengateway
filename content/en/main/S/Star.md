@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stars"
 ---
 
-Redirect to [Stars](/wiki/Stars).
+Redirect to [Stars](Stars.md).

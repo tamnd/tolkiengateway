@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Aulë and Yavanna"
 ---
 
-Redirect to [Of Aulë and Yavanna](/wiki/Of_Aulë_and_Yavanna).
+Redirect to [Of Aulë and Yavanna](Of_Aulë_and_Yavanna.md).

@@ -1,6 +1,5 @@
 ---
 title: "The War of Wrath, Op. 71 (Album)"
-display_title: "<span class=\"mw-page-title-main\">The War of Wrath, Op. 71 (Album)</span>"
 page_id: 65192
 namespace: 0
 revision_id: 426189
@@ -15,9 +14,9 @@ images:
   - "War_of_Wrath_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:War_of_Wrath_Cover.jpg"><img src="/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, /w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release by permission of Ted Nasmith.</figcaption></figure>
 
-<br> Complete Demo Recording of composer [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s operatic work *[The War of Wrath, Op. 71 (Opera)](</wiki/The_War_of_Wrath,_Op._71_(Opera)>)* from his cycle *Epic Scenes from The SIlmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2023.
+<br> Complete Demo Recording of composer [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s operatic work *[The War of Wrath, Op. 71 (Opera)](<The_War_of_Wrath,_Op._71_(Opera).md>)* from his cycle *Epic Scenes from The SIlmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2023.
 
 <br> **Cast:**
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Harfoots"
 ---
 
-Redirect to [Harfoots](/wiki/Harfoots).
+Redirect to [Harfoots](Harfoots.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Cor Blok - Meeting of Éomer with Aragorn, Legolas and Gimli.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cor Blok - Meeting of Éomer with Aragorn, Legolas and Gimli.jpg</span>"
 page_id: 71733
 namespace: 6
 revision_id: 427494
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"Meeting of [Éomer](/wiki/%C3%89omer) with [Aragorn](/wiki/Aragorn), [Legolas](/wiki/Legolas) and [Gimli](/wiki/Gimli)" by [Cor Blok](/wiki/Cor_Blok).
+"Meeting of [Éomer](../../main/_/Éomer.md) with [Aragorn](../../main/A/Aragorn.md), [Legolas](../../main/L/Legolas.md) and [Gimli](../../main/G/Gimli.md)" by [Cor Blok](../../main/C/Cor_Blok.md).
 
 ## Licensing {#Licensing}
 

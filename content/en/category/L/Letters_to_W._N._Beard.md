@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to W. N. Beard"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to W. N. Beard</span>"
 page_id: 68555
 namespace: 14
 revision_id: 404189
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Beard, W. N."
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=W._N._Beard&amp;action=edit&amp;redlink=1" title="W. N. Beard (page does not exist)">W. N. Beard</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=W._N._Beard&amp;action=edit&amp;redlink=1" title="W. N. Beard (page does not exist)">W. N. Beard</a>.

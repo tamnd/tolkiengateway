@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/A-denn"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/A-denn</span>"
 page_id: 60060
 namespace: 4
 revision_id: 336465
@@ -15,9 +14,9 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "A-denn"
 ---
 
-- A-denn has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_A-denn "Category:Images by A-denn") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- A-denn has kindly granted her permission to use [her artwork](../../category/I/Images_by_A-denn.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 28 May 2021
-- User who sought the permission via DeviantArt: [IvarTheBoneless](/wiki/User:IvarTheBoneless "User:IvarTheBoneless")
+- User who sought the permission via DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)
 - Screenshot evidence of author permission:
 
 <a class="external free" href="https://imgur.com/a/xcGqYWY" rel="noreferrer noopener" target="_blank">https://imgur.com/a/xcGqYWY</a>

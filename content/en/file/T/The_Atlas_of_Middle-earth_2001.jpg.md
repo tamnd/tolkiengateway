@@ -1,6 +1,5 @@
 ---
 title: "File:The Atlas of Middle-earth 2001.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Atlas of Middle-earth 2001.jpg</span>"
 page_id: 5821
 namespace: 6
 revision_id: 436785

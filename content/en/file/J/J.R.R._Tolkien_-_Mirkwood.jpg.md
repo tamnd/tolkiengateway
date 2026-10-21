@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Mirkwood.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Mirkwood.jpg</span>"
 page_id: 5779
 namespace: 6
 revision_id: 429917
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-By [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and was published in the first impression of [The Hobbit](/wiki/The_Hobbit), 1937 (in Chapter 8, [Flies and Spiders](/wiki/Flies_and_Spiders), though intended to be the endpaper); the original was given by J.R.R. Tolkien to a friend and cannot now be traced.
+By [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) and was published in the first impression of [The Hobbit](../../main/T/The_Hobbit.md), 1937 (in Chapter 8, [Flies and Spiders](../../main/F/Flies_and_Spiders.md), though intended to be the endpaper); the original was given by J.R.R. Tolkien to a friend and cannot now be traced.
 
 ## Licensing {#Licensing}
 

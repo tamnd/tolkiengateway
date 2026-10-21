@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Grant Gould"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Grant Gould</span>"
 page_id: 37821
 namespace: 4
 revision_id: 193155
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gould, Grant"
 ---
 
-- [Grant Gould](/wiki/Grant_Gould) has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Grant_Gould "Category:Images by Grant Gould") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- [Grant Gould](../../main/G/Grant_Gould.md) has kindly granted his permission to use [his artwork](../../category/I/Images_by_Grant_Gould.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 4 January 2012
-- User who sought the permission via email: [User:Mith](/wiki/User:Mith)
+- User who sought the permission via email: [User:Mith](https://tolkiengateway.net/wiki/User:Mith)

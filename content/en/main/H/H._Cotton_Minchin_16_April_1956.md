@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to H. Cotton Minchin (16 April 1956)"
 ---
 
-Redirect to [Letter to H. Cotton Minchin (16 April 1956)](/wiki/Letter_to_H._Cotton_Minchin_(16_April_1956)).
+Redirect to [Letter to H. Cotton Minchin (16 April 1956)](<../L/Letter_to_H._Cotton_Minchin_(16_April_1956).md>).

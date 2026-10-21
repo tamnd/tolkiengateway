@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Folio Society"
 ---
 
-Redirect to [The Folio Society](/wiki/The_Folio_Society).
+Redirect to [The Folio Society](../T/The_Folio_Society.md).

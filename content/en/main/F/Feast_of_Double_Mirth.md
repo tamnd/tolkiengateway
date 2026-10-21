@@ -11,4 +11,4 @@ redirect_target: "High feast"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [High feast](/wiki/High_feast#Other_versions_of_the_legendarium).
+Redirect to [High feast](../H/High_feast.md#Other_versions_of_the_legendarium).

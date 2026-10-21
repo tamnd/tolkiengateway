@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Linda Baggins"
 ---
 
-Redirect to [Linda Baggins](/wiki/Linda_Baggins).
+Redirect to [Linda Baggins](Linda_Baggins.md).

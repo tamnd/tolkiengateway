@@ -1,6 +1,5 @@
 ---
 title: "File:O What a Tangled Web.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">O What a Tangled Web.jpg</span>"
 page_id: 67040
 namespace: 6
 revision_id: 388950
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[O What a Tangled Web](/wiki/O_What_a_Tangled_Web)*, published by [Walking Tree Publishers](/wiki/Walking_Tree_Publishers). The illuminated capital was drawn by [Anke Eißmann](/wiki/Anke_Ei%C3%9Fmann).
+Cover of *[O What a Tangled Web](../../main/O/O_What_a_Tangled_Web.md)*, published by [Walking Tree Publishers](../../main/W/Walking_Tree_Publishers.md). The illuminated capital was drawn by [Anke Eißmann](../../main/A/Anke_Eißmann.md).
 
 ## Licensing {#Licensing}
 

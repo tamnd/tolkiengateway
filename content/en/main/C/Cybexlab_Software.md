@@ -1,6 +1,5 @@
 ---
 title: "Cybexlab Software"
-display_title: "<span class=\"mw-page-title-main\">Cybexlab Software</span>"
 page_id: 27667
 namespace: 0
 revision_id: 405157
@@ -13,7 +12,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Cybexlab Software** is czech company<sup id="cite_ref-Spectrum_1-0" class="reference"><a href="#cite_note-Spectrum-1">[1]</a></sup> that published the <a class="extiw" href="http://en.wikipedia.org/wiki/ZX_Spectrum" title="wikipedia:ZX Spectrum">ZX Spectrum</a>- and <a class="extiw" href="http://en.wikipedia.org/wiki/Atari_ST" title="wikipedia:Atari ST">Atari ST</a>-version of the video game [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)").<sup id="cite_ref-Spectrum_1-1" class="reference"><a href="#cite_note-Spectrum-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Cybexlab Software** is czech company<sup id="cite_ref-Spectrum_1-0" class="reference"><a href="#cite_note-Spectrum-1">[1]</a></sup> that published the <a class="extiw" href="http://en.wikipedia.org/wiki/ZX_Spectrum" title="wikipedia:ZX Spectrum">ZX Spectrum</a>- and <a class="extiw" href="http://en.wikipedia.org/wiki/Atari_ST" title="wikipedia:Atari ST">Atari ST</a>-version of the video game [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-Spectrum_1-1" class="reference"><a href="#cite_note-Spectrum-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## References {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angerthas Erebor"
 ---
 
-Redirect to [Angerthas Erebor](/wiki/Angerthas_Erebor).
+Redirect to [Angerthas Erebor](../A/Angerthas_Erebor.md).

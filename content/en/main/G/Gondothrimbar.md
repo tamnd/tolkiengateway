@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondolin"
 ---
 
-Redirect to [Gondolin](/wiki/Gondolin).
+Redirect to [Gondolin](Gondolin.md).

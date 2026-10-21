@@ -1,6 +1,5 @@
 ---
 title: "Of Tuor and his Coming to Gondolin"
-display_title: "<span class=\"mw-page-title-main\">Of Tuor and his Coming to Gondolin</span>"
 page_id: 16398
 namespace: 0
 revision_id: 422715
@@ -27,71 +26,71 @@ images:
 
 <table align="right" cellpadding="6" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2); word-wrap: break-word;border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a><br/><small>of Númenor and Middle-earth</small></i>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a><br/><small>of Númenor and Middle-earth</small></i>
 </th></tr>
 <tr>
-<td><b>Part One: The <a href="/wiki/First_Age" title="First Age">First Age</a></b>
+<td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
 <ul><li><a class="mw-selflink selflink">Of Tuor and his Coming to Gondolin</a></li>
-<li><a href="/wiki/Narn_i_H%C3%AEn_H%C3%BArin" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
+<li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Part Two: The <a href="/wiki/Second_Age" title="Second Age">Second Age</a></b>
-<ul><li><a href="/wiki/A_Description_of_the_Island_of_N%C3%BAmenor" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
-<li><a href="/wiki/Aldarion_and_Erendis:_The_Mariner%27s_Wife" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="/wiki/The_Line_of_Elros:_Kings_of_N%C3%BAmenor" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
-<li><a href="/wiki/The_History_of_Galadriel_and_Celeborn" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
+<td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
+<li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
+<li><a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
+<li><a href="../T/The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Part Three: The <a href="/wiki/Third_Age" title="Third Age">Third Age</a></b>
-<ul><li><a href="/wiki/The_Disaster_of_the_Gladden_Fields" title="The Disaster of the Gladden Fields">Disaster of the Gladden Fields</a></li>
-<li><a href="/wiki/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
-<li><a href="/wiki/The_Quest_of_Erebor" title="The Quest of Erebor">The Quest of Erebor</a></li>
-<li><a href="/wiki/The_Hunt_for_the_Ring" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
-<li><a href="/wiki/The_Battles_of_the_Fords_of_Isen" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
+<td><b>Part Three: The <a href="../T/Third_Age.md" title="Third Age">Third Age</a></b>
+<ul><li><a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Disaster of the Gladden Fields</a></li>
+<li><a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
+<li><a href="../T/The_Quest_of_Erebor.md" title="The Quest of Erebor">The Quest of Erebor</a></li>
+<li><a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
+<li><a href="../T/The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Four</b>
-<ul><li><a href="/wiki/The_Dr%C3%BAedain" title="The Drúedain">The Drúedain</a></li>
-<li><a href="/wiki/The_Istari" title="The Istari">The Istari</a></li>
-<li><a href="/wiki/The_Palant%C3%ADri" title="The Palantíri">The Palantíri</a></li></ul>
+<ul><li><a href="../T/The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
+<li><a href="../T/The_Istari.md" title="The Istari">The Istari</a></li>
+<li><a href="../T/The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
-**Of Tuor and his Coming to Gondolin** is a late work by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) found in the *[Unfinished Tales](/wiki/Unfinished_Tales)*. It begins as a rewrite of the older work, *[The Fall of Gondolin](</wiki/The_Fall_of_Gondolin_(chapter)> "The Fall of Gondolin (chapter)")*, but went unfinished. It tells of how [Tuor](/wiki/Tuor) was raised, came to [Vinyamar](/wiki/Vinyamar), found [Voronwë](/wiki/Voronw%C3%AB), travelled towards [Gondolin](/wiki/Gondolin) and passed through the [Seven Gates](/wiki/Seven_Gates_of_Gondolin "Seven Gates of Gondolin").
+**Of Tuor and his Coming to Gondolin** is a late work by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) found in the *[Unfinished Tales](../U/Unfinished_Tales.md)*. It begins as a rewrite of the older work, *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, but went unfinished. It tells of how [Tuor](../T/Tuor.md) was raised, came to [Vinyamar](../V/Vinyamar.md), found [Voronwë](../V/Voronwë.md), travelled towards [Gondolin](../G/Gondolin.md) and passed through the [Seven Gates](../S/Seven_Gates_of_Gondolin.md).
 
-The true title of the work was **Of Tuor and the Fall of Gondolin**, but [Christopher Tolkien](/wiki/Christopher_Tolkien) changed it for *Unfinished Tales* since it only reached that point. This title was reused for the story's equivalent chapter in *[The Silmarillion](/wiki/The_Silmarillion)*. It was finally published under its original title in the *[Fall of Gondolin](/wiki/The_Fall_of_Gondolin "The Fall of Gondolin")* compilation.
+The true title of the work was **Of Tuor and the Fall of Gondolin**, but [Christopher Tolkien](../C/Christopher_Tolkien.md) changed it for *Unfinished Tales* since it only reached that point. This title was reused for the story's equivalent chapter in *[The Silmarillion](../T/The_Silmarillion.md)*. It was finally published under its original title in the *[Fall of Gondolin](../T/The_Fall_of_Gondolin.md)* compilation.
 
 ## Synopsis {#Synopsis}
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Steamey_-_Tuor_and_Voronwe.jpg"><img src="/w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/200px-Steamey_-_Tuor_and_Voronwe.jpg" decoding="async" loading="lazy" width="200" height="354" class="mw-file-element" srcset="/w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/300px-Steamey_-_Tuor_and_Voronwe.jpg 1.5x, /w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/400px-Steamey_-_Tuor_and_Voronwe.jpg 2x" data-file-width="450" data-file-height="797"/></a><figcaption>&#34;Tuor and Voronwe&#34; by <a href="/wiki/Category:Images_by_Steamey" title="Category:Images by Steamey">Steamey</a></figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steamey_-_Tuor_and_Voronwe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/200px-Steamey_-_Tuor_and_Voronwe.jpg" decoding="async" loading="lazy" width="200" height="354" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/300px-Steamey_-_Tuor_and_Voronwe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a8/Steamey_-_Tuor_and_Voronwe.jpg/400px-Steamey_-_Tuor_and_Voronwe.jpg 2x" data-file-width="450" data-file-height="797"/></a><figcaption>&#34;Tuor and Voronwe&#34; by <a href="../../category/I/Images_by_Steamey.md" title="Category:Images by Steamey">Steamey</a></figcaption></figure>
 
-[Tuor](/wiki/Tuor) was the son of [Rían](/wiki/R%C3%ADan) and [Huor](/wiki/Huor), born in the year of the battle [Nirnaeth Arnoediad](/wiki/Nirnaeth_Arnoediad). Upon finding the news of her husband's death, followed closely by her own, Rían left Tuor in the care of the [Sindar](/wiki/Sindar) of [Mithrim](/wiki/Mithrim), specifically [Annael](/wiki/Annael) who became his foster-father. Led by him, a small group sought refuge from the [Easterlings](/wiki/Easterlings) in the caves of [Androth](/wiki/Androth), where Tuor grew until he was 16, learning the elven lore and the mastering of weapons. Trying to leave [Dor-lómin](/wiki/Dor-l%C3%B3min), the group was attacked by the Easterlings and Tuor taken into slavery for 3 years, until he escaped and ran back to the caves of Androth, where he lived as an outlaw for another four.
+[Tuor](../T/Tuor.md) was the son of [Rían](../R/Rían.md) and [Huor](../H/Huor.md), born in the year of the battle [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md). Upon finding the news of her husband's death, followed closely by her own, Rían left Tuor in the care of the [Sindar](../S/Sindar.md) of [Mithrim](../M/Mithrim.md), specifically [Annael](../A/Annael.md) who became his foster-father. Led by him, a small group sought refuge from the [Easterlings](../E/Easterlings.md) in the caves of [Androth](../A/Androth.md), where Tuor grew until he was 16, learning the elven lore and the mastering of weapons. Trying to leave [Dor-lómin](../D/Dor-lómin.md), the group was attacked by the Easterlings and Tuor taken into slavery for 3 years, until he escaped and ran back to the caves of Androth, where he lived as an outlaw for another four.
 
-Twenty-three years after Nirnaeth Arnoeadiad, in the first day of the new year Tuor began a journey west, towards the [Ered Lómin](/wiki/Ered_L%C3%B3min) mountains, in order to find the [Gate of the Noldor](/wiki/Gate_of_the_Noldor), following a small river which he considered to be a sign. With the help of [Gelmir](</wiki/Gelmir_(messenger_of_C%C3%ADrdan)> "Gelmir (messenger of Círdan)") and [Arminas](/wiki/Arminas) he passed through the gate and entered the coast known as [Lammoth](/wiki/Lammoth). Further on, he entered [Nevrast](/wiki/Nevrast) and became the first of the race of [Men](/wiki/Men) to have seen the Great Sea [Belegaer](/wiki/Belegaer).
+Twenty-three years after Nirnaeth Arnoeadiad, in the first day of the new year Tuor began a journey west, towards the [Ered Lómin](../E/Ered_Lómin.md) mountains, in order to find the [Gate of the Noldor](../G/Gate_of_the_Noldor.md), following a small river which he considered to be a sign. With the help of [Gelmir](<../G/Gelmir_(messenger_of_Círdan).md>) and [Arminas](../A/Arminas.md) he passed through the gate and entered the coast known as [Lammoth](../L/Lammoth.md). Further on, he entered [Nevrast](../N/Nevrast.md) and became the first of the race of [Men](../M/Men.md) to have seen the Great Sea [Belegaer](../B/Belegaer.md).
 
-Led by swans, Tuor found the city of [Vinyamar](/wiki/Vinyamar) on the slopes of [Mount Taras](/wiki/Mount_Taras) and from the great halls he took the armour and weapons that [Turgon](/wiki/Turgon) had left, and then climbed down towards the sea once more. There, on the shores of Belegaer, the Vala [Ulmo](/wiki/Ulmo) appeared before him and spoke of [Gondolin](/wiki/Gondolin), where Tuor, with the help of the last sailor on the last ship to sail West at the command of [Círdan](/wiki/C%C3%ADrdan), would need to deliver a message on behalf of the Lord of the Waters.
+Led by swans, Tuor found the city of [Vinyamar](../V/Vinyamar.md) on the slopes of [Mount Taras](../M/Mount_Taras.md) and from the great halls he took the armour and weapons that [Turgon](../T/Turgon.md) had left, and then climbed down towards the sea once more. There, on the shores of Belegaer, the Vala [Ulmo](../U/Ulmo.md) appeared before him and spoke of [Gondolin](../G/Gondolin.md), where Tuor, with the help of the last sailor on the last ship to sail West at the command of [Círdan](../C/Círdan.md), would need to deliver a message on behalf of the Lord of the Waters.
 
-The guide proved to be [Voronwë](/wiki/Voronw%C3%AB) and together they set towards East, making a stop at the [Pools of Ivrin](/wiki/Pools_of_Ivrin) where they caught a glimpse of [Túrin](/wiki/T%C3%BArin), Tuor's cousin, set on a journey of his own. The two companions travelled further, to the tower [Minas Tirith](</wiki/Minas_Tirith_(Beleriand)> "Minas Tirith (Beleriand)") built by [Finrod Felagund](/wiki/Finrod "Finrod") and from there went South, following the road which climbed down in the Valley of the [Sirion](/wiki/Sirion).
+The guide proved to be [Voronwë](../V/Voronwë.md) and together they set towards East, making a stop at the [Pools of Ivrin](../P/Pools_of_Ivrin.md) where they caught a glimpse of [Túrin](../T/Túrin.md), Tuor's cousin, set on a journey of his own. The two companions travelled further, to the tower [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>) built by [Finrod Felagund](../F/Finrod.md) and from there went South, following the road which climbed down in the Valley of the [Sirion](../S/Sirion.md).
 
-From the [Echoriath](/wiki/Encircling_Mountains "Encircling Mountains") they crossed the [Ford of Brithiach](/wiki/Ford_of_Brithiach) and on the 37th day of their journey they entered the kingdom of Turgon. The first one they encountered was [Elemmakil](/wiki/Elemmakil), a [Noldorin](/wiki/Noldor "Noldor") Elf, captain of those who guarded the outer entranceway to Gondolin. Under close guard they passed through the [Seven Gates](/wiki/Seven_Gates_of_Gondolin "Seven Gates of Gondolin"): [Gate of Wood](/wiki/Gate_of_Wood), [Gate of Stone](/wiki/Gate_of_Stone), [Gate of Bronze](/wiki/Gate_of_Bronze), [Gate of Writhen Iron](/wiki/Gate_of_Writhen_Iron), [Gate of Silver](/wiki/Gate_of_Silver), [Gate of Gold](/wiki/Gate_of_Gold) and the [Gate of Steel](/wiki/Gate_of_Steel).
+From the [Echoriath](../E/Encircling_Mountains.md) they crossed the [Ford of Brithiach](../F/Ford_of_Brithiach.md) and on the 37th day of their journey they entered the kingdom of Turgon. The first one they encountered was [Elemmakil](../E/Elemmakil.md), a [Noldorin](../N/Noldor.md) Elf, captain of those who guarded the outer entranceway to Gondolin. Under close guard they passed through the [Seven Gates](../S/Seven_Gates_of_Gondolin.md): [Gate of Wood](../G/Gate_of_Wood.md), [Gate of Stone](../G/Gate_of_Stone.md), [Gate of Bronze](../G/Gate_of_Bronze.md), [Gate of Writhen Iron](../G/Gate_of_Writhen_Iron.md), [Gate of Silver](../G/Gate_of_Silver.md), [Gate of Gold](../G/Gate_of_Gold.md) and the [Gate of Steel](../G/Gate_of_Steel.md).
 
-At the last one, [Ecthelion](/wiki/Ecthelion), lord of the [People of the Fountain](/wiki/People_of_the_Fountain) and keeper of the Great Gate at that time, appeared before their eyes.
+At the last one, [Ecthelion](../E/Ecthelion.md), lord of the [People of the Fountain](../P/People_of_the_Fountain.md) and keeper of the Great Gate at that time, appeared before their eyes.
 
 ## Incomplete story {#Incomplete_story}
 
-Here, the detailed writing stops. In the published manuscript the tale is continued until Tuor is granted passage by Ecthelion and sets his eyes upon the [Hidden City](/wiki/Gondolin "Gondolin"), a passage taken from further incomplete notes of Tolkien, which would also contain a description of Gondolin and [Turgon](/wiki/Turgon), as well as the first meeting of Tuor and [Idril](/wiki/Idril), who became his wife. However, a final version of the tale was never completed.
+Here, the detailed writing stops. In the published manuscript the tale is continued until Tuor is granted passage by Ecthelion and sets his eyes upon the [Hidden City](../G/Gondolin.md), a passage taken from further incomplete notes of Tolkien, which would also contain a description of Gondolin and [Turgon](../T/Turgon.md), as well as the first meeting of Tuor and [Idril](../I/Idril.md), who became his wife. However, a final version of the tale was never completed.
 
 <h2><span id="Tuor_and_Voronw.C3.AB.27s_route_towards_the_Hidden_City"></span><span class="mw-headline" id="Tuor_and_Voronwë&#39;s_route_towards_the_Hidden_City">Tuor and Voronwë&#39;s route towards the Hidden City</span></h2>
 
-1. [Nevrast](/wiki/Nevrast): [Vinyamar](/wiki/Vinyamar), [Mount Taras](/wiki/Mount_Taras)
-2. [Falas](/wiki/Falas): [Woods of Núath](/wiki/Woods_of_N%C3%BAath), [Pools of Ivrin](/wiki/Pools_of_Ivrin), [The 3 springs of Taeglin](/wiki/Taeglin "Taeglin"), [Spring of Malduin](/wiki/Malduin "Malduin")
-3. [Sirion](/wiki/Vales_of_Sirion "Vales of Sirion"): [Minas Tirith](</wiki/Minas_Tirith_(Beleriand)> "Minas Tirith (Beleriand)")
-4. [Dimbar](/wiki/Dimbar): [Ford of Brithiach](/wiki/Ford_of_Brithiach), [Echoriath](/wiki/Echoriath)
-5. [Gondolin](/wiki/Gondolin): [Seven Gates of Gondolin](/wiki/Seven_Gates_of_Gondolin)
+1. [Nevrast](../N/Nevrast.md): [Vinyamar](../V/Vinyamar.md), [Mount Taras](../M/Mount_Taras.md)
+2. [Falas](../F/Falas.md): [Woods of Núath](../W/Woods_of_Núath.md), [Pools of Ivrin](../P/Pools_of_Ivrin.md), [The 3 springs of Taeglin](../T/Taeglin.md), [Spring of Malduin](../M/Malduin.md)
+3. [Sirion](../V/Vales_of_Sirion.md): [Minas Tirith](<../M/Minas_Tirith_(Beleriand).md>)
+4. [Dimbar](../D/Dimbar.md): [Ford of Brithiach](../F/Ford_of_Brithiach.md), [Echoriath](../E/Echoriath.md)
+5. [Gondolin](../G/Gondolin.md): [Seven Gates of Gondolin](../S/Seven_Gates_of_Gondolin.md)
 
 The entire journey took 37 days to complete and one more for the crossing of the gates.
 
 ## See also {#See_also}
 
-- [The Fall of Gondolin (chapter)](</wiki/The_Fall_of_Gondolin_(chapter)>)
-- [Of Tuor and the Fall of Gondolin](/wiki/Of_Tuor_and_the_Fall_of_Gondolin)
-- [The Fall of Gondolin (book)](/wiki/The_Fall_of_Gondolin "The Fall of Gondolin")
+- [The Fall of Gondolin (chapter)](<../T/The_Fall_of_Gondolin_(chapter).md>)
+- [Of Tuor and the Fall of Gondolin](Of_Tuor_and_the_Fall_of_Gondolin.md)
+- [The Fall of Gondolin (book)](../T/The_Fall_of_Gondolin.md)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lothlórien (chapter)"
 ---
 
-Redirect to [Lothlórien (chapter)](/wiki/Lothlórien_(chapter)).
+Redirect to [Lothlórien (chapter)](<Lothlórien_(chapter).md>).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Dragon 32 games"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dragon 32 games</span>"
 page_id: 48878
 namespace: 14
 revision_id: 262039

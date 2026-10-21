@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taurë"
 ---
 
-Redirect to [Taurë](/wiki/Taurë).
+Redirect to [Taurë](Taurë.md).

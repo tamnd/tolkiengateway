@@ -1,6 +1,5 @@
 ---
 title: "File:A Guide to Middle-earth 2006 Calendar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Guide to Middle-earth 2006 Calendar.jpg</span>"
 page_id: 6804
 namespace: 6
 revision_id: 215447

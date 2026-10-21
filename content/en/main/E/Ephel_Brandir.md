@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Obel Halad"
 ---
 
-Redirect to [Obel Halad](/wiki/Obel_Halad).
+Redirect to [Obel Halad](../O/Obel_Halad.md).

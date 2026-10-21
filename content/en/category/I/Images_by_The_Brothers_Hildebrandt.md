@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by The Brothers Hildebrandt"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by The Brothers Hildebrandt</span>"
 page_id: 71415
 namespace: 14
 revision_id: 426008
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Hildenbrandt"
 ---
 
-This category lists all **images by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt)**.
+This category lists all **images by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md)**.

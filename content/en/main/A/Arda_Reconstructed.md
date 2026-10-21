@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Reconstructed: The Creation of the Published Silmarillion"
 ---
 
-Redirect to [Arda Reconstructed: The Creation of the Published Silmarillion](/wiki/Arda_Reconstructed:_The_Creation_of_the_Published_Silmarillion).
+Redirect to [Arda Reconstructed: The Creation of the Published Silmarillion](Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md).

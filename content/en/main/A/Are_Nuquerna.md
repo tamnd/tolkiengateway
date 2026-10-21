@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Áre Nuquerna"
 ---
 
-Redirect to [Áre Nuquerna](/wiki/Áre_Nuquerna).
+Redirect to [Áre Nuquerna](../_/Áre_Nuquerna.md).

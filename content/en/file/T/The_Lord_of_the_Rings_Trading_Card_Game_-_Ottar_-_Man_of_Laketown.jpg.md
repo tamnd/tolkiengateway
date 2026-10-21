@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Fellowship of the Ring - Ottar - Man of Laketown.jpg"
 ---
 
-Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Ottar - Man of Laketown.jpg](/wiki/File:The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ottar_-_Man_of_Laketown.jpg).
+Redirect to [File:The Lord of the Rings - The Fellowship of the Ring - Ottar - Man of Laketown.jpg](The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ottar_-_Man_of_Laketown.jpg.md).

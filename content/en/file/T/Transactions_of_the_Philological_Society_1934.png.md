@@ -1,6 +1,5 @@
 ---
 title: "File:Transactions of the Philological Society 1934.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Transactions of the Philological Society 1934.png</span>"
 page_id: 65922
 namespace: 6
 revision_id: 379858

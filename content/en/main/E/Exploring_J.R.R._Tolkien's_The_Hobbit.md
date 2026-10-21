@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exploring J.R.R. Tolkien’s The Hobbit"
 ---
 
-Redirect to [Exploring J.R.R. Tolkien’s The Hobbit](/wiki/Exploring_J.R.R._Tolkien’s_The_Hobbit).
+Redirect to [Exploring J.R.R. Tolkien’s The Hobbit](Exploring_J.R.R._Tolkien’s_The_Hobbit.md).

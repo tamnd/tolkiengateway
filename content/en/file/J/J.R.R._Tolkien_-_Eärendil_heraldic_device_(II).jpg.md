@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Eärendil heraldic device (II).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Eärendil heraldic device (II).jpg</span>"
 page_id: 64775
 namespace: 6
 revision_id: 373222
@@ -29,8 +28,8 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/62/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #62</a>. Published in:
 
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)*, February
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)*, February
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)*, February
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)*, February
 
 As noted by the TAI editors, the orientation of this device is unclear, and the stars should have their tails travelling straight down, as if the stars are rising, rather than falling. Notice this device has only been included in two callendars, rather than a proper publication.
 

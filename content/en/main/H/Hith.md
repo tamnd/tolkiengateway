@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hîth"
 ---
 
-Redirect to [Hîth](/wiki/Hîth).
+Redirect to [Hîth](Hîth.md).

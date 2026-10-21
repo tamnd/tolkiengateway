@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sindar"
 ---
 
-Redirect to [Sindar](/wiki/Sindar).
+Redirect to [Sindar](Sindar.md).

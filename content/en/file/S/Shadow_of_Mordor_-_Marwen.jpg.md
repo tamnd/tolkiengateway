@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Marwen.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Marwen.jpg</span>"
 page_id: 64256
 namespace: 6
 revision_id: 367566
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Queen [Marwen](/wiki/Marwen) as depicted in *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*.
+Queen [Marwen](../../main/M/Marwen.md) as depicted in *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*.
 
 ## Licensing {#Licensing}
 

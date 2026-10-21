@@ -1,6 +1,5 @@
 ---
 title: "Isaac C. Singleton, Jr."
-display_title: "<span class=\"mw-page-title-main\">Isaac C. Singleton, Jr.</span>"
 page_id: 19257
 namespace: 0
 revision_id: 289916
@@ -19,12 +18,12 @@ sort_keys:
   "People by name": "Singleton, Isaac C."
 ---
 
-**Isaac Charles Singleton, Jr.** (born [August](/wiki/August), [1967](/wiki/1967)) is an American actor. Some of his more recognized roles are Bo'Sun in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="wikipedia:Pirates of the Caribbean: The Curse of the Black Pearl">Pirates of the Caribbean: The Curse of the Black Pearl</a></i> and the vampire Ingonito in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>. As such, he has played opposite both [Orlando Bloom](/wiki/Orlando_Bloom) (Will Turner in *Pirates*) and Bloom's voice double [Crispin Freeman](/wiki/Crispin_Freeman) (Alucard in *Hellsing*).
+**Isaac Charles Singleton, Jr.** (born [August](../A/August.md), [1967](../_/1967.md)) is an American actor. Some of his more recognized roles are Bo'Sun in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl" title="wikipedia:Pirates of the Caribbean: The Curse of the Black Pearl">Pirates of the Caribbean: The Curse of the Black Pearl</a></i> and the vampire Ingonito in <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hellsing_(TV_series)" title="wikipedia:Hellsing (TV series)">Hellsing</a></i>. As such, he has played opposite both [Orlando Bloom](../O/Orlando_Bloom.md) (Will Turner in *Pirates*) and Bloom's voice double [Crispin Freeman](../C/Crispin_Freeman.md) (Alucard in *Hellsing*).
 
 ## Roles {#Roles}
 
-- [2006](/wiki/2006): *[The Lord of the Rings: The Battle for Middle-earth II](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II)*: [Lurtz](/wiki/Lurtz)
-- [2004](/wiki/2004): *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*: [Lurtz](/wiki/Lurtz)
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: [Lurtz](../L/Lurtz.md)
+- [2004](../_/2004.md): *[The Lord of the Rings: The Battle for Middle-earth](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*: [Lurtz](../L/Lurtz.md)
 
 ## External links {#External_links}
 

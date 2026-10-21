@@ -1,6 +1,5 @@
 ---
 title: "File:Dol Guldur (MERP).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dol Guldur (MERP).jpg</span>"
 page_id: 29582
 namespace: 6
 revision_id: 350641

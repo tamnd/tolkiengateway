@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mardil"
 ---
 
-Redirect to [Mardil](/wiki/Mardil).
+Redirect to [Mardil](Mardil.md).

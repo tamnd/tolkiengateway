@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Nora Brisotti"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Nora Brisotti</span>"
 page_id: 72805
 namespace: 14
 revision_id: 431449
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Brisotti, Nora"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Nora_Brisotti&amp;action=edit&amp;redlink=1" title="Nora Brisotti (page does not exist)">Nora Brisotti</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nora_Brisotti&amp;action=edit&amp;redlink=1" title="Nora Brisotti (page does not exist)">Nora Brisotti</a></b>.

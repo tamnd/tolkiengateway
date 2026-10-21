@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fritz Möser"
 ---
 
-Redirect to [Fritz Möser](/wiki/Fritz_Möser).
+Redirect to [Fritz Möser](Fritz_Möser.md).

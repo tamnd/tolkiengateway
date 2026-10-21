@@ -1,6 +1,5 @@
 ---
 title: "File:Probleme der Englischen Sprache und Kultur - Signature.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Probleme der Englischen Sprache und Kultur - Signature.jpg</span>"
 page_id: 44601
 namespace: 6
 revision_id: 234945

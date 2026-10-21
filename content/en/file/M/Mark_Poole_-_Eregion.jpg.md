@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Mark Poole - Ost-in-Edhil.jpg"
 ---
 
-Redirect to [File:Mark Poole - Ost-in-Edhil.jpg](/wiki/File:Mark_Poole_-_Ost-in-Edhil.jpg).
+Redirect to [File:Mark Poole - Ost-in-Edhil.jpg](Mark_Poole_-_Ost-in-Edhil.jpg.md).

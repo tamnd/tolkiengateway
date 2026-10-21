@@ -1,6 +1,5 @@
 ---
 title: "File:Bedeviled,Lewis, Tolkien and the Shadow of Evil.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bedeviled,Lewis, Tolkien and the Shadow of Evil.jpg</span>"
 page_id: 48364
 namespace: 6
 revision_id: 258490
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of *[Bedeviled: Lewis, Tolkien and the Shadow of Evil](/wiki/Bedeviled:_Lewis,_Tolkien_and_the_Shadow_of_Evil)* by [Colin Duriez](/wiki/Colin_Duriez).
+Cover of *[Bedeviled: Lewis, Tolkien and the Shadow of Evil](../../main/B/Bedeviled%253A_Lewis,_Tolkien_and_the_Shadow_of_Evil.md)* by [Colin Duriez](../../main/C/Colin_Duriez.md).
 
 ## Licensing {#Licensing}
 

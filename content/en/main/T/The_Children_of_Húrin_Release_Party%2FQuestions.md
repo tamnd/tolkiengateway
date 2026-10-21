@@ -1,6 +1,5 @@
 ---
 title: "The Children of Húrin Release Party/Questions"
-display_title: "<span class=\"mw-page-title-main\">The Children of Húrin Release Party/Questions</span>"
 page_id: 14783
 namespace: 0
 revision_id: 407416
@@ -15,9 +14,7 @@ images:
   - "CdxIconArticle.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="/wiki/The_Children_of_H%C3%BArin_Release_Party" title="The Children of Húrin Release Party">The Children of Húrin Release Party</a></b></div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="The_Children_of_Húrin_Release_Party.md" title="The Children of Húrin Release Party">The Children of Húrin Release Party</a></b></div></div>
 
 This is a list of questions we will be asking our guest speakers. Whether you plan on attending the event or not you can add a question you would like us to ask. We ask that you try to think of original questions which relate to the guest and their background on Tolkien. Yes or No questions are not advised. After the event the answers will be posted on the wiki for those who couldn't attend the live event.
 
@@ -44,7 +41,7 @@ This is a list of questions we will be asking our guest speakers. Whether you pl
 - Do you have contacts with Christopher or Adam Tolkien? On which level?
 - What is your meaning about the translations of Tolkien's books into French? Vincent Ferré isn't enthousiast about it, what about you?
 - There is also a growing body of secondary material on Tolkien that is being translated from English into French, how you feel about this?
-- Your translation of the letter to [Milton Waldman](/wiki/Milton_Waldman) has changed the planet, now it is featured as a standard beginning of the Silmarillion, can you tell us about this?
+- Your translation of the letter to [Milton Waldman](../M/Milton_Waldman.md) has changed the planet, now it is featured as a standard beginning of the Silmarillion, can you tell us about this?
 - Will you publish more unpublished texts by J.R.R. Tolkien in the future?
 - Adam Tolkien has been very busy doing translations of Tolkiens works into French, the rest of the world has just now heard of him. Do you think he will now start to play a more important role?
 - How you see the new book, the Children of Húrin?
@@ -126,7 +123,7 @@ How do you handle secondary literature in different nations? Is this welcome or 
 - When I see your paintings I almost hear music, is music a part in your life?
 - Where do you paint?
 - Most Tolkien artists are very worried to miss any detail from Tolkien's descriptions, how do you see this?
-- Was your image "[Music of the Ainur](/wiki/Music_of_the_Ainur)" inspired at all by the <a class="external text" href="http://commons.wikimedia.org/wiki/Image:Paradiso_Canto_31.jpg" rel="noreferrer noopener" target="_blank">similar engraving</a> by Gustave Doré of Dante's Heaven?
+- Was your image "[Music of the Ainur](../M/Music_of_the_Ainur.md)" inspired at all by the <a class="external text" href="http://commons.wikimedia.org/wiki/Image:Paradiso_Canto_31.jpg" rel="noreferrer noopener" target="_blank">similar engraving</a> by Gustave Doré of Dante's Heaven?
 - There is a definite 'blue' palate to your work - has this any significance?
 
 ## Matt Blessing {#Matt_Blessing}

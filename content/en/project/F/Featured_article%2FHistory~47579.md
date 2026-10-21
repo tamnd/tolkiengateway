@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured articles/Archive"
 ---
 
-Redirect to [Tolkien Gateway:Featured articles/Archive](/wiki/Tolkien_Gateway:Featured_articles/Archive).
+Redirect to [Tolkien Gateway:Featured articles/Archive](Featured_articles%252FArchive.md).

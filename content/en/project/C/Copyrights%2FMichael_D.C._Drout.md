@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Michael D.C. Drout"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Michael D.C. Drout</span>"
 page_id: 48571
 namespace: 4
 revision_id: 259888
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Drout, Michael D.C."
 ---
 
-- Permission granted by copyright holder [Michael D.C. Drout](/wiki/Michael_D.C._Drout) to use the file [Michael D.C. Drout.png](/wiki/File:Michael_D.C._Drout.png "File:Michael D.C. Drout.png") on Tolkien Gateway.
+- Permission granted by copyright holder [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md) to use the file [Michael D.C. Drout.png](../../file/M/Michael_D.C._Drout.png.md) on Tolkien Gateway.
 - Date: 3 December 2014.
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tûr"
 ---
 
-Redirect to [Tûr](/wiki/Tûr).
+Redirect to [Tûr](Tûr.md).

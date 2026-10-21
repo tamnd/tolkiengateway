@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Gateway to Sindarin"
 ---
 
-Redirect to [A Gateway to Sindarin](/wiki/A_Gateway_to_Sindarin).
+Redirect to [A Gateway to Sindarin](../A/A_Gateway_to_Sindarin.md).

@@ -11,4 +11,4 @@ redirect_target: "Westron"
 redirect_fragment: "Etymology and names"
 ---
 
-Redirect to [Westron](/wiki/Westron#Etymology_and_names).
+Redirect to [Westron](../W/Westron.md#Etymology_and_names).

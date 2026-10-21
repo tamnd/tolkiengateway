@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Yvan Strelzyk"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Yvan Strelzyk</span>"
 page_id: 40616
 namespace: 4
 revision_id: 206121
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Strelzyk, Yvan"
 ---
 
-- Yvan Strelzyk has kindly granted his permission to use [his photographs of a signed book](/wiki/Category:Images_by_Yvan_Strelzyk "Category:Images by Yvan Strelzyk") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Yvan Strelzyk has kindly granted his permission to use [his photographs of a signed book](../../category/I/Images_by_Yvan_Strelzyk.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 19 July 2012
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

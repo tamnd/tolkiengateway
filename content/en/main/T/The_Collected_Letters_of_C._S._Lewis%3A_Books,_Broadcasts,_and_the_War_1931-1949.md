@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949"
 ---
 
-Redirect to [The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949](/wiki/The_Collected_Letters_of_C.S._Lewis:_Books,_Broadcasts,_and_the_War_1931-1949).
+Redirect to [The Collected Letters of C.S. Lewis: Books, Broadcasts, and the War 1931-1949](The_Collected_Letters_of_C.S._Lewis%253A_Books,_Broadcasts,_and_the_War_1931-1949.md).

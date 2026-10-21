@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Terry Kevin Amthor"
 ---
 
-Redirect to [Terry Kevin Amthor](/wiki/Terry_Kevin_Amthor).
+Redirect to [Terry Kevin Amthor](Terry_Kevin_Amthor.md).

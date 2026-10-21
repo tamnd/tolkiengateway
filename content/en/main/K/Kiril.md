@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ciril"
 ---
 
-Redirect to [Ciril](/wiki/Ciril).
+Redirect to [Ciril](../C/Ciril.md).

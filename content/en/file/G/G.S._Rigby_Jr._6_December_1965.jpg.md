@@ -1,6 +1,5 @@
 ---
 title: "File:G.S. Rigby Jr. 6 December 1965.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">G.S. Rigby Jr. 6 December 1965.jpg</span>"
 page_id: 43755
 namespace: 6
 revision_id: 230506

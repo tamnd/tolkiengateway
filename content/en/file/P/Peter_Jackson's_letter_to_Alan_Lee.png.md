@@ -1,6 +1,5 @@
 ---
 title: "File:Peter Jackson's letter to Alan Lee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Peter Jackson&#039;s letter to Alan Lee.png</span>"
 page_id: 72668
 namespace: 6
 revision_id: 431121
@@ -24,7 +23,7 @@ file:
 
 ## Summary {#Summary}
 
-[Peter Jackson](/wiki/Peter_Jackson)'s letter to [Alan Lee](/wiki/Alan_Lee), asking him to work as a concept artist on [*The Lord of the Rings* film trilogy](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")
+[Peter Jackson](../../main/P/Peter_Jackson.md)'s letter to [Alan Lee](../../main/A/Alan_Lee.md), asking him to work as a concept artist on [*The Lord of the Rings* film trilogy](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)
 
 ## Licensing {#Licensing}
 

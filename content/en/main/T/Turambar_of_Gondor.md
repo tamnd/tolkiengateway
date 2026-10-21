@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turambar (King of Gondor)"
 ---
 
-Redirect to [Turambar (King of Gondor)](/wiki/Turambar_(King_of_Gondor)).
+Redirect to [Turambar (King of Gondor)](<Turambar_(King_of_Gondor).md>).

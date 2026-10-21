@@ -1,6 +1,5 @@
 ---
 title: "Interviews/Matt Blessing (4-17-07)"
-display_title: "<span class=\"mw-page-title-main\">Interviews/Matt Blessing (4-17-07)</span>"
 page_id: 18610
 namespace: 0
 revision_id: 377771
@@ -13,7 +12,7 @@ categories:
   - "Interviews"
 ---
 
-The below article is of a chat session with [Matt Blessing](/wiki/Matt_Blessing) on [April 17th](/wiki/17_April "17 April"), [2007](/wiki/2007) during [The Children of Húrin Release Party](/wiki/The_Children_of_H%C3%BArin_Release_Party). The content should be preserved and not altered save for aesthetic reasons.
+The below article is of a chat session with [Matt Blessing](../M/Matt_Blessing.md) on [April 17th](../_/17_April.md), [2007](../_/2007.md) during [The Children of Húrin Release Party](../T/The_Children_of_Húrin_Release_Party.md). The content should be preserved and not altered save for aesthetic reasons.
 
 <br>
 

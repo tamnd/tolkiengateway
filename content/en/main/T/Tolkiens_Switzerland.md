@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Switzerland: A Biography of One Special Summer"
 ---
 
-Redirect to [Tolkien's Switzerland: A Biography of One Special Summer](/wiki/Tolkien's_Switzerland:_A_Biography_of_One_Special_Summer).
+Redirect to [Tolkien's Switzerland: A Biography of One Special Summer](Tolkien's_Switzerland%253A_A_Biography_of_One_Special_Summer.md).

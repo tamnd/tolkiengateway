@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Derrick Parnum"
 ---
 
-Redirect to [Letter to Derrick Parnum](/wiki/Letter_to_Derrick_Parnum).
+Redirect to [Letter to Derrick Parnum](../L/Letter_to_Derrick_Parnum.md).

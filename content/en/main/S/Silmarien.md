@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silmariën"
 ---
 
-Redirect to [Silmariën](/wiki/Silmariën).
+Redirect to [Silmariën](Silmariën.md).

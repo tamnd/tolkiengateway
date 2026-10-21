@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Eldamar and the Princes of the Eldalië"
 ---
 
-Redirect to [Of Eldamar and the Princes of the Eldalië](/wiki/Of_Eldamar_and_the_Princes_of_the_Eldalië).
+Redirect to [Of Eldamar and the Princes of the Eldalië](Of_Eldamar_and_the_Princes_of_the_Eldalië.md).

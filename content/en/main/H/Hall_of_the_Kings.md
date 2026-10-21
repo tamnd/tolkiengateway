@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tower Hall"
 ---
 
-Redirect to [Tower Hall](/wiki/Tower_Hall).
+Redirect to [Tower Hall](../T/Tower_Hall.md).

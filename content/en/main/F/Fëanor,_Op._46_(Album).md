@@ -1,6 +1,5 @@
 ---
 title: "Fëanor, Op. 46 (Album)"
-display_title: "<span class=\"mw-page-title-main\">Fëanor, Op. 46 (Album)</span>"
 page_id: 65188
 namespace: 0
 revision_id: 426182
@@ -15,9 +14,9 @@ images:
   - "Feanor_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Feanor_Cover.png"><img src="/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, /w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>CD Artwork by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>CD Artwork by permission of Ted Nasmith</figcaption></figure>
 
-Complete Demo Recording of composer Paul Corfield Godfrey's operatic work [Fëanor, Op. 46 (Opera)](</wiki/F%C3%ABanor,_Op._46_(Opera)>) from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2022.
+Complete Demo Recording of composer Paul Corfield Godfrey's operatic work [Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>) from his cycle *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* recorded by Volante Opera Productions and released by Prima Facie on CD and digital download in 2022.
 
 <br> **Cast:**
 

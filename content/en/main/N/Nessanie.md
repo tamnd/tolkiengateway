@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nessanië"
 ---
 
-Redirect to [Nessanië](/wiki/Nessanië).
+Redirect to [Nessanië](Nessanië.md).

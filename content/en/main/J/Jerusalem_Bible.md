@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Jerusalem Bible"
 ---
 
-Redirect to [The Jerusalem Bible](/wiki/The_Jerusalem_Bible).
+Redirect to [The Jerusalem Bible](../T/The_Jerusalem_Bible.md).

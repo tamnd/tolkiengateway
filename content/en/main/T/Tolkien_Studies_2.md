@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Studies: Volume 2"
 ---
 
-Redirect to [Tolkien Studies: Volume 2](/wiki/Tolkien_Studies:_Volume_2).
+Redirect to [Tolkien Studies: Volume 2](Tolkien_Studies%253A_Volume_2.md).

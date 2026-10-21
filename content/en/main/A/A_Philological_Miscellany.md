@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Philological Miscellany Presented to Eilert Ekwall"
 ---
 
-Redirect to [A Philological Miscellany Presented to Eilert Ekwall](/wiki/A_Philological_Miscellany_Presented_to_Eilert_Ekwall).
+Redirect to [A Philological Miscellany Presented to Eilert Ekwall](A_Philological_Miscellany_Presented_to_Eilert_Ekwall.md).

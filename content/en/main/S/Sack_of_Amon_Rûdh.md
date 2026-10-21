@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sack of Bar-en-Danwedh"
 ---
 
-Redirect to [Sack of Bar-en-Danwedh](/wiki/Sack_of_Bar-en-Danwedh).
+Redirect to [Sack of Bar-en-Danwedh](Sack_of_Bar-en-Danwedh.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grey Mountains"
 ---
 
-Redirect to [Grey Mountains](/wiki/Grey_Mountains).
+Redirect to [Grey Mountains](../G/Grey_Mountains.md).

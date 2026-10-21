@@ -1,6 +1,5 @@
 ---
 title: "File:Ainulindalë (band).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Ainulindalë (band).jpg</span>"
 page_id: 75132
 namespace: 6
 revision_id: 442577
@@ -43,8 +42,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2026-09-18 16:50:41</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Ainulindale</td>
@@ -53,7 +50,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://ainulindale.bandcamp.com/album/covers-e-p" rel="noreferrer noopener" target="_blank">https://ainulindale.bandcamp.com/album/covers-e-p</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

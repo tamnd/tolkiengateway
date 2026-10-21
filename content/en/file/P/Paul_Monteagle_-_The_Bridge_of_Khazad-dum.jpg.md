@@ -1,6 +1,5 @@
 ---
 title: "File:Paul Monteagle - The Bridge of Khazad-dum.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paul Monteagle - The Bridge of Khazad-dum.jpg</span>"
 page_id: 13882
 namespace: 6
 revision_id: 208762
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Paul Monteagle</li>
 <li><b>Website:</b> <a class="external text" href="http://www.paulmonteagle.com/" rel="noreferrer noopener" target="_blank">Paul Monteagle&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Paul_Monteagle" title="Tolkien Gateway:Copyrights/Paul Monteagle">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPaul_Monteagle.md" title="Tolkien Gateway:Copyrights/Paul Monteagle">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,6 +1,5 @@
 ---
 title: "File:Charles Edwards.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Charles Edwards.jpg</span>"
 page_id: 63718
 namespace: 6
 revision_id: 434548
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Jim Ruymen</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.shutterstock.com/editorial/image-editorial/series-regular-charles-edwards-attends-premiere-amazon-13095876bf" rel="noreferrer noopener" target="_blank">Shutterstock</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

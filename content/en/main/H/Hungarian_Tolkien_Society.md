@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Magyar Tolkien Társaság"
 ---
 
-Redirect to [Magyar Tolkien Társaság](/wiki/Magyar_Tolkien_Társaság).
+Redirect to [Magyar Tolkien Társaság](../M/Magyar_Tolkien_Társaság.md).

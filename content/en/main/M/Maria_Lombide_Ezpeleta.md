@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "María Lombide Ezpeleta"
 ---
 
-Redirect to [María Lombide Ezpeleta](/wiki/María_Lombide_Ezpeleta).
+Redirect to [María Lombide Ezpeleta](María_Lombide_Ezpeleta.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Ray Minn"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Ray Minn</span>"
 page_id: 68366
 namespace: 14
 revision_id: 402465

@@ -11,4 +11,4 @@ redirect_target: "Eärendil"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Redirect to [Eärendil](/wiki/Eärendil#Other_versions_of_the_legendarium).
+Redirect to [Eärendil](Eärendil.md#Other_versions_of_the_legendarium).

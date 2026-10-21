@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Francesco Simone Savi"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Francesco Simone Savi</span>"
 page_id: 66091
 namespace: 4
 revision_id: 380935
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Simone Savi, Francesco"
 ---
 
-- Francesco Simone Savi has kindly granted his permission to use [their artwork](/wiki/Category:Images_by_Francesco_Simone_Savi "Category:Images by Francesco Simone Savi") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Francesco Simone Savi has kindly granted his permission to use [their artwork](../../category/I/Images_by_Francesco_Simone_Savi.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 2 October 2023
-- [Source](/wiki/Forums:Adding_art_to_the_images "Forums:Adding art to the images")
+- [Source](https://tolkiengateway.net/wiki/Forums:Adding_art_to_the_images)

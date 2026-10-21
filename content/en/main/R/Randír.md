@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Randir"
 ---
 
-Redirect to [Randir](/wiki/Randir).
+Redirect to [Randir](Randir.md).

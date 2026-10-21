@@ -1,6 +1,5 @@
 ---
 title: "Category:Regions of Gondor"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Regions of Gondor</span>"
 page_id: 69886
 namespace: 14
 revision_id: 415257

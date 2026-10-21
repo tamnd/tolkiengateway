@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle English 'Losenger'"
 ---
 
-Redirect to [Middle English 'Losenger'](/wiki/Middle_English_'Losenger').
+Redirect to [Middle English 'Losenger'](Middle_English_'Losenger'.md).

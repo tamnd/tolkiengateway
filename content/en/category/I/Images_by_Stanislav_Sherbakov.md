@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Stanislav Sherbakov"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Stanislav Sherbakov</span>"
 page_id: 74776
 namespace: 14
 revision_id: 439755
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Sherbakov, Stanislav"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Stanislav_Sherbakov&amp;action=edit&amp;redlink=1" title="Stanislav Sherbakov (page does not exist)">Stanislav Sherbakov</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stanislav_Sherbakov&amp;action=edit&amp;redlink=1" title="Stanislav Sherbakov (page does not exist)">Stanislav Sherbakov</a></b>.

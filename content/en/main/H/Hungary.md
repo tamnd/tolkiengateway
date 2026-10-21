@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Hungary"
 ---
 
-Redirect to [Category:Hungary](/wiki/Category:Hungary).
+Redirect to [Category:Hungary](../../category/H/Hungary.md).

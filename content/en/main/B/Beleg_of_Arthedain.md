@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleg (King of Arthedain)"
 ---
 
-Redirect to [Beleg (King of Arthedain)](/wiki/Beleg_(King_of_Arthedain)).
+Redirect to [Beleg (King of Arthedain)](<Beleg_(King_of_Arthedain).md>).

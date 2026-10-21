@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of battering rams"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of battering rams</span>"
 page_id: 39861
 namespace: 14
 revision_id: 199924

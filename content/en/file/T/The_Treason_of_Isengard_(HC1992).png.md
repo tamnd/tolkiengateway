@@ -1,6 +1,5 @@
 ---
 title: "File:The Treason of Isengard (HC1992).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Treason of Isengard (HC1992).png</span>"
 page_id: 34716
 namespace: 6
 revision_id: 350839

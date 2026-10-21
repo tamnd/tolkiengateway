@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marigold Gamgee"
 ---
 
-Redirect to [Marigold Gamgee](/wiki/Marigold_Gamgee).
+Redirect to [Marigold Gamgee](Marigold_Gamgee.md).

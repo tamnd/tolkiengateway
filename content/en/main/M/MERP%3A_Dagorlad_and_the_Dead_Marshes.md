@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagorlad and the Dead Marshes"
 ---
 
-Redirect to [Dagorlad and the Dead Marshes](/wiki/Dagorlad_and_the_Dead_Marshes).
+Redirect to [Dagorlad and the Dead Marshes](../D/Dagorlad_and_the_Dead_Marshes.md).

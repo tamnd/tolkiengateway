@@ -13,8 +13,8 @@ categories:
   - "Tolkien Gateway"
 ---
 
-The **Tolkien Gateway iOS App** is an upcoming development project to bring Tolkien Gateway to iPhones. If you're interested in helping with the development, just let us know on <a class="new" href="/w/index.php?title=Tolkien_Gateway_talk:IOS_App&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:IOS App (page does not exist)">this talk page</a>.
+The **Tolkien Gateway iOS App** is an upcoming development project to bring Tolkien Gateway to iPhones. If you're interested in helping with the development, just let us know on <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway_talk:IOS_App&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:IOS App (page does not exist)">this talk page</a>.
 
 ## See also {#See_also}
 
-- [Android App](/wiki/Tolkien_Gateway:Android_App "Tolkien Gateway:Android App")
+- [Android App](../A/Android_App.md)

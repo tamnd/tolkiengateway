@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grishnákh"
 ---
 
-Redirect to [Grishnákh](/wiki/Grishnákh).
+Redirect to [Grishnákh](Grishnákh.md).

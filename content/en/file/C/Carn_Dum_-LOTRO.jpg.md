@@ -1,6 +1,5 @@
 ---
 title: "File:Carn Dum -LOTRO.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Carn Dum -LOTRO.jpg</span>"
 page_id: 22818
 namespace: 6
 revision_id: 169535

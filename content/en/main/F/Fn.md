@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Father-name"
 ---
 
-Redirect to [Father-name](/wiki/Father-name).
+Redirect to [Father-name](Father-name.md).

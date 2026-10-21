@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Quenya names"
 ---
 
-Redirect to [Category:Quenya names](/wiki/Category:Quenya_names).
+Redirect to [Category:Quenya names](../../category/Q/Quenya_names.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gandalf"
 ---
 
-Redirect to [Gandalf](/wiki/Gandalf).
+Redirect to [Gandalf](../G/Gandalf.md).

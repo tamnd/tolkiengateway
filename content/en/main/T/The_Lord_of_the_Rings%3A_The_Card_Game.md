@@ -1,6 +1,5 @@
 ---
 title: "The Lord of the Rings: The Card Game"
-display_title: "<span class=\"mw-page-title-main\">The Lord of the Rings: The Card Game</span>"
 page_id: 28035
 namespace: 0
 revision_id: 432139
@@ -38,30 +37,28 @@ infobox:
     value: "14+"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp"><img src="/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/320px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png" decoding="async" loading="lazy" width="320" height="371" class="mw-file-element" srcset="/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/480px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 1.5x, /w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/640px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 2x" data-file-width="776" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Living card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Nate French</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="/wiki/Fantasy_Flight_Games" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="/wiki/20_April" title="20 April">20 April</a> <a href="/wiki/2011" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">1 - 4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">14+</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/320px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png" decoding="async" loading="lazy" width="320" height="371" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/480px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp/640px-The_Lord_of_the_Rings_-_The_Card_Game_-_Revised.webp.png 2x" data-file-width="776" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Living card game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Card Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Nate French</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/20_April.md" title="20 April">20 April</a> <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">1 - 4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">14+</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-<i><b>The Lord of the Rings: The Card Game</b></i> is a card-based game released by [Fantasy Flight Games](/wiki/Fantasy_Flight_Games). The game is set during the seventeen year period between Bilbo's 111th birthday, and Frodo's departure from Bag End. *The Lord of the Rings: The Card Game* was first announced on [3 August](/wiki/3_August) [2010](/wiki/2010),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and was released on [20 April](/wiki/20_April) [2011](/wiki/2011).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>The Lord of the Rings: The Card Game</b></i> is a card-based game released by [Fantasy Flight Games](../F/Fantasy_Flight_Games.md). The game is set during the seventeen year period between Bilbo's 111th birthday, and Frodo's departure from Bag End. *The Lord of the Rings: The Card Game* was first announced on [3 August](../_/3_August.md) [2010](../_/2010.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and was released on [20 April](../_/20_April.md) [2011](../_/2011.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 It is a <a class="external text" href="http://www.fantasyflightgames.com/edge_npm.asp?eidm=14" rel="noreferrer noopener" target="_blank">Living Card Game</a>, which differs from collectible card games in that each expansion is released in fixed packs with no randomness. There are, therefore, no "rare" or "common" cards which creates an even playing pool and a system that is easy to collect and fully playable with only the core set and any number of expansions.
 
-A reimagined digital adaptation was released in [2018](/wiki/2018) as *[The Lord of the Rings: Adventure Card Game](/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game)*.
+A reimagined digital adaptation was released in [2018](../_/2018.md) as *[The Lord of the Rings: Adventure Card Game](The_Lord_of_the_Rings%253A_Adventure_Card_Game.md)*.
 
-In [2022](/wiki/2022), a Revised Core Set was released, fully compatible with all previous products. It featured slightly updated rules, new box art and new card types not originally included to be used for Campaign Mode.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. In addition, a portion of the out-of-print content from over the previous ten years was repackaged and re-released with the new product branding. Fantasy Flight pledged to keep the new and repackaged products in print for the forseeable future, but ceased any development of new content.
+In [2022](../_/2022.md), a Revised Core Set was released, fully compatible with all previous products. It featured slightly updated rules, new box art and new card types not originally included to be used for Campaign Mode.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. In addition, a portion of the out-of-print content from over the previous ten years was repackaged and re-released with the new product branding. Fantasy Flight pledged to keep the new and repackaged products in print for the forseeable future, but ceased any development of new content.
 
 ## Gameplay {#Gameplay}
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png"><img src="/w/images/c/c6/The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png" decoding="async" loading="lazy" width="200" height="279" class="mw-file-element" data-file-width="200" data-file-height="279"/></a><figcaption>Sample Player Card</figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png.md"><img src="https://tolkiengateway.net/w/images/c/c6/The_Lord_of_the_Rings_-_The_Card_Game_-_Aragorn.png" decoding="async" loading="lazy" width="200" height="279" class="mw-file-element" data-file-width="200" data-file-height="279"/></a><figcaption>Sample Player Card</figcaption></figure>
 
 The Lord of the Rings: The Card Game is a cooperative Living Card Game. The players (1-4) work together to defeat the scenario and complete each quest. To win the game, the players must complete all of a scenario's quest cards. If all of a player's heroes fall in battle, or if a player's "threat level" reaches 50, the player is eliminated; if all players are eliminated, the scenario is failed and the players lose.
 
 To play the game, each player assembles their own deck consisting of three heroes (which start the game in play) and at minimum fifty other cards (which are shuffled and drawn from each turn). The player cards are represented through four "spheres of influence", which relate to various spheres of influence seen in the source material and each have a different mechanical theme. The four spheres are:
 
-- <span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Tactics.png"><img src="/w/images/thumb/0/0e/Tactics.png/15px-Tactics.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="/w/images/thumb/0/0e/Tactics.png/23px-Tactics.png 1.5x, /w/images/thumb/0/0e/Tactics.png/30px-Tactics.png 2x" data-file-width="200" data-file-height="200"/></a></span> Tactics (combat, direct damage)
-- <span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Leadership.png"><img src="/w/images/thumb/4/44/Leadership.png/15px-Leadership.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="/w/images/thumb/4/44/Leadership.png/23px-Leadership.png 1.5x, /w/images/thumb/4/44/Leadership.png/30px-Leadership.png 2x" data-file-width="200" data-file-height="200"/></a></span> Leadership (resource management, global effects)
-- <span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Spirit.png"><img src="/w/images/thumb/9/97/Spirit.png/15px-Spirit.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="/w/images/thumb/9/97/Spirit.png/23px-Spirit.png 1.5x, /w/images/thumb/9/97/Spirit.png/30px-Spirit.png 2x" data-file-width="200" data-file-height="200"/></a></span> Spirit (willpower, cancellation effects)
-- <span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Lore.png"><img src="/w/images/thumb/f/fc/Lore.png/15px-Lore.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="/w/images/thumb/f/fc/Lore.png/23px-Lore.png 1.5x, /w/images/thumb/f/fc/Lore.png/30px-Lore.png 2x" data-file-width="200" data-file-height="200"/></a></span> Lore (card draw effects, encounter deck manipulation)
+- <span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tactics.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0e/Tactics.png/15px-Tactics.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0e/Tactics.png/23px-Tactics.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0e/Tactics.png/30px-Tactics.png 2x" data-file-width="200" data-file-height="200"/></a></span> Tactics (combat, direct damage)
+- <span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Leadership.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/44/Leadership.png/15px-Leadership.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/Leadership.png/23px-Leadership.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/Leadership.png/30px-Leadership.png 2x" data-file-width="200" data-file-height="200"/></a></span> Leadership (resource management, global effects)
+- <span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Spirit.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Spirit.png/15px-Spirit.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Spirit.png/23px-Spirit.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Spirit.png/30px-Spirit.png 2x" data-file-width="200" data-file-height="200"/></a></span> Spirit (willpower, cancellation effects)
+- <span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lore.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fc/Lore.png/15px-Lore.png" decoding="async" loading="lazy" width="15" height="15" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fc/Lore.png/23px-Lore.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fc/Lore.png/30px-Lore.png 2x" data-file-width="200" data-file-height="200"/></a></span> Lore (card draw effects, encounter deck manipulation)
 
 Decks can be constructed using any combination of spheres, but in order to play a card, the player must control a hero whose sphere of influence matches the card being played.
 
@@ -69,7 +66,7 @@ Once decks are constructed, the players choose a quest scenario and begin setup 
 
 The game is then played in rounds consisting of seven phases, some containing different steps.
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Lotr-lcg-layout-final.png"><img src="/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/300px-Lotr-lcg-layout-final.png" decoding="async" loading="lazy" width="300" height="141" class="mw-file-element" srcset="/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/450px-Lotr-lcg-layout-final.png 1.5x, /w/images/a/ad/Lotr-lcg-layout-final.png 2x" data-file-width="480" data-file-height="225"/></a><figcaption>sample play area from official site</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lotr-lcg-layout-final.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/300px-Lotr-lcg-layout-final.png" decoding="async" loading="lazy" width="300" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/Lotr-lcg-layout-final.png/450px-Lotr-lcg-layout-final.png 1.5x, https://tolkiengateway.net/w/images/a/ad/Lotr-lcg-layout-final.png 2x" data-file-width="480" data-file-height="225"/></a><figcaption>sample play area from official site</figcaption></figure>
 
 1. Resource Phase - players draw one card and each hero gains one resource
 2. Planning Phase - starting with the first player, each player may play Events, Attachments, or Allies from his hand
@@ -89,7 +86,7 @@ In addition to the Core box, multiple different types of expansion content was r
 
 #### Original {#Original}
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The-black-riders.jpg"><img src="/w/images/thumb/0/00/The-black-riders.jpg/200px-The-black-riders.jpg" decoding="async" loading="lazy" width="200" height="232" class="mw-file-element" srcset="/w/images/thumb/0/00/The-black-riders.jpg/300px-The-black-riders.jpg 1.5x, /w/images/thumb/0/00/The-black-riders.jpg/400px-The-black-riders.jpg 2x" data-file-width="1040" data-file-height="1208"/></a><figcaption>Original Black Riders &#34;Saga Expansion&#34;</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The-black-riders.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/200px-The-black-riders.jpg" decoding="async" loading="lazy" width="200" height="232" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/300px-The-black-riders.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/The-black-riders.jpg/400px-The-black-riders.jpg 2x" data-file-width="1040" data-file-height="1208"/></a><figcaption>Original Black Riders &#34;Saga Expansion&#34;</figcaption></figure>
 
 The game features "Saga Expansions", which follow the events of the books directly, as opposed to the original, tangential quests set before The Lord of the Rings. Each expansion contains three scenarios following a different segment of Tolkien's works. The gameplay of these expansions differs from the usual cycles in that there is a "campaign mode" of sorts in each. For the Hobbit, this gives access to "treasure" cards if certain objectives are met in particular quests. The campaign mode for the Lord of the Rings saga expansions is more involved, and players earn access to both "boons" and "burdens." Furthermore, if a hero dies during the campaign, the players are not allowed to use that hero in future scenarios.
 
@@ -106,7 +103,7 @@ The first two cover the events of The Hobbit. After that, the Lord of the Rings 
 
 #### Repackaged {#Repackaged}
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:LotR_LCG_FotR_Saga_Expansion.png"><img src="/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/200px-LotR_LCG_FotR_Saga_Expansion.png" decoding="async" loading="lazy" width="200" height="290" class="mw-file-element" srcset="/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/300px-LotR_LCG_FotR_Saga_Expansion.png 1.5x, /w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/400px-LotR_LCG_FotR_Saga_Expansion.png 2x" data-file-width="483" data-file-height="700"/></a><figcaption>The repackaged Fellowship of the Ring Saga Expansion</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_FotR_Saga_Expansion.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/200px-LotR_LCG_FotR_Saga_Expansion.png" decoding="async" loading="lazy" width="200" height="290" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/300px-LotR_LCG_FotR_Saga_Expansion.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9a/LotR_LCG_FotR_Saga_Expansion.png/400px-LotR_LCG_FotR_Saga_Expansion.png 2x" data-file-width="483" data-file-height="700"/></a><figcaption>The repackaged Fellowship of the Ring Saga Expansion</figcaption></figure>
 
 As part of the 2022 Revised Core and brand refresh, Fantasy Flight repackaged and reprinted the six Saga Expansions for the Lord of the Rings content into three new Saga Expansions, each consolidated into a new product matching the content for that volume of the novel.
 
@@ -121,7 +118,6 @@ As part of the 2022 Revised Core and brand refresh, Fantasy Flight repackaged an
 From the game's release in 2011 through 2020, regular "cycles" of expansion product would periodically be released, normally themed around a certain story or region of Middle-earth. It would start with the release of a "Deluxe Expansion" containing the first few adventures of that cycle, and then subsequently eight individual "Adventure Packs" would release afterwards, staggered by a month or two, which would contain the rest of the content. Each product would contain a combination of player cards and campaign cards. The Deluxe Box for each cycle contained components required to play any of the added content in the related Adventure Packs.
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Cycle Name</th>
 <th>First Released</th>
@@ -129,63 +125,63 @@ From the game's release in 2011 through 2020, regular "cycles" of expansion prod
 <th>Description
 </th></tr>
 <tr>
-<td><b>Shadows of <a href="/wiki/Mirkwood" title="Mirkwood">Mirkwood</a></b></td>
+<td><b>Shadows of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a></b></td>
 <td>Apr - Nov 2011</td>
 <td>Core Box</td>
-<td>This continued the story from the Core Set, taking the players to the <a href="/wiki/Carrock" title="Carrock">Carrock</a>, hunting for <a href="/wiki/Gollum" title="Gollum">Gollum</a>, visiting <a href="/wiki/Rhosgobel" title="Rhosgobel">Rhosgobel</a>, <a href="/wiki/Emyn_Muil" title="Emyn Muil">Emyn Muil</a> and <a href="/wiki/The_Dead_Marshes" title="The Dead Marshes">The Dead Marshes</a>.
+<td>This continued the story from the Core Set, taking the players to the <a href="../C/Carrock.md" title="Carrock">Carrock</a>, hunting for <a href="../G/Gollum.md" title="Gollum">Gollum</a>, visiting <a href="../R/Rhosgobel.md" title="Rhosgobel">Rhosgobel</a>, <a href="../E/Emyn_Muil.md" title="Emyn Muil">Emyn Muil</a> and <a href="The_Dead_Marshes.md" title="The Dead Marshes">The Dead Marshes</a>.
 </td></tr>
 <tr>
 <td><b>Dwarrowdelf</b></td>
 <td>Jan - Aug 2012</td>
-<td><i><a class="mw-redirect" href="/wiki/Khazad-dum" title="Khazad-dum">Khazad-dum</a></i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
-<td>This cycle featured <a href="/wiki/Moria" title="Moria">Moria</a>, the <a href="/wiki/Redhorn_Gate" title="Redhorn Gate">Redhorn Gate</a>, The <a href="/wiki/Watcher_in_the_Water" title="Watcher in the Water">Watcher in the Water</a> and a journey to <a href="/wiki/Rivendell" title="Rivendell">Rivendell</a>
+<td><i><a class="mw-redirect" href="../K/Khazad-dum.md" title="Khazad-dum">Khazad-dum</a></i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+<td>This cycle featured <a href="../M/Moria.md" title="Moria">Moria</a>, the <a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Redhorn Gate</a>, The <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a> and a journey to <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>
 </td></tr>
 <tr>
 <td><b>Against the Shadow</b></td>
 <td>Nov 2012 - Nov 2013</td>
-<td><i>Heirs of <a class="mw-redirect" href="/wiki/Numenor" title="Numenor">Numenor</a></i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
-<td>Featuring the <a href="/wiki/Dr%C3%BAadan_Forest" title="Drúadan Forest">Drúadan Forest</a>, <a href="/wiki/Amon_D%C3%AEn" title="Amon Dîn">Amon Dîn</a>, <a href="/wiki/Osgiliath" title="Osgiliath">Osgiliath</a> and the <a href="/wiki/Morgul_Vale" title="Morgul Vale">Morgul Vale</a>
+<td><i>Heirs of <a class="mw-redirect" href="../N/Numenor.md" title="Numenor">Numenor</a></i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+<td>Featuring the <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a>, <a href="../A/Amon_Dîn.md" title="Amon Dîn">Amon Dîn</a>, <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> and the <a href="../M/Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>
 </td></tr>
 <tr>
 <td><b>The Ring-maker</b></td>
 <td>Feb - Dec 2014</td>
-<td><i>The Voice of <a href="/wiki/Isengard" title="Isengard">Isengard</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></i></td>
-<td>Featured adventures in and around <a href="/wiki/Saruman" title="Saruman">Saruman</a>&#39;s tower of <a href="/wiki/Orthanc" title="Orthanc">Orthanc</a>.
+<td><i>The Voice of <a href="../I/Isengard.md" title="Isengard">Isengard</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></i></td>
+<td>Featured adventures in and around <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s tower of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a>.
 </td></tr>
 <tr>
 <td><b>Angmar Awakened</b></td>
 <td>Apr - Dec 2015</td>
 <td><i>The Lost Realm<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></i></td>
-<td>Featured <a href="/wiki/Mount_Gram" title="Mount Gram">Mount Gram</a>, and the <a href="/wiki/Ettenmoors" title="Ettenmoors">Ettenmoors</a> among others.
+<td>Featured <a href="../M/Mount_Gram.md" title="Mount Gram">Mount Gram</a>, and the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> among others.
 </td></tr>
 <tr>
 <td><b>Dream-chaser</b></td>
 <td>Feb - Oct 2016</td>
-<td><i><a class="mw-redirect" href="/wiki/The_Grey_Havens" title="The Grey Havens">The Grey Havens</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></i></td>
+<td><i><a class="mw-redirect" href="The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></i></td>
 <td>Took adventurers on an oceanic journey aboard the ship <i>Dream-chaser</i>.
 </td></tr>
 <tr>
 <td><b>Haradrim</b></td>
 <td>Nov 2016 - Feb 2018</td>
-<td><i>The Sands of <a href="/wiki/Harad" title="Harad">Harad</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></i></td>
+<td><i>The Sands of <a href="../H/Harad.md" title="Harad">Harad</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></i></td>
 <td>As the name implies it explored the previously mysterious southern lands of Middle-earth.
 </td></tr>
 <tr>
 <td><b>Ered Mithrin</b></td>
 <td>Jul 2018 - Jun 2019</td>
-<td><i>The Wilds of <a href="/wiki/Rhovanion" title="Rhovanion">Rhovanion</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></i></td>
-<td>Explored the <a class="mw-redirect" href="/wiki/Ered_Mithrin" title="Ered Mithrin">Ered Mithrin</a> region, including <a class="mw-redirect" href="/wiki/Mount_Gundabad" title="Mount Gundabad">Mount Gundabad</a>.
+<td><i>The Wilds of <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></i></td>
+<td>Explored the <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a> region, including <a class="mw-redirect" href="../M/Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a>.
 </td></tr>
 <tr>
 <td><b>Vengeance of Mordor</b></td>
 <td>Aug 2019 - Oct 2020</td>
 <td><i>A Shadow in the East<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></i></td>
-<td>Finally brought players to adventure in the shadowed lands of <a href="/wiki/Mordor" title="Mordor">Mordor</a>.
+<td>Finally brought players to adventure in the shadowed lands of <a href="../M/Mordor.md" title="Mordor">Mordor</a>.
 </td></tr></tbody></table>
 
 #### Repackaged {#Repackaged_2}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:LotR_LCG_Ered_Mithrin_Products.png"><img src="/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/300px-LotR_LCG_Ered_Mithrin_Products.png" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/450px-LotR_LCG_Ered_Mithrin_Products.png 1.5x, /w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/600px-LotR_LCG_Ered_Mithrin_Products.png 2x" data-file-width="700" data-file-height="500"/></a><figcaption>The Repackaged Ered Mithrin Cycle, both the &#34;Hero&#34; and &#34;Campaign&#34; Expansion products</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LotR_LCG_Ered_Mithrin_Products.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/300px-LotR_LCG_Ered_Mithrin_Products.png" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/450px-LotR_LCG_Ered_Mithrin_Products.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/LotR_LCG_Ered_Mithrin_Products.png/600px-LotR_LCG_Ered_Mithrin_Products.png 2x" data-file-width="700" data-file-height="500"/></a><figcaption>The Repackaged Ered Mithrin Cycle, both the &#34;Hero&#34; and &#34;Campaign&#34; Expansion products</figcaption></figure>
 
 As part of the product refresh in 2022, Fantasy Flight announced and subsequently re-released a subset of their Deluxe Expansion cycles, repackaging and reprinting all of the content from the cycle into a separate "Hero" and "Campaign" expansion, consolidating all of the content from the previous Deluxe Expansions and subsequent Adventure Packs. It was stated not all previous content would be repackaged in this way, and that these new products represented the "Greatest Hits" from the game's 10+ year history.
 
@@ -198,7 +194,6 @@ As part of the product refresh in 2022, Fantasy Flight announced and subsequentl
 Periodically, as special releases for the annual <a class="external text" href="http://www.gencon.com" rel="noreferrer noopener" target="_blank">GenCon</a> event and Fellowship in-store events, the designers would create standalone scenarios of varying difficulties. After their initial release at the events, some were then made available from Fantasy Flight Games via their print-on-demand system, however the publisher no longer offers this service and as such almost all of them are currently unavailable to purchase.
 
 <table class="wikitable" style="padding: 2px;">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th style="width:200px">Name</th>
 <th>Year</th>
@@ -207,22 +202,22 @@ Periodically, as special releases for the annual <a class="external text" href="
 <tr>
 <td><i>The Massing at Osgiliath</i></td>
 <td>2011</td>
-<td>In this scenario you are defending the city of <a href="/wiki/Osgiliath" title="Osgiliath">Osgiliath</a> from a massive horde of orcs an Easterlings attempting to take the city. The quest involves high numbers of enemies and effects that change depending on which side of the river <a href="/wiki/Anduin" title="Anduin">Anduin</a> you are on.
+<td>In this scenario you are defending the city of <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> from a massive horde of orcs an Easterlings attempting to take the city. The quest involves high numbers of enemies and effects that change depending on which side of the river <a href="../A/Anduin.md" title="Anduin">Anduin</a> you are on.
 </td></tr>
 <tr>
 <td><i>The Battle of Lake-town</i></td>
 <td>2012</td>
-<td>Largely considered the most difficult quest currently in the game, this scenario recreates the battle against <a href="/wiki/Smaug" title="Smaug">Smaug</a> at <a class="mw-redirect" href="/wiki/Esgaroth" title="Esgaroth">Esgaroth</a>. The players seek to defend the city and keep it from burning.
+<td>Largely considered the most difficult quest currently in the game, this scenario recreates the battle against <a href="../S/Smaug.md" title="Smaug">Smaug</a> at <a class="mw-redirect" href="../E/Esgaroth.md" title="Esgaroth">Esgaroth</a>. The players seek to defend the city and keep it from burning.
 </td></tr>
 <tr>
 <td><i>The Stone of Erech</i></td>
 <td>2013</td>
-<td>This scenario sees a young <a href="/wiki/Derufin" title="Derufin">Derufin</a> running off to investigate the <a href="/wiki/Stone_of_Erech" title="Stone of Erech">Stone of Erech</a> and the heroes must go and save him, encountering the Army of the Dead along the way. The quest features the &#34;spectral&#34; keyword, which changes how the players attack enemies, as well as a time mechanic, through which the night deepens and the wights grow more powerful.
+<td>This scenario sees a young <a href="../D/Derufin.md" title="Derufin">Derufin</a> running off to investigate the <a href="../S/Stone_of_Erech.md" title="Stone of Erech">Stone of Erech</a> and the heroes must go and save him, encountering the Army of the Dead along the way. The quest features the &#34;spectral&#34; keyword, which changes how the players attack enemies, as well as a time mechanic, through which the night deepens and the wights grow more powerful.
 </td></tr>
 <tr>
 <td><i>The Old Forest</i></td>
 <td>2014</td>
-<td>Released at GenCon 2014, this scenario departs from the usual quests because it is not a (very difficult) standalone quest, but an addition to Campaign Mode. The Black Riders box did not include the Old Forest or the <a href="/wiki/Barrow-downs" title="Barrow-downs">Barrow-downs</a> and this deck, along with a second released as part of the 2014 Fellowship Event, will cover those chapters of the book.
+<td>Released at GenCon 2014, this scenario departs from the usual quests because it is not a (very difficult) standalone quest, but an addition to Campaign Mode. The Black Riders box did not include the Old Forest or the <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a> and this deck, along with a second released as part of the 2014 Fellowship Event, will cover those chapters of the book.
 </td></tr>
 <tr>
 <td><i>Fog on the Barrow-downs</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td>
@@ -232,25 +227,25 @@ Periodically, as special releases for the annual <a class="external text" href="
 <tr>
 <td><i>The Ruins of Belegost</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
 <td>2015</td>
-<td>This scenario involves delving to what remains of <a href="/wiki/Belegost" title="Belegost">Belegost</a> in search of lost artifacts.  The ruins are filled with many perils, including a fire breathing dragon named Naurlhûg.
+<td>This scenario involves delving to what remains of <a href="../B/Belegost.md" title="Belegost">Belegost</a> in search of lost artifacts.  The ruins are filled with many perils, including a fire breathing dragon named Naurlhûg.
 </td></tr>
 <tr>
 <td><i>Murder at the Prancing Pony</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
 <td>2015</td>
 <td>
-<p>Originally released as the feature of the Fellowship Event 2015, this quest involves solving a murder mystery when <a href="/wiki/Barliman_Butterbur" title="Barliman Butterbur">Barliman Butterbur</a> finds a dead body at the <a class="mw-redirect" href="/wiki/Prancing_Pony" title="Prancing Pony">Prancing Pony</a>. 
+<p>Originally released as the feature of the Fellowship Event 2015, this quest involves solving a murder mystery when <a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> finds a dead body at the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>. 
 </p>
 </td></tr>
 <tr>
 <td><i>The Siege of Annúminas</i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td>
 <td>2016</td>
-<td>The scenario was the featured event of GenCon 2016 and the Fellowship Event 2016.  This scenario has the players attempting to save <a href="/wiki/Ann%C3%BAminas" title="Annúminas">Annúminas</a> against the assaulting forces of Angmar.  This scenario introduced &#34;epic multiplayer mode&#34; in which between three and twelve players play on three concurrent stages of the quest.  It was released to retail in 2017.
+<td>The scenario was the featured event of GenCon 2016 and the Fellowship Event 2016.  This scenario has the players attempting to save <a href="../A/Annúminas.md" title="Annúminas">Annúminas</a> against the assaulting forces of Angmar.  This scenario introduced &#34;epic multiplayer mode&#34; in which between three and twelve players play on three concurrent stages of the quest.  It was released to retail in 2017.
 </td></tr>
 <tr>
 <td><i>Assault on Dol Guldur</i> <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
 <td>2017</td>
 <td>
-<p>This scenario was the featured event of GenCon 2017 and the Fellowship Event 2017.  Like Siege of Annúminas, it also supports epic multiplayer mode.  In this scenario, the players take on the role the elves played in attacking <a href="/wiki/Dol_Guldur" title="Dol Guldur">Dol Guldur</a> to defeat the <a class="mw-redirect" href="/wiki/Necromancer" title="Necromancer">Necromancer</a>.  It was not made available to retailers.
+<p>This scenario was the featured event of GenCon 2017 and the Fellowship Event 2017.  Like Siege of Annúminas, it also supports epic multiplayer mode.  In this scenario, the players take on the role the elves played in attacking <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> to defeat the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.  It was not made available to retailers.
 </p>
 </td></tr>
 <tr>
@@ -293,13 +288,13 @@ The Core Set includes 216 cards that can be used to assemble a wide variety of d
 
 ## Legacy {#Legacy}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Lord_of_the_Rings-_The_Card_Game.png"><img src="/w/images/4/43/The_Lord_of_the_Rings-_The_Card_Game.png" decoding="async" loading="lazy" width="275" height="274" class="mw-file-element" data-file-width="275" data-file-height="274"/></a><figcaption>Original Core Box Art prior to 2022</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings-_The_Card_Game.png.md"><img src="https://tolkiengateway.net/w/images/4/43/The_Lord_of_the_Rings-_The_Card_Game.png" decoding="async" loading="lazy" width="275" height="274" class="mw-file-element" data-file-width="275" data-file-height="274"/></a><figcaption>Original Core Box Art prior to 2022</figcaption></figure>
 
 After Revising the Core Set in 2022 and subsequently releasing the Repackaged products through 2024, Fantasy Flight have indicated that the game is currently "complete". As such, no new content would be created but they intend to keep the Core Box, the Starter Decks and the repackaged products continually in print for the forseeable future.
 
 ## See also {#See_also}
 
-- [Images from *The Lord of the Rings: The Card Game*](/wiki/Category:Images_from_The_Lord_of_the_Rings:_The_Card_Game "Category:Images from The Lord of the Rings: The Card Game")
+- [Images from *The Lord of the Rings: The Card Game*](../../category/I/Images_from_The_Lord_of_the_Rings%253A_The_Card_Game.md)
 
 ## External links {#External_links}
 
@@ -323,7 +318,7 @@ After Revising the Core Set in 2022 and subsequently releasing the Repackaged pr
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.middleearthnews.net/2011/04/fantasy-flight-games-releases-lord-of.html" rel="noreferrer noopener" target="_blank">Fantasy Flight Games releases The Lord of the Rings Card Game</a> at <a class="external text" href="http://www.middleearthnews.net/" rel="noreferrer noopener" target="_blank">Middle-earth News.net</a> (accessed 15 May 2011)</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.fantasyflightgames.com/en/news/2021/10/7/retelling-the-tale/" rel="noreferrer noopener" target="_blank">&#34;Retelling the Tale&#34;</a></span>. <span class="cite-web-website"><a class="external autonumber" href="https://www.fantasyflightgames.com" rel="noreferrer noopener" target="_blank">[1]</a></span>. <span class="cite-web-accessed">Retrieved 26 January 2026</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://www.fantasyflightgames.com/en/news/2021/10/7/retelling-the-tale/" rel="noreferrer noopener" target="_blank">&#34;Retelling the Tale&#34;</a></span>. <span class="cite-web-website"><a class="external autonumber" href="https://www.fantasyflightgames.com" rel="noreferrer noopener" target="_blank">[1]</a></span>. <span class="cite-web-accessed">Retrieved 26 January 2026</span></cite></span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external free" href="http://www.fantasyflightgames.com/edge_news.asp?eidn=4636" rel="noreferrer noopener" target="_blank">http://www.fantasyflightgames.com/edge_news.asp?eidn=4636</a></span>
 </li>
@@ -375,36 +370,36 @@ After Revising the Core Set in 2022 and subsequently releasing the Repackaged pr
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="/wiki/1995" title="1995">1995</a>-<a href="/wiki/1998" title="1998">1998</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings_Trading_Card_Game" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="/wiki/2001" title="2001">2001</a>-<a href="/wiki/2007" title="2007">2007</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="/wiki/Magic:_The_Gathering" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><i><a href="../M/Magic%253A_The_Gathering.md" title="Magic: The Gathering">Magic: The Gathering</a></i> Expansions</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_Tales_of_Middle-earth" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>) • <i><b><a href="/wiki/Magic:_The_Gathering_-_The_Hobbit" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">The Card Game</a></b></i> (<a href="/wiki/2011" title="2011">2011</a>-<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="/wiki/2022" title="2022">2022</a> digital)
+<td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_%E2%80%93_Trick-Taking_Game" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="/wiki/2026" title="2026">2026</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
 <td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="/wiki/The_Lord_of_the_Rings_Tarot" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="/wiki/1997" title="1997">1997</a>) • <i><b><a href="/wiki/The_Hobbit_Card_Game" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>) • <i><b><a href="/wiki/War_of_the_Ring:_The_Card_Game" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="/wiki/2022" title="2022">2022</a>) • <i><b><a href="/wiki/The_Lord_of_the_Rings:_Duel_for_Middle-earth" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="/wiki/2024" title="2024">2024</a>)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)
 </td></tr>
 </tbody></table>

@@ -1,6 +1,5 @@
 ---
 title: "Category:Evil realms"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Evil realms</span>"
 page_id: 39687
 namespace: 14
 revision_id: 195797

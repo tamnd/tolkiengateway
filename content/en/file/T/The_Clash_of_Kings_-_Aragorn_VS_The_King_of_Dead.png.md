@@ -1,6 +1,5 @@
 ---
 title: "File:The Clash of Kings - Aragorn VS The King of Dead.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Clash of Kings - Aragorn VS The King of Dead.png</span>"
 page_id: 38830
 namespace: 6
 revision_id: 191479

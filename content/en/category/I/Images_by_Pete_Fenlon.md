@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Pete Fenlon"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Pete Fenlon</span>"
 page_id: 25705
 namespace: 14
 revision_id: 181889

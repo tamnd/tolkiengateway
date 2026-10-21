@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "English to Anglo-Saxon dictionary"
 ---
 
-Redirect to [English to Anglo-Saxon dictionary](/wiki/English_to_Anglo-Saxon_dictionary).
+Redirect to [English to Anglo-Saxon dictionary](../E/English_to_Anglo-Saxon_dictionary.md).

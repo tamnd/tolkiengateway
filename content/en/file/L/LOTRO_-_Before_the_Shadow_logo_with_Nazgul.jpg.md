@@ -1,6 +1,5 @@
 ---
 title: "File:LOTRO - Before the Shadow logo with Nazgul.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LOTRO - Before the Shadow logo with Nazgul.jpg</span>"
 page_id: 63625
 namespace: 6
 revision_id: 362555
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-*[The Lord of the Rings Online: Before the Shadow](/wiki/The_Lord_of_the_Rings_Online:_Before_the_Shadow)* logo with [Nazgul](/wiki/Nazgul).
+*[The Lord of the Rings Online: Before the Shadow](../../main/T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md)* logo with [Nazgul](../../main/N/Nazgul.md).
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "1961 Jan Broberg"
 ---
 
-Redirect to [1961 Jan Broberg](/wiki/1961_Jan_Broberg).
+Redirect to [1961 Jan Broberg](../_/1961_Jan_Broberg.md).

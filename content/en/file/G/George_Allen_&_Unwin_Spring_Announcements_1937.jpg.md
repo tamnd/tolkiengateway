@@ -1,6 +1,5 @@
 ---
 title: "File:George Allen & Unwin Spring Announcements 1937.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">George Allen &amp; Unwin Spring Announcements 1937.jpg</span>"
 page_id: 50115
 namespace: 6
 revision_id: 269838

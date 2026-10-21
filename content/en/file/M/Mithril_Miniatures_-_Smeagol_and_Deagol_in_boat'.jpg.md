@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Smeagol and Deagol in boat'.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Smeagol and Deagol in boat&#039;.jpg</span>"
 page_id: 71217
 namespace: 6
 revision_id: 424940

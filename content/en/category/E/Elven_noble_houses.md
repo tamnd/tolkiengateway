@@ -1,6 +1,5 @@
 ---
 title: "Category:Elven noble houses"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Elven noble houses</span>"
 page_id: 64964
 namespace: 14
 revision_id: 374217

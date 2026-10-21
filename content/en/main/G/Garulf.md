@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gárulf"
 ---
 
-Redirect to [Gárulf](/wiki/Gárulf).
+Redirect to [Gárulf](Gárulf.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth The Dragons logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth The Dragons logo.png</span>"
 page_id: 73353
 namespace: 6
 revision_id: 440921

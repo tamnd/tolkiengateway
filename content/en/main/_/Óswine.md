@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óswine (disambiguation)"
 ---
 
-Redirect to [Óswine (disambiguation)](/wiki/Óswine_(disambiguation)).
+Redirect to [Óswine (disambiguation)](<Óswine_(disambiguation).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Hope Maps - Beleriand Map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hope Maps - Beleriand Map.jpg</span>"
 page_id: 63415
 namespace: 6
 revision_id: 360818
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map made by Hope Maps with some contributions from Tolkien Gateway users in [Chat](/wiki/Chat). See also the same map without labels: [File:Hope Maps - Beleriand Map (no labels).jpg](</wiki/File:Hope_Maps_-_Beleriand_Map_(no_labels).jpg>).
+Map made by Hope Maps with some contributions from Tolkien Gateway users in [Chat](../../main/C/Chat.md). See also the same map without labels: [File:Hope Maps - Beleriand Map (no labels).jpg](<Hope_Maps_-_Beleriand_Map_(no_labels).jpg.md>).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ Map made by Hope Maps with some contributions from Tolkien Gateway users in [Cha
 </p>
 <ul><li><b>Name:</b> Hope Maps</li>
 <li><b>Website:</b> <a class="external text" href="https://www.deviantart.com/starcave" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Hope_Maps" title="Tolkien Gateway:Copyrights/Hope Maps">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FHope_Maps.md" title="Tolkien Gateway:Copyrights/Hope Maps">Permission for use on Tolkien Gateway</a></b></li></ul></div>

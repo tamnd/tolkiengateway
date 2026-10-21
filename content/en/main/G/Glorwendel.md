@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glóredhel"
 ---
 
-Redirect to [Glóredhel](/wiki/Glóredhel).
+Redirect to [Glóredhel](Glóredhel.md).

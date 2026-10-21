@@ -1,6 +1,5 @@
 ---
 title: "Category:Gatekeepers by French language ability"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gatekeepers by French language ability</span>"
 page_id: 36431
 namespace: 14
 revision_id: 172198

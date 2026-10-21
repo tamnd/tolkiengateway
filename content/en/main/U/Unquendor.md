@@ -1,6 +1,5 @@
 ---
 title: "Unquendor"
-display_title: "<span class=\"mw-page-title-main\">Unquendor</span>"
 page_id: 13128
 namespace: 0
 revision_id: 411088
@@ -21,47 +20,47 @@ images:
   - "Unquendor_logo.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Unquendor_logo.png"><img src="/w/images/thumb/2/23/Unquendor_logo.png/180px-Unquendor_logo.png" decoding="async" loading="lazy" width="180" height="180" class="mw-file-element" srcset="/w/images/thumb/2/23/Unquendor_logo.png/270px-Unquendor_logo.png 1.5x, /w/images/thumb/2/23/Unquendor_logo.png/360px-Unquendor_logo.png 2x" data-file-width="814" data-file-height="815"/></a><figcaption></figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unquendor_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/180px-Unquendor_logo.png" decoding="async" loading="lazy" width="180" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/270px-Unquendor_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/Unquendor_logo.png/360px-Unquendor_logo.png 2x" data-file-width="814" data-file-height="815"/></a><figcaption></figcaption></figure>
 
-**Tolkien Genootschap Unquendor** (*Tolkien Society [Unquendor](#Etymology)*) is the [Tolkien society](/wiki/Tolkien_Societies "Tolkien Societies") in the Netherlands.
+**Tolkien Genootschap Unquendor** (*Tolkien Society [Unquendor](#Etymology)*) is the [Tolkien society](../T/Tolkien_Societies~67099.md) in the Netherlands.
 
 ## History {#History}
 
-Sharing a birthday with [Bilbo](/wiki/Bilbo_Baggins "Bilbo Baggins") and [Frodo Baggins](/wiki/Frodo_Baggins), *Unquendor* was founded on [22 September](/wiki/22_September), [1981](/wiki/1981). Following the example of the British [Tolkien Society](/wiki/The_Tolkien_Society "The Tolkien Society"), it steadily grew to its current member count of about 225 people<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> from all over the Dutch-speaking world, though Flanders has its own Society, *[Elanor](</wiki/Elanor_(Tolkien_Society)> "Elanor (Tolkien Society)")*, and [South Africa](/wiki/Category:South_Africa "Category:South Africa") once had the now-defunct [*Haradrim*](</wiki/Haradrim_(Tolkien_Society)> "Haradrim (Tolkien Society)"). In recent years Unquendor and Elanor have closely collaborated on events. The [German Tolkien Society](/wiki/Deutsche_Tolkien_Gesellschaft_e.V. "Deutsche Tolkien Gesellschaft e.V.") (DTG) has also joined on occasion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sharing a birthday with [Bilbo](../B/Bilbo_Baggins.md) and [Frodo Baggins](../F/Frodo_Baggins.md), *Unquendor* was founded on [22 September](../_/22_September.md), [1981](../_/1981.md). Following the example of the British [Tolkien Society](../T/The_Tolkien_Society.md), it steadily grew to its current member count of about 225 people<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> from all over the Dutch-speaking world, though Flanders has its own Society, *[Elanor](<../E/Elanor_(Tolkien_Society).md>)*, and [South Africa](../../category/S/South_Africa.md) once had the now-defunct [*Haradrim*](<../H/Haradrim_(Tolkien_Society).md>). In recent years Unquendor and Elanor have closely collaborated on events. The [German Tolkien Society](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) (DTG) has also joined on occasion.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Members of Note {#Members_of_Note}
 
-- [Jan Boom (a.k.a. Fangorn)](/wiki/Jan_Boom "Jan Boom")
-- [René van Rossenberg (a.k.a. Parmahosta)](/wiki/Ren%C3%A9_van_Rossenberg "René van Rossenberg")
-- [Renée Vink](/wiki/Ren%C3%A9e_Vink)
+- [Jan Boom (a.k.a. Fangorn)](../J/Jan_Boom.md)
+- [René van Rossenberg (a.k.a. Parmahosta)](../R/René_van_Rossenberg.md)
+- [Renée Vink](../R/Renée_Vink.md)
 
 ## Gatherings {#Gatherings}
 
 Unquendor organises a number of events throughout the Netherlands with attendance from throughout the country (and historically also some members from Flanders):
 
-- The "*Joelfeest*" ([Yule](/wiki/Yule) party, December)
+- The "*Joelfeest*" ([Yule](../Y/Yule.md) party, December)
 - Hobbit Day and Annual General Meeting (historically/statutorily September, now in December)
 - "*Slotfeest*" (Castle/End Feast, June),
-- "*3-januari-diner*" (Tolkien Birthday Dinner, [3 January](/wiki/3_January))
+- "*3-januari-diner*" (Tolkien Birthday Dinner, [3 January](../_/3_January.md))
 - Tolkien Seminar (irregularly, in collaboration with University Leiden)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 These events were discontinued:
 
-- "*Tolkien Leesdag*" (Tolkien Reading Day, close to [25 March](/wiki/25_March), the last event was in [2017](/wiki/2017))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- "*Tolkien Leesdag*" (Tolkien Reading Day, close to [25 March](../_/25_March.md), the last event was in [2017](../_/2017.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Unquendor also offers more regular meetings organised by its members throughout the Netherlands, called *Herbergen* ("Inns") in analogy of the Tolkien Society's *smials*. Unquendor's Lay of Leithian is the only inn that is also a Tolkien Society *smial*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> This inn also closely collaborates with a regulars table ("*stammtisch"*) of the German Tolkien Society just across the border.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Both groups share a similar regiolect (Low Franconian).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ### Lustrum {#Lustrum}
 
-Every five years, Unquendor organizes a weekend event to celebrate an additional 5 years of the society being in existence, with the most recent being [2021](/wiki/2021). These events are more international in nature and usually include lectures by known Tolkien scholars and artists: [Dimitra Fimi (2021),](/wiki/Dimitra_Fimi "Dimitra Fimi") [Thomas Honegger](/wiki/Thomas_Honegger) / <a class="new" href="/w/index.php?title=Paul_Smith&amp;action=edit&amp;redlink=1" title="Paul Smith (page does not exist)">Paul Smith</a> (2016), [Cor Blok](/wiki/Cor_Blok) (2006), [Tom Shippey](/wiki/Tom_Shippey) (2011), [Rayner Unwin](/wiki/Rayner_Unwin) (1997), [Arne Zettersten](/wiki/Arne_Zettersten) (2006).
+Every five years, Unquendor organizes a weekend event to celebrate an additional 5 years of the society being in existence, with the most recent being [2021](../_/2021.md). These events are more international in nature and usually include lectures by known Tolkien scholars and artists: [Dimitra Fimi (2021),](../D/Dimitra_Fimi.md) [Thomas Honegger](../T/Thomas_Honegger.md) / <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Smith&amp;action=edit&amp;redlink=1" title="Paul Smith (page does not exist)">Paul Smith</a> (2016), [Cor Blok](../C/Cor_Blok.md) (2006), [Tom Shippey](../T/Tom_Shippey.md) (2011), [Rayner Unwin](../R/Rayner_Unwin.md) (1997), [Arne Zettersten](../A/Arne_Zettersten.md) (2006).
 
 ## Publications {#Publications}
 
-Unquendor also publishes the Dutch language magazine *[Lembas](</wiki/Lembas_(journal)> "Lembas (journal)")* four to five times a year. The magazine contains the accounts and announcements of Unquendor events. Ardalogical and Tolkienistical essays are also included. These are typically written by members of Unquendor. Unquendor also publishes *[Lembas Extra](/wiki/Lembas_Extra) (*irregularly) in English. Longer length Tolkienological and Ardalogical articles are included therein. *Lembas Extra* includes articles by members and non-members alike.
+Unquendor also publishes the Dutch language magazine *[Lembas](<../L/Lembas_(journal).md>)* four to five times a year. The magazine contains the accounts and announcements of Unquendor events. Ardalogical and Tolkienistical essays are also included. These are typically written by members of Unquendor. Unquendor also publishes *[Lembas Extra](../L/Lembas_Extra.md) (*irregularly) in English. Longer length Tolkienological and Ardalogical articles are included therein. *Lembas Extra* includes articles by members and non-members alike.
 
 ## Etymology {#Etymology}
 
-**Unquendor** is [Neo-Quenya](/wiki/Neo-Quenya) for "Hollow Land", and is a translation of the often perceived etymology of <a class="extiw" href="http://en.wikipedia.org/wiki/Holland#The_name_.22Holland.22" title="wikipedia:Holland">Holland</a>, also "Hollow land". The correct etymology is of Holland, however, is "Wooded land". "Hollow land" does apply to <a class="extiw" href="http://en.wikipedia.org/wiki/Holland,_Lincolnshire" title="wikipedia:Holland, Lincolnshire">Holland in Lincolnshire, UK</a>.
+**Unquendor** is [Neo-Quenya](../N/Neo-Quenya.md) for "Hollow Land", and is a translation of the often perceived etymology of <a class="extiw" href="http://en.wikipedia.org/wiki/Holland#The_name_.22Holland.22" title="wikipedia:Holland">Holland</a>, also "Hollow land". The correct etymology is of Holland, however, is "Wooded land". "Hollow land" does apply to <a class="extiw" href="http://en.wikipedia.org/wiki/Holland,_Lincolnshire" title="wikipedia:Holland, Lincolnshire">Holland in Lincolnshire, UK</a>.
 
 ## External links {#External_links}
 

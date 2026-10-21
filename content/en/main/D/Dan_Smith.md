@@ -1,6 +1,5 @@
 ---
 title: "Dan Smith"
-display_title: "<span class=\"mw-page-title-main\">Dan Smith</span>"
 page_id: 21354
 namespace: 0
 revision_id: 420270
@@ -23,9 +22,9 @@ sort_keys:
 
 **Daniel Steven Smith** is a programmer and science fiction hobbyist who maintains a "<a class="external text" href="http://www.acondia.com/fonts/index.html" rel="noreferrer noopener" target="_blank">Fantasy Fonts for Windows</a>" website.
 
-In [1997](/wiki/1997) he created [Tengwar](/wiki/Tengwar) [fonts](/wiki/Fonts "Fonts"), the first ones being titled "Tengwar Quenya" and "Tengwar Sindarin". Since then he created other variants (ornamental, capital or alternative tengwar shapes). He proceeded to creating [Cirth](/wiki/Cirth) fonts as well as historical [Rune](/wiki/Rune) fonts as the ones seen in *[The Hobbit](/wiki/The_Hobbit)*.
+In [1997](../_/1997.md) he created [Tengwar](../T/Tengwar.md) [fonts](../F/Fonts.md), the first ones being titled "Tengwar Quenya" and "Tengwar Sindarin". Since then he created other variants (ornamental, capital or alternative tengwar shapes). He proceeded to creating [Cirth](../C/Cirth.md) fonts as well as historical [Rune](../R/Rune.md) fonts as the ones seen in *[The Hobbit](../T/The_Hobbit.md)*.
 
-His website contained descriptions and guides about the best known Tengwar modes and had been a usual reference point. By September [2014](/wiki/2014), Tolkien-related information was removed at the request of the [Tolkien Estate](/wiki/Tolkien_Estate).
+His website contained descriptions and guides about the best known Tengwar modes and had been a usual reference point. By September [2014](../_/2014.md), Tolkien-related information was removed at the request of the [Tolkien Estate](../T/Tolkien_Estate.md).
 
 ## Creations {#Creations}
 
@@ -52,9 +51,9 @@ Note that the tengwar fonts differ only visually or stylistically (they all util
 
 Dan Smith had to devise a layout to fit the tengwar into the keyboard and it was subsequently adopted by other fontmakers ever since. Over the years, Smith's keymapping became an unofficial de facto "standard", ensuring compatibility among the most well-known fonts.
 
-Dan Smith's idea was to divide the keys into [rows](/wiki/Tyeller "Tyeller") and [series](/wiki/T%C3%A9mar "Témar") as appear in the tengwar table of [Appendix E](/wiki/Appendix_E). This way for example, the first 4 Tengwar that consist the [Row](/wiki/Tyelle "Tyelle") I ([Tinco](/wiki/Tinco), [Parma](/wiki/Parma), [Calma](/wiki/Calma), [Quessë](/wiki/Quess%C3%AB)) are assigned to the leftmost keys of the keyboard (**1**, **q**, **a**, **z**). The next 4 keys (**2**, **w**, **s**, **x**) correspond to the Row II ([Ando](/wiki/Ando), [Ambar](/wiki/Ambar), [Anga](/wiki/Anga), [Ungwë](/wiki/Ungw%C3%AB)) and so on.
+Dan Smith's idea was to divide the keys into [rows](../T/Tyeller.md) and [series](../T/Témar.md) as appear in the tengwar table of [Appendix E](../A/Appendix_E.md). This way for example, the first 4 Tengwar that consist the [Row](../T/Tyelle.md) I ([Tinco](../T/Tinco.md), [Parma](../P/Parma.md), [Calma](../C/Calma.md), [Quessë](../Q/Quessë.md)) are assigned to the leftmost keys of the keyboard (**1**, **q**, **a**, **z**). The next 4 keys (**2**, **w**, **s**, **x**) correspond to the Row II ([Ando](../A/Ando.md), [Ambar](../A/Ambar.md), [Anga](../A/Anga.md), [Ungwë](../U/Ungwë.md)) and so on.
 
-The uppercase letters are used for the [tehtar](/wiki/Tehtar "Tehtar") and alternative forms; for example the keys of the third row, when uppercase (**#**, **E**, **D**, **C**) display various positions of the *a*-tehta. Extended characters correspond to Tengwar numerals, punctuation marks and less common tehtar or letters.
+The uppercase letters are used for the [tehtar](../T/Tehtar.md) and alternative forms; for example the keys of the third row, when uppercase (**#**, **E**, **D**, **C**) display various positions of the *a*-tehta. Extended characters correspond to Tengwar numerals, punctuation marks and less common tehtar or letters.
 
 Tengwar typefaces that use Dan Smith's encoding include <a class="external text" href="http://home.student.uu.se/j/jowi4905/fonts/annatar.html" rel="noreferrer noopener" target="_blank">Johan Winge&#39;s <i>Tengwar Annatar</i></a>, <a class="external text" href="https://at.boktypografen.se/parmaite.htm" rel="noreferrer noopener" target="_blank">Måns Björkman&#39;s <i>Tengwar Parmaite</i></a>, <a class="external text" href="http://www.enrombel.byteact.com/eng_dir/Index.htm" rel="noreferrer noopener" target="_blank">Enrique Mombello&#39;s <i>Tengwar Élfica, Tengwar Beleriand</i> and <i>Tengwar Gothica</i></a>, <a class="external text" href="http://www.limes.com.pl/~miszka/" rel="noreferrer noopener" target="_blank">Michal Nowakowski&#39;s <i>Tengwar Formal</i></a>, Cursive, Hereno and others; they are mutually compatible, excepting some minor differences.
 

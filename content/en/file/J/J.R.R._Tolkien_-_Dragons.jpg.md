@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Dragons.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Dragons.jpg</span>"
 page_id: 5784
 namespace: 6
 revision_id: 205196
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This painting by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) dates from around 1927-8 and was published in [The J.R.R. Tolkien Calendar 1979](/wiki/The_J.R.R._Tolkien_Calendar_1979).
+This painting by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) dates from around 1927-8 and was published in [The J.R.R. Tolkien Calendar 1979](../../main/T/The_J.R.R._Tolkien_Calendar_1979.md).
 
 ## Licensing {#Licensing}
 

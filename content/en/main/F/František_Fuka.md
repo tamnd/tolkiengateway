@@ -1,6 +1,5 @@
 ---
 title: "František Fuka"
-display_title: "<span class=\"mw-page-title-main\">František Fuka</span>"
 page_id: 27670
 namespace: 0
 revision_id: 155299
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Fuka, Frantisek"
 ---
 
-**František Fuka** ([October 9](/wiki/9_October "9 October"), [1968](/wiki/1968)) is the game designer of [Belegost](</wiki/Belegost_(video_game)> "Belegost (video game)").<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He worked together with [Miroslav Fidler](/wiki/Miroslav_Fidler) on the game.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+**František Fuka** ([October 9](../_/9_October.md), [1968](../_/1968.md)) is the game designer of [Belegost](<../B/Belegost_(video_game).md>).<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He worked together with [Miroslav Fidler](../M/Miroslav_Fidler.md) on the game.<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
 <span></span>
 

@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Frodo Gamgee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Frodo Gamgee.png</span>"
 page_id: 29005
 namespace: 6
 revision_id: 224956
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Frodo Gamgee](/wiki/Frodo_Gardner "Frodo Gardner").
+[Frodo Gamgee](../../main/F/Frodo_Gardner.md).
 
 ## Licensing {#Licensing}
 

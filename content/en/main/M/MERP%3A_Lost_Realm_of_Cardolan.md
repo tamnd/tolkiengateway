@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lost Realm of Cardolan"
 ---
 
-Redirect to [Lost Realm of Cardolan](/wiki/Lost_Realm_of_Cardolan).
+Redirect to [Lost Realm of Cardolan](../L/Lost_Realm_of_Cardolan.md).

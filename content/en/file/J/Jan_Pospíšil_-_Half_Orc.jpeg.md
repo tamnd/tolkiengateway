@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospíšil - Half Orc.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospíšil - Half Orc.jpeg</span>"
 page_id: 52645
 namespace: 6
 revision_id: 433368
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Half orc](/wiki/Half-orcs "Half-orcs")" by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il) for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")*. Featured in [Horse-lords of Rohan](/wiki/Horse-lords_of_Rohan), p. 121.
+"[Half orc](../../main/H/Half-orcs.md)" by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md) for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)*. Featured in [Horse-lords of Rohan](../../main/H/Horse-lords_of_Rohan.md), p. 121.
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

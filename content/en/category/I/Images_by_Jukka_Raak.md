@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jukka Raak"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jukka Raak</span>"
 page_id: 57896
 namespace: 14
 revision_id: 318862

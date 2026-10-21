@@ -1,6 +1,5 @@
 ---
 title: "File:SymphonyNoOneTheLordoftheRings.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SymphonyNoOneTheLordoftheRings.JPG</span>"
 page_id: 23912
 namespace: 6
 revision_id: 214610

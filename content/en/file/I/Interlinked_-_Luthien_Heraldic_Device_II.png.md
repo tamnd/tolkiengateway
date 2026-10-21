@@ -1,6 +1,5 @@
 ---
 title: "File:Interlinked - Luthien Heraldic Device II.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Interlinked - Luthien Heraldic Device II.png</span>"
 page_id: 68800
 namespace: 6
 revision_id: 409891
@@ -24,4 +23,4 @@ file:
 
 ## Summary {#Summary}
 
-Clean redrawn by [User:Interlinked](/wiki/User:Interlinked) from [Tolkien](/wiki/Tolkien)'s [drawing of the second Lúthien Tinúviel's device](/wiki/File:J.R.R._Tolkien_-_Luthien_Heraldic_Device_II.jpg "File:J.R.R. Tolkien - Luthien Heraldic Device II.jpg").
+Clean redrawn by [User:Interlinked](https://tolkiengateway.net/wiki/User:Interlinked) from [Tolkien](../../main/T/Tolkien.md)'s [drawing of the second Lúthien Tinúviel's device](../J/J.R.R._Tolkien_-_Luthien_Heraldic_Device_II.jpg.md).

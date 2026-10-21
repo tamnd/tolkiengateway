@@ -1,6 +1,5 @@
 ---
 title: "File:Jake Murray - Frodo Baggins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jake Murray - Frodo Baggins.jpg</span>"
 page_id: 73059
 namespace: 6
 revision_id: 432598
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Frodo Baggins](/wiki/Frodo_Baggins)" - *[The Lord of the Rings: The Card Game](/wiki/The_Lord_of_the_Rings:_The_Card_Game)*: *The Black Riders* illustration by Jake Murray
+"[Frodo Baggins](../../main/F/Frodo_Baggins.md)" - *[The Lord of the Rings: The Card Game](../../main/T/The_Lord_of_the_Rings%253A_The_Card_Game.md)*: *The Black Riders* illustration by Jake Murray
 
 ## Licensing {#Licensing}
 

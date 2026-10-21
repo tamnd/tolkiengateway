@@ -1,6 +1,5 @@
 ---
 title: "The Hero Is a Hobbit"
-display_title: "<span class=\"mw-page-title-main\">The Hero Is a Hobbit</span>"
 page_id: 27037
 namespace: 0
 revision_id: 407461
@@ -13,11 +12,11 @@ categories:
   - "Published articles"
 ---
 
-**The Hero Is a Hobbit** is a review by [W.H. Auden](/wiki/W.H._Auden) of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*, published in <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_New_York_Times_Book_Review" title="wikipedia:The New York Times Book Review">The New York Times Book Review</a></i>, [October 31](/wiki/31_October "31 October"), [1954](/wiki/1954).
+**The Hero Is a Hobbit** is a review by [W.H. Auden](../W/W.H._Auden.md) of [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*, published in <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_New_York_Times_Book_Review" title="wikipedia:The New York Times Book Review">The New York Times Book Review</a></i>, [October 31](../_/31_October.md), [1954](../_/1954.md).
 
 ## Excerpts {#Excerpts}
 
-> In "The Fellowship of the Ring," which is the first volume of a trilogy, J. R. R. Tolkien continues the imaginative history of the imaginary world to which he introduced us in his [earlier book](/wiki/The_Hobbit "The Hobbit") but in a manner suited to adults, to those, that is, between the ages of 12 and 70. For anyone who likes the genre to which it belongs, the Heroic Quest, I cannot imagine a more wonderful Christmas present.… I think some readers may find the opening chapter a little shy-making, nut they must not let themselves be put off, for, once the story gets moving, this initial archness disappears.… Landscape, climate and atmosphere are northern, reminiscent of the Icelandic sagas.…
+> In "The Fellowship of the Ring," which is the first volume of a trilogy, J. R. R. Tolkien continues the imaginative history of the imaginary world to which he introduced us in his [earlier book](The_Hobbit.md) but in a manner suited to adults, to those, that is, between the ages of 12 and 70. For anyone who likes the genre to which it belongs, the Heroic Quest, I cannot imagine a more wonderful Christmas present.… I think some readers may find the opening chapter a little shy-making, nut they must not let themselves be put off, for, once the story gets moving, this initial archness disappears.… Landscape, climate and atmosphere are northern, reminiscent of the Icelandic sagas.…
 >
 > The first thing that one asks is that the adventure should be various and exciting; in this respect Mr. Tolkien's invention is unflagging. Of any imaginary world the reader demands that it seem real… Mr. Tolkien is fortunate in possessing an amazing gift for naming and a wonderfully exact eye for description.
 >

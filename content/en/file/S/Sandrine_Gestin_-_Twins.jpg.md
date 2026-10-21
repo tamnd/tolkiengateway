@@ -1,6 +1,5 @@
 ---
 title: "File:Sandrine Gestin - Twins.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sandrine Gestin - Twins.jpg</span>"
 page_id: 57974
 namespace: 6
 revision_id: 384597
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Sandrine Gestin</li>
 <li><b>Website:</b> <a class="external text" href="https://www.instagram.com/sandrinegestin/" rel="noreferrer noopener" target="_blank">Sandrine Gestin on Instagram</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Sandrine_Gestin" title="Tolkien Gateway:Copyrights/Sandrine Gestin">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FSandrine_Gestin.md" title="Tolkien Gateway:Copyrights/Sandrine Gestin">Permission for use on Tolkien Gateway</a></b></li></ul></div>

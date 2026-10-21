@@ -15,7 +15,7 @@ sort_keys:
   "Khuzdul words": "Tarag"
 ---
 
-<i><b>tarâg</b></i> (singular \*<i><b>turg</b></i>) means "beard(s)" in [Khuzdul](/wiki/Khuzdul).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tarâg</b></i> (singular \*<i><b>turg</b></i>) means "beard(s)" in [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Etymology {#Etymology}
 
@@ -23,13 +23,13 @@ Radical \*T-R-G
 
 ## Example {#Example}
 
-- <i>Sigin-<b>tarâg</b></i> = "[Longbeards](/wiki/Longbeards)"
+- <i>Sigin-<b>tarâg</b></i> = "[Longbeards](../L/Longbeards.md)"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Peoples_of_Middle-earth" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="/wiki/Of_Dwarves_and_Men" title="Of Dwarves and Men">Of Dwarves and Men</a>&#34;, note 21, p. 321</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;<a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a>&#34;, note 21, p. 321</span>
 </li>
 </ol></div>

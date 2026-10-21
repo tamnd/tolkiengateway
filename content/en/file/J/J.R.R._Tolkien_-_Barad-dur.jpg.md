@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Barad-dur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Barad-dur.jpg</span>"
 page_id: 5769
 namespace: 6
 revision_id: 432907
@@ -31,22 +30,18 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Barad-dur.jpg</span></th>
 <td class="description">
-<p>The painting by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> shows a door on the eastern side of the fortress with <a href="/wiki/Mount_Doom" title="Mount Doom">Mount Doom</a> to the westward. It was published in <a href="/wiki/The_J.R.R._Tolkien_Calendar_1973" title="The J.R.R. Tolkien Calendar 1973">The J.R.R. Tolkien Calendar 1973</a> and 1974, and again in <a href="/wiki/The_Lord_of_the_Rings_1977_Calendar" title="The Lord of the Rings 1977 Calendar">The Lord of the Rings 1977 Calendar</a> in a slightly enlarged and truncated reproduction together with the sketch of <a href="/wiki/File:J.R.R._Tolkien_-_Orodruin.jpg" title="File:J.R.R. Tolkien - Orodruin.jpg">Orodruin</a> as an inset.
+<p>The painting by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> shows a door on the eastern side of the fortress with <a href="../../main/M/Mount_Doom.md" title="Mount Doom">Mount Doom</a> to the westward. It was published in <a href="../../main/T/The_J.R.R._Tolkien_Calendar_1973.md" title="The J.R.R. Tolkien Calendar 1973">The J.R.R. Tolkien Calendar 1973</a> and 1974, and again in <a href="../../main/T/The_Lord_of_the_Rings_1977_Calendar.md" title="The Lord of the Rings 1977 Calendar">The Lord of the Rings 1977 Calendar</a> in a slightly enlarged and truncated reproduction together with the sketch of <a href="J.R.R._Tolkien_-_Orodruin.jpg.md" title="File:J.R.R. Tolkien - Orodruin.jpg">Orodruin</a> as an inset.
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" style="background:var(--tg-color-surface-5)">Tolkien Art Index</th>
 <td><a class="external text" href="https://tai.tolkienists.org/tai/26/" rel="noreferrer noopener" target="_blank">TAI #26</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

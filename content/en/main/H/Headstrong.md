@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Headstrong Family"
 ---
 
-Redirect to [Headstrong Family](/wiki/Headstrong_Family).
+Redirect to [Headstrong Family](Headstrong_Family.md).

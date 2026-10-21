@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Osgiliath Fords"
 ---
 
-Redirect to [Osgiliath Fords](/wiki/Osgiliath_Fords).
+Redirect to [Osgiliath Fords](../O/Osgiliath_Fords.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Black Gate Is Closed (soundtrack)"
 ---
 
-Redirect to [The Black Gate Is Closed (soundtrack)](/wiki/The_Black_Gate_Is_Closed_(soundtrack)).
+Redirect to [The Black Gate Is Closed (soundtrack)](<The_Black_Gate_Is_Closed_(soundtrack).md>).

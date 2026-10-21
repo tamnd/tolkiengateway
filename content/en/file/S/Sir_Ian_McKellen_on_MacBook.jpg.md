@@ -1,6 +1,5 @@
 ---
 title: "File:Sir Ian McKellen on MacBook.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sir Ian McKellen on MacBook.jpg</span>"
 page_id: 71764
 namespace: 6
 revision_id: 427693
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Behind the scenes photo of [Ian McKellen](/wiki/Ian_McKellen) on a MacBook Pro, on set, in costume as [Gandalf](/wiki/Gandalf), during a break for [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)")
+Behind the scenes photo of [Ian McKellen](../../main/I/Ian_McKellen.md) on a MacBook Pro, on set, in costume as [Gandalf](../../main/G/Gandalf.md), during a break for [*The Lord of the Rings* (film series)](<../../main/T/The_Lord_of_the_Rings_(film_series).md>)
 
 ## Licensing {#Licensing}
 

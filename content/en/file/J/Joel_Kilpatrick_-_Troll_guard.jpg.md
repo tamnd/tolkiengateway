@@ -1,6 +1,5 @@
 ---
 title: "File:Joel Kilpatrick - Troll guard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Joel Kilpatrick - Troll guard.jpg</span>"
 page_id: 64887
 namespace: 6
 revision_id: 382429
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-The artist's commentary: "*[Gothmog](</wiki/Gothmog_(balrog)> "Gothmog (balrog)"), high captain of [Angband](/wiki/Angband) with his [troll guard](/wiki/Trolls "Trolls") arriving at the [fifth battle](/wiki/Nirnaeth_Arnoediad "Nirnaeth Arnoediad") in* [The Silmarillion](/wiki/The_Silmarillion)*."*
+The artist's commentary: "*[Gothmog](<../../main/G/Gothmog_(balrog).md>), high captain of [Angband](../../main/A/Angband.md) with his [troll guard](../../main/T/Trolls.md) arriving at the [fifth battle](../../main/N/Nirnaeth_Arnoediad.md) in* [The Silmarillion](../../main/T/The_Silmarillion.md)*."*
 
 ## Licensing {#Licensing}
 
@@ -37,4 +36,4 @@ The artist's commentary: "*[Gothmog](</wiki/Gothmog_(balrog)> "Gothmog (balrog)"
 </p>
 <ul><li><b>Name:</b> Joel Kilpatrick</li>
 <li><b>Website:</b> <a class="external text" href="https://www.artstation.com/kilpatrick" rel="noreferrer noopener" target="_blank">Joel Kilpatrick&#39;s ArtStation profile</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Joel_Kilpatrick" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJoel_Kilpatrick.md" title="Tolkien Gateway:Copyrights/Joel Kilpatrick">Permission for use on Tolkien Gateway</a></b></li></ul></div>

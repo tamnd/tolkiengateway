@@ -1,6 +1,5 @@
 ---
 title: "The Return of the Fellowship of the Ring to the Two Towers"
-display_title: "<span class=\"mw-page-title-main\">The Return of the Fellowship of the Ring to the Two Towers</span>"
 page_id: 19661
 namespace: 0
 revision_id: 442246
@@ -17,19 +16,15 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
 <p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
+</blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Two Towers</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="/wiki/Two_Towers_(disambiguation)" title="Two Towers (disambiguation)">Two Towers (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Two Towers</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Two_Towers_(disambiguation).md" title="Two Towers (disambiguation)">Two Towers (disambiguation)</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**The Return of the Fellowship of the Ring to the Two Towers** is the 13th episode of the 6th season of *South Park*. It was originally broadcast on [November 13](/wiki/13_November "13 November"), [2002](/wiki/2002). The episode is a spoof of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). The boys go on a quest to return a copy of *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)* to the video store.
+**The Return of the Fellowship of the Ring to the Two Towers** is the 13th episode of the 6th season of *South Park*. It was originally broadcast on [November 13](../_/13_November.md), [2002](../_/2002.md). The episode is a spoof of [*The Lord of the Rings* (film series)](<The_Lord_of_the_Rings_(film_series).md>). The boys go on a quest to return a copy of *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* to the video store.
 
 ## Plot {#Plot}
 
@@ -49,25 +44,25 @@ Angered at losing their movie, the sixth graders threatened to beat up the boys,
 
 Many actions and events in this episode parody those in the *The Lord of the Rings* itself. The title in itself is a parody of the trilogy, incorporating all three of the titles into the episode's name.
 
-- Stan - [Frodo](/wiki/Frodo_Baggins "Frodo Baggins").
-- Kyle - [Sam](/wiki/Samwise_Gamgee "Samwise Gamgee").
-- Cartman (and Kenny) - [Gandalf](/wiki/Gandalf).
-- Clyde - [Elrond](/wiki/Elrond).
-- Jimmy - possibly [Boromir](/wiki/Boromir); in one scene takes on the role of Gandalf.
-- Craig - [Aragorn](/wiki/Aragorn).
-- Jason - [Legolas](/wiki/Legolas).
-- Butters - [Sméagol/Gollum](/wiki/Gollum "Gollum").
-- Filmore - a kindergartener, whom the boys call a [dwarf](/wiki/Dwarves "Dwarves"); [Gimli](/wiki/Gimli).
-- The 6th graders - [Ringwraiths](/wiki/Nazg%C3%BBl "Nazgûl"), [Orc](/wiki/Orcs "Orcs") armies/Goblins, [Balrog](/wiki/Balrogs "Balrogs").
-- The boys hide under a massive root while a sixth grader try to sniff them out, parodying the Hobbits’ first encounter with the [Ringwraith](/wiki/Nazg%C3%BBl "Nazgûl") in both [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)") and *[The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring)*.
+- Stan - [Frodo](../F/Frodo_Baggins.md).
+- Kyle - [Sam](../S/Samwise_Gamgee.md).
+- Cartman (and Kenny) - [Gandalf](../G/Gandalf.md).
+- Clyde - [Elrond](../E/Elrond.md).
+- Jimmy - possibly [Boromir](../B/Boromir.md); in one scene takes on the role of Gandalf.
+- Craig - [Aragorn](../A/Aragorn.md).
+- Jason - [Legolas](../L/Legolas.md).
+- Butters - [Sméagol/Gollum](../G/Gollum.md).
+- Filmore - a kindergartener, whom the boys call a [dwarf](../D/Dwarves.md); [Gimli](../G/Gimli.md).
+- The 6th graders - [Ringwraiths](../N/Nazgûl.md), [Orc](../O/Orcs.md) armies/Goblins, [Balrog](../B/Balrogs.md).
+- The boys hide under a massive root while a sixth grader try to sniff them out, parodying the Hobbits’ first encounter with the [Ringwraith](../N/Nazgûl.md) in both [*The Lord of the Rings* (1978 film)](<The_Lord_of_the_Rings_(1978_film).md>) and *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - In the scene when the sixth graders meet on their bikes, a building in the background can be seen which says "More Doors Doors" (Mordor's Doors).
-- While waiting for Clyde to open his door, Cartman says the word "[mellon](/wiki/Mellon "Mellon")", the password to the [Doors of Durin](/wiki/Doors_of_Durin).
+- While waiting for Clyde to open his door, Cartman says the word "[mellon](../M/Mellon.md)", the password to the [Doors of Durin](../D/Doors_of_Durin.md).
 - Clyde's council parallels Elrond's council. During the council, Stan stands up to say: "I will take it."
-- After losing half of their party, when Kyle observes that someone's following them, Cartman responds, "It's Butters. He's been following us for like 2 hours." This mirrors Gandalf's observation in [Moria](/wiki/Moria).
+- After losing half of their party, when Kyle observes that someone's following them, Cartman responds, "It's Butters. He's been following us for like 2 hours." This mirrors Gandalf's observation in [Moria](../M/Moria.md).
 - Jimmy stands in the road and attempts to stop the sixth graders by saying, "You shall not pass!".
-- The boys escape from the sixth graders by crossing a river. The sixth graders, like the [wraiths](/wiki/Nazg%C3%BBl "Nazgûl"), keep going to find a bridge.
-- The sixth graders are about to beat up the boys before the parents arrive to save them, mirroring the arrival of the [Eagles](/wiki/Eagles).
-- At the end of the episode Butters, like Gollum, is reunited with his "precious". Gollum falls toward the center of [Mount Doom](/wiki/Orodruin "Orodruin") and Butters to the bottom of the drop box. There, at the bottom of the box, a pile of already returned red colored video boxes gives the effect of Butters about to sink into his own lake of lava.
+- The boys escape from the sixth graders by crossing a river. The sixth graders, like the [wraiths](../N/Nazgûl.md), keep going to find a bridge.
+- The sixth graders are about to beat up the boys before the parents arrive to save them, mirroring the arrival of the [Eagles](../E/Eagles.md).
+- At the end of the episode Butters, like Gollum, is reunited with his "precious". Gollum falls toward the center of [Mount Doom](../O/Orodruin.md) and Butters to the bottom of the drop box. There, at the bottom of the box, a pile of already returned red colored video boxes gives the effect of Butters about to sink into his own lake of lava.
 
 ## External links {#External_links}
 

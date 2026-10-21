@@ -1,6 +1,5 @@
 ---
 title: "File:James Archer - Morte d'Arthur.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">James Archer - Morte d&#039;Arthur.jpg</span>"
 page_id: 31806
 namespace: 6
 revision_id: 249253

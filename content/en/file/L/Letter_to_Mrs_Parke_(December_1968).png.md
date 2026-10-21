@@ -1,6 +1,5 @@
 ---
 title: "File:Letter to Mrs Parke (December 1968).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letter to Mrs Parke (December 1968).png</span>"
 page_id: 49304
 namespace: 6
 revision_id: 264352

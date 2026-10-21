@@ -1,6 +1,5 @@
 ---
 title: "Ingwemar"
-display_title: "<span class=\"mw-page-title-main\">Ingwemar</span>"
 page_id: 64262
 namespace: 0
 revision_id: 387470
@@ -15,16 +14,16 @@ categories:
   - "Quenya locations"
 ---
 
-**Ingwemar** refers to the dwelling of [Ingwë](/wiki/Ingw%C3%AB) and his followers, the [Ingwi](/wiki/Ingwi), in [Aman](/wiki/Aman).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ingwemar** refers to the dwelling of [Ingwë](Ingwë.md) and his followers, the [Ingwi](Ingwi.md), in [Aman](../A/Aman.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part Three. The World, its Lands, and its Inhabitants: VI. Dwellings in Middle-earth,” in <i><a href="/wiki/The_Nature_of_Middle-earth" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>, 2021)
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (ed.), “Part Three. The World, its Lands, and its Inhabitants: VI. Dwellings in Middle-earth,” in <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> (<a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a>, 2021)
 , p. 301</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="/wiki/Parma_Eldalamberon_17" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>), p. 106</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 106</span>
 </li>
 </ol></div>

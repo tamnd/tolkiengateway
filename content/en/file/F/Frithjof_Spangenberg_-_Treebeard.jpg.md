@@ -1,6 +1,5 @@
 ---
 title: "File:Frithjof Spangenberg - Treebeard.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Frithjof Spangenberg - Treebeard.jpg</span>"
 page_id: 13770
 namespace: 6
 revision_id: 206712
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Frithjof Spangenberg</li>
 <li><b>Website:</b> <a class="external text" href="http://www.illu-atelier.de/" rel="noreferrer noopener" target="_blank">Frithjof Spangenberg&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Frithjof_Spangenberg" title="Tolkien Gateway:Copyrights/Frithjof Spangenberg">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FFrithjof_Spangenberg.md" title="Tolkien Gateway:Copyrights/Frithjof Spangenberg">Permission for use on Tolkien Gateway</a></b></li></ul></div>

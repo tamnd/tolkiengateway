@@ -13,7 +13,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-**The Passing of the Grey Company** is a song by [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their second full-length album [Minas Morgul](</wiki/Minas_Morgul_(album)> "Minas Morgul (album)"), released in [1995](/wiki/1995).
+**The Passing of the Grey Company** is a song by [Tolkien metal](Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their second full-length album [Minas Morgul](<../M/Minas_Morgul_(album).md>), released in [1995](../_/1995.md).
 
 ## Lyrics {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Astrid (The Rings of Power)"
 ---
 
-Redirect to [Astrid (The Rings of Power)](/wiki/Astrid_(The_Rings_of_Power)).
+Redirect to [Astrid (The Rings of Power)](<../A/Astrid_(The_Rings_of_Power).md>).

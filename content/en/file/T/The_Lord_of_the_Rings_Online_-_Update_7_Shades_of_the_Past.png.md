@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Update 7 Shades of the Past.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Update 7 Shades of the Past.png</span>"
 page_id: 39178
 namespace: 6
 revision_id: 192758

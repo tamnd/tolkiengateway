@@ -1,6 +1,5 @@
 ---
 title: "Stephen Oliver"
-display_title: "<span class=\"mw-page-title-main\">Stephen Oliver</span>"
 page_id: 6906
 namespace: 0
 revision_id: 412486
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Oliver, Stephen"
 ---
 
-**Stephen Michael Harding Oliver** ([10 March](/wiki/10_March) [1950](/wiki/1950) – [29 April](/wiki/29_April) [1992](/wiki/1992)) was an English composer who created the music for [*The Lord of the Rings* (1981 radio series)](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcast on the BBC Radio 4.
+**Stephen Michael Harding Oliver** ([10 March](../_/10_March.md) [1950](../_/1950.md) – [29 April](../_/29_April.md) [1992](../_/1992.md)) was an English composer who created the music for [*The Lord of the Rings* (1981 radio series)](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcast on the BBC Radio 4.
 
 ## External links {#External_links}
 

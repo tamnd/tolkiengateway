@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Mordor Orc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Mordor Orc.png</span>"
 page_id: 73086
 namespace: 6
 revision_id: 432627
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Mordor Orc](/wiki/Mordor-orcs "Mordor-orcs") - [LEGO](/wiki/Lego "Lego") minifigure
+[Mordor Orc](../../main/M/Mordor-orcs.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

@@ -1,6 +1,5 @@
 ---
 title: "Liam O'Brien"
-display_title: "<span class=\"mw-page-title-main\">Liam O&#039;Brien</span>"
 page_id: 57162
 namespace: 0
 revision_id: 406321
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "O'Brien, Liam"
 ---
 
-**Liam Christopher O'Brien** (born [May 28](/wiki/May_28), [1976](/wiki/1976)) is an American voice actor with many video game and television credits.
+**Liam Christopher O'Brien** (born [May 28](../M/May_28.md), [1976](../_/1976.md)) is an American voice actor with many video game and television credits.
 
 ## Roles {#Roles}
 
-- [2012](/wiki/2012): *[Lego The Lord of the Rings: The Video Game](/wiki/Lego_The_Lord_of_the_Rings:_The_Video_Game)* - Various voices
-- [2014](/wiki/2014): *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)* - [Gollum](/wiki/Gollum)
-- [2017](/wiki/2017): *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)* - [Gollum](/wiki/Gollum), Daughter's Suitor
+- [2012](../_/2012.md): *[Lego The Lord of the Rings: The Video Game](Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md)* - Various voices
+- [2014](../_/2014.md): *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* - [Gollum](../G/Gollum.md)
+- [2017](../_/2017.md): *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* - [Gollum](../G/Gollum.md), Daughter's Suitor
 
 ## External links {#External_links}
 

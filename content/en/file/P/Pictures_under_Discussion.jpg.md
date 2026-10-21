@@ -1,6 +1,5 @@
 ---
 title: "File:Pictures under Discussion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Pictures under Discussion.jpg</span>"
 page_id: 56047
 namespace: 6
 revision_id: 305028

@@ -1,6 +1,5 @@
 ---
 title: "Jerry VanderStelt"
-display_title: "<span class=\"mw-page-title-main\">Jerry VanderStelt</span>"
 page_id: 38867
 namespace: 0
 revision_id: 406043
@@ -19,12 +18,12 @@ sort_keys:
   "People of unknown nationality": "Vanderstelt, Jerry"
 ---
 
-**Jerry VanderStelt** is a fantasy and science fiction artist. The works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and [C.S. Lewis](/wiki/C.S._Lewis) have inspired his artwork. On license of [New Line Cinema](/wiki/New_Line_Cinema) he has created many drawings of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"). His art is produced by **VanderStelt Studio**, a company he runs himself.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jerry VanderStelt** is a fantasy and science fiction artist. The works of [J.R.R. Tolkien](J.R.R._Tolkien.md) and [C.S. Lewis](../C/C.S._Lewis.md) have inspired his artwork. On license of [New Line Cinema](../N/New_Line_Cinema.md) he has created many drawings of [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>). His art is produced by **VanderStelt Studio**, a company he runs himself.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [List of VanderStelt Studio Collectibles](/wiki/List_of_VanderStelt_Studio_Collectibles)
-- [Images of VanderStelt Studio collectibles](/wiki/Category:Images_of_VanderStelt_Studio_collectibles "Category:Images of VanderStelt Studio collectibles")
+- [List of VanderStelt Studio Collectibles](../L/List_of_VanderStelt_Studio_Collectibles.md)
+- [Images of VanderStelt Studio collectibles](../../category/I/Images_of_VanderStelt_Studio_collectibles.md)
 
 ## External links {#External_links}
 
@@ -35,6 +34,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Jerry VanderStelt</span>. <span class="cite-web-article"><a class="external text" href="http://www.vandersteltstudio.com/bio.htm" rel="noreferrer noopener" target="_blank">&#34;Artist Bio&#34;</a></span>. <span class="cite-web-website">vandersteltstudio.com</span>. <span class="cite-web-accessed">Retrieved 7 April 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Jerry VanderStelt</span>. <span class="cite-web-article"><a class="external text" href="http://www.vandersteltstudio.com/bio.htm" rel="noreferrer noopener" target="_blank">&#34;Artist Bio&#34;</a></span>. <span class="cite-web-website">vandersteltstudio.com</span>. <span class="cite-web-accessed">Retrieved 7 April 2012</span></cite></span>
 </li>
 </ol></div>

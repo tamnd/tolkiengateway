@@ -1,6 +1,5 @@
 ---
 title: "Category:Debates"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Debates</span>"
 page_id: 21213
 namespace: 14
 revision_id: 84495

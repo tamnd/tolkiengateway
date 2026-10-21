@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Douglas A. Anderson"
 ---
 
-Redirect to [Douglas A. Anderson](/wiki/Douglas_A._Anderson).
+Redirect to [Douglas A. Anderson](Douglas_A._Anderson.md).

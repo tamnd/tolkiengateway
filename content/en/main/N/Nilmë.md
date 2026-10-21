@@ -15,6 +15,6 @@ sort_keys:
   "Quenya nouns": "Nilme"
 ---
 
-**Nilmë** is a [Quenya](/wiki/Quenya) word for "friendship". Compare with *-[ndil](/wiki/Ndil "Ndil")*. <span></span>
+**Nilmë** is a [Quenya](../Q/Quenya.md) word for "friendship". Compare with *-[ndil](Ndil.md)*. <span></span>
 
 ## References {#References}

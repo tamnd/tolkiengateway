@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Felak"
 ---
 
-Redirect to [Felak](/wiki/Felak).
+Redirect to [Felak](Felak.md).

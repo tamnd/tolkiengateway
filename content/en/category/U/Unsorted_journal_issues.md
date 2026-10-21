@@ -1,6 +1,5 @@
 ---
 title: "Category:Unsorted journal issues"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Unsorted journal issues</span>"
 page_id: 61784
 namespace: 14
 revision_id: 348324

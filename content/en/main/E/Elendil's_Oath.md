@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oath of Elendil"
 ---
 
-Redirect to [Oath of Elendil](/wiki/Oath_of_Elendil).
+Redirect to [Oath of Elendil](../O/Oath_of_Elendil.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit Glyn Robbins.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit Glyn Robbins.JPG</span>"
 page_id: 48508
 namespace: 6
 revision_id: 259393

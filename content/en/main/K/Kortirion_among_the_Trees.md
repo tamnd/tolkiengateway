@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Trees of Kortirion"
 ---
 
-Redirect to [The Trees of Kortirion](/wiki/The_Trees_of_Kortirion).
+Redirect to [The Trees of Kortirion](../T/The_Trees_of_Kortirion.md).

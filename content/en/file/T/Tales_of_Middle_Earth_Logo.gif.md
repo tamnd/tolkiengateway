@@ -1,6 +1,5 @@
 ---
 title: "File:Tales of Middle Earth Logo.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tales of Middle Earth Logo.gif</span>"
 page_id: 66497
 namespace: 6
 revision_id: 384207

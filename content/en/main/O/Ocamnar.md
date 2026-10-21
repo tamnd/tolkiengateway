@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Okamnar"
 ---
 
-Redirect to [Okamnar](/wiki/Okamnar).
+Redirect to [Okamnar](Okamnar.md).

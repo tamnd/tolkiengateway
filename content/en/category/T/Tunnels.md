@@ -1,6 +1,5 @@
 ---
 title: "Category:Tunnels"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tunnels</span>"
 page_id: 45612
 namespace: 14
 revision_id: 240664

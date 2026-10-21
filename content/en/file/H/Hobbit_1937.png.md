@@ -1,6 +1,5 @@
 ---
 title: "File:Hobbit 1937.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hobbit 1937.png</span>"
 page_id: 30543
 namespace: 6
 revision_id: 350584

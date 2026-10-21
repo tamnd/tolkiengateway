@@ -1,6 +1,5 @@
 ---
 title: "File:The Fall of Arthur 2015.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fall of Arthur 2015.png</span>"
 page_id: 66827
 namespace: 6
 revision_id: 430609

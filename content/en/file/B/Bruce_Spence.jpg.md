@@ -1,6 +1,5 @@
 ---
 title: "File:Bruce Spence.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Bruce Spence.jpg</span>"
 page_id: 9862
 namespace: 6
 revision_id: 248830

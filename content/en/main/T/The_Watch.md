@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Watch"
 ---
 
-Redirect to [Watch](/wiki/Watch).
+Redirect to [Watch](../W/Watch.md).

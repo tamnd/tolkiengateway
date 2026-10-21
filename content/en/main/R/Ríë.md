@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rië"
 ---
 
-Redirect to [Rië](/wiki/Rië).
+Redirect to [Rië](Rië.md).

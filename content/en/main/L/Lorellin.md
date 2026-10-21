@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lórellin"
 ---
 
-Redirect to [Lórellin](/wiki/Lórellin).
+Redirect to [Lórellin](Lórellin.md).

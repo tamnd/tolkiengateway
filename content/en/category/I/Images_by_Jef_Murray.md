@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Jef Murray"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Jef Murray</span>"
 page_id: 8139
 namespace: 14
 revision_id: 182032
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Murray, Jef"
 ---
 
-This category lists all **images by [Jef Murray](/wiki/Jef_Murray)**.
+This category lists all **images by [Jef Murray](../../main/J/Jef_Murray.md)**.

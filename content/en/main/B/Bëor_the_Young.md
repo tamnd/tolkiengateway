@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baran"
 ---
 
-Redirect to [Baran](/wiki/Baran).
+Redirect to [Baran](Baran.md).

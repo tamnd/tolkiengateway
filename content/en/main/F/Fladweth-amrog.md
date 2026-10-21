@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fladweth Amrod"
 ---
 
-Redirect to [Fladweth Amrod](/wiki/Fladweth_Amrod).
+Redirect to [Fladweth Amrod](Fladweth_Amrod.md).

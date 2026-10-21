@@ -1,6 +1,5 @@
 ---
 title: "Drachenschmeide"
-display_title: "<span class=\"mw-page-title-main\">Drachenschmeide</span>"
 page_id: 27686
 namespace: 0
 revision_id: 190106
@@ -14,7 +13,7 @@ categories:
   - "Businesses"
 ---
 
-**Drachenschmeide** was the publisher and game master in Germany of [Middle-earth Play-By-Mail](/wiki/Middle-earth_Play-By-Mail).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Drachenschmeide** was the publisher and game master in Germany of [Middle-earth Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

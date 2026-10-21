@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Harry Goatleaf.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Harry Goatleaf.jpg</span>"
 page_id: 62519
 namespace: 6
 revision_id: 353221

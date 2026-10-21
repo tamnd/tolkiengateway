@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kingfishers"
 ---
 
-Redirect to [Kingfishers](/wiki/Kingfishers).
+Redirect to [Kingfishers](../K/Kingfishers.md).

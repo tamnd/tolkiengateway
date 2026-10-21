@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Boffin family"
 ---
 
-Redirect to [Boffin family](/wiki/Boffin_family).
+Redirect to [Boffin family](Boffin_family.md).

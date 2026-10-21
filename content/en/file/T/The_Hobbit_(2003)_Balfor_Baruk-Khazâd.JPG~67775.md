@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (2003) Balfor Baruk-Khazâd.jpg"
 ---
 
-Redirect to [File:The Hobbit (2003) Balfor Baruk-Khazâd.jpg](/wiki/File:The_Hobbit_(2003)_Balfor_Baruk-Khazâd.jpg).
+Redirect to [File:The Hobbit (2003) Balfor Baruk-Khazâd.jpg](<The_Hobbit_(2003)_Balfor_Baruk-Khazâd.jpg.md>).

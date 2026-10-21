@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Psamathos Psamathides"
 ---
 
-Redirect to [Psamathos Psamathides](/wiki/Psamathos_Psamathides).
+Redirect to [Psamathos Psamathides](Psamathos_Psamathides.md).

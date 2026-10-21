@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Hall (disambiguation)"
 ---
 
-Redirect to [Great Hall (disambiguation)](/wiki/Great_Hall_(disambiguation)).
+Redirect to [Great Hall (disambiguation)](<Great_Hall_(disambiguation).md>).

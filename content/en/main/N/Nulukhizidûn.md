@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nulukkizdîn"
 ---
 
-Redirect to [Nulukkizdîn](/wiki/Nulukkizdîn).
+Redirect to [Nulukkizdîn](Nulukkizdîn.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Dunlending command.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Dunlending command.jpeg</span>"
 page_id: 11745
 namespace: 6
 revision_id: 203814

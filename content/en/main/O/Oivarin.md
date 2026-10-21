@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ainairos"
 ---
 
-Redirect to [Ainairos](/wiki/Ainairos).
+Redirect to [Ainairos](../A/Ainairos.md).

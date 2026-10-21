@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Samwise Gamgee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Samwise Gamgee.png</span>"
 page_id: 73084
 namespace: 6
 revision_id: 432624
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) - [LEGO](/wiki/Lego "Lego") minifigure
+[Samwise Gamgee](../../main/S/Samwise_Gamgee.md) - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

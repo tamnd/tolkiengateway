@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Voronwë"
 ---
 
-Redirect to [Voronwë](/wiki/Voronwë).
+Redirect to [Voronwë](../V/Voronwë.md).

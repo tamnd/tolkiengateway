@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Steamey"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Steamey</span>"
 page_id: 50001
 namespace: 4
 revision_id: 271026
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Steamey"
 ---
 
-- Steamey has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Steamey "Category:Images by Steamey") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Steamey has kindly granted her permission to use [her artwork](../../category/I/Images_by_Steamey.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 1 June 2015
-- User who sought the permission via DeviantArt: [User:Woolly Mammoth](/wiki/User:Woolly_Mammoth)
+- User who sought the permission via DeviantArt: [User:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

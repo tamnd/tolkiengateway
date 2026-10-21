@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Enelyë"
 ---
 
-Redirect to [Enelyë](/wiki/Enelyë).
+Redirect to [Enelyë](Enelyë.md).

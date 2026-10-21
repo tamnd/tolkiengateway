@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goblin-gate"
 ---
 
-Redirect to [Goblin-gate](/wiki/Goblin-gate).
+Redirect to [Goblin-gate](../G/Goblin-gate.md).

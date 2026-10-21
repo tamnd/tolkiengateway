@@ -11,4 +11,4 @@ redirect_target: "Bill Ferny"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Bill Ferny](/wiki/Bill_Ferny#Portrayal_in_adaptations).
+Redirect to [Bill Ferny](Bill_Ferny.md#Portrayal_in_adaptations).

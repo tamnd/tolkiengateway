@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-hobbits"
 ---
 
-Redirect to [Bree-hobbits](/wiki/Bree-hobbits).
+Redirect to [Bree-hobbits](../B/Bree-hobbits.md).

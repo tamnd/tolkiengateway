@@ -1,6 +1,5 @@
 ---
 title: "Category:Conferences"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Conferences</span>"
 page_id: 68380
 namespace: 14
 revision_id: 402517
@@ -14,4 +13,4 @@ categories:
   - "Tolkien studies"
 ---
 
-Academic **conferences** covering the works of [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+Academic **conferences** covering the works of [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Gimli speaking of Dwarf-women.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Gimli speaking of Dwarf-women.png</span>"
 page_id: 64129
 namespace: 6
 revision_id: 366471

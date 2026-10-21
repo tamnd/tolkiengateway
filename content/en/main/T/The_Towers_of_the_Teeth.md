@@ -1,6 +1,5 @@
 ---
 title: "The Towers of the Teeth"
-display_title: "<span class=\"mw-page-title-main\">The Towers of the Teeth</span>"
 page_id: 46066
 namespace: 0
 revision_id: 384259
@@ -15,11 +14,9 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the song by <a href="/wiki/Maury_Laws" title="Maury Laws">Maury Laws</a></b>. For the Towers of the Black Gate, see <b><a href="/wiki/Towers_of_the_Teeth" title="Towers of the Teeth">Towers of the Teeth</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the song by <a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></b>. For the Towers of the Black Gate, see <b><a href="Towers_of_the_Teeth.md" title="Towers of the Teeth">Towers of the Teeth</a></b>.</div></div>
 
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
-
-**The Towers of the Teeth** is a song written by [Maury Laws](/wiki/Maury_Laws) (music) and [Jules Bass](/wiki/Jules_Bass) (lyric) for the [1980](/wiki/1980) animated movie [*The Return of the King*](</wiki/The_Return_of_the_King_(1980_film)> "The Return of the King (1980 film)"). The song plays as the heroes march to the [Black Gate](/wiki/Black_Gate) and after [Aragorn](/wiki/Aragorn)'s audience with the [Mouth of Sauron](/wiki/Mouth_of_Sauron).
+**The Towers of the Teeth** is a song written by [Maury Laws](../M/Maury_Laws.md) (music) and [Jules Bass](../J/Jules_Bass.md) (lyric) for the [1980](../_/1980.md) animated movie [*The Return of the King*](<The_Return_of_the_King_(1980_film).md>). The song plays as the heroes march to the [Black Gate](../B/Black_Gate.md) and after [Aragorn](../A/Aragorn.md)'s audience with the [Mouth of Sauron](../M/Mouth_of_Sauron.md).
 
 ## Lyrics {#Lyrics}
 

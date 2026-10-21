@@ -1,6 +1,5 @@
 ---
 title: "File:Travel and Communication in Tolkiens Worlds.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Travel and Communication in Tolkiens Worlds.png</span>"
 page_id: 36188
 namespace: 6
 revision_id: 249341

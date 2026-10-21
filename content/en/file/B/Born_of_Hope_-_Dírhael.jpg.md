@@ -1,6 +1,5 @@
 ---
 title: "File:Born of Hope - Dírhael.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Born of Hope - Dírhael.jpg</span>"
 page_id: 50941
 namespace: 6
 revision_id: 276766

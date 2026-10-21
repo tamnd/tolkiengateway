@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alan Gutierrez"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alan Gutierrez</span>"
 page_id: 70886
 namespace: 14
 revision_id: 423534
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gutierrez, Alan"
 ---
 
-This category lists all **images by [Alan Gutierrez](/wiki/Alan_Gutierrez)**.
+This category lists all **images by [Alan Gutierrez](../../main/A/Alan_Gutierrez.md)**.

@@ -13,21 +13,21 @@ categories:
   - "Noldorin adjectives"
 ---
 
-<i><b>maidh</b></i> or <i><b>maið</b></i> is a [Noldorin](/wiki/Noldorin) word which means "pale", "fallow" or "fawn".
+<i><b>maidh</b></i> or <i><b>maið</b></i> is a [Noldorin](../N/Noldorin.md) word which means "pale", "fallow" or "fawn".
 
 ## Etymology {#Etymology}
 
-- [Root](/wiki/Sundocarme "Sundocarme") <a class="new" href="/w/index.php?title=MAD&amp;action=edit&amp;redlink=1" title="MAD (page does not exist)">MAD</a>, meaning "pale", "fallow" or "fawn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MAD&amp;action=edit&amp;redlink=1" title="MAD (page does not exist)">MAD</a>, meaning "pale", "fallow" or "fawn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Examples {#Examples}
 
-- *[Maidhros](/wiki/Maidhros)* = pale-glitter
+- *[Maidhros](Maidhros.md)* = pale-glitter
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, <b>MAD</b></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, <b>MAD</b></span>
 </li>
 </ol></div>

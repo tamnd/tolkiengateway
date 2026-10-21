@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin II"
 ---
 
-Redirect to [Húrin II](/wiki/Húrin_II).
+Redirect to [Húrin II](Húrin_II.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aeglos (disambiguation)"
 ---
 
-Redirect to [Aeglos (disambiguation)](/wiki/Aeglos_(disambiguation)).
+Redirect to [Aeglos (disambiguation)](<Aeglos_(disambiguation).md>).

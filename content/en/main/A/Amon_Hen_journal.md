@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Hen (journal)"
 ---
 
-Redirect to [Amon Hen (journal)](/wiki/Amon_Hen_(journal)).
+Redirect to [Amon Hen (journal)](<Amon_Hen_(journal).md>).

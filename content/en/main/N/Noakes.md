@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Noakes Family"
 ---
 
-Redirect to [Noakes Family](/wiki/Noakes_Family).
+Redirect to [Noakes Family](Noakes_Family.md).

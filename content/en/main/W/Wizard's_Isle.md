@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tol-in-Gaurhoth"
 ---
 
-Redirect to [Tol-in-Gaurhoth](/wiki/Tol-in-Gaurhoth).
+Redirect to [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md).

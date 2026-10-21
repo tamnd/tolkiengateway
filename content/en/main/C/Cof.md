@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Côf"
 ---
 
-Redirect to [Côf](/wiki/Côf).
+Redirect to [Côf](Côf.md).

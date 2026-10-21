@@ -1,6 +1,5 @@
 ---
 title: "File:Jane Chance.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jane Chance.jpg</span>"
 page_id: 44380
 namespace: 6
 revision_id: 233266
@@ -24,7 +23,7 @@ file:
   user: "Morgan"
 ---
 
-Photograph of [Jane Chance](/wiki/Jane_Chance) (2013).
+Photograph of [Jane Chance](../../main/J/Jane_Chance.md) (2013).
 
 ## Licensing {#Licensing}
 
@@ -33,4 +32,4 @@ Photograph of [Jane Chance](/wiki/Jane_Chance) (2013).
 </p>
 <ul><li><b>Name:</b> Jane Chance</li>
 <li><b>Website:</b> <a class="external text" href="http://www.ruf.rice.edu/~jchance/" rel="noreferrer noopener" target="_blank">Jane Chance</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jane_Chance" title="Tolkien Gateway:Copyrights/Jane Chance">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJane_Chance.md" title="Tolkien Gateway:Copyrights/Jane Chance">Permission for use on Tolkien Gateway</a></b></li></ul></div>

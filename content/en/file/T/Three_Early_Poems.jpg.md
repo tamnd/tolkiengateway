@@ -1,6 +1,5 @@
 ---
 title: "File:Three Early Poems.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Three Early Poems.jpg</span>"
 page_id: 56991
 namespace: 6
 revision_id: 311837

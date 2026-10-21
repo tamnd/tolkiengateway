@@ -1,6 +1,5 @@
 ---
 title: "Naglur-Danlo"
-display_title: "<span class=\"mw-page-title-main\">Naglur-Danlo</span>"
 page_id: 58881
 namespace: 0
 revision_id: 383510
@@ -15,13 +14,13 @@ categories:
   - "Third Age characters"
 ---
 
-**Naglur-Danlo** was an [Orc](/wiki/Orc) of [Kirith Ungol](/wiki/Cirith_Ungol "Cirith Ungol") in the drafts for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Naglur-Danlo** was an [Orc](../O/Orc.md) of [Kirith Ungol](../C/Cirith_Ungol.md) in the drafts for *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_War_of_the_Ring" title="The War of the Ring">The War of the Ring</a></i>, &#34;Part Two: The Ring Goes East&#34;, &#34;VIII. <a class="new" href="/w/index.php?title=Kirith_Ungol&amp;action=edit&amp;redlink=1" title="Kirith Ungol (page does not exist)">Kirith Ungol</a>&#34;, p. 212</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i>, &#34;Part Two: The Ring Goes East&#34;, &#34;VIII. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kirith_Ungol&amp;action=edit&amp;redlink=1" title="Kirith Ungol (page does not exist)">Kirith Ungol</a>&#34;, p. 212</span>
 </li>
 </ol></div>

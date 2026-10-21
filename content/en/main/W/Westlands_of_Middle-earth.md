@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Westlands"
 ---
 
-Redirect to [Westlands](/wiki/Westlands).
+Redirect to [Westlands](Westlands.md).

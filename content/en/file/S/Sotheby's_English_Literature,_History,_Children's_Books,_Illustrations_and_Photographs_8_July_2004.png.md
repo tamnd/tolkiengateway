@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's English Literature, History, Children's Books, Illustrations and Photographs 8 July 2004.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s English Literature, History, Children&#039;s Books, Illustrations and Photographs 8 July 2004.png</span>"
 page_id: 38805
 namespace: 6
 revision_id: 215423

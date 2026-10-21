@@ -1,6 +1,5 @@
 ---
 title: "Akallabêth and other Tolkien Works (Collected Edition Score)"
-display_title: "<span class=\"mw-page-title-main\">Akallabêth and other Tolkien Works (Collected Edition Score)</span>"
 page_id: 65221
 namespace: 0
 revision_id: 375251
@@ -15,9 +14,9 @@ images:
   - "Akallabeth_Score_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Akallabeth_Score_Cover.jpg"><img src="/w/images/thumb/1/17/Akallabeth_Score_Cover.jpg/300px-Akallabeth_Score_Cover.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="/w/images/thumb/1/17/Akallabeth_Score_Cover.jpg/450px-Akallabeth_Score_Cover.jpg 1.5x, /w/images/1/17/Akallabeth_Score_Cover.jpg 2x" data-file-width="515" data-file-height="712"/></a><figcaption>Score artwork by permission of David Brooke.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Akallabeth_Score_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Akallabeth_Score_Cover.jpg/300px-Akallabeth_Score_Cover.jpg" decoding="async" loading="lazy" width="300" height="415" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Akallabeth_Score_Cover.jpg/450px-Akallabeth_Score_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/17/Akallabeth_Score_Cover.jpg 2x" data-file-width="515" data-file-height="712"/></a><figcaption>Score artwork by permission of David Brooke.</figcaption></figure>
 
-Zarathustra Music's 2020 published score of [Paul Corfield Godfrey](/wiki/Paul_Corfield_Godfrey)'s *Akallabêth and other Tolkien Works*, which is a collection of Paul's smaller scale Tolkien works released on the album *[Akallabêth and other Tolkien Works (Album)](</wiki/Akallab%C3%AAth_and_other_Tolkien_works_(Album)> "Akallabêth and other Tolkien works (Album)")* along with selections from *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* (*[Op. 46 - Fëanor](</wiki/F%C3%ABanor,_Op._46_(Opera)> "Fëanor, Op. 46 (Opera)")*, *[Op. 47. Beren and Lúthien](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)> "Beren and Lúthien, Op. 47 (Opera)")*, *[Op. 48 - The Children of Húrin](</wiki/The_Children_of_H%C3%BArin,_Op._48_(Opera)> "The Children of Húrin, Op. 48 (Opera)"),* *[Op. 49 - The Fall of Gondolin](</wiki/The_Fall_of_Gondolin,_Op.49_(Opera)> "The Fall of Gondolin, Op.49 (Opera)")* and *[Op. 71. The War of Wrath](</wiki/The_War_of_Wrath,_Op._71_(Opera)> "The War of Wrath, Op. 71 (Opera)"))* designed for concert performance.
+Zarathustra Music's 2020 published score of [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)'s *Akallabêth and other Tolkien Works*, which is a collection of Paul's smaller scale Tolkien works released on the album *[Akallabêth and other Tolkien Works (Album)](<Akallabêth_and_other_Tolkien_works_(Album)~67123.md>)* along with selections from *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien* (*[Op. 46 - Fëanor](<../F/Fëanor,_Op._46_(Opera).md>)*, *[Op. 47. Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*, *[Op. 48 - The Children of Húrin](<../T/The_Children_of_Húrin,_Op._48_(Opera).md>),* *[Op. 49 - The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>)* and *[Op. 71. The War of Wrath](<../T/The_War_of_Wrath,_Op._71_(Opera).md>))* designed for concert performance.
 
 <br> This is a 140 page A4 sized book with full gloss covers.
 
@@ -25,9 +24,9 @@ Zarathustra Music's 2020 published score of [Paul Corfield Godfrey](/wiki/Paul_C
 
 ## Contents {#Contents}
 
-*[Akallabêth](</wiki/Akallab%C3%AAth_(for_solo_piano),_Op._42> "Akallabêth (for solo piano), Op. 42"), Op. 42* (piano)
+*[Akallabêth](<Akallabêth_(for_solo_piano),_Op._42.md>), Op. 42* (piano)
 
-*[Tolkien Songs](/wiki/Tolkien_Songs,_Op._9 "Tolkien Songs, Op. 9"), Op. 9* (voice and piano)
+*[Tolkien Songs](../T/Tolkien_Songs,_Op._9.md), Op. 9* (voice and piano)
 
 1. Strider
 2. Song of the Eagle
@@ -36,24 +35,24 @@ Zarathustra Music's 2020 published score of [Paul Corfield Godfrey](/wiki/Paul_C
 5. Song of the Prisoner
 6. Song of the Wanderer
 
-*[Shadow-Bride](</wiki/Shadow-Bride,_Op._36_(Song)> "Shadow-Bride, Op. 36 (Song)"), Op. 33* (voice, viola and piano)
+*[Shadow-Bride](<../S/Shadow-Bride,_Op._36_(Song).md>), Op. 33* (voice, viola and piano)
 
-*[Daeron](</wiki/Daeron,_Op._45_(Flute_and_Piano)> "Daeron, Op. 45 (Flute and Piano)"), Op. 45* (flute and piano)
+*[Daeron](<../D/Daeron,_Op._45_(Flute_and_Piano).md>), Op. 45* (flute and piano)
 
 Highlights from *Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien*
 
-- *[Fëanor](</wiki/F%C3%ABanor,_Op._46_(Opera)> "Fëanor, Op. 46 (Opera)")*, *Op. 46*
+- *[Fëanor](<../F/Fëanor,_Op._46_(Opera).md>)*, *Op. 46*
     - The Doom of Mandos (baritone and piano)
-- *[Beren and Lúthien](</wiki/Beren_and_L%C3%BAthien,_Op._47_(Opera)> "Beren and Lúthien, Op. 47 (Opera)")*, *Op. 47*
+- *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*, *Op. 47*
     - Love Scene (soprano, baritone, mixed choir, solo flute, piano)
     - Beren's Farewell (baritone and piano)
-- *[The Children of Húrin](</wiki/The_Children_of_H%C3%BArin,_Op._48_(Opera)> "The Children of Húrin, Op. 48 (Opera)"), Op. 48*
+- *[The Children of Húrin](<../T/The_Children_of_Húrin,_Op._48_(Opera).md>), Op. 48*
     - All my deeds and past days (tenor and piano)
-- *[The Fall of Gondolin](</wiki/The_Fall_of_Gondolin,_Op.49_(Opera)> "The Fall of Gondolin, Op.49 (Opera)"), Op. 49*
+- *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin,_Op.49_(Opera).md>), Op. 49*
     - The horns of Ulmo (tenor and piano)
     - Wedding March (piano or harp)
     - The Nameless Land (soprano, tenor, solo violin and piano)
-- *[The War of Wrath](</wiki/The_War_of_Wrath,_Op._71_(Opera)> "The War of Wrath, Op. 71 (Opera)"), Op. 71*
+- *[The War of Wrath](<../T/The_War_of_Wrath,_Op._71_(Opera).md>), Op. 71*
     - To the Sea (tenor and piano)
     - The Lay of Eärendil (tenor and piano)
     - The Lay of Eärendil (mixed choir and piano)

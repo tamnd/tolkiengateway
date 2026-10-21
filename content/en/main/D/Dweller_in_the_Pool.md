@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Watcher in the Water"
 ---
 
-Redirect to [Watcher in the Water](/wiki/Watcher_in_the_Water).
+Redirect to [Watcher in the Water](../W/Watcher_in_the_Water.md).

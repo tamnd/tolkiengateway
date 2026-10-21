@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Attacks of Taste"
 ---
 
-Redirect to [Attacks of Taste](/wiki/Attacks_of_Taste).
+Redirect to [Attacks of Taste](Attacks_of_Taste.md).

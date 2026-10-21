@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gold"
 ---
 
-Redirect to [Gold](/wiki/Gold).
+Redirect to [Gold](../G/Gold.md).

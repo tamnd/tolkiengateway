@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - Thane of Tevildo.jpg"
 ---
 
-Redirect to [File:Alan Lee - Thane of Tevildo.jpg](/wiki/File:Alan_Lee_-_Thane_of_Tevildo.jpg).
+Redirect to [File:Alan Lee - Thane of Tevildo.jpg](Alan_Lee_-_Thane_of_Tevildo.jpg.md).

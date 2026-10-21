@@ -1,6 +1,5 @@
 ---
 title: "Silicon & Synapse"
-display_title: "<span class=\"mw-page-title-main\">Silicon &amp; Synapse</span>"
 page_id: 31251
 namespace: 0
 revision_id: 407238
@@ -14,12 +13,12 @@ categories:
   - "American businesses"
 ---
 
-**Silicon &amp; Synapse** was a company, founded in February [1991](/wiki/1991), that developed video games. It had worked on the cancelled <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>-version of *[The Lord of the Rings, Vol. II: The Two Towers](/wiki/The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In [1994](/wiki/1994) the company changed its name to <a class="extiw" href="http://en.wikipedia.org/wiki/Blizzard_Entertainment" title="wikipedia:Blizzard Entertainment">Blizzard</a>.
+**Silicon &amp; Synapse** was a company, founded in February [1991](../_/1991.md), that developed video games. It had worked on the cancelled <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga</a>-version of *[The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> In [1994](../_/1994.md) the company changed its name to <a class="extiw" href="http://en.wikipedia.org/wiki/Blizzard_Entertainment" title="wikipedia:Blizzard Entertainment">Blizzard</a>.
 
 ## See also {#See_also}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Blizzard_Entertainment" title="wikipedia:Blizzard Entertainment">Blizzard</a>
-- *[The Lord of the Rings, Vol. II: The Two Towers](/wiki/The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers)*
+- *[The Lord of the Rings, Vol. II: The Two Towers](../T/The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)*
 
 <span></span>
 

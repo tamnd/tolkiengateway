@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Niphredil.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Niphredil.png</span>"
 page_id: 72965
 namespace: 6
 revision_id: 432314
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Niphredil](/wiki/Niphredil) - *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*
+[Niphredil](../../main/N/Niphredil.md) - *[Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md)*
 
 ## Licensing {#Licensing}
 

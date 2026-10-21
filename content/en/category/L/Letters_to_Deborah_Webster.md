@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Deborah Webster"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Deborah Webster</span>"
 page_id: 68683
 namespace: 14
 revision_id: 408714
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Webster, Deborah"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to [Deborah Webster](/wiki/Deborah_Webster).
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to [Deborah Webster](../../main/D/Deborah_Webster.md).

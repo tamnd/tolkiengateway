@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of food and drink"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of food and drink</span>"
 page_id: 63949
 namespace: 14
 revision_id: 364833

@@ -1,6 +1,5 @@
 ---
 title: "File:Kingdom-O-Magic cover-EU.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Kingdom-O-Magic cover-EU.png</span>"
 page_id: 32362
 namespace: 6
 revision_id: 248582
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The European cover of [Kingdom O' Magic](/wiki/Kingdom_O%27_Magic).
+The European cover of [Kingdom O' Magic](../../main/K/Kingdom_O'_Magic.md).
 
 ## Licensing {#Licensing}
 

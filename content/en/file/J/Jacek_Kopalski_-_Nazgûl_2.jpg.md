@@ -1,6 +1,5 @@
 ---
 title: "File:Jacek Kopalski - Nazgûl 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jacek Kopalski - Nazgûl 2.jpg</span>"
 page_id: 40943
 namespace: 6
 revision_id: 208209
@@ -32,4 +31,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jacek Kopalski</li>
 <li><b>Website:</b> <a class="external text" href="http://www.jacekkopalski.com/" rel="noreferrer noopener" target="_blank">Jacek Kopalski&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jacek_Kopalski" title="Tolkien Gateway:Copyrights/Jacek Kopalski">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJacek_Kopalski.md" title="Tolkien Gateway:Copyrights/Jacek Kopalski">Permission for use on Tolkien Gateway</a></b></li></ul></div>

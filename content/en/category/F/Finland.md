@@ -1,6 +1,5 @@
 ---
 title: "Category:Finland"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Finland</span>"
 page_id: 35317
 namespace: 14
 revision_id: 166595

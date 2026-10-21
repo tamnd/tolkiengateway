@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel's Song"
 ---
 
-Redirect to [Galadriel's Song](/wiki/Galadriel's_Song).
+Redirect to [Galadriel's Song](Galadriel's_Song.md).

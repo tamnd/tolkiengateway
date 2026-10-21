@@ -1,6 +1,5 @@
 ---
 title: "File:Battlelore.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Battlelore.png</span>"
 page_id: 59415
 namespace: 6
 revision_id: 330528
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Logo of [Battlelore](/wiki/Battlelore).
+Logo of [Battlelore](../../main/B/Battlelore.md).
 
 ## Licensing {#Licensing}
 

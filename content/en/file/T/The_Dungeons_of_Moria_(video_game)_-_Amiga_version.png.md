@@ -1,6 +1,5 @@
 ---
 title: "File:The Dungeons of Moria (video game) - Amiga version.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Dungeons of Moria (video game) - Amiga version.png</span>"
 page_id: 48966
 namespace: 6
 revision_id: 262747
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A screenshot of the <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga version</a> of [The Dungeons of Moria video game](</wiki/The_Dungeons_of_Moria_(video_game)> "The Dungeons of Moria (video game)").
+A screenshot of the <a class="extiw" href="http://en.wikipedia.org/wiki/Amiga" title="wikipedia:Amiga">Amiga version</a> of [The Dungeons of Moria video game](<../../main/T/The_Dungeons_of_Moria_(video_game).md>).
 
 ## Licensing {#Licensing}
 

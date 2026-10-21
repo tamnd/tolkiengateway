@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Trading Card Game - Fredegar Bolger, Fatty.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Trading Card Game - Fredegar Bolger, Fatty.jpg</span>"
 page_id: 50387
 namespace: 6
 revision_id: 427678

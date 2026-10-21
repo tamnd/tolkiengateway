@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Chris Seaman"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Chris Seaman</span>"
 page_id: 74897
 namespace: 14
 revision_id: 440687
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Seaman, Chris"
 ---
 
-This category lists all **images by [Chris Seaman](/wiki/Chris_Seaman)**.
+This category lists all **images by [Chris Seaman](../../main/C/Chris_Seaman.md)**.

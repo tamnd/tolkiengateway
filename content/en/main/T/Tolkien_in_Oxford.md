@@ -1,6 +1,5 @@
 ---
 title: "Tolkien in Oxford"
-display_title: "<span class=\"mw-page-title-main\">Tolkien in Oxford</span>"
 page_id: 28252
 namespace: 0
 revision_id: 433844
@@ -13,9 +12,9 @@ categories:
   - "Interviews with J.R.R. Tolkien"
 ---
 
-**Tolkien in Oxford** is the title of a [BBC](/wiki/BBC)2 television documentary featuring a [recorded interview](/wiki/Index:Audio_recordings_of_J.R.R._Tolkien "Index:Audio recordings of J.R.R. Tolkien") with [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) by John Izzard. The documentary was shot from [5](/wiki/5_February "5 February")-[9](/wiki/9_February "9 February") February [1968](/wiki/1968), and broadcast on [30 March](/wiki/30_March) [1968](/wiki/1968).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien described his feelings for from the shooting in a [letter to Donald Swann, written on 29 February 1968](/wiki/Letter_301 "Letter 301").
+**Tolkien in Oxford** is the title of a [BBC](../B/BBC.md)2 television documentary featuring a [recorded interview](../../index/A/Audio_recordings_of_J.R.R._Tolkien.md) with [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) by John Izzard. The documentary was shot from [5](../_/5_February.md)-[9](../_/9_February.md) February [1968](../_/1968.md), and broadcast on [30 March](../_/30_March.md) [1968](../_/1968.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien described his feelings for from the shooting in a [letter to Donald Swann, written on 29 February 1968](../L/Letter_301.md).
 
-- **Later publication/broadcast:** According to [Pieter Collier](/wiki/Pieter_Collier), a transcription of the interview was released on 7 April 2007 for the Children of Húrin Release. Others parts of the same interview were released by the Australian Broadcasting Corporation on April 19, 2007,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and in *[J.R.R. Tolkien: An Audio Portrait](/wiki/J.R.R._Tolkien:_An_Audio_Portrait)*. In August 2010, the BBC Archives released the original, full version of *Tolkien in Oxford* on their website (see [External Links](#External_Links)). In 2018, Stuart D. Lee published a transcript of the full interview in [*Tolkien Studies*: Volume 15](/wiki/Tolkien_Studies:_Volume_15 "Tolkien Studies: Volume 15").
+- **Later publication/broadcast:** According to [Pieter Collier](../P/Pieter_Collier.md), a transcription of the interview was released on 7 April 2007 for the Children of Húrin Release. Others parts of the same interview were released by the Australian Broadcasting Corporation on April 19, 2007,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and in *[J.R.R. Tolkien: An Audio Portrait](../J/J.R.R._Tolkien%253A_An_Audio_Portrait.md)*. In August 2010, the BBC Archives released the original, full version of *Tolkien in Oxford* on their website (see [External Links](#External_Links)). In 2018, Stuart D. Lee published a transcript of the full interview in [*Tolkien Studies*: Volume 15](Tolkien_Studies%253A_Volume_15.md).
 
 ## Official synopsis {#Official_synopsis}
 
@@ -56,10 +55,10 @@ Men are just men.
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a>, <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p. 716ff.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <i><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p. 716ff.</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.tolkienlibrary.com/press/814-Tolkien_1968_BBC_Interview.php" rel="noreferrer noopener" target="_blank">1968 BBC interview with J.R.R. Tolkien</a>, as of 21 August 2010</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author"><a href="/wiki/Carl_F._Hostetter" title="Carl F. Hostetter">Carl F. Hostetter</a> (19 August 2010)</span>. <span class="cite-web-article"><a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a71" rel="noreferrer noopener" target="_blank">&#34;BBC post 1968 &#34;Tolkien in Oxford&#34; video online (11.01)&#34;</a></span>. <span class="cite-web-website"><a href="/wiki/Lambengolmor_(mailing_list)" title="Lambengolmor (mailing list)">Lambengolmor</a></span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> (19 August 2010)</span>. <span class="cite-web-article"><a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a71" rel="noreferrer noopener" target="_blank">&#34;BBC post 1968 &#34;Tolkien in Oxford&#34; video online (11.01)&#34;</a></span>. <span class="cite-web-website"><a href="../L/Lambengolmor_(mailing_list).md" title="Lambengolmor (mailing list)">Lambengolmor</a></span></cite></span>
 </li>
 </ol></div>

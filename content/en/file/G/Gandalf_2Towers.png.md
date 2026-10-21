@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings - The Two Towers (video game) - Gandalf.png"
 ---
 
-Redirect to [File:The Lord of the Rings - The Two Towers (video game) - Gandalf.png](/wiki/File:The_Lord_of_the_Rings_-_The_Two_Towers_(video_game)_-_Gandalf.png).
+Redirect to [File:The Lord of the Rings - The Two Towers (video game) - Gandalf.png](<../T/The_Lord_of_the_Rings_-_The_Two_Towers_(video_game)_-_Gandalf.png.md>).

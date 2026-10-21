@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A.F. Colborn"
 ---
 
-Redirect to [A.F. Colborn](/wiki/A.F._Colborn).
+Redirect to [A.F. Colborn](A.F._Colborn.md).

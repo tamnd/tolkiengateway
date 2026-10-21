@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Walsh - Battle of the Dwarves led by King Azaghal and Glaurung, Father of Dragons.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Walsh - Battle of the Dwarves led by King Azaghal and Glaurung, Father of Dragons.png</span>"
 page_id: 74489
 namespace: 6
 revision_id: 438582
@@ -37,24 +36,21 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Stephen Walsh - Battle of the Dwarves led by King Azaghal and Glaurung, Father of Dragons.png</span></th>
 <td class="description">
-<blockquote><p>A sketch for a possible water colour painting of <a href="/wiki/Nirnaeth_Arnoediad" title="Nirnaeth Arnoediad">the battle of the Dwarves</a> led by King <a href="/wiki/Azagh%C3%A2l" title="Azaghâl">Azagh[â]l</a> and <a href="/wiki/Glaurung" title="Glaurung">Glaurung</a>, Father of <a href="/wiki/Dragons" title="Dragons">Dragons</a>.</p></blockquote>
+<blockquote><p>A sketch for a possible water colour painting of <a href="../../main/N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">the battle of the Dwarves</a> led by King <a href="../../main/A/Azaghâl.md" title="Azaghâl">Azagh[â]l</a> and <a href="../../main/G/Glaurung.md" title="Glaurung">Glaurung</a>, Father of <a href="../../main/D/Dragons.md" title="Dragons">Dragons</a>.</p></blockquote>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/30_April" title="30 April">April 30</a> <a href="/wiki/2015" title="2015">2015</a></td>
+<td><a href="../../main/_/30_April.md" title="30 April">April 30</a> <a href="../../main/_/2015.md" title="2015">2015</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Stephen_Walsh" title="Stephen Walsh">Stephen Walsh</a></td>
+<td><a href="../../main/S/Stephen_Walsh.md" title="Stephen Walsh">Stephen Walsh</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.facebook.com/stephenwalshillustrations/posts/pfbid02SB2tKbHi5pqzFzCLXdp235ChWW7MaqE4fhK97gzr2PxdERC8jnmYQXHbGpaP1ivzl" rel="noreferrer noopener" target="_blank">https://www.facebook.com/stephenwalshillustrations/posts/pfbid02SB2tKbHi5pqzFzCLXdp235ChWW7MaqE4fhK97gzr2PxdERC8jnmYQXHbGpaP1ivzl</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Stephen Walsh</span></span>
@@ -62,4 +58,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Stephen Walsh</li>
 <li><b>Website:</b> <a class="external text" href="https://www.stephenwalshillustrations.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Stephen_Walsh" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FStephen_Walsh.md" title="Tolkien Gateway:Copyrights/Stephen Walsh">Permission for use on Tolkien Gateway</a></b></li></ul></div>

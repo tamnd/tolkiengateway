@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gothmog (Lieutenant of Morgul)"
 ---
 
-Redirect to [Gothmog (Lieutenant of Morgul)](/wiki/Gothmog_(Lieutenant_of_Morgul)).
+Redirect to [Gothmog (Lieutenant of Morgul)](<Gothmog_(Lieutenant_of_Morgul).md>).

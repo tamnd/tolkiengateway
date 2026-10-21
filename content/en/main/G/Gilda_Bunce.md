@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mrs. Bunce"
 ---
 
-Redirect to [Mrs. Bunce](/wiki/Mrs._Bunce).
+Redirect to [Mrs. Bunce](../M/Mrs._Bunce.md).

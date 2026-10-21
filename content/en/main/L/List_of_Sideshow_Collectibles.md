@@ -1,6 +1,5 @@
 ---
 title: "List of Sideshow Collectibles"
-display_title: "<span class=\"mw-page-title-main\">List of Sideshow Collectibles</span>"
 page_id: 38816
 namespace: 0
 revision_id: 404412
@@ -61,14 +60,11 @@ images:
   - "'The_Wall_of_Helm's_Deep_'_-_Aragorn_VS_Uruk-Hai.png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="/wiki/Sideshow_Collectibles" title="Sideshow Collectibles">Sideshow Collectibles</a></div></div>
-
-<style data-mw-deduplicate="TemplateStyles:r398211">.mw-parser-output .tg-hatnote{position:relative;margin:0.5rem 0;padding:0.75rem 1rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-radius:var(--tg-border-radius-medium);background:var(--tg-color-surface-2);font-size:var(--tg-font-size-small);line-height:var(--tg-line-height-xx-small);display:flex;gap:0.5rem;align-items:center}.mw-parser-output .tg-hatnote-icon{display:flex;align-items:center}.mw-parser-output .tg-hatnote-icon .mw-file-element{display:block}.mw-parser-output .tg-hatnote-icon .mw-file-element[src$=".svg"]{filter:var(--filter-invert);opacity:0.5}.mw-parser-output .tg-hatnote.tg-hatnote--red{background:var(--background-color-destructive-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--yellow{background:var(--background-color-warning-subtle);color:var(--color-emphasized)}.mw-parser-output .tg-hatnote.tg-hatnote--green{background:var(--background-color-success-subtle);color:var(--color-emphasized)}</style>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../S/Sideshow_Collectibles.md" title="Sideshow Collectibles">Sideshow Collectibles</a></div></div>
 
 This page is a **list of Sideshow Collectibles**.
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
-<!-- -->
 <tbody><tr>
 <th style="width:50px;">Image
 </th>
@@ -85,7 +81,7 @@ This page is a **list of Sideshow Collectibles**.
 <th>Note(s)
 </th></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:1-4_scale_Helm_of_Sauron.jpg"><img src="/w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/50px-1-4_scale_Helm_of_Sauron.jpg" decoding="async" loading="lazy" width="50" height="107" class="mw-file-element" srcset="/w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/75px-1-4_scale_Helm_of_Sauron.jpg 1.5x, /w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/100px-1-4_scale_Helm_of_Sauron.jpg 2x" data-file-width="200" data-file-height="427"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/_/1-4_scale_Helm_of_Sauron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/50px-1-4_scale_Helm_of_Sauron.jpg" decoding="async" loading="lazy" width="50" height="107" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/75px-1-4_scale_Helm_of_Sauron.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f6/1-4_scale_Helm_of_Sauron.jpg/100px-1-4_scale_Helm_of_Sauron.jpg 2x" data-file-width="200" data-file-height="427"/></a></span>
 </td>
 <td>1/4 scale Helm of Sauron
 </td>
@@ -100,7 +96,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Aragorn_as_Strider_-_Polystone_Statue.png"><img src="/w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/50px-Aragorn_as_Strider_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/75px-Aragorn_as_Strider_-_Polystone_Statue.png 1.5x, /w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/100px-Aragorn_as_Strider_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Aragorn_as_Strider_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/50px-Aragorn_as_Strider_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/75px-Aragorn_as_Strider_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/Aragorn_as_Strider_-_Polystone_Statue.png/100px-Aragorn_as_Strider_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="600"/></a></span>
 </td>
 <td>Aragorn as Strider polystone statue
 </td>
@@ -115,7 +111,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $224.99<br/>Edition size: 1000<br/>Product number: 200099
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Aragorn,_Son_of_Arathorn_polystone_bust.jpg"><img src="/w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/50px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/75px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg 1.5x, /w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/100px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Aragorn,_Son_of_Arathorn_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/50px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/75px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg/100px-Aragorn%2C_Son_of_Arathorn_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Aragorn, Son of Arathorn polystone bust
 </td>
@@ -130,7 +126,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Arwen_-_Polystone_Statue.png"><img src="/w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/50px-Arwen_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="136" class="mw-file-element" srcset="/w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/75px-Arwen_-_Polystone_Statue.png 1.5x, /w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/100px-Arwen_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="542"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Arwen_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/50px-Arwen_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="136" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/75px-Arwen_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/Arwen_-_Polystone_Statue.png/100px-Arwen_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="542"/></a></span>
 </td>
 <td>Arwen polystone statue
 </td>
@@ -145,7 +141,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $249.99<br/>Edition size: 500<br/>Product number: 2001311
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Attack_Troll_polystone_bust.jpg"><img src="/w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/50px-Attack_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/75px-Attack_Troll_polystone_bust.jpg 1.5x, /w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/100px-Attack_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Attack_Troll_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/50px-Attack_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/75px-Attack_Troll_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/Attack_Troll_polystone_bust.jpg/100px-Attack_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Attack Troll polystone bust
 </td>
@@ -160,7 +156,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Black_Orc_of_Mordor_-_Premium_Format_Figure.png"><img src="/w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/50px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/75px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png 1.5x, /w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/100px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png 2x" data-file-width="200" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Black_Orc_of_Mordor_-_Premium_Format_Figure.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/50px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/75px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d8/Black_Orc_of_Mordor_-_Premium_Format_Figure.png/100px-Black_Orc_of_Mordor_-_Premium_Format_Figure.png 2x" data-file-width="200" data-file-height="600"/></a></span>
 </td>
 <td>Black Orc of Mordor premium format figure
 </td>
@@ -175,7 +171,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $299.99<br/>Edition size: 750<br/>Product number: 300075
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Boromir_-_Polystone_Statue.png"><img src="/w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/50px-Boromir_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="145" class="mw-file-element" srcset="/w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/75px-Boromir_-_Polystone_Statue.png 1.5x, /w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/100px-Boromir_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="581"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Boromir_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/50px-Boromir_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="145" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/75px-Boromir_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/Boromir_-_Polystone_Statue.png/100px-Boromir_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="581"/></a></span>
 </td>
 <td>Boromir polystone statue
 </td>
@@ -190,7 +186,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $249.99<br/>Edition size: 1000<br/>Product number: 200195
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Catapult_Troll_polystone_bust.jpg"><img src="/w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/50px-Catapult_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/75px-Catapult_Troll_polystone_bust.jpg 1.5x, /w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/100px-Catapult_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Catapult_Troll_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/50px-Catapult_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/75px-Catapult_Troll_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/Catapult_Troll_polystone_bust.jpg/100px-Catapult_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Catapult Troll polystone bust
 </td>
@@ -205,7 +201,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Elrond,_Herald_of_Gil-Galad_polystone_bust.jpg"><img src="/w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/50px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/75px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg 1.5x, /w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/100px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/E/Elrond,_Herald_of_Gil-Galad_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/50px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/75px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg/100px-Elrond%2C_Herald_of_Gil-Galad_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Elrond, Herald of Gil-galad polystone bust
 </td>
@@ -220,7 +216,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $60.00
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Frodo_Baggins_polystone_bust.jpg"><img src="/w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/50px-Frodo_Baggins_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/75px-Frodo_Baggins_polystone_bust.jpg 1.5x, /w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/100px-Frodo_Baggins_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Frodo_Baggins_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/50px-Frodo_Baggins_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/75px-Frodo_Baggins_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/40/Frodo_Baggins_polystone_bust.jpg/100px-Frodo_Baggins_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Frodo Baggins polystone bust
 </td>
@@ -235,7 +231,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Frodo_Baggins_Premium_Format_Figure.jpg"><img src="/w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/50px-Frodo_Baggins_Premium_Format_Figure.jpg" decoding="async" loading="lazy" width="50" height="120" class="mw-file-element" srcset="/w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/75px-Frodo_Baggins_Premium_Format_Figure.jpg 1.5x, /w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/100px-Frodo_Baggins_Premium_Format_Figure.jpg 2x" data-file-width="200" data-file-height="480"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Frodo_Baggins_Premium_Format_Figure.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/50px-Frodo_Baggins_Premium_Format_Figure.jpg" decoding="async" loading="lazy" width="50" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/75px-Frodo_Baggins_Premium_Format_Figure.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/Frodo_Baggins_Premium_Format_Figure.jpg/100px-Frodo_Baggins_Premium_Format_Figure.jpg 2x" data-file-width="200" data-file-height="480"/></a></span>
 </td>
 <td>Frodo Baggins Premium Format Figure
 </td>
@@ -250,7 +246,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Frodo_Baggins_polystone_statue.jpg"><img src="/w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/50px-Frodo_Baggins_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="92" class="mw-file-element" srcset="/w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/75px-Frodo_Baggins_polystone_statue.jpg 1.5x, /w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/100px-Frodo_Baggins_polystone_statue.jpg 2x" data-file-width="200" data-file-height="369"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Frodo_Baggins_polystone_statue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/50px-Frodo_Baggins_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="92" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/75px-Frodo_Baggins_polystone_statue.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/Frodo_Baggins_polystone_statue.jpg/100px-Frodo_Baggins_polystone_statue.jpg 2x" data-file-width="200" data-file-height="369"/></a></span>
 </td>
 <td>Frodo Baggins polystone statue
 </td>
@@ -265,7 +261,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $100.00
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gandalf_polystone_statue.png"><img src="/w/images/thumb/c/cc/Gandalf_polystone_statue.png/50px-Gandalf_polystone_statue.png" decoding="async" loading="lazy" width="50" height="132" class="mw-file-element" srcset="/w/images/thumb/c/cc/Gandalf_polystone_statue.png/75px-Gandalf_polystone_statue.png 1.5x, /w/images/thumb/c/cc/Gandalf_polystone_statue.png/100px-Gandalf_polystone_statue.png 2x" data-file-width="199" data-file-height="527"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gandalf_polystone_statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Gandalf_polystone_statue.png/50px-Gandalf_polystone_statue.png" decoding="async" loading="lazy" width="50" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Gandalf_polystone_statue.png/75px-Gandalf_polystone_statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/Gandalf_polystone_statue.png/100px-Gandalf_polystone_statue.png 2x" data-file-width="199" data-file-height="527"/></a></span>
 </td>
 <td>Gandalf polystone statue
 </td>
@@ -280,7 +276,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $239.99<br/>Product number: 200084
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gandalf_the_Grey_polystone_bust.jpg"><img src="/w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/50px-Gandalf_the_Grey_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/75px-Gandalf_the_Grey_polystone_bust.jpg 1.5x, /w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/100px-Gandalf_the_Grey_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gandalf_the_Grey_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/50px-Gandalf_the_Grey_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/75px-Gandalf_the_Grey_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Gandalf_the_Grey_polystone_bust.jpg/100px-Gandalf_the_Grey_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Gandalf the Grey polystone bust
 </td>
@@ -295,7 +291,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gandalf_the_Grey_polystone_statue.jpg"><img src="/w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/50px-Gandalf_the_Grey_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="93" class="mw-file-element" srcset="/w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/75px-Gandalf_the_Grey_polystone_statue.jpg 1.5x, /w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/100px-Gandalf_the_Grey_polystone_statue.jpg 2x" data-file-width="200" data-file-height="372"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gandalf_the_Grey_polystone_statue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/50px-Gandalf_the_Grey_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="93" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/75px-Gandalf_the_Grey_polystone_statue.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/Gandalf_the_Grey_polystone_statue.jpg/100px-Gandalf_the_Grey_polystone_statue.jpg 2x" data-file-width="200" data-file-height="372"/></a></span>
 </td>
 <td>Gandalf the Grey polystone statue
 </td>
@@ -310,7 +306,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg"><img src="/w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/50px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="/w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/75px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, /w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/100px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/50px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/75px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg/100px-Gandalf_the_Grey_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
 </td>
 <td>Gandalf the Grey Legendary Scale Bust
 </td>
@@ -325,7 +321,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $149.99<br/>Edition size: 500<br/>Product number: 9219
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gil-galad_polystone_bust.jpg"><img src="/w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/50px-Gil-galad_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/75px-Gil-galad_polystone_bust.jpg 1.5x, /w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/100px-Gil-galad_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gil-galad_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/50px-Gil-galad_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/75px-Gil-galad_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/Gil-galad_polystone_bust.jpg/100px-Gil-galad_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Gil-galad polystone bust
 </td>
@@ -340,7 +336,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Edition size: 3,000
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gimli_-_Polystone_Statue.png"><img src="/w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/50px-Gimli_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="139" class="mw-file-element" srcset="/w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/75px-Gimli_-_Polystone_Statue.png 1.5x, /w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/100px-Gimli_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="556"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gimli_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/50px-Gimli_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="139" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/75px-Gimli_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/14/Gimli_-_Polystone_Statue.png/100px-Gimli_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="556"/></a></span>
 </td>
 <td>Gimli polystone bust
 </td>
@@ -355,7 +351,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $249.99<br/>Edition size: 1000<br/>Product number: 200130
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Gollum_-_Domestic_Exclusive_Edition.png"><img src="/w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/50px-Gollum_-_Domestic_Exclusive_Edition.png" decoding="async" loading="lazy" width="50" height="137" class="mw-file-element" srcset="/w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/75px-Gollum_-_Domestic_Exclusive_Edition.png 1.5x, /w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/100px-Gollum_-_Domestic_Exclusive_Edition.png 2x" data-file-width="198" data-file-height="544"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Gollum_-_Domestic_Exclusive_Edition.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/50px-Gollum_-_Domestic_Exclusive_Edition.png" decoding="async" loading="lazy" width="50" height="137" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/75px-Gollum_-_Domestic_Exclusive_Edition.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Gollum_-_Domestic_Exclusive_Edition.png/100px-Gollum_-_Domestic_Exclusive_Edition.png 2x" data-file-width="198" data-file-height="544"/></a></span>
 </td>
 <td>Gollum Premium Format Figure
 </td>
@@ -370,7 +366,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $299.99<br/>Item number: 300058
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Grond_Troll_polystone_bust.jpg"><img src="/w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/50px-Grond_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/75px-Grond_Troll_polystone_bust.jpg 1.5x, /w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/100px-Grond_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Grond_Troll_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/50px-Grond_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/75px-Grond_Troll_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/Grond_Troll_polystone_bust.jpg/100px-Grond_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Grond Troll polystone bust
 </td>
@@ -385,7 +381,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:King_Elendil_polystone_bust.jpg"><img src="/w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/50px-King_Elendil_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/75px-King_Elendil_polystone_bust.jpg 1.5x, /w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/100px-King_Elendil_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/King_Elendil_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/50px-King_Elendil_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/75px-King_Elendil_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/88/King_Elendil_polystone_bust.jpg/100px-King_Elendil_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>King Elendil polystone bust
 </td>
@@ -400,7 +396,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Legolas_-_Polystone_Statue.png"><img src="/w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/50px-Legolas_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="/w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/75px-Legolas_-_Polystone_Statue.png 1.5x, /w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/100px-Legolas_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Legolas_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/50px-Legolas_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/75px-Legolas_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e4/Legolas_-_Polystone_Statue.png/100px-Legolas_-_Polystone_Statue.png 2x" data-file-width="200" data-file-height="600"/></a></span>
 </td>
 <td>Legolas polystone statue
 </td>
@@ -415,7 +411,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $224.99<br/>Edition size: 750<br/>Product number: 200085
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Legolas_Greenleaf_polystone_statue.jpg"><img src="/w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/50px-Legolas_Greenleaf_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/75px-Legolas_Greenleaf_polystone_statue.jpg 1.5x, /w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/100px-Legolas_Greenleaf_polystone_statue.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Legolas_Greenleaf_polystone_statue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/50px-Legolas_Greenleaf_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/75px-Legolas_Greenleaf_polystone_statue.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Legolas_Greenleaf_polystone_statue.jpg/100px-Legolas_Greenleaf_polystone_statue.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Legolas Greenleaf polystone statue
 </td>
@@ -430,7 +426,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Legolas_-_Legendary_Scale_Bust.png"><img src="/w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/50px-Legolas_-_Legendary_Scale_Bust.png" decoding="async" loading="lazy" width="50" height="151" class="mw-file-element" srcset="/w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/75px-Legolas_-_Legendary_Scale_Bust.png 1.5x, /w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/100px-Legolas_-_Legendary_Scale_Bust.png 2x" data-file-width="199" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Legolas_-_Legendary_Scale_Bust.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/50px-Legolas_-_Legendary_Scale_Bust.png" decoding="async" loading="lazy" width="50" height="151" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/75px-Legolas_-_Legendary_Scale_Bust.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1c/Legolas_-_Legendary_Scale_Bust.png/100px-Legolas_-_Legendary_Scale_Bust.png 2x" data-file-width="199" data-file-height="600"/></a></span>
 </td>
 <td>Legolas legendary scale bust
 </td>
@@ -445,7 +441,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $199.99<br/>Edition size: 500<br/>Product number: 9434
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Lurtz_polystone_statue.jpg"><img src="/w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/50px-Lurtz_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/75px-Lurtz_polystone_statue.jpg 1.5x, /w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/100px-Lurtz_polystone_statue.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lurtz_polystone_statue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/50px-Lurtz_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/75px-Lurtz_polystone_statue.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/Lurtz_polystone_statue.jpg/100px-Lurtz_polystone_statue.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Lurtz polystone statue
 </td>
@@ -460,7 +456,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Lurtz_Premium_Format_Figure.jpg"><img src="/w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/50px-Lurtz_Premium_Format_Figure.jpg" decoding="async" loading="lazy" width="50" height="140" class="mw-file-element" srcset="/w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/75px-Lurtz_Premium_Format_Figure.jpg 1.5x, /w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/100px-Lurtz_Premium_Format_Figure.jpg 2x" data-file-width="200" data-file-height="559"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lurtz_Premium_Format_Figure.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/50px-Lurtz_Premium_Format_Figure.jpg" decoding="async" loading="lazy" width="50" height="140" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/75px-Lurtz_Premium_Format_Figure.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/67/Lurtz_Premium_Format_Figure.jpg/100px-Lurtz_Premium_Format_Figure.jpg 2x" data-file-width="200" data-file-height="559"/></a></span>
 </td>
 <td>Lurtz Premium Format Figure
 </td>
@@ -475,7 +471,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Moria_Orc_Swordsman_polystone_bust.jpg"><img src="/w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/50px-Moria_Orc_Swordsman_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="92" class="mw-file-element" srcset="/w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/75px-Moria_Orc_Swordsman_polystone_bust.jpg 1.5x, /w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/100px-Moria_Orc_Swordsman_polystone_bust.jpg 2x" data-file-width="200" data-file-height="369"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Moria_Orc_Swordsman_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/50px-Moria_Orc_Swordsman_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="92" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/75px-Moria_Orc_Swordsman_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/Moria_Orc_Swordsman_polystone_bust.jpg/100px-Moria_Orc_Swordsman_polystone_bust.jpg 2x" data-file-width="200" data-file-height="369"/></a></span>
 </td>
 <td>Moria Orc Swordsman polystone bust
 </td>
@@ -490,7 +486,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Orc_Crowfaced_metal_helm.jpg"><img src="/w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/50px-Orc_Crowfaced_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="79" class="mw-file-element" srcset="/w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/75px-Orc_Crowfaced_metal_helm.jpg 1.5x, /w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/100px-Orc_Crowfaced_metal_helm.jpg 2x" data-file-width="200" data-file-height="317"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/Orc_Crowfaced_metal_helm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/50px-Orc_Crowfaced_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="79" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/75px-Orc_Crowfaced_metal_helm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/Orc_Crowfaced_metal_helm.jpg/100px-Orc_Crowfaced_metal_helm.jpg 2x" data-file-width="200" data-file-height="317"/></a></span>
 </td>
 <td>Orc Crowfaced metal helm
 </td>
@@ -505,7 +501,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $25.00
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Orc_Hide_metal_helm.jpg"><img src="/w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/50px-Orc_Hide_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/75px-Orc_Hide_metal_helm.jpg 1.5x, /w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/100px-Orc_Hide_metal_helm.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/Orc_Hide_metal_helm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/50px-Orc_Hide_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/75px-Orc_Hide_metal_helm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Orc_Hide_metal_helm.jpg/100px-Orc_Hide_metal_helm.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Orc Hide metal helm
 </td>
@@ -520,11 +516,11 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Orc_Overseer_polystone_bust.jpg"><img src="/w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/50px-Orc_Overseer_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/75px-Orc_Overseer_polystone_bust.jpg 1.5x, /w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/100px-Orc_Overseer_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/Orc_Overseer_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/50px-Orc_Overseer_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/75px-Orc_Overseer_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2e/Orc_Overseer_polystone_bust.jpg/100px-Orc_Overseer_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Orc Overseer polystone bust
 </td>
-<td><a href="/wiki/Warren_Mahy" title="Warren Mahy">Warren Mahy</a>
+<td><a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>
 </td>
 <td>Polystone bust
 </td>
@@ -535,7 +531,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Orc_Squinter_metal_helm.jpg"><img src="/w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/50px-Orc_Squinter_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="73" class="mw-file-element" srcset="/w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/75px-Orc_Squinter_metal_helm.jpg 1.5x, /w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/100px-Orc_Squinter_metal_helm.jpg 2x" data-file-width="200" data-file-height="292"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/Orc_Squinter_metal_helm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/50px-Orc_Squinter_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="73" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/75px-Orc_Squinter_metal_helm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Orc_Squinter_metal_helm.jpg/100px-Orc_Squinter_metal_helm.jpg 2x" data-file-width="200" data-file-height="292"/></a></span>
 </td>
 <td>Orc Squinter metal helm
 </td>
@@ -550,7 +546,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Orc_Trapjaw_metal_helm.jpg"><img src="/w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/50px-Orc_Trapjaw_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="88" class="mw-file-element" srcset="/w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/75px-Orc_Trapjaw_metal_helm.jpg 1.5x, /w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/100px-Orc_Trapjaw_metal_helm.jpg 2x" data-file-width="200" data-file-height="353"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/O/Orc_Trapjaw_metal_helm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/50px-Orc_Trapjaw_metal_helm.jpg" decoding="async" loading="lazy" width="50" height="88" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/75px-Orc_Trapjaw_metal_helm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/80/Orc_Trapjaw_metal_helm.jpg/100px-Orc_Trapjaw_metal_helm.jpg 2x" data-file-width="200" data-file-height="353"/></a></span>
 </td>
 <td>Orc Trapjaw metal helm
 </td>
@@ -565,7 +561,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Peregrin_Took_polystone_bust.jpg"><img src="/w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/50px-Peregrin_Took_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/75px-Peregrin_Took_polystone_bust.jpg 1.5x, /w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/100px-Peregrin_Took_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Peregrin_Took_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/50px-Peregrin_Took_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/75px-Peregrin_Took_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/Peregrin_Took_polystone_bust.jpg/100px-Peregrin_Took_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Peregrin Took polystone bust
 </td>
@@ -580,7 +576,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Ringwraith_-_Polystone_Statue.png"><img src="/w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/50px-Ringwraith_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="140" class="mw-file-element" srcset="/w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/75px-Ringwraith_-_Polystone_Statue.png 1.5x, /w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/100px-Ringwraith_-_Polystone_Statue.png 2x" data-file-width="197" data-file-height="551"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Ringwraith_-_Polystone_Statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/50px-Ringwraith_-_Polystone_Statue.png" decoding="async" loading="lazy" width="50" height="140" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/75px-Ringwraith_-_Polystone_Statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/Ringwraith_-_Polystone_Statue.png/100px-Ringwraith_-_Polystone_Statue.png 2x" data-file-width="197" data-file-height="551"/></a></span>
 </td>
 <td>Ringwraith polystone statue
 </td>
@@ -595,7 +591,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $249.99<br/>Edition size: 1000<br/>Product number: 200199
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Sauron_Legendary_Scale_Bust_-_promo_01.jpg"><img src="/w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/50px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="/w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/75px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, /w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/100px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sauron_Legendary_Scale_Bust_-_promo_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/50px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/75px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/Sauron_Legendary_Scale_Bust_-_promo_01.jpg/100px-Sauron_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
 </td>
 <td>Sauron Legendary Scale Bust
 </td>
@@ -610,7 +606,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Product number: 9220
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Siege_Troll_polystone_bust.jpg"><img src="/w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/50px-Siege_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="/w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/75px-Siege_Troll_polystone_bust.jpg 1.5x, /w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/100px-Siege_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Siege_Troll_polystone_bust.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/50px-Siege_Troll_polystone_bust.jpg" decoding="async" loading="lazy" width="50" height="100" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/75px-Siege_Troll_polystone_bust.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Siege_Troll_polystone_bust.jpg/100px-Siege_Troll_polystone_bust.jpg 2x" data-file-width="200" data-file-height="400"/></a></span>
 </td>
 <td>Siege Troll polystone bust
 </td>
@@ -625,7 +621,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>N/A
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:Snow_Troll_-_polystone_statue.png"><img src="/w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/50px-Snow_Troll_-_polystone_statue.png" decoding="async" loading="lazy" width="50" height="146" class="mw-file-element" srcset="/w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/75px-Snow_Troll_-_polystone_statue.png 1.5x, /w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/100px-Snow_Troll_-_polystone_statue.png 2x" data-file-width="200" data-file-height="582"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Snow_Troll_-_polystone_statue.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/50px-Snow_Troll_-_polystone_statue.png" decoding="async" loading="lazy" width="50" height="146" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/75px-Snow_Troll_-_polystone_statue.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6d/Snow_Troll_-_polystone_statue.png/100px-Snow_Troll_-_polystone_statue.png 2x" data-file-width="200" data-file-height="582"/></a></span>
 </td>
 <td>Snow Troll polystone statue
 </td>
@@ -640,7 +636,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $324.99<br/>Edition size: 500<br/>Product number: 200198
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg"><img src="/w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/50px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg" decoding="async" loading="lazy" width="50" height="74" class="mw-file-element" srcset="/w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/75px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg 1.5x, /w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/100px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg 2x" data-file-width="404" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/50px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg" decoding="async" loading="lazy" width="50" height="74" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/75px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg/100px-The_Balrog_Legendary_Scale_Bust_-_promo_04.jpg 2x" data-file-width="404" data-file-height="600"/></a></span>
 </td>
 <td>The Balrog Legendary Scale Bust
 </td>
@@ -655,7 +651,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Product number: 2953
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg"><img src="/w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/50px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="66" class="mw-file-element" srcset="/w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/75px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, /w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/100px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="455" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/50px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="66" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/75px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg/100px-The_Cave_Troll_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="455" data-file-height="600"/></a></span>
 </td>
 <td>The Cave Troll Legendary Scale Bust
 </td>
@@ -670,7 +666,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Product number: 2906
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png"><img src="/w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/50px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png" decoding="async" loading="lazy" width="50" height="129" class="mw-file-element" srcset="/w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/75px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png 1.5x, /w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/100px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png 2x" data-file-width="200" data-file-height="516"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/50px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png" decoding="async" loading="lazy" width="50" height="129" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/75px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png/100px-The_Clash_of_Kings_-_Aragorn_VS_The_King_of_Dead.png 2x" data-file-width="200" data-file-height="516"/></a></span>
 </td>
 <td>The Clash of Kings - Aragorn VS The King of Dead
 </td>
@@ -685,7 +681,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $289.99<br/>Edition size: 500<br/>Item number: 9724
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Dark_Lord_Sauron_polystone_statue.jpg"><img src="/w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/50px-The_Dark_Lord_Sauron_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="/w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/75px-The_Dark_Lord_Sauron_polystone_statue.jpg 1.5x, /w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/100px-The_Dark_Lord_Sauron_polystone_statue.jpg 2x" data-file-width="300" data-file-height="452"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Dark_Lord_Sauron_polystone_statue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/50px-The_Dark_Lord_Sauron_polystone_statue.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/75px-The_Dark_Lord_Sauron_polystone_statue.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Dark_Lord_Sauron_polystone_statue.jpg/100px-The_Dark_Lord_Sauron_polystone_statue.jpg 2x" data-file-width="300" data-file-height="452"/></a></span>
 </td>
 <td>The Dark Lord Sauron polystone statue
 </td>
@@ -700,7 +696,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $300.00<br/>Edition size: 9,500
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg"><img src="/w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/50px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="/w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/75px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, /w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/100px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/50px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg" decoding="async" loading="lazy" width="50" height="75" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/75px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg/100px-The_Morgul_Lord_Legendary_Scale_Bust_-_promo_01.jpg 2x" data-file-width="400" data-file-height="600"/></a></span>
 </td>
 <td>The Morgul Lord Legendary Scale Bust
 </td>
@@ -715,7 +711,7 @@ This page is a **list of Sideshow Collectibles**.
 <td>Price: $259.99<br/>Edition size: 800<br/>Product number: 2932
 </td></tr>
 <tr>
-<td><span typeof="mw:File"><a class="mw-file-description" href="/wiki/File:%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png"><img src="/w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/50px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png" decoding="async" loading="lazy" width="50" height="105" class="mw-file-element" srcset="/w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/75px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png 1.5x, /w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/100px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png 2x" data-file-width="200" data-file-height="418"/></a></span>
+<td><span typeof="mw:File"><a class="mw-file-description" href="../../file/_/&#39;The_Wall_of_Helm&#39;s_Deep_&#39;_-_Aragorn_VS_Uruk-Hai.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/50px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png" decoding="async" loading="lazy" width="50" height="105" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/75px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0c/%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png/100px-%27The_Wall_of_Helm%27s_Deep_%27_-_Aragorn_VS_Uruk-Hai.png 2x" data-file-width="200" data-file-height="418"/></a></span>
 </td>
 <td>The Wall of Helm&#39;s Deep - Aragorn VS Uruk-Hai
 </td>
@@ -732,8 +728,8 @@ This page is a **list of Sideshow Collectibles**.
 
 ## See also {#See_also}
 
-- [Sideshow Collectibles](/wiki/Sideshow_Collectibles)
-- [List of Gentle Giant Collectibles](/wiki/List_of_Gentle_Giant_Collectibles)
+- [Sideshow Collectibles](../S/Sideshow_Collectibles.md)
+- [List of Gentle Giant Collectibles](List_of_Gentle_Giant_Collectibles.md)
 
 ## External links {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Children of Húrin (audiobook)"
 ---
 
-Redirect to [The Children of Húrin (audiobook)](/wiki/The_Children_of_Húrin_(audiobook)).
+Redirect to [The Children of Húrin (audiobook)](<../T/The_Children_of_Húrin_(audiobook).md>).

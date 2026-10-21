@@ -1,6 +1,5 @@
 ---
 title: "File:Paula DiSante - I Am Called Strider.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Paula DiSante - I Am Called Strider.JPG</span>"
 page_id: 14012
 namespace: 6
 revision_id: 418364
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"I Am Called Strider" by [Paula DiSante](/wiki/Paula_DiSante).
+"I Am Called Strider" by [Paula DiSante](../../main/P/Paula_DiSante.md).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Paula DiSante</li>
 <li><b>Website:</b> <a class="external free" href="https://www.etsy.com/shop/TheSecretFireLLC" rel="noreferrer noopener" target="_blank">https://www.etsy.com/shop/TheSecretFireLLC</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Paula_DiSante" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FPaula_DiSante.md" title="Tolkien Gateway:Copyrights/Paula DiSante">Permission for use on Tolkien Gateway</a></b></li></ul></div>

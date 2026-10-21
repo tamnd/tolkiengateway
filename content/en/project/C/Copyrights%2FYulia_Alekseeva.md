@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Yulia Alekseeva"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Yulia Alekseeva</span>"
 page_id: 66206
 namespace: 4
 revision_id: 381543
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alekseeva, Yulia"
 ---
 
-- Yulia Alekseeva has kindly granted her permission to use [her artwork](/wiki/Category:Images_by_Yulia_Alekseeva "Category:Images by Yulia Alekseeva") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Yulia Alekseeva has kindly granted her permission to use [her artwork](../../category/I/Images_by_Yulia_Alekseeva.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 13 October 2023
-- User who sought the permission via email: [User:IvarTheBoneless](/wiki/User:IvarTheBoneless)
+- User who sought the permission via email: [User:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

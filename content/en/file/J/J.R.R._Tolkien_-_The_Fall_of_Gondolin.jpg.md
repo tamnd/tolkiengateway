@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Fall of Gondolin.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Fall of Gondolin.jpg</span>"
 page_id: 57316
 namespace: 6
 revision_id: 314613
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A page from *[The Fall of Gondolin](</wiki/The_Fall_of_Gondolin_(chapter)> "The Fall of Gondolin (chapter)")*, manuscript *Tuor A*. Corresponds with *[The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two)*, pages 189-190.
+A page from *[The Fall of Gondolin](<../../main/T/The_Fall_of_Gondolin_(chapter).md>)*, manuscript *Tuor A*. Corresponds with *[The Book of Lost Tales Part Two](../../main/T/The_Book_of_Lost_Tales_Part_Two.md)*, pages 189-190.
 
 ## Licensing {#Licensing}
 

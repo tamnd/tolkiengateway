@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of Beowulf"
 ---
 
-Redirect to [The Lay of Beowulf](/wiki/The_Lay_of_Beowulf).
+Redirect to [The Lay of Beowulf](../T/The_Lay_of_Beowulf.md).

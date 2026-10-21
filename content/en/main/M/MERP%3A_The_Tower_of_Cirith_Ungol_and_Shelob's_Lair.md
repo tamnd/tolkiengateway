@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tower of Cirith Ungol and Shelob's Lair"
 ---
 
-Redirect to [The Tower of Cirith Ungol and Shelob's Lair](/wiki/The_Tower_of_Cirith_Ungol_and_Shelob's_Lair).
+Redirect to [The Tower of Cirith Ungol and Shelob's Lair](../T/The_Tower_of_Cirith_Ungol_and_Shelob's_Lair.md).

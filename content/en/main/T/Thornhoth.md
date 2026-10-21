@@ -11,4 +11,4 @@ redirect_target: "Eagles"
 redirect_fragment: "Other names"
 ---
 
-Redirect to [Eagles](/wiki/Eagles#Other_names).
+Redirect to [Eagles](../E/Eagles.md#Other_names).

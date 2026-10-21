@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "River-woman"
 ---
 
-Redirect to [River-woman](/wiki/River-woman).
+Redirect to [River-woman](River-woman.md).

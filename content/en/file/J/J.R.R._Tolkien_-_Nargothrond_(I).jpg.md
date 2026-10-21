@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Nargothrond (I).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Nargothrond (I).jpg</span>"
 page_id: 5772
 namespace: 6
 revision_id: 434729
@@ -31,11 +30,10 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Nargothrond (I).jpg</span></th>
 <td class="description">
-<p>This unfinished watercolour by <a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a> of the entrances to the great underground fortress of <a href="/wiki/Finrod" title="Finrod">Finrod Felagund</a> was no doubt painted during the same period as the drawing of <a href="/wiki/File:J.R.R._Tolkien_-_Nargothrond_(II).jpg" title="File:J.R.R. Tolkien - Nargothrond (II).jpg">Nargothrond</a>. It was published in <a href="/wiki/The_Silmarillion_Calendar_1978" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
+<p>This unfinished watercolour by <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> of the entrances to the great underground fortress of <a href="../../main/F/Finrod.md" title="Finrod">Finrod Felagund</a> was no doubt painted during the same period as the drawing of <a href="J.R.R._Tolkien_-_Nargothrond_(II).jpg.md" title="File:J.R.R. Tolkien - Nargothrond (II).jpg">Nargothrond</a>. It was published in <a href="../../main/T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a>.
 </p>
 </td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Watercolour</td>
@@ -46,13 +44,12 @@ file:
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
+<td><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
-<td><a href="/wiki/The_Silmarillion" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
+<td><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (illustrated by the author), 2022 by HarperCollins</td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

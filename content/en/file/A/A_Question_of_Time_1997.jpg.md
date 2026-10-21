@@ -1,6 +1,5 @@
 ---
 title: "File:A Question of Time 1997.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Question of Time 1997.jpg</span>"
 page_id: 6939
 namespace: 6
 revision_id: 352205

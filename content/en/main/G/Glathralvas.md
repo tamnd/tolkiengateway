@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ñaltalma"
 ---
 
-Redirect to [Ñaltalma](/wiki/Ñaltalma).
+Redirect to [Ñaltalma](../_/Ñaltalma.md).

@@ -1,6 +1,5 @@
 ---
 title: "Alcar mi Tarmenel na Erun"
-display_title: "<span class=\"mw-page-title-main\">Alcar mi Tarmenel na Erun</span>"
 page_id: 14447
 namespace: 0
 revision_id: 369994
@@ -14,7 +13,7 @@ categories:
   - "Quenya texts"
 ---
 
-**Alcar mi Tarmenel na Erun** is [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s translation of the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo" title="wikipedia:Gloria in excelsis Deo">Gloria in excelsis Deo</a></i> into [Quenya](/wiki/Quenya). The manuscript containing several revisions and associated fragments was published in [*Vinyar Tengwar*, Number 44](/wiki/Vinyar_Tengwar_44 "Vinyar Tengwar 44"), June 2002, edited by [Arden R. Smith](/wiki/Arden_R._Smith).
+**Alcar mi Tarmenel na Erun** is [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s translation of the <i><a class="extiw" href="http://en.wikipedia.org/wiki/Gloria_in_excelsis_Deo" title="wikipedia:Gloria in excelsis Deo">Gloria in excelsis Deo</a></i> into [Quenya](../Q/Quenya.md). The manuscript containing several revisions and associated fragments was published in [*Vinyar Tengwar*, Number 44](../V/Vinyar_Tengwar_44.md), June 2002, edited by [Arden R. Smith](Arden_R._Smith.md).
 
 ## Prayer {#Prayer}
 
@@ -25,8 +24,8 @@ The final editorial version of the prayer:
 
 ## See also {#See_also}
 
-- [Poems by J.R.R. Tolkien](/wiki/Index:Poems_by_J.R.R._Tolkien "Index:Poems by J.R.R. Tolkien")
+- [Poems by J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/alcarmitarmenelnaerun.html" rel="noreferrer noopener" target="_blank">Text, translation and audio</a> at [Glǽmscrafu](/wiki/Gl%C7%BDmscrafu)
+- <a class="external text" href="http://glaemscrafu.jrrvf.com/english/alcarmitarmenelnaerun.html" rel="noreferrer noopener" target="_blank">Text, translation and audio</a> at [Glǽmscrafu](../G/Glǽmscrafu.md)

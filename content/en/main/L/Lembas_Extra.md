@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lembas (journal)"
 ---
 
-Redirect to [Lembas (journal)](/wiki/Lembas_(journal)).
+Redirect to [Lembas (journal)](<Lembas_(journal).md>).

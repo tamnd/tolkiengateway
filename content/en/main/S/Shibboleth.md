@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Shibboleth of Fëanor"
 ---
 
-Redirect to [The Shibboleth of Fëanor](/wiki/The_Shibboleth_of_Fëanor).
+Redirect to [The Shibboleth of Fëanor](../T/The_Shibboleth_of_Fëanor.md).

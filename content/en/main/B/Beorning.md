@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beornings"
 ---
 
-Redirect to [Beornings](/wiki/Beornings).
+Redirect to [Beornings](Beornings.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Sauron Legendary Scale Bust - promo 01.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sauron Legendary Scale Bust - promo 01.jpg</span>"
 page_id: 17095
 namespace: 6
 revision_id: 191458

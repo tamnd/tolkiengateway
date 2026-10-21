@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Herugrim"
 ---
 
-Redirect to [Herugrim](/wiki/Herugrim).
+Redirect to [Herugrim](../H/Herugrim.md).

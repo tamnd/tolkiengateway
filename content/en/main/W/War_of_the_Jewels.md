@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Jewels (disambiguation)"
 ---
 
-Redirect to [War of the Jewels (disambiguation)](/wiki/War_of_the_Jewels_(disambiguation)).
+Redirect to [War of the Jewels (disambiguation)](<War_of_the_Jewels_(disambiguation).md>).

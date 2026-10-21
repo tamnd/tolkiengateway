@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - Rise to War - Gorbag.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - Rise to War - Gorbag.webp</span>"
 page_id: 64656
 namespace: 6
 revision_id: 373794

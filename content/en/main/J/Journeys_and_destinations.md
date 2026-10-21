@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Journeys & Destinations"
 ---
 
-Redirect to [Journeys &amp; Destinations](/wiki/Journeys_&_Destinations).
+Redirect to [Journeys &amp; Destinations](Journeys_&_Destinations.md).

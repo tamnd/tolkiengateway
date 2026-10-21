@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Faramir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Faramir.jpg</span>"
 page_id: 18928
 namespace: 6
 revision_id: 224858
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Faramir](/wiki/Faramir) and [Éowyn](/wiki/%C3%89owyn) as portrayed in [The Return of the King (1980 film)](</wiki/The_Return_of_the_King_(1980_film)>).
+[Faramir](../../main/F/Faramir.md) and [Éowyn](../../main/_/Éowyn.md) as portrayed in [The Return of the King (1980 film)](<../../main/T/The_Return_of_the_King_(1980_film).md>).
 
 ## Licensing {#Licensing}
 

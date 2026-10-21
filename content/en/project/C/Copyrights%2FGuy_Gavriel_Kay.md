@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Guy Gavriel Kay"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Guy Gavriel Kay</span>"
 page_id: 43490
 namespace: 4
 revision_id: 229230
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kay, Guy Gavriell"
 ---
 
-- Permission kindly granted by copyright holder [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay) (through Deborah Meghnagi) to use [Guy Gavriel Kay.jpg](/wiki/File:Guy_Gavriel_Kay.jpg "File:Guy Gavriel Kay.jpg") on Tolkien Gateway.
+- Permission kindly granted by copyright holder [Guy Gavriel Kay](../../main/G/Guy_Gavriel_Kay.md) (through Deborah Meghnagi) to use [Guy Gavriel Kay.jpg](../../file/G/Guy_Gavriel_Kay.jpg.md) on Tolkien Gateway.
 - Date: 19 April 2013
-- User who sought the permission via email: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission via email: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

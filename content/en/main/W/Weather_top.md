@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Weathertop"
 ---
 
-Redirect to [Weathertop](/wiki/Weathertop).
+Redirect to [Weathertop](Weathertop.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Leprawns"
 ---
 
-Redirect to [Leprawns](/wiki/Leprawns).
+Redirect to [Leprawns](Leprawns.md).

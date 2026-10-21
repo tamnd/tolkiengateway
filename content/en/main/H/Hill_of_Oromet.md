@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Oromet"
 ---
 
-Redirect to [Oromet](/wiki/Oromet).
+Redirect to [Oromet](../O/Oromet.md).

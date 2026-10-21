@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Afteryule"
 ---
 
-Redirect to [Afteryule](/wiki/Afteryule).
+Redirect to [Afteryule](../A/Afteryule.md).

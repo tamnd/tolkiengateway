@@ -1,6 +1,5 @@
 ---
 title: "Essays and minor texts by J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-main\">Essays and minor texts by J.R.R. Tolkien</span>"
 page_id: 66958
 namespace: 0
 revision_id: 412636
@@ -15,15 +14,15 @@ categories:
 
 J.R.R. Tolkien was prolific, on many levels.
 
-His published <u>books</u> are many, and there are many good [catalogues](/wiki/Template:Publishedmajorbooks "Template:Publishedmajorbooks") of them.
+His published <u>books</u> are many, and there are many good [catalogues](https://tolkiengateway.net/wiki/Template:Publishedmajorbooks) of them.
 
-His <u>poetry</u> is numerous, a large number of them have since been published in various places. A significant selection of them appears in *[The Collected Poems of J.R.R. Tolkien](/wiki/The_Collected_Poems_of_J.R.R._Tolkien)*.
+His <u>poetry</u> is numerous, a large number of them have since been published in various places. A significant selection of them appears in *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.
 
-His <u>letters</u> are vast, but due to their largely personal nature, and the fact that they were only a *means of communication* in an age when messages *must* take a physical form, they do not always contain deep thought. Hence, a *complete* catalogue of them is unneeded. Still, a [good collection](/wiki/The_Letters_of_J.R.R._Tolkien "The Letters of J.R.R. Tolkien") is already in existence, and its expansion can be expected.
+His <u>letters</u> are vast, but due to their largely personal nature, and the fact that they were only a *means of communication* in an age when messages *must* take a physical form, they do not always contain deep thought. Hence, a *complete* catalogue of them is unneeded. Still, a [good collection](../T/The_Letters_of_J.R.R._Tolkien.md) is already in existence, and its expansion can be expected.
 
-His <u>artworks</u> are fascinating and <u>manuscripts</u> often bewildering. Several catalogues already offer us some good view of them, such as *[Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth "Tolkien: Maker of Middle-earth")* and *[The Art of the Manuscript](/wiki/J.R.R._Tolkien:_The_Art_of_the_Manuscript "J.R.R. Tolkien: The Art of the Manuscript")*.
+His <u>artworks</u> are fascinating and <u>manuscripts</u> often bewildering. Several catalogues already offer us some good view of them, such as *[Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* and *[The Art of the Manuscript](../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md)*.
 
-The material of his <u>linguistic inventions</u> is abundant, and much remains unpublished. But our excellent, faithful periodicals *[Vinyar Tengwar](/wiki/Vinyar_Tengwar)* and *[Parma Eldalamberon](/wiki/Parma_Eldalamberon)* are continuing the effort to bring more of them to light.
+The material of his <u>linguistic inventions</u> is abundant, and much remains unpublished. But our excellent, faithful periodicals *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* and *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* are continuing the effort to bring more of them to light.
 
 What is left, then? Two.
 
@@ -36,7 +35,7 @@ Assuredly, there exist many, many other media that contain even littler contribu
 ## Essays and articles {#Essays_and_articles}
 
 - 1923 —
-    - "Henry Bradley, 3 Dec. 1845-23 May 1923", in *Bulletin of the Modern Humanities Research Association*<br>- (obituary, reprinted in *[Tolkien Studies vol. 12](/wiki/Tolkien_Studies:_Volume_12 "Tolkien Studies: Volume 12")*)
+    - "Henry Bradley, 3 Dec. 1845-23 May 1923", in *Bulletin of the Modern Humanities Research Association*<br>- (obituary, reprinted in *[Tolkien Studies vol. 12](../T/Tolkien_Studies%253A_Volume_12.md)*)
     - "Holy Maidenhood", in *The Times Literary Supplement*<br>- (review of *Hali Meidenhad* edited by F.J. Furnivall)
 
 - 1924 —
@@ -59,53 +58,53 @@ Assuredly, there exist many, many other media that contain even littler contribu
     - "The Oxford English School", in *The Oxford Magazine*<br>- (essay)
 
 - 1932 —
-    - "The Name 'Nodens'", in *Report on the Excavation of the Prehistoric, Roman, and Post-Roman Site in Lydney Park, Gloucestershire*<br>- (essay, reprinted in *[Tolkien Studies vol. 4](/wiki/Tolkien_Studies:_Volume_4 "Tolkien Studies: Volume 4")*)
+    - "The Name 'Nodens'", in *Report on the Excavation of the Prehistoric, Roman, and Post-Roman Site in Lydney Park, Gloucestershire*<br>- (essay, reprinted in *[Tolkien Studies vol. 4](../T/Tolkien_Studies%253A_Volume_4.md)*)
     - "Sigelwara Land", in *Medium Aevum*<br>- (essay)
 
 - 1934 —
-    - "Chaucer as a Philologist", in *Transactions of the Philological Society*<br>- (essay, reprinted in *[Tolkien Studies vol. 5](/wiki/Tolkien_Studies:_Volume_5 "Tolkien Studies: Volume 5")*)
+    - "Chaucer as a Philologist", in *Transactions of the Philological Society*<br>- (essay, reprinted in *[Tolkien Studies vol. 5](../T/Tolkien_Studies%253A_Volume_5.md)*)
 
 - 1937 —
-    - "Beowulf: The Monsters and the Critics", in *Proceedings of the British Academy*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*, and as *[Beowulf and the Critics](/wiki/Beowulf_and_the_Critics)*)
+    - "Beowulf: The Monsters and the Critics", in *Proceedings of the British Academy*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*, and as *[Beowulf and the Critics](../B/Beowulf_and_the_Critics.md)*)
 
 - 1939 —
-    - "The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions'"<br>- (version of Chaucer's *The Reeve's Tale*, printed in booklets, reprinted in *[Tolkien Studies vol. 5](/wiki/Tolkien_Studies:_Volume_5 "Tolkien Studies: Volume 5")*)
+    - "The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions'"<br>- (version of Chaucer's *The Reeve's Tale*, printed in booklets, reprinted in *[Tolkien Studies vol. 5](../T/Tolkien_Studies%253A_Volume_5.md)*)
 
 - 1940 —
-    - "Prefatory Remarks on Prose Translation of *Beowulf*", in *Beowulf and the Finnesburg Fragment* by John R. Clark Hall<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*)
+    - "Prefatory Remarks on Prose Translation of *Beowulf*", in *Beowulf and the Finnesburg Fragment* by John R. Clark Hall<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
 
 - 1944 —
-    - "*Sir Orfeo*"<br>- (edition of the Middle English poem, printed in booklets, reprinted in *[Tolkien Studies vol. 1](/wiki/Tolkien_Studies:_Volume_1 "Tolkien Studies: Volume 1")*)
+    - "*Sir Orfeo*"<br>- (edition of the Middle English poem, printed in booklets, reprinted in *[Tolkien Studies vol. 1](../T/Tolkien_Studies%253A_Volume_1.md)*)
 
 - 1946 —
     - "Research v. literature", in *The Sunday Times*<br>- (review of *English literature at the close of the Middle Ages* by E.K. Chambers)
 
 - 1947 —
     - "Iþþlen in *Sawles Warde*", in *English Studies*<br>- (essay, with S.R.T.O. d'Ardenne)
-    - "On Fairy-Stories", in *Essays presented to Charles Williams*<br>- (essay, reprinted in *[Tree and Leaf](/wiki/Tree_and_Leaf)*, *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*, *[Tales from the Perilous Realm](/wiki/Tales_from_the_Perilous_Realm)*, and as *[Tolkien On Fairy-stories](/wiki/Tolkien_On_Fairy-stories)*)
+    - "On Fairy-Stories", in *Essays presented to Charles Williams*<br>- (essay, reprinted in *[Tree and Leaf](../T/Tree_and_Leaf.md)*, *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*, *[Tales from the Perilous Realm](../T/Tales_from_the_Perilous_Realm.md)*, and as *[Tolkien On Fairy-stories](../T/Tolkien_On_Fairy-stories~23734.md)*)
 
 - 1948 —
     - "MS Bodley 34: A re-collation of a collation", in *Studia Neophilologica*<br>- (essay, with S.R.T.O. d'Ardenne)
 
 - 1953 —
-    - "Form and Purpose", in *Pearl* edited by E.V. Gordon<br>- (part of introduction, reprinted in *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](/wiki/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo)*)
-    - "A Fourteenth-Century Romance", in *Radio Times*<br>- (article, reprinted in *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](/wiki/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo)*)
-    - "Beorhtnoth's Death" and "Ofermod", in *Essays and Studies by members of the English Association*<br>- (two essays, reprinted in *[Tree and Leaf](/wiki/Tree_and_Leaf)* and *[The Battle of Maldon](/wiki/The_Battle_of_Maldon:_together_with_The_Homecoming_of_Beorhtnoth "The Battle of Maldon: together with The Homecoming of Beorhtnoth")*)
+    - "Form and Purpose", in *Pearl* edited by E.V. Gordon<br>- (part of introduction, reprinted in *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*)
+    - "A Fourteenth-Century Romance", in *Radio Times*<br>- (article, reprinted in *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*)
+    - "Beorhtnoth's Death" and "Ofermod", in *Essays and Studies by members of the English Association*<br>- (two essays, reprinted in *[Tree and Leaf](../T/Tree_and_Leaf.md)* and *[The Battle of Maldon](../T/The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md)*)
     - "Middle English 'Losenger'", in *Essais de philologie moderne (1951)*<br>- (essay)
 
 - 1963 —
-    - "English and Welsh", in *Angles and Britons*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*)
+    - "English and Welsh", in *Angles and Britons*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
 
 - 1966 —
-    - "Jonah", in *The Jerusalem Bible*<br>- (translation, reprinted in *[Journal of Inklings Studies (October 2014)](</wiki/Journal_of_Inklings_Studies_(October_2014)>)*)
+    - "Jonah", in *The Jerusalem Bible*<br>- (translation, reprinted in *[Journal of Inklings Studies (October 2014)](<../J/Journal_of_Inklings_Studies_(October_2014).md>)*)
 
 - 1979 —
-    - "Valedictory Address to the University of Oxford", in *J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](/wiki/The_Monsters_and_the_Critics,_and_Other_Essays)*)
+    - "Valedictory Address to the University of Oxford", in *J.R.R. Tolkien, Scholar and Storyteller: Essays in Memoriam*<br>- (essay, reprinted in *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)*)
 
 ## Minor texts {#Minor_texts}
 
 - 1910 —
-    - "Debating Society Report", in *[King Edward's School Chronicle](/wiki/King_Edward%27s_School_Chronicle)*, in 2 issues
+    - "Debating Society Report", in *[King Edward's School Chronicle](../K/King_Edward's_School_Chronicle.md)*, in 2 issues
 
 - 1911 —
     - "Acta Senatus" (debate report in Latin), in *King Edward's School Chronicle*
@@ -122,10 +121,10 @@ Assuredly, there exist many, many other media that contain even littler contribu
     - "Foreword", in *A New Glossary of the Dialect of the Huddersfield District* by Walter E. Haigh
 
 - 1932 —
-    - "A Philologist on Esperanto", in *British Esperantist*<br>- (letter, reprinted in *[SEVEN vol. 17](/wiki/SEVEN_17 "SEVEN 17")*)
+    - "A Philologist on Esperanto", in *British Esperantist*<br>- (letter, reprinted in *[SEVEN vol. 17](../S/SEVEN_17.md)*)
 
 - 1938 —
-    - "Letter to the editor", in *The Observer*<br>- (reprinted as [Letter 25](/wiki/Letter_25))
+    - "Letter to the editor", in *The Observer*<br>- (reprinted as [Letter 25](../L/Letter_25.md))
 
 - 1945 —
     - "The Name Coventry", in *Catholic Herald*<br>- (letter to the editor)
@@ -143,7 +142,7 @@ Assuredly, there exist many, many other media that contain even littler contribu
     - "Statement", in *Attacks of Taste* compiled and edited by Evelyn B. Byrne and Otto M. Penzler
 
 - 1972 —
-    - "Beautiful Place because Trees are Loved", in *Daily Telegraph*<br>- (letter to the editor, reprinted as [Letter 339](/wiki/Letter_339))
+    - "Beautiful Place because Trees are Loved", in *Daily Telegraph*<br>- (letter to the editor, reprinted as [Letter 339](../L/Letter_339.md))
 
 ## Further consideration {#Further_consideration}
 

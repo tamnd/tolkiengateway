@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwathel"
 ---
 
-Redirect to [Gwathel](/wiki/Gwathel).
+Redirect to [Gwathel](Gwathel.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Sotheby's Illustrated and Children's Books and Drawings General Books and Maps 11 and 18 May 2000.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sotheby&#039;s Illustrated and Children&#039;s Books and Drawings General Books and Maps 11 and 18 May 2000.png</span>"
 page_id: 38062
 namespace: 6
 revision_id: 215428

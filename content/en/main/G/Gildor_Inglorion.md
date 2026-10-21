@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gildor"
 ---
 
-Redirect to [Gildor](/wiki/Gildor).
+Redirect to [Gildor](Gildor.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Tolkien Diary 1995 cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Tolkien Diary 1995 cover.jpg</span>"
 page_id: 65149
 namespace: 6
 revision_id: 375018

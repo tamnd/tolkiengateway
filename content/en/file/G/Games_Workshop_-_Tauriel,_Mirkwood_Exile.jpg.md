@@ -1,6 +1,5 @@
 ---
 title: "File:Games Workshop - Tauriel, Mirkwood Exile.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Games Workshop - Tauriel, Mirkwood Exile.jpg</span>"
 page_id: 53348
 namespace: 6
 revision_id: 290379

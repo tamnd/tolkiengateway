@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Tale of Tinúviel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Tale of Tinúviel.png</span>"
 page_id: 64002
 namespace: 6
 revision_id: 365163
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-A page from the manuscript of the [Tale of Tinúviel](/wiki/Tale_of_Tin%C3%BAviel). This corresponds with *[The Book of Lost Tales Part Two](/wiki/The_Book_of_Lost_Tales_Part_Two)*, pp 24-6.
+A page from the manuscript of the [Tale of Tinúviel](../../main/T/Tale_of_Tinúviel.md). This corresponds with *[The Book of Lost Tales Part Two](../../main/T/The_Book_of_Lost_Tales_Part_Two.md)*, pp 24-6.
 
 ## Licensing {#Licensing}
 

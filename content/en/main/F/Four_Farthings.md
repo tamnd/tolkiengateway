@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Farthings"
 ---
 
-Redirect to [Farthings](/wiki/Farthings).
+Redirect to [Farthings](Farthings.md).

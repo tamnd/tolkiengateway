@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - J.R.R. Tolkien Architect of Middle-earth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - J.R.R. Tolkien Architect of Middle-earth.jpg</span>"
 page_id: 74882
 namespace: 6
 revision_id: 440614
@@ -31,7 +30,7 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">The Brothers Hildebrandt - J.R.R. Tolkien Architect of Middle-earth.jpg</span></th>
 <td class="description">
-<p>Cover art for <a href="/wiki/J.R.R._Tolkien:_Architect_of_Middle-earth" title="J.R.R. Tolkien: Architect of Middle-earth">J.R.R. Tolkien: Architect of Middle-earth</a>
+<p>Cover art for <a href="../../main/J/J.R.R._Tolkien%253A_Architect_of_Middle-earth.md" title="J.R.R. Tolkien: Architect of Middle-earth">J.R.R. Tolkien: Architect of Middle-earth</a>
 </p>
 </td>
 </tr>
@@ -43,16 +42,14 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Medium</th>
 <td>Acrylic on board</td>
 </tr>
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/The_Brothers_Hildebrandt" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
+<td><a href="../../main/T/The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://fineart.ha.com/itm/paintings/greg-hildebrandt-american-b-1939-and-tim-hildebrandt-american-1939-2006-j-randlt-/a/7016-96144.s" rel="noreferrer noopener" target="_blank">Heritage Auction</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 ## Licensing {#Licensing}

@@ -1,6 +1,5 @@
 ---
 title: "File:In the Nameless Wood.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">In the Nameless Wood.png</span>"
 page_id: 47602
 namespace: 6
 revision_id: 350902

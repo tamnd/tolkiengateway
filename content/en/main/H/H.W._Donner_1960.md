@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to H.W. Donner"
 ---
 
-Redirect to [Letter to H.W. Donner](/wiki/Letter_to_H.W._Donner).
+Redirect to [Letter to H.W. Donner](../L/Letter_to_H.W._Donner.md).

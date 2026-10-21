@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:John Howe - The Drowning of Numenor.jpg"
 ---
 
-Redirect to [File:John Howe - The Drowning of Numenor.jpg](/wiki/File:John_Howe_-_The_Drowning_of_Numenor.jpg).
+Redirect to [File:John Howe - The Drowning of Numenor.jpg](John_Howe_-_The_Drowning_of_Numenor.jpg.md).

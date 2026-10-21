@@ -1,6 +1,5 @@
 ---
 title: "Brian Talbot"
-display_title: "<span class=\"mw-page-title-main\">Brian Talbot</span>"
 page_id: 28001
 namespace: 0
 revision_id: 157775
@@ -19,11 +18,11 @@ sort_keys:
   "People by name": "Talbot, Brian"
 ---
 
-**Brian Talbot** ([June 7](/wiki/7_June "7 June"), [1964](/wiki/1964)) is an American actor.
+**Brian Talbot** ([June 7](../_/7_June.md), [1964](../_/1964.md)) is an American actor.
 
 ## Roles {#Roles}
 
-- [2007](/wiki/2007): *[The Lord of the Rings Online: Shadows of Angmar](/wiki/The_Lord_of_the_Rings_Online:_Shadows_of_Angmar)*: Additional voices
+- [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*: Additional voices
 
 ## External links {#External_links}
 

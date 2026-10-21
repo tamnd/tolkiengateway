@@ -13,8 +13,8 @@ categories:
   - "Sindarin nouns"
 ---
 
-**gwar** is the [Sindarin](/wiki/Sindarin) word for *watch*. Its gerund is *gwared* "watching", but we see also the form *gwareth*.
+**gwar** is the [Sindarin](../S/Sindarin.md) word for *watch*. Its gerund is *gwared* "watching", but we see also the form *gwareth*.
 
 ## Examples and Instances {#Examples_and_Instances}
 
-- *[Amon Gwareth](/wiki/Amon_Gwareth)*
+- *[Amon Gwareth](../A/Amon_Gwareth.md)*

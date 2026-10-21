@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings: The Duel (video game)"
 ---
 
-Redirect to [Lord of the Rings: The Duel (video game)](/wiki/Lord_of_the_Rings:_The_Duel_(video_game)).
+Redirect to [Lord of the Rings: The Duel (video game)](<Lord_of_the_Rings%253A_The_Duel_(video_game).md>).

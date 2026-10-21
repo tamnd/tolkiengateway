@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cows"
 ---
 
-Redirect to [Cows](/wiki/Cows).
+Redirect to [Cows](../C/Cows.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to John Higgins"
 ---
 
-Redirect to [Letter to John Higgins](/wiki/Letter_to_John_Higgins).
+Redirect to [Letter to John Higgins](../L/Letter_to_John_Higgins.md).

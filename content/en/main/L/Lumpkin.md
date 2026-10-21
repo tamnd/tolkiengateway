@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fatty Lumpkin"
 ---
 
-Redirect to [Fatty Lumpkin](/wiki/Fatty_Lumpkin).
+Redirect to [Fatty Lumpkin](../F/Fatty_Lumpkin.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Troll2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Troll2.jpg</span>"
 page_id: 29047
 namespace: 6
 revision_id: 169330
@@ -27,7 +26,7 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn) fights a [troll](/wiki/Trolls "Trolls") at the [Battle of the Pelennor Fields](/wiki/Battle_of_the_Pelennor_Fields).
+[Aragorn](../../main/A/Aragorn.md) fights a [troll](../../main/T/Trolls.md) at the [Battle of the Pelennor Fields](../../main/B/Battle_of_the_Pelennor_Fields.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

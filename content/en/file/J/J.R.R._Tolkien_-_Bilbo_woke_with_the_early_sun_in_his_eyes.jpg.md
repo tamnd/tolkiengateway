@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Bilbo woke with the early sun in his eyes.jpg</span>"
 page_id: 5475
 namespace: 6
 revision_id: 440309
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-This painting, to illustrate the first words of Chapter 7 of [The Hobbit](/wiki/The_Hobbit) ([Queer Lodgings](/wiki/Queer_Lodgings)), was not used in the first English impression to contain coloured pictures, but appeared in the first American edition, 1938. It was reproduced in [The J.R.R. Tolkien Calendar 1973](/wiki/The_J.R.R._Tolkien_Calendar_1973) and 1974 and in [The Hobbit Calendar 1976](/wiki/The_Hobbit_Calendar_1976). The eagle was inspired by the painting of a Golden Eagle by Archibald Thorburn.
+This painting, to illustrate the first words of Chapter 7 of [The Hobbit](../../main/T/The_Hobbit.md) ([Queer Lodgings](../../main/Q/Queer_Lodgings.md)), was not used in the first English impression to contain coloured pictures, but appeared in the first American edition, 1938. It was reproduced in [The J.R.R. Tolkien Calendar 1973](../../main/T/The_J.R.R._Tolkien_Calendar_1973.md) and 1974 and in [The Hobbit Calendar 1976](../../main/T/The_Hobbit_Calendar_1976.md). The eagle was inspired by the painting of a Golden Eagle by Archibald Thorburn.
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Steven Jay Blum"
 ---
 
-Redirect to [Steven Jay Blum](/wiki/Steven_Jay_Blum).
+Redirect to [Steven Jay Blum](Steven_Jay_Blum.md).

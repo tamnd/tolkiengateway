@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Korin"
 ---
 
-Redirect to [Korin](/wiki/Korin).
+Redirect to [Korin](../K/Korin.md).

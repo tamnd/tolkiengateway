@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isengard and Northern Gondor"
 ---
 
-Redirect to [Isengard and Northern Gondor](/wiki/Isengard_and_Northern_Gondor).
+Redirect to [Isengard and Northern Gondor](Isengard_and_Northern_Gondor.md).

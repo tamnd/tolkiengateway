@@ -1,6 +1,5 @@
 ---
 title: "File:The Brothers Hildebrandt - Gimli and Legolas.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Brothers Hildebrandt - Gimli and Legolas.jpg</span>"
 page_id: 72356
 namespace: 6
 revision_id: 429948
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Gimli](/wiki/Gimli) and [Legolas](/wiki/Legolas)" by [The Brothers Hildebrandt](/wiki/The_Brothers_Hildebrandt), first published as the cover of the *[1978 J.R.R. Tolkien Calendar](/wiki/1978_J.R.R._Tolkien_Calendar)*.
+"[Gimli](../../main/G/Gimli.md) and [Legolas](../../main/L/Legolas.md)" by [The Brothers Hildebrandt](../../main/T/The_Brothers_Hildebrandt.md), first published as the cover of the *[1978 J.R.R. Tolkien Calendar](../../main/_/1978_J.R.R._Tolkien_Calendar.md)*.
 
 ## Licensing {#Licensing}
 

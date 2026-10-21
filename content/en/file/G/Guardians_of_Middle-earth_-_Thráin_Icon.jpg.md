@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Thráin Icon.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Thráin Icon.jpg</span>"
 page_id: 71393
 namespace: 6
 revision_id: 425926
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thráin](/wiki/Thr%C3%A1in) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+[Thráin](../../main/T/Thráin.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

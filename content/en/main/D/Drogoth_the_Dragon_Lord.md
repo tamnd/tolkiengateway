@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drogoth"
 ---
 
-Redirect to [Drogoth](/wiki/Drogoth).
+Redirect to [Drogoth](Drogoth.md).

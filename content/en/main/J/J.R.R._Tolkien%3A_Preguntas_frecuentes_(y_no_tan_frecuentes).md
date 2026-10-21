@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien: Preguntas frecuentes (y no tan frecuentes)"
 ---
 
-Redirect to [Tolkien: Preguntas frecuentes (y no tan frecuentes)](/wiki/Tolkien:_Preguntas_frecuentes_(y_no_tan_frecuentes)).
+Redirect to [Tolkien: Preguntas frecuentes (y no tan frecuentes)](<../T/Tolkien%253A_Preguntas_frecuentes_(y_no_tan_frecuentes).md>).

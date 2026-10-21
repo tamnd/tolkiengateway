@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "SKŪ"
 ---
 
-Redirect to [SKŪ](/wiki/SKŪ).
+Redirect to [SKŪ](../S/SKŪ.md).

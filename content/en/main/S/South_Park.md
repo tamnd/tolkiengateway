@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Return of the Fellowship of the Ring to the Two Towers"
 ---
 
-Redirect to [The Return of the Fellowship of the Ring to the Two Towers](/wiki/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers).
+Redirect to [The Return of the Fellowship of the Ring to the Two Towers](../T/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fields of the Pelennor"
 ---
 
-Redirect to [The Fields of the Pelennor](/wiki/The_Fields_of_the_Pelennor).
+Redirect to [The Fields of the Pelennor](The_Fields_of_the_Pelennor.md).

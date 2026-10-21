@@ -1,6 +1,5 @@
 ---
 title: "Rodney Matthews"
-display_title: "<span class=\"mw-page-title-main\">Rodney Matthews</span>"
 page_id: 7166
 namespace: 0
 revision_id: 407119
@@ -19,13 +18,13 @@ sort_keys:
   "People by name": "Matthews, Rodney"
 ---
 
-**Rodney Matthews** has illustrated numerous [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-themed calendars.
+**Rodney Matthews** has illustrated numerous [Tolkien](../J/J.R.R._Tolkien.md)-themed calendars.
 
 ## Illustrated Calendars {#Illustrated_Calendars}
 
-- [Storybook Collection - Rodney Mathews 1990 Calendar](/wiki/Storybook_Collection_-_Rodney_Mathews_1990_Calendar)
-- [Rodney Matthews Fantasy Images 1996 Calendar](/wiki/Rodney_Matthews_Fantasy_Images_1996_Calendar)
-- [Rodney Matthews 2003 Calendar](/wiki/Rodney_Matthews_2003_Calendar)
+- [Storybook Collection - Rodney Mathews 1990 Calendar](../S/Storybook_Collection_-_Rodney_Mathews_1990_Calendar.md)
+- [Rodney Matthews Fantasy Images 1996 Calendar](Rodney_Matthews_Fantasy_Images_1996_Calendar.md)
+- [Rodney Matthews 2003 Calendar](Rodney_Matthews_2003_Calendar.md)
 
 ## External links {#External_links}
 

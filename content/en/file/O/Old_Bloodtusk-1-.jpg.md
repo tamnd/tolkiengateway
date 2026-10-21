@@ -1,6 +1,5 @@
 ---
 title: "File:Old Bloodtusk-1-.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Old Bloodtusk-1-.jpg</span>"
 page_id: 35701
 namespace: 6
 revision_id: 275045

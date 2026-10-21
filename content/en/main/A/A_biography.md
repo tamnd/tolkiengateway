@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien: A Biography"
 ---
 
-Redirect to [J.R.R. Tolkien: A Biography](/wiki/J.R.R._Tolkien:_A_Biography).
+Redirect to [J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md).

@@ -13,13 +13,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-**aer** is a [Sindarin](/wiki/Sindarin) word meaning "sea" or "holy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") changed the word several times, see also [aear](/wiki/Aear "Aear") and <a class="new" href="/w/index.php?title=Gaear&amp;action=edit&amp;redlink=1" title="Gaear (page does not exist)">gaear</a>.
+**aer** is a [Sindarin](../S/Sindarin.md) word meaning "sea" or "holy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) changed the word several times, see also [aear](Aear.md) and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gaear&amp;action=edit&amp;redlink=1" title="Gaear (page does not exist)">gaear</a>.
 
 <br> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/Vinyar_Tengwar_44" title="Vinyar Tengwar 44"><i>Vinyar Tengwar</i>, Number 44</a>, June 2002, p.21, 24</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../V/Vinyar_Tengwar_44.md" title="Vinyar Tengwar 44"><i>Vinyar Tengwar</i>, Number 44</a>, June 2002, p.21, 24</span>
 </li>
 </ol></div>

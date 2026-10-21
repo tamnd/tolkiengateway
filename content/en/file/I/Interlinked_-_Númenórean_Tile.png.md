@@ -1,6 +1,5 @@
 ---
 title: "File:Interlinked - Númenórean Tile.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Interlinked - Númenórean Tile.png</span>"
 page_id: 68787
 namespace: 6
 revision_id: 409904
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Clean redrawn by [User:Interlinked](/wiki/User:Interlinked) from [Tolkien](/wiki/Tolkien)'s drawing of a [Númenórean](/wiki/N%C3%BAmen%C3%B3reans "Númenóreans") <a class="new" href="/w/index.php?title=File:J.R.R._Tolkien_-_Tile_1.jpg&amp;action=edit&amp;redlink=1" title="File:J.R.R. Tolkien - Tile 1.jpg (page does not exist)">Tile</a>.
+Clean redrawn by [User:Interlinked](https://tolkiengateway.net/wiki/User:Interlinked) from [Tolkien](../../main/T/Tolkien.md)'s drawing of a [Númenórean](../../main/N/Númenóreans.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=File:J.R.R._Tolkien_-_Tile_1.jpg&amp;action=edit&amp;redlink=1" title="File:J.R.R. Tolkien - Tile 1.jpg (page does not exist)">Tile</a>.
 
 <br>
 

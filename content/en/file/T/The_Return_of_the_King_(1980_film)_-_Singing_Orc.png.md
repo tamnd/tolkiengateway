@@ -1,6 +1,5 @@
 ---
 title: "File:The Return of the King (1980 film) - Singing Orc.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Return of the King (1980 film) - Singing Orc.png</span>"
 page_id: 24673
 namespace: 6
 revision_id: 260541
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Singing Orc](/wiki/Where_There%27s_a_Whip,_There%27s_a_Way "Where There's a Whip, There's a Way") for [userboxes](/wiki/Tolkien_Gateway:Userboxes "Tolkien Gateway:Userboxes").
+[Singing Orc](../../main/W/Where_There's_a_Whip,_There's_a_Way.md) for [userboxes](../../project/U/Userboxes.md).
 
 ## Licensing {#Licensing}
 

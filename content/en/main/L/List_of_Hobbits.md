@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Hobbits"
 ---
 
-Redirect to [Category:Hobbits](/wiki/Category:Hobbits).
+Redirect to [Category:Hobbits](../../category/H/Hobbits.md).

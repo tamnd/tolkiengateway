@@ -1,6 +1,5 @@
 ---
 title: "File:Sam Hazeldine.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sam Hazeldine.jpg</span>"
 page_id: 64264
 namespace: 6
 revision_id: 434524
@@ -34,9 +33,6 @@ file:
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Anthony Harvey</td>
@@ -45,7 +41,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.gettyimages.be/detail/nieuwsfoto%27s/sam-hazeldine-attands-the-world-premiere-of-grimsby-at-nieuwsfotos/511757738" rel="noreferrer noopener" target="_blank">Getty</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

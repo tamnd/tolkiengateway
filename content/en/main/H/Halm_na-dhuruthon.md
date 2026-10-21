@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Turuhalmë"
 ---
 
-Redirect to [Turuhalmë](/wiki/Turuhalmë).
+Redirect to [Turuhalmë](../T/Turuhalmë.md).

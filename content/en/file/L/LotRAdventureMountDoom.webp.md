@@ -1,6 +1,5 @@
 ---
 title: "File:LotRAdventureMountDoom.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LotRAdventureMountDoom.webp</span>"
 page_id: 70020
 namespace: 6
 revision_id: 416335

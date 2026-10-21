@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings (1978 film) - Following the Orcs.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings (1978 film) - Following the Orcs.png</span>"
 page_id: 22784
 namespace: 6
 revision_id: 238165
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-[Aragorn](/wiki/Aragorn) finds [Pippin](/wiki/Peregrin_Took "Peregrin Took")'s brooch, with [Legolas](/wiki/Legolas) and [Gimli](/wiki/Gimli). Screenshot from [*The Lord of the Rings* (1978 film)](</wiki/The_Lord_of_the_Rings_(1978_film)> "The Lord of the Rings (1978 film)").
+[Aragorn](../../main/A/Aragorn.md) finds [Pippin](../../main/P/Peregrin_Took.md)'s brooch, with [Legolas](../../main/L/Legolas.md) and [Gimli](../../main/G/Gimli.md). Screenshot from [*The Lord of the Rings* (1978 film)](<../../main/T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Licensing {#Licensing}
 

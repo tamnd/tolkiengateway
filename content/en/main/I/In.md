@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "În"
 ---
 
-Redirect to [În](/wiki/În).
+Redirect to [În](../_/În.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Narrators"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Narrators</span>"
 page_id: 19265
 namespace: 14
 revision_id: 115602

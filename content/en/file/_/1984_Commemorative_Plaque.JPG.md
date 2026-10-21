@@ -1,6 +1,5 @@
 ---
 title: "File:1984 Commemorative Plaque.JPG"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">1984 Commemorative Plaque.JPG</span>"
 page_id: 38058
 namespace: 6
 revision_id: 199197

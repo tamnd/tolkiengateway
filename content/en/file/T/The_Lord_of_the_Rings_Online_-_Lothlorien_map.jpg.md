@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Lothlorien map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Lothlorien map.jpg</span>"
 page_id: 38658
 namespace: 6
 revision_id: 362756
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Lothlórien](/wiki/Lothl%C3%B3rien) and the [Dimrill Dale](/wiki/Dimrill_Dale) as they appear in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [Lothlórien](../../main/L/Lothlórien.md) and the [Dimrill Dale](../../main/D/Dimrill_Dale.md) as they appear in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

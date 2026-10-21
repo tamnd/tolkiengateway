@@ -1,6 +1,5 @@
 ---
 title: "File:Miriam Ellis - Hamson Gamgee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Miriam Ellis - Hamson Gamgee.png</span>"
 page_id: 72145
 namespace: 6
 revision_id: 429062

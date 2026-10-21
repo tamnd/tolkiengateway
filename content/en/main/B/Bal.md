@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balan"
 ---
 
-Redirect to [Balan](/wiki/Balan).
+Redirect to [Balan](Balan.md).

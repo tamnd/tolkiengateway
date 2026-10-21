@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nan Dungortheb"
 ---
 
-Redirect to [Nan Dungortheb](/wiki/Nan_Dungortheb).
+Redirect to [Nan Dungortheb](Nan_Dungortheb.md).

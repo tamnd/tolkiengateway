@@ -1,6 +1,5 @@
 ---
 title: "Help:Redirect"
-display_title: "<span class=\"mw-page-title-namespace\">Help</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Redirect</span>"
 page_id: 69574
 namespace: 12
 revision_id: 414517
@@ -29,8 +28,8 @@ Redirects for the different names of a subject should lead directly to the artic
 
 ## Example {#Example}
 
-The Redirect page "<a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ol%C3%B3rin&amp;redirect=no" rel="noreferrer noopener" target="_blank">Olórin</a>" redirects to [Gandalf](/wiki/Gandalf) using the following syntax:
+The Redirect page "<a class="external text" href="https://tolkiengateway.net/w/index.php?title=Ol%C3%B3rin&amp;redirect=no" rel="noreferrer noopener" target="_blank">Olórin</a>" redirects to [Gandalf](../../main/G/Gandalf.md) using the following syntax:
 
 <pre>#REDIRECT [[Gandalf]]</pre>
 
-This Redirect page includes the "[Category:Maiar](/wiki/Category:Maiar)" and "[Category:Quenya names](/wiki/Category:Quenya_names)" because this is Gandalf's name as a [Maia](/wiki/Maia) and it is also a [Quenya](/wiki/Quenya) name; it does not require all the other categories applied to Galdalf like "[Category:Characters in The Hobbit](/wiki/Category:Characters_in_The_Hobbit)".
+This Redirect page includes the "[Category:Maiar](../../category/M/Maiar.md)" and "[Category:Quenya names](../../category/Q/Quenya_names.md)" because this is Gandalf's name as a [Maia](../../main/M/Maia.md) and it is also a [Quenya](../../main/Q/Quenya.md) name; it does not require all the other categories applied to Galdalf like "[Category:Characters in The Hobbit](../../category/C/Characters_in_The_Hobbit.md)".

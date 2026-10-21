@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Míriel"
 ---
 
-Redirect to [Míriel](/wiki/Míriel).
+Redirect to [Míriel](Míriel.md).

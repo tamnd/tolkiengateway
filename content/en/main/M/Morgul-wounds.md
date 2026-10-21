@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgul-wound"
 ---
 
-Redirect to [Morgul-wound](/wiki/Morgul-wound).
+Redirect to [Morgul-wound](Morgul-wound.md).

@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (2003) - Master of Lake-town.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (2003) - Master of Lake-town.png</span>"
 page_id: 71392
 namespace: 6
 revision_id: 425924
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Master of Lake-town](/wiki/Master_of_Lake-town) - [*The Hobbit* (2003 video game)](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")
+The [Master of Lake-town](../../main/M/Master_of_Lake-town.md) - [*The Hobbit* (2003 video game)](<../../main/T/The_Hobbit_(2003_video_game).md>)
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.activision.com/" rel="noreferrer noopener" target="_blank">Activision</a>. It is believed that the limited use of this file,

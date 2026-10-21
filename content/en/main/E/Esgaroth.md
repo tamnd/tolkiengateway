@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lake-town"
 ---
 
-Redirect to [Lake-town](/wiki/Lake-town).
+Redirect to [Lake-town](../L/Lake-town.md).

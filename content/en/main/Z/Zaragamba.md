@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Zaragamba Family"
 ---
 
-Redirect to [Zaragamba Family](/wiki/Zaragamba_Family).
+Redirect to [Zaragamba Family](Zaragamba_Family.md).

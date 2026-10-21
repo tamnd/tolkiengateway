@@ -1,6 +1,5 @@
 ---
 title: "File:Gareth Sleightholme - Bard + Smaug (colour).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gareth Sleightholme - Bard + Smaug (colour).png</span>"
 page_id: 74268
 namespace: 6
 revision_id: 437608
@@ -34,25 +33,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Gareth Sleightholme - Bard + Smaug (colour).png</span></th>
 <td class="description">
-<p>Coloured and more detailed version of <a href="/wiki/File:Gareth_Sleightholme_-_Bard_%2B_Smaug.jpg" title="File:Gareth Sleightholme - Bard + Smaug.jpg">File:Gareth Sleightholme - Bard + Smaug.jpg</a>
+<p>Coloured and more detailed version of <a href="Gareth_Sleightholme_-_Bard_+_Smaug.jpg.md" title="File:Gareth Sleightholme - Bard + Smaug.jpg">File:Gareth Sleightholme - Bard + Smaug.jpg</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/1_November" title="1 November">November 1</a> <a href="/wiki/2021" title="2021">2021</a></td>
+<td><a href="../../main/_/1_November.md" title="1 November">November 1</a> <a href="../../main/_/2021.md" title="2021">2021</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_Gareth_Sleightholme" title="Category:Images by Gareth Sleightholme">Gareth Sleightholme</a></td>
+<td><a href="../../category/I/Images_by_Gareth_Sleightholme.md" title="Category:Images by Gareth Sleightholme">Gareth Sleightholme</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.youtube.com/watch?v=8PyvFU_VPww" rel="noreferrer noopener" target="_blank">https://www.youtube.com/watch?v=8PyvFU_VPww</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Gareth Sleightholme</span></span>
@@ -60,4 +56,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Gareth Sleightholme</li>
 <li><b>Website:</b> <a class="external text" href="https://hesir.artstation.com/" rel="noreferrer noopener" target="_blank">ArtStation</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Gareth_Sleightholme" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FGareth_Sleightholme.md" title="Tolkien Gateway:Copyrights/Gareth Sleightholme">Permission for use on Tolkien Gateway</a></b></li></ul></div>

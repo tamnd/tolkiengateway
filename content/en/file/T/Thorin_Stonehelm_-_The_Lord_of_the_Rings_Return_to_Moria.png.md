@@ -1,6 +1,5 @@
 ---
 title: "File:Thorin Stonehelm - The Lord of the Rings Return to Moria.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Thorin Stonehelm - The Lord of the Rings Return to Moria.png</span>"
 page_id: 67575
 namespace: 6
 revision_id: 393350
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[Thorin Stonehelm](/wiki/Thorin_Stonehelm) as depicted in *[The Lord of the Rings: Return to Moria](/wiki/The_Lord_of_the_Rings:_Return_to_Moria)*.
+[Thorin Stonehelm](../../main/T/Thorin_Stonehelm.md) as depicted in *[The Lord of the Rings: Return to Moria](../../main/T/The_Lord_of_the_Rings%253A_Return_to_Moria.md)*.
 
 ## Licensing {#Licensing}
 

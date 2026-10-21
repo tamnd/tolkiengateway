@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goldilocks Gardner"
 ---
 
-Redirect to [Goldilocks Gardner](/wiki/Goldilocks_Gardner).
+Redirect to [Goldilocks Gardner](Goldilocks_Gardner.md).

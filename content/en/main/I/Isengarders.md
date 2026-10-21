@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs of Isengard"
 ---
 
-Redirect to [Orcs of Isengard](/wiki/Orcs_of_Isengard).
+Redirect to [Orcs of Isengard](../O/Orcs_of_Isengard.md).

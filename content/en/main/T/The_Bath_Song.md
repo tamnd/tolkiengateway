@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bath-songs"
 ---
 
-Redirect to [Bath-songs](/wiki/Bath-songs).
+Redirect to [Bath-songs](../B/Bath-songs.md).

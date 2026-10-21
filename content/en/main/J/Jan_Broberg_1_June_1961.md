@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Jan Broberg"
 ---
 
-Redirect to [Letter to Jan Broberg](/wiki/Letter_to_Jan_Broberg).
+Redirect to [Letter to Jan Broberg](../L/Letter_to_Jan_Broberg.md).

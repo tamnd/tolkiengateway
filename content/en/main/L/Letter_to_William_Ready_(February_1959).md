@@ -15,23 +15,23 @@ sort_keys:
   "Letters": "Ready, William (1959-02)"
 ---
 
-On [February](/wiki/February) [1959](/wiki/1959), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_%22The_Letters_of_J.R.R._Tolkien%22 "Letters not published in \"The Letters of J.R.R. Tolkien\"") to [William Ready](/wiki/William_Ready)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+On [February](../F/February.md) [1959](../_/1959.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) to [William Ready](../W/William_Ready.md)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 - **Description:** Handwritten letter.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 - **Subject:** Making arrangements for the transfer of money through Bertram Rota for the purchase of the original manuscripts of *The Lord of the Rings*.
 - **Publication:** None.
-- **Archive:** The original letter is kept at [Marquette University](/wiki/Marquette_University).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Archive:** The original letter is kept at [Marquette University](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [Letter to William Ready (5 March 1959)](</wiki/Letter_to_William_Ready_(5_March_1959)>)
-- [Letter to William Ready (9 June 1957)](</wiki/Letter_to_William_Ready_(9_June_1957)>)
+- [Letter to William Ready (5 March 1959)](<Letter_to_William_Ready_(5_March_1959).md>)
+- [Letter to William Ready (9 June 1957)](<Letter_to_William_Ready_(9_June_1957).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Marq-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Marq_1-0">1.0</a></sup> <sup><a href="#cite_ref-Marq_1-1">1.1</a></sup> <sup><a href="#cite_ref-Marq_1-2">1.2</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
+<li id="cite_note-Marq-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Marq_1-0">1.0</a></sup> <sup><a href="#cite_ref-Marq_1-1">1.1</a></sup> <sup><a href="#cite_ref-Marq_1-2">1.2</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.marquette.edu/library/archives/Mss/JRRT/JRRT-series7.shtml" rel="noreferrer noopener" target="_blank">&#34;J.R.R. Tolkien Collection: Other Tolkien Writings, 1911-1976&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.marquette.edu/" rel="noreferrer noopener" target="_blank">Marquette.edu</a></span>. <span class="cite-web-accessed">Retrieved 25 May 2013</span></cite></span>
 </li>
 </ol></div>

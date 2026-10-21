@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - House Where Rover Began His Adventures as a Toy.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - House Where Rover Began His Adventures as a Toy.jpg</span>"
 page_id: 46499
 namespace: 6
 revision_id: 426539
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* and on the <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">website</a> of the [Tolkien Estate](/wiki/Tolkien_Estate), where it is entitled <i><b>House where Rover began his adventures as a toy</b></i>.
+This illustration can be found within *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* and on the <a class="external text" href="https://www.tolkienestate.com/painting/for-children/" rel="noreferrer noopener" target="_blank">website</a> of the [Tolkien Estate](../../main/T/Tolkien_Estate.md), where it is entitled <i><b>House where Rover began his adventures as a toy</b></i>.
 
 ## Licensing {#Licensing}
 

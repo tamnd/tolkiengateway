@@ -1,6 +1,5 @@
 ---
 title: "File:The Hunt for Gollum logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hunt for Gollum logo.jpg</span>"
 page_id: 17364
 namespace: 6
 revision_id: 249285

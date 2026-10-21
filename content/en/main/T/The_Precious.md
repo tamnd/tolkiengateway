@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Precious"
 ---
 
-Redirect to [Precious](/wiki/Precious).
+Redirect to [Precious](../P/Precious.md).

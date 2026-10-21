@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Henry Willink"
 ---
 
-Redirect to [Letter to Henry Willink](/wiki/Letter_to_Henry_Willink).
+Redirect to [Letter to Henry Willink](../L/Letter_to_Henry_Willink.md).

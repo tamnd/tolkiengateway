@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gladden (disambiguation)"
 ---
 
-Redirect to [Gladden (disambiguation)](/wiki/Gladden_(disambiguation)).
+Redirect to [Gladden (disambiguation)](<Gladden_(disambiguation).md>).

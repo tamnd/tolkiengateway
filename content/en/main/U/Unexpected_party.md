@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "An Unexpected Party"
 ---
 
-Redirect to [An Unexpected Party](/wiki/An_Unexpected_Party).
+Redirect to [An Unexpected Party](../A/An_Unexpected_Party.md).

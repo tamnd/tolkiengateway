@@ -1,6 +1,5 @@
 ---
 title: "Eket"
-display_title: "<span class=\"mw-page-title-main\">Eket</span>"
 page_id: 17833
 namespace: 0
 revision_id: 381897
@@ -23,9 +22,9 @@ langlinks:
     url: "https://www.tolkiendil.com/Eket"
 ---
 
-The **eket** was a short stabbing sword wielded by the [Númenóreans](/wiki/N%C3%BAmen%C3%B3reans). It was described as *"a short stabbing sword with a broad blade, pointed and two-edged, from a foot to one and a half feet long."*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It also can be assumed that it was longer at times and similar in appearance to [Barrow-blades](/wiki/Daggers_of_Westernesse "Daggers of Westernesse").<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+The **eket** was a short stabbing sword wielded by the [Númenóreans](../N/Númenóreans.md). It was described as *"a short stabbing sword with a broad blade, pointed and two-edged, from a foot to one and a half feet long."*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It also can be assumed that it was longer at times and similar in appearance to [Barrow-blades](../D/Daggers_of_Westernesse.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-[Isildur](/wiki/Isildur) carried one on his way to [Arnor](/wiki/Arnor). While escaping the [Disaster of the Gladden Fields](/wiki/Disaster_of_the_Gladden_Fields), he retained the eket after discarding the rest of his war gear to swim across [Anduin](/wiki/Anduin).
+[Isildur](../I/Isildur.md) carried one on his way to [Arnor](../A/Arnor.md). While escaping the [Disaster of the Gladden Fields](../D/Disaster_of_the_Gladden_Fields.md), he retained the eket after discarding the rest of his war gear to swim across [Anduin](../A/Anduin.md).
 
 ## Inspiration {#Inspiration}
 
@@ -36,6 +35,6 @@ The sword's description is similar in many ways to the <i><a class="extiw" href=
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/Unfinished_Tales" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="/wiki/The_Disaster_of_the_Gladden_Fields" title="The Disaster of the Gladden Fields">The Disaster of the Gladden Fields</a>&#34;, note 28</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">The Disaster of the Gladden Fields</a>&#34;, note 28</span>
 </li>
 </ol></div>

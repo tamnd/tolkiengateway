@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Reunited Kingdom"
 ---
 
-Redirect to [Reunited Kingdom](/wiki/Reunited_Kingdom).
+Redirect to [Reunited Kingdom](Reunited_Kingdom.md).

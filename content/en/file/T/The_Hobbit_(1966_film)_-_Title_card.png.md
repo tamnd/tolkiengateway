@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Hobbit (1967 film) - Title card.png"
 ---
 
-Redirect to [File:The Hobbit (1967 film) - Title card.png](/wiki/File:The_Hobbit_(1967_film)_-_Title_card.png).
+Redirect to [File:The Hobbit (1967 film) - Title card.png](<The_Hobbit_(1967_film)_-_Title_card.png.md>).

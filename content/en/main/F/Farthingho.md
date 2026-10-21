@@ -1,6 +1,5 @@
 ---
 title: "Farthingho"
-display_title: "<span class=\"mw-page-title-main\">Farthingho</span>"
 page_id: 36103
 namespace: 0
 revision_id: 256802
@@ -22,11 +21,11 @@ langlinks:
     url: "https://kontu.wiki/Farthingho"
 ---
 
-**Farthingho** was where at one time an outpost was maintained by the [Little Kingdom](/wiki/Little_Kingdom) of King [Ægidius Draconarius](/wiki/Farmer_Giles "Farmer Giles") against the [Middle Kingdom](/wiki/Middle_Kingdom). Actually there are only indications in the fragmentary legend of [Georgius](/wiki/Georgius) (the son of the king) and his page [Suovetaurilius](/wiki/Suovetaurilius) (also known as Suet) of this place.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Farthingho** was where at one time an outpost was maintained by the [Little Kingdom](../L/Little_Kingdom.md) of King [Ægidius Draconarius](Farmer_Giles.md) against the [Middle Kingdom](../M/Middle_Kingdom.md). Actually there are only indications in the fragmentary legend of [Georgius](../G/Georgius.md) (the son of the king) and his page [Suovetaurilius](../S/Suovetaurilius.md) (also known as Suet) of this place.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/Farmer_Giles_of_Ham" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i>, Foreword</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i>, Foreword</span>
 </li>
 </ol></div>

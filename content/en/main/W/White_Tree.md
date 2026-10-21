@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Tree (disambiguation)"
 ---
 
-Redirect to [White Tree (disambiguation)](/wiki/White_Tree_(disambiguation)).
+Redirect to [White Tree (disambiguation)](<White_Tree_(disambiguation).md>).

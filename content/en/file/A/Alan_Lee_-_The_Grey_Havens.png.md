@@ -1,6 +1,5 @@
 ---
 title: "File:Alan Lee - The Grey Havens.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Alan Lee - The Grey Havens.png</span>"
 page_id: 74295
 namespace: 6
 revision_id: 439336
@@ -42,30 +41,27 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Alan Lee - The Grey Havens.png</span></th>
 <td class="description">
-<p>Artwork of <a href="/wiki/Grey_Havens" title="Grey Havens">the Grey Havens</a> and <a href="/wiki/Last_Riding_of_the_Keepers_of_the_Rings" title="Last Riding of the Keepers of the Rings">the Last Riding of the Keepers of the Rings</a> for <a href="/wiki/The_Folio_Society" title="The Folio Society">the Folio Society</a>&#39;s limited edition of <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i> (<i><a href="/wiki/The_Return_of_the_King" title="The Return of the King">The Return of the King</a></i>)
+<p>Artwork of <a href="../../main/G/Grey_Havens.md" title="Grey Havens">the Grey Havens</a> and <a href="../../main/L/Last_Riding_of_the_Keepers_of_the_Rings.md" title="Last Riding of the Keepers of the Rings">the Last Riding of the Keepers of the Rings</a> for <a href="../../main/T/The_Folio_Society.md" title="The Folio Society">the Folio Society</a>&#39;s limited edition of <i><a href="../../main/T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> (<i><a href="../../main/T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>)
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/April" title="April">April</a>, <a href="/wiki/2022" title="2022">2022</a></td>
+<td><a href="../../main/A/April.md" title="April">April</a>, <a href="../../main/_/2022.md" title="2022">2022</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></td>
+<td><a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td>Composite from these two sources (as second is far higher quality, though only depicts half): <a class="external free" href="https://www.reddit.com/r/tolkienbooks/comments/1fv4mzg/2024_hc_deluxe_edition_new_art_from_alan_lee/" rel="noreferrer noopener" target="_blank">https://www.reddit.com/r/tolkienbooks/comments/1fv4mzg/2024_hc_deluxe_edition_new_art_from_alan_lee/</a> and <a class="external free" href="https://x.com/AlanLee11225760/status/1518916989384896519" rel="noreferrer noopener" target="_blank">https://x.com/AlanLee11225760/status/1518916989384896519</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Alan Lee</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a></li>
+<ul><li><b>Name:</b> <a href="../../main/A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></li>
 <li><b>Website:</b> Unavailable</li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Alan_Lee" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FAlan_Lee.md" title="Tolkien Gateway:Copyrights/Alan Lee">Permission for use on Tolkien Gateway</a></b></li></ul></div>

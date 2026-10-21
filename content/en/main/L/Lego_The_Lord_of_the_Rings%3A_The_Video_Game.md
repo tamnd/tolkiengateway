@@ -44,27 +44,21 @@ infobox:
     value: "Action-adventure"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
 <p>The wise will stay here and hope to rebuild our town...
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Master_of_Lake-town" title="Master of Lake-town">Master of Lake-town</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+</blockquote></div></div>
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413279"/>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
 <p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a></cite></p>
-</blockquote><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r395759"/></div></div>
+<p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
+</blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Lego_The_Lord_of_the_Rings_-_The_Video_Game.png"><img src="/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/320px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png" decoding="async" loading="lazy" width="320" height="293" class="mw-file-element" srcset="/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/480px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 1.5x, /w/images/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 2x" data-file-width="600" data-file-height="550"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>LEGO: The Lord of the Rings - The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Traveller&#39;s Tales</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warner Bros. Interactive Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Wii" title="wikipedia:Nintendo Wii">Nintendo Wii</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_DS" title="wikipedia:Nintendo DS">Nintendo DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><sup id="cite_ref-FB-info_1-0" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">13 November 2012<sup id="cite_ref-FB-info_1-1" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/320px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png" decoding="async" loading="lazy" width="320" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/480px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 1.5x, https://tolkiengateway.net/w/images/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 2x" data-file-width="600" data-file-height="550"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>LEGO: The Lord of the Rings - The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Traveller&#39;s Tales</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warner Bros. Interactive Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Wii" title="wikipedia:Nintendo Wii">Nintendo Wii</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_DS" title="wikipedia:Nintendo DS">Nintendo DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><sup id="cite_ref-FB-info_1-0" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">13 November 2012<sup id="cite_ref-FB-info_1-1" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**Lego The Lord of the Rings: The Video Game** is a video game by [Warner Bros. Interactive Entertainment](/wiki/Warner_Bros._Interactive_Entertainment) and [Traveller's Tales](/wiki/Traveller%27s_Tales). The game is based on [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") and was released in 13 November 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It features the story lines of [The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring "The Lord of the Rings: The Fellowship of the Ring"), [The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers "The Lord of the Rings: The Two Towers") and [The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King "The Lord of the Rings: The Return of the King") but "reimagined with the humor and endless variety of LEGO play".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Lego The Lord of the Rings: The Video Game** is a video game by [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) and [Traveller's Tales](../T/Traveller's_Tales.md). The game is based on [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>) and was released in 13 November 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It features the story lines of [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md) and [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) but "reimagined with the humor and endless variety of LEGO play".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 In 2011, a Wikia user claimed to have found a bit of evidence for a Lego *The Lord of the Rings* video game, when discovering key words ("LOTR Ring") within the program files of *Lego Pirates of the Caribbean: The Video Game*. However, other Wikia users remarked that those key words might have another meaning within the files.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -79,138 +73,137 @@ The goal of each level varies. Some levels simply require the player to get to t
 (As listed on IMDb)
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Actor</th>
 <th>Role
 </th></tr>
 <tr>
-<td><a href="/wiki/Sean_Astin" title="Sean Astin">Sean Astin</a></td>
-<td><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Samwise Gamgee</a> (voice) (archive footage)
+<td><a href="../S/Sean_Astin.md" title="Sean Astin">Sean Astin</a></td>
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/John_Bach" title="John Bach">John Bach</a></td>
-<td><a href="/wiki/Madril" title="Madril">Madril</a> (voice) (archive footage)
+<td><a href="../J/John_Bach.md" title="John Bach">John Bach</a></td>
+<td><a href="../M/Madril.md" title="Madril">Madril</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Sean_Bean" title="Sean Bean">Sean Bean</a></td>
-<td><a href="/wiki/Boromir" title="Boromir">Boromir</a> (voice) (archive footage)
+<td><a href="../S/Sean_Bean.md" title="Sean Bean">Sean Bean</a></td>
+<td><a href="../B/Boromir.md" title="Boromir">Boromir</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Cate_Blanchett" title="Cate Blanchett">Cate Blanchett</a></td>
-<td><a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> (voice) (archive footage)
+<td><a href="../C/Cate_Blanchett.md" title="Cate Blanchett">Cate Blanchett</a></td>
+<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a></td>
-<td><a href="/wiki/Legolas" title="Legolas">Legolas</a> (voice) (archive footage)
+<td><a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a></td>
+<td><a href="Legolas.md" title="Legolas">Legolas</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Billy_Boyd" title="Billy Boyd">Billy Boyd</a></td>
-<td><a href="/wiki/Peregrin_Took" title="Peregrin Took">Peregrin Took</a> (voice) (archive footage)
+<td><a href="../B/Billy_Boyd.md" title="Billy Boyd">Billy Boyd</a></td>
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Jed_Brophy" title="Jed Brophy">Jed Brophy</a></td>
-<td><a href="/wiki/Sharku" title="Sharku">Sharku</a> (voice) (archive footage)
+<td><a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a></td>
+<td><a href="../S/Sharku.md" title="Sharku">Sharku</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Brad_Dourif" title="Brad Dourif">Brad Dourif</a></td>
-<td><a href="/wiki/Gr%C3%ADma" title="Gríma">Gríma Wormtongue</a> (voice) (archive footage)
+<td><a href="../B/Brad_Dourif.md" title="Brad Dourif">Brad Dourif</a></td>
+<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Bernard_Hill" title="Bernard Hill">Bernard Hill</a></td>
-<td><a href="/wiki/Th%C3%A9oden" title="Théoden">King Théoden</a> (voice) (archive footage)
+<td><a href="../B/Bernard_Hill.md" title="Bernard Hill">Bernard Hill</a></td>
+<td><a href="../T/Théoden.md" title="Théoden">King Théoden</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Christopher_Lee" title="Christopher Lee">Christopher Lee</a></td>
-<td><a href="/wiki/Saruman" title="Saruman">Saruman the White</a> (voice) (archive footage)
+<td><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a></td>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman the White</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Nathaniel_Lees" title="Nathaniel Lees">Nathaniel Lees</a></td>
-<td><a href="/wiki/Ugl%C3%BAk" title="Uglúk">Uglúk</a> (voice) (archive footage)
+<td><a href="../N/Nathaniel_Lees.md" title="Nathaniel Lees">Nathaniel Lees</a></td>
+<td><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/John_Leigh" title="John Leigh">John Leigh</a></td>
-<td><a href="/wiki/H%C3%A1ma" title="Háma">Háma</a> (voice) (archive footage)
+<td><a href="../J/John_Leigh.md" title="John Leigh">John Leigh</a></td>
+<td><a href="../H/Háma.md" title="Háma">Háma</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a></td>
-<td><a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> (voice) (archive footage)
+<td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Dominic_Monaghan" title="Dominic Monaghan">Dominic Monaghan</a></td>
-<td><a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> (voice) (archive footage)
+<td><a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a></td>
+<td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a></td>
-<td><a href="/wiki/Aragorn" title="Aragorn">Aragorn</a> (voice) (archive footage)
+<td><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a></td>
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a class="new" href="/w/index.php?title=Paul_Norrel&amp;action=edit&amp;redlink=1" title="Paul Norrel (page does not exist)">Paul Norrel</a></td>
-<td><a href="/wiki/King_of_the_Dead" title="King of the Dead">The King of the Dead</a> (voice) (archive footage)
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Norrel&amp;action=edit&amp;redlink=1" title="Paul Norrel (page does not exist)">Paul Norrel</a></td>
+<td><a href="../K/King_of_the_Dead.md" title="King of the Dead">The King of the Dead</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Miranda_Otto" title="Miranda Otto">Miranda Otto</a></td>
-<td><a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a> (voice) (archive footage)
+<td><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a></td>
+<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Craig_Parker" title="Craig Parker">Craig Parker</a></td>
-<td><a href="/wiki/Haldir" title="Haldir">Haldir</a>/<a href="/wiki/Gothmog_(Lieutenant_of_Morgul)" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>/<a href="/wiki/Guritz" title="Guritz">Orc Harbour Master</a> (voice) (archive footage)
+<td><a href="../C/Craig_Parker.md" title="Craig Parker">Craig Parker</a></td>
+<td><a href="../H/Haldir.md" title="Haldir">Haldir</a>/<a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>/<a href="../G/Guritz.md" title="Guritz">Orc Harbour Master</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/John_Rhys-Davies" title="John Rhys-Davies">John Rhys-Davies</a></td>
-<td><a href="/wiki/Gimli" title="Gimli">Gimli</a>/<a href="/wiki/Treebeard" title="Treebeard">Treebeard</a> (voice) (archive footage)
+<td><a href="../J/John_Rhys-Davies.md" title="John Rhys-Davies">John Rhys-Davies</a></td>
+<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>/<a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Andy_Serkis" title="Andy Serkis">Andy Serkis</a></td>
-<td><a href="/wiki/Gollum" title="Gollum">Gollum</a>/<a href="/wiki/Witch-king" title="Witch-king">The Witch King</a> (voice) (archive footage)
+<td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a>/<a href="../W/Witch-king.md" title="Witch-king">The Witch King</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Liv_Tyler" title="Liv Tyler">Liv Tyler</a></td>
-<td><a href="/wiki/Arwen" title="Arwen">Arwen Undómiel</a> (voice) (archive footage)
+<td><a href="Liv_Tyler.md" title="Liv Tyler">Liv Tyler</a></td>
+<td><a href="../A/Arwen.md" title="Arwen">Arwen Undómiel</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Karl_Urban" title="Karl Urban">Karl Urban</a></td>
-<td><a href="/wiki/%C3%89omer" title="Éomer">Éomer</a> (voice) (archive footage)
+<td><a href="../K/Karl_Urban.md" title="Karl Urban">Karl Urban</a></td>
+<td><a href="../_/Éomer.md" title="Éomer">Éomer</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a class="new" href="/w/index.php?title=Sephen_Ure&amp;action=edit&amp;redlink=1" title="Sephen Ure (page does not exist)">Sephen Ure</a></td>
-<td><a href="/wiki/Grishn%C3%A1kh" title="Grishnákh">Grishnákh</a>/<a href="/wiki/Gorbag" title="Gorbag">Gorbag</a> (voice) (archive footage)
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sephen_Ure&amp;action=edit&amp;redlink=1" title="Sephen Ure (page does not exist)">Sephen Ure</a></td>
+<td><a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>/<a href="../G/Gorbag.md" title="Gorbag">Gorbag</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/David_Weatherley" title="David Weatherley">David Weatherley</a></td>
-<td><a href="/wiki/Barliman_Butterbur" title="Barliman Butterbur">Barliman Butterbur</a> (voice) (archive footage)
+<td><a href="../D/David_Weatherley.md" title="David Weatherley">David Weatherley</a></td>
+<td><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Hugo_Weaving" title="Hugo Weaving">Hugo Weaving</a></td>
-<td><a href="/wiki/Elrond" title="Elrond">Elrond</a>/<a href="/wiki/Isildur" title="Isildur">Isildur</a> (voice) (archive footage)
+<td><a href="../H/Hugo_Weaving.md" title="Hugo Weaving">Hugo Weaving</a></td>
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>/<a href="../I/Isildur.md" title="Isildur">Isildur</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/David_Wenham" title="David Wenham">David Wenham</a></td>
-<td><a href="/wiki/Faramir" title="Faramir">Faramir</a> (voice) (archive footage)
+<td><a href="../D/David_Wenham.md" title="David Wenham">David Wenham</a></td>
+<td><a href="../F/Faramir.md" title="Faramir">Faramir</a> (voice) (archive footage)
 </td></tr>
 <tr>
-<td><a href="/wiki/Elijah_Wood" title="Elijah Wood">Elijah Wood</a></td>
-<td><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> (voice) (archive footage)
+<td><a href="../E/Elijah_Wood.md" title="Elijah Wood">Elijah Wood</a></td>
+<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> (voice) (archive footage)
 </td></tr>
 <tr>
 <td>Kieron Elliott</td>
-<td><a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a> (voice)
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> (voice)
 </td></tr>
 <tr>
 <td>Gideon Emery</td>
-<td><a href="/wiki/Orcs" title="Orcs">Orcs</a> (voice)
+<td><a href="../O/Orcs.md" title="Orcs">Orcs</a> (voice)
 </td></tr>
 <tr>
 <td>Gideon Emery, Chris Edgerly</td>
-<td><a href="/wiki/Elves" title="Elves">Incidental Elves</a> (voice)
+<td><a href="../E/Elves.md" title="Elves">Incidental Elves</a> (voice)
 </td></tr>
 <tr>
 <td>Jennifer Taylor Lawrence, Anna Vocino</td>
-<td><a href="/wiki/Hobbits" title="Hobbits">Incidental Hobbits</a> (voice)
+<td><a href="../H/Hobbits.md" title="Hobbits">Incidental Hobbits</a> (voice)
 </td></tr>
 <tr>
 <td>Jennifer Taylor Lawrence, Fred Tatasciore</td>
-<td><a href="/wiki/Dwarves" title="Dwarves">Incidental Dwarves</a> (voice)
+<td><a href="../D/Dwarves.md" title="Dwarves">Incidental Dwarves</a> (voice)
 </td></tr>
 <tr>
 <td>Chris Edgerly, Crispin Freeman, Bob Joles, Yuri Luwenthal</td>
@@ -218,22 +211,20 @@ The goal of each level varies. Some levels simply require the player to get to t
 </td></tr>
 <tr>
 <td>Chris Edgerly</td>
-<td><a href="/wiki/Men" title="Men">Incidental Men</a> (voice)
+<td><a href="../M/Men.md" title="Men">Incidental Men</a> (voice)
 </td></tr>
 <tr>
 <td>Fred Tatasciore</td>
-<td><a href="/wiki/Uruk-hai" title="Uruk-hai">Incidental Uruk-hai</a> (voice)
+<td><a href="../U/Uruk-hai.md" title="Uruk-hai">Incidental Uruk-hai</a> (voice)
 </td></tr>
 <tr>
-<td>Eric Artell, Steve Blum, Cam Clarke, <a href="/wiki/Tom_Kane" title="Tom Kane">Tom Kane</a>, Jim Meskimen, <a href="/wiki/Liam_O%27Brien" title="Liam O&#39;Brien">Liam O&#39;Brien</a>, Jon Olson, Jim Piddock, Eliza Schneider, Keith Szarabajka, Hynden Walch</td>
+<td>Eric Artell, Steve Blum, Cam Clarke, <a href="../T/Tom_Kane.md" title="Tom Kane">Tom Kane</a>, Jim Meskimen, <a href="Liam_O&#39;Brien.md" title="Liam O&#39;Brien">Liam O&#39;Brien</a>, Jon Olson, Jim Piddock, Eliza Schneider, Keith Szarabajka, Hynden Walch</td>
 <td>Additional Voices
 </td></tr></tbody></table>
 
 ## Trailer {#Trailer}
 
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r413279"/>
-
-<div class="t-maintenance metadata t-maintenance--green"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/0/0d/Material_icon_-_Play_circle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="24" data-file-height="24"/></span></span></div><div class="t-maintenance-label">Video</div></div><div class="ext-floatingui-content"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:288px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="288" src="//www.youtube-nocookie.com/embed/CufnDIbqDRA"></iframe></span>
+<div class="t-maintenance metadata t-maintenance--green"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/0/0d/Material_icon_-_Play_circle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="24" data-file-height="24"/></span></span></div><div class="t-maintenance-label">Video</div></div><div class="ext-floatingui-content"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:288px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="288" src="//www.youtube-nocookie.com/embed/CufnDIbqDRA"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></div></div>
 
@@ -242,7 +233,6 @@ The goal of each level varies. Some levels simply require the player to get to t
 ### The Fellowship of the Ring {#The_Fellowship_of_the_Ring}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <td>Level</td>
 <td>Movie Chapter
@@ -275,7 +265,6 @@ The goal of each level varies. Some levels simply require the player to get to t
 ### The Two Towers {#The_Two_Towers}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <td>Level</td>
 <td>Movie Chapter
@@ -308,7 +297,6 @@ The goal of each level varies. Some levels simply require the player to get to t
 ### The Return of the King {#The_Return_of_the_King}
 
 <table class="wikitable">
-<!-- -->
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <td>Level</td>
 <td>Movie Chapter
@@ -340,8 +328,8 @@ The goal of each level varies. Some levels simply require the player to get to t
 
 ## See also {#See_also}
 
-- [Lego](/wiki/Lego)
-- [Lego The Hobbit: The Video Game](/wiki/Lego_The_Hobbit:_The_Video_Game)
+- [Lego](Lego.md)
+- [Lego The Hobbit: The Video Game](Lego_The_Hobbit%253A_The_Video_Game.md)
 
 ## External links {#External_links}
 
@@ -352,124 +340,122 @@ The goal of each level varies. Some levels simply require the player to get to t
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-FB-info-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-FB-info_1-0">1.0</a></sup> <sup><a href="#cite_ref-FB-info_1-1">1.1</a></sup></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.facebook.com/LEGOTheLordoftheRingsVideogame/info" rel="noreferrer noopener" target="_blank">&#34;Lego The Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.facebook.com" rel="noreferrer noopener" target="_blank">Facebook</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2026</span></cite></span>
+<li id="cite_note-FB-info-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-FB-info_1-0">1.0</a></sup> <sup><a href="#cite_ref-FB-info_1-1">1.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.facebook.com/LEGOTheLordoftheRingsVideogame/info" rel="noreferrer noopener" target="_blank">&#34;Lego The Lord of the Rings&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.facebook.com" rel="noreferrer noopener" target="_blank">Facebook</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2026</span></cite></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-author">Marlin Votta (10 July 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://www.inentertainment.co.uk/20120710/official-lego-the-lord-of-the-rings-facebook-page/" rel="noreferrer noopener" target="_blank">http://www.inentertainment.co.uk/20120710/official-lego-the-lord-of-the-rings-facebook-page/</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.lego.com/" rel="noreferrer noopener" target="_blank">LEGO</a></span>. <span class="cite-web-accessed">Retrieved 16 July 2012</span></cite></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Marlin Votta (10 July 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://www.inentertainment.co.uk/20120710/official-lego-the-lord-of-the-rings-facebook-page/" rel="noreferrer noopener" target="_blank">http://www.inentertainment.co.uk/20120710/official-lego-the-lord-of-the-rings-facebook-page/</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.lego.com/" rel="noreferrer noopener" target="_blank">LEGO</a></span>. <span class="cite-web-accessed">Retrieved 16 July 2012</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://toysnbricks.com/lego-lord-of-the-rings-video-game-2012/" rel="noreferrer noopener" target="_blank">&#34;LEGO Lord of the Rings Video Game 2012&#34;</a></span>. <span class="cite-web-website"><a class="external free" href="http://toysnbricks.com" rel="noreferrer noopener" target="_blank">http://toysnbricks.com</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2012</span></cite></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://toysnbricks.com/lego-lord-of-the-rings-video-game-2012/" rel="noreferrer noopener" target="_blank">&#34;LEGO Lord of the Rings Video Game 2012&#34;</a></span>. <span class="cite-web-website"><a class="external free" href="http://toysnbricks.com" rel="noreferrer noopener" target="_blank">http://toysnbricks.com</a></span>. <span class="cite-web-accessed">Retrieved 29 July 2012</span></cite></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r403243"/><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20160413191318/http://Lego.wikia.com/wiki/User_blog:Lego_lord/Guess_what_my_precious%3F" rel="noreferrer noopener" target="_blank">&#34;Lego lord/Guess what my precious?&#34;</a>, archived from the <a class="external text" href="http://lego.wikia.com/wiki/User_blog:Lego_lord/Guess_what_my_precious%3F" rel="noreferrer noopener" target="_blank">original</a> on 13 April 2016</span>. <span class="cite-web-website"><a class="external text" href="http://Lego.wikia.com/wiki/Lego_Wiki" rel="noreferrer noopener" target="_blank">Lego Wiki</a></span>. <span class="cite-web-accessed">Retrieved 3 September 2011</span></cite></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="https://web.archive.org/web/20160413191318/http://Lego.wikia.com/wiki/User_blog:Lego_lord/Guess_what_my_precious%3F" rel="noreferrer noopener" target="_blank">&#34;Lego lord/Guess what my precious?&#34;</a>, archived from the <a class="external text" href="http://lego.wikia.com/wiki/User_blog:Lego_lord/Guess_what_my_precious%3F" rel="noreferrer noopener" target="_blank">original</a> on 13 April 2016</span>. <span class="cite-web-website"><a class="external text" href="http://Lego.wikia.com/wiki/Lego_Wiki" rel="noreferrer noopener" target="_blank">Lego Wiki</a></span>. <span class="cite-web-accessed">Retrieved 3 September 2011</span></cite></span>
 </li>
 </ol></div>
 
 <br>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
 </th></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Melbourne_House" title="Melbourne House">Melbourne House</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Hobbit_(1982_video_game)" title="The Hobbit (1982 video game)">The Hobbit</a></b></i> (<a href="/wiki/1982" title="1982">1982</a>) · <i><b><a href="/wiki/Lord_of_the_Rings:_Game_One" title="Lord of the Rings: Game One">Lord of the Rings: Game One</a></b></i>  (<a href="/wiki/1985" title="1985">1985</a>) · <i><b><a href="/wiki/Shadows_of_Mordor" title="Shadows of Mordor">Shadows of Mordor</a></b></i> (<a href="/wiki/1988" title="1988">1988</a>) · <i><b><a href="/wiki/J.R.R._Tolkien%27s_War_in_Middle_Earth" title="J.R.R. Tolkien&#39;s War in Middle Earth">War in Middle Earth</a></b></i> (<a href="/wiki/1988" title="1988">1988</a>) · <i><b><a href="/wiki/Crack_of_Doom_Software_Adventure" title="Crack of Doom Software Adventure">Crack of Doom Software Adventure</a></b></i> (<a href="/wiki/1989" title="1989">1989</a>) · <i><b><a href="/wiki/J.R.R._Tolkien%27s_Riders_of_Rohan" title="J.R.R. Tolkien&#39;s Riders of Rohan">Riders of Rohan</a></b></i> (<a href="/wiki/1990" title="1990">1990</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)">The Hobbit</a></b></i> (<a href="../_/1982.md" title="1982">1982</a>) · <i><b><a href="Lord_of_the_Rings%253A_Game_One.md" title="Lord of the Rings: Game One">Lord of the Rings: Game One</a></b></i>  (<a href="../_/1985.md" title="1985">1985</a>) · <i><b><a href="../S/Shadows_of_Mordor.md" title="Shadows of Mordor">Shadows of Mordor</a></b></i> (<a href="../_/1988.md" title="1988">1988</a>) · <i><b><a href="../J/J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">War in Middle Earth</a></b></i> (<a href="../_/1988.md" title="1988">1988</a>) · <i><b><a href="../C/Crack_of_Doom_Software_Adventure.md" title="Crack of Doom Software Adventure">Crack of Doom Software Adventure</a></b></i> (<a href="../_/1989.md" title="1989">1989</a>) · <i><b><a href="../J/J.R.R._Tolkien&#39;s_Riders_of_Rohan.md" title="J.R.R. Tolkien&#39;s Riders of Rohan">Riders of Rohan</a></b></i> (<a href="../_/1990.md" title="1990">1990</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Interplay_Productions" title="Interplay Productions">Interplay Productions</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../I/Interplay_Productions.md" title="Interplay Productions">Interplay Productions</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game)" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game)">The Lord of the Rings, Vol. I (PC)</a></b></i> (<a href="/wiki/1990" title="1990">1990</a>) · <i><b><a href="/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._II:_The_Two_Towers" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. II: The Two Towers">The Lord of the Rings, Vol. II: The Two Towers</a></b></i> (<a href="/wiki/1993" title="1993">1993</a>) · <i><b><a href="/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I_(SNES)" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (SNES)">The Lord of the Rings, Vol. I (SNES)</a></b></i> (<a href="/wiki/1994" title="1994">1994</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game)">The Lord of the Rings, Vol. I (PC)</a></b></i> (<a href="../_/1990.md" title="1990">1990</a>) · <i><b><a href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. II: The Two Towers">The Lord of the Rings, Vol. II: The Two Towers</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>) · <i><b><a href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I_(SNES).md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (SNES)">The Lord of the Rings, Vol. I (SNES)</a></b></i> (<a href="../_/1994.md" title="1994">1994</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a class="mw-redirect" href="/wiki/Vivendi_Universal" title="Vivendi Universal">Vivendi Universal</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a class="mw-redirect" href="../V/Vivendi_Universal.md" title="Vivendi Universal">Vivendi Universal</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Fellowship of the Ring</a></b></i> (<a href="/wiki/2002" title="2002">2002</a>) · <i><b><a href="/wiki/The_Hobbit_(2003_video_game)" title="The Hobbit (2003 video game)">The Hobbit</a></b></i> (<a href="/wiki/2003" title="2003">2003</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_War_of_the_Ring" title="The Lord of the Rings: War of the Ring">War of the Ring</a></b></i> (<a href="/wiki/2003" title="2003">2003</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Fellowship of the Ring</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>) · <i><b><a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)">The Hobbit</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">War of the Ring</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Electronic_Arts" title="Electronic Arts">Electronic Arts</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></b></i> (<a href="/wiki/2002" title="2002">2002</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></b></i> (<a href="/wiki/2003" title="2003">2003</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Third_Age" title="The Lord of the Rings: The Third Age">The Third Age</a></b></i> (<a href="/wiki/2004" title="2004">2004</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth" title="The Lord of the Rings: The Battle for Middle-earth">The Battle for Middle-earth</a></b></i> (<a href="/wiki/2004" title="2004">2004</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_Tactics" title="The Lord of the Rings: Tactics">Tactics</a></b></i> (<a href="/wiki/2005" title="2005">2005</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II" title="The Lord of the Rings: The Battle for Middle-earth II">The Battle for Middle-earth II</a></b></i> (<a href="/wiki/2006" title="2006">2006</a>) <small>(<i><a href="/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i> (<a href="/wiki/2006" title="2006">2006</a>))</small> · <i><b><a href="/wiki/The_Lord_of_the_Rings:_Conquest" title="The Lord of the Rings: Conquest">Conquest</a></b></i> (<a href="/wiki/2009" title="2009">2009</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_Heroes_of_Middle-earth" title="The Lord of the Rings: Heroes of Middle-earth">Heroes of Middle-earth</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></b></i> (<a href="../_/2004.md" title="2004">2004</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Battle for Middle-earth</a></b></i> (<a href="../_/2004.md" title="2004">2004</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></b></i> (<a href="../_/2005.md" title="2005">2005</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Battle for Middle-earth II</a></b></i> (<a href="../_/2006.md" title="2006">2006</a>) <small>(<i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i> (<a href="../_/2006.md" title="2006">2006</a>))</small> · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></b></i> (<a href="../_/2009.md" title="2009">2009</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">Heroes of Middle-earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Turbine" title="Turbine">Turbine</a>/<a href="/wiki/Standing_Stone_Games" title="Standing Stone Games">Standing Stone Games</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../T/Turbine.md" title="Turbine">Turbine</a>/<a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings_Online" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i> (<a href="/wiki/2007" title="2007">2007</a>-)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Warner_Bros._Games" title="Warner Bros. Games">Warner Bros</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../W/Warner_Bros._Games.md" title="Warner Bros. Games">Warner Bros</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="/wiki/2010" title="2010">2010</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_War_in_the_North" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="/wiki/2011" title="2011">2011</a>) · <i><b><a href="/wiki/Guardians_of_Middle-earth" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>-<a href="/wiki/2018" title="2018">2018</a>) · <i><b><a href="/wiki/The_Hobbit:_Kingdoms_of_Middle-earth" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>)· <i><b><a href="/wiki/The_Hobbit:_Armies_of_The_Third_Age" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="/wiki/2013" title="2013">2013</a>) · <i><b><a href="/wiki/Middle-earth:_Shadow_of_Mordor" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="/wiki/2014" title="2014">2014</a>) · <i><b><a href="/wiki/Middle-earth:_Shadow_of_War" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="/wiki/2017" title="2017">2017</a>) · <i><b><a href="/wiki/The_Lord_of_the_Rings:_Rise_to_War" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="/wiki/2021" title="2021">2021</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="../T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="../T/The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_Middle-Earth_Defense" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="/wiki/2010" title="2010">2010</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Traveller%27s_Tales" title="Traveller&#39;s Tales">Traveller&#39;s Tales</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../T/Traveller&#39;s_Tales.md" title="Traveller&#39;s Tales">Traveller&#39;s Tales</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a class="mw-selflink selflink">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="/wiki/2012" title="2012">2012</a>) · <i><b><a href="/wiki/Lego_The_Hobbit:_The_Video_Game" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="/wiki/2014" title="2014">2014</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a class="mw-selflink selflink">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_Adventure_Card_Game" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="/wiki/2018" title="2018">2018</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> <a href="/wiki/Daedalic_Entertainment" title="Daedalic Entertainment">Daedalic Entertainment</a>:
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../D/Daedalic_Entertainment.md" title="Daedalic Entertainment">Daedalic Entertainment</a>:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_Gollum" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
 </th>
-<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="/wiki/The_Lord_of_the_Rings:_Return_to_Moria" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="/wiki/2023" title="2023">2023</a>)
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
-<!-- -->
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="/wiki/The_Lord_of_the_Rings_(film_series)" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(extended_edition)" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(extended_edition)" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(extended_edition)" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_-_The_Complete_Recordings" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_-_The_Complete_Recordings" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_-_The_Complete_Recordings" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="/wiki/May_It_Be" title="May It Be">May It Be</a>&#34; · &#34;<a href="/wiki/Gollum%27s_Song" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="/wiki/Into_the_West" title="Into the West">Into the West</a>&#34;
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_Official_Movie_Guide" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Making_of_the_Movie_Trilogy" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Complete_Visual_Companion" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="/wiki/The_Lord_of_the_Rings_Trilogy_Photo_Guide" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/Gollum:_How_We_Made_Movie_Magic" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="/wiki/There_and_Back_Again:_An_Actor%27s_Tale" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Weapons_and_Warfare" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="/wiki/The_Art_of_The_Lord_of_the_Rings_(film_book)" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="/wiki/The_Music_of_the_Lord_of_the_Rings_Films" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Location_Guidebook" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Location_Guidebook:_Travel_Diary" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings_Sketchbook" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="../T/The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="../T/There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="../T/The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="../T/The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Fellowship of the Ring</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Visual_Companion" title="The Lord of the Rings: The Fellowship of the Ring Visual Companion">Visual Companion</a></i>   · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_Photo_Guide" title="The Lord of the Rings: The Fellowship of the Ring Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Rings_-_Insiders%27_Guide" title="The Lord of the Rings: The Fellowship of the Rings - Insiders&#39; Guide">Insiders&#39; Guide</a></i> · <i><a href="/wiki/The_Art_of_The_Fellowship_of_the_Ring" title="The Art of The Fellowship of the Ring">The Art of The Fellowship of the Ring</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md" title="The Lord of the Rings: The Fellowship of the Ring Visual Companion">Visual Companion</a></i>   · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Photo_Guide.md" title="The Lord of the Rings: The Fellowship of the Ring Photo Guide">Photo Guide</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Rings_-_Insiders&#39;_Guide.md" title="The Lord of the Rings: The Fellowship of the Rings - Insiders&#39; Guide">Insiders&#39; Guide</a></i> · <i><a href="../T/The_Art_of_The_Fellowship_of_the_Ring.md" title="The Art of The Fellowship of the Ring">The Art of The Fellowship of the Ring</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Two Towers</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Visual_Companion" title="The Lord of the Rings: The Two Towers Visual Companion">Visual Companion</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Photo_Guide" title="The Lord of the Rings: The Two Towers Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_Creatures" title="The Lord of the Rings: The Two Towers Creatures">Creatures</a></i> · <i><a href="/wiki/The_Art_of_The_Two_Towers" title="The Art of The Two Towers">The Art of The Two Towers</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md" title="The Lord of the Rings: The Two Towers Visual Companion">Visual Companion</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Photo_Guide.md" title="The Lord of the Rings: The Two Towers Photo Guide">Photo Guide</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Creatures.md" title="The Lord of the Rings: The Two Towers Creatures">Creatures</a></i> · <i><a href="../T/The_Art_of_The_Two_Towers.md" title="The Art of The Two Towers">The Art of The Two Towers</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><i>The Return of the King</i>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Visual_Companion" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_Photo_Guide" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="/wiki/The_Art_of_The_Return_of_the_King" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="../T/The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(video_game)" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_The_Third_Age" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Tactics" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="/wiki/The_Lord_of_the_Rings:_Conquest" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a class="mw-selflink selflink">Lego The Lord of the Rings</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a class="mw-selflink selflink">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> · <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo</a> · <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a> · <a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Merry</a> · <a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a> · <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> · <a href="/wiki/Aragorn" title="Aragorn">Aragorn</a> · <a href="/wiki/Boromir" title="Boromir">Boromir</a> · <a href="/wiki/Legolas" title="Legolas">Legolas</a> · <a href="/wiki/Gimli" title="Gimli">Gimli</a> · <a href="/wiki/Elrond" title="Elrond">Elrond</a> · <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> · <a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a> · <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a> · <a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a> · <a href="/wiki/Saruman" title="Saruman">Saruman</a> · <a href="/wiki/Sauron" title="Sauron">Sauron</a> · <a href="/wiki/Witch-king" title="Witch-king">Witch-king</a> · <a href="/wiki/Denethor" title="Denethor">Denethor</a> · <a href="/wiki/Faramir" title="Faramir">Faramir</a> · <a href="/wiki/Gollum" title="Gollum">Gollum</a> · <a href="/wiki/Gr%C3%ADma" title="Gríma">Gríma</a> · <a href="/wiki/Treebeard" title="Treebeard">Treebeard</a> · <a href="/wiki/Celeborn" title="Celeborn">Celeborn</a> · <a href="/wiki/Haldir" title="Haldir">Haldir</a> · <a href="/wiki/Lurtz" title="Lurtz">Lurtz</a> · <a href="/wiki/Sharku" title="Sharku">Sharku</a> · <a href="/wiki/Grishn%C3%A1kh" title="Grishnákh">Grishnákh</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="../T/Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

@@ -1,6 +1,5 @@
 ---
 title: "Fall of Númenor (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Fall of Númenor (disambiguation)</span>"
 page_id: 59460
 namespace: 0
 revision_id: 385814
@@ -19,23 +18,23 @@ images:
 
 ## Middle-earth {#Middle-earth}
 
-- The **[Downfall of Númenor](/wiki/Downfall_of_N%C3%BAmenor)**, the event that destroyed the island and [changed the World](/wiki/Changing_of_the_World "Changing of the World").
+- The **[Downfall of Númenor](../D/Downfall_of_Númenor.md)**, the event that destroyed the island and [changed the World](../C/Changing_of_the_World.md).
 
 ## Books {#Books}
 
-- *[The Fall of Númenor](</wiki/The_Fall_of_N%C3%BAmenor_(book)> "The Fall of Númenor (book)")*, a book by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), edited by [Brian Sibley](/wiki/Brian_Sibley).
+- *[The Fall of Númenor](<../T/The_Fall_of_Númenor_(book).md>)*, a book by [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), edited by [Brian Sibley](../B/Brian_Sibley.md).
 
 ## Chapters {#Chapters}
 
-- *[Akallabêth](/wiki/Akallab%C3%AAth): The Downfall of Númenor*, the third part of *[The Silmarillion](/wiki/The_Silmarillion)*.
-- *[The Fall of Númenor (chapter)](</wiki/The_Fall_of_N%C3%BAmenor_(chapter)>)*, a chapter in *[The Lost Road and Other Writings](/wiki/The_Lost_Road_and_Other_Writings)*.
-- *[The Drowning of Anadûnê](/wiki/The_Drowning_of_Anad%C3%BBn%C3%AA)*, the third part of *[Sauron Defeated](/wiki/Sauron_Defeated)*.
+- *[Akallabêth](../A/Akallabêth.md): The Downfall of Númenor*, the third part of *[The Silmarillion](../T/The_Silmarillion.md)*.
+- *[The Fall of Númenor (chapter)](<../T/The_Fall_of_Númenor_(chapter).md>)*, a chapter in *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.
+- *[The Drowning of Anadûnê](../T/The_Drowning_of_Anadûnê.md)*, the third part of *[Sauron Defeated](../S/Sauron_Defeated.md)*.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Fall_of_N%C3%BAmenor_(disambiguation)" title="Special:WhatLinksHere/:Fall of Númenor (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Fall_of_N%C3%BAmenor_(disambiguation)" title="Special:WhatLinksHere/:Fall of Númenor (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

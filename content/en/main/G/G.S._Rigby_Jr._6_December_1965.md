@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to G.S. Rigby Jr."
 ---
 
-Redirect to [Letter to G.S. Rigby Jr.](/wiki/Letter_to_G.S._Rigby_Jr.).
+Redirect to [Letter to G.S. Rigby Jr.](../L/Letter_to_G.S._Rigby_Jr..md).

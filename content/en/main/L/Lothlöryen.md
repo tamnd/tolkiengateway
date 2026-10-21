@@ -1,6 +1,5 @@
 ---
 title: "Lothlöryen"
-display_title: "<span class=\"mw-page-title-main\">Lothlöryen</span>"
 page_id: 22681
 namespace: 0
 revision_id: 417007
@@ -13,13 +12,13 @@ categories:
   - "Bands"
 ---
 
-**Lothlöryen** is a Brazilian heavy/folk metal band, started in [2002](/wiki/2002) under the name "Neverland". In [2009](/wiki/2009), they started their large South American Tour "In the Name of Tolkien - Folk Metal Tour 2009".
+**Lothlöryen** is a Brazilian heavy/folk metal band, started in [2002](../_/2002.md) under the name "Neverland". In [2009](../_/2009.md), they started their large South American Tour "In the Name of Tolkien - Folk Metal Tour 2009".
 
 ## Discography {#Discography}
 
-- [2003](/wiki/2003): "Thousand Ways to the Same Land" (Demo)
-- [2005](/wiki/2005): "<a class="new" href="/w/index.php?title=...of_Bards_and_Madmen&amp;action=edit&amp;redlink=1" title="...of Bards and Madmen (page does not exist)">...of Bards and Madmen</a>"
-- [2008](/wiki/2008): "<a class="new" href="/w/index.php?title=Some_Ways_Back_No_More&amp;action=edit&amp;redlink=1" title="Some Ways Back No More (page does not exist)">Some Ways Back No More</a>"
+- [2003](../_/2003.md): "Thousand Ways to the Same Land" (Demo)
+- [2005](../_/2005.md): "<a class="new" href="https://tolkiengateway.net/w/index.php?title=...of_Bards_and_Madmen&amp;action=edit&amp;redlink=1" title="...of Bards and Madmen (page does not exist)">...of Bards and Madmen</a>"
+- [2008](../_/2008.md): "<a class="new" href="https://tolkiengateway.net/w/index.php?title=Some_Ways_Back_No_More&amp;action=edit&amp;redlink=1" title="Some Ways Back No More (page does not exist)">Some Ways Back No More</a>"
 
 ## Line-up {#Line-up}
 

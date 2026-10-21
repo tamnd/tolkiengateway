@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Secret Fire: The Spiritual Vision of J.R.R. Tolkien"
 ---
 
-Redirect to [Secret Fire: The Spiritual Vision of J.R.R. Tolkien](/wiki/Secret_Fire:_The_Spiritual_Vision_of_J.R.R._Tolkien).
+Redirect to [Secret Fire: The Spiritual Vision of J.R.R. Tolkien](Secret_Fire%253A_The_Spiritual_Vision_of_J.R.R._Tolkien.md).

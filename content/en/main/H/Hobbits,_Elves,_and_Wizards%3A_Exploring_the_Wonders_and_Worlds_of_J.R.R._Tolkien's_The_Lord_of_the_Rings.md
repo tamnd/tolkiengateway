@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbits, Elves, and Wizards"
 ---
 
-Redirect to [Hobbits, Elves, and Wizards](/wiki/Hobbits,_Elves,_and_Wizards).
+Redirect to [Hobbits, Elves, and Wizards](Hobbits,_Elves,_and_Wizards.md).

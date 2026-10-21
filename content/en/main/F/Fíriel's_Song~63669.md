@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fíriel's song"
 ---
 
-Redirect to [Fíriel's song](/wiki/Fíriel's_song).
+Redirect to [Fíriel's song](Fíriel's_song.md).

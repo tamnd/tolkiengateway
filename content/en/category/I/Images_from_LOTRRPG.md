@@ -1,6 +1,5 @@
 ---
 title: "Category:Images from LOTRRPG"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images from LOTRRPG</span>"
 page_id: 30309
 namespace: 14
 revision_id: 197681
@@ -15,4 +14,4 @@ sort_keys:
   "Images from Decipher": "LOTRRPG"
 ---
 
-Images from *[The Lord of the Rings Roleplaying Game](/wiki/The_Lord_of_the_Rings_Roleplaying_Game)*.
+Images from *[The Lord of the Rings Roleplaying Game](../../main/T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Battle for Middle-earth - War of the Last Alliance.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Battle for Middle-earth - War of the Last Alliance.jpg</span>"
 page_id: 71381
 namespace: 6
 revision_id: 425885
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [War of the Last Alliance](/wiki/War_of_the_Last_Alliance) - *[The Lord of the Rings: The Battle for Middle-earth](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth)*
+The [War of the Last Alliance](../../main/W/War_of_the_Last_Alliance.md) - *[The Lord of the Rings: The Battle for Middle-earth](../../main/T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

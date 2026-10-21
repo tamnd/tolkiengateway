@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "T.C.B.S."
 ---
 
-Redirect to [T.C.B.S.](/wiki/T.C.B.S.).
+Redirect to [T.C.B.S.](../T/T.C.B.S..md).

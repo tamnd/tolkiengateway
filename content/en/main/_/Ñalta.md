@@ -15,6 +15,6 @@ sort_keys:
   "Quenya nouns": "Nalta"
 ---
 
-<i><b>Ñalta</b></i> (later <i><b>nalta</b></i>) is [Quenya](/wiki/Quenya) for "radiance". Compare [Telerin](/wiki/Telerin) *[alata](/wiki/Alata "Alata")* and [Sindarin](/wiki/Sindarin) *[galad](/wiki/Galad "Galad")*. <span></span>
+<i><b>Ñalta</b></i> (later <i><b>nalta</b></i>) is [Quenya](../Q/Quenya.md) for "radiance". Compare [Telerin](../T/Telerin.md) *[alata](../A/Alata.md)* and [Sindarin](../S/Sindarin.md) *[galad](../G/Galad.md)*. <span></span>
 
 ## References {#References}

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matt Stewart - The Voice of Isengard.jpg"
 ---
 
-Redirect to [File:Matt Stewart - The Voice of Isengard.jpg](/wiki/File:Matt_Stewart_-_The_Voice_of_Isengard.jpg).
+Redirect to [File:Matt Stewart - The Voice of Isengard.jpg](Matt_Stewart_-_The_Voice_of_Isengard.jpg.md).

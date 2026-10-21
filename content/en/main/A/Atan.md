@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Atani"
 ---
 
-Redirect to [Atani](/wiki/Atani).
+Redirect to [Atani](Atani.md).

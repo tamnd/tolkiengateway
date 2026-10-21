@@ -16,18 +16,18 @@ sort_keys:
   "Letters": "Unwin, Rayner (1966-04-25)"
 ---
 
-On [25 April](/wiki/25_April) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to [Rayner Unwin](/wiki/Rayner_Unwin)**.
+On [25 April](../_/25_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to [Rayner Unwin](../R/Rayner_Unwin.md)**.
 
-- **Subject:** Reply to a letter from Rayner Unwin from [19 April](/wiki/19_April) [1966](/wiki/1966), concerning a new dust-jacket design for *[The Lord of the Rings](/wiki/The_Lord_of_the_Rings)* and material for inclusion in *[The Tolkien Reader](/wiki/The_Tolkien_Reader)*.
-- **Publication:** Extracts from the letter were published in *[The J.R.R. Tolkien Companion and Guide](/wiki/The_J.R.R._Tolkien_Companion_and_Guide)*.
-- **Archive:** Tolkien-[George Allen &amp; Unwin](/wiki/Allen_and_Unwin "Allen and Unwin") archive, [HarperCollins](/wiki/HarperCollins).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Subject:** Reply to a letter from Rayner Unwin from [19 April](../_/19_April.md) [1966](../_/1966.md), concerning a new dust-jacket design for *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* and material for inclusion in *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*.
+- **Publication:** Extracts from the letter were published in *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.
+- **Archive:** Tolkien-[George Allen &amp; Unwin](../A/Allen_and_Unwin.md) archive, [HarperCollins](../H/HarperCollins.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## See also {#See_also}
 
-- [Letter to Rayner Unwin (28 December 1953)](</wiki/Letter_to_Rayner_Unwin_(28_December_1953)>)
-- [Letter to Rayner Unwin (12 May 1955)](</wiki/Letter_to_Rayner_Unwin_(12_May_1955)>)
-- [Letter to Rayner Unwin (23 May 1961)](</wiki/Letter_to_Rayner_Unwin_(23_May_1961)>)
-- [Letter to Rayner Unwin (12 October 1972)](</wiki/Letter_to_Rayner_Unwin_(12_October_1972)>)
+- [Letter to Rayner Unwin (28 December 1953)](<Letter_to_Rayner_Unwin_(28_December_1953).md>)
+- [Letter to Rayner Unwin (12 May 1955)](<Letter_to_Rayner_Unwin_(12_May_1955).md>)
+- [Letter to Rayner Unwin (23 May 1961)](<Letter_to_Rayner_Unwin_(23_May_1961).md>)
+- [Letter to Rayner Unwin (12 October 1972)](<Letter_to_Rayner_Unwin_(12_October_1972).md>)
 
 <span></span>
 
@@ -35,9 +35,9 @@ On [25 April](/wiki/25_April) [1966](/wiki/1966), [J.R.R. Tolkien](/wiki/J.R.R._
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 662-3</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “chapter=I. Chronology,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), pp. 662-3</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">
-<a href="/wiki/Christina_Scull" title="Christina Scull">Christina Scull</a> and <a href="/wiki/Wayne_G._Hammond" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="/wiki/The_J.R.R._Tolkien_Companion_and_Guide" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 1024</span>
+<a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> and <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, “II. Reader&#39;s Guide,” in <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> (2006), p. 1024</span>
 </li>
 </ol></div>

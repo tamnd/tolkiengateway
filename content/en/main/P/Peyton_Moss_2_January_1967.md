@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Peyton Moss"
 ---
 
-Redirect to [Letter to Peyton Moss](/wiki/Letter_to_Peyton_Moss).
+Redirect to [Letter to Peyton Moss](../L/Letter_to_Peyton_Moss.md).

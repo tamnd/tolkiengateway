@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lithedays"
 ---
 
-Redirect to [Lithedays](/wiki/Lithedays).
+Redirect to [Lithedays](../L/Lithedays.md).

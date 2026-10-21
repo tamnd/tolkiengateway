@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Return of the King - Sméagol and Déagol.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Return of the King - Sméagol and Déagol.jpg</span>"
 page_id: 73669
 namespace: 6
 revision_id: 435277
@@ -28,7 +27,7 @@ file:
 
 ## Summary {#Summary}
 
-[Déagol](/wiki/D%C3%A9agol) and [Sméagol](/wiki/Gollum "Gollum") fishing - *[The Lord of the Rings: The Return of the King](/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King)*
+[Déagol](../../main/D/Déagol.md) and [Sméagol](../../main/G/Gollum.md) fishing - *[The Lord of the Rings: The Return of the King](../../main/T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Alan Lee - The Star of High Hope.jpg"
 ---
 
-Redirect to [File:Alan Lee - The Star of High Hope.jpg](/wiki/File:Alan_Lee_-_The_Star_of_High_Hope.jpg).
+Redirect to [File:Alan Lee - The Star of High Hope.jpg](Alan_Lee_-_The_Star_of_High_Hope.jpg.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Caves"
 ---
 
-Redirect to [Category:Caves](/wiki/Category:Caves).
+Redirect to [Category:Caves](../../category/C/Caves.md).

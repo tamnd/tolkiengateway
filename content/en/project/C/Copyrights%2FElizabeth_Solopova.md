@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Elizabeth Solopova"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Elizabeth Solopova</span>"
 page_id: 36325
 namespace: 4
 revision_id: 193154
@@ -15,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Solopova, Elizabeth"
 ---
 
-- Permission granted by copyright holder Elizabeth Solopova to use [Elizabeth Solopova.jpg](/wiki/File:Elizabeth_Solopova.jpg "File:Elizabeth Solopova.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder Elizabeth Solopova to use [Elizabeth Solopova.jpg](../../file/E/Elizabeth_Solopova.jpg.md) on Tolkien Gateway.
 - Statement from copyright holder: "*You are welcome to use the photograph.*" (email)
 - Date: 26 September 2011
-- User who sought the permission: [User:Morgan](/wiki/User:Morgan)
+- User who sought the permission: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

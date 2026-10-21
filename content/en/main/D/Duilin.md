@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Duilin (disambiguation)"
 ---
 
-Redirect to [Duilin (disambiguation)](/wiki/Duilin_(disambiguation)).
+Redirect to [Duilin (disambiguation)](<Duilin_(disambiguation).md>).

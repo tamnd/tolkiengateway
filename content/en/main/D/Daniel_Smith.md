@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dan Smith"
 ---
 
-Redirect to [Dan Smith](/wiki/Dan_Smith).
+Redirect to [Dan Smith](Dan_Smith.md).

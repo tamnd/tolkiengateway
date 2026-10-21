@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Spider and Boromir.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Spider and Boromir.jpg</span>"
 page_id: 29042
 namespace: 6
 revision_id: 198405
@@ -26,7 +25,7 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn) and [Boromir](/wiki/Boromir) fight a spider in [Moria](/wiki/Moria).
+[Aragorn](../../main/A/Aragorn.md) and [Boromir](../../main/B/Boromir.md) fight a spider in [Moria](../../main/M/Moria.md).
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

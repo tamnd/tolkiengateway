@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aranel (Elf)"
 ---
 
-Redirect to [Aranel (Elf)](/wiki/Aranel_(Elf)).
+Redirect to [Aranel (Elf)](<Aranel_(Elf).md>).

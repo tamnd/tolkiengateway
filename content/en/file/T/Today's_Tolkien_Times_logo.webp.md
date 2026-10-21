@@ -1,6 +1,5 @@
 ---
 title: "File:Today's Tolkien Times logo.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Today&#039;s Tolkien Times logo.webp</span>"
 page_id: 64799
 namespace: 6
 revision_id: 373339

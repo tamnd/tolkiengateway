@@ -1,6 +1,5 @@
 ---
 title: "File:The Best of The Tolkien Ensemble.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Best of The Tolkien Ensemble.jpg</span>"
 page_id: 68309
 namespace: 6
 revision_id: 401872

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bree-landers"
 ---
 
-Redirect to [Bree-landers](/wiki/Bree-landers).
+Redirect to [Bree-landers](Bree-landers.md).

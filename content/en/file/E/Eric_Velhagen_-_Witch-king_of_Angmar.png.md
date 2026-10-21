@@ -1,6 +1,5 @@
 ---
 title: "File:Eric Velhagen - Witch-king of Angmar.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eric Velhagen - Witch-king of Angmar.png</span>"
 page_id: 74962
 namespace: 6
 revision_id: 441277
@@ -39,30 +38,27 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Eric Velhagen - Witch-king of Angmar.png</span></th>
 <td class="description">
-<p><a href="/wiki/Witch-king" title="Witch-king">Witch-king</a> of <a href="/wiki/Angmar" title="Angmar">Angmar</a>. Created for <i><a href="/wiki/Magic:_The_Gathering_-_The_Hobbit" title="Magic: The Gathering - The Hobbit">Magic: The Gathering - The Hobbit</a></i>
+<p><a href="../../main/W/Witch-king.md" title="Witch-king">Witch-king</a> of <a href="../../main/A/Angmar.md" title="Angmar">Angmar</a>. Created for <i><a href="../../main/M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">Magic: The Gathering - The Hobbit</a></i>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/August" title="August">August</a>, <a href="/wiki/2026" title="2026">2026</a></td>
+<td><a href="../../main/A/August.md" title="August">August</a>, <a href="../../main/_/2026.md" title="2026">2026</a></td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Eric_Velhagen" title="Eric Velhagen">Eric Velhagen</a></td>
+<td><a href="../../main/E/Eric_Velhagen.md" title="Eric Velhagen">Eric Velhagen</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.ericvelhagen.com/galleries/middle-earth?itemId=hskpfze771m5eepy9l0097111lov96" rel="noreferrer noopener" target="_blank">https://www.ericvelhagen.com/galleries/middle-earth?itemId=hskpfze771m5eepy9l0097111lov96</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Eric Velhagen</span></span>
-<p>This work is copyrighted and owned by <a href="/wiki/Eric_Velhagen" title="Eric Velhagen">Eric Velhagen</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+<p>This work is copyrighted and owned by <a href="../../main/E/Eric_Velhagen.md" title="Eric Velhagen">Eric Velhagen</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
-<ul><li><b>Name:</b> <a href="/wiki/Eric_Velhagen" title="Eric Velhagen">Eric Velhagen</a></li>
+<ul><li><b>Name:</b> <a href="../../main/E/Eric_Velhagen.md" title="Eric Velhagen">Eric Velhagen</a></li>
 <li><b>Website:</b> <a class="external text" href="https://www.ericvelhagen.com" rel="noreferrer noopener" target="_blank">Eric Velhagen&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Eric_Velhagen" title="Tolkien Gateway:Copyrights/Eric Velhagen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FEric_Velhagen.md" title="Tolkien Gateway:Copyrights/Eric Velhagen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

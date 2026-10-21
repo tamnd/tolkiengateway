@@ -11,4 +11,4 @@ redirect_target: "Captain of the guard"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Redirect to [Captain of the guard](/wiki/Captain_of_the_guard#Portrayal_in_adaptations).
+Redirect to [Captain of the guard](../C/Captain_of_the_guard.md#Portrayal_in_adaptations).

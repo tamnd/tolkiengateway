@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Myths and Legends Set 1.png"
 ---
 
-Redirect to [File:Myths and Legends Set 1.png](/wiki/File:Myths_and_Legends_Set_1.png).
+Redirect to [File:Myths and Legends Set 1.png](../M/Myths_and_Legends_Set_1.png.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Ron Chironna - An Untimely Brood.jpg"
 ---
 
-Redirect to [File:Ron Chironna - An Untimely Brood.jpg](/wiki/File:Ron_Chironna_-_An_Untimely_Brood.jpg).
+Redirect to [File:Ron Chironna - An Untimely Brood.jpg](Ron_Chironna_-_An_Untimely_Brood.jpg.md).

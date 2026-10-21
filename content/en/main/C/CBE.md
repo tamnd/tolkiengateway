@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Order of the British Empire"
 ---
 
-Redirect to [Order of the British Empire](/wiki/Order_of_the_British_Empire).
+Redirect to [Order of the British Empire](../O/Order_of_the_British_Empire.md).

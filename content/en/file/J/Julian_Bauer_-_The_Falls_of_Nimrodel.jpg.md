@@ -1,6 +1,5 @@
 ---
 title: "File:Julian Bauer - The Falls of Nimrodel.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Julian Bauer - The Falls of Nimrodel.jpg</span>"
 page_id: 62283
 namespace: 6
 revision_id: 351622

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir's outlaws"
 ---
 
-Redirect to [Barahir's outlaws](/wiki/Barahir's_outlaws).
+Redirect to [Barahir's outlaws](../B/Barahir's_outlaws.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings: The Hunt for Gollum"
 ---
 
-Redirect to [The Lord of the Rings: The Hunt for Gollum](/wiki/The_Lord_of_the_Rings:_The_Hunt_for_Gollum).
+Redirect to [The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md).

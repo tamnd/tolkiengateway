@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Sigurd"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Sigurd</span>"
 page_id: 45223
 namespace: 4
 revision_id: 239043
@@ -15,4 +14,4 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sigurd"
 ---
 
-- Uploaded by the [copyright holder](/wiki/User:Sigurd "User:Sigurd").
+- Uploaded by the [copyright holder](https://tolkiengateway.net/wiki/User:Sigurd).

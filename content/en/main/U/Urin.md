@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin"
 ---
 
-Redirect to [Húrin](/wiki/Húrin).
+Redirect to [Húrin](../H/Húrin.md).

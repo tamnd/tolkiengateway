@@ -1,6 +1,5 @@
 ---
 title: "File:The Fall of Numenor - 2022 - Deluxe edition collage (Djeex77).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fall of Numenor - 2022 - Deluxe edition collage (Djeex77).png</span>"
 page_id: 69548
 namespace: 6
 revision_id: 413985
@@ -31,4 +30,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Djeex77</li>
 <li><b>Website:</b> <a class="external text" href="https://www.reddit.com/user/Djeex77/" rel="noreferrer noopener" target="_blank">Djeex77&#39;s Reddit Profile</a></li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/Djeex77&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Djeex77 (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/Djeex77&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Djeex77 (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>

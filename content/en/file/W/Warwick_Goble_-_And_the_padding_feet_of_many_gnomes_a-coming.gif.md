@@ -1,6 +1,5 @@
 ---
 title: "File:Warwick Goble - And the padding feet of many gnomes a-coming.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warwick Goble - And the padding feet of many gnomes a-coming.gif</span>"
 page_id: 26364
 namespace: 6
 revision_id: 347553
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Illustration for "[Goblin Feet](/wiki/Goblin_Feet)" by <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick_Goble" title="wikipedia:Warwick Goble">Warwick Goble</a>, appearing between the pages 178-179 of *[The Book of Fairy Poetry](/wiki/The_Book_of_Fairy_Poetry)* edited by Dora Owen.
+Illustration for "[Goblin Feet](../../main/G/Goblin_Feet.md)" by <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick_Goble" title="wikipedia:Warwick Goble">Warwick Goble</a>, appearing between the pages 178-179 of *[The Book of Fairy Poetry](../../main/T/The_Book_of_Fairy_Poetry.md)* edited by Dora Owen.
 
 ## Licensing {#Licensing}
 

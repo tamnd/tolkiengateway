@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rammas Echor"
 ---
 
-Redirect to [Rammas Echor](/wiki/Rammas_Echor).
+Redirect to [Rammas Echor](Rammas_Echor.md).

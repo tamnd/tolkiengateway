@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien's Legendarium"
 ---
 
-Redirect to [Tolkien's Legendarium](/wiki/Tolkien's_Legendarium).
+Redirect to [Tolkien's Legendarium](Tolkien's_Legendarium.md).

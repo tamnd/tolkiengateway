@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Aldúya"
 ---
 
-Redirect to [Aldúya](/wiki/Aldúya).
+Redirect to [Aldúya](Aldúya.md).

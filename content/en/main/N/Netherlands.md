@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:The Netherlands"
 ---
 
-Redirect to [Category:The Netherlands](/wiki/Category:The_Netherlands).
+Redirect to [Category:The Netherlands](../../category/T/The_Netherlands.md).

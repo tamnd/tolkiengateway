@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Boromir.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Boromir.gif</span>"
 page_id: 11800
 namespace: 6
 revision_id: 203796

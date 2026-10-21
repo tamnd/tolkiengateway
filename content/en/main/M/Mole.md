@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Moles"
 ---
 
-Redirect to [Moles](/wiki/Moles).
+Redirect to [Moles](Moles.md).

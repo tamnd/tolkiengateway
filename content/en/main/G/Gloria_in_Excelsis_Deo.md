@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Alcar mi Tarmenel na Erun"
 ---
 
-Redirect to [Alcar mi Tarmenel na Erun](/wiki/Alcar_mi_Tarmenel_na_Erun).
+Redirect to [Alcar mi Tarmenel na Erun](../A/Alcar_mi_Tarmenel_na_Erun.md).

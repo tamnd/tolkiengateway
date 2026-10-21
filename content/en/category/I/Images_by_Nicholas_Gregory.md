@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Nicholas Gregory"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Nicholas Gregory</span>"
 page_id: 72804
 namespace: 14
 revision_id: 431448
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Gregory, Nicholas"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Nicholas_Gregory&amp;action=edit&amp;redlink=1" title="Nicholas Gregory (page does not exist)">Nicholas Gregory</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nicholas_Gregory&amp;action=edit&amp;redlink=1" title="Nicholas Gregory (page does not exist)">Nicholas Gregory</a></b>.

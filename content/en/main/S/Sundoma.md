@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sundóma"
 ---
 
-Redirect to [Sundóma](/wiki/Sundóma).
+Redirect to [Sundóma](Sundóma.md).

@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Arnaud Sohyer-Büdow"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Arnaud Sohyer-Büdow</span>"
 page_id: 53668
 namespace: 4
 revision_id: 291978
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sohyer-Büdow, Arnaud"
 ---
 
-- Arnaud Sohyer-Büdow has kindly granted his permission to use [his artwork](/wiki/Category:Images_by_Arnaud_Sohyer-B%C3%BCdow "Category:Images by Arnaud Sohyer-Büdow") on [Tolkien Gateway](/wiki/Tolkien_Gateway).
+- Arnaud Sohyer-Büdow has kindly granted his permission to use [his artwork](../../category/I/Images_by_Arnaud_Sohyer-Büdow.md) on [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Date: 30 January 2017
-- User who sought the permission via email: [Mith](/wiki/User:Mith "User:Mith")
+- User who sought the permission via email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

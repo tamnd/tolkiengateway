@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Nardol.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Nardol.jpg</span>"
 page_id: 65710
 namespace: 6
 revision_id: 378445

@@ -1,6 +1,5 @@
 ---
 title: "File:Middle-earth Visions of a Modern Myth.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Middle-earth Visions of a Modern Myth.jpg</span>"
 page_id: 31097
 namespace: 6
 revision_id: 214544

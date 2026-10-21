@@ -15,4 +15,4 @@ sort_keys:
   "Images of books": "Letters from Father Christmas"
 ---
 
-<dl><dd>Images of <b><i><a href="/wiki/Letters_from_Father_Christmas" title="Letters from Father Christmas">Letters from Father Christmas</a></i> editions</b>.</dd></dl>
+<dl><dd>Images of <b><i><a href="../../main/L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> editions</b>.</dd></dl>

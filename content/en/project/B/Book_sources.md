@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Book sources"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Book sources</span>"
 page_id: 62733
 namespace: 4
 revision_id: 355166

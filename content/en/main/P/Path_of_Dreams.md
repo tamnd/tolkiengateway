@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Olórë Mallë"
 ---
 
-Redirect to [Olórë Mallë](/wiki/Olórë_Mallë).
+Redirect to [Olórë Mallë](../O/Olórë_Mallë.md).

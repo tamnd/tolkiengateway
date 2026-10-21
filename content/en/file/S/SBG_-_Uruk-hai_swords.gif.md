@@ -1,6 +1,5 @@
 ---
 title: "File:SBG - Uruk-hai swords.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">SBG - Uruk-hai swords.gif</span>"
 page_id: 12053
 namespace: 6
 revision_id: 204104

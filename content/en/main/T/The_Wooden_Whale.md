@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hirilondë"
 ---
 
-Redirect to [Hirilondë](/wiki/Hirilondë).
+Redirect to [Hirilondë](../H/Hirilondë.md).

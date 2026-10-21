@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcrist"
 ---
 
-Redirect to [Orcrist](/wiki/Orcrist).
+Redirect to [Orcrist](Orcrist.md).

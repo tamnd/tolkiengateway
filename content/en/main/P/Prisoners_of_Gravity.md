@@ -13,7 +13,7 @@ categories:
   - "Documentaries"
 ---
 
-<i><b>Prisoners of Gravity</b></i> was a Canadian television news program about science fiction, fantasy, horror and comic books, produced by TvOntario. The episode of [24 November](/wiki/24_November) [1993](/wiki/1993) was about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien), and features interviews with many authors having been influenced by Tolkien. The episode contains an inverview with [Guy Gavriel Kay](/wiki/Guy_Gavriel_Kay).
+<i><b>Prisoners of Gravity</b></i> was a Canadian television news program about science fiction, fantasy, horror and comic books, produced by TvOntario. The episode of [24 November](../_/24_November.md) [1993](../_/1993.md) was about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), and features interviews with many authors having been influenced by Tolkien. The episode contains an inverview with [Guy Gavriel Kay](../G/Guy_Gavriel_Kay.md).
 
 <h2><span id="About_the_program_.22Tolkien.22"></span><span class="mw-headline" id="About_the_program_&#34;Tolkien&#34;">About the program &#34;Tolkien&#34;</span></h2>
 

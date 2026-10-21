@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lár"
 ---
 
-Redirect to [Lár](/wiki/Lár).
+Redirect to [Lár](Lár.md).

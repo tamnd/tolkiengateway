@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arahad (disambiguation)"
 ---
 
-Redirect to [Arahad (disambiguation)](/wiki/Arahad_(disambiguation)).
+Redirect to [Arahad (disambiguation)](<Arahad_(disambiguation).md>).

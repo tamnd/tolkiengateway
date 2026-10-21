@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mablung"
 ---
 
-Redirect to [Mablung](/wiki/Mablung).
+Redirect to [Mablung](Mablung.md).

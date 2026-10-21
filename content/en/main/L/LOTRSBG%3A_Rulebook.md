@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Strategy Battle Game: Rulebook"
 ---
 
-Redirect to [The Lord of the Rings Strategy Battle Game: Rulebook](/wiki/The_Lord_of_the_Rings_Strategy_Battle_Game:_Rulebook).
+Redirect to [The Lord of the Rings Strategy Battle Game: Rulebook](../T/The_Lord_of_the_Rings_Strategy_Battle_Game%253A_Rulebook.md).

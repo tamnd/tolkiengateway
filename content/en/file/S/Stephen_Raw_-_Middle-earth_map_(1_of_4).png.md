@@ -1,6 +1,5 @@
 ---
 title: "File:Stephen Raw - Middle-earth map (1 of 4).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Stephen Raw - Middle-earth map (1 of 4).png</span>"
 page_id: 30495
 namespace: 6
 revision_id: 270698

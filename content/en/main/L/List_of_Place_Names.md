@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Locations"
 ---
 
-Redirect to [Index:Locations](/wiki/Index:Locations).
+Redirect to [Index:Locations](../../index/L/Locations.md).

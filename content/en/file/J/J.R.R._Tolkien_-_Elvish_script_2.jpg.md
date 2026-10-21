@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Elvish script 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Elvish script 2.jpg</span>"
 page_id: 5797
 namespace: 6
 revision_id: 384686
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-This page of Elvish script by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) here reproduced were published in [The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978). In substance they have no connection with [The Silmarillion](/wiki/The_Silmarillion), being in fact the beginnings of (versions of) the poems [Errantry](/wiki/Errantry) and [The Adventures of Tom Bombadil](/wiki/The_Adventures_of_Tom_Bombadil).
+This page of Elvish script by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) here reproduced were published in [The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md). In substance they have no connection with [The Silmarillion](../../main/T/The_Silmarillion.md), being in fact the beginnings of (versions of) the poems [Errantry](../../main/E/Errantry.md) and [The Adventures of Tom Bombadil](../../main/T/The_Adventures_of_Tom_Bombadil.md).
 
 ## Licensing {#Licensing}
 

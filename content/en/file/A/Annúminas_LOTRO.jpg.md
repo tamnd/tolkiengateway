@@ -1,6 +1,5 @@
 ---
 title: "File:Annúminas LOTRO.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Annúminas LOTRO.jpg</span>"
 page_id: 29403
 namespace: 6
 revision_id: 414994

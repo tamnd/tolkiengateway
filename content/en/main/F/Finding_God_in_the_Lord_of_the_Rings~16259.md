@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finding God in The Lord of the Rings"
 ---
 
-Redirect to [Finding God in The Lord of the Rings](/wiki/Finding_God_in_The_Lord_of_the_Rings).
+Redirect to [Finding God in The Lord of the Rings](Finding_God_in_The_Lord_of_the_Rings.md).

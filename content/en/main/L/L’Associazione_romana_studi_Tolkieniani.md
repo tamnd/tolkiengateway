@@ -1,6 +1,5 @@
 ---
 title: "L’Associazione romana studi Tolkieniani"
-display_title: "<span class=\"mw-page-title-main\">L’Associazione romana studi Tolkieniani</span>"
 page_id: 45124
 namespace: 0
 revision_id: 388878
@@ -15,4 +14,4 @@ categories:
   - "Tolkien Societies"
 ---
 
-**L'Associazione romana studi Tolkieniani** (Italian: Roman Association of Tolkien Studies) was founded in [2005](/wiki/2005) in Rome, Italy as a non-profit association. It has close links with Proudneck, a Tolkien Society smial in Rome, founded in [2000](/wiki/2000).<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup> Since its foundation it has hosted and co-organised several events on [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien") but has no regularly recurring ones.<sup class="noprint" style="line-height: 0.4em;">[<a href="/wiki/Help:References" title="Help:References"><i>source?</i></a>]</sup>
+**L'Associazione romana studi Tolkieniani** (Italian: Roman Association of Tolkien Studies) was founded in [2005](../_/2005.md) in Rome, Italy as a non-profit association. It has close links with Proudneck, a Tolkien Society smial in Rome, founded in [2000](../_/2000.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> Since its foundation it has hosted and co-organised several events on [Tolkien](../J/J.R.R._Tolkien.md) but has no regularly recurring ones.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>

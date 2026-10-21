@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Clayhanger family"
 ---
 
-Redirect to [Clayhanger family](/wiki/Clayhanger_family).
+Redirect to [Clayhanger family](Clayhanger_family.md).

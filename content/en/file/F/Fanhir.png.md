@@ -1,6 +1,5 @@
 ---
 title: "File:Fanhir.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fanhir.png</span>"
 page_id: 35760
 namespace: 6
 revision_id: 168424

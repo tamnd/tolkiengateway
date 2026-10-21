@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin of Emyn Arnen"
 ---
 
-Redirect to [Húrin of Emyn Arnen](/wiki/Húrin_of_Emyn_Arnen).
+Redirect to [Húrin of Emyn Arnen](Húrin_of_Emyn_Arnen.md).

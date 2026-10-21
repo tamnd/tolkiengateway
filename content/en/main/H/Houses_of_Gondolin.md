@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Twelve houses of the Gondothlim"
 ---
 
-Redirect to [Twelve houses of the Gondothlim](/wiki/Twelve_houses_of_the_Gondothlim).
+Redirect to [Twelve houses of the Gondothlim](../T/Twelve_houses_of_the_Gondothlim.md).

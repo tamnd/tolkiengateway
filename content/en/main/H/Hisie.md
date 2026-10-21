@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hísië"
 ---
 
-Redirect to [Hísië](/wiki/Hísië).
+Redirect to [Hísië](Hísië.md).

@@ -1,6 +1,5 @@
 ---
 title: "Bjort Mey Og Hrein"
-display_title: "<span class=\"mw-page-title-main\">Bjort Mey Og Hrein</span>"
 page_id: 63164
 namespace: 0
 revision_id: 357580
@@ -13,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Bjort Mey Og Hrein** is an Icelandic translation of a Polish folk song by Stefán Ólafsson. It is published as the fifth song in *[Songs for the Philologists](/wiki/Songs_for_the_Philologists)* in [1936](/wiki/1936).
+**Bjort Mey Og Hrein** is an Icelandic translation of a Polish folk song by Stefán Ólafsson. It is published as the fifth song in *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* in [1936](../_/1936.md).
 
 ## The song {#The_song}
 

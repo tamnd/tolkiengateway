@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yúyo"
 ---
 
-Redirect to [Yúyo](/wiki/Yúyo).
+Redirect to [Yúyo](Yúyo.md).

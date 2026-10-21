@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Middle-earth Minutes"
 ---
 
-<i><b>Middle-earth Minutes</b></i> is a podcast hosted by Michael Kaiser and his son. They discuss all things Tolkien. It is produced by [Middle-earth Network Radio](/wiki/Middle-earth_Network "Middle-earth Network").
+<i><b>Middle-earth Minutes</b></i> is a podcast hosted by Michael Kaiser and his son. They discuss all things Tolkien. It is produced by [Middle-earth Network Radio](Middle-earth_Network.md).
 
 ## External links {#External_links}
 

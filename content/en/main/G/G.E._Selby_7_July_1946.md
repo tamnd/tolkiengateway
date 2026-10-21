@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to G.E. Selby (7 July 1946)"
 ---
 
-Redirect to [Letter to G.E. Selby (7 July 1946)](/wiki/Letter_to_G.E._Selby_(7_July_1946)).
+Redirect to [Letter to G.E. Selby (7 July 1946)](<../L/Letter_to_G.E._Selby_(7_July_1946).md>).

@@ -1,6 +1,5 @@
 ---
 title: "File:Álvaro Fernández González - Gandalf the Grey (Mithrandir).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Álvaro Fernández González - Gandalf the Grey (Mithrandir).jpg</span>"
 page_id: 74795
 namespace: 6
 revision_id: 439823
@@ -31,25 +30,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Álvaro Fernández González - Gandalf the Grey (Mithrandir).jpg</span></th>
 <td class="description">
-<p><i><a href="/wiki/Gandalf" title="Gandalf">Gandalf the Grey (Mithrandir)</a></i> by <a href="/wiki/Category:Images_by_%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez" title="Category:Images by Álvaro Fernández González">Álvaro Fernández González</a>
+<p><i><a href="../../main/G/Gandalf.md" title="Gandalf">Gandalf the Grey (Mithrandir)</a></i> by <a href="../../category/I/Images_by_Álvaro_Fernández_González.md" title="Category:Images by Álvaro Fernández González">Álvaro Fernández González</a>
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a class="mw-redirect" href="/wiki/October_19" title="October 19">October 19</a>, <a href="/wiki/2019" title="2019">2019</a> - 9:04 PM</td>
+<td><a class="mw-redirect" href="../../main/O/October_19.md" title="October 19">October 19</a>, <a href="../../main/_/2019.md" title="2019">2019</a> - 9:04 PM</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Category:Images_by_%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez" title="Category:Images by Álvaro Fernández González">Álvaro Fernández González</a></td>
+<td><a href="../../category/I/Images_by_Álvaro_Fernández_González.md" title="Category:Images by Álvaro Fernández González">Álvaro Fernández González</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://alvaro-fernandez-gonzalez.artstation.com/projects/Dx81nO" rel="noreferrer noopener" target="_blank">https://alvaro-fernandez-gonzalez.artstation.com/projects/Dx81nO</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Álvaro Fernández González</span></span>
@@ -57,4 +53,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Álvaro Fernández González</li>
 <li><b>Website:</b> <a class="external text" href="https://alvaro-fernandez-gonzalez.artstation.com/" rel="noreferrer noopener" target="_blank">Official website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/%C3%81lvaro_Fern%C3%A1ndez_Gonz%C3%A1lez" title="Tolkien Gateway:Copyrights/Álvaro Fernández González">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FÁlvaro_Fernández_González.md" title="Tolkien Gateway:Copyrights/Álvaro Fernández González">Permission for use on Tolkien Gateway</a></b></li></ul></div>

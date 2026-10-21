@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Lúthien Tinúviel heraldic device (I).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Lúthien Tinúviel heraldic device (I).jpg</span>"
 page_id: 64772
 namespace: 6
 revision_id: 432774
@@ -29,17 +28,17 @@ file:
 
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/30/" rel="noreferrer noopener" target="_blank">Tolkien Art Index #30</a>. Published in:
 
-- *[The J.R.R. Tolkien Calendar 1974](/wiki/The_J.R.R._Tolkien_Calendar_1974)* ([1973](/wiki/1973)), back cover
-- *[The Silmarillion Calendar 1978](/wiki/The_Silmarillion_Calendar_1978)* ([1977](/wiki/1977)), April
-- *[The Silmarillion Desk Calendar 1979](/wiki/The_Silmarillion_Desk_Calendar_1979)* ([1978](/wiki/1978)), December
-- *[Pictures by J.R.R. Tolkien](/wiki/Pictures_by_J.R.R._Tolkien)* ([1979](/wiki/1979)), #47
-- *[The Tolkien Diary 1992](/wiki/The_Tolkien_Diary_1992)* ([1991](/wiki/1991)), 1993-01-01
-- *[J.R.R. Tolkien: Life and Legend](/wiki/J.R.R._Tolkien:_Life_and_Legend)* ([1992](/wiki/1992)), pp. 77, 85
-- *[J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)* ([1995](/wiki/1995)), p. 197, #195
-- *[Tolkien: Maker of Middle-earth](/wiki/Tolkien:_Maker_of_Middle-earth)* ([2018](/wiki/2018)), p. 237, #81
-- *[Tolkien: Treasures](/wiki/Tolkien:_Treasures)* ([2018](/wiki/2018)), pp. 82-3
-- *[Tolkien: Voyage en Terre du Milieu](/wiki/Tolkien:_Voyage_en_Terre_du_Milieu)* ([2019](/wiki/2019)), p. 270, #191
-- *[The Silmarillion](/wiki/The_Silmarillion): Illustrated by J.R.R. Tolkien* ([2022](/wiki/2022)), p. 81
+- *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)* ([1973](../../main/_/1973.md)), back cover
+- *[The Silmarillion Calendar 1978](../../main/T/The_Silmarillion_Calendar_1978.md)* ([1977](../../main/_/1977.md)), April
+- *[The Silmarillion Desk Calendar 1979](../../main/T/The_Silmarillion_Desk_Calendar_1979.md)* ([1978](../../main/_/1978.md)), December
+- *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* ([1979](../../main/_/1979.md)), #47
+- *[The Tolkien Diary 1992](../../main/T/The_Tolkien_Diary_1992.md)* ([1991](../../main/_/1991.md)), 1993-01-01
+- *[J.R.R. Tolkien: Life and Legend](../../main/J/J.R.R._Tolkien%253A_Life_and_Legend.md)* ([1992](../../main/_/1992.md)), pp. 77, 85
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 197, #195
+- *[Tolkien: Maker of Middle-earth](../../main/T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../../main/_/2018.md)), p. 237, #81
+- *[Tolkien: Treasures](../../main/T/Tolkien%253A_Treasures.md)* ([2018](../../main/_/2018.md)), pp. 82-3
+- *[Tolkien: Voyage en Terre du Milieu](../../main/T/Tolkien%253A_Voyage_en_Terre_du_Milieu.md)* ([2019](../../main/_/2019.md)), p. 270, #191
+- *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), p. 81
 
 ## Licensing {#Licensing}
 

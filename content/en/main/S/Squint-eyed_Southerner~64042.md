@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Squint-eyed southerner"
 ---
 
-Redirect to [Squint-eyed southerner](/wiki/Squint-eyed_southerner).
+Redirect to [Squint-eyed southerner](Squint-eyed_southerner.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Clyde S. Kilby (unknown date)"
 ---
 
-Redirect to [Letter to Clyde S. Kilby (unknown date)](/wiki/Letter_to_Clyde_S._Kilby_(unknown_date)).
+Redirect to [Letter to Clyde S. Kilby (unknown date)](<../L/Letter_to_Clyde_S._Kilby_(unknown_date).md>).

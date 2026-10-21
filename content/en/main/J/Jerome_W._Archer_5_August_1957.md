@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters to Jerome W. Archer"
 ---
 
-Redirect to [Letters to Jerome W. Archer](/wiki/Letters_to_Jerome_W._Archer).
+Redirect to [Letters to Jerome W. Archer](../L/Letters_to_Jerome_W._Archer.md).

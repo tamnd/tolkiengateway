@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Shop on the Edge of the Hills of Fairy Land.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Shop on the Edge of the Hills of Fairy Land.jpg</span>"
 page_id: 14623
 namespace: 6
 revision_id: 205177
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-This illustration can be found within [J.R.R. Tolkien: Artist and Illustrator](/wiki/J.R.R._Tolkien:_Artist_and_Illustrator)
+This illustration can be found within [J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)
 
 ## Licensing {#Licensing}
 

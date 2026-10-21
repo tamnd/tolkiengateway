@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Goblin-men"
 ---
 
-Redirect to [Goblin-men](/wiki/Goblin-men).
+Redirect to [Goblin-men](../G/Goblin-men.md).

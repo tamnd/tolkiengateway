@@ -1,6 +1,5 @@
 ---
 title: "Friedrich Nietzsche"
-display_title: "<span class=\"mw-page-title-main\">Friedrich Nietzsche</span>"
 page_id: 27885
 namespace: 0
 revision_id: 405588
@@ -19,15 +18,15 @@ images:
   - "Nietzsche.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="/wiki/File:Nietzsche.jpg"><img src="/w/images/a/ab/Nietzsche.jpg" decoding="async" loading="lazy" width="235" height="311" class="mw-file-element" data-file-width="235" data-file-height="311"/></a><figcaption></figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/N/Nietzsche.jpg.md"><img src="https://tolkiengateway.net/w/images/a/ab/Nietzsche.jpg" decoding="async" loading="lazy" width="235" height="311" class="mw-file-element" data-file-width="235" data-file-height="311"/></a><figcaption></figcaption></figure>
 
-**Friedrich Wilhelm Nietzsche** ([15 October](/wiki/15_October), <a class="new" href="/w/index.php?title=1844&amp;action=edit&amp;redlink=1" title="1844 (page does not exist)">1844</a> – [25 August](/wiki/25_August), [1900](/wiki/1900)) was a 19th-century German philosopher and classical philologist. He wrote critical texts on religion, morality, contemporary culture, philosophy and science.
+**Friedrich Wilhelm Nietzsche** ([15 October](../_/15_October.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=1844&amp;action=edit&amp;redlink=1" title="1844 (page does not exist)">1844</a> – [25 August](../_/25_August.md), [1900](../_/1900.md)) was a 19th-century German philosopher and classical philologist. He wrote critical texts on religion, morality, contemporary culture, philosophy and science.
 
-Although [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) and Nietzsche both were philologists, it is unknown if Tolkien ever read any work of Nietzsche, and few comparative studies have appeared.
+Although [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) and Nietzsche both were philologists, it is unknown if Tolkien ever read any work of Nietzsche, and few comparative studies have appeared.
 
-- "*Über*hobbits: Tolkien, Nietzsche, and the Will to Power", by <a class="new" href="/w/index.php?title=Douglas_K._Blount&amp;action=edit&amp;redlink=1" title="Douglas K. Blount (page does not exist)">Douglas K. Blount</a>, published in *[The Lord of the Rings and Philosophy](/wiki/The_Lord_of_the_Rings_and_Philosophy)* ([2003](/wiki/2003)).
-- "Frodo or Zarathustra: Beyond Nihilism in Tolkien and Nietzsche" by [Peter M. Candler, Jr.](/wiki/Peter_M._Candler,_Jr.), first presented as a paper at the Tolkien conference at <a class="new" href="/w/index.php?title=Exeter_College&amp;action=edit&amp;redlink=1" title="Exeter College (page does not exist)">Exeter College</a> ([Oxford](/wiki/Oxford), August [2006](/wiki/2006)), published in *[Tolkien's The Lord of the Rings: Sources of Inspiration](/wiki/Tolkien%27s_The_Lord_of_the_Rings_%E2%80%93_Sources_of_Inspiration "Tolkien's The Lord of the Rings – Sources of Inspiration")* ([2008](/wiki/2008)). This "*explores the intricate relationships between philology, creativity, creation, myths, the return to the past and the recurrence of things as discussed by Nietzsche and Tolkien*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- "Also Sprach Fëanor, Spirit of Fire: A Nietzschean Reading of Tolkien’s Mythology?" by Giovanni Carmine Costabile, published in *[Tolkien the Pagan?](/wiki/Tolkien_the_Pagan%3F)* ([2019](/wiki/2019))
+- "*Über*hobbits: Tolkien, Nietzsche, and the Will to Power", by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Douglas_K._Blount&amp;action=edit&amp;redlink=1" title="Douglas K. Blount (page does not exist)">Douglas K. Blount</a>, published in *[The Lord of the Rings and Philosophy](../T/The_Lord_of_the_Rings_and_Philosophy.md)* ([2003](../_/2003.md)).
+- "Frodo or Zarathustra: Beyond Nihilism in Tolkien and Nietzsche" by [Peter M. Candler, Jr.](../P/Peter_M._Candler,_Jr..md), first presented as a paper at the Tolkien conference at <a class="new" href="https://tolkiengateway.net/w/index.php?title=Exeter_College&amp;action=edit&amp;redlink=1" title="Exeter College (page does not exist)">Exeter College</a> ([Oxford](../O/Oxford.md), August [2006](../_/2006.md)), published in *[Tolkien's The Lord of the Rings: Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)* ([2008](../_/2008.md)). This "*explores the intricate relationships between philology, creativity, creation, myths, the return to the past and the recurrence of things as discussed by Nietzsche and Tolkien*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- "Also Sprach Fëanor, Spirit of Fire: A Nietzschean Reading of Tolkien’s Mythology?" by Giovanni Carmine Costabile, published in *[Tolkien the Pagan?](../T/Tolkien_the_Pagan%253F.md)* ([2019](../_/2019.md))
 
 ## External links {#External_links}
 

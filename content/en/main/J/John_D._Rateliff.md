@@ -1,6 +1,5 @@
 ---
 title: "John D. Rateliff"
-display_title: "<span class=\"mw-page-title-main\">John D. Rateliff</span>"
 page_id: 12557
 namespace: 0
 revision_id: 437440
@@ -41,86 +40,84 @@ infobox:
     value: "Sacnoth's Scriptorium"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:John_D._Rateliff.png"><img src="/w/images/thumb/a/af/John_D._Rateliff.png/320px-John_D._Rateliff.png" decoding="async" loading="lazy" width="320" height="344" class="mw-file-element" srcset="/w/images/thumb/a/af/John_D._Rateliff.png/480px-John_D._Rateliff.png 1.5x, /w/images/thumb/a/af/John_D._Rateliff.png/640px-John_D._Rateliff.png 2x" data-file-width="745" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>John D. Rateliff</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="/wiki/1958" title="1958">1958</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. at <a href="/wiki/Marquette_University" title="Marquette University">Marquette University</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, editor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">Seattle area</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://sacnoths.blogspot.com" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_D._Rateliff.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/320px-John_D._Rateliff.png" decoding="async" loading="lazy" width="320" height="344" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/480px-John_D._Rateliff.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/John_D._Rateliff.png/640px-John_D._Rateliff.png 2x" data-file-width="745" data-file-height="800"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>John D. Rateliff</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/1958.md" title="1958">1958</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. at <a href="../M/Marquette_University.md" title="Marquette University">Marquette University</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author, editor</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">Seattle area</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://sacnoths.blogspot.com" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a></td></tr></tbody></table>
 
-<style data-mw-deduplicate="TemplateStyles:r410056">.mw-parser-output .tg-infobox{position:relative;width:320px;padding:16px 0;border:var(--tg-border-base);border-radius:var(--tg-border-radius-large);border-spacing:0;color:var(--tg-color-base);background-color:var(--tg-color-surface-2);line-height:var(--tg-line-height-xx-small);font-size:var(--tg-font-size-small)}.mw-parser-output .tg-infobox th,.mw-parser-output .tg-infobox td{padding:0;vertical-align:top}.mw-parser-output .tg-infobox tr>*:first-child{padding-left:16px}.mw-parser-output .tg-infobox tr>*:last-child{padding-right:16px}.mw-parser-output .tg-infobox .tg-infobox-title{font-size:var(--tg-font-size-x-large);padding-bottom:4px}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-header{color:var(--tg-color-emphasized)}.mw-parser-output .tg-infobox-title,.mw-parser-output .tg-infobox-subtitle{line-height:var(--tg-line-height-xxx-small)}.mw-parser-output .tg-infobox .tg-infobox-image{border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:0!important;transform:translateY(-16px);overflow:hidden}.mw-parser-output .tg-infobox-image>figure,.mw-parser-output .tg-infobox-image>figure>figcaption{border:0;padding:0;background:transparent;box-shadow:none}.mw-parser-output .tg-infobox-image>figure{margin-top:0;margin-bottom:0;overflow:hidden}.mw-parser-output .tg-infobox-image .mw-file-description{border-radius:var(--tg-border-radius-sharp)!important}.mw-parser-output .tg-infobox-image>figure>figcaption{padding-left:16px;padding-right:16px;text-align:center}.mw-parser-output .tg-infobox-image>figure>a::after,.mw-parser-output .tg-infobox-image>figure>figcaption::before{content:none}.mw-parser-output .tg-infobox-image>figure img{margin:0;border:0}.mw-parser-output .tg-infobox-image,.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{text-align:center}.mw-parser-output .tg-infobox-subtitle,.mw-parser-output .tg-infobox-caption{color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small)}.mw-parser-output .tg-infobox .tg-infobox-caption{padding-top:4px;padding-bottom:4px}.mw-parser-output .tg-infobox .tg-infobox-header{padding-top:12px;padding-bottom:8px}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span{display:flex;align-items:center;gap:1rem;white-space:nowrap;color:var(--tg-color-subtle);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-regular)}.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:before,.mw-parser-output .tg-infobox-header:not(.tg-infobox-title) span:after{content:" ";height:1px;width:100%;background-color:var(--tg-border-color-base)}.mw-parser-output .tg-infobox .tg-infobox-data,.mw-parser-output .tg-infobox .tg-infobox-label{padding:8px}.mw-parser-output .tg-infobox-label{text-align:start;vertical-align:top}@media(max-width:640px){.mw-parser-output .tg-infobox{width:100%}.mw-parser-output .tg-infobox-image>figure{margin-top:16px}}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]{position:relative;width:100%!important}.mw-parser-output .tg-infobox .embedvideo[data-service="spotifytrack"]::after{content:"";position:absolute;inset:-4px;border:6px solid var(--tg-color-surface-2);border-radius:12px;pointer-events:none}</style>
-
-**John D. Rateliff** (b. [1958](/wiki/1958)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is a [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) scholar, who became well-known when publishing *[The History of The Hobbit](/wiki/The_History_of_The_Hobbit)* in [2007](/wiki/2007). He received his Ph.D from the [Marquette University](/wiki/Marquette_University) with a dissertation on <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>. He lives in the <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">Seattle area</a> and works as a professional editor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**John D. Rateliff** (b. [1958](../_/1958.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) is a [J.R.R. Tolkien](J.R.R._Tolkien.md) scholar, who became well-known when publishing *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)* in [2007](../_/2007.md). He received his Ph.D from the [Marquette University](../M/Marquette_University.md) with a dissertation on <a class="extiw" href="http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" title="wikipedia:Edward Plunkett, 18th Baron of Dunsany">Lord Dunsany</a>. He lives in the <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_metropolitan_area" title="wikipedia:Seattle metropolitan area">Seattle area</a> and works as a professional editor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Books {#Books}
 
-- [1993](/wiki/1993): *[Tolkien Portraiture](/wiki/Tolkien_Portraiture)* (as assistant)
-- [2002](/wiki/2002): *[The Lord of the Rings Roleplaying Game - Core Book](/wiki/The_Lord_of_the_Rings_Roleplaying_Game_-_Core_Book)* (contributor)
-- [2007](/wiki/2007): *[The History of The Hobbit Part One: Mr. Baggins](/wiki/The_History_of_The_Hobbit "The History of The Hobbit")*
-- [2007](/wiki/2007): *[The History of The Hobbit Part Two: Return to Bag-End](/wiki/The_History_of_The_Hobbit "The History of The Hobbit")*
-- [2011](/wiki/2011): *[The History of The Hobbit: One-volume Edition](</wiki/The_History_of_The_Hobbit#One-volume_Edition_(including_Addendum)> "The History of The Hobbit")*
-- [2014](/wiki/2014): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](/wiki/Tolkien_in_the_New_Century "Tolkien in the New Century")* (co-editor)
-- [2015](/wiki/2015): *[A Brief History of The Hobbit](/wiki/A_Brief_History_of_The_Hobbit)*
+- [1993](../_/1993.md): *[Tolkien Portraiture](../T/Tolkien_Portraiture.md)* (as assistant)
+- [2002](../_/2002.md): *[The Lord of the Rings Roleplaying Game - Core Book](../T/The_Lord_of_the_Rings_Roleplaying_Game_-_Core_Book.md)* (contributor)
+- [2007](../_/2007.md): *[The History of The Hobbit Part One: Mr. Baggins](../T/The_History_of_The_Hobbit.md)*
+- [2007](../_/2007.md): *[The History of The Hobbit Part Two: Return to Bag-End](../T/The_History_of_The_Hobbit.md)*
+- [2011](../_/2011.md): *[The History of The Hobbit: One-volume Edition](<../T/The_History_of_The_Hobbit.md#One-volume_Edition_(including_Addendum)>)*
+- [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)* (co-editor)
+- [2015](../_/2015.md): *[A Brief History of The Hobbit](../A/A_Brief_History_of_The_Hobbit.md)*
 
 ### Articles {#Articles}
 
-- [1980](/wiki/1980): [*Amon Hen* 46](/wiki/Amon_Hen_46 "Amon Hen 46")
+- [1980](../_/1980.md): [*Amon Hen* 46](../A/Amon_Hen_46.md)
     - "What's next, Mr Bakshi"
-- [1981](/wiki/1981): [*Amon Hen* 49](/wiki/Amon_Hen_49 "Amon Hen 49")
+- [1981](../_/1981.md): [*Amon Hen* 49](../A/Amon_Hen_49.md)
     - "Who was Gothmog?"
-- [1981](/wiki/1981): [*Amon Hen* 50](/wiki/Amon_Hen_50 "Amon Hen 50")
+- [1981](../_/1981.md): [*Amon Hen* 50](../A/Amon_Hen_50.md)
     - "Pipping Patch Answers"
-- [1981](/wiki/1981): [*Mythlore* 8](/wiki/Mythlore "Mythlore")
+- [1981](../_/1981.md): [*Mythlore* 8](../M/Mythlore.md)
     - "*She* and Tolkien"
-- [1986](/wiki/1986): [*Mythlore* 45](/wiki/Mythlore_45 "Mythlore 45")
+- [1986](../_/1986.md): [*Mythlore* 45](../M/Mythlore_45.md)
     - "'And Something Yet Remains to Be Said': Tolkien and Williams"
-- [1988](/wiki/1988): [*Mallorn* 25](/wiki/Mallorn_25 "Mallorn 25")
+- [1988](../_/1988.md): [*Mallorn* 25](../M/Mallorn_25.md)
     - "Gríma the Wormtongue: Tolkien and His Sources"
-- [1991](/wiki/1991): *[Leaves from the Tree](/wiki/Leaves_from_the_Tree)*
+- [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
     - "Early Versions of *Farmer Giles of Ham*"
-- [1993](/wiki/1993): [*Mallorn* 30](/wiki/Mallorn_30 "Mallorn 30")
-    - "*The Hobbit* and Tolkien's Other Pre-war Writings" (with [Christina Scull](/wiki/Christina_Scull))
-- [2000](/wiki/2000): *[Tolkien's Legendarium](/wiki/Tolkien%27s_Legendarium)*
+- [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
+    - "*The Hobbit* and Tolkien's Other Pre-war Writings" (with [Christina Scull](../C/Christina_Scull.md))
+- [2000](../_/2000.md): *[Tolkien's Legendarium](../T/Tolkien's_Legendarium.md)*
     - "*The Lost Road, The Dark Tower,* and *The Notion Club Papers*: Tolkien and Lewis's Time Travel Triad"
-- [2006](/wiki/2006): *[The Lord of the Rings 1954-2004](/wiki/The_Lord_of_the_Rings_1954-2004)*
+- [2006](../_/2006.md): *[The Lord of the Rings 1954-2004](../T/The_Lord_of_the_Rings_1954-2004.md)*
     - "'And All the Days of Her Life Are Forgotten': The Lord of the Rings as Mythic Prehistory"
-- [2010](/wiki/2010): [*Mallorn* 49](/wiki/Mallorn_49 "Mallorn 49")
+- [2010](../_/2010.md): [*Mallorn* 49](../M/Mallorn_49.md)
     - "How do we know what we know?" (guest editorial)
-- [2011](/wiki/2011): [*VII: An Anglo-American Literary Review*, Vol.27](/wiki/VII_27 "VII 27")
-    - "Woodland Prisoner" - by [Clyde S. Kilby](/wiki/Clyde_S._Kilby) with introduction and annotations by John D. Rateliff
-- [2011](/wiki/2011): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](/wiki/Picturing_Tolkien "Picturing Tolkien")
+- [2011](../_/2011.md): [*VII: An Anglo-American Literary Review*, Vol.27](../V/VII_27.md)
+    - "Woodland Prisoner" - by [Clyde S. Kilby](../C/Clyde_S._Kilby.md) with introduction and annotations by John D. Rateliff
+- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](../P/Picturing_Tolkien.md)
     - "Two Kinds of Absence: Elision and Exclusion in Peter Jackson's *The Lord of the Rings*"
-- [2011](/wiki/2011): *[Tolkien and the Study of His Sources](/wiki/Tolkien_and_the_Study_of_His_Sources)*
+- [2011](../_/2011.md): *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*
     - "*She* and Tolkien, Revisited"
-- [2012](/wiki/2012): *[L'Arc et le Heaume: Tolkien 1892-2012](/wiki/L%27Arc_et_le_Heaume "L'Arc et le Heaume")* (July 2012)
+- [2012](../_/2012.md): *[L'Arc et le Heaume: Tolkien 1892-2012](../L/L'Arc_et_le_Heaume.md)* (July 2012)
     - "Un Fragment, détaché: *Bilbo le Hobbit* et *le Silmarillion*" (English version: "<a class="external text" href="http://www.tolkiendil.com/essais/tolkien_1892-2012/john_d_rateliff" rel="noreferrer noopener" target="_blank">A Fragment, Detached: <i>The Hobbit</i> and <i>The Silmarillion</i></a>")
-- [2014](/wiki/2014): [The Hobbit *and Tolkien's Mythology*](/wiki/The_Hobbit_and_Tolkien%27s_Mythology "The Hobbit and Tolkien's Mythology")
+- [2014](../_/2014.md): [The Hobbit *and Tolkien's Mythology*](../T/The_Hobbit_and_Tolkien's_Mythology.md)
     - "Anchoring the Myth: The Impact of *The Hobbit* on Tolkien's Legendarium"
-- [2014](/wiki/2014): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](/wiki/Tolkien_in_the_New_Century "Tolkien in the New Century")*
+- [2014](../_/2014.md): *[Tolkien in the New Century: Essays in Honor of Tom Shippey](../T/Tolkien_in_the_New_Century.md)*
     - "Inside Literature: Tolkien's Explorations of Medieval Genres"
-- [2015](/wiki/2015): *[Perilous and Fair: Women in J.R.R. Tolkien's Work and Life](/wiki/Perilous_and_Fair "Perilous and Fair")*
+- [2015](../_/2015.md): *[Perilous and Fair: Women in J.R.R. Tolkien's Work and Life](../P/Perilous_and_Fair.md)*
     - "The Missing Women: J.R.R. Tolkien's Lifelong Support for Women's Higher Education"
-- [2015](/wiki/2015): [Mythlore 127](/wiki/Mythlore_127)
+- [2015](../_/2015.md): [Mythlore 127](../M/Mythlore_127.md)
     - "*The Lost Letter: Seeking the Keys to William's Arthuriad*"
-- [2016](/wiki/2016): [*Tolkien Studies*: Volume 13](/wiki/Tolkien_Studies:_Volume_13 "Tolkien Studies: Volume 13")
+- [2016](../_/2016.md): [*Tolkien Studies*: Volume 13](../T/Tolkien_Studies%253A_Volume_13.md)
     - "'That Seems To Me Fatal': Pagan and Christian in *The Fall of Arthur*"
-- [2017](/wiki/2017): [*Orcrist* 9](/wiki/Orcrist_9 "Orcrist 9")
+- [2017](../_/2017.md): [*Orcrist* 9](../O/Orcrist_9.md)
     - "How *The Hobbit* Came to Milwaukee"
-- [2018](/wiki/2018): [*Tolkien Studies*: Volume 15](/wiki/Tolkien_Studies:_Volume_15 "Tolkien Studies: Volume 15")
-    - "*The Inklings and King Arthur: J.R.R. Tolkien, Charles Williams, C. S. Lewis, &amp; Owen Barfield on the Matter of Britain* ed. by [Sørina Higgins](/wiki/S%C3%B8rina_Higgins) (review)"
-- [2020](/wiki/2020): [Mythlore 136](/wiki/Mythlore_136)
+- [2018](../_/2018.md): [*Tolkien Studies*: Volume 15](../T/Tolkien_Studies%253A_Volume_15.md)
+    - "*The Inklings and King Arthur: J.R.R. Tolkien, Charles Williams, C. S. Lewis, &amp; Owen Barfield on the Matter of Britain* ed. by [Sørina Higgins](../S/Sørina_Higgins.md) (review)"
+- [2020](../_/2020.md): [Mythlore 136](../M/Mythlore_136.md)
     - "*In Memoriam: The Last Inkling*"
 
 ## Awards {#Awards}
 
-- [2009](/wiki/2009) - **[Mythopoeic Award](/wiki/Mythopoeic_Society "Mythopoeic Society")**, Mythopoeic Scholarship Award for Inkling Studies, *[The History of The Hobbit Part I: Mr. Baggins](/wiki/Mr._Baggins "Mr. Baggins")*
-- [2023](/wiki/2023): **[Tolkien Society Award](/wiki/Tolkien_Society_Awards "Tolkien Society Awards"): Outstanding Contribution**
+- [2009](../_/2009.md) - **[Mythopoeic Award](../M/Mythopoeic_Society.md)**, Mythopoeic Scholarship Award for Inkling Studies, *[The History of The Hobbit Part I: Mr. Baggins](../M/Mr._Baggins.md)*
+- [2023](../_/2023.md): **[Tolkien Society Award](../T/Tolkien_Society_Awards.md): Outstanding Contribution**
 
 ## See also {#See_also}
 
-- [Interview with John D. Rateliff on 16 April 2007](</wiki/Interviews/John_D._Rateliff_(4-16-07)> "Interviews/John D. Rateliff (4-16-07)")
+- [Interview with John D. Rateliff on 16 April 2007](<../I/Interviews%252FJohn_D._Rateliff_(4-16-07).md>)
 
 ## External links {#External_links}
 
 - <b><a class="external text" href="http://sacnoths.blogspot.com/" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium (official website)</a></b>
-- <a class="external text" href="https://www.youtube.com/watch?v=vFY534kSm90&amp;ab_channel=MarquetteU" rel="noreferrer noopener" target="_blank">&#34;How <i>The Hobbit</i> came to Milwaukee&#34;</a>, a talk given at [Marquette University](/wiki/Marquette_University) in 2012
+- <a class="external text" href="https://www.youtube.com/watch?v=vFY534kSm90&amp;ab_channel=MarquetteU" rel="noreferrer noopener" target="_blank">&#34;How <i>The Hobbit</i> came to Milwaukee&#34;</a>, a talk given at [Marquette University](../M/Marquette_University.md) in 2012
 
 ### Interviews {#Interviews}
 
@@ -134,6 +131,6 @@ infobox:
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://sacnoths.blogspot.com/2011/11/tonight-im-in.html" rel="noreferrer noopener" target="_blank">Tonight I&#39;m in . . .</a> at <a class="external text" href="http://sacnoths.blogspot.com/" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a>, dated 5 November 2011 (accessed 6 November 2011)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="/wiki/The_History_of_The_Hobbit" title="The History of The Hobbit">The History of The Hobbit: One-volume Edition</a></i> (dustjacket information)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit: One-volume Edition</a></i> (dustjacket information)</span>
 </li>
 </ol></div>

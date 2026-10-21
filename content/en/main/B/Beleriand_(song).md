@@ -13,7 +13,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Beleriand</b></i> is a song by the [Tolkien metal](/wiki/Tolkien_metal) band [Summoning](/wiki/Summoning). It appears in their sixth full-lenght album, [Oath Bound](/wiki/Oath_Bound). Its main theme is the arrival of [Noldor](/wiki/Noldor) in [Beleriand](/wiki/Beleriand)
+<i><b>Beleriand</b></i> is a song by the [Tolkien metal](../T/Tolkien_metal.md) band [Summoning](../S/Summoning.md). It appears in their sixth full-lenght album, [Oath Bound](../O/Oath_Bound.md). Its main theme is the arrival of [Noldor](../N/Noldor.md) in [Beleriand](Beleriand.md)
 
 ## Lyrics {#Lyrics}
 

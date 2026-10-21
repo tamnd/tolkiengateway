@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "E.V. Gordon"
 ---
 
-Redirect to [E.V. Gordon](/wiki/E.V._Gordon).
+Redirect to [E.V. Gordon](E.V._Gordon.md).

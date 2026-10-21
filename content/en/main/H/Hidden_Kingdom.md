@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hidden Kingdom (disambiguation)"
 ---
 
-Redirect to [Hidden Kingdom (disambiguation)](/wiki/Hidden_Kingdom_(disambiguation)).
+Redirect to [Hidden Kingdom (disambiguation)](<Hidden_Kingdom_(disambiguation).md>).

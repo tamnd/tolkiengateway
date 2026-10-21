@@ -13,20 +13,20 @@ categories:
   - "Gnomish nouns"
 ---
 
-<i><b>brithla</b></i> is a [Gnomish](/wiki/Gnomish) noun for "pearl".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Its [Qenya](/wiki/Qenya) cognate was *[marilla](/wiki/Marilla "Marilla")*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>brithla</b></i> is a [Gnomish](../G/Gnomish.md) noun for "pearl".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Its [Qenya](../Q/Qenya.md) cognate was *[marilla](../M/Marilla.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Examples {#Examples}
 
-- <i><a class="mw-redirect" href="/wiki/Silubrilt" title="Silubrilt">Silu<b>brilt</b></a></i> = "Moon Pearl"
-- <i><a class="mw-redirect" href="/wiki/Tirimbrithla" title="Tirimbrithla">Tirim<b>brithla</b></a></i> = "Tower of Pearl"
+- <i><a class="mw-redirect" href="../S/Silubrilt.md" title="Silubrilt">Silu<b>brilt</b></a></i> = "Moon Pearl"
+- <i><a class="mw-redirect" href="../T/Tirimbrithla.md" title="Tirimbrithla">Tirim<b>brithla</b></a></i> = "Tower of Pearl"
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="/wiki/Parma_Eldalamberon_11" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="/wiki/Christopher_Gilson" title="Christopher Gilson">Christopher Gilson</a>, <a href="/wiki/Arden_R._Smith" title="Arden R. Smith">Arden R. Smith</a>, and <a href="/wiki/Patrick_H._Wynne" title="Patrick H. Wynne">Patrick H. Wynne</a>), pp. 24, 67</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;I-Lam na-Ngoldathon: The Grammar and Lexicon of the Gnomish Tongue&#34;, in <a href="../P/Parma_Eldalamberon_11.md" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> XI</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>, <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), pp. 24, 67</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_One" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;Silmarilli&#34;</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i>, Appendix: Names in the <i>Lost Tales</i> – Part I, entry &#34;Silmarilli&#34;</span>
 </li>
 </ol></div>

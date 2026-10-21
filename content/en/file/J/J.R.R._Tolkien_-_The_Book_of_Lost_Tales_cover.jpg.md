@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - The Book of Lost Tales cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - The Book of Lost Tales cover.jpg</span>"
 page_id: 60255
 namespace: 6
 revision_id: 337163
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-Cover of "High School Exercise Books" with the title "*[The Cottage of Lost Play](/wiki/The_Cottage_of_Lost_Play), which introduceth \[the\] Book of Lost Tales*" written by [J.R.R. Tolkien](/wiki/J.R.R._Tolkien). The initials of [Edith Tolkien](/wiki/Edith_Tolkien) (EMT) are also written along with the date [12 February](/wiki/12_February) [1917](/wiki/1917). The notebook was a fair copy of the Lost Tale made by her.
+Cover of "High School Exercise Books" with the title "*[The Cottage of Lost Play](../../main/T/The_Cottage_of_Lost_Play.md), which introduceth \[the\] Book of Lost Tales*" written by [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md). The initials of [Edith Tolkien](../../main/E/Edith_Tolkien.md) (EMT) are also written along with the date [12 February](../../main/_/12_February.md) [1917](../../main/_/1917.md). The notebook was a fair copy of the Lost Tale made by her.
 
 ## Licensing {#Licensing}
 

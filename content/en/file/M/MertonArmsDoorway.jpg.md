@@ -1,6 +1,5 @@
 ---
 title: "File:MertonArmsDoorway.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MertonArmsDoorway.jpg</span>"
 page_id: 75091
 namespace: 6
 revision_id: 442280

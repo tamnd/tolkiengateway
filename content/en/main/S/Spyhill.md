@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amon Ethir"
 ---
 
-Redirect to [Amon Ethir](/wiki/Amon_Ethir).
+Redirect to [Amon Ethir](../A/Amon_Ethir.md).

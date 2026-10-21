@@ -1,6 +1,5 @@
 ---
 title: "Letter to Ingeborg Korff"
-display_title: "<span class=\"mw-page-title-main\">Letter to Ingeborg Korff</span>"
 page_id: 26036
 namespace: 0
 revision_id: 387958
@@ -18,14 +17,14 @@ images:
   - "Korff_envelope.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Korff_letter.jpg"><img src="/w/images/thumb/0/0f/Korff_letter.jpg/300px-Korff_letter.jpg" decoding="async" loading="lazy" width="300" height="379" class="mw-file-element" srcset="/w/images/thumb/0/0f/Korff_letter.jpg/450px-Korff_letter.jpg 1.5x, /w/images/thumb/0/0f/Korff_letter.jpg/600px-Korff_letter.jpg 2x" data-file-width="1104" data-file-height="1395"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Korff_letter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0f/Korff_letter.jpg/300px-Korff_letter.jpg" decoding="async" loading="lazy" width="300" height="379" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0f/Korff_letter.jpg/450px-Korff_letter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0f/Korff_letter.jpg/600px-Korff_letter.jpg 2x" data-file-width="1104" data-file-height="1395"/></a><figcaption></figcaption></figure>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Korff_envelope.jpg"><img src="/w/images/thumb/a/a7/Korff_envelope.jpg/300px-Korff_envelope.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="/w/images/thumb/a/a7/Korff_envelope.jpg/450px-Korff_envelope.jpg 1.5x, /w/images/thumb/a/a7/Korff_envelope.jpg/600px-Korff_envelope.jpg 2x" data-file-width="1164" data-file-height="1169"/></a><figcaption></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Korff_envelope.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/Korff_envelope.jpg/300px-Korff_envelope.jpg" decoding="async" loading="lazy" width="300" height="301" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/Korff_envelope.jpg/450px-Korff_envelope.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/Korff_envelope.jpg/600px-Korff_envelope.jpg 2x" data-file-width="1164" data-file-height="1169"/></a><figcaption></figcaption></figure>
 
-On [31 December](/wiki/31_December) [1964](/wiki/1964), [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) wrote **[a letter](/wiki/Letters_not_published_in_The_Letters_of_J.R.R._Tolkien "Letters not published in The Letters of J.R.R. Tolkien") to Ingeborg Korff**, a primary schoolteacher in Germany, directed to her pupils.
+On [31 December](../_/31_December.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) wrote **[a letter](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) to Ingeborg Korff**, a primary schoolteacher in Germany, directed to her pupils.
 
 - **Publication:** None. A transcription of the letter was posted on the web site Tolkien Collector's Guide.
-- **Comment:** The letter was found by the nephew of Ingeborg Korff, who posted photographs of the letter and envelope on Tolkien Collector's Guide. [Wayne G. Hammond](/wiki/Wayne_G._Hammond) and [Christina Scull](/wiki/Christina_Scull) contacted [Christopher Tolkien](/wiki/Christopher_Tolkien) to evaluate the authenticity of the letter. He replied that the letter was genuinely by his father: "entirely characteristic, and signed by him: the signature is unquestionable and in no way out of the ordinary".
+- **Comment:** The letter was found by the nephew of Ingeborg Korff, who posted photographs of the letter and envelope on Tolkien Collector's Guide. [Wayne G. Hammond](../W/Wayne_G._Hammond.md) and [Christina Scull](../C/Christina_Scull.md) contacted [Christopher Tolkien](../C/Christopher_Tolkien.md) to evaluate the authenticity of the letter. He replied that the letter was genuinely by his father: "entirely characteristic, and signed by him: the signature is unquestionable and in no way out of the ordinary".
 
 ## Transcription {#Transcription}
 
@@ -33,8 +32,6 @@ On [31 December](/wiki/31_December) [1964](/wiki/1964), [J.R.R. Tolkien](/wiki/J
 <p>Dear Children,<br/><br/>Thank you very much indeed for writing to me to say that you have enjoyed reading my books. It is always pleasant for an author to learn that his work has given pleasure.<br/><br/>I was particularly interested to know that you have not only read &#34;The Hobbit&#34; and &#34;The Lord of the Rings&#34; in your own language, but that they are helping you to learn English as well. And Miss Korff tells me that you have painted water-colours of many scenes from these stories.<br/><br/>I hope that the books will continue to give you pleasure, and I wish you all much success in your studies.<br/><br/>Yours sincerely<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
-
-<style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style>
 
 ## External links {#External_links}
 

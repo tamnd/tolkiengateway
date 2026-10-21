@@ -1,6 +1,5 @@
 ---
 title: "Level 9 Computing"
-display_title: "<span class=\"mw-page-title-main\">Level 9 Computing</span>"
 page_id: 25566
 namespace: 0
 revision_id: 190139
@@ -15,7 +14,7 @@ categories:
   - "British businesses"
 ---
 
-**Level 9 Computing** was the developer and publisher of [The Middle-Earth Trilogy](/wiki/The_Middle-Earth_Trilogy) ([Colossal Adventure](/wiki/Colossal_Adventure),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Adventure Quest](/wiki/Adventure_Quest)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [Dungeon Adventure](/wiki/Dungeon_Adventure)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Level 9 Computing** was the developer and publisher of [The Middle-Earth Trilogy](../T/The_Middle-Earth_Trilogy.md) ([Colossal Adventure](../C/Colossal_Adventure.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Adventure Quest](../A/Adventure_Quest.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and [Dungeon Adventure](../D/Dungeon_Adventure.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

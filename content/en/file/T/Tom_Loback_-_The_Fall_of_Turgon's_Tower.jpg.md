@@ -1,6 +1,5 @@
 ---
 title: "File:Tom Loback - The Fall of Turgon's Tower.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Tom Loback - The Fall of Turgon&#039;s Tower.jpg</span>"
 page_id: 58310
 namespace: 6
 revision_id: 321107

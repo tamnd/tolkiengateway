@@ -1,6 +1,5 @@
 ---
 title: "Hugh Dickson"
-display_title: "<span class=\"mw-page-title-main\">Hugh Dickson</span>"
 page_id: 6890
 namespace: 0
 revision_id: 405894
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Dickson, Hugh"
 ---
 
-**Hugh Dickson** voiced the part of [Elrond](/wiki/Elrond) in [The Lord of the Rings 1981 radio series](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)") broadcast on the BBC 4.
+**Hugh Dickson** voiced the part of [Elrond](../E/Elrond.md) in [The Lord of the Rings 1981 radio series](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) broadcast on the BBC 4.
 
 ## External links {#External_links}
 

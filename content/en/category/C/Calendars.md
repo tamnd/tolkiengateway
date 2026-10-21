@@ -1,6 +1,5 @@
 ---
 title: "Category:Calendars"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Calendars</span>"
 page_id: 6486
 namespace: 14
 revision_id: 339364
@@ -16,4 +15,4 @@ categories:
 
 Category for all methods of dating within the legendarium.
 
-<dl><dd><i>Do not confuse with <a href="/wiki/Category:Calendars_(real-world)" title="Category:Calendars (real-world)">Category:Calendars (real-world)</a></i></dd></dl>
+<dl><dd><i>Do not confuse with <a href="Calendars_(real-world).md" title="Category:Calendars (real-world)">Category:Calendars (real-world)</a></i></dd></dl>

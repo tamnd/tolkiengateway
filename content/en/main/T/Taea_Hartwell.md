@@ -1,6 +1,5 @@
 ---
 title: "Taea Hartwell"
-display_title: "<span class=\"mw-page-title-main\">Taea Hartwell</span>"
 page_id: 5227
 namespace: 0
 revision_id: 407341
@@ -19,4 +18,4 @@ sort_keys:
   "People by name": "Hartwell, Taea"
 ---
 
-**Taea Hartwell** played a [Hobbit](/wiki/Hobbits "Hobbits") girl in [The Lord of the Rings: The Fellowship of the Ring](/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring).
+**Taea Hartwell** played a [Hobbit](../H/Hobbits.md) girl in [The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).

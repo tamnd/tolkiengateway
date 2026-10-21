@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow of the Past (disambiguation)"
 ---
 
-Redirect to [Shadow of the Past (disambiguation)](/wiki/Shadow_of_the_Past_(disambiguation)).
+Redirect to [Shadow of the Past (disambiguation)](<Shadow_of_the_Past_(disambiguation).md>).

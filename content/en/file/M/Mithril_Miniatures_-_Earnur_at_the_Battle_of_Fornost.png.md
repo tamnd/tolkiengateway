@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - Earnur at the Battle of Fornost.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - Earnur at the Battle of Fornost.png</span>"
 page_id: 73227
 namespace: 6
 revision_id: 433326
@@ -30,7 +29,7 @@ file:
 
 ## Summary {#Summary}
 
-[Earnur](/wiki/E%C3%A4rnur "Eärnur") at [the Battle of Fornost](/wiki/Battle_of_Fornost "Battle of Fornost") - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+[Earnur](../../main/E/Eärnur.md) at [the Battle of Fornost](../../main/B/Battle_of_Fornost.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>Earnur, the last king of Gondor, was one of the great military commanders of the Third-age. He led the army of Gondor to the aid of Arthedain during its death struggle against the hosts of the Witch-king. Although Arhedain had fallen by the time Earnur arrived, he, nonetheless, engaged the forces of Angmar, and together with his Elven allies, completely routed the Witch-king’s army and drove him from the north.<br/>
@@ -42,7 +41,7 @@ This is the 116th release in the Gold Status Fellowship club and was November 20
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

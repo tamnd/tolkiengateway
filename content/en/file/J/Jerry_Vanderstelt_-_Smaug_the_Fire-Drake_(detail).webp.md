@@ -1,6 +1,5 @@
 ---
 title: "File:Jerry Vanderstelt - Smaug the Fire-Drake (detail).webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jerry Vanderstelt - Smaug the Fire-Drake (detail).webp</span>"
 page_id: 64855
 namespace: 6
 revision_id: 373628

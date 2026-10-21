@@ -1,6 +1,5 @@
 ---
 title: "Category:The West of Middle-earth at the End of the Third Age map tiles"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The West of Middle-earth at the End of the Third Age map tiles</span>"
 page_id: 68073
 namespace: 14
 revision_id: 401066
@@ -13,7 +12,7 @@ categories:
   - "Map tiles"
 ---
 
-Map tiles used for [Map:The West of Middle-earth at the End of the Third Age](/wiki/Map:The_West_of_Middle-earth_at_the_End_of_the_Third_Age)
+Map tiles used for [Map:The West of Middle-earth at the End of the Third Age](https://tolkiengateway.net/wiki/Map:The_West_of_Middle-earth_at_the_End_of_the_Third_Age)
 
 Generated with:
 

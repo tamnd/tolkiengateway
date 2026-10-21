@@ -1,6 +1,5 @@
 ---
 title: "File:Rondador - House of the Tower of Snow.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Rondador - House of the Tower of Snow.png</span>"
 page_id: 57425
 namespace: 6
 revision_id: 346159

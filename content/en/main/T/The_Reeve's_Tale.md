@@ -23,15 +23,15 @@ images:
   - "The_Reeve's_Tale_(J.R.R._Tolkien).jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:The_Reeve%27s_Tale_(J.R.R._Tolkien).jpg"><img src="/w/images/thumb/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg/250px-The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg" decoding="async" loading="lazy" width="250" height="401" class="mw-file-element" srcset="/w/images/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg 1.5x" data-file-width="312" data-file-height="500"/></a><figcaption><i>The Reeve&#39;s Tale: Version Prepared for Recitation at the &#39;Summer Diversions&#39; </i></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Reeve&#39;s_Tale_(J.R.R._Tolkien).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg/250px-The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg" decoding="async" loading="lazy" width="250" height="401" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg 1.5x" data-file-width="312" data-file-height="500"/></a><figcaption><i>The Reeve&#39;s Tale: Version Prepared for Recitation at the &#39;Summer Diversions&#39; </i></figcaption></figure>
 
-<i><b>The Reeve&#39;s Tale: Version Prepared for Recitation at the &#39;Summer Diversions&#39; </b></i> is [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s version of <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale"><i>Reeve&#39;s Tale</i></a>, it was privately printed as pamphlets in [1939](/wiki/1939) in Oxford.
+<i><b>The Reeve&#39;s Tale: Version Prepared for Recitation at the &#39;Summer Diversions&#39; </b></i> is [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s version of <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale"><i>Reeve&#39;s Tale</i></a>, it was privately printed as pamphlets in [1939](../_/1939.md) in Oxford.
 
 It contains a two-page introduction, and a reworked text of *The Reeve's Tale* by Chaucer.
 
-The text was reprinted in [2008](/wiki/2008) in *[Tolkien Studies 5](/wiki/Tolkien_Studies_5)*.
+The text was reprinted in [2008](../_/2008.md) in *[Tolkien Studies 5](Tolkien_Studies_5.md)*.
 
-It was again reprinted in [2024](/wiki/2024) in *[Tolkien on Chaucer, 1913-1959](/wiki/Tolkien_on_Chaucer,_1913-1959)*, but here it incorporates some lately discovered materials, including restored lines that were omitted previously, a list of footnote-glossary, and a text 'Chaucerian grammar' lasting several pages.
+It was again reprinted in [2024](../_/2024.md) in *[Tolkien on Chaucer, 1913-1959](Tolkien_on_Chaucer,_1913-1959.md)*, but here it incorporates some lately discovered materials, including restored lines that were omitted previously, a list of footnote-glossary, and a text 'Chaucerian grammar' lasting several pages.
 
 ## External links {#External_links}
 

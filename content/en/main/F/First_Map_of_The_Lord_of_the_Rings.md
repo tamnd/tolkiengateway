@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The First Map of The Lord of the Rings"
 ---
 
-Redirect to [The First Map of The Lord of the Rings](/wiki/The_First_Map_of_The_Lord_of_the_Rings).
+Redirect to [The First Map of The Lord of the Rings](../T/The_First_Map_of_The_Lord_of_the_Rings.md).

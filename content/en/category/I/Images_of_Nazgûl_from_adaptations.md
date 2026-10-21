@@ -1,6 +1,5 @@
 ---
 title: "Category:Images of Nazgûl from adaptations"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images of Nazgûl from adaptations</span>"
 page_id: 74925
 namespace: 14
 revision_id: 440971

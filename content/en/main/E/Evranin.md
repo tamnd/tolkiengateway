@@ -1,6 +1,5 @@
 ---
 title: "Evranin"
-display_title: "<span class=\"mw-page-title-main\">Evranin</span>"
 page_id: 50902
 namespace: 0
 revision_id: 346662
@@ -15,15 +14,15 @@ categories:
   - "Gnomish names"
 ---
 
-**Evranin** was an [Elf](/wiki/Elves "Elves") of [Artanor](/wiki/Artanor), and the nurse of [Elwing](/wiki/Elwing), according to the early version of the [legendarium](/wiki/Legendarium "Legendarium") in *[The Book of Lost Tales](/wiki/The_Book_of_Lost_Tales)*. She helped Elwing escape the [ruin of Artanor](/wiki/Second_Kinslaying "Second Kinslaying") by the [sons of Fëanor](/wiki/Sons_of_F%C3%ABanor "Sons of Fëanor").
+**Evranin** was an [Elf](Elves.md) of [Artanor](../A/Artanor.md), and the nurse of [Elwing](Elwing.md), according to the early version of the [legendarium](../L/Legendarium.md) in *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. She helped Elwing escape the [ruin of Artanor](../S/Second_Kinslaying.md) by the [sons of Fëanor](../S/Sons_of_Fëanor.md).
 
-She, along with [Gereth](/wiki/Gereth), a [Gnome](/wiki/Gnomes "Gnomes"), also managed to smuggle the [Nauglafring](/wiki/Nauglafring) out of Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+She, along with [Gereth](../G/Gereth.md), a [Gnome](../G/Gnomes.md), also managed to smuggle the [Nauglafring](../N/Nauglafring.md) out of Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="/wiki/The_Book_of_Lost_Tales_Part_Two" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;IV. <a href="/wiki/The_Nauglafring" title="The Nauglafring">The Nauglafring</a>&#34;, p. 241</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;IV. <a href="../T/The_Nauglafring.md" title="The Nauglafring">The Nauglafring</a>&#34;, p. 241</span>
 </li>
 </ol></div>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Index:Games by publisher"
 ---
 
-Redirect to [Index:Games by publisher](/wiki/Index:Games_by_publisher).
+Redirect to [Index:Games by publisher](../../index/G/Games_by_publisher.md).

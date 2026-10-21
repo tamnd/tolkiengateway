@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Johann Benjamin Tolkien"
 ---
 
-Redirect to [Johann Benjamin Tolkien](/wiki/Johann_Benjamin_Tolkien).
+Redirect to [Johann Benjamin Tolkien](Johann_Benjamin_Tolkien.md).

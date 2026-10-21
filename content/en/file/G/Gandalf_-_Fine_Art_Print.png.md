@@ -1,6 +1,5 @@
 ---
 title: "File:Gandalf - Fine Art Print.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Gandalf - Fine Art Print.png</span>"
 page_id: 38863
 namespace: 6
 revision_id: 191533

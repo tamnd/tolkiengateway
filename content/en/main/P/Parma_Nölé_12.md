@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 12"
 ---
 
-<b><i>Parma Nölé</i> 12</b> is the twelfth issue of the [North East Tolkien Society](/wiki/North_East_Tolkien_Society) journal *[Parma Nölé](/wiki/Parma_N%C3%B6l%C3%A9)*, for Spring/Summer 2005.
+<b><i>Parma Nölé</i> 12</b> is the twelfth issue of the [North East Tolkien Society](../N/North_East_Tolkien_Society.md) journal *[Parma Nölé](Parma_Nölé.md)*, for Spring/Summer 2005.
 
 ## Contents {#Contents}
 

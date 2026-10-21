@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Hop along, my little friends, up the Withywindle!.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Hop along, my little friends, up the Withywindle!.mp3</span>"
 page_id: 71061
 namespace: 6
 revision_id: 424373
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads an extract of [Hop along, my little friends, up the Withywindle!](/wiki/Hop_along,_my_little_friends,_up_the_Withywindle!)
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads an extract of [Hop along, my little friends, up the Withywindle!](../../main/H/Hop_along,_my_little_friends,_up_the_Withywindle!.md)
 
 ## Licensing {#Licensing}
 

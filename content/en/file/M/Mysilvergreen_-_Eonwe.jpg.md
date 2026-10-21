@@ -1,6 +1,5 @@
 ---
 title: "File:Mysilvergreen - Eonwe.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mysilvergreen - Eonwe.jpg</span>"
 page_id: 55102
 namespace: 6
 revision_id: 380078
@@ -33,4 +32,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Mysilvergreen‎</li>
 <li><b>Website:</b> <a class="external free" href="http://mysilvergreen.deviantart.com" rel="noreferrer noopener" target="_blank">http://mysilvergreen.deviantart.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Mysilvergreen" title="Tolkien Gateway:Copyrights/Mysilvergreen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMysilvergreen.md" title="Tolkien Gateway:Copyrights/Mysilvergreen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

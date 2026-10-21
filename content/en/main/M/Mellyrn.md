@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mallorn"
 ---
 
-Redirect to [Mallorn](/wiki/Mallorn).
+Redirect to [Mallorn](Mallorn.md).

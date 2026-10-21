@@ -1,6 +1,5 @@
 ---
 title: "File:Hither Shore 13.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Hither Shore 13.jpg</span>"
 page_id: 64387
 namespace: 6
 revision_id: 369046

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Ring: Second Edition"
 ---
 
-Redirect to [War of the Ring: Second Edition](/wiki/War_of_the_Ring:_Second_Edition).
+Redirect to [War of the Ring: Second Edition](War_of_the_Ring%253A_Second_Edition.md).

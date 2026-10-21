@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirkwood (MERP)"
 ---
 
-Redirect to [Mirkwood (MERP)](/wiki/Mirkwood_(MERP)).
+Redirect to [Mirkwood (MERP)](<Mirkwood_(MERP).md>).

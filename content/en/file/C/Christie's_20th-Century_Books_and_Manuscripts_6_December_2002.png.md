@@ -1,6 +1,5 @@
 ---
 title: "File:Christie's 20th-Century Books and Manuscripts 6 December 2002.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Christie&#039;s 20th-Century Books and Manuscripts 6 December 2002.png</span>"
 page_id: 37713
 namespace: 6
 revision_id: 215416

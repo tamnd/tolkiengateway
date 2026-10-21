@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Kasia Zielinska"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Kasia Zielinska</span>"
 page_id: 72796
 namespace: 14
 revision_id: 431440
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Zielinska, Kasia"
 ---
 
-This category lists all <b>images by <a class="new" href="/w/index.php?title=Kasia_Zielinska&amp;action=edit&amp;redlink=1" title="Kasia Zielinska (page does not exist)">Kasia Zielinska</a></b>.
+This category lists all <b>images by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kasia_Zielinska&amp;action=edit&amp;redlink=1" title="Kasia Zielinska (page does not exist)">Kasia Zielinska</a></b>.

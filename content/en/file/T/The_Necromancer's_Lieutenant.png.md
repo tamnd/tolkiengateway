@@ -1,6 +1,5 @@
 ---
 title: "File:The Necromancer's Lieutenant.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Necromancer&#039;s Lieutenant.png</span>"
 page_id: 35988
 namespace: 6
 revision_id: 350725

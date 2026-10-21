@@ -1,6 +1,5 @@
 ---
 title: "Steve Staley"
-display_title: "<span class=\"mw-page-title-main\">Steve Staley</span>"
 page_id: 19208
 namespace: 0
 revision_id: 154662
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Staley, Steve"
 ---
 
-**Steven Staley** ([March 10](/wiki/10_March "10 March"), [1963](/wiki/1963)) is an American voice actor who works primarily in the anime circuit. He voiced [Frodo Baggins](/wiki/Frodo_Baggins) and [Celeborn](/wiki/Celeborn) in the game *[The Fellowship of the Ring](</wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(video_game)> "The Lord of the Rings: The Fellowship of the Ring (video game)")* and did additional voices for *[The Hobbit](</wiki/The_Hobbit_(2003_video_game)> "The Hobbit (2003 video game)")*.
+**Steven Staley** ([March 10](../_/10_March.md), [1963](../_/1963.md)) is an American voice actor who works primarily in the anime circuit. He voiced [Frodo Baggins](../F/Frodo_Baggins.md) and [Celeborn](../C/Celeborn.md) in the game *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md>)* and did additional voices for *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## External links {#External_links}
 

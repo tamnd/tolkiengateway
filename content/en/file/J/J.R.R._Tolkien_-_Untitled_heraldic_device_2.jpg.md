@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Untitled heraldic device 2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Untitled heraldic device 2.jpg</span>"
 page_id: 73133
 namespace: 6
 revision_id: 432939
@@ -30,19 +29,14 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">J.R.R. Tolkien - Untitled heraldic device 2.jpg</span></th>
 <td class="description">
-<p>Unidentified heraldic device. Appears in <a href="/wiki/J.R.R._Tolkien:_The_Art_of_the_Manuscript" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a> p. 132
+<p>Unidentified heraldic device. Appears in <a href="../../main/J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a> p. 132
 </p>
 </td>
 </tr>
-<!-- -->
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>J.R.R. Tolkein</td>
 </tr>
-<!-- -->
-<!-- -->
 </tbody></table>
 
 <br>

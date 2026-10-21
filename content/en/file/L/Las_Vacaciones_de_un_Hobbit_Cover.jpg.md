@@ -1,6 +1,5 @@
 ---
 title: "File:Las Vacaciones de un Hobbit Cover.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Las Vacaciones de un Hobbit Cover.jpg</span>"
 page_id: 69048
 namespace: 6
 revision_id: 412198
@@ -44,8 +43,6 @@ file:
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2024-11-05</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Legendaria Ediciones</td>
@@ -54,7 +51,6 @@ file:
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://legendariaediciones.com/product/las-vacaciones-de-un-hobbit/" rel="noreferrer noopener" target="_blank">https://legendariaediciones.com/product/las-vacaciones-de-un-hobbit/</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <br>

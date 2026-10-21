@@ -1,6 +1,5 @@
 ---
 title: "File:Evangeline Lilly New.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Evangeline Lilly New.png</span>"
 page_id: 68899
 namespace: 6
 revision_id: 412489

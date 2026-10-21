@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Archet map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Archet map.jpg</span>"
 page_id: 39169
 namespace: 6
 revision_id: 270732
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of [Archet](/wiki/Archet) from *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of [Archet](../../main/A/Archet.md) from *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

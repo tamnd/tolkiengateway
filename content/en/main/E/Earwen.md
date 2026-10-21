@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärwen"
 ---
 
-Redirect to [Eärwen](/wiki/Eärwen).
+Redirect to [Eärwen](Eärwen.md).

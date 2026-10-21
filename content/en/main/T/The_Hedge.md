@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High Hay"
 ---
 
-Redirect to [High Hay](/wiki/High_Hay).
+Redirect to [High Hay](../H/High_Hay.md).

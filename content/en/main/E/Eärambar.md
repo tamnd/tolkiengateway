@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walls of the World"
 ---
 
-Redirect to [Walls of the World](/wiki/Walls_of_the_World).
+Redirect to [Walls of the World](../W/Walls_of_the_World.md).

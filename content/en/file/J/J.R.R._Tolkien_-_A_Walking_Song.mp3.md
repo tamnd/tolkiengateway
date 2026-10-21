@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - A Walking Song.mp3"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - A Walking Song.mp3</span>"
 page_id: 71037
 namespace: 6
 revision_id: 424277
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-[J.R.R. Tolkien](/wiki/J.R.R._Tolkien) reads out [A Walking Song](/wiki/A_Walking_Song).
+[J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) reads out [A Walking Song](../../main/A/A_Walking_Song.md).
 
 ## Licensing {#Licensing}
 

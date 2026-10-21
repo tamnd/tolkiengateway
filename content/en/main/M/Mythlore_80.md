@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Proceedings of the J.R.R. Tolkien Centenary Conference"
 ---
 
-Redirect to [Proceedings of the J.R.R. Tolkien Centenary Conference](/wiki/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference).
+Redirect to [Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).

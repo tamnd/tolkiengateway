@@ -11,4 +11,4 @@ redirect_target: "Pipe-weed"
 redirect_fragment: "Etymology"
 ---
 
-Redirect to [Pipe-weed](/wiki/Pipe-weed#Etymology).
+Redirect to [Pipe-weed](../P/Pipe-weed.md#Etymology).

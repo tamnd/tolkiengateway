@@ -1,6 +1,5 @@
 ---
 title: "File:The Book of Lost Tales Part Two (HMC 1984).jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Book of Lost Tales Part Two (HMC 1984).jpg</span>"
 page_id: 11530
 namespace: 6
 revision_id: 361694

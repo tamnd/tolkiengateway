@@ -13,4 +13,4 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>sanda</b></i> is a [Quenya](/wiki/Quenya) progressive verb meaning *abiding*.
+<i><b>sanda</b></i> is a [Quenya](../Q/Quenya.md) progressive verb meaning *abiding*.

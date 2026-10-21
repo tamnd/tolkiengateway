@@ -1,6 +1,5 @@
 ---
 title: "File:Guardians of Middle-earth - Mouth of Sauron.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Guardians of Middle-earth - Mouth of Sauron.png</span>"
 page_id: 71358
 namespace: 6
 revision_id: 425807
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The [Mouth of Sauron](/wiki/Mouth_of_Sauron) - *[Guardians of Middle-earth](/wiki/Guardians_of_Middle-earth)*
+The [Mouth of Sauron](../../main/M/Mouth_of_Sauron.md) - *[Guardians of Middle-earth](../../main/G/Guardians_of_Middle-earth.md)*
 
 ## Licensing {#Licensing}
 

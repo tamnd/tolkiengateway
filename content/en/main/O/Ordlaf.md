@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ordláf"
 ---
 
-Redirect to [Ordláf](/wiki/Ordláf).
+Redirect to [Ordláf](Ordláf.md).

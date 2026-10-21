@@ -13,4 +13,4 @@ categories:
   - "Quenya verbs"
 ---
 
-**lala-** is a [Quenya](/wiki/Quenya) verb meaning "to laugh". Compare with [Sindarin](/wiki/Sindarin) *[lalaith](</wiki/Lalaith_(word)> "Lalaith (word)")*.
+**lala-** is a [Quenya](../Q/Quenya.md) verb meaning "to laugh". Compare with [Sindarin](../S/Sindarin.md) *[lalaith](<Lalaith_(word).md>)*.

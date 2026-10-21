@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:The Lord of the Rings 1954-v1.png"
 ---
 
-Redirect to [File:The Lord of the Rings 1954-v1.png](/wiki/File:The_Lord_of_the_Rings_1954-v1.png).
+Redirect to [File:The Lord of the Rings 1954-v1.png](The_Lord_of_the_Rings_1954-v1.png.md).

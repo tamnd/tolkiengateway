@@ -1,6 +1,5 @@
 ---
 title: "Misty Mountains Cold"
-display_title: "<span class=\"mw-page-title-main\">Misty Mountains Cold</span>"
 page_id: 38736
 namespace: 0
 revision_id: 243447
@@ -13,7 +12,7 @@ categories:
   - "The Hobbit (1977 film) soundtrack"
 ---
 
-**Misty Mountains Cold** is the thirteenth and final track on *[The Hobbit: The Complete Original Soundtrack](/wiki/The_Hobbit:_The_Complete_Original_Soundtrack)* from the [1977](/wiki/1977) [film adaptation](</wiki/The_Hobbit_(1977_film)> "The Hobbit (1977 film)"). Based on the poem "[Under the mountain dark and tall](/wiki/Under_the_mountain_dark_and_tall)", it was adapted by [Jules Bass](/wiki/Jules_Bass) with music by [Maury Laws](/wiki/Maury_Laws) and is technically a reprise to "[Gandalf's Reflection](/wiki/Gandalf%27s_Reflection)."
+**Misty Mountains Cold** is the thirteenth and final track on *[The Hobbit: The Complete Original Soundtrack](../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md)* from the [1977](../_/1977.md) [film adaptation](<../T/The_Hobbit_(1977_film).md>). Based on the poem "[Under the mountain dark and tall](../U/Under_the_mountain_dark_and_tall.md)", it was adapted by [Jules Bass](../J/Jules_Bass.md) with music by [Maury Laws](Maury_Laws.md) and is technically a reprise to "[Gandalf's Reflection](../G/Gandalf's_Reflection.md)."
 
 ## Lyrics {#Lyrics}
 

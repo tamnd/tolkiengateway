@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Role Playing (boxed set)"
 ---
 
-Redirect to [Middle-earth Role Playing (boxed set)](/wiki/Middle-earth_Role_Playing_(boxed_set)).
+Redirect to [Middle-earth Role Playing (boxed set)](<Middle-earth_Role_Playing_(boxed_set).md>).

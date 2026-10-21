@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Castamir of Umbar"
 ---
 
-Redirect to [Castamir of Umbar](/wiki/Castamir_of_Umbar).
+Redirect to [Castamir of Umbar](Castamir_of_Umbar.md).

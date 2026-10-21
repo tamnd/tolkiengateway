@@ -1,6 +1,5 @@
 ---
 title: "File:Main page - Characters.webp"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Main page - Characters.webp</span>"
 page_id: 67487
 namespace: 6
 revision_id: 391972

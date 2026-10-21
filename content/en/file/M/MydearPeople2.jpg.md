@@ -1,6 +1,5 @@
 ---
 title: "File:MydearPeople2.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">MydearPeople2.jpg</span>"
 page_id: 64160
 namespace: 6
 revision_id: 366800

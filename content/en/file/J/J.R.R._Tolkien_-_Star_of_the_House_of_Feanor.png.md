@@ -1,6 +1,5 @@
 ---
 title: "File:J.R.R. Tolkien - Star of the House of Feanor.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">J.R.R. Tolkien - Star of the House of Feanor.png</span>"
 page_id: 59303
 namespace: 6
 revision_id: 431003
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-The Star of the [House of Fëanor](/wiki/House_of_F%C3%ABanor), extracted from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien)'s [depiction of the Doors of Durin](/wiki/File:J.R.R._Tolkien_-_Doors_of_Durin.jpg "File:J.R.R. Tolkien - Doors of Durin.jpg") in *[The Fellowship of the Ring](/wiki/The_Fellowship_of_the_Ring)*.
+The Star of the [House of Fëanor](../../main/H/House_of_Fëanor.md), extracted from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md)'s [depiction of the Doors of Durin](J.R.R._Tolkien_-_Doors_of_Durin.jpg.md) in *[The Fellowship of the Ring](../../main/T/The_Fellowship_of_the_Ring.md)*.
 
 ## Licensing {#Licensing}
 

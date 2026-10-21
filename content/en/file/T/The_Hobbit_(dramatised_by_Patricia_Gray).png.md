@@ -1,6 +1,5 @@
 ---
 title: "File:The Hobbit (dramatised by Patricia Gray).png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Hobbit (dramatised by Patricia Gray).png</span>"
 page_id: 38132
 namespace: 6
 revision_id: 214638

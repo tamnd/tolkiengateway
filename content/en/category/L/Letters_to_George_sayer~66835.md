@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Letters to George Sayer"
 ---
 
-Redirect to [Category:Letters to George Sayer](/wiki/Category:Letters_to_George_Sayer).
+Redirect to [Category:Letters to George Sayer](Letters_to_George_Sayer.md).

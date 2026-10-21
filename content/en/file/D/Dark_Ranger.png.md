@@ -1,6 +1,5 @@
 ---
 title: "File:Dark Ranger.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Dark Ranger.png</span>"
 page_id: 63178
 namespace: 6
 revision_id: 358657
@@ -32,4 +31,4 @@ A Dark ranger walking in the wilderness, behind him is a mountain range and some
 <p>This work is copyrighted and owned by Ms_sho64. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
 </p>
 <ul><li><b>Name:</b> Ms_sho64</li>
-<li><b><a class="new" href="/w/index.php?title=Tolkien_Gateway:Copyrights/Ms_sho64&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Ms sho64 (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:Copyrights/Ms_sho64&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:Copyrights/Ms sho64 (page does not exist)">Permission for use on Tolkien Gateway</a></b></li></ul></div>

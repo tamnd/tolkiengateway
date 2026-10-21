@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mound of the Riders"
 ---
 
-Redirect to [Mound of the Riders](/wiki/Mound_of_the_Riders).
+Redirect to [Mound of the Riders](Mound_of_the_Riders.md).

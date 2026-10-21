@@ -1,6 +1,5 @@
 ---
 title: "File:Klett-Cotta - logo.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Klett-Cotta - logo.jpg</span>"
 page_id: 34247
 namespace: 6
 revision_id: 247151

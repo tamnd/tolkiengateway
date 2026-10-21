@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dangweth Pengoloð"
 ---
 
-Redirect to [Dangweth Pengoloð](/wiki/Dangweth_Pengoloð).
+Redirect to [Dangweth Pengoloð](Dangweth_Pengoloð.md).

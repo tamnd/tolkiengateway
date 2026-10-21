@@ -1,6 +1,5 @@
 ---
 title: "Dungalef"
-display_title: "<span class=\"mw-page-title-main\">Dungalef</span>"
 page_id: 10685
 namespace: 0
 revision_id: 329445
@@ -22,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Dungalef"
 ---
 
-**Dungalef** (anagram of the name "Felagund") was the name [Finrod Felagund](/wiki/Finrod "Finrod") took upon himself during the [Quest for the Silmaril](/wiki/Quest_for_the_Silmaril) when disguised as an [orc](/wiki/Orcs "Orcs"). His companion, [Beren Erchamion](/wiki/Beren "Beren"), took the name of [Nereb](/wiki/Nereb).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
+**Dungalef** (anagram of the name "Felagund") was the name [Finrod Felagund](../F/Finrod.md) took upon himself during the [Quest for the Silmaril](../Q/Quest_for_the_Silmaril.md) when disguised as an [orc](../O/Orcs.md). His companion, [Beren Erchamion](../B/Beren.md), took the name of [Nereb](../N/Nereb.md).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
 
 <span></span>
 
@@ -30,6 +29,6 @@ langlinks:
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-LB-1"><span class="mw-cite-backlink"><a href="#cite_ref-LB_1-0">↑</a></span> <span class="reference-text">
-<a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lays_of_Beleriand" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, &#34;III. <a href="/wiki/The_Lay_of_Leithian" title="The Lay of Leithian">The Lay of Leithian</a>: <a href="/wiki/Lay_of_Leithian_Canto_VII" title="Lay of Leithian Canto VII">Canto VII (Beren and Felagund before Thû)</a>&#34;, p. 229</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, &#34;III. <a href="../T/The_Lay_of_Leithian.md" title="The Lay of Leithian">The Lay of Leithian</a>: <a href="../L/Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII (Beren and Felagund before Thû)</a>&#34;, p. 229</span>
 </li>
 </ol></div>

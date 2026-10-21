@@ -1,6 +1,5 @@
 ---
 title: "File:Eradan of the week - 9 November.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Eradan of the week - 9 November.png</span>"
 page_id: 37548
 namespace: 6
 revision_id: 180217
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Eradan](</wiki/Eradan_(video_game_character)> "Eradan (video game character)") of the Week on [9 November](/wiki/9_November).
+[Eradan](<../../main/E/Eradan_(video_game_character).md>) of the Week on [9 November](../../main/_/9_November.md).
 
 ## Licensing {#Licensing}
 

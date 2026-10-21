@@ -1,6 +1,5 @@
 ---
 title: "File:LEGO - Goblin Soldier.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">LEGO - Goblin Soldier.png</span>"
 page_id: 73160
 namespace: 6
 revision_id: 433005
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Goblin](/wiki/Orcs "Orcs") Soldier - [LEGO](/wiki/Lego "Lego") minifigure
+[Goblin](../../main/O/Orcs.md) Soldier - [LEGO](../../main/L/Lego.md) minifigure
 
 ## Licensing {#Licensing}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgoth"
 ---
 
-Redirect to [Morgoth](/wiki/Morgoth).
+Redirect to [Morgoth](../M/Morgoth.md).

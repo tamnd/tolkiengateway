@@ -1,6 +1,5 @@
 ---
 title: "Category:Contents"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Contents</span>"
 page_id: 21924
 namespace: 14
 revision_id: 421706
@@ -13,4 +12,4 @@ categories:
   - "Contents"
 ---
 
-The mother-category of [Tolkien Gateway](/wiki/Tolkien_Gateway).
+The mother-category of [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).

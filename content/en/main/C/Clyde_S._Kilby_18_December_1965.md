@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Clyde S. Kilby (18 December 1965)"
 ---
 
-Redirect to [Letter to Clyde S. Kilby (18 December 1965)](/wiki/Letter_to_Clyde_S._Kilby_(18_December_1965)).
+Redirect to [Letter to Clyde S. Kilby (18 December 1965)](<../L/Letter_to_Clyde_S._Kilby_(18_December_1965).md>).

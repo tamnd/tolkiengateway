@@ -11,4 +11,4 @@ redirect_target: "Telperion"
 redirect_fragment: "Names"
 ---
 
-Redirect to [Telperion](/wiki/Telperion#Names).
+Redirect to [Telperion](../T/Telperion.md#Names).

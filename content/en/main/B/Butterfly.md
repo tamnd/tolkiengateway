@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Butterflies"
 ---
 
-Redirect to [Butterflies](/wiki/Butterflies).
+Redirect to [Butterflies](Butterflies.md).

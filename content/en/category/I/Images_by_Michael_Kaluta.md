@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Michael Kaluta"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Michael Kaluta</span>"
 page_id: 9259
 namespace: 14
 revision_id: 182103
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Kaluta, Michael"
 ---
 
-This category lists all **images by [Michael Kaluta](/wiki/Michael_Kaluta)**.
+This category lists all **images by [Michael Kaluta](../../main/M/Michael_Kaluta.md)**.

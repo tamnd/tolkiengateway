@@ -1,6 +1,5 @@
 ---
 title: "File:Julie Cape 17 February 1963.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Julie Cape 17 February 1963.png</span>"
 page_id: 36588
 namespace: 6
 revision_id: 215048

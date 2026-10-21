@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Peoples of Middle-earth 2024.jpeg"
 ---
 
-Redirect to [File:Peoples of Middle-earth 2024.jpeg](/wiki/File:Peoples_of_Middle-earth_2024.jpeg).
+Redirect to [File:Peoples of Middle-earth 2024.jpeg](Peoples_of_Middle-earth_2024.jpeg.md).

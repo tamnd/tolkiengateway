@@ -1,6 +1,5 @@
 ---
 title: "File:Sagan om Ringen - Samwise Gamgee.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Sagan om Ringen - Samwise Gamgee.png</span>"
 page_id: 71014
 namespace: 6
 revision_id: 424192
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Samwise Gamgee](/wiki/Samwise_Gamgee) in [Sagan om Ringen](</wiki/Sagan_om_Ringen_(1971_film)> "Sagan om Ringen (1971 film)")
+[Samwise Gamgee](../../main/S/Samwise_Gamgee.md) in [Sagan om Ringen](<../../main/S/Sagan_om_Ringen_(1971_film).md>)
 
 ## Licensing {#Licensing}
 

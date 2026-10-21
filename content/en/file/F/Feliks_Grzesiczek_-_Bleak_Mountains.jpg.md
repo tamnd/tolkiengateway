@@ -1,6 +1,5 @@
 ---
 title: "File:Feliks Grzesiczek - Bleak Mountains.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Feliks Grzesiczek - Bleak Mountains.jpg</span>"
 page_id: 74078
 namespace: 6
 revision_id: 437063
@@ -33,8 +32,8 @@ file:
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Feliks Grzesiczek - Bleak Mountains.jpg</span></th>
 <td class="description">
 <p><i>Bleak Mountains</i>. 
-Used for <a href="/wiki/Dream_Cards#The_Northern_Waste" title="Dream Cards">The Northern Waste</a> of fan-made Dream Card expansions for
-the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
+Used for <a href="../../main/D/Dream_Cards.md#The_Northern_Waste" title="Dream Cards">The Northern Waste</a> of fan-made Dream Card expansions for
+the <a href="../../main/M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a>.
  Originally titled <i>“Winter in the Mountains”</i> before its use.
 </p>
 </td>
@@ -43,8 +42,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
 <td>2011</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
 <td>Feliks Grzesiczek</td>
@@ -53,7 +50,6 @@ the <a href="/wiki/Middle-earth_Collectible_Card_Game" title="Middle-earth Colle
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external text" href="https://www.deviantart.com/fel-x/art/winter-in-the-mountains-321590091" rel="noreferrer noopener" target="_blank">Artist&#39;s Deviant Art</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 </div>
 

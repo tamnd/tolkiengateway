@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Durin's Day"
 ---
 
-Redirect to [Durin's Day](/wiki/Durin's_Day).
+Redirect to [Durin's Day](Durin's_Day.md).

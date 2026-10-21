@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron Defeated"
 ---
 
-Redirect to [Sauron Defeated](/wiki/Sauron_Defeated).
+Redirect to [Sauron Defeated](Sauron_Defeated.md).

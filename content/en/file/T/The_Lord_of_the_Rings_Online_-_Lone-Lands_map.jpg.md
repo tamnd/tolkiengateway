@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings Online - Lone-Lands map.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings Online - Lone-Lands map.jpg</span>"
 page_id: 38673
 namespace: 6
 revision_id: 362758
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Map of the [Lone-lands](/wiki/Lone-lands) as it appears in *[The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online)*.
+Map of the [Lone-lands](../../main/L/Lone-lands.md) as it appears in *[The Lord of the Rings Online](../../main/T/The_Lord_of_the_Rings_Online.md)*.
 
 ## Licensing {#Licensing}
 

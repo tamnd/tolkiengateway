@@ -1,6 +1,5 @@
 ---
 title: "File:Aragorn's Quest - Rivendell3.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Aragorn&#039;s Quest - Rivendell3.jpg</span>"
 page_id: 30180
 namespace: 6
 revision_id: 169372
@@ -26,9 +25,9 @@ file:
   user: "Mith"
 ---
 
-[Aragorn](/wiki/Aragorn) and [Legolas](/wiki/Legolas) in the [Rivendell](/wiki/Rivendell) level of *[The Lord of the Rings: Aragorn's Quest](/wiki/The_Lord_of_the_Rings:_Aragorn%27s_Quest)*.
+[Aragorn](../../main/A/Aragorn.md) and [Legolas](../../main/L/Legolas.md) in the [Rivendell](../../main/R/Rivendell.md) level of *[The Lord of the Rings: Aragorn's Quest](../../main/T/The_Lord_of_the_Rings%253A_Aragorn's_Quest.md)*.
 
-From: <a class="external text" href="http://jodysargentportfolio.com/Project1.html" rel="noreferrer noopener" target="_blank">Jody Sargent</a>, Environment Artist for [The Shire](/wiki/The_Shire) and [Rivendell](/wiki/Rivendell) (including [Bree](/wiki/Bree)) levels.
+From: <a class="external text" href="http://jodysargentportfolio.com/Project1.html" rel="noreferrer noopener" target="_blank">Jody Sargent</a>, Environment Artist for [The Shire](../../main/T/The_Shire.md) and [Rivendell](../../main/R/Rivendell.md) (including [Bree](../../main/B/Bree.md)) levels.
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,

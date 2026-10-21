@@ -11,4 +11,4 @@ redirect_target: "Nightingales"
 redirect_fragment: "Names and Etymology"
 ---
 
-Redirect to [Nightingales](/wiki/Nightingales#Names_and_Etymology).
+Redirect to [Nightingales](../N/Nightingales.md#Names_and_Etymology).

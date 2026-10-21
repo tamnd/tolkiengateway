@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Images of Peter Pracownik"
 ---
 
-Redirect to [Category:Images of Peter Pracownik](/wiki/Category:Images_of_Peter_Pracownik).
+Redirect to [Category:Images of Peter Pracownik](../../category/I/Images_of_Peter_Pracownik.md).

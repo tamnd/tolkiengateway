@@ -1,6 +1,5 @@
 ---
 title: "Category:Heren Istarion members"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Heren Istarion members</span>"
 page_id: 15542
 namespace: 14
 revision_id: 65482
@@ -13,4 +12,4 @@ categories:
   - "Tolkien Society members"
 ---
 
-These users are members of Heren Istarion, the [North East Tolkien Society](/wiki/North_East_Tolkien_Society).
+These users are members of Heren Istarion, the [North East Tolkien Society](../../main/N/North_East_Tolkien_Society.md).

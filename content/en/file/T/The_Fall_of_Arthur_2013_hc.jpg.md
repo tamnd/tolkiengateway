@@ -1,6 +1,5 @@
 ---
 title: "File:The Fall of Arthur 2013 hc.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Fall of Arthur 2013 hc.jpg</span>"
 page_id: 41825
 namespace: 6
 revision_id: 430613

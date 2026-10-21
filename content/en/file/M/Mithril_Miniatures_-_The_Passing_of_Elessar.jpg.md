@@ -1,6 +1,5 @@
 ---
 title: "File:Mithril Miniatures - The Passing of Elessar.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Mithril Miniatures - The Passing of Elessar.jpg</span>"
 page_id: 71208
 namespace: 6
 revision_id: 425813
@@ -31,7 +30,7 @@ file:
 
 ## Summary {#Summary}
 
-The Passing of [Elessar](/wiki/Aragorn "Aragorn") - *[Mithril Miniatures](/wiki/Mithril_Miniatures)*<br>Product description:
+The Passing of [Elessar](../../main/A/Aragorn.md) - *[Mithril Miniatures](../../main/M/Mithril_Miniatures.md)*<br>Product description:
 
 <div class="poem">
 <p>King Elessar was crowned in the momentous year 3019 T.A. and ruled the united kingdoms of Gondor and Arnor until year 120 in the Fourth age. His queen, Arwen, although of Elven stock, had chosen the fate of men rather than of Elves and remained always in Middle-earth, never seeking passage to the West. In this vignette both Arwen and her son Eldarion, stand before the tomb of Elessar, which is flanked by Minas Tirith guardsmen. At the foot of the tomb rests the winged crown of Gondor, which Eldarion will inherit. After this Arwen also bade farewell to her son and departed the city forever and passed out of all knowledge into the fading land of Lorien.<br/>
@@ -44,7 +43,7 @@ This is the 76th release in the new Gold Status Fellowship club. This is Novembe
 ## Licensing {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
-<p>This work is copyrighted and owned by <a href="/wiki/Mithril_Miniatures" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
+<p>This work is copyrighted and owned by <a href="../../main/M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniatures</a>. It is believed that the limited use of this file,
 </p>
 <ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
 <p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.

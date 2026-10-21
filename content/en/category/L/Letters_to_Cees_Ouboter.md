@@ -1,6 +1,5 @@
 ---
 title: "Category:Letters to Cees Ouboter"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Letters to Cees Ouboter</span>"
 page_id: 68058
 namespace: 14
 revision_id: 400975
@@ -15,4 +14,4 @@ sort_keys:
   "Letters by recipient": "Ouboter, Cees"
 ---
 
-Letters from [J.R.R. Tolkien](/wiki/J.R.R._Tolkien) to <a class="new" href="/w/index.php?title=Cees_Ouboter&amp;action=edit&amp;redlink=1" title="Cees Ouboter (page does not exist)">Cees Ouboter</a>.
+Letters from [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cees_Ouboter&amp;action=edit&amp;redlink=1" title="Cees Ouboter (page does not exist)">Cees Ouboter</a>.

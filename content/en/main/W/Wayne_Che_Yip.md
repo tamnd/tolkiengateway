@@ -1,6 +1,5 @@
 ---
 title: "Wayne Che Yip"
-display_title: "<span class=\"mw-page-title-main\">Wayne Che Yip</span>"
 page_id: 59821
 namespace: 0
 revision_id: 407840
@@ -16,9 +15,9 @@ images:
   - "Wayne_Che_Yip.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/File:Wayne_Che_Yip.jpg"><img src="/w/images/thumb/1/16/Wayne_Che_Yip.jpg/200px-Wayne_Che_Yip.jpg" decoding="async" loading="lazy" width="200" height="300" class="mw-file-element" srcset="/w/images/thumb/1/16/Wayne_Che_Yip.jpg/300px-Wayne_Che_Yip.jpg 1.5x, /w/images/thumb/1/16/Wayne_Che_Yip.jpg/400px-Wayne_Che_Yip.jpg 2x" data-file-width="1066" data-file-height="1600"/></a><figcaption><i>Wayne Che Yip</i> in 2021</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wayne_Che_Yip.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/16/Wayne_Che_Yip.jpg/200px-Wayne_Che_Yip.jpg" decoding="async" loading="lazy" width="200" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/16/Wayne_Che_Yip.jpg/300px-Wayne_Che_Yip.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/16/Wayne_Che_Yip.jpg/400px-Wayne_Che_Yip.jpg 2x" data-file-width="1066" data-file-height="1600"/></a><figcaption><i>Wayne Che Yip</i> in 2021</figcaption></figure>
 
-**Wayne Che Yip** (born [1981](/wiki/1981)) is a British director. He directed four episodes of the first season of the*[The Lord of the Rings: The Rings of Power‎](/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power "The Lord of the Rings: The Rings of Power")*, in addition of serving as executive producer.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Wayne Che Yip** (born [1981](../_/1981.md)) is a British director. He directed four episodes of the first season of the*[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, in addition of serving as executive producer.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## External links {#External_links}
 
@@ -30,6 +29,6 @@ images:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-author">Cynthia Littleton (24 March 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2021/tv/news/lord-of-the-rings-amazon-wayne-che-yip-1234936829/" rel="noreferrer noopener" target="_blank">&#34;‘Lord of the Rings’ Series Adds Director Wayne Che Yip as Co-Executive Producer&#34;</a></span>. <span class="cite-web-website">Variety</span>. <span class="cite-web-accessed">Retrieved 21 August 2021</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Cynthia Littleton (24 March 2021)</span>. <span class="cite-web-article"><a class="external text" href="https://variety.com/2021/tv/news/lord-of-the-rings-amazon-wayne-che-yip-1234936829/" rel="noreferrer noopener" target="_blank">&#34;‘Lord of the Rings’ Series Adds Director Wayne Che Yip as Co-Executive Producer&#34;</a></span>. <span class="cite-web-website">Variety</span>. <span class="cite-web-accessed">Retrieved 21 August 2021</span></cite></span>
 </li>
 </ol></div>

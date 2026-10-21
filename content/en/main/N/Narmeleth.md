@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amarthiel"
 ---
 
-Redirect to [Amarthiel](/wiki/Amarthiel).
+Redirect to [Amarthiel](../A/Amarthiel.md).

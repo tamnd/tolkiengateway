@@ -1,6 +1,5 @@
 ---
 title: "File:Beyond Bree J.R.R. Tolkien Calendar 1992.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Beyond Bree J.R.R. Tolkien Calendar 1992.jpg</span>"
 page_id: 6630
 namespace: 6
 revision_id: 215456

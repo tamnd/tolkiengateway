@@ -1,6 +1,5 @@
 ---
 title: "Unwin Paperbacks"
-display_title: "<span class=\"mw-page-title-main\">Unwin Paperbacks</span>"
 page_id: 6916
 namespace: 0
 revision_id: 190151
@@ -14,4 +13,4 @@ categories:
   - "British businesses"
 ---
 
-**Unwin Paperbacks** is subsidiary of [Allen &amp; Unwin](/wiki/Allen_and_Unwin "Allen and Unwin"). They have published numerous paperback editions of books by and about [J.R.R. Tolkien](/wiki/J.R.R._Tolkien).
+**Unwin Paperbacks** is subsidiary of [Allen &amp; Unwin](../A/Allen_and_Unwin.md). They have published numerous paperback editions of books by and about [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

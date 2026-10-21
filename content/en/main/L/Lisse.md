@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lissë"
 ---
 
-Redirect to [Lissë](/wiki/Lissë).
+Redirect to [Lissë](Lissë.md).

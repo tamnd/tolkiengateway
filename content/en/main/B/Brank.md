@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brânk"
 ---
 
-Redirect to [Brânk](/wiki/Brânk).
+Redirect to [Brânk](Brânk.md).

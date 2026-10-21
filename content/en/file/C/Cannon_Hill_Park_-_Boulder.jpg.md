@@ -1,6 +1,5 @@
 ---
 title: "File:Cannon Hill Park - Boulder.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Cannon Hill Park - Boulder.jpg</span>"
 page_id: 64272
 namespace: 6
 revision_id: 367673

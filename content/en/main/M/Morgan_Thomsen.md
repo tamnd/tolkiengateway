@@ -1,6 +1,5 @@
 ---
 title: "Morgan Thomsen"
-display_title: "<span class=\"mw-page-title-main\">Morgan Thomsen</span>"
 page_id: 40051
 namespace: 0
 revision_id: 234616
@@ -19,16 +18,16 @@ sort_keys:
   "Swedish people": "Thomsen, Morgan"
 ---
 
-**Morgan Thomsen** is the owner and main contributor of the [Tolkien Index](/wiki/Tolkien_Index).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Morgan Thomsen** is the owner and main contributor of the [Tolkien Index](../T/Tolkien_Index.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bibliography {#Bibliography}
 
 ### Articles {#Articles}
 
-- [2013](/wiki/2013): [*Mallorn* 54](/wiki/Mallorn_54 "Mallorn 54")
+- [2013](../_/2013.md): [*Mallorn* 54](Mallorn_54.md)
     - "A Recollection of Tolkien: Canon Gerard Hanlon" (co-author with Daniel Helen)
-- [2013](/wiki/2013): [*Hither Shore* 9](/wiki/Hither_Shore_9 "Hither Shore 9")
-    - "Two Swedish Interviews with J.R.R. Tolkien" (co-editor with [Shaun Gunner](/wiki/Shaun_Gunner))
+- [2013](../_/2013.md): [*Hither Shore* 9](../H/Hither_Shore_9.md)
+    - "Two Swedish Interviews with J.R.R. Tolkien" (co-editor with [Shaun Gunner](../S/Shaun_Gunner.md))
 
 ## External links {#External_links}
 
@@ -39,6 +38,6 @@ sort_keys:
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r403243">.mw-parser-output .cite-web-dated,.mw-parser-output .cite-web-accessed{color:var(--tg-color-subtle)}</style><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienindex.net/index/Tolkien_Index:About#Project_contributors" rel="noreferrer noopener" target="_blank">&#34;About: Project contributors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://tolkienindex.net/index/Main_Page" rel="noreferrer noopener" target="_blank">Tolkien Index</a></span>. <span class="cite-web-accessed">Retrieved 23 June 2012</span></cite></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tolkienindex.net/index/Tolkien_Index:About#Project_contributors" rel="noreferrer noopener" target="_blank">&#34;About: Project contributors&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://tolkienindex.net/index/Main_Page" rel="noreferrer noopener" target="_blank">Tolkien Index</a></span>. <span class="cite-web-accessed">Retrieved 23 June 2012</span></cite></span>
 </li>
 </ol></div>

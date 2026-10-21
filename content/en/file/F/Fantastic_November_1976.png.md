@@ -1,6 +1,5 @@
 ---
 title: "File:Fantastic November 1976.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fantastic November 1976.png</span>"
 page_id: 38171
 namespace: 6
 revision_id: 215398

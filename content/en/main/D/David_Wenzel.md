@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "David T. Wenzel"
 ---
 
-Redirect to [David T. Wenzel](/wiki/David_T._Wenzel).
+Redirect to [David T. Wenzel](David_T._Wenzel.md).

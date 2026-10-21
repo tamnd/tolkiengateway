@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Anna Lee"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Anna Lee</span>"
 page_id: 17186
 namespace: 14
 revision_id: 181936
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Lee, Anna"
 ---
 
-This category lists all **images by [Anna Lee](/wiki/Anna_Lee)**.
+This category lists all **images by [Anna Lee](../../main/A/Anna_Lee.md)**.

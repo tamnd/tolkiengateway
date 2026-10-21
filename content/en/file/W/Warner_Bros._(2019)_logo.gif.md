@@ -1,6 +1,5 @@
 ---
 title: "File:Warner Bros. (2019) logo.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Warner Bros. (2019) logo.gif</span>"
 page_id: 63331
 namespace: 6
 revision_id: 359513

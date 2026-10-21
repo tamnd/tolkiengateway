@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospíšil - Goblin Man.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospíšil - Goblin Man.jpeg</span>"
 page_id: 52646
 namespace: 6
 revision_id: 433354
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Goblin Man](/wiki/Goblin-men "Goblin-men")" by [Jan Pospíšil](/wiki/Jan_Posp%C3%AD%C5%A1il) for *[The One Ring](</wiki/The_One_Ring_(role-playing_game)> "The One Ring (role-playing game)")*. From *[Horse-lords of Rohan](/wiki/Horse-lords_of_Rohan)* (p. 122).
+"[Goblin Man](../../main/G/Goblin-men.md)" by [Jan Pospíšil](../../main/J/Jan_Pospíšil.md) for *[The One Ring](<../../main/T/The_One_Ring_(role-playing_game).md>)*. From *[Horse-lords of Rohan](../../main/H/Horse-lords_of_Rohan.md)* (p. 122).
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

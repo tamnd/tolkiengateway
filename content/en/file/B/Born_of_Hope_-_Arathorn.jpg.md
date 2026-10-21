@@ -1,6 +1,5 @@
 ---
 title: "File:Born of Hope - Arathorn.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Born of Hope - Arathorn.jpg</span>"
 page_id: 23574
 namespace: 6
 revision_id: 260549

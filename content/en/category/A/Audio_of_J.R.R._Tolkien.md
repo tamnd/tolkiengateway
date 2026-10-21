@@ -1,6 +1,5 @@
 ---
 title: "Category:Audio of J.R.R. Tolkien"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Audio of J.R.R. Tolkien</span>"
 page_id: 65081
 namespace: 14
 revision_id: 374655

@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings 1954-55.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings 1954-55.png</span>"
 page_id: 62436
 namespace: 6
 revision_id: 355248

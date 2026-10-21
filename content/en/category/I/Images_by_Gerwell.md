@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Gerwell"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Gerwell</span>"
 page_id: 66787
 namespace: 14
 revision_id: 386846

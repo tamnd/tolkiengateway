@@ -1,6 +1,5 @@
 ---
 title: "File:Lost Tales I 1985.jpeg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Lost Tales I 1985.jpeg</span>"
 page_id: 62128
 namespace: 6
 revision_id: 350974

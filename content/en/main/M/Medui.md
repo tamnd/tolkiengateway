@@ -16,25 +16,25 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-**medui** means "last" in [Sindarin](/wiki/Sindarin)
+**medui** means "last" in [Sindarin](../S/Sindarin.md)
 
 ## Etymology {#Etymology}
 
-[Old Sindarin](/wiki/Old_Sindarin) word \**metâja* &lt; [Root](/wiki/Sundocarm%C3%AB "Sundocarmë") <a class="new" href="/w/index.php?title=MET&amp;action=edit&amp;redlink=1" title="MET (page does not exist)">MET</a>
+[Old Sindarin](../O/Old_Sindarin.md) word \**metâja* &lt; [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=MET&amp;action=edit&amp;redlink=1" title="MET (page does not exist)">MET</a>
 
-It contains the ending <a class="new" href="/w/index.php?title=-ui&amp;action=edit&amp;redlink=1" title="-ui (page does not exist)">-ui</a>.
+It contains the ending <a class="new" href="https://tolkiengateway.net/w/index.php?title=-ui&amp;action=edit&amp;redlink=1" title="-ui (page does not exist)">-ui</a>.
 
 ## Other forms {#Other_forms}
 
-[Lenited](/wiki/Lenition "Lenition") forms:
+[Lenited](../L/Lenition.md) forms:
 
 - **-vedui** in the expression **na-vedui** "at last"
-- <i><a href="/wiki/Arvedui#Etymology" title="Arvedui">Ar<b>vedui</b></a></i> "Last King".
+- <i><a href="../A/Arvedui.md#Etymology" title="Arvedui">Ar<b>vedui</b></a></i> "Last King".
 
 ## See also {#See_also}
 
-- *[methed](/wiki/Methed "Methed")*
+- *[methed](Methed.md)*
 
 ## Cognates {#Cognates}
 
-- [Quenya](/wiki/Quenya) <i><a class="new" href="/w/index.php?title=M%C3%A9tima&amp;action=edit&amp;redlink=1" title="Métima (page does not exist)">métima</a></i>
+- [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=M%C3%A9tima&amp;action=edit&amp;redlink=1" title="Métima (page does not exist)">métima</a></i>

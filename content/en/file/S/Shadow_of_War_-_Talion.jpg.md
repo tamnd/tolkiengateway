@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of War - Talion.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of War - Talion.jpg</span>"
 page_id: 56351
 namespace: 6
 revision_id: 362903
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Talion as depicted in *[Middle-earth: Shadow of War](/wiki/Middle-earth:_Shadow_of_War)*.
+Talion as depicted in *[Middle-earth: Shadow of War](../../main/M/Middle-earth%253A_Shadow_of_War.md)*.
 
 ## Licensing {#Licensing}
 

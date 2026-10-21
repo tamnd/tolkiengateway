@@ -1,6 +1,5 @@
 ---
 title: "Southern Army"
-display_title: "<span class=\"mw-page-title-main\">Southern Army</span>"
 page_id: 4529
 namespace: 0
 revision_id: 262097
@@ -18,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Etel%C3%A4armeija"
 ---
 
-The **Southern Army** was the smaller of the two armies formed by King [Ondoher](/wiki/Ondoher) of [Gondor](/wiki/Gondor), to protect his kingdom against the double threat of the [Wainriders](/wiki/Wainriders) to the northeast, and the [Haradrim](/wiki/Haradrim) to the south. The command of the Southern Army was given to [Eärnil](/wiki/E%C3%A4rnil_II "Eärnil II"), a descendant of the royal line of Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+The **Southern Army** was the smaller of the two armies formed by King [Ondoher](../O/Ondoher.md) of [Gondor](../G/Gondor.md), to protect his kingdom against the double threat of the [Wainriders](../W/Wainriders.md) to the northeast, and the [Haradrim](../H/Haradrim.md) to the south. The command of the Southern Army was given to [Eärnil](../E/Eärnil_II.md), a descendant of the royal line of Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="/wiki/Appendix_A" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;</span>
 </li>
 </ol></div>

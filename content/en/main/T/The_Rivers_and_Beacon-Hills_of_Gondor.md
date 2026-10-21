@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Rivers and Beacon-hills of Gondor"
 ---
 
-Redirect to [The Rivers and Beacon-hills of Gondor](/wiki/The_Rivers_and_Beacon-hills_of_Gondor).
+Redirect to [The Rivers and Beacon-hills of Gondor](The_Rivers_and_Beacon-hills_of_Gondor~21248.md).

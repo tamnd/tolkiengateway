@@ -1,6 +1,5 @@
 ---
 title: "Amroth (disambiguation)"
-display_title: "<span class=\"mw-page-title-main\">Amroth (disambiguation)</span>"
 page_id: 22261
 namespace: 0
 revision_id: 281017
@@ -17,18 +16,18 @@ images:
 
 **Amroth** can refer to:
 
-- **[Amroth](/wiki/Amroth) (died [T.A.](/wiki/Third_Age "Third Age") [1981](/wiki/Third_Age_1981 "Third Age 1981")), an [Elf](/wiki/Elves "Elves") of [Lothlórien](/wiki/Lothl%C3%B3rien).**
-    - [Cerin Amroth](/wiki/Cerin_Amroth), a hill in Lórien.
-    - [Dol Amroth](/wiki/Dol_Amroth), [princedom](/wiki/Prince "Prince") in Gondor.
-        - [Princes of Dol Amroth](/wiki/Princes_of_Dol_Amroth).
-        - [Amrothos](/wiki/Amrothos), son of [Imrahil](/wiki/Imrahil).
-    - [Edhellond](/wiki/Edhellond), or Amroth's Haven.
+- **[Amroth](Amroth.md) (died [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md)), an [Elf](../E/Elves.md) of [Lothlórien](../L/Lothlórien.md).**
+    - [Cerin Amroth](../C/Cerin_Amroth.md), a hill in Lórien.
+    - [Dol Amroth](../D/Dol_Amroth.md), [princedom](../P/Prince.md) in Gondor.
+        - [Princes of Dol Amroth](../P/Princes_of_Dol_Amroth.md).
+        - [Amrothos](Amrothos.md), son of [Imrahil](../I/Imrahil.md).
+    - [Edhellond](../E/Edhellond.md), or Amroth's Haven.
 
 <hr style="margin-top:15px;"/>
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px; margin-left:10px;">
-<p><span typeof="mw:File"><span><img src="/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, /w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
+<p><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/45px-Disambig.png" decoding="async" loading="lazy" width="45" height="34" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/68px-Disambig.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Disambig.png/90px-Disambig.png 2x" data-file-width="528" data-file-height="403"/></span></span>
 </p>
-<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="/wiki/Tolkien_Gateway" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="/wiki/Tolkien_Gateway:Naming_policy" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
-<span style="display:block;font-size: 85%;">If an <a href="/wiki/Special:WhatLinksHere/:Amroth_(disambiguation)" title="Special:WhatLinksHere/:Amroth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
+<div><i>This disambiguation page is a list of articles associated with the same title. This is in accordance with <a href="../T/Tolkien_Gateway.md" title="Tolkien Gateway">Tolkien Gateway</a>&#39;s <a href="../../project/N/Naming_policy.md" title="Tolkien Gateway:Naming policy">Naming policy</a>.</i>
+<span style="display:block;font-size: 85%;">If an <a href="https://tolkiengateway.net/wiki/Special:WhatLinksHere/:Amroth_(disambiguation)" title="Special:WhatLinksHere/:Amroth (disambiguation)">internal link</a> referred you to this page, you may wish to change the link to point directly to the intended article.</span><i></i></div>
 </div>

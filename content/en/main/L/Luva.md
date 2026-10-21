@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúva"
 ---
 
-Redirect to [Lúva](/wiki/Lúva).
+Redirect to [Lúva](Lúva.md).

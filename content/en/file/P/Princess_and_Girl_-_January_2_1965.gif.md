@@ -1,6 +1,5 @@
 ---
 title: "File:Princess and Girl - January 2 1965.gif"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Princess and Girl - January 2 1965.gif</span>"
 page_id: 10160
 namespace: 6
 revision_id: 224830
@@ -26,7 +25,7 @@ file:
 
 ## Summary {#Summary}
 
-The thirteenth installment of a serialization of [The Hobbit](/wiki/The_Hobbit).
+The thirteenth installment of a serialization of [The Hobbit](../../main/T/The_Hobbit.md).
 
 ## Licensing {#Licensing}
 

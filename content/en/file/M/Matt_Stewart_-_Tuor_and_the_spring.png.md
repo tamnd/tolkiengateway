@@ -1,6 +1,5 @@
 ---
 title: "File:Matt Stewart - Tuor and the spring.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Matt Stewart - Tuor and the spring.png</span>"
 page_id: 74448
 namespace: 6
 revision_id: 438362
@@ -32,25 +31,22 @@ file:
 <tbody><tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_desc" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Description<span class="summary fn" style="display:none">Matt Stewart - Tuor and the spring.png</span></th>
 <td class="description">
-<p><a href="/wiki/Tuor" title="Tuor">Tuor</a> and the spring
+<p><a href="../../main/T/Tuor.md" title="Tuor">Tuor</a> and the spring
 </p>
 </td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_date" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Date</th>
-<td><a href="/wiki/20_January" title="20 January">20 January</a>, <a href="/wiki/2025" title="2025">2025</a>, 18:34:10-05:00</td>
+<td><a href="../../main/_/20_January.md" title="20 January">20 January</a>, <a href="../../main/_/2025.md" title="2025">2025</a>, 18:34:10-05:00</td>
 </tr>
-<!-- -->
-<!-- -->
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_aut" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Author</th>
-<td><a href="/wiki/Matt_Stewart" title="Matt Stewart">Matt Stewart</a></td>
+<td><a href="../../main/M/Matt_Stewart.md" title="Matt Stewart">Matt Stewart</a></td>
 </tr>
 <tr style="vertical-align: top">
 <th scope="row" id="fileinfotpl_src" class="fileinfo-paramfield" style="background:var(--tg-color-surface-5)">Source</th>
 <td><a class="external free" href="https://www.matthew-stewart.com/tuor-and-the-spring/vy5qsbnd0k5k6odauairhcrtdibgjg" rel="noreferrer noopener" target="_blank">https://www.matthew-stewart.com/tuor-and-the-spring/vy5qsbnd0k5k6odauairhcrtdibgjg</a></td>
 </tr>
-<!-- -->
 </tbody></table>
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Matt Stewart</span></span>
@@ -58,4 +54,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Matt Stewart</li>
 <li><b>Website:</b> <a class="external text" href="http://www.matthew-stewart.com/" rel="noreferrer noopener" target="_blank">Matt Stewart&#39;s website</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Matt_Stewart" title="Tolkien Gateway:Copyrights/Matt Stewart">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FMatt_Stewart.md" title="Tolkien Gateway:Copyrights/Matt Stewart">Permission for use on Tolkien Gateway</a></b></li></ul></div>

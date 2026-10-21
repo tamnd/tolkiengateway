@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cala"
 ---
 
-Redirect to [Cala](/wiki/Cala).
+Redirect to [Cala](Cala.md).

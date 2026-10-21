@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Complete Guide to Middle-earth"
 ---
 
-Redirect to [The Complete Guide to Middle-earth](/wiki/The_Complete_Guide_to_Middle-earth).
+Redirect to [The Complete Guide to Middle-earth](../T/The_Complete_Guide_to_Middle-earth.md).

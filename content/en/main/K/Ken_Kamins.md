@@ -1,6 +1,5 @@
 ---
 title: "Ken Kamins"
-display_title: "<span class=\"mw-page-title-main\">Ken Kamins</span>"
 page_id: 38574
 namespace: 0
 revision_id: 414217
@@ -19,7 +18,7 @@ sort_keys:
   "Producers": "Kamins, Ken"
 ---
 
-**Ken Kamins** is a Hollywood agent and executive producer with a pivotal role in the film industry. As [Peter Jackson](/wiki/Peter_Jackson)’s longtime agent and manager Kamins played an important role in securing the production of [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)") and [*The Hobbit* (film series)](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)"). Initially representing Jackson in Hollywood, Kamins negotiated with <a class="external text" href="https://en.wikipedia.org/wiki/Miramax" rel="noreferrer noopener" target="_blank">Miramax</a> but transitioned the project to [New Line Cinema](/wiki/New_Line_Cinema) because Miramax wanted only two movies while New Line Cinema proposed three (so they could follow the books.) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> After receiving a ‘special thanks’ for his involvement with [*The Lord of the Rings* (film series)](</wiki/The_Lord_of_the_Rings_(film_series)> "The Lord of the Rings (film series)"), he later rejoined Jackson to become an executive producer for [*The Hobbit* (film series).](</wiki/The_Hobbit_(film_series)> "The Hobbit (film series)")
+**Ken Kamins** is a Hollywood agent and executive producer with a pivotal role in the film industry. As [Peter Jackson](../P/Peter_Jackson.md)’s longtime agent and manager Kamins played an important role in securing the production of [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>) and [*The Hobbit* (film series)](<../T/The_Hobbit_(film_series).md>). Initially representing Jackson in Hollywood, Kamins negotiated with <a class="external text" href="https://en.wikipedia.org/wiki/Miramax" rel="noreferrer noopener" target="_blank">Miramax</a> but transitioned the project to [New Line Cinema](../N/New_Line_Cinema.md) because Miramax wanted only two movies while New Line Cinema proposed three (so they could follow the books.) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> After receiving a ‘special thanks’ for his involvement with [*The Lord of the Rings* (film series)](<../T/The_Lord_of_the_Rings_(film_series).md>), he later rejoined Jackson to become an executive producer for [*The Hobbit* (film series).](<../T/The_Hobbit_(film_series).md>)
 
 Ken Kamins is CEO of Key Creatives Inc., a management-production company based in Los Angeles, California. Kamins has also collaborated with Jackson in <a class="external text" href="https://en.wikipedia.org/wiki/The_Lovely_Bones_(film)" rel="noreferrer noopener" target="_blank">The Lovely Bones(film)</a> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>. <span></span>
 

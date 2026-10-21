@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Yews"
 ---
 
-Redirect to [Yews](/wiki/Yews).
+Redirect to [Yews](Yews.md).

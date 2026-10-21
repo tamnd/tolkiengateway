@@ -1,6 +1,5 @@
 ---
 title: "Alan Shearman"
-display_title: "<span class=\"mw-page-title-main\">Alan Shearman</span>"
 page_id: 30794
 namespace: 0
 revision_id: 137634
@@ -23,8 +22,8 @@ sort_keys:
 
 ## Roles {#Roles}
 
-- [2009](/wiki/2009): *[The Lord of the Rings: Conquest](/wiki/The_Lord_of_the_Rings:_Conquest)*: Evil Human Officer 1
-- [2004](/wiki/2004): *[The Lord of the Rings: War of the Ring](/wiki/The_Lord_of_the_Rings:_War_of_the_Ring)*: Unspecified
+- [2009](../_/2009.md): *[The Lord of the Rings: Conquest](../T/The_Lord_of_the_Rings%253A_Conquest.md)*: Evil Human Officer 1
+- [2004](../_/2004.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)*: Unspecified
 
 ## External links {#External_links}
 

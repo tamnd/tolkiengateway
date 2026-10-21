@@ -1,6 +1,5 @@
 ---
 title: "File:Vivendi-Logo.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Vivendi-Logo.png</span>"
 page_id: 64580
 namespace: 6
 revision_id: 370984

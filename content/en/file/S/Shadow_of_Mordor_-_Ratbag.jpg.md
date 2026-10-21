@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Ratbag.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Ratbag.jpg</span>"
 page_id: 63692
 namespace: 6
 revision_id: 368577
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-[Ratbag](/wiki/Ratbag) in [Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor).
+[Ratbag](../../main/R/Ratbag.md) in [Middle-earth: Shadow of Mordor](../../main/M/Middle-earth%253A_Shadow_of_Mordor.md).
 
 ## Licensing {#Licensing}
 

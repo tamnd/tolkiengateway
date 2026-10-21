@@ -1,6 +1,5 @@
 ---
 title: "Category:Websites"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Websites</span>"
 page_id: 10350
 namespace: 14
 revision_id: 136722
@@ -14,4 +13,4 @@ categories:
   - "Fandom"
 ---
 
-Below is a list of the major [Tolkien](/wiki/J.R.R._Tolkien "J.R.R. Tolkien")-related websites.
+Below is a list of the major [Tolkien](../../main/J/J.R.R._Tolkien.md)-related websites.

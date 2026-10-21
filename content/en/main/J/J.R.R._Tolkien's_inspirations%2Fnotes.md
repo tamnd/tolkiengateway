@@ -1,6 +1,5 @@
 ---
 title: "J.R.R. Tolkien's inspirations/notes"
-display_title: "<span class=\"mw-page-title-main\">J.R.R. Tolkien&#039;s inspirations/notes</span>"
 page_id: 14684
 namespace: 0
 revision_id: 406006
@@ -16,18 +15,16 @@ images:
   - "Material_icon_-_Mop.svg"
 ---
 
-<style data-mw-deduplicate="TemplateStyles:r413279">.mw-parser-output .t-maintenance{display:inline-flex;margin:0.25rem;padding:0.5rem 0.75rem;box-shadow:var(--tg-border-color-base)0px 0px 0px 1px inset;border-left:4px solid var(--tg-color-surface-3);border-radius:var(--tg-border-radius-small);background-color:var(--tg-color-surface-2);color:var(--tg-color-emphasized);font-size:var(--tg-font-size-x-small);font-weight:var(--tg-font-weight-medium);line-height:var(--line-height-sm)}.mw-parser-output .t-maintenance .ext-floatingui-reference{display:flex;align-items:center;gap:0.5rem}.mw-parser-output .t-maintenance.t-maintenance--yellow{border-left-color:#f59e0b}.mw-parser-output .t-maintenance.t-maintenance--red{border-left-color:#ef4444}.mw-parser-output .t-maintenance.t-maintenance--green{border-left-color:#10b981}.mw-parser-output .t-maintenance .t-maintenance-icon img{filter:var(--filter-invert);opacity:0.6}</style>
-
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="/wiki/Tolkien_Gateway:Manual_of_Style" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
 <p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
 </p>
-<p class="tg-quote-footer"><cite><a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a></cite></p>
-</blockquote><style data-mw-deduplicate="TemplateStyles:r395759">.mw-parser-output .tg-quote-container{margin:1rem 0}.mw-parser-output .tg-quote-container>.tg-section-divider{margin:0}.mw-parser-output .tg-quote-container>.tg-section-divider>span{line-height:0;font-size:2rem;margin-top:1rem}.mw-parser-output .tg-quote-container>.tg-quote{padding-left:0;border-left:none}</style></div></div>
+<p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
+</blockquote></div></div>
 
 ## General notes {#General_notes}
 
-- General - JRRT discusses his sources in a letter to L.M. Cutts (see [Letter to L.M. Cutts](/wiki/Letter_to_L.M._Cutts)).
-- General - [Letter 337](/wiki/Letter_337) (from a letter to 'Mr Wrigley'): "I fear you may be right that the search for the sources of *The Lord of the Rings* is going to occupy academics for a generation or two. I wish this need not be so. To my mind it is the particular use in a particular situation of any motive, whether invented, deliberately borrowed, or unconsciously remembered that is the most interesting thing to consider."
+- General - JRRT discusses his sources in a letter to L.M. Cutts (see [Letter to L.M. Cutts](../L/Letter_to_L.M._Cutts.md)).
+- General - [Letter 337](../L/Letter_337.md) (from a letter to 'Mr Wrigley'): "I fear you may be right that the search for the sources of *The Lord of the Rings* is going to occupy academics for a generation or two. I wish this need not be so. To my mind it is the particular use in a particular situation of any motive, whether invented, deliberately borrowed, or unconsciously remembered that is the most interesting thing to consider."
 
 ## Life and experiences {#Life_and_experiences}
 
@@ -44,7 +41,7 @@ It includes Moseley Bog, which dates back to the Bronze Age, and is thought to h
 
 ### The Bible and Christian theology {#The_Bible_and_Christian_theology}
 
-- Tolkien carefully chose the date when the Fellowship began their journey to destroy the One Ring: the 25th of December, the same day that the [Virgin Mary](/wiki/Virgin_Mary) gave birth to Jesus Christ.
+- Tolkien carefully chose the date when the Fellowship began their journey to destroy the One Ring: the 25th of December, the same day that the [Virgin Mary](../V/Virgin_Mary.md) gave birth to Jesus Christ.
 - Just as Tolkien carefully chose the date when the Fellowship set out from Rivendell, he was just as careful with choosing the date when the One Ring was destroyed: March 25, the day Jesus Christ died and defeated Satan.
 - Balrogs – fallen angels with cut wings in Bible
 - Morgoth - means in Elvish the same as Satan in Hebrew: "the Enemy, the Adversary"
@@ -54,17 +51,17 @@ It includes Moseley Bog, which dates back to the Bronze Age, and is thought to h
 
 ### English literature and myths {#English_literature_and_myths}
 
-- [The Seafarer (poem)](</wiki/The_Seafarer_(poem)>)
+- [The Seafarer (poem)](<../T/The_Seafarer_(poem).md>)
 
 #### *The Hobbit* and *Beowulf* {#The_Hobbit_and_Beowulf}
 
-During his time as a professor at the [University of Oxford](/wiki/University_of_Oxford) Tolkien studied Anglo-Saxon. One of the Anglo-Saxon pieces of literature he studied is the epic poem *[Beowulf](</wiki/Beowulf_(poem)> "Beowulf (poem)")*, about which he wrote essays such as *[The Monsters and the Critics](/wiki/The_Monsters_and_the_Critics)*. Interesting parallels can be found between *The Hobbit* and *Beowulf*.
+During his time as a professor at the [University of Oxford](../U/University_of_Oxford.md) Tolkien studied Anglo-Saxon. One of the Anglo-Saxon pieces of literature he studied is the epic poem *[Beowulf](<../B/Beowulf_(poem).md>)*, about which he wrote essays such as *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)*. Interesting parallels can be found between *The Hobbit* and *Beowulf*.
 
 The plots of the two stories are very similar. In both of them a party of 13 sets out to seek satisfaction for a crime committed by a dragon. Both parties contain a thief, which in *The Hobbit* is Bilbo, who steals a cup from the sleeping dragon's hoard by using a secret passage. Both dragons then awake from their deep slumber and cause terror and destruction. Both dragons are well protected by their armour, a natural one in *Beowulf* and one made of gold and diamonds in *The Hobbit*, but finally they are killed.
 
 But not only the plots share similarities, both main characters, Bilbo and Beowulf, share characteristics. Both heroes defy their enemies with their supernatural power, which in Bilbo's case is the ring and in Beowulf's case is his supernatural strength. While Beowulf has the help of God, Bilbo often prevails because of his sheer luck. Both are of noble ancestry and both get separated from their group, Bilbo in the mountains, Beowulf when he is captured by Grendel's mother.
 
-Additionally some elements of Anglo-Saxon culture can be found. In both books a king, which in Anglo-Saxon sometimes is called ring or gold giver, awards his warriors with treasures and war gear. In Anglo-Saxon culture poems are important, as they contain the people's history and they are sung by scops. Two of these songs are found in *Beowulf* and more in *The Hobbit*. Tolkien's dwarves particularly mirror Anglo-Saxon society, both in their warrior nature and in their desire for jewelry and war gear. The dwarven writing system, or [Cirth](/wiki/Cirth), also has clear influences from Anglo-Saxon runic alphabets such as *Futhark*.
+Additionally some elements of Anglo-Saxon culture can be found. In both books a king, which in Anglo-Saxon sometimes is called ring or gold giver, awards his warriors with treasures and war gear. In Anglo-Saxon culture poems are important, as they contain the people's history and they are sung by scops. Two of these songs are found in *Beowulf* and more in *The Hobbit*. Tolkien's dwarves particularly mirror Anglo-Saxon society, both in their warrior nature and in their desire for jewelry and war gear. The dwarven writing system, or [Cirth](../C/Cirth.md), also has clear influences from Anglo-Saxon runic alphabets such as *Futhark*.
 
 ### Finnish myths {#Finnish_myths}
 
@@ -1002,4 +999,4 @@ Entwives and the Scandinavian god Njord and his wife Skadi, as discussed above i
 
 ## External links {#External_links}
 
-- <a class="external text" href="http://www.theguardian.com/books/booksblog/2014/dec/09/tolkien-death-of-smaug-began-america-middle-earth" rel="noreferrer noopener" target="_blank">Tolkien’s death of Smaug: American inspiration revealed</a> by [John Garth](/wiki/John_Garth)
+- <a class="external text" href="http://www.theguardian.com/books/booksblog/2014/dec/09/tolkien-death-of-smaug-began-america-middle-earth" rel="noreferrer noopener" target="_blank">Tolkien’s death of Smaug: American inspiration revealed</a> by [John Garth](John_Garth.md)

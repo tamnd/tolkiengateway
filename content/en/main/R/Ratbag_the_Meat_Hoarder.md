@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ratbag"
 ---
 
-Redirect to [Ratbag](/wiki/Ratbag).
+Redirect to [Ratbag](Ratbag.md).

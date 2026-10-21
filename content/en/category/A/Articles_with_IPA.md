@@ -1,6 +1,5 @@
 ---
 title: "Category:Articles with IPA"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Articles with IPA</span>"
 page_id: 24361
 namespace: 14
 revision_id: 122172
@@ -13,4 +12,4 @@ categories:
   - "Linguistics"
 ---
 
-See [Tolkien Gateway:IPA](/wiki/Tolkien_Gateway:IPA)
+See [Tolkien Gateway:IPA](../../project/I/IPA.md)

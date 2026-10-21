@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lord of the Rings Online"
 ---
 
-Redirect to [The Lord of the Rings Online](/wiki/The_Lord_of_the_Rings_Online).
+Redirect to [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md).

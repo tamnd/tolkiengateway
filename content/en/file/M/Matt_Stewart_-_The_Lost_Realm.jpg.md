@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "File:Matt Stewart - The Power of Angmar.jpg"
 ---
 
-Redirect to [File:Matt Stewart - The Power of Angmar.jpg](/wiki/File:Matt_Stewart_-_The_Power_of_Angmar.jpg).
+Redirect to [File:Matt Stewart - The Power of Angmar.jpg](Matt_Stewart_-_The_Power_of_Angmar.jpg.md).

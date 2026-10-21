@@ -1,6 +1,5 @@
 ---
 title: "BARÁN"
-display_title: "<span class=\"mw-page-title-main\">BARÁN</span>"
 page_id: 31372
 namespace: 0
 revision_id: 404807
@@ -15,24 +14,24 @@ sort_keys:
   "Roots": "BARAN"
 ---
 
-**BARÁN** is a [Primitive Quendian](/wiki/Primitive_Quendian) [root](/wiki/Sundocarme "Sundocarme") given no signification, except from what can be deduced from its derivatives.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+**BARÁN** is a [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) given no signification, except from what can be deduced from its derivatives.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Derivatives {#Derivatives}
 
-- [Quenya](/wiki/Quenya) *varne* ("brown, swart, dark brown")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Old Noldorin](/wiki/Kornoldorin "Kornoldorin"): *barane*<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-- [Exilic Noldorin](/wiki/Noldorin "Noldorin"): *[baran](</wiki/Baran_(Sindarin)> "Baran (Sindarin)")*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Quenya](../Q/Quenya.md) *varne* ("brown, swart, dark brown")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Old Noldorin](../K/Kornoldorin.md): *barane*<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+- [Exilic Noldorin](../N/Noldorin.md): *[baran](<Baran_(Sindarin).md>)*<sup id="cite_ref-Ety_1-3" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## See also {#See_also}
 
-- [RUSKĀ](/wiki/RUSK%C4%80)
-- [baran (Sindarin)](</wiki/Baran_(Sindarin)> "Baran (Sindarin)")
+- [RUSKĀ](../R/RUSKĀ.md)
+- [baran (Sindarin)](<Baran_(Sindarin).md>)
 
 <span></span>
 
 ## References {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ety_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ety_1-3">1.3</a></sup></span> <span class="reference-text"><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="/wiki/The_Lost_Road_and_Other_Writings" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="/wiki/The_Etymologies" title="The Etymologies">The Etymologies</a>&#34;, p. 351 (root appearing as &#34;BARÁN-&#34;)</span>
+<li id="cite_note-Ety-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ety_1-0">1.0</a></sup> <sup><a href="#cite_ref-Ety_1-1">1.1</a></sup> <sup><a href="#cite_ref-Ety_1-2">1.2</a></sup> <sup><a href="#cite_ref-Ety_1-3">1.3</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, p. 351 (root appearing as &#34;BARÁN-&#34;)</span>
 </li>
 </ol></div>

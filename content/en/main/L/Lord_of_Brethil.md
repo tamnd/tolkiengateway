@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Halad"
 ---
 
-Redirect to [Halad](/wiki/Halad).
+Redirect to [Halad](../H/Halad.md).

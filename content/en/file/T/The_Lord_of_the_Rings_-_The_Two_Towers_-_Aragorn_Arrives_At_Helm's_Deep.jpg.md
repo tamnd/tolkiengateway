@@ -1,6 +1,5 @@
 ---
 title: "File:The Lord of the Rings - The Two Towers - Aragorn Arrives At Helm's Deep.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">The Lord of the Rings - The Two Towers - Aragorn Arrives At Helm&#039;s Deep.jpg</span>"
 page_id: 64218
 namespace: 6
 revision_id: 430817
@@ -29,7 +28,7 @@ file:
 
 ## Summary {#Summary}
 
-A still from the scene *[The Lord of the Rings: The Two Towers](/wiki/The_Lord_of_the_Rings:_The_Two_Towers)*, [Aragorn's Return](/wiki/Aragorn%27s_Return).
+A still from the scene *[The Lord of the Rings: The Two Towers](../../main/T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*, [Aragorn's Return](../../main/A/Aragorn's_Return.md).
 
 ## Licensing {#Licensing}
 

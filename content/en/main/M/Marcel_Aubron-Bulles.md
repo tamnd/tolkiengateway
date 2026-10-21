@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Marcel Bülles"
 ---
 
-Redirect to [Marcel Bülles](/wiki/Marcel_Bülles).
+Redirect to [Marcel Bülles](Marcel_Bülles.md).

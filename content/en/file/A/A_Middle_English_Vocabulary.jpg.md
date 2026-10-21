@@ -1,6 +1,5 @@
 ---
 title: "File:A Middle English Vocabulary.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">A Middle English Vocabulary.jpg</span>"
 page_id: 27029
 namespace: 6
 revision_id: 379563

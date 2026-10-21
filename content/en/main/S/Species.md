@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Species named after Tolkien's works"
 ---
 
-Redirect to [Species named after Tolkien's works](/wiki/Species_named_after_Tolkien's_works).
+Redirect to [Species named after Tolkien's works](Species_named_after_Tolkien's_works.md).

@@ -1,6 +1,5 @@
 ---
 title: "Category:Fords"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Fords</span>"
 page_id: 10366
 namespace: 14
 revision_id: 195478

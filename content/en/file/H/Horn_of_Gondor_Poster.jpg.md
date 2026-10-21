@@ -1,6 +1,5 @@
 ---
 title: "File:Horn of Gondor Poster.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Horn of Gondor Poster.jpg</span>"
 page_id: 58478
 namespace: 6
 revision_id: 358102

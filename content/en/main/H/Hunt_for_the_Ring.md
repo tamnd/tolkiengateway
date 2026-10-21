@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Hunt for the Ring"
 ---
 
-Redirect to [The Hunt for the Ring](/wiki/The_Hunt_for_the_Ring).
+Redirect to [The Hunt for the Ring](../T/The_Hunt_for_the_Ring.md).

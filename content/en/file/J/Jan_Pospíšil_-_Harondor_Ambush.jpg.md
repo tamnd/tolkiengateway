@@ -1,6 +1,5 @@
 ---
 title: "File:Jan Pospíšil - Harondor Ambush.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Jan Pospíšil - Harondor Ambush.jpg</span>"
 page_id: 60399
 namespace: 6
 revision_id: 338362
@@ -34,7 +33,7 @@ file:
 
 Author's description: "*A southern Gondorian noble is ambushed by a Harondor (north Haradrim) raiding party. To the left is a Karka cavalryman - Karka is probably a name derived from Carca in Quenya and it means "fang". Young warriors trying to prove themselves join the light Karka cavalry to serve as scouts and raiders. To the right is an officer of a heavy infantry regiment. Archer from the same regiment is hesitant to take a shot as he might hit his friends.*"
 
-Concept art originally created for *[The Last Days (of the Third Age of Middle-earth)](</wiki/The_Last_Days_(of_the_Third_Age_of_Middle-earth)>)*, a total conversion mod for the games *Mount &amp; Blade* and *Mount &amp; Blade: Warband*.
+Concept art originally created for *[The Last Days (of the Third Age of Middle-earth)](<../../main/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth).md>)*, a total conversion mod for the games *Mount &amp; Blade* and *Mount &amp; Blade: Warband*.
 
 ## Licensing {#Licensing}
 
@@ -43,4 +42,4 @@ Concept art originally created for *[The Last Days (of the Third Age of Middle-e
 </p>
 <ul><li><b>Name:</b> Jan Pospíšil</li>
 <li><b>Website:</b> <a class="external text" href="http://merlkir.deviantart.com/" rel="noreferrer noopener" target="_blank">Jan Pospisil on DeviantArt</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Jan_Posp%C3%AD%C5%A1il" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FJan_Pospíšil.md" title="Tolkien Gateway:Copyrights/Jan Pospíšil">Permission for use on Tolkien Gateway</a></b></li></ul></div>

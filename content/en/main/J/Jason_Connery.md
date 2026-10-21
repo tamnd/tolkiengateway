@@ -1,6 +1,5 @@
 ---
 title: "Jason Connery"
-display_title: "<span class=\"mw-page-title-main\">Jason Connery</span>"
 page_id: 19238
 namespace: 0
 revision_id: 291539
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Connery, Jason"
 ---
 
-**Jason Joseph Connery** ([January 11](/wiki/11_January "11 January"), [1963](/wiki/1963)) is a British actor, and the son of <a class="extiw" href="http://en.wikipedia.org/wiki/Sean_Connery" title="wikipedia:Sean Connery">Sean Connery</a>. Jason Connery voiced Captain Carthedan and his [wraith](/wiki/Wraiths "Wraiths") form [Karsh](/wiki/Karsh) the Whisperer in *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](/wiki/The_Lord_of_the_Rings:_The_Battle_for_Middle-earth_II:_The_Rise_of_the_Witch-king "The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king")* and a Ship Captain in *[Middle-earth: Shadow of Mordor](/wiki/Middle-earth:_Shadow_of_Mordor)*.
+**Jason Joseph Connery** ([January 11](../_/11_January.md), [1963](../_/1963.md)) is a British actor, and the son of <a class="extiw" href="http://en.wikipedia.org/wiki/Sean_Connery" title="wikipedia:Sean Connery">Sean Connery</a>. Jason Connery voiced Captain Carthedan and his [wraith](../W/Wraiths.md) form [Karsh](../K/Karsh.md) the Whisperer in *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* and a Ship Captain in *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)*.
 
 ## External links {#External_links}
 

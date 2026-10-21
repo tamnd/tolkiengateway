@@ -1,6 +1,5 @@
 ---
 title: "Tolkien Gateway:Copyrights/Johan Vanhecke"
-display_title: "<span class=\"mw-page-title-namespace\">Tolkien Gateway</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Copyrights/Johan Vanhecke</span>"
 page_id: 44386
 namespace: 4
 revision_id: 233288
@@ -15,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Vanhecke, Johan"
 ---
 
-- Permission granted by copyright holder [Johan Vanhecke](/wiki/Johan_Vanhecke) to use the file [Johan Vanhecke.jpg](/wiki/File:Johan_Vanhecke.jpg "File:Johan Vanhecke.jpg") on Tolkien Gateway.
+- Permission granted by copyright holder [Johan Vanhecke](../../main/J/Johan_Vanhecke.md) to use the file [Johan Vanhecke.jpg](../../file/J/Johan_Vanhecke.jpg.md) on Tolkien Gateway.
 - Date: 16 September 2013.
-- User who sought the permission via private message: [User:Morgan](/wiki/User:Morgan).
+- User who sought the permission via private message: [User:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

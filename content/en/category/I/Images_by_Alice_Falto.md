@@ -1,6 +1,5 @@
 ---
 title: "Category:Images by Alice Falto"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Images by Alice Falto</span>"
 page_id: 24689
 namespace: 14
 revision_id: 181926
@@ -15,4 +14,4 @@ sort_keys:
   "Images by artist": "Falto, Alice"
 ---
 
-This category lists all **images by Alice Falto**. Her brother, [Angel Falto](/wiki/Category:Images_by_Angel_Falto "Category:Images by Angel Falto"), has also produced Tolkien inspired images.
+This category lists all **images by Alice Falto**. Her brother, [Angel Falto](Images_by_Angel_Falto.md), has also produced Tolkien inspired images.

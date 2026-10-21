@@ -1,6 +1,5 @@
 ---
 title: "Martyn Read"
-display_title: "<span class=\"mw-page-title-main\">Martyn Read</span>"
 page_id: 19811
 namespace: 0
 revision_id: 226124
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Read, Martyn"
 ---
 
-**Martyn Read** (born [November 11](/wiki/11_November "11 November"), [1944](/wiki/1944)) is an English actor, who has spent most of his career playing policemen. He voiced [Halbarad](/wiki/Halbarad) and several unspecified bits in the [1981 radio series of *The Lord of the Rings*](</wiki/The_Lord_of_the_Rings_(1981_radio_series)> "The Lord of the Rings (1981 radio series)")*.*
+**Martyn Read** (born [November 11](../_/11_November.md), [1944](../_/1944.md)) is an English actor, who has spent most of his career playing policemen. He voiced [Halbarad](../H/Halbarad.md) and several unspecified bits in the [1981 radio series of *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>)*.*
 
 ## External links {#External_links}
 

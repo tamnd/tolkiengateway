@@ -1,6 +1,5 @@
 ---
 title: "File:Yorkshire Poetry.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Yorkshire Poetry.jpg</span>"
 page_id: 44138
 namespace: 6
 revision_id: 296531
@@ -26,7 +25,7 @@ file:
 
 ## Description {#Description}
 
-Image of the Jan-Feb 1923 issue of *[Yorkshire Poetry](/wiki/Yorkshire_Poetry)* (used in lieu of the Oct-Nov issue containing Tolkien's poem).
+Image of the Jan-Feb 1923 issue of *[Yorkshire Poetry](../../main/Y/Yorkshire_Poetry.md)* (used in lieu of the Oct-Nov issue containing Tolkien's poem).
 
 ## Licensing {#Licensing}
 

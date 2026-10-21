@@ -1,6 +1,5 @@
 ---
 title: "File:Turner Mohan - Azog.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Turner Mohan - Azog.jpg</span>"
 page_id: 73471
 namespace: 6
 revision_id: 434324
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-"[Azog](/wiki/Azog)" by <a class="new" href="/w/index.php?title=Turner_Mohan&amp;action=edit&amp;redlink=1" title="Turner Mohan (page does not exist)">Turner Mohan</a>
+"[Azog](../../main/A/Azog.md)" by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Turner_Mohan&amp;action=edit&amp;redlink=1" title="Turner Mohan (page does not exist)">Turner Mohan</a>
 
 ## Licensing {#Licensing}
 
@@ -36,4 +35,4 @@ file:
 </p>
 <ul><li><b>Name:</b> Turner Mohan</li>
 <li><b>Website:</b> <a class="external free" href="http://www.mohan-art.com" rel="noreferrer noopener" target="_blank">http://www.mohan-art.com</a></li>
-<li><b><a href="/wiki/Tolkien_Gateway:Copyrights/Turner_Mohan" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>
+<li><b><a href="../../project/C/Copyrights%252FTurner_Mohan.md" title="Tolkien Gateway:Copyrights/Turner Mohan">Permission for use on Tolkien Gateway</a></b></li></ul></div>

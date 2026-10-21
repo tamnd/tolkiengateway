@@ -1,6 +1,5 @@
 ---
 title: "Category:Publications by the Tolkien Society"
-display_title: "<span class=\"mw-page-title-namespace\">Category</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Publications by the Tolkien Society</span>"
 page_id: 42653
 namespace: 14
 revision_id: 224905

@@ -1,6 +1,5 @@
 ---
 title: "File:Amy Ronald 20 March 1969.jpg"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Amy Ronald 20 March 1969.jpg</span>"
 page_id: 27634
 namespace: 6
 revision_id: 215014

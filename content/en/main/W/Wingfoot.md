@@ -11,4 +11,4 @@ redirect_target: "Aragorn"
 redirect_fragment: "Names and titles"
 ---
 
-Redirect to [Aragorn](/wiki/Aragorn#Names_and_titles).
+Redirect to [Aragorn](../A/Aragorn.md#Names_and_titles).

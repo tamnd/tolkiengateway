@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Westron"
 ---
 
-Redirect to [Westron](/wiki/Westron).
+Redirect to [Westron](../W/Westron.md).

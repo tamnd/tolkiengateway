@@ -1,6 +1,5 @@
 ---
 title: "File:Shadow of Mordor - Galadriel.png"
-display_title: "<span class=\"mw-page-title-namespace\">File</span><span class=\"mw-page-title-separator\">:</span><span class=\"mw-page-title-main\">Shadow of Mordor - Galadriel.png</span>"
 page_id: 56561
 namespace: 6
 revision_id: 308402
@@ -27,7 +26,7 @@ file:
 
 ## Summary {#Summary}
 
-Galadriel as depicted in [Middle-earth Shadow of Mordor](/wiki/Middle-earth_Shadow_of_Mordor).
+Galadriel as depicted in [Middle-earth Shadow of Mordor](../../main/M/Middle-earth_Shadow_of_Mordor.md).
 
 ## Licensing {#Licensing}
 

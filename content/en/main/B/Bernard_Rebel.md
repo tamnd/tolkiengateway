@@ -1,6 +1,5 @@
 ---
 title: "Bernard Rebel"
-display_title: "<span class=\"mw-page-title-main\">Bernard Rebel</span>"
 page_id: 27727
 namespace: 0
 revision_id: 187666
@@ -19,7 +18,7 @@ sort_keys:
   "People by name": "Rebel, Bernard"
 ---
 
-**Bernard Rebel** ([October 6](/wiki/6_October "6 October"), [1901](/wiki/1901) - [September 30](/wiki/30_September "30 September"), [1964](/wiki/1964)) is an English actor of Polish heritage. He provided the voice of [Wormtongue](/wiki/Gr%C3%ADma "Gríma") in the 1955-56 radio series *[The Lord of the Rings](</wiki/The_Lord_of_the_Rings_(1955_radio_series)> "The Lord of the Rings (1955 radio series)")*.
+**Bernard Rebel** ([October 6](../_/6_October.md), [1901](../_/1901.md) - [September 30](../_/30_September.md), [1964](../_/1964.md)) is an English actor of Polish heritage. He provided the voice of [Wormtongue](../G/Gríma.md) in the 1955-56 radio series *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*.
 
 ## External links {#External_links}
 
