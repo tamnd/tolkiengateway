@@ -43,7 +43,7 @@ jobs:
           ref: main
 
       - name: collect translated pages
-        run: TGW_TRANSLATION_LANG="$LANG_CODE" .github/scripts/collect-translations.sh
+        run: TGW_TRANSLATION_LANG="$LANG_CODE" bash .github/scripts/collect-translations.sh
 
       - name: count
         id: count
