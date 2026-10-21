@@ -3,7 +3,11 @@ name: audit
 on:
   push:
     branches: [main]
+  # Translation pull requests come from the translations workflow and are
+  # merged at once; they touch only content/vi and need no gate.
   pull_request:
+    paths-ignore:
+      - "content/vi/**"
   workflow_dispatch:
 
 permissions:
