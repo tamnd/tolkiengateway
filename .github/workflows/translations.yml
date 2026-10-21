@@ -1,0 +1,98 @@
+name: translations
+
+# Publishes the pages the translators have finished: gathers them from every
+# translation host, commits them on a branch cut from the current main, opens a
+# pull request and merges it at once. It is the only job that writes
+# content/vi, and only one runs at a time, so two hosts never race each other
+# to main.
+#
+# The pull request and the merge are made with GITHUB_TOKEN, and events from
+# that token start no workflows, so neither the checks nor a deploy run per
+# merge. The site is rebuilt by dispatching pages once a merge lands.
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      min_pages:
+        description: Publish only when at least this many pages are new or changed
+        default: "10"
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: corpus-translations
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # The translators write to this host, and it reaches the others over ssh.
+    runs-on: [self-hosted, linux, tgw-images]
+    env:
+      GH_TOKEN: ${{ github.token }}
+      LANG_CODE: vi
+      MIN_PAGES: ${{ inputs.min_pages || vars.TGW_TRANSLATION_MIN_PAGES || '10' }}
+      TGW_TRANSLATION_SOURCES: ${{ vars.TGW_TRANSLATION_SOURCES || '/root/tgw/corpus' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: collect translated pages
+        run: TGW_TRANSLATION_LANG="$LANG_CODE" .github/scripts/collect-translations.sh
+
+      - name: count
+        id: count
+        run: |
+          git add -A "content/$LANG_CODE"
+          added=$(git diff --cached --name-only --diff-filter=A -- "content/$LANG_CODE" | wc -l)
+          changed=$(git diff --cached --name-only --diff-filter=M -- "content/$LANG_CODE" | wc -l)
+          total=$(git ls-files -- "content/$LANG_CODE" | wc -l)
+          echo "added=$added" >> "$GITHUB_OUTPUT"
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+          echo "total=$total" >> "$GITHUB_OUTPUT"
+          echo "$added new and $changed changed pages; $total in content/$LANG_CODE after this." >> "$GITHUB_STEP_SUMMARY"
+          if [ $((added + changed)) -ge "$MIN_PAGES" ]; then
+            echo "publish=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "Fewer than $MIN_PAGES, so nothing is published this run." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: pull request and merge
+        id: merge
+        if: steps.count.outputs.publish == 'yes'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          branch="translations/$(date -u +%Y%m%d-%H%M%S)"
+          title="Vietnamese: ${{ steps.count.outputs.added }} new, ${{ steps.count.outputs.changed }} updated pages"
+          git switch -c "$branch"
+          git commit -q -m "$title"
+          # main can move while this runs, from the sync job or a manual push.
+          # Those do not touch content/vi, so a rebase settles it. If one ever
+          # did, the page just collected is the newer one and wins (-X theirs
+          # is this branch's side when rebasing). Three tries.
+          for try in 1 2 3; do
+            git fetch -q origin main
+            git rebase -q -X theirs origin/main
+            git push -q -f origin "$branch"
+            if [ "$try" = 1 ]; then
+              gh pr create --base main --head "$branch" --title "$title" \
+                --body "Pages finished by the translators, collected by the translations workflow. ${{ steps.count.outputs.total }} pages in content/$LANG_CODE after this merge."
+            fi
+            if gh pr merge "$branch" --squash --delete-branch --subject "$title"; then
+              echo "merged=yes" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::could not merge $branch after three tries"
+          exit 1
+
+      - name: deploy
+        if: steps.merge.outputs.merged == 'yes'
+        run: gh workflow run pages.yml --ref main
