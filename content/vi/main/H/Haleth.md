@@ -95,21 +95,21 @@ infobox:
 </tbody></table>
 </div></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Timeline</span></th></tr></tbody></table>
 
-**Haleth** là con gái của [Haldad](Haldad.md) và là em gái song sinh của [Haldar](Haldar.md). Theo thời gian, cô trở thành thủ lĩnh của [Haladin](Haladin.md), một trong [Ba Nhà của Edain](../E/Edain.md#The_Three_Houses).
+**Haleth** là con gái của [Haldad](Haldad.md) và là chị em sinh đôi của [Haldar](Haldar.md). Về sau, bà trở thành thủ lĩnh của [Haladin](Haladin.md), một trong [Ba Nhà của Edain](../E/Edain.md#The_Three_Houses).
 
 ## Lịch sử {#History}
 
-Trong [F.A.](../F/First_Age.md) [312](../F/First_Age_312.md), Haladin đã vượt qua [Dãy Núi Xanh](../B/Blue_Mountains.md), nhóm thứ hai của [Con Người](../M/Men.md) đã làm được điều đó. Họ định cư ở [Thargelion](../T/Thargelion.md), vùng đất của Chúa [Tiên](../N/Noldor.md) [Caranthir](../C/Caranthir.md). Mặc dù họ sống trên đất của Caranthir nhưng họ không thề trung thành với anh ta và vẫn là những người tự do. Sau khi cha cô và anh trai sinh đôi của cô bị [Orc](../O/Orcs.md) giết trong [một cuộc đột kích](../B/Battle_of_the_Gelion-Ascar_Stockade~66779.md), Haleth trở thành [Thủ lĩnh của Haladin](../C/Chieftain_of_the_Haladin.md). Cô ấy đã giữ cho người của mình sống sót trong bảy ngày trong khi Orc vây hãm khu trại, cho đến khi Caranthir cuối cùng cũng đến nơi cùng quân tiếp viện. Ấn tượng với sự dũng cảm của cô, anh đã đề nghị cho cô một thái ấp trên đất của anh và sự bảo vệ của binh lính của anh. Tuy nhiên, Haleth lại tỏ ra tự hào và từ chối lời đề nghị của anh ta.
+Vào năm [312](../F/First_Age_312.md) thuộc [Kỷ Đệ Nhất](../F/First_Age.md), người Haladin vượt qua [Dãy Núi Xanh](../B/Blue_Mountains.md), trở thành nhóm [Loài Người](../M/Men.md) thứ hai làm điều đó. Họ định cư tại [Thargelion](../T/Thargelion.md), vùng đất của Lãnh chúa [Tiên tộc](../N/Noldor.md) [Caranthir](../C/Caranthir.md). Dù sinh sống trên đất của Caranthir, họ không thề trung thành với ông và vẫn là những người tự do. Sau khi cha và người anh em sinh đôi của bà bị sát hại trong [một cuộc đột kích](../B/Battle_of_the_Gelion-Ascar_Stockade~66779.md) do [Orc](../O/Orcs.md) thực hiện, Haleth trở thành [Thủ lĩnh của người Haladin](../C/Chieftain_of_the_Haladin.md). Bà giữ cho dân mình sống sót suốt bảy ngày khi quân Orc vây hãm khu trại, cho đến khi Caranthir cuối cùng cũng đến cùng quân tiếp viện. Khâm phục lòng dũng cảm của bà, ông đề nghị ban cho bà một lãnh địa trên đất của mình và sự bảo vệ của binh lính. Tuy nhiên, Haleth vốn kiêu hãnh nên đã từ chối lời đề nghị của ông.
 
-Thay vào đó, Haleth đã dẫn dắt người dân của mình đến nơi tương đối an toàn của [Khu rừng Brethil](../F/Forest_of_Brethil.md) ở vùng đất Vua [Thingol](../T/Thingol.md). Để bảo vệ [Vượt qua Teiglin](../C/Crossing_of_Teiglin.md), Vua [Finrod](../F/Finrod.md) đã lợi dụng tình bạn của mình với Thingol để cho phép Haladin tiếp tục là những người tự do. Nhiều năm sau, khi Haleth qua đời, người dân của cô đã dựng lên một tượng đài cho cô, *[Haudh-en-Arwen](Haudh-en-Arwen.md)*. Trong khi cha cô được bầu làm Tộc trưởng dân tộc, Haladin đã chọn thiết lập dòng dõi cai trị từ con cháu của Haldad. Vì Haleth không kết hôn và không có con nên con trai [Haldan](Haldan.md) của anh trai cô đã trở thành Thủ lĩnh của Haladin.
+Thay vào đó, Haleth dẫn dân mình đến nơi tương đối an toàn là [Rừng Brethil](../F/Forest_of_Brethil.md), thuộc lãnh thổ của Vua [Thingol](../T/Thingol.md). Đổi lại việc bảo vệ [Lối vượt Teiglin](../C/Crossing_of_Teiglin.md), Vua [Finrod](../F/Finrod.md) đã nhờ cậy tình bạn với Thingol để người Haladin được phép tiếp tục sống như những người tự do. Nhiều năm sau, khi Haleth qua đời, dân của bà dựng một tượng đài để tưởng nhớ bà, gọi là *[Haudh-en-Arwen](Haudh-en-Arwen.md)*. Trong khi cha bà từng được bầu làm thủ lĩnh của dân mình, người Haladin quyết định thiết lập một dòng cai trị kế tục từ các hậu duệ của Haldad. Vì Haleth không kết hôn và không có con, cháu trai của anh trai bà, [Haldan](Haldan.md), trở thành Thủ lĩnh của người Haladin.
 
-Haladin vẫn ở trong Khu rừng Brethil trong suốt Kỷ Đệ Nhất và theo thời gian được gọi là **[Nhà Haleth](House_of_Haleth.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Người Haladin tiếp tục cư trú tại Rừng Brethil trong suốt Kỷ Đệ Nhất, và theo thời gian được biết đến với tên gọi **[Nhà Haleth](House_of_Haleth.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Haleth* không có ý nghĩa gì. Trong ngôn ngữ của Haladin, *hal* có nghĩa là "người đứng đầu" hoặc "người bảo vệ". [Sindarin](../S/Sindarin.md) cũng có đuôi nữ tính *-eth*.
+Cái tên *Haleth* không có ý nghĩa nào được biết đến. Trong ngôn ngữ của người Haladin, *hal* có nghĩa là "thủ lĩnh" hoặc "người bảo vệ". [Sindarin](../S/Sindarin.md) cũng có hậu tố giống cái *-eth*.
 
-## Phả hệ {#Genealogy}
+## Gia phả {#Genealogy}
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
 <tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="Haldad.md" title="Haldad">Haldad</a><br/><small><i><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_315.md" title="First Age 315">315</a> - <a href="../F/First_Age_375.md" title="First Age 375">375</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
@@ -121,9 +121,9 @@ Tên *Haleth* không có ý nghĩa gì. Trong ngôn ngữ của Haladin, *hal* c
 <tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="Halmir.md" title="Halmir">Halmir</a><br/><small><i><a href="../F/First_Age_390.md" title="First Age 390">390</a> - <a href="../F/First_Age_471.md" title="First Age 471">471</a></i></small></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của legendarium {#Other_versions_of_the_legendarium}
 
-Trong [The Quenta](../T/The_Quenta.md), **Haleth Thợ săn** là con trai của [Hador](Hador.md), người lần đầu tiên xuất hiện với tư cách là một trong những Người cha của Con Người.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau đó, anh ta xuất hiện với tư cách là thủ lĩnh của một trong Ba Nhà Con Người,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cho đến khi nhân vật của anh ta được làm lại thành Quý bà Haleth.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [The Quenta](../T/The_Quenta.md), **Haleth Thợ Săn** là con trai của [Hador](Hador.md), người lần đầu xuất hiện với tư cách là một trong những Tổ phụ của Loài Người.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Về sau, ông xuất hiện với tư cách là thủ lĩnh của một trong Ba Nhà của Loài Người,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cho đến khi nhân vật này được xây dựng lại thành Lady Haleth.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 
