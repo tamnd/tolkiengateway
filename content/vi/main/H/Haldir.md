@@ -53,19 +53,19 @@ infobox:
 <p class="tg-quote-footer"><cite>Haldir in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../L/Lothlórien_(chapter).md" title="Lothlórien (chapter)">Lothlórien</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Haldir** là một [Tiên](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md), có thể là [Silvan Tiên](../S/Silvan_Elves.md), và là một người canh gác biên giới phía bắc của khu rừng.
+**Haldir** là một [Tiên tộc](../E/Elves.md) ở [Lothlórien](../L/Lothlórien.md), có lẽ thuộc tộc [Tiên tộc Silvan](../S/Silvan_Elves.md), và là một người canh giữ biên giới, bảo vệ ranh giới phía bắc của khu rừng.
 
 ## Lịch sử {#History}
 
-Haldir là một trong những [Galadhrim](../G/Galadhrim.md); Không giống như những người anh em của mình, [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>) và [Orophin](../O/Orophin.md), Haldir đã đi ra ngoài Lórien và biết [Westron](../W/Westron.md). Anh ta và những người bạn đồng hành của mình được mô tả là mặc áo choàng có mũ trùm đầu màu xám và sống *[flets](../T/Telain.md)* trên cây.
+Haldir là một trong số [Galadhrim](../G/Galadhrim.md); không giống các anh em của mình là [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>) và [Orophin](../O/Orophin.md), Haldir từng đi ra ngoài Lórien và biết tiếng [Westron](../W/Westron.md). Ông cùng những người đồng hành được mô tả là mặc áo choàng xám có mũ trùm đầu và sống trên các *[flet](../T/Telain.md)* trên cây.
 
-Haldir đi cùng với những người anh em của mình trong khoảng thời gian từ [15](../_/15_January.md) đến [16 tháng 1](../_/16_January.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khi họ chạm trán với [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã đến Lórien. Các anh trai của anh ấy ít tương tác với Hội vì họ ít nói về Ngôn ngữ Chung. Anh ta đối xử với [Gimli](../G/Gimli.md) khá tệ do mối quan hệ không tốt giữa Tiên tộc và Người Lùn. Anh ta bắt anh ta bị bịt mắt xuyên qua rừng cho đến khi [Galadriel](../G/Galadriel.md) nói rằng anh ta không cần phải làm vậy.
+Haldir đi cùng các anh em của mình trong khoảng từ ngày [15](../_/15_January.md) đến [16 tháng Một](../_/16_January.md), năm [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, khi họ gặp [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vừa đến Lórien. Các anh em của ông ít giao tiếp với Đoàn Hộ Nhẫn vì họ không thông thạo tiếng Chung. Ông đối xử khá tệ với [Gimli](../G/Gimli.md) do mối quan hệ không tốt giữa Tiên tộc và Người Lùn. Ông buộc Gimli phải bịt mắt khi đi xuyên qua khu rừng, cho đến khi [Galadriel](../G/Galadriel.md) nói rằng Gimli không cần phải làm vậy.
 
-Anh ấy đã nghe nói về [Aragorn](../A/Aragorn.md), nhưng không có dấu hiệu nào cho thấy họ đã từng gặp nhau trước đây.<sup id="cite_ref-LL_2-0" class="reference"><a href="#cite_note-LL-2">[2]</a></sup> Haldir trở thành người dẫn đường cho họ đến thành phố [Caras Galadhon](../C/Caras_Galadhon.md).
+Ông đã nghe nói về [Aragorn](../A/Aragorn.md), nhưng không có dấu hiệu nào cho thấy họ từng gặp nhau trước đó.<sup id="cite_ref-LL_2-0" class="reference"><a href="#cite_note-LL-2">[2]</a></sup> Haldir trở thành người dẫn đường cho họ đến thành phố [Caras Galadhon](../C/Caras_Galadhon.md).
 
-Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đãi khách xong và chuẩn bị khởi hành, Haldir dẫn họ lên thuyền Tiên của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) tiếp đãi các vị khách và họ chuẩn bị lên đường, Haldir dẫn họ đến những chiếc thuyền Tiên tộc của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-## Từ nguyên {#Etymology}
+## Từ nguyên học {#Etymology}
 
 <div style="right: 0px; clear: right; float:right; margin: 0px 0px 10px 10px;">
 <table style="border:var(--tg-border-base); background-color:var(--tg-color-surface-2); font-size: 0.8em; line-height: 1.5;border-radius:var(--tg-border-radius-large);" width="275px">
@@ -82,16 +82,16 @@ Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đãi kh
 </tbody></table>
 </div>
 
-*Haldir* rõ ràng là [Sindarin](../S/Sindarin.md), nhưng nó không bao giờ được làm bóng. Trong [huyền thoại](../L/Legendarium.md) trước đó, [Tolkien](../T/Tolkien.md) gọi [Noldorin](../N/Noldorin.md) *Haldir* là "Anh hùng giấu mặt", mặc dù [Haldir](<Haldir_(son_of_Orodreth).md>) này ám chỉ con trai (sau này bị lược bỏ) của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Haldir* rõ ràng là tiếng [Sindarin](../S/Sindarin.md), nhưng chưa bao giờ được chú giải nghĩa. Trong [huyền sử](../L/Legendarium.md) thời kỳ đầu, [Tolkien](../T/Tolkien.md) chú giải *Haldir* trong tiếng [Noldorin](../N/Noldorin.md) là "Anh hùng Ẩn mình", mặc dù [Haldir](<Haldir_(son_of_Orodreth).md>) này chỉ người con trai (về sau bị lược bỏ) của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-## Phả hệ {#Genealogy}
+## Gia phả {#Genealogy}
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style=""><tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 1em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 1em; height: 1em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"></td></tr><tr align="center"><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td></tr><tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><b>HALDIR</b><br/><small><i>unknown</i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../R/Rúmil_(elf_of_Lórien).md" title="Rúmil (elf of Lórien)">Rúmil</a><br/><small><i>unknown</i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../O/Orophin.md" title="Orophin">Orophin</a><br/><small><i>unknown</i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
 </tbody></table></div>
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Hình tượng trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-### Haldir trong các bản chuyển thể {#Haldir_in_adaptations}
+### Haldir trong các tác phẩm chuyển thể {#Haldir_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -110,31 +110,31 @@ Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đãi kh
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Haldir was omitted. Aragorn and Boromir briefly discuss the possibility of entering Lothlórien, and in the next shot, they are welcomed by Galadriel.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (1981 radio series)</a>:</b>
 
 <dl><dd><a href="Haydn_Wood.md" title="Haydn Wood">Haydn Wood</a> provided the voice of Haldir.</dd></dl>
 
-<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
+<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt chương trình phát thanh tiếng Đức năm 1992)</a>:</b>
 
 <dl><dd>Haldir is played by Gunther Cremer.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể những chiếc nhẫn: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Haldir was played by <a href="../C/Craig_Parker.md" title="Craig Parker">Craig Parker</a>.</dd></dl>
 
-<b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
+<b>2001: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (loạt chương trình phát thanh tiếng Slovakia 2001-2003)</a>:</b>
 
 <dl><dd>The voice of Haldir is provided by Milan Bahúl.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể những chiếc nhẫn: The Two Towers</a></i>:</b>
 
 <dl><dd>Haldir leads a regiment of Elven archers from Lórien to the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of Helm&#39;s Deep</a>, where he is eventually slain, along with most of his archers.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Haldir is first met on a talan on the western border of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>. He  frequently serves as the intermediary between the player and <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> during the epic story.</dd></dl>
 

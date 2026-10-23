@@ -17,32 +17,32 @@ sort_keys:
   "Sindarin nouns": "Gul"
 ---
 
-<i><b>gûl</b></i> là một từ được sử dụng trong cả [Sindarin](../S/Sindarin.md) và [Hắc Ngữ](../B/Black_Speech.md) (bắt nguồn từ từ trước).<sup id="cite_ref-P4k_1-0" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup><sup id="cite_ref-PE1779_2-0" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
+<i><b>gûl</b></i> là một từ được sử dụng trong cả tiếng [Sindarin](../S/Sindarin.md) và [Hắc Ngữ](../B/Black_Speech.md) (có nguồn gốc từ ngôn ngữ trước).<sup id="cite_ref-P4k_1-0" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup><sup id="cite_ref-PE1779_2-0" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Elvish](../E/Elvish.md) *ngōl-*<sup id="cite_ref-PE1779_2-1" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> (từ [gốc](../S/Sundocarme.md) [NGOL](../N/NGOL.md))<sup id="cite_ref-Ety377_3-0" class="reference"><a href="#cite_note-Ety377-3">[3]</a></sup><sup id="cite_ref-WJC_4-0" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
+- [Tiên ngữ](../E/Elvish.md) *ngōl-*<sup id="cite_ref-PE1779_2-1" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> (từ [căn tố](../S/Sundocarme.md) [NGOL](../N/NGOL.md))<sup id="cite_ref-Ety377_3-0" class="reference"><a href="#cite_note-Ety377-3">[3]</a></sup><sup id="cite_ref-WJC_4-0" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
 
 ## Sindarin {#Sindarin}
 
-Trong Sindarin, *gûl* ban đầu được gọi là "kiến thức bí mật, nghệ thuật"<sup id="cite_ref-WJC_4-1" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> hoặc "kiến thức sâu sắc hơn của những người 'khôn ngoan' hoặc có kỹ năng".<sup id="cite_ref-PE1779_2-2" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> Tuy nhiên, từ này dần dần được liên kết với nghệ thuật đen của [Morgoth](../M/Morgoth.md)(như trong từ ghép *[morgul](../M/Morgul.md)*).<sup id="cite_ref-WJC_4-2" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> Do đó, nó cũng được hiểu là "kiến thức xấu xa hoặc biến thái, chiêu hồn, ma thuật".<sup id="cite_ref-P4k_1-1" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup>
+Trong tiếng Sindarin, *gûl* ban đầu chỉ "kiến thức bí mật, các nghệ thuật"<sup id="cite_ref-WJC_4-1" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> hoặc "kiến thức uyên thâm hơn của những người 'thông thái' hoặc có kỹ năng".<sup id="cite_ref-PE1779_2-2" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup> Tuy nhiên, từ này dần gắn liền với các tà thuật hắc ám của [Morgoth](../M/Morgoth.md) (như trong từ ghép *[morgul](../M/Morgul.md)*).<sup id="cite_ref-WJC_4-2" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup> Vì vậy, từ này cũng được chú giải là "kiến thức tà ác hoặc bị biến chất, thuật gọi hồn, ma thuật".<sup id="cite_ref-P4k_1-1" class="reference"><a href="#cite_note-P4k-1">[1]</a></sup>
 
-## Hắc Ngữ {#Black_Speech}
+## Black Speech {#Black_Speech}
 
-Trong Hắc Ngữ, *gûl* (hoặc *gūl*) được gọi là "([ma](../P/Phantoms.md), bóng tối [ma thuật](../M/Magic.md), thầy gọi hồn), nô lệ, người hầu?", "[\[ác\] linh hồn](../D/Demons.md)". Trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *gûl* được dịch là "[bóng ma](../W/Wraiths.md)" (như trong *[Nazgûl](../N/Nazgûl.md)*, Nazgûl).<sup id="cite_ref-PE1779_2-3" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
+In the Black Speech, *gûl* (or *gūl*) is glossed as "([phantom](../P/Phantoms.md), shadow of dark [magic](../M/Magic.md), necromancer), slave, servant?", "[\[evil\] spirit](../D/Demons.md)". In *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *gûl* is translated as "[wraiths](../W/Wraiths.md)" (as in *[Nazgûl](../N/Nazgûl.md)*, the Ringwraiths).<sup id="cite_ref-PE1779_2-3" class="reference"><a href="#cite_note-PE1779-2">[2]</a></sup>
 
-## Hợp chất {#Compounds}
+## Các từ ghép {#Compounds}
 
 - <i><a href="../M/Morgul.md" title="Morgul">mor<b>gul</b></a></i>
 - <i><a href="../N/Nazgûl.md" title="Nazgûl">Naz<b>gûl</b></a></i>
 - <i><a href="Guldur.md" title="Guldur"><b>gul</b>dur</a></i>
 
-## Có cùng nguồn gốc {#Cognates}
+## Từ cùng gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md): *ñóle*<sup id="cite_ref-WJC_4-3" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
 - [Telerin](../T/Telerin.md): *góle, engole*<sup id="cite_ref-WJC_4-4" class="reference"><a href="#cite_note-WJC-4">[4]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các phiên bản khác của bộ truyền thuyết {#Other_versions_of_the_legendarium}
 
 Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện dạng [Noldorin](../N/Noldorin.md) *gûl* ("ma thuật").<sup id="cite_ref-Ety377_3-1" class="reference"><a href="#cite_note-Ety377-3">[3]</a></sup>
 
