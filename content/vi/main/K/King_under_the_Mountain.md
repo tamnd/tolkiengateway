@@ -26,7 +26,7 @@ images:
 1. [Thráin I](../T/Thráin_I.md)
 2. [Thorin I](../T/Thorin_I.md) – từ bỏ Vương quốc vì [Dãy Núi Xám](../G/Grey_Mountains.md)
 3. [Thrór](../T/Thrór.md) – khôi phục Vương quốc nhưng để mất nó vào tay [Smaug](../S/Smaug.md)
-4. [Smaug](../S/Smaug.md) - tuyên bố danh hiệu và vương quốc sau [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
+4. [Smaug](../S/Smaug.md) - tuyên bố danh hiệu và vương quốc sau [cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
 5. [Thorin II Oakenshield](../T/Thorin.md) – giành lại Vương quốc
 6. [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) - trị vì sau cái chết của Thorin vào [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md)
 7. [Thorin III Stonehelm](../T/Thorin_Stonehelm.md)

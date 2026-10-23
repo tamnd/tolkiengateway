@@ -71,7 +71,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_Túrin_Turambar.md" title="Of Túrin Turambar">Of Túrin Turambar</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Gwindor** là hoàng tử của [các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md). Anh ta đáng chú ý nhất vì những hành động của mình khi bắt đầu [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) và mối quan hệ sau này với [Túrin](../T/Túrin.md).
+**Gwindor** là hoàng tử của [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md). Anh ta đáng chú ý nhất vì những hành động của mình khi bắt đầu [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) và mối quan hệ sau này với [Túrin](../T/Túrin.md).
 
 ## Lịch sử {#History}
 
@@ -81,7 +81,7 @@ Gwindor sinh ra ở [Nargothrond](../N/Nargothrond.md)<sup id="cite_ref-NRG_1-1"
 
 Anh trai của anh đã bị mất tích trong [Dagor Bragollach](../D/Dagor_Bragollach.md), và với mong muốn trả thù cho sự mất mát này, anh đã gia nhập [Liên minh Maedhros](../U/Union_of_Maedhros.md) và theo [Fingon](../F/Fingon.md) ra trận.
 
-Trong cuộc tấn công, Gwindor dẫn đầu một đại đội nhỏ các Tiên tộc Nargothrond đóng quân tại [Barad Eithel](../B/Barad_Eithel.md). Nhưng chủ nhà của [Morgoth](../M/Morgoth.md) đã chuẩn bị sẵn sàng; họ mang anh trai anh ấy, vẫn còn sống, sau đó cắt xẻo và giết anh ấy trước mặt công ty. Khi nhìn thấy xác chết của Gelmir, anh ta tấn công vùng đồng bằng [Anfauglith](../A/Anfauglith.md), và do đó bắt đầu trận chiến [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md). Người ta nói rằng Morgoth đã run rẩy khi đại đội của anh ta đập cổng, nhưng anh ta đã phục kích đại đội ngay trong Angband, và tất cả ngoại trừ Gwindor đều bị giết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong cuộc tấn công, Gwindor dẫn đầu một đại đội nhỏ Các Tiên tộc Nargothrond đóng quân tại [Barad Eithel](../B/Barad_Eithel.md). Nhưng chủ nhà của [Morgoth](../M/Morgoth.md) đã chuẩn bị sẵn sàng; họ mang anh trai anh ấy, vẫn còn sống, sau đó cắt xẻo và giết anh ấy trước mặt công ty. Khi nhìn thấy xác chết của Gelmir, anh ta tấn công vùng đồng bằng [Anfauglith](../A/Anfauglith.md), và do đó bắt đầu trận chiến [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md). Người ta nói rằng Morgoth đã run rẩy khi đại đội của anh ta đập cổng, nhưng anh ta đã phục kích đại đội ngay trong Angband, và tất cả ngoại trừ Gwindor đều bị giết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Anh ta đã trải qua mười bốn năm làm nô lệ bị giam cầm ở Angband, nơi sức mạnh và vẻ đẹp của cơ thể anh ta bị hủy hoại. Tại một thời điểm nào đó, anh ta nhận được một thanh kiếm nhỏ từ một Tiên khác, người làm việc trong lò rèn và khi đang làm việc trong một [băng đảng đá](../T/Thrall-Noldoli.md), anh ta bất ngờ tấn công lính canh. Mặc dù bị mất một tay trong trận chiến đó, anh vẫn trốn thoát và chạy về phía nam, cuối cùng đến được <a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -91,7 +91,7 @@ Khi Gwindor nằm kiệt sức, anh được tìm thấy bởi [Beleg](../B/Bele
 
 ### Quay lại Nargothrond {#Return_to_Nargothrond}
 
-Túrin đã được nhận vào vương quốc Tiên nhờ Gwindor, nhưng giờ Gwindor đã kiệt sức và không còn sức mạnh như trước khi bị bắt. "Agarwaen" (tênTúrin khi anh còn ở đó) đã gây được nhiều ảnh hưởng trong các Tiên tộc Nargothrond và thậm chí Finduilas còn yêu anh, sự thật là Gwindor chấp nhận mà không cay đắng với Túrin. Tin rằng Finduilas sẽ cứu Túrin khỏi số phận của mình, Gwindor đã tiết lộ danh tính của Agarwaen cho Finduilas, đồng thời cố gắng thuyết phục Túrin đáp lại tình cảm của cô.
+Túrin đã được nhận vào vương quốc Tiên nhờ Gwindor, nhưng giờ Gwindor đã kiệt sức và không còn sức mạnh như trước khi bị bắt. "Agarwaen" (tênTúrin khi anh còn ở đó) đã gây được nhiều ảnh hưởng trong Các Tiên tộc Nargothrond và thậm chí Finduilas còn yêu anh, sự thật là Gwindor chấp nhận mà không cay đắng với Túrin. Tin rằng Finduilas sẽ cứu Túrin khỏi số phận của mình, Gwindor đã tiết lộ danh tính của Agarwaen cho Finduilas, đồng thời cố gắng thuyết phục Túrin đáp lại tình cảm của cô.
 
 Nhưng khi Túrin nói về chiến tranh công khai với lực lượng của Morgoth, Gwindor có thể nhìn thấy sự diệt vong sắp xảy ra của Nargothrond và được khuyên chống lại điều này, nhưng lại bị bỏ qua. Orodreth [Vua của Nargothrond](../K/King_of_Nargothrond.md) đã xây dựng một cây cầu, không chỉ loại bỏ khả năng phòng thủ do dòng sông [Narog](../N/Narog.md)cung cấp mà còn tiết lộ vị trí của Vương quốc.
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A.F. Colborn"
 ---
 
-Chuyển hướng đến [A.F. Colborn](A.F._Colborn.md).
+Chuyển hướng tới [A.F. Colborn](A.F._Colborn.md).

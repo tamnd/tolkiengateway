@@ -93,7 +93,7 @@ Tựa đề *The War of the Ring* là tựa ban đầu cho Quyển 5 của *TLot
     - IV. "Các loại thảo mộc và thỏ hầm"
     - V. "Faramir"
     - VI. "Hồ nước cấm"
-    - VII. "Hành trình đến những ngã tư"
+    - VIII. "Hành trình đến những ngã tư"
     - VIII. "Kirith Ungol"
 
 - **Phần thứ ba: Minas Tirith**

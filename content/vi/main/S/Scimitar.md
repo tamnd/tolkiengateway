@@ -34,7 +34,7 @@ Vệ sĩ của [Bolg](../B/Bolg.md) được cho là bao gồm những "Goblin" 
 
 Vào [15 tháng 1](../_/15_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đã tìm thấy "những thanh đao orc có lưỡi kiếm đen" trong [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md) ngay sau khi tiến vào [Moria](../M/Moria.md).<sup id="cite_ref-:2_1-1" class="reference"><a href="#cite_note-:2-1">[1]</a></sup> Ngoại trừ những lưỡi kiếm rộng của [Orc của Isengard](../O/Orcs_of_Isengard.md), Orc được cho là thường mang "cong" đao kiếm".<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
 
-Haradrim được cho là đã sử dụng đại đao trong [Trận Cánh đồng Pelennor](../B/Battle_of_Pelennor_Fields.md) vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>
+Haradrim được cho là đã sử dụng đại đao trong [Trận cánh đồng Pelennor](../B/Battle_of_Pelennor_Fields.md) vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-:1_3-1" class="reference"><a href="#cite_note-:1-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

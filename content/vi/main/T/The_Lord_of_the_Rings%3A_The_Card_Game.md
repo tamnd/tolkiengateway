@@ -284,7 +284,7 @@ Là một phần của bộ Lõi Sửa đổi đang được phát hành và là
 
 *The Lord of the Rings: Trò chơi bài* là trò chơi bài hợp tác trong đó 1-2 người chơi (hoặc tối đa bốn người với hai Bộ lõi!) điều khiển các nhân vật và hiện vật mạnh nhất của Trung Địa. Người chơi sẽ chọn anh hùng, tập hợp đồng minh, thu thập cổ vật và phối hợp nỗ lực để đối mặt với những tên ác quỷ nguy hiểm nhất của Trung Địa. Bằng cách hợp tác để vượt qua các chướng ngại vật được rút ra từ bộ bài chạm trán, bạn sẽ hoàn thành nhiệm vụ trước mắt và giành chiến thắng!
 
-Bộ lõi bao gồm 216 lá bài có thể được sử dụng để tập hợp nhiều bộ bài khác nhau ngay khi lấy ra khỏi hộp. Bao gồm bốn tình huống nguy hiểm, cùng với vô số sự kết hợp giữa bối cảnh và kẻ thù, mang đến khả năng chơi lại gần như vô hạn. Ngoài ra, người chơi có thể xây dựng một nhóm từ một bộ 16 thẻ anh hùng và tập trung bộ bài của họ vào bất kỳ sự kết hợp nào của bốn phạm vi ảnh hưởng riêng biệt: Lãnh đạo, Truyền thuyết, Tinh thần và Chiến thuật. Mỗi quả cầu mang lại những lợi ích riêng cho nhóm, vì vậy hãy lựa chọn một cách khôn ngoan!
+Bộ lõi bao gồm 216 lá bài có thể được sử dụng để tập hợp nhiều bộ bài khác nhau ngay khi lấy ra khỏi hộp. Bao gồm bốn tình huống nguy hiểm, cùng với vô số sự kết hợp giữa bối cảnh và kẻ thù, mang lại khả năng chơi lại gần như vô hạn. Ngoài ra, người chơi có thể xây dựng một nhóm từ một bộ 16 thẻ anh hùng và tập trung bộ bài của họ vào bất kỳ sự kết hợp nào của bốn phạm vi ảnh hưởng riêng biệt: Lãnh đạo, Truyền thuyết, Tinh thần và Chiến thuật. Mỗi quả cầu mang lại những lợi ích riêng cho nhóm, vì vậy hãy lựa chọn một cách khôn ngoan!
 
 ## Di sản {#Legacy}
 

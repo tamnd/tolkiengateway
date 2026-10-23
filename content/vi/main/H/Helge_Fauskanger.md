@@ -49,7 +49,7 @@ Fauskanger được đánh giá cao nhờ phiên bản [Neo-Quenya](../N/Neo-Que
     - "Bài thơ vang lên trong Quenya" (bản dịch)
     - "Lussi Lomesse" (thơ)
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 12](../T/Tyalië_Tyelelliéva_12.md)
-    - "The Lời Tiên tri Thứ hai của Mandos" (dịch sang Quenya với tengwar)
+    - "The Lời tiên tri thứ hai của Mandos" (dịch sang Quenya với tengwar)
 - [1998](../_/1998.md): [*Tyalië Tyelelliéva* 13](../T/Tyalië_Tyelelliéva_13.md)
     - "Dòng chữ cổ điển tiếng Hebrew"
 - [2000](../_/2000.md): [*Tyalië Tyelelliéva* 14](../T/Tyalië_Tyelelliéva_14.md)

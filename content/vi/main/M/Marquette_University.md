@@ -32,7 +32,7 @@ Vào [ngày 10 tháng 1](../_/10_January.md), Bertram Rota đã trả lời Will
 Thỏa thuận này đã được hoàn tất vào tháng 5 của [1957](../_/1957.md)và một lượng tài liệu đáng kể đã được chuyển qua Đại Tây Dương vào tháng 6, với *The Lord of the Rings* tài liệu được gửi chủ yếu bằng [1958](../_/1958.md) và sau đó tài liệu bổ sung được gửi bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) khi được phát hiện trong giấy tờ của cha anh ấy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - Hơn 1.500 trang (bản thảo, bản đánh máy và bản soát lỗi đã sửa chữa) cho *The Hobbit*, bao gồm cả các thiết kế áo khoác bụi sơ bộ.
-- Hơn 200 trang (bản thảo, bản đánh máy và bản soát lỗi đã được sửa chữa) cho *Farmer Giles of Ham*, nhưng không bao gồm lời chú thích cho lời nói đầu và phần tiếp theo chưa hoàn thành.
+- Hơn 200 trang (bản thảo, bản đánh máy và bản soát lỗi đã sửa chữa) cho *Farmer Giles of Ham*, nhưng không bao gồm chú thích cho lời nói đầu và phần tiếp theo chưa hoàn thành.
 - Bản thảo minh họa đầy đủ cho *Mr. Bliss*, hơn 60 trang.
 - Hơn 9.200 trang tài liệu cho *The Lord of the Rings* bao gồm *Epilogue*chưa hoàn thiện, nhưng chưa bao gồm gần như toàn bộ tác phẩm nghệ thuật của Tolkien.
 

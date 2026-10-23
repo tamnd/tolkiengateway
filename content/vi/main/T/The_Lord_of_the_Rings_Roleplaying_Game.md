@@ -54,7 +54,7 @@ Các lớp nhân vật có trong *Trò chơi phiêu lưu nhập vai Chúa tể n
 
 - **Thợ thủ công**: Một người có tay nghề cao trong nghệ thuật chế tạo, có thể chế tạo ra những món đồ vừa hữu ích vừa kỳ diệu hoặc là người phục vụ người khác trong khả năng bình thường nào đó. Sam Gamgee, Barliman Butterbur, nhiều Người Lùn và thợ kim hoàn Noldorin đều là thợ thủ công.
 
-- **[Loremaster](../L/Lambengolmor.md)**: Một người thông thái trong truyền thuyết Trung Địa và là người, mặc dù không phải là người sử dụng bùa chú thực sự, nhưng có thể sử dụng một số phép thuật nhỏ hoặc tinh vi. Denethor, Celeborn và nhiều Tiên tộc là những bậc thầy về truyền thuyết.
+- **[Loremaster](../L/Lambengolmor.md)**: Một người thông thái trong truyền thuyết Trung Địa và là người, mặc dù không phải là người sử dụng bùa chú thực sự, nhưng có thể sử dụng một số phép thuật nhỏ hoặc tinh tế. Denethor, Celeborn và nhiều Tiên tộc là những bậc thầy về truyền thuyết.
 
 - **Pháp sư**: Một người thực hiện phép thuật và niệm chú dựa trên truyền thuyết và trí tuệ đã học, nhưng gần như không mạnh bằng một thuật sĩ.
 

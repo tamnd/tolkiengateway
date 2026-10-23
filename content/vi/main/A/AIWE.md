@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "AIWĒ"
 ---
 
-Chuyển hướng tới [AIWĒ](AIWĒ.md).
+Chuyển hướng đến [AIWĒ](AIWĒ.md).

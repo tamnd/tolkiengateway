@@ -106,7 +106,7 @@ Vào đầu [Kỷ nguyên thứ hai](Second_Age.md), sau [Chiến tranh Phẫn n
 
 Những người khác đến vương quốc rừng ở phía đông [Dãy Núi Sương Mù](../M/Misty_Mountains.md).<sup id="cite_ref-SE-UTb_10-0" class="reference"><a href="#cite_note-SE-UTb-10">[8]</a></sup> Họ trở thành người cai trị [Silvan Tiên tộc](Silvan_Elves.md) sống ở đó và thành lập Vương quốc Rừng [Greenwood the Great](../G/Greenwood_the_Great.md) ([S](Sindarin.md) "Eryn Galen") và Lórinand (hoặc Laurelindórenan). Silvan Tiên tộc được chia sẻ di sản chung với Sindar vì cả Silvan Tiên tộc (ban đầu được gọi là *[Nandor](../N/Nandor.md)*) và Sindar đều thuộc dòng [Teleri](../T/Teleri.md). Sindar sớm sáp nhập với Silvan Tiên tộc và đón nhận và tiếp nhận nền văn hóa của họ, mong muốn trải nghiệm một lối sống "mộc mạc" và "tự nhiên" hơn như sau khi họ thức tỉnh ở [Cuiviénen](../C/Cuiviénen.md).<sup id="cite_ref-SE-UTb_10-1" class="reference"><a href="#cite_note-SE-UTb-10">[8]</a></sup>
 
-Những Sindar khác đã thành lập nơi trú ẩn [Edhellond](../E/Edhellond.md) ở phía nam, và họ cũng có sự tham gia của Silvan Tiên tộc đã di cư đến đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[9]</a></sup>
+Những Sindar khác đã thành lập nơi trú ẩn [Edhellond](../E/Edhellond.md) ở phía nam, và họ cũng có sự tham gia của Silvan Tiên tộc những người đã di cư đến đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[9]</a></sup>
 
 ## Ngôn ngữ {#Language}
 

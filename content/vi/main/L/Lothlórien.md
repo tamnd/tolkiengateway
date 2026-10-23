@@ -87,7 +87,7 @@ Sau sự hủy diệt của [Beleriand](../B/Beleriand.md) và [Chiến tranh Ph
 
 Khi quyền lực của [Sauron](../S/Sauron.md)tăng lên trên [Westlands](../W/Westlands.md), Vua Amdír điều động Galadhrim đến [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md) nơi nhiều người đã ngã xuống ở [Đầm lầy Chết](../D/Dead_Marshes.md) cùng với Vua của họ.<sup id="cite_ref-Sindarin_4-3" class="reference"><a href="#cite_note-Sindarin-4">[4]</a></sup>
 
-Những người sống sót, trong đó có con trai [Amroth](../A/Amroth.md)của Amdír, đã quay trở lại Lórinand. Amroth là Vua mới, nhưng anh ấy đã chán Trung Địa và muốn đi Phương Tây tìm kiếm [Valinor](../V/Valinor.md). Khi Moria rơi vào vòng ác quỷ ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), nhiều Galadhrim đã chạy trốn [về phía nam](../E/Edhellond.md). Amroth cũng ra đi cùng với người anh yêu, [Nimrodel](<../N/Nimrodel_(Elf-maid).md>), và họ không bao giờ được gặp lại.<sup id="cite_ref-AaN_7-1" class="reference"><a href="#cite_note-AaN-7">[7]</a></sup>
+Những người sống sót, trong đó có con trai [Amroth](../A/Amroth.md)của Amdír, đã quay trở lại Lórinand. Amroth là Vua mới, nhưng anh ấy đã chán Trung Địa và muốn đi Phương Tây tìm kiếm [Valinor](../V/Valinor.md). Khi Moria rơi vào vòng ác quỷ ở [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md), nhiều Galadhrim đã chạy trốn [phía nam](../E/Edhellond.md). Amroth cũng ra đi cùng với người anh yêu, [Nimrodel](<../N/Nimrodel_(Elf-maid).md>), và họ không bao giờ được gặp lại.<sup id="cite_ref-AaN_7-1" class="reference"><a href="#cite_note-AaN-7">[7]</a></sup>
 
 ### Lạy Chúa và Phu nhân {#Lord_and_Lady}
 
@@ -97,7 +97,7 @@ Sau khi Amroth và Nimrodel qua đời, Celeborn và Galadriel nhận danh hiệ
 
 Dưới thời Chúa Bà, Lothlórien hưng thịnh hơn nghìn năm, thời gian trôi qua không hề suy tàn dưới gốc cây vàng. Celeborn và Galadriel sinh ra một cô con gái, [Celebrían](../C/Celebrían.md), kết hôn với [Elrond](../E/Elrond.md), và cháu gái của họ [Arwen Undómiel](../A/Arwen.md) được coi là người công bằng nhất trong chủng tộc yêu tinh vào thời điểm đó.
 
-Trong [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md), [Aragorn](../A/Aragorn.md) đi ngang qua Lothlórien cùng với [Gollum](../G/Gollum.md) bị bắt để giao anh ta cho [Mirkwood](../M/Mirkwood.md). [Gandalf](../G/Gandalf.md) nhận được tin từ Lothlórien đang trên đường đến [Shire](../S/Shire.md), và anh ấy đã thay đổi lộ trình để đi gặp họ.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md), [Aragorn](../A/Aragorn.md) đi ngang qua Lothlórien cùng với [Gollum](../G/Gollum.md) bị bắt để giao anh ta cho [Mirkwood](../M/Mirkwood.md). [Gandalf](../G/Gandalf.md) nhận được tin từ Lothlórien đang trên đường đến [Shire](../S/Shire.md), và anh ấy đã thay đổi lộ trình để đến gặp họ.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### Cuộc chiến Nhẫn {#War_of_the_Ring}
 
@@ -111,7 +111,7 @@ Ngay khi Đại đội rời đi, [Gwaihir](../G/Gwaihir.md) đã đưa [Gandalf
 
 Nhưng sự xuất hiện của [One Ring](../O/One_Ring.md) chỉ là khởi đầu cho những rắc rối của họ, là điềm báo trước về những xung đột lớn hơn sắp xảy ra. [Sauron](../S/Sauron.md) tung ra [các cuộc tấn công lớn](../A/Assaults_on_Lothlórien.md) vào Golden Wood.
 
-Vào [11 tháng 3](../_/11_March.md), lực lượng từ [Dol Guldur](../D/Dol_Guldur.md) tràn vào rừng trong một cuộc tấn công tổng lực. Bằng sức mạnh của vòng Tiên rừng và Galadriel, họ đã bị đẩy lui. Đợt thứ hai xảy ra vào [15 tháng 3](../_/15_March.md), cùng thời điểm với [cuộc xâm lược của Mirkwood](../B/Battle_under_the_trees.md). Một lần nữa, kẻ thù bị buộc phải rút lui. Cuộc tấn công thứ ba và cũng là cuộc tấn công cuối cùng được thực hiện bảy ngày sau đó, vào [22 tháng 3](../_/22_March.md). Họ đã gây ra nhiều sự tàn phá ở biên giới khu rừng, nhưng Galadhrim dũng cảm đã đánh bại họ hoàn toàn. Và sau khi [Bóng Tối](../S/Shadow.md) của Sauron được dỡ bỏ, họ đã xông vào [Dol Guldur](../D/Dol_Guldur.md) và dọn sạch [Mirkwood](../M/Mirkwood.md); [Thranduil](../T/Thranduil.md) đã trao phần phía nam của mình cho Lothlórien và được gọi là [Đông Lórien](../E/East_Lórien.md).<sup id="cite_ref-Great_13-1" class="reference"><a href="#cite_note-Great-13">[13]</a></sup>
+Vào [11 tháng 3](../_/11_March.md), lực lượng từ [Dol Guldur](../D/Dol_Guldur.md) tràn vào rừng trong một cuộc tấn công tổng lực. Bằng sức mạnh của vòng Tiên rừng và Galadriel, họ đã bị đẩy lùi. Đợt thứ hai xảy ra vào [15 tháng 3](../_/15_March.md), cùng thời điểm với [cuộc xâm lược của Mirkwood](../B/Battle_under_the_trees.md). Một lần nữa, kẻ thù bị buộc phải rút lui. Cuộc tấn công thứ ba và cũng là cuộc tấn công cuối cùng được thực hiện bảy ngày sau đó, vào [22 tháng 3](../_/22_March.md). Họ đã gây ra nhiều sự tàn phá ở biên giới khu rừng, nhưng Galadhrim dũng cảm đã đánh bại họ hoàn toàn. Và sau khi [Bóng Tối](../S/Shadow.md) của Sauron được dỡ bỏ, họ đã xông vào [Dol Guldur](../D/Dol_Guldur.md) và dọn sạch [Mirkwood](../M/Mirkwood.md); [Thranduil](../T/Thranduil.md) đã trao phần phía nam của mình cho Lothlórien và được gọi là [Đông Lórien](../E/East_Lórien.md).<sup id="cite_ref-Great_13-1" class="reference"><a href="#cite_note-Great-13">[13]</a></sup>
 
 Trên đường đến [Gondor](../G/Gondor.md), [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) đã đến Lothlórien vào ngày [20 tháng 5](../_/20_May.md).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
 
@@ -129,7 +129,7 @@ Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [121](../F/Fourth_Age_121.md), một
 
 Lothlórien nằm giữa đầu đông nam của Dãy Núi Sương Mù và sông lớn Anduin. Con sông Celebrant chảy qua khu rừng từ nguồn ở vùng núi về phía tây đến Anduin ở phía đông.
 
-Vào những ngày đầu, rừng Lothlórien mở rộng về phía nam tới Rừng Fangorn. Ngày nay, không có biên giới thực sự giữa hai lãnh thổ, mặc dù sau cuộc trò chuyện giữa [Treebeard](../T/Treebeard.md) và Vua của Rừng Vàng, người ta đã thống nhất rằng cư dân của một trong hai vùng đất có thể tự do đi lại qua bất kỳ biên giới nào có thể có.<sup id="cite_ref-Galadriel_9-1" class="reference"><a href="#cite_note-Galadriel-9">[9]</a></sup> Cũng có thể rừng Lórien đã mở rộng đến các khu vực phía nam của Greenwood the Great, mặc dù chỉ có một lượng nhỏ bằng chứng ủng hộ khả năng này.<sup id="cite_ref-Galadriel_9-2" class="reference"><a href="#cite_note-Galadriel-9">[9]</a></sup> Bởi Kỷ Đệ Tam, Lórien tách biệt với Fangorn ở phía nam và Mirkwood ở phía đông nhiều dặm.
+Vào những ngày đầu, rừng Lothlórien mở rộng về phía nam tới Rừng Fangorn. Ngày nay, không có biên giới thực sự giữa hai vùng lãnh thổ, mặc dù sau cuộc trò chuyện giữa [Treebeard](../T/Treebeard.md) và Vua của Rừng Vàng, người ta đã thống nhất rằng cư dân của một trong hai vùng đất có thể tự do đi lại qua bất kỳ biên giới nào có thể có.<sup id="cite_ref-Galadriel_9-1" class="reference"><a href="#cite_note-Galadriel-9">[9]</a></sup> Cũng có thể rừng Lórien đã mở rộng đến các khu vực phía nam của Greenwood the Great, mặc dù chỉ có một lượng nhỏ bằng chứng ủng hộ khả năng này.<sup id="cite_ref-Galadriel_9-2" class="reference"><a href="#cite_note-Galadriel-9">[9]</a></sup> Bởi Kỷ Đệ Tam, Lórien tách biệt với Fangorn ở phía nam và Mirkwood ở phía đông nhiều dặm.
 
 ## Địa điểm {#Locations}
 
@@ -142,7 +142,7 @@ Vào những ngày đầu, rừng Lothlórien mở rộng về phía nam tới R
 
 ## Tên khác {#Other_names}
 
-Lothlórien thường được rút ngắn thành **Lórien** hoặc **Golden Wood** (ám chỉ những cây [mallorn](../M/Mallorn.md) vàng mọc ở vùng đất đó).<sup id="cite_ref-HMRC_19-1" class="reference"><a href="#cite_note-HMRC-19">[19]</a></sup><sup id="cite_ref-PE17_20-0" class="reference"><a href="#cite_note-PE17-20">[20]</a></sup> Các tên khác được ghi cho vùng là:
+Lothlórien thường được rút ngắn thành **Lórien**, hoặc **Golden Wood** (ám chỉ những cây [mallorn](../M/Mallorn.md) vàng mọc ở vùng đất đó).<sup id="cite_ref-HMRC_19-1" class="reference"><a href="#cite_note-HMRC-19">[19]</a></sup><sup id="cite_ref-PE17_20-0" class="reference"><a href="#cite_note-PE17-20">[20]</a></sup> Các tên khác được ghi cho vùng là:
 
 - *Lindórinand*, ?[N.](../N/Nandorin.md) "Thung lũng xứ sở ca sĩ"<sup id="cite_ref-names_6-2" class="reference"><a href="#cite_note-names-6">[6]</a></sup>
 - *[Lórinand](Lórinand.md)*, ?N. “Thung lũng vàng”<sup id="cite_ref-names_6-3" class="reference"><a href="#cite_note-names-6">[6]</a></sup>

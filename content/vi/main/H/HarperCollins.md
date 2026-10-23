@@ -30,7 +30,7 @@ images:
 
 HarperCollins đã nắm giữ quyền xuất bản các tác phẩm của Tolkien ở Châu Âu và Canada kể từ khi mua lại [Unwin Hyman](../U/Unwin_Hyman.md) vào năm 1994 và vào năm 2021, nó đã mua lại bộ phận sách thương mại của [Houghton Mifflin Harcourt](Houghton_Mifflin_Harcourt.md) (nhà xuất bản chính thức từ lâu ở Hoa Kỳ). Hiện nay họ xuất bản các ấn bản ở Mỹ dưới nhà xuất bản *William Morrow* của mình (mặc dù một số bản Houghton Mifflin Harcourt vẫn còn trên kệ của các hiệu sách cho đến khi hết) và nhà xuất bản HarperCollins ở nơi khác.
 
-HarperCollins cũng lưu trữ một kho lưu trữ thư từ giữa [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Allen &amp; Unwin](../A/Allen_&_Unwin.md), các nhà xuất bản ban đầu của anh ấy.
+HarperCollins cũng lưu giữ một kho lưu trữ thư từ giữa [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Allen &amp; Unwin](../A/Allen_&_Unwin.md), các nhà xuất bản ban đầu của anh ấy.
 
 ## Lịch sử {#History}
 

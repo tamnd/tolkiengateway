@@ -58,7 +58,7 @@ Vào cuối Thế chiến thứ hai, bà được chọn làm việc cho Văn ph
 
 <h3><span id="A_daughter.27s_duty"></span><span class="mw-headline" id="A_daughter&#39;s_duty">A daughter&#39;s duty</span></h3>
 
-Kay Woollard chắc chắn sẽ vui vẻ ở lại London và lập nghiệp trọn vẹn ở đó. Tuy nhiên, là con một và là con gái, lớn lên trong một môi trường mà trẻ em gái không được mong đợi có được sự nghiệp chuyên môn, cô được gọi trở lại Yorkshire để chăm sóc mẹ khi bà lâm bệnh vào cuối những năm 1940, như người ta mong đợi ở cô. Đầu tiên cô đã chăm sóc mẹ cô, sau đó là cha cô trong hơn 40 năm. Sau một thời gian làm việc trong lĩnh vực quảng cáo, cô gia nhập một công ty sản xuất kính và gương ở Bradford và gắn bó với họ trong một số năm với tư cách là nghệ sĩ cư trú và sau đó làm nghề tự do, thiết kế và trang trí nhiều loại kính. Đáng buồn thay, cô thừa nhận rằng số tiền đó chỉ trả cho cô "nửa hạt đậu phộng".
+Kay Woollard chắc chắn sẽ vui vẻ ở lại London và lập nghiệp trọn vẹn ở đó. Tuy nhiên, là con một và là con gái, lớn lên trong một môi trường mà trẻ em gái không được mong đợi có được sự nghiệp chuyên môn, cô được gọi trở lại Yorkshire để chăm sóc mẹ khi bà lâm bệnh vào cuối những năm 1940, như người ta mong đợi ở cô. Đầu tiên cô đã chăm sóc mẹ cô, sau đó là cha cô trong hơn 40 năm. Sau một thời gian làm việc trong lĩnh vực quảng cáo, cô gia nhập một công ty sản xuất kính và gương ở Bradford và gắn bó với họ trong một số năm với tư cách là nghệ sĩ cư trú và sau đó làm nghề tự do, thiết kế và trang trí nhiều loại kính. Đáng buồn thay, cô thừa nhận rằng số tiền đó chỉ trả cho cô “nửa hạt đậu phộng”.
 
 ### Cuộc cách mạng Tolkien và sau {#The_Tolkien_Revolution_and_after}
 

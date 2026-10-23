@@ -115,7 +115,7 @@ Sam đã tham gia cùng Frodo trong hành trình đến [Bree](../B/Bree.md) và
 
 Ngày hôm sau Sam nhất quyết yêu cầu Pippin nên để lại một ít bánh mỳ cho bữa sáng của họ. Sáng hôm đó, Sam cảm thấy thay đổi, cảm thấy mình phải hoàn thành một vai trò vượt xa Shire, một điều gì đó quan trọng hơn việc gặp Tiên tộc hay [rồng](../D/Dragons.md) hay nhìn thấy núi.<sup id="cite_ref-short_8-2" class="reference"><a href="#cite_note-short-8">[7]</a></sup>
 
-Tại Crickhollow nơi vai trò của anh và những kẻ chủ mưu được tiết lộ. Merry đã cùng du khách lên đường tới Bree.
+Tại Crickhollow nơi vai trò của anh và những kẻ chủ mưu được tiết lộ. Merry đã cùng du khách lên đường đến Bree.
 
 ### Crickhollow đến Rivendell {#Crickhollow_to_Rivendell}
 
@@ -155,7 +155,7 @@ Gollum đã phản bội người Hobbit trong [hang ổ của Shelob](Shelob's_
 
 Đau buồn vì Frodo, Sam đã lấy Chiếc Nhẫn. Lúc đầu, anh bị cám dỗ thực hiện nhiệm vụ trả thù Gollum nhưng thay vào đó lại chọn hoàn thành nhiệm vụ. Tuy nhiên, khi biết Frodo vẫn còn sống, anh đã cứu anh ta khỏi [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) và trả lại chiếc Nhẫn cho anh ta. Vì đã nắm giữ Chiếc nhẫn một thời gian nên ông được coi là một trong những [Người mang chiếc nhẫn](../R/Ring-bearers.md).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup>
 
-Cùng nhau, Sam và Frodo đã vượt qua [Mordor](../M/Mordor.md) tới [Núi Doom](../M/Mount_Doom.md). Sam tự mình cõng Frodo lên dốc một đoạn đường. Ở đó, Gollum đã cố gắng tấn công người Hobbit và Sam đã cứu mạng anh ta. Giờ anh ta đã biết được Gollum sẽ như thế nào khi trở thành Người Mang Nhẫn—một lựa chọn sớm dẫn đến thành công trong nhiệm vụ của họ. Sau khi Chiếc nhẫn bị phá hủy, cả Sam và Frodo đều được [Vua Elessar](../A/Aragorn.md) vinh danh vì những việc làm của họ.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
+Cùng nhau, Sam và Frodo vượt qua [Mordor](../M/Mordor.md) tới [Núi Doom](../M/Mount_Doom.md). Sam tự mình cõng Frodo lên dốc một đoạn đường. Ở đó, Gollum đã cố gắng tấn công người Hobbit và Sam đã cứu mạng anh ta. Giờ anh ta đã biết được Gollum sẽ như thế nào khi trở thành Người Mang Nhẫn—một lựa chọn sớm dẫn đến thành công trong nhiệm vụ của họ. Sau khi Chiếc nhẫn bị phá hủy, cả Sam và Frodo đều được [Vua Elessar](../A/Aragorn.md) vinh danh vì những việc làm của họ.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
 
 ### Đời sau {#Later_life}
 

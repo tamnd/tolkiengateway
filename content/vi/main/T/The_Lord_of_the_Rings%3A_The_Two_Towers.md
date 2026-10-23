@@ -96,11 +96,11 @@ Khi đang lang thang trong Rừng, Ba Thợ Săn bị một nhân vật mặc á
 
 Gandalf sau đó dẫn các Thợ săn đến thủ đô của Rohan, [Edoras](../E/Edoras.md). Khi họ đến nơi, Gandalf đã giật Théoden khỏi sự kiểm soát của Saruman. Tức giận khi tỉnh dậy, Vua muốn giết kẻ phản bội Wormtongue, nhưng Aragorn khuyên anh ta không nên làm vậy. Wormtongue nhân cơ hội này bỏ chạy. Sau khi biết được kế hoạch tiêu diệt Rohan của Saruman bằng Uruk-hai của mình, Théoden đã sơ tán người dân của mình đến pháo đài của [Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi ở Edoras, Aragorn đã gặp và kết bạn với cháu gái của Théoden, [Éowyn](../_/Éowyn.md), người bắt đầu yêu anh. Gandalf sau đó rời đi Edoras để tìm Éomer và những người theo hắn, hy vọng họ sẽ quay lại chiến đấu một lần nữa cho vị vua của mình.
 
-Khi những người sơ tán đi đến Helm's Deep bị tấn công bởi [Warg](../W/Wargs.md)cưỡi [Orc](../O/Orcs.md)của Saruman, Aragorn đã tham gia phản công, nhưng bị vướng vào yên của một Warg-rider và bị kéo qua một vách đá và được cho là đã chết. Sau đó anh được con ngựa Brego của Théodred tìm thấy và cưỡi đến Helm's Deep, nơi anh chứng kiến ​​đội quân của Saruman đang tập trung gần pháo đài.
+Khi những người sơ tán đi đến Helm's Deep bị tấn công bởi [Warg](../W/Wargs.md) cưỡi [Orc](../O/Orcs.md)của Saruman, Aragorn đã tham gia phản công, nhưng bị vướng vào yên của một Warg-rider và bị kéo qua một vách đá và được cho là đã chết. Sau đó anh được con ngựa Brego của Théodred tìm thấy và cưỡi đến Helm's Deep, nơi anh chứng kiến ​​đội quân của Saruman đang tập trung gần pháo đài.
 
 <h3><span id="Arwen.27s_choice"></span><span class="mw-headline" id="Arwen&#39;s_choice">Arwen&#39;s choice</span></h3>
 
-Vào Rivendell, [Arwen](../A/Arwen.md) đã nói chuyện với bố Elrond. Elrond đã khuyên con gái mình rằng, nếu còn ở lại Trung Địa, cô sẽ sống lâu hơn Aragorn hàng thiên niên kỷ và sẽ sống cô đơn và đau buồn suốt bao thế kỷ. Arwen nghe theo lời khuyên của cha cô và bắt đầu quá trình khởi hành đi [Valinor](../V/Valinor.md). Elrond sau đó đã được Galadriel liên hệ, người đã thuyết phục anh ta rằng Tiên tộc nên gửi một lực lượng [Tiên tộc](../E/Elves.md) tới Helm's Deep.
+Vào Rivendell, [Arwen](../A/Arwen.md) đã nói chuyện với bố Elrond. Elrond đã khuyên con gái mình rằng, nếu còn ở lại Trung Địa, cô sẽ sống lâu hơn Aragorn hàng thiên niên kỷ và sẽ sống cô đơn và đau buồn suốt bao thế kỷ. Arwen nghe theo lời khuyên của cha cô và bắt đầu quá trình khởi hành đi [Valinor](../V/Valinor.md). Elrond sau đó đã được Galadriel liên hệ, người đã thuyết phục anh ta rằng Tiên tộc nên gửi một lực lượng [Tiên tộc](../E/Elves.md) đến Helm's Deep.
 
 ### Cuộc hành quân cuối cùng của Ent {#The_last_march_of_the_Ents}
 

@@ -89,7 +89,7 @@ Vào [8 tháng 3](../_/8_March.md) [3019](../T/Third_Age_3019.md), [Aragorn](../
 
 Trước Cánh cửa, chỉ có sức mạnh ý chí của Aragorn mới giúp những người bạn đồng hành của anh vượt qua nỗi sợ hãi và đi vào Con đường của Người chết. Họ tìm thấy một bộ xương trong hang động trung tâm, họ để lại nó khi Aragorn triệu hồi Người chết đi theo anh ta. Loạng choạng tiến về phía trước trong bóng tối, Aragorn và những người khác bước ra từ Con Đường phía trên Erech, nơi họ vội vã đến Hòn đá.
 
-Vào lúc Tảng đá Erech, vào lúc nửa đêm, Aragorn giương cờ, tuyên bố mình là người thừa kế của Isildur và ra lệnh cho Người chết giúp đỡ mình.<sup id="cite_ref-Grey_2-6" class="reference"><a href="#cite_note-Grey-2">[2]</a></sup> Họ tuân lệnh và đánh bại đội quân của [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đang tấn công các cuộc đổ bộ ở phía nam Gondor. Khi những kẻ thù đó bị đánh bại và Aragorn có thể giành được những con tàu đen của Corsairs cho riêng mình, anh ta tuyên bố rằng lời nguyền đã được dỡ bỏ và người chết đã ra đi vĩnh viễn.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Vào lúc Tảng đá Erech, vào lúc nửa đêm, Aragorn giương cờ, tuyên bố mình là người thừa kế của Isildur và ra lệnh cho Người chết giúp đỡ mình.<sup id="cite_ref-Grey_2-6" class="reference"><a href="#cite_note-Grey-2">[2]</a></sup> Họ tuân lệnh và đánh bại đội quân của [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đang tấn công các cuộc đổ bộ ở phía nam Gondor. Khi những kẻ thù đó bị đánh bại và Aragorn có thể giành được những con tàu đen của Corsairs cho riêng mình, anh ta tuyên bố rằng lời nguyền đã được dỡ bỏ và người chết đã ra đi mãi mãi.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Tên Khác {#Other_Names}
 

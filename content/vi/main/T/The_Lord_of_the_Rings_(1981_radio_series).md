@@ -71,7 +71,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 18. "Minas Tirith", [Ngày 5 tháng 7](../_/5_July.md)
 19. "Hang ổ của Shelob", [Ngày 12 tháng 7](../_/12_July.md)
 20. "Cuộc vây hãm Gondor", [19 tháng 7](../_/19_July.md)
-21. "Trận chiến Cánh đồng Pelennor", [26 tháng 7](../_/26_July.md)
+21. "Trận chiến cánh đồng Pelennor", [26 tháng 7](../_/26_July.md)
 22. "Những ngôi nhà chữa lành", [Ngày 2 tháng 8](../_/2_August.md)
 23. "Núi Doom", [Ngày 9 tháng 8](../_/9_August.md)
 24. "Sự trở lại của Vua", [16 tháng 8](../_/16_August.md)
@@ -90,7 +90,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 8. "Tiếng Nói Của Saruman", [tháng Chín 4](../_/4_September.md)
 9. "The Two Towers", [tháng Chín 11](../_/11_September.md)
 10. "Sự lựa chọn của bậc thầy Samwise", [tháng Chín 18](../_/18_September.md)
-11. "Trận chiến Cánh đồng Pelennor", [tháng Chín 25](../_/25_September.md)
+11. "Trận chiến cánh đồng Pelennor", [tháng Chín 25](../_/25_September.md)
 12. "Núi Doom", [Ngày 2 tháng 10](../_/2_October.md)
 13. "Ngày Cảng Xám", [Ngày 9 tháng 10](../_/9_October.md)
 
@@ -117,7 +117,7 @@ Cái chết thể xác của - [Gandalf](../G/Gandalf.md)bị lược bỏ khỏ
 - Tại một thời điểm khi Gandalf liệt kê các vị trí của [Palantíri](../P/Palantíri.md), [Minas Anor](../M/Minas_Anor.md) và [Minas Tirith](../M/Minas_Tirith.md) được gọi như thể chúng là các thành phố riêng biệt; đây chỉ là những tên thay thế cho cùng một thành phố. Sau này Gandalf gọi chính xác Palantír của Minas Tirith là "Hòn đá Anor".
 - [Beregond](../B/Beregond.md) vai trò của anh ấy trong cuốn sách bị cắt hoàn toàn và chỉ xuất hiện với tư cách là người đưa tin ẩn danh mang tin tức về trận chiến đến [Denethor](../D/Denethor.md).
 - Thân vương [Imrahil](../I/Imrahil.md) không xuất hiện trong câu chuyện.
-- Một phần của phân cảnh [Trận chiến Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
+- Một phần của phân cảnh [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) được mô tả trong bài hát bởi một ca sĩ theo phong cách opera chứ không phải diễn xuất, điều này có thể khiến một số người nghe xa rời hành động. Những người khác có thể thấy thú vị về mối quan hệ giữa trình tự và phong cách kể chuyện của Eddic.
 
 - Cuộc hành trình xuyên qua [Rừng Drúadan](../D/Drúadan_Forest.md) và liên minh sau đó với những người đàn ông hoang dã của [Ghân-buri-Ghân](../G/Ghân-buri-Ghân.md), hay còn gọi là "woses" bị loại khỏi bộ phim truyền hình.
 - Hành trình của đoàn quân từ Minas Tirith đến Morannon bị cắt bao gồm việc trùng tu tượng ở ngã tư và sự ra đi của những người yếu tim

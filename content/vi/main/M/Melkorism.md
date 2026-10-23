@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Tree"
 ---
 
-Chuyển hướng đến [Cây tối](../D/Dark_Tree.md).
+Chuyển hướng tới [Cây tối](../D/Dark_Tree.md).

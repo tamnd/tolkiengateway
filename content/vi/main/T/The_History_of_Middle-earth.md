@@ -50,7 +50,7 @@ Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đón
 
 - VI. *[The Return of the Shadow](The_Return_of_the_Shadow.md)* - (1988)
 
-- VII. *[The Treason of Isengard](The_Treason_of_Isengard.md)* - (1989)
+- VIII. *[The Treason of Isengard](The_Treason_of_Isengard.md)* - (1989)
 
 - VIII. *[The War of the Ring](The_War_of_the_Ring.md)* - (1990)
 
@@ -60,7 +60,7 @@ Các tập 6-9 đã được xuất bản độc lập dưới dạng bộ đón
 
 - XI. *[The War of the Jewels](The_War_of_the_Jewels.md)* - (1994)
 
-- XII. *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)* - (1996)
+- XIII. *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)* - (1996)
 
 - *[Index](The_History_of_Middle-earth_Index.md)* - (2002)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elwing"
 ---
 
-Chuyển hướng tới [Elwing](../E/Elwing.md).
+Chuyển hướng đến [Elwing](../E/Elwing.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rië"
 ---
 
-Chuyển hướng đến [Rië](Rië.md).
+Chuyển hướng tới [Rië](Rië.md).

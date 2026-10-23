@@ -139,7 +139,7 @@ Vào [tháng 2](../F/February.md), Hyarion quyết định chuyển dịch vụ 
 
 #### 2004 {#2004}
 
-Vào [ngày 6 tháng 11](../_/6_November.md), Hyarion đã mua miền <a class="external free" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net</a> và bắt đầu công việc tạo một wiki thích hợp. Đến [Tháng 3](../M/March.md) [2005](../_/2005.md), TolkienGateway ban đầu đã ngừng hoạt động ngoại tuyến để Hyarion có thể tập trung vào trang web mới.<sup id="cite_ref-Archive_TK_22-1" class="reference"><a href="#cite_note-Archive_TK-22">[21]</a></sup>
+Vào [ngày 6 tháng 11](../_/6_November.md), Hyarion đã mua miền <a class="external free" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">http://tolkiengateway.net</a> và bắt đầu công việc tạo một wiki thích hợp. Đến [Tháng 3](../M/March.md) [2005](../_/2005.md), TolkienGateway ban đầu đã ngoại tuyến để Hyarion có thể tập trung vào trang web mới.<sup id="cite_ref-Archive_TK_22-1" class="reference"><a href="#cite_note-Archive_TK-22">[21]</a></sup>
 
 #### 2005 {#2005}
 

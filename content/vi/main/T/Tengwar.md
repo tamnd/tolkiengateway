@@ -63,7 +63,7 @@ Chế độ Quenya cổ điển của Tengwar có thể bắt nguồn từ sự 
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a class="mw-redirect" href="../M/Mode_of_Beleriand.md" title="Mode of Beleriand">Mode of Beleriand</a></b></div></div>
 
-Khi [Noldor](../N/Noldor.md) nổi dậy và đến [Trung Địa](../M/Middle-earth.md), họ đã điều chỉnh cách viết của mình cho phù hợp với ngôn ngữ mới mà họ học được. Quanta Sarmë được sử dụng cho các ngôn ngữ mà tehtar không hữu ích<sup id="cite_ref-ApD_5-3" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup> và có thể là nguồn gốc của Chế độ Beleriand.
+Khi [Noldor](../N/Noldor.md) nổi loạn và đến [Trung Địa](../M/Middle-earth.md), họ đã điều chỉnh cách viết của mình cho phù hợp với ngôn ngữ mới mà họ học được. Quanta Sarmë được sử dụng cho các ngôn ngữ mà tehtar không hữu ích<sup id="cite_ref-ApD_5-3" class="reference"><a href="#cite_note-ApD-5">[5]</a></sup> và có thể là nguồn gốc của Chế độ Beleriand.
 
 Cũng có thể Tengwar đã ảnh hưởng đến sự phát triển của [Cirth](../C/Cirth.md) của [Daeron](../D/Daeron.md) trong Beleriand, chủ yếu là ở hình dạng và cách sắp xếp của chúng.
 
@@ -73,7 +73,7 @@ Chúng tôi biết từ dòng chữ trên cổng [Phương Tây của Moria](../
 
 ### Sử dụng chung {#General_use}
 
-Vào cuối Kỷ Đệ Tam, đã có một *general use* có thể được sử dụng cho nhiều ngôn ngữ bao gồm Quenya, Sindarin và Ngôn ngữ Chung.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Việc sử dụng này có thể đã phát triển trong [Thời thứ hai](../S/Second_Age.md) ở [Eregion](../E/Eregion.md) hoặc thậm chí ở [Númenor](../N/Númenor.md).
+Đến cuối Kỷ Đệ Tam, đã có một *general use* có thể được sử dụng cho nhiều ngôn ngữ bao gồm Quenya, Sindarin và Ngôn ngữ Chung.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Việc sử dụng này có thể đã phát triển trong [Thời thứ hai](../S/Second_Age.md) ở [Eregion](../E/Eregion.md) hoặc thậm chí ở [Númenor](../N/Númenor.md).
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_One_Ring_inscription.png.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/300px-J.R.R._Tolkien_-_One_Ring_inscription.png" decoding="async" loading="lazy" width="300" height="89" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/450px-J.R.R._Tolkien_-_One_Ring_inscription.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/dc/J.R.R._Tolkien_-_One_Ring_inscription.png/600px-J.R.R._Tolkien_-_One_Ring_inscription.png 2x" data-file-width="2035" data-file-height="605"/></a><figcaption>The <a href="../R/Ring-inscription.md" title="Ring-inscription">Ring-inscription</a> on <a href="The_One_Ring.md" title="The One Ring">the One Ring</a>.</figcaption></figure>
 
@@ -89,7 +89,7 @@ Một chế độ khác dựa trên "cách sử dụng chung" nhưng sử dụng
 
 Đặc điểm đáng chú ý nhất của kiểu chữ Tengwar là hình dạng của các chữ cái tương ứng với đặc điểm âm thanh mà chúng thể hiện.
 
-Hình dạng của Tengwar bao gồm một cách đồng nhất hai phần tử, *[telco](Telco.md)* (thân cây) được gắn vào một *[lúva](../L/Lúva.md)* (cung). Điều đáng chú ý là một số chữ cái của [Sarati](../S/Sarati.md) giống với hình dạng telco/lúva thấy trên Tengwar. Vì vậy, có thể những chữ cái cụ thể đó đã ảnh hưởng đến phong cách của Tengwar.
+Hình dạng của Tengwar bao gồm một cách đồng nhất hai phần tử, *[telco](Telco.md)* (thân cây) được gắn một *[lúva](../L/Lúva.md)* (cung). Điều đáng chú ý là một số chữ cái của [Sarati](../S/Sarati.md) giống với hình dạng telco/lúva thấy trên Tengwar. Vì vậy, có thể những chữ cái cụ thể đó đã ảnh hưởng đến phong cách của Tengwar.
 
 Telco có thể bình thường, tăng lên, rút ​​ngắn hoặc tăng cao. Luva sẽ là đơn hoặc đôi và chúng có thể mở hoặc đóng.
 
@@ -101,7 +101,7 @@ Tất cả sự kết hợp trên có thể tạo ra 32 đến 40 hình dạng c
 
 Tùy theo hình dạng của chúng, 32 hình tượng khác nhau có thể được sắp xếp và trình bày một cách nhất quán trên bàn. Các chữ cái chính được chia thành các dãy (*témar*) tương ứng với các vị trí phát âm chính và thành sáu hàng (*tyeller*) tương ứng với các cách phát âm chính. Cả hai đều khác nhau giữa các chế độ.
 
-Bảng dưới đây đưa ra các giá trị **lý thuyết**<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> của Tengwar dựa trên các quy tắc nêu trên một cách nhất quán. Lưu ý rằng không có ngôn ngữ nào sở hữu tất cả những âm thanh này và những âm thanh sau đây không thể hiện bảng giá trị thực tế của một ngôn ngữ cụ thể. Trên thực tế, các ngôn ngữ đã sử dụng các sửa đổi hoặc biến thể của chúng.
+Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> của Tengwar dựa trên các quy tắc nêu trên một cách nhất quán. Lưu ý rằng không có ngôn ngữ nào sở hữu tất cả những âm thanh này và những âm thanh sau đây không thể hiện bảng giá trị thực tế của một ngôn ngữ cụ thể. Trên thực tế, các ngôn ngữ đã sử dụng các sửa đổi hoặc biến thể của chúng.
 
 <table style="text-align:center; height:30em; margin-left: 20%; margin-right: auto;">
 <tbody><tr>
@@ -868,7 +868,7 @@ Tengwar có lẽ đã được phát triển vào cuối những năm 1920 hoặ
 
 Tengwar là một <a class="extiw" href="http://en.wikipedia.org/wiki/Featural_writing_system" title="wikipedia:Featural writing system">bảng chữ cái đặc trưng</a>, nghĩa là có sự tương ứng giữa các đặc điểm hình dạng chữ cái và <a class="extiw" href="http://en.wikipedia.org/wiki/place_of_articulation" title="wikipedia:place of articulation">vị trí</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/manner_of_articulation" title="wikipedia:manner of articulation">cách phát âm</a>. Có lẽ hệ thống tính năng lâu đời nhất và nổi tiếng nhất là <a class="extiw" href="http://en.wikipedia.org/wiki/Hangul" title="wikipedia:Hangul">bảng chữ cái Hangul</a>của tiếng Hàn.
 
-[Jim Allan](../J/Jim_Allan.md) (*[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)*, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905220102">ISBN 0-905220-10-2</a>) so sánh Tengwar với *Universal Alphabet* của <a class="extiw" href="http://en.wikipedia.org/wiki/Francis_Lodwick" title="wikipedia:Francis Lodwick">Francis Lodwick</a> năm 1686, cả về yếu tố đặc điểm lẫn hình dạng chữ cái thực tế và việc sử dụng nguyên âm làm dấu phụ.
+[Jim Allan](../J/Jim_Allan.md) (*[An Introduction to Elvish](../A/An_Introduction_to_Elvish.md)*, <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0905220102">ISBN 0-905220-10-2</a>) đã so sánh Tengwar với *Universal Alphabet* của <a class="extiw" href="http://en.wikipedia.org/wiki/Francis_Lodwick" title="wikipedia:Francis Lodwick">Francis Lodwick</a> năm 1686, cả về yếu tố đặc điểm lẫn hình dạng chữ cái thực tế và việc sử dụng nguyên âm làm dấu phụ.
 
 Nhà ngôn ngữ học <a class="extiw" href="http://en.wikipedia.org/wiki/Jerzy_Kury%C5%82owicz" title="wikipedia:Jerzy Kuryłowicz">Jerzy Kuryłowicz</a> ngay lập tức nhận ra sự giống nhau của một loại chữ trang trí của chữ [Celtic](../C/Celtic.md) (có lẽ đề cập đến <a class="extiw" href="http://en.wikipedia.org/wiki/Insular_script" title="wikipedia:Insular script">chữ Insular</a>).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 

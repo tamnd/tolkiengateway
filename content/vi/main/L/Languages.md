@@ -96,7 +96,7 @@ Các ngôn ngữ 2. [Mannish](../M/Mannish.md) (tất cả đều chịu ảnh h
     - Nhiều ngôn ngữ [tiếng Ork](../O/Orkish.md) (chịu ảnh hưởng của nhiều ngôn ngữ)
 7. [Hắc Ngữ](../B/Black_Speech.md) (được xây dựng bởi [Sauron](../S/Sauron.md), chịu ảnh hưởng của [Valarin](../V/Valarin.md))
     - "Thuần khiết" [Hắc Ngữ](../B/Black_Speech.md)
-    - "Gỡ lỗi" [Hắc Ngữ](../B/Black_Speech.md) (chịu ảnh hưởng của [tiếng Ork](../O/Orkish.md))
+    - "Gỡ lỗi" [Hắc Ngữ](../B/Black_Speech.md) (chịu ảnh hưởng của [tiếng Orkish](../O/Orkish.md))
 8. Ngôn ngữ khác:
     - [Tiếng sói](../W/Wolf-language.md)
     - [Ngôn ngữ tưa miệng](../T/Thrush.md)
@@ -138,7 +138,7 @@ Cuốn sách đầu tiên dành riêng cho ngôn ngữ của Tolkien là *[An In
 Có một số tạp chí dành riêng cho chủ đề này:
 
 - *[Quettar](../Q/Quettar.md)*, là Bản tin của Hiệp hội Ngôn ngữ học của [Hội Tolkien](../T/The_Tolkien_Society.md), ấn phẩm Eldarin lâu đời nhất.
-- *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* và *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* được xuất bản bởi [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md).
+- *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* và *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* được xuất bản bởi [Elvish Hiệp hội học bổng ngôn ngữ](../E/Elvish_Linguistic_Fellowship.md).
 - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* được xuất bản bởi [Lisa Star](Lisa_Star.md).
 - *[Mythlore](../M/Mythlore.md)* được xuất bản bởi [Hiệp hội thần thoại](../M/Mythopoeic_Society.md).
 - *[Beyond Bree](../B/Beyond_Bree.md)* được xuất bản bởi [Nancy Martsch](../N/Nancy_Martsch.md).

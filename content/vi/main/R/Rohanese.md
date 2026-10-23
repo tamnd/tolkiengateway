@@ -78,7 +78,7 @@ Một số từ có đuôi số nhiều là "-as", cũng như các danh từ ti�
 
 Rohirrim sử dụng từ viết tắt tiếng Đức "-ing". Họ tự gọi mình là **[Eorlingas](../E/Eorlingas.md)**, và người của [Beorn](../B/Beorn.md)là **[Beornings](../B/Beornings.md)**, người của Scyld là Scyldingas trong Bắc Âu và Anglo-Saxon thần thoại.
 
-[Théoden](../T/Théoden.md) được gọi là "Théoden Vua", thay vì "Vua Théoden", giống như các vị vua Scandinavia và Anglo-Saxon có từ "konungr"/"cyning" ("vua") được thêm vào sau tên của họ, ví dụ: *Hervarðar konungr*, thay vì trước đây.
+[Théoden](../T/Théoden.md) được gọi là "Théoden Vua", thay vì "Vua Théoden", giống như các vị vua Scandinavia và Anglo-Saxon có từ "konungr"/"cyning" ("vua") được thêm vào sau tên của họ, ví dụ: *Hervarðar konungr*, thay vì trước đó.
 
 Một số tên tiếng Anh cổ hiển thị các từ Rohirric bao gồm:
 

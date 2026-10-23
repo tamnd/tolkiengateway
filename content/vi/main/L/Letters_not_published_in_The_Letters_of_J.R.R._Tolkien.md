@@ -66,7 +66,7 @@ images:
 - [7 tháng Chín 1937, đến George Allen &amp; Unwin](Letter_to_George_Allen_and_Unwin.md)
 - [21 tháng Chín 1937, gửi Simonne d'Ardenne](<Letter_to_Simonne_d'Ardenne_(21_September_1937).md>)
 - [22 tháng Chín 1937, gửi Jane Neave](<Letter_to_Jane_Neave_(22_September_1937).md>)
-- [14-15 tháng 12 năm 1937, đến G.E. Selby](<Letter_to_G.E._Selby_(14_December_1937).md>)
+- [14-15 tháng 12 năm 1937, tới G.E. Selby](<Letter_to_G.E._Selby_(14_December_1937).md>)
 - [15 tháng 12 năm 1937, gửi Arthur Ransome](Letter_to_Arthur_Ransome.md)
 - [19 tháng 12 năm 1937, gửi Charles Furth](<Letter_to_Charles_Furth_(19_December_1937).md>) (xem thêm [Thư 20](Letter_20.md))
 - [28 tháng 5 năm 1938, gửi Kenneth Sisam](<Letter_to_Kenneth_Sisam_(28_May_1938).md>)
@@ -290,7 +290,7 @@ images:
 - [10 tháng 1 năm 1966, gửi Timothy J. Wheeler](<Letter_to_Timothy_J._Wheeler_(10_January_1966).md>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Sterling_E._Lanier_(10_January_1966)&amp;action=edit&amp;redlink=1" title="Letter to Sterling E. Lanier (10 January 1966) (page does not exist)">10 tháng 1 năm 1966. gửi Sterling E. Lanier</a>
 - [12 tháng 1 năm 1966, gửi David Hicks](Letter_to_David_Hicks.md)
-- [10 tháng 2 năm 1966, gửi Donald A. Wollheim](Letter_to_Donald_A._Wollheim.md)
+- [Ngày 10 tháng 2 năm 1966, gửi Donald A. Wollheim](Letter_to_Donald_A._Wollheim.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Sterling_E._Lanier_(14_February_1966)&amp;action=edit&amp;redlink=1" title="Letter to Sterling E. Lanier (14 February 1966) (page does not exist)">14 tháng 2 năm 1966. gửi Sterling E. Lanier</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Donald_Swann_(23_February_1966)&amp;action=edit&amp;redlink=1" title="Letter to Donald Swann (23 February 1966) (page does not exist)">23 tháng 2 năm 1966, đến Donald Swann</a>
 - [28 tháng 2 năm 1966, tại Jenny Hall](<Letter_to_Jenny_Hall_(28_February_1966).md>)
@@ -424,9 +424,9 @@ images:
 - [11 tháng 6 năm 1972, gửi Robert Burchfield](<Letter_to_Robert_Burchfield_(11_June_1972).md>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Mr._Wordsworth_(26_September_1972)&amp;action=edit&amp;redlink=1" title="Letter to Mr. Wordsworth (26 September 1972) (page does not exist)">26 tháng Chín 1972, gửi ông Wordsworth</a>
 - [12 tháng 10 năm 1972, gửi tới Rayner Unwin](<Letter_to_Rayner_Unwin_(12_October_1972).md>)
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Sterling_E._Lanier_(21_November_1972)&amp;action=edit&amp;redlink=1" title="Letter to Sterling E. Lanier (21 November 1972) (page does not exist)">21 tháng 11 năm 1972. tới Sterling E. Lanier</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Sterling_E._Lanier_(21_November_1972)&amp;action=edit&amp;redlink=1" title="Letter to Sterling E. Lanier (21 November 1972) (page does not exist)">21 tháng 11 năm 1972. gửi đến Sterling E. Lanier</a>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Edmund_R._Meskys_(23_November_1972)&amp;action=edit&amp;redlink=1" title="Letter to Edmund R. Meskys (23 November 1972) (page does not exist)">23 tháng 11 năm 1972, gửi Edmund R. Meskys</a>
-- [17 tháng 1 năm 1973, gửi N.J. Kyle](Letter_to_N.J._Kyle.md) (*per procurationem*)
+- [17 tháng 1 năm 1973, gửi tới N.J. Kyle](Letter_to_N.J._Kyle.md) (*per procurationem*)
 - [25 tháng 1 năm 1973, gửi Patrick Hunt](Letter_to_Patrick_Hunt.md)
 - [26 tháng 2 năm 1973, gửi Stefan Pettersson](Letter_to_Stefan_Pettersson.md) (*per procurationem*)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Sterling_E._Lanier_(9_February_1973)&amp;action=edit&amp;redlink=1" title="Letter to Sterling E. Lanier (9 February 1973) (page does not exist)">9 tháng 2 năm 1973. gửi Sterling E. Lanier</a>
@@ -448,7 +448,7 @@ images:
 - [19?? tới Clyde S. Kilby](<Letter_to_Clyde_S._Kilby_(unknown_date).md>)
 - [19?? tới Richard Lupoff](Letter_to_Richard_Lupoff.md)
 - [19?? tới Bruce Mitchell](Letter_to_Bruce_Mitchell.md)
-- 19?? gửi một độc giả không xác định (bản nháp; chủ đề: [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- 19?? gửi tới một độc giả không xác định (bản nháp; chủ đề: [Sindarin](../S/Sindarin.md) và [Quenya](../Q/Quenya.md))<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter_to_Leslie_Underwood&amp;action=edit&amp;redlink=1" title="Letter to Leslie Underwood (page does not exist)">19?? tới Leslie Underwood</a>
 
 ## Những bộ sưu tập chưa được tiết lộ và tin đồn {#Unexposed_collections_and_rumours}
@@ -481,7 +481,7 @@ Trong một bài viết trên [*Locus* #149](Locus_149.md) ([1973](../_/1973.md)
 
 ### Thư từ giữa Tolkien và Joni Mitchell {#Correspondence_between_Tolkien_and_Joni_Mitchell}
 
-Vào giữa những năm sáu mươi, ca sĩ kiêm nhạc sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Joni_Mitchell" title="wikipedia:Joni Mitchell">Joni Mitchell</a> đã trở thành "[fan](../T/Tolkien_fandom.md)" của Tolkien,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> sau khi được chồng cô là Chuck giới thiệu các tác phẩm của anh. Cặp đôi này đã thành lập một doanh nghiệp xuất bản và ghi âm các tài liệu của họ liên quan đến Trung Địa và họ đã viết Tolkien "những bức thư và được anh ấy cho phép sử dụng tên trong sách của anh ấy cho hoạt động kinh doanh của chúng tôi". Thư từ trao đổi giữa Tolkien với Joni và Chuck Mitchell rõ ràng đã diễn ra không sớm hơn [1965](../_/1965.md) và không muộn hơn [1969](../_/1969.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Không rõ liệu Tolkien có trả lời thư của họ trực tiếp hay thư trả lời được viết bởi một người đại diện. Một lá thư bày tỏ sự ngưỡng mộ của Joni Mitchell gửi Tolkien sẽ được đăng trên *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../_/2018.md)).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Vào giữa những năm sáu mươi, ca sĩ kiêm nhạc sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Joni_Mitchell" title="wikipedia:Joni Mitchell">Joni Mitchell</a> đã trở thành "[fan](../T/Tolkien_fandom.md)" của Tolkien,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> sau khi được chồng cô là Chuck giới thiệu các tác phẩm của anh. Cặp đôi này đã thành lập một doanh nghiệp xuất bản và ghi âm các tài liệu của họ liên quan đến Trung Địa và họ đã viết Tolkien "những bức thư và được anh ấy cho phép sử dụng tên trong sách của anh ấy cho hoạt động kinh doanh của chúng tôi". Thư từ trao đổi giữa Tolkien với Joni và Chuck Mitchell rõ ràng đã diễn ra không sớm hơn [1965](../_/1965.md) và không muộn hơn [1969](../_/1969.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Không rõ liệu Tolkien có trả lời thư của họ trực tiếp hay thư trả lời được viết bởi một người đại diện. Một lá thư bày tỏ sự ngưỡng mộ của Joni Mitchell gửi tới Tolkien sẽ được đăng trên *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)* ([2018](../_/2018.md)).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ### Thư gửi xã hội {#Letters_to_The_Society}
 

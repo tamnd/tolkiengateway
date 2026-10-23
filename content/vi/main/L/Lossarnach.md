@@ -55,7 +55,7 @@ Những người nổi tiếng trong vùng bao gồm người phụ nữ thông 
 
 ## Cảm hứng {#Inspiration}
 
-[Viết thư](<Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>) về chuyến đi sắp diễn ra ở [1955](../_/1955.md), [Tolkien](../J/J.R.R._Tolkien.md) xác định Lossarnach là <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
+[Viết thư](<Letter_to_Jennifer_Brookes-Smith_(28_July_1955).md>) về chuyến đi sắp tới ở [1955](../_/1955.md), [Tolkien](../J/J.R.R._Tolkien.md) xác định Lossarnach là <a class="extiw" href="http://en.wikipedia.org/wiki/Assisi" title="wikipedia:Assisi">Assisi</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

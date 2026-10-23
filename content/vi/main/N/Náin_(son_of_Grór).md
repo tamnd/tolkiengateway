@@ -76,7 +76,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Xét về độ dài của nó, Náin nhiều khả năng đã chiến đấu trong phần lớn [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tuy nhiên chiến công duy nhất của anh ta được ghi lại ở [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
+Xét về độ dài của nó, Náin nhiều khả năng đã chiến đấu trong phần lớn [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tuy nhiên chiến công duy nhất của anh ta được ghi lại ở [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
 
 Trong trận chiến, Náin dẫn đầu quân tiếp viện mới đến [Thung lũng Dimrill](../D/Dimrill_Dale.md), nơi anh chiến đấu đến tận bậc thang [Cổng Đông](../E/East-gate.md) của [Moria](../M/Moria.md), nơi anh đấu tay đôi với [Azog](../A/Azog.md). Nhưng Náin bị mù nửa người vì cơn thịnh nộ và mệt mỏi vì chiến đấu nên anh ta đã dùng hết sức mình vung vào Orc. Azog lao sang một bên và đá vào chân Náin khiến anh ta trượt và gãy chiếc cuốc trên bậc thang. Náin vấp ngã và Azog cố gắng bẻ cổ anh ta, nhưng thư của Người lùn đã đứng vững được. Tuy nhiên, cú đánh quá mạnh khiến anh Náin bị gãy cổ và ngã xuống.
 

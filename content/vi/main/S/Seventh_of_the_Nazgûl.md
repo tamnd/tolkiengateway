@@ -54,7 +54,7 @@ infobox:
 
 Phần **Thứ bảy của [Nazgûl](../N/Nazgûl.md)** chưa bao giờ được phân biệt trong các tác phẩm của Tolkien, nhưng một số bản chuyển thể đã gán những đặc điểm riêng cho Nazgûl cụ thể này.
 
-[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không[chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Adûnaphel*, một phụ nữ [Númenórean](../N/Númenóreans.md), một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-2" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) đã xây dựng một cốt truyện phức tạp không [chuẩn](../C/Canon.md) cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), xác định nhân vật là *Adûnaphel*, một phụ nữ [Númenórean](../N/Númenóreans.md), một cốt truyện cũng được sử dụng trong [Trung Địa Trò chơi Thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).<sup id="cite_ref-ICE_1-2" class="reference"><a href="#cite_note-ICE-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Giải mã](../D/Decipher.md), đối với [Trò chơi thẻ giao dịch](../T/The_Lord_of_the_Rings_Trading_Card_Game.md) của họ, thay vào đó, họ đã giới hạn việc cá nhân hóa này ở việc đặt tên cho nhân vật *[Úlairë](../N/Nazgûl.md#Other_names) Otsëa* ([Q.](../Q/Quenya.md) Thứ bảy Nazgûl) và gán tên gọi là *Black Specter*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

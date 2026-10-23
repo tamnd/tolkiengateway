@@ -54,7 +54,7 @@ infobox:
 - [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), con trai của [Gróin](../G/Gróin.md) (anh em họ của Balin và Dwalin)
 - [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md), anh em, cháu trai của Thorin
 - [Dori](../D/Dori.md), [Nori](../N/Nori.md) và [Ori](../O/Ori.md) (Người Lùn của [Gia tộc Durin](../H/House_of_Durin.md))
-- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người Lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 - Và Bilbo Baggins, một Hobbit của [ Shire](The_Shire.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Họ đã tham gia cùng [Gandalf](../G/Gandalf.md) trong một phần của cuộc hành trình.

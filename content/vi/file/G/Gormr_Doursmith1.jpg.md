@@ -28,7 +28,7 @@ file:
 
 [Gormr Doursmith](../../main/G/Gormr_Doursmith.md) tại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Berghold&amp;action=edit&amp;redlink=1" title="Berghold (page does not exist)">Berghold</a> trong phần giới thiệu Ered Luin.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by <a class="external text" href="http://www.turbine.com/" rel="noreferrer noopener" target="_blank">Turbine</a>. It is believed that the limited use of this file,

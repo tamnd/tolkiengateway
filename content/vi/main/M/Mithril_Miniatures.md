@@ -40,7 +40,7 @@ Mithril duy trì mối quan hệ hợp tác chặt chẽ với [Vương miện S
 
 ## Thiết kế {#Design}
 
-Nhận dạng hình ảnh của dòng sản phẩm này được xác định bởi nhà điêu khắc Chris Tubb, người đã gia nhập Thân vương August vào năm 1979. Các tiêu chuẩn đúc chất lượng cao ban đầu do Tom Wilkinson thiết lập, trong khi người kế nhiệm ông là Dan Kelleher đã đổi mới những tiêu chuẩn này để sản xuất hàng loạt. Tất cả các hình đều được sơn lót tại nhà máy với lớp sơn nền bền, giúp chúng phù hợp để trưng bày ngay cả khi không sơn.<sup id="cite_ref-design_3-0" class="reference"><a href="#cite_note-design-3">[3]</a></sup>
+Nhận dạng hình ảnh của dòng sản phẩm này được xác định bởi nhà điêu khắc Chris Tubb, người đã gia nhập Thân vương August vào năm 1979. Các tiêu chuẩn đúc chất lượng cao ban đầu do Tom Wilkinson thiết lập, trong khi người kế nhiệm ông là Dan Kelleher đã đổi mới những tiêu chuẩn này để sản xuất hàng loạt. Tất cả các hình đều được sơn lót tại nhà máy với lớp sơn nền bền, giúp chúng thích hợp để trưng bày ngay cả khi không sơn.<sup id="cite_ref-design_3-0" class="reference"><a href="#cite_note-design-3">[3]</a></sup>
 
 ## Sản phẩm {#Products}
 

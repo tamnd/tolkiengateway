@@ -27,7 +27,7 @@ file:
 
 Dựa trên bản đồ GNU trên Wikipedia: <a class="external autonumber" href="http://en.wikipedia.org/wiki/Image:Middle-earth.jpg" rel="noreferrer noopener" target="_blank">[1]</a>.
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
 <p>It is believed that the use of this map which relates to <a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien&#39;s</a> <a href="../../main/L/Legendarium.md" title="Legendarium">legendarium</a>,

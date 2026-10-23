@@ -91,7 +91,7 @@ Ba phần khác là *Ambarkanta* hay "Hình dạng của thế giới", một b�
 - VI. "[Sớm nhất *Annals of Valinor*](The_Earliest_Annals_of_Valinor.md)"
     - Phụ lục: Bản dịch Ælfwine của *Annals of Valinor* sang tiếng Anh cổ
 
-- VII. "[Sớm nhất *Annals of Beleriand*](The_Earliest_Annals_of_Beleriand.md)"
+- VIII. "[Sớm nhất *Annals of Beleriand*](The_Earliest_Annals_of_Beleriand.md)"
     - Phiên bản thứ hai của *Annals* sớm nhất
     - Phụ lục: Bản dịch của Ælfwine từ *Annals of Beleriand* sang tiếng Anh cổ
 

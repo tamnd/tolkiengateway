@@ -154,7 +154,7 @@ Tuor có khuôn mặt "ngon" và thừa hưởng mái tóc vàng của [Nhà Had
 
 Tên *Tuor* đã được điều chỉnh thành [Sindarin](../S/Sindarin.md) từ ngôn ngữ của [Edain](../E/Edain.md),<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[14]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[note 3]</a></sup> nhưng ý nghĩa ban đầu của nó không được làm rõ.
 
-Trong *[The Etymologies](The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *Tuor* ("sức mạnh-sức sống") bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) *tūghor, tū-gor* ([gốc](../S/Sundocarme.md) TUG-). Trong ngữ cảnh của từ nguyên này, *Tuor* có thể được phân tích thành *[tû](Tû.md)* ("sức mạnh") + một biến thể của từ gốc GOR ("bạo lực, thúc đẩy, vội vàng").<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup>
+Trong *[The Etymologies](The_Etymologies.md)*, [Noldorin](../N/Noldorin.md) *Tuor* ("sức mạnh-sức sống") xuất phát từ [Common Eldarin](../C/Common_Eldarin.md) *tūghor, tū-gor* ([gốc](../S/Sundocarme.md) TUG-). Trong ngữ cảnh của từ nguyên này, *Tuor* có thể được phân tích thành *[tû](Tû.md)* ("sức mạnh") + một biến thể của từ gốc GOR ("bạo lực, thúc đẩy, vội vàng").<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup>
 
 ## Tên khác {#Other_names}
 

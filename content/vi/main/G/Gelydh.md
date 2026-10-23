@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golodh"
 ---
 
-Chuyển hướng tới [Golodh](Golodh.md).
+Chuyển hướng đến [Golodh](Golodh.md).

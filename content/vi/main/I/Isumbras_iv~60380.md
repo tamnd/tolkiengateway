@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isumbras Took IV"
 ---
 
-Chuyển hướng đến [Isumbras Took IV](Isumbras_Took_IV.md).
+Chuyển hướng tới [Isumbras Took IV](Isumbras_Took_IV.md).

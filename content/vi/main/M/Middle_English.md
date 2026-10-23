@@ -42,7 +42,7 @@ Trong số các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)liên 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Middle_English" title="wikipedia:Middle English">Tiếng Anh trung đại</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Middle_English" title="wikipedia:Middle English">Tiếng Anh trung cổ</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://www.carlaz.com/tolkien/mid_eng.html" rel="noreferrer noopener" target="_blank"><i>Từ "The Cuộc vây hãm Gondor" bằng tiếng Anh trung cổ</i></a>
 
 <span></span>

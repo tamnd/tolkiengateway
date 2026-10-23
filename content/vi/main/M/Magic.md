@@ -79,7 +79,7 @@ Sindarin có hai từ chỉ ma thuật hắc ám; *[morgul](Morgul.md)* và *[gu
 
 Phép thuật được sử dụng bởi Sauron hoặc các phù thủy khác, những người được dạy cách điều khiển sự tham nhũng Morgoth để lại trong Arda, dựa trực tiếp vào di sản vật lý của chính Morgoth. "Phần tửMorgoth trong vật chất... là điều kiện tiên quyết cho 'ma thuật' và những tệ nạn khác khi Sauron thực hiện với nó và dựa trên nó."<sup id="cite_ref-Myths_4-4" class="reference"><a href="#cite_note-Myths-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:400</sup>
 
-Bản thân Sauron còn được gọi là Necromancer, điều này cho thấy rằng anh ta có sức mạnh đối với các linh hồn.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup> [Vua Phù thủy của Angmar](../W/Witch-king.md), một người hầu của Sauron đeo Nhẫn sức mạnh, có khả năng triệu hồi [Barrow-wight](../B/Barrow-wights.md) tới [Barrow-downs](../B/Barrow-downs.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
+Bản thân Sauron còn được gọi là Necromancer, điều này cho thấy rằng anh ta có sức mạnh đối với các linh hồn.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup> [Vua Phù thủy của Angmar](../W/Witch-king.md), một người hầu của Sauron đeo Nhẫn sức mạnh, có khả năng triệu hồi [Barrow-wight](../B/Barrow-wights.md) đến [Barrow-downs](../B/Barrow-downs.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup>
 
 ### Người lùn phép thuật {#Dwarven_magic}
 

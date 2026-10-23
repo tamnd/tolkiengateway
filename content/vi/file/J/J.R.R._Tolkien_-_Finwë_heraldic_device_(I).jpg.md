@@ -29,13 +29,13 @@ file:
 Cf. <a class="external text" href="https://tai.tolkienists.org/tai/32/" rel="noreferrer noopener" target="_blank">Tolkien Mục lục nghệ thuật #32</a>. Được xuất bản trong:
 
 - *[The J.R.R. Tolkien Calendar 1974](../../main/T/The_J.R.R._Tolkien_Calendar_1974.md)* ([1973](../../main/_/1973.md)), bìa sau
-- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), p. 194, #191
+- *[J.R.R. Tolkien: Artist and Illustrator](../../main/J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md)* ([1995](../../main/_/1995.md)), tr. 194, #191
 - *[Pictures by J.R.R. Tolkien](../../main/P/Pictures_by_J.R.R._Tolkien.md)* (ấn bản thứ hai, [2021](../../main/_/2021.md)), #47
 - *[The Silmarillion](../../main/T/The_Silmarillion.md): Illustrated by J.R.R. Tolkien* ([2022](../../main/_/2022.md)), trang 36, 63
 
 Dòng chữ trong bản thảo có nội dung "Có cánh Mặt Trời / Ngôi nhà của Finwë". Lưu ý rằng thiết bị này được đặt ở dạng hình vuông, không giống như [phiên bản ở dạng hình thoi](<J.R.R._Tolkien_-_Finwë_heraldic_device_(II).jpg.md>).
 
-## Licensing {#Licensing}
+## Giấy phép {#Licensing}
 
 <div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
 <p>This work is copyrighted and owned by the <a class="external text" href="http://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">Tolkien Estate</a>. It is believed that the limited use of this file,

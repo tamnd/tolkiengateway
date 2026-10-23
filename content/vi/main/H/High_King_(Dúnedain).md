@@ -36,7 +36,7 @@ Với cái chết của Elendil trước Sauron trong [Cuộc vây hãm Barad-d�
 
 ### Từ chối {#Decline}
 
-Sau cái chết của Isildur, các sự kiện lịch sử đã âm mưu chia cắt Hai Vương quốc, mỗi vương quốc đều có các vị vua của riêng mình. Về nguyên tắc, Vương quyền tối cao lẽ ra đã rơi vào [Người thừa kế Isildur](Heir_of_Isildur.md) [Valandil](<../V/Valandil_(King_of_Arnor).md>), nhưng trên thực tế Valandil chỉ trở thành Vua của Arnor và không có quyền lực đối với vương quốc phía Nam.
+Sau cái chết của Isildur, các sự kiện lịch sử đã âm mưu chia cắt Hai Vương quốc, mỗi vương quốc đều có các vị vua của riêng mình. Về nguyên tắc, Vương quyền tối cao lẽ ra đã rơi vào [Người Thừa Kế Isildur](Heir_of_Isildur.md) [Valandil](<../V/Valandil_(King_of_Arnor).md>), nhưng trên thực tế Valandil chỉ trở thành Vua của Arnor và không có quyền lực đối với vương quốc phía Nam.
 
 Vào giữa[Kỷ Đệ Tam](../T/Third_Age.md), Gondor không có vua; [Arvedui](../A/Arvedui.md), với tư cách là người thừa kế của Isildur, đã cố gắng viện dẫn [Luật kế vị trong Númenor](../L/Law_of_Succession_in_Númenor.md) để giành lấy ngai vàng của Gondor, do đó trở thành Đại Vương; [Hội đồng Gondor](../C/Council_of_Gondor.md) đã bỏ phiếu chống lại yêu sách của ông.<sup id="cite_ref-gondor_4-0" class="reference"><a href="#cite_note-gondor-4">[3]</a></sup> Ngay sau đó, cả hai vương quốc sẽ mất vương quyền.
 

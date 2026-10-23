@@ -53,7 +53,7 @@ images:
 
 **Đại Vương của Noldor** là người đứng đầu của [Nhà Finwë](House_of_Finwë.md) ở [Trung Địa](../M/Middle-earth.md). Người nắm giữ nó là lãnh chúa trên danh nghĩa của tất cả các vương quốc [Noldorin](../N/Noldor.md), nhưng có rất ít quyền lực thực tế do sự chia rẽ của Noldor. [Nhà Fëanor](House_of_Fëanor.md) thừa nhận Vương quyền nhưng ít chú ý đến nó, tuân theo chương trình nghị sự riêng của họ dưới sự lãnh đạo chung của [Maedhros](../M/Maedhros.md).
 
-## Các vị vua trước đó {#Earlier_Kings}
+## Các vị vua trước đây {#Earlier_Kings}
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../K/King_of_the_Noldor.md" title="King of the Noldor">King of the Noldor</a></b></div></div>
 

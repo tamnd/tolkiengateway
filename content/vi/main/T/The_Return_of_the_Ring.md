@@ -62,7 +62,7 @@ infobox:
 - **[Colin Duriez](../C/Colin_Duriez.md)**, Tác giả và **[Inklings](../I/Inklings.md)** học giả
 - **[Anke Eißmann](../A/Anke_Eißmann.md)**, Tolkien nghệ sĩ
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tor_Fauskanger&amp;action=edit&amp;redlink=1" title="Tor Fauskanger (page does not exist)">Tor Fauskanger</a></b>, Tolkien nghệ sĩ
-- **[Dimitra Fimi](../D/Dimitra_Fimi.md)**, Tác giả và giảng viên về thần thoại và văn hóa dân gian
+- **[Dimitra Fimi](../D/Dimitra_Fimi.md)**, Tác giả và giảng viên về thần thoại và văn học dân gian
 - **[Verlyn Flieger](../V/Verlyn_Flieger.md)**, Học thuật và tác giả
 - **[John Garth](../J/John_Garth.md)**, Tác giả, <i><b><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien và cuộc Đại chiến</a></b></i>
 - <b><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Gilliver&amp;action=edit&amp;redlink=1" title="Peter Gilliver (page does not exist)">Peter Gilliver</a></b>, Nhà từ điển học và tác giả

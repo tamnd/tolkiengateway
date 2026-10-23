@@ -111,7 +111,7 @@ Từ này được cho là có chứa *[silima](Silima.md)*, chất mà chúng �
 
 Chúng có nghĩa là "sự tỏa sáng của ánh sáng thuần khiết".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Nó có thể chứa phần kết thúc *rillë* ("sáng chói").<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Dạng số nhiều [Quenya](../Q/Quenya.md) thích hợp là *Silmarilli*, "Silmaril" là một tên Anh hóa.
+Dạng số nhiều [Quenya](../Q/Quenya.md) thích hợp là *Silmarilli*, "Silmaril" là một tên Anh hoá.
 
 ## Tên khác {#Other_names}
 

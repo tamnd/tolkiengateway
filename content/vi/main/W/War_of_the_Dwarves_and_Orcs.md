@@ -93,7 +93,7 @@ Kết quả của những mất mát đó là [Orc của Dãy Núi Sương Mù](
 
 ## Xem thêm {#See_also}
 
-- [Cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
+- [cuộc cướp phá Erebor](../S/Sack_of_Erebor.md)
 
 <span></span>
 

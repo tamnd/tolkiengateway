@@ -27,7 +27,7 @@ file:
 
 ## Tóm tắt {#Summary}
 
-Front cover of *[Germanic Heroes, Courage, and Fate: Northern Narratives of J.R.R. Tolkien’s Legendarium](../../main/G/Germanic_Heroes,_Courage,_and_Fate.md)*. Minh họa bìa của [Anke Eißmann](../../main/A/Anke_Eißmann.md), "The Lời Thề of [Finrod Felagund](../../main/F/Finrod_Felagund.md)" (2022).
+Bìa trước của *[Germanic Heroes, Courage, and Fate: Northern Narratives of J.R.R. Tolkien’s Legendarium](../../main/G/Germanic_Heroes,_Courage,_and_Fate.md)*. Minh họa bìa của [Anke Eißmann](../../main/A/Anke_Eißmann.md), "The Lời Thề of [Finrod Felagund](../../main/F/Finrod_Felagund.md)" (2022).
 
 ## Giấy phép {#Licensing}
 

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md), chạy trốn khỏi [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tìm nơi ẩn náu ở [Dãy Núi Trắng](../W/White_Mountains.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md), chạy trốn khỏi [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tìm nơi ẩn náu ở [Dãy Núi Trắng](../W/White_Mountains.md) ở phía nam.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [Orc](../O/Orcs.md) từ miền Bắc bắt đầu rắc rối [Rohan](../R/Rohan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Wiseman Gamwich](../W/Wiseman_Gamwich.md), con trai của [Hamfast xứ Gamwich](../H/Hamfast_of_Gamwich.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
