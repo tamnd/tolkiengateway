@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Ham"
 ---
 
-**Ham** là ngôi làng nơi [Farmer Giles](../F/Farmer_Giles.md) sinh sống. Nó cách thủ đô của [Vương quốc Trung tâm](../M/Middle_Kingdom.md) khoảng 20 dặm. Ngoài người nông dân đáng gờm và vợ [Agatha](../A/Agatha.md), những người đáng chú ý trong làng còn có mục sư, người thợ xay và [Fabricius Cunctator](../F/Fabricius_Cunctator.md) thợ rèn. Ở giữa thị trấn là một nhà thờ nơi [con rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](../C/Chrysophylax.md) đầu hàng Giles. Có một cây cầu bắc qua sông ở một bên của ngôi làng, nơi Giles gặp Vua [Augustus Bonifacius](../A/Augustus_Bonifacius.md) và là nơi [Trận chiến trên cầu](../B/Battle_of_the_Bridge.md) diễn ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ham** là ngôi làng nơi [Farmer Giles](../F/Farmer_Giles.md) sinh sống. Ngôi làng nằm cách thủ đô của [Middle Kingdom](../M/Middle_Kingdom.md) khoảng hai mươi league. Ngoài người nông dân đáng gờm và vợ ông, [Agatha](../A/Agatha.md), những nhân vật đáng chú ý trong làng còn có cha xứ, người xay bột và thợ rèn [Fabricius Cunctator](../F/Fabricius_Cunctator.md). Ở trung tâm làng có một nhà thờ, nơi con [rồng](../D/Dragons.md#Other_fiction) [Chrysophylax](../C/Chrysophylax.md) đầu hàng Giles. Phía bên kia làng có một cây cầu bắc qua sông, nơi Giles gặp Vua [Augustus Bonifacius](../A/Augustus_Bonifacius.md) và nơi [Trận chiến trên cầu](../B/Battle_of_the_Bridge.md) đã diễn ra. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 
