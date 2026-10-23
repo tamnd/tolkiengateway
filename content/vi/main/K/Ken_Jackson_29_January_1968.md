@@ -1,0 +1,13 @@
+---
+title: "Ken Jackson 29 January 1968"
+page_id: 46325
+namespace: 0
+revision_id: 244748
+source_url: "https://tolkiengateway.net/wiki/Ken_Jackson_29_January_1968"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Letter to Ken Jackson (29 January 1968)"
+---
+
+Chuyển hướng tới [Thư gửi Ken Jackson (29 tháng 1 năm 1968)](<../L/Letter_to_Ken_Jackson_(29_January_1968).md>).

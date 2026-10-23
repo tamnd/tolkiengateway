@@ -1,0 +1,32 @@
+---
+title: "File:LotR LCG Ered Mithrin Products.png"
+page_id: 72887
+namespace: 6
+revision_id: 431957
+timestamp: "2026-01-27T09:37:47Z"
+source_url: "https://tolkiengateway.net/wiki/File:LotR_LCG_Ered_Mithrin_Products.png"
+content_sha256: 3b43fa076087b313d4afe817322fc26dfccb8d0d71f960111a0e0c6fc879b784
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/6/6e/LotR_LCG_Ered_Mithrin_Products.png"
+  mime: "image/png"
+  size: 519368
+  width: 700
+  height: 500
+  sha1: "3fc70bc826e66c978159646d563bd3bede36f93d"
+  timestamp: "2026-01-27T09:37:47Z"
+  user: "Qalten"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.fantasyflightgames.com/" rel="noreferrer noopener" target="_blank">Fantasy Flight Games</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

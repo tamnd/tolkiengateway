@@ -1,0 +1,133 @@
+---
+title: "J.R.R. Tolkien's The Lord of the Rings, Vol. I (SNES)"
+display_title: "<i>J.R.R. Tolkien's The Lord of the Rings, Vol. I</i> <span style=\"font-size:0.7em\">(SNES)</span>"
+page_id: 19446
+namespace: 0
+revision_id: 410509
+timestamp: "2024-10-16T18:33:16Z"
+source_url: "https://tolkiengateway.net/wiki/J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(SNES)"
+content_sha256: 60775249a37647464da00818155c8d5be19251f3ecd04318ab88cf82b522453c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Interplay Productions games"
+  - "Super Nintendo Entertainment System games"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+images:
+  - "LOTR-vol1-SNES1.png"
+  - "CdxIconArticleDisambiguation.svg"
+infobox:
+  - label: "Publisher"
+    value: "Interplay Productions, Electronic Arts"
+  - label: "Platform"
+    value: "SNES"
+  - label: "Release Date"
+    value: "1994"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../T/The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-vol1-SNES1.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/LOTR-vol1-SNES1.png/320px-LOTR-vol1-SNES1.png" decoding="async" loading="lazy" width="320" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/LOTR-vol1-SNES1.png 1.5x" data-file-width="382" data-file-height="243"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Interplay_Productions.md" title="Interplay Productions">Interplay Productions</a>, <a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" title="wikipedia:Super Nintendo Entertainment System">SNES</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1994.md" title="1994">1994</a></td></tr></tbody></table>
+
+<i><b>J.R.R. Tolkien của The Lord of the Rings, Tập. I</b></i> là trò chơi điện tử do [Interplay Productions](../I/Interplay_Productions.md) sản xuất cho Hệ thống giải trí Super Nintendo.
+
+## Cách chơi {#Gameplay}
+
+Mặc dù trò chơi có thể chơi được ở chế độ chơi đơn, nhưng có thể thêm tối đa bốn người chơi bằng cách sử dụng thiết bị ngoại vi Super Multitap. Trò chơi cũng tương thích với Super NES Mouse.
+
+Người chơi bắt đầu trò chơi với tư cách [Frodo Baggins](../F/Frodo_Baggins.md), với các thành viên còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) có thể chơi được trong suốt trò chơi (ngoại trừ [Boromir](../B/Boromir.md)). Sau khi chết, các nhân vật có thể chơi được sẽ vĩnh viễn không thể sử dụng được trong phần còn lại của trò chơi.
+
+Trò chơi xoay quanh việc khám phá những môi trường rộng lớn để thu thập vật phẩm và trả lại cho những nhân vật không thể chơi được. Nó cũng chứa các yếu tố trò chơi nhập vai hành động, trong đó người chơi có thể tham gia chiến đấu với nhiều loại kẻ thù.
+
+## Lô đồ {#Plot}
+
+Trò chơi tiếp nối phần đầu tiên của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md),* bắt đầu [ Shire](../T/The_Shire.md) trong Bữa tiệc sinh nhật của [Bilbo](../B/Bilbo's_Birthday_Party.md) và tiến dần đến [Bree](../B/Bree.md) và [Rivendell](../R/Rivendell.md). Trò chơi kết thúc bằng cuộc chiến giữa [Học bổng](../F/Fellowship_of_the_Ring.md) và [Balrog](../B/Balrogs.md) trong [Mỏ Moria](../M/Moria.md).<sup id="cite_ref-Gamefaqs_1-0" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup>
+
+Mặc dù trò chơi có tựa đề "*The Lord of the Rings, Tập 1*", nhưng không có phần tiếp theo nào được phát hành do bị đánh giá kém.
+
+## Đánh giá {#Reviews}
+
+Sự đón nhận của trò chơi phần lớn là tiêu cực và nó bị chỉ trích rộng rãi vì lối chơi quanh co và các nhiệm vụ tìm nạp "dài dòng và nhàm chán"<sup id="cite_ref-1UP_2-0" class="reference"><a href="#cite_note-1UP-2">[2]</a></sup>
+
+Dựa trên 24 bài đánh giá về trò chơi tại GameFAQs.com, trò chơi nhận được đánh giá trung bình là 4,875 trên 10.<sup id="cite_ref-Gamefaqs_1-1" class="reference"><a href="#cite_note-Gamefaqs-1">[1]</a></sup> Nhiều người đánh giá cho rằng cấu trúc của trò chơi và A.I. kém khiến các nhân vật đi lang thang, mắc kẹt trong khung cảnh và chết. Nó cũng bị chỉ trích vì môi trường rộng lớn và như mê cung, khiến người chơi lạc lối và không biết mục tiêu tiếp theo của mình là gì.
+
+## Xem thêm {#See_also}
+
+- *[J.R.R. Tolkien's The Lord of the Rings, Vol. I](<J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md>)* dành cho <a class="extiw" href="http://en.wikipedia.org/wiki/Personal_Computer" title="wikipedia:Personal Computer">PC</a>.
+- *[J.R.R. Tolkien's The Lord of the Rings, Vol. II](J.R.R._Tolkien's_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md)* dành cho <a class="extiw" href="http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System" title="wikipedia:Super Nintendo Entertainment System">SNES</a>.
+
+## Liên kết ngoài {#External_links}
+
+- <a class="extiw" href="http://en.wikipedia.org/wiki/J.R.R._Tolkien%27s_The_Lord_of_the_Rings,_Vol._I" title="wikipedia:J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I">J.R.R. Tolkien của The Lord of the Rings, Tập. Tôi</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Gamefaqs-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Gamefaqs_1-0">1.0</a></sup> <sup><a href="#cite_ref-Gamefaqs_1-1">1.1</a></sup></span> <span class="reference-text"><a class="external text" href="http://www.gamefaqs.com/snes/588449-jrr-tolkiens-the-lord-of-the-rings-volume-1/reviews/review-47922" rel="noreferrer noopener" target="_blank">Gamefaqs</a>, The OTHER Lord of the Rings game (retrieved 18 March 2011)</span>
+</li>
+<li id="cite_note-1UP-2"><span class="mw-cite-backlink"><a href="#cite_ref-1UP_2-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.1up.com/reviews/lord-rings-volume-1" rel="noreferrer noopener" target="_blank">1up</a>, The Lord of the Rings Volume 1 SNES Review (retrieved 18 March 2011)</span>
+</li>
+</ol></div>
+
+<table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
+<tbody><tr>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+</th></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)">The Hobbit</a></b></i> (<a href="../_/1982.md" title="1982">1982</a>) · <i><b><a href="../L/Lord_of_the_Rings%253A_Game_One.md" title="Lord of the Rings: Game One">Lord of the Rings: Game One</a></b></i>  (<a href="../_/1985.md" title="1985">1985</a>) · <i><b><a href="../S/Shadows_of_Mordor.md" title="Shadows of Mordor">Shadows of Mordor</a></b></i> (<a href="../_/1988.md" title="1988">1988</a>) · <i><b><a href="J.R.R._Tolkien&#39;s_War_in_Middle_Earth.md" title="J.R.R. Tolkien&#39;s War in Middle Earth">War in Middle Earth</a></b></i> (<a href="../_/1988.md" title="1988">1988</a>) · <i><b><a href="../C/Crack_of_Doom_Software_Adventure.md" title="Crack of Doom Software Adventure">Crack of Doom Software Adventure</a></b></i> (<a href="../_/1989.md" title="1989">1989</a>) · <i><b><a href="J.R.R._Tolkien&#39;s_Riders_of_Rohan.md" title="J.R.R. Tolkien&#39;s Riders of Rohan">Riders of Rohan</a></b></i> (<a href="../_/1990.md" title="1990">1990</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../I/Interplay_Productions.md" title="Interplay Productions">Interplay Productions</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._I_(1990_video_game).md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game)">The Lord of the Rings, Vol. I (PC)</a></b></i> (<a href="../_/1990.md" title="1990">1990</a>) · <i><b><a href="J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. II: The Two Towers">The Lord of the Rings, Vol. II: The Two Towers</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>) · <i><b><a class="mw-selflink selflink">The Lord of the Rings, Vol. I (SNES)</a></b></i> (<a href="../_/1994.md" title="1994">1994</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a class="mw-redirect" href="../V/Vivendi_Universal.md" title="Vivendi Universal">Vivendi Universal</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)">The Fellowship of the Ring</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>) · <i><b><a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)">The Hobbit</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">War of the Ring</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></b></i> (<a href="../_/2003.md" title="2003">2003</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></b></i> (<a href="../_/2004.md" title="2004">2004</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Battle for Middle-earth</a></b></i> (<a href="../_/2004.md" title="2004">2004</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></b></i> (<a href="../_/2005.md" title="2005">2005</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Battle for Middle-earth II</a></b></i> (<a href="../_/2006.md" title="2006">2006</a>) <small>(<i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i> (<a href="../_/2006.md" title="2006">2006</a>))</small> · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></b></i> (<a href="../_/2009.md" title="2009">2009</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md" title="The Lord of the Rings: Heroes of Middle-earth">Heroes of Middle-earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../T/Turbine.md" title="Turbine">Turbine</a>/<a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../W/Warner_Bros._Games.md" title="Warner Bros. Games">Warner Bros</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="../T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="../T/The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../T/Traveller&#39;s_Tales.md" title="Traveller&#39;s Tales">Traveller&#39;s Tales</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> <a href="../D/Daedalic_Entertainment.md" title="Daedalic Entertainment">Daedalic Entertainment</a>:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
+</td></tr>
+<tr>
+<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+</th>
+<td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
+</td></tr></tbody></table>

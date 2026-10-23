@@ -1,0 +1,41 @@
+---
+title: "Lay of Leithian Canto XIII"
+page_id: 8798
+namespace: 0
+revision_id: 296550
+timestamp: "2018-01-22T12:07:05Z"
+source_url: "https://tolkiengateway.net/wiki/Lay_of_Leithian_Canto_XIII"
+content_sha256: a8c1157874478c2f16bba2ea1b566267a24ddd6f2da24b7313c0d3442b053a4b
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Lay of Leithian cantos"
+images:
+  - "Anke_Eißmann_-_Beren_recovers_a_Silmaril.jpg"
+---
+
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Beren_recovers_a_Silmaril.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg/250px-Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg/375px-Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg/500px-Anke_Ei%C3%9Fmann_-_Beren_recovers_a_Silmaril.jpg 2x" data-file-width="837" data-file-height="473"/></a><figcaption><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a> - <i>Beren recovers a Silmaril</i></figcaption></figure>
+
+<table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
+<tbody><tr>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> cantos
+</th></tr>
+<tr>
+<td>
+<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_II.md" title="Lay of Leithian Canto II">Canto II</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Canto III</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Canto IV</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Canto V</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Canto X</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Canto XII</a></b></li>
+<li><b><a class="mw-selflink selflink">Canto XIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
+</td></tr></tbody></table>
+
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này của [Lay of Leithian](Lay_of_Leithian.md) bắt đầu bằng một đoạn mô tả ngắn về sự khủng khiếp của "ngôi mộ có nhiều đường hầm trong kim tự tháp mê cung" của [Angband](../A/Angband.md) mà [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) nhìn thấy khi họ đi qua [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md). Cuối cùng, họ cũng đến được <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_Morgoth&amp;action=edit&amp;redlink=1" title="Hall of Morgoth (page does not exist)">Đại sảnh của Morgoth</a> (có mô tả đặc biệt giống với sự đối lập đen tối với [Menegroth](../M/Menegroth.md) trong ảnh này), cũng như chính [Morgoth](../M/Morgoth.md) với [Silmaril](../S/Silmarils.md) trên [vương miện bằng sắt](../I/Iron_Crown.md). Đôi mắt không mi của Morgoth nhìn thấy Lúthien trong bộ trang phục [ma cà rồng](../V/Vampire.md) của cô ấy và ra lệnh cho cô ấy xuống và xác định danh tính. Cô ấy trả lời rằng cô ấy là [Thuringwethil](../T/Thuringwethil.md), người đưa tin của [Thû](../T/Thû.md). Nhưng Morgoth đã nhìn thấu lớp ngụy trang và tố cáo cô là kẻ nói dối. Sức mạnh của anh ta khiến hình dạng xấu xí của cô sụp đổ, và cô đứng đó trong chiếc áo choàng ngủ. Sau đó cô ấy bắt đầu hát, và ngọn lửa của Angband tắt - tất cả chỉ còn lại ánh sáng trong đôi mắt của Morgoth. Morgoth hỏi điều gì đã đưa Lúthien đến hội trường của anh ta, và Lúthien trả lời rằng cô đến để giải trí Morgoth, tâng bốc anh ta. Nhưng anh ta đáp lại bằng những lời tra tấn và chết chóc, đồng thời đưa tay cho cô với những họa tiết đen tối. Nhưng cô ấy lùi lại, quấn áo choàng quanh mình và bắt đầu nhảy múa và hát. Về hội trường, về cái đầu đen tối của Morgoth cô ấy bay đi. [Orc](../O/Orcs.md) và [balrogs](../B/Balrogs.md) chìm vào giấc ngủ như câu thần chú của giấc ngủ mà cô dệt nên. Nhưng Morgoth không cử động, mắt anh vẫn nhìn chằm chằm vào Lúthien. Nhưng ánh sáng của Silmaril lại bừng lên khi nghe bài hát [Tiên](../E/Elves.md). Rồi cuối cùng Morgoth rơi khỏi ngai vàng, và vương miện lăn khỏi đầu anh ta. Sau đó, cô đánh thức Beren, người cũng đã bị mê hoặc, và anh ta vứt bộ trang phục gớm ghiếc của mình sang một bên và rút ra [Con dao của Curufin](../K/Knife_of_Curufin.md). Nó xẻ đôi chiếc vương miện bằng sắt như gỗ mềm, và những móng vuốt giữ viên ngọc bị cắt xuyên qua, cho đến khi cuối cùng anh ta cầm được một viên trong tay. Lẽ ra anh ta đã lấy được cả ba, nhưng khi anh ta cố gắng giải thoát một thanh kiếm khác do thợ rèn [Nogrod](../N/Nogrod.md) tạo ra, và mảnh vỡ sượt qua lông mày của Morgoth, anh ta rên rỉ. Khi đó tất cả những người đang ngủ trong hành lang đều cựa quậy, nguy hiểm Beren and Lúthien là rất lớn. Ở đó Canto này kết thúc.

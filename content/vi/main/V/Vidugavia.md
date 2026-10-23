@@ -1,0 +1,90 @@
+---
+title: "Vidugavia"
+page_id: 4864
+namespace: 0
+revision_id: 438837
+timestamp: "2026-05-26T09:38:58Z"
+source_url: "https://tolkiengateway.net/wiki/Vidugavia"
+content_sha256: 7e0020ce15d30b443647a1d15164ed090cd4db671d3cc00e5f31cecfe3101b87
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Gothic names"
+  - "Northmen"
+  - "Rulers in Middle-earth"
+  - "Third Age characters"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Vidugavia"
+    url: "https://www.ardapedia.org/wiki/Vidugavia"
+  - lang: "fi"
+    name: "suomi"
+    title: "Vidugavia"
+    url: "https://kontu.wiki/Vidugavia"
+images:
+  - "Liz_Danforth_-_Vidugavia.jpg"
+infobox:
+  - label: "Titles"
+    value: "King of Rhovanion"
+  - label: "Location"
+    value: "Rhovanion"
+  - label: "Rule"
+    value: "13th century, Third Age"
+  - label: "Children"
+    value: "Vidumavi; apparently other children too (considering Marhari is the descendant of Vidugavia)"
+  - label: "Gender"
+    value: "Male"
+  - label: "Gallery"
+    value: "Images of Vidugavia"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liz_Danforth_-_Vidugavia.jpg.md"><img src="https://tolkiengateway.net/w/images/5/56/Liz_Danforth_-_Vidugavia.jpg" decoding="async" loading="lazy" width="239" height="407" class="mw-file-element" data-file-width="239" data-file-height="407"/></a><figcaption>&#34;Vidugavia&#34; by <a href="../L/Liz_Danforth.md" title="Liz Danforth">Liz Danforth</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Northmen.md" title="Northmen">Northman</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vidugavia</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../K/King_of_Rhovanion.md" title="King of Rhovanion">King of Rhovanion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data">13th century, <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Vidumavi.md" title="Vidumavi">Vidumavi</a>; apparently other children too (considering <a href="../M/Marhari.md" title="Marhari">Marhari</a> is the descendant of Vidugavia)<sup id="cite_ref-Children_1-0" class="reference"><a href="#cite_note-Children-1">[1]</a></sup></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Vidugavia.md" title="Category:Images of Vidugavia">Images of Vidugavia</a></td></tr></tbody></table>
+
+**Vidugavia** là hoàng tử của [Người phương Bắc](../N/Northmen.md), người tự gọi mình là "[Vua của Rhovanion](../K/King_of_Rhovanion.md)" và cai trị một vương quốc nằm giữa [Mirkwood](../M/Mirkwood.md) và [River Running](../R/River_Running.md).<sup id="cite_ref-Gondor_2-0" class="reference"><a href="#cite_note-Gondor-2">[2]</a></sup>
+
+## Lịch sử {#History}
+
+Vidugaiva là đồng minh của Vua [Rómendacil II](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md)và đã giúp đỡ anh ta trong cuộc chiến chống lại [Easterlings](../E/Easterlings.md). Năm [T.A.](../T/Third_Age.md) [1250](../T/Third_Age_1250.md) Thân vương [Valacar](Valacar.md) được cha mình, Vua Rómendacil II, cử đến triều đình Vidugavia với tư cách là đại sứ để học ngôn ngữ, cách cư xử và chính sách của Người phương Bắc. Valacar cuối cùng yêu vùng đất và con người phương Bắc và cưới con gái của Vidugavia [Vidumavi](Vidumavi.md).<sup id="cite_ref-Gondor_2-1" class="reference"><a href="#cite_note-Gondor-2">[2]</a></sup>
+
+Vidugavia rõ ràng là cha của những đứa trẻ khác, vì ông cũng là tổ tiên của [Marhari](../M/Marhari.md).<sup id="cite_ref-Children_1-1" class="reference"><a href="#cite_note-Children-1">[1]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+[Christopher Tolkien](../C/Christopher_Tolkien.md) gợi ý rằng *Vidugavia* là cách viết Latinh hóa của tên [Gothic](../G/Gothic.md) *Widugauja*, có nghĩa là "người sống trong rừng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+[Jim Allan](../J/Jim_Allan.md) đề xuất rằng tên này là sự kết hợp của các yếu tố *vidu* ("gỗ", "rừng") và *gavia* ("một trong một quận"). Phần tử *gavi* có nghĩa là quận, vì vậy *gavia* có thể có nghĩa là "chúa" (theo nghĩa là lãnh chúa của một quận) hoặc đơn giản là "người" (theo nghĩa là một người đồng hương). Tên này có thể được dịch là "Chúa tể rừng" hoặc "Người rừng". Tên xuất hiện dưới các dạng *Witugouwo*, *Witicho*, *Witege* hoặc *Wittich* trong văn học Đức là tên con trai của Weland Smith.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+
+Tên Gothic *Widugauja* không xuất hiện trong các ghi chép lịch sử, nhưng *Vidigabius* là tên của một vị vua của người Alamanni từ thế kỷ thứ tư và theo <a class="extiw" href="http://en.wikipedia.org/wiki/Jordanes" title="wikipedia:Jordanes">Jordanes</a>, một nhà văn Đông La Mã từ thế kỷ thứ sáu, người được cho là gốc Gothic, *Vidigoia* là tên của một vị anh hùng già của người Goth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+
+## Phả hệ {#Genealogy}
+
+<div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
+<tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><b>VIDUGAVIA</b><br/><small><i>unknown</i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../R/Rómendacil_II.md" title="Rómendacil II">Rómendacil II</a><br/><small><i><a href="../T/Third_Age_1126.md" title="Third Age 1126">1126</a> - <a href="../T/Third_Age_1366.md" title="Third Age 1366">1366</a></i></small></td></tr><tr align="center"></tr>
+<tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 1em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 1em; height: 1em;"></div></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--bottom"><div style="width: 1em; height: 1em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"></td></tr><tr align="center"><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td colspan="2"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td></tr>
+<tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><i>children</i><br/><small><i>unknown</i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="Vidumavi.md" title="Vidumavi">Vidumavi</a><br/><small><i>d. <a href="../T/Third_Age_1332.md" title="Third Age 1332">1332</a></i></small></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom tg-familytree-connector--dotted"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="Valacar.md" title="Valacar">Valacar</a><br/><small><i><a href="../T/Third_Age_1194.md" title="Third Age 1194">1194</a> - <a href="../T/Third_Age_1432.md" title="Third Age 1432">1432</a></i></small></td></tr><tr align="center"><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td></tr>
+<tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" class="tg-familytree-connector tg-familytree-connector--right tg-familytree-connector--dotted"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"></td></tr><tr align="center"></tr>
+<tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" class="tg-familytree-connector tg-familytree-connector--right tg-familytree-connector--dotted"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a><br/><small><i><a href="../T/Third_Age_1255.md" title="Third Age 1255">1255</a> - <a href="../T/Third_Age_1490.md" title="Third Age 1490">1490</a></i></small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
+<tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../M/Marhari.md" title="Marhari">Marhari</a><br/><small><i>d. <a href="../T/Third_Age_1856.md" title="Third Age 1856">1856</a></i>†</small></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
+<tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" class="tg-familytree-connector tg-familytree-connector--right tg-familytree-connector--dotted"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2"><div style="width: 1em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"></td></tr><tr align="center"></tr>
+<tr align="center"><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a class="mw-redirect" href="../K/Kings_of_Rohan.md" title="Kings of Rohan"><i>Kings of<br/>Rohan</i></a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"></tr>
+</tbody></table></div>
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Children-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Children_1-0">1.0</a></sup> <sup><a href="#cite_ref-Children_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, &#34;Notes&#34;, Note 5, p. 311</span>
+</li>
+<li id="cite_note-Gondor-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Gondor_2-0">2.0</a></sup> <sup><a href="#cite_ref-Gondor_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The Númenorean Kings&#34;, &#34;Gondor and the Heirs of Anárion&#34;, entry for King Minalcar who took the name Rómendacil (II), p. 1046</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl and the Friendship of Gondor and Rohan</a>&#34;, &#34;Notes&#34;, Note 6, p. 311</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../J/Jim_Allan.md" title="Jim Allan">Jim Allan</a> (<a href="../_/1978.md" title="1978">1978</a>), <i><a href="../A/An_Introduction_to_Elvish.md" title="An Introduction to Elvish">An Introduction to Elvish</a></i>, pp. 189-190</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a>, Tolkienian Gothic, in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> &amp; <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a>, <a href="../T/The_Lord_of_the_Rings_1954-2004.md" title="The Lord of the Rings 1954-2004">The Lord of the Rings 1954-2004</a>: Scholarship in Honor of Richard E. Blackwelder, p. 268</span>
+</li>
+</ol></div>

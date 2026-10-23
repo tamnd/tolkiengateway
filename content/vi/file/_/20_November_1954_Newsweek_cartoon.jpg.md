@@ -1,0 +1,36 @@
+---
+title: "File:20 November 1954 Newsweek cartoon.jpg"
+page_id: 53726
+namespace: 6
+revision_id: 292074
+timestamp: "2017-02-19T21:41:53Z"
+source_url: "https://tolkiengateway.net/wiki/File:20_November_1954_Newsweek_cartoon.jpg"
+content_sha256: 301cd8bda6055bf41b39c8329d58fbe9ff659afbbdc9657ab9603495176dafd7
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Comics"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/c/c9/20_November_1954_Newsweek_cartoon.jpg"
+  mime: "image/jpeg"
+  size: 199596
+  width: 1093
+  height: 735
+  sha1: "12349e9d556ac1a9b697b535ac495276b9f27cc9"
+  timestamp: "2017-02-19T21:41:02Z"
+  user: "Morgan"
+---
+
+## Tóm tắt {#Summary}
+
+Ảnh chụp một dải [phim hoạt hình](../../main/T/Tolkien's_works_in_popular_media%252FComics.md) xuất hiện trong ấn bản ngày 29 tháng 11 năm 1954 của *Newsweek*.
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Jeremy Edmonds</span></span>
+<p>This work is copyrighted and owned by Jeremy Edmonds. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Jeremy Edmonds</li>
+<li><b><a href="../../project/C/Copyrights%252FJeremy_Edmonds.md" title="Tolkien Gateway:Copyrights/Jeremy Edmonds">Permission for use on Tolkien Gateway</a></b></li></ul></div>

@@ -1,0 +1,17 @@
+---
+title: "Category:Images by Shyangell"
+page_id: 42580
+namespace: 14
+revision_id: 224562
+timestamp: "2012-12-27T18:26:08Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_by_Shyangell"
+content_sha256: ebbd9b64934669857ffbc1533b2c2b55341acd0103a97806a83e2b8f46b9972e
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by artist"
+sort_keys:
+  "Images by artist": "Shyangell"
+---
+
+Thể loại này liệt kê tất cả **hình ảnh của Shyangell**.

@@ -1,0 +1,36 @@
+---
+title: "File:Aragorn's Quest - Uruk Hai2.jpg"
+page_id: 29051
+namespace: 6
+revision_id: 169334
+timestamp: "2011-08-26T13:55:37Z"
+source_url: "https://tolkiengateway.net/wiki/File:Aragorn's_Quest_-_Uruk_Hai2.jpg"
+content_sha256: 4a554ee7a02b226cdc3f7b58da44c9dd7c6e1f8173a98f9c1e630e87441062ce
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from The Lord of the Rings: Aragorn's Quest"
+  - "Images of the Battle of the Pelennor Fields"
+  - "Images of Uruk-hai"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/3/30/Aragorn%27s_Quest_-_Uruk_Hai2.jpg"
+  mime: "image/jpeg"
+  size: 1343013
+  width: 1920
+  height: 1180
+  sha1: "ee2c6f797493ab57b801f4e6e45557bb04dba77a"
+  timestamp: "2010-09-29T00:18:25Z"
+  user: "Mith"
+---
+
+[Aragorn](../../main/A/Aragorn.md) đấu với [uruk](../../main/U/Uruk-hai.md) tại [Trận chiến trên Cánh đồng Pelennor](../../main/B/Battle_of_the_Pelennor_Fields.md).
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.warnerbros.com/" rel="noreferrer noopener" target="_blank">Warner Bros.</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

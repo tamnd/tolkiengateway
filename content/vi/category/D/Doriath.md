@@ -1,0 +1,19 @@
+---
+title: "Category:Doriath"
+page_id: 35001
+namespace: 14
+revision_id: 278126
+timestamp: "2015-08-25T00:59:42Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Doriath"
+content_sha256: 9820cd24348f57e522410f0b3ce8467f18312e3c71b878d35f3caf52cfafb06c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Ainur realms"
+  - "Beleriand"
+  - "Elven realms"
+images:
+  - "CdxIconArticle.svg"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../../main/D/Doriath.md" title="Doriath">Doriath</a></b></div></div>

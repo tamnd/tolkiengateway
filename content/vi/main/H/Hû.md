@@ -1,0 +1,34 @@
+---
+title: "Hû"
+display_title: "hû"
+page_id: 50859
+namespace: 0
+revision_id: 410926
+timestamp: "2024-10-21T05:08:01Z"
+source_url: "https://tolkiengateway.net/wiki/Hû"
+content_sha256: 7435112f5d6f7ff8f22bde271fafae59612e4932e59ad6ea6e0a206ba1a2d829
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Sindarin nouns"
+  - "Sourceless"
+---
+
+<i><b>hû</b></i> là danh từ [Sindarin](../S/Sindarin.md), có nghĩa là "linh hồn, bóng tối".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+
+## Ví dụ {#Examples}
+
+- *[Huorn](Huorn.md) = "*Tall tree*"*
+- [Hûr](Hûr.md) = "Tinh thần bốc lửa"
+- *[Húrin](Húrin.md)*
+
+## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+
+Trong [Noldorin](../N/Noldorin.md) nó có nghĩa là "[con chó](../D/Dog.md)"; số nhiều là *hui*.<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;Words, Phrases and Passages in Various Tongues in <i>The Lord of the Rings</i>&#34;, in <a href="../P/Parma_Eldalamberon_17.md" title="Parma Eldalamberon 17"><i>Parma Eldalamberon</i> XVII</a> (edited by <a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a>), p. 86</span>
+</li>
+</ol></div>

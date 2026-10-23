@@ -1,0 +1,27 @@
+---
+title: "Cyril Ritchard"
+page_id: 9708
+namespace: 0
+revision_id: 405158
+timestamp: "2024-08-23T02:49:03Z"
+source_url: "https://tolkiengateway.net/wiki/Cyril_Ritchard"
+content_sha256: 185d9096a80185cb3741d210f6a803ac37c8c7b98cf8121ce38b50c7f3d8181d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Actors and actresses"
+  - "Australian people"
+  - "People by name"
+  - "The Hobbit (1977 film) cast"
+sort_keys:
+  "Actors and actresses": "Ritchard, Cyril"
+  "Australian people": "Ritchard, Cyril"
+  "People by name": "Ritchard, Cyril"
+  "The Hobbit (1977 film) cast": "Ritchard, Cyril"
+---
+
+**Cyril Ritchard** (1898 – 1977) là một diễn viên và đạo diễn kỳ cựu. Anh ấy là người lồng tiếng cho [Elrond](../E/Elrond.md) trong phiên bản hoạt hình [Rankin/Bass](../R/Rankin%252FBass.md) của *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*.
+
+## Liên kết ngoài {#External_links}
+
+- <a class="external text" href="http://www.imdb.com/name/nm0728509/" rel="noreferrer noopener" target="_blank">Cyril Ritchard</a> tại IMDb

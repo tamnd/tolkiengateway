@@ -1,0 +1,13 @@
+---
+title: "June 22"
+page_id: 34102
+namespace: 0
+revision_id: 156305
+source_url: "https://tolkiengateway.net/wiki/June_22"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "22 June"
+---
+
+Chuyển hướng đến [22 tháng 6](../_/22_June.md).

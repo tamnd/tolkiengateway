@@ -1,0 +1,68 @@
+---
+title: "The Council Of Elrond (soundtrack)"
+display_title: "The Council Of Elrond <span style=\"font-size:0.7em\">(soundtrack)</span>"
+page_id: 19340
+namespace: 0
+revision_id: 401767
+timestamp: "2024-07-14T19:02:03Z"
+source_url: "https://tolkiengateway.net/wiki/The_Council_Of_Elrond_(soundtrack)"
+content_sha256: 84ca737a753105600201658c4a80715da1dc30b28422b19d553abd7df96f4231
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"
+sort_keys:
+  "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack": "10"
+images:
+  - "The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg"
+  - "CdxIconArticleDisambiguation.svg"
+infobox:
+  - label: "Album"
+    value: "The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack"
+  - label: "Composed by"
+    value: "Howard Shore"
+  - label: "Performed by"
+    value: "London Philharmonic Orchestra, Enya"
+  - label: "Duration"
+    value: "3:49"
+  - label: "Track No."
+    value: "10"
+  - label: "Previous"
+    value: "Many Meetings"
+  - label: "Next"
+    value: "The Ring Goes South"
+---
+
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Council of Elrond</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Council_of_Elrond_(disambiguation).md" title="The Council of Elrond (disambiguation)">The Council of Elrond (disambiguation)</a></b>.</div></div>
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.jpg 2x" data-file-width="1000" data-file-height="997"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Council of Elrond</span></th></tr><tr><td colspan="2" class="tg-infobox-subtitle"><i>Featuring &#34;Aníron&#34; (Theme For Aragorn And Arwen)&#34; Composed &amp; performed by ENYA</i></td></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/London_Philharmonic_Orchestra" title="wikipedia:London Philharmonic Orchestra">London Philharmonic Orchestra</a>, <a href="../E/Enya.md" title="Enya">Enya</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:49</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">10</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../M/Many_Meetings_(soundtrack).md" title="Many Meetings (soundtrack)">Many Meetings</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="The_Ring_Goes_South_(soundtrack).md" title="The Ring Goes South (soundtrack)">The Ring Goes South</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/3Knohqfb9jeYzL6wMZiWLM"></iframe></span>
+<p class="mw-empty-elt"></p>
+</figure></td></tr></tbody></table>
+
+**Bài Hội đồng của Elrond** là bài hát thứ mười trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Trong đó có bài hát "[Aníron](../A/Aníron.md) (Theme For Aragorn And Arwen)" do [Enya](../E/Enya.md) sáng tác và trình bày.
+
+## Lời bài hát {#Lyrics}
+
+<div class="poem">
+<p>O mór henion i dhû:<br/>
+Ely siriar, êl síla<br/>
+Ai! Aníron Undómiel<br/>
+<br/>
+Tiro! Êl eria e mór.<br/>
+I &#39;lîr en êl luitha &#39;uren.<br/>
+Ai! Aníron...
+</p>
+</div>
+
+## Bản dịch {#Translation}
+
+<div class="poem">
+<p>From darkness I understand the night:<br/>
+dreams flow, a star shines<br/>
+Ah! I desire Evenstar<br/>
+<br/>
+Look! A star rises out of the darkness<br/>
+The song of the star enchants my heart<br/>
+Ah! I desire...
+</p>
+</div>

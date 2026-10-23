@@ -1,0 +1,117 @@
+---
+title: "The Tolkien Calendar 1993"
+display_title: "<i>The Tolkien Calendar 1993</i>"
+page_id: 6641
+namespace: 0
+revision_id: 435015
+timestamp: "2026-02-16T01:24:15Z"
+source_url: "https://tolkiengateway.net/wiki/The_Tolkien_Calendar_1993"
+content_sha256: 626e4591a75897360e398032b76c1395cda76e079f001b516ac4ad10aff9855d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Official calendars"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+sort_keys:
+  "Official calendars": "1993"
+images:
+  - "The_Tolkien_Calendar_1993.jpg"
+  - "The_Tolkien_Calendar_1993_(French).jpg"
+  - "The_Tolkien_Calendar_1993_(German).jpg"
+infobox:
+  - label: "Illustrator"
+    value: "Alan Lee"
+  - label: "Publisher"
+    value: "Grafton (UK)"
+  - label: "Released"
+    value: "9 July 1992"
+  - label: "Format"
+    value: "Wire-bound calendar with mailer"
+  - label: "Pages"
+    value: "14"
+  - label: "ISBN"
+    value: "0-261-10247-8"
+  - label: "Preceded by"
+    value: "Tolkien - The Centenary Calendar 1992"
+  - label: "Followed by"
+    value: "J.R.R. Tolkien Calendar 1994"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1993.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9e/The_Tolkien_Calendar_1993.jpg" decoding="async" loading="lazy" width="315" height="350" class="mw-file-element" data-file-width="315" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Tolkien Calendar 1993</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../G/Grafton.md" title="Grafton">Grafton</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_July.md" title="9 July">9 July</a> <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">14</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10247-8" title="Special:BookSources/0-261-10247-8">0-261-10247-8</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_-_The_Centenary_Calendar_1992.md" title="Tolkien - The Centenary Calendar 1992">Tolkien - The Centenary Calendar 1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien_Calendar_1994.md" title="J.R.R. Tolkien Calendar 1994">J.R.R. Tolkien Calendar 1994</a></td></tr></tbody></table>
+
+<i><b>Lịch Tolkien 1993</b></i> là lịch Tolkien chính thức được xuất bản bởi [Grafton](../G/Grafton.md) vào [9 tháng 7](../_/9_July.md) [1992](../_/1992.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+
+## Minh họa {#Illustrations}
+
+- Bìa - "[Orc trên Đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
+- Tháng 1 - "[Frodo và Gandalf](../../file/A/Alan_Lee_-_The_Shadow_of_the_Past.jpg.md)"
+- Tháng 2 - "[Kỵ sĩ bóng tối](../../file/A/Alan_Lee_-_Black_Riders.jpg.md)"
+- Tháng 3 - "[Rivendell](../../file/A/Alan_Lee_-_Rivendell.jpg.md)"
+- Tháng 4 - "[Galadriel Tấm gương của](../../file/A/Alan_Lee_-_The_Mirror_of_Galadriel.jpg.md)"
+- Tháng 5 - "[Tol Brandir](../../file/A/Alan_Lee_-_Tol_Brandir.jpg.md)"
+- Tháng 6 - "[Treebeard](../../file/A/Alan_Lee_-_Treebeard.jpg.md)"
+- Tháng 7 - "[Sảnh Vàng](../../file/A/Alan_Lee_-_Edoras.jpg.md)"
+- Tháng 8 - "[ Trận Hornburg](../../file/A/Alan_Lee_-_The_Battle_of_the_Hornburg.jpg.md)"
+- tháng Chín - "[Oliphaunt](../../file/A/Alan_Lee_-_Oliphaunt.jpg.md)"
+- Tháng 10 - "[Shelob](../../file/A/Alan_Lee_-_Shelob.jpg.md)"
+- Tháng 11 - "[Ngày Cuộc vây hãm Gondor](../../file/A/Alan_Lee_-_The_Siege_of_Gondor.jpg.md)"
+- Tháng 12 - "[Orc Trên Đường](../../file/A/Alan_Lee_-_Orcs_on_the_Road.jpg.md)"
+
+## Biến thể {#Variants}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 215px">
+			<div class="thumb" style="width: 210px; height: 210px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1993_(French).jpg.md" title="Le Calendrier Tolkien 1993 Language: French Publisher: Hexagonal"><img alt="Le Calendrier Tolkien 1993 Language: French Publisher: Hexagonal" src="https://tolkiengateway.net/w/images/thumb/4/40/The_Tolkien_Calendar_1993_%28French%29.jpg/162px-The_Tolkien_Calendar_1993_%28French%29.jpg" decoding="async" loading="lazy" width="162" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/The_Tolkien_Calendar_1993_%28French%29.jpg/243px-The_Tolkien_Calendar_1993_%28French%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/40/The_Tolkien_Calendar_1993_%28French%29.jpg/325px-The_Tolkien_Calendar_1993_%28French%29.jpg 2x" data-file-width="451" data-file-height="500"/></a></span></div>
+			<div class="gallerytext">
+<p><i><b>Le Calendrier Tolkien 1993</b></i><br/>Language: French<br/>Publisher: Hexagonal
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 215px">
+			<div class="thumb" style="width: 210px; height: 210px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Tolkien_Calendar_1993_(German).jpg.md" title="Tolkien Kalender 1993 Language: German Publisher: Laurin"><img alt="Tolkien Kalender 1993 Language: German Publisher: Laurin" src="https://tolkiengateway.net/w/images/thumb/9/94/The_Tolkien_Calendar_1993_%28German%29.jpg/161px-The_Tolkien_Calendar_1993_%28German%29.jpg" decoding="async" loading="lazy" width="161" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/94/The_Tolkien_Calendar_1993_%28German%29.jpg/241px-The_Tolkien_Calendar_1993_%28German%29.jpg 1.5x, https://tolkiengateway.net/w/images/9/94/The_Tolkien_Calendar_1993_%28German%29.jpg 2x" data-file-width="313" data-file-height="350"/></a></span></div>
+			<div class="gallerytext">
+<p><i><b>Tolkien Kalender 1993</b></i><br/>Language: German<br/>Publisher: Laurin
+</p>
+			</div>
+		</li>
+</ul>
+
+## Xem thêm {#See_also}
+
+- *[The 1993 J.R.R. Tolkien Calendar](The_1993_J.R.R._Tolkien_Calendar.md)*, xuất bản tại Mỹ
+
+## Liên kết ngoài {#External_links}
+
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94250" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1993</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
+
+<table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
+<tbody><tr>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3">Official Tolkien calendars
+</th></tr>
+<tr style="font-size: 90%">
+<th style="background:var(--tg-color-surface-4)" rowspan="2">1973-1994
+</th>
+<th style="background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">UK
+</th>
+<td><span style="color: lightgray;">1973</span> · <a href="The_J.R.R._Tolkien_Calendar_1974_(UK).md" title="The J.R.R. Tolkien Calendar 1974 (UK)">1974</a> · <span style="color: lightgray;">1975</span> · <a href="The_Hobbit_Calendar_1976.md" title="The Hobbit Calendar 1976">1976</a> · <a href="The_Lord_of_the_Rings_1977_Calendar.md" title="The Lord of the Rings 1977 Calendar">1977</a> · <a href="The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">1978</a> · <a href="../J/J.R.R._Tolkien_Calendar_1979.md" title="J.R.R. Tolkien Calendar 1979">1979</a> · <span style="color: lightgray;">1980</span> · <span style="color: lightgray;">1981</span> · <span style="color: lightgray;">1982</span> · <span style="color: lightgray;">1983</span> · <a href="The_J.R.R._Tolkien_Calendar_1984.md" title="The J.R.R. Tolkien Calendar 1984">1984</a> · <a href="Tolkien_Calendar_1985.md" title="Tolkien Calendar 1985">1985</a> · <a href="The_1986_Tolkien_Calendar.md" title="The 1986 Tolkien Calendar">1986</a> · <a href="The_Tolkien_Calendar_1987.md" title="The Tolkien Calendar 1987">1987</a> · <a href="The_Tolkien_Calendar_1988.md" title="The Tolkien Calendar 1988">1988</a> · <a href="The_Tolkien_Calendar_1989.md" title="The Tolkien Calendar 1989">1989</a> · <a href="Tolkien_Calendar_1990.md" title="Tolkien Calendar 1990">1990</a> · <a href="The_Tolkien_Calendar_1991.md" title="The Tolkien Calendar 1991">1991</a> · <a href="Tolkien_-_The_Centenary_Calendar_1992.md" title="Tolkien - The Centenary Calendar 1992">1992</a> · <a class="mw-selflink selflink">1993</a> · <a href="../J/J.R.R._Tolkien_Calendar_1994.md" title="J.R.R. Tolkien Calendar 1994">1994</a>
+</td></tr>
+<tr style="font-size: 90%">
+<th style="background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">US
+</th>
+<td><a href="The_J.R.R._Tolkien_Calendar_1973.md" title="The J.R.R. Tolkien Calendar 1973">1973</a> · <a href="The_J.R.R._Tolkien_Calendar_1974.md" title="The J.R.R. Tolkien Calendar 1974">1974</a> · <a href="The_J.R.R._Tolkien_Calendar_1975.md" title="The J.R.R. Tolkien Calendar 1975">1975</a> · <a href="../_/1976_J.R.R._Tolkien_Calendar.md" title="1976 J.R.R. Tolkien Calendar">1976</a> · <a href="../_/1977_J.R.R._Tolkien_Calendar.md" title="1977 J.R.R. Tolkien Calendar">1977</a> · <a href="../_/1978_J.R.R._Tolkien_Calendar.md" title="1978 J.R.R. Tolkien Calendar">1978</a> · <span style="color: lightgray;">1979</span> · <a href="The_1980_J.R.R._Tolkien_Calendar.md" title="The 1980 J.R.R. Tolkien Calendar">1980</a> · <a href="The_1981_J.R.R._Tolkien_Calendar.md" title="The 1981 J.R.R. Tolkien Calendar">1981</a> · <a href="The_1982_J.R.R._Tolkien_Calendar.md" title="The 1982 J.R.R. Tolkien Calendar">1982</a> · <span style="color: lightgray;">1983</span> · <a href="The_1984_J.R.R._Tolkien_Calendar.md" title="The 1984 J.R.R. Tolkien Calendar">1984</a> · <a href="The_1985_J.R.R._Tolkien_Calendar.md" title="The 1985 J.R.R. Tolkien Calendar">1985</a> · <a href="The_1986_J.R.R._Tolkien_Calendar.md" title="The 1986 J.R.R. Tolkien Calendar">1986</a> · <a href="The_1987_J.R.R._Tolkien_Calendar.md" title="The 1987 J.R.R. Tolkien Calendar">1987</a> · <a href="The_1988_J.R.R._Tolkien_Calendar.md" title="The 1988 J.R.R. Tolkien Calendar">1988</a> · <a href="The_1989_J.R.R._Tolkien_Calendar.md" title="The 1989 J.R.R. Tolkien Calendar">1989</a> · <a href="The_1990_J.R.R._Tolkien_Calendar.md" title="The 1990 J.R.R. Tolkien Calendar">1990</a> · <a href="The_1991_J.R.R._Tolkien_Calendar.md" title="The 1991 J.R.R. Tolkien Calendar">1991</a> · <a href="The_1992_J.R.R._Tolkien_Calendar.md" title="The 1992 J.R.R. Tolkien Calendar">1992</a> · <a href="The_1993_J.R.R._Tolkien_Calendar.md" title="The 1993 J.R.R. Tolkien Calendar">1993</a> · <a href="The_1994_J.R.R._Tolkien_Calendar.md" title="The 1994 J.R.R. Tolkien Calendar">1994</a>
+</td></tr>
+<tr style="font-size: 90%; font-weight: normal;">
+<th style="background:var(--tg-color-surface-4)">1995-2026
+</th>
+<td colspan="2"><a href="../J/J.R.R._Tolkien_Calendar_1995.md" title="J.R.R. Tolkien Calendar 1995">1995</a> · <a href="../J/J.R.R._Tolkien_Calendar_1996.md" title="J.R.R. Tolkien Calendar 1996">1996</a> · <a href="Tolkien_Calendar_1997.md" title="Tolkien Calendar 1997">1997</a> · <a href="Tolkien_Calendar_1998.md" title="Tolkien Calendar 1998">1998</a> · <a href="Tolkien_Calendar_1999.md" title="Tolkien Calendar 1999">1999</a> · <a href="Tolkien_Calendar_2000.md" title="Tolkien Calendar 2000">2000</a> · <a href="Tolkien_Calendar_2001.md" title="Tolkien Calendar 2001">2001</a> · <a href="Tolkien_Calendar_2002.md" title="Tolkien Calendar 2002">2002</a> · <a href="Tolkien_Calendar_2003.md" title="Tolkien Calendar 2003">2003</a> · <a href="Tolkien_Calendar_2004.md" title="Tolkien Calendar 2004">2004</a> · <a href="Tolkien_Calendar_2005.md" title="Tolkien Calendar 2005">2005</a> · <a href="Tolkien_Calendar_2006.md" title="Tolkien Calendar 2006">2006</a> · <a href="Tolkien_Calendar_2007.md" title="Tolkien Calendar 2007">2007</a> · <a href="Tolkien_Calendar_2008.md" title="Tolkien Calendar 2008">2008</a> · <a href="Tolkien_Calendar_2009.md" title="Tolkien Calendar 2009">2009</a> · <a href="Tolkien_Calendar_2010.md" title="Tolkien Calendar 2010">2010</a> · <a href="Tolkien_Calendar_2011.md" title="Tolkien Calendar 2011">2011</a> · <a href="Tolkien_Calendar_2012.md" title="Tolkien Calendar 2012">2012</a> · <a href="Tolkien_Calendar_2013.md" title="Tolkien Calendar 2013">2013</a> · <a href="Tolkien_Calendar_2014.md" title="Tolkien Calendar 2014">2014</a> · <a href="Tolkien_Calendar_2015.md" title="Tolkien Calendar 2015">2015</a> · <a href="Tolkien_Calendar_2016.md" title="Tolkien Calendar 2016">2016</a> · <a href="Tolkien_Calendar_2017.md" title="Tolkien Calendar 2017">2017</a> · <a href="Tolkien_Calendar_2018.md" title="Tolkien Calendar 2018">2018</a> · <a href="Tolkien_Calendar_2019.md" title="Tolkien Calendar 2019">2019</a> · <a href="Tolkien_Calendar_2020.md" title="Tolkien Calendar 2020">2020</a> · <a href="Tolkien_Calendar_2021.md" title="Tolkien Calendar 2021">2021</a> · <a href="Tolkien_Calendar_2022.md" title="Tolkien Calendar 2022">2022</a> · <a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a> · <a href="Tolkien_Calendar_2024.md" title="Tolkien Calendar 2024">2024</a> · <a href="Tolkien_Calendar_2025.md" title="Tolkien Calendar 2025">2025</a> · <a href="Tolkien_Calendar_2026.md" title="Tolkien Calendar 2026">2026</a> · <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>
+</td></tr></tbody></table>
+
+<table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
+<tbody><tr>
+<th align="center" style="background:var(--tg-color-surface-5)">Illustrators of <a href="../../category/O/Official_calendars.md" title="Category:Official calendars">official Tolkien calendars</a>
+</th></tr>
+<tr>
+<td style="font-size: 90%" align="center"><a href="../E/Emily_Austin.md" title="Emily Austin">Emily Austin</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a> (<a href="The_J.R.R._Tolkien_Calendar_1973.md" title="The J.R.R. Tolkien Calendar 1973">1973</a>, <a href="The_J.R.R._Tolkien_Calendar_1974_(UK).md" title="The J.R.R. Tolkien Calendar 1974 (UK)">1974</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../C/Cor_Blok.md" title="Cor Blok">Cor Blok</a> (<a href="Tolkien_Calendar_2011.md" title="Tolkien Calendar 2011">2011</a>, <a href="Tolkien_Calendar_2012.md" title="Tolkien Calendar 2012">2012</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../J/Jemima_Catlin.md" title="Jemima Catlin">Jemima Catlin</a> (<a href="Tolkien_Calendar_2014.md" title="Tolkien Calendar 2014">2014</a>) · <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a> (<a href="Tolkien_Calendar_1985.md" title="Tolkien Calendar 1985">1985</a>) · <a href="../M/Mary_Fairburn.md" title="Mary Fairburn">Mary Fairburn</a> (<a href="Tolkien_Calendar_2015.md" title="Tolkien Calendar 2015">2015</a>) · <a href="../E/Eric_Fraser.md" title="Eric Fraser">Eric Fraser</a> (<a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (<a href="The_J.R.R._Tolkien_Calendar_1984.md" title="The J.R.R. Tolkien Calendar 1984">1984</a>, <a href="The_Tolkien_Calendar_1987.md" title="The Tolkien Calendar 1987">1987</a>, <a href="The_Tolkien_Calendar_1988.md" title="The Tolkien Calendar 1988">1988</a>, <a href="The_Tolkien_Calendar_1989.md" title="The Tolkien Calendar 1989">1989</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../S/Spiros_Gelekas.md" title="Spiros Gelekas">Spiros Gelekas</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../J/Justin_Gerard.md" title="Justin Gerard">Justin Gerard</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../M/Michael_Hague.md" title="Michael Hague">Michael Hague</a> (<a href="The_1986_J.R.R._Tolkien_Calendar.md" title="The 1986 J.R.R. Tolkien Calendar">1986</a>) · <a href="The_Brothers_Hildebrandt.md" title="The Brothers Hildebrandt">The Brothers Hildebrandt</a> (<a href="../_/1976_J.R.R._Tolkien_Calendar.md" title="1976 J.R.R. Tolkien Calendar">1976</a> US, <a href="../_/1977_J.R.R._Tolkien_Calendar.md" title="1977 J.R.R. Tolkien Calendar">1977</a> US, <a href="../_/1978_J.R.R._Tolkien_Calendar.md" title="1978 J.R.R. Tolkien Calendar">1978</a> US) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (<a href="The_Tolkien_Calendar_1987.md" title="The Tolkien Calendar 1987">1987</a>, <a href="The_Tolkien_Calendar_1988.md" title="The Tolkien Calendar 1988">1988</a>, <a href="The_Tolkien_Calendar_1991.md" title="The Tolkien Calendar 1991">1991</a>, <a href="../J/J.R.R._Tolkien_Calendar_1995.md" title="J.R.R. Tolkien Calendar 1995">1995</a>, <a href="Tolkien_Calendar_1997.md" title="Tolkien Calendar 1997">1997</a>, <a href="Tolkien_Calendar_2001.md" title="Tolkien Calendar 2001">2001</a>, <a href="Tolkien_Calendar_2013.md" title="Tolkien Calendar 2013">2013</a>, <a href="Tolkien_Calendar_2021.md" title="Tolkien Calendar 2021">2021</a>, <a href="Tolkien_Calendar_2025.md" title="Tolkien Calendar 2025">2025</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="Tove_Jansson.md" title="Tove Jansson">Tove Jansson</a> (<a href="Tolkien_Calendar_2016.md" title="Tolkien Calendar 2016">2016</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../M/Michael_Kaluta.md" title="Michael Kaluta">Michael Kaluta</a> (<a href="../J/J.R.R._Tolkien_Calendar_1994.md" title="J.R.R. Tolkien Calendar 1994">1994</a>) · <a href="Tim_Kirk.md" title="Tim Kirk">Tim Kirk</a> (<a href="The_J.R.R._Tolkien_Calendar_1975.md" title="The J.R.R. Tolkien Calendar 1975">1975</a>) · <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> (<a href="The_Tolkien_Calendar_1987.md" title="The Tolkien Calendar 1987">1987</a>, <a class="mw-selflink selflink">1993</a>, <a href="Tolkien_Calendar_1999.md" title="Tolkien Calendar 1999">1999</a>, <a href="Tolkien_Calendar_2007.md" title="Tolkien Calendar 2007">2007</a>, <a href="Tolkien_Calendar_2008.md" title="Tolkien Calendar 2008">2008</a>, <a href="Tolkien_Calendar_2013.md" title="Tolkien Calendar 2013">2013</a>, <a href="Tolkien_Calendar_2018.md" title="Tolkien Calendar 2018">2018</a>, <a href="Tolkien_Calendar_2019.md" title="Tolkien Calendar 2019">2019</a>, <a href="Tolkien_Calendar_2020.md" title="Tolkien Calendar 2020">2020</a>, <a href="Tolkien_Calendar_2021.md" title="Tolkien Calendar 2021">2021</a>, <a href="Tolkien_Calendar_2024.md" title="Tolkien Calendar 2024">2024</a>, <a href="Tolkien_Calendar_2026.md" title="Tolkien Calendar 2026">2026</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (<a href="The_Tolkien_Calendar_1987.md" title="The Tolkien Calendar 1987">1987</a>, <a href="The_Tolkien_Calendar_1988.md" title="The Tolkien Calendar 1988">1988</a>, <a href="Tolkien_Calendar_1990.md" title="Tolkien Calendar 1990">1990</a>, <a href="Tolkien_-_The_Centenary_Calendar_1992.md" title="Tolkien - The Centenary Calendar 1992">1992</a>, <a href="../J/J.R.R._Tolkien_Calendar_1996.md" title="J.R.R. Tolkien Calendar 1996">1996</a>, <a href="Tolkien_Calendar_2000.md" title="Tolkien Calendar 2000">2000</a>, <a href="Tolkien_Calendar_2002.md" title="Tolkien Calendar 2002">2002</a>, <a href="Tolkien_Calendar_2003.md" title="Tolkien Calendar 2003">2003</a>, <a href="Tolkien_Calendar_2004.md" title="Tolkien Calendar 2004">2004</a>, <a href="Tolkien_Calendar_2009.md" title="Tolkien Calendar 2009">2009</a>, <a href="Tolkien_Calendar_2010.md" title="Tolkien Calendar 2010">2010</a>, <a href="Tolkien_Calendar_2021.md" title="Tolkien Calendar 2021">2021</a>, <a href="Tolkien_Calendar_2022.md" title="Tolkien Calendar 2022">2022</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>) · <a href="../K/Kip_Rasmussen.md" title="Kip Rasmussen">Kip Rasmussen</a> (<a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">2023</a>) · <a href="../D/Darrell_Sweet.md" title="Darrell Sweet">Darrell Sweet</a> (<a href="The_1982_J.R.R._Tolkien_Calendar.md" title="The 1982 J.R.R. Tolkien Calendar">1982</a>) · <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (<a href="The_J.R.R._Tolkien_Calendar_1973.md" title="The J.R.R. Tolkien Calendar 1973">1973</a>, <a href="The_J.R.R._Tolkien_Calendar_1974_(UK).md" title="The J.R.R. Tolkien Calendar 1974 (UK)">1974</a>, <a href="The_Hobbit_Calendar_1976.md" title="The Hobbit Calendar 1976">1976</a> UK, <a href="The_Lord_of_the_Rings_1977_Calendar.md" title="The Lord of the Rings 1977 Calendar">1977</a> UK, <a href="The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">1978</a> UK, <a href="../J/J.R.R._Tolkien_Calendar_1979.md" title="J.R.R. Tolkien Calendar 1979">1979</a>, <a href="Tolkien_Calendar_2005.md" title="Tolkien Calendar 2005">2005</a>, <a href="Tolkien_Calendar_2006.md" title="Tolkien Calendar 2006">2006</a>, <a href="Tolkien_Calendar_2017.md" title="Tolkien Calendar 2017">2017</a>, <a href="Tolkien_Calendar_2027.md" title="Tolkien Calendar 2027">2027</a>)
+</td></tr></tbody></table>

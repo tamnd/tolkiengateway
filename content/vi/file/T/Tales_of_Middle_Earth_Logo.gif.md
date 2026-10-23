@@ -1,0 +1,36 @@
+---
+title: "File:Tales of Middle Earth Logo.gif"
+page_id: 66497
+namespace: 6
+revision_id: 384207
+timestamp: "2023-12-27T23:51:57Z"
+source_url: "https://tolkiengateway.net/wiki/File:Tales_of_Middle_Earth_Logo.gif"
+content_sha256: 8f54df043ea9cefe1c9742778660da8e126a91045e1fe4a01ac2728bb2df76f9
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/3/37/Tales_of_Middle_Earth_Logo.gif"
+  mime: "image/gif"
+  size: 10117
+  width: 300
+  height: 100
+  sha1: "272a9834e84978cb45b352aa63457c778cbda5af"
+  timestamp: "2023-12-27T23:49:03Z"
+  user: "PaneledBark4"
+---
+
+## Tóm tắt {#Summary}
+
+Logo của trò chơi roguelike "Tales of Middle Earth" (viết tắt là ToME) được tìm thấy trên trang web chính thức.
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by Nicolas Casalini (<a class="external free" href="https://twitter.com/darkgodone" rel="noreferrer noopener" target="_blank">https://twitter.com/darkgodone</a>). It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

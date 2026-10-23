@@ -1,0 +1,13 @@
+---
+title: "Following Gandalf: Epic Battles and Moral Victory in the Lord of the Rings"
+page_id: 64469
+namespace: 0
+revision_id: 369949
+source_url: "https://tolkiengateway.net/wiki/Following_Gandalf:_Epic_Battles_and_Moral_Victory_in_the_Lord_of_the_Rings"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Following Gandalf: Epic Battles and Moral Victory in The Lord of the Rings"
+---
+
+Chuyển hướng tới [Phần tiếp theo Gandalf: Những trận chiến lịch sử và chiến thắng đạo đức trong The Lord of the Rings](Following_Gandalf%253A_Epic_Battles_and_Moral_Victory_in_The_Lord_of_the_Rings.md).

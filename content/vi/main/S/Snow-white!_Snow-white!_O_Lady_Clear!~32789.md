@@ -1,0 +1,13 @@
+---
+title: "Snow-white! Snow-white! O Lady Clear!"
+page_id: 32789
+namespace: 0
+revision_id: 408196
+source_url: "https://tolkiengateway.net/wiki/Snow-white!_Snow-white!_O_Lady_Clear!"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Snow-white! Snow-white! O Lady clear!"
+---
+
+Chuyển hướng đến [Bạch Tuyết! Bạch Tuyết! Ôi Bà rõ ràng!](Snow-white!_Snow-white!_O_Lady_clear!.md).

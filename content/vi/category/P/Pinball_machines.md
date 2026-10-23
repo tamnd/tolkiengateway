@@ -1,0 +1,15 @@
+---
+title: "Category:Pinball machines"
+page_id: 70085
+namespace: 14
+revision_id: 421707
+timestamp: "2025-07-01T12:30:13Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Pinball_machines"
+content_sha256: 8b4fb9f0d927961ee11f2b33ef58b339b342aa31fe9c245c31e130ab5e64493c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Games"
+---
+
+Thể loại này liệt kê tất cả các máy pinball liên quan đến công việc của J.R.R. Tolkien.

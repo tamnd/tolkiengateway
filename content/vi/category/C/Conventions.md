@@ -1,0 +1,16 @@
+---
+title: "Category:Conventions"
+page_id: 5519
+namespace: 14
+revision_id: 191767
+timestamp: "2012-04-13T11:27:22Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Conventions"
+content_sha256: 8064bc9daa7469a5489a0c36d57bcb4fc624b342c0c4d5441383343e54b62826
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Events (real-world)"
+  - "Fandom"
+---
+
+Dưới đây là danh sách **quy ước** liên quan đến tác phẩm của [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md).

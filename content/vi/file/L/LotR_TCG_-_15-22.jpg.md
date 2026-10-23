@@ -1,0 +1,36 @@
+---
+title: "File:LotR TCG - 15-22.jpg"
+page_id: 12481
+namespace: 6
+revision_id: 249491
+timestamp: "2014-06-22T14:16:47Z"
+source_url: "https://tolkiengateway.net/wiki/File:LotR_TCG_-_15-22.jpg"
+content_sha256: b339071fd64473a516e3ed392d992d0e2e7e744740312782b8d219c0a879f9e4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of The Lord of the Rings Trading Card Game cards"
+  - "Images of Galadriel"
+  - "Images of the Mirror of Galadriel"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/1/19/LotR_TCG_-_15-22.jpg"
+  mime: "image/jpeg"
+  size: 56934
+  width: 357
+  height: 499
+  sha1: "d2ef8569e28689650828336e2def679598e24d33"
+  timestamp: "2006-09-13T22:15:58Z"
+  user: "Hyarion"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://www.decipher.com/" rel="noreferrer noopener" target="_blank">Decipher</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

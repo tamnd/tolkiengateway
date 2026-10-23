@@ -1,0 +1,79 @@
+---
+title: "18 June"
+page_id: 18771
+namespace: 0
+revision_id: 441547
+timestamp: "2026-08-22T15:45:35Z"
+source_url: "https://tolkiengateway.net/wiki/18_June"
+content_sha256: 0f0b27666548102dab716fbd2ef1cd48f4ab8de3e40a89a93e83687b1da0ccc5
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Event cards"
+  - "Dates"
+sort_keys:
+  "Dates": "168"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "18. Juni"
+    url: "https://www.ardapedia.org/wiki/18._Juni"
+  - lang: "fi"
+    name: "suomi"
+    title: "18. kesäkuuta"
+    url: "https://kontu.wiki/18._kes%C3%A4kuuta"
+images:
+  - "Priscilla_Tolkien_(cropped).jpg"
+---
+
+<div class="template-month floatright"><div class="tg-card tg-event-card" style=""><div class="tg-card-image"><div class="tg-card-background"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7e/Priscilla_Tolkien_%28cropped%29.jpg" decoding="async" loading="lazy" width="400" height="400" class="mw-file-element" data-file-width="400" data-file-height="400"/></span></span></div><div class="tg-card-label"><span><span class="tg-event-card-year">1929</span><span class="tg-event-card-month">JUN</span><span class="tg-event-card-day">18</span></span></div><div class="tg-card-content"><div class="tg-card-title">Priscilla Tolkien is born.</div><div class="tg-card-caption">On Earth</div></div><div class="tg-card-link"><a href="../P/Priscilla_Tolkien.md" title="Priscilla Tolkien">Priscilla Tolkien</a></div></div></div><div class="tg-button tg-button--primary plainlinks tg-event-card-button"><a class="external text" href="https://tolkiengateway.net/w/index.php?title=18_June/eventcard&amp;action=edit" rel="noreferrer noopener" target="_blank">Edit curated event</a></div><div class="tg-section-divider"><span><a href="../J/June.md" title="June">June</a></span></div>
+<div class="template-month__grid">
+<div class="template-month__day"><a href="1_June.md" title="1 June">1</a></div>
+<div class="template-month__day"><a href="2_June.md" title="2 June">2</a></div>
+<div class="template-month__day"><a href="3_June.md" title="3 June">3</a></div>
+<div class="template-month__day"><a href="4_June.md" title="4 June">4</a></div>
+<div class="template-month__day"><a href="5_June.md" title="5 June">5</a></div>
+<div class="template-month__day"><a href="6_June.md" title="6 June">6</a></div>
+<div class="template-month__day"><a href="7_June.md" title="7 June">7</a></div>
+<div class="template-month__day"><a href="8_June.md" title="8 June">8</a></div>
+<div class="template-month__day"><a href="9_June.md" title="9 June">9</a></div>
+<div class="template-month__day"><a href="10_June.md" title="10 June">10</a></div>
+<div class="template-month__day"><a href="11_June.md" title="11 June">11</a></div>
+<div class="template-month__day"><a href="12_June.md" title="12 June">12</a></div>
+<div class="template-month__day"><a href="13_June.md" title="13 June">13</a></div>
+<div class="template-month__day"><a href="14_June.md" title="14 June">14</a></div>
+<div class="template-month__day"><a href="15_June.md" title="15 June">15</a></div>
+<div class="template-month__day"><a href="16_June.md" title="16 June">16</a></div>
+<div class="template-month__day"><a href="17_June.md" title="17 June">17</a></div>
+<div class="template-month__day"><a class="mw-selflink selflink">18</a></div>
+<div class="template-month__day"><a href="19_June.md" title="19 June">19</a></div>
+<div class="template-month__day"><a href="20_June.md" title="20 June">20</a></div>
+<div class="template-month__day"><a href="21_June.md" title="21 June">21</a></div>
+<div class="template-month__day"><a href="22_June.md" title="22 June">22</a></div>
+<div class="template-month__day"><a href="23_June.md" title="23 June">23</a></div>
+<div class="template-month__day"><a href="24_June.md" title="24 June">24</a></div>
+<div class="template-month__day"><a href="25_June.md" title="25 June">25</a></div>
+<div class="template-month__day"><a href="26_June.md" title="26 June">26</a></div>
+<div class="template-month__day"><a href="27_June.md" title="27 June">27</a></div>
+<div class="template-month__day"><a href="28_June.md" title="28 June">28</a></div>
+<div class="template-month__day"><a href="29_June.md" title="29 June">29</a></div>
+<div class="template-month__day"><a href="30_June.md" title="30 June">30</a></div>
+</div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
+</div>
+
+Sự kiện xảy ra vào ngày 18 tháng 6
+
+## Trên Trái đất {#On_Earth}
+
+- **[1905](1905.md)** - Nữ diễn viên [Marjorie Westbury](../M/Marjorie_Westbury.md) ra đời.
+- **[1914](1914.md)** - [Câu lạc bộ Chequers](../C/Chequers_Clubbe.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)thành lập, gặp nhau để ăn tối.
+- **[1917](1917.md)** - Diễn viên [Richard Boone](../R/Richard_Boone.md) ra đời.
+- **[1929](1929.md)** - [Priscilla Tolkien](../P/Priscilla_Tolkien.md) ra đời.
+- **[1956](1956.md)** - Diễn viên [Dominic Guard](../D/Dominic_Guard.md) ra đời.
+- **[2002](2002.md)** - *[The Standard Deviants: Rings, Kings and Things](../T/The_Standard_Deviants%253A_Rings,_Kings_and_Things.md)* được phát hành.
+- <b><a href="2007.md" title="2007">2007</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a> tập 2: Trở về Bag-End</i> được xuất bản.</b>
+
+## Trong Arda {#In_Arda}
+
+- [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
+Nhóm của     - [Arwen](../A/Arwen.md)đi về hướng [Minas Tirith](../M/Minas_Tirith.md).

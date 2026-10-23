@@ -1,0 +1,35 @@
+---
+title: "File:The Lord of the Rings Online - Dol Baran.jpg"
+page_id: 59523
+namespace: 6
+revision_id: 331558
+timestamp: "2021-05-18T10:20:59Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg"
+content_sha256: d0f8703572a27368ead513544c8f0ff05bbbba07cab29db24704667288e7ad50
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images from The Lord of the Rings Online"
+  - "Images of Dol Baran"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/4/49/The_Lord_of_the_Rings_Online_-_Dol_Baran.jpg"
+  mime: "image/jpeg"
+  size: 588174
+  width: 1920
+  height: 1080
+  sha1: "9a000c840122898d915630fe67c1fb7822861217"
+  timestamp: "2021-05-18T10:20:58Z"
+  user: "Malachi"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);" class="licensetpl"><span class="licensetpl_short" style="display:none;">Copyrighted, fair-use</span>
+<p>This work is copyrighted and owned by <a class="external text" href="http://standingstonegames.com/" rel="noreferrer noopener" target="_blank">Standing Stone Games</a>. It is believed that the limited use of this file,
+</p>
+<ul><li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fair-use/" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

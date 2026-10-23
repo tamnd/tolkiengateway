@@ -1,0 +1,101 @@
+---
+title: "Mallorn 47"
+display_title: "<i>Mallorn</i> 47"
+page_id: 23816
+namespace: 0
+revision_id: 400325
+timestamp: "2024-07-07T07:24:39Z"
+source_url: "https://tolkiengateway.net/wiki/Mallorn_47"
+content_sha256: 7310896c5504151fba2cc1cc8e36c6de87b0f0bc82ae3ef3b2eb3bcffb12b1a2
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Mallorn (journal)"
+sort_keys:
+  "Mallorn (journal)": "Mallorn 47"
+images:
+  - "Mallorn47.jpg"
+  - "WikimediaUI-ArrowPrevious-ltr.svg"
+  - "WikimediaUI-ArrowNext-ltr.svg"
+infobox:
+  - label: "Editor"
+    value: "Henry Gee"
+  - label: "Publisher"
+    value: "The Tolkien Society"
+  - label: "Printer"
+    value: "The Printed Word, Horsham, UK"
+  - label: "Released"
+    value: "Spring 2009"
+  - label: "Format"
+    value: "A4 stapled paperback, glossy"
+  - label: "Pages"
+    value: "52"
+  - label: "ISSN"
+    value: "0308-6674"
+  - label: "Preceded by"
+    value: "Mallorn 46"
+  - label: "Followed by"
+    value: "Mallorn 48"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn47.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/64/Mallorn47.jpg/320px-Mallorn47.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/Mallorn47.jpg/480px-Mallorn47.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/Mallorn47.jpg/640px-Mallorn47.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 47</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_46.md" title="Mallorn 46">Mallorn 46</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_48.md" title="Mallorn 48">Mallorn 48</a></td></tr></tbody></table>
+
+<b><i>Mallorn</i> 47</b> là số thứ 47 của tạp chí hai năm một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa xuân [2009](../_/2009.md).
+
+## Nội dung {#Contents}
+
+- **Ảnh bìa**
+    - Bởi: Becky Hitchin
+- **Biên tập**
+    - "Bài ca ngợi vẫn tiếp tục"
+        - Bởi: [Henry Gee](../H/Henry_Gee.md)
+- **Thư**
+- **Đánh giá**
+    - "Bờ biển thần tiên, được thăm lại": *[On Fairy Stories](../T/Tolkien_On_Fairy-stories~23734.md)*
+        - Bởi: [David Doughan](../D/David_Doughan.md)
+    - "Sự lan truyền của văn hóa": *How Tradition Works* bởi [Michael D.C. Drout](Michael_D.C._Drout.md)
+        - Bởi: Johanna Kershaw
+    - "Sợ hãi và ghê tởm trong Trung Địa": *The Mirror Crack'd* do Lynn Forest-Hill biên tập
+        - Bởi: Joel Franz
+    - "Đổ chuông liên tục": *[Proceedings of the 2005 Tolkien Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
+        - Bởi: [Colin Duriez](../C/Colin_Duriez.md)
+    - "Tiếng nhạc lạ": *The Darkling and the Lady* của Christine Davidson
+        - Bởi: Lynn Forest-Hill
+    - "Đi cùng các nàng tiên": *[Tolkien, Race and Cultural History](../T/Tolkien,_Race_and_Cultural_History.md)* của [Dimitra Fimi](../D/Dimitra_Fimi.md)
+        - Bởi: [Henry Gee](../H/Henry_Gee.md)
+- **Bình luận**
+    - "Con yêu tinh trong ngục tối"
+        - Bởi: [Alex Lewis](../A/Alex_Lewis.md)
+    - "Trường hợp kỳ lạ của [Denethor](../D/Denethor.md) và *[Palantír](../P/Palantír.md)*"
+        - Bởi: Jessica Yates
+    - "Vương quốc của [Faërie](../F/Faerie.md) và cái bóng của Homer ở Narnia và [Trung Địa](Middle-earth.md)"
+        - Bởi: Louis Markos
+    - "Lịch sử thực và ảo trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*"
+        - Bởi: Franco Manni
+    - "[Tolkien](../J/J.R.R._Tolkien.md)thêm món nợ của Haggard"
+        - Bởi: Dale Nelson
+- **Thơ**
+    - *Sự ra đi của những con người hòa bình*
+        - Bởi: Julie Sinclair
+    - *[Neldoreth](../N/Neldoreth.md) Revisited*
+        - Bởi: Carol Brownlow
+    - *The Forest*
+        - Bởi: Carol Brownlow
+- **Tiểu thuyết**
+    - *The importance of beans and turnips*
+        - Bởi: rpg
+    - *An afternoon at the seaside*
+        - Bởi: Lynn Forest-Hill
+- **Ồ, tôi đã quay lại**
+    - "[Rồng](../D/Dragons.md) thịt cho bữa tối"
+        - Bởi: Zack Cramer
+- **Bìa sau**
+    - Bởi: Lorenzo Daniele
+- **Nghệ thuật nội tâm**
+    - Bởi: Davide Cattaneo, Lorenzo Daniele và Sue Wookey
+
+<div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 46</div></div><div class="template-prevnext__linkoverlay"><a href="Mallorn_46.md" title="Mallorn 46">Mallorn 46</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 47</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 48</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mallorn_48.md" title="Mallorn 48">Mallorn 48</a></div></div></div>
+
+## Liên kết ngoài {#External_links}
+
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/48/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

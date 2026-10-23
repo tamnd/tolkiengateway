@@ -1,0 +1,34 @@
+---
+title: "File:Šárka Škorpíková - Tarn Aeluin.jpg"
+page_id: 53532
+namespace: 6
+revision_id: 291246
+timestamp: "2017-01-07T09:26:56Z"
+source_url: "https://tolkiengateway.net/wiki/File:Šárka_Škorpíková_-_Tarn_Aeluin.jpg"
+content_sha256: e6e09b7e42e084c83d17fe46d6d90b2896dde26eecf4e564c260810a973b76c9
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Šárka Škorpíková"
+  - "Images of Tarn Aeluin"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/5/54/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Tarn_Aeluin.jpg"
+  mime: "image/jpeg"
+  size: 659578
+  width: 1476
+  height: 1039
+  sha1: "401a6ac31f3f5f4c691361272fad705705d77f1c"
+  timestamp: "2017-01-07T09:26:56Z"
+  user: "Mith"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Šárka Škorpíková</span></span>
+<p>This work is copyrighted and owned by Šárka Škorpíková. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> Šárka Škorpíková</li>
+<li><b>Website:</b> <a class="external text" href="http://robleskazeppelin.deviantart.com/" rel="noreferrer noopener" target="_blank">DeviantArt</a></li>
+<li><b><a href="../../project/C/Copyrights%252FŠárka_Škorpíková.md" title="Tolkien Gateway:Copyrights/Šárka Škorpíková">Permission for use on Tolkien Gateway</a></b></li></ul></div>

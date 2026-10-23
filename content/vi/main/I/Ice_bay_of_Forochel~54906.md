@@ -1,0 +1,13 @@
+---
+title: "Ice bay of Forochel"
+page_id: 54906
+namespace: 0
+revision_id: 297528
+source_url: "https://tolkiengateway.net/wiki/Ice_bay_of_Forochel"
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+redirect: true
+redirect_target: "Icebay of Forochel"
+---
+
+Chuyển hướng đến [Vịnh Băng Forochel](Icebay_of_Forochel.md).

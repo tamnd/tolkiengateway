@@ -1,0 +1,17 @@
+---
+title: "Category:Images by Ron Spencer"
+page_id: 30666
+namespace: 14
+revision_id: 431176
+timestamp: "2026-01-23T19:03:07Z"
+source_url: "https://tolkiengateway.net/wiki/Category:Images_by_Ron_Spencer"
+content_sha256: dad39de97246f4737f071f372657002ed6d79c1139685d2911d1766bb470d7d1
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by artist"
+sort_keys:
+  "Images by artist": "Spencer, Ron"
+---
+
+Thể loại này liệt kê tất cả **hình ảnh của [Ron Spencer](../../main/R/Ron_Spencer.md)**.

@@ -1,0 +1,19 @@
+---
+title: "Tolkien Gateway:Copyrights/Artem Demura"
+page_id: 67910
+namespace: 4
+revision_id: 398087
+timestamp: "2024-07-05T01:46:06Z"
+source_url: "https://tolkiengateway.net/wiki/Tolkien_Gateway:Copyrights/Artem_Demura"
+content_sha256: 7cd1d4354570fdb1615755e1dfc382df1e8997e1bf2c260d8ff2ffe9930496c4
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Evidence of permission granted by copyright holders"
+sort_keys:
+  "Evidence of permission granted by copyright holders": "Demura, Artem"
+---
+
+- <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura</a> đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Artem_Demura.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: ngày 4 tháng 7 năm 2024
+- Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -1,0 +1,50 @@
+---
+title: "File:Karolina Węgrzyn - Let-the-havens-burn.jpg"
+page_id: 20908
+namespace: 6
+revision_id: 203562
+timestamp: "2012-07-09T22:38:11Z"
+source_url: "https://tolkiengateway.net/wiki/File:Karolina_Węgrzyn_-_Let-the-havens-burn.jpg"
+content_sha256: 416d71350d78c2712bf010e0ad30453c73403860d59536c93d56d54b500351eb
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Karolina Węgrzyn"
+  - "Images of Maedhros"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/e/ed/Karolina_W%C4%99grzyn_-_Let-the-havens-burn.jpg"
+  mime: "image/jpeg"
+  size: 207608
+  width: 800
+  height: 1107
+  sha1: "579f93eebe53bf2ac769830050dfef4af837a3d4"
+  timestamp: "2010-09-01T20:25:27Z"
+  user: "Sirielle"
+---
+
+## Tóm tắt {#Summary}
+
+<b>Nghệ thuật © Karolina Węgrzyn <a class="external free" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">http://www.sirielle.com/</a></b>
+
+Được nghệ sĩ tải lên. Không sử dụng nó bên ngoài Tolkien Gateway mà không có sự cho phép của nghệ sĩ.
+
+<i><b>Hãy đốt cháy những nơi ẩn náu</b></i>
+
+[Maedhros](../../main/M/Maedhros.md) con trai [Fëanor](../../main/F/Fëanor.md) đến [Các Cảng Sirion](../../main/H/Havens_of_Sirion.md):
+
+<div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
+<p>Now when first the tidings came to <a href="../../main/M/Maedhros.md" title="Maedhros">Maedhros</a> that <a href="../../main/E/Elwing.md" title="Elwing">Elwing</a> yet lived, and dwelt in possession of the <a href="../../main/S/Silmarils.md" title="Silmarils">Silmaril</a> by the mouths of Sirion, he repenting of the deeds in <a href="../../main/D/Doriath.md" title="Doriath">Doriath</a> withheld his hand. But in time the knowledge of their oath unfulfilled returned to torment him and his brothers, and gathering from their wandering hunting-paths they sent messages to the Havens of friendship and yet of stern demand. Then Elwing and the people of Sirion would not yield the jewel which <a href="../../main/B/Beren.md" title="Beren">Beren</a> had won and <a href="../../main/L/Lúthien.md" title="Lúthien">Lúthien</a> had worn, and for which <a href="../../main/D/Dior.md" title="Dior">Dior</a> the fair was slain; and least of all while <a href="../../main/E/Eärendil.md" title="Eärendil">Eärendil</a> their lord was on the sea, for it seemed to them that in the Silmaril lay the healing and the blessing that had come upon their houses and their ships. And so there came to pass the last and cruellest of the slayings of Elf by Elf; and that was the third of the great wrongs achieved by the accursed oath.
+</p>
+<p class="tg-quote-footer"><cite><a href="../../main/J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../../main/T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, Chapter 24: &#34;<a href="../../main/O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a>&#34;</cite></p>
+</blockquote><div class="tg-section-divider"></div></div>
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Karolina Węgrzyn</span></span>
+<p>This work is copyrighted and owned by <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="https://tolkiengateway.net/wiki/User:Sirielle" title="User:Sirielle">Karolina Węgrzyn</a></li>
+<li><b>Website:</b> <a class="external text" href="http://www.sirielle.com/" rel="noreferrer noopener" target="_blank">Karolina Węgrzyn&#39;s website</a></li>
+<li><b><a href="../../project/C/Copyrights%252FKarolina_Węgrzyn.md" title="Tolkien Gateway:Copyrights/Karolina Węgrzyn">Permission for use on Tolkien Gateway</a></b></li></ul></div>

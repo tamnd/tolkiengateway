@@ -1,0 +1,17 @@
+---
+title: "Category:The Netherlands"
+page_id: 35304
+namespace: 14
+revision_id: 185309
+timestamp: "2012-01-31T10:50:07Z"
+source_url: "https://tolkiengateway.net/wiki/Category:The_Netherlands"
+content_sha256: 25b8970f67c8bd1bd97cb3f71b3056777d009cf7cc178dff20db5311e969fc6d
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Countries"
+sort_keys:
+  "Countries": "Netherlands"
+---
+
+Thể loại này chứa các bài viết về <a class="extiw" href="http://en.wikipedia.org/wiki/Netherlands" title="wikipedia:Netherlands">Hà Lan</a>.

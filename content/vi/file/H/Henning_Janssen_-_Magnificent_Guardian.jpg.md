@@ -1,0 +1,34 @@
+---
+title: "File:Henning Janssen - Magnificent Guardian.jpg"
+page_id: 40603
+namespace: 6
+revision_id: 362156
+timestamp: "2022-11-22T14:49:30Z"
+source_url: "https://tolkiengateway.net/wiki/File:Henning_Janssen_-_Magnificent_Guardian.jpg"
+content_sha256: 349c3d533c7f6546295f266532a9d137436954582d145be790e52b99b53521c6
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by Henning Janssen"
+  - "Images of Smaug"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/f/fd/Henning_Janssen_-_Magnificent_Guardian.jpg"
+  mime: "image/jpeg"
+  size: 179474
+  width: 800
+  height: 573
+  sha1: "c2ef84f8d1eea900362050d2da4e155722d78cb3"
+  timestamp: "2012-07-19T17:02:52Z"
+  user: "KingAragorn"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/Henning Janssen</span></span>
+<p>This work is copyrighted and owned by <a href="../../main/H/Henning_Janssen.md" title="Henning Janssen">Henning Janssen</a>. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> <a href="../../main/H/Henning_Janssen.md" title="Henning Janssen">Henning Janssen</a></li>
+<li><b>Website:</b> <a class="external text" href="https://www.artstation.com/henj" rel="noreferrer noopener" target="_blank">Henning Janssen&#39;s ArtStation</a></li>
+<li><b><a href="../../project/C/Copyrights%252FHenning_Janssen.md" title="Tolkien Gateway:Copyrights/Henning Janssen">Permission for use on Tolkien Gateway</a></b></li></ul></div>

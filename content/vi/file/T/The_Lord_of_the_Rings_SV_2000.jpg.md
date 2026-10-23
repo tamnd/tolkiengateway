@@ -1,0 +1,35 @@
+---
+title: "File:The Lord of the Rings SV 2000.jpg"
+page_id: 67084
+namespace: 6
+revision_id: 389278
+timestamp: "2024-04-19T11:15:17Z"
+source_url: "https://tolkiengateway.net/wiki/File:The_Lord_of_the_Rings_SV_2000.jpg"
+content_sha256: 719bcc2240aa384f83581b99b1b510b2192b5d26fccdebc6900318eda42e7924
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images of The Lord of the Rings editions"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/8/8d/The_Lord_of_the_Rings_SV_2000.jpg"
+  mime: "image/jpeg"
+  size: 65776
+  width: 360
+  height: 500
+  sha1: "3a353402e46ed77cc55c2de54a2a74db6d9b86af"
+  timestamp: "2024-04-19T11:15:17Z"
+  user: "Luotiansha"
+---
+
+## Tóm tắt {#Summary}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);">
+<p>The copyright of this image is most likely owned by the publisher or the artist who created the cover. It is believed that this image,
+</p>
+<ul><li><b>used to illustrate articles discussing the book, calendar, film, game, journal or music in question</b>,</li>
+<li><b>on the not-for-profit educational  <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website,</b></li></ul>
+<p>qualifies as <a class="external text" href="http://www.copyright.gov/fls/fl102.html" rel="noreferrer noopener" target="_blank"><b>fair use</b> under copyright law in the United States of America</a>.
+</p>
+</div>

@@ -1,0 +1,20 @@
+---
+title: "Ken Rudolph Calendar 1969"
+display_title: "<i>Ken Rudolph Calendar 1969</i>"
+page_id: 6480
+namespace: 0
+revision_id: 339308
+timestamp: "2021-12-19T13:53:36Z"
+source_url: "https://tolkiengateway.net/wiki/Ken_Rudolph_Calendar_1969"
+content_sha256: d84c58f81b2b5db02664f01472bee93676864fdc869bc7b36295dda60ead3c75
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Calendars (real-world)"
+images:
+  - "Ken_Rudolph_Calendar_1969.jpg"
+---
+
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Ken_Rudolph_Calendar_1969.jpg.md"><img src="https://tolkiengateway.net/w/images/b/b6/Ken_Rudolph_Calendar_1969.jpg" decoding="async" loading="lazy" width="259" height="350" class="mw-file-element" data-file-width="259" data-file-height="350"/></a><figcaption></figcaption></figure>
+
+**Lịch Ken Rudolph năm 1969** là loại lịch hiếm do Ken Rudolph xuất bản và chỉ được biết đến bởi những nhà sưu tập nghiêm túc. Lịch gồm 6 trang có hình minh họa của [Tim Kirk](../T/Tim_Kirk.md). Lịch có kích thước 8,5" x 11".

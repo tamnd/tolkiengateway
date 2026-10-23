@@ -1,0 +1,156 @@
+---
+title: "Rhosgobel"
+page_id: 4332
+namespace: 0
+revision_id: 419639
+timestamp: "2025-03-17T19:40:50Z"
+source_url: "https://tolkiengateway.net/wiki/Rhosgobel"
+content_sha256: 8b868884636fc0790c9d16770fc5376f3becd4f44c446c479f11e36515206bb9
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Buildings"
+  - "Rhovanion"
+  - "Sindarin locations"
+hidden_categories:
+  - "Pages with non-sufficient width image in infobox"
+langlinks:
+  - lang: "de"
+    name: "Deutsch"
+    title: "Rhosgobel"
+    url: "https://www.ardapedia.org/wiki/Rhosgobel"
+  - lang: "fi"
+    name: "suomi"
+    title: "Rhosgobel"
+    url: "https://kontu.wiki/Rhosgobel"
+  - lang: "fr"
+    name: "français"
+    title: "encyclo/geographie/villes tours et forteresses/rhovanion/rhosgobel"
+    url: "https://www.tolkiendil.com/encyclo/geographie/villes_tours_et_forteresses/rhovanion/rhosgobel"
+images:
+  - "Angus_McBride_-_Rhosgobel.jpg"
+  - "The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png"
+  - "The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg"
+infobox:
+  - label: "Location"
+    value: "Rhovanion, on the eaves of Mirkwood"
+  - label: "Type"
+    value: "Dwelling"
+  - label: "Inhabitants"
+    value: "Radagast"
+  - label: "Gallery"
+    value: "Images of Rhosgobel"
+---
+
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Rhosgobel.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1d/Angus_McBride_-_Rhosgobel.jpg" decoding="async" loading="lazy" width="286" height="244" class="mw-file-element" data-file-width="286" data-file-height="244"/></a><figcaption>&#34;Rhosgobel&#34; by <a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Dwelling</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rhosgobel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Rhovanion.md" title="Rhovanion">Rhovanion</a>, on the eaves of <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Dwelling</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="Radagast.md" title="Radagast">Radagast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Rhosgobel.md" title="Category:Images of Rhosgobel">Images of Rhosgobel</a></td></tr></tbody></table>
+
+**Rhosgobel** là ngôi nhà cũ của phù thủy [Radagast](Radagast.md).<sup id="cite_ref-South_1-0" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+
+## Vị trí {#Location}
+
+Rhosgobel nằm gần biên giới [Mirkwood](../M/Mirkwood.md)<sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> gần đầu phía nam của Mirkwood,<sup id="cite_ref-Queer_3-0" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> có lẽ ở phía tây của nó về phía nam [Gladden Fields](../G/Gladden_Fields.md) và đối diện với [phương Đông Bight](../E/East_Bight.md) của khu rừng,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> vì các trinh sát do [Elrond](../E/Elrond.md) cử đến đã sử dụng đường đèo tại đầu nguồn của [Sông Gladden](../G/Gladden_River.md), đã đi xuống [Wilderland](../W/Wilderland.md) trở lên Gladden Fields để đến Rhosgobel và quay trở lại qua đèo cao được gọi là [Cổng Redhorn](Redhorn_Gate.md) đến [Rivendell](Rivendell.md).<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+
+## Lịch sử {#History}
+
+Vào một thời điểm nào đó sau khi đến Trung Địa vào khoảng [T.A.](../T/Third_Age.md) [1000](../T/Third_Age_1000.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>, phù thủy Radagast đã định cư tại Rhosgobel.
+
+Theo lời kể của phù thủy [Gandalf](../G/Gandalf.md) Radagast sống tại Rhosgobel<sup id="cite_ref-Queer_3-1" class="reference"><a href="#cite_note-Queer-3">[3]</a></sup> ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+
+Sau [Hội đồng Elrond](../C/Council_of_Elrond.md), một số trinh sát từ [Rivendell](Rivendell.md) đã vượt qua [Dãy Núi Sương Mù](../M/Misty_Mountains.md) bằng đường đèo ở đầu nguồn Sông Gladden để đi xuống Wilderland và vượt qua Gladden Fields để đến Rhosgobel, nhưng họ phát hiện ra Radagast không có ở đó.<sup id="cite_ref-South_1-2" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+*Rhosgobel* là tên [Sindarin](../S/Sindarin.md),<sup id="cite_ref-Fauskanger_7-0" class="reference"><a href="#cite_note-Fauskanger-7">[7]</a></sup><sup id="cite_ref-Eldamo_8-0" class="reference"><a href="#cite_note-Eldamo-8">[8]</a></sup><sup id="cite_ref-RC_9-0" class="reference"><a href="#cite_note-RC-9">[9]</a></sup> có nghĩa là "làng nâu đỏ hoặc 'thị trấn' (bao vây)".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> [Helge Fauskanger](../H/Helge_Fauskanger.md), [Paul Strack](../P/Paul_Strack.md), [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) gợi ý rằng đó là sự kết hợp của *[rhosc](Rhosc.md)* ("nâu đỏ", "nâu")<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và *[gobel](../G/Gobel.md)* ("ngôi nhà có tường bao quanh" hoặc "làng", "thị trấn").<sup id="cite_ref-Fauskanger_7-1" class="reference"><a href="#cite_note-Fauskanger-7">[7]</a></sup><sup id="cite_ref-Eldamo_8-1" class="reference"><a href="#cite_note-Eldamo-8">[8]</a></sup><sup id="cite_ref-RC_9-1" class="reference"><a href="#cite_note-RC-9">[9]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Tên của ngôi nhà có lẽ ám chỉ đến cư dân của nó, Brown Pháp sư.
+
+## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+
+Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho là nằm ở ranh giới khu rừng giữa [Carrock](../C/Carrock.md) và Đường [Khu Rừng Cổ](../O/Old_Forest_Road.md).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+
+## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+
+### Rhosgobel trong các bản chuyển thể {#Rhosgobel_in_adaptations}
+
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png.md" title="Rhosgobel in The Hobbit: An Unexpected Journey"><img alt="Rhosgobel in The Hobbit: An Unexpected Journey" src="https://tolkiengateway.net/w/images/thumb/e/e6/The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png/200px-The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png" decoding="async" loading="lazy" width="200" height="83" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e6/The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png/300px-The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e6/The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png/400px-The_Hobbit_-_An_Unexpected_Journey_-_Rhosgobel.png 2x" data-file-width="1920" data-file-height="800"/></a></span></div>
+			<div class="gallerytext">
+<p>Rhosgobel in <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
+</p>
+			</div>
+		</li>
+		<li class="gallerybox" style="width: 235px">
+			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg.md" title="Rhosgobel in The Lord of the Rings Online"><img alt="Rhosgobel in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg/200px-The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg" decoding="async" loading="lazy" width="200" height="113" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg/300px-The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg/400px-The_Lord_of_the_Rings_Online_-_Rhosgobel.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
+			<div class="gallerytext">
+<p>Rhosgobel in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+</p>
+			</div>
+		</li>
+</ul>
+
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
+
+<dl><dd>A layout, and a detailed description, is given of Rhosgobel. It is built around a large furry oak tree.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
+
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
+
+<dl><dd>Rhosgobel is depicted as a u-shaped wooden house nestled in the woods surrounding a small blue pool of water or pond.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
+
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
+
+<dl><dd>Rhosgobel appears in a single scene, when it is attacked by <a href="../S/Spiders.md" title="Spiders">spiders</a>. Radagast later discovers that these spiders came from <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.</dd></dl>
+
+<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
+
+<dl><dd>Rhosgobel appears in a single scene, when <a href="Radagast.md" title="Radagast">Radagast</a> takes <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> from <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> to Rhosgobel after alerting the <a href="../W/White_Council.md" title="White Council">White Council</a> to his presence there.</dd></dl>
+
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+
+<dl><dd>Rhosgobel, located in the <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Vales of Anduin</a> region, is a large set of ruins located in the region of &#34;Laerlad&#34;, once occupied by the <a class="mw-redirect" href="../W/Wood-elves.md" title="Wood-elves">Wood-elves</a>, but abandoned long ago. The cottage of <a href="Radagast.md" title="Radagast">Radagast</a> is located inside the ruins, which, after briefly being overrun by the &#34;Ungoladan&#34; tribe in the aftermath of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, was reclaimed by Radagast, who restored it as a refuge and sanctuary for the animals of Middle-earth.</dd></dl>
+
+## Liên kết ngoài {#External_links}
+
+- <cite class="citation cite-web"><span class="cite-web-author"><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a></span>. <span class="cite-web-article"><a class="external text" href="https://middle-earth.xenite.org/where-and-what-is-rhosgobel/" rel="noreferrer noopener" target="_blank">"Rhosgobel là gì và ở đâu?"</a></span>. <span class="cite-web-website"><a class="external text" href="https://middle-earth.xenite.org/" rel="noreferrer noopener" target="_blank">Trung Địa Blog</a></span></cite>
+
+## Ghi chú {#Notes}
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-South-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-South_1-0">1.0</a></sup> <sup><a href="#cite_ref-South_1-1">1.1</a></sup> <sup><a href="#cite_ref-South_1-2">1.2</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;, p. 274</span>
+</li>
+<li id="cite_note-Council-2"><span class="mw-cite-backlink"><a href="#cite_ref-Council_2-0">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;, p. 256</span>
+</li>
+<li id="cite_note-Queer-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Queer_3-0">3.0</a></sup> <sup><a href="#cite_ref-Queer_3-1">3.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a>&#34;, p. 129</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XV. The First Map of <i>The Lord of the Rings</i>&#34;, &#34;Map II&#34;, in the middle of map square L13, p. 305</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;, second paragraph of the introduction, p. 1084</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_B.md" title="Appendix B">Appendix B</a>, &#34;The Third Age&#34;, entry for the year 2941, p. 1089</span>
+</li>
+<li id="cite_note-Fauskanger-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Fauskanger_7-0">7.0</a></sup> <sup><a href="#cite_ref-Fauskanger_7-1">7.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a></span>. <span class="cite-web-article"><a class="external text" href="http://folk.uib.no/hnohf/lh-rh.htm" rel="noreferrer noopener" target="_blank">&#34;On <i>LH</i> and <i>RH</i>&#34;</a></span>. <span class="cite-web-website">Arda</span>. <span class="cite-web-accessed">Retrieved 9 April 2012</span></cite></span>
+</li>
+<li id="cite_note-Eldamo-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Eldamo_8-0">8.0</a></sup> <sup><a href="#cite_ref-Eldamo_8-1">8.1</a></sup></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">Paul Strack</span>. <span class="cite-web-article"><a class="external text" href="https://www.eldamo.org/content/words/word-2006952073.html" rel="noreferrer noopener" target="_blank">&#34;S. <i>Rhosgobel</i> loc.&#34;</a></span>. <span class="cite-web-website"><a href="../E/Eldamo.md" title="Eldamo">Eldamo - An Elvish Lexicon</a></span>. <span class="cite-web-accessed">Retrieved 25 October 2022</span></cite></span>
+</li>
+<li id="cite_note-RC-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-RC_9-0">9.0</a></sup> <sup><a href="#cite_ref-RC_9-1">9.1</a></sup></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. 241</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../U/Unfinished_index.md" title="Unfinished index">Unfinished index for <i>The Lord of the Rings</i></a>&#34;, in <a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, entry <i>Rhogobel</i>, p. 241</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34; entry <b>RUSKĀ</b>, p. 429</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34; entry p. <b>PEL(ES)</b>, p. 424</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Istari.md" title="The Istari">The Istari</a>&#34;, &#34;Notes&#34;, Note 4</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Mark Rabuck, <i><a href="../N/Northwestern_Middle-earth_Gazetteer.md" title="Northwestern Middle-earth Gazetteer">Northwestern Middle-earth Gazetteer</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #4002, 1992)
+</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="../J/John_David_Ruemmler.md" title="John David Ruemmler">John David Ruemmler</a>, Susan Tyler Hitchcock, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Peter C. Fenlon</a>, <i><a href="../M/Mirkwood_(MERP).md" title="Mirkwood (MERP)">Mirkwood (2nd edition)</a></i> (<a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a> #2019, 1995)
+</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-article"><a class="external text" href="http://www.tradecardsonline.com/im/selectCard/card_id/186782/cards_lang/1" rel="noreferrer noopener" target="_blank">&#34;Rhosgobel&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.tradecardsonline.com/" rel="noreferrer noopener" target="_blank">Trade Cards Online</a></span>. <span class="cite-web-accessed">Retrieved 9 April 2012</span></cite></span>
+</li>
+</ol></div>

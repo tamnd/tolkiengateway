@@ -1,0 +1,68 @@
+---
+title: "Morn"
+display_title: "morn"
+page_id: 33957
+namespace: 0
+revision_id: 406583
+timestamp: "2024-08-23T06:06:54Z"
+source_url: "https://tolkiengateway.net/wiki/Morn"
+content_sha256: 9b95c0dabf89705ecba863f5a4e6c6e3d3a319444e9876b735a21c7fc194b79c
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Sindarin adjectives"
+---
+
+<i><b>morn</b></i> là tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "đen, tối".<sup id="cite_ref-L297_1-0" class="reference"><a href="#cite_note-L297-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+
+## Từ nguyên {#Etymology}
+
+Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) [MOR](MOR~34024.md).<sup id="cite_ref-L297_1-1" class="reference"><a href="#cite_note-L297-1">[1]</a></sup>
+
+## Sự khoan hồng {#Lenition}
+
+Dạng [lenited](../L/Lenition.md) <i><b>vorn</b></i> (*m* > *v*) dường như xuất hiện trong *[Eryn Vorn](../E/Eryn_Vorn.md)* ("Blackwood").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-RClxv_5-0" class="reference"><a href="#cite_note-RClxv-5">[5]</a></sup> Nó cũng có thể được thấy trong hợp chất <i><a href="../G/Galvorn.md" title="Galvorn">gal<b>vorn</b></a></i> và có lẽ cả trong <i><a href="../A/Aravorn.md" title="Aravorn">Ara<b>vorn</b></a></i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+
+## Ví dụ {#Examples}
+
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lacho_calad!_Drego_morn!&amp;action=edit&amp;redlink=1" title="Lacho calad! Drego morn! (page does not exist)">Drego <b>sáng</b>!</a></i> = "Chạy trốn đêm!"
+- <i><a href="Morben.md" title="Morben"><b>Mor</b>ben</a></i> = "Dân đen tối"
+- <i><a href="Mordor.md" title="Mordor"><b>Mor</b>dor</a></i> = "Vùng đất đen"
+- <i><a class="mw-redirect" href="Mordu.md" title="Mordu"><b>Mor</b>du</a></i> = "Đêm đen"
+- <i><a href="Morgul.md" title="Morgul"><b>mor</b>gul</a></i> = "nghệ thuật đen, ma thuật"
+- <i><a class="mw-redirect" href="Mormegil.md" title="Mormegil"><b>Mor</b>megil</a></i> = "Kiếm đen"
+- <i><a href="Moria.md" title="Moria"><b>Mor</b>ia</a></i> = "Vực thẳm đen"
+- <i><a href="Mornan.md" title="Mornan"><b>Mor</b>nan</a></i> = "Thung lũng tối"
+- <i><a href="../R/Ras_Morthil.md" title="Ras Morthil">Ras <b>Mor</b>thil</a></i> = "Áo choàng điểm đen"
+
+## Phiên bản khác {#Other_versions}
+
+Trong *[Etymologies](../T/The_Etymologies.md)* đã xuất bản xuất hiện từ [Noldorin](../N/Noldorin.md) *moru* ("đen").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Tuy nhiên, cách viết đó là do đọc sai bản thảo gốc và đã được sửa thành *morn*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+
+## Có cùng nguồn gốc {#Cognates}
+
+- [Quenya](../Q/Quenya.md) *[morna](Morna.md)* ("đen, tối", tính từ)
+
+<span></span>
+
+## Tài liệu tham khảo {#References}
+
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-L297-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-L297_1-0">1.0</a></sup> <sup><a href="#cite_ref-L297_1-1">1.1</a></sup></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>,  <a href="../L/Letter_297.md" title="Letter 297">Letter 297</a>, (dated <a href="../A/August.md" title="August">August</a> <a href="../_/1967.md" title="1967">1967</a>), p. 382</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>; <a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (eds.), <i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i>, <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>), p. 427</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: A. The principal linguistic elements concerned&#34;, p. 362, entry &#34;*KWEN&#34;</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="../H/Helge_Fauskanger.md" title="Helge Fauskanger">Helge Fauskanger</a>, &#34;<a class="external text" href="http://folk.uib.no/hnohf/sindarin.htm" rel="noreferrer noopener" target="_blank">Sindarin - the Noble Tongue: I. Soft Mutation</a>&#34; at <a class="external text" href="http://folk.uib.no/hnohf/" rel="noreferrer noopener" target="_blank">Ardalambion</a> (accessed 8 June 2011)</span>
+</li>
+<li id="cite_note-RClxv-5"><span class="mw-cite-backlink"><a href="#cite_ref-RClxv_5-0">↑</a></span> <span class="reference-text"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (eds), <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i>, p. lxv</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">&#34;<a class="external text" href="http://www.tolkiendil.com/langues/english/i-lam_arth/compound_sindarin_names" rel="noreferrer noopener" target="_blank">Compound Sindarin Names in Middle-earth</a>&#34; at <a class="external text" href="http://www.tolkiendil.com/" rel="noreferrer noopener" target="_blank">Tolkiendil.com</a> (accessed 8 June 2011)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i>, Part Three: &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a>&#34;, entry &#34;<a href="MOR~34024.md" title="MOR">MOR</a>&#34;</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, &#34;<a href="../T/The_Etymologies.md" title="The Etymologies">Addenda and Corrigenda to the <i>Etymologies</i> — Part One</a>&#34; (edited by <a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a> and <a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a>), in <a href="../V/Vinyar_Tengwar_45.md" title="Vinyar Tengwar 45"><i>Vinyar Tengwar</i>, Number 45</a>, November 2003, p. 35</span>
+</li>
+</ol></div>

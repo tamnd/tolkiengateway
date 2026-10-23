@@ -1,0 +1,34 @@
+---
+title: "File:ElfinFen - Maitimo.jpg"
+page_id: 60011
+namespace: 6
+revision_id: 335887
+timestamp: "2021-10-05T15:17:01Z"
+source_url: "https://tolkiengateway.net/wiki/File:ElfinFen_-_Maitimo.jpg"
+content_sha256: 1b10b6bf1c7aeaf71d7629316465bbc728b78a2067a0a29912bbbb0c584b1952
+license: CC BY-SA 4.0
+source: Tolkien Gateway
+categories:
+  - "Images by ElfinFen"
+  - "Images of Maedhros"
+hidden_categories:
+  - "Files with a license template"
+file:
+  url: "https://tolkiengateway.net/w/images/a/ad/ElfinFen_-_Maitimo.jpg"
+  mime: "image/jpeg"
+  size: 426640
+  width: 1280
+  height: 1810
+  sha1: "5a134a6834d61cb2acbd2b98522d24a510468ad0"
+  timestamp: "2021-10-05T15:17:01Z"
+  user: "IvarTheBoneless"
+---
+
+## Giấy phép {#Licensing}
+
+<div style="margin:10px auto 10px auto;width:80%;height:auto;background-color:var(--tg-color-surface-2);border:var(--tg-border-base);padding:0px 10px 0px 10px;font-size:100%;text-align:left;border-radius:var(--tg-border-radius-large);"><span class="licensetpl" style="display:none;"><span class="licensetpl_short">Copyrighted, used with permission</span><span class="licensetpl_link">https://tolkiengateway.net/wiki/Tolkien Gateway:Copyrights/ElfinFen</span></span>
+<p>This work is copyrighted and owned by ElfinFen. However, permission has kindly been granted, by the copyright holder, to use this file on the not-for-profit <a class="external text" href="http://tolkiengateway.net" rel="noreferrer noopener" target="_blank">Tolkien Gateway</a> website. Details of the copyright holder:
+</p>
+<ul><li><b>Name:</b> ElfinFen</li>
+<li><b>Website:</b> <a class="external text" href="https://elfinfen.tumblr.com/" rel="noreferrer noopener" target="_blank">ElfinFen on Tumblr</a></li>
+<li><b><a href="../../project/C/Copyrights%252FElfinFen.md" title="Tolkien Gateway:Copyrights/ElfinFen">Permission for use on Tolkien Gateway</a></b></li></ul></div>
