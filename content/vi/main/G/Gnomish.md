@@ -29,42 +29,42 @@ images:
 <p class="tg-quote-footer"><cite><a href="../L/Littleheart.md" title="Littleheart">Littleheart</a> in <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Gnomish**, hay **I·Lam na·Ngoldathon** ("Cái lưỡi của [Gnomes](Gnomes.md)"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> tên của nó là **Goldogrin**, là ngôn ngữ của Gnomes được nói ở [Great Lands](Great_Lands.md).
+**Tiếng Gnomish**, hay **I·Lam na·Ngoldathon** ("Ngôn ngữ của người [Gnomes](Gnomes.md)"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có tên gọi là **Goldogrin**, là ngôn ngữ được người Gnomes sử dụng tại [Great Lands](Great_Lands.md).
 
-Ngôn ngữ này là phiên bản đầu tiên của ngôn ngữ [Celtic](../C/Celtic.md)giống [Elvish](../E/Elvish.md) do [Tolkien](../J/J.R.R._Tolkien.md) phát minh trong các bản thảo đầu tiên của [huyền thoại](../L/Legendarium.md) của ông trong [1917](../_/1917.md) trở về sau. Ngôn ngữ này sẽ phát triển thành ngôn ngữ được gọi là [Noldorin](../N/Noldorin.md) xung quanh [1930](../_/1930.md) và cuối cùng được hình dung là [ngôn ngữ của Sindar](../S/Sindarin.md) trong quá trình viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Ngôn ngữ này là hình thái đầu tiên của ngôn ngữ [Elvish](../E/Elvish.md) mang những nét tương đồng với tiếng [Celtic](../C/Celtic.md), do [Tolkien](../J/J.R.R._Tolkien.md) sáng tạo trong những bản thảo đầu tiên của [huyền sử](../L/Legendarium.md) của ông, bắt đầu từ năm [1917](../_/1917.md) và những năm sau đó. Ngôn ngữ này dần phát triển thành ngôn ngữ được gọi là [Noldorin](../N/Noldorin.md) vào khoảng năm [1930](../_/1930.md), rồi cuối cùng được hình dung là [ngôn ngữ của người Sindar](../S/Sindarin.md) trong quá trình sáng tác *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Không giống như [Sindarin](../S/Sindarin.md)và giống như [Quenya](../Q/Quenya.md), Goldogrin là một ngôn ngữ biến cách với hệ thống chữ hoa chữ thường đầy đủ; Ví dụ: số nhiều sở hữu cách "of the Gnomes" là *Ngoldathon* như đã thấy ở trên. Đoạn kết *-on* cũng được biết đến từ sau Quenya. Nó cũng được thấy trong các tên sau này như [Caras Galadhon](../C/Caras_Galadhon.md) (được cho là [Silvan Elvish](../S/Silvan_Elvish.md)) và có lẽ [Dorthonion](../D/Dorthonion.md).
+Không giống [Sindarin](../S/Sindarin.md), mà tương tự như [Quenya](../Q/Quenya.md), Goldogrin là một ngôn ngữ biến tố với hệ thống cách đầy đủ. Ví dụ, dạng sở hữu cách số nhiều của cụm "of the Gnomes" (của người Gnomes) là *Ngoldathon*, như đã thấy ở trên. Hậu tố *-on* cũng xuất hiện trong tiếng Quenya về sau. Hậu tố này còn có trong những tên gọi về sau như [Caras Galadhon](../C/Caras_Galadhon.md) (được cho là thuộc [tiếng Elvish của người Silvan](../S/Silvan_Elvish.md)) và có lẽ cả [Dorthonion](../D/Dorthonion.md).
 
-Gnomish đáng chú ý vì là một trong số rất ít ngôn ngữ mà Tolkien đã tiến hành tập hợp một [từ vựng](Gnomish_Lexicon.md) và ghi chú ngữ pháp xác định (xuất bản trong [*Parma Eldalamberon*, số 11](../P/Parma_Eldalamberon_11.md)).
+Tiếng Gnomish đáng chú ý vì là một trong số rất ít ngôn ngữ do Tolkien sáng tạo mà ông đã tiến hành biên soạn một [từ vựng](Gnomish_Lexicon.md) hoàn chỉnh cùng các ghi chú ngữ pháp (được xuất bản trong [*Parma Eldalamberon*, số 11](../P/Parma_Eldalamberon_11.md)).
 
-Vì Sindarin là bản sửa đổi liên tục của Gnomish nên nó giữ nguyên âm vị Celtic, một số thành phần ngữ pháp phổ biến (như <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-in&amp;action=edit&amp;redlink=1" title="-in (page does not exist)">-in</a></i> kết thúc số nhiều và đột biến kiểu tiếng Wales) và nhiều từ vựng (ví dụ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lam&amp;action=edit&amp;redlink=1" title="Lam (page does not exist)">lam</a></i> "ngôn ngữ", <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a></i> "tay", *[gloss](Gloss.md)* "trắng").
+Vì Sindarin là kết quả của quá trình chỉnh sửa liên tục từ Gnomish, ngôn ngữ này vẫn giữ lại hệ thống âm vị mang nét Celtic, một số yếu tố ngữ pháp chung (chẳng hạn như đuôi số nhiều <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-in&amp;action=edit&amp;redlink=1" title="-in (page does not exist)">-in</a></i> và hiện tượng biến đổi phụ âm theo kiểu tiếng Wales), cùng phần lớn vốn từ (ví dụ: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lam&amp;action=edit&amp;redlink=1" title="Lam (page does not exist)">lam</a></i> "ngôn ngữ", <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a></i> "bàn tay", *[gloss](Gloss.md)* "trắng").
 
-Một số từ Gnomish có vẻ như bắt nguồn từ [gốc](../S/Sundocarme.md) được biết đến từ *[The Etymologies](../T/The_Etymologies.md)* hoặc chúng thuộc một phương ngữ của Sindarin; ví dụ: từ *gweg* "người đàn ông" có thể là một từ Sindarin có nguồn gốc từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=WEG&amp;action=edit&amp;redlink=1" title="WEG (page does not exist)">WEG</a> (xem [Denweg](../D/Denweg.md)).
+Một số từ Gnomish dường như có nguồn gốc từ những [căn tố](../S/Sundocarme.md) được biết đến trong *[The Etymologies](../T/The_Etymologies.md)*, hoặc có vẻ thuộc về một phương ngữ Sindarin. Chẳng hạn, từ *gweg* "người đàn ông" có thể là một từ Sindarin bắt nguồn từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=WEG&amp;action=edit&amp;redlink=1" title="WEG (page does not exist)">WEG</a> (xem [Denweg](../D/Denweg.md)).
 
-## Nguồn tài liệu {#Source_materials}
+## Tư liệu nguồn {#Source_materials}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gnomish_Grammar&amp;action=edit&amp;redlink=1" title="Gnomish Grammar (page does not exist)">Gnomish Ngữ pháp</a></i> ([PE 11](../P/Parma_Eldalamberon_11.md), trang 7–16)
-- *[Gnomish Lexicon](Gnomish_Lexicon.md)* ([PE 11](../P/Parma_Eldalamberon_11.md), trang 17–75)
-- *Goldogrin Pronominal Prefixes* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 97)
-- *Early Charts of Names* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 98-99)
-- *The Official Name List* ([PE 13](../P/Parma_Eldalamberon_13.md), trang 100–105)
-- *The Gnomish Lexicon Slips* ([PE 13](../P/Parma_Eldalamberon_13.md), trang 106–118)
-- *Names and Required Alterations* ([PE 15](../P/Parma_Eldalamberon_15.md), trang 7–13)
-- *Name-list to* [The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>) ([PE 15](../P/Parma_Eldalamberon_15.md), trang 19–29)
-- *[The Gnomic Letters](Gnomic_Letters.md)* ([PE 15](../P/Parma_Eldalamberon_15.md), trang 108–110)
-- *[Gondolinic Runes](Gondolinic_Runes.md)* ([PE 15](../P/Parma_Eldalamberon_15.md), trang 111–113)
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gnomish_Grammar&amp;action=edit&amp;redlink=1" title="Gnomish Grammar (page does not exist)">Ngữ pháp Gnomish</a></i> ([PE 11](../P/Parma_Eldalamberon_11.md), tr. 7–16)
+- *[Từ điển Gnomish](Gnomish_Lexicon.md)* ([PE 11](../P/Parma_Eldalamberon_11.md), tr. 17–75)
+- *Các tiền tố đại từ trong Goldogrin* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 97)
+- *Các bảng tên gọi sơ kỳ* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 98-99)
+- *Danh sách tên gọi chính thức* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 100–105)
+- *Các mảnh ghi chép từ Từ điển Gnomish* ([PE 13](../P/Parma_Eldalamberon_13.md), tr. 106–118)
+- *Tên gọi và những thay đổi bắt buộc* ([PE 15](../P/Parma_Eldalamberon_15.md), tr. 7–13)
+- *Danh sách tên gọi trong* [The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>) ([PE 15](../P/Parma_Eldalamberon_15.md), tr. 19–29)
+- *[Các bức thư Gnomic](Gnomic_Letters.md)* ([PE 15](../P/Parma_Eldalamberon_15.md), tr. 108–110)
+- *[Chữ rune Gondolin](Gondolinic_Runes.md)* ([PE 15](../P/Parma_Eldalamberon_15.md), tr. 111–113)
 
 ## Xem thêm {#See_also}
 
-- [Danh mục: Gnomish từ](../../category/G/Gnomish_words.md)
+- [Thể loại:Từ ngữ Gnomish](../../category/G/Gnomish_words.md)
 - [Noldorin](../N/Noldorin.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.science-and-fiction.org/elvish/goldogrin/grammar.html" rel="noreferrer noopener" target="_blank">Goldogrin ngữ pháp</a> của [Thorsten Renk](../T/Thorsten_Renk.md)
-- <a class="external text" href="http://www.sindanoorie.net/art/Gold_phon.html" rel="noreferrer noopener" target="_blank">Âm vị học lịch sử Goldogrin</a> của [Roman Rausch](../R/Roman_Rausch.md)
-- <a class="external text" href="http://web.archive.org/web/20130830082649/http://www.pa2rick.com/langlab/goldogrin_pronouns.html" rel="noreferrer noopener" target="_blank">Goldogrin Đại từ</a> của [Patrick H. Wynne](../P/Patrick_H._Wynne.md)
-- <a class="external text" href="http://www.elvish.org/Tengwestie/articles/Wynne/goldpat.phtml" rel="noreferrer noopener" target="_blank">Thì quá khứ Goldogrin</a> của Patrick H. Wynne
+- <a class="external text" href="http://www.science-and-fiction.org/elvish/goldogrin/grammar.html" rel="noreferrer noopener" target="_blank">Ngữ pháp Goldogrin</a> của [Thorsten Renk](../T/Thorsten_Renk.md)
+- <a class="external text" href="http://www.sindanoorie.net/art/Gold_phon.html" rel="noreferrer noopener" target="_blank">Ngữ âm lịch sử của Goldogrin</a> của [Roman Rausch](../R/Roman_Rausch.md)
+- <a class="external text" href="http://web.archive.org/web/20130830082649/http://www.pa2rick.com/langlab/goldogrin_pronouns.html" rel="noreferrer noopener" target="_blank">Đại từ trong Goldogrin</a> của [Patrick H. Wynne](../P/Patrick_H._Wynne.md)
+- <a class="external text" href="http://www.elvish.org/Tengwestie/articles/Wynne/goldpat.phtml" rel="noreferrer noopener" target="_blank">Thì quá khứ trong Goldogrin</a> của Patrick H. Wynne
 
 <span></span>
 

@@ -29,19 +29,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Warwick_Goble_-_And_the_padding_feet_of_many_gnomes_a-coming.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/d/df/Warwick_Goble_-_And_the_padding_feet_of_many_gnomes_a-coming.gif/200px-Warwick_Goble_-_And_the_padding_feet_of_many_gnomes_a-coming.gif" decoding="async" loading="lazy" width="200" height="332" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/df/Warwick_Goble_-_And_the_padding_feet_of_many_gnomes_a-coming.gif 1.5x" data-file-width="285" data-file-height="473"/></a><figcaption><i>And the padding feet of many gnomes a-coming!</i> by <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick_Goble" title="wikipedia:Warwick Goble">Warwick Goble</a></figcaption></figure>
 
-**Bàn chân yêu tinh** là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được viết [27](../_/27_April.md)-[28 tháng 4](../_/28_April.md) [1915](../_/1915.md),<sup id="cite_ref-TAH_1-0" class="reference"><a href="#cite_note-TAH-1">[1]</a></sup> cùng thời điểm với [Bạn và Tôi / và Ngôi nhà của Lost Play](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md).<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
+**Goblin Feet** là một bài thơ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sáng tác. Bài thơ được viết vào ngày [27](../_/27_April.md)-[28 tháng 4](../_/28_April.md) năm [1915](../_/1915.md),<sup id="cite_ref-TAH_1-0" class="reference"><a href="#cite_note-TAH-1">[1]</a></sup> vào khoảng cùng thời điểm với [You and Me / and the Cottage of Lost Play](../T/The_Little_House_of_Lost_Play%253A_Mar_Vanwa_Tyaliéva.md).<sup id="cite_ref-LT1_2-0" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
 
 ## Lịch sử xuất bản {#Publication_history}
 
-"Bàn chân yêu tinh" được xuất bản lần đầu tiên vào [*Oxford Poetry* 1915](../O/Oxford_Poetry_1915.md). Sau đó nó được tái bản trong *[The Book of Fairy Poetry](../T/The_Book_of_Fairy_Poetry.md)* ([1920](../_/1920.md)), một ấn phẩm đáng chú ý vì là tác phẩm nghệ thuật đầu tiên được xuất bản (của Warwick Goble) dựa trên bài viết của Tolkien.<sup id="cite_ref-LT1_2-1" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> Bài thơ đã được xuất bản trong *[Fifty New Poems for Children](../F/Fifty_New_Poems_for_Children.md)* (?[1922](../_/1922.md)), *[Wonder Tales from Fairy Isles](../W/Wonder_Tales_from_Fairy_Isles.md)* ([1929](../_/1929.md)), *[The Open Door to Poetry](../T/The_Open_Door_to_Poetry.md)* ([1931](../_/1931.md)), *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* ([1977](../_/1977.md)), [*Mallorn* 23](../M/Mallorn_23.md) ([1986](../_/1986.md)) và *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md): Phiên bản sửa đổi và mở rộng* ([2002](../_/2002.md)).
+"Goblin Feet" được xuất bản lần đầu trong [*Oxford Poetry* 1915](../O/Oxford_Poetry_1915.md). Sau đó, bài thơ được tái bản trong *[The Book of Fairy Poetry](../T/The_Book_of_Fairy_Poetry.md)* ([1920](../_/1920.md)), một ấn phẩm đáng chú ý vì đây là lần đầu tiên các tác phẩm nghệ thuật (do Warwick Goble thực hiện) dựa trên sáng tác của Tolkien được xuất bản.<sup id="cite_ref-LT1_2-1" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup> Kể từ đó, bài thơ còn được xuất bản trong *[Fifty New Poems for Children](../F/Fifty_New_Poems_for_Children.md)* (?[1922](../_/1922.md)), *[Wonder Tales from Fairy Isles](../W/Wonder_Tales_from_Fairy_Isles.md)* ([1929](../_/1929.md)), *[The Open Door to Poetry](../T/The_Open_Door_to_Poetry.md)* ([1931](../_/1931.md)), *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* ([1977](../_/1977.md)), [*Mallorn* 23](../M/Mallorn_23.md) ([1986](../_/1986.md)) và *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md): Revised and Expanded Edition* ([2002](../_/2002.md)).
 
 <h2><span id="Tolkien.27s_later_thoughts"></span><span class="mw-headline" id="Tolkien&#39;s_later_thoughts">Tolkien&#39;s later thoughts</span></h2>
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg/300px-Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg/450px-Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg/600px-Fifty_New_Poems_for_Children_-_Goblin_Feet.jpg 2x" data-file-width="620" data-file-height="443"/></a><figcaption>&#34;Goblin Feet&#34; in <i><a href="../F/Fifty_New_Poems_for_Children.md" title="Fifty New Poems for Children">Fifty New Poems for Children</a></i>, erroneously attributed to <a href="../T/Tolkein.md" title="Tolkein">J.R.R. Tolkein</a></figcaption></figure>
 
-Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) ghi rằng trong [1971](../_/1971.md) cha anh đã nói: "*Tôi ước gì điều nhỏ bé bất hạnh, đại diện cho tất cả những gì tôi đến (ngay sau đó) để cực kỳ ghét bỏ, có thể bị chôn vùi mãi mãi.*"<sup id="cite_ref-LT1_2-2" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
+Trong *[The Book of Lost Tales Part One](../T/The_Book_of_Lost_Tales_Part_One.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) ghi lại rằng vào [1971](../_/1971.md), cha ông đã nói: "*Ước gì cái thứ nhỏ bé bất hạnh ấy, thứ đại diện cho tất cả những gì mà tôi đã bắt đầu cực kỳ ghét bỏ (chẳng bao lâu sau đó), có thể bị chôn vùi mãi mãi.*"<sup id="cite_ref-LT1_2-2" class="reference"><a href="#cite_note-LT1-2">[2]</a></sup>
 
-[Douglas A. Anderson](../D/Douglas_A._Anderson.md) lập luận rằng việc Tolkien sử dụng 'rất sớm sau đó' gợi ý rằng ông không thích "Goblin Feet" và các yếu tố kỳ quái của nó có lẽ đã có từ giữa đến cuối những năm 1930.<sup id="cite_ref-TAH_1-1" class="reference"><a href="#cite_note-TAH-1">[1]</a></sup>
+[Douglas A. Anderson](../D/Douglas_A._Anderson.md) lập luận rằng cách Tolkien sử dụng cụm từ “chẳng bao lâu sau đó” cho thấy sự ghét bỏ của ông đối với “Goblin Feet” và những yếu tố mang tính kỳ ảo, ngộ nghĩnh trong bài thơ có lẽ bắt đầu từ khoảng giữa đến cuối thập niên 1930.<sup id="cite_ref-TAH_1-1" class="reference"><a href="#cite_note-TAH-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -86,11 +86,11 @@ O! the magic! O! the sorrow when it dies.
 
 ## Xem thêm {#See_also}
 
-- [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
+- [Các bài thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="http://www.tolkienlibrary.com/press/oxfordpoetry1915.htm" rel="noreferrer noopener" target="_blank">Bàn chân yêu tinh, một bài thơ của J.R.R. Tolkien</a>", của [Pieter Collier](../P/Pieter_Collier.md).
+- "<a class="external text" href="http://www.tolkienlibrary.com/press/oxfordpoetry1915.htm" rel="noreferrer noopener" target="_blank">Goblin Feet, một bài thơ của J.R.R. Tolkien</a>", của [Pieter Collier](../P/Pieter_Collier.md).
 
 <span></span>
 
